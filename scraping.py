@@ -20,7 +20,7 @@ def tableAthlete(url):
     athlete = BeautifulSoup(page.content, "html.parser") 
     racesRows = athlete.find_all("a", class_="table-row")
     
-    df = pd.DataFrame(columns=['Name', 'Gender', 'Date', 'Location', 'Country', 'Category', 'Discipline', 'Position', 'FIS Points'])
+    df = pd.DataFrame(columns=['Name', 'Gender', 'Date', 'Location', 'Country', 'Nation', 'Category', 'Discipline', 'Position', 'FIS Points'])
     
     try:
         name = athlete.find("h1", class_="athlete-profile__name").text
@@ -28,6 +28,7 @@ def tableAthlete(url):
         name = listName[1].lower().capitalize() + " " + listName[0].lower().capitalize()
         genderBar = athlete.find("li", id="Gender")
         gender = genderBar.find("span", class_="profile-info__value").text
+        nation = athlete.find("span", class_="country__name").text
         print(name)
     except:
         return df
@@ -42,7 +43,7 @@ def tableAthlete(url):
             position = row.find("div", class_="g-xs-24 g-sm g-md g-lg justify-right").text
             pointsFIS = row.find("div", class_="g-xs-24 g-sm-8 g-md-8 g-lg-8 justify-right").text
                 
-            df.loc[len(df.index)] = [name, gender, date, location, country, category, discipline, position, pointsFIS] 
+            df.loc[len(df.index)] = [name, gender, date, location, country, nation, category, discipline, position, pointsFIS] 
         except:
             print()
         
@@ -50,11 +51,11 @@ def tableAthlete(url):
    
 # Creating a CSV file for every active athlete!!
 def createAthletes(): 
-    for singleAthleteURL in getURLS("https://www.fis-ski.com/DB/snowboard/alpine-snowboard/biographies.html?lastname=&firstname=&sectorcode=SB&gendercode=&birthyear=&skiclub=&skis=&nationcode=&fiscode=&status=O&search=true&limit=10000&offset=1000"):
+    for singleAthleteURL in getURLS("https://www.fis-ski.com/DB/snowboard/snowboard-alpine/biographies.html?lastname=&firstname=&sectorcode=SB&gendercode=&birthyear=&skiclub=&skis=&nationcode=&fiscode=&status=O&search=true&limit=1000&offset=2000"):
         dataFrame = tableAthlete(singleAthleteURL)
         if not dataFrame.empty:
             athleteName = dataFrame.Name.unique()[0].replace(" ", "")
-            dataFrame.to_csv(os.path.join("AthetesCSV",athleteName + ".csv"))
+            dataFrame.to_csv(os.path.join("AthletesCSV",athleteName + ".csv"))
        
        
        
@@ -117,5 +118,5 @@ def createRacesBySeason(season):
     seasonName = df.iloc[0]['Date'][0:4]        
     df.to_csv(seasonName + ".csv")
     
-createRacesBySeason("https://www.fis-ski.com/DB/snowboard/alpine-snowboard/calendar-results.html?eventselection=&place=&sectorcode=SB&seasoncode=2023&categorycode=&disciplinecode=PSL,PGS,GS,SL,PRT&gendercode=&racedate=&racecodex=&nationcode=&seasonmonth=X-2023&saveselection=-1&seasonselection=")
+# createRacesBySeason("https://www.fis-ski.com/DB/snowboard/alpine-snowboard/calendar-results.html?eventselection=&place=&sectorcode=SB&seasoncode=2023&categorycode=&disciplinecode=PSL,PGS,GS,SL,PRT&gendercode=&racedate=&racecodex=&nationcode=&seasonmonth=X-2023&saveselection=-1&seasonselection=")
 createAthletes()
