@@ -144,7 +144,7 @@ def singleAthlete(selectedName, location, selectedDiscipline, categoryList):
             fig.add_trace(go.Line(x=maximumNation['Date'], y=maximumNation['FIS Points'], name='Nation Best'))
 
     # Updating Graph Design
-    fig.update_layout(xaxis_title="Date", yaxis_title="FIS Points", plot_bgcolor='white', paper_bgcolor='#000a5f', width=960, height=500, font_color="white", margin=dict(l=0, r=0, t=0, b=0), hovermode='x unified', showlegend=False)
+    fig.update_layout(xaxis_title="Date", yaxis_title="FIS Points", plot_bgcolor='white', paper_bgcolor='#070635', width=960, height=500, font_color="white", margin=dict(l=0, r=0, t=0, b=0), hovermode='x unified', showlegend=False)
     fig.update_xaxes(gridcolor='lightgrey')
     fig.update_yaxes(gridcolor='lightgrey')
     fig.update_traces(mode="markers+lines", hovertemplate=None)
@@ -182,6 +182,7 @@ def multipleNations(selectedName, selectedNations):
     fig.update_yaxes(gridcolor='lightgrey')
     return fig
 
+# Managing the dropdown options and overall callbacks of the navigation bar
 @callback(
     Output('name-dropbox', 'options'),
     Input('nation-dropbox', 'value'))
@@ -241,7 +242,6 @@ def switchVisibility(content):
    else:
        return {'display':'inline'},  {'display':'none'}
        
-
-
 if __name__ == '__main__':
     app.run(debug=True)
+    
