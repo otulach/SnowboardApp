@@ -110,6 +110,7 @@ app.layout = dbc.Container([
     Input('category-dropbox', 'value'),
     )
 def singleAthlete(selectedName, location, selectedDiscipline, categoryList):
+    # Filtering DataFrame by selected values in navigation bar
     personData = athletes[athletes['Name'] == selectedName]
     if selectedDiscipline == 0:
         slNames = ['Parallel Slalom', 'Slalom']
@@ -126,19 +127,27 @@ def singleAthlete(selectedName, location, selectedDiscipline, categoryList):
     if categoryList != []:
         personData = personData[personData['Category'].isin(categoryList)]
     
+    # Creating a chart
     fig = px.line()
     
     if selectedName != None and personData.empty != True:
-        if selectedName != None:
-            fig = px.line(x=personData['Date'],
-                            y=personData['FIS Points'],
-                            markers=True,
-                            labels=dict(x="Date", y="FIS Points"))
-            
+        fig = px.line(personData, x=personData['Date'], y=personData['FIS Points'], markers=True, color="Name")
+        
+        # Adding a line representing maximum performance for his nation on his race days
+        if len(personData['Nation'].unique()) > 0:
+            hisNation = athletes[athletes['Nation'] == personData['Nation'].unique()[0]]
+            maximumNation = pd.DataFrame(columns=athletes.columns)
+            for date in personData['Date'].unique():
+                nationDayFrame = hisNation[hisNation['Date'] == date]
+                maxIndex = nationDayFrame.nlargest(1, ['FIS Points'])
+                maximumNation = pd.concat([maximumNation, maxIndex])
+            fig.add_trace(go.Line(x=maximumNation['Date'], y=maximumNation['FIS Points'], name='Nation Best'))
+
     # Updating Graph Design
-    fig.update_layout(xaxis_title="Date", yaxis_title="FIS Points", plot_bgcolor='white', paper_bgcolor='#000a5f', width=960, height=500, font_color="white", margin=dict(l=0, r=0, t=0, b=0))
+    fig.update_layout(xaxis_title="Date", yaxis_title="FIS Points", plot_bgcolor='white', paper_bgcolor='#000a5f', width=960, height=500, font_color="white", margin=dict(l=0, r=0, t=0, b=0), hovermode='x unified', showlegend=False)
     fig.update_xaxes(gridcolor='lightgrey')
     fig.update_yaxes(gridcolor='lightgrey')
+    fig.update_traces(mode="markers+lines", hovertemplate=None)
     
     return fig
         
