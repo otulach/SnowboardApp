@@ -51,6 +51,10 @@ def tableAthlete(url):
    
 # Creating a CSV file for every active athlete!!
 def createAthletes(): 
+    try:
+        os.mkdir("AthletesCSV")
+    except:
+        print("Directory AthletesCSV already exists.")
     for singleAthleteURL in getURLS("https://www.fis-ski.com/DB/snowboard/snowboard-alpine/biographies.html?lastname=&firstname=&sectorcode=SB&gendercode=&birthyear=&skiclub=&skis=&nationcode=&fiscode=&status=O&search=true&limit=1000&offset=2000"):
         dataFrame = tableAthlete(singleAthleteURL)
         if not dataFrame.empty:

@@ -5,7 +5,8 @@ import plotly.express as px
 import pandas as pd
 import os
 import numpy as np
-
+import json
+from datetime import datetime
 
 filesCSV = [f for f in os.listdir('AthletesCSV') if f.endswith('.csv')]
 dfs = []
@@ -16,7 +17,18 @@ for csv in filesCSV:
     
 athletes = pd.concat(dfs, ignore_index=True)
 athletes = athletes[athletes['Category'] != "Qualification"]
-maximumPoints = None
+
+athletes['Date Formated'] = athletes.apply(lambda x: datetime.strptime(x['Date'],"%d-%m-%Y"), axis=1)
+athletes = athletes.drop_duplicates()
+
+styles = {
+    'pre': {
+        'border': 'thin lightgrey solid',
+        'overflowX': 'scroll',
+        'color': 'white',
+        'width': '20%',
+    }
+}
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.FLATLY])
 
@@ -27,7 +39,7 @@ app.layout = dbc.Container([
             html.H1([
                 html.Span("Welcome"),
                 html.Br(),
-                html.Span("to an Athlete dashboardard!")
+                html.Span("to an Athlete dashboard!")
             ]),
             
             html.P("This app is designed to give you easy access to all the sports stats you need. Whether you want to follow your nation, check on how athletes are performing, or keep up with race results, you can do it all from one simple dashboard. Our dashboard makes following sports easier and more enjoyable!")
@@ -95,21 +107,64 @@ app.layout = dbc.Container([
             
         ], style={'width': 340, 'margin-left': 35, 'margin-top': 35,'margin-bottom': 35}),
     
+
         html.Div([
-            dcc.Graph(id='athlete-chart'),
-            dcc.Graph(id='nation-chart')
-        ], style={'width': 990, 'margin-top': 55, 'margin-right': 35, 'margin-bottom': 35})
+            html.Div([
+                dcc.Graph(id='athlete-chart'),
+                dcc.Graph(id='nation-chart'),
+            ], style={'width': 990, 'margin-top': 55, 'margin-right': 5, 'margin-bottom': 35}),
+
+            html.Div(className='row', children=[
+                    html.Div([
+                        html.H5('Location:'),
+                        html.Pre(id='click-location', style=styles['pre'])
+                    ], style={'display':'inline-block'}),
+
+                    html.Div([
+                        html.H5('Category:'),
+                        html.Pre(id='click-category', style=styles['pre'])
+                    ], style={'display':'inline-block'}),
+
+                    html.Div([
+                        html.H5('National best:'),
+                        html.Pre(id='click-nationbest', style=styles['pre'])
+                    ], style={'display':'inline-block'}),
+
+                    html.Div([
+                        html.H5('Position:'),
+                        html.Pre(id='click-position', style=styles['pre'])
+                    ], style={'display':'inline-block'}),
+
+                    html.Div([
+                        html.H5('Career best:'),
+                        html.Pre(id='click-best', style=styles['pre'])
+                    ], style={'display':'inline-block'}),
+
+                    html.Div([
+                        html.H5('Average Points:'),
+                        html.H6('(From clicked date)'),
+                        html.Pre(id='click-average', style=styles['pre'])
+                    ], style={'display':'inline-block'}),
+            ], style={'width': 970, 'margin-left': 20, 'margin-top': 5, 'margin-right': 35, 'margin-bottom': 35, 'display': 'flex', 'height':100})
+        ], style={'display':'inline-block'})
         
 ], fluid=True, style={'display': 'flex'}, className='dashboard-container')
 
 @callback(
     Output('athlete-chart', 'figure'),
+    Output('click-location', 'children'),
+    Output('click-position', 'children'),
+    Output('click-best', 'children'),
+    Output('click-average', 'children'),
+    Output('click-category', 'children'),
+    Output('click-nationbest', 'children'),
     Input('name-dropbox', 'value'),
     Input('location-dropbox', 'value'),
     Input('discipline-slider', 'value'),
     Input('category-dropbox', 'value'),
+    Input('athlete-chart', 'clickData'),
     )
-def singleAthlete(selectedName, location, selectedDiscipline, categoryList):
+def singleAthlete(selectedName, location, selectedDiscipline, categoryList, click):
     # Filtering DataFrame by selected values in navigation bar
     personData = athletes[athletes['Name'] == selectedName]
     if selectedDiscipline == 0:
@@ -126,22 +181,51 @@ def singleAthlete(selectedName, location, selectedDiscipline, categoryList):
         categoryList = []
     if categoryList != []:
         personData = personData[personData['Category'].isin(categoryList)]
+
+    # Data for information bar under the graph
+    locationClicked = None
+    positionClicked = None
+    maxPoints = None
+    averageClicked = None
+    categoryClicked = None
+    nationBest = None
+
+    if click != None:
+        clickedDate = click['points'][0]['x']
+
+        dateRow = personData[personData['Date'] == clickedDate]
+        locationClicked = dateRow['Location']
+        positionClicked = dateRow['Position']
+        categoryClicked = dateRow['Position']
+
+        averagetable = personData[personData['Date Formated'] >= datetime.strptime(clickedDate,"%d-%m-%Y")]
+        averageClicked = averagetable['FIS Points'].mean()
     
     # Creating a chart
     fig = px.line()
     
     if selectedName != None and personData.empty != True:
+        # Declaring information bar Non-clicked values
+        maxPoints = personData.max()['FIS Points']
+        if averageClicked == None:
+            averageClicked = personData['FIS Points'].mean()
+
         fig = px.line(personData, x=personData['Date'], y=personData['FIS Points'], markers=True, color="Name")
         
         # Adding a line representing maximum performance for his nation on his race days
         if len(personData['Nation'].unique()) > 0:
             hisNation = athletes[athletes['Nation'] == personData['Nation'].unique()[0]]
+            hisNation = hisNation[hisNation['Gender'] == personData['Gender'].unique()[0]]
             maximumNation = pd.DataFrame(columns=athletes.columns)
             for date in personData['Date'].unique():
                 nationDayFrame = hisNation[hisNation['Date'] == date]
                 maxIndex = nationDayFrame.nlargest(1, ['FIS Points'])
                 maximumNation = pd.concat([maximumNation, maxIndex])
-            fig.add_trace(go.Line(x=maximumNation['Date'], y=maximumNation['FIS Points'], name='Nation Best'))
+            fig.add_trace(go.Line(x=maximumNation['Date'], y=maximumNation['FIS Points'], name='National Best'))
+
+            # Displaying the best racer of the day
+            if click != None:
+                nationBest = maximumNation[maximumNation['Date'] == clickedDate]['Name']
 
     # Updating Graph Design
     fig.update_layout(xaxis_title="Date", yaxis_title="FIS Points", plot_bgcolor='white', paper_bgcolor='#070635', width=960, height=500, font_color="white", margin=dict(l=0, r=0, t=0, b=0), hovermode='x unified', showlegend=False)
@@ -149,7 +233,7 @@ def singleAthlete(selectedName, location, selectedDiscipline, categoryList):
     fig.update_yaxes(gridcolor='lightgrey')
     fig.update_traces(mode="markers+lines", hovertemplate=None)
     
-    return fig
+    return [fig, locationClicked, positionClicked, maxPoints, averageClicked, categoryClicked, nationBest]
         
 @callback(
     Output('nation-chart', 'figure'),
@@ -241,6 +325,7 @@ def switchVisibility(content):
        return {'display':'none'},  {'display':'inline'}
    else:
        return {'display':'inline'},  {'display':'none'}
+   
        
 if __name__ == '__main__':
     app.run(debug=True)
