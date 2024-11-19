@@ -5,7 +5,7 @@ import plotly.express as px
 import pandas as pd
 import os
 import numpy as np
-import json
+import random
 from datetime import datetime
 
 filesCSV = [f for f in os.listdir('AthletesCSV') if f.endswith('.csv')]
@@ -26,25 +26,82 @@ styles = {
         'border': 'thin lightgrey solid',
         'overflowX': 'scroll',
         'color': 'white',
-        'width': '20%',
     }
 }
+
+# Creating a dataframe for current points of single athletes
+def currentPoints(category, gender):
+    allAthletes = athletes[athletes['Gender'] == gender]
+
+    todayDate = datetime.now()
+    yearBack = todayDate.replace(year = todayDate.year - 1)
+
+    allAthletes = allAthletes[(allAthletes['Date Formated'] >= yearBack) & (allAthletes['Date Formated'] <= todayDate)]
+    allAthletes =allAthletes.dropna(subset=['FIS Points'])
+
+    pointsFrame = pd.DataFrame(columns=['Name', 'Current Points', 'Nation'])
+    # Counting the current FIS Points
+    for name in athletes['Name'].unique():
+        singleAthlete = allAthletes[(allAthletes['Name'] == name)]
+
+        # Seeing how many races of the single category this racer did in last year
+        isActive = 1
+        if category != None:
+            racesAmount = singleAthlete['Category'].value_counts()[category]
+            if racesAmount < 3:
+                isActive = 0 
+
+        if len(singleAthlete) >= 2 and isActive == 1:
+            singleAthlete = singleAthlete.sort_values(by='FIS Points', ascending=False)
+            points = singleAthlete['FIS Points'].tolist()
+            hisCurrent = (points[0] + points[1]) / 2
+
+            new = {'Name': name, 'Current Points': hisCurrent, 'Nation': singleAthlete['Nation'].unique()[0]} 
+            newFrame = pd.DataFrame([new])
+            pointsFrame = pd.concat([pointsFrame, newFrame])
+
+    return pointsFrame
+
+def bubbleChartPrep(ridersAmount, category, gender):
+    currentPointsFrame = currentPoints(category, gender)
+
+    nationsBubble = pd.DataFrame(columns=['X', 'Y', 'Points', 'Nation'])
+
+    for nation in currentPointsFrame['Nation'].unique():
+        singleNation = currentPointsFrame[currentPointsFrame['Nation'] == nation].sort_values(by='Current Points', ascending=False)
+
+        headRiders = singleNation['Current Points'].head(ridersAmount)
+        points = headRiders.tolist()
+
+        x = random.randint(0, 99)
+        y = random.randint(0, 99)
+        average = sum(points) / ridersAmount
+        new = {'X': x, 'Y': y, 'Points': average, 'Nation': nation} 
+        newFrame = pd.DataFrame([new])
+        nationsBubble = pd.concat([nationsBubble, newFrame])
+
+    return nationsBubble, headRiders
+
+print(bubbleChartPrep(5, None, 'Male'))
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.FLATLY])
 
 app.layout = dbc.Container([
     html.Div([
         html.Div([
-            
-            html.H1([
+            html.Div([
+                html.H1([
                 html.Span("Welcome"),
                 html.Br(),
                 html.Span("to an Athlete dashboard!")
             ]),
             
-            html.P("This app is designed to give you easy access to all the sports stats you need. Whether you want to follow your nation, check on how athletes are performing, or keep up with race results, you can do it all from one simple dashboard. Our dashboard makes following sports easier and more enjoyable!")
-            ], style={"vertical-alignment": "top", "height": 330}),
-        
+                html.P("This app is designed to give you easy access to all the sports stats you need. Whether you want to follow your nation, check on how athletes are performing, or keep up with race results, you can do it all from one simple dashboard. Our dashboard makes following sports easier and more enjoyable!")
+                ], style={"vertical-alignment": "top", "height": 330}),
+            ],
+            id='introduction'
+        ),
+
             html.Div(dbc.RadioItems(
                 id='layout-buttons',
                 className='btn-group',
@@ -114,38 +171,38 @@ app.layout = dbc.Container([
                 dcc.Graph(id='nation-chart'),
             ], style={'width': 990, 'margin-top': 55, 'margin-right': 5, 'margin-bottom': 35}),
 
-            html.Div(className='row', children=[
+            html.Div(className='roww', children=[
                     html.Div([
                         html.H5('Location:'),
                         html.Pre(id='click-location', style=styles['pre'])
-                    ], style={'display':'inline-block'}),
+                    ], style={'display':'inline-block', 'width' : '100%'}),
 
                     html.Div([
                         html.H5('Category:'),
                         html.Pre(id='click-category', style=styles['pre'])
-                    ], style={'display':'inline-block'}),
+                    ], style={'display':'inline-block', 'width' : '100%'}),
 
                     html.Div([
                         html.H5('National best:'),
                         html.Pre(id='click-nationbest', style=styles['pre'])
-                    ], style={'display':'inline-block'}),
+                    ], style={'display':'inline-block', 'width' : '100%'}),
 
                     html.Div([
                         html.H5('Position:'),
                         html.Pre(id='click-position', style=styles['pre'])
-                    ], style={'display':'inline-block'}),
+                    ], style={'display':'inline-block', 'width' : '100%'}),
 
                     html.Div([
                         html.H5('Career best:'),
                         html.Pre(id='click-best', style=styles['pre'])
-                    ], style={'display':'inline-block'}),
+                    ], style={'display':'inline-block', 'width' : '100%'}),
 
                     html.Div([
                         html.H5('Average Points:'),
                         html.H6('(From clicked date)'),
                         html.Pre(id='click-average', style=styles['pre'])
                     ], style={'display':'inline-block'}),
-            ], style={'width': 970, 'margin-left': 20, 'margin-top': 5, 'margin-right': 35, 'margin-bottom': 35, 'display': 'flex', 'height':100})
+            ], style={'width': 970, 'margin-left': 35, 'margin-top': 5, 'margin-right': 35, 'margin-bottom': 35, 'display': 'flex', 'height':100})
         ], style={'display':'inline-block'})
         
 ], fluid=True, style={'display': 'flex'}, className='dashboard-container')
@@ -196,7 +253,7 @@ def singleAthlete(selectedName, location, selectedDiscipline, categoryList, clic
         dateRow = personData[personData['Date'] == clickedDate]
         locationClicked = dateRow['Location']
         positionClicked = dateRow['Position']
-        categoryClicked = dateRow['Position']
+        categoryClicked = dateRow['Category']
 
         averagetable = personData[personData['Date Formated'] >= datetime.strptime(clickedDate,"%d-%m-%Y")]
         averageClicked = averagetable['FIS Points'].mean()
@@ -240,25 +297,14 @@ def singleAthlete(selectedName, location, selectedDiscipline, categoryList, clic
     Input('name-dropbox', 'value'),
     Input('nation-dropbox', 'value'))
 def multipleNations(selectedName, selectedNations):
-    if type(selectedNations) != list:
-        selectedNations = [selectedNations]
-    nationsFrame = pd.DataFrame(columns=['Date', 'FIS Points', 'Nation'])
-    
-    for nation in selectedNations:
-        frameSingleNation = athletes[athletes['Nation'] == nation]
-        frameSingleNation["FIS Points"] = pd.to_numeric(frameSingleNation["FIS Points"], errors="coerce")
-        frameSingleNation.dropna(subset=["FIS Points"], inplace=True)
-        
-        uniqueDates = frameSingleNation['Date'].unique()
-        if selectedName != None:
-            uniqueDates = athletes[athletes['Name'] == selectedName]['Date'].unique()
-            
-        for date in uniqueDates:
-            finishedThisDay = frameSingleNation[frameSingleNation['Date'] == date]
-        
-            nationsFrame = pd.concat([nationsFrame, pd.DataFrame.from_dict({'Date' : [date], 'FIS Points' : [finishedThisDay["FIS Points"].sum() / len(finishedThisDay)], 'Nation' : [nation]})])
-  
-    fig = px.line(nationsFrame, x='Date', y='FIS Points', color='Nation', markers=True)
+    bubblePrep = bubbleChartPrep(5, None, 'Male')
+
+    nationsBubble = bubblePrep[0]
+    acountedRiders = bubblePrep[1]
+
+    fig = px.scatter(nationsBubble, x="X", y="Y",
+	         size="Points", color="Nation",
+                 hover_name="Nation", log_x=True, size_max=60)
 
     # Updating Graph Design
     fig.update_layout(xaxis_title="Date", yaxis_title="Average FIS Points", plot_bgcolor='white', paper_bgcolor='#000a5f', width=960, height=500, font_color="white", margin=dict(l=0, r=0, t=0, b=0))
@@ -317,14 +363,15 @@ def locationDrop(selectedName, categoryList):
 
 @callback(
    [Output('athlete-chart', 'style'),
-   Output('nation-chart', 'style')],
+   Output('nation-chart', 'style'),
+   Output('introduction', 'style')],
    Input('layout-buttons', 'value')
 )
 def switchVisibility(content):
    if content == 2:
-       return {'display':'none'},  {'display':'inline'}
+       return {'display':'none'},  {'display':'inline'}, {'display':'none'}
    else:
-       return {'display':'inline'},  {'display':'none'}
+       return {'display':'inline'},  {'display':'none'}, {'display':'inline'}
    
        
 if __name__ == '__main__':
