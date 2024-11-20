@@ -1,4 +1,4 @@
-from dash import Dash, dcc, html, Input, Output, callback, State
+from dash import Dash, dcc, html, Input, Output, callback, State, dash_table
 import dash_bootstrap_components as dbc
 import plotly.graph_objs as go
 import plotly.express as px
@@ -66,11 +66,13 @@ def bubbleChartPrep(ridersAmount, category, gender):
     currentPointsFrame = currentPoints(category, gender)
 
     nationsBubble = pd.DataFrame(columns=['X', 'Y', 'Points', 'Nation'])
+    allHeadAthletes = pd.DataFrame() 
 
     for nation in currentPointsFrame['Nation'].unique():
         singleNation = currentPointsFrame[currentPointsFrame['Nation'] == nation].sort_values(by='Current Points', ascending=False)
 
-        headRiders = singleNation['Current Points'].head(ridersAmount)
+        headRidersFull = singleNation.head(ridersAmount)
+        headRiders = headRidersFull['Current Points']
         points = headRiders.tolist()
 
         x = random.randint(0, 99)
@@ -79,10 +81,9 @@ def bubbleChartPrep(ridersAmount, category, gender):
         new = {'X': x, 'Y': y, 'Points': average, 'Nation': nation} 
         newFrame = pd.DataFrame([new])
         nationsBubble = pd.concat([nationsBubble, newFrame])
+        allHeadAthletes = pd.concat([allHeadAthletes, headRidersFull])
 
-    return nationsBubble, headRiders
-
-print(bubbleChartPrep(5, None, 'Male'))
+    return nationsBubble, allHeadAthletes
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.FLATLY])
 
@@ -102,7 +103,13 @@ app.layout = dbc.Container([
             id='introduction'
         ),
 
-            html.Div(dbc.RadioItems(
+        html.Div([
+            dash_table.DataTable(
+                id='counted-athletes'
+            )
+        ], id='counted-athletes-div'),
+
+        html.Div(dbc.RadioItems(
                 id='layout-buttons',
                 className='btn-group',
                 inputClassName='btn-check',
@@ -231,7 +238,6 @@ def singleAthlete(selectedName, location, selectedDiscipline, categoryList, clic
         gsNames = ['Parallel GS', 'Parallel Giant Slalom', 'Giant Slalom']
         personData = personData[personData['Discipline'].isin(gsNames)]
     if personData[personData['Location'] == location].empty != True:
-        print(location)
         personData = personData[personData['Location'] == location]
        
     if categoryList == None:
@@ -293,7 +299,9 @@ def singleAthlete(selectedName, location, selectedDiscipline, categoryList, clic
     return [fig, locationClicked, positionClicked, maxPoints, averageClicked, categoryClicked, nationBest]
         
 @callback(
-    Output('nation-chart', 'figure'),
+    [Output('nation-chart', 'figure'),
+    Output('counted-athletes', 'data'),
+    Output('counted-athletes', 'columns')],
     Input('name-dropbox', 'value'),
     Input('nation-dropbox', 'value'))
 def multipleNations(selectedName, selectedNations):
@@ -302,15 +310,20 @@ def multipleNations(selectedName, selectedNations):
     nationsBubble = bubblePrep[0]
     acountedRiders = bubblePrep[1]
 
+    data=acountedRiders.to_dict('records')
+    columns=[{"name": i, "id": i} for i in acountedRiders.columns]
+
+    print(bubblePrep[1])
+
     fig = px.scatter(nationsBubble, x="X", y="Y",
-	         size="Points", color="Nation",
+	         size="Points", color="Nation", 
                  hover_name="Nation", log_x=True, size_max=60)
 
     # Updating Graph Design
     fig.update_layout(xaxis_title="Date", yaxis_title="Average FIS Points", plot_bgcolor='white', paper_bgcolor='#000a5f', width=960, height=500, font_color="white", margin=dict(l=0, r=0, t=0, b=0))
     fig.update_xaxes(gridcolor='lightgrey')
     fig.update_yaxes(gridcolor='lightgrey')
-    return fig
+    return fig, data, columns
 
 # Managing the dropdown options and overall callbacks of the navigation bar
 @callback(
@@ -347,7 +360,6 @@ def categoryDrop(selectedName):
     Input('name-dropbox', 'value'),
     Input('category-dropbox', 'value'))
 def locationDrop(selectedName, categoryList):
-    print(categoryList)
     b = pd.DataFrame()
     if selectedName != None:
         b = athletes[athletes['Name'] == selectedName]
@@ -364,14 +376,15 @@ def locationDrop(selectedName, categoryList):
 @callback(
    [Output('athlete-chart', 'style'),
    Output('nation-chart', 'style'),
-   Output('introduction', 'style')],
+   Output('introduction', 'style'),
+   Output('counted-athletes-div', 'style')],
    Input('layout-buttons', 'value')
 )
 def switchVisibility(content):
    if content == 2:
-       return {'display':'none'},  {'display':'inline'}, {'display':'none'}
+       return {'display':'none'},  {'display':'inline'}, {'display':'none'}, {'display':'inline'}
    else:
-       return {'display':'inline'},  {'display':'none'}, {'display':'inline'}
+       return {'display':'inline'},  {'display':'none'}, {'display':'inline'}, {'display':'none'}
    
        
 if __name__ == '__main__':
