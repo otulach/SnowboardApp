@@ -14,6 +14,15 @@ def getURLS(biographiesURL):
         urls.append(row.get('href') + "&type=result&categorycode=&sort=&place=&disciplinecode=&position=&limit=1000")
     return urls
 
+# Offset makes it uneasy to scrape all athletes, so this will deal with it.
+def concatURLS(baseUrl):
+    allUrls = []
+    for offset in [0, 1000, 2000, 3000]:
+        urls = getURLS(baseUrl + '&offset=' + str(offset))
+        allUrls.extend(urls)
+    
+    return allUrls
+
 # Making a DataFrame with results of single athlete
 def tableAthlete(url): 
     page = requests.get(url)
@@ -55,7 +64,7 @@ def createAthletes():
         os.mkdir("AthletesCSV")
     except:
         print("Directory AthletesCSV already exists.")
-    for singleAthleteURL in getURLS("https://www.fis-ski.com/DB/snowboard/snowboard-alpine/biographies.html?lastname=&firstname=&sectorcode=SB&gendercode=&birthyear=&skiclub=&skis=&nationcode=&fiscode=&status=O&search=true&limit=1000&offset=2000"):
+    for singleAthleteURL in concatURLS("https://www.fis-ski.com/DB/snowboard/snowboard-alpine/biographies.html?lastname=&firstname=&sectorcode=SB&gendercode=&birthyear=&skiclub=&skis=&nationcode=&fiscode=&status=O&search=true&limit=1000"):
         dataFrame = tableAthlete(singleAthleteURL)
         if not dataFrame.empty:
             athleteName = dataFrame.Name.unique()[0].replace(" ", "")

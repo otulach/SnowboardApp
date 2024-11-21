@@ -259,7 +259,9 @@ app.layout = dbc.Container([
                         html.Pre(id='click-position', style=styles['pre'])
                     ], style={'display':'inline-block', 'width' : '100%'}),
             ], id='info-athlete')
-        ], style={'display':'inline-block'})
+        ], style={'display':'inline-block'}),
+
+        dcc.Store(id="bubble-save")
         
 ], fluid=True, style={'display': 'flex'}, className='dashboard-container')
 
@@ -364,7 +366,8 @@ def nationFromGraph(click, currentNation):
     Output('counted-athletes', 'columns'),
     Output('points-bubble', 'children'),
     Output('rank-bubble', 'children'),
-    Output('nationBubble', 'options')],
+    Output('nationBubble', 'options'),
+    Output('bubble-save', 'data')],
     Input('nationBubble', 'value'),
     Input('genderBubble', 'value'),
     Input('categoryBubble', 'value'))
@@ -400,7 +403,7 @@ def multipleNations(selectedNation, selectedGender, selectedCategory):
     fig.update_xaxes(visible=False, showticklabels=False, gridcolor='lightgrey')
     fig.update_yaxes(visible=False, showticklabels=False, gridcolor='lightgrey')
 
-    return fig, data, columns, nationPoints, nationRank, nationsBubble['Nation'].unique()
+    return fig, data, columns, nationPoints, nationRank + 1, nationsBubble['Nation'].unique(), {"data-frame": df.to_dict("records")}
 
 # Managing the dropdown options and overall callbacks of the navigation bar
 @callback(
