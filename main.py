@@ -17,6 +17,7 @@ for csv in filesCSV:
     
 athletes = pd.concat(dfs, ignore_index=True)
 athletes = athletes[athletes['Category'] != "Qualification"]
+athletes = athletes[athletes['Discipline'].isin(['Parallel Slalom', 'Slalom', 'Parallel GS', 'Parallel Giant Slalom', 'Giant Slalom'])]
 
 athletes['Date Formated'] = athletes.apply(lambda x: datetime.strptime(x['Date'],"%d-%m-%Y"), axis=1)
 athletes = athletes.drop_duplicates()
@@ -39,7 +40,7 @@ def currentPoints(category, gender):
     allAthletes = allAthletes[(allAthletes['Date Formated'] >= yearBack) & (allAthletes['Date Formated'] <= todayDate)]
     allAthletes =allAthletes.dropna(subset=['FIS Points'])
 
-    pointsFrame = pd.DataFrame(columns=['Name', 'Current Points', 'Nation'])
+    pointsFrame = pd.DataFrame(columns=['Name', 'Points', 'Nation'])
     # Counting the current FIS Points
     for name in athletes['Name'].unique():
         singleAthlete = allAthletes[(allAthletes['Name'] == name)]
@@ -56,7 +57,7 @@ def currentPoints(category, gender):
             points = singleAthlete['FIS Points'].tolist()
             hisCurrent = (points[0] + points[1]) / 2
 
-            new = {'Name': name, 'Current Points': hisCurrent, 'Nation': singleAthlete['Nation'].unique()[0]} 
+            new = {'Name': name, 'Points': hisCurrent, 'Nation': singleAthlete['Nation'].unique()[0]} 
             newFrame = pd.DataFrame([new])
             pointsFrame = pd.concat([pointsFrame, newFrame])
 
@@ -69,10 +70,10 @@ def bubbleChartPrep(ridersAmount, category, gender):
     allHeadAthletes = pd.DataFrame() 
 
     for nation in currentPointsFrame['Nation'].unique():
-        singleNation = currentPointsFrame[currentPointsFrame['Nation'] == nation].sort_values(by='Current Points', ascending=False)
+        singleNation = currentPointsFrame[currentPointsFrame['Nation'] == nation].sort_values(by='Points', ascending=False)
 
         headRidersFull = singleNation.head(ridersAmount)
-        headRiders = headRidersFull['Current Points']
+        headRiders = headRidersFull['Points']
         points = headRiders.tolist()
 
         x = random.randint(0, 99)
@@ -83,7 +84,14 @@ def bubbleChartPrep(ridersAmount, category, gender):
         nationsBubble = pd.concat([nationsBubble, newFrame])
         allHeadAthletes = pd.concat([allHeadAthletes, headRidersFull])
 
+    nationsBubble['Points'] = nationsBubble['Points'].round(2)
+    allHeadAthletes['Points'] = allHeadAthletes['Points'].round(2)
+
     return nationsBubble, allHeadAthletes
+
+bubblePrep = bubbleChartPrep(5, None, 'Male')
+lastCategory = None
+lastGender = 'Male'
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.FLATLY])
 
@@ -96,78 +104,130 @@ app.layout = dbc.Container([
                 html.Br(),
                 html.Span("to an Athlete dashboard!")
             ]),
-            
-                html.P("This app is designed to give you easy access to all the sports stats you need. Whether you want to follow your nation, check on how athletes are performing, or keep up with race results, you can do it all from one simple dashboard. Our dashboard makes following sports easier and more enjoyable!")
-                ], style={"vertical-alignment": "top", "height": 330}),
-            ],
-            id='introduction'
-        ),
+
+            html.Div([
+                html.H5('Career best:'),
+                html.Pre(id='click-best', style=styles['pre'])
+            ], style={'display':'inline-block', 'width' : '100%', 'z-index': -1, 'position':'relative'}),
+
+            html.Div([
+                    html.H5('Average Points:'),
+                    html.H6('(From clicked date)'),
+                    html.Pre(id='click-average', style=styles['pre'])
+            ], style={'display':'inline-block', 'width' : '100%'}),
+        ], style={"vertical-alignment": "top"}),], id='introduction'),
 
         html.Div([
-            dash_table.DataTable(
-                id='counted-athletes'
-            )
+            html.Div([
+                    dash_table.DataTable(
+                        id='counted-athletes',
+                        fill_width=False,
+                    ),
+                ], style={'display':'inline-block', 'width' : '100%', 'margin-top': 10, 'margin-bottom': 20}),
+
+            html.Div([
+                    html.H5('Nation Points:'),
+                    html.Pre(id='points-bubble', style=styles['pre'])
+                ], style={'display':'inline-block', 'width' : '100%'}),
+
+            html.Div([
+                    html.H5('Ranking:'),
+                    html.Pre(id='rank-bubble', style=styles['pre'])
+                ], style={'display':'inline-block', 'width' : '100%'}),
         ], id='counted-athletes-div'),
 
         html.Div(dbc.RadioItems(
-                id='layout-buttons',
-                className='btn-group',
-                inputClassName='btn-check',
-                labelClassName="btn btn-outline-light",
-                labelCheckedClassName="btn btn-light",
-                options=[
-                    {"label": "SingleAthlete", "value": 1}, 
-                    {"label": "Table", "value": 2}
-                ],
-                value=1
-            ), style={'width': 206, 'display':'flex'}),
-            
-            html.Div(
-                [
+                    id='layout-buttons',
+                    className='btn-group',
+                    inputClassName='btn-check',
+                    labelClassName="btn btn-outline-light",
+                    labelCheckedClassName="btn btn-light",
+                    options=[
+                        {"label": "SingleAthlete", "value": 1}, 
+                        {"label": "Table", "value": 2}
+                    ],
+                    value=1
+                ), style={'width': 206, 'display':'flex', 'margin-top':15}),
+
+        html.Div([             
+                html.Div(
+                    [
+                    dcc.Dropdown(
+                        athletes['Nation'].unique(),
+                        'Czechia',
+                        multi=True,
+                        className='customDropdown',
+                        id='nation-dropbox'
+                    )
+                ], style={'margin-top': 15, 'margin-bottom': 15}),
+                
                 dcc.Dropdown(
-                    athletes['Nation'].unique(),
-                    'Czechia',
-                    multi=True,
-                    className='customDropdown',
-                    id='nation-dropbox'
-                )
-            ], style={'margin-top': 15, 'margin-bottom': 15}),
-            
-            dcc.Dropdown(
-                athletes['Name'].unique(),
-                'Tulach Jaroslav',
-                id='name-dropbox',
-                className='customDropdown' 
-            ),
-            
-            html.Div(
-                [
-                dcc.Slider(0, 10,
-                    id='discipline-slider',
-                    step=None,
-                    marks={
-                        0: 'SL',
-                        5: 'ALL',
-                        10: 'GS'
-                    },
-                    value=5
-                )
-            ], style={'margin-top': 15, 'margin-bottom': 15}),
-            
-            html.Div(
-                [
-                dcc.Dropdown(
-                id='category-dropbox',
-                multi=True,
-                className='customDropdown' 
+                    athletes['Name'].unique(),
+                    'Tulach Jaroslav',
+                    id='name-dropbox',
+                    className='customDropdown' 
                 ),
                 
-            ],style={'margin-top': 15, 'margin-bottom': 15}),
-            
-            dcc.Dropdown(
-                id='location-dropbox',
-                className='customDropdown'
-                )
+                html.Div(
+                    [
+                    dcc.Slider(0, 10,
+                        id='discipline-slider',
+                        step=None,
+                        marks={
+                            0: 'SL',
+                            5: 'ALL',
+                            10: 'GS'
+                        },
+                        value=5
+                    )
+                ], style={'margin-top': 15, 'margin-bottom': 15}),
+                
+                html.Div(
+                    [
+                    dcc.Dropdown(
+                    id='category-dropbox',
+                    multi=True,
+                    className='customDropdown' 
+                    ),
+                    
+                ],style={'margin-top': 15, 'margin-bottom': 15}),
+                
+                dcc.Dropdown(
+                    id='location-dropbox',
+                    className='customDropdown'
+                    ),
+        ], id='filtration-single'),
+
+        html.Div([             
+                html.Div(
+                    [
+                    dcc.Dropdown(
+                        athletes['Nation'].unique(),
+                        'Germany',
+                        className='customDropdown',
+                        id='nationBubble'
+                    )
+                ], style={'margin-top': 15, 'margin-bottom': 15}),
+
+                html.Div(
+                    [
+                    dcc.Dropdown(
+                        ['Male', 'Female'],
+                        'Male',
+                        id='genderBubble',
+                        className='customDropdown' 
+                    ),
+                ], style={'margin-top': 15, 'margin-bottom': 15}),
+
+                html.Div(
+                    [
+                    dcc.Dropdown(
+                        athletes['Category'].unique(),
+                        id='categoryBubble',
+                        className='customDropdown'
+                    ),
+                ], style={'margin-top': 15, 'margin-bottom': 15}),
+            ], id='filtration-nation'),
             
         ], style={'width': 340, 'margin-left': 35, 'margin-top': 35,'margin-bottom': 35}),
     
@@ -176,9 +236,9 @@ app.layout = dbc.Container([
             html.Div([
                 dcc.Graph(id='athlete-chart'),
                 dcc.Graph(id='nation-chart'),
-            ], style={'width': 990, 'margin-top': 55, 'margin-right': 5, 'margin-bottom': 35}),
+            ], style={'width': 990, 'margin-top': 55, 'margin-right': 5, 'margin-bottom': 35, 'margin-left': 10,}),
 
-            html.Div(className='roww', children=[
+        html.Div(className='roww', children=[
                     html.Div([
                         html.H5('Location:'),
                         html.Pre(id='click-location', style=styles['pre'])
@@ -198,18 +258,7 @@ app.layout = dbc.Container([
                         html.H5('Position:'),
                         html.Pre(id='click-position', style=styles['pre'])
                     ], style={'display':'inline-block', 'width' : '100%'}),
-
-                    html.Div([
-                        html.H5('Career best:'),
-                        html.Pre(id='click-best', style=styles['pre'])
-                    ], style={'display':'inline-block', 'width' : '100%'}),
-
-                    html.Div([
-                        html.H5('Average Points:'),
-                        html.H6('(From clicked date)'),
-                        html.Pre(id='click-average', style=styles['pre'])
-                    ], style={'display':'inline-block'}),
-            ], style={'width': 970, 'margin-left': 35, 'margin-top': 5, 'margin-right': 35, 'margin-bottom': 35, 'display': 'flex', 'height':100})
+            ], id='info-athlete')
         ], style={'display':'inline-block'})
         
 ], fluid=True, style={'display': 'flex'}, className='dashboard-container')
@@ -297,33 +346,61 @@ def singleAthlete(selectedName, location, selectedDiscipline, categoryList, clic
     fig.update_traces(mode="markers+lines", hovertemplate=None)
     
     return [fig, locationClicked, positionClicked, maxPoints, averageClicked, categoryClicked, nationBest]
-        
+
+@callback(
+    Output('nationBubble', 'value'),
+    Input('nation-chart', 'clickData'),
+    State('nationBubble', 'value'),)
+def nationFromGraph(click, currentNation):
+    clickedNation = None
+    if click != None:
+        clickedNation = click['points'][0]['hovertext']
+        return clickedNation
+    return currentNation
+
 @callback(
     [Output('nation-chart', 'figure'),
     Output('counted-athletes', 'data'),
-    Output('counted-athletes', 'columns')],
-    Input('name-dropbox', 'value'),
-    Input('nation-dropbox', 'value'))
-def multipleNations(selectedName, selectedNations):
-    bubblePrep = bubbleChartPrep(5, None, 'Male')
+    Output('counted-athletes', 'columns'),
+    Output('points-bubble', 'children'),
+    Output('rank-bubble', 'children'),
+    Output('nationBubble', 'options')],
+    Input('nationBubble', 'value'),
+    Input('genderBubble', 'value'),
+    Input('categoryBubble', 'value'))
+def multipleNations(selectedNation, selectedGender, selectedCategory):
+    # Configuring data passed into the bubble chart
+    bubblePrep = bubbleChartPrep(5, selectedCategory, selectedGender)
 
-    nationsBubble = bubblePrep[0]
+    nationsBubble = bubblePrep[0].sort_values(by='Points', ascending=False)
+    nationsBubble.reset_index(inplace=True)
     acountedRiders = bubblePrep[1]
+    print(nationsBubble)
 
-    data=acountedRiders.to_dict('records')
-    columns=[{"name": i, "id": i} for i in acountedRiders.columns]
+    nationRank = None
+    nationPoints = None
+    data = None
+    columns = None
 
-    print(bubblePrep[1])
+    if selectedNation != None:
+        nationPoints = nationsBubble[nationsBubble['Nation'] == selectedNation]['Points'].unique()[0]
+
+        clickedAthletes = acountedRiders[acountedRiders['Nation'] == selectedNation]
+        data=clickedAthletes.to_dict('records')
+        columns=[{"name": i, "id": i} for i in clickedAthletes.columns]
+
+        nationRank = nationsBubble[nationsBubble['Nation'] == selectedNation].index
 
     fig = px.scatter(nationsBubble, x="X", y="Y",
 	         size="Points", color="Nation", 
                  hover_name="Nation", log_x=True, size_max=60)
 
     # Updating Graph Design
-    fig.update_layout(xaxis_title="Date", yaxis_title="Average FIS Points", plot_bgcolor='white', paper_bgcolor='#000a5f', width=960, height=500, font_color="white", margin=dict(l=0, r=0, t=0, b=0))
-    fig.update_xaxes(gridcolor='lightgrey')
-    fig.update_yaxes(gridcolor='lightgrey')
-    return fig, data, columns
+    fig.update_layout(plot_bgcolor='#070635', paper_bgcolor='#070635', width=960, height=500, font_color="white", margin=dict(l=0, r=0, t=0, b=0))
+    fig.update_xaxes(visible=False, showticklabels=False, gridcolor='lightgrey')
+    fig.update_yaxes(visible=False, showticklabels=False, gridcolor='lightgrey')
+
+    return fig, data, columns, nationPoints, nationRank, nationsBubble['Nation'].unique()
 
 # Managing the dropdown options and overall callbacks of the navigation bar
 @callback(
@@ -377,14 +454,17 @@ def locationDrop(selectedName, categoryList):
    [Output('athlete-chart', 'style'),
    Output('nation-chart', 'style'),
    Output('introduction', 'style'),
-   Output('counted-athletes-div', 'style')],
+   Output('counted-athletes-div', 'style'),
+   Output('filtration-single', 'style'),
+   Output('filtration-nation', 'style'),
+   Output('info-athlete', 'style')],
    Input('layout-buttons', 'value')
 )
 def switchVisibility(content):
    if content == 2:
-       return {'display':'none'},  {'display':'inline'}, {'display':'none'}, {'display':'inline'}
+       return {'display':'none'},  {'display':'inline'}, {'display':'none'}, {'margin-top':20}, {'display':'none'}, {'display':'inline'}, {'display':'none'}
    else:
-       return {'display':'inline'},  {'display':'none'}, {'display':'inline'}, {'display':'none'}
+       return {'display':'inline'},  {'display':'none'}, {'display':'inline'}, {'display':'none'}, {'display':'inline'}, {'display':'none'}, {'width': 970, 'margin-left': 35, 'margin-top': 5, 'margin-right': 35, 'margin-bottom': 35, 'display': 'flex', 'height':100}
    
        
 if __name__ == '__main__':
