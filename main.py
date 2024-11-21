@@ -1,4 +1,4 @@
-from dash import Dash, dcc, html, Input, Output, callback, State, dash_table
+from dash import Dash, dcc, html, Input, Output, callback, State, dash_table, ctx
 import dash_bootstrap_components as dbc
 import plotly.graph_objs as go
 import plotly.express as px
@@ -261,7 +261,8 @@ app.layout = dbc.Container([
             ], id='info-athlete')
         ], style={'display':'inline-block'}),
 
-        dcc.Store(id="bubble-save")
+        dcc.Store(id="bubble-save-graph"),
+        dcc.Store(id="bubble-save-table"),
         
 ], fluid=True, style={'display': 'flex'}, className='dashboard-container')
 
@@ -367,32 +368,41 @@ def nationFromGraph(click, currentNation):
     Output('points-bubble', 'children'),
     Output('rank-bubble', 'children'),
     Output('nationBubble', 'options'),
-    Output('bubble-save', 'data')],
+    Output('bubble-save-graph', 'data'),
+    Output('bubble-save-table', 'data')],
     Input('nationBubble', 'value'),
     Input('genderBubble', 'value'),
-    Input('categoryBubble', 'value'))
-def multipleNations(selectedNation, selectedGender, selectedCategory):
+    Input('categoryBubble', 'value'),
+    Input('bubble-save-graph', 'data'),
+    Input('bubble-save-table', 'data'))
+def multipleNations(selectedNation, selectedGender, selectedCategory, graphStore, tableStore):
     # Configuring data passed into the bubble chart
-    bubblePrep = bubbleChartPrep(5, selectedCategory, selectedGender)
+    if ctx.triggered_id != 'nationBubble' or graphStore == None:
+        bubblePrep = bubbleChartPrep(5, selectedCategory, selectedGender)
 
-    nationsBubble = bubblePrep[0].sort_values(by='Points', ascending=False)
-    nationsBubble.reset_index(inplace=True)
-    acountedRiders = bubblePrep[1]
-    print(nationsBubble)
+        nationsBubble = bubblePrep[0].sort_values(by='Points', ascending=False)
+        nationsBubble.reset_index(inplace=True)
+        acountedRiders = bubblePrep[1]
+        print(nationsBubble)
+    else:
+        nationsBubble = pd.DataFrame(graphStore["data-frame"])
+        acountedRiders = pd.DataFrame(tableStore["data-frame"])
 
     nationRank = None
     nationPoints = None
     data = None
     columns = None
 
+    # Calculating information about the nation
     if selectedNation != None:
-        nationPoints = nationsBubble[nationsBubble['Nation'] == selectedNation]['Points'].unique()[0]
+        nationFrame = nationsBubble[nationsBubble['Nation'] == selectedNation]
+        nationPoints = nationFrame['Points'].unique()[0]
 
         clickedAthletes = acountedRiders[acountedRiders['Nation'] == selectedNation]
         data=clickedAthletes.to_dict('records')
         columns=[{"name": i, "id": i} for i in clickedAthletes.columns]
 
-        nationRank = nationsBubble[nationsBubble['Nation'] == selectedNation].index
+        nationRank = nationFrame.index
 
     fig = px.scatter(nationsBubble, x="X", y="Y",
 	         size="Points", color="Nation", 
@@ -403,7 +413,7 @@ def multipleNations(selectedNation, selectedGender, selectedCategory):
     fig.update_xaxes(visible=False, showticklabels=False, gridcolor='lightgrey')
     fig.update_yaxes(visible=False, showticklabels=False, gridcolor='lightgrey')
 
-    return fig, data, columns, nationPoints, nationRank + 1, nationsBubble['Nation'].unique(), {"data-frame": df.to_dict("records")}
+    return fig, data, columns, nationPoints, nationRank + 1, nationsBubble['Nation'].unique(), {"data-frame": nationsBubble.to_dict("records")}, {"data-frame": acountedRiders.to_dict("records")}
 
 # Managing the dropdown options and overall callbacks of the navigation bar
 @callback(
