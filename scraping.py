@@ -131,5 +131,5 @@ def createRacesBySeason(season):
     seasonName = df.iloc[0]['Date'][0:4]        
     df.to_csv(seasonName + ".csv")
     
-# createRacesBySeason("https://www.fis-ski.com/DB/snowboard/alpine-snowboard/calendar-results.html?eventselection=&place=&sectorcode=SB&seasoncode=2023&categorycode=&disciplinecode=PSL,PGS,GS,SL,PRT&gendercode=&racedate=&racecodex=&nationcode=&seasonmonth=X-2023&saveselection=-1&seasonselection=")
+createRacesBySeason("https://www.fis-ski.com/DB/snowboard/alpine-snowboard/calendar-results.html?eventselection=&place=&sectorcode=SB&seasoncode=2023&categorycode=&disciplinecode=PSL,PGS,GS,SL,PRT&gendercode=&racedate=&racecodex=&nationcode=&seasonmonth=X-2022&saveselection=-1&seasonselection=")
 createAthletes()
