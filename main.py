@@ -8,6 +8,8 @@ import numpy as np
 import random
 from datetime import datetime
 
+weather = pd.read_csv('Weather2023.csv')
+
 filesCSV = [f for f in os.listdir('AthletesCSV') if f.endswith('.csv')]
 dfs = []
 
@@ -30,6 +32,9 @@ styles = {
     }
 }
 
+a = pd.merge(athletes, weather[['Location', 'Discipline', 'Date', 'Temp Avg', 'Wind Speed']], on=['Location', 'Date'], how="inner")
+print(a)
+
 # Creating a dataframe for current points of single athletes
 def currentPoints(category, gender):
     allAthletes = athletes[athletes['Gender'] == gender]
@@ -42,14 +47,19 @@ def currentPoints(category, gender):
 
     pointsFrame = pd.DataFrame(columns=['Name', 'Points', 'Nation'])
     # Counting the current FIS Points
-    for name in athletes['Name'].unique():
+    for name in allAthletes['Name'].unique():
         singleAthlete = allAthletes[(allAthletes['Name'] == name)]
 
         # Seeing how many races of the single category this racer did in last year
         isActive = 1
         if category != None:
-            racesAmount = singleAthlete['Category'].value_counts()[category]
-            if racesAmount < 3:
+            controledFrame = singleAthlete[singleAthlete['Category'] == category]
+
+            frameSize = len(controledFrame)
+
+            if frameSize <= 1 and (category == 'FIS' or category == 'European Cup'):
+                isActive = 0 
+            elif frameSize <= 0 and category == 'World Cup':
                 isActive = 0 
 
         if len(singleAthlete) >= 2 and isActive == 1:
@@ -84,8 +94,9 @@ def bubbleChartPrep(ridersAmount, category, gender):
         nationsBubble = pd.concat([nationsBubble, newFrame])
         allHeadAthletes = pd.concat([allHeadAthletes, headRidersFull])
 
-    nationsBubble['Points'] = nationsBubble['Points'].round(2)
-    allHeadAthletes['Points'] = allHeadAthletes['Points'].round(2)
+    if len(nationsBubble) > 0:
+        nationsBubble['Points'] = nationsBubble['Points'].round(2)
+        allHeadAthletes['Points'] = allHeadAthletes['Points'].round(2)
 
     return nationsBubble, allHeadAthletes
 
@@ -222,7 +233,7 @@ app.layout = dbc.Container([
                 html.Div(
                     [
                     dcc.Dropdown(
-                        athletes['Category'].unique(),
+                        ['FIS', 'European Cup', 'World Cup'],
                         id='categoryBubble',
                         className='customDropdown'
                     ),
@@ -396,13 +407,14 @@ def multipleNations(selectedNation, selectedGender, selectedCategory, graphStore
     # Calculating information about the nation
     if selectedNation != None:
         nationFrame = nationsBubble[nationsBubble['Nation'] == selectedNation]
-        nationPoints = nationFrame['Points'].unique()[0]
+        if not nationFrame.empty:
+            nationPoints = nationFrame['Points'].unique()[0]
 
-        clickedAthletes = acountedRiders[acountedRiders['Nation'] == selectedNation]
-        data=clickedAthletes.to_dict('records')
-        columns=[{"name": i, "id": i} for i in clickedAthletes.columns]
+            clickedAthletes = acountedRiders[acountedRiders['Nation'] == selectedNation]
+            data=clickedAthletes.to_dict('records')
+            columns=[{"name": i, "id": i} for i in clickedAthletes.columns]
 
-        nationRank = nationFrame.index
+            nationRank = nationFrame.index + 1
 
     fig = px.scatter(nationsBubble, x="X", y="Y",
 	         size="Points", color="Nation", 
@@ -413,7 +425,7 @@ def multipleNations(selectedNation, selectedGender, selectedCategory, graphStore
     fig.update_xaxes(visible=False, showticklabels=False, gridcolor='lightgrey')
     fig.update_yaxes(visible=False, showticklabels=False, gridcolor='lightgrey')
 
-    return fig, data, columns, nationPoints, nationRank + 1, nationsBubble['Nation'].unique(), {"data-frame": nationsBubble.to_dict("records")}, {"data-frame": acountedRiders.to_dict("records")}
+    return fig, data, columns, nationPoints, nationRank, nationsBubble['Nation'].unique(), {"data-frame": nationsBubble.to_dict("records")}, {"data-frame": acountedRiders.to_dict("records")}
 
 # Managing the dropdown options and overall callbacks of the navigation bar
 @callback(

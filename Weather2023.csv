@@ -1,0 +1,145 @@
+Unnamed: 0,Date,Location,Country,Category,Discipline,Date Formated,Temp Min,Temp Avg,Temp Max,Wind Speed
+0,2022-12-10,Goetschen,GER,JUN,Parallel Slalom,2022-12-10,-3.0,-1.9,-1.0,7.2
+2,2022-12-11,Goetschen,GER,JUN,Parallel Slalom,2022-12-11,-3.2,-2.2,-1.1,10.4
+7,2022-12-11,Winterberg,GER,WC,Parallel Slalom,2022-12-11,-5.3,-4.4,-3.9,5.8
+11,2022-12-15,Carezza,ITA,WC,Parallel Giant Slalom,2022-12-15,-4.6,0.2,2.2,5.6
+15,2022-12-17,Cortina,'Ampezz,WC,Parallel Giant Slalom,2022-12-17,-6.9,-2.0,1.5,3.2
+17,2022-12-17,Hochfügen,GER,EC,Parallel Giant Slalom,2022-12-17,-6.9,-2.0,1.5,3.2
+21,2022-12-18,Hochfügen,GER,EC,Parallel Giant Slalom,2022-12-18,-12.7,-9.1,-5.0,2.1
+25,2022-12-20,Bad,astei,EC,Parallel Slalom,2022-12-20,1.8,4.8,8.8,14.9
+29,2022-12-21,Bad,astei,EC,Parallel Slalom,2022-12-21,7.8,11.3,12.8,18.6
+33,2022-12-20,Val,ain,FIS,Parallel Giant Slalom,2022-12-20,5.1,11.8,19.7,8.4
+35,2022-12-21,Val,ain,FIS,Parallel Giant Slalom,2022-12-21,13.4,16.6,21.2,22.1
+37,2023-01-04,Suche/zakopane,POL,NC,Parallel Giant Slalom,2023-01-04,-3.9,-0.9,1.4,6.9
+39,2023-01-05,Suche/zakopane,POL,NC,Parallel Slalom,2023-01-05,-0.2,1.0,2.2,13.1
+41,2023-01-07,Haus,,JUN,Parallel Giant Slalom,2023-01-07,6.6,8.4,11.3,9.3
+43,2023-01-08,Haus,,JUN,Giant Slalom,2023-01-08,3.5,3.9,6.7,9.0
+47,2023-01-10,Bad,astei,WC,Parallel Slalom,2023-01-10,3.8,6.1,9.6,18.0
+50,2023-01-12,Steamboat,k,NAC,Parallel Giant Slalom,2023-01-12,-11.8,-6.8,-3.6,0.0
+52,2023-01-13,Steamboat,k,NAC,Parallel Slalom,2023-01-13,-12.2,-7.7,-1.4,0.7
+54,2023-01-14,Steamboat,k,FIS,Parallel Giant Slalom,2023-01-14,-10.5,-5.3,-0.8,1.9
+70,2023-01-21,Gore,ountai,UVS,Parallel Giant Slalom,2023-01-21,19.5,22.0,25.0,23.2
+74,2023-01-22,Gore,ountai,UVS,Parallel Slalom,2023-01-22,19.1,22.2,25.0,13.6
+78,2023-01-14,Scuol,SUI,WC,Parallel Giant Slalom,2023-01-14,-4.0,-1.0,2.0,7.6
+82,2023-01-14,Alleghe,ITA,EC,Parallel Slalom,2023-01-14,-3.0,0.7,8.0,2.9
+86,2023-01-15,Alleghe,ITA,EC,Parallel Slalom,2023-01-15,-2.4,0.6,3.0,2.2
+90,2023-01-21,Bansko,BUL,WC,Parallel Slalom,2023-01-21,2.8,7.9,11.7,22.0
+94,2023-01-22,Bansko,BUL,WC,Parallel Slalom,2023-01-22,1.9,7.6,14.7,8.3
+96,2023-01-23,Piancavallo,ITA,EYOF,Parallel Giant Slalom,2023-01-23,1.7,6.3,9.2,19.0
+104,2023-01-26,Blue,ountai,WC,Parallel Giant Slalom,2023-01-26,-18.9,-13.8,-6.7,17.2
+108,2023-01-27,Blue,ountai,WC,Parallel Giant Slalom,2023-01-27,-12.8,-6.5,2.0,33.0
+110,2023-01-28,Nova,evant,FIS,Parallel Slalom,2023-01-28,-7.8,-1.5,4.8,9.8
+112,2023-01-29,Nova,evant,FIS,Parallel Slalom,2023-01-29,-4.3,0.9,6.1,7.4
+114,2023-01-28,Simonhöhe,AUT,EC,Parallel Giant Slalom,2023-01-28,-5.9,-4.1,-1.4,7.2
+118,2023-01-29,Simonhöhe,AUT,EC,Parallel Giant Slalom,2023-01-29,-7.9,-3.6,1.7,5.0
+122,2023-01-28,Anilio,GRE,FIS,Giant Slalom,2023-01-28,2.0,6.8,12.0,9.7
+126,2023-01-28,Anilio,GRE,CHI,Giant Slalom,2023-01-28,2.0,6.8,12.0,9.7
+134,2023-01-30,Blue,CAN,NAC,Parallel Giant Slalom,2023-01-30,-23.3,-19.8,-16.1,11.4
+136,2023-01-31,Blue,CAN,NAC,Parallel Slalom,2023-01-31,-26.1,-18.0,-10.6,13.8
+138,2023-02-01,Blue,CAN,NJC,Parallel Giant Slalom,2023-02-01,-19.4,-13.1,-7.8,10.7
+140,2023-02-02,Blue,CAN,NJC,Parallel Slalom,2023-02-02,-24.4,-15.9,-11.0,24.1
+142,2023-02-02,Kopaonik,SRB,FIS,Slalom,2023-02-02,-2.7,0.7,4.9,7.3
+144,2023-02-02,Kopaonik,SRB,CHI,Slalom,2023-02-02,-2.7,0.7,4.9,7.3
+148,2023-02-03,Kopaonik,SRB,FIS,Giant Slalom,2023-02-03,-3.4,0.1,2.4,10.6
+150,2023-02-03,Kopaonik,SRB,CHI,Giant Slalom,2023-02-03,-3.4,0.1,2.4,10.6
+154,2023-02-04,Lenzerheide,SUI,EC,Parallel Slalom,2023-02-04,-10.0,-0.6,3.0,15.3
+156,2023-02-05,Lenzerheide,SUI,EC,Parallel Slalom,2023-02-05,-15.0,-7.5,0.0,7.2
+158,2023-02-04,Gosau,AUT,FIS,Slalom,2023-02-04,-0.9,0.7,2.7,15.1
+162,2023-02-05,Gosau,AUT,FIS,Slalom,2023-02-05,-2.5,-0.7,2.0,7.0
+174,2023-02-07,Popova,apk,NC,Giant Slalom,2023-02-07,-6.4,-3.2,0.1,5.9
+176,2023-02-07,Popova,apk,CHI,Giant Slalom,2023-02-07,-6.4,-3.2,0.1,5.9
+178,2023-02-08,Popova,apk,FIS,Giant Slalom,2023-02-08,-5.8,-2.0,2.7,7.2
+180,2023-02-08,Popova,apk,CHI,Giant Slalom,2023-02-08,-5.8,-2.0,2.7,7.2
+188,2023-02-08,Pamporovo,BUL,FIS,Parallel Slalom,2023-02-08,-5.0,-1.0,3.0,12.0
+190,2023-02-09,Pamporovo,BUL,FIS,Parallel Slalom,2023-02-09,-8.0,-2.7,3.0,8.8
+192,2023-02-10,Cedars-capucine,LBN,FIS,Giant Slalom,2023-02-10,6.0,8.6,12.1,7.3
+194,2023-02-11,Cedars-capucine,LBN,FIS,Giant Slalom,2023-02-11,5.0,7.8,11.6,10.4
+196,2023-02-11,Alpine,k,FIS,Parallel Giant Slalom,2023-02-11,-3.6,-2.4,-0.6,17.0
+198,2023-02-11,Seli,GRE,NC,Giant Slalom,2023-02-11,-6.0,0.0,9.0,4.6
+199,2023-02-11,Seli,GRE,FIS,Giant Slalom,2023-02-11,-6.0,0.0,9.0,4.6
+202,2023-02-11,Seli,GRE,CHI,Giant Slalom,2023-02-11,-6.0,0.0,9.0,4.6
+206,2023-02-12,Seli,GRE,NC,Slalom,2023-02-12,-5.0,-0.3,6.0,5.3
+208,2023-02-12,Seli,GRE,CHI,Slalom,2023-02-12,-5.0,-0.3,6.0,5.3
+210,2023-02-11,Funes,,FIS,Parallel Giant Slalom,2023-02-11,-5.9,2.1,12.6,5.1
+212,2023-02-12,Funes,,FIS,Parallel Giant Slalom,2023-02-12,-5.7,2.6,13.2,6.2
+214,2023-02-12,Cedars,LBN,FIS,Giant Slalom,2023-02-12,6.2,4.6,10.1,20.4
+216,2023-02-13,Cedars,LBN,FIS,Giant Slalom,2023-02-13,3.8,7.9,13.4,30.9
+218,2023-02-14,Cedars,LBN,NC,Giant Slalom,2023-02-14,1.3,6.3,11.9,18.3
+220,2023-02-13,Bukovel,UKR,NC,Parallel Giant Slalom,2023-02-13,-5.8,0.9,6.0,16.6
+222,2023-02-14,Bukovel,UKR,NC,Parallel Slalom,2023-02-14,1.6,3.2,4.3,25.5
+224,2023-02-13,Palandoken,,FIS,Parallel Giant Slalom,2023-02-13,-18.0,-14.6,-4.9,5.9
+226,2023-02-15,Palandoken,,FIS,Parallel Slalom,2023-02-15,-21.2,-15.0,-5.1,6.5
+228,2023-02-17,Palandoken,,FIS,Parallel Giant Slalom,2023-02-17,-24.6,-16.1,-3.7,4.6
+229,2023-02-18,Bardonecchia,ITA,FIS,Parallel Slalom,2023-02-18,2.1,4.9,11.6,3.0
+231,2023-02-19,Bardonecchia,ITA,FIS,Parallel Slalom,2023-02-19,-0.4,4.8,12.6,4.6
+233,2023-02-18,Giants,idg,NAC,Parallel Giant Slalom,2023-02-18,7.0,10.4,12.0,19.6
+235,2023-02-18,Giants,idg,FIS,Parallel Giant Slalom,2023-02-18,7.0,10.4,12.0,19.6
+237,2023-02-19,Giants,idg,NAC,Parallel Slalom,2023-02-19,7.0,9.8,13.0,23.3
+241,2023-02-19,Bakuriani,GEO,WSC,Parallel Giant Slalom,2023-02-19,-4.9,-0.5,3.6,8.3
+245,2023-02-21,Bakuriani,GEO,WSC,Parallel Slalom,2023-02-21,-4.4,-0.6,1.3,12.8
+265,2023-02-23,Beaver,alle,FIS,Parallel Slalom,2023-02-23,9.4,16.4,22.0,18.9
+267,2023-02-25,Simonhoehe,AUT,JUN,Parallel Giant Slalom,2023-02-25,-0.2,5.8,11.5,8.1
+269,2023-02-26,Simonhoehe,AUT,JUN,Parallel Giant Slalom,2023-02-26,-3.7,-2.2,-0.7,16.5
+271,2023-02-25,Dolni,orav,FIS,Parallel Giant Slalom,2023-02-25,-2.0,0.8,3.1,23.7
+272,2023-02-25,Dolni,orav,JUN,Parallel Giant Slalom,2023-02-25,-2.0,0.8,3.1,23.7
+275,2023-02-26,Dolni,orav,FIS,Parallel Slalom,2023-02-26,-2.9,-2.0,0.2,18.8
+276,2023-02-26,Dolni,orav,JUN,Parallel Slalom,2023-02-26,-2.9,-2.0,0.2,18.8
+279,2023-02-27,Dolni,orav,FIS,Parallel Slalom,2023-02-27,-4.1,-2.8,-1.0,18.5
+280,2023-02-27,Dolni,orav,JUN,Parallel Slalom,2023-02-27,-4.1,-2.8,-1.0,18.5
+283,2023-02-27,Holiday,alle,NAC,Parallel Giant Slalom,2023-02-27,14.0,20.0,25.0,11.0
+285,2023-02-28,Holiday,alle,NAC,Parallel Giant Slalom,2023-02-28,20.0,22.5,26.0,11.6
+291,2023-03-04,Akan,JPN,FIS,Parallel Giant Slalom,2023-03-04,-11.5,-3.2,1.8,13.6
+293,2023-03-03,Spindleruv,ly,FIS,Parallel Giant Slalom,2023-03-03,-6.9,-2.4,2.6,3.8
+294,2023-03-03,Spindleruv,ly,JUN,Parallel Giant Slalom,2023-03-03,-6.9,-2.4,2.6,3.8
+297,2023-03-04,Spindleruv,ly,NC,Parallel Giant Slalom,2023-03-04,-7.2,-2.5,0.0,7.7
+299,2023-03-04,Spindleruv,ly,NJC,Parallel Giant Slalom,2023-03-04,-7.2,-2.5,0.0,7.7
+301,2023-03-05,Spindleruv,ly,NC,Parallel Slalom,2023-03-05,-3.4,-2.9,-2.2,8.6
+303,2023-03-05,Spindleruv,ly,NJC,Parallel Slalom,2023-03-05,-3.4,-2.9,-2.2,8.6
+305,2023-03-04,Zakopane,POL,EC,Parallel Giant Slalom,2023-03-04,-5.4,-1.0,5.3,5.4
+307,2023-03-05,Zakopane,POL,EC,Parallel Giant Slalom,2023-03-05,-7.1,-5.4,-3.6,4.6
+309,2023-03-04,Val,enale,FIS,Parallel Slalom,2023-03-04,1.2,7.9,15.0,9.3
+311,2023-03-05,Val,enale,FIS,Parallel Slalom,2023-03-05,1.9,10.3,18.1,11.6
+313,2023-03-05,Akan,JPN,NC,Parallel Giant Slalom,2023-03-05,-8.7,-2.1,2.2,12.4
+315,2023-03-09,Horseshoe,esor,NAC,Parallel Slalom,2023-03-09,-2.5,1.1,4.6,18.6
+317,2023-03-10,Horseshoe,esor,NAC,Parallel Slalom,2023-03-10,-2.3,-0.8,0.7,32.7
+319,2023-03-10,Horseshoe,esor,FIS,Parallel Slalom,2023-03-10,-2.3,-0.8,0.7,32.7
+321,2023-03-11,Horseshoe,esor,FIS,Parallel Giant Slalom,2023-03-11,-3.5,-1.5,0.6,18.7
+323,2023-03-11,Livigno,ITA,WC,Parallel Giant Slalom,2023-03-11,-2.3,-0.4,2.0,15.8
+327,2023-03-12,Livigno,ITA,WC,Parallel Slalom,2023-03-12,-4.7,0.2,4.0,8.8
+331,2023-03-11,Piancavallo,ITA,WC,Parallel Slalom,2023-03-11,6.7,10.5,14.9,11.5
+334,2023-03-11,Davos,SUI,EC,Parallel Slalom,2023-03-11,-4.0,-2.5,-1.5,14.3
+336,2023-03-12,Davos,SUI,EC,Parallel Slalom,2023-03-12,-2.5,-0.3,2.9,6.2
+338,2023-03-11,Ortisei,ITA,FIS,Giant Slalom,2023-03-11,4.5,13.1,20.3,8.9
+340,2023-03-12,Ortisei,ITA,FIS,Giant Slalom,2023-03-12,2.0,11.4,18.2,6.7
+344,2023-03-15,Rogla,SLO,WC,Parallel Giant Slalom,2023-03-15,5.0,6.1,11.4,18.8
+348,2023-03-18,Berchtesgaden,GER,WC,Parallel Slalom,2023-03-18,5.0,10.2,16.2,9.0
+353,2023-03-18,Ratschings,ITA,EC,Parallel Slalom,2023-03-18,-2.4,4.6,16.2,5.0
+357,2023-03-19,Ratschings,ITA,EC,Parallel Slalom,2023-03-19,-0.6,5.1,12.4,6.7
+359,2023-03-21,Kopaonik,SRB,FIS,Slalom,2023-03-21,4.8,7.9,10.7,4.8
+363,2023-03-21,Kopaonik,SRB,CHI,Slalom,2023-03-21,4.8,7.9,10.7,4.8
+371,2023-03-22,Kopaonik,SRB,NC,Giant Slalom,2023-03-22,4.5,9.1,14.6,8.7
+373,2023-03-22,Kopaonik,SRB,CHI,Giant Slalom,2023-03-22,4.5,9.1,14.6,8.7
+377,2023-03-23,Kopaonik,SRB,NC,Slalom,2023-03-23,1.0,9.6,17.9,3.5
+379,2023-03-23,Kopaonik,SRB,CHI,Slalom,2023-03-23,1.0,9.6,17.9,3.5
+385,2023-03-24,Bansko,BUL,WJC,Parallel Giant Slalom,2023-03-24,3.3,12.9,22.3,7.9
+389,2023-03-25,Bansko,BUL,WJC,Parallel Slalom,2023-03-25,4.4,13.6,20.9,6.3
+392,2023-03-24,Kopaonik,SRB,FIS,Giant Slalom,2023-03-24,3.3,12.1,21.1,4.5
+396,2023-03-24,Kopaonik,SRB,CHI,Giant Slalom,2023-03-24,3.3,12.1,21.1,4.5
+404,2023-03-25,Villach,,FIS,Parallel Slalom,2023-03-25,-0.5,1.4,3.6,6.0
+406,2023-03-26,Villach,,FIS,Parallel Slalom,2023-03-26,-2.7,1.5,4.2,6.8
+408,2023-03-27,Bansko,BUL,NC,Parallel Giant Slalom,2023-03-27,5.8,11.3,15.7,19.7
+410,2023-03-28,Bansko,BUL,NC,Parallel Slalom,2023-03-28,1.9,5.0,7.9,28.8
+412,2023-03-30,Cortina,Ampezz,NC,Parallel Slalom,2023-03-30,0.4,6.4,13.2,6.6
+414,2023-03-31,Cortina,Ampezz,NC,Parallel Giant Slalom,2023-03-31,1.2,4.7,7.7,10.1
+416,2023-04-01,Haus,,NC,Parallel Giant Slalom,2023-04-01,9.4,11.9,16.6,21.9
+418,2023-04-02,Haus,,NC,Parallel Slalom,2023-04-02,6.0,8.4,11.5,19.3
+420,2023-04-01,Pizol,SUI,NC,Parallel Giant Slalom,2023-04-01,2.7,4.4,7.0,4.7
+424,2023-04-02,Pizol,SUI,NC,Parallel Slalom,2023-04-02,2.1,4.4,7.5,4.6
+430,2023-04-03,Copper,ountai,NC,Parallel Giant Slalom,2023-04-03,19.0,21.8,25.0,5.3
+432,2023-04-04,Copper,ountai,NC,Parallel Slalom,2023-04-04,19.0,22.0,25.5,5.1
+442,2023-04-10,Krvavec,SLO,NC,Parallel Giant Slalom,2023-04-10,2.9,7.1,13.4,5.6
+443,2023-04-10,Krvavec,SLO,NC,Slalom,2023-04-10,2.9,7.1,13.4,5.6
+446,2023-04-10,Krvavec,SLO,NJC,Parallel Giant Slalom,2023-04-10,2.9,7.1,13.4,5.6
+447,2023-04-10,Krvavec,SLO,NJC,Slalom,2023-04-10,2.9,7.1,13.4,5.6
+450,2023-04-10,Krvavec,SLO,CHI,Parallel Giant Slalom,2023-04-10,2.9,7.1,13.4,5.6
+451,2023-04-10,Krvavec,SLO,CHI,Slalom,2023-04-10,2.9,7.1,13.4,5.6
