@@ -1,0 +1,460 @@
+,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
+0,Shiba Masaki,Male,17-03-2024,St. Moritz,SUI,Japan,European Cup,Parallel Slalom,16,54.00
+1,Shiba Masaki,Male,16-03-2024,St. Moritz,SUI,Japan,European Cup,Parallel Giant Slalom,11,86.40
+2,Shiba Masaki,Male,10-03-2024,Winterberg,GER,Japan,World Cup,Parallel Slalom Team,17,
+3,Shiba Masaki,Male,09-03-2024,Winterberg,GER,Japan,Qualification,Parallel Slalom,DNF,
+4,Shiba Masaki,Male,09-03-2024,Winterberg,GER,Japan,World Cup,Parallel Slalom,DNF,
+5,Shiba Masaki,Male,25-02-2024,Krynica,POL,Japan,Qualification,Parallel Giant Slalom,26,
+6,Shiba Masaki,Male,25-02-2024,Krynica,POL,Japan,World Cup,Parallel Giant Slalom,26,50.00
+7,Shiba Masaki,Male,24-02-2024,Krynica,POL,Japan,Qualification,Parallel Giant Slalom,28,
+8,Shiba Masaki,Male,24-02-2024,Krynica,POL,Japan,World Cup,Parallel Giant Slalom,28,40.00
+9,Shiba Masaki,Male,10-02-2024,"Alpine Ski Club,",CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,9,92.80
+10,Shiba Masaki,Male,09-02-2024,"Alpine Ski Club,",CAN,Japan,Nor-Am Cup,Parallel Slalom,8,102.40
+11,Shiba Masaki,Male,06-02-2024,Val Saint Come,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,1,320.00
+12,Shiba Masaki,Male,05-02-2024,Val Saint Come,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,2,256.00
+13,Shiba Masaki,Male,28-01-2024,Simonhöhe,AUT,Japan,World Cup,Parallel Giant Slalom Team,8,
+14,Shiba Masaki,Male,27-01-2024,Simonhöhe,AUT,Japan,Qualification,Parallel Giant Slalom,14,
+15,Shiba Masaki,Male,27-01-2024,Simonhöhe,AUT,Japan,World Cup,Parallel Giant Slalom,14,180.00
+16,Shiba Masaki,Male,25-01-2024,Rogla,SLO,Japan,Qualification,Parallel Giant Slalom,21,
+17,Shiba Masaki,Male,25-01-2024,Rogla,SLO,Japan,World Cup,Parallel Giant Slalom,21,100.00
+18,Shiba Masaki,Male,21-01-2024,Pamporovo,BUL,Japan,Qualification,Parallel Slalom,17,
+19,Shiba Masaki,Male,21-01-2024,Pamporovo,BUL,Japan,World Cup,Parallel Slalom,17,140.00
+20,Shiba Masaki,Male,20-01-2024,Pamporovo,BUL,Japan,Qualification,Parallel Slalom,24,
+21,Shiba Masaki,Male,20-01-2024,Pamporovo,BUL,Japan,World Cup,Parallel Slalom,24,70.00
+22,Shiba Masaki,Male,16-01-2024,Bad Gastein,AUT,Japan,Qualification,Parallel Slalom,17,
+23,Shiba Masaki,Male,16-01-2024,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,17,140.00
+24,Shiba Masaki,Male,13-01-2024,Scuol,SUI,Japan,Qualification,Parallel Giant Slalom,16,
+25,Shiba Masaki,Male,13-01-2024,Scuol,SUI,Japan,World Cup,Parallel Giant Slalom,16,150.00
+26,Shiba Masaki,Male,23-12-2023,Davos,SUI,Japan,Qualification,Parallel Slalom,15,
+27,Shiba Masaki,Male,23-12-2023,Davos ,SUI,Japan,World Cup,Parallel Slalom,15,160.00
+28,Shiba Masaki,Male,16-12-2023,Cortina d'Ampezzo,ITA,Japan,Qualification,Parallel Giant Slalom,22,
+29,Shiba Masaki,Male,16-12-2023,Cortina d'Ampezzo,ITA,Japan,World Cup,Parallel Giant Slalom,22,90.00
+30,Shiba Masaki,Male,14-12-2023,Carezza,ITA,Japan,Qualification,Parallel Giant Slalom,22,
+31,Shiba Masaki,Male,14-12-2023,Carezza,ITA,Japan,World Cup,Parallel Giant Slalom,22,90.00
+32,Shiba Masaki,Male,09-12-2023,Götschen,GER,Japan,Qualification,Parallel Slalom,5,
+33,Shiba Masaki,Male,09-12-2023,Götschen,GER,Japan,European Cup,Parallel Slalom,6,144.00
+34,Shiba Masaki,Male,08-12-2023,Götschen,GER,Japan,Qualification,Parallel Slalom,9,
+35,Shiba Masaki,Male,08-12-2023,Götschen,GER,Japan,European Cup,Parallel Slalom,9,104.40
+36,Shiba Masaki,Male,19-03-2023,Berchtesgaden,GER,Japan,World Cup,Parallel Slalom Team,16,
+37,Shiba Masaki,Male,18-03-2023,Berchtesgaden,GER,Japan,Qualification,Parallel Slalom,34,
+38,Shiba Masaki,Male,18-03-2023,Berchtesgaden,GER,Japan,World Cup,Parallel Slalom,34,22.00
+39,Shiba Masaki,Male,15-03-2023,Rogla,SLO,Japan,World Cup,Parallel Giant Slalom,24,70.00
+40,Shiba Masaki,Male,15-03-2023,Rogla,SLO,Japan,Qualification,Parallel Giant Slalom,24,
+41,Shiba Masaki,Male,22-02-2023,Bakuriani,GEO,Japan,World Championships,Parallel Slalom Team,17,
+42,Shiba Masaki,Male,21-02-2023,Bakuriani,GEO,Japan,Qualification,Parallel Slalom,DSQ,
+43,Shiba Masaki,Male,21-02-2023,Bakuriani,GEO,Japan,World Championships,Parallel Slalom,DSQ,
+44,Shiba Masaki,Male,19-02-2023,Bakuriani,GEO,Japan,Qualification,Parallel Giant Slalom,15,
+45,Shiba Masaki,Male,19-02-2023,Bakuriani,GEO,Japan,World Championships,Parallel Giant Slalom,15,160.00
+46,Shiba Masaki,Male,27-01-2023,Blue Mountain,CAN,Japan,Qualification,Parallel Giant Slalom,14,
+47,Shiba Masaki,Male,27-01-2023,Blue Mountain,CAN,Japan,World Cup,Parallel Giant Slalom,4,500.00
+48,Shiba Masaki,Male,26-01-2023,Blue Mountain,CAN,Japan,Qualification,Parallel Giant Slalom,21,
+49,Shiba Masaki,Male,26-01-2023,Blue Mountain,CAN,Japan,World Cup,Parallel Giant Slalom,21,100.00
+50,Shiba Masaki,Male,22-01-2023,Bansko,BUL,Japan,Qualification,Parallel Slalom,26,
+51,Shiba Masaki,Male,22-01-2023,Bansko,BUL,Japan,World Cup,Parallel Slalom,26,50.00
+52,Shiba Masaki,Male,21-01-2023,Bansko,BUL,Japan,Qualification,Parallel Slalom,26,
+53,Shiba Masaki,Male,21-01-2023,Bansko,BUL,Japan,World Cup,Parallel Slalom,26,50.00
+54,Shiba Masaki,Male,14-01-2023,Scuol,SUI,Japan,Qualification,Parallel Giant Slalom,DNF,
+55,Shiba Masaki,Male,14-01-2023,Scuol,SUI,Japan,World Cup,Parallel Giant Slalom,DNF,
+56,Shiba Masaki,Male,10-01-2023,Bad Gastein,AUT,Japan,Qualification,Parallel Slalom,32,
+57,Shiba Masaki,Male,10-01-2023,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,33,24.00
+58,Shiba Masaki,Male,18-12-2022,Hochfügen,GER,Japan,European Cup,Parallel Giant Slalom,2,208.00
+59,Shiba Masaki,Male,18-12-2022,Hochfügen,GER,Japan,Qualification,Parallel Giant Slalom,6,
+60,Shiba Masaki,Male,17-12-2022,Cortina d'Ampezzo,ITA,Japan,Qualification,Parallel Giant Slalom,26,
+61,Shiba Masaki,Male,17-12-2022,Cortina d'Ampezzo,ITA,Japan,World Cup,Parallel Giant Slalom,26,50.00
+62,Shiba Masaki,Male,17-12-2022,Hochfügen,GER,Japan,European Cup,Parallel Giant Slalom,DNS,
+63,Shiba Masaki,Male,15-12-2022,Carezza,ITA,Japan,Qualification,Parallel Giant Slalom,23,
+64,Shiba Masaki,Male,15-12-2022,Carezza,ITA,Japan,World Cup,Parallel Giant Slalom,23,80.00
+65,Shiba Masaki,Male,11-12-2022,Winterberg,GER,Japan,World Cup,Parallel Slalom,36,19.70
+66,Shiba Masaki,Male,10-12-2022,Winterberg,GER,Japan,Qualification,Parallel Slalom,36,
+67,Shiba Masaki,Male,10-12-2022,Winterberg,GER,Japan,World Cup,Parallel Slalom Team,17,
+68,Shiba Masaki,Male,20-03-2022,Berchtesgaden,GER,Japan,World Cup,Parallel  Slalom Team,14,
+69,Shiba Masaki,Male,19-03-2022,Berchtesgaden,GER,Japan,Qualification,Parallel Slalom,29,
+70,Shiba Masaki,Male,19-03-2022,Berchtesgaden,GER,Japan,World Cup,Parallel Slalom,29,36.00
+71,Shiba Masaki,Male,17-03-2022,Rogla,SLO,Japan,European Cup,Parallel Giant Slalom,9,92.80
+72,Shiba Masaki,Male,16-03-2022,Rogla,SLO,Japan,Qualification,Parallel Giant Slalom,34,
+73,Shiba Masaki,Male,16-03-2022,Rogla,SLO,Japan,World Cup,Parallel Giant Slalom,34,22.00
+74,Shiba Masaki,Male,12-03-2022,Piancavallo,ITA,Japan,Qualification,Parallel Slalom,25,
+75,Shiba Masaki,Male,12-03-2022,Piancavallo,ITA,Japan,World Cup,Parallel Slalom,25,60.00
+76,Shiba Masaki,Male,06-03-2022,Lachtal,AUT,Japan,European Cup,Parallel Giant Slalom,9,104.40
+77,Shiba Masaki,Male,05-03-2022,Lachtal,AUT,Japan,European Cup,Parallel Giant Slalom,6,144.00
+78,Shiba Masaki,Male,20-02-2022,Funes - Vilnoess,ITA,Japan,FIS,Parallel Giant Slalom,3,132.00
+79,Shiba Masaki,Male,19-02-2022,Funes - Vilnoess,ITA,Japan,FIS,Parallel Giant Slalom,5,99.00
+80,Shiba Masaki,Male,06-02-2022,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,6,144.00
+81,Shiba Masaki,Male,05-02-2022,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,27,16.20
+82,Shiba Masaki,Male,30-01-2022,Davos,SUI,Japan,European Cup,Parallel Slalom,4,180.00
+83,Shiba Masaki,Male,29-01-2022,Davos,SUI,Japan,European Cup,Parallel Slalom,6,144.00
+84,Shiba Masaki,Male,23-01-2022,Bukovel,UKR,Japan,European Cup,Parallel Giant Slalom,5,117.00
+85,Shiba Masaki,Male,22-01-2022,Bukovel,UKR,Japan,European Cup,Parallel Giant Slalom,2,208.00
+86,Shiba Masaki,Male,15-01-2022,Simonhöhe,AUT,Japan,World Cup,Parallel Giant Slalom Team,22,
+87,Shiba Masaki,Male,14-01-2022,Simonhöhe,AUT,Japan,World Cup,Parallel Giant Slalom,46,16.70
+88,Shiba Masaki,Male,14-01-2022,Simonhöhe,AUT,Japan,Qualification,Parallel Giant Slalom,46,
+89,Shiba Masaki,Male,11-01-2022,Bad Gastein,AUT,Japan,Qualification,Parallel Slalom,34,
+90,Shiba Masaki,Male,11-01-2022,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,34,22.00
+91,Shiba Masaki,Male,08-01-2022,Scuol,SUI,Japan,Qualification,Parallel Giant Slalom,45,
+92,Shiba Masaki,Male,08-01-2022,Scuol,SUI,Japan,World Cup,Parallel Giant Slalom,45,17.00
+93,Shiba Masaki,Male,18-12-2021,Cortina d Ampezzo,ITA,Japan,Qualification,Parallel Giant Slalom,35,
+94,Shiba Masaki,Male,18-12-2021,Cortina d Ampezzo,ITA,Japan,World Cup,Parallel Giant Slalom,35,20.00
+95,Shiba Masaki,Male,16-12-2021,Carezza,ITA,Japan,Qualification,Parallel Giant Slalom,48,
+96,Shiba Masaki,Male,16-12-2021,Carezza,ITA,Japan,World Cup,Parallel Giant Slalom,48,16.10
+97,Shiba Masaki,Male,12-12-2021,Bannoye,RUS,Japan,Qualification,Parallel Slalom,32,
+98,Shiba Masaki,Male,12-12-2021,Bannoye,RUS,Japan,World Cup,Parallel Slalom,32,26.00
+99,Shiba Masaki,Male,11-12-2021,Bannoye,RUS,Japan,Qualification,Parallel Giant Slalom,35,
+100,Shiba Masaki,Male,11-12-2021,Bannoye,RUS,Japan,World Cup,Parallel Giant Slalom,35,20.00
+101,Shiba Masaki,Male,31-03-2021,Villnöss,ITA,Japan,National Championships,Parallel Giant Slalom,11,69.60
+102,Shiba Masaki,Male,30-03-2021,Villnöss,ITA,Japan,National Championships,Parallel Slalom,10,75.40
+103,Shiba Masaki,Male,28-03-2021,Villnöss - Funes,ITA,Japan,FIS,Parallel Slalom,10,57.20
+104,Shiba Masaki,Male,27-03-2021,Villnöss - Funes,ITA,Japan,FIS,Parallel Giant Slalom,9,63.80
+105,Shiba Masaki,Male,21-03-2021,Berchtesgaden,GER,Japan,World Cup,Parallel Slalom Team,15,
+106,Shiba Masaki,Male,20-03-2021,Berchtesgaden,GER,Japan,Qualification,Parallel Slalom,40,
+107,Shiba Masaki,Male,20-03-2021,Berchtesgaden,GER,Japan,World Cup,Parallel Slalom,40,18.50
+108,Shiba Masaki,Male,13-03-2021,Davos Rinerhorn,SUI,Japan,European Cup,Parallel Giant Slalom,56,
+109,Shiba Masaki,Male,09-03-2021,SUCHE/Zakopane,POL,Japan,National Championships,Parallel Slalom,DSQ,
+110,Shiba Masaki,Male,08-03-2021,SUCHE/Zakopane,POL,Japan,National Championships,Parallel Giant Slalom,7,104.40
+111,Shiba Masaki,Male,06-03-2021,Rogla,SLO,Japan,Qualification,Parallel Giant Slalom,37,
+112,Shiba Masaki,Male,06-03-2021,Rogla,SLO,Japan,World Cup,Parallel Giant Slalom,37,19.40
+113,Shiba Masaki,Male,02-03-2021,Rogla,SLO,Japan,World Championships,Parallel Slalom,42,17.90
+114,Shiba Masaki,Male,02-03-2021,Rogla,SLO,Japan,Qualification,Parallel Slalom,42,
+115,Shiba Masaki,Male,01-03-2021,Rogla,SLO,Japan,World Championships,Parallel Giant Slalom,34,22.00
+116,Shiba Masaki,Male,01-03-2021,Rogla,SLO,Japan,Qualification,Parallel Giant Slalom,34,
+117,Shiba Masaki,Male,21-02-2021,Gerlitzen,AUT,Japan,National Championships,Parallel Slalom,12,63.80
+118,Shiba Masaki,Male,20-02-2021,Gerlitzen,AUT,Japan,National Championships,Parallel Giant Slalom,10,75.40
+119,Shiba Masaki,Male,07-02-2021,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,3,132.00
+120,Shiba Masaki,Male,06-02-2021,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,5,99.00
+121,Shiba Masaki,Male,24-01-2021,Davos,SUI,Japan,European Cup,Parallel Slalom,20,39.60
+122,Shiba Masaki,Male,23-01-2021,Davos,SUI,Japan,European Cup,Parallel Slalom,26,18.00
+123,Shiba Masaki,Male,17-01-2021,Simonhoehe,AUT,Japan,European Cup,Parallel Giant Slalom,15,57.60
+124,Shiba Masaki,Male,16-01-2021,Simonhoehe,AUT,Japan,European Cup,Parallel Giant Slalom,12,79.20
+125,Shiba Masaki,Male,02-03-2020,Blue Mountain,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,28,12.80
+126,Shiba Masaki,Male,01-03-2020,Blue Mountain,CAN,Japan,World Cup,Parallel Giant Slalom,18,130.00
+127,Shiba Masaki,Male,01-03-2020,Blue Mountain,CAN,Japan,Qualification,Parallel Giant Slalom,18,
+128,Shiba Masaki,Male,29-02-2020,Blue Mountain,CAN,Japan,World Cup,Parallel Giant Slalom,24,70.00
+129,Shiba Masaki,Male,29-02-2020,Blue Mountain,CAN,Japan,Qualification,Parallel Giant Slalom,24,
+130,Shiba Masaki,Male,22-02-2020,Pyeongchang,KOR,Japan,World Cup,Parallel Giant Slalom,18,130.00
+131,Shiba Masaki,Male,22-02-2020,Pyeongchang,KOR,Japan,Qualification,Parallel Giant Slalom,18,
+132,Shiba Masaki,Male,09-02-2020,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,5,162.00
+133,Shiba Masaki,Male,08-02-2020,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,11,86.40
+134,Shiba Masaki,Male,25-01-2020,Piancavallo,ITA,Japan,World Cup,Parallel Slalom,23,80.00
+135,Shiba Masaki,Male,25-01-2020,Piancavallo,ITA,Japan,Qualification,Parallel Slalom,23,
+136,Shiba Masaki,Male,18-01-2020,Rogla,SLO,Japan,World Cup,Parallel Giant Slalom,16,150.00
+137,Shiba Masaki,Male,18-01-2020,Rogla,SLO,Japan,Qualification,Parallel Giant Slalom,16,
+138,Shiba Masaki,Male,15-01-2020,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom Team,21,
+139,Shiba Masaki,Male,14-01-2020,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,45,17.00
+140,Shiba Masaki,Male,14-01-2020,Bad Gastein,AUT,Japan,Qualification,Parallel Slalom,45,
+141,Shiba Masaki,Male,11-01-2020,Scuol,SUI,Japan,World Cup,Parallel Giant Slalom,29,36.00
+142,Shiba Masaki,Male,11-01-2020,Scuol,SUI,Japan,Qualification,Parallel Giant Slalom,29,
+143,Shiba Masaki,Male,19-12-2019,Carezza,ITA,Japan,Open,Parallel Giant Slalom,30,32.00
+144,Shiba Masaki,Male,14-12-2019,Cortina d Ampezzo,ITA,Japan,World Cup,Parallel Giant Slalom,35,20.00
+145,Shiba Masaki,Male,14-12-2019,Cortina d Ampezzo,ITA,Japan,Qualification,Parallel Giant Slalom,35,
+146,Shiba Masaki,Male,08-12-2019,Bannoye,RUS,Japan,World Cup,Parallel Giant Slalom,39,18.80
+147,Shiba Masaki,Male,08-12-2019,Bannoye,RUS,Japan,Qualification,Parallel Giant Slalom,39,
+148,Shiba Masaki,Male,07-12-2019,Bannoye,RUS,Japan,World Cup,Parallel Slalom,24,70.00
+149,Shiba Masaki,Male,07-12-2019,Bannoye,RUS,Japan,Qualification,Parallel Slalom,24,
+150,Shiba Masaki,Male,31-03-2019,Radstadt,AUT,Japan,National Championships,Parallel Giant Slalom,5,130.50
+151,Shiba Masaki,Male,30-03-2019,Radstadt,AUT,Japan,National Championships,Parallel Slalom,7,104.40
+152,Shiba Masaki,Male,23-03-2019,Winterberg,GER,Japan,World Cup,Parallel Slalom,33,24.00
+153,Shiba Masaki,Male,23-03-2019,Winterberg,GER,Japan,Qualification,Parallel Slalom,33,
+154,Shiba Masaki,Male,17-03-2019,Rogla,SLO,Japan,European Cup,Parallel Giant Slalom,15,57.60
+155,Shiba Masaki,Male,16-03-2019,Rogla,SLO,Japan,European Cup,Parallel Giant Slalom,4,180.00
+156,Shiba Masaki,Male,09-03-2019,Scuol,SUI,Japan,World Cup,Parallel GS,19,120.00
+157,Shiba Masaki,Male,09-03-2019,Scuol,SUI,Japan,Qualification,Parallel Giant Slalom,19,
+158,Shiba Masaki,Male,03-03-2019,Davos,SUI,Japan,European Cup,Parallel Slalom,10,93.60
+159,Shiba Masaki,Male,02-03-2019,Davos,SUI,Japan,European Cup,Parallel Giant Slalom,1,360.00
+160,Shiba Masaki,Male,24-02-2019,Secret Garden,CHN,Japan,World Cup,Parallel Slalom,29,36.00
+161,Shiba Masaki,Male,24-02-2019,Secret Garden,CHN,Japan,Qualification,Parallel Slalom,29,
+162,Shiba Masaki,Male,23-02-2019,Secret Garden,CHN,Japan,World Cup,Parallel Giant Slalom,34,22.00
+163,Shiba Masaki,Male,23-02-2019,Secret Garden,CHN,Japan,Qualification,Parallel Giant Slalom,34,
+164,Shiba Masaki,Male,17-02-2019,Pyeongchang,KOR,Japan,World Cup,Parallel Giant Slalom,44,
+165,Shiba Masaki,Male,17-02-2019,Pyeongchang,KOR,Japan,Qualification,Parallel Giant Slalom,44,
+166,Shiba Masaki,Male,16-02-2019,Pyeongchang,KOR,Japan,World Cup,Parallel Giant Slalom,22,90.00
+167,Shiba Masaki,Male,16-02-2019,Pyeongchang,KOR,Japan,Qualification,Parallel Giant Slalom,22,
+168,Shiba Masaki,Male,05-02-2019,Park City,USA,Japan,World Championships,Parallel Slalom,35,20.00
+169,Shiba Masaki,Male,04-02-2019,Park City,USA,Japan,World Championships,Parallel Giant Slalom,DSQ,
+170,Shiba Masaki,Male,27-01-2019,Moscow,RUS,Japan,World Cup,Parallel Slalom Team,16,
+171,Shiba Masaki,Male,26-01-2019,Moscow,RUS,Japan,World Cup,Parallel Slalom,33,24.00
+172,Shiba Masaki,Male,26-01-2019,Moscow,RUS,Japan,Qualification,Parallel Slalom,33,
+173,Shiba Masaki,Male,19-01-2019,Rogla,SLO,Japan,World Cup,Parallel GS,24,70.00
+174,Shiba Masaki,Male,19-01-2019,Rogla,SLO,Japan,Qualification,Parallel Giant Slalom,24,
+175,Shiba Masaki,Male,11-01-2019,Bad Gastein,AUT,Japan,European Cup,Parallel Slalom,12,79.20
+176,Shiba Masaki,Male,10-01-2019,Bad Gastein,AUT,Japan,European Cup,Parallel Slalom,16,54.00
+177,Shiba Masaki,Male,09-01-2019,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom Team,20,
+178,Shiba Masaki,Male,08-01-2019,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,29,36.00
+179,Shiba Masaki,Male,08-01-2019,Bad Gastein,AUT,Japan,Qualification,Parallel Slalom,29,
+180,Shiba Masaki,Male,06-01-2019,Simonhöhe,AUT,Japan,FIS,Parallel Slalom,4,110.00
+181,Shiba Masaki,Male,15-12-2018,Cortina d'Ampezzo,ITA,Japan,World Cup,Parallel GS,31,28.00
+182,Shiba Masaki,Male,15-12-2018,Cortina d'Ampezzo,ITA,Japan,Qualification,Parallel Giant Slalom,31,
+183,Shiba Masaki,Male,13-12-2018,Carezza,ITA,Japan,World Cup,Parallel GS,42,17.90
+184,Shiba Masaki,Male,13-12-2018,Carezza,ITA,Japan,Qualification,Parallel Giant Slalom,42,
+185,Shiba Masaki,Male,24-03-2018,Davos,SUI,Japan,European Cup,Parallel GS,6,144.00
+186,Shiba Masaki,Male,21-03-2018,Rogla,SLO,Japan,European Cup,Parallel GS,1,360.00
+187,Shiba Masaki,Male,20-03-2018,Rogla,SLO,Japan,European Cup,Parallel GS,4,180.00
+188,Shiba Masaki,Male,18-03-2018,Winterberg,GER,Japan,World Cup,Parallel Slalom Team,12,
+189,Shiba Masaki,Male,17-03-2018,Winterberg,GER,Japan,World Cup,Parallel Slalom,23,80.00
+190,Shiba Masaki,Male,17-03-2018,Winterberg,GER,Japan,Qualification,Parallel Slalom,23,
+191,Shiba Masaki,Male,10-03-2018,Scuol,SUI,Japan,World Cup,Parallel GS,8,320.00
+192,Shiba Masaki,Male,10-03-2018,Scuol,SUI,Japan,Qualification,Parallel GS,10,
+193,Shiba Masaki,Male,03-03-2018,Kayseri,TUR,Japan,World Cup,Parallel GS,26,50.00
+194,Shiba Masaki,Male,03-03-2018,Kayseri,TUR,Japan,Qualification,Parallel GS,26,
+195,Shiba Masaki,Male,24-02-2018,Phoenix Snow Park,KOR,Japan,Qualification,Parallel GS,27,
+196,Shiba Masaki,Male,24-02-2018,Phoenix Snow Park,KOR,Japan,Olympic Winter Games,Parallel GS,27,45.00
+197,Shiba Masaki,Male,28-01-2018,Bansko,BUL,Japan,World Cup,Parallel GS,27,45.00
+198,Shiba Masaki,Male,28-01-2018,Bansko,BUL,Japan,Qualification,Parallel GS,27,
+199,Shiba Masaki,Male,26-01-2018,Bansko,BUL,Japan,World Cup,Parallel GS,24,70.00
+200,Shiba Masaki,Male,26-01-2018,Bansko,BUL,Japan,Qualification,Parallel GS,24,
+201,Shiba Masaki,Male,21-01-2018,Rogla,SLO,Japan,World Cup,Parallel GS,13,200.00
+202,Shiba Masaki,Male,21-01-2018,Rogla,SLO,Japan,Qualification,Parallel GS,11,
+203,Shiba Masaki,Male,20-01-2018,Rogla,SLO,Japan,World Cup,Parallel GS,23,80.00
+204,Shiba Masaki,Male,20-01-2018,Rogla,SLO,Japan,Qualification,Parallel GS,23,
+205,Shiba Masaki,Male,13-01-2018,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom Team,18,
+206,Shiba Masaki,Male,12-01-2018,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,28,40.00
+207,Shiba Masaki,Male,12-01-2018,Bad Gastein,AUT,Japan,Qualification,Parallel Slalom,28,
+208,Shiba Masaki,Male,06-01-2018,Lackenhof,AUT,Japan,World Cup,Parallel GS Team,10,
+209,Shiba Masaki,Male,05-01-2018,Lackenhof,AUT,Japan,World Cup,Parallel GS,6,400.00
+210,Shiba Masaki,Male,05-01-2018,Lackenhof,AUT,Japan,Qualification,Parallel GS,4,
+211,Shiba Masaki,Male,14-12-2017,Carezza,ITA,Japan,World Cup,Parallel GS,9,290.00
+212,Shiba Masaki,Male,14-12-2017,Carezza,ITA,Japan,Qualification,Parallel GS,9,
+213,Shiba Masaki,Male,10-12-2017,Hochfügen,GER,Japan,European Cup,Parallel GS,30,11.52
+214,Shiba Masaki,Male,09-12-2017,Hochfügen,GER,Japan,European Cup,Parallel GS,7,129.60
+215,Shiba Masaki,Male,02-12-2017,Pfelders,ITA,Japan,FIS,Parallel GS,1,220.00
+216,Shiba Masaki,Male,01-12-2017,Pfelders,ITA,Japan,FIS,Parallel GS,1,220.00
+217,Shiba Masaki,Male,07-04-2017,Tremblant.QC,CAN,Japan,National Championships,Parallel GS,6,104.00
+218,Shiba Masaki,Male,06-04-2017,Tremblant.QC,CAN,Japan,Nor-Am Cup,Parallel Slalom,4,160.00
+219,Shiba Masaki,Male,26-03-2017,Sapporo,JPN,Japan,National Championships,Parallel GS,1,180.00
+220,Shiba Masaki,Male,25-03-2017,Sapporo,JPN,Japan,FIS,Parallel GS,DNF2,
+221,Shiba Masaki,Male,19-03-2017,Winterberg,GER,Japan,World Cup,Parallel Slalom Team,11,
+222,Shiba Masaki,Male,18-03-2017,Winterberg,GER,Japan,Qualification,Parallel Slalom,34,
+223,Shiba Masaki,Male,18-03-2017,Winterberg,GER,Japan,World Cup,Parallel Slalom,34,22.00
+224,Shiba Masaki,Male,16-03-2017,Sierra Nevada,ESP,Japan,World Championships,Parallel GS,DSQ,
+225,Shiba Masaki,Male,15-03-2017,Sierra Nevada,ESP,Japan,World Championships,Parallel Slalom,29,36.00
+226,Shiba Masaki,Male,05-03-2017, Erciyes-Kayseri,TUR,Japan,World Cup,Parallel GS,20,110.00
+227,Shiba Masaki,Male,26-02-2017,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,20,39.60
+228,Shiba Masaki,Male,25-02-2017,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,30,11.52
+229,Shiba Masaki,Male,12-02-2017,Phoenix Pyeongchang,KOR,Japan,World Cup,Parallel GS,19,120.00
+230,Shiba Masaki,Male,05-02-2017,Bansko,BUL,Japan,World Cup,Parallel GS,19,120.00
+231,Shiba Masaki,Male,03-02-2017,Bansko,BUL,Japan,World Cup,Parallel GS,24,70.00
+232,Shiba Masaki,Male,28-01-2017,Rogla,SLO,Japan,World Cup,Parallel GS,31,28.00
+233,Shiba Masaki,Male,21-01-2017,Livigno,ITA,Japan,European Cup,Parallel GS,5,162.00
+234,Shiba Masaki,Male,20-01-2017,Livigno,ITA,Japan,European Cup,Parallel GS,5,162.00
+235,Shiba Masaki,Male,15-01-2017,Hochficht,AUT,Japan,National Championships,Parallel Slalom,12,63.80
+236,Shiba Masaki,Male,14-01-2017,Hochficht,AUT,Japan,National Championships,Parallel GS,4,145.00
+237,Shiba Masaki,Male,11-01-2017,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom Team,8,
+238,Shiba Masaki,Male,10-01-2017,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,15,160.00
+239,Shiba Masaki,Male,07-01-2017,Gerlitzen,AUT,Japan,European Cup,Parallel GS,9,104.40
+240,Shiba Masaki,Male,11-12-2016,Hochfügen,GER,Japan,European Cup,Parallel GS,6,144.00
+241,Shiba Masaki,Male,10-12-2016,Hochfügen,GER,Japan,European Cup,Parallel GS,10,93.60
+242,Shiba Masaki,Male,04-11-2016,Landgraaf,NED,Japan,European Cup,Parallel Slalom,49,5.69
+243,Shiba Masaki,Male,03-11-2016,Landgraaf,NED,Japan,European Cup,Parallel Slalom,23,28.80
+244,Shiba Masaki,Male,02-04-2016,Sapporo,JPN,Japan,FIS,Parallel GS,5,99.00
+245,Shiba Masaki,Male,01-04-2016,Sapporo,JPN,Japan,National Championships,Parallel GS,3,144.00
+246,Shiba Masaki,Male,27-03-2016,Racines,ITA,Japan,European Cup,Parallel Slalom,9,130.50
+247,Shiba Masaki,Male,26-03-2016,Racines,ITA,Japan,European Cup,Parallel Slalom,22,45.00
+248,Shiba Masaki,Male,24-03-2016,Rogla,SLO,Japan,European Cup,Parallel Slalom,20,55.00
+249,Shiba Masaki,Male,23-03-2016,Rogla,SLO,Japan,European Cup,Parallel GS,14,90.00
+250,Shiba Masaki,Male,20-03-2016,Gerlitzen,AUT,Japan,European Cup,Parallel GS,8,160.00
+251,Shiba Masaki,Male,19-03-2016,Gerlitzen,AUT,Japan,European Cup,Parallel GS,6,200.00
+252,Shiba Masaki,Male,13-03-2016,Scuol,SUI,Japan,National Championships,Parallel Slalom,8,115.20
+253,Shiba Masaki,Male,12-03-2016,Scuol,SUI,Japan,National Championships,Parallel GS,7,129.60
+254,Shiba Masaki,Male,06-03-2016,Winterberg,GER,Japan,World Cup,Parallel Slalom,19,120.00
+255,Shiba Masaki,Male,27-02-2016,Kayseri,TUR,Japan,World Cup,Parallel GS,DSQ,
+256,Shiba Masaki,Male,21-02-2016,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,25,30.00
+257,Shiba Masaki,Male,20-02-2016,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,21,50.00
+258,Shiba Masaki,Male,30-01-2016,Moscow,RUS,Japan,World Cup,Parallel Slalom,25,60.00
+259,Shiba Masaki,Male,23-01-2016,Rogla,SLO,Japan,World Cup,Parallel GS,40,18.50
+260,Shiba Masaki,Male,17-01-2016,Kreischberg,AUT,Japan,FIS,Parallel GS,9,75.40
+261,Shiba Masaki,Male,16-01-2016,Kreischberg,AUT,Japan,FIS,Parallel GS,4,130.00
+262,Shiba Masaki,Male,08-01-2016,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,32,26.00
+263,Shiba Masaki,Male,19-12-2015,Cortina d'Ampezzo,ITA,Japan,World Cup,Parallel Slalom,21,100.00
+264,Shiba Masaki,Male,12-12-2015,Carezza,ITA,Japan,World Cup,Parallel GS,21,100.00
+265,Shiba Masaki,Male,06-12-2015,Hochfuegen,GER,Japan,European Cup,Parallel GS,5,225.00
+266,Shiba Masaki,Male,05-12-2015,Hochfuegen,GER,Japan,European Cup,Parallel GS,17,70.00
+267,Shiba Masaki,Male,19-11-2015,"Echo Mountain, CO",USA,Japan,Nor-Am Cup,Parallel Slalom,1,400.00
+268,Shiba Masaki,Male,18-11-2015,"Echo Mountain, CO",USA,Japan,Nor-Am Cup,Parallel Slalom,6,160.00
+269,Shiba Masaki,Male,04-04-2015,Sapporo,JPN,Japan,National Championships,Giant Slalom,9,75.40
+270,Shiba Masaki,Male,04-04-2015,Sapporo,JPN,Japan,FIS,Giant Slalom,1,260.00
+271,Shiba Masaki,Male,22-03-2015,Racines,ITA,Japan,European Cup,Parallel Slalom,4,250.00
+272,Shiba Masaki,Male,21-03-2015,Racines,ITA,Japan,European Cup,Parallel Slalom,6,200.00
+273,Shiba Masaki,Male,18-03-2015,Rogla,SLO,Japan,European Cup,Parallel Slalom,2,400.00
+274,Shiba Masaki,Male,17-03-2015,Rogla,SLO,Japan,European Cup,Parallel GS,7,180.00
+275,Shiba Masaki,Male,14-03-2015,Winterberg,GER,Japan,World Cup,Parallel Slalom,21,100.00
+276,Shiba Masaki,Male,07-03-2015,Moscow,RUS,Japan,World Cup,Parallel Slalom,13,200.00
+277,Shiba Masaki,Male,01-03-2015,Asahikawa,JPN,Japan,World Cup,Parallel Slalom,24,70.00
+278,Shiba Masaki,Male,28-02-2015,Asahikawa,JPN,Japan,World Cup,Parallel GS,28,40.00
+279,Shiba Masaki,Male,07-02-2015,Sudelfeld,GER,Japan,World Cup,Parallel GS,20,110.00
+280,Shiba Masaki,Male,06-02-2015,Sudelfeld,GER,Japan,Qualification,Parallel GS,20,
+281,Shiba Masaki,Male,31-01-2015,Rogla,SLO,Japan,World Cup,Parallel GS,19,120.00
+282,Shiba Masaki,Male,23-01-2015,Lachtal,AUT,Japan,World Championships,Parallel GS,17,140.00
+283,Shiba Masaki,Male,22-01-2015,Lachtal,AUT,Japan,World Championships,Parallel Slalom,18,130.00
+284,Shiba Masaki,Male,09-01-2015,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,37,19.40
+285,Shiba Masaki,Male,06-01-2015,Dachstein West / Gosau,AUT,Japan,FIS,Parallel Slalom,2,208.00
+286,Shiba Masaki,Male,05-01-2015,Dachstein West / Gosau,AUT,Japan,FIS,Parallel Slalom,4,130.00
+287,Shiba Masaki,Male,18-12-2014,Montafon,AUT,Japan,World Cup,Parallel Slalom,20,110.00
+288,Shiba Masaki,Male,16-12-2014,Carezza,ITA,Japan,World Cup,Parallel GS,41,18.20
+289,Shiba Masaki,Male,06-04-2014,Sapporo,JPN,Japan,FIS,Giant Slalom,9,58.00
+290,Shiba Masaki,Male,02-04-2014,Rusutsu,JPN,Japan,National Championships,Parallel GS,9,104.40
+291,Shiba Masaki,Male,16-03-2014,Ratsching/Racines,ITA,Japan,European Cup,Parallel Slalom,16,75.00
+292,Shiba Masaki,Male,15-03-2014,Ratsching/Racines,ITA,Japan,European Cup,Parallel Slalom,41,9.10
+293,Shiba Masaki,Male,09-03-2014,Tauplitz,AUT,Japan,FIS,Parallel Slalom,31,7.28
+294,Shiba Masaki,Male,08-03-2014,Tauplitz,AUT,Japan,FIS,Parallel Slalom,8,83.20
+295,Shiba Masaki,Male,05-03-2014,Rogla,SLO,Japan,European Cup,Parallel Slalom,11,120.00
+296,Shiba Masaki,Male,04-03-2014,Rogla,SLO,Japan,European Cup,Parallel GS,9,145.00
+297,Shiba Masaki,Male,01-03-2014,Gerlitzen,AUT,Japan,European Cup,Parallel GS,1,500.00
+298,Shiba Masaki,Male,22-02-2014,Gosau,AUT,Japan,FIS,Slalom,30,0.00
+299,Shiba Masaki,Male,22-02-2014,Gosau,AUT,Japan,FIS,Slalom,3,156.00
+300,Shiba Masaki,Male,16-02-2014,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,7,162.00
+301,Shiba Masaki,Male,15-02-2014,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,4,225.00
+302,Shiba Masaki,Male,26-01-2014,Lizzola Valbondione,ITA,Japan,European Cup,Parallel Slalom,30,16.00
+303,Shiba Masaki,Male,25-01-2014,Lizzola Valbondione,ITA,Japan,European Cup,Parallel Slalom,14,90.00
+304,Shiba Masaki,Male,22-12-2013,Schönberg-Lachtal,AUT,Japan,European Cup,Parallel Slalom,42,
+305,Shiba Masaki,Male,21-12-2013,Schönberg-Lachtal,AUT,Japan,European Cup,Parallel Slalom,18,65.00
+306,Shiba Masaki,Male,15-12-2013,Samnaun,SUI,Japan,FIS,Parallel Slalom,5,117.00
+307,Shiba Masaki,Male,14-12-2013,Samnaun,SUI,Japan,FIS,Parallel Slalom,5,99.00
+308,Shiba Masaki,Male,08-12-2013,Hochfügen,AUT,Japan,European Cup,Parallel GS,41,9.10
+309,Shiba Masaki,Male,07-12-2013,Hochfügen,AUT,Japan,European Cup,Parallel GS,30,16.00
+310,Shiba Masaki,Male,15-11-2013,"Copper Mountain, CO",USA,Japan,Nor-Am Cup,Parallel Slalom,25,
+311,Shiba Masaki,Male,14-11-2013,"Copper Mountain, CO",USA,Japan,Nor-Am Cup,Parallel Slalom,16,75.00
+312,Shiba Masaki,Male,12-11-2013,"Copper Mountain, CO",USA,Japan,Nor-Am Cup,Parallel GS,24,35.00
+313,Shiba Masaki,Male,11-11-2013,"Copper Mountain, CO",USA,Japan,Nor-Am Cup,Parallel GS,19,60.00
+314,Shiba Masaki,Male,04-04-2013,Rusutsu,JPN,Japan,National Championships,Parallel GS,12,79.20
+315,Shiba Masaki,Male,16-03-2013,La Molina,ESP,Japan,World Cup,Parallel GS,26,50.00
+316,Shiba Masaki,Male,10-03-2013,Arosa,SUI,Japan,World Cup,Parallel GS,30,32.00
+317,Shiba Masaki,Male,23-02-2013,Moscow,RUS,Japan,World Cup,Parallel Slalom,40,18.50
+318,Shiba Masaki,Male,14-02-2013,Sochi,RUS,Japan,World Cup,Parallel GS,33,24.00
+319,Shiba Masaki,Male,08-02-2013,Rogla,SLO,Japan,World Cup,Parallel GS,47,16.40
+320,Shiba Masaki,Male,27-01-2013,Stoneham,CAN,Japan,World Championships,Parallel Slalom,33,24.00
+321,Shiba Masaki,Male,25-01-2013,Stoneham,CAN,Japan,World Championships,Parallel GS,26,50.00
+322,Shiba Masaki,Male,12-01-2013,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,24,70.00
+323,Shiba Masaki,Male,11-01-2013,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,19,120.00
+324,Shiba Masaki,Male,21-12-2012,Carezza,ITA,Japan,World Cup,Parallel GS,60,0.00
+325,Shiba Masaki,Male,16-12-2012,Racines/Ratschings,ITA,Japan,European Cup,Parallel Slalom,19,60.00
+326,Shiba Masaki,Male,15-12-2012,Racines/Ratschings,ITA,Japan,European Cup,Parallel Slalom,8,128.00
+327,Shiba Masaki,Male,09-12-2012,Lachtal,AUT,Japan,European Cup,Parallel GS,9,145.00
+328,Shiba Masaki,Male,08-12-2012,Lachtal,AUT,Japan,European Cup,Parallel GS,15,80.00
+329,Shiba Masaki,Male,08-04-2012,Sapporo,JPN,Japan,FIS,Giant Slalom,1,160.00
+330,Shiba Masaki,Male,05-04-2012,Rusutsu,JPN,Japan,National Championships,Parallel GS,3,96.00
+331,Shiba Masaki,Male,17-03-2012,Valmalenco,ITA,Japan,World Cup,Parallel GS,17,140.00
+332,Shiba Masaki,Male,10-03-2012,La Molina,ESP,Japan,World Cup,Parallel GS,10,260.00
+333,Shiba Masaki,Male,03-03-2012,Moscow,RUS,Japan,World Cup,Parallel Slalom,14,180.00
+334,Shiba Masaki,Male,22-02-2012,Stoneham,CAN,Japan,World Cup,Parallel GS,25,60.00
+335,Shiba Masaki,Male,19-02-2012,Le Relais,CAN,Japan,Nor-Am Cup,Parallel Slalom,2,208.00
+336,Shiba Masaki,Male,18-02-2012,Le Relais,CAN,Japan,Nor-Am Cup,Parallel GS,17,70.00
+337,Shiba Masaki,Male,28-01-2012,Sudelfeld,GER,Japan,World Cup,Parallel GS,19,120.00
+338,Shiba Masaki,Male,22-01-2012,Valgardena-S. Cristina-Seceda,ITA,Japan,FIS,Slalom,13,52.00
+339,Shiba Masaki,Male,21-01-2012,Valgardena-S. Cristina-Seceda,ITA,Japan,FIS,Slalom,2,208.00
+340,Shiba Masaki,Male,15-01-2012,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,26,50.00
+341,Shiba Masaki,Male,13-01-2012,Jauerling,AUT,Japan,World Cup,Parallel Slalom,33,24.00
+342,Shiba Masaki,Male,08-01-2012,Kreischberg,AUT,Japan,FIS,Parallel GS,25,15.60
+343,Shiba Masaki,Male,07-01-2012,Kreischberg,AUT,Japan,FIS,Parallel GS,22,23.40
+344,Shiba Masaki,Male,22-12-2011,Carezza,ITA,Japan,World Cup,Parallel Slalom,44,0.00
+345,Shiba Masaki,Male,21-12-2011,Carezza,ITA,Japan,World Cup,Parallel GS,46,
+346,Shiba Masaki,Male,15-12-2011,Telluride,USA,Japan,Qualification,Parallel GS,31,
+347,Shiba Masaki,Male,15-12-2011,Telluride,USA,Japan,World Cup,Parallel GS,31,28.00
+348,Shiba Masaki,Male,13-10-2011,Landgraaf,NED,Japan,World Cup,Parallel Slalom,24,70.00
+349,Shiba Masaki,Male,27-03-2011,Arosa,SUI,Japan,World Cup,Parallel GS,35,20.00
+350,Shiba Masaki,Male,19-03-2011,Valmalenco,ITA,Japan,World Cup,Parallel GS,40,18.50
+351,Shiba Masaki,Male,04-03-2011,Oze Tokura,JPN,Japan,National Championships,Parallel GS,2,112.00
+352,Shiba Masaki,Male,20-02-2011,Stoneham,CAN,Japan,World Cup,Parallel GS,21,100.00
+353,Shiba Masaki,Male,09-02-2011,Yongpyong,KOR,Japan,World Cup,Parallel Slalom,17,140.00
+354,Shiba Masaki,Male,31-01-2011,Oze Tokura,JPN,Japan,FIS,Giant Slalom,3,78.00
+355,Shiba Masaki,Male,30-01-2011,Oze Tokura,JPN,Japan,FIS,Parallel Slalom,2,104.00
+356,Shiba Masaki,Male,22-01-2011,La Molina,ESP,Japan,World Championships,Parallel Slalom,30,32.00
+357,Shiba Masaki,Male,19-01-2011,La Molina,ESP,Japan,World Championships,Parallel GS,27,
+358,Shiba Masaki,Male,12-01-2011,Berchtesgaden/Goetschen,GER,Japan,National Championships,Parallel GS,27,16.20
+359,Shiba Masaki,Male,09-01-2011,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,36,19.70
+360,Shiba Masaki,Male,16-12-2010,Telluride,USA,Japan,World Cup,Parallel GS,32,
+361,Shiba Masaki,Male,11-12-2010,Limone Piemonte,ITA,Japan,World Cup,Parallel Slalom,36,19.70
+362,Shiba Masaki,Male,10-12-2010,Limone Piemonte,ITA,Japan,World Cup,Parallel GS,27,
+363,Shiba Masaki,Male,19-11-2010,"Copper, CO",USA,Japan,Nor-Am Cup,Parallel Slalom,6,160.00
+364,Shiba Masaki,Male,18-11-2010,"Copper, CO",USA,Japan,Nor-Am Cup,Parallel GS,4,225.00
+365,Shiba Masaki,Male,10-10-2010,Landgraaf,NED,Japan,World Cup,Parallel Slalom,11,240.00
+366,Shiba Masaki,Male,21-03-2010,La Molina,ESP,Japan,World Cup,Parallel GS,24,70.00
+367,Shiba Masaki,Male,13-03-2010,Valmalenco,ITA,Japan,World Cup,Parallel GS,29,36.00
+368,Shiba Masaki,Male,05-03-2010,Minamiuonuma,JPN,Japan,National Championships,Parallel GS,1,180.00
+369,Shiba Masaki,Male,06-02-2010,Sudelfeld,GER,Japan,World Cup,Parallel GS,15,160.00
+370,Shiba Masaki,Male,24-01-2010,Stoneham,CAN,Japan,World Cup,Parallel GS,34,22.00
+371,Shiba Masaki,Male,17-01-2010,Nendaz,SUI,Japan,World Cup,Parallel GS,53,14.60
+372,Shiba Masaki,Male,14-01-2010,Nendaz,SUI,Japan,European Cup,Parallel GS,28,20.00
+373,Shiba Masaki,Male,06-01-2010,Kreischberg,AUT,Japan,World Cup,Parallel GS,25,60.00
+374,Shiba Masaki,Male,17-12-2009,Telluride,USA,Japan,World Cup,Parallel GS,38,19.10
+375,Shiba Masaki,Male,15-12-2009,Telluride,USA,Japan,World Cup,Parallel GS,54,0.00
+376,Shiba Masaki,Male,11-12-2009,"Steamboat Springs, CO",USA,Japan,Nor-Am Cup,Parallel GS,8,160.00
+377,Shiba Masaki,Male,05-12-2009,Carezza,ITA,Japan,European Cup,Parallel GS,18,65.00
+378,Shiba Masaki,Male,29-11-2009,"Hochfuegen, Zillertal (AUT)",GER,Japan,European Cup,Parallel GS,35,10.00
+379,Shiba Masaki,Male,28-11-2009,"Hochfuegen, Zillertal (AUT)",GER,Japan,National Championships,Parallel GS,22,32.40
+380,Shiba Masaki,Male,13-11-2009,"Copper, CO",USA,Japan,Nor-Am Cup,Parallel GS,21,50.00
+381,Shiba Masaki,Male,12-11-2009,"Copper, CO",USA,Japan,Nor-Am Cup,Giant Slalom,20,55.00
+382,Shiba Masaki,Male,01-04-2009,"Mt. Tremblant, Quebec",CAN,Japan,Nor-Am Cup,Parallel Slalom,6,200.00
+383,Shiba Masaki,Male,31-03-2009,"Mt. Tremblant, Quebec",CAN,Japan,Nor-Am Cup,Parallel GS,14,90.00
+384,Shiba Masaki,Male,12-03-2009,Minamiuonuma,JPN,Japan,National Championships,Giant Slalom,3,96.00
+385,Shiba Masaki,Male,26-02-2009,Sunday River,USA,Japan,World Cup,Parallel GS,26,50.00
+386,Shiba Masaki,Male,22-02-2009,Stoneham,CAN,Japan,World Cup,Parallel GS,26,50.00
+387,Shiba Masaki,Male,07-02-2009,Vratna,SVK,Japan,European Cup,Parallel GS,8,128.00
+388,Shiba Masaki,Male,01-02-2009,Sils,SUI,Japan,FIS,Parallel GS,2,208.00
+389,Shiba Masaki,Male,31-01-2009,Sudelfeld,GER,Japan,World Cup,Parallel GS,35,20.00
+390,Shiba Masaki,Male,21-01-2009,Gangwon,KOR,Japan,World Championships,Parallel Slalom,41,18.20
+391,Shiba Masaki,Male,20-01-2009,Gangwon,KOR,Japan,World Championships,Parallel GS,20,110.00
+392,Shiba Masaki,Male,06-01-2009,Kreischberg,AUT,Japan,World Cup,Parallel GS,43,17.60
+393,Shiba Masaki,Male,29-12-2008,Bischofswiesen / Götschen,GER,Japan,European Cup,Parallel GS,32,13.00
+394,Shiba Masaki,Male,21-12-2008,Arosa,SUI,Japan,World Cup,Parallel Slalom,28,40.00
+395,Shiba Masaki,Male,14-12-2008,Limone Piemonte,ITA,Japan,World Cup,Parallel GS,30,32.00
+396,Shiba Masaki,Male,20-11-2008,"Copper, CO",USA,Japan,Nor-Am Cup,Parallel Slalom,62,0.00
+397,Shiba Masaki,Male,19-11-2008,"Copper, CO",USA,Japan,Nor-Am Cup,Parallel GS,15,80.00
+398,Shiba Masaki,Male,10-10-2008,Landgraaf,NED,Japan,World Cup,Parallel Slalom,51,0.00
+399,Shiba Masaki,Male,27-02-2008,Minamiuonuma,JPN,Japan,National Championships,Parallel GS,6,56.00
+400,Shiba Masaki,Male,24-02-2008,Gujo-Gifu,JPN,Japan,World Cup,Parallel GS,23,80.00
+401,Shiba Masaki,Male,07-02-2008,Park City,USA,Japan,Nor-Am Cup,Parallel Slalom,4,200.00
+402,Shiba Masaki,Male,06-02-2008,Park City,USA,Japan,Nor-Am Cup,Giant Slalom,52,
+403,Shiba Masaki,Male,13-01-2008,"Le Relais, Quebec",CAN,Japan,Nor-Am Cup,Parallel Slalom,3,108.00
+404,Shiba Masaki,Male,12-01-2008,"Le Relais, Quebec",CAN,Japan,Nor-Am Cup,Parallel GS,5,81.00
+405,Shiba Masaki,Male,04-01-2008,"Steamboat Springs, CO",USA,Japan,Nor-Am Cup,Parallel GS,3,132.00
+406,Shiba Masaki,Male,04-01-2008,"Steamboat Springs, CO",USA,Japan,Nor-Am Cup,Parallel Slalom,8,70.40
+407,Shiba Masaki,Male,18-12-2007,Nendaz,SUI,Japan,European Cup,Parallel Slalom,40,9.25
+408,Shiba Masaki,Male,15-12-2007,Carezza,ITA,Japan,European Cup,Giant Slalom,DNF,
+409,Shiba Masaki,Male,08-12-2007,Haus im Ennstal,AUT,Japan,FIS,Giant Slalom,2,160.00
+410,Shiba Masaki,Male,07-12-2007,Haus im Ennstal,AUT,Japan,European Cup,Giant Slalom,2,192.00
+411,Shiba Masaki,Male,02-12-2007,Kühtai,AUT,Japan,FIS,Parallel Slalom,5,117.00
+412,Shiba Masaki,Male,01-12-2007,Kühtai,AUT,Japan,FIS,Parallel Slalom,19,
+413,Shiba Masaki,Male,16-11-2007,"Copper, CO",USA,Japan,Nor-Am Cup,Slalom,3,
+414,Shiba Masaki,Male,15-11-2007,"Copper, CO",USA,Japan,Nor-Am Cup,Giant Slalom,8,160.00
+415,Shiba Masaki,Male,09-03-2007,Gujo,JPN,Japan,National Championships,Parallel GS,6,40.00
+416,Shiba Masaki,Male,05-02-2007,"Mt. Norquay, AB",CAN,Japan,Nor-Am Cup,Parallel GS,2,160.00
+417,Shiba Masaki,Male,04-02-2007,"Mt. Norquay, AB",CAN,Japan,Nor-Am Cup,Parallel GS,5,90.00
+418,Shiba Masaki,Male,03-02-2007,Canada Olympic Park,CAN,Japan,Nor-Am Cup,Parallel Slalom,6,80.00
+419,Shiba Masaki,Male,02-02-2007,Canada Olympic Park,CAN,Japan,Nor-Am Cup,Parallel Slalom,9,58.00
+420,Shiba Masaki,Male,21-01-2007,"Big White, BC",CAN,Japan,FIS,Snowboardcross,12,52.80
+421,Shiba Masaki,Male,20-01-2007,"Big White, BC",CAN,Japan,FIS,Snowboardcross,12,52.80
+422,Shiba Masaki,Male,14-01-2007,"Le Relais, QC",CAN,Japan,Nor-Am Cup,Parallel Slalom,5,72.00
+423,Shiba Masaki,Male,13-01-2007,"Le Relais, QC",CAN,Japan,Nor-Am Cup,Parallel GS,5,72.00
+424,Shiba Masaki,Male,06-01-2007,"Steamboat Springs, CO",USA,Japan,Nor-Am Cup,Parallel Slalom,15,57.60
+425,Shiba Masaki,Male,05-01-2007,"Steamboat Springs, CO",USA,Japan,Nor-Am Cup,Parallel GS,13,72.00
+426,Shiba Masaki,Male,17-12-2006,"Mont Blanc, QC",CAN,Japan,Nor-Am Cup,Parallel Slalom,DSQ,
+427,Shiba Masaki,Male,16-12-2006,"Mont Blanc, QC",CAN,Japan,Nor-Am Cup,Parallel GS,2,128.00
+428,Shiba Masaki,Male,21-11-2006,"Copper, CO",USA,Japan,Nor-Am Cup,Parallel Slalom,14,90.00
+429,Shiba Masaki,Male,20-11-2006,"Copper, CO",USA,Japan,Nor-Am Cup,Parallel GS,15,80.00
+430,Shiba Masaki,Male,30-08-2006,El Colorado,CHI,Japan,South American Cup,Parallel GS,7,144.00
+431,Shiba Masaki,Male,28-08-2006,El Colorado,CHI,Japan,South American Cup,Snowboardcross,20,39.60
+432,Shiba Masaki,Male,25-03-2006,Tsubetsu,JPN,Japan,National Championships,Snowboardcross,16,13.50
+433,Shiba Masaki,Male,24-03-2006,Tsubetsu,JPN,Japan,National Championships,Parallel GS,17,18.20
+434,Shiba Masaki,Male,25-02-2006,Nakiska,CAN,Japan,Nor-Am Cup,Snowboardcross,16,39.00
+435,Shiba Masaki,Male,06-02-2006,Vivaldi Park,KOR,Japan,FIS Junior World Championships,Parallel GS,DSQ,
+436,Shiba Masaki,Male,22-01-2006,Norquay,CAN,Japan,FIS,Parallel GS,3,66.00
+437,Shiba Masaki,Male,21-01-2006,Norqua,CAN,Japan,FIS,Parallel Slalom,13,0.00
+438,Shiba Masaki,Male,04-12-2005,Kuehtai,AUT,Japan,FIS,Parallel Slalom,47,4.26
+439,Shiba Masaki,Male,03-12-2005,Kuehtai,AUT,Japan,FIS,Parallel Slalom,47,4.26
+440,Shiba Masaki,Male,23-01-2005,Oze Tokura,JPN,Japan,FIS,Slalom,3,30.00
+441,Shiba Masaki,Male,22-01-2005,Oze Tokura,JPN,Japan,FIS,Giant Slalom,13,10.00
+442,Shiba Masaki,Male,28-03-2004,Niseko Higashiyama,JPN,Japan,FIS,Snowboardcross,14,9.00
+443,Shiba Masaki,Male,27-03-2004,Niseko Higashiyama,JPN,Japan,FIS,Snowboardcross,23,4.00
+444,Shiba Masaki,Male,03-03-2004,Oze-Tokura,JPN,Japan,National Championships,Snowboardcross,23,4.00
+445,Shiba Masaki,Male,02-03-2004,Oze-Tokura,JPN,Japan,National Championships,Giant Slalom,DNF,
+446,Shiba Masaki,Male,11-02-2004,Oze Tokura,JPN,Japan,FIS,Snowboardcross,9,14.50
+447,Shiba Masaki,Male,10-02-2004,Oze Tokura,JPN,Japan,FIS,Snowboardcross,11,12.00
+448,Shiba Masaki,Male,25-01-2004,Oze Tokura,JPN,Japan,FIS,Slalom,12,15.40
+449,Shiba Masaki,Male,24-01-2004,Oze Tokura,JPN,Japan,FIS,Giant Slalom,16,10.50
+450,Shiba Masaki,Male,29-12-2003,Berchtesgaden,GER,Japan,European Cup,Parallel GS,49,7.11
+451,Shiba Masaki,Male,07-12-2003,Kuehtai,AUT,Japan,FIS,Parallel Slalom,108,0.00
+452,Shiba Masaki,Male,06-12-2003,Kuehtai,AUT,Japan,FIS,Parallel Slalom,104,0.00
+453,Shiba Masaki,Male,15-02-2003,Prato Nevoso,ITA,Japan,FIS Junior World Championships,Parallel GS,32,9.36
+454,Shiba Masaki,Male,19-01-2003,Oze Tokura,JPN,Japan,FIS,Slalom,17,7.00
+455,Shiba Masaki,Male,18-01-2003,Oze Tokura,JPN,Japan,FIS,Giant Slalom,7,18.00
+456,Shiba Masaki,Male,11-01-2003,Makomanai,JPN,Japan,FIS,Parallel GS,32,1.30
+457,Shiba Masaki,Male,22-03-2002,Ajigasawa,JPN,Japan,National Championships,Giant Slalom,DNQ,
+458,Shiba Masaki,Male,05-01-2002,Makomanai,JPN,Japan,FIS,Parallel GS,33,1.68

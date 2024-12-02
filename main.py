@@ -9,6 +9,8 @@ import random
 from datetime import datetime
 
 weather = pd.read_csv('Weather2023.csv')
+weather['Date Formated'] = weather.apply(lambda x: datetime.strptime(x['Date'],"%Y-%m-%d"), axis=1)
+weather['Temp Avg'] = weather['Temp Avg'].astype(float)
 
 filesCSV = [f for f in os.listdir('AthletesCSV') if f.endswith('.csv')]
 dfs = []
@@ -32,8 +34,8 @@ styles = {
     }
 }
 
-a = pd.merge(athletes, weather[['Location', 'Discipline', 'Date', 'Temp Avg', 'Wind Speed']], on=['Location', 'Date'], how="inner")
-print(a)
+
+a = pd.merge(athletes, weather[['Location', 'Discipline', 'Date Formated', 'Temp Avg', 'Wind Speed']], on=['Location', 'Date Formated'], how="inner")
 
 # Creating a dataframe for current points of single athletes
 def currentPoints(category, gender):
@@ -72,6 +74,16 @@ def currentPoints(category, gender):
             pointsFrame = pd.concat([pointsFrame, newFrame])
 
     return pointsFrame
+
+def weatherPrep(name):
+    weatherFrame = a[a['Name'] == name]
+    print(weatherFrame)
+    underZero = weatherFrame[weatherFrame['Temp Avg'] <= 0]
+    aboveZero = weatherFrame[weatherFrame['Temp Avg'] > 0]
+
+    averageUnder = underZero['FIS Points'].mean()
+    averageOver = aboveZero['FIS Points'].mean()
+    return averageUnder, averageOver
 
 def bubbleChartPrep(ridersAmount, category, gender):
     currentPointsFrame = currentPoints(category, gender)
@@ -336,7 +348,26 @@ def singleAthlete(selectedName, location, selectedDiscipline, categoryList, clic
         if averageClicked == None:
             averageClicked = personData['FIS Points'].mean()
 
-        fig = px.line(personData, x=personData['Date'], y=personData['FIS Points'], markers=True, color="Name")
+        traceAthlete = go.Line(x=personData['Date'], y=personData['FIS Points'], name=selectedName, line=dict(color='purple'))
+        fig.add_trace(traceAthlete)
+
+        # DECLARING AVERAGE WEATHER PERFORMANCE
+        under, over = weatherPrep(selectedName)
+
+        if over != None or under != None:
+            tableWeather = pd.DataFrame()
+            tableWeather['Date'] = personData['Date']
+            tableWeather['Name'] = personData['Name']
+            tableWeather['Over'] = over
+            tableWeather['Under'] = under
+
+            tableWeather = pd.concat([tableWeather.head(1), tableWeather.tail(1)])
+
+        if over != None:
+            fig.add_trace(go.Line(x=tableWeather['Date'], y=tableWeather['Over'], name='Above Zero', line=dict(color="#bd1816")))
+
+        if under != None:
+            fig.add_trace(go.Line(x=tableWeather['Date'], y=tableWeather['Under'], name='Under Zero', line=dict(color="#88c7dc")))
         
         # Adding a line representing maximum performance for his nation on his race days
         if len(personData['Nation'].unique()) > 0:
@@ -347,7 +378,7 @@ def singleAthlete(selectedName, location, selectedDiscipline, categoryList, clic
                 nationDayFrame = hisNation[hisNation['Date'] == date]
                 maxIndex = nationDayFrame.nlargest(1, ['FIS Points'])
                 maximumNation = pd.concat([maximumNation, maxIndex])
-            fig.add_trace(go.Line(x=maximumNation['Date'], y=maximumNation['FIS Points'], name='National Best'))
+            fig.add_trace(go.Line(x=maximumNation['Date'], y=maximumNation['FIS Points'], name='National Best', line=dict(color="green")))
 
             # Displaying the best racer of the day
             if click != None:
