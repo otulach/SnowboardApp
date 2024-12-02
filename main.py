@@ -117,6 +117,7 @@ lastCategory = None
 lastGender = 'Male'
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.FLATLY])
+server = app.server
 
 app.layout = dbc.Container([
     html.Div([
