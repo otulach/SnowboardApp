@@ -24,7 +24,7 @@ athletes = athletes[athletes['Category'] != "Qualification"]
 athletes = athletes[athletes['Discipline'].isin(['Parallel Slalom', 'Slalom', 'Parallel GS', 'Parallel Giant Slalom', 'Giant Slalom'])]
 
 athletes['Date Formated'] = athletes.apply(lambda x: datetime.strptime(x['Date'],"%d-%m-%Y"), axis=1)
-athletes = athletes.drop_duplicates()
+athletes = athletes.drop_duplicates().sort_values(by='Date Formated', ascending=True)
 
 styles = {
     'pre': {
@@ -126,7 +126,7 @@ app.layout = dbc.Container([
                 html.H1([
                 html.Span("Welcome"),
                 html.Br(),
-                html.Span("to an Athlete dashboard!")
+                html.Span("to a snowboarding dashboard!")
             ]),
 
             html.Div([
@@ -160,18 +160,37 @@ app.layout = dbc.Container([
                 ], style={'display':'inline-block', 'width' : '100%'}),
         ], id='counted-athletes-div'),
 
-        html.Div(dbc.RadioItems(
-                    id='layout-buttons',
-                    className='btn-group',
-                    inputClassName='btn-check',
-                    labelClassName="btn btn-outline-light",
-                    labelCheckedClassName="btn btn-light",
-                    options=[
-                        {"label": "SingleAthlete", "value": 1}, 
-                        {"label": "Table", "value": 2}
-                    ],
-                    value=1
-                ), style={'width': 206, 'display':'flex', 'margin-top':15}),
+        html.Div([
+            html.Div(dbc.RadioItems(
+                        id='layout-buttons',
+                        className='btn-group',
+                        inputClassName='btn-check',
+                        labelClassName="btn btn-outline-light",
+                        labelCheckedClassName="btn btn-light",
+                        options=[
+                            {"label": "SingleAthlete", "value": 1}, 
+                            {"label": "Calculator", "value": 2}
+                        ],
+                        value=1
+            ), style={'width': 206}),
+            html.Div(dbc.Button(
+                "Manual",
+                className="btn btn-info",
+                n_clicks=1,
+                id='manual-button'
+            ), style={'width': 104}),
+        ], style={'display': 'flex', 'margin-top':15}),
+
+        dbc.Modal(
+            [
+                dbc.ModalHeader(dbc.ModalTitle("HOW TO USE THIS APP?")),
+                dbc.ModalBody("Imma explain it here"),
+                html.Img(src='assets/preklikScreen.png')
+            ],
+            id="manual",
+            size="xl",
+            is_open=False,
+        ),
 
         html.Div([             
                 html.Div(
@@ -289,6 +308,16 @@ app.layout = dbc.Container([
         dcc.Store(id="bubble-save-table"),
         
 ], fluid=True, style={'display': 'flex'}, className='dashboard-container')
+
+@callback(
+    Output("manual", "is_open"),
+    Input("manual-button", "n_clicks"),
+    State("manual", "is_open"),
+)
+def manualOpening(but, openIt):
+    if but:
+        return not openIt
+    return openIt
 
 @callback(
     Output('athlete-chart', 'figure'),
