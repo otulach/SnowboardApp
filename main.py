@@ -183,9 +183,87 @@ app.layout = dbc.Container([
 
         dbc.Modal(
             [
-                dbc.ModalHeader(dbc.ModalTitle("HOW TO USE THIS APP?")),
-                dbc.ModalBody("Imma explain it here"),
-                html.Img(src='assets/preklikScreen.png')
+                dbc.ModalHeader(dbc.ModalTitle("HOW TO USE THIS APP?", style={'text-align': 'center', 'color': '#007bff'})),
+                html.Div([
+                    dbc.ModalBody([
+                        html.Div("Follow these steps to navigate the FIRST PART dashboard, offering fast data analysis:", style={'font-weight': 'bold', 'margin-bottom': '10px'}),
+                        html.Div("Step 1:", style={'color': '#007bff'}),
+                        html.Div([
+                            html.Div(["Choose athlete's NAME in the control panel, which you can also filter by NATION"], style={'font-size':19, 'margin-bottom': 7}),
+                            html.Button("↵", id='picture1button', n_clicks=0, className='imgbutton o'),
+                        ], style={'display': 'flex'}),
+                        html.Div([
+                            html.Img(src='assets/explanation1.png', style={'width': '60%', 'height': 'auto'}),
+                        ], id='picture1', style={'display':'none'}),
+
+                        html.Div("Step 2:", style={'color': '#007bff'}),
+                        html.Div([
+                            html.Div(["Select specifications for the showed data, such as DISCIPLINE, CATEGORY and LOCATION"], style={'font-size':19, 'margin-bottom': 7}),
+                            html.Button("↵", id='picture2button', n_clicks=0, className='imgbutton o'),
+                        ], style={'display': 'flex'}),
+                        html.Div([
+                            html.Img(src='assets/explanation2.png', style={'width': '60%', 'height': 'auto'}),
+                        ], id='picture2', style={'display':'none'}),
+
+                        html.Div("Step 3:", style={'color': '#007bff'}),
+                        html.Div([
+                            html.Div(["Watch race data in graph, where:"], style={'font-size':19, 'margin-bottom': 5}),
+                            html.Button("↵", id='picture3button', n_clicks=0, className='imgbutton o'),
+                        ], style={'display': 'flex'}),
+                        html.Div([
+                            html.Img(src='assets/explanation3.png', style={'width': '60%', 'height': 'auto'}),
+                        ], id='picture3', style={'display':'none'}),
+                        html.Ul([
+                            html.Li([html.Span("Purple", style={"color": "purple"}), " = Athletes performance"]),
+                            html.Li([html.Span("Green", style={"color": "green"}), " = Best performance achieved by his Nation"]),
+                            html.Li([html.Span("Blue", style={"color": "blue"}), " = Average performance in temperatures < 0°C"]),
+                            html.Li([html.Span("Red", style={"color": "red"}), " = Average performance in temperatures > 0°C"]),
+                        ]),
+
+                        html.Div("Step 4:", style={'color': '#007bff'}),
+                        html.Div([
+                            html.Div(["Click on the graph to display more details in information panel"], style={'font-size':19, 'margin-bottom': 5}),
+                            html.Button("↵", id='picture4button', n_clicks=0, className='imgbutton o'),
+                        ], style={'display': 'flex'}),
+                        html.Div([
+                            html.Img(src='assets/explanation4.png', style={'width': '60%', 'height': 'auto'}),
+                        ], id='picture4', style={'display':'none'}),
+                    ]),
+                ], id='firstPage'),
+
+                html.Div([
+                    dbc.ModalBody([
+                        html.Div("Follow these steps to navigate the SECOND PART dashboard, offering fast data analysis:", style={'font-weight': 'bold', 'margin-bottom': '10px'}),
+                        html.Div("Step 1:", style={'color': '#007bff'}),
+                        html.Div([
+                            html.Div(["Select NATION by either using the control panel or clicking on bubble in graph"], style={'font-size':19, 'margin-bottom': 7}),
+                            html.Button("↵", id='2picture1button', n_clicks=0, className='imgbutton o'),
+                        ], style={'display': 'flex'}),
+                        html.Div([
+                            html.Img(src='assets/explanation1.png', style={'width': '60%', 'height': 'auto'}),
+                        ], id='2picture1', style={'display':'none'}),
+
+                        html.Div("Step 2:", style={'color': '#007bff'}),
+                        html.Div([
+                            html.Div(["Select specifications for used data, such as GENDER and RACE TYPE"], style={'font-size':19, 'margin-bottom': 7}),
+                            html.Button("↵", id='2picture2button', n_clicks=0, className='imgbutton o'),
+                        ], style={'display': 'flex'}),
+                        html.Div(["RACE TYPE - Includes only active athletes for selected race type"], style={'font-size':14, 'margin-bottom': 7}),
+                        html.Div([
+                            html.Img(src='assets/explanation2.png', style={'width': '60%', 'height': 'auto'}),
+                        ], id='2picture2', style={'display':'none'}),
+
+                        html.Div("Step 3:", style={'color': '#007bff'}),
+                        html.Div([
+                            html.Div(["Analyse the information panel and Athletes table"], style={'font-size':19, 'margin-bottom': 5}),
+                            html.Button("↵", id='2picture3button', n_clicks=0, className='imgbutton o'),
+                        ], style={'display': 'flex'}),
+                        html.Div(["Athletes table - Displays accounted athletes"], style={'font-size':14, 'margin-bottom': 5}),
+                        html.Div([
+                            html.Img(src='assets/explanation3.png', style={'width': '60%', 'height': 'auto'}),
+                        ], id='2picture3', style={'display':'none'}),
+                        ],)
+                ], id='secondPage'),
             ],
             id="manual",
             size="xl",
@@ -293,13 +371,13 @@ app.layout = dbc.Container([
                     ], style={'display':'inline-block', 'width' : '100%'}),
 
                     html.Div([
-                        html.H5('National best:'),
-                        html.Pre(id='click-nationbest', style=styles['pre'])
+                        html.H5('Position:'),
+                        html.Pre(id='click-position', style=styles['pre'])
                     ], style={'display':'inline-block', 'width' : '100%'}),
 
                     html.Div([
-                        html.H5('Position:'),
-                        html.Pre(id='click-position', style=styles['pre'])
+                        html.H5('National best:'),
+                        html.Pre(id='click-nationbest', style=styles['pre'])
                     ], style={'display':'inline-block', 'width' : '100%'}),
             ], id='info-athlete')
         ], style={'display':'inline-block'}),
@@ -309,15 +387,15 @@ app.layout = dbc.Container([
         
 ], fluid=True, style={'display': 'flex'}, className='dashboard-container')
 
-@callback(
-    Output("manual", "is_open"),
-    Input("manual-button", "n_clicks"),
-    State("manual", "is_open"),
-)
-def manualOpening(but, openIt):
-    if but:
-        return not openIt
-    return openIt
+@callback( 
+    Output("manual", "is_open"), 
+    Input("manual-button", "n_clicks"), 
+    State("manual", "is_open"), 
+) 
+def manualOpening(but, openIt): 
+    if but: 
+        return not openIt 
+    return openIt 
 
 @callback(
     Output('athlete-chart', 'figure'),
@@ -543,14 +621,68 @@ def locationDrop(selectedName, categoryList):
    Output('counted-athletes-div', 'style'),
    Output('filtration-single', 'style'),
    Output('filtration-nation', 'style'),
-   Output('info-athlete', 'style')],
+   Output('info-athlete', 'style'),
+   Output('firstPage', 'style'),
+   Output('secondPage', 'style')],
    Input('layout-buttons', 'value')
 )
 def switchVisibility(content):
    if content == 2:
-       return {'display':'none'},  {'display':'inline'}, {'display':'none'}, {'margin-top':20}, {'display':'none'}, {'display':'inline'}, {'display':'none'}
+       return {'display':'none'},  {'display':'inline'}, {'display':'none'}, {'margin-top':20}, {'display':'none'}, {'display':'inline'}, {'display':'none'}, {'display':'none'}, {'display':'inline'}
    else:
-       return {'display':'inline'},  {'display':'none'}, {'display':'inline'}, {'display':'none'}, {'display':'inline'}, {'display':'none'}, {'width': 970, 'margin-left': 35, 'margin-top': 5, 'margin-right': 35, 'margin-bottom': 35, 'display': 'flex', 'height':100}
+       return {'display':'inline'},  {'display':'none'}, {'display':'inline'}, {'display':'none'}, {'display':'inline'}, {'display':'none'}, {'width': 970, 'margin-left': 35, 'margin-top': 5, 'margin-right': 35, 'margin-bottom': 35, 'display': 'flex', 'height':100}, {'display':'inline'},  {'display':'none'}
+   
+@callback(
+   Output('picture1', 'style'),
+   Input('picture1button', 'n_clicks'),
+   State('picture1', 'style')
+)
+def switchImg(clicks, style):
+   if clicks == 0:
+       return {'display':'none'} 
+   elif style == {'display':'inline', 'margin-bottom': 7}:
+       return {'display':'none'} 
+   else:
+       return {'display':'inline', 'margin-bottom': 7}
+   
+@callback(
+   Output('picture2', 'style'),
+   Input('picture2button', 'n_clicks'),
+   State('picture2', 'style')
+)
+def switchImg2(clicks, style):
+   if clicks == 0:
+       return {'display':'none'} 
+   elif style == {'display':'inline', 'margin-bottom': 7}:
+       return {'display':'none'} 
+   else:
+       return {'display':'inline', 'margin-bottom': 7}
+   
+@callback(
+   Output('picture3', 'style'),
+   Input('picture3button', 'n_clicks'),
+   State('picture3', 'style')
+)
+def switchImg(clicks, style):
+   if clicks == 0:
+       return {'display':'none'} 
+   elif style == {'display':'inline', 'margin-bottom': 7}:
+       return {'display':'none'} 
+   else:
+       return {'display':'inline', 'margin-bottom': 7}
+   
+@callback(
+   Output('picture4', 'style'),
+   Input('picture4button', 'n_clicks'),
+   State('picture4', 'style')
+)
+def switchImg(clicks, style):
+   if clicks == 0:
+       return {'display':'none'} 
+   elif style == {'display':'inline', 'margin-bottom': 7}:
+       return {'display':'none'} 
+   else:
+       return {'display':'inline', 'margin-bottom': 7}
    
        
 if __name__ == '__main__':

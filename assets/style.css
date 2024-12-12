@@ -99,6 +99,23 @@ p {
 
 /* Single button */
 
+.imgbutton.o {
+    height: 30px;
+    width: 30px;
+    margin-right: 5px;
+    font-family: "Poppins";
+    border-radius: 3px;
+    background-color: transparent;
+    border: 1.5px solid color-mix(in srgb, var(--bs-info), #5252a9 7%);
+    margin-left: auto !important;
+}
+.imgbutton.o:focus {
+    background-color: var(--bs-info);
+}
+.imgbutton.o:hover {
+    border: 1.5px solid black;
+}
+
 .btn.btn-info {
     width: 100%;
     height: 38px;
