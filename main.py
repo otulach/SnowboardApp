@@ -146,6 +146,12 @@ app.layout = dbc.Container([
                     dash_table.DataTable(
                         id='counted-athletes',
                         fill_width=False,
+                        style_cell={
+                            'height': 'auto',
+                            # all three widths are needed
+                            'minWidth': 155, 'width': 155, 'maxWidth': 155,
+                            'whiteSpace': 'normal'
+                        }
                     ),
                 ], style={'display':'inline-block', 'width' : '100%', 'margin-top': 10, 'margin-bottom': 20}),
 
@@ -360,26 +366,38 @@ app.layout = dbc.Container([
             ], style={'width': 990, 'margin-top': 55, 'margin-right': 5, 'margin-bottom': 35, 'margin-left': 10,}),
 
         html.Div(className='roww', children=[
-                    html.Div([
-                        html.H5('Location:'),
-                        html.Pre(id='click-location', style=styles['pre'])
-                    ], style={'display':'inline-block', 'width' : '100%'}),
+            html.Div([
+                html.H5('Location:'),
+                html.Pre(id='click-location', style=styles['pre'])
+            ], style={'display':'inline-block', 'width' : '100%'}),
 
-                    html.Div([
-                        html.H5('Category:'),
-                        html.Pre(id='click-category', style=styles['pre'])
-                    ], style={'display':'inline-block', 'width' : '100%'}),
+            html.Div([
+                html.H5('Category:'),
+                html.Pre(id='click-category', style=styles['pre'])
+            ], style={'display':'inline-block', 'width' : '100%'}),
 
-                    html.Div([
-                        html.H5('Position:'),
-                        html.Pre(id='click-position', style=styles['pre'])
-                    ], style={'display':'inline-block', 'width' : '100%'}),
+            html.Div([
+                html.H5('Position:'),
+                html.Pre(id='click-position', style=styles['pre'])
+            ], style={'display':'inline-block', 'width' : '100%'}),
 
-                    html.Div([
-                        html.H5('National best:'),
-                        html.Pre(id='click-nationbest', style=styles['pre'])
-                    ], style={'display':'inline-block', 'width' : '100%'}),
-            ], id='info-athlete')
+            html.Div([
+                html.H5('National best:'),
+                html.Pre(id='click-nationbest', style=styles['pre'])
+            ], style={'display':'inline-block', 'width' : '100%'}),
+        ], id='info-athlete'),
+
+        html.Div(className='roww', children=[
+            html.Div([
+                html.H5('Average Under:'),
+                html.Pre(id='click-under', style=styles['pre'])
+            ], style={'display':'inline-block', 'width' : '100%'}),
+            
+            html.Div([
+                html.H5('Average Over:'),
+                html.Pre(id='click-over', style=styles['pre'])
+            ], style={'display':'inline-block', 'width' : '100%'}),
+        ], id='info-bubble')
         ], style={'display':'inline-block'}),
 
         dcc.Store(id="bubble-save-graph"),
@@ -519,7 +537,9 @@ def nationFromGraph(click, currentNation):
     Output('rank-bubble', 'children'),
     Output('nationBubble', 'options'),
     Output('bubble-save-graph', 'data'),
-    Output('bubble-save-table', 'data')],
+    Output('bubble-save-table', 'data'),
+    Output('click-under', 'children'),
+    Output('click-over', 'children'),],
     Input('nationBubble', 'value'),
     Input('genderBubble', 'value'),
     Input('categoryBubble', 'value'),
@@ -550,8 +570,10 @@ def multipleNations(selectedNation, selectedGender, selectedCategory, graphStore
             nationPoints = nationFrame['Points'].unique()[0]
 
             clickedAthletes = acountedRiders[acountedRiders['Nation'] == selectedNation]
-            data=clickedAthletes.to_dict('records')
-            columns=[{"name": i, "id": i} for i in clickedAthletes.columns]
+            clickedAthletes[['Under', 'Over']] = clickedAthletes['Name'].apply(lambda x: weatherPrep(x)).apply(pd.Series)
+
+            data=clickedAthletes[['Name', 'Points']].to_dict('records')
+            columns=[{"name": i, "id": i} for i in clickedAthletes[['Name', 'Points']].columns]
 
             nationRank = nationFrame.index + 1
 
@@ -564,7 +586,7 @@ def multipleNations(selectedNation, selectedGender, selectedCategory, graphStore
     fig.update_xaxes(visible=False, showticklabels=False, gridcolor='lightgrey')
     fig.update_yaxes(visible=False, showticklabels=False, gridcolor='lightgrey')
 
-    return fig, data, columns, nationPoints, nationRank, nationsBubble['Nation'].unique(), {"data-frame": nationsBubble.to_dict("records")}, {"data-frame": acountedRiders.to_dict("records")}
+    return fig, data, columns, nationPoints, nationRank, nationsBubble['Nation'].unique(), {"data-frame": nationsBubble.to_dict("records")}, {"data-frame": acountedRiders.to_dict("records")}, clickedAthletes['Under'].mean(), clickedAthletes['Over'].mean()
 
 # Managing the dropdown options and overall callbacks of the navigation bar
 @callback(
@@ -623,21 +645,23 @@ def locationDrop(selectedName, categoryList):
    Output('filtration-nation', 'style'),
    Output('info-athlete', 'style'),
    Output('firstPage', 'style'),
-   Output('secondPage', 'style')],
+   Output('secondPage', 'style'),
+   Output('info-bubble', 'style'),],
    Input('layout-buttons', 'value')
 )
 def switchVisibility(content):
    if content == 2:
-       return {'display':'none'},  {'display':'inline'}, {'display':'none'}, {'margin-top':20}, {'display':'none'}, {'display':'inline'}, {'display':'none'}, {'display':'none'}, {'display':'inline'}
+       return {'display':'none'},  {'display':'inline'}, {'display':'none'}, {'margin-top':20}, {'display':'none'}, {'display':'inline'}, {'display':'none'}, {'display':'none'}, {'display':'inline'}, {'width': 970, 'margin-left': 35, 'margin-top': 5, 'margin-right': 35, 'margin-bottom': 35, 'display': 'flex', 'height':100}
    else:
-       return {'display':'inline'},  {'display':'none'}, {'display':'inline'}, {'display':'none'}, {'display':'inline'}, {'display':'none'}, {'width': 970, 'margin-left': 35, 'margin-top': 5, 'margin-right': 35, 'margin-bottom': 35, 'display': 'flex', 'height':100}, {'display':'inline'},  {'display':'none'}
+       return {'display':'inline'},  {'display':'none'}, {'display':'inline'}, {'display':'none'}, {'display':'inline'}, {'display':'none'}, {'width': 970, 'margin-left': 35, 'margin-top': 5, 'margin-right': 35, 'margin-bottom': 35, 'display': 'flex', 'height':100}, {'display':'inline'},  {'display':'none'},  {'display':'none'}
    
+# Swapping visibility in manuals
 @callback(
    Output('picture1', 'style'),
    Input('picture1button', 'n_clicks'),
    State('picture1', 'style')
 )
-def switchImg(clicks, style):
+def switchImg1(clicks, style):
    if clicks == 0:
        return {'display':'none'} 
    elif style == {'display':'inline', 'margin-bottom': 7}:
@@ -663,7 +687,7 @@ def switchImg2(clicks, style):
    Input('picture3button', 'n_clicks'),
    State('picture3', 'style')
 )
-def switchImg(clicks, style):
+def switchImg3(clicks, style):
    if clicks == 0:
        return {'display':'none'} 
    elif style == {'display':'inline', 'margin-bottom': 7}:
@@ -676,7 +700,54 @@ def switchImg(clicks, style):
    Input('picture4button', 'n_clicks'),
    State('picture4', 'style')
 )
-def switchImg(clicks, style):
+def switchImg4(clicks, style):
+   if clicks == 0:
+       return {'display':'none'} 
+   elif style == {'display':'inline', 'margin-bottom': 7}:
+       return {'display':'none'} 
+   else:
+       return {'display':'inline', 'margin-bottom': 7}
+   
+
+@callback(
+   Output('2picture1', 'style'),
+   Input('2picture1button', 'n_clicks'),
+   State('2picture1', 'style')
+)
+def secondPageSwitch1(clicks, style):
+   if clicks == 0:
+       return {'display':'none'} 
+   elif style == {'display':'inline', 'margin-bottom': 7}:
+       return {'display':'none'} 
+   else:
+       return {'display':'inline', 'margin-bottom': 7}
+   
+@callback(
+   Output('2picture2', 'style'),
+   Input('2picture2button', 'n_clicks'),
+   State('2picture2', 'style')
+)
+def secondPageSwitch2(clicks, style):
+   if clicks == 0:
+       return {'display':'none'} 
+   elif style == {'display':'inline', 'margin-bottom': 7}:
+       return {'display':'none'} 
+   else:
+       return {'display':'inline', 'margin-bottom': 7}
+   
+@callback(
+   Output('2picture3', 'style'),
+   Input('2picture3button', 'n_clicks'),
+   State('2picture3', 'style')
+)
+def secondPageSwitch3(clicks, style):
+   if clicks == 0:
+       return {'display':'none'} 
+   elif style == {'display':'inline', 'margin-bottom': 7}:
+       return {'display':'none'} 
+   else:
+       return {'display':'inline', 'margin-bottom': 7}
+   
    if clicks == 0:
        return {'display':'none'} 
    elif style == {'display':'inline', 'margin-bottom': 7}:
