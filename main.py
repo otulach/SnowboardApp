@@ -205,7 +205,7 @@ app.layout = dbc.Container([
                             html.Button("↵", id='picture1button', n_clicks=0, className='imgbutton o'),
                         ], style={'display': 'flex'}),
                         html.Div([
-                            html.Img(src='assets/explanation1.png', style={'width': '60%', 'height': 'auto'}),
+                            html.Img(src='assets/first.png', style={'width': '60%', 'height': 'auto'}),
                         ], id='picture1', style={'display':'none'}),
 
                         html.Div("Step 2:", style={'color': '#007bff'}),
@@ -214,7 +214,7 @@ app.layout = dbc.Container([
                             html.Button("↵", id='picture2button', n_clicks=0, className='imgbutton o'),
                         ], style={'display': 'flex'}),
                         html.Div([
-                            html.Img(src='assets/explanation2.png', style={'width': '60%', 'height': 'auto'}),
+                            html.Img(src='assets/second.png', style={'width': '60%', 'height': 'auto'}),
                         ], id='picture2', style={'display':'none'}),
 
                         html.Div("Step 3:", style={'color': '#007bff'}),
@@ -223,7 +223,7 @@ app.layout = dbc.Container([
                             html.Button("↵", id='picture3button', n_clicks=0, className='imgbutton o'),
                         ], style={'display': 'flex'}),
                         html.Div([
-                            html.Img(src='assets/explanation3.png', style={'width': '60%', 'height': 'auto'}),
+                            html.Img(src='assets/third.png', style={'width': '60%', 'height': 'auto'}),
                         ], id='picture3', style={'display':'none'}),
                         html.Ul([
                             html.Li(["Purple = Athletes performance"]),
@@ -238,7 +238,7 @@ app.layout = dbc.Container([
                             html.Button("↵", id='picture4button', n_clicks=0, className='imgbutton o'),
                         ], style={'display': 'flex'}),
                         html.Div([
-                            html.Img(src='assets/explanation4.png', style={'width': '60%', 'height': 'auto'}),
+                            html.Img(src='assets/fourth.png', style={'width': '60%', 'height': 'auto'}),
                         ], id='picture4', style={'display':'none'}),
                     ]),
                 ], id='firstPage'),
@@ -252,7 +252,7 @@ app.layout = dbc.Container([
                             html.Button("↵", id='2picture1button', n_clicks=0, className='imgbutton o'),
                         ], style={'display': 'flex'}),
                         html.Div([
-                            html.Img(src='assets/explanation1.png', style={'width': '60%', 'height': 'auto'}),
+                            html.Img(src='assets/firstBubble.png', style={'width': '60%', 'height': 'auto'}),
                         ], id='2picture1', style={'display':'none'}),
 
                         html.Div("Step 2:", style={'color': '#007bff'}),
@@ -262,7 +262,7 @@ app.layout = dbc.Container([
                         ], style={'display': 'flex'}),
                         html.Div(["RACE TYPE - Includes only active athletes for selected race type"], style={'font-size':14, 'margin-bottom': 7}),
                         html.Div([
-                            html.Img(src='assets/explanation2.png', style={'width': '60%', 'height': 'auto'}),
+                            html.Img(src='assets/secondBubble.png', style={'width': '60%', 'height': 'auto'}),
                         ], id='2picture2', style={'display':'none'}),
 
                         html.Div("Step 3:", style={'color': '#007bff'}),
@@ -272,7 +272,7 @@ app.layout = dbc.Container([
                         ], style={'display': 'flex'}),
                         html.Div(["Athletes table - Displays accounted athletes"], style={'font-size':14, 'margin-bottom': 5}),
                         html.Div([
-                            html.Img(src='assets/explanation3.png', style={'width': '60%', 'height': 'auto'}),
+                            html.Img(src='assets/thirdBubble.png', style={'width': '60%', 'height': 'auto'}),
                         ], id='2picture3', style={'display':'none'}),
                         ],)
                 ], id='secondPage'),
@@ -290,7 +290,8 @@ app.layout = dbc.Container([
                         'Czechia',
                         multi=True,
                         className='customDropdown',
-                        id='nation-dropbox'
+                        id='nation-dropbox',
+                        placeholder="Nation..."
                     )
                 ], style={'margin-top': 15, 'margin-bottom': 15}),
                 
@@ -298,7 +299,8 @@ app.layout = dbc.Container([
                     athletes['Name'].unique(),
                     'Tulach Jaroslav',
                     id='name-dropbox',
-                    className='customDropdown' 
+                    className='customDropdown' ,
+                    placeholder="Name..."
                 ),
                 
                 html.Div(
@@ -320,14 +322,16 @@ app.layout = dbc.Container([
                     dcc.Dropdown(
                     id='category-dropbox',
                     multi=True,
-                    className='customDropdown' 
+                    className='customDropdown',
+                    placeholder="Category..."
                     ),
                     
                 ],style={'margin-top': 15, 'margin-bottom': 15}),
                 
                 dcc.Dropdown(
                     id='location-dropbox',
-                    className='customDropdown'
+                    className='customDropdown',
+                    placeholder="Location.."
                     ),
         ], id='filtration-single'),
 
@@ -338,7 +342,8 @@ app.layout = dbc.Container([
                         athletes['Nation'].unique(),
                         'Germany',
                         className='customDropdown',
-                        id='nationBubble'
+                        id='nationBubble',
+                        placeholder="Nation..."
                     )
                 ], style={'margin-top': 15, 'margin-bottom': 15}),
 
@@ -348,7 +353,8 @@ app.layout = dbc.Container([
                         ['Male', 'Female'],
                         'Male',
                         id='genderBubble',
-                        className='customDropdown' 
+                        className='customDropdown',
+                        placeholder="Gender..."
                     ),
                 ], style={'margin-top': 15, 'margin-bottom': 15}),
 
@@ -357,7 +363,8 @@ app.layout = dbc.Container([
                     dcc.Dropdown(
                         ['FIS', 'European Cup', 'World Cup'],
                         id='categoryBubble',
-                        className='customDropdown'
+                        className='customDropdown',
+                        placeholder="Category..."
                     ),
                 ], style={'margin-top': 15, 'margin-bottom': 15}),
             ], id='filtration-nation'),
