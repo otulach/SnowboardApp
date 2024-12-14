@@ -17,7 +17,7 @@ body {
 
 .dashboard-container {
     width: 1400px;
-    height: 800px;
+    height: 730px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 50px;
@@ -25,6 +25,25 @@ body {
     background-color: #070635;
     border: 1px solid #cccccc;
     border-radius: 10px;
+}
+
+.modal-header {
+    background-color: #272657 !important;
+    color : white;
+}
+
+.modal.close {
+    color: #fff; 
+    opacity: 1;
+}
+
+.modal {
+    color : white;
+}
+
+.modal-body {
+    background-color: #272657 !important;
+    color : white;
 }
 
 .modebar { display: none !important; }
@@ -106,14 +125,15 @@ p {
     font-family: "Poppins";
     border-radius: 3px;
     background-color: transparent;
-    border: 1.5px solid color-mix(in srgb, var(--bs-info), #5252a9 7%);
+    border: 1.5px solid white;
     margin-left: auto !important;
+    color: white;
 }
 .imgbutton.o:focus {
     background-color: var(--bs-info);
 }
 .imgbutton.o:hover {
-    border: 1.5px solid black;
+    border: 1.5px solid #007bff;
 }
 
 .btn.btn-info {
@@ -133,7 +153,7 @@ p {
 }
 
 .btn.btn-info:hover {
-    background-color: color-mix(in srgb, var(--bs-info), #0000ac 7%);
+    background-color: color-mix(in srgb, var(--bs-info), #15152b 7%);
 }
 
 /* Dropdowns */

@@ -121,7 +121,7 @@ server = app.server
 
 app.layout = dbc.Container([
     html.Div([
-        html.Div([
+        html.Div([ 
             html.Div([
                 html.H1([
                 html.Span("Welcome"),
@@ -150,10 +150,16 @@ app.layout = dbc.Container([
                             'height': 'auto',
                             # all three widths are needed
                             'minWidth': 155, 'width': 155, 'maxWidth': 155,
-                            'whiteSpace': 'normal'
-                        }
+                            'whiteSpace': 'normal',
+                            'border': '1px solid white'
+                        },
+                        style_data={
+                            'color': 'white',
+                            'backgroundColor': '#070635'
+                        },
+                        style_header={'color': 'white', 'border': '1px solid white', 'backgroundColor': '#15152b'},
                     ),
-                ], style={'display':'inline-block', 'width' : '100%', 'margin-top': 10, 'margin-bottom': 20}),
+                ], style={'height': 210,'display':'inline-block', 'width' : '100%', 'margin-top': 5, 'margin-bottom': 20}),
 
             html.Div([
                     html.H5('Nation Points:'),
@@ -220,10 +226,10 @@ app.layout = dbc.Container([
                             html.Img(src='assets/explanation3.png', style={'width': '60%', 'height': 'auto'}),
                         ], id='picture3', style={'display':'none'}),
                         html.Ul([
-                            html.Li([html.Span("Purple", style={"color": "purple"}), " = Athletes performance"]),
-                            html.Li([html.Span("Green", style={"color": "green"}), " = Best performance achieved by his Nation"]),
-                            html.Li([html.Span("Blue", style={"color": "blue"}), " = Average performance in temperatures < 0°C"]),
-                            html.Li([html.Span("Red", style={"color": "red"}), " = Average performance in temperatures > 0°C"]),
+                            html.Li(["Purple = Athletes performance"]),
+                            html.Li(["Green = Best performance achieved by his Nation"]),
+                            html.Li(["Blue = Average performance in temperatures < 0°C"]),
+                            html.Li(["Red = Average performance in temperatures > 0°C"]),
                         ]),
 
                         html.Div("Step 4:", style={'color': '#007bff'}),
@@ -432,6 +438,8 @@ def manualOpening(but, openIt):
 def singleAthlete(selectedName, location, selectedDiscipline, categoryList, click):
     # Filtering DataFrame by selected values in navigation bar
     personData = athletes[athletes['Name'] == selectedName]
+    personData = personData.drop_duplicates(subset=['Date'])
+
     if selectedDiscipline == 0:
         slNames = ['Parallel Slalom', 'Slalom']
         personData = personData[personData['Discipline'].isin(slNames)]
@@ -469,12 +477,37 @@ def singleAthlete(selectedName, location, selectedDiscipline, categoryList, clic
     fig = px.line()
     
     if selectedName != None and personData.empty != True:
+        # Adding a line representing maximum performance for his nation on his race days
+        if len(personData['Nation'].unique()) > 0:
+            hisNation = athletes[athletes['Nation'] == personData['Nation'].unique()[0]]
+            hisNation = hisNation[hisNation['Gender'] == personData['Gender'].unique()[0]]
+            maximumNation = pd.DataFrame(columns=athletes.columns)
+            for date in personData['Date'].unique():
+                nationDayFrame = hisNation[hisNation['Date'] == date]
+                maxIndex = nationDayFrame.nlargest(1, ['FIS Points'])
+                maximumNation = pd.concat([maximumNation, maxIndex])
+            if not maximumNation.empty:
+                fig.add_trace(go.Line(x=maximumNation['Date'], y=maximumNation['FIS Points'], name='National Best', line=dict(color="green"), hoverinfo='text',
+                hovertext="NB - " + maximumNation['Name'] + ': ' + maximumNation['FIS Points'].astype(str)))
+
+            # Displaying the best racer of the day
+            if click != None:
+                nationBest = maximumNation[maximumNation['Date'] == clickedDate]['Name']
+
         # Declaring information bar Non-clicked values
         maxPoints = personData.max()['FIS Points']
         if averageClicked == None:
             averageClicked = personData['FIS Points'].mean()
 
-        traceAthlete = go.Line(x=personData['Date'], y=personData['FIS Points'], name=selectedName, line=dict(color='purple'))
+        traceAthlete = go.Line(
+            x=personData['Date'], 
+            y=personData['FIS Points'], 
+            name=selectedName, 
+            line=dict(color='purple', width=3),
+            hoverinfo='text',
+            hovertext=personData['Name'] + ': ' + personData['FIS Points'].astype(str)
+        )
+
         fig.add_trace(traceAthlete)
 
         # DECLARING AVERAGE WEATHER PERFORMANCE
@@ -490,26 +523,13 @@ def singleAthlete(selectedName, location, selectedDiscipline, categoryList, clic
             tableWeather = pd.concat([tableWeather.head(1), tableWeather.tail(1)])
 
         if over != None:
-            fig.add_trace(go.Line(x=tableWeather['Date'], y=tableWeather['Over'], name='Above Zero', line=dict(color="#bd1816")))
+            fig.add_trace(go.Line(x=tableWeather['Date'], y=tableWeather['Over'], line=dict(color="#bd1816"), hoverinfo='text',
+            hovertext='Over' + ': ' + str(over)))
 
         if under != None:
-            fig.add_trace(go.Line(x=tableWeather['Date'], y=tableWeather['Under'], name='Under Zero', line=dict(color="#88c7dc")))
+            fig.add_trace(go.Line(x=tableWeather['Date'], y=tableWeather['Under'], line=dict(color="#88c7dc"), hoverinfo='text',
+            hovertext='Under' + ': ' + str(under)))
         
-        # Adding a line representing maximum performance for his nation on his race days
-        if len(personData['Nation'].unique()) > 0:
-            hisNation = athletes[athletes['Nation'] == personData['Nation'].unique()[0]]
-            hisNation = hisNation[hisNation['Gender'] == personData['Gender'].unique()[0]]
-            maximumNation = pd.DataFrame(columns=athletes.columns)
-            for date in personData['Date'].unique():
-                nationDayFrame = hisNation[hisNation['Date'] == date]
-                maxIndex = nationDayFrame.nlargest(1, ['FIS Points'])
-                maximumNation = pd.concat([maximumNation, maxIndex])
-            fig.add_trace(go.Line(x=maximumNation['Date'], y=maximumNation['FIS Points'], name='National Best', line=dict(color="green")))
-
-            # Displaying the best racer of the day
-            if click != None:
-                nationBest = maximumNation[maximumNation['Date'] == clickedDate]['Name']
-
     # Updating Graph Design
     fig.update_layout(xaxis_title="Date", yaxis_title="FIS Points", plot_bgcolor='white', paper_bgcolor='#070635', width=960, height=500, font_color="white", margin=dict(l=0, r=0, t=0, b=0), hovermode='x unified', showlegend=False)
     fig.update_xaxes(gridcolor='lightgrey')
@@ -578,8 +598,8 @@ def multipleNations(selectedNation, selectedGender, selectedCategory, graphStore
             nationRank = nationFrame.index + 1
 
     fig = px.scatter(nationsBubble, x="X", y="Y",
-	         size="Points", color="Nation", 
-                 hover_name="Nation", log_x=True, size_max=60)
+                 size="Points", color="Nation", 
+                 hover_name='Nation', hover_data={"Nation":False, "X": False, "Y": False, "Points": True}, log_x=True, size_max=60)
 
     # Updating Graph Design
     fig.update_layout(plot_bgcolor='#070635', paper_bgcolor='#070635', width=960, height=500, font_color="white", margin=dict(l=0, r=0, t=0, b=0))
