@@ -1,50 +1,52 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Mason Griffin,Male,29-03-2024,Mt St. Anne,CAN,Canada,Nor-Am Cup,Snowboard Cross,17,28.00
-1,Mason Griffin,Male,28-03-2024,Mt St. Anne,CAN,Canada,Nor-Am Cup,Snowboard Cross,DNS,
-2,Mason Griffin,Male,24-03-2024,Mt. St. Anne,CAN,Canada,World Cup,Snowboard Cross,48,16.10
-3,Mason Griffin,Male,23-03-2024,Mt. St. Anne,CAN,Canada,World Cup,Snowboard Cross,55,
-4,Mason Griffin,Male,22-03-2024,Mt. St. Anne,CAN,Canada,Qualification,Snowboard Cross,55,
-5,Mason Griffin,Male,08-03-2024,Beaver Valley,CAN,Canada,National Junior Championships,Snowboard Cross,3,42.00
-6,Mason Griffin,Male,21-02-2024,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,32,5.20
-7,Mason Griffin,Male,26-03-2023,Mt. St. Anne,CAN,Canada,World Cup,Snowboard Cross,33,24.00
-8,Mason Griffin,Male,25-03-2023,Mt. St. Anne,CAN,Canada,World Cup,Snowboard Cross,46,
-9,Mason Griffin,Male,24-03-2023,Mt. St. Anne,CAN,Canada,Qualification,Snowboard Cross,46,
-10,Mason Griffin,Male,21-03-2023,Mt. Orignal,CAN,Canada,Junior,Snowboard Cross,13,24.00
-11,Mason Griffin,Male,20-03-2023,Mt. Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,6,64.00
-12,Mason Griffin,Male,16-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,3,96.00
-13,Mason Griffin,Male,15-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,7,57.60
-14,Mason Griffin,Male,02-03-2023,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,7,57.60
-15,Mason Griffin,Male,01-03-2023,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,4,80.00
-16,Mason Griffin,Male,08-02-2023,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,15,25.60
-17,Mason Griffin,Male,07-02-2023,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,6,64.00
-18,Mason Griffin,Male,26-01-2023,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,27,7.20
-19,Mason Griffin,Male,25-01-2023,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,25,9.60
-20,Mason Griffin,Male,12-01-2023,Sunshine Village,CAN,Canada,Nor-Am Cup,Snowboard Cross,11,86.40
-21,Mason Griffin,Male,11-01-2023,Sunshine Village,CAN,Canada,Nor-Am Cup,Snowboard Cross,17,50.40
-22,Mason Griffin,Male,27-11-2022,Pitztal,AUT,Canada,Junior,Snowboard Cross,33,3.84
-23,Mason Griffin,Male,26-11-2022,Pitztal,AUT,Canada,Junior,Snowboard Cross,20,19.80
-24,Mason Griffin,Male,25-11-2022,Pitztal,AUT,Canada,FIS,Snowboard Cross,33,5.28
-25,Mason Griffin,Male,31-03-2022,Veysonnaz,SUI,Canada,FIS Junior World Championships,Snowboard Cross,33,6.24
-26,Mason Griffin,Male,19-03-2022,Mt. Orignal,CAN,Canada,National Junior Championships,Snowboard Cross,6,56.00
-27,Mason Griffin,Male,18-03-2022,Mt. Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,9,46.40
-28,Mason Griffin,Male,12-03-2022,Beaver Valley,CAN,Canada,Nor-Am Cup,Snowboard Cross,4,80.00
-29,Mason Griffin,Male,11-03-2022,Beaver Valley,CAN,Canada,Nor-Am Cup,Snowboard Cross,9,46.40
-30,Mason Griffin,Male,18-02-2022,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,14,32.40
-31,Mason Griffin,Male,17-02-2022,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,25,10.80
-32,Mason Griffin,Male,07-02-2022,Gore Mountain,USA,Canada,Nor-Am Cup,Snowboard Cross,9,52.20
-33,Mason Griffin,Male,06-02-2022,Gore Mountain,USA,Canada,Nor-Am Cup,Snowboard Cross,13,36.00
-34,Mason Griffin,Male,13-01-2022,Sunshine Village,CAN,Canada,Nor-Am Cup,Snowboard Cross,9,46.40
-35,Mason Griffin,Male,12-01-2022,Sunshine Village,CAN,Canada,Nor-Am Cup,Snowboard Cross,10,41.60
-36,Mason Griffin,Male,23-03-2021,Krasnoyarsk ,RUS,Canada,FIS Junior World Championships,Snowboard Cross,19,31.20
-37,Mason Griffin,Male,12-03-2021,Lenk,SUI,Canada,European Cup,Snowboard Cross,50,3.72
-38,Mason Griffin,Male,07-03-2021,Montafon/Gargellen,AUT,Canada,European Cup,Snowboard Cross,13,36.00
-39,Mason Griffin,Male,06-03-2021,Montafon/Gargellen,AUT,Canada,European Cup,Snowboard Cross,40,3.33
-40,Mason Griffin,Male,28-02-2021,Reiteralm,AUT,Canada,European Cup,Snowboard Cross,35,3.60
-41,Mason Griffin,Male,27-02-2021,Reiteralm,AUT,Canada,European Cup,Snowboard Cross,8,57.60
-42,Mason Griffin,Male,12-03-2020,Mont Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,27,9.00
-43,Mason Griffin,Male,06-03-2020,Beaver Valley,CAN,Canada,Nor-Am Cup,Snowboard Cross,16,24.00
-44,Mason Griffin,Male,05-03-2020,Beaver Valley,CAN,Canada,Nor-Am Cup,Snowboard Cross,22,14.40
-45,Mason Griffin,Male,23-02-2020,Caledon Ski Club,CAN,Canada,FIS,Snowboard Cross,1,50.00
-46,Mason Griffin,Male,01-02-2020,Craigleith Ski Club,CAN,Canada,FIS,Snowboard Cross,17,7.00
-47,Mason Griffin,Male,19-01-2020,"Bromont, QC",CAN,Canada,FIS,Snowboard Cross,1,50.00
-48,Mason Griffin,Male,18-01-2020,"Bromont, QC",CAN,Canada,FIS,Snowboard Cross,5,22.50
+0,Mason Griffin,Male,05-01-2025,Sun Peaks,CAN,Canada,Nor-Am Cup,Snowboard Cross,2,128.00
+1,Mason Griffin,Male,04-01-2025,Sun Peaks,CAN,Canada,Nor-Am Cup,Snowboard Cross,1,160.00
+2,Mason Griffin,Male,29-03-2024,Mt St. Anne,CAN,Canada,Nor-Am Cup,Snowboard Cross,17,28.00
+3,Mason Griffin,Male,28-03-2024,Mt St. Anne,CAN,Canada,Nor-Am Cup,Snowboard Cross,DNS,
+4,Mason Griffin,Male,24-03-2024,Mt. St. Anne,CAN,Canada,World Cup,Snowboard Cross,48,16.10
+5,Mason Griffin,Male,23-03-2024,Mt. St. Anne,CAN,Canada,World Cup,Snowboard Cross,55,
+6,Mason Griffin,Male,22-03-2024,Mt. St. Anne,CAN,Canada,Qualification,Snowboard Cross,55,
+7,Mason Griffin,Male,08-03-2024,Beaver Valley,CAN,Canada,National Junior Championships,Snowboard Cross,3,42.00
+8,Mason Griffin,Male,21-02-2024,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,32,5.20
+9,Mason Griffin,Male,26-03-2023,Mt. St. Anne,CAN,Canada,World Cup,Snowboard Cross,33,24.00
+10,Mason Griffin,Male,25-03-2023,Mt. St. Anne,CAN,Canada,World Cup,Snowboard Cross,46,
+11,Mason Griffin,Male,24-03-2023,Mt. St. Anne,CAN,Canada,Qualification,Snowboard Cross,46,
+12,Mason Griffin,Male,21-03-2023,Mt. Orignal,CAN,Canada,Junior,Snowboard Cross,13,24.00
+13,Mason Griffin,Male,20-03-2023,Mt. Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,6,64.00
+14,Mason Griffin,Male,16-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,3,96.00
+15,Mason Griffin,Male,15-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,7,57.60
+16,Mason Griffin,Male,02-03-2023,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,7,57.60
+17,Mason Griffin,Male,01-03-2023,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,4,80.00
+18,Mason Griffin,Male,08-02-2023,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,15,25.60
+19,Mason Griffin,Male,07-02-2023,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,6,64.00
+20,Mason Griffin,Male,26-01-2023,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,27,7.20
+21,Mason Griffin,Male,25-01-2023,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,25,9.60
+22,Mason Griffin,Male,12-01-2023,Sunshine Village,CAN,Canada,Nor-Am Cup,Snowboard Cross,11,86.40
+23,Mason Griffin,Male,11-01-2023,Sunshine Village,CAN,Canada,Nor-Am Cup,Snowboard Cross,17,50.40
+24,Mason Griffin,Male,27-11-2022,Pitztal,AUT,Canada,Junior,Snowboard Cross,33,3.84
+25,Mason Griffin,Male,26-11-2022,Pitztal,AUT,Canada,Junior,Snowboard Cross,20,19.80
+26,Mason Griffin,Male,25-11-2022,Pitztal,AUT,Canada,FIS,Snowboard Cross,33,5.28
+27,Mason Griffin,Male,31-03-2022,Veysonnaz,SUI,Canada,FIS Junior World Championships,Snowboard Cross,33,6.24
+28,Mason Griffin,Male,19-03-2022,Mt. Orignal,CAN,Canada,National Junior Championships,Snowboard Cross,6,56.00
+29,Mason Griffin,Male,18-03-2022,Mt. Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,9,46.40
+30,Mason Griffin,Male,12-03-2022,Beaver Valley,CAN,Canada,Nor-Am Cup,Snowboard Cross,4,80.00
+31,Mason Griffin,Male,11-03-2022,Beaver Valley,CAN,Canada,Nor-Am Cup,Snowboard Cross,9,46.40
+32,Mason Griffin,Male,18-02-2022,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,14,32.40
+33,Mason Griffin,Male,17-02-2022,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,25,10.80
+34,Mason Griffin,Male,07-02-2022,Gore Mountain,USA,Canada,Nor-Am Cup,Snowboard Cross,9,52.20
+35,Mason Griffin,Male,06-02-2022,Gore Mountain,USA,Canada,Nor-Am Cup,Snowboard Cross,13,36.00
+36,Mason Griffin,Male,13-01-2022,Sunshine Village,CAN,Canada,Nor-Am Cup,Snowboard Cross,9,46.40
+37,Mason Griffin,Male,12-01-2022,Sunshine Village,CAN,Canada,Nor-Am Cup,Snowboard Cross,10,41.60
+38,Mason Griffin,Male,23-03-2021,Krasnoyarsk ,RUS,Canada,FIS Junior World Championships,Snowboard Cross,19,31.20
+39,Mason Griffin,Male,12-03-2021,Lenk,SUI,Canada,European Cup,Snowboard Cross,50,3.72
+40,Mason Griffin,Male,07-03-2021,Montafon/Gargellen,AUT,Canada,European Cup,Snowboard Cross,13,36.00
+41,Mason Griffin,Male,06-03-2021,Montafon/Gargellen,AUT,Canada,European Cup,Snowboard Cross,40,3.33
+42,Mason Griffin,Male,28-02-2021,Reiteralm,AUT,Canada,European Cup,Snowboard Cross,35,3.60
+43,Mason Griffin,Male,27-02-2021,Reiteralm,AUT,Canada,European Cup,Snowboard Cross,8,57.60
+44,Mason Griffin,Male,12-03-2020,Mont Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,27,9.00
+45,Mason Griffin,Male,06-03-2020,Beaver Valley,CAN,Canada,Nor-Am Cup,Snowboard Cross,16,24.00
+46,Mason Griffin,Male,05-03-2020,Beaver Valley,CAN,Canada,Nor-Am Cup,Snowboard Cross,22,14.40
+47,Mason Griffin,Male,23-02-2020,Caledon Ski Club,CAN,Canada,FIS,Snowboard Cross,1,50.00
+48,Mason Griffin,Male,01-02-2020,Craigleith Ski Club,CAN,Canada,FIS,Snowboard Cross,17,7.00
+49,Mason Griffin,Male,19-01-2020,"Bromont, QC",CAN,Canada,FIS,Snowboard Cross,1,50.00
+50,Mason Griffin,Male,18-01-2020,"Bromont, QC",CAN,Canada,FIS,Snowboard Cross,5,22.50

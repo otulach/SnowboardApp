@@ -1,72 +1,88 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Gams Marie,Female,24-03-2024,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Slalom Team,6,
-1,Gams Marie,Female,23-03-2024,Lachtal,AUT,Austria,Qualification,Parallel Slalom,5,
-2,Gams Marie,Female,23-03-2024,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Slalom,3,144.00
-3,Gams Marie,Female,22-03-2024,Lachtal,AUT,Austria,Qualification,Parallel Giant Slalom,13,
-4,Gams Marie,Female,22-03-2024,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Giant Slalom,4,120.00
-5,Gams Marie,Female,10-03-2024,Senales - Schnals,ITA,Austria,FIS,Parallel Slalom,7,39.60
-6,Gams Marie,Female,09-03-2024,Senales - Schnals,ITA,Austria,FIS,Parallel Slalom,8,35.20
-7,Gams Marie,Female,24-02-2024,Alleghe,ITA,Austria,Junior,Parallel Giant Slalom,3,84.00
-8,Gams Marie,Female,10-02-2024,Hochficht/Zwiesel,AUT,Austria,National Championships,Parallel Slalom,8,92.80
-9,Gams Marie,Female,09-02-2024,Hochficht/Zwiesel,AUT,Austria,National Championships,Parallel Giant Slalom,9,84.10
-10,Gams Marie,Female,04-02-2024,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,7,50.40
-11,Gams Marie,Female,03-02-2024,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,6,56.00
-12,Gams Marie,Female,28-01-2024,Nova Levante - Welschnofen,ITA,Austria,FIS,Parallel Giant Slalom,15,28.80
-13,Gams Marie,Female,27-01-2024,Nova Levante - Welschnofen,ITA,Austria,FIS,Parallel Giant Slalom,19,21.60
-14,Gams Marie,Female,05-01-2024,Simonhöhe,AUT,Austria,Junior,Parallel Giant Slalom,6,56.00
-15,Gams Marie,Female,22-12-2023,Moninec,CZE,Austria,Junior,Parallel Slalom,2,56.00
-16,Gams Marie,Female,21-12-2023,Moninec,CZE,Austria,Junior,Parallel Slalom,2,88.00
-17,Gams Marie,Female,20-12-2023,Moninec,CZE,Austria,European Cup,Parallel Slalom,DSQ,
-18,Gams Marie,Female,19-12-2023,Moninec,CZE,Austria,European Cup,Parallel Slalom,DSQ,
-19,Gams Marie,Female,10-12-2023,Götschen,GER,Austria,Junior,Parallel Slalom,12,35.20
-20,Gams Marie,Female,09-12-2023,Götschen,GER,Austria,European Cup,Parallel Slalom,21,36.00
-21,Gams Marie,Female,09-12-2023,Götschen,GER,Austria,Qualification,Parallel Slalom,21,
-22,Gams Marie,Female,08-12-2023,Götschen,GER,Austria,European Cup,Parallel Slalom,19,43.20
-23,Gams Marie,Female,08-12-2023,Götschen,GER,Austria,Qualification,Parallel Slalom,19,
-24,Gams Marie,Female,02-04-2023,Haus im Ennstal,AUT,Austria,National Championships,Parallel Slalom,9,84.10
-25,Gams Marie,Female,01-04-2023,Haus im Ennstal,AUT,Austria,National Championships,Parallel Giant Slalom,4,145.00
-26,Gams Marie,Female,26-03-2023,Bansko,BUL,Austria,FIS Junior World Championships,Parallel Team,17,
-27,Gams Marie,Female,25-03-2023,Bansko,BUL,Austria,Qualification,Parallel Slalom,29,
-28,Gams Marie,Female,25-03-2023,Bansko,BUL,Austria,FIS Junior World Championships,Parallel Slalom,29,12.96
-29,Gams Marie,Female,24-03-2023,Bansko,BUL,Austria,Qualification,Parallel Giant Slalom,24,
-30,Gams Marie,Female,24-03-2023,Bansko,BUL,Austria,FIS Junior World Championships,Parallel Giant Slalom,24,25.20
-31,Gams Marie,Female,12-03-2023,ORTISEI,ITA,Austria,FIS,Giant Slalom,9,29.00
-32,Gams Marie,Female,11-03-2023,ORTISEI,ITA,Austria,FIS,Giant Slalom,13,20.00
-33,Gams Marie,Female,05-03-2023,Val Senales,ITA,Austria,FIS,Parallel Slalom,10,28.60
-34,Gams Marie,Female,04-03-2023,Val Senales,ITA,Austria,FIS,Parallel Slalom,19,
-35,Gams Marie,Female,26-02-2023,Simonhoehe,AUT,Austria,Junior,Parallel Giant Slalom,11,38.40
-36,Gams Marie,Female,25-02-2023,Simonhoehe,AUT,Austria,Junior,Parallel Giant Slalom,11,43.20
-37,Gams Marie,Female,12-02-2023,Funes - Vilnoess,ITA,Austria,FIS,Parallel Giant Slalom,20,22.00
-38,Gams Marie,Female,11-02-2023,Funes - Vilnoess,ITA,Austria,FIS,Parallel Giant Slalom,18,26.00
-39,Gams Marie,Female,05-02-2023,Gosau,AUT,Austria,FIS,Slalom,5,40.50
-40,Gams Marie,Female,04-02-2023,Gosau,AUT,Austria,FIS,Slalom,1,90.00
-41,Gams Marie,Female,04-02-2023,Gosau,AUT,Austria,FIS,Slalom,6,36.00
-42,Gams Marie,Female,29-01-2023,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,36,
-43,Gams Marie,Female,29-01-2023,Simonhöhe,AUT,Austria,European Cup,Parallel Giant Slalom,36,4.73
-44,Gams Marie,Female,28-01-2023,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,25,
-45,Gams Marie,Female,28-01-2023,Simonhöhe,AUT,Austria,European Cup,Parallel Giant Slalom,25,14.40
-46,Gams Marie,Female,23-01-2023,Piancavallo,ITA,Austria,European Youth Olympic Festival,Parallel Giant Slalom,3,72.00
-47,Gams Marie,Female,15-01-2023,Alleghe,ITA,Austria,Qualification,Parallel Slalom,28,
-48,Gams Marie,Female,15-01-2023,Alleghe,ITA,Austria,European Cup,Parallel Slalom,28,
-49,Gams Marie,Female,14-01-2023,Alleghe,ITA,Austria,Qualification,Parallel Slalom,21,
-50,Gams Marie,Female,14-01-2023,Alleghe,ITA,Austria,European Cup,Parallel Slalom,21,20.00
-51,Gams Marie,Female,08-01-2023,Haus im Ennstal,AUT,Austria,Junior,Giant Slalom,22,10.80
-52,Gams Marie,Female,07-01-2023,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,22,11.70
-53,Gams Marie,Female,27-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,17,40.60
-54,Gams Marie,Female,26-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Giant Slalom,16,43.50
-55,Gams Marie,Female,20-03-2022,Senales - Schnals,ITA,Austria,Junior,Parallel Slalom,13,28.00
-56,Gams Marie,Female,19-03-2022,Senales - Schnals,ITA,Austria,Junior,Parallel Slalom,17,19.60
-57,Gams Marie,Female,13-03-2022,Pizol,SUI,Austria,Junior,Parallel Slalom,13,26.00
-58,Gams Marie,Female,12-03-2022,Pizol,SUI,Austria,Junior,Parallel Slalom,8,41.60
-59,Gams Marie,Female,06-03-2022,Lachtal,AUT,Austria,European Cup,Parallel Giant Slalom,38,6.88
-60,Gams Marie,Female,05-03-2022,Lachtal,AUT,Austria,European Cup,Parallel Giant Slalom,42,6.44
-61,Gams Marie,Female,27-02-2022,Simonhöhe,AUT,Austria,FIS,Parallel Giant Slalom,21,18.00
-62,Gams Marie,Female,26-02-2022,Simonhöhe,AUT,Austria,FIS,Parallel Giant Slalom,18,23.40
-63,Gams Marie,Female,06-02-2022,Ebensee,AUT,Austria,FIS,Parallel Slalom,6,20.00
-64,Gams Marie,Female,05-02-2022,Ebensee,AUT,Austria,FIS,Parallel Slalom,8,16.00
-65,Gams Marie,Female,09-01-2022,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,24,
-66,Gams Marie,Female,08-01-2022,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,17,18.20
-67,Gams Marie,Female,21-12-2021,Moninec,CZE,Austria,FIS,Parallel Slalom,29,6.48
-68,Gams Marie,Female,20-12-2021,Moninec,CZE,Austria,FIS,Parallel Slalom,33,4.32
-69,Gams Marie,Female,19-12-2021,Moninec,CZE,Austria,European Cup,Parallel Slalom,DSQ,
-70,Gams Marie,Female,18-12-2021,Moninec,CZE,Austria,European Cup,Parallel Slalom,28,8.00
+0,Gams Marie,Female,26-01-2025,Simonhöhe,AUT,Austria,European Cup,Parallel Giant Slalom,27,16.20
+1,Gams Marie,Female,25-01-2025,Simonhöhe,AUT,Austria,European Cup,Parallel Giant Slalom,36,
+2,Gams Marie,Female,22-01-2025,Bansko,BUL,Austria,European Cup,Parallel Giant Slalom,22,32.40
+3,Gams Marie,Female,21-01-2025,Bansko,BUL,Austria,European Cup,Parallel Giant Slalom,33,8.64
+4,Gams Marie,Female,12-01-2025,Nova Levante - Welschnofen,ITA,Austria,FIS,Parallel Giant Slalom,17,19.60
+5,Gams Marie,Female,11-01-2025,Folgaria,ITA,Austria,Qualification,Parallel Giant Slalom,27,
+6,Gams Marie,Female,11-01-2025,Folgaria,ITA,Austria,European Cup,Parallel Giant Slalom,27,
+7,Gams Marie,Female,10-01-2025,Folgaria,ITA,Austria,European Cup,Parallel Giant Slalom,DNF,
+8,Gams Marie,Female,06-01-2025,Simonhoehe,AUT,Austria,Junior Regional Cup,Parallel Giant Slalom,4,70.00
+9,Gams Marie,Female,05-01-2025,Simonhoehe,AUT,Austria,Junior Regional Cup,Parallel Giant Slalom,4,70.00
+10,Gams Marie,Female,22-12-2024,Moninec,CZE,Austria,FIS,Parallel Slalom,30,5.76
+11,Gams Marie,Female,21-12-2024,Moninec,CZE,Austria,FIS,Parallel Slalom,22,14.40
+12,Gams Marie,Female,20-12-2024,Moninec,CZE,Austria,European Cup,Parallel Slalom,12,52.80
+13,Gams Marie,Female,19-12-2024,Moninec,CZE,Austria,European Cup,Parallel Slalom,1,240.00
+14,Gams Marie,Female,15-12-2024,Götschen,GER,Austria,European Cup,Parallel Slalom,7,86.40
+15,Gams Marie,Female,14-12-2024,Götschen,GER,Austria,European Cup,Parallel Slalom,15,35.20
+16,Gams Marie,Female,24-03-2024,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Slalom Team,6,
+17,Gams Marie,Female,23-03-2024,Lachtal,AUT,Austria,Qualification,Parallel Slalom,5,
+18,Gams Marie,Female,23-03-2024,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Slalom,3,144.00
+19,Gams Marie,Female,22-03-2024,Lachtal,AUT,Austria,Qualification,Parallel Giant Slalom,13,
+20,Gams Marie,Female,22-03-2024,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Giant Slalom,4,120.00
+21,Gams Marie,Female,10-03-2024,Senales - Schnals,ITA,Austria,FIS,Parallel Slalom,7,39.60
+22,Gams Marie,Female,09-03-2024,Senales - Schnals,ITA,Austria,FIS,Parallel Slalom,8,35.20
+23,Gams Marie,Female,24-02-2024,Alleghe,ITA,Austria,Junior,Parallel Giant Slalom,3,84.00
+24,Gams Marie,Female,10-02-2024,Hochficht/Zwiesel,AUT,Austria,National Championships,Parallel Slalom,8,92.80
+25,Gams Marie,Female,09-02-2024,Hochficht/Zwiesel,AUT,Austria,National Championships,Parallel Giant Slalom,9,84.10
+26,Gams Marie,Female,04-02-2024,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,7,50.40
+27,Gams Marie,Female,03-02-2024,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,6,56.00
+28,Gams Marie,Female,28-01-2024,Nova Levante - Welschnofen,ITA,Austria,FIS,Parallel Giant Slalom,15,28.80
+29,Gams Marie,Female,27-01-2024,Nova Levante - Welschnofen,ITA,Austria,FIS,Parallel Giant Slalom,19,21.60
+30,Gams Marie,Female,05-01-2024,Simonhöhe,AUT,Austria,Junior,Parallel Giant Slalom,6,56.00
+31,Gams Marie,Female,22-12-2023,Moninec,CZE,Austria,Junior,Parallel Slalom,2,56.00
+32,Gams Marie,Female,21-12-2023,Moninec,CZE,Austria,Junior,Parallel Slalom,2,88.00
+33,Gams Marie,Female,20-12-2023,Moninec,CZE,Austria,European Cup,Parallel Slalom,DSQ,
+34,Gams Marie,Female,19-12-2023,Moninec,CZE,Austria,European Cup,Parallel Slalom,DSQ,
+35,Gams Marie,Female,10-12-2023,Götschen,GER,Austria,Junior,Parallel Slalom,12,35.20
+36,Gams Marie,Female,09-12-2023,Götschen,GER,Austria,European Cup,Parallel Slalom,21,36.00
+37,Gams Marie,Female,09-12-2023,Götschen,GER,Austria,Qualification,Parallel Slalom,21,
+38,Gams Marie,Female,08-12-2023,Götschen,GER,Austria,European Cup,Parallel Slalom,19,43.20
+39,Gams Marie,Female,08-12-2023,Götschen,GER,Austria,Qualification,Parallel Slalom,19,
+40,Gams Marie,Female,02-04-2023,Haus im Ennstal,AUT,Austria,National Championships,Parallel Slalom,9,84.10
+41,Gams Marie,Female,01-04-2023,Haus im Ennstal,AUT,Austria,National Championships,Parallel Giant Slalom,4,145.00
+42,Gams Marie,Female,26-03-2023,Bansko,BUL,Austria,FIS Junior World Championships,Parallel Team,17,
+43,Gams Marie,Female,25-03-2023,Bansko,BUL,Austria,FIS Junior World Championships,Parallel Slalom,29,12.96
+44,Gams Marie,Female,25-03-2023,Bansko,BUL,Austria,Qualification,Parallel Slalom,29,
+45,Gams Marie,Female,24-03-2023,Bansko,BUL,Austria,Qualification,Parallel Giant Slalom,24,
+46,Gams Marie,Female,24-03-2023,Bansko,BUL,Austria,FIS Junior World Championships,Parallel Giant Slalom,24,25.20
+47,Gams Marie,Female,12-03-2023,ORTISEI,ITA,Austria,FIS,Giant Slalom,9,29.00
+48,Gams Marie,Female,11-03-2023,ORTISEI,ITA,Austria,FIS,Giant Slalom,13,20.00
+49,Gams Marie,Female,05-03-2023,Val Senales,ITA,Austria,FIS,Parallel Slalom,10,28.60
+50,Gams Marie,Female,04-03-2023,Val Senales,ITA,Austria,FIS,Parallel Slalom,19,
+51,Gams Marie,Female,26-02-2023,Simonhoehe,AUT,Austria,Junior,Parallel Giant Slalom,11,38.40
+52,Gams Marie,Female,25-02-2023,Simonhoehe,AUT,Austria,Junior,Parallel Giant Slalom,11,43.20
+53,Gams Marie,Female,12-02-2023,Funes - Vilnoess,ITA,Austria,FIS,Parallel Giant Slalom,20,22.00
+54,Gams Marie,Female,11-02-2023,Funes - Vilnoess,ITA,Austria,FIS,Parallel Giant Slalom,18,26.00
+55,Gams Marie,Female,05-02-2023,Gosau,AUT,Austria,FIS,Slalom,5,40.50
+56,Gams Marie,Female,04-02-2023,Gosau,AUT,Austria,FIS,Slalom,6,36.00
+57,Gams Marie,Female,04-02-2023,Gosau,AUT,Austria,FIS,Slalom,1,90.00
+58,Gams Marie,Female,29-01-2023,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,36,
+59,Gams Marie,Female,29-01-2023,Simonhöhe,AUT,Austria,European Cup,Parallel Giant Slalom,36,4.73
+60,Gams Marie,Female,28-01-2023,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,25,
+61,Gams Marie,Female,28-01-2023,Simonhöhe,AUT,Austria,European Cup,Parallel Giant Slalom,25,14.40
+62,Gams Marie,Female,23-01-2023,Piancavallo,ITA,Austria,European Youth Olympic Festival,Parallel Giant Slalom,3,72.00
+63,Gams Marie,Female,15-01-2023,Alleghe,ITA,Austria,European Cup,Parallel Slalom,28,
+64,Gams Marie,Female,15-01-2023,Alleghe,ITA,Austria,Qualification,Parallel Slalom,28,
+65,Gams Marie,Female,14-01-2023,Alleghe,ITA,Austria,Qualification,Parallel Slalom,21,
+66,Gams Marie,Female,14-01-2023,Alleghe,ITA,Austria,European Cup,Parallel Slalom,21,20.00
+67,Gams Marie,Female,08-01-2023,Haus im Ennstal,AUT,Austria,Junior,Giant Slalom,22,10.80
+68,Gams Marie,Female,07-01-2023,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,22,11.70
+69,Gams Marie,Female,27-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,17,40.60
+70,Gams Marie,Female,26-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Giant Slalom,16,43.50
+71,Gams Marie,Female,20-03-2022,Senales - Schnals,ITA,Austria,Junior,Parallel Slalom,13,28.00
+72,Gams Marie,Female,19-03-2022,Senales - Schnals,ITA,Austria,Junior,Parallel Slalom,17,19.60
+73,Gams Marie,Female,13-03-2022,Pizol,SUI,Austria,Junior,Parallel Slalom,13,26.00
+74,Gams Marie,Female,12-03-2022,Pizol,SUI,Austria,Junior,Parallel Slalom,8,41.60
+75,Gams Marie,Female,06-03-2022,Lachtal,AUT,Austria,European Cup,Parallel Giant Slalom,38,6.88
+76,Gams Marie,Female,05-03-2022,Lachtal,AUT,Austria,European Cup,Parallel Giant Slalom,42,6.44
+77,Gams Marie,Female,27-02-2022,Simonhöhe,AUT,Austria,FIS,Parallel Giant Slalom,21,18.00
+78,Gams Marie,Female,26-02-2022,Simonhöhe,AUT,Austria,FIS,Parallel Giant Slalom,18,23.40
+79,Gams Marie,Female,06-02-2022,Ebensee,AUT,Austria,FIS,Parallel Slalom,6,20.00
+80,Gams Marie,Female,05-02-2022,Ebensee,AUT,Austria,FIS,Parallel Slalom,8,16.00
+81,Gams Marie,Female,09-01-2022,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,24,
+82,Gams Marie,Female,08-01-2022,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,17,18.20
+83,Gams Marie,Female,21-12-2021,Moninec,CZE,Austria,FIS,Parallel Slalom,29,6.48
+84,Gams Marie,Female,20-12-2021,Moninec,CZE,Austria,FIS,Parallel Slalom,33,4.32
+85,Gams Marie,Female,19-12-2021,Moninec,CZE,Austria,European Cup,Parallel Slalom,DSQ,
+86,Gams Marie,Female,18-12-2021,Moninec,CZE,Austria,European Cup,Parallel Slalom,28,8.00

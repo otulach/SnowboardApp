@@ -7,21 +7,20 @@ import os
 import numpy as np
 import random
 from datetime import datetime
+import pyarrow as pa
+import pyarrow.parquet as pq
 
 weather = pd.read_csv('Weather2023.csv')
 weather['Date Formated'] = weather.apply(lambda x: datetime.strptime(x['Date'],"%Y-%m-%d"), axis=1)
 weather['Temp Avg'] = weather['Temp Avg'].astype(float)
 
-filesCSV = [f for f in os.listdir('AthletesCSV') if f.endswith('.csv')]
-dfs = []
+arrow = pq.read_table("AthletesCSV/allathletes.parquet")
+athletes = arrow.to_pandas()
 
-for csv in filesCSV:
-    df = pd.read_csv(os.path.join("AthletesCSV", csv))
-    dfs.append(df)
-    
-athletes = pd.concat(dfs, ignore_index=True)
 athletes = athletes[athletes['Category'] != "Qualification"]
 athletes = athletes[athletes['Discipline'].isin(['Parallel Slalom', 'Slalom', 'Parallel GS', 'Parallel Giant Slalom', 'Giant Slalom'])]
+athletes['FIS Points'] = pd.to_numeric(athletes['FIS Points'], downcast='integer', errors='coerce')
+
 
 athletes['Date Formated'] = athletes.apply(lambda x: datetime.strptime(x['Date'],"%d-%m-%Y"), axis=1)
 athletes = athletes.drop_duplicates().sort_values(by='Date Formated', ascending=True)
@@ -53,18 +52,18 @@ def currentPoints(category, gender):
         singleAthlete = allAthletes[(allAthletes['Name'] == name)]
 
         # Seeing how many races of the single category this racer did in last year
-        isActive = 1
+        isActive = True
         if category != None:
             controledFrame = singleAthlete[singleAthlete['Category'] == category]
 
             frameSize = len(controledFrame)
 
             if frameSize <= 1 and (category == 'FIS' or category == 'European Cup'):
-                isActive = 0 
+                isActive = False
             elif frameSize <= 0 and category == 'World Cup':
-                isActive = 0 
+                isActive = False 
 
-        if len(singleAthlete) >= 2 and isActive == 1:
+        if len(singleAthlete) >= 2 and isActive == True:
             singleAthlete = singleAthlete.sort_values(by='FIS Points', ascending=False)
             points = singleAthlete['FIS Points'].tolist()
             hisCurrent = (points[0] + points[1]) / 2
@@ -116,7 +115,7 @@ bubblePrep = bubbleChartPrep(5, None, 'Male')
 lastCategory = None
 lastGender = 'Male'
 
-app = Dash(__name__, external_stylesheets=[dbc.themes.FLATLY])
+app = Dash(__name__, external_stylesheets=[dbc.themes.FLATLY, '/assets/responsive_updated.css'])
 server = app.server
 
 app.layout = dbc.Container([

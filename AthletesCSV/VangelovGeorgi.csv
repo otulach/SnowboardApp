@@ -1,56 +1,58 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Vangelov Georgi,Male,05-04-2024,Bansko,BUL,Bulgaria,National Championships,Parallel Slalom,35,5.20
-1,Vangelov Georgi,Male,04-04-2024,Bansko,BUL,Bulgaria,National Championships,Parallel Giant Slalom,29,9.36
-2,Vangelov Georgi,Male,28-03-2023,Bansko,BUL,Bulgaria,National Championships,Parallel Slalom,22,18.00
-3,Vangelov Georgi,Male,27-03-2023,Bansko,BUL,Bulgaria,National Championships,Parallel Giant Slalom,DSQ,
-4,Vangelov Georgi,Male,09-02-2023,Pamporovo,BUL,Bulgaria,FIS,Parallel Slalom,DSQ,
-5,Vangelov Georgi,Male,08-02-2023,Pamporovo,BUL,Bulgaria,FIS,Parallel Slalom,7,57.60
-6,Vangelov Georgi,Male,06-04-2022,Borovets,BUL,Bulgaria,National Championships,Parallel Slalom,18,26.00
-7,Vangelov Georgi,Male,05-04-2022,Borovets,BUL,Bulgaria,National Championships,Parallel Giant Slalom,15,32.00
-8,Vangelov Georgi,Male,10-03-2022,Pamporovo,BUL,Bulgaria,FIS,Parallel Slalom,10,28.60
-9,Vangelov Georgi,Male,09-03-2022,Pamporovo,BUL,Bulgaria,FIS,Parallel Slalom,12,24.20
-10,Vangelov Georgi,Male,20-02-2022,Bansko,BUL,Bulgaria,FIS,Parallel Slalom,15,28.80
-11,Vangelov Georgi,Male,19-02-2022,Bansko,BUL,Bulgaria,FIS,Parallel Giant Slalom,10,46.80
-12,Vangelov Georgi,Male,14-03-2019,Osogovo,BUL,Bulgaria,National Championships,Parallel Slalom,12,48.40
-13,Vangelov Georgi,Male,13-03-2019,Osogovo,BUL,Bulgaria,National Championships,Parallel Giant Slalom,16,33.00
-14,Vangelov Georgi,Male,21-03-2018,Bansko,BUL,Bulgaria,National Championships,Parallel Slalom,10,67.60
-15,Vangelov Georgi,Male,31-03-2017,Pamporovo,BUL,Bulgaria,National Championships,Parallel Slalom,20,28.60
-16,Vangelov Georgi,Male,30-03-2017,Pamporovo,BUL,Bulgaria,National Championships,Parallel GS,20,28.60
-17,Vangelov Georgi,Male,10-02-2013,Chepelare,BUL,Bulgaria,National Championships,Slalom,28,0.00
-18,Vangelov Georgi,Male,09-02-2013,Chepelare,BUL,Bulgaria,National Championships,Giant Slalom,6,20.00
-19,Vangelov Georgi,Male,22-01-2012,Pamporovo,BUL,Bulgaria,National Championships,Parallel Slalom,6,28.00
-20,Vangelov Georgi,Male,21-01-2012,Pamporovo,BUL,Bulgaria,National Championships,Parallel GS,6,28.00
-21,Vangelov Georgi,Male,06-02-2011,Pamporovo,BUL,Bulgaria,National Championships,Parallel Slalom,3,42.00
-22,Vangelov Georgi,Male,05-02-2011,Pamporovo,BUL,Bulgaria,National Championships,Parallel GS,9,20.30
-23,Vangelov Georgi,Male,11-04-2010,Bansko,BUL,Bulgaria,National Championships,Parallel Slalom,21,9.00
-24,Vangelov Georgi,Male,10-04-2010,Bansko,BUL,Bulgaria,National Championships,Parallel GS,19,10.80
-25,Vangelov Georgi,Male,08-02-2009,Bansko,BUL,Bulgaria,National Championships,Parallel Slalom,9,46.40
-26,Vangelov Georgi,Male,07-02-2009,Bansko,BUL,Bulgaria,National Championships,Parallel GS,11,38.40
-27,Vangelov Georgi,Male,10-02-2008,Bansko,BUL,Bulgaria,National Championships,Parallel Slalom,14,52.20
-28,Vangelov Georgi,Male,09-02-2008,Bansko,BUL,Bulgaria,National Championships,Parallel GS,7,104.40
-29,Vangelov Georgi,Male,25-03-2006,Borovets,BUL,Bulgaria,National Championships,Parallel GS,10,13.00
-30,Vangelov Georgi,Male,16-03-2005,Borovets,BUL,Bulgaria,European Cup,Parallel GS,23,20.80
-31,Vangelov Georgi,Male,15-03-2005,Borovets,BUL,Bulgaria,European Cup,Parallel GS,DSQ,
-32,Vangelov Georgi,Male,19-02-2005,Pamporovo,BUL,Bulgaria,National Championships,Parallel Slalom,8,22.40
-33,Vangelov Georgi,Male,18-02-2005,Pamporovo,BUL,Bulgaria,National Championships,Parallel GS,4,35.00
-34,Vangelov Georgi,Male,20-03-2004,Borovec,BUL,Bulgaria,European Cup,Parallel GS,38,0.00
-35,Vangelov Georgi,Male,19-03-2004,Borovec,BUL,Bulgaria,European Cup,Parallel GS,12,48.40
-36,Vangelov Georgi,Male,22-02-2004,Mavrovo,MKD,Bulgaria,European Cup,Parallel Slalom,18,33.80
-37,Vangelov Georgi,Male,21-02-2004,Mavrovo,MKD,Bulgaria,European Cup,Giant Slalom,14,46.80
-38,Vangelov Georgi,Male,09-03-2003,Borovets,BUL,Bulgaria,European Cup,Parallel GS,8,57.60
-39,Vangelov Georgi,Male,08-03-2003,Borovets,BUL,Bulgaria,European Cup,Parallel GS,8,57.60
-40,Vangelov Georgi,Male,16-02-2003,Voras,GRE,Bulgaria,European Cup,Parallel GS,18,6.50
-41,Vangelov Georgi,Male,22-01-2003,Piancavallo,ITA,Bulgaria,University,Giant Slalom,45,2.72
-42,Vangelov Georgi,Male,03-03-2002,Seli Vermion,GRE,Bulgaria,European Cup,Parallel GS,2,40.00
-43,Vangelov Georgi,Male,02-03-2002,Seli Vermion,GRE,Bulgaria,European Cup,Parallel GS,DNF,
-44,Vangelov Georgi,Male,27-02-2000,Popova Sapka,MKD,Bulgaria,FIS,Slalom,7,36.00
-45,Vangelov Georgi,Male,13-02-2000,Berchtesgaden,GER,Bulgaria,FIS Junior World Championships,Parallel Slalom,49,0.00
-46,Vangelov Georgi,Male,11-02-2000,Berchtesgaden,GER,Bulgaria,FIS Junior World Championships,Parallel GS,89,0.00
-47,Vangelov Georgi,Male,28-03-1999,Parnassos,GRE,Bulgaria,FIS,Slalom,35,2.00
-48,Vangelov Georgi,Male,27-03-1999,Parnassos,GRE,Bulgaria,FIS,Giant Slalom,5,45.00
-49,Vangelov Georgi,Male,22-02-1999,Mavrovo,MKD,Bulgaria,FIS,Giant Slalom,4,50.00
-50,Vangelov Georgi,Male,05-04-1998,Parnassos,GRE,Bulgaria,FIS,Slalom,14,47.00
-51,Vangelov Georgi,Male,04-04-1998,Parnassos,GRE,Bulgaria,FIS,Giant Slalom,18,34.00
-52,Vangelov Georgi,Male,24-01-1998,Chamrousse,FRA,Bulgaria,FIS Junior World Championships,Giant Slalom,46,1.00
-53,Vangelov Georgi,Male,06-04-1997,Parnassos,GRE,Bulgaria,FIS,Giant Slalom,19,31.00
-54,Vangelov Georgi,Male,05-04-1997,Parnassos,GRE,Bulgaria,FIS,Giant Slalom,9,75.00
+0,Vangelov Georgi,Male,22-01-2025,Bansko,BUL,Bulgaria,European Cup,Parallel Giant Slalom,38,
+1,Vangelov Georgi,Male,21-01-2025,Bansko,BUL,Bulgaria,European Cup,Parallel Giant Slalom,40,
+2,Vangelov Georgi,Male,05-04-2024,Bansko,BUL,Bulgaria,National Championships,Parallel Slalom,35,5.20
+3,Vangelov Georgi,Male,04-04-2024,Bansko,BUL,Bulgaria,National Championships,Parallel Giant Slalom,29,9.36
+4,Vangelov Georgi,Male,28-03-2023,Bansko,BUL,Bulgaria,National Championships,Parallel Slalom,22,18.00
+5,Vangelov Georgi,Male,27-03-2023,Bansko,BUL,Bulgaria,National Championships,Parallel Giant Slalom,DSQ,
+6,Vangelov Georgi,Male,09-02-2023,Pamporovo,BUL,Bulgaria,FIS,Parallel Slalom,DSQ,
+7,Vangelov Georgi,Male,08-02-2023,Pamporovo,BUL,Bulgaria,FIS,Parallel Slalom,7,57.60
+8,Vangelov Georgi,Male,06-04-2022,Borovets,BUL,Bulgaria,National Championships,Parallel Slalom,18,26.00
+9,Vangelov Georgi,Male,05-04-2022,Borovets,BUL,Bulgaria,National Championships,Parallel Giant Slalom,15,32.00
+10,Vangelov Georgi,Male,10-03-2022,Pamporovo,BUL,Bulgaria,FIS,Parallel Slalom,10,28.60
+11,Vangelov Georgi,Male,09-03-2022,Pamporovo,BUL,Bulgaria,FIS,Parallel Slalom,12,24.20
+12,Vangelov Georgi,Male,20-02-2022,Bansko,BUL,Bulgaria,FIS,Parallel Slalom,15,28.80
+13,Vangelov Georgi,Male,19-02-2022,Bansko,BUL,Bulgaria,FIS,Parallel Giant Slalom,10,46.80
+14,Vangelov Georgi,Male,14-03-2019,Osogovo,BUL,Bulgaria,National Championships,Parallel Slalom,12,48.40
+15,Vangelov Georgi,Male,13-03-2019,Osogovo,BUL,Bulgaria,National Championships,Parallel Giant Slalom,16,33.00
+16,Vangelov Georgi,Male,21-03-2018,Bansko,BUL,Bulgaria,National Championships,Parallel Slalom,10,67.60
+17,Vangelov Georgi,Male,31-03-2017,Pamporovo,BUL,Bulgaria,National Championships,Parallel Slalom,20,28.60
+18,Vangelov Georgi,Male,30-03-2017,Pamporovo,BUL,Bulgaria,National Championships,Parallel GS,20,28.60
+19,Vangelov Georgi,Male,10-02-2013,Chepelare,BUL,Bulgaria,National Championships,Slalom,28,0.00
+20,Vangelov Georgi,Male,09-02-2013,Chepelare,BUL,Bulgaria,National Championships,Giant Slalom,6,20.00
+21,Vangelov Georgi,Male,22-01-2012,Pamporovo,BUL,Bulgaria,National Championships,Parallel Slalom,6,28.00
+22,Vangelov Georgi,Male,21-01-2012,Pamporovo,BUL,Bulgaria,National Championships,Parallel GS,6,28.00
+23,Vangelov Georgi,Male,06-02-2011,Pamporovo,BUL,Bulgaria,National Championships,Parallel Slalom,3,42.00
+24,Vangelov Georgi,Male,05-02-2011,Pamporovo,BUL,Bulgaria,National Championships,Parallel GS,9,20.30
+25,Vangelov Georgi,Male,11-04-2010,Bansko,BUL,Bulgaria,National Championships,Parallel Slalom,21,9.00
+26,Vangelov Georgi,Male,10-04-2010,Bansko,BUL,Bulgaria,National Championships,Parallel GS,19,10.80
+27,Vangelov Georgi,Male,08-02-2009,Bansko,BUL,Bulgaria,National Championships,Parallel Slalom,9,46.40
+28,Vangelov Georgi,Male,07-02-2009,Bansko,BUL,Bulgaria,National Championships,Parallel GS,11,38.40
+29,Vangelov Georgi,Male,10-02-2008,Bansko,BUL,Bulgaria,National Championships,Parallel Slalom,14,52.20
+30,Vangelov Georgi,Male,09-02-2008,Bansko,BUL,Bulgaria,National Championships,Parallel GS,7,104.40
+31,Vangelov Georgi,Male,25-03-2006,Borovets,BUL,Bulgaria,National Championships,Parallel GS,10,13.00
+32,Vangelov Georgi,Male,16-03-2005,Borovets,BUL,Bulgaria,European Cup,Parallel GS,23,20.80
+33,Vangelov Georgi,Male,15-03-2005,Borovets,BUL,Bulgaria,European Cup,Parallel GS,DSQ,
+34,Vangelov Georgi,Male,19-02-2005,Pamporovo,BUL,Bulgaria,National Championships,Parallel Slalom,8,22.40
+35,Vangelov Georgi,Male,18-02-2005,Pamporovo,BUL,Bulgaria,National Championships,Parallel GS,4,35.00
+36,Vangelov Georgi,Male,20-03-2004,Borovec,BUL,Bulgaria,European Cup,Parallel GS,38,0.00
+37,Vangelov Georgi,Male,19-03-2004,Borovec,BUL,Bulgaria,European Cup,Parallel GS,12,48.40
+38,Vangelov Georgi,Male,22-02-2004,Mavrovo,MKD,Bulgaria,European Cup,Parallel Slalom,18,33.80
+39,Vangelov Georgi,Male,21-02-2004,Mavrovo,MKD,Bulgaria,European Cup,Giant Slalom,14,46.80
+40,Vangelov Georgi,Male,09-03-2003,Borovets,BUL,Bulgaria,European Cup,Parallel GS,8,57.60
+41,Vangelov Georgi,Male,08-03-2003,Borovets,BUL,Bulgaria,European Cup,Parallel GS,8,57.60
+42,Vangelov Georgi,Male,16-02-2003,Voras,GRE,Bulgaria,European Cup,Parallel GS,18,6.50
+43,Vangelov Georgi,Male,22-01-2003,Piancavallo,ITA,Bulgaria,University,Giant Slalom,45,2.72
+44,Vangelov Georgi,Male,03-03-2002,Seli Vermion,GRE,Bulgaria,European Cup,Parallel GS,2,40.00
+45,Vangelov Georgi,Male,02-03-2002,Seli Vermion,GRE,Bulgaria,European Cup,Parallel GS,DNF,
+46,Vangelov Georgi,Male,27-02-2000,Popova Sapka,MKD,Bulgaria,FIS,Slalom,7,36.00
+47,Vangelov Georgi,Male,13-02-2000,Berchtesgaden,GER,Bulgaria,FIS Junior World Championships,Parallel Slalom,49,0.00
+48,Vangelov Georgi,Male,11-02-2000,Berchtesgaden,GER,Bulgaria,FIS Junior World Championships,Parallel GS,89,0.00
+49,Vangelov Georgi,Male,28-03-1999,Parnassos,GRE,Bulgaria,FIS,Slalom,35,2.00
+50,Vangelov Georgi,Male,27-03-1999,Parnassos,GRE,Bulgaria,FIS,Giant Slalom,5,45.00
+51,Vangelov Georgi,Male,22-02-1999,Mavrovo,MKD,Bulgaria,FIS,Giant Slalom,4,50.00
+52,Vangelov Georgi,Male,05-04-1998,Parnassos,GRE,Bulgaria,FIS,Slalom,14,47.00
+53,Vangelov Georgi,Male,04-04-1998,Parnassos,GRE,Bulgaria,FIS,Giant Slalom,18,34.00
+54,Vangelov Georgi,Male,24-01-1998,Chamrousse,FRA,Bulgaria,FIS Junior World Championships,Giant Slalom,46,1.00
+55,Vangelov Georgi,Male,06-04-1997,Parnassos,GRE,Bulgaria,FIS,Giant Slalom,19,31.00
+56,Vangelov Georgi,Male,05-04-1997,Parnassos,GRE,Bulgaria,FIS,Giant Slalom,9,75.00

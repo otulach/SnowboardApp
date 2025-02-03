@@ -1,74 +1,78 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Gennero Lorenzo,Male,19-04-2024,Kitzsteinhorn,AUT,Italy,European Cup,Halfpipe,4,66.20
-1,Gennero Lorenzo,Male,08-04-2024,Corvatsch,SUI,Italy,European Cup,Halfpipe,11,61.40
-2,Gennero Lorenzo,Male,18-03-2023,Laax,SUI,Italy,European Cup Premium,Halfpipe,4,66.20
-3,Gennero Lorenzo,Male,11-02-2022,Beijing,CHN,Italy,Olympic Winter Games,Halfpipe,19,69.80
-4,Gennero Lorenzo,Male,09-02-2022,Beijing,CHN,Italy,Qualification,Halfpipe,19,
-5,Gennero Lorenzo,Male,15-01-2022,Laax,SUI,Italy,World Cup,Halfpipe,38,30.10
-6,Gennero Lorenzo,Male,13-01-2022,Laax,SUI,Italy,Qualification,Halfpipe,20,
-7,Gennero Lorenzo,Male,08-01-2022,Mammoth Mountain,USA,Italy,World Cup,Halfpipe,26,58.40
-8,Gennero Lorenzo,Male,11-12-2021,Copper Mountain,USA,Italy,World Cup,Halfpipe,41,17.70
-9,Gennero Lorenzo,Male,09-12-2021,Copper Mountain,USA,Italy,Qualification,Halfpipe,21,
-10,Gennero Lorenzo,Male,27-03-2021,Laax,SUI,Italy,European Cup,Halfpipe,26,0.14
-11,Gennero Lorenzo,Male,21-03-2021,Aspen,USA,Italy,World Cup,Halfpipe,17,111.01
-12,Gennero Lorenzo,Male,18-03-2021,Aspen,USA,Italy,Qualification,Halfpipe,17,
-13,Gennero Lorenzo,Male,13-03-2021,Aspen,USA,Italy,World Championships,Halfpipe,25,20.40
-14,Gennero Lorenzo,Male,11-03-2021,Aspen,USA,Italy,Qualification,Halfpipe,25,
-15,Gennero Lorenzo,Male,31-01-2021,Crans Montana,SUI,Italy,European Cup,Halfpipe,10,55.48
-16,Gennero Lorenzo,Male,23-01-2021,Laax,SUI,Italy,World Cup,Halfpipe,36,31.55
-17,Gennero Lorenzo,Male,21-01-2021,Laax,SUI,Italy,Qualification,Halfpipe,19,
-18,Gennero Lorenzo,Male,15-02-2020,Calgary,CAN,Italy,World Cup,Halfpipe,20,110.00
-19,Gennero Lorenzo,Male,13-02-2020,Calgary,CAN,Italy,Qualification,Halfpipe,20,
-20,Gennero Lorenzo,Male,31-01-2020,Mammoth Mountain Resort,USA,Italy,World Cup,Halfpipe,19,120.00
-21,Gennero Lorenzo,Male,29-01-2020,Mammoth Mountain Resort,USA,Italy,Qualification,Halfpipe,19,
-22,Gennero Lorenzo,Male,26-01-2020,Crans Montana,SUI,Italy,European Cup,Halfpipe,3,96.00
-23,Gennero Lorenzo,Male,18-01-2020,Laax,SUI,Italy,World Cup,Halfpipe,17,140.00
-24,Gennero Lorenzo,Male,16-01-2020,Laax,SUI,Italy,Qualification,Halfpipe,17,
-25,Gennero Lorenzo,Male,17-03-2019,Kuehtai,AUT,Italy,European Cup,Halfpipe,7,64.80
-26,Gennero Lorenzo,Male,22-02-2019,Davos,SUI,Italy,European Cup,Big Air,18,20.80
-27,Gennero Lorenzo,Male,09-02-2019,Crans Montana,SUI,Italy,European Cup,Halfpipe,1,160.00
-28,Gennero Lorenzo,Male,19-01-2019,Laax,SUI,Italy,World Cup,Halfpipe,35,
-29,Gennero Lorenzo,Male,16-01-2019,Laax,SUI,Italy,Qualification,Halfpipe,17,
-30,Gennero Lorenzo,Male,11-12-2018,"Copper Mountain, CO",USA,Italy,Nor-Am Cup,Halfpipe,16,54.00
-31,Gennero Lorenzo,Male,08-12-2018,Copper Mountain Resort,USA,Italy,World Cup,Halfpipe,22,90.00
-32,Gennero Lorenzo,Male,06-12-2018,Copper Mountain Resort,USA,Italy,Qualification,Halfpipe,10,
-33,Gennero Lorenzo,Male,24-03-2018,Kühtai,AUT,Italy,European Cup,Halfpipe,3,96.00
-34,Gennero Lorenzo,Male,15-03-2018,Laax,SUI,Italy,European Cup,Halfpipe,10,52.00
-35,Gennero Lorenzo,Male,23-02-2018,Davos,SUI,Italy,European Cup,Halfpipe,11,43.20
-36,Gennero Lorenzo,Male,27-01-2018,Crans Montana,SUI,Italy,European Cup,Halfpipe,3,96.00
-37,Gennero Lorenzo,Male,20-01-2018,Laax,SUI,Italy,World Cup,Halfpipe,29,36.00
-38,Gennero Lorenzo,Male,13-01-2018,Snowmass,USA,Italy,World Cup,Halfpipe,28,40.00
-39,Gennero Lorenzo,Male,11-01-2018,Snowmass,USA,Italy,Qualification,Halfpipe,12,
-40,Gennero Lorenzo,Male,21-12-2017,Secret Garden,CHN,Italy,World Cup,Halfpipe,22,90.00
-41,Gennero Lorenzo,Male,19-12-2017,Secret Garden,CHN,Italy,Qualification,Halfpipe,22,
-42,Gennero Lorenzo,Male,12-12-2017,Copper Mountain Resort,USA,Italy,Nor-Am Cup,Halfpipe,12,57.20
-43,Gennero Lorenzo,Male,09-12-2017,Copper Mountain Resort,USA,Italy,World Cup,Halfpipe,32,26.00
-44,Gennero Lorenzo,Male,07-12-2017,Copper Mountain Resort,USA,Italy,Qualification,Halfpipe,17,
-45,Gennero Lorenzo,Male,08-09-2017,Cardrona,NZL,Italy,World Cup,Halfpipe,40,
-46,Gennero Lorenzo,Male,07-09-2017,Cardrona,NZL,Italy,Qualification,Halfpipe,20,
-47,Gennero Lorenzo,Male,26-03-2017,Kühtai,AUT,Italy,European Cup,Halfpipe,5,72.00
-48,Gennero Lorenzo,Male,19-03-2017,Laax,SUI,Italy,European Cup,Halfpipe,17,50.40
-49,Gennero Lorenzo,Male,05-02-2017,Mammoth Mountain Resort,USA,Italy,World Cup,Halfpipe,DNS,
-50,Gennero Lorenzo,Male,21-01-2017,Laax,SUI,Italy,World Cup,Halfpipe,22,90.00
-51,Gennero Lorenzo,Male,16-01-2017,Laax,SUI,Italy,Qualification,Halfpipe,12,
-52,Gennero Lorenzo,Male,17-12-2016,Copper,USA,Italy,World Cup,Big Air,53,
-53,Gennero Lorenzo,Male,16-12-2016,Copper,USA,Italy,World Cup,Halfpipe,37,19.40
-54,Gennero Lorenzo,Male,15-12-2016,Copper,USA,Italy,Qualification,Big Air,27,
-55,Gennero Lorenzo,Male,14-12-2016,Copper,USA,Italy,Qualification,Halfpipe,18,
-56,Gennero Lorenzo,Male,08-12-2016,Copper Mountain Resort,USA,Italy,FIS,Halfpipe,DNS,
-57,Gennero Lorenzo,Male,03-04-2016,Laax,SUI,Italy,National Championships,Halfpipe,6,80.00
-58,Gennero Lorenzo,Male,24-02-2016,Davos,SUI,Italy,European Cup,Halfpipe,11,48.00
-59,Gennero Lorenzo,Male,27-01-2016,Vars,FRA,Italy,European Cup,Slopestyle,DNS1,
-60,Gennero Lorenzo,Male,26-01-2016,Vars,FRA,Italy,European Cup,Slopestyle,DNS1,
-61,Gennero Lorenzo,Male,16-01-2016,Davos,SUI,Italy,European Cup,Big Air,38,3.82
-62,Gennero Lorenzo,Male,05-11-2015,Landgraaf,NED,Italy,European Cup,Slopestyle,55,3.64
-63,Gennero Lorenzo,Male,04-11-2015,Landgraaf,NED,Italy,European Cup,Slopestyle,103,0.00
-64,Gennero Lorenzo,Male,28-11-2014,Landgraaf,NED,Italy,European Cup,Slopestyle,41,3.64
-65,Gennero Lorenzo,Male,27-11-2014,Landgraaf,NED,Italy,European Cup,Slopestyle,50,3.10
-66,Gennero Lorenzo,Male,30-03-2014,Chiesa in Valmalenco,ITA,Italy,FIS Junior World Championships,Slopestyle,37,6.98
-67,Gennero Lorenzo,Male,26-03-2014,Chiesa in Valmalenco,ITA,Italy,FIS Junior World Championships,Halfpipe,17,50.40
-68,Gennero Lorenzo,Male,13-12-2013,Ruka,FIN,Italy,World Cup,Halfpipe,17,
-69,Gennero Lorenzo,Male,12-12-2013,Ruka,FIN,Italy,Qualification,Halfpipe,17,
-70,Gennero Lorenzo,Male,16-03-2013,Brand,AUT,Italy,European Cup,Slopestyle,17,50.40
-71,Gennero Lorenzo,Male,03-02-2013,Val Thorens,FRA,Italy,European Cup,Slopestyle,20,39.60
-72,Gennero Lorenzo,Male,26-01-2013,Covilha,POR,Italy,European Cup,Slopestyle,3,216.00
+0,Gennero Lorenzo,Male,01-02-2025,Aspen,USA,Italy,World Cup,Halfpipe,33,
+1,Gennero Lorenzo,Male,30-01-2025,Aspen,USA,Italy,Qualification,Halfpipe,18,
+2,Gennero Lorenzo,Male,18-01-2025,Laax,SUI,Italy,World Cup,Halfpipe,32,74.40
+3,Gennero Lorenzo,Male,17-01-2025,Laax,SUI,Italy,Qualification,Halfpipe,13,
+4,Gennero Lorenzo,Male,19-04-2024,Kitzsteinhorn,AUT,Italy,European Cup,Halfpipe,4,66.20
+5,Gennero Lorenzo,Male,08-04-2024,Corvatsch,SUI,Italy,European Cup,Halfpipe,11,61.40
+6,Gennero Lorenzo,Male,18-03-2023,Laax,SUI,Italy,European Cup Premium,Halfpipe,4,66.20
+7,Gennero Lorenzo,Male,11-02-2022,Beijing,CHN,Italy,Olympic Winter Games,Halfpipe,19,69.80
+8,Gennero Lorenzo,Male,09-02-2022,Beijing,CHN,Italy,Qualification,Halfpipe,19,
+9,Gennero Lorenzo,Male,15-01-2022,Laax,SUI,Italy,World Cup,Halfpipe,38,30.10
+10,Gennero Lorenzo,Male,13-01-2022,Laax,SUI,Italy,Qualification,Halfpipe,20,
+11,Gennero Lorenzo,Male,08-01-2022,Mammoth Mountain,USA,Italy,World Cup,Halfpipe,26,58.40
+12,Gennero Lorenzo,Male,11-12-2021,Copper Mountain,USA,Italy,World Cup,Halfpipe,41,17.70
+13,Gennero Lorenzo,Male,09-12-2021,Copper Mountain,USA,Italy,Qualification,Halfpipe,21,
+14,Gennero Lorenzo,Male,27-03-2021,Laax,SUI,Italy,European Cup,Halfpipe,26,0.14
+15,Gennero Lorenzo,Male,21-03-2021,Aspen,USA,Italy,World Cup,Halfpipe,17,111.01
+16,Gennero Lorenzo,Male,18-03-2021,Aspen,USA,Italy,Qualification,Halfpipe,17,
+17,Gennero Lorenzo,Male,13-03-2021,Aspen,USA,Italy,World Championships,Halfpipe,25,20.40
+18,Gennero Lorenzo,Male,11-03-2021,Aspen,USA,Italy,Qualification,Halfpipe,25,
+19,Gennero Lorenzo,Male,31-01-2021,Crans Montana,SUI,Italy,European Cup,Halfpipe,10,55.48
+20,Gennero Lorenzo,Male,23-01-2021,Laax,SUI,Italy,World Cup,Halfpipe,36,31.55
+21,Gennero Lorenzo,Male,21-01-2021,Laax,SUI,Italy,Qualification,Halfpipe,19,
+22,Gennero Lorenzo,Male,15-02-2020,Calgary,CAN,Italy,World Cup,Halfpipe,20,110.00
+23,Gennero Lorenzo,Male,13-02-2020,Calgary,CAN,Italy,Qualification,Halfpipe,20,
+24,Gennero Lorenzo,Male,31-01-2020,Mammoth Mountain Resort,USA,Italy,World Cup,Halfpipe,19,120.00
+25,Gennero Lorenzo,Male,29-01-2020,Mammoth Mountain Resort,USA,Italy,Qualification,Halfpipe,19,
+26,Gennero Lorenzo,Male,26-01-2020,Crans Montana,SUI,Italy,European Cup,Halfpipe,3,96.00
+27,Gennero Lorenzo,Male,18-01-2020,Laax,SUI,Italy,World Cup,Halfpipe,17,140.00
+28,Gennero Lorenzo,Male,16-01-2020,Laax,SUI,Italy,Qualification,Halfpipe,17,
+29,Gennero Lorenzo,Male,17-03-2019,Kuehtai,AUT,Italy,European Cup,Halfpipe,7,64.80
+30,Gennero Lorenzo,Male,22-02-2019,Davos,SUI,Italy,European Cup,Big Air,18,20.80
+31,Gennero Lorenzo,Male,09-02-2019,Crans Montana,SUI,Italy,European Cup,Halfpipe,1,160.00
+32,Gennero Lorenzo,Male,19-01-2019,Laax,SUI,Italy,World Cup,Halfpipe,35,
+33,Gennero Lorenzo,Male,16-01-2019,Laax,SUI,Italy,Qualification,Halfpipe,17,
+34,Gennero Lorenzo,Male,11-12-2018,"Copper Mountain, CO",USA,Italy,Nor-Am Cup,Halfpipe,16,54.00
+35,Gennero Lorenzo,Male,08-12-2018,Copper Mountain Resort,USA,Italy,World Cup,Halfpipe,22,90.00
+36,Gennero Lorenzo,Male,06-12-2018,Copper Mountain Resort,USA,Italy,Qualification,Halfpipe,10,
+37,Gennero Lorenzo,Male,24-03-2018,Kühtai,AUT,Italy,European Cup,Halfpipe,3,96.00
+38,Gennero Lorenzo,Male,15-03-2018,Laax,SUI,Italy,European Cup,Halfpipe,10,52.00
+39,Gennero Lorenzo,Male,23-02-2018,Davos,SUI,Italy,European Cup,Halfpipe,11,43.20
+40,Gennero Lorenzo,Male,27-01-2018,Crans Montana,SUI,Italy,European Cup,Halfpipe,3,96.00
+41,Gennero Lorenzo,Male,20-01-2018,Laax,SUI,Italy,World Cup,Halfpipe,29,36.00
+42,Gennero Lorenzo,Male,13-01-2018,Snowmass,USA,Italy,World Cup,Halfpipe,28,40.00
+43,Gennero Lorenzo,Male,11-01-2018,Snowmass,USA,Italy,Qualification,Halfpipe,12,
+44,Gennero Lorenzo,Male,21-12-2017,Secret Garden,CHN,Italy,World Cup,Halfpipe,22,90.00
+45,Gennero Lorenzo,Male,19-12-2017,Secret Garden,CHN,Italy,Qualification,Halfpipe,22,
+46,Gennero Lorenzo,Male,12-12-2017,Copper Mountain Resort,USA,Italy,Nor-Am Cup,Halfpipe,12,57.20
+47,Gennero Lorenzo,Male,09-12-2017,Copper Mountain Resort,USA,Italy,World Cup,Halfpipe,32,26.00
+48,Gennero Lorenzo,Male,07-12-2017,Copper Mountain Resort,USA,Italy,Qualification,Halfpipe,17,
+49,Gennero Lorenzo,Male,08-09-2017,Cardrona,NZL,Italy,World Cup,Halfpipe,40,
+50,Gennero Lorenzo,Male,07-09-2017,Cardrona,NZL,Italy,Qualification,Halfpipe,20,
+51,Gennero Lorenzo,Male,26-03-2017,Kühtai,AUT,Italy,European Cup,Halfpipe,5,72.00
+52,Gennero Lorenzo,Male,19-03-2017,Laax,SUI,Italy,European Cup,Halfpipe,17,50.40
+53,Gennero Lorenzo,Male,05-02-2017,Mammoth Mountain Resort,USA,Italy,World Cup,Halfpipe,DNS,
+54,Gennero Lorenzo,Male,21-01-2017,Laax,SUI,Italy,World Cup,Halfpipe,22,90.00
+55,Gennero Lorenzo,Male,16-01-2017,Laax,SUI,Italy,Qualification,Halfpipe,12,
+56,Gennero Lorenzo,Male,17-12-2016,Copper,USA,Italy,World Cup,Big Air,53,
+57,Gennero Lorenzo,Male,16-12-2016,Copper,USA,Italy,World Cup,Halfpipe,37,19.40
+58,Gennero Lorenzo,Male,15-12-2016,Copper,USA,Italy,Qualification,Big Air,27,
+59,Gennero Lorenzo,Male,14-12-2016,Copper,USA,Italy,Qualification,Halfpipe,18,
+60,Gennero Lorenzo,Male,08-12-2016,Copper Mountain Resort,USA,Italy,FIS,Halfpipe,DNS,
+61,Gennero Lorenzo,Male,03-04-2016,Laax,SUI,Italy,National Championships,Halfpipe,6,80.00
+62,Gennero Lorenzo,Male,24-02-2016,Davos,SUI,Italy,European Cup,Halfpipe,11,48.00
+63,Gennero Lorenzo,Male,27-01-2016,Vars,FRA,Italy,European Cup,Slopestyle,DNS1,
+64,Gennero Lorenzo,Male,26-01-2016,Vars,FRA,Italy,European Cup,Slopestyle,DNS1,
+65,Gennero Lorenzo,Male,16-01-2016,Davos,SUI,Italy,European Cup,Big Air,38,3.82
+66,Gennero Lorenzo,Male,05-11-2015,Landgraaf,NED,Italy,European Cup,Slopestyle,55,3.64
+67,Gennero Lorenzo,Male,04-11-2015,Landgraaf,NED,Italy,European Cup,Slopestyle,103,0.00
+68,Gennero Lorenzo,Male,28-11-2014,Landgraaf,NED,Italy,European Cup,Slopestyle,41,3.64
+69,Gennero Lorenzo,Male,27-11-2014,Landgraaf,NED,Italy,European Cup,Slopestyle,50,3.10
+70,Gennero Lorenzo,Male,30-03-2014,Chiesa in Valmalenco,ITA,Italy,FIS Junior World Championships,Slopestyle,37,6.98
+71,Gennero Lorenzo,Male,26-03-2014,Chiesa in Valmalenco,ITA,Italy,FIS Junior World Championships,Halfpipe,17,50.40
+72,Gennero Lorenzo,Male,13-12-2013,Ruka,FIN,Italy,World Cup,Halfpipe,17,
+73,Gennero Lorenzo,Male,12-12-2013,Ruka,FIN,Italy,Qualification,Halfpipe,17,
+74,Gennero Lorenzo,Male,16-03-2013,Brand,AUT,Italy,European Cup,Slopestyle,17,50.40
+75,Gennero Lorenzo,Male,03-02-2013,Val Thorens,FRA,Italy,European Cup,Slopestyle,20,39.60
+76,Gennero Lorenzo,Male,26-01-2013,Covilha,POR,Italy,European Cup,Slopestyle,3,216.00

@@ -1,71 +1,83 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Wilk Michal,Male,07-04-2024,Samnaun,SUI,Poland,National Championships,Giant Slalom,11,69.60
-1,Wilk Michal,Male,06-04-2024,Samnaun,SUI,Poland,National Championships,Parallel Slalom,DSQ,
-2,Wilk Michal,Male,24-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Slalom Team,12,
-3,Wilk Michal,Male,23-03-2024,Lachtal,AUT,Poland,Qualification,Parallel Slalom,DSQ,
-4,Wilk Michal,Male,23-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Slalom,DSQ,
-5,Wilk Michal,Male,22-03-2024,Lachtal,AUT,Poland,Qualification,Parallel Giant Slalom,27,
-6,Wilk Michal,Male,22-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Giant Slalom,27,10.80
-7,Wilk Michal,Male,17-03-2024,Spindleruv Mlyn,CZE,Poland,FIS,Parallel Slalom,7,25.20
-8,Wilk Michal,Male,16-03-2024,Spindleruv Mlyn,CZE,Poland,FIS,Parallel Slalom,1,70.00
-9,Wilk Michal,Male,13-03-2024,Davos/Rinerhorn ,SUI,Poland,European Cup,Parallel Giant Slalom,DSQ,
-10,Wilk Michal,Male,12-03-2024,Davos/Rinerhorn ,SUI,Poland,European Cup,Parallel Giant Slalom,31,10.08
-11,Wilk Michal,Male,10-02-2024,Hochficht/Zwiesel,AUT,Poland,National Championships,Parallel Slalom,DSQ,
-12,Wilk Michal,Male,09-02-2024,Hochficht/Zwiesel,AUT,Poland,National Championships,Parallel Giant Slalom,17,40.60
-13,Wilk Michal,Male,04-02-2024,Haus im Ennstal,AUT,Poland,Junior,Parallel Giant Slalom,DSQ,
-14,Wilk Michal,Male,03-02-2024,Haus im Ennstal,AUT,Poland,Junior,Parallel Giant Slalom,7,50.40
-15,Wilk Michal,Male,24-01-2024,Pamporovo,BUL,Poland,European Cup,Parallel Slalom,27,
-16,Wilk Michal,Male,23-01-2024,Pamporovo,BUL,Poland,European Cup,Parallel Slalom,30,
-17,Wilk Michal,Male,12-01-2024,Folgaria,ITA,Poland,European Cup,Parallel Slalom,20,26.40
-18,Wilk Michal,Male,12-01-2024,Folgaria,ITA,Poland,Qualification,Parallel Slalom,20,
-19,Wilk Michal,Male,11-01-2024,Folgaria,ITA,Poland,European Cup,Parallel Slalom,23,19.20
-20,Wilk Michal,Male,11-01-2024,Folgaria,ITA,Poland,Qualification,Parallel Slalom,23,
-21,Wilk Michal,Male,07-01-2024,Dolni Morava,CZE,Poland,National Championships,Parallel Giant Slalom,6,44.00
-22,Wilk Michal,Male,06-01-2024,Dolni Morava,CZE,Poland,National Championships,Parallel Slalom,5,49.50
-23,Wilk Michal,Male,21-12-2023,Moninec,CZE,Poland,Junior,Parallel Slalom,6,40.00
-24,Wilk Michal,Male,20-12-2023,Moninec,CZE,Poland,European Cup,Parallel Slalom,36,4.33
-25,Wilk Michal,Male,19-12-2023,Moninec,CZE,Poland,European Cup,Parallel Slalom,52,3.28
-26,Wilk Michal,Male,10-12-2023,Götschen,GER,Poland,Junior,Parallel Slalom,15,20.80
-27,Wilk Michal,Male,09-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,54,5.15
-28,Wilk Michal,Male,09-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,54,
-29,Wilk Michal,Male,08-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,58,4.72
-30,Wilk Michal,Male,08-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,58,
-31,Wilk Michal,Male,02-04-2023,Haus im Ennstal,AUT,Poland,National Championships,Parallel Slalom,DSQ,
-32,Wilk Michal,Male,01-04-2023,Haus im Ennstal,AUT,Poland,National Championships,Parallel Giant Slalom,35,
-33,Wilk Michal,Male,26-03-2023,Villach - Gerlitzen,AUT,Poland,FIS,Parallel Slalom,DSQ,
-34,Wilk Michal,Male,25-03-2023,Villach - Gerlitzen,AUT,Poland,FIS,Parallel Slalom,18,28.60
-35,Wilk Michal,Male,05-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,27,14.40
-36,Wilk Michal,Male,04-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,37,6.98
-37,Wilk Michal,Male,27-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,DSQ,
-38,Wilk Michal,Male,26-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,17,16.80
-39,Wilk Michal,Male,25-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,15,19.20
-40,Wilk Michal,Male,29-01-2023,Simonhöhe,AUT,Poland,Qualification,Parallel Giant Slalom,33,
-41,Wilk Michal,Male,29-01-2023,Simonhöhe,AUT,Poland,European Cup,Parallel Giant Slalom,33,4.32
-42,Wilk Michal,Male,28-01-2023,Simonhöhe,AUT,Poland,Qualification,Parallel Giant Slalom,35,
-43,Wilk Michal,Male,28-01-2023,Simonhöhe,AUT,Poland,European Cup,Parallel Giant Slalom,34,3.96
-44,Wilk Michal,Male,15-01-2023,Alleghe,ITA,Poland,Qualification,Parallel Slalom,31,
-45,Wilk Michal,Male,15-01-2023,Alleghe,ITA,Poland,European Cup,Parallel Slalom,31,4.48
-46,Wilk Michal,Male,14-01-2023,Alleghe,ITA,Poland,Qualification,Parallel Slalom,31,
-47,Wilk Michal,Male,14-01-2023,Alleghe,ITA,Poland,European Cup,Parallel Slalom,31,
-48,Wilk Michal,Male,04-01-2023,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,17,36.40
-49,Wilk Michal,Male,13-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Slalom,DNF,
-50,Wilk Michal,Male,12-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Giant Slalom,16,16.50
-51,Wilk Michal,Male,09-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,34,
-52,Wilk Michal,Male,08-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,27,13.05
-53,Wilk Michal,Male,20-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,11,24.00
-54,Wilk Michal,Male,19-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,5,45.00
-55,Wilk Michal,Male,16-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,28,
-56,Wilk Michal,Male,15-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,23,8.80
-57,Wilk Michal,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,FIS,Parallel Slalom,4,90.00
-58,Wilk Michal,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,FIS,Slalom,6,72.00
-59,Wilk Michal,Male,21-12-2021,Moninec,CZE,Poland,Junior,Parallel Slalom,3,30.00
-60,Wilk Michal,Male,20-12-2021,Moninec,CZE,Poland,Junior,Parallel Slalom,3,42.00
-61,Wilk Michal,Male,19-12-2021,Moninec,CZE,Poland,European Cup,Parallel Slalom,51,
-62,Wilk Michal,Male,18-12-2021,Moninec,CZE,Poland,European Cup,Parallel Slalom,51,3.04
-63,Wilk Michal,Male,12-12-2021,Götschen,GER,Poland,European Cup,Parallel Slalom,42,3.94
-64,Wilk Michal,Male,11-12-2021,Götschen,GER,Poland,European Cup,Parallel Slalom,35,4.40
-65,Wilk Michal,Male,09-03-2021,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,DSQ,
-66,Wilk Michal,Male,08-03-2021,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,38,5.54
-67,Wilk Michal,Male,29-02-2020,Pec pod Snezkou,CZE,Poland,Junior,Parallel Giant Slalom,7,18.00
-68,Wilk Michal,Male,26-01-2020,Gosau,AUT,Poland,FIS,Parallel Slalom,32,4.68
-69,Wilk Michal,Male,25-01-2020,Gosau,AUT,Poland,FIS,Parallel Slalom,DSQ1,
+0,Wilk Michal,Male,26-01-2025,Simonhöhe,AUT,Poland,European Cup,Parallel Giant Slalom,65,
+1,Wilk Michal,Male,25-01-2025,Simonhöhe,AUT,Poland,European Cup,Parallel Giant Slalom,24,12.60
+2,Wilk Michal,Male,22-01-2025,Bardonecchia,ITA,Poland,Universiade,Parallel Slalom,16,39.00
+3,Wilk Michal,Male,21-01-2025,Bardonecchia,ITA,Poland,Universiade,Parallel Giant Slalom,16,39.00
+4,Wilk Michal,Male,11-01-2025,Folgaria,ITA,Poland,Qualification,Parallel Giant Slalom,25,
+5,Wilk Michal,Male,11-01-2025,Folgaria,ITA,Poland,European Cup,Parallel Giant Slalom,25,10.80
+6,Wilk Michal,Male,10-01-2025,Folgaria,ITA,Poland,Qualification,Parallel Giant Slalom,29,
+7,Wilk Michal,Male,10-01-2025,Folgaria,ITA,Poland,European Cup,Parallel Giant Slalom,29,6.48
+8,Wilk Michal,Male,22-12-2024,Moninec,CZE,Poland,FIS,Parallel Slalom,37,3.10
+9,Wilk Michal,Male,21-12-2024,Moninec,CZE,Poland,FIS,Parallel Slalom,26,8.00
+10,Wilk Michal,Male,20-12-2024,Moninec,CZE,Poland,European Cup,Parallel Slalom,36,3.55
+11,Wilk Michal,Male,19-12-2024,Moninec,CZE,Poland,European Cup,Parallel Slalom,43,3.52
+12,Wilk Michal,Male,07-04-2024,Samnaun,SUI,Poland,National Championships,Giant Slalom,11,69.60
+13,Wilk Michal,Male,06-04-2024,Samnaun,SUI,Poland,National Championships,Parallel Slalom,DSQ,
+14,Wilk Michal,Male,24-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Slalom Team,12,
+15,Wilk Michal,Male,23-03-2024,Lachtal,AUT,Poland,Qualification,Parallel Slalom,DSQ,
+16,Wilk Michal,Male,23-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Slalom,DSQ,
+17,Wilk Michal,Male,22-03-2024,Lachtal,AUT,Poland,Qualification,Parallel Giant Slalom,27,
+18,Wilk Michal,Male,22-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Giant Slalom,27,10.80
+19,Wilk Michal,Male,17-03-2024,Spindleruv Mlyn,CZE,Poland,FIS,Parallel Slalom,7,25.20
+20,Wilk Michal,Male,16-03-2024,Spindleruv Mlyn,CZE,Poland,FIS,Parallel Slalom,1,70.00
+21,Wilk Michal,Male,13-03-2024,Davos/Rinerhorn ,SUI,Poland,European Cup,Parallel Giant Slalom,DSQ,
+22,Wilk Michal,Male,12-03-2024,Davos/Rinerhorn ,SUI,Poland,European Cup,Parallel Giant Slalom,31,10.08
+23,Wilk Michal,Male,10-02-2024,Hochficht/Zwiesel,AUT,Poland,National Championships,Parallel Slalom,DSQ,
+24,Wilk Michal,Male,09-02-2024,Hochficht/Zwiesel,AUT,Poland,National Championships,Parallel Giant Slalom,17,40.60
+25,Wilk Michal,Male,04-02-2024,Haus im Ennstal,AUT,Poland,Junior,Parallel Giant Slalom,DSQ,
+26,Wilk Michal,Male,03-02-2024,Haus im Ennstal,AUT,Poland,Junior,Parallel Giant Slalom,7,50.40
+27,Wilk Michal,Male,24-01-2024,Pamporovo,BUL,Poland,European Cup,Parallel Slalom,27,
+28,Wilk Michal,Male,23-01-2024,Pamporovo,BUL,Poland,European Cup,Parallel Slalom,30,
+29,Wilk Michal,Male,12-01-2024,Folgaria,ITA,Poland,European Cup,Parallel Slalom,20,26.40
+30,Wilk Michal,Male,12-01-2024,Folgaria,ITA,Poland,Qualification,Parallel Slalom,20,
+31,Wilk Michal,Male,11-01-2024,Folgaria,ITA,Poland,European Cup,Parallel Slalom,23,19.20
+32,Wilk Michal,Male,11-01-2024,Folgaria,ITA,Poland,Qualification,Parallel Slalom,23,
+33,Wilk Michal,Male,07-01-2024,Dolni Morava,CZE,Poland,National Championships,Parallel Giant Slalom,6,44.00
+34,Wilk Michal,Male,06-01-2024,Dolni Morava,CZE,Poland,National Championships,Parallel Slalom,5,49.50
+35,Wilk Michal,Male,21-12-2023,Moninec,CZE,Poland,Junior,Parallel Slalom,6,40.00
+36,Wilk Michal,Male,20-12-2023,Moninec,CZE,Poland,European Cup,Parallel Slalom,36,4.33
+37,Wilk Michal,Male,19-12-2023,Moninec,CZE,Poland,European Cup,Parallel Slalom,52,3.28
+38,Wilk Michal,Male,10-12-2023,Götschen,GER,Poland,Junior,Parallel Slalom,15,20.80
+39,Wilk Michal,Male,09-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,54,
+40,Wilk Michal,Male,09-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,54,5.15
+41,Wilk Michal,Male,08-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,58,4.72
+42,Wilk Michal,Male,08-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,58,
+43,Wilk Michal,Male,02-04-2023,Haus im Ennstal,AUT,Poland,National Championships,Parallel Slalom,DSQ,
+44,Wilk Michal,Male,01-04-2023,Haus im Ennstal,AUT,Poland,National Championships,Parallel Giant Slalom,35,
+45,Wilk Michal,Male,26-03-2023,Villach - Gerlitzen,AUT,Poland,FIS,Parallel Slalom,DSQ,
+46,Wilk Michal,Male,25-03-2023,Villach - Gerlitzen,AUT,Poland,FIS,Parallel Slalom,18,28.60
+47,Wilk Michal,Male,05-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,27,14.40
+48,Wilk Michal,Male,04-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,37,6.98
+49,Wilk Michal,Male,27-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,DSQ,
+50,Wilk Michal,Male,26-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,17,16.80
+51,Wilk Michal,Male,25-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,15,19.20
+52,Wilk Michal,Male,29-01-2023,Simonhöhe,AUT,Poland,European Cup,Parallel Giant Slalom,33,4.32
+53,Wilk Michal,Male,29-01-2023,Simonhöhe,AUT,Poland,Qualification,Parallel Giant Slalom,33,
+54,Wilk Michal,Male,28-01-2023,Simonhöhe,AUT,Poland,European Cup,Parallel Giant Slalom,34,3.96
+55,Wilk Michal,Male,28-01-2023,Simonhöhe,AUT,Poland,Qualification,Parallel Giant Slalom,35,
+56,Wilk Michal,Male,15-01-2023,Alleghe,ITA,Poland,European Cup,Parallel Slalom,31,4.48
+57,Wilk Michal,Male,15-01-2023,Alleghe,ITA,Poland,Qualification,Parallel Slalom,31,
+58,Wilk Michal,Male,14-01-2023,Alleghe,ITA,Poland,European Cup,Parallel Slalom,31,
+59,Wilk Michal,Male,14-01-2023,Alleghe,ITA,Poland,Qualification,Parallel Slalom,31,
+60,Wilk Michal,Male,04-01-2023,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,17,36.40
+61,Wilk Michal,Male,13-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Slalom,DNF,
+62,Wilk Michal,Male,12-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Giant Slalom,16,16.50
+63,Wilk Michal,Male,09-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,34,
+64,Wilk Michal,Male,08-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,27,13.05
+65,Wilk Michal,Male,20-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,11,24.00
+66,Wilk Michal,Male,19-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,5,45.00
+67,Wilk Michal,Male,16-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,28,
+68,Wilk Michal,Male,15-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,23,8.80
+69,Wilk Michal,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,FIS,Slalom,6,72.00
+70,Wilk Michal,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,FIS,Parallel Slalom,4,90.00
+71,Wilk Michal,Male,21-12-2021,Moninec,CZE,Poland,Junior,Parallel Slalom,3,30.00
+72,Wilk Michal,Male,20-12-2021,Moninec,CZE,Poland,Junior,Parallel Slalom,3,42.00
+73,Wilk Michal,Male,19-12-2021,Moninec,CZE,Poland,European Cup,Parallel Slalom,51,
+74,Wilk Michal,Male,18-12-2021,Moninec,CZE,Poland,European Cup,Parallel Slalom,51,3.04
+75,Wilk Michal,Male,12-12-2021,Götschen,GER,Poland,European Cup,Parallel Slalom,42,3.94
+76,Wilk Michal,Male,11-12-2021,Götschen,GER,Poland,European Cup,Parallel Slalom,35,4.40
+77,Wilk Michal,Male,09-03-2021,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,DSQ,
+78,Wilk Michal,Male,08-03-2021,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,38,5.54
+79,Wilk Michal,Male,29-02-2020,Pec pod Snezkou,CZE,Poland,Junior,Parallel Giant Slalom,7,18.00
+80,Wilk Michal,Male,26-01-2020,Gosau,AUT,Poland,FIS,Parallel Slalom,32,4.68
+81,Wilk Michal,Male,25-01-2020,Gosau,AUT,Poland,FIS,Parallel Slalom,DSQ1,

@@ -1,35 +1,37 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Choleva Petr,Male,07-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Giant Slalom,DNS,
-1,Choleva Petr,Male,27-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,9,34.80
-2,Choleva Petr,Male,26-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,13,24.00
-3,Choleva Petr,Male,25-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,12,26.40
-4,Choleva Petr,Male,07-02-2021,Gosau,AUT,Czechia,FIS,Parallel Slalom,17,9.80
-5,Choleva Petr,Male,06-02-2021,Gosau,AUT,Czechia,FIS,Parallel Slalom,18,9.10
-6,Choleva Petr,Male,01-03-2020,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,6,20.00
-7,Choleva Petr,Male,29-02-2020,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Giant Slalom,10,18.20
-8,Choleva Petr,Male,16-02-2020,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,2,40.00
-9,Choleva Petr,Male,15-02-2020,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,9,14.50
-10,Choleva Petr,Male,24-03-2019,Paseky nad Jizerou,CZE,Czechia,FIS,Parallel Slalom,5,49.50
-11,Choleva Petr,Male,23-03-2019,Paseky nad Jizerou,CZE,Czechia,FIS,Parallel Slalom,11,21.60
-12,Choleva Petr,Male,17-02-2019,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,3,30.00
-13,Choleva Petr,Male,16-02-2019,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Giant Slalom,4,25.00
-14,Choleva Petr,Male,20-01-2019,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,5,31.50
-15,Choleva Petr,Male,19-01-2019,Dolni Morava,CZE,Czechia,FIS,Parallel GS,5,22.50
-16,Choleva Petr,Male,17-03-2018,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel GS,11,12.00
-17,Choleva Petr,Male,18-02-2018,Vysna Boca,SVK,Czechia,FIS,Parallel GS,8,38.40
-18,Choleva Petr,Male,17-02-2018,Vysna Boca,SVK,Czechia,FIS,Parallel Slalom,11,28.80
-19,Choleva Petr,Male,21-01-2018,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,17,7.00
-20,Choleva Petr,Male,20-01-2018,Dolni Morava,CZE,Czechia,FIS,Parallel GS,4,25.00
-21,Choleva Petr,Male,07-01-2018,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,13,14.00
-22,Choleva Petr,Male,06-01-2018,Pec pod Snezkou,CZE,Czechia,FIS,Parallel GS,10,18.20
-23,Choleva Petr,Male,05-03-2017,Herlikovice,CZE,Czechia,FIS,Parallel Slalom,4,25.00
-24,Choleva Petr,Male,04-03-2017,Herlikovice,CZE,Czechia,FIS,Parallel GS,10,13.00
-25,Choleva Petr,Male,05-02-2017,Klinovec,CZE,Czechia,FIS,Parallel Slalom,DNF,
-26,Choleva Petr,Male,04-02-2017,Klinovec,CZE,Czechia,FIS,Parallel GS,3,42.00
-27,Choleva Petr,Male,15-01-2017,Hochficht,AUT,Czechia,National Championships,Parallel Slalom,26,14.50
-28,Choleva Petr,Male,14-01-2017,Hochficht,AUT,Czechia,National Championships,Parallel GS,36,5.71
-29,Choleva Petr,Male,08-01-2017,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,7,18.00
-30,Choleva Petr,Male,07-01-2017,Dolni Morava,CZE,Czechia,FIS,Parallel GS,34,1.10
-31,Choleva Petr,Male,06-02-2016,Dolni Morava,CZE,Czechia,FIS,Parallel GS,DNS,
-32,Choleva Petr,Male,09-01-2016,Dolni Morava,CZE,Czechia,FIS,Snowboardcross,37,2.33
-33,Choleva Petr,Male,16-01-2000,Spindleruv Mlyn,CZE,Czechia,FIS,Giant Slalom,25,6.00
+0,Choleva Petr,Male,19-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,10,23.40
+1,Choleva Petr,Male,18-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,11,21.60
+2,Choleva Petr,Male,07-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Giant Slalom,DNS,
+3,Choleva Petr,Male,27-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,9,34.80
+4,Choleva Petr,Male,26-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,13,24.00
+5,Choleva Petr,Male,25-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,12,26.40
+6,Choleva Petr,Male,07-02-2021,Gosau,AUT,Czechia,FIS,Parallel Slalom,17,9.80
+7,Choleva Petr,Male,06-02-2021,Gosau,AUT,Czechia,FIS,Parallel Slalom,18,9.10
+8,Choleva Petr,Male,01-03-2020,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,6,20.00
+9,Choleva Petr,Male,29-02-2020,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Giant Slalom,10,18.20
+10,Choleva Petr,Male,16-02-2020,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,2,40.00
+11,Choleva Petr,Male,15-02-2020,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,9,14.50
+12,Choleva Petr,Male,24-03-2019,Paseky nad Jizerou,CZE,Czechia,FIS,Parallel Slalom,5,49.50
+13,Choleva Petr,Male,23-03-2019,Paseky nad Jizerou,CZE,Czechia,FIS,Parallel Slalom,11,21.60
+14,Choleva Petr,Male,17-02-2019,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,3,30.00
+15,Choleva Petr,Male,16-02-2019,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Giant Slalom,4,25.00
+16,Choleva Petr,Male,20-01-2019,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,5,31.50
+17,Choleva Petr,Male,19-01-2019,Dolni Morava,CZE,Czechia,FIS,Parallel GS,5,22.50
+18,Choleva Petr,Male,17-03-2018,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel GS,11,12.00
+19,Choleva Petr,Male,18-02-2018,Vysna Boca,SVK,Czechia,FIS,Parallel GS,8,38.40
+20,Choleva Petr,Male,17-02-2018,Vysna Boca,SVK,Czechia,FIS,Parallel Slalom,11,28.80
+21,Choleva Petr,Male,21-01-2018,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,17,7.00
+22,Choleva Petr,Male,20-01-2018,Dolni Morava,CZE,Czechia,FIS,Parallel GS,4,25.00
+23,Choleva Petr,Male,07-01-2018,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,13,14.00
+24,Choleva Petr,Male,06-01-2018,Pec pod Snezkou,CZE,Czechia,FIS,Parallel GS,10,18.20
+25,Choleva Petr,Male,05-03-2017,Herlikovice,CZE,Czechia,FIS,Parallel Slalom,4,25.00
+26,Choleva Petr,Male,04-03-2017,Herlikovice,CZE,Czechia,FIS,Parallel GS,10,13.00
+27,Choleva Petr,Male,05-02-2017,Klinovec,CZE,Czechia,FIS,Parallel Slalom,DNF,
+28,Choleva Petr,Male,04-02-2017,Klinovec,CZE,Czechia,FIS,Parallel GS,3,42.00
+29,Choleva Petr,Male,15-01-2017,Hochficht,AUT,Czechia,National Championships,Parallel Slalom,26,14.50
+30,Choleva Petr,Male,14-01-2017,Hochficht,AUT,Czechia,National Championships,Parallel GS,36,5.71
+31,Choleva Petr,Male,08-01-2017,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,7,18.00
+32,Choleva Petr,Male,07-01-2017,Dolni Morava,CZE,Czechia,FIS,Parallel GS,34,1.10
+33,Choleva Petr,Male,06-02-2016,Dolni Morava,CZE,Czechia,FIS,Parallel GS,DNS,
+34,Choleva Petr,Male,09-01-2016,Dolni Morava,CZE,Czechia,FIS,Snowboardcross,37,2.33
+35,Choleva Petr,Male,16-01-2000,Spindleruv Mlyn,CZE,Czechia,FIS,Giant Slalom,25,6.00

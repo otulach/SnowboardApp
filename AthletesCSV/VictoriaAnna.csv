@@ -1,78 +1,95 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Victoria Anna,Female,23-03-2024,Lachtal,AUT,Italy,Qualification,Parallel Slalom,38,
-1,Victoria Anna,Female,23-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Slalom,38,
-2,Victoria Anna,Female,22-03-2024,Lachtal,AUT,Italy,Qualification,Parallel Giant Slalom,36,
-3,Victoria Anna,Female,22-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Giant Slalom,36,4.73
-4,Victoria Anna,Female,10-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,10,28.60
-5,Victoria Anna,Female,09-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,5,49.50
-6,Victoria Anna,Female,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,16,43.50
-7,Victoria Anna,Female,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,22,26.10
-8,Victoria Anna,Female,04-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,11,33.60
-9,Victoria Anna,Female,03-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,20,15.40
-10,Victoria Anna,Female,28-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,17,25.20
-11,Victoria Anna,Female,27-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,29,6.48
-12,Victoria Anna,Female,14-01-2024,Gosau,AUT,Italy,FIS,Parallel Slalom,8,38.40
-13,Victoria Anna,Female,13-01-2024,Gosau,AUT,Italy,FIS,Parallel Slalom,3,72.00
-14,Victoria Anna,Female,12-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,18,31.20
-15,Victoria Anna,Female,12-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,18,
-16,Victoria Anna,Female,11-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,15,
-17,Victoria Anna,Female,11-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,15,46.40
-18,Victoria Anna,Female,05-01-2024,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,11,33.60
-19,Victoria Anna,Female,22-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,15,32.00
-20,Victoria Anna,Female,21-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,20,22.00
-21,Victoria Anna,Female,20-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,41,4.73
-22,Victoria Anna,Female,19-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,41,4.73
-23,Victoria Anna,Female,10-12-2023,Götschen,GER,Italy,Junior,Parallel Slalom,8,51.20
-24,Victoria Anna,Female,09-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,50,5.58
-25,Victoria Anna,Female,09-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,50,
-26,Victoria Anna,Female,08-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,47,5.90
-27,Victoria Anna,Female,08-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,47,
-28,Victoria Anna,Female,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,15,46.40
-29,Victoria Anna,Female,19-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,34,5.72
-30,Victoria Anna,Female,18-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,30,8.32
-31,Victoria Anna,Female,12-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,10,26.00
-32,Victoria Anna,Female,11-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,9,29.00
-33,Victoria Anna,Female,05-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,12,24.20
-34,Victoria Anna,Female,04-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,12,39.60
-35,Victoria Anna,Female,26-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,13,32.00
-36,Victoria Anna,Female,25-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,12,39.60
-37,Victoria Anna,Female,19-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,9,37.70
-38,Victoria Anna,Female,18-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,6,52.00
-39,Victoria Anna,Female,12-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,21,20.00
-40,Victoria Anna,Female,11-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,21,20.00
-41,Victoria Anna,Female,05-02-2023,Gosau,AUT,Italy,FIS,Slalom,8,28.80
-42,Victoria Anna,Female,04-02-2023,Gosau,AUT,Italy,FIS,Slalom,9,26.10
-43,Victoria Anna,Female,04-02-2023,Gosau,AUT,Italy,FIS,Slalom,11,21.60
-44,Victoria Anna,Female,29-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,38,
-45,Victoria Anna,Female,29-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,38,
-46,Victoria Anna,Female,28-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,37,
-47,Victoria Anna,Female,28-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,37,4.66
-48,Victoria Anna,Female,23-01-2023,Piancavallo,ITA,Italy,European Youth Olympic Festival,Parallel Giant Slalom,6,48.00
-49,Victoria Anna,Female,15-01-2023,Alleghe,ITA,Italy,Qualification,Parallel Slalom,21,
-50,Victoria Anna,Female,15-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,21,22.00
-51,Victoria Anna,Female,14-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,17,28.00
-52,Victoria Anna,Female,14-01-2023,Alleghe,ITA,Italy,Qualification,Parallel Slalom,17,
-53,Victoria Anna,Female,08-01-2023,Haus im Ennstal,AUT,Italy,Junior,Giant Slalom,11,28.80
-54,Victoria Anna,Female,07-01-2023,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,15,20.80
-55,Victoria Anna,Female,18-12-2022,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,34,4.40
-56,Victoria Anna,Female,18-12-2022,Hochfügen,GER,Italy,Qualification,Parallel Giant Slalom,34,
-57,Victoria Anna,Female,17-12-2022,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,37,3.88
-58,Victoria Anna,Female,12-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Slalom,10,52.00
-59,Victoria Anna,Female,11-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Giant Slalom,12,44.00
-60,Victoria Anna,Female,20-03-2022,Senales - Schnals,ITA,Italy,Junior,Parallel Slalom,18,18.20
-61,Victoria Anna,Female,19-03-2022,Senales - Schnals,ITA,Italy,Junior,Parallel Slalom,13,28.00
-62,Victoria Anna,Female,13-03-2022,Pizol,SUI,Italy,Junior,Parallel Slalom,10,33.80
-63,Victoria Anna,Female,12-03-2022,Pizol,SUI,Italy,Junior,Parallel Slalom,13,26.00
-64,Victoria Anna,Female,27-02-2022,Simonhöhe,AUT,Italy,FIS,Parallel Giant Slalom,14,32.40
-65,Victoria Anna,Female,26-02-2022,Simonhöhe,AUT,Italy,FIS,Parallel Giant Slalom,22,16.20
-66,Victoria Anna,Female,20-02-2022,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,19,21.60
-67,Victoria Anna,Female,19-02-2022,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,19,26.40
-68,Victoria Anna,Female,06-02-2022,Ebensee,AUT,Italy,FIS,Parallel Slalom,8,16.00
-69,Victoria Anna,Female,05-02-2022,Ebensee,AUT,Italy,FIS,Parallel Slalom,7,18.00
-70,Victoria Anna,Female,30-01-2022,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Slalom,5,22.50
-71,Victoria Anna,Female,29-01-2022,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Slalom,5,22.50
-72,Victoria Anna,Female,23-01-2022,Bardonecchia,ITA,Italy,FIS,Slalom,6,20.00
-73,Victoria Anna,Female,22-01-2022,Bardonecchia,ITA,Italy,FIS,Slalom,3,30.00
-74,Victoria Anna,Female,15-01-2022,Goetschen,GER,Italy,Junior,Parallel Slalom,11,31.20
-75,Victoria Anna,Female,09-01-2022,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,17,18.20
-76,Victoria Anna,Female,08-01-2022,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,18,16.90
+0,Victoria Anna,Female,02-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,20,
+1,Victoria Anna,Female,02-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,20,
+2,Victoria Anna,Female,01-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,20,
+3,Victoria Anna,Female,01-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,20,
+4,Victoria Anna,Female,26-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,DNS,
+5,Victoria Anna,Female,25-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,32,6.24
+6,Victoria Anna,Female,19-01-2025,Samnaun,SUI,Italy,Junior Regional Cup,Parallel Slalom,5,22.50
+7,Victoria Anna,Female,18-01-2025,Samnaun,SUI,Italy,Junior Regional Cup,Parallel Slalom,2,40.00
+8,Victoria Anna,Female,12-01-2025,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,6,56.00
+9,Victoria Anna,Female,11-01-2025,Folgaria,ITA,Italy,European Cup,Parallel Giant Slalom,19,28.80
+10,Victoria Anna,Female,11-01-2025,Folgaria,ITA,Italy,Qualification,Parallel Giant Slalom,19,
+11,Victoria Anna,Female,10-01-2025,Folgaria,ITA,Italy,European Cup,Parallel Giant Slalom,14,43.20
+12,Victoria Anna,Female,10-01-2025,Folgaria,ITA,Italy,Qualification,Parallel Giant Slalom,13,
+13,Victoria Anna,Female,06-01-2025,Simonhoehe,AUT,Italy,Junior Regional Cup,Parallel Giant Slalom,9,40.60
+14,Victoria Anna,Female,05-01-2025,Simonhoehe,AUT,Italy,Junior Regional Cup,Parallel Giant Slalom,7,50.40
+15,Victoria Anna,Female,15-12-2024,Götschen,GER,Italy,European Cup,Parallel Slalom,24,16.80
+16,Victoria Anna,Female,14-12-2024,Götschen,GER,Italy,European Cup,Parallel Slalom,17,30.80
+17,Victoria Anna,Female,23-03-2024,Lachtal,AUT,Italy,Qualification,Parallel Slalom,38,
+18,Victoria Anna,Female,23-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Slalom,38,
+19,Victoria Anna,Female,22-03-2024,Lachtal,AUT,Italy,Qualification,Parallel Giant Slalom,36,
+20,Victoria Anna,Female,22-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Giant Slalom,36,4.73
+21,Victoria Anna,Female,10-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,10,28.60
+22,Victoria Anna,Female,09-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,5,49.50
+23,Victoria Anna,Female,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,16,43.50
+24,Victoria Anna,Female,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,22,26.10
+25,Victoria Anna,Female,04-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,11,33.60
+26,Victoria Anna,Female,03-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,20,15.40
+27,Victoria Anna,Female,28-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,17,25.20
+28,Victoria Anna,Female,27-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,29,6.48
+29,Victoria Anna,Female,14-01-2024,Gosau,AUT,Italy,FIS,Parallel Slalom,8,38.40
+30,Victoria Anna,Female,13-01-2024,Gosau,AUT,Italy,FIS,Parallel Slalom,3,72.00
+31,Victoria Anna,Female,12-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,18,31.20
+32,Victoria Anna,Female,12-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,18,
+33,Victoria Anna,Female,11-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,15,46.40
+34,Victoria Anna,Female,11-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,15,
+35,Victoria Anna,Female,05-01-2024,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,11,33.60
+36,Victoria Anna,Female,22-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,15,32.00
+37,Victoria Anna,Female,21-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,20,22.00
+38,Victoria Anna,Female,20-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,41,4.73
+39,Victoria Anna,Female,19-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,41,4.73
+40,Victoria Anna,Female,10-12-2023,Götschen,GER,Italy,Junior,Parallel Slalom,8,51.20
+41,Victoria Anna,Female,09-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,50,5.58
+42,Victoria Anna,Female,09-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,50,
+43,Victoria Anna,Female,08-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,47,5.90
+44,Victoria Anna,Female,08-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,47,
+45,Victoria Anna,Female,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,15,46.40
+46,Victoria Anna,Female,19-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,34,5.72
+47,Victoria Anna,Female,18-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,30,8.32
+48,Victoria Anna,Female,12-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,10,26.00
+49,Victoria Anna,Female,11-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,9,29.00
+50,Victoria Anna,Female,05-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,12,24.20
+51,Victoria Anna,Female,04-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,12,39.60
+52,Victoria Anna,Female,26-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,13,32.00
+53,Victoria Anna,Female,25-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,12,39.60
+54,Victoria Anna,Female,19-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,9,37.70
+55,Victoria Anna,Female,18-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,6,52.00
+56,Victoria Anna,Female,12-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,21,20.00
+57,Victoria Anna,Female,11-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,21,20.00
+58,Victoria Anna,Female,05-02-2023,Gosau,AUT,Italy,FIS,Slalom,8,28.80
+59,Victoria Anna,Female,04-02-2023,Gosau,AUT,Italy,FIS,Slalom,11,21.60
+60,Victoria Anna,Female,04-02-2023,Gosau,AUT,Italy,FIS,Slalom,9,26.10
+61,Victoria Anna,Female,29-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,38,
+62,Victoria Anna,Female,29-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,38,
+63,Victoria Anna,Female,28-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,37,
+64,Victoria Anna,Female,28-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,37,4.66
+65,Victoria Anna,Female,23-01-2023,Piancavallo,ITA,Italy,European Youth Olympic Festival,Parallel Giant Slalom,6,48.00
+66,Victoria Anna,Female,15-01-2023,Alleghe,ITA,Italy,Qualification,Parallel Slalom,21,
+67,Victoria Anna,Female,15-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,21,22.00
+68,Victoria Anna,Female,14-01-2023,Alleghe,ITA,Italy,Qualification,Parallel Slalom,17,
+69,Victoria Anna,Female,14-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,17,28.00
+70,Victoria Anna,Female,08-01-2023,Haus im Ennstal,AUT,Italy,Junior,Giant Slalom,11,28.80
+71,Victoria Anna,Female,07-01-2023,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,15,20.80
+72,Victoria Anna,Female,18-12-2022,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,34,4.40
+73,Victoria Anna,Female,18-12-2022,Hochfügen,GER,Italy,Qualification,Parallel Giant Slalom,34,
+74,Victoria Anna,Female,17-12-2022,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,37,3.88
+75,Victoria Anna,Female,12-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Slalom,10,52.00
+76,Victoria Anna,Female,11-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Giant Slalom,12,44.00
+77,Victoria Anna,Female,20-03-2022,Senales - Schnals,ITA,Italy,Junior,Parallel Slalom,18,18.20
+78,Victoria Anna,Female,19-03-2022,Senales - Schnals,ITA,Italy,Junior,Parallel Slalom,13,28.00
+79,Victoria Anna,Female,13-03-2022,Pizol,SUI,Italy,Junior,Parallel Slalom,10,33.80
+80,Victoria Anna,Female,12-03-2022,Pizol,SUI,Italy,Junior,Parallel Slalom,13,26.00
+81,Victoria Anna,Female,27-02-2022,Simonhöhe,AUT,Italy,FIS,Parallel Giant Slalom,14,32.40
+82,Victoria Anna,Female,26-02-2022,Simonhöhe,AUT,Italy,FIS,Parallel Giant Slalom,22,16.20
+83,Victoria Anna,Female,20-02-2022,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,19,21.60
+84,Victoria Anna,Female,19-02-2022,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,19,26.40
+85,Victoria Anna,Female,06-02-2022,Ebensee,AUT,Italy,FIS,Parallel Slalom,8,16.00
+86,Victoria Anna,Female,05-02-2022,Ebensee,AUT,Italy,FIS,Parallel Slalom,7,18.00
+87,Victoria Anna,Female,30-01-2022,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Slalom,5,22.50
+88,Victoria Anna,Female,29-01-2022,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Slalom,5,22.50
+89,Victoria Anna,Female,23-01-2022,Bardonecchia,ITA,Italy,FIS,Slalom,6,20.00
+90,Victoria Anna,Female,22-01-2022,Bardonecchia,ITA,Italy,FIS,Slalom,3,30.00
+91,Victoria Anna,Female,15-01-2022,Goetschen,GER,Italy,Junior,Parallel Slalom,11,31.20
+92,Victoria Anna,Female,09-01-2022,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,17,18.20
+93,Victoria Anna,Female,08-01-2022,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,18,16.90

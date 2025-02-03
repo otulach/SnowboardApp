@@ -1,30 +1,32 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Swaine Ben,Male,18-08-2024,Mt Hotham,AUS,Canada,Australian New Zealand Cup,Snowboard Cross,26,18.00
-1,Swaine Ben,Male,17-08-2024,Mt Hotham,AUS,Canada,Australian New Zealand Cup,Snowboard Cross,29,12.96
-2,Swaine Ben,Male,15-08-2024,Mt Hotham,AUS,Canada,Australian New Zealand Cup,Snowboard Cross,31,10.08
-3,Swaine Ben,Male,14-08-2024,Mt Hotham,AUS,Canada,Junior,Snowboard Cross,27,
-4,Swaine Ben,Male,06-04-2024,Gudauri,GEO,Canada,FIS Junior World Championships,Snowboard Cross,41,6.55
-5,Swaine Ben,Male,05-04-2024,Gudauri,GEO,Canada,Qualification,Snowboard Cross,41,
-6,Swaine Ben,Male,29-03-2024,Mt St. Anne,CAN,Canada,Nor-Am Cup,Snowboard Cross,16,30.00
-7,Swaine Ben,Male,28-03-2024,Mt St. Anne,CAN,Canada,Nor-Am Cup,Snowboard Cross,30,7.04
-8,Swaine Ben,Male,08-03-2024,Beaver Valley,CAN,Canada,National Junior Championships,Snowboard Cross,9,20.30
-9,Swaine Ben,Male,06-03-2024,Toronto Ski Club,CAN,Canada,National Junior Championships,Parallel Giant Slalom,6,20.00
-10,Swaine Ben,Male,28-02-2024,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,24,11.20
-11,Swaine Ben,Male,27-02-2024,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,26,8.00
-12,Swaine Ben,Male,18-02-2024,Caledon Ski Club,CAN,Canada,FIS,Snowboard Cross,1,50.00
-13,Swaine Ben,Male,17-02-2024,Caledon Ski Club,CAN,Canada,FIS,Snowboard Cross,1,50.00
-14,Swaine Ben,Male,10-02-2024,Beaver Valley,CAN,Canada,FIS,Snowboard Cross,6,20.00
-15,Swaine Ben,Male,09-02-2024,Beaver Valley,CAN,Canada,FIS,Snowboard Cross,6,20.00
-16,Swaine Ben,Male,04-02-2024,Val Saint Come,CAN,Canada,FIS,Snowboard Cross,6,20.00
-17,Swaine Ben,Male,03-02-2024,Val Saint Come,CAN,Canada,FIS,Snowboard Cross,12,11.00
-18,Swaine Ben,Male,09-12-2023,Pitztal,AUT,Canada,Junior,Snowboard Cross,60,1.25
-19,Swaine Ben,Male,21-03-2023,Mt. Orignal,CAN,Canada,Junior,Snowboard Cross,26,6.00
-20,Swaine Ben,Male,20-03-2023,Mt. Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,37,
-21,Swaine Ben,Male,17-03-2023,Horseshoe Resort,CAN,Canada,National Junior Championships,Snowboard Cross,22,9.90
-22,Swaine Ben,Male,16-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,35,3.20
-23,Swaine Ben,Male,15-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,34,3.52
-24,Swaine Ben,Male,12-03-2023,Horseshoe Resort,CAN,Canada,FIS,Snowboard Cross,14,
-25,Swaine Ben,Male,25-02-2023,Beaver Valley,CAN,Canada,FIS,Snowboard Cross,5,22.50
-26,Swaine Ben,Male,24-02-2023,Beaver Valley,CAN,Canada,FIS,Snowboard Cross,7,18.00
-27,Swaine Ben,Male,12-02-2023,Big White Ski Resort,CAN,Canada,FIS,Snowboard Cross,12,
-28,Swaine Ben,Male,11-02-2023,Big White Ski Resort,CAN,Canada,FIS,Snowboard Cross,12,
+0,Swaine Ben,Male,05-01-2025,Sun Peaks,CAN,Canada,Nor-Am Cup,Snowboard Cross,27,7.20
+1,Swaine Ben,Male,04-01-2025,Sun Peaks,CAN,Canada,Nor-Am Cup,Snowboard Cross,27,7.20
+2,Swaine Ben,Male,18-08-2024,Mt Hotham,AUS,Canada,Australian New Zealand Cup,Snowboard Cross,26,18.00
+3,Swaine Ben,Male,17-08-2024,Mt Hotham,AUS,Canada,Australian New Zealand Cup,Snowboard Cross,29,12.96
+4,Swaine Ben,Male,15-08-2024,Mt Hotham,AUS,Canada,Australian New Zealand Cup,Snowboard Cross,31,10.08
+5,Swaine Ben,Male,14-08-2024,Mt Hotham,AUS,Canada,Junior,Snowboard Cross,27,
+6,Swaine Ben,Male,06-04-2024,Gudauri,GEO,Canada,FIS Junior World Championships,Snowboard Cross,41,6.55
+7,Swaine Ben,Male,05-04-2024,Gudauri,GEO,Canada,Qualification,Snowboard Cross,41,
+8,Swaine Ben,Male,29-03-2024,Mt St. Anne,CAN,Canada,Nor-Am Cup,Snowboard Cross,16,30.00
+9,Swaine Ben,Male,28-03-2024,Mt St. Anne,CAN,Canada,Nor-Am Cup,Snowboard Cross,30,7.04
+10,Swaine Ben,Male,08-03-2024,Beaver Valley,CAN,Canada,National Junior Championships,Snowboard Cross,9,20.30
+11,Swaine Ben,Male,06-03-2024,Toronto Ski Club,CAN,Canada,National Junior Championships,Parallel Giant Slalom,6,20.00
+12,Swaine Ben,Male,28-02-2024,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,24,11.20
+13,Swaine Ben,Male,27-02-2024,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,26,8.00
+14,Swaine Ben,Male,18-02-2024,Caledon Ski Club,CAN,Canada,FIS,Snowboard Cross,1,50.00
+15,Swaine Ben,Male,17-02-2024,Caledon Ski Club,CAN,Canada,FIS,Snowboard Cross,1,50.00
+16,Swaine Ben,Male,10-02-2024,Beaver Valley,CAN,Canada,FIS,Snowboard Cross,6,20.00
+17,Swaine Ben,Male,09-02-2024,Beaver Valley,CAN,Canada,FIS,Snowboard Cross,6,20.00
+18,Swaine Ben,Male,04-02-2024,Val Saint Come,CAN,Canada,FIS,Snowboard Cross,6,20.00
+19,Swaine Ben,Male,03-02-2024,Val Saint Come,CAN,Canada,FIS,Snowboard Cross,12,11.00
+20,Swaine Ben,Male,09-12-2023,Pitztal,AUT,Canada,Junior,Snowboard Cross,60,1.25
+21,Swaine Ben,Male,21-03-2023,Mt. Orignal,CAN,Canada,Junior,Snowboard Cross,26,6.00
+22,Swaine Ben,Male,20-03-2023,Mt. Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,37,
+23,Swaine Ben,Male,17-03-2023,Horseshoe Resort,CAN,Canada,National Junior Championships,Snowboard Cross,22,9.90
+24,Swaine Ben,Male,16-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,35,3.20
+25,Swaine Ben,Male,15-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,34,3.52
+26,Swaine Ben,Male,12-03-2023,Horseshoe Resort,CAN,Canada,FIS,Snowboard Cross,14,
+27,Swaine Ben,Male,25-02-2023,Beaver Valley,CAN,Canada,FIS,Snowboard Cross,5,22.50
+28,Swaine Ben,Male,24-02-2023,Beaver Valley,CAN,Canada,FIS,Snowboard Cross,7,18.00
+29,Swaine Ben,Male,12-02-2023,Big White Ski Resort,CAN,Canada,FIS,Snowboard Cross,12,
+30,Swaine Ben,Male,11-02-2023,Big White Ski Resort,CAN,Canada,FIS,Snowboard Cross,12,

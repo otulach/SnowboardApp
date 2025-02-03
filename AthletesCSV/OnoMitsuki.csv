@@ -1,53 +1,61 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Ono Mitsuki,Female,17-03-2024,Sapporo,JPN,Japan,National Championships,Halfpipe,1,320.00
-1,Ono Mitsuki,Female,10-02-2024,Calgary,CAN,Japan,World Cup,Halfpipe,1,1000.00
-2,Ono Mitsuki,Female,09-02-2024,Calgary,CAN,Japan,Qualification,Halfpipe,1,
-3,Ono Mitsuki,Female,03-02-2024,Mammoth Mountain,USA,Japan,World Cup,Halfpipe,1,1000.00
-4,Ono Mitsuki,Female,30-01-2024,Mammoth Mountain,USA,Japan,Qualification,Halfpipe,1,
-5,Ono Mitsuki,Female,20-01-2024,Laax,SUI,Japan,World Cup,Halfpipe,1,1000.00
-6,Ono Mitsuki,Female,16-12-2023,Copper Mountain,USA,Japan,World Cup,Halfpipe,2,657.70
-7,Ono Mitsuki,Female,14-12-2023,Copper Mountain,USA,Japan,Qualification,Halfpipe,4,
-8,Ono Mitsuki,Female,08-12-2023,Secret Garden,CHN,Japan,World Cup,Halfpipe,DNS,
-9,Ono Mitsuki,Female,06-12-2023,Secret Garden,CHN,Japan,Qualification,Halfpipe,DNS,
-10,Ono Mitsuki,Female,03-03-2023,Bakuriani,GEO,Japan,World Championships,Halfpipe,3,672.10
-11,Ono Mitsuki,Female,01-03-2023,Bakuriani,GEO,Japan,Qualification,Halfpipe,1,
-12,Ono Mitsuki,Female,10-02-2023,Calgary,CAN,Japan,World Cup,Halfpipe,1,800.00
-13,Ono Mitsuki,Female,09-02-2023,Calgary,CAN,Japan,Qualification,Halfpipe,1,
-14,Ono Mitsuki,Female,04-02-2023,Mammoth Mountain,USA,Japan,World Cup,Halfpipe,1,1000.00
-15,Ono Mitsuki,Female,02-02-2023,Mammoth Mountain,USA,Japan,Qualification,Halfpipe,6,
-16,Ono Mitsuki,Female,21-01-2023,Laax,SUI,Japan,World Cup,Halfpipe,1,1000.00
-17,Ono Mitsuki,Female,19-01-2023,Laax,SUI,Japan,Qualification,Halfpipe,1,
-18,Ono Mitsuki,Female,16-12-2022,Copper Mountain,USA,Japan,World Cup,Halfpipe,3,682.00
-19,Ono Mitsuki,Female,14-12-2022,Copper Mountain,USA,Japan,Qualification,Halfpipe,2,
-20,Ono Mitsuki,Female,21-03-2022,Ajigasawa,JPN,Japan,National Championships,Halfpipe,23,0.20
-21,Ono Mitsuki,Female,10-02-2022,Beijing,CHN,Japan,Olympic Winter Games,Halfpipe,9,255.00
-22,Ono Mitsuki,Female,09-02-2022,Beijing,CHN,Japan,Qualification,Halfpipe,2,
-23,Ono Mitsuki,Female,15-01-2022,Laax,SUI,Japan,World Cup,Halfpipe,2,824.90
-24,Ono Mitsuki,Female,13-01-2022,Laax,SUI,Japan,Qualification,Halfpipe,3,
-25,Ono Mitsuki,Female,08-01-2022,Mammoth Mountain,USA,Japan,World Cup,Halfpipe,4,574.20
-26,Ono Mitsuki,Female,06-01-2022,Mammoth Mountain,USA,Japan,Qualification,Halfpipe,9,
-27,Ono Mitsuki,Female,11-12-2021,Copper Mountain,USA,Japan,World Cup,Halfpipe,5,495.70
-28,Ono Mitsuki,Female,09-12-2021,Copper Mountain,USA,Japan,Qualification,Halfpipe,3,
-29,Ono Mitsuki,Female,14-04-2021,Sapporo,JPN,Japan,National Championships,Halfpipe,2,262.83
-30,Ono Mitsuki,Female,21-03-2021,Aspen,USA,Japan,World Cup,Halfpipe,4,572.84
-31,Ono Mitsuki,Female,18-03-2021,Aspen,USA,Japan,Qualification,Halfpipe,8,
-32,Ono Mitsuki,Female,13-03-2021,Aspen,USA,Japan,World Championships,Halfpipe,6,388.37
-33,Ono Mitsuki,Female,11-03-2021,Aspen,USA,Japan,Qualification,Halfpipe,7,
-34,Ono Mitsuki,Female,23-01-2021,Laax,SUI,Japan,World Cup,Halfpipe,2,823.14
-35,Ono Mitsuki,Female,21-01-2021,Laax,SUI,Japan,Qualification,Halfpipe,2,
-36,Ono Mitsuki,Female,15-02-2020,Calgary,CAN,Japan,World Cup,Halfpipe,2,800.00
-37,Ono Mitsuki,Female,13-02-2020,Calgary,CAN,Japan,Qualification,Halfpipe,6,
-38,Ono Mitsuki,Female,08-02-2020,Mammoth Mountain Ski Resort,USA,Japan,Nor-Am Cup,Halfpipe,2,192.00
-39,Ono Mitsuki,Female,31-01-2020,Mammoth Mountain Resort,USA,Japan,World Cup,Halfpipe,8,320.00
-40,Ono Mitsuki,Female,29-01-2020,Mammoth Mountain Resort,USA,Japan,Qualification,Halfpipe,7,
-41,Ono Mitsuki,Female,20-01-2020,Leysin,SUI,Japan,Youth Olympic Winter Games,Halfpipe,1,240.00
-42,Ono Mitsuki,Female,22-12-2019,Secret Garden,CHN,Japan,World Cup,Halfpipe,9,290.00
-43,Ono Mitsuki,Female,20-12-2019,Secret Garden,CHN,Japan,Qualification,Halfpipe,9,
-44,Ono Mitsuki,Female,14-12-2019,Copper Mountain Resort,USA,Japan,World Cup,Halfpipe,8,320.00
-45,Ono Mitsuki,Female,12-12-2019,Copper Mountain Resort,USA,Japan,Qualification,Halfpipe,5,
-46,Ono Mitsuki,Female,24-02-2019,Gujo,JPN,Japan,National Championships,Halfpipe,3,174.00
-47,Ono Mitsuki,Female,11-02-2019, Sapporo Bankei ,JPN,Japan,FIS,Halfpipe,1,100.00
-48,Ono Mitsuki,Female,26-01-2019,Leysin,SUI,Japan,FIS Junior World Championships,Halfpipe,1,240.00
-49,Ono Mitsuki,Female,04-09-2018,Cardrona,NZL,Japan,FIS Junior World Championships,Halfpipe,1,240.00
-50,Ono Mitsuki,Female,01-09-2018,Cardrona,NZL,Japan,Qualification,Halfpipe,7,
-51,Ono Mitsuki,Female,25-02-2018,Gujo,JPN,Japan,National Championships,Halfpipe,6,116.00
+0,Ono Mitsuki,Female,01-02-2025,Aspen,USA,Japan,World Cup,Halfpipe,8,
+1,Ono Mitsuki,Female,30-01-2025,Aspen,USA,Japan,Qualification,Halfpipe,5,
+2,Ono Mitsuki,Female,18-01-2025,Laax,SUI,Japan,World Cup,Halfpipe,4,578.40
+3,Ono Mitsuki,Female,17-01-2025,Laax,SUI,Japan,Qualification,Halfpipe,3,
+4,Ono Mitsuki,Female,20-12-2024,Copper,USA,Japan,World Cup,Halfpipe,3,690.70
+5,Ono Mitsuki,Female,18-12-2024,Copper,USA,Japan,Qualification,Halfpipe,4,
+6,Ono Mitsuki,Female,08-12-2024,Secret Garden,CHN,Japan,World Cup,Halfpipe,4,575.40
+7,Ono Mitsuki,Female,06-12-2024,Secret Garden,CHN,Japan,Qualification,Halfpipe,5,
+8,Ono Mitsuki,Female,17-03-2024,Sapporo,JPN,Japan,National Championships,Halfpipe,1,320.00
+9,Ono Mitsuki,Female,10-02-2024,Calgary,CAN,Japan,World Cup,Halfpipe,1,1000.00
+10,Ono Mitsuki,Female,09-02-2024,Calgary,CAN,Japan,Qualification,Halfpipe,1,
+11,Ono Mitsuki,Female,03-02-2024,Mammoth Mountain,USA,Japan,World Cup,Halfpipe,1,1000.00
+12,Ono Mitsuki,Female,30-01-2024,Mammoth Mountain,USA,Japan,Qualification,Halfpipe,1,
+13,Ono Mitsuki,Female,20-01-2024,Laax,SUI,Japan,World Cup,Halfpipe,1,1000.00
+14,Ono Mitsuki,Female,16-12-2023,Copper Mountain,USA,Japan,World Cup,Halfpipe,2,657.70
+15,Ono Mitsuki,Female,14-12-2023,Copper Mountain,USA,Japan,Qualification,Halfpipe,4,
+16,Ono Mitsuki,Female,08-12-2023,Secret Garden,CHN,Japan,World Cup,Halfpipe,DNS,
+17,Ono Mitsuki,Female,06-12-2023,Secret Garden,CHN,Japan,Qualification,Halfpipe,DNS,
+18,Ono Mitsuki,Female,03-03-2023,Bakuriani,GEO,Japan,World Championships,Halfpipe,3,672.10
+19,Ono Mitsuki,Female,01-03-2023,Bakuriani,GEO,Japan,Qualification,Halfpipe,1,
+20,Ono Mitsuki,Female,10-02-2023,Calgary,CAN,Japan,World Cup,Halfpipe,1,800.00
+21,Ono Mitsuki,Female,09-02-2023,Calgary,CAN,Japan,Qualification,Halfpipe,1,
+22,Ono Mitsuki,Female,04-02-2023,Mammoth Mountain,USA,Japan,World Cup,Halfpipe,1,1000.00
+23,Ono Mitsuki,Female,02-02-2023,Mammoth Mountain,USA,Japan,Qualification,Halfpipe,6,
+24,Ono Mitsuki,Female,21-01-2023,Laax,SUI,Japan,World Cup,Halfpipe,1,1000.00
+25,Ono Mitsuki,Female,19-01-2023,Laax,SUI,Japan,Qualification,Halfpipe,1,
+26,Ono Mitsuki,Female,16-12-2022,Copper Mountain,USA,Japan,World Cup,Halfpipe,3,682.00
+27,Ono Mitsuki,Female,14-12-2022,Copper Mountain,USA,Japan,Qualification,Halfpipe,2,
+28,Ono Mitsuki,Female,21-03-2022,Ajigasawa,JPN,Japan,National Championships,Halfpipe,23,0.20
+29,Ono Mitsuki,Female,10-02-2022,Beijing,CHN,Japan,Olympic Winter Games,Halfpipe,9,255.00
+30,Ono Mitsuki,Female,09-02-2022,Beijing,CHN,Japan,Qualification,Halfpipe,2,
+31,Ono Mitsuki,Female,15-01-2022,Laax,SUI,Japan,World Cup,Halfpipe,2,824.90
+32,Ono Mitsuki,Female,13-01-2022,Laax,SUI,Japan,Qualification,Halfpipe,3,
+33,Ono Mitsuki,Female,08-01-2022,Mammoth Mountain,USA,Japan,World Cup,Halfpipe,4,574.20
+34,Ono Mitsuki,Female,06-01-2022,Mammoth Mountain,USA,Japan,Qualification,Halfpipe,9,
+35,Ono Mitsuki,Female,11-12-2021,Copper Mountain,USA,Japan,World Cup,Halfpipe,5,495.70
+36,Ono Mitsuki,Female,09-12-2021,Copper Mountain,USA,Japan,Qualification,Halfpipe,3,
+37,Ono Mitsuki,Female,14-04-2021,Sapporo,JPN,Japan,National Championships,Halfpipe,2,262.83
+38,Ono Mitsuki,Female,21-03-2021,Aspen,USA,Japan,World Cup,Halfpipe,4,572.84
+39,Ono Mitsuki,Female,18-03-2021,Aspen,USA,Japan,Qualification,Halfpipe,8,
+40,Ono Mitsuki,Female,13-03-2021,Aspen,USA,Japan,World Championships,Halfpipe,6,388.37
+41,Ono Mitsuki,Female,11-03-2021,Aspen,USA,Japan,Qualification,Halfpipe,7,
+42,Ono Mitsuki,Female,23-01-2021,Laax,SUI,Japan,World Cup,Halfpipe,2,823.14
+43,Ono Mitsuki,Female,21-01-2021,Laax,SUI,Japan,Qualification,Halfpipe,2,
+44,Ono Mitsuki,Female,15-02-2020,Calgary,CAN,Japan,World Cup,Halfpipe,2,800.00
+45,Ono Mitsuki,Female,13-02-2020,Calgary,CAN,Japan,Qualification,Halfpipe,6,
+46,Ono Mitsuki,Female,08-02-2020,Mammoth Mountain Ski Resort,USA,Japan,Nor-Am Cup,Halfpipe,2,192.00
+47,Ono Mitsuki,Female,31-01-2020,Mammoth Mountain Resort,USA,Japan,World Cup,Halfpipe,8,320.00
+48,Ono Mitsuki,Female,29-01-2020,Mammoth Mountain Resort,USA,Japan,Qualification,Halfpipe,7,
+49,Ono Mitsuki,Female,20-01-2020,Leysin,SUI,Japan,Youth Olympic Winter Games,Halfpipe,1,240.00
+50,Ono Mitsuki,Female,22-12-2019,Secret Garden,CHN,Japan,World Cup,Halfpipe,9,290.00
+51,Ono Mitsuki,Female,20-12-2019,Secret Garden,CHN,Japan,Qualification,Halfpipe,9,
+52,Ono Mitsuki,Female,14-12-2019,Copper Mountain Resort,USA,Japan,World Cup,Halfpipe,8,320.00
+53,Ono Mitsuki,Female,12-12-2019,Copper Mountain Resort,USA,Japan,Qualification,Halfpipe,5,
+54,Ono Mitsuki,Female,24-02-2019,Gujo,JPN,Japan,National Championships,Halfpipe,3,174.00
+55,Ono Mitsuki,Female,11-02-2019, Sapporo Bankei ,JPN,Japan,FIS,Halfpipe,1,100.00
+56,Ono Mitsuki,Female,26-01-2019,Leysin,SUI,Japan,FIS Junior World Championships,Halfpipe,1,240.00
+57,Ono Mitsuki,Female,04-09-2018,Cardrona,NZL,Japan,FIS Junior World Championships,Halfpipe,1,240.00
+58,Ono Mitsuki,Female,01-09-2018,Cardrona,NZL,Japan,Qualification,Halfpipe,7,
+59,Ono Mitsuki,Female,25-02-2018,Gujo,JPN,Japan,National Championships,Halfpipe,6,116.00

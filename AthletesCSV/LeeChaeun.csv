@@ -1,71 +1,79 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Lee Chaeun,Male,02-09-2024,Cardrona,NZL,Korea,World Cup,Slopestyle,36,85.20
-1,Lee Chaeun,Male,31-08-2024,Cardrona,NZL,Korea,Qualification,Slopestyle,22,
-2,Lee Chaeun,Male,28-02-2024,Yongpyong,KOR,Korea,National Championships,Big Air,1,80.00
-3,Lee Chaeun,Male,27-02-2024,Yongpyong,KOR,Korea,National Championships,Slopestyle,1,90.00
-4,Lee Chaeun,Male,24-02-2024,Welli Hilli,KOR,Korea,National Championships,Halfpipe,1,180.00
-5,Lee Chaeun,Male,01-02-2024,Gangwon/Welli Hilli,KOR,Korea,Youth Olympic Winter Games,Halfpipe,1,290.00
-6,Lee Chaeun,Male,28-01-2024,Gangwon/Welli Hilli,KOR,Korea,Youth Olympic Winter Games,Big Air,DNS,
-7,Lee Chaeun,Male,27-01-2024,Gangwon/Welli Hilli,KOR,Korea,Qualification,Big Air,DNS,
-8,Lee Chaeun,Male,25-01-2024,Gangwon/Welli Hilli,KOR,Korea,Youth Olympic Winter Games,Slopestyle,1,200.00
-9,Lee Chaeun,Male,20-01-2024,Laax,SUI,Korea,World Cup,Halfpipe,7,384.10
-10,Lee Chaeun,Male,16-12-2023,Copper Mountain,USA,Korea,World Cup,Halfpipe,2,827.40
-11,Lee Chaeun,Male,14-12-2023,Copper Mountain,USA,Korea,Qualification,Halfpipe,3,
-12,Lee Chaeun,Male,08-12-2023,Secret Garden,CHN,Korea,World Cup,Halfpipe,3,685.70
-13,Lee Chaeun,Male,06-12-2023,Secret Garden,CHN,Korea,Qualification,Halfpipe,6,
-14,Lee Chaeun,Male,02-12-2023,Beijing,CHN,Korea,World Cup,Big Air,6,435.20
-15,Lee Chaeun,Male,01-12-2023,Beijing,CHN,Korea,Qualification,Big Air,5,
-16,Lee Chaeun,Male,04-09-2023,Cardrona,NZL,Korea,FIS Junior World Championships,Big Air,6,159.20
-17,Lee Chaeun,Male,02-09-2023,Cardrona,NZL,Korea,Qualification,Big Air,4,
-18,Lee Chaeun,Male,30-08-2023,Cardrona,NZL,Korea,FIS Junior World Championships,Slopestyle,4,213.20
-19,Lee Chaeun,Male,28-08-2023,Cardrona,NZL,Korea,Qualification,Slopestyle,1,
-20,Lee Chaeun,Male,12-08-2023,The Remarkables,NZL,Korea,Australian New Zealand Cup,Slopestyle,15,18.00
-21,Lee Chaeun,Male,20-03-2023,Mottolino Livigno,ITA,Korea,European Cup,Slopestyle,16,51.30
-22,Lee Chaeun,Male,17-03-2023,Laax,SUI,Korea,European Cup Premium,Slopestyle,13,103.30
-23,Lee Chaeun,Male,03-03-2023,Bakuriani,GEO,Korea,World Championships,Halfpipe,1,1000.00
-24,Lee Chaeun,Male,01-03-2023,Bakuriani,GEO,Korea,Qualification,Halfpipe,7,
-25,Lee Chaeun,Male,10-02-2023,Calgary,CAN,Korea,World Cup,Halfpipe,4,457.20
-26,Lee Chaeun,Male,09-02-2023,Calgary,CAN,Korea,Qualification,Halfpipe,2,
-27,Lee Chaeun,Male,04-02-2023,Mammoth Mountain,USA,Korea,World Cup,Halfpipe,4,460.30
-28,Lee Chaeun,Male,02-02-2023,Mammoth Mountain,USA,Korea,Qualification,Halfpipe,4,
-29,Lee Chaeun,Male,21-01-2023,Laax,SUI,Korea,World Cup,Halfpipe,5,488.80
-30,Lee Chaeun,Male,19-01-2023,Laax,SUI,Korea,Qualification,Halfpipe,5,
-31,Lee Chaeun,Male,16-12-2022,Copper Mountain,USA,Korea,World Cup,Halfpipe,8,337.70
-32,Lee Chaeun,Male,14-12-2022,Copper Mountain,USA,Korea,Qualification,Halfpipe,5,
-33,Lee Chaeun,Male,22-10-2022,Chur,SUI,Korea,Qualification,Big Air,20,
-34,Lee Chaeun,Male,22-10-2022,Chur,SUI,Korea,World Cup,Big Air,35,55.60
-35,Lee Chaeun,Male,02-09-2022,Cardrona,NZL,Korea,Australian New Zealand Cup,Slopestyle,12,68.70
-36,Lee Chaeun,Male,01-09-2022,Cardrona,NZL,Korea,Australian New Zealand Cup,Halfpipe,1,150.00
-37,Lee Chaeun,Male,20-03-2022,Laax,SUI,Korea,European Cup Premium,Halfpipe,1,290.00
-38,Lee Chaeun,Male,13-03-2022,Leysin,SUI,Korea,FIS Junior World Championships,Slopestyle,26,40.80
-39,Lee Chaeun,Male,10-03-2022,Leysin,SUI,Korea,FIS Junior World Championships,Big Air,3,167.20
-40,Lee Chaeun,Male,08-03-2022,Leysin,SUI,Korea,FIS Junior World Championships,Halfpipe,1,240.00
-41,Lee Chaeun,Male,11-02-2022,Beijing,CHN,Korea,Olympic Winter Games,Halfpipe,18,82.60
-42,Lee Chaeun,Male,09-02-2022,Beijing,CHN,Korea,Qualification,Halfpipe,18,
-43,Lee Chaeun,Male,28-01-2022,Crans Montana,SUI,Korea,European Cup,Big Air,2,165.40
-44,Lee Chaeun,Male,27-01-2022,Crans Montana,SUI,Korea,European Cup,Halfpipe,3,105.20
-45,Lee Chaeun,Male,15-01-2022,Laax,SUI,Korea,World Cup,Halfpipe,17,168.60
-46,Lee Chaeun,Male,13-01-2022,Laax,SUI,Korea,Qualification,Halfpipe,10,
-47,Lee Chaeun,Male,08-01-2022,Mammoth Mountain,USA,Korea,World Cup,Halfpipe,8,264.30
-48,Lee Chaeun,Male,11-12-2021,Copper Mountain,USA,Korea,World Cup,Halfpipe,39,29.40
-49,Lee Chaeun,Male,09-12-2021,Copper Mountain,USA,Korea,Qualification,Halfpipe,20,
-50,Lee Chaeun,Male,23-03-2021,Krasnoyarsk ,RUS,Korea,FIS Junior World Championships,Halfpipe,3,151.68
-51,Lee Chaeun,Male,22-03-2021,Krasnoyarsk ,RUS,Korea,Qualification,Halfpipe,4,
-52,Lee Chaeun,Male,19-03-2021,Krasnoyarsk ,RUS,Korea,FIS Junior World Championships,Slopestyle,7,89.25
-53,Lee Chaeun,Male,18-03-2021,Krasnoyarsk ,RUS,Korea,Qualification,Slopestyle,5,
-54,Lee Chaeun,Male,29-01-2021,Park City,USA,Korea,FIS,Slopestyle,6,30.64
-55,Lee Chaeun,Male,28-01-2021,Park City,USA,Korea,FIS,Halfpipe,1,50.00
-56,Lee Chaeun,Male,19-02-2020,Pyeongchang,KOR,Korea,Asian Cup,Halfpipe,1,160.00
-57,Lee Chaeun,Male,14-02-2020,Pyeongchang,KOR,Korea,National Championships,Big Air,1,50.00
-58,Lee Chaeun,Male,13-02-2020,Pyeongchang,KOR,Korea,National Championships,Slopestyle,1,50.00
-59,Lee Chaeun,Male,10-02-2020,Pyeongchang,KOR,Korea,Asian Cup,Halfpipe,1,160.00
-60,Lee Chaeun,Male,04-02-2020,Pyeongchang,KOR,Korea,FIS,Halfpipe,2,120.00
-61,Lee Chaeun,Male,31-01-2020,Pyeongchang,KOR,Korea,FIS,Big Air,2,40.00
-62,Lee Chaeun,Male,30-01-2020,Pyeongchang,KOR,Korea,FIS,Slopestyle,2,40.00
-63,Lee Chaeun,Male,26-01-2020,Niseko,JPN,Korea,Asian Cup,Slopestyle,12,35.20
-64,Lee Chaeun,Male,25-01-2020,Niseko,JPN,Korea,Asian Cup,Slopestyle,32,4.16
-65,Lee Chaeun,Male,15-01-2020,Pyeongchang,KOR,Korea,FIS,Big Air,1,50.00
-66,Lee Chaeun,Male,14-01-2020,Pyeongchang,KOR,Korea,FIS,Slopestyle,1,50.00
-67,Lee Chaeun,Male,01-09-2019,Cardrona,NZL,Korea,Australian New Zealand Cup,Slopestyle,33,7.68
-68,Lee Chaeun,Male,28-08-2019,Cardrona,NZL,Korea,Australian New Zealand Cup,Halfpipe,3,132.00
-69,Lee Chaeun,Male,15-08-2019,Cardrona Alpine Resort,NZL,Korea,Australian New Zealand Cup,Slopestyle,12,79.20
+0,Lee Chaeun,Male,18-01-2025,Laax,SUI,Korea,World Cup,Halfpipe,12,235.50
+1,Lee Chaeun,Male,17-01-2025,Laax,SUI,Korea,Qualification,Halfpipe,3,
+2,Lee Chaeun,Male,20-12-2024,Copper,USA,Korea,World Cup,Halfpipe,5,501.60
+3,Lee Chaeun,Male,18-12-2024,Copper,USA,Korea,Qualification,Halfpipe,1,
+4,Lee Chaeun,Male,08-12-2024,Secret Garden,CHN,Korea,World Cup,Halfpipe,7,373.30
+5,Lee Chaeun,Male,06-12-2024,Secret Garden,CHN,Korea,Qualification,Halfpipe,2,
+6,Lee Chaeun,Male,01-12-2024,Beijing,CHN,Korea,World Cup,Big Air,34,91.70
+7,Lee Chaeun,Male,30-11-2024,Beijing,CHN,Korea,Qualification,Big Air,18,
+8,Lee Chaeun,Male,02-09-2024,Cardrona,NZL,Korea,World Cup,Slopestyle,36,85.20
+9,Lee Chaeun,Male,31-08-2024,Cardrona,NZL,Korea,Qualification,Slopestyle,22,
+10,Lee Chaeun,Male,28-02-2024,Yongpyong,KOR,Korea,National Championships,Big Air,1,80.00
+11,Lee Chaeun,Male,27-02-2024,Yongpyong,KOR,Korea,National Championships,Slopestyle,1,90.00
+12,Lee Chaeun,Male,24-02-2024,Welli Hilli,KOR,Korea,National Championships,Halfpipe,1,180.00
+13,Lee Chaeun,Male,01-02-2024,Gangwon/Welli Hilli,KOR,Korea,Youth Olympic Winter Games,Halfpipe,1,290.00
+14,Lee Chaeun,Male,28-01-2024,Gangwon/Welli Hilli,KOR,Korea,Youth Olympic Winter Games,Big Air,DNS,
+15,Lee Chaeun,Male,27-01-2024,Gangwon/Welli Hilli,KOR,Korea,Qualification,Big Air,DNS,
+16,Lee Chaeun,Male,25-01-2024,Gangwon/Welli Hilli,KOR,Korea,Youth Olympic Winter Games,Slopestyle,1,200.00
+17,Lee Chaeun,Male,20-01-2024,Laax,SUI,Korea,World Cup,Halfpipe,7,384.10
+18,Lee Chaeun,Male,16-12-2023,Copper Mountain,USA,Korea,World Cup,Halfpipe,2,827.40
+19,Lee Chaeun,Male,14-12-2023,Copper Mountain,USA,Korea,Qualification,Halfpipe,3,
+20,Lee Chaeun,Male,08-12-2023,Secret Garden,CHN,Korea,World Cup,Halfpipe,3,685.70
+21,Lee Chaeun,Male,06-12-2023,Secret Garden,CHN,Korea,Qualification,Halfpipe,6,
+22,Lee Chaeun,Male,02-12-2023,Beijing,CHN,Korea,World Cup,Big Air,6,435.20
+23,Lee Chaeun,Male,01-12-2023,Beijing,CHN,Korea,Qualification,Big Air,5,
+24,Lee Chaeun,Male,04-09-2023,Cardrona,NZL,Korea,FIS Junior World Championships,Big Air,6,159.20
+25,Lee Chaeun,Male,02-09-2023,Cardrona,NZL,Korea,Qualification,Big Air,4,
+26,Lee Chaeun,Male,30-08-2023,Cardrona,NZL,Korea,FIS Junior World Championships,Slopestyle,4,213.20
+27,Lee Chaeun,Male,28-08-2023,Cardrona,NZL,Korea,Qualification,Slopestyle,1,
+28,Lee Chaeun,Male,12-08-2023,The Remarkables,NZL,Korea,Australian New Zealand Cup,Slopestyle,15,18.00
+29,Lee Chaeun,Male,20-03-2023,Mottolino Livigno,ITA,Korea,European Cup,Slopestyle,16,51.30
+30,Lee Chaeun,Male,17-03-2023,Laax,SUI,Korea,European Cup Premium,Slopestyle,13,103.30
+31,Lee Chaeun,Male,03-03-2023,Bakuriani,GEO,Korea,World Championships,Halfpipe,1,1000.00
+32,Lee Chaeun,Male,01-03-2023,Bakuriani,GEO,Korea,Qualification,Halfpipe,7,
+33,Lee Chaeun,Male,10-02-2023,Calgary,CAN,Korea,World Cup,Halfpipe,4,457.20
+34,Lee Chaeun,Male,09-02-2023,Calgary,CAN,Korea,Qualification,Halfpipe,2,
+35,Lee Chaeun,Male,04-02-2023,Mammoth Mountain,USA,Korea,World Cup,Halfpipe,4,460.30
+36,Lee Chaeun,Male,02-02-2023,Mammoth Mountain,USA,Korea,Qualification,Halfpipe,4,
+37,Lee Chaeun,Male,21-01-2023,Laax,SUI,Korea,World Cup,Halfpipe,5,488.80
+38,Lee Chaeun,Male,19-01-2023,Laax,SUI,Korea,Qualification,Halfpipe,5,
+39,Lee Chaeun,Male,16-12-2022,Copper Mountain,USA,Korea,World Cup,Halfpipe,8,337.70
+40,Lee Chaeun,Male,14-12-2022,Copper Mountain,USA,Korea,Qualification,Halfpipe,5,
+41,Lee Chaeun,Male,22-10-2022,Chur,SUI,Korea,Qualification,Big Air,20,
+42,Lee Chaeun,Male,22-10-2022,Chur,SUI,Korea,World Cup,Big Air,35,55.60
+43,Lee Chaeun,Male,02-09-2022,Cardrona,NZL,Korea,Australian New Zealand Cup,Slopestyle,12,68.70
+44,Lee Chaeun,Male,01-09-2022,Cardrona,NZL,Korea,Australian New Zealand Cup,Halfpipe,1,150.00
+45,Lee Chaeun,Male,20-03-2022,Laax,SUI,Korea,European Cup Premium,Halfpipe,1,290.00
+46,Lee Chaeun,Male,13-03-2022,Leysin,SUI,Korea,FIS Junior World Championships,Slopestyle,26,40.80
+47,Lee Chaeun,Male,10-03-2022,Leysin,SUI,Korea,FIS Junior World Championships,Big Air,3,167.20
+48,Lee Chaeun,Male,08-03-2022,Leysin,SUI,Korea,FIS Junior World Championships,Halfpipe,1,240.00
+49,Lee Chaeun,Male,11-02-2022,Beijing,CHN,Korea,Olympic Winter Games,Halfpipe,18,82.60
+50,Lee Chaeun,Male,09-02-2022,Beijing,CHN,Korea,Qualification,Halfpipe,18,
+51,Lee Chaeun,Male,28-01-2022,Crans Montana,SUI,Korea,European Cup,Big Air,2,165.40
+52,Lee Chaeun,Male,27-01-2022,Crans Montana,SUI,Korea,European Cup,Halfpipe,3,105.20
+53,Lee Chaeun,Male,15-01-2022,Laax,SUI,Korea,World Cup,Halfpipe,17,168.60
+54,Lee Chaeun,Male,13-01-2022,Laax,SUI,Korea,Qualification,Halfpipe,10,
+55,Lee Chaeun,Male,08-01-2022,Mammoth Mountain,USA,Korea,World Cup,Halfpipe,8,264.30
+56,Lee Chaeun,Male,11-12-2021,Copper Mountain,USA,Korea,World Cup,Halfpipe,39,29.40
+57,Lee Chaeun,Male,09-12-2021,Copper Mountain,USA,Korea,Qualification,Halfpipe,20,
+58,Lee Chaeun,Male,23-03-2021,Krasnoyarsk ,RUS,Korea,FIS Junior World Championships,Halfpipe,3,151.68
+59,Lee Chaeun,Male,22-03-2021,Krasnoyarsk ,RUS,Korea,Qualification,Halfpipe,4,
+60,Lee Chaeun,Male,19-03-2021,Krasnoyarsk ,RUS,Korea,FIS Junior World Championships,Slopestyle,7,89.25
+61,Lee Chaeun,Male,18-03-2021,Krasnoyarsk ,RUS,Korea,Qualification,Slopestyle,5,
+62,Lee Chaeun,Male,29-01-2021,Park City,USA,Korea,FIS,Slopestyle,6,30.64
+63,Lee Chaeun,Male,28-01-2021,Park City,USA,Korea,FIS,Halfpipe,1,50.00
+64,Lee Chaeun,Male,19-02-2020,Pyeongchang,KOR,Korea,Asian Cup,Halfpipe,1,160.00
+65,Lee Chaeun,Male,14-02-2020,Pyeongchang,KOR,Korea,National Championships,Big Air,1,50.00
+66,Lee Chaeun,Male,13-02-2020,Pyeongchang,KOR,Korea,National Championships,Slopestyle,1,50.00
+67,Lee Chaeun,Male,10-02-2020,Pyeongchang,KOR,Korea,Asian Cup,Halfpipe,1,160.00
+68,Lee Chaeun,Male,04-02-2020,Pyeongchang,KOR,Korea,FIS,Halfpipe,2,120.00
+69,Lee Chaeun,Male,31-01-2020,Pyeongchang,KOR,Korea,FIS,Big Air,2,40.00
+70,Lee Chaeun,Male,30-01-2020,Pyeongchang,KOR,Korea,FIS,Slopestyle,2,40.00
+71,Lee Chaeun,Male,26-01-2020,Niseko,JPN,Korea,Asian Cup,Slopestyle,12,35.20
+72,Lee Chaeun,Male,25-01-2020,Niseko,JPN,Korea,Asian Cup,Slopestyle,32,4.16
+73,Lee Chaeun,Male,15-01-2020,Pyeongchang,KOR,Korea,FIS,Big Air,1,50.00
+74,Lee Chaeun,Male,14-01-2020,Pyeongchang,KOR,Korea,FIS,Slopestyle,1,50.00
+75,Lee Chaeun,Male,01-09-2019,Cardrona,NZL,Korea,Australian New Zealand Cup,Slopestyle,33,7.68
+76,Lee Chaeun,Male,28-08-2019,Cardrona,NZL,Korea,Australian New Zealand Cup,Halfpipe,3,132.00
+77,Lee Chaeun,Male,15-08-2019,Cardrona Alpine Resort,NZL,Korea,Australian New Zealand Cup,Slopestyle,12,79.20

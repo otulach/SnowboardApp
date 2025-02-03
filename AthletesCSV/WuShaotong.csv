@@ -1,68 +1,76 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Wu Shaotong,Female,08-04-2024,Corvatsch,SUI,P.r. China,European Cup,Halfpipe,2,295.20
-1,Wu Shaotong,Female,14-03-2024,Tiger Ridge Mountain Park,CHN,P.r. China,Asian Cup,Halfpipe,1,290.00
-2,Wu Shaotong,Female,12-03-2024,Tiger Ridge Mountain Park,CHN,P.r. China,Asian Cup,Halfpipe,1,290.00
-3,Wu Shaotong,Female,26-11-2023,Changchengling Indoor Ski ResResort,CHN,P.r. China,FIS,Halfpipe,7,0.40
-4,Wu Shaotong,Female,25-11-2023,Changchengling Indoor Ski ResResort,CHN,P.r. China,FIS,Halfpipe,7,0.40
-5,Wu Shaotong,Female,03-03-2023,Bakuriani,GEO,P.r. China,World Championships,Halfpipe,6,382.70
-6,Wu Shaotong,Female,01-03-2023,Bakuriani,GEO,P.r. China,Qualification,Halfpipe,5,
-7,Wu Shaotong,Female,04-02-2023,Mammoth Mountain,USA,P.r. China,World Cup,Halfpipe,7,345.00
-8,Wu Shaotong,Female,02-02-2023,Mammoth Mountain,USA,P.r. China,Qualification,Halfpipe,4,
-9,Wu Shaotong,Female,21-01-2023,Laax,SUI,P.r. China,World Cup,Halfpipe,2,822.10
-10,Wu Shaotong,Female,19-01-2023,Laax,SUI,P.r. China,Qualification,Halfpipe,2,
-11,Wu Shaotong,Female,16-12-2022,Copper Mountain,USA,P.r. China,World Cup,Halfpipe,21,25.50
-12,Wu Shaotong,Female,14-12-2022,Copper Mountain,USA,P.r. China,Qualification,Halfpipe,21,
-13,Wu Shaotong,Female,10-02-2022,Beijing,CHN,P.r. China,Olympic Winter Games,Halfpipe,22,0.50
-14,Wu Shaotong,Female,09-02-2022,Beijing,CHN,P.r. China,Qualification,Halfpipe,22,
-15,Wu Shaotong,Female,15-01-2022,Laax,SUI,P.r. China,World Cup,Halfpipe,6,418.50
-16,Wu Shaotong,Female,13-01-2022,Laax,SUI,P.r. China,Qualification,Halfpipe,5,
-17,Wu Shaotong,Female,08-01-2022,Mammoth Mountain,USA,P.r. China,World Cup,Halfpipe,18,90.00
-18,Wu Shaotong,Female,06-01-2022,Mammoth Mountain,USA,P.r. China,Qualification,Halfpipe,18,
-19,Wu Shaotong,Female,11-12-2021,Copper Mountain,USA,P.r. China,World Cup,Halfpipe,8,327.40
-20,Wu Shaotong,Female,09-12-2021,Copper Mountain,USA,P.r. China,Qualification,Halfpipe,4,
-21,Wu Shaotong,Female,15-02-2020,Calgary,CAN,P.r. China,World Cup,Halfpipe,9,290.00
-22,Wu Shaotong,Female,13-02-2020,Calgary,CAN,P.r. China,Qualification,Halfpipe,9,
-23,Wu Shaotong,Female,31-01-2020,Mammoth Mountain Resort,USA,P.r. China,World Cup,Halfpipe,4,500.00
-24,Wu Shaotong,Female,29-01-2020,Mammoth Mountain Resort,USA,P.r. China,Qualification,Halfpipe,3,
-25,Wu Shaotong,Female,18-01-2020,Laax,SUI,P.r. China,World Cup,Halfpipe,14,
-26,Wu Shaotong,Female,16-01-2020,Laax,SUI,P.r. China,Qualification,Halfpipe,14,
-27,Wu Shaotong,Female,22-12-2019,Secret Garden,CHN,P.r. China,World Cup,Halfpipe,4,500.00
-28,Wu Shaotong,Female,20-12-2019,Secret Garden,CHN,P.r. China,Qualification,Halfpipe,8,
-29,Wu Shaotong,Female,14-12-2019,Copper Mountain Resort,USA,P.r. China,World Cup,Halfpipe,5,450.00
-30,Wu Shaotong,Female,12-12-2019,Copper Mountain Resort,USA,P.r. China,Qualification,Halfpipe,7,
-31,Wu Shaotong,Female,02-10-2019,Cardrona,NZL,P.r. China,Australian New Zealand Cup,Halfpipe,1,320.00
-32,Wu Shaotong,Female,28-08-2019,Cardrona,NZL,P.r. China,Australian New Zealand Cup,Halfpipe,2,288.00
-33,Wu Shaotong,Female,08-03-2019,Krasnoyarsk,RUS,P.r. China,Universiade,Halfpipe,3,174.00
-34,Wu Shaotong,Female,15-02-2019,Calgary,CAN,P.r. China,World Cup,Halfpipe,5,450.00
-35,Wu Shaotong,Female,13-02-2019,Calgary,CAN,P.r. China,Qualification,Halfpipe,7,
-36,Wu Shaotong,Female,08-02-2019,Park City,USA,P.r. China,World Championships,Halfpipe,12,220.00
-37,Wu Shaotong,Female,06-02-2019,Park City,USA,P.r. China,Qualification,Halfpipe,12,
-38,Wu Shaotong,Female,19-01-2019,Laax,SUI,P.r. China,World Cup,Halfpipe,6,400.00
-39,Wu Shaotong,Female,16-01-2019,Laax,SUI,P.r. China,Qualification,Halfpipe,6,
-40,Wu Shaotong,Female,21-12-2018,Secret Garden,CHN,P.r. China,World Cup,Halfpipe,9,290.00
-41,Wu Shaotong,Female,19-12-2018,Secret Garden,CHN,P.r. China,Qualification,Halfpipe,9,
-42,Wu Shaotong,Female,08-12-2018,Copper Mountain Resort,USA,P.r. China,World Cup,Halfpipe,14,180.00
-43,Wu Shaotong,Female,06-12-2018,Copper Mountain Resort,USA,P.r. China,Qualification,Halfpipe,14,
-44,Wu Shaotong,Female,20-01-2018,Laax,SUI,P.r. China,World Cup,Halfpipe,10,260.00
-45,Wu Shaotong,Female,13-01-2018,Snowmass,USA,P.r. China,World Cup,Halfpipe,22,90.00
-46,Wu Shaotong,Female,11-01-2018,Snowmass,USA,P.r. China,Qualification,Halfpipe,22,
-47,Wu Shaotong,Female,21-12-2017,Secret Garden,CHN,P.r. China,World Cup,Halfpipe,9,290.00
-48,Wu Shaotong,Female,19-12-2017,Secret Garden,CHN,P.r. China,Qualification,Halfpipe,9,
-49,Wu Shaotong,Female,09-12-2017,Copper Mountain Resort,USA,P.r. China,World Cup,Halfpipe,22,90.00
-50,Wu Shaotong,Female,07-12-2017,Copper Mountain Resort,USA,P.r. China,Qualification,Halfpipe,10,
-51,Wu Shaotong,Female,04-10-2017,Cardrona,NZL,P.r. China,FIS,Halfpipe,3,132.00
-52,Wu Shaotong,Female,08-09-2017,Cardrona,NZL,P.r. China,World Cup,Halfpipe,30,
-53,Wu Shaotong,Female,07-09-2017,Cardrona,NZL,P.r. China,Qualification,Halfpipe,30,
-54,Wu Shaotong,Female,11-03-2017,Sierra Nevada,ESP,P.r. China,World Championships,Halfpipe,15,160.00
-55,Wu Shaotong,Female,10-03-2017,Sierra Nevada,ESP,P.r. China,Qualification,Halfpipe,15,
-56,Wu Shaotong,Female,19-02-2017,Phoenix Pyeongchang,KOR,P.r. China,World Cup,Halfpipe,27,
-57,Wu Shaotong,Female,17-02-2017,Phoenix Pyeongchang,KOR,P.r. China,Qualification,Halfpipe,27,
-58,Wu Shaotong,Female,05-02-2017,Mammoth Mountain Resort,USA,P.r. China,World Cup,Halfpipe,19,120.00
-59,Wu Shaotong,Female,01-02-2017,Mammoth Mountain Resort,USA,P.r. China,Qualification,Halfpipe,19,
-60,Wu Shaotong,Female,21-01-2017,Laax,SUI,P.r. China,World Cup,Halfpipe,21,100.00
-61,Wu Shaotong,Female,16-01-2017,Laax,SUI,P.r. China,Qualification,Halfpipe,21,
-62,Wu Shaotong,Female,16-12-2016,Copper,USA,P.r. China,World Cup,Halfpipe,19,120.00
-63,Wu Shaotong,Female,14-12-2016,Copper,USA,P.r. China,Qualification,Halfpipe,19,
-64,Wu Shaotong,Female,14-02-2016,Oslo,NOR,P.r. China,Youth Olympic Winter Games,Halfpipe,5,117.00
-65,Wu Shaotong,Female,15-03-2015,Yabuli,CHN,P.r. China,FIS Junior World Championships,Halfpipe,10,93.60
-66,Wu Shaotong,Female,16-12-2014,"Copper Mountain, CO",USA,P.r. China,FIS,Halfpipe,14,36.00
+0,Wu Shaotong,Female,01-02-2025,Aspen,USA,P.r. China,World Cup,Halfpipe,7,
+1,Wu Shaotong,Female,30-01-2025,Aspen,USA,P.r. China,Qualification,Halfpipe,8,
+2,Wu Shaotong,Female,18-01-2025,Laax,SUI,P.r. China,World Cup,Halfpipe,9,282.50
+3,Wu Shaotong,Female,17-01-2025,Laax,SUI,P.r. China,Qualification,Halfpipe,9,
+4,Wu Shaotong,Female,20-12-2024,Copper,USA,P.r. China,World Cup,Halfpipe,10,264.90
+5,Wu Shaotong,Female,18-12-2024,Copper,USA,P.r. China,Qualification,Halfpipe,5,
+6,Wu Shaotong,Female,08-12-2024,Secret Garden,CHN,P.r. China,World Cup,Halfpipe,6,416.70
+7,Wu Shaotong,Female,06-12-2024,Secret Garden,CHN,P.r. China,Qualification,Halfpipe,7,
+8,Wu Shaotong,Female,08-04-2024,Corvatsch,SUI,P.r. China,European Cup,Halfpipe,2,295.20
+9,Wu Shaotong,Female,14-03-2024,Tiger Ridge Mountain Park,CHN,P.r. China,Asian Cup,Halfpipe,1,290.00
+10,Wu Shaotong,Female,12-03-2024,Tiger Ridge Mountain Park,CHN,P.r. China,Asian Cup,Halfpipe,1,290.00
+11,Wu Shaotong,Female,26-11-2023,Changchengling Indoor Ski ResResort,CHN,P.r. China,FIS,Halfpipe,7,0.40
+12,Wu Shaotong,Female,25-11-2023,Changchengling Indoor Ski ResResort,CHN,P.r. China,FIS,Halfpipe,7,0.40
+13,Wu Shaotong,Female,03-03-2023,Bakuriani,GEO,P.r. China,World Championships,Halfpipe,6,382.70
+14,Wu Shaotong,Female,01-03-2023,Bakuriani,GEO,P.r. China,Qualification,Halfpipe,5,
+15,Wu Shaotong,Female,04-02-2023,Mammoth Mountain,USA,P.r. China,World Cup,Halfpipe,7,345.00
+16,Wu Shaotong,Female,02-02-2023,Mammoth Mountain,USA,P.r. China,Qualification,Halfpipe,4,
+17,Wu Shaotong,Female,21-01-2023,Laax,SUI,P.r. China,World Cup,Halfpipe,2,822.10
+18,Wu Shaotong,Female,19-01-2023,Laax,SUI,P.r. China,Qualification,Halfpipe,2,
+19,Wu Shaotong,Female,16-12-2022,Copper Mountain,USA,P.r. China,World Cup,Halfpipe,21,25.50
+20,Wu Shaotong,Female,14-12-2022,Copper Mountain,USA,P.r. China,Qualification,Halfpipe,21,
+21,Wu Shaotong,Female,10-02-2022,Beijing,CHN,P.r. China,Olympic Winter Games,Halfpipe,22,0.50
+22,Wu Shaotong,Female,09-02-2022,Beijing,CHN,P.r. China,Qualification,Halfpipe,22,
+23,Wu Shaotong,Female,15-01-2022,Laax,SUI,P.r. China,World Cup,Halfpipe,6,418.50
+24,Wu Shaotong,Female,13-01-2022,Laax,SUI,P.r. China,Qualification,Halfpipe,5,
+25,Wu Shaotong,Female,08-01-2022,Mammoth Mountain,USA,P.r. China,World Cup,Halfpipe,18,90.00
+26,Wu Shaotong,Female,06-01-2022,Mammoth Mountain,USA,P.r. China,Qualification,Halfpipe,18,
+27,Wu Shaotong,Female,11-12-2021,Copper Mountain,USA,P.r. China,World Cup,Halfpipe,8,327.40
+28,Wu Shaotong,Female,09-12-2021,Copper Mountain,USA,P.r. China,Qualification,Halfpipe,4,
+29,Wu Shaotong,Female,15-02-2020,Calgary,CAN,P.r. China,World Cup,Halfpipe,9,290.00
+30,Wu Shaotong,Female,13-02-2020,Calgary,CAN,P.r. China,Qualification,Halfpipe,9,
+31,Wu Shaotong,Female,31-01-2020,Mammoth Mountain Resort,USA,P.r. China,World Cup,Halfpipe,4,500.00
+32,Wu Shaotong,Female,29-01-2020,Mammoth Mountain Resort,USA,P.r. China,Qualification,Halfpipe,3,
+33,Wu Shaotong,Female,18-01-2020,Laax,SUI,P.r. China,World Cup,Halfpipe,14,
+34,Wu Shaotong,Female,16-01-2020,Laax,SUI,P.r. China,Qualification,Halfpipe,14,
+35,Wu Shaotong,Female,22-12-2019,Secret Garden,CHN,P.r. China,World Cup,Halfpipe,4,500.00
+36,Wu Shaotong,Female,20-12-2019,Secret Garden,CHN,P.r. China,Qualification,Halfpipe,8,
+37,Wu Shaotong,Female,14-12-2019,Copper Mountain Resort,USA,P.r. China,World Cup,Halfpipe,5,450.00
+38,Wu Shaotong,Female,12-12-2019,Copper Mountain Resort,USA,P.r. China,Qualification,Halfpipe,7,
+39,Wu Shaotong,Female,02-10-2019,Cardrona,NZL,P.r. China,Australian New Zealand Cup,Halfpipe,1,320.00
+40,Wu Shaotong,Female,28-08-2019,Cardrona,NZL,P.r. China,Australian New Zealand Cup,Halfpipe,2,288.00
+41,Wu Shaotong,Female,08-03-2019,Krasnoyarsk,RUS,P.r. China,Universiade,Halfpipe,3,174.00
+42,Wu Shaotong,Female,15-02-2019,Calgary,CAN,P.r. China,World Cup,Halfpipe,5,450.00
+43,Wu Shaotong,Female,13-02-2019,Calgary,CAN,P.r. China,Qualification,Halfpipe,7,
+44,Wu Shaotong,Female,08-02-2019,Park City,USA,P.r. China,World Championships,Halfpipe,12,220.00
+45,Wu Shaotong,Female,06-02-2019,Park City,USA,P.r. China,Qualification,Halfpipe,12,
+46,Wu Shaotong,Female,19-01-2019,Laax,SUI,P.r. China,World Cup,Halfpipe,6,400.00
+47,Wu Shaotong,Female,16-01-2019,Laax,SUI,P.r. China,Qualification,Halfpipe,6,
+48,Wu Shaotong,Female,21-12-2018,Secret Garden,CHN,P.r. China,World Cup,Halfpipe,9,290.00
+49,Wu Shaotong,Female,19-12-2018,Secret Garden,CHN,P.r. China,Qualification,Halfpipe,9,
+50,Wu Shaotong,Female,08-12-2018,Copper Mountain Resort,USA,P.r. China,World Cup,Halfpipe,14,180.00
+51,Wu Shaotong,Female,06-12-2018,Copper Mountain Resort,USA,P.r. China,Qualification,Halfpipe,14,
+52,Wu Shaotong,Female,20-01-2018,Laax,SUI,P.r. China,World Cup,Halfpipe,10,260.00
+53,Wu Shaotong,Female,13-01-2018,Snowmass,USA,P.r. China,World Cup,Halfpipe,22,90.00
+54,Wu Shaotong,Female,11-01-2018,Snowmass,USA,P.r. China,Qualification,Halfpipe,22,
+55,Wu Shaotong,Female,21-12-2017,Secret Garden,CHN,P.r. China,World Cup,Halfpipe,9,290.00
+56,Wu Shaotong,Female,19-12-2017,Secret Garden,CHN,P.r. China,Qualification,Halfpipe,9,
+57,Wu Shaotong,Female,09-12-2017,Copper Mountain Resort,USA,P.r. China,World Cup,Halfpipe,22,90.00
+58,Wu Shaotong,Female,07-12-2017,Copper Mountain Resort,USA,P.r. China,Qualification,Halfpipe,10,
+59,Wu Shaotong,Female,04-10-2017,Cardrona,NZL,P.r. China,FIS,Halfpipe,3,132.00
+60,Wu Shaotong,Female,08-09-2017,Cardrona,NZL,P.r. China,World Cup,Halfpipe,30,
+61,Wu Shaotong,Female,07-09-2017,Cardrona,NZL,P.r. China,Qualification,Halfpipe,30,
+62,Wu Shaotong,Female,11-03-2017,Sierra Nevada,ESP,P.r. China,World Championships,Halfpipe,15,160.00
+63,Wu Shaotong,Female,10-03-2017,Sierra Nevada,ESP,P.r. China,Qualification,Halfpipe,15,
+64,Wu Shaotong,Female,19-02-2017,Phoenix Pyeongchang,KOR,P.r. China,World Cup,Halfpipe,27,
+65,Wu Shaotong,Female,17-02-2017,Phoenix Pyeongchang,KOR,P.r. China,Qualification,Halfpipe,27,
+66,Wu Shaotong,Female,05-02-2017,Mammoth Mountain Resort,USA,P.r. China,World Cup,Halfpipe,19,120.00
+67,Wu Shaotong,Female,01-02-2017,Mammoth Mountain Resort,USA,P.r. China,Qualification,Halfpipe,19,
+68,Wu Shaotong,Female,21-01-2017,Laax,SUI,P.r. China,World Cup,Halfpipe,21,100.00
+69,Wu Shaotong,Female,16-01-2017,Laax,SUI,P.r. China,Qualification,Halfpipe,21,
+70,Wu Shaotong,Female,16-12-2016,Copper,USA,P.r. China,World Cup,Halfpipe,19,120.00
+71,Wu Shaotong,Female,14-12-2016,Copper,USA,P.r. China,Qualification,Halfpipe,19,
+72,Wu Shaotong,Female,14-02-2016,Oslo,NOR,P.r. China,Youth Olympic Winter Games,Halfpipe,5,117.00
+73,Wu Shaotong,Female,15-03-2015,Yabuli,CHN,P.r. China,FIS Junior World Championships,Halfpipe,10,93.60
+74,Wu Shaotong,Female,16-12-2014,"Copper Mountain, CO",USA,P.r. China,FIS,Halfpipe,14,36.00

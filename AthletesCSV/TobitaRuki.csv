@@ -1,102 +1,110 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Tobita Ruki,Male,19-10-2024,Chur,SUI,Japan,World Cup,Big Air,30,89.60
-1,Tobita Ruki,Male,30-09-2024,Cardrona,NZL,Japan,Australian New Zealand Cup,Big Air,17,34.60
-2,Tobita Ruki,Male,02-09-2024,Cardrona,NZL,Japan,World Cup,Slopestyle,30,113.90
-3,Tobita Ruki,Male,31-08-2024,Cardrona,NZL,Japan,Qualification,Slopestyle,18,
-4,Tobita Ruki,Male,14-04-2024,Corvatsch,SUI,Japan,European Cup Premium,Big Air,65,27.50
-5,Tobita Ruki,Male,12-04-2024,Corvatsch,SUI,Japan,European Cup Premium,Slopestyle,20,105.20
-6,Tobita Ruki,Male,12-03-2024,Laax,SUI,Japan,European Cup Premium,Slopestyle,9,66.10
-7,Tobita Ruki,Male,05-03-2024,Tiger Ridge Ski Resort,CHN,Japan,Asian Cup,Slopestyle,1,160.00
-8,Tobita Ruki,Male,04-03-2024,Tiger Ridge Mountain Park,CHN,Japan,Asian Cup,Slopestyle,5,71.80
-9,Tobita Ruki,Male,28-02-2024,Hakuba,JPN,Japan,Asian Cup,Slopestyle,2,198.20
-10,Tobita Ruki,Male,17-02-2024,Fukushima Yama,JPN,Japan,Asian Cup,Big Air,3,246.90
-11,Tobita Ruki,Male,04-01-2024,Font Romeu,FRA,Japan,European Cup Premium,Slopestyle,3,202.20
-12,Tobita Ruki,Male,29-09-2023,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,11,91.30
-13,Tobita Ruki,Male,22-04-2023,Kitzsteinhorn,AUT,Japan,European Cup,Big Air,3,201.60
-14,Tobita Ruki,Male,21-04-2023,Kitzsteinhorn,AUT,Japan,European Cup,Slopestyle,3,167.20
-15,Tobita Ruki,Male,17-04-2023,Corvatsch,SUI,Japan,European Cup Premium,Big Air,5,203.80
-16,Tobita Ruki,Male,14-04-2023,Corvatsch,SUI,Japan,European Cup Premium,Slopestyle,26,74.70
-17,Tobita Ruki,Male,26-03-2023,Silvaplana,SUI,Japan,World Cup,Slopestyle,11,209.30
-18,Tobita Ruki,Male,25-03-2023,Silvaplana,SUI,Japan,Qualification,Slopestyle,5,
-19,Tobita Ruki,Male,17-03-2023,Laax,SUI,Japan,European Cup Premium,Slopestyle,7,161.20
-20,Tobita Ruki,Male,04-03-2023,Bakuriani,GEO,Japan,World Championships,Big Air,22,103.30
-21,Tobita Ruki,Male,02-03-2023,Bakuriani,GEO,Japan,Qualification,Big Air,12,
-22,Tobita Ruki,Male,27-02-2023,Bakuriani,GEO,Japan,World Championships,Slopestyle,39,48.20
-23,Tobita Ruki,Male,24-02-2023,Bakuriani,GEO,Japan,Qualification,Slopestyle,20,
-24,Tobita Ruki,Male,12-02-2023,Calgary,CAN,Japan,World Cup,Slopestyle,22,95.60
-25,Tobita Ruki,Male,10-02-2023,Calgary,CAN,Japan,Qualification,Slopestyle,13,
-26,Tobita Ruki,Male,14-01-2023,Kreischberg,AUT,Japan,World Cup,Big Air,34,53.70
-27,Tobita Ruki,Male,13-01-2023,Kreischberg,AUT,Japan,Qualification,Big Air,17,
-28,Tobita Ruki,Male,17-12-2022,Copper Mountain,USA,Japan,World Cup,Big Air,55,0.20
-29,Tobita Ruki,Male,15-12-2022,Copper Mountain,USA,Japan,Qualification,Big Air,27,
-30,Tobita Ruki,Male,10-12-2022,Edmonton,CAN,Japan,World Cup,Big Air,15,165.40
-31,Tobita Ruki,Male,09-12-2022,Edmonton,CAN,Japan,Qualification,Big Air,9,
-32,Tobita Ruki,Male,22-10-2022,Chur,SUI,Japan,World Cup,Big Air,2,663.10
-33,Tobita Ruki,Male,22-10-2022,Chur,SUI,Japan,Qualification,Big Air,4,
-34,Tobita Ruki,Male,27-03-2022,Silvaplana,SUI,Japan,World Cup,Slopestyle,11,208.50
-35,Tobita Ruki,Male,25-03-2022,Silvaplana,SUI,Japan,Qualification,Slopestyle,8,
-36,Tobita Ruki,Male,19-03-2022,Spindleruv Mlyn,CZE,Japan,World Cup,Slopestyle,6,260.20
-37,Tobita Ruki,Male,18-03-2022,Spindleruv Mlyn,CZE,Japan,Qualification,Slopestyle,7,
-38,Tobita Ruki,Male,15-02-2022,Beijing,CHN,Japan,Olympic Winter Games,Big Air,29,0.40
-39,Tobita Ruki,Male,14-02-2022,Beijing,CHN,Japan,Qualification,Big Air,29,
-40,Tobita Ruki,Male,07-02-2022,Beijing,CHN,Japan,Olympic Winter Games,Slopestyle,19,103.10
-41,Tobita Ruki,Male,06-02-2022,Beijing,CHN,Japan,Qualification,Slopestyle,19,
-42,Tobita Ruki,Male,08-01-2022,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,17,180.50
-43,Tobita Ruki,Male,01-01-2022,Calgary,CAN,Japan,World Cup,Slopestyle,13,220.80
-44,Tobita Ruki,Male,31-12-2021,Calgary,CAN,Japan,Qualification,Slopestyle,4,
-45,Tobita Ruki,Male,04-12-2021,Steamboat,USA,Japan,World Cup,Big Air,12,252.20
-46,Tobita Ruki,Male,02-12-2021,Steamboat,USA,Japan,Qualification,Big Air,7,
-47,Tobita Ruki,Male,23-10-2021,Chur,SUI,Japan,World Cup,Big Air,25,127.00
-48,Tobita Ruki,Male,28-03-2021,Silvaplana,SUI,Japan,Qualification,Slopestyle,9,
-49,Tobita Ruki,Male,28-03-2021,Silvaplana,SUI,Japan,World Cup,Slopestyle,20,176.03
-50,Tobita Ruki,Male,20-03-2021,Aspen,USA,Japan,World Cup,Slopestyle,52,37.64
-51,Tobita Ruki,Male,19-03-2021,Aspen,USA,Japan,Qualification,Slopestyle,26,
-52,Tobita Ruki,Male,16-03-2021,Aspen,USA,Japan,World Championships,Big Air,4,472.71
-53,Tobita Ruki,Male,14-03-2021,Aspen,USA,Japan,Qualification,Big Air,4,
-54,Tobita Ruki,Male,12-03-2021,Aspen,USA,Japan,World Championships,Slopestyle,9,313.79
-55,Tobita Ruki,Male,10-03-2021,Aspen,USA,Japan,Qualification,Slopestyle,7,
-56,Tobita Ruki,Male,22-01-2021,Laax,SUI,Japan,World Cup,Slopestyle,13,182.84
-57,Tobita Ruki,Male,19-01-2021,Laax,SUI,Japan,Qualification,Slopestyle,13,
-58,Tobita Ruki,Male,09-01-2021,Kreischberg,AUT,Japan,Qualification,Big Air,10,
-59,Tobita Ruki,Male,09-01-2021,Kreischberg,AUT,Japan,World Cup,Big Air,17,197.11
-60,Tobita Ruki,Male,16-02-2020,Calgary,CAN,Japan,World Cup,Slopestyle,2,800.00
-61,Tobita Ruki,Male,14-02-2020,Calgary,CAN,Japan,Qualification,Slopestyle,1,
-62,Tobita Ruki,Male,23-01-2020,Seiseralm,ITA,Japan,World Cup,Slopestyle,2,800.00
-63,Tobita Ruki,Male,22-01-2020,Seiseralm,ITA,Japan,Qualification,Slopestyle,6,
-64,Tobita Ruki,Male,15-01-2020,Laax,SUI,Japan,World Cup,Slopestyle,47,16.40
-65,Tobita Ruki,Male,13-01-2020,Laax,SUI,Japan,Qualification,Slopestyle,24,
-66,Tobita Ruki,Male,20-12-2019,Atlanta,USA,Japan,World Cup,Big Air,14,180.00
-67,Tobita Ruki,Male,14-12-2019,Beijing,CHN,Japan,World Cup,Big Air,5,450.00
-68,Tobita Ruki,Male,12-12-2019,Beijing,CHN,Japan,Qualification,Big Air,3,
-69,Tobita Ruki,Male,02-11-2019,Modena SKIPASS,ITA,Japan,World Cup,Big Air,10,260.00
-70,Tobita Ruki,Male,09-03-2019,Mammoth Mountain Resort,USA,Japan,World Cup,Slopestyle,3,600.00
-71,Tobita Ruki,Male,07-03-2019,Mammoth Mountain Resort,USA,Japan,Qualification,Slopestyle,7,
-72,Tobita Ruki,Male,10-02-2019,Park City,USA,Japan,World Championships,Slopestyle,36,19.70
-73,Tobita Ruki,Male,09-02-2019,Park City,USA,Japan,Qualification,Slopestyle,36,
-74,Tobita Ruki,Male,18-01-2019,Laax,SUI,Japan,World Cup,Slopestyle,19,120.00
-75,Tobita Ruki,Male,16-01-2019,Laax,SUI,Japan,Qualification,Slopestyle,9,
-76,Tobita Ruki,Male,12-01-2019,Kreischberg,AUT,Japan,World Cup,Slopestyle,5,450.00
-77,Tobita Ruki,Male,11-01-2019,Kreischberg,AUT,Japan,Qualification,Slopestyle,5,
-78,Tobita Ruki,Male,21-12-2018,Secret Garden,CHN,Japan,World Cup,Slopestyle,15,160.00
-79,Tobita Ruki,Male,20-12-2018,Secret Garden,CHN,Japan,Qualification,Slopestyle,15,
-80,Tobita Ruki,Male,24-11-2018,Beijing,CHN,Japan,World Cup,Big Air,4,500.00
-81,Tobita Ruki,Male,23-11-2018,Beijing,CHN,Japan,Qualification,Big Air,4,
-82,Tobita Ruki,Male,03-11-2018,Modena SKIPASS,ITA,Japan,World Cup,Big Air,4,500.00
-83,Tobita Ruki,Male,08-09-2018,Cardrona,NZL,Japan,World Cup,Big Air,27,45.00
-84,Tobita Ruki,Male,06-09-2018,Cardrona,NZL,Japan,Qualification,Big Air,13,
-85,Tobita Ruki,Male,15-03-2018,Tokura  Katashina,JPN,Japan,National Championships,Slopestyle,1,220.00
-86,Tobita Ruki,Male,14-03-2018,Tokura  Katashina,JPN,Japan,FIS,Slopestyle,4,110.00
-87,Tobita Ruki,Male,11-03-2018,Tokura  Katashina,JPN,Japan,National Championships,Big Air,4,75.00
-88,Tobita Ruki,Male,10-03-2018,Tokura  Katashina,JPN,Japan,FIS,Big Air,6,60.00
-89,Tobita Ruki,Male,09-03-2017,Tokura  Katashina,JPN,Japan,National Championships,Slopestyle,6,52.00
-90,Tobita Ruki,Male,08-03-2017,Tokura  Katashina,JPN,Japan,FIS,Slopestyle,3,78.00
-91,Tobita Ruki,Male,05-03-2017,Tokura  Katashina,JPN,Japan,National Championships,Big Air,2,40.00
-92,Tobita Ruki,Male,04-03-2017,Tokura  Katashina,JPN,Japan,FIS,Big Air,1,50.00
-93,Tobita Ruki,Male,10-03-2016,Katashina/Tokura,JPN,Japan,National Championships,Slopestyle,7,46.80
-94,Tobita Ruki,Male,08-03-2016,Katashina/Tokura,JPN,Japan,FIS,Slopestyle,11,31.20
-95,Tobita Ruki,Male,27-03-2015,Yubari,JPN,Japan,National Championships,Slopestyle,4,110.00
-96,Tobita Ruki,Male,15-03-2015,Sapporo,JPN,Japan,National Championships,Halfpipe,17,44.80
-97,Tobita Ruki,Male,10-03-2015,Katashina/Tokura,JPN,Japan,FIS,Slopestyle,3,30.00
-98,Tobita Ruki,Male,09-03-2015,Katashina/Tokura,JPN,Japan,FIS,Slopestyle,2,40.00
-99,Tobita Ruki,Male,01-02-2015,Sapporo,JPN,Japan,FIS,Halfpipe,13,32.00
-100,Tobita Ruki,Male,30-03-2014,Niseko,JPN,Japan,National Championships,Halfpipe,7,129.60
+0,Tobita Ruki,Male,02-02-2025,Aspen,USA,Japan,World Cup,Slopestyle,27,
+1,Tobita Ruki,Male,31-01-2025,Aspen,USA,Japan,Qualification,Slopestyle,18,
+2,Tobita Ruki,Male,18-01-2025,Laax,SUI,Japan,World Cup,Slopestyle,15,213.40
+3,Tobita Ruki,Male,16-01-2025,Laax,SUI,Japan,Qualification,Slopestyle,8,
+4,Tobita Ruki,Male,11-01-2025,Kreischberg,AUT,Japan,Qualification,Big Air,12,
+5,Tobita Ruki,Male,11-01-2025,Kreischberg,AUT,Japan,World Cup,Big Air,21,162.60
+6,Tobita Ruki,Male,01-12-2024,Beijing,CHN,Japan,World Cup,Big Air,45,38.70
+7,Tobita Ruki,Male,30-11-2024,Beijing,CHN,Japan,Qualification,Big Air,22,
+8,Tobita Ruki,Male,19-10-2024,Chur,SUI,Japan,World Cup,Big Air,30,89.60
+9,Tobita Ruki,Male,30-09-2024,Cardrona,NZL,Japan,Australian New Zealand Cup,Big Air,17,34.60
+10,Tobita Ruki,Male,02-09-2024,Cardrona,NZL,Japan,World Cup,Slopestyle,30,113.90
+11,Tobita Ruki,Male,31-08-2024,Cardrona,NZL,Japan,Qualification,Slopestyle,18,
+12,Tobita Ruki,Male,14-04-2024,Corvatsch,SUI,Japan,European Cup Premium,Big Air,65,27.50
+13,Tobita Ruki,Male,12-04-2024,Corvatsch,SUI,Japan,European Cup Premium,Slopestyle,20,105.20
+14,Tobita Ruki,Male,12-03-2024,Laax,SUI,Japan,European Cup Premium,Slopestyle,9,66.10
+15,Tobita Ruki,Male,05-03-2024,Tiger Ridge Ski Resort,CHN,Japan,Asian Cup,Slopestyle,1,160.00
+16,Tobita Ruki,Male,04-03-2024,Tiger Ridge Mountain Park,CHN,Japan,Asian Cup,Slopestyle,5,71.80
+17,Tobita Ruki,Male,28-02-2024,Hakuba,JPN,Japan,Asian Cup,Slopestyle,2,198.20
+18,Tobita Ruki,Male,17-02-2024,Fukushima Yama,JPN,Japan,Asian Cup,Big Air,3,246.90
+19,Tobita Ruki,Male,04-01-2024,Font Romeu,FRA,Japan,European Cup Premium,Slopestyle,3,202.20
+20,Tobita Ruki,Male,29-09-2023,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,11,91.30
+21,Tobita Ruki,Male,22-04-2023,Kitzsteinhorn,AUT,Japan,European Cup,Big Air,3,201.60
+22,Tobita Ruki,Male,21-04-2023,Kitzsteinhorn,AUT,Japan,European Cup,Slopestyle,3,167.20
+23,Tobita Ruki,Male,17-04-2023,Corvatsch,SUI,Japan,European Cup Premium,Big Air,5,203.80
+24,Tobita Ruki,Male,14-04-2023,Corvatsch,SUI,Japan,European Cup Premium,Slopestyle,26,74.70
+25,Tobita Ruki,Male,26-03-2023,Silvaplana,SUI,Japan,World Cup,Slopestyle,11,209.30
+26,Tobita Ruki,Male,25-03-2023,Silvaplana,SUI,Japan,Qualification,Slopestyle,5,
+27,Tobita Ruki,Male,17-03-2023,Laax,SUI,Japan,European Cup Premium,Slopestyle,7,161.20
+28,Tobita Ruki,Male,04-03-2023,Bakuriani,GEO,Japan,World Championships,Big Air,22,103.30
+29,Tobita Ruki,Male,02-03-2023,Bakuriani,GEO,Japan,Qualification,Big Air,12,
+30,Tobita Ruki,Male,27-02-2023,Bakuriani,GEO,Japan,World Championships,Slopestyle,39,48.20
+31,Tobita Ruki,Male,24-02-2023,Bakuriani,GEO,Japan,Qualification,Slopestyle,20,
+32,Tobita Ruki,Male,12-02-2023,Calgary,CAN,Japan,World Cup,Slopestyle,22,95.60
+33,Tobita Ruki,Male,10-02-2023,Calgary,CAN,Japan,Qualification,Slopestyle,13,
+34,Tobita Ruki,Male,14-01-2023,Kreischberg,AUT,Japan,World Cup,Big Air,34,53.70
+35,Tobita Ruki,Male,13-01-2023,Kreischberg,AUT,Japan,Qualification,Big Air,17,
+36,Tobita Ruki,Male,17-12-2022,Copper Mountain,USA,Japan,World Cup,Big Air,55,0.20
+37,Tobita Ruki,Male,15-12-2022,Copper Mountain,USA,Japan,Qualification,Big Air,27,
+38,Tobita Ruki,Male,10-12-2022,Edmonton,CAN,Japan,World Cup,Big Air,15,165.40
+39,Tobita Ruki,Male,09-12-2022,Edmonton,CAN,Japan,Qualification,Big Air,9,
+40,Tobita Ruki,Male,22-10-2022,Chur,SUI,Japan,World Cup,Big Air,2,663.10
+41,Tobita Ruki,Male,22-10-2022,Chur,SUI,Japan,Qualification,Big Air,4,
+42,Tobita Ruki,Male,27-03-2022,Silvaplana,SUI,Japan,World Cup,Slopestyle,11,208.50
+43,Tobita Ruki,Male,25-03-2022,Silvaplana,SUI,Japan,Qualification,Slopestyle,8,
+44,Tobita Ruki,Male,19-03-2022,Spindleruv Mlyn,CZE,Japan,World Cup,Slopestyle,6,260.20
+45,Tobita Ruki,Male,18-03-2022,Spindleruv Mlyn,CZE,Japan,Qualification,Slopestyle,7,
+46,Tobita Ruki,Male,15-02-2022,Beijing,CHN,Japan,Olympic Winter Games,Big Air,29,0.40
+47,Tobita Ruki,Male,14-02-2022,Beijing,CHN,Japan,Qualification,Big Air,29,
+48,Tobita Ruki,Male,07-02-2022,Beijing,CHN,Japan,Olympic Winter Games,Slopestyle,19,103.10
+49,Tobita Ruki,Male,06-02-2022,Beijing,CHN,Japan,Qualification,Slopestyle,19,
+50,Tobita Ruki,Male,08-01-2022,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,17,180.50
+51,Tobita Ruki,Male,01-01-2022,Calgary,CAN,Japan,World Cup,Slopestyle,13,220.80
+52,Tobita Ruki,Male,31-12-2021,Calgary,CAN,Japan,Qualification,Slopestyle,4,
+53,Tobita Ruki,Male,04-12-2021,Steamboat,USA,Japan,World Cup,Big Air,12,252.20
+54,Tobita Ruki,Male,02-12-2021,Steamboat,USA,Japan,Qualification,Big Air,7,
+55,Tobita Ruki,Male,23-10-2021,Chur,SUI,Japan,World Cup,Big Air,25,127.00
+56,Tobita Ruki,Male,28-03-2021,Silvaplana,SUI,Japan,Qualification,Slopestyle,9,
+57,Tobita Ruki,Male,28-03-2021,Silvaplana,SUI,Japan,World Cup,Slopestyle,20,176.03
+58,Tobita Ruki,Male,20-03-2021,Aspen,USA,Japan,World Cup,Slopestyle,52,37.64
+59,Tobita Ruki,Male,19-03-2021,Aspen,USA,Japan,Qualification,Slopestyle,26,
+60,Tobita Ruki,Male,16-03-2021,Aspen,USA,Japan,World Championships,Big Air,4,472.71
+61,Tobita Ruki,Male,14-03-2021,Aspen,USA,Japan,Qualification,Big Air,4,
+62,Tobita Ruki,Male,12-03-2021,Aspen,USA,Japan,World Championships,Slopestyle,9,313.79
+63,Tobita Ruki,Male,10-03-2021,Aspen,USA,Japan,Qualification,Slopestyle,7,
+64,Tobita Ruki,Male,22-01-2021,Laax,SUI,Japan,World Cup,Slopestyle,13,182.84
+65,Tobita Ruki,Male,19-01-2021,Laax,SUI,Japan,Qualification,Slopestyle,13,
+66,Tobita Ruki,Male,09-01-2021,Kreischberg,AUT,Japan,Qualification,Big Air,10,
+67,Tobita Ruki,Male,09-01-2021,Kreischberg,AUT,Japan,World Cup,Big Air,17,197.11
+68,Tobita Ruki,Male,16-02-2020,Calgary,CAN,Japan,World Cup,Slopestyle,2,800.00
+69,Tobita Ruki,Male,14-02-2020,Calgary,CAN,Japan,Qualification,Slopestyle,1,
+70,Tobita Ruki,Male,23-01-2020,Seiseralm,ITA,Japan,World Cup,Slopestyle,2,800.00
+71,Tobita Ruki,Male,22-01-2020,Seiseralm,ITA,Japan,Qualification,Slopestyle,6,
+72,Tobita Ruki,Male,15-01-2020,Laax,SUI,Japan,World Cup,Slopestyle,47,16.40
+73,Tobita Ruki,Male,13-01-2020,Laax,SUI,Japan,Qualification,Slopestyle,24,
+74,Tobita Ruki,Male,20-12-2019,Atlanta,USA,Japan,World Cup,Big Air,14,180.00
+75,Tobita Ruki,Male,14-12-2019,Beijing,CHN,Japan,World Cup,Big Air,5,450.00
+76,Tobita Ruki,Male,12-12-2019,Beijing,CHN,Japan,Qualification,Big Air,3,
+77,Tobita Ruki,Male,02-11-2019,Modena SKIPASS,ITA,Japan,World Cup,Big Air,10,260.00
+78,Tobita Ruki,Male,09-03-2019,Mammoth Mountain Resort,USA,Japan,World Cup,Slopestyle,3,600.00
+79,Tobita Ruki,Male,07-03-2019,Mammoth Mountain Resort,USA,Japan,Qualification,Slopestyle,7,
+80,Tobita Ruki,Male,10-02-2019,Park City,USA,Japan,World Championships,Slopestyle,36,19.70
+81,Tobita Ruki,Male,09-02-2019,Park City,USA,Japan,Qualification,Slopestyle,36,
+82,Tobita Ruki,Male,18-01-2019,Laax,SUI,Japan,World Cup,Slopestyle,19,120.00
+83,Tobita Ruki,Male,16-01-2019,Laax,SUI,Japan,Qualification,Slopestyle,9,
+84,Tobita Ruki,Male,12-01-2019,Kreischberg,AUT,Japan,World Cup,Slopestyle,5,450.00
+85,Tobita Ruki,Male,11-01-2019,Kreischberg,AUT,Japan,Qualification,Slopestyle,5,
+86,Tobita Ruki,Male,21-12-2018,Secret Garden,CHN,Japan,World Cup,Slopestyle,15,160.00
+87,Tobita Ruki,Male,20-12-2018,Secret Garden,CHN,Japan,Qualification,Slopestyle,15,
+88,Tobita Ruki,Male,24-11-2018,Beijing,CHN,Japan,World Cup,Big Air,4,500.00
+89,Tobita Ruki,Male,23-11-2018,Beijing,CHN,Japan,Qualification,Big Air,4,
+90,Tobita Ruki,Male,03-11-2018,Modena SKIPASS,ITA,Japan,World Cup,Big Air,4,500.00
+91,Tobita Ruki,Male,08-09-2018,Cardrona,NZL,Japan,World Cup,Big Air,27,45.00
+92,Tobita Ruki,Male,06-09-2018,Cardrona,NZL,Japan,Qualification,Big Air,13,
+93,Tobita Ruki,Male,15-03-2018,Tokura  Katashina,JPN,Japan,National Championships,Slopestyle,1,220.00
+94,Tobita Ruki,Male,14-03-2018,Tokura  Katashina,JPN,Japan,FIS,Slopestyle,4,110.00
+95,Tobita Ruki,Male,11-03-2018,Tokura  Katashina,JPN,Japan,National Championships,Big Air,4,75.00
+96,Tobita Ruki,Male,10-03-2018,Tokura  Katashina,JPN,Japan,FIS,Big Air,6,60.00
+97,Tobita Ruki,Male,09-03-2017,Tokura  Katashina,JPN,Japan,National Championships,Slopestyle,6,52.00
+98,Tobita Ruki,Male,08-03-2017,Tokura  Katashina,JPN,Japan,FIS,Slopestyle,3,78.00
+99,Tobita Ruki,Male,05-03-2017,Tokura  Katashina,JPN,Japan,National Championships,Big Air,2,40.00
+100,Tobita Ruki,Male,04-03-2017,Tokura  Katashina,JPN,Japan,FIS,Big Air,1,50.00
+101,Tobita Ruki,Male,10-03-2016,Katashina/Tokura,JPN,Japan,National Championships,Slopestyle,7,46.80
+102,Tobita Ruki,Male,08-03-2016,Katashina/Tokura,JPN,Japan,FIS,Slopestyle,11,31.20
+103,Tobita Ruki,Male,27-03-2015,Yubari,JPN,Japan,National Championships,Slopestyle,4,110.00
+104,Tobita Ruki,Male,15-03-2015,Sapporo,JPN,Japan,National Championships,Halfpipe,17,44.80
+105,Tobita Ruki,Male,10-03-2015,Katashina/Tokura,JPN,Japan,FIS,Slopestyle,3,30.00
+106,Tobita Ruki,Male,09-03-2015,Katashina/Tokura,JPN,Japan,FIS,Slopestyle,2,40.00
+107,Tobita Ruki,Male,01-02-2015,Sapporo,JPN,Japan,FIS,Halfpipe,13,32.00
+108,Tobita Ruki,Male,30-03-2014,Niseko,JPN,Japan,National Championships,Halfpipe,7,129.60

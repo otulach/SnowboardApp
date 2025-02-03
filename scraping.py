@@ -2,8 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import os.path
+import pyarrow as pa
+import pyarrow.parquet as pq
 
-# Scraping all urls that lead to main pages of every athlete
+# Scraping all urls that lead to main page of every athlete
 def getURLS(biographiesURL):
     page = requests.get(biographiesURL)
     allAthletes = BeautifulSoup(page.content, "html.parser")
@@ -64,13 +66,18 @@ def createAthletes():
         os.mkdir("AthletesCSV")
     except:
         print("Directory AthletesCSV already exists.")
+    
+    overallFrame = pd.DataFrame(columns=['Date', 'Location', 'Country', 'Category', 'Discipline', 'Gender'])
     for singleAthleteURL in concatURLS("https://www.fis-ski.com/DB/snowboard/snowboard-alpine/biographies.html?lastname=&firstname=&sectorcode=SB&gendercode=&birthyear=&skiclub=&skis=&nationcode=&fiscode=&status=O&search=true&limit=1000"):
         dataFrame = tableAthlete(singleAthleteURL)
         if not dataFrame.empty:
             athleteName = dataFrame.Name.unique()[0].replace(" ", "")
             dataFrame.to_csv(os.path.join("AthletesCSV",athleteName + ".csv"))
-       
-       
+            overallFrame = pd.concat([overallFrame, dataFrame])
+
+# Creating a arrow structure, for faster funcioning of the app
+    arrowFrame = pa.Table.from_pandas(overallFrame)
+    pq.write_table(arrowFrame, "AthletesCSV/allathletes.parquet", compression=None)
        
 # Scraping all urls of race bundles 
 def getRaceURLS(races):
@@ -131,5 +138,4 @@ def createRacesBySeason(season):
     seasonName = df.iloc[0]['Date'][0:4]        
     df.to_csv(seasonName + ".csv")
     
-createRacesBySeason("https://www.fis-ski.com/DB/snowboard/alpine-snowboard/calendar-results.html?eventselection=&place=&sectorcode=SB&seasoncode=2023&categorycode=&disciplinecode=PSL,PGS,GS,SL,PRT&gendercode=&racedate=&racecodex=&nationcode=&seasonmonth=X-2022&saveselection=-1&seasonselection=")
 createAthletes()

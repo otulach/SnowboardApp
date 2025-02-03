@@ -1,104 +1,112 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Romero Alvaro,Male,27-03-2024,Baqueira Beret,ESP,Spain,National Championships,Snowboard Cross,1,180.00
-1,Romero Alvaro,Male,24-03-2024,Mt. St. Anne,CAN,Spain,World Cup,Snowboard Cross,50,15.50
-2,Romero Alvaro,Male,23-03-2024,Mt. St. Anne,CAN,Spain,World Cup,Snowboard Cross,8,320.00
-3,Romero Alvaro,Male,22-03-2024,Mt. St. Anne,CAN,Spain,Qualification,Snowboard Cross,19,
-4,Romero Alvaro,Male,17-03-2024,Montafon,AUT,Spain,World Cup,Snowboard Cross,28,40.00
-5,Romero Alvaro,Male,16-03-2024,Montafon,AUT,Spain,World Cup,Snowboard Cross,29,36.00
-6,Romero Alvaro,Male,15-03-2024,Montafon,AUT,Spain,Qualification,Snowboard Cross,28,
-7,Romero Alvaro,Male,09-03-2024,Cortina d'Ampezzo,ITA,Spain,World Cup,Snowboard Cross,23,80.00
-8,Romero Alvaro,Male,08-03-2024,Cortina d'Ampezzo,ITA,Spain,Qualification,Snowboard Cross,25,
-9,Romero Alvaro,Male,03-03-2024,Sierra Nevada,ESP,Spain,World Cup,Snowboard Cross,20,110.00
-10,Romero Alvaro,Male,02-03-2024,Sierra Nevada,ESP,Spain,World Cup,Snowboard Cross,26,50.00
-11,Romero Alvaro,Male,01-03-2024,Sierra Nevada,ESP,Spain,Qualification,Snowboard Cross,13,
-12,Romero Alvaro,Male,04-02-2024,Gudauri,GEO,Spain,World Cup,Snowboard Cross,34,22.00
-13,Romero Alvaro,Male,03-02-2024,Gudauri,GEO,Spain,World Cup,Snowboard Cross,39,18.80
-14,Romero Alvaro,Male,02-02-2024,Gudauri,GEO,Spain,Qualification,Snowboard Cross,39,
-15,Romero Alvaro,Male,26-01-2024,St. Moritz,SUI,Spain,World Cup,Snowboard Cross,10,260.00
-16,Romero Alvaro,Male,25-01-2024,St. Moritz,SUI,Spain,Qualification,Snowboard Cross,13,
-17,Romero Alvaro,Male,16-12-2023,Cervinia,ITA,Spain,World Cup,Snowboard Cross,9,290.00
-18,Romero Alvaro,Male,03-12-2023,Les Deux Alpes,FRA,Spain,Qualification,Snowboard Cross,43,
-19,Romero Alvaro,Male,03-12-2023,Les Deux Alpes,FRA,Spain,World Cup,Snowboard Cross,43,17.60
-20,Romero Alvaro,Male,01-10-2023,Corralco,CHI,Spain,South American Cup,Snowboard Cross,8,115.20
-21,Romero Alvaro,Male,30-09-2023,Corralco,CHI,Spain,South American Cup,Snowboard Cross,5,162.00
-22,Romero Alvaro,Male,31-03-2023,Passo San Pellegrino,ITA,Spain,FIS Junior World Championships,Snowboard Cross Team,25,
-23,Romero Alvaro,Male,30-03-2023,Passo San Pellegrino,ITA,Spain,FIS Junior World Championships,Snowboard Cross,1,320.00
-24,Romero Alvaro,Male,25-03-2023,Gargellen,AUT,Spain,Junior,Snowboard Cross,4,80.00
-25,Romero Alvaro,Male,18-03-2023,Sierra Nevada,ESP,Spain,National Championships,Snowboard Cross,1,150.00
-26,Romero Alvaro,Male,16-03-2023,Veysonnaz,SUI,Spain,World Cup,Snowboard Cross,2,800.00
-27,Romero Alvaro,Male,15-03-2023,Veysonnaz,SUI,Spain,Qualification,Snowboard Cross,26,
-28,Romero Alvaro,Male,12-03-2023,Sierra Nevada,ESP,Spain,World Cup,Snowboard Cross,25,60.00
-29,Romero Alvaro,Male,11-03-2023,Sierra Nevada,ESP,Spain,World Cup,Snowboard Cross,33,24.00
-30,Romero Alvaro,Male,01-03-2023,Bakuriani,GEO,Spain,World Championships,Snowboard Cross,13,200.00
-31,Romero Alvaro,Male,18-02-2023,Baquirea Beret,ESP,Spain,FIS,Snowboard Cross,2,120.00
-32,Romero Alvaro,Male,04-02-2023,Cortina d'Ampezzo,ITA,Spain,World Cup,Snowboard Cross,DNS1,
-33,Romero Alvaro,Male,03-02-2023,Cortina d'Ampezzo,ITA,Spain,Qualification,Snowboard Cross,DNS1,
-34,Romero Alvaro,Male,15-01-2023,Reiteralm,AUT,Spain,European Cup,Snowboard Cross,28,14.40
-35,Romero Alvaro,Male,14-01-2023,Reiteralm,AUT,Spain,European Cup,Snowboard Cross,8,115.20
-36,Romero Alvaro,Male,17-12-2022,Cervinia,ITA,Spain,World Cup,Snowboard Cross,17,140.00
-37,Romero Alvaro,Male,16-12-2022,Cervinia,ITA,Spain,World Cup,Snowboard Cross,28,40.00
-38,Romero Alvaro,Male,15-12-2022,Cervinia,ITA,Spain,Qualification,Snowboard Cross,25,
-39,Romero Alvaro,Male,04-12-2022,Les Deux Alpes,FRA,Spain,World Cup,Snowboard Cross,41,18.20
-40,Romero Alvaro,Male,02-12-2022,Les Deux Alpes,FRA,Spain,Qualification,Snowboard Cross,41,
-41,Romero Alvaro,Male,24-11-2022,Pitztal,AUT,Spain,European Cup,Snowboard Cross,68,2.42
-42,Romero Alvaro,Male,23-11-2022,Pitztal,AUT,Spain,Qualification,Snowboard Cross,68,
-43,Romero Alvaro,Male,09-04-2022,Baqueira Beret,ESP,Spain,National Championships,Snowboard Cross,3,174.00
-44,Romero Alvaro,Male,31-03-2022,Veysonnaz,SUI,Spain,FIS Junior World Championships,Snowboard Cross,4,130.00
-45,Romero Alvaro,Male,26-03-2022,Lenk,SUI,Spain,European Cup,Snowboard Cross,6,144.00
-46,Romero Alvaro,Male,25-03-2022,Lenk,SUI,Spain,European Cup,Snowboard Cross,9,104.40
-47,Romero Alvaro,Male,20-03-2022,Veysonnaz,SUI,Spain,World Cup,Snowboard Cross,13,200.00
-48,Romero Alvaro,Male,12-03-2022,Reiteralm,AUT,Spain,World Cup,Snowboard Cross,34,22.00
-49,Romero Alvaro,Male,10-03-2022,Reiteralm,AUT,Spain,Qualification,Snowboard Cross,34,
-50,Romero Alvaro,Male,02-03-2022,Pitztal,AUT,Spain,European Cup,Snowboard Cross,DNS,
-51,Romero Alvaro,Male,03-02-2022,Dolni Morava,CZE,Spain,European Cup,Snowboard Cross,20,28.60
-52,Romero Alvaro,Male,02-02-2022,Dolni Morava,CZE,Spain,European Cup,Snowboard Cross,2,192.00
-53,Romero Alvaro,Male,29-01-2022,Cortina d'Ampezzo,ITA,Spain,Qualification,Snowboard Cross,47,
-54,Romero Alvaro,Male,29-01-2022,Cortina d'Ampezzo,ITA,Spain,World Cup,Snowboard Cross,47,16.40
-55,Romero Alvaro,Male,23-01-2022,Reiteralm,AUT,Spain,European Cup,Snowboard Cross,1,260.00
-56,Romero Alvaro,Male,16-01-2022,Baqueira Beret,ESP,Spain,FIS,Snowboard Cross,4,45.00
-57,Romero Alvaro,Male,09-01-2022,Krasnoyarsk,RUS,Spain,World Cup,Snowboard Cross,25,60.00
-58,Romero Alvaro,Male,08-01-2022,Krasnoyarsk,RUS,Spain,World Cup,Snowboard Cross,8,320.00
-59,Romero Alvaro,Male,07-01-2022,Krasnoyarsk,RUS,Spain,Qualification,Snowboard Cross,27,
-60,Romero Alvaro,Male,18-12-2021,Cervinia,ITA,Spain,World Cup,Snowboard Cross,20,110.00
-61,Romero Alvaro,Male,17-12-2021,Cervinia,ITA,Spain,Qualification,Snowboard Cross,17,
-62,Romero Alvaro,Male,10-12-2021,Montafon,AUT,Spain,World Cup,Snowboard Cross,54,14.30
-63,Romero Alvaro,Male,09-12-2021,Montafon,AUT,Spain,Qualification,Snowboard Cross,54,
-64,Romero Alvaro,Male,28-11-2021,Secret Garden,CHN,Spain,World Cup,Snowboard Cross,23,80.00
-65,Romero Alvaro,Male,26-11-2021,Secret Garden,CHN,Spain,Qualification,Snowboard Cross,29,
-66,Romero Alvaro,Male,11-04-2021,Sierra Nevada,ESP,Spain,National Championships,Snowboard Cross,1,100.00
-67,Romero Alvaro,Male,23-03-2021,Krasnoyarsk ,RUS,Spain,FIS Junior World Championships,Snowboard Cross,3,156.00
-68,Romero Alvaro,Male,12-03-2021,Lenk,SUI,Spain,European Cup,Snowboard Cross,51,3.65
-69,Romero Alvaro,Male,05-03-2021,Bakuriani,GEO,Spain,World Cup,Snowboard Cross,33,24.00
-70,Romero Alvaro,Male,04-03-2021,Bakuriani,GEO,Spain,World Cup,Snowboard Cross,45,
-71,Romero Alvaro,Male,03-03-2021,Bakuriani,GEO,Spain,Qualification,Snowboard Cross,45,
-72,Romero Alvaro,Male,28-02-2021,Reiteralm,AUT,Spain,European Cup,Snowboard Cross,17,25.20
-73,Romero Alvaro,Male,27-02-2021,Reiteralm,AUT,Spain,European Cup,Snowboard Cross,2,144.00
-74,Romero Alvaro,Male,18-02-2021,Reiteralm,AUT,Spain,World Cup,Snowboard Cross,44,17.30
-75,Romero Alvaro,Male,16-02-2021,Reiteralm,AUT,Spain,Qualification,Snowboard Cross,44,
-76,Romero Alvaro,Male,11-02-2021,Idre Fjäll,SWE,Spain,World Championships,Snowboard Cross,42,17.90
-77,Romero Alvaro,Male,09-02-2021,Idre Fjäll,SWE,Spain,Qualification,Snowboard Cross,42,
-78,Romero Alvaro,Male,03-02-2021,Isola 2000,FRA,Spain,European Cup,Snowboard Cross,13,32.00
-79,Romero Alvaro,Male,31-01-2021,Isola 2000,FRA,Spain,European Cup,Snowboard Cross,13,52.00
-80,Romero Alvaro,Male,30-01-2021,Isola 2000,FRA,Spain,European Cup,Snowboard Cross,5,162.00
-81,Romero Alvaro,Male,27-01-2021,Isola 2000,FRA,Spain,Junior,Snowboard Cross,1,70.00
-82,Romero Alvaro,Male,24-01-2021,Reiteralm,AUT,Spain,FIS,Snowboard Cross,1,70.00
-83,Romero Alvaro,Male,23-01-2021,Reiteralm,AUT,Spain,FIS,Snowboard Cross,13,14.00
-84,Romero Alvaro,Male,16-01-2021,Crans-Montana,SUI,Spain,FIS,Snowboard Cross,5,99.00
-85,Romero Alvaro,Male,08-03-2020,Kuehtai,AUT,Spain,Junior,Snowboard Cross,10,33.80
-86,Romero Alvaro,Male,07-03-2020,Kuehtai,AUT,Spain,Junior,Snowboard Cross,9,37.70
-87,Romero Alvaro,Male,22-02-2020,Grasgehren,GER,Spain,European Cup,Snowboard Cross,60,
-88,Romero Alvaro,Male,16-02-2020,Flumserberg,SUI,Spain,FIS,Snowboard Cross,11,48.00
-89,Romero Alvaro,Male,15-02-2020,Flumserberg,SUI,Spain,FIS,Snowboard Cross,28,6.00
-90,Romero Alvaro,Male,20-01-2020,Villars,SUI,Spain,Youth Olympic Winter Games,Snowboard Cross,3,66.00
-91,Romero Alvaro,Male,12-01-2020,Puy St. Vincent,FRA,Spain,European Cup,Snowboard Cross,26,16.00
-92,Romero Alvaro,Male,11-01-2020,Puy St. Vincent,FRA,Spain,European Cup,Snowboard Cross,41,5.82
-93,Romero Alvaro,Male,20-12-2019,Isola 2000,FRA,Spain,Junior,Snowboard Cross,3,30.00
-94,Romero Alvaro,Male,19-12-2019,Isola 2000,FRA,Spain,Junior,Snowboard Cross,1,70.00
-95,Romero Alvaro,Male,07-04-2019,Gargellen,AUT,Spain,FIS,Snowboard Cross,29,4.68
-96,Romero Alvaro,Male,06-04-2019,Gargellen,AUT,Spain,National Championships,Snowboard Cross,8,44.80
-97,Romero Alvaro,Male,02-04-2019,Reiteralm,AUT,Spain,FIS Junior World Championships,Snowboard Cross Team,22,
-98,Romero Alvaro,Male,01-04-2019,Reiteralm,AUT,Spain,FIS Junior World Championships,Snowboard Cross,51,3.65
-99,Romero Alvaro,Male,31-03-2019,Reiteralm,AUT,Spain,Qualification,Snowboard Cross,51,
-100,Romero Alvaro,Male,29-03-2019,Piancavallo,ITA,Spain,National Championships,Snowboard Cross,12,63.80
-101,Romero Alvaro,Male,27-03-2019,Isola 2000,FRA,Spain,National Championships,Snowboard Cross,19,24.00
-102,Romero Alvaro,Male,24-03-2019,Lenk,SUI,Spain,National Championships,Snowboard Cross,17,33.60
+0,Romero Alvaro,Male,02-02-2025,Beidahu,CHN,Spain,World Cup,Snowboard Cross,43,
+1,Romero Alvaro,Male,02-02-2025,Beidahu,CHN,Spain,Qualification,Snowboard Cross,43,
+2,Romero Alvaro,Male,01-02-2025,Beidahu,CHN,Spain,World Cup,Snowboard Cross,35,
+3,Romero Alvaro,Male,31-01-2025,Beidahu,CHN,Spain,Qualification,Snowboard Cross,35,
+4,Romero Alvaro,Male,14-12-2024,Cervinia,ITA,Spain,World Cup,Snowboard Cross,10,260.00
+5,Romero Alvaro,Male,13-12-2024,Cervinia,ITA,Spain,Qualification,Snowboard Cross,13,
+6,Romero Alvaro,Male,27-11-2024,Pitztal,AUT,Spain,European Cup,Snowboard Cross,7,129.60
+7,Romero Alvaro,Male,27-11-2024,Pitztal,AUT,Spain,Qualification,Snowboard Cross,16,
+8,Romero Alvaro,Male,27-03-2024,Baqueira Beret,ESP,Spain,National Championships,Snowboard Cross,1,180.00
+9,Romero Alvaro,Male,24-03-2024,Mt. St. Anne,CAN,Spain,World Cup,Snowboard Cross,50,15.50
+10,Romero Alvaro,Male,23-03-2024,Mt. St. Anne,CAN,Spain,World Cup,Snowboard Cross,8,320.00
+11,Romero Alvaro,Male,22-03-2024,Mt. St. Anne,CAN,Spain,Qualification,Snowboard Cross,19,
+12,Romero Alvaro,Male,17-03-2024,Montafon,AUT,Spain,World Cup,Snowboard Cross,28,40.00
+13,Romero Alvaro,Male,16-03-2024,Montafon,AUT,Spain,World Cup,Snowboard Cross,29,36.00
+14,Romero Alvaro,Male,15-03-2024,Montafon,AUT,Spain,Qualification,Snowboard Cross,28,
+15,Romero Alvaro,Male,09-03-2024,Cortina d'Ampezzo,ITA,Spain,World Cup,Snowboard Cross,23,80.00
+16,Romero Alvaro,Male,08-03-2024,Cortina d'Ampezzo,ITA,Spain,Qualification,Snowboard Cross,25,
+17,Romero Alvaro,Male,03-03-2024,Sierra Nevada,ESP,Spain,World Cup,Snowboard Cross,20,110.00
+18,Romero Alvaro,Male,02-03-2024,Sierra Nevada,ESP,Spain,World Cup,Snowboard Cross,26,50.00
+19,Romero Alvaro,Male,01-03-2024,Sierra Nevada,ESP,Spain,Qualification,Snowboard Cross,13,
+20,Romero Alvaro,Male,04-02-2024,Gudauri,GEO,Spain,World Cup,Snowboard Cross,34,22.00
+21,Romero Alvaro,Male,03-02-2024,Gudauri,GEO,Spain,World Cup,Snowboard Cross,39,18.80
+22,Romero Alvaro,Male,02-02-2024,Gudauri,GEO,Spain,Qualification,Snowboard Cross,39,
+23,Romero Alvaro,Male,26-01-2024,St. Moritz,SUI,Spain,World Cup,Snowboard Cross,10,260.00
+24,Romero Alvaro,Male,25-01-2024,St. Moritz,SUI,Spain,Qualification,Snowboard Cross,13,
+25,Romero Alvaro,Male,16-12-2023,Cervinia,ITA,Spain,World Cup,Snowboard Cross,9,290.00
+26,Romero Alvaro,Male,03-12-2023,Les Deux Alpes,FRA,Spain,Qualification,Snowboard Cross,43,
+27,Romero Alvaro,Male,03-12-2023,Les Deux Alpes,FRA,Spain,World Cup,Snowboard Cross,43,17.60
+28,Romero Alvaro,Male,01-10-2023,Corralco,CHI,Spain,South American Cup,Snowboard Cross,8,115.20
+29,Romero Alvaro,Male,30-09-2023,Corralco,CHI,Spain,South American Cup,Snowboard Cross,5,162.00
+30,Romero Alvaro,Male,31-03-2023,Passo San Pellegrino,ITA,Spain,FIS Junior World Championships,Snowboard Cross Team,25,
+31,Romero Alvaro,Male,30-03-2023,Passo San Pellegrino,ITA,Spain,FIS Junior World Championships,Snowboard Cross,1,320.00
+32,Romero Alvaro,Male,25-03-2023,Gargellen,AUT,Spain,Junior,Snowboard Cross,4,80.00
+33,Romero Alvaro,Male,18-03-2023,Sierra Nevada,ESP,Spain,National Championships,Snowboard Cross,1,150.00
+34,Romero Alvaro,Male,16-03-2023,Veysonnaz,SUI,Spain,World Cup,Snowboard Cross,2,800.00
+35,Romero Alvaro,Male,15-03-2023,Veysonnaz,SUI,Spain,Qualification,Snowboard Cross,26,
+36,Romero Alvaro,Male,12-03-2023,Sierra Nevada,ESP,Spain,World Cup,Snowboard Cross,25,60.00
+37,Romero Alvaro,Male,11-03-2023,Sierra Nevada,ESP,Spain,World Cup,Snowboard Cross,33,24.00
+38,Romero Alvaro,Male,01-03-2023,Bakuriani,GEO,Spain,World Championships,Snowboard Cross,13,200.00
+39,Romero Alvaro,Male,18-02-2023,Baquirea Beret,ESP,Spain,FIS,Snowboard Cross,2,120.00
+40,Romero Alvaro,Male,04-02-2023,Cortina d'Ampezzo,ITA,Spain,World Cup,Snowboard Cross,DNS1,
+41,Romero Alvaro,Male,03-02-2023,Cortina d'Ampezzo,ITA,Spain,Qualification,Snowboard Cross,DNS1,
+42,Romero Alvaro,Male,15-01-2023,Reiteralm,AUT,Spain,European Cup,Snowboard Cross,28,14.40
+43,Romero Alvaro,Male,14-01-2023,Reiteralm,AUT,Spain,European Cup,Snowboard Cross,8,115.20
+44,Romero Alvaro,Male,17-12-2022,Cervinia,ITA,Spain,World Cup,Snowboard Cross,17,140.00
+45,Romero Alvaro,Male,16-12-2022,Cervinia,ITA,Spain,World Cup,Snowboard Cross,28,40.00
+46,Romero Alvaro,Male,15-12-2022,Cervinia,ITA,Spain,Qualification,Snowboard Cross,25,
+47,Romero Alvaro,Male,04-12-2022,Les Deux Alpes,FRA,Spain,World Cup,Snowboard Cross,41,18.20
+48,Romero Alvaro,Male,02-12-2022,Les Deux Alpes,FRA,Spain,Qualification,Snowboard Cross,41,
+49,Romero Alvaro,Male,24-11-2022,Pitztal,AUT,Spain,European Cup,Snowboard Cross,68,2.42
+50,Romero Alvaro,Male,23-11-2022,Pitztal,AUT,Spain,Qualification,Snowboard Cross,68,
+51,Romero Alvaro,Male,09-04-2022,Baqueira Beret,ESP,Spain,National Championships,Snowboard Cross,3,174.00
+52,Romero Alvaro,Male,31-03-2022,Veysonnaz,SUI,Spain,FIS Junior World Championships,Snowboard Cross,4,130.00
+53,Romero Alvaro,Male,26-03-2022,Lenk,SUI,Spain,European Cup,Snowboard Cross,6,144.00
+54,Romero Alvaro,Male,25-03-2022,Lenk,SUI,Spain,European Cup,Snowboard Cross,9,104.40
+55,Romero Alvaro,Male,20-03-2022,Veysonnaz,SUI,Spain,World Cup,Snowboard Cross,13,200.00
+56,Romero Alvaro,Male,12-03-2022,Reiteralm,AUT,Spain,World Cup,Snowboard Cross,34,22.00
+57,Romero Alvaro,Male,10-03-2022,Reiteralm,AUT,Spain,Qualification,Snowboard Cross,34,
+58,Romero Alvaro,Male,02-03-2022,Pitztal,AUT,Spain,European Cup,Snowboard Cross,DNS,
+59,Romero Alvaro,Male,03-02-2022,Dolni Morava,CZE,Spain,European Cup,Snowboard Cross,20,28.60
+60,Romero Alvaro,Male,02-02-2022,Dolni Morava,CZE,Spain,European Cup,Snowboard Cross,2,192.00
+61,Romero Alvaro,Male,29-01-2022,Cortina d'Ampezzo,ITA,Spain,Qualification,Snowboard Cross,47,
+62,Romero Alvaro,Male,29-01-2022,Cortina d'Ampezzo,ITA,Spain,World Cup,Snowboard Cross,47,16.40
+63,Romero Alvaro,Male,23-01-2022,Reiteralm,AUT,Spain,European Cup,Snowboard Cross,1,260.00
+64,Romero Alvaro,Male,16-01-2022,Baqueira Beret,ESP,Spain,FIS,Snowboard Cross,4,45.00
+65,Romero Alvaro,Male,09-01-2022,Krasnoyarsk,RUS,Spain,World Cup,Snowboard Cross,25,60.00
+66,Romero Alvaro,Male,08-01-2022,Krasnoyarsk,RUS,Spain,World Cup,Snowboard Cross,8,320.00
+67,Romero Alvaro,Male,07-01-2022,Krasnoyarsk,RUS,Spain,Qualification,Snowboard Cross,27,
+68,Romero Alvaro,Male,18-12-2021,Cervinia,ITA,Spain,World Cup,Snowboard Cross,20,110.00
+69,Romero Alvaro,Male,17-12-2021,Cervinia,ITA,Spain,Qualification,Snowboard Cross,17,
+70,Romero Alvaro,Male,10-12-2021,Montafon,AUT,Spain,World Cup,Snowboard Cross,54,14.30
+71,Romero Alvaro,Male,09-12-2021,Montafon,AUT,Spain,Qualification,Snowboard Cross,54,
+72,Romero Alvaro,Male,28-11-2021,Secret Garden,CHN,Spain,World Cup,Snowboard Cross,23,80.00
+73,Romero Alvaro,Male,26-11-2021,Secret Garden,CHN,Spain,Qualification,Snowboard Cross,29,
+74,Romero Alvaro,Male,11-04-2021,Sierra Nevada,ESP,Spain,National Championships,Snowboard Cross,1,100.00
+75,Romero Alvaro,Male,23-03-2021,Krasnoyarsk ,RUS,Spain,FIS Junior World Championships,Snowboard Cross,3,156.00
+76,Romero Alvaro,Male,12-03-2021,Lenk,SUI,Spain,European Cup,Snowboard Cross,51,3.65
+77,Romero Alvaro,Male,05-03-2021,Bakuriani,GEO,Spain,World Cup,Snowboard Cross,33,24.00
+78,Romero Alvaro,Male,04-03-2021,Bakuriani,GEO,Spain,World Cup,Snowboard Cross,45,
+79,Romero Alvaro,Male,03-03-2021,Bakuriani,GEO,Spain,Qualification,Snowboard Cross,45,
+80,Romero Alvaro,Male,28-02-2021,Reiteralm,AUT,Spain,European Cup,Snowboard Cross,17,25.20
+81,Romero Alvaro,Male,27-02-2021,Reiteralm,AUT,Spain,European Cup,Snowboard Cross,2,144.00
+82,Romero Alvaro,Male,18-02-2021,Reiteralm,AUT,Spain,World Cup,Snowboard Cross,44,17.30
+83,Romero Alvaro,Male,16-02-2021,Reiteralm,AUT,Spain,Qualification,Snowboard Cross,44,
+84,Romero Alvaro,Male,11-02-2021,Idre Fjäll,SWE,Spain,World Championships,Snowboard Cross,42,17.90
+85,Romero Alvaro,Male,09-02-2021,Idre Fjäll,SWE,Spain,Qualification,Snowboard Cross,42,
+86,Romero Alvaro,Male,03-02-2021,Isola 2000,FRA,Spain,European Cup,Snowboard Cross,13,32.00
+87,Romero Alvaro,Male,31-01-2021,Isola 2000,FRA,Spain,European Cup,Snowboard Cross,13,52.00
+88,Romero Alvaro,Male,30-01-2021,Isola 2000,FRA,Spain,European Cup,Snowboard Cross,5,162.00
+89,Romero Alvaro,Male,27-01-2021,Isola 2000,FRA,Spain,Junior,Snowboard Cross,1,70.00
+90,Romero Alvaro,Male,24-01-2021,Reiteralm,AUT,Spain,FIS,Snowboard Cross,1,70.00
+91,Romero Alvaro,Male,23-01-2021,Reiteralm,AUT,Spain,FIS,Snowboard Cross,13,14.00
+92,Romero Alvaro,Male,16-01-2021,Crans-Montana,SUI,Spain,FIS,Snowboard Cross,5,99.00
+93,Romero Alvaro,Male,08-03-2020,Kuehtai,AUT,Spain,Junior,Snowboard Cross,10,33.80
+94,Romero Alvaro,Male,07-03-2020,Kuehtai,AUT,Spain,Junior,Snowboard Cross,9,37.70
+95,Romero Alvaro,Male,22-02-2020,Grasgehren,GER,Spain,European Cup,Snowboard Cross,60,
+96,Romero Alvaro,Male,16-02-2020,Flumserberg,SUI,Spain,FIS,Snowboard Cross,11,48.00
+97,Romero Alvaro,Male,15-02-2020,Flumserberg,SUI,Spain,FIS,Snowboard Cross,28,6.00
+98,Romero Alvaro,Male,20-01-2020,Villars,SUI,Spain,Youth Olympic Winter Games,Snowboard Cross,3,66.00
+99,Romero Alvaro,Male,12-01-2020,Puy St. Vincent,FRA,Spain,European Cup,Snowboard Cross,26,16.00
+100,Romero Alvaro,Male,11-01-2020,Puy St. Vincent,FRA,Spain,European Cup,Snowboard Cross,41,5.82
+101,Romero Alvaro,Male,20-12-2019,Isola 2000,FRA,Spain,Junior,Snowboard Cross,3,30.00
+102,Romero Alvaro,Male,19-12-2019,Isola 2000,FRA,Spain,Junior,Snowboard Cross,1,70.00
+103,Romero Alvaro,Male,07-04-2019,Gargellen,AUT,Spain,FIS,Snowboard Cross,29,4.68
+104,Romero Alvaro,Male,06-04-2019,Gargellen,AUT,Spain,National Championships,Snowboard Cross,8,44.80
+105,Romero Alvaro,Male,02-04-2019,Reiteralm,AUT,Spain,FIS Junior World Championships,Snowboard Cross Team,22,
+106,Romero Alvaro,Male,01-04-2019,Reiteralm,AUT,Spain,FIS Junior World Championships,Snowboard Cross,51,3.65
+107,Romero Alvaro,Male,31-03-2019,Reiteralm,AUT,Spain,Qualification,Snowboard Cross,51,
+108,Romero Alvaro,Male,29-03-2019,Piancavallo,ITA,Spain,National Championships,Snowboard Cross,12,63.80
+109,Romero Alvaro,Male,27-03-2019,Isola 2000,FRA,Spain,National Championships,Snowboard Cross,19,24.00
+110,Romero Alvaro,Male,24-03-2019,Lenk,SUI,Spain,National Championships,Snowboard Cross,17,33.60

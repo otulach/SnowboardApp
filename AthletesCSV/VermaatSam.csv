@@ -1,82 +1,90 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Vermaat Sam,Male,19-10-2024,Chur,SUI,Netherlands,World Cup,Big Air,43,16.90
-1,Vermaat Sam,Male,14-04-2024,Corvatsch,SUI,Netherlands,European Cup Premium,Big Air,1,500.00
-2,Vermaat Sam,Male,12-04-2024,Corvatsch,SUI,Netherlands,European Cup Premium,Slopestyle,6,226.40
-3,Vermaat Sam,Male,23-03-2024,Silvaplana,SUI,Netherlands,World Cup,Slopestyle,35,103.80
-4,Vermaat Sam,Male,21-03-2024,Silvaplana,SUI,Netherlands,Qualification,Slopestyle,20,
-5,Vermaat Sam,Male,15-03-2024,Tignes,FRA,Netherlands,World Cup,Slopestyle,11,264.50
-6,Vermaat Sam,Male,15-03-2024,Tignes,FRA,Netherlands,Qualification,Slopestyle,6,
-7,Vermaat Sam,Male,08-02-2024,Mammoth Mountain,USA,Netherlands,Nor-Am Cup Premium,Slopestyle,19,82.40
-8,Vermaat Sam,Male,20-01-2024,Laax,SUI,Netherlands,World Cup,Slopestyle,34,108.10
-9,Vermaat Sam,Male,16-01-2024,Laax,SUI,Netherlands,Qualification,Slopestyle,15,
-10,Vermaat Sam,Male,15-12-2023,Copper Mountain,USA,Netherlands,World Cup,Big Air,2,829.70
-11,Vermaat Sam,Male,13-12-2023,Copper Mountain,USA,Netherlands,Qualification,Big Air,5,
-12,Vermaat Sam,Male,09-12-2023,Edmonton,CAN,Netherlands,World Cup,Big Air,18,179.10
-13,Vermaat Sam,Male,08-12-2023,Edmonton,CAN,Netherlands,Qualification,Big Air,4,
-14,Vermaat Sam,Male,02-12-2023,Beijing,CHN,Netherlands,World Cup,Big Air,23,122.30
-15,Vermaat Sam,Male,01-12-2023,Beijing,CHN,Netherlands,Qualification,Big Air,11,
-16,Vermaat Sam,Male,21-10-2023,Chur,SUI,Netherlands,World Cup,Big Air,22,156.80
-17,Vermaat Sam,Male,21-10-2023,Chur,SUI,Netherlands,Qualification,Big Air,13,
-18,Vermaat Sam,Male,04-09-2023,Cardrona,NZL,Netherlands,FIS Junior World Championships,Big Air,41,24.70
-19,Vermaat Sam,Male,02-09-2023,Cardrona,NZL,Netherlands,Qualification,Big Air,23,
-20,Vermaat Sam,Male,30-08-2023,Cardrona,NZL,Netherlands,FIS Junior World Championships,Slopestyle,31,46.00
-21,Vermaat Sam,Male,28-08-2023,Cardrona,NZL,Netherlands,Qualification,Slopestyle,14,
-22,Vermaat Sam,Male,17-04-2023,Corvatsch,SUI,Netherlands,European Cup Premium,Big Air,14,90.00
-23,Vermaat Sam,Male,14-04-2023,Corvatsch,SUI,Netherlands,European Cup Premium,Slopestyle,10,134.30
-24,Vermaat Sam,Male,29-03-2023,Leysin,SUI,Netherlands,FIS,Big Air,1,200.00
-25,Vermaat Sam,Male,28-03-2023,Leysin,SUI,Netherlands,FIS,Slopestyle,2,181.00
-26,Vermaat Sam,Male,26-03-2023,Silvaplana,SUI,Netherlands,World Cup,Slopestyle,24,110.00
-27,Vermaat Sam,Male,25-03-2023,Silvaplana,SUI,Netherlands,Qualification,Slopestyle,11,
-28,Vermaat Sam,Male,04-03-2023,Bakuriani,GEO,Netherlands,World Championships,Big Air,8,271.00
-29,Vermaat Sam,Male,02-03-2023,Bakuriani,GEO,Netherlands,Qualification,Big Air,2,
-30,Vermaat Sam,Male,27-02-2023,Bakuriani,GEO,Netherlands,World Championships,Slopestyle,12,194.40
-31,Vermaat Sam,Male,24-02-2023,Bakuriani,GEO,Netherlands,Qualification,Slopestyle,6,
-32,Vermaat Sam,Male,12-02-2023,Calgary,CAN,Netherlands,World Cup,Slopestyle,11,198.10
-33,Vermaat Sam,Male,10-02-2023,Calgary,CAN,Netherlands,Qualification,Slopestyle,7,
-34,Vermaat Sam,Male,04-02-2023,Mammoth Mountain,USA,Netherlands,World Cup,Slopestyle,44,21.00
-35,Vermaat Sam,Male,01-02-2023,Mammoth Mountain,USA,Netherlands,Qualification,Slopestyle,21,
-36,Vermaat Sam,Male,22-01-2023,Laax,SUI,Netherlands,World Cup,Slopestyle,17,192.40
-37,Vermaat Sam,Male,18-01-2023,Laax,SUI,Netherlands,Qualification,Slopestyle,11,
-38,Vermaat Sam,Male,14-01-2023,Kreischberg,AUT,Netherlands,World Cup,Big Air,25,95.00
-39,Vermaat Sam,Male,13-01-2023,Kreischberg,AUT,Netherlands,Qualification,Big Air,15,
-40,Vermaat Sam,Male,22-10-2022,Chur,SUI,Netherlands,Qualification,Big Air,23,
-41,Vermaat Sam,Male,22-10-2022,Chur,SUI,Netherlands,World Cup,Big Air,42,25.70
-42,Vermaat Sam,Male,09-04-2022,Corvatsch,SUI,Netherlands,European Cup Premium,Big Air,23,56.40
-43,Vermaat Sam,Male,07-04-2022,Corvatsch,SUI,Netherlands,European Cup Premium,Slopestyle,4,265.80
-44,Vermaat Sam,Male,27-03-2022,Silvaplana,SUI,Netherlands,World Cup,Slopestyle,48,8.40
-45,Vermaat Sam,Male,25-03-2022,Silvaplana,SUI,Netherlands,Qualification,Slopestyle,25,
-46,Vermaat Sam,Male,15-03-2022,Laax,SUI,Netherlands,European Cup Premium,Slopestyle,5,80.30
-47,Vermaat Sam,Male,13-03-2022,Leysin,SUI,Netherlands,FIS Junior World Championships,Slopestyle,7,102.70
-48,Vermaat Sam,Male,10-03-2022,Leysin,SUI,Netherlands,FIS Junior World Championships,Big Air,48,12.30
-49,Vermaat Sam,Male,26-02-2022,Götschen,GER,Netherlands,European Cup,Big Air,3,139.30
-50,Vermaat Sam,Male,25-02-2022,Götschen,GER,Netherlands,European Cup,Slopestyle,19,45.70
-51,Vermaat Sam,Male,18-02-2022,Davos,SUI,Netherlands,European Cup Premium,Big Air,3,180.70
-52,Vermaat Sam,Male,28-01-2022,Crans Montana,SUI,Netherlands,European Cup,Big Air,5,99.40
-53,Vermaat Sam,Male,15-01-2022,Laax,SUI,Netherlands,World Cup,Slopestyle,37,53.30
-54,Vermaat Sam,Male,13-01-2022,Laax,SUI,Netherlands,Qualification,Slopestyle,18,
-55,Vermaat Sam,Male,19-11-2021,Landgraaf,NED,Netherlands,European Cup,Slopestyle,3,153.10
-56,Vermaat Sam,Male,18-11-2021,Landgraaf,NED,Netherlands,FIS,Slopestyle,1,220.00
-57,Vermaat Sam,Male,01-05-2021,Hintertux,AUT,Netherlands,Junior,Slopestyle,8,72.68
-58,Vermaat Sam,Male,20-04-2021,Corvatsch,SUI,Netherlands,European Cup Premium,Slopestyle,9,124.92
-59,Vermaat Sam,Male,28-03-2021,Silvaplana,SUI,Netherlands,Qualification,Slopestyle,15,
-60,Vermaat Sam,Male,28-03-2021,Silvaplana,SUI,Netherlands,World Cup,Slopestyle,24,154.99
-61,Vermaat Sam,Male,21-03-2021,Krasnoyarsk ,RUS,Netherlands,FIS Junior World Championships,Big Air,4,139.57
-62,Vermaat Sam,Male,20-03-2021,Krasnoyarsk ,RUS,Netherlands,Qualification,Big Air,1,
-63,Vermaat Sam,Male,19-03-2021,Krasnoyarsk ,RUS,Netherlands,FIS Junior World Championships,Slopestyle,3,165.54
-64,Vermaat Sam,Male,18-03-2021,Krasnoyarsk ,RUS,Netherlands,Qualification,Slopestyle,1,
-65,Vermaat Sam,Male,11-03-2021,Leysin,SUI,Netherlands,European Cup,Slopestyle,4,128.09
-66,Vermaat Sam,Male,05-03-2021,Götschen,GER,Netherlands,European Cup,Big Air,3,89.88
-67,Vermaat Sam,Male,04-03-2021,Flachauwinkel,AUT,Netherlands,European Cup,Big Air,4,94.50
-68,Vermaat Sam,Male,22-02-2021,Götschen,GER,Netherlands,European Cup,Big Air,2,165.92
-69,Vermaat Sam,Male,21-02-2021,Götschen,GER,Netherlands,European Cup,Slopestyle,13,42.57
-70,Vermaat Sam,Male,22-01-2021,Laax,SUI,Netherlands,World Cup,Slopestyle,46,23.67
-71,Vermaat Sam,Male,19-01-2021,Laax,SUI,Netherlands,Qualification,Slopestyle,46,
-72,Vermaat Sam,Male,22-12-2020,Corvatsch,SUI,Netherlands,European Cup,Slopestyle,17,60.26
-73,Vermaat Sam,Male,19-01-2020,Vars,FRA,Netherlands,European Cup,Slopestyle,18,20.80
-74,Vermaat Sam,Male,18-01-2020,Vars,FRA,Netherlands,European Cup,Big Air,5,72.00
-75,Vermaat Sam,Male,21-11-2019,Landgraaf,NED,Netherlands,European Cup,Slopestyle,8,51.20
-76,Vermaat Sam,Male,20-11-2019,Landgraaf,NED,Netherlands,FIS,Slopestyle,11,38.40
-77,Vermaat Sam,Male,17-04-2019,Laax,BEL,Netherlands,FIS,Big Air,4,110.00
-78,Vermaat Sam,Male,16-04-2019,Laax,BEL,Netherlands,FIS,Slopestyle,8,70.40
-79,Vermaat Sam,Male,22-11-2018,Landgraaf,NED,Netherlands,European Cup,Slopestyle,3,96.00
-80,Vermaat Sam,Male,21-11-2018,Landgraaf,NED,Netherlands,FIS,Slopestyle,7,39.60
+0,Vermaat Sam,Male,18-01-2025,Laax,SUI,Netherlands,World Cup,Slopestyle,45,63.70
+1,Vermaat Sam,Male,16-01-2025,Laax,SUI,Netherlands,Qualification,Slopestyle,19,
+2,Vermaat Sam,Male,11-01-2025,Kreischberg,AUT,Netherlands,World Cup,Big Air,54,4.90
+3,Vermaat Sam,Male,11-01-2025,Kreischberg,AUT,Netherlands,Qualification,Big Air,26,
+4,Vermaat Sam,Male,05-01-2025,Klagenfurt,AUT,Netherlands,World Cup,Big Air,DNS,
+5,Vermaat Sam,Male,05-01-2025,Klagenfurt,AUT,Netherlands,Qualification,Big Air,DNS,
+6,Vermaat Sam,Male,01-12-2024,Beijing,CHN,Netherlands,World Cup,Big Air,7,388.60
+7,Vermaat Sam,Male,30-11-2024,Beijing,CHN,Netherlands,Qualification,Big Air,3,
+8,Vermaat Sam,Male,19-10-2024,Chur,SUI,Netherlands,World Cup,Big Air,43,16.90
+9,Vermaat Sam,Male,14-04-2024,Corvatsch,SUI,Netherlands,European Cup Premium,Big Air,1,500.00
+10,Vermaat Sam,Male,12-04-2024,Corvatsch,SUI,Netherlands,European Cup Premium,Slopestyle,6,226.40
+11,Vermaat Sam,Male,23-03-2024,Silvaplana,SUI,Netherlands,World Cup,Slopestyle,35,103.80
+12,Vermaat Sam,Male,21-03-2024,Silvaplana,SUI,Netherlands,Qualification,Slopestyle,20,
+13,Vermaat Sam,Male,15-03-2024,Tignes,FRA,Netherlands,World Cup,Slopestyle,11,264.50
+14,Vermaat Sam,Male,15-03-2024,Tignes,FRA,Netherlands,Qualification,Slopestyle,6,
+15,Vermaat Sam,Male,08-02-2024,Mammoth Mountain,USA,Netherlands,Nor-Am Cup Premium,Slopestyle,19,82.40
+16,Vermaat Sam,Male,20-01-2024,Laax,SUI,Netherlands,World Cup,Slopestyle,34,108.10
+17,Vermaat Sam,Male,16-01-2024,Laax,SUI,Netherlands,Qualification,Slopestyle,15,
+18,Vermaat Sam,Male,15-12-2023,Copper Mountain,USA,Netherlands,World Cup,Big Air,2,829.70
+19,Vermaat Sam,Male,13-12-2023,Copper Mountain,USA,Netherlands,Qualification,Big Air,5,
+20,Vermaat Sam,Male,09-12-2023,Edmonton,CAN,Netherlands,World Cup,Big Air,18,179.10
+21,Vermaat Sam,Male,08-12-2023,Edmonton,CAN,Netherlands,Qualification,Big Air,4,
+22,Vermaat Sam,Male,02-12-2023,Beijing,CHN,Netherlands,World Cup,Big Air,23,122.30
+23,Vermaat Sam,Male,01-12-2023,Beijing,CHN,Netherlands,Qualification,Big Air,11,
+24,Vermaat Sam,Male,21-10-2023,Chur,SUI,Netherlands,World Cup,Big Air,22,156.80
+25,Vermaat Sam,Male,21-10-2023,Chur,SUI,Netherlands,Qualification,Big Air,13,
+26,Vermaat Sam,Male,04-09-2023,Cardrona,NZL,Netherlands,FIS Junior World Championships,Big Air,41,24.70
+27,Vermaat Sam,Male,02-09-2023,Cardrona,NZL,Netherlands,Qualification,Big Air,23,
+28,Vermaat Sam,Male,30-08-2023,Cardrona,NZL,Netherlands,FIS Junior World Championships,Slopestyle,31,46.00
+29,Vermaat Sam,Male,28-08-2023,Cardrona,NZL,Netherlands,Qualification,Slopestyle,14,
+30,Vermaat Sam,Male,17-04-2023,Corvatsch,SUI,Netherlands,European Cup Premium,Big Air,14,90.00
+31,Vermaat Sam,Male,14-04-2023,Corvatsch,SUI,Netherlands,European Cup Premium,Slopestyle,10,134.30
+32,Vermaat Sam,Male,29-03-2023,Leysin,SUI,Netherlands,FIS,Big Air,1,200.00
+33,Vermaat Sam,Male,28-03-2023,Leysin,SUI,Netherlands,FIS,Slopestyle,2,181.00
+34,Vermaat Sam,Male,26-03-2023,Silvaplana,SUI,Netherlands,World Cup,Slopestyle,24,110.00
+35,Vermaat Sam,Male,25-03-2023,Silvaplana,SUI,Netherlands,Qualification,Slopestyle,11,
+36,Vermaat Sam,Male,04-03-2023,Bakuriani,GEO,Netherlands,World Championships,Big Air,8,271.00
+37,Vermaat Sam,Male,02-03-2023,Bakuriani,GEO,Netherlands,Qualification,Big Air,2,
+38,Vermaat Sam,Male,27-02-2023,Bakuriani,GEO,Netherlands,World Championships,Slopestyle,12,194.40
+39,Vermaat Sam,Male,24-02-2023,Bakuriani,GEO,Netherlands,Qualification,Slopestyle,6,
+40,Vermaat Sam,Male,12-02-2023,Calgary,CAN,Netherlands,World Cup,Slopestyle,11,198.10
+41,Vermaat Sam,Male,10-02-2023,Calgary,CAN,Netherlands,Qualification,Slopestyle,7,
+42,Vermaat Sam,Male,04-02-2023,Mammoth Mountain,USA,Netherlands,World Cup,Slopestyle,44,21.00
+43,Vermaat Sam,Male,01-02-2023,Mammoth Mountain,USA,Netherlands,Qualification,Slopestyle,21,
+44,Vermaat Sam,Male,22-01-2023,Laax,SUI,Netherlands,World Cup,Slopestyle,17,192.40
+45,Vermaat Sam,Male,18-01-2023,Laax,SUI,Netherlands,Qualification,Slopestyle,11,
+46,Vermaat Sam,Male,14-01-2023,Kreischberg,AUT,Netherlands,World Cup,Big Air,25,95.00
+47,Vermaat Sam,Male,13-01-2023,Kreischberg,AUT,Netherlands,Qualification,Big Air,15,
+48,Vermaat Sam,Male,22-10-2022,Chur,SUI,Netherlands,World Cup,Big Air,42,25.70
+49,Vermaat Sam,Male,22-10-2022,Chur,SUI,Netherlands,Qualification,Big Air,23,
+50,Vermaat Sam,Male,09-04-2022,Corvatsch,SUI,Netherlands,European Cup Premium,Big Air,23,56.40
+51,Vermaat Sam,Male,07-04-2022,Corvatsch,SUI,Netherlands,European Cup Premium,Slopestyle,4,265.80
+52,Vermaat Sam,Male,27-03-2022,Silvaplana,SUI,Netherlands,World Cup,Slopestyle,48,8.40
+53,Vermaat Sam,Male,25-03-2022,Silvaplana,SUI,Netherlands,Qualification,Slopestyle,25,
+54,Vermaat Sam,Male,15-03-2022,Laax,SUI,Netherlands,European Cup Premium,Slopestyle,5,80.30
+55,Vermaat Sam,Male,13-03-2022,Leysin,SUI,Netherlands,FIS Junior World Championships,Slopestyle,7,102.70
+56,Vermaat Sam,Male,10-03-2022,Leysin,SUI,Netherlands,FIS Junior World Championships,Big Air,48,12.30
+57,Vermaat Sam,Male,26-02-2022,Götschen,GER,Netherlands,European Cup,Big Air,3,139.30
+58,Vermaat Sam,Male,25-02-2022,Götschen,GER,Netherlands,European Cup,Slopestyle,19,45.70
+59,Vermaat Sam,Male,18-02-2022,Davos,SUI,Netherlands,European Cup Premium,Big Air,3,180.70
+60,Vermaat Sam,Male,28-01-2022,Crans Montana,SUI,Netherlands,European Cup,Big Air,5,99.40
+61,Vermaat Sam,Male,15-01-2022,Laax,SUI,Netherlands,World Cup,Slopestyle,37,53.30
+62,Vermaat Sam,Male,13-01-2022,Laax,SUI,Netherlands,Qualification,Slopestyle,18,
+63,Vermaat Sam,Male,19-11-2021,Landgraaf,NED,Netherlands,European Cup,Slopestyle,3,153.10
+64,Vermaat Sam,Male,18-11-2021,Landgraaf,NED,Netherlands,FIS,Slopestyle,1,220.00
+65,Vermaat Sam,Male,01-05-2021,Hintertux,AUT,Netherlands,Junior,Slopestyle,8,72.68
+66,Vermaat Sam,Male,20-04-2021,Corvatsch,SUI,Netherlands,European Cup Premium,Slopestyle,9,124.92
+67,Vermaat Sam,Male,28-03-2021,Silvaplana,SUI,Netherlands,Qualification,Slopestyle,15,
+68,Vermaat Sam,Male,28-03-2021,Silvaplana,SUI,Netherlands,World Cup,Slopestyle,24,154.99
+69,Vermaat Sam,Male,21-03-2021,Krasnoyarsk ,RUS,Netherlands,FIS Junior World Championships,Big Air,4,139.57
+70,Vermaat Sam,Male,20-03-2021,Krasnoyarsk ,RUS,Netherlands,Qualification,Big Air,1,
+71,Vermaat Sam,Male,19-03-2021,Krasnoyarsk ,RUS,Netherlands,FIS Junior World Championships,Slopestyle,3,165.54
+72,Vermaat Sam,Male,18-03-2021,Krasnoyarsk ,RUS,Netherlands,Qualification,Slopestyle,1,
+73,Vermaat Sam,Male,11-03-2021,Leysin,SUI,Netherlands,European Cup,Slopestyle,4,128.09
+74,Vermaat Sam,Male,05-03-2021,Götschen,GER,Netherlands,European Cup,Big Air,3,89.88
+75,Vermaat Sam,Male,04-03-2021,Flachauwinkel,AUT,Netherlands,European Cup,Big Air,4,94.50
+76,Vermaat Sam,Male,22-02-2021,Götschen,GER,Netherlands,European Cup,Big Air,2,165.92
+77,Vermaat Sam,Male,21-02-2021,Götschen,GER,Netherlands,European Cup,Slopestyle,13,42.57
+78,Vermaat Sam,Male,22-01-2021,Laax,SUI,Netherlands,World Cup,Slopestyle,46,23.67
+79,Vermaat Sam,Male,19-01-2021,Laax,SUI,Netherlands,Qualification,Slopestyle,46,
+80,Vermaat Sam,Male,22-12-2020,Corvatsch,SUI,Netherlands,European Cup,Slopestyle,17,60.26
+81,Vermaat Sam,Male,19-01-2020,Vars,FRA,Netherlands,European Cup,Slopestyle,18,20.80
+82,Vermaat Sam,Male,18-01-2020,Vars,FRA,Netherlands,European Cup,Big Air,5,72.00
+83,Vermaat Sam,Male,21-11-2019,Landgraaf,NED,Netherlands,European Cup,Slopestyle,8,51.20
+84,Vermaat Sam,Male,20-11-2019,Landgraaf,NED,Netherlands,FIS,Slopestyle,11,38.40
+85,Vermaat Sam,Male,17-04-2019,Laax,BEL,Netherlands,FIS,Big Air,4,110.00
+86,Vermaat Sam,Male,16-04-2019,Laax,BEL,Netherlands,FIS,Slopestyle,8,70.40
+87,Vermaat Sam,Male,22-11-2018,Landgraaf,NED,Netherlands,European Cup,Slopestyle,3,96.00
+88,Vermaat Sam,Male,21-11-2018,Landgraaf,NED,Netherlands,FIS,Slopestyle,7,39.60

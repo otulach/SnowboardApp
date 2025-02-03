@@ -1,110 +1,115 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Guetl Leon,Male,02-09-2024,Cardrona,NZL,Germany,World Cup,Slopestyle,11,264.50
-1,Guetl Leon,Male,31-08-2024,Cardrona,NZL,Germany,Qualification,Slopestyle,6,
-2,Guetl Leon,Male,12-04-2024,Corvatsch,SUI,Germany,European Cup Premium,Slopestyle,13,129.20
-3,Guetl Leon,Male,23-03-2024,Silvaplana,SUI,Germany,World Cup,Slopestyle,59,0.20
-4,Guetl Leon,Male,21-03-2024,Silvaplana,SUI,Germany,Qualification,Slopestyle,30,
-5,Guetl Leon,Male,15-03-2024,Tignes,FRA,Germany,Qualification,Slopestyle,11,
-6,Guetl Leon,Male,15-03-2024,Tignes,FRA,Germany,World Cup,Slopestyle,29,118.80
-7,Guetl Leon,Male,22-02-2024,Prato Nevoso,ITA,Germany,European Cup,Slopestyle,3,222.90
-8,Guetl Leon,Male,20-01-2024,Laax,SUI,Germany,World Cup,Slopestyle,40,82.10
-9,Guetl Leon,Male,16-01-2024,Laax,SUI,Germany,Qualification,Slopestyle,21,
-10,Guetl Leon,Male,15-12-2023,Copper Mountain,USA,Germany,World Cup,Big Air,24,149.80
-11,Guetl Leon,Male,13-12-2023,Copper Mountain,USA,Germany,Qualification,Big Air,12,
-12,Guetl Leon,Male,21-10-2023,Chur,SUI,Germany,Qualification,Big Air,7,
-13,Guetl Leon,Male,21-10-2023,Chur,SUI,Germany,World Cup,Big Air,13,231.90
-14,Guetl Leon,Male,09-04-2022,Corvatsch,SUI,Germany,European Cup Premium,Big Air,3,277.90
-15,Guetl Leon,Male,07-04-2022,Corvatsch,SUI,Germany,European Cup Premium,Slopestyle,8,156.90
-16,Guetl Leon,Male,27-03-2022,Silvaplana,SUI,Germany,World Cup,Slopestyle,12,193.50
-17,Guetl Leon,Male,25-03-2022,Silvaplana,SUI,Germany,Qualification,Slopestyle,7,
-18,Guetl Leon,Male,06-03-2022,Bakuriani,GEO,Germany,World Cup,Slopestyle,3,328.60
-19,Guetl Leon,Male,23-01-2022,Prato Nevoso,ITA,Germany,European Cup,Slopestyle,21,37.50
-20,Guetl Leon,Male,15-01-2022,Laax,SUI,Germany,World Cup,Slopestyle,15,161.10
-21,Guetl Leon,Male,13-01-2022,Laax,SUI,Germany,Qualification,Slopestyle,5,
-22,Guetl Leon,Male,08-01-2022,Mammoth Mountain,USA,Germany,World Cup,Slopestyle,25,127.00
-23,Guetl Leon,Male,01-01-2022,Calgary,CAN,Germany,World Cup,Slopestyle,42,22.50
-24,Guetl Leon,Male,31-12-2021,Calgary,CAN,Germany,Qualification,Slopestyle,23,
-25,Guetl Leon,Male,19-11-2021,Landgraaf,NED,Germany,European Cup,Slopestyle,1,220.00
-26,Guetl Leon,Male,18-11-2021,Landgraaf,NED,Germany,FIS,Slopestyle,6,98.50
-27,Guetl Leon,Male,11-11-2021,Glacier 3000,SUI,Germany,Open,Slopestyle,1,240.00
-28,Guetl Leon,Male,20-04-2021,Corvatsch,SUI,Germany,European Cup Premium,Slopestyle,19,68.06
-29,Guetl Leon,Male,28-03-2021,Silvaplana,SUI,Germany,Qualification,Slopestyle,22,
-30,Guetl Leon,Male,28-03-2021,Silvaplana,SUI,Germany,World Cup,Slopestyle,41,80.65
-31,Guetl Leon,Male,20-03-2021,Aspen,USA,Germany,World Cup,Slopestyle,19,183.38
-32,Guetl Leon,Male,19-03-2021,Aspen,USA,Germany,Qualification,Slopestyle,10,
-33,Guetl Leon,Male,16-03-2021,Aspen,USA,Germany,World Championships,Big Air,12,199.09
-34,Guetl Leon,Male,14-03-2021,Aspen,USA,Germany,Qualification,Big Air,6,
-35,Guetl Leon,Male,12-03-2021,Aspen,USA,Germany,World Championships,Slopestyle,17,188.32
-36,Guetl Leon,Male,10-03-2021,Aspen,USA,Germany,Qualification,Slopestyle,9,
-37,Guetl Leon,Male,05-03-2021,Götschen,GER,Germany,European Cup,Big Air,5,64.85
-38,Guetl Leon,Male,04-03-2021,Flachauwinkel,AUT,Germany,European Cup,Big Air,5,81.23
-39,Guetl Leon,Male,22-02-2021,Götschen,GER,Germany,European Cup,Big Air,3,139.19
-40,Guetl Leon,Male,21-02-2021,Götschen,GER,Germany,European Cup,Slopestyle,1,180.00
-41,Guetl Leon,Male,19-02-2021,Davos,SUI,Germany,European Cup,Big Air,9,113.21
-42,Guetl Leon,Male,31-01-2021,Crans Montana,SUI,Germany,European Cup,Slopestyle,62,15.85
-43,Guetl Leon,Male,22-01-2021,Laax,SUI,Germany,World Cup,Slopestyle,44,31.51
-44,Guetl Leon,Male,19-01-2021,Laax,SUI,Germany,Qualification,Slopestyle,44,
-45,Guetl Leon,Male,22-12-2020,Corvatsch,SUI,Germany,European Cup,Slopestyle,25,44.39
-46,Guetl Leon,Male,26-11-2020,Glacier 3000,SUI,Germany,FIS,Slopestyle,8,78.01
-47,Guetl Leon,Male,16-02-2020,Calgary,CAN,Germany,World Cup,Slopestyle,45,17.00
-48,Guetl Leon,Male,14-02-2020,Calgary,CAN,Germany,Qualification,Slopestyle,23,
-49,Guetl Leon,Male,01-02-2020,Mammoth Mountain Resort,USA,Germany,World Cup,Slopestyle,26,50.00
-50,Guetl Leon,Male,30-01-2020,Mammoth Mountain Resort,USA,Germany,Qualification,Slopestyle,14,
-51,Guetl Leon,Male,23-01-2020,Seiseralm,ITA,Germany,World Cup,Slopestyle,37,19.40
-52,Guetl Leon,Male,22-01-2020,Seiseralm,ITA,Germany,Qualification,Slopestyle,19,
-53,Guetl Leon,Male,15-01-2020,Laax,SUI,Germany,World Cup,Slopestyle,34,22.00
-54,Guetl Leon,Male,13-01-2020,Laax,SUI,Germany,Qualification,Slopestyle,17,
-55,Guetl Leon,Male,14-12-2019,Beijing,CHN,Germany,World Cup,Big Air,34,22.00
-56,Guetl Leon,Male,12-12-2019,Beijing,CHN,Germany,Qualification,Big Air,18,
-57,Guetl Leon,Male,21-11-2019,Landgraaf,NED,Germany,European Cup,Slopestyle,20,17.60
-58,Guetl Leon,Male,20-11-2019,Landgraaf,NED,Germany,FIS,Slopestyle,10,41.60
-59,Guetl Leon,Male,02-11-2019,Modena SKIPASS,ITA,Germany,World Cup,Big Air,22,90.00
-60,Guetl Leon,Male,13-04-2019,Klaeppen,SWE,Germany,FIS Junior World Championships,Big Air,27,10.80
-61,Guetl Leon,Male,12-04-2019,Klaeppen,SWE,Germany,Qualification,Big Air,6,
-62,Guetl Leon,Male,09-04-2019,Klaeppen,SWE,Germany,FIS Junior World Championships,Slopestyle,66,2.57
-63,Guetl Leon,Male,08-04-2019,Klaeppen,SWE,Germany,Qualification,Slopestyle,18,
-64,Guetl Leon,Male,29-03-2019,Livigno,ITA,Germany,European Cup,Slopestyle,22,18.00
-65,Guetl Leon,Male,28-03-2019,Livigno,ITA,Germany,European Cup,Slopestyle,30,6.40
-66,Guetl Leon,Male,22-03-2019,Laax,SUI,Germany,European Cup,Slopestyle,7,57.60
-67,Guetl Leon,Male,19-03-2019,Jasna,SVK,Germany,European Cup,Slopestyle,1,160.00
-68,Guetl Leon,Male,18-03-2019,Jasna,SVK,Germany,European Cup,Slopestyle,2,128.00
-69,Guetl Leon,Male,16-03-2019,Pec pod Snezkou,CZE,Germany,European Cup,Slopestyle,1,160.00
-70,Guetl Leon,Male,27-02-2019,Götschen,GER,Germany,European Cup,Big Air,27,7.20
-71,Guetl Leon,Male,26-02-2019,Götschen,GER,Germany,European Cup,Big Air,4,80.00
-72,Guetl Leon,Male,08-02-2019,Kopaonik,SRB,Germany,European Cup,Big Air,13,
-73,Guetl Leon,Male,07-02-2019,Kopaonik,SRB,Germany,European Cup,Big Air,8,51.20
-74,Guetl Leon,Male,03-02-2019,Sarajevo,BIH,Germany,European Cup,Big Air,4,80.00
-75,Guetl Leon,Male,03-02-2019,Sarajevo,BIH,Germany,European Cup,Big Air,4,80.00
-76,Guetl Leon,Male,26-01-2019,Vars,FRA,Germany,European Cup,Big Air,1,180.00
-77,Guetl Leon,Male,25-01-2019,Vars,FRA,Germany,European Cup,Slopestyle,8,51.20
-78,Guetl Leon,Male,22-01-2019,Font Romeu,FRA,Germany,European Cup,Big Air,11,38.40
-79,Guetl Leon,Male,17-01-2019,Kreischberg,AUT,Germany,European Cup,Big Air,23,14.40
-80,Guetl Leon,Male,16-01-2019,Kreischberg,AUT,Germany,European Cup,Slopestyle,44,2.77
-81,Guetl Leon,Male,22-11-2018,Landgraaf,NED,Germany,European Cup,Slopestyle,64,
-82,Guetl Leon,Male,21-11-2018,Landgraaf,NED,Germany,FIS,Slopestyle,DNS1,
-83,Guetl Leon,Male,08-09-2018,Cardrona,NZL,Germany,World Cup,Big Air,43,
-84,Guetl Leon,Male,06-09-2018,Cardrona,NZL,Germany,Qualification,Big Air,19,
-85,Guetl Leon,Male,31-08-2018,Cardrona,NZL,Germany,FIS Junior World Championships,Slopestyle,28,9.60
-86,Guetl Leon,Male,30-08-2018,Cardrona,NZL,Germany,Qualification,Slopestyle,17,
-87,Guetl Leon,Male,25-08-2018,Cardrona,NZL,Germany,FIS Junior World Championships,Big Air,18,31.20
-88,Guetl Leon,Male,24-08-2018,Cardrona,NZL,Germany,Qualification,Big Air,9,
-89,Guetl Leon,Male,23-03-2018,Kühtai,AUT,Germany,European Cup,Big Air,10,41.60
-90,Guetl Leon,Male,03-03-2018,Götschen,GER,Germany,European Cup,Big Air,24,11.20
-91,Guetl Leon,Male,14-01-2018,Jasna,SVK,Germany,European Cup,Slopestyle,10,41.60
-92,Guetl Leon,Male,13-01-2018,Jasna,SVK,Germany,European Cup,Slopestyle,41,2.91
-93,Guetl Leon,Male,23-11-2017,Landgraaf,NED,Germany,European Cup,Slopestyle,29,5.76
-94,Guetl Leon,Male,22-11-2017,Landgraaf,NED,Germany,FIS,Slopestyle,11,26.40
-95,Guetl Leon,Male,01-04-2017,Spindleruv Mlyn,CZE,Germany,FIS Junior World Championships,Big Air,44,4.15
-96,Guetl Leon,Male,31-03-2017,Spindleruv Mlyn,CZE,Germany,FIS Junior World Championships,Slopestyle,63,4.18
-97,Guetl Leon,Male,30-03-2017,Spindleruv Mlyn,CZE,Germany,Qualification,Slopestyle,14,
-98,Guetl Leon,Male,29-03-2017,Spindleruv Mlyn,CZE,Germany,Qualification,Big Air,10,
-99,Guetl Leon,Male,26-03-2017,Kühtai,AUT,Germany,European Cup,Halfpipe,8,51.20
-100,Guetl Leon,Male,24-03-2017,Kühtai,AUT,Germany,European Cup,Big Air,6,64.00
-101,Guetl Leon,Male,17-02-2017,Goetschen,GER,Germany,European Cup,Big Air,15,25.60
-102,Guetl Leon,Male,10-11-2016,Landgraaf,NED,Germany,European Cup,Slopestyle,41,3.28
-103,Guetl Leon,Male,09-11-2016,Landgraaf,NED,Germany,European Cup,Slopestyle,34,3.96
-104,Guetl Leon,Male,28-02-2016,Kühtai,AUT,Germany,National Championships,Halfpipe,12,15.40
-105,Guetl Leon,Male,26-02-2016,Kühtai,AUT,Germany,National Championships,Big Air,8,16.00
-106,Guetl Leon,Male,05-11-2015,Landgraaf,NED,Germany,European Cup,Slopestyle,34,5.72
-107,Guetl Leon,Male,04-11-2015,Landgraaf,NED,Germany,European Cup,Slopestyle,69,2.55
-108,Guetl Leon,Male,14-03-2015,Kühtai,AUT,Germany,National Championships,Halfpipe,6,20.00
+0,Guetl Leon,Male,18-01-2025,Laax,SUI,Germany,World Cup,Slopestyle,19,182.20
+1,Guetl Leon,Male,16-01-2025,Laax,SUI,Germany,Qualification,Slopestyle,10,
+2,Guetl Leon,Male,07-12-2024,Den Haag,NED,Germany,European Cup,Rail Event,1,120.00
+3,Guetl Leon,Male,01-12-2024,Beijing,CHN,Germany,World Cup,Big Air,26,131.40
+4,Guetl Leon,Male,30-11-2024,Beijing,CHN,Germany,Qualification,Big Air,16,
+5,Guetl Leon,Male,02-09-2024,Cardrona,NZL,Germany,World Cup,Slopestyle,11,264.50
+6,Guetl Leon,Male,31-08-2024,Cardrona,NZL,Germany,Qualification,Slopestyle,6,
+7,Guetl Leon,Male,12-04-2024,Corvatsch,SUI,Germany,European Cup Premium,Slopestyle,13,129.20
+8,Guetl Leon,Male,23-03-2024,Silvaplana,SUI,Germany,World Cup,Slopestyle,59,0.20
+9,Guetl Leon,Male,21-03-2024,Silvaplana,SUI,Germany,Qualification,Slopestyle,30,
+10,Guetl Leon,Male,15-03-2024,Tignes,FRA,Germany,Qualification,Slopestyle,11,
+11,Guetl Leon,Male,15-03-2024,Tignes,FRA,Germany,World Cup,Slopestyle,29,118.80
+12,Guetl Leon,Male,22-02-2024,Prato Nevoso,ITA,Germany,European Cup,Slopestyle,3,222.90
+13,Guetl Leon,Male,20-01-2024,Laax,SUI,Germany,World Cup,Slopestyle,40,82.10
+14,Guetl Leon,Male,16-01-2024,Laax,SUI,Germany,Qualification,Slopestyle,21,
+15,Guetl Leon,Male,15-12-2023,Copper Mountain,USA,Germany,World Cup,Big Air,24,149.80
+16,Guetl Leon,Male,13-12-2023,Copper Mountain,USA,Germany,Qualification,Big Air,12,
+17,Guetl Leon,Male,21-10-2023,Chur,SUI,Germany,Qualification,Big Air,7,
+18,Guetl Leon,Male,21-10-2023,Chur,SUI,Germany,World Cup,Big Air,13,231.90
+19,Guetl Leon,Male,09-04-2022,Corvatsch,SUI,Germany,European Cup Premium,Big Air,3,277.90
+20,Guetl Leon,Male,07-04-2022,Corvatsch,SUI,Germany,European Cup Premium,Slopestyle,8,156.90
+21,Guetl Leon,Male,27-03-2022,Silvaplana,SUI,Germany,World Cup,Slopestyle,12,193.50
+22,Guetl Leon,Male,25-03-2022,Silvaplana,SUI,Germany,Qualification,Slopestyle,7,
+23,Guetl Leon,Male,06-03-2022,Bakuriani,GEO,Germany,World Cup,Slopestyle,3,328.60
+24,Guetl Leon,Male,23-01-2022,Prato Nevoso,ITA,Germany,European Cup,Slopestyle,21,37.50
+25,Guetl Leon,Male,15-01-2022,Laax,SUI,Germany,World Cup,Slopestyle,15,161.10
+26,Guetl Leon,Male,13-01-2022,Laax,SUI,Germany,Qualification,Slopestyle,5,
+27,Guetl Leon,Male,08-01-2022,Mammoth Mountain,USA,Germany,World Cup,Slopestyle,25,127.00
+28,Guetl Leon,Male,01-01-2022,Calgary,CAN,Germany,World Cup,Slopestyle,42,22.50
+29,Guetl Leon,Male,31-12-2021,Calgary,CAN,Germany,Qualification,Slopestyle,23,
+30,Guetl Leon,Male,19-11-2021,Landgraaf,NED,Germany,European Cup,Slopestyle,1,220.00
+31,Guetl Leon,Male,18-11-2021,Landgraaf,NED,Germany,FIS,Slopestyle,6,98.50
+32,Guetl Leon,Male,11-11-2021,Glacier 3000,SUI,Germany,Open,Slopestyle,1,240.00
+33,Guetl Leon,Male,20-04-2021,Corvatsch,SUI,Germany,European Cup Premium,Slopestyle,19,68.06
+34,Guetl Leon,Male,28-03-2021,Silvaplana,SUI,Germany,Qualification,Slopestyle,22,
+35,Guetl Leon,Male,28-03-2021,Silvaplana,SUI,Germany,World Cup,Slopestyle,41,80.65
+36,Guetl Leon,Male,20-03-2021,Aspen,USA,Germany,World Cup,Slopestyle,19,183.38
+37,Guetl Leon,Male,19-03-2021,Aspen,USA,Germany,Qualification,Slopestyle,10,
+38,Guetl Leon,Male,16-03-2021,Aspen,USA,Germany,World Championships,Big Air,12,199.09
+39,Guetl Leon,Male,14-03-2021,Aspen,USA,Germany,Qualification,Big Air,6,
+40,Guetl Leon,Male,12-03-2021,Aspen,USA,Germany,World Championships,Slopestyle,17,188.32
+41,Guetl Leon,Male,10-03-2021,Aspen,USA,Germany,Qualification,Slopestyle,9,
+42,Guetl Leon,Male,05-03-2021,Götschen,GER,Germany,European Cup,Big Air,5,64.85
+43,Guetl Leon,Male,04-03-2021,Flachauwinkel,AUT,Germany,European Cup,Big Air,5,81.23
+44,Guetl Leon,Male,22-02-2021,Götschen,GER,Germany,European Cup,Big Air,3,139.19
+45,Guetl Leon,Male,21-02-2021,Götschen,GER,Germany,European Cup,Slopestyle,1,180.00
+46,Guetl Leon,Male,19-02-2021,Davos,SUI,Germany,European Cup,Big Air,9,113.21
+47,Guetl Leon,Male,31-01-2021,Crans Montana,SUI,Germany,European Cup,Slopestyle,62,15.85
+48,Guetl Leon,Male,22-01-2021,Laax,SUI,Germany,World Cup,Slopestyle,44,31.51
+49,Guetl Leon,Male,19-01-2021,Laax,SUI,Germany,Qualification,Slopestyle,44,
+50,Guetl Leon,Male,22-12-2020,Corvatsch,SUI,Germany,European Cup,Slopestyle,25,44.39
+51,Guetl Leon,Male,26-11-2020,Glacier 3000,SUI,Germany,FIS,Slopestyle,8,78.01
+52,Guetl Leon,Male,16-02-2020,Calgary,CAN,Germany,World Cup,Slopestyle,45,17.00
+53,Guetl Leon,Male,14-02-2020,Calgary,CAN,Germany,Qualification,Slopestyle,23,
+54,Guetl Leon,Male,01-02-2020,Mammoth Mountain Resort,USA,Germany,World Cup,Slopestyle,26,50.00
+55,Guetl Leon,Male,30-01-2020,Mammoth Mountain Resort,USA,Germany,Qualification,Slopestyle,14,
+56,Guetl Leon,Male,23-01-2020,Seiseralm,ITA,Germany,World Cup,Slopestyle,37,19.40
+57,Guetl Leon,Male,22-01-2020,Seiseralm,ITA,Germany,Qualification,Slopestyle,19,
+58,Guetl Leon,Male,15-01-2020,Laax,SUI,Germany,World Cup,Slopestyle,34,22.00
+59,Guetl Leon,Male,13-01-2020,Laax,SUI,Germany,Qualification,Slopestyle,17,
+60,Guetl Leon,Male,14-12-2019,Beijing,CHN,Germany,World Cup,Big Air,34,22.00
+61,Guetl Leon,Male,12-12-2019,Beijing,CHN,Germany,Qualification,Big Air,18,
+62,Guetl Leon,Male,21-11-2019,Landgraaf,NED,Germany,European Cup,Slopestyle,20,17.60
+63,Guetl Leon,Male,20-11-2019,Landgraaf,NED,Germany,FIS,Slopestyle,10,41.60
+64,Guetl Leon,Male,02-11-2019,Modena SKIPASS,ITA,Germany,World Cup,Big Air,22,90.00
+65,Guetl Leon,Male,13-04-2019,Klaeppen,SWE,Germany,FIS Junior World Championships,Big Air,27,10.80
+66,Guetl Leon,Male,12-04-2019,Klaeppen,SWE,Germany,Qualification,Big Air,6,
+67,Guetl Leon,Male,09-04-2019,Klaeppen,SWE,Germany,FIS Junior World Championships,Slopestyle,66,2.57
+68,Guetl Leon,Male,08-04-2019,Klaeppen,SWE,Germany,Qualification,Slopestyle,18,
+69,Guetl Leon,Male,29-03-2019,Livigno,ITA,Germany,European Cup,Slopestyle,22,18.00
+70,Guetl Leon,Male,28-03-2019,Livigno,ITA,Germany,European Cup,Slopestyle,30,6.40
+71,Guetl Leon,Male,22-03-2019,Laax,SUI,Germany,European Cup,Slopestyle,7,57.60
+72,Guetl Leon,Male,19-03-2019,Jasna,SVK,Germany,European Cup,Slopestyle,1,160.00
+73,Guetl Leon,Male,18-03-2019,Jasna,SVK,Germany,European Cup,Slopestyle,2,128.00
+74,Guetl Leon,Male,16-03-2019,Pec pod Snezkou,CZE,Germany,European Cup,Slopestyle,1,160.00
+75,Guetl Leon,Male,27-02-2019,Götschen,GER,Germany,European Cup,Big Air,27,7.20
+76,Guetl Leon,Male,26-02-2019,Götschen,GER,Germany,European Cup,Big Air,4,80.00
+77,Guetl Leon,Male,08-02-2019,Kopaonik,SRB,Germany,European Cup,Big Air,13,
+78,Guetl Leon,Male,07-02-2019,Kopaonik,SRB,Germany,European Cup,Big Air,8,51.20
+79,Guetl Leon,Male,03-02-2019,Sarajevo,BIH,Germany,European Cup,Big Air,4,80.00
+80,Guetl Leon,Male,03-02-2019,Sarajevo,BIH,Germany,European Cup,Big Air,4,80.00
+81,Guetl Leon,Male,26-01-2019,Vars,FRA,Germany,European Cup,Big Air,1,180.00
+82,Guetl Leon,Male,25-01-2019,Vars,FRA,Germany,European Cup,Slopestyle,8,51.20
+83,Guetl Leon,Male,22-01-2019,Font Romeu,FRA,Germany,European Cup,Big Air,11,38.40
+84,Guetl Leon,Male,17-01-2019,Kreischberg,AUT,Germany,European Cup,Big Air,23,14.40
+85,Guetl Leon,Male,16-01-2019,Kreischberg,AUT,Germany,European Cup,Slopestyle,44,2.77
+86,Guetl Leon,Male,22-11-2018,Landgraaf,NED,Germany,European Cup,Slopestyle,64,
+87,Guetl Leon,Male,21-11-2018,Landgraaf,NED,Germany,FIS,Slopestyle,DNS1,
+88,Guetl Leon,Male,08-09-2018,Cardrona,NZL,Germany,World Cup,Big Air,43,
+89,Guetl Leon,Male,06-09-2018,Cardrona,NZL,Germany,Qualification,Big Air,19,
+90,Guetl Leon,Male,31-08-2018,Cardrona,NZL,Germany,FIS Junior World Championships,Slopestyle,28,9.60
+91,Guetl Leon,Male,30-08-2018,Cardrona,NZL,Germany,Qualification,Slopestyle,17,
+92,Guetl Leon,Male,25-08-2018,Cardrona,NZL,Germany,FIS Junior World Championships,Big Air,18,31.20
+93,Guetl Leon,Male,24-08-2018,Cardrona,NZL,Germany,Qualification,Big Air,9,
+94,Guetl Leon,Male,23-03-2018,Kühtai,AUT,Germany,European Cup,Big Air,10,41.60
+95,Guetl Leon,Male,03-03-2018,Götschen,GER,Germany,European Cup,Big Air,24,11.20
+96,Guetl Leon,Male,14-01-2018,Jasna,SVK,Germany,European Cup,Slopestyle,10,41.60
+97,Guetl Leon,Male,13-01-2018,Jasna,SVK,Germany,European Cup,Slopestyle,41,2.91
+98,Guetl Leon,Male,23-11-2017,Landgraaf,NED,Germany,European Cup,Slopestyle,29,5.76
+99,Guetl Leon,Male,22-11-2017,Landgraaf,NED,Germany,FIS,Slopestyle,11,26.40
+100,Guetl Leon,Male,01-04-2017,Spindleruv Mlyn,CZE,Germany,FIS Junior World Championships,Big Air,44,4.15
+101,Guetl Leon,Male,31-03-2017,Spindleruv Mlyn,CZE,Germany,FIS Junior World Championships,Slopestyle,63,4.18
+102,Guetl Leon,Male,30-03-2017,Spindleruv Mlyn,CZE,Germany,Qualification,Slopestyle,14,
+103,Guetl Leon,Male,29-03-2017,Spindleruv Mlyn,CZE,Germany,Qualification,Big Air,10,
+104,Guetl Leon,Male,26-03-2017,Kühtai,AUT,Germany,European Cup,Halfpipe,8,51.20
+105,Guetl Leon,Male,24-03-2017,Kühtai,AUT,Germany,European Cup,Big Air,6,64.00
+106,Guetl Leon,Male,17-02-2017,Goetschen,GER,Germany,European Cup,Big Air,15,25.60
+107,Guetl Leon,Male,10-11-2016,Landgraaf,NED,Germany,European Cup,Slopestyle,41,3.28
+108,Guetl Leon,Male,09-11-2016,Landgraaf,NED,Germany,European Cup,Slopestyle,34,3.96
+109,Guetl Leon,Male,28-02-2016,Kühtai,AUT,Germany,National Championships,Halfpipe,12,15.40
+110,Guetl Leon,Male,26-02-2016,Kühtai,AUT,Germany,National Championships,Big Air,8,16.00
+111,Guetl Leon,Male,05-11-2015,Landgraaf,NED,Germany,European Cup,Slopestyle,34,5.72
+112,Guetl Leon,Male,04-11-2015,Landgraaf,NED,Germany,European Cup,Slopestyle,69,2.55
+113,Guetl Leon,Male,14-03-2015,Kühtai,AUT,Germany,National Championships,Halfpipe,6,20.00

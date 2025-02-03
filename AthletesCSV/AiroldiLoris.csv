@@ -1,24 +1,30 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Airoldi Loris,Male,30-03-2024,Colere,ITA,Italy,National Championships,Snowboard Cross,24,20.30
-1,Airoldi Loris,Male,09-03-2024,Colere,ITA,Italy,FIS,Snowboard Cross,7,18.00
-2,Airoldi Loris,Male,02-03-2024,Reiteralm,AUT,Italy,Junior,Snowboard Cross,DNS,
-3,Airoldi Loris,Male,01-03-2024,Reiteralm,AUT,Italy,Junior,Snowboard Cross,DNF,
-4,Airoldi Loris,Male,04-02-2024,Colere,ITA,Italy,Junior,Snowboard Cross,25,3.00
-5,Airoldi Loris,Male,03-02-2024,Colere,ITA,Italy,Junior,Snowboard Cross,11,12.00
-6,Airoldi Loris,Male,28-01-2024,Grasgehren,GER,Italy,Junior,Snowboard Cross,DSQ,
-7,Airoldi Loris,Male,27-01-2024,Grasgehren,GER,Italy,Junior,Snowboard Cross,21,5.00
-8,Airoldi Loris,Male,09-12-2023,Pitztal,AUT,Italy,Junior,Snowboard Cross,57,1.34
-9,Airoldi Loris,Male,03-04-2023,Moena - Passo San Pellegrino,ITA,Italy,National Junior Championships,Snowboard Cross,24,9.10
-10,Airoldi Loris,Male,02-04-2023,Moena - Passo San Pellegrino,ITA,Italy,National Championships,Snowboard Cross,43,5.10
-11,Airoldi Loris,Male,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,35,
-12,Airoldi Loris,Male,19-03-2023,Passo San Pellegrino,ITA,Italy,FIS,Snowboard Cross,51,2.74
-13,Airoldi Loris,Male,18-03-2023,Passo San Pellegrino,ITA,Italy,FIS,Snowboard Cross,60,2.25
-14,Airoldi Loris,Male,12-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,20,
-15,Airoldi Loris,Male,11-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,23,
-16,Airoldi Loris,Male,05-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,DNS,
-17,Airoldi Loris,Male,04-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,DNS,
-18,Airoldi Loris,Male,12-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,47,
-19,Airoldi Loris,Male,11-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,50,
-20,Airoldi Loris,Male,08-02-2023,Cervinia,ITA,Italy,Junior,Snowboard Cross,33,3.12
-21,Airoldi Loris,Male,07-02-2023,Cervinia,ITA,Italy,Junior,Snowboard Cross,25,7.80
-22,Airoldi Loris,Male,14-01-2023,Lenk,SUI,Italy,FIS,Snowboard Cross,49,
+0,Airoldi Loris,Male,25-01-2025,Passo San Pellegrino,ITA,Italy,FIS,Snowboard Cross,35,1.00
+1,Airoldi Loris,Male,24-01-2025,Passo San Pellegrino,ITA,Italy,FIS,Snowboard Cross,42,0.90
+2,Airoldi Loris,Male,12-01-2025,Lenk,SUI,Italy,Junior Regional Cup,Snowboard Cross,53,1.75
+3,Airoldi Loris,Male,01-12-2024,Pitztal,AUT,Italy,Junior,Snowboard Cross,55,1.68
+4,Airoldi Loris,Male,30-11-2024,Pitztal,AUT,Italy,Qualification,Snowboard Cross,60,
+5,Airoldi Loris,Male,30-11-2024,Pitztal,AUT,Italy,Junior,Snowboard Cross,60,1.50
+6,Airoldi Loris,Male,30-03-2024,Colere,ITA,Italy,National Championships,Snowboard Cross,24,20.30
+7,Airoldi Loris,Male,09-03-2024,Colere,ITA,Italy,FIS,Snowboard Cross,7,18.00
+8,Airoldi Loris,Male,02-03-2024,Reiteralm,AUT,Italy,Junior,Snowboard Cross,DNS,
+9,Airoldi Loris,Male,01-03-2024,Reiteralm,AUT,Italy,Junior,Snowboard Cross,DNF,
+10,Airoldi Loris,Male,04-02-2024,Colere,ITA,Italy,Junior,Snowboard Cross,25,3.00
+11,Airoldi Loris,Male,03-02-2024,Colere,ITA,Italy,Junior,Snowboard Cross,11,12.00
+12,Airoldi Loris,Male,28-01-2024,Grasgehren,GER,Italy,Junior,Snowboard Cross,DSQ,
+13,Airoldi Loris,Male,27-01-2024,Grasgehren,GER,Italy,Junior,Snowboard Cross,21,5.00
+14,Airoldi Loris,Male,09-12-2023,Pitztal,AUT,Italy,Junior,Snowboard Cross,57,1.34
+15,Airoldi Loris,Male,03-04-2023,Moena - Passo San Pellegrino,ITA,Italy,National Junior Championships,Snowboard Cross,24,9.10
+16,Airoldi Loris,Male,02-04-2023,Moena - Passo San Pellegrino,ITA,Italy,National Championships,Snowboard Cross,43,5.10
+17,Airoldi Loris,Male,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,35,
+18,Airoldi Loris,Male,19-03-2023,Passo San Pellegrino,ITA,Italy,FIS,Snowboard Cross,51,2.74
+19,Airoldi Loris,Male,18-03-2023,Passo San Pellegrino,ITA,Italy,FIS,Snowboard Cross,60,2.25
+20,Airoldi Loris,Male,12-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,20,
+21,Airoldi Loris,Male,11-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,23,
+22,Airoldi Loris,Male,05-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,DNS,
+23,Airoldi Loris,Male,04-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,DNS,
+24,Airoldi Loris,Male,12-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,47,
+25,Airoldi Loris,Male,11-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,50,
+26,Airoldi Loris,Male,08-02-2023,Cervinia,ITA,Italy,Junior,Snowboard Cross,33,3.12
+27,Airoldi Loris,Male,07-02-2023,Cervinia,ITA,Italy,Junior,Snowboard Cross,25,7.80
+28,Airoldi Loris,Male,14-01-2023,Lenk,SUI,Italy,FIS,Snowboard Cross,49,

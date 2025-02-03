@@ -1,49 +1,55 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Robertson-hahn Joshua,Male,30-09-2024,Cardrona,NZL,Australia,Australian New Zealand Cup,Big Air,7,127.70
-1,Robertson-hahn Joshua,Male,17-08-2024,The Remarkables,NZL,Australia,Australian New Zealand Cup,Slopestyle,18,25.60
-2,Robertson-hahn Joshua,Male,14-04-2024,Corvatsch,SUI,Australia,European Cup Premium,Big Air,27,86.00
-3,Robertson-hahn Joshua,Male,12-04-2024,Corvatsch,SUI,Australia,European Cup Premium,Slopestyle,56,58.30
-4,Robertson-hahn Joshua,Male,23-03-2024,Silvaplana,SUI,Australia,World Cup,Slopestyle,36,99.40
-5,Robertson-hahn Joshua,Male,21-03-2024,Silvaplana,SUI,Australia,Qualification,Slopestyle,21,
-6,Robertson-hahn Joshua,Male,12-03-2024,Laax,SUI,Australia,European Cup Premium,Slopestyle,11,57.00
-7,Robertson-hahn Joshua,Male,26-01-2024,Copper Mountain,USA,Australia,Nor-Am Cup,Slopestyle,32,7.80
-8,Robertson-hahn Joshua,Male,15-12-2023,Copper Mountain,USA,Australia,World Cup,Big Air,33,107.50
-9,Robertson-hahn Joshua,Male,13-12-2023,Copper Mountain,USA,Australia,Qualification,Big Air,18,
-10,Robertson-hahn Joshua,Male,09-12-2023,Edmonton,CAN,Australia,World Cup,Big Air,41,57.90
-11,Robertson-hahn Joshua,Male,08-12-2023,Edmonton,CAN,Australia,Qualification,Big Air,19,
-12,Robertson-hahn Joshua,Male,02-12-2023,Beijing,CHN,Australia,World Cup,Big Air,22,129.10
-13,Robertson-hahn Joshua,Male,01-12-2023,Beijing,CHN,Australia,Qualification,Big Air,12,
-14,Robertson-hahn Joshua,Male,21-10-2023,Chur,SUI,Australia,World Cup,Big Air,24,146.00
-15,Robertson-hahn Joshua,Male,21-10-2023,Chur,SUI,Australia,Qualification,Big Air,14,
-16,Robertson-hahn Joshua,Male,04-09-2023,Cardrona,NZL,Australia,FIS Junior World Championships,Big Air,9,113.50
-17,Robertson-hahn Joshua,Male,02-09-2023,Cardrona,NZL,Australia,Qualification,Big Air,4,
-18,Robertson-hahn Joshua,Male,30-08-2023,Cardrona,NZL,Australia,FIS Junior World Championships,Slopestyle,27,52.10
-19,Robertson-hahn Joshua,Male,28-08-2023,Cardrona,NZL,Australia,Qualification,Slopestyle,15,
-20,Robertson-hahn Joshua,Male,22-04-2023,Kitzsteinhorn,AUT,Australia,European Cup,Big Air,23,42.20
-21,Robertson-hahn Joshua,Male,21-04-2023,Kitzsteinhorn,AUT,Australia,European Cup,Slopestyle,23,38.00
-22,Robertson-hahn Joshua,Male,17-04-2023,Corvatsch,SUI,Australia,European Cup Premium,Big Air,6,177.70
-23,Robertson-hahn Joshua,Male,14-04-2023,Corvatsch,SUI,Australia,European Cup Premium,Slopestyle,29,69.70
-24,Robertson-hahn Joshua,Male,17-03-2023,Laax,SUI,Australia,European Cup Premium,Slopestyle,60,42.80
-25,Robertson-hahn Joshua,Male,10-02-2023,"Aspen Snowmass, CO",USA,Australia,Nor-Am Cup,Slopestyle,19,32.20
-26,Robertson-hahn Joshua,Male,26-01-2023,Copper Mountain Resort,USA,Australia,Nor-Am Cup,Slopestyle,21,37.50
-27,Robertson-hahn Joshua,Male,02-08-2022,Perisher,AUS,Australia,Australian New Zealand Cup,Slopestyle,6,48.40
-28,Robertson-hahn Joshua,Male,02-08-2022,Perisher,AUS,Australia,Australian New Zealand Cup,Big Air,3,77.20
-29,Robertson-hahn Joshua,Male,01-08-2022,Perisher,AUS,Australia,Australian New Zealand Cup,Slopestyle,5,68.90
-30,Robertson-hahn Joshua,Male,07-04-2022,Corvatsch,SUI,Australia,European Cup Premium,Slopestyle,32,49.30
-31,Robertson-hahn Joshua,Male,13-03-2022,Leysin,SUI,Australia,FIS Junior World Championships,Slopestyle,35,31.60
-32,Robertson-hahn Joshua,Male,26-02-2022,Götschen,GER,Australia,European Cup,Big Air,33,23.00
-33,Robertson-hahn Joshua,Male,25-02-2022,Götschen,GER,Australia,European Cup,Slopestyle,35,29.20
-34,Robertson-hahn Joshua,Male,18-02-2022,Davos,SUI,Australia,European Cup Premium,Big Air,30,27.50
-35,Robertson-hahn Joshua,Male,05-08-2021,Perisher Valley,AUS,Australia,FIS,Big Air,9,16.10
-36,Robertson-hahn Joshua,Male,04-08-2021,Perisher Valley,AUS,Australia,FIS,Slopestyle,7,24.10
-37,Robertson-hahn Joshua,Male,03-08-2021,Perisher Valley,AUS,Australia,FIS,Slopestyle,6,28.70
-38,Robertson-hahn Joshua,Male,07-08-2019,Perisher,AUS,Australia,Australian New Zealand Cup,Big Air,DNS,
-39,Robertson-hahn Joshua,Male,07-08-2019,Perisher,AUS,Australia,Australian New Zealand Cup,Big Air,DNS,
-40,Robertson-hahn Joshua,Male,13-04-2019,Klaeppen,SWE,Australia,FIS Junior World Championships,Big Air,55,3.36
-41,Robertson-hahn Joshua,Male,12-04-2019,Klaeppen,SWE,Australia,Qualification,Big Air,14,
-42,Robertson-hahn Joshua,Male,09-04-2019,Klaeppen,SWE,Australia,FIS Junior World Championships,Slopestyle,63,2.78
-43,Robertson-hahn Joshua,Male,08-04-2019,Klaeppen,SWE,Australia,Qualification,Slopestyle,16,
-44,Robertson-hahn Joshua,Male,04-10-2018,Cardrona,NZL,Australia,National Junior Championships,Slopestyle,5,22.50
-45,Robertson-hahn Joshua,Male,03-10-2018,Cardrona,NZL,Australia,National Junior Championships,Halfpipe,4,25.00
-46,Robertson-hahn Joshua,Male,02-09-2018,Perisher,AUS,Australia,Junior,Slopestyle,2,40.00
-47,Robertson-hahn Joshua,Male,22-07-2018,Perisher,AUS,Australia,FIS,Slopestyle,8,16.00
+0,Robertson-hahn Joshua,Male,15-01-2025,Seiser Alm,ITA,Australia,European Cup,Slopestyle,3,104.20
+1,Robertson-hahn Joshua,Male,11-01-2025,Kreischberg,AUT,Australia,World Cup,Big Air,15,207.90
+2,Robertson-hahn Joshua,Male,11-01-2025,Kreischberg,AUT,Australia,Qualification,Big Air,8,
+3,Robertson-hahn Joshua,Male,05-01-2025,Font Romeu,FRA,Australia,European Cup Premium,Slopestyle,37,16.90
+4,Robertson-hahn Joshua,Male,01-12-2024,Beijing,CHN,Australia,World Cup,Big Air,17,186.90
+5,Robertson-hahn Joshua,Male,30-11-2024,Beijing,CHN,Australia,Qualification,Big Air,10,
+6,Robertson-hahn Joshua,Male,30-09-2024,Cardrona,NZL,Australia,Australian New Zealand Cup,Big Air,7,127.70
+7,Robertson-hahn Joshua,Male,17-08-2024,The Remarkables,NZL,Australia,Australian New Zealand Cup,Slopestyle,18,25.60
+8,Robertson-hahn Joshua,Male,14-04-2024,Corvatsch,SUI,Australia,European Cup Premium,Big Air,27,86.00
+9,Robertson-hahn Joshua,Male,12-04-2024,Corvatsch,SUI,Australia,European Cup Premium,Slopestyle,56,58.30
+10,Robertson-hahn Joshua,Male,23-03-2024,Silvaplana,SUI,Australia,World Cup,Slopestyle,36,99.40
+11,Robertson-hahn Joshua,Male,21-03-2024,Silvaplana,SUI,Australia,Qualification,Slopestyle,21,
+12,Robertson-hahn Joshua,Male,12-03-2024,Laax,SUI,Australia,European Cup Premium,Slopestyle,11,57.00
+13,Robertson-hahn Joshua,Male,26-01-2024,Copper Mountain,USA,Australia,Nor-Am Cup,Slopestyle,32,7.80
+14,Robertson-hahn Joshua,Male,15-12-2023,Copper Mountain,USA,Australia,World Cup,Big Air,33,107.50
+15,Robertson-hahn Joshua,Male,13-12-2023,Copper Mountain,USA,Australia,Qualification,Big Air,18,
+16,Robertson-hahn Joshua,Male,09-12-2023,Edmonton,CAN,Australia,World Cup,Big Air,41,57.90
+17,Robertson-hahn Joshua,Male,08-12-2023,Edmonton,CAN,Australia,Qualification,Big Air,19,
+18,Robertson-hahn Joshua,Male,02-12-2023,Beijing,CHN,Australia,World Cup,Big Air,22,129.10
+19,Robertson-hahn Joshua,Male,01-12-2023,Beijing,CHN,Australia,Qualification,Big Air,12,
+20,Robertson-hahn Joshua,Male,21-10-2023,Chur,SUI,Australia,World Cup,Big Air,24,146.00
+21,Robertson-hahn Joshua,Male,21-10-2023,Chur,SUI,Australia,Qualification,Big Air,14,
+22,Robertson-hahn Joshua,Male,04-09-2023,Cardrona,NZL,Australia,FIS Junior World Championships,Big Air,9,113.50
+23,Robertson-hahn Joshua,Male,02-09-2023,Cardrona,NZL,Australia,Qualification,Big Air,4,
+24,Robertson-hahn Joshua,Male,30-08-2023,Cardrona,NZL,Australia,FIS Junior World Championships,Slopestyle,27,52.10
+25,Robertson-hahn Joshua,Male,28-08-2023,Cardrona,NZL,Australia,Qualification,Slopestyle,15,
+26,Robertson-hahn Joshua,Male,22-04-2023,Kitzsteinhorn,AUT,Australia,European Cup,Big Air,23,42.20
+27,Robertson-hahn Joshua,Male,21-04-2023,Kitzsteinhorn,AUT,Australia,European Cup,Slopestyle,23,38.00
+28,Robertson-hahn Joshua,Male,17-04-2023,Corvatsch,SUI,Australia,European Cup Premium,Big Air,6,177.70
+29,Robertson-hahn Joshua,Male,14-04-2023,Corvatsch,SUI,Australia,European Cup Premium,Slopestyle,29,69.70
+30,Robertson-hahn Joshua,Male,17-03-2023,Laax,SUI,Australia,European Cup Premium,Slopestyle,60,42.80
+31,Robertson-hahn Joshua,Male,10-02-2023,"Aspen Snowmass, CO",USA,Australia,Nor-Am Cup,Slopestyle,19,32.20
+32,Robertson-hahn Joshua,Male,26-01-2023,Copper Mountain Resort,USA,Australia,Nor-Am Cup,Slopestyle,21,37.50
+33,Robertson-hahn Joshua,Male,02-08-2022,Perisher,AUS,Australia,Australian New Zealand Cup,Slopestyle,6,48.40
+34,Robertson-hahn Joshua,Male,02-08-2022,Perisher,AUS,Australia,Australian New Zealand Cup,Big Air,3,77.20
+35,Robertson-hahn Joshua,Male,01-08-2022,Perisher,AUS,Australia,Australian New Zealand Cup,Slopestyle,5,68.90
+36,Robertson-hahn Joshua,Male,07-04-2022,Corvatsch,SUI,Australia,European Cup Premium,Slopestyle,32,49.30
+37,Robertson-hahn Joshua,Male,13-03-2022,Leysin,SUI,Australia,FIS Junior World Championships,Slopestyle,35,31.60
+38,Robertson-hahn Joshua,Male,26-02-2022,Götschen,GER,Australia,European Cup,Big Air,33,23.00
+39,Robertson-hahn Joshua,Male,25-02-2022,Götschen,GER,Australia,European Cup,Slopestyle,35,29.20
+40,Robertson-hahn Joshua,Male,18-02-2022,Davos,SUI,Australia,European Cup Premium,Big Air,30,27.50
+41,Robertson-hahn Joshua,Male,05-08-2021,Perisher Valley,AUS,Australia,FIS,Big Air,9,16.10
+42,Robertson-hahn Joshua,Male,04-08-2021,Perisher Valley,AUS,Australia,FIS,Slopestyle,7,24.10
+43,Robertson-hahn Joshua,Male,03-08-2021,Perisher Valley,AUS,Australia,FIS,Slopestyle,6,28.70
+44,Robertson-hahn Joshua,Male,07-08-2019,Perisher,AUS,Australia,Australian New Zealand Cup,Big Air,DNS,
+45,Robertson-hahn Joshua,Male,07-08-2019,Perisher,AUS,Australia,Australian New Zealand Cup,Big Air,DNS,
+46,Robertson-hahn Joshua,Male,13-04-2019,Klaeppen,SWE,Australia,FIS Junior World Championships,Big Air,55,3.36
+47,Robertson-hahn Joshua,Male,12-04-2019,Klaeppen,SWE,Australia,Qualification,Big Air,14,
+48,Robertson-hahn Joshua,Male,09-04-2019,Klaeppen,SWE,Australia,FIS Junior World Championships,Slopestyle,63,2.78
+49,Robertson-hahn Joshua,Male,08-04-2019,Klaeppen,SWE,Australia,Qualification,Slopestyle,16,
+50,Robertson-hahn Joshua,Male,04-10-2018,Cardrona,NZL,Australia,National Junior Championships,Slopestyle,5,22.50
+51,Robertson-hahn Joshua,Male,03-10-2018,Cardrona,NZL,Australia,National Junior Championships,Halfpipe,4,25.00
+52,Robertson-hahn Joshua,Male,02-09-2018,Perisher,AUS,Australia,Junior,Slopestyle,2,40.00
+53,Robertson-hahn Joshua,Male,22-07-2018,Perisher,AUS,Australia,FIS,Slopestyle,8,16.00

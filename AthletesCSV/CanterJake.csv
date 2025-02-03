@@ -1,84 +1,90 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Canter Jake,Male,02-09-2024,Cardrona,NZL,United States Of America,World Cup,Slopestyle,37,80.50
-1,Canter Jake,Male,31-08-2024,Cardrona,NZL,United States Of America,Qualification,Slopestyle,15,
-2,Canter Jake,Male,12-04-2024,Corvatsch,SUI,United States Of America,European Cup Premium,Slopestyle,4,298.50
-3,Canter Jake,Male,23-03-2024,Silvaplana,SUI,United States Of America,World Cup,Slopestyle,14,223.10
-4,Canter Jake,Male,21-03-2024,Silvaplana,SUI,United States Of America,Qualification,Slopestyle,4,
-5,Canter Jake,Male,15-03-2024,Tignes,FRA,United States Of America,World Cup,Slopestyle,10,286.70
-6,Canter Jake,Male,15-03-2024,Tignes,FRA,United States Of America,Qualification,Slopestyle,7,
-7,Canter Jake,Male,20-01-2024,Laax,SUI,United States Of America,World Cup,Slopestyle,30,125.70
-8,Canter Jake,Male,16-01-2024,Laax,SUI,United States Of America,Qualification,Slopestyle,18,
-9,Canter Jake,Male,15-12-2023,Copper Mountain,USA,United States Of America,World Cup,Big Air,30,121.20
-10,Canter Jake,Male,13-12-2023,Copper Mountain,USA,United States Of America,Qualification,Big Air,16,
-11,Canter Jake,Male,09-12-2023,Edmonton,CAN,United States Of America,World Cup,Big Air,19,171.90
-12,Canter Jake,Male,08-12-2023,Edmonton,CAN,United States Of America,Qualification,Big Air,10,
-13,Canter Jake,Male,21-10-2023,Chur,SUI,United States Of America,World Cup,Big Air,20,168.60
-14,Canter Jake,Male,21-10-2023,Chur,SUI,United States Of America,Qualification,Big Air,11,
-15,Canter Jake,Male,26-03-2023,Silvaplana,SUI,United States Of America,World Cup,Slopestyle,6,352.00
-16,Canter Jake,Male,25-03-2023,Silvaplana,SUI,United States Of America,Qualification,Slopestyle,7,
-17,Canter Jake,Male,27-02-2023,Bakuriani,GEO,United States Of America,World Championships,Slopestyle,11,209.30
-18,Canter Jake,Male,24-02-2023,Bakuriani,GEO,United States Of America,Qualification,Slopestyle,4,
-19,Canter Jake,Male,12-02-2023,Calgary,CAN,United States Of America,World Cup,Slopestyle,5,400.30
-20,Canter Jake,Male,10-02-2023,Calgary,CAN,United States Of America,Qualification,Slopestyle,6,
-21,Canter Jake,Male,04-02-2023,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,11,207.70
-22,Canter Jake,Male,01-02-2023,Mammoth Mountain,USA,United States Of America,Qualification,Slopestyle,7,
-23,Canter Jake,Male,26-01-2023,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,DNS,
-24,Canter Jake,Male,17-12-2022,Copper Mountain,USA,United States Of America,World Cup,Big Air,25,112.70
-25,Canter Jake,Male,15-12-2022,Copper Mountain,USA,United States Of America,Qualification,Big Air,11,
-26,Canter Jake,Male,10-12-2022,Edmonton,CAN,United States Of America,World Cup,Big Air,13,184.70
-27,Canter Jake,Male,09-12-2022,Edmonton,CAN,United States Of America,Qualification,Big Air,7,
-28,Canter Jake,Male,15-01-2022,Laax,SUI,United States Of America,World Cup,Slopestyle,3,555.80
-29,Canter Jake,Male,13-01-2022,Laax,SUI,United States Of America,Qualification,Slopestyle,10,
-30,Canter Jake,Male,08-01-2022,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,31,94.30
-31,Canter Jake,Male,01-01-2022,Calgary,CAN,United States Of America,World Cup,Slopestyle,28,101.10
-32,Canter Jake,Male,31-12-2021,Calgary,CAN,United States Of America,Qualification,Slopestyle,12,
-33,Canter Jake,Male,04-12-2021,Steamboat,USA,United States Of America,World Cup,Big Air,20,177.40
-34,Canter Jake,Male,02-12-2021,Steamboat,USA,United States Of America,Qualification,Big Air,11,
-35,Canter Jake,Male,01-05-2021,Hintertux,AUT,United States Of America,Junior,Slopestyle,4,128.22
-36,Canter Jake,Male,20-03-2021,Aspen,USA,United States Of America,World Cup,Slopestyle,24,156.61
-37,Canter Jake,Male,19-03-2021,Aspen,USA,United States Of America,Qualification,Slopestyle,12,
-38,Canter Jake,Male,04-03-2021,Copper Mountain,USA,United States Of America,National Championships,Slopestyle,DNS,
-39,Canter Jake,Male,24-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Slopestyle,5,252.75
-40,Canter Jake,Male,22-01-2021,Laax,SUI,United States Of America,World Cup,Slopestyle,6,352.31
-41,Canter Jake,Male,19-01-2021,Laax,SUI,United States Of America,Qualification,Slopestyle,10,
-42,Canter Jake,Male,05-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Big Air,6,64.00
-43,Canter Jake,Male,03-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Slopestyle,13,72.00
-44,Canter Jake,Male,02-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Slopestyle,5,162.00
-45,Canter Jake,Male,16-02-2020,Calgary,CAN,United States Of America,World Cup,Slopestyle,17,140.00
-46,Canter Jake,Male,14-02-2020,Calgary,CAN,United States Of America,Qualification,Slopestyle,9,
-47,Canter Jake,Male,09-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Big Air,3,120.00
-48,Canter Jake,Male,07-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,25,14.40
-49,Canter Jake,Male,01-02-2020,Mammoth Mountain Resort,USA,United States Of America,World Cup,Slopestyle,25,60.00
-50,Canter Jake,Male,30-01-2020,Mammoth Mountain Resort,USA,United States Of America,Qualification,Slopestyle,12,
-51,Canter Jake,Male,02-11-2019,Modena SKIPASS,ITA,United States Of America,World Cup,Big Air,14,180.00
-52,Canter Jake,Male,13-04-2019,Klaeppen,SWE,United States Of America,FIS Junior World Championships,Big Air,10,62.40
-53,Canter Jake,Male,12-04-2019,Klaeppen,SWE,United States Of America,Qualification,Big Air,2,
-54,Canter Jake,Male,09-04-2019,Klaeppen,SWE,United States Of America,FIS Junior World Championships,Slopestyle,8,76.80
-55,Canter Jake,Male,08-04-2019,Klaeppen,SWE,United States Of America,Qualification,Slopestyle,1,
-56,Canter Jake,Male,13-03-2019,"Mammoth Mountain, CA",USA,United States Of America,Nor-Am Cup,Slopestyle,6,72.00
-57,Canter Jake,Male,07-02-2019,Mount St-Louis Moonstone,CAN,United States Of America,Nor-Am Cup,Slopestyle,26,8.00
-58,Canter Jake,Male,24-01-2019,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Big Air,37,3.10
-59,Canter Jake,Male,23-01-2019,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,2,128.00
-60,Canter Jake,Male,15-01-2019,Waterville Valley Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,2,128.00
-61,Canter Jake,Male,14-01-2019,Waterville Valley Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,1,160.00
-62,Canter Jake,Male,11-12-2018,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,DNS,
-63,Canter Jake,Male,08-12-2018,Copper Mountain Resort,USA,United States Of America,World Cup,Halfpipe,23,80.00
-64,Canter Jake,Male,06-12-2018,Copper Mountain Resort,USA,United States Of America,Qualification,Halfpipe,13,
-65,Canter Jake,Male,04-09-2018,Cardrona,NZL,United States Of America,FIS Junior World Championships,Halfpipe,8,76.80
-66,Canter Jake,Male,01-09-2018,Cardrona,NZL,United States Of America,Qualification,Halfpipe,9,
-67,Canter Jake,Male,31-08-2018,Cardrona,NZL,United States Of America,FIS Junior World Championships,Slopestyle,5,108.00
-68,Canter Jake,Male,30-08-2018,Cardrona,NZL,United States Of America,Qualification,Slopestyle,6,
-69,Canter Jake,Male,25-08-2018,Cardrona,NZL,United States Of America,FIS Junior World Championships,Big Air,16,36.00
-70,Canter Jake,Male,24-08-2018,Cardrona,NZL,United States Of America,Qualification,Big Air,8,
-71,Canter Jake,Male,15-03-2018,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,12,35.20
-72,Canter Jake,Male,28-02-2018,Park City,USA,United States Of America,Nor-Am Cup,Slopestyle,29,7.92
-73,Canter Jake,Male,27-02-2018,Park City,USA,United States Of America,Nor-Am Cup,Halfpipe,12,35.20
-74,Canter Jake,Male,13-02-2018,Waterville Valley Resort,USA,United States Of America,FIS,Slopestyle,21,13.00
-75,Canter Jake,Male,12-02-2018,Waterville Valley Resort,USA,United States Of America,FIS,Slopestyle,24,8.40
-76,Canter Jake,Male,24-01-2018,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,18,20.80
-77,Canter Jake,Male,23-01-2018,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,32,4.16
-78,Canter Jake,Male,13-12-2017,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,17,36.40
-79,Canter Jake,Male,12-12-2017,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,25,15.60
-80,Canter Jake,Male,13-01-2017,Waterville Valley Resort,USA,United States Of America,FIS,Slopestyle,54,
-81,Canter Jake,Male,12-01-2017,Waterville Valley Resort,USA,United States Of America,FIS,Slopestyle,23,14.40
-82,Canter Jake,Male,08-12-2016,Copper Mountain Resort,USA,United States Of America,FIS,Halfpipe,32,5.72
+0,Canter Jake,Male,02-02-2025,Aspen,USA,United States Of America,World Cup,Slopestyle,10,
+1,Canter Jake,Male,31-01-2025,Aspen,USA,United States Of America,Qualification,Slopestyle,3,
+2,Canter Jake,Male,18-01-2025,Laax,SUI,United States Of America,World Cup,Slopestyle,39,89.20
+3,Canter Jake,Male,16-01-2025,Laax,SUI,United States Of America,Qualification,Slopestyle,15,
+4,Canter Jake,Male,11-01-2025,Kreischberg,AUT,United States Of America,World Cup,Big Air,10,287.50
+5,Canter Jake,Male,11-01-2025,Kreischberg,AUT,United States Of America,Qualification,Big Air,2,
+6,Canter Jake,Male,02-09-2024,Cardrona,NZL,United States Of America,World Cup,Slopestyle,37,80.50
+7,Canter Jake,Male,31-08-2024,Cardrona,NZL,United States Of America,Qualification,Slopestyle,15,
+8,Canter Jake,Male,12-04-2024,Corvatsch,SUI,United States Of America,European Cup Premium,Slopestyle,4,298.50
+9,Canter Jake,Male,23-03-2024,Silvaplana,SUI,United States Of America,World Cup,Slopestyle,14,223.10
+10,Canter Jake,Male,21-03-2024,Silvaplana,SUI,United States Of America,Qualification,Slopestyle,4,
+11,Canter Jake,Male,15-03-2024,Tignes,FRA,United States Of America,World Cup,Slopestyle,10,286.70
+12,Canter Jake,Male,15-03-2024,Tignes,FRA,United States Of America,Qualification,Slopestyle,7,
+13,Canter Jake,Male,20-01-2024,Laax,SUI,United States Of America,World Cup,Slopestyle,30,125.70
+14,Canter Jake,Male,16-01-2024,Laax,SUI,United States Of America,Qualification,Slopestyle,18,
+15,Canter Jake,Male,15-12-2023,Copper Mountain,USA,United States Of America,World Cup,Big Air,30,121.20
+16,Canter Jake,Male,13-12-2023,Copper Mountain,USA,United States Of America,Qualification,Big Air,16,
+17,Canter Jake,Male,09-12-2023,Edmonton,CAN,United States Of America,World Cup,Big Air,19,171.90
+18,Canter Jake,Male,08-12-2023,Edmonton,CAN,United States Of America,Qualification,Big Air,10,
+19,Canter Jake,Male,21-10-2023,Chur,SUI,United States Of America,Qualification,Big Air,11,
+20,Canter Jake,Male,21-10-2023,Chur,SUI,United States Of America,World Cup,Big Air,20,168.60
+21,Canter Jake,Male,26-03-2023,Silvaplana,SUI,United States Of America,World Cup,Slopestyle,6,352.00
+22,Canter Jake,Male,25-03-2023,Silvaplana,SUI,United States Of America,Qualification,Slopestyle,7,
+23,Canter Jake,Male,27-02-2023,Bakuriani,GEO,United States Of America,World Championships,Slopestyle,11,209.30
+24,Canter Jake,Male,24-02-2023,Bakuriani,GEO,United States Of America,Qualification,Slopestyle,4,
+25,Canter Jake,Male,12-02-2023,Calgary,CAN,United States Of America,World Cup,Slopestyle,5,400.30
+26,Canter Jake,Male,10-02-2023,Calgary,CAN,United States Of America,Qualification,Slopestyle,6,
+27,Canter Jake,Male,04-02-2023,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,11,207.70
+28,Canter Jake,Male,01-02-2023,Mammoth Mountain,USA,United States Of America,Qualification,Slopestyle,7,
+29,Canter Jake,Male,26-01-2023,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,DNS,
+30,Canter Jake,Male,17-12-2022,Copper Mountain,USA,United States Of America,World Cup,Big Air,25,112.70
+31,Canter Jake,Male,15-12-2022,Copper Mountain,USA,United States Of America,Qualification,Big Air,11,
+32,Canter Jake,Male,10-12-2022,Edmonton,CAN,United States Of America,World Cup,Big Air,13,184.70
+33,Canter Jake,Male,09-12-2022,Edmonton,CAN,United States Of America,Qualification,Big Air,7,
+34,Canter Jake,Male,15-01-2022,Laax,SUI,United States Of America,World Cup,Slopestyle,3,555.80
+35,Canter Jake,Male,13-01-2022,Laax,SUI,United States Of America,Qualification,Slopestyle,10,
+36,Canter Jake,Male,08-01-2022,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,31,94.30
+37,Canter Jake,Male,01-01-2022,Calgary,CAN,United States Of America,World Cup,Slopestyle,28,101.10
+38,Canter Jake,Male,31-12-2021,Calgary,CAN,United States Of America,Qualification,Slopestyle,12,
+39,Canter Jake,Male,04-12-2021,Steamboat,USA,United States Of America,World Cup,Big Air,20,177.40
+40,Canter Jake,Male,02-12-2021,Steamboat,USA,United States Of America,Qualification,Big Air,11,
+41,Canter Jake,Male,01-05-2021,Hintertux,AUT,United States Of America,Junior,Slopestyle,4,128.22
+42,Canter Jake,Male,20-03-2021,Aspen,USA,United States Of America,World Cup,Slopestyle,24,156.61
+43,Canter Jake,Male,19-03-2021,Aspen,USA,United States Of America,Qualification,Slopestyle,12,
+44,Canter Jake,Male,04-03-2021,Copper Mountain,USA,United States Of America,National Championships,Slopestyle,DNS,
+45,Canter Jake,Male,24-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Slopestyle,5,252.75
+46,Canter Jake,Male,22-01-2021,Laax,SUI,United States Of America,World Cup,Slopestyle,6,352.31
+47,Canter Jake,Male,19-01-2021,Laax,SUI,United States Of America,Qualification,Slopestyle,10,
+48,Canter Jake,Male,05-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Big Air,6,64.00
+49,Canter Jake,Male,03-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Slopestyle,13,72.00
+50,Canter Jake,Male,02-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Slopestyle,5,162.00
+51,Canter Jake,Male,16-02-2020,Calgary,CAN,United States Of America,World Cup,Slopestyle,17,140.00
+52,Canter Jake,Male,14-02-2020,Calgary,CAN,United States Of America,Qualification,Slopestyle,9,
+53,Canter Jake,Male,09-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Big Air,3,120.00
+54,Canter Jake,Male,07-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,25,14.40
+55,Canter Jake,Male,01-02-2020,Mammoth Mountain Resort,USA,United States Of America,World Cup,Slopestyle,25,60.00
+56,Canter Jake,Male,30-01-2020,Mammoth Mountain Resort,USA,United States Of America,Qualification,Slopestyle,12,
+57,Canter Jake,Male,02-11-2019,Modena SKIPASS,ITA,United States Of America,World Cup,Big Air,14,180.00
+58,Canter Jake,Male,13-04-2019,Klaeppen,SWE,United States Of America,FIS Junior World Championships,Big Air,10,62.40
+59,Canter Jake,Male,12-04-2019,Klaeppen,SWE,United States Of America,Qualification,Big Air,2,
+60,Canter Jake,Male,09-04-2019,Klaeppen,SWE,United States Of America,FIS Junior World Championships,Slopestyle,8,76.80
+61,Canter Jake,Male,08-04-2019,Klaeppen,SWE,United States Of America,Qualification,Slopestyle,1,
+62,Canter Jake,Male,13-03-2019,"Mammoth Mountain, CA",USA,United States Of America,Nor-Am Cup,Slopestyle,6,72.00
+63,Canter Jake,Male,07-02-2019,Mount St-Louis Moonstone,CAN,United States Of America,Nor-Am Cup,Slopestyle,26,8.00
+64,Canter Jake,Male,24-01-2019,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Big Air,37,3.10
+65,Canter Jake,Male,23-01-2019,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,2,128.00
+66,Canter Jake,Male,15-01-2019,Waterville Valley Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,2,128.00
+67,Canter Jake,Male,14-01-2019,Waterville Valley Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,1,160.00
+68,Canter Jake,Male,11-12-2018,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,DNS,
+69,Canter Jake,Male,08-12-2018,Copper Mountain Resort,USA,United States Of America,World Cup,Halfpipe,23,80.00
+70,Canter Jake,Male,06-12-2018,Copper Mountain Resort,USA,United States Of America,Qualification,Halfpipe,13,
+71,Canter Jake,Male,04-09-2018,Cardrona,NZL,United States Of America,FIS Junior World Championships,Halfpipe,8,76.80
+72,Canter Jake,Male,01-09-2018,Cardrona,NZL,United States Of America,Qualification,Halfpipe,9,
+73,Canter Jake,Male,31-08-2018,Cardrona,NZL,United States Of America,FIS Junior World Championships,Slopestyle,5,108.00
+74,Canter Jake,Male,30-08-2018,Cardrona,NZL,United States Of America,Qualification,Slopestyle,6,
+75,Canter Jake,Male,25-08-2018,Cardrona,NZL,United States Of America,FIS Junior World Championships,Big Air,16,36.00
+76,Canter Jake,Male,24-08-2018,Cardrona,NZL,United States Of America,Qualification,Big Air,8,
+77,Canter Jake,Male,15-03-2018,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,12,35.20
+78,Canter Jake,Male,28-02-2018,Park City,USA,United States Of America,Nor-Am Cup,Slopestyle,29,7.92
+79,Canter Jake,Male,27-02-2018,Park City,USA,United States Of America,Nor-Am Cup,Halfpipe,12,35.20
+80,Canter Jake,Male,13-02-2018,Waterville Valley Resort,USA,United States Of America,FIS,Slopestyle,21,13.00
+81,Canter Jake,Male,12-02-2018,Waterville Valley Resort,USA,United States Of America,FIS,Slopestyle,24,8.40
+82,Canter Jake,Male,24-01-2018,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,18,20.80
+83,Canter Jake,Male,23-01-2018,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,32,4.16
+84,Canter Jake,Male,13-12-2017,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,17,36.40
+85,Canter Jake,Male,12-12-2017,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,25,15.60
+86,Canter Jake,Male,13-01-2017,Waterville Valley Resort,USA,United States Of America,FIS,Slopestyle,54,
+87,Canter Jake,Male,12-01-2017,Waterville Valley Resort,USA,United States Of America,FIS,Slopestyle,23,14.40
+88,Canter Jake,Male,08-12-2016,Copper Mountain Resort,USA,United States Of America,FIS,Halfpipe,32,5.72

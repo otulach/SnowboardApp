@@ -1,332 +1,358 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Hochreiter Melanie,Female,17-03-2024,St. Moritz,SUI,Germany,European Cup,Parallel Slalom,7,129.60
-1,Hochreiter Melanie,Female,16-03-2024,St. Moritz,SUI,Germany,European Cup,Parallel Giant Slalom,7,129.60
-2,Hochreiter Melanie,Female,10-03-2024,Winterberg,GER,Germany,World Cup,Parallel Slalom Team,13,
-3,Hochreiter Melanie,Female,09-03-2024,Winterberg,GER,Germany,Qualification,Parallel Slalom,14,
-4,Hochreiter Melanie,Female,09-03-2024,Winterberg,GER,Germany,World Cup,Parallel Slalom,14,180.00
-5,Hochreiter Melanie,Female,25-02-2024,Krynica,POL,Germany,Qualification,Parallel Giant Slalom,10,
-6,Hochreiter Melanie,Female,25-02-2024,Krynica,POL,Germany,World Cup,Parallel Giant Slalom,11,240.00
-7,Hochreiter Melanie,Female,24-02-2024,Krynica,POL,Germany,Qualification,Parallel Giant Slalom,12,
-8,Hochreiter Melanie,Female,24-02-2024,Krynica,POL,Germany,World Cup,Parallel Giant Slalom,7,360.00
-9,Hochreiter Melanie,Female,09-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Slalom,8,92.80
-10,Hochreiter Melanie,Female,08-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Giant Slalom,19,34.80
-11,Hochreiter Melanie,Female,28-01-2024,Simonhöhe,AUT,Germany,World Cup,Parallel Giant Slalom Team,17,
-12,Hochreiter Melanie,Female,27-01-2024,Simonhöhe,AUT,Germany,Qualification,Parallel Giant Slalom,9,
-13,Hochreiter Melanie,Female,27-01-2024,Simonhöhe,AUT,Germany,World Cup,Parallel Giant Slalom,10,260.00
-14,Hochreiter Melanie,Female,25-01-2024,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,16,
-15,Hochreiter Melanie,Female,25-01-2024,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,16,150.00
-16,Hochreiter Melanie,Female,21-01-2024,Pamporovo,BUL,Germany,Qualification,Parallel Slalom,13,
-17,Hochreiter Melanie,Female,21-01-2024,Pamporovo,BUL,Germany,World Cup,Parallel Slalom,13,200.00
-18,Hochreiter Melanie,Female,20-01-2024,Pamporovo,BUL,Germany,Qualification,Parallel Slalom,15,
-19,Hochreiter Melanie,Female,20-01-2024,Pamporovo,BUL,Germany,World Cup,Parallel Slalom,15,160.00
-20,Hochreiter Melanie,Female,17-01-2024,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom Team,11,
-21,Hochreiter Melanie,Female,16-01-2024,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,9,
-22,Hochreiter Melanie,Female,16-01-2024,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,8,320.00
-23,Hochreiter Melanie,Female,13-01-2024,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,13,
-24,Hochreiter Melanie,Female,13-01-2024,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,8,320.00
-25,Hochreiter Melanie,Female,23-12-2023,Davos ,SUI,Germany,Qualification,Parallel Slalom,12,
-26,Hochreiter Melanie,Female,23-12-2023,Davos,SUI,Germany,World Cup,Parallel Slalom,12,220.00
-27,Hochreiter Melanie,Female,16-12-2023,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,5,
-28,Hochreiter Melanie,Female,16-12-2023,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,11,240.00
-29,Hochreiter Melanie,Female,14-12-2023,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,15,
-30,Hochreiter Melanie,Female,14-12-2023,Carezza,ITA,Germany,World Cup,Parallel Giant Slalom,15,160.00
-31,Hochreiter Melanie,Female,09-12-2023,Götschen,GER,Germany,Qualification,Parallel Slalom,5,
-32,Hochreiter Melanie,Female,09-12-2023,Götschen,GER,Germany,European Cup,Parallel Slalom,11,86.40
-33,Hochreiter Melanie,Female,08-12-2023,Götschen,GER,Germany,Qualification,Parallel Slalom,5,
-34,Hochreiter Melanie,Female,08-12-2023,Götschen,GER,Germany,European Cup,Parallel Slalom,6,144.00
-35,Hochreiter Melanie,Female,30-03-2023,Cortina dAmpezzo,ITA,Germany,National Championships,Parallel Slalom,1,290.00
-36,Hochreiter Melanie,Female,19-03-2023,Berchtesgaden,GER,Germany,World Cup,Parallel Slalom Team,15,
-37,Hochreiter Melanie,Female,18-03-2023,Berchtesgaden,GER,Germany,Qualification,Parallel Slalom,13,
-38,Hochreiter Melanie,Female,18-03-2023,Berchtesgaden,GER,Germany,World Cup,Parallel Slalom,13,200.00
-39,Hochreiter Melanie,Female,15-03-2023,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,11,240.00
-40,Hochreiter Melanie,Female,15-03-2023,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,11,
-41,Hochreiter Melanie,Female,21-02-2023,Bakuriani,GEO,Germany,Qualification,Parallel Slalom,20,
-42,Hochreiter Melanie,Female,21-02-2023,Bakuriani,GEO,Germany,World Championships,Parallel Slalom,20,110.00
-43,Hochreiter Melanie,Female,19-02-2023,Bakuriani,GEO,Germany,Qualification,Parallel Giant Slalom,15,
-44,Hochreiter Melanie,Female,19-02-2023,Bakuriani,GEO,Germany,World Championships,Parallel Giant Slalom,15,160.00
-45,Hochreiter Melanie,Female,27-01-2023,Blue Mountain,CAN,Germany,Qualification,Parallel Giant Slalom,11,
-46,Hochreiter Melanie,Female,27-01-2023,Blue Mountain,CAN,Germany,World Cup,Parallel Giant Slalom,12,220.00
-47,Hochreiter Melanie,Female,26-01-2023,Blue Mountain,CAN,Germany,Qualification,Parallel Giant Slalom,11,
-48,Hochreiter Melanie,Female,26-01-2023,Blue Mountain,CAN,Germany,World Cup,Parallel Giant Slalom,7,360.00
-49,Hochreiter Melanie,Female,22-01-2023,Bansko,BUL,Germany,Qualification,Parallel Slalom,23,
-50,Hochreiter Melanie,Female,22-01-2023,Bansko,BUL,Germany,World Cup,Parallel Slalom,23,80.00
-51,Hochreiter Melanie,Female,21-01-2023,Bansko,BUL,Germany,Qualification,Parallel Slalom,20,
-52,Hochreiter Melanie,Female,21-01-2023,Bansko,BUL,Germany,World Cup,Parallel Slalom,20,110.00
-53,Hochreiter Melanie,Female,14-01-2023,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,10,
-54,Hochreiter Melanie,Female,14-01-2023,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,10,260.00
-55,Hochreiter Melanie,Female,11-01-2023,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom Team,13,
-56,Hochreiter Melanie,Female,10-01-2023,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,16,
-57,Hochreiter Melanie,Female,10-01-2023,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,16,150.00
-58,Hochreiter Melanie,Female,17-12-2022,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,23,
-59,Hochreiter Melanie,Female,17-12-2022,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,23,80.00
-60,Hochreiter Melanie,Female,15-12-2022,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,5,
-61,Hochreiter Melanie,Female,15-12-2022,Carezza,ITA,Germany,World Cup,Parallel Giant Slalom,9,290.00
-62,Hochreiter Melanie,Female,11-12-2022,Winterberg,GER,Germany,World Cup,Parallel Slalom,4,500.00
-63,Hochreiter Melanie,Female,10-12-2022,Winterberg,GER,Germany,Qualification,Parallel Slalom,7,
-64,Hochreiter Melanie,Female,10-12-2022,Winterberg,GER,Germany,World Cup,Parallel Slalom Team,7,
-65,Hochreiter Melanie,Female,20-03-2022,Berchtesgaden,GER,Germany,World Cup,Parallel  Slalom Team,18,
-66,Hochreiter Melanie,Female,19-03-2022,Berchtesgaden,GER,Germany,Qualification,Parallel Slalom,15,
-67,Hochreiter Melanie,Female,19-03-2022,Berchtesgaden,GER,Germany,World Cup,Parallel Slalom,14,180.00
-68,Hochreiter Melanie,Female,16-03-2022,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,11,
-69,Hochreiter Melanie,Female,16-03-2022,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,11,240.00
-70,Hochreiter Melanie,Female,12-03-2022,Piancavallo,ITA,Germany,Qualification,Parallel Slalom,15,
-71,Hochreiter Melanie,Female,12-03-2022,Piancavallo,ITA,Germany,World Cup,Parallel Slalom,15,160.00
-72,Hochreiter Melanie,Female,08-02-2022,Beijing,CHN,Germany,Qualification,Parallel Giant Slalom,27,
-73,Hochreiter Melanie,Female,08-02-2022,Beijing,CHN,Germany,Olympic Winter Games,Parallel Giant Slalom,27,45.00
-74,Hochreiter Melanie,Female,15-01-2022,Simonhöhe,AUT,Germany,World Cup,Parallel Giant Slalom Team,2,
-75,Hochreiter Melanie,Female,14-01-2022,Simonhöhe,AUT,Germany,World Cup,Parallel Giant Slalom,3,600.00
-76,Hochreiter Melanie,Female,14-01-2022,Simonhöhe,AUT,Germany,Qualification,Parallel Giant Slalom,4,
-77,Hochreiter Melanie,Female,11-01-2022,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,10,
-78,Hochreiter Melanie,Female,11-01-2022,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,11,240.00
-79,Hochreiter Melanie,Female,08-01-2022,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,6,
-80,Hochreiter Melanie,Female,08-01-2022,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,7,360.00
-81,Hochreiter Melanie,Female,18-12-2021,Cortina d Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,12,
-82,Hochreiter Melanie,Female,18-12-2021,Cortina d Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,13,200.00
-83,Hochreiter Melanie,Female,16-12-2021,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,14,
-84,Hochreiter Melanie,Female,16-12-2021,Carezza,ITA,Germany,World Cup,Parallel Giant Slalom,14,180.00
-85,Hochreiter Melanie,Female,12-12-2021,Bannoye,RUS,Germany,Qualification,Parallel Slalom,12,
-86,Hochreiter Melanie,Female,12-12-2021,Bannoye,RUS,Germany,World Cup,Parallel Slalom,12,220.00
-87,Hochreiter Melanie,Female,11-12-2021,Bannoye,RUS,Germany,Qualification,Parallel Giant Slalom,4,
-88,Hochreiter Melanie,Female,11-12-2021,Bannoye,RUS,Germany,World Cup,Parallel Giant Slalom,5,450.00
-89,Hochreiter Melanie,Female,20-03-2021,Berchtesgaden,GER,Germany,Qualification,Parallel Slalom,18,
-90,Hochreiter Melanie,Female,20-03-2021,Berchtesgaden,GER,Germany,World Cup,Parallel Slalom,18,130.00
-91,Hochreiter Melanie,Female,06-03-2021,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,16,
-92,Hochreiter Melanie,Female,06-03-2021,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,16,150.00
-93,Hochreiter Melanie,Female,01-03-2021,Rogla,SLO,Germany,World Championships,Parallel Giant Slalom,19,120.00
-94,Hochreiter Melanie,Female,01-03-2021,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,19,
-95,Hochreiter Melanie,Female,07-02-2021,Bannoye,RUS,Germany,Qualification,Parallel Slalom,DNF,
-96,Hochreiter Melanie,Female,07-02-2021,Bannoye,RUS,Germany,World Cup,Parallel Slalom,DNF,
-97,Hochreiter Melanie,Female,06-02-2021,Bannoye,RUS,Germany,Qualification,Parallel Giant Slalom,7,
-98,Hochreiter Melanie,Female,06-02-2021,Bannoye,RUS,Germany,World Cup,Parallel Giant Slalom,10,260.00
-99,Hochreiter Melanie,Female,30-01-2021,Moscow,RUS,Germany,Qualification,Parallel Slalom,DSQ,
-100,Hochreiter Melanie,Female,30-01-2021,Moscow,RUS,Germany,World Cup,Parallel Slalom,DSQ,
-101,Hochreiter Melanie,Female,12-01-2021,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,16,
-102,Hochreiter Melanie,Female,12-01-2021,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,16,150.00
-103,Hochreiter Melanie,Female,09-01-2021,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,9,
-104,Hochreiter Melanie,Female,09-01-2021,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,8,320.00
-105,Hochreiter Melanie,Female,17-12-2020,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,31,
-106,Hochreiter Melanie,Female,17-12-2020,Carezza,ITA,Germany,World Cup,Parallel Giant Slalom,31,28.00
-107,Hochreiter Melanie,Female,12-12-2020,Cortina d Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,20,
-108,Hochreiter Melanie,Female,12-12-2020,Cortina d Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,20,110.00
-109,Hochreiter Melanie,Female,01-03-2020,Blue Mountain,CAN,Germany,World Cup,Parallel Giant Slalom,14,180.00
-110,Hochreiter Melanie,Female,01-03-2020,Blue Mountain,CAN,Germany,Qualification,Parallel Giant Slalom,14,
-111,Hochreiter Melanie,Female,29-02-2020,Blue Mountain,CAN,Germany,World Cup,Parallel Giant Slalom,18,130.00
-112,Hochreiter Melanie,Female,29-02-2020,Blue Mountain,CAN,Germany,Qualification,Parallel Giant Slalom,18,
-113,Hochreiter Melanie,Female,22-02-2020,Pyeongchang,KOR,Germany,World Cup,Parallel Giant Slalom,6,400.00
-114,Hochreiter Melanie,Female,22-02-2020,Pyeongchang,KOR,Germany,Qualification,Parallel Giant Slalom,8,
-115,Hochreiter Melanie,Female,25-01-2020,Piancavallo,ITA,Germany,World Cup,Parallel Slalom,28,40.00
-116,Hochreiter Melanie,Female,25-01-2020,Piancavallo,ITA,Germany,Qualification,Parallel Slalom,28,
-117,Hochreiter Melanie,Female,18-01-2020,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,19,120.00
-118,Hochreiter Melanie,Female,18-01-2020,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,19,
-119,Hochreiter Melanie,Female,14-01-2020,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,12,220.00
-120,Hochreiter Melanie,Female,14-01-2020,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,10,
-121,Hochreiter Melanie,Female,11-01-2020,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,4,500.00
-122,Hochreiter Melanie,Female,11-01-2020,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,5,
-123,Hochreiter Melanie,Female,22-12-2019,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,5,162.00
-124,Hochreiter Melanie,Female,21-12-2019,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,7,129.60
-125,Hochreiter Melanie,Female,19-12-2019,Carezza,ITA,Germany,Open,Parallel Giant Slalom,8,320.00
-126,Hochreiter Melanie,Female,14-12-2019,Cortina d Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,10,260.00
-127,Hochreiter Melanie,Female,14-12-2019,Cortina d Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,7,
-128,Hochreiter Melanie,Female,08-12-2019,Bannoye,RUS,Germany,World Cup,Parallel Giant Slalom,13,200.00
-129,Hochreiter Melanie,Female,08-12-2019,Bannoye,RUS,Germany,Qualification,Parallel Giant Slalom,11,
-130,Hochreiter Melanie,Female,07-12-2019,Bannoye,RUS,Germany,World Cup,Parallel Slalom,25,60.00
-131,Hochreiter Melanie,Female,07-12-2019,Bannoye,RUS,Germany,Qualification,Parallel Slalom,25,
-132,Hochreiter Melanie,Female,23-03-2019,Winterberg,GER,Germany,World Cup,Parallel Slalom,29,36.00
-133,Hochreiter Melanie,Female,23-03-2019,Winterberg,GER,Germany,Qualification,Parallel Slalom,29,
-134,Hochreiter Melanie,Female,17-03-2019,Rogla,SLO,Germany,European Cup,Parallel Giant Slalom,12,79.20
-135,Hochreiter Melanie,Female,16-03-2019,Rogla,SLO,Germany,European Cup,Parallel Giant Slalom,12,79.20
-136,Hochreiter Melanie,Female,09-03-2019,Scuol,SUI,Germany,World Cup,Parallel GS,25,60.00
-137,Hochreiter Melanie,Female,09-03-2019,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,25,
-138,Hochreiter Melanie,Female,24-02-2019,Secret Garden,CHN,Germany,World Cup,Parallel Slalom,DSQ,
-139,Hochreiter Melanie,Female,24-02-2019,Secret Garden,CHN,Germany,Qualification,Parallel Slalom,DSQ,
-140,Hochreiter Melanie,Female,23-02-2019,Secret Garden,CHN,Germany,World Cup,Parallel Giant Slalom,33,24.00
-141,Hochreiter Melanie,Female,23-02-2019,Secret Garden,CHN,Germany,Qualification,Parallel Giant Slalom,33,
-142,Hochreiter Melanie,Female,17-02-2019,Pyeongchang,KOR,Germany,World Cup,Parallel Giant Slalom,DSQ,
-143,Hochreiter Melanie,Female,17-02-2019,Pyeongchang,KOR,Germany,Qualification,Parallel Giant Slalom,DSQ,
-144,Hochreiter Melanie,Female,16-02-2019,Pyeongchang,KOR,Germany,World Cup,Parallel Giant Slalom,20,110.00
-145,Hochreiter Melanie,Female,16-02-2019,Pyeongchang,KOR,Germany,Qualification,Parallel Giant Slalom,20,
-146,Hochreiter Melanie,Female,26-01-2019,Moscow,RUS,Germany,World Cup,Parallel Slalom,28,
-147,Hochreiter Melanie,Female,26-01-2019,Moscow,RUS,Germany,Qualification,Parallel Slalom,28,
-148,Hochreiter Melanie,Female,19-01-2019,Rogla,SLO,Germany,World Cup,Parallel GS,25,60.00
-149,Hochreiter Melanie,Female,19-01-2019,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,25,
-150,Hochreiter Melanie,Female,11-01-2019,Bad Gastein,AUT,Germany,European Cup,Parallel Slalom,13,72.00
-151,Hochreiter Melanie,Female,10-01-2019,Bad Gastein,AUT,Germany,European Cup,Parallel Slalom,13,72.00
-152,Hochreiter Melanie,Female,08-01-2019,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,33,24.00
-153,Hochreiter Melanie,Female,08-01-2019,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,33,
-154,Hochreiter Melanie,Female,05-01-2019,Simonhöhe,AUT,Germany,FIS,Parallel Slalom,5,99.00
-155,Hochreiter Melanie,Female,23-12-2018,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,9,104.40
-156,Hochreiter Melanie,Female,22-12-2018,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,15,57.60
-157,Hochreiter Melanie,Female,15-12-2018,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel GS,21,100.00
-158,Hochreiter Melanie,Female,15-12-2018,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,21,
-159,Hochreiter Melanie,Female,13-12-2018,Carezza,ITA,Germany,World Cup,Parallel GS,33,24.00
-160,Hochreiter Melanie,Female,13-12-2018,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,33,
-161,Hochreiter Melanie,Female,17-03-2018,Winterberg,GER,Germany,World Cup,Parallel Slalom,29,36.00
-162,Hochreiter Melanie,Female,17-03-2018,Winterberg,GER,Germany,Qualification,Parallel Slalom,29,
-163,Hochreiter Melanie,Female,10-03-2018,Scuol,SUI,Germany,World Cup,Parallel GS,DSQ,
-164,Hochreiter Melanie,Female,10-03-2018,Scuol,SUI,Germany,Qualification,Parallel GS,DSQ,
-165,Hochreiter Melanie,Female,03-03-2018,Kayseri,TUR,Germany,World Cup,Parallel GS,18,130.00
-166,Hochreiter Melanie,Female,03-03-2018,Kayseri,TUR,Germany,Qualification,Parallel GS,18,
-167,Hochreiter Melanie,Female,18-02-2018,Simonhoehe,AUT,Germany,FIS,Parallel GS,4,110.00
-168,Hochreiter Melanie,Female,17-02-2018,Simonhoehe,AUT,Germany,FIS,Parallel GS,2,176.00
-169,Hochreiter Melanie,Female,11-02-2018,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,11,76.80
-170,Hochreiter Melanie,Female,10-02-2018,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,9,104.40
-171,Hochreiter Melanie,Female,04-02-2018,Gerlitzen,AUT,Germany,National Championships,Parallel GS,5,130.50
-172,Hochreiter Melanie,Female,03-02-2018,Gerlitzen,AUT,Germany,National Championships,Parallel Slalom,10,75.40
-173,Hochreiter Melanie,Female,28-01-2018,Bansko,BUL,Germany,World Cup,Parallel GS,31,28.00
-174,Hochreiter Melanie,Female,28-01-2018,Bansko,BUL,Germany,Qualification,Parallel GS,31,
-175,Hochreiter Melanie,Female,26-01-2018,Bansko,BUL,Germany,World Cup,Parallel GS,DNF,
-176,Hochreiter Melanie,Female,26-01-2018,Bansko,BUL,Germany,Qualification,Parallel GS,DNF,
-177,Hochreiter Melanie,Female,21-01-2018,Rogla,SLO,Germany,World Cup,Parallel GS,30,32.00
-178,Hochreiter Melanie,Female,21-01-2018,Rogla,SLO,Germany,Qualification,Parallel GS,30,
-179,Hochreiter Melanie,Female,20-01-2018,Rogla,SLO,Germany,World Cup,Parallel GS,32,26.00
-180,Hochreiter Melanie,Female,20-01-2018,Rogla,SLO,Germany,Qualification,Parallel GS,32,
-181,Hochreiter Melanie,Female,12-01-2018,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,14,180.00
-182,Hochreiter Melanie,Female,12-01-2018,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,14,
-183,Hochreiter Melanie,Female,05-01-2018,Lackenhof,AUT,Germany,World Cup,Parallel GS,29,36.00
-184,Hochreiter Melanie,Female,05-01-2018,Lackenhof,AUT,Germany,Qualification,Parallel GS,29,
-185,Hochreiter Melanie,Female,16-12-2017,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel Slalom,26,50.00
-186,Hochreiter Melanie,Female,16-12-2017,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel Slalom,26,
-187,Hochreiter Melanie,Female,15-12-2017,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel GS,25,60.00
-188,Hochreiter Melanie,Female,15-12-2017,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel GS,25,
-189,Hochreiter Melanie,Female,14-12-2017,Carezza,ITA,Germany,World Cup,Parallel GS,28,40.00
-190,Hochreiter Melanie,Female,14-12-2017,Carezza,ITA,Germany,Qualification,Parallel GS,28,
-191,Hochreiter Melanie,Female,10-12-2017,Hochfügen,GER,Germany,European Cup,Parallel GS,8,115.20
-192,Hochreiter Melanie,Female,09-12-2017,Hochfügen,GER,Germany,European Cup,Parallel GS,16,54.00
-193,Hochreiter Melanie,Female,02-04-2017,Scuol,SUI,Germany,European Cup,Parallel Slalom,13,72.00
-194,Hochreiter Melanie,Female,01-04-2017,Scuol,SUI,Germany,European Cup,Parallel GS,9,104.40
-195,Hochreiter Melanie,Female,29-03-2017,Rogla,SLO,Germany,European Cup,Parallel Slalom,3,216.00
-196,Hochreiter Melanie,Female,28-03-2017,Rogla,SLO,Germany,European Cup,Parallel GS,DNF1,
-197,Hochreiter Melanie,Female,26-03-2017,Racines,ITA,Germany,European Cup,Parallel Slalom,14,64.80
-198,Hochreiter Melanie,Female,25-03-2017,Racines,ITA,Germany,European Cup,Parallel Slalom,14,64.80
-199,Hochreiter Melanie,Female,18-03-2017,Winterberg,GER,Germany,Qualification,Parallel Slalom,33,
-200,Hochreiter Melanie,Female,18-03-2017,Winterberg,GER,Germany,World Cup,Parallel Slalom,33,24.00
-201,Hochreiter Melanie,Female,12-03-2017,Tauplitz,AUT,Germany,FIS,Parallel Slalom,1,220.00
-202,Hochreiter Melanie,Female,11-03-2017,Tauplitz,AUT,Germany,FIS,Parallel Slalom,2,176.00
-203,Hochreiter Melanie,Female,05-03-2017, Erciyes-Kayseri,TUR,Germany,World Cup,Parallel GS,31,28.00
-204,Hochreiter Melanie,Female,12-02-2017,Phoenix Pyeongchang,KOR,Germany,World Cup,Parallel GS,15,160.00
-205,Hochreiter Melanie,Female,05-02-2017,Bansko,BUL,Germany,World Cup,Parallel GS,30,32.00
-206,Hochreiter Melanie,Female,03-02-2017,Bansko,BUL,Germany,World Cup,Parallel GS,14,180.00
-207,Hochreiter Melanie,Female,28-01-2017,Rogla,SLO,Germany,World Cup,Parallel GS,19,120.00
-208,Hochreiter Melanie,Female,21-01-2017,Livigno,ITA,Germany,European Cup,Parallel GS,2,288.00
-209,Hochreiter Melanie,Female,20-01-2017,Livigno,ITA,Germany,European Cup,Parallel GS,12,79.20
-210,Hochreiter Melanie,Female,10-01-2017,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,27,45.00
-211,Hochreiter Melanie,Female,08-01-2017,Gerlitzen,AUT,Germany,European Cup,Parallel GS,8,76.80
-212,Hochreiter Melanie,Female,07-01-2017,Gerlitzen,AUT,Germany,European Cup,Parallel GS,2,288.00
-213,Hochreiter Melanie,Female,17-12-2016,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel Slalom,29,36.00
-214,Hochreiter Melanie,Female,15-12-2016,Carezza,ITA,Germany,World Cup,Parallel GS,39,
-215,Hochreiter Melanie,Female,11-12-2016,Hochfügen,GER,Germany,European Cup,Parallel GS,13,72.00
-216,Hochreiter Melanie,Female,10-12-2016,Hochfügen,GER,Germany,European Cup,Parallel GS,18,46.80
-217,Hochreiter Melanie,Female,04-11-2016,Landgraaf,NED,Germany,European Cup,Parallel Slalom,24,25.20
-218,Hochreiter Melanie,Female,03-11-2016,Landgraaf,NED,Germany,European Cup,Parallel Slalom,17,50.40
-219,Hochreiter Melanie,Female,03-04-2016,Rogla,SLO,Germany,FIS Junior World Championships,Parallel Slalom,7,129.60
-220,Hochreiter Melanie,Female,02-04-2016,Rogla,SLO,Germany,FIS Junior World Championships,Parallel GS,7,129.60
-221,Hochreiter Melanie,Female,27-03-2016,Racines,ITA,Germany,European Cup,Parallel Slalom,11,120.00
-222,Hochreiter Melanie,Female,26-03-2016,Racines,ITA,Germany,European Cup,Parallel Slalom,13,100.00
-223,Hochreiter Melanie,Female,24-03-2016,Rogla,SLO,Germany,European Cup,Parallel Slalom,DSQ1,
-224,Hochreiter Melanie,Female,23-03-2016,Rogla,SLO,Germany,European Cup,Parallel GS,17,70.00
-225,Hochreiter Melanie,Female,20-03-2016,Gerlitzen,AUT,Germany,European Cup,Parallel GS,10,130.00
-226,Hochreiter Melanie,Female,19-03-2016,Gerlitzen,AUT,Germany,European Cup,Parallel GS,14,90.00
-227,Hochreiter Melanie,Female,06-03-2016,Winterberg,GER,Germany,World Cup,Parallel Slalom,15,160.00
-228,Hochreiter Melanie,Female,27-02-2016,Kayseri,TUR,Germany,World Cup,Parallel GS,30,32.00
-229,Hochreiter Melanie,Female,21-02-2016,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,11,120.00
-230,Hochreiter Melanie,Female,20-02-2016,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,DSQ1,
-231,Hochreiter Melanie,Female,07-02-2016,Lachtal,AUT,Germany,FIS,Parallel Slalom,4,130.00
-232,Hochreiter Melanie,Female,06-02-2016,Lachtal,AUT,Germany,National Championships,Parallel Slalom,9,104.40
-233,Hochreiter Melanie,Female,30-01-2016,Stara Planina,SRB,Germany,European Cup,Parallel GS,4,110.00
-234,Hochreiter Melanie,Female,29-01-2016,Stara Planina,SRB,Germany,European Cup,Parallel Slalom,2,176.00
-235,Hochreiter Melanie,Female,23-01-2016,Rogla,SLO,Germany,World Cup,Parallel GS,27,45.00
-236,Hochreiter Melanie,Female,17-01-2016,Kreischberg,AUT,Germany,FIS,Parallel GS,20,28.60
-237,Hochreiter Melanie,Female,16-01-2016,Kreischberg,AUT,Germany,FIS,Parallel GS,41,4.73
-238,Hochreiter Melanie,Female,06-12-2015,Hochfuegen,GER,Germany,European Cup,Parallel GS,19,60.00
-239,Hochreiter Melanie,Female,05-12-2015,Hochfuegen,GER,Germany,European Cup,Parallel GS,25,30.00
-240,Hochreiter Melanie,Female,16-10-2015,Landgraaf,NED,Germany,European Cup,Parallel Slalom,23,40.00
-241,Hochreiter Melanie,Female,15-10-2015,Landgraaf,NED,Germany,European Cup,Parallel Slalom,40,9.25
-242,Hochreiter Melanie,Female,22-03-2015,Racines,ITA,Germany,European Cup,Parallel Slalom,3,300.00
-243,Hochreiter Melanie,Female,21-03-2015,Racines,ITA,Germany,European Cup,Parallel Slalom,18,65.00
-244,Hochreiter Melanie,Female,18-03-2015,Rogla,SLO,Germany,European Cup,Parallel Slalom,15,64.00
-245,Hochreiter Melanie,Female,17-03-2015,Rogla,SLO,Germany,European Cup,Parallel GS,23,32.00
-246,Hochreiter Melanie,Female,11-03-2015,Yabuli,CHN,Germany,FIS Junior World Championships,Parallel Slalom,12,79.20
-247,Hochreiter Melanie,Female,10-03-2015,Yabuli,CHN,Germany,FIS Junior World Championships,Parallel GS,15,57.60
-248,Hochreiter Melanie,Female,25-02-2015,Marianske Lazne,CZE,Germany,European Cup,Parallel Slalom,9,84.10
-249,Hochreiter Melanie,Female,24-02-2015,Marianske Lazne,CZE,Germany,European Cup,Parallel Slalom,5,130.50
-250,Hochreiter Melanie,Female,22-02-2015,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,15,72.00
-251,Hochreiter Melanie,Female,21-02-2015,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,12,110.00
-252,Hochreiter Melanie,Female,15-02-2015,Kayseri,TUR,Germany,European Cup,Parallel Slalom,3,192.00
-253,Hochreiter Melanie,Female,14-02-2015,Kayseri,TUR,Germany,European Cup,Parallel Slalom,6,144.00
-254,Hochreiter Melanie,Female,07-02-2015,Sudelfeld,GER,Germany,World Cup,Parallel GS,30,
-255,Hochreiter Melanie,Female,06-02-2015,Sudelfeld,GER,Germany,Qualification,Parallel GS,30,
-256,Hochreiter Melanie,Female,31-01-2015,Livigno,ITA,Germany,European Cup,Parallel GS,2,192.00
-257,Hochreiter Melanie,Female,30-01-2015,Livigno,ITA,Germany,European Cup,Parallel GS,9,69.60
-258,Hochreiter Melanie,Female,24-01-2015,Samnaun,SUI,Germany,FIS,Parallel Slalom,3,156.00
-259,Hochreiter Melanie,Female,23-01-2015,Samnaun,SUI,Germany,FIS,Parallel Slalom,4,130.00
-260,Hochreiter Melanie,Female,09-01-2015,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,34,22.00
-261,Hochreiter Melanie,Female,06-01-2015,Dachstein West / Gosau,AUT,Germany,FIS,Parallel Slalom,6,
-262,Hochreiter Melanie,Female,05-01-2015,Dachstein West / Gosau,AUT,Germany,FIS,Parallel Slalom,7,93.60
-263,Hochreiter Melanie,Female,18-12-2014,Montafon,AUT,Germany,World Cup,Parallel Slalom,37,19.40
-264,Hochreiter Melanie,Female,16-12-2014,Carezza,ITA,Germany,World Cup,Parallel GS,24,70.00
-265,Hochreiter Melanie,Female,25-03-2014,Chiesa in Valmalenco,ITA,Germany,FIS Junior World Championships,Parallel Slalom,9,104.40
-266,Hochreiter Melanie,Female,24-03-2014,Chiesa in Valmalenco,ITA,Germany,FIS Junior World Championships,Parallel GS,10,93.60
-267,Hochreiter Melanie,Female,16-03-2014,Ratsching/Racines,ITA,Germany,European Cup,Parallel Slalom,35,
-268,Hochreiter Melanie,Female,15-03-2014,Ratsching/Racines,ITA,Germany,European Cup,Parallel Slalom,16,60.00
-269,Hochreiter Melanie,Female,09-03-2014,Tauplitz,AUT,Germany,FIS,Parallel Slalom,13,52.00
-270,Hochreiter Melanie,Female,08-03-2014,Tauplitz,AUT,Germany,FIS,Parallel Slalom,13,52.00
-271,Hochreiter Melanie,Female,05-03-2014,Rogla,SLO,Germany,European Cup,Parallel Slalom,33,10.80
-272,Hochreiter Melanie,Female,04-03-2014,Rogla,SLO,Germany,European Cup,Parallel GS,17,63.00
-273,Hochreiter Melanie,Female,01-03-2014,Gerlitzen,AUT,Germany,European Cup,Parallel GS,41,0.00
-274,Hochreiter Melanie,Female,22-02-2014,Gosau,AUT,Germany,FIS,Slalom,10,67.60
-275,Hochreiter Melanie,Female,22-02-2014,Gosau,AUT,Germany,FIS,Slalom,8,83.20
-276,Hochreiter Melanie,Female,16-02-2014,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,22,28.80
-277,Hochreiter Melanie,Female,15-02-2014,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,28,12.80
-278,Hochreiter Melanie,Female,01-02-2014,Sudelfeld,GER,Germany,World Cup,Parallel GS,24,70.00
-279,Hochreiter Melanie,Female,26-01-2014,Lizzola Valbondione,ITA,Germany,European Cup,Parallel Slalom,18,46.80
-280,Hochreiter Melanie,Female,25-01-2014,Lizzola Valbondione,ITA,Germany,European Cup,Parallel Slalom,10,93.60
-281,Hochreiter Melanie,Female,22-12-2013,Schönberg-Lachtal,AUT,Germany,European Cup,Parallel Slalom,2,400.00
-282,Hochreiter Melanie,Female,21-12-2013,Schönberg-Lachtal,AUT,Germany,European Cup,Parallel Slalom,136,
-283,Hochreiter Melanie,Female,15-12-2013,Samnaun,SUI,Germany,FIS,Parallel Slalom,18,
-284,Hochreiter Melanie,Female,14-12-2013,Samnaun,SUI,Germany,FIS,Parallel Slalom,2,144.00
-285,Hochreiter Melanie,Female,08-12-2013,Hochfügen,AUT,Germany,European Cup,Parallel GS,36,9.85
-286,Hochreiter Melanie,Female,07-12-2013,Hochfügen,AUT,Germany,European Cup,Parallel GS,29,18.00
-287,Hochreiter Melanie,Female,08-11-2013,Landgraaf,NED,Germany,FIS,Parallel Slalom,12,57.20
-288,Hochreiter Melanie,Female,07-11-2013,Landgraaf,NED,Germany,FIS,Parallel Slalom,12,57.20
-289,Hochreiter Melanie,Female,23-03-2013,Götschen,GER,Germany,National Championships,Parallel GS,12,79.20
-290,Hochreiter Melanie,Female,22-03-2013,Götschen,GER,Germany,National Championships,Parallel Slalom,33,8.64
-291,Hochreiter Melanie,Female,17-03-2013,Rogla,SLO,Germany,European Cup,Parallel Slalom,12,70.40
-292,Hochreiter Melanie,Female,16-03-2013,Rogla,SLO,Germany,European Cup,Parallel GS,8,102.40
-293,Hochreiter Melanie,Female,07-03-2013,Erzurum,TUR,Germany,FIS Junior World Championships,Parallel Slalom,13,72.00
-294,Hochreiter Melanie,Female,06-03-2013,Erzurum,TUR,Germany,FIS Junior World Championships,Parallel GS,14,64.80
-295,Hochreiter Melanie,Female,21-02-2013,Predeal,ROU,Germany,European Youth Olympic Festival,Parallel GS,5,54.00
-296,Hochreiter Melanie,Female,19-02-2013,Predeal,ROU,Germany,European Youth Olympic Festival,Snowboardcross,19,
-297,Hochreiter Melanie,Female,10-02-2013,Marianske Lazne,CZE,Germany,European Cup,Parallel Slalom,12,70.40
-298,Hochreiter Melanie,Female,09-02-2013,Marianske Lazne,CZE,Germany,European Cup,Parallel Slalom,14,57.60
-299,Hochreiter Melanie,Female,27-01-2013,Rossfeld,GER,Germany,Junior,Giant Slalom,DSQ,
-300,Hochreiter Melanie,Female,27-01-2013,Rossfeld,GER,Germany,Junior,Slalom,7,46.80
-301,Hochreiter Melanie,Female,26-01-2013,Rossfeld,GER,Germany,Junior,Giant Slalom,2,104.00
-302,Hochreiter Melanie,Female,26-01-2013,Rossfeld,GER,Germany,Junior,Slalom,DNF,
-303,Hochreiter Melanie,Female,20-01-2013,Vratna - Paseky,SVK,Germany,European Cup,Parallel GS,12,57.20
-304,Hochreiter Melanie,Female,19-01-2013,Vratna - Paseky,SVK,Germany,European Cup,Parallel GS,12,63.80
-305,Hochreiter Melanie,Female,16-12-2012,Racines/Ratschings,ITA,Germany,European Cup,Parallel Slalom,34,11.00
-306,Hochreiter Melanie,Female,15-12-2012,Racines/Ratschings,ITA,Germany,European Cup,Parallel Slalom,19,60.00
-307,Hochreiter Melanie,Female,09-12-2012,Lachtal,AUT,Germany,European Cup,Parallel GS,34,11.00
-308,Hochreiter Melanie,Female,08-12-2012,Lachtal,AUT,Germany,European Cup,Parallel GS,20,55.00
-309,Hochreiter Melanie,Female,20-03-2012,Rogla,SLO,Germany,European Cup,Parallel Slalom,16,54.00
-310,Hochreiter Melanie,Female,19-03-2012,Rogla,SLO,Germany,European Cup,Parallel GS,48,5.80
-311,Hochreiter Melanie,Female,18-03-2012,Tauplitz,AUT,Germany,FIS,Parallel Slalom,29,
-312,Hochreiter Melanie,Female,17-03-2012,Tauplitz,AUT,Germany,FIS,Parallel Slalom,7,79.20
-313,Hochreiter Melanie,Female,10-03-2012,Bad Gastein,AUT,Germany,European Cup,Parallel GS,28,11.60
-314,Hochreiter Melanie,Female,04-03-2012,Gerlitzen,AUT,Germany,FIS,Parallel Slalom,19,28.80
-315,Hochreiter Melanie,Female,03-03-2012,Gerlitzen,AUT,Germany,FIS,Parallel Slalom,4,120.00
-316,Hochreiter Melanie,Female,19-02-2012,Gudauri,GEO,Germany,National Championships,Parallel Slalom,3,72.00
-317,Hochreiter Melanie,Female,18-02-2012,Gudauri,GEO,Germany,National Championships,Parallel GS,3,72.00
-318,Hochreiter Melanie,Female,12-02-2012,Rossfeld,GER,Germany,Junior,Giant Slalom,8,22.40
-319,Hochreiter Melanie,Female,12-02-2012,Rossfeld,GER,Germany,Junior,Slalom,2,56.00
-320,Hochreiter Melanie,Female,11-02-2012,Gruenstein,GER,Germany,Junior,Giant Slalom,1,90.00
-321,Hochreiter Melanie,Female,11-02-2012,Gruenstein,GER,Germany,Junior,Slalom,1,90.00
-322,Hochreiter Melanie,Female,04-02-2012,Goetschen,GER,Germany,National Championships,Parallel Slalom,14,
-323,Hochreiter Melanie,Female,03-02-2012,Goetschen,GER,Germany,National Championships,Parallel GS,9,104.40
-324,Hochreiter Melanie,Female,29-01-2012,Kasberg,AUT,Germany,FIS,Parallel Slalom,2,40.00
-325,Hochreiter Melanie,Female,22-01-2012,Valgardena-S. Cristina-Seceda,ITA,Germany,FIS,Slalom,DSQ,
-326,Hochreiter Melanie,Female,21-01-2012,Valgardena-S. Cristina-Seceda,ITA,Germany,FIS,Slalom,7,93.60
-327,Hochreiter Melanie,Female,15-01-2012,Vratna,SVK,Germany,European Cup,Giant Slalom,37,5.04
-328,Hochreiter Melanie,Female,14-01-2012,Vratna,SVK,Germany,European Cup,Parallel GS,30,8.32
-329,Hochreiter Melanie,Female,08-01-2012,Kreischberg,AUT,Germany,FIS,Parallel GS,12,57.20
-330,Hochreiter Melanie,Female,07-01-2012,Kreischberg,AUT,Germany,FIS,Parallel GS,24,18.20
+0,Hochreiter Melanie,Female,25-01-2025,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,39,
+1,Hochreiter Melanie,Female,25-01-2025,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,39,
+2,Hochreiter Melanie,Female,22-01-2025,Bansko,BUL,Germany,European Cup,Parallel Giant Slalom,DNS,
+3,Hochreiter Melanie,Female,21-01-2025,Bansko,BUL,Germany,European Cup,Parallel Giant Slalom,11,86.40
+4,Hochreiter Melanie,Female,19-01-2025,Bansko,BUL,Germany,Qualification,Parallel Giant Slalom,15,
+5,Hochreiter Melanie,Female,19-01-2025,Bansko,BUL,Germany,World Cup,Parallel Giant Slalom,15,160.00
+6,Hochreiter Melanie,Female,18-01-2025,Bansko,BUL,Germany,Qualification,Parallel Giant Slalom,11,
+7,Hochreiter Melanie,Female,18-01-2025,Bansko,BUL,Germany,World Cup,Parallel Giant Slalom,11,240.00
+8,Hochreiter Melanie,Female,14-01-2025,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,25,
+9,Hochreiter Melanie,Female,14-01-2025,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,25,60.00
+10,Hochreiter Melanie,Female,11-01-2025,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,DNF,
+11,Hochreiter Melanie,Female,11-01-2025,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,DNF,
+12,Hochreiter Melanie,Female,21-12-2024,Davos,SUI,Germany,Qualification,Parallel Slalom,23,
+13,Hochreiter Melanie,Female,21-12-2024,Davos,SUI,Germany,World Cup,Parallel Slalom,23,80.00
+14,Hochreiter Melanie,Female,14-12-2024,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,19,
+15,Hochreiter Melanie,Female,14-12-2024,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,19,120.00
+16,Hochreiter Melanie,Female,12-12-2024,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,21,
+17,Hochreiter Melanie,Female,12-12-2024,Carezza,ITA,Germany,World Cup,Parallel Giant Slalom,21,100.00
+18,Hochreiter Melanie,Female,08-12-2024,Yanqing (NASC),CHN,Germany,World Cup,Parallel Slalom,32,26.00
+19,Hochreiter Melanie,Female,08-12-2024,Yanqing (NASC),CHN,Germany,Qualification,Parallel Slalom,32,
+20,Hochreiter Melanie,Female,07-12-2024,Yanqing (NASC),CHN,Germany,World Cup,Parallel Giant Slalom,14,180.00
+21,Hochreiter Melanie,Female,07-12-2024,Yanqing (NASC),CHN,Germany,Qualification,Parallel Giant Slalom,14,
+22,Hochreiter Melanie,Female,01-12-2024,Mylin,CHN,Germany,World Cup,Parallel Slalom,22,90.00
+23,Hochreiter Melanie,Female,01-12-2024,Mylin,CHN,Germany,Qualification,Parallel Slalom,22,
+24,Hochreiter Melanie,Female,30-11-2024,Mylin,CHN,Germany,World Cup,Parallel Giant Slalom,20,110.00
+25,Hochreiter Melanie,Female,30-11-2024,Mylin,CHN,Germany,Qualification,Parallel Giant Slalom,20,
+26,Hochreiter Melanie,Female,17-03-2024,St. Moritz,SUI,Germany,European Cup,Parallel Slalom,7,129.60
+27,Hochreiter Melanie,Female,16-03-2024,St. Moritz,SUI,Germany,European Cup,Parallel Giant Slalom,7,129.60
+28,Hochreiter Melanie,Female,10-03-2024,Winterberg,GER,Germany,World Cup,Parallel Slalom Team,13,
+29,Hochreiter Melanie,Female,09-03-2024,Winterberg,GER,Germany,Qualification,Parallel Slalom,14,
+30,Hochreiter Melanie,Female,09-03-2024,Winterberg,GER,Germany,World Cup,Parallel Slalom,14,180.00
+31,Hochreiter Melanie,Female,25-02-2024,Krynica,POL,Germany,Qualification,Parallel Giant Slalom,10,
+32,Hochreiter Melanie,Female,25-02-2024,Krynica,POL,Germany,World Cup,Parallel Giant Slalom,11,240.00
+33,Hochreiter Melanie,Female,24-02-2024,Krynica,POL,Germany,Qualification,Parallel Giant Slalom,12,
+34,Hochreiter Melanie,Female,24-02-2024,Krynica,POL,Germany,World Cup,Parallel Giant Slalom,7,360.00
+35,Hochreiter Melanie,Female,09-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Slalom,8,92.80
+36,Hochreiter Melanie,Female,08-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Giant Slalom,19,34.80
+37,Hochreiter Melanie,Female,28-01-2024,Simonhöhe,AUT,Germany,World Cup,Parallel Giant Slalom Team,17,
+38,Hochreiter Melanie,Female,27-01-2024,Simonhöhe,AUT,Germany,Qualification,Parallel Giant Slalom,9,
+39,Hochreiter Melanie,Female,27-01-2024,Simonhöhe,AUT,Germany,World Cup,Parallel Giant Slalom,10,260.00
+40,Hochreiter Melanie,Female,25-01-2024,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,16,
+41,Hochreiter Melanie,Female,25-01-2024,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,16,150.00
+42,Hochreiter Melanie,Female,21-01-2024,Pamporovo,BUL,Germany,Qualification,Parallel Slalom,13,
+43,Hochreiter Melanie,Female,21-01-2024,Pamporovo,BUL,Germany,World Cup,Parallel Slalom,13,200.00
+44,Hochreiter Melanie,Female,20-01-2024,Pamporovo,BUL,Germany,Qualification,Parallel Slalom,15,
+45,Hochreiter Melanie,Female,20-01-2024,Pamporovo,BUL,Germany,World Cup,Parallel Slalom,15,160.00
+46,Hochreiter Melanie,Female,17-01-2024,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom Team,11,
+47,Hochreiter Melanie,Female,16-01-2024,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,9,
+48,Hochreiter Melanie,Female,16-01-2024,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,8,320.00
+49,Hochreiter Melanie,Female,13-01-2024,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,13,
+50,Hochreiter Melanie,Female,13-01-2024,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,8,320.00
+51,Hochreiter Melanie,Female,23-12-2023,Davos ,SUI,Germany,Qualification,Parallel Slalom,12,
+52,Hochreiter Melanie,Female,23-12-2023,Davos,SUI,Germany,World Cup,Parallel Slalom,12,220.00
+53,Hochreiter Melanie,Female,16-12-2023,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,5,
+54,Hochreiter Melanie,Female,16-12-2023,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,11,240.00
+55,Hochreiter Melanie,Female,14-12-2023,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,15,
+56,Hochreiter Melanie,Female,14-12-2023,Carezza,ITA,Germany,World Cup,Parallel Giant Slalom,15,160.00
+57,Hochreiter Melanie,Female,09-12-2023,Götschen,GER,Germany,Qualification,Parallel Slalom,5,
+58,Hochreiter Melanie,Female,09-12-2023,Götschen,GER,Germany,European Cup,Parallel Slalom,11,86.40
+59,Hochreiter Melanie,Female,08-12-2023,Götschen,GER,Germany,Qualification,Parallel Slalom,5,
+60,Hochreiter Melanie,Female,08-12-2023,Götschen,GER,Germany,European Cup,Parallel Slalom,6,144.00
+61,Hochreiter Melanie,Female,30-03-2023,Cortina dAmpezzo,ITA,Germany,National Championships,Parallel Slalom,1,290.00
+62,Hochreiter Melanie,Female,19-03-2023,Berchtesgaden,GER,Germany,World Cup,Parallel Slalom Team,15,
+63,Hochreiter Melanie,Female,18-03-2023,Berchtesgaden,GER,Germany,Qualification,Parallel Slalom,13,
+64,Hochreiter Melanie,Female,18-03-2023,Berchtesgaden,GER,Germany,World Cup,Parallel Slalom,13,200.00
+65,Hochreiter Melanie,Female,15-03-2023,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,11,240.00
+66,Hochreiter Melanie,Female,15-03-2023,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,11,
+67,Hochreiter Melanie,Female,21-02-2023,Bakuriani,GEO,Germany,Qualification,Parallel Slalom,20,
+68,Hochreiter Melanie,Female,21-02-2023,Bakuriani,GEO,Germany,World Championships,Parallel Slalom,20,110.00
+69,Hochreiter Melanie,Female,19-02-2023,Bakuriani,GEO,Germany,Qualification,Parallel Giant Slalom,15,
+70,Hochreiter Melanie,Female,19-02-2023,Bakuriani,GEO,Germany,World Championships,Parallel Giant Slalom,15,160.00
+71,Hochreiter Melanie,Female,27-01-2023,Blue Mountain,CAN,Germany,Qualification,Parallel Giant Slalom,11,
+72,Hochreiter Melanie,Female,27-01-2023,Blue Mountain,CAN,Germany,World Cup,Parallel Giant Slalom,12,220.00
+73,Hochreiter Melanie,Female,26-01-2023,Blue Mountain,CAN,Germany,Qualification,Parallel Giant Slalom,11,
+74,Hochreiter Melanie,Female,26-01-2023,Blue Mountain,CAN,Germany,World Cup,Parallel Giant Slalom,7,360.00
+75,Hochreiter Melanie,Female,22-01-2023,Bansko,BUL,Germany,Qualification,Parallel Slalom,23,
+76,Hochreiter Melanie,Female,22-01-2023,Bansko,BUL,Germany,World Cup,Parallel Slalom,23,80.00
+77,Hochreiter Melanie,Female,21-01-2023,Bansko,BUL,Germany,Qualification,Parallel Slalom,20,
+78,Hochreiter Melanie,Female,21-01-2023,Bansko,BUL,Germany,World Cup,Parallel Slalom,20,110.00
+79,Hochreiter Melanie,Female,14-01-2023,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,10,
+80,Hochreiter Melanie,Female,14-01-2023,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,10,260.00
+81,Hochreiter Melanie,Female,11-01-2023,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom Team,13,
+82,Hochreiter Melanie,Female,10-01-2023,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,16,
+83,Hochreiter Melanie,Female,10-01-2023,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,16,150.00
+84,Hochreiter Melanie,Female,17-12-2022,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,23,
+85,Hochreiter Melanie,Female,17-12-2022,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,23,80.00
+86,Hochreiter Melanie,Female,15-12-2022,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,5,
+87,Hochreiter Melanie,Female,15-12-2022,Carezza,ITA,Germany,World Cup,Parallel Giant Slalom,9,290.00
+88,Hochreiter Melanie,Female,11-12-2022,Winterberg,GER,Germany,World Cup,Parallel Slalom,4,500.00
+89,Hochreiter Melanie,Female,10-12-2022,Winterberg,GER,Germany,Qualification,Parallel Slalom,7,
+90,Hochreiter Melanie,Female,10-12-2022,Winterberg,GER,Germany,World Cup,Parallel Slalom Team,7,
+91,Hochreiter Melanie,Female,20-03-2022,Berchtesgaden,GER,Germany,World Cup,Parallel  Slalom Team,18,
+92,Hochreiter Melanie,Female,19-03-2022,Berchtesgaden,GER,Germany,Qualification,Parallel Slalom,15,
+93,Hochreiter Melanie,Female,19-03-2022,Berchtesgaden,GER,Germany,World Cup,Parallel Slalom,14,180.00
+94,Hochreiter Melanie,Female,16-03-2022,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,11,
+95,Hochreiter Melanie,Female,16-03-2022,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,11,240.00
+96,Hochreiter Melanie,Female,12-03-2022,Piancavallo,ITA,Germany,Qualification,Parallel Slalom,15,
+97,Hochreiter Melanie,Female,12-03-2022,Piancavallo,ITA,Germany,World Cup,Parallel Slalom,15,160.00
+98,Hochreiter Melanie,Female,08-02-2022,Beijing,CHN,Germany,Qualification,Parallel Giant Slalom,27,
+99,Hochreiter Melanie,Female,08-02-2022,Beijing,CHN,Germany,Olympic Winter Games,Parallel Giant Slalom,27,45.00
+100,Hochreiter Melanie,Female,15-01-2022,Simonhöhe,AUT,Germany,World Cup,Parallel Giant Slalom Team,2,
+101,Hochreiter Melanie,Female,14-01-2022,Simonhöhe,AUT,Germany,World Cup,Parallel Giant Slalom,3,600.00
+102,Hochreiter Melanie,Female,14-01-2022,Simonhöhe,AUT,Germany,Qualification,Parallel Giant Slalom,4,
+103,Hochreiter Melanie,Female,11-01-2022,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,10,
+104,Hochreiter Melanie,Female,11-01-2022,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,11,240.00
+105,Hochreiter Melanie,Female,08-01-2022,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,6,
+106,Hochreiter Melanie,Female,08-01-2022,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,7,360.00
+107,Hochreiter Melanie,Female,18-12-2021,Cortina d Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,12,
+108,Hochreiter Melanie,Female,18-12-2021,Cortina d Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,13,200.00
+109,Hochreiter Melanie,Female,16-12-2021,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,14,
+110,Hochreiter Melanie,Female,16-12-2021,Carezza,ITA,Germany,World Cup,Parallel Giant Slalom,14,180.00
+111,Hochreiter Melanie,Female,12-12-2021,Bannoye,RUS,Germany,Qualification,Parallel Slalom,12,
+112,Hochreiter Melanie,Female,12-12-2021,Bannoye,RUS,Germany,World Cup,Parallel Slalom,12,220.00
+113,Hochreiter Melanie,Female,11-12-2021,Bannoye,RUS,Germany,Qualification,Parallel Giant Slalom,4,
+114,Hochreiter Melanie,Female,11-12-2021,Bannoye,RUS,Germany,World Cup,Parallel Giant Slalom,5,450.00
+115,Hochreiter Melanie,Female,20-03-2021,Berchtesgaden,GER,Germany,Qualification,Parallel Slalom,18,
+116,Hochreiter Melanie,Female,20-03-2021,Berchtesgaden,GER,Germany,World Cup,Parallel Slalom,18,130.00
+117,Hochreiter Melanie,Female,06-03-2021,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,16,
+118,Hochreiter Melanie,Female,06-03-2021,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,16,150.00
+119,Hochreiter Melanie,Female,01-03-2021,Rogla,SLO,Germany,World Championships,Parallel Giant Slalom,19,120.00
+120,Hochreiter Melanie,Female,01-03-2021,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,19,
+121,Hochreiter Melanie,Female,07-02-2021,Bannoye,RUS,Germany,Qualification,Parallel Slalom,DNF,
+122,Hochreiter Melanie,Female,07-02-2021,Bannoye,RUS,Germany,World Cup,Parallel Slalom,DNF,
+123,Hochreiter Melanie,Female,06-02-2021,Bannoye,RUS,Germany,Qualification,Parallel Giant Slalom,7,
+124,Hochreiter Melanie,Female,06-02-2021,Bannoye,RUS,Germany,World Cup,Parallel Giant Slalom,10,260.00
+125,Hochreiter Melanie,Female,30-01-2021,Moscow,RUS,Germany,Qualification,Parallel Slalom,DSQ,
+126,Hochreiter Melanie,Female,30-01-2021,Moscow,RUS,Germany,World Cup,Parallel Slalom,DSQ,
+127,Hochreiter Melanie,Female,12-01-2021,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,16,
+128,Hochreiter Melanie,Female,12-01-2021,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,16,150.00
+129,Hochreiter Melanie,Female,09-01-2021,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,9,
+130,Hochreiter Melanie,Female,09-01-2021,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,8,320.00
+131,Hochreiter Melanie,Female,17-12-2020,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,31,
+132,Hochreiter Melanie,Female,17-12-2020,Carezza,ITA,Germany,World Cup,Parallel Giant Slalom,31,28.00
+133,Hochreiter Melanie,Female,12-12-2020,Cortina d Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,20,
+134,Hochreiter Melanie,Female,12-12-2020,Cortina d Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,20,110.00
+135,Hochreiter Melanie,Female,01-03-2020,Blue Mountain,CAN,Germany,World Cup,Parallel Giant Slalom,14,180.00
+136,Hochreiter Melanie,Female,01-03-2020,Blue Mountain,CAN,Germany,Qualification,Parallel Giant Slalom,14,
+137,Hochreiter Melanie,Female,29-02-2020,Blue Mountain,CAN,Germany,World Cup,Parallel Giant Slalom,18,130.00
+138,Hochreiter Melanie,Female,29-02-2020,Blue Mountain,CAN,Germany,Qualification,Parallel Giant Slalom,18,
+139,Hochreiter Melanie,Female,22-02-2020,Pyeongchang,KOR,Germany,World Cup,Parallel Giant Slalom,6,400.00
+140,Hochreiter Melanie,Female,22-02-2020,Pyeongchang,KOR,Germany,Qualification,Parallel Giant Slalom,8,
+141,Hochreiter Melanie,Female,25-01-2020,Piancavallo,ITA,Germany,World Cup,Parallel Slalom,28,40.00
+142,Hochreiter Melanie,Female,25-01-2020,Piancavallo,ITA,Germany,Qualification,Parallel Slalom,28,
+143,Hochreiter Melanie,Female,18-01-2020,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,19,120.00
+144,Hochreiter Melanie,Female,18-01-2020,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,19,
+145,Hochreiter Melanie,Female,14-01-2020,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,12,220.00
+146,Hochreiter Melanie,Female,14-01-2020,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,10,
+147,Hochreiter Melanie,Female,11-01-2020,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,4,500.00
+148,Hochreiter Melanie,Female,11-01-2020,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,5,
+149,Hochreiter Melanie,Female,22-12-2019,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,5,162.00
+150,Hochreiter Melanie,Female,21-12-2019,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,7,129.60
+151,Hochreiter Melanie,Female,19-12-2019,Carezza,ITA,Germany,Open,Parallel Giant Slalom,8,320.00
+152,Hochreiter Melanie,Female,14-12-2019,Cortina d Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,10,260.00
+153,Hochreiter Melanie,Female,14-12-2019,Cortina d Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,7,
+154,Hochreiter Melanie,Female,08-12-2019,Bannoye,RUS,Germany,World Cup,Parallel Giant Slalom,13,200.00
+155,Hochreiter Melanie,Female,08-12-2019,Bannoye,RUS,Germany,Qualification,Parallel Giant Slalom,11,
+156,Hochreiter Melanie,Female,07-12-2019,Bannoye,RUS,Germany,World Cup,Parallel Slalom,25,60.00
+157,Hochreiter Melanie,Female,07-12-2019,Bannoye,RUS,Germany,Qualification,Parallel Slalom,25,
+158,Hochreiter Melanie,Female,23-03-2019,Winterberg,GER,Germany,World Cup,Parallel Slalom,29,36.00
+159,Hochreiter Melanie,Female,23-03-2019,Winterberg,GER,Germany,Qualification,Parallel Slalom,29,
+160,Hochreiter Melanie,Female,17-03-2019,Rogla,SLO,Germany,European Cup,Parallel Giant Slalom,12,79.20
+161,Hochreiter Melanie,Female,16-03-2019,Rogla,SLO,Germany,European Cup,Parallel Giant Slalom,12,79.20
+162,Hochreiter Melanie,Female,09-03-2019,Scuol,SUI,Germany,World Cup,Parallel GS,25,60.00
+163,Hochreiter Melanie,Female,09-03-2019,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,25,
+164,Hochreiter Melanie,Female,24-02-2019,Secret Garden,CHN,Germany,World Cup,Parallel Slalom,DSQ,
+165,Hochreiter Melanie,Female,24-02-2019,Secret Garden,CHN,Germany,Qualification,Parallel Slalom,DSQ,
+166,Hochreiter Melanie,Female,23-02-2019,Secret Garden,CHN,Germany,World Cup,Parallel Giant Slalom,33,24.00
+167,Hochreiter Melanie,Female,23-02-2019,Secret Garden,CHN,Germany,Qualification,Parallel Giant Slalom,33,
+168,Hochreiter Melanie,Female,17-02-2019,Pyeongchang,KOR,Germany,World Cup,Parallel Giant Slalom,DSQ,
+169,Hochreiter Melanie,Female,17-02-2019,Pyeongchang,KOR,Germany,Qualification,Parallel Giant Slalom,DSQ,
+170,Hochreiter Melanie,Female,16-02-2019,Pyeongchang,KOR,Germany,World Cup,Parallel Giant Slalom,20,110.00
+171,Hochreiter Melanie,Female,16-02-2019,Pyeongchang,KOR,Germany,Qualification,Parallel Giant Slalom,20,
+172,Hochreiter Melanie,Female,26-01-2019,Moscow,RUS,Germany,World Cup,Parallel Slalom,28,
+173,Hochreiter Melanie,Female,26-01-2019,Moscow,RUS,Germany,Qualification,Parallel Slalom,28,
+174,Hochreiter Melanie,Female,19-01-2019,Rogla,SLO,Germany,World Cup,Parallel GS,25,60.00
+175,Hochreiter Melanie,Female,19-01-2019,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,25,
+176,Hochreiter Melanie,Female,11-01-2019,Bad Gastein,AUT,Germany,European Cup,Parallel Slalom,13,72.00
+177,Hochreiter Melanie,Female,10-01-2019,Bad Gastein,AUT,Germany,European Cup,Parallel Slalom,13,72.00
+178,Hochreiter Melanie,Female,08-01-2019,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,33,24.00
+179,Hochreiter Melanie,Female,08-01-2019,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,33,
+180,Hochreiter Melanie,Female,05-01-2019,Simonhöhe,AUT,Germany,FIS,Parallel Slalom,5,99.00
+181,Hochreiter Melanie,Female,23-12-2018,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,9,104.40
+182,Hochreiter Melanie,Female,22-12-2018,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,15,57.60
+183,Hochreiter Melanie,Female,15-12-2018,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel GS,21,100.00
+184,Hochreiter Melanie,Female,15-12-2018,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,21,
+185,Hochreiter Melanie,Female,13-12-2018,Carezza,ITA,Germany,World Cup,Parallel GS,33,24.00
+186,Hochreiter Melanie,Female,13-12-2018,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,33,
+187,Hochreiter Melanie,Female,17-03-2018,Winterberg,GER,Germany,World Cup,Parallel Slalom,29,36.00
+188,Hochreiter Melanie,Female,17-03-2018,Winterberg,GER,Germany,Qualification,Parallel Slalom,29,
+189,Hochreiter Melanie,Female,10-03-2018,Scuol,SUI,Germany,World Cup,Parallel GS,DSQ,
+190,Hochreiter Melanie,Female,10-03-2018,Scuol,SUI,Germany,Qualification,Parallel GS,DSQ,
+191,Hochreiter Melanie,Female,03-03-2018,Kayseri,TUR,Germany,World Cup,Parallel GS,18,130.00
+192,Hochreiter Melanie,Female,03-03-2018,Kayseri,TUR,Germany,Qualification,Parallel GS,18,
+193,Hochreiter Melanie,Female,18-02-2018,Simonhoehe,AUT,Germany,FIS,Parallel GS,4,110.00
+194,Hochreiter Melanie,Female,17-02-2018,Simonhoehe,AUT,Germany,FIS,Parallel GS,2,176.00
+195,Hochreiter Melanie,Female,11-02-2018,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,11,76.80
+196,Hochreiter Melanie,Female,10-02-2018,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,9,104.40
+197,Hochreiter Melanie,Female,04-02-2018,Gerlitzen,AUT,Germany,National Championships,Parallel GS,5,130.50
+198,Hochreiter Melanie,Female,03-02-2018,Gerlitzen,AUT,Germany,National Championships,Parallel Slalom,10,75.40
+199,Hochreiter Melanie,Female,28-01-2018,Bansko,BUL,Germany,World Cup,Parallel GS,31,28.00
+200,Hochreiter Melanie,Female,28-01-2018,Bansko,BUL,Germany,Qualification,Parallel GS,31,
+201,Hochreiter Melanie,Female,26-01-2018,Bansko,BUL,Germany,World Cup,Parallel GS,DNF,
+202,Hochreiter Melanie,Female,26-01-2018,Bansko,BUL,Germany,Qualification,Parallel GS,DNF,
+203,Hochreiter Melanie,Female,21-01-2018,Rogla,SLO,Germany,World Cup,Parallel GS,30,32.00
+204,Hochreiter Melanie,Female,21-01-2018,Rogla,SLO,Germany,Qualification,Parallel GS,30,
+205,Hochreiter Melanie,Female,20-01-2018,Rogla,SLO,Germany,World Cup,Parallel GS,32,26.00
+206,Hochreiter Melanie,Female,20-01-2018,Rogla,SLO,Germany,Qualification,Parallel GS,32,
+207,Hochreiter Melanie,Female,12-01-2018,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,14,180.00
+208,Hochreiter Melanie,Female,12-01-2018,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,14,
+209,Hochreiter Melanie,Female,05-01-2018,Lackenhof,AUT,Germany,World Cup,Parallel GS,29,36.00
+210,Hochreiter Melanie,Female,05-01-2018,Lackenhof,AUT,Germany,Qualification,Parallel GS,29,
+211,Hochreiter Melanie,Female,16-12-2017,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel Slalom,26,50.00
+212,Hochreiter Melanie,Female,16-12-2017,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel Slalom,26,
+213,Hochreiter Melanie,Female,15-12-2017,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel GS,25,60.00
+214,Hochreiter Melanie,Female,15-12-2017,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel GS,25,
+215,Hochreiter Melanie,Female,14-12-2017,Carezza,ITA,Germany,World Cup,Parallel GS,28,40.00
+216,Hochreiter Melanie,Female,14-12-2017,Carezza,ITA,Germany,Qualification,Parallel GS,28,
+217,Hochreiter Melanie,Female,10-12-2017,Hochfügen,GER,Germany,European Cup,Parallel GS,8,115.20
+218,Hochreiter Melanie,Female,09-12-2017,Hochfügen,GER,Germany,European Cup,Parallel GS,16,54.00
+219,Hochreiter Melanie,Female,02-04-2017,Scuol,SUI,Germany,European Cup,Parallel Slalom,13,72.00
+220,Hochreiter Melanie,Female,01-04-2017,Scuol,SUI,Germany,European Cup,Parallel GS,9,104.40
+221,Hochreiter Melanie,Female,29-03-2017,Rogla,SLO,Germany,European Cup,Parallel Slalom,3,216.00
+222,Hochreiter Melanie,Female,28-03-2017,Rogla,SLO,Germany,European Cup,Parallel GS,DNF1,
+223,Hochreiter Melanie,Female,26-03-2017,Racines,ITA,Germany,European Cup,Parallel Slalom,14,64.80
+224,Hochreiter Melanie,Female,25-03-2017,Racines,ITA,Germany,European Cup,Parallel Slalom,14,64.80
+225,Hochreiter Melanie,Female,18-03-2017,Winterberg,GER,Germany,Qualification,Parallel Slalom,33,
+226,Hochreiter Melanie,Female,18-03-2017,Winterberg,GER,Germany,World Cup,Parallel Slalom,33,24.00
+227,Hochreiter Melanie,Female,12-03-2017,Tauplitz,AUT,Germany,FIS,Parallel Slalom,1,220.00
+228,Hochreiter Melanie,Female,11-03-2017,Tauplitz,AUT,Germany,FIS,Parallel Slalom,2,176.00
+229,Hochreiter Melanie,Female,05-03-2017, Erciyes-Kayseri,TUR,Germany,World Cup,Parallel GS,31,28.00
+230,Hochreiter Melanie,Female,12-02-2017,Phoenix Pyeongchang,KOR,Germany,World Cup,Parallel GS,15,160.00
+231,Hochreiter Melanie,Female,05-02-2017,Bansko,BUL,Germany,World Cup,Parallel GS,30,32.00
+232,Hochreiter Melanie,Female,03-02-2017,Bansko,BUL,Germany,World Cup,Parallel GS,14,180.00
+233,Hochreiter Melanie,Female,28-01-2017,Rogla,SLO,Germany,World Cup,Parallel GS,19,120.00
+234,Hochreiter Melanie,Female,21-01-2017,Livigno,ITA,Germany,European Cup,Parallel GS,2,288.00
+235,Hochreiter Melanie,Female,20-01-2017,Livigno,ITA,Germany,European Cup,Parallel GS,12,79.20
+236,Hochreiter Melanie,Female,10-01-2017,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,27,45.00
+237,Hochreiter Melanie,Female,08-01-2017,Gerlitzen,AUT,Germany,European Cup,Parallel GS,8,76.80
+238,Hochreiter Melanie,Female,07-01-2017,Gerlitzen,AUT,Germany,European Cup,Parallel GS,2,288.00
+239,Hochreiter Melanie,Female,17-12-2016,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel Slalom,29,36.00
+240,Hochreiter Melanie,Female,15-12-2016,Carezza,ITA,Germany,World Cup,Parallel GS,39,
+241,Hochreiter Melanie,Female,11-12-2016,Hochfügen,GER,Germany,European Cup,Parallel GS,13,72.00
+242,Hochreiter Melanie,Female,10-12-2016,Hochfügen,GER,Germany,European Cup,Parallel GS,18,46.80
+243,Hochreiter Melanie,Female,04-11-2016,Landgraaf,NED,Germany,European Cup,Parallel Slalom,24,25.20
+244,Hochreiter Melanie,Female,03-11-2016,Landgraaf,NED,Germany,European Cup,Parallel Slalom,17,50.40
+245,Hochreiter Melanie,Female,03-04-2016,Rogla,SLO,Germany,FIS Junior World Championships,Parallel Slalom,7,129.60
+246,Hochreiter Melanie,Female,02-04-2016,Rogla,SLO,Germany,FIS Junior World Championships,Parallel GS,7,129.60
+247,Hochreiter Melanie,Female,27-03-2016,Racines,ITA,Germany,European Cup,Parallel Slalom,11,120.00
+248,Hochreiter Melanie,Female,26-03-2016,Racines,ITA,Germany,European Cup,Parallel Slalom,13,100.00
+249,Hochreiter Melanie,Female,24-03-2016,Rogla,SLO,Germany,European Cup,Parallel Slalom,DSQ1,
+250,Hochreiter Melanie,Female,23-03-2016,Rogla,SLO,Germany,European Cup,Parallel GS,17,70.00
+251,Hochreiter Melanie,Female,20-03-2016,Gerlitzen,AUT,Germany,European Cup,Parallel GS,10,130.00
+252,Hochreiter Melanie,Female,19-03-2016,Gerlitzen,AUT,Germany,European Cup,Parallel GS,14,90.00
+253,Hochreiter Melanie,Female,06-03-2016,Winterberg,GER,Germany,World Cup,Parallel Slalom,15,160.00
+254,Hochreiter Melanie,Female,27-02-2016,Kayseri,TUR,Germany,World Cup,Parallel GS,30,32.00
+255,Hochreiter Melanie,Female,21-02-2016,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,11,120.00
+256,Hochreiter Melanie,Female,20-02-2016,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,DSQ1,
+257,Hochreiter Melanie,Female,07-02-2016,Lachtal,AUT,Germany,FIS,Parallel Slalom,4,130.00
+258,Hochreiter Melanie,Female,06-02-2016,Lachtal,AUT,Germany,National Championships,Parallel Slalom,9,104.40
+259,Hochreiter Melanie,Female,30-01-2016,Stara Planina,SRB,Germany,European Cup,Parallel GS,4,110.00
+260,Hochreiter Melanie,Female,29-01-2016,Stara Planina,SRB,Germany,European Cup,Parallel Slalom,2,176.00
+261,Hochreiter Melanie,Female,23-01-2016,Rogla,SLO,Germany,World Cup,Parallel GS,27,45.00
+262,Hochreiter Melanie,Female,17-01-2016,Kreischberg,AUT,Germany,FIS,Parallel GS,20,28.60
+263,Hochreiter Melanie,Female,16-01-2016,Kreischberg,AUT,Germany,FIS,Parallel GS,41,4.73
+264,Hochreiter Melanie,Female,06-12-2015,Hochfuegen,GER,Germany,European Cup,Parallel GS,19,60.00
+265,Hochreiter Melanie,Female,05-12-2015,Hochfuegen,GER,Germany,European Cup,Parallel GS,25,30.00
+266,Hochreiter Melanie,Female,16-10-2015,Landgraaf,NED,Germany,European Cup,Parallel Slalom,23,40.00
+267,Hochreiter Melanie,Female,15-10-2015,Landgraaf,NED,Germany,European Cup,Parallel Slalom,40,9.25
+268,Hochreiter Melanie,Female,22-03-2015,Racines,ITA,Germany,European Cup,Parallel Slalom,3,300.00
+269,Hochreiter Melanie,Female,21-03-2015,Racines,ITA,Germany,European Cup,Parallel Slalom,18,65.00
+270,Hochreiter Melanie,Female,18-03-2015,Rogla,SLO,Germany,European Cup,Parallel Slalom,15,64.00
+271,Hochreiter Melanie,Female,17-03-2015,Rogla,SLO,Germany,European Cup,Parallel GS,23,32.00
+272,Hochreiter Melanie,Female,11-03-2015,Yabuli,CHN,Germany,FIS Junior World Championships,Parallel Slalom,12,79.20
+273,Hochreiter Melanie,Female,10-03-2015,Yabuli,CHN,Germany,FIS Junior World Championships,Parallel GS,15,57.60
+274,Hochreiter Melanie,Female,25-02-2015,Marianske Lazne,CZE,Germany,European Cup,Parallel Slalom,9,84.10
+275,Hochreiter Melanie,Female,24-02-2015,Marianske Lazne,CZE,Germany,European Cup,Parallel Slalom,5,130.50
+276,Hochreiter Melanie,Female,22-02-2015,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,15,72.00
+277,Hochreiter Melanie,Female,21-02-2015,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,12,110.00
+278,Hochreiter Melanie,Female,15-02-2015,Kayseri,TUR,Germany,European Cup,Parallel Slalom,3,192.00
+279,Hochreiter Melanie,Female,14-02-2015,Kayseri,TUR,Germany,European Cup,Parallel Slalom,6,144.00
+280,Hochreiter Melanie,Female,07-02-2015,Sudelfeld,GER,Germany,World Cup,Parallel GS,30,
+281,Hochreiter Melanie,Female,06-02-2015,Sudelfeld,GER,Germany,Qualification,Parallel GS,30,
+282,Hochreiter Melanie,Female,31-01-2015,Livigno,ITA,Germany,European Cup,Parallel GS,2,192.00
+283,Hochreiter Melanie,Female,30-01-2015,Livigno,ITA,Germany,European Cup,Parallel GS,9,69.60
+284,Hochreiter Melanie,Female,24-01-2015,Samnaun,SUI,Germany,FIS,Parallel Slalom,3,156.00
+285,Hochreiter Melanie,Female,23-01-2015,Samnaun,SUI,Germany,FIS,Parallel Slalom,4,130.00
+286,Hochreiter Melanie,Female,09-01-2015,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,34,22.00
+287,Hochreiter Melanie,Female,06-01-2015,Dachstein West / Gosau,AUT,Germany,FIS,Parallel Slalom,6,
+288,Hochreiter Melanie,Female,05-01-2015,Dachstein West / Gosau,AUT,Germany,FIS,Parallel Slalom,7,93.60
+289,Hochreiter Melanie,Female,18-12-2014,Montafon,AUT,Germany,World Cup,Parallel Slalom,37,19.40
+290,Hochreiter Melanie,Female,16-12-2014,Carezza,ITA,Germany,World Cup,Parallel GS,24,70.00
+291,Hochreiter Melanie,Female,25-03-2014,Chiesa in Valmalenco,ITA,Germany,FIS Junior World Championships,Parallel Slalom,9,104.40
+292,Hochreiter Melanie,Female,24-03-2014,Chiesa in Valmalenco,ITA,Germany,FIS Junior World Championships,Parallel GS,10,93.60
+293,Hochreiter Melanie,Female,16-03-2014,Ratsching/Racines,ITA,Germany,European Cup,Parallel Slalom,35,
+294,Hochreiter Melanie,Female,15-03-2014,Ratsching/Racines,ITA,Germany,European Cup,Parallel Slalom,16,60.00
+295,Hochreiter Melanie,Female,09-03-2014,Tauplitz,AUT,Germany,FIS,Parallel Slalom,13,52.00
+296,Hochreiter Melanie,Female,08-03-2014,Tauplitz,AUT,Germany,FIS,Parallel Slalom,13,52.00
+297,Hochreiter Melanie,Female,05-03-2014,Rogla,SLO,Germany,European Cup,Parallel Slalom,33,10.80
+298,Hochreiter Melanie,Female,04-03-2014,Rogla,SLO,Germany,European Cup,Parallel GS,17,63.00
+299,Hochreiter Melanie,Female,01-03-2014,Gerlitzen,AUT,Germany,European Cup,Parallel GS,41,0.00
+300,Hochreiter Melanie,Female,22-02-2014,Gosau,AUT,Germany,FIS,Slalom,10,67.60
+301,Hochreiter Melanie,Female,22-02-2014,Gosau,AUT,Germany,FIS,Slalom,8,83.20
+302,Hochreiter Melanie,Female,16-02-2014,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,22,28.80
+303,Hochreiter Melanie,Female,15-02-2014,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,28,12.80
+304,Hochreiter Melanie,Female,01-02-2014,Sudelfeld,GER,Germany,World Cup,Parallel GS,24,70.00
+305,Hochreiter Melanie,Female,26-01-2014,Lizzola Valbondione,ITA,Germany,European Cup,Parallel Slalom,18,46.80
+306,Hochreiter Melanie,Female,25-01-2014,Lizzola Valbondione,ITA,Germany,European Cup,Parallel Slalom,10,93.60
+307,Hochreiter Melanie,Female,22-12-2013,Schönberg-Lachtal,AUT,Germany,European Cup,Parallel Slalom,2,400.00
+308,Hochreiter Melanie,Female,21-12-2013,Schönberg-Lachtal,AUT,Germany,European Cup,Parallel Slalom,136,
+309,Hochreiter Melanie,Female,15-12-2013,Samnaun,SUI,Germany,FIS,Parallel Slalom,18,
+310,Hochreiter Melanie,Female,14-12-2013,Samnaun,SUI,Germany,FIS,Parallel Slalom,2,144.00
+311,Hochreiter Melanie,Female,08-12-2013,Hochfügen,AUT,Germany,European Cup,Parallel GS,36,9.85
+312,Hochreiter Melanie,Female,07-12-2013,Hochfügen,AUT,Germany,European Cup,Parallel GS,29,18.00
+313,Hochreiter Melanie,Female,08-11-2013,Landgraaf,NED,Germany,FIS,Parallel Slalom,12,57.20
+314,Hochreiter Melanie,Female,07-11-2013,Landgraaf,NED,Germany,FIS,Parallel Slalom,12,57.20
+315,Hochreiter Melanie,Female,23-03-2013,Götschen,GER,Germany,National Championships,Parallel GS,12,79.20
+316,Hochreiter Melanie,Female,22-03-2013,Götschen,GER,Germany,National Championships,Parallel Slalom,33,8.64
+317,Hochreiter Melanie,Female,17-03-2013,Rogla,SLO,Germany,European Cup,Parallel Slalom,12,70.40
+318,Hochreiter Melanie,Female,16-03-2013,Rogla,SLO,Germany,European Cup,Parallel GS,8,102.40
+319,Hochreiter Melanie,Female,07-03-2013,Erzurum,TUR,Germany,FIS Junior World Championships,Parallel Slalom,13,72.00
+320,Hochreiter Melanie,Female,06-03-2013,Erzurum,TUR,Germany,FIS Junior World Championships,Parallel GS,14,64.80
+321,Hochreiter Melanie,Female,21-02-2013,Predeal,ROU,Germany,European Youth Olympic Festival,Parallel GS,5,54.00
+322,Hochreiter Melanie,Female,19-02-2013,Predeal,ROU,Germany,European Youth Olympic Festival,Snowboardcross,19,
+323,Hochreiter Melanie,Female,10-02-2013,Marianske Lazne,CZE,Germany,European Cup,Parallel Slalom,12,70.40
+324,Hochreiter Melanie,Female,09-02-2013,Marianske Lazne,CZE,Germany,European Cup,Parallel Slalom,14,57.60
+325,Hochreiter Melanie,Female,27-01-2013,Rossfeld,GER,Germany,Junior,Giant Slalom,DSQ,
+326,Hochreiter Melanie,Female,27-01-2013,Rossfeld,GER,Germany,Junior,Slalom,7,46.80
+327,Hochreiter Melanie,Female,26-01-2013,Rossfeld,GER,Germany,Junior,Giant Slalom,2,104.00
+328,Hochreiter Melanie,Female,26-01-2013,Rossfeld,GER,Germany,Junior,Slalom,DNF,
+329,Hochreiter Melanie,Female,20-01-2013,Vratna - Paseky,SVK,Germany,European Cup,Parallel GS,12,57.20
+330,Hochreiter Melanie,Female,19-01-2013,Vratna - Paseky,SVK,Germany,European Cup,Parallel GS,12,63.80
+331,Hochreiter Melanie,Female,16-12-2012,Racines/Ratschings,ITA,Germany,European Cup,Parallel Slalom,34,11.00
+332,Hochreiter Melanie,Female,15-12-2012,Racines/Ratschings,ITA,Germany,European Cup,Parallel Slalom,19,60.00
+333,Hochreiter Melanie,Female,09-12-2012,Lachtal,AUT,Germany,European Cup,Parallel GS,34,11.00
+334,Hochreiter Melanie,Female,08-12-2012,Lachtal,AUT,Germany,European Cup,Parallel GS,20,55.00
+335,Hochreiter Melanie,Female,20-03-2012,Rogla,SLO,Germany,European Cup,Parallel Slalom,16,54.00
+336,Hochreiter Melanie,Female,19-03-2012,Rogla,SLO,Germany,European Cup,Parallel GS,48,5.80
+337,Hochreiter Melanie,Female,18-03-2012,Tauplitz,AUT,Germany,FIS,Parallel Slalom,29,
+338,Hochreiter Melanie,Female,17-03-2012,Tauplitz,AUT,Germany,FIS,Parallel Slalom,7,79.20
+339,Hochreiter Melanie,Female,10-03-2012,Bad Gastein,AUT,Germany,European Cup,Parallel GS,28,11.60
+340,Hochreiter Melanie,Female,04-03-2012,Gerlitzen,AUT,Germany,FIS,Parallel Slalom,19,28.80
+341,Hochreiter Melanie,Female,03-03-2012,Gerlitzen,AUT,Germany,FIS,Parallel Slalom,4,120.00
+342,Hochreiter Melanie,Female,19-02-2012,Gudauri,GEO,Germany,National Championships,Parallel Slalom,3,72.00
+343,Hochreiter Melanie,Female,18-02-2012,Gudauri,GEO,Germany,National Championships,Parallel GS,3,72.00
+344,Hochreiter Melanie,Female,12-02-2012,Rossfeld,GER,Germany,Junior,Giant Slalom,8,22.40
+345,Hochreiter Melanie,Female,12-02-2012,Rossfeld,GER,Germany,Junior,Slalom,2,56.00
+346,Hochreiter Melanie,Female,11-02-2012,Gruenstein,GER,Germany,Junior,Giant Slalom,1,90.00
+347,Hochreiter Melanie,Female,11-02-2012,Gruenstein,GER,Germany,Junior,Slalom,1,90.00
+348,Hochreiter Melanie,Female,04-02-2012,Goetschen,GER,Germany,National Championships,Parallel Slalom,14,
+349,Hochreiter Melanie,Female,03-02-2012,Goetschen,GER,Germany,National Championships,Parallel GS,9,104.40
+350,Hochreiter Melanie,Female,29-01-2012,Kasberg,AUT,Germany,FIS,Parallel Slalom,2,40.00
+351,Hochreiter Melanie,Female,22-01-2012,Valgardena-S. Cristina-Seceda,ITA,Germany,FIS,Slalom,DSQ,
+352,Hochreiter Melanie,Female,21-01-2012,Valgardena-S. Cristina-Seceda,ITA,Germany,FIS,Slalom,7,93.60
+353,Hochreiter Melanie,Female,15-01-2012,Vratna,SVK,Germany,European Cup,Giant Slalom,37,5.04
+354,Hochreiter Melanie,Female,14-01-2012,Vratna,SVK,Germany,European Cup,Parallel GS,30,8.32
+355,Hochreiter Melanie,Female,08-01-2012,Kreischberg,AUT,Germany,FIS,Parallel GS,12,57.20
+356,Hochreiter Melanie,Female,07-01-2012,Kreischberg,AUT,Germany,FIS,Parallel GS,24,18.20

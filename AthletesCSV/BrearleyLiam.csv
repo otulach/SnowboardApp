@@ -1,94 +1,100 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Brearley Liam,Male,23-03-2024,Silvaplana,SUI,Canada,World Cup,Slopestyle,1,1000.00
-1,Brearley Liam,Male,21-03-2024,Silvaplana,SUI,Canada,Qualification,Slopestyle,2,
-2,Brearley Liam,Male,15-03-2024,Tignes,FRA,Canada,World Cup,Slopestyle,9,313.80
-3,Brearley Liam,Male,15-03-2024,Tignes,FRA,Canada,Qualification,Slopestyle,1,
-4,Brearley Liam,Male,20-01-2024,Laax,SUI,Canada,World Cup,Slopestyle,1,1000.00
-5,Brearley Liam,Male,16-01-2024,Laax,SUI,Canada,Qualification,Slopestyle,7,
-6,Brearley Liam,Male,15-12-2023,Copper Mountain,USA,Canada,World Cup,Big Air,5,508.10
-7,Brearley Liam,Male,13-12-2023,Copper Mountain,USA,Canada,Qualification,Big Air,2,
-8,Brearley Liam,Male,09-12-2023,Edmonton,CAN,Canada,World Cup,Big Air,7,388.60
-9,Brearley Liam,Male,08-12-2023,Edmonton,CAN,Canada,Qualification,Big Air,2,
-10,Brearley Liam,Male,02-12-2023,Beijing,CHN,Canada,World Cup,Big Air,30,78.10
-11,Brearley Liam,Male,01-12-2023,Beijing,CHN,Canada,Qualification,Big Air,16,
-12,Brearley Liam,Male,26-03-2023,Silvaplana,SUI,Canada,World Cup,Slopestyle,2,663.30
-13,Brearley Liam,Male,25-03-2023,Silvaplana,SUI,Canada,Qualification,Slopestyle,5,
-14,Brearley Liam,Male,20-03-2023,Mottolino Livigno,ITA,Canada,European Cup,Slopestyle,1,260.00
-15,Brearley Liam,Male,17-03-2023,Laax,SUI,Canada,European Cup Premium,Slopestyle,2,332.70
-16,Brearley Liam,Male,04-03-2023,Bakuriani,GEO,Canada,World Championships,Big Air,26,82.30
-17,Brearley Liam,Male,02-03-2023,Bakuriani,GEO,Canada,Qualification,Big Air,13,
-18,Brearley Liam,Male,27-02-2023,Bakuriani,GEO,Canada,World Championships,Slopestyle,22,119.30
-19,Brearley Liam,Male,24-02-2023,Bakuriani,GEO,Canada,Qualification,Slopestyle,13,
-20,Brearley Liam,Male,12-02-2023,Calgary,CAN,Canada,World Cup,Slopestyle,13,168.40
-21,Brearley Liam,Male,10-02-2023,Calgary,CAN,Canada,Qualification,Slopestyle,7,
-22,Brearley Liam,Male,04-02-2023,Mammoth Mountain,USA,Canada,World Cup,Slopestyle,9,247.90
-23,Brearley Liam,Male,01-02-2023,Mammoth Mountain,USA,Canada,Qualification,Slopestyle,6,
-24,Brearley Liam,Male,22-01-2023,Laax,SUI,Canada,World Cup,Slopestyle,16,200.80
-25,Brearley Liam,Male,18-01-2023,Laax,SUI,Canada,Qualification,Slopestyle,10,
-26,Brearley Liam,Male,27-03-2022,Silvaplana,SUI,Canada,World Cup,Slopestyle,39,45.10
-27,Brearley Liam,Male,25-03-2022,Silvaplana,SUI,Canada,Qualification,Slopestyle,20,
-28,Brearley Liam,Male,19-03-2022,Spindleruv Mlyn,CZE,Canada,World Cup,Slopestyle,5,300.60
-29,Brearley Liam,Male,18-03-2022,Spindleruv Mlyn,CZE,Canada,Qualification,Slopestyle,6,
-30,Brearley Liam,Male,08-01-2022,Mammoth Mountain,USA,Canada,World Cup,Slopestyle,39,52.40
-31,Brearley Liam,Male,04-12-2021,Steamboat,USA,Canada,World Cup,Big Air,30,129.80
-32,Brearley Liam,Male,02-12-2021,Steamboat,USA,Canada,Qualification,Big Air,17,
-33,Brearley Liam,Male,23-10-2021,Chur,SUI,Canada,World Cup,Big Air,22,144.70
-34,Brearley Liam,Male,28-03-2021,Silvaplana,SUI,Canada,World Cup,Slopestyle,2,829.86
-35,Brearley Liam,Male,28-03-2021,Silvaplana,SUI,Canada,Qualification,Slopestyle,3,
-36,Brearley Liam,Male,20-03-2021,Aspen,USA,Canada,World Cup,Slopestyle,7,392.36
-37,Brearley Liam,Male,19-03-2021,Aspen,USA,Canada,Qualification,Slopestyle,4,
-38,Brearley Liam,Male,16-03-2021,Aspen,USA,Canada,World Championships,Big Air,14,176.86
-39,Brearley Liam,Male,14-03-2021,Aspen,USA,Canada,Qualification,Big Air,7,
-40,Brearley Liam,Male,12-03-2021,Aspen,USA,Canada,World Championships,Slopestyle,45,42.62
-41,Brearley Liam,Male,10-03-2021,Aspen,USA,Canada,Qualification,Slopestyle,23,
-42,Brearley Liam,Male,22-01-2021,Laax,SUI,Canada,World Cup,Slopestyle,DNS,
-43,Brearley Liam,Male,19-01-2021,Laax,SUI,Canada,Qualification,Slopestyle,DNS,
-44,Brearley Liam,Male,09-01-2021,Kreischberg,AUT,Canada,Qualification,Big Air,4,
-45,Brearley Liam,Male,09-01-2021,Kreischberg,AUT,Canada,World Cup,Big Air,7,392.36
-46,Brearley Liam,Male,10-03-2020,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,2,120.00
-47,Brearley Liam,Male,05-03-2020,Park City,USA,Canada,Nor-Am Cup,Big Air,9,46.40
-48,Brearley Liam,Male,03-03-2020,Park City,USA,Canada,Nor-Am Cup,Slopestyle,5,162.00
-49,Brearley Liam,Male,02-03-2020,Park City,USA,Canada,Nor-Am Cup,Slopestyle,15,57.60
-50,Brearley Liam,Male,25-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,2,160.00
-51,Brearley Liam,Male,24-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,2,160.00
-52,Brearley Liam,Male,16-02-2020,Calgary,CAN,Canada,World Cup,Slopestyle,3,600.00
-53,Brearley Liam,Male,14-02-2020,Calgary,CAN,Canada,Qualification,Slopestyle,3,
-54,Brearley Liam,Male,09-02-2020,Mammoth Mountain Ski Resort,USA,Canada,Nor-Am Cup,Big Air,5,90.00
-55,Brearley Liam,Male,07-02-2020,Mammoth Mountain Ski Resort,USA,Canada,Nor-Am Cup,Slopestyle,3,144.00
-56,Brearley Liam,Male,01-02-2020,Mammoth Mountain Resort,USA,Canada,World Cup,Slopestyle,19,120.00
-57,Brearley Liam,Male,30-01-2020,Mammoth Mountain Resort,USA,Canada,Qualification,Slopestyle,10,
-58,Brearley Liam,Male,22-01-2020,Leysin,SUI,Canada,Youth Olympic Winter Games,Big Air,3,120.00
-59,Brearley Liam,Male,22-01-2020,Leysin,SUI,Canada,Qualification,Big Air,4,
-60,Brearley Liam,Male,21-01-2020,Leysin,SUI,Canada,Youth Olympic Winter Games,Halfpipe,3,156.00
-61,Brearley Liam,Male,20-01-2020,Leysin,SUI,Canada,Youth Olympic Winter Games,Slopestyle,2,144.00
-62,Brearley Liam,Male,10-01-2020,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,2,120.00
-63,Brearley Liam,Male,13-04-2019,Klaeppen,SWE,Canada,FIS Junior World Championships,Big Air,18,31.20
-64,Brearley Liam,Male,12-04-2019,Klaeppen,SWE,Canada,Qualification,Big Air,3,
-65,Brearley Liam,Male,09-04-2019,Klaeppen,SWE,Canada,FIS Junior World Championships,Slopestyle,12,52.80
-66,Brearley Liam,Male,08-04-2019,Klaeppen,SWE,Canada,Qualification,Slopestyle,1,
-67,Brearley Liam,Male,24-03-2019,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,1,100.00
-68,Brearley Liam,Male,23-03-2019,"Canada Olympic Park, AB",CAN,Canada,Nor-Am Cup,Big Air,6,64.00
-69,Brearley Liam,Male,21-03-2019,"Canada Olympic Park, AB",CAN,Canada,Nor-Am Cup,Slopestyle,15,25.60
-70,Brearley Liam,Male,13-03-2019,"Mammoth Mountain, CA",USA,Canada,Nor-Am Cup,Slopestyle,1,180.00
-71,Brearley Liam,Male,09-03-2019,Mammoth Mountain Resort,USA,Canada,World Cup,Slopestyle,48,16.10
-72,Brearley Liam,Male,07-03-2019,Mammoth Mountain Resort,USA,Canada,Qualification,Slopestyle,23,
-73,Brearley Liam,Male,07-02-2019,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,9,46.40
-74,Brearley Liam,Male,03-02-2019,Tremblant.QC,CAN,Canada,FIS,Slopestyle,1,150.00
-75,Brearley Liam,Male,02-02-2019,Tremblant.QC,CAN,Canada,FIS,Slopestyle,9,43.50
-76,Brearley Liam,Male,26-01-2019,Seiser Alm,ITA,Canada,World Cup,Slopestyle,28,40.00
-77,Brearley Liam,Male,24-01-2019,Seiser Alm,ITA,Canada,Qualification,Slopestyle,12,
-78,Brearley Liam,Male,31-08-2018,Cardrona,NZL,Canada,FIS Junior World Championships,Slopestyle,19,28.80
-79,Brearley Liam,Male,30-08-2018,Cardrona,NZL,Canada,Qualification,Slopestyle,8,
-80,Brearley Liam,Male,25-08-2018,Cardrona,NZL,Canada,FIS Junior World Championships,Big Air,23,19.20
-81,Brearley Liam,Male,24-08-2018,Cardrona,NZL,Canada,Qualification,Big Air,11,
-82,Brearley Liam,Male,11-03-2018,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,2,72.00
-83,Brearley Liam,Male,10-03-2018,"Canada Olympic Park, AB",CAN,Canada,National Championships,Big Air,12,11.00
-84,Brearley Liam,Male,08-03-2018,"Canada Olympic Park, AB",CAN,Canada,Nor-Am Cup,Slopestyle,2,128.00
-85,Brearley Liam,Male,15-02-2018,Tremblant.QC,CAN,Canada,FIS,Slopestyle,9,31.90
-86,Brearley Liam,Male,14-02-2018,Tremblant.QC,CAN,Canada,FIS,Slopestyle,2,88.00
-87,Brearley Liam,Male,09-02-2018,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,11,38.40
-88,Brearley Liam,Male,24-01-2018,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,1,160.00
-89,Brearley Liam,Male,23-01-2018,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,7,57.60
-90,Brearley Liam,Male,12-03-2017,Mount St-Louis Moonstone,CAN,Canada,National Junior Championships,Slopestyle,11,21.60
-91,Brearley Liam,Male,11-03-2017,Horseshoe Ski Resort,CAN,Canada,National Championships,Big Air,13,14.00
-92,Brearley Liam,Male,06-03-2017,Mount St-Louis Moonstone,CAN,Canada,National Junior Championships,Halfpipe,6,20.00
+0,Brearley Liam,Male,02-02-2025,Aspen,USA,Canada,World Cup,Slopestyle,5,
+1,Brearley Liam,Male,31-01-2025,Aspen,USA,Canada,Qualification,Slopestyle,2,
+2,Brearley Liam,Male,18-01-2025,Laax,SUI,Canada,World Cup,Slopestyle,4,591.60
+3,Brearley Liam,Male,16-01-2025,Laax,SUI,Canada,Qualification,Slopestyle,1,
+4,Brearley Liam,Male,01-12-2024,Beijing,CHN,Canada,World Cup,Big Air,16,195.60
+5,Brearley Liam,Male,30-11-2024,Beijing,CHN,Canada,Qualification,Big Air,9,
+6,Brearley Liam,Male,23-03-2024,Silvaplana,SUI,Canada,World Cup,Slopestyle,1,1000.00
+7,Brearley Liam,Male,21-03-2024,Silvaplana,SUI,Canada,Qualification,Slopestyle,2,
+8,Brearley Liam,Male,15-03-2024,Tignes,FRA,Canada,Qualification,Slopestyle,1,
+9,Brearley Liam,Male,15-03-2024,Tignes,FRA,Canada,World Cup,Slopestyle,9,313.80
+10,Brearley Liam,Male,20-01-2024,Laax,SUI,Canada,World Cup,Slopestyle,1,1000.00
+11,Brearley Liam,Male,16-01-2024,Laax,SUI,Canada,Qualification,Slopestyle,7,
+12,Brearley Liam,Male,15-12-2023,Copper Mountain,USA,Canada,World Cup,Big Air,5,508.10
+13,Brearley Liam,Male,13-12-2023,Copper Mountain,USA,Canada,Qualification,Big Air,2,
+14,Brearley Liam,Male,09-12-2023,Edmonton,CAN,Canada,World Cup,Big Air,7,388.60
+15,Brearley Liam,Male,08-12-2023,Edmonton,CAN,Canada,Qualification,Big Air,2,
+16,Brearley Liam,Male,02-12-2023,Beijing,CHN,Canada,World Cup,Big Air,30,78.10
+17,Brearley Liam,Male,01-12-2023,Beijing,CHN,Canada,Qualification,Big Air,16,
+18,Brearley Liam,Male,26-03-2023,Silvaplana,SUI,Canada,World Cup,Slopestyle,2,663.30
+19,Brearley Liam,Male,25-03-2023,Silvaplana,SUI,Canada,Qualification,Slopestyle,5,
+20,Brearley Liam,Male,20-03-2023,Mottolino Livigno,ITA,Canada,European Cup,Slopestyle,1,260.00
+21,Brearley Liam,Male,17-03-2023,Laax,SUI,Canada,European Cup Premium,Slopestyle,2,332.70
+22,Brearley Liam,Male,04-03-2023,Bakuriani,GEO,Canada,World Championships,Big Air,26,82.30
+23,Brearley Liam,Male,02-03-2023,Bakuriani,GEO,Canada,Qualification,Big Air,13,
+24,Brearley Liam,Male,27-02-2023,Bakuriani,GEO,Canada,World Championships,Slopestyle,22,119.30
+25,Brearley Liam,Male,24-02-2023,Bakuriani,GEO,Canada,Qualification,Slopestyle,13,
+26,Brearley Liam,Male,12-02-2023,Calgary,CAN,Canada,World Cup,Slopestyle,13,168.40
+27,Brearley Liam,Male,10-02-2023,Calgary,CAN,Canada,Qualification,Slopestyle,7,
+28,Brearley Liam,Male,04-02-2023,Mammoth Mountain,USA,Canada,World Cup,Slopestyle,9,247.90
+29,Brearley Liam,Male,01-02-2023,Mammoth Mountain,USA,Canada,Qualification,Slopestyle,6,
+30,Brearley Liam,Male,22-01-2023,Laax,SUI,Canada,World Cup,Slopestyle,16,200.80
+31,Brearley Liam,Male,18-01-2023,Laax,SUI,Canada,Qualification,Slopestyle,10,
+32,Brearley Liam,Male,27-03-2022,Silvaplana,SUI,Canada,World Cup,Slopestyle,39,45.10
+33,Brearley Liam,Male,25-03-2022,Silvaplana,SUI,Canada,Qualification,Slopestyle,20,
+34,Brearley Liam,Male,19-03-2022,Spindleruv Mlyn,CZE,Canada,World Cup,Slopestyle,5,300.60
+35,Brearley Liam,Male,18-03-2022,Spindleruv Mlyn,CZE,Canada,Qualification,Slopestyle,6,
+36,Brearley Liam,Male,08-01-2022,Mammoth Mountain,USA,Canada,World Cup,Slopestyle,39,52.40
+37,Brearley Liam,Male,04-12-2021,Steamboat,USA,Canada,World Cup,Big Air,30,129.80
+38,Brearley Liam,Male,02-12-2021,Steamboat,USA,Canada,Qualification,Big Air,17,
+39,Brearley Liam,Male,23-10-2021,Chur,SUI,Canada,World Cup,Big Air,22,144.70
+40,Brearley Liam,Male,28-03-2021,Silvaplana,SUI,Canada,World Cup,Slopestyle,2,829.86
+41,Brearley Liam,Male,28-03-2021,Silvaplana,SUI,Canada,Qualification,Slopestyle,3,
+42,Brearley Liam,Male,20-03-2021,Aspen,USA,Canada,World Cup,Slopestyle,7,392.36
+43,Brearley Liam,Male,19-03-2021,Aspen,USA,Canada,Qualification,Slopestyle,4,
+44,Brearley Liam,Male,16-03-2021,Aspen,USA,Canada,World Championships,Big Air,14,176.86
+45,Brearley Liam,Male,14-03-2021,Aspen,USA,Canada,Qualification,Big Air,7,
+46,Brearley Liam,Male,12-03-2021,Aspen,USA,Canada,World Championships,Slopestyle,45,42.62
+47,Brearley Liam,Male,10-03-2021,Aspen,USA,Canada,Qualification,Slopestyle,23,
+48,Brearley Liam,Male,22-01-2021,Laax,SUI,Canada,World Cup,Slopestyle,DNS,
+49,Brearley Liam,Male,19-01-2021,Laax,SUI,Canada,Qualification,Slopestyle,DNS,
+50,Brearley Liam,Male,09-01-2021,Kreischberg,AUT,Canada,Qualification,Big Air,4,
+51,Brearley Liam,Male,09-01-2021,Kreischberg,AUT,Canada,World Cup,Big Air,7,392.36
+52,Brearley Liam,Male,10-03-2020,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,2,120.00
+53,Brearley Liam,Male,05-03-2020,Park City,USA,Canada,Nor-Am Cup,Big Air,9,46.40
+54,Brearley Liam,Male,03-03-2020,Park City,USA,Canada,Nor-Am Cup,Slopestyle,5,162.00
+55,Brearley Liam,Male,02-03-2020,Park City,USA,Canada,Nor-Am Cup,Slopestyle,15,57.60
+56,Brearley Liam,Male,25-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,2,160.00
+57,Brearley Liam,Male,24-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,2,160.00
+58,Brearley Liam,Male,16-02-2020,Calgary,CAN,Canada,World Cup,Slopestyle,3,600.00
+59,Brearley Liam,Male,14-02-2020,Calgary,CAN,Canada,Qualification,Slopestyle,3,
+60,Brearley Liam,Male,09-02-2020,Mammoth Mountain Ski Resort,USA,Canada,Nor-Am Cup,Big Air,5,90.00
+61,Brearley Liam,Male,07-02-2020,Mammoth Mountain Ski Resort,USA,Canada,Nor-Am Cup,Slopestyle,3,144.00
+62,Brearley Liam,Male,01-02-2020,Mammoth Mountain Resort,USA,Canada,World Cup,Slopestyle,19,120.00
+63,Brearley Liam,Male,30-01-2020,Mammoth Mountain Resort,USA,Canada,Qualification,Slopestyle,10,
+64,Brearley Liam,Male,22-01-2020,Leysin,SUI,Canada,Youth Olympic Winter Games,Big Air,3,120.00
+65,Brearley Liam,Male,22-01-2020,Leysin,SUI,Canada,Qualification,Big Air,4,
+66,Brearley Liam,Male,21-01-2020,Leysin,SUI,Canada,Youth Olympic Winter Games,Halfpipe,3,156.00
+67,Brearley Liam,Male,20-01-2020,Leysin,SUI,Canada,Youth Olympic Winter Games,Slopestyle,2,144.00
+68,Brearley Liam,Male,10-01-2020,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,2,120.00
+69,Brearley Liam,Male,13-04-2019,Klaeppen,SWE,Canada,FIS Junior World Championships,Big Air,18,31.20
+70,Brearley Liam,Male,12-04-2019,Klaeppen,SWE,Canada,Qualification,Big Air,3,
+71,Brearley Liam,Male,09-04-2019,Klaeppen,SWE,Canada,FIS Junior World Championships,Slopestyle,12,52.80
+72,Brearley Liam,Male,08-04-2019,Klaeppen,SWE,Canada,Qualification,Slopestyle,1,
+73,Brearley Liam,Male,24-03-2019,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,1,100.00
+74,Brearley Liam,Male,23-03-2019,"Canada Olympic Park, AB",CAN,Canada,Nor-Am Cup,Big Air,6,64.00
+75,Brearley Liam,Male,21-03-2019,"Canada Olympic Park, AB",CAN,Canada,Nor-Am Cup,Slopestyle,15,25.60
+76,Brearley Liam,Male,13-03-2019,"Mammoth Mountain, CA",USA,Canada,Nor-Am Cup,Slopestyle,1,180.00
+77,Brearley Liam,Male,09-03-2019,Mammoth Mountain Resort,USA,Canada,World Cup,Slopestyle,48,16.10
+78,Brearley Liam,Male,07-03-2019,Mammoth Mountain Resort,USA,Canada,Qualification,Slopestyle,23,
+79,Brearley Liam,Male,07-02-2019,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,9,46.40
+80,Brearley Liam,Male,03-02-2019,Tremblant.QC,CAN,Canada,FIS,Slopestyle,1,150.00
+81,Brearley Liam,Male,02-02-2019,Tremblant.QC,CAN,Canada,FIS,Slopestyle,9,43.50
+82,Brearley Liam,Male,26-01-2019,Seiser Alm,ITA,Canada,World Cup,Slopestyle,28,40.00
+83,Brearley Liam,Male,24-01-2019,Seiser Alm,ITA,Canada,Qualification,Slopestyle,12,
+84,Brearley Liam,Male,31-08-2018,Cardrona,NZL,Canada,FIS Junior World Championships,Slopestyle,19,28.80
+85,Brearley Liam,Male,30-08-2018,Cardrona,NZL,Canada,Qualification,Slopestyle,8,
+86,Brearley Liam,Male,25-08-2018,Cardrona,NZL,Canada,FIS Junior World Championships,Big Air,23,19.20
+87,Brearley Liam,Male,24-08-2018,Cardrona,NZL,Canada,Qualification,Big Air,11,
+88,Brearley Liam,Male,11-03-2018,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,2,72.00
+89,Brearley Liam,Male,10-03-2018,"Canada Olympic Park, AB",CAN,Canada,National Championships,Big Air,12,11.00
+90,Brearley Liam,Male,08-03-2018,"Canada Olympic Park, AB",CAN,Canada,Nor-Am Cup,Slopestyle,2,128.00
+91,Brearley Liam,Male,15-02-2018,Tremblant.QC,CAN,Canada,FIS,Slopestyle,9,31.90
+92,Brearley Liam,Male,14-02-2018,Tremblant.QC,CAN,Canada,FIS,Slopestyle,2,88.00
+93,Brearley Liam,Male,09-02-2018,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,11,38.40
+94,Brearley Liam,Male,24-01-2018,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,1,160.00
+95,Brearley Liam,Male,23-01-2018,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,7,57.60
+96,Brearley Liam,Male,12-03-2017,Mount St-Louis Moonstone,CAN,Canada,National Junior Championships,Slopestyle,11,21.60
+97,Brearley Liam,Male,11-03-2017,Horseshoe Ski Resort,CAN,Canada,National Championships,Big Air,13,14.00
+98,Brearley Liam,Male,06-03-2017,Mount St-Louis Moonstone,CAN,Canada,National Junior Championships,Halfpipe,6,20.00

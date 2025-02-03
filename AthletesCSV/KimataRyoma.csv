@@ -1,95 +1,105 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Kimata Ryoma,Male,19-10-2024,Chur,SUI,Japan,World Cup,Big Air,40,33.60
-1,Kimata Ryoma,Male,02-09-2024,Cardrona,NZL,Japan,World Cup,Slopestyle,45,42.70
-2,Kimata Ryoma,Male,31-08-2024,Cardrona,NZL,Japan,Qualification,Slopestyle,22,
-3,Kimata Ryoma,Male,23-03-2024,Silvaplana,SUI,Japan,World Cup,Slopestyle,50,39.00
-4,Kimata Ryoma,Male,21-03-2024,Silvaplana,SUI,Japan,Qualification,Slopestyle,24,
-5,Kimata Ryoma,Male,15-03-2024,Tignes,FRA,Japan,Qualification,Slopestyle,2,
-6,Kimata Ryoma,Male,15-03-2024,Tignes,FRA,Japan,World Cup,Slopestyle,1,1000.00
-7,Kimata Ryoma,Male,17-02-2024,Fukushima Yama,JPN,Japan,Asian Cup,Big Air,1,360.00
-8,Kimata Ryoma,Male,20-01-2024,Laax,SUI,Japan,World Cup,Slopestyle,2,829.80
-9,Kimata Ryoma,Male,16-01-2024,Laax,SUI,Japan,Qualification,Slopestyle,9,
-10,Kimata Ryoma,Male,15-12-2023,Copper Mountain,USA,Japan,World Cup,Big Air,10,288.90
-11,Kimata Ryoma,Male,13-12-2023,Copper Mountain,USA,Japan,Qualification,Big Air,4,
-12,Kimata Ryoma,Male,09-12-2023,Edmonton,CAN,Japan,World Cup,Big Air,12,245.20
-13,Kimata Ryoma,Male,08-12-2023,Edmonton,CAN,Japan,Qualification,Big Air,5,
-14,Kimata Ryoma,Male,02-12-2023,Beijing,CHN,Japan,World Cup,Big Air,2,828.20
-15,Kimata Ryoma,Male,01-12-2023,Beijing,CHN,Japan,Qualification,Big Air,4,
-16,Kimata Ryoma,Male,21-10-2023,Chur,SUI,Japan,World Cup,Big Air,8,348.00
-17,Kimata Ryoma,Male,21-10-2023,Chur,SUI,Japan,Qualification,Big Air,3,
-18,Kimata Ryoma,Male,29-09-2023,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,5,181.00
-19,Kimata Ryoma,Male,26-03-2023,Silvaplana,SUI,Japan,World Cup,Slopestyle,14,171.40
-20,Kimata Ryoma,Male,25-03-2023,Silvaplana,SUI,Japan,Qualification,Slopestyle,2,
-21,Kimata Ryoma,Male,04-03-2023,Bakuriani,GEO,Japan,World Championships,Big Air,6,348.20
-22,Kimata Ryoma,Male,02-03-2023,Bakuriani,GEO,Japan,Qualification,Big Air,1,
-23,Kimata Ryoma,Male,27-02-2023,Bakuriani,GEO,Japan,World Championships,Slopestyle,2,663.30
-24,Kimata Ryoma,Male,24-02-2023,Bakuriani,GEO,Japan,Qualification,Slopestyle,3,
-25,Kimata Ryoma,Male,14-02-2023,Fukushima Yama,JPN,Japan,FIS,Big Air,3,151.70
-26,Kimata Ryoma,Male,04-02-2023,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,36,54.40
-27,Kimata Ryoma,Male,01-02-2023,Mammoth Mountain,USA,Japan,Qualification,Slopestyle,20,
-28,Kimata Ryoma,Male,22-01-2023,Laax,SUI,Japan,World Cup,Slopestyle,11,267.00
-29,Kimata Ryoma,Male,18-01-2023,Laax,SUI,Japan,Qualification,Slopestyle,1,
-30,Kimata Ryoma,Male,14-01-2023,Kreischberg,AUT,Japan,World Cup,Big Air,2,662.90
-31,Kimata Ryoma,Male,13-01-2023,Kreischberg,AUT,Japan,Qualification,Big Air,3,
-32,Kimata Ryoma,Male,17-12-2022,Copper Mountain,USA,Japan,World Cup,Big Air,10,230.00
-33,Kimata Ryoma,Male,15-12-2022,Copper Mountain,USA,Japan,Qualification,Big Air,3,
-34,Kimata Ryoma,Male,10-12-2022,Edmonton,CAN,Japan,World Cup,Big Air,8,277.90
-35,Kimata Ryoma,Male,09-12-2022,Edmonton,CAN,Japan,Qualification,Big Air,2,
-36,Kimata Ryoma,Male,08-10-2022,Cardrona Alpine Resort,NZL,Japan,Australian New Zealand Cup,Big Air,1,120.00
-37,Kimata Ryoma,Male,07-10-2022,Cardrona Alpine Resort,NZL,Japan,Australian New Zealand Cup,Slopestyle,1,260.00
-38,Kimata Ryoma,Male,02-09-2022,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,6,136.70
-39,Kimata Ryoma,Male,27-03-2022,Silvaplana,SUI,Japan,World Cup,Slopestyle,DNS,
-40,Kimata Ryoma,Male,25-03-2022,Silvaplana,SUI,Japan,Qualification,Slopestyle,DNS,
-41,Kimata Ryoma,Male,19-03-2022,Spindleruv Mlyn,CZE,Japan,World Cup,Slopestyle,11,149.50
-42,Kimata Ryoma,Male,18-03-2022,Spindleruv Mlyn,CZE,Japan,Qualification,Slopestyle,7,
-43,Kimata Ryoma,Male,06-03-2022,Niseko,JPN,Japan,National Championships,Big Air,9,60.40
-44,Kimata Ryoma,Male,05-03-2022,Niseko,JPN,Japan,National Championships,Slopestyle,10,55.20
-45,Kimata Ryoma,Male,15-01-2022,Laax,SUI,Japan,World Cup,Slopestyle,9,248.60
-46,Kimata Ryoma,Male,13-01-2022,Laax,SUI,Japan,Qualification,Slopestyle,10,
-47,Kimata Ryoma,Male,08-01-2022,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,14,211.50
-48,Kimata Ryoma,Male,01-01-2022,Calgary,CAN,Japan,World Cup,Slopestyle,8,341.50
-49,Kimata Ryoma,Male,31-12-2021,Calgary,CAN,Japan,Qualification,Slopestyle,3,
-50,Kimata Ryoma,Male,04-12-2021,Steamboat,USA,Japan,World Cup,Big Air,49,50.20
-51,Kimata Ryoma,Male,02-12-2021,Steamboat,USA,Japan,Qualification,Big Air,24,
-52,Kimata Ryoma,Male,22-01-2021,Laax,SUI,Japan,World Cup,Slopestyle,28,94.90
-53,Kimata Ryoma,Male,19-01-2021,Laax,SUI,Japan,Qualification,Slopestyle,28,
-54,Kimata Ryoma,Male,09-01-2021,Kreischberg,AUT,Japan,Qualification,Big Air,22,
-55,Kimata Ryoma,Male,09-01-2021,Kreischberg,AUT,Japan,World Cup,Big Air,48,54.30
-56,Kimata Ryoma,Male,16-02-2020,Calgary,CAN,Japan,World Cup,Slopestyle,14,180.00
-57,Kimata Ryoma,Male,14-02-2020,Calgary,CAN,Japan,Qualification,Slopestyle,2,
-58,Kimata Ryoma,Male,07-02-2020,Mammoth Mountain Ski Resort,USA,Japan,Nor-Am Cup,Slopestyle,10,62.40
-59,Kimata Ryoma,Male,01-02-2020,Mammoth Mountain Resort,USA,Japan,World Cup,Slopestyle,2,800.00
-60,Kimata Ryoma,Male,30-01-2020,Mammoth Mountain Resort,USA,Japan,Qualification,Slopestyle,2,
-61,Kimata Ryoma,Male,22-01-2020,Leysin,SUI,Japan,Youth Olympic Winter Games,Big Air,1,200.00
-62,Kimata Ryoma,Male,22-01-2020,Leysin,SUI,Japan,Qualification,Big Air,1,
-63,Kimata Ryoma,Male,20-01-2020,Leysin,SUI,Japan,Youth Olympic Winter Games,Slopestyle,15,28.80
-64,Kimata Ryoma,Male,20-12-2019,Atlanta,USA,Japan,World Cup,Big Air,3,600.00
-65,Kimata Ryoma,Male,14-12-2019,Beijing,CHN,Japan,World Cup,Big Air,4,500.00
-66,Kimata Ryoma,Male,12-12-2019,Beijing,CHN,Japan,Qualification,Big Air,5,
-67,Kimata Ryoma,Male,02-11-2019,Modena SKIPASS,ITA,Japan,World Cup,Big Air,4,500.00
-68,Kimata Ryoma,Male,01-09-2019,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,1,320.00
-69,Kimata Ryoma,Male,24-08-2019,Cardrona,NZL,Japan,World Cup,Big Air,12,220.00
-70,Kimata Ryoma,Male,23-08-2019,Cardrona,NZL,Japan,Qualification,Big Air,12,
-71,Kimata Ryoma,Male,15-08-2019,Cardrona Alpine Resort,NZL,Japan,Australian New Zealand Cup,Slopestyle,21,36.00
-72,Kimata Ryoma,Male,13-04-2019,Klaeppen,SWE,Japan,FIS Junior World Championships,Big Air,1,240.00
-73,Kimata Ryoma,Male,12-04-2019,Klaeppen,SWE,Japan,Qualification,Big Air,2,
-74,Kimata Ryoma,Male,09-04-2019,Klaeppen,SWE,Japan,FIS Junior World Championships,Slopestyle,60,3.00
-75,Kimata Ryoma,Male,08-04-2019,Klaeppen,SWE,Japan,Qualification,Slopestyle,16,
-76,Kimata Ryoma,Male,28-02-2019,Tokura  Katashina,JPN,Japan,National Championships,Big Air,3,72.00
-77,Kimata Ryoma,Male,27-02-2019,Tokura  Katashina,JPN,Japan,FIS,Big Air,8,22.40
-78,Kimata Ryoma,Male,26-02-2019,Tokura  Katashina,JPN,Japan,National Championships,Slopestyle,3,66.00
-79,Kimata Ryoma,Male,13-02-2019,"Copper Mountain, CO",USA,Japan,FIS,Slopestyle,1,100.00
-80,Kimata Ryoma,Male,07-02-2019,Mount St-Louis Moonstone,CAN,Japan,Nor-Am Cup,Slopestyle,20,17.60
-81,Kimata Ryoma,Male,27-01-2019,Niseko,JPN,Japan,FIS,Slopestyle,2,72.00
-82,Kimata Ryoma,Male,26-01-2019,Niseko,JPN,Japan,FIS,Slopestyle,1,90.00
-83,Kimata Ryoma,Male,15-08-2018,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,DNS,
-84,Kimata Ryoma,Male,15-03-2018,Tokura  Katashina,JPN,Japan,National Championships,Slopestyle,14,39.60
-85,Kimata Ryoma,Male,14-03-2018,Tokura  Katashina,JPN,Japan,FIS,Slopestyle,2,176.00
-86,Kimata Ryoma,Male,11-03-2018,Tokura  Katashina,JPN,Japan,National Championships,Big Air,7,54.00
-87,Kimata Ryoma,Male,10-03-2018,Tokura  Katashina,JPN,Japan,FIS,Big Air,1,150.00
-88,Kimata Ryoma,Male,09-03-2017,Tokura  Katashina,JPN,Japan,National Championships,Slopestyle,13,26.00
-89,Kimata Ryoma,Male,08-03-2017,Tokura  Katashina,JPN,Japan,FIS,Slopestyle,14,23.40
-90,Kimata Ryoma,Male,05-03-2017,Tokura  Katashina,JPN,Japan,National Championships,Big Air,16,7.50
-91,Kimata Ryoma,Male,04-03-2017,Tokura  Katashina,JPN,Japan,FIS,Big Air,DNS1,
-92,Kimata Ryoma,Male,10-03-2016,Katashina/Tokura,JPN,Japan,National Championships,Slopestyle,9,37.70
-93,Kimata Ryoma,Male,08-03-2016,Katashina/Tokura,JPN,Japan,FIS,Slopestyle,25,7.80
+0,Kimata Ryoma,Male,02-02-2025,Aspen,USA,Japan,World Cup,Slopestyle,22,
+1,Kimata Ryoma,Male,31-01-2025,Aspen,USA,Japan,Qualification,Slopestyle,14,
+2,Kimata Ryoma,Male,18-01-2025,Laax,SUI,Japan,World Cup,Slopestyle,28,136.60
+3,Kimata Ryoma,Male,16-01-2025,Laax,SUI,Japan,Qualification,Slopestyle,16,
+4,Kimata Ryoma,Male,11-01-2025,Kreischberg,AUT,Japan,Qualification,Big Air,25,
+5,Kimata Ryoma,Male,11-01-2025,Kreischberg,AUT,Japan,World Cup,Big Air,48,32.60
+6,Kimata Ryoma,Male,05-01-2025,Klagenfurt,AUT,Japan,Qualification,Big Air,2,
+7,Kimata Ryoma,Male,05-01-2025,Klagenfurt,AUT,Japan,World Cup,Big Air,6,437.80
+8,Kimata Ryoma,Male,01-12-2024,Beijing,CHN,Japan,World Cup,Big Air,8,346.80
+9,Kimata Ryoma,Male,30-11-2024,Beijing,CHN,Japan,Qualification,Big Air,1,
+10,Kimata Ryoma,Male,19-10-2024,Chur,SUI,Japan,World Cup,Big Air,40,33.60
+11,Kimata Ryoma,Male,02-09-2024,Cardrona,NZL,Japan,World Cup,Slopestyle,45,42.70
+12,Kimata Ryoma,Male,31-08-2024,Cardrona,NZL,Japan,Qualification,Slopestyle,22,
+13,Kimata Ryoma,Male,23-03-2024,Silvaplana,SUI,Japan,World Cup,Slopestyle,50,39.00
+14,Kimata Ryoma,Male,21-03-2024,Silvaplana,SUI,Japan,Qualification,Slopestyle,24,
+15,Kimata Ryoma,Male,15-03-2024,Tignes,FRA,Japan,Qualification,Slopestyle,2,
+16,Kimata Ryoma,Male,15-03-2024,Tignes,FRA,Japan,World Cup,Slopestyle,1,1000.00
+17,Kimata Ryoma,Male,17-02-2024,Fukushima Yama,JPN,Japan,Asian Cup,Big Air,1,360.00
+18,Kimata Ryoma,Male,20-01-2024,Laax,SUI,Japan,World Cup,Slopestyle,2,829.80
+19,Kimata Ryoma,Male,16-01-2024,Laax,SUI,Japan,Qualification,Slopestyle,9,
+20,Kimata Ryoma,Male,15-12-2023,Copper Mountain,USA,Japan,World Cup,Big Air,10,288.90
+21,Kimata Ryoma,Male,13-12-2023,Copper Mountain,USA,Japan,Qualification,Big Air,4,
+22,Kimata Ryoma,Male,09-12-2023,Edmonton,CAN,Japan,World Cup,Big Air,12,245.20
+23,Kimata Ryoma,Male,08-12-2023,Edmonton,CAN,Japan,Qualification,Big Air,5,
+24,Kimata Ryoma,Male,02-12-2023,Beijing,CHN,Japan,World Cup,Big Air,2,828.20
+25,Kimata Ryoma,Male,01-12-2023,Beijing,CHN,Japan,Qualification,Big Air,4,
+26,Kimata Ryoma,Male,21-10-2023,Chur,SUI,Japan,Qualification,Big Air,3,
+27,Kimata Ryoma,Male,21-10-2023,Chur,SUI,Japan,World Cup,Big Air,8,348.00
+28,Kimata Ryoma,Male,29-09-2023,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,5,181.00
+29,Kimata Ryoma,Male,26-03-2023,Silvaplana,SUI,Japan,World Cup,Slopestyle,14,171.40
+30,Kimata Ryoma,Male,25-03-2023,Silvaplana,SUI,Japan,Qualification,Slopestyle,2,
+31,Kimata Ryoma,Male,04-03-2023,Bakuriani,GEO,Japan,World Championships,Big Air,6,348.20
+32,Kimata Ryoma,Male,02-03-2023,Bakuriani,GEO,Japan,Qualification,Big Air,1,
+33,Kimata Ryoma,Male,27-02-2023,Bakuriani,GEO,Japan,World Championships,Slopestyle,2,663.30
+34,Kimata Ryoma,Male,24-02-2023,Bakuriani,GEO,Japan,Qualification,Slopestyle,3,
+35,Kimata Ryoma,Male,14-02-2023,Fukushima Yama,JPN,Japan,FIS,Big Air,3,151.70
+36,Kimata Ryoma,Male,04-02-2023,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,36,54.40
+37,Kimata Ryoma,Male,01-02-2023,Mammoth Mountain,USA,Japan,Qualification,Slopestyle,20,
+38,Kimata Ryoma,Male,22-01-2023,Laax,SUI,Japan,World Cup,Slopestyle,11,267.00
+39,Kimata Ryoma,Male,18-01-2023,Laax,SUI,Japan,Qualification,Slopestyle,1,
+40,Kimata Ryoma,Male,14-01-2023,Kreischberg,AUT,Japan,World Cup,Big Air,2,662.90
+41,Kimata Ryoma,Male,13-01-2023,Kreischberg,AUT,Japan,Qualification,Big Air,3,
+42,Kimata Ryoma,Male,17-12-2022,Copper Mountain,USA,Japan,World Cup,Big Air,10,230.00
+43,Kimata Ryoma,Male,15-12-2022,Copper Mountain,USA,Japan,Qualification,Big Air,3,
+44,Kimata Ryoma,Male,10-12-2022,Edmonton,CAN,Japan,World Cup,Big Air,8,277.90
+45,Kimata Ryoma,Male,09-12-2022,Edmonton,CAN,Japan,Qualification,Big Air,2,
+46,Kimata Ryoma,Male,08-10-2022,Cardrona Alpine Resort,NZL,Japan,Australian New Zealand Cup,Big Air,1,120.00
+47,Kimata Ryoma,Male,07-10-2022,Cardrona Alpine Resort,NZL,Japan,Australian New Zealand Cup,Slopestyle,1,260.00
+48,Kimata Ryoma,Male,02-09-2022,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,6,136.70
+49,Kimata Ryoma,Male,27-03-2022,Silvaplana,SUI,Japan,World Cup,Slopestyle,DNS,
+50,Kimata Ryoma,Male,25-03-2022,Silvaplana,SUI,Japan,Qualification,Slopestyle,DNS,
+51,Kimata Ryoma,Male,19-03-2022,Spindleruv Mlyn,CZE,Japan,World Cup,Slopestyle,11,149.50
+52,Kimata Ryoma,Male,18-03-2022,Spindleruv Mlyn,CZE,Japan,Qualification,Slopestyle,7,
+53,Kimata Ryoma,Male,06-03-2022,Niseko,JPN,Japan,National Championships,Big Air,9,60.40
+54,Kimata Ryoma,Male,05-03-2022,Niseko,JPN,Japan,National Championships,Slopestyle,10,55.20
+55,Kimata Ryoma,Male,15-01-2022,Laax,SUI,Japan,World Cup,Slopestyle,9,248.60
+56,Kimata Ryoma,Male,13-01-2022,Laax,SUI,Japan,Qualification,Slopestyle,10,
+57,Kimata Ryoma,Male,08-01-2022,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,14,211.50
+58,Kimata Ryoma,Male,01-01-2022,Calgary,CAN,Japan,World Cup,Slopestyle,8,341.50
+59,Kimata Ryoma,Male,31-12-2021,Calgary,CAN,Japan,Qualification,Slopestyle,3,
+60,Kimata Ryoma,Male,04-12-2021,Steamboat,USA,Japan,World Cup,Big Air,49,50.20
+61,Kimata Ryoma,Male,02-12-2021,Steamboat,USA,Japan,Qualification,Big Air,24,
+62,Kimata Ryoma,Male,22-01-2021,Laax,SUI,Japan,World Cup,Slopestyle,28,94.90
+63,Kimata Ryoma,Male,19-01-2021,Laax,SUI,Japan,Qualification,Slopestyle,28,
+64,Kimata Ryoma,Male,09-01-2021,Kreischberg,AUT,Japan,Qualification,Big Air,22,
+65,Kimata Ryoma,Male,09-01-2021,Kreischberg,AUT,Japan,World Cup,Big Air,48,54.30
+66,Kimata Ryoma,Male,16-02-2020,Calgary,CAN,Japan,World Cup,Slopestyle,14,180.00
+67,Kimata Ryoma,Male,14-02-2020,Calgary,CAN,Japan,Qualification,Slopestyle,2,
+68,Kimata Ryoma,Male,07-02-2020,Mammoth Mountain Ski Resort,USA,Japan,Nor-Am Cup,Slopestyle,10,62.40
+69,Kimata Ryoma,Male,01-02-2020,Mammoth Mountain Resort,USA,Japan,World Cup,Slopestyle,2,800.00
+70,Kimata Ryoma,Male,30-01-2020,Mammoth Mountain Resort,USA,Japan,Qualification,Slopestyle,2,
+71,Kimata Ryoma,Male,22-01-2020,Leysin,SUI,Japan,Qualification,Big Air,1,
+72,Kimata Ryoma,Male,22-01-2020,Leysin,SUI,Japan,Youth Olympic Winter Games,Big Air,1,200.00
+73,Kimata Ryoma,Male,20-01-2020,Leysin,SUI,Japan,Youth Olympic Winter Games,Slopestyle,15,28.80
+74,Kimata Ryoma,Male,20-12-2019,Atlanta,USA,Japan,World Cup,Big Air,3,600.00
+75,Kimata Ryoma,Male,14-12-2019,Beijing,CHN,Japan,World Cup,Big Air,4,500.00
+76,Kimata Ryoma,Male,12-12-2019,Beijing,CHN,Japan,Qualification,Big Air,5,
+77,Kimata Ryoma,Male,02-11-2019,Modena SKIPASS,ITA,Japan,World Cup,Big Air,4,500.00
+78,Kimata Ryoma,Male,01-09-2019,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,1,320.00
+79,Kimata Ryoma,Male,24-08-2019,Cardrona,NZL,Japan,World Cup,Big Air,12,220.00
+80,Kimata Ryoma,Male,23-08-2019,Cardrona,NZL,Japan,Qualification,Big Air,12,
+81,Kimata Ryoma,Male,15-08-2019,Cardrona Alpine Resort,NZL,Japan,Australian New Zealand Cup,Slopestyle,21,36.00
+82,Kimata Ryoma,Male,13-04-2019,Klaeppen,SWE,Japan,FIS Junior World Championships,Big Air,1,240.00
+83,Kimata Ryoma,Male,12-04-2019,Klaeppen,SWE,Japan,Qualification,Big Air,2,
+84,Kimata Ryoma,Male,09-04-2019,Klaeppen,SWE,Japan,FIS Junior World Championships,Slopestyle,60,3.00
+85,Kimata Ryoma,Male,08-04-2019,Klaeppen,SWE,Japan,Qualification,Slopestyle,16,
+86,Kimata Ryoma,Male,28-02-2019,Tokura  Katashina,JPN,Japan,National Championships,Big Air,3,72.00
+87,Kimata Ryoma,Male,27-02-2019,Tokura  Katashina,JPN,Japan,FIS,Big Air,8,22.40
+88,Kimata Ryoma,Male,26-02-2019,Tokura  Katashina,JPN,Japan,National Championships,Slopestyle,3,66.00
+89,Kimata Ryoma,Male,13-02-2019,"Copper Mountain, CO",USA,Japan,FIS,Slopestyle,1,100.00
+90,Kimata Ryoma,Male,07-02-2019,Mount St-Louis Moonstone,CAN,Japan,Nor-Am Cup,Slopestyle,20,17.60
+91,Kimata Ryoma,Male,27-01-2019,Niseko,JPN,Japan,FIS,Slopestyle,2,72.00
+92,Kimata Ryoma,Male,26-01-2019,Niseko,JPN,Japan,FIS,Slopestyle,1,90.00
+93,Kimata Ryoma,Male,15-08-2018,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,DNS,
+94,Kimata Ryoma,Male,15-03-2018,Tokura  Katashina,JPN,Japan,National Championships,Slopestyle,14,39.60
+95,Kimata Ryoma,Male,14-03-2018,Tokura  Katashina,JPN,Japan,FIS,Slopestyle,2,176.00
+96,Kimata Ryoma,Male,11-03-2018,Tokura  Katashina,JPN,Japan,National Championships,Big Air,7,54.00
+97,Kimata Ryoma,Male,10-03-2018,Tokura  Katashina,JPN,Japan,FIS,Big Air,1,150.00
+98,Kimata Ryoma,Male,09-03-2017,Tokura  Katashina,JPN,Japan,National Championships,Slopestyle,13,26.00
+99,Kimata Ryoma,Male,08-03-2017,Tokura  Katashina,JPN,Japan,FIS,Slopestyle,14,23.40
+100,Kimata Ryoma,Male,05-03-2017,Tokura  Katashina,JPN,Japan,National Championships,Big Air,16,7.50
+101,Kimata Ryoma,Male,04-03-2017,Tokura  Katashina,JPN,Japan,FIS,Big Air,DNS1,
+102,Kimata Ryoma,Male,10-03-2016,Katashina/Tokura,JPN,Japan,National Championships,Slopestyle,9,37.70
+103,Kimata Ryoma,Male,08-03-2016,Katashina/Tokura,JPN,Japan,FIS,Slopestyle,25,7.80

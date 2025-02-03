@@ -1,23 +1,25 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Starecek Jiri,Male,06-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Slalom,20,12.10
-1,Starecek Jiri,Male,16-01-2022,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,21,11.00
-2,Starecek Jiri,Male,15-01-2022,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,27,4.95
-3,Starecek Jiri,Male,01-03-2020,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,21,
-4,Starecek Jiri,Male,29-02-2020,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Giant Slalom,17,9.80
-5,Starecek Jiri,Male,15-02-2020,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,15,8.00
-6,Starecek Jiri,Male,17-02-2019,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,17,7.00
-7,Starecek Jiri,Male,16-02-2019,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Giant Slalom,17,7.00
-8,Starecek Jiri,Male,20-01-2019,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,14,12.60
-9,Starecek Jiri,Male,19-01-2019,Dolni Morava,CZE,Czechia,FIS,Parallel GS,11,12.00
-10,Starecek Jiri,Male,17-03-2018,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel GS,23,
-11,Starecek Jiri,Male,18-02-2018,Vysna Boca,SVK,Czechia,FIS,Parallel GS,20,
-12,Starecek Jiri,Male,17-02-2018,Vysna Boca,SVK,Czechia,FIS,Parallel Slalom,DSQ,
-13,Starecek Jiri,Male,07-01-2018,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,DNS,
-14,Starecek Jiri,Male,06-01-2018,Pec pod Snezkou,CZE,Czechia,FIS,Parallel GS,DNS,
-15,Starecek Jiri,Male,05-03-2017,Herlikovice,CZE,Czechia,FIS,Parallel Slalom,25,
-16,Starecek Jiri,Male,04-03-2017,Herlikovice,CZE,Czechia,FIS,Parallel GS,21,5.00
-17,Starecek Jiri,Male,04-02-2017,Klinovec,CZE,Czechia,FIS,Parallel GS,DNS,
-18,Starecek Jiri,Male,27-03-2016,Pec Pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,29,
-19,Starecek Jiri,Male,26-03-2016,Pec Pod Snezkou,CZE,Czechia,FIS,Parallel GS,21,5.00
-20,Starecek Jiri,Male,07-02-2016,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,19,6.00
-21,Starecek Jiri,Male,06-02-2016,Dolni Morava,CZE,Czechia,FIS,Parallel GS,20,5.50
+0,Starecek Jiri,Male,19-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,26,
+1,Starecek Jiri,Male,18-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,23,7.20
+2,Starecek Jiri,Male,06-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Slalom,20,12.10
+3,Starecek Jiri,Male,16-01-2022,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,21,11.00
+4,Starecek Jiri,Male,15-01-2022,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,27,4.95
+5,Starecek Jiri,Male,01-03-2020,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,21,
+6,Starecek Jiri,Male,29-02-2020,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Giant Slalom,17,9.80
+7,Starecek Jiri,Male,15-02-2020,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,15,8.00
+8,Starecek Jiri,Male,17-02-2019,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,17,7.00
+9,Starecek Jiri,Male,16-02-2019,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Giant Slalom,17,7.00
+10,Starecek Jiri,Male,20-01-2019,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,14,12.60
+11,Starecek Jiri,Male,19-01-2019,Dolni Morava,CZE,Czechia,FIS,Parallel GS,11,12.00
+12,Starecek Jiri,Male,17-03-2018,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel GS,23,
+13,Starecek Jiri,Male,18-02-2018,Vysna Boca,SVK,Czechia,FIS,Parallel GS,20,
+14,Starecek Jiri,Male,17-02-2018,Vysna Boca,SVK,Czechia,FIS,Parallel Slalom,DSQ,
+15,Starecek Jiri,Male,07-01-2018,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,DNS,
+16,Starecek Jiri,Male,06-01-2018,Pec pod Snezkou,CZE,Czechia,FIS,Parallel GS,DNS,
+17,Starecek Jiri,Male,05-03-2017,Herlikovice,CZE,Czechia,FIS,Parallel Slalom,25,
+18,Starecek Jiri,Male,04-03-2017,Herlikovice,CZE,Czechia,FIS,Parallel GS,21,5.00
+19,Starecek Jiri,Male,04-02-2017,Klinovec,CZE,Czechia,FIS,Parallel GS,DNS,
+20,Starecek Jiri,Male,27-03-2016,Pec Pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,29,
+21,Starecek Jiri,Male,26-03-2016,Pec Pod Snezkou,CZE,Czechia,FIS,Parallel GS,21,5.00
+22,Starecek Jiri,Male,07-02-2016,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,19,6.00
+23,Starecek Jiri,Male,06-02-2016,Dolni Morava,CZE,Czechia,FIS,Parallel GS,20,5.50

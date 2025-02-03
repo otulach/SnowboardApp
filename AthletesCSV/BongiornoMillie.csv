@@ -1,217 +1,248 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Bongiorno Millie,Female,09-02-2024,Funes - Vilnoess,ITA,Australia,National Championships,Parallel Slalom,12,63.80
-1,Bongiorno Millie,Female,08-02-2024,Funes - Vilnoess,ITA,Australia,National Championships,Parallel Giant Slalom,14,52.20
-2,Bongiorno Millie,Female,28-01-2024,Simonhöhe,AUT,Australia,World Cup,Parallel Giant Slalom Team,23,
-3,Bongiorno Millie,Female,27-01-2024,Simonhöhe,AUT,Australia,Qualification,Parallel Giant Slalom,25,
-4,Bongiorno Millie,Female,27-01-2024,Simonhöhe,AUT,Australia,World Cup,Parallel Giant Slalom,25,60.00
-5,Bongiorno Millie,Female,24-01-2024,Pamporovo,BUL,Australia,European Cup,Parallel Slalom,3,174.00
-6,Bongiorno Millie,Female,23-01-2024,Pamporovo,BUL,Australia,European Cup,Parallel Slalom,6,116.00
-7,Bongiorno Millie,Female,21-01-2024,Pamporovo,BUL,Australia,Qualification,Parallel Slalom,18,
-8,Bongiorno Millie,Female,21-01-2024,Pamporovo,BUL,Australia,World Cup,Parallel Slalom,18,130.00
-9,Bongiorno Millie,Female,20-01-2024,Pamporovo,BUL,Australia,Qualification,Parallel Slalom,22,
-10,Bongiorno Millie,Female,20-01-2024,Pamporovo,BUL,Australia,World Cup,Parallel Slalom,22,90.00
-11,Bongiorno Millie,Female,16-01-2024,Bad Gastein,AUT,Australia,Qualification,Parallel Slalom,24,
-12,Bongiorno Millie,Female,16-01-2024,Bad Gastein,AUT,Australia,World Cup,Parallel Slalom,24,70.00
-13,Bongiorno Millie,Female,13-01-2024,Scuol,SUI,Australia,Qualification,Parallel Giant Slalom,DSQ,
-14,Bongiorno Millie,Female,13-01-2024,Scuol,SUI,Australia,World Cup,Parallel Giant Slalom,DSQ,
-15,Bongiorno Millie,Female,23-12-2023,Davos ,SUI,Australia,Qualification,Parallel Slalom,27,
-16,Bongiorno Millie,Female,23-12-2023,Davos,SUI,Australia,World Cup,Parallel Slalom,27,45.00
-17,Bongiorno Millie,Female,20-12-2023,Moninec,CZE,Australia,European Cup,Parallel Slalom,13,52.00
-18,Bongiorno Millie,Female,19-12-2023,Moninec,CZE,Australia,European Cup,Parallel Slalom,16,39.00
-19,Bongiorno Millie,Female,16-12-2023,Cortina d'Ampezzo,ITA,Australia,Qualification,Parallel Giant Slalom,29,
-20,Bongiorno Millie,Female,16-12-2023,Cortina d'Ampezzo,ITA,Australia,World Cup,Parallel Giant Slalom,29,36.00
-21,Bongiorno Millie,Female,14-12-2023,Carezza,ITA,Australia,Qualification,Parallel Giant Slalom,24,
-22,Bongiorno Millie,Female,14-12-2023,Carezza,ITA,Australia,World Cup,Parallel Giant Slalom,24,70.00
-23,Bongiorno Millie,Female,09-12-2023,Götschen,GER,Australia,Qualification,Parallel Slalom,DNS,
-24,Bongiorno Millie,Female,09-12-2023,Götschen,GER,Australia,European Cup,Parallel Slalom,DNS,
-25,Bongiorno Millie,Female,08-12-2023,Götschen,GER,Australia,Qualification,Parallel Slalom,36,
-26,Bongiorno Millie,Female,08-12-2023,Götschen,GER,Australia,European Cup,Parallel Slalom,36,7.09
-27,Bongiorno Millie,Female,19-03-2023,Ratschings,ITA,Australia,European Cup,Parallel Slalom,13,52.00
-28,Bongiorno Millie,Female,18-03-2023,Ratschings,ITA,Australia,European Cup,Parallel Slalom,22,23.40
-29,Bongiorno Millie,Female,15-03-2023,Rogla,SLO,Australia,World Cup,Parallel Giant Slalom,29,36.00
-30,Bongiorno Millie,Female,15-03-2023,Rogla,SLO,Australia,Qualification,Parallel Giant Slalom,29,
-31,Bongiorno Millie,Female,12-03-2023,Davos,SUI,Australia,European Cup,Parallel Slalom,17,36.40
-32,Bongiorno Millie,Female,11-03-2023,Davos,SUI,Australia,European Cup,Parallel Slalom,22,32.40
-33,Bongiorno Millie,Female,05-03-2023,Zakopane,POL,Australia,European Cup,Parallel Giant Slalom,18,37.70
-34,Bongiorno Millie,Female,04-03-2023,Zakopane,POL,Australia,European Cup,Parallel Giant Slalom,21,36.00
-35,Bongiorno Millie,Female,21-02-2023,Bakuriani,GEO,Australia,Qualification,Parallel Slalom,31,
-36,Bongiorno Millie,Female,21-02-2023,Bakuriani,GEO,Australia,World Championships,Parallel Slalom,31,28.00
-37,Bongiorno Millie,Female,19-02-2023,Bakuriani,GEO,Australia,Qualification,Parallel Giant Slalom,33,
-38,Bongiorno Millie,Female,19-02-2023,Bakuriani,GEO,Australia,World Championships,Parallel Giant Slalom,33,24.00
-39,Bongiorno Millie,Female,12-02-2023,Funes - Vilnoess,ITA,Australia,FIS,Parallel Giant Slalom,15,32.00
-40,Bongiorno Millie,Female,11-02-2023,Funes - Vilnoess,ITA,Australia,FIS,Parallel Giant Slalom,23,16.00
-41,Bongiorno Millie,Female,05-02-2023,Lenzerheide,SUI,Australia,European Cup,Parallel Slalom,27,
-42,Bongiorno Millie,Female,29-01-2023,Simonhöhe,AUT,Australia,European Cup,Parallel Giant Slalom,15,38.40
-43,Bongiorno Millie,Female,29-01-2023,Simonhöhe,AUT,Australia,Qualification,Parallel Giant Slalom,15,
-44,Bongiorno Millie,Female,28-01-2023,Simonhöhe,AUT,Australia,European Cup,Parallel Giant Slalom,28,9.60
-45,Bongiorno Millie,Female,28-01-2023,Simonhöhe,AUT,Australia,Qualification,Parallel Giant Slalom,28,
-46,Bongiorno Millie,Female,22-01-2023,Bansko,BUL,Australia,Qualification,Parallel Slalom,19,
-47,Bongiorno Millie,Female,22-01-2023,Bansko,BUL,Australia,World Cup,Parallel Slalom,19,120.00
-48,Bongiorno Millie,Female,21-01-2023,Bansko,BUL,Australia,Qualification,Parallel Slalom,24,
-49,Bongiorno Millie,Female,21-01-2023,Bansko,BUL,Australia,World Cup,Parallel Slalom,24,70.00
-50,Bongiorno Millie,Female,15-01-2023,Alleghe,ITA,Australia,European Cup,Parallel Slalom,14,39.60
-51,Bongiorno Millie,Female,15-01-2023,Alleghe,ITA,Australia,Qualification,Parallel Slalom,14,
-52,Bongiorno Millie,Female,14-01-2023,Alleghe,ITA,Australia,European Cup,Parallel Slalom,12,44.00
-53,Bongiorno Millie,Female,14-01-2023,Alleghe,ITA,Australia,Qualification,Parallel Slalom,10,
-54,Bongiorno Millie,Female,20-03-2022,Berchtesgaden,GER,Australia,World Cup,Parallel  Slalom Team,23,
-55,Bongiorno Millie,Female,19-03-2022,Berchtesgaden,GER,Australia,Qualification,Parallel Slalom,28,
-56,Bongiorno Millie,Female,19-03-2022,Berchtesgaden,GER,Australia,World Cup,Parallel Slalom,28,40.00
-57,Bongiorno Millie,Female,17-03-2022,Rogla,SLO,Australia,European Cup,Parallel Giant Slalom,12,79.20
-58,Bongiorno Millie,Female,16-03-2022,Rogla,SLO,Australia,Qualification,Parallel Giant Slalom,25,
-59,Bongiorno Millie,Female,16-03-2022,Rogla,SLO,Australia,World Cup,Parallel Giant Slalom,25,60.00
-60,Bongiorno Millie,Female,13-03-2022,Piancavallo,ITA,Australia,World Cup,Parallel Slalom Team,19,
-61,Bongiorno Millie,Female,12-03-2022,Piancavallo,ITA,Australia,Qualification,Parallel Slalom,21,
-62,Bongiorno Millie,Female,12-03-2022,Piancavallo,ITA,Australia,World Cup,Parallel Slalom,21,100.00
-63,Bongiorno Millie,Female,06-03-2022,Lachtal,AUT,Australia,European Cup,Parallel Giant Slalom,19,43.20
-64,Bongiorno Millie,Female,05-03-2022,Lachtal,AUT,Australia,European Cup,Parallel Giant Slalom,23,28.80
-65,Bongiorno Millie,Female,20-02-2022,Bakuriani,GEO,Australia,European Cup,Parallel Giant Slalom,13,72.00
-66,Bongiorno Millie,Female,19-02-2022,Bakuriani,GEO,Australia,European Cup,Parallel Giant Slalom,20,39.60
-67,Bongiorno Millie,Female,06-02-2022,Lenzerheide,SUI,Australia,European Cup,Parallel Slalom,8,83.20
-68,Bongiorno Millie,Female,05-02-2022,Lenzerheide,SUI,Australia,European Cup,Parallel Slalom,6,104.00
-69,Bongiorno Millie,Female,30-01-2022,Davos,SUI,Australia,European Cup,Parallel Slalom,9,69.60
-70,Bongiorno Millie,Female,29-01-2022,Davos,SUI,Australia,European Cup,Parallel Slalom,2,192.00
-71,Bongiorno Millie,Female,23-01-2022,Bukovel,UKR,Australia,European Cup,Parallel Giant Slalom,2,208.00
-72,Bongiorno Millie,Female,22-01-2022,Bukovel,UKR,Australia,European Cup,Parallel Giant Slalom,16,39.00
-73,Bongiorno Millie,Female,15-01-2022,Simonhöhe,AUT,Australia,World Cup,Parallel Giant Slalom Team,24,
-74,Bongiorno Millie,Female,14-01-2022,Simonhöhe,AUT,Australia,World Cup,Parallel Giant Slalom,45,17.00
-75,Bongiorno Millie,Female,14-01-2022,Simonhöhe,AUT,Australia,Qualification,Parallel Giant Slalom,45,
-76,Bongiorno Millie,Female,11-01-2022,Bad Gastein,AUT,Australia,Qualification,Parallel Slalom,28,
-77,Bongiorno Millie,Female,11-01-2022,Bad Gastein,AUT,Australia,World Cup,Parallel Slalom,28,40.00
-78,Bongiorno Millie,Female,08-01-2022,Scuol,SUI,Australia,Qualification,Parallel Giant Slalom,35,
-79,Bongiorno Millie,Female,08-01-2022,Scuol,SUI,Australia,World Cup,Parallel Giant Slalom,35,20.00
-80,Bongiorno Millie,Female,18-12-2021,Cortina d Ampezzo,ITA,Australia,Qualification,Parallel Giant Slalom,45,
-81,Bongiorno Millie,Female,18-12-2021,Cortina d Ampezzo,ITA,Australia,World Cup,Parallel Giant Slalom,45,17.00
-82,Bongiorno Millie,Female,16-12-2021,Carezza,ITA,Australia,Qualification,Parallel Giant Slalom,45,
-83,Bongiorno Millie,Female,16-12-2021,Carezza,ITA,Australia,World Cup,Parallel Giant Slalom,45,17.00
-84,Bongiorno Millie,Female,12-12-2021,Bannoye,RUS,Australia,Qualification,Parallel Slalom,51,
-85,Bongiorno Millie,Female,12-12-2021,Bannoye,RUS,Australia,World Cup,Parallel Slalom,51,
-86,Bongiorno Millie,Female,11-12-2021,Bannoye,RUS,Australia,Qualification,Parallel Giant Slalom,50,
-87,Bongiorno Millie,Female,11-12-2021,Bannoye,RUS,Australia,World Cup,Parallel Giant Slalom,50,
-88,Bongiorno Millie,Female,20-03-2021,Berchtesgaden,GER,Australia,Qualification,Parallel Slalom,38,
-89,Bongiorno Millie,Female,20-03-2021,Berchtesgaden,GER,Australia,World Cup,Parallel Slalom,38,19.10
-90,Bongiorno Millie,Female,13-03-2021,Davos Rinerhorn,SUI,Australia,European Cup,Parallel Giant Slalom,27,16.20
-91,Bongiorno Millie,Female,06-03-2021,Rogla,SLO,Australia,Qualification,Parallel Giant Slalom,39,
-92,Bongiorno Millie,Female,06-03-2021,Rogla,SLO,Australia,World Cup,Parallel Giant Slalom,39,18.80
-93,Bongiorno Millie,Female,02-03-2021,Rogla,SLO,Australia,World Championships,Parallel Slalom,39,18.80
-94,Bongiorno Millie,Female,02-03-2021,Rogla,SLO,Australia,Qualification,Parallel Slalom,39,
-95,Bongiorno Millie,Female,01-03-2021,Rogla,SLO,Australia,World Championships,Parallel Giant Slalom,DSQ,
-96,Bongiorno Millie,Female,01-03-2021,Rogla,SLO,Australia,Qualification,Parallel Giant Slalom,DSQ,
-97,Bongiorno Millie,Female,28-02-2021,Funes/Villnoesses,ITA,Australia,European Cup,Parallel Giant Slalom,8,57.60
-98,Bongiorno Millie,Female,27-02-2021,Funes/Villnoesses,ITA,Australia,European Cup,Parallel Giant Slalom,13,44.00
-99,Bongiorno Millie,Female,21-02-2021,Gerlitzen,AUT,Australia,National Championships,Parallel Slalom,DNS,
-100,Bongiorno Millie,Female,20-02-2021,Gerlitzen,AUT,Australia,National Championships,Parallel Giant Slalom,42,
-101,Bongiorno Millie,Female,07-02-2021,Lenzerheide,SUI,Australia,European Cup,Parallel Slalom,5,108.00
-102,Bongiorno Millie,Female,06-02-2021,Lenzerheide,SUI,Australia,European Cup,Parallel Slalom,11,57.60
-103,Bongiorno Millie,Female,24-01-2021,Davos,SUI,Australia,European Cup,Parallel Slalom,25,21.60
-104,Bongiorno Millie,Female,23-01-2021,Davos,SUI,Australia,European Cup,Parallel Slalom,22,32.40
-105,Bongiorno Millie,Female,17-01-2021,Simonhoehe,AUT,Australia,European Cup,Parallel Giant Slalom,34,7.92
-106,Bongiorno Millie,Female,16-01-2021,Simonhoehe,AUT,Australia,European Cup,Parallel Giant Slalom,39,6.77
-107,Bongiorno Millie,Female,12-01-2021,Bad Gastein,AUT,Australia,Qualification,Parallel Slalom,39,
-108,Bongiorno Millie,Female,12-01-2021,Bad Gastein,AUT,Australia,World Cup,Parallel Slalom,39,18.80
-109,Bongiorno Millie,Female,09-01-2021,Scuol,SUI,Australia,Qualification,Parallel Giant Slalom,40,
-110,Bongiorno Millie,Female,09-01-2021,Scuol,SUI,Australia,World Cup,Parallel Giant Slalom,40,18.50
-111,Bongiorno Millie,Female,17-12-2020,Carezza,ITA,Australia,Qualification,Parallel Giant Slalom,37,
-112,Bongiorno Millie,Female,17-12-2020,Carezza,ITA,Australia,World Cup,Parallel Giant Slalom,37,19.40
-113,Bongiorno Millie,Female,12-12-2020,Cortina d Ampezzo,ITA,Australia,Qualification,Parallel Giant Slalom,38,
-114,Bongiorno Millie,Female,12-12-2020,Cortina d Ampezzo,ITA,Australia,World Cup,Parallel Giant Slalom,38,19.10
-115,Bongiorno Millie,Female,08-03-2020,Tauplitz,AUT,Australia,European Cup,Parallel Slalom,36,7.09
-116,Bongiorno Millie,Female,07-03-2020,Tauplitz,AUT,Australia,European Cup,Parallel Slalom,49,
-117,Bongiorno Millie,Female,01-03-2020,Gudauri,GEO,Australia,European Cup,Parallel Giant Slalom,14,36.00
-118,Bongiorno Millie,Female,29-02-2020,Gudauri,GEO,Australia,European Cup,Parallel Slalom,5,90.00
-119,Bongiorno Millie,Female,23-02-2020,Funes/Villnoesses,ITA,Australia,FIS,Parallel Giant Slalom,15,35.20
-120,Bongiorno Millie,Female,22-02-2020,Funes/Villnoesses,ITA,Australia,FIS,Parallel Giant Slalom,16,33.00
-121,Bongiorno Millie,Female,16-02-2020,Simonhoehe,AUT,Australia,European Cup,Parallel Giant Slalom,28,14.40
-122,Bongiorno Millie,Female,15-02-2020,Simonhoehe,AUT,Australia,European Cup,Parallel Giant Slalom,20,39.60
-123,Bongiorno Millie,Female,09-02-2020,Lenzerheide,SUI,Australia,European Cup,Parallel Slalom,20,39.60
-124,Bongiorno Millie,Female,08-02-2020,Lenzerheide,SUI,Australia,European Cup,Parallel Slalom,21,36.00
-125,Bongiorno Millie,Female,26-01-2020,Gosau,AUT,Australia,FIS,Parallel Slalom,7,54.00
-126,Bongiorno Millie,Female,25-01-2020,Gosau,AUT,Australia,FIS,Parallel Slalom,17,21.00
-127,Bongiorno Millie,Female,19-01-2020,Alleghe,ITA,Australia,FIS,Parallel Slalom,27,7.20
-128,Bongiorno Millie,Female,18-01-2020,Alleghe,ITA,Australia,FIS,Parallel Slalom,7,57.60
-129,Bongiorno Millie,Female,11-01-2020,Scuol,SUI,Australia,World Cup,Parallel Giant Slalom,37,19.40
-130,Bongiorno Millie,Female,11-01-2020,Scuol,SUI,Australia,Qualification,Parallel Giant Slalom,37,
-131,Bongiorno Millie,Female,05-02-2019,Park City,USA,Australia,World Championships,Parallel Slalom,27,45.00
-132,Bongiorno Millie,Female,04-02-2019,Park City,USA,Australia,World Championships,Parallel Giant Slalom,29,36.00
-133,Bongiorno Millie,Female,16-12-2018,"Buck Hill, MN",USA,Australia,Nor-Am Cup,Parallel Slalom,9,46.40
-134,Bongiorno Millie,Female,15-12-2018,"Buck Hill, MN",USA,Australia,Nor-Am Cup,Parallel Slalom,4,80.00
-135,Bongiorno Millie,Female,14-12-2018,"Buck Hill, MN",USA,Australia,Nor-Am Cup,Parallel Slalom,7,57.60
-136,Bongiorno Millie,Female,09-12-2018,Steamboat Ski and Resort / Howelsen Hill,USA,Australia,Nor-Am Cup,Parallel Slalom,3,96.00
-137,Bongiorno Millie,Female,08-12-2018,Steamboat Ski and Resort / Howelsen Hill,USA,Australia,Nor-Am Cup,Parallel Giant Slalom,2,128.00
-138,Bongiorno Millie,Female,03-04-2018,Copper Mountain Resort,USA,Australia,Nor-Am Cup,Parallel Slalom,5,117.00
-139,Bongiorno Millie,Female,02-04-2018,Copper Mountain Resort,USA,Australia,Nor-Am Cup,Parallel GS,4,130.00
-140,Bongiorno Millie,Female,17-03-2018,Winterberg,GER,Australia,World Cup,Parallel Slalom,38,19.10
-141,Bongiorno Millie,Female,17-03-2018,Winterberg,GER,Australia,Qualification,Parallel Slalom,38,
-142,Bongiorno Millie,Female,10-03-2018,Scuol,SUI,Australia,World Cup,Parallel GS,35,
-143,Bongiorno Millie,Female,10-03-2018,Scuol,SUI,Australia,Qualification,Parallel GS,35,
-144,Bongiorno Millie,Female,21-02-2018,Toronto Ski Club,CAN,Australia,Nor-Am Cup,Parallel Slalom,DSQ,
-145,Bongiorno Millie,Female,20-02-2018,Toronto Ski Club,CAN,Australia,Nor-Am Cup,Parallel Slalom,6,72.00
-146,Bongiorno Millie,Female,06-02-2018,Blue Mountain,CAN,Australia,Nor-Am Cup,Parallel Slalom,9,52.20
-147,Bongiorno Millie,Female,05-02-2018,Blue Mountain,CAN,Australia,Nor-Am Cup,Parallel GS,12,39.60
-148,Bongiorno Millie,Female,02-02-2018,"Holiday Valley Resort, NY",USA,Australia,Nor-Am Cup,Parallel GS,5,81.00
-149,Bongiorno Millie,Female,01-02-2018,"Holiday Valley Resort, NY",USA,Australia,Nor-Am Cup,Parallel GS,4,90.00
-150,Bongiorno Millie,Female,21-01-2018,Rogla,SLO,Australia,World Cup,Parallel GS,43,17.60
-151,Bongiorno Millie,Female,21-01-2018,Rogla,SLO,Australia,Qualification,Parallel GS,43,
-152,Bongiorno Millie,Female,20-01-2018,Rogla,SLO,Australia,World Cup,Parallel GS,DNF,
-153,Bongiorno Millie,Female,20-01-2018,Rogla,SLO,Australia,Qualification,Parallel GS,DNF,
-154,Bongiorno Millie,Female,04-01-2018,Le Relais,CAN,Australia,Nor-Am Cup,Parallel GS,2,128.00
-155,Bongiorno Millie,Female,03-01-2018,Le Relais,CAN,Australia,Nor-Am Cup,Parallel GS,1,160.00
-156,Bongiorno Millie,Female,16-12-2017,Cortina d'Ampezzo,ITA,Australia,World Cup,Parallel Slalom,44,17.30
-157,Bongiorno Millie,Female,16-12-2017,Cortina d'Ampezzo,ITA,Australia,Qualification,Parallel Slalom,44,
-158,Bongiorno Millie,Female,15-12-2017,Cortina d'Ampezzo,ITA,Australia,World Cup,Parallel GS,50,15.50
-159,Bongiorno Millie,Female,15-12-2017,Cortina d'Ampezzo,ITA,Australia,Qualification,Parallel GS,50,
-160,Bongiorno Millie,Female,14-12-2017,Carezza,ITA,Australia,World Cup,Parallel GS,51,15.20
-161,Bongiorno Millie,Female,14-12-2017,Carezza,ITA,Australia,Qualification,Parallel GS,51,
-162,Bongiorno Millie,Female,10-12-2017,Steamboat Ski and Resort / Howelsen Hill,USA,Australia,Nor-Am Cup,Parallel Slalom,3,96.00
-163,Bongiorno Millie,Female,09-12-2017,Steamboat Ski and Resort / Howelsen Hill,USA,Australia,Nor-Am Cup,Parallel GS,1,160.00
-164,Bongiorno Millie,Female,08-04-2017,Tremblant.QC,CAN,Australia,National Junior Championships,Parallel GS,3,78.00
-165,Bongiorno Millie,Female,07-04-2017,Tremblant.QC,CAN,Australia,National Championships,Parallel GS,9,52.20
-166,Bongiorno Millie,Female,06-04-2017,Tremblant.QC,CAN,Australia,Nor-Am Cup,Parallel Slalom,5,90.00
-167,Bongiorno Millie,Female,04-04-2017,Copper Mountain Resort,USA,Australia,Nor-Am Cup,Parallel Slalom,12,63.80
-168,Bongiorno Millie,Female,03-04-2017,Copper Mountain Resort,USA,Australia,Nor-Am Cup,Parallel GS,9,84.10
-169,Bongiorno Millie,Female,19-03-2017,Winterberg,GER,Australia,World Cup,Parallel Slalom Team,16,
-170,Bongiorno Millie,Female,18-03-2017,Winterberg,GER,Australia,Qualification,Parallel Slalom,36,
-171,Bongiorno Millie,Female,18-03-2017,Winterberg,GER,Australia,World Cup,Parallel Slalom,36,19.70
-172,Bongiorno Millie,Female,12-03-2017,Tauplitz,AUT,Australia,FIS,Parallel Slalom,13,44.00
-173,Bongiorno Millie,Female,11-03-2017,Tauplitz,AUT,Australia,FIS,Parallel Slalom,12,48.40
-174,Bongiorno Millie,Female,09-03-2017,Madonna di Campiglio,ITA,Australia,FIS,Parallel Slalom,11,33.60
-175,Bongiorno Millie,Female,08-03-2017,Madonna di Campiglio,ITA,Australia,FIS,Parallel GS,14,25.20
-176,Bongiorno Millie,Female,05-03-2017,Funes/Villnoss,ITA,Australia,FIS,Giant Slalom,18,16.90
-177,Bongiorno Millie,Female,04-03-2017,Funes/Villnoss,ITA,Australia,FIS,Giant Slalom,5,54.00
-178,Bongiorno Millie,Female,26-02-2017,Lenzerheide,SUI,Australia,European Cup,Parallel Slalom,30,11.52
-179,Bongiorno Millie,Female,25-02-2017,Lenzerheide,SUI,Australia,European Cup,Parallel Slalom,32,9.36
-180,Bongiorno Millie,Female,20-02-2017,Sapporo,JPN,Australia,FIS,Slalom,8,70.40
-181,Bongiorno Millie,Female,19-02-2017,Sapporo,JPN,Australia,FIS,Giant Slalom,7,79.20
-182,Bongiorno Millie,Female,15-02-2017,Toronto Ski Club,CAN,Australia,Nor-Am Cup,Parallel GS,DNS,
-183,Bongiorno Millie,Female,14-02-2017,Toronto Ski Club,CAN,Australia,Nor-Am Cup,Parallel GS,6,64.00
-184,Bongiorno Millie,Female,13-02-2017,Toronto Ski Club,CAN,Australia,Junior,Parallel GS,2,88.00
-185,Bongiorno Millie,Female,10-02-2017,"Holiday Valley Resort, NY",USA,Australia,Nor-Am Cup,Parallel GS,9,46.40
-186,Bongiorno Millie,Female,09-02-2017,"Holiday Valley Resort, NY",USA,Australia,Nor-Am Cup,Parallel GS,8,51.20
-187,Bongiorno Millie,Female,15-01-2017,Steamboat Springs,USA,Australia,Nor-Am Cup,Parallel Slalom,12,39.60
-188,Bongiorno Millie,Female,14-01-2017,Steamboat Springs,USA,Australia,Nor-Am Cup,Parallel GS,7,64.80
-189,Bongiorno Millie,Female,06-01-2017,Le Relais,CAN,Australia,Junior,Parallel Slalom,4,50.00
-190,Bongiorno Millie,Female,05-01-2017,Le Relais,CAN,Australia,Nor-Am Cup,Parallel Slalom,8,57.60
-191,Bongiorno Millie,Female,04-01-2017,Le Relais,CAN,Australia,Nor-Am Cup,Parallel Slalom,10,46.80
-192,Bongiorno Millie,Female,18-12-2016,"Buck Hill, MN",USA,Australia,Nor-Am Cup,Parallel Slalom,10,41.60
-193,Bongiorno Millie,Female,17-12-2016,"Buck Hill, MN",USA,Australia,Nor-Am Cup,Parallel Slalom,11,38.40
-194,Bongiorno Millie,Female,17-12-2016,"Buck Hill, MN",USA,Australia,Junior,Parallel Slalom,2,56.00
-195,Bongiorno Millie,Female,16-12-2016,"Buck Hill, MN",USA,Australia,Nor-Am Cup,Parallel Slalom,DSQ,
-196,Bongiorno Millie,Female,03-04-2016,Rogla,SLO,Australia,FIS Junior World Championships,Parallel Slalom,28,14.40
-197,Bongiorno Millie,Female,02-04-2016,Rogla,SLO,Australia,FIS Junior World Championships,Parallel GS,26,18.00
-198,Bongiorno Millie,Female,27-03-2016,Racines,ITA,Australia,European Cup,Parallel Slalom,28,20.00
-199,Bongiorno Millie,Female,26-03-2016,Racines,ITA,Australia,European Cup,Parallel Slalom,29,18.00
-200,Bongiorno Millie,Female,24-03-2016,Rogla,SLO,Australia,European Cup,Parallel Slalom,37,9.70
-201,Bongiorno Millie,Female,23-03-2016,Rogla,SLO,Australia,European Cup,Parallel GS,43,
-202,Bongiorno Millie,Female,28-02-2016,Le Relais,CAN,Australia,Nor-Am Cup,Parallel Slalom,15,32.00
-203,Bongiorno Millie,Female,27-02-2016,Le Relais,CAN,Australia,Nor-Am Cup,Parallel Slalom,14,36.00
-204,Bongiorno Millie,Female,26-02-2016,Le Relais,CAN,Australia,Junior,Parallel Slalom,11,28.80
-205,Bongiorno Millie,Female,23-02-2016,"Holiday Valley Resort, NY",USA,Australia,Nor-Am Cup,Parallel GS,10,52.00
-206,Bongiorno Millie,Female,22-02-2016,"Holiday Valley Resort, NY",USA,Australia,Nor-Am Cup,Parallel GS,17,28.00
-207,Bongiorno Millie,Female,18-02-2016,Toronto Ski Club,CAN,Australia,Nor-Am Cup,Parallel GS,21,20.00
-208,Bongiorno Millie,Female,17-02-2016,Toronto Ski Club,CAN,Australia,Nor-Am Cup,Parallel GS,10,52.00
-209,Bongiorno Millie,Female,17-01-2016,"Howelsen Hill, CO",USA,Australia,Nor-Am Cup,Parallel Slalom,13,40.00
-210,Bongiorno Millie,Female,16-01-2016,"Howelsen Hill, CO",USA,Australia,Nor-Am Cup,Parallel GS,10,52.00
-211,Bongiorno Millie,Female,20-12-2015,"Buck Hill, MN",USA,Australia,Nor-Am Cup,Parallel Slalom,21,20.00
-212,Bongiorno Millie,Female,20-12-2015,"Buck Hill, MN",USA,Australia,Junior,Parallel Slalom,11,24.00
-213,Bongiorno Millie,Female,19-12-2015,"Buck Hill, MN",USA,Australia,Nor-Am Cup,Parallel Slalom,26,0.00
-214,Bongiorno Millie,Female,27-08-2013,Mt. Hotham,AUS,Australia,Australian New Zealand Cup,Snowboardcross,DNS,
-215,Bongiorno Millie,Female,26-08-2013,Mt. Hotham,AUS,Australia,Australian New Zealand Cup,Snowboardcross,6,104.00
+0,Bongiorno Millie,Female,02-02-2025,Ratschings,ITA,Australia,European Cup,Parallel Slalom,DNS,
+1,Bongiorno Millie,Female,26-01-2025,Simonhöhe,AUT,Australia,European Cup,Parallel Giant Slalom,35,7.20
+2,Bongiorno Millie,Female,25-01-2025,Rogla,SLO,Australia,Qualification,Parallel Giant Slalom,35,
+3,Bongiorno Millie,Female,25-01-2025,Rogla,SLO,Australia,World Cup,Parallel Giant Slalom,35,20.00
+4,Bongiorno Millie,Female,22-01-2025,Bansko,BUL,Australia,European Cup,Parallel Giant Slalom,8,115.20
+5,Bongiorno Millie,Female,21-01-2025,Bansko,BUL,Australia,European Cup,Parallel Giant Slalom,18,46.80
+6,Bongiorno Millie,Female,19-01-2025,Bansko,BUL,Australia,Qualification,Parallel Giant Slalom,27,
+7,Bongiorno Millie,Female,19-01-2025,Bansko,BUL,Australia,World Cup,Parallel Giant Slalom,27,45.00
+8,Bongiorno Millie,Female,18-01-2025,Bansko,BUL,Australia,Qualification,Parallel Giant Slalom,29,
+9,Bongiorno Millie,Female,18-01-2025,Bansko,BUL,Australia,World Cup,Parallel Giant Slalom,29,36.00
+10,Bongiorno Millie,Female,14-01-2025,Bad Gastein,AUT,Australia,Qualification,Parallel Slalom,26,
+11,Bongiorno Millie,Female,14-01-2025,Bad Gastein,AUT,Australia,World Cup,Parallel Slalom,26,50.00
+12,Bongiorno Millie,Female,12-01-2025,Nova Levante - Welschnofen,ITA,Australia,FIS,Parallel Giant Slalom,5,63.00
+13,Bongiorno Millie,Female,11-01-2025,Scuol,SUI,Australia,Qualification,Parallel Giant Slalom,28,
+14,Bongiorno Millie,Female,11-01-2025,Scuol,SUI,Australia,World Cup,Parallel Giant Slalom,28,40.00
+15,Bongiorno Millie,Female,10-01-2025,Folgaria,ITA,Australia,European Cup,Parallel Giant Slalom,10,62.40
+16,Bongiorno Millie,Female,10-01-2025,Folgaria,ITA,Australia,Qualification,Parallel Giant Slalom,7,
+17,Bongiorno Millie,Female,21-12-2024,Davos,SUI,Australia,Qualification,Parallel Slalom,28,
+18,Bongiorno Millie,Female,21-12-2024,Davos,SUI,Australia,World Cup,Parallel Slalom,28,40.00
+19,Bongiorno Millie,Female,14-12-2024,Cortina d'Ampezzo,ITA,Australia,Qualification,Parallel Giant Slalom,42,
+20,Bongiorno Millie,Female,14-12-2024,Cortina d'Ampezzo,ITA,Australia,World Cup,Parallel Giant Slalom,42,
+21,Bongiorno Millie,Female,12-12-2024,Carezza,ITA,Australia,Qualification,Parallel Giant Slalom,28,
+22,Bongiorno Millie,Female,12-12-2024,Carezza,ITA,Australia,World Cup,Parallel Giant Slalom,28,40.00
+23,Bongiorno Millie,Female,08-12-2024,Yanqing (NASC),CHN,Australia,World Cup,Parallel Slalom,27,45.00
+24,Bongiorno Millie,Female,08-12-2024,Yanqing (NASC),CHN,Australia,Qualification,Parallel Slalom,27,
+25,Bongiorno Millie,Female,07-12-2024,Yanqing (NASC),CHN,Australia,World Cup,Parallel Giant Slalom,37,
+26,Bongiorno Millie,Female,07-12-2024,Yanqing (NASC),CHN,Australia,Qualification,Parallel Giant Slalom,37,
+27,Bongiorno Millie,Female,01-12-2024,Mylin,CHN,Australia,World Cup,Parallel Slalom,33,24.00
+28,Bongiorno Millie,Female,01-12-2024,Mylin,CHN,Australia,Qualification,Parallel Slalom,33,
+29,Bongiorno Millie,Female,30-11-2024,Mylin,CHN,Australia,World Cup,Parallel Giant Slalom,40,
+30,Bongiorno Millie,Female,30-11-2024,Mylin,CHN,Australia,Qualification,Parallel Giant Slalom,40,
+31,Bongiorno Millie,Female,09-02-2024,Funes - Vilnoess,ITA,Australia,National Championships,Parallel Slalom,12,63.80
+32,Bongiorno Millie,Female,08-02-2024,Funes - Vilnoess,ITA,Australia,National Championships,Parallel Giant Slalom,14,52.20
+33,Bongiorno Millie,Female,28-01-2024,Simonhöhe,AUT,Australia,World Cup,Parallel Giant Slalom Team,23,
+34,Bongiorno Millie,Female,27-01-2024,Simonhöhe,AUT,Australia,Qualification,Parallel Giant Slalom,25,
+35,Bongiorno Millie,Female,27-01-2024,Simonhöhe,AUT,Australia,World Cup,Parallel Giant Slalom,25,60.00
+36,Bongiorno Millie,Female,24-01-2024,Pamporovo,BUL,Australia,European Cup,Parallel Slalom,3,174.00
+37,Bongiorno Millie,Female,23-01-2024,Pamporovo,BUL,Australia,European Cup,Parallel Slalom,6,116.00
+38,Bongiorno Millie,Female,21-01-2024,Pamporovo,BUL,Australia,Qualification,Parallel Slalom,18,
+39,Bongiorno Millie,Female,21-01-2024,Pamporovo,BUL,Australia,World Cup,Parallel Slalom,18,130.00
+40,Bongiorno Millie,Female,20-01-2024,Pamporovo,BUL,Australia,Qualification,Parallel Slalom,22,
+41,Bongiorno Millie,Female,20-01-2024,Pamporovo,BUL,Australia,World Cup,Parallel Slalom,22,90.00
+42,Bongiorno Millie,Female,16-01-2024,Bad Gastein,AUT,Australia,Qualification,Parallel Slalom,24,
+43,Bongiorno Millie,Female,16-01-2024,Bad Gastein,AUT,Australia,World Cup,Parallel Slalom,24,70.00
+44,Bongiorno Millie,Female,13-01-2024,Scuol,SUI,Australia,Qualification,Parallel Giant Slalom,DSQ,
+45,Bongiorno Millie,Female,13-01-2024,Scuol,SUI,Australia,World Cup,Parallel Giant Slalom,DSQ,
+46,Bongiorno Millie,Female,23-12-2023,Davos ,SUI,Australia,Qualification,Parallel Slalom,27,
+47,Bongiorno Millie,Female,23-12-2023,Davos,SUI,Australia,World Cup,Parallel Slalom,27,45.00
+48,Bongiorno Millie,Female,20-12-2023,Moninec,CZE,Australia,European Cup,Parallel Slalom,13,52.00
+49,Bongiorno Millie,Female,19-12-2023,Moninec,CZE,Australia,European Cup,Parallel Slalom,16,39.00
+50,Bongiorno Millie,Female,16-12-2023,Cortina d'Ampezzo,ITA,Australia,Qualification,Parallel Giant Slalom,29,
+51,Bongiorno Millie,Female,16-12-2023,Cortina d'Ampezzo,ITA,Australia,World Cup,Parallel Giant Slalom,29,36.00
+52,Bongiorno Millie,Female,14-12-2023,Carezza,ITA,Australia,Qualification,Parallel Giant Slalom,24,
+53,Bongiorno Millie,Female,14-12-2023,Carezza,ITA,Australia,World Cup,Parallel Giant Slalom,24,70.00
+54,Bongiorno Millie,Female,09-12-2023,Götschen,GER,Australia,Qualification,Parallel Slalom,DNS,
+55,Bongiorno Millie,Female,09-12-2023,Götschen,GER,Australia,European Cup,Parallel Slalom,DNS,
+56,Bongiorno Millie,Female,08-12-2023,Götschen,GER,Australia,Qualification,Parallel Slalom,36,
+57,Bongiorno Millie,Female,08-12-2023,Götschen,GER,Australia,European Cup,Parallel Slalom,36,7.09
+58,Bongiorno Millie,Female,19-03-2023,Ratschings,ITA,Australia,European Cup,Parallel Slalom,13,52.00
+59,Bongiorno Millie,Female,18-03-2023,Ratschings,ITA,Australia,European Cup,Parallel Slalom,22,23.40
+60,Bongiorno Millie,Female,15-03-2023,Rogla,SLO,Australia,World Cup,Parallel Giant Slalom,29,36.00
+61,Bongiorno Millie,Female,15-03-2023,Rogla,SLO,Australia,Qualification,Parallel Giant Slalom,29,
+62,Bongiorno Millie,Female,12-03-2023,Davos,SUI,Australia,European Cup,Parallel Slalom,17,36.40
+63,Bongiorno Millie,Female,11-03-2023,Davos,SUI,Australia,European Cup,Parallel Slalom,22,32.40
+64,Bongiorno Millie,Female,05-03-2023,Zakopane,POL,Australia,European Cup,Parallel Giant Slalom,18,37.70
+65,Bongiorno Millie,Female,04-03-2023,Zakopane,POL,Australia,European Cup,Parallel Giant Slalom,21,36.00
+66,Bongiorno Millie,Female,21-02-2023,Bakuriani,GEO,Australia,Qualification,Parallel Slalom,31,
+67,Bongiorno Millie,Female,21-02-2023,Bakuriani,GEO,Australia,World Championships,Parallel Slalom,31,28.00
+68,Bongiorno Millie,Female,19-02-2023,Bakuriani,GEO,Australia,Qualification,Parallel Giant Slalom,33,
+69,Bongiorno Millie,Female,19-02-2023,Bakuriani,GEO,Australia,World Championships,Parallel Giant Slalom,33,24.00
+70,Bongiorno Millie,Female,12-02-2023,Funes - Vilnoess,ITA,Australia,FIS,Parallel Giant Slalom,15,32.00
+71,Bongiorno Millie,Female,11-02-2023,Funes - Vilnoess,ITA,Australia,FIS,Parallel Giant Slalom,23,16.00
+72,Bongiorno Millie,Female,05-02-2023,Lenzerheide,SUI,Australia,European Cup,Parallel Slalom,27,
+73,Bongiorno Millie,Female,29-01-2023,Simonhöhe,AUT,Australia,European Cup,Parallel Giant Slalom,15,38.40
+74,Bongiorno Millie,Female,29-01-2023,Simonhöhe,AUT,Australia,Qualification,Parallel Giant Slalom,15,
+75,Bongiorno Millie,Female,28-01-2023,Simonhöhe,AUT,Australia,European Cup,Parallel Giant Slalom,28,9.60
+76,Bongiorno Millie,Female,28-01-2023,Simonhöhe,AUT,Australia,Qualification,Parallel Giant Slalom,28,
+77,Bongiorno Millie,Female,22-01-2023,Bansko,BUL,Australia,Qualification,Parallel Slalom,19,
+78,Bongiorno Millie,Female,22-01-2023,Bansko,BUL,Australia,World Cup,Parallel Slalom,19,120.00
+79,Bongiorno Millie,Female,21-01-2023,Bansko,BUL,Australia,Qualification,Parallel Slalom,24,
+80,Bongiorno Millie,Female,21-01-2023,Bansko,BUL,Australia,World Cup,Parallel Slalom,24,70.00
+81,Bongiorno Millie,Female,15-01-2023,Alleghe,ITA,Australia,European Cup,Parallel Slalom,14,39.60
+82,Bongiorno Millie,Female,15-01-2023,Alleghe,ITA,Australia,Qualification,Parallel Slalom,14,
+83,Bongiorno Millie,Female,14-01-2023,Alleghe,ITA,Australia,European Cup,Parallel Slalom,12,44.00
+84,Bongiorno Millie,Female,14-01-2023,Alleghe,ITA,Australia,Qualification,Parallel Slalom,10,
+85,Bongiorno Millie,Female,20-03-2022,Berchtesgaden,GER,Australia,World Cup,Parallel  Slalom Team,23,
+86,Bongiorno Millie,Female,19-03-2022,Berchtesgaden,GER,Australia,Qualification,Parallel Slalom,28,
+87,Bongiorno Millie,Female,19-03-2022,Berchtesgaden,GER,Australia,World Cup,Parallel Slalom,28,40.00
+88,Bongiorno Millie,Female,17-03-2022,Rogla,SLO,Australia,European Cup,Parallel Giant Slalom,12,79.20
+89,Bongiorno Millie,Female,16-03-2022,Rogla,SLO,Australia,Qualification,Parallel Giant Slalom,25,
+90,Bongiorno Millie,Female,16-03-2022,Rogla,SLO,Australia,World Cup,Parallel Giant Slalom,25,60.00
+91,Bongiorno Millie,Female,13-03-2022,Piancavallo,ITA,Australia,World Cup,Parallel Slalom Team,19,
+92,Bongiorno Millie,Female,12-03-2022,Piancavallo,ITA,Australia,Qualification,Parallel Slalom,21,
+93,Bongiorno Millie,Female,12-03-2022,Piancavallo,ITA,Australia,World Cup,Parallel Slalom,21,100.00
+94,Bongiorno Millie,Female,06-03-2022,Lachtal,AUT,Australia,European Cup,Parallel Giant Slalom,19,43.20
+95,Bongiorno Millie,Female,05-03-2022,Lachtal,AUT,Australia,European Cup,Parallel Giant Slalom,23,28.80
+96,Bongiorno Millie,Female,20-02-2022,Bakuriani,GEO,Australia,European Cup,Parallel Giant Slalom,13,72.00
+97,Bongiorno Millie,Female,19-02-2022,Bakuriani,GEO,Australia,European Cup,Parallel Giant Slalom,20,39.60
+98,Bongiorno Millie,Female,06-02-2022,Lenzerheide,SUI,Australia,European Cup,Parallel Slalom,8,83.20
+99,Bongiorno Millie,Female,05-02-2022,Lenzerheide,SUI,Australia,European Cup,Parallel Slalom,6,104.00
+100,Bongiorno Millie,Female,30-01-2022,Davos,SUI,Australia,European Cup,Parallel Slalom,9,69.60
+101,Bongiorno Millie,Female,29-01-2022,Davos,SUI,Australia,European Cup,Parallel Slalom,2,192.00
+102,Bongiorno Millie,Female,23-01-2022,Bukovel,UKR,Australia,European Cup,Parallel Giant Slalom,2,208.00
+103,Bongiorno Millie,Female,22-01-2022,Bukovel,UKR,Australia,European Cup,Parallel Giant Slalom,16,39.00
+104,Bongiorno Millie,Female,15-01-2022,Simonhöhe,AUT,Australia,World Cup,Parallel Giant Slalom Team,24,
+105,Bongiorno Millie,Female,14-01-2022,Simonhöhe,AUT,Australia,World Cup,Parallel Giant Slalom,45,17.00
+106,Bongiorno Millie,Female,14-01-2022,Simonhöhe,AUT,Australia,Qualification,Parallel Giant Slalom,45,
+107,Bongiorno Millie,Female,11-01-2022,Bad Gastein,AUT,Australia,Qualification,Parallel Slalom,28,
+108,Bongiorno Millie,Female,11-01-2022,Bad Gastein,AUT,Australia,World Cup,Parallel Slalom,28,40.00
+109,Bongiorno Millie,Female,08-01-2022,Scuol,SUI,Australia,Qualification,Parallel Giant Slalom,35,
+110,Bongiorno Millie,Female,08-01-2022,Scuol,SUI,Australia,World Cup,Parallel Giant Slalom,35,20.00
+111,Bongiorno Millie,Female,18-12-2021,Cortina d Ampezzo,ITA,Australia,Qualification,Parallel Giant Slalom,45,
+112,Bongiorno Millie,Female,18-12-2021,Cortina d Ampezzo,ITA,Australia,World Cup,Parallel Giant Slalom,45,17.00
+113,Bongiorno Millie,Female,16-12-2021,Carezza,ITA,Australia,Qualification,Parallel Giant Slalom,45,
+114,Bongiorno Millie,Female,16-12-2021,Carezza,ITA,Australia,World Cup,Parallel Giant Slalom,45,17.00
+115,Bongiorno Millie,Female,12-12-2021,Bannoye,RUS,Australia,Qualification,Parallel Slalom,51,
+116,Bongiorno Millie,Female,12-12-2021,Bannoye,RUS,Australia,World Cup,Parallel Slalom,51,
+117,Bongiorno Millie,Female,11-12-2021,Bannoye,RUS,Australia,Qualification,Parallel Giant Slalom,50,
+118,Bongiorno Millie,Female,11-12-2021,Bannoye,RUS,Australia,World Cup,Parallel Giant Slalom,50,
+119,Bongiorno Millie,Female,20-03-2021,Berchtesgaden,GER,Australia,Qualification,Parallel Slalom,38,
+120,Bongiorno Millie,Female,20-03-2021,Berchtesgaden,GER,Australia,World Cup,Parallel Slalom,38,19.10
+121,Bongiorno Millie,Female,13-03-2021,Davos Rinerhorn,SUI,Australia,European Cup,Parallel Giant Slalom,27,16.20
+122,Bongiorno Millie,Female,06-03-2021,Rogla,SLO,Australia,Qualification,Parallel Giant Slalom,39,
+123,Bongiorno Millie,Female,06-03-2021,Rogla,SLO,Australia,World Cup,Parallel Giant Slalom,39,18.80
+124,Bongiorno Millie,Female,02-03-2021,Rogla,SLO,Australia,World Championships,Parallel Slalom,39,18.80
+125,Bongiorno Millie,Female,02-03-2021,Rogla,SLO,Australia,Qualification,Parallel Slalom,39,
+126,Bongiorno Millie,Female,01-03-2021,Rogla,SLO,Australia,World Championships,Parallel Giant Slalom,DSQ,
+127,Bongiorno Millie,Female,01-03-2021,Rogla,SLO,Australia,Qualification,Parallel Giant Slalom,DSQ,
+128,Bongiorno Millie,Female,28-02-2021,Funes/Villnoesses,ITA,Australia,European Cup,Parallel Giant Slalom,8,57.60
+129,Bongiorno Millie,Female,27-02-2021,Funes/Villnoesses,ITA,Australia,European Cup,Parallel Giant Slalom,13,44.00
+130,Bongiorno Millie,Female,21-02-2021,Gerlitzen,AUT,Australia,National Championships,Parallel Slalom,DNS,
+131,Bongiorno Millie,Female,20-02-2021,Gerlitzen,AUT,Australia,National Championships,Parallel Giant Slalom,42,
+132,Bongiorno Millie,Female,07-02-2021,Lenzerheide,SUI,Australia,European Cup,Parallel Slalom,5,108.00
+133,Bongiorno Millie,Female,06-02-2021,Lenzerheide,SUI,Australia,European Cup,Parallel Slalom,11,57.60
+134,Bongiorno Millie,Female,24-01-2021,Davos,SUI,Australia,European Cup,Parallel Slalom,25,21.60
+135,Bongiorno Millie,Female,23-01-2021,Davos,SUI,Australia,European Cup,Parallel Slalom,22,32.40
+136,Bongiorno Millie,Female,17-01-2021,Simonhoehe,AUT,Australia,European Cup,Parallel Giant Slalom,34,7.92
+137,Bongiorno Millie,Female,16-01-2021,Simonhoehe,AUT,Australia,European Cup,Parallel Giant Slalom,39,6.77
+138,Bongiorno Millie,Female,12-01-2021,Bad Gastein,AUT,Australia,Qualification,Parallel Slalom,39,
+139,Bongiorno Millie,Female,12-01-2021,Bad Gastein,AUT,Australia,World Cup,Parallel Slalom,39,18.80
+140,Bongiorno Millie,Female,09-01-2021,Scuol,SUI,Australia,Qualification,Parallel Giant Slalom,40,
+141,Bongiorno Millie,Female,09-01-2021,Scuol,SUI,Australia,World Cup,Parallel Giant Slalom,40,18.50
+142,Bongiorno Millie,Female,17-12-2020,Carezza,ITA,Australia,Qualification,Parallel Giant Slalom,37,
+143,Bongiorno Millie,Female,17-12-2020,Carezza,ITA,Australia,World Cup,Parallel Giant Slalom,37,19.40
+144,Bongiorno Millie,Female,12-12-2020,Cortina d Ampezzo,ITA,Australia,Qualification,Parallel Giant Slalom,38,
+145,Bongiorno Millie,Female,12-12-2020,Cortina d Ampezzo,ITA,Australia,World Cup,Parallel Giant Slalom,38,19.10
+146,Bongiorno Millie,Female,08-03-2020,Tauplitz,AUT,Australia,European Cup,Parallel Slalom,36,7.09
+147,Bongiorno Millie,Female,07-03-2020,Tauplitz,AUT,Australia,European Cup,Parallel Slalom,49,
+148,Bongiorno Millie,Female,01-03-2020,Gudauri,GEO,Australia,European Cup,Parallel Giant Slalom,14,36.00
+149,Bongiorno Millie,Female,29-02-2020,Gudauri,GEO,Australia,European Cup,Parallel Slalom,5,90.00
+150,Bongiorno Millie,Female,23-02-2020,Funes/Villnoesses,ITA,Australia,FIS,Parallel Giant Slalom,15,35.20
+151,Bongiorno Millie,Female,22-02-2020,Funes/Villnoesses,ITA,Australia,FIS,Parallel Giant Slalom,16,33.00
+152,Bongiorno Millie,Female,16-02-2020,Simonhoehe,AUT,Australia,European Cup,Parallel Giant Slalom,28,14.40
+153,Bongiorno Millie,Female,15-02-2020,Simonhoehe,AUT,Australia,European Cup,Parallel Giant Slalom,20,39.60
+154,Bongiorno Millie,Female,09-02-2020,Lenzerheide,SUI,Australia,European Cup,Parallel Slalom,20,39.60
+155,Bongiorno Millie,Female,08-02-2020,Lenzerheide,SUI,Australia,European Cup,Parallel Slalom,21,36.00
+156,Bongiorno Millie,Female,26-01-2020,Gosau,AUT,Australia,FIS,Parallel Slalom,7,54.00
+157,Bongiorno Millie,Female,25-01-2020,Gosau,AUT,Australia,FIS,Parallel Slalom,17,21.00
+158,Bongiorno Millie,Female,19-01-2020,Alleghe,ITA,Australia,FIS,Parallel Slalom,27,7.20
+159,Bongiorno Millie,Female,18-01-2020,Alleghe,ITA,Australia,FIS,Parallel Slalom,7,57.60
+160,Bongiorno Millie,Female,11-01-2020,Scuol,SUI,Australia,World Cup,Parallel Giant Slalom,37,19.40
+161,Bongiorno Millie,Female,11-01-2020,Scuol,SUI,Australia,Qualification,Parallel Giant Slalom,37,
+162,Bongiorno Millie,Female,05-02-2019,Park City,USA,Australia,World Championships,Parallel Slalom,27,45.00
+163,Bongiorno Millie,Female,04-02-2019,Park City,USA,Australia,World Championships,Parallel Giant Slalom,29,36.00
+164,Bongiorno Millie,Female,16-12-2018,"Buck Hill, MN",USA,Australia,Nor-Am Cup,Parallel Slalom,9,46.40
+165,Bongiorno Millie,Female,15-12-2018,"Buck Hill, MN",USA,Australia,Nor-Am Cup,Parallel Slalom,4,80.00
+166,Bongiorno Millie,Female,14-12-2018,"Buck Hill, MN",USA,Australia,Nor-Am Cup,Parallel Slalom,7,57.60
+167,Bongiorno Millie,Female,09-12-2018,Steamboat Ski and Resort / Howelsen Hill,USA,Australia,Nor-Am Cup,Parallel Slalom,3,96.00
+168,Bongiorno Millie,Female,08-12-2018,Steamboat Ski and Resort / Howelsen Hill,USA,Australia,Nor-Am Cup,Parallel Giant Slalom,2,128.00
+169,Bongiorno Millie,Female,03-04-2018,Copper Mountain Resort,USA,Australia,Nor-Am Cup,Parallel Slalom,5,117.00
+170,Bongiorno Millie,Female,02-04-2018,Copper Mountain Resort,USA,Australia,Nor-Am Cup,Parallel GS,4,130.00
+171,Bongiorno Millie,Female,17-03-2018,Winterberg,GER,Australia,World Cup,Parallel Slalom,38,19.10
+172,Bongiorno Millie,Female,17-03-2018,Winterberg,GER,Australia,Qualification,Parallel Slalom,38,
+173,Bongiorno Millie,Female,10-03-2018,Scuol,SUI,Australia,World Cup,Parallel GS,35,
+174,Bongiorno Millie,Female,10-03-2018,Scuol,SUI,Australia,Qualification,Parallel GS,35,
+175,Bongiorno Millie,Female,21-02-2018,Toronto Ski Club,CAN,Australia,Nor-Am Cup,Parallel Slalom,DSQ,
+176,Bongiorno Millie,Female,20-02-2018,Toronto Ski Club,CAN,Australia,Nor-Am Cup,Parallel Slalom,6,72.00
+177,Bongiorno Millie,Female,06-02-2018,Blue Mountain,CAN,Australia,Nor-Am Cup,Parallel Slalom,9,52.20
+178,Bongiorno Millie,Female,05-02-2018,Blue Mountain,CAN,Australia,Nor-Am Cup,Parallel GS,12,39.60
+179,Bongiorno Millie,Female,02-02-2018,"Holiday Valley Resort, NY",USA,Australia,Nor-Am Cup,Parallel GS,5,81.00
+180,Bongiorno Millie,Female,01-02-2018,"Holiday Valley Resort, NY",USA,Australia,Nor-Am Cup,Parallel GS,4,90.00
+181,Bongiorno Millie,Female,21-01-2018,Rogla,SLO,Australia,World Cup,Parallel GS,43,17.60
+182,Bongiorno Millie,Female,21-01-2018,Rogla,SLO,Australia,Qualification,Parallel GS,43,
+183,Bongiorno Millie,Female,20-01-2018,Rogla,SLO,Australia,World Cup,Parallel GS,DNF,
+184,Bongiorno Millie,Female,20-01-2018,Rogla,SLO,Australia,Qualification,Parallel GS,DNF,
+185,Bongiorno Millie,Female,04-01-2018,Le Relais,CAN,Australia,Nor-Am Cup,Parallel GS,2,128.00
+186,Bongiorno Millie,Female,03-01-2018,Le Relais,CAN,Australia,Nor-Am Cup,Parallel GS,1,160.00
+187,Bongiorno Millie,Female,16-12-2017,Cortina d'Ampezzo,ITA,Australia,World Cup,Parallel Slalom,44,17.30
+188,Bongiorno Millie,Female,16-12-2017,Cortina d'Ampezzo,ITA,Australia,Qualification,Parallel Slalom,44,
+189,Bongiorno Millie,Female,15-12-2017,Cortina d'Ampezzo,ITA,Australia,World Cup,Parallel GS,50,15.50
+190,Bongiorno Millie,Female,15-12-2017,Cortina d'Ampezzo,ITA,Australia,Qualification,Parallel GS,50,
+191,Bongiorno Millie,Female,14-12-2017,Carezza,ITA,Australia,World Cup,Parallel GS,51,15.20
+192,Bongiorno Millie,Female,14-12-2017,Carezza,ITA,Australia,Qualification,Parallel GS,51,
+193,Bongiorno Millie,Female,10-12-2017,Steamboat Ski and Resort / Howelsen Hill,USA,Australia,Nor-Am Cup,Parallel Slalom,3,96.00
+194,Bongiorno Millie,Female,09-12-2017,Steamboat Ski and Resort / Howelsen Hill,USA,Australia,Nor-Am Cup,Parallel GS,1,160.00
+195,Bongiorno Millie,Female,08-04-2017,Tremblant.QC,CAN,Australia,National Junior Championships,Parallel GS,3,78.00
+196,Bongiorno Millie,Female,07-04-2017,Tremblant.QC,CAN,Australia,National Championships,Parallel GS,9,52.20
+197,Bongiorno Millie,Female,06-04-2017,Tremblant.QC,CAN,Australia,Nor-Am Cup,Parallel Slalom,5,90.00
+198,Bongiorno Millie,Female,04-04-2017,Copper Mountain Resort,USA,Australia,Nor-Am Cup,Parallel Slalom,12,63.80
+199,Bongiorno Millie,Female,03-04-2017,Copper Mountain Resort,USA,Australia,Nor-Am Cup,Parallel GS,9,84.10
+200,Bongiorno Millie,Female,19-03-2017,Winterberg,GER,Australia,World Cup,Parallel Slalom Team,16,
+201,Bongiorno Millie,Female,18-03-2017,Winterberg,GER,Australia,Qualification,Parallel Slalom,36,
+202,Bongiorno Millie,Female,18-03-2017,Winterberg,GER,Australia,World Cup,Parallel Slalom,36,19.70
+203,Bongiorno Millie,Female,12-03-2017,Tauplitz,AUT,Australia,FIS,Parallel Slalom,13,44.00
+204,Bongiorno Millie,Female,11-03-2017,Tauplitz,AUT,Australia,FIS,Parallel Slalom,12,48.40
+205,Bongiorno Millie,Female,09-03-2017,Madonna di Campiglio,ITA,Australia,FIS,Parallel Slalom,11,33.60
+206,Bongiorno Millie,Female,08-03-2017,Madonna di Campiglio,ITA,Australia,FIS,Parallel GS,14,25.20
+207,Bongiorno Millie,Female,05-03-2017,Funes/Villnoss,ITA,Australia,FIS,Giant Slalom,18,16.90
+208,Bongiorno Millie,Female,04-03-2017,Funes/Villnoss,ITA,Australia,FIS,Giant Slalom,5,54.00
+209,Bongiorno Millie,Female,26-02-2017,Lenzerheide,SUI,Australia,European Cup,Parallel Slalom,30,11.52
+210,Bongiorno Millie,Female,25-02-2017,Lenzerheide,SUI,Australia,European Cup,Parallel Slalom,32,9.36
+211,Bongiorno Millie,Female,20-02-2017,Sapporo,JPN,Australia,FIS,Slalom,8,70.40
+212,Bongiorno Millie,Female,19-02-2017,Sapporo,JPN,Australia,FIS,Giant Slalom,7,79.20
+213,Bongiorno Millie,Female,15-02-2017,Toronto Ski Club,CAN,Australia,Nor-Am Cup,Parallel GS,DNS,
+214,Bongiorno Millie,Female,14-02-2017,Toronto Ski Club,CAN,Australia,Nor-Am Cup,Parallel GS,6,64.00
+215,Bongiorno Millie,Female,13-02-2017,Toronto Ski Club,CAN,Australia,Junior,Parallel GS,2,88.00
+216,Bongiorno Millie,Female,10-02-2017,"Holiday Valley Resort, NY",USA,Australia,Nor-Am Cup,Parallel GS,9,46.40
+217,Bongiorno Millie,Female,09-02-2017,"Holiday Valley Resort, NY",USA,Australia,Nor-Am Cup,Parallel GS,8,51.20
+218,Bongiorno Millie,Female,15-01-2017,Steamboat Springs,USA,Australia,Nor-Am Cup,Parallel Slalom,12,39.60
+219,Bongiorno Millie,Female,14-01-2017,Steamboat Springs,USA,Australia,Nor-Am Cup,Parallel GS,7,64.80
+220,Bongiorno Millie,Female,06-01-2017,Le Relais,CAN,Australia,Junior,Parallel Slalom,4,50.00
+221,Bongiorno Millie,Female,05-01-2017,Le Relais,CAN,Australia,Nor-Am Cup,Parallel Slalom,8,57.60
+222,Bongiorno Millie,Female,04-01-2017,Le Relais,CAN,Australia,Nor-Am Cup,Parallel Slalom,10,46.80
+223,Bongiorno Millie,Female,18-12-2016,"Buck Hill, MN",USA,Australia,Nor-Am Cup,Parallel Slalom,10,41.60
+224,Bongiorno Millie,Female,17-12-2016,"Buck Hill, MN",USA,Australia,Nor-Am Cup,Parallel Slalom,11,38.40
+225,Bongiorno Millie,Female,17-12-2016,"Buck Hill, MN",USA,Australia,Junior,Parallel Slalom,2,56.00
+226,Bongiorno Millie,Female,16-12-2016,"Buck Hill, MN",USA,Australia,Nor-Am Cup,Parallel Slalom,DSQ,
+227,Bongiorno Millie,Female,03-04-2016,Rogla,SLO,Australia,FIS Junior World Championships,Parallel Slalom,28,14.40
+228,Bongiorno Millie,Female,02-04-2016,Rogla,SLO,Australia,FIS Junior World Championships,Parallel GS,26,18.00
+229,Bongiorno Millie,Female,27-03-2016,Racines,ITA,Australia,European Cup,Parallel Slalom,28,20.00
+230,Bongiorno Millie,Female,26-03-2016,Racines,ITA,Australia,European Cup,Parallel Slalom,29,18.00
+231,Bongiorno Millie,Female,24-03-2016,Rogla,SLO,Australia,European Cup,Parallel Slalom,37,9.70
+232,Bongiorno Millie,Female,23-03-2016,Rogla,SLO,Australia,European Cup,Parallel GS,43,
+233,Bongiorno Millie,Female,28-02-2016,Le Relais,CAN,Australia,Nor-Am Cup,Parallel Slalom,15,32.00
+234,Bongiorno Millie,Female,27-02-2016,Le Relais,CAN,Australia,Nor-Am Cup,Parallel Slalom,14,36.00
+235,Bongiorno Millie,Female,26-02-2016,Le Relais,CAN,Australia,Junior,Parallel Slalom,11,28.80
+236,Bongiorno Millie,Female,23-02-2016,"Holiday Valley Resort, NY",USA,Australia,Nor-Am Cup,Parallel GS,10,52.00
+237,Bongiorno Millie,Female,22-02-2016,"Holiday Valley Resort, NY",USA,Australia,Nor-Am Cup,Parallel GS,17,28.00
+238,Bongiorno Millie,Female,18-02-2016,Toronto Ski Club,CAN,Australia,Nor-Am Cup,Parallel GS,21,20.00
+239,Bongiorno Millie,Female,17-02-2016,Toronto Ski Club,CAN,Australia,Nor-Am Cup,Parallel GS,10,52.00
+240,Bongiorno Millie,Female,17-01-2016,"Howelsen Hill, CO",USA,Australia,Nor-Am Cup,Parallel Slalom,13,40.00
+241,Bongiorno Millie,Female,16-01-2016,"Howelsen Hill, CO",USA,Australia,Nor-Am Cup,Parallel GS,10,52.00
+242,Bongiorno Millie,Female,20-12-2015,"Buck Hill, MN",USA,Australia,Nor-Am Cup,Parallel Slalom,21,20.00
+243,Bongiorno Millie,Female,20-12-2015,"Buck Hill, MN",USA,Australia,Junior,Parallel Slalom,11,24.00
+244,Bongiorno Millie,Female,19-12-2015,"Buck Hill, MN",USA,Australia,Nor-Am Cup,Parallel Slalom,26,0.00
+245,Bongiorno Millie,Female,27-08-2013,Mt. Hotham,AUS,Australia,Australian New Zealand Cup,Snowboardcross,DNS,
+246,Bongiorno Millie,Female,26-08-2013,Mt. Hotham,AUS,Australia,Australian New Zealand Cup,Snowboardcross,6,104.00

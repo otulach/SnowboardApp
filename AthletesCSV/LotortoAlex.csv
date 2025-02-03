@@ -1,69 +1,75 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Lotorto Alex,Male,19-10-2024,Chur,SUI,Switzerland,World Cup,Big Air,28,101.10
-1,Lotorto Alex,Male,14-04-2024,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,8,179.50
-2,Lotorto Alex,Male,12-04-2024,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,9,166.10
-3,Lotorto Alex,Male,23-03-2024,Silvaplana,SUI,Switzerland,World Cup,Slopestyle,52,30.40
-4,Lotorto Alex,Male,21-03-2024,Silvaplana,SUI,Switzerland,Qualification,Slopestyle,28,
-5,Lotorto Alex,Male,15-03-2024,Tignes,FRA,Switzerland,World Cup,Slopestyle,49,23.80
-6,Lotorto Alex,Male,15-03-2024,Tignes,FRA,Switzerland,Qualification,Slopestyle,27,
-7,Lotorto Alex,Male,22-02-2024,Prato Nevoso,ITA,Switzerland,European Cup,Slopestyle,6,142.00
-8,Lotorto Alex,Male,15-02-2024,Davos,SUI,Switzerland,European Cup,Big Air,6,69.60
-9,Lotorto Alex,Male,20-01-2024,Laax,SUI,Switzerland,World Cup,Slopestyle,49,43.30
-10,Lotorto Alex,Male,16-01-2024,Laax,SUI,Switzerland,Qualification,Slopestyle,26,
-11,Lotorto Alex,Male,05-01-2024,Font Romeu,FRA,Switzerland,European Cup,Big Air,7,99.90
-12,Lotorto Alex,Male,04-01-2024,Font Romeu,FRA,Switzerland,European Cup Premium,Slopestyle,51,15.90
-13,Lotorto Alex,Male,21-10-2023,Chur,SUI,Switzerland,World Cup,Big Air,31,111.70
-14,Lotorto Alex,Male,21-10-2023,Chur,SUI,Switzerland,Qualification,Big Air,14,
-15,Lotorto Alex,Male,29-09-2023,Cardrona,NZL,Switzerland,Australian New Zealand Cup,Slopestyle,DNS,
-16,Lotorto Alex,Male,17-12-2022,Copper Mountain,USA,Switzerland,World Cup,Big Air,DNS,
-17,Lotorto Alex,Male,15-12-2022,Copper Mountain,USA,Switzerland,Qualification,Big Air,DNS,
-18,Lotorto Alex,Male,22-10-2022,Chur,SUI,Switzerland,Qualification,Big Air,DNS,
-19,Lotorto Alex,Male,22-10-2022,Chur,SUI,Switzerland,World Cup,Big Air,DNS,
-20,Lotorto Alex,Male,07-10-2022,Cardrona Alpine Resort,NZL,Switzerland,Australian New Zealand Cup,Slopestyle,3,175.90
-21,Lotorto Alex,Male,09-04-2022,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,6,175.80
-22,Lotorto Alex,Male,07-04-2022,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,9,141.90
-23,Lotorto Alex,Male,25-03-2022,Vuokatti,FIN,Switzerland,European Youth Olympic Festival,Slopestyle,2,91.00
-24,Lotorto Alex,Male,23-03-2022,Vuokatti,FIN,Switzerland,European Youth Olympic Festival,Big Air,15,21.70
-25,Lotorto Alex,Male,15-03-2022,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,7,61.00
-26,Lotorto Alex,Male,13-03-2022,Leysin,SUI,Switzerland,FIS Junior World Championships,Slopestyle,13,62.90
-27,Lotorto Alex,Male,10-03-2022,Leysin,SUI,Switzerland,FIS Junior World Championships,Big Air,6,106.50
-28,Lotorto Alex,Male,26-02-2022,Götschen,GER,Switzerland,European Cup,Big Air,32,23.90
-29,Lotorto Alex,Male,25-02-2022,Götschen,GER,Switzerland,European Cup,Slopestyle,63,3.70
-30,Lotorto Alex,Male,18-02-2022,Davos,SUI,Switzerland,European Cup Premium,Big Air,5,131.60
-31,Lotorto Alex,Male,12-02-2022,Kotelnica Bialczanska,POL,Switzerland,European Cup Premium,Big Air,2,148.00
-32,Lotorto Alex,Male,28-01-2022,Crans Montana,SUI,Switzerland,European Cup,Big Air,32,4.60
-33,Lotorto Alex,Male,23-01-2022,Prato Nevoso,ITA,Switzerland,European Cup,Slopestyle,18,43.30
-34,Lotorto Alex,Male,18-01-2022,Livigno,ITA,Switzerland,Junior,Slopestyle,2,57.80
-35,Lotorto Alex,Male,15-01-2022,Laax,SUI,Switzerland,World Cup,Slopestyle,40,41.00
-36,Lotorto Alex,Male,13-01-2022,Laax,SUI,Switzerland,Qualification,Slopestyle,21,
-37,Lotorto Alex,Male,11-11-2021,Glacier 3000,SUI,Switzerland,Open,Slopestyle,6,103.70
-38,Lotorto Alex,Male,23-10-2021,Chur,SUI,Switzerland,World Cup,Big Air,27,115.90
-39,Lotorto Alex,Male,01-05-2021,Hintertux,AUT,Switzerland,Junior,Slopestyle,6,94.42
-40,Lotorto Alex,Male,20-04-2021,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,13,91.42
-41,Lotorto Alex,Male,21-03-2021,Krasnoyarsk ,RUS,Switzerland,FIS Junior World Championships,Big Air,16,36.97
-42,Lotorto Alex,Male,20-03-2021,Krasnoyarsk ,RUS,Switzerland,Qualification,Big Air,7,
-43,Lotorto Alex,Male,19-03-2021,Krasnoyarsk ,RUS,Switzerland,FIS Junior World Championships,Slopestyle,12,51.51
-44,Lotorto Alex,Male,18-03-2021,Krasnoyarsk ,RUS,Switzerland,Qualification,Slopestyle,4,
-45,Lotorto Alex,Male,11-03-2021,Leysin,SUI,Switzerland,European Cup,Slopestyle,6,94.18
-46,Lotorto Alex,Male,04-03-2021,Flachauwinkel,AUT,Switzerland,European Cup,Big Air,47,6.57
-47,Lotorto Alex,Male,19-02-2021,Davos,SUI,Switzerland,European Cup,Big Air,12,88.94
-48,Lotorto Alex,Male,06-02-2021,Grindelwald,SUI,Switzerland,FIS,Big Air,2,41.10
-49,Lotorto Alex,Male,05-02-2021,Grindelwald,SUI,Switzerland,FIS,Halfpipe,5,27.28
-50,Lotorto Alex,Male,31-01-2021,Crans Montana,SUI,Switzerland,European Cup,Slopestyle,38,45.05
-51,Lotorto Alex,Male,22-12-2020,Corvatsch,SUI,Switzerland,European Cup,Slopestyle,46,12.12
-52,Lotorto Alex,Male,26-11-2020,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,28,33.36
-53,Lotorto Alex,Male,21-02-2020,Davos,SUI,Switzerland,European Cup Premium,Big Air,21,22.00
-54,Lotorto Alex,Male,26-01-2020,Crans Montana,SUI,Switzerland,European Cup,Halfpipe,14,28.80
-55,Lotorto Alex,Male,25-01-2020,Crans Montana,SUI,Switzerland,FIS,Slopestyle,2,56.00
-56,Lotorto Alex,Male,22-01-2020,Leysin,SUI,Switzerland,Youth Olympic Winter Games,Big Air,14,36.00
-57,Lotorto Alex,Male,22-01-2020,Leysin,SUI,Switzerland,Qualification,Big Air,14,
-58,Lotorto Alex,Male,20-01-2020,Leysin,SUI,Switzerland,Youth Olympic Winter Games,Slopestyle,14,32.40
-59,Lotorto Alex,Male,04-12-2019,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,6,20.00
-60,Lotorto Alex,Male,16-11-2018,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,8,16.00
-61,Lotorto Alex,Male,21-04-2018,Corvatsch,SUI,Switzerland,European Cup,Big Air,31,10.08
-62,Lotorto Alex,Male,18-04-2018,Corvatsch,SUI,Switzerland,European Cup,Slopestyle,19,38.40
-63,Lotorto Alex,Male,15-03-2018,Laax,SUI,Switzerland,European Cup,Halfpipe,19,
-64,Lotorto Alex,Male,24-02-2018,Davos,SUI,Switzerland,FIS,Big Air,10,18.20
-65,Lotorto Alex,Male,23-02-2018,Davos,SUI,Switzerland,European Cup,Halfpipe,18,23.40
-66,Lotorto Alex,Male,28-01-2018,Crans Montana,SUI,Switzerland,European Cup,Big Air,8,51.20
-67,Lotorto Alex,Male,21-11-2017,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,13,14.00
+0,Lotorto Alex,Male,02-02-2025,Aspen,USA,Switzerland,World Cup,Slopestyle,46,
+1,Lotorto Alex,Male,31-01-2025,Aspen,USA,Switzerland,Qualification,Slopestyle,24,
+2,Lotorto Alex,Male,18-01-2025,Laax,SUI,Switzerland,World Cup,Slopestyle,21,170.40
+3,Lotorto Alex,Male,16-01-2025,Laax,SUI,Switzerland,Qualification,Slopestyle,12,
+4,Lotorto Alex,Male,11-01-2025,Kreischberg,AUT,Switzerland,World Cup,Big Air,33,102.30
+5,Lotorto Alex,Male,11-01-2025,Kreischberg,AUT,Switzerland,Qualification,Big Air,15,
+6,Lotorto Alex,Male,19-10-2024,Chur,SUI,Switzerland,World Cup,Big Air,28,101.10
+7,Lotorto Alex,Male,14-04-2024,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,8,179.50
+8,Lotorto Alex,Male,12-04-2024,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,9,166.10
+9,Lotorto Alex,Male,23-03-2024,Silvaplana,SUI,Switzerland,World Cup,Slopestyle,52,30.40
+10,Lotorto Alex,Male,21-03-2024,Silvaplana,SUI,Switzerland,Qualification,Slopestyle,28,
+11,Lotorto Alex,Male,15-03-2024,Tignes,FRA,Switzerland,Qualification,Slopestyle,27,
+12,Lotorto Alex,Male,15-03-2024,Tignes,FRA,Switzerland,World Cup,Slopestyle,49,23.80
+13,Lotorto Alex,Male,22-02-2024,Prato Nevoso,ITA,Switzerland,European Cup,Slopestyle,6,142.00
+14,Lotorto Alex,Male,15-02-2024,Davos,SUI,Switzerland,European Cup,Big Air,6,69.60
+15,Lotorto Alex,Male,20-01-2024,Laax,SUI,Switzerland,World Cup,Slopestyle,49,43.30
+16,Lotorto Alex,Male,16-01-2024,Laax,SUI,Switzerland,Qualification,Slopestyle,26,
+17,Lotorto Alex,Male,05-01-2024,Font Romeu,FRA,Switzerland,European Cup,Big Air,7,99.90
+18,Lotorto Alex,Male,04-01-2024,Font Romeu,FRA,Switzerland,European Cup Premium,Slopestyle,51,15.90
+19,Lotorto Alex,Male,21-10-2023,Chur,SUI,Switzerland,World Cup,Big Air,31,111.70
+20,Lotorto Alex,Male,21-10-2023,Chur,SUI,Switzerland,Qualification,Big Air,14,
+21,Lotorto Alex,Male,29-09-2023,Cardrona,NZL,Switzerland,Australian New Zealand Cup,Slopestyle,DNS,
+22,Lotorto Alex,Male,17-12-2022,Copper Mountain,USA,Switzerland,World Cup,Big Air,DNS,
+23,Lotorto Alex,Male,15-12-2022,Copper Mountain,USA,Switzerland,Qualification,Big Air,DNS,
+24,Lotorto Alex,Male,22-10-2022,Chur,SUI,Switzerland,Qualification,Big Air,DNS,
+25,Lotorto Alex,Male,22-10-2022,Chur,SUI,Switzerland,World Cup,Big Air,DNS,
+26,Lotorto Alex,Male,07-10-2022,Cardrona Alpine Resort,NZL,Switzerland,Australian New Zealand Cup,Slopestyle,3,175.90
+27,Lotorto Alex,Male,09-04-2022,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,6,175.80
+28,Lotorto Alex,Male,07-04-2022,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,9,141.90
+29,Lotorto Alex,Male,25-03-2022,Vuokatti,FIN,Switzerland,European Youth Olympic Festival,Slopestyle,2,91.00
+30,Lotorto Alex,Male,23-03-2022,Vuokatti,FIN,Switzerland,European Youth Olympic Festival,Big Air,15,21.70
+31,Lotorto Alex,Male,15-03-2022,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,7,61.00
+32,Lotorto Alex,Male,13-03-2022,Leysin,SUI,Switzerland,FIS Junior World Championships,Slopestyle,13,62.90
+33,Lotorto Alex,Male,10-03-2022,Leysin,SUI,Switzerland,FIS Junior World Championships,Big Air,6,106.50
+34,Lotorto Alex,Male,26-02-2022,Götschen,GER,Switzerland,European Cup,Big Air,32,23.90
+35,Lotorto Alex,Male,25-02-2022,Götschen,GER,Switzerland,European Cup,Slopestyle,63,3.70
+36,Lotorto Alex,Male,18-02-2022,Davos,SUI,Switzerland,European Cup Premium,Big Air,5,131.60
+37,Lotorto Alex,Male,12-02-2022,Kotelnica Bialczanska,POL,Switzerland,European Cup Premium,Big Air,2,148.00
+38,Lotorto Alex,Male,28-01-2022,Crans Montana,SUI,Switzerland,European Cup,Big Air,32,4.60
+39,Lotorto Alex,Male,23-01-2022,Prato Nevoso,ITA,Switzerland,European Cup,Slopestyle,18,43.30
+40,Lotorto Alex,Male,18-01-2022,Livigno,ITA,Switzerland,Junior,Slopestyle,2,57.80
+41,Lotorto Alex,Male,15-01-2022,Laax,SUI,Switzerland,World Cup,Slopestyle,40,41.00
+42,Lotorto Alex,Male,13-01-2022,Laax,SUI,Switzerland,Qualification,Slopestyle,21,
+43,Lotorto Alex,Male,11-11-2021,Glacier 3000,SUI,Switzerland,Open,Slopestyle,6,103.70
+44,Lotorto Alex,Male,23-10-2021,Chur,SUI,Switzerland,World Cup,Big Air,27,115.90
+45,Lotorto Alex,Male,01-05-2021,Hintertux,AUT,Switzerland,Junior,Slopestyle,6,94.42
+46,Lotorto Alex,Male,20-04-2021,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,13,91.42
+47,Lotorto Alex,Male,21-03-2021,Krasnoyarsk ,RUS,Switzerland,FIS Junior World Championships,Big Air,16,36.97
+48,Lotorto Alex,Male,20-03-2021,Krasnoyarsk ,RUS,Switzerland,Qualification,Big Air,7,
+49,Lotorto Alex,Male,19-03-2021,Krasnoyarsk ,RUS,Switzerland,FIS Junior World Championships,Slopestyle,12,51.51
+50,Lotorto Alex,Male,18-03-2021,Krasnoyarsk ,RUS,Switzerland,Qualification,Slopestyle,4,
+51,Lotorto Alex,Male,11-03-2021,Leysin,SUI,Switzerland,European Cup,Slopestyle,6,94.18
+52,Lotorto Alex,Male,04-03-2021,Flachauwinkel,AUT,Switzerland,European Cup,Big Air,47,6.57
+53,Lotorto Alex,Male,19-02-2021,Davos,SUI,Switzerland,European Cup,Big Air,12,88.94
+54,Lotorto Alex,Male,06-02-2021,Grindelwald,SUI,Switzerland,FIS,Big Air,2,41.10
+55,Lotorto Alex,Male,05-02-2021,Grindelwald,SUI,Switzerland,FIS,Halfpipe,5,27.28
+56,Lotorto Alex,Male,31-01-2021,Crans Montana,SUI,Switzerland,European Cup,Slopestyle,38,45.05
+57,Lotorto Alex,Male,22-12-2020,Corvatsch,SUI,Switzerland,European Cup,Slopestyle,46,12.12
+58,Lotorto Alex,Male,26-11-2020,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,28,33.36
+59,Lotorto Alex,Male,21-02-2020,Davos,SUI,Switzerland,European Cup Premium,Big Air,21,22.00
+60,Lotorto Alex,Male,26-01-2020,Crans Montana,SUI,Switzerland,European Cup,Halfpipe,14,28.80
+61,Lotorto Alex,Male,25-01-2020,Crans Montana,SUI,Switzerland,FIS,Slopestyle,2,56.00
+62,Lotorto Alex,Male,22-01-2020,Leysin,SUI,Switzerland,Youth Olympic Winter Games,Big Air,14,36.00
+63,Lotorto Alex,Male,22-01-2020,Leysin,SUI,Switzerland,Qualification,Big Air,14,
+64,Lotorto Alex,Male,20-01-2020,Leysin,SUI,Switzerland,Youth Olympic Winter Games,Slopestyle,14,32.40
+65,Lotorto Alex,Male,04-12-2019,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,6,20.00
+66,Lotorto Alex,Male,16-11-2018,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,8,16.00
+67,Lotorto Alex,Male,21-04-2018,Corvatsch,SUI,Switzerland,European Cup,Big Air,31,10.08
+68,Lotorto Alex,Male,18-04-2018,Corvatsch,SUI,Switzerland,European Cup,Slopestyle,19,38.40
+69,Lotorto Alex,Male,15-03-2018,Laax,SUI,Switzerland,European Cup,Halfpipe,19,
+70,Lotorto Alex,Male,24-02-2018,Davos,SUI,Switzerland,FIS,Big Air,10,18.20
+71,Lotorto Alex,Male,23-02-2018,Davos,SUI,Switzerland,European Cup,Halfpipe,18,23.40
+72,Lotorto Alex,Male,28-01-2018,Crans Montana,SUI,Switzerland,European Cup,Big Air,8,51.20
+73,Lotorto Alex,Male,21-11-2017,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,13,14.00

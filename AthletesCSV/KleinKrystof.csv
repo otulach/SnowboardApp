@@ -1,35 +1,43 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Klein Krystof,Male,07-04-2024,Samnaun,SUI,Czechia,National Championships,Giant Slalom,13,58.00
-1,Klein Krystof,Male,06-04-2024,Samnaun,SUI,Czechia,National Championships,Parallel Slalom,14,52.20
-2,Klein Krystof,Male,17-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,4,35.00
-3,Klein Krystof,Male,16-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,4,35.00
-4,Klein Krystof,Male,09-02-2024,Funes - Vilnoess,ITA,Czechia,National Championships,Parallel Slalom,DSQ,
-5,Klein Krystof,Male,08-02-2024,Funes - Vilnoess,ITA,Czechia,National Championships,Parallel Giant Slalom,32,7.54
-6,Klein Krystof,Male,04-02-2024,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,DSQ,
-7,Klein Krystof,Male,03-02-2024,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,DSQ,
-8,Klein Krystof,Male,25-03-2023,Bansko,BUL,Czechia,FIS Junior World Championships,Parallel Slalom,DSQ,
-9,Klein Krystof,Male,25-03-2023,Bansko,BUL,Czechia,Qualification,Parallel Slalom,DSQ,
-10,Klein Krystof,Male,24-03-2023,Bansko,BUL,Czechia,FIS Junior World Championships,Parallel Giant Slalom,25,14.40
-11,Klein Krystof,Male,24-03-2023,Bansko,BUL,Czechia,Qualification,Parallel Giant Slalom,25,
-12,Klein Krystof,Male,19-03-2023,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,42,4.30
-13,Klein Krystof,Male,18-03-2023,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,DNF,
-14,Klein Krystof,Male,12-03-2023,ORTISEI,ITA,Czechia,FIS,Giant Slalom,11,43.20
-15,Klein Krystof,Male,11-03-2023,ORTISEI,ITA,Czechia,FIS,Giant Slalom,14,39.60
-16,Klein Krystof,Male,05-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,6,28.00
-17,Klein Krystof,Male,04-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,16,10.50
-18,Klein Krystof,Male,03-03-2023,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Giant Slalom,3,42.00
-19,Klein Krystof,Male,27-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,6,48.00
-20,Klein Krystof,Male,26-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,22,10.80
-21,Klein Krystof,Male,25-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,14,21.60
-22,Klein Krystof,Male,05-02-2023,Gosau,AUT,Czechia,FIS,Slalom,9,31.90
-23,Klein Krystof,Male,04-02-2023,Gosau,AUT,Czechia,FIS,Slalom,30,
-24,Klein Krystof,Male,04-02-2023,Gosau,AUT,Czechia,FIS,Slalom,DNF,
-25,Klein Krystof,Male,29-01-2023,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,41,
-26,Klein Krystof,Male,29-01-2023,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,41,3.28
-27,Klein Krystof,Male,28-01-2023,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,DNS,
-28,Klein Krystof,Male,28-01-2023,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,DNS,
-29,Klein Krystof,Male,08-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Giant Slalom,14,21.60
-30,Klein Krystof,Male,07-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,21,12.00
-31,Klein Krystof,Male,18-12-2022,Hochfügen,GER,Czechia,Qualification,Parallel Giant Slalom,48,
-32,Klein Krystof,Male,18-12-2022,Hochfügen,GER,Czechia,European Cup,Parallel Giant Slalom,48,4.19
-33,Klein Krystof,Male,17-12-2022,Hochfügen,GER,Czechia,European Cup,Parallel Giant Slalom,45,3.06
+0,Klein Krystof,Male,19-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,16,13.50
+1,Klein Krystof,Male,18-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,7,32.40
+2,Klein Krystof,Male,22-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,DSQ,
+3,Klein Krystof,Male,21-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,18,20.80
+4,Klein Krystof,Male,20-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,41,3.28
+5,Klein Krystof,Male,19-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,41,3.64
+6,Klein Krystof,Male,15-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,58,3.14
+7,Klein Krystof,Male,14-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,48,2.58
+8,Klein Krystof,Male,07-04-2024,Samnaun,SUI,Czechia,National Championships,Giant Slalom,13,58.00
+9,Klein Krystof,Male,06-04-2024,Samnaun,SUI,Czechia,National Championships,Parallel Slalom,14,52.20
+10,Klein Krystof,Male,17-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,4,35.00
+11,Klein Krystof,Male,16-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,4,35.00
+12,Klein Krystof,Male,09-02-2024,Funes - Vilnoess,ITA,Czechia,National Championships,Parallel Slalom,DSQ,
+13,Klein Krystof,Male,08-02-2024,Funes - Vilnoess,ITA,Czechia,National Championships,Parallel Giant Slalom,32,7.54
+14,Klein Krystof,Male,04-02-2024,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,DSQ,
+15,Klein Krystof,Male,03-02-2024,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,DSQ,
+16,Klein Krystof,Male,25-03-2023,Bansko,BUL,Czechia,FIS Junior World Championships,Parallel Slalom,DSQ,
+17,Klein Krystof,Male,25-03-2023,Bansko,BUL,Czechia,Qualification,Parallel Slalom,DSQ,
+18,Klein Krystof,Male,24-03-2023,Bansko,BUL,Czechia,FIS Junior World Championships,Parallel Giant Slalom,25,14.40
+19,Klein Krystof,Male,24-03-2023,Bansko,BUL,Czechia,Qualification,Parallel Giant Slalom,25,
+20,Klein Krystof,Male,19-03-2023,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,42,4.30
+21,Klein Krystof,Male,18-03-2023,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,DNF,
+22,Klein Krystof,Male,12-03-2023,ORTISEI,ITA,Czechia,FIS,Giant Slalom,11,43.20
+23,Klein Krystof,Male,11-03-2023,ORTISEI,ITA,Czechia,FIS,Giant Slalom,14,39.60
+24,Klein Krystof,Male,05-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,6,28.00
+25,Klein Krystof,Male,04-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,16,10.50
+26,Klein Krystof,Male,03-03-2023,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Giant Slalom,3,42.00
+27,Klein Krystof,Male,27-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,6,48.00
+28,Klein Krystof,Male,26-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,22,10.80
+29,Klein Krystof,Male,25-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,14,21.60
+30,Klein Krystof,Male,05-02-2023,Gosau,AUT,Czechia,FIS,Slalom,9,31.90
+31,Klein Krystof,Male,04-02-2023,Gosau,AUT,Czechia,FIS,Slalom,DNF,
+32,Klein Krystof,Male,04-02-2023,Gosau,AUT,Czechia,FIS,Slalom,30,
+33,Klein Krystof,Male,29-01-2023,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,41,
+34,Klein Krystof,Male,29-01-2023,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,41,3.28
+35,Klein Krystof,Male,28-01-2023,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,DNS,
+36,Klein Krystof,Male,28-01-2023,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,DNS,
+37,Klein Krystof,Male,08-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Giant Slalom,14,21.60
+38,Klein Krystof,Male,07-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,21,12.00
+39,Klein Krystof,Male,18-12-2022,Hochfügen,GER,Czechia,European Cup,Parallel Giant Slalom,48,4.19
+40,Klein Krystof,Male,18-12-2022,Hochfügen,GER,Czechia,Qualification,Parallel Giant Slalom,48,
+41,Klein Krystof,Male,17-12-2022,Hochfügen,GER,Czechia,European Cup,Parallel Giant Slalom,45,3.06

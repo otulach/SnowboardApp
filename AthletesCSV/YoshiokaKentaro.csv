@@ -1,138 +1,146 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Yoshioka Kentaro,Male,02-03-2024,Akan,JPN,Japan,FIS,Parallel Giant Slalom,1,180.00
-1,Yoshioka Kentaro,Male,01-03-2024,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,1,180.00
-2,Yoshioka Kentaro,Male,05-03-2023,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,2,88.00
-3,Yoshioka Kentaro,Male,04-03-2023,Akan,JPN,Japan,FIS,Parallel Giant Slalom,1,110.00
-4,Yoshioka Kentaro,Male,04-04-2015,Sapporo,JPN,Japan,National Championships,Giant Slalom,3,156.00
-5,Yoshioka Kentaro,Male,04-04-2015,Sapporo,JPN,Japan,FIS,Giant Slalom,2,208.00
-6,Yoshioka Kentaro,Male,27-03-2015,Canazei,ITA,Japan,National Championships,Parallel Slalom,32,9.36
-7,Yoshioka Kentaro,Male,26-03-2015,Canazei,ITA,Japan,National Championships,Parallel GS,4,180.00
-8,Yoshioka Kentaro,Male,22-03-2015,Hochficht,AUT,Japan,National Championships,Giant Slalom,4,180.00
-9,Yoshioka Kentaro,Male,21-03-2015,Hochficht,AUT,Japan,National Championships,Parallel Slalom,6,144.00
-10,Yoshioka Kentaro,Male,18-03-2015,Rogla,SLO,Japan,European Cup,Parallel Slalom,15,80.00
-11,Yoshioka Kentaro,Male,17-03-2015,Rogla,SLO,Japan,European Cup,Parallel GS,8,160.00
-12,Yoshioka Kentaro,Male,14-03-2015,Winterberg,GER,Japan,World Cup,Parallel Slalom,23,80.00
-13,Yoshioka Kentaro,Male,01-03-2015,Asahikawa,JPN,Japan,World Cup,Parallel Slalom,23,80.00
-14,Yoshioka Kentaro,Male,28-02-2015,Asahikawa,JPN,Japan,World Cup,Parallel GS,26,50.00
-15,Yoshioka Kentaro,Male,07-02-2015,Sudelfeld,GER,Japan,World Cup,Parallel GS,15,160.00
-16,Yoshioka Kentaro,Male,06-02-2015,Sudelfeld,GER,Japan,Qualification,Parallel GS,15,
-17,Yoshioka Kentaro,Male,31-01-2015,Rogla,SLO,Japan,World Cup,Parallel GS,31,
-18,Yoshioka Kentaro,Male,23-01-2015,Lachtal,AUT,Japan,World Championships,Parallel GS,20,110.00
-19,Yoshioka Kentaro,Male,22-01-2015,Lachtal,AUT,Japan,World Championships,Parallel Slalom,33,24.00
-20,Yoshioka Kentaro,Male,09-01-2015,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,44,17.30
-21,Yoshioka Kentaro,Male,06-01-2015,Dachstein West / Gosau,AUT,Japan,FIS,Parallel Slalom,8,83.20
-22,Yoshioka Kentaro,Male,05-01-2015,Dachstein West / Gosau,AUT,Japan,FIS,Parallel Slalom,9,75.40
-23,Yoshioka Kentaro,Male,18-12-2014,Montafon,AUT,Japan,World Cup,Parallel Slalom,40,18.50
-24,Yoshioka Kentaro,Male,16-12-2014,Carezza,ITA,Japan,World Cup,Parallel GS,22,90.00
-25,Yoshioka Kentaro,Male,06-04-2014,Sapporo,JPN,Japan,FIS,Giant Slalom,1,200.00
-26,Yoshioka Kentaro,Male,02-04-2014,Rusutsu,JPN,Japan,National Championships,Parallel GS,2,288.00
-27,Yoshioka Kentaro,Male,01-02-2014,Sudelfeld,GER,Japan,World Cup,Parallel GS,25,60.00
-28,Yoshioka Kentaro,Male,26-01-2014,Lizzola Valbondione,ITA,Japan,European Cup,Parallel Slalom,7,180.00
-29,Yoshioka Kentaro,Male,25-01-2014,Lizzola Valbondione,ITA,Japan,European Cup,Parallel Slalom,4,250.00
-30,Yoshioka Kentaro,Male,18-01-2014,Rogla,SLO,Japan,World Cup,Parallel GS,14,180.00
-31,Yoshioka Kentaro,Male,12-01-2014,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,38,
-32,Yoshioka Kentaro,Male,10-01-2014,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,47,16.40
-33,Yoshioka Kentaro,Male,22-12-2013,Schönberg-Lachtal,AUT,Japan,European Cup,Parallel Slalom,20,55.00
-34,Yoshioka Kentaro,Male,21-12-2013,Schönberg-Lachtal,AUT,Japan,European Cup,Parallel Slalom,37,9.70
-35,Yoshioka Kentaro,Male,14-12-2013,Carezza,ITA,Japan,World Cup,Parallel Slalom,24,70.00
-36,Yoshioka Kentaro,Male,13-12-2013,Carezza,ITA,Japan,World Cup,Parallel GS,12,220.00
-37,Yoshioka Kentaro,Male,08-12-2013,Hochfügen,AUT,Japan,European Cup,Parallel GS,21,50.00
-38,Yoshioka Kentaro,Male,07-12-2013,Hochfügen,AUT,Japan,European Cup,Parallel GS,8,160.00
-39,Yoshioka Kentaro,Male,15-11-2013,"Copper Mountain, CO",USA,Japan,Nor-Am Cup,Parallel Slalom,13,100.00
-40,Yoshioka Kentaro,Male,14-11-2013,"Copper Mountain, CO",USA,Japan,Nor-Am Cup,Parallel Slalom,15,80.00
-41,Yoshioka Kentaro,Male,12-11-2013,"Copper Mountain, CO",USA,Japan,Nor-Am Cup,Parallel GS,15,80.00
-42,Yoshioka Kentaro,Male,11-11-2013,"Copper Mountain, CO",USA,Japan,Nor-Am Cup,Parallel GS,17,
-43,Yoshioka Kentaro,Male,04-04-2013,Rusutsu,JPN,Japan,National Championships,Parallel GS,10,93.60
-44,Yoshioka Kentaro,Male,23-03-2013,Götschen,GER,Japan,National Championships,Parallel GS,4,180.00
-45,Yoshioka Kentaro,Male,22-03-2013,Götschen,GER,Japan,National Championships,Parallel Slalom,16,54.00
-46,Yoshioka Kentaro,Male,16-03-2013,La Molina,ESP,Japan,World Cup,Parallel GS,22,90.00
-47,Yoshioka Kentaro,Male,10-03-2013,Arosa,SUI,Japan,World Cup,Parallel GS,50,
-48,Yoshioka Kentaro,Male,03-03-2013,Gerlitzen,AUT,Japan,FIS,Parallel Slalom,3,156.00
-49,Yoshioka Kentaro,Male,02-03-2013,Gerlitzen,AUT,Japan,European Cup,Parallel Slalom,3,300.00
-50,Yoshioka Kentaro,Male,17-02-2013,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,13,90.00
-51,Yoshioka Kentaro,Male,16-02-2013,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,19,48.00
-52,Yoshioka Kentaro,Male,10-02-2013,Marianske Lazne,CZE,Japan,European Cup,Parallel Slalom,12,70.40
-53,Yoshioka Kentaro,Male,09-02-2013,Marianske Lazne,CZE,Japan,European Cup,Parallel Slalom,17,44.80
-54,Yoshioka Kentaro,Male,25-01-2013,Oze Tokura,JPN,Japan,FIS,Giant Slalom,1,90.00
-55,Yoshioka Kentaro,Male,24-01-2013,Oze Tokura,JPN,Japan,FIS,Parallel Slalom,7,32.40
-56,Yoshioka Kentaro,Male,20-01-2013,Vratna - Paseky,SVK,Japan,European Cup,Parallel GS,6,128.00
-57,Yoshioka Kentaro,Male,19-01-2013,Vratna - Paseky,SVK,Japan,European Cup,Parallel GS,3,192.00
-58,Yoshioka Kentaro,Male,16-12-2012,Racines/Ratschings,ITA,Japan,European Cup,Parallel Slalom,51,7.60
-59,Yoshioka Kentaro,Male,15-12-2012,Racines/Ratschings,ITA,Japan,European Cup,Parallel Slalom,27,18.00
-60,Yoshioka Kentaro,Male,09-12-2012,Lachtal,AUT,Japan,European Cup,Parallel GS,49,7.90
-61,Yoshioka Kentaro,Male,08-12-2012,Lachtal,AUT,Japan,European Cup,Parallel GS,DNF,
-62,Yoshioka Kentaro,Male,08-04-2012,Sapporo,JPN,Japan,FIS,Giant Slalom,2,128.00
-63,Yoshioka Kentaro,Male,05-04-2012,Rusutsu,JPN,Japan,National Championships,Parallel GS,11,38.40
-64,Yoshioka Kentaro,Male,17-03-2012,Valmalenco,ITA,Japan,World Cup,Parallel GS,42,17.90
-65,Yoshioka Kentaro,Male,10-03-2012,La Molina,ESP,Japan,World Cup,Parallel GS,36,0.00
-66,Yoshioka Kentaro,Male,03-03-2012,Moscow,RUS,Japan,World Cup,Parallel Slalom,26,50.00
-67,Yoshioka Kentaro,Male,22-02-2012,Stoneham,CAN,Japan,World Cup,Parallel GS,34,22.00
-68,Yoshioka Kentaro,Male,19-02-2012,Le Relais,CAN,Japan,Nor-Am Cup,Parallel Slalom,6,104.00
-69,Yoshioka Kentaro,Male,18-02-2012,Le Relais,CAN,Japan,Nor-Am Cup,Parallel GS,19,60.00
-70,Yoshioka Kentaro,Male,28-01-2012,Sudelfeld,GER,Japan,World Cup,Parallel GS,34,22.00
-71,Yoshioka Kentaro,Male,22-01-2012,Valgardena-S. Cristina-Seceda,ITA,Japan,FIS,Slalom,4,130.00
-72,Yoshioka Kentaro,Male,21-01-2012,Valgardena-S. Cristina-Seceda,ITA,Japan,FIS,Slalom,54,0.00
-73,Yoshioka Kentaro,Male,15-01-2012,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,36,
-74,Yoshioka Kentaro,Male,13-01-2012,Jauerling,AUT,Japan,World Cup,Parallel Slalom,23,80.00
-75,Yoshioka Kentaro,Male,08-01-2012,Kreischberg,AUT,Japan,FIS,Parallel GS,11,62.40
-76,Yoshioka Kentaro,Male,07-01-2012,Kreischberg,AUT,Japan,FIS,Parallel GS,34,5.72
-77,Yoshioka Kentaro,Male,22-12-2011,Carezza,ITA,Japan,World Cup,Parallel Slalom,40,18.50
-78,Yoshioka Kentaro,Male,21-12-2011,Carezza,ITA,Japan,World Cup,Parallel GS,35,20.00
-79,Yoshioka Kentaro,Male,15-12-2011,Telluride,USA,Japan,Qualification,Parallel GS,21,
-80,Yoshioka Kentaro,Male,15-12-2011,Telluride,USA,Japan,World Cup,Parallel GS,21,100.00
-81,Yoshioka Kentaro,Male,13-10-2011,Landgraaf,NED,Japan,World Cup,Parallel Slalom,38,19.10
-82,Yoshioka Kentaro,Male,10-04-2011,Sapporo,JPN,Japan,FIS,Giant Slalom,1,110.00
-83,Yoshioka Kentaro,Male,27-03-2011,Arosa,SUI,Japan,World Cup,Parallel GS,42,
-84,Yoshioka Kentaro,Male,04-03-2011,Oze Tokura,JPN,Japan,National Championships,Parallel GS,1,140.00
-85,Yoshioka Kentaro,Male,20-02-2011,Stoneham,CAN,Japan,World Cup,Parallel GS,36,19.70
-86,Yoshioka Kentaro,Male,09-02-2011,Yongpyong,KOR,Japan,World Cup,Parallel Slalom,31,28.00
-87,Yoshioka Kentaro,Male,31-01-2011,Oze Tokura,JPN,Japan,FIS,Giant Slalom,1,130.00
-88,Yoshioka Kentaro,Male,30-01-2011,Oze Tokura,JPN,Japan,FIS,Parallel Slalom,3,78.00
-89,Yoshioka Kentaro,Male,20-12-2010,"Steamboad Springs, CO",USA,Japan,Nor-Am Cup,Parallel GS,14,90.00
-90,Yoshioka Kentaro,Male,11-12-2010,Ratschings/Racines,ITA,Japan,European Cup,Parallel GS,9,84.10
-91,Yoshioka Kentaro,Male,10-12-2010,Ratschings/Racines,ITA,Japan,FIS,Parallel GS,30,8.32
-92,Yoshioka Kentaro,Male,19-11-2010,"Copper, CO",USA,Japan,Nor-Am Cup,Parallel Slalom,11,96.00
-93,Yoshioka Kentaro,Male,18-11-2010,"Copper, CO",USA,Japan,Nor-Am Cup,Parallel GS,20,49.50
-94,Yoshioka Kentaro,Male,05-03-2010,Minamiuonuma,JPN,Japan,National Championships,Parallel GS,6,72.00
-95,Yoshioka Kentaro,Male,07-02-2010,Sapporo,JPN,Japan,FIS,Giant Slalom,1,50.00
-96,Yoshioka Kentaro,Male,31-01-2010,Oze Tokura,JPN,Japan,FIS,Giant Slalom,2,96.00
-97,Yoshioka Kentaro,Male,30-01-2010,Oze Tokura,JPN,Japan,FIS,Parallel Slalom,3,72.00
-98,Yoshioka Kentaro,Male,21-01-2010,Tsugaikekohgen,JPN,Japan,FIS,Giant Slalom,3,72.00
-99,Yoshioka Kentaro,Male,19-12-2009,Racines,ITA,Japan,FIS,Giant Slalom,1,140.00
-100,Yoshioka Kentaro,Male,18-12-2009,Racines,ITA,Japan,FIS,Giant Slalom,1,140.00
-101,Yoshioka Kentaro,Male,06-12-2009,Carezza,ITA,Japan,European Cup,Parallel Slalom,31,12.60
-102,Yoshioka Kentaro,Male,05-12-2009,Carezza,ITA,Japan,European Cup,Parallel GS,27,22.50
-103,Yoshioka Kentaro,Male,29-11-2009,"Hochfuegen, Zillertal (AUT)",GER,Japan,European Cup,Parallel GS,45,8.50
-104,Yoshioka Kentaro,Male,28-11-2009,"Hochfuegen, Zillertal (AUT)",GER,Japan,National Championships,Parallel GS,25,21.60
-105,Yoshioka Kentaro,Male,12-03-2009,Minamiuonuma,JPN,Japan,National Championships,Giant Slalom,5,72.00
-106,Yoshioka Kentaro,Male,21-02-2009,Kashimayari,JPN,Japan,FIS,Giant Slalom,3,84.00
-107,Yoshioka Kentaro,Male,30-01-2009,Ozetokura,JPN,Japan,FIS,Giant Slalom,DNF,
-108,Yoshioka Kentaro,Male,29-01-2009,Ozetokura,JPN,Japan,FIS,Parallel Slalom,11,33.60
-109,Yoshioka Kentaro,Male,11-01-2009,Kasberg,AUT,Japan,European Cup,Parallel GS,67,3.74
-110,Yoshioka Kentaro,Male,10-01-2009,Kasberg,AUT,Japan,European Cup,Parallel GS,21,36.00
-111,Yoshioka Kentaro,Male,04-01-2009,Marianske Lazne,CZE,Japan,European Cup,Parallel Slalom,20,28.60
-112,Yoshioka Kentaro,Male,03-01-2009,Marianske Lazne,CZE,Japan,European Cup,Parallel Slalom,21,26.00
-113,Yoshioka Kentaro,Male,29-12-2008,Bischofswiesen / Götschen,GER,Japan,European Cup,Parallel GS,37,9.70
-114,Yoshioka Kentaro,Male,20-12-2008,Ratschings/Racines,ITA,Japan,European Cup,Giant Slalom,36,5.12
-115,Yoshioka Kentaro,Male,19-12-2008,Ratschings/Racines,ITA,Japan,European Cup,Giant Slalom,12,57.20
-116,Yoshioka Kentaro,Male,14-12-2008,Welschnofen/Karerpass,ITA,Japan,European Cup,Giant Slalom,24,18.20
-117,Yoshioka Kentaro,Male,13-12-2008,Welschnofen/Karerpass,ITA,Japan,FIS,Giant Slalom,8,76.80
-118,Yoshioka Kentaro,Male,07-12-2008,Innsbruck/Patscherkofel,AUT,Japan,FIS,Parallel Slalom,75,2.08
-119,Yoshioka Kentaro,Male,06-12-2008,Innsbruck/Patscherkofel,AUT,Japan,FIS,Parallel Slalom,98,
-120,Yoshioka Kentaro,Male,30-11-2008,"Hochfügen, Zillertal",AUT,Japan,National Championships,Parallel GS,13,72.00
-121,Yoshioka Kentaro,Male,20-11-2008,"Copper, CO",USA,Japan,Nor-Am Cup,Parallel Slalom,31,14.00
-122,Yoshioka Kentaro,Male,19-11-2008,"Copper, CO",USA,Japan,Nor-Am Cup,Parallel GS,35,10.00
-123,Yoshioka Kentaro,Male,18-03-2008,Valmalenco,ITA,Japan,FIS Junior World Championships,Parallel Slalom,45,
-124,Yoshioka Kentaro,Male,17-03-2008,Valmalenco,ITA,Japan,FIS Junior World Championships,Parallel GS,7,129.60
-125,Yoshioka Kentaro,Male,27-02-2008,Minamiuonuma,JPN,Japan,National Championships,Parallel GS,8,44.80
-126,Yoshioka Kentaro,Male,07-01-2008,Oze Tokura,JPN,Japan,FIS,Giant Slalom,5,31.50
-127,Yoshioka Kentaro,Male,06-01-2008,Oze Tokura,JPN,Japan,FIS,Parallel Slalom,21,7.00
-128,Yoshioka Kentaro,Male,09-03-2007,Gujo,JPN,Japan,National Championships,Parallel GS,11,24.00
-129,Yoshioka Kentaro,Male,27-01-2007,Sapporo Makomanai,JPN,Japan,FIS,Parallel GS,16,7.50
-130,Yoshioka Kentaro,Male,22-01-2007,Oze Tokura,JPN,Japan,FIS,Slalom,23,4.00
-131,Yoshioka Kentaro,Male,21-01-2007,Oze Tokura,JPN,Japan,FIS,Giant Slalom,5,22.50
-132,Yoshioka Kentaro,Male,05-01-2007,Sapporo Makomanai,JPN,Japan,FIS,Giant Slalom,17,16.80
-133,Yoshioka Kentaro,Male,24-03-2006,Tsubetsu,JPN,Japan,National Championships,Parallel GS,8,41.60
-134,Yoshioka Kentaro,Male,28-01-2006,Sapporo Makomanai,JPN,Japan,FIS,Parallel GS,8,22.40
-135,Yoshioka Kentaro,Male,28-02-2005,Sugadairakogen,JPN,Japan,National Championships,Giant Slalom,18,18.20
-136,Yoshioka Kentaro,Male,09-01-2005,Sapporo Makomanai,JPN,Japan,FIS,Parallel GS,12,19.80
+0,Yoshioka Kentaro,Male,08-12-2024,Yanqing (NASC),CHN,Japan,World Cup,Parallel Slalom,DSQ,
+1,Yoshioka Kentaro,Male,08-12-2024,Yanqing (NASC),CHN,Japan,Qualification,Parallel Slalom,DSQ,
+2,Yoshioka Kentaro,Male,07-12-2024,Yanqing (NASC),CHN,Japan,World Cup,Parallel Giant Slalom,26,50.00
+3,Yoshioka Kentaro,Male,07-12-2024,Yanqing (NASC),CHN,Japan,Qualification,Parallel Giant Slalom,26,
+4,Yoshioka Kentaro,Male,01-12-2024,Mylin,CHN,Japan,World Cup,Parallel Slalom,DNF,
+5,Yoshioka Kentaro,Male,01-12-2024,Mylin,CHN,Japan,Qualification,Parallel Slalom,DNF,
+6,Yoshioka Kentaro,Male,30-11-2024,Mylin,CHN,Japan,World Cup,Parallel Giant Slalom,43,17.60
+7,Yoshioka Kentaro,Male,30-11-2024,Mylin,CHN,Japan,Qualification,Parallel Giant Slalom,43,
+8,Yoshioka Kentaro,Male,02-03-2024,Akan,JPN,Japan,FIS,Parallel Giant Slalom,1,180.00
+9,Yoshioka Kentaro,Male,01-03-2024,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,1,180.00
+10,Yoshioka Kentaro,Male,05-03-2023,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,2,88.00
+11,Yoshioka Kentaro,Male,04-03-2023,Akan,JPN,Japan,FIS,Parallel Giant Slalom,1,110.00
+12,Yoshioka Kentaro,Male,04-04-2015,Sapporo,JPN,Japan,National Championships,Giant Slalom,3,156.00
+13,Yoshioka Kentaro,Male,04-04-2015,Sapporo,JPN,Japan,FIS,Giant Slalom,2,208.00
+14,Yoshioka Kentaro,Male,27-03-2015,Canazei,ITA,Japan,National Championships,Parallel Slalom,32,9.36
+15,Yoshioka Kentaro,Male,26-03-2015,Canazei,ITA,Japan,National Championships,Parallel GS,4,180.00
+16,Yoshioka Kentaro,Male,22-03-2015,Hochficht,AUT,Japan,National Championships,Giant Slalom,4,180.00
+17,Yoshioka Kentaro,Male,21-03-2015,Hochficht,AUT,Japan,National Championships,Parallel Slalom,6,144.00
+18,Yoshioka Kentaro,Male,18-03-2015,Rogla,SLO,Japan,European Cup,Parallel Slalom,15,80.00
+19,Yoshioka Kentaro,Male,17-03-2015,Rogla,SLO,Japan,European Cup,Parallel GS,8,160.00
+20,Yoshioka Kentaro,Male,14-03-2015,Winterberg,GER,Japan,World Cup,Parallel Slalom,23,80.00
+21,Yoshioka Kentaro,Male,01-03-2015,Asahikawa,JPN,Japan,World Cup,Parallel Slalom,23,80.00
+22,Yoshioka Kentaro,Male,28-02-2015,Asahikawa,JPN,Japan,World Cup,Parallel GS,26,50.00
+23,Yoshioka Kentaro,Male,07-02-2015,Sudelfeld,GER,Japan,World Cup,Parallel GS,15,160.00
+24,Yoshioka Kentaro,Male,06-02-2015,Sudelfeld,GER,Japan,Qualification,Parallel GS,15,
+25,Yoshioka Kentaro,Male,31-01-2015,Rogla,SLO,Japan,World Cup,Parallel GS,31,
+26,Yoshioka Kentaro,Male,23-01-2015,Lachtal,AUT,Japan,World Championships,Parallel GS,20,110.00
+27,Yoshioka Kentaro,Male,22-01-2015,Lachtal,AUT,Japan,World Championships,Parallel Slalom,33,24.00
+28,Yoshioka Kentaro,Male,09-01-2015,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,44,17.30
+29,Yoshioka Kentaro,Male,06-01-2015,Dachstein West / Gosau,AUT,Japan,FIS,Parallel Slalom,8,83.20
+30,Yoshioka Kentaro,Male,05-01-2015,Dachstein West / Gosau,AUT,Japan,FIS,Parallel Slalom,9,75.40
+31,Yoshioka Kentaro,Male,18-12-2014,Montafon,AUT,Japan,World Cup,Parallel Slalom,40,18.50
+32,Yoshioka Kentaro,Male,16-12-2014,Carezza,ITA,Japan,World Cup,Parallel GS,22,90.00
+33,Yoshioka Kentaro,Male,06-04-2014,Sapporo,JPN,Japan,FIS,Giant Slalom,1,200.00
+34,Yoshioka Kentaro,Male,02-04-2014,Rusutsu,JPN,Japan,National Championships,Parallel GS,2,288.00
+35,Yoshioka Kentaro,Male,01-02-2014,Sudelfeld,GER,Japan,World Cup,Parallel GS,25,60.00
+36,Yoshioka Kentaro,Male,26-01-2014,Lizzola Valbondione,ITA,Japan,European Cup,Parallel Slalom,7,180.00
+37,Yoshioka Kentaro,Male,25-01-2014,Lizzola Valbondione,ITA,Japan,European Cup,Parallel Slalom,4,250.00
+38,Yoshioka Kentaro,Male,18-01-2014,Rogla,SLO,Japan,World Cup,Parallel GS,14,180.00
+39,Yoshioka Kentaro,Male,12-01-2014,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,38,
+40,Yoshioka Kentaro,Male,10-01-2014,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,47,16.40
+41,Yoshioka Kentaro,Male,22-12-2013,Schönberg-Lachtal,AUT,Japan,European Cup,Parallel Slalom,20,55.00
+42,Yoshioka Kentaro,Male,21-12-2013,Schönberg-Lachtal,AUT,Japan,European Cup,Parallel Slalom,37,9.70
+43,Yoshioka Kentaro,Male,14-12-2013,Carezza,ITA,Japan,World Cup,Parallel Slalom,24,70.00
+44,Yoshioka Kentaro,Male,13-12-2013,Carezza,ITA,Japan,World Cup,Parallel GS,12,220.00
+45,Yoshioka Kentaro,Male,08-12-2013,Hochfügen,AUT,Japan,European Cup,Parallel GS,21,50.00
+46,Yoshioka Kentaro,Male,07-12-2013,Hochfügen,AUT,Japan,European Cup,Parallel GS,8,160.00
+47,Yoshioka Kentaro,Male,15-11-2013,"Copper Mountain, CO",USA,Japan,Nor-Am Cup,Parallel Slalom,13,100.00
+48,Yoshioka Kentaro,Male,14-11-2013,"Copper Mountain, CO",USA,Japan,Nor-Am Cup,Parallel Slalom,15,80.00
+49,Yoshioka Kentaro,Male,12-11-2013,"Copper Mountain, CO",USA,Japan,Nor-Am Cup,Parallel GS,15,80.00
+50,Yoshioka Kentaro,Male,11-11-2013,"Copper Mountain, CO",USA,Japan,Nor-Am Cup,Parallel GS,17,
+51,Yoshioka Kentaro,Male,04-04-2013,Rusutsu,JPN,Japan,National Championships,Parallel GS,10,93.60
+52,Yoshioka Kentaro,Male,23-03-2013,Götschen,GER,Japan,National Championships,Parallel GS,4,180.00
+53,Yoshioka Kentaro,Male,22-03-2013,Götschen,GER,Japan,National Championships,Parallel Slalom,16,54.00
+54,Yoshioka Kentaro,Male,16-03-2013,La Molina,ESP,Japan,World Cup,Parallel GS,22,90.00
+55,Yoshioka Kentaro,Male,10-03-2013,Arosa,SUI,Japan,World Cup,Parallel GS,50,
+56,Yoshioka Kentaro,Male,03-03-2013,Gerlitzen,AUT,Japan,FIS,Parallel Slalom,3,156.00
+57,Yoshioka Kentaro,Male,02-03-2013,Gerlitzen,AUT,Japan,European Cup,Parallel Slalom,3,300.00
+58,Yoshioka Kentaro,Male,17-02-2013,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,13,90.00
+59,Yoshioka Kentaro,Male,16-02-2013,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,19,48.00
+60,Yoshioka Kentaro,Male,10-02-2013,Marianske Lazne,CZE,Japan,European Cup,Parallel Slalom,12,70.40
+61,Yoshioka Kentaro,Male,09-02-2013,Marianske Lazne,CZE,Japan,European Cup,Parallel Slalom,17,44.80
+62,Yoshioka Kentaro,Male,25-01-2013,Oze Tokura,JPN,Japan,FIS,Giant Slalom,1,90.00
+63,Yoshioka Kentaro,Male,24-01-2013,Oze Tokura,JPN,Japan,FIS,Parallel Slalom,7,32.40
+64,Yoshioka Kentaro,Male,20-01-2013,Vratna - Paseky,SVK,Japan,European Cup,Parallel GS,6,128.00
+65,Yoshioka Kentaro,Male,19-01-2013,Vratna - Paseky,SVK,Japan,European Cup,Parallel GS,3,192.00
+66,Yoshioka Kentaro,Male,16-12-2012,Racines/Ratschings,ITA,Japan,European Cup,Parallel Slalom,51,7.60
+67,Yoshioka Kentaro,Male,15-12-2012,Racines/Ratschings,ITA,Japan,European Cup,Parallel Slalom,27,18.00
+68,Yoshioka Kentaro,Male,09-12-2012,Lachtal,AUT,Japan,European Cup,Parallel GS,49,7.90
+69,Yoshioka Kentaro,Male,08-12-2012,Lachtal,AUT,Japan,European Cup,Parallel GS,DNF,
+70,Yoshioka Kentaro,Male,08-04-2012,Sapporo,JPN,Japan,FIS,Giant Slalom,2,128.00
+71,Yoshioka Kentaro,Male,05-04-2012,Rusutsu,JPN,Japan,National Championships,Parallel GS,11,38.40
+72,Yoshioka Kentaro,Male,17-03-2012,Valmalenco,ITA,Japan,World Cup,Parallel GS,42,17.90
+73,Yoshioka Kentaro,Male,10-03-2012,La Molina,ESP,Japan,World Cup,Parallel GS,36,0.00
+74,Yoshioka Kentaro,Male,03-03-2012,Moscow,RUS,Japan,World Cup,Parallel Slalom,26,50.00
+75,Yoshioka Kentaro,Male,22-02-2012,Stoneham,CAN,Japan,World Cup,Parallel GS,34,22.00
+76,Yoshioka Kentaro,Male,19-02-2012,Le Relais,CAN,Japan,Nor-Am Cup,Parallel Slalom,6,104.00
+77,Yoshioka Kentaro,Male,18-02-2012,Le Relais,CAN,Japan,Nor-Am Cup,Parallel GS,19,60.00
+78,Yoshioka Kentaro,Male,28-01-2012,Sudelfeld,GER,Japan,World Cup,Parallel GS,34,22.00
+79,Yoshioka Kentaro,Male,22-01-2012,Valgardena-S. Cristina-Seceda,ITA,Japan,FIS,Slalom,4,130.00
+80,Yoshioka Kentaro,Male,21-01-2012,Valgardena-S. Cristina-Seceda,ITA,Japan,FIS,Slalom,54,0.00
+81,Yoshioka Kentaro,Male,15-01-2012,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,36,
+82,Yoshioka Kentaro,Male,13-01-2012,Jauerling,AUT,Japan,World Cup,Parallel Slalom,23,80.00
+83,Yoshioka Kentaro,Male,08-01-2012,Kreischberg,AUT,Japan,FIS,Parallel GS,11,62.40
+84,Yoshioka Kentaro,Male,07-01-2012,Kreischberg,AUT,Japan,FIS,Parallel GS,34,5.72
+85,Yoshioka Kentaro,Male,22-12-2011,Carezza,ITA,Japan,World Cup,Parallel Slalom,40,18.50
+86,Yoshioka Kentaro,Male,21-12-2011,Carezza,ITA,Japan,World Cup,Parallel GS,35,20.00
+87,Yoshioka Kentaro,Male,15-12-2011,Telluride,USA,Japan,Qualification,Parallel GS,21,
+88,Yoshioka Kentaro,Male,15-12-2011,Telluride,USA,Japan,World Cup,Parallel GS,21,100.00
+89,Yoshioka Kentaro,Male,13-10-2011,Landgraaf,NED,Japan,World Cup,Parallel Slalom,38,19.10
+90,Yoshioka Kentaro,Male,10-04-2011,Sapporo,JPN,Japan,FIS,Giant Slalom,1,110.00
+91,Yoshioka Kentaro,Male,27-03-2011,Arosa,SUI,Japan,World Cup,Parallel GS,42,
+92,Yoshioka Kentaro,Male,04-03-2011,Oze Tokura,JPN,Japan,National Championships,Parallel GS,1,140.00
+93,Yoshioka Kentaro,Male,20-02-2011,Stoneham,CAN,Japan,World Cup,Parallel GS,36,19.70
+94,Yoshioka Kentaro,Male,09-02-2011,Yongpyong,KOR,Japan,World Cup,Parallel Slalom,31,28.00
+95,Yoshioka Kentaro,Male,31-01-2011,Oze Tokura,JPN,Japan,FIS,Giant Slalom,1,130.00
+96,Yoshioka Kentaro,Male,30-01-2011,Oze Tokura,JPN,Japan,FIS,Parallel Slalom,3,78.00
+97,Yoshioka Kentaro,Male,20-12-2010,"Steamboad Springs, CO",USA,Japan,Nor-Am Cup,Parallel GS,14,90.00
+98,Yoshioka Kentaro,Male,11-12-2010,Ratschings/Racines,ITA,Japan,European Cup,Parallel GS,9,84.10
+99,Yoshioka Kentaro,Male,10-12-2010,Ratschings/Racines,ITA,Japan,FIS,Parallel GS,30,8.32
+100,Yoshioka Kentaro,Male,19-11-2010,"Copper, CO",USA,Japan,Nor-Am Cup,Parallel Slalom,11,96.00
+101,Yoshioka Kentaro,Male,18-11-2010,"Copper, CO",USA,Japan,Nor-Am Cup,Parallel GS,20,49.50
+102,Yoshioka Kentaro,Male,05-03-2010,Minamiuonuma,JPN,Japan,National Championships,Parallel GS,6,72.00
+103,Yoshioka Kentaro,Male,07-02-2010,Sapporo,JPN,Japan,FIS,Giant Slalom,1,50.00
+104,Yoshioka Kentaro,Male,31-01-2010,Oze Tokura,JPN,Japan,FIS,Giant Slalom,2,96.00
+105,Yoshioka Kentaro,Male,30-01-2010,Oze Tokura,JPN,Japan,FIS,Parallel Slalom,3,72.00
+106,Yoshioka Kentaro,Male,21-01-2010,Tsugaikekohgen,JPN,Japan,FIS,Giant Slalom,3,72.00
+107,Yoshioka Kentaro,Male,19-12-2009,Racines,ITA,Japan,FIS,Giant Slalom,1,140.00
+108,Yoshioka Kentaro,Male,18-12-2009,Racines,ITA,Japan,FIS,Giant Slalom,1,140.00
+109,Yoshioka Kentaro,Male,06-12-2009,Carezza,ITA,Japan,European Cup,Parallel Slalom,31,12.60
+110,Yoshioka Kentaro,Male,05-12-2009,Carezza,ITA,Japan,European Cup,Parallel GS,27,22.50
+111,Yoshioka Kentaro,Male,29-11-2009,"Hochfuegen, Zillertal (AUT)",GER,Japan,European Cup,Parallel GS,45,8.50
+112,Yoshioka Kentaro,Male,28-11-2009,"Hochfuegen, Zillertal (AUT)",GER,Japan,National Championships,Parallel GS,25,21.60
+113,Yoshioka Kentaro,Male,12-03-2009,Minamiuonuma,JPN,Japan,National Championships,Giant Slalom,5,72.00
+114,Yoshioka Kentaro,Male,21-02-2009,Kashimayari,JPN,Japan,FIS,Giant Slalom,3,84.00
+115,Yoshioka Kentaro,Male,30-01-2009,Ozetokura,JPN,Japan,FIS,Giant Slalom,DNF,
+116,Yoshioka Kentaro,Male,29-01-2009,Ozetokura,JPN,Japan,FIS,Parallel Slalom,11,33.60
+117,Yoshioka Kentaro,Male,11-01-2009,Kasberg,AUT,Japan,European Cup,Parallel GS,67,3.74
+118,Yoshioka Kentaro,Male,10-01-2009,Kasberg,AUT,Japan,European Cup,Parallel GS,21,36.00
+119,Yoshioka Kentaro,Male,04-01-2009,Marianske Lazne,CZE,Japan,European Cup,Parallel Slalom,20,28.60
+120,Yoshioka Kentaro,Male,03-01-2009,Marianske Lazne,CZE,Japan,European Cup,Parallel Slalom,21,26.00
+121,Yoshioka Kentaro,Male,29-12-2008,Bischofswiesen / Götschen,GER,Japan,European Cup,Parallel GS,37,9.70
+122,Yoshioka Kentaro,Male,20-12-2008,Ratschings/Racines,ITA,Japan,European Cup,Giant Slalom,36,5.12
+123,Yoshioka Kentaro,Male,19-12-2008,Ratschings/Racines,ITA,Japan,European Cup,Giant Slalom,12,57.20
+124,Yoshioka Kentaro,Male,14-12-2008,Welschnofen/Karerpass,ITA,Japan,European Cup,Giant Slalom,24,18.20
+125,Yoshioka Kentaro,Male,13-12-2008,Welschnofen/Karerpass,ITA,Japan,FIS,Giant Slalom,8,76.80
+126,Yoshioka Kentaro,Male,07-12-2008,Innsbruck/Patscherkofel,AUT,Japan,FIS,Parallel Slalom,75,2.08
+127,Yoshioka Kentaro,Male,06-12-2008,Innsbruck/Patscherkofel,AUT,Japan,FIS,Parallel Slalom,98,
+128,Yoshioka Kentaro,Male,30-11-2008,"Hochfügen, Zillertal",AUT,Japan,National Championships,Parallel GS,13,72.00
+129,Yoshioka Kentaro,Male,20-11-2008,"Copper, CO",USA,Japan,Nor-Am Cup,Parallel Slalom,31,14.00
+130,Yoshioka Kentaro,Male,19-11-2008,"Copper, CO",USA,Japan,Nor-Am Cup,Parallel GS,35,10.00
+131,Yoshioka Kentaro,Male,18-03-2008,Valmalenco,ITA,Japan,FIS Junior World Championships,Parallel Slalom,45,
+132,Yoshioka Kentaro,Male,17-03-2008,Valmalenco,ITA,Japan,FIS Junior World Championships,Parallel GS,7,129.60
+133,Yoshioka Kentaro,Male,27-02-2008,Minamiuonuma,JPN,Japan,National Championships,Parallel GS,8,44.80
+134,Yoshioka Kentaro,Male,07-01-2008,Oze Tokura,JPN,Japan,FIS,Giant Slalom,5,31.50
+135,Yoshioka Kentaro,Male,06-01-2008,Oze Tokura,JPN,Japan,FIS,Parallel Slalom,21,7.00
+136,Yoshioka Kentaro,Male,09-03-2007,Gujo,JPN,Japan,National Championships,Parallel GS,11,24.00
+137,Yoshioka Kentaro,Male,27-01-2007,Sapporo Makomanai,JPN,Japan,FIS,Parallel GS,16,7.50
+138,Yoshioka Kentaro,Male,22-01-2007,Oze Tokura,JPN,Japan,FIS,Slalom,23,4.00
+139,Yoshioka Kentaro,Male,21-01-2007,Oze Tokura,JPN,Japan,FIS,Giant Slalom,5,22.50
+140,Yoshioka Kentaro,Male,05-01-2007,Sapporo Makomanai,JPN,Japan,FIS,Giant Slalom,17,16.80
+141,Yoshioka Kentaro,Male,24-03-2006,Tsubetsu,JPN,Japan,National Championships,Parallel GS,8,41.60
+142,Yoshioka Kentaro,Male,28-01-2006,Sapporo Makomanai,JPN,Japan,FIS,Parallel GS,8,22.40
+143,Yoshioka Kentaro,Male,28-02-2005,Sugadairakogen,JPN,Japan,National Championships,Giant Slalom,18,18.20
+144,Yoshioka Kentaro,Male,09-01-2005,Sapporo Makomanai,JPN,Japan,FIS,Parallel GS,12,19.80

@@ -1,94 +1,104 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Gasser Anna,Female,19-10-2024,Chur,SUI,Austria,World Cup,Big Air,28,18.00
-1,Gasser Anna,Female,02-09-2024,Cardrona,NZL,Austria,World Cup,Slopestyle,5,492.60
-2,Gasser Anna,Female,31-08-2024,Cardrona,NZL,Austria,Qualification,Slopestyle,5,
-3,Gasser Anna,Female,23-03-2024,Silvaplana,SUI,Austria,World Cup,Slopestyle,3,546.40
-4,Gasser Anna,Female,21-03-2024,Silvaplana,SUI,Austria,Qualification,Slopestyle,2,
-5,Gasser Anna,Female,20-01-2024,Laax,SUI,Austria,World Cup,Slopestyle,3,686.40
-6,Gasser Anna,Female,16-01-2024,Laax,SUI,Austria,Qualification,Slopestyle,7,
-7,Gasser Anna,Female,09-12-2023,Edmonton,CAN,Austria,World Cup,Big Air,3,657.20
-8,Gasser Anna,Female,08-12-2023,Edmonton,CAN,Austria,Qualification,Big Air,7,
-9,Gasser Anna,Female,02-12-2023,Beijing,CHN,Austria,World Cup,Big Air,1,1000.00
-10,Gasser Anna,Female,01-12-2023,Beijing,CHN,Austria,Qualification,Big Air,2,
-11,Gasser Anna,Female,25-03-2023,Silvaplana,SUI,Austria,World Cup,Slopestyle,3,662.10
-12,Gasser Anna,Female,23-03-2023,Silvaplana,SUI,Austria,Qualification,Slopestyle,1,
-13,Gasser Anna,Female,04-03-2023,Bakuriani,GEO,Austria,World Championships,Big Air,1,1000.00
-14,Gasser Anna,Female,02-03-2023,Bakuriani,GEO,Austria,Qualification,Big Air,4,
-15,Gasser Anna,Female,27-02-2023,Bakuriani,GEO,Austria,Qualification,Slopestyle,3,
-16,Gasser Anna,Female,27-02-2023,Bakuriani,GEO,Austria,World Championships,Slopestyle,7,363.80
-17,Gasser Anna,Female,22-01-2023,Laax,SUI,Austria,World Cup,Slopestyle,3,686.40
-18,Gasser Anna,Female,20-01-2023,Laax,SUI,Austria,Qualification,Slopestyle,2,
-19,Gasser Anna,Female,14-01-2023,Kreischberg,AUT,Austria,World Cup,Big Air,1,1000.00
-20,Gasser Anna,Female,14-01-2023,Kreischberg,AUT,Austria,Qualification,Big Air,3,
-21,Gasser Anna,Female,22-10-2022,Chur,SUI,Austria,Qualification,Big Air,2,
-22,Gasser Anna,Female,22-10-2022,Chur,SUI,Austria,World Cup,Big Air,2,821.40
-23,Gasser Anna,Female,27-03-2022,Silvaplana,SUI,Austria,World Cup,Slopestyle,1,1000.00
-24,Gasser Anna,Female,25-03-2022,Silvaplana,SUI,Austria,Qualification,Slopestyle,3,
-25,Gasser Anna,Female,15-02-2022,Beijing,CHN,Austria,Olympic Winter Games,Big Air,1,1000.00
-26,Gasser Anna,Female,14-02-2022,Beijing,CHN,Austria,Qualification,Big Air,6,
-27,Gasser Anna,Female,06-02-2022,Beijing,CHN,Austria,Olympic Winter Games,Slopestyle,6,418.50
-28,Gasser Anna,Female,05-02-2022,Beijing,CHN,Austria,Qualification,Slopestyle,4,
-29,Gasser Anna,Female,15-01-2022,Laax,SUI,Austria,World Cup,Slopestyle,2,660.70
-30,Gasser Anna,Female,14-01-2022,Laax,SUI,Austria,Qualification,Slopestyle,2,
-31,Gasser Anna,Female,04-12-2021,Steamboat,USA,Austria,World Cup,Big Air,2,825.80
-32,Gasser Anna,Female,02-12-2021,Steamboat,USA,Austria,Qualification,Big Air,2,
-33,Gasser Anna,Female,23-10-2021,Chur,SUI,Austria,World Cup,Big Air,2,824.90
-34,Gasser Anna,Female,28-03-2021,Silvaplana,SUI,Austria,Qualification,Slopestyle,2,
-35,Gasser Anna,Female,28-03-2021,Silvaplana,SUI,Austria,World Cup,Slopestyle,4,343.70
-36,Gasser Anna,Female,20-03-2021,Aspen,USA,Austria,World Cup,Slopestyle,1,1000.00
-37,Gasser Anna,Female,19-03-2021,Aspen,USA,Austria,Qualification,Slopestyle,5,
-38,Gasser Anna,Female,16-03-2021,Aspen,USA,Austria,World Championships,Big Air,4,574.14
-39,Gasser Anna,Female,14-03-2021,Aspen,USA,Austria,Qualification,Big Air,1,
-40,Gasser Anna,Female,12-03-2021,Aspen,USA,Austria,World Championships,Slopestyle,6,416.65
-41,Gasser Anna,Female,10-03-2021,Aspen,USA,Austria,Qualification,Slopestyle,5,
-42,Gasser Anna,Female,22-01-2021,Laax,SUI,Austria,World Cup,Slopestyle,5,391.03
-43,Gasser Anna,Female,20-01-2021,Laax,SUI,Austria,Qualification,Slopestyle,8,
-44,Gasser Anna,Female,09-01-2021,Kreischberg,AUT,Austria,World Cup,Big Air,3,687.01
-45,Gasser Anna,Female,07-01-2021,Kreischberg ,AUT,Austria,Qualification,Big Air,5,
-46,Gasser Anna,Female,14-12-2019,Beijing,CHN,Austria,World Cup,Big Air,2,800.00
-47,Gasser Anna,Female,12-12-2019,Beijing,CHN,Austria,Qualification,Big Air,5,
-48,Gasser Anna,Female,02-11-2019,Modena SKIPASS,ITA,Austria,World Cup,Big Air,3,600.00
-49,Gasser Anna,Female,01-11-2019,Modena SKIPASS,ITA,Austria,Qualification,Big Air,3,
-50,Gasser Anna,Female,18-01-2019,Laax,SUI,Austria,World Cup,Slopestyle,11,240.00
-51,Gasser Anna,Female,17-01-2019,Laax,SUI,Austria,Qualification,Slopestyle,11,
-52,Gasser Anna,Female,12-01-2019,Kreischberg,AUT,Austria,World Cup,Slopestyle,2,800.00
-53,Gasser Anna,Female,11-01-2019,Kreischberg,AUT,Austria,Qualification,Slopestyle,1,
-54,Gasser Anna,Female,24-11-2018,Beijing,CHN,Austria,World Cup,Big Air,1,1000.00
-55,Gasser Anna,Female,23-11-2018,Beijing,CHN,Austria,Qualification,Big Air,2,
-56,Gasser Anna,Female,03-11-2018,Modena SKIPASS,ITA,Austria,World Cup,Big Air,3,600.00
-57,Gasser Anna,Female,22-02-2018,Alpensia Jumping Park,KOR,Austria,Olympic Winter Games,Big Air,1,1000.00
-58,Gasser Anna,Female,19-02-2018,Alpensia Jumping Park,KOR,Austria,Qualification,Big Air,1,
-59,Gasser Anna,Female,12-02-2018,Phoenix Snow Park,KOR,Austria,Olympic Winter Games,Slopestyle,15,160.00
-60,Gasser Anna,Female,25-11-2017,Beijing,CHN,Austria,World Cup,Big Air,1,1000.00
-61,Gasser Anna,Female,24-11-2017,Beijing,CHN,Austria,Qualification,Big Air,1,
-62,Gasser Anna,Female,11-11-2017,Milan,ITA,Austria,World Cup,Big Air,1,1000.00
-63,Gasser Anna,Female,17-03-2017,Sierra Nevada,ESP,Austria,World Championships,Big Air,1,1000.00
-64,Gasser Anna,Female,16-03-2017,Sierra Nevada,ESP,Austria,Qualification,Big Air,1,
-65,Gasser Anna,Female,12-02-2017,Quebec City,CAN,Austria,World Cup,Slopestyle,6,400.00
-66,Gasser Anna,Female,11-02-2017,Quebec City,CAN,Austria,World Cup,Big Air,1,1000.00
-67,Gasser Anna,Female,10-02-2017,Quebec City,CAN,Austria,Qualification,Slopestyle,1,
-68,Gasser Anna,Female,09-02-2017,Quebec City,CAN,Austria,Qualification,Big Air,1,
-69,Gasser Anna,Female,20-01-2017,Laax,SUI,Austria,World Cup,Slopestyle,2,800.00
-70,Gasser Anna,Female,17-01-2017,Laax,SUI,Austria,Qualification,Slopestyle,1,
-71,Gasser Anna,Female,14-01-2017,Kreischberg,AUT,Austria,World Cup,Slopestyle,1,1000.00
-72,Gasser Anna,Female,13-01-2017,Kreischberg,AUT,Austria,Qualification,Slopestyle,1,
-73,Gasser Anna,Female,07-01-2017,Moscow,RUS,Austria,World Cup,Big Air,2,800.00
-74,Gasser Anna,Female,03-12-2016,Moenchengladbach,GER,Austria,World Cup,Big Air,1,1000.00
-75,Gasser Anna,Female,26-11-2016,Alpensia,KOR,Austria,World Cup,Big Air,1,1000.00
-76,Gasser Anna,Female,26-11-2016,Alpensia,KOR,Austria,Qualification,Big Air,1,
-77,Gasser Anna,Female,12-11-2016,Milan,ITA,Austria,World Cup,Big Air,1,1000.00
-78,Gasser Anna,Female,12-11-2016,Milan,ITA,Austria,Qualification,Big Air,3,
-79,Gasser Anna,Female,21-01-2015,Kreischberg,AUT,Austria,World Championships,Slopestyle,2,800.00
-80,Gasser Anna,Female,19-01-2015,Kreischberg,AUT,Austria,Qualification,Slopestyle,2,
-81,Gasser Anna,Female,09-02-2014,Rosa Khutor,RUS,Austria,Olympic Winter Games,Slopestyle,10,260.00
-82,Gasser Anna,Female,06-02-2014,Rosa Khutor,RUS,Austria,Qualification,Slopestyle,1,
-83,Gasser Anna,Female,19-01-2014,Stoneham,CAN,Austria,World Cup,Slopestyle,3,600.00
-84,Gasser Anna,Female,22-12-2013,"Copper Mountain, CO",USA,Austria,World Cup,Slopestyle,37,19.40
-85,Gasser Anna,Female,20-12-2013,"Copper Mountain, CO",USA,Austria,Qualification,Slopestyle,20,
-86,Gasser Anna,Female,19-08-2013,Cardrona,NZL,Austria,World Cup,Slopestyle,4,500.00
-87,Gasser Anna,Female,16-03-2013,Spindleruv Mlyn,CZE,Austria,World Cup,Slopestyle,9,290.00
-88,Gasser Anna,Female,15-03-2013,Spindleruv Mlyn,CZE,Austria,Qualification,Slopestyle,6,
-89,Gasser Anna,Female,18-01-2013,Stoneham,CAN,Austria,Qualification,Slopestyle,10,
-90,Gasser Anna,Female,18-01-2013,Stoneham,CAN,Austria,World Championships,Slopestyle,18,130.00
-91,Gasser Anna,Female,11-01-2013,"Copper Mountain, CO",USA,Austria,World Cup,Slopestyle,40,18.50
-92,Gasser Anna,Female,09-01-2013,"Copper Mountain, CO",USA,Austria,Qualification,Slopestyle,19,
+0,Gasser Anna,Female,02-02-2025,Aspen,USA,Austria,World Cup,Slopestyle,DNS,
+1,Gasser Anna,Female,31-01-2025,Aspen,USA,Austria,Qualification,Slopestyle,DNS,
+2,Gasser Anna,Female,18-01-2025,Laax,SUI,Austria,World Cup,Slopestyle,4,579.30
+3,Gasser Anna,Female,16-01-2025,Laax,SUI,Austria,Qualification,Slopestyle,2,
+4,Gasser Anna,Female,11-01-2025,Kreischberg,AUT,Austria,World Cup,Big Air,1,1000.00
+5,Gasser Anna,Female,09-01-2025,Kreischberg,AUT,Austria,Qualification,Big Air,5,
+6,Gasser Anna,Female,05-01-2025,Klagenfurt,AUT,Austria,World Cup,Big Air,5,477.70
+7,Gasser Anna,Female,03-01-2025,Klagenfurt,AUT,Austria,Qualification,Big Air,4,
+8,Gasser Anna,Female,01-12-2024,Beijing,CHN,Austria,World Cup,Big Air,3,682.00
+9,Gasser Anna,Female,30-11-2024,Beijing,CHN,Austria,Qualification,Big Air,2,
+10,Gasser Anna,Female,19-10-2024,Chur,SUI,Austria,World Cup,Big Air,28,18.00
+11,Gasser Anna,Female,02-09-2024,Cardrona,NZL,Austria,World Cup,Slopestyle,5,492.60
+12,Gasser Anna,Female,31-08-2024,Cardrona,NZL,Austria,Qualification,Slopestyle,5,
+13,Gasser Anna,Female,23-03-2024,Silvaplana,SUI,Austria,World Cup,Slopestyle,3,546.40
+14,Gasser Anna,Female,21-03-2024,Silvaplana,SUI,Austria,Qualification,Slopestyle,2,
+15,Gasser Anna,Female,20-01-2024,Laax,SUI,Austria,World Cup,Slopestyle,3,686.40
+16,Gasser Anna,Female,16-01-2024,Laax,SUI,Austria,Qualification,Slopestyle,7,
+17,Gasser Anna,Female,09-12-2023,Edmonton,CAN,Austria,World Cup,Big Air,3,657.20
+18,Gasser Anna,Female,08-12-2023,Edmonton,CAN,Austria,Qualification,Big Air,7,
+19,Gasser Anna,Female,02-12-2023,Beijing,CHN,Austria,World Cup,Big Air,1,1000.00
+20,Gasser Anna,Female,01-12-2023,Beijing,CHN,Austria,Qualification,Big Air,2,
+21,Gasser Anna,Female,25-03-2023,Silvaplana,SUI,Austria,World Cup,Slopestyle,3,662.10
+22,Gasser Anna,Female,23-03-2023,Silvaplana,SUI,Austria,Qualification,Slopestyle,1,
+23,Gasser Anna,Female,04-03-2023,Bakuriani,GEO,Austria,World Championships,Big Air,1,1000.00
+24,Gasser Anna,Female,02-03-2023,Bakuriani,GEO,Austria,Qualification,Big Air,4,
+25,Gasser Anna,Female,27-02-2023,Bakuriani,GEO,Austria,Qualification,Slopestyle,3,
+26,Gasser Anna,Female,27-02-2023,Bakuriani,GEO,Austria,World Championships,Slopestyle,7,363.80
+27,Gasser Anna,Female,22-01-2023,Laax,SUI,Austria,World Cup,Slopestyle,3,686.40
+28,Gasser Anna,Female,20-01-2023,Laax,SUI,Austria,Qualification,Slopestyle,2,
+29,Gasser Anna,Female,14-01-2023,Kreischberg,AUT,Austria,Qualification,Big Air,3,
+30,Gasser Anna,Female,14-01-2023,Kreischberg,AUT,Austria,World Cup,Big Air,1,1000.00
+31,Gasser Anna,Female,22-10-2022,Chur,SUI,Austria,World Cup,Big Air,2,821.40
+32,Gasser Anna,Female,22-10-2022,Chur,SUI,Austria,Qualification,Big Air,2,
+33,Gasser Anna,Female,27-03-2022,Silvaplana,SUI,Austria,World Cup,Slopestyle,1,1000.00
+34,Gasser Anna,Female,25-03-2022,Silvaplana,SUI,Austria,Qualification,Slopestyle,3,
+35,Gasser Anna,Female,15-02-2022,Beijing,CHN,Austria,Olympic Winter Games,Big Air,1,1000.00
+36,Gasser Anna,Female,14-02-2022,Beijing,CHN,Austria,Qualification,Big Air,6,
+37,Gasser Anna,Female,06-02-2022,Beijing,CHN,Austria,Olympic Winter Games,Slopestyle,6,418.50
+38,Gasser Anna,Female,05-02-2022,Beijing,CHN,Austria,Qualification,Slopestyle,4,
+39,Gasser Anna,Female,15-01-2022,Laax,SUI,Austria,World Cup,Slopestyle,2,660.70
+40,Gasser Anna,Female,14-01-2022,Laax,SUI,Austria,Qualification,Slopestyle,2,
+41,Gasser Anna,Female,04-12-2021,Steamboat,USA,Austria,World Cup,Big Air,2,825.80
+42,Gasser Anna,Female,02-12-2021,Steamboat,USA,Austria,Qualification,Big Air,2,
+43,Gasser Anna,Female,23-10-2021,Chur,SUI,Austria,World Cup,Big Air,2,824.90
+44,Gasser Anna,Female,28-03-2021,Silvaplana,SUI,Austria,Qualification,Slopestyle,2,
+45,Gasser Anna,Female,28-03-2021,Silvaplana,SUI,Austria,World Cup,Slopestyle,4,343.70
+46,Gasser Anna,Female,20-03-2021,Aspen,USA,Austria,World Cup,Slopestyle,1,1000.00
+47,Gasser Anna,Female,19-03-2021,Aspen,USA,Austria,Qualification,Slopestyle,5,
+48,Gasser Anna,Female,16-03-2021,Aspen,USA,Austria,World Championships,Big Air,4,574.14
+49,Gasser Anna,Female,14-03-2021,Aspen,USA,Austria,Qualification,Big Air,1,
+50,Gasser Anna,Female,12-03-2021,Aspen,USA,Austria,World Championships,Slopestyle,6,416.65
+51,Gasser Anna,Female,10-03-2021,Aspen,USA,Austria,Qualification,Slopestyle,5,
+52,Gasser Anna,Female,22-01-2021,Laax,SUI,Austria,World Cup,Slopestyle,5,391.03
+53,Gasser Anna,Female,20-01-2021,Laax,SUI,Austria,Qualification,Slopestyle,8,
+54,Gasser Anna,Female,09-01-2021,Kreischberg,AUT,Austria,World Cup,Big Air,3,687.01
+55,Gasser Anna,Female,07-01-2021,Kreischberg ,AUT,Austria,Qualification,Big Air,5,
+56,Gasser Anna,Female,14-12-2019,Beijing,CHN,Austria,World Cup,Big Air,2,800.00
+57,Gasser Anna,Female,12-12-2019,Beijing,CHN,Austria,Qualification,Big Air,5,
+58,Gasser Anna,Female,02-11-2019,Modena SKIPASS,ITA,Austria,World Cup,Big Air,3,600.00
+59,Gasser Anna,Female,01-11-2019,Modena SKIPASS,ITA,Austria,Qualification,Big Air,3,
+60,Gasser Anna,Female,18-01-2019,Laax,SUI,Austria,World Cup,Slopestyle,11,240.00
+61,Gasser Anna,Female,17-01-2019,Laax,SUI,Austria,Qualification,Slopestyle,11,
+62,Gasser Anna,Female,12-01-2019,Kreischberg,AUT,Austria,World Cup,Slopestyle,2,800.00
+63,Gasser Anna,Female,11-01-2019,Kreischberg,AUT,Austria,Qualification,Slopestyle,1,
+64,Gasser Anna,Female,24-11-2018,Beijing,CHN,Austria,World Cup,Big Air,1,1000.00
+65,Gasser Anna,Female,23-11-2018,Beijing,CHN,Austria,Qualification,Big Air,2,
+66,Gasser Anna,Female,03-11-2018,Modena SKIPASS,ITA,Austria,World Cup,Big Air,3,600.00
+67,Gasser Anna,Female,22-02-2018,Alpensia Jumping Park,KOR,Austria,Olympic Winter Games,Big Air,1,1000.00
+68,Gasser Anna,Female,19-02-2018,Alpensia Jumping Park,KOR,Austria,Qualification,Big Air,1,
+69,Gasser Anna,Female,12-02-2018,Phoenix Snow Park,KOR,Austria,Olympic Winter Games,Slopestyle,15,160.00
+70,Gasser Anna,Female,25-11-2017,Beijing,CHN,Austria,World Cup,Big Air,1,1000.00
+71,Gasser Anna,Female,24-11-2017,Beijing,CHN,Austria,Qualification,Big Air,1,
+72,Gasser Anna,Female,11-11-2017,Milan,ITA,Austria,World Cup,Big Air,1,1000.00
+73,Gasser Anna,Female,17-03-2017,Sierra Nevada,ESP,Austria,World Championships,Big Air,1,1000.00
+74,Gasser Anna,Female,16-03-2017,Sierra Nevada,ESP,Austria,Qualification,Big Air,1,
+75,Gasser Anna,Female,12-02-2017,Quebec City,CAN,Austria,World Cup,Slopestyle,6,400.00
+76,Gasser Anna,Female,11-02-2017,Quebec City,CAN,Austria,World Cup,Big Air,1,1000.00
+77,Gasser Anna,Female,10-02-2017,Quebec City,CAN,Austria,Qualification,Slopestyle,1,
+78,Gasser Anna,Female,09-02-2017,Quebec City,CAN,Austria,Qualification,Big Air,1,
+79,Gasser Anna,Female,20-01-2017,Laax,SUI,Austria,World Cup,Slopestyle,2,800.00
+80,Gasser Anna,Female,17-01-2017,Laax,SUI,Austria,Qualification,Slopestyle,1,
+81,Gasser Anna,Female,14-01-2017,Kreischberg,AUT,Austria,World Cup,Slopestyle,1,1000.00
+82,Gasser Anna,Female,13-01-2017,Kreischberg,AUT,Austria,Qualification,Slopestyle,1,
+83,Gasser Anna,Female,07-01-2017,Moscow,RUS,Austria,World Cup,Big Air,2,800.00
+84,Gasser Anna,Female,03-12-2016,Moenchengladbach,GER,Austria,World Cup,Big Air,1,1000.00
+85,Gasser Anna,Female,26-11-2016,Alpensia,KOR,Austria,Qualification,Big Air,1,
+86,Gasser Anna,Female,26-11-2016,Alpensia,KOR,Austria,World Cup,Big Air,1,1000.00
+87,Gasser Anna,Female,12-11-2016,Milan,ITA,Austria,World Cup,Big Air,1,1000.00
+88,Gasser Anna,Female,12-11-2016,Milan,ITA,Austria,Qualification,Big Air,3,
+89,Gasser Anna,Female,21-01-2015,Kreischberg,AUT,Austria,World Championships,Slopestyle,2,800.00
+90,Gasser Anna,Female,19-01-2015,Kreischberg,AUT,Austria,Qualification,Slopestyle,2,
+91,Gasser Anna,Female,09-02-2014,Rosa Khutor,RUS,Austria,Olympic Winter Games,Slopestyle,10,260.00
+92,Gasser Anna,Female,06-02-2014,Rosa Khutor,RUS,Austria,Qualification,Slopestyle,1,
+93,Gasser Anna,Female,19-01-2014,Stoneham,CAN,Austria,World Cup,Slopestyle,3,600.00
+94,Gasser Anna,Female,22-12-2013,"Copper Mountain, CO",USA,Austria,World Cup,Slopestyle,37,19.40
+95,Gasser Anna,Female,20-12-2013,"Copper Mountain, CO",USA,Austria,Qualification,Slopestyle,20,
+96,Gasser Anna,Female,19-08-2013,Cardrona,NZL,Austria,World Cup,Slopestyle,4,500.00
+97,Gasser Anna,Female,16-03-2013,Spindleruv Mlyn,CZE,Austria,World Cup,Slopestyle,9,290.00
+98,Gasser Anna,Female,15-03-2013,Spindleruv Mlyn,CZE,Austria,Qualification,Slopestyle,6,
+99,Gasser Anna,Female,18-01-2013,Stoneham,CAN,Austria,World Championships,Slopestyle,18,130.00
+100,Gasser Anna,Female,18-01-2013,Stoneham,CAN,Austria,Qualification,Slopestyle,10,
+101,Gasser Anna,Female,11-01-2013,"Copper Mountain, CO",USA,Austria,World Cup,Slopestyle,40,18.50
+102,Gasser Anna,Female,09-01-2013,"Copper Mountain, CO",USA,Austria,Qualification,Slopestyle,19,

@@ -1,190 +1,196 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Petit Manon,Female,03-10-2024,Corralco,CHI,France,South American Cup,Snowboard Cross,5,162.00
-1,Petit Manon,Female,03-10-2024,Corralco,CHI,France,South American Cup,Snowboard Cross,1,360.00
-2,Petit Manon,Female,24-03-2024,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,17,140.00
-3,Petit Manon,Female,23-03-2024,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,16,150.00
-4,Petit Manon,Female,22-03-2024,Mt. St. Anne,CAN,France,Qualification,Snowboard Cross,15,
-5,Petit Manon,Female,16-03-2024,Montafon,AUT,France,World Cup,Snowboard Cross,20,110.00
-6,Petit Manon,Female,15-03-2024,Montafon,AUT,France,Qualification,Snowboard Cross,20,
-7,Petit Manon,Female,09-03-2024,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,15,160.00
-8,Petit Manon,Female,08-03-2024,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,14,
-9,Petit Manon,Female,03-03-2024,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,13,200.00
-10,Petit Manon,Female,02-03-2024,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,4,500.00
-11,Petit Manon,Female,01-03-2024,Sierra Nevada,ESP,France,Qualification,Snowboard Cross,16,
-12,Petit Manon,Female,04-02-2024,Gudauri,GEO,France,World Cup,Snowboard Cross,9,290.00
-13,Petit Manon,Female,03-02-2024,Gudauri,GEO,France,World Cup,Snowboard Cross,16,150.00
-14,Petit Manon,Female,02-02-2024,Gudauri,GEO,France,Qualification,Snowboard Cross,16,
-15,Petit Manon,Female,26-01-2024,St. Moritz,SUI,France,World Cup,Snowboard Cross,21,
-16,Petit Manon,Female,25-01-2024,St. Moritz,SUI,France,Qualification,Snowboard Cross,21,
-17,Petit Manon,Female,16-12-2023,Cervinia,ITA,France,World Cup,Snowboard Cross,12,220.00
-18,Petit Manon,Female,03-12-2023,Les Deux Alpes,FRA,France,Qualification,Snowboard Cross,12,
-19,Petit Manon,Female,03-12-2023,Les Deux Alpes,FRA,France,World Cup,Snowboard Cross,12,220.00
-20,Petit Manon,Female,02-12-2023,Les Deux Alpes,FRA,France,World Cup,Snowboard Cross Team,15,
-21,Petit Manon,Female,01-10-2023,Corralco,CHI,France,South American Cup,Snowboard Cross,5,162.00
-22,Petit Manon,Female,30-09-2023,Corralco,CHI,France,South American Cup,Snowboard Cross,7,129.60
-23,Petit Manon,Female,08-04-2023,Chamonix,FRA,France,National Championships,Snowboard Cross,1,290.00
-24,Petit Manon,Female,26-03-2023,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,6,400.00
-25,Petit Manon,Female,25-03-2023,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,9,290.00
-26,Petit Manon,Female,24-03-2023,Mt. St. Anne,CAN,France,Qualification,Snowboard Cross,9,
-27,Petit Manon,Female,16-03-2023,Veysonnaz,SUI,France,World Cup,Snowboard Cross,17,140.00
-28,Petit Manon,Female,15-03-2023,Veysonnaz,SUI,France,Qualification,Snowboard Cross,17,
-29,Petit Manon,Female,12-03-2023,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,3,600.00
-30,Petit Manon,Female,11-03-2023,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,6,400.00
-31,Petit Manon,Female,02-03-2023,Bakuriani,GEO,France,World Championships,Snowboard Cross Team,8,
-32,Petit Manon,Female,01-03-2023,Bakuriani,GEO,France,World Championships,Snowboard Cross,4,500.00
-33,Petit Manon,Female,04-02-2023,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,4,500.00
-34,Petit Manon,Female,03-02-2023,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,3,
-35,Petit Manon,Female,15-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,3,216.00
-36,Petit Manon,Female,14-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,6,144.00
-37,Petit Manon,Female,17-12-2022,Cervinia,ITA,France,World Cup,Snowboard Cross,17,140.00
-38,Petit Manon,Female,16-12-2022,Cervinia,ITA,France,World Cup,Snowboard Cross,2,800.00
-39,Petit Manon,Female,15-12-2022,Cervinia,ITA,France,Qualification,Snowboard Cross,16,
-40,Petit Manon,Female,04-12-2022,Les Deux Alpes,FRA,France,World Cup,Snowboard Cross,9,290.00
-41,Petit Manon,Female,02-12-2022,Les Deux Alpes,FRA,France,Qualification,Snowboard Cross,3,
-42,Petit Manon,Female,24-11-2022,Pitztal,AUT,France,European Cup,Snowboard Cross,DNS,
-43,Petit Manon,Female,24-11-2022,Pitztal,AUT,France,Qualification,Snowboard Cross,DNS,
-44,Petit Manon,Female,08-04-2022,Isola 2000,FRA,France,National Championships,Snowboard Cross,3,174.00
-45,Petit Manon,Female,20-03-2022,Veysonnaz,SUI,France,World Cup,Snowboard Cross,3,600.00
-46,Petit Manon,Female,12-03-2022,Reiteralm,AUT,France,World Cup,Snowboard Cross,20,
-47,Petit Manon,Female,10-03-2022,Reiteralm,AUT,France,Qualification,Snowboard Cross,20,
-48,Petit Manon,Female,09-02-2022,Beijing,CHN,France,Qualification,Snowboard Cross,12,
-49,Petit Manon,Female,09-02-2022,Beijing,CHN,France,Olympic Winter Games,Snowboard Cross,26,50.00
-50,Petit Manon,Female,29-01-2022,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,12,
-51,Petit Manon,Female,29-01-2022,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,7,360.00
-52,Petit Manon,Female,09-01-2022,Krasnoyarsk,RUS,France,World Cup,Snowboard Cross,9,290.00
-53,Petit Manon,Female,08-01-2022,Krasnoyarsk,RUS,France,World Cup,Snowboard Cross,17,140.00
-54,Petit Manon,Female,07-01-2022,Krasnoyarsk,RUS,France,Qualification,Snowboard Cross,17,
-55,Petit Manon,Female,18-12-2021,Cervinia,ITA,France,World Cup,Snowboard Cross,17,140.00
-56,Petit Manon,Female,17-12-2021,Cervinia,ITA,France,Qualification,Snowboard Cross,17,
-57,Petit Manon,Female,10-12-2021,Montafon,AUT,France,World Cup,Snowboard Cross,29,36.00
-58,Petit Manon,Female,09-12-2021,Montafon,AUT,France,Qualification,Snowboard Cross,29,
-59,Petit Manon,Female,28-11-2021,Secret Garden,CHN,France,World Cup,Snowboard Cross,15,160.00
-60,Petit Manon,Female,26-11-2021,Secret Garden,CHN,France,Qualification,Snowboard Cross,15,
-61,Petit Manon,Female,30-10-2021,Les 2 Alpes,FRA,France,FIS,Snowboard Cross,13,44.00
-62,Petit Manon,Female,20-03-2021,Veysonnaz,SUI,France,World Cup,Snowboard Cross,6,400.00
-63,Petit Manon,Female,05-03-2021,Bakuriani,GEO,France,World Cup,Snowboard Cross,6,400.00
-64,Petit Manon,Female,04-03-2021,Bakuriani,GEO,France,World Cup,Snowboard Cross,8,320.00
-65,Petit Manon,Female,03-03-2021,Bakuriani,GEO,France,Qualification,Snowboard Cross,6,
-66,Petit Manon,Female,18-02-2021,Reiteralm,AUT,France,World Cup,Snowboard Cross,6,400.00
-67,Petit Manon,Female,16-02-2021,Reiteralm,AUT,France,Qualification,Snowboard Cross,11,
-68,Petit Manon,Female,11-02-2021,Idre Fjäll,SWE,France,World Championships,Snowboard Cross,23,80.00
-69,Petit Manon,Female,09-02-2021,Idre Fjäll,SWE,France,Qualification,Snowboard Cross,23,
-70,Petit Manon,Female,31-01-2021,Isola 2000,FRA,France,European Cup,Snowboard Cross,2,288.00
-71,Petit Manon,Female,30-01-2021,Isola 2000,FRA,France,European Cup,Snowboard Cross,3,216.00
-72,Petit Manon,Female,24-01-2021,Chiesa in Valmalenco,ITA,France,World Cup,Snowboard Cross,7,360.00
-73,Petit Manon,Female,23-01-2021,Chiesa in Valmalenco,ITA,France,World Cup,Snowboard Cross,6,400.00
-74,Petit Manon,Female,22-01-2021,Chiesa in Valmalenco,ITA,France,Qualification,Snowboard Cross,14,
-75,Petit Manon,Female,16-03-2019,Veysonnaz,SUI,France,World Cup,Snowboard Cross,DNS,
-76,Petit Manon,Female,02-03-2019,Baqueira Beret,ESP,France,World Cup,Snowboard Cross,9,290.00
-77,Petit Manon,Female,01-03-2019,Baqueira Beret,ESP,France,Qualification,Snowboard Cross,8,
-78,Petit Manon,Female,09-02-2019,Feldberg,GER,France,World Cup,Snowboard Cross,6,400.00
-79,Petit Manon,Female,08-02-2019,Feldberg,GER,France,Qualification,Snowboard Cross,14,
-80,Petit Manon,Female,01-02-2019,Solitude,USA,France,World Championships,Snowboard Cross,18,130.00
-81,Petit Manon,Female,31-01-2019,Solitude,USA,France,Qualification,Snowboard Cross,18,
-82,Petit Manon,Female,22-12-2018,Cervinia,ITA,France,World Cup,Snowboard Cross,17,140.00
-83,Petit Manon,Female,21-12-2018,Cervinia,ITA,France,World Cup,Snowboard Cross,9,290.00
-84,Petit Manon,Female,20-12-2018,Cervinia,ITA,France,Qualification,Snowboard Cross,8,
-85,Petit Manon,Female,01-04-2018,Peyragudes,FRA,France,National Championships,Snowboard Cross,4,145.00
-86,Petit Manon,Female,18-03-2018,Veysonnaz,SUI,France,World Cup,Snowboard Cross Team,4,
-87,Petit Manon,Female,17-03-2018,Veysonnaz,SUI,France,World Cup,Snowboard Cross,3,600.00
-88,Petit Manon,Female,16-03-2018,Veysonnaz,SUI,France,Qualification,Snowboard Cross,16,
-89,Petit Manon,Female,11-03-2018,Moscow ,RUS,France,World Cup,Snowboard Cross Team,5,
-90,Petit Manon,Female,10-03-2018,Moscow,RUS,France,World Cup,Snowboard Cross,9,290.00
-91,Petit Manon,Female,10-03-2018,Moscow,RUS,France,Qualification,Snowboard Cross,11,
-92,Petit Manon,Female,03-03-2018,La Molina,ESP,France,World Cup,Snowboard Cross,19,120.00
-93,Petit Manon,Female,02-03-2018,La Molina,ESP,France,Qualification,Snowboard Cross,19,
-94,Petit Manon,Female,25-02-2018,Feldberg ,GER,France,World Cup,Snowboard Cross,21,100.00
-95,Petit Manon,Female,24-02-2018,Feldberg,GER,France,World Cup,Snowboard Cross,11,240.00
-96,Petit Manon,Female,24-02-2018,Feldberg,GER,France,Qualification,Snowboard Cross,21,
-97,Petit Manon,Female,23-02-2018,Feldberg,GER,France,Qualification,Snowboard Cross,14,
-98,Petit Manon,Female,27-01-2018,Bansko,BUL,France,World Cup,Snowboardcross,16,150.00
-99,Petit Manon,Female,27-01-2018,Bansko,BUL,France,Qualification,Snowboard Cross,17,
-100,Petit Manon,Female,21-01-2018,Erzurum,TUR,France,World Cup,Snowboard Cross Team,5,
-101,Petit Manon,Female,20-01-2018,Erzurum,TUR,France,World Cup,Snowboard Cross,9,290.00
-102,Petit Manon,Female,22-12-2017,Cervinia,ITA,France,World Cup,Snowboard Cross,18,130.00
-103,Petit Manon,Female,21-12-2017,Cervinia,ITA,France,Qualification,Snowboard Cross,18,
-104,Petit Manon,Female,17-12-2017,Montafon,AUT,France,World Cup,Snowboard Cross Team,4,
-105,Petit Manon,Female,16-12-2017,Montafon,AUT,France,Qualification,Snowboard Cross,17,
-106,Petit Manon,Female,16-12-2017,Montafon,AUT,France,World Cup,Snowboardcross,17,140.00
-107,Petit Manon,Female,13-12-2017,Val Thorens,FRA,France,Qualification,Snowboard Cross,31,
-108,Petit Manon,Female,13-12-2017,Val Thorens,FRA,France,World Cup,Snowboardcross,31,28.00
-109,Petit Manon,Female,10-09-2017,Cerro Catedral,ARG,France,World Cup,Snowboardcross,8,320.00
-110,Petit Manon,Female,09-09-2017,Cerro Catedral,ARG,France,World Cup,Snowboardcross,21,100.00
-111,Petit Manon,Female,08-09-2017,Cerro Catedral,ARG,France,Qualification,Snowboardcross,14,
-112,Petit Manon,Female,06-04-2017,Le Grand Bornand,FRA,France,National Championships,Snowboardcross,4,145.00
-113,Petit Manon,Female,25-03-2017,Veysonnaz,SUI,France,World Cup,Snowboardcross,12,220.00
-114,Petit Manon,Female,24-03-2017,Veysonnaz,SUI,France,Qualification,Snowboardcross,15,
-115,Petit Manon,Female,13-03-2017,Sierra Nevada,ESP,France,World Championships,Snowboardcross Team,2,
-116,Petit Manon,Female,12-03-2017,Sierra Nevada,ESP,France,World Championships,Snowboardcross,5,450.00
-117,Petit Manon,Female,10-03-2017,Sierra Nevada,ESP,France,Qualification,Snowboardcross,12,
-118,Petit Manon,Female,05-03-2017,La Molina,ESP,France,World Cup,Snowboardcross,25,60.00
-119,Petit Manon,Female,04-03-2017,La Molina,ESP,France,Qualification,Snowboardcross,25,
-120,Petit Manon,Female,25-02-2017,Colere,ITA,France,European Cup,Snowboardcross,2,192.00
-121,Petit Manon,Female,24-02-2017,Colere,ITA,France,European Cup,Snowboardcross,3,144.00
-122,Petit Manon,Female,18-02-2017,Klinovec,CZE,France,FIS Junior World Championships,Snowboardcross,7,115.20
-123,Petit Manon,Female,12-02-2017,Feldberg,GER,France,World Cup,Snowboardcross,27,45.00
-124,Petit Manon,Female,11-02-2017,Feldberg,GER,France,World Cup,Snowboardcross,22,90.00
-125,Petit Manon,Female,10-02-2017,Feldberg,GER,France,Qualification,Snowboardcross,22,
-126,Petit Manon,Female,04-02-2017,Bansko,BUL,France,World Cup,Snowboardcross,19,120.00
-127,Petit Manon,Female,02-02-2017,Bansko,BUL,France,Qualification,Snowboardcross,21,
-128,Petit Manon,Female,22-01-2017,Solitude Mountain Resort,USA,France,World Cup,Snowboardcross Team,4,
-129,Petit Manon,Female,21-01-2017,Solitude Mountain Resort,USA,France,World Cup,Snowboardcross,18,130.00
-130,Petit Manon,Female,19-01-2017,Solitude Mountain Resort,USA,France,Qualification,Snowboardcross,19,
-131,Petit Manon,Female,16-12-2016,Montafon,AUT,France,World Cup,Snowboardcross,18,130.00
-132,Petit Manon,Female,15-12-2016,Montafon,AUT,France,Qualification,Snowboardcross,18,
-133,Petit Manon,Female,09-04-2016,Bad Gastein,AUT,France,European Cup,Snowboardcross,3,174.00
-134,Petit Manon,Female,08-04-2016,Bad Gastein,AUT,France,European Cup,Snowboardcross,9,84.10
-135,Petit Manon,Female,04-04-2016,Rogla,SLO,France,FIS Junior World Championships,Snowboardcross,3,216.00
-136,Petit Manon,Female,27-03-2016,Isola 2000,FRA,France,National Championships,Snowboardcross,5,162.00
-137,Petit Manon,Female,19-03-2016,Lenk,SUI,France,European Cup,Snowboardcross,2,176.00
-138,Petit Manon,Female,18-03-2016,Lenk,SUI,France,European Cup,Snowboardcross,2,176.00
-139,Petit Manon,Female,13-03-2016,Puy St. Vincent,FRA,France,European Cup,Snowboardcross,2,192.00
-140,Petit Manon,Female,12-03-2016,Puy St. Vincent,FRA,France,European Cup,Snowboardcross,10,62.40
-141,Petit Manon,Female,06-03-2016,Veysonnaz,SUI,France,World Cup,Snowboardcross,20,110.00
-142,Petit Manon,Female,05-03-2016,Veysonnaz,SUI,France,World Cup,Snowboardcross,9,290.00
-143,Petit Manon,Female,04-03-2016,Veysonnaz,SUI,France,Qualification,Snowboardcross,22,
-144,Petit Manon,Female,04-03-2016,Veysonnaz,SUI,France,Qualification,Snowboardcross,22,
-145,Petit Manon,Female,15-02-2016,Hafjell,NOR,France,Youth Olympic Winter Games,Snowboardcross,1,130.00
-146,Petit Manon,Female,06-02-2016,Sedrun,SUI,France,National Championships,Snowboardcross,DNS1,
-147,Petit Manon,Female,30-01-2016,Grasgehren,GER,France,European Cup,Snowboardcross,7,104.40
-148,Petit Manon,Female,24-01-2016,Feldberg,GER,France,World Cup,Snowboardcross,20,110.00
-149,Petit Manon,Female,23-01-2016,Feldberg,GER,France,World Cup,Snowboardcross,16,150.00
-150,Petit Manon,Female,22-01-2016,Feldberg,GER,France,Qualification,Snowboardcross,22,
-151,Petit Manon,Female,12-12-2015,Montafon,AUT,France,World Cup,Snowboardcross,20,110.00
-152,Petit Manon,Female,11-12-2015,Montafon,AUT,France,Qualification,Snowboardcross,20,
-153,Petit Manon,Female,28-11-2015,Pitztal,AUT,France,Junior,Snowboardcross,1,200.00
-154,Petit Manon,Female,28-11-2015,Pitztal,AUT,France,Junior,Snowboardcross,1,200.00
-155,Petit Manon,Female,26-11-2015,Pitztal,AUT,France,European Cup,Snowboardcross,9,92.80
-156,Petit Manon,Female,25-11-2015,Pitztal,AUT,France,European Cup,Snowboardcross,17,50.40
-157,Petit Manon,Female,19-04-2015,Breuil Cervinia,ITA,France,FIS,Snowboardcross,2,144.00
-158,Petit Manon,Female,18-04-2015,Breuil Cervinia,ITA,France,FIS,Snowboardcross,1,180.00
-159,Petit Manon,Female,01-04-2015,Val Thorens,FRA,France,National Championships,Snowboardcross,4,180.00
-160,Petit Manon,Female,28-03-2015,Bad Gastein,AUT,France,European Cup,Snowboardcross,17,33.60
-161,Petit Manon,Female,27-03-2015,Bad Gastein,AUT,France,European Cup,Snowboardcross,5,130.50
-162,Petit Manon,Female,21-03-2015,Lenk,SUI,France,European Cup,Snowboardcross,2,192.00
-163,Petit Manon,Female,20-03-2015,Lenk,SUI,France,European Cup,Snowboardcross,6,96.00
-164,Petit Manon,Female,13-03-2015,Yabuli,CHN,France,FIS Junior World Championships,Snowboardcross,17,50.40
-165,Petit Manon,Female,07-03-2015,Moena,ITA,France,FIS,Snowboardcross,2,88.00
-166,Petit Manon,Female,06-03-2015,Moena,ITA,France,FIS,Snowboardcross,1,110.00
-167,Petit Manon,Female,15-02-2015,Grasgehren,GER,France,European Cup,Snowboardcross,23,32.00
-168,Petit Manon,Female,14-02-2015,Grasgehren,GER,France,European Cup,Snowboardcross,16,67.50
-169,Petit Manon,Female,07-02-2015,Cortina d'Ampezzo,ITA,France,European Cup,Snowboardcross,16,75.00
-170,Petit Manon,Female,01-02-2015,Puy St Vincent,FRA,France,European Cup,Snowboardcross,10,
-171,Petit Manon,Female,31-01-2015,Puy St Vincent,FRA,France,European Cup,Snowboardcross,5,
-172,Petit Manon,Female,26-01-2015,Schruns - Hochjoch,AUT,France,European Youth Olympic Festival,Snowboardcross,6,48.00
-173,Petit Manon,Female,18-01-2015,Isola 2000,FRA,France,European Cup,Snowboardcross,9,58.00
-174,Petit Manon,Female,17-01-2015,Isola 2000,FRA,France,European Cup,Snowboardcross,3,120.00
-175,Petit Manon,Female,04-12-2014,Pitztal,AUT,France,European Cup,Snowboardcross,33,12.00
-176,Petit Manon,Female,03-12-2014,Pitztal,AUT,France,National Championships,Snowboardcross,41,0.00
-177,Petit Manon,Female,22-03-2014,Lenk,SUI,France,European Cup,Snowboardcross,23,20.80
-178,Petit Manon,Female,17-03-2014,Puy St Vincent,FRA,France,European Cup,Snowboardcross,21,24.00
-179,Petit Manon,Female,16-03-2014,Puy St Vincent,FRA,France,European Cup,Snowboardcross,22,21.60
-180,Petit Manon,Female,16-02-2014,Innsbruck / Kuehtai,AUT,France,FIS,Snowboardcross,3,132.00
-181,Petit Manon,Female,15-02-2014,Innsbruck / Kuehtai,AUT,France,FIS,Snowboardcross,8,70.40
-182,Petit Manon,Female,09-02-2014,Isola 2000,FRA,France,European Cup,Snowboardcross,22,21.60
-183,Petit Manon,Female,12-01-2014,Isola 2000,FRA,France,FIS,Snowboardcross,1,140.00
-184,Petit Manon,Female,11-01-2014,Isola 2000,FRA,France,FIS,Snowboardcross,2,112.00
-185,Petit Manon,Female,22-12-2013,Cortina d Ampezzo,ITA,France,European Cup,Snowboardcross,19,21.60
-186,Petit Manon,Female,21-12-2013,Cortina d Ampezzo,ITA,France,European Cup,Snowboardcross,12,39.60
-187,Petit Manon,Female,01-12-2013,Breuil Cervinia,ITA,France,FIS,Snowboardcross,11,62.40
-188,Petit Manon,Female,30-11-2013,Breuil Cervinia,ITA,France,FIS,Snowboardcross,6,104.00
+0,Petit Manon,Female,02-02-2025,Beidahu,CHN,France,World Cup,Snowboard Cross,6,
+1,Petit Manon,Female,02-02-2025,Beidahu,CHN,France,Qualification,Snowboard Cross,10,
+2,Petit Manon,Female,01-02-2025,Beidahu,CHN,France,World Cup,Snowboard Cross,14,
+3,Petit Manon,Female,31-01-2025,Beidahu,CHN,France,Qualification,Snowboard Cross,10,
+4,Petit Manon,Female,14-12-2024,Cervinia,ITA,France,World Cup,Snowboard Cross,10,260.00
+5,Petit Manon,Female,13-12-2024,Cervinia,ITA,France,Qualification,Snowboard Cross,9,
+6,Petit Manon,Female,03-10-2024,Corralco,CHI,France,South American Cup,Snowboard Cross,5,162.00
+7,Petit Manon,Female,03-10-2024,Corralco,CHI,France,South American Cup,Snowboard Cross,1,360.00
+8,Petit Manon,Female,24-03-2024,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,17,140.00
+9,Petit Manon,Female,23-03-2024,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,16,150.00
+10,Petit Manon,Female,22-03-2024,Mt. St. Anne,CAN,France,Qualification,Snowboard Cross,15,
+11,Petit Manon,Female,16-03-2024,Montafon,AUT,France,World Cup,Snowboard Cross,20,110.00
+12,Petit Manon,Female,15-03-2024,Montafon,AUT,France,Qualification,Snowboard Cross,20,
+13,Petit Manon,Female,09-03-2024,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,15,160.00
+14,Petit Manon,Female,08-03-2024,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,14,
+15,Petit Manon,Female,03-03-2024,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,13,200.00
+16,Petit Manon,Female,02-03-2024,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,4,500.00
+17,Petit Manon,Female,01-03-2024,Sierra Nevada,ESP,France,Qualification,Snowboard Cross,16,
+18,Petit Manon,Female,04-02-2024,Gudauri,GEO,France,World Cup,Snowboard Cross,9,290.00
+19,Petit Manon,Female,03-02-2024,Gudauri,GEO,France,World Cup,Snowboard Cross,16,150.00
+20,Petit Manon,Female,02-02-2024,Gudauri,GEO,France,Qualification,Snowboard Cross,16,
+21,Petit Manon,Female,26-01-2024,St. Moritz,SUI,France,World Cup,Snowboard Cross,21,
+22,Petit Manon,Female,25-01-2024,St. Moritz,SUI,France,Qualification,Snowboard Cross,21,
+23,Petit Manon,Female,16-12-2023,Cervinia,ITA,France,World Cup,Snowboard Cross,12,220.00
+24,Petit Manon,Female,03-12-2023,Les Deux Alpes,FRA,France,Qualification,Snowboard Cross,12,
+25,Petit Manon,Female,03-12-2023,Les Deux Alpes,FRA,France,World Cup,Snowboard Cross,12,220.00
+26,Petit Manon,Female,02-12-2023,Les Deux Alpes,FRA,France,World Cup,Snowboard Cross Team,15,
+27,Petit Manon,Female,01-10-2023,Corralco,CHI,France,South American Cup,Snowboard Cross,5,162.00
+28,Petit Manon,Female,30-09-2023,Corralco,CHI,France,South American Cup,Snowboard Cross,7,129.60
+29,Petit Manon,Female,08-04-2023,Chamonix,FRA,France,National Championships,Snowboard Cross,1,290.00
+30,Petit Manon,Female,26-03-2023,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,6,400.00
+31,Petit Manon,Female,25-03-2023,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,9,290.00
+32,Petit Manon,Female,24-03-2023,Mt. St. Anne,CAN,France,Qualification,Snowboard Cross,9,
+33,Petit Manon,Female,16-03-2023,Veysonnaz,SUI,France,World Cup,Snowboard Cross,17,140.00
+34,Petit Manon,Female,15-03-2023,Veysonnaz,SUI,France,Qualification,Snowboard Cross,17,
+35,Petit Manon,Female,12-03-2023,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,3,600.00
+36,Petit Manon,Female,11-03-2023,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,6,400.00
+37,Petit Manon,Female,02-03-2023,Bakuriani,GEO,France,World Championships,Snowboard Cross Team,8,
+38,Petit Manon,Female,01-03-2023,Bakuriani,GEO,France,World Championships,Snowboard Cross,4,500.00
+39,Petit Manon,Female,04-02-2023,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,4,500.00
+40,Petit Manon,Female,03-02-2023,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,3,
+41,Petit Manon,Female,15-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,3,216.00
+42,Petit Manon,Female,14-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,6,144.00
+43,Petit Manon,Female,17-12-2022,Cervinia,ITA,France,World Cup,Snowboard Cross,17,140.00
+44,Petit Manon,Female,16-12-2022,Cervinia,ITA,France,World Cup,Snowboard Cross,2,800.00
+45,Petit Manon,Female,15-12-2022,Cervinia,ITA,France,Qualification,Snowboard Cross,16,
+46,Petit Manon,Female,04-12-2022,Les Deux Alpes,FRA,France,World Cup,Snowboard Cross,9,290.00
+47,Petit Manon,Female,02-12-2022,Les Deux Alpes,FRA,France,Qualification,Snowboard Cross,3,
+48,Petit Manon,Female,24-11-2022,Pitztal,AUT,France,European Cup,Snowboard Cross,DNS,
+49,Petit Manon,Female,24-11-2022,Pitztal,AUT,France,Qualification,Snowboard Cross,DNS,
+50,Petit Manon,Female,08-04-2022,Isola 2000,FRA,France,National Championships,Snowboard Cross,3,174.00
+51,Petit Manon,Female,20-03-2022,Veysonnaz,SUI,France,World Cup,Snowboard Cross,3,600.00
+52,Petit Manon,Female,12-03-2022,Reiteralm,AUT,France,World Cup,Snowboard Cross,20,
+53,Petit Manon,Female,10-03-2022,Reiteralm,AUT,France,Qualification,Snowboard Cross,20,
+54,Petit Manon,Female,09-02-2022,Beijing,CHN,France,Qualification,Snowboard Cross,12,
+55,Petit Manon,Female,09-02-2022,Beijing,CHN,France,Olympic Winter Games,Snowboard Cross,26,50.00
+56,Petit Manon,Female,29-01-2022,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,12,
+57,Petit Manon,Female,29-01-2022,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,7,360.00
+58,Petit Manon,Female,09-01-2022,Krasnoyarsk,RUS,France,World Cup,Snowboard Cross,9,290.00
+59,Petit Manon,Female,08-01-2022,Krasnoyarsk,RUS,France,World Cup,Snowboard Cross,17,140.00
+60,Petit Manon,Female,07-01-2022,Krasnoyarsk,RUS,France,Qualification,Snowboard Cross,17,
+61,Petit Manon,Female,18-12-2021,Cervinia,ITA,France,World Cup,Snowboard Cross,17,140.00
+62,Petit Manon,Female,17-12-2021,Cervinia,ITA,France,Qualification,Snowboard Cross,17,
+63,Petit Manon,Female,10-12-2021,Montafon,AUT,France,World Cup,Snowboard Cross,29,36.00
+64,Petit Manon,Female,09-12-2021,Montafon,AUT,France,Qualification,Snowboard Cross,29,
+65,Petit Manon,Female,28-11-2021,Secret Garden,CHN,France,World Cup,Snowboard Cross,15,160.00
+66,Petit Manon,Female,26-11-2021,Secret Garden,CHN,France,Qualification,Snowboard Cross,15,
+67,Petit Manon,Female,30-10-2021,Les 2 Alpes,FRA,France,FIS,Snowboard Cross,13,44.00
+68,Petit Manon,Female,20-03-2021,Veysonnaz,SUI,France,World Cup,Snowboard Cross,6,400.00
+69,Petit Manon,Female,05-03-2021,Bakuriani,GEO,France,World Cup,Snowboard Cross,6,400.00
+70,Petit Manon,Female,04-03-2021,Bakuriani,GEO,France,World Cup,Snowboard Cross,8,320.00
+71,Petit Manon,Female,03-03-2021,Bakuriani,GEO,France,Qualification,Snowboard Cross,6,
+72,Petit Manon,Female,18-02-2021,Reiteralm,AUT,France,World Cup,Snowboard Cross,6,400.00
+73,Petit Manon,Female,16-02-2021,Reiteralm,AUT,France,Qualification,Snowboard Cross,11,
+74,Petit Manon,Female,11-02-2021,Idre Fjäll,SWE,France,World Championships,Snowboard Cross,23,80.00
+75,Petit Manon,Female,09-02-2021,Idre Fjäll,SWE,France,Qualification,Snowboard Cross,23,
+76,Petit Manon,Female,31-01-2021,Isola 2000,FRA,France,European Cup,Snowboard Cross,2,288.00
+77,Petit Manon,Female,30-01-2021,Isola 2000,FRA,France,European Cup,Snowboard Cross,3,216.00
+78,Petit Manon,Female,24-01-2021,Chiesa in Valmalenco,ITA,France,World Cup,Snowboard Cross,7,360.00
+79,Petit Manon,Female,23-01-2021,Chiesa in Valmalenco,ITA,France,World Cup,Snowboard Cross,6,400.00
+80,Petit Manon,Female,22-01-2021,Chiesa in Valmalenco,ITA,France,Qualification,Snowboard Cross,14,
+81,Petit Manon,Female,16-03-2019,Veysonnaz,SUI,France,World Cup,Snowboard Cross,DNS,
+82,Petit Manon,Female,02-03-2019,Baqueira Beret,ESP,France,World Cup,Snowboard Cross,9,290.00
+83,Petit Manon,Female,01-03-2019,Baqueira Beret,ESP,France,Qualification,Snowboard Cross,8,
+84,Petit Manon,Female,09-02-2019,Feldberg,GER,France,World Cup,Snowboard Cross,6,400.00
+85,Petit Manon,Female,08-02-2019,Feldberg,GER,France,Qualification,Snowboard Cross,14,
+86,Petit Manon,Female,01-02-2019,Solitude,USA,France,World Championships,Snowboard Cross,18,130.00
+87,Petit Manon,Female,31-01-2019,Solitude,USA,France,Qualification,Snowboard Cross,18,
+88,Petit Manon,Female,22-12-2018,Cervinia,ITA,France,World Cup,Snowboard Cross,17,140.00
+89,Petit Manon,Female,21-12-2018,Cervinia,ITA,France,World Cup,Snowboard Cross,9,290.00
+90,Petit Manon,Female,20-12-2018,Cervinia,ITA,France,Qualification,Snowboard Cross,8,
+91,Petit Manon,Female,01-04-2018,Peyragudes,FRA,France,National Championships,Snowboard Cross,4,145.00
+92,Petit Manon,Female,18-03-2018,Veysonnaz,SUI,France,World Cup,Snowboard Cross Team,4,
+93,Petit Manon,Female,17-03-2018,Veysonnaz,SUI,France,World Cup,Snowboard Cross,3,600.00
+94,Petit Manon,Female,16-03-2018,Veysonnaz,SUI,France,Qualification,Snowboard Cross,16,
+95,Petit Manon,Female,11-03-2018,Moscow ,RUS,France,World Cup,Snowboard Cross Team,5,
+96,Petit Manon,Female,10-03-2018,Moscow,RUS,France,World Cup,Snowboard Cross,9,290.00
+97,Petit Manon,Female,10-03-2018,Moscow,RUS,France,Qualification,Snowboard Cross,11,
+98,Petit Manon,Female,03-03-2018,La Molina,ESP,France,World Cup,Snowboard Cross,19,120.00
+99,Petit Manon,Female,02-03-2018,La Molina,ESP,France,Qualification,Snowboard Cross,19,
+100,Petit Manon,Female,25-02-2018,Feldberg ,GER,France,World Cup,Snowboard Cross,21,100.00
+101,Petit Manon,Female,24-02-2018,Feldberg,GER,France,World Cup,Snowboard Cross,11,240.00
+102,Petit Manon,Female,24-02-2018,Feldberg,GER,France,Qualification,Snowboard Cross,21,
+103,Petit Manon,Female,23-02-2018,Feldberg,GER,France,Qualification,Snowboard Cross,14,
+104,Petit Manon,Female,27-01-2018,Bansko,BUL,France,World Cup,Snowboardcross,16,150.00
+105,Petit Manon,Female,27-01-2018,Bansko,BUL,France,Qualification,Snowboard Cross,17,
+106,Petit Manon,Female,21-01-2018,Erzurum,TUR,France,World Cup,Snowboard Cross Team,5,
+107,Petit Manon,Female,20-01-2018,Erzurum,TUR,France,World Cup,Snowboard Cross,9,290.00
+108,Petit Manon,Female,22-12-2017,Cervinia,ITA,France,World Cup,Snowboard Cross,18,130.00
+109,Petit Manon,Female,21-12-2017,Cervinia,ITA,France,Qualification,Snowboard Cross,18,
+110,Petit Manon,Female,17-12-2017,Montafon,AUT,France,World Cup,Snowboard Cross Team,4,
+111,Petit Manon,Female,16-12-2017,Montafon,AUT,France,Qualification,Snowboard Cross,17,
+112,Petit Manon,Female,16-12-2017,Montafon,AUT,France,World Cup,Snowboardcross,17,140.00
+113,Petit Manon,Female,13-12-2017,Val Thorens,FRA,France,Qualification,Snowboard Cross,31,
+114,Petit Manon,Female,13-12-2017,Val Thorens,FRA,France,World Cup,Snowboardcross,31,28.00
+115,Petit Manon,Female,10-09-2017,Cerro Catedral,ARG,France,World Cup,Snowboardcross,8,320.00
+116,Petit Manon,Female,09-09-2017,Cerro Catedral,ARG,France,World Cup,Snowboardcross,21,100.00
+117,Petit Manon,Female,08-09-2017,Cerro Catedral,ARG,France,Qualification,Snowboardcross,14,
+118,Petit Manon,Female,06-04-2017,Le Grand Bornand,FRA,France,National Championships,Snowboardcross,4,145.00
+119,Petit Manon,Female,25-03-2017,Veysonnaz,SUI,France,World Cup,Snowboardcross,12,220.00
+120,Petit Manon,Female,24-03-2017,Veysonnaz,SUI,France,Qualification,Snowboardcross,15,
+121,Petit Manon,Female,13-03-2017,Sierra Nevada,ESP,France,World Championships,Snowboardcross Team,2,
+122,Petit Manon,Female,12-03-2017,Sierra Nevada,ESP,France,World Championships,Snowboardcross,5,450.00
+123,Petit Manon,Female,10-03-2017,Sierra Nevada,ESP,France,Qualification,Snowboardcross,12,
+124,Petit Manon,Female,05-03-2017,La Molina,ESP,France,World Cup,Snowboardcross,25,60.00
+125,Petit Manon,Female,04-03-2017,La Molina,ESP,France,Qualification,Snowboardcross,25,
+126,Petit Manon,Female,25-02-2017,Colere,ITA,France,European Cup,Snowboardcross,2,192.00
+127,Petit Manon,Female,24-02-2017,Colere,ITA,France,European Cup,Snowboardcross,3,144.00
+128,Petit Manon,Female,18-02-2017,Klinovec,CZE,France,FIS Junior World Championships,Snowboardcross,7,115.20
+129,Petit Manon,Female,12-02-2017,Feldberg,GER,France,World Cup,Snowboardcross,27,45.00
+130,Petit Manon,Female,11-02-2017,Feldberg,GER,France,World Cup,Snowboardcross,22,90.00
+131,Petit Manon,Female,10-02-2017,Feldberg,GER,France,Qualification,Snowboardcross,22,
+132,Petit Manon,Female,04-02-2017,Bansko,BUL,France,World Cup,Snowboardcross,19,120.00
+133,Petit Manon,Female,02-02-2017,Bansko,BUL,France,Qualification,Snowboardcross,21,
+134,Petit Manon,Female,22-01-2017,Solitude Mountain Resort,USA,France,World Cup,Snowboardcross Team,4,
+135,Petit Manon,Female,21-01-2017,Solitude Mountain Resort,USA,France,World Cup,Snowboardcross,18,130.00
+136,Petit Manon,Female,19-01-2017,Solitude Mountain Resort,USA,France,Qualification,Snowboardcross,19,
+137,Petit Manon,Female,16-12-2016,Montafon,AUT,France,World Cup,Snowboardcross,18,130.00
+138,Petit Manon,Female,15-12-2016,Montafon,AUT,France,Qualification,Snowboardcross,18,
+139,Petit Manon,Female,09-04-2016,Bad Gastein,AUT,France,European Cup,Snowboardcross,3,174.00
+140,Petit Manon,Female,08-04-2016,Bad Gastein,AUT,France,European Cup,Snowboardcross,9,84.10
+141,Petit Manon,Female,04-04-2016,Rogla,SLO,France,FIS Junior World Championships,Snowboardcross,3,216.00
+142,Petit Manon,Female,27-03-2016,Isola 2000,FRA,France,National Championships,Snowboardcross,5,162.00
+143,Petit Manon,Female,19-03-2016,Lenk,SUI,France,European Cup,Snowboardcross,2,176.00
+144,Petit Manon,Female,18-03-2016,Lenk,SUI,France,European Cup,Snowboardcross,2,176.00
+145,Petit Manon,Female,13-03-2016,Puy St. Vincent,FRA,France,European Cup,Snowboardcross,2,192.00
+146,Petit Manon,Female,12-03-2016,Puy St. Vincent,FRA,France,European Cup,Snowboardcross,10,62.40
+147,Petit Manon,Female,06-03-2016,Veysonnaz,SUI,France,World Cup,Snowboardcross,20,110.00
+148,Petit Manon,Female,05-03-2016,Veysonnaz,SUI,France,World Cup,Snowboardcross,9,290.00
+149,Petit Manon,Female,04-03-2016,Veysonnaz,SUI,France,Qualification,Snowboardcross,22,
+150,Petit Manon,Female,04-03-2016,Veysonnaz,SUI,France,Qualification,Snowboardcross,22,
+151,Petit Manon,Female,15-02-2016,Hafjell,NOR,France,Youth Olympic Winter Games,Snowboardcross,1,130.00
+152,Petit Manon,Female,06-02-2016,Sedrun,SUI,France,National Championships,Snowboardcross,DNS1,
+153,Petit Manon,Female,30-01-2016,Grasgehren,GER,France,European Cup,Snowboardcross,7,104.40
+154,Petit Manon,Female,24-01-2016,Feldberg,GER,France,World Cup,Snowboardcross,20,110.00
+155,Petit Manon,Female,23-01-2016,Feldberg,GER,France,World Cup,Snowboardcross,16,150.00
+156,Petit Manon,Female,22-01-2016,Feldberg,GER,France,Qualification,Snowboardcross,22,
+157,Petit Manon,Female,12-12-2015,Montafon,AUT,France,World Cup,Snowboardcross,20,110.00
+158,Petit Manon,Female,11-12-2015,Montafon,AUT,France,Qualification,Snowboardcross,20,
+159,Petit Manon,Female,28-11-2015,Pitztal,AUT,France,Junior,Snowboardcross,1,200.00
+160,Petit Manon,Female,28-11-2015,Pitztal,AUT,France,Junior,Snowboardcross,1,200.00
+161,Petit Manon,Female,26-11-2015,Pitztal,AUT,France,European Cup,Snowboardcross,9,92.80
+162,Petit Manon,Female,25-11-2015,Pitztal,AUT,France,European Cup,Snowboardcross,17,50.40
+163,Petit Manon,Female,19-04-2015,Breuil Cervinia,ITA,France,FIS,Snowboardcross,2,144.00
+164,Petit Manon,Female,18-04-2015,Breuil Cervinia,ITA,France,FIS,Snowboardcross,1,180.00
+165,Petit Manon,Female,01-04-2015,Val Thorens,FRA,France,National Championships,Snowboardcross,4,180.00
+166,Petit Manon,Female,28-03-2015,Bad Gastein,AUT,France,European Cup,Snowboardcross,17,33.60
+167,Petit Manon,Female,27-03-2015,Bad Gastein,AUT,France,European Cup,Snowboardcross,5,130.50
+168,Petit Manon,Female,21-03-2015,Lenk,SUI,France,European Cup,Snowboardcross,2,192.00
+169,Petit Manon,Female,20-03-2015,Lenk,SUI,France,European Cup,Snowboardcross,6,96.00
+170,Petit Manon,Female,13-03-2015,Yabuli,CHN,France,FIS Junior World Championships,Snowboardcross,17,50.40
+171,Petit Manon,Female,07-03-2015,Moena,ITA,France,FIS,Snowboardcross,2,88.00
+172,Petit Manon,Female,06-03-2015,Moena,ITA,France,FIS,Snowboardcross,1,110.00
+173,Petit Manon,Female,15-02-2015,Grasgehren,GER,France,European Cup,Snowboardcross,23,32.00
+174,Petit Manon,Female,14-02-2015,Grasgehren,GER,France,European Cup,Snowboardcross,16,67.50
+175,Petit Manon,Female,07-02-2015,Cortina d'Ampezzo,ITA,France,European Cup,Snowboardcross,16,75.00
+176,Petit Manon,Female,01-02-2015,Puy St Vincent,FRA,France,European Cup,Snowboardcross,10,
+177,Petit Manon,Female,31-01-2015,Puy St Vincent,FRA,France,European Cup,Snowboardcross,5,
+178,Petit Manon,Female,26-01-2015,Schruns - Hochjoch,AUT,France,European Youth Olympic Festival,Snowboardcross,6,48.00
+179,Petit Manon,Female,18-01-2015,Isola 2000,FRA,France,European Cup,Snowboardcross,9,58.00
+180,Petit Manon,Female,17-01-2015,Isola 2000,FRA,France,European Cup,Snowboardcross,3,120.00
+181,Petit Manon,Female,04-12-2014,Pitztal,AUT,France,European Cup,Snowboardcross,33,12.00
+182,Petit Manon,Female,03-12-2014,Pitztal,AUT,France,National Championships,Snowboardcross,41,0.00
+183,Petit Manon,Female,22-03-2014,Lenk,SUI,France,European Cup,Snowboardcross,23,20.80
+184,Petit Manon,Female,17-03-2014,Puy St Vincent,FRA,France,European Cup,Snowboardcross,21,24.00
+185,Petit Manon,Female,16-03-2014,Puy St Vincent,FRA,France,European Cup,Snowboardcross,22,21.60
+186,Petit Manon,Female,16-02-2014,Innsbruck / Kuehtai,AUT,France,FIS,Snowboardcross,3,132.00
+187,Petit Manon,Female,15-02-2014,Innsbruck / Kuehtai,AUT,France,FIS,Snowboardcross,8,70.40
+188,Petit Manon,Female,09-02-2014,Isola 2000,FRA,France,European Cup,Snowboardcross,22,21.60
+189,Petit Manon,Female,12-01-2014,Isola 2000,FRA,France,FIS,Snowboardcross,1,140.00
+190,Petit Manon,Female,11-01-2014,Isola 2000,FRA,France,FIS,Snowboardcross,2,112.00
+191,Petit Manon,Female,22-12-2013,Cortina d Ampezzo,ITA,France,European Cup,Snowboardcross,19,21.60
+192,Petit Manon,Female,21-12-2013,Cortina d Ampezzo,ITA,France,European Cup,Snowboardcross,12,39.60
+193,Petit Manon,Female,01-12-2013,Breuil Cervinia,ITA,France,FIS,Snowboardcross,11,62.40
+194,Petit Manon,Female,30-11-2013,Breuil Cervinia,ITA,France,FIS,Snowboardcross,6,104.00

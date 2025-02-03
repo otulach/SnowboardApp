@@ -1,31 +1,36 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Nejne Tova,Female,07-04-2024,Klaeppen,SWE,Sweden,National Championships,Big Air,1,10.00
-1,Nejne Tova,Female,05-04-2024,Klaeppen,SWE,Sweden,National Championships,Slopestyle,2,12.70
-2,Nejne Tova,Female,23-03-2024,Funaesdalen,SWE,Sweden,FIS,Slopestyle,2,37.10
-3,Nejne Tova,Female,12-03-2024,Laax,SUI,Sweden,European Cup Premium,Slopestyle,18,14.90
-4,Nejne Tova,Female,17-02-2024,Stockholm,SWE,Sweden,FIS,Slopestyle,1,20.00
-5,Nejne Tova,Female,11-02-2024,Klaeppen,SWE,Sweden,FIS,Slopestyle,1,20.00
-6,Nejne Tova,Female,27-01-2024,Skelleftea,SWE,Sweden,FIS,Big Air,1,10.00
-7,Nejne Tova,Female,05-01-2024,Font Romeu,FRA,Sweden,European Cup,Big Air,12,10.20
-8,Nejne Tova,Female,04-01-2024,Font Romeu,FRA,Sweden,European Cup Premium,Slopestyle,15,5.10
-9,Nejne Tova,Female,18-02-2023,Jaervsoe,SWE,Sweden,FIS,Slopestyle,2,19.10
-10,Nejne Tova,Female,12-02-2023,Klaeppen,SWE,Sweden,FIS,Slopestyle,3,9.20
-11,Nejne Tova,Female,04-02-2023,Font Romeu,FRA,Sweden,European Cup,Big Air,10,21.80
-12,Nejne Tova,Female,02-02-2023,Font Romeu,FRA,Sweden,European Cup,Slopestyle,11,19.10
-13,Nejne Tova,Female,21-01-2023,Skelleftea,SWE,Sweden,FIS,Big Air,3,22.20
-14,Nejne Tova,Female,17-12-2022,Kiruna,SWE,Sweden,FIS,Slopestyle,2,53.60
-15,Nejne Tova,Female,09-04-2022,Funaesdalen,SWE,Sweden,FIS,Slopestyle,2,35.20
-16,Nejne Tova,Female,02-04-2022,Klaeppen,SWE,Sweden,National Championships,Big Air,2,37.10
-17,Nejne Tova,Female,01-04-2022,Klaeppen,SWE,Sweden,National Championships,Slopestyle,2,37.10
-18,Nejne Tova,Female,19-03-2022,Jaervsoe,SWE,Sweden,FIS,Slopestyle,2,37.10
-19,Nejne Tova,Female,13-03-2022,Leysin,SUI,Sweden,FIS Junior World Championships,Slopestyle,14,35.70
-20,Nejne Tova,Female,10-03-2022,Leysin,SUI,Sweden,FIS Junior World Championships,Big Air,20,13.80
-21,Nejne Tova,Female,26-02-2022,Götschen,GER,Sweden,European Cup,Big Air,3,95.20
-22,Nejne Tova,Female,25-02-2022,Götschen,GER,Sweden,European Cup,Slopestyle,11,38.80
-23,Nejne Tova,Female,22-01-2022,Hemavan,SWE,Sweden,FIS,Slopestyle,3,9.20
-24,Nejne Tova,Female,19-12-2021,Kiruna,SWE,Sweden,FIS,Slopestyle,4,34.70
-25,Nejne Tova,Female,11-04-2021,Funaesdalen,SWE,Sweden,FIS,Slopestyle,3,22.15
-26,Nejne Tova,Female,21-03-2021,Klaeppen,SWE,Sweden,National Championships,Big Air,2,37.07
-27,Nejne Tova,Female,20-03-2021,Klaeppen,SWE,Sweden,National Championships,Slopestyle,2,38.24
-28,Nejne Tova,Female,14-03-2021,Jarvsoe,SWE,Sweden,FIS,Slopestyle,1,50.00
-29,Nejne Tova,Female,30-01-2021,Hemavan,SWE,Sweden,FIS,Slopestyle,3,3.04
+0,Nejne Tova,Female,11-01-2025,Prato Nevoso,ITA,Sweden,European Cup,Slopestyle,14,15.60
+1,Nejne Tova,Female,06-01-2025,Font Romeu,FRA,Sweden,FIS,Rail Event,DNS,
+2,Nejne Tova,Female,05-01-2025,Font Romeu,FRA,Sweden,European Cup Premium,Slopestyle,13,8.90
+3,Nejne Tova,Female,15-12-2024,Kiruna,SWE,Sweden,FIS,Slopestyle,2,12.70
+4,Nejne Tova,Female,08-12-2024,Gaellivare,SWE,Sweden,FIS,Big Air,1,50.00
+5,Nejne Tova,Female,07-04-2024,Klaeppen,SWE,Sweden,National Championships,Big Air,1,10.00
+6,Nejne Tova,Female,05-04-2024,Klaeppen,SWE,Sweden,National Championships,Slopestyle,2,12.70
+7,Nejne Tova,Female,23-03-2024,Funaesdalen,SWE,Sweden,FIS,Slopestyle,2,37.10
+8,Nejne Tova,Female,12-03-2024,Laax,SUI,Sweden,European Cup Premium,Slopestyle,18,14.90
+9,Nejne Tova,Female,17-02-2024,Stockholm,SWE,Sweden,FIS,Slopestyle,1,20.00
+10,Nejne Tova,Female,11-02-2024,Klaeppen,SWE,Sweden,FIS,Slopestyle,1,20.00
+11,Nejne Tova,Female,27-01-2024,Skelleftea,SWE,Sweden,FIS,Big Air,1,10.00
+12,Nejne Tova,Female,05-01-2024,Font Romeu,FRA,Sweden,European Cup,Big Air,12,10.20
+13,Nejne Tova,Female,04-01-2024,Font Romeu,FRA,Sweden,European Cup Premium,Slopestyle,15,5.10
+14,Nejne Tova,Female,18-02-2023,Jaervsoe,SWE,Sweden,FIS,Slopestyle,2,19.10
+15,Nejne Tova,Female,12-02-2023,Klaeppen,SWE,Sweden,FIS,Slopestyle,3,9.20
+16,Nejne Tova,Female,04-02-2023,Font Romeu,FRA,Sweden,European Cup,Big Air,10,21.80
+17,Nejne Tova,Female,02-02-2023,Font Romeu,FRA,Sweden,European Cup,Slopestyle,11,19.10
+18,Nejne Tova,Female,21-01-2023,Skelleftea,SWE,Sweden,FIS,Big Air,3,22.20
+19,Nejne Tova,Female,17-12-2022,Kiruna,SWE,Sweden,FIS,Slopestyle,2,53.60
+20,Nejne Tova,Female,09-04-2022,Funaesdalen,SWE,Sweden,FIS,Slopestyle,2,35.20
+21,Nejne Tova,Female,02-04-2022,Klaeppen,SWE,Sweden,National Championships,Big Air,2,37.10
+22,Nejne Tova,Female,01-04-2022,Klaeppen,SWE,Sweden,National Championships,Slopestyle,2,37.10
+23,Nejne Tova,Female,19-03-2022,Jaervsoe,SWE,Sweden,FIS,Slopestyle,2,37.10
+24,Nejne Tova,Female,13-03-2022,Leysin,SUI,Sweden,FIS Junior World Championships,Slopestyle,14,35.70
+25,Nejne Tova,Female,10-03-2022,Leysin,SUI,Sweden,FIS Junior World Championships,Big Air,20,13.80
+26,Nejne Tova,Female,26-02-2022,Götschen,GER,Sweden,European Cup,Big Air,3,95.20
+27,Nejne Tova,Female,25-02-2022,Götschen,GER,Sweden,European Cup,Slopestyle,11,38.80
+28,Nejne Tova,Female,22-01-2022,Hemavan,SWE,Sweden,FIS,Slopestyle,3,9.20
+29,Nejne Tova,Female,19-12-2021,Kiruna,SWE,Sweden,FIS,Slopestyle,4,34.70
+30,Nejne Tova,Female,11-04-2021,Funaesdalen,SWE,Sweden,FIS,Slopestyle,3,22.15
+31,Nejne Tova,Female,21-03-2021,Klaeppen,SWE,Sweden,National Championships,Big Air,2,37.07
+32,Nejne Tova,Female,20-03-2021,Klaeppen,SWE,Sweden,National Championships,Slopestyle,2,38.24
+33,Nejne Tova,Female,14-03-2021,Jarvsoe,SWE,Sweden,FIS,Slopestyle,1,50.00
+34,Nejne Tova,Female,30-01-2021,Hemavan,SWE,Sweden,FIS,Slopestyle,3,3.04

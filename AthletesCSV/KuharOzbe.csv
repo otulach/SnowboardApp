@@ -1,89 +1,91 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Kuhar Ozbe,Male,19-04-2024,Kitzsteinhorn,AUT,Slovenia,European Cup,Halfpipe,10,20.30
-1,Kuhar Ozbe,Male,14-04-2024,Corvatsch,SUI,Slovenia,European Cup Premium,Big Air,44,59.50
-2,Kuhar Ozbe,Male,12-04-2024,Corvatsch,SUI,Slovenia,European Cup Premium,Slopestyle,99,6.20
-3,Kuhar Ozbe,Male,08-04-2024,Corvatsch,SUI,Slovenia,European Cup,Halfpipe,27,14.20
-4,Kuhar Ozbe,Male,30-03-2024,Vogel,SLO,Slovenia,National Championships,Big Air,2,39.60
-5,Kuhar Ozbe,Male,12-03-2024,Laax,SUI,Slovenia,European Cup Premium,Slopestyle,86,4.40
-6,Kuhar Ozbe,Male,09-03-2024,Laax,SUI,Slovenia,European Cup Premium,Halfpipe,18,24.00
-7,Kuhar Ozbe,Male,22-02-2024,Prato Nevoso,ITA,Slovenia,European Cup,Slopestyle,25,48.10
-8,Kuhar Ozbe,Male,15-02-2024,Davos,SUI,Slovenia,European Cup,Big Air,42,0.10
-9,Kuhar Ozbe,Male,10-02-2024,Kotelnica Bialczanska,POL,Slovenia,European Cup,Big Air,5,52.90
-10,Kuhar Ozbe,Male,05-01-2024,Font Romeu,FRA,Slovenia,European Cup,Big Air,23,34.10
-11,Kuhar Ozbe,Male,04-01-2024,Font Romeu,FRA,Slovenia,European Cup Premium,Slopestyle,63,2.40
-12,Kuhar Ozbe,Male,22-04-2023,Kitzsteinhorn,AUT,Slovenia,European Cup,Big Air,14,62.50
-13,Kuhar Ozbe,Male,21-04-2023,Kitzsteinhorn,AUT,Slovenia,European Cup,Slopestyle,48,11.50
-14,Kuhar Ozbe,Male,17-04-2023,Corvatsch,SUI,Slovenia,European Cup Premium,Big Air,20,71.00
-15,Kuhar Ozbe,Male,14-04-2023,Corvatsch,SUI,Slovenia,European Cup Premium,Slopestyle,32,64.90
-16,Kuhar Ozbe,Male,09-04-2023,Vogel,SLO,Slovenia,National Championships,Slopestyle,2,57.10
-17,Kuhar Ozbe,Male,08-04-2023,Vogel,SLO,Slovenia,National Championships,Big Air,11,10.70
-18,Kuhar Ozbe,Male,29-03-2023,Ruka,FIN,Slovenia,European Cup,Slopestyle,18,0.10
-19,Kuhar Ozbe,Male,20-03-2023,Mottolino Livigno,ITA,Slovenia,European Cup,Slopestyle,48,7.50
-20,Kuhar Ozbe,Male,17-03-2023,Laax,SUI,Slovenia,European Cup Premium,Slopestyle,98,5.90
-21,Kuhar Ozbe,Male,18-02-2023,Davos,SUI,Slovenia,European Cup,Big Air,29,11.80
-22,Kuhar Ozbe,Male,04-02-2023,Font Romeu,FRA,Slovenia,European Cup,Big Air,29,20.20
-23,Kuhar Ozbe,Male,02-02-2023,Font Romeu,FRA,Slovenia,European Cup,Slopestyle,50,3.50
-24,Kuhar Ozbe,Male,25-01-2023,Prato Nevoso,ITA,Slovenia,European Cup,Slopestyle,40,4.30
-25,Kuhar Ozbe,Male,29-04-2022,Kanin,SLO,Slovenia,National Junior Championships,Big Air,1,30.00
-26,Kuhar Ozbe,Male,29-04-2022,Kanin,SLO,Slovenia,National Championships,Big Air,1,50.00
-27,Kuhar Ozbe,Male,25-03-2022,Vuokatti,FIN,Slovenia,European Youth Olympic Festival,Slopestyle,32,3.90
-28,Kuhar Ozbe,Male,23-03-2022,Vuokatti,FIN,Slovenia,European Youth Olympic Festival,Big Air,11,29.50
-29,Kuhar Ozbe,Male,13-03-2022,Leysin,SUI,Slovenia,FIS Junior World Championships,Slopestyle,53,13.90
-30,Kuhar Ozbe,Male,10-03-2022,Leysin,SUI,Slovenia,FIS Junior World Championships,Big Air,21,40.90
-31,Kuhar Ozbe,Male,26-02-2022,Götschen,GER,Slovenia,European Cup,Big Air,51,7.70
-32,Kuhar Ozbe,Male,25-02-2022,Götschen,GER,Slovenia,European Cup,Slopestyle,22,41.90
-33,Kuhar Ozbe,Male,23-02-2022,Moscow,RUS,Slovenia,European Cup,Big Air,10,38.70
-34,Kuhar Ozbe,Male,18-02-2022,Davos,SUI,Slovenia,European Cup Premium,Big Air,39,15.70
-35,Kuhar Ozbe,Male,12-02-2022,Kotelnica Bialczanska,POL,Slovenia,European Cup Premium,Big Air,10,39.70
-36,Kuhar Ozbe,Male,23-01-2022,Prato Nevoso,ITA,Slovenia,European Cup,Slopestyle,7,99.90
-37,Kuhar Ozbe,Male,19-11-2021,Landgraaf,NED,Slovenia,European Cup,Slopestyle,33,21.90
-38,Kuhar Ozbe,Male,18-11-2021,Landgraaf,NED,Slovenia,FIS,Slopestyle,26,36.30
-39,Kuhar Ozbe,Male,17-04-2021,Vogel,SLO,Slovenia,National Junior Championships,Big Air,2,12.67
-40,Kuhar Ozbe,Male,17-04-2021,Vogel,SLO,Slovenia,National Junior Championships,Slopestyle,1,10.00
-41,Kuhar Ozbe,Male,16-04-2021,Vogel,SLO,Slovenia,National Championships,Big Air,4,26.16
-42,Kuhar Ozbe,Male,16-04-2021,Vogel,SLO,Slovenia,National Championships,Slopestyle,3,32.54
-43,Kuhar Ozbe,Male,21-03-2021,Krasnoyarsk ,RUS,Slovenia,FIS Junior World Championships,Big Air,12,51.51
-44,Kuhar Ozbe,Male,20-03-2021,Krasnoyarsk ,RUS,Slovenia,Qualification,Big Air,6,
-45,Kuhar Ozbe,Male,19-03-2021,Krasnoyarsk ,RUS,Slovenia,FIS Junior World Championships,Slopestyle,34,0.07
-46,Kuhar Ozbe,Male,18-03-2021,Krasnoyarsk ,RUS,Slovenia,Qualification,Slopestyle,16,
-47,Kuhar Ozbe,Male,05-03-2021,Götschen,GER,Slovenia,European Cup,Big Air,1,130.00
-48,Kuhar Ozbe,Male,04-03-2021,Flachauwinkel,AUT,Slovenia,European Cup,Big Air,23,24.50
-49,Kuhar Ozbe,Male,27-02-2021,Moscow,RUS,Slovenia,European Cup,Big Air,10,40.62
-50,Kuhar Ozbe,Male,22-02-2021,Götschen,GER,Slovenia,European Cup,Big Air,46,9.85
-51,Kuhar Ozbe,Male,21-02-2021,Götschen,GER,Slovenia,European Cup,Slopestyle,17,35.27
-52,Kuhar Ozbe,Male,19-02-2021,Davos,SUI,Slovenia,European Cup,Big Air,50,8.39
-53,Kuhar Ozbe,Male,08-02-2021,Kopaonik,SRB,Slovenia,European Cup,Big Air,23,19.02
-54,Kuhar Ozbe,Male,31-01-2021,Crans Montana,SUI,Slovenia,European Cup,Slopestyle,39,43.82
-55,Kuhar Ozbe,Male,09-01-2021,Kreischberg,AUT,Slovenia,World Cup,Big Air,55,25.15
-56,Kuhar Ozbe,Male,09-01-2021,Kreischberg,AUT,Slovenia,Qualification,Big Air,29,
-57,Kuhar Ozbe,Male,06-03-2020,Absolut Park Flachauwinkel,AUT,Slovenia,European Cup,Big Air,28,8.00
-58,Kuhar Ozbe,Male,29-02-2020,Moscow,RUS,Slovenia,European Cup Premium,Big Air,5,130.50
-59,Kuhar Ozbe,Male,25-02-2020,Kopaonik,SRB,Slovenia,European Cup,Slopestyle,DNS,
-60,Kuhar Ozbe,Male,24-02-2020,Kopaonik,SRB,Slovenia,European Cup,Big Air,11,38.40
-61,Kuhar Ozbe,Male,21-02-2020,Davos,SUI,Slovenia,European Cup Premium,Big Air,22,19.80
-62,Kuhar Ozbe,Male,15-02-2020,Kotelnica Bialczanska,POL,Slovenia,European Cup,Big Air,21,16.00
-63,Kuhar Ozbe,Male,22-01-2020,Leysin,SUI,Slovenia,Youth Olympic Winter Games,Big Air,20,
-64,Kuhar Ozbe,Male,22-01-2020,Leysin,SUI,Slovenia,Qualification,Big Air,20,
-65,Kuhar Ozbe,Male,20-01-2020,Leysin,SUI,Slovenia,Youth Olympic Winter Games,Slopestyle,19,21.60
-66,Kuhar Ozbe,Male,13-04-2019,Klaeppen,SWE,Slovenia,FIS Junior World Championships,Big Air,71,2.21
-67,Kuhar Ozbe,Male,12-04-2019,Klaeppen,SWE,Slovenia,Qualification,Big Air,16,
-68,Kuhar Ozbe,Male,09-04-2019,Klaeppen,SWE,Slovenia,FIS Junior World Championships,Slopestyle,50,3.72
-69,Kuhar Ozbe,Male,08-04-2019,Klaeppen,SWE,Slovenia,Qualification,Slopestyle,11,
-70,Kuhar Ozbe,Male,31-03-2019,Vogel,SLO,Slovenia,FIS,Big Air,2,56.00
-71,Kuhar Ozbe,Male,27-02-2019,Götschen,GER,Slovenia,European Cup,Big Air,5,72.00
-72,Kuhar Ozbe,Male,26-02-2019,Götschen,GER,Slovenia,European Cup,Big Air,16,24.00
-73,Kuhar Ozbe,Male,08-02-2019,Kopaonik,SRB,Slovenia,European Cup,Big Air,4,80.00
-74,Kuhar Ozbe,Male,07-02-2019,Kopaonik,SRB,Slovenia,European Cup,Big Air,5,72.00
-75,Kuhar Ozbe,Male,03-02-2019,Sarajevo,BIH,Slovenia,European Cup,Big Air,13,32.00
-76,Kuhar Ozbe,Male,03-02-2019,Sarajevo,BIH,Slovenia,European Cup,Big Air,10,41.60
-77,Kuhar Ozbe,Male,26-01-2019,Vars,FRA,Slovenia,European Cup,Big Air,19,21.60
-78,Kuhar Ozbe,Male,25-01-2019,Vars,FRA,Slovenia,European Cup,Slopestyle,19,19.20
-79,Kuhar Ozbe,Male,22-01-2019,Font Romeu,FRA,Slovenia,European Cup,Big Air,12,35.20
-80,Kuhar Ozbe,Male,17-01-2019,Kreischberg,AUT,Slovenia,European Cup,Big Air,30,5.76
-81,Kuhar Ozbe,Male,16-01-2019,Kreischberg,AUT,Slovenia,European Cup,Slopestyle,26,8.00
-82,Kuhar Ozbe,Male,08-04-2018,Kanin,SLO,Slovenia,FIS,Slopestyle,3,30.00
-83,Kuhar Ozbe,Male,25-02-2018,Kopaonik,SRB,Slovenia,European Cup,Big Air,24,11.20
-84,Kuhar Ozbe,Male,23-02-2018,Kopaonik,SRB,Slovenia,FIS,Big Air,10,28.60
-85,Kuhar Ozbe,Male,22-02-2018,Kopaonik,SRB,Slovenia,FIS,Slopestyle,14,16.20
-86,Kuhar Ozbe,Male,18-02-2018,Sarajevo,BIH,Slovenia,European Cup,Big Air,19,19.20
-87,Kuhar Ozbe,Male,17-02-2018,Bjelasnica,BIH,Slovenia,FIS,Slopestyle,4,25.00
+0,Kuhar Ozbe,Male,19-01-2025,Bardonecchia,ITA,Slovenia,Universiade,Big Air,16,2.10
+1,Kuhar Ozbe,Male,17-01-2025,Bardonecchia,ITA,Slovenia,Universiade,Slopestyle,13,9.10
+2,Kuhar Ozbe,Male,19-04-2024,Kitzsteinhorn,AUT,Slovenia,European Cup,Halfpipe,10,20.30
+3,Kuhar Ozbe,Male,14-04-2024,Corvatsch,SUI,Slovenia,European Cup Premium,Big Air,44,59.50
+4,Kuhar Ozbe,Male,12-04-2024,Corvatsch,SUI,Slovenia,European Cup Premium,Slopestyle,99,6.20
+5,Kuhar Ozbe,Male,08-04-2024,Corvatsch,SUI,Slovenia,European Cup,Halfpipe,27,14.20
+6,Kuhar Ozbe,Male,30-03-2024,Vogel,SLO,Slovenia,National Championships,Big Air,2,39.60
+7,Kuhar Ozbe,Male,12-03-2024,Laax,SUI,Slovenia,European Cup Premium,Slopestyle,86,4.40
+8,Kuhar Ozbe,Male,09-03-2024,Laax,SUI,Slovenia,European Cup Premium,Halfpipe,18,24.00
+9,Kuhar Ozbe,Male,22-02-2024,Prato Nevoso,ITA,Slovenia,European Cup,Slopestyle,25,48.10
+10,Kuhar Ozbe,Male,15-02-2024,Davos,SUI,Slovenia,European Cup,Big Air,42,0.10
+11,Kuhar Ozbe,Male,10-02-2024,Kotelnica Bialczanska,POL,Slovenia,European Cup,Big Air,5,52.90
+12,Kuhar Ozbe,Male,05-01-2024,Font Romeu,FRA,Slovenia,European Cup,Big Air,23,34.10
+13,Kuhar Ozbe,Male,04-01-2024,Font Romeu,FRA,Slovenia,European Cup Premium,Slopestyle,63,2.40
+14,Kuhar Ozbe,Male,22-04-2023,Kitzsteinhorn,AUT,Slovenia,European Cup,Big Air,14,62.50
+15,Kuhar Ozbe,Male,21-04-2023,Kitzsteinhorn,AUT,Slovenia,European Cup,Slopestyle,48,11.50
+16,Kuhar Ozbe,Male,17-04-2023,Corvatsch,SUI,Slovenia,European Cup Premium,Big Air,20,71.00
+17,Kuhar Ozbe,Male,14-04-2023,Corvatsch,SUI,Slovenia,European Cup Premium,Slopestyle,32,64.90
+18,Kuhar Ozbe,Male,09-04-2023,Vogel,SLO,Slovenia,National Championships,Slopestyle,2,57.10
+19,Kuhar Ozbe,Male,08-04-2023,Vogel,SLO,Slovenia,National Championships,Big Air,11,10.70
+20,Kuhar Ozbe,Male,29-03-2023,Ruka,FIN,Slovenia,European Cup,Slopestyle,18,0.10
+21,Kuhar Ozbe,Male,20-03-2023,Mottolino Livigno,ITA,Slovenia,European Cup,Slopestyle,48,7.50
+22,Kuhar Ozbe,Male,17-03-2023,Laax,SUI,Slovenia,European Cup Premium,Slopestyle,98,5.90
+23,Kuhar Ozbe,Male,18-02-2023,Davos,SUI,Slovenia,European Cup,Big Air,29,11.80
+24,Kuhar Ozbe,Male,04-02-2023,Font Romeu,FRA,Slovenia,European Cup,Big Air,29,20.20
+25,Kuhar Ozbe,Male,02-02-2023,Font Romeu,FRA,Slovenia,European Cup,Slopestyle,50,3.50
+26,Kuhar Ozbe,Male,25-01-2023,Prato Nevoso,ITA,Slovenia,European Cup,Slopestyle,40,4.30
+27,Kuhar Ozbe,Male,29-04-2022,Kanin,SLO,Slovenia,National Junior Championships,Big Air,1,30.00
+28,Kuhar Ozbe,Male,29-04-2022,Kanin,SLO,Slovenia,National Championships,Big Air,1,50.00
+29,Kuhar Ozbe,Male,25-03-2022,Vuokatti,FIN,Slovenia,European Youth Olympic Festival,Slopestyle,32,3.90
+30,Kuhar Ozbe,Male,23-03-2022,Vuokatti,FIN,Slovenia,European Youth Olympic Festival,Big Air,11,29.50
+31,Kuhar Ozbe,Male,13-03-2022,Leysin,SUI,Slovenia,FIS Junior World Championships,Slopestyle,53,13.90
+32,Kuhar Ozbe,Male,10-03-2022,Leysin,SUI,Slovenia,FIS Junior World Championships,Big Air,21,40.90
+33,Kuhar Ozbe,Male,26-02-2022,Götschen,GER,Slovenia,European Cup,Big Air,51,7.70
+34,Kuhar Ozbe,Male,25-02-2022,Götschen,GER,Slovenia,European Cup,Slopestyle,22,41.90
+35,Kuhar Ozbe,Male,23-02-2022,Moscow,RUS,Slovenia,European Cup,Big Air,10,38.70
+36,Kuhar Ozbe,Male,18-02-2022,Davos,SUI,Slovenia,European Cup Premium,Big Air,39,15.70
+37,Kuhar Ozbe,Male,12-02-2022,Kotelnica Bialczanska,POL,Slovenia,European Cup Premium,Big Air,10,39.70
+38,Kuhar Ozbe,Male,23-01-2022,Prato Nevoso,ITA,Slovenia,European Cup,Slopestyle,7,99.90
+39,Kuhar Ozbe,Male,19-11-2021,Landgraaf,NED,Slovenia,European Cup,Slopestyle,33,21.90
+40,Kuhar Ozbe,Male,18-11-2021,Landgraaf,NED,Slovenia,FIS,Slopestyle,26,36.30
+41,Kuhar Ozbe,Male,17-04-2021,Vogel,SLO,Slovenia,National Junior Championships,Slopestyle,1,10.00
+42,Kuhar Ozbe,Male,17-04-2021,Vogel,SLO,Slovenia,National Junior Championships,Big Air,2,12.67
+43,Kuhar Ozbe,Male,16-04-2021,Vogel,SLO,Slovenia,National Championships,Big Air,4,26.16
+44,Kuhar Ozbe,Male,16-04-2021,Vogel,SLO,Slovenia,National Championships,Slopestyle,3,32.54
+45,Kuhar Ozbe,Male,21-03-2021,Krasnoyarsk ,RUS,Slovenia,FIS Junior World Championships,Big Air,12,51.51
+46,Kuhar Ozbe,Male,20-03-2021,Krasnoyarsk ,RUS,Slovenia,Qualification,Big Air,6,
+47,Kuhar Ozbe,Male,19-03-2021,Krasnoyarsk ,RUS,Slovenia,FIS Junior World Championships,Slopestyle,34,0.07
+48,Kuhar Ozbe,Male,18-03-2021,Krasnoyarsk ,RUS,Slovenia,Qualification,Slopestyle,16,
+49,Kuhar Ozbe,Male,05-03-2021,Götschen,GER,Slovenia,European Cup,Big Air,1,130.00
+50,Kuhar Ozbe,Male,04-03-2021,Flachauwinkel,AUT,Slovenia,European Cup,Big Air,23,24.50
+51,Kuhar Ozbe,Male,27-02-2021,Moscow,RUS,Slovenia,European Cup,Big Air,10,40.62
+52,Kuhar Ozbe,Male,22-02-2021,Götschen,GER,Slovenia,European Cup,Big Air,46,9.85
+53,Kuhar Ozbe,Male,21-02-2021,Götschen,GER,Slovenia,European Cup,Slopestyle,17,35.27
+54,Kuhar Ozbe,Male,19-02-2021,Davos,SUI,Slovenia,European Cup,Big Air,50,8.39
+55,Kuhar Ozbe,Male,08-02-2021,Kopaonik,SRB,Slovenia,European Cup,Big Air,23,19.02
+56,Kuhar Ozbe,Male,31-01-2021,Crans Montana,SUI,Slovenia,European Cup,Slopestyle,39,43.82
+57,Kuhar Ozbe,Male,09-01-2021,Kreischberg,AUT,Slovenia,World Cup,Big Air,55,25.15
+58,Kuhar Ozbe,Male,09-01-2021,Kreischberg,AUT,Slovenia,Qualification,Big Air,29,
+59,Kuhar Ozbe,Male,06-03-2020,Absolut Park Flachauwinkel,AUT,Slovenia,European Cup,Big Air,28,8.00
+60,Kuhar Ozbe,Male,29-02-2020,Moscow,RUS,Slovenia,European Cup Premium,Big Air,5,130.50
+61,Kuhar Ozbe,Male,25-02-2020,Kopaonik,SRB,Slovenia,European Cup,Slopestyle,DNS,
+62,Kuhar Ozbe,Male,24-02-2020,Kopaonik,SRB,Slovenia,European Cup,Big Air,11,38.40
+63,Kuhar Ozbe,Male,21-02-2020,Davos,SUI,Slovenia,European Cup Premium,Big Air,22,19.80
+64,Kuhar Ozbe,Male,15-02-2020,Kotelnica Bialczanska,POL,Slovenia,European Cup,Big Air,21,16.00
+65,Kuhar Ozbe,Male,22-01-2020,Leysin,SUI,Slovenia,Qualification,Big Air,20,
+66,Kuhar Ozbe,Male,22-01-2020,Leysin,SUI,Slovenia,Youth Olympic Winter Games,Big Air,20,
+67,Kuhar Ozbe,Male,20-01-2020,Leysin,SUI,Slovenia,Youth Olympic Winter Games,Slopestyle,19,21.60
+68,Kuhar Ozbe,Male,13-04-2019,Klaeppen,SWE,Slovenia,FIS Junior World Championships,Big Air,71,2.21
+69,Kuhar Ozbe,Male,12-04-2019,Klaeppen,SWE,Slovenia,Qualification,Big Air,16,
+70,Kuhar Ozbe,Male,09-04-2019,Klaeppen,SWE,Slovenia,FIS Junior World Championships,Slopestyle,50,3.72
+71,Kuhar Ozbe,Male,08-04-2019,Klaeppen,SWE,Slovenia,Qualification,Slopestyle,11,
+72,Kuhar Ozbe,Male,31-03-2019,Vogel,SLO,Slovenia,FIS,Big Air,2,56.00
+73,Kuhar Ozbe,Male,27-02-2019,Götschen,GER,Slovenia,European Cup,Big Air,5,72.00
+74,Kuhar Ozbe,Male,26-02-2019,Götschen,GER,Slovenia,European Cup,Big Air,16,24.00
+75,Kuhar Ozbe,Male,08-02-2019,Kopaonik,SRB,Slovenia,European Cup,Big Air,4,80.00
+76,Kuhar Ozbe,Male,07-02-2019,Kopaonik,SRB,Slovenia,European Cup,Big Air,5,72.00
+77,Kuhar Ozbe,Male,03-02-2019,Sarajevo,BIH,Slovenia,European Cup,Big Air,13,32.00
+78,Kuhar Ozbe,Male,03-02-2019,Sarajevo,BIH,Slovenia,European Cup,Big Air,10,41.60
+79,Kuhar Ozbe,Male,26-01-2019,Vars,FRA,Slovenia,European Cup,Big Air,19,21.60
+80,Kuhar Ozbe,Male,25-01-2019,Vars,FRA,Slovenia,European Cup,Slopestyle,19,19.20
+81,Kuhar Ozbe,Male,22-01-2019,Font Romeu,FRA,Slovenia,European Cup,Big Air,12,35.20
+82,Kuhar Ozbe,Male,17-01-2019,Kreischberg,AUT,Slovenia,European Cup,Big Air,30,5.76
+83,Kuhar Ozbe,Male,16-01-2019,Kreischberg,AUT,Slovenia,European Cup,Slopestyle,26,8.00
+84,Kuhar Ozbe,Male,08-04-2018,Kanin,SLO,Slovenia,FIS,Slopestyle,3,30.00
+85,Kuhar Ozbe,Male,25-02-2018,Kopaonik,SRB,Slovenia,European Cup,Big Air,24,11.20
+86,Kuhar Ozbe,Male,23-02-2018,Kopaonik,SRB,Slovenia,FIS,Big Air,10,28.60
+87,Kuhar Ozbe,Male,22-02-2018,Kopaonik,SRB,Slovenia,FIS,Slopestyle,14,16.20
+88,Kuhar Ozbe,Male,18-02-2018,Sarajevo,BIH,Slovenia,European Cup,Big Air,19,19.20
+89,Kuhar Ozbe,Male,17-02-2018,Bjelasnica,BIH,Slovenia,FIS,Slopestyle,4,25.00

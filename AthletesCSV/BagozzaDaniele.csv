@@ -1,320 +1,344 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Bagozza Daniele,Male,17-03-2024,St. Moritz,SUI,Italy,European Cup,Parallel Slalom,3,216.00
-1,Bagozza Daniele,Male,16-03-2024,St. Moritz,SUI,Italy,European Cup,Parallel Giant Slalom,18,46.80
-2,Bagozza Daniele,Male,10-03-2024,Winterberg,GER,Italy,World Cup,Parallel Slalom Team,1,
-3,Bagozza Daniele,Male,09-03-2024,Winterberg,GER,Italy,Qualification,Parallel Slalom,19,
-4,Bagozza Daniele,Male,09-03-2024,Winterberg,GER,Italy,World Cup,Parallel Slalom,19,120.00
-5,Bagozza Daniele,Male,25-02-2024,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,DSQ,
-6,Bagozza Daniele,Male,25-02-2024,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,DSQ,
-7,Bagozza Daniele,Male,24-02-2024,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,12,
-8,Bagozza Daniele,Male,24-02-2024,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,3,600.00
-9,Bagozza Daniele,Male,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,2,232.00
-10,Bagozza Daniele,Male,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,2,232.00
-11,Bagozza Daniele,Male,28-01-2024,Simonhöhe,AUT,Italy,World Cup,Parallel Giant Slalom Team,9,
-12,Bagozza Daniele,Male,27-01-2024,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,1,
-13,Bagozza Daniele,Male,27-01-2024,Simonhöhe,AUT,Italy,World Cup,Parallel Giant Slalom,1,1000.00
-14,Bagozza Daniele,Male,25-01-2024,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,2,
-15,Bagozza Daniele,Male,25-01-2024,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,6,400.00
-16,Bagozza Daniele,Male,21-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,DSQ,
-17,Bagozza Daniele,Male,21-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,DSQ,
-18,Bagozza Daniele,Male,20-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,3,
-19,Bagozza Daniele,Male,20-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,1,1000.00
-20,Bagozza Daniele,Male,17-01-2024,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom Team,2,
-21,Bagozza Daniele,Male,16-01-2024,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,3,
-22,Bagozza Daniele,Male,16-01-2024,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,6,400.00
-23,Bagozza Daniele,Male,13-01-2024,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,4,
-24,Bagozza Daniele,Male,13-01-2024,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,10,260.00
-25,Bagozza Daniele,Male,23-12-2023,Davos,SUI,Italy,Qualification,Parallel Slalom,6,
-26,Bagozza Daniele,Male,23-12-2023,Davos ,SUI,Italy,World Cup,Parallel Slalom,1,1000.00
-27,Bagozza Daniele,Male,16-12-2023,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,2,
-28,Bagozza Daniele,Male,16-12-2023,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,9,290.00
-29,Bagozza Daniele,Male,14-12-2023,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,30,
-30,Bagozza Daniele,Male,14-12-2023,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,30,32.00
-31,Bagozza Daniele,Male,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,22,26.10
-32,Bagozza Daniele,Male,18-03-2023,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,15,
-33,Bagozza Daniele,Male,18-03-2023,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,15,160.00
-34,Bagozza Daniele,Male,15-03-2023,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,12,220.00
-35,Bagozza Daniele,Male,15-03-2023,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,11,
-36,Bagozza Daniele,Male,11-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,1,220.00
-37,Bagozza Daniele,Male,04-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,5,99.00
-38,Bagozza Daniele,Male,12-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,1,220.00
-39,Bagozza Daniele,Male,11-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,1,220.00
-40,Bagozza Daniele,Male,27-01-2023,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,7,
-41,Bagozza Daniele,Male,27-01-2023,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,11,240.00
-42,Bagozza Daniele,Male,26-01-2023,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,19,
-43,Bagozza Daniele,Male,26-01-2023,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,19,120.00
-44,Bagozza Daniele,Male,22-01-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,15,
-45,Bagozza Daniele,Male,22-01-2023,Bansko,BUL,Italy,World Cup,Parallel Slalom,8,320.00
-46,Bagozza Daniele,Male,21-01-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,20,
-47,Bagozza Daniele,Male,21-01-2023,Bansko,BUL,Italy,World Cup,Parallel Slalom,20,110.00
-48,Bagozza Daniele,Male,14-01-2023,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,7,
-49,Bagozza Daniele,Male,14-01-2023,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,9,290.00
-50,Bagozza Daniele,Male,10-01-2023,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,18,
-51,Bagozza Daniele,Male,10-01-2023,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,18,130.00
-52,Bagozza Daniele,Male,17-12-2022,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,14,
-53,Bagozza Daniele,Male,17-12-2022,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,14,180.00
-54,Bagozza Daniele,Male,15-12-2022,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,16,
-55,Bagozza Daniele,Male,15-12-2022,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,16,150.00
-56,Bagozza Daniele,Male,11-12-2022,Winterberg,GER,Italy,World Cup,Parallel Slalom,31,28.00
-57,Bagozza Daniele,Male,10-12-2022,Winterberg,GER,Italy,Qualification,Parallel Slalom,31,
-58,Bagozza Daniele,Male,19-03-2022,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,15,
-59,Bagozza Daniele,Male,19-03-2022,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,14,180.00
-60,Bagozza Daniele,Male,16-03-2022,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,28,
-61,Bagozza Daniele,Male,16-03-2022,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,28,40.00
-62,Bagozza Daniele,Male,12-03-2022,Piancavallo,ITA,Italy,Qualification,Parallel Slalom,24,
-63,Bagozza Daniele,Male,12-03-2022,Piancavallo,ITA,Italy,World Cup,Parallel Slalom,24,70.00
-64,Bagozza Daniele,Male,19-02-2022,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,3,132.00
-65,Bagozza Daniele,Male,08-02-2022,Beijing,CHN,Italy,Qualification,Parallel Giant Slalom,16,
-66,Bagozza Daniele,Male,08-02-2022,Beijing,CHN,Italy,Olympic Winter Games,Parallel Giant Slalom,15,160.00
-67,Bagozza Daniele,Male,08-01-2022,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,7,
-68,Bagozza Daniele,Male,08-01-2022,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,12,220.00
-69,Bagozza Daniele,Male,18-12-2021,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,6,
-70,Bagozza Daniele,Male,18-12-2021,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,5,450.00
-71,Bagozza Daniele,Male,16-12-2021,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,13,
-72,Bagozza Daniele,Male,16-12-2021,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,14,180.00
-73,Bagozza Daniele,Male,12-12-2021,Bannoye,RUS,Italy,Qualification,Parallel Slalom,DSQ,
-74,Bagozza Daniele,Male,12-12-2021,Bannoye,RUS,Italy,World Cup,Parallel Slalom,DSQ,
-75,Bagozza Daniele,Male,11-12-2021,Bannoye,RUS,Italy,Qualification,Parallel Giant Slalom,3,
-76,Bagozza Daniele,Male,11-12-2021,Bannoye,RUS,Italy,World Cup,Parallel Giant Slalom,6,400.00
-77,Bagozza Daniele,Male,31-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Giant Slalom,6,116.00
-78,Bagozza Daniele,Male,30-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Slalom,7,104.40
-79,Bagozza Daniele,Male,20-03-2021,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,DSQ,
-80,Bagozza Daniele,Male,20-03-2021,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,DSQ,
-81,Bagozza Daniele,Male,06-03-2021,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,17,
-82,Bagozza Daniele,Male,06-03-2021,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,17,140.00
-83,Bagozza Daniele,Male,02-03-2021,Rogla,SLO,Italy,World Championships,Parallel Slalom,DNF,
-84,Bagozza Daniele,Male,02-03-2021,Rogla,SLO,Italy,Qualification,Parallel Slalom,DNF,
-85,Bagozza Daniele,Male,30-01-2021,Moscow,RUS,Italy,Qualification,Parallel Slalom,8,
-86,Bagozza Daniele,Male,30-01-2021,Moscow,RUS,Italy,World Cup,Parallel Slalom,7,360.00
-87,Bagozza Daniele,Male,12-01-2021,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,12,
-88,Bagozza Daniele,Male,12-01-2021,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,8,320.00
-89,Bagozza Daniele,Male,09-01-2021,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,18,
-90,Bagozza Daniele,Male,09-01-2021,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,18,130.00
-91,Bagozza Daniele,Male,17-12-2020,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,1,
-92,Bagozza Daniele,Male,17-12-2020,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,5,450.00
-93,Bagozza Daniele,Male,12-12-2020,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,5,
-94,Bagozza Daniele,Male,12-12-2020,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,6,400.00
-95,Bagozza Daniele,Male,01-03-2020,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,27,45.00
-96,Bagozza Daniele,Male,01-03-2020,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,27,
-97,Bagozza Daniele,Male,29-02-2020,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,16,150.00
-98,Bagozza Daniele,Male,29-02-2020,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,16,
-99,Bagozza Daniele,Male,22-02-2020,Pyeongchang,KOR,Italy,World Cup,Parallel Giant Slalom,8,320.00
-100,Bagozza Daniele,Male,22-02-2020,Pyeongchang,KOR,Italy,Qualification,Parallel Giant Slalom,13,
-101,Bagozza Daniele,Male,26-01-2020,Piancavallo,ITA,Italy,World Cup,Parallel Slalom Team,2,
-102,Bagozza Daniele,Male,25-01-2020,Piancavallo,ITA,Italy,World Cup,Parallel Slalom,8,320.00
-103,Bagozza Daniele,Male,25-01-2020,Piancavallo,ITA,Italy,Qualification,Parallel Slalom,11,
-104,Bagozza Daniele,Male,18-01-2020,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,11,240.00
-105,Bagozza Daniele,Male,18-01-2020,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,6,
-106,Bagozza Daniele,Male,15-01-2020,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom Team,4,
-107,Bagozza Daniele,Male,14-01-2020,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,1,1000.00
-108,Bagozza Daniele,Male,14-01-2020,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,11,
-109,Bagozza Daniele,Male,11-01-2020,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,15,160.00
-110,Bagozza Daniele,Male,11-01-2020,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,15,
-111,Bagozza Daniele,Male,19-12-2019,Carezza,ITA,Italy,Open,Parallel Giant Slalom,6,400.00
-112,Bagozza Daniele,Male,14-12-2019,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,9,290.00
-113,Bagozza Daniele,Male,14-12-2019,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,1,
-114,Bagozza Daniele,Male,08-12-2019,Bannoye,RUS,Italy,World Cup,Parallel Giant Slalom,14,180.00
-115,Bagozza Daniele,Male,08-12-2019,Bannoye,RUS,Italy,Qualification,Parallel Giant Slalom,10,
-116,Bagozza Daniele,Male,07-12-2019,Bannoye,RUS,Italy,World Cup,Parallel Slalom,10,260.00
-117,Bagozza Daniele,Male,07-12-2019,Bannoye,RUS,Italy,Qualification,Parallel Slalom,4,
-118,Bagozza Daniele,Male,27-03-2019,Piancavallo,ITA,Italy,National Championships,Parallel Giant Slalom,5,130.50
-119,Bagozza Daniele,Male,26-03-2019,Piancavallo,ITA,Italy,National Championships,Parallel Slalom,2,232.00
-120,Bagozza Daniele,Male,23-03-2019,Winterberg,GER,Italy,World Cup,Parallel Slalom,25,60.00
-121,Bagozza Daniele,Male,23-03-2019,Winterberg,GER,Italy,Qualification,Parallel Slalom,25,
-122,Bagozza Daniele,Male,09-03-2019,Scuol,SUI,Italy,World Cup,Parallel GS,25,60.00
-123,Bagozza Daniele,Male,09-03-2019,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,25,
-124,Bagozza Daniele,Male,24-02-2019,Secret Garden,CHN,Italy,World Cup,Parallel Slalom,1,1000.00
-125,Bagozza Daniele,Male,24-02-2019,Secret Garden,CHN,Italy,Qualification,Parallel Slalom,6,
-126,Bagozza Daniele,Male,23-02-2019,Secret Garden,CHN,Italy,World Cup,Parallel Giant Slalom,12,220.00
-127,Bagozza Daniele,Male,23-02-2019,Secret Garden,CHN,Italy,Qualification,Parallel Giant Slalom,9,
-128,Bagozza Daniele,Male,17-02-2019,Pyeongchang,KOR,Italy,World Cup,Parallel Giant Slalom,26,50.00
-129,Bagozza Daniele,Male,17-02-2019,Pyeongchang,KOR,Italy,Qualification,Parallel Giant Slalom,26,
-130,Bagozza Daniele,Male,16-02-2019,Pyeongchang,KOR,Italy,World Cup,Parallel Giant Slalom,21,100.00
-131,Bagozza Daniele,Male,16-02-2019,Pyeongchang,KOR,Italy,Qualification,Parallel Giant Slalom,21,
-132,Bagozza Daniele,Male,05-02-2019,Park City,USA,Italy,World Championships,Parallel Slalom,12,220.00
-133,Bagozza Daniele,Male,04-02-2019,Park City,USA,Italy,World Championships,Parallel Giant Slalom,19,120.00
-134,Bagozza Daniele,Male,26-01-2019,Moscow,RUS,Italy,World Cup,Parallel Slalom,DSQ,
-135,Bagozza Daniele,Male,26-01-2019,Moscow,RUS,Italy,Qualification,Parallel Slalom,DSQ,
-136,Bagozza Daniele,Male,19-01-2019,Rogla,SLO,Italy,World Cup,Parallel GS,2,800.00
-137,Bagozza Daniele,Male,19-01-2019,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,6,
-138,Bagozza Daniele,Male,08-01-2019,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,15,160.00
-139,Bagozza Daniele,Male,08-01-2019,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,15,
-140,Bagozza Daniele,Male,15-12-2018,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel GS,18,130.00
-141,Bagozza Daniele,Male,15-12-2018,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,18,
-142,Bagozza Daniele,Male,13-12-2018,Carezza,ITA,Italy,World Cup,Parallel GS,18,130.00
-143,Bagozza Daniele,Male,13-12-2018,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,18,
-144,Bagozza Daniele,Male,08-04-2018,Racines,ITA,Italy,European Cup,Parallel Slalom,4,180.00
-145,Bagozza Daniele,Male,07-04-2018,Racines,ITA,Italy,European Cup,Parallel Slalom,4,180.00
-146,Bagozza Daniele,Male,25-03-2018,Davos,SUI,Italy,European Cup,Parallel Slalom,3,216.00
-147,Bagozza Daniele,Male,24-03-2018,Davos,SUI,Italy,European Cup,Parallel GS,4,180.00
-148,Bagozza Daniele,Male,21-03-2018,Rogla,SLO,Italy,European Cup,Parallel GS,7,129.60
-149,Bagozza Daniele,Male,20-03-2018,Rogla,SLO,Italy,European Cup,Parallel GS,9,104.40
-150,Bagozza Daniele,Male,17-03-2018,Winterberg,GER,Italy,World Cup,Parallel Slalom,16,150.00
-151,Bagozza Daniele,Male,17-03-2018,Winterberg,GER,Italy,Qualification,Parallel Slalom,16,
-152,Bagozza Daniele,Male,11-03-2018,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,11,57.60
-153,Bagozza Daniele,Male,10-03-2018,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,7,86.40
-154,Bagozza Daniele,Male,08-03-2018,Carezza,ITA,Italy,National Championships,Parallel Slalom,8,92.80
-155,Bagozza Daniele,Male,07-03-2018,Carezza,ITA,Italy,National Championships,Parallel GS,16,43.50
-156,Bagozza Daniele,Male,03-03-2018,Kayseri,TUR,Italy,World Cup,Parallel GS,DNF,
-157,Bagozza Daniele,Male,03-03-2018,Kayseri,TUR,Italy,Qualification,Parallel GS,DNF,
-158,Bagozza Daniele,Male,25-02-2018,Funes/Villnoess,ITA,Italy,FIS,Parallel GS,1,200.00
-159,Bagozza Daniele,Male,24-02-2018,Funes/Villnoess,ITA,Italy,FIS,Parallel GS,2,160.00
-160,Bagozza Daniele,Male,11-02-2018,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,1,320.00
-161,Bagozza Daniele,Male,10-02-2018,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,3,216.00
-162,Bagozza Daniele,Male,04-02-2018,Gerlitzen,AUT,Italy,National Championships,Parallel GS,6,116.00
-163,Bagozza Daniele,Male,03-02-2018,Gerlitzen,AUT,Italy,National Championships,Parallel Slalom,36,
-164,Bagozza Daniele,Male,21-01-2018,Lachtal,AUT,Italy,European Cup,Parallel GS,1,200.00
-165,Bagozza Daniele,Male,20-01-2018,Lachtal,AUT,Italy,European Cup,Parallel GS,1,200.00
-166,Bagozza Daniele,Male,12-01-2018,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,25,60.00
-167,Bagozza Daniele,Male,12-01-2018,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,25,
-168,Bagozza Daniele,Male,05-01-2018,Lackenhof,AUT,Italy,World Cup,Parallel GS,34,22.00
-169,Bagozza Daniele,Male,05-01-2018,Lackenhof,AUT,Italy,Qualification,Parallel GS,34,
-170,Bagozza Daniele,Male,16-12-2017,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Slalom,25,60.00
-171,Bagozza Daniele,Male,16-12-2017,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Slalom,25,
-172,Bagozza Daniele,Male,15-12-2017,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel GS,29,36.00
-173,Bagozza Daniele,Male,15-12-2017,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel GS,29,
-174,Bagozza Daniele,Male,14-12-2017,Carezza,ITA,Italy,World Cup,Parallel GS,18,130.00
-175,Bagozza Daniele,Male,14-12-2017,Carezza,ITA,Italy,Qualification,Parallel GS,18,
-176,Bagozza Daniele,Male,10-12-2017,Hochfügen,GER,Italy,European Cup,Parallel GS,8,115.20
-177,Bagozza Daniele,Male,09-12-2017,Hochfügen,GER,Italy,European Cup,Parallel GS,48,5.80
-178,Bagozza Daniele,Male,02-12-2017,Pfelders,ITA,Italy,FIS,Parallel GS,34,4.84
-179,Bagozza Daniele,Male,01-12-2017,Pfelders,ITA,Italy,FIS,Parallel GS,6,88.00
-180,Bagozza Daniele,Male,02-04-2017,Scuol,SUI,Italy,European Cup,Parallel Slalom,8,115.20
-181,Bagozza Daniele,Male,01-04-2017,Scuol,SUI,Italy,European Cup,Parallel GS,4,180.00
-182,Bagozza Daniele,Male,29-03-2017,Rogla,SLO,Italy,European Cup,Parallel Slalom,16,54.00
-183,Bagozza Daniele,Male,28-03-2017,Rogla,SLO,Italy,European Cup,Parallel GS,12,79.20
-184,Bagozza Daniele,Male,26-03-2017,Racines,ITA,Italy,European Cup,Parallel Slalom,30,11.52
-185,Bagozza Daniele,Male,25-03-2017,Racines,ITA,Italy,European Cup,Parallel Slalom,19,43.20
-186,Bagozza Daniele,Male,23-03-2017,Monte Pora - Castione della presolana,ITA,Italy,National Championships,Parallel Slalom,4,145.00
-187,Bagozza Daniele,Male,22-03-2017,Monte Pora - Castione della presolana,ITA,Italy,National Championships,Parallel GS,4,145.00
-188,Bagozza Daniele,Male,18-03-2017,Radstadt,AUT,Italy,European Cup,Parallel Slalom,2,176.00
-189,Bagozza Daniele,Male,17-03-2017,Radstadt,AUT,Italy,European Cup,Parallel Slalom,DSQ1,
-190,Bagozza Daniele,Male,05-03-2017,Funes/Villnoss,ITA,Italy,FIS,Giant Slalom,4,80.00
-191,Bagozza Daniele,Male,04-03-2017,Funes/Villnoss,ITA,Italy,FIS,Giant Slalom,4,80.00
-192,Bagozza Daniele,Male,26-02-2017,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,32,9.36
-193,Bagozza Daniele,Male,25-02-2017,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,40,6.66
-194,Bagozza Daniele,Male,05-02-2017,Klinovec,CZE,Italy,FIS,Parallel Slalom,1,70.00
-195,Bagozza Daniele,Male,04-02-2017,Klinovec,CZE,Italy,FIS,Parallel GS,1,70.00
-196,Bagozza Daniele,Male,28-01-2017,Rogla,SLO,Italy,World Cup,Parallel GS,56,
-197,Bagozza Daniele,Male,21-01-2017,Livigno,ITA,Italy,European Cup,Parallel GS,18,46.80
-198,Bagozza Daniele,Male,20-01-2017,Livigno,ITA,Italy,European Cup,Parallel GS,11,86.40
-199,Bagozza Daniele,Male,10-01-2017,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,42,17.90
-200,Bagozza Daniele,Male,08-01-2017,Gerlitzen,AUT,Italy,European Cup,Parallel GS,9,69.60
-201,Bagozza Daniele,Male,07-01-2017,Gerlitzen,AUT,Italy,European Cup,Parallel GS,44,6.23
-202,Bagozza Daniele,Male,17-12-2016,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Slalom,15,160.00
-203,Bagozza Daniele,Male,15-12-2016,Carezza,ITA,Italy,World Cup,Parallel GS,43,17.60
-204,Bagozza Daniele,Male,11-12-2016,Hochfügen,GER,Italy,European Cup,Parallel GS,34,7.92
-205,Bagozza Daniele,Male,10-12-2016,Hochfügen,GER,Italy,European Cup,Parallel GS,8,115.20
-206,Bagozza Daniele,Male,04-11-2016,Landgraaf,NED,Italy,European Cup,Parallel Slalom,33,8.64
-207,Bagozza Daniele,Male,03-11-2016,Landgraaf,NED,Italy,European Cup,Parallel Slalom,37,6.98
-208,Bagozza Daniele,Male,08-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Parallel Slalom,DNF1,
-209,Bagozza Daniele,Male,07-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Parallel GS,5,162.00
-210,Bagozza Daniele,Male,27-03-2016,Racines,ITA,Italy,European Cup,Parallel Slalom,29,16.20
-211,Bagozza Daniele,Male,26-03-2016,Racines,ITA,Italy,European Cup,Parallel Slalom,18,65.00
-212,Bagozza Daniele,Male,24-03-2016,Rogla,SLO,Italy,European Cup,Parallel Slalom,15,80.00
-213,Bagozza Daniele,Male,23-03-2016,Rogla,SLO,Italy,European Cup,Parallel GS,38,9.55
-214,Bagozza Daniele,Male,20-03-2016,Gerlitzen,AUT,Italy,European Cup,Parallel GS,11,120.00
-215,Bagozza Daniele,Male,19-03-2016,Gerlitzen,AUT,Italy,European Cup,Parallel GS,22,45.00
-216,Bagozza Daniele,Male,21-02-2016,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,24,35.00
-217,Bagozza Daniele,Male,20-02-2016,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,12,110.00
-218,Bagozza Daniele,Male,07-02-2016,Lachtal,AUT,Italy,FIS,Parallel Slalom,16,39.00
-219,Bagozza Daniele,Male,06-02-2016,Lachtal,AUT,Italy,National Championships,Parallel Slalom,18,46.80
-220,Bagozza Daniele,Male,30-01-2016,Stara Planina,SRB,Italy,European Cup,Parallel GS,14,43.20
-221,Bagozza Daniele,Male,29-01-2016,Stara Planina,SRB,Italy,European Cup,Parallel Slalom,3,144.00
-222,Bagozza Daniele,Male,17-01-2016,Kreischberg,AUT,Italy,FIS,Parallel GS,26,13.00
-223,Bagozza Daniele,Male,16-01-2016,Kreischberg,AUT,Italy,FIS,Parallel GS,27,11.70
-224,Bagozza Daniele,Male,08-01-2016,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,41,18.20
-225,Bagozza Daniele,Male,19-12-2015,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Slalom,28,40.00
-226,Bagozza Daniele,Male,12-12-2015,Carezza,ITA,Italy,World Cup,Parallel GS,48,
-227,Bagozza Daniele,Male,06-12-2015,Hochfuegen,GER,Italy,European Cup,Parallel GS,58,6.55
-228,Bagozza Daniele,Male,05-12-2015,Hochfuegen,GER,Italy,European Cup,Parallel GS,20,55.00
-229,Bagozza Daniele,Male,16-10-2015,Landgraaf,NED,Italy,European Cup,Parallel Slalom,35,10.00
-230,Bagozza Daniele,Male,15-10-2015,Landgraaf,NED,Italy,European Cup,Parallel Slalom,24,35.00
-231,Bagozza Daniele,Male,27-03-2015,Canazei,ITA,Italy,National Championships,Parallel Slalom,16,54.00
-232,Bagozza Daniele,Male,26-03-2015,Canazei,ITA,Italy,National Championships,Parallel GS,20,39.60
-233,Bagozza Daniele,Male,22-03-2015,Racines,ITA,Italy,European Cup,Parallel Slalom,31,14.00
-234,Bagozza Daniele,Male,21-03-2015,Racines,ITA,Italy,European Cup,Parallel Slalom,18,65.00
-235,Bagozza Daniele,Male,18-03-2015,Rogla,SLO,Italy,European Cup,Parallel Slalom,22,45.00
-236,Bagozza Daniele,Male,17-03-2015,Rogla,SLO,Italy,European Cup,Parallel GS,30,16.00
-237,Bagozza Daniele,Male,11-03-2015,Yabuli,CHN,Italy,FIS Junior World Championships,Parallel Slalom,8,115.20
-238,Bagozza Daniele,Male,10-03-2015,Yabuli,CHN,Italy,FIS Junior World Championships,Parallel GS,33,0.00
-239,Bagozza Daniele,Male,25-02-2015,Marianske Lazne,CZE,Italy,European Cup,Parallel Slalom,DNS,
-240,Bagozza Daniele,Male,24-02-2015,Marianske Lazne,CZE,Italy,European Cup,Parallel Slalom,DNS,
-241,Bagozza Daniele,Male,22-02-2015,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,32,10.40
-242,Bagozza Daniele,Male,21-02-2015,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,23,40.00
-243,Bagozza Daniele,Male,15-02-2015,Kayseri,TUR,Italy,European Cup,Parallel Slalom,14,52.20
-244,Bagozza Daniele,Male,14-02-2015,Kayseri,TUR,Italy,European Cup,Parallel Slalom,16,43.50
-245,Bagozza Daniele,Male,07-02-2015,Pfelders,ITA,Italy,FIS,Giant Slalom,7,72.00
-246,Bagozza Daniele,Male,06-02-2015,Pfelders,ITA,Italy,FIS,Slalom,7,79.20
-247,Bagozza Daniele,Male,31-01-2015,Livigno,ITA,Italy,European Cup,Parallel GS,21,26.00
-248,Bagozza Daniele,Male,30-01-2015,Livigno,ITA,Italy,European Cup,Parallel GS,2,208.00
-249,Bagozza Daniele,Male,16-12-2014,Carezza,ITA,Italy,World Cup,Parallel GS,48,0.00
-250,Bagozza Daniele,Male,16-03-2014,Ratsching/Racines,ITA,Italy,European Cup,Parallel Slalom,32,13.00
-251,Bagozza Daniele,Male,15-03-2014,Ratsching/Racines,ITA,Italy,European Cup,Parallel Slalom,24,35.00
-252,Bagozza Daniele,Male,09-03-2014,Tauplitz,AUT,Italy,FIS,Parallel Slalom,38,4.97
-253,Bagozza Daniele,Male,08-03-2014,Tauplitz,AUT,Italy,FIS,Parallel Slalom,18,33.80
-254,Bagozza Daniele,Male,05-03-2014,Rogla,SLO,Italy,European Cup,Parallel Slalom,29,18.00
-255,Bagozza Daniele,Male,04-03-2014,Rogla,SLO,Italy,European Cup,Parallel GS,21,50.00
-256,Bagozza Daniele,Male,01-03-2014,Gerlitzen,AUT,Italy,European Cup,Parallel GS,24,35.00
-257,Bagozza Daniele,Male,22-02-2014,Gosau,AUT,Italy,FIS,Slalom,13,52.00
-258,Bagozza Daniele,Male,22-02-2014,Gosau,AUT,Italy,FIS,Slalom,75,
-259,Bagozza Daniele,Male,16-02-2014,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,36,8.86
-260,Bagozza Daniele,Male,15-02-2014,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,26,22.50
-261,Bagozza Daniele,Male,26-01-2014,Lizzola Valbondione,ITA,Italy,European Cup,Parallel Slalom,84,
-262,Bagozza Daniele,Male,25-01-2014,Lizzola Valbondione,ITA,Italy,European Cup,Parallel Slalom,27,22.50
-263,Bagozza Daniele,Male,15-12-2013,Samnaun,SUI,Italy,FIS,Parallel Slalom,19,31.20
-264,Bagozza Daniele,Male,14-12-2013,Samnaun,SUI,Italy,FIS,Parallel Slalom,12,48.40
-265,Bagozza Daniele,Male,08-12-2013,Hochfügen,AUT,Italy,European Cup,Parallel GS,53,7.30
-266,Bagozza Daniele,Male,07-12-2013,Hochfügen,AUT,Italy,European Cup,Parallel GS,79,3.40
-267,Bagozza Daniele,Male,08-11-2013,Landgraaf,NED,Italy,FIS,Parallel Slalom,31,7.28
-268,Bagozza Daniele,Male,07-11-2013,Landgraaf,NED,Italy,FIS,Parallel Slalom,30,8.32
-269,Bagozza Daniele,Male,04-04-2013,Chiesa in Valmalenco,ITA,Italy,National Championships,Parallel Slalom,30,11.52
-270,Bagozza Daniele,Male,03-04-2013,Chiesa in Valmalenco,ITA,Italy,National Championships,Giant Slalom,15,57.60
-271,Bagozza Daniele,Male,24-03-2013,Pfelders,ITA,Italy,FIS,Slalom,7,50.40
-272,Bagozza Daniele,Male,23-03-2013,Pfelders,ITA,Italy,FIS,Giant Slalom,9,58.00
-273,Bagozza Daniele,Male,03-03-2013,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,27,11.70
-274,Bagozza Daniele,Male,02-03-2013,Gerlitzen,AUT,Italy,European Cup,Parallel Slalom,51,7.60
-275,Bagozza Daniele,Male,17-02-2013,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,38,8.60
-276,Bagozza Daniele,Male,16-02-2013,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,28,16.00
-277,Bagozza Daniele,Male,10-02-2013,Marianske Lazne,CZE,Italy,European Cup,Parallel Slalom,DSQ,
-278,Bagozza Daniele,Male,09-02-2013,Marianske Lazne,CZE,Italy,European Cup,Parallel Slalom,33,7.68
-279,Bagozza Daniele,Male,02-02-2013,Lizzola-Valbondione,ITA,Italy,FIS,Parallel Slalom,19,31.20
-280,Bagozza Daniele,Male,27-01-2013,Rossfeld,GER,Italy,Junior,Giant Slalom,9,34.80
-281,Bagozza Daniele,Male,27-01-2013,Rossfeld,GER,Italy,Junior,Slalom,6,48.00
-282,Bagozza Daniele,Male,26-01-2013,Rossfeld,GER,Italy,Junior,Giant Slalom,3,72.00
-283,Bagozza Daniele,Male,26-01-2013,Rossfeld,GER,Italy,Junior,Slalom,9,34.80
-284,Bagozza Daniele,Male,20-01-2013,Seceda/S. Cristina Val Gardena,ITA,Italy,FIS,Giant Slalom,1,50.00
-285,Bagozza Daniele,Male,19-01-2013,Seceda/S. Cristina Val Gardena,ITA,Italy,FIS,Giant Slalom,5,67.50
-286,Bagozza Daniele,Male,23-12-2012,Radstadt,AUT,Italy,FIS,Giant Slalom,17,36.40
-287,Bagozza Daniele,Male,22-12-2012,Radstadt,AUT,Italy,FIS,Giant Slalom,82,
-288,Bagozza Daniele,Male,16-12-2012,Racines/Ratschings,ITA,Italy,European Cup,Parallel Slalom,61,6.10
-289,Bagozza Daniele,Male,15-12-2012,Racines/Ratschings,ITA,Italy,European Cup,Parallel Slalom,51,6.08
-290,Bagozza Daniele,Male,04-04-2012,Chiesa in Valmalenco,ITA,Italy,National Championships,Parallel Slalom,65,
-291,Bagozza Daniele,Male,03-04-2012,Chiesa in Valmalenco,ITA,Italy,National Championships,Giant Slalom,17,50.40
-292,Bagozza Daniele,Male,18-03-2012,Tauplitz,AUT,Italy,FIS,Parallel Slalom,54,
-293,Bagozza Daniele,Male,17-03-2012,Tauplitz,AUT,Italy,FIS,Parallel Slalom,55,0.00
-294,Bagozza Daniele,Male,04-03-2012,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,42,3.94
-295,Bagozza Daniele,Male,03-03-2012,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,42,4.30
-296,Bagozza Daniele,Male,25-02-2012,Brauneck,GER,Italy,Junior,Giant Slalom,8,35.20
-297,Bagozza Daniele,Male,25-02-2012,Brauneck,GER,Italy,Junior,Slalom,8,35.20
-298,Bagozza Daniele,Male,22-01-2012,Valgardena-S. Cristina-Seceda,ITA,Italy,FIS,Slalom,51,0.00
-299,Bagozza Daniele,Male,21-01-2012,Valgardena-S. Cristina-Seceda,ITA,Italy,FIS,Slalom,21,26.00
-300,Bagozza Daniele,Male,15-01-2012,Vratna,SVK,Italy,European Cup,Giant Slalom,39,4.89
-301,Bagozza Daniele,Male,14-01-2012,Vratna,SVK,Italy,European Cup,Parallel GS,42,4.65
-302,Bagozza Daniele,Male,08-01-2012,Kreischberg,AUT,Italy,FIS,Parallel GS,58,3.41
-303,Bagozza Daniele,Male,07-01-2012,Kreischberg,AUT,Italy,FIS,Parallel GS,68,2.63
-304,Bagozza Daniele,Male,08-04-2011,Chiesa Valmalenco - Alpe Palu,ITA,Italy,National Championships,Parallel GS,28,14.40
-305,Bagozza Daniele,Male,13-03-2011,Radstadt,AUT,Italy,National Championships,Parallel Slalom,49,
-306,Bagozza Daniele,Male,12-03-2011,Radstadt,AUT,Italy,National Championships,Parallel GS,53,0.00
-307,Bagozza Daniele,Male,26-02-2011,Villach / Gerlitzen,AUT,Italy,FIS,Parallel Slalom,49,4.11
-308,Bagozza Daniele,Male,13-02-2011,Berchtesgaden/Goetschen,GER,Italy,Junior,Parallel Slalom,13,20.00
-309,Bagozza Daniele,Male,12-02-2011,Berchtesgaden/Goetschen,GER,Italy,Junior,Giant Slalom,23,8.00
-310,Bagozza Daniele,Male,22-01-2011,Pozza di Fassa,ITA,Italy,FIS,Giant Slalom,8,48.00
-311,Bagozza Daniele,Male,12-01-2011,Berchtesgaden/Goetschen,GER,Italy,National Championships,Parallel GS,72,3.20
-312,Bagozza Daniele,Male,18-12-2010,Samnaun,SUI,Italy,FIS,Parallel Slalom,35,5.20
-313,Bagozza Daniele,Male,17-12-2010,Samnaun,SUI,Italy,FIS,Parallel Slalom,39,0.00
-314,Bagozza Daniele,Male,11-12-2010,Ratschings/Racines,ITA,Italy,European Cup,Parallel GS,79,0.00
-315,Bagozza Daniele,Male,10-12-2010,Ratschings/Racines,ITA,Italy,FIS,Parallel GS,70,2.47
-316,Bagozza Daniele,Male,05-12-2010,Welschnofen-Carezza,ITA,Italy,European Cup,Parallel Slalom,62,4.76
-317,Bagozza Daniele,Male,04-12-2010,Welschnofen-Carezza,ITA,Italy,European Cup,Parallel GS,72,3.56
-318,Bagozza Daniele,Male,27-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Italy,European Cup,Parallel GS,102,0.00
+0,Bagozza Daniele,Male,25-01-2025,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,20,
+1,Bagozza Daniele,Male,25-01-2025,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,20,110.00
+2,Bagozza Daniele,Male,19-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,26,
+3,Bagozza Daniele,Male,19-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,26,50.00
+4,Bagozza Daniele,Male,18-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,18,
+5,Bagozza Daniele,Male,18-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,18,130.00
+6,Bagozza Daniele,Male,14-01-2025,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,13,
+7,Bagozza Daniele,Male,14-01-2025,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,14,180.00
+8,Bagozza Daniele,Male,11-01-2025,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,13,
+9,Bagozza Daniele,Male,11-01-2025,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,8,320.00
+10,Bagozza Daniele,Male,21-12-2024,Davos,SUI,Italy,Qualification,Parallel Slalom,5,
+11,Bagozza Daniele,Male,21-12-2024,Davos,SUI,Italy,World Cup,Parallel Slalom,5,450.00
+12,Bagozza Daniele,Male,14-12-2024,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,1,
+13,Bagozza Daniele,Male,14-12-2024,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,1,1000.00
+14,Bagozza Daniele,Male,12-12-2024,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,8,
+15,Bagozza Daniele,Male,12-12-2024,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,8,320.00
+16,Bagozza Daniele,Male,08-12-2024,Yanqing (NASC),CHN,Italy,World Cup,Parallel Slalom,1,1000.00
+17,Bagozza Daniele,Male,08-12-2024,Yanqing (NASC),CHN,Italy,Qualification,Parallel Slalom,6,
+18,Bagozza Daniele,Male,07-12-2024,Yanqing (NASC),CHN,Italy,World Cup,Parallel Giant Slalom,10,260.00
+19,Bagozza Daniele,Male,07-12-2024,Yanqing (NASC),CHN,Italy,Qualification,Parallel Giant Slalom,9,
+20,Bagozza Daniele,Male,01-12-2024,Mylin,CHN,Italy,World Cup,Parallel Slalom,5,450.00
+21,Bagozza Daniele,Male,01-12-2024,Mylin,CHN,Italy,Qualification,Parallel Slalom,4,
+22,Bagozza Daniele,Male,30-11-2024,Mylin,CHN,Italy,World Cup,Parallel Giant Slalom,33,24.00
+23,Bagozza Daniele,Male,30-11-2024,Mylin,CHN,Italy,Qualification,Parallel Giant Slalom,33,
+24,Bagozza Daniele,Male,17-03-2024,St. Moritz,SUI,Italy,European Cup,Parallel Slalom,3,216.00
+25,Bagozza Daniele,Male,16-03-2024,St. Moritz,SUI,Italy,European Cup,Parallel Giant Slalom,18,46.80
+26,Bagozza Daniele,Male,10-03-2024,Winterberg,GER,Italy,World Cup,Parallel Slalom Team,1,
+27,Bagozza Daniele,Male,09-03-2024,Winterberg,GER,Italy,Qualification,Parallel Slalom,19,
+28,Bagozza Daniele,Male,09-03-2024,Winterberg,GER,Italy,World Cup,Parallel Slalom,19,120.00
+29,Bagozza Daniele,Male,25-02-2024,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,DSQ,
+30,Bagozza Daniele,Male,25-02-2024,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,DSQ,
+31,Bagozza Daniele,Male,24-02-2024,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,12,
+32,Bagozza Daniele,Male,24-02-2024,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,3,600.00
+33,Bagozza Daniele,Male,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,2,232.00
+34,Bagozza Daniele,Male,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,2,232.00
+35,Bagozza Daniele,Male,28-01-2024,Simonhöhe,AUT,Italy,World Cup,Parallel Giant Slalom Team,9,
+36,Bagozza Daniele,Male,27-01-2024,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,1,
+37,Bagozza Daniele,Male,27-01-2024,Simonhöhe,AUT,Italy,World Cup,Parallel Giant Slalom,1,1000.00
+38,Bagozza Daniele,Male,25-01-2024,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,2,
+39,Bagozza Daniele,Male,25-01-2024,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,6,400.00
+40,Bagozza Daniele,Male,21-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,DSQ,
+41,Bagozza Daniele,Male,21-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,DSQ,
+42,Bagozza Daniele,Male,20-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,3,
+43,Bagozza Daniele,Male,20-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,1,1000.00
+44,Bagozza Daniele,Male,17-01-2024,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom Team,2,
+45,Bagozza Daniele,Male,16-01-2024,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,3,
+46,Bagozza Daniele,Male,16-01-2024,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,6,400.00
+47,Bagozza Daniele,Male,13-01-2024,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,4,
+48,Bagozza Daniele,Male,13-01-2024,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,10,260.00
+49,Bagozza Daniele,Male,23-12-2023,Davos,SUI,Italy,Qualification,Parallel Slalom,6,
+50,Bagozza Daniele,Male,23-12-2023,Davos ,SUI,Italy,World Cup,Parallel Slalom,1,1000.00
+51,Bagozza Daniele,Male,16-12-2023,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,2,
+52,Bagozza Daniele,Male,16-12-2023,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,9,290.00
+53,Bagozza Daniele,Male,14-12-2023,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,30,
+54,Bagozza Daniele,Male,14-12-2023,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,30,32.00
+55,Bagozza Daniele,Male,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,22,26.10
+56,Bagozza Daniele,Male,18-03-2023,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,15,
+57,Bagozza Daniele,Male,18-03-2023,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,15,160.00
+58,Bagozza Daniele,Male,15-03-2023,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,12,220.00
+59,Bagozza Daniele,Male,15-03-2023,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,11,
+60,Bagozza Daniele,Male,11-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,1,220.00
+61,Bagozza Daniele,Male,04-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,5,99.00
+62,Bagozza Daniele,Male,12-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,1,220.00
+63,Bagozza Daniele,Male,11-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,1,220.00
+64,Bagozza Daniele,Male,27-01-2023,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,7,
+65,Bagozza Daniele,Male,27-01-2023,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,11,240.00
+66,Bagozza Daniele,Male,26-01-2023,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,19,
+67,Bagozza Daniele,Male,26-01-2023,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,19,120.00
+68,Bagozza Daniele,Male,22-01-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,15,
+69,Bagozza Daniele,Male,22-01-2023,Bansko,BUL,Italy,World Cup,Parallel Slalom,8,320.00
+70,Bagozza Daniele,Male,21-01-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,20,
+71,Bagozza Daniele,Male,21-01-2023,Bansko,BUL,Italy,World Cup,Parallel Slalom,20,110.00
+72,Bagozza Daniele,Male,14-01-2023,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,7,
+73,Bagozza Daniele,Male,14-01-2023,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,9,290.00
+74,Bagozza Daniele,Male,10-01-2023,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,18,
+75,Bagozza Daniele,Male,10-01-2023,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,18,130.00
+76,Bagozza Daniele,Male,17-12-2022,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,14,
+77,Bagozza Daniele,Male,17-12-2022,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,14,180.00
+78,Bagozza Daniele,Male,15-12-2022,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,16,
+79,Bagozza Daniele,Male,15-12-2022,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,16,150.00
+80,Bagozza Daniele,Male,11-12-2022,Winterberg,GER,Italy,World Cup,Parallel Slalom,31,28.00
+81,Bagozza Daniele,Male,10-12-2022,Winterberg,GER,Italy,Qualification,Parallel Slalom,31,
+82,Bagozza Daniele,Male,19-03-2022,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,15,
+83,Bagozza Daniele,Male,19-03-2022,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,14,180.00
+84,Bagozza Daniele,Male,16-03-2022,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,28,
+85,Bagozza Daniele,Male,16-03-2022,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,28,40.00
+86,Bagozza Daniele,Male,12-03-2022,Piancavallo,ITA,Italy,Qualification,Parallel Slalom,24,
+87,Bagozza Daniele,Male,12-03-2022,Piancavallo,ITA,Italy,World Cup,Parallel Slalom,24,70.00
+88,Bagozza Daniele,Male,19-02-2022,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,3,132.00
+89,Bagozza Daniele,Male,08-02-2022,Beijing,CHN,Italy,Qualification,Parallel Giant Slalom,16,
+90,Bagozza Daniele,Male,08-02-2022,Beijing,CHN,Italy,Olympic Winter Games,Parallel Giant Slalom,15,160.00
+91,Bagozza Daniele,Male,08-01-2022,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,7,
+92,Bagozza Daniele,Male,08-01-2022,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,12,220.00
+93,Bagozza Daniele,Male,18-12-2021,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,6,
+94,Bagozza Daniele,Male,18-12-2021,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,5,450.00
+95,Bagozza Daniele,Male,16-12-2021,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,13,
+96,Bagozza Daniele,Male,16-12-2021,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,14,180.00
+97,Bagozza Daniele,Male,12-12-2021,Bannoye,RUS,Italy,Qualification,Parallel Slalom,DSQ,
+98,Bagozza Daniele,Male,12-12-2021,Bannoye,RUS,Italy,World Cup,Parallel Slalom,DSQ,
+99,Bagozza Daniele,Male,11-12-2021,Bannoye,RUS,Italy,Qualification,Parallel Giant Slalom,3,
+100,Bagozza Daniele,Male,11-12-2021,Bannoye,RUS,Italy,World Cup,Parallel Giant Slalom,6,400.00
+101,Bagozza Daniele,Male,31-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Giant Slalom,6,116.00
+102,Bagozza Daniele,Male,30-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Slalom,7,104.40
+103,Bagozza Daniele,Male,20-03-2021,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,DSQ,
+104,Bagozza Daniele,Male,20-03-2021,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,DSQ,
+105,Bagozza Daniele,Male,06-03-2021,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,17,
+106,Bagozza Daniele,Male,06-03-2021,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,17,140.00
+107,Bagozza Daniele,Male,02-03-2021,Rogla,SLO,Italy,World Championships,Parallel Slalom,DNF,
+108,Bagozza Daniele,Male,02-03-2021,Rogla,SLO,Italy,Qualification,Parallel Slalom,DNF,
+109,Bagozza Daniele,Male,30-01-2021,Moscow,RUS,Italy,Qualification,Parallel Slalom,8,
+110,Bagozza Daniele,Male,30-01-2021,Moscow,RUS,Italy,World Cup,Parallel Slalom,7,360.00
+111,Bagozza Daniele,Male,12-01-2021,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,12,
+112,Bagozza Daniele,Male,12-01-2021,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,8,320.00
+113,Bagozza Daniele,Male,09-01-2021,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,18,
+114,Bagozza Daniele,Male,09-01-2021,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,18,130.00
+115,Bagozza Daniele,Male,17-12-2020,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,1,
+116,Bagozza Daniele,Male,17-12-2020,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,5,450.00
+117,Bagozza Daniele,Male,12-12-2020,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,5,
+118,Bagozza Daniele,Male,12-12-2020,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,6,400.00
+119,Bagozza Daniele,Male,01-03-2020,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,27,45.00
+120,Bagozza Daniele,Male,01-03-2020,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,27,
+121,Bagozza Daniele,Male,29-02-2020,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,16,150.00
+122,Bagozza Daniele,Male,29-02-2020,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,16,
+123,Bagozza Daniele,Male,22-02-2020,Pyeongchang,KOR,Italy,World Cup,Parallel Giant Slalom,8,320.00
+124,Bagozza Daniele,Male,22-02-2020,Pyeongchang,KOR,Italy,Qualification,Parallel Giant Slalom,13,
+125,Bagozza Daniele,Male,26-01-2020,Piancavallo,ITA,Italy,World Cup,Parallel Slalom Team,2,
+126,Bagozza Daniele,Male,25-01-2020,Piancavallo,ITA,Italy,World Cup,Parallel Slalom,8,320.00
+127,Bagozza Daniele,Male,25-01-2020,Piancavallo,ITA,Italy,Qualification,Parallel Slalom,11,
+128,Bagozza Daniele,Male,18-01-2020,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,11,240.00
+129,Bagozza Daniele,Male,18-01-2020,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,6,
+130,Bagozza Daniele,Male,15-01-2020,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom Team,4,
+131,Bagozza Daniele,Male,14-01-2020,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,1,1000.00
+132,Bagozza Daniele,Male,14-01-2020,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,11,
+133,Bagozza Daniele,Male,11-01-2020,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,15,160.00
+134,Bagozza Daniele,Male,11-01-2020,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,15,
+135,Bagozza Daniele,Male,19-12-2019,Carezza,ITA,Italy,Open,Parallel Giant Slalom,6,400.00
+136,Bagozza Daniele,Male,14-12-2019,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,9,290.00
+137,Bagozza Daniele,Male,14-12-2019,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,1,
+138,Bagozza Daniele,Male,08-12-2019,Bannoye,RUS,Italy,World Cup,Parallel Giant Slalom,14,180.00
+139,Bagozza Daniele,Male,08-12-2019,Bannoye,RUS,Italy,Qualification,Parallel Giant Slalom,10,
+140,Bagozza Daniele,Male,07-12-2019,Bannoye,RUS,Italy,World Cup,Parallel Slalom,10,260.00
+141,Bagozza Daniele,Male,07-12-2019,Bannoye,RUS,Italy,Qualification,Parallel Slalom,4,
+142,Bagozza Daniele,Male,27-03-2019,Piancavallo,ITA,Italy,National Championships,Parallel Giant Slalom,5,130.50
+143,Bagozza Daniele,Male,26-03-2019,Piancavallo,ITA,Italy,National Championships,Parallel Slalom,2,232.00
+144,Bagozza Daniele,Male,23-03-2019,Winterberg,GER,Italy,World Cup,Parallel Slalom,25,60.00
+145,Bagozza Daniele,Male,23-03-2019,Winterberg,GER,Italy,Qualification,Parallel Slalom,25,
+146,Bagozza Daniele,Male,09-03-2019,Scuol,SUI,Italy,World Cup,Parallel GS,25,60.00
+147,Bagozza Daniele,Male,09-03-2019,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,25,
+148,Bagozza Daniele,Male,24-02-2019,Secret Garden,CHN,Italy,World Cup,Parallel Slalom,1,1000.00
+149,Bagozza Daniele,Male,24-02-2019,Secret Garden,CHN,Italy,Qualification,Parallel Slalom,6,
+150,Bagozza Daniele,Male,23-02-2019,Secret Garden,CHN,Italy,World Cup,Parallel Giant Slalom,12,220.00
+151,Bagozza Daniele,Male,23-02-2019,Secret Garden,CHN,Italy,Qualification,Parallel Giant Slalom,9,
+152,Bagozza Daniele,Male,17-02-2019,Pyeongchang,KOR,Italy,World Cup,Parallel Giant Slalom,26,50.00
+153,Bagozza Daniele,Male,17-02-2019,Pyeongchang,KOR,Italy,Qualification,Parallel Giant Slalom,26,
+154,Bagozza Daniele,Male,16-02-2019,Pyeongchang,KOR,Italy,World Cup,Parallel Giant Slalom,21,100.00
+155,Bagozza Daniele,Male,16-02-2019,Pyeongchang,KOR,Italy,Qualification,Parallel Giant Slalom,21,
+156,Bagozza Daniele,Male,05-02-2019,Park City,USA,Italy,World Championships,Parallel Slalom,12,220.00
+157,Bagozza Daniele,Male,04-02-2019,Park City,USA,Italy,World Championships,Parallel Giant Slalom,19,120.00
+158,Bagozza Daniele,Male,26-01-2019,Moscow,RUS,Italy,World Cup,Parallel Slalom,DSQ,
+159,Bagozza Daniele,Male,26-01-2019,Moscow,RUS,Italy,Qualification,Parallel Slalom,DSQ,
+160,Bagozza Daniele,Male,19-01-2019,Rogla,SLO,Italy,World Cup,Parallel GS,2,800.00
+161,Bagozza Daniele,Male,19-01-2019,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,6,
+162,Bagozza Daniele,Male,08-01-2019,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,15,160.00
+163,Bagozza Daniele,Male,08-01-2019,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,15,
+164,Bagozza Daniele,Male,15-12-2018,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel GS,18,130.00
+165,Bagozza Daniele,Male,15-12-2018,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,18,
+166,Bagozza Daniele,Male,13-12-2018,Carezza,ITA,Italy,World Cup,Parallel GS,18,130.00
+167,Bagozza Daniele,Male,13-12-2018,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,18,
+168,Bagozza Daniele,Male,08-04-2018,Racines,ITA,Italy,European Cup,Parallel Slalom,4,180.00
+169,Bagozza Daniele,Male,07-04-2018,Racines,ITA,Italy,European Cup,Parallel Slalom,4,180.00
+170,Bagozza Daniele,Male,25-03-2018,Davos,SUI,Italy,European Cup,Parallel Slalom,3,216.00
+171,Bagozza Daniele,Male,24-03-2018,Davos,SUI,Italy,European Cup,Parallel GS,4,180.00
+172,Bagozza Daniele,Male,21-03-2018,Rogla,SLO,Italy,European Cup,Parallel GS,7,129.60
+173,Bagozza Daniele,Male,20-03-2018,Rogla,SLO,Italy,European Cup,Parallel GS,9,104.40
+174,Bagozza Daniele,Male,17-03-2018,Winterberg,GER,Italy,World Cup,Parallel Slalom,16,150.00
+175,Bagozza Daniele,Male,17-03-2018,Winterberg,GER,Italy,Qualification,Parallel Slalom,16,
+176,Bagozza Daniele,Male,11-03-2018,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,11,57.60
+177,Bagozza Daniele,Male,10-03-2018,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,7,86.40
+178,Bagozza Daniele,Male,08-03-2018,Carezza,ITA,Italy,National Championships,Parallel Slalom,8,92.80
+179,Bagozza Daniele,Male,07-03-2018,Carezza,ITA,Italy,National Championships,Parallel GS,16,43.50
+180,Bagozza Daniele,Male,03-03-2018,Kayseri,TUR,Italy,World Cup,Parallel GS,DNF,
+181,Bagozza Daniele,Male,03-03-2018,Kayseri,TUR,Italy,Qualification,Parallel GS,DNF,
+182,Bagozza Daniele,Male,25-02-2018,Funes/Villnoess,ITA,Italy,FIS,Parallel GS,1,200.00
+183,Bagozza Daniele,Male,24-02-2018,Funes/Villnoess,ITA,Italy,FIS,Parallel GS,2,160.00
+184,Bagozza Daniele,Male,11-02-2018,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,1,320.00
+185,Bagozza Daniele,Male,10-02-2018,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,3,216.00
+186,Bagozza Daniele,Male,04-02-2018,Gerlitzen,AUT,Italy,National Championships,Parallel GS,6,116.00
+187,Bagozza Daniele,Male,03-02-2018,Gerlitzen,AUT,Italy,National Championships,Parallel Slalom,36,
+188,Bagozza Daniele,Male,21-01-2018,Lachtal,AUT,Italy,European Cup,Parallel GS,1,200.00
+189,Bagozza Daniele,Male,20-01-2018,Lachtal,AUT,Italy,European Cup,Parallel GS,1,200.00
+190,Bagozza Daniele,Male,12-01-2018,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,25,60.00
+191,Bagozza Daniele,Male,12-01-2018,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,25,
+192,Bagozza Daniele,Male,05-01-2018,Lackenhof,AUT,Italy,World Cup,Parallel GS,34,22.00
+193,Bagozza Daniele,Male,05-01-2018,Lackenhof,AUT,Italy,Qualification,Parallel GS,34,
+194,Bagozza Daniele,Male,16-12-2017,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Slalom,25,60.00
+195,Bagozza Daniele,Male,16-12-2017,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Slalom,25,
+196,Bagozza Daniele,Male,15-12-2017,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel GS,29,36.00
+197,Bagozza Daniele,Male,15-12-2017,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel GS,29,
+198,Bagozza Daniele,Male,14-12-2017,Carezza,ITA,Italy,World Cup,Parallel GS,18,130.00
+199,Bagozza Daniele,Male,14-12-2017,Carezza,ITA,Italy,Qualification,Parallel GS,18,
+200,Bagozza Daniele,Male,10-12-2017,Hochfügen,GER,Italy,European Cup,Parallel GS,8,115.20
+201,Bagozza Daniele,Male,09-12-2017,Hochfügen,GER,Italy,European Cup,Parallel GS,48,5.80
+202,Bagozza Daniele,Male,02-12-2017,Pfelders,ITA,Italy,FIS,Parallel GS,34,4.84
+203,Bagozza Daniele,Male,01-12-2017,Pfelders,ITA,Italy,FIS,Parallel GS,6,88.00
+204,Bagozza Daniele,Male,02-04-2017,Scuol,SUI,Italy,European Cup,Parallel Slalom,8,115.20
+205,Bagozza Daniele,Male,01-04-2017,Scuol,SUI,Italy,European Cup,Parallel GS,4,180.00
+206,Bagozza Daniele,Male,29-03-2017,Rogla,SLO,Italy,European Cup,Parallel Slalom,16,54.00
+207,Bagozza Daniele,Male,28-03-2017,Rogla,SLO,Italy,European Cup,Parallel GS,12,79.20
+208,Bagozza Daniele,Male,26-03-2017,Racines,ITA,Italy,European Cup,Parallel Slalom,30,11.52
+209,Bagozza Daniele,Male,25-03-2017,Racines,ITA,Italy,European Cup,Parallel Slalom,19,43.20
+210,Bagozza Daniele,Male,23-03-2017,Monte Pora - Castione della presolana,ITA,Italy,National Championships,Parallel Slalom,4,145.00
+211,Bagozza Daniele,Male,22-03-2017,Monte Pora - Castione della presolana,ITA,Italy,National Championships,Parallel GS,4,145.00
+212,Bagozza Daniele,Male,18-03-2017,Radstadt,AUT,Italy,European Cup,Parallel Slalom,2,176.00
+213,Bagozza Daniele,Male,17-03-2017,Radstadt,AUT,Italy,European Cup,Parallel Slalom,DSQ1,
+214,Bagozza Daniele,Male,05-03-2017,Funes/Villnoss,ITA,Italy,FIS,Giant Slalom,4,80.00
+215,Bagozza Daniele,Male,04-03-2017,Funes/Villnoss,ITA,Italy,FIS,Giant Slalom,4,80.00
+216,Bagozza Daniele,Male,26-02-2017,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,32,9.36
+217,Bagozza Daniele,Male,25-02-2017,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,40,6.66
+218,Bagozza Daniele,Male,05-02-2017,Klinovec,CZE,Italy,FIS,Parallel Slalom,1,70.00
+219,Bagozza Daniele,Male,04-02-2017,Klinovec,CZE,Italy,FIS,Parallel GS,1,70.00
+220,Bagozza Daniele,Male,28-01-2017,Rogla,SLO,Italy,World Cup,Parallel GS,56,
+221,Bagozza Daniele,Male,21-01-2017,Livigno,ITA,Italy,European Cup,Parallel GS,18,46.80
+222,Bagozza Daniele,Male,20-01-2017,Livigno,ITA,Italy,European Cup,Parallel GS,11,86.40
+223,Bagozza Daniele,Male,10-01-2017,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,42,17.90
+224,Bagozza Daniele,Male,08-01-2017,Gerlitzen,AUT,Italy,European Cup,Parallel GS,9,69.60
+225,Bagozza Daniele,Male,07-01-2017,Gerlitzen,AUT,Italy,European Cup,Parallel GS,44,6.23
+226,Bagozza Daniele,Male,17-12-2016,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Slalom,15,160.00
+227,Bagozza Daniele,Male,15-12-2016,Carezza,ITA,Italy,World Cup,Parallel GS,43,17.60
+228,Bagozza Daniele,Male,11-12-2016,Hochfügen,GER,Italy,European Cup,Parallel GS,34,7.92
+229,Bagozza Daniele,Male,10-12-2016,Hochfügen,GER,Italy,European Cup,Parallel GS,8,115.20
+230,Bagozza Daniele,Male,04-11-2016,Landgraaf,NED,Italy,European Cup,Parallel Slalom,33,8.64
+231,Bagozza Daniele,Male,03-11-2016,Landgraaf,NED,Italy,European Cup,Parallel Slalom,37,6.98
+232,Bagozza Daniele,Male,08-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Parallel Slalom,DNF1,
+233,Bagozza Daniele,Male,07-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Parallel GS,5,162.00
+234,Bagozza Daniele,Male,27-03-2016,Racines,ITA,Italy,European Cup,Parallel Slalom,29,16.20
+235,Bagozza Daniele,Male,26-03-2016,Racines,ITA,Italy,European Cup,Parallel Slalom,18,65.00
+236,Bagozza Daniele,Male,24-03-2016,Rogla,SLO,Italy,European Cup,Parallel Slalom,15,80.00
+237,Bagozza Daniele,Male,23-03-2016,Rogla,SLO,Italy,European Cup,Parallel GS,38,9.55
+238,Bagozza Daniele,Male,20-03-2016,Gerlitzen,AUT,Italy,European Cup,Parallel GS,11,120.00
+239,Bagozza Daniele,Male,19-03-2016,Gerlitzen,AUT,Italy,European Cup,Parallel GS,22,45.00
+240,Bagozza Daniele,Male,21-02-2016,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,24,35.00
+241,Bagozza Daniele,Male,20-02-2016,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,12,110.00
+242,Bagozza Daniele,Male,07-02-2016,Lachtal,AUT,Italy,FIS,Parallel Slalom,16,39.00
+243,Bagozza Daniele,Male,06-02-2016,Lachtal,AUT,Italy,National Championships,Parallel Slalom,18,46.80
+244,Bagozza Daniele,Male,30-01-2016,Stara Planina,SRB,Italy,European Cup,Parallel GS,14,43.20
+245,Bagozza Daniele,Male,29-01-2016,Stara Planina,SRB,Italy,European Cup,Parallel Slalom,3,144.00
+246,Bagozza Daniele,Male,17-01-2016,Kreischberg,AUT,Italy,FIS,Parallel GS,26,13.00
+247,Bagozza Daniele,Male,16-01-2016,Kreischberg,AUT,Italy,FIS,Parallel GS,27,11.70
+248,Bagozza Daniele,Male,08-01-2016,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,41,18.20
+249,Bagozza Daniele,Male,19-12-2015,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Slalom,28,40.00
+250,Bagozza Daniele,Male,12-12-2015,Carezza,ITA,Italy,World Cup,Parallel GS,48,
+251,Bagozza Daniele,Male,06-12-2015,Hochfuegen,GER,Italy,European Cup,Parallel GS,58,6.55
+252,Bagozza Daniele,Male,05-12-2015,Hochfuegen,GER,Italy,European Cup,Parallel GS,20,55.00
+253,Bagozza Daniele,Male,16-10-2015,Landgraaf,NED,Italy,European Cup,Parallel Slalom,35,10.00
+254,Bagozza Daniele,Male,15-10-2015,Landgraaf,NED,Italy,European Cup,Parallel Slalom,24,35.00
+255,Bagozza Daniele,Male,27-03-2015,Canazei,ITA,Italy,National Championships,Parallel Slalom,16,54.00
+256,Bagozza Daniele,Male,26-03-2015,Canazei,ITA,Italy,National Championships,Parallel GS,20,39.60
+257,Bagozza Daniele,Male,22-03-2015,Racines,ITA,Italy,European Cup,Parallel Slalom,31,14.00
+258,Bagozza Daniele,Male,21-03-2015,Racines,ITA,Italy,European Cup,Parallel Slalom,18,65.00
+259,Bagozza Daniele,Male,18-03-2015,Rogla,SLO,Italy,European Cup,Parallel Slalom,22,45.00
+260,Bagozza Daniele,Male,17-03-2015,Rogla,SLO,Italy,European Cup,Parallel GS,30,16.00
+261,Bagozza Daniele,Male,11-03-2015,Yabuli,CHN,Italy,FIS Junior World Championships,Parallel Slalom,8,115.20
+262,Bagozza Daniele,Male,10-03-2015,Yabuli,CHN,Italy,FIS Junior World Championships,Parallel GS,33,0.00
+263,Bagozza Daniele,Male,25-02-2015,Marianske Lazne,CZE,Italy,European Cup,Parallel Slalom,DNS,
+264,Bagozza Daniele,Male,24-02-2015,Marianske Lazne,CZE,Italy,European Cup,Parallel Slalom,DNS,
+265,Bagozza Daniele,Male,22-02-2015,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,32,10.40
+266,Bagozza Daniele,Male,21-02-2015,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,23,40.00
+267,Bagozza Daniele,Male,15-02-2015,Kayseri,TUR,Italy,European Cup,Parallel Slalom,14,52.20
+268,Bagozza Daniele,Male,14-02-2015,Kayseri,TUR,Italy,European Cup,Parallel Slalom,16,43.50
+269,Bagozza Daniele,Male,07-02-2015,Pfelders,ITA,Italy,FIS,Giant Slalom,7,72.00
+270,Bagozza Daniele,Male,06-02-2015,Pfelders,ITA,Italy,FIS,Slalom,7,79.20
+271,Bagozza Daniele,Male,31-01-2015,Livigno,ITA,Italy,European Cup,Parallel GS,21,26.00
+272,Bagozza Daniele,Male,30-01-2015,Livigno,ITA,Italy,European Cup,Parallel GS,2,208.00
+273,Bagozza Daniele,Male,16-12-2014,Carezza,ITA,Italy,World Cup,Parallel GS,48,0.00
+274,Bagozza Daniele,Male,16-03-2014,Ratsching/Racines,ITA,Italy,European Cup,Parallel Slalom,32,13.00
+275,Bagozza Daniele,Male,15-03-2014,Ratsching/Racines,ITA,Italy,European Cup,Parallel Slalom,24,35.00
+276,Bagozza Daniele,Male,09-03-2014,Tauplitz,AUT,Italy,FIS,Parallel Slalom,38,4.97
+277,Bagozza Daniele,Male,08-03-2014,Tauplitz,AUT,Italy,FIS,Parallel Slalom,18,33.80
+278,Bagozza Daniele,Male,05-03-2014,Rogla,SLO,Italy,European Cup,Parallel Slalom,29,18.00
+279,Bagozza Daniele,Male,04-03-2014,Rogla,SLO,Italy,European Cup,Parallel GS,21,50.00
+280,Bagozza Daniele,Male,01-03-2014,Gerlitzen,AUT,Italy,European Cup,Parallel GS,24,35.00
+281,Bagozza Daniele,Male,22-02-2014,Gosau,AUT,Italy,FIS,Slalom,13,52.00
+282,Bagozza Daniele,Male,22-02-2014,Gosau,AUT,Italy,FIS,Slalom,75,
+283,Bagozza Daniele,Male,16-02-2014,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,36,8.86
+284,Bagozza Daniele,Male,15-02-2014,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,26,22.50
+285,Bagozza Daniele,Male,26-01-2014,Lizzola Valbondione,ITA,Italy,European Cup,Parallel Slalom,84,
+286,Bagozza Daniele,Male,25-01-2014,Lizzola Valbondione,ITA,Italy,European Cup,Parallel Slalom,27,22.50
+287,Bagozza Daniele,Male,15-12-2013,Samnaun,SUI,Italy,FIS,Parallel Slalom,19,31.20
+288,Bagozza Daniele,Male,14-12-2013,Samnaun,SUI,Italy,FIS,Parallel Slalom,12,48.40
+289,Bagozza Daniele,Male,08-12-2013,Hochfügen,AUT,Italy,European Cup,Parallel GS,53,7.30
+290,Bagozza Daniele,Male,07-12-2013,Hochfügen,AUT,Italy,European Cup,Parallel GS,79,3.40
+291,Bagozza Daniele,Male,08-11-2013,Landgraaf,NED,Italy,FIS,Parallel Slalom,31,7.28
+292,Bagozza Daniele,Male,07-11-2013,Landgraaf,NED,Italy,FIS,Parallel Slalom,30,8.32
+293,Bagozza Daniele,Male,04-04-2013,Chiesa in Valmalenco,ITA,Italy,National Championships,Parallel Slalom,30,11.52
+294,Bagozza Daniele,Male,03-04-2013,Chiesa in Valmalenco,ITA,Italy,National Championships,Giant Slalom,15,57.60
+295,Bagozza Daniele,Male,24-03-2013,Pfelders,ITA,Italy,FIS,Slalom,7,50.40
+296,Bagozza Daniele,Male,23-03-2013,Pfelders,ITA,Italy,FIS,Giant Slalom,9,58.00
+297,Bagozza Daniele,Male,03-03-2013,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,27,11.70
+298,Bagozza Daniele,Male,02-03-2013,Gerlitzen,AUT,Italy,European Cup,Parallel Slalom,51,7.60
+299,Bagozza Daniele,Male,17-02-2013,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,38,8.60
+300,Bagozza Daniele,Male,16-02-2013,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,28,16.00
+301,Bagozza Daniele,Male,10-02-2013,Marianske Lazne,CZE,Italy,European Cup,Parallel Slalom,DSQ,
+302,Bagozza Daniele,Male,09-02-2013,Marianske Lazne,CZE,Italy,European Cup,Parallel Slalom,33,7.68
+303,Bagozza Daniele,Male,02-02-2013,Lizzola-Valbondione,ITA,Italy,FIS,Parallel Slalom,19,31.20
+304,Bagozza Daniele,Male,27-01-2013,Rossfeld,GER,Italy,Junior,Giant Slalom,9,34.80
+305,Bagozza Daniele,Male,27-01-2013,Rossfeld,GER,Italy,Junior,Slalom,6,48.00
+306,Bagozza Daniele,Male,26-01-2013,Rossfeld,GER,Italy,Junior,Giant Slalom,3,72.00
+307,Bagozza Daniele,Male,26-01-2013,Rossfeld,GER,Italy,Junior,Slalom,9,34.80
+308,Bagozza Daniele,Male,20-01-2013,Seceda/S. Cristina Val Gardena,ITA,Italy,FIS,Giant Slalom,1,50.00
+309,Bagozza Daniele,Male,19-01-2013,Seceda/S. Cristina Val Gardena,ITA,Italy,FIS,Giant Slalom,5,67.50
+310,Bagozza Daniele,Male,23-12-2012,Radstadt,AUT,Italy,FIS,Giant Slalom,17,36.40
+311,Bagozza Daniele,Male,22-12-2012,Radstadt,AUT,Italy,FIS,Giant Slalom,82,
+312,Bagozza Daniele,Male,16-12-2012,Racines/Ratschings,ITA,Italy,European Cup,Parallel Slalom,61,6.10
+313,Bagozza Daniele,Male,15-12-2012,Racines/Ratschings,ITA,Italy,European Cup,Parallel Slalom,51,6.08
+314,Bagozza Daniele,Male,04-04-2012,Chiesa in Valmalenco,ITA,Italy,National Championships,Parallel Slalom,65,
+315,Bagozza Daniele,Male,03-04-2012,Chiesa in Valmalenco,ITA,Italy,National Championships,Giant Slalom,17,50.40
+316,Bagozza Daniele,Male,18-03-2012,Tauplitz,AUT,Italy,FIS,Parallel Slalom,54,
+317,Bagozza Daniele,Male,17-03-2012,Tauplitz,AUT,Italy,FIS,Parallel Slalom,55,0.00
+318,Bagozza Daniele,Male,04-03-2012,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,42,3.94
+319,Bagozza Daniele,Male,03-03-2012,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,42,4.30
+320,Bagozza Daniele,Male,25-02-2012,Brauneck,GER,Italy,Junior,Giant Slalom,8,35.20
+321,Bagozza Daniele,Male,25-02-2012,Brauneck,GER,Italy,Junior,Slalom,8,35.20
+322,Bagozza Daniele,Male,22-01-2012,Valgardena-S. Cristina-Seceda,ITA,Italy,FIS,Slalom,51,0.00
+323,Bagozza Daniele,Male,21-01-2012,Valgardena-S. Cristina-Seceda,ITA,Italy,FIS,Slalom,21,26.00
+324,Bagozza Daniele,Male,15-01-2012,Vratna,SVK,Italy,European Cup,Giant Slalom,39,4.89
+325,Bagozza Daniele,Male,14-01-2012,Vratna,SVK,Italy,European Cup,Parallel GS,42,4.65
+326,Bagozza Daniele,Male,08-01-2012,Kreischberg,AUT,Italy,FIS,Parallel GS,58,3.41
+327,Bagozza Daniele,Male,07-01-2012,Kreischberg,AUT,Italy,FIS,Parallel GS,68,2.63
+328,Bagozza Daniele,Male,08-04-2011,Chiesa Valmalenco - Alpe Palu,ITA,Italy,National Championships,Parallel GS,28,14.40
+329,Bagozza Daniele,Male,13-03-2011,Radstadt,AUT,Italy,National Championships,Parallel Slalom,49,
+330,Bagozza Daniele,Male,12-03-2011,Radstadt,AUT,Italy,National Championships,Parallel GS,53,0.00
+331,Bagozza Daniele,Male,26-02-2011,Villach / Gerlitzen,AUT,Italy,FIS,Parallel Slalom,49,4.11
+332,Bagozza Daniele,Male,13-02-2011,Berchtesgaden/Goetschen,GER,Italy,Junior,Parallel Slalom,13,20.00
+333,Bagozza Daniele,Male,12-02-2011,Berchtesgaden/Goetschen,GER,Italy,Junior,Giant Slalom,23,8.00
+334,Bagozza Daniele,Male,22-01-2011,Pozza di Fassa,ITA,Italy,FIS,Giant Slalom,8,48.00
+335,Bagozza Daniele,Male,12-01-2011,Berchtesgaden/Goetschen,GER,Italy,National Championships,Parallel GS,72,3.20
+336,Bagozza Daniele,Male,18-12-2010,Samnaun,SUI,Italy,FIS,Parallel Slalom,35,5.20
+337,Bagozza Daniele,Male,17-12-2010,Samnaun,SUI,Italy,FIS,Parallel Slalom,39,0.00
+338,Bagozza Daniele,Male,11-12-2010,Ratschings/Racines,ITA,Italy,European Cup,Parallel GS,79,0.00
+339,Bagozza Daniele,Male,10-12-2010,Ratschings/Racines,ITA,Italy,FIS,Parallel GS,70,2.47
+340,Bagozza Daniele,Male,05-12-2010,Welschnofen-Carezza,ITA,Italy,European Cup,Parallel Slalom,62,4.76
+341,Bagozza Daniele,Male,04-12-2010,Welschnofen-Carezza,ITA,Italy,European Cup,Parallel GS,72,3.56
+342,Bagozza Daniele,Male,27-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Italy,European Cup,Parallel GS,102,0.00

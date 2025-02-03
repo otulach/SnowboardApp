@@ -1,64 +1,76 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Yogo Sakura,Female,07-04-2024,Samnaun,SUI,Japan,National Championships,Giant Slalom,6,116.00
-1,Yogo Sakura,Female,06-04-2024,Samnaun,SUI,Japan,National Championships,Parallel Slalom,10,75.40
-2,Yogo Sakura,Female,02-04-2024,"Copper Mountain, CO",USA,Japan,National Championships,Parallel Slalom,6,72.00
-3,Yogo Sakura,Female,01-04-2024,"Copper Mountain, CO",USA,Japan,National Championships,Parallel Giant Slalom,8,57.60
-4,Yogo Sakura,Female,19-03-2024,Wanglong Ski Resrort,CHN,Japan,Asian Cup,Slalom,12,35.20
-5,Yogo Sakura,Female,18-03-2024,Wanglong Ski Resrort,CHN,Japan,Asian Cup,Parallel Giant Slalom,11,38.40
-6,Yogo Sakura,Female,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Japan,Asian Cup,Parallel Slalom,11,38.40
-7,Yogo Sakura,Female,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Japan,Asian Cup,Parallel Giant Slalom,13,32.00
-8,Yogo Sakura,Female,05-03-2024,High1resort,KOR,Japan,Asian Cup,Parallel Slalom,12,35.20
-9,Yogo Sakura,Female,04-03-2024,High1resort,KOR,Japan,Asian Cup,Parallel Giant Slalom,11,38.40
-10,Yogo Sakura,Female,02-03-2024,Akan,JPN,Japan,FIS,Parallel Giant Slalom,6,48.00
-11,Yogo Sakura,Female,01-03-2024,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,DNF,
-12,Yogo Sakura,Female,10-02-2024,"Alpine Ski Club,",CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,11,43.20
-13,Yogo Sakura,Female,09-02-2024,"Alpine Ski Club,",CAN,Japan,Nor-Am Cup,Parallel Slalom,8,57.60
-14,Yogo Sakura,Female,07-02-2024,Val Saint Come,CAN,Japan,FIS,Parallel Giant Slalom,4,60.00
-15,Yogo Sakura,Female,06-02-2024,Val Saint Come,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,13,36.00
-16,Yogo Sakura,Female,05-02-2024,Val Saint Come,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,12,39.60
-17,Yogo Sakura,Female,02-02-2024,High1resort,KOR,Japan,FIS,Parallel Slalom,4,75.00
-18,Yogo Sakura,Female,01-02-2024,High1resort,KOR,Japan,FIS,Parallel Giant Slalom,9,43.50
-19,Yogo Sakura,Female,02-04-2023,Haus im Ennstal,AUT,Japan,National Championships,Parallel Slalom,12,63.80
-20,Yogo Sakura,Female,01-04-2023,Haus im Ennstal,AUT,Japan,National Championships,Parallel Giant Slalom,9,84.10
-21,Yogo Sakura,Female,30-03-2023,Cortina dAmpezzo,ITA,Japan,National Championships,Parallel Slalom,14,52.20
-22,Yogo Sakura,Female,26-03-2023,Villach - Gerlitzen,AUT,Japan,FIS,Parallel Slalom,2,96.00
-23,Yogo Sakura,Female,25-03-2023,Villach - Gerlitzen,AUT,Japan,FIS,Parallel Slalom,10,31.20
-24,Yogo Sakura,Female,19-03-2023,Ratschings,ITA,Japan,European Cup,Parallel Slalom,36,5.12
-25,Yogo Sakura,Female,18-03-2023,Ratschings,ITA,Japan,European Cup,Parallel Slalom,33,6.24
-26,Yogo Sakura,Female,12-03-2023,Davos,SUI,Japan,European Cup,Parallel Slalom,19,31.20
-27,Yogo Sakura,Female,11-03-2023,Davos,SUI,Japan,European Cup,Parallel Slalom,25,21.60
-28,Yogo Sakura,Female,05-03-2023,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,2,72.00
-29,Yogo Sakura,Female,03-03-2023,high1 resort,KOR,Japan,Asian Cup,Parallel Slalom,5,72.00
-30,Yogo Sakura,Female,02-03-2023,high1 resort,KOR,Japan,Asian Cup,Parallel Giant Slalom,6,64.00
-31,Yogo Sakura,Female,05-02-2023,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,24,15.40
-32,Yogo Sakura,Female,29-01-2023,Simonhöhe,AUT,Japan,Qualification,Parallel Giant Slalom,34,
-33,Yogo Sakura,Female,29-01-2023,Simonhöhe,AUT,Japan,European Cup,Parallel Giant Slalom,34,5.28
-34,Yogo Sakura,Female,28-01-2023,Simonhöhe,AUT,Japan,European Cup,Parallel Giant Slalom,24,16.80
-35,Yogo Sakura,Female,28-01-2023,Simonhöhe,AUT,Japan,Qualification,Parallel Giant Slalom,24,
-36,Yogo Sakura,Female,18-12-2022,Hochfügen,GER,Japan,European Cup,Parallel Giant Slalom,33,4.80
-37,Yogo Sakura,Female,18-12-2022,Hochfügen,GER,Japan,Qualification,Parallel Giant Slalom,33,
-38,Yogo Sakura,Female,17-12-2022,Hochfügen,GER,Japan,European Cup,Parallel Giant Slalom,34,4.40
-39,Yogo Sakura,Female,01-04-2022,Chiesa in Valmalenco,ITA,Japan,FIS Junior World Championships,Parallel Slalom,25,21.60
-40,Yogo Sakura,Female,31-03-2022,Chiesa in Valmalenco,ITA,Japan,FIS Junior World Championships,Parallel Giant Slalom,29,12.96
-41,Yogo Sakura,Female,26-03-2022,Villach / Gerlitzen,AUT,Japan,National Championships,Parallel Giant Slalom,18,
-42,Yogo Sakura,Female,20-03-2022,Senales - Schnals,ITA,Japan,Junior,Parallel Slalom,10,36.40
-43,Yogo Sakura,Female,19-03-2022,Senales - Schnals,ITA,Japan,Junior,Parallel Slalom,18,18.20
-44,Yogo Sakura,Female,08-03-2022,SUCHE/Zakopane,POL,Japan,National Championships,Parallel Giant Slalom,DNS,
-45,Yogo Sakura,Female,06-03-2022,Lachtal,AUT,Japan,European Cup,Parallel Giant Slalom,33,8.64
-46,Yogo Sakura,Female,05-03-2022,Lachtal,AUT,Japan,European Cup,Parallel Giant Slalom,25,21.60
-47,Yogo Sakura,Female,25-02-2022,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,7,32.40
-48,Yogo Sakura,Female,24-02-2022,Akan,JPN,Japan,FIS,Parallel Giant Slalom,8,28.80
-49,Yogo Sakura,Female,21-12-2021,Moninec,CZE,Japan,FIS,Parallel Slalom,27,8.10
-50,Yogo Sakura,Female,20-12-2021,Moninec,CZE,Japan,FIS,Parallel Slalom,25,10.80
-51,Yogo Sakura,Female,19-12-2021,Moninec,CZE,Japan,European Cup,Parallel Slalom,38,3.82
-52,Yogo Sakura,Female,18-12-2021,Moninec,CZE,Japan,European Cup,Parallel Slalom,20,22.00
-53,Yogo Sakura,Female,12-12-2021,Götschen,GER,Japan,European Cup,Parallel Slalom,29,7.20
-54,Yogo Sakura,Female,11-12-2021,Götschen,GER,Japan,European Cup,Parallel Slalom,38,3.82
-55,Yogo Sakura,Female,20-03-2021,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,3,54.00
-56,Yogo Sakura,Female,07-02-2021,Sapporo Bankei,JPN,Japan,FIS,Giant Slalom,4,35.00
-57,Yogo Sakura,Female,02-02-2020,Sapporo Bankei,JPN,Japan,FIS,Giant Slalom,8,16.00
-58,Yogo Sakura,Female,29-12-2019,Wanlong Ski Resorts,CHN,Japan,Asian Cup,Parallel Slalom,13,
-59,Yogo Sakura,Female,28-12-2019,Wanlong Ski Resorts,CHN,Japan,Asian Cup,Parallel Giant Slalom,12,79.20
-60,Yogo Sakura,Female,17-03-2019,Tazawako,JPN,Japan,FIS,Giant Slalom,8,16.00
-61,Yogo Sakura,Female,03-03-2019,Kurikoma Akiata,JPN,Japan,National Championships,Parallel Giant Slalom,10,18.20
-62,Yogo Sakura,Female,02-03-2019,Kurikoma Akiata,JPN,Japan,FIS,Parallel Giant Slalom,14,12.60
+0,Yogo Sakura,Female,26-01-2025,Simonhöhe,AUT,Japan,European Cup,Parallel Giant Slalom,39,6.77
+1,Yogo Sakura,Female,25-01-2025,Simonhöhe,AUT,Japan,European Cup,Parallel Giant Slalom,18,31.20
+2,Yogo Sakura,Female,22-01-2025,Bardonecchia,ITA,Japan,Universiade,Parallel Slalom,7,79.20
+3,Yogo Sakura,Female,21-01-2025,Bardonecchia,ITA,Japan,Universiade,Parallel Giant Slalom,9,63.80
+4,Yogo Sakura,Female,09-01-2025,O2 Resort,KOR,Japan,Asian Cup,Parallel Slalom,12,35.20
+5,Yogo Sakura,Female,08-01-2025,O2 Resort,KOR,Japan,Asian Cup,Parallel Giant Slalom,6,64.00
+6,Yogo Sakura,Female,22-12-2024,Moninec,CZE,Japan,FIS,Parallel Slalom,8,57.60
+7,Yogo Sakura,Female,21-12-2024,Moninec,CZE,Japan,FIS,Parallel Slalom,3,96.00
+8,Yogo Sakura,Female,20-12-2024,Moninec,CZE,Japan,European Cup,Parallel Slalom,21,24.00
+9,Yogo Sakura,Female,19-12-2024,Moninec,CZE,Japan,European Cup,Parallel Slalom,25,14.40
+10,Yogo Sakura,Female,15-12-2024,Götschen,GER,Japan,European Cup,Parallel Slalom,23,19.20
+11,Yogo Sakura,Female,14-12-2024,Götschen,GER,Japan,European Cup,Parallel Slalom,19,26.40
+12,Yogo Sakura,Female,07-04-2024,Samnaun,SUI,Japan,National Championships,Giant Slalom,6,116.00
+13,Yogo Sakura,Female,06-04-2024,Samnaun,SUI,Japan,National Championships,Parallel Slalom,10,75.40
+14,Yogo Sakura,Female,02-04-2024,"Copper Mountain, CO",USA,Japan,National Championships,Parallel Slalom,6,72.00
+15,Yogo Sakura,Female,01-04-2024,"Copper Mountain, CO",USA,Japan,National Championships,Parallel Giant Slalom,8,57.60
+16,Yogo Sakura,Female,19-03-2024,Wanglong Ski Resrort,CHN,Japan,Asian Cup,Slalom,12,35.20
+17,Yogo Sakura,Female,18-03-2024,Wanglong Ski Resrort,CHN,Japan,Asian Cup,Parallel Giant Slalom,11,38.40
+18,Yogo Sakura,Female,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Japan,Asian Cup,Parallel Slalom,11,38.40
+19,Yogo Sakura,Female,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Japan,Asian Cup,Parallel Giant Slalom,13,32.00
+20,Yogo Sakura,Female,05-03-2024,High1resort,KOR,Japan,Asian Cup,Parallel Slalom,12,35.20
+21,Yogo Sakura,Female,04-03-2024,High1resort,KOR,Japan,Asian Cup,Parallel Giant Slalom,11,38.40
+22,Yogo Sakura,Female,02-03-2024,Akan,JPN,Japan,FIS,Parallel Giant Slalom,6,48.00
+23,Yogo Sakura,Female,01-03-2024,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,DNF,
+24,Yogo Sakura,Female,10-02-2024,"Alpine Ski Club,",CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,11,43.20
+25,Yogo Sakura,Female,09-02-2024,"Alpine Ski Club,",CAN,Japan,Nor-Am Cup,Parallel Slalom,8,57.60
+26,Yogo Sakura,Female,07-02-2024,Val Saint Come,CAN,Japan,FIS,Parallel Giant Slalom,4,60.00
+27,Yogo Sakura,Female,06-02-2024,Val Saint Come,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,13,36.00
+28,Yogo Sakura,Female,05-02-2024,Val Saint Come,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,12,39.60
+29,Yogo Sakura,Female,02-02-2024,High1resort,KOR,Japan,FIS,Parallel Slalom,4,75.00
+30,Yogo Sakura,Female,01-02-2024,High1resort,KOR,Japan,FIS,Parallel Giant Slalom,9,43.50
+31,Yogo Sakura,Female,02-04-2023,Haus im Ennstal,AUT,Japan,National Championships,Parallel Slalom,12,63.80
+32,Yogo Sakura,Female,01-04-2023,Haus im Ennstal,AUT,Japan,National Championships,Parallel Giant Slalom,9,84.10
+33,Yogo Sakura,Female,30-03-2023,Cortina dAmpezzo,ITA,Japan,National Championships,Parallel Slalom,14,52.20
+34,Yogo Sakura,Female,26-03-2023,Villach - Gerlitzen,AUT,Japan,FIS,Parallel Slalom,2,96.00
+35,Yogo Sakura,Female,25-03-2023,Villach - Gerlitzen,AUT,Japan,FIS,Parallel Slalom,10,31.20
+36,Yogo Sakura,Female,19-03-2023,Ratschings,ITA,Japan,European Cup,Parallel Slalom,36,5.12
+37,Yogo Sakura,Female,18-03-2023,Ratschings,ITA,Japan,European Cup,Parallel Slalom,33,6.24
+38,Yogo Sakura,Female,12-03-2023,Davos,SUI,Japan,European Cup,Parallel Slalom,19,31.20
+39,Yogo Sakura,Female,11-03-2023,Davos,SUI,Japan,European Cup,Parallel Slalom,25,21.60
+40,Yogo Sakura,Female,05-03-2023,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,2,72.00
+41,Yogo Sakura,Female,03-03-2023,high1 resort,KOR,Japan,Asian Cup,Parallel Slalom,5,72.00
+42,Yogo Sakura,Female,02-03-2023,high1 resort,KOR,Japan,Asian Cup,Parallel Giant Slalom,6,64.00
+43,Yogo Sakura,Female,05-02-2023,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,24,15.40
+44,Yogo Sakura,Female,29-01-2023,Simonhöhe,AUT,Japan,Qualification,Parallel Giant Slalom,34,
+45,Yogo Sakura,Female,29-01-2023,Simonhöhe,AUT,Japan,European Cup,Parallel Giant Slalom,34,5.28
+46,Yogo Sakura,Female,28-01-2023,Simonhöhe,AUT,Japan,Qualification,Parallel Giant Slalom,24,
+47,Yogo Sakura,Female,28-01-2023,Simonhöhe,AUT,Japan,European Cup,Parallel Giant Slalom,24,16.80
+48,Yogo Sakura,Female,18-12-2022,Hochfügen,GER,Japan,Qualification,Parallel Giant Slalom,33,
+49,Yogo Sakura,Female,18-12-2022,Hochfügen,GER,Japan,European Cup,Parallel Giant Slalom,33,4.80
+50,Yogo Sakura,Female,17-12-2022,Hochfügen,GER,Japan,European Cup,Parallel Giant Slalom,34,4.40
+51,Yogo Sakura,Female,01-04-2022,Chiesa in Valmalenco,ITA,Japan,FIS Junior World Championships,Parallel Slalom,25,21.60
+52,Yogo Sakura,Female,31-03-2022,Chiesa in Valmalenco,ITA,Japan,FIS Junior World Championships,Parallel Giant Slalom,29,12.96
+53,Yogo Sakura,Female,26-03-2022,Villach / Gerlitzen,AUT,Japan,National Championships,Parallel Giant Slalom,18,
+54,Yogo Sakura,Female,20-03-2022,Senales - Schnals,ITA,Japan,Junior,Parallel Slalom,10,36.40
+55,Yogo Sakura,Female,19-03-2022,Senales - Schnals,ITA,Japan,Junior,Parallel Slalom,18,18.20
+56,Yogo Sakura,Female,08-03-2022,SUCHE/Zakopane,POL,Japan,National Championships,Parallel Giant Slalom,DNS,
+57,Yogo Sakura,Female,06-03-2022,Lachtal,AUT,Japan,European Cup,Parallel Giant Slalom,33,8.64
+58,Yogo Sakura,Female,05-03-2022,Lachtal,AUT,Japan,European Cup,Parallel Giant Slalom,25,21.60
+59,Yogo Sakura,Female,25-02-2022,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,7,32.40
+60,Yogo Sakura,Female,24-02-2022,Akan,JPN,Japan,FIS,Parallel Giant Slalom,8,28.80
+61,Yogo Sakura,Female,21-12-2021,Moninec,CZE,Japan,FIS,Parallel Slalom,27,8.10
+62,Yogo Sakura,Female,20-12-2021,Moninec,CZE,Japan,FIS,Parallel Slalom,25,10.80
+63,Yogo Sakura,Female,19-12-2021,Moninec,CZE,Japan,European Cup,Parallel Slalom,38,3.82
+64,Yogo Sakura,Female,18-12-2021,Moninec,CZE,Japan,European Cup,Parallel Slalom,20,22.00
+65,Yogo Sakura,Female,12-12-2021,Götschen,GER,Japan,European Cup,Parallel Slalom,29,7.20
+66,Yogo Sakura,Female,11-12-2021,Götschen,GER,Japan,European Cup,Parallel Slalom,38,3.82
+67,Yogo Sakura,Female,20-03-2021,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,3,54.00
+68,Yogo Sakura,Female,07-02-2021,Sapporo Bankei,JPN,Japan,FIS,Giant Slalom,4,35.00
+69,Yogo Sakura,Female,02-02-2020,Sapporo Bankei,JPN,Japan,FIS,Giant Slalom,8,16.00
+70,Yogo Sakura,Female,29-12-2019,Wanlong Ski Resorts,CHN,Japan,Asian Cup,Parallel Slalom,13,
+71,Yogo Sakura,Female,28-12-2019,Wanlong Ski Resorts,CHN,Japan,Asian Cup,Parallel Giant Slalom,12,79.20
+72,Yogo Sakura,Female,17-03-2019,Tazawako,JPN,Japan,FIS,Giant Slalom,8,16.00
+73,Yogo Sakura,Female,03-03-2019,Kurikoma Akiata,JPN,Japan,National Championships,Parallel Giant Slalom,10,18.20
+74,Yogo Sakura,Female,02-03-2019,Kurikoma Akiata,JPN,Japan,FIS,Parallel Giant Slalom,14,12.60

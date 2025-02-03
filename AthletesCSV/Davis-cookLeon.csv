@@ -1,33 +1,38 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Davis-cook Leon,Male,18-08-2024,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,20,39.60
-1,Davis-cook Leon,Male,17-08-2024,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,33,
-2,Davis-cook Leon,Male,15-08-2024,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,33,
-3,Davis-cook Leon,Male,14-08-2024,Mt Hotham,AUS,Australia,Junior,Snowboard Cross,12,11.00
-4,Davis-cook Leon,Male,03-02-2024,Dolni Morava,CZE,Australia,Junior,Snowboard Cross,4,25.00
-5,Davis-cook Leon,Male,02-02-2024,Dolni Morava,CZE,Australia,Junior,Snowboard Cross,33,2.16
-6,Davis-cook Leon,Male,01-02-2024,Dolni Morava,CZE,Australia,European Cup,Snowboard Cross,65,
-7,Davis-cook Leon,Male,31-01-2024,Dolni Morava,CZE,Australia,European Cup,Snowboard Cross,71,
-8,Davis-cook Leon,Male,28-01-2024,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,46,3.34
-9,Davis-cook Leon,Male,27-01-2024,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,48,3.22
-10,Davis-cook Leon,Male,20-01-2024,Montafon,AUT,Australia,National Championships,Snowboard Cross,64,3.28
-11,Davis-cook Leon,Male,09-12-2023,Pitztal,AUT,Australia,Junior,Snowboard Cross,42,1.79
-12,Davis-cook Leon,Male,19-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,23,16.00
-13,Davis-cook Leon,Male,18-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,24,11.20
-14,Davis-cook Leon,Male,17-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,23,16.00
-15,Davis-cook Leon,Male,16-08-2023,Mt Hotham,AUS,Australia,Junior,Snowboard Cross,13,14.00
-16,Davis-cook Leon,Male,16-02-2023,Moena - Passo San Pellegrino,ITA,Australia,European Cup,Snowboard Cross,48,4.67
-17,Davis-cook Leon,Male,15-02-2023,Moena - Passo San Pellegrino,ITA,Australia,European Cup,Snowboard Cross,59,
-18,Davis-cook Leon,Male,03-02-2023,Dolni Morava,CZE,Australia,FIS,Snowboard Cross,17,12.60
-19,Davis-cook Leon,Male,22-01-2023,Puy St.Vincent,FRA,Australia,European Cup,Snowboard Cross,49,3.79
-20,Davis-cook Leon,Male,21-01-2023,Puy St.Vincent,FRA,Australia,European Cup,Snowboard Cross,53,
-21,Davis-cook Leon,Male,14-01-2023,Lenk,SUI,Australia,FIS,Snowboard Cross,29,1.80
-22,Davis-cook Leon,Male,08-01-2023,Isola 2000,FRA,Australia,Junior,Snowboard Cross,17,16.80
-23,Davis-cook Leon,Male,07-01-2023,Isola 2000,FRA,Australia,European Cup,Snowboard Cross,33,5.76
-24,Davis-cook Leon,Male,06-01-2023,Isola 2000,FRA,Australia,European Cup,Snowboard Cross,48,
-25,Davis-cook Leon,Male,12-09-2022,Perisher,AUS,Australia,Junior,Snowboard Cross,9,14.50
-26,Davis-cook Leon,Male,03-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,31,7.28
-27,Davis-cook Leon,Male,02-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,25,15.60
-28,Davis-cook Leon,Male,01-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,17,36.40
-29,Davis-cook Leon,Male,31-08-2022,Mt Hotham,AUS,Australia,Junior,Snowboard Cross,9,14.50
-30,Davis-cook Leon,Male,14-08-2022,Mt Buller,AUS,Australia,Junior,Snowboard Cross,11,12.00
-31,Davis-cook Leon,Male,31-07-2022,Thredbo,AUS,Australia,Junior,Snowboard Cross,11,12.00
+0,Davis-cook Leon,Male,02-02-2025,St. Lary,FRA,Australia,National Championships,Snowboard Cross,31,4.20
+1,Davis-cook Leon,Male,31-01-2025,St. Lary,FRA,Australia,European Cup,Snowboard Cross,49,
+2,Davis-cook Leon,Male,24-01-2025,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,44,
+3,Davis-cook Leon,Male,23-01-2025,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,45,3.40
+4,Davis-cook Leon,Male,14-01-2025,Bardonecchia,ITA,Australia,Universiade,Snowboard Cross,21,22.00
+5,Davis-cook Leon,Male,18-08-2024,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,20,39.60
+6,Davis-cook Leon,Male,17-08-2024,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,33,
+7,Davis-cook Leon,Male,15-08-2024,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,33,
+8,Davis-cook Leon,Male,14-08-2024,Mt Hotham,AUS,Australia,Junior,Snowboard Cross,12,11.00
+9,Davis-cook Leon,Male,03-02-2024,Dolni Morava,CZE,Australia,Junior,Snowboard Cross,4,25.00
+10,Davis-cook Leon,Male,02-02-2024,Dolni Morava,CZE,Australia,Junior,Snowboard Cross,33,2.16
+11,Davis-cook Leon,Male,01-02-2024,Dolni Morava,CZE,Australia,European Cup,Snowboard Cross,65,
+12,Davis-cook Leon,Male,31-01-2024,Dolni Morava,CZE,Australia,European Cup,Snowboard Cross,71,
+13,Davis-cook Leon,Male,28-01-2024,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,46,3.34
+14,Davis-cook Leon,Male,27-01-2024,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,48,3.22
+15,Davis-cook Leon,Male,20-01-2024,Montafon,AUT,Australia,National Championships,Snowboard Cross,64,3.28
+16,Davis-cook Leon,Male,09-12-2023,Pitztal,AUT,Australia,Junior,Snowboard Cross,42,1.79
+17,Davis-cook Leon,Male,19-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,23,16.00
+18,Davis-cook Leon,Male,18-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,24,11.20
+19,Davis-cook Leon,Male,17-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,23,16.00
+20,Davis-cook Leon,Male,16-08-2023,Mt Hotham,AUS,Australia,Junior,Snowboard Cross,13,14.00
+21,Davis-cook Leon,Male,16-02-2023,Moena - Passo San Pellegrino,ITA,Australia,European Cup,Snowboard Cross,48,4.67
+22,Davis-cook Leon,Male,15-02-2023,Moena - Passo San Pellegrino,ITA,Australia,European Cup,Snowboard Cross,59,
+23,Davis-cook Leon,Male,03-02-2023,Dolni Morava,CZE,Australia,FIS,Snowboard Cross,17,12.60
+24,Davis-cook Leon,Male,22-01-2023,Puy St.Vincent,FRA,Australia,European Cup,Snowboard Cross,49,3.79
+25,Davis-cook Leon,Male,21-01-2023,Puy St.Vincent,FRA,Australia,European Cup,Snowboard Cross,53,
+26,Davis-cook Leon,Male,14-01-2023,Lenk,SUI,Australia,FIS,Snowboard Cross,29,1.80
+27,Davis-cook Leon,Male,08-01-2023,Isola 2000,FRA,Australia,Junior,Snowboard Cross,17,16.80
+28,Davis-cook Leon,Male,07-01-2023,Isola 2000,FRA,Australia,European Cup,Snowboard Cross,33,5.76
+29,Davis-cook Leon,Male,06-01-2023,Isola 2000,FRA,Australia,European Cup,Snowboard Cross,48,
+30,Davis-cook Leon,Male,12-09-2022,Perisher,AUS,Australia,Junior,Snowboard Cross,9,14.50
+31,Davis-cook Leon,Male,03-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,31,7.28
+32,Davis-cook Leon,Male,02-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,25,15.60
+33,Davis-cook Leon,Male,01-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,17,36.40
+34,Davis-cook Leon,Male,31-08-2022,Mt Hotham,AUS,Australia,Junior,Snowboard Cross,9,14.50
+35,Davis-cook Leon,Male,14-08-2022,Mt Buller,AUS,Australia,Junior,Snowboard Cross,11,12.00
+36,Davis-cook Leon,Male,31-07-2022,Thredbo,AUS,Australia,Junior,Snowboard Cross,11,12.00

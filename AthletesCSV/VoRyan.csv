@@ -1,53 +1,61 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Vo Ryan,Male,21-02-2024,Winsport Calgary,CAN,Canada,Nor-Am Cup,Halfpipe,7,84.40
-1,Vo Ryan,Male,10-02-2024,Calgary,CAN,Canada,World Cup,Halfpipe,18,108.80
-2,Vo Ryan,Male,09-02-2024,Calgary,CAN,Canada,Qualification,Halfpipe,18,
-3,Vo Ryan,Male,03-02-2024,Mammoth Mountain,USA,Canada,World Cup,Halfpipe,25,64.50
-4,Vo Ryan,Male,30-01-2024,Mammoth Mountain,USA,Canada,Qualification,Halfpipe,13,
-5,Vo Ryan,Male,25-01-2024,Copper Mountain,USA,Canada,Nor-Am Cup,Halfpipe,11,38.10
-6,Vo Ryan,Male,16-12-2023,Copper Mountain,USA,Canada,World Cup,Halfpipe,31,47.90
-7,Vo Ryan,Male,14-12-2023,Copper Mountain,USA,Canada,Qualification,Halfpipe,15,
-8,Vo Ryan,Male,06-04-2023,Copper Mountain Resort,USA,Canada,National Championships,Slopestyle,22,14.00
-9,Vo Ryan,Male,05-04-2023,Copper Mountain Resort,USA,Canada,National Championships,Halfpipe,11,17.40
-10,Vo Ryan,Male,19-03-2023,Winsport Calgary,CAN,Canada,FIS,Slopestyle,11,12.50
-11,Vo Ryan,Male,18-03-2023,Winsport Calgary,CAN,Canada,FIS,Halfpipe,8,11.60
-12,Vo Ryan,Male,15-02-2023,Winsport Calgary,CAN,Canada,Nor-Am Cup,Slopestyle,29,25.60
-13,Vo Ryan,Male,13-02-2023,Winsport Calgary,CAN,Canada,Nor-Am Cup,Halfpipe,7,51.20
-14,Vo Ryan,Male,10-02-2023,Calgary,CAN,Canada,World Cup,Halfpipe,19,49.00
-15,Vo Ryan,Male,09-02-2023,Calgary,CAN,Canada,Qualification,Halfpipe,19,
-16,Vo Ryan,Male,29-01-2023,Winsport Calgary,CAN,Canada,FIS,Halfpipe,2,40.90
-17,Vo Ryan,Male,28-01-2023,Winsport Calgary,CAN,Canada,FIS,Slopestyle,1,50.00
-18,Vo Ryan,Male,18-01-2023,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,25,18.00
-19,Vo Ryan,Male,17-01-2023,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,22,23.20
-20,Vo Ryan,Male,16-12-2022,Copper Mountain,USA,Canada,World Cup,Halfpipe,38,24.70
-21,Vo Ryan,Male,14-12-2022,Copper Mountain,USA,Canada,Qualification,Halfpipe,19,
-22,Vo Ryan,Male,18-03-2022,Calgary,CAN,Canada,FIS,Halfpipe,1,50.00
-23,Vo Ryan,Male,16-03-2022,Calgary,CAN,Canada,FIS,Halfpipe,1,50.00
-24,Vo Ryan,Male,08-03-2022,Leysin,SUI,Canada,FIS Junior World Championships,Halfpipe,16,20.80
-25,Vo Ryan,Male,20-02-2022,Calgary,CAN,Canada,FIS,Slopestyle,8,15.00
-26,Vo Ryan,Male,19-02-2022,Calgary,CAN,Canada,FIS,Slopestyle,5,24.30
-27,Vo Ryan,Male,06-02-2022,Calgary,CAN,Canada,National Junior Championships,Slopestyle,15,23.20
-28,Vo Ryan,Male,02-02-2022,Calgary,CAN,Canada,Nor-Am Cup,Halfpipe,6,37.20
-29,Vo Ryan,Male,02-02-2022,Calgary,CAN,Canada,National Junior Championships,Halfpipe,1,10.00
-30,Vo Ryan,Male,29-01-2022,Calgary,CAN,Canada,FIS,Slopestyle,28,3.50
-31,Vo Ryan,Male,28-01-2022,Calgary,CAN,Canada,FIS,Halfpipe,1,50.00
-32,Vo Ryan,Male,21-01-2022,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,18,15.90
-33,Vo Ryan,Male,20-01-2022,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,19,14.70
-34,Vo Ryan,Male,10-03-2020,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,16,22.50
-35,Vo Ryan,Male,08-03-2020,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,18,9.10
-36,Vo Ryan,Male,07-03-2020,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,15,8.00
-37,Vo Ryan,Male,26-01-2020,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,8,16.00
-38,Vo Ryan,Male,25-01-2020,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,7,18.00
-39,Vo Ryan,Male,15-01-2020,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,50,2.48
-40,Vo Ryan,Male,24-03-2019,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,29,3.60
-41,Vo Ryan,Male,19-03-2019,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Halfpipe,5,22.50
-42,Vo Ryan,Male,17-03-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,29,2.52
-43,Vo Ryan,Male,16-03-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,10,18.20
-44,Vo Ryan,Male,03-03-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,22,4.50
-45,Vo Ryan,Male,02-03-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,16,7.50
-46,Vo Ryan,Male,02-02-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,6,20.00
-47,Vo Ryan,Male,11-03-2018,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,42,1.61
-48,Vo Ryan,Male,04-03-2018,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,18,13.00
-49,Vo Ryan,Male,03-03-2018,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,13,14.00
-50,Vo Ryan,Male,28-01-2018,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,14,9.00
-51,Vo Ryan,Male,27-01-2018,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,21,5.00
+0,Vo Ryan,Male,01-02-2025,Aspen,USA,Canada,World Cup,Halfpipe,31,
+1,Vo Ryan,Male,30-01-2025,Aspen,USA,Canada,Qualification,Halfpipe,16,
+2,Vo Ryan,Male,18-01-2025,Laax,SUI,Canada,World Cup,Halfpipe,35,57.20
+3,Vo Ryan,Male,17-01-2025,Laax,SUI,Canada,Qualification,Halfpipe,16,
+4,Vo Ryan,Male,20-12-2024,Copper,USA,Canada,World Cup,Halfpipe,24,112.30
+5,Vo Ryan,Male,18-12-2024,Copper,USA,Canada,Qualification,Halfpipe,12,
+6,Vo Ryan,Male,08-12-2024,Secret Garden,CHN,Canada,World Cup,Halfpipe,27,60.10
+7,Vo Ryan,Male,06-12-2024,Secret Garden,CHN,Canada,Qualification,Halfpipe,15,
+8,Vo Ryan,Male,21-02-2024,Winsport Calgary,CAN,Canada,Nor-Am Cup,Halfpipe,7,84.40
+9,Vo Ryan,Male,10-02-2024,Calgary,CAN,Canada,World Cup,Halfpipe,18,108.80
+10,Vo Ryan,Male,09-02-2024,Calgary,CAN,Canada,Qualification,Halfpipe,18,
+11,Vo Ryan,Male,03-02-2024,Mammoth Mountain,USA,Canada,World Cup,Halfpipe,25,64.50
+12,Vo Ryan,Male,30-01-2024,Mammoth Mountain,USA,Canada,Qualification,Halfpipe,13,
+13,Vo Ryan,Male,25-01-2024,Copper Mountain,USA,Canada,Nor-Am Cup,Halfpipe,11,38.10
+14,Vo Ryan,Male,16-12-2023,Copper Mountain,USA,Canada,World Cup,Halfpipe,31,47.90
+15,Vo Ryan,Male,14-12-2023,Copper Mountain,USA,Canada,Qualification,Halfpipe,15,
+16,Vo Ryan,Male,06-04-2023,Copper Mountain Resort,USA,Canada,National Championships,Slopestyle,22,14.00
+17,Vo Ryan,Male,05-04-2023,Copper Mountain Resort,USA,Canada,National Championships,Halfpipe,11,17.40
+18,Vo Ryan,Male,19-03-2023,Winsport Calgary,CAN,Canada,FIS,Slopestyle,11,12.50
+19,Vo Ryan,Male,18-03-2023,Winsport Calgary,CAN,Canada,FIS,Halfpipe,8,11.60
+20,Vo Ryan,Male,15-02-2023,Winsport Calgary,CAN,Canada,Nor-Am Cup,Slopestyle,29,25.60
+21,Vo Ryan,Male,13-02-2023,Winsport Calgary,CAN,Canada,Nor-Am Cup,Halfpipe,7,51.20
+22,Vo Ryan,Male,10-02-2023,Calgary,CAN,Canada,World Cup,Halfpipe,19,49.00
+23,Vo Ryan,Male,09-02-2023,Calgary,CAN,Canada,Qualification,Halfpipe,19,
+24,Vo Ryan,Male,29-01-2023,Winsport Calgary,CAN,Canada,FIS,Halfpipe,2,40.90
+25,Vo Ryan,Male,28-01-2023,Winsport Calgary,CAN,Canada,FIS,Slopestyle,1,50.00
+26,Vo Ryan,Male,18-01-2023,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,25,18.00
+27,Vo Ryan,Male,17-01-2023,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,22,23.20
+28,Vo Ryan,Male,16-12-2022,Copper Mountain,USA,Canada,World Cup,Halfpipe,38,24.70
+29,Vo Ryan,Male,14-12-2022,Copper Mountain,USA,Canada,Qualification,Halfpipe,19,
+30,Vo Ryan,Male,18-03-2022,Calgary,CAN,Canada,FIS,Halfpipe,1,50.00
+31,Vo Ryan,Male,16-03-2022,Calgary,CAN,Canada,FIS,Halfpipe,1,50.00
+32,Vo Ryan,Male,08-03-2022,Leysin,SUI,Canada,FIS Junior World Championships,Halfpipe,16,20.80
+33,Vo Ryan,Male,20-02-2022,Calgary,CAN,Canada,FIS,Slopestyle,8,15.00
+34,Vo Ryan,Male,19-02-2022,Calgary,CAN,Canada,FIS,Slopestyle,5,24.30
+35,Vo Ryan,Male,06-02-2022,Calgary,CAN,Canada,National Junior Championships,Slopestyle,15,23.20
+36,Vo Ryan,Male,02-02-2022,Calgary,CAN,Canada,Nor-Am Cup,Halfpipe,6,37.20
+37,Vo Ryan,Male,02-02-2022,Calgary,CAN,Canada,National Junior Championships,Halfpipe,1,10.00
+38,Vo Ryan,Male,29-01-2022,Calgary,CAN,Canada,FIS,Slopestyle,28,3.50
+39,Vo Ryan,Male,28-01-2022,Calgary,CAN,Canada,FIS,Halfpipe,1,50.00
+40,Vo Ryan,Male,21-01-2022,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,18,15.90
+41,Vo Ryan,Male,20-01-2022,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,19,14.70
+42,Vo Ryan,Male,10-03-2020,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,16,22.50
+43,Vo Ryan,Male,08-03-2020,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,18,9.10
+44,Vo Ryan,Male,07-03-2020,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,15,8.00
+45,Vo Ryan,Male,26-01-2020,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,8,16.00
+46,Vo Ryan,Male,25-01-2020,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,7,18.00
+47,Vo Ryan,Male,15-01-2020,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,50,2.48
+48,Vo Ryan,Male,24-03-2019,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,29,3.60
+49,Vo Ryan,Male,19-03-2019,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Halfpipe,5,22.50
+50,Vo Ryan,Male,17-03-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,29,2.52
+51,Vo Ryan,Male,16-03-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,10,18.20
+52,Vo Ryan,Male,03-03-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,22,4.50
+53,Vo Ryan,Male,02-03-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,16,7.50
+54,Vo Ryan,Male,02-02-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,6,20.00
+55,Vo Ryan,Male,11-03-2018,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,42,1.61
+56,Vo Ryan,Male,04-03-2018,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,18,13.00
+57,Vo Ryan,Male,03-03-2018,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,13,14.00
+58,Vo Ryan,Male,28-01-2018,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,14,9.00
+59,Vo Ryan,Male,27-01-2018,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,21,5.00

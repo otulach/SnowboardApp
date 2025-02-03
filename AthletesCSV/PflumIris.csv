@@ -1,175 +1,201 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Pflum Iris,Female,02-04-2024,"Copper Mountain, CO",USA,United States Of America,National Championships,Parallel Slalom,1,180.00
-1,Pflum Iris,Female,01-04-2024,"Copper Mountain, CO",USA,United States Of America,National Championships,Parallel Giant Slalom,1,180.00
-2,Pflum Iris,Female,31-03-2024,"Copper Mountain, CO",USA,United States Of America,National Championships,Snowboard Cross,2,56.00
-3,Pflum Iris,Female,17-03-2024,St. Moritz,SUI,United States Of America,European Cup,Parallel Slalom,18,46.80
-4,Pflum Iris,Female,16-03-2024,St. Moritz,SUI,United States Of America,European Cup,Parallel Giant Slalom,12,79.20
-5,Pflum Iris,Female,10-03-2024,Winterberg,GER,United States Of America,World Cup,Parallel Slalom Team,11,
-6,Pflum Iris,Female,09-03-2024,Winterberg,GER,United States Of America,Qualification,Parallel Slalom,18,
-7,Pflum Iris,Female,09-03-2024,Winterberg,GER,United States Of America,World Cup,Parallel Slalom,18,130.00
-8,Pflum Iris,Female,25-02-2024,Krynica,POL,United States Of America,Qualification,Parallel Giant Slalom,15,
-9,Pflum Iris,Female,25-02-2024,Krynica,POL,United States Of America,World Cup,Parallel Giant Slalom,15,160.00
-10,Pflum Iris,Female,24-02-2024,Krynica,POL,United States Of America,Qualification,Parallel Giant Slalom,20,
-11,Pflum Iris,Female,24-02-2024,Krynica,POL,United States Of America,World Cup,Parallel Giant Slalom,20,110.00
-12,Pflum Iris,Female,27-01-2024,Simonhöhe,AUT,United States Of America,Qualification,Parallel Giant Slalom,17,
-13,Pflum Iris,Female,27-01-2024,Simonhöhe,AUT,United States Of America,World Cup,Parallel Giant Slalom,17,140.00
-14,Pflum Iris,Female,25-01-2024,Rogla,SLO,United States Of America,Qualification,Parallel Giant Slalom,15,
-15,Pflum Iris,Female,25-01-2024,Rogla,SLO,United States Of America,World Cup,Parallel Giant Slalom,15,160.00
-16,Pflum Iris,Female,21-01-2024,Pamporovo,BUL,United States Of America,Qualification,Parallel Slalom,DSQ,
-17,Pflum Iris,Female,21-01-2024,Pamporovo,BUL,United States Of America,World Cup,Parallel Slalom,DSQ,
-18,Pflum Iris,Female,20-01-2024,Pamporovo,BUL,United States Of America,Qualification,Parallel Slalom,38,
-19,Pflum Iris,Female,20-01-2024,Pamporovo,BUL,United States Of America,World Cup,Parallel Slalom,38,
-20,Pflum Iris,Female,17-01-2024,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom Team,9,
-21,Pflum Iris,Female,16-01-2024,Bad Gastein,AUT,United States Of America,Qualification,Parallel Slalom,16,
-22,Pflum Iris,Female,16-01-2024,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom,16,150.00
-23,Pflum Iris,Female,13-01-2024,Scuol,SUI,United States Of America,Qualification,Parallel Giant Slalom,9,
-24,Pflum Iris,Female,13-01-2024,Scuol,SUI,United States Of America,World Cup,Parallel Giant Slalom,12,220.00
-25,Pflum Iris,Female,23-12-2023,Davos ,SUI,United States Of America,Qualification,Parallel Slalom,21,
-26,Pflum Iris,Female,23-12-2023,Davos,SUI,United States Of America,World Cup,Parallel Slalom,21,100.00
-27,Pflum Iris,Female,19-12-2023,Moninec,CZE,United States Of America,European Cup,Parallel Slalom,15,41.60
-28,Pflum Iris,Female,16-12-2023,Cortina d'Ampezzo,ITA,United States Of America,Qualification,Parallel Giant Slalom,21,
-29,Pflum Iris,Female,16-12-2023,Cortina d'Ampezzo,ITA,United States Of America,World Cup,Parallel Giant Slalom,21,100.00
-30,Pflum Iris,Female,14-12-2023,Carezza,ITA,United States Of America,Qualification,Parallel Giant Slalom,14,
-31,Pflum Iris,Female,14-12-2023,Carezza,ITA,United States Of America,World Cup,Parallel Giant Slalom,14,180.00
-32,Pflum Iris,Female,09-12-2023,Götschen,GER,United States Of America,Qualification,Parallel Slalom,10,
-33,Pflum Iris,Female,09-12-2023,Götschen,GER,United States Of America,European Cup,Parallel Slalom,7,129.60
-34,Pflum Iris,Female,08-12-2023,Götschen,GER,United States Of America,Qualification,Parallel Slalom,9,
-35,Pflum Iris,Female,08-12-2023,Götschen,GER,United States Of America,European Cup,Parallel Slalom,10,93.60
-36,Pflum Iris,Female,25-03-2023,Bansko,BUL,United States Of America,FIS Junior World Championships,Parallel Slalom,2,288.00
-37,Pflum Iris,Female,25-03-2023,Bansko,BUL,United States Of America,Qualification,Parallel Slalom,2,
-38,Pflum Iris,Female,24-03-2023,Bansko,BUL,United States Of America,FIS Junior World Championships,Parallel Giant Slalom,2,288.00
-39,Pflum Iris,Female,24-03-2023,Bansko,BUL,United States Of America,Qualification,Parallel Giant Slalom,2,
-40,Pflum Iris,Female,19-03-2023,Berchtesgaden,GER,United States Of America,World Cup,Parallel Slalom Team,4,
-41,Pflum Iris,Female,18-03-2023,Berchtesgaden,GER,United States Of America,Qualification,Parallel Slalom,22,
-42,Pflum Iris,Female,18-03-2023,Berchtesgaden,GER,United States Of America,World Cup,Parallel Slalom,22,90.00
-43,Pflum Iris,Female,15-03-2023,Rogla,SLO,United States Of America,World Cup,Parallel Giant Slalom,23,80.00
-44,Pflum Iris,Female,15-03-2023,Rogla,SLO,United States Of America,Qualification,Parallel Giant Slalom,23,
-45,Pflum Iris,Female,22-02-2023,Bakuriani,GEO,United States Of America,World Championships,Parallel Slalom Team,12,
-46,Pflum Iris,Female,21-02-2023,Bakuriani,GEO,United States Of America,Qualification,Parallel Slalom,18,
-47,Pflum Iris,Female,21-02-2023,Bakuriani,GEO,United States Of America,World Championships,Parallel Slalom,18,130.00
-48,Pflum Iris,Female,19-02-2023,Bakuriani,GEO,United States Of America,Qualification,Parallel Giant Slalom,23,
-49,Pflum Iris,Female,19-02-2023,Bakuriani,GEO,United States Of America,World Championships,Parallel Giant Slalom,23,80.00
-50,Pflum Iris,Female,31-01-2023,Blue,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,2,208.00
-51,Pflum Iris,Female,30-01-2023,Blue,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,2,208.00
-52,Pflum Iris,Female,27-01-2023,Blue Mountain,CAN,United States Of America,Qualification,Parallel Giant Slalom,19,
-53,Pflum Iris,Female,27-01-2023,Blue Mountain,CAN,United States Of America,World Cup,Parallel Giant Slalom,19,120.00
-54,Pflum Iris,Female,26-01-2023,Blue Mountain,CAN,United States Of America,Qualification,Parallel Giant Slalom,26,
-55,Pflum Iris,Female,26-01-2023,Blue Mountain,CAN,United States Of America,World Cup,Parallel Giant Slalom,26,50.00
-56,Pflum Iris,Female,22-01-2023,Bansko,BUL,United States Of America,Qualification,Parallel Slalom,17,
-57,Pflum Iris,Female,22-01-2023,Bansko,BUL,United States Of America,World Cup,Parallel Slalom,17,140.00
-58,Pflum Iris,Female,21-01-2023,Bansko,BUL,United States Of America,Qualification,Parallel Slalom,17,
-59,Pflum Iris,Female,21-01-2023,Bansko,BUL,United States Of America,World Cup,Parallel Slalom,17,140.00
-60,Pflum Iris,Female,14-01-2023,Scuol,SUI,United States Of America,Qualification,Parallel Giant Slalom,17,
-61,Pflum Iris,Female,14-01-2023,Scuol,SUI,United States Of America,World Cup,Parallel Giant Slalom,17,140.00
-62,Pflum Iris,Female,11-01-2023,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom Team,17,
-63,Pflum Iris,Female,10-01-2023,Bad Gastein,AUT,United States Of America,Qualification,Parallel Slalom,24,
-64,Pflum Iris,Female,10-01-2023,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom,24,70.00
-65,Pflum Iris,Female,17-12-2022,Cortina d'Ampezzo,ITA,United States Of America,Qualification,Parallel Giant Slalom,21,
-66,Pflum Iris,Female,17-12-2022,Cortina d'Ampezzo,ITA,United States Of America,World Cup,Parallel Giant Slalom,21,100.00
-67,Pflum Iris,Female,15-12-2022,Carezza,ITA,United States Of America,Qualification,Parallel Giant Slalom,22,
-68,Pflum Iris,Female,15-12-2022,Carezza,ITA,United States Of America,World Cup,Parallel Giant Slalom,22,90.00
-69,Pflum Iris,Female,11-12-2022,Winterberg,GER,United States Of America,World Cup,Parallel Slalom,23,80.00
-70,Pflum Iris,Female,10-12-2022,Winterberg,GER,United States Of America,Qualification,Parallel Slalom,23,
-71,Pflum Iris,Female,10-12-2022,Winterberg,GER,United States Of America,World Cup,Parallel Slalom Team,14,
-72,Pflum Iris,Female,06-04-2022,Copper Mountain Resort,USA,United States Of America,National Championships,Parallel Slalom,2,160.00
-73,Pflum Iris,Female,04-04-2022,Copper Mountain Resort,USA,United States Of America,National Championships,Parallel Giant Slalom,2,160.00
-74,Pflum Iris,Female,01-04-2022,Chiesa in Valmalenco,ITA,United States Of America,FIS Junior World Championships,Parallel Slalom,2,288.00
-75,Pflum Iris,Female,31-03-2022,Chiesa in Valmalenco,ITA,United States Of America,FIS Junior World Championships,Parallel Giant Slalom,12,79.20
-76,Pflum Iris,Female,20-03-2022,Berchtesgaden,GER,United States Of America,World Cup,Parallel  Slalom Team,15,
-77,Pflum Iris,Female,19-03-2022,Berchtesgaden,GER,United States Of America,Qualification,Parallel Slalom,23,
-78,Pflum Iris,Female,19-03-2022,Berchtesgaden,GER,United States Of America,World Cup,Parallel Slalom,23,80.00
-79,Pflum Iris,Female,17-03-2022,Rogla,SLO,United States Of America,European Cup,Parallel Giant Slalom,10,93.60
-80,Pflum Iris,Female,16-03-2022,Rogla,SLO,United States Of America,Qualification,Parallel Giant Slalom,27,
-81,Pflum Iris,Female,16-03-2022,Rogla,SLO,United States Of America,World Cup,Parallel Giant Slalom,27,45.00
-82,Pflum Iris,Female,13-03-2022,Piancavallo,ITA,United States Of America,World Cup,Parallel Slalom Team,11,
-83,Pflum Iris,Female,12-03-2022,Piancavallo,ITA,United States Of America,Qualification,Parallel Slalom,20,
-84,Pflum Iris,Female,12-03-2022,Piancavallo,ITA,United States Of America,World Cup,Parallel Slalom,20,110.00
-85,Pflum Iris,Female,01-03-2022,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,2,128.00
-86,Pflum Iris,Female,28-02-2022,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,2,144.00
-87,Pflum Iris,Female,24-02-2022,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,5,81.00
-88,Pflum Iris,Female,23-02-2022,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,2,128.00
-89,Pflum Iris,Female,15-02-2022,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,6,104.00
-90,Pflum Iris,Female,14-02-2022,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,4,130.00
-91,Pflum Iris,Female,10-02-2022,Tremblant.QC,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,1,160.00
-92,Pflum Iris,Female,09-02-2022,Tremblant.QC,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,1,160.00
-93,Pflum Iris,Female,04-02-2022,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Slalom,1,160.00
-94,Pflum Iris,Female,03-02-2022,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,1,160.00
-95,Pflum Iris,Female,22-01-2022,Giants Ridge,USA,United States Of America,Nor-Am Cup,Parallel Slalom,2,128.00
-96,Pflum Iris,Female,21-01-2022,Giants Ridge,USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,1,160.00
-97,Pflum Iris,Female,15-01-2022,Simonhöhe,AUT,United States Of America,World Cup,Parallel Giant Slalom Team,21,
-98,Pflum Iris,Female,14-01-2022,Simonhöhe,AUT,United States Of America,World Cup,Parallel Giant Slalom,41,18.20
-99,Pflum Iris,Female,14-01-2022,Simonhöhe,AUT,United States Of America,Qualification,Parallel Giant Slalom,41,
-100,Pflum Iris,Female,12-01-2022,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom Team,13,
-101,Pflum Iris,Female,11-01-2022,Bad Gastein,AUT,United States Of America,Qualification,Parallel Slalom,39,
-102,Pflum Iris,Female,11-01-2022,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom,39,18.80
-103,Pflum Iris,Female,08-01-2022,Scuol,SUI,United States Of America,Qualification,Parallel Giant Slalom,34,
-104,Pflum Iris,Female,08-01-2022,Scuol,SUI,United States Of America,World Cup,Parallel Giant Slalom,34,22.00
-105,Pflum Iris,Female,18-12-2021,Cortina d Ampezzo,ITA,United States Of America,Qualification,Parallel Giant Slalom,44,
-106,Pflum Iris,Female,18-12-2021,Cortina d Ampezzo,ITA,United States Of America,World Cup,Parallel Giant Slalom,44,17.30
-107,Pflum Iris,Female,16-12-2021,Carezza,ITA,United States Of America,Qualification,Parallel Giant Slalom,48,
-108,Pflum Iris,Female,16-12-2021,Carezza,ITA,United States Of America,World Cup,Parallel Giant Slalom,48,16.10
-109,Pflum Iris,Female,12-12-2021,Bannoye,RUS,United States Of America,Qualification,Parallel Slalom,42,
-110,Pflum Iris,Female,12-12-2021,Bannoye,RUS,United States Of America,World Cup,Parallel Slalom,42,17.90
-111,Pflum Iris,Female,11-12-2021,Bannoye,RUS,United States Of America,Qualification,Parallel Giant Slalom,47,
-112,Pflum Iris,Female,11-12-2021,Bannoye,RUS,United States Of America,World Cup,Parallel Giant Slalom,47,16.40
-113,Pflum Iris,Female,21-03-2021,Berchtesgaden,GER,United States Of America,World Cup,Parallel Slalom Team,20,
-114,Pflum Iris,Female,20-03-2021,Berchtesgaden,GER,United States Of America,Qualification,Parallel Slalom,39,
-115,Pflum Iris,Female,20-03-2021,Berchtesgaden,GER,United States Of America,World Cup,Parallel Slalom,39,
-116,Pflum Iris,Female,13-03-2021,Davos Rinerhorn,SUI,United States Of America,European Cup,Parallel Giant Slalom,24,25.20
-117,Pflum Iris,Female,07-03-2021,Simonhöhe,AUT,United States Of America,Junior,Parallel Giant Slalom,19,21.60
-118,Pflum Iris,Female,06-03-2021,Rogla,SLO,United States Of America,Qualification,Parallel Giant Slalom,44,
-119,Pflum Iris,Female,06-03-2021,Rogla,SLO,United States Of America,World Cup,Parallel Giant Slalom,44,17.30
-120,Pflum Iris,Female,02-03-2021,Rogla,SLO,United States Of America,World Championships,Parallel Slalom,34,22.00
-121,Pflum Iris,Female,02-03-2021,Rogla,SLO,United States Of America,Qualification,Parallel Slalom,34,
-122,Pflum Iris,Female,01-03-2021,Rogla,SLO,United States Of America,World Championships,Parallel Giant Slalom,32,26.00
-123,Pflum Iris,Female,01-03-2021,Rogla,SLO,United States Of America,Qualification,Parallel Giant Slalom,32,
-124,Pflum Iris,Female,07-02-2021,Bannoye,RUS,United States Of America,Qualification,Parallel Slalom,25,
-125,Pflum Iris,Female,07-02-2021,Bannoye,RUS,United States Of America,World Cup,Parallel Slalom,25,60.00
-126,Pflum Iris,Female,06-02-2021,Bannoye,RUS,United States Of America,Qualification,Parallel Giant Slalom,29,
-127,Pflum Iris,Female,06-02-2021,Bannoye,RUS,United States Of America,World Cup,Parallel Giant Slalom,29,36.00
-128,Pflum Iris,Female,30-01-2021,Moscow,RUS,United States Of America,Qualification,Parallel Slalom,20,
-129,Pflum Iris,Female,30-01-2021,Moscow,RUS,United States Of America,World Cup,Parallel Slalom,20,110.00
-130,Pflum Iris,Female,24-01-2021,Davos,SUI,United States Of America,European Cup,Parallel Slalom,31,10.08
-131,Pflum Iris,Female,23-01-2021,Davos,SUI,United States Of America,European Cup,Parallel Slalom,10,93.60
-132,Pflum Iris,Female,17-01-2021,Simonhoehe,AUT,United States Of America,European Cup,Parallel Giant Slalom,16,54.00
-133,Pflum Iris,Female,16-01-2021,Simonhoehe,AUT,United States Of America,European Cup,Parallel Giant Slalom,19,43.20
-134,Pflum Iris,Female,13-01-2021,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom Team,21,
-135,Pflum Iris,Female,12-01-2021,Bad Gastein,AUT,United States Of America,Qualification,Parallel Slalom,41,
-136,Pflum Iris,Female,12-01-2021,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom,41,18.20
-137,Pflum Iris,Female,09-01-2021,Scuol,SUI,United States Of America,Qualification,Parallel Giant Slalom,35,
-138,Pflum Iris,Female,09-01-2021,Scuol,SUI,United States Of America,World Cup,Parallel Giant Slalom,35,20.00
-139,Pflum Iris,Female,20-12-2020,Lachtal,AUT,United States Of America,FIS Junior World Championships,Parallel Giant Slalom,DNF,
-140,Pflum Iris,Female,19-12-2020,Lachtal,AUT,United States Of America,FIS Junior World Championships,Parallel Slalom,31,10.08
-141,Pflum Iris,Female,17-12-2020,Carezza,ITA,United States Of America,Qualification,Parallel Giant Slalom,42,
-142,Pflum Iris,Female,17-12-2020,Carezza,ITA,United States Of America,World Cup,Parallel Giant Slalom,42,
-143,Pflum Iris,Female,12-12-2020,Cortina d Ampezzo,ITA,United States Of America,Qualification,Parallel Giant Slalom,29,
-144,Pflum Iris,Female,12-12-2020,Cortina d Ampezzo,ITA,United States Of America,World Cup,Parallel Giant Slalom,29,36.00
-145,Pflum Iris,Female,03-03-2020,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,9,104.40
-146,Pflum Iris,Female,02-03-2020,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,DNF,
-147,Pflum Iris,Female,09-02-2020,Alpine Ski Club,CAN,United States Of America,FIS,Parallel Slalom,1,120.00
-148,Pflum Iris,Female,08-02-2020,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,2,128.00
-149,Pflum Iris,Female,07-02-2020,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,4,80.00
-150,Pflum Iris,Female,04-02-2020,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,3,96.00
-151,Pflum Iris,Female,03-02-2020,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,2,128.00
-152,Pflum Iris,Female,25-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,FIS,Parallel Giant Slalom,2,96.00
-153,Pflum Iris,Female,24-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Slalom,1,160.00
-154,Pflum Iris,Female,23-01-2020,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,5,72.00
-155,Pflum Iris,Female,10-01-2020,Tremblant.QC,CAN,United States Of America,FIS,Parallel Giant Slalom,1,120.00
-156,Pflum Iris,Female,22-12-2019,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,7,57.60
-157,Pflum Iris,Female,21-12-2019,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,4,80.00
-158,Pflum Iris,Female,20-12-2019,"Buck Hill, MN",USA,United States Of America,FIS,Parallel Slalom,6,48.00
-159,Pflum Iris,Female,20-12-2019,"Buck Hill, MN",USA,United States Of America,Junior,Parallel Slalom,1,70.00
-160,Pflum Iris,Female,03-04-2019,Rogla,SLO,United States Of America,FIS Junior World Championships,Parallel Slalom,26,16.00
-161,Pflum Iris,Female,02-04-2019,Rogla,SLO,United States Of America,FIS Junior World Championships,Parallel Giant Slalom,50,
-162,Pflum Iris,Female,05-03-2019,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,11,38.40
-163,Pflum Iris,Female,04-03-2019,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,13,32.00
-164,Pflum Iris,Female,01-03-2019,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,12,35.20
-165,Pflum Iris,Female,28-02-2019,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,12,35.20
-166,Pflum Iris,Female,10-02-2019,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,9,46.40
-167,Pflum Iris,Female,09-02-2019,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,12,35.20
-168,Pflum Iris,Female,16-12-2018,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,10,41.60
-169,Pflum Iris,Female,15-12-2018,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,15,25.60
-170,Pflum Iris,Female,15-12-2018,"Buck Hill, MN",USA,United States Of America,Junior,Parallel Slalom,6,28.00
-171,Pflum Iris,Female,14-12-2018,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,9,46.40
-172,Pflum Iris,Female,09-12-2018,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Slalom,11,38.40
-173,Pflum Iris,Female,08-12-2018,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,13,32.00
+0,Pflum Iris,Female,26-01-2025,Simonhöhe,AUT,United States Of America,European Cup,Parallel Giant Slalom,2,288.00
+1,Pflum Iris,Female,25-01-2025,Rogla,SLO,United States Of America,Qualification,Parallel Giant Slalom,16,
+2,Pflum Iris,Female,25-01-2025,Rogla,SLO,United States Of America,World Cup,Parallel Giant Slalom,16,150.00
+3,Pflum Iris,Female,19-01-2025,Bansko,BUL,United States Of America,Qualification,Parallel Giant Slalom,22,
+4,Pflum Iris,Female,19-01-2025,Bansko,BUL,United States Of America,World Cup,Parallel Giant Slalom,22,90.00
+5,Pflum Iris,Female,18-01-2025,Bansko,BUL,United States Of America,Qualification,Parallel Giant Slalom,31,
+6,Pflum Iris,Female,18-01-2025,Bansko,BUL,United States Of America,World Cup,Parallel Giant Slalom,31,28.00
+7,Pflum Iris,Female,15-01-2025,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom Team,13,
+8,Pflum Iris,Female,14-01-2025,Bad Gastein,AUT,United States Of America,Qualification,Parallel Slalom,19,
+9,Pflum Iris,Female,14-01-2025,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom,19,120.00
+10,Pflum Iris,Female,11-01-2025,Scuol,SUI,United States Of America,Qualification,Parallel Giant Slalom,14,
+11,Pflum Iris,Female,11-01-2025,Scuol,SUI,United States Of America,World Cup,Parallel Giant Slalom,14,180.00
+12,Pflum Iris,Female,21-12-2024,Davos,SUI,United States Of America,Qualification,Parallel Slalom,16,
+13,Pflum Iris,Female,21-12-2024,Davos,SUI,United States Of America,World Cup,Parallel Slalom,16,150.00
+14,Pflum Iris,Female,14-12-2024,Cortina d'Ampezzo,ITA,United States Of America,Qualification,Parallel Giant Slalom,26,
+15,Pflum Iris,Female,14-12-2024,Cortina d'Ampezzo,ITA,United States Of America,World Cup,Parallel Giant Slalom,26,50.00
+16,Pflum Iris,Female,12-12-2024,Carezza,ITA,United States Of America,Qualification,Parallel Giant Slalom,20,
+17,Pflum Iris,Female,12-12-2024,Carezza,ITA,United States Of America,World Cup,Parallel Giant Slalom,20,110.00
+18,Pflum Iris,Female,08-12-2024,Yanqing (NASC),CHN,United States Of America,World Cup,Parallel Slalom,8,320.00
+19,Pflum Iris,Female,08-12-2024,Yanqing (NASC),CHN,United States Of America,Qualification,Parallel Slalom,16,
+20,Pflum Iris,Female,07-12-2024,Yanqing (NASC),CHN,United States Of America,World Cup,Parallel Giant Slalom,29,36.00
+21,Pflum Iris,Female,07-12-2024,Yanqing (NASC),CHN,United States Of America,Qualification,Parallel Giant Slalom,29,
+22,Pflum Iris,Female,01-12-2024,Mylin,CHN,United States Of America,World Cup,Parallel Slalom,13,200.00
+23,Pflum Iris,Female,01-12-2024,Mylin,CHN,United States Of America,Qualification,Parallel Slalom,13,
+24,Pflum Iris,Female,30-11-2024,Mylin,CHN,United States Of America,World Cup,Parallel Giant Slalom,19,120.00
+25,Pflum Iris,Female,30-11-2024,Mylin,CHN,United States Of America,Qualification,Parallel Giant Slalom,19,
+26,Pflum Iris,Female,02-04-2024,"Copper Mountain, CO",USA,United States Of America,National Championships,Parallel Slalom,1,180.00
+27,Pflum Iris,Female,01-04-2024,"Copper Mountain, CO",USA,United States Of America,National Championships,Parallel Giant Slalom,1,180.00
+28,Pflum Iris,Female,31-03-2024,"Copper Mountain, CO",USA,United States Of America,National Championships,Snowboard Cross,2,56.00
+29,Pflum Iris,Female,17-03-2024,St. Moritz,SUI,United States Of America,European Cup,Parallel Slalom,18,46.80
+30,Pflum Iris,Female,16-03-2024,St. Moritz,SUI,United States Of America,European Cup,Parallel Giant Slalom,12,79.20
+31,Pflum Iris,Female,10-03-2024,Winterberg,GER,United States Of America,World Cup,Parallel Slalom Team,11,
+32,Pflum Iris,Female,09-03-2024,Winterberg,GER,United States Of America,Qualification,Parallel Slalom,18,
+33,Pflum Iris,Female,09-03-2024,Winterberg,GER,United States Of America,World Cup,Parallel Slalom,18,130.00
+34,Pflum Iris,Female,25-02-2024,Krynica,POL,United States Of America,Qualification,Parallel Giant Slalom,15,
+35,Pflum Iris,Female,25-02-2024,Krynica,POL,United States Of America,World Cup,Parallel Giant Slalom,15,160.00
+36,Pflum Iris,Female,24-02-2024,Krynica,POL,United States Of America,Qualification,Parallel Giant Slalom,20,
+37,Pflum Iris,Female,24-02-2024,Krynica,POL,United States Of America,World Cup,Parallel Giant Slalom,20,110.00
+38,Pflum Iris,Female,27-01-2024,Simonhöhe,AUT,United States Of America,Qualification,Parallel Giant Slalom,17,
+39,Pflum Iris,Female,27-01-2024,Simonhöhe,AUT,United States Of America,World Cup,Parallel Giant Slalom,17,140.00
+40,Pflum Iris,Female,25-01-2024,Rogla,SLO,United States Of America,Qualification,Parallel Giant Slalom,15,
+41,Pflum Iris,Female,25-01-2024,Rogla,SLO,United States Of America,World Cup,Parallel Giant Slalom,15,160.00
+42,Pflum Iris,Female,21-01-2024,Pamporovo,BUL,United States Of America,Qualification,Parallel Slalom,DSQ,
+43,Pflum Iris,Female,21-01-2024,Pamporovo,BUL,United States Of America,World Cup,Parallel Slalom,DSQ,
+44,Pflum Iris,Female,20-01-2024,Pamporovo,BUL,United States Of America,Qualification,Parallel Slalom,38,
+45,Pflum Iris,Female,20-01-2024,Pamporovo,BUL,United States Of America,World Cup,Parallel Slalom,38,
+46,Pflum Iris,Female,17-01-2024,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom Team,9,
+47,Pflum Iris,Female,16-01-2024,Bad Gastein,AUT,United States Of America,Qualification,Parallel Slalom,16,
+48,Pflum Iris,Female,16-01-2024,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom,16,150.00
+49,Pflum Iris,Female,13-01-2024,Scuol,SUI,United States Of America,Qualification,Parallel Giant Slalom,9,
+50,Pflum Iris,Female,13-01-2024,Scuol,SUI,United States Of America,World Cup,Parallel Giant Slalom,12,220.00
+51,Pflum Iris,Female,23-12-2023,Davos ,SUI,United States Of America,Qualification,Parallel Slalom,21,
+52,Pflum Iris,Female,23-12-2023,Davos,SUI,United States Of America,World Cup,Parallel Slalom,21,100.00
+53,Pflum Iris,Female,19-12-2023,Moninec,CZE,United States Of America,European Cup,Parallel Slalom,15,41.60
+54,Pflum Iris,Female,16-12-2023,Cortina d'Ampezzo,ITA,United States Of America,Qualification,Parallel Giant Slalom,21,
+55,Pflum Iris,Female,16-12-2023,Cortina d'Ampezzo,ITA,United States Of America,World Cup,Parallel Giant Slalom,21,100.00
+56,Pflum Iris,Female,14-12-2023,Carezza,ITA,United States Of America,Qualification,Parallel Giant Slalom,14,
+57,Pflum Iris,Female,14-12-2023,Carezza,ITA,United States Of America,World Cup,Parallel Giant Slalom,14,180.00
+58,Pflum Iris,Female,09-12-2023,Götschen,GER,United States Of America,Qualification,Parallel Slalom,10,
+59,Pflum Iris,Female,09-12-2023,Götschen,GER,United States Of America,European Cup,Parallel Slalom,7,129.60
+60,Pflum Iris,Female,08-12-2023,Götschen,GER,United States Of America,Qualification,Parallel Slalom,9,
+61,Pflum Iris,Female,08-12-2023,Götschen,GER,United States Of America,European Cup,Parallel Slalom,10,93.60
+62,Pflum Iris,Female,25-03-2023,Bansko,BUL,United States Of America,FIS Junior World Championships,Parallel Slalom,2,288.00
+63,Pflum Iris,Female,25-03-2023,Bansko,BUL,United States Of America,Qualification,Parallel Slalom,2,
+64,Pflum Iris,Female,24-03-2023,Bansko,BUL,United States Of America,FIS Junior World Championships,Parallel Giant Slalom,2,288.00
+65,Pflum Iris,Female,24-03-2023,Bansko,BUL,United States Of America,Qualification,Parallel Giant Slalom,2,
+66,Pflum Iris,Female,19-03-2023,Berchtesgaden,GER,United States Of America,World Cup,Parallel Slalom Team,4,
+67,Pflum Iris,Female,18-03-2023,Berchtesgaden,GER,United States Of America,Qualification,Parallel Slalom,22,
+68,Pflum Iris,Female,18-03-2023,Berchtesgaden,GER,United States Of America,World Cup,Parallel Slalom,22,90.00
+69,Pflum Iris,Female,15-03-2023,Rogla,SLO,United States Of America,World Cup,Parallel Giant Slalom,23,80.00
+70,Pflum Iris,Female,15-03-2023,Rogla,SLO,United States Of America,Qualification,Parallel Giant Slalom,23,
+71,Pflum Iris,Female,22-02-2023,Bakuriani,GEO,United States Of America,World Championships,Parallel Slalom Team,12,
+72,Pflum Iris,Female,21-02-2023,Bakuriani,GEO,United States Of America,Qualification,Parallel Slalom,18,
+73,Pflum Iris,Female,21-02-2023,Bakuriani,GEO,United States Of America,World Championships,Parallel Slalom,18,130.00
+74,Pflum Iris,Female,19-02-2023,Bakuriani,GEO,United States Of America,Qualification,Parallel Giant Slalom,23,
+75,Pflum Iris,Female,19-02-2023,Bakuriani,GEO,United States Of America,World Championships,Parallel Giant Slalom,23,80.00
+76,Pflum Iris,Female,31-01-2023,Blue,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,2,208.00
+77,Pflum Iris,Female,30-01-2023,Blue,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,2,208.00
+78,Pflum Iris,Female,27-01-2023,Blue Mountain,CAN,United States Of America,Qualification,Parallel Giant Slalom,19,
+79,Pflum Iris,Female,27-01-2023,Blue Mountain,CAN,United States Of America,World Cup,Parallel Giant Slalom,19,120.00
+80,Pflum Iris,Female,26-01-2023,Blue Mountain,CAN,United States Of America,Qualification,Parallel Giant Slalom,26,
+81,Pflum Iris,Female,26-01-2023,Blue Mountain,CAN,United States Of America,World Cup,Parallel Giant Slalom,26,50.00
+82,Pflum Iris,Female,22-01-2023,Bansko,BUL,United States Of America,Qualification,Parallel Slalom,17,
+83,Pflum Iris,Female,22-01-2023,Bansko,BUL,United States Of America,World Cup,Parallel Slalom,17,140.00
+84,Pflum Iris,Female,21-01-2023,Bansko,BUL,United States Of America,Qualification,Parallel Slalom,17,
+85,Pflum Iris,Female,21-01-2023,Bansko,BUL,United States Of America,World Cup,Parallel Slalom,17,140.00
+86,Pflum Iris,Female,14-01-2023,Scuol,SUI,United States Of America,Qualification,Parallel Giant Slalom,17,
+87,Pflum Iris,Female,14-01-2023,Scuol,SUI,United States Of America,World Cup,Parallel Giant Slalom,17,140.00
+88,Pflum Iris,Female,11-01-2023,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom Team,17,
+89,Pflum Iris,Female,10-01-2023,Bad Gastein,AUT,United States Of America,Qualification,Parallel Slalom,24,
+90,Pflum Iris,Female,10-01-2023,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom,24,70.00
+91,Pflum Iris,Female,17-12-2022,Cortina d'Ampezzo,ITA,United States Of America,Qualification,Parallel Giant Slalom,21,
+92,Pflum Iris,Female,17-12-2022,Cortina d'Ampezzo,ITA,United States Of America,World Cup,Parallel Giant Slalom,21,100.00
+93,Pflum Iris,Female,15-12-2022,Carezza,ITA,United States Of America,Qualification,Parallel Giant Slalom,22,
+94,Pflum Iris,Female,15-12-2022,Carezza,ITA,United States Of America,World Cup,Parallel Giant Slalom,22,90.00
+95,Pflum Iris,Female,11-12-2022,Winterberg,GER,United States Of America,World Cup,Parallel Slalom,23,80.00
+96,Pflum Iris,Female,10-12-2022,Winterberg,GER,United States Of America,Qualification,Parallel Slalom,23,
+97,Pflum Iris,Female,10-12-2022,Winterberg,GER,United States Of America,World Cup,Parallel Slalom Team,14,
+98,Pflum Iris,Female,06-04-2022,Copper Mountain Resort,USA,United States Of America,National Championships,Parallel Slalom,2,160.00
+99,Pflum Iris,Female,04-04-2022,Copper Mountain Resort,USA,United States Of America,National Championships,Parallel Giant Slalom,2,160.00
+100,Pflum Iris,Female,01-04-2022,Chiesa in Valmalenco,ITA,United States Of America,FIS Junior World Championships,Parallel Slalom,2,288.00
+101,Pflum Iris,Female,31-03-2022,Chiesa in Valmalenco,ITA,United States Of America,FIS Junior World Championships,Parallel Giant Slalom,12,79.20
+102,Pflum Iris,Female,20-03-2022,Berchtesgaden,GER,United States Of America,World Cup,Parallel  Slalom Team,15,
+103,Pflum Iris,Female,19-03-2022,Berchtesgaden,GER,United States Of America,Qualification,Parallel Slalom,23,
+104,Pflum Iris,Female,19-03-2022,Berchtesgaden,GER,United States Of America,World Cup,Parallel Slalom,23,80.00
+105,Pflum Iris,Female,17-03-2022,Rogla,SLO,United States Of America,European Cup,Parallel Giant Slalom,10,93.60
+106,Pflum Iris,Female,16-03-2022,Rogla,SLO,United States Of America,Qualification,Parallel Giant Slalom,27,
+107,Pflum Iris,Female,16-03-2022,Rogla,SLO,United States Of America,World Cup,Parallel Giant Slalom,27,45.00
+108,Pflum Iris,Female,13-03-2022,Piancavallo,ITA,United States Of America,World Cup,Parallel Slalom Team,11,
+109,Pflum Iris,Female,12-03-2022,Piancavallo,ITA,United States Of America,Qualification,Parallel Slalom,20,
+110,Pflum Iris,Female,12-03-2022,Piancavallo,ITA,United States Of America,World Cup,Parallel Slalom,20,110.00
+111,Pflum Iris,Female,01-03-2022,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,2,128.00
+112,Pflum Iris,Female,28-02-2022,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,2,144.00
+113,Pflum Iris,Female,24-02-2022,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,5,81.00
+114,Pflum Iris,Female,23-02-2022,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,2,128.00
+115,Pflum Iris,Female,15-02-2022,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,6,104.00
+116,Pflum Iris,Female,14-02-2022,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,4,130.00
+117,Pflum Iris,Female,10-02-2022,Tremblant.QC,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,1,160.00
+118,Pflum Iris,Female,09-02-2022,Tremblant.QC,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,1,160.00
+119,Pflum Iris,Female,04-02-2022,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Slalom,1,160.00
+120,Pflum Iris,Female,03-02-2022,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,1,160.00
+121,Pflum Iris,Female,22-01-2022,Giants Ridge,USA,United States Of America,Nor-Am Cup,Parallel Slalom,2,128.00
+122,Pflum Iris,Female,21-01-2022,Giants Ridge,USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,1,160.00
+123,Pflum Iris,Female,15-01-2022,Simonhöhe,AUT,United States Of America,World Cup,Parallel Giant Slalom Team,21,
+124,Pflum Iris,Female,14-01-2022,Simonhöhe,AUT,United States Of America,World Cup,Parallel Giant Slalom,41,18.20
+125,Pflum Iris,Female,14-01-2022,Simonhöhe,AUT,United States Of America,Qualification,Parallel Giant Slalom,41,
+126,Pflum Iris,Female,12-01-2022,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom Team,13,
+127,Pflum Iris,Female,11-01-2022,Bad Gastein,AUT,United States Of America,Qualification,Parallel Slalom,39,
+128,Pflum Iris,Female,11-01-2022,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom,39,18.80
+129,Pflum Iris,Female,08-01-2022,Scuol,SUI,United States Of America,Qualification,Parallel Giant Slalom,34,
+130,Pflum Iris,Female,08-01-2022,Scuol,SUI,United States Of America,World Cup,Parallel Giant Slalom,34,22.00
+131,Pflum Iris,Female,18-12-2021,Cortina d Ampezzo,ITA,United States Of America,Qualification,Parallel Giant Slalom,44,
+132,Pflum Iris,Female,18-12-2021,Cortina d Ampezzo,ITA,United States Of America,World Cup,Parallel Giant Slalom,44,17.30
+133,Pflum Iris,Female,16-12-2021,Carezza,ITA,United States Of America,Qualification,Parallel Giant Slalom,48,
+134,Pflum Iris,Female,16-12-2021,Carezza,ITA,United States Of America,World Cup,Parallel Giant Slalom,48,16.10
+135,Pflum Iris,Female,12-12-2021,Bannoye,RUS,United States Of America,Qualification,Parallel Slalom,42,
+136,Pflum Iris,Female,12-12-2021,Bannoye,RUS,United States Of America,World Cup,Parallel Slalom,42,17.90
+137,Pflum Iris,Female,11-12-2021,Bannoye,RUS,United States Of America,Qualification,Parallel Giant Slalom,47,
+138,Pflum Iris,Female,11-12-2021,Bannoye,RUS,United States Of America,World Cup,Parallel Giant Slalom,47,16.40
+139,Pflum Iris,Female,21-03-2021,Berchtesgaden,GER,United States Of America,World Cup,Parallel Slalom Team,20,
+140,Pflum Iris,Female,20-03-2021,Berchtesgaden,GER,United States Of America,Qualification,Parallel Slalom,39,
+141,Pflum Iris,Female,20-03-2021,Berchtesgaden,GER,United States Of America,World Cup,Parallel Slalom,39,
+142,Pflum Iris,Female,13-03-2021,Davos Rinerhorn,SUI,United States Of America,European Cup,Parallel Giant Slalom,24,25.20
+143,Pflum Iris,Female,07-03-2021,Simonhöhe,AUT,United States Of America,Junior,Parallel Giant Slalom,19,21.60
+144,Pflum Iris,Female,06-03-2021,Rogla,SLO,United States Of America,Qualification,Parallel Giant Slalom,44,
+145,Pflum Iris,Female,06-03-2021,Rogla,SLO,United States Of America,World Cup,Parallel Giant Slalom,44,17.30
+146,Pflum Iris,Female,02-03-2021,Rogla,SLO,United States Of America,World Championships,Parallel Slalom,34,22.00
+147,Pflum Iris,Female,02-03-2021,Rogla,SLO,United States Of America,Qualification,Parallel Slalom,34,
+148,Pflum Iris,Female,01-03-2021,Rogla,SLO,United States Of America,World Championships,Parallel Giant Slalom,32,26.00
+149,Pflum Iris,Female,01-03-2021,Rogla,SLO,United States Of America,Qualification,Parallel Giant Slalom,32,
+150,Pflum Iris,Female,07-02-2021,Bannoye,RUS,United States Of America,Qualification,Parallel Slalom,25,
+151,Pflum Iris,Female,07-02-2021,Bannoye,RUS,United States Of America,World Cup,Parallel Slalom,25,60.00
+152,Pflum Iris,Female,06-02-2021,Bannoye,RUS,United States Of America,Qualification,Parallel Giant Slalom,29,
+153,Pflum Iris,Female,06-02-2021,Bannoye,RUS,United States Of America,World Cup,Parallel Giant Slalom,29,36.00
+154,Pflum Iris,Female,30-01-2021,Moscow,RUS,United States Of America,Qualification,Parallel Slalom,20,
+155,Pflum Iris,Female,30-01-2021,Moscow,RUS,United States Of America,World Cup,Parallel Slalom,20,110.00
+156,Pflum Iris,Female,24-01-2021,Davos,SUI,United States Of America,European Cup,Parallel Slalom,31,10.08
+157,Pflum Iris,Female,23-01-2021,Davos,SUI,United States Of America,European Cup,Parallel Slalom,10,93.60
+158,Pflum Iris,Female,17-01-2021,Simonhoehe,AUT,United States Of America,European Cup,Parallel Giant Slalom,16,54.00
+159,Pflum Iris,Female,16-01-2021,Simonhoehe,AUT,United States Of America,European Cup,Parallel Giant Slalom,19,43.20
+160,Pflum Iris,Female,13-01-2021,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom Team,21,
+161,Pflum Iris,Female,12-01-2021,Bad Gastein,AUT,United States Of America,Qualification,Parallel Slalom,41,
+162,Pflum Iris,Female,12-01-2021,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom,41,18.20
+163,Pflum Iris,Female,09-01-2021,Scuol,SUI,United States Of America,Qualification,Parallel Giant Slalom,35,
+164,Pflum Iris,Female,09-01-2021,Scuol,SUI,United States Of America,World Cup,Parallel Giant Slalom,35,20.00
+165,Pflum Iris,Female,20-12-2020,Lachtal,AUT,United States Of America,FIS Junior World Championships,Parallel Giant Slalom,DNF,
+166,Pflum Iris,Female,19-12-2020,Lachtal,AUT,United States Of America,FIS Junior World Championships,Parallel Slalom,31,10.08
+167,Pflum Iris,Female,17-12-2020,Carezza,ITA,United States Of America,Qualification,Parallel Giant Slalom,42,
+168,Pflum Iris,Female,17-12-2020,Carezza,ITA,United States Of America,World Cup,Parallel Giant Slalom,42,
+169,Pflum Iris,Female,12-12-2020,Cortina d Ampezzo,ITA,United States Of America,Qualification,Parallel Giant Slalom,29,
+170,Pflum Iris,Female,12-12-2020,Cortina d Ampezzo,ITA,United States Of America,World Cup,Parallel Giant Slalom,29,36.00
+171,Pflum Iris,Female,03-03-2020,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,9,104.40
+172,Pflum Iris,Female,02-03-2020,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,DNF,
+173,Pflum Iris,Female,09-02-2020,Alpine Ski Club,CAN,United States Of America,FIS,Parallel Slalom,1,120.00
+174,Pflum Iris,Female,08-02-2020,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,2,128.00
+175,Pflum Iris,Female,07-02-2020,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,4,80.00
+176,Pflum Iris,Female,04-02-2020,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,3,96.00
+177,Pflum Iris,Female,03-02-2020,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,2,128.00
+178,Pflum Iris,Female,25-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,FIS,Parallel Giant Slalom,2,96.00
+179,Pflum Iris,Female,24-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Slalom,1,160.00
+180,Pflum Iris,Female,23-01-2020,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,5,72.00
+181,Pflum Iris,Female,10-01-2020,Tremblant.QC,CAN,United States Of America,FIS,Parallel Giant Slalom,1,120.00
+182,Pflum Iris,Female,22-12-2019,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,7,57.60
+183,Pflum Iris,Female,21-12-2019,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,4,80.00
+184,Pflum Iris,Female,20-12-2019,"Buck Hill, MN",USA,United States Of America,FIS,Parallel Slalom,6,48.00
+185,Pflum Iris,Female,20-12-2019,"Buck Hill, MN",USA,United States Of America,Junior,Parallel Slalom,1,70.00
+186,Pflum Iris,Female,03-04-2019,Rogla,SLO,United States Of America,FIS Junior World Championships,Parallel Slalom,26,16.00
+187,Pflum Iris,Female,02-04-2019,Rogla,SLO,United States Of America,FIS Junior World Championships,Parallel Giant Slalom,50,
+188,Pflum Iris,Female,05-03-2019,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,11,38.40
+189,Pflum Iris,Female,04-03-2019,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,13,32.00
+190,Pflum Iris,Female,01-03-2019,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,12,35.20
+191,Pflum Iris,Female,28-02-2019,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,12,35.20
+192,Pflum Iris,Female,10-02-2019,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,9,46.40
+193,Pflum Iris,Female,09-02-2019,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,12,35.20
+194,Pflum Iris,Female,16-12-2018,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,10,41.60
+195,Pflum Iris,Female,15-12-2018,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,15,25.60
+196,Pflum Iris,Female,15-12-2018,"Buck Hill, MN",USA,United States Of America,Junior,Parallel Slalom,6,28.00
+197,Pflum Iris,Female,14-12-2018,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,9,46.40
+198,Pflum Iris,Female,09-12-2018,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Slalom,11,38.40
+199,Pflum Iris,Female,08-12-2018,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,13,32.00

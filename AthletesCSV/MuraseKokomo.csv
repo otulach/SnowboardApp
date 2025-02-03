@@ -1,65 +1,75 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Murase Kokomo,Female,19-10-2024,Chur,SUI,Japan,World Cup,Big Air,4,578.40
-1,Murase Kokomo,Female,02-09-2024,Cardrona,NZL,Japan,World Cup,Slopestyle,1,1000.00
-2,Murase Kokomo,Female,31-08-2024,Cardrona,NZL,Japan,Qualification,Slopestyle,1,
-3,Murase Kokomo,Female,23-03-2024,Silvaplana,SUI,Japan,World Cup,Slopestyle,2,658.60
-4,Murase Kokomo,Female,21-03-2024,Silvaplana,SUI,Japan,Qualification,Slopestyle,1,
-5,Murase Kokomo,Female,15-03-2024,Tignes,FRA,Japan,World Cup,Slopestyle,1,800.00
-6,Murase Kokomo,Female,14-03-2024,Tignes,FRA,Japan,Qualification,Slopestyle,5,
-7,Murase Kokomo,Female,03-03-2024,Tsugaike,JPN,Japan,National Championships,Big Air,1,290.00
-8,Murase Kokomo,Female,03-03-2024,Tsugaike,JPN,Japan,National Championships,Slopestyle,1,180.00
-9,Murase Kokomo,Female,28-02-2024,Hakuba,JPN,Japan,Asian Cup,Slopestyle,1,240.00
-10,Murase Kokomo,Female,20-01-2024,Laax,SUI,Japan,World Cup,Slopestyle,5,488.80
-11,Murase Kokomo,Female,16-01-2024,Laax,SUI,Japan,Qualification,Slopestyle,4,
-12,Murase Kokomo,Female,15-12-2023,Copper Mountain,USA,Japan,World Cup,Big Air,1,1000.00
-13,Murase Kokomo,Female,13-12-2023,Copper Mountain,USA,Japan,Qualification,Big Air,1,
-14,Murase Kokomo,Female,21-10-2023,Chur,SUI,Japan,Qualification,Big Air,4,
-15,Murase Kokomo,Female,21-10-2023,Chur,SUI,Japan,World Cup,Big Air,1,1000.00
-16,Murase Kokomo,Female,22-01-2023,Laax,SUI,Japan,World Cup,Slopestyle,9,277.30
-17,Murase Kokomo,Female,20-01-2023,Laax,SUI,Japan,Qualification,Slopestyle,9,
-18,Murase Kokomo,Female,14-01-2023,Kreischberg,AUT,Japan,World Cup,Big Air,3,680.80
-19,Murase Kokomo,Female,14-01-2023,Kreischberg,AUT,Japan,Qualification,Big Air,1,
-20,Murase Kokomo,Female,17-12-2022,Copper Mountain,USA,Japan,World Cup,Big Air,5,382.20
-21,Murase Kokomo,Female,15-12-2022,Copper Mountain,USA,Japan,Qualification,Big Air,1,
-22,Murase Kokomo,Female,10-12-2022,Edmonton,CAN,Japan,World Cup,Big Air,8,170.60
-23,Murase Kokomo,Female,09-12-2022,Edmonton,CAN,Japan,Qualification,Big Air,6,
-24,Murase Kokomo,Female,22-10-2022,Chur,SUI,Japan,Qualification,Big Air,7,
-25,Murase Kokomo,Female,22-10-2022,Chur,SUI,Japan,World Cup,Big Air,5,475.00
-26,Murase Kokomo,Female,27-03-2022,Silvaplana,SUI,Japan,World Cup,Slopestyle,3,676.30
-27,Murase Kokomo,Female,25-03-2022,Silvaplana,SUI,Japan,Qualification,Slopestyle,1,
-28,Murase Kokomo,Female,19-03-2022,Spindleruv Mlyn,CZE,Japan,World Cup,Slopestyle,1,600.00
-29,Murase Kokomo,Female,18-03-2022,Spindleruv Mlyn,CZE,Japan,Qualification,Slopestyle,1,
-30,Murase Kokomo,Female,15-02-2022,Beijing,CHN,Japan,Olympic Winter Games,Big Air,3,687.10
-31,Murase Kokomo,Female,14-02-2022,Beijing,CHN,Japan,Qualification,Big Air,2,
-32,Murase Kokomo,Female,06-02-2022,Beijing,CHN,Japan,Olympic Winter Games,Slopestyle,10,245.60
-33,Murase Kokomo,Female,05-02-2022,Beijing,CHN,Japan,Qualification,Slopestyle,2,
-34,Murase Kokomo,Female,08-01-2022,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,3,684.90
-35,Murase Kokomo,Female,06-01-2022,Mammoth Mountain,USA,Japan,Qualification,Slopestyle,1,
-36,Murase Kokomo,Female,01-01-2022,Calgary,CAN,Japan,World Cup,Slopestyle,1,800.00
-37,Murase Kokomo,Female,31-12-2021,Calgary,CAN,Japan,Qualification,Slopestyle,1,
-38,Murase Kokomo,Female,04-12-2021,Steamboat,USA,Japan,World Cup,Big Air,7,367.40
-39,Murase Kokomo,Female,02-12-2021,Steamboat,USA,Japan,Qualification,Big Air,4,
-40,Murase Kokomo,Female,23-10-2021,Chur,SUI,Japan,World Cup,Big Air,1,1000.00
-41,Murase Kokomo,Female,28-03-2021,Silvaplana,SUI,Japan,World Cup,Slopestyle,2,494.17
-42,Murase Kokomo,Female,28-03-2021,Silvaplana,SUI,Japan,Qualification,Slopestyle,3,
-43,Murase Kokomo,Female,20-03-2021,Aspen,USA,Japan,World Cup,Slopestyle,4,578.39
-44,Murase Kokomo,Female,19-03-2021,Aspen,USA,Japan,Qualification,Slopestyle,1,
-45,Murase Kokomo,Female,16-03-2021,Aspen,USA,Japan,World Championships,Big Air,6,414.66
-46,Murase Kokomo,Female,14-03-2021,Aspen,USA,Japan,Qualification,Big Air,5,
-47,Murase Kokomo,Female,12-03-2021,Aspen,USA,Japan,World Championships,Slopestyle,5,487.33
-48,Murase Kokomo,Female,10-03-2021,Aspen,USA,Japan,Qualification,Slopestyle,6,
-49,Murase Kokomo,Female,22-01-2021,Laax,SUI,Japan,World Cup,Slopestyle,7,289.34
-50,Murase Kokomo,Female,20-01-2021,Laax,SUI,Japan,Qualification,Slopestyle,3,
-51,Murase Kokomo,Female,09-01-2021,Kreischberg,AUT,Japan,World Cup,Big Air,2,825.16
-52,Murase Kokomo,Female,07-01-2021,Kreischberg ,AUT,Japan,Qualification,Big Air,2,
-53,Murase Kokomo,Female,16-02-2020,Calgary,CAN,Japan,World Cup,Slopestyle,12,220.00
-54,Murase Kokomo,Female,14-02-2020,Calgary,CAN,Japan,Qualification,Slopestyle,12,
-55,Murase Kokomo,Female,20-12-2019,Atlanta,USA,Japan,World Cup,Big Air,2,800.00
-56,Murase Kokomo,Female,14-12-2019,Beijing,CHN,Japan,World Cup,Big Air,5,450.00
-57,Murase Kokomo,Female,12-12-2019,Beijing,CHN,Japan,Qualification,Big Air,1,
-58,Murase Kokomo,Female,31-08-2018,Cardrona,NZL,Japan,FIS Junior World Championships,Slopestyle,1,240.00
-59,Murase Kokomo,Female,30-08-2018,Cardrona,NZL,Japan,Qualification,Slopestyle,1,
-60,Murase Kokomo,Female,29-08-2018,Cardrona,NZL,Japan,FIS Junior World Championships,Big Air,1,240.00
-61,Murase Kokomo,Female,24-08-2018,Cardrona,NZL,Japan,Qualification,Big Air,1,
-62,Murase Kokomo,Female,15-03-2018,Tokura  Katashina,JPN,Japan,National Championships,Slopestyle,1,50.00
-63,Murase Kokomo,Female,14-03-2018,Tokura  Katashina,JPN,Japan,FIS,Slopestyle,4,25.00
+0,Murase Kokomo,Female,02-02-2025,Aspen,USA,Japan,World Cup,Slopestyle,2,
+1,Murase Kokomo,Female,31-01-2025,Aspen,USA,Japan,Qualification,Slopestyle,3,
+2,Murase Kokomo,Female,18-01-2025,Laax,SUI,Japan,World Cup,Slopestyle,3,688.30
+3,Murase Kokomo,Female,16-01-2025,Laax,SUI,Japan,Qualification,Slopestyle,8,
+4,Murase Kokomo,Female,11-01-2025,Kreischberg,AUT,Japan,World Cup,Big Air,DNS,
+5,Murase Kokomo,Female,09-01-2025,Kreischberg,AUT,Japan,Qualification,Big Air,DNS,
+6,Murase Kokomo,Female,05-01-2025,Klagenfurt,AUT,Japan,World Cup,Big Air,8,295.90
+7,Murase Kokomo,Female,03-01-2025,Klagenfurt,AUT,Japan,Qualification,Big Air,1,
+8,Murase Kokomo,Female,01-12-2024,Beijing,CHN,Japan,World Cup,Big Air,8,300.00
+9,Murase Kokomo,Female,30-11-2024,Beijing,CHN,Japan,Qualification,Big Air,1,
+10,Murase Kokomo,Female,19-10-2024,Chur,SUI,Japan,World Cup,Big Air,4,578.40
+11,Murase Kokomo,Female,02-09-2024,Cardrona,NZL,Japan,World Cup,Slopestyle,1,1000.00
+12,Murase Kokomo,Female,31-08-2024,Cardrona,NZL,Japan,Qualification,Slopestyle,1,
+13,Murase Kokomo,Female,23-03-2024,Silvaplana,SUI,Japan,World Cup,Slopestyle,2,658.60
+14,Murase Kokomo,Female,21-03-2024,Silvaplana,SUI,Japan,Qualification,Slopestyle,1,
+15,Murase Kokomo,Female,15-03-2024,Tignes,FRA,Japan,World Cup,Slopestyle,1,800.00
+16,Murase Kokomo,Female,14-03-2024,Tignes,FRA,Japan,Qualification,Slopestyle,5,
+17,Murase Kokomo,Female,03-03-2024,Tsugaike,JPN,Japan,National Championships,Big Air,1,290.00
+18,Murase Kokomo,Female,03-03-2024,Tsugaike,JPN,Japan,National Championships,Slopestyle,1,180.00
+19,Murase Kokomo,Female,28-02-2024,Hakuba,JPN,Japan,Asian Cup,Slopestyle,1,240.00
+20,Murase Kokomo,Female,20-01-2024,Laax,SUI,Japan,World Cup,Slopestyle,5,488.80
+21,Murase Kokomo,Female,16-01-2024,Laax,SUI,Japan,Qualification,Slopestyle,4,
+22,Murase Kokomo,Female,15-12-2023,Copper Mountain,USA,Japan,World Cup,Big Air,1,1000.00
+23,Murase Kokomo,Female,13-12-2023,Copper Mountain,USA,Japan,Qualification,Big Air,1,
+24,Murase Kokomo,Female,21-10-2023,Chur,SUI,Japan,Qualification,Big Air,4,
+25,Murase Kokomo,Female,21-10-2023,Chur,SUI,Japan,World Cup,Big Air,1,1000.00
+26,Murase Kokomo,Female,22-01-2023,Laax,SUI,Japan,World Cup,Slopestyle,9,277.30
+27,Murase Kokomo,Female,20-01-2023,Laax,SUI,Japan,Qualification,Slopestyle,9,
+28,Murase Kokomo,Female,14-01-2023,Kreischberg,AUT,Japan,World Cup,Big Air,3,680.80
+29,Murase Kokomo,Female,14-01-2023,Kreischberg,AUT,Japan,Qualification,Big Air,1,
+30,Murase Kokomo,Female,17-12-2022,Copper Mountain,USA,Japan,World Cup,Big Air,5,382.20
+31,Murase Kokomo,Female,15-12-2022,Copper Mountain,USA,Japan,Qualification,Big Air,1,
+32,Murase Kokomo,Female,10-12-2022,Edmonton,CAN,Japan,World Cup,Big Air,8,170.60
+33,Murase Kokomo,Female,09-12-2022,Edmonton,CAN,Japan,Qualification,Big Air,6,
+34,Murase Kokomo,Female,22-10-2022,Chur,SUI,Japan,Qualification,Big Air,7,
+35,Murase Kokomo,Female,22-10-2022,Chur,SUI,Japan,World Cup,Big Air,5,475.00
+36,Murase Kokomo,Female,27-03-2022,Silvaplana,SUI,Japan,World Cup,Slopestyle,3,676.30
+37,Murase Kokomo,Female,25-03-2022,Silvaplana,SUI,Japan,Qualification,Slopestyle,1,
+38,Murase Kokomo,Female,19-03-2022,Spindleruv Mlyn,CZE,Japan,World Cup,Slopestyle,1,600.00
+39,Murase Kokomo,Female,18-03-2022,Spindleruv Mlyn,CZE,Japan,Qualification,Slopestyle,1,
+40,Murase Kokomo,Female,15-02-2022,Beijing,CHN,Japan,Olympic Winter Games,Big Air,3,687.10
+41,Murase Kokomo,Female,14-02-2022,Beijing,CHN,Japan,Qualification,Big Air,2,
+42,Murase Kokomo,Female,06-02-2022,Beijing,CHN,Japan,Olympic Winter Games,Slopestyle,10,245.60
+43,Murase Kokomo,Female,05-02-2022,Beijing,CHN,Japan,Qualification,Slopestyle,2,
+44,Murase Kokomo,Female,08-01-2022,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,3,684.90
+45,Murase Kokomo,Female,06-01-2022,Mammoth Mountain,USA,Japan,Qualification,Slopestyle,1,
+46,Murase Kokomo,Female,01-01-2022,Calgary,CAN,Japan,World Cup,Slopestyle,1,800.00
+47,Murase Kokomo,Female,31-12-2021,Calgary,CAN,Japan,Qualification,Slopestyle,1,
+48,Murase Kokomo,Female,04-12-2021,Steamboat,USA,Japan,World Cup,Big Air,7,367.40
+49,Murase Kokomo,Female,02-12-2021,Steamboat,USA,Japan,Qualification,Big Air,4,
+50,Murase Kokomo,Female,23-10-2021,Chur,SUI,Japan,World Cup,Big Air,1,1000.00
+51,Murase Kokomo,Female,28-03-2021,Silvaplana,SUI,Japan,Qualification,Slopestyle,3,
+52,Murase Kokomo,Female,28-03-2021,Silvaplana,SUI,Japan,World Cup,Slopestyle,2,494.17
+53,Murase Kokomo,Female,20-03-2021,Aspen,USA,Japan,World Cup,Slopestyle,4,578.39
+54,Murase Kokomo,Female,19-03-2021,Aspen,USA,Japan,Qualification,Slopestyle,1,
+55,Murase Kokomo,Female,16-03-2021,Aspen,USA,Japan,World Championships,Big Air,6,414.66
+56,Murase Kokomo,Female,14-03-2021,Aspen,USA,Japan,Qualification,Big Air,5,
+57,Murase Kokomo,Female,12-03-2021,Aspen,USA,Japan,World Championships,Slopestyle,5,487.33
+58,Murase Kokomo,Female,10-03-2021,Aspen,USA,Japan,Qualification,Slopestyle,6,
+59,Murase Kokomo,Female,22-01-2021,Laax,SUI,Japan,World Cup,Slopestyle,7,289.34
+60,Murase Kokomo,Female,20-01-2021,Laax,SUI,Japan,Qualification,Slopestyle,3,
+61,Murase Kokomo,Female,09-01-2021,Kreischberg,AUT,Japan,World Cup,Big Air,2,825.16
+62,Murase Kokomo,Female,07-01-2021,Kreischberg ,AUT,Japan,Qualification,Big Air,2,
+63,Murase Kokomo,Female,16-02-2020,Calgary,CAN,Japan,World Cup,Slopestyle,12,220.00
+64,Murase Kokomo,Female,14-02-2020,Calgary,CAN,Japan,Qualification,Slopestyle,12,
+65,Murase Kokomo,Female,20-12-2019,Atlanta,USA,Japan,World Cup,Big Air,2,800.00
+66,Murase Kokomo,Female,14-12-2019,Beijing,CHN,Japan,World Cup,Big Air,5,450.00
+67,Murase Kokomo,Female,12-12-2019,Beijing,CHN,Japan,Qualification,Big Air,1,
+68,Murase Kokomo,Female,31-08-2018,Cardrona,NZL,Japan,FIS Junior World Championships,Slopestyle,1,240.00
+69,Murase Kokomo,Female,30-08-2018,Cardrona,NZL,Japan,Qualification,Slopestyle,1,
+70,Murase Kokomo,Female,29-08-2018,Cardrona,NZL,Japan,FIS Junior World Championships,Big Air,1,240.00
+71,Murase Kokomo,Female,24-08-2018,Cardrona,NZL,Japan,Qualification,Big Air,1,
+72,Murase Kokomo,Female,15-03-2018,Tokura  Katashina,JPN,Japan,National Championships,Slopestyle,1,50.00
+73,Murase Kokomo,Female,14-03-2018,Tokura  Katashina,JPN,Japan,FIS,Slopestyle,4,25.00

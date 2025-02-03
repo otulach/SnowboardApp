@@ -1,76 +1,92 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Kaciczak Olga,Female,07-04-2024,Samnaun,SUI,Poland,National Championships,Giant Slalom,11,69.60
-1,Kaciczak Olga,Female,06-04-2024,Samnaun,SUI,Poland,National Championships,Parallel Slalom,7,104.40
-2,Kaciczak Olga,Female,30-03-2024,Krvavec,SLO,Poland,National Championships,Parallel Giant Slalom,2,176.00
-3,Kaciczak Olga,Female,24-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Slalom Team,12,
-4,Kaciczak Olga,Female,23-03-2024,Lachtal,AUT,Poland,Qualification,Parallel Slalom,20,
-5,Kaciczak Olga,Female,23-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Slalom,20,26.40
-6,Kaciczak Olga,Female,22-03-2024,Lachtal,AUT,Poland,Qualification,Parallel Giant Slalom,25,
-7,Kaciczak Olga,Female,22-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Giant Slalom,25,14.40
-8,Kaciczak Olga,Female,17-03-2024,St. Moritz,SUI,Poland,European Cup,Parallel Slalom,28,14.40
-9,Kaciczak Olga,Female,16-03-2024,St. Moritz,SUI,Poland,European Cup,Parallel Giant Slalom,43,6.34
-10,Kaciczak Olga,Female,13-03-2024,Davos/Rinerhorn ,SUI,Poland,European Cup,Parallel Giant Slalom,27,10.80
-11,Kaciczak Olga,Female,12-03-2024,Davos/Rinerhorn ,SUI,Poland,European Cup,Parallel Giant Slalom,22,32.40
-12,Kaciczak Olga,Female,25-02-2024,Krynica,POL,Poland,World Cup,Parallel Giant Slalom,36,
-13,Kaciczak Olga,Female,25-02-2024,Krynica,POL,Poland,Qualification,Parallel Giant Slalom,36,
-14,Kaciczak Olga,Female,24-02-2024,Krynica,POL,Poland,World Cup,Parallel Giant Slalom,34,22.00
-15,Kaciczak Olga,Female,24-02-2024,Krynica,POL,Poland,Qualification,Parallel Giant Slalom,34,
-16,Kaciczak Olga,Female,10-02-2024,Hochficht/Zwiesel,AUT,Poland,National Championships,Parallel Slalom,17,40.60
-17,Kaciczak Olga,Female,09-02-2024,Hochficht/Zwiesel,AUT,Poland,National Championships,Parallel Giant Slalom,23,23.20
-18,Kaciczak Olga,Female,08-02-2024,Funes - Vilnoess,ITA,Poland,National Championships,Parallel Giant Slalom,34,6.38
-19,Kaciczak Olga,Female,04-02-2024,Haus im Ennstal,AUT,Poland,Junior,Parallel Giant Slalom,9,40.60
-20,Kaciczak Olga,Female,03-02-2024,Haus im Ennstal,AUT,Poland,Junior,Parallel Giant Slalom,9,40.60
-21,Kaciczak Olga,Female,24-01-2024,Pamporovo,BUL,Poland,European Cup,Parallel Slalom,DSQ,
-22,Kaciczak Olga,Female,23-01-2024,Pamporovo,BUL,Poland,European Cup,Parallel Slalom,18,37.70
-23,Kaciczak Olga,Female,12-01-2024,Folgaria,ITA,Poland,European Cup,Parallel Slalom,23,19.20
-24,Kaciczak Olga,Female,12-01-2024,Folgaria,ITA,Poland,Qualification,Parallel Slalom,23,
-25,Kaciczak Olga,Female,11-01-2024,Folgaria,ITA,Poland,European Cup,Parallel Slalom,16,43.50
-26,Kaciczak Olga,Female,11-01-2024,Folgaria,ITA,Poland,Qualification,Parallel Slalom,16,
-27,Kaciczak Olga,Female,07-01-2024,Dolni Morava,CZE,Poland,National Championships,Parallel Giant Slalom,6,88.00
-28,Kaciczak Olga,Female,06-01-2024,Dolni Morava,CZE,Poland,National Championships,Parallel Slalom,12,48.40
-29,Kaciczak Olga,Female,05-01-2024,Simonhöhe,AUT,Poland,Junior,Parallel Giant Slalom,12,30.80
-30,Kaciczak Olga,Female,21-12-2023,Moninec,CZE,Poland,FIS,Parallel Slalom,DNF,
-31,Kaciczak Olga,Female,20-12-2023,Moninec,CZE,Poland,European Cup,Parallel Slalom,36,5.12
-32,Kaciczak Olga,Female,19-12-2023,Moninec,CZE,Poland,European Cup,Parallel Slalom,36,5.12
-33,Kaciczak Olga,Female,10-12-2023,Götschen,GER,Poland,Junior,Parallel Slalom,18,20.80
-34,Kaciczak Olga,Female,09-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,43,6.34
-35,Kaciczak Olga,Female,09-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,44,
-36,Kaciczak Olga,Female,08-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,48,5.80
-37,Kaciczak Olga,Female,08-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,48,
-38,Kaciczak Olga,Female,02-04-2023,Haus im Ennstal,AUT,Poland,National Championships,Parallel Slalom,8,92.80
-39,Kaciczak Olga,Female,01-04-2023,Haus im Ennstal,AUT,Poland,National Championships,Parallel Giant Slalom,5,130.50
-40,Kaciczak Olga,Female,26-03-2023,Bansko,BUL,Poland,FIS Junior World Championships,Parallel Team,24,
-41,Kaciczak Olga,Female,25-03-2023,Bansko,BUL,Poland,Qualification,Parallel Slalom,20,
-42,Kaciczak Olga,Female,25-03-2023,Bansko,BUL,Poland,FIS Junior World Championships,Parallel Slalom,20,39.60
-43,Kaciczak Olga,Female,24-03-2023,Bansko,BUL,Poland,FIS Junior World Championships,Parallel Giant Slalom,25,21.60
-44,Kaciczak Olga,Female,24-03-2023,Bansko,BUL,Poland,Qualification,Parallel Giant Slalom,25,
-45,Kaciczak Olga,Female,12-03-2023,Davos,SUI,Poland,European Cup,Parallel Slalom,30,8.32
-46,Kaciczak Olga,Female,11-03-2023,Davos,SUI,Poland,European Cup,Parallel Slalom,37,
-47,Kaciczak Olga,Female,05-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,25,17.40
-48,Kaciczak Olga,Female,04-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,23,28.80
-49,Kaciczak Olga,Female,27-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,3,96.00
-50,Kaciczak Olga,Female,26-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,5,72.00
-51,Kaciczak Olga,Female,25-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,6,64.00
-52,Kaciczak Olga,Female,04-01-2023,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,13,58.00
-53,Kaciczak Olga,Female,01-04-2022,Chiesa in Valmalenco,ITA,Poland,FIS Junior World Championships,Parallel Slalom,35,7.20
-54,Kaciczak Olga,Female,31-03-2022,Chiesa in Valmalenco,ITA,Poland,FIS Junior World Championships,Parallel Giant Slalom,34,7.92
-55,Kaciczak Olga,Female,13-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Slalom,6,48.00
-56,Kaciczak Olga,Female,12-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Giant Slalom,20,
-57,Kaciczak Olga,Female,09-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,9,84.10
-58,Kaciczak Olga,Female,08-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,6,116.00
-59,Kaciczak Olga,Female,30-01-2022,Davos,SUI,Poland,European Cup,Parallel Slalom,32,
-60,Kaciczak Olga,Female,29-01-2022,Davos,SUI,Poland,European Cup,Parallel Slalom,DSQ,
-61,Kaciczak Olga,Female,16-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,9,40.60
-62,Kaciczak Olga,Female,15-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,11,26.40
-63,Kaciczak Olga,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,FIS,Slalom,9,58.00
-64,Kaciczak Olga,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,FIS,Parallel Slalom,8,64.00
-65,Kaciczak Olga,Female,21-03-2021,Pizol,SUI,Poland,Junior,Parallel Slalom,18,6.50
-66,Kaciczak Olga,Female,20-03-2021,Pizol,SUI,Poland,Junior,Parallel Slalom,19,14.40
-67,Kaciczak Olga,Female,09-03-2021,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,26,13.00
-68,Kaciczak Olga,Female,08-03-2021,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,15,41.60
-69,Kaciczak Olga,Female,01-03-2020,Pec pod Snezkou,CZE,Poland,FIS,Parallel Slalom,3,30.00
-70,Kaciczak Olga,Female,29-02-2020,Pec pod Snezkou,CZE,Poland,FIS,Parallel Giant Slalom,8,28.80
-71,Kaciczak Olga,Female,09-02-2020,Gerlitzen,AUT,Poland,FIS,Giant Slalom,21,22.00
-72,Kaciczak Olga,Female,08-02-2020,Gerlitzen,AUT,Poland,FIS,Giant Slalom,22,19.80
-73,Kaciczak Olga,Female,26-01-2020,Gosau,AUT,Poland,FIS,Parallel Slalom,27,6.75
-74,Kaciczak Olga,Female,25-01-2020,Gosau,AUT,Poland,FIS,Parallel Slalom,32,3.90
+0,Kaciczak Olga,Female,02-02-2025,Ratschings,ITA,Poland,European Cup,Parallel Slalom,DNS,
+1,Kaciczak Olga,Female,01-02-2025,Ratschings,ITA,Poland,Qualification,Parallel Slalom,29,
+2,Kaciczak Olga,Female,01-02-2025,Ratschings,ITA,Poland,European Cup,Parallel Slalom,29,
+3,Kaciczak Olga,Female,26-01-2025,Simonhöhe,AUT,Poland,European Cup,Parallel Giant Slalom,37,6.98
+4,Kaciczak Olga,Female,25-01-2025,Simonhöhe,AUT,Poland,European Cup,Parallel Giant Slalom,24,16.80
+5,Kaciczak Olga,Female,22-01-2025,Bardonecchia,ITA,Poland,Universiade,Parallel Slalom,6,88.00
+6,Kaciczak Olga,Female,21-01-2025,Bardonecchia,ITA,Poland,Universiade,Parallel Giant Slalom,8,70.40
+7,Kaciczak Olga,Female,11-01-2025,Folgaria,ITA,Poland,Qualification,Parallel Giant Slalom,17,
+8,Kaciczak Olga,Female,11-01-2025,Folgaria,ITA,Poland,European Cup,Parallel Giant Slalom,17,33.60
+9,Kaciczak Olga,Female,10-01-2025,Folgaria,ITA,Poland,European Cup,Parallel Giant Slalom,DSQ,
+10,Kaciczak Olga,Female,22-12-2024,Moninec,CZE,Poland,FIS,Parallel Slalom,7,64.80
+11,Kaciczak Olga,Female,21-12-2024,Moninec,CZE,Poland,FIS,Parallel Slalom,9,46.40
+12,Kaciczak Olga,Female,20-12-2024,Moninec,CZE,Poland,European Cup,Parallel Slalom,15,38.40
+13,Kaciczak Olga,Female,19-12-2024,Moninec,CZE,Poland,European Cup,Parallel Slalom,20,26.40
+14,Kaciczak Olga,Female,15-12-2024,Götschen,GER,Poland,European Cup,Parallel Slalom,26,12.00
+15,Kaciczak Olga,Female,14-12-2024,Götschen,GER,Poland,European Cup,Parallel Slalom,12,48.40
+16,Kaciczak Olga,Female,07-04-2024,Samnaun,SUI,Poland,National Championships,Giant Slalom,11,69.60
+17,Kaciczak Olga,Female,06-04-2024,Samnaun,SUI,Poland,National Championships,Parallel Slalom,7,104.40
+18,Kaciczak Olga,Female,30-03-2024,Krvavec,SLO,Poland,National Championships,Parallel Giant Slalom,2,176.00
+19,Kaciczak Olga,Female,24-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Slalom Team,12,
+20,Kaciczak Olga,Female,23-03-2024,Lachtal,AUT,Poland,Qualification,Parallel Slalom,20,
+21,Kaciczak Olga,Female,23-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Slalom,20,26.40
+22,Kaciczak Olga,Female,22-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Giant Slalom,25,14.40
+23,Kaciczak Olga,Female,22-03-2024,Lachtal,AUT,Poland,Qualification,Parallel Giant Slalom,25,
+24,Kaciczak Olga,Female,17-03-2024,St. Moritz,SUI,Poland,European Cup,Parallel Slalom,28,14.40
+25,Kaciczak Olga,Female,16-03-2024,St. Moritz,SUI,Poland,European Cup,Parallel Giant Slalom,43,6.34
+26,Kaciczak Olga,Female,13-03-2024,Davos/Rinerhorn ,SUI,Poland,European Cup,Parallel Giant Slalom,27,10.80
+27,Kaciczak Olga,Female,12-03-2024,Davos/Rinerhorn ,SUI,Poland,European Cup,Parallel Giant Slalom,22,32.40
+28,Kaciczak Olga,Female,25-02-2024,Krynica,POL,Poland,World Cup,Parallel Giant Slalom,36,
+29,Kaciczak Olga,Female,25-02-2024,Krynica,POL,Poland,Qualification,Parallel Giant Slalom,36,
+30,Kaciczak Olga,Female,24-02-2024,Krynica,POL,Poland,Qualification,Parallel Giant Slalom,34,
+31,Kaciczak Olga,Female,24-02-2024,Krynica,POL,Poland,World Cup,Parallel Giant Slalom,34,22.00
+32,Kaciczak Olga,Female,10-02-2024,Hochficht/Zwiesel,AUT,Poland,National Championships,Parallel Slalom,17,40.60
+33,Kaciczak Olga,Female,09-02-2024,Hochficht/Zwiesel,AUT,Poland,National Championships,Parallel Giant Slalom,23,23.20
+34,Kaciczak Olga,Female,08-02-2024,Funes - Vilnoess,ITA,Poland,National Championships,Parallel Giant Slalom,34,6.38
+35,Kaciczak Olga,Female,04-02-2024,Haus im Ennstal,AUT,Poland,Junior,Parallel Giant Slalom,9,40.60
+36,Kaciczak Olga,Female,03-02-2024,Haus im Ennstal,AUT,Poland,Junior,Parallel Giant Slalom,9,40.60
+37,Kaciczak Olga,Female,24-01-2024,Pamporovo,BUL,Poland,European Cup,Parallel Slalom,DSQ,
+38,Kaciczak Olga,Female,23-01-2024,Pamporovo,BUL,Poland,European Cup,Parallel Slalom,18,37.70
+39,Kaciczak Olga,Female,12-01-2024,Folgaria,ITA,Poland,European Cup,Parallel Slalom,23,19.20
+40,Kaciczak Olga,Female,12-01-2024,Folgaria,ITA,Poland,Qualification,Parallel Slalom,23,
+41,Kaciczak Olga,Female,11-01-2024,Folgaria,ITA,Poland,European Cup,Parallel Slalom,16,43.50
+42,Kaciczak Olga,Female,11-01-2024,Folgaria,ITA,Poland,Qualification,Parallel Slalom,16,
+43,Kaciczak Olga,Female,07-01-2024,Dolni Morava,CZE,Poland,National Championships,Parallel Giant Slalom,6,88.00
+44,Kaciczak Olga,Female,06-01-2024,Dolni Morava,CZE,Poland,National Championships,Parallel Slalom,12,48.40
+45,Kaciczak Olga,Female,05-01-2024,Simonhöhe,AUT,Poland,Junior,Parallel Giant Slalom,12,30.80
+46,Kaciczak Olga,Female,21-12-2023,Moninec,CZE,Poland,FIS,Parallel Slalom,DNF,
+47,Kaciczak Olga,Female,20-12-2023,Moninec,CZE,Poland,European Cup,Parallel Slalom,36,5.12
+48,Kaciczak Olga,Female,19-12-2023,Moninec,CZE,Poland,European Cup,Parallel Slalom,36,5.12
+49,Kaciczak Olga,Female,10-12-2023,Götschen,GER,Poland,Junior,Parallel Slalom,18,20.80
+50,Kaciczak Olga,Female,09-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,44,
+51,Kaciczak Olga,Female,09-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,43,6.34
+52,Kaciczak Olga,Female,08-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,48,5.80
+53,Kaciczak Olga,Female,08-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,48,
+54,Kaciczak Olga,Female,02-04-2023,Haus im Ennstal,AUT,Poland,National Championships,Parallel Slalom,8,92.80
+55,Kaciczak Olga,Female,01-04-2023,Haus im Ennstal,AUT,Poland,National Championships,Parallel Giant Slalom,5,130.50
+56,Kaciczak Olga,Female,26-03-2023,Bansko,BUL,Poland,FIS Junior World Championships,Parallel Team,24,
+57,Kaciczak Olga,Female,25-03-2023,Bansko,BUL,Poland,Qualification,Parallel Slalom,20,
+58,Kaciczak Olga,Female,25-03-2023,Bansko,BUL,Poland,FIS Junior World Championships,Parallel Slalom,20,39.60
+59,Kaciczak Olga,Female,24-03-2023,Bansko,BUL,Poland,Qualification,Parallel Giant Slalom,25,
+60,Kaciczak Olga,Female,24-03-2023,Bansko,BUL,Poland,FIS Junior World Championships,Parallel Giant Slalom,25,21.60
+61,Kaciczak Olga,Female,12-03-2023,Davos,SUI,Poland,European Cup,Parallel Slalom,30,8.32
+62,Kaciczak Olga,Female,11-03-2023,Davos,SUI,Poland,European Cup,Parallel Slalom,37,
+63,Kaciczak Olga,Female,05-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,25,17.40
+64,Kaciczak Olga,Female,04-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,23,28.80
+65,Kaciczak Olga,Female,27-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,3,96.00
+66,Kaciczak Olga,Female,26-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,5,72.00
+67,Kaciczak Olga,Female,25-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,6,64.00
+68,Kaciczak Olga,Female,04-01-2023,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,13,58.00
+69,Kaciczak Olga,Female,01-04-2022,Chiesa in Valmalenco,ITA,Poland,FIS Junior World Championships,Parallel Slalom,35,7.20
+70,Kaciczak Olga,Female,31-03-2022,Chiesa in Valmalenco,ITA,Poland,FIS Junior World Championships,Parallel Giant Slalom,34,7.92
+71,Kaciczak Olga,Female,13-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Slalom,6,48.00
+72,Kaciczak Olga,Female,12-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Giant Slalom,20,
+73,Kaciczak Olga,Female,09-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,9,84.10
+74,Kaciczak Olga,Female,08-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,6,116.00
+75,Kaciczak Olga,Female,30-01-2022,Davos,SUI,Poland,European Cup,Parallel Slalom,32,
+76,Kaciczak Olga,Female,29-01-2022,Davos,SUI,Poland,European Cup,Parallel Slalom,DSQ,
+77,Kaciczak Olga,Female,16-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,9,40.60
+78,Kaciczak Olga,Female,15-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,11,26.40
+79,Kaciczak Olga,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,FIS,Parallel Slalom,8,64.00
+80,Kaciczak Olga,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,FIS,Slalom,9,58.00
+81,Kaciczak Olga,Female,21-03-2021,Pizol,SUI,Poland,Junior,Parallel Slalom,18,6.50
+82,Kaciczak Olga,Female,20-03-2021,Pizol,SUI,Poland,Junior,Parallel Slalom,19,14.40
+83,Kaciczak Olga,Female,09-03-2021,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,26,13.00
+84,Kaciczak Olga,Female,08-03-2021,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,15,41.60
+85,Kaciczak Olga,Female,01-03-2020,Pec pod Snezkou,CZE,Poland,FIS,Parallel Slalom,3,30.00
+86,Kaciczak Olga,Female,29-02-2020,Pec pod Snezkou,CZE,Poland,FIS,Parallel Giant Slalom,8,28.80
+87,Kaciczak Olga,Female,09-02-2020,Gerlitzen,AUT,Poland,FIS,Giant Slalom,21,22.00
+88,Kaciczak Olga,Female,08-02-2020,Gerlitzen,AUT,Poland,FIS,Giant Slalom,22,19.80
+89,Kaciczak Olga,Female,26-01-2020,Gosau,AUT,Poland,FIS,Parallel Slalom,27,6.75
+90,Kaciczak Olga,Female,25-01-2020,Gosau,AUT,Poland,FIS,Parallel Slalom,32,3.90

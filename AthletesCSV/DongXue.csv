@@ -1,98 +1,117 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Dong Xue,Female,19-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Slalom,3,96.00
-1,Dong Xue,Female,18-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,9,46.40
-2,Dong Xue,Female,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,3,96.00
-3,Dong Xue,Female,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,8,51.20
-4,Dong Xue,Female,23-12-2023,Davos,SUI,P.r. China,World Cup,Parallel Slalom,28,40.00
-5,Dong Xue,Female,23-12-2023,Davos ,SUI,P.r. China,Qualification,Parallel Slalom,28,
-6,Dong Xue,Female,16-12-2023,Cortina d'Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,33,
-7,Dong Xue,Female,16-12-2023,Cortina d'Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,33,24.00
-8,Dong Xue,Female,09-12-2023,Götschen,GER,P.r. China,European Cup,Parallel Slalom,30,11.52
-9,Dong Xue,Female,09-12-2023,Götschen,GER,P.r. China,Qualification,Parallel Slalom,30,
-10,Dong Xue,Female,08-12-2023,Götschen,GER,P.r. China,European Cup,Parallel Slalom,20,39.60
-11,Dong Xue,Female,08-12-2023,Götschen,GER,P.r. China,Qualification,Parallel Slalom,20,
-12,Dong Xue,Female,12-03-2023,ORTISEI,ITA,P.r. China,FIS,Giant Slalom,3,60.00
-13,Dong Xue,Female,11-03-2023,ORTISEI,ITA,P.r. China,FIS,Giant Slalom,7,36.00
-14,Dong Xue,Female,05-03-2023,Val Senales,ITA,P.r. China,FIS,Parallel Slalom,5,49.50
-15,Dong Xue,Female,04-03-2023,Val Senales,ITA,P.r. China,FIS,Parallel Slalom,9,52.20
-16,Dong Xue,Female,22-02-2023,Bakuriani,GEO,P.r. China,World Championships,Parallel Slalom Team,19,
-17,Dong Xue,Female,21-02-2023,Bakuriani,GEO,P.r. China,World Championships,Parallel Slalom,25,60.00
-18,Dong Xue,Female,21-02-2023,Bakuriani,GEO,P.r. China,Qualification,Parallel Slalom,25,
-19,Dong Xue,Female,19-02-2023,Bakuriani,GEO,P.r. China,World Championships,Parallel Giant Slalom,19,120.00
-20,Dong Xue,Female,19-02-2023,Bakuriani,GEO,P.r. China,Qualification,Parallel Giant Slalom,19,
-21,Dong Xue,Female,12-02-2023,Funes - Vilnoess,ITA,P.r. China,FIS,Parallel Giant Slalom,2,160.00
-22,Dong Xue,Female,11-02-2023,Funes - Vilnoess,ITA,P.r. China,FIS,Parallel Giant Slalom,11,48.00
-23,Dong Xue,Female,29-01-2023,Simonhöhe,AUT,P.r. China,Qualification,Parallel Giant Slalom,DNS,
-24,Dong Xue,Female,29-01-2023,Simonhöhe,AUT,P.r. China,European Cup,Parallel Giant Slalom,DNS,
-25,Dong Xue,Female,28-01-2023,Simonhöhe,AUT,P.r. China,Qualification,Parallel Giant Slalom,32,
-26,Dong Xue,Female,28-01-2023,Simonhöhe,AUT,P.r. China,European Cup,Parallel Giant Slalom,32,6.24
-27,Dong Xue,Female,14-01-2022,Simonhöhe,AUT,P.r. China,World Cup,Parallel Giant Slalom,42,17.90
-28,Dong Xue,Female,14-01-2022,Simonhöhe,AUT,P.r. China,Qualification,Parallel Giant Slalom,42,
-29,Dong Xue,Female,11-01-2022,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,39,
-30,Dong Xue,Female,11-01-2022,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,39,18.80
-31,Dong Xue,Female,08-01-2022,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,20,
-32,Dong Xue,Female,08-01-2022,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,20,110.00
-33,Dong Xue,Female,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,22,
-34,Dong Xue,Female,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,22,90.00
-35,Dong Xue,Female,16-12-2021,Carezza,ITA,P.r. China,World Cup,Parallel Giant Slalom,30,32.00
-36,Dong Xue,Female,16-12-2021,Carezza,ITA,P.r. China,Qualification,Parallel Giant Slalom,30,
-37,Dong Xue,Female,12-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Slalom,26,50.00
-38,Dong Xue,Female,12-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Slalom,26,
-39,Dong Xue,Female,11-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Giant Slalom,30,32.00
-40,Dong Xue,Female,11-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Giant Slalom,30,
-41,Dong Xue,Female,03-03-2020,Blue Mountain,CAN,P.r. China,Nor-Am Cup,Parallel Slalom,4,180.00
-42,Dong Xue,Female,02-03-2020,Blue Mountain,CAN,P.r. China,Nor-Am Cup,Parallel Giant Slalom,6,144.00
-43,Dong Xue,Female,01-03-2020,Blue Mountain,CAN,P.r. China,World Cup,Parallel Giant Slalom,29,36.00
-44,Dong Xue,Female,01-03-2020,Blue Mountain,CAN,P.r. China,Qualification,Parallel Giant Slalom,29,
-45,Dong Xue,Female,29-02-2020,Blue Mountain,CAN,P.r. China,World Cup,Parallel Giant Slalom,16,150.00
-46,Dong Xue,Female,29-02-2020,Blue Mountain,CAN,P.r. China,Qualification,Parallel Giant Slalom,16,
-47,Dong Xue,Female,09-02-2020,Gerlitzen,AUT,P.r. China,FIS,Giant Slalom,4,110.00
-48,Dong Xue,Female,08-02-2020,Gerlitzen,AUT,P.r. China,FIS,Giant Slalom,3,132.00
-49,Dong Xue,Female,26-01-2020,Piancavallo,ITA,P.r. China,World Cup,Parallel Slalom Team,16,
-50,Dong Xue,Female,25-01-2020,Piancavallo,ITA,P.r. China,World Cup,Parallel Slalom,26,50.00
-51,Dong Xue,Female,25-01-2020,Piancavallo,ITA,P.r. China,Qualification,Parallel Slalom,26,
-52,Dong Xue,Female,18-01-2020,Rogla,SLO,P.r. China,World Cup,Parallel Giant Slalom,36,19.70
-53,Dong Xue,Female,18-01-2020,Rogla,SLO,P.r. China,Qualification,Parallel Giant Slalom,36,
-54,Dong Xue,Female,14-01-2020,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,24,
-55,Dong Xue,Female,14-01-2020,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,24,70.00
-56,Dong Xue,Female,11-01-2020,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,22,
-57,Dong Xue,Female,11-01-2020,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,22,90.00
-58,Dong Xue,Female,29-12-2019,Wanlong Ski Resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,2,288.00
-59,Dong Xue,Female,28-12-2019,Wanlong Ski Resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,2,288.00
-60,Dong Xue,Female,19-12-2019,Carezza,ITA,P.r. China,Open,Parallel Giant Slalom,46,
-61,Dong Xue,Female,14-12-2019,Cortina d Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,40,
-62,Dong Xue,Female,14-12-2019,Cortina d Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,40,18.50
-63,Dong Xue,Female,08-12-2019,Bannoye,RUS,P.r. China,Qualification,Parallel Giant Slalom,23,
-64,Dong Xue,Female,08-12-2019,Bannoye,RUS,P.r. China,World Cup,Parallel Giant Slalom,23,80.00
-65,Dong Xue,Female,07-12-2019,Bannoye,RUS,P.r. China,Qualification,Parallel Slalom,26,
-66,Dong Xue,Female,07-12-2019,Bannoye,RUS,P.r. China,World Cup,Parallel Slalom,26,50.00
-67,Dong Xue,Female,30-11-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,5,144.00
-68,Dong Xue,Female,29-11-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,3,216.00
-69,Dong Xue,Female,07-04-2019,Racines,ITA,P.r. China,European Cup,Parallel Slalom,19,43.20
-70,Dong Xue,Female,06-04-2019,Racines,ITA,P.r. China,European Cup,Parallel Slalom,4,180.00
-71,Dong Xue,Female,31-03-2019,Radstadt,AUT,P.r. China,National Championships,Parallel Giant Slalom,6,116.00
-72,Dong Xue,Female,30-03-2019,Radstadt,AUT,P.r. China,National Championships,Parallel Slalom,8,92.80
-73,Dong Xue,Female,27-03-2019,Piancavallo,ITA,P.r. China,National Championships,Parallel Giant Slalom,1,290.00
-74,Dong Xue,Female,26-03-2019,Piancavallo,ITA,P.r. China,National Championships,Parallel Slalom,3,174.00
-75,Dong Xue,Female,17-03-2019,Rogla,SLO,P.r. China,European Cup,Parallel Giant Slalom,21,36.00
-76,Dong Xue,Female,16-03-2019,Rogla,SLO,P.r. China,European Cup,Parallel Giant Slalom,22,32.40
-77,Dong Xue,Female,28-02-2019,Secret Garden,CHN,P.r. China,Asian Cup,Parallel Slalom,4,130.00
-78,Dong Xue,Female,27-02-2019,Secret Garden,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,4,100.00
-79,Dong Xue,Female,24-02-2019,Secret Garden,CHN,P.r. China,Qualification,Parallel Slalom,20,
-80,Dong Xue,Female,24-02-2019,Secret Garden,CHN,P.r. China,World Cup,Parallel Slalom,20,110.00
-81,Dong Xue,Female,23-02-2019,Secret Garden,CHN,P.r. China,Qualification,Parallel Giant Slalom,23,
-82,Dong Xue,Female,23-02-2019,Secret Garden,CHN,P.r. China,World Cup,Parallel Giant Slalom,23,80.00
-83,Dong Xue,Female,12-02-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,4,100.00
-84,Dong Xue,Female,11-02-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,3,120.00
-85,Dong Xue,Female,27-01-2019,Lachtal,AUT,P.r. China,European Cup,Parallel GS,16,27.00
-86,Dong Xue,Female,26-01-2019,Lachtal,AUT,P.r. China,European Cup,Parallel GS,16,27.00
-87,Dong Xue,Female,20-01-2019,Gosau,AUT,P.r. China,FIS,Parallel Slalom,3,90.00
-88,Dong Xue,Female,19-01-2019,Gosau,AUT,P.r. China,FIS,Parallel Slalom,2,112.00
-89,Dong Xue,Female,11-01-2019,Bad Gastein,AUT,P.r. China,European Cup,Parallel Slalom,25,21.60
-90,Dong Xue,Female,10-01-2019,Bad Gastein,AUT,P.r. China,European Cup,Parallel Slalom,22,32.40
-91,Dong Xue,Female,06-01-2019,Simonhöhe,AUT,P.r. China,FIS,Parallel Slalom,10,57.20
-92,Dong Xue,Female,05-01-2019,Simonhöhe,AUT,P.r. China,FIS,Parallel Slalom,11,52.80
-93,Dong Xue,Female,02-12-2017,Changchengling,CHN,P.r. China,National Championships,Parallel Slalom,6,64.00
-94,Dong Xue,Female,01-12-2017,Changchengling,CHN,P.r. China,National Championships,Parallel GS,6,64.00
-95,Dong Xue,Female,11-03-2015,Yabuli,CHN,P.r. China,FIS Junior World Championships,Parallel Slalom,19,43.20
-96,Dong Xue,Female,10-03-2015,Yabuli,CHN,P.r. China,FIS Junior World Championships,Parallel GS,23,28.80
+0,Dong Xue,Female,25-01-2025,Rogla,SLO,P.r. China,Qualification,Parallel Giant Slalom,30,
+1,Dong Xue,Female,25-01-2025,Rogla,SLO,P.r. China,World Cup,Parallel Giant Slalom,30,32.00
+2,Dong Xue,Female,18-01-2025,Bansko,BUL,P.r. China,Qualification,Parallel Giant Slalom,48,
+3,Dong Xue,Female,18-01-2025,Bansko,BUL,P.r. China,World Cup,Parallel Giant Slalom,48,16.10
+4,Dong Xue,Female,15-01-2025,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom Team,18,
+5,Dong Xue,Female,14-01-2025,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,28,
+6,Dong Xue,Female,14-01-2025,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,28,40.00
+7,Dong Xue,Female,11-01-2025,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,24,
+8,Dong Xue,Female,11-01-2025,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,24,70.00
+9,Dong Xue,Female,31-12-2024,Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,8,51.20
+10,Dong Xue,Female,30-12-2024,Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,1,160.00
+11,Dong Xue,Female,08-12-2024,Yanqing (NASC),CHN,P.r. China,World Cup,Parallel Slalom,23,80.00
+12,Dong Xue,Female,08-12-2024,Yanqing (NASC),CHN,P.r. China,Qualification,Parallel Slalom,23,
+13,Dong Xue,Female,07-12-2024,Yanqing (NASC),CHN,P.r. China,World Cup,Parallel Giant Slalom,30,32.00
+14,Dong Xue,Female,07-12-2024,Yanqing (NASC),CHN,P.r. China,Qualification,Parallel Giant Slalom,30,
+15,Dong Xue,Female,01-12-2024,Mylin,CHN,P.r. China,World Cup,Parallel Slalom,37,19.40
+16,Dong Xue,Female,01-12-2024,Mylin,CHN,P.r. China,Qualification,Parallel Slalom,37,
+17,Dong Xue,Female,30-11-2024,Mylin,CHN,P.r. China,World Cup,Parallel Giant Slalom,38,19.10
+18,Dong Xue,Female,30-11-2024,Mylin,CHN,P.r. China,Qualification,Parallel Giant Slalom,38,
+19,Dong Xue,Female,19-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Slalom,3,96.00
+20,Dong Xue,Female,18-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,9,46.40
+21,Dong Xue,Female,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,3,96.00
+22,Dong Xue,Female,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,8,51.20
+23,Dong Xue,Female,23-12-2023,Davos ,SUI,P.r. China,Qualification,Parallel Slalom,28,
+24,Dong Xue,Female,23-12-2023,Davos,SUI,P.r. China,World Cup,Parallel Slalom,28,40.00
+25,Dong Xue,Female,16-12-2023,Cortina d'Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,33,
+26,Dong Xue,Female,16-12-2023,Cortina d'Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,33,24.00
+27,Dong Xue,Female,09-12-2023,Götschen,GER,P.r. China,Qualification,Parallel Slalom,30,
+28,Dong Xue,Female,09-12-2023,Götschen,GER,P.r. China,European Cup,Parallel Slalom,30,11.52
+29,Dong Xue,Female,08-12-2023,Götschen,GER,P.r. China,Qualification,Parallel Slalom,20,
+30,Dong Xue,Female,08-12-2023,Götschen,GER,P.r. China,European Cup,Parallel Slalom,20,39.60
+31,Dong Xue,Female,12-03-2023,ORTISEI,ITA,P.r. China,FIS,Giant Slalom,3,60.00
+32,Dong Xue,Female,11-03-2023,ORTISEI,ITA,P.r. China,FIS,Giant Slalom,7,36.00
+33,Dong Xue,Female,05-03-2023,Val Senales,ITA,P.r. China,FIS,Parallel Slalom,5,49.50
+34,Dong Xue,Female,04-03-2023,Val Senales,ITA,P.r. China,FIS,Parallel Slalom,9,52.20
+35,Dong Xue,Female,22-02-2023,Bakuriani,GEO,P.r. China,World Championships,Parallel Slalom Team,19,
+36,Dong Xue,Female,21-02-2023,Bakuriani,GEO,P.r. China,Qualification,Parallel Slalom,25,
+37,Dong Xue,Female,21-02-2023,Bakuriani,GEO,P.r. China,World Championships,Parallel Slalom,25,60.00
+38,Dong Xue,Female,19-02-2023,Bakuriani,GEO,P.r. China,Qualification,Parallel Giant Slalom,19,
+39,Dong Xue,Female,19-02-2023,Bakuriani,GEO,P.r. China,World Championships,Parallel Giant Slalom,19,120.00
+40,Dong Xue,Female,12-02-2023,Funes - Vilnoess,ITA,P.r. China,FIS,Parallel Giant Slalom,2,160.00
+41,Dong Xue,Female,11-02-2023,Funes - Vilnoess,ITA,P.r. China,FIS,Parallel Giant Slalom,11,48.00
+42,Dong Xue,Female,29-01-2023,Simonhöhe,AUT,P.r. China,European Cup,Parallel Giant Slalom,DNS,
+43,Dong Xue,Female,29-01-2023,Simonhöhe,AUT,P.r. China,Qualification,Parallel Giant Slalom,DNS,
+44,Dong Xue,Female,28-01-2023,Simonhöhe,AUT,P.r. China,European Cup,Parallel Giant Slalom,32,6.24
+45,Dong Xue,Female,28-01-2023,Simonhöhe,AUT,P.r. China,Qualification,Parallel Giant Slalom,32,
+46,Dong Xue,Female,14-01-2022,Simonhöhe,AUT,P.r. China,World Cup,Parallel Giant Slalom,42,17.90
+47,Dong Xue,Female,14-01-2022,Simonhöhe,AUT,P.r. China,Qualification,Parallel Giant Slalom,42,
+48,Dong Xue,Female,11-01-2022,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,39,
+49,Dong Xue,Female,11-01-2022,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,39,18.80
+50,Dong Xue,Female,08-01-2022,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,20,
+51,Dong Xue,Female,08-01-2022,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,20,110.00
+52,Dong Xue,Female,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,22,
+53,Dong Xue,Female,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,22,90.00
+54,Dong Xue,Female,16-12-2021,Carezza,ITA,P.r. China,Qualification,Parallel Giant Slalom,30,
+55,Dong Xue,Female,16-12-2021,Carezza,ITA,P.r. China,World Cup,Parallel Giant Slalom,30,32.00
+56,Dong Xue,Female,12-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Slalom,26,
+57,Dong Xue,Female,12-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Slalom,26,50.00
+58,Dong Xue,Female,11-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Giant Slalom,30,
+59,Dong Xue,Female,11-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Giant Slalom,30,32.00
+60,Dong Xue,Female,03-03-2020,Blue Mountain,CAN,P.r. China,Nor-Am Cup,Parallel Slalom,4,180.00
+61,Dong Xue,Female,02-03-2020,Blue Mountain,CAN,P.r. China,Nor-Am Cup,Parallel Giant Slalom,6,144.00
+62,Dong Xue,Female,01-03-2020,Blue Mountain,CAN,P.r. China,World Cup,Parallel Giant Slalom,29,36.00
+63,Dong Xue,Female,01-03-2020,Blue Mountain,CAN,P.r. China,Qualification,Parallel Giant Slalom,29,
+64,Dong Xue,Female,29-02-2020,Blue Mountain,CAN,P.r. China,World Cup,Parallel Giant Slalom,16,150.00
+65,Dong Xue,Female,29-02-2020,Blue Mountain,CAN,P.r. China,Qualification,Parallel Giant Slalom,16,
+66,Dong Xue,Female,09-02-2020,Gerlitzen,AUT,P.r. China,FIS,Giant Slalom,4,110.00
+67,Dong Xue,Female,08-02-2020,Gerlitzen,AUT,P.r. China,FIS,Giant Slalom,3,132.00
+68,Dong Xue,Female,26-01-2020,Piancavallo,ITA,P.r. China,World Cup,Parallel Slalom Team,16,
+69,Dong Xue,Female,25-01-2020,Piancavallo,ITA,P.r. China,World Cup,Parallel Slalom,26,50.00
+70,Dong Xue,Female,25-01-2020,Piancavallo,ITA,P.r. China,Qualification,Parallel Slalom,26,
+71,Dong Xue,Female,18-01-2020,Rogla,SLO,P.r. China,World Cup,Parallel Giant Slalom,36,19.70
+72,Dong Xue,Female,18-01-2020,Rogla,SLO,P.r. China,Qualification,Parallel Giant Slalom,36,
+73,Dong Xue,Female,14-01-2020,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,24,70.00
+74,Dong Xue,Female,14-01-2020,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,24,
+75,Dong Xue,Female,11-01-2020,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,22,90.00
+76,Dong Xue,Female,11-01-2020,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,22,
+77,Dong Xue,Female,29-12-2019,Wanlong Ski Resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,2,288.00
+78,Dong Xue,Female,28-12-2019,Wanlong Ski Resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,2,288.00
+79,Dong Xue,Female,19-12-2019,Carezza,ITA,P.r. China,Open,Parallel Giant Slalom,46,
+80,Dong Xue,Female,14-12-2019,Cortina d Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,40,18.50
+81,Dong Xue,Female,14-12-2019,Cortina d Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,40,
+82,Dong Xue,Female,08-12-2019,Bannoye,RUS,P.r. China,World Cup,Parallel Giant Slalom,23,80.00
+83,Dong Xue,Female,08-12-2019,Bannoye,RUS,P.r. China,Qualification,Parallel Giant Slalom,23,
+84,Dong Xue,Female,07-12-2019,Bannoye,RUS,P.r. China,World Cup,Parallel Slalom,26,50.00
+85,Dong Xue,Female,07-12-2019,Bannoye,RUS,P.r. China,Qualification,Parallel Slalom,26,
+86,Dong Xue,Female,30-11-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,5,144.00
+87,Dong Xue,Female,29-11-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,3,216.00
+88,Dong Xue,Female,07-04-2019,Racines,ITA,P.r. China,European Cup,Parallel Slalom,19,43.20
+89,Dong Xue,Female,06-04-2019,Racines,ITA,P.r. China,European Cup,Parallel Slalom,4,180.00
+90,Dong Xue,Female,31-03-2019,Radstadt,AUT,P.r. China,National Championships,Parallel Giant Slalom,6,116.00
+91,Dong Xue,Female,30-03-2019,Radstadt,AUT,P.r. China,National Championships,Parallel Slalom,8,92.80
+92,Dong Xue,Female,27-03-2019,Piancavallo,ITA,P.r. China,National Championships,Parallel Giant Slalom,1,290.00
+93,Dong Xue,Female,26-03-2019,Piancavallo,ITA,P.r. China,National Championships,Parallel Slalom,3,174.00
+94,Dong Xue,Female,17-03-2019,Rogla,SLO,P.r. China,European Cup,Parallel Giant Slalom,21,36.00
+95,Dong Xue,Female,16-03-2019,Rogla,SLO,P.r. China,European Cup,Parallel Giant Slalom,22,32.40
+96,Dong Xue,Female,28-02-2019,Secret Garden,CHN,P.r. China,Asian Cup,Parallel Slalom,4,130.00
+97,Dong Xue,Female,27-02-2019,Secret Garden,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,4,100.00
+98,Dong Xue,Female,24-02-2019,Secret Garden,CHN,P.r. China,World Cup,Parallel Slalom,20,110.00
+99,Dong Xue,Female,24-02-2019,Secret Garden,CHN,P.r. China,Qualification,Parallel Slalom,20,
+100,Dong Xue,Female,23-02-2019,Secret Garden,CHN,P.r. China,World Cup,Parallel Giant Slalom,23,80.00
+101,Dong Xue,Female,23-02-2019,Secret Garden,CHN,P.r. China,Qualification,Parallel Giant Slalom,23,
+102,Dong Xue,Female,12-02-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,4,100.00
+103,Dong Xue,Female,11-02-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,3,120.00
+104,Dong Xue,Female,27-01-2019,Lachtal,AUT,P.r. China,European Cup,Parallel GS,16,27.00
+105,Dong Xue,Female,26-01-2019,Lachtal,AUT,P.r. China,European Cup,Parallel GS,16,27.00
+106,Dong Xue,Female,20-01-2019,Gosau,AUT,P.r. China,FIS,Parallel Slalom,3,90.00
+107,Dong Xue,Female,19-01-2019,Gosau,AUT,P.r. China,FIS,Parallel Slalom,2,112.00
+108,Dong Xue,Female,11-01-2019,Bad Gastein,AUT,P.r. China,European Cup,Parallel Slalom,25,21.60
+109,Dong Xue,Female,10-01-2019,Bad Gastein,AUT,P.r. China,European Cup,Parallel Slalom,22,32.40
+110,Dong Xue,Female,06-01-2019,Simonhöhe,AUT,P.r. China,FIS,Parallel Slalom,10,57.20
+111,Dong Xue,Female,05-01-2019,Simonhöhe,AUT,P.r. China,FIS,Parallel Slalom,11,52.80
+112,Dong Xue,Female,02-12-2017,Changchengling,CHN,P.r. China,National Championships,Parallel Slalom,6,64.00
+113,Dong Xue,Female,01-12-2017,Changchengling,CHN,P.r. China,National Championships,Parallel GS,6,64.00
+114,Dong Xue,Female,11-03-2015,Yabuli,CHN,P.r. China,FIS Junior World Championships,Parallel Slalom,19,43.20
+115,Dong Xue,Female,10-03-2015,Yabuli,CHN,P.r. China,FIS Junior World Championships,Parallel GS,23,28.80

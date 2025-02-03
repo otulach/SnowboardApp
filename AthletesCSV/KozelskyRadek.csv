@@ -1,21 +1,23 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Kozelsky Radek,Male,17-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,17,
-1,Kozelsky Radek,Male,16-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,17,9.80
-2,Kozelsky Radek,Male,07-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Giant Slalom,19,13.20
-3,Kozelsky Radek,Male,06-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Slalom,19,13.20
-4,Kozelsky Radek,Male,22-12-2023,Moninec,CZE,Czechia,FIS,Parallel Slalom,DNS,
-5,Kozelsky Radek,Male,21-12-2023,Moninec,CZE,Czechia,FIS,Parallel Slalom,24,
-6,Kozelsky Radek,Male,04-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,21,
-7,Kozelsky Radek,Male,27-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,18,15.60
-8,Kozelsky Radek,Male,26-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,25,7.20
-9,Kozelsky Radek,Male,25-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,26,6.00
-10,Kozelsky Radek,Male,13-03-2022,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,26,5.50
-11,Kozelsky Radek,Male,12-03-2022,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,30,3.52
-12,Kozelsky Radek,Male,20-02-2022,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,20,
-13,Kozelsky Radek,Male,19-02-2022,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,21,
-14,Kozelsky Radek,Male,16-01-2022,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,26,5.50
-15,Kozelsky Radek,Male,15-01-2022,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,30,
-16,Kozelsky Radek,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Czechia,FIS,Parallel Slalom,12,
-17,Kozelsky Radek,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Czechia,FIS,Slalom,12,
-18,Kozelsky Radek,Male,21-12-2021,Moninec,CZE,Czechia,FIS,Parallel Slalom,29,7.20
-19,Kozelsky Radek,Male,20-12-2021,Moninec,CZE,Czechia,FIS,Parallel Slalom,29,7.20
+0,Kozelsky Radek,Male,19-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,DNF,
+1,Kozelsky Radek,Male,18-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,27,4.05
+2,Kozelsky Radek,Male,17-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,17,
+3,Kozelsky Radek,Male,16-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,17,9.80
+4,Kozelsky Radek,Male,07-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Giant Slalom,19,13.20
+5,Kozelsky Radek,Male,06-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Slalom,19,13.20
+6,Kozelsky Radek,Male,22-12-2023,Moninec,CZE,Czechia,FIS,Parallel Slalom,DNS,
+7,Kozelsky Radek,Male,21-12-2023,Moninec,CZE,Czechia,FIS,Parallel Slalom,24,
+8,Kozelsky Radek,Male,04-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,21,
+9,Kozelsky Radek,Male,27-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,18,15.60
+10,Kozelsky Radek,Male,26-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,25,7.20
+11,Kozelsky Radek,Male,25-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,26,6.00
+12,Kozelsky Radek,Male,13-03-2022,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,26,5.50
+13,Kozelsky Radek,Male,12-03-2022,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,30,3.52
+14,Kozelsky Radek,Male,20-02-2022,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,20,
+15,Kozelsky Radek,Male,19-02-2022,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,21,
+16,Kozelsky Radek,Male,16-01-2022,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,26,5.50
+17,Kozelsky Radek,Male,15-01-2022,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,30,
+18,Kozelsky Radek,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Czechia,FIS,Parallel Slalom,12,
+19,Kozelsky Radek,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Czechia,FIS,Slalom,12,
+20,Kozelsky Radek,Male,21-12-2021,Moninec,CZE,Czechia,FIS,Parallel Slalom,29,7.20
+21,Kozelsky Radek,Male,20-12-2021,Moninec,CZE,Czechia,FIS,Parallel Slalom,29,7.20

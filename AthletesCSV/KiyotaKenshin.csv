@@ -1,48 +1,57 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Kiyota Kenshin,Male,28-08-2024,Corralco,CHI,Japan,South American Cup,Snowboard Cross,5,72.00
-1,Kiyota Kenshin,Male,27-08-2024,Corralco,CHI,Japan,South American Cup,Snowboard Cross,6,64.00
-2,Kiyota Kenshin,Male,30-03-2024,Colere,ITA,Japan,National Championships,Snowboard Cross,7,104.40
-3,Kiyota Kenshin,Male,24-03-2024,Lenk,SUI,Japan,National Championships,Snowboard Cross,9,34.80
-4,Kiyota Kenshin,Male,22-03-2024,Lenk,SUI,Japan,European Cup,Snowboard Cross,24,16.80
-5,Kiyota Kenshin,Male,21-03-2024,Lenk,SUI,Japan,European Cup,Snowboard Cross,35,4.80
-6,Kiyota Kenshin,Male,14-03-2024,Isola 2000,FRA,Japan,European Cup,Snowboard Cross,35,4.00
-7,Kiyota Kenshin,Male,13-03-2024,Isola 2000,FRA,Japan,European Cup,Snowboard Cross,21,20.00
-8,Kiyota Kenshin,Male,11-03-2024,Isola 2000,FRA,Japan,Junior,Snowboard Cross,16,22.50
-9,Kiyota Kenshin,Male,25-02-2024,Grasgehren,GER,Japan,European Cup,Snowboard Cross,7,104.40
-10,Kiyota Kenshin,Male,24-02-2024,Grasgehren,GER,Japan,European Cup,Snowboard Cross,14,57.60
-11,Kiyota Kenshin,Male,17-02-2024,Colere,ITA,Japan,European Cup,Snowboard Cross,20,26.40
-12,Kiyota Kenshin,Male,16-02-2024,Colere,ITA,Japan,European Cup,Snowboard Cross,7,86.40
-13,Kiyota Kenshin,Male,06-02-2024,Reiteralm,AUT,Japan,European Cup,Snowboard Cross,11,48.00
-14,Kiyota Kenshin,Male,05-02-2024,Reiteralm,AUT,Japan,European Cup,Snowboard Cross,DSQ,
-15,Kiyota Kenshin,Male,02-02-2024,Dolni Morava,CZE,Japan,Junior,Snowboard Cross,2,72.00
-16,Kiyota Kenshin,Male,01-02-2024,Dolni Morava,CZE,Japan,European Cup,Snowboard Cross,34,4.84
-17,Kiyota Kenshin,Male,31-01-2024,Dolni Morava,CZE,Japan,European Cup,Snowboard Cross,41,4.00
-18,Kiyota Kenshin,Male,28-01-2024,Puy St. Vincent,FRA,Japan,European Cup,Snowboard Cross,19,24.00
-19,Kiyota Kenshin,Male,27-01-2024,Puy St. Vincent,FRA,Japan,European Cup,Snowboard Cross,31,5.60
-20,Kiyota Kenshin,Male,20-01-2024,Montafon,AUT,Japan,National Championships,Snowboard Cross,42,5.19
-21,Kiyota Kenshin,Male,09-12-2023,Pitztal,AUT,Japan,Junior,Snowboard Cross,10,26.00
-22,Kiyota Kenshin,Male,01-10-2023,Corralco,CHI,Japan,South American Cup,Snowboard Cross,14,64.80
-23,Kiyota Kenshin,Male,30-09-2023,Corralco,CHI,Japan,South American Cup,Snowboard Cross,12,79.20
-24,Kiyota Kenshin,Male,03-09-2023,Corralco (CHI),BRA,Japan,South American Cup,Snowboard Cross,2,128.00
-25,Kiyota Kenshin,Male,03-09-2023,Corralco (CHI),BRA,Japan,South American Cup,Snowboard Cross,4,80.00
-26,Kiyota Kenshin,Male,19-08-2023,Mt Hotham,AUS,Japan,Australian New Zealand Cup,Snowboard Cross,12,44.00
-27,Kiyota Kenshin,Male,18-08-2023,Mt Hotham,AUS,Japan,Australian New Zealand Cup,Snowboard Cross,11,38.40
-28,Kiyota Kenshin,Male,17-08-2023,Mt Hotham,AUS,Japan,Australian New Zealand Cup,Snowboard Cross,3,120.00
-29,Kiyota Kenshin,Male,16-08-2023,Mt Hotham,AUS,Japan,Junior,Snowboard Cross,6,28.00
-30,Kiyota Kenshin,Male,09-04-2023,Yuzawamachi,JPN,Japan,National Championships,Snowboard Cross,3,60.00
-31,Kiyota Kenshin,Male,19-02-2023,Flumserberg,SUI,Japan,Junior,Snowboard Cross,9,31.90
-32,Kiyota Kenshin,Male,18-02-2023,Flumserberg,SUI,Japan,Junior,Snowboard Cross,13,22.00
-33,Kiyota Kenshin,Male,08-02-2023,Cervinia,ITA,Japan,Junior,Snowboard Cross,9,37.70
-34,Kiyota Kenshin,Male,07-02-2023,Cervinia,ITA,Japan,Junior,Snowboard Cross,17,18.20
-35,Kiyota Kenshin,Male,22-01-2023,Puy St.Vincent,FRA,Japan,European Cup,Snowboard Cross,33,5.76
-36,Kiyota Kenshin,Male,21-01-2023,Puy St.Vincent,FRA,Japan,European Cup,Snowboard Cross,16,36.00
-37,Kiyota Kenshin,Male,15-01-2023,Reiteralm,AUT,Japan,European Cup,Snowboard Cross,54,5.15
-38,Kiyota Kenshin,Male,14-01-2023,Reiteralm,AUT,Japan,European Cup,Snowboard Cross,55,5.04
-39,Kiyota Kenshin,Male,08-01-2023,Isola 2000,FRA,Japan,Junior,Snowboard Cross,9,34.80
-40,Kiyota Kenshin,Male,07-01-2023,Isola 2000,FRA,Japan,Junior,Snowboard Cross,9,14.50
-41,Kiyota Kenshin,Male,06-01-2023,Isola 2000,FRA,Japan,European Cup,Snowboard Cross,31,6.72
-42,Kiyota Kenshin,Male,27-11-2022,Pitztal,AUT,Japan,Junior,Snowboard Cross,33,3.84
-43,Kiyota Kenshin,Male,26-11-2022,Pitztal,AUT,Japan,Junior,Snowboard Cross,57,2.41
-44,Kiyota Kenshin,Male,25-11-2022,Pitztal,AUT,Japan,FIS,Snowboard Cross,94,0.51
-45,Kiyota Kenshin,Male,10-04-2022,Yuzawamachi,JPN,Japan,FIS,Snowboard Cross,4,25.00
-46,Kiyota Kenshin,Male,09-04-2022,Yuzawamachi,JPN,Japan,National Championships,Snowboard Cross,11,12.00
+0,Kiyota Kenshin,Male,02-02-2025,Beidahu,CHN,Japan,Qualification,Snowboard Cross,48,
+1,Kiyota Kenshin,Male,02-02-2025,Beidahu,CHN,Japan,World Cup,Snowboard Cross,48,
+2,Kiyota Kenshin,Male,01-02-2025,Beidahu,CHN,Japan,World Cup,Snowboard Cross,50,
+3,Kiyota Kenshin,Male,31-01-2025,Beidahu,CHN,Japan,Qualification,Snowboard Cross,50,
+4,Kiyota Kenshin,Male,14-01-2025,Bardonecchia,ITA,Japan,Universiade,Snowboard Cross,5,99.00
+5,Kiyota Kenshin,Male,14-12-2024,Cervinia,ITA,Japan,World Cup,Snowboard Cross,63,11.60
+6,Kiyota Kenshin,Male,13-12-2024,Cervinia,ITA,Japan,Qualification,Snowboard Cross,63,
+7,Kiyota Kenshin,Male,27-11-2024,Pitztal,AUT,Japan,European Cup,Snowboard Cross,58,4.72
+8,Kiyota Kenshin,Male,27-11-2024,Pitztal,AUT,Japan,Qualification,Snowboard Cross,58,
+9,Kiyota Kenshin,Male,28-08-2024,Corralco,CHI,Japan,South American Cup,Snowboard Cross,5,72.00
+10,Kiyota Kenshin,Male,27-08-2024,Corralco,CHI,Japan,South American Cup,Snowboard Cross,6,64.00
+11,Kiyota Kenshin,Male,30-03-2024,Colere,ITA,Japan,National Championships,Snowboard Cross,7,104.40
+12,Kiyota Kenshin,Male,24-03-2024,Lenk,SUI,Japan,National Championships,Snowboard Cross,9,34.80
+13,Kiyota Kenshin,Male,22-03-2024,Lenk,SUI,Japan,European Cup,Snowboard Cross,24,16.80
+14,Kiyota Kenshin,Male,21-03-2024,Lenk,SUI,Japan,European Cup,Snowboard Cross,35,4.80
+15,Kiyota Kenshin,Male,14-03-2024,Isola 2000,FRA,Japan,European Cup,Snowboard Cross,35,4.00
+16,Kiyota Kenshin,Male,13-03-2024,Isola 2000,FRA,Japan,European Cup,Snowboard Cross,21,20.00
+17,Kiyota Kenshin,Male,11-03-2024,Isola 2000,FRA,Japan,Junior,Snowboard Cross,16,22.50
+18,Kiyota Kenshin,Male,25-02-2024,Grasgehren,GER,Japan,European Cup,Snowboard Cross,7,104.40
+19,Kiyota Kenshin,Male,24-02-2024,Grasgehren,GER,Japan,European Cup,Snowboard Cross,14,57.60
+20,Kiyota Kenshin,Male,17-02-2024,Colere,ITA,Japan,European Cup,Snowboard Cross,20,26.40
+21,Kiyota Kenshin,Male,16-02-2024,Colere,ITA,Japan,European Cup,Snowboard Cross,7,86.40
+22,Kiyota Kenshin,Male,06-02-2024,Reiteralm,AUT,Japan,European Cup,Snowboard Cross,11,48.00
+23,Kiyota Kenshin,Male,05-02-2024,Reiteralm,AUT,Japan,European Cup,Snowboard Cross,DSQ,
+24,Kiyota Kenshin,Male,02-02-2024,Dolni Morava,CZE,Japan,Junior,Snowboard Cross,2,72.00
+25,Kiyota Kenshin,Male,01-02-2024,Dolni Morava,CZE,Japan,European Cup,Snowboard Cross,34,4.84
+26,Kiyota Kenshin,Male,31-01-2024,Dolni Morava,CZE,Japan,European Cup,Snowboard Cross,41,4.00
+27,Kiyota Kenshin,Male,28-01-2024,Puy St. Vincent,FRA,Japan,European Cup,Snowboard Cross,19,24.00
+28,Kiyota Kenshin,Male,27-01-2024,Puy St. Vincent,FRA,Japan,European Cup,Snowboard Cross,31,5.60
+29,Kiyota Kenshin,Male,20-01-2024,Montafon,AUT,Japan,National Championships,Snowboard Cross,42,5.19
+30,Kiyota Kenshin,Male,09-12-2023,Pitztal,AUT,Japan,Junior,Snowboard Cross,10,26.00
+31,Kiyota Kenshin,Male,01-10-2023,Corralco,CHI,Japan,South American Cup,Snowboard Cross,14,64.80
+32,Kiyota Kenshin,Male,30-09-2023,Corralco,CHI,Japan,South American Cup,Snowboard Cross,12,79.20
+33,Kiyota Kenshin,Male,03-09-2023,Corralco (CHI),BRA,Japan,South American Cup,Snowboard Cross,2,128.00
+34,Kiyota Kenshin,Male,03-09-2023,Corralco (CHI),BRA,Japan,South American Cup,Snowboard Cross,4,80.00
+35,Kiyota Kenshin,Male,19-08-2023,Mt Hotham,AUS,Japan,Australian New Zealand Cup,Snowboard Cross,12,44.00
+36,Kiyota Kenshin,Male,18-08-2023,Mt Hotham,AUS,Japan,Australian New Zealand Cup,Snowboard Cross,11,38.40
+37,Kiyota Kenshin,Male,17-08-2023,Mt Hotham,AUS,Japan,Australian New Zealand Cup,Snowboard Cross,3,120.00
+38,Kiyota Kenshin,Male,16-08-2023,Mt Hotham,AUS,Japan,Junior,Snowboard Cross,6,28.00
+39,Kiyota Kenshin,Male,09-04-2023,Yuzawamachi,JPN,Japan,National Championships,Snowboard Cross,3,60.00
+40,Kiyota Kenshin,Male,19-02-2023,Flumserberg,SUI,Japan,Junior,Snowboard Cross,9,31.90
+41,Kiyota Kenshin,Male,18-02-2023,Flumserberg,SUI,Japan,Junior,Snowboard Cross,13,22.00
+42,Kiyota Kenshin,Male,08-02-2023,Cervinia,ITA,Japan,Junior,Snowboard Cross,9,37.70
+43,Kiyota Kenshin,Male,07-02-2023,Cervinia,ITA,Japan,Junior,Snowboard Cross,17,18.20
+44,Kiyota Kenshin,Male,22-01-2023,Puy St.Vincent,FRA,Japan,European Cup,Snowboard Cross,33,5.76
+45,Kiyota Kenshin,Male,21-01-2023,Puy St.Vincent,FRA,Japan,European Cup,Snowboard Cross,16,36.00
+46,Kiyota Kenshin,Male,15-01-2023,Reiteralm,AUT,Japan,European Cup,Snowboard Cross,54,5.15
+47,Kiyota Kenshin,Male,14-01-2023,Reiteralm,AUT,Japan,European Cup,Snowboard Cross,55,5.04
+48,Kiyota Kenshin,Male,08-01-2023,Isola 2000,FRA,Japan,Junior,Snowboard Cross,9,34.80
+49,Kiyota Kenshin,Male,07-01-2023,Isola 2000,FRA,Japan,Junior,Snowboard Cross,9,14.50
+50,Kiyota Kenshin,Male,06-01-2023,Isola 2000,FRA,Japan,European Cup,Snowboard Cross,31,6.72
+51,Kiyota Kenshin,Male,27-11-2022,Pitztal,AUT,Japan,Junior,Snowboard Cross,33,3.84
+52,Kiyota Kenshin,Male,26-11-2022,Pitztal,AUT,Japan,Junior,Snowboard Cross,57,2.41
+53,Kiyota Kenshin,Male,25-11-2022,Pitztal,AUT,Japan,FIS,Snowboard Cross,94,0.51
+54,Kiyota Kenshin,Male,10-04-2022,Yuzawamachi,JPN,Japan,FIS,Snowboard Cross,4,25.00
+55,Kiyota Kenshin,Male,09-04-2022,Yuzawamachi,JPN,Japan,National Championships,Snowboard Cross,11,12.00

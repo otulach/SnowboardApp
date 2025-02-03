@@ -1,48 +1,50 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Bernard Hunter,Male,22-01-2023,Gore Mountain,USA,United States Of America,Qualification,Parallel Slalom,18,
-1,Bernard Hunter,Male,22-01-2023,Gore Mountain,USA,United States Of America,Universiade,Parallel Slalom,18,28.60
-2,Bernard Hunter,Male,21-01-2023,Gore Mountain,USA,United States Of America,Qualification,Parallel Giant Slalom,26,
-3,Bernard Hunter,Male,21-01-2023,Gore Mountain,USA,United States Of America,Universiade,Parallel Giant Slalom,26,11.00
-4,Bernard Hunter,Male,13-01-2023,Gore Mountain,USA,United States Of America,Universiade,Snowboard Cross,18,
-5,Bernard Hunter,Male,12-01-2023,Gore Mountain,USA,United States Of America,Qualification,Snowboard Cross,16,
-6,Bernard Hunter,Male,05-03-2020,Blue Mountain,CAN,United States Of America,National Junior Championships,Parallel Slalom,10,39.00
-7,Bernard Hunter,Male,04-03-2020,Blue Mountain,CAN,United States Of America,National Junior Championships,Parallel Giant Slalom,10,39.00
-8,Bernard Hunter,Male,03-03-2020,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,25,
-9,Bernard Hunter,Male,02-03-2020,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,33,7.68
-10,Bernard Hunter,Male,09-02-2020,Alpine Ski Club,CAN,United States Of America,FIS,Parallel Slalom,14,28.80
-11,Bernard Hunter,Male,08-02-2020,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,24,14.00
-12,Bernard Hunter,Male,07-02-2020,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,23,16.00
-13,Bernard Hunter,Male,04-02-2020,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,27,9.00
-14,Bernard Hunter,Male,03-02-2020,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,26,10.00
-15,Bernard Hunter,Male,25-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,FIS,Parallel Giant Slalom,20,17.60
-16,Bernard Hunter,Male,24-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Slalom,21,20.00
-17,Bernard Hunter,Male,23-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,22,18.00
-18,Bernard Hunter,Male,10-01-2020,Tremblant.QC,CAN,United States Of America,FIS,Parallel Giant Slalom,16,24.00
-19,Bernard Hunter,Male,22-12-2019,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,37,3.88
-20,Bernard Hunter,Male,21-12-2019,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,DSQ,
-21,Bernard Hunter,Male,20-12-2019,"Buck Hill, MN",USA,United States Of America,Junior,Parallel Slalom,18,15.60
-22,Bernard Hunter,Male,20-12-2019,"Buck Hill, MN",USA,United States Of America,FIS,Parallel Slalom,28,6.40
-23,Bernard Hunter,Male,30-11-2019,Pyhatunturi,FIN,United States Of America,FIS,Snowboard Cross,36,4.33
-24,Bernard Hunter,Male,15-03-2019,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Snowboard Cross,22,14.40
-25,Bernard Hunter,Male,14-03-2019,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Snowboard Cross,29,5.76
-26,Bernard Hunter,Male,09-03-2019,Toronto Ski Club,CAN,United States Of America,FIS,Parallel Giant Slalom,12,24.20
-27,Bernard Hunter,Male,07-03-2019,Blue Mountain,CAN,United States Of America,FIS,Parallel Slalom,8,32.00
-28,Bernard Hunter,Male,06-03-2019,Blue Mountain,CAN,United States Of America,National Junior Championships,Parallel Giant Slalom,16,
-29,Bernard Hunter,Male,05-03-2019,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,21,24.00
-30,Bernard Hunter,Male,04-03-2019,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,30,
-31,Bernard Hunter,Male,01-03-2019,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,29,6.48
-32,Bernard Hunter,Male,28-02-2019,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,26,9.00
-33,Bernard Hunter,Male,21-02-2019,Ski Cooper,USA,United States Of America,Nor-Am Cup,Snowboard Cross,23,12.80
-34,Bernard Hunter,Male,20-02-2019,Ski Cooper,USA,United States Of America,Nor-Am Cup,Snowboard Cross,35,3.20
-35,Bernard Hunter,Male,10-02-2019,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,23,
-36,Bernard Hunter,Male,09-02-2019,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,DSQ,
-37,Bernard Hunter,Male,08-02-2019,Craigleith,CAN,United States Of America,Nor-Am Cup,Snowboard Cross,35,3.20
-38,Bernard Hunter,Male,07-02-2019,Craigleith,CAN,United States Of America,Nor-Am Cup,Snowboard Cross,52,2.38
-39,Bernard Hunter,Male,04-01-2019,"Le Relais, QC",CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,26,13.00
-40,Bernard Hunter,Male,03-01-2019,"Le Relais, QC",CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,31,
-41,Bernard Hunter,Male,16-12-2018,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,32,4.16
-42,Bernard Hunter,Male,15-12-2018,"Buck Hill, MN",USA,United States Of America,Junior,Parallel Slalom,28,
-43,Bernard Hunter,Male,15-12-2018,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,33,3.84
-44,Bernard Hunter,Male,14-12-2018,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,30,5.12
-45,Bernard Hunter,Male,02-02-2018,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,DNS,
-46,Bernard Hunter,Male,01-02-2018,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,DNS,
+0,Bernard Hunter,Male,22-01-2025,Bardonecchia,ITA,United States Of America,Universiade,Parallel Slalom,22,23.40
+1,Bernard Hunter,Male,21-01-2025,Bardonecchia,ITA,United States Of America,Universiade,Parallel Giant Slalom,20,28.60
+2,Bernard Hunter,Male,22-01-2023,Gore Mountain,USA,United States Of America,Qualification,Parallel Slalom,18,
+3,Bernard Hunter,Male,22-01-2023,Gore Mountain,USA,United States Of America,Universiade,Parallel Slalom,18,28.60
+4,Bernard Hunter,Male,21-01-2023,Gore Mountain,USA,United States Of America,Qualification,Parallel Giant Slalom,26,
+5,Bernard Hunter,Male,21-01-2023,Gore Mountain,USA,United States Of America,Universiade,Parallel Giant Slalom,26,11.00
+6,Bernard Hunter,Male,13-01-2023,Gore Mountain,USA,United States Of America,Universiade,Snowboard Cross,18,
+7,Bernard Hunter,Male,12-01-2023,Gore Mountain,USA,United States Of America,Qualification,Snowboard Cross,16,
+8,Bernard Hunter,Male,05-03-2020,Blue Mountain,CAN,United States Of America,National Junior Championships,Parallel Slalom,10,39.00
+9,Bernard Hunter,Male,04-03-2020,Blue Mountain,CAN,United States Of America,National Junior Championships,Parallel Giant Slalom,10,39.00
+10,Bernard Hunter,Male,03-03-2020,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,25,
+11,Bernard Hunter,Male,02-03-2020,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,33,7.68
+12,Bernard Hunter,Male,09-02-2020,Alpine Ski Club,CAN,United States Of America,FIS,Parallel Slalom,14,28.80
+13,Bernard Hunter,Male,08-02-2020,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,24,14.00
+14,Bernard Hunter,Male,07-02-2020,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,23,16.00
+15,Bernard Hunter,Male,04-02-2020,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,27,9.00
+16,Bernard Hunter,Male,03-02-2020,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,26,10.00
+17,Bernard Hunter,Male,25-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,FIS,Parallel Giant Slalom,20,17.60
+18,Bernard Hunter,Male,24-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Slalom,21,20.00
+19,Bernard Hunter,Male,23-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,22,18.00
+20,Bernard Hunter,Male,10-01-2020,Tremblant.QC,CAN,United States Of America,FIS,Parallel Giant Slalom,16,24.00
+21,Bernard Hunter,Male,22-12-2019,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,37,3.88
+22,Bernard Hunter,Male,21-12-2019,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,DSQ,
+23,Bernard Hunter,Male,20-12-2019,"Buck Hill, MN",USA,United States Of America,Junior,Parallel Slalom,18,15.60
+24,Bernard Hunter,Male,20-12-2019,"Buck Hill, MN",USA,United States Of America,FIS,Parallel Slalom,28,6.40
+25,Bernard Hunter,Male,30-11-2019,Pyhatunturi,FIN,United States Of America,FIS,Snowboard Cross,36,4.33
+26,Bernard Hunter,Male,15-03-2019,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Snowboard Cross,22,14.40
+27,Bernard Hunter,Male,14-03-2019,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Snowboard Cross,29,5.76
+28,Bernard Hunter,Male,09-03-2019,Toronto Ski Club,CAN,United States Of America,FIS,Parallel Giant Slalom,12,24.20
+29,Bernard Hunter,Male,07-03-2019,Blue Mountain,CAN,United States Of America,FIS,Parallel Slalom,8,32.00
+30,Bernard Hunter,Male,06-03-2019,Blue Mountain,CAN,United States Of America,National Junior Championships,Parallel Giant Slalom,16,
+31,Bernard Hunter,Male,05-03-2019,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,21,24.00
+32,Bernard Hunter,Male,04-03-2019,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,30,
+33,Bernard Hunter,Male,01-03-2019,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,29,6.48
+34,Bernard Hunter,Male,28-02-2019,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,26,9.00
+35,Bernard Hunter,Male,21-02-2019,Ski Cooper,USA,United States Of America,Nor-Am Cup,Snowboard Cross,23,12.80
+36,Bernard Hunter,Male,20-02-2019,Ski Cooper,USA,United States Of America,Nor-Am Cup,Snowboard Cross,35,3.20
+37,Bernard Hunter,Male,10-02-2019,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,23,
+38,Bernard Hunter,Male,09-02-2019,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,DSQ,
+39,Bernard Hunter,Male,08-02-2019,Craigleith,CAN,United States Of America,Nor-Am Cup,Snowboard Cross,35,3.20
+40,Bernard Hunter,Male,07-02-2019,Craigleith,CAN,United States Of America,Nor-Am Cup,Snowboard Cross,52,2.38
+41,Bernard Hunter,Male,04-01-2019,"Le Relais, QC",CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,26,13.00
+42,Bernard Hunter,Male,03-01-2019,"Le Relais, QC",CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,31,
+43,Bernard Hunter,Male,16-12-2018,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,32,4.16
+44,Bernard Hunter,Male,15-12-2018,"Buck Hill, MN",USA,United States Of America,Junior,Parallel Slalom,28,
+45,Bernard Hunter,Male,15-12-2018,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,33,3.84
+46,Bernard Hunter,Male,14-12-2018,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,30,5.12
+47,Bernard Hunter,Male,02-02-2018,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,DNS,
+48,Bernard Hunter,Male,01-02-2018,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,DNS,

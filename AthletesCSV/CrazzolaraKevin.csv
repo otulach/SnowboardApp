@@ -1,50 +1,67 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Crazzolara Kevin,Male,13-03-2024,Davos/Rinerhorn ,SUI,Italy,European Cup,Parallel Giant Slalom,28,14.40
-1,Crazzolara Kevin,Male,12-03-2024,Davos/Rinerhorn ,SUI,Italy,European Cup,Parallel Giant Slalom,36,7.09
-2,Crazzolara Kevin,Male,09-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,DNS,
-3,Crazzolara Kevin,Male,24-02-2024,Alleghe,ITA,Italy,Junior,Parallel Giant Slalom,13,30.00
-4,Crazzolara Kevin,Male,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,33,6.96
-5,Crazzolara Kevin,Male,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,28,11.60
-6,Crazzolara Kevin,Male,04-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,21,14.00
-7,Crazzolara Kevin,Male,03-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,24,9.80
-8,Crazzolara Kevin,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,29,5.76
-9,Crazzolara Kevin,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,13,26.00
-10,Crazzolara Kevin,Male,14-01-2024,Gosau,AUT,Italy,FIS,Parallel Slalom,DSQ,
-11,Crazzolara Kevin,Male,13-01-2024,Gosau,AUT,Italy,FIS,Parallel Slalom,9,29.00
-12,Crazzolara Kevin,Male,12-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,DSQ,
-13,Crazzolara Kevin,Male,12-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,DSQ1,
-14,Crazzolara Kevin,Male,11-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,33,
-15,Crazzolara Kevin,Male,11-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,33,
-16,Crazzolara Kevin,Male,05-01-2024,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,11,26.40
-17,Crazzolara Kevin,Male,22-12-2023,Moninec,CZE,Italy,Junior,Parallel Slalom,5,31.50
-18,Crazzolara Kevin,Male,21-12-2023,Moninec,CZE,Italy,Junior,Parallel Slalom,12,22.00
-19,Crazzolara Kevin,Male,20-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,30,7.04
-20,Crazzolara Kevin,Male,19-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,44,3.81
-21,Crazzolara Kevin,Male,10-12-2023,Götschen,GER,Italy,Junior,Parallel Slalom,17,18.20
-22,Crazzolara Kevin,Male,09-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,51,5.47
-23,Crazzolara Kevin,Male,09-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,51,
-24,Crazzolara Kevin,Male,08-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,53,5.26
-25,Crazzolara Kevin,Male,08-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,53,
-26,Crazzolara Kevin,Male,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,23,23.20
-27,Crazzolara Kevin,Male,19-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,DNF,
-28,Crazzolara Kevin,Male,18-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,35,3.60
-29,Crazzolara Kevin,Male,12-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,13,36.00
-30,Crazzolara Kevin,Male,11-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,19,26.40
-31,Crazzolara Kevin,Male,05-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,13,32.00
-32,Crazzolara Kevin,Male,04-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,21,22.00
-33,Crazzolara Kevin,Male,26-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,DSQ,
-34,Crazzolara Kevin,Male,25-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,12,28.60
-35,Crazzolara Kevin,Male,19-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,9,34.80
-36,Crazzolara Kevin,Male,18-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,12,26.40
-37,Crazzolara Kevin,Male,12-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,44,3.81
-38,Crazzolara Kevin,Male,11-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,38,4.20
-39,Crazzolara Kevin,Male,29-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,42,
-40,Crazzolara Kevin,Male,29-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,42,3.22
-41,Crazzolara Kevin,Male,28-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,42,
-42,Crazzolara Kevin,Male,28-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,42,3.22
-43,Crazzolara Kevin,Male,15-01-2023,Alleghe,ITA,Italy,Qualification,Parallel Slalom,DNS,
-44,Crazzolara Kevin,Male,15-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,DNS,
-45,Crazzolara Kevin,Male,14-01-2023,Alleghe,ITA,Italy,Qualification,Parallel Slalom,19,
-46,Crazzolara Kevin,Male,14-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,19,19.20
-47,Crazzolara Kevin,Male,08-01-2023,Haus im Ennstal,AUT,Italy,Junior,Giant Slalom,15,19.20
-48,Crazzolara Kevin,Male,07-01-2023,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,23,9.60
+0,Crazzolara Kevin,Male,02-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,24,
+1,Crazzolara Kevin,Male,02-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,24,
+2,Crazzolara Kevin,Male,01-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,27,
+3,Crazzolara Kevin,Male,01-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,27,
+4,Crazzolara Kevin,Male,26-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,46,5.34
+5,Crazzolara Kevin,Male,25-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,30,5.76
+6,Crazzolara Kevin,Male,19-01-2025,Samnaun,SUI,Italy,Junior Regional Cup,Parallel Slalom,6,28.00
+7,Crazzolara Kevin,Male,18-01-2025,Samnaun,SUI,Italy,Junior Regional Cup,Parallel Slalom,2,56.00
+8,Crazzolara Kevin,Male,12-01-2025,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,8,48.00
+9,Crazzolara Kevin,Male,11-01-2025,Folgaria,ITA,Italy,European Cup,Parallel Giant Slalom,13,36.00
+10,Crazzolara Kevin,Male,11-01-2025,Folgaria,ITA,Italy,Qualification,Parallel Giant Slalom,12,
+11,Crazzolara Kevin,Male,10-01-2025,Folgaria,ITA,Italy,European Cup,Parallel Giant Slalom,21,18.00
+12,Crazzolara Kevin,Male,10-01-2025,Folgaria,ITA,Italy,Qualification,Parallel Giant Slalom,21,
+13,Crazzolara Kevin,Male,06-01-2025,Simonhoehe,AUT,Italy,Junior Regional Cup,Parallel Giant Slalom,9,52.20
+14,Crazzolara Kevin,Male,05-01-2025,Simonhoehe,AUT,Italy,Junior Regional Cup,Parallel Giant Slalom,7,64.80
+15,Crazzolara Kevin,Male,15-12-2024,Götschen,GER,Italy,European Cup,Parallel Slalom,28,9.60
+16,Crazzolara Kevin,Male,14-12-2024,Götschen,GER,Italy,European Cup,Parallel Slalom,22,14.40
+17,Crazzolara Kevin,Male,13-03-2024,Davos/Rinerhorn ,SUI,Italy,European Cup,Parallel Giant Slalom,28,14.40
+18,Crazzolara Kevin,Male,12-03-2024,Davos/Rinerhorn ,SUI,Italy,European Cup,Parallel Giant Slalom,36,7.09
+19,Crazzolara Kevin,Male,09-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,DNS,
+20,Crazzolara Kevin,Male,24-02-2024,Alleghe,ITA,Italy,Junior,Parallel Giant Slalom,13,30.00
+21,Crazzolara Kevin,Male,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,33,6.96
+22,Crazzolara Kevin,Male,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,28,11.60
+23,Crazzolara Kevin,Male,04-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,21,14.00
+24,Crazzolara Kevin,Male,03-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,24,9.80
+25,Crazzolara Kevin,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,29,5.76
+26,Crazzolara Kevin,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,13,26.00
+27,Crazzolara Kevin,Male,14-01-2024,Gosau,AUT,Italy,FIS,Parallel Slalom,DSQ,
+28,Crazzolara Kevin,Male,13-01-2024,Gosau,AUT,Italy,FIS,Parallel Slalom,9,29.00
+29,Crazzolara Kevin,Male,12-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,DSQ1,
+30,Crazzolara Kevin,Male,12-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,DSQ,
+31,Crazzolara Kevin,Male,11-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,33,
+32,Crazzolara Kevin,Male,11-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,33,
+33,Crazzolara Kevin,Male,05-01-2024,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,11,26.40
+34,Crazzolara Kevin,Male,22-12-2023,Moninec,CZE,Italy,Junior,Parallel Slalom,5,31.50
+35,Crazzolara Kevin,Male,21-12-2023,Moninec,CZE,Italy,Junior,Parallel Slalom,12,22.00
+36,Crazzolara Kevin,Male,20-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,30,7.04
+37,Crazzolara Kevin,Male,19-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,44,3.81
+38,Crazzolara Kevin,Male,10-12-2023,Götschen,GER,Italy,Junior,Parallel Slalom,17,18.20
+39,Crazzolara Kevin,Male,09-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,51,5.47
+40,Crazzolara Kevin,Male,09-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,51,
+41,Crazzolara Kevin,Male,08-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,53,5.26
+42,Crazzolara Kevin,Male,08-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,53,
+43,Crazzolara Kevin,Male,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,23,23.20
+44,Crazzolara Kevin,Male,19-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,DNF,
+45,Crazzolara Kevin,Male,18-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,35,3.60
+46,Crazzolara Kevin,Male,12-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,13,36.00
+47,Crazzolara Kevin,Male,11-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,19,26.40
+48,Crazzolara Kevin,Male,05-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,13,32.00
+49,Crazzolara Kevin,Male,04-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,21,22.00
+50,Crazzolara Kevin,Male,26-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,DSQ,
+51,Crazzolara Kevin,Male,25-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,12,28.60
+52,Crazzolara Kevin,Male,19-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,9,34.80
+53,Crazzolara Kevin,Male,18-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,12,26.40
+54,Crazzolara Kevin,Male,12-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,44,3.81
+55,Crazzolara Kevin,Male,11-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,38,4.20
+56,Crazzolara Kevin,Male,29-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,42,3.22
+57,Crazzolara Kevin,Male,29-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,42,
+58,Crazzolara Kevin,Male,28-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,42,
+59,Crazzolara Kevin,Male,28-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,42,3.22
+60,Crazzolara Kevin,Male,15-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,DNS,
+61,Crazzolara Kevin,Male,15-01-2023,Alleghe,ITA,Italy,Qualification,Parallel Slalom,DNS,
+62,Crazzolara Kevin,Male,14-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,19,19.20
+63,Crazzolara Kevin,Male,14-01-2023,Alleghe,ITA,Italy,Qualification,Parallel Slalom,19,
+64,Crazzolara Kevin,Male,08-01-2023,Haus im Ennstal,AUT,Italy,Junior,Giant Slalom,15,19.20
+65,Crazzolara Kevin,Male,07-01-2023,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,23,9.60

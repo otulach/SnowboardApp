@@ -1,149 +1,159 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Koshisaka Ayana,Female,07-04-2024,Samnaun,SUI,Japan,National Championships,Giant Slalom,4,145.00
-1,Koshisaka Ayana,Female,06-04-2024,Samnaun,SUI,Japan,National Championships,Parallel Slalom,8,92.80
-2,Koshisaka Ayana,Female,02-04-2024,"Copper Mountain, CO",USA,Japan,National Championships,Parallel Slalom,5,81.00
-3,Koshisaka Ayana,Female,01-04-2024,"Copper Mountain, CO",USA,Japan,National Championships,Parallel Giant Slalom,6,72.00
-4,Koshisaka Ayana,Female,19-03-2024,Wanglong Ski Resrort,CHN,Japan,Asian Cup,Slalom,7,57.60
-5,Koshisaka Ayana,Female,18-03-2024,Wanglong Ski Resrort,CHN,Japan,Asian Cup,Parallel Giant Slalom,10,41.60
-6,Koshisaka Ayana,Female,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Japan,Asian Cup,Parallel Slalom,6,64.00
-7,Koshisaka Ayana,Female,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Japan,Asian Cup,Parallel Giant Slalom,11,38.40
-8,Koshisaka Ayana,Female,05-03-2024,High1resort,KOR,Japan,Asian Cup,Parallel Slalom,5,72.00
-9,Koshisaka Ayana,Female,04-03-2024,High1resort,KOR,Japan,Asian Cup,Parallel Giant Slalom,12,35.20
-10,Koshisaka Ayana,Female,10-02-2024,"Alpine Ski Club,",CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,12,39.60
-11,Koshisaka Ayana,Female,09-02-2024,"Alpine Ski Club,",CAN,Japan,Nor-Am Cup,Parallel Slalom,5,81.00
-12,Koshisaka Ayana,Female,06-02-2024,Val Saint Come,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,6,72.00
-13,Koshisaka Ayana,Female,05-02-2024,Val Saint Come,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,6,72.00
-14,Koshisaka Ayana,Female,27-01-2024,Simonhöhe,AUT,Japan,Qualification,Parallel Giant Slalom,34,
-15,Koshisaka Ayana,Female,27-01-2024,Simonhöhe,AUT,Japan,World Cup,Parallel Giant Slalom,34,
-16,Koshisaka Ayana,Female,25-01-2024,Rogla,SLO,Japan,Qualification,Parallel Giant Slalom,26,
-17,Koshisaka Ayana,Female,25-01-2024,Rogla,SLO,Japan,World Cup,Parallel Giant Slalom,26,
-18,Koshisaka Ayana,Female,21-01-2024,Pamporovo,BUL,Japan,Qualification,Parallel Slalom,32,
-19,Koshisaka Ayana,Female,21-01-2024,Pamporovo,BUL,Japan,World Cup,Parallel Slalom,32,
-20,Koshisaka Ayana,Female,20-01-2024,Pamporovo,BUL,Japan,Qualification,Parallel Slalom,34,
-21,Koshisaka Ayana,Female,20-01-2024,Pamporovo,BUL,Japan,World Cup,Parallel Slalom,34,22.00
-22,Koshisaka Ayana,Female,17-01-2024,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom Team,22,
-23,Koshisaka Ayana,Female,16-01-2024,Bad Gastein,AUT,Japan,Qualification,Parallel Slalom,34,
-24,Koshisaka Ayana,Female,16-01-2024,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,34,
-25,Koshisaka Ayana,Female,13-01-2024,Scuol,SUI,Japan,Qualification,Parallel Giant Slalom,DSQ,
-26,Koshisaka Ayana,Female,13-01-2024,Scuol,SUI,Japan,World Cup,Parallel Giant Slalom,DSQ,
-27,Koshisaka Ayana,Female,23-12-2023,Davos ,SUI,Japan,Qualification,Parallel Slalom,29,
-28,Koshisaka Ayana,Female,23-12-2023,Davos,SUI,Japan,World Cup,Parallel Slalom,29,36.00
-29,Koshisaka Ayana,Female,16-12-2023,Cortina d'Ampezzo,ITA,Japan,Qualification,Parallel Giant Slalom,32,
-30,Koshisaka Ayana,Female,16-12-2023,Cortina d'Ampezzo,ITA,Japan,World Cup,Parallel Giant Slalom,32,26.00
-31,Koshisaka Ayana,Female,14-12-2023,Carezza,ITA,Japan,Qualification,Parallel Giant Slalom,37,
-32,Koshisaka Ayana,Female,14-12-2023,Carezza,ITA,Japan,World Cup,Parallel Giant Slalom,37,
-33,Koshisaka Ayana,Female,09-12-2023,Götschen,GER,Japan,Qualification,Parallel Slalom,35,
-34,Koshisaka Ayana,Female,09-12-2023,Götschen,GER,Japan,European Cup,Parallel Slalom,35,7.20
-35,Koshisaka Ayana,Female,08-12-2023,Götschen,GER,Japan,Qualification,Parallel Slalom,29,
-36,Koshisaka Ayana,Female,08-12-2023,Götschen,GER,Japan,European Cup,Parallel Slalom,29,12.96
-37,Koshisaka Ayana,Female,30-03-2023,Cortina dAmpezzo,ITA,Japan,National Championships,Parallel Slalom,9,84.10
-38,Koshisaka Ayana,Female,26-03-2023,Villach - Gerlitzen,AUT,Japan,FIS,Parallel Slalom,6,48.00
-39,Koshisaka Ayana,Female,25-03-2023,Villach - Gerlitzen,AUT,Japan,FIS,Parallel Slalom,6,48.00
-40,Koshisaka Ayana,Female,11-03-2023,Horseshoe Resort,CAN,Japan,FIS,Parallel Giant Slalom,3,60.00
-41,Koshisaka Ayana,Female,10-03-2023,Horseshoe Resort,CAN,Japan,Nor-Am Cup,Parallel Slalom,1,160.00
-42,Koshisaka Ayana,Female,10-03-2023,Horseshoe Resort,CAN,Japan,FIS,Parallel Slalom,4,50.00
-43,Koshisaka Ayana,Female,09-03-2023,Horseshoe Resort,CAN,Japan,Nor-Am Cup,Parallel Slalom,2,128.00
-44,Koshisaka Ayana,Female,03-03-2023,high1 resort,KOR,Japan,Asian Cup,Parallel Slalom,1,160.00
-45,Koshisaka Ayana,Female,02-03-2023,high1 resort,KOR,Japan,Asian Cup,Parallel Giant Slalom,2,128.00
-46,Koshisaka Ayana,Female,07-02-2023,high1 resort,KOR,Japan,FIS,Parallel Slalom,2,88.00
-47,Koshisaka Ayana,Female,06-02-2023,high1 resort,KOR,Japan,FIS,Parallel Giant Slalom,6,56.00
-48,Koshisaka Ayana,Female,18-12-2022,Hochfügen,GER,Japan,European Cup,Parallel Giant Slalom,16,30.00
-49,Koshisaka Ayana,Female,18-12-2022,Hochfügen,GER,Japan,Qualification,Parallel Giant Slalom,16,
-50,Koshisaka Ayana,Female,17-12-2022,Hochfügen,GER,Japan,European Cup,Parallel Giant Slalom,15,32.00
-51,Koshisaka Ayana,Female,17-03-2022,Rogla,SLO,Japan,European Cup,Parallel Giant Slalom,26,18.00
-52,Koshisaka Ayana,Female,13-03-2022,Spindleruv Mlyn,CZE,Japan,National Championships,Parallel Slalom,9,34.80
-53,Koshisaka Ayana,Female,12-03-2022,Spindleruv Mlyn,CZE,Japan,National Championships,Parallel Giant Slalom,5,54.00
-54,Koshisaka Ayana,Female,06-03-2022,Lachtal,AUT,Japan,European Cup,Parallel Giant Slalom,35,7.20
-55,Koshisaka Ayana,Female,05-03-2022,Lachtal,AUT,Japan,European Cup,Parallel Giant Slalom,33,8.64
-56,Koshisaka Ayana,Female,25-02-2022,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,5,40.50
-57,Koshisaka Ayana,Female,24-02-2022,Akan,JPN,Japan,FIS,Parallel Giant Slalom,4,45.00
-58,Koshisaka Ayana,Female,30-01-2022,Davos,SUI,Japan,European Cup,Parallel Slalom,22,21.60
-59,Koshisaka Ayana,Female,29-01-2022,Davos,SUI,Japan,European Cup,Parallel Slalom,33,
-60,Koshisaka Ayana,Female,23-01-2022,Bardonecchia,ITA,Japan,FIS,Slalom,1,50.00
-61,Koshisaka Ayana,Female,22-01-2022,Bardonecchia,ITA,Japan,FIS,Slalom,1,50.00
-62,Koshisaka Ayana,Female,21-12-2021,Moninec,CZE,Japan,FIS,Parallel Slalom,20,19.80
-63,Koshisaka Ayana,Female,20-12-2021,Moninec,CZE,Japan,FIS,Parallel Slalom,29,6.48
-64,Koshisaka Ayana,Female,19-12-2021,Moninec,CZE,Japan,European Cup,Parallel Slalom,36,3.94
-65,Koshisaka Ayana,Female,18-12-2021,Moninec,CZE,Japan,European Cup,Parallel Slalom,37,3.88
-66,Koshisaka Ayana,Female,12-12-2021,Götschen,GER,Japan,European Cup,Parallel Slalom,39,3.76
-67,Koshisaka Ayana,Female,11-12-2021,Götschen,GER,Japan,European Cup,Parallel Slalom,22,18.00
-68,Koshisaka Ayana,Female,20-03-2021,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,10,23.40
-69,Koshisaka Ayana,Female,07-02-2021,Sapporo Bankei,JPN,Japan,FIS,Giant Slalom,6,28.00
-70,Koshisaka Ayana,Female,08-02-2020,Alpine Ski Club,CAN,Japan,Nor-Am Cup,Parallel Slalom,11,38.40
-71,Koshisaka Ayana,Female,07-02-2020,Alpine Ski Club,CAN,Japan,Nor-Am Cup,Parallel Slalom,9,46.40
-72,Koshisaka Ayana,Female,04-02-2020,"Holiday Valley Resort, NY",USA,Japan,Nor-Am Cup,Parallel Giant Slalom,9,46.40
-73,Koshisaka Ayana,Female,03-02-2020,"Holiday Valley Resort, NY",USA,Japan,Nor-Am Cup,Parallel Giant Slalom,8,51.20
-74,Koshisaka Ayana,Female,25-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,Japan,FIS,Parallel Giant Slalom,6,48.00
-75,Koshisaka Ayana,Female,24-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,Japan,Nor-Am Cup,Parallel Slalom,9,46.40
-76,Koshisaka Ayana,Female,23-01-2020,"Steamboat Springs, CO",USA,Japan,Nor-Am Cup,Parallel Giant Slalom,8,51.20
-77,Koshisaka Ayana,Female,22-12-2019,"Buck Hill, MN",USA,Japan,Nor-Am Cup,Parallel Slalom,19,19.20
-78,Koshisaka Ayana,Female,21-12-2019,"Buck Hill, MN",USA,Japan,Nor-Am Cup,Parallel Slalom,13,32.00
-79,Koshisaka Ayana,Female,20-12-2019,"Buck Hill, MN",USA,Japan,FIS,Parallel Slalom,15,19.20
-80,Koshisaka Ayana,Female,31-03-2019,Radstadt,AUT,Japan,National Championships,Parallel Giant Slalom,26,14.50
-81,Koshisaka Ayana,Female,30-03-2019,Radstadt,AUT,Japan,National Championships,Parallel Slalom,31,8.12
-82,Koshisaka Ayana,Female,27-03-2019,Piancavallo,ITA,Japan,National Championships,Parallel Giant Slalom,17,40.60
-83,Koshisaka Ayana,Female,26-03-2019,Piancavallo,ITA,Japan,National Championships,Parallel Slalom,17,40.60
-84,Koshisaka Ayana,Female,17-03-2019,Rogla,SLO,Japan,European Cup,Parallel Giant Slalom,DNF1,
-85,Koshisaka Ayana,Female,16-03-2019,Rogla,SLO,Japan,European Cup,Parallel Giant Slalom,54,5.15
-86,Koshisaka Ayana,Female,03-03-2019,Kurikoma Akiata,JPN,Japan,National Championships,Parallel Giant Slalom,2,56.00
-87,Koshisaka Ayana,Female,02-03-2019,Kurikoma Akiata,JPN,Japan,FIS,Parallel Giant Slalom,2,56.00
-88,Koshisaka Ayana,Female,24-02-2019,Funes/Villnoess,ITA,Japan,FIS,Parallel Giant Slalom,11,33.60
-89,Koshisaka Ayana,Female,23-02-2019,Funes/Villnoess,ITA,Japan,FIS,Parallel Giant Slalom,12,30.80
-90,Koshisaka Ayana,Female,17-02-2019,Simonhoehe,AUT,Japan,FIS,Parallel GS,19,24.00
-91,Koshisaka Ayana,Female,16-02-2019,Simonhoehe,AUT,Japan,FIS,Parallel GS,17,28.00
-92,Koshisaka Ayana,Female,16-12-2018,"Buck Hill, MN",USA,Japan,Nor-Am Cup,Parallel Slalom,11,38.40
-93,Koshisaka Ayana,Female,15-12-2018,"Buck Hill, MN",USA,Japan,Nor-Am Cup,Parallel Slalom,6,64.00
-94,Koshisaka Ayana,Female,14-12-2018,"Buck Hill, MN",USA,Japan,Nor-Am Cup,Parallel Slalom,10,41.60
-95,Koshisaka Ayana,Female,09-12-2018,Steamboat Ski and Resort / Howelsen Hill,USA,Japan,Nor-Am Cup,Parallel Slalom,8,51.20
-96,Koshisaka Ayana,Female,08-12-2018,Steamboat Ski and Resort / Howelsen Hill,USA,Japan,Nor-Am Cup,Parallel Giant Slalom,9,46.40
-97,Koshisaka Ayana,Female,25-03-2018,Sapporo,JPN,Japan,FIS,Giant Slalom,2,56.00
-98,Koshisaka Ayana,Female,21-03-2018,Tazawako,JPN,Japan,FIS,Giant Slalom,2,56.00
-99,Koshisaka Ayana,Female,19-03-2018,Kurikoma Akiata,JPN,Japan,FIS,Parallel GS,2,56.00
-100,Koshisaka Ayana,Female,18-03-2018,Kurikoma Akiata,JPN,Japan,National Championships,Parallel GS,8,22.40
-101,Koshisaka Ayana,Female,18-02-2018,Simonhoehe,AUT,Japan,FIS,Parallel GS,16,33.00
-102,Koshisaka Ayana,Female,17-02-2018,Simonhoehe,AUT,Japan,FIS,Parallel GS,22,19.80
-103,Koshisaka Ayana,Female,11-02-2018,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,21,32.00
-104,Koshisaka Ayana,Female,10-02-2018,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,19,43.20
-105,Koshisaka Ayana,Female,04-02-2018,Gerlitzen,AUT,Japan,National Championships,Parallel GS,21,29.00
-106,Koshisaka Ayana,Female,03-02-2018,Gerlitzen,AUT,Japan,National Championships,Parallel Slalom,23,23.20
-107,Koshisaka Ayana,Female,26-03-2017,Sapporo,JPN,Japan,National Championships,Parallel GS,8,57.60
-108,Koshisaka Ayana,Female,25-03-2017,Sapporo,JPN,Japan,FIS,Parallel GS,5,81.00
-109,Koshisaka Ayana,Female,02-03-2017,Katashina/Tokura,JPN,Japan,FIS,Slalom,4,50.00
-110,Koshisaka Ayana,Female,26-02-2017,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,35,7.20
-111,Koshisaka Ayana,Female,25-02-2017,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,35,
-112,Koshisaka Ayana,Female,29-01-2017,Falkert,AUT,Japan,FIS,Slalom,20,17.60
-113,Koshisaka Ayana,Female,28-01-2017,Falkert,AUT,Japan,FIS,Slalom,19,19.20
-114,Koshisaka Ayana,Female,21-01-2017,Livigno,ITA,Japan,European Cup,Parallel GS,40,6.66
-115,Koshisaka Ayana,Female,20-01-2017,Livigno,ITA,Japan,European Cup,Parallel GS,41,6.55
-116,Koshisaka Ayana,Female,02-04-2016,Sapporo,JPN,Japan,FIS,Parallel GS,10,52.00
-117,Koshisaka Ayana,Female,01-04-2016,Sapporo,JPN,Japan,National Championships,Parallel GS,15,32.00
-118,Koshisaka Ayana,Female,04-03-2016,Katashina/Tokura,JPN,Japan,FIS,Slalom,6,44.00
-119,Koshisaka Ayana,Female,03-03-2016,Katashina/Tokura,JPN,Japan,FIS,Giant Slalom,8,35.20
-120,Koshisaka Ayana,Female,04-04-2015,Sapporo,JPN,Japan,National Championships,Giant Slalom,8,115.20
-121,Koshisaka Ayana,Female,04-04-2015,Sapporo,JPN,Japan,FIS,Giant Slalom,11,62.40
-122,Koshisaka Ayana,Female,08-02-2015,Asahikawa,JPN,Japan,FIS,Parallel Slalom,8,41.60
-123,Koshisaka Ayana,Female,07-02-2015,Asahikawa,JPN,Japan,FIS,Parallel GS,7,46.80
-124,Koshisaka Ayana,Female,23-01-2015,Katashina/Tokura,JPN,Japan,FIS,Parallel Slalom,13,26.00
-125,Koshisaka Ayana,Female,22-01-2015,Katashina/Tokura,JPN,Japan,FIS,Parallel GS,12,28.60
-126,Koshisaka Ayana,Female,06-04-2014,Sapporo,JPN,Japan,FIS,Giant Slalom,14,0.00
-127,Koshisaka Ayana,Female,24-01-2014,Oze Tokura,JPN,Japan,FIS,Parallel Slalom,5,31.50
-128,Koshisaka Ayana,Female,23-01-2014,Oze Tokura,JPN,Japan,FIS,Giant Slalom,5,31.50
-129,Koshisaka Ayana,Female,04-04-2013,Rusutsu,JPN,Japan,National Championships,Parallel GS,DSQ,
-130,Koshisaka Ayana,Female,25-01-2013,Oze Tokura,JPN,Japan,FIS,Giant Slalom,6,20.00
-131,Koshisaka Ayana,Female,24-01-2013,Oze Tokura,JPN,Japan,FIS,Parallel Slalom,DSQ,
-132,Koshisaka Ayana,Female,08-04-2012,Sapporo,JPN,Japan,FIS,Giant Slalom,10,57.20
-133,Koshisaka Ayana,Female,07-04-2012,Rusutsu,JPN,Japan,FIS,Snowboardcross,12,0.00
-134,Koshisaka Ayana,Female,06-04-2012,Rusutsu,JPN,Japan,National Championships,Snowboardcross,12,0.00
-135,Koshisaka Ayana,Female,05-04-2012,Rusutsu,JPN,Japan,National Championships,Parallel GS,8,70.40
-136,Koshisaka Ayana,Female,19-03-2012,Kashimayari,JPN,Japan,FIS,Snowboardcross,16,0.00
-137,Koshisaka Ayana,Female,30-01-2012,Oze Tokura,JPN,Japan,FIS,Giant Slalom,11,16.80
-138,Koshisaka Ayana,Female,29-01-2012,Oze Tokura,JPN,Japan,FIS,Parallel Slalom,13,14.00
-139,Koshisaka Ayana,Female,10-04-2011,Sapporo,JPN,Japan,FIS,Giant Slalom,6,20.00
-140,Koshisaka Ayana,Female,03-04-2011,Niseko,JPN,Japan,FIS,Snowboardcross,11,0.00
-141,Koshisaka Ayana,Female,02-04-2011,Niseko,JPN,Japan,FIS,Snowboardcross,10,0.00
-142,Koshisaka Ayana,Female,04-03-2011,Oze Tokura,JPN,Japan,National Championships,Parallel GS,19,12.00
-143,Koshisaka Ayana,Female,31-01-2011,Oze Tokura,JPN,Japan,FIS,Giant Slalom,13,14.00
-144,Koshisaka Ayana,Female,30-01-2011,Oze Tokura,JPN,Japan,FIS,Parallel Slalom,12,15.40
-145,Koshisaka Ayana,Female,31-01-2010,Oze Tokura,JPN,Japan,FIS,Giant Slalom,13,14.00
-146,Koshisaka Ayana,Female,30-01-2010,Oze Tokura,JPN,Japan,FIS,Parallel Slalom,11,16.80
-147,Koshisaka Ayana,Female,21-01-2010,Tsugaikekohgen,JPN,Japan,FIS,Giant Slalom,12,15.40
+0,Koshisaka Ayana,Female,09-01-2025,O2 Resort,KOR,Japan,Asian Cup,Parallel Slalom,1,160.00
+1,Koshisaka Ayana,Female,08-01-2025,O2 Resort,KOR,Japan,Asian Cup,Parallel Giant Slalom,4,80.00
+2,Koshisaka Ayana,Female,31-12-2024,Galaxy Ski Resort,CHN,Japan,Asian Cup,Parallel Slalom,9,46.40
+3,Koshisaka Ayana,Female,30-12-2024,Galaxy Ski Resort,CHN,Japan,Asian Cup,Parallel Giant Slalom,13,32.00
+4,Koshisaka Ayana,Female,22-12-2024,Moninec,CZE,Japan,FIS,Parallel Slalom,19,21.60
+5,Koshisaka Ayana,Female,21-12-2024,Moninec,CZE,Japan,FIS,Parallel Slalom,DSQ,
+6,Koshisaka Ayana,Female,20-12-2024,Moninec,CZE,Japan,European Cup,Parallel Slalom,20,26.40
+7,Koshisaka Ayana,Female,19-12-2024,Moninec,CZE,Japan,European Cup,Parallel Slalom,24,16.80
+8,Koshisaka Ayana,Female,15-12-2024,Götschen,GER,Japan,European Cup,Parallel Slalom,42,4.30
+9,Koshisaka Ayana,Female,14-12-2024,Götschen,GER,Japan,European Cup,Parallel Slalom,14,39.60
+10,Koshisaka Ayana,Female,07-04-2024,Samnaun,SUI,Japan,National Championships,Giant Slalom,4,145.00
+11,Koshisaka Ayana,Female,06-04-2024,Samnaun,SUI,Japan,National Championships,Parallel Slalom,8,92.80
+12,Koshisaka Ayana,Female,02-04-2024,"Copper Mountain, CO",USA,Japan,National Championships,Parallel Slalom,5,81.00
+13,Koshisaka Ayana,Female,01-04-2024,"Copper Mountain, CO",USA,Japan,National Championships,Parallel Giant Slalom,6,72.00
+14,Koshisaka Ayana,Female,19-03-2024,Wanglong Ski Resrort,CHN,Japan,Asian Cup,Slalom,7,57.60
+15,Koshisaka Ayana,Female,18-03-2024,Wanglong Ski Resrort,CHN,Japan,Asian Cup,Parallel Giant Slalom,10,41.60
+16,Koshisaka Ayana,Female,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Japan,Asian Cup,Parallel Slalom,6,64.00
+17,Koshisaka Ayana,Female,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Japan,Asian Cup,Parallel Giant Slalom,11,38.40
+18,Koshisaka Ayana,Female,05-03-2024,High1resort,KOR,Japan,Asian Cup,Parallel Slalom,5,72.00
+19,Koshisaka Ayana,Female,04-03-2024,High1resort,KOR,Japan,Asian Cup,Parallel Giant Slalom,12,35.20
+20,Koshisaka Ayana,Female,10-02-2024,"Alpine Ski Club,",CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,12,39.60
+21,Koshisaka Ayana,Female,09-02-2024,"Alpine Ski Club,",CAN,Japan,Nor-Am Cup,Parallel Slalom,5,81.00
+22,Koshisaka Ayana,Female,06-02-2024,Val Saint Come,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,6,72.00
+23,Koshisaka Ayana,Female,05-02-2024,Val Saint Come,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,6,72.00
+24,Koshisaka Ayana,Female,27-01-2024,Simonhöhe,AUT,Japan,Qualification,Parallel Giant Slalom,34,
+25,Koshisaka Ayana,Female,27-01-2024,Simonhöhe,AUT,Japan,World Cup,Parallel Giant Slalom,34,
+26,Koshisaka Ayana,Female,25-01-2024,Rogla,SLO,Japan,Qualification,Parallel Giant Slalom,26,
+27,Koshisaka Ayana,Female,25-01-2024,Rogla,SLO,Japan,World Cup,Parallel Giant Slalom,26,
+28,Koshisaka Ayana,Female,21-01-2024,Pamporovo,BUL,Japan,Qualification,Parallel Slalom,32,
+29,Koshisaka Ayana,Female,21-01-2024,Pamporovo,BUL,Japan,World Cup,Parallel Slalom,32,
+30,Koshisaka Ayana,Female,20-01-2024,Pamporovo,BUL,Japan,Qualification,Parallel Slalom,34,
+31,Koshisaka Ayana,Female,20-01-2024,Pamporovo,BUL,Japan,World Cup,Parallel Slalom,34,22.00
+32,Koshisaka Ayana,Female,17-01-2024,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom Team,22,
+33,Koshisaka Ayana,Female,16-01-2024,Bad Gastein,AUT,Japan,Qualification,Parallel Slalom,34,
+34,Koshisaka Ayana,Female,16-01-2024,Bad Gastein,AUT,Japan,World Cup,Parallel Slalom,34,
+35,Koshisaka Ayana,Female,13-01-2024,Scuol,SUI,Japan,Qualification,Parallel Giant Slalom,DSQ,
+36,Koshisaka Ayana,Female,13-01-2024,Scuol,SUI,Japan,World Cup,Parallel Giant Slalom,DSQ,
+37,Koshisaka Ayana,Female,23-12-2023,Davos ,SUI,Japan,Qualification,Parallel Slalom,29,
+38,Koshisaka Ayana,Female,23-12-2023,Davos,SUI,Japan,World Cup,Parallel Slalom,29,36.00
+39,Koshisaka Ayana,Female,16-12-2023,Cortina d'Ampezzo,ITA,Japan,Qualification,Parallel Giant Slalom,32,
+40,Koshisaka Ayana,Female,16-12-2023,Cortina d'Ampezzo,ITA,Japan,World Cup,Parallel Giant Slalom,32,26.00
+41,Koshisaka Ayana,Female,14-12-2023,Carezza,ITA,Japan,Qualification,Parallel Giant Slalom,37,
+42,Koshisaka Ayana,Female,14-12-2023,Carezza,ITA,Japan,World Cup,Parallel Giant Slalom,37,
+43,Koshisaka Ayana,Female,09-12-2023,Götschen,GER,Japan,Qualification,Parallel Slalom,35,
+44,Koshisaka Ayana,Female,09-12-2023,Götschen,GER,Japan,European Cup,Parallel Slalom,35,7.20
+45,Koshisaka Ayana,Female,08-12-2023,Götschen,GER,Japan,Qualification,Parallel Slalom,29,
+46,Koshisaka Ayana,Female,08-12-2023,Götschen,GER,Japan,European Cup,Parallel Slalom,29,12.96
+47,Koshisaka Ayana,Female,30-03-2023,Cortina dAmpezzo,ITA,Japan,National Championships,Parallel Slalom,9,84.10
+48,Koshisaka Ayana,Female,26-03-2023,Villach - Gerlitzen,AUT,Japan,FIS,Parallel Slalom,6,48.00
+49,Koshisaka Ayana,Female,25-03-2023,Villach - Gerlitzen,AUT,Japan,FIS,Parallel Slalom,6,48.00
+50,Koshisaka Ayana,Female,11-03-2023,Horseshoe Resort,CAN,Japan,FIS,Parallel Giant Slalom,3,60.00
+51,Koshisaka Ayana,Female,10-03-2023,Horseshoe Resort,CAN,Japan,Nor-Am Cup,Parallel Slalom,1,160.00
+52,Koshisaka Ayana,Female,10-03-2023,Horseshoe Resort,CAN,Japan,FIS,Parallel Slalom,4,50.00
+53,Koshisaka Ayana,Female,09-03-2023,Horseshoe Resort,CAN,Japan,Nor-Am Cup,Parallel Slalom,2,128.00
+54,Koshisaka Ayana,Female,03-03-2023,high1 resort,KOR,Japan,Asian Cup,Parallel Slalom,1,160.00
+55,Koshisaka Ayana,Female,02-03-2023,high1 resort,KOR,Japan,Asian Cup,Parallel Giant Slalom,2,128.00
+56,Koshisaka Ayana,Female,07-02-2023,high1 resort,KOR,Japan,FIS,Parallel Slalom,2,88.00
+57,Koshisaka Ayana,Female,06-02-2023,high1 resort,KOR,Japan,FIS,Parallel Giant Slalom,6,56.00
+58,Koshisaka Ayana,Female,18-12-2022,Hochfügen,GER,Japan,European Cup,Parallel Giant Slalom,16,30.00
+59,Koshisaka Ayana,Female,18-12-2022,Hochfügen,GER,Japan,Qualification,Parallel Giant Slalom,16,
+60,Koshisaka Ayana,Female,17-12-2022,Hochfügen,GER,Japan,European Cup,Parallel Giant Slalom,15,32.00
+61,Koshisaka Ayana,Female,17-03-2022,Rogla,SLO,Japan,European Cup,Parallel Giant Slalom,26,18.00
+62,Koshisaka Ayana,Female,13-03-2022,Spindleruv Mlyn,CZE,Japan,National Championships,Parallel Slalom,9,34.80
+63,Koshisaka Ayana,Female,12-03-2022,Spindleruv Mlyn,CZE,Japan,National Championships,Parallel Giant Slalom,5,54.00
+64,Koshisaka Ayana,Female,06-03-2022,Lachtal,AUT,Japan,European Cup,Parallel Giant Slalom,35,7.20
+65,Koshisaka Ayana,Female,05-03-2022,Lachtal,AUT,Japan,European Cup,Parallel Giant Slalom,33,8.64
+66,Koshisaka Ayana,Female,25-02-2022,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,5,40.50
+67,Koshisaka Ayana,Female,24-02-2022,Akan,JPN,Japan,FIS,Parallel Giant Slalom,4,45.00
+68,Koshisaka Ayana,Female,30-01-2022,Davos,SUI,Japan,European Cup,Parallel Slalom,22,21.60
+69,Koshisaka Ayana,Female,29-01-2022,Davos,SUI,Japan,European Cup,Parallel Slalom,33,
+70,Koshisaka Ayana,Female,23-01-2022,Bardonecchia,ITA,Japan,FIS,Slalom,1,50.00
+71,Koshisaka Ayana,Female,22-01-2022,Bardonecchia,ITA,Japan,FIS,Slalom,1,50.00
+72,Koshisaka Ayana,Female,21-12-2021,Moninec,CZE,Japan,FIS,Parallel Slalom,20,19.80
+73,Koshisaka Ayana,Female,20-12-2021,Moninec,CZE,Japan,FIS,Parallel Slalom,29,6.48
+74,Koshisaka Ayana,Female,19-12-2021,Moninec,CZE,Japan,European Cup,Parallel Slalom,36,3.94
+75,Koshisaka Ayana,Female,18-12-2021,Moninec,CZE,Japan,European Cup,Parallel Slalom,37,3.88
+76,Koshisaka Ayana,Female,12-12-2021,Götschen,GER,Japan,European Cup,Parallel Slalom,39,3.76
+77,Koshisaka Ayana,Female,11-12-2021,Götschen,GER,Japan,European Cup,Parallel Slalom,22,18.00
+78,Koshisaka Ayana,Female,20-03-2021,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,10,23.40
+79,Koshisaka Ayana,Female,07-02-2021,Sapporo Bankei,JPN,Japan,FIS,Giant Slalom,6,28.00
+80,Koshisaka Ayana,Female,08-02-2020,Alpine Ski Club,CAN,Japan,Nor-Am Cup,Parallel Slalom,11,38.40
+81,Koshisaka Ayana,Female,07-02-2020,Alpine Ski Club,CAN,Japan,Nor-Am Cup,Parallel Slalom,9,46.40
+82,Koshisaka Ayana,Female,04-02-2020,"Holiday Valley Resort, NY",USA,Japan,Nor-Am Cup,Parallel Giant Slalom,9,46.40
+83,Koshisaka Ayana,Female,03-02-2020,"Holiday Valley Resort, NY",USA,Japan,Nor-Am Cup,Parallel Giant Slalom,8,51.20
+84,Koshisaka Ayana,Female,25-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,Japan,FIS,Parallel Giant Slalom,6,48.00
+85,Koshisaka Ayana,Female,24-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,Japan,Nor-Am Cup,Parallel Slalom,9,46.40
+86,Koshisaka Ayana,Female,23-01-2020,"Steamboat Springs, CO",USA,Japan,Nor-Am Cup,Parallel Giant Slalom,8,51.20
+87,Koshisaka Ayana,Female,22-12-2019,"Buck Hill, MN",USA,Japan,Nor-Am Cup,Parallel Slalom,19,19.20
+88,Koshisaka Ayana,Female,21-12-2019,"Buck Hill, MN",USA,Japan,Nor-Am Cup,Parallel Slalom,13,32.00
+89,Koshisaka Ayana,Female,20-12-2019,"Buck Hill, MN",USA,Japan,FIS,Parallel Slalom,15,19.20
+90,Koshisaka Ayana,Female,31-03-2019,Radstadt,AUT,Japan,National Championships,Parallel Giant Slalom,26,14.50
+91,Koshisaka Ayana,Female,30-03-2019,Radstadt,AUT,Japan,National Championships,Parallel Slalom,31,8.12
+92,Koshisaka Ayana,Female,27-03-2019,Piancavallo,ITA,Japan,National Championships,Parallel Giant Slalom,17,40.60
+93,Koshisaka Ayana,Female,26-03-2019,Piancavallo,ITA,Japan,National Championships,Parallel Slalom,17,40.60
+94,Koshisaka Ayana,Female,17-03-2019,Rogla,SLO,Japan,European Cup,Parallel Giant Slalom,DNF1,
+95,Koshisaka Ayana,Female,16-03-2019,Rogla,SLO,Japan,European Cup,Parallel Giant Slalom,54,5.15
+96,Koshisaka Ayana,Female,03-03-2019,Kurikoma Akiata,JPN,Japan,National Championships,Parallel Giant Slalom,2,56.00
+97,Koshisaka Ayana,Female,02-03-2019,Kurikoma Akiata,JPN,Japan,FIS,Parallel Giant Slalom,2,56.00
+98,Koshisaka Ayana,Female,24-02-2019,Funes/Villnoess,ITA,Japan,FIS,Parallel Giant Slalom,11,33.60
+99,Koshisaka Ayana,Female,23-02-2019,Funes/Villnoess,ITA,Japan,FIS,Parallel Giant Slalom,12,30.80
+100,Koshisaka Ayana,Female,17-02-2019,Simonhoehe,AUT,Japan,FIS,Parallel GS,19,24.00
+101,Koshisaka Ayana,Female,16-02-2019,Simonhoehe,AUT,Japan,FIS,Parallel GS,17,28.00
+102,Koshisaka Ayana,Female,16-12-2018,"Buck Hill, MN",USA,Japan,Nor-Am Cup,Parallel Slalom,11,38.40
+103,Koshisaka Ayana,Female,15-12-2018,"Buck Hill, MN",USA,Japan,Nor-Am Cup,Parallel Slalom,6,64.00
+104,Koshisaka Ayana,Female,14-12-2018,"Buck Hill, MN",USA,Japan,Nor-Am Cup,Parallel Slalom,10,41.60
+105,Koshisaka Ayana,Female,09-12-2018,Steamboat Ski and Resort / Howelsen Hill,USA,Japan,Nor-Am Cup,Parallel Slalom,8,51.20
+106,Koshisaka Ayana,Female,08-12-2018,Steamboat Ski and Resort / Howelsen Hill,USA,Japan,Nor-Am Cup,Parallel Giant Slalom,9,46.40
+107,Koshisaka Ayana,Female,25-03-2018,Sapporo,JPN,Japan,FIS,Giant Slalom,2,56.00
+108,Koshisaka Ayana,Female,21-03-2018,Tazawako,JPN,Japan,FIS,Giant Slalom,2,56.00
+109,Koshisaka Ayana,Female,19-03-2018,Kurikoma Akiata,JPN,Japan,FIS,Parallel GS,2,56.00
+110,Koshisaka Ayana,Female,18-03-2018,Kurikoma Akiata,JPN,Japan,National Championships,Parallel GS,8,22.40
+111,Koshisaka Ayana,Female,18-02-2018,Simonhoehe,AUT,Japan,FIS,Parallel GS,16,33.00
+112,Koshisaka Ayana,Female,17-02-2018,Simonhoehe,AUT,Japan,FIS,Parallel GS,22,19.80
+113,Koshisaka Ayana,Female,11-02-2018,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,21,32.00
+114,Koshisaka Ayana,Female,10-02-2018,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,19,43.20
+115,Koshisaka Ayana,Female,04-02-2018,Gerlitzen,AUT,Japan,National Championships,Parallel GS,21,29.00
+116,Koshisaka Ayana,Female,03-02-2018,Gerlitzen,AUT,Japan,National Championships,Parallel Slalom,23,23.20
+117,Koshisaka Ayana,Female,26-03-2017,Sapporo,JPN,Japan,National Championships,Parallel GS,8,57.60
+118,Koshisaka Ayana,Female,25-03-2017,Sapporo,JPN,Japan,FIS,Parallel GS,5,81.00
+119,Koshisaka Ayana,Female,02-03-2017,Katashina/Tokura,JPN,Japan,FIS,Slalom,4,50.00
+120,Koshisaka Ayana,Female,26-02-2017,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,35,7.20
+121,Koshisaka Ayana,Female,25-02-2017,Lenzerheide,SUI,Japan,European Cup,Parallel Slalom,35,
+122,Koshisaka Ayana,Female,29-01-2017,Falkert,AUT,Japan,FIS,Slalom,20,17.60
+123,Koshisaka Ayana,Female,28-01-2017,Falkert,AUT,Japan,FIS,Slalom,19,19.20
+124,Koshisaka Ayana,Female,21-01-2017,Livigno,ITA,Japan,European Cup,Parallel GS,40,6.66
+125,Koshisaka Ayana,Female,20-01-2017,Livigno,ITA,Japan,European Cup,Parallel GS,41,6.55
+126,Koshisaka Ayana,Female,02-04-2016,Sapporo,JPN,Japan,FIS,Parallel GS,10,52.00
+127,Koshisaka Ayana,Female,01-04-2016,Sapporo,JPN,Japan,National Championships,Parallel GS,15,32.00
+128,Koshisaka Ayana,Female,04-03-2016,Katashina/Tokura,JPN,Japan,FIS,Slalom,6,44.00
+129,Koshisaka Ayana,Female,03-03-2016,Katashina/Tokura,JPN,Japan,FIS,Giant Slalom,8,35.20
+130,Koshisaka Ayana,Female,04-04-2015,Sapporo,JPN,Japan,National Championships,Giant Slalom,8,115.20
+131,Koshisaka Ayana,Female,04-04-2015,Sapporo,JPN,Japan,FIS,Giant Slalom,11,62.40
+132,Koshisaka Ayana,Female,08-02-2015,Asahikawa,JPN,Japan,FIS,Parallel Slalom,8,41.60
+133,Koshisaka Ayana,Female,07-02-2015,Asahikawa,JPN,Japan,FIS,Parallel GS,7,46.80
+134,Koshisaka Ayana,Female,23-01-2015,Katashina/Tokura,JPN,Japan,FIS,Parallel Slalom,13,26.00
+135,Koshisaka Ayana,Female,22-01-2015,Katashina/Tokura,JPN,Japan,FIS,Parallel GS,12,28.60
+136,Koshisaka Ayana,Female,06-04-2014,Sapporo,JPN,Japan,FIS,Giant Slalom,14,0.00
+137,Koshisaka Ayana,Female,24-01-2014,Oze Tokura,JPN,Japan,FIS,Parallel Slalom,5,31.50
+138,Koshisaka Ayana,Female,23-01-2014,Oze Tokura,JPN,Japan,FIS,Giant Slalom,5,31.50
+139,Koshisaka Ayana,Female,04-04-2013,Rusutsu,JPN,Japan,National Championships,Parallel GS,DSQ,
+140,Koshisaka Ayana,Female,25-01-2013,Oze Tokura,JPN,Japan,FIS,Giant Slalom,6,20.00
+141,Koshisaka Ayana,Female,24-01-2013,Oze Tokura,JPN,Japan,FIS,Parallel Slalom,DSQ,
+142,Koshisaka Ayana,Female,08-04-2012,Sapporo,JPN,Japan,FIS,Giant Slalom,10,57.20
+143,Koshisaka Ayana,Female,07-04-2012,Rusutsu,JPN,Japan,FIS,Snowboardcross,12,0.00
+144,Koshisaka Ayana,Female,06-04-2012,Rusutsu,JPN,Japan,National Championships,Snowboardcross,12,0.00
+145,Koshisaka Ayana,Female,05-04-2012,Rusutsu,JPN,Japan,National Championships,Parallel GS,8,70.40
+146,Koshisaka Ayana,Female,19-03-2012,Kashimayari,JPN,Japan,FIS,Snowboardcross,16,0.00
+147,Koshisaka Ayana,Female,30-01-2012,Oze Tokura,JPN,Japan,FIS,Giant Slalom,11,16.80
+148,Koshisaka Ayana,Female,29-01-2012,Oze Tokura,JPN,Japan,FIS,Parallel Slalom,13,14.00
+149,Koshisaka Ayana,Female,10-04-2011,Sapporo,JPN,Japan,FIS,Giant Slalom,6,20.00
+150,Koshisaka Ayana,Female,03-04-2011,Niseko,JPN,Japan,FIS,Snowboardcross,11,0.00
+151,Koshisaka Ayana,Female,02-04-2011,Niseko,JPN,Japan,FIS,Snowboardcross,10,0.00
+152,Koshisaka Ayana,Female,04-03-2011,Oze Tokura,JPN,Japan,National Championships,Parallel GS,19,12.00
+153,Koshisaka Ayana,Female,31-01-2011,Oze Tokura,JPN,Japan,FIS,Giant Slalom,13,14.00
+154,Koshisaka Ayana,Female,30-01-2011,Oze Tokura,JPN,Japan,FIS,Parallel Slalom,12,15.40
+155,Koshisaka Ayana,Female,31-01-2010,Oze Tokura,JPN,Japan,FIS,Giant Slalom,13,14.00
+156,Koshisaka Ayana,Female,30-01-2010,Oze Tokura,JPN,Japan,FIS,Parallel Slalom,11,16.80
+157,Koshisaka Ayana,Female,21-01-2010,Tsugaikekohgen,JPN,Japan,FIS,Giant Slalom,12,15.40

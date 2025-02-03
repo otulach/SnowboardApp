@@ -1,25 +1,50 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Carnevali Giorgia,Female,24-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Slalom Team,13,
-1,Carnevali Giorgia,Female,23-03-2024,Lachtal,AUT,Italy,Qualification,Parallel Slalom,31,
-2,Carnevali Giorgia,Female,23-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Slalom,31,6.72
-3,Carnevali Giorgia,Female,22-03-2024,Lachtal,AUT,Italy,Qualification,Parallel Giant Slalom,8,
-4,Carnevali Giorgia,Female,22-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Giant Slalom,6,96.00
-5,Carnevali Giorgia,Female,10-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,2,88.00
-6,Carnevali Giorgia,Female,09-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,9,31.90
-7,Carnevali Giorgia,Female,24-02-2024,Alleghe,ITA,Italy,Junior,Parallel Giant Slalom,4,70.00
-8,Carnevali Giorgia,Female,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,19,34.80
-9,Carnevali Giorgia,Female,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,17,40.60
-10,Carnevali Giorgia,Female,04-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,8,44.80
-11,Carnevali Giorgia,Female,03-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,15,22.40
-12,Carnevali Giorgia,Female,28-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,16,27.00
-13,Carnevali Giorgia,Female,27-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,13,36.00
-14,Carnevali Giorgia,Female,12-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,25,14.40
-15,Carnevali Giorgia,Female,12-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,25,
-16,Carnevali Giorgia,Female,11-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,20,31.90
-17,Carnevali Giorgia,Female,11-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,20,
-18,Carnevali Giorgia,Female,05-01-2024,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,20,15.40
-19,Carnevali Giorgia,Female,10-12-2023,Götschen,GER,Italy,Junior,Parallel Slalom,19,19.20
-20,Carnevali Giorgia,Female,09-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,28,14.40
-21,Carnevali Giorgia,Female,09-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,28,
-22,Carnevali Giorgia,Female,08-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,46,
-23,Carnevali Giorgia,Female,08-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,46,6.01
+0,Carnevali Giorgia,Female,02-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,10,
+1,Carnevali Giorgia,Female,02-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,8,
+2,Carnevali Giorgia,Female,01-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,6,
+3,Carnevali Giorgia,Female,01-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,10,
+4,Carnevali Giorgia,Female,26-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,55,
+5,Carnevali Giorgia,Female,25-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,15,38.40
+6,Carnevali Giorgia,Female,22-01-2025,Bansko,BUL,Italy,European Cup,Parallel Giant Slalom,25,21.60
+7,Carnevali Giorgia,Female,21-01-2025,Bansko,BUL,Italy,European Cup,Parallel Giant Slalom,27,16.20
+8,Carnevali Giorgia,Female,19-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,DNF,
+9,Carnevali Giorgia,Female,19-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,DNF,
+10,Carnevali Giorgia,Female,18-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,50,
+11,Carnevali Giorgia,Female,18-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,50,15.50
+12,Carnevali Giorgia,Female,12-01-2025,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,3,84.00
+13,Carnevali Giorgia,Female,11-01-2025,Folgaria,ITA,Italy,Qualification,Parallel Giant Slalom,11,
+14,Carnevali Giorgia,Female,11-01-2025,Folgaria,ITA,Italy,European Cup,Parallel Giant Slalom,8,76.80
+15,Carnevali Giorgia,Female,10-01-2025,Folgaria,ITA,Italy,Qualification,Parallel Giant Slalom,16,
+16,Carnevali Giorgia,Female,10-01-2025,Folgaria,ITA,Italy,European Cup,Parallel Giant Slalom,16,36.00
+17,Carnevali Giorgia,Female,06-01-2025,Simonhoehe,AUT,Italy,Junior Regional Cup,Parallel Giant Slalom,7,50.40
+18,Carnevali Giorgia,Female,05-01-2025,Simonhoehe,AUT,Italy,Junior Regional Cup,Parallel Giant Slalom,9,40.60
+19,Carnevali Giorgia,Female,22-12-2024,Moninec,CZE,Italy,FIS,Parallel Slalom,15,28.80
+20,Carnevali Giorgia,Female,21-12-2024,Moninec,CZE,Italy,FIS,Parallel Slalom,17,22.40
+21,Carnevali Giorgia,Female,20-12-2024,Moninec,CZE,Italy,European Cup,Parallel Slalom,23,19.20
+22,Carnevali Giorgia,Female,19-12-2024,Moninec,CZE,Italy,European Cup,Parallel Slalom,26,12.00
+23,Carnevali Giorgia,Female,15-12-2024,Götschen,GER,Italy,European Cup,Parallel Slalom,14,43.20
+24,Carnevali Giorgia,Female,14-12-2024,Götschen,GER,Italy,European Cup,Parallel Slalom,28,8.80
+25,Carnevali Giorgia,Female,24-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Slalom Team,13,
+26,Carnevali Giorgia,Female,23-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Slalom,31,6.72
+27,Carnevali Giorgia,Female,23-03-2024,Lachtal,AUT,Italy,Qualification,Parallel Slalom,31,
+28,Carnevali Giorgia,Female,22-03-2024,Lachtal,AUT,Italy,Qualification,Parallel Giant Slalom,8,
+29,Carnevali Giorgia,Female,22-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Giant Slalom,6,96.00
+30,Carnevali Giorgia,Female,10-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,2,88.00
+31,Carnevali Giorgia,Female,09-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,9,31.90
+32,Carnevali Giorgia,Female,24-02-2024,Alleghe,ITA,Italy,Junior,Parallel Giant Slalom,4,70.00
+33,Carnevali Giorgia,Female,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,19,34.80
+34,Carnevali Giorgia,Female,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,17,40.60
+35,Carnevali Giorgia,Female,04-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,8,44.80
+36,Carnevali Giorgia,Female,03-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,15,22.40
+37,Carnevali Giorgia,Female,28-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,16,27.00
+38,Carnevali Giorgia,Female,27-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,13,36.00
+39,Carnevali Giorgia,Female,12-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,25,14.40
+40,Carnevali Giorgia,Female,12-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,25,
+41,Carnevali Giorgia,Female,11-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,20,31.90
+42,Carnevali Giorgia,Female,11-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,20,
+43,Carnevali Giorgia,Female,05-01-2024,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,20,15.40
+44,Carnevali Giorgia,Female,10-12-2023,Götschen,GER,Italy,Junior,Parallel Slalom,19,19.20
+45,Carnevali Giorgia,Female,09-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,28,14.40
+46,Carnevali Giorgia,Female,09-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,28,
+47,Carnevali Giorgia,Female,08-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,46,6.01
+48,Carnevali Giorgia,Female,08-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,46,

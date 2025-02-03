@@ -1,66 +1,70 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Framarin Leo,Male,14-04-2024,Corvatsch,SUI,Italy,European Cup Premium,Big Air,57,39.70
-1,Framarin Leo,Male,12-04-2024,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,70,41.30
-2,Framarin Leo,Male,06-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Slopestyle,4,113.30
-3,Framarin Leo,Male,05-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Big Air,2,214.40
-4,Framarin Leo,Male,12-03-2024,Laax,SUI,Italy,European Cup Premium,Slopestyle,20,41.10
-5,Framarin Leo,Male,22-02-2024,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,16,65.40
-6,Framarin Leo,Male,08-02-2024,Mammoth Mountain,USA,Italy,Nor-Am Cup Premium,Slopestyle,32,44.50
-7,Framarin Leo,Male,05-01-2024,Font Romeu,FRA,Italy,European Cup,Big Air,3,180.40
-8,Framarin Leo,Male,04-01-2024,Font Romeu,FRA,Italy,European Cup Premium,Slopestyle,16,60.70
-9,Framarin Leo,Male,21-10-2023,Chur,SUI,Italy,World Cup,Big Air,42,60.40
-10,Framarin Leo,Male,21-10-2023,Chur,SUI,Italy,Qualification,Big Air,22,
-11,Framarin Leo,Male,29-09-2023,Cardrona,NZL,Italy,Australian New Zealand Cup,Slopestyle,26,38.30
-12,Framarin Leo,Male,22-04-2023,Kitzsteinhorn,AUT,Italy,European Cup,Big Air,4,171.00
-13,Framarin Leo,Male,21-04-2023,Kitzsteinhorn,AUT,Italy,European Cup,Slopestyle,11,64.50
-14,Framarin Leo,Male,17-04-2023,Corvatsch,SUI,Italy,European Cup Premium,Big Air,49,20.10
-15,Framarin Leo,Male,14-04-2023,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,23,80.00
-16,Framarin Leo,Male,05-04-2023,Livigno,ITA,Italy,National Championships,Slopestyle,4,57.30
-17,Framarin Leo,Male,26-03-2023,Silvaplana,SUI,Italy,World Cup,Slopestyle,46,20.20
-18,Framarin Leo,Male,25-03-2023,Silvaplana,SUI,Italy,Qualification,Slopestyle,21,
-19,Framarin Leo,Male,20-03-2023,Mottolino Livigno,ITA,Italy,European Cup,Slopestyle,9,81.60
-20,Framarin Leo,Male,17-03-2023,Laax,SUI,Italy,European Cup Premium,Slopestyle,25,77.50
-21,Framarin Leo,Male,18-02-2023,Davos,SUI,Italy,European Cup,Big Air,7,53.50
-22,Framarin Leo,Male,04-02-2023,Font Romeu,FRA,Italy,European Cup,Big Air,15,33.70
-23,Framarin Leo,Male,02-02-2023,Font Romeu,FRA,Italy,European Cup,Slopestyle,3,104.40
-24,Framarin Leo,Male,25-01-2023,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,10,49.90
-25,Framarin Leo,Male,14-01-2023,Kreischberg,AUT,Italy,World Cup,Big Air,23,104.80
-26,Framarin Leo,Male,13-01-2023,Kreischberg,AUT,Italy,Qualification,Big Air,9,
-27,Framarin Leo,Male,09-04-2022,Corvatsch,SUI,Italy,European Cup Premium,Big Air,29,43.20
-28,Framarin Leo,Male,07-04-2022,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,28,57.80
-29,Framarin Leo,Male,27-03-2022,Silvaplana,SUI,Italy,World Cup,Slopestyle,50,0.20
-30,Framarin Leo,Male,25-03-2022,Silvaplana,SUI,Italy,Qualification,Slopestyle,25,
-31,Framarin Leo,Male,15-03-2022,Laax,SUI,Italy,European Cup Premium,Slopestyle,16,28.30
-32,Framarin Leo,Male,26-02-2022,Götschen,GER,Italy,European Cup,Big Air,18,37.80
-33,Framarin Leo,Male,25-02-2022,Götschen,GER,Italy,European Cup,Slopestyle,54,11.90
-34,Framarin Leo,Male,18-02-2022,Davos,SUI,Italy,European Cup Premium,Big Air,51,0.10
-35,Framarin Leo,Male,12-02-2022,Kotelnica Bialczanska,POL,Italy,European Cup Premium,Big Air,9,45.90
-36,Framarin Leo,Male,28-01-2022,Crans Montana,SUI,Italy,European Cup,Big Air,1,200.00
-37,Framarin Leo,Male,23-01-2022,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,43,4.40
-38,Framarin Leo,Male,19-11-2021,Landgraaf,NED,Italy,European Cup,Slopestyle,16,43.40
-39,Framarin Leo,Male,18-11-2021,Landgraaf,NED,Italy,FIS,Slopestyle,10,65.60
-40,Framarin Leo,Male,20-04-2021,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,29,45.41
-41,Framarin Leo,Male,11-03-2021,Leysin,SUI,Italy,European Cup,Slopestyle,18,29.86
-42,Framarin Leo,Male,05-03-2021,Götschen,GER,Italy,European Cup,Big Air,16,21.62
-43,Framarin Leo,Male,04-03-2021,Flachauwinkel,AUT,Italy,European Cup,Big Air,17,30.56
-44,Framarin Leo,Male,19-02-2021,Davos,SUI,Italy,European Cup,Big Air,15,74.83
-45,Framarin Leo,Male,31-01-2021,Crans Montana,SUI,Italy,European Cup,Slopestyle,13,88.85
-46,Framarin Leo,Male,22-12-2020,Corvatsch,SUI,Italy,European Cup,Slopestyle,22,49.58
-47,Framarin Leo,Male,26-11-2020,Glacier 3000,SUI,Italy,FIS,Slopestyle,11,60.46
-48,Framarin Leo,Male,21-02-2020,Davos,SUI,Italy,European Cup Premium,Big Air,12,48.40
-49,Framarin Leo,Male,23-01-2020,Seiseralm,ITA,Italy,World Cup,Slopestyle,44,17.30
-50,Framarin Leo,Male,22-01-2020,Seiseralm,ITA,Italy,Qualification,Slopestyle,20,
-51,Framarin Leo,Male,19-01-2020,Vars,FRA,Italy,European Cup,Slopestyle,42,2.86
-52,Framarin Leo,Male,18-01-2020,Vars,FRA,Italy,European Cup,Big Air,49,2.53
-53,Framarin Leo,Male,13-04-2019,Klaeppen,SWE,Italy,FIS Junior World Championships,Big Air,24,16.80
-54,Framarin Leo,Male,12-04-2019,Klaeppen,SWE,Italy,Qualification,Big Air,8,
-55,Framarin Leo,Male,09-04-2019,Klaeppen,SWE,Italy,FIS Junior World Championships,Slopestyle,21,24.00
-56,Framarin Leo,Male,08-04-2019,Klaeppen,SWE,Italy,Qualification,Slopestyle,6,
-57,Framarin Leo,Male,29-03-2019,Livigno,ITA,Italy,European Cup,Slopestyle,12,44.00
-58,Framarin Leo,Male,28-03-2019,Livigno,ITA,Italy,European Cup,Slopestyle,24,14.00
-59,Framarin Leo,Male,26-01-2019,Seiser Alm,ITA,Italy,World Cup,Slopestyle,29,36.00
-60,Framarin Leo,Male,24-01-2019,Seiser Alm,ITA,Italy,Qualification,Slopestyle,10,
-61,Framarin Leo,Male,18-01-2019,Laax,SUI,Italy,World Cup,Slopestyle,30,32.00
-62,Framarin Leo,Male,16-01-2019,Laax,SUI,Italy,Qualification,Slopestyle,17,
-63,Framarin Leo,Male,22-11-2018,Landgraaf,NED,Italy,European Cup,Slopestyle,8,51.20
-64,Framarin Leo,Male,21-11-2018,Landgraaf,NED,Italy,FIS,Slopestyle,25,6.60
+0,Framarin Leo,Male,11-01-2025,Kreischberg,AUT,Italy,World Cup,Big Air,7,389.60
+1,Framarin Leo,Male,11-01-2025,Kreischberg,AUT,Italy,Qualification,Big Air,5,
+2,Framarin Leo,Male,05-01-2025,Klagenfurt,AUT,Italy,World Cup,Big Air,17,176.90
+3,Framarin Leo,Male,05-01-2025,Klagenfurt,AUT,Italy,Qualification,Big Air,11,
+4,Framarin Leo,Male,14-04-2024,Corvatsch,SUI,Italy,European Cup Premium,Big Air,57,39.70
+5,Framarin Leo,Male,12-04-2024,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,70,41.30
+6,Framarin Leo,Male,06-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Slopestyle,4,113.30
+7,Framarin Leo,Male,05-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Big Air,2,214.40
+8,Framarin Leo,Male,12-03-2024,Laax,SUI,Italy,European Cup Premium,Slopestyle,20,41.10
+9,Framarin Leo,Male,22-02-2024,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,16,65.40
+10,Framarin Leo,Male,08-02-2024,Mammoth Mountain,USA,Italy,Nor-Am Cup Premium,Slopestyle,32,44.50
+11,Framarin Leo,Male,05-01-2024,Font Romeu,FRA,Italy,European Cup,Big Air,3,180.40
+12,Framarin Leo,Male,04-01-2024,Font Romeu,FRA,Italy,European Cup Premium,Slopestyle,16,60.70
+13,Framarin Leo,Male,21-10-2023,Chur,SUI,Italy,Qualification,Big Air,22,
+14,Framarin Leo,Male,21-10-2023,Chur,SUI,Italy,World Cup,Big Air,42,60.40
+15,Framarin Leo,Male,29-09-2023,Cardrona,NZL,Italy,Australian New Zealand Cup,Slopestyle,26,38.30
+16,Framarin Leo,Male,22-04-2023,Kitzsteinhorn,AUT,Italy,European Cup,Big Air,4,171.00
+17,Framarin Leo,Male,21-04-2023,Kitzsteinhorn,AUT,Italy,European Cup,Slopestyle,11,64.50
+18,Framarin Leo,Male,17-04-2023,Corvatsch,SUI,Italy,European Cup Premium,Big Air,49,20.10
+19,Framarin Leo,Male,14-04-2023,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,23,80.00
+20,Framarin Leo,Male,05-04-2023,Livigno,ITA,Italy,National Championships,Slopestyle,4,57.30
+21,Framarin Leo,Male,26-03-2023,Silvaplana,SUI,Italy,World Cup,Slopestyle,46,20.20
+22,Framarin Leo,Male,25-03-2023,Silvaplana,SUI,Italy,Qualification,Slopestyle,21,
+23,Framarin Leo,Male,20-03-2023,Mottolino Livigno,ITA,Italy,European Cup,Slopestyle,9,81.60
+24,Framarin Leo,Male,17-03-2023,Laax,SUI,Italy,European Cup Premium,Slopestyle,25,77.50
+25,Framarin Leo,Male,18-02-2023,Davos,SUI,Italy,European Cup,Big Air,7,53.50
+26,Framarin Leo,Male,04-02-2023,Font Romeu,FRA,Italy,European Cup,Big Air,15,33.70
+27,Framarin Leo,Male,02-02-2023,Font Romeu,FRA,Italy,European Cup,Slopestyle,3,104.40
+28,Framarin Leo,Male,25-01-2023,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,10,49.90
+29,Framarin Leo,Male,14-01-2023,Kreischberg,AUT,Italy,World Cup,Big Air,23,104.80
+30,Framarin Leo,Male,13-01-2023,Kreischberg,AUT,Italy,Qualification,Big Air,9,
+31,Framarin Leo,Male,09-04-2022,Corvatsch,SUI,Italy,European Cup Premium,Big Air,29,43.20
+32,Framarin Leo,Male,07-04-2022,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,28,57.80
+33,Framarin Leo,Male,27-03-2022,Silvaplana,SUI,Italy,World Cup,Slopestyle,50,0.20
+34,Framarin Leo,Male,25-03-2022,Silvaplana,SUI,Italy,Qualification,Slopestyle,25,
+35,Framarin Leo,Male,15-03-2022,Laax,SUI,Italy,European Cup Premium,Slopestyle,16,28.30
+36,Framarin Leo,Male,26-02-2022,Götschen,GER,Italy,European Cup,Big Air,18,37.80
+37,Framarin Leo,Male,25-02-2022,Götschen,GER,Italy,European Cup,Slopestyle,54,11.90
+38,Framarin Leo,Male,18-02-2022,Davos,SUI,Italy,European Cup Premium,Big Air,51,0.10
+39,Framarin Leo,Male,12-02-2022,Kotelnica Bialczanska,POL,Italy,European Cup Premium,Big Air,9,45.90
+40,Framarin Leo,Male,28-01-2022,Crans Montana,SUI,Italy,European Cup,Big Air,1,200.00
+41,Framarin Leo,Male,23-01-2022,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,43,4.40
+42,Framarin Leo,Male,19-11-2021,Landgraaf,NED,Italy,European Cup,Slopestyle,16,43.40
+43,Framarin Leo,Male,18-11-2021,Landgraaf,NED,Italy,FIS,Slopestyle,10,65.60
+44,Framarin Leo,Male,20-04-2021,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,29,45.41
+45,Framarin Leo,Male,11-03-2021,Leysin,SUI,Italy,European Cup,Slopestyle,18,29.86
+46,Framarin Leo,Male,05-03-2021,Götschen,GER,Italy,European Cup,Big Air,16,21.62
+47,Framarin Leo,Male,04-03-2021,Flachauwinkel,AUT,Italy,European Cup,Big Air,17,30.56
+48,Framarin Leo,Male,19-02-2021,Davos,SUI,Italy,European Cup,Big Air,15,74.83
+49,Framarin Leo,Male,31-01-2021,Crans Montana,SUI,Italy,European Cup,Slopestyle,13,88.85
+50,Framarin Leo,Male,22-12-2020,Corvatsch,SUI,Italy,European Cup,Slopestyle,22,49.58
+51,Framarin Leo,Male,26-11-2020,Glacier 3000,SUI,Italy,FIS,Slopestyle,11,60.46
+52,Framarin Leo,Male,21-02-2020,Davos,SUI,Italy,European Cup Premium,Big Air,12,48.40
+53,Framarin Leo,Male,23-01-2020,Seiseralm,ITA,Italy,World Cup,Slopestyle,44,17.30
+54,Framarin Leo,Male,22-01-2020,Seiseralm,ITA,Italy,Qualification,Slopestyle,20,
+55,Framarin Leo,Male,19-01-2020,Vars,FRA,Italy,European Cup,Slopestyle,42,2.86
+56,Framarin Leo,Male,18-01-2020,Vars,FRA,Italy,European Cup,Big Air,49,2.53
+57,Framarin Leo,Male,13-04-2019,Klaeppen,SWE,Italy,FIS Junior World Championships,Big Air,24,16.80
+58,Framarin Leo,Male,12-04-2019,Klaeppen,SWE,Italy,Qualification,Big Air,8,
+59,Framarin Leo,Male,09-04-2019,Klaeppen,SWE,Italy,FIS Junior World Championships,Slopestyle,21,24.00
+60,Framarin Leo,Male,08-04-2019,Klaeppen,SWE,Italy,Qualification,Slopestyle,6,
+61,Framarin Leo,Male,29-03-2019,Livigno,ITA,Italy,European Cup,Slopestyle,12,44.00
+62,Framarin Leo,Male,28-03-2019,Livigno,ITA,Italy,European Cup,Slopestyle,24,14.00
+63,Framarin Leo,Male,26-01-2019,Seiser Alm,ITA,Italy,World Cup,Slopestyle,29,36.00
+64,Framarin Leo,Male,24-01-2019,Seiser Alm,ITA,Italy,Qualification,Slopestyle,10,
+65,Framarin Leo,Male,18-01-2019,Laax,SUI,Italy,World Cup,Slopestyle,30,32.00
+66,Framarin Leo,Male,16-01-2019,Laax,SUI,Italy,Qualification,Slopestyle,17,
+67,Framarin Leo,Male,22-11-2018,Landgraaf,NED,Italy,European Cup,Slopestyle,8,51.20
+68,Framarin Leo,Male,21-11-2018,Landgraaf,NED,Italy,FIS,Slopestyle,25,6.60

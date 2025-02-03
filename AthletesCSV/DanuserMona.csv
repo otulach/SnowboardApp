@@ -1,70 +1,71 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Danuser Mona,Female,12-03-2024,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,DNS,
-1,Danuser Mona,Female,22-02-2024,Prato Nevoso,ITA,Switzerland,European Cup,Slopestyle,11,27.60
-2,Danuser Mona,Female,15-02-2024,Davos,SUI,Switzerland,European Cup,Big Air,10,24.10
-3,Danuser Mona,Female,20-01-2024,Laax,SUI,Switzerland,World Cup,Slopestyle,28,0.40
-4,Danuser Mona,Female,16-01-2024,Laax,SUI,Switzerland,Qualification,Slopestyle,28,
-5,Danuser Mona,Female,05-01-2024,Font Romeu,FRA,Switzerland,European Cup,Big Air,7,36.10
-6,Danuser Mona,Female,04-01-2024,Font Romeu,FRA,Switzerland,European Cup Premium,Slopestyle,9,26.40
-7,Danuser Mona,Female,13-10-2023,SnowWorld Landgraaf,NED,Switzerland,FIS,Slopestyle,10,11.00
-8,Danuser Mona,Female,12-10-2023,SnowWorld Landgraaf,NED,Switzerland,FIS,Slopestyle,5,35.30
-9,Danuser Mona,Female,22-04-2023,Kitzsteinhorn,AUT,Switzerland,European Cup,Big Air,13,30.20
-10,Danuser Mona,Female,21-04-2023,Kitzsteinhorn,AUT,Switzerland,European Cup,Slopestyle,13,33.00
-11,Danuser Mona,Female,17-04-2023,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,15,12.40
-12,Danuser Mona,Female,14-04-2023,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,6,106.70
-13,Danuser Mona,Female,29-03-2023,Ruka,FIN,Switzerland,European Cup,Slopestyle,6,46.50
-14,Danuser Mona,Female,17-03-2023,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,19,18.60
-15,Danuser Mona,Female,18-02-2023,Davos,SUI,Switzerland,European Cup,Big Air,7,39.10
-16,Danuser Mona,Female,22-10-2022,Chur,SUI,Switzerland,Qualification,Big Air,17,
-17,Danuser Mona,Female,22-10-2022,Chur,SUI,Switzerland,World Cup,Big Air,17,60.10
-18,Danuser Mona,Female,07-04-2022,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,5,105.70
-19,Danuser Mona,Female,27-03-2022,Silvaplana,SUI,Switzerland,World Cup,Slopestyle,13,115.50
-20,Danuser Mona,Female,25-03-2022,Silvaplana,SUI,Switzerland,Qualification,Slopestyle,13,
-21,Danuser Mona,Female,15-03-2022,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,13,8.70
-22,Danuser Mona,Female,26-02-2022,Götschen,GER,Switzerland,European Cup,Big Air,16,10.80
-23,Danuser Mona,Female,25-02-2022,Götschen,GER,Switzerland,European Cup,Slopestyle,3,123.50
-24,Danuser Mona,Female,18-02-2022,Davos,SUI,Switzerland,European Cup Premium,Big Air,7,37.00
-25,Danuser Mona,Female,12-02-2022,Kotelnica Bialczanska,POL,Switzerland,European Cup Premium,Big Air,4,27.60
-26,Danuser Mona,Female,03-02-2022,Font Romeu,FRA,Switzerland,European Cup,Slopestyle,2,110.70
-27,Danuser Mona,Female,23-01-2022,Prato Nevoso,ITA,Switzerland,European Cup,Slopestyle,4,82.70
-28,Danuser Mona,Female,15-01-2022,Laax,SUI,Switzerland,World Cup,Slopestyle,21,70.70
-29,Danuser Mona,Female,14-01-2022,Laax,SUI,Switzerland,Qualification,Slopestyle,21,
-30,Danuser Mona,Female,11-11-2021,Glacier 3000,SUI,Switzerland,Open,Slopestyle,8,30.00
-31,Danuser Mona,Female,23-10-2021,Chur,SUI,Switzerland,World Cup,Big Air,20,80.30
-32,Danuser Mona,Female,11-03-2021,Leysin,SUI,Switzerland,European Cup,Slopestyle,4,70.93
-33,Danuser Mona,Female,27-02-2021,Moscow,RUS,Switzerland,European Cup,Big Air,2,93.59
-34,Danuser Mona,Female,22-02-2021,Götschen,GER,Switzerland,European Cup,Big Air,5,71.71
-35,Danuser Mona,Female,21-02-2021,Götschen,GER,Switzerland,European Cup,Slopestyle,3,132.41
-36,Danuser Mona,Female,19-02-2021,Davos,SUI,Switzerland,European Cup,Big Air,7,66.17
-37,Danuser Mona,Female,31-01-2021,Crans Montana,SUI,Switzerland,European Cup,Slopestyle,13,8.82
-38,Danuser Mona,Female,22-01-2021,Laax,SUI,Switzerland,World Cup,Slopestyle,20,64.16
-39,Danuser Mona,Female,20-01-2021,Laax,SUI,Switzerland,Qualification,Slopestyle,20,
-40,Danuser Mona,Female,09-01-2021,Kreischberg,AUT,Switzerland,World Cup,Big Air,27,18.68
-41,Danuser Mona,Female,07-01-2021,Kreischberg ,AUT,Switzerland,Qualification,Big Air,27,
-42,Danuser Mona,Female,22-12-2020,Corvatsch,SUI,Switzerland,European Cup,Slopestyle,7,98.67
-43,Danuser Mona,Female,26-11-2020,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,6,87.45
-44,Danuser Mona,Female,06-03-2020,Absolut Park Flachauwinkel,AUT,Switzerland,European Cup,Big Air,7,93.60
-45,Danuser Mona,Female,29-02-2020,Moscow,RUS,Switzerland,European Cup Premium,Big Air,9,63.80
-46,Danuser Mona,Female,22-01-2020,Leysin,SUI,Switzerland,Youth Olympic Winter Games,Big Air,22,
-47,Danuser Mona,Female,21-01-2020,Leysin,SUI,Switzerland,Qualification,Big Air,22,
-48,Danuser Mona,Female,18-01-2020,Leysin,SUI,Switzerland,Youth Olympic Winter Games,Slopestyle,DNS,
-49,Danuser Mona,Female,04-12-2019,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,1,50.00
-50,Danuser Mona,Female,13-04-2019,Klaeppen,SWE,Switzerland,FIS Junior World Championships,Big Air,4,120.00
-51,Danuser Mona,Female,12-04-2019,Klaeppen,SWE,Switzerland,Qualification,Big Air,3,
-52,Danuser Mona,Female,09-04-2019,Klaeppen,SWE,Switzerland,FIS Junior World Championships,Slopestyle,13,48.00
-53,Danuser Mona,Female,08-04-2019,Klaeppen,SWE,Switzerland,Qualification,Slopestyle,3,
-54,Danuser Mona,Female,24-03-2019,Laax,SUI,Switzerland,European Cup,Halfpipe,8,76.80
-55,Danuser Mona,Female,22-03-2019,Laax,SUI,Switzerland,European Cup,Slopestyle,15,28.80
-56,Danuser Mona,Female,22-02-2019,Davos,SUI,Switzerland,European Cup,Big Air,3,108.00
-57,Danuser Mona,Female,14-02-2019,Bjelasnica,BIH,Switzerland,European Youth Olympic Festival,Big Air,9,20.30
-58,Danuser Mona,Female,12-02-2019,Bjelasnica,BIH,Switzerland,European Youth Olympic Festival,Slopestyle,5,54.00
-59,Danuser Mona,Female,16-11-2018,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,4,55.00
-60,Danuser Mona,Female,21-04-2018,Corvatsch,SUI,Switzerland,European Cup,Big Air,5,108.00
-61,Danuser Mona,Female,18-04-2018,Corvatsch,SUI,Switzerland,European Cup,Slopestyle,8,102.40
-62,Danuser Mona,Female,18-03-2018,Laax,SUI,Switzerland,European Cup,Slopestyle,6,72.00
-63,Danuser Mona,Female,15-03-2018,Laax,SUI,Switzerland,European Cup,Halfpipe,6,64.00
-64,Danuser Mona,Female,24-02-2018,Davos,SUI,Switzerland,FIS,Big Air,9,52.20
-65,Danuser Mona,Female,23-02-2018,Davos,SUI,Switzerland,European Cup,Halfpipe,4,80.00
-66,Danuser Mona,Female,04-02-2018,Grindelwald,SUI,Switzerland,FIS,Slopestyle,3,30.00
-67,Danuser Mona,Female,03-02-2018,Grindelwald,SUI,Switzerland,FIS,Halfpipe,4,25.00
-68,Danuser Mona,Female,28-01-2018,Crans Montana,SUI,Switzerland,European Cup,Big Air,9,52.20
+0,Danuser Mona,Female,15-01-2025,Seiser Alm,ITA,Switzerland,European Cup,Slopestyle,DNS,
+1,Danuser Mona,Female,12-03-2024,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,DNS,
+2,Danuser Mona,Female,22-02-2024,Prato Nevoso,ITA,Switzerland,European Cup,Slopestyle,11,27.60
+3,Danuser Mona,Female,15-02-2024,Davos,SUI,Switzerland,European Cup,Big Air,10,24.10
+4,Danuser Mona,Female,20-01-2024,Laax,SUI,Switzerland,World Cup,Slopestyle,28,0.40
+5,Danuser Mona,Female,16-01-2024,Laax,SUI,Switzerland,Qualification,Slopestyle,28,
+6,Danuser Mona,Female,05-01-2024,Font Romeu,FRA,Switzerland,European Cup,Big Air,7,36.10
+7,Danuser Mona,Female,04-01-2024,Font Romeu,FRA,Switzerland,European Cup Premium,Slopestyle,9,26.40
+8,Danuser Mona,Female,13-10-2023,SnowWorld Landgraaf,NED,Switzerland,FIS,Slopestyle,10,11.00
+9,Danuser Mona,Female,12-10-2023,SnowWorld Landgraaf,NED,Switzerland,FIS,Slopestyle,5,35.30
+10,Danuser Mona,Female,22-04-2023,Kitzsteinhorn,AUT,Switzerland,European Cup,Big Air,13,30.20
+11,Danuser Mona,Female,21-04-2023,Kitzsteinhorn,AUT,Switzerland,European Cup,Slopestyle,13,33.00
+12,Danuser Mona,Female,17-04-2023,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,15,12.40
+13,Danuser Mona,Female,14-04-2023,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,6,106.70
+14,Danuser Mona,Female,29-03-2023,Ruka,FIN,Switzerland,European Cup,Slopestyle,6,46.50
+15,Danuser Mona,Female,17-03-2023,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,19,18.60
+16,Danuser Mona,Female,18-02-2023,Davos,SUI,Switzerland,European Cup,Big Air,7,39.10
+17,Danuser Mona,Female,22-10-2022,Chur,SUI,Switzerland,Qualification,Big Air,17,
+18,Danuser Mona,Female,22-10-2022,Chur,SUI,Switzerland,World Cup,Big Air,17,60.10
+19,Danuser Mona,Female,07-04-2022,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,5,105.70
+20,Danuser Mona,Female,27-03-2022,Silvaplana,SUI,Switzerland,World Cup,Slopestyle,13,115.50
+21,Danuser Mona,Female,25-03-2022,Silvaplana,SUI,Switzerland,Qualification,Slopestyle,13,
+22,Danuser Mona,Female,15-03-2022,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,13,8.70
+23,Danuser Mona,Female,26-02-2022,Götschen,GER,Switzerland,European Cup,Big Air,16,10.80
+24,Danuser Mona,Female,25-02-2022,Götschen,GER,Switzerland,European Cup,Slopestyle,3,123.50
+25,Danuser Mona,Female,18-02-2022,Davos,SUI,Switzerland,European Cup Premium,Big Air,7,37.00
+26,Danuser Mona,Female,12-02-2022,Kotelnica Bialczanska,POL,Switzerland,European Cup Premium,Big Air,4,27.60
+27,Danuser Mona,Female,03-02-2022,Font Romeu,FRA,Switzerland,European Cup,Slopestyle,2,110.70
+28,Danuser Mona,Female,23-01-2022,Prato Nevoso,ITA,Switzerland,European Cup,Slopestyle,4,82.70
+29,Danuser Mona,Female,15-01-2022,Laax,SUI,Switzerland,World Cup,Slopestyle,21,70.70
+30,Danuser Mona,Female,14-01-2022,Laax,SUI,Switzerland,Qualification,Slopestyle,21,
+31,Danuser Mona,Female,11-11-2021,Glacier 3000,SUI,Switzerland,Open,Slopestyle,8,30.00
+32,Danuser Mona,Female,23-10-2021,Chur,SUI,Switzerland,World Cup,Big Air,20,80.30
+33,Danuser Mona,Female,11-03-2021,Leysin,SUI,Switzerland,European Cup,Slopestyle,4,70.93
+34,Danuser Mona,Female,27-02-2021,Moscow,RUS,Switzerland,European Cup,Big Air,2,93.59
+35,Danuser Mona,Female,22-02-2021,Götschen,GER,Switzerland,European Cup,Big Air,5,71.71
+36,Danuser Mona,Female,21-02-2021,Götschen,GER,Switzerland,European Cup,Slopestyle,3,132.41
+37,Danuser Mona,Female,19-02-2021,Davos,SUI,Switzerland,European Cup,Big Air,7,66.17
+38,Danuser Mona,Female,31-01-2021,Crans Montana,SUI,Switzerland,European Cup,Slopestyle,13,8.82
+39,Danuser Mona,Female,22-01-2021,Laax,SUI,Switzerland,World Cup,Slopestyle,20,64.16
+40,Danuser Mona,Female,20-01-2021,Laax,SUI,Switzerland,Qualification,Slopestyle,20,
+41,Danuser Mona,Female,09-01-2021,Kreischberg,AUT,Switzerland,World Cup,Big Air,27,18.68
+42,Danuser Mona,Female,07-01-2021,Kreischberg ,AUT,Switzerland,Qualification,Big Air,27,
+43,Danuser Mona,Female,22-12-2020,Corvatsch,SUI,Switzerland,European Cup,Slopestyle,7,98.67
+44,Danuser Mona,Female,26-11-2020,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,6,87.45
+45,Danuser Mona,Female,06-03-2020,Absolut Park Flachauwinkel,AUT,Switzerland,European Cup,Big Air,7,93.60
+46,Danuser Mona,Female,29-02-2020,Moscow,RUS,Switzerland,European Cup Premium,Big Air,9,63.80
+47,Danuser Mona,Female,22-01-2020,Leysin,SUI,Switzerland,Youth Olympic Winter Games,Big Air,22,
+48,Danuser Mona,Female,21-01-2020,Leysin,SUI,Switzerland,Qualification,Big Air,22,
+49,Danuser Mona,Female,18-01-2020,Leysin,SUI,Switzerland,Youth Olympic Winter Games,Slopestyle,DNS,
+50,Danuser Mona,Female,04-12-2019,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,1,50.00
+51,Danuser Mona,Female,13-04-2019,Klaeppen,SWE,Switzerland,FIS Junior World Championships,Big Air,4,120.00
+52,Danuser Mona,Female,12-04-2019,Klaeppen,SWE,Switzerland,Qualification,Big Air,3,
+53,Danuser Mona,Female,09-04-2019,Klaeppen,SWE,Switzerland,FIS Junior World Championships,Slopestyle,13,48.00
+54,Danuser Mona,Female,08-04-2019,Klaeppen,SWE,Switzerland,Qualification,Slopestyle,3,
+55,Danuser Mona,Female,24-03-2019,Laax,SUI,Switzerland,European Cup,Halfpipe,8,76.80
+56,Danuser Mona,Female,22-03-2019,Laax,SUI,Switzerland,European Cup,Slopestyle,15,28.80
+57,Danuser Mona,Female,22-02-2019,Davos,SUI,Switzerland,European Cup,Big Air,3,108.00
+58,Danuser Mona,Female,14-02-2019,Bjelasnica,BIH,Switzerland,European Youth Olympic Festival,Big Air,9,20.30
+59,Danuser Mona,Female,12-02-2019,Bjelasnica,BIH,Switzerland,European Youth Olympic Festival,Slopestyle,5,54.00
+60,Danuser Mona,Female,16-11-2018,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,4,55.00
+61,Danuser Mona,Female,21-04-2018,Corvatsch,SUI,Switzerland,European Cup,Big Air,5,108.00
+62,Danuser Mona,Female,18-04-2018,Corvatsch,SUI,Switzerland,European Cup,Slopestyle,8,102.40
+63,Danuser Mona,Female,18-03-2018,Laax,SUI,Switzerland,European Cup,Slopestyle,6,72.00
+64,Danuser Mona,Female,15-03-2018,Laax,SUI,Switzerland,European Cup,Halfpipe,6,64.00
+65,Danuser Mona,Female,24-02-2018,Davos,SUI,Switzerland,FIS,Big Air,9,52.20
+66,Danuser Mona,Female,23-02-2018,Davos,SUI,Switzerland,European Cup,Halfpipe,4,80.00
+67,Danuser Mona,Female,04-02-2018,Grindelwald,SUI,Switzerland,FIS,Slopestyle,3,30.00
+68,Danuser Mona,Female,03-02-2018,Grindelwald,SUI,Switzerland,FIS,Halfpipe,4,25.00
+69,Danuser Mona,Female,28-01-2018,Crans Montana,SUI,Switzerland,European Cup,Big Air,9,52.20

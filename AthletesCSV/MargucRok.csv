@@ -1,426 +1,450 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Marguc Rok,Male,30-03-2024,Krvavec,SLO,Slovenia,National Championships,Parallel Giant Slalom,2,232.00
-1,Marguc Rok,Male,17-03-2024,St. Moritz,SUI,Slovenia,European Cup,Parallel Slalom,42,6.44
-2,Marguc Rok,Male,16-03-2024,St. Moritz,SUI,Slovenia,European Cup,Parallel Giant Slalom,25,21.60
-3,Marguc Rok,Male,09-03-2024,Winterberg,GER,Slovenia,Qualification,Parallel Slalom,13,
-4,Marguc Rok,Male,09-03-2024,Winterberg,GER,Slovenia,World Cup,Parallel Slalom,4,500.00
-5,Marguc Rok,Male,25-02-2024,Krynica,POL,Slovenia,Qualification,Parallel Giant Slalom,24,
-6,Marguc Rok,Male,25-02-2024,Krynica,POL,Slovenia,World Cup,Parallel Giant Slalom,24,70.00
-7,Marguc Rok,Male,24-02-2024,Krynica,POL,Slovenia,Qualification,Parallel Giant Slalom,23,
-8,Marguc Rok,Male,24-02-2024,Krynica,POL,Slovenia,World Cup,Parallel Giant Slalom,23,80.00
-9,Marguc Rok,Male,27-01-2024,Simonhöhe,AUT,Slovenia,Qualification,Parallel Giant Slalom,19,
-10,Marguc Rok,Male,27-01-2024,Simonhöhe,AUT,Slovenia,World Cup,Parallel Giant Slalom,19,120.00
-11,Marguc Rok,Male,25-01-2024,Rogla,SLO,Slovenia,Qualification,Parallel Giant Slalom,11,
-12,Marguc Rok,Male,25-01-2024,Rogla,SLO,Slovenia,World Cup,Parallel Giant Slalom,7,360.00
-13,Marguc Rok,Male,21-01-2024,Pamporovo,BUL,Slovenia,Qualification,Parallel Slalom,DSQ,
-14,Marguc Rok,Male,21-01-2024,Pamporovo,BUL,Slovenia,World Cup,Parallel Slalom,DSQ,
-15,Marguc Rok,Male,20-01-2024,Pamporovo,BUL,Slovenia,Qualification,Parallel Slalom,19,
-16,Marguc Rok,Male,20-01-2024,Pamporovo,BUL,Slovenia,World Cup,Parallel Slalom,19,120.00
-17,Marguc Rok,Male,16-01-2024,Bad Gastein,AUT,Slovenia,Qualification,Parallel Slalom,23,
-18,Marguc Rok,Male,16-01-2024,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,23,80.00
-19,Marguc Rok,Male,13-01-2024,Scuol,SUI,Slovenia,Qualification,Parallel Giant Slalom,21,
-20,Marguc Rok,Male,13-01-2024,Scuol,SUI,Slovenia,World Cup,Parallel Giant Slalom,21,100.00
-21,Marguc Rok,Male,23-12-2023,Davos,SUI,Slovenia,Qualification,Parallel Slalom,34,
-22,Marguc Rok,Male,23-12-2023,Davos ,SUI,Slovenia,World Cup,Parallel Slalom,34,22.00
-23,Marguc Rok,Male,16-12-2023,Cortina d'Ampezzo,ITA,Slovenia,Qualification,Parallel Giant Slalom,18,
-24,Marguc Rok,Male,16-12-2023,Cortina d'Ampezzo,ITA,Slovenia,World Cup,Parallel Giant Slalom,18,130.00
-25,Marguc Rok,Male,14-12-2023,Carezza,ITA,Slovenia,Qualification,Parallel Giant Slalom,22,
-26,Marguc Rok,Male,14-12-2023,Carezza,ITA,Slovenia,World Cup,Parallel Giant Slalom,22,90.00
-27,Marguc Rok,Male,08-12-2023,Götschen,GER,Slovenia,Qualification,Parallel Slalom,DNS,
-28,Marguc Rok,Male,08-12-2023,Götschen,GER,Slovenia,European Cup,Parallel Slalom,DNS,
-29,Marguc Rok,Male,10-04-2023,Krvavec KD Zakon,SLO,Slovenia,National Championships,Slalom,1,220.00
-30,Marguc Rok,Male,10-04-2023,Krvavec KD Zakon,SLO,Slovenia,National Championships,Parallel Giant Slalom,1,220.00
-31,Marguc Rok,Male,30-03-2023,Cortina dAmpezzo,ITA,Slovenia,National Championships,Parallel Slalom,9,84.10
-32,Marguc Rok,Male,18-03-2023,Berchtesgaden,GER,Slovenia,Qualification,Parallel Slalom,1,
-33,Marguc Rok,Male,18-03-2023,Berchtesgaden,GER,Slovenia,World Cup,Parallel Slalom,3,600.00
-34,Marguc Rok,Male,15-03-2023,Rogla,SLO,Slovenia,World Cup,Parallel Giant Slalom,14,180.00
-35,Marguc Rok,Male,15-03-2023,Rogla,SLO,Slovenia,Qualification,Parallel Giant Slalom,14,
-36,Marguc Rok,Male,21-02-2023,Bakuriani,GEO,Slovenia,Qualification,Parallel Slalom,13,
-37,Marguc Rok,Male,21-02-2023,Bakuriani,GEO,Slovenia,World Championships,Parallel Slalom,13,200.00
-38,Marguc Rok,Male,19-02-2023,Bakuriani,GEO,Slovenia,Qualification,Parallel Giant Slalom,19,
-39,Marguc Rok,Male,19-02-2023,Bakuriani,GEO,Slovenia,World Championships,Parallel Giant Slalom,19,120.00
-40,Marguc Rok,Male,12-02-2023,Funes - Vilnoess,ITA,Slovenia,FIS,Parallel Giant Slalom,5,99.00
-41,Marguc Rok,Male,11-02-2023,Funes - Vilnoess,ITA,Slovenia,FIS,Parallel Giant Slalom,3,132.00
-42,Marguc Rok,Male,27-01-2023,Blue Mountain,CAN,Slovenia,Qualification,Parallel Giant Slalom,23,
-43,Marguc Rok,Male,27-01-2023,Blue Mountain,CAN,Slovenia,World Cup,Parallel Giant Slalom,23,80.00
-44,Marguc Rok,Male,26-01-2023,Blue Mountain,CAN,Slovenia,Qualification,Parallel Giant Slalom,29,
-45,Marguc Rok,Male,26-01-2023,Blue Mountain,CAN,Slovenia,World Cup,Parallel Giant Slalom,29,36.00
-46,Marguc Rok,Male,22-01-2023,Bansko,BUL,Slovenia,Qualification,Parallel Slalom,19,
-47,Marguc Rok,Male,22-01-2023,Bansko,BUL,Slovenia,World Cup,Parallel Slalom,19,120.00
-48,Marguc Rok,Male,21-01-2023,Bansko,BUL,Slovenia,Qualification,Parallel Slalom,22,
-49,Marguc Rok,Male,21-01-2023,Bansko,BUL,Slovenia,World Cup,Parallel Slalom,22,90.00
-50,Marguc Rok,Male,14-01-2023,Scuol,SUI,Slovenia,Qualification,Parallel Giant Slalom,24,
-51,Marguc Rok,Male,14-01-2023,Scuol,SUI,Slovenia,World Cup,Parallel Giant Slalom,24,70.00
-52,Marguc Rok,Male,10-01-2023,Bad Gastein,AUT,Slovenia,Qualification,Parallel Slalom,31,
-53,Marguc Rok,Male,10-01-2023,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,26,50.00
-54,Marguc Rok,Male,17-12-2022,Cortina d'Ampezzo,ITA,Slovenia,Qualification,Parallel Giant Slalom,33,
-55,Marguc Rok,Male,17-12-2022,Cortina d'Ampezzo,ITA,Slovenia,World Cup,Parallel Giant Slalom,33,24.00
-56,Marguc Rok,Male,15-12-2022,Carezza,ITA,Slovenia,Qualification,Parallel Giant Slalom,18,
-57,Marguc Rok,Male,15-12-2022,Carezza,ITA,Slovenia,World Cup,Parallel Giant Slalom,18,130.00
-58,Marguc Rok,Male,11-12-2022,Winterberg,GER,Slovenia,World Cup,Parallel Slalom,19,120.00
-59,Marguc Rok,Male,10-12-2022,Winterberg,GER,Slovenia,Qualification,Parallel Slalom,19,
-60,Marguc Rok,Male,19-03-2022,Berchtesgaden,GER,Slovenia,Qualification,Parallel Slalom,25,
-61,Marguc Rok,Male,19-03-2022,Berchtesgaden,GER,Slovenia,World Cup,Parallel Slalom,25,60.00
-62,Marguc Rok,Male,17-03-2022,Rogla,SLO,Slovenia,European Cup,Parallel Giant Slalom,7,115.20
-63,Marguc Rok,Male,16-03-2022,Rogla,SLO,Slovenia,Qualification,Parallel Giant Slalom,22,
-64,Marguc Rok,Male,16-03-2022,Rogla,SLO,Slovenia,World Cup,Parallel Giant Slalom,22,90.00
-65,Marguc Rok,Male,05-03-2022,Lachtal,AUT,Slovenia,European Cup,Parallel Giant Slalom,DNS,
-66,Marguc Rok,Male,27-02-2022,Simonhöhe,AUT,Slovenia,FIS,Parallel Giant Slalom,DNS,
-67,Marguc Rok,Male,26-02-2022,Simonhöhe,AUT,Slovenia,FIS,Parallel Giant Slalom,DNS,
-68,Marguc Rok,Male,20-02-2022,Funes - Vilnoess,ITA,Slovenia,FIS,Parallel Giant Slalom,2,176.00
-69,Marguc Rok,Male,19-02-2022,Funes - Vilnoess,ITA,Slovenia,FIS,Parallel Giant Slalom,4,110.00
-70,Marguc Rok,Male,08-02-2022,Beijing,CHN,Slovenia,Qualification,Parallel Giant Slalom,25,
-71,Marguc Rok,Male,08-02-2022,Beijing,CHN,Slovenia,Olympic Winter Games,Parallel Giant Slalom,25,60.00
-72,Marguc Rok,Male,11-01-2022,Bad Gastein,AUT,Slovenia,Qualification,Parallel Slalom,42,
-73,Marguc Rok,Male,11-01-2022,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,42,17.90
-74,Marguc Rok,Male,08-01-2022,Scuol,SUI,Slovenia,Qualification,Parallel Giant Slalom,40,
-75,Marguc Rok,Male,08-01-2022,Scuol,SUI,Slovenia,World Cup,Parallel Giant Slalom,40,18.50
-76,Marguc Rok,Male,21-12-2021,Moninec,CZE,Slovenia,FIS,Parallel Slalom,3,120.00
-77,Marguc Rok,Male,20-12-2021,Moninec,CZE,Slovenia,FIS,Parallel Slalom,5,90.00
-78,Marguc Rok,Male,18-12-2021,Cortina d Ampezzo,ITA,Slovenia,Qualification,Parallel Giant Slalom,18,
-79,Marguc Rok,Male,18-12-2021,Cortina d Ampezzo,ITA,Slovenia,World Cup,Parallel Giant Slalom,18,130.00
-80,Marguc Rok,Male,16-12-2021,Carezza,ITA,Slovenia,Qualification,Parallel Giant Slalom,29,
-81,Marguc Rok,Male,16-12-2021,Carezza,ITA,Slovenia,World Cup,Parallel Giant Slalom,29,36.00
-82,Marguc Rok,Male,12-12-2021,Bannoye,RUS,Slovenia,Qualification,Parallel Slalom,26,
-83,Marguc Rok,Male,12-12-2021,Bannoye,RUS,Slovenia,World Cup,Parallel Slalom,26,50.00
-84,Marguc Rok,Male,11-12-2021,Bannoye,RUS,Slovenia,Qualification,Parallel Giant Slalom,23,
-85,Marguc Rok,Male,11-12-2021,Bannoye,RUS,Slovenia,World Cup,Parallel Giant Slalom,23,80.00
-86,Marguc Rok,Male,31-03-2021,Villnöss,ITA,Slovenia,National Championships,Parallel Giant Slalom,9,84.10
-87,Marguc Rok,Male,30-03-2021,Villnöss,ITA,Slovenia,National Championships,Parallel Slalom,6,116.00
-88,Marguc Rok,Male,20-03-2021,Berchtesgaden,GER,Slovenia,Qualification,Parallel Slalom,21,
-89,Marguc Rok,Male,20-03-2021,Berchtesgaden,GER,Slovenia,World Cup,Parallel Slalom,21,100.00
-90,Marguc Rok,Male,13-03-2021,Davos Rinerhorn,SUI,Slovenia,European Cup,Parallel Giant Slalom,2,288.00
-91,Marguc Rok,Male,09-03-2021,SUCHE/Zakopane,POL,Slovenia,National Championships,Parallel Slalom,1,290.00
-92,Marguc Rok,Male,08-03-2021,SUCHE/Zakopane,POL,Slovenia,National Championships,Parallel Giant Slalom,1,290.00
-93,Marguc Rok,Male,06-03-2021,Rogla,SLO,Slovenia,Qualification,Parallel Giant Slalom,38,
-94,Marguc Rok,Male,06-03-2021,Rogla,SLO,Slovenia,World Cup,Parallel Giant Slalom,38,19.10
-95,Marguc Rok,Male,02-03-2021,Rogla,SLO,Slovenia,World Championships,Parallel Slalom,28,40.00
-96,Marguc Rok,Male,02-03-2021,Rogla,SLO,Slovenia,Qualification,Parallel Slalom,28,
-97,Marguc Rok,Male,01-03-2021,Rogla,SLO,Slovenia,World Championships,Parallel Giant Slalom,40,18.50
-98,Marguc Rok,Male,01-03-2021,Rogla,SLO,Slovenia,Qualification,Parallel Giant Slalom,40,
-99,Marguc Rok,Male,21-02-2021,Gerlitzen,AUT,Slovenia,National Championships,Parallel Slalom,5,130.50
-100,Marguc Rok,Male,20-02-2021,Gerlitzen,AUT,Slovenia,National Championships,Parallel Giant Slalom,6,116.00
-101,Marguc Rok,Male,07-02-2021,Bannoye,RUS,Slovenia,Qualification,Parallel Slalom,24,
-102,Marguc Rok,Male,07-02-2021,Bannoye,RUS,Slovenia,World Cup,Parallel Slalom,24,70.00
-103,Marguc Rok,Male,06-02-2021,Baonoye,RUS,Slovenia,Qualification,Parallel Giant Slalom,34,
-104,Marguc Rok,Male,06-02-2021,Bannoye,RUS,Slovenia,World Cup,Parallel Giant Slalom,34,22.00
-105,Marguc Rok,Male,09-01-2021,Scuol,SUI,Slovenia,Qualification,Parallel Giant Slalom,35,
-106,Marguc Rok,Male,09-01-2021,Scuol,SUI,Slovenia,World Cup,Parallel Giant Slalom,35,20.00
-107,Marguc Rok,Male,17-12-2020,Carezza,ITA,Slovenia,Qualification,Parallel Giant Slalom,19,
-108,Marguc Rok,Male,17-12-2020,Carezza,ITA,Slovenia,World Cup,Parallel Giant Slalom,19,120.00
-109,Marguc Rok,Male,12-12-2020,Cortina d Ampezzo,ITA,Slovenia,Qualification,Parallel Giant Slalom,26,
-110,Marguc Rok,Male,12-12-2020,Cortina d Ampezzo,ITA,Slovenia,World Cup,Parallel Giant Slalom,26,50.00
-111,Marguc Rok,Male,01-03-2020,Blue Mountain,CAN,Slovenia,World Cup,Parallel Giant Slalom,38,19.10
-112,Marguc Rok,Male,01-03-2020,Blue Mountain,CAN,Slovenia,Qualification,Parallel Giant Slalom,38,
-113,Marguc Rok,Male,29-02-2020,Blue Mountain,CAN,Slovenia,World Cup,Parallel Giant Slalom,37,19.40
-114,Marguc Rok,Male,29-02-2020,Blue Mountain,CAN,Slovenia,Qualification,Parallel Giant Slalom,37,
-115,Marguc Rok,Male,22-02-2020,Pyeongchang,KOR,Slovenia,World Cup,Parallel Giant Slalom,33,
-116,Marguc Rok,Male,22-02-2020,Pyeongchang,KOR,Slovenia,Qualification,Parallel Giant Slalom,33,
-117,Marguc Rok,Male,16-02-2020,Simonhoehe,AUT,Slovenia,European Cup,Parallel Giant Slalom,16,54.00
-118,Marguc Rok,Male,15-02-2020,Simonhoehe,AUT,Slovenia,European Cup,Parallel Giant Slalom,24,25.20
-119,Marguc Rok,Male,25-01-2020,Piancavallo,ITA,Slovenia,World Cup,Parallel Slalom,22,90.00
-120,Marguc Rok,Male,25-01-2020,Piancavallo,ITA,Slovenia,Qualification,Parallel Slalom,22,
-121,Marguc Rok,Male,18-01-2020,Rogla,SLO,Slovenia,World Cup,Parallel Giant Slalom,17,140.00
-122,Marguc Rok,Male,18-01-2020,Rogla,SLO,Slovenia,Qualification,Parallel Giant Slalom,17,
-123,Marguc Rok,Male,14-01-2020,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,26,50.00
-124,Marguc Rok,Male,14-01-2020,Bad Gastein,AUT,Slovenia,Qualification,Parallel Slalom,26,
-125,Marguc Rok,Male,11-01-2020,Scuol,SUI,Slovenia,World Cup,Parallel Giant Slalom,DNF,
-126,Marguc Rok,Male,11-01-2020,Scuol,SUI,Slovenia,Qualification,Parallel Giant Slalom,DNF,
-127,Marguc Rok,Male,19-12-2019,Carezza,ITA,Slovenia,Open,Parallel Giant Slalom,8,320.00
-128,Marguc Rok,Male,14-12-2019,Cortina d Ampezzo,ITA,Slovenia,World Cup,Parallel Giant Slalom,13,200.00
-129,Marguc Rok,Male,14-12-2019,Cortina d Ampezzo,ITA,Slovenia,Qualification,Parallel Giant Slalom,11,
-130,Marguc Rok,Male,08-12-2019,Bannoye,RUS,Slovenia,World Cup,Parallel Giant Slalom,38,19.10
-131,Marguc Rok,Male,08-12-2019,Bannoye,RUS,Slovenia,Qualification,Parallel Giant Slalom,38,
-132,Marguc Rok,Male,07-12-2019,Bannoye,RUS,Slovenia,World Cup,Parallel Slalom,21,100.00
-133,Marguc Rok,Male,07-12-2019,Bannoye,RUS,Slovenia,Qualification,Parallel Slalom,21,
-134,Marguc Rok,Male,04-02-2019,Park City,USA,Slovenia,World Championships,Parallel Giant Slalom,25,60.00
-135,Marguc Rok,Male,26-01-2019,Moscow,RUS,Slovenia,World Cup,Parallel Slalom,35,
-136,Marguc Rok,Male,26-01-2019,Moscow,RUS,Slovenia,Qualification,Parallel Slalom,35,
-137,Marguc Rok,Male,19-01-2019,Rogla,SLO,Slovenia,World Cup,Parallel GS,3,600.00
-138,Marguc Rok,Male,19-01-2019,Rogla,SLO,Slovenia,Qualification,Parallel Giant Slalom,7,
-139,Marguc Rok,Male,08-01-2019,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,12,220.00
-140,Marguc Rok,Male,08-01-2019,Bad Gastein,AUT,Slovenia,Qualification,Parallel Slalom,12,
-141,Marguc Rok,Male,15-12-2018,Cortina d'Ampezzo,ITA,Slovenia,World Cup,Parallel GS,10,260.00
-142,Marguc Rok,Male,15-12-2018,Cortina d'Ampezzo,ITA,Slovenia,Qualification,Parallel Giant Slalom,5,
-143,Marguc Rok,Male,13-12-2018,Carezza,ITA,Slovenia,World Cup,Parallel GS,12,220.00
-144,Marguc Rok,Male,13-12-2018,Carezza,ITA,Slovenia,Qualification,Parallel Giant Slalom,8,
-145,Marguc Rok,Male,21-03-2018,Rogla,SLO,Slovenia,European Cup,Parallel GS,3,216.00
-146,Marguc Rok,Male,20-03-2018,Rogla,SLO,Slovenia,European Cup,Parallel GS,3,216.00
-147,Marguc Rok,Male,17-03-2018,Winterberg,GER,Slovenia,World Cup,Parallel Slalom,3,600.00
-148,Marguc Rok,Male,17-03-2018,Winterberg,GER,Slovenia,Qualification,Parallel Slalom,3,
-149,Marguc Rok,Male,10-03-2018,Scuol,SUI,Slovenia,World Cup,Parallel GS,21,100.00
-150,Marguc Rok,Male,10-03-2018,Scuol,SUI,Slovenia,Qualification,Parallel GS,21,
-151,Marguc Rok,Male,03-03-2018,Kayseri,TUR,Slovenia,World Cup,Parallel GS,4,500.00
-152,Marguc Rok,Male,03-03-2018,Kayseri,TUR,Slovenia,Qualification,Parallel GS,9,
-153,Marguc Rok,Male,24-02-2018,Phoenix Snow Park,KOR,Slovenia,Qualification,Parallel GS,17,
-154,Marguc Rok,Male,24-02-2018,Phoenix Snow Park,KOR,Slovenia,Olympic Winter Games,Parallel GS,17,140.00
-155,Marguc Rok,Male,04-02-2018,Gerlitzen,AUT,Slovenia,National Championships,Parallel GS,5,130.50
-156,Marguc Rok,Male,28-01-2018,Bansko,BUL,Slovenia,World Cup,Parallel GS,8,320.00
-157,Marguc Rok,Male,28-01-2018,Bansko,BUL,Slovenia,Qualification,Parallel GS,15,
-158,Marguc Rok,Male,26-01-2018,Bansko,BUL,Slovenia,World Cup,Parallel GS,22,90.00
-159,Marguc Rok,Male,26-01-2018,Bansko,BUL,Slovenia,Qualification,Parallel GS,22,
-160,Marguc Rok,Male,21-01-2018,Rogla,SLO,Slovenia,World Cup,Parallel GS,22,90.00
-161,Marguc Rok,Male,21-01-2018,Rogla,SLO,Slovenia,Qualification,Parallel GS,22,
-162,Marguc Rok,Male,20-01-2018,Rogla,SLO,Slovenia,World Cup,Parallel GS,19,120.00
-163,Marguc Rok,Male,20-01-2018,Rogla,SLO,Slovenia,Qualification,Parallel GS,19,
-164,Marguc Rok,Male,12-01-2018,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,15,160.00
-165,Marguc Rok,Male,12-01-2018,Bad Gastein,AUT,Slovenia,Qualification,Parallel Slalom,15,
-166,Marguc Rok,Male,05-01-2018,Lackenhof,AUT,Slovenia,World Cup,Parallel GS,2,800.00
-167,Marguc Rok,Male,05-01-2018,Lackenhof,AUT,Slovenia,Qualification,Parallel GS,5,
-168,Marguc Rok,Male,16-12-2017,Cortina d'Ampezzo,ITA,Slovenia,World Cup,Parallel Slalom,22,90.00
-169,Marguc Rok,Male,16-12-2017,Cortina d'Ampezzo,ITA,Slovenia,Qualification,Parallel Slalom,22,
-170,Marguc Rok,Male,15-12-2017,Cortina d'Ampezzo,ITA,Slovenia,World Cup,Parallel GS,13,200.00
-171,Marguc Rok,Male,15-12-2017,Cortina d'Ampezzo,ITA,Slovenia,Qualification,Parallel GS,11,
-172,Marguc Rok,Male,14-12-2017,Carezza,ITA,Slovenia,World Cup,Parallel GS,28,40.00
-173,Marguc Rok,Male,14-12-2017,Carezza,ITA,Slovenia,Qualification,Parallel GS,28,
-174,Marguc Rok,Male,02-12-2017,Pfelders,ITA,Slovenia,FIS,Parallel GS,7,79.20
-175,Marguc Rok,Male,18-03-2017,Winterberg,GER,Slovenia,Qualification,Parallel Slalom,6,
-176,Marguc Rok,Male,18-03-2017,Winterberg,GER,Slovenia,World Cup,Parallel Slalom,11,240.00
-177,Marguc Rok,Male,16-03-2017,Sierra Nevada,ESP,Slovenia,World Championships,Parallel GS,21,100.00
-178,Marguc Rok,Male,15-03-2017,Sierra Nevada,ESP,Slovenia,World Championships,Parallel Slalom,16,150.00
-179,Marguc Rok,Male,05-03-2017, Erciyes-Kayseri,TUR,Slovenia,World Cup,Parallel GS,36,19.70
-180,Marguc Rok,Male,12-02-2017,Phoenix Pyeongchang,KOR,Slovenia,World Cup,Parallel GS,17,140.00
-181,Marguc Rok,Male,05-02-2017,Bansko,BUL,Slovenia,World Cup,Parallel GS,47,16.40
-182,Marguc Rok,Male,03-02-2017,Bansko,BUL,Slovenia,World Cup,Parallel GS,30,32.00
-183,Marguc Rok,Male,28-01-2017,Rogla,SLO,Slovenia,World Cup,Parallel GS,10,260.00
-184,Marguc Rok,Male,10-01-2017,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,21,100.00
-185,Marguc Rok,Male,07-01-2017,Gerlitzen,AUT,Slovenia,European Cup,Parallel GS,5,162.00
-186,Marguc Rok,Male,17-12-2016,Cortina d'Ampezzo,ITA,Slovenia,World Cup,Parallel Slalom,28,40.00
-187,Marguc Rok,Male,15-12-2016,Carezza,ITA,Slovenia,World Cup,Parallel GS,6,400.00
-188,Marguc Rok,Male,10-12-2016,Hochfügen,GER,Slovenia,European Cup,Parallel GS,30,11.52
-189,Marguc Rok,Male,24-03-2016,Rogla,SLO,Slovenia,European Cup,Parallel Slalom,6,200.00
-190,Marguc Rok,Male,23-03-2016,Rogla,SLO,Slovenia,European Cup,Parallel GS,2,400.00
-191,Marguc Rok,Male,20-03-2016,Gerlitzen,AUT,Slovenia,European Cup,Parallel GS,1,500.00
-192,Marguc Rok,Male,19-03-2016,Gerlitzen,AUT,Slovenia,European Cup,Parallel GS,1,500.00
-193,Marguc Rok,Male,06-03-2016,Winterberg,GER,Slovenia,World Cup,Parallel Slalom,3,600.00
-194,Marguc Rok,Male,27-02-2016,Kayseri,TUR,Slovenia,World Cup,Parallel GS,2,800.00
-195,Marguc Rok,Male,21-02-2016,Lenzerheide,SUI,Slovenia,European Cup,Parallel Slalom,11,120.00
-196,Marguc Rok,Male,20-02-2016,Lenzerheide,SUI,Slovenia,European Cup,Parallel Slalom,3,300.00
-197,Marguc Rok,Male,07-02-2016,Lachtal,AUT,Slovenia,FIS,Parallel Slalom,2,208.00
-198,Marguc Rok,Male,30-01-2016,Moscow,RUS,Slovenia,World Cup,Parallel Slalom,3,600.00
-199,Marguc Rok,Male,23-01-2016,Rogla,SLO,Slovenia,World Cup,Parallel GS,6,400.00
-200,Marguc Rok,Male,08-01-2016,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,17,140.00
-201,Marguc Rok,Male,19-12-2015,Cortina d'Ampezzo,ITA,Slovenia,World Cup,Parallel Slalom,14,180.00
-202,Marguc Rok,Male,12-12-2015,Carezza,ITA,Slovenia,World Cup,Parallel GS,24,70.00
-203,Marguc Rok,Male,06-12-2015,Hochfuegen,GER,Slovenia,European Cup,Parallel GS,11,120.00
-204,Marguc Rok,Male,05-12-2015,Hochfuegen,GER,Slovenia,European Cup,Parallel GS,8,160.00
-205,Marguc Rok,Male,16-10-2015,Landgraaf,NED,Slovenia,European Cup,Parallel Slalom,17,70.00
-206,Marguc Rok,Male,15-10-2015,Landgraaf,NED,Slovenia,European Cup,Parallel Slalom,6,200.00
-207,Marguc Rok,Male,22-03-2015,Hochficht,AUT,Slovenia,National Championships,Giant Slalom,3,216.00
-208,Marguc Rok,Male,21-03-2015,Hochficht,AUT,Slovenia,National Championships,Parallel Slalom,1,360.00
-209,Marguc Rok,Male,18-03-2015,Rogla,SLO,Slovenia,European Cup,Parallel Slalom,7,180.00
-210,Marguc Rok,Male,17-03-2015,Rogla,SLO,Slovenia,European Cup,Parallel GS,1,500.00
-211,Marguc Rok,Male,14-03-2015,Winterberg,GER,Slovenia,World Cup,Parallel Slalom,8,320.00
-212,Marguc Rok,Male,07-03-2015,Moscow,RUS,Slovenia,World Cup,Parallel Slalom,17,140.00
-213,Marguc Rok,Male,01-03-2015,Asahikawa,JPN,Slovenia,World Cup,Parallel Slalom,6,400.00
-214,Marguc Rok,Male,28-02-2015,Asahikawa,JPN,Slovenia,World Cup,Parallel GS,8,320.00
-215,Marguc Rok,Male,07-02-2015,Sudelfeld,GER,Slovenia,World Cup,Parallel GS,11,240.00
-216,Marguc Rok,Male,06-02-2015,Sudelfeld,GER,Slovenia,Qualification,Parallel GS,8,
-217,Marguc Rok,Male,31-01-2015,Rogla,SLO,Slovenia,World Cup,Parallel GS,10,260.00
-218,Marguc Rok,Male,23-01-2015,Lachtal,AUT,Slovenia,World Championships,Parallel GS,11,240.00
-219,Marguc Rok,Male,22-01-2015,Lachtal,AUT,Slovenia,World Championships,Parallel Slalom,3,600.00
-220,Marguc Rok,Male,09-01-2015,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,30,32.00
-221,Marguc Rok,Male,18-12-2014,Montafon,AUT,Slovenia,World Cup,Parallel Slalom,46,0.00
-222,Marguc Rok,Male,16-12-2014,Carezza,ITA,Slovenia,World Cup,Parallel GS,4,500.00
-223,Marguc Rok,Male,22-02-2014,Rosa Khutor,RUS,Slovenia,Olympic Winter Games,Parallel Slalom,12,220.00
-224,Marguc Rok,Male,19-02-2014,Rosa Khutor,RUS,Slovenia,Olympic Winter Games,Parallel GS,5,450.00
-225,Marguc Rok,Male,01-02-2014,Sudelfeld,GER,Slovenia,World Cup,Parallel GS,14,180.00
-226,Marguc Rok,Male,18-01-2014,Rogla,SLO,Slovenia,World Cup,Parallel GS,7,360.00
-227,Marguc Rok,Male,12-01-2014,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,4,500.00
-228,Marguc Rok,Male,10-01-2014,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,19,120.00
-229,Marguc Rok,Male,14-12-2013,Carezza,ITA,Slovenia,World Cup,Parallel Slalom,20,110.00
-230,Marguc Rok,Male,13-12-2013,Carezza,ITA,Slovenia,World Cup,Parallel GS,4,500.00
-231,Marguc Rok,Male,08-12-2013,Hochfügen,AUT,Slovenia,European Cup,Parallel GS,31,14.00
-232,Marguc Rok,Male,16-03-2013,La Molina,ESP,Slovenia,World Cup,Parallel GS,16,150.00
-233,Marguc Rok,Male,10-03-2013,Arosa,SUI,Slovenia,World Cup,Parallel GS,1,1000.00
-234,Marguc Rok,Male,02-03-2013,Gerlitzen,AUT,Slovenia,European Cup,Parallel Slalom,1,500.00
-235,Marguc Rok,Male,23-02-2013,Moscow,RUS,Slovenia,World Cup,Parallel Slalom,16,150.00
-236,Marguc Rok,Male,14-02-2013,Sochi,RUS,Slovenia,World Cup,Parallel GS,8,320.00
-237,Marguc Rok,Male,08-02-2013,Rogla,SLO,Slovenia,World Cup,Parallel GS,5,450.00
-238,Marguc Rok,Male,27-01-2013,Stoneham,CAN,Slovenia,World Championships,Parallel Slalom,1,1000.00
-239,Marguc Rok,Male,25-01-2013,Stoneham,CAN,Slovenia,World Championships,Parallel GS,12,220.00
-240,Marguc Rok,Male,12-01-2013,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,34,22.00
-241,Marguc Rok,Male,11-01-2013,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,15,160.00
-242,Marguc Rok,Male,21-12-2012,Carezza,ITA,Slovenia,World Cup,Parallel GS,14,180.00
-243,Marguc Rok,Male,20-03-2012,Rogla,SLO,Slovenia,European Cup,Parallel Slalom,9,130.50
-244,Marguc Rok,Male,17-03-2012,Valmalenco,ITA,Slovenia,World Cup,Parallel GS,26,50.00
-245,Marguc Rok,Male,10-03-2012,La Molina,ESP,Slovenia,World Cup,Parallel GS,20,110.00
-246,Marguc Rok,Male,03-03-2012,Moscow,RUS,Slovenia,World Cup,Parallel Slalom,35,20.00
-247,Marguc Rok,Male,22-02-2012,Stoneham,CAN,Slovenia,World Cup,Parallel GS,16,150.00
-248,Marguc Rok,Male,28-01-2012,Sudelfeld,GER,Slovenia,World Cup,Parallel GS,5,450.00
-249,Marguc Rok,Male,15-01-2012,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,11,240.00
-250,Marguc Rok,Male,13-01-2012,Jauerling,AUT,Slovenia,World Cup,Parallel Slalom,13,200.00
-251,Marguc Rok,Male,22-12-2011,Carezza,ITA,Slovenia,World Cup,Parallel Slalom,10,260.00
-252,Marguc Rok,Male,21-12-2011,Carezza,ITA,Slovenia,World Cup,Parallel GS,13,200.00
-253,Marguc Rok,Male,15-12-2011,Telluride,USA,Slovenia,Qualification,Parallel GS,10,
-254,Marguc Rok,Male,15-12-2011,Telluride,USA,Slovenia,World Cup,Parallel GS,13,200.00
-255,Marguc Rok,Male,22-11-2011,Abzakovo,RUS,Slovenia,FIS,Parallel Slalom,1,260.00
-256,Marguc Rok,Male,21-11-2011,Abzakovo,RUS,Slovenia,FIS,Parallel GS,2,208.00
-257,Marguc Rok,Male,13-10-2011,Landgraaf,NED,Slovenia,World Cup,Parallel Slalom,35,20.00
-258,Marguc Rok,Male,27-03-2011,Arosa,SUI,Slovenia,World Cup,Parallel GS,13,200.00
-259,Marguc Rok,Male,19-03-2011,Valmalenco,ITA,Slovenia,World Cup,Parallel GS,14,180.00
-260,Marguc Rok,Male,05-03-2011,Moscow,RUS,Slovenia,World Cup,Parallel Slalom,2,800.00
-261,Marguc Rok,Male,01-03-2011,Rogla,SLO,Slovenia,European Cup,Parallel Slalom,1,450.00
-262,Marguc Rok,Male,20-02-2011,Stoneham,CAN,Slovenia,World Cup,Parallel GS,7,360.00
-263,Marguc Rok,Male,09-02-2011,Yongpyong,KOR,Slovenia,World Cup,Parallel Slalom,11,240.00
-264,Marguc Rok,Male,22-01-2011,La Molina,ESP,Slovenia,World Championships,Parallel Slalom,3,600.00
-265,Marguc Rok,Male,19-01-2011,La Molina,ESP,Slovenia,World Championships,Parallel GS,2,800.00
-266,Marguc Rok,Male,09-01-2011,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,4,500.00
-267,Marguc Rok,Male,16-12-2010,Telluride,USA,Slovenia,World Cup,Parallel GS,8,320.00
-268,Marguc Rok,Male,11-12-2010,Limone Piemonte,ITA,Slovenia,World Cup,Parallel Slalom,21,100.00
-269,Marguc Rok,Male,10-12-2010,Limone Piemonte,ITA,Slovenia,World Cup,Parallel GS,29,36.00
-270,Marguc Rok,Male,10-10-2010,Landgraaf,NED,Slovenia,World Cup,Parallel Slalom,7,360.00
-271,Marguc Rok,Male,21-03-2010,La Molina,ESP,Slovenia,World Cup,Parallel GS,15,160.00
-272,Marguc Rok,Male,13-03-2010,Valmalenco,ITA,Slovenia,World Cup,Parallel GS,12,220.00
-273,Marguc Rok,Male,06-03-2010,Moscow,RUS,Slovenia,World Cup,Parallel Slalom,11,240.00
-274,Marguc Rok,Male,27-02-2010,Cypress,CAN,Slovenia,Olympic Winter Games,Parallel GS,23,80.00
-275,Marguc Rok,Male,06-02-2010,Sudelfeld,GER,Slovenia,World Cup,Parallel GS,8,320.00
-276,Marguc Rok,Male,17-01-2010,Nendaz,SUI,Slovenia,World Cup,Parallel GS,4,500.00
-277,Marguc Rok,Male,14-01-2010,Nendaz,SUI,Slovenia,European Cup,Parallel GS,15,80.00
-278,Marguc Rok,Male,06-01-2010,Kreischberg,AUT,Slovenia,World Cup,Parallel GS,6,400.00
-279,Marguc Rok,Male,17-12-2009,Telluride,USA,Slovenia,World Cup,Parallel GS,7,360.00
-280,Marguc Rok,Male,15-12-2009,Telluride,USA,Slovenia,World Cup,Parallel GS,12,220.00
-281,Marguc Rok,Male,05-12-2009,Carezza,ITA,Slovenia,European Cup,Parallel GS,5,
-282,Marguc Rok,Male,24-11-2009,Abzakovo,RUS,Slovenia,FIS,Parallel GS,1,260.00
-283,Marguc Rok,Male,09-10-2009,Landgraaf,NED,Slovenia,World Cup,Parallel Slalom,30,32.00
-284,Marguc Rok,Male,20-09-2009,Landgraaf,NED,Slovenia,FIS,Parallel Slalom,5,117.00
-285,Marguc Rok,Male,19-09-2009,Landgraaf,NED,Slovenia,FIS,Parallel Slalom,5,117.00
-286,Marguc Rok,Male,07-02-2009,Vratna,SVK,Slovenia,European Cup,Parallel GS,2,320.00
-287,Marguc Rok,Male,31-01-2009,Sudelfeld,GER,Slovenia,World Cup,Parallel GS,25,60.00
-288,Marguc Rok,Male,21-01-2009,Gangwon,KOR,Slovenia,World Championships,Parallel Slalom,12,220.00
-289,Marguc Rok,Male,11-01-2009,Kasberg,AUT,Slovenia,European Cup,Parallel GS,4,180.00
-290,Marguc Rok,Male,10-01-2009,Kasberg,AUT,Slovenia,European Cup,Parallel GS,1,360.00
-291,Marguc Rok,Male,07-01-2009,Kreischberg,AUT,Slovenia,World Cup,Parallel Slalom,4,500.00
-292,Marguc Rok,Male,06-01-2009,Kreischberg,AUT,Slovenia,World Cup,Parallel GS,38,19.10
-293,Marguc Rok,Male,29-12-2008,Bischofswiesen / Götschen,GER,Slovenia,European Cup,Parallel GS,9,145.00
-294,Marguc Rok,Male,21-12-2008,Arosa,SUI,Slovenia,World Cup,Parallel Slalom,24,70.00
-295,Marguc Rok,Male,14-12-2008,Limone Piemonte,ITA,Slovenia,World Cup,Parallel GS,13,
-296,Marguc Rok,Male,10-10-2008,Landgraaf,NED,Slovenia,World Cup,Parallel Slalom,18,130.00
-297,Marguc Rok,Male,27-09-2008,Landgraaf,NED,Slovenia,FIS,Slalom,3,156.00
-298,Marguc Rok,Male,15-03-2008,Valmalenco,ITA,Slovenia,World Cup,Parallel GS,20,110.00
-299,Marguc Rok,Male,08-03-2008,Stoneham,CAN,Slovenia,World Cup,Parallel GS,17,140.00
-300,Marguc Rok,Male,03-03-2008,"Lake Placid, NY",USA,Slovenia,World Cup,Parallel GS,29,36.00
-301,Marguc Rok,Male,24-02-2008,Gujo-Gifu,JPN,Slovenia,World Cup,Parallel GS,33,24.00
-302,Marguc Rok,Male,17-02-2008,Sungwoo,KOR,Slovenia,World Cup,Parallel GS,19,120.00
-303,Marguc Rok,Male,03-02-2008,Vratna,SVK,Slovenia,European Cup,Parallel GS,1,
-304,Marguc Rok,Male,02-02-2008,Vratna,SVK,Slovenia,European Cup,Parallel GS,1,500.00
-305,Marguc Rok,Male,27-01-2008,Sudelfeld,GER,Slovenia,European Cup,Parallel GS,14,90.00
-306,Marguc Rok,Male,20-01-2008,La Molina,ESP,Slovenia,World Cup,Parallel Slalom,13,200.00
-307,Marguc Rok,Male,19-01-2008,La Molina,ESP,Slovenia,World Cup,Parallel GS,23,80.00
-308,Marguc Rok,Male,09-01-2008,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,3,600.00
-309,Marguc Rok,Male,16-12-2007,Nendaz,SUI,Slovenia,World Cup,Parallel Slalom,10,260.00
-310,Marguc Rok,Male,08-12-2007,Limone Piemonte,ITA,Slovenia,World Cup,Parallel GS,15,160.00
-311,Marguc Rok,Male,23-11-2007,Abzakovo / Magnitigorsk,RUS,Slovenia,European Cup,Parallel GS,1,360.00
-312,Marguc Rok,Male,20-10-2007,Soelden,AUT,Slovenia,World Cup,Parallel GS,20,110.00
-313,Marguc Rok,Male,12-10-2007,Landgraaf,NED,Slovenia,World Cup,Parallel Slalom,14,180.00
-314,Marguc Rok,Male,27-03-2007,Maribor,SLO,Slovenia,National Championships,Parallel GS,1,320.00
-315,Marguc Rok,Male,24-03-2007,Colere,ITA,Slovenia,National Championships,Giant Slalom,1,360.00
-316,Marguc Rok,Male,23-03-2007,Colere,ITA,Slovenia,National Championships,Parallel Slalom,1,360.00
-317,Marguc Rok,Male,16-03-2007,Stoneham,CAN,Slovenia,World Cup,Parallel GS,10,260.00
-318,Marguc Rok,Male,25-02-2007,Sungwoo,KOR,Slovenia,World Cup,Parallel GS,8,320.00
-319,Marguc Rok,Male,16-02-2007,Furano,JPN,Slovenia,World Cup,Parallel GS,3,600.00
-320,Marguc Rok,Male,09-02-2007,Shukolovo,RUS,Slovenia,World Cup,Parallel Slalom,4,500.00
-321,Marguc Rok,Male,02-02-2007,Bardonecchia,ITA,Slovenia,World Cup,Parallel GS,13,200.00
-322,Marguc Rok,Male,28-01-2007,Nendaz,SUI,Slovenia,World Cup,Parallel Slalom,26,50.00
-323,Marguc Rok,Male,26-01-2007,Bardonecchia,ITA,Slovenia,Universiade,Giant Slalom,1,290.00
-324,Marguc Rok,Male,17-01-2007,Arosa,SUI,Slovenia,World Championships,Parallel Slalom,22,90.00
-325,Marguc Rok,Male,16-01-2007,Arosa,SUI,Slovenia,World Championships,Parallel GS,12,220.00
-326,Marguc Rok,Male,21-12-2006,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,23,80.00
-327,Marguc Rok,Male,20-12-2006,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,28,40.00
-328,Marguc Rok,Male,13-12-2006,S. Viglio di Marebbe,ITA,Slovenia,World Cup,Parallel GS,8,320.00
-329,Marguc Rok,Male,22-10-2006,Sölden,AUT,Slovenia,World Cup,Parallel GS,19,120.00
-330,Marguc Rok,Male,13-10-2006,Landgraaf,NED,Slovenia,World Cup,Parallel Slalom,33,24.00
-331,Marguc Rok,Male,09-04-2006,Madesimo,ITA,Slovenia,National Championships,Parallel GS,42,
-332,Marguc Rok,Male,07-04-2006,Sils,SUI,Slovenia,National Championships,Parallel GS,11,
-333,Marguc Rok,Male,05-04-2006,Rogla,SLO,Slovenia,FIS,Parallel Slalom,2,208.00
-334,Marguc Rok,Male,04-04-2006,Rogla,SLO,Slovenia,FIS,Parallel GS,6,96.00
-335,Marguc Rok,Male,31-03-2006,Bad Gastein,AUT,Slovenia,National Championships,Parallel Slalom,15,51.20
-336,Marguc Rok,Male,19-03-2006,Feldberg,GER,Slovenia,National Championships,Parallel Slalom,4,120.00
-337,Marguc Rok,Male,18-03-2006,Feldberg,GER,Slovenia,National Championships,Parallel GS,5,117.00
-338,Marguc Rok,Male,17-03-2006,Leysin,SUI,Slovenia,European Cup,Parallel GS,4,130.00
-339,Marguc Rok,Male,12-03-2006,Gerlitzen,AUT,Slovenia,FIS,Parallel Slalom,2,208.00
-340,Marguc Rok,Male,11-03-2006,Gerlitzen,AUT,Slovenia,FIS,Parallel Slalom,3,156.00
-341,Marguc Rok,Male,03-03-2006,St. Petersburg,RUS,Slovenia,World Cup,Parallel Slalom,36,19.70
-342,Marguc Rok,Male,01-03-2006,Shukolovo,RUS,Slovenia,World Cup,Parallel Slalom,35,20.00
-343,Marguc Rok,Male,06-02-2006,Vivaldi Park,KOR,Slovenia,FIS Junior World Championships,Parallel GS,6,144.00
-344,Marguc Rok,Male,29-01-2006,Vratna-Terchova,SVK,Slovenia,European Cup,Parallel GS,11,69.60
-345,Marguc Rok,Male,28-01-2006,Vratna-Terchova,SVK,Slovenia,European Cup,Parallel GS,2,232.00
-346,Marguc Rok,Male,22-01-2006,Radstadt,AUT,Slovenia,European Cup,Parallel Slalom,3,156.00
-347,Marguc Rok,Male,21-01-2006,Radstadt,AUT,Slovenia,European Cup,Parallel Slalom,59,
-348,Marguc Rok,Male,15-01-2006,Hinterstoder,AUT,Slovenia,FIS,Parallel GS,9,75.40
-349,Marguc Rok,Male,14-01-2006,Hinterstoder,AUT,Slovenia,FIS,Parallel GS,1,180.00
-350,Marguc Rok,Male,08-01-2006,Kreischberg,AUT,Slovenia,World Cup,Parallel GS,49,15.80
-351,Marguc Rok,Male,29-12-2005,Bischofswiesen,GER,Slovenia,European Cup,Parallel GS,18,58.50
-352,Marguc Rok,Male,11-12-2005,Haus im Ennstal,AUT,Slovenia,European Cup,Parallel GS,19,48.00
-353,Marguc Rok,Male,10-12-2005,Haus im Ennstal,AUT,Slovenia,European Cup,Parallel GS,12,110.00
-354,Marguc Rok,Male,04-12-2005,Kuehtai,AUT,Slovenia,FIS,Parallel Slalom,2,208.00
-355,Marguc Rok,Male,03-12-2005,Kuehtai,AUT,Slovenia,FIS,Parallel Slalom,2,208.00
-356,Marguc Rok,Male,22-04-2005,Zermatt,SUI,Slovenia,FIS Junior World Championships,Parallel GS,2,288.00
-357,Marguc Rok,Male,17-04-2005,Zermatt,SUI,Slovenia,National Championships,Parallel GS,12,79.20
-358,Marguc Rok,Male,02-04-2005,Berchtesgaden/Rossfeld,GER,Slovenia,National Championships,Snowboardcross,100,
-359,Marguc Rok,Male,01-04-2005,Berchtesgaden/Rossfeld,GER,Slovenia,National Championships,Parallel GS,12,63.80
-360,Marguc Rok,Male,16-03-2005,Borovets,BUL,Slovenia,European Cup,Parallel GS,29,9.36
-361,Marguc Rok,Male,15-03-2005,Borovets,BUL,Slovenia,European Cup,Parallel GS,3,156.00
-362,Marguc Rok,Male,13-03-2005,Bad Kleinkirchheim,AUT,Slovenia,FIS,Parallel Slalom,2,144.00
-363,Marguc Rok,Male,12-03-2005,Bad Kleinkirchheim,AUT,Slovenia,FIS,Parallel Slalom,2,160.00
-364,Marguc Rok,Male,09-03-2005,Piancavallo,ITA,Slovenia,European Cup,Parallel GS,18,33.80
-365,Marguc Rok,Male,07-03-2005,Sils-Furtschellas,SUI,Slovenia,European Cup,Parallel GS,19,31.20
-366,Marguc Rok,Male,06-03-2005,Sils-Furtschellas,SUI,Slovenia,FIS,Parallel GS,28,9.60
-367,Marguc Rok,Male,05-03-2005,Watles,ITA,Slovenia,FIS,Parallel GS,6,64.00
-368,Marguc Rok,Male,26-02-2005,Mavrovo,MKD,Slovenia,European Cup,Parallel GS,37,5.04
-369,Marguc Rok,Male,20-02-2005,Gerlitzen,AUT,Slovenia,FIS,Parallel Slalom,17,33.60
-370,Marguc Rok,Male,19-02-2005,Gerlitzen,AUT,Slovenia,FIS,Parallel Slalom,21,24.00
-371,Marguc Rok,Male,02-02-2005,Maribor,SLO,Slovenia,European Cup,Parallel Slalom,34,11.00
-372,Marguc Rok,Male,01-02-2005,Maribor,SLO,Slovenia,World Cup,Parallel GS,48,
-373,Marguc Rok,Male,30-01-2005,Kreischberg,AUT,Slovenia,National Championships,Parallel Slalom,19,31.20
-374,Marguc Rok,Male,29-01-2005,Kreischberg,AUT,Slovenia,National Championships,Parallel GS,24,25.20
-375,Marguc Rok,Male,16-01-2005,Sankt Johann im Pongau,AUT,Slovenia,European Cup,Parallel Slalom,120,
-376,Marguc Rok,Male,15-01-2005,Sankt Johann im Pongau,AUT,Slovenia,European Cup,Parallel GS,120,
-377,Marguc Rok,Male,09-01-2005,Hinterstoder,AUT,Slovenia,FIS,Parallel GS,11,52.80
-378,Marguc Rok,Male,08-01-2005,Hinterstoder,AUT,Slovenia,FIS,Parallel GS,10,57.20
-379,Marguc Rok,Male,19-12-2004,San Candido,ITA,Slovenia,FIS,Parallel Slalom,DNF,
-380,Marguc Rok,Male,18-12-2004,San Candido,ITA,Slovenia,FIS,Parallel GS,33,6.24
-381,Marguc Rok,Male,12-12-2004,Haus im Ennstal,AUT,Slovenia,FIS,Parallel GS,47,4.26
-382,Marguc Rok,Male,11-12-2004,Haus im Ennstal,AUT,Slovenia,European Cup,Parallel GS,46,8.35
-383,Marguc Rok,Male,05-12-2004,Nendaz,SUI,Slovenia,European Cup,Parallel Slalom,17,40.60
-384,Marguc Rok,Male,04-12-2004,Nendaz,SUI,Slovenia,European Cup,Parallel Slalom,16,39.00
-385,Marguc Rok,Male,27-03-2004,Krvavec,SLO,Slovenia,National Championships,Parallel GS,3,96.00
-386,Marguc Rok,Male,21-03-2004,Bad Gastein,AUT,Slovenia,National Championships,Parallel Slalom,17,50.40
-387,Marguc Rok,Male,20-03-2004,Bad Gastein,AUT,Slovenia,National Championships,Parallel GS,18,46.80
-388,Marguc Rok,Male,13-03-2004,Haus/Ennstal,AUT,Slovenia,FIS,Parallel GS,3,132.00
-389,Marguc Rok,Male,12-03-2004,Haus/Ennstal,AUT,Slovenia,FIS,Parallel GS,6,88.00
-390,Marguc Rok,Male,22-02-2004,Mavrovo,MKD,Slovenia,European Cup,Parallel Slalom,22,23.40
-391,Marguc Rok,Male,21-02-2004,Mavrovo,MKD,Slovenia,European Cup,Giant Slalom,6,104.00
-392,Marguc Rok,Male,15-02-2004,Gerlitzen,AUT,Slovenia,FIS,Parallel Slalom,35,5.20
-393,Marguc Rok,Male,14-02-2004,Gerlitzen,AUT,Slovenia,FIS,Parallel Slalom,11,62.40
-394,Marguc Rok,Male,11-02-2004,Klinovec,CZE,Slovenia,FIS Junior World Championships,Parallel GS,6,144.00
-395,Marguc Rok,Male,03-02-2004,Maribor,SLO,Slovenia,World Cup,Parallel GS,52,0.00
-396,Marguc Rok,Male,25-01-2004,Watles,ITA,Slovenia,FIS,Parallel Slalom,20,28.60
-397,Marguc Rok,Male,24-01-2004,Watles,ITA,Slovenia,FIS,Parallel GS,DSQ,
-398,Marguc Rok,Male,18-01-2004,Klinovec,CZE,Slovenia,Junior,Parallel Slalom,4,45.00
-399,Marguc Rok,Male,17-01-2004,Klinovec,CZE,Slovenia,FIS,Parallel GS,4,45.00
-400,Marguc Rok,Male,10-01-2004,Bardonecchia,ITA,Slovenia,FIS,Parallel Slalom,11,28.80
-401,Marguc Rok,Male,09-01-2004,Bardonecchia,ITA,Slovenia,FIS,Parallel GS,2,120.00
-402,Marguc Rok,Male,29-12-2003,Berchtesgaden,GER,Slovenia,European Cup,Parallel GS,27,20.25
-403,Marguc Rok,Male,07-12-2003,Kuehtai,AUT,Slovenia,FIS,Parallel Slalom,49,4.11
-404,Marguc Rok,Male,06-12-2003,Kuehtai,AUT,Slovenia,FIS,Parallel Slalom,15,38.40
-405,Marguc Rok,Male,23-03-2003,Madesimo,ITA,Slovenia,National Championships,Parallel Slalom,26,16.00
-406,Marguc Rok,Male,22-03-2003,Madesimo,ITA,Slovenia,National Championships,Parallel GS,24,22.40
-407,Marguc Rok,Male,16-03-2003,Berchtesgaden,GER,Slovenia,Junior,Parallel GS,19,12.00
-408,Marguc Rok,Male,28-02-2003,Platak,CRO,Slovenia,FIS,Parallel GS,1,50.00
-409,Marguc Rok,Male,23-02-2003,Mavrovo,MKD,Slovenia,FIS,Parallel Slalom,6,20.00
-410,Marguc Rok,Male,22-02-2003,Mavrovo,MKD,Slovenia,FIS,Parallel GS,1,50.00
-411,Marguc Rok,Male,21-02-2003,Kranjska Gora,SLO,Slovenia,European Cup,Parallel Slalom,46,8.35
-412,Marguc Rok,Male,20-02-2003,Kranjska Gora,SLO,Slovenia,European Cup,Parallel GS,63,0.00
-413,Marguc Rok,Male,15-02-2003,Prato Nevoso,ITA,Slovenia,FIS Junior World Championships,Parallel GS,28,14.40
-414,Marguc Rok,Male,08-02-2003,Hermagor-Nassfeld,AUT,Slovenia,FIS,Parallel Slalom,50,3.10
-415,Marguc Rok,Male,07-02-2003,Hermagor-Nassfeld,AUT,Slovenia,FIS,Parallel GS,63,2.55
-416,Marguc Rok,Male,02-02-2003,Pec pod Snezkou,CZE,Slovenia,Junior,Giant Slalom,2,40.00
-417,Marguc Rok,Male,01-02-2003,Pec pod Snezkou,CZE,Slovenia,Junior,Parallel Slalom,16,7.50
-418,Marguc Rok,Male,26-01-2003,Telnice,CZE,Slovenia,Junior,Giant Slalom,2,40.00
-419,Marguc Rok,Male,25-01-2003,Telnice,CZE,Slovenia,Junior,Giant Slalom,1,50.00
-420,Marguc Rok,Male,21-12-2002,Haus im Ennstal,AUT,Slovenia,Junior,Parallel GS,16,15.00
-421,Marguc Rok,Male,21-12-2002,Haus im Ennstal,AUT,Slovenia,Junior,Parallel GS,19,12.00
-422,Marguc Rok,Male,17-12-2002,Klinovec,CZE,Slovenia,Junior,Parallel Slalom,1,50.00
-423,Marguc Rok,Male,16-12-2002,Klinovec,CZE,Slovenia,Junior,Parallel Slalom,4,25.00
-424,Marguc Rok,Male,08-12-2002,Cortina d'Ampezzo,ITA,Slovenia,FIS,Parallel GS,74,1.66
+0,Marguc Rok,Male,25-01-2025,Rogla,SLO,Slovenia,Qualification,Parallel Giant Slalom,25,
+1,Marguc Rok,Male,25-01-2025,Rogla,SLO,Slovenia,World Cup,Parallel Giant Slalom,25,60.00
+2,Marguc Rok,Male,19-01-2025,Bansko,BUL,Slovenia,Qualification,Parallel Giant Slalom,40,
+3,Marguc Rok,Male,19-01-2025,Bansko,BUL,Slovenia,World Cup,Parallel Giant Slalom,40,18.50
+4,Marguc Rok,Male,18-01-2025,Bansko,BUL,Slovenia,Qualification,Parallel Giant Slalom,46,
+5,Marguc Rok,Male,18-01-2025,Bansko,BUL,Slovenia,World Cup,Parallel Giant Slalom,46,16.70
+6,Marguc Rok,Male,14-01-2025,Bad Gastein,AUT,Slovenia,Qualification,Parallel Slalom,30,
+7,Marguc Rok,Male,14-01-2025,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,30,32.00
+8,Marguc Rok,Male,11-01-2025,Scuol,SUI,Slovenia,Qualification,Parallel Giant Slalom,29,
+9,Marguc Rok,Male,11-01-2025,Scuol,SUI,Slovenia,World Cup,Parallel Giant Slalom,29,36.00
+10,Marguc Rok,Male,21-12-2024,Davos,SUI,Slovenia,Qualification,Parallel Slalom,35,
+11,Marguc Rok,Male,21-12-2024,Davos,SUI,Slovenia,World Cup,Parallel Slalom,35,20.00
+12,Marguc Rok,Male,14-12-2024,Cortina d'Ampezzo,ITA,Slovenia,Qualification,Parallel Giant Slalom,23,
+13,Marguc Rok,Male,14-12-2024,Cortina d'Ampezzo,ITA,Slovenia,World Cup,Parallel Giant Slalom,23,80.00
+14,Marguc Rok,Male,12-12-2024,Carezza,ITA,Slovenia,Qualification,Parallel Giant Slalom,25,
+15,Marguc Rok,Male,12-12-2024,Carezza,ITA,Slovenia,World Cup,Parallel Giant Slalom,25,60.00
+16,Marguc Rok,Male,08-12-2024,Yanqing (NASC),CHN,Slovenia,World Cup,Parallel Slalom,23,80.00
+17,Marguc Rok,Male,08-12-2024,Yanqing (NASC),CHN,Slovenia,Qualification,Parallel Slalom,23,
+18,Marguc Rok,Male,07-12-2024,Yanqing (NASC),CHN,Slovenia,World Cup,Parallel Giant Slalom,29,36.00
+19,Marguc Rok,Male,07-12-2024,Yanqing (NASC),CHN,Slovenia,Qualification,Parallel Giant Slalom,29,
+20,Marguc Rok,Male,01-12-2024,Mylin,CHN,Slovenia,World Cup,Parallel Slalom,17,140.00
+21,Marguc Rok,Male,01-12-2024,Mylin,CHN,Slovenia,Qualification,Parallel Slalom,17,
+22,Marguc Rok,Male,30-11-2024,Mylin,CHN,Slovenia,World Cup,Parallel Giant Slalom,27,45.00
+23,Marguc Rok,Male,30-11-2024,Mylin,CHN,Slovenia,Qualification,Parallel Giant Slalom,27,
+24,Marguc Rok,Male,30-03-2024,Krvavec,SLO,Slovenia,National Championships,Parallel Giant Slalom,2,232.00
+25,Marguc Rok,Male,17-03-2024,St. Moritz,SUI,Slovenia,European Cup,Parallel Slalom,42,6.44
+26,Marguc Rok,Male,16-03-2024,St. Moritz,SUI,Slovenia,European Cup,Parallel Giant Slalom,25,21.60
+27,Marguc Rok,Male,09-03-2024,Winterberg,GER,Slovenia,Qualification,Parallel Slalom,13,
+28,Marguc Rok,Male,09-03-2024,Winterberg,GER,Slovenia,World Cup,Parallel Slalom,4,500.00
+29,Marguc Rok,Male,25-02-2024,Krynica,POL,Slovenia,Qualification,Parallel Giant Slalom,24,
+30,Marguc Rok,Male,25-02-2024,Krynica,POL,Slovenia,World Cup,Parallel Giant Slalom,24,70.00
+31,Marguc Rok,Male,24-02-2024,Krynica,POL,Slovenia,Qualification,Parallel Giant Slalom,23,
+32,Marguc Rok,Male,24-02-2024,Krynica,POL,Slovenia,World Cup,Parallel Giant Slalom,23,80.00
+33,Marguc Rok,Male,27-01-2024,Simonhöhe,AUT,Slovenia,Qualification,Parallel Giant Slalom,19,
+34,Marguc Rok,Male,27-01-2024,Simonhöhe,AUT,Slovenia,World Cup,Parallel Giant Slalom,19,120.00
+35,Marguc Rok,Male,25-01-2024,Rogla,SLO,Slovenia,Qualification,Parallel Giant Slalom,11,
+36,Marguc Rok,Male,25-01-2024,Rogla,SLO,Slovenia,World Cup,Parallel Giant Slalom,7,360.00
+37,Marguc Rok,Male,21-01-2024,Pamporovo,BUL,Slovenia,Qualification,Parallel Slalom,DSQ,
+38,Marguc Rok,Male,21-01-2024,Pamporovo,BUL,Slovenia,World Cup,Parallel Slalom,DSQ,
+39,Marguc Rok,Male,20-01-2024,Pamporovo,BUL,Slovenia,Qualification,Parallel Slalom,19,
+40,Marguc Rok,Male,20-01-2024,Pamporovo,BUL,Slovenia,World Cup,Parallel Slalom,19,120.00
+41,Marguc Rok,Male,16-01-2024,Bad Gastein,AUT,Slovenia,Qualification,Parallel Slalom,23,
+42,Marguc Rok,Male,16-01-2024,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,23,80.00
+43,Marguc Rok,Male,13-01-2024,Scuol,SUI,Slovenia,Qualification,Parallel Giant Slalom,21,
+44,Marguc Rok,Male,13-01-2024,Scuol,SUI,Slovenia,World Cup,Parallel Giant Slalom,21,100.00
+45,Marguc Rok,Male,23-12-2023,Davos,SUI,Slovenia,Qualification,Parallel Slalom,34,
+46,Marguc Rok,Male,23-12-2023,Davos ,SUI,Slovenia,World Cup,Parallel Slalom,34,22.00
+47,Marguc Rok,Male,16-12-2023,Cortina d'Ampezzo,ITA,Slovenia,Qualification,Parallel Giant Slalom,18,
+48,Marguc Rok,Male,16-12-2023,Cortina d'Ampezzo,ITA,Slovenia,World Cup,Parallel Giant Slalom,18,130.00
+49,Marguc Rok,Male,14-12-2023,Carezza,ITA,Slovenia,Qualification,Parallel Giant Slalom,22,
+50,Marguc Rok,Male,14-12-2023,Carezza,ITA,Slovenia,World Cup,Parallel Giant Slalom,22,90.00
+51,Marguc Rok,Male,08-12-2023,Götschen,GER,Slovenia,Qualification,Parallel Slalom,DNS,
+52,Marguc Rok,Male,08-12-2023,Götschen,GER,Slovenia,European Cup,Parallel Slalom,DNS,
+53,Marguc Rok,Male,10-04-2023,Krvavec KD Zakon,SLO,Slovenia,National Championships,Slalom,1,220.00
+54,Marguc Rok,Male,10-04-2023,Krvavec KD Zakon,SLO,Slovenia,National Championships,Parallel Giant Slalom,1,220.00
+55,Marguc Rok,Male,30-03-2023,Cortina dAmpezzo,ITA,Slovenia,National Championships,Parallel Slalom,9,84.10
+56,Marguc Rok,Male,18-03-2023,Berchtesgaden,GER,Slovenia,Qualification,Parallel Slalom,1,
+57,Marguc Rok,Male,18-03-2023,Berchtesgaden,GER,Slovenia,World Cup,Parallel Slalom,3,600.00
+58,Marguc Rok,Male,15-03-2023,Rogla,SLO,Slovenia,World Cup,Parallel Giant Slalom,14,180.00
+59,Marguc Rok,Male,15-03-2023,Rogla,SLO,Slovenia,Qualification,Parallel Giant Slalom,14,
+60,Marguc Rok,Male,21-02-2023,Bakuriani,GEO,Slovenia,Qualification,Parallel Slalom,13,
+61,Marguc Rok,Male,21-02-2023,Bakuriani,GEO,Slovenia,World Championships,Parallel Slalom,13,200.00
+62,Marguc Rok,Male,19-02-2023,Bakuriani,GEO,Slovenia,Qualification,Parallel Giant Slalom,19,
+63,Marguc Rok,Male,19-02-2023,Bakuriani,GEO,Slovenia,World Championships,Parallel Giant Slalom,19,120.00
+64,Marguc Rok,Male,12-02-2023,Funes - Vilnoess,ITA,Slovenia,FIS,Parallel Giant Slalom,5,99.00
+65,Marguc Rok,Male,11-02-2023,Funes - Vilnoess,ITA,Slovenia,FIS,Parallel Giant Slalom,3,132.00
+66,Marguc Rok,Male,27-01-2023,Blue Mountain,CAN,Slovenia,Qualification,Parallel Giant Slalom,23,
+67,Marguc Rok,Male,27-01-2023,Blue Mountain,CAN,Slovenia,World Cup,Parallel Giant Slalom,23,80.00
+68,Marguc Rok,Male,26-01-2023,Blue Mountain,CAN,Slovenia,Qualification,Parallel Giant Slalom,29,
+69,Marguc Rok,Male,26-01-2023,Blue Mountain,CAN,Slovenia,World Cup,Parallel Giant Slalom,29,36.00
+70,Marguc Rok,Male,22-01-2023,Bansko,BUL,Slovenia,Qualification,Parallel Slalom,19,
+71,Marguc Rok,Male,22-01-2023,Bansko,BUL,Slovenia,World Cup,Parallel Slalom,19,120.00
+72,Marguc Rok,Male,21-01-2023,Bansko,BUL,Slovenia,Qualification,Parallel Slalom,22,
+73,Marguc Rok,Male,21-01-2023,Bansko,BUL,Slovenia,World Cup,Parallel Slalom,22,90.00
+74,Marguc Rok,Male,14-01-2023,Scuol,SUI,Slovenia,Qualification,Parallel Giant Slalom,24,
+75,Marguc Rok,Male,14-01-2023,Scuol,SUI,Slovenia,World Cup,Parallel Giant Slalom,24,70.00
+76,Marguc Rok,Male,10-01-2023,Bad Gastein,AUT,Slovenia,Qualification,Parallel Slalom,31,
+77,Marguc Rok,Male,10-01-2023,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,26,50.00
+78,Marguc Rok,Male,17-12-2022,Cortina d'Ampezzo,ITA,Slovenia,Qualification,Parallel Giant Slalom,33,
+79,Marguc Rok,Male,17-12-2022,Cortina d'Ampezzo,ITA,Slovenia,World Cup,Parallel Giant Slalom,33,24.00
+80,Marguc Rok,Male,15-12-2022,Carezza,ITA,Slovenia,Qualification,Parallel Giant Slalom,18,
+81,Marguc Rok,Male,15-12-2022,Carezza,ITA,Slovenia,World Cup,Parallel Giant Slalom,18,130.00
+82,Marguc Rok,Male,11-12-2022,Winterberg,GER,Slovenia,World Cup,Parallel Slalom,19,120.00
+83,Marguc Rok,Male,10-12-2022,Winterberg,GER,Slovenia,Qualification,Parallel Slalom,19,
+84,Marguc Rok,Male,19-03-2022,Berchtesgaden,GER,Slovenia,Qualification,Parallel Slalom,25,
+85,Marguc Rok,Male,19-03-2022,Berchtesgaden,GER,Slovenia,World Cup,Parallel Slalom,25,60.00
+86,Marguc Rok,Male,17-03-2022,Rogla,SLO,Slovenia,European Cup,Parallel Giant Slalom,7,115.20
+87,Marguc Rok,Male,16-03-2022,Rogla,SLO,Slovenia,Qualification,Parallel Giant Slalom,22,
+88,Marguc Rok,Male,16-03-2022,Rogla,SLO,Slovenia,World Cup,Parallel Giant Slalom,22,90.00
+89,Marguc Rok,Male,05-03-2022,Lachtal,AUT,Slovenia,European Cup,Parallel Giant Slalom,DNS,
+90,Marguc Rok,Male,27-02-2022,Simonhöhe,AUT,Slovenia,FIS,Parallel Giant Slalom,DNS,
+91,Marguc Rok,Male,26-02-2022,Simonhöhe,AUT,Slovenia,FIS,Parallel Giant Slalom,DNS,
+92,Marguc Rok,Male,20-02-2022,Funes - Vilnoess,ITA,Slovenia,FIS,Parallel Giant Slalom,2,176.00
+93,Marguc Rok,Male,19-02-2022,Funes - Vilnoess,ITA,Slovenia,FIS,Parallel Giant Slalom,4,110.00
+94,Marguc Rok,Male,08-02-2022,Beijing,CHN,Slovenia,Qualification,Parallel Giant Slalom,25,
+95,Marguc Rok,Male,08-02-2022,Beijing,CHN,Slovenia,Olympic Winter Games,Parallel Giant Slalom,25,60.00
+96,Marguc Rok,Male,11-01-2022,Bad Gastein,AUT,Slovenia,Qualification,Parallel Slalom,42,
+97,Marguc Rok,Male,11-01-2022,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,42,17.90
+98,Marguc Rok,Male,08-01-2022,Scuol,SUI,Slovenia,Qualification,Parallel Giant Slalom,40,
+99,Marguc Rok,Male,08-01-2022,Scuol,SUI,Slovenia,World Cup,Parallel Giant Slalom,40,18.50
+100,Marguc Rok,Male,21-12-2021,Moninec,CZE,Slovenia,FIS,Parallel Slalom,3,120.00
+101,Marguc Rok,Male,20-12-2021,Moninec,CZE,Slovenia,FIS,Parallel Slalom,5,90.00
+102,Marguc Rok,Male,18-12-2021,Cortina d Ampezzo,ITA,Slovenia,Qualification,Parallel Giant Slalom,18,
+103,Marguc Rok,Male,18-12-2021,Cortina d Ampezzo,ITA,Slovenia,World Cup,Parallel Giant Slalom,18,130.00
+104,Marguc Rok,Male,16-12-2021,Carezza,ITA,Slovenia,Qualification,Parallel Giant Slalom,29,
+105,Marguc Rok,Male,16-12-2021,Carezza,ITA,Slovenia,World Cup,Parallel Giant Slalom,29,36.00
+106,Marguc Rok,Male,12-12-2021,Bannoye,RUS,Slovenia,Qualification,Parallel Slalom,26,
+107,Marguc Rok,Male,12-12-2021,Bannoye,RUS,Slovenia,World Cup,Parallel Slalom,26,50.00
+108,Marguc Rok,Male,11-12-2021,Bannoye,RUS,Slovenia,Qualification,Parallel Giant Slalom,23,
+109,Marguc Rok,Male,11-12-2021,Bannoye,RUS,Slovenia,World Cup,Parallel Giant Slalom,23,80.00
+110,Marguc Rok,Male,31-03-2021,Villnöss,ITA,Slovenia,National Championships,Parallel Giant Slalom,9,84.10
+111,Marguc Rok,Male,30-03-2021,Villnöss,ITA,Slovenia,National Championships,Parallel Slalom,6,116.00
+112,Marguc Rok,Male,20-03-2021,Berchtesgaden,GER,Slovenia,Qualification,Parallel Slalom,21,
+113,Marguc Rok,Male,20-03-2021,Berchtesgaden,GER,Slovenia,World Cup,Parallel Slalom,21,100.00
+114,Marguc Rok,Male,13-03-2021,Davos Rinerhorn,SUI,Slovenia,European Cup,Parallel Giant Slalom,2,288.00
+115,Marguc Rok,Male,09-03-2021,SUCHE/Zakopane,POL,Slovenia,National Championships,Parallel Slalom,1,290.00
+116,Marguc Rok,Male,08-03-2021,SUCHE/Zakopane,POL,Slovenia,National Championships,Parallel Giant Slalom,1,290.00
+117,Marguc Rok,Male,06-03-2021,Rogla,SLO,Slovenia,Qualification,Parallel Giant Slalom,38,
+118,Marguc Rok,Male,06-03-2021,Rogla,SLO,Slovenia,World Cup,Parallel Giant Slalom,38,19.10
+119,Marguc Rok,Male,02-03-2021,Rogla,SLO,Slovenia,World Championships,Parallel Slalom,28,40.00
+120,Marguc Rok,Male,02-03-2021,Rogla,SLO,Slovenia,Qualification,Parallel Slalom,28,
+121,Marguc Rok,Male,01-03-2021,Rogla,SLO,Slovenia,World Championships,Parallel Giant Slalom,40,18.50
+122,Marguc Rok,Male,01-03-2021,Rogla,SLO,Slovenia,Qualification,Parallel Giant Slalom,40,
+123,Marguc Rok,Male,21-02-2021,Gerlitzen,AUT,Slovenia,National Championships,Parallel Slalom,5,130.50
+124,Marguc Rok,Male,20-02-2021,Gerlitzen,AUT,Slovenia,National Championships,Parallel Giant Slalom,6,116.00
+125,Marguc Rok,Male,07-02-2021,Bannoye,RUS,Slovenia,Qualification,Parallel Slalom,24,
+126,Marguc Rok,Male,07-02-2021,Bannoye,RUS,Slovenia,World Cup,Parallel Slalom,24,70.00
+127,Marguc Rok,Male,06-02-2021,Baonoye,RUS,Slovenia,Qualification,Parallel Giant Slalom,34,
+128,Marguc Rok,Male,06-02-2021,Bannoye,RUS,Slovenia,World Cup,Parallel Giant Slalom,34,22.00
+129,Marguc Rok,Male,09-01-2021,Scuol,SUI,Slovenia,Qualification,Parallel Giant Slalom,35,
+130,Marguc Rok,Male,09-01-2021,Scuol,SUI,Slovenia,World Cup,Parallel Giant Slalom,35,20.00
+131,Marguc Rok,Male,17-12-2020,Carezza,ITA,Slovenia,Qualification,Parallel Giant Slalom,19,
+132,Marguc Rok,Male,17-12-2020,Carezza,ITA,Slovenia,World Cup,Parallel Giant Slalom,19,120.00
+133,Marguc Rok,Male,12-12-2020,Cortina d Ampezzo,ITA,Slovenia,Qualification,Parallel Giant Slalom,26,
+134,Marguc Rok,Male,12-12-2020,Cortina d Ampezzo,ITA,Slovenia,World Cup,Parallel Giant Slalom,26,50.00
+135,Marguc Rok,Male,01-03-2020,Blue Mountain,CAN,Slovenia,World Cup,Parallel Giant Slalom,38,19.10
+136,Marguc Rok,Male,01-03-2020,Blue Mountain,CAN,Slovenia,Qualification,Parallel Giant Slalom,38,
+137,Marguc Rok,Male,29-02-2020,Blue Mountain,CAN,Slovenia,World Cup,Parallel Giant Slalom,37,19.40
+138,Marguc Rok,Male,29-02-2020,Blue Mountain,CAN,Slovenia,Qualification,Parallel Giant Slalom,37,
+139,Marguc Rok,Male,22-02-2020,Pyeongchang,KOR,Slovenia,World Cup,Parallel Giant Slalom,33,
+140,Marguc Rok,Male,22-02-2020,Pyeongchang,KOR,Slovenia,Qualification,Parallel Giant Slalom,33,
+141,Marguc Rok,Male,16-02-2020,Simonhoehe,AUT,Slovenia,European Cup,Parallel Giant Slalom,16,54.00
+142,Marguc Rok,Male,15-02-2020,Simonhoehe,AUT,Slovenia,European Cup,Parallel Giant Slalom,24,25.20
+143,Marguc Rok,Male,25-01-2020,Piancavallo,ITA,Slovenia,World Cup,Parallel Slalom,22,90.00
+144,Marguc Rok,Male,25-01-2020,Piancavallo,ITA,Slovenia,Qualification,Parallel Slalom,22,
+145,Marguc Rok,Male,18-01-2020,Rogla,SLO,Slovenia,World Cup,Parallel Giant Slalom,17,140.00
+146,Marguc Rok,Male,18-01-2020,Rogla,SLO,Slovenia,Qualification,Parallel Giant Slalom,17,
+147,Marguc Rok,Male,14-01-2020,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,26,50.00
+148,Marguc Rok,Male,14-01-2020,Bad Gastein,AUT,Slovenia,Qualification,Parallel Slalom,26,
+149,Marguc Rok,Male,11-01-2020,Scuol,SUI,Slovenia,World Cup,Parallel Giant Slalom,DNF,
+150,Marguc Rok,Male,11-01-2020,Scuol,SUI,Slovenia,Qualification,Parallel Giant Slalom,DNF,
+151,Marguc Rok,Male,19-12-2019,Carezza,ITA,Slovenia,Open,Parallel Giant Slalom,8,320.00
+152,Marguc Rok,Male,14-12-2019,Cortina d Ampezzo,ITA,Slovenia,World Cup,Parallel Giant Slalom,13,200.00
+153,Marguc Rok,Male,14-12-2019,Cortina d Ampezzo,ITA,Slovenia,Qualification,Parallel Giant Slalom,11,
+154,Marguc Rok,Male,08-12-2019,Bannoye,RUS,Slovenia,World Cup,Parallel Giant Slalom,38,19.10
+155,Marguc Rok,Male,08-12-2019,Bannoye,RUS,Slovenia,Qualification,Parallel Giant Slalom,38,
+156,Marguc Rok,Male,07-12-2019,Bannoye,RUS,Slovenia,World Cup,Parallel Slalom,21,100.00
+157,Marguc Rok,Male,07-12-2019,Bannoye,RUS,Slovenia,Qualification,Parallel Slalom,21,
+158,Marguc Rok,Male,04-02-2019,Park City,USA,Slovenia,World Championships,Parallel Giant Slalom,25,60.00
+159,Marguc Rok,Male,26-01-2019,Moscow,RUS,Slovenia,World Cup,Parallel Slalom,35,
+160,Marguc Rok,Male,26-01-2019,Moscow,RUS,Slovenia,Qualification,Parallel Slalom,35,
+161,Marguc Rok,Male,19-01-2019,Rogla,SLO,Slovenia,World Cup,Parallel GS,3,600.00
+162,Marguc Rok,Male,19-01-2019,Rogla,SLO,Slovenia,Qualification,Parallel Giant Slalom,7,
+163,Marguc Rok,Male,08-01-2019,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,12,220.00
+164,Marguc Rok,Male,08-01-2019,Bad Gastein,AUT,Slovenia,Qualification,Parallel Slalom,12,
+165,Marguc Rok,Male,15-12-2018,Cortina d'Ampezzo,ITA,Slovenia,World Cup,Parallel GS,10,260.00
+166,Marguc Rok,Male,15-12-2018,Cortina d'Ampezzo,ITA,Slovenia,Qualification,Parallel Giant Slalom,5,
+167,Marguc Rok,Male,13-12-2018,Carezza,ITA,Slovenia,World Cup,Parallel GS,12,220.00
+168,Marguc Rok,Male,13-12-2018,Carezza,ITA,Slovenia,Qualification,Parallel Giant Slalom,8,
+169,Marguc Rok,Male,21-03-2018,Rogla,SLO,Slovenia,European Cup,Parallel GS,3,216.00
+170,Marguc Rok,Male,20-03-2018,Rogla,SLO,Slovenia,European Cup,Parallel GS,3,216.00
+171,Marguc Rok,Male,17-03-2018,Winterberg,GER,Slovenia,World Cup,Parallel Slalom,3,600.00
+172,Marguc Rok,Male,17-03-2018,Winterberg,GER,Slovenia,Qualification,Parallel Slalom,3,
+173,Marguc Rok,Male,10-03-2018,Scuol,SUI,Slovenia,World Cup,Parallel GS,21,100.00
+174,Marguc Rok,Male,10-03-2018,Scuol,SUI,Slovenia,Qualification,Parallel GS,21,
+175,Marguc Rok,Male,03-03-2018,Kayseri,TUR,Slovenia,World Cup,Parallel GS,4,500.00
+176,Marguc Rok,Male,03-03-2018,Kayseri,TUR,Slovenia,Qualification,Parallel GS,9,
+177,Marguc Rok,Male,24-02-2018,Phoenix Snow Park,KOR,Slovenia,Qualification,Parallel GS,17,
+178,Marguc Rok,Male,24-02-2018,Phoenix Snow Park,KOR,Slovenia,Olympic Winter Games,Parallel GS,17,140.00
+179,Marguc Rok,Male,04-02-2018,Gerlitzen,AUT,Slovenia,National Championships,Parallel GS,5,130.50
+180,Marguc Rok,Male,28-01-2018,Bansko,BUL,Slovenia,World Cup,Parallel GS,8,320.00
+181,Marguc Rok,Male,28-01-2018,Bansko,BUL,Slovenia,Qualification,Parallel GS,15,
+182,Marguc Rok,Male,26-01-2018,Bansko,BUL,Slovenia,World Cup,Parallel GS,22,90.00
+183,Marguc Rok,Male,26-01-2018,Bansko,BUL,Slovenia,Qualification,Parallel GS,22,
+184,Marguc Rok,Male,21-01-2018,Rogla,SLO,Slovenia,World Cup,Parallel GS,22,90.00
+185,Marguc Rok,Male,21-01-2018,Rogla,SLO,Slovenia,Qualification,Parallel GS,22,
+186,Marguc Rok,Male,20-01-2018,Rogla,SLO,Slovenia,World Cup,Parallel GS,19,120.00
+187,Marguc Rok,Male,20-01-2018,Rogla,SLO,Slovenia,Qualification,Parallel GS,19,
+188,Marguc Rok,Male,12-01-2018,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,15,160.00
+189,Marguc Rok,Male,12-01-2018,Bad Gastein,AUT,Slovenia,Qualification,Parallel Slalom,15,
+190,Marguc Rok,Male,05-01-2018,Lackenhof,AUT,Slovenia,World Cup,Parallel GS,2,800.00
+191,Marguc Rok,Male,05-01-2018,Lackenhof,AUT,Slovenia,Qualification,Parallel GS,5,
+192,Marguc Rok,Male,16-12-2017,Cortina d'Ampezzo,ITA,Slovenia,World Cup,Parallel Slalom,22,90.00
+193,Marguc Rok,Male,16-12-2017,Cortina d'Ampezzo,ITA,Slovenia,Qualification,Parallel Slalom,22,
+194,Marguc Rok,Male,15-12-2017,Cortina d'Ampezzo,ITA,Slovenia,World Cup,Parallel GS,13,200.00
+195,Marguc Rok,Male,15-12-2017,Cortina d'Ampezzo,ITA,Slovenia,Qualification,Parallel GS,11,
+196,Marguc Rok,Male,14-12-2017,Carezza,ITA,Slovenia,World Cup,Parallel GS,28,40.00
+197,Marguc Rok,Male,14-12-2017,Carezza,ITA,Slovenia,Qualification,Parallel GS,28,
+198,Marguc Rok,Male,02-12-2017,Pfelders,ITA,Slovenia,FIS,Parallel GS,7,79.20
+199,Marguc Rok,Male,18-03-2017,Winterberg,GER,Slovenia,Qualification,Parallel Slalom,6,
+200,Marguc Rok,Male,18-03-2017,Winterberg,GER,Slovenia,World Cup,Parallel Slalom,11,240.00
+201,Marguc Rok,Male,16-03-2017,Sierra Nevada,ESP,Slovenia,World Championships,Parallel GS,21,100.00
+202,Marguc Rok,Male,15-03-2017,Sierra Nevada,ESP,Slovenia,World Championships,Parallel Slalom,16,150.00
+203,Marguc Rok,Male,05-03-2017, Erciyes-Kayseri,TUR,Slovenia,World Cup,Parallel GS,36,19.70
+204,Marguc Rok,Male,12-02-2017,Phoenix Pyeongchang,KOR,Slovenia,World Cup,Parallel GS,17,140.00
+205,Marguc Rok,Male,05-02-2017,Bansko,BUL,Slovenia,World Cup,Parallel GS,47,16.40
+206,Marguc Rok,Male,03-02-2017,Bansko,BUL,Slovenia,World Cup,Parallel GS,30,32.00
+207,Marguc Rok,Male,28-01-2017,Rogla,SLO,Slovenia,World Cup,Parallel GS,10,260.00
+208,Marguc Rok,Male,10-01-2017,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,21,100.00
+209,Marguc Rok,Male,07-01-2017,Gerlitzen,AUT,Slovenia,European Cup,Parallel GS,5,162.00
+210,Marguc Rok,Male,17-12-2016,Cortina d'Ampezzo,ITA,Slovenia,World Cup,Parallel Slalom,28,40.00
+211,Marguc Rok,Male,15-12-2016,Carezza,ITA,Slovenia,World Cup,Parallel GS,6,400.00
+212,Marguc Rok,Male,10-12-2016,Hochfügen,GER,Slovenia,European Cup,Parallel GS,30,11.52
+213,Marguc Rok,Male,24-03-2016,Rogla,SLO,Slovenia,European Cup,Parallel Slalom,6,200.00
+214,Marguc Rok,Male,23-03-2016,Rogla,SLO,Slovenia,European Cup,Parallel GS,2,400.00
+215,Marguc Rok,Male,20-03-2016,Gerlitzen,AUT,Slovenia,European Cup,Parallel GS,1,500.00
+216,Marguc Rok,Male,19-03-2016,Gerlitzen,AUT,Slovenia,European Cup,Parallel GS,1,500.00
+217,Marguc Rok,Male,06-03-2016,Winterberg,GER,Slovenia,World Cup,Parallel Slalom,3,600.00
+218,Marguc Rok,Male,27-02-2016,Kayseri,TUR,Slovenia,World Cup,Parallel GS,2,800.00
+219,Marguc Rok,Male,21-02-2016,Lenzerheide,SUI,Slovenia,European Cup,Parallel Slalom,11,120.00
+220,Marguc Rok,Male,20-02-2016,Lenzerheide,SUI,Slovenia,European Cup,Parallel Slalom,3,300.00
+221,Marguc Rok,Male,07-02-2016,Lachtal,AUT,Slovenia,FIS,Parallel Slalom,2,208.00
+222,Marguc Rok,Male,30-01-2016,Moscow,RUS,Slovenia,World Cup,Parallel Slalom,3,600.00
+223,Marguc Rok,Male,23-01-2016,Rogla,SLO,Slovenia,World Cup,Parallel GS,6,400.00
+224,Marguc Rok,Male,08-01-2016,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,17,140.00
+225,Marguc Rok,Male,19-12-2015,Cortina d'Ampezzo,ITA,Slovenia,World Cup,Parallel Slalom,14,180.00
+226,Marguc Rok,Male,12-12-2015,Carezza,ITA,Slovenia,World Cup,Parallel GS,24,70.00
+227,Marguc Rok,Male,06-12-2015,Hochfuegen,GER,Slovenia,European Cup,Parallel GS,11,120.00
+228,Marguc Rok,Male,05-12-2015,Hochfuegen,GER,Slovenia,European Cup,Parallel GS,8,160.00
+229,Marguc Rok,Male,16-10-2015,Landgraaf,NED,Slovenia,European Cup,Parallel Slalom,17,70.00
+230,Marguc Rok,Male,15-10-2015,Landgraaf,NED,Slovenia,European Cup,Parallel Slalom,6,200.00
+231,Marguc Rok,Male,22-03-2015,Hochficht,AUT,Slovenia,National Championships,Giant Slalom,3,216.00
+232,Marguc Rok,Male,21-03-2015,Hochficht,AUT,Slovenia,National Championships,Parallel Slalom,1,360.00
+233,Marguc Rok,Male,18-03-2015,Rogla,SLO,Slovenia,European Cup,Parallel Slalom,7,180.00
+234,Marguc Rok,Male,17-03-2015,Rogla,SLO,Slovenia,European Cup,Parallel GS,1,500.00
+235,Marguc Rok,Male,14-03-2015,Winterberg,GER,Slovenia,World Cup,Parallel Slalom,8,320.00
+236,Marguc Rok,Male,07-03-2015,Moscow,RUS,Slovenia,World Cup,Parallel Slalom,17,140.00
+237,Marguc Rok,Male,01-03-2015,Asahikawa,JPN,Slovenia,World Cup,Parallel Slalom,6,400.00
+238,Marguc Rok,Male,28-02-2015,Asahikawa,JPN,Slovenia,World Cup,Parallel GS,8,320.00
+239,Marguc Rok,Male,07-02-2015,Sudelfeld,GER,Slovenia,World Cup,Parallel GS,11,240.00
+240,Marguc Rok,Male,06-02-2015,Sudelfeld,GER,Slovenia,Qualification,Parallel GS,8,
+241,Marguc Rok,Male,31-01-2015,Rogla,SLO,Slovenia,World Cup,Parallel GS,10,260.00
+242,Marguc Rok,Male,23-01-2015,Lachtal,AUT,Slovenia,World Championships,Parallel GS,11,240.00
+243,Marguc Rok,Male,22-01-2015,Lachtal,AUT,Slovenia,World Championships,Parallel Slalom,3,600.00
+244,Marguc Rok,Male,09-01-2015,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,30,32.00
+245,Marguc Rok,Male,18-12-2014,Montafon,AUT,Slovenia,World Cup,Parallel Slalom,46,0.00
+246,Marguc Rok,Male,16-12-2014,Carezza,ITA,Slovenia,World Cup,Parallel GS,4,500.00
+247,Marguc Rok,Male,22-02-2014,Rosa Khutor,RUS,Slovenia,Olympic Winter Games,Parallel Slalom,12,220.00
+248,Marguc Rok,Male,19-02-2014,Rosa Khutor,RUS,Slovenia,Olympic Winter Games,Parallel GS,5,450.00
+249,Marguc Rok,Male,01-02-2014,Sudelfeld,GER,Slovenia,World Cup,Parallel GS,14,180.00
+250,Marguc Rok,Male,18-01-2014,Rogla,SLO,Slovenia,World Cup,Parallel GS,7,360.00
+251,Marguc Rok,Male,12-01-2014,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,4,500.00
+252,Marguc Rok,Male,10-01-2014,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,19,120.00
+253,Marguc Rok,Male,14-12-2013,Carezza,ITA,Slovenia,World Cup,Parallel Slalom,20,110.00
+254,Marguc Rok,Male,13-12-2013,Carezza,ITA,Slovenia,World Cup,Parallel GS,4,500.00
+255,Marguc Rok,Male,08-12-2013,Hochfügen,AUT,Slovenia,European Cup,Parallel GS,31,14.00
+256,Marguc Rok,Male,16-03-2013,La Molina,ESP,Slovenia,World Cup,Parallel GS,16,150.00
+257,Marguc Rok,Male,10-03-2013,Arosa,SUI,Slovenia,World Cup,Parallel GS,1,1000.00
+258,Marguc Rok,Male,02-03-2013,Gerlitzen,AUT,Slovenia,European Cup,Parallel Slalom,1,500.00
+259,Marguc Rok,Male,23-02-2013,Moscow,RUS,Slovenia,World Cup,Parallel Slalom,16,150.00
+260,Marguc Rok,Male,14-02-2013,Sochi,RUS,Slovenia,World Cup,Parallel GS,8,320.00
+261,Marguc Rok,Male,08-02-2013,Rogla,SLO,Slovenia,World Cup,Parallel GS,5,450.00
+262,Marguc Rok,Male,27-01-2013,Stoneham,CAN,Slovenia,World Championships,Parallel Slalom,1,1000.00
+263,Marguc Rok,Male,25-01-2013,Stoneham,CAN,Slovenia,World Championships,Parallel GS,12,220.00
+264,Marguc Rok,Male,12-01-2013,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,34,22.00
+265,Marguc Rok,Male,11-01-2013,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,15,160.00
+266,Marguc Rok,Male,21-12-2012,Carezza,ITA,Slovenia,World Cup,Parallel GS,14,180.00
+267,Marguc Rok,Male,20-03-2012,Rogla,SLO,Slovenia,European Cup,Parallel Slalom,9,130.50
+268,Marguc Rok,Male,17-03-2012,Valmalenco,ITA,Slovenia,World Cup,Parallel GS,26,50.00
+269,Marguc Rok,Male,10-03-2012,La Molina,ESP,Slovenia,World Cup,Parallel GS,20,110.00
+270,Marguc Rok,Male,03-03-2012,Moscow,RUS,Slovenia,World Cup,Parallel Slalom,35,20.00
+271,Marguc Rok,Male,22-02-2012,Stoneham,CAN,Slovenia,World Cup,Parallel GS,16,150.00
+272,Marguc Rok,Male,28-01-2012,Sudelfeld,GER,Slovenia,World Cup,Parallel GS,5,450.00
+273,Marguc Rok,Male,15-01-2012,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,11,240.00
+274,Marguc Rok,Male,13-01-2012,Jauerling,AUT,Slovenia,World Cup,Parallel Slalom,13,200.00
+275,Marguc Rok,Male,22-12-2011,Carezza,ITA,Slovenia,World Cup,Parallel Slalom,10,260.00
+276,Marguc Rok,Male,21-12-2011,Carezza,ITA,Slovenia,World Cup,Parallel GS,13,200.00
+277,Marguc Rok,Male,15-12-2011,Telluride,USA,Slovenia,Qualification,Parallel GS,10,
+278,Marguc Rok,Male,15-12-2011,Telluride,USA,Slovenia,World Cup,Parallel GS,13,200.00
+279,Marguc Rok,Male,22-11-2011,Abzakovo,RUS,Slovenia,FIS,Parallel Slalom,1,260.00
+280,Marguc Rok,Male,21-11-2011,Abzakovo,RUS,Slovenia,FIS,Parallel GS,2,208.00
+281,Marguc Rok,Male,13-10-2011,Landgraaf,NED,Slovenia,World Cup,Parallel Slalom,35,20.00
+282,Marguc Rok,Male,27-03-2011,Arosa,SUI,Slovenia,World Cup,Parallel GS,13,200.00
+283,Marguc Rok,Male,19-03-2011,Valmalenco,ITA,Slovenia,World Cup,Parallel GS,14,180.00
+284,Marguc Rok,Male,05-03-2011,Moscow,RUS,Slovenia,World Cup,Parallel Slalom,2,800.00
+285,Marguc Rok,Male,01-03-2011,Rogla,SLO,Slovenia,European Cup,Parallel Slalom,1,450.00
+286,Marguc Rok,Male,20-02-2011,Stoneham,CAN,Slovenia,World Cup,Parallel GS,7,360.00
+287,Marguc Rok,Male,09-02-2011,Yongpyong,KOR,Slovenia,World Cup,Parallel Slalom,11,240.00
+288,Marguc Rok,Male,22-01-2011,La Molina,ESP,Slovenia,World Championships,Parallel Slalom,3,600.00
+289,Marguc Rok,Male,19-01-2011,La Molina,ESP,Slovenia,World Championships,Parallel GS,2,800.00
+290,Marguc Rok,Male,09-01-2011,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,4,500.00
+291,Marguc Rok,Male,16-12-2010,Telluride,USA,Slovenia,World Cup,Parallel GS,8,320.00
+292,Marguc Rok,Male,11-12-2010,Limone Piemonte,ITA,Slovenia,World Cup,Parallel Slalom,21,100.00
+293,Marguc Rok,Male,10-12-2010,Limone Piemonte,ITA,Slovenia,World Cup,Parallel GS,29,36.00
+294,Marguc Rok,Male,10-10-2010,Landgraaf,NED,Slovenia,World Cup,Parallel Slalom,7,360.00
+295,Marguc Rok,Male,21-03-2010,La Molina,ESP,Slovenia,World Cup,Parallel GS,15,160.00
+296,Marguc Rok,Male,13-03-2010,Valmalenco,ITA,Slovenia,World Cup,Parallel GS,12,220.00
+297,Marguc Rok,Male,06-03-2010,Moscow,RUS,Slovenia,World Cup,Parallel Slalom,11,240.00
+298,Marguc Rok,Male,27-02-2010,Cypress,CAN,Slovenia,Olympic Winter Games,Parallel GS,23,80.00
+299,Marguc Rok,Male,06-02-2010,Sudelfeld,GER,Slovenia,World Cup,Parallel GS,8,320.00
+300,Marguc Rok,Male,17-01-2010,Nendaz,SUI,Slovenia,World Cup,Parallel GS,4,500.00
+301,Marguc Rok,Male,14-01-2010,Nendaz,SUI,Slovenia,European Cup,Parallel GS,15,80.00
+302,Marguc Rok,Male,06-01-2010,Kreischberg,AUT,Slovenia,World Cup,Parallel GS,6,400.00
+303,Marguc Rok,Male,17-12-2009,Telluride,USA,Slovenia,World Cup,Parallel GS,7,360.00
+304,Marguc Rok,Male,15-12-2009,Telluride,USA,Slovenia,World Cup,Parallel GS,12,220.00
+305,Marguc Rok,Male,05-12-2009,Carezza,ITA,Slovenia,European Cup,Parallel GS,5,
+306,Marguc Rok,Male,24-11-2009,Abzakovo,RUS,Slovenia,FIS,Parallel GS,1,260.00
+307,Marguc Rok,Male,09-10-2009,Landgraaf,NED,Slovenia,World Cup,Parallel Slalom,30,32.00
+308,Marguc Rok,Male,20-09-2009,Landgraaf,NED,Slovenia,FIS,Parallel Slalom,5,117.00
+309,Marguc Rok,Male,19-09-2009,Landgraaf,NED,Slovenia,FIS,Parallel Slalom,5,117.00
+310,Marguc Rok,Male,07-02-2009,Vratna,SVK,Slovenia,European Cup,Parallel GS,2,320.00
+311,Marguc Rok,Male,31-01-2009,Sudelfeld,GER,Slovenia,World Cup,Parallel GS,25,60.00
+312,Marguc Rok,Male,21-01-2009,Gangwon,KOR,Slovenia,World Championships,Parallel Slalom,12,220.00
+313,Marguc Rok,Male,11-01-2009,Kasberg,AUT,Slovenia,European Cup,Parallel GS,4,180.00
+314,Marguc Rok,Male,10-01-2009,Kasberg,AUT,Slovenia,European Cup,Parallel GS,1,360.00
+315,Marguc Rok,Male,07-01-2009,Kreischberg,AUT,Slovenia,World Cup,Parallel Slalom,4,500.00
+316,Marguc Rok,Male,06-01-2009,Kreischberg,AUT,Slovenia,World Cup,Parallel GS,38,19.10
+317,Marguc Rok,Male,29-12-2008,Bischofswiesen / Götschen,GER,Slovenia,European Cup,Parallel GS,9,145.00
+318,Marguc Rok,Male,21-12-2008,Arosa,SUI,Slovenia,World Cup,Parallel Slalom,24,70.00
+319,Marguc Rok,Male,14-12-2008,Limone Piemonte,ITA,Slovenia,World Cup,Parallel GS,13,
+320,Marguc Rok,Male,10-10-2008,Landgraaf,NED,Slovenia,World Cup,Parallel Slalom,18,130.00
+321,Marguc Rok,Male,27-09-2008,Landgraaf,NED,Slovenia,FIS,Slalom,3,156.00
+322,Marguc Rok,Male,15-03-2008,Valmalenco,ITA,Slovenia,World Cup,Parallel GS,20,110.00
+323,Marguc Rok,Male,08-03-2008,Stoneham,CAN,Slovenia,World Cup,Parallel GS,17,140.00
+324,Marguc Rok,Male,03-03-2008,"Lake Placid, NY",USA,Slovenia,World Cup,Parallel GS,29,36.00
+325,Marguc Rok,Male,24-02-2008,Gujo-Gifu,JPN,Slovenia,World Cup,Parallel GS,33,24.00
+326,Marguc Rok,Male,17-02-2008,Sungwoo,KOR,Slovenia,World Cup,Parallel GS,19,120.00
+327,Marguc Rok,Male,03-02-2008,Vratna,SVK,Slovenia,European Cup,Parallel GS,1,
+328,Marguc Rok,Male,02-02-2008,Vratna,SVK,Slovenia,European Cup,Parallel GS,1,500.00
+329,Marguc Rok,Male,27-01-2008,Sudelfeld,GER,Slovenia,European Cup,Parallel GS,14,90.00
+330,Marguc Rok,Male,20-01-2008,La Molina,ESP,Slovenia,World Cup,Parallel Slalom,13,200.00
+331,Marguc Rok,Male,19-01-2008,La Molina,ESP,Slovenia,World Cup,Parallel GS,23,80.00
+332,Marguc Rok,Male,09-01-2008,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,3,600.00
+333,Marguc Rok,Male,16-12-2007,Nendaz,SUI,Slovenia,World Cup,Parallel Slalom,10,260.00
+334,Marguc Rok,Male,08-12-2007,Limone Piemonte,ITA,Slovenia,World Cup,Parallel GS,15,160.00
+335,Marguc Rok,Male,23-11-2007,Abzakovo / Magnitigorsk,RUS,Slovenia,European Cup,Parallel GS,1,360.00
+336,Marguc Rok,Male,20-10-2007,Soelden,AUT,Slovenia,World Cup,Parallel GS,20,110.00
+337,Marguc Rok,Male,12-10-2007,Landgraaf,NED,Slovenia,World Cup,Parallel Slalom,14,180.00
+338,Marguc Rok,Male,27-03-2007,Maribor,SLO,Slovenia,National Championships,Parallel GS,1,320.00
+339,Marguc Rok,Male,24-03-2007,Colere,ITA,Slovenia,National Championships,Giant Slalom,1,360.00
+340,Marguc Rok,Male,23-03-2007,Colere,ITA,Slovenia,National Championships,Parallel Slalom,1,360.00
+341,Marguc Rok,Male,16-03-2007,Stoneham,CAN,Slovenia,World Cup,Parallel GS,10,260.00
+342,Marguc Rok,Male,25-02-2007,Sungwoo,KOR,Slovenia,World Cup,Parallel GS,8,320.00
+343,Marguc Rok,Male,16-02-2007,Furano,JPN,Slovenia,World Cup,Parallel GS,3,600.00
+344,Marguc Rok,Male,09-02-2007,Shukolovo,RUS,Slovenia,World Cup,Parallel Slalom,4,500.00
+345,Marguc Rok,Male,02-02-2007,Bardonecchia,ITA,Slovenia,World Cup,Parallel GS,13,200.00
+346,Marguc Rok,Male,28-01-2007,Nendaz,SUI,Slovenia,World Cup,Parallel Slalom,26,50.00
+347,Marguc Rok,Male,26-01-2007,Bardonecchia,ITA,Slovenia,Universiade,Giant Slalom,1,290.00
+348,Marguc Rok,Male,17-01-2007,Arosa,SUI,Slovenia,World Championships,Parallel Slalom,22,90.00
+349,Marguc Rok,Male,16-01-2007,Arosa,SUI,Slovenia,World Championships,Parallel GS,12,220.00
+350,Marguc Rok,Male,21-12-2006,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,23,80.00
+351,Marguc Rok,Male,20-12-2006,Bad Gastein,AUT,Slovenia,World Cup,Parallel Slalom,28,40.00
+352,Marguc Rok,Male,13-12-2006,S. Viglio di Marebbe,ITA,Slovenia,World Cup,Parallel GS,8,320.00
+353,Marguc Rok,Male,22-10-2006,Sölden,AUT,Slovenia,World Cup,Parallel GS,19,120.00
+354,Marguc Rok,Male,13-10-2006,Landgraaf,NED,Slovenia,World Cup,Parallel Slalom,33,24.00
+355,Marguc Rok,Male,09-04-2006,Madesimo,ITA,Slovenia,National Championships,Parallel GS,42,
+356,Marguc Rok,Male,07-04-2006,Sils,SUI,Slovenia,National Championships,Parallel GS,11,
+357,Marguc Rok,Male,05-04-2006,Rogla,SLO,Slovenia,FIS,Parallel Slalom,2,208.00
+358,Marguc Rok,Male,04-04-2006,Rogla,SLO,Slovenia,FIS,Parallel GS,6,96.00
+359,Marguc Rok,Male,31-03-2006,Bad Gastein,AUT,Slovenia,National Championships,Parallel Slalom,15,51.20
+360,Marguc Rok,Male,19-03-2006,Feldberg,GER,Slovenia,National Championships,Parallel Slalom,4,120.00
+361,Marguc Rok,Male,18-03-2006,Feldberg,GER,Slovenia,National Championships,Parallel GS,5,117.00
+362,Marguc Rok,Male,17-03-2006,Leysin,SUI,Slovenia,European Cup,Parallel GS,4,130.00
+363,Marguc Rok,Male,12-03-2006,Gerlitzen,AUT,Slovenia,FIS,Parallel Slalom,2,208.00
+364,Marguc Rok,Male,11-03-2006,Gerlitzen,AUT,Slovenia,FIS,Parallel Slalom,3,156.00
+365,Marguc Rok,Male,03-03-2006,St. Petersburg,RUS,Slovenia,World Cup,Parallel Slalom,36,19.70
+366,Marguc Rok,Male,01-03-2006,Shukolovo,RUS,Slovenia,World Cup,Parallel Slalom,35,20.00
+367,Marguc Rok,Male,06-02-2006,Vivaldi Park,KOR,Slovenia,FIS Junior World Championships,Parallel GS,6,144.00
+368,Marguc Rok,Male,29-01-2006,Vratna-Terchova,SVK,Slovenia,European Cup,Parallel GS,11,69.60
+369,Marguc Rok,Male,28-01-2006,Vratna-Terchova,SVK,Slovenia,European Cup,Parallel GS,2,232.00
+370,Marguc Rok,Male,22-01-2006,Radstadt,AUT,Slovenia,European Cup,Parallel Slalom,3,156.00
+371,Marguc Rok,Male,21-01-2006,Radstadt,AUT,Slovenia,European Cup,Parallel Slalom,59,
+372,Marguc Rok,Male,15-01-2006,Hinterstoder,AUT,Slovenia,FIS,Parallel GS,9,75.40
+373,Marguc Rok,Male,14-01-2006,Hinterstoder,AUT,Slovenia,FIS,Parallel GS,1,180.00
+374,Marguc Rok,Male,08-01-2006,Kreischberg,AUT,Slovenia,World Cup,Parallel GS,49,15.80
+375,Marguc Rok,Male,29-12-2005,Bischofswiesen,GER,Slovenia,European Cup,Parallel GS,18,58.50
+376,Marguc Rok,Male,11-12-2005,Haus im Ennstal,AUT,Slovenia,European Cup,Parallel GS,19,48.00
+377,Marguc Rok,Male,10-12-2005,Haus im Ennstal,AUT,Slovenia,European Cup,Parallel GS,12,110.00
+378,Marguc Rok,Male,04-12-2005,Kuehtai,AUT,Slovenia,FIS,Parallel Slalom,2,208.00
+379,Marguc Rok,Male,03-12-2005,Kuehtai,AUT,Slovenia,FIS,Parallel Slalom,2,208.00
+380,Marguc Rok,Male,22-04-2005,Zermatt,SUI,Slovenia,FIS Junior World Championships,Parallel GS,2,288.00
+381,Marguc Rok,Male,17-04-2005,Zermatt,SUI,Slovenia,National Championships,Parallel GS,12,79.20
+382,Marguc Rok,Male,02-04-2005,Berchtesgaden/Rossfeld,GER,Slovenia,National Championships,Snowboardcross,100,
+383,Marguc Rok,Male,01-04-2005,Berchtesgaden/Rossfeld,GER,Slovenia,National Championships,Parallel GS,12,63.80
+384,Marguc Rok,Male,16-03-2005,Borovets,BUL,Slovenia,European Cup,Parallel GS,29,9.36
+385,Marguc Rok,Male,15-03-2005,Borovets,BUL,Slovenia,European Cup,Parallel GS,3,156.00
+386,Marguc Rok,Male,13-03-2005,Bad Kleinkirchheim,AUT,Slovenia,FIS,Parallel Slalom,2,144.00
+387,Marguc Rok,Male,12-03-2005,Bad Kleinkirchheim,AUT,Slovenia,FIS,Parallel Slalom,2,160.00
+388,Marguc Rok,Male,09-03-2005,Piancavallo,ITA,Slovenia,European Cup,Parallel GS,18,33.80
+389,Marguc Rok,Male,07-03-2005,Sils-Furtschellas,SUI,Slovenia,European Cup,Parallel GS,19,31.20
+390,Marguc Rok,Male,06-03-2005,Sils-Furtschellas,SUI,Slovenia,FIS,Parallel GS,28,9.60
+391,Marguc Rok,Male,05-03-2005,Watles,ITA,Slovenia,FIS,Parallel GS,6,64.00
+392,Marguc Rok,Male,26-02-2005,Mavrovo,MKD,Slovenia,European Cup,Parallel GS,37,5.04
+393,Marguc Rok,Male,20-02-2005,Gerlitzen,AUT,Slovenia,FIS,Parallel Slalom,17,33.60
+394,Marguc Rok,Male,19-02-2005,Gerlitzen,AUT,Slovenia,FIS,Parallel Slalom,21,24.00
+395,Marguc Rok,Male,02-02-2005,Maribor,SLO,Slovenia,European Cup,Parallel Slalom,34,11.00
+396,Marguc Rok,Male,01-02-2005,Maribor,SLO,Slovenia,World Cup,Parallel GS,48,
+397,Marguc Rok,Male,30-01-2005,Kreischberg,AUT,Slovenia,National Championships,Parallel Slalom,19,31.20
+398,Marguc Rok,Male,29-01-2005,Kreischberg,AUT,Slovenia,National Championships,Parallel GS,24,25.20
+399,Marguc Rok,Male,16-01-2005,Sankt Johann im Pongau,AUT,Slovenia,European Cup,Parallel Slalom,120,
+400,Marguc Rok,Male,15-01-2005,Sankt Johann im Pongau,AUT,Slovenia,European Cup,Parallel GS,120,
+401,Marguc Rok,Male,09-01-2005,Hinterstoder,AUT,Slovenia,FIS,Parallel GS,11,52.80
+402,Marguc Rok,Male,08-01-2005,Hinterstoder,AUT,Slovenia,FIS,Parallel GS,10,57.20
+403,Marguc Rok,Male,19-12-2004,San Candido,ITA,Slovenia,FIS,Parallel Slalom,DNF,
+404,Marguc Rok,Male,18-12-2004,San Candido,ITA,Slovenia,FIS,Parallel GS,33,6.24
+405,Marguc Rok,Male,12-12-2004,Haus im Ennstal,AUT,Slovenia,FIS,Parallel GS,47,4.26
+406,Marguc Rok,Male,11-12-2004,Haus im Ennstal,AUT,Slovenia,European Cup,Parallel GS,46,8.35
+407,Marguc Rok,Male,05-12-2004,Nendaz,SUI,Slovenia,European Cup,Parallel Slalom,17,40.60
+408,Marguc Rok,Male,04-12-2004,Nendaz,SUI,Slovenia,European Cup,Parallel Slalom,16,39.00
+409,Marguc Rok,Male,27-03-2004,Krvavec,SLO,Slovenia,National Championships,Parallel GS,3,96.00
+410,Marguc Rok,Male,21-03-2004,Bad Gastein,AUT,Slovenia,National Championships,Parallel Slalom,17,50.40
+411,Marguc Rok,Male,20-03-2004,Bad Gastein,AUT,Slovenia,National Championships,Parallel GS,18,46.80
+412,Marguc Rok,Male,13-03-2004,Haus/Ennstal,AUT,Slovenia,FIS,Parallel GS,3,132.00
+413,Marguc Rok,Male,12-03-2004,Haus/Ennstal,AUT,Slovenia,FIS,Parallel GS,6,88.00
+414,Marguc Rok,Male,22-02-2004,Mavrovo,MKD,Slovenia,European Cup,Parallel Slalom,22,23.40
+415,Marguc Rok,Male,21-02-2004,Mavrovo,MKD,Slovenia,European Cup,Giant Slalom,6,104.00
+416,Marguc Rok,Male,15-02-2004,Gerlitzen,AUT,Slovenia,FIS,Parallel Slalom,35,5.20
+417,Marguc Rok,Male,14-02-2004,Gerlitzen,AUT,Slovenia,FIS,Parallel Slalom,11,62.40
+418,Marguc Rok,Male,11-02-2004,Klinovec,CZE,Slovenia,FIS Junior World Championships,Parallel GS,6,144.00
+419,Marguc Rok,Male,03-02-2004,Maribor,SLO,Slovenia,World Cup,Parallel GS,52,0.00
+420,Marguc Rok,Male,25-01-2004,Watles,ITA,Slovenia,FIS,Parallel Slalom,20,28.60
+421,Marguc Rok,Male,24-01-2004,Watles,ITA,Slovenia,FIS,Parallel GS,DSQ,
+422,Marguc Rok,Male,18-01-2004,Klinovec,CZE,Slovenia,Junior,Parallel Slalom,4,45.00
+423,Marguc Rok,Male,17-01-2004,Klinovec,CZE,Slovenia,FIS,Parallel GS,4,45.00
+424,Marguc Rok,Male,10-01-2004,Bardonecchia,ITA,Slovenia,FIS,Parallel Slalom,11,28.80
+425,Marguc Rok,Male,09-01-2004,Bardonecchia,ITA,Slovenia,FIS,Parallel GS,2,120.00
+426,Marguc Rok,Male,29-12-2003,Berchtesgaden,GER,Slovenia,European Cup,Parallel GS,27,20.25
+427,Marguc Rok,Male,07-12-2003,Kuehtai,AUT,Slovenia,FIS,Parallel Slalom,49,4.11
+428,Marguc Rok,Male,06-12-2003,Kuehtai,AUT,Slovenia,FIS,Parallel Slalom,15,38.40
+429,Marguc Rok,Male,23-03-2003,Madesimo,ITA,Slovenia,National Championships,Parallel Slalom,26,16.00
+430,Marguc Rok,Male,22-03-2003,Madesimo,ITA,Slovenia,National Championships,Parallel GS,24,22.40
+431,Marguc Rok,Male,16-03-2003,Berchtesgaden,GER,Slovenia,Junior,Parallel GS,19,12.00
+432,Marguc Rok,Male,28-02-2003,Platak,CRO,Slovenia,FIS,Parallel GS,1,50.00
+433,Marguc Rok,Male,23-02-2003,Mavrovo,MKD,Slovenia,FIS,Parallel Slalom,6,20.00
+434,Marguc Rok,Male,22-02-2003,Mavrovo,MKD,Slovenia,FIS,Parallel GS,1,50.00
+435,Marguc Rok,Male,21-02-2003,Kranjska Gora,SLO,Slovenia,European Cup,Parallel Slalom,46,8.35
+436,Marguc Rok,Male,20-02-2003,Kranjska Gora,SLO,Slovenia,European Cup,Parallel GS,63,0.00
+437,Marguc Rok,Male,15-02-2003,Prato Nevoso,ITA,Slovenia,FIS Junior World Championships,Parallel GS,28,14.40
+438,Marguc Rok,Male,08-02-2003,Hermagor-Nassfeld,AUT,Slovenia,FIS,Parallel Slalom,50,3.10
+439,Marguc Rok,Male,07-02-2003,Hermagor-Nassfeld,AUT,Slovenia,FIS,Parallel GS,63,2.55
+440,Marguc Rok,Male,02-02-2003,Pec pod Snezkou,CZE,Slovenia,Junior,Giant Slalom,2,40.00
+441,Marguc Rok,Male,01-02-2003,Pec pod Snezkou,CZE,Slovenia,Junior,Parallel Slalom,16,7.50
+442,Marguc Rok,Male,26-01-2003,Telnice,CZE,Slovenia,Junior,Giant Slalom,2,40.00
+443,Marguc Rok,Male,25-01-2003,Telnice,CZE,Slovenia,Junior,Giant Slalom,1,50.00
+444,Marguc Rok,Male,21-12-2002,Haus im Ennstal,AUT,Slovenia,Junior,Parallel GS,16,15.00
+445,Marguc Rok,Male,21-12-2002,Haus im Ennstal,AUT,Slovenia,Junior,Parallel GS,19,12.00
+446,Marguc Rok,Male,17-12-2002,Klinovec,CZE,Slovenia,Junior,Parallel Slalom,1,50.00
+447,Marguc Rok,Male,16-12-2002,Klinovec,CZE,Slovenia,Junior,Parallel Slalom,4,25.00
+448,Marguc Rok,Male,08-12-2002,Cortina d'Ampezzo,ITA,Slovenia,FIS,Parallel GS,74,1.66

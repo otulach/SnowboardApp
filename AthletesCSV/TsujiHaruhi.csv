@@ -1,44 +1,46 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Tsuji Haruhi,Male,05-03-2024,Tiger Ridge Ski Resort,CHN,Japan,Asian Cup,Slopestyle,12,13.50
-1,Tsuji Haruhi,Male,04-03-2024,Tiger Ridge Mountain Park,CHN,Japan,Asian Cup,Slopestyle,13,8.70
-2,Tsuji Haruhi,Male,28-02-2024,Hakuba,JPN,Japan,Asian Cup,Slopestyle,12,49.50
-3,Tsuji Haruhi,Male,17-02-2024,Fukushima Yama,JPN,Japan,Asian Cup,Big Air,4,207.20
-4,Tsuji Haruhi,Male,04-01-2024,Font Romeu,FRA,Japan,European Cup Premium,Slopestyle,52,14.80
-5,Tsuji Haruhi,Male,22-04-2023,Kitzsteinhorn,AUT,Japan,European Cup,Big Air,33,27.20
-6,Tsuji Haruhi,Male,21-04-2023,Kitzsteinhorn,AUT,Japan,European Cup,Slopestyle,19,43.40
-7,Tsuji Haruhi,Male,17-04-2023,Corvatsch,SUI,Japan,European Cup Premium,Big Air,60,1.80
-8,Tsuji Haruhi,Male,14-04-2023,Corvatsch,SUI,Japan,European Cup Premium,Slopestyle,54,30.90
-9,Tsuji Haruhi,Male,31-03-2023,Hakuba,JPN,Japan,Asian Cup,Big Air,6,73.90
-10,Tsuji Haruhi,Male,29-03-2023,Hakuba,JPN,Japan,Asian Cup,Slopestyle,15,37.40
-11,Tsuji Haruhi,Male,25-03-2023,Niseko,JPN,Japan,National Championships,Big Air,1,180.00
-12,Tsuji Haruhi,Male,24-03-2023,Niseko,JPN,Japan,National Championships,Slopestyle,20,24.80
-13,Tsuji Haruhi,Male,10-03-2023,Horseshoe Resort,CAN,Japan,Nor-Am Cup,Big Air,20,13.20
-14,Tsuji Haruhi,Male,09-03-2023,Horseshoe Resort,CAN,Japan,Nor-Am Cup,Slopestyle,7,82.40
-15,Tsuji Haruhi,Male,08-03-2023,Horseshoe Resort,CAN,Japan,Nor-Am Cup,Slopestyle,22,22.90
-16,Tsuji Haruhi,Male,14-02-2023,Fukushima Yama,JPN,Japan,FIS,Big Air,6,93.70
-17,Tsuji Haruhi,Male,29-01-2023,Niseko,JPN,Japan,FIS,Slopestyle,13,35.40
-18,Tsuji Haruhi,Male,28-01-2023,Niseko,JPN,Japan,FIS,Slopestyle,36,9.00
-19,Tsuji Haruhi,Male,20-01-2023,Gore Mountain,USA,Japan,Universiade,Big Air,11,16.20
-20,Tsuji Haruhi,Male,19-01-2023,Gore Mountain,USA,Japan,Qualification,Big Air,6,
-21,Tsuji Haruhi,Male,18-01-2023,Gore Mountain,USA,Japan,Universiade,Slopestyle,2,98.30
-22,Tsuji Haruhi,Male,17-01-2023,Gore Mountain,USA,Japan,Qualification,Slopestyle,1,
-23,Tsuji Haruhi,Male,02-09-2022,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,18,42.30
-24,Tsuji Haruhi,Male,02-04-2022,Tsugaike,JPN,Japan,FIS,Big Air,2,66.10
-25,Tsuji Haruhi,Male,30-03-2022,Hakuba,JPN,Japan,FIS,Slopestyle,9,32.90
-26,Tsuji Haruhi,Male,06-03-2022,Niseko,JPN,Japan,National Championships,Big Air,2,165.60
-27,Tsuji Haruhi,Male,05-03-2022,Niseko,JPN,Japan,National Championships,Slopestyle,9,60.80
-28,Tsuji Haruhi,Male,30-01-2022,Niseko,JPN,Japan,FIS,Slopestyle,17,25.10
-29,Tsuji Haruhi,Male,29-01-2022,Niseko,JPN,Japan,FIS,Slopestyle,11,34.90
-30,Tsuji Haruhi,Male,10-04-2021,Ajigasawa,JPN,Japan,National Championships,Big Air,23,13.45
-31,Tsuji Haruhi,Male,31-03-2021,Tsugaike,JPN,Japan,FIS,Big Air,24,5.29
-32,Tsuji Haruhi,Male,31-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,14,22.93
-33,Tsuji Haruhi,Male,30-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,15,21.44
-34,Tsuji Haruhi,Male,01-03-2020,Oze-Tokura,JPN,Japan,FIS,Big Air,5,31.50
-35,Tsuji Haruhi,Male,29-02-2020,Oze-Tokura,JPN,Japan,FIS,Slopestyle,5,40.50
-36,Tsuji Haruhi,Male,26-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,20,17.60
-37,Tsuji Haruhi,Male,25-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,33,3.84
-38,Tsuji Haruhi,Male,28-02-2019,Tokura  Katashina,JPN,Japan,National Championships,Big Air,24,8.40
-39,Tsuji Haruhi,Male,27-02-2019,Tokura  Katashina,JPN,Japan,FIS,Big Air,11,16.80
-40,Tsuji Haruhi,Male,26-02-2019,Tokura  Katashina,JPN,Japan,National Championships,Slopestyle,14,19.80
-41,Tsuji Haruhi,Male,27-01-2019,Niseko,JPN,Japan,FIS,Slopestyle,10,23.40
-42,Tsuji Haruhi,Male,26-01-2019,Niseko,JPN,Japan,FIS,Slopestyle,15,14.40
+0,Tsuji Haruhi,Male,19-01-2025,Bardonecchia,ITA,Japan,Universiade,Big Air,10,18.20
+1,Tsuji Haruhi,Male,17-01-2025,Bardonecchia,ITA,Japan,Universiade,Slopestyle,10,18.20
+2,Tsuji Haruhi,Male,05-03-2024,Tiger Ridge Ski Resort,CHN,Japan,Asian Cup,Slopestyle,12,13.50
+3,Tsuji Haruhi,Male,04-03-2024,Tiger Ridge Mountain Park,CHN,Japan,Asian Cup,Slopestyle,13,8.70
+4,Tsuji Haruhi,Male,28-02-2024,Hakuba,JPN,Japan,Asian Cup,Slopestyle,12,49.50
+5,Tsuji Haruhi,Male,17-02-2024,Fukushima Yama,JPN,Japan,Asian Cup,Big Air,4,207.20
+6,Tsuji Haruhi,Male,04-01-2024,Font Romeu,FRA,Japan,European Cup Premium,Slopestyle,52,14.80
+7,Tsuji Haruhi,Male,22-04-2023,Kitzsteinhorn,AUT,Japan,European Cup,Big Air,33,27.20
+8,Tsuji Haruhi,Male,21-04-2023,Kitzsteinhorn,AUT,Japan,European Cup,Slopestyle,19,43.40
+9,Tsuji Haruhi,Male,17-04-2023,Corvatsch,SUI,Japan,European Cup Premium,Big Air,60,1.80
+10,Tsuji Haruhi,Male,14-04-2023,Corvatsch,SUI,Japan,European Cup Premium,Slopestyle,54,30.90
+11,Tsuji Haruhi,Male,31-03-2023,Hakuba,JPN,Japan,Asian Cup,Big Air,6,73.90
+12,Tsuji Haruhi,Male,29-03-2023,Hakuba,JPN,Japan,Asian Cup,Slopestyle,15,37.40
+13,Tsuji Haruhi,Male,25-03-2023,Niseko,JPN,Japan,National Championships,Big Air,1,180.00
+14,Tsuji Haruhi,Male,24-03-2023,Niseko,JPN,Japan,National Championships,Slopestyle,20,24.80
+15,Tsuji Haruhi,Male,10-03-2023,Horseshoe Resort,CAN,Japan,Nor-Am Cup,Big Air,20,13.20
+16,Tsuji Haruhi,Male,09-03-2023,Horseshoe Resort,CAN,Japan,Nor-Am Cup,Slopestyle,7,82.40
+17,Tsuji Haruhi,Male,08-03-2023,Horseshoe Resort,CAN,Japan,Nor-Am Cup,Slopestyle,22,22.90
+18,Tsuji Haruhi,Male,14-02-2023,Fukushima Yama,JPN,Japan,FIS,Big Air,6,93.70
+19,Tsuji Haruhi,Male,29-01-2023,Niseko,JPN,Japan,FIS,Slopestyle,13,35.40
+20,Tsuji Haruhi,Male,28-01-2023,Niseko,JPN,Japan,FIS,Slopestyle,36,9.00
+21,Tsuji Haruhi,Male,20-01-2023,Gore Mountain,USA,Japan,Universiade,Big Air,11,16.20
+22,Tsuji Haruhi,Male,19-01-2023,Gore Mountain,USA,Japan,Qualification,Big Air,6,
+23,Tsuji Haruhi,Male,18-01-2023,Gore Mountain,USA,Japan,Universiade,Slopestyle,2,98.30
+24,Tsuji Haruhi,Male,17-01-2023,Gore Mountain,USA,Japan,Qualification,Slopestyle,1,
+25,Tsuji Haruhi,Male,02-09-2022,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,18,42.30
+26,Tsuji Haruhi,Male,02-04-2022,Tsugaike,JPN,Japan,FIS,Big Air,2,66.10
+27,Tsuji Haruhi,Male,30-03-2022,Hakuba,JPN,Japan,FIS,Slopestyle,9,32.90
+28,Tsuji Haruhi,Male,06-03-2022,Niseko,JPN,Japan,National Championships,Big Air,2,165.60
+29,Tsuji Haruhi,Male,05-03-2022,Niseko,JPN,Japan,National Championships,Slopestyle,9,60.80
+30,Tsuji Haruhi,Male,30-01-2022,Niseko,JPN,Japan,FIS,Slopestyle,17,25.10
+31,Tsuji Haruhi,Male,29-01-2022,Niseko,JPN,Japan,FIS,Slopestyle,11,34.90
+32,Tsuji Haruhi,Male,10-04-2021,Ajigasawa,JPN,Japan,National Championships,Big Air,23,13.45
+33,Tsuji Haruhi,Male,31-03-2021,Tsugaike,JPN,Japan,FIS,Big Air,24,5.29
+34,Tsuji Haruhi,Male,31-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,14,22.93
+35,Tsuji Haruhi,Male,30-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,15,21.44
+36,Tsuji Haruhi,Male,01-03-2020,Oze-Tokura,JPN,Japan,FIS,Big Air,5,31.50
+37,Tsuji Haruhi,Male,29-02-2020,Oze-Tokura,JPN,Japan,FIS,Slopestyle,5,40.50
+38,Tsuji Haruhi,Male,26-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,20,17.60
+39,Tsuji Haruhi,Male,25-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,33,3.84
+40,Tsuji Haruhi,Male,28-02-2019,Tokura  Katashina,JPN,Japan,National Championships,Big Air,24,8.40
+41,Tsuji Haruhi,Male,27-02-2019,Tokura  Katashina,JPN,Japan,FIS,Big Air,11,16.80
+42,Tsuji Haruhi,Male,26-02-2019,Tokura  Katashina,JPN,Japan,National Championships,Slopestyle,14,19.80
+43,Tsuji Haruhi,Male,27-01-2019,Niseko,JPN,Japan,FIS,Slopestyle,10,23.40
+44,Tsuji Haruhi,Male,26-01-2019,Niseko,JPN,Japan,FIS,Slopestyle,15,14.40

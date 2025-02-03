@@ -1,38 +1,48 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Engler Lars,Male,24-03-2024,Lenk,SUI,Switzerland,National Championships,Snowboard Cross,22,10.80
-1,Engler Lars,Male,22-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,52,3.58
-2,Engler Lars,Male,21-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,63,2.78
-3,Engler Lars,Male,14-03-2024,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,48,
-4,Engler Lars,Male,12-03-2024,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,17,9.80
-5,Engler Lars,Male,11-03-2024,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,31,4.20
-6,Engler Lars,Male,02-03-2024,St. Moritz,SUI,Switzerland,National Junior Championships,Snowboard Cross,4,35.00
-7,Engler Lars,Male,17-02-2024,Colere,ITA,Switzerland,European Cup,Snowboard Cross,63,
-8,Engler Lars,Male,16-02-2024,Colere,ITA,Switzerland,European Cup,Snowboard Cross,61,2.93
-9,Engler Lars,Male,28-01-2024,Lenk,SUI,Switzerland,FIS,Snowboard Cross,6,28.00
-10,Engler Lars,Male,27-01-2024,Lenk,SUI,Switzerland,FIS,Snowboard Cross,10,18.20
-11,Engler Lars,Male,20-01-2024,Montafon,AUT,Switzerland,National Championships,Snowboard Cross,78,
-12,Engler Lars,Male,17-12-2023,Reiteralm,AUT,Switzerland,Junior,Snowboard Cross,6,28.00
-13,Engler Lars,Male,09-12-2023,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,35,2.00
-14,Engler Lars,Male,01-04-2023,St. Moritz,SUI,Switzerland,National Championships,Snowboard Cross,13,58.00
-15,Engler Lars,Male,19-03-2023,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,44,3.11
-16,Engler Lars,Male,18-03-2023,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,32,4.68
-17,Engler Lars,Male,12-03-2023,Lenk,SUI,Switzerland,National Junior Championships,Snowboard Cross,25,5.40
-18,Engler Lars,Male,19-02-2023,Flumserberg,SUI,Switzerland,Junior,Snowboard Cross,35,
-19,Engler Lars,Male,18-02-2023,Flumserberg,SUI,Switzerland,Junior,Snowboard Cross,17,15.40
-20,Engler Lars,Male,05-02-2023,Dolni Morava,CZE,Switzerland,Junior,Snowboard Cross,14,9.00
-21,Engler Lars,Male,04-02-2023,Dolni Morava,CZE,Switzerland,Junior,Snowboard Cross,13,10.00
-22,Engler Lars,Male,03-02-2023,Dolni Morava,CZE,Switzerland,Junior,Snowboard Cross,13,10.00
-23,Engler Lars,Male,14-01-2023,Lenk,SUI,Switzerland,FIS,Snowboard Cross,31,1.40
-24,Engler Lars,Male,08-01-2023,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,36,
-25,Engler Lars,Male,07-01-2023,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,17,7.00
-26,Engler Lars,Male,27-11-2022,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,49,2.53
-27,Engler Lars,Male,26-11-2022,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,39,3.38
-28,Engler Lars,Male,25-11-2022,Pitztal,AUT,Switzerland,FIS,Snowboard Cross,94,0.51
-29,Engler Lars,Male,15-12-2021,Reiteralm,AUT,Switzerland,Junior,Snowboard Cross,33,1.68
-30,Engler Lars,Male,14-12-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,74,
-31,Engler Lars,Male,13-12-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,DNF,
-32,Engler Lars,Male,20-03-2021,Pizol,SUI,Switzerland,Junior,Parallel Slalom,DNS,
-33,Engler Lars,Male,28-02-2021,Lenk,SUI,Switzerland,FIS,Snowboard Cross,16,7.50
-34,Engler Lars,Male,24-01-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,49,1.11
-35,Engler Lars,Male,23-01-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,50,
-36,Engler Lars,Male,16-01-2021,Crans-Montana,SUI,Switzerland,FIS,Snowboard Cross,33,5.28
+0,Engler Lars,Male,02-02-2025,Reiteralm,AUT,Switzerland,Junior,Snowboard Cross,26,
+1,Engler Lars,Male,01-02-2025,Reiteralm,AUT,Switzerland,Junior,Snowboard Cross,3,30.00
+2,Engler Lars,Male,25-01-2025,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,20,5.50
+3,Engler Lars,Male,24-01-2025,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,6,20.00
+4,Engler Lars,Male,12-01-2025,Lenk,SUI,Switzerland,Junior Regional Cup,Snowboard Cross,50,1.86
+5,Engler Lars,Male,01-12-2024,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,27,5.40
+6,Engler Lars,Male,30-11-2024,Pitztal,AUT,Switzerland,Qualification,Snowboard Cross,11,
+7,Engler Lars,Male,30-11-2024,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,17,16.80
+8,Engler Lars,Male,27-11-2024,Pitztal,AUT,Switzerland,Qualification,Snowboard Cross,78,
+9,Engler Lars,Male,27-11-2024,Pitztal,AUT,Switzerland,European Cup,Snowboard Cross,78,2.56
+10,Engler Lars,Male,24-03-2024,Lenk,SUI,Switzerland,National Championships,Snowboard Cross,22,10.80
+11,Engler Lars,Male,22-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,52,3.58
+12,Engler Lars,Male,21-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,63,2.78
+13,Engler Lars,Male,14-03-2024,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,48,
+14,Engler Lars,Male,12-03-2024,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,17,9.80
+15,Engler Lars,Male,11-03-2024,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,31,4.20
+16,Engler Lars,Male,02-03-2024,St. Moritz,SUI,Switzerland,National Junior Championships,Snowboard Cross,4,35.00
+17,Engler Lars,Male,17-02-2024,Colere,ITA,Switzerland,European Cup,Snowboard Cross,63,
+18,Engler Lars,Male,16-02-2024,Colere,ITA,Switzerland,European Cup,Snowboard Cross,61,2.93
+19,Engler Lars,Male,28-01-2024,Lenk,SUI,Switzerland,FIS,Snowboard Cross,6,28.00
+20,Engler Lars,Male,27-01-2024,Lenk,SUI,Switzerland,FIS,Snowboard Cross,10,18.20
+21,Engler Lars,Male,20-01-2024,Montafon,AUT,Switzerland,National Championships,Snowboard Cross,78,
+22,Engler Lars,Male,17-12-2023,Reiteralm,AUT,Switzerland,Junior,Snowboard Cross,6,28.00
+23,Engler Lars,Male,09-12-2023,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,35,2.00
+24,Engler Lars,Male,01-04-2023,St. Moritz,SUI,Switzerland,National Championships,Snowboard Cross,13,58.00
+25,Engler Lars,Male,19-03-2023,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,44,3.11
+26,Engler Lars,Male,18-03-2023,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,32,4.68
+27,Engler Lars,Male,12-03-2023,Lenk,SUI,Switzerland,National Junior Championships,Snowboard Cross,25,5.40
+28,Engler Lars,Male,19-02-2023,Flumserberg,SUI,Switzerland,Junior,Snowboard Cross,35,
+29,Engler Lars,Male,18-02-2023,Flumserberg,SUI,Switzerland,Junior,Snowboard Cross,17,15.40
+30,Engler Lars,Male,05-02-2023,Dolni Morava,CZE,Switzerland,Junior,Snowboard Cross,14,9.00
+31,Engler Lars,Male,04-02-2023,Dolni Morava,CZE,Switzerland,Junior,Snowboard Cross,13,10.00
+32,Engler Lars,Male,03-02-2023,Dolni Morava,CZE,Switzerland,Junior,Snowboard Cross,13,10.00
+33,Engler Lars,Male,14-01-2023,Lenk,SUI,Switzerland,FIS,Snowboard Cross,31,1.40
+34,Engler Lars,Male,08-01-2023,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,36,
+35,Engler Lars,Male,07-01-2023,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,17,7.00
+36,Engler Lars,Male,27-11-2022,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,49,2.53
+37,Engler Lars,Male,26-11-2022,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,39,3.38
+38,Engler Lars,Male,25-11-2022,Pitztal,AUT,Switzerland,FIS,Snowboard Cross,94,0.51
+39,Engler Lars,Male,15-12-2021,Reiteralm,AUT,Switzerland,Junior,Snowboard Cross,33,1.68
+40,Engler Lars,Male,14-12-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,74,
+41,Engler Lars,Male,13-12-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,DNF,
+42,Engler Lars,Male,20-03-2021,Pizol,SUI,Switzerland,Junior,Parallel Slalom,DNS,
+43,Engler Lars,Male,28-02-2021,Lenk,SUI,Switzerland,FIS,Snowboard Cross,16,7.50
+44,Engler Lars,Male,24-01-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,49,1.11
+45,Engler Lars,Male,23-01-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,50,
+46,Engler Lars,Male,16-01-2021,Crans-Montana,SUI,Switzerland,FIS,Snowboard Cross,33,5.28

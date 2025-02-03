@@ -1,304 +1,334 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Pocinek Adam,Male,07-04-2024,Samnaun,SUI,Czechia,National Championships,Giant Slalom,7,104.40
-1,Pocinek Adam,Male,06-04-2024,Samnaun,SUI,Czechia,National Championships,Parallel Slalom,10,75.40
-2,Pocinek Adam,Male,17-03-2024,St. Moritz,SUI,Czechia,European Cup,Parallel Slalom,DNS,
-3,Pocinek Adam,Male,16-03-2024,St. Moritz,SUI,Czechia,European Cup,Parallel Giant Slalom,DSQ,
-4,Pocinek Adam,Male,13-03-2024,Davos/Rinerhorn ,SUI,Czechia,European Cup,Parallel Giant Slalom,DSQ,
-5,Pocinek Adam,Male,12-03-2024,Davos/Rinerhorn ,SUI,Czechia,European Cup,Parallel Giant Slalom,34,7.92
-6,Pocinek Adam,Male,10-03-2024,Winterberg,GER,Czechia,World Cup,Parallel Slalom Team,16,
-7,Pocinek Adam,Male,09-03-2024,Winterberg,GER,Czechia,Qualification,Parallel Slalom,35,
-8,Pocinek Adam,Male,09-03-2024,Winterberg,GER,Czechia,World Cup,Parallel Slalom,35,
-9,Pocinek Adam,Male,25-02-2024,Krynica,POL,Czechia,Qualification,Parallel Giant Slalom,36,
-10,Pocinek Adam,Male,25-02-2024,Krynica,POL,Czechia,World Cup,Parallel Giant Slalom,36,
-11,Pocinek Adam,Male,24-02-2024,Krynica,POL,Czechia,Qualification,Parallel Giant Slalom,38,
-12,Pocinek Adam,Male,24-02-2024,Krynica,POL,Czechia,World Cup,Parallel Giant Slalom,38,
-13,Pocinek Adam,Male,09-02-2024,Funes - Vilnoess,ITA,Czechia,National Championships,Parallel Slalom,22,26.10
-14,Pocinek Adam,Male,08-02-2024,Funes - Vilnoess,ITA,Czechia,National Championships,Parallel Giant Slalom,25,17.40
-15,Pocinek Adam,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,6,64.00
-16,Pocinek Adam,Male,27-01-2024,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,44,
-17,Pocinek Adam,Male,27-01-2024,Simonhöhe,AUT,Czechia,World Cup,Parallel Giant Slalom,44,
-18,Pocinek Adam,Male,25-01-2024,Rogla,SLO,Czechia,Qualification,Parallel Giant Slalom,33,
-19,Pocinek Adam,Male,25-01-2024,Rogla,SLO,Czechia,World Cup,Parallel Giant Slalom,33,24.00
-20,Pocinek Adam,Male,21-01-2024,Pamporovo,BUL,Czechia,Qualification,Parallel Slalom,38,
-21,Pocinek Adam,Male,21-01-2024,Pamporovo,BUL,Czechia,World Cup,Parallel Slalom,38,19.10
-22,Pocinek Adam,Male,20-01-2024,Pamporovo,BUL,Czechia,Qualification,Parallel Slalom,DSQ,
-23,Pocinek Adam,Male,20-01-2024,Pamporovo,BUL,Czechia,World Cup,Parallel Slalom,DSQ,
-24,Pocinek Adam,Male,17-01-2024,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom Team,23,
-25,Pocinek Adam,Male,16-01-2024,Bad Gastein,AUT,Czechia,Qualification,Parallel Slalom,47,
-26,Pocinek Adam,Male,16-01-2024,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,47,
-27,Pocinek Adam,Male,13-01-2024,Scuol,SUI,Czechia,Qualification,Parallel Giant Slalom,35,
-28,Pocinek Adam,Male,13-01-2024,Scuol,SUI,Czechia,World Cup,Parallel Giant Slalom,35,20.00
-29,Pocinek Adam,Male,07-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Giant Slalom,4,55.00
-30,Pocinek Adam,Male,06-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Slalom,3,66.00
-31,Pocinek Adam,Male,23-12-2023,Davos,SUI,Czechia,Qualification,Parallel Slalom,36,
-32,Pocinek Adam,Male,23-12-2023,Davos ,SUI,Czechia,World Cup,Parallel Slalom,36,19.70
-33,Pocinek Adam,Male,20-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,40,4.07
-34,Pocinek Adam,Male,19-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,24,15.40
-35,Pocinek Adam,Male,16-12-2023,Cortina d'Ampezzo,ITA,Czechia,Qualification,Parallel Giant Slalom,50,
-36,Pocinek Adam,Male,16-12-2023,Cortina d'Ampezzo,ITA,Czechia,World Cup,Parallel Giant Slalom,50,
-37,Pocinek Adam,Male,14-12-2023,Carezza,ITA,Czechia,Qualification,Parallel Giant Slalom,40,
-38,Pocinek Adam,Male,14-12-2023,Carezza,ITA,Czechia,World Cup,Parallel Giant Slalom,40,18.50
-39,Pocinek Adam,Male,09-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,41,
-40,Pocinek Adam,Male,09-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,41,6.55
-41,Pocinek Adam,Male,08-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,33,
-42,Pocinek Adam,Male,08-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,33,8.64
-43,Pocinek Adam,Male,10-04-2023,Krvavec KD Zakon,SLO,Czechia,National Championships,Slalom,7,79.20
-44,Pocinek Adam,Male,10-04-2023,Krvavec KD Zakon,SLO,Czechia,National Championships,Parallel Giant Slalom,5,99.00
-45,Pocinek Adam,Male,30-03-2023,Cortina dAmpezzo,ITA,Czechia,National Championships,Parallel Slalom,20,31.90
-46,Pocinek Adam,Male,28-03-2023,Bansko,BUL,Czechia,National Championships,Parallel Slalom,8,64.00
-47,Pocinek Adam,Male,27-03-2023,Bansko,BUL,Czechia,National Championships,Parallel Giant Slalom,11,48.00
-48,Pocinek Adam,Male,19-03-2023,Berchtesgaden,GER,Czechia,World Cup,Parallel Slalom Team,19,
-49,Pocinek Adam,Male,18-03-2023,Berchtesgaden,GER,Czechia,Qualification,Parallel Slalom,DSQ,
-50,Pocinek Adam,Male,18-03-2023,Berchtesgaden,GER,Czechia,World Cup,Parallel Slalom,DSQ,
-51,Pocinek Adam,Male,15-03-2023,Rogla,SLO,Czechia,World Cup,Parallel Giant Slalom,41,18.20
-52,Pocinek Adam,Male,15-03-2023,Rogla,SLO,Czechia,Qualification,Parallel Giant Slalom,41,
-53,Pocinek Adam,Male,05-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,5,31.50
-54,Pocinek Adam,Male,04-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,1,70.00
-55,Pocinek Adam,Male,03-03-2023,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Giant Slalom,2,56.00
-56,Pocinek Adam,Male,27-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,2,96.00
-57,Pocinek Adam,Male,26-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,2,96.00
-58,Pocinek Adam,Male,25-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,2,96.00
-59,Pocinek Adam,Male,22-02-2023,Bakuriani,GEO,Czechia,World Championships,Parallel Slalom Team,24,
-60,Pocinek Adam,Male,21-02-2023,Bakuriani,GEO,Czechia,Qualification,Parallel Slalom,DSQ,
-61,Pocinek Adam,Male,21-02-2023,Bakuriani,GEO,Czechia,World Championships,Parallel Slalom,DSQ,
-62,Pocinek Adam,Male,19-02-2023,Bakuriani,GEO,Czechia,Qualification,Parallel Giant Slalom,42,
-63,Pocinek Adam,Male,19-02-2023,Bakuriani,GEO,Czechia,World Championships,Parallel Giant Slalom,42,17.90
-64,Pocinek Adam,Male,27-01-2023,Blue Mountain,CAN,Czechia,Qualification,Parallel Giant Slalom,40,
-65,Pocinek Adam,Male,27-01-2023,Blue Mountain,CAN,Czechia,World Cup,Parallel Giant Slalom,40,18.50
-66,Pocinek Adam,Male,26-01-2023,Blue Mountain,CAN,Czechia,Qualification,Parallel Giant Slalom,43,
-67,Pocinek Adam,Male,26-01-2023,Blue Mountain,CAN,Czechia,World Cup,Parallel Giant Slalom,43,17.60
-68,Pocinek Adam,Male,22-01-2023,Gore Mountain,USA,Czechia,Universiade,Parallel Slalom,8,70.40
-69,Pocinek Adam,Male,22-01-2023,Gore Mountain,USA,Czechia,Qualification,Parallel Slalom,9,
-70,Pocinek Adam,Male,21-01-2023,Gore Mountain,USA,Czechia,Universiade,Parallel Giant Slalom,13,44.00
-71,Pocinek Adam,Male,21-01-2023,Gore Mountain,USA,Czechia,Qualification,Parallel Giant Slalom,13,
-72,Pocinek Adam,Male,14-01-2023,Scuol,SUI,Czechia,Qualification,Parallel Giant Slalom,DSQ,
-73,Pocinek Adam,Male,14-01-2023,Scuol,SUI,Czechia,World Cup,Parallel Giant Slalom,DSQ,
-74,Pocinek Adam,Male,11-01-2023,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom Team,20,
-75,Pocinek Adam,Male,10-01-2023,Bad Gastein,AUT,Czechia,Qualification,Parallel Slalom,47,
-76,Pocinek Adam,Male,10-01-2023,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,47,
-77,Pocinek Adam,Male,04-01-2023,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,6,104.00
-78,Pocinek Adam,Male,18-12-2022,Hochfügen,GER,Czechia,European Cup,Parallel Giant Slalom,34,5.72
-79,Pocinek Adam,Male,18-12-2022,Hochfügen,GER,Czechia,Qualification,Parallel Giant Slalom,34,
-80,Pocinek Adam,Male,17-12-2022,Cortina d'Ampezzo,ITA,Czechia,Qualification,Parallel Giant Slalom,38,
-81,Pocinek Adam,Male,17-12-2022,Cortina d'Ampezzo,ITA,Czechia,World Cup,Parallel Giant Slalom,38,19.10
-82,Pocinek Adam,Male,15-12-2022,Carezza,ITA,Czechia,Qualification,Parallel Giant Slalom,37,
-83,Pocinek Adam,Male,15-12-2022,Carezza,ITA,Czechia,World Cup,Parallel Giant Slalom,37,19.40
-84,Pocinek Adam,Male,11-12-2022,Winterberg,GER,Czechia,World Cup,Parallel Slalom,47,
-85,Pocinek Adam,Male,10-12-2022,Winterberg,GER,Czechia,Qualification,Parallel Slalom,47,
-86,Pocinek Adam,Male,12-04-2022,Chiesa Valmalenco,ITA,Czechia,National Championships,Parallel Slalom,8,92.80
-87,Pocinek Adam,Male,11-04-2022,Chiesa Valmalenco,ITA,Czechia,National Championships,Parallel Giant Slalom,10,75.40
-88,Pocinek Adam,Male,06-04-2022,Borovets,BUL,Czechia,National Championships,Parallel Slalom,4,100.00
-89,Pocinek Adam,Male,05-04-2022,Borovets,BUL,Czechia,National Championships,Parallel Giant Slalom,3,120.00
-90,Pocinek Adam,Male,27-03-2022,Villach / Gerlitzen,AUT,Czechia,National Championships,Parallel Slalom,16,43.50
-91,Pocinek Adam,Male,26-03-2022,Villach / Gerlitzen,AUT,Czechia,National Championships,Parallel Giant Slalom,11,69.60
-92,Pocinek Adam,Male,20-03-2022,Berchtesgaden,GER,Czechia,World Cup,Parallel  Slalom Team,22,
-93,Pocinek Adam,Male,19-03-2022,Berchtesgaden,GER,Czechia,Qualification,Parallel Slalom,43,
-94,Pocinek Adam,Male,19-03-2022,Berchtesgaden,GER,Czechia,World Cup,Parallel Slalom,43,17.60
-95,Pocinek Adam,Male,17-03-2022,Rogla,SLO,Czechia,European Cup,Parallel Giant Slalom,24,22.40
-96,Pocinek Adam,Male,16-03-2022,Rogla,SLO,Czechia,Qualification,Parallel Giant Slalom,50,
-97,Pocinek Adam,Male,16-03-2022,Rogla,SLO,Czechia,World Cup,Parallel Giant Slalom,50,15.50
-98,Pocinek Adam,Male,13-03-2022,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,7,39.60
-99,Pocinek Adam,Male,12-03-2022,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,4,55.00
-100,Pocinek Adam,Male,09-03-2022,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Slalom,8,92.80
-101,Pocinek Adam,Male,08-03-2022,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,7,104.40
-102,Pocinek Adam,Male,06-03-2022,Lachtal,AUT,Czechia,European Cup,Parallel Giant Slalom,25,21.60
-103,Pocinek Adam,Male,05-03-2022,Lachtal,AUT,Czechia,European Cup,Parallel Giant Slalom,24,25.20
-104,Pocinek Adam,Male,27-02-2022,Simonhöhe,AUT,Czechia,FIS,Parallel Giant Slalom,14,39.60
-105,Pocinek Adam,Male,26-02-2022,Simonhöhe,AUT,Czechia,FIS,Parallel Giant Slalom,9,63.80
-106,Pocinek Adam,Male,20-02-2022,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,6,40.00
-107,Pocinek Adam,Male,19-02-2022,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,16,15.00
-108,Pocinek Adam,Male,06-02-2022,Lenzerheide,SUI,Czechia,European Cup,Parallel Slalom,31,
-109,Pocinek Adam,Male,05-02-2022,Lenzerheide,SUI,Czechia,European Cup,Parallel Slalom,22,32.40
-110,Pocinek Adam,Male,30-01-2022,Davos,SUI,Czechia,European Cup,Parallel Slalom,DSQ,
-111,Pocinek Adam,Male,29-01-2022,Davos,SUI,Czechia,European Cup,Parallel Slalom,21,36.00
-112,Pocinek Adam,Male,23-01-2022,Bukovel,UKR,Czechia,European Cup,Parallel Giant Slalom,15,41.60
-113,Pocinek Adam,Male,22-01-2022,Bukovel,UKR,Czechia,European Cup,Parallel Giant Slalom,29,9.36
-114,Pocinek Adam,Male,20-01-2022,Bukovel,UKR,Czechia,National Championships,Parallel Slalom,32,5.72
-115,Pocinek Adam,Male,19-01-2022,Bukovel,UKR,Czechia,National Championships,Parallel Giant Slalom,17,33.60
-116,Pocinek Adam,Male,16-01-2022,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,1,110.00
-117,Pocinek Adam,Male,15-01-2022,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,2,88.00
-118,Pocinek Adam,Male,14-01-2022,Simonhöhe,AUT,Czechia,World Cup,Parallel Giant Slalom,60,
-119,Pocinek Adam,Male,14-01-2022,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,60,
-120,Pocinek Adam,Male,12-01-2022,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom Team,19,
-121,Pocinek Adam,Male,11-01-2022,Bad Gastein,AUT,Czechia,Qualification,Parallel Slalom,47,
-122,Pocinek Adam,Male,11-01-2022,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,47,
-123,Pocinek Adam,Male,08-01-2022,Scuol,SUI,Czechia,Qualification,Parallel Giant Slalom,62,
-124,Pocinek Adam,Male,08-01-2022,Scuol,SUI,Czechia,World Cup,Parallel Giant Slalom,62,
-125,Pocinek Adam,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Czechia,FIS,Slalom,3,108.00
-126,Pocinek Adam,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Czechia,FIS,Parallel Slalom,5,81.00
-127,Pocinek Adam,Male,21-12-2021,Moninec,CZE,Czechia,FIS,Parallel Slalom,4,100.00
-128,Pocinek Adam,Male,20-12-2021,Moninec,CZE,Czechia,FIS,Parallel Slalom,12,44.00
-129,Pocinek Adam,Male,19-12-2021,Moninec,CZE,Czechia,European Cup,Parallel Slalom,19,26.40
-130,Pocinek Adam,Male,18-12-2021,Cortina d Ampezzo,ITA,Czechia,Qualification,Parallel Giant Slalom,DNF,
-131,Pocinek Adam,Male,18-12-2021,Cortina d Ampezzo,ITA,Czechia,World Cup,Parallel Giant Slalom,DNF,
-132,Pocinek Adam,Male,16-12-2021,Carezza,ITA,Czechia,Qualification,Parallel Giant Slalom,67,
-133,Pocinek Adam,Male,16-12-2021,Carezza,ITA,Czechia,World Cup,Parallel Giant Slalom,67,
-134,Pocinek Adam,Male,12-12-2021,Götschen,GER,Czechia,European Cup,Parallel Slalom,DSQ,
-135,Pocinek Adam,Male,11-12-2021,Götschen,GER,Czechia,European Cup,Parallel Slalom,23,17.60
-136,Pocinek Adam,Male,31-03-2021,Villnöss,ITA,Czechia,National Championships,Parallel Giant Slalom,DNS,
-137,Pocinek Adam,Male,30-03-2021,Bansko,BUL,Czechia,National Championships,Parallel Slalom,2,144.00
-138,Pocinek Adam,Male,30-03-2021,Villnöss,ITA,Czechia,National Championships,Parallel Slalom,DNS,
-139,Pocinek Adam,Male,29-03-2021,Bansko,BUL,Czechia,National Championships,Parallel Giant Slalom,6,72.00
-140,Pocinek Adam,Male,28-03-2021,Villnöss - Funes,ITA,Czechia,FIS,Parallel Slalom,DNS,
-141,Pocinek Adam,Male,27-03-2021,Villnöss - Funes,ITA,Czechia,FIS,Parallel Giant Slalom,14,39.60
-142,Pocinek Adam,Male,21-03-2021,Berchtesgaden,GER,Czechia,World Cup,Parallel Slalom Team,22,
-143,Pocinek Adam,Male,20-03-2021,Berchtesgaden,GER,Czechia,Qualification,Parallel Slalom,54,
-144,Pocinek Adam,Male,20-03-2021,Berchtesgaden,GER,Czechia,World Cup,Parallel Slalom,54,
-145,Pocinek Adam,Male,13-03-2021,Davos Rinerhorn,SUI,Czechia,European Cup,Parallel Giant Slalom,40,6.66
-146,Pocinek Adam,Male,09-03-2021,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Slalom,18,37.70
-147,Pocinek Adam,Male,08-03-2021,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,22,26.10
-148,Pocinek Adam,Male,06-03-2021,Rogla,SLO,Czechia,Qualification,Parallel Giant Slalom,49,
-149,Pocinek Adam,Male,06-03-2021,Rogla,SLO,Czechia,World Cup,Parallel Giant Slalom,49,15.80
-150,Pocinek Adam,Male,02-03-2021,Rogla,SLO,Czechia,World Championships,Parallel Slalom,48,16.10
-151,Pocinek Adam,Male,02-03-2021,Rogla,SLO,Czechia,Qualification,Parallel Slalom,48,
-152,Pocinek Adam,Male,01-03-2021,Rogla,SLO,Czechia,World Championships,Parallel Giant Slalom,43,17.60
-153,Pocinek Adam,Male,01-03-2021,Rogla,SLO,Czechia,Qualification,Parallel Giant Slalom,43,
-154,Pocinek Adam,Male,21-02-2021,Gerlitzen,AUT,Czechia,National Championships,Parallel Slalom,27,13.05
-155,Pocinek Adam,Male,20-02-2021,Gerlitzen,AUT,Czechia,National Championships,Parallel Giant Slalom,34,6.38
-156,Pocinek Adam,Male,07-02-2021,Bannoye,RUS,Czechia,Qualification,Parallel Slalom,DNF,
-157,Pocinek Adam,Male,07-02-2021,Bannoye,RUS,Czechia,World Cup,Parallel Slalom,DNF,
-158,Pocinek Adam,Male,06-02-2021,Baonoye,RUS,Czechia,Qualification,Parallel Giant Slalom,50,
-159,Pocinek Adam,Male,06-02-2021,Bannoye,RUS,Czechia,World Cup,Parallel Giant Slalom,50,
-160,Pocinek Adam,Male,30-01-2021,Moscow,RUS,Czechia,Qualification,Parallel Slalom,50,
-161,Pocinek Adam,Male,30-01-2021,Moscow,RUS,Czechia,World Cup,Parallel Slalom,50,
-162,Pocinek Adam,Male,24-01-2021,Davos,SUI,Czechia,European Cup,Parallel Slalom,36,7.09
-163,Pocinek Adam,Male,23-01-2021,Davos,SUI,Czechia,European Cup,Parallel Slalom,40,6.66
-164,Pocinek Adam,Male,17-01-2021,Simonhoehe,AUT,Czechia,European Cup,Parallel Giant Slalom,36,7.09
-165,Pocinek Adam,Male,16-01-2021,Simonhoehe,AUT,Czechia,European Cup,Parallel Giant Slalom,40,6.66
-166,Pocinek Adam,Male,13-01-2021,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom Team,19,
-167,Pocinek Adam,Male,12-01-2021,Bad Gastein,AUT,Czechia,Qualification,Parallel Slalom,DSQ,
-168,Pocinek Adam,Male,12-01-2021,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,DSQ,
-169,Pocinek Adam,Male,09-01-2021,Scuol,SUI,Czechia,Qualification,Parallel Giant Slalom,58,
-170,Pocinek Adam,Male,09-01-2021,Scuol,SUI,Czechia,World Cup,Parallel Giant Slalom,58,
-171,Pocinek Adam,Male,17-12-2020,Carezza,ITA,Czechia,Qualification,Parallel Giant Slalom,56,
-172,Pocinek Adam,Male,17-12-2020,Carezza,ITA,Czechia,World Cup,Parallel Giant Slalom,56,
-173,Pocinek Adam,Male,12-12-2020,Cortina d Ampezzo,ITA,Czechia,Qualification,Parallel Giant Slalom,47,
-174,Pocinek Adam,Male,12-12-2020,Cortina d Ampezzo,ITA,Czechia,World Cup,Parallel Giant Slalom,47,16.40
-175,Pocinek Adam,Male,08-03-2020,Tauplitz,AUT,Czechia,European Cup,Parallel Slalom,DSQ1,
-176,Pocinek Adam,Male,07-03-2020,Tauplitz,AUT,Czechia,European Cup,Parallel Slalom,47,5.90
-177,Pocinek Adam,Male,01-03-2020,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,5,22.50
-178,Pocinek Adam,Male,29-02-2020,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Giant Slalom,3,42.00
-179,Pocinek Adam,Male,16-02-2020,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,1,50.00
-180,Pocinek Adam,Male,15-02-2020,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,5,22.50
-181,Pocinek Adam,Male,09-02-2020,Gerlitzen,AUT,Czechia,FIS,Giant Slalom,16,33.00
-182,Pocinek Adam,Male,08-02-2020,Gerlitzen,AUT,Czechia,FIS,Giant Slalom,18,28.60
-183,Pocinek Adam,Male,04-02-2020,Bukovel,UKR,Czechia,National Championships,Parallel Slalom,10,33.80
-184,Pocinek Adam,Male,03-02-2020,Bukovel,UKR,Czechia,National Championships,Parallel Giant Slalom,9,37.70
-185,Pocinek Adam,Male,26-01-2020,Gosau,AUT,Czechia,FIS,Parallel Slalom,20,19.80
-186,Pocinek Adam,Male,25-01-2020,Piancavallo,ITA,Czechia,World Cup,Parallel Slalom,DNS,
-187,Pocinek Adam,Male,25-01-2020,Gosau,AUT,Czechia,FIS,Parallel Slalom,16,27.00
-188,Pocinek Adam,Male,25-01-2020,Piancavallo,ITA,Czechia,Qualification,Parallel Slalom,DNS,
-189,Pocinek Adam,Male,18-01-2020,Rogla,SLO,Czechia,World Cup,Parallel Giant Slalom,57,
-190,Pocinek Adam,Male,18-01-2020,Rogla,SLO,Czechia,Qualification,Parallel Giant Slalom,57,
-191,Pocinek Adam,Male,15-01-2020,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom Team,20,
-192,Pocinek Adam,Male,14-01-2020,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,57,
-193,Pocinek Adam,Male,14-01-2020,Bad Gastein,AUT,Czechia,Qualification,Parallel Slalom,57,
-194,Pocinek Adam,Male,22-12-2019,"Buck Hill, MN",USA,Czechia,Nor-Am Cup,Parallel Slalom,33,4.80
-195,Pocinek Adam,Male,21-12-2019,"Buck Hill, MN",USA,Czechia,Nor-Am Cup,Parallel Slalom,DNF,
-196,Pocinek Adam,Male,20-12-2019,"Buck Hill, MN",USA,Czechia,FIS,Parallel Slalom,25,9.60
-197,Pocinek Adam,Male,14-12-2019,Cortina d Ampezzo,ITA,Czechia,World Cup,Parallel Giant Slalom,58,13.10
-198,Pocinek Adam,Male,14-12-2019,Cortina d Ampezzo,ITA,Czechia,Qualification,Parallel Giant Slalom,58,
-199,Pocinek Adam,Male,07-04-2019,Racines,ITA,Czechia,European Cup,Parallel Slalom,43,6.34
-200,Pocinek Adam,Male,06-04-2019,Racines,ITA,Czechia,European Cup,Parallel Slalom,41,6.55
-201,Pocinek Adam,Male,03-04-2019,Rogla,SLO,Czechia,FIS Junior World Championships,Parallel Slalom,40,6.66
-202,Pocinek Adam,Male,02-04-2019,Rogla,SLO,Czechia,FIS Junior World Championships,Parallel Giant Slalom,25,21.60
-203,Pocinek Adam,Male,31-03-2019,Radstadt,AUT,Czechia,National Championships,Parallel Giant Slalom,29,10.44
-204,Pocinek Adam,Male,30-03-2019,Radstadt,AUT,Czechia,National Championships,Parallel Slalom,33,6.96
-205,Pocinek Adam,Male,27-03-2019,Piancavallo,ITA,Czechia,National Championships,Parallel Giant Slalom,22,26.10
-206,Pocinek Adam,Male,26-03-2019,Piancavallo,ITA,Czechia,National Championships,Parallel Slalom,DNF1,
-207,Pocinek Adam,Male,24-03-2019,Paseky nad Jizerou,CZE,Czechia,FIS,Parallel Slalom,8,35.20
-208,Pocinek Adam,Male,23-03-2019,Paseky nad Jizerou,CZE,Czechia,FIS,Parallel Slalom,22,
-209,Pocinek Adam,Male,17-03-2019,Rogla,SLO,Czechia,European Cup,Parallel Giant Slalom,47,5.90
-210,Pocinek Adam,Male,17-03-2019,Rogla,SLO,Czechia,Junior,Parallel Giant Slalom,29,7.20
-211,Pocinek Adam,Male,16-03-2019,Rogla,SLO,Czechia,European Cup,Parallel Giant Slalom,50,5.58
-212,Pocinek Adam,Male,13-03-2019,Bialka Tatrzanska,POL,Czechia,National Championships,Parallel Slalom,11,57.60
-213,Pocinek Adam,Male,12-03-2019,Bialka Tatrzanska,POL,Czechia,National Championships,Parallel Giant Slalom,13,48.00
-214,Pocinek Adam,Male,03-03-2019,Val Senales,ITA,Czechia,FIS,Parallel Slalom,14,12.60
-215,Pocinek Adam,Male,02-03-2019,Val Senales,ITA,Czechia,FIS,Parallel Slalom,13,14.00
-216,Pocinek Adam,Male,24-02-2019,Funes/Villnoess,ITA,Czechia,FIS,Parallel Giant Slalom,16,22.50
-217,Pocinek Adam,Male,23-02-2019,Funes/Villnoess,ITA,Czechia,FIS,Parallel Giant Slalom,21,15.00
-218,Pocinek Adam,Male,17-02-2019,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,2,40.00
-219,Pocinek Adam,Male,16-02-2019,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Giant Slalom,1,50.00
-220,Pocinek Adam,Male,10-02-2019,Lenzerheide,SUI,Czechia,European Cup,Parallel Slalom,29,11.52
-221,Pocinek Adam,Male,09-02-2019,Lenzerheide,SUI,Czechia,European Cup,Parallel Slalom,DNF1,
-222,Pocinek Adam,Male,05-02-2019,Park City,USA,Czechia,World Championships,Parallel Slalom,DSQ,
-223,Pocinek Adam,Male,04-02-2019,Park City,USA,Czechia,World Championships,Parallel Giant Slalom,44,17.30
-224,Pocinek Adam,Male,27-01-2019,Lachtal,AUT,Czechia,European Cup,Parallel GS,34,3.96
-225,Pocinek Adam,Male,26-01-2019,Lachtal,AUT,Czechia,European Cup,Parallel GS,28,7.20
-226,Pocinek Adam,Male,20-01-2019,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,3,30.00
-227,Pocinek Adam,Male,19-01-2019,Dolni Morava,CZE,Czechia,Junior,Parallel GS,1,50.00
-228,Pocinek Adam,Male,06-01-2019,Simonhöhe,AUT,Czechia,FIS,Parallel Slalom,DSQ1,
-229,Pocinek Adam,Male,05-01-2019,Simonhöhe,AUT,Czechia,FIS,Parallel Slalom,33,
-230,Pocinek Adam,Male,03-01-2019,Modriachwinkel,AUT,Czechia,Junior,Parallel Slalom,11,16.80
-231,Pocinek Adam,Male,02-01-2019,Modriachwinkel,AUT,Czechia,Junior,Parallel Slalom,12,15.40
-232,Pocinek Adam,Male,22-12-2018,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,4,25.00
-233,Pocinek Adam,Male,21-12-2018,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,4,35.00
-234,Pocinek Adam,Male,15-12-2018,Cortina d'Ampezzo,ITA,Czechia,World Cup,Parallel GS,51,
-235,Pocinek Adam,Male,15-12-2018,Cortina d'Ampezzo,ITA,Czechia,Qualification,Parallel Giant Slalom,51,
-236,Pocinek Adam,Male,13-12-2018,Carezza,ITA,Czechia,World Cup,Parallel GS,DNF,
-237,Pocinek Adam,Male,13-12-2018,Carezza,ITA,Czechia,Qualification,Parallel Giant Slalom,DNF,
-238,Pocinek Adam,Male,06-09-2018,Cardrona,NZL,Czechia,FIS Junior World Championships,Parallel Slalom,25,19.20
-239,Pocinek Adam,Male,05-09-2018,Cardrona,NZL,Czechia,FIS Junior World Championships,Parallel GS,27,14.40
-240,Pocinek Adam,Male,17-03-2018,Spindleruv Mlyn,CZE,Czechia,Junior,Parallel GS,1,50.00
-241,Pocinek Adam,Male,14-03-2018,Suche,POL,Czechia,National Championships,Parallel Slalom,11,36.00
-242,Pocinek Adam,Male,13-03-2018,Suche,POL,Czechia,National Championships,Parallel GS,17,21.00
-243,Pocinek Adam,Male,11-03-2018,Tauplitz,AUT,Czechia,European Cup,Parallel Slalom,DSQ1,
-244,Pocinek Adam,Male,10-03-2018,Tauplitz,AUT,Czechia,European Cup,Parallel Slalom,41,
-245,Pocinek Adam,Male,04-03-2018,Davos,SUI,Czechia,Junior,Parallel Slalom,16,
-246,Pocinek Adam,Male,03-03-2018,Davos,SUI,Czechia,Junior,Parallel Slalom,17,14.00
-247,Pocinek Adam,Male,18-02-2018,Vysna Boca,SVK,Czechia,Junior,Parallel GS,6,20.00
-248,Pocinek Adam,Male,17-02-2018,Vysna Boca,SVK,Czechia,Junior,Parallel Slalom,2,40.00
-249,Pocinek Adam,Male,21-01-2018,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,1,50.00
-250,Pocinek Adam,Male,20-01-2018,Dolni Morava,CZE,Czechia,Junior,Parallel GS,3,30.00
-251,Pocinek Adam,Male,14-01-2018,Goetschen,GER,Czechia,Junior,Parallel GS,8,32.00
-252,Pocinek Adam,Male,07-01-2018,Pec pod Snezkou,CZE,Czechia,Junior,Parallel Slalom,8,16.00
-253,Pocinek Adam,Male,06-01-2018,Pec pod Snezkou,CZE,Czechia,Junior,Parallel GS,5,22.50
-254,Pocinek Adam,Male,23-12-2017,Haus im Ennstal,AUT,Czechia,Junior,Parallel GS,17,12.60
-255,Pocinek Adam,Male,22-12-2017,Haus im Ennstal,AUT,Czechia,Junior,Parallel GS,15,14.40
-256,Pocinek Adam,Male,16-03-2017,Sierra Nevada,ESP,Czechia,World Championships,Parallel GS,DSQ,
-257,Pocinek Adam,Male,15-03-2017,Sierra Nevada,ESP,Czechia,World Championships,Parallel Slalom,DSQ,
-258,Pocinek Adam,Male,12-03-2017,Tauplitz,AUT,Czechia,FIS,Parallel Slalom,43,
-259,Pocinek Adam,Male,11-03-2017,Tauplitz,AUT,Czechia,FIS,Parallel Slalom,25,13.20
-260,Pocinek Adam,Male,08-03-2017,Madonna di Campiglio,ITA,Czechia,FIS,Parallel GS,DNS1,
-261,Pocinek Adam,Male,05-03-2017,Herlikovice,CZE,Czechia,Junior,Parallel Slalom,1,50.00
-262,Pocinek Adam,Male,04-03-2017,Herlikovice,CZE,Czechia,Junior,Parallel GS,1,50.00
-263,Pocinek Adam,Male,21-02-2017,Klinovec,CZE,Czechia,FIS Junior World Championships,Parallel Slalom,35,5.20
-264,Pocinek Adam,Male,20-02-2017,Klinovec,CZE,Czechia,FIS Junior World Championships,Parallel GS,48,
-265,Pocinek Adam,Male,05-02-2017,Klinovec,CZE,Czechia,Junior,Parallel Slalom,22,
-266,Pocinek Adam,Male,04-02-2017,Klinovec,CZE,Czechia,Junior,Parallel GS,21,
-267,Pocinek Adam,Male,22-01-2017,Vysna Boca,SVK,Czechia,FIS,Parallel GS,9,14.50
-268,Pocinek Adam,Male,21-01-2017,Vysna Boca,SVK,Czechia,FIS,Parallel Slalom,5,22.50
-269,Pocinek Adam,Male,15-01-2017,Hochficht,AUT,Czechia,National Championships,Parallel Slalom,DSQ1,
-270,Pocinek Adam,Male,14-01-2017,Hochficht,AUT,Czechia,National Championships,Parallel GS,34,6.38
-271,Pocinek Adam,Male,08-01-2017,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,7,18.00
-272,Pocinek Adam,Male,07-01-2017,Dolni Morava,CZE,Czechia,FIS,Parallel GS,DSQ,
-273,Pocinek Adam,Male,04-01-2017,Goetschen,GER,Czechia,Junior,Giant Slalom,DSQ,
-274,Pocinek Adam,Male,11-12-2016,Haus im Ennstal,AUT,Czechia,Junior,Parallel GS,14,9.00
-275,Pocinek Adam,Male,10-12-2016,Haus im Ennstal,AUT,Czechia,Junior,Parallel GS,3,30.00
-276,Pocinek Adam,Male,08-04-2016,Breuil Cervinia - Valtournenche,ITA,Czechia,National Championships,Parallel Slalom,DNF1,
-277,Pocinek Adam,Male,07-04-2016,Breuil Cervinia - Valtournenche,ITA,Czechia,National Championships,Parallel GS,33,8.64
-278,Pocinek Adam,Male,06-04-2016,Breuil Cervinia - Valtournenche,ITA,Czechia,National Championships,Snowboardcross,33,8.64
-279,Pocinek Adam,Male,03-04-2016,Rogla,SLO,Czechia,FIS Junior World Championships,Parallel Slalom,22,32.40
-280,Pocinek Adam,Male,02-04-2016,Rogla,SLO,Czechia,FIS Junior World Championships,Parallel GS,DSQ1,
-281,Pocinek Adam,Male,27-03-2016,Pec Pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,6,20.00
-282,Pocinek Adam,Male,26-03-2016,Pec Pod Snezkou,CZE,Czechia,FIS,Parallel GS,9,14.50
-283,Pocinek Adam,Male,13-03-2016,Bozi Dar,CZE,Czechia,FIS,Snowboardcross,32,1.82
-284,Pocinek Adam,Male,12-03-2016,Bozi Dar,CZE,Czechia,FIS,Snowboardcross,20,7.70
-285,Pocinek Adam,Male,06-03-2016,Tauplitz,AUT,Czechia,FIS,Parallel Slalom,35,4.40
-286,Pocinek Adam,Male,05-03-2016,Tauplitz,AUT,Czechia,FIS,Parallel Slalom,39,4.14
-287,Pocinek Adam,Male,21-02-2016,Klinovec,CZE,Czechia,FIS,Parallel Slalom,5,22.50
-288,Pocinek Adam,Male,20-02-2016,Klinovec,CZE,Czechia,FIS,Parallel GS,11,12.00
-289,Pocinek Adam,Male,07-02-2016,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,4,25.00
-290,Pocinek Adam,Male,06-02-2016,Dolni Morava,CZE,Czechia,Junior,Parallel GS,9,14.50
-291,Pocinek Adam,Male,10-01-2016,Dolni Morava,CZE,Czechia,FIS,Snowboardcross,20,13.20
-292,Pocinek Adam,Male,09-01-2016,Dolni Morava,CZE,Czechia,FIS,Snowboardcross,19,14.40
-293,Pocinek Adam,Male,29-03-2015,Pec pod Snezkou,CZE,Czechia,Junior,Giant Slalom,2,40.00
-294,Pocinek Adam,Male,28-03-2015,Pec pod Snezkou,CZE,Czechia,Junior,Parallel GS,2,40.00
-295,Pocinek Adam,Male,22-03-2015,Hochficht,AUT,Czechia,National Championships,Giant Slalom,23,28.80
-296,Pocinek Adam,Male,21-03-2015,Hochficht,AUT,Czechia,National Championships,Parallel Slalom,47,
-297,Pocinek Adam,Male,22-02-2015,Klinovec,CZE,Czechia,Junior,Parallel GS,2,40.00
-298,Pocinek Adam,Male,21-02-2015,Klinovec,CZE,Czechia,Junior,Parallel Slalom,8,16.00
-299,Pocinek Adam,Male,26-01-2015,Schruns - Hochjoch,AUT,Czechia,European Youth Olympic Festival,Snowboardcross,17,9.80
-300,Pocinek Adam,Male,09-01-2015,Dolni Morava,CZE,Czechia,FIS,Snowboardcross,18,16.90
-301,Pocinek Adam,Male,30-11-2014,Pitztal,AUT,Czechia,Junior,Snowboardcross,65,1.54
-302,Pocinek Adam,Male,29-11-2014,Pitztal,AUT,Czechia,Junior,Snowboardcross,65,1.54
+0,Pocinek Adam,Male,02-02-2025,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,31,
+1,Pocinek Adam,Male,02-02-2025,Ratschings,ITA,Czechia,Qualification,Parallel Slalom,32,
+2,Pocinek Adam,Male,01-02-2025,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,24,
+3,Pocinek Adam,Male,01-02-2025,Ratschings,ITA,Czechia,Qualification,Parallel Slalom,24,
+4,Pocinek Adam,Male,26-01-2025,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,57,4.29
+5,Pocinek Adam,Male,25-01-2025,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,32,4.68
+6,Pocinek Adam,Male,19-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,3,54.00
+7,Pocinek Adam,Male,18-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,1,90.00
+8,Pocinek Adam,Male,12-01-2025,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,3,90.00
+9,Pocinek Adam,Male,11-01-2025,Folgaria,ITA,Czechia,European Cup,Parallel Giant Slalom,7,64.80
+10,Pocinek Adam,Male,11-01-2025,Folgaria,ITA,Czechia,Qualification,Parallel Giant Slalom,10,
+11,Pocinek Adam,Male,10-01-2025,Folgaria,ITA,Czechia,European Cup,Parallel Giant Slalom,12,39.60
+12,Pocinek Adam,Male,10-01-2025,Folgaria,ITA,Czechia,Qualification,Parallel Giant Slalom,12,
+13,Pocinek Adam,Male,22-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,5,72.00
+14,Pocinek Adam,Male,21-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,4,80.00
+15,Pocinek Adam,Male,20-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,30,5.76
+16,Pocinek Adam,Male,19-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,38,3.82
+17,Pocinek Adam,Male,15-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,DNF,
+18,Pocinek Adam,Male,14-12-2024,Cortina d'Ampezzo,ITA,Czechia,Qualification,Parallel Giant Slalom,48,
+19,Pocinek Adam,Male,14-12-2024,Cortina d'Ampezzo,ITA,Czechia,World Cup,Parallel Giant Slalom,48,16.10
+20,Pocinek Adam,Male,12-12-2024,Carezza,ITA,Czechia,Qualification,Parallel Giant Slalom,47,
+21,Pocinek Adam,Male,12-12-2024,Carezza,ITA,Czechia,World Cup,Parallel Giant Slalom,47,16.40
+22,Pocinek Adam,Male,08-12-2024,Yanqing (NASC),CHN,Czechia,World Cup,Parallel Slalom,46,
+23,Pocinek Adam,Male,08-12-2024,Yanqing (NASC),CHN,Czechia,Qualification,Parallel Slalom,46,
+24,Pocinek Adam,Male,07-12-2024,Yanqing (NASC),CHN,Czechia,World Cup,Parallel Giant Slalom,DNF,
+25,Pocinek Adam,Male,07-12-2024,Yanqing (NASC),CHN,Czechia,Qualification,Parallel Giant Slalom,DNF,
+26,Pocinek Adam,Male,01-12-2024,Mylin,CHN,Czechia,World Cup,Parallel Slalom,43,17.60
+27,Pocinek Adam,Male,01-12-2024,Mylin,CHN,Czechia,Qualification,Parallel Slalom,43,
+28,Pocinek Adam,Male,30-11-2024,Mylin,CHN,Czechia,World Cup,Parallel Giant Slalom,DSQ,
+29,Pocinek Adam,Male,30-11-2024,Mylin,CHN,Czechia,Qualification,Parallel Giant Slalom,DSQ,
+30,Pocinek Adam,Male,07-04-2024,Samnaun,SUI,Czechia,National Championships,Giant Slalom,7,104.40
+31,Pocinek Adam,Male,06-04-2024,Samnaun,SUI,Czechia,National Championships,Parallel Slalom,10,75.40
+32,Pocinek Adam,Male,17-03-2024,St. Moritz,SUI,Czechia,European Cup,Parallel Slalom,DNS,
+33,Pocinek Adam,Male,16-03-2024,St. Moritz,SUI,Czechia,European Cup,Parallel Giant Slalom,DSQ,
+34,Pocinek Adam,Male,13-03-2024,Davos/Rinerhorn ,SUI,Czechia,European Cup,Parallel Giant Slalom,DSQ,
+35,Pocinek Adam,Male,12-03-2024,Davos/Rinerhorn ,SUI,Czechia,European Cup,Parallel Giant Slalom,34,7.92
+36,Pocinek Adam,Male,10-03-2024,Winterberg,GER,Czechia,World Cup,Parallel Slalom Team,16,
+37,Pocinek Adam,Male,09-03-2024,Winterberg,GER,Czechia,Qualification,Parallel Slalom,35,
+38,Pocinek Adam,Male,09-03-2024,Winterberg,GER,Czechia,World Cup,Parallel Slalom,35,
+39,Pocinek Adam,Male,25-02-2024,Krynica,POL,Czechia,Qualification,Parallel Giant Slalom,36,
+40,Pocinek Adam,Male,25-02-2024,Krynica,POL,Czechia,World Cup,Parallel Giant Slalom,36,
+41,Pocinek Adam,Male,24-02-2024,Krynica,POL,Czechia,Qualification,Parallel Giant Slalom,38,
+42,Pocinek Adam,Male,24-02-2024,Krynica,POL,Czechia,World Cup,Parallel Giant Slalom,38,
+43,Pocinek Adam,Male,09-02-2024,Funes - Vilnoess,ITA,Czechia,National Championships,Parallel Slalom,22,26.10
+44,Pocinek Adam,Male,08-02-2024,Funes - Vilnoess,ITA,Czechia,National Championships,Parallel Giant Slalom,25,17.40
+45,Pocinek Adam,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,6,64.00
+46,Pocinek Adam,Male,27-01-2024,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,44,
+47,Pocinek Adam,Male,27-01-2024,Simonhöhe,AUT,Czechia,World Cup,Parallel Giant Slalom,44,
+48,Pocinek Adam,Male,25-01-2024,Rogla,SLO,Czechia,Qualification,Parallel Giant Slalom,33,
+49,Pocinek Adam,Male,25-01-2024,Rogla,SLO,Czechia,World Cup,Parallel Giant Slalom,33,24.00
+50,Pocinek Adam,Male,21-01-2024,Pamporovo,BUL,Czechia,Qualification,Parallel Slalom,38,
+51,Pocinek Adam,Male,21-01-2024,Pamporovo,BUL,Czechia,World Cup,Parallel Slalom,38,19.10
+52,Pocinek Adam,Male,20-01-2024,Pamporovo,BUL,Czechia,Qualification,Parallel Slalom,DSQ,
+53,Pocinek Adam,Male,20-01-2024,Pamporovo,BUL,Czechia,World Cup,Parallel Slalom,DSQ,
+54,Pocinek Adam,Male,17-01-2024,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom Team,23,
+55,Pocinek Adam,Male,16-01-2024,Bad Gastein,AUT,Czechia,Qualification,Parallel Slalom,47,
+56,Pocinek Adam,Male,16-01-2024,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,47,
+57,Pocinek Adam,Male,13-01-2024,Scuol,SUI,Czechia,Qualification,Parallel Giant Slalom,35,
+58,Pocinek Adam,Male,13-01-2024,Scuol,SUI,Czechia,World Cup,Parallel Giant Slalom,35,20.00
+59,Pocinek Adam,Male,07-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Giant Slalom,4,55.00
+60,Pocinek Adam,Male,06-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Slalom,3,66.00
+61,Pocinek Adam,Male,23-12-2023,Davos,SUI,Czechia,Qualification,Parallel Slalom,36,
+62,Pocinek Adam,Male,23-12-2023,Davos ,SUI,Czechia,World Cup,Parallel Slalom,36,19.70
+63,Pocinek Adam,Male,20-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,40,4.07
+64,Pocinek Adam,Male,19-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,24,15.40
+65,Pocinek Adam,Male,16-12-2023,Cortina d'Ampezzo,ITA,Czechia,Qualification,Parallel Giant Slalom,50,
+66,Pocinek Adam,Male,16-12-2023,Cortina d'Ampezzo,ITA,Czechia,World Cup,Parallel Giant Slalom,50,
+67,Pocinek Adam,Male,14-12-2023,Carezza,ITA,Czechia,Qualification,Parallel Giant Slalom,40,
+68,Pocinek Adam,Male,14-12-2023,Carezza,ITA,Czechia,World Cup,Parallel Giant Slalom,40,18.50
+69,Pocinek Adam,Male,09-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,41,
+70,Pocinek Adam,Male,09-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,41,6.55
+71,Pocinek Adam,Male,08-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,33,
+72,Pocinek Adam,Male,08-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,33,8.64
+73,Pocinek Adam,Male,10-04-2023,Krvavec KD Zakon,SLO,Czechia,National Championships,Slalom,7,79.20
+74,Pocinek Adam,Male,10-04-2023,Krvavec KD Zakon,SLO,Czechia,National Championships,Parallel Giant Slalom,5,99.00
+75,Pocinek Adam,Male,30-03-2023,Cortina dAmpezzo,ITA,Czechia,National Championships,Parallel Slalom,20,31.90
+76,Pocinek Adam,Male,28-03-2023,Bansko,BUL,Czechia,National Championships,Parallel Slalom,8,64.00
+77,Pocinek Adam,Male,27-03-2023,Bansko,BUL,Czechia,National Championships,Parallel Giant Slalom,11,48.00
+78,Pocinek Adam,Male,19-03-2023,Berchtesgaden,GER,Czechia,World Cup,Parallel Slalom Team,19,
+79,Pocinek Adam,Male,18-03-2023,Berchtesgaden,GER,Czechia,Qualification,Parallel Slalom,DSQ,
+80,Pocinek Adam,Male,18-03-2023,Berchtesgaden,GER,Czechia,World Cup,Parallel Slalom,DSQ,
+81,Pocinek Adam,Male,15-03-2023,Rogla,SLO,Czechia,World Cup,Parallel Giant Slalom,41,18.20
+82,Pocinek Adam,Male,15-03-2023,Rogla,SLO,Czechia,Qualification,Parallel Giant Slalom,41,
+83,Pocinek Adam,Male,05-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,5,31.50
+84,Pocinek Adam,Male,04-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,1,70.00
+85,Pocinek Adam,Male,03-03-2023,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Giant Slalom,2,56.00
+86,Pocinek Adam,Male,27-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,2,96.00
+87,Pocinek Adam,Male,26-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,2,96.00
+88,Pocinek Adam,Male,25-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,2,96.00
+89,Pocinek Adam,Male,22-02-2023,Bakuriani,GEO,Czechia,World Championships,Parallel Slalom Team,24,
+90,Pocinek Adam,Male,21-02-2023,Bakuriani,GEO,Czechia,Qualification,Parallel Slalom,DSQ,
+91,Pocinek Adam,Male,21-02-2023,Bakuriani,GEO,Czechia,World Championships,Parallel Slalom,DSQ,
+92,Pocinek Adam,Male,19-02-2023,Bakuriani,GEO,Czechia,Qualification,Parallel Giant Slalom,42,
+93,Pocinek Adam,Male,19-02-2023,Bakuriani,GEO,Czechia,World Championships,Parallel Giant Slalom,42,17.90
+94,Pocinek Adam,Male,27-01-2023,Blue Mountain,CAN,Czechia,Qualification,Parallel Giant Slalom,40,
+95,Pocinek Adam,Male,27-01-2023,Blue Mountain,CAN,Czechia,World Cup,Parallel Giant Slalom,40,18.50
+96,Pocinek Adam,Male,26-01-2023,Blue Mountain,CAN,Czechia,Qualification,Parallel Giant Slalom,43,
+97,Pocinek Adam,Male,26-01-2023,Blue Mountain,CAN,Czechia,World Cup,Parallel Giant Slalom,43,17.60
+98,Pocinek Adam,Male,22-01-2023,Gore Mountain,USA,Czechia,Universiade,Parallel Slalom,8,70.40
+99,Pocinek Adam,Male,22-01-2023,Gore Mountain,USA,Czechia,Qualification,Parallel Slalom,9,
+100,Pocinek Adam,Male,21-01-2023,Gore Mountain,USA,Czechia,Universiade,Parallel Giant Slalom,13,44.00
+101,Pocinek Adam,Male,21-01-2023,Gore Mountain,USA,Czechia,Qualification,Parallel Giant Slalom,13,
+102,Pocinek Adam,Male,14-01-2023,Scuol,SUI,Czechia,Qualification,Parallel Giant Slalom,DSQ,
+103,Pocinek Adam,Male,14-01-2023,Scuol,SUI,Czechia,World Cup,Parallel Giant Slalom,DSQ,
+104,Pocinek Adam,Male,11-01-2023,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom Team,20,
+105,Pocinek Adam,Male,10-01-2023,Bad Gastein,AUT,Czechia,Qualification,Parallel Slalom,47,
+106,Pocinek Adam,Male,10-01-2023,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,47,
+107,Pocinek Adam,Male,04-01-2023,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,6,104.00
+108,Pocinek Adam,Male,18-12-2022,Hochfügen,GER,Czechia,European Cup,Parallel Giant Slalom,34,5.72
+109,Pocinek Adam,Male,18-12-2022,Hochfügen,GER,Czechia,Qualification,Parallel Giant Slalom,34,
+110,Pocinek Adam,Male,17-12-2022,Cortina d'Ampezzo,ITA,Czechia,Qualification,Parallel Giant Slalom,38,
+111,Pocinek Adam,Male,17-12-2022,Cortina d'Ampezzo,ITA,Czechia,World Cup,Parallel Giant Slalom,38,19.10
+112,Pocinek Adam,Male,15-12-2022,Carezza,ITA,Czechia,Qualification,Parallel Giant Slalom,37,
+113,Pocinek Adam,Male,15-12-2022,Carezza,ITA,Czechia,World Cup,Parallel Giant Slalom,37,19.40
+114,Pocinek Adam,Male,11-12-2022,Winterberg,GER,Czechia,World Cup,Parallel Slalom,47,
+115,Pocinek Adam,Male,10-12-2022,Winterberg,GER,Czechia,Qualification,Parallel Slalom,47,
+116,Pocinek Adam,Male,12-04-2022,Chiesa Valmalenco,ITA,Czechia,National Championships,Parallel Slalom,8,92.80
+117,Pocinek Adam,Male,11-04-2022,Chiesa Valmalenco,ITA,Czechia,National Championships,Parallel Giant Slalom,10,75.40
+118,Pocinek Adam,Male,06-04-2022,Borovets,BUL,Czechia,National Championships,Parallel Slalom,4,100.00
+119,Pocinek Adam,Male,05-04-2022,Borovets,BUL,Czechia,National Championships,Parallel Giant Slalom,3,120.00
+120,Pocinek Adam,Male,27-03-2022,Villach / Gerlitzen,AUT,Czechia,National Championships,Parallel Slalom,16,43.50
+121,Pocinek Adam,Male,26-03-2022,Villach / Gerlitzen,AUT,Czechia,National Championships,Parallel Giant Slalom,11,69.60
+122,Pocinek Adam,Male,20-03-2022,Berchtesgaden,GER,Czechia,World Cup,Parallel  Slalom Team,22,
+123,Pocinek Adam,Male,19-03-2022,Berchtesgaden,GER,Czechia,Qualification,Parallel Slalom,43,
+124,Pocinek Adam,Male,19-03-2022,Berchtesgaden,GER,Czechia,World Cup,Parallel Slalom,43,17.60
+125,Pocinek Adam,Male,17-03-2022,Rogla,SLO,Czechia,European Cup,Parallel Giant Slalom,24,22.40
+126,Pocinek Adam,Male,16-03-2022,Rogla,SLO,Czechia,Qualification,Parallel Giant Slalom,50,
+127,Pocinek Adam,Male,16-03-2022,Rogla,SLO,Czechia,World Cup,Parallel Giant Slalom,50,15.50
+128,Pocinek Adam,Male,13-03-2022,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,7,39.60
+129,Pocinek Adam,Male,12-03-2022,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,4,55.00
+130,Pocinek Adam,Male,09-03-2022,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Slalom,8,92.80
+131,Pocinek Adam,Male,08-03-2022,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,7,104.40
+132,Pocinek Adam,Male,06-03-2022,Lachtal,AUT,Czechia,European Cup,Parallel Giant Slalom,25,21.60
+133,Pocinek Adam,Male,05-03-2022,Lachtal,AUT,Czechia,European Cup,Parallel Giant Slalom,24,25.20
+134,Pocinek Adam,Male,27-02-2022,Simonhöhe,AUT,Czechia,FIS,Parallel Giant Slalom,14,39.60
+135,Pocinek Adam,Male,26-02-2022,Simonhöhe,AUT,Czechia,FIS,Parallel Giant Slalom,9,63.80
+136,Pocinek Adam,Male,20-02-2022,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,6,40.00
+137,Pocinek Adam,Male,19-02-2022,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,16,15.00
+138,Pocinek Adam,Male,06-02-2022,Lenzerheide,SUI,Czechia,European Cup,Parallel Slalom,31,
+139,Pocinek Adam,Male,05-02-2022,Lenzerheide,SUI,Czechia,European Cup,Parallel Slalom,22,32.40
+140,Pocinek Adam,Male,30-01-2022,Davos,SUI,Czechia,European Cup,Parallel Slalom,DSQ,
+141,Pocinek Adam,Male,29-01-2022,Davos,SUI,Czechia,European Cup,Parallel Slalom,21,36.00
+142,Pocinek Adam,Male,23-01-2022,Bukovel,UKR,Czechia,European Cup,Parallel Giant Slalom,15,41.60
+143,Pocinek Adam,Male,22-01-2022,Bukovel,UKR,Czechia,European Cup,Parallel Giant Slalom,29,9.36
+144,Pocinek Adam,Male,20-01-2022,Bukovel,UKR,Czechia,National Championships,Parallel Slalom,32,5.72
+145,Pocinek Adam,Male,19-01-2022,Bukovel,UKR,Czechia,National Championships,Parallel Giant Slalom,17,33.60
+146,Pocinek Adam,Male,16-01-2022,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,1,110.00
+147,Pocinek Adam,Male,15-01-2022,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,2,88.00
+148,Pocinek Adam,Male,14-01-2022,Simonhöhe,AUT,Czechia,World Cup,Parallel Giant Slalom,60,
+149,Pocinek Adam,Male,14-01-2022,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,60,
+150,Pocinek Adam,Male,12-01-2022,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom Team,19,
+151,Pocinek Adam,Male,11-01-2022,Bad Gastein,AUT,Czechia,Qualification,Parallel Slalom,47,
+152,Pocinek Adam,Male,11-01-2022,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,47,
+153,Pocinek Adam,Male,08-01-2022,Scuol,SUI,Czechia,Qualification,Parallel Giant Slalom,62,
+154,Pocinek Adam,Male,08-01-2022,Scuol,SUI,Czechia,World Cup,Parallel Giant Slalom,62,
+155,Pocinek Adam,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Czechia,FIS,Slalom,3,108.00
+156,Pocinek Adam,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Czechia,FIS,Parallel Slalom,5,81.00
+157,Pocinek Adam,Male,21-12-2021,Moninec,CZE,Czechia,FIS,Parallel Slalom,4,100.00
+158,Pocinek Adam,Male,20-12-2021,Moninec,CZE,Czechia,FIS,Parallel Slalom,12,44.00
+159,Pocinek Adam,Male,19-12-2021,Moninec,CZE,Czechia,European Cup,Parallel Slalom,19,26.40
+160,Pocinek Adam,Male,18-12-2021,Cortina d Ampezzo,ITA,Czechia,Qualification,Parallel Giant Slalom,DNF,
+161,Pocinek Adam,Male,18-12-2021,Cortina d Ampezzo,ITA,Czechia,World Cup,Parallel Giant Slalom,DNF,
+162,Pocinek Adam,Male,16-12-2021,Carezza,ITA,Czechia,Qualification,Parallel Giant Slalom,67,
+163,Pocinek Adam,Male,16-12-2021,Carezza,ITA,Czechia,World Cup,Parallel Giant Slalom,67,
+164,Pocinek Adam,Male,12-12-2021,Götschen,GER,Czechia,European Cup,Parallel Slalom,DSQ,
+165,Pocinek Adam,Male,11-12-2021,Götschen,GER,Czechia,European Cup,Parallel Slalom,23,17.60
+166,Pocinek Adam,Male,31-03-2021,Villnöss,ITA,Czechia,National Championships,Parallel Giant Slalom,DNS,
+167,Pocinek Adam,Male,30-03-2021,Bansko,BUL,Czechia,National Championships,Parallel Slalom,2,144.00
+168,Pocinek Adam,Male,30-03-2021,Villnöss,ITA,Czechia,National Championships,Parallel Slalom,DNS,
+169,Pocinek Adam,Male,29-03-2021,Bansko,BUL,Czechia,National Championships,Parallel Giant Slalom,6,72.00
+170,Pocinek Adam,Male,28-03-2021,Villnöss - Funes,ITA,Czechia,FIS,Parallel Slalom,DNS,
+171,Pocinek Adam,Male,27-03-2021,Villnöss - Funes,ITA,Czechia,FIS,Parallel Giant Slalom,14,39.60
+172,Pocinek Adam,Male,21-03-2021,Berchtesgaden,GER,Czechia,World Cup,Parallel Slalom Team,22,
+173,Pocinek Adam,Male,20-03-2021,Berchtesgaden,GER,Czechia,Qualification,Parallel Slalom,54,
+174,Pocinek Adam,Male,20-03-2021,Berchtesgaden,GER,Czechia,World Cup,Parallel Slalom,54,
+175,Pocinek Adam,Male,13-03-2021,Davos Rinerhorn,SUI,Czechia,European Cup,Parallel Giant Slalom,40,6.66
+176,Pocinek Adam,Male,09-03-2021,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Slalom,18,37.70
+177,Pocinek Adam,Male,08-03-2021,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,22,26.10
+178,Pocinek Adam,Male,06-03-2021,Rogla,SLO,Czechia,Qualification,Parallel Giant Slalom,49,
+179,Pocinek Adam,Male,06-03-2021,Rogla,SLO,Czechia,World Cup,Parallel Giant Slalom,49,15.80
+180,Pocinek Adam,Male,02-03-2021,Rogla,SLO,Czechia,World Championships,Parallel Slalom,48,16.10
+181,Pocinek Adam,Male,02-03-2021,Rogla,SLO,Czechia,Qualification,Parallel Slalom,48,
+182,Pocinek Adam,Male,01-03-2021,Rogla,SLO,Czechia,World Championships,Parallel Giant Slalom,43,17.60
+183,Pocinek Adam,Male,01-03-2021,Rogla,SLO,Czechia,Qualification,Parallel Giant Slalom,43,
+184,Pocinek Adam,Male,21-02-2021,Gerlitzen,AUT,Czechia,National Championships,Parallel Slalom,27,13.05
+185,Pocinek Adam,Male,20-02-2021,Gerlitzen,AUT,Czechia,National Championships,Parallel Giant Slalom,34,6.38
+186,Pocinek Adam,Male,07-02-2021,Bannoye,RUS,Czechia,Qualification,Parallel Slalom,DNF,
+187,Pocinek Adam,Male,07-02-2021,Bannoye,RUS,Czechia,World Cup,Parallel Slalom,DNF,
+188,Pocinek Adam,Male,06-02-2021,Baonoye,RUS,Czechia,Qualification,Parallel Giant Slalom,50,
+189,Pocinek Adam,Male,06-02-2021,Bannoye,RUS,Czechia,World Cup,Parallel Giant Slalom,50,
+190,Pocinek Adam,Male,30-01-2021,Moscow,RUS,Czechia,Qualification,Parallel Slalom,50,
+191,Pocinek Adam,Male,30-01-2021,Moscow,RUS,Czechia,World Cup,Parallel Slalom,50,
+192,Pocinek Adam,Male,24-01-2021,Davos,SUI,Czechia,European Cup,Parallel Slalom,36,7.09
+193,Pocinek Adam,Male,23-01-2021,Davos,SUI,Czechia,European Cup,Parallel Slalom,40,6.66
+194,Pocinek Adam,Male,17-01-2021,Simonhoehe,AUT,Czechia,European Cup,Parallel Giant Slalom,36,7.09
+195,Pocinek Adam,Male,16-01-2021,Simonhoehe,AUT,Czechia,European Cup,Parallel Giant Slalom,40,6.66
+196,Pocinek Adam,Male,13-01-2021,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom Team,19,
+197,Pocinek Adam,Male,12-01-2021,Bad Gastein,AUT,Czechia,Qualification,Parallel Slalom,DSQ,
+198,Pocinek Adam,Male,12-01-2021,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,DSQ,
+199,Pocinek Adam,Male,09-01-2021,Scuol,SUI,Czechia,Qualification,Parallel Giant Slalom,58,
+200,Pocinek Adam,Male,09-01-2021,Scuol,SUI,Czechia,World Cup,Parallel Giant Slalom,58,
+201,Pocinek Adam,Male,17-12-2020,Carezza,ITA,Czechia,Qualification,Parallel Giant Slalom,56,
+202,Pocinek Adam,Male,17-12-2020,Carezza,ITA,Czechia,World Cup,Parallel Giant Slalom,56,
+203,Pocinek Adam,Male,12-12-2020,Cortina d Ampezzo,ITA,Czechia,Qualification,Parallel Giant Slalom,47,
+204,Pocinek Adam,Male,12-12-2020,Cortina d Ampezzo,ITA,Czechia,World Cup,Parallel Giant Slalom,47,16.40
+205,Pocinek Adam,Male,08-03-2020,Tauplitz,AUT,Czechia,European Cup,Parallel Slalom,DSQ1,
+206,Pocinek Adam,Male,07-03-2020,Tauplitz,AUT,Czechia,European Cup,Parallel Slalom,47,5.90
+207,Pocinek Adam,Male,01-03-2020,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,5,22.50
+208,Pocinek Adam,Male,29-02-2020,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Giant Slalom,3,42.00
+209,Pocinek Adam,Male,16-02-2020,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,1,50.00
+210,Pocinek Adam,Male,15-02-2020,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,5,22.50
+211,Pocinek Adam,Male,09-02-2020,Gerlitzen,AUT,Czechia,FIS,Giant Slalom,16,33.00
+212,Pocinek Adam,Male,08-02-2020,Gerlitzen,AUT,Czechia,FIS,Giant Slalom,18,28.60
+213,Pocinek Adam,Male,04-02-2020,Bukovel,UKR,Czechia,National Championships,Parallel Slalom,10,33.80
+214,Pocinek Adam,Male,03-02-2020,Bukovel,UKR,Czechia,National Championships,Parallel Giant Slalom,9,37.70
+215,Pocinek Adam,Male,26-01-2020,Gosau,AUT,Czechia,FIS,Parallel Slalom,20,19.80
+216,Pocinek Adam,Male,25-01-2020,Piancavallo,ITA,Czechia,World Cup,Parallel Slalom,DNS,
+217,Pocinek Adam,Male,25-01-2020,Gosau,AUT,Czechia,FIS,Parallel Slalom,16,27.00
+218,Pocinek Adam,Male,25-01-2020,Piancavallo,ITA,Czechia,Qualification,Parallel Slalom,DNS,
+219,Pocinek Adam,Male,18-01-2020,Rogla,SLO,Czechia,World Cup,Parallel Giant Slalom,57,
+220,Pocinek Adam,Male,18-01-2020,Rogla,SLO,Czechia,Qualification,Parallel Giant Slalom,57,
+221,Pocinek Adam,Male,15-01-2020,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom Team,20,
+222,Pocinek Adam,Male,14-01-2020,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,57,
+223,Pocinek Adam,Male,14-01-2020,Bad Gastein,AUT,Czechia,Qualification,Parallel Slalom,57,
+224,Pocinek Adam,Male,22-12-2019,"Buck Hill, MN",USA,Czechia,Nor-Am Cup,Parallel Slalom,33,4.80
+225,Pocinek Adam,Male,21-12-2019,"Buck Hill, MN",USA,Czechia,Nor-Am Cup,Parallel Slalom,DNF,
+226,Pocinek Adam,Male,20-12-2019,"Buck Hill, MN",USA,Czechia,FIS,Parallel Slalom,25,9.60
+227,Pocinek Adam,Male,14-12-2019,Cortina d Ampezzo,ITA,Czechia,World Cup,Parallel Giant Slalom,58,13.10
+228,Pocinek Adam,Male,14-12-2019,Cortina d Ampezzo,ITA,Czechia,Qualification,Parallel Giant Slalom,58,
+229,Pocinek Adam,Male,07-04-2019,Racines,ITA,Czechia,European Cup,Parallel Slalom,43,6.34
+230,Pocinek Adam,Male,06-04-2019,Racines,ITA,Czechia,European Cup,Parallel Slalom,41,6.55
+231,Pocinek Adam,Male,03-04-2019,Rogla,SLO,Czechia,FIS Junior World Championships,Parallel Slalom,40,6.66
+232,Pocinek Adam,Male,02-04-2019,Rogla,SLO,Czechia,FIS Junior World Championships,Parallel Giant Slalom,25,21.60
+233,Pocinek Adam,Male,31-03-2019,Radstadt,AUT,Czechia,National Championships,Parallel Giant Slalom,29,10.44
+234,Pocinek Adam,Male,30-03-2019,Radstadt,AUT,Czechia,National Championships,Parallel Slalom,33,6.96
+235,Pocinek Adam,Male,27-03-2019,Piancavallo,ITA,Czechia,National Championships,Parallel Giant Slalom,22,26.10
+236,Pocinek Adam,Male,26-03-2019,Piancavallo,ITA,Czechia,National Championships,Parallel Slalom,DNF1,
+237,Pocinek Adam,Male,24-03-2019,Paseky nad Jizerou,CZE,Czechia,FIS,Parallel Slalom,8,35.20
+238,Pocinek Adam,Male,23-03-2019,Paseky nad Jizerou,CZE,Czechia,FIS,Parallel Slalom,22,
+239,Pocinek Adam,Male,17-03-2019,Rogla,SLO,Czechia,European Cup,Parallel Giant Slalom,47,5.90
+240,Pocinek Adam,Male,17-03-2019,Rogla,SLO,Czechia,Junior,Parallel Giant Slalom,29,7.20
+241,Pocinek Adam,Male,16-03-2019,Rogla,SLO,Czechia,European Cup,Parallel Giant Slalom,50,5.58
+242,Pocinek Adam,Male,13-03-2019,Bialka Tatrzanska,POL,Czechia,National Championships,Parallel Slalom,11,57.60
+243,Pocinek Adam,Male,12-03-2019,Bialka Tatrzanska,POL,Czechia,National Championships,Parallel Giant Slalom,13,48.00
+244,Pocinek Adam,Male,03-03-2019,Val Senales,ITA,Czechia,FIS,Parallel Slalom,14,12.60
+245,Pocinek Adam,Male,02-03-2019,Val Senales,ITA,Czechia,FIS,Parallel Slalom,13,14.00
+246,Pocinek Adam,Male,24-02-2019,Funes/Villnoess,ITA,Czechia,FIS,Parallel Giant Slalom,16,22.50
+247,Pocinek Adam,Male,23-02-2019,Funes/Villnoess,ITA,Czechia,FIS,Parallel Giant Slalom,21,15.00
+248,Pocinek Adam,Male,17-02-2019,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,2,40.00
+249,Pocinek Adam,Male,16-02-2019,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Giant Slalom,1,50.00
+250,Pocinek Adam,Male,10-02-2019,Lenzerheide,SUI,Czechia,European Cup,Parallel Slalom,29,11.52
+251,Pocinek Adam,Male,09-02-2019,Lenzerheide,SUI,Czechia,European Cup,Parallel Slalom,DNF1,
+252,Pocinek Adam,Male,05-02-2019,Park City,USA,Czechia,World Championships,Parallel Slalom,DSQ,
+253,Pocinek Adam,Male,04-02-2019,Park City,USA,Czechia,World Championships,Parallel Giant Slalom,44,17.30
+254,Pocinek Adam,Male,27-01-2019,Lachtal,AUT,Czechia,European Cup,Parallel GS,34,3.96
+255,Pocinek Adam,Male,26-01-2019,Lachtal,AUT,Czechia,European Cup,Parallel GS,28,7.20
+256,Pocinek Adam,Male,20-01-2019,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,3,30.00
+257,Pocinek Adam,Male,19-01-2019,Dolni Morava,CZE,Czechia,Junior,Parallel GS,1,50.00
+258,Pocinek Adam,Male,06-01-2019,Simonhöhe,AUT,Czechia,FIS,Parallel Slalom,DSQ1,
+259,Pocinek Adam,Male,05-01-2019,Simonhöhe,AUT,Czechia,FIS,Parallel Slalom,33,
+260,Pocinek Adam,Male,03-01-2019,Modriachwinkel,AUT,Czechia,Junior,Parallel Slalom,11,16.80
+261,Pocinek Adam,Male,02-01-2019,Modriachwinkel,AUT,Czechia,Junior,Parallel Slalom,12,15.40
+262,Pocinek Adam,Male,22-12-2018,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,4,25.00
+263,Pocinek Adam,Male,21-12-2018,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,4,35.00
+264,Pocinek Adam,Male,15-12-2018,Cortina d'Ampezzo,ITA,Czechia,World Cup,Parallel GS,51,
+265,Pocinek Adam,Male,15-12-2018,Cortina d'Ampezzo,ITA,Czechia,Qualification,Parallel Giant Slalom,51,
+266,Pocinek Adam,Male,13-12-2018,Carezza,ITA,Czechia,World Cup,Parallel GS,DNF,
+267,Pocinek Adam,Male,13-12-2018,Carezza,ITA,Czechia,Qualification,Parallel Giant Slalom,DNF,
+268,Pocinek Adam,Male,06-09-2018,Cardrona,NZL,Czechia,FIS Junior World Championships,Parallel Slalom,25,19.20
+269,Pocinek Adam,Male,05-09-2018,Cardrona,NZL,Czechia,FIS Junior World Championships,Parallel GS,27,14.40
+270,Pocinek Adam,Male,17-03-2018,Spindleruv Mlyn,CZE,Czechia,Junior,Parallel GS,1,50.00
+271,Pocinek Adam,Male,14-03-2018,Suche,POL,Czechia,National Championships,Parallel Slalom,11,36.00
+272,Pocinek Adam,Male,13-03-2018,Suche,POL,Czechia,National Championships,Parallel GS,17,21.00
+273,Pocinek Adam,Male,11-03-2018,Tauplitz,AUT,Czechia,European Cup,Parallel Slalom,DSQ1,
+274,Pocinek Adam,Male,10-03-2018,Tauplitz,AUT,Czechia,European Cup,Parallel Slalom,41,
+275,Pocinek Adam,Male,04-03-2018,Davos,SUI,Czechia,Junior,Parallel Slalom,16,
+276,Pocinek Adam,Male,03-03-2018,Davos,SUI,Czechia,Junior,Parallel Slalom,17,14.00
+277,Pocinek Adam,Male,18-02-2018,Vysna Boca,SVK,Czechia,Junior,Parallel GS,6,20.00
+278,Pocinek Adam,Male,17-02-2018,Vysna Boca,SVK,Czechia,Junior,Parallel Slalom,2,40.00
+279,Pocinek Adam,Male,21-01-2018,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,1,50.00
+280,Pocinek Adam,Male,20-01-2018,Dolni Morava,CZE,Czechia,Junior,Parallel GS,3,30.00
+281,Pocinek Adam,Male,14-01-2018,Goetschen,GER,Czechia,Junior,Parallel GS,8,32.00
+282,Pocinek Adam,Male,07-01-2018,Pec pod Snezkou,CZE,Czechia,Junior,Parallel Slalom,8,16.00
+283,Pocinek Adam,Male,06-01-2018,Pec pod Snezkou,CZE,Czechia,Junior,Parallel GS,5,22.50
+284,Pocinek Adam,Male,23-12-2017,Haus im Ennstal,AUT,Czechia,Junior,Parallel GS,17,12.60
+285,Pocinek Adam,Male,22-12-2017,Haus im Ennstal,AUT,Czechia,Junior,Parallel GS,15,14.40
+286,Pocinek Adam,Male,16-03-2017,Sierra Nevada,ESP,Czechia,World Championships,Parallel GS,DSQ,
+287,Pocinek Adam,Male,15-03-2017,Sierra Nevada,ESP,Czechia,World Championships,Parallel Slalom,DSQ,
+288,Pocinek Adam,Male,12-03-2017,Tauplitz,AUT,Czechia,FIS,Parallel Slalom,43,
+289,Pocinek Adam,Male,11-03-2017,Tauplitz,AUT,Czechia,FIS,Parallel Slalom,25,13.20
+290,Pocinek Adam,Male,08-03-2017,Madonna di Campiglio,ITA,Czechia,FIS,Parallel GS,DNS1,
+291,Pocinek Adam,Male,05-03-2017,Herlikovice,CZE,Czechia,Junior,Parallel Slalom,1,50.00
+292,Pocinek Adam,Male,04-03-2017,Herlikovice,CZE,Czechia,Junior,Parallel GS,1,50.00
+293,Pocinek Adam,Male,21-02-2017,Klinovec,CZE,Czechia,FIS Junior World Championships,Parallel Slalom,35,5.20
+294,Pocinek Adam,Male,20-02-2017,Klinovec,CZE,Czechia,FIS Junior World Championships,Parallel GS,48,
+295,Pocinek Adam,Male,05-02-2017,Klinovec,CZE,Czechia,Junior,Parallel Slalom,22,
+296,Pocinek Adam,Male,04-02-2017,Klinovec,CZE,Czechia,Junior,Parallel GS,21,
+297,Pocinek Adam,Male,22-01-2017,Vysna Boca,SVK,Czechia,FIS,Parallel GS,9,14.50
+298,Pocinek Adam,Male,21-01-2017,Vysna Boca,SVK,Czechia,FIS,Parallel Slalom,5,22.50
+299,Pocinek Adam,Male,15-01-2017,Hochficht,AUT,Czechia,National Championships,Parallel Slalom,DSQ1,
+300,Pocinek Adam,Male,14-01-2017,Hochficht,AUT,Czechia,National Championships,Parallel GS,34,6.38
+301,Pocinek Adam,Male,08-01-2017,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,7,18.00
+302,Pocinek Adam,Male,07-01-2017,Dolni Morava,CZE,Czechia,FIS,Parallel GS,DSQ,
+303,Pocinek Adam,Male,04-01-2017,Goetschen,GER,Czechia,Junior,Giant Slalom,DSQ,
+304,Pocinek Adam,Male,11-12-2016,Haus im Ennstal,AUT,Czechia,Junior,Parallel GS,14,9.00
+305,Pocinek Adam,Male,10-12-2016,Haus im Ennstal,AUT,Czechia,Junior,Parallel GS,3,30.00
+306,Pocinek Adam,Male,08-04-2016,Breuil Cervinia - Valtournenche,ITA,Czechia,National Championships,Parallel Slalom,DNF1,
+307,Pocinek Adam,Male,07-04-2016,Breuil Cervinia - Valtournenche,ITA,Czechia,National Championships,Parallel GS,33,8.64
+308,Pocinek Adam,Male,06-04-2016,Breuil Cervinia - Valtournenche,ITA,Czechia,National Championships,Snowboardcross,33,8.64
+309,Pocinek Adam,Male,03-04-2016,Rogla,SLO,Czechia,FIS Junior World Championships,Parallel Slalom,22,32.40
+310,Pocinek Adam,Male,02-04-2016,Rogla,SLO,Czechia,FIS Junior World Championships,Parallel GS,DSQ1,
+311,Pocinek Adam,Male,27-03-2016,Pec Pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,6,20.00
+312,Pocinek Adam,Male,26-03-2016,Pec Pod Snezkou,CZE,Czechia,FIS,Parallel GS,9,14.50
+313,Pocinek Adam,Male,13-03-2016,Bozi Dar,CZE,Czechia,FIS,Snowboardcross,32,1.82
+314,Pocinek Adam,Male,12-03-2016,Bozi Dar,CZE,Czechia,FIS,Snowboardcross,20,7.70
+315,Pocinek Adam,Male,06-03-2016,Tauplitz,AUT,Czechia,FIS,Parallel Slalom,35,4.40
+316,Pocinek Adam,Male,05-03-2016,Tauplitz,AUT,Czechia,FIS,Parallel Slalom,39,4.14
+317,Pocinek Adam,Male,21-02-2016,Klinovec,CZE,Czechia,FIS,Parallel Slalom,5,22.50
+318,Pocinek Adam,Male,20-02-2016,Klinovec,CZE,Czechia,FIS,Parallel GS,11,12.00
+319,Pocinek Adam,Male,07-02-2016,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,4,25.00
+320,Pocinek Adam,Male,06-02-2016,Dolni Morava,CZE,Czechia,Junior,Parallel GS,9,14.50
+321,Pocinek Adam,Male,10-01-2016,Dolni Morava,CZE,Czechia,FIS,Snowboardcross,20,13.20
+322,Pocinek Adam,Male,09-01-2016,Dolni Morava,CZE,Czechia,FIS,Snowboardcross,19,14.40
+323,Pocinek Adam,Male,29-03-2015,Pec pod Snezkou,CZE,Czechia,Junior,Giant Slalom,2,40.00
+324,Pocinek Adam,Male,28-03-2015,Pec pod Snezkou,CZE,Czechia,Junior,Parallel GS,2,40.00
+325,Pocinek Adam,Male,22-03-2015,Hochficht,AUT,Czechia,National Championships,Giant Slalom,23,28.80
+326,Pocinek Adam,Male,21-03-2015,Hochficht,AUT,Czechia,National Championships,Parallel Slalom,47,
+327,Pocinek Adam,Male,22-02-2015,Klinovec,CZE,Czechia,Junior,Parallel GS,2,40.00
+328,Pocinek Adam,Male,21-02-2015,Klinovec,CZE,Czechia,Junior,Parallel Slalom,8,16.00
+329,Pocinek Adam,Male,26-01-2015,Schruns - Hochjoch,AUT,Czechia,European Youth Olympic Festival,Snowboardcross,17,9.80
+330,Pocinek Adam,Male,09-01-2015,Dolni Morava,CZE,Czechia,FIS,Snowboardcross,18,16.90
+331,Pocinek Adam,Male,30-11-2014,Pitztal,AUT,Czechia,Junior,Snowboardcross,65,1.54
+332,Pocinek Adam,Male,29-11-2014,Pitztal,AUT,Czechia,Junior,Snowboardcross,65,1.54

@@ -1,43 +1,45 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Krbec Ondrej,Male,17-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,15,11.20
-1,Krbec Ondrej,Male,16-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,16,10.50
-2,Krbec Ondrej,Male,07-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Giant Slalom,17,15.40
-3,Krbec Ondrej,Male,06-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Slalom,15,17.60
-4,Krbec Ondrej,Male,04-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,18,9.10
-5,Krbec Ondrej,Male,03-03-2023,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Giant Slalom,12,15.40
-6,Krbec Ondrej,Male,26-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,23,9.60
-7,Krbec Ondrej,Male,25-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,19,14.40
-8,Krbec Ondrej,Male,13-03-2022,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,25,6.60
-9,Krbec Ondrej,Male,12-03-2022,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,27,4.95
-10,Krbec Ondrej,Male,20-02-2022,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,19,12.00
-11,Krbec Ondrej,Male,19-02-2022,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,11,24.00
-12,Krbec Ondrej,Male,01-03-2020,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,15,8.00
-13,Krbec Ondrej,Male,29-02-2020,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Giant Slalom,15,11.20
-14,Krbec Ondrej,Male,16-02-2020,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,11,12.00
-15,Krbec Ondrej,Male,15-02-2020,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,DNF,
-16,Krbec Ondrej,Male,24-03-2019,Paseky nad Jizerou,CZE,Czechia,FIS,Parallel Slalom,DSQ1,
-17,Krbec Ondrej,Male,23-03-2019,Paseky nad Jizerou,CZE,Czechia,FIS,Parallel Slalom,16,13.50
-18,Krbec Ondrej,Male,17-02-2019,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,12,11.00
-19,Krbec Ondrej,Male,16-02-2019,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Giant Slalom,12,11.00
-20,Krbec Ondrej,Male,20-01-2019,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,12,15.40
-21,Krbec Ondrej,Male,19-01-2019,Dolni Morava,CZE,Czechia,FIS,Parallel GS,14,9.00
-22,Krbec Ondrej,Male,17-03-2018,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel GS,DSQ,
-23,Krbec Ondrej,Male,24-02-2018,Funes/Villnoess,ITA,Czechia,FIS,Parallel GS,46,3.34
-24,Krbec Ondrej,Male,18-02-2018,Vysna Boca,SVK,Czechia,FIS,Parallel GS,15,19.20
-25,Krbec Ondrej,Male,17-02-2018,Vysna Boca,SVK,Czechia,FIS,Parallel Slalom,15,19.20
-26,Krbec Ondrej,Male,21-01-2018,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,9,14.50
-27,Krbec Ondrej,Male,20-01-2018,Dolni Morava,CZE,Czechia,FIS,Parallel GS,11,12.00
-28,Krbec Ondrej,Male,07-01-2018,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,14,12.60
-29,Krbec Ondrej,Male,06-01-2018,Pec pod Snezkou,CZE,Czechia,FIS,Parallel GS,DSQ,
-30,Krbec Ondrej,Male,05-03-2017,Herlikovice,CZE,Czechia,FIS,Parallel Slalom,17,7.00
-31,Krbec Ondrej,Male,04-03-2017,Herlikovice,CZE,Czechia,FIS,Parallel GS,16,7.50
-32,Krbec Ondrej,Male,05-02-2017,Klinovec,CZE,Czechia,FIS,Parallel Slalom,11,16.80
-33,Krbec Ondrej,Male,04-02-2017,Klinovec,CZE,Czechia,FIS,Parallel GS,15,11.20
-34,Krbec Ondrej,Male,08-01-2017,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,15,8.00
-35,Krbec Ondrej,Male,07-01-2017,Dolni Morava,CZE,Czechia,FIS,Parallel GS,25,3.00
-36,Krbec Ondrej,Male,27-03-2016,Pec Pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,19,6.00
-37,Krbec Ondrej,Male,26-03-2016,Pec Pod Snezkou,CZE,Czechia,FIS,Parallel GS,24,3.50
-38,Krbec Ondrej,Male,07-02-2016,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,15,8.00
-39,Krbec Ondrej,Male,06-02-2016,Dolni Morava,CZE,Czechia,FIS,Parallel GS,13,10.00
-40,Krbec Ondrej,Male,16-03-2014,Ratsching/Racines,ITA,Czechia,European Cup,Parallel Slalom,52,0.00
-41,Krbec Ondrej,Male,15-03-2014,Ratsching/Racines,ITA,Czechia,European Cup,Parallel Slalom,59,0.00
+0,Krbec Ondrej,Male,19-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,22,8.10
+1,Krbec Ondrej,Male,18-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,20,9.90
+2,Krbec Ondrej,Male,17-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,15,11.20
+3,Krbec Ondrej,Male,16-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,16,10.50
+4,Krbec Ondrej,Male,07-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Giant Slalom,17,15.40
+5,Krbec Ondrej,Male,06-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Slalom,15,17.60
+6,Krbec Ondrej,Male,04-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,18,9.10
+7,Krbec Ondrej,Male,03-03-2023,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Giant Slalom,12,15.40
+8,Krbec Ondrej,Male,26-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,23,9.60
+9,Krbec Ondrej,Male,25-02-2023,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,19,14.40
+10,Krbec Ondrej,Male,13-03-2022,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,25,6.60
+11,Krbec Ondrej,Male,12-03-2022,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,27,4.95
+12,Krbec Ondrej,Male,20-02-2022,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,19,12.00
+13,Krbec Ondrej,Male,19-02-2022,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,11,24.00
+14,Krbec Ondrej,Male,01-03-2020,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,15,8.00
+15,Krbec Ondrej,Male,29-02-2020,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Giant Slalom,15,11.20
+16,Krbec Ondrej,Male,16-02-2020,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,11,12.00
+17,Krbec Ondrej,Male,15-02-2020,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,DNF,
+18,Krbec Ondrej,Male,24-03-2019,Paseky nad Jizerou,CZE,Czechia,FIS,Parallel Slalom,DSQ1,
+19,Krbec Ondrej,Male,23-03-2019,Paseky nad Jizerou,CZE,Czechia,FIS,Parallel Slalom,16,13.50
+20,Krbec Ondrej,Male,17-02-2019,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,12,11.00
+21,Krbec Ondrej,Male,16-02-2019,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Giant Slalom,12,11.00
+22,Krbec Ondrej,Male,20-01-2019,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,12,15.40
+23,Krbec Ondrej,Male,19-01-2019,Dolni Morava,CZE,Czechia,FIS,Parallel GS,14,9.00
+24,Krbec Ondrej,Male,17-03-2018,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel GS,DSQ,
+25,Krbec Ondrej,Male,24-02-2018,Funes/Villnoess,ITA,Czechia,FIS,Parallel GS,46,3.34
+26,Krbec Ondrej,Male,18-02-2018,Vysna Boca,SVK,Czechia,FIS,Parallel GS,15,19.20
+27,Krbec Ondrej,Male,17-02-2018,Vysna Boca,SVK,Czechia,FIS,Parallel Slalom,15,19.20
+28,Krbec Ondrej,Male,21-01-2018,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,9,14.50
+29,Krbec Ondrej,Male,20-01-2018,Dolni Morava,CZE,Czechia,FIS,Parallel GS,11,12.00
+30,Krbec Ondrej,Male,07-01-2018,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,14,12.60
+31,Krbec Ondrej,Male,06-01-2018,Pec pod Snezkou,CZE,Czechia,FIS,Parallel GS,DSQ,
+32,Krbec Ondrej,Male,05-03-2017,Herlikovice,CZE,Czechia,FIS,Parallel Slalom,17,7.00
+33,Krbec Ondrej,Male,04-03-2017,Herlikovice,CZE,Czechia,FIS,Parallel GS,16,7.50
+34,Krbec Ondrej,Male,05-02-2017,Klinovec,CZE,Czechia,FIS,Parallel Slalom,11,16.80
+35,Krbec Ondrej,Male,04-02-2017,Klinovec,CZE,Czechia,FIS,Parallel GS,15,11.20
+36,Krbec Ondrej,Male,08-01-2017,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,15,8.00
+37,Krbec Ondrej,Male,07-01-2017,Dolni Morava,CZE,Czechia,FIS,Parallel GS,25,3.00
+38,Krbec Ondrej,Male,27-03-2016,Pec Pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,19,6.00
+39,Krbec Ondrej,Male,26-03-2016,Pec Pod Snezkou,CZE,Czechia,FIS,Parallel GS,24,3.50
+40,Krbec Ondrej,Male,07-02-2016,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,15,8.00
+41,Krbec Ondrej,Male,06-02-2016,Dolni Morava,CZE,Czechia,FIS,Parallel GS,13,10.00
+42,Krbec Ondrej,Male,16-03-2014,Ratsching/Racines,ITA,Czechia,European Cup,Parallel Slalom,52,0.00
+43,Krbec Ondrej,Male,15-03-2014,Ratsching/Racines,ITA,Czechia,European Cup,Parallel Slalom,59,0.00

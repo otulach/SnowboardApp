@@ -1,201 +1,203 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Pancochova Sarka,Female,23-03-2024,Silvaplana,SUI,Czechia,World Cup,Slopestyle,9,211.10
-1,Pancochova Sarka,Female,21-03-2024,Silvaplana,SUI,Czechia,Qualification,Slopestyle,3,
-2,Pancochova Sarka,Female,15-03-2024,Tignes,FRA,Czechia,World Cup,Slopestyle,13,83.00
-3,Pancochova Sarka,Female,14-03-2024,Tignes,FRA,Czechia,Qualification,Slopestyle,13,
-4,Pancochova Sarka,Female,20-01-2024,Laax,SUI,Czechia,World Cup,Slopestyle,10,245.60
-5,Pancochova Sarka,Female,20-01-2024,Laax,SUI,Czechia,World Cup,Halfpipe,19,41.10
-6,Pancochova Sarka,Female,16-01-2024,Laax,SUI,Czechia,Qualification,Slopestyle,10,
-7,Pancochova Sarka,Female,16-12-2023,Copper Mountain,USA,Czechia,World Cup,Halfpipe,12,132.20
-8,Pancochova Sarka,Female,15-12-2023,Copper Mountain,USA,Czechia,World Cup,Big Air,14,65.40
-9,Pancochova Sarka,Female,14-12-2023,Copper Mountain,USA,Czechia,Qualification,Halfpipe,12,
-10,Pancochova Sarka,Female,13-12-2023,Copper Mountain,USA,Czechia,Qualification,Big Air,14,
-11,Pancochova Sarka,Female,04-03-2023,Bakuriani,GEO,Czechia,World Championships,Big Air,14,122.20
-12,Pancochova Sarka,Female,03-03-2023,Bakuriani,GEO,Czechia,World Championships,Halfpipe,15,42.50
-13,Pancochova Sarka,Female,02-03-2023,Bakuriani,GEO,Czechia,Qualification,Big Air,14,
-14,Pancochova Sarka,Female,01-03-2023,Bakuriani,GEO,Czechia,Qualification,Halfpipe,15,
-15,Pancochova Sarka,Female,27-02-2023,Bakuriani,GEO,Czechia,Qualification,Slopestyle,13,
-16,Pancochova Sarka,Female,27-02-2023,Bakuriani,GEO,Czechia,World Championships,Slopestyle,13,180.10
-17,Pancochova Sarka,Female,22-01-2023,Laax,SUI,Czechia,World Cup,Slopestyle,7,361.70
-18,Pancochova Sarka,Female,21-01-2023,Laax,SUI,Czechia,World Cup,Halfpipe,20,27.20
-19,Pancochova Sarka,Female,20-01-2023,Laax,SUI,Czechia,Qualification,Slopestyle,8,
-20,Pancochova Sarka,Female,19-01-2023,Laax,SUI,Czechia,Qualification,Halfpipe,20,
-21,Pancochova Sarka,Female,17-12-2022,Copper Mountain,USA,Czechia,World Cup,Big Air,7,276.00
-22,Pancochova Sarka,Female,16-12-2022,Copper Mountain,USA,Czechia,World Cup,Halfpipe,16,95.50
-23,Pancochova Sarka,Female,15-12-2022,Copper Mountain,USA,Czechia,Qualification,Big Air,3,
-24,Pancochova Sarka,Female,14-12-2022,Copper Mountain,USA,Czechia,Qualification,Halfpipe,16,
-25,Pancochova Sarka,Female,22-10-2022,Chur,SUI,Czechia,World Cup,Big Air,DNS,
-26,Pancochova Sarka,Female,22-10-2022,Chur,SUI,Czechia,Qualification,Big Air,DNS,
-27,Pancochova Sarka,Female,27-03-2022,Silvaplana,SUI,Czechia,World Cup,Slopestyle,10,200.20
-28,Pancochova Sarka,Female,25-03-2022,Silvaplana,SUI,Czechia,Qualification,Slopestyle,10,
-29,Pancochova Sarka,Female,19-03-2022,Spindleruv Mlyn,CZE,Czechia,World Cup,Slopestyle,9,108.20
-30,Pancochova Sarka,Female,18-03-2022,Spindleruv Mlyn,CZE,Czechia,Qualification,Slopestyle,8,
-31,Pancochova Sarka,Female,15-02-2022,Beijing,CHN,Czechia,Olympic Winter Games,Big Air,14,162.90
-32,Pancochova Sarka,Female,14-02-2022,Beijing,CHN,Czechia,Qualification,Big Air,14,
-33,Pancochova Sarka,Female,10-02-2022,Beijing,CHN,Czechia,Olympic Winter Games,Halfpipe,18,55.60
-34,Pancochova Sarka,Female,09-02-2022,Beijing,CHN,Czechia,Qualification,Halfpipe,18,
-35,Pancochova Sarka,Female,06-02-2022,Beijing,CHN,Czechia,Olympic Winter Games,Slopestyle,26,19.50
-36,Pancochova Sarka,Female,05-02-2022,Beijing,CHN,Czechia,Qualification,Slopestyle,26,
-37,Pancochova Sarka,Female,11-12-2021,Copper Mountain,USA,Czechia,World Cup,Halfpipe,25,70.20
-38,Pancochova Sarka,Female,09-12-2021,Copper Mountain,USA,Czechia,Qualification,Halfpipe,15,
-39,Pancochova Sarka,Female,04-12-2021,Steamboat,USA,Czechia,World Cup,Big Air,16,142.60
-40,Pancochova Sarka,Female,02-12-2021,Steamboat,USA,Czechia,Qualification,Big Air,16,
-41,Pancochova Sarka,Female,23-10-2021,Chur,SUI,Czechia,World Cup,Big Air,26,19.50
-42,Pancochova Sarka,Female,28-03-2021,Silvaplana,SUI,Czechia,Qualification,Slopestyle,6,
-43,Pancochova Sarka,Female,28-03-2021,Silvaplana,SUI,Czechia,World Cup,Slopestyle,10,140.85
-44,Pancochova Sarka,Female,21-03-2021,Aspen,USA,Czechia,World Cup,Halfpipe,16,110.48
-45,Pancochova Sarka,Female,20-03-2021,Aspen,USA,Czechia,World Cup,Slopestyle,15,151.86
-46,Pancochova Sarka,Female,19-03-2021,Aspen,USA,Czechia,Qualification,Slopestyle,15,
-47,Pancochova Sarka,Female,18-03-2021,Aspen,USA,Czechia,Qualification,Halfpipe,16,
-48,Pancochova Sarka,Female,16-03-2021,Aspen,USA,Czechia,World Championships,Big Air,16,117.00
-49,Pancochova Sarka,Female,14-03-2021,Aspen,USA,Czechia,Qualification,Big Air,16,
-50,Pancochova Sarka,Female,13-03-2021,Aspen,USA,Czechia,World Championships,Halfpipe,12,129.63
-51,Pancochova Sarka,Female,12-03-2021,Aspen,USA,Czechia,World Championships,Slopestyle,26,10.34
-52,Pancochova Sarka,Female,11-03-2021,Aspen,USA,Czechia,Qualification,Halfpipe,12,
-53,Pancochova Sarka,Female,10-03-2021,Aspen,USA,Czechia,Qualification,Slopestyle,26,
-54,Pancochova Sarka,Female,24-02-2021,Aspen Mountain Ski Area,USA,Czechia,Open,Slopestyle,1,260.00
-55,Pancochova Sarka,Female,23-01-2021,Laax,SUI,Czechia,World Cup,Halfpipe,20,48.35
-56,Pancochova Sarka,Female,22-01-2021,Laax,SUI,Czechia,World Cup,Slopestyle,22,47.27
-57,Pancochova Sarka,Female,21-01-2021,Laax,SUI,Czechia,Qualification,Halfpipe,20,
-58,Pancochova Sarka,Female,20-01-2021,Laax,SUI,Czechia,Qualification,Slopestyle,22,
-59,Pancochova Sarka,Female,16-02-2020,Calgary,CAN,Czechia,World Cup,Slopestyle,10,260.00
-60,Pancochova Sarka,Female,14-02-2020,Calgary,CAN,Czechia,Qualification,Slopestyle,10,
-61,Pancochova Sarka,Female,23-01-2020,Seiseralm,ITA,Czechia,World Cup,Slopestyle,11,240.00
-62,Pancochova Sarka,Female,22-01-2020,Seiseralm,ITA,Czechia,Qualification,Slopestyle,11,
-63,Pancochova Sarka,Female,18-01-2020,Laax,SUI,Czechia,World Cup,Halfpipe,13,200.00
-64,Pancochova Sarka,Female,16-01-2020,Laax,SUI,Czechia,Qualification,Halfpipe,13,
-65,Pancochova Sarka,Female,15-01-2020,Laax,SUI,Czechia,World Cup,Slopestyle,23,
-66,Pancochova Sarka,Female,14-01-2020,Laax,SUI,Czechia,Qualification,Slopestyle,23,
-67,Pancochova Sarka,Female,20-12-2019,Atlanta,USA,Czechia,World Cup,Big Air,11,240.00
-68,Pancochova Sarka,Female,14-12-2019,Copper Mountain Resort,USA,Czechia,World Cup,Halfpipe,16,150.00
-69,Pancochova Sarka,Female,12-12-2019,Copper Mountain Resort,USA,Czechia,Qualification,Halfpipe,16,
-70,Pancochova Sarka,Female,02-11-2019,Modena SKIPASS,ITA,Czechia,World Cup,Big Air,6,400.00
-71,Pancochova Sarka,Female,01-11-2019,Modena SKIPASS,ITA,Czechia,Qualification,Big Air,6,
-72,Pancochova Sarka,Female,01-09-2019,Cardrona,NZL,Czechia,Australian New Zealand Cup,Slopestyle,DNS,
-73,Pancochova Sarka,Female,24-08-2019,Cardrona,NZL,Czechia,World Cup,Big Air,4,500.00
-74,Pancochova Sarka,Female,23-08-2019,Cardrona,NZL,Czechia,Qualification,Big Air,4,
-75,Pancochova Sarka,Female,17-03-2019,Pec pod Snezkou,CZE,Czechia,National Championships,Slopestyle,1,110.00
-76,Pancochova Sarka,Female,16-03-2019,Pec pod Snezkou,CZE,Czechia,European Cup,Slopestyle,1,160.00
-77,Pancochova Sarka,Female,10-02-2019,Park City,USA,Czechia,World Championships,Slopestyle,21,100.00
-78,Pancochova Sarka,Female,09-02-2019,Park City,USA,Czechia,Qualification,Slopestyle,21,
-79,Pancochova Sarka,Female,08-02-2019,Park City,USA,Czechia,World Championships,Halfpipe,15,160.00
-80,Pancochova Sarka,Female,06-02-2019,Park City,USA,Czechia,Qualification,Halfpipe,15,
-81,Pancochova Sarka,Female,19-01-2019,Laax,SUI,Czechia,World Cup,Halfpipe,DNS,
-82,Pancochova Sarka,Female,18-01-2019,Laax,SUI,Czechia,World Cup,Slopestyle,19,120.00
-83,Pancochova Sarka,Female,17-01-2019,Laax,SUI,Czechia,Qualification,Slopestyle,19,
-84,Pancochova Sarka,Female,16-01-2019,Laax,SUI,Czechia,Qualification,Halfpipe,DNS,
-85,Pancochova Sarka,Female,12-01-2019,Kreischberg,AUT,Czechia,World Cup,Slopestyle,11,240.00
-86,Pancochova Sarka,Female,11-01-2019,Kreischberg,AUT,Czechia,Qualification,Slopestyle,11,
-87,Pancochova Sarka,Female,21-12-2018,Secret Garden,CHN,Czechia,World Cup,Halfpipe,12,220.00
-88,Pancochova Sarka,Female,21-12-2018,Secret Garden,CHN,Czechia,World Cup,Slopestyle,4,500.00
-89,Pancochova Sarka,Female,20-12-2018,Secret Garden,CHN,Czechia,Qualification,Slopestyle,3,
-90,Pancochova Sarka,Female,19-12-2018,Secret Garden,CHN,Czechia,Qualification,Halfpipe,12,
-91,Pancochova Sarka,Female,11-12-2018,"Copper Mountain, CO",USA,Czechia,Nor-Am Cup,Halfpipe,9,84.10
-92,Pancochova Sarka,Female,24-11-2018,Beijing,CHN,Czechia,World Cup,Big Air,8,320.00
-93,Pancochova Sarka,Female,23-11-2018,Beijing,CHN,Czechia,Qualification,Big Air,8,
-94,Pancochova Sarka,Female,03-11-2018,Modena SKIPASS,ITA,Czechia,World Cup,Big Air,6,400.00
-95,Pancochova Sarka,Female,16-03-2018,Seiser Alm,ITA,Czechia,World Cup,Slopestyle,3,600.00
-96,Pancochova Sarka,Female,10-03-2018,Pec pod Snezkou,CZE,Czechia,European Cup,Slopestyle,2,144.00
-97,Pancochova Sarka,Female,22-02-2018,Alpensia Jumping Park,KOR,Czechia,Olympic Winter Games,Big Air,19,120.00
-98,Pancochova Sarka,Female,19-02-2018,Alpensia Jumping Park,KOR,Czechia,Qualification,Big Air,19,
-99,Pancochova Sarka,Female,12-02-2018,Phoenix Snow Park,KOR,Czechia,Olympic Winter Games,Slopestyle,16,150.00
-100,Pancochova Sarka,Female,10-12-2017,Copper Mountain Resort,USA,Czechia,World Cup,Big Air,8,320.00
-101,Pancochova Sarka,Female,08-12-2017,Copper Mountain Resort,USA,Czechia,Qualification,Big Air,4,
-102,Pancochova Sarka,Female,02-12-2017,Moenchengladbach,GER,Czechia,World Cup,Big Air,5,450.00
-103,Pancochova Sarka,Female,25-11-2017,Beijing,CHN,Czechia,World Cup,Big Air,17,140.00
-104,Pancochova Sarka,Female,24-11-2017,Beijing,CHN,Czechia,Qualification,Big Air,17,
-105,Pancochova Sarka,Female,11-11-2017,Milan,ITA,Czechia,World Cup,Big Air,10,260.00
-106,Pancochova Sarka,Female,04-09-2017,Cardrona,NZL,Czechia,World Cup,Slopestyle,19,120.00
-107,Pancochova Sarka,Female,03-09-2017,Cardrona,NZL,Czechia,Qualification,Slopestyle,10,
-108,Pancochova Sarka,Female,25-03-2017,Spindleruv Mlyn,CZE,Czechia,World Cup,Slopestyle,33,
-109,Pancochova Sarka,Female,24-03-2017,Spindleruv Mlyn,CZE,Czechia,Qualification,Slopestyle,17,
-110,Pancochova Sarka,Female,17-03-2017,Sierra Nevada,ESP,Czechia,World Championships,Big Air,17,140.00
-111,Pancochova Sarka,Female,16-03-2017,Sierra Nevada,ESP,Czechia,Qualification,Big Air,11,
-112,Pancochova Sarka,Female,11-03-2017,Sierra Nevada,ESP,Czechia,World Championships,Slopestyle,24,70.00
-113,Pancochova Sarka,Female,11-03-2017,Sierra Nevada,ESP,Czechia,World Championships,Halfpipe,30,
-114,Pancochova Sarka,Female,10-03-2017,Sierra Nevada,ESP,Czechia,Qualification,Halfpipe,30,
-115,Pancochova Sarka,Female,09-03-2017,Sierra Nevada,ESP,Czechia,Qualification,Slopestyle,24,
-116,Pancochova Sarka,Female,12-02-2017,Quebec City,CAN,Czechia,World Cup,Slopestyle,23,80.00
-117,Pancochova Sarka,Female,11-02-2017,Quebec City,CAN,Czechia,World Cup,Big Air,12,220.00
-118,Pancochova Sarka,Female,10-02-2017,Quebec City,CAN,Czechia,Qualification,Slopestyle,11,
-119,Pancochova Sarka,Female,09-02-2017,Quebec City,CAN,Czechia,Qualification,Big Air,12,
-120,Pancochova Sarka,Female,27-01-2017,Seiser Alm,ITA,Czechia,World Cup,Slopestyle,30,32.00
-121,Pancochova Sarka,Female,25-01-2017,Seiser Alm,ITA,Czechia,Qualification,Slopestyle,15,
-122,Pancochova Sarka,Female,20-01-2017,Laax,SUI,Czechia,World Cup,Slopestyle,12,220.00
-123,Pancochova Sarka,Female,17-01-2017,Laax,SUI,Czechia,Qualification,Slopestyle,5,
-124,Pancochova Sarka,Female,14-01-2017,Kreischberg,AUT,Czechia,World Cup,Slopestyle,8,320.00
-125,Pancochova Sarka,Female,13-01-2017,Kreischberg,AUT,Czechia,Qualification,Slopestyle,8,
-126,Pancochova Sarka,Female,07-01-2017,Moscow,RUS,Czechia,World Cup,Big Air,14,180.00
-127,Pancochova Sarka,Female,03-12-2016,Moenchengladbach,GER,Czechia,World Cup,Big Air,15,160.00
-128,Pancochova Sarka,Female,26-11-2016,Alpensia,KOR,Czechia,Qualification,Big Air,25,
-129,Pancochova Sarka,Female,26-11-2016,Alpensia,KOR,Czechia,World Cup,Big Air,25,60.00
-130,Pancochova Sarka,Female,12-11-2016,Milan,ITA,Czechia,World Cup,Big Air,3,600.00
-131,Pancochova Sarka,Female,12-11-2016,Milan,ITA,Czechia,Qualification,Big Air,4,
-132,Pancochova Sarka,Female,20-03-2016,Spindleruv Mlyn,CZE,Czechia,World Cup,Slopestyle,3,600.00
-133,Pancochova Sarka,Female,19-03-2016,Spindleruv Mlyn,CZE,Czechia,Qualification,Slopestyle,6,
-134,Pancochova Sarka,Female,21-02-2016,Bokwang,KOR,Czechia,World Cup,Slopestyle,9,290.00
-135,Pancochova Sarka,Female,19-02-2016,Bokwang,KOR,Czechia,Qualification,Slopestyle,9,
-136,Pancochova Sarka,Female,13-02-2016,Quebec,CAN,Czechia,World Cup,Big Air,4,500.00
-137,Pancochova Sarka,Female,11-02-2016,Boston,USA,Czechia,World Cup,Big Air,14,180.00
-138,Pancochova Sarka,Female,14-03-2015,Spindleruv Mlyn,CZE,Czechia,World Cup,Slopestyle,9,290.00
-139,Pancochova Sarka,Female,13-03-2015,Spindleruv Mlyn,CZE,Czechia,Qualification,Slopestyle,4,
-140,Pancochova Sarka,Female,21-01-2015,Kreischberg,AUT,Czechia,World Championships,Slopestyle,7,
-141,Pancochova Sarka,Female,19-01-2015,Kreischberg,AUT,Czechia,Qualification,Slopestyle,7,
-142,Pancochova Sarka,Female,17-01-2015,Kreischberg,AUT,Czechia,World Championships,Halfpipe,13,200.00
-143,Pancochova Sarka,Female,16-01-2015,Kreischberg,AUT,Czechia,Qualification,Halfpipe,13,
-144,Pancochova Sarka,Female,06-03-2014,Kreischberg,AUT,Czechia,World Cup,Slopestyle,1,1000.00
-145,Pancochova Sarka,Female,05-03-2014,Kreischberg,AUT,Czechia,Qualification,Slopestyle,1,
-146,Pancochova Sarka,Female,12-02-2014,Rosa Khutor,RUS,Czechia,Olympic Winter Games,Halfpipe,16,150.00
-147,Pancochova Sarka,Female,09-02-2014,Rosa Khutor,RUS,Czechia,Olympic Winter Games,Slopestyle,5,450.00
-148,Pancochova Sarka,Female,06-02-2014,Rosa Khutor,RUS,Czechia,Qualification,Slopestyle,5,
-149,Pancochova Sarka,Female,19-01-2014,Stoneham,CAN,Czechia,World Cup,Slopestyle,4,500.00
-150,Pancochova Sarka,Female,18-01-2014,Stoneham,CAN,Czechia,World Cup,Halfpipe,12,220.00
-151,Pancochova Sarka,Female,22-12-2013,"Copper Mountain, CO",USA,Czechia,World Cup,Slopestyle,1,1000.00
-152,Pancochova Sarka,Female,21-12-2013,"Copper Mountain, CO",USA,Czechia,World Cup,Halfpipe,40,0.00
-153,Pancochova Sarka,Female,20-12-2013,"Copper Mountain, CO",USA,Czechia,Qualification,Slopestyle,1,
-154,Pancochova Sarka,Female,18-12-2013,"Copper Mountain, CO",USA,Czechia,Qualification,Halfpipe,21,
-155,Pancochova Sarka,Female,16-03-2013,Spindleruv Mlyn,CZE,Czechia,World Cup,Slopestyle,8,320.00
-156,Pancochova Sarka,Female,15-03-2013,Spindleruv Mlyn,CZE,Czechia,Qualification,Slopestyle,4,
-157,Pancochova Sarka,Female,14-02-2013,Sochi,RUS,Czechia,World Cup,Halfpipe,17,140.00
-158,Pancochova Sarka,Female,13-02-2013,Sochi,RUS,Czechia,Qualification,Halfpipe,7,
-159,Pancochova Sarka,Female,20-01-2013,Stoneham,CAN,Czechia,World Championships,Halfpipe,11,240.00
-160,Pancochova Sarka,Female,19-01-2013,Stoneham,CAN,Czechia,Qualification,Halfpipe,6,
-161,Pancochova Sarka,Female,18-01-2013,Stoneham,CAN,Czechia,World Championships,Slopestyle,14,180.00
-162,Pancochova Sarka,Female,18-01-2013,Stoneham,CAN,Czechia,Qualification,Slopestyle,7,
-163,Pancochova Sarka,Female,12-01-2013,"Copper Mountain, CO",USA,Czechia,World Cup,Halfpipe,21,100.00
-164,Pancochova Sarka,Female,11-01-2013,"Copper Mountain, CO",USA,Czechia,World Cup,Slopestyle,6,400.00
-165,Pancochova Sarka,Female,10-01-2013,"Copper Mountain, CO",USA,Czechia,Qualification,Halfpipe,10,
-166,Pancochova Sarka,Female,09-01-2013,"Copper Mountain, CO",USA,Czechia,Qualification,Slopestyle,1,
-167,Pancochova Sarka,Female,26-08-2012,Cardrona,NZL,Czechia,World Cup,Halfpipe,16,150.00
-168,Pancochova Sarka,Female,24-08-2012,Cardrona,NZL,Czechia,Qualification,Halfpipe,7,
-169,Pancochova Sarka,Female,10-12-2011,"Copper, CO",USA,Czechia,Nor-Am Cup,Halfpipe,11,120.00
-170,Pancochova Sarka,Female,03-11-2011,Saas-Fee,SUI,Czechia,World Cup,Halfpipe,4,500.00
-171,Pancochova Sarka,Female,02-11-2011,Saas-Fee,SUI,Czechia,Qualification,Halfpipe,4,
-172,Pancochova Sarka,Female,27-10-2011,Saas-Fee,SUI,Czechia,European Cup,Halfpipe,6,200.00
-173,Pancochova Sarka,Female,22-01-2011,La Molina,ESP,Czechia,World Championships,Slopestyle,2,800.00
-174,Pancochova Sarka,Female,20-01-2011,La Molina,ESP,Czechia,World Championships,Halfpipe,17,140.00
-175,Pancochova Sarka,Female,20-03-2010,La Molina,ESP,Czechia,World Cup,Halfpipe,3,
-176,Pancochova Sarka,Female,18-02-2010,Cypress,CAN,Czechia,Olympic Winter Games,Halfpipe,14,180.00
-177,Pancochova Sarka,Female,07-01-2010,Kreischberg,AUT,Czechia,World Cup,Halfpipe,1,1000.00
-178,Pancochova Sarka,Female,12-12-2009,"Copper, CO",USA,Czechia,Nor-Am Cup,Halfpipe,19,60.00
-179,Pancochova Sarka,Female,05-11-2009,Saas-Fee,SUI,Czechia,World Cup,Halfpipe,21,100.00
-180,Pancochova Sarka,Female,29-10-2009,Saas-Fee,SUI,Czechia,European Cup,Halfpipe,42,
-181,Pancochova Sarka,Female,26-08-2009,Cardrona,NZL,Czechia,World Cup,Halfpipe,39,0.00
-182,Pancochova Sarka,Female,14-03-2009,La Molina,ESP,Czechia,World Cup,Halfpipe,27,45.00
-183,Pancochova Sarka,Female,07-03-2009,Nagano,JPN,Czechia,FIS Junior World Championships,Halfpipe,21,40.00
-184,Pancochova Sarka,Female,22-02-2009,Klinovec,CZE,Czechia,European Cup,Halfpipe,1,130.00
-185,Pancochova Sarka,Female,21-02-2009,Klinovec,CZE,Czechia,European Cup,Halfpipe,1,130.00
-186,Pancochova Sarka,Female,14-02-2009,Cypress,CAN,Czechia,World Cup,Halfpipe,40,18.50
-187,Pancochova Sarka,Female,23-01-2009,Gangwon,KOR,Czechia,World Championships,Halfpipe,9,290.00
-188,Pancochova Sarka,Female,31-10-2008,Saas-Fee,SUI,Czechia,World Cup,Halfpipe,31,0.00
-189,Pancochova Sarka,Female,24-10-2008,Saas Fee,SUI,Czechia,European Cup,Halfpipe,16,75.00
-190,Pancochova Sarka,Female,07-09-2008,Cardrona,NZL,Czechia,World Cup,Halfpipe,22,90.00
-191,Pancochova Sarka,Female,03-09-2008,Cardrona,NZL,Czechia,Australian New Zealand Cup,Slopestyle,5,22.50
-192,Pancochova Sarka,Female,20-03-2008,Valmalenco,ITA,Czechia,FIS Junior World Championships,Halfpipe,26,22.50
-193,Pancochova Sarka,Female,19-03-2008,Valmalenco,ITA,Czechia,FIS Junior World Championships,Big Air,1,360.00
-194,Pancochova Sarka,Female,07-03-2008,Spindleruv Mlyn,CZE,Czechia,FIS,Halfpipe,1,50.00
-195,Pancochova Sarka,Female,02-03-2008,Spindleruv Mlyn,CZE,Czechia,FIS,Halfpipe,3,30.00
-196,Pancochova Sarka,Female,24-02-2008,Klinovec,CZE,Czechia,European Cup,Halfpipe,2,120.00
-197,Pancochova Sarka,Female,23-02-2008,Klinovec,CZE,Czechia,European Cup,Halfpipe,2,120.00
-198,Pancochova Sarka,Female,02-11-2007,Saas Fee,SUI,Czechia,World Cup,Halfpipe,24,70.00
-199,Pancochova Sarka,Female,29-10-2007,Saas Fee,SUI,Czechia,European Cup,Halfpipe,19,60.00
+0,Pancochova Sarka,Female,20-12-2024,Copper,USA,Czechia,World Cup,Halfpipe,29,50.90
+1,Pancochova Sarka,Female,18-12-2024,Copper,USA,Czechia,Qualification,Halfpipe,15,
+2,Pancochova Sarka,Female,23-03-2024,Silvaplana,SUI,Czechia,World Cup,Slopestyle,9,211.10
+3,Pancochova Sarka,Female,21-03-2024,Silvaplana,SUI,Czechia,Qualification,Slopestyle,3,
+4,Pancochova Sarka,Female,15-03-2024,Tignes,FRA,Czechia,World Cup,Slopestyle,13,83.00
+5,Pancochova Sarka,Female,14-03-2024,Tignes,FRA,Czechia,Qualification,Slopestyle,13,
+6,Pancochova Sarka,Female,20-01-2024,Laax,SUI,Czechia,World Cup,Slopestyle,10,245.60
+7,Pancochova Sarka,Female,20-01-2024,Laax,SUI,Czechia,World Cup,Halfpipe,19,41.10
+8,Pancochova Sarka,Female,16-01-2024,Laax,SUI,Czechia,Qualification,Slopestyle,10,
+9,Pancochova Sarka,Female,16-12-2023,Copper Mountain,USA,Czechia,World Cup,Halfpipe,12,132.20
+10,Pancochova Sarka,Female,15-12-2023,Copper Mountain,USA,Czechia,World Cup,Big Air,14,65.40
+11,Pancochova Sarka,Female,14-12-2023,Copper Mountain,USA,Czechia,Qualification,Halfpipe,12,
+12,Pancochova Sarka,Female,13-12-2023,Copper Mountain,USA,Czechia,Qualification,Big Air,14,
+13,Pancochova Sarka,Female,04-03-2023,Bakuriani,GEO,Czechia,World Championships,Big Air,14,122.20
+14,Pancochova Sarka,Female,03-03-2023,Bakuriani,GEO,Czechia,World Championships,Halfpipe,15,42.50
+15,Pancochova Sarka,Female,02-03-2023,Bakuriani,GEO,Czechia,Qualification,Big Air,14,
+16,Pancochova Sarka,Female,01-03-2023,Bakuriani,GEO,Czechia,Qualification,Halfpipe,15,
+17,Pancochova Sarka,Female,27-02-2023,Bakuriani,GEO,Czechia,Qualification,Slopestyle,13,
+18,Pancochova Sarka,Female,27-02-2023,Bakuriani,GEO,Czechia,World Championships,Slopestyle,13,180.10
+19,Pancochova Sarka,Female,22-01-2023,Laax,SUI,Czechia,World Cup,Slopestyle,7,361.70
+20,Pancochova Sarka,Female,21-01-2023,Laax,SUI,Czechia,World Cup,Halfpipe,20,27.20
+21,Pancochova Sarka,Female,20-01-2023,Laax,SUI,Czechia,Qualification,Slopestyle,8,
+22,Pancochova Sarka,Female,19-01-2023,Laax,SUI,Czechia,Qualification,Halfpipe,20,
+23,Pancochova Sarka,Female,17-12-2022,Copper Mountain,USA,Czechia,World Cup,Big Air,7,276.00
+24,Pancochova Sarka,Female,16-12-2022,Copper Mountain,USA,Czechia,World Cup,Halfpipe,16,95.50
+25,Pancochova Sarka,Female,15-12-2022,Copper Mountain,USA,Czechia,Qualification,Big Air,3,
+26,Pancochova Sarka,Female,14-12-2022,Copper Mountain,USA,Czechia,Qualification,Halfpipe,16,
+27,Pancochova Sarka,Female,22-10-2022,Chur,SUI,Czechia,World Cup,Big Air,DNS,
+28,Pancochova Sarka,Female,22-10-2022,Chur,SUI,Czechia,Qualification,Big Air,DNS,
+29,Pancochova Sarka,Female,27-03-2022,Silvaplana,SUI,Czechia,World Cup,Slopestyle,10,200.20
+30,Pancochova Sarka,Female,25-03-2022,Silvaplana,SUI,Czechia,Qualification,Slopestyle,10,
+31,Pancochova Sarka,Female,19-03-2022,Spindleruv Mlyn,CZE,Czechia,World Cup,Slopestyle,9,108.20
+32,Pancochova Sarka,Female,18-03-2022,Spindleruv Mlyn,CZE,Czechia,Qualification,Slopestyle,8,
+33,Pancochova Sarka,Female,15-02-2022,Beijing,CHN,Czechia,Olympic Winter Games,Big Air,14,162.90
+34,Pancochova Sarka,Female,14-02-2022,Beijing,CHN,Czechia,Qualification,Big Air,14,
+35,Pancochova Sarka,Female,10-02-2022,Beijing,CHN,Czechia,Olympic Winter Games,Halfpipe,18,55.60
+36,Pancochova Sarka,Female,09-02-2022,Beijing,CHN,Czechia,Qualification,Halfpipe,18,
+37,Pancochova Sarka,Female,06-02-2022,Beijing,CHN,Czechia,Olympic Winter Games,Slopestyle,26,19.50
+38,Pancochova Sarka,Female,05-02-2022,Beijing,CHN,Czechia,Qualification,Slopestyle,26,
+39,Pancochova Sarka,Female,11-12-2021,Copper Mountain,USA,Czechia,World Cup,Halfpipe,25,70.20
+40,Pancochova Sarka,Female,09-12-2021,Copper Mountain,USA,Czechia,Qualification,Halfpipe,15,
+41,Pancochova Sarka,Female,04-12-2021,Steamboat,USA,Czechia,World Cup,Big Air,16,142.60
+42,Pancochova Sarka,Female,02-12-2021,Steamboat,USA,Czechia,Qualification,Big Air,16,
+43,Pancochova Sarka,Female,23-10-2021,Chur,SUI,Czechia,World Cup,Big Air,26,19.50
+44,Pancochova Sarka,Female,28-03-2021,Silvaplana,SUI,Czechia,Qualification,Slopestyle,6,
+45,Pancochova Sarka,Female,28-03-2021,Silvaplana,SUI,Czechia,World Cup,Slopestyle,10,140.85
+46,Pancochova Sarka,Female,21-03-2021,Aspen,USA,Czechia,World Cup,Halfpipe,16,110.48
+47,Pancochova Sarka,Female,20-03-2021,Aspen,USA,Czechia,World Cup,Slopestyle,15,151.86
+48,Pancochova Sarka,Female,19-03-2021,Aspen,USA,Czechia,Qualification,Slopestyle,15,
+49,Pancochova Sarka,Female,18-03-2021,Aspen,USA,Czechia,Qualification,Halfpipe,16,
+50,Pancochova Sarka,Female,16-03-2021,Aspen,USA,Czechia,World Championships,Big Air,16,117.00
+51,Pancochova Sarka,Female,14-03-2021,Aspen,USA,Czechia,Qualification,Big Air,16,
+52,Pancochova Sarka,Female,13-03-2021,Aspen,USA,Czechia,World Championships,Halfpipe,12,129.63
+53,Pancochova Sarka,Female,12-03-2021,Aspen,USA,Czechia,World Championships,Slopestyle,26,10.34
+54,Pancochova Sarka,Female,11-03-2021,Aspen,USA,Czechia,Qualification,Halfpipe,12,
+55,Pancochova Sarka,Female,10-03-2021,Aspen,USA,Czechia,Qualification,Slopestyle,26,
+56,Pancochova Sarka,Female,24-02-2021,Aspen Mountain Ski Area,USA,Czechia,Open,Slopestyle,1,260.00
+57,Pancochova Sarka,Female,23-01-2021,Laax,SUI,Czechia,World Cup,Halfpipe,20,48.35
+58,Pancochova Sarka,Female,22-01-2021,Laax,SUI,Czechia,World Cup,Slopestyle,22,47.27
+59,Pancochova Sarka,Female,21-01-2021,Laax,SUI,Czechia,Qualification,Halfpipe,20,
+60,Pancochova Sarka,Female,20-01-2021,Laax,SUI,Czechia,Qualification,Slopestyle,22,
+61,Pancochova Sarka,Female,16-02-2020,Calgary,CAN,Czechia,World Cup,Slopestyle,10,260.00
+62,Pancochova Sarka,Female,14-02-2020,Calgary,CAN,Czechia,Qualification,Slopestyle,10,
+63,Pancochova Sarka,Female,23-01-2020,Seiseralm,ITA,Czechia,World Cup,Slopestyle,11,240.00
+64,Pancochova Sarka,Female,22-01-2020,Seiseralm,ITA,Czechia,Qualification,Slopestyle,11,
+65,Pancochova Sarka,Female,18-01-2020,Laax,SUI,Czechia,World Cup,Halfpipe,13,200.00
+66,Pancochova Sarka,Female,16-01-2020,Laax,SUI,Czechia,Qualification,Halfpipe,13,
+67,Pancochova Sarka,Female,15-01-2020,Laax,SUI,Czechia,World Cup,Slopestyle,23,
+68,Pancochova Sarka,Female,14-01-2020,Laax,SUI,Czechia,Qualification,Slopestyle,23,
+69,Pancochova Sarka,Female,20-12-2019,Atlanta,USA,Czechia,World Cup,Big Air,11,240.00
+70,Pancochova Sarka,Female,14-12-2019,Copper Mountain Resort,USA,Czechia,World Cup,Halfpipe,16,150.00
+71,Pancochova Sarka,Female,12-12-2019,Copper Mountain Resort,USA,Czechia,Qualification,Halfpipe,16,
+72,Pancochova Sarka,Female,02-11-2019,Modena SKIPASS,ITA,Czechia,World Cup,Big Air,6,400.00
+73,Pancochova Sarka,Female,01-11-2019,Modena SKIPASS,ITA,Czechia,Qualification,Big Air,6,
+74,Pancochova Sarka,Female,01-09-2019,Cardrona,NZL,Czechia,Australian New Zealand Cup,Slopestyle,DNS,
+75,Pancochova Sarka,Female,24-08-2019,Cardrona,NZL,Czechia,World Cup,Big Air,4,500.00
+76,Pancochova Sarka,Female,23-08-2019,Cardrona,NZL,Czechia,Qualification,Big Air,4,
+77,Pancochova Sarka,Female,17-03-2019,Pec pod Snezkou,CZE,Czechia,National Championships,Slopestyle,1,110.00
+78,Pancochova Sarka,Female,16-03-2019,Pec pod Snezkou,CZE,Czechia,European Cup,Slopestyle,1,160.00
+79,Pancochova Sarka,Female,10-02-2019,Park City,USA,Czechia,World Championships,Slopestyle,21,100.00
+80,Pancochova Sarka,Female,09-02-2019,Park City,USA,Czechia,Qualification,Slopestyle,21,
+81,Pancochova Sarka,Female,08-02-2019,Park City,USA,Czechia,World Championships,Halfpipe,15,160.00
+82,Pancochova Sarka,Female,06-02-2019,Park City,USA,Czechia,Qualification,Halfpipe,15,
+83,Pancochova Sarka,Female,19-01-2019,Laax,SUI,Czechia,World Cup,Halfpipe,DNS,
+84,Pancochova Sarka,Female,18-01-2019,Laax,SUI,Czechia,World Cup,Slopestyle,19,120.00
+85,Pancochova Sarka,Female,17-01-2019,Laax,SUI,Czechia,Qualification,Slopestyle,19,
+86,Pancochova Sarka,Female,16-01-2019,Laax,SUI,Czechia,Qualification,Halfpipe,DNS,
+87,Pancochova Sarka,Female,12-01-2019,Kreischberg,AUT,Czechia,World Cup,Slopestyle,11,240.00
+88,Pancochova Sarka,Female,11-01-2019,Kreischberg,AUT,Czechia,Qualification,Slopestyle,11,
+89,Pancochova Sarka,Female,21-12-2018,Secret Garden,CHN,Czechia,World Cup,Halfpipe,12,220.00
+90,Pancochova Sarka,Female,21-12-2018,Secret Garden,CHN,Czechia,World Cup,Slopestyle,4,500.00
+91,Pancochova Sarka,Female,20-12-2018,Secret Garden,CHN,Czechia,Qualification,Slopestyle,3,
+92,Pancochova Sarka,Female,19-12-2018,Secret Garden,CHN,Czechia,Qualification,Halfpipe,12,
+93,Pancochova Sarka,Female,11-12-2018,"Copper Mountain, CO",USA,Czechia,Nor-Am Cup,Halfpipe,9,84.10
+94,Pancochova Sarka,Female,24-11-2018,Beijing,CHN,Czechia,World Cup,Big Air,8,320.00
+95,Pancochova Sarka,Female,23-11-2018,Beijing,CHN,Czechia,Qualification,Big Air,8,
+96,Pancochova Sarka,Female,03-11-2018,Modena SKIPASS,ITA,Czechia,World Cup,Big Air,6,400.00
+97,Pancochova Sarka,Female,16-03-2018,Seiser Alm,ITA,Czechia,World Cup,Slopestyle,3,600.00
+98,Pancochova Sarka,Female,10-03-2018,Pec pod Snezkou,CZE,Czechia,European Cup,Slopestyle,2,144.00
+99,Pancochova Sarka,Female,22-02-2018,Alpensia Jumping Park,KOR,Czechia,Olympic Winter Games,Big Air,19,120.00
+100,Pancochova Sarka,Female,19-02-2018,Alpensia Jumping Park,KOR,Czechia,Qualification,Big Air,19,
+101,Pancochova Sarka,Female,12-02-2018,Phoenix Snow Park,KOR,Czechia,Olympic Winter Games,Slopestyle,16,150.00
+102,Pancochova Sarka,Female,10-12-2017,Copper Mountain Resort,USA,Czechia,World Cup,Big Air,8,320.00
+103,Pancochova Sarka,Female,08-12-2017,Copper Mountain Resort,USA,Czechia,Qualification,Big Air,4,
+104,Pancochova Sarka,Female,02-12-2017,Moenchengladbach,GER,Czechia,World Cup,Big Air,5,450.00
+105,Pancochova Sarka,Female,25-11-2017,Beijing,CHN,Czechia,World Cup,Big Air,17,140.00
+106,Pancochova Sarka,Female,24-11-2017,Beijing,CHN,Czechia,Qualification,Big Air,17,
+107,Pancochova Sarka,Female,11-11-2017,Milan,ITA,Czechia,World Cup,Big Air,10,260.00
+108,Pancochova Sarka,Female,04-09-2017,Cardrona,NZL,Czechia,World Cup,Slopestyle,19,120.00
+109,Pancochova Sarka,Female,03-09-2017,Cardrona,NZL,Czechia,Qualification,Slopestyle,10,
+110,Pancochova Sarka,Female,25-03-2017,Spindleruv Mlyn,CZE,Czechia,World Cup,Slopestyle,33,
+111,Pancochova Sarka,Female,24-03-2017,Spindleruv Mlyn,CZE,Czechia,Qualification,Slopestyle,17,
+112,Pancochova Sarka,Female,17-03-2017,Sierra Nevada,ESP,Czechia,World Championships,Big Air,17,140.00
+113,Pancochova Sarka,Female,16-03-2017,Sierra Nevada,ESP,Czechia,Qualification,Big Air,11,
+114,Pancochova Sarka,Female,11-03-2017,Sierra Nevada,ESP,Czechia,World Championships,Slopestyle,24,70.00
+115,Pancochova Sarka,Female,11-03-2017,Sierra Nevada,ESP,Czechia,World Championships,Halfpipe,30,
+116,Pancochova Sarka,Female,10-03-2017,Sierra Nevada,ESP,Czechia,Qualification,Halfpipe,30,
+117,Pancochova Sarka,Female,09-03-2017,Sierra Nevada,ESP,Czechia,Qualification,Slopestyle,24,
+118,Pancochova Sarka,Female,12-02-2017,Quebec City,CAN,Czechia,World Cup,Slopestyle,23,80.00
+119,Pancochova Sarka,Female,11-02-2017,Quebec City,CAN,Czechia,World Cup,Big Air,12,220.00
+120,Pancochova Sarka,Female,10-02-2017,Quebec City,CAN,Czechia,Qualification,Slopestyle,11,
+121,Pancochova Sarka,Female,09-02-2017,Quebec City,CAN,Czechia,Qualification,Big Air,12,
+122,Pancochova Sarka,Female,27-01-2017,Seiser Alm,ITA,Czechia,World Cup,Slopestyle,30,32.00
+123,Pancochova Sarka,Female,25-01-2017,Seiser Alm,ITA,Czechia,Qualification,Slopestyle,15,
+124,Pancochova Sarka,Female,20-01-2017,Laax,SUI,Czechia,World Cup,Slopestyle,12,220.00
+125,Pancochova Sarka,Female,17-01-2017,Laax,SUI,Czechia,Qualification,Slopestyle,5,
+126,Pancochova Sarka,Female,14-01-2017,Kreischberg,AUT,Czechia,World Cup,Slopestyle,8,320.00
+127,Pancochova Sarka,Female,13-01-2017,Kreischberg,AUT,Czechia,Qualification,Slopestyle,8,
+128,Pancochova Sarka,Female,07-01-2017,Moscow,RUS,Czechia,World Cup,Big Air,14,180.00
+129,Pancochova Sarka,Female,03-12-2016,Moenchengladbach,GER,Czechia,World Cup,Big Air,15,160.00
+130,Pancochova Sarka,Female,26-11-2016,Alpensia,KOR,Czechia,Qualification,Big Air,25,
+131,Pancochova Sarka,Female,26-11-2016,Alpensia,KOR,Czechia,World Cup,Big Air,25,60.00
+132,Pancochova Sarka,Female,12-11-2016,Milan,ITA,Czechia,World Cup,Big Air,3,600.00
+133,Pancochova Sarka,Female,12-11-2016,Milan,ITA,Czechia,Qualification,Big Air,4,
+134,Pancochova Sarka,Female,20-03-2016,Spindleruv Mlyn,CZE,Czechia,World Cup,Slopestyle,3,600.00
+135,Pancochova Sarka,Female,19-03-2016,Spindleruv Mlyn,CZE,Czechia,Qualification,Slopestyle,6,
+136,Pancochova Sarka,Female,21-02-2016,Bokwang,KOR,Czechia,World Cup,Slopestyle,9,290.00
+137,Pancochova Sarka,Female,19-02-2016,Bokwang,KOR,Czechia,Qualification,Slopestyle,9,
+138,Pancochova Sarka,Female,13-02-2016,Quebec,CAN,Czechia,World Cup,Big Air,4,500.00
+139,Pancochova Sarka,Female,11-02-2016,Boston,USA,Czechia,World Cup,Big Air,14,180.00
+140,Pancochova Sarka,Female,14-03-2015,Spindleruv Mlyn,CZE,Czechia,World Cup,Slopestyle,9,290.00
+141,Pancochova Sarka,Female,13-03-2015,Spindleruv Mlyn,CZE,Czechia,Qualification,Slopestyle,4,
+142,Pancochova Sarka,Female,21-01-2015,Kreischberg,AUT,Czechia,World Championships,Slopestyle,7,
+143,Pancochova Sarka,Female,19-01-2015,Kreischberg,AUT,Czechia,Qualification,Slopestyle,7,
+144,Pancochova Sarka,Female,17-01-2015,Kreischberg,AUT,Czechia,World Championships,Halfpipe,13,200.00
+145,Pancochova Sarka,Female,16-01-2015,Kreischberg,AUT,Czechia,Qualification,Halfpipe,13,
+146,Pancochova Sarka,Female,06-03-2014,Kreischberg,AUT,Czechia,World Cup,Slopestyle,1,1000.00
+147,Pancochova Sarka,Female,05-03-2014,Kreischberg,AUT,Czechia,Qualification,Slopestyle,1,
+148,Pancochova Sarka,Female,12-02-2014,Rosa Khutor,RUS,Czechia,Olympic Winter Games,Halfpipe,16,150.00
+149,Pancochova Sarka,Female,09-02-2014,Rosa Khutor,RUS,Czechia,Olympic Winter Games,Slopestyle,5,450.00
+150,Pancochova Sarka,Female,06-02-2014,Rosa Khutor,RUS,Czechia,Qualification,Slopestyle,5,
+151,Pancochova Sarka,Female,19-01-2014,Stoneham,CAN,Czechia,World Cup,Slopestyle,4,500.00
+152,Pancochova Sarka,Female,18-01-2014,Stoneham,CAN,Czechia,World Cup,Halfpipe,12,220.00
+153,Pancochova Sarka,Female,22-12-2013,"Copper Mountain, CO",USA,Czechia,World Cup,Slopestyle,1,1000.00
+154,Pancochova Sarka,Female,21-12-2013,"Copper Mountain, CO",USA,Czechia,World Cup,Halfpipe,40,0.00
+155,Pancochova Sarka,Female,20-12-2013,"Copper Mountain, CO",USA,Czechia,Qualification,Slopestyle,1,
+156,Pancochova Sarka,Female,18-12-2013,"Copper Mountain, CO",USA,Czechia,Qualification,Halfpipe,21,
+157,Pancochova Sarka,Female,16-03-2013,Spindleruv Mlyn,CZE,Czechia,World Cup,Slopestyle,8,320.00
+158,Pancochova Sarka,Female,15-03-2013,Spindleruv Mlyn,CZE,Czechia,Qualification,Slopestyle,4,
+159,Pancochova Sarka,Female,14-02-2013,Sochi,RUS,Czechia,World Cup,Halfpipe,17,140.00
+160,Pancochova Sarka,Female,13-02-2013,Sochi,RUS,Czechia,Qualification,Halfpipe,7,
+161,Pancochova Sarka,Female,20-01-2013,Stoneham,CAN,Czechia,World Championships,Halfpipe,11,240.00
+162,Pancochova Sarka,Female,19-01-2013,Stoneham,CAN,Czechia,Qualification,Halfpipe,6,
+163,Pancochova Sarka,Female,18-01-2013,Stoneham,CAN,Czechia,World Championships,Slopestyle,14,180.00
+164,Pancochova Sarka,Female,18-01-2013,Stoneham,CAN,Czechia,Qualification,Slopestyle,7,
+165,Pancochova Sarka,Female,12-01-2013,"Copper Mountain, CO",USA,Czechia,World Cup,Halfpipe,21,100.00
+166,Pancochova Sarka,Female,11-01-2013,"Copper Mountain, CO",USA,Czechia,World Cup,Slopestyle,6,400.00
+167,Pancochova Sarka,Female,10-01-2013,"Copper Mountain, CO",USA,Czechia,Qualification,Halfpipe,10,
+168,Pancochova Sarka,Female,09-01-2013,"Copper Mountain, CO",USA,Czechia,Qualification,Slopestyle,1,
+169,Pancochova Sarka,Female,26-08-2012,Cardrona,NZL,Czechia,World Cup,Halfpipe,16,150.00
+170,Pancochova Sarka,Female,24-08-2012,Cardrona,NZL,Czechia,Qualification,Halfpipe,7,
+171,Pancochova Sarka,Female,10-12-2011,"Copper, CO",USA,Czechia,Nor-Am Cup,Halfpipe,11,120.00
+172,Pancochova Sarka,Female,03-11-2011,Saas-Fee,SUI,Czechia,World Cup,Halfpipe,4,500.00
+173,Pancochova Sarka,Female,02-11-2011,Saas-Fee,SUI,Czechia,Qualification,Halfpipe,4,
+174,Pancochova Sarka,Female,27-10-2011,Saas-Fee,SUI,Czechia,European Cup,Halfpipe,6,200.00
+175,Pancochova Sarka,Female,22-01-2011,La Molina,ESP,Czechia,World Championships,Slopestyle,2,800.00
+176,Pancochova Sarka,Female,20-01-2011,La Molina,ESP,Czechia,World Championships,Halfpipe,17,140.00
+177,Pancochova Sarka,Female,20-03-2010,La Molina,ESP,Czechia,World Cup,Halfpipe,3,
+178,Pancochova Sarka,Female,18-02-2010,Cypress,CAN,Czechia,Olympic Winter Games,Halfpipe,14,180.00
+179,Pancochova Sarka,Female,07-01-2010,Kreischberg,AUT,Czechia,World Cup,Halfpipe,1,1000.00
+180,Pancochova Sarka,Female,12-12-2009,"Copper, CO",USA,Czechia,Nor-Am Cup,Halfpipe,19,60.00
+181,Pancochova Sarka,Female,05-11-2009,Saas-Fee,SUI,Czechia,World Cup,Halfpipe,21,100.00
+182,Pancochova Sarka,Female,29-10-2009,Saas-Fee,SUI,Czechia,European Cup,Halfpipe,42,
+183,Pancochova Sarka,Female,26-08-2009,Cardrona,NZL,Czechia,World Cup,Halfpipe,39,0.00
+184,Pancochova Sarka,Female,14-03-2009,La Molina,ESP,Czechia,World Cup,Halfpipe,27,45.00
+185,Pancochova Sarka,Female,07-03-2009,Nagano,JPN,Czechia,FIS Junior World Championships,Halfpipe,21,40.00
+186,Pancochova Sarka,Female,22-02-2009,Klinovec,CZE,Czechia,European Cup,Halfpipe,1,130.00
+187,Pancochova Sarka,Female,21-02-2009,Klinovec,CZE,Czechia,European Cup,Halfpipe,1,130.00
+188,Pancochova Sarka,Female,14-02-2009,Cypress,CAN,Czechia,World Cup,Halfpipe,40,18.50
+189,Pancochova Sarka,Female,23-01-2009,Gangwon,KOR,Czechia,World Championships,Halfpipe,9,290.00
+190,Pancochova Sarka,Female,31-10-2008,Saas-Fee,SUI,Czechia,World Cup,Halfpipe,31,0.00
+191,Pancochova Sarka,Female,24-10-2008,Saas Fee,SUI,Czechia,European Cup,Halfpipe,16,75.00
+192,Pancochova Sarka,Female,07-09-2008,Cardrona,NZL,Czechia,World Cup,Halfpipe,22,90.00
+193,Pancochova Sarka,Female,03-09-2008,Cardrona,NZL,Czechia,Australian New Zealand Cup,Slopestyle,5,22.50
+194,Pancochova Sarka,Female,20-03-2008,Valmalenco,ITA,Czechia,FIS Junior World Championships,Halfpipe,26,22.50
+195,Pancochova Sarka,Female,19-03-2008,Valmalenco,ITA,Czechia,FIS Junior World Championships,Big Air,1,360.00
+196,Pancochova Sarka,Female,07-03-2008,Spindleruv Mlyn,CZE,Czechia,FIS,Halfpipe,1,50.00
+197,Pancochova Sarka,Female,02-03-2008,Spindleruv Mlyn,CZE,Czechia,FIS,Halfpipe,3,30.00
+198,Pancochova Sarka,Female,24-02-2008,Klinovec,CZE,Czechia,European Cup,Halfpipe,2,120.00
+199,Pancochova Sarka,Female,23-02-2008,Klinovec,CZE,Czechia,European Cup,Halfpipe,2,120.00
+200,Pancochova Sarka,Female,02-11-2007,Saas Fee,SUI,Czechia,World Cup,Halfpipe,24,70.00
+201,Pancochova Sarka,Female,29-10-2007,Saas Fee,SUI,Czechia,European Cup,Halfpipe,19,60.00

@@ -1,35 +1,45 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Shao Yunyang,Male,19-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Slalom,DSQ,
-1,Shao Yunyang,Male,18-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,5,90.00
-2,Shao Yunyang,Male,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,7,72.00
-3,Shao Yunyang,Male,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,11,48.00
-4,Shao Yunyang,Male,01-03-2024,Jinshanling Galaxy Ski Resort,CHN,P.r. China,FIS,Parallel Slalom,6,40.00
-5,Shao Yunyang,Male,29-02-2024,Jinshanling Galaxy Ski Resort,CHN,P.r. China,FIS,Parallel Giant Slalom,2,80.00
-6,Shao Yunyang,Male,19-03-2023,Ratschings,ITA,P.r. China,European Cup,Parallel Slalom,7,86.40
-7,Shao Yunyang,Male,18-03-2023,Ratschings,ITA,P.r. China,European Cup,Parallel Slalom,14,32.40
-8,Shao Yunyang,Male,12-03-2023,Davos,SUI,P.r. China,European Cup,Parallel Slalom,7,79.20
-9,Shao Yunyang,Male,11-03-2023,Davos,SUI,P.r. China,European Cup,Parallel Slalom,8,115.20
-10,Shao Yunyang,Male,05-03-2023,Val Senales,ITA,P.r. China,FIS,Parallel Slalom,9,46.40
-11,Shao Yunyang,Male,04-03-2023,Val Senales,ITA,P.r. China,FIS,Parallel Slalom,9,63.80
-12,Shao Yunyang,Male,19-02-2023,Bardonecchia,ITA,P.r. China,FIS,Parallel Slalom,3,72.00
-13,Shao Yunyang,Male,18-02-2023,Bardonecchia,ITA,P.r. China,FIS,Parallel Slalom,2,96.00
-14,Shao Yunyang,Male,14-01-2022,Simonhöhe,AUT,P.r. China,Qualification,Parallel Giant Slalom,55,
-15,Shao Yunyang,Male,14-01-2022,Simonhöhe,AUT,P.r. China,World Cup,Parallel Giant Slalom,55,14.00
-16,Shao Yunyang,Male,11-01-2022,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,48,
-17,Shao Yunyang,Male,11-01-2022,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,48,
-18,Shao Yunyang,Male,08-01-2022,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,54,14.30
-19,Shao Yunyang,Male,08-01-2022,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,54,
-20,Shao Yunyang,Male,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,50,15.50
-21,Shao Yunyang,Male,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,50,
-22,Shao Yunyang,Male,16-12-2021,Carezza,ITA,P.r. China,World Cup,Parallel Giant Slalom,57,13.40
-23,Shao Yunyang,Male,16-12-2021,Carezza,ITA,P.r. China,Qualification,Parallel Giant Slalom,57,
-24,Shao Yunyang,Male,12-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Slalom,DNF,
-25,Shao Yunyang,Male,12-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Slalom,DNF,
-26,Shao Yunyang,Male,11-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Giant Slalom,39,18.80
-27,Shao Yunyang,Male,11-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Giant Slalom,39,
-28,Shao Yunyang,Male,22-12-2019,Hochfügen,GER,P.r. China,European Cup,Parallel Giant Slalom,28,14.40
-29,Shao Yunyang,Male,21-12-2019,Hochfügen,GER,P.r. China,European Cup,Parallel Giant Slalom,25,21.60
-30,Shao Yunyang,Male,15-12-2019,Cortina d Ampezzo,ITA,P.r. China,Junior,Parallel Slalom,12,35.20
-31,Shao Yunyang,Male,14-12-2019,Cortina d Ampezzo,ITA,P.r. China,Junior,Parallel Slalom,9,26.10
-32,Shao Yunyang,Male,05-09-2019,Pucon,CHI,P.r. China,South American Cup,Giant Slalom,1,160.00
-33,Shao Yunyang,Male,17-03-2019,Rogla,SLO,P.r. China,Junior,Parallel Giant Slalom,26,10.00
+0,Shao Yunyang,Male,31-12-2024,Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,8,64.00
+1,Shao Yunyang,Male,30-12-2024,Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,14,36.00
+2,Shao Yunyang,Male,08-12-2024,Yanqing (NASC),CHN,P.r. China,Qualification,Parallel Slalom,41,
+3,Shao Yunyang,Male,08-12-2024,Yanqing (NASC),CHN,P.r. China,World Cup,Parallel Slalom,41,18.20
+4,Shao Yunyang,Male,07-12-2024,Yanqing (NASC),CHN,P.r. China,Qualification,Parallel Giant Slalom,33,
+5,Shao Yunyang,Male,07-12-2024,Yanqing (NASC),CHN,P.r. China,World Cup,Parallel Giant Slalom,33,24.00
+6,Shao Yunyang,Male,01-12-2024,Mylin,CHN,P.r. China,World Cup,Parallel Slalom,41,18.20
+7,Shao Yunyang,Male,01-12-2024,Mylin,CHN,P.r. China,Qualification,Parallel Slalom,41,
+8,Shao Yunyang,Male,30-11-2024,Mylin,CHN,P.r. China,Qualification,Parallel Giant Slalom,46,
+9,Shao Yunyang,Male,30-11-2024,Mylin,CHN,P.r. China,World Cup,Parallel Giant Slalom,46,16.70
+10,Shao Yunyang,Male,19-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Slalom,DSQ,
+11,Shao Yunyang,Male,18-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,5,90.00
+12,Shao Yunyang,Male,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,7,72.00
+13,Shao Yunyang,Male,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,11,48.00
+14,Shao Yunyang,Male,01-03-2024,Jinshanling Galaxy Ski Resort,CHN,P.r. China,FIS,Parallel Slalom,6,40.00
+15,Shao Yunyang,Male,29-02-2024,Jinshanling Galaxy Ski Resort,CHN,P.r. China,FIS,Parallel Giant Slalom,2,80.00
+16,Shao Yunyang,Male,19-03-2023,Ratschings,ITA,P.r. China,European Cup,Parallel Slalom,7,86.40
+17,Shao Yunyang,Male,18-03-2023,Ratschings,ITA,P.r. China,European Cup,Parallel Slalom,14,32.40
+18,Shao Yunyang,Male,12-03-2023,Davos,SUI,P.r. China,European Cup,Parallel Slalom,7,79.20
+19,Shao Yunyang,Male,11-03-2023,Davos,SUI,P.r. China,European Cup,Parallel Slalom,8,115.20
+20,Shao Yunyang,Male,05-03-2023,Val Senales,ITA,P.r. China,FIS,Parallel Slalom,9,46.40
+21,Shao Yunyang,Male,04-03-2023,Val Senales,ITA,P.r. China,FIS,Parallel Slalom,9,63.80
+22,Shao Yunyang,Male,19-02-2023,Bardonecchia,ITA,P.r. China,FIS,Parallel Slalom,3,72.00
+23,Shao Yunyang,Male,18-02-2023,Bardonecchia,ITA,P.r. China,FIS,Parallel Slalom,2,96.00
+24,Shao Yunyang,Male,14-01-2022,Simonhöhe,AUT,P.r. China,Qualification,Parallel Giant Slalom,55,
+25,Shao Yunyang,Male,14-01-2022,Simonhöhe,AUT,P.r. China,World Cup,Parallel Giant Slalom,55,14.00
+26,Shao Yunyang,Male,11-01-2022,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,48,
+27,Shao Yunyang,Male,11-01-2022,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,48,
+28,Shao Yunyang,Male,08-01-2022,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,54,14.30
+29,Shao Yunyang,Male,08-01-2022,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,54,
+30,Shao Yunyang,Male,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,50,15.50
+31,Shao Yunyang,Male,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,50,
+32,Shao Yunyang,Male,16-12-2021,Carezza,ITA,P.r. China,World Cup,Parallel Giant Slalom,57,13.40
+33,Shao Yunyang,Male,16-12-2021,Carezza,ITA,P.r. China,Qualification,Parallel Giant Slalom,57,
+34,Shao Yunyang,Male,12-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Slalom,DNF,
+35,Shao Yunyang,Male,12-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Slalom,DNF,
+36,Shao Yunyang,Male,11-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Giant Slalom,39,18.80
+37,Shao Yunyang,Male,11-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Giant Slalom,39,
+38,Shao Yunyang,Male,22-12-2019,Hochfügen,GER,P.r. China,European Cup,Parallel Giant Slalom,28,14.40
+39,Shao Yunyang,Male,21-12-2019,Hochfügen,GER,P.r. China,European Cup,Parallel Giant Slalom,25,21.60
+40,Shao Yunyang,Male,15-12-2019,Cortina d Ampezzo,ITA,P.r. China,Junior,Parallel Slalom,12,35.20
+41,Shao Yunyang,Male,14-12-2019,Cortina d Ampezzo,ITA,P.r. China,Junior,Parallel Slalom,9,26.10
+42,Shao Yunyang,Male,05-09-2019,Pucon,CHI,P.r. China,South American Cup,Giant Slalom,1,160.00
+43,Shao Yunyang,Male,17-03-2019,Rogla,SLO,P.r. China,Junior,Parallel Giant Slalom,26,10.00
