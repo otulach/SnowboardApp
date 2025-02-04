@@ -1,4 +1,4 @@
-from dash import Dash, dcc, html, Input, Output, callback, State, dash_table, ctx
+from dash import Dash, dcc, html, Input, Output, callback, State, dash_table, ctx, dash
 import dash_bootstrap_components as dbc
 import plotly.graph_objs as go
 import plotly.express as px
@@ -10,21 +10,6 @@ from datetime import datetime
 import pyarrow as pa
 import pyarrow.parquet as pq
 
-weather = pd.read_csv('Weather2023.csv')
-weather['Date Formated'] = weather.apply(lambda x: datetime.strptime(x['Date'],"%Y-%m-%d"), axis=1)
-weather['Temp Avg'] = weather['Temp Avg'].astype(float)
-
-arrow = pq.read_table("AthletesCSV/allathletes.parquet")
-athletes = arrow.to_pandas()
-
-athletes = athletes[athletes['Category'] != "Qualification"]
-athletes = athletes[athletes['Discipline'].isin(['Parallel Slalom', 'Slalom', 'Parallel GS', 'Parallel Giant Slalom', 'Giant Slalom'])]
-athletes['FIS Points'] = pd.to_numeric(athletes['FIS Points'], downcast='integer', errors='coerce')
-
-
-athletes['Date Formated'] = athletes.apply(lambda x: datetime.strptime(x['Date'],"%d-%m-%Y"), axis=1)
-athletes = athletes.drop_duplicates().sort_values(by='Date Formated', ascending=True)
-
 styles = {
     'pre': {
         'border': 'thin lightgrey solid',
@@ -33,49 +18,31 @@ styles = {
     }
 }
 
+arrowAthletes = pq.read_table("AthletesCSV/formated.parquet")
+athletes = arrowAthletes.to_pandas()
 
-a = pd.merge(athletes, weather[['Location', 'Discipline', 'Date Formated', 'Temp Avg', 'Wind Speed']], on=['Location', 'Date Formated'], how="inner")
+arrowMerged = pq.read_table("AthletesCSV/merged.parquet")
+mergedAthletes = arrowMerged.to_pandas()
+
+arrowPoints = pq.read_table("AthletesCSV/points.parquet")
+pointsFrame = arrowPoints.to_pandas()
 
 # Creating a dataframe for current points of single athletes
 def currentPoints(category, gender):
-    allAthletes = athletes[athletes['Gender'] == gender]
+    allAthletes = pointsFrame[pointsFrame['Gender'] == gender]
 
-    todayDate = datetime.now()
-    yearBack = todayDate.replace(year = todayDate.year - 1)
+    if category != None:
+        if category == 'FIS':
+            allAthletes = allAthletes[(allAthletes['FIS'] > 1)]
+        if category == 'European Cup':
+            allAthletes = allAthletes[(allAthletes['European Cup'] > 1)]
+        if category == 'World Cup':
+            allAthletes = allAthletes[(allAthletes['World Cup'] > 0)]
 
-    allAthletes = allAthletes[(allAthletes['Date Formated'] >= yearBack) & (allAthletes['Date Formated'] <= todayDate)]
-    allAthletes =allAthletes.dropna(subset=['FIS Points'])
-
-    pointsFrame = pd.DataFrame(columns=['Name', 'Points', 'Nation'])
-    # Counting the current FIS Points
-    for name in allAthletes['Name'].unique():
-        singleAthlete = allAthletes[(allAthletes['Name'] == name)]
-
-        # Seeing how many races of the single category this racer did in last year
-        isActive = True
-        if category != None:
-            controledFrame = singleAthlete[singleAthlete['Category'] == category]
-
-            frameSize = len(controledFrame)
-
-            if frameSize <= 1 and (category == 'FIS' or category == 'European Cup'):
-                isActive = False
-            elif frameSize <= 0 and category == 'World Cup':
-                isActive = False 
-
-        if len(singleAthlete) >= 2 and isActive == True:
-            singleAthlete = singleAthlete.sort_values(by='FIS Points', ascending=False)
-            points = singleAthlete['FIS Points'].tolist()
-            hisCurrent = (points[0] + points[1]) / 2
-
-            new = {'Name': name, 'Points': hisCurrent, 'Nation': singleAthlete['Nation'].unique()[0]} 
-            newFrame = pd.DataFrame([new])
-            pointsFrame = pd.concat([pointsFrame, newFrame])
-
-    return pointsFrame
+    return allAthletes
 
 def weatherPrep(name):
-    weatherFrame = a[a['Name'] == name]
+    weatherFrame = mergedAthletes[mergedAthletes['Name'] == name]
     print(weatherFrame)
     underZero = weatherFrame[weatherFrame['Temp Avg'] <= 0]
     aboveZero = weatherFrame[weatherFrame['Temp Avg'] > 0]
@@ -102,7 +69,7 @@ def bubbleChartPrep(ridersAmount, category, gender):
         average = sum(points) / ridersAmount
         new = {'X': x, 'Y': y, 'Points': average, 'Nation': nation} 
         newFrame = pd.DataFrame([new])
-        nationsBubble = pd.concat([nationsBubble, newFrame])
+        nationsBubble = pd.concat([nationsBubble, newFrame], ignore_index=True)
         allHeadAthletes = pd.concat([allHeadAthletes, headRidersFull])
 
     if len(nationsBubble) > 0:
@@ -569,8 +536,8 @@ def nationFromGraph(click, currentNation):
     Input('nationBubble', 'value'),
     Input('genderBubble', 'value'),
     Input('categoryBubble', 'value'),
-    Input('bubble-save-graph', 'data'),
-    Input('bubble-save-table', 'data'))
+    State('bubble-save-graph', 'data'),
+    State('bubble-save-table', 'data'))
 def multipleNations(selectedNation, selectedGender, selectedCategory, graphStore, tableStore):
     # Configuring data passed into the bubble chart
     if ctx.triggered_id != 'nationBubble' or graphStore == None:
