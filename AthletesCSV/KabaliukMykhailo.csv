@@ -1,89 +1,91 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Kabaliuk Mykhailo,Male,26-01-2025,Simonhöhe,AUT,Ukraine,European Cup,Parallel Giant Slalom,42,5.73
-1,Kabaliuk Mykhailo,Male,25-01-2025,Simonhöhe,AUT,Ukraine,European Cup,Parallel Giant Slalom,33,4.32
-2,Kabaliuk Mykhailo,Male,22-01-2025,Bardonecchia,ITA,Ukraine,Universiade,Parallel Slalom,13,52.00
-3,Kabaliuk Mykhailo,Male,21-01-2025,Bardonecchia,ITA,Ukraine,Universiade,Parallel Giant Slalom,8,83.20
-4,Kabaliuk Mykhailo,Male,11-01-2025,Folgaria,ITA,Ukraine,Qualification,Parallel Giant Slalom,33,
-5,Kabaliuk Mykhailo,Male,11-01-2025,Folgaria,ITA,Ukraine,European Cup,Parallel Giant Slalom,33,4.32
-6,Kabaliuk Mykhailo,Male,10-01-2025,Folgaria,ITA,Ukraine,Qualification,Parallel Giant Slalom,13,
-7,Kabaliuk Mykhailo,Male,10-01-2025,Folgaria,ITA,Ukraine,European Cup,Parallel Giant Slalom,13,36.00
-8,Kabaliuk Mykhailo,Male,22-12-2024,Moninec,CZE,Ukraine,FIS,Parallel Slalom,12,35.20
-9,Kabaliuk Mykhailo,Male,21-12-2024,Moninec,CZE,Ukraine,FIS,Parallel Slalom,13,32.00
-10,Kabaliuk Mykhailo,Male,20-12-2024,Moninec,CZE,Ukraine,European Cup,Parallel Slalom,16,27.00
-11,Kabaliuk Mykhailo,Male,19-12-2024,Moninec,CZE,Ukraine,European Cup,Parallel Slalom,21,20.00
-12,Kabaliuk Mykhailo,Male,15-12-2024,Götschen,GER,Ukraine,European Cup,Parallel Slalom,41,4.37
-13,Kabaliuk Mykhailo,Male,14-12-2024,Götschen,GER,Ukraine,European Cup,Parallel Slalom,26,8.00
-14,Kabaliuk Mykhailo,Male,24-03-2024,Lachtal,AUT,Ukraine,FIS Junior World Championships,Parallel Slalom Team,4,
-15,Kabaliuk Mykhailo,Male,23-03-2024,Lachtal,AUT,Ukraine,Qualification,Parallel Slalom,14,
-16,Kabaliuk Mykhailo,Male,23-03-2024,Lachtal,AUT,Ukraine,FIS Junior World Championships,Parallel Slalom,14,43.20
-17,Kabaliuk Mykhailo,Male,22-03-2024,Lachtal,AUT,Ukraine,Qualification,Parallel Giant Slalom,16,
-18,Kabaliuk Mykhailo,Male,22-03-2024,Lachtal,AUT,Ukraine,FIS Junior World Championships,Parallel Giant Slalom,16,36.00
-19,Kabaliuk Mykhailo,Male,13-03-2024,Davos/Rinerhorn ,SUI,Ukraine,European Cup,Parallel Giant Slalom,17,50.40
-20,Kabaliuk Mykhailo,Male,12-03-2024,Davos/Rinerhorn ,SUI,Ukraine,European Cup,Parallel Giant Slalom,26,18.00
-21,Kabaliuk Mykhailo,Male,10-03-2024,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,15,28.80
-22,Kabaliuk Mykhailo,Male,09-03-2024,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,11,43.20
-23,Kabaliuk Mykhailo,Male,14-02-2024,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,3,60.00
-24,Kabaliuk Mykhailo,Male,13-02-2024,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,2,80.00
-25,Kabaliuk Mykhailo,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Ukraine,FIS,Parallel Giant Slalom,19,19.20
-26,Kabaliuk Mykhailo,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Ukraine,FIS,Parallel Giant Slalom,35,2.60
-27,Kabaliuk Mykhailo,Male,24-01-2024,Pamporovo,BUL,Ukraine,European Cup,Parallel Slalom,DSQ,
-28,Kabaliuk Mykhailo,Male,23-01-2024,Pamporovo,BUL,Ukraine,European Cup,Parallel Slalom,11,52.80
-29,Kabaliuk Mykhailo,Male,22-12-2023,Moninec,CZE,Ukraine,Junior,Parallel Slalom,8,22.40
-30,Kabaliuk Mykhailo,Male,21-12-2023,Moninec,CZE,Ukraine,Junior,Parallel Slalom,5,45.00
-31,Kabaliuk Mykhailo,Male,20-12-2023,Moninec,CZE,Ukraine,European Cup,Parallel Slalom,DSQ,
-32,Kabaliuk Mykhailo,Male,19-12-2023,Moninec,CZE,Ukraine,European Cup,Parallel Slalom,41,4.00
-33,Kabaliuk Mykhailo,Male,10-12-2023,Götschen,GER,Ukraine,Junior,Parallel Slalom,22,11.70
-34,Kabaliuk Mykhailo,Male,26-03-2023,Bansko,BUL,Ukraine,FIS Junior World Championships,Parallel Team,7,
-35,Kabaliuk Mykhailo,Male,25-03-2023,Bansko,BUL,Ukraine,Qualification,Parallel Slalom,14,
-36,Kabaliuk Mykhailo,Male,25-03-2023,Bansko,BUL,Ukraine,FIS Junior World Championships,Parallel Slalom,16,36.00
-37,Kabaliuk Mykhailo,Male,24-03-2023,Bansko,BUL,Ukraine,Qualification,Parallel Giant Slalom,21,
-38,Kabaliuk Mykhailo,Male,24-03-2023,Gargellen,AUT,Ukraine,Junior,Snowboard Cross,DNS,
+0,Kabaliuk Mykhailo,Male,04-02-2025,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,2,
+1,Kabaliuk Mykhailo,Male,03-02-2025,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,3,
+2,Kabaliuk Mykhailo,Male,26-01-2025,Simonhöhe,AUT,Ukraine,European Cup,Parallel Giant Slalom,42,5.73
+3,Kabaliuk Mykhailo,Male,25-01-2025,Simonhöhe,AUT,Ukraine,European Cup,Parallel Giant Slalom,33,4.32
+4,Kabaliuk Mykhailo,Male,22-01-2025,Bardonecchia,ITA,Ukraine,Universiade,Parallel Slalom,13,52.00
+5,Kabaliuk Mykhailo,Male,21-01-2025,Bardonecchia,ITA,Ukraine,Universiade,Parallel Giant Slalom,8,83.20
+6,Kabaliuk Mykhailo,Male,11-01-2025,Folgaria,ITA,Ukraine,Qualification,Parallel Giant Slalom,33,
+7,Kabaliuk Mykhailo,Male,11-01-2025,Folgaria,ITA,Ukraine,European Cup,Parallel Giant Slalom,33,4.32
+8,Kabaliuk Mykhailo,Male,10-01-2025,Folgaria,ITA,Ukraine,European Cup,Parallel Giant Slalom,13,36.00
+9,Kabaliuk Mykhailo,Male,10-01-2025,Folgaria,ITA,Ukraine,Qualification,Parallel Giant Slalom,13,
+10,Kabaliuk Mykhailo,Male,22-12-2024,Moninec,CZE,Ukraine,FIS,Parallel Slalom,12,35.20
+11,Kabaliuk Mykhailo,Male,21-12-2024,Moninec,CZE,Ukraine,FIS,Parallel Slalom,13,32.00
+12,Kabaliuk Mykhailo,Male,20-12-2024,Moninec,CZE,Ukraine,European Cup,Parallel Slalom,16,27.00
+13,Kabaliuk Mykhailo,Male,19-12-2024,Moninec,CZE,Ukraine,European Cup,Parallel Slalom,21,20.00
+14,Kabaliuk Mykhailo,Male,15-12-2024,Götschen,GER,Ukraine,European Cup,Parallel Slalom,41,4.37
+15,Kabaliuk Mykhailo,Male,14-12-2024,Götschen,GER,Ukraine,European Cup,Parallel Slalom,26,8.00
+16,Kabaliuk Mykhailo,Male,24-03-2024,Lachtal,AUT,Ukraine,FIS Junior World Championships,Parallel Slalom Team,4,
+17,Kabaliuk Mykhailo,Male,23-03-2024,Lachtal,AUT,Ukraine,Qualification,Parallel Slalom,14,
+18,Kabaliuk Mykhailo,Male,23-03-2024,Lachtal,AUT,Ukraine,FIS Junior World Championships,Parallel Slalom,14,43.20
+19,Kabaliuk Mykhailo,Male,22-03-2024,Lachtal,AUT,Ukraine,FIS Junior World Championships,Parallel Giant Slalom,16,36.00
+20,Kabaliuk Mykhailo,Male,22-03-2024,Lachtal,AUT,Ukraine,Qualification,Parallel Giant Slalom,16,
+21,Kabaliuk Mykhailo,Male,13-03-2024,Davos/Rinerhorn ,SUI,Ukraine,European Cup,Parallel Giant Slalom,17,50.40
+22,Kabaliuk Mykhailo,Male,12-03-2024,Davos/Rinerhorn ,SUI,Ukraine,European Cup,Parallel Giant Slalom,26,18.00
+23,Kabaliuk Mykhailo,Male,10-03-2024,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,15,28.80
+24,Kabaliuk Mykhailo,Male,09-03-2024,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,11,43.20
+25,Kabaliuk Mykhailo,Male,14-02-2024,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,3,60.00
+26,Kabaliuk Mykhailo,Male,13-02-2024,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,2,80.00
+27,Kabaliuk Mykhailo,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Ukraine,FIS,Parallel Giant Slalom,19,19.20
+28,Kabaliuk Mykhailo,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Ukraine,FIS,Parallel Giant Slalom,35,2.60
+29,Kabaliuk Mykhailo,Male,24-01-2024,Pamporovo,BUL,Ukraine,European Cup,Parallel Slalom,DSQ,
+30,Kabaliuk Mykhailo,Male,23-01-2024,Pamporovo,BUL,Ukraine,European Cup,Parallel Slalom,11,52.80
+31,Kabaliuk Mykhailo,Male,22-12-2023,Moninec,CZE,Ukraine,Junior,Parallel Slalom,8,22.40
+32,Kabaliuk Mykhailo,Male,21-12-2023,Moninec,CZE,Ukraine,Junior,Parallel Slalom,5,45.00
+33,Kabaliuk Mykhailo,Male,20-12-2023,Moninec,CZE,Ukraine,European Cup,Parallel Slalom,DSQ,
+34,Kabaliuk Mykhailo,Male,19-12-2023,Moninec,CZE,Ukraine,European Cup,Parallel Slalom,41,4.00
+35,Kabaliuk Mykhailo,Male,10-12-2023,Götschen,GER,Ukraine,Junior,Parallel Slalom,22,11.70
+36,Kabaliuk Mykhailo,Male,26-03-2023,Bansko,BUL,Ukraine,FIS Junior World Championships,Parallel Team,7,
+37,Kabaliuk Mykhailo,Male,25-03-2023,Bansko,BUL,Ukraine,Qualification,Parallel Slalom,14,
+38,Kabaliuk Mykhailo,Male,25-03-2023,Bansko,BUL,Ukraine,FIS Junior World Championships,Parallel Slalom,16,36.00
 39,Kabaliuk Mykhailo,Male,24-03-2023,Bansko,BUL,Ukraine,FIS Junior World Championships,Parallel Giant Slalom,21,24.00
-40,Kabaliuk Mykhailo,Male,12-03-2023,Davos,SUI,Ukraine,European Cup,Parallel Slalom,26,11.00
-41,Kabaliuk Mykhailo,Male,11-03-2023,Davos,SUI,Ukraine,European Cup,Parallel Slalom,25,21.60
-42,Kabaliuk Mykhailo,Male,05-03-2023,Zakopane,POL,Ukraine,European Cup,Parallel Giant Slalom,34,7.04
-43,Kabaliuk Mykhailo,Male,04-03-2023,Zakopane,POL,Ukraine,European Cup,Parallel Giant Slalom,DNF,
-44,Kabaliuk Mykhailo,Male,14-02-2023,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,7,43.20
-45,Kabaliuk Mykhailo,Male,13-02-2023,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,5,54.00
-46,Kabaliuk Mykhailo,Male,05-02-2023,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,21,36.00
-47,Kabaliuk Mykhailo,Male,29-01-2023,Simonhöhe,AUT,Ukraine,Qualification,Parallel Giant Slalom,27,
-48,Kabaliuk Mykhailo,Male,29-01-2023,Simonhöhe,AUT,Ukraine,European Cup,Parallel Giant Slalom,27,8.10
-49,Kabaliuk Mykhailo,Male,28-01-2023,Simonhöhe,AUT,Ukraine,Qualification,Parallel Giant Slalom,23,
-50,Kabaliuk Mykhailo,Male,28-01-2023,Simonhöhe,AUT,Ukraine,European Cup,Parallel Giant Slalom,23,14.40
-51,Kabaliuk Mykhailo,Male,23-01-2023,Piancavallo,ITA,Ukraine,European Youth Olympic Festival,Parallel Giant Slalom,10,31.20
-52,Kabaliuk Mykhailo,Male,15-01-2023,Alleghe,ITA,Ukraine,Qualification,Parallel Slalom,29,
-53,Kabaliuk Mykhailo,Male,15-01-2023,Alleghe,ITA,Ukraine,European Cup,Parallel Slalom,29,5.76
-54,Kabaliuk Mykhailo,Male,14-01-2023,Alleghe,ITA,Ukraine,Qualification,Parallel Slalom,23,
-55,Kabaliuk Mykhailo,Male,14-01-2023,Alleghe,ITA,Ukraine,European Cup,Parallel Slalom,23,12.80
-56,Kabaliuk Mykhailo,Male,18-12-2022,Hochfügen,GER,Ukraine,European Cup,Parallel Giant Slalom,45,4.42
-57,Kabaliuk Mykhailo,Male,18-12-2022,Hochfügen,GER,Ukraine,Qualification,Parallel Giant Slalom,45,
-58,Kabaliuk Mykhailo,Male,17-12-2022,Hochfügen,GER,Ukraine,European Cup,Parallel Giant Slalom,37,3.49
-59,Kabaliuk Mykhailo,Male,01-04-2022,Chiesa in Valmalenco,ITA,Ukraine,FIS Junior World Championships,Parallel Slalom,41,4.37
-60,Kabaliuk Mykhailo,Male,31-03-2022,Chiesa in Valmalenco,ITA,Ukraine,FIS Junior World Championships,Parallel Giant Slalom,37,4.66
-61,Kabaliuk Mykhailo,Male,27-03-2022,Villach / Gerlitzen,AUT,Ukraine,National Championships,Parallel Slalom,20,31.90
-62,Kabaliuk Mykhailo,Male,26-03-2022,Villach / Gerlitzen,AUT,Ukraine,National Championships,Parallel Giant Slalom,22,26.10
-63,Kabaliuk Mykhailo,Male,23-01-2022,Bukovel,UKR,Ukraine,European Cup,Parallel Giant Slalom,23,20.80
-64,Kabaliuk Mykhailo,Male,22-01-2022,Bukovel,UKR,Ukraine,European Cup,Parallel Giant Slalom,36,5.12
-65,Kabaliuk Mykhailo,Male,20-01-2022,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,17,30.80
-66,Kabaliuk Mykhailo,Male,19-01-2022,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,19,28.80
-67,Kabaliuk Mykhailo,Male,15-01-2022,Goetschen,GER,Ukraine,Junior,Parallel Slalom,13,14.00
-68,Kabaliuk Mykhailo,Male,09-01-2022,Haus im Ennstal,AUT,Ukraine,Junior,Parallel Giant Slalom,10,26.00
-69,Kabaliuk Mykhailo,Male,08-01-2022,Haus im Ennstal,AUT,Ukraine,Junior,Parallel Giant Slalom,9,29.00
-70,Kabaliuk Mykhailo,Male,21-12-2021,Moninec,CZE,Ukraine,Junior,Parallel Slalom,7,18.00
-71,Kabaliuk Mykhailo,Male,20-12-2021,Moninec,CZE,Ukraine,Junior,Parallel Slalom,2,56.00
-72,Kabaliuk Mykhailo,Male,19-12-2021,Moninec,CZE,Ukraine,European Cup,Parallel Slalom,24,15.40
-73,Kabaliuk Mykhailo,Male,18-12-2021,Moninec,CZE,Ukraine,European Cup,Parallel Slalom,23,16.00
-74,Kabaliuk Mykhailo,Male,12-12-2021,Götschen,GER,Ukraine,European Cup,Parallel Slalom,27,9.90
-75,Kabaliuk Mykhailo,Male,11-12-2021,Götschen,GER,Ukraine,European Cup,Parallel Slalom,43,3.87
-76,Kabaliuk Mykhailo,Male,13-03-2021,Davos Rinerhorn,SUI,Ukraine,European Cup,Parallel Giant Slalom,46,6.01
-77,Kabaliuk Mykhailo,Male,09-03-2021,SUCHE/Zakopane,POL,Ukraine,National Championships,Parallel Slalom,25,17.40
-78,Kabaliuk Mykhailo,Male,08-03-2021,SUCHE/Zakopane,POL,Ukraine,National Championships,Parallel Giant Slalom,39,5.45
-79,Kabaliuk Mykhailo,Male,27-02-2021,Funes/Villnoesses,ITA,Ukraine,European Cup,Parallel Giant Slalom,34,7.04
-80,Kabaliuk Mykhailo,Male,07-02-2021,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,23,17.60
-81,Kabaliuk Mykhailo,Male,06-02-2021,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,19,26.40
-82,Kabaliuk Mykhailo,Male,26-01-2021,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,DSQ,
-83,Kabaliuk Mykhailo,Male,25-01-2021,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,18,16.90
-84,Kabaliuk Mykhailo,Male,17-01-2021,Simonhoehe,AUT,Ukraine,European Cup,Parallel Giant Slalom,52,5.36
-85,Kabaliuk Mykhailo,Male,16-01-2021,Simonhoehe,AUT,Ukraine,European Cup,Parallel Giant Slalom,55,
-86,Kabaliuk Mykhailo,Male,10-01-2021,Goetschen,GER,Ukraine,Junior,Parallel Slalom,25,6.00
-87,Kabaliuk Mykhailo,Male,09-01-2021,Goetschen,GER,Ukraine,Junior,Parallel Slalom,18,13.00
+40,Kabaliuk Mykhailo,Male,24-03-2023,Gargellen,AUT,Ukraine,Junior,Snowboard Cross,DNS,
+41,Kabaliuk Mykhailo,Male,24-03-2023,Bansko,BUL,Ukraine,Qualification,Parallel Giant Slalom,21,
+42,Kabaliuk Mykhailo,Male,12-03-2023,Davos,SUI,Ukraine,European Cup,Parallel Slalom,26,11.00
+43,Kabaliuk Mykhailo,Male,11-03-2023,Davos,SUI,Ukraine,European Cup,Parallel Slalom,25,21.60
+44,Kabaliuk Mykhailo,Male,05-03-2023,Zakopane,POL,Ukraine,European Cup,Parallel Giant Slalom,34,7.04
+45,Kabaliuk Mykhailo,Male,04-03-2023,Zakopane,POL,Ukraine,European Cup,Parallel Giant Slalom,DNF,
+46,Kabaliuk Mykhailo,Male,14-02-2023,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,7,43.20
+47,Kabaliuk Mykhailo,Male,13-02-2023,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,5,54.00
+48,Kabaliuk Mykhailo,Male,05-02-2023,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,21,36.00
+49,Kabaliuk Mykhailo,Male,29-01-2023,Simonhöhe,AUT,Ukraine,Qualification,Parallel Giant Slalom,27,
+50,Kabaliuk Mykhailo,Male,29-01-2023,Simonhöhe,AUT,Ukraine,European Cup,Parallel Giant Slalom,27,8.10
+51,Kabaliuk Mykhailo,Male,28-01-2023,Simonhöhe,AUT,Ukraine,Qualification,Parallel Giant Slalom,23,
+52,Kabaliuk Mykhailo,Male,28-01-2023,Simonhöhe,AUT,Ukraine,European Cup,Parallel Giant Slalom,23,14.40
+53,Kabaliuk Mykhailo,Male,23-01-2023,Piancavallo,ITA,Ukraine,European Youth Olympic Festival,Parallel Giant Slalom,10,31.20
+54,Kabaliuk Mykhailo,Male,15-01-2023,Alleghe,ITA,Ukraine,Qualification,Parallel Slalom,29,
+55,Kabaliuk Mykhailo,Male,15-01-2023,Alleghe,ITA,Ukraine,European Cup,Parallel Slalom,29,5.76
+56,Kabaliuk Mykhailo,Male,14-01-2023,Alleghe,ITA,Ukraine,Qualification,Parallel Slalom,23,
+57,Kabaliuk Mykhailo,Male,14-01-2023,Alleghe,ITA,Ukraine,European Cup,Parallel Slalom,23,12.80
+58,Kabaliuk Mykhailo,Male,18-12-2022,Hochfügen,GER,Ukraine,Qualification,Parallel Giant Slalom,45,
+59,Kabaliuk Mykhailo,Male,18-12-2022,Hochfügen,GER,Ukraine,European Cup,Parallel Giant Slalom,45,4.42
+60,Kabaliuk Mykhailo,Male,17-12-2022,Hochfügen,GER,Ukraine,European Cup,Parallel Giant Slalom,37,3.49
+61,Kabaliuk Mykhailo,Male,01-04-2022,Chiesa in Valmalenco,ITA,Ukraine,FIS Junior World Championships,Parallel Slalom,41,4.37
+62,Kabaliuk Mykhailo,Male,31-03-2022,Chiesa in Valmalenco,ITA,Ukraine,FIS Junior World Championships,Parallel Giant Slalom,37,4.66
+63,Kabaliuk Mykhailo,Male,27-03-2022,Villach / Gerlitzen,AUT,Ukraine,National Championships,Parallel Slalom,20,31.90
+64,Kabaliuk Mykhailo,Male,26-03-2022,Villach / Gerlitzen,AUT,Ukraine,National Championships,Parallel Giant Slalom,22,26.10
+65,Kabaliuk Mykhailo,Male,23-01-2022,Bukovel,UKR,Ukraine,European Cup,Parallel Giant Slalom,23,20.80
+66,Kabaliuk Mykhailo,Male,22-01-2022,Bukovel,UKR,Ukraine,European Cup,Parallel Giant Slalom,36,5.12
+67,Kabaliuk Mykhailo,Male,20-01-2022,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,17,30.80
+68,Kabaliuk Mykhailo,Male,19-01-2022,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,19,28.80
+69,Kabaliuk Mykhailo,Male,15-01-2022,Goetschen,GER,Ukraine,Junior,Parallel Slalom,13,14.00
+70,Kabaliuk Mykhailo,Male,09-01-2022,Haus im Ennstal,AUT,Ukraine,Junior,Parallel Giant Slalom,10,26.00
+71,Kabaliuk Mykhailo,Male,08-01-2022,Haus im Ennstal,AUT,Ukraine,Junior,Parallel Giant Slalom,9,29.00
+72,Kabaliuk Mykhailo,Male,21-12-2021,Moninec,CZE,Ukraine,Junior,Parallel Slalom,7,18.00
+73,Kabaliuk Mykhailo,Male,20-12-2021,Moninec,CZE,Ukraine,Junior,Parallel Slalom,2,56.00
+74,Kabaliuk Mykhailo,Male,19-12-2021,Moninec,CZE,Ukraine,European Cup,Parallel Slalom,24,15.40
+75,Kabaliuk Mykhailo,Male,18-12-2021,Moninec,CZE,Ukraine,European Cup,Parallel Slalom,23,16.00
+76,Kabaliuk Mykhailo,Male,12-12-2021,Götschen,GER,Ukraine,European Cup,Parallel Slalom,27,9.90
+77,Kabaliuk Mykhailo,Male,11-12-2021,Götschen,GER,Ukraine,European Cup,Parallel Slalom,43,3.87
+78,Kabaliuk Mykhailo,Male,13-03-2021,Davos Rinerhorn,SUI,Ukraine,European Cup,Parallel Giant Slalom,46,6.01
+79,Kabaliuk Mykhailo,Male,09-03-2021,SUCHE/Zakopane,POL,Ukraine,National Championships,Parallel Slalom,25,17.40
+80,Kabaliuk Mykhailo,Male,08-03-2021,SUCHE/Zakopane,POL,Ukraine,National Championships,Parallel Giant Slalom,39,5.45
+81,Kabaliuk Mykhailo,Male,27-02-2021,Funes/Villnoesses,ITA,Ukraine,European Cup,Parallel Giant Slalom,34,7.04
+82,Kabaliuk Mykhailo,Male,07-02-2021,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,23,17.60
+83,Kabaliuk Mykhailo,Male,06-02-2021,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,19,26.40
+84,Kabaliuk Mykhailo,Male,26-01-2021,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,DSQ,
+85,Kabaliuk Mykhailo,Male,25-01-2021,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,18,16.90
+86,Kabaliuk Mykhailo,Male,17-01-2021,Simonhoehe,AUT,Ukraine,European Cup,Parallel Giant Slalom,52,5.36
+87,Kabaliuk Mykhailo,Male,16-01-2021,Simonhoehe,AUT,Ukraine,European Cup,Parallel Giant Slalom,55,
+88,Kabaliuk Mykhailo,Male,10-01-2021,Goetschen,GER,Ukraine,Junior,Parallel Slalom,25,6.00
+89,Kabaliuk Mykhailo,Male,09-01-2021,Goetschen,GER,Ukraine,Junior,Parallel Slalom,18,13.00

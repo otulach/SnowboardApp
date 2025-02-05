@@ -1,110 +1,112 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Huliy Yevheniy,Male,14-02-2024,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,5,45.00
-1,Huliy Yevheniy,Male,13-02-2024,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,6,40.00
-2,Huliy Yevheniy,Male,14-02-2023,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,9,34.80
-3,Huliy Yevheniy,Male,13-02-2023,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,8,38.40
-4,Huliy Yevheniy,Male,20-01-2022,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,22,19.80
-5,Huliy Yevheniy,Male,19-01-2022,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,21,24.00
-6,Huliy Yevheniy,Male,16-01-2022,Dolni Morava,CZE,Ukraine,FIS,Parallel Giant Slalom,DNS,
-7,Huliy Yevheniy,Male,15-01-2022,Dolni Morava,CZE,Ukraine,FIS,Parallel Giant Slalom,9,31.90
-8,Huliy Yevheniy,Male,26-01-2021,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,10,33.80
-9,Huliy Yevheniy,Male,25-01-2021,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,13,26.00
-10,Huliy Yevheniy,Male,16-02-2020,Dolni Morava,CZE,Ukraine,FIS,Parallel Slalom,3,30.00
-11,Huliy Yevheniy,Male,15-02-2020,Dolni Morava,CZE,Ukraine,FIS,Parallel Giant Slalom,8,16.00
-12,Huliy Yevheniy,Male,04-02-2020,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,13,26.00
-13,Huliy Yevheniy,Male,03-02-2020,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,11,31.20
-14,Huliy Yevheniy,Male,24-03-2019,Paseky nad Jizerou,CZE,Ukraine,FIS,Parallel Slalom,12,24.20
-15,Huliy Yevheniy,Male,23-03-2019,Paseky nad Jizerou,CZE,Ukraine,FIS,Parallel Slalom,7,32.40
-16,Huliy Yevheniy,Male,14-03-2019,Osogovo,BUL,Ukraine,National Championships,Parallel Slalom,7,79.20
-17,Huliy Yevheniy,Male,13-03-2019,Osogovo,BUL,Ukraine,National Championships,Parallel Giant Slalom,7,79.20
-18,Huliy Yevheniy,Male,09-03-2019,Scuol,SUI,Ukraine,World Cup,Parallel GS,44,
-19,Huliy Yevheniy,Male,09-03-2019,Scuol,SUI,Ukraine,Qualification,Parallel Giant Slalom,44,
-20,Huliy Yevheniy,Male,28-02-2019,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,7,46.80
-21,Huliy Yevheniy,Male,27-02-2019,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,9,37.70
-22,Huliy Yevheniy,Male,05-02-2019,Park City,USA,Ukraine,World Championships,Parallel Slalom,DSQ,
-23,Huliy Yevheniy,Male,04-02-2019,Park City,USA,Ukraine,World Championships,Parallel Giant Slalom,48,
-24,Huliy Yevheniy,Male,19-01-2019,Rogla,SLO,Ukraine,World Cup,Parallel GS,59,
-25,Huliy Yevheniy,Male,19-01-2019,Rogla,SLO,Ukraine,Qualification,Parallel Giant Slalom,59,
-26,Huliy Yevheniy,Male,11-01-2019,Bad Gastein,AUT,Ukraine,European Cup,Parallel Slalom,50,
-27,Huliy Yevheniy,Male,10-01-2019,Bad Gastein,AUT,Ukraine,European Cup,Parallel Slalom,51,5.47
-28,Huliy Yevheniy,Male,09-01-2019,Bad Gastein,AUT,Ukraine,World Cup,Parallel Slalom Team,24,
-29,Huliy Yevheniy,Male,08-01-2019,Bad Gastein,AUT,Ukraine,World Cup,Parallel Slalom,54,
-30,Huliy Yevheniy,Male,08-01-2019,Bad Gastein,AUT,Ukraine,Qualification,Parallel Slalom,54,
-31,Huliy Yevheniy,Male,15-12-2018,Cortina d'Ampezzo,ITA,Ukraine,World Cup,Parallel GS,53,
-32,Huliy Yevheniy,Male,15-12-2018,Cortina d'Ampezzo,ITA,Ukraine,Qualification,Parallel Giant Slalom,53,
-33,Huliy Yevheniy,Male,13-12-2018,Carezza,ITA,Ukraine,World Cup,Parallel GS,53,
-34,Huliy Yevheniy,Male,13-12-2018,Carezza,ITA,Ukraine,Qualification,Parallel Giant Slalom,53,
-35,Huliy Yevheniy,Male,21-03-2018,Bansko,BUL,Ukraine,National Championships,Parallel Slalom,7,93.60
-36,Huliy Yevheniy,Male,20-03-2018,Bansko,BUL,Ukraine,National Championships,Parallel GS,6,104.00
-37,Huliy Yevheniy,Male,14-03-2018,Suche,POL,Ukraine,National Championships,Parallel Slalom,5,67.50
-38,Huliy Yevheniy,Male,13-03-2018,Suche,POL,Ukraine,National Championships,Parallel GS,6,60.00
-39,Huliy Yevheniy,Male,10-03-2018,Scuol,SUI,Ukraine,World Cup,Parallel GS,40,18.50
-40,Huliy Yevheniy,Male,10-03-2018,Scuol,SUI,Ukraine,Qualification,Parallel GS,40,
-41,Huliy Yevheniy,Male,08-03-2018,Carezza,ITA,Ukraine,National Championships,Parallel Slalom,24,20.30
-42,Huliy Yevheniy,Male,07-03-2018,Carezza,ITA,Ukraine,National Championships,Parallel GS,25,17.40
-43,Huliy Yevheniy,Male,18-02-2018,Vysna Boca,SVK,Ukraine,FIS,Parallel GS,4,60.00
-44,Huliy Yevheniy,Male,17-02-2018,Vysna Boca,SVK,Ukraine,FIS,Parallel Slalom,12,26.40
-45,Huliy Yevheniy,Male,06-02-2018,Bukovytsya,UKR,Ukraine,National Championships,Parallel Slalom,8,32.00
-46,Huliy Yevheniy,Male,05-02-2018,Bukovytsya,UKR,Ukraine,National Championships,Parallel GS,7,36.00
-47,Huliy Yevheniy,Male,21-01-2018,Dolni Morava,CZE,Ukraine,FIS,Parallel Slalom,2,40.00
-48,Huliy Yevheniy,Male,20-01-2018,Dolni Morava,CZE,Ukraine,FIS,Parallel GS,1,50.00
-49,Huliy Yevheniy,Male,07-01-2018,Pec pod Snezkou,CZE,Ukraine,FIS,Parallel Slalom,5,31.50
-50,Huliy Yevheniy,Male,06-01-2018,Pec pod Snezkou,CZE,Ukraine,FIS,Parallel GS,4,35.00
-51,Huliy Yevheniy,Male,31-03-2017,Pamporovo,BUL,Ukraine,National Championships,Parallel Slalom,6,104.00
-52,Huliy Yevheniy,Male,30-03-2017,Pamporovo,BUL,Ukraine,National Championships,Parallel GS,5,117.00
-53,Huliy Yevheniy,Male,21-03-2017,Kopaonik,SRB,Ukraine,National Championships,Slalom,2,40.00
-54,Huliy Yevheniy,Male,20-03-2017,Kopaonik,SRB,Ukraine,National Championships,Giant Slalom,1,50.00
-55,Huliy Yevheniy,Male,18-03-2017,Radstadt,AUT,Ukraine,European Cup,Parallel Slalom,33,5.28
-56,Huliy Yevheniy,Male,17-03-2017,Radstadt,AUT,Ukraine,European Cup,Parallel Slalom,22,19.80
-57,Huliy Yevheniy,Male,12-03-2017,Tauplitz,AUT,Ukraine,FIS,Parallel Slalom,28,8.80
-58,Huliy Yevheniy,Male,11-03-2017,Tauplitz,AUT,Ukraine,FIS,Parallel Slalom,29,7.92
-59,Huliy Yevheniy,Male,05-03-2017,Herlikovice,CZE,Ukraine,FIS,Parallel Slalom,7,18.00
-60,Huliy Yevheniy,Male,04-03-2017,Herlikovice,CZE,Ukraine,FIS,Parallel GS,6,20.00
-61,Huliy Yevheniy,Male,31-01-2017,Shymbulak Ski Resort,KAZ,Ukraine,Universiade,Parallel Slalom,13,30.00
-62,Huliy Yevheniy,Male,30-01-2017,Shymbulak Ski Resort,KAZ,Ukraine,Universiade,Parallel GS,14,27.00
-63,Huliy Yevheniy,Male,15-01-2017,Hochficht,AUT,Ukraine,National Championships,Parallel Slalom,37,5.63
-64,Huliy Yevheniy,Male,14-01-2017,Hochficht,AUT,Ukraine,National Championships,Parallel GS,41,5.28
-65,Huliy Yevheniy,Male,08-01-2017,Dolni Morava,CZE,Ukraine,FIS,Parallel Slalom,11,12.00
-66,Huliy Yevheniy,Male,07-01-2017,Dolni Morava,CZE,Ukraine,FIS,Parallel GS,10,13.00
-67,Huliy Yevheniy,Male,11-12-2016,Hochfügen,GER,Ukraine,European Cup,Parallel GS,65,
-68,Huliy Yevheniy,Male,10-12-2016,Hochfügen,GER,Ukraine,European Cup,Parallel GS,57,4.82
-69,Huliy Yevheniy,Male,03-04-2016,Rogla,SLO,Ukraine,FIS Junior World Championships,Parallel Slalom,21,36.00
-70,Huliy Yevheniy,Male,02-04-2016,Rogla,SLO,Ukraine,FIS Junior World Championships,Parallel GS,39,6.77
-71,Huliy Yevheniy,Male,04-03-2016,Krasiya,UKR,Ukraine,National Championships,Slalom,5,31.50
-72,Huliy Yevheniy,Male,03-03-2016,Krasiya,UKR,Ukraine,National Championships,Giant Slalom,6,28.00
-73,Huliy Yevheniy,Male,28-02-2016,Falkert,AUT,Ukraine,FIS,Giant Slalom,17,30.80
-74,Huliy Yevheniy,Male,27-02-2016,Falkert,AUT,Ukraine,FIS,Giant Slalom,19,26.40
-75,Huliy Yevheniy,Male,21-02-2016,Klinovec,CZE,Ukraine,FIS,Parallel Slalom,3,30.00
-76,Huliy Yevheniy,Male,20-02-2016,Klinovec,CZE,Ukraine,FIS,Parallel GS,5,22.50
-77,Huliy Yevheniy,Male,17-01-2016,Kreischberg,AUT,Ukraine,FIS,Parallel GS,57,3.48
-78,Huliy Yevheniy,Male,16-01-2016,Kreischberg,AUT,Ukraine,FIS,Parallel GS,40,4.81
-79,Huliy Yevheniy,Male,06-12-2015,Hochfuegen,GER,Ukraine,European Cup,Parallel GS,67,0.00
-80,Huliy Yevheniy,Male,05-12-2015,Hochfuegen,GER,Ukraine,European Cup,Parallel GS,62,5.95
-81,Huliy Yevheniy,Male,11-03-2015,Yabuli,CHN,Ukraine,FIS Junior World Championships,Parallel Slalom,23,28.80
-82,Huliy Yevheniy,Male,10-03-2015,Yabuli,CHN,Ukraine,FIS Junior World Championships,Parallel GS,25,21.60
-83,Huliy Yevheniy,Male,28-02-2015,Krasiya,UKR,Ukraine,National Championships,Parallel Slalom,7,32.40
-84,Huliy Yevheniy,Male,27-02-2015,Krasiya,UKR,Ukraine,National Championships,Giant Slalom,11,21.60
-85,Huliy Yevheniy,Male,10-02-2015,Sierra Nevada,ESP,Ukraine,Universiade,Parallel GS,23,28.80
-86,Huliy Yevheniy,Male,06-01-2015,Dachstein West / Gosau,AUT,Ukraine,FIS,Parallel Slalom,42,4.65
-87,Huliy Yevheniy,Male,05-01-2015,Dachstein West / Gosau,AUT,Ukraine,FIS,Parallel Slalom,46,4.34
-88,Huliy Yevheniy,Male,25-03-2014,Chiesa in Valmalenco,ITA,Ukraine,FIS Junior World Championships,Parallel Slalom,34,7.92
-89,Huliy Yevheniy,Male,24-03-2014,Chiesa in Valmalenco,ITA,Ukraine,FIS Junior World Championships,Parallel GS,37,6.98
-90,Huliy Yevheniy,Male,22-12-2013,Schönberg-Lachtal,AUT,Ukraine,European Cup,Parallel Slalom,60,0.00
-91,Huliy Yevheniy,Male,21-12-2013,Schönberg-Lachtal,AUT,Ukraine,European Cup,Parallel Slalom,68,0.00
-92,Huliy Yevheniy,Male,08-12-2013,Hochfügen,AUT,Ukraine,European Cup,Parallel GS,78,0.00
-93,Huliy Yevheniy,Male,07-12-2013,Hochfügen,AUT,Ukraine,European Cup,Parallel GS,84,0.00
-94,Huliy Yevheniy,Male,28-02-2013,Krasiya,UKR,Ukraine,National Championships,Parallel Slalom,19,14.40
-95,Huliy Yevheniy,Male,27-02-2013,Krasiya,UKR,Ukraine,National Championships,Parallel GS,32,3.90
-96,Huliy Yevheniy,Male,21-02-2013,Predeal,ROU,Ukraine,European Youth Olympic Festival,Parallel GS,13,10.00
-97,Huliy Yevheniy,Male,20-01-2013,Vratna - Paseky,SVK,Ukraine,European Cup,Parallel GS,49,5.06
-98,Huliy Yevheniy,Male,19-01-2013,Vratna - Paseky,SVK,Ukraine,European Cup,Parallel GS,50,4.96
-99,Huliy Yevheniy,Male,23-12-2012,Radstadt,AUT,Ukraine,FIS,Giant Slalom,41,4.73
-100,Huliy Yevheniy,Male,22-12-2012,Radstadt,AUT,Ukraine,FIS,Giant Slalom,38,4.97
-101,Huliy Yevheniy,Male,09-12-2012,Lachtal,AUT,Ukraine,European Cup,Parallel GS,DSQ,
-102,Huliy Yevheniy,Male,08-12-2012,Lachtal,AUT,Ukraine,European Cup,Parallel GS,93,0.00
-103,Huliy Yevheniy,Male,08-02-2012,Krasiya,UKR,Ukraine,FIS,Parallel GS,24,4.90
-104,Huliy Yevheniy,Male,07-02-2012,Krasiya,UKR,Ukraine,National Championships,Parallel GS,21,7.00
-105,Huliy Yevheniy,Male,15-01-2012,Vratna,SVK,Ukraine,European Cup,Giant Slalom,58,3.41
-106,Huliy Yevheniy,Male,14-01-2012,Vratna,SVK,Ukraine,European Cup,Parallel GS,64,0.00
-107,Huliy Yevheniy,Male,08-01-2012,Kreischberg,AUT,Ukraine,FIS,Parallel GS,94,0.00
-108,Huliy Yevheniy,Male,07-01-2012,Kreischberg,AUT,Ukraine,FIS,Parallel GS,92,0.00
+0,Huliy Yevheniy,Male,04-02-2025,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,7,
+1,Huliy Yevheniy,Male,03-02-2025,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,8,
+2,Huliy Yevheniy,Male,14-02-2024,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,5,45.00
+3,Huliy Yevheniy,Male,13-02-2024,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,6,40.00
+4,Huliy Yevheniy,Male,14-02-2023,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,9,34.80
+5,Huliy Yevheniy,Male,13-02-2023,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,8,38.40
+6,Huliy Yevheniy,Male,20-01-2022,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,22,19.80
+7,Huliy Yevheniy,Male,19-01-2022,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,21,24.00
+8,Huliy Yevheniy,Male,16-01-2022,Dolni Morava,CZE,Ukraine,FIS,Parallel Giant Slalom,DNS,
+9,Huliy Yevheniy,Male,15-01-2022,Dolni Morava,CZE,Ukraine,FIS,Parallel Giant Slalom,9,31.90
+10,Huliy Yevheniy,Male,26-01-2021,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,10,33.80
+11,Huliy Yevheniy,Male,25-01-2021,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,13,26.00
+12,Huliy Yevheniy,Male,16-02-2020,Dolni Morava,CZE,Ukraine,FIS,Parallel Slalom,3,30.00
+13,Huliy Yevheniy,Male,15-02-2020,Dolni Morava,CZE,Ukraine,FIS,Parallel Giant Slalom,8,16.00
+14,Huliy Yevheniy,Male,04-02-2020,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,13,26.00
+15,Huliy Yevheniy,Male,03-02-2020,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,11,31.20
+16,Huliy Yevheniy,Male,24-03-2019,Paseky nad Jizerou,CZE,Ukraine,FIS,Parallel Slalom,12,24.20
+17,Huliy Yevheniy,Male,23-03-2019,Paseky nad Jizerou,CZE,Ukraine,FIS,Parallel Slalom,7,32.40
+18,Huliy Yevheniy,Male,14-03-2019,Osogovo,BUL,Ukraine,National Championships,Parallel Slalom,7,79.20
+19,Huliy Yevheniy,Male,13-03-2019,Osogovo,BUL,Ukraine,National Championships,Parallel Giant Slalom,7,79.20
+20,Huliy Yevheniy,Male,09-03-2019,Scuol,SUI,Ukraine,World Cup,Parallel GS,44,
+21,Huliy Yevheniy,Male,09-03-2019,Scuol,SUI,Ukraine,Qualification,Parallel Giant Slalom,44,
+22,Huliy Yevheniy,Male,28-02-2019,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,7,46.80
+23,Huliy Yevheniy,Male,27-02-2019,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,9,37.70
+24,Huliy Yevheniy,Male,05-02-2019,Park City,USA,Ukraine,World Championships,Parallel Slalom,DSQ,
+25,Huliy Yevheniy,Male,04-02-2019,Park City,USA,Ukraine,World Championships,Parallel Giant Slalom,48,
+26,Huliy Yevheniy,Male,19-01-2019,Rogla,SLO,Ukraine,World Cup,Parallel GS,59,
+27,Huliy Yevheniy,Male,19-01-2019,Rogla,SLO,Ukraine,Qualification,Parallel Giant Slalom,59,
+28,Huliy Yevheniy,Male,11-01-2019,Bad Gastein,AUT,Ukraine,European Cup,Parallel Slalom,50,
+29,Huliy Yevheniy,Male,10-01-2019,Bad Gastein,AUT,Ukraine,European Cup,Parallel Slalom,51,5.47
+30,Huliy Yevheniy,Male,09-01-2019,Bad Gastein,AUT,Ukraine,World Cup,Parallel Slalom Team,24,
+31,Huliy Yevheniy,Male,08-01-2019,Bad Gastein,AUT,Ukraine,World Cup,Parallel Slalom,54,
+32,Huliy Yevheniy,Male,08-01-2019,Bad Gastein,AUT,Ukraine,Qualification,Parallel Slalom,54,
+33,Huliy Yevheniy,Male,15-12-2018,Cortina d'Ampezzo,ITA,Ukraine,World Cup,Parallel GS,53,
+34,Huliy Yevheniy,Male,15-12-2018,Cortina d'Ampezzo,ITA,Ukraine,Qualification,Parallel Giant Slalom,53,
+35,Huliy Yevheniy,Male,13-12-2018,Carezza,ITA,Ukraine,World Cup,Parallel GS,53,
+36,Huliy Yevheniy,Male,13-12-2018,Carezza,ITA,Ukraine,Qualification,Parallel Giant Slalom,53,
+37,Huliy Yevheniy,Male,21-03-2018,Bansko,BUL,Ukraine,National Championships,Parallel Slalom,7,93.60
+38,Huliy Yevheniy,Male,20-03-2018,Bansko,BUL,Ukraine,National Championships,Parallel GS,6,104.00
+39,Huliy Yevheniy,Male,14-03-2018,Suche,POL,Ukraine,National Championships,Parallel Slalom,5,67.50
+40,Huliy Yevheniy,Male,13-03-2018,Suche,POL,Ukraine,National Championships,Parallel GS,6,60.00
+41,Huliy Yevheniy,Male,10-03-2018,Scuol,SUI,Ukraine,World Cup,Parallel GS,40,18.50
+42,Huliy Yevheniy,Male,10-03-2018,Scuol,SUI,Ukraine,Qualification,Parallel GS,40,
+43,Huliy Yevheniy,Male,08-03-2018,Carezza,ITA,Ukraine,National Championships,Parallel Slalom,24,20.30
+44,Huliy Yevheniy,Male,07-03-2018,Carezza,ITA,Ukraine,National Championships,Parallel GS,25,17.40
+45,Huliy Yevheniy,Male,18-02-2018,Vysna Boca,SVK,Ukraine,FIS,Parallel GS,4,60.00
+46,Huliy Yevheniy,Male,17-02-2018,Vysna Boca,SVK,Ukraine,FIS,Parallel Slalom,12,26.40
+47,Huliy Yevheniy,Male,06-02-2018,Bukovytsya,UKR,Ukraine,National Championships,Parallel Slalom,8,32.00
+48,Huliy Yevheniy,Male,05-02-2018,Bukovytsya,UKR,Ukraine,National Championships,Parallel GS,7,36.00
+49,Huliy Yevheniy,Male,21-01-2018,Dolni Morava,CZE,Ukraine,FIS,Parallel Slalom,2,40.00
+50,Huliy Yevheniy,Male,20-01-2018,Dolni Morava,CZE,Ukraine,FIS,Parallel GS,1,50.00
+51,Huliy Yevheniy,Male,07-01-2018,Pec pod Snezkou,CZE,Ukraine,FIS,Parallel Slalom,5,31.50
+52,Huliy Yevheniy,Male,06-01-2018,Pec pod Snezkou,CZE,Ukraine,FIS,Parallel GS,4,35.00
+53,Huliy Yevheniy,Male,31-03-2017,Pamporovo,BUL,Ukraine,National Championships,Parallel Slalom,6,104.00
+54,Huliy Yevheniy,Male,30-03-2017,Pamporovo,BUL,Ukraine,National Championships,Parallel GS,5,117.00
+55,Huliy Yevheniy,Male,21-03-2017,Kopaonik,SRB,Ukraine,National Championships,Slalom,2,40.00
+56,Huliy Yevheniy,Male,20-03-2017,Kopaonik,SRB,Ukraine,National Championships,Giant Slalom,1,50.00
+57,Huliy Yevheniy,Male,18-03-2017,Radstadt,AUT,Ukraine,European Cup,Parallel Slalom,33,5.28
+58,Huliy Yevheniy,Male,17-03-2017,Radstadt,AUT,Ukraine,European Cup,Parallel Slalom,22,19.80
+59,Huliy Yevheniy,Male,12-03-2017,Tauplitz,AUT,Ukraine,FIS,Parallel Slalom,28,8.80
+60,Huliy Yevheniy,Male,11-03-2017,Tauplitz,AUT,Ukraine,FIS,Parallel Slalom,29,7.92
+61,Huliy Yevheniy,Male,05-03-2017,Herlikovice,CZE,Ukraine,FIS,Parallel Slalom,7,18.00
+62,Huliy Yevheniy,Male,04-03-2017,Herlikovice,CZE,Ukraine,FIS,Parallel GS,6,20.00
+63,Huliy Yevheniy,Male,31-01-2017,Shymbulak Ski Resort,KAZ,Ukraine,Universiade,Parallel Slalom,13,30.00
+64,Huliy Yevheniy,Male,30-01-2017,Shymbulak Ski Resort,KAZ,Ukraine,Universiade,Parallel GS,14,27.00
+65,Huliy Yevheniy,Male,15-01-2017,Hochficht,AUT,Ukraine,National Championships,Parallel Slalom,37,5.63
+66,Huliy Yevheniy,Male,14-01-2017,Hochficht,AUT,Ukraine,National Championships,Parallel GS,41,5.28
+67,Huliy Yevheniy,Male,08-01-2017,Dolni Morava,CZE,Ukraine,FIS,Parallel Slalom,11,12.00
+68,Huliy Yevheniy,Male,07-01-2017,Dolni Morava,CZE,Ukraine,FIS,Parallel GS,10,13.00
+69,Huliy Yevheniy,Male,11-12-2016,Hochfügen,GER,Ukraine,European Cup,Parallel GS,65,
+70,Huliy Yevheniy,Male,10-12-2016,Hochfügen,GER,Ukraine,European Cup,Parallel GS,57,4.82
+71,Huliy Yevheniy,Male,03-04-2016,Rogla,SLO,Ukraine,FIS Junior World Championships,Parallel Slalom,21,36.00
+72,Huliy Yevheniy,Male,02-04-2016,Rogla,SLO,Ukraine,FIS Junior World Championships,Parallel GS,39,6.77
+73,Huliy Yevheniy,Male,04-03-2016,Krasiya,UKR,Ukraine,National Championships,Slalom,5,31.50
+74,Huliy Yevheniy,Male,03-03-2016,Krasiya,UKR,Ukraine,National Championships,Giant Slalom,6,28.00
+75,Huliy Yevheniy,Male,28-02-2016,Falkert,AUT,Ukraine,FIS,Giant Slalom,17,30.80
+76,Huliy Yevheniy,Male,27-02-2016,Falkert,AUT,Ukraine,FIS,Giant Slalom,19,26.40
+77,Huliy Yevheniy,Male,21-02-2016,Klinovec,CZE,Ukraine,FIS,Parallel Slalom,3,30.00
+78,Huliy Yevheniy,Male,20-02-2016,Klinovec,CZE,Ukraine,FIS,Parallel GS,5,22.50
+79,Huliy Yevheniy,Male,17-01-2016,Kreischberg,AUT,Ukraine,FIS,Parallel GS,57,3.48
+80,Huliy Yevheniy,Male,16-01-2016,Kreischberg,AUT,Ukraine,FIS,Parallel GS,40,4.81
+81,Huliy Yevheniy,Male,06-12-2015,Hochfuegen,GER,Ukraine,European Cup,Parallel GS,67,0.00
+82,Huliy Yevheniy,Male,05-12-2015,Hochfuegen,GER,Ukraine,European Cup,Parallel GS,62,5.95
+83,Huliy Yevheniy,Male,11-03-2015,Yabuli,CHN,Ukraine,FIS Junior World Championships,Parallel Slalom,23,28.80
+84,Huliy Yevheniy,Male,10-03-2015,Yabuli,CHN,Ukraine,FIS Junior World Championships,Parallel GS,25,21.60
+85,Huliy Yevheniy,Male,28-02-2015,Krasiya,UKR,Ukraine,National Championships,Parallel Slalom,7,32.40
+86,Huliy Yevheniy,Male,27-02-2015,Krasiya,UKR,Ukraine,National Championships,Giant Slalom,11,21.60
+87,Huliy Yevheniy,Male,10-02-2015,Sierra Nevada,ESP,Ukraine,Universiade,Parallel GS,23,28.80
+88,Huliy Yevheniy,Male,06-01-2015,Dachstein West / Gosau,AUT,Ukraine,FIS,Parallel Slalom,42,4.65
+89,Huliy Yevheniy,Male,05-01-2015,Dachstein West / Gosau,AUT,Ukraine,FIS,Parallel Slalom,46,4.34
+90,Huliy Yevheniy,Male,25-03-2014,Chiesa in Valmalenco,ITA,Ukraine,FIS Junior World Championships,Parallel Slalom,34,7.92
+91,Huliy Yevheniy,Male,24-03-2014,Chiesa in Valmalenco,ITA,Ukraine,FIS Junior World Championships,Parallel GS,37,6.98
+92,Huliy Yevheniy,Male,22-12-2013,Schönberg-Lachtal,AUT,Ukraine,European Cup,Parallel Slalom,60,0.00
+93,Huliy Yevheniy,Male,21-12-2013,Schönberg-Lachtal,AUT,Ukraine,European Cup,Parallel Slalom,68,0.00
+94,Huliy Yevheniy,Male,08-12-2013,Hochfügen,AUT,Ukraine,European Cup,Parallel GS,78,0.00
+95,Huliy Yevheniy,Male,07-12-2013,Hochfügen,AUT,Ukraine,European Cup,Parallel GS,84,0.00
+96,Huliy Yevheniy,Male,28-02-2013,Krasiya,UKR,Ukraine,National Championships,Parallel Slalom,19,14.40
+97,Huliy Yevheniy,Male,27-02-2013,Krasiya,UKR,Ukraine,National Championships,Parallel GS,32,3.90
+98,Huliy Yevheniy,Male,21-02-2013,Predeal,ROU,Ukraine,European Youth Olympic Festival,Parallel GS,13,10.00
+99,Huliy Yevheniy,Male,20-01-2013,Vratna - Paseky,SVK,Ukraine,European Cup,Parallel GS,49,5.06
+100,Huliy Yevheniy,Male,19-01-2013,Vratna - Paseky,SVK,Ukraine,European Cup,Parallel GS,50,4.96
+101,Huliy Yevheniy,Male,23-12-2012,Radstadt,AUT,Ukraine,FIS,Giant Slalom,41,4.73
+102,Huliy Yevheniy,Male,22-12-2012,Radstadt,AUT,Ukraine,FIS,Giant Slalom,38,4.97
+103,Huliy Yevheniy,Male,09-12-2012,Lachtal,AUT,Ukraine,European Cup,Parallel GS,DSQ,
+104,Huliy Yevheniy,Male,08-12-2012,Lachtal,AUT,Ukraine,European Cup,Parallel GS,93,0.00
+105,Huliy Yevheniy,Male,08-02-2012,Krasiya,UKR,Ukraine,FIS,Parallel GS,24,4.90
+106,Huliy Yevheniy,Male,07-02-2012,Krasiya,UKR,Ukraine,National Championships,Parallel GS,21,7.00
+107,Huliy Yevheniy,Male,15-01-2012,Vratna,SVK,Ukraine,European Cup,Giant Slalom,58,3.41
+108,Huliy Yevheniy,Male,14-01-2012,Vratna,SVK,Ukraine,European Cup,Parallel GS,64,0.00
+109,Huliy Yevheniy,Male,08-01-2012,Kreischberg,AUT,Ukraine,FIS,Parallel GS,94,0.00
+110,Huliy Yevheniy,Male,07-01-2012,Kreischberg,AUT,Ukraine,FIS,Parallel GS,92,0.00

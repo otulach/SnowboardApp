@@ -1,35 +1,39 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Ahmad Zubair,Male,01-02-2025,Stara Planina,SRB,India,FIS,Slalom,6,
-1,Ahmad Zubair,Male,01-02-2025,Stara Planina,SRB,India,FIS,Slalom,2,
-2,Ahmad Zubair,Male,16-01-2025,Kopaonik,SRB,India,FIS,Slalom,2,40.00
-3,Ahmad Zubair,Male,15-01-2025,Kopaonik,SRB,India,FIS,Giant Slalom,2,40.00
-4,Ahmad Zubair,Male,12-01-2025,Nova Levante - Welschnofen,ITA,India,FIS,Parallel Giant Slalom,25,9.00
-5,Ahmad Zubair,Male,11-01-2025,Folgaria,ITA,India,Qualification,Parallel Giant Slalom,35,
-6,Ahmad Zubair,Male,11-01-2025,Folgaria,ITA,India,European Cup,Parallel Giant Slalom,35,3.60
-7,Ahmad Zubair,Male,10-01-2025,Folgaria,ITA,India,Qualification,Parallel Giant Slalom,25,
-8,Ahmad Zubair,Male,10-01-2025,Folgaria,ITA,India,European Cup,Parallel Giant Slalom,25,10.80
-9,Ahmad Zubair,Male,22-12-2024,Moninec,CZE,India,FIS,Parallel Slalom,26,8.00
-10,Ahmad Zubair,Male,21-12-2024,Moninec,CZE,India,FIS,Parallel Slalom,45,2.72
-11,Ahmad Zubair,Male,20-12-2024,Moninec,CZE,India,European Cup,Parallel Slalom,51,
-12,Ahmad Zubair,Male,19-12-2024,Moninec,CZE,India,European Cup,Parallel Slalom,DNF,
-13,Ahmad Zubair,Male,02-04-2024,"Copper Mountain, CO",USA,India,National Championships,Parallel Slalom,21,23.40
-14,Ahmad Zubair,Male,01-04-2024,"Copper Mountain, CO",USA,India,National Championships,Parallel Giant Slalom,19,28.60
-15,Ahmad Zubair,Male,27-02-2024,"Holiday Valley Resort, NY",USA,India,Nor-Am Cup,Parallel Giant Slalom,17,22.40
-16,Ahmad Zubair,Male,26-02-2024,"Holiday Valley Resort, NY",USA,India,Nor-Am Cup,Parallel Giant Slalom,21,14.40
-17,Ahmad Zubair,Male,10-02-2024,"Alpine Ski Club,",CAN,India,Nor-Am Cup,Parallel Giant Slalom,30,
-18,Ahmad Zubair,Male,09-02-2024,"Alpine Ski Club,",CAN,India,Nor-Am Cup,Parallel Slalom,27,
-19,Ahmad Zubair,Male,06-02-2024,Val Saint Come,CAN,India,Nor-Am Cup,Parallel Giant Slalom,31,8.32
-20,Ahmad Zubair,Male,05-02-2024,Val Saint Come,CAN,India,Nor-Am Cup,Parallel Giant Slalom,30,10.24
-21,Ahmad Zubair,Male,12-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,India,Nor-Am Cup,Parallel Slalom,20,
-22,Ahmad Zubair,Male,11-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,India,Nor-Am Cup,Parallel Giant Slalom,13,28.80
-23,Ahmad Zubair,Male,10-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,India,FIS,Giant Slalom,12,20.00
-24,Ahmad Zubair,Male,05-01-2024,Afton Alps Ski Area,USA,India,Nor-Am Cup,Parallel Slalom,17,20.80
-25,Ahmad Zubair,Male,05-01-2024,Afton Alps Ski Area,USA,India,FIS,Parallel Slalom,7,28.80
-26,Ahmad Zubair,Male,04-01-2024,Afton Alps Ski Area,USA,India,Nor-Am Cup,Parallel Slalom,16,22.40
-27,Ahmad Zubair,Male,28-02-2023,"Holiday Valley Resort, NY",USA,India,Nor-Am Cup,Parallel Giant Slalom,14,28.80
-28,Ahmad Zubair,Male,27-02-2023,"Holiday Valley Resort, NY",USA,India,Nor-Am Cup,Parallel Giant Slalom,18,20.80
-29,Ahmad Zubair,Male,19-02-2023,Giants Ridge Recreation Area,USA,India,Nor-Am Cup,Parallel Slalom,20,
-30,Ahmad Zubair,Male,18-02-2023,Giants Ridge Recreation Area,USA,India,Nor-Am Cup,Parallel Giant Slalom,21,
-31,Ahmad Zubair,Male,14-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,India,FIS,Parallel Giant Slalom,25,7.20
-32,Ahmad Zubair,Male,13-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,India,Nor-Am Cup,Parallel Slalom,20,17.60
-33,Ahmad Zubair,Male,12-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,India,Nor-Am Cup,Parallel Giant Slalom,28,
+0,Ahmad Zubair,Male,04-02-2025,Popova Sapka,MKD,India,National Championships,Giant Slalom,3,
+1,Ahmad Zubair,Male,04-02-2025,Popova Sapka,MKD,India,National Championships,Giant Slalom,5,
+2,Ahmad Zubair,Male,02-02-2025,Stara Planina,SRB,India,FIS,Giant Slalom,2,40.00
+3,Ahmad Zubair,Male,02-02-2025,Stara Planina,SRB,India,FIS,Giant Slalom,4,25.00
+4,Ahmad Zubair,Male,01-02-2025,Stara Planina,SRB,India,FIS,Slalom,6,20.00
+5,Ahmad Zubair,Male,01-02-2025,Stara Planina,SRB,India,FIS,Slalom,2,40.00
+6,Ahmad Zubair,Male,16-01-2025,Kopaonik,SRB,India,FIS,Slalom,2,40.00
+7,Ahmad Zubair,Male,15-01-2025,Kopaonik,SRB,India,FIS,Giant Slalom,2,40.00
+8,Ahmad Zubair,Male,12-01-2025,Nova Levante - Welschnofen,ITA,India,FIS,Parallel Giant Slalom,25,9.00
+9,Ahmad Zubair,Male,11-01-2025,Folgaria,ITA,India,Qualification,Parallel Giant Slalom,35,
+10,Ahmad Zubair,Male,11-01-2025,Folgaria,ITA,India,European Cup,Parallel Giant Slalom,35,3.60
+11,Ahmad Zubair,Male,10-01-2025,Folgaria,ITA,India,European Cup,Parallel Giant Slalom,25,10.80
+12,Ahmad Zubair,Male,10-01-2025,Folgaria,ITA,India,Qualification,Parallel Giant Slalom,25,
+13,Ahmad Zubair,Male,22-12-2024,Moninec,CZE,India,FIS,Parallel Slalom,26,8.00
+14,Ahmad Zubair,Male,21-12-2024,Moninec,CZE,India,FIS,Parallel Slalom,45,2.72
+15,Ahmad Zubair,Male,20-12-2024,Moninec,CZE,India,European Cup,Parallel Slalom,51,
+16,Ahmad Zubair,Male,19-12-2024,Moninec,CZE,India,European Cup,Parallel Slalom,DNF,
+17,Ahmad Zubair,Male,02-04-2024,"Copper Mountain, CO",USA,India,National Championships,Parallel Slalom,21,23.40
+18,Ahmad Zubair,Male,01-04-2024,"Copper Mountain, CO",USA,India,National Championships,Parallel Giant Slalom,19,28.60
+19,Ahmad Zubair,Male,27-02-2024,"Holiday Valley Resort, NY",USA,India,Nor-Am Cup,Parallel Giant Slalom,17,22.40
+20,Ahmad Zubair,Male,26-02-2024,"Holiday Valley Resort, NY",USA,India,Nor-Am Cup,Parallel Giant Slalom,21,14.40
+21,Ahmad Zubair,Male,10-02-2024,"Alpine Ski Club,",CAN,India,Nor-Am Cup,Parallel Giant Slalom,30,
+22,Ahmad Zubair,Male,09-02-2024,"Alpine Ski Club,",CAN,India,Nor-Am Cup,Parallel Slalom,27,
+23,Ahmad Zubair,Male,06-02-2024,Val Saint Come,CAN,India,Nor-Am Cup,Parallel Giant Slalom,31,8.32
+24,Ahmad Zubair,Male,05-02-2024,Val Saint Come,CAN,India,Nor-Am Cup,Parallel Giant Slalom,30,10.24
+25,Ahmad Zubair,Male,12-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,India,Nor-Am Cup,Parallel Slalom,20,
+26,Ahmad Zubair,Male,11-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,India,Nor-Am Cup,Parallel Giant Slalom,13,28.80
+27,Ahmad Zubair,Male,10-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,India,FIS,Giant Slalom,12,20.00
+28,Ahmad Zubair,Male,05-01-2024,Afton Alps Ski Area,USA,India,FIS,Parallel Slalom,7,28.80
+29,Ahmad Zubair,Male,05-01-2024,Afton Alps Ski Area,USA,India,Nor-Am Cup,Parallel Slalom,17,20.80
+30,Ahmad Zubair,Male,04-01-2024,Afton Alps Ski Area,USA,India,Nor-Am Cup,Parallel Slalom,16,22.40
+31,Ahmad Zubair,Male,28-02-2023,"Holiday Valley Resort, NY",USA,India,Nor-Am Cup,Parallel Giant Slalom,14,28.80
+32,Ahmad Zubair,Male,27-02-2023,"Holiday Valley Resort, NY",USA,India,Nor-Am Cup,Parallel Giant Slalom,18,20.80
+33,Ahmad Zubair,Male,19-02-2023,Giants Ridge Recreation Area,USA,India,Nor-Am Cup,Parallel Slalom,20,
+34,Ahmad Zubair,Male,18-02-2023,Giants Ridge Recreation Area,USA,India,Nor-Am Cup,Parallel Giant Slalom,21,
+35,Ahmad Zubair,Male,14-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,India,FIS,Parallel Giant Slalom,25,7.20
+36,Ahmad Zubair,Male,13-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,India,Nor-Am Cup,Parallel Slalom,20,17.60
+37,Ahmad Zubair,Male,12-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,India,Nor-Am Cup,Parallel Giant Slalom,28,

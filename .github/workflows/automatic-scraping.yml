@@ -51,7 +51,8 @@ jobs:
           # Check if there are any changes to commit
           if ! git diff --cached --quiet; then
             git commit -m "Automated commit: Database update"
-            git push
+            git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/otulach/SnowboardApp.git
+            git push origin main
           else
             echo "No changes to commit."
           fi
