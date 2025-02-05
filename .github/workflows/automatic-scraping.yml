@@ -1,0 +1,57 @@
+name: Run Scpaing and Formating + Commit Changes
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC (adjust as needed)
+
+jobs:
+  run-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository with full history (needed for committing)
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0         # Ensure full history is fetched
+          persist-credentials: true  # So git push works with the default token
+
+      # Step 2: Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      # Step 3: (Optional) Install dependencies if needed
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
+      # Step 4: Run scraping.py
+      - name: Run scraping.py
+        run: python scraping.py
+
+      # Step 5: Run arrow.py
+      - name: Run arrow.py
+        run: python arrow.py
+
+      # Step 6: Commit and push any changes
+      - name: Commit changes
+        run: |
+          # Configure Git
+          git config --global user.name "git-actions-scraper"
+
+          # Add all changes
+          git add .
+
+          # Check if there are any changes to commit
+          if ! git diff --cached --quiet; then
+            git commit -m "Automated commit: Database update"
+            git push
+          else
+            echo "No changes to commit."
+          fi
