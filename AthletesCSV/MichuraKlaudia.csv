@@ -1,32 +1,34 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Michura Klaudia,Female,01-02-2025,Stara Planina,SRB,Poland,FIS,Slalom,2,
-1,Michura Klaudia,Female,01-02-2025,Stara Planina,SRB,Poland,FIS,Slalom,3,
-2,Michura Klaudia,Female,19-01-2025,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,6,28.00
-3,Michura Klaudia,Female,18-01-2025,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,9,20.30
-4,Michura Klaudia,Female,07-01-2024,Dolni Morava,CZE,Poland,National Junior Championships,Parallel Giant Slalom,5,22.50
-5,Michura Klaudia,Female,06-01-2024,Dolni Morava,CZE,Poland,National Junior Championships,Parallel Slalom,8,16.00
-6,Michura Klaudia,Female,10-12-2023,Götschen,GER,Poland,Junior,Parallel Slalom,27,7.20
-7,Michura Klaudia,Female,09-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,54,5.15
-8,Michura Klaudia,Female,09-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,54,
-9,Michura Klaudia,Female,08-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,58,
-10,Michura Klaudia,Female,08-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,58,
-11,Michura Klaudia,Female,01-04-2023,Haus im Ennstal,AUT,Poland,National Championships,Parallel Giant Slalom,DNS,
-12,Michura Klaudia,Female,05-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,36,5.71
-13,Michura Klaudia,Female,04-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,40,
-14,Michura Klaudia,Female,27-02-2023,Dolni Morava,CZE,Poland,Junior,Parallel Slalom,4,25.00
-15,Michura Klaudia,Female,26-02-2023,Dolni Morava,CZE,Poland,Junior,Parallel Slalom,6,20.00
-16,Michura Klaudia,Female,25-02-2023,Dolni Morava,CZE,Poland,Junior,Parallel Giant Slalom,6,20.00
-17,Michura Klaudia,Female,04-01-2023,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,22,
-18,Michura Klaudia,Female,18-12-2022,Hochfügen,GER,Poland,Qualification,Parallel Giant Slalom,45,
-19,Michura Klaudia,Female,18-12-2022,Hochfügen,GER,Poland,European Cup,Parallel Giant Slalom,45,
-20,Michura Klaudia,Female,17-12-2022,Hochfügen,GER,Poland,European Cup,Parallel Giant Slalom,44,
-21,Michura Klaudia,Female,13-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Slalom,21,
-22,Michura Klaudia,Female,12-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Giant Slalom,12,26.40
-23,Michura Klaudia,Female,09-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,13,58.00
-24,Michura Klaudia,Female,08-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,19,34.80
-25,Michura Klaudia,Female,20-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,8,32.00
-26,Michura Klaudia,Female,19-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,12,22.00
-27,Michura Klaudia,Female,16-01-2022,Dolni Morava,CZE,Poland,Junior,Parallel Giant Slalom,7,18.00
-28,Michura Klaudia,Female,15-01-2022,Dolni Morava,CZE,Poland,Junior,Parallel Giant Slalom,12,19.80
-29,Michura Klaudia,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,Junior,Parallel Slalom,3,30.00
-30,Michura Klaudia,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,Junior,Slalom,4,25.00
+0,Michura Klaudia,Female,02-02-2025,Stara Planina,SRB,Poland,FIS,Giant Slalom,1,50.00
+1,Michura Klaudia,Female,02-02-2025,Stara Planina,SRB,Poland,FIS,Giant Slalom,3,30.00
+2,Michura Klaudia,Female,01-02-2025,Stara Planina,SRB,Poland,FIS,Slalom,2,40.00
+3,Michura Klaudia,Female,01-02-2025,Stara Planina,SRB,Poland,FIS,Slalom,3,30.00
+4,Michura Klaudia,Female,19-01-2025,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,6,28.00
+5,Michura Klaudia,Female,18-01-2025,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,9,20.30
+6,Michura Klaudia,Female,07-01-2024,Dolni Morava,CZE,Poland,National Junior Championships,Parallel Giant Slalom,5,22.50
+7,Michura Klaudia,Female,06-01-2024,Dolni Morava,CZE,Poland,National Junior Championships,Parallel Slalom,8,16.00
+8,Michura Klaudia,Female,10-12-2023,Götschen,GER,Poland,Junior,Parallel Slalom,27,7.20
+9,Michura Klaudia,Female,09-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,54,5.15
+10,Michura Klaudia,Female,09-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,54,
+11,Michura Klaudia,Female,08-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,58,
+12,Michura Klaudia,Female,08-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,58,
+13,Michura Klaudia,Female,01-04-2023,Haus im Ennstal,AUT,Poland,National Championships,Parallel Giant Slalom,DNS,
+14,Michura Klaudia,Female,05-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,36,5.71
+15,Michura Klaudia,Female,04-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,40,
+16,Michura Klaudia,Female,27-02-2023,Dolni Morava,CZE,Poland,Junior,Parallel Slalom,4,25.00
+17,Michura Klaudia,Female,26-02-2023,Dolni Morava,CZE,Poland,Junior,Parallel Slalom,6,20.00
+18,Michura Klaudia,Female,25-02-2023,Dolni Morava,CZE,Poland,Junior,Parallel Giant Slalom,6,20.00
+19,Michura Klaudia,Female,04-01-2023,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,22,
+20,Michura Klaudia,Female,18-12-2022,Hochfügen,GER,Poland,Qualification,Parallel Giant Slalom,45,
+21,Michura Klaudia,Female,18-12-2022,Hochfügen,GER,Poland,European Cup,Parallel Giant Slalom,45,
+22,Michura Klaudia,Female,17-12-2022,Hochfügen,GER,Poland,European Cup,Parallel Giant Slalom,44,
+23,Michura Klaudia,Female,13-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Slalom,21,
+24,Michura Klaudia,Female,12-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Giant Slalom,12,26.40
+25,Michura Klaudia,Female,09-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,13,58.00
+26,Michura Klaudia,Female,08-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,19,34.80
+27,Michura Klaudia,Female,20-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,8,32.00
+28,Michura Klaudia,Female,19-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,12,22.00
+29,Michura Klaudia,Female,16-01-2022,Dolni Morava,CZE,Poland,Junior,Parallel Giant Slalom,7,18.00
+30,Michura Klaudia,Female,15-01-2022,Dolni Morava,CZE,Poland,Junior,Parallel Giant Slalom,12,19.80
+31,Michura Klaudia,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,Junior,Parallel Slalom,3,30.00
+32,Michura Klaudia,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,Junior,Slalom,4,25.00
