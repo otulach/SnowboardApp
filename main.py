@@ -644,9 +644,9 @@ def locationDrop(selectedName, categoryList):
 )
 def switchVisibility(content):
    if content == 2:
-       return {'display':'none'},  {'display':'inline'}, {'display':'none'}, {'margin-top':20}, {'display':'none'}, {'display':'inline'}, {'display':'none'}, {'display':'none'}, {'display':'inline'}, {'width': 970, 'margin-left': 35, 'margin-top': 5, 'margin-right': 35, 'margin-bottom': 35, 'display': 'flex', 'height':100}
+       return {'display':'none'},  {'display':'inline'}, {'display':'none'}, {'height': 210,'display':'inline-block', 'width' : '100%', 'margin-top': 5, 'margin-bottom': 20}, {'display':'none'}, {'display':'inline'}, {'display':'none'}, {'display':'none'}, {'display':'inline'}, {'width': 970, 'margin-left': 35, 'margin-top': 5, 'margin-right': 35, 'margin-bottom': 35, 'display': 'flex', 'height':100}
    else:
-       return {'display':'inline'},  {'display':'none'}, {'display':'inline'}, {'display':'none'}, {'display':'inline'}, {'display':'none'}, {'width': 970, 'margin-left': 35, 'margin-top': 5, 'margin-right': 35, 'margin-bottom': 35, 'display': 'flex', 'height':100}, {'display':'inline'},  {'display':'none'},  {'display':'none'}
+       return {'display':'inline'},  {'display':'none'}, {'display':'inline'},  {'position': 'absolute', 'visibility': 'hidden', 'height': '100%'}, {'display':'inline'}, {'display':'none'}, {'width': 970, 'margin-left': 35, 'margin-top': 5, 'margin-right': 35, 'margin-bottom': 35, 'display': 'flex', 'height':100}, {'display':'inline'},  {'display':'none'},  {'display':'none'}
    
 # Swapping visibility in manuals
 @callback(
@@ -740,14 +740,6 @@ def secondPageSwitch3(clicks, style):
        return {'display':'none'} 
    else:
        return {'display':'inline', 'margin-bottom': 7}
-   
-   if clicks == 0:
-       return {'display':'none'} 
-   elif style == {'display':'inline', 'margin-bottom': 7}:
-       return {'display':'none'} 
-   else:
-       return {'display':'inline', 'margin-bottom': 7}
-   
        
 if __name__ == '__main__':
     app.run(debug=True)

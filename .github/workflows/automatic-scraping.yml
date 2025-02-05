@@ -1,4 +1,4 @@
-name: Run Scpaing and Formating + Commit Changes
+name: Run Scraping and Formating + Commit Changes
 
 on:
   push:

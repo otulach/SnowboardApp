@@ -12,7 +12,10 @@ import ast
 
 from geopy.geocoders import Photon
 
-season = pd.read_csv('2023.csv')
+print("Insert season (in format XXXX):")
+seasonNumber = input()
+
+season = pd.read_csv('SeasonsCSV/'+ seasonNumber +'.csv')
     
 season = season[season['Category'] != "QUA"]
 season = season[season['Discipline'].isin(['Parallel Slalom', 'Slalom', 'Parallel GS', 'Parallel Giant Slalom', 'Giant Slalom'])]
@@ -22,8 +25,6 @@ season = season.drop('Gender', axis=1)
 season = season.drop_duplicates()
 season['Date Formated'] = season.apply(lambda x: datetime.strptime(x['Date'],"%Y-%m-%d"), axis=1)
 season.dropna()
-
-print(season)
 
 # Curl request to get latitude and longitude from google
 def getCoordinates(locationName):
@@ -62,4 +63,5 @@ season = season[season['Info'].apply(lambda x: isinstance(x, (tuple, list)) and 
 # Unpack the Info column into separate columns
 season[['Temp Min', 'Temp Avg', 'Temp Max', 'Wind Speed']] = pd.DataFrame(season['Info'].to_list(), index=season.index)
 season = season.drop(columns=['Info'])
-season.to_csv("Weather2023.csv", index=False)
+
+season.to_csv("WeatherCSV/"+ seasonNumber +"Weather2023.csv", index=False)

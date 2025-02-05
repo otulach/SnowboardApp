@@ -9,6 +9,7 @@ import random
 from datetime import datetime
 import pyarrow as pa
 import pyarrow.parquet as pq
+import glob
 
 # Formated athletes data
 arrow = pq.read_table("AthletesCSV/allathletes.parquet")
@@ -25,8 +26,15 @@ athletes = athletes.drop_duplicates().sort_values(by='Date Formated', ascending=
 arrowFrame = pa.Table.from_pandas(athletes)
 pq.write_table(arrowFrame, "AthletesCSV/formated.parquet", compression=None)
 
+weather = pd.DataFrame()
+weatherFiles = glob.glob(os.path.join("WeatherCSV", "*.csv")) 
+  
+# loop over the list of csv files 
+for file in weatherFiles: 
+    w = pd.read_csv(file)
+    weather = pd.concat([w, weather])
+
 # Merging weather data with results
-weather = pd.read_csv('Weather2023.csv')
 weather['Date Formated'] = weather.apply(lambda x: datetime.strptime(x['Date'],"%Y-%m-%d"), axis=1)
 weather['Temp Avg'] = weather['Temp Avg'].astype(float)
 

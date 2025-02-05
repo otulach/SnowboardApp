@@ -4,6 +4,7 @@ import pandas as pd
 import os.path
 import pyarrow as pa
 import pyarrow.parquet as pq
+from datetime import date
 
 # Scraping all urls that lead to main page of every athlete
 def getURLS(biographiesURL):
@@ -136,6 +137,12 @@ def createRacesBySeason(season):
             df = pd.concat([df, dataFrame])
             
     seasonName = df.iloc[0]['Date'][0:4]        
-    df.to_csv(seasonName + ".csv")
+    df.to_csv("SeasonsCSV" + seasonName + ".csv", index=False)
     
+year = 1995
+last = int(date.today().year)
+while year < last:
+    yearURL = 'https://www.fis-ski.com/DB/snowboard/snowboard-alpine/calendar-results.html?eventselection=&place=&sectorcode=SB&seasoncode='+ str(year) +'&categorycode=&disciplinecode=PSL,PGS,GS,SL,PRT&gendercode=&racedate=&racecodex=&nationcode=&seasonmonth=X-'+ str(year) +'&saveselection=-1&seasonselection='
+    createRacesBySeason(year)
+
 createAthletes()
