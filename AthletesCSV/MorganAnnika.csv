@@ -1,103 +1,104 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Morgan Annika,Female,02-02-2025,Aspen,USA,Germany,World Cup,Slopestyle,4,578.40
-1,Morgan Annika,Female,31-01-2025,Aspen,USA,Germany,Qualification,Slopestyle,6,
-2,Morgan Annika,Female,18-01-2025,Laax,SUI,Germany,World Cup,Slopestyle,11,228.30
-3,Morgan Annika,Female,16-01-2025,Laax,SUI,Germany,Qualification,Slopestyle,11,
-4,Morgan Annika,Female,11-01-2025,Kreischberg,AUT,Germany,World Cup,Big Air,8,315.40
-5,Morgan Annika,Female,09-01-2025,Kreischberg,AUT,Germany,Qualification,Big Air,8,
-6,Morgan Annika,Female,01-12-2024,Beijing,CHN,Germany,World Cup,Big Air,6,407.50
-7,Morgan Annika,Female,30-11-2024,Beijing,CHN,Germany,Qualification,Big Air,6,
-8,Morgan Annika,Female,19-10-2024,Chur,SUI,Germany,World Cup,Big Air,9,282.50
-9,Morgan Annika,Female,02-09-2024,Cardrona,NZL,Germany,World Cup,Slopestyle,19,108.30
-10,Morgan Annika,Female,31-08-2024,Cardrona,NZL,Germany,Qualification,Slopestyle,19,
-11,Morgan Annika,Female,23-03-2024,Silvaplana,SUI,Germany,World Cup,Slopestyle,8,243.00
-12,Morgan Annika,Female,21-03-2024,Silvaplana,SUI,Germany,Qualification,Slopestyle,7,
-13,Morgan Annika,Female,15-03-2024,Tignes,FRA,Germany,World Cup,Slopestyle,8,218.60
-14,Morgan Annika,Female,14-03-2024,Tignes,FRA,Germany,Qualification,Slopestyle,2,
-15,Morgan Annika,Female,20-01-2024,Laax,SUI,Germany,World Cup,Slopestyle,2,824.90
-16,Morgan Annika,Female,16-01-2024,Laax,SUI,Germany,Qualification,Slopestyle,1,
-17,Morgan Annika,Female,02-12-2023,Beijing,CHN,Germany,World Cup,Big Air,9,103.10
-18,Morgan Annika,Female,01-12-2023,Beijing,CHN,Germany,Qualification,Big Air,9,
-19,Morgan Annika,Female,04-03-2023,Bakuriani,GEO,Germany,World Championships,Big Air,6,404.60
-20,Morgan Annika,Female,02-03-2023,Bakuriani,GEO,Germany,Qualification,Big Air,2,
-21,Morgan Annika,Female,27-02-2023,Bakuriani,GEO,Germany,Qualification,Slopestyle,9,
-22,Morgan Annika,Female,27-02-2023,Bakuriani,GEO,Germany,World Championships,Slopestyle,12,199.70
-23,Morgan Annika,Female,04-02-2023,Mammoth Mountain,USA,Germany,World Cup,Slopestyle,3,406.80
-24,Morgan Annika,Female,01-02-2023,Mammoth Mountain,USA,Germany,Qualification,Slopestyle,3,
-25,Morgan Annika,Female,22-01-2023,Laax,SUI,Germany,World Cup,Slopestyle,15,142.80
-26,Morgan Annika,Female,20-01-2023,Laax,SUI,Germany,Qualification,Slopestyle,15,
-27,Morgan Annika,Female,22-10-2022,Chur,SUI,Germany,World Cup,Big Air,DNS,
-28,Morgan Annika,Female,22-10-2022,Chur,SUI,Germany,Qualification,Big Air,DNS,
-29,Morgan Annika,Female,15-02-2022,Beijing,CHN,Germany,Olympic Winter Games,Big Air,10,248.60
-30,Morgan Annika,Female,14-02-2022,Beijing,CHN,Germany,Qualification,Big Air,8,
-31,Morgan Annika,Female,06-02-2022,Beijing,CHN,Germany,Olympic Winter Games,Slopestyle,8,315.40
-32,Morgan Annika,Female,05-02-2022,Beijing,CHN,Germany,Qualification,Slopestyle,10,
-33,Morgan Annika,Female,15-01-2022,Laax,SUI,Germany,World Cup,Slopestyle,3,550.60
-34,Morgan Annika,Female,14-01-2022,Laax,SUI,Germany,Qualification,Slopestyle,7,
-35,Morgan Annika,Female,01-01-2022,Calgary,CAN,Germany,World Cup,Slopestyle,11,157.40
-36,Morgan Annika,Female,31-12-2021,Calgary,CAN,Germany,Qualification,Slopestyle,11,
-37,Morgan Annika,Female,04-12-2021,Steamboat,USA,Germany,World Cup,Big Air,3,688.30
-38,Morgan Annika,Female,02-12-2021,Steamboat,USA,Germany,Qualification,Big Air,3,
-39,Morgan Annika,Female,23-10-2021,Chur,SUI,Germany,World Cup,Big Air,6,418.50
-40,Morgan Annika,Female,28-03-2021,Silvaplana,SUI,Germany,Qualification,Slopestyle,DNS,
-41,Morgan Annika,Female,28-03-2021,Silvaplana,SUI,Germany,World Cup,Slopestyle,DNS,
-42,Morgan Annika,Female,20-03-2021,Aspen,USA,Germany,World Cup,Slopestyle,9,282.48
-43,Morgan Annika,Female,19-03-2021,Aspen,USA,Germany,Qualification,Slopestyle,9,
-44,Morgan Annika,Female,16-03-2021,Aspen,USA,Germany,World Championships,Big Air,9,271.16
-45,Morgan Annika,Female,14-03-2021,Aspen,USA,Germany,Qualification,Big Air,9,
-46,Morgan Annika,Female,12-03-2021,Aspen,USA,Germany,World Championships,Slopestyle,7,359.48
-47,Morgan Annika,Female,10-03-2021,Aspen,USA,Germany,Qualification,Slopestyle,7,
-48,Morgan Annika,Female,22-02-2021,Götschen,GER,Germany,European Cup,Big Air,DNS,
-49,Morgan Annika,Female,21-02-2021,Götschen,GER,Germany,European Cup,Slopestyle,5,88.05
-50,Morgan Annika,Female,22-01-2021,Laax,SUI,Germany,World Cup,Slopestyle,15,114.20
-51,Morgan Annika,Female,20-01-2021,Laax,SUI,Germany,Qualification,Slopestyle,15,
-52,Morgan Annika,Female,09-01-2021,Kreischberg,AUT,Germany,World Cup,Big Air,6,420.17
-53,Morgan Annika,Female,07-01-2021,Kreischberg ,AUT,Germany,Qualification,Big Air,6,
-54,Morgan Annika,Female,16-02-2020,Calgary,CAN,Germany,World Cup,Slopestyle,8,320.00
-55,Morgan Annika,Female,14-02-2020,Calgary,CAN,Germany,Qualification,Slopestyle,2,
-56,Morgan Annika,Female,22-01-2020,Leysin,SUI,Germany,Youth Olympic Winter Games,Big Air,2,144.00
-57,Morgan Annika,Female,21-01-2020,Leysin,SUI,Germany,Qualification,Big Air,1,
-58,Morgan Annika,Female,18-01-2020,Leysin,SUI,Germany,Youth Olympic Winter Games,Slopestyle,DNS,
-59,Morgan Annika,Female,15-01-2020,Laax,SUI,Germany,World Cup,Slopestyle,4,500.00
-60,Morgan Annika,Female,14-01-2020,Laax,SUI,Germany,Qualification,Slopestyle,9,
-61,Morgan Annika,Female,20-12-2019,Atlanta,USA,Germany,World Cup,Big Air,12,220.00
-62,Morgan Annika,Female,14-12-2019,Beijing,CHN,Germany,World Cup,Big Air,9,290.00
-63,Morgan Annika,Female,12-12-2019,Beijing,CHN,Germany,Qualification,Big Air,9,
-64,Morgan Annika,Female,02-11-2019,Modena SKIPASS,ITA,Germany,World Cup,Big Air,7,360.00
-65,Morgan Annika,Female,01-11-2019,Modena SKIPASS,ITA,Germany,Qualification,Big Air,7,
-66,Morgan Annika,Female,13-04-2019,Klaeppen,SWE,Germany,FIS Junior World Championships,Big Air,2,192.00
-67,Morgan Annika,Female,12-04-2019,Klaeppen,SWE,Germany,Qualification,Big Air,1,
-68,Morgan Annika,Female,09-04-2019,Klaeppen,SWE,Germany,FIS Junior World Championships,Slopestyle,8,76.80
-69,Morgan Annika,Female,08-04-2019,Klaeppen,SWE,Germany,Qualification,Slopestyle,1,
-70,Morgan Annika,Female,22-03-2019,Laax,SUI,Germany,European Cup,Slopestyle,2,144.00
-71,Morgan Annika,Female,17-03-2019,Kuehtai,AUT,Germany,European Cup,Halfpipe,DNS1,
-72,Morgan Annika,Female,16-03-2019,Kuehtai,AUT,Germany,European Cup,Big Air,2,128.00
-73,Morgan Annika,Female,14-02-2019,Bjelasnica,BIH,Germany,European Youth Olympic Festival,Big Air,8,22.40
-74,Morgan Annika,Female,12-02-2019,Bjelasnica,BIH,Germany,European Youth Olympic Festival,Slopestyle,1,120.00
-75,Morgan Annika,Female,26-01-2019,Seiser Alm,ITA,Germany,World Cup,Slopestyle,9,290.00
-76,Morgan Annika,Female,24-01-2019,Seiser Alm,ITA,Germany,Qualification,Slopestyle,9,
-77,Morgan Annika,Female,18-01-2019,Laax,SUI,Germany,World Cup,Slopestyle,9,290.00
-78,Morgan Annika,Female,17-01-2019,Laax,SUI,Germany,Qualification,Slopestyle,9,
-79,Morgan Annika,Female,12-01-2019,Kreischberg,AUT,Germany,World Cup,Slopestyle,DNS,
-80,Morgan Annika,Female,11-01-2019,Kreischberg,AUT,Germany,Qualification,Slopestyle,DNS,
-81,Morgan Annika,Female,22-11-2018,Landgraaf,NED,Germany,European Cup,Slopestyle,2,128.00
-82,Morgan Annika,Female,21-11-2018,Landgraaf,NED,Germany,FIS,Slopestyle,2,80.00
-83,Morgan Annika,Female,31-08-2018,Cardrona,NZL,Germany,FIS Junior World Championships,Slopestyle,2,192.00
-84,Morgan Annika,Female,30-08-2018,Cardrona,NZL,Germany,Qualification,Slopestyle,4,
-85,Morgan Annika,Female,29-08-2018,Cardrona,NZL,Germany,FIS Junior World Championships,Big Air,9,69.60
-86,Morgan Annika,Female,24-08-2018,Cardrona,NZL,Germany,Qualification,Big Air,9,
-87,Morgan Annika,Female,24-03-2018,Kühtai,AUT,Germany,European Cup,Halfpipe,6,64.00
-88,Morgan Annika,Female,23-03-2018,Kühtai,AUT,Germany,European Cup,Big Air,5,72.00
-89,Morgan Annika,Female,18-03-2018,Laax,SUI,Germany,European Cup,Slopestyle,12,39.60
-90,Morgan Annika,Female,03-03-2018,Götschen,GER,Germany,European Cup,Big Air,6,64.00
-91,Morgan Annika,Female,14-01-2018,Jasna,SVK,Germany,European Cup,Slopestyle,1,160.00
-92,Morgan Annika,Female,13-01-2018,Jasna,SVK,Germany,European Cup,Slopestyle,1,
-93,Morgan Annika,Female,23-11-2017,Landgraaf,NED,Germany,European Cup,Slopestyle,1,160.00
-94,Morgan Annika,Female,22-11-2017,Landgraaf,NED,Germany,FIS,Slopestyle,DNS1,
-95,Morgan Annika,Female,01-04-2017,Spindleruv Mlyn,CZE,Germany,FIS Junior World Championships,Big Air,22,21.60
-96,Morgan Annika,Female,31-03-2017,Spindleruv Mlyn,CZE,Germany,FIS Junior World Championships,Slopestyle,13,48.00
-97,Morgan Annika,Female,30-03-2017,Spindleruv Mlyn,CZE,Germany,Qualification,Slopestyle,7,
-98,Morgan Annika,Female,29-03-2017,Spindleruv Mlyn,CZE,Germany,Qualification,Big Air,14,
-99,Morgan Annika,Female,17-02-2017,Goetschen,GER,Germany,European Cup,Big Air,3,96.00
-100,Morgan Annika,Female,10-11-2016,Landgraaf,NED,Germany,European Cup,Slopestyle,8,51.20
-101,Morgan Annika,Female,09-11-2016,Landgraaf,NED,Germany,European Cup,Slopestyle,16,24.00
+0,Morgan Annika,Female,05-02-2025,Aspen,USA,Germany,Qualification,Big Air,15,
+1,Morgan Annika,Female,02-02-2025,Aspen,USA,Germany,World Cup,Slopestyle,4,578.40
+2,Morgan Annika,Female,31-01-2025,Aspen,USA,Germany,Qualification,Slopestyle,6,
+3,Morgan Annika,Female,18-01-2025,Laax,SUI,Germany,World Cup,Slopestyle,11,228.30
+4,Morgan Annika,Female,16-01-2025,Laax,SUI,Germany,Qualification,Slopestyle,11,
+5,Morgan Annika,Female,11-01-2025,Kreischberg,AUT,Germany,World Cup,Big Air,8,315.40
+6,Morgan Annika,Female,09-01-2025,Kreischberg,AUT,Germany,Qualification,Big Air,8,
+7,Morgan Annika,Female,01-12-2024,Beijing,CHN,Germany,World Cup,Big Air,6,407.50
+8,Morgan Annika,Female,30-11-2024,Beijing,CHN,Germany,Qualification,Big Air,6,
+9,Morgan Annika,Female,19-10-2024,Chur,SUI,Germany,World Cup,Big Air,9,282.50
+10,Morgan Annika,Female,02-09-2024,Cardrona,NZL,Germany,World Cup,Slopestyle,19,108.30
+11,Morgan Annika,Female,31-08-2024,Cardrona,NZL,Germany,Qualification,Slopestyle,19,
+12,Morgan Annika,Female,23-03-2024,Silvaplana,SUI,Germany,World Cup,Slopestyle,8,243.00
+13,Morgan Annika,Female,21-03-2024,Silvaplana,SUI,Germany,Qualification,Slopestyle,7,
+14,Morgan Annika,Female,15-03-2024,Tignes,FRA,Germany,World Cup,Slopestyle,8,218.60
+15,Morgan Annika,Female,14-03-2024,Tignes,FRA,Germany,Qualification,Slopestyle,2,
+16,Morgan Annika,Female,20-01-2024,Laax,SUI,Germany,World Cup,Slopestyle,2,824.90
+17,Morgan Annika,Female,16-01-2024,Laax,SUI,Germany,Qualification,Slopestyle,1,
+18,Morgan Annika,Female,02-12-2023,Beijing,CHN,Germany,World Cup,Big Air,9,103.10
+19,Morgan Annika,Female,01-12-2023,Beijing,CHN,Germany,Qualification,Big Air,9,
+20,Morgan Annika,Female,04-03-2023,Bakuriani,GEO,Germany,World Championships,Big Air,6,404.60
+21,Morgan Annika,Female,02-03-2023,Bakuriani,GEO,Germany,Qualification,Big Air,2,
+22,Morgan Annika,Female,27-02-2023,Bakuriani,GEO,Germany,Qualification,Slopestyle,9,
+23,Morgan Annika,Female,27-02-2023,Bakuriani,GEO,Germany,World Championships,Slopestyle,12,199.70
+24,Morgan Annika,Female,04-02-2023,Mammoth Mountain,USA,Germany,World Cup,Slopestyle,3,406.80
+25,Morgan Annika,Female,01-02-2023,Mammoth Mountain,USA,Germany,Qualification,Slopestyle,3,
+26,Morgan Annika,Female,22-01-2023,Laax,SUI,Germany,World Cup,Slopestyle,15,142.80
+27,Morgan Annika,Female,20-01-2023,Laax,SUI,Germany,Qualification,Slopestyle,15,
+28,Morgan Annika,Female,22-10-2022,Chur,SUI,Germany,World Cup,Big Air,DNS,
+29,Morgan Annika,Female,22-10-2022,Chur,SUI,Germany,Qualification,Big Air,DNS,
+30,Morgan Annika,Female,15-02-2022,Beijing,CHN,Germany,Olympic Winter Games,Big Air,10,248.60
+31,Morgan Annika,Female,14-02-2022,Beijing,CHN,Germany,Qualification,Big Air,8,
+32,Morgan Annika,Female,06-02-2022,Beijing,CHN,Germany,Olympic Winter Games,Slopestyle,8,315.40
+33,Morgan Annika,Female,05-02-2022,Beijing,CHN,Germany,Qualification,Slopestyle,10,
+34,Morgan Annika,Female,15-01-2022,Laax,SUI,Germany,World Cup,Slopestyle,3,550.60
+35,Morgan Annika,Female,14-01-2022,Laax,SUI,Germany,Qualification,Slopestyle,7,
+36,Morgan Annika,Female,01-01-2022,Calgary,CAN,Germany,World Cup,Slopestyle,11,157.40
+37,Morgan Annika,Female,31-12-2021,Calgary,CAN,Germany,Qualification,Slopestyle,11,
+38,Morgan Annika,Female,04-12-2021,Steamboat,USA,Germany,World Cup,Big Air,3,688.30
+39,Morgan Annika,Female,02-12-2021,Steamboat,USA,Germany,Qualification,Big Air,3,
+40,Morgan Annika,Female,23-10-2021,Chur,SUI,Germany,World Cup,Big Air,6,418.50
+41,Morgan Annika,Female,28-03-2021,Silvaplana,SUI,Germany,Qualification,Slopestyle,DNS,
+42,Morgan Annika,Female,28-03-2021,Silvaplana,SUI,Germany,World Cup,Slopestyle,DNS,
+43,Morgan Annika,Female,20-03-2021,Aspen,USA,Germany,World Cup,Slopestyle,9,282.48
+44,Morgan Annika,Female,19-03-2021,Aspen,USA,Germany,Qualification,Slopestyle,9,
+45,Morgan Annika,Female,16-03-2021,Aspen,USA,Germany,World Championships,Big Air,9,271.16
+46,Morgan Annika,Female,14-03-2021,Aspen,USA,Germany,Qualification,Big Air,9,
+47,Morgan Annika,Female,12-03-2021,Aspen,USA,Germany,World Championships,Slopestyle,7,359.48
+48,Morgan Annika,Female,10-03-2021,Aspen,USA,Germany,Qualification,Slopestyle,7,
+49,Morgan Annika,Female,22-02-2021,Götschen,GER,Germany,European Cup,Big Air,DNS,
+50,Morgan Annika,Female,21-02-2021,Götschen,GER,Germany,European Cup,Slopestyle,5,88.05
+51,Morgan Annika,Female,22-01-2021,Laax,SUI,Germany,World Cup,Slopestyle,15,114.20
+52,Morgan Annika,Female,20-01-2021,Laax,SUI,Germany,Qualification,Slopestyle,15,
+53,Morgan Annika,Female,09-01-2021,Kreischberg,AUT,Germany,World Cup,Big Air,6,420.17
+54,Morgan Annika,Female,07-01-2021,Kreischberg ,AUT,Germany,Qualification,Big Air,6,
+55,Morgan Annika,Female,16-02-2020,Calgary,CAN,Germany,World Cup,Slopestyle,8,320.00
+56,Morgan Annika,Female,14-02-2020,Calgary,CAN,Germany,Qualification,Slopestyle,2,
+57,Morgan Annika,Female,22-01-2020,Leysin,SUI,Germany,Youth Olympic Winter Games,Big Air,2,144.00
+58,Morgan Annika,Female,21-01-2020,Leysin,SUI,Germany,Qualification,Big Air,1,
+59,Morgan Annika,Female,18-01-2020,Leysin,SUI,Germany,Youth Olympic Winter Games,Slopestyle,DNS,
+60,Morgan Annika,Female,15-01-2020,Laax,SUI,Germany,World Cup,Slopestyle,4,500.00
+61,Morgan Annika,Female,14-01-2020,Laax,SUI,Germany,Qualification,Slopestyle,9,
+62,Morgan Annika,Female,20-12-2019,Atlanta,USA,Germany,World Cup,Big Air,12,220.00
+63,Morgan Annika,Female,14-12-2019,Beijing,CHN,Germany,World Cup,Big Air,9,290.00
+64,Morgan Annika,Female,12-12-2019,Beijing,CHN,Germany,Qualification,Big Air,9,
+65,Morgan Annika,Female,02-11-2019,Modena SKIPASS,ITA,Germany,World Cup,Big Air,7,360.00
+66,Morgan Annika,Female,01-11-2019,Modena SKIPASS,ITA,Germany,Qualification,Big Air,7,
+67,Morgan Annika,Female,13-04-2019,Klaeppen,SWE,Germany,FIS Junior World Championships,Big Air,2,192.00
+68,Morgan Annika,Female,12-04-2019,Klaeppen,SWE,Germany,Qualification,Big Air,1,
+69,Morgan Annika,Female,09-04-2019,Klaeppen,SWE,Germany,FIS Junior World Championships,Slopestyle,8,76.80
+70,Morgan Annika,Female,08-04-2019,Klaeppen,SWE,Germany,Qualification,Slopestyle,1,
+71,Morgan Annika,Female,22-03-2019,Laax,SUI,Germany,European Cup,Slopestyle,2,144.00
+72,Morgan Annika,Female,17-03-2019,Kuehtai,AUT,Germany,European Cup,Halfpipe,DNS1,
+73,Morgan Annika,Female,16-03-2019,Kuehtai,AUT,Germany,European Cup,Big Air,2,128.00
+74,Morgan Annika,Female,14-02-2019,Bjelasnica,BIH,Germany,European Youth Olympic Festival,Big Air,8,22.40
+75,Morgan Annika,Female,12-02-2019,Bjelasnica,BIH,Germany,European Youth Olympic Festival,Slopestyle,1,120.00
+76,Morgan Annika,Female,26-01-2019,Seiser Alm,ITA,Germany,World Cup,Slopestyle,9,290.00
+77,Morgan Annika,Female,24-01-2019,Seiser Alm,ITA,Germany,Qualification,Slopestyle,9,
+78,Morgan Annika,Female,18-01-2019,Laax,SUI,Germany,World Cup,Slopestyle,9,290.00
+79,Morgan Annika,Female,17-01-2019,Laax,SUI,Germany,Qualification,Slopestyle,9,
+80,Morgan Annika,Female,12-01-2019,Kreischberg,AUT,Germany,World Cup,Slopestyle,DNS,
+81,Morgan Annika,Female,11-01-2019,Kreischberg,AUT,Germany,Qualification,Slopestyle,DNS,
+82,Morgan Annika,Female,22-11-2018,Landgraaf,NED,Germany,European Cup,Slopestyle,2,128.00
+83,Morgan Annika,Female,21-11-2018,Landgraaf,NED,Germany,FIS,Slopestyle,2,80.00
+84,Morgan Annika,Female,31-08-2018,Cardrona,NZL,Germany,FIS Junior World Championships,Slopestyle,2,192.00
+85,Morgan Annika,Female,30-08-2018,Cardrona,NZL,Germany,Qualification,Slopestyle,4,
+86,Morgan Annika,Female,29-08-2018,Cardrona,NZL,Germany,FIS Junior World Championships,Big Air,9,69.60
+87,Morgan Annika,Female,24-08-2018,Cardrona,NZL,Germany,Qualification,Big Air,9,
+88,Morgan Annika,Female,24-03-2018,Kühtai,AUT,Germany,European Cup,Halfpipe,6,64.00
+89,Morgan Annika,Female,23-03-2018,Kühtai,AUT,Germany,European Cup,Big Air,5,72.00
+90,Morgan Annika,Female,18-03-2018,Laax,SUI,Germany,European Cup,Slopestyle,12,39.60
+91,Morgan Annika,Female,03-03-2018,Götschen,GER,Germany,European Cup,Big Air,6,64.00
+92,Morgan Annika,Female,14-01-2018,Jasna,SVK,Germany,European Cup,Slopestyle,1,160.00
+93,Morgan Annika,Female,13-01-2018,Jasna,SVK,Germany,European Cup,Slopestyle,1,
+94,Morgan Annika,Female,23-11-2017,Landgraaf,NED,Germany,European Cup,Slopestyle,1,160.00
+95,Morgan Annika,Female,22-11-2017,Landgraaf,NED,Germany,FIS,Slopestyle,DNS1,
+96,Morgan Annika,Female,01-04-2017,Spindleruv Mlyn,CZE,Germany,FIS Junior World Championships,Big Air,22,21.60
+97,Morgan Annika,Female,31-03-2017,Spindleruv Mlyn,CZE,Germany,FIS Junior World Championships,Slopestyle,13,48.00
+98,Morgan Annika,Female,30-03-2017,Spindleruv Mlyn,CZE,Germany,Qualification,Slopestyle,7,
+99,Morgan Annika,Female,29-03-2017,Spindleruv Mlyn,CZE,Germany,Qualification,Big Air,14,
+100,Morgan Annika,Female,17-02-2017,Goetschen,GER,Germany,European Cup,Big Air,3,96.00
+101,Morgan Annika,Female,10-11-2016,Landgraaf,NED,Germany,European Cup,Slopestyle,8,51.20
+102,Morgan Annika,Female,09-11-2016,Landgraaf,NED,Germany,European Cup,Slopestyle,16,24.00

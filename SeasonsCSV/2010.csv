@@ -1,0 +1,284 @@
+Date,Location,Country,Category,Discipline,Gender
+2010-08-20,Mt,ut,FIS,Parallel GS,Male
+2010-08-20,Mt,ut,FIS,Parallel GS,Female
+2010-09-02,Chapelco,ARG,SAC,Snowboardcross,Male
+2010-09-02,Chapelco,ARG,SAC,Snowboardcross,Female
+2010-09-06,Chapelco,ARG,SAC,Slopestyle,Male
+2010-09-06,Chapelco,ARG,SAC,Slopestyle,Female
+2010-09-07,Chapelco,ARG,SAC,Giant Slalom,Male
+2010-09-07,Chapelco,ARG,SAC,Giant Slalom,Female
+2010-09-02,Chapelco,ARG,MAS,Snowboardcross,Male
+2010-09-02,Chapelco,ARG,MAS,Snowboardcross,Female
+2010-09-06,Chapelco,ARG,MAS,Slopestyle,Male
+2010-09-06,Chapelco,ARG,MAS,Slopestyle,Female
+2010-09-07,Chapelco,ARG,MAS,Giant Slalom,Male
+2010-09-07,Chapelco,ARG,MAS,Giant Slalom,Female
+2010-09-05,Mt,ulle,FIS,Parallel GS,Male
+2010-09-05,Mt,ulle,FIS,Parallel GS,Female
+2010-10-10,Landgraaf,NED,WC,Parallel Slalom,Male
+2010-10-10,Landgraaf,NED,WC,Parallel Slalom,Female
+2010-11-18,"Copper,",,NAC,Parallel GS,Male
+2010-11-18,"Copper,",,NAC,Parallel GS,Female
+2010-11-19,"Copper,",,NAC,Parallel Slalom,Male
+2010-11-19,"Copper,",,NAC,Parallel Slalom,Female
+2010-11-22,Abzakovo/magnitogorsk,RUS,FIS,Parallel Slalom,Male
+2010-11-22,Abzakovo/magnitogorsk,RUS,FIS,Parallel Slalom,Female
+2010-11-23,Abzakovo/magnitogorsk,RUS,FIS,Giant Slalom,Male
+2010-11-23,Abzakovo/magnitogorsk,RUS,FIS,Giant Slalom,Female
+2010-11-27,"Hochfuegen,",illerta,EC,Parallel GS,Male
+2010-11-27,"Hochfuegen,",illerta,EC,Parallel GS,Female
+2010-11-28,"Hochfuegen,",illerta,FIS,Parallel GS,Male
+2010-11-28,"Hochfuegen,",illerta,FIS,Parallel GS,Female
+2010-12-04,Welschnofen-carezza,ITA,EC,Parallel GS,Male
+2010-12-04,Welschnofen-carezza,ITA,EC,Parallel GS,Female
+2010-12-05,Welschnofen-carezza,ITA,EC,Parallel Slalom,Male
+2010-12-05,Welschnofen-carezza,ITA,EC,Parallel Slalom,Female
+2010-12-04,Calgary,CAN,FIS,Slalom,Male
+2010-12-04,Calgary,CAN,FIS,Slalom,Female
+2010-12-10,Ratschings/racines,ITA,FIS,Parallel GS,Male
+2010-12-10,Ratschings/racines,ITA,FIS,Parallel GS,Female
+2010-12-11,Ratschings/racines,ITA,EC,Parallel GS,Male
+2010-12-11,Ratschings/racines,ITA,EC,Parallel GS,Female
+2010-12-10,Limone,iemont,WC,Parallel GS,Male
+2010-12-10,Limone,iemont,WC,Parallel GS,Female
+2010-12-11,Limone,iemont,WC,Parallel Slalom,Male
+2010-12-11,Limone,iemont,WC,Parallel Slalom,Female
+2010-12-16,Telluride,USA,WC,Parallel GS,Male
+2010-12-16,Telluride,USA,WC,Parallel GS,Female
+2010-12-17,Telluride,USA,WC,Snowboardcross,Male
+2010-12-17,Telluride,USA,WC,Snowboardcross,Female
+2010-12-18,Telluride,USA,WC,Snowboardcross,Male
+2010-12-18,Telluride,USA,WC,Snowboardcross,Female
+2010-12-17,Samnaun,SUI,FIS,Parallel Slalom,Male
+2010-12-17,Samnaun,SUI,FIS,Parallel Slalom,Female
+2010-12-18,Samnaun,SUI,FIS,Parallel Slalom,Male
+2010-12-18,Samnaun,SUI,FIS,Parallel Slalom,Female
+2010-12-19,Samnaun,SUI,FIS,Parallel Slalom,Male
+2010-12-19,Samnaun,SUI,FIS,Parallel Slalom,Female
+2010-12-18,Erzurum/palandöken,TUR,FIS,Parallel GS,Male
+2010-12-18,Erzurum/palandöken,TUR,FIS,Parallel GS,Female
+2010-12-19,Erzurum/palandöken,TUR,FIS,Parallel GS,Male
+2010-12-19,Erzurum/palandöken,TUR,FIS,Parallel GS,Female
+2010-12-20,Steamboat,prings,NAC,Parallel GS,Male
+2010-12-20,Steamboat,prings,NAC,Parallel GS,Female
+2010-12-21,Steamboat,prings,NAC,Parallel Slalom,Male
+2010-12-21,Steamboat,prings,NAC,Parallel Slalom,Female
+2011-01-06,Mont,remblant,FIS,Parallel GS,Male
+2011-01-06,Mont,remblant,FIS,Parallel GS,Female
+2011-01-07,Mont,remblant,FIS,Snowboardcross,Male
+2011-01-07,Mont,remblant,FIS,Snowboardcross,Female
+2011-01-08,Mont,remblant,FIS,Snowboardcross,Male
+2011-01-08,Mont,remblant,FIS,Snowboardcross,Female
+2011-01-08,Marianske,azn,EC,Parallel Slalom,Male
+2011-01-08,Marianske,azn,EC,Parallel Slalom,Female
+2011-01-09,Marianske,azn,FIS,Parallel Slalom,Male
+2011-01-09,Marianske,azn,FIS,Parallel Slalom,Female
+2011-01-09,Bad,astei,WC,Parallel Slalom,Male
+2011-01-09,Bad,astei,WC,Parallel Slalom,Female
+2011-01-12,Berchtesgaden/goetschen,GER,NC,Parallel GS,Male
+2011-01-12,Berchtesgaden/goetschen,GER,NC,Parallel GS,Female
+2011-01-15,La,olin,WSC,Big Air,Male
+2011-01-18,La,olin,WSC,Snowboardcross,Male
+2011-01-18,La,olin,WSC,Snowboardcross,Female
+2011-01-19,La,olin,WSC,Parallel GS,Male
+2011-01-19,La,olin,WSC,Parallel GS,Female
+2011-01-20,La,olin,WSC,Halfpipe,Male
+2011-01-20,La,olin,WSC,Halfpipe,Female
+2011-01-22,La,olin,WSC,Parallel Slalom,Male
+2011-01-22,La,olin,WSC,Parallel Slalom,Female
+2011-01-22,La,olin,WSC,Slopestyle,Male
+2011-01-22,La,olin,WSC,Slopestyle,Female
+2011-01-22,Pozza,,FIS,Giant Slalom,Male
+2011-01-22,Pozza,,FIS,Giant Slalom,Female
+2011-01-22,Innsbruck,AUT,FIS,Parallel GS,Male
+2011-01-22,Innsbruck,AUT,FIS,Parallel GS,Female
+2011-01-23,Innsbruck,AUT,FIS,Parallel Slalom,Male
+2011-01-23,Innsbruck,AUT,FIS,Parallel Slalom,Female
+2011-01-28,Adelboden,SUI,EC,Parallel GS,Male
+2011-01-28,Adelboden,SUI,EC,Parallel GS,Female
+2011-01-29,Adelboden,SUI,EC,Parallel GS,Male
+2011-01-29,Adelboden,SUI,EC,Parallel GS,Female
+2011-01-29,"Mont-blanc,",uebe,FIS,Slalom,Male
+2011-01-29,"Mont-blanc,",uebe,FIS,Slalom,Female
+2011-01-29,St.,allenkirc,FIS,Parallel GS,Male
+2011-01-29,St.,allenkirc,FIS,Parallel GS,Female
+2011-01-30,St.,allenkirc,FIS,Parallel GS,Male
+2011-01-30,St.,allenkirc,FIS,Parallel GS,Female
+2011-01-29,Dizin,IRI,FIS,Parallel Slalom,Male
+2011-01-30,Dizin,IRI,FIS,Parallel Slalom,Male
+2011-01-31,Dizin,IRI,FIS,Parallel GS,Male
+2011-01-30,Oze,okur,FIS,Parallel Slalom,Male
+2011-01-30,Oze,okur,FIS,Parallel Slalom,Female
+2011-01-31,Oze,okur,FIS,Giant Slalom,Male
+2011-01-31,Oze,okur,FIS,Giant Slalom,Female
+2011-01-30,Palandoken/erzurum,TUR,UVS,Snowboardcross,Male
+2011-01-30,Palandoken/erzurum,TUR,UVS,Snowboardcross,Female
+2011-02-01,Palandoken/erzurum,TUR,UVS,Parallel GS,Male
+2011-02-01,Palandoken/erzurum,TUR,UVS,Parallel GS,Female
+2011-02-04,Palandoken/erzurum,TUR,UVS,Halfpipe,Male
+2011-02-04,Palandoken/erzurum,TUR,UVS,Halfpipe,Female
+2011-02-06,Palandoken/erzurum,TUR,UVS,Slopestyle,Male
+2011-02-06,Palandoken/erzurum,TUR,UVS,Slopestyle,Female
+2011-02-05,Pamporovo,BUL,NC,Parallel GS,Male
+2011-02-05,Pamporovo,BUL,NC,Parallel GS,Female
+2011-02-06,Pamporovo,BUL,NC,Parallel Slalom,Male
+2011-02-06,Pamporovo,BUL,NC,Parallel Slalom,Female
+2011-02-05,Vratna,SVK,EC,Parallel GS,Male
+2011-02-05,Vratna,SVK,EC,Parallel GS,Female
+2011-02-06,Vratna,SVK,EC,Parallel GS,Male
+2011-02-06,Vratna,SVK,EC,Parallel GS,Female
+2011-02-09,Yongpyong,KOR,WC,Parallel Slalom,Male
+2011-02-09,Yongpyong,KOR,WC,Parallel Slalom,Female
+2011-02-11,Valberg,FRA,EC,Parallel GS,Male
+2011-02-11,Valberg,FRA,EC,Parallel GS,Female
+2011-02-12,Valberg,FRA,EC,Parallel GS,Male
+2011-02-12,Valberg,FRA,EC,Parallel GS,Female
+2011-02-12,Le,elais,NAC,Parallel GS,Male
+2011-02-12,Le,elais,NAC,Parallel GS,Female
+2011-02-13,Le,elais,NAC,Parallel Slalom,Male
+2011-02-13,Le,elais,NAC,Parallel Slalom,Female
+2011-02-12,Berchtesgaden/goetschen,GER,JUN,Giant Slalom,Male
+2011-02-12,Berchtesgaden/goetschen,GER,JUN,Giant Slalom,Female
+2011-02-13,Berchtesgaden/goetschen,GER,JUN,Parallel Slalom,Male
+2011-02-13,Berchtesgaden/goetschen,GER,JUN,Parallel Slalom,Female
+2011-02-15,Rejdice,CZE,EYOF,Snowboardcross,Male
+2011-02-15,Rejdice,CZE,EYOF,Snowboardcross,Female
+2011-02-17,Rejdice,CZE,EYOF,Parallel GS,Male
+2011-02-17,Rejdice,CZE,EYOF,Parallel GS,Female
+2011-02-17,Shemshak,IRI,AC,Parallel GS,Male
+2011-02-18,Shemshak,IRI,AC,Parallel Slalom,Male
+2011-02-17,Stoneham,CAN,WC,Snowboardcross,Male
+2011-02-17,Stoneham,CAN,WC,Snowboardcross,Female
+2011-02-18,Stoneham,CAN,WC,Halfpipe,Male
+2011-02-18,Stoneham,CAN,WC,Halfpipe,Female
+2011-02-19,Stoneham,CAN,WC,Big Air,Male
+2011-02-20,Stoneham,CAN,WC,Parallel GS,Male
+2011-02-20,Stoneham,CAN,WC,Parallel GS,Female
+2011-02-19,Maribor,SLO,NC,Parallel GS,Male
+2011-02-19,Maribor,SLO,NC,Parallel GS,Female
+2011-02-23,"Holimont,",,NAC,Parallel GS,Male
+2011-02-23,"Holimont,",,NAC,Parallel GS,Female
+2011-02-24,"Holimont,",,NAC,Parallel GS,Male
+2011-02-24,"Holimont,",,NAC,Parallel GS,Female
+2011-02-26,Ebingen,,FIS,Parallel Slalom,Male
+2011-02-26,Ebingen,,FIS,Parallel Slalom,Female
+2011-02-27,Ebingen,,NC,Parallel Slalom,Male
+2011-02-27,Ebingen,,NC,Parallel Slalom,Female
+2011-02-26,Villach,,FIS,Parallel Slalom,Male
+2011-02-26,Villach,,FIS,Parallel Slalom,Female
+2011-02-27,Villach,,FIS,Parallel Slalom,Male
+2011-02-27,Villach,,FIS,Parallel Slalom,Female
+2011-02-28,Zakopane,POL,NC,Parallel GS,Male
+2011-02-28,Zakopane,POL,NC,Parallel GS,Female
+2011-03-01,Zakopane,POL,NC,Parallel Slalom,Male
+2011-03-01,Zakopane,POL,NC,Parallel Slalom,Female
+2011-02-28,Rogla,SLO,EC,Parallel GS,Male
+2011-02-28,Rogla,SLO,EC,Parallel GS,Female
+2011-03-01,Rogla,SLO,EC,Parallel Slalom,Male
+2011-03-01,Rogla,SLO,EC,Parallel Slalom,Female
+2011-03-03,Mount,,FIS,Snowboardcross,Male
+2011-03-03,Mount,,FIS,Snowboardcross,Female
+2011-03-04,Mount,,FIS,Parallel GS,Male
+2011-03-04,Mount,,FIS,Parallel GS,Female
+2011-03-04,Oze,okur,NC,Parallel GS,Male
+2011-03-04,Oze,okur,NC,Parallel GS,Female
+2011-03-06,Oze,okur,NC,Halfpipe,Male
+2011-03-06,Oze,okur,NC,Halfpipe,Female
+2011-03-05,Moscow,RUS,WC,Parallel Slalom,Male
+2011-03-05,Moscow,RUS,WC,Parallel Slalom,Female
+2011-03-05,Dizin,IRI,FIS,Parallel GS,Male
+2011-03-06,Dizin,IRI,FIS,Parallel Slalom,Male
+2011-03-07,La,olin,NC,Halfpipe,Male
+2011-03-07,La,olin,NC,Halfpipe,Female
+2011-03-08,La,olin,NC,Big Air,Male
+2011-03-08,La,olin,NC,Big Air,Female
+2011-03-09,La,olin,NC,Slopestyle,Male
+2011-03-09,La,olin,NC,Slopestyle,Female
+2011-03-10,La,olin,NC,Parallel GS,Male
+2011-03-10,La,olin,NC,Parallel GS,Female
+2011-03-11,La,olin,NC,Snowboardcross,Male
+2011-03-11,La,olin,NC,Snowboardcross,Female
+2011-03-12,La,olin,FIS,Snowboardcross,Male
+2011-03-12,La,olin,FIS,Snowboardcross,Female
+2011-03-11,Protasiv,a,FIS,Parallel Slalom,Male
+2011-03-11,Protasiv,a,FIS,Parallel Slalom,Female
+2011-03-12,Protasiv,a,EC,Parallel Slalom,Male
+2011-03-12,Protasiv,a,EC,Parallel Slalom,Female
+2011-03-12,Radstadt,AUT,NC,Parallel GS,Male
+2011-03-12,Radstadt,AUT,NC,Parallel GS,Female
+2011-03-13,Radstadt,AUT,NC,Parallel Slalom,Male
+2011-03-13,Radstadt,AUT,NC,Parallel Slalom,Female
+2011-03-13,Les,et,NC,Snowboardcross,Male
+2011-03-13,Les,et,NC,Snowboardcross,Female
+2011-03-14,Les,et,NC,Parallel GS,Male
+2011-03-14,Les,et,NC,Parallel GS,Female
+2011-03-15,Les,et,NC,Halfpipe,Male
+2011-03-15,Les,et,NC,Halfpipe,Female
+2011-03-16,Les,et,NC,Slopestyle,Male
+2011-03-16,Les,et,NC,Slopestyle,Female
+2011-03-18,Chiesa,,WC,Snowboardcross,Male
+2011-03-18,Chiesa,,WC,Snowboardcross,Female
+2011-03-19,Chiesa,,WC,Parallel GS,Male
+2011-03-19,Chiesa,,WC,Parallel GS,Female
+2011-03-19,Laqlouq,LBN,FIS,Giant Slalom,Male
+2011-03-19,Laqlouq,LBN,FIS,Giant Slalom,Female
+2011-03-19,Berchtesgaden,,JUN,Giant Slalom,Male
+2011-03-19,Berchtesgaden,,JUN,Giant Slalom,Female
+2011-03-20,Berchtesgaden,,JUN,Parallel Slalom,Male
+2011-03-20,Berchtesgaden,,JUN,Parallel Slalom,Female
+2011-03-22,Protasiv,a,NC,Parallel Slalom,Male
+2011-03-22,Protasiv,a,NC,Parallel Slalom,Female
+2011-03-23,Protasiv,a,FIS,Parallel Slalom,Male
+2011-03-23,Protasiv,a,FIS,Parallel Slalom,Female
+2011-03-22,Sinaia,ROU,NC,Slalom,Male
+2011-03-22,Sinaia,ROU,NC,Slalom,Female
+2011-03-23,Sinaia,ROU,NC,Snowboardcross,Male
+2011-03-23,Sinaia,ROU,NC,Snowboardcross,Female
+2011-03-24,Sinaia,ROU,FIS,Slalom,Male
+2011-03-24,Sinaia,ROU,FIS,Slalom,Female
+2011-03-25,Sinaia,ROU,FIS,Snowboardcross,Male
+2011-03-25,Sinaia,ROU,FIS,Snowboardcross,Female
+2011-03-24,Arosa,SUI,WC,Snowboardcross,Male
+2011-03-24,Arosa,SUI,WC,Snowboardcross,Female
+2011-03-25,Arosa,SUI,WC,Snowboardcross,Male
+2011-03-25,Arosa,SUI,WC,Snowboardcross,Female
+2011-03-26,Arosa,SUI,WC,Halfpipe,Male
+2011-03-26,Arosa,SUI,WC,Halfpipe,Female
+2011-03-27,Arosa,SUI,WC,Parallel GS,Male
+2011-03-27,Arosa,SUI,WC,Parallel GS,Female
+2011-03-25,Lachtal,AUT,EC,Parallel GS,Male
+2011-03-25,Lachtal,AUT,EC,Parallel GS,Female
+2011-03-26,Lachtal,AUT,EC,Parallel Slalom,Male
+2011-03-26,Lachtal,AUT,EC,Parallel Slalom,Female
+2011-03-27,Lachtal,AUT,EC,Parallel Slalom,Male
+2011-03-27,Lachtal,AUT,EC,Parallel Slalom,Female
+2011-03-29,Valmalenco,ITA,WJC,Snowboardcross,Male
+2011-03-29,Valmalenco,ITA,WJC,Snowboardcross,Female
+2011-03-30,Valmalenco,ITA,WJC,Parallel GS,Male
+2011-03-30,Valmalenco,ITA,WJC,Parallel GS,Female
+2011-03-31,Valmalenco,ITA,WJC,Parallel Slalom,Male
+2011-03-31,Valmalenco,ITA,WJC,Parallel Slalom,Female
+2011-04-02,Valmalenco,ITA,WJC,Halfpipe,Male
+2011-04-02,Valmalenco,ITA,WJC,Halfpipe,Female
+2011-04-03,Valmalenco,ITA,WJC,Slopestyle,Male
+2011-04-03,Valmalenco,ITA,WJC,Slopestyle,Female
+2011-04-01,Sils/silvaplana,SUI,NC,Snowboardcross,Male
+2011-04-01,Sils/silvaplana,SUI,NC,Snowboardcross,Female
+2011-04-02,Sils/silvaplana,SUI,NJC,Snowboardcross,Male
+2011-04-02,Sils/silvaplana,SUI,NJC,Snowboardcross,Female
+2011-04-03,Sils/silvaplana,SUI,NC,Parallel GS,Male
+2011-04-03,Sils/silvaplana,SUI,NC,Parallel GS,Female
+2011-04-07,Chiesa,almalenc,NC,Snowboardcross,Male
+2011-04-07,Chiesa,almalenc,NC,Snowboardcross,Female
+2011-04-08,Chiesa,almalenc,NC,Parallel GS,Male
+2011-04-08,Chiesa,almalenc,NC,Parallel GS,Female
+2011-04-07,Lake,ouis,FIS,Slalom,Male
+2011-04-07,Lake,ouis,FIS,Slalom,Female
+2011-04-09,Lake,ouis,NAC,Snowboardcross,Male
+2011-04-09,Lake,ouis,NAC,Snowboardcross,Female
+2011-04-10,Lake,ouis,NAC,Parallel GS,Male
+2011-04-10,Lake,ouis,NAC,Parallel GS,Female
+2011-04-10,Sapporo,JPN,FIS,Giant Slalom,Male
+2011-04-10,Sapporo,JPN,FIS,Giant Slalom,Female
+2011-04-12,Shemshak,IRI,FIS,Parallel GS,Male
+2011-04-14,Shemshak,IRI,FIS,Parallel Slalom,Male

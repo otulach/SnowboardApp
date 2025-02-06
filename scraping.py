@@ -137,12 +137,13 @@ def createRacesBySeason(season):
             df = pd.concat([df, dataFrame])
             
     seasonName = df.iloc[0]['Date'][0:4]        
-    df.to_csv("SeasonsCSV" + seasonName + ".csv", index=False)
+    df.to_csv("SeasonsCSV/" + seasonName + ".csv", index=False)
     
-year = 1995
 last = int(date.today().year)
-while year < last:
-    yearURL = 'https://www.fis-ski.com/DB/snowboard/snowboard-alpine/calendar-results.html?eventselection=&place=&sectorcode=SB&seasoncode='+ str(year) +'&categorycode=&disciplinecode=PSL,PGS,GS,SL,PRT&gendercode=&racedate=&racecodex=&nationcode=&seasonmonth=X-'+ str(year) +'&saveselection=-1&seasonselection='
-    createRacesBySeason(year)
+try:
+    pd.read_csv(str(last) + '.csv')
+except:
+    yearURL = 'https://www.fis-ski.com/DB/snowboard/snowboard-alpine/calendar-results.html?eventselection=&place=&sectorcode=SB&seasoncode='+ str(last) +'&categorycode=&disciplinecode=PSL,PGS,GS,SL,PRT&gendercode=&racedate=&racecodex=&nationcode=&seasonmonth=X-'+ str(last) +'&saveselection=-1&seasonselection='
+    createRacesBySeason(yearURL)
 
 createAthletes()

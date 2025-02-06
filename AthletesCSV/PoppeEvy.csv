@@ -1,100 +1,101 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Poppe Evy,Female,02-02-2025,Aspen,USA,Belgium,World Cup,Slopestyle,20,92.60
-1,Poppe Evy,Female,31-01-2025,Aspen,USA,Belgium,Qualification,Slopestyle,20,
-2,Poppe Evy,Female,18-01-2025,Laax,SUI,Belgium,World Cup,Slopestyle,25,51.80
-3,Poppe Evy,Female,16-01-2025,Laax,SUI,Belgium,Qualification,Slopestyle,25,
-4,Poppe Evy,Female,11-01-2025,Kreischberg,AUT,Belgium,World Cup,Big Air,24,39.00
-5,Poppe Evy,Female,09-01-2025,Kreischberg,AUT,Belgium,Qualification,Big Air,24,
-6,Poppe Evy,Female,05-01-2025,Klagenfurt,AUT,Belgium,World Cup,Big Air,20,27.20
-7,Poppe Evy,Female,03-01-2025,Klagenfurt,AUT,Belgium,Qualification,Big Air,20,
-8,Poppe Evy,Female,19-10-2024,Chur,SUI,Belgium,World Cup,Big Air,17,125.80
-9,Poppe Evy,Female,02-09-2024,Cardrona,NZL,Belgium,World Cup,Slopestyle,14,170.80
-10,Poppe Evy,Female,31-08-2024,Cardrona,NZL,Belgium,Qualification,Slopestyle,14,
-11,Poppe Evy,Female,14-04-2024,Corvatsch,SUI,Belgium,European Cup Premium,Big Air,8,153.50
-12,Poppe Evy,Female,12-04-2024,Corvatsch,SUI,Belgium,European Cup Premium,Slopestyle,4,207.90
-13,Poppe Evy,Female,23-03-2024,Silvaplana,SUI,Belgium,World Cup,Slopestyle,6,328.10
-14,Poppe Evy,Female,21-03-2024,Silvaplana,SUI,Belgium,Qualification,Slopestyle,10,
-15,Poppe Evy,Female,15-03-2024,Tignes,FRA,Belgium,World Cup,Slopestyle,11,126.90
-16,Poppe Evy,Female,14-03-2024,Tignes,FRA,Belgium,Qualification,Slopestyle,11,
-17,Poppe Evy,Female,20-01-2024,Laax,SUI,Belgium,World Cup,Slopestyle,7,361.70
-18,Poppe Evy,Female,16-01-2024,Laax,SUI,Belgium,Qualification,Slopestyle,3,
-19,Poppe Evy,Female,15-12-2023,Copper Mountain,USA,Belgium,World Cup,Big Air,17,0.70
-20,Poppe Evy,Female,13-12-2023,Copper Mountain,USA,Belgium,Qualification,Big Air,17,
-21,Poppe Evy,Female,09-12-2023,Edmonton,CAN,Belgium,World Cup,Big Air,11,72.90
-22,Poppe Evy,Female,08-12-2023,Edmonton,CAN,Belgium,Qualification,Big Air,11,
-23,Poppe Evy,Female,21-10-2023,Chur,SUI,Belgium,Qualification,Big Air,13,
+0,Poppe Evy,Female,05-02-2025,Aspen,USA,Belgium,Qualification,Big Air,14,
+1,Poppe Evy,Female,02-02-2025,Aspen,USA,Belgium,World Cup,Slopestyle,20,92.60
+2,Poppe Evy,Female,31-01-2025,Aspen,USA,Belgium,Qualification,Slopestyle,20,
+3,Poppe Evy,Female,18-01-2025,Laax,SUI,Belgium,World Cup,Slopestyle,25,51.80
+4,Poppe Evy,Female,16-01-2025,Laax,SUI,Belgium,Qualification,Slopestyle,25,
+5,Poppe Evy,Female,11-01-2025,Kreischberg,AUT,Belgium,World Cup,Big Air,24,39.00
+6,Poppe Evy,Female,09-01-2025,Kreischberg,AUT,Belgium,Qualification,Big Air,24,
+7,Poppe Evy,Female,05-01-2025,Klagenfurt,AUT,Belgium,World Cup,Big Air,20,27.20
+8,Poppe Evy,Female,03-01-2025,Klagenfurt,AUT,Belgium,Qualification,Big Air,20,
+9,Poppe Evy,Female,19-10-2024,Chur,SUI,Belgium,World Cup,Big Air,17,125.80
+10,Poppe Evy,Female,02-09-2024,Cardrona,NZL,Belgium,World Cup,Slopestyle,14,170.80
+11,Poppe Evy,Female,31-08-2024,Cardrona,NZL,Belgium,Qualification,Slopestyle,14,
+12,Poppe Evy,Female,14-04-2024,Corvatsch,SUI,Belgium,European Cup Premium,Big Air,8,153.50
+13,Poppe Evy,Female,12-04-2024,Corvatsch,SUI,Belgium,European Cup Premium,Slopestyle,4,207.90
+14,Poppe Evy,Female,23-03-2024,Silvaplana,SUI,Belgium,World Cup,Slopestyle,6,328.10
+15,Poppe Evy,Female,21-03-2024,Silvaplana,SUI,Belgium,Qualification,Slopestyle,10,
+16,Poppe Evy,Female,15-03-2024,Tignes,FRA,Belgium,World Cup,Slopestyle,11,126.90
+17,Poppe Evy,Female,14-03-2024,Tignes,FRA,Belgium,Qualification,Slopestyle,11,
+18,Poppe Evy,Female,20-01-2024,Laax,SUI,Belgium,World Cup,Slopestyle,7,361.70
+19,Poppe Evy,Female,16-01-2024,Laax,SUI,Belgium,Qualification,Slopestyle,3,
+20,Poppe Evy,Female,15-12-2023,Copper Mountain,USA,Belgium,World Cup,Big Air,17,0.70
+21,Poppe Evy,Female,13-12-2023,Copper Mountain,USA,Belgium,Qualification,Big Air,17,
+22,Poppe Evy,Female,09-12-2023,Edmonton,CAN,Belgium,World Cup,Big Air,11,72.90
+23,Poppe Evy,Female,08-12-2023,Edmonton,CAN,Belgium,Qualification,Big Air,11,
 24,Poppe Evy,Female,21-10-2023,Chur,SUI,Belgium,World Cup,Big Air,13,103.80
-25,Poppe Evy,Female,22-04-2023,Kitzsteinhorn,AUT,Belgium,European Cup,Big Air,9,58.50
-26,Poppe Evy,Female,21-04-2023,Kitzsteinhorn,AUT,Belgium,European Cup,Slopestyle,3,150.10
-27,Poppe Evy,Female,17-04-2023,Corvatsch,SUI,Belgium,European Cup Premium,Big Air,10,52.60
-28,Poppe Evy,Female,14-04-2023,Corvatsch,SUI,Belgium,European Cup Premium,Slopestyle,2,236.30
-29,Poppe Evy,Female,29-03-2023,Leysin,SUI,Belgium,FIS,Big Air,2,156.00
-30,Poppe Evy,Female,28-03-2023,Leysin,SUI,Belgium,FIS,Slopestyle,4,85.20
-31,Poppe Evy,Female,25-03-2023,Silvaplana,SUI,Belgium,World Cup,Slopestyle,13,30.50
-32,Poppe Evy,Female,23-03-2023,Silvaplana,SUI,Belgium,Qualification,Slopestyle,13,
-33,Poppe Evy,Female,04-03-2023,Bakuriani,GEO,Belgium,World Championships,Big Air,16,86.60
-34,Poppe Evy,Female,02-03-2023,Bakuriani,GEO,Belgium,Qualification,Big Air,16,
-35,Poppe Evy,Female,27-02-2023,Bakuriani,GEO,Belgium,Qualification,Slopestyle,14,
-36,Poppe Evy,Female,27-02-2023,Bakuriani,GEO,Belgium,World Championships,Slopestyle,14,162.90
-37,Poppe Evy,Female,04-02-2023,Mammoth Mountain,USA,Belgium,World Cup,Slopestyle,9,146.30
-38,Poppe Evy,Female,01-02-2023,Mammoth Mountain,USA,Belgium,Qualification,Slopestyle,9,
-39,Poppe Evy,Female,22-01-2023,Laax,SUI,Belgium,World Cup,Slopestyle,26,19.50
-40,Poppe Evy,Female,20-01-2023,Laax,SUI,Belgium,Qualification,Slopestyle,26,
-41,Poppe Evy,Female,14-01-2023,Kreischberg,AUT,Belgium,Qualification,Big Air,12,
-42,Poppe Evy,Female,14-01-2023,Kreischberg,AUT,Belgium,World Cup,Big Air,12,165.20
-43,Poppe Evy,Female,17-12-2022,Copper Mountain,USA,Belgium,World Cup,Big Air,19,32.90
-44,Poppe Evy,Female,15-12-2022,Copper Mountain,USA,Belgium,Qualification,Big Air,19,
-45,Poppe Evy,Female,10-12-2022,Edmonton,CAN,Belgium,World Cup,Big Air,2,648.20
-46,Poppe Evy,Female,09-12-2022,Edmonton,CAN,Belgium,Qualification,Big Air,5,
-47,Poppe Evy,Female,22-10-2022,Chur,SUI,Belgium,World Cup,Big Air,11,184.30
+25,Poppe Evy,Female,21-10-2023,Chur,SUI,Belgium,Qualification,Big Air,13,
+26,Poppe Evy,Female,22-04-2023,Kitzsteinhorn,AUT,Belgium,European Cup,Big Air,9,58.50
+27,Poppe Evy,Female,21-04-2023,Kitzsteinhorn,AUT,Belgium,European Cup,Slopestyle,3,150.10
+28,Poppe Evy,Female,17-04-2023,Corvatsch,SUI,Belgium,European Cup Premium,Big Air,10,52.60
+29,Poppe Evy,Female,14-04-2023,Corvatsch,SUI,Belgium,European Cup Premium,Slopestyle,2,236.30
+30,Poppe Evy,Female,29-03-2023,Leysin,SUI,Belgium,FIS,Big Air,2,156.00
+31,Poppe Evy,Female,28-03-2023,Leysin,SUI,Belgium,FIS,Slopestyle,4,85.20
+32,Poppe Evy,Female,25-03-2023,Silvaplana,SUI,Belgium,World Cup,Slopestyle,13,30.50
+33,Poppe Evy,Female,23-03-2023,Silvaplana,SUI,Belgium,Qualification,Slopestyle,13,
+34,Poppe Evy,Female,04-03-2023,Bakuriani,GEO,Belgium,World Championships,Big Air,16,86.60
+35,Poppe Evy,Female,02-03-2023,Bakuriani,GEO,Belgium,Qualification,Big Air,16,
+36,Poppe Evy,Female,27-02-2023,Bakuriani,GEO,Belgium,Qualification,Slopestyle,14,
+37,Poppe Evy,Female,27-02-2023,Bakuriani,GEO,Belgium,World Championships,Slopestyle,14,162.90
+38,Poppe Evy,Female,04-02-2023,Mammoth Mountain,USA,Belgium,World Cup,Slopestyle,9,146.30
+39,Poppe Evy,Female,01-02-2023,Mammoth Mountain,USA,Belgium,Qualification,Slopestyle,9,
+40,Poppe Evy,Female,22-01-2023,Laax,SUI,Belgium,World Cup,Slopestyle,26,19.50
+41,Poppe Evy,Female,20-01-2023,Laax,SUI,Belgium,Qualification,Slopestyle,26,
+42,Poppe Evy,Female,14-01-2023,Kreischberg,AUT,Belgium,Qualification,Big Air,12,
+43,Poppe Evy,Female,14-01-2023,Kreischberg,AUT,Belgium,World Cup,Big Air,12,165.20
+44,Poppe Evy,Female,17-12-2022,Copper Mountain,USA,Belgium,World Cup,Big Air,19,32.90
+45,Poppe Evy,Female,15-12-2022,Copper Mountain,USA,Belgium,Qualification,Big Air,19,
+46,Poppe Evy,Female,10-12-2022,Edmonton,CAN,Belgium,World Cup,Big Air,2,648.20
+47,Poppe Evy,Female,09-12-2022,Edmonton,CAN,Belgium,Qualification,Big Air,5,
 48,Poppe Evy,Female,22-10-2022,Chur,SUI,Belgium,Qualification,Big Air,11,
-49,Poppe Evy,Female,27-03-2022,Silvaplana,SUI,Belgium,World Cup,Slopestyle,14,93.00
-50,Poppe Evy,Female,25-03-2022,Silvaplana,SUI,Belgium,Qualification,Slopestyle,14,
-51,Poppe Evy,Female,15-02-2022,Beijing,CHN,Belgium,Olympic Winter Games,Big Air,24,46.80
-52,Poppe Evy,Female,14-02-2022,Beijing,CHN,Belgium,Qualification,Big Air,24,
-53,Poppe Evy,Female,06-02-2022,Beijing,CHN,Belgium,Olympic Winter Games,Slopestyle,14,158.50
-54,Poppe Evy,Female,05-02-2022,Beijing,CHN,Belgium,Qualification,Slopestyle,14,
-55,Poppe Evy,Female,15-01-2022,Laax,SUI,Belgium,World Cup,Slopestyle,29,13.90
-56,Poppe Evy,Female,14-01-2022,Laax,SUI,Belgium,Qualification,Slopestyle,29,
-57,Poppe Evy,Female,08-01-2022,Mammoth Mountain,USA,Belgium,World Cup,Slopestyle,13,166.90
-58,Poppe Evy,Female,06-01-2022,Mammoth Mountain,USA,Belgium,Qualification,Slopestyle,13,
-59,Poppe Evy,Female,01-01-2022,Calgary,CAN,Belgium,World Cup,Slopestyle,6,326.00
-60,Poppe Evy,Female,31-12-2021,Calgary,CAN,Belgium,Qualification,Slopestyle,6,
-61,Poppe Evy,Female,04-12-2021,Steamboat,USA,Belgium,World Cup,Big Air,17,130.40
-62,Poppe Evy,Female,02-12-2021,Steamboat,USA,Belgium,Qualification,Big Air,17,
-63,Poppe Evy,Female,23-10-2021,Chur,SUI,Belgium,World Cup,Big Air,15,142.80
-64,Poppe Evy,Female,20-04-2021,Corvatsch,SUI,Belgium,European Cup Premium,Slopestyle,7,108.28
-65,Poppe Evy,Female,18-04-2021,Corvatsch,SUI,Belgium,European Cup Premium,Big Air,4,94.18
-66,Poppe Evy,Female,21-03-2021,Krasnoyarsk ,RUS,Belgium,FIS Junior World Championships,Big Air,3,156.21
-67,Poppe Evy,Female,20-03-2021,Krasnoyarsk ,RUS,Belgium,Qualification,Big Air,4,
-68,Poppe Evy,Female,19-03-2021,Krasnoyarsk ,RUS,Belgium,FIS Junior World Championships,Slopestyle,1,240.00
-69,Poppe Evy,Female,18-03-2021,Krasnoyarsk ,RUS,Belgium,Qualification,Slopestyle,2,
-70,Poppe Evy,Female,12-03-2021,Aspen,USA,Belgium,World Championships,Slopestyle,23,40.89
-71,Poppe Evy,Female,10-03-2021,Aspen,USA,Belgium,Qualification,Slopestyle,23,
-72,Poppe Evy,Female,19-02-2021,Davos,SUI,Belgium,European Cup,Big Air,3,146.53
-73,Poppe Evy,Female,31-01-2021,Crans Montana,SUI,Belgium,European Cup,Slopestyle,1,290.00
-74,Poppe Evy,Female,09-01-2021,Kreischberg,AUT,Belgium,World Cup,Big Air,23,56.37
-75,Poppe Evy,Female,07-01-2021,Kreischberg ,AUT,Belgium,Qualification,Big Air,23,
-76,Poppe Evy,Female,22-12-2020,Corvatsch,SUI,Belgium,European Cup,Slopestyle,5,154.94
-77,Poppe Evy,Female,21-02-2020,Davos,SUI,Belgium,European Cup Premium,Big Air,1,260.00
-78,Poppe Evy,Female,22-01-2020,Leysin,SUI,Belgium,Youth Olympic Winter Games,Big Air,10,46.80
-79,Poppe Evy,Female,21-01-2020,Leysin,SUI,Belgium,Qualification,Big Air,6,
-80,Poppe Evy,Female,18-01-2020,Leysin,SUI,Belgium,Youth Olympic Winter Games,Slopestyle,1,160.00
-81,Poppe Evy,Female,21-11-2019,Landgraaf,NED,Belgium,European Cup,Slopestyle,2,144.00
-82,Poppe Evy,Female,20-11-2019,Landgraaf,NED,Belgium,FIS,Slopestyle,4,90.00
-83,Poppe Evy,Female,17-04-2019,Laax,BEL,Belgium,FIS,Big Air,2,
-84,Poppe Evy,Female,16-04-2019,Laax,BEL,Belgium,FIS,Slopestyle,2,
-85,Poppe Evy,Female,13-04-2019,Klaeppen,SWE,Belgium,FIS Junior World Championships,Big Air,3,144.00
-86,Poppe Evy,Female,12-04-2019,Klaeppen,SWE,Belgium,Qualification,Big Air,4,
-87,Poppe Evy,Female,09-04-2019,Klaeppen,SWE,Belgium,FIS Junior World Championships,Slopestyle,4,120.00
-88,Poppe Evy,Female,08-04-2019,Klaeppen,SWE,Belgium,Qualification,Slopestyle,5,
-89,Poppe Evy,Female,22-03-2019,Laax,SUI,Belgium,European Cup,Slopestyle,10,46.80
-90,Poppe Evy,Female,16-03-2019,Kuehtai,AUT,Belgium,European Cup,Big Air,1,160.00
-91,Poppe Evy,Female,22-02-2019,Davos,SUI,Belgium,European Cup,Big Air,2,144.00
-92,Poppe Evy,Female,22-11-2018,Landgraaf,NED,Belgium,European Cup,Slopestyle,3,96.00
-93,Poppe Evy,Female,21-11-2018,Landgraaf,NED,Belgium,FIS,Slopestyle,1,100.00
-94,Poppe Evy,Female,16-11-2018,Glacier 3000,SUI,Belgium,FIS,Slopestyle,1,110.00
-95,Poppe Evy,Female,24-03-2018,Kühtai,AUT,Belgium,European Cup,Halfpipe,8,51.20
-96,Poppe Evy,Female,23-03-2018,Kühtai,AUT,Belgium,European Cup,Big Air,3,96.00
-97,Poppe Evy,Female,23-11-2017,Landgraaf,NED,Belgium,European Cup,Slopestyle,2,128.00
-98,Poppe Evy,Female,22-11-2017,Landgraaf,NED,Belgium,FIS,Slopestyle,1,100.00
+49,Poppe Evy,Female,22-10-2022,Chur,SUI,Belgium,World Cup,Big Air,11,184.30
+50,Poppe Evy,Female,27-03-2022,Silvaplana,SUI,Belgium,World Cup,Slopestyle,14,93.00
+51,Poppe Evy,Female,25-03-2022,Silvaplana,SUI,Belgium,Qualification,Slopestyle,14,
+52,Poppe Evy,Female,15-02-2022,Beijing,CHN,Belgium,Olympic Winter Games,Big Air,24,46.80
+53,Poppe Evy,Female,14-02-2022,Beijing,CHN,Belgium,Qualification,Big Air,24,
+54,Poppe Evy,Female,06-02-2022,Beijing,CHN,Belgium,Olympic Winter Games,Slopestyle,14,158.50
+55,Poppe Evy,Female,05-02-2022,Beijing,CHN,Belgium,Qualification,Slopestyle,14,
+56,Poppe Evy,Female,15-01-2022,Laax,SUI,Belgium,World Cup,Slopestyle,29,13.90
+57,Poppe Evy,Female,14-01-2022,Laax,SUI,Belgium,Qualification,Slopestyle,29,
+58,Poppe Evy,Female,08-01-2022,Mammoth Mountain,USA,Belgium,World Cup,Slopestyle,13,166.90
+59,Poppe Evy,Female,06-01-2022,Mammoth Mountain,USA,Belgium,Qualification,Slopestyle,13,
+60,Poppe Evy,Female,01-01-2022,Calgary,CAN,Belgium,World Cup,Slopestyle,6,326.00
+61,Poppe Evy,Female,31-12-2021,Calgary,CAN,Belgium,Qualification,Slopestyle,6,
+62,Poppe Evy,Female,04-12-2021,Steamboat,USA,Belgium,World Cup,Big Air,17,130.40
+63,Poppe Evy,Female,02-12-2021,Steamboat,USA,Belgium,Qualification,Big Air,17,
+64,Poppe Evy,Female,23-10-2021,Chur,SUI,Belgium,World Cup,Big Air,15,142.80
+65,Poppe Evy,Female,20-04-2021,Corvatsch,SUI,Belgium,European Cup Premium,Slopestyle,7,108.28
+66,Poppe Evy,Female,18-04-2021,Corvatsch,SUI,Belgium,European Cup Premium,Big Air,4,94.18
+67,Poppe Evy,Female,21-03-2021,Krasnoyarsk ,RUS,Belgium,FIS Junior World Championships,Big Air,3,156.21
+68,Poppe Evy,Female,20-03-2021,Krasnoyarsk ,RUS,Belgium,Qualification,Big Air,4,
+69,Poppe Evy,Female,19-03-2021,Krasnoyarsk ,RUS,Belgium,FIS Junior World Championships,Slopestyle,1,240.00
+70,Poppe Evy,Female,18-03-2021,Krasnoyarsk ,RUS,Belgium,Qualification,Slopestyle,2,
+71,Poppe Evy,Female,12-03-2021,Aspen,USA,Belgium,World Championships,Slopestyle,23,40.89
+72,Poppe Evy,Female,10-03-2021,Aspen,USA,Belgium,Qualification,Slopestyle,23,
+73,Poppe Evy,Female,19-02-2021,Davos,SUI,Belgium,European Cup,Big Air,3,146.53
+74,Poppe Evy,Female,31-01-2021,Crans Montana,SUI,Belgium,European Cup,Slopestyle,1,290.00
+75,Poppe Evy,Female,09-01-2021,Kreischberg,AUT,Belgium,World Cup,Big Air,23,56.37
+76,Poppe Evy,Female,07-01-2021,Kreischberg ,AUT,Belgium,Qualification,Big Air,23,
+77,Poppe Evy,Female,22-12-2020,Corvatsch,SUI,Belgium,European Cup,Slopestyle,5,154.94
+78,Poppe Evy,Female,21-02-2020,Davos,SUI,Belgium,European Cup Premium,Big Air,1,260.00
+79,Poppe Evy,Female,22-01-2020,Leysin,SUI,Belgium,Youth Olympic Winter Games,Big Air,10,46.80
+80,Poppe Evy,Female,21-01-2020,Leysin,SUI,Belgium,Qualification,Big Air,6,
+81,Poppe Evy,Female,18-01-2020,Leysin,SUI,Belgium,Youth Olympic Winter Games,Slopestyle,1,160.00
+82,Poppe Evy,Female,21-11-2019,Landgraaf,NED,Belgium,European Cup,Slopestyle,2,144.00
+83,Poppe Evy,Female,20-11-2019,Landgraaf,NED,Belgium,FIS,Slopestyle,4,90.00
+84,Poppe Evy,Female,17-04-2019,Laax,BEL,Belgium,FIS,Big Air,2,
+85,Poppe Evy,Female,16-04-2019,Laax,BEL,Belgium,FIS,Slopestyle,2,
+86,Poppe Evy,Female,13-04-2019,Klaeppen,SWE,Belgium,FIS Junior World Championships,Big Air,3,144.00
+87,Poppe Evy,Female,12-04-2019,Klaeppen,SWE,Belgium,Qualification,Big Air,4,
+88,Poppe Evy,Female,09-04-2019,Klaeppen,SWE,Belgium,FIS Junior World Championships,Slopestyle,4,120.00
+89,Poppe Evy,Female,08-04-2019,Klaeppen,SWE,Belgium,Qualification,Slopestyle,5,
+90,Poppe Evy,Female,22-03-2019,Laax,SUI,Belgium,European Cup,Slopestyle,10,46.80
+91,Poppe Evy,Female,16-03-2019,Kuehtai,AUT,Belgium,European Cup,Big Air,1,160.00
+92,Poppe Evy,Female,22-02-2019,Davos,SUI,Belgium,European Cup,Big Air,2,144.00
+93,Poppe Evy,Female,22-11-2018,Landgraaf,NED,Belgium,European Cup,Slopestyle,3,96.00
+94,Poppe Evy,Female,21-11-2018,Landgraaf,NED,Belgium,FIS,Slopestyle,1,100.00
+95,Poppe Evy,Female,16-11-2018,Glacier 3000,SUI,Belgium,FIS,Slopestyle,1,110.00
+96,Poppe Evy,Female,24-03-2018,Kühtai,AUT,Belgium,European Cup,Halfpipe,8,51.20
+97,Poppe Evy,Female,23-03-2018,Kühtai,AUT,Belgium,European Cup,Big Air,3,96.00
+98,Poppe Evy,Female,23-11-2017,Landgraaf,NED,Belgium,European Cup,Slopestyle,2,128.00
+99,Poppe Evy,Female,22-11-2017,Landgraaf,NED,Belgium,FIS,Slopestyle,1,100.00

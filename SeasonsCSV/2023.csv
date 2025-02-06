@@ -1,463 +1,325 @@
-,Date,Location,Country,Category,Discipline,Gender
-0,2022-12-10,Goetschen,GER,JUN,Parallel Slalom,Male
-1,2022-12-10,Goetschen,GER,JUN,Parallel Slalom,Female
-2,2022-12-11,Goetschen,GER,JUN,Parallel Slalom,Male
-3,2022-12-11,Goetschen,GER,JUN,Parallel Slalom,Female
-0,2022-12-10,Winterberg,GER,WC,Parallel Slalom Team,Female
-1,2022-12-10,Winterberg,GER,QUA,Parallel Slalom,Female
-2,2022-12-10,Winterberg,GER,QUA,Parallel Slalom,Male
-3,2022-12-11,Winterberg,GER,WC,Parallel Slalom,Female
-4,2022-12-11,Winterberg,GER,WC,Parallel Slalom,Male
-0,2022-12-15,Carezza,ITA,QUA,Parallel Giant Slalom,Female
-1,2022-12-15,Carezza,ITA,QUA,Parallel Giant Slalom,Male
-2,2022-12-15,Carezza,ITA,WC,Parallel Giant Slalom,Female
-3,2022-12-15,Carezza,ITA,WC,Parallel Giant Slalom,Male
-0,2022-12-17,Cortina,'Ampezz,QUA,Parallel Giant Slalom,Female
-1,2022-12-17,Cortina,'Ampezz,QUA,Parallel Giant Slalom,Male
-2,2022-12-17,Cortina,'Ampezz,WC,Parallel Giant Slalom,Female
-3,2022-12-17,Cortina,'Ampezz,WC,Parallel Giant Slalom,Male
-0,2022-12-17,Hochfügen,GER,EC,Parallel Giant Slalom,Male
-1,2022-12-17,Hochfügen,GER,EC,Parallel Giant Slalom,Female
-2,2022-12-17,Hochfügen,GER,QUA,Parallel Giant Slalom,Male
-3,2022-12-17,Hochfügen,GER,QUA,Parallel Giant Slalom,Female
-4,2022-12-18,Hochfügen,GER,EC,Parallel Giant Slalom,Male
-5,2022-12-18,Hochfügen,GER,EC,Parallel Giant Slalom,Female
-6,2022-12-18,Hochfügen,GER,QUA,Parallel Giant Slalom,Male
-7,2022-12-18,Hochfügen,GER,QUA,Parallel Giant Slalom,Female
-0,2022-12-20,Bad,astei,EC,Parallel Slalom,Male
-1,2022-12-20,Bad,astei,EC,Parallel Slalom,Female
-2,2022-12-20,Bad,astei,QUA,Parallel Slalom,Male
-3,2022-12-20,Bad,astei,QUA,Parallel Slalom,Female
-4,2022-12-21,Bad,astei,EC,Parallel Slalom,Male
-5,2022-12-21,Bad,astei,EC,Parallel Slalom,Female
-6,2022-12-21,Bad,astei,QUA,Parallel Slalom,Male
-7,2022-12-21,Bad,astei,QUA,Parallel Slalom,Female
-0,2022-12-20,Val,ain,FIS,Parallel Giant Slalom,Male
-1,2022-12-20,Val,ain,FIS,Parallel Giant Slalom,Female
-2,2022-12-21,Val,ain,FIS,Parallel Giant Slalom,Male
-3,2022-12-21,Val,ain,FIS,Parallel Giant Slalom,Female
-0,2023-01-04,Suche/zakopane,POL,NC,Parallel Giant Slalom,Male
-1,2023-01-04,Suche/zakopane,POL,NC,Parallel Giant Slalom,Female
-2,2023-01-05,Suche/zakopane,POL,NC,Parallel Slalom,Male
-3,2023-01-05,Suche/zakopane,POL,NC,Parallel Slalom,Female
-0,2023-01-07,Haus,,JUN,Parallel Giant Slalom,Male
-1,2023-01-07,Haus,,JUN,Parallel Giant Slalom,Female
-2,2023-01-08,Haus,,JUN,Giant Slalom,Male
-3,2023-01-08,Haus,,JUN,Giant Slalom,Female
-0,2023-01-10,Bad,astei,QUA,Parallel Slalom,Female
-1,2023-01-10,Bad,astei,QUA,Parallel Slalom,Male
-2,2023-01-10,Bad,astei,WC,Parallel Slalom,Female
-3,2023-01-10,Bad,astei,WC,Parallel Slalom,Male
-4,2023-01-11,Bad,astei,WC,Parallel Slalom Team,Female
-0,2023-01-12,Steamboat,k,NAC,Parallel Giant Slalom,Female
-1,2023-01-12,Steamboat,k,NAC,Parallel Giant Slalom,Male
-2,2023-01-13,Steamboat,k,NAC,Parallel Slalom,Male
-3,2023-01-13,Steamboat,k,NAC,Parallel Slalom,Female
-4,2023-01-14,Steamboat,k,FIS,Parallel Giant Slalom,Male
-5,2023-01-14,Steamboat,k,FIS,Parallel Giant Slalom,Female
-0,2023-01-12,Gore,ountai,QUA,Snowboard Cross,Male
-1,2023-01-12,Gore,ountai,QUA,Snowboard Cross,Female
-2,2023-01-13,Gore,ountai,UVS,Snowboard Cross,Male
-3,2023-01-13,Gore,ountai,UVS,Snowboard Cross,Female
-4,2023-01-17,Gore,ountai,QUA,Slopestyle,Female
-5,2023-01-17,Gore,ountai,QUA,Slopestyle,Male
-6,2023-01-18,Gore,ountai,UVS,Slopestyle,Female
-7,2023-01-18,Gore,ountai,UVS,Slopestyle,Male
-8,2023-01-19,Gore,ountai,QUA,Big Air,Female
-9,2023-01-19,Gore,ountai,QUA,Big Air,Male
-10,2023-01-20,Gore,ountai,UVS,Big Air,Female
-11,2023-01-20,Gore,ountai,UVS,Big Air,Male
-12,2023-01-21,Gore,ountai,QUA,Parallel Giant Slalom,Female
-13,2023-01-21,Gore,ountai,QUA,Parallel Giant Slalom,Male
-14,2023-01-21,Gore,ountai,UVS,Parallel Giant Slalom,Female
-15,2023-01-21,Gore,ountai,UVS,Parallel Giant Slalom,Male
-16,2023-01-22,Gore,ountai,QUA,Parallel Slalom,Female
-17,2023-01-22,Gore,ountai,QUA,Parallel Slalom,Male
-18,2023-01-22,Gore,ountai,UVS,Parallel Slalom,Female
-19,2023-01-22,Gore,ountai,UVS,Parallel Slalom,Male
-0,2023-01-14,Scuol,SUI,QUA,Parallel Giant Slalom,Female
-1,2023-01-14,Scuol,SUI,QUA,Parallel Giant Slalom,Male
-2,2023-01-14,Scuol,SUI,WC,Parallel Giant Slalom,Female
-3,2023-01-14,Scuol,SUI,WC,Parallel Giant Slalom,Male
-0,2023-01-14,Alleghe,ITA,QUA,Parallel Slalom,Male
-1,2023-01-14,Alleghe,ITA,QUA,Parallel Slalom,Female
-2,2023-01-14,Alleghe,ITA,EC,Parallel Slalom,Male
-3,2023-01-14,Alleghe,ITA,EC,Parallel Slalom,Female
-4,2023-01-15,Alleghe,ITA,QUA,Parallel Slalom,Male
-5,2023-01-15,Alleghe,ITA,QUA,Parallel Slalom,Female
-6,2023-01-15,Alleghe,ITA,EC,Parallel Slalom,Male
-7,2023-01-15,Alleghe,ITA,EC,Parallel Slalom,Female
-0,2023-01-21,Bansko,BUL,QUA,Parallel Slalom,Female
-1,2023-01-21,Bansko,BUL,QUA,Parallel Slalom,Male
-2,2023-01-21,Bansko,BUL,WC,Parallel Slalom,Female
-3,2023-01-21,Bansko,BUL,WC,Parallel Slalom,Male
-4,2023-01-22,Bansko,BUL,QUA,Parallel Slalom,Female
-5,2023-01-22,Bansko,BUL,QUA,Parallel Slalom,Male
-6,2023-01-22,Bansko,BUL,WC,Parallel Slalom,Female
-7,2023-01-22,Bansko,BUL,WC,Parallel Slalom,Male
-0,2023-01-23,Piancavallo,ITA,EYOF,Parallel Giant Slalom,Male
-1,2023-01-23,Piancavallo,ITA,EYOF,Parallel Giant Slalom,Female
-2,2023-01-24,Piancavallo,ITA,EYOF,Parallel Giant Slalom Team,Female
-3,2023-01-26,Piancavallo,ITA,EYOF,Snowboard Cross,Male
-4,2023-01-26,Piancavallo,ITA,EYOF,Snowboard Cross,Female
-5,2023-01-27,Piancavallo,ITA,EYOF,Snowboard Cross Team,Female
-0,2023-01-26,Blue,ountai,QUA,Parallel Giant Slalom,Female
-1,2023-01-26,Blue,ountai,QUA,Parallel Giant Slalom,Male
-2,2023-01-26,Blue,ountai,WC,Parallel Giant Slalom,Female
-3,2023-01-26,Blue,ountai,WC,Parallel Giant Slalom,Male
-4,2023-01-27,Blue,ountai,QUA,Parallel Giant Slalom,Female
-5,2023-01-27,Blue,ountai,QUA,Parallel Giant Slalom,Male
-6,2023-01-27,Blue,ountai,WC,Parallel Giant Slalom,Female
-7,2023-01-27,Blue,ountai,WC,Parallel Giant Slalom,Male
-0,2023-01-28,Nova,evant,FIS,Parallel Slalom,Male
-1,2023-01-28,Nova,evant,FIS,Parallel Slalom,Female
-2,2023-01-29,Nova,evant,FIS,Parallel Slalom,Male
-3,2023-01-29,Nova,evant,FIS,Parallel Slalom,Female
-0,2023-01-28,Simonhöhe,AUT,EC,Parallel Giant Slalom,Male
-1,2023-01-28,Simonhöhe,AUT,EC,Parallel Giant Slalom,Female
-2,2023-01-28,Simonhöhe,AUT,QUA,Parallel Giant Slalom,Male
-3,2023-01-28,Simonhöhe,AUT,QUA,Parallel Giant Slalom,Female
-4,2023-01-29,Simonhöhe,AUT,EC,Parallel Giant Slalom,Male
-5,2023-01-29,Simonhöhe,AUT,EC,Parallel Giant Slalom,Female
-6,2023-01-29,Simonhöhe,AUT,QUA,Parallel Giant Slalom,Male
-7,2023-01-29,Simonhöhe,AUT,QUA,Parallel Giant Slalom,Female
-0,2023-01-28,Anilio,GRE,FIS,Giant Slalom,Male
-1,2023-01-28,Anilio,GRE,NC,Slopestyle,Male
-2,2023-01-28,Anilio,GRE,FIS,Giant Slalom,Female
-3,2023-01-28,Anilio,GRE,NC,Slopestyle,Female
-4,2023-01-28,Anilio,GRE,CHI,Giant Slalom,Male
-5,2023-01-28,Anilio,GRE,CHI,Slopestyle,Male
-6,2023-01-28,Anilio,GRE,CHI,Giant Slalom,Female
-7,2023-01-28,Anilio,GRE,CHI,Slopestyle,Female
-8,2023-01-29,Anilio,GRE,FIS,Big Air,Male
-9,2023-01-29,Anilio,GRE,FIS,Big Air,Female
-10,2023-01-29,Anilio,GRE,CHI,Big Air,Male
-11,2023-01-29,Anilio,GRE,CHI,Big Air,Female
-0,2023-01-30,Blue,CAN,NAC,Parallel Giant Slalom,Male
-1,2023-01-30,Blue,CAN,NAC,Parallel Giant Slalom,Female
-2,2023-01-31,Blue,CAN,NAC,Parallel Slalom,Male
-3,2023-01-31,Blue,CAN,NAC,Parallel Slalom,Female
-4,2023-02-01,Blue,CAN,NJC,Parallel Giant Slalom,Male
-5,2023-02-01,Blue,CAN,NJC,Parallel Giant Slalom,Female
-6,2023-02-02,Blue,CAN,NJC,Parallel Slalom,Male
-7,2023-02-02,Blue,CAN,NJC,Parallel Slalom,Female
-0,2023-02-02,Kopaonik,SRB,FIS,Slalom,Male
-1,2023-02-02,Kopaonik,SRB,FIS,Slalom,Female
-2,2023-02-02,Kopaonik,SRB,CHI,Slalom,Male
-3,2023-02-02,Kopaonik,SRB,CHI,Slalom,Male
-4,2023-02-02,Kopaonik,SRB,CHI,Slalom,Female
-5,2023-02-02,Kopaonik,SRB,CHI,Slalom,Female
-6,2023-02-03,Kopaonik,SRB,FIS,Giant Slalom,Male
-7,2023-02-03,Kopaonik,SRB,FIS,Giant Slalom,Female
-8,2023-02-03,Kopaonik,SRB,CHI,Giant Slalom,Male
-9,2023-02-03,Kopaonik,SRB,CHI,Giant Slalom,Male
-10,2023-02-03,Kopaonik,SRB,CHI,Giant Slalom,Female
-11,2023-02-03,Kopaonik,SRB,CHI,Giant Slalom,Female
-0,2023-02-04,Lenzerheide,SUI,EC,Parallel Slalom,Male
-1,2023-02-04,Lenzerheide,SUI,EC,Parallel Slalom,Female
-2,2023-02-05,Lenzerheide,SUI,EC,Parallel Slalom,Male
-3,2023-02-05,Lenzerheide,SUI,EC,Parallel Slalom,Female
-0,2023-02-04,Gosau,AUT,FIS,Slalom,Male
-1,2023-02-04,Gosau,AUT,FIS,Slalom,Male
-2,2023-02-04,Gosau,AUT,FIS,Slalom,Female
-3,2023-02-04,Gosau,AUT,FIS,Slalom,Female
-4,2023-02-05,Gosau,AUT,FIS,Slalom,Male
-5,2023-02-05,Gosau,AUT,FIS,Slalom,Female
-0,2023-02-06,High1resort,KOR,FIS,Parallel Giant Slalom,Male
-1,2023-02-06,High1resort,KOR,FIS,Parallel Giant Slalom,Female
-2,2023-02-07,High1resort,KOR,FIS,Parallel Slalom,Male
-3,2023-02-07,High1resort,KOR,FIS,Parallel Slalom,Female
-0,2023-02-07,Tremblant.qc,CAN,NAC,Parallel Giant Slalom,Male
-1,2023-02-07,Tremblant.qc,CAN,NAC,Parallel Giant Slalom,Female
-2,2023-02-08,Tremblant.qc,CAN,NAC,Parallel Giant Slalom,Male
-3,2023-02-08,Tremblant.qc,CAN,NAC,Parallel Giant Slalom,Female
-4,2023-02-09,Tremblant.qc,CAN,FIS,Parallel Giant Slalom,Male
-5,2023-02-09,Tremblant.qc,CAN,FIS,Parallel Giant Slalom,Female
-0,2023-02-07,Popova,apk,NC,Giant Slalom,Male
-1,2023-02-07,Popova,apk,NC,Giant Slalom,Female
-2,2023-02-07,Popova,apk,CHI,Giant Slalom,Male
-3,2023-02-07,Popova,apk,CHI,Giant Slalom,Female
-4,2023-02-08,Popova,apk,FIS,Giant Slalom,Male
-5,2023-02-08,Popova,apk,FIS,Giant Slalom,Female
-6,2023-02-08,Popova,apk,CHI,Giant Slalom,Male
-7,2023-02-08,Popova,apk,CHI,Slopestyle,Male
-8,2023-02-08,Popova,apk,CHI,Giant Slalom,Female
-9,2023-02-08,Popova,apk,CHI,Slopestyle,Female
-10,2023-02-09,Popova,apk,NC,Slopestyle,Male
-11,2023-02-09,Popova,apk,NC,Slopestyle,Female
-12,2023-02-10,Popova,apk,FIS,Slopestyle,Male
-13,2023-02-10,Popova,apk,FIS,Slopestyle,Female
-0,2023-02-08,Pamporovo,BUL,FIS,Parallel Slalom,Male
-1,2023-02-08,Pamporovo,BUL,FIS,Parallel Slalom,Female
-2,2023-02-09,Pamporovo,BUL,FIS,Parallel Slalom,Male
-3,2023-02-09,Pamporovo,BUL,FIS,Parallel Slalom,Female
-0,2023-02-10,Cedars-capucine,LBN,FIS,Giant Slalom,Male
-1,2023-02-10,Cedars-capucine,LBN,FIS,Giant Slalom,Female
-2,2023-02-11,Cedars-capucine,LBN,FIS,Giant Slalom,Male
-3,2023-02-11,Cedars-capucine,LBN,FIS,Giant Slalom,Female
-0,2023-02-11,Alpine,k,FIS,Parallel Giant Slalom,Male
-1,2023-02-11,Alpine,k,FIS,Parallel Giant Slalom,Female
-0,2023-02-11,Seli,GRE,NC,Giant Slalom,Male
-1,2023-02-11,Seli,GRE,FIS,Giant Slalom,Male
-2,2023-02-11,Seli,GRE,NC,Giant Slalom,Female
-3,2023-02-11,Seli,GRE,FIS,Giant Slalom,Female
-4,2023-02-11,Seli,GRE,CHI,Giant Slalom,Male
-5,2023-02-11,Seli,GRE,CHI,Giant Slalom,Male
-6,2023-02-11,Seli,GRE,CHI,Giant Slalom,Female
-7,2023-02-11,Seli,GRE,CHI,Giant Slalom,Female
-8,2023-02-12,Seli,GRE,NC,Slalom,Male
-9,2023-02-12,Seli,GRE,NC,Slalom,Female
-10,2023-02-12,Seli,GRE,CHI,Slalom,Male
-11,2023-02-12,Seli,GRE,CHI,Slalom,Female
-0,2023-02-11,Funes,,FIS,Parallel Giant Slalom,Male
-1,2023-02-11,Funes,,FIS,Parallel Giant Slalom,Female
-2,2023-02-12,Funes,,FIS,Parallel Giant Slalom,Male
-3,2023-02-12,Funes,,FIS,Parallel Giant Slalom,Female
-0,2023-02-12,Cedars,LBN,FIS,Giant Slalom,Male
-1,2023-02-12,Cedars,LBN,FIS,Giant Slalom,Female
-2,2023-02-13,Cedars,LBN,FIS,Giant Slalom,Male
-3,2023-02-13,Cedars,LBN,FIS,Giant Slalom,Female
-4,2023-02-14,Cedars,LBN,NC,Giant Slalom,Male
-5,2023-02-14,Cedars,LBN,NC,Giant Slalom,Female
-0,2023-02-13,Bukovel,UKR,NC,Parallel Giant Slalom,Male
-1,2023-02-13,Bukovel,UKR,NC,Parallel Giant Slalom,Female
-2,2023-02-14,Bukovel,UKR,NC,Parallel Slalom,Male
-3,2023-02-14,Bukovel,UKR,NC,Parallel Slalom,Female
-0,2023-02-13,Palandoken,,FIS,Parallel Giant Slalom,Male
-1,2023-02-13,Palandoken,,FIS,Parallel Giant Slalom,Female
-2,2023-02-15,Palandoken,,FIS,Parallel Slalom,Male
-3,2023-02-15,Palandoken,,FIS,Parallel Slalom,Female
-4,2023-02-17,Palandoken,,FIS,Parallel Giant Slalom,Female
-0,2023-02-18,Bardonecchia,ITA,FIS,Parallel Slalom,Male
-1,2023-02-18,Bardonecchia,ITA,FIS,Parallel Slalom,Female
-2,2023-02-19,Bardonecchia,ITA,FIS,Parallel Slalom,Male
-3,2023-02-19,Bardonecchia,ITA,FIS,Parallel Slalom,Female
-0,2023-02-18,Giants,idg,NAC,Parallel Giant Slalom,Male
-1,2023-02-18,Giants,idg,NAC,Parallel Giant Slalom,Female
-2,2023-02-18,Giants,idg,FIS,Parallel Giant Slalom,Male
-3,2023-02-18,Giants,idg,FIS,Parallel Giant Slalom,Female
-4,2023-02-19,Giants,idg,NAC,Parallel Slalom,Male
-5,2023-02-19,Giants,idg,NAC,Parallel Slalom,Female
-0,2023-02-19,Bakuriani,GEO,QUA,Parallel Giant Slalom,Female
-1,2023-02-19,Bakuriani,GEO,QUA,Parallel Giant Slalom,Male
-2,2023-02-19,Bakuriani,GEO,WSC,Parallel Giant Slalom,Female
-3,2023-02-19,Bakuriani,GEO,WSC,Parallel Giant Slalom,Male
-4,2023-02-21,Bakuriani,GEO,QUA,Parallel Slalom,Female
-5,2023-02-21,Bakuriani,GEO,QUA,Parallel Slalom,Male
-6,2023-02-21,Bakuriani,GEO,WSC,Parallel Slalom,Female
-7,2023-02-21,Bakuriani,GEO,WSC,Parallel Slalom,Male
-8,2023-02-22,Bakuriani,GEO,WSC,Parallel Slalom Team,Female
-9,2023-02-24,Bakuriani,GEO,QUA,Slopestyle,Male
-10,2023-02-27,Bakuriani,GEO,QUA,Slopestyle,Female
-11,2023-02-27,Bakuriani,GEO,WSC,Slopestyle,Female
-12,2023-02-27,Bakuriani,GEO,WSC,Slopestyle,Male
-13,2023-03-01,Bakuriani,GEO,QUA,Halfpipe,Female
-14,2023-03-01,Bakuriani,GEO,WSC,Snowboard Cross,Male
-15,2023-03-01,Bakuriani,GEO,QUA,Snowboard Cross,Male
-16,2023-03-01,Bakuriani,GEO,WSC,Snowboard Cross,Female
-17,2023-03-01,Bakuriani,GEO,QUA,Halfpipe,Male
-18,2023-03-01,Bakuriani,GEO,QUA,Snowboard Cross,Female
-19,2023-03-02,Bakuriani,GEO,QUA,Big Air,Male
-20,2023-03-02,Bakuriani,GEO,WSC,Snowboard Cross Team,Female
-21,2023-03-02,Bakuriani,GEO,QUA,Big Air,Female
-22,2023-03-03,Bakuriani,GEO,WSC,Halfpipe,Male
-23,2023-03-03,Bakuriani,GEO,WSC,Halfpipe,Female
-24,2023-03-04,Bakuriani,GEO,WSC,Big Air,Male
-25,2023-03-04,Bakuriani,GEO,WSC,Big Air,Female
-0,2023-02-23,Beaver,alle,FIS,Parallel Slalom,Male
-1,2023-02-23,Beaver,alle,FIS,Parallel Slalom,Female
-0,2023-02-25,Simonhoehe,AUT,JUN,Parallel Giant Slalom,Male
-1,2023-02-25,Simonhoehe,AUT,JUN,Parallel Giant Slalom,Female
-2,2023-02-26,Simonhoehe,AUT,JUN,Parallel Giant Slalom,Male
-3,2023-02-26,Simonhoehe,AUT,JUN,Parallel Giant Slalom,Female
-0,2023-02-25,Dolni,orav,FIS,Parallel Giant Slalom,Male
-1,2023-02-25,Dolni,orav,JUN,Parallel Giant Slalom,Male
-2,2023-02-25,Dolni,orav,FIS,Parallel Giant Slalom,Female
-3,2023-02-25,Dolni,orav,JUN,Parallel Giant Slalom,Female
-4,2023-02-26,Dolni,orav,FIS,Parallel Slalom,Male
-5,2023-02-26,Dolni,orav,JUN,Parallel Slalom,Male
-6,2023-02-26,Dolni,orav,FIS,Parallel Slalom,Female
-7,2023-02-26,Dolni,orav,JUN,Parallel Slalom,Female
-8,2023-02-27,Dolni,orav,FIS,Parallel Slalom,Male
-9,2023-02-27,Dolni,orav,JUN,Parallel Slalom,Male
-10,2023-02-27,Dolni,orav,FIS,Parallel Slalom,Female
-11,2023-02-27,Dolni,orav,JUN,Parallel Slalom,Female
-0,2023-02-27,Holiday,alle,NAC,Parallel Giant Slalom,Male
-1,2023-02-27,Holiday,alle,NAC,Parallel Giant Slalom,Female
-2,2023-02-28,Holiday,alle,NAC,Parallel Giant Slalom,Male
-3,2023-02-28,Holiday,alle,NAC,Parallel Giant Slalom,Female
-0,2023-03-02,High1resort,KOR,AC,Parallel Giant Slalom,Male
-1,2023-03-02,High1resort,KOR,AC,Parallel Giant Slalom,Female
-2,2023-03-03,High1resort,KOR,AC,Parallel Slalom,Male
-3,2023-03-03,High1resort,KOR,AC,Parallel Slalom,Female
-0,2023-03-04,Akan,JPN,FIS,Parallel Giant Slalom,Male
-1,2023-03-04,Akan,JPN,FIS,Parallel Giant Slalom,Female
-0,2023-03-03,Spindleruv,ly,FIS,Parallel Giant Slalom,Male
-1,2023-03-03,Spindleruv,ly,JUN,Parallel Giant Slalom,Male
-2,2023-03-03,Spindleruv,ly,FIS,Parallel Giant Slalom,Female
-3,2023-03-03,Spindleruv,ly,JUN,Parallel Giant Slalom,Female
-4,2023-03-04,Spindleruv,ly,NC,Parallel Giant Slalom,Male
-5,2023-03-04,Spindleruv,ly,NC,Parallel Giant Slalom,Female
-6,2023-03-04,Spindleruv,ly,NJC,Parallel Giant Slalom,Male
-7,2023-03-04,Spindleruv,ly,NJC,Parallel Giant Slalom,Female
-8,2023-03-05,Spindleruv,ly,NC,Parallel Slalom,Male
-9,2023-03-05,Spindleruv,ly,NC,Parallel Slalom,Female
-10,2023-03-05,Spindleruv,ly,NJC,Parallel Slalom,Male
-11,2023-03-05,Spindleruv,ly,NJC,Parallel Slalom,Female
-0,2023-03-04,Zakopane,POL,EC,Parallel Giant Slalom,Male
-1,2023-03-04,Zakopane,POL,EC,Parallel Giant Slalom,Female
-2,2023-03-05,Zakopane,POL,EC,Parallel Giant Slalom,Male
-3,2023-03-05,Zakopane,POL,EC,Parallel Giant Slalom,Female
-0,2023-03-04,Val,enale,FIS,Parallel Slalom,Male
-1,2023-03-04,Val,enale,FIS,Parallel Slalom,Female
-2,2023-03-05,Val,enale,FIS,Parallel Slalom,Male
-3,2023-03-05,Val,enale,FIS,Parallel Slalom,Female
-0,2023-03-05,Akan,JPN,NC,Parallel Giant Slalom,Male
-1,2023-03-05,Akan,JPN,NC,Parallel Giant Slalom,Female
-0,2023-03-09,Horseshoe,esor,NAC,Parallel Slalom,Male
-1,2023-03-09,Horseshoe,esor,NAC,Parallel Slalom,Female
-2,2023-03-10,Horseshoe,esor,NAC,Parallel Slalom,Male
-3,2023-03-10,Horseshoe,esor,NAC,Parallel Slalom,Female
-4,2023-03-10,Horseshoe,esor,FIS,Parallel Slalom,Male
-5,2023-03-10,Horseshoe,esor,FIS,Parallel Slalom,Female
-6,2023-03-11,Horseshoe,esor,FIS,Parallel Giant Slalom,Male
-7,2023-03-11,Horseshoe,esor,FIS,Parallel Giant Slalom,Female
-0,2023-03-11,Livigno,ITA,WC,Parallel Giant Slalom,Male
-1,2023-03-11,Livigno,ITA,WC,Parallel Giant Slalom,Female
-2,2023-03-11,Livigno,ITA,QUA,Parallel Giant Slalom,Male
-3,2023-03-11,Livigno,ITA,QUA,Parallel Giant Slalom,Female
-4,2023-03-12,Livigno,ITA,WC,Parallel Slalom,Male
-5,2023-03-12,Livigno,ITA,WC,Parallel Slalom,Female
-6,2023-03-12,Livigno,ITA,QUA,Parallel Slalom,Male
-7,2023-03-12,Livigno,ITA,QUA,Parallel Slalom,Female
-0,2023-03-11,Piancavallo,ITA,WC,Parallel Slalom,Male
-1,2023-03-11,Piancavallo,ITA,WC,Parallel Slalom,Female
-2,2023-03-12,Piancavallo,ITA,WC,Parallel Slalom Team,Female
-0,2023-03-11,Davos,SUI,EC,Parallel Slalom,Male
-1,2023-03-11,Davos,SUI,EC,Parallel Slalom,Female
-2,2023-03-12,Davos,SUI,EC,Parallel Slalom,Male
-3,2023-03-12,Davos,SUI,EC,Parallel Slalom,Female
-0,2023-03-11,Ortisei,ITA,FIS,Giant Slalom,Male
-1,2023-03-11,Ortisei,ITA,FIS,Giant Slalom,Female
-2,2023-03-12,Ortisei,ITA,FIS,Giant Slalom,Male
-3,2023-03-12,Ortisei,ITA,FIS,Giant Slalom,Female
-0,2023-03-15,Rogla,SLO,QUA,Parallel Giant Slalom,Female
-1,2023-03-15,Rogla,SLO,QUA,Parallel Giant Slalom,Male
-2,2023-03-15,Rogla,SLO,WC,Parallel Giant Slalom,Female
-3,2023-03-15,Rogla,SLO,WC,Parallel Giant Slalom,Male
-0,2023-03-18,Berchtesgaden,GER,QUA,Parallel Slalom,Female
-1,2023-03-18,Berchtesgaden,GER,QUA,Parallel Slalom,Male
-2,2023-03-18,Berchtesgaden,GER,WC,Parallel Slalom,Female
-3,2023-03-18,Berchtesgaden,GER,WC,Parallel Slalom,Male
-4,2023-03-19,Berchtesgaden,GER,WC,Parallel Slalom Team,Female
-0,2023-03-18,Ratschings,ITA,QUA,Parallel Slalom,Male
-1,2023-03-18,Ratschings,ITA,QUA,Parallel Slalom,Female
-2,2023-03-18,Ratschings,ITA,EC,Parallel Slalom,Male
-3,2023-03-18,Ratschings,ITA,EC,Parallel Slalom,Female
-4,2023-03-19,Ratschings,ITA,QUA,Parallel Slalom,Male
-5,2023-03-19,Ratschings,ITA,QUA,Parallel Slalom,Female
-6,2023-03-19,Ratschings,ITA,EC,Parallel Slalom,Male
-7,2023-03-19,Ratschings,ITA,EC,Parallel Slalom,Female
-0,2023-03-21,Kopaonik,SRB,FIS,Slalom,Male
-1,2023-03-21,Kopaonik,SRB,FIS,Slalom,Male
-2,2023-03-21,Kopaonik,SRB,FIS,Slalom,Female
-3,2023-03-21,Kopaonik,SRB,FIS,Slalom,Female
-4,2023-03-21,Kopaonik,SRB,CHI,Slalom,Male
-5,2023-03-21,Kopaonik,SRB,CHI,Slalom,Male
-6,2023-03-21,Kopaonik,SRB,CHI,Slalom,Male
-7,2023-03-21,Kopaonik,SRB,CHI,Slalom,Male
-8,2023-03-21,Kopaonik,SRB,CHI,Slalom,Male
-9,2023-03-21,Kopaonik,SRB,CHI,Slalom,Female
-10,2023-03-21,Kopaonik,SRB,CHI,Slalom,Female
-11,2023-03-21,Kopaonik,SRB,CHI,Slalom,Female
-0,2023-03-22,Kopaonik,SRB,NC,Giant Slalom,Male
-1,2023-03-22,Kopaonik,SRB,NC,Giant Slalom,Female
-2,2023-03-22,Kopaonik,SRB,CHI,Giant Slalom,Male
-3,2023-03-22,Kopaonik,SRB,CHI,Giant Slalom,Male
-4,2023-03-22,Kopaonik,SRB,CHI,Giant Slalom,Female
-5,2023-03-22,Kopaonik,SRB,CHI,Giant Slalom,Female
-6,2023-03-23,Kopaonik,SRB,NC,Slalom,Male
-7,2023-03-23,Kopaonik,SRB,NC,Slalom,Female
-8,2023-03-23,Kopaonik,SRB,CHI,Slalom,Male
-9,2023-03-23,Kopaonik,SRB,CHI,Slalom,Male
-10,2023-03-23,Kopaonik,SRB,CHI,Slalom,Female
-11,2023-03-23,Kopaonik,SRB,CHI,Slalom,Female
-0,2023-03-24,Bansko,BUL,QUA,Parallel Giant Slalom,Female
-1,2023-03-24,Bansko,BUL,QUA,Parallel Giant Slalom,Male
-2,2023-03-24,Bansko,BUL,WJC,Parallel Giant Slalom,Female
-3,2023-03-24,Bansko,BUL,WJC,Parallel Giant Slalom,Male
-4,2023-03-25,Bansko,BUL,QUA,Parallel Slalom,Female
-5,2023-03-25,Bansko,BUL,QUA,Parallel Slalom,Male
-6,2023-03-25,Bansko,BUL,WJC,Parallel Slalom,Female
-7,2023-03-25,Bansko,BUL,WJC,Parallel Slalom,Male
-8,2023-03-26,Bansko,BUL,WJC,Parallel Team,Female
-0,2023-03-24,Kopaonik,SRB,FIS,Giant Slalom,Male
-1,2023-03-24,Kopaonik,SRB,FIS,Giant Slalom,Male
-2,2023-03-24,Kopaonik,SRB,FIS,Giant Slalom,Female
-3,2023-03-24,Kopaonik,SRB,FIS,Giant Slalom,Female
-4,2023-03-24,Kopaonik,SRB,CHI,Giant Slalom,Male
-5,2023-03-24,Kopaonik,SRB,CHI,Giant Slalom,Male
-6,2023-03-24,Kopaonik,SRB,CHI,Giant Slalom,Male
-7,2023-03-24,Kopaonik,SRB,CHI,Giant Slalom,Male
-8,2023-03-24,Kopaonik,SRB,CHI,Giant Slalom,Female
-9,2023-03-24,Kopaonik,SRB,CHI,Giant Slalom,Female
-10,2023-03-24,Kopaonik,SRB,CHI,Giant Slalom,Female
-11,2023-03-24,Kopaonik,SRB,CHI,Giant Slalom,Female
-0,2023-03-25,Villach,,FIS,Parallel Slalom,Male
-1,2023-03-25,Villach,,FIS,Parallel Slalom,Female
-2,2023-03-26,Villach,,FIS,Parallel Slalom,Male
-3,2023-03-26,Villach,,FIS,Parallel Slalom,Female
-0,2023-03-27,Bansko,BUL,NC,Parallel Giant Slalom,Male
-1,2023-03-27,Bansko,BUL,NC,Parallel Giant Slalom,Female
-2,2023-03-28,Bansko,BUL,NC,Parallel Slalom,Male
-3,2023-03-28,Bansko,BUL,NC,Parallel Slalom,Female
-0,2023-03-30,Cortina,Ampezz,NC,Parallel Slalom,Male
-1,2023-03-30,Cortina,Ampezz,NC,Parallel Slalom,Female
-2,2023-03-31,Cortina,Ampezz,NC,Parallel Giant Slalom,Male
-3,2023-03-31,Cortina,Ampezz,NC,Parallel Giant Slalom,Female
-0,2023-04-01,Haus,,NC,Parallel Giant Slalom,Male
-1,2023-04-01,Haus,,NC,Parallel Giant Slalom,Female
-2,2023-04-02,Haus,,NC,Parallel Slalom,Male
-3,2023-04-02,Haus,,NC,Parallel Slalom,Female
-0,2023-04-01,Pizol,SUI,NC,Parallel Giant Slalom,Male
-1,2023-04-01,Pizol,SUI,NC,Parallel Giant Slalom,Female
-2,2023-04-01,Pizol,SUI,QUA,Parallel Giant Slalom,Male
-3,2023-04-01,Pizol,SUI,QUA,Parallel Giant Slalom,Female
-4,2023-04-02,Pizol,SUI,NC,Parallel Slalom,Male
-5,2023-04-02,Pizol,SUI,NC,Parallel Slalom,Female
-6,2023-04-02,Pizol,SUI,QUA,Parallel Slalom,Male
-7,2023-04-02,Pizol,SUI,QUA,Parallel Slalom,Female
-0,2023-04-02,Copper,ountai,NC,Snowboard Cross,Male
-1,2023-04-02,Copper,ountai,NC,Snowboard Cross,Female
-2,2023-04-03,Copper,ountai,NC,Parallel Giant Slalom,Male
-3,2023-04-03,Copper,ountai,NC,Parallel Giant Slalom,Female
-4,2023-04-04,Copper,ountai,NC,Parallel Slalom,Male
-5,2023-04-04,Copper,ountai,NC,Parallel Slalom,Female
-6,2023-04-05,Copper,ountai,NC,Halfpipe,Male
-7,2023-04-05,Copper,ountai,NC,Halfpipe,Female
-8,2023-04-06,Copper,ountai,NC,Slopestyle,Male
-9,2023-04-06,Copper,ountai,NC,Slopestyle,Female
-0,2023-04-04,Tochal,IRI,FIS,Giant Slalom,Male
-1,2023-04-04,Tochal,IRI,FIS,Giant Slalom,Female
-2,2023-04-05,Tochal,IRI,FIS,Giant Slalom,Male
-3,2023-04-05,Tochal,IRI,FIS,Giant Slalom,Female
-0,2023-04-10,Krvavec,SLO,NC,Parallel Giant Slalom,Male
-1,2023-04-10,Krvavec,SLO,NC,Slalom,Male
-2,2023-04-10,Krvavec,SLO,NC,Parallel Giant Slalom,Female
-3,2023-04-10,Krvavec,SLO,NC,Slalom,Female
-4,2023-04-10,Krvavec,SLO,NJC,Parallel Giant Slalom,Male
-5,2023-04-10,Krvavec,SLO,NJC,Slalom,Male
-6,2023-04-10,Krvavec,SLO,NJC,Parallel Giant Slalom,Female
-7,2023-04-10,Krvavec,SLO,NJC,Slalom,Female
-8,2023-04-10,Krvavec,SLO,CHI,Parallel Giant Slalom,Male
-9,2023-04-10,Krvavec,SLO,CHI,Slalom,Male
-10,2023-04-10,Krvavec,SLO,CHI,Parallel Giant Slalom,Female
-11,2023-04-10,Krvavec,SLO,CHI,Slalom,Female
-0,2023-04-18,Tochal,IRI,FIS,Slalom,Male
-1,2023-04-18,Tochal,IRI,FIS,Slalom,Female
-2,2023-04-19,Tochal,IRI,FIS,Slalom,Male
-3,2023-04-19,Tochal,IRI,FIS,Slalom,Female
-0,2023-04-25,Tochal,IRI,FIS,Slalom,Male
-1,2023-04-25,Tochal,IRI,FIS,Slalom,Female
-2,2023-04-26,Tochal,IRI,FIS,Giant Slalom,Male
-3,2023-04-26,Tochal,IRI,FIS,Giant Slalom,Female
+Date,Location,Country,Category,Discipline,Gender
+2023-12-08,Götschen,GER,QUA,Parallel Slalom,Male
+2023-12-08,Götschen,GER,QUA,Parallel Slalom,Female
+2023-12-08,Götschen,GER,EC,Parallel Slalom,Male
+2023-12-08,Götschen,GER,EC,Parallel Slalom,Female
+2023-12-09,Götschen,GER,QUA,Parallel Slalom,Male
+2023-12-09,Götschen,GER,QUA,Parallel Slalom,Female
+2023-12-09,Götschen,GER,EC,Parallel Slalom,Male
+2023-12-09,Götschen,GER,EC,Parallel Slalom,Female
+2023-12-10,Götschen,GER,JUN,Parallel Slalom,Male
+2023-12-10,Götschen,GER,JUN,Parallel Slalom,Female
+2023-12-14,Carezza,ITA,QUA,Parallel Giant Slalom,Female
+2023-12-14,Carezza,ITA,QUA,Parallel Giant Slalom,Male
+2023-12-14,Carezza,ITA,WC,Parallel Giant Slalom,Female
+2023-12-14,Carezza,ITA,WC,Parallel Giant Slalom,Male
+2023-12-16,Cortina,'Ampezz,QUA,Parallel Giant Slalom,Female
+2023-12-16,Cortina,'Ampezz,QUA,Parallel Giant Slalom,Male
+2023-12-16,Cortina,'Ampezz,WC,Parallel Giant Slalom,Female
+2023-12-16,Cortina,'Ampezz,WC,Parallel Giant Slalom,Male
+2023-12-19,Moninec,CZE,EC,Parallel Slalom,Male
+2023-12-19,Moninec,CZE,EC,Parallel Slalom,Female
+2023-12-20,Moninec,CZE,EC,Parallel Slalom,Male
+2023-12-20,Moninec,CZE,EC,Parallel Slalom,Female
+2023-12-21,Moninec,CZE,FIS,Parallel Slalom,Male
+2023-12-21,Moninec,CZE,JUN,Parallel Slalom,Male
+2023-12-21,Moninec,CZE,FIS,Parallel Slalom,Female
+2023-12-21,Moninec,CZE,JUN,Parallel Slalom,Female
+2023-12-22,Moninec,CZE,FIS,Parallel Slalom,Male
+2023-12-22,Moninec,CZE,JUN,Parallel Slalom,Male
+2023-12-22,Moninec,CZE,FIS,Parallel Slalom,Female
+2023-12-22,Moninec,CZE,JUN,Parallel Slalom,Female
+2023-12-23,Davos,SUI,QUA,Parallel Slalom,Female
+2023-12-23,Davos,SUI,QUA,Parallel Slalom,Male
+2023-12-23,Davos,SUI,WC,Parallel Slalom,Female
+2023-12-23,Davos,SUI,WC,Parallel Slalom,Male
+2024-01-04,Afton,lp,NAC,Parallel Slalom,Male
+2024-01-04,Afton,lp,NAC,Parallel Slalom,Female
+2024-01-05,Afton,lp,NAC,Parallel Slalom,Male
+2024-01-05,Afton,lp,NAC,Parallel Slalom,Female
+2024-01-05,Afton,lp,FIS,Parallel Slalom,Male
+2024-01-05,Afton,lp,FIS,Parallel Slalom,Female
+2024-01-05,Simonhöhe,AUT,JUN,Parallel Giant Slalom,Male
+2024-01-05,Simonhöhe,AUT,JUN,Parallel Giant Slalom,Female
+2024-01-06,Dolni,orav,NC,Parallel Slalom,Male
+2024-01-06,Dolni,orav,NC,Parallel Slalom,Female
+2024-01-06,Dolni,orav,NJC,Parallel Slalom,Male
+2024-01-06,Dolni,orav,NJC,Parallel Slalom,Female
+2024-01-07,Dolni,orav,NC,Parallel Giant Slalom,Male
+2024-01-07,Dolni,orav,NC,Parallel Giant Slalom,Female
+2024-01-07,Dolni,orav,NJC,Parallel Giant Slalom,Male
+2024-01-07,Dolni,orav,NJC,Parallel Giant Slalom,Female
+2024-01-10,Steamboat,k,FIS,Giant Slalom,Male
+2024-01-10,Steamboat,k,FIS,Giant Slalom,Female
+2024-01-11,Steamboat,k,NAC,Parallel Giant Slalom,Male
+2024-01-11,Steamboat,k,NAC,Parallel Giant Slalom,Female
+2024-01-12,Steamboat,k,NAC,Parallel Slalom,Male
+2024-01-12,Steamboat,k,NAC,Parallel Slalom,Female
+2024-01-11,Folgaria,ITA,EC,Parallel Slalom,Male
+2024-01-11,Folgaria,ITA,EC,Parallel Slalom,Female
+2024-01-11,Folgaria,ITA,QUA,Parallel Slalom,Male
+2024-01-11,Folgaria,ITA,QUA,Parallel Slalom,Female
+2024-01-12,Folgaria,ITA,EC,Parallel Slalom,Male
+2024-01-12,Folgaria,ITA,EC,Parallel Slalom,Female
+2024-01-12,Folgaria,ITA,QUA,Parallel Slalom,Male
+2024-01-12,Folgaria,ITA,QUA,Parallel Slalom,Female
+2024-01-13,Scuol,SUI,QUA,Parallel Giant Slalom,Female
+2024-01-13,Scuol,SUI,QUA,Parallel Giant Slalom,Male
+2024-01-13,Scuol,SUI,WC,Parallel Giant Slalom,Female
+2024-01-13,Scuol,SUI,WC,Parallel Giant Slalom,Male
+2024-01-13,Gosau,AUT,FIS,Parallel Slalom,Male
+2024-01-13,Gosau,AUT,FIS,Parallel Slalom,Female
+2024-01-14,Gosau,AUT,FIS,Parallel Slalom,Male
+2024-01-14,Gosau,AUT,FIS,Parallel Slalom,Female
+2024-01-16,Bad,astei,QUA,Parallel Slalom,Female
+2024-01-16,Bad,astei,QUA,Parallel Slalom,Male
+2024-01-16,Bad,astei,WC,Parallel Slalom,Female
+2024-01-16,Bad,astei,WC,Parallel Slalom,Male
+2024-01-17,Bad,astei,WC,Parallel Slalom Team,Female
+2024-01-18,Kopaonik,SRB,FIS,Giant Slalom,Male
+2024-01-18,Kopaonik,SRB,FIS,Giant Slalom,Female
+2024-01-19,Kopaonik,SRB,FIS,Slalom,Male
+2024-01-19,Kopaonik,SRB,FIS,Slalom,Female
+2024-01-20,Kopaonik,SRB,FIS,Big Air,Male
+2024-01-20,Kopaonik,SRB,FIS,Big Air,Female
+2024-01-21,Kopaonik,SRB,FIS,Slopestyle,Male
+2024-01-21,Kopaonik,SRB,FIS,Slopestyle,Female
+2024-01-20,Pamporovo,BUL,QUA,Parallel Slalom,Female
+2024-01-20,Pamporovo,BUL,QUA,Parallel Slalom,Male
+2024-01-20,Pamporovo,BUL,WC,Parallel Slalom,Female
+2024-01-20,Pamporovo,BUL,WC,Parallel Slalom,Male
+2024-01-21,Pamporovo,BUL,QUA,Parallel Slalom,Female
+2024-01-21,Pamporovo,BUL,QUA,Parallel Slalom,Male
+2024-01-21,Pamporovo,BUL,WC,Parallel Slalom,Female
+2024-01-21,Pamporovo,BUL,WC,Parallel Slalom,Male
+2024-01-23,Pamporovo,BUL,EC,Parallel Slalom,Male
+2024-01-23,Pamporovo,BUL,EC,Parallel Slalom,Female
+2024-01-24,Pamporovo,BUL,EC,Parallel Slalom,Male
+2024-01-24,Pamporovo,BUL,EC,Parallel Slalom,Female
+2024-01-25,Rogla,SLO,QUA,Parallel Giant Slalom,Female
+2024-01-25,Rogla,SLO,QUA,Parallel Giant Slalom,Male
+2024-01-25,Rogla,SLO,WC,Parallel Giant Slalom,Female
+2024-01-25,Rogla,SLO,WC,Parallel Giant Slalom,Male
+2024-01-26,Mzaar,k,FIS,Giant Slalom,Male
+2024-01-26,Mzaar,k,FIS,Giant Slalom,Female
+2024-01-27,Mzaar,k,FIS,Giant Slalom,Male
+2024-01-27,Mzaar,k,FIS,Giant Slalom,Female
+2024-01-27,Horseshoe,esor,FIS,Parallel Slalom,Male
+2024-01-27,Horseshoe,esor,FIS,Parallel Slalom,Female
+2024-01-27,Simonhöhe,AUT,QUA,Parallel Giant Slalom,Female
+2024-01-27,Simonhöhe,AUT,QUA,Parallel Giant Slalom,Male
+2024-01-27,Simonhöhe,AUT,WC,Parallel Giant Slalom,Female
+2024-01-27,Simonhöhe,AUT,WC,Parallel Giant Slalom,Male
+2024-01-28,Simonhöhe,AUT,WC,Parallel Giant Slalom Team,Female
+2024-01-27,Nova,evant,FIS,Parallel Giant Slalom,Male
+2024-01-27,Nova,evant,FIS,Parallel Giant Slalom,Female
+2024-01-28,Nova,evant,FIS,Parallel Giant Slalom,Male
+2024-01-28,Nova,evant,FIS,Parallel Giant Slalom,Female
+2024-02-01,High1resort,KOR,FIS,Parallel Giant Slalom,Male
+2024-02-01,High1resort,KOR,FIS,Parallel Giant Slalom,Female
+2024-02-02,High1resort,KOR,FIS,Parallel Slalom,Male
+2024-02-02,High1resort,KOR,FIS,Parallel Slalom,Female
+2024-02-03,Haus,,JUN,Parallel Giant Slalom,Male
+2024-02-03,Haus,,JUN,Parallel Giant Slalom,Female
+2024-02-04,Haus,,JUN,Parallel Giant Slalom,Male
+2024-02-04,Haus,,JUN,Parallel Giant Slalom,Female
+2024-02-05,Val,ain,NAC,Parallel Giant Slalom,Male
+2024-02-05,Val,ain,NAC,Parallel Giant Slalom,Female
+2024-02-06,Val,ain,NAC,Parallel Giant Slalom,Male
+2024-02-06,Val,ain,NAC,Parallel Giant Slalom,Female
+2024-02-07,Val,ain,FIS,Parallel Giant Slalom,Male
+2024-02-07,Val,ain,FIS,Parallel Giant Slalom,Female
+2024-02-08,Funes,,NC,Parallel Giant Slalom,Male
+2024-02-08,Funes,,NC,Parallel Giant Slalom,Female
+2024-02-09,Funes,,NC,Parallel Slalom,Male
+2024-02-09,Funes,,NC,Parallel Slalom,Female
+2024-02-09,Alpine,k,NAC,Parallel Slalom,Male
+2024-02-09,Alpine,k,NAC,Parallel Slalom,Female
+2024-02-10,Alpine,k,NAC,Parallel Giant Slalom,Male
+2024-02-10,Alpine,k,NAC,Parallel Giant Slalom,Female
+2024-02-09,Hochficht/zwiesel,AUT,NC,Parallel Giant Slalom,Male
+2024-02-09,Hochficht/zwiesel,AUT,NC,Parallel Giant Slalom,Female
+2024-02-10,Hochficht/zwiesel,AUT,NC,Parallel Slalom,Male
+2024-02-10,Hochficht/zwiesel,AUT,NC,Parallel Slalom,Female
+2024-02-13,Bukovel,UKR,NC,Parallel Giant Slalom,Male
+2024-02-13,Bukovel,UKR,NC,Parallel Giant Slalom,Female
+2024-02-14,Bukovel,UKR,NC,Parallel Slalom,Male
+2024-02-14,Bukovel,UKR,NC,Parallel Slalom,Female
+2024-02-15,Craigleith,CAN,WC,Parallel Giant Slalom,Male
+2024-02-15,Craigleith,CAN,WC,Parallel Giant Slalom,Female
+2024-02-15,Craigleith,CAN,QUA,Parallel Giant Slalom,Male
+2024-02-15,Craigleith,CAN,QUA,Parallel Giant Slalom,Female
+2024-02-16,Craigleith,CAN,WC,Parallel Giant Slalom,Female
+2024-02-16,Cedars,k,FIS,Giant Slalom,Male
+2024-02-16,Cedars,k,NC,Giant Slalom,Male
+2024-02-16,Cedars,k,FIS,Giant Slalom,Female
+2024-02-16,Cedars,k,NC,Giant Slalom,Female
+2024-02-18,Cedars,k,FIS,Giant Slalom,Male
+2024-02-18,Cedars,k,FIS,Giant Slalom,Female
+2024-02-20,Shemshak,IRI,FIS,Slalom,Male
+2024-02-20,Shemshak,IRI,FIS,Slalom,Female
+2024-02-21,Shemshak,IRI,FIS,Slalom,Male
+2024-02-21,Shemshak,IRI,FIS,Slalom,Female
+2024-02-24,Krynica,POL,QUA,Parallel Giant Slalom,Female
+2024-02-24,Krynica,POL,QUA,Parallel Giant Slalom,Male
+2024-02-24,Krynica,POL,WC,Parallel Giant Slalom,Female
+2024-02-24,Krynica,POL,WC,Parallel Giant Slalom,Male
+2024-02-25,Krynica,POL,QUA,Parallel Giant Slalom,Female
+2024-02-25,Krynica,POL,QUA,Parallel Giant Slalom,Male
+2024-02-25,Krynica,POL,WC,Parallel Giant Slalom,Female
+2024-02-25,Krynica,POL,WC,Parallel Giant Slalom,Male
+2024-02-24,Stara,lanin,FIS,Slalom,Male
+2024-02-24,Stara,lanin,FIS,Slalom,Female
+2024-02-25,Stara,lanin,FIS,Giant Slalom,Male
+2024-02-25,Stara,lanin,FIS,Giant Slalom,Female
+2024-02-24,Stara,lanin,NC,Slalom,Male
+2024-02-24,Stara,lanin,NC,Slalom,Female
+2024-02-24,Stara,lanin,CHI,Slalom,Male
+2024-02-24,Stara,lanin,CHI,Slalom,Female
+2024-02-25,Stara,lanin,NC,Giant Slalom,Male
+2024-02-25,Stara,lanin,NC,Giant Slalom,Female
+2024-02-25,Stara,lanin,CHI,Giant Slalom,Male
+2024-02-25,Stara,lanin,CHI,Giant Slalom,Female
+2024-02-24,Alleghe,ITA,JUN,Parallel Giant Slalom,Male
+2024-02-24,Alleghe,ITA,JUN,Parallel Giant Slalom,Female
+2024-02-25,Alleghe,ITA,JUN,Parallel Giant Slalom,Male
+2024-02-25,Alleghe,ITA,JUN,Parallel Giant Slalom,Female
+2024-02-26,Holiday,alle,NAC,Parallel Giant Slalom,Male
+2024-02-26,Holiday,alle,NAC,Parallel Giant Slalom,Female
+2024-02-27,Holiday,alle,NAC,Parallel Giant Slalom,Male
+2024-02-27,Holiday,alle,NAC,Parallel Giant Slalom,Female
+2024-02-27,Vorras,GRE,FIS,Giant Slalom,Male
+2024-02-27,Vorras,GRE,NC,Giant Slalom,Male
+2024-02-27,Vorras,GRE,FIS,Giant Slalom,Female
+2024-02-27,Vorras,GRE,NC,Giant Slalom,Female
+2024-02-27,Vorras,GRE,CHI,Giant Slalom,Male
+2024-02-27,Vorras,GRE,CHI,Giant Slalom,Male
+2024-02-27,Vorras,GRE,CHI,Giant Slalom,Female
+2024-02-27,Vorras,GRE,CHI,Giant Slalom,Female
+2024-02-28,Vorras,GRE,NC,Slalom,Male
+2024-02-28,Vorras,GRE,NC,Slalom,Female
+2024-02-28,Vorras,GRE,CHI,Slalom,Male
+2024-02-28,Vorras,GRE,CHI,Slalom,Female
+2024-02-29,Jinshanling,alax,FIS,Parallel Giant Slalom,Male
+2024-02-29,Jinshanling,alax,FIS,Parallel Giant Slalom,Female
+2024-03-01,Jinshanling,alax,FIS,Parallel Slalom,Male
+2024-03-01,Jinshanling,alax,FIS,Parallel Slalom,Female
+2024-03-02,Akan,JPN,FIS,Parallel Giant Slalom,Male
+2024-03-02,Akan,JPN,FIS,Parallel Giant Slalom,Female
+2024-03-01,Akan,JPN,NC,Parallel Giant Slalom,Male
+2024-03-01,Akan,JPN,NC,Parallel Giant Slalom,Female
+2024-03-02,Simonhoehe,AUT,FIS,Parallel Giant Slalom,Male
+2024-03-02,Simonhoehe,AUT,FIS,Parallel Giant Slalom,Female
+2024-03-03,Simonhoehe,AUT,FIS,Parallel Giant Slalom,Male
+2024-03-03,Simonhoehe,AUT,FIS,Parallel Giant Slalom,Female
+2024-03-02,Shemshak,IRI,FIS,Slalom,Male
+2024-03-02,Shemshak,IRI,FIS,Slalom,Female
+2024-03-03,Shemshak,IRI,FIS,Slalom,Male
+2024-03-03,Shemshak,IRI,FIS,Slalom,Female
+2024-03-02,Kopaonik,SRB,FIS,Giant Slalom,Male
+2024-03-02,Kopaonik,SRB,FIS,Giant Slalom,Female
+2024-03-03,Kopaonik,SRB,FIS,Slalom,Male
+2024-03-03,Kopaonik,SRB,FIS,Slalom,Female
+2024-03-04,High1resort,KOR,AC,Parallel Giant Slalom,Male
+2024-03-04,High1resort,KOR,AC,Parallel Giant Slalom,Female
+2024-03-05,High1resort,KOR,AC,Parallel Slalom,Male
+2024-03-05,High1resort,KOR,AC,Parallel Slalom,Female
+2024-03-06,Toronto,k,NJC,Parallel Giant Slalom,Male
+2024-03-06,Toronto,k,NJC,Parallel Slalom,Male
+2024-03-06,Toronto,k,NJC,Parallel Giant Slalom,Female
+2024-03-06,Toronto,k,NJC,Parallel Slalom,Female
+2024-03-09,Winterberg,GER,QUA,Parallel Slalom,Female
+2024-03-09,Winterberg,GER,QUA,Parallel Slalom,Male
+2024-03-09,Winterberg,GER,WC,Parallel Slalom,Female
+2024-03-09,Winterberg,GER,WC,Parallel Slalom,Male
+2024-03-10,Winterberg,GER,WC,Parallel Slalom Team,Female
+2024-03-09,Lenzerheide,SUI,EC,Parallel Slalom,Male
+2024-03-09,Lenzerheide,SUI,EC,Parallel Slalom,Female
+2024-03-10,Lenzerheide,SUI,EC,Parallel Slalom,Male
+2024-03-10,Lenzerheide,SUI,EC,Parallel Slalom,Female
+2024-03-09,Senales,,FIS,Parallel Slalom,Male
+2024-03-09,Senales,,FIS,Parallel Slalom,Female
+2024-03-10,Senales,,FIS,Parallel Slalom,Male
+2024-03-10,Senales,,FIS,Parallel Slalom,Female
+2024-03-10,Dizin,IRI,FIS,Slalom,Male
+2024-03-10,Dizin,IRI,FIS,Slalom,Female
+2024-03-11,Dizin,IRI,FIS,Slalom,Male
+2024-03-11,Dizin,IRI,FIS,Slalom,Female
+2024-03-12,Cuiyunshan,alax,AC,Parallel Giant Slalom,Male
+2024-03-12,Cuiyunshan,alax,AC,Parallel Giant Slalom,Female
+2024-03-13,Cuiyunshan,alax,AC,Parallel Slalom,Male
+2024-03-13,Cuiyunshan,alax,AC,Parallel Slalom,Female
+2024-03-12,Davos/rinerhorn,SUI,EC,Parallel Giant Slalom,Male
+2024-03-12,Davos/rinerhorn,SUI,EC,Parallel Giant Slalom,Female
+2024-03-13,Davos/rinerhorn,SUI,EC,Parallel Giant Slalom,Male
+2024-03-13,Davos/rinerhorn,SUI,EC,Parallel Giant Slalom,Female
+2024-03-16,Berchtesgaden,GER,WC,Parallel Slalom,Male
+2024-03-16,Berchtesgaden,GER,WC,Parallel Slalom,Female
+2024-03-16,Berchtesgaden,GER,QUA,Parallel Slalom,Male
+2024-03-16,Berchtesgaden,GER,QUA,Parallel Slalom,Female
+2024-03-17,Berchtesgaden,GER,WC,Parallel Slalom Team,Female
+2024-03-16,St.,orit,QUA,Parallel Giant Slalom,Male
+2024-03-16,St.,orit,QUA,Parallel Giant Slalom,Female
+2024-03-16,St.,orit,EC,Parallel Giant Slalom,Male
+2024-03-16,St.,orit,EC,Parallel Giant Slalom,Female
+2024-03-17,St.,orit,QUA,Parallel Slalom,Male
+2024-03-17,St.,orit,QUA,Parallel Slalom,Female
+2024-03-17,St.,orit,EC,Parallel Slalom,Male
+2024-03-17,St.,orit,EC,Parallel Slalom,Female
+2024-03-16,Spindleruv,ly,FIS,Parallel Slalom,Male
+2024-03-16,Spindleruv,ly,JUN,Parallel Slalom,Male
+2024-03-16,Spindleruv,ly,FIS,Parallel Slalom,Female
+2024-03-17,Spindleruv,ly,FIS,Parallel Slalom,Male
+2024-03-17,Spindleruv,ly,JUN,Parallel Slalom,Male
+2024-03-17,Spindleruv,ly,FIS,Parallel Slalom,Female
+2024-03-17,Kayseri,,FIS,Parallel Giant Slalom,Male
+2024-03-17,Kayseri,,FIS,Parallel Giant Slalom,Female
+2024-03-18,Kayseri,,FIS,Parallel Slalom,Male
+2024-03-18,Kayseri,,FIS,Parallel Slalom,Female
+2024-03-18,Wanglong,k,AC,Parallel Giant Slalom,Male
+2024-03-18,Wanglong,k,AC,Parallel Giant Slalom,Female
+2024-03-19,Wanglong,k,AC,Slalom,Male
+2024-03-19,Wanglong,k,AC,Slalom,Female
+2024-03-19,Kopaonik,SRB,FIS,Giant Slalom,Male
+2024-03-19,Kopaonik,SRB,FIS,Giant Slalom,Female
+2024-03-20,Kopaonik,SRB,FIS,Slalom,Male
+2024-03-20,Kopaonik,SRB,FIS,Slalom,Female
+2024-03-22,Lachtal,AUT,QUA,Parallel Giant Slalom,Female
+2024-03-22,Lachtal,AUT,QUA,Parallel Giant Slalom,Male
+2024-03-22,Lachtal,AUT,WJC,Parallel Giant Slalom,Female
+2024-03-22,Lachtal,AUT,WJC,Parallel Giant Slalom,Male
+2024-03-23,Lachtal,AUT,QUA,Parallel Slalom,Female
+2024-03-23,Lachtal,AUT,QUA,Parallel Slalom,Male
+2024-03-23,Lachtal,AUT,WJC,Parallel Slalom,Female
+2024-03-23,Lachtal,AUT,WJC,Parallel Slalom,Male
+2024-03-24,Lachtal,AUT,WJC,Parallel Slalom Team,Female
+2024-03-30,Krvavec,SLO,NC,Parallel Giant Slalom,Male
+2024-03-30,Krvavec,SLO,NC,Parallel Giant Slalom,Female
+2024-03-30,Copper,ountain,NC,Rail Event,Male
+2024-03-30,Copper,ountain,NC,Rail Event,Female
+2024-03-31,Copper,ountain,NC,Snowboard Cross,Male
+2024-03-31,Copper,ountain,NC,Snowboard Cross,Female
+2024-04-01,Copper,ountain,NC,Parallel Giant Slalom,Male
+2024-04-01,Copper,ountain,NC,Parallel Giant Slalom,Female
+2024-04-02,Copper,ountain,NC,Parallel Slalom,Male
+2024-04-02,Copper,ountain,NC,Parallel Slalom,Female
+2024-04-03,Copper,ountain,NC,Halfpipe,Male
+2024-04-03,Copper,ountain,NC,Halfpipe,Female
+2024-04-04,Copper,ountain,NC,Slopestyle,Male
+2024-04-04,Copper,ountain,NC,Slopestyle,Female
+2024-04-04,Bansko,BUL,NC,Parallel Giant Slalom,Male
+2024-04-04,Bansko,BUL,NC,Parallel Giant Slalom,Female
+2024-04-05,Bansko,BUL,NC,Parallel Slalom,Male
+2024-04-05,Bansko,BUL,NC,Parallel Slalom,Female
+2024-04-06,Samnaun,SUI,NC,Parallel Slalom,Male
+2024-04-06,Samnaun,SUI,NC,Parallel Slalom,Female
+2024-04-07,Samnaun,SUI,NC,Giant Slalom,Male
+2024-04-07,Samnaun,SUI,NC,Giant Slalom,Female
+2024-04-15,Tochal,IRI,FIS,Giant Slalom,Male
+2024-04-15,Tochal,IRI,FIS,Giant Slalom,Female
+2024-04-16,Tochal,IRI,FIS,Giant Slalom,Male
+2024-04-16,Tochal,IRI,FIS,Giant Slalom,Female
+2024-04-23,Tochal,IRI,FIS,Slalom,Male
+2024-04-23,Tochal,IRI,FIS,Slalom,Female
+2024-04-24,Tochal,IRI,FIS,Giant Slalom,Male
+2024-04-24,Tochal,IRI,FIS,Giant Slalom,Female

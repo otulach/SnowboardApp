@@ -1,0 +1,420 @@
+Date,Location,Country,Category,Discipline,Gender
+2003-08-08,Mountain,e,FIS,Parallel GS,Male
+2003-08-08,Mountain,e,FIS,Parallel GS,Female
+2003-08-09,Mountain,e,FIS,Snowboardcross,Male
+2003-08-09,Mountain,e,FIS,Big Air,Male
+2003-08-09,Mountain,e,FIS,Snowboardcross,Female
+2003-08-09,Mountain,e,FIS,Big Air,Female
+2003-08-10,Mountain,e,FIS,Halfpipe,Male
+2003-08-10,Mountain,e,FIS,Halfpipe,Female
+2003-08-19,Valle,evad,SAC,Snowboardcross,Male
+2003-08-19,Valle,evad,SAC,Snowboardcross,Female
+2003-08-20,Valle,evad,SAC,Parallel GS,Male
+2003-08-20,Valle,evad,SAC,Parallel GS,Female
+2003-08-21,Valle,evad,FIS,Halfpipe,Male
+2003-08-21,Valle,evad,FIS,Halfpipe,Female
+2003-09-06,Falls,ree,NC,Parallel GS,Male
+2003-09-06,Falls,ree,NC,Big Air,Male
+2003-09-06,Falls,ree,NC,Parallel GS,Female
+2003-09-06,Falls,ree,NC,Big Air,Female
+2003-09-07,Falls,ree,NC,Halfpipe,Male
+2003-09-07,Falls,ree,NC,Halfpipe,Female
+2003-09-12,Valle,evad,WC,Parallel GS,Male
+2003-09-12,Valle,evad,WC,Snowboardcross,Male
+2003-09-12,Valle,evad,WC,Parallel GS,Female
+2003-09-12,Valle,evad,WC,Snowboardcross,Female
+2003-09-13,Valle,evad,WC,Halfpipe,Male
+2003-09-13,Valle,evad,WC,Halfpipe,Female
+2003-10-18,Soelden,AUT,WC,Parallel GS,Male
+2003-10-18,Soelden,AUT,WC,Parallel GS,Female
+2003-10-19,Soelden,AUT,WC,Parallel Slalom,Male
+2003-10-19,Soelden,AUT,WC,Parallel Slalom,Female
+2003-10-26,Landgraaf,NED,WC,Parallel Slalom,Male
+2003-10-26,Landgraaf,NED,WC,Parallel Slalom,Female
+2003-11-20,Copper,ountai,NAC,Parallel GS,Male
+2003-11-20,Copper,ountai,NAC,Parallel GS,Female
+2003-11-21,Copper,ountai,NAC,Parallel Slalom,Male
+2003-11-21,Copper,ountai,NAC,Slalom,Male
+2003-11-21,Copper,ountai,NAC,Parallel Slalom,Female
+2003-11-21,Copper,ountai,NAC,Slalom,Female
+2003-12-04,Tandadalen,SWE,WC,Parallel GS,Male
+2003-12-04,Tandadalen,SWE,WC,Parallel GS,Female
+2003-12-05,Tandadalen,SWE,WC,Halfpipe,Male
+2003-12-05,Tandadalen,SWE,WC,Halfpipe,Female
+2003-12-06,Tandadalen,SWE,WC,Big Air,Male
+2003-12-05,"Kansk,",rasnoyarskj,FIS,Parallel GS,Male
+2003-12-05,"Kansk,",rasnoyarskj,FIS,Parallel GS,Female
+2003-12-06,"Kansk,",rasnoyarskj,FIS,Parallel Slalom,Male
+2003-12-06,"Kansk,",rasnoyarskj,FIS,Parallel Slalom,Female
+2003-12-05,Davos,SUI,EC,Parallel GS,Male
+2003-12-05,Davos,SUI,EC,Halfpipe,Male
+2003-12-05,Davos,SUI,EC,Parallel GS,Female
+2003-12-05,Davos,SUI,EC,Halfpipe,Female
+2003-12-06,Davos,SUI,FIS,Halfpipe,Male
+2003-12-06,Davos,SUI,FIS,Halfpipe,Female
+2003-12-07,Davos,SUI,FIS,Halfpipe,Male
+2003-12-07,Davos,SUI,FIS,Halfpipe,Female
+2003-12-06,Kuehtai,AUT,FIS,Parallel Slalom,Male
+2003-12-06,Kuehtai,AUT,FIS,Parallel Slalom,Female
+2003-12-07,Kuehtai,AUT,FIS,Parallel Slalom,Male
+2003-12-07,Kuehtai,AUT,FIS,Parallel Slalom,Female
+2003-12-11,"Whistler,",,WC,Snowboardcross,Male
+2003-12-11,"Whistler,",,WC,Snowboardcross,Female
+2003-12-12,"Whistler,",,WC,Parallel GS,Male
+2003-12-12,"Whistler,",,WC,Parallel GS,Female
+2003-12-13,"Whistler,",,WC,Halfpipe,Male
+2003-12-13,"Whistler,",,WC,Halfpipe,Female
+2003-12-17,Park,ity,NAC,Parallel GS,Male
+2003-12-17,Park,ity,NAC,Parallel GS,Female
+2003-12-19,Park,ity,FIS,Halfpipe,Male
+2003-12-19,Park,ity,FIS,Halfpipe,Female
+2003-12-19,Les,ngle,FIS,Parallel GS,Male
+2003-12-19,Les,ngle,FIS,Parallel GS,Female
+2003-12-20,Les,ngle,FIS,Parallel GS,Male
+2003-12-20,Les,ngle,FIS,Parallel GS,Female
+2003-12-20,St.,etersbur,EC,Parallel Slalom,Male
+2003-12-20,St.,etersbur,EC,Big Air,Male
+2003-12-20,St.,etersbur,EC,Parallel Slalom,Female
+2003-12-20,St.,etersbur,EC,Big Air,Female
+2003-12-19,Stoneham,CAN,WC,Big Air,Male
+2003-12-20,Stoneham,CAN,WC,Halfpipe,Male
+2003-12-20,Stoneham,CAN,WC,Halfpipe,Female
+2003-12-21,Stoneham,CAN,WC,Parallel GS,Male
+2003-12-21,Stoneham,CAN,WC,Parallel GS,Female
+2003-12-26,Moscow,RUS,EC,Parallel Slalom,Male
+2003-12-26,Moscow,RUS,EC,Big Air,Male
+2003-12-26,Moscow,RUS,EC,Parallel Slalom,Female
+2003-12-26,Moscow,RUS,EC,Big Air,Female
+2003-12-29,Berchtesgaden,GER,EC,Parallel GS,Male
+2003-12-29,Berchtesgaden,GER,EC,Parallel GS,Female
+2004-01-04,Steamboat,pring,NAC,Parallel GS,Male
+2004-01-04,Steamboat,pring,NAC,Parallel GS,Female
+2004-01-05,Steamboat,pring,NAC,Parallel Slalom,Male
+2004-01-05,Steamboat,pring,NAC,Parallel Slalom,Female
+2004-01-05,Bad,astei,WC,Snowboardcross,Male
+2004-01-05,Bad,astei,WC,Snowboardcross,Female
+2004-01-06,Bad,astei,WC,Parallel Slalom,Male
+2004-01-06,Bad,astei,WC,Parallel Slalom,Female
+2004-01-09,Bardonecchia,ITA,FIS,Parallel GS,Male
+2004-01-09,Bardonecchia,ITA,FIS,Parallel GS,Female
+2004-01-10,Bardonecchia,ITA,FIS,Parallel Slalom,Male
+2004-01-10,Bardonecchia,ITA,FIS,Parallel Slalom,Female
+2004-01-09,Yongpyong,esor,FIS,Giant Slalom,Male
+2004-01-09,Yongpyong,esor,FIS,Giant Slalom,Female
+2004-01-10,Yongpyong,esor,FIS,Halfpipe,Male
+2004-01-10,Yongpyong,esor,FIS,Halfpipe,Female
+2004-01-10,Alpe,'Hue,WC,Parallel GS,Male
+2004-01-10,Alpe,'Hue,WC,Parallel GS,Female
+2004-01-11,Alpe,'Hue,WC,Parallel GS,Male
+2004-01-11,Alpe,'Hue,WC,Parallel GS,Female
+2004-01-17,Klinovec,CZE,JUN,Parallel GS,Male
+2004-01-17,Klinovec,CZE,FIS,Parallel GS,Male
+2004-01-17,Klinovec,CZE,JUN,Parallel GS,Female
+2004-01-17,Klinovec,CZE,FIS,Parallel GS,Female
+2004-01-18,Klinovec,CZE,JUN,Parallel Slalom,Male
+2004-01-18,Klinovec,CZE,JUN,Parallel Slalom,Male
+2004-01-18,Klinovec,CZE,FIS,Parallel Slalom,Male
+2004-01-18,Klinovec,CZE,JUN,Parallel Slalom,Male
+2004-01-18,Klinovec,CZE,FIS,Parallel Slalom,Female
+2004-01-18,Klinovec,CZE,JUN,Parallel Slalom,Female
+2004-01-18,Klinovec,CZE,FIS,Parallel Slalom,Female
+2004-01-18,Klinovec,CZE,JUN,Parallel Slalom,Female
+2004-01-17,Sankt,ohann/Ponga,EC,Parallel GS,Male
+2004-01-17,Sankt,ohann/Ponga,EC,Parallel GS,Female
+2004-01-18,Sankt,ohann/Ponga,EC,Parallel Slalom,Male
+2004-01-18,Sankt,ohann/Ponga,EC,Parallel Slalom,Female
+2004-01-17,Valmalenco,ITA,FIS,Parallel GS,Male
+2004-01-17,Valmalenco,ITA,FIS,Parallel GS,Female
+2004-01-18,Valmalenco,ITA,FIS,Snowboardcross,Male
+2004-01-18,Valmalenco,ITA,FIS,Snowboardcross,Female
+2004-01-23,Protasiv,ar,EC,Parallel Slalom,Male
+2004-01-23,Protasiv,ar,EC,Parallel Slalom,Female
+2004-01-24,Protasiv,ar,EC,Parallel Slalom,Male
+2004-01-24,Protasiv,ar,EC,Parallel Slalom,Female
+2004-01-24,Montgenevre,FRA,FIS,Parallel Slalom,Male
+2004-01-24,Montgenevre,FRA,FIS,Parallel Slalom,Female
+2004-01-25,Montgenevre,FRA,FIS,Snowboardcross,Male
+2004-01-25,Montgenevre,FRA,FIS,Snowboardcross,Female
+2004-01-24,Craigleith,CAN,FIS,Halfpipe,Male
+2004-01-24,Craigleith,CAN,FIS,Halfpipe,Female
+2004-01-25,Craigleith,CAN,FIS,Parallel GS,Male
+2004-01-25,Craigleith,CAN,FIS,Parallel GS,Female
+2004-01-24,Alberta,.O.,FIS,Giant Slalom,Male
+2004-01-24,Alberta,.O.,FIS,Halfpipe,Male
+2004-01-24,Alberta,.O.,FIS,Giant Slalom,Female
+2004-01-24,Alberta,.O.,FIS,Halfpipe,Female
+2004-01-25,Alberta,.O.,FIS,Parallel Slalom,Male
+2004-01-25,Alberta,.O.,FIS,Parallel Slalom,Female
+2004-01-24,Watles,ITA,FIS,Parallel GS,Male
+2004-01-24,Watles,ITA,FIS,Parallel GS,Female
+2004-01-25,Watles,ITA,FIS,Parallel Slalom,Male
+2004-01-25,Watles,ITA,FIS,Parallel Slalom,Female
+2004-01-24,Oze,okur,FIS,Giant Slalom,Male
+2004-01-24,Oze,okur,FIS,Giant Slalom,Female
+2004-01-25,Oze,okur,FIS,Slalom,Male
+2004-01-25,Oze,okur,FIS,Slalom,Female
+2004-01-24,Pec,o,FIS,Parallel Slalom,Male
+2004-01-24,Pec,o,JUN,Parallel Slalom,Male
+2004-01-24,Pec,o,FIS,Parallel Slalom,Female
+2004-01-24,Pec,o,JUN,Parallel Slalom,Female
+2004-01-25,Pec,o,FIS,Parallel Slalom,Male
+2004-01-25,Pec,o,JUN,Parallel Slalom,Male
+2004-01-25,Pec,o,FIS,Parallel Slalom,Female
+2004-01-25,Pec,o,JUN,Parallel Slalom,Female
+2004-01-27,Kluszkowce,POL,FIS,Parallel Slalom,Male
+2004-01-27,Kluszkowce,POL,FIS,Parallel Slalom,Female
+2004-01-31,Einsiedeln,SUI,FIS,Parallel Slalom,Male
+2004-01-31,Einsiedeln,SUI,FIS,Parallel Slalom,Female
+2004-01-31,"Okemo,",,NAC,Parallel GS,Male
+2004-01-31,"Okemo,",,NAC,Parallel GS,Female
+2004-02-01,"Okemo,",,NAC,Parallel Slalom,Male
+2004-02-01,"Okemo,",,NAC,Parallel Slalom,Female
+2004-01-31,Grand,ornan,FIS,Parallel GS,Male
+2004-01-31,Grand,ornan,FIS,Parallel GS,Female
+2004-02-01,Grand,ornan,FIS,Parallel GS,Male
+2004-02-01,Grand,ornan,FIS,Parallel GS,Female
+2004-01-31,Kluszkowce&szczawnica,POL,NC,Parallel GS,Male
+2004-01-31,Kluszkowce&szczawnica,POL,NC,Parallel GS,Female
+2004-02-01,Kluszkowce&szczawnica,POL,NC,Parallel Slalom,Male
+2004-02-01,Kluszkowce&szczawnica,POL,NC,Parallel Slalom,Female
+2004-02-03,Kluszkowce&szczawnica,POL,NC,Halfpipe,Male
+2004-02-03,Kluszkowce&szczawnica,POL,NC,Halfpipe,Female
+2004-02-04,Kluszkowce&szczawnica,POL,NC,Big Air,Male
+2004-02-04,Kluszkowce&szczawnica,POL,NC,Big Air,Female
+2004-02-03,Maribor,SLO,WC,Parallel GS,Male
+2004-02-03,Maribor,SLO,WC,Parallel GS,Female
+2004-02-04,Shemshak,IRI,FIS,Giant Slalom,Male
+2004-02-05,Shemshak,IRI,FIS,Parallel GS,Male
+2004-02-06,Shemshak,IRI,FIS,Slalom,Male
+2004-02-07,Tale,SVK,FIS,Parallel Slalom,Male
+2004-02-07,Tale,SVK,FIS,Parallel Slalom,Female
+2004-02-08,Tale,SVK,FIS,Parallel GS,Male
+2004-02-08,Tale,SVK,FIS,Parallel GS,Female
+2004-02-07,Sungwoo,k,FIS,Parallel GS,Male
+2004-02-07,Sungwoo,k,FIS,Parallel GS,Female
+2004-02-08,Sungwoo,k,FIS,Halfpipe,Male
+2004-02-08,Sungwoo,k,FIS,Halfpipe,Female
+2004-02-07,Berchtesgaden,GER,WC,Snowboardcross,Male
+2004-02-07,Berchtesgaden,GER,WC,Snowboardcross,Female
+2004-02-08,Berchtesgaden,GER,WC,Parallel GS,Male
+2004-02-08,Berchtesgaden,GER,WC,Parallel GS,Female
+2004-02-11,Klinovec,CZE,WJC,Parallel GS,Male
+2004-02-11,Klinovec,CZE,WJC,Parallel GS,Female
+2004-02-13,Klinovec,CZE,WJC,Halfpipe,Male
+2004-02-13,Klinovec,CZE,WJC,Halfpipe,Female
+2004-02-13,Cypress,CAN,NAC,Snowboardcross,Male
+2004-02-13,Cypress,CAN,NAC,Snowboardcross,Female
+2004-02-14,Cypress,CAN,NAC,Snowboardcross,Male
+2004-02-14,Cypress,CAN,NAC,Snowboardcross,Female
+2004-02-15,Cypress,CAN,NAC,Giant Slalom,Male
+2004-02-15,Cypress,CAN,NAC,Giant Slalom,Female
+2004-02-14,Gerlitzen,AUT,FIS,Parallel Slalom,Male
+2004-02-14,Gerlitzen,AUT,FIS,Parallel Slalom,Female
+2004-02-15,Gerlitzen,AUT,FIS,Parallel Slalom,Male
+2004-02-15,Gerlitzen,AUT,FIS,Parallel Slalom,Female
+2004-02-20,Sapporo,JPN,WC,Parallel GS,Male
+2004-02-20,Sapporo,JPN,WC,Parallel GS,Female
+2004-02-21,Sapporo,JPN,WC,Parallel Slalom,Male
+2004-02-21,Sapporo,JPN,WC,Parallel Slalom,Female
+2004-02-22,Sapporo,JPN,WC,Halfpipe,Male
+2004-02-22,Sapporo,JPN,WC,Halfpipe,Female
+2004-02-20,Mt.,orrua,NAC,Halfpipe,Male
+2004-02-20,Mt.,orrua,NAC,Halfpipe,Female
+2004-02-21,Mt.,orrua,NAC,Halfpipe,Male
+2004-02-21,Mt.,orrua,NAC,Halfpipe,Female
+2004-02-22,Mt.,orrua,NAC,Parallel GS,Male
+2004-02-22,Mt.,orrua,NAC,Parallel GS,Female
+2004-02-21,Mavrovo,MKD,EC,Giant Slalom,Male
+2004-02-21,Mavrovo,MKD,EC,Giant Slalom,Female
+2004-02-22,Mavrovo,MKD,EC,Parallel Slalom,Male
+2004-02-22,Mavrovo,MKD,EC,Snowboardcross,Male
+2004-02-22,Mavrovo,MKD,EC,Parallel Slalom,Female
+2004-02-22,Mavrovo,MKD,EC,Snowboardcross,Female
+2004-02-21,Mount,t,FIS,Snowboardcross,Male
+2004-02-21,Mount,t,FIS,Halfpipe,Male
+2004-02-21,Mount,t,FIS,Snowboardcross,Female
+2004-02-21,Mount,t,FIS,Halfpipe,Female
+2004-02-22,Mount,t,FIS,Parallel GS,Male
+2004-02-22,Mount,t,FIS,Parallel GS,Female
+2004-02-26,Pamporovo,BUL,NC,Parallel GS,Male
+2004-02-26,Pamporovo,BUL,NC,Parallel GS,Female
+2004-02-27,Pamporovo,BUL,NC,Parallel Slalom,Male
+2004-02-27,Pamporovo,BUL,NC,Parallel Slalom,Female
+2004-02-28,Alberta,CAN,FIS,Parallel Slalom,Male
+2004-02-28,Alberta,CAN,FIS,Parallel Slalom,Female
+2004-02-29,Alberta,CAN,FIS,Halfpipe,Male
+2004-02-29,Alberta,CAN,FIS,Halfpipe,Female
+2004-03-01,Crystal,ountai,NAC,Parallel GS,Male
+2004-03-01,Crystal,ountai,NAC,Parallel GS,Female
+2004-03-02,Crystal,ountai,NAC,Parallel Slalom,Male
+2004-03-02,Crystal,ountai,NAC,Parallel Slalom,Female
+2004-03-02,Oze-tokura,JPN,NC,Giant Slalom,Male
+2004-03-02,Oze-tokura,JPN,NC,Giant Slalom,Female
+2004-03-03,Oze-tokura,JPN,NC,Snowboardcross,Male
+2004-03-03,Oze-tokura,JPN,NC,Snowboardcross,Female
+2004-03-04,Oze-tokura,JPN,NC,Halfpipe,Male
+2004-03-04,Oze-tokura,JPN,NC,Halfpipe,Female
+2004-03-04,Szczyrk,POL,NC,Snowboardcross,Male
+2004-03-04,Szczyrk,POL,NC,Snowboardcross,Female
+2004-03-05,Szczyrk,POL,EC,Parallel GS,Male
+2004-03-05,Szczyrk,POL,EC,Parallel GS,Female
+2004-03-06,Szczyrk,POL,EC,Snowboardcross,Male
+2004-03-06,Szczyrk,POL,EC,Snowboardcross,Female
+2004-03-05,Leysin,SUI,EC,Parallel GS,Male
+2004-03-05,Leysin,SUI,EC,Parallel GS,Female
+2004-03-06,Leysin,SUI,FIS,Parallel GS,Male
+2004-03-06,Leysin,SUI,FIS,Parallel GS,Female
+2004-03-05,Mt.,achelor,WC,Parallel GS,Male
+2004-03-05,Mt.,achelor,WC,Parallel GS,Female
+2004-03-06,Mt.,achelor,WC,Snowboardcross,Male
+2004-03-06,Mt.,achelor,WC,Snowboardcross,Female
+2004-03-07,Mt.,achelor,WC,Big Air,Male
+2004-03-05,Mt,t,NAC,Parallel Slalom,Male
+2004-03-05,Mt,t,NAC,Parallel Slalom,Female
+2004-03-06,Mt,t,NAC,Halfpipe,Male
+2004-03-06,Mt,t,NAC,Halfpipe,Female
+2004-03-07,Mt,t,NAC,Halfpipe,Male
+2004-03-07,Mt,t,NAC,Halfpipe,Female
+2004-03-05,Alberta,CAN,FIS,Halfpipe,Male
+2004-03-05,Alberta,CAN,FIS,Halfpipe,Female
+2004-03-06,Alberta,CAN,FIS,Parallel Slalom,Male
+2004-03-06,Alberta,CAN,FIS,Parallel Slalom,Female
+2004-03-11,Azuga,k,FIS,Parallel GS,Male
+2004-03-11,Azuga,k,FIS,Parallel GS,Female
+2004-03-12,Azuga,k,FIS,Parallel Slalom,Male
+2004-03-12,Azuga,k,FIS,Big Air,Male
+2004-03-12,Azuga,k,FIS,Parallel Slalom,Female
+2004-03-12,Azuga,k,FIS,Big Air,Female
+2004-03-11,Bardonecchia,ITA,WC,Snowboardcross,Male
+2004-03-11,Bardonecchia,ITA,WC,Snowboardcross,Female
+2004-03-12,Bardonecchia,ITA,WC,Halfpipe,Male
+2004-03-12,Bardonecchia,ITA,WC,Halfpipe,Female
+2004-03-13,Bardonecchia,ITA,WC,Big Air,Male
+2004-03-14,Bardonecchia,ITA,WC,Parallel GS,Male
+2004-03-14,Bardonecchia,ITA,WC,Parallel GS,Female
+2004-03-12,Haus/ennstal,AUT,FIS,Parallel GS,Male
+2004-03-12,Haus/ennstal,AUT,FIS,Parallel GS,Female
+2004-03-13,Haus/ennstal,AUT,FIS,Parallel GS,Male
+2004-03-13,Haus/ennstal,AUT,FIS,Parallel GS,Female
+2004-03-12,Mt.,vil,NAC,Parallel GS,Male
+2004-03-12,Mt.,vil,NAC,Parallel GS,Female
+2004-03-13,Mt.,vil,NAC,Halfpipe,Male
+2004-03-13,Mt.,vil,NAC,Halfpipe,Female
+2004-03-14,Mt.,vil,NAC,Snowboardcross,Male
+2004-03-14,Mt.,vil,NAC,Snowboardcross,Female
+2004-03-13,Herlikovice,CZE,FIS,Parallel GS,Male
+2004-03-13,Herlikovice,CZE,JUN,Parallel GS,Male
+2004-03-13,Herlikovice,CZE,FIS,Parallel GS,Female
+2004-03-13,Herlikovice,CZE,JUN,Parallel GS,Female
+2004-03-14,Herlikovice,CZE,FIS,Parallel GS,Male
+2004-03-14,Herlikovice,CZE,JUN,Parallel GS,Male
+2004-03-14,Herlikovice,CZE,FIS,Parallel GS,Female
+2004-03-14,Herlikovice,CZE,JUN,Parallel GS,Female
+2004-03-19,Borovec,BUL,EC,Parallel GS,Male
+2004-03-19,Borovec,BUL,EC,Parallel GS,Female
+2004-03-20,Borovec,BUL,EC,Parallel GS,Male
+2004-03-20,Borovec,BUL,EC,Parallel GS,Female
+2004-03-19,Bad,astei,NC,Snowboardcross,Male
+2004-03-19,Bad,astei,NC,Snowboardcross,Female
+2004-03-20,Bad,astei,NC,Parallel GS,Male
+2004-03-20,Bad,astei,NC,Parallel GS,Female
+2004-03-21,Bad,astei,NC,Parallel Slalom,Male
+2004-03-21,Bad,astei,NC,Parallel Slalom,Female
+2004-03-19,Morzine/avoriaz/les,et,FIS,Halfpipe,Male
+2004-03-19,Morzine/avoriaz/les,et,FIS,Halfpipe,Female
+2004-03-20,Morzine/avoriaz/les,et,FIS,Parallel Slalom,Male
+2004-03-20,Morzine/avoriaz/les,et,FIS,Parallel Slalom,Female
+2004-03-21,Morzine/avoriaz/les,et,FIS,Snowboardcross,Male
+2004-03-21,Morzine/avoriaz/les,et,FIS,Snowboardcross,Female
+2004-03-20,Breckenridge,USA,NAC,Parallel GS,Male
+2004-03-20,Breckenridge,USA,NAC,Parallel GS,Female
+2004-03-21,Breckenridge,USA,NAC,Slalom,Male
+2004-03-21,Breckenridge,USA,NAC,Slalom,Female
+2004-03-20,Madesimo,ITA,NC,Parallel GS,Male
+2004-03-20,Madesimo,ITA,NC,Parallel GS,Female
+2004-03-21,Madesimo,ITA,NC,Parallel Slalom,Male
+2004-03-21,Madesimo,ITA,NC,Parallel Slalom,Female
+2004-03-24,Abetone,ITA,CHI,Parallel GS,Male
+2004-03-24,Abetone,ITA,CHI,Parallel GS,Female
+2004-03-25,Abetone,ITA,CHI,Snowboardcross,Male
+2004-03-25,Abetone,ITA,CHI,Snowboardcross,Female
+2004-03-25,Quebec,CAN,NC,Parallel Slalom,Male
+2004-03-25,Quebec,CAN,NC,Parallel Slalom,Female
+2004-03-26,Quebec,CAN,NC,Parallel GS,Male
+2004-03-26,Quebec,CAN,NC,Parallel GS,Female
+2004-03-27,Quebec,CAN,NC,Halfpipe,Male
+2004-03-27,Quebec,CAN,NC,Halfpipe,Female
+2004-03-28,Quebec,CAN,NC,Snowboardcross,Male
+2004-03-28,Quebec,CAN,NC,Snowboardcross,Female
+2004-03-25,Valloire,FRA,NC,Parallel GS,Male
+2004-03-25,Valloire,FRA,NC,Parallel GS,Female
+2004-03-26,Valloire,FRA,NC,Halfpipe,Male
+2004-03-26,Valloire,FRA,NC,Halfpipe,Female
+2004-03-27,Valloire,FRA,NC,Snowboardcross,Male
+2004-03-27,Valloire,FRA,NC,Snowboardcross,Female
+2004-03-28,Valloire,FRA,NC,Big Air,Male
+2004-03-28,Valloire,FRA,NC,Big Air,Female
+2004-03-26,Krvavec,SLO,NC,Snowboardcross,Male
+2004-03-26,Krvavec,SLO,NC,Snowboardcross,Female
+2004-03-27,Krvavec,SLO,NC,Parallel GS,Male
+2004-03-27,Krvavec,SLO,NC,Big Air,Male
+2004-03-27,Krvavec,SLO,NC,Parallel GS,Female
+2004-03-27,Krvavec,SLO,NC,Big Air,Female
+2004-03-26,Bischofswiesen,GER,NC,Parallel GS,Male
+2004-03-26,Bischofswiesen,GER,NC,Parallel GS,Female
+2004-03-27,Bischofswiesen,GER,NC,Parallel Slalom,Male
+2004-03-27,Bischofswiesen,GER,NC,Parallel Slalom,Female
+2004-03-28,Bischofswiesen,GER,NC,Snowboardcross,Male
+2004-03-28,Bischofswiesen,GER,NC,Snowboardcross,Female
+2004-03-27,Klinovec,CZE,NC,Parallel Slalom,Male
+2004-03-27,Klinovec,CZE,JUN,Parallel Slalom,Male
+2004-03-27,Klinovec,CZE,NC,Parallel GS,Male
+2004-03-27,Klinovec,CZE,JUN,Parallel GS,Male
+2004-03-27,Klinovec,CZE,NC,Parallel Slalom,Female
+2004-03-27,Klinovec,CZE,JUN,Parallel Slalom,Female
+2004-03-27,Klinovec,CZE,NC,Parallel GS,Female
+2004-03-27,Klinovec,CZE,JUN,Parallel GS,Female
+2004-03-27,Klinovec,CZE,NC,Snowboardcross,Female
+2004-03-28,Klinovec,CZE,JUN,Snowboardcross,Male
+2004-03-28,Klinovec,CZE,NC,Snowboardcross,Male
+2004-03-28,Klinovec,CZE,NC,Halfpipe,Male
+2004-03-28,Klinovec,CZE,JUN,Halfpipe,Male
+2004-03-28,Klinovec,CZE,JUN,Snowboardcross,Female
+2004-03-28,Klinovec,CZE,NC,Halfpipe,Female
+2004-03-28,Klinovec,CZE,JUN,Halfpipe,Female
+2004-03-27,Voras,GRE,FIS,Parallel GS,Male
+2004-03-27,Voras,GRE,FIS,Parallel GS,Female
+2004-03-28,Voras,GRE,FIS,Snowboardcross,Male
+2004-03-28,Voras,GRE,FIS,Snowboardcross,Female
+2004-03-27,Sochi,RUS,NC,Parallel GS,Male
+2004-03-27,Sochi,RUS,NC,Parallel GS,Female
+2004-03-28,Sochi,RUS,NC,Parallel Slalom,Male
+2004-03-29,Sochi,RUS,NC,Snowboardcross,Male
+2004-03-29,Sochi,RUS,NC,Parallel Slalom,Female
+2004-03-29,Sochi,RUS,NC,Snowboardcross,Female
+2004-04-01,Ruka,FIN,NC,Parallel GS,Male
+2004-04-01,Ruka,FIN,NC,Parallel GS,Female
+2004-04-02,Ruka,FIN,NC,Parallel Slalom,Male
+2004-04-02,Ruka,FIN,NC,Parallel Slalom,Female
+2004-04-03,Ruka,FIN,NC,Halfpipe,Male
+2004-04-03,Ruka,FIN,NC,Halfpipe,Female
+2004-04-04,Ruka,FIN,NC,Snowboardcross,Male
+2004-04-04,Ruka,FIN,FIS,Snowboardcross,Male
+2004-04-04,Ruka,FIN,NC,Snowboardcross,Female
+2004-04-04,Ruka,FIN,FIS,Snowboardcross,Female
+2004-04-03,Sils-furtschellas,SUI,JUN,Parallel GS,Male
+2004-04-03,Sils-furtschellas,SUI,JUN,Parallel GS,Female
+2004-04-04,Sils-furtschellas,SUI,NC,Parallel GS,Male
+2004-04-04,Sils-furtschellas,SUI,NC,Parallel GS,Female
+2004-04-03,Kopaonik,JUG,NC,Parallel GS,Male
+2004-04-03,Kopaonik,JUG,NC,Parallel GS,Female
+2004-04-04,Kopaonik,JUG,NC,Parallel GS,Male
+2004-04-04,Kopaonik,JUG,NC,Parallel GS,Female
+2004-04-17,Skelleftea,SWE,NC,Parallel GS,Male
+2004-04-17,Skelleftea,SWE,JUN,Parallel GS,Male
+2004-04-17,Skelleftea,SWE,NC,Parallel GS,Female
+2004-04-17,Skelleftea,SWE,JUN,Parallel GS,Female
+2004-04-18,Skelleftea,SWE,NC,Parallel Slalom,Male
+2004-04-18,Skelleftea,SWE,JUN,Parallel Slalom,Male
+2004-04-18,Skelleftea,SWE,NC,Parallel Slalom,Female
+2004-04-18,Skelleftea,SWE,JUN,Parallel Slalom,Female

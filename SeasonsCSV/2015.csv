@@ -1,0 +1,268 @@
+Date,Location,Country,Category,Discipline,Gender
+2015-10-15,Landgraaf,NED,EC,Parallel Slalom,Male
+2015-10-15,Landgraaf,NED,EC,Parallel Slalom,Female
+2015-10-16,Landgraaf,NED,EC,Parallel Slalom,Male
+2015-10-16,Landgraaf,NED,EC,Parallel Slalom,Female
+2015-11-18,Landgraaf,NED,PARA,Slalom,Male
+2015-11-18,Landgraaf,NED,PARA,Slalom,Female
+2015-11-18,Echo,ountain,NAC,Parallel Slalom,Male
+2015-11-18,Echo,ountain,NAC,Parallel Slalom,Female
+2015-11-19,Echo,ountain,NAC,Parallel Slalom,Male
+2015-11-19,Echo,ountain,NAC,Parallel Slalom,Female
+2015-11-19,Landgraaf,NED,PARA,Slalom,Male
+2015-11-19,Landgraaf,NED,PARA,Slalom,Female
+2015-11-20,Landgraaf,NED,PARA,Slalom,Male
+2015-11-20,Landgraaf,NED,PARA,Slalom,Female
+2015-11-27,Abzakovo,RUS,FIS,Parallel GS,Male
+2015-11-27,Abzakovo,RUS,FIS,Parallel GS,Female
+2015-11-28,Abzakovo,RUS,FIS,Parallel Slalom,Male
+2015-11-28,Abzakovo,RUS,FIS,Parallel Slalom,Female
+2015-12-05,Hochfuegen,GER,EC,Parallel GS,Male
+2015-12-05,Hochfuegen,GER,EC,Parallel GS,Female
+2015-12-06,Hochfuegen,GER,EC,Parallel GS,Male
+2015-12-06,Hochfuegen,GER,EC,Parallel GS,Female
+2015-12-12,Carezza,ITA,WC,Parallel GS,Male
+2015-12-12,Carezza,ITA,WC,Parallel GS,Female
+2015-12-19,Cortina,'Ampezz,WC,Snowboardcross,Male
+2015-12-19,Cortina,'Ampezz,WC,Snowboardcross,Female
+2015-12-19,Cortina,'Ampezz,WC,Parallel Slalom,Male
+2015-12-19,Cortina,'Ampezz,WC,Parallel Slalom,Female
+2015-12-19,Rogla,SLO,EC,Parallel GS,Male
+2015-12-19,Rogla,SLO,EC,Parallel GS,Female
+2015-12-20,Rogla,SLO,EC,Parallel Slalom,Male
+2015-12-20,Rogla,SLO,EC,Parallel Slalom,Female
+2015-12-19,Buck,ill,NAC,Parallel Slalom,Male
+2015-12-19,Buck,ill,NAC,Parallel Slalom,Female
+2015-12-20,Buck,ill,NAC,Parallel Slalom,Male
+2015-12-20,Buck,ill,NAC,Parallel Slalom,Female
+2015-12-20,Buck,ill,JUN,Parallel Slalom,Male
+2015-12-20,Buck,ill,JUN,Parallel Slalom,Female
+2016-01-03,Dizin,IRI,FIS,Giant Slalom,Male
+2016-01-03,Dizin,IRI,FIS,Giant Slalom,Female
+2016-01-04,Dizin,IRI,FIS,Giant Slalom,Male
+2016-01-04,Dizin,IRI,FIS,Giant Slalom,Female
+2016-01-08,Bad,astei,WC,Parallel Slalom,Male
+2016-01-08,Bad,astei,WC,Parallel Slalom,Female
+2016-01-09,Bad,astei,WC,Parallel Team,Female
+2016-01-16,Howelsen,ill,NAC,Parallel GS,Male
+2016-01-16,Howelsen,ill,NAC,Parallel GS,Female
+2016-01-17,Howelsen,ill,NAC,Parallel Slalom,Male
+2016-01-17,Howelsen,ill,NAC,Parallel Slalom,Female
+2016-01-16,"Klinovec,",oz,JUN,Parallel Slalom,Male
+2016-01-16,"Klinovec,",oz,FIS,Parallel Slalom,Male
+2016-01-16,"Klinovec,",oz,JUN,Parallel Slalom,Female
+2016-01-16,"Klinovec,",oz,FIS,Parallel Slalom,Female
+2016-01-17,"Klinovec,",oz,JUN,Parallel GS,Male
+2016-01-17,"Klinovec,",oz,FIS,Parallel GS,Male
+2016-01-17,"Klinovec,",oz,JUN,Parallel GS,Female
+2016-01-17,"Klinovec,",oz,FIS,Parallel GS,Female
+2016-01-16,Kreischberg,AUT,FIS,Parallel GS,Male
+2016-01-16,Kreischberg,AUT,FIS,Parallel GS,Female
+2016-01-17,Kreischberg,AUT,FIS,Parallel GS,Male
+2016-01-17,Kreischberg,AUT,FIS,Parallel GS,Female
+2016-01-23,Rogla,SLO,WC,Parallel GS,Male
+2016-01-23,Rogla,SLO,WC,Parallel GS,Female
+2016-01-23,Oberwiesenthal,GER,EC,Parallel GS,Male
+2016-01-23,Oberwiesenthal,GER,EC,Parallel GS,Female
+2016-01-24,Oberwiesenthal,GER,EC,Parallel Slalom,Male
+2016-01-24,Oberwiesenthal,GER,EC,Parallel Slalom,Female
+2016-01-29,Stara,lanin,EC,Parallel Slalom,Male
+2016-01-29,Stara,lanin,EC,Parallel Slalom,Female
+2016-01-30,Stara,lanin,EC,Parallel GS,Male
+2016-01-30,Stara,lanin,EC,Parallel GS,Female
+2016-01-29,Pfelders,ITA,FIS,Slalom,Male
+2016-01-29,Pfelders,ITA,FIS,Slalom,Female
+2016-01-30,Pfelders,ITA,FIS,Slalom,Male
+2016-01-30,Pfelders,ITA,FIS,Slalom,Female
+2016-01-30,Moscow,RUS,WC,Parallel Slalom,Male
+2016-01-30,Moscow,RUS,WC,Parallel Slalom,Female
+2016-02-06,Almaty,hymbula,FIS,Parallel GS,Male
+2016-02-06,Almaty,hymbula,FIS,Parallel GS,Female
+2016-02-07,Almaty,hymbula,FIS,Parallel Slalom,Male
+2016-02-07,Almaty,hymbula,FIS,Parallel Slalom,Female
+2016-02-06,Dolni,orav,JUN,Parallel GS,Male
+2016-02-06,Dolni,orav,FIS,Parallel GS,Male
+2016-02-06,Dolni,orav,JUN,Parallel GS,Female
+2016-02-06,Dolni,orav,FIS,Parallel GS,Female
+2016-02-07,Dolni,orav,FIS,Parallel Slalom,Male
+2016-02-07,Dolni,orav,JUN,Parallel Slalom,Male
+2016-02-07,Dolni,orav,FIS,Parallel Slalom,Female
+2016-02-07,Dolni,orav,JUN,Parallel Slalom,Female
+2016-02-06,Lachtal,AUT,NC,Parallel Slalom,Male
+2016-02-06,Lachtal,AUT,NC,Parallel Slalom,Female
+2016-02-07,Lachtal,AUT,FIS,Parallel Slalom,Male
+2016-02-07,Lachtal,AUT,FIS,Parallel Slalom,Female
+2016-02-09,Big,hit,PARA,Snowboardcross,Male
+2016-02-09,Big,hit,PARA,Snowboardcross,Female
+2016-02-10,Big,hit,PARA,Snowboardcross,Male
+2016-02-10,Big,hit,PARA,Snowboardcross,Female
+2016-02-11,Big,hit,PARA,Snowboardcross,Male
+2016-02-11,Big,hit,PARA,Snowboardcross,Female
+2016-02-13,Big,hit,PARA,Slalom,Male
+2016-02-13,Big,hit,PARA,Slalom,Male
+2016-02-13,Big,hit,PARA,Slalom,Female
+2016-02-13,Big,hit,PARA,Slalom,Female
+2016-02-13,Zaarour,,NC,Giant Slalom,Male
+2016-02-13,Zaarour,,NC,Giant Slalom,Female
+2016-02-14,Shemshak,IRI,FIS,Slalom,Male
+2016-02-14,Shemshak,IRI,FIS,Slalom,Female
+2016-02-15,Shemshak,IRI,FIS,Slalom,Male
+2016-02-15,Shemshak,IRI,FIS,Slalom,Female
+2016-02-17,Toronto,k,NAC,Parallel GS,Male
+2016-02-17,Toronto,k,NAC,Parallel GS,Female
+2016-02-18,Toronto,k,NAC,Parallel GS,Male
+2016-02-18,Toronto,k,NAC,Parallel GS,Female
+2016-02-20,Lenzerheide,SUI,EC,Parallel Slalom,Male
+2016-02-20,Lenzerheide,SUI,EC,Parallel Slalom,Female
+2016-02-21,Lenzerheide,SUI,EC,Parallel Slalom,Male
+2016-02-21,Lenzerheide,SUI,EC,Parallel Slalom,Female
+2016-02-20,Klinovec,CZE,FIS,Parallel GS,Male
+2016-02-20,Klinovec,CZE,JUN,Parallel GS,Male
+2016-02-20,Klinovec,CZE,FIS,Parallel GS,Female
+2016-02-21,Klinovec,CZE,FIS,Parallel Slalom,Male
+2016-02-21,Klinovec,CZE,JUN,Parallel Slalom,Male
+2016-02-21,Klinovec,CZE,FIS,Parallel Slalom,Female
+2016-02-22,Holiday,alle,NAC,Parallel GS,Male
+2016-02-22,Holiday,alle,NAC,Parallel GS,Female
+2016-02-23,Holiday,alle,NAC,Parallel GS,Male
+2016-02-23,Holiday,alle,NAC,Parallel GS,Female
+2016-02-26,Le,elai,JUN,Parallel Slalom,Male
+2016-02-26,Le,elai,JUN,Parallel Slalom,Female
+2016-02-27,Kayseri,TUR,WC,Parallel GS,Male
+2016-02-27,Kayseri,TUR,WC,Parallel GS,Female
+2016-02-27,Le,elai,NAC,Parallel Slalom,Male
+2016-02-27,Le,elai,NAC,Parallel Slalom,Female
+2016-02-28,Le,elai,NAC,Parallel Slalom,Male
+2016-02-28,Le,elai,NAC,Parallel Slalom,Female
+2016-02-27,Falkert,AUT,FIS,Giant Slalom,Male
+2016-02-27,Falkert,AUT,FIS,Giant Slalom,Female
+2016-02-28,Falkert,AUT,FIS,Giant Slalom,Male
+2016-02-28,Falkert,AUT,FIS,Giant Slalom,Female
+2016-03-02,High,,FIS,Halfpipe,Male
+2016-03-02,High,,FIS,Halfpipe,Female
+2016-03-03,High,,NC,Parallel GS,Male
+2016-03-03,High,,NC,Parallel GS,Female
+2016-03-04,High,,NC,Parallel Slalom,Male
+2016-03-04,High,,NC,Parallel Slalom,Female
+2016-03-03,Krasiya,UKR,NC,Giant Slalom,Male
+2016-03-03,Krasiya,UKR,NC,Giant Slalom,Female
+2016-03-04,Krasiya,UKR,NC,Slalom,Male
+2016-03-04,Krasiya,UKR,NC,Slalom,Female
+2016-03-03,Katashina/tokura,JPN,FIS,Giant Slalom,Male
+2016-03-03,Katashina/tokura,JPN,FIS,Giant Slalom,Female
+2016-03-04,Katashina/tokura,JPN,FIS,Slalom,Male
+2016-03-04,Katashina/tokura,JPN,FIS,Slalom,Female
+2016-03-04,Mount,t-Loui,FIS,Parallel GS,Male
+2016-03-04,Mount,t-Loui,FIS,Parallel GS,Female
+2016-03-05,Tauplitz,AUT,FIS,Parallel Slalom,Male
+2016-03-05,Tauplitz,AUT,FIS,Parallel Slalom,Female
+2016-03-06,Tauplitz,AUT,FIS,Parallel Slalom,Male
+2016-03-06,Tauplitz,AUT,FIS,Parallel Slalom,Female
+2016-03-05,Gudauri,GEO,FIS,Snowboardcross,Male
+2016-03-05,Gudauri,GEO,FIS,Snowboardcross,Female
+2016-03-06,Gudauri,GEO,FIS,Parallel GS,Male
+2016-03-06,Gudauri,GEO,FIS,Parallel GS,Female
+2016-03-06,Winterberg,GER,WC,Parallel Slalom,Male
+2016-03-06,Winterberg,GER,WC,Parallel Slalom,Female
+2016-03-08,Les,ngles-Formiguere,PARA,Snowboardcross,Male
+2016-03-08,Les,ngles-Formiguere,PARA,Snowboardcross,Female
+2016-03-09,Les,ngles-Formiguere,PARA,Snowboardcross,Male
+2016-03-09,Les,ngles-Formiguere,PARA,Snowboardcross,Female
+2016-03-11,Les,ngles-Formiguere,PARA,Slalom,Male
+2016-03-11,Les,ngles-Formiguere,PARA,Slalom,Female
+2016-03-12,Les,ngles-Formiguere,PARA,Slalom,Male
+2016-03-12,Les,ngles-Formiguere,PARA,Slalom,Female
+2016-03-10,Chelyabinsk,RUS,FIS,Parallel GS,Male
+2016-03-10,Chelyabinsk,RUS,FIS,Parallel GS,Female
+2016-03-11,Chelyabinsk,RUS,FIS,Parallel Slalom,Male
+2016-03-11,Chelyabinsk,RUS,FIS,Parallel Slalom,Female
+2016-03-13,Chelyabinsk,RUS,FIS,Snowboardcross,Male
+2016-03-13,Chelyabinsk,RUS,FIS,Snowboardcross,Female
+2016-03-12,Scuol,SUI,NC,Parallel GS,Male
+2016-03-12,Scuol,SUI,NC,Parallel GS,Female
+2016-03-13,Scuol,SUI,NC,Parallel Slalom,Male
+2016-03-13,Scuol,SUI,NC,Parallel Slalom,Female
+2016-03-18,Predazzo,ITA,PARA,Parallel Slalom,Male
+2016-03-18,Predazzo,ITA,PARA,Parallel Slalom,Female
+2016-03-19,Gerlitzen,AUT,EC,Parallel GS,Male
+2016-03-19,Gerlitzen,AUT,EC,Parallel GS,Female
+2016-03-20,Gerlitzen,AUT,EC,Parallel GS,Male
+2016-03-20,Gerlitzen,AUT,EC,Parallel GS,Female
+2016-03-21,Ski,hantecle,NAC,Parallel GS,Male
+2016-03-21,Ski,hantecle,NAC,Parallel GS,Female
+2016-03-22,Ski,hantecle,NAC,Parallel Slalom,Male
+2016-03-22,Ski,hantecle,NAC,Parallel Slalom,Female
+2016-03-23,Ski,hantecle,NC,Snowboardcross,Male
+2016-03-23,Ski,hantecle,NC,Snowboardcross,Female
+2016-03-24,Ski,hantecle,NJC,Parallel GS,Male
+2016-03-24,Ski,hantecle,NJC,Parallel GS,Female
+2016-03-26,Ski,hantecle,PARA,Snowboardcross,Male
+2016-03-26,Ski,hantecle,PARA,Snowboardcross,Female
+2016-03-26,Ski,hantecle,NJC,Snowboardcross,Male
+2016-03-26,Ski,hantecle,NJC,Snowboardcross,Female
+2016-03-23,Rogla,SLO,EC,Parallel GS,Male
+2016-03-23,Rogla,SLO,EC,Parallel GS,Female
+2016-03-24,Rogla,SLO,EC,Parallel Slalom,Male
+2016-03-24,Rogla,SLO,EC,Slopestyle,Male
+2016-03-24,Rogla,SLO,EC,Parallel Slalom,Female
+2016-03-24,Rogla,SLO,EC,Slopestyle,Female
+2016-03-25,Rogla,SLO,EC,Big Air,Male
+2016-03-25,Rogla,SLO,EC,Big Air,Female
+2016-03-26,Gosau,AUT,FIS,Slalom,Male
+2016-03-26,Gosau,AUT,FIS,Slalom,Male
+2016-03-26,Gosau,AUT,FIS,Slalom,Female
+2016-03-26,Gosau,AUT,FIS,Slalom,Female
+2016-03-26,Racines,ITA,EC,Parallel Slalom,Male
+2016-03-26,Racines,ITA,EC,Parallel Slalom,Female
+2016-03-27,Racines,ITA,EC,Parallel Slalom,Male
+2016-03-27,Racines,ITA,EC,Parallel Slalom,Female
+2016-03-26,Pec,o,FIS,Parallel GS,Male
+2016-03-26,Pec,o,FIS,Slopestyle,Male
+2016-03-26,Pec,o,FIS,Parallel GS,Female
+2016-03-26,Pec,o,FIS,Slopestyle,Female
+2016-03-27,Pec,o,FIS,Parallel Slalom,Male
+2016-03-27,Pec,o,FIS,Parallel Slalom,Female
+2016-03-28,Sunny,alle,NC,Parallel GS,Male
+2016-03-28,Sunny,alle,NC,Parallel GS,Female
+2016-03-29,Sunny,alle,NC,Parallel Slalom,Male
+2016-03-29,Sunny,alle,NC,Parallel Slalom,Female
+2016-03-30,Sunny,alle,NC,Snowboardcross,Male
+2016-03-30,Sunny,alle,NC,Snowboardcross,Female
+2016-04-02,Sunny,alle,NC,Slopestyle,Male
+2016-04-02,Sunny,alle,NC,Slopestyle,Female
+2016-04-03,Sunny,alle,NC,Big Air,Male
+2016-04-03,Sunny,alle,NC,Big Air,Female
+2016-04-05,Sunny,alle,NC,Halfpipe,Male
+2016-04-05,Sunny,alle,NC,Halfpipe,Female
+2016-04-01,Sapporo,JPN,NC,Parallel GS,Male
+2016-04-01,Sapporo,JPN,NC,Parallel GS,Female
+2016-04-02,Sapporo,JPN,FIS,Parallel GS,Male
+2016-04-02,Sapporo,JPN,FIS,Parallel GS,Female
+2016-04-02,Rogla,SLO,WJC,Parallel GS,Male
+2016-04-02,Rogla,SLO,WJC,Parallel GS,Female
+2016-04-03,Rogla,SLO,WJC,Parallel Slalom,Male
+2016-04-03,Rogla,SLO,WJC,Parallel Slalom,Female
+2016-04-04,Rogla,SLO,WJC,Snowboardcross,Male
+2016-04-04,Rogla,SLO,WJC,Snowboardcross,Female
+2016-04-05,Rogla,SLO,WJC,Snowboardcross Team,Male
+2016-04-05,Rogla,SLO,WJC,Snowboardcross Team,Female
+2016-04-03,Copper,ountain,NAC,Snowboardcross,Male
+2016-04-03,Copper,ountain,NAC,Snowboardcross,Female
+2016-04-04,Copper,ountain,NAC,Parallel GS,Male
+2016-04-04,Copper,ountain,NAC,Parallel GS,Female
+2016-04-05,Copper,ountain,NAC,Parallel Slalom,Male
+2016-04-05,Copper,ountain,NAC,Parallel Slalom,Female
+2016-04-06,Breuil,ervini,NC,Snowboardcross,Male
+2016-04-06,Breuil,ervini,NC,Snowboardcross,Female
+2016-04-07,Breuil,ervini,NC,Parallel GS,Male
+2016-04-07,Breuil,ervini,NC,Parallel GS,Female
+2016-04-08,Breuil,ervini,NC,Parallel Slalom,Male
+2016-04-08,Breuil,ervini,NC,Parallel Slalom,Female
+2016-04-13,Dizin,IRI,FIS,Slalom,Male
+2016-04-13,Dizin,IRI,FIS,Slalom,Female
+2016-04-14,Dizin,IRI,FIS,Slalom,Male
+2016-04-14,Dizin,IRI,FIS,Slalom,Female
+2016-05-03,Tochal,IRI,FIS,Giant Slalom,Male
+2016-05-03,Tochal,IRI,FIS,Giant Slalom,Female
+2016-05-04,Tochal,IRI,FIS,Giant Slalom,Male
+2016-05-04,Tochal,IRI,FIS,Giant Slalom,Female

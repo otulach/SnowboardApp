@@ -1,0 +1,292 @@
+Date,Location,Country,Category,Discipline,Gender
+2006-08-04,Mt,ulle,FIS,Parallel GS,Male
+2006-08-04,Mt,ulle,FIS,Parallel GS,Female
+2006-08-05,Mt,ulle,FIS,Snowboardcross,Male
+2006-08-05,Mt,ulle,FIS,Snowboardcross,Female
+2006-08-06,Mt,ulle,FIS,Halfpipe,Male
+2006-08-06,Mt,ulle,FIS,Halfpipe,Female
+2006-08-28,El,olorad,SAC,Snowboardcross,Male
+2006-08-28,El,olorad,SAC,Snowboardcross,Female
+2006-08-29,El,olorad,SAC,Big Air,Male
+2006-08-29,El,olorad,SAC,Big Air,Female
+2006-08-30,El,olorad,SAC,Parallel GS,Male
+2006-08-30,El,olorad,SAC,Parallel GS,Female
+2006-08-28,El,olorad,MAS,Snowboardcross,Male
+2006-08-28,El,olorad,MAS,Snowboardcross,Male
+2006-08-28,El,olorad,MAS,Snowboardcross,Female
+2006-08-29,El,olorad,MAS,Big Air,Male
+2006-08-29,El,olorad,MAS,Big Air,Female
+2006-08-30,El,olorad,MAS,Parallel GS,Male
+2006-08-30,El,olorad,MAS,Snowboardcross,Male
+2006-08-30,El,olorad,MAS,Parallel GS,Female
+2006-09-09,Landgraaf,NED,FIS,Slalom,Male
+2006-09-09,Landgraaf,NED,FIS,Slalom,Female
+2006-10-13,Landgraaf,NED,WC,Parallel Slalom,Male
+2006-10-13,Landgraaf,NED,WC,Parallel Slalom,Female
+2006-10-21,Sölden,AUT,WC,Parallel GS,Female
+2006-10-22,Sölden,AUT,WC,Parallel GS,Male
+2006-11-20,"Copper,",,NAC,Parallel GS,Male
+2006-11-20,"Copper,",,NAC,Parallel GS,Female
+2006-11-21,"Copper,",,NAC,Parallel Slalom,Male
+2006-11-21,"Copper,",,NAC,Parallel Slalom,Female
+2006-11-22,Abzakovo/magnitogorsk,RUS,FIS,Snowboardcross,Male
+2006-11-22,Abzakovo/magnitogorsk,RUS,FIS,Snowboardcross,Female
+2006-11-23,Abzakovo/magnitogorsk,RUS,FIS,Parallel GS,Male
+2006-11-23,Abzakovo/magnitogorsk,RUS,FIS,Parallel GS,Female
+2006-11-24,Abzakovo/magnitogorsk,RUS,FIS,Parallel GS,Male
+2006-11-24,Abzakovo/magnitogorsk,RUS,FIS,Parallel GS,Female
+2006-11-25,Abzakovo/magnitogorsk,RUS,FIS,Parallel Slalom,Male
+2006-11-25,Abzakovo/magnitogorsk,RUS,FIS,Parallel Slalom,Female
+2006-12-13,S.,igli,WC,Parallel GS,Male
+2006-12-13,S.,igli,WC,Parallel GS,Female
+2006-12-16,Mont,lanc,NAC,Parallel GS,Male
+2006-12-16,Mont,lanc,NAC,Parallel GS,Female
+2006-12-17,Mont,lanc,NAC,Parallel Slalom,Male
+2006-12-17,Mont,lanc,NAC,Parallel Slalom,Female
+2006-12-20,Bad,astei,WC,Parallel Slalom,Male
+2006-12-20,Bad,astei,WC,Parallel Slalom,Female
+2006-12-21,Bad,astei,WC,Parallel Slalom,Male
+2006-12-21,Bad,astei,WC,Parallel Slalom,Female
+2006-12-22,Bad,astei,EC,Parallel Slalom,Male
+2006-12-22,Bad,astei,EC,Parallel Slalom,Female
+2007-01-05,Steamboat,prings,NAC,Parallel GS,Male
+2007-01-05,Steamboat,prings,NAC,Parallel GS,Female
+2007-01-06,Steamboat,prings,NAC,Parallel Slalom,Male
+2007-01-06,Steamboat,prings,NAC,Parallel Slalom,Female
+2007-01-05,Sapporo,JPN,FIS,Giant Slalom,Male
+2007-01-05,Sapporo,JPN,FIS,Giant Slalom,Female
+2007-01-06,Sapporo,JPN,FIS,Halfpipe,Male
+2007-01-06,Sapporo,JPN,FIS,Halfpipe,Female
+2007-01-07,Sapporo,JPN,FIS,Halfpipe,Male
+2007-01-07,Sapporo,JPN,FIS,Halfpipe,Female
+2007-01-05,Bobrovy,o,FIS,Parallel GS,Male
+2007-01-05,Bobrovy,o,FIS,Snowboardcross,Male
+2007-01-05,Bobrovy,o,FIS,Parallel GS,Female
+2007-01-05,Bobrovy,o,FIS,Snowboardcross,Female
+2007-01-06,Bobrovy,o,FIS,Parallel GS,Male
+2007-01-06,Bobrovy,o,FIS,Parallel GS,Female
+2007-01-07,Bobrovy,o,FIS,Parallel Slalom,Male
+2007-01-07,Bobrovy,o,FIS,Parallel Slalom,Female
+2007-01-13,Le,elais,NAC,Parallel GS,Male
+2007-01-13,Le,elais,NAC,Parallel GS,Female
+2007-01-14,Le,elais,NAC,Parallel Slalom,Male
+2007-01-14,Le,elais,NAC,Parallel Slalom,Female
+2007-01-14,Arosa,SUI,WSC,Snowboardcross,Male
+2007-01-14,Arosa,SUI,WSC,Snowboardcross,Female
+2007-01-16,Arosa,SUI,WSC,Parallel GS,Male
+2007-01-16,Arosa,SUI,WSC,Parallel GS,Female
+2007-01-17,Arosa,SUI,WSC,Parallel Slalom,Male
+2007-01-17,Arosa,SUI,WSC,Parallel Slalom,Female
+2007-01-19,Arosa,SUI,WSC,Big Air,Male
+2007-01-20,Arosa,SUI,WSC,Halfpipe,Male
+2007-01-20,Arosa,SUI,WSC,Halfpipe,Female
+2007-01-25,Bardonecchia,ITA,UVS,Snowboardcross,Male
+2007-01-25,Bardonecchia,ITA,UVS,Snowboardcross,Female
+2007-01-26,Bardonecchia,ITA,UVS,Giant Slalom,Male
+2007-01-26,Bardonecchia,ITA,UVS,Giant Slalom,Female
+2007-01-27,Bardonecchia,ITA,UVS,Halfpipe,Male
+2007-01-27,Bardonecchia,ITA,UVS,Halfpipe,Female
+2007-01-20,Kühtai,AUT,EC,Parallel Slalom,Male
+2007-01-20,Kühtai,AUT,EC,Parallel Slalom,Female
+2007-01-21,Kühtai,AUT,EC,Parallel Slalom,Male
+2007-01-21,Kühtai,AUT,EC,Parallel Slalom,Female
+2007-01-21,Oze,okur,FIS,Giant Slalom,Male
+2007-01-21,Oze,okur,FIS,Giant Slalom,Female
+2007-01-22,Oze,okur,FIS,Slalom,Male
+2007-01-22,Oze,okur,FIS,Slalom,Female
+2007-01-27,Sapporo,JPN,FIS,Parallel GS,Male
+2007-01-27,Sapporo,JPN,FIS,Halfpipe,Male
+2007-01-27,Sapporo,JPN,FIS,Parallel GS,Female
+2007-01-27,Sapporo,JPN,FIS,Halfpipe,Female
+2007-01-28,Sapporo,JPN,FIS,Halfpipe,Male
+2007-01-28,Sapporo,JPN,FIS,Halfpipe,Female
+2007-01-28,Nendaz,SUI,WC,Parallel Slalom,Male
+2007-01-28,Nendaz,SUI,WC,Parallel Slalom,Female
+2007-01-30,Nendaz,SUI,EC,Parallel Slalom,Male
+2007-01-30,Nendaz,SUI,EC,Parallel Slalom,Female
+2007-02-02,Bardonecchia,ITA,WC,Parallel GS,Male
+2007-02-02,Bardonecchia,ITA,WC,Parallel GS,Female
+2007-02-03,Bardonecchia,ITA,WC,Halfpipe,Male
+2007-02-03,Bardonecchia,ITA,WC,Halfpipe,Female
+2007-02-02,Calgary,CAN,NAC,Parallel Slalom,Male
+2007-02-02,Calgary,CAN,NAC,Parallel Slalom,Female
+2007-02-03,Calgary,CAN,NAC,Parallel Slalom,Male
+2007-02-03,Calgary,CAN,NAC,Parallel Slalom,Female
+2007-02-04,Mt.,orquay,NAC,Parallel GS,Male
+2007-02-04,Mt.,orquay,NAC,Parallel GS,Female
+2007-02-05,Mt.,orquay,NAC,Parallel GS,Male
+2007-02-05,Mt.,orquay,NAC,Parallel GS,Female
+2007-02-05,Shukolovo,RUS,FIS,Parallel Slalom,Male
+2007-02-05,Shukolovo,RUS,FIS,Parallel Slalom,Female
+2007-02-07,Bansko,BUL,NC,Halfpipe,Male
+2007-02-07,Bansko,BUL,NC,Halfpipe,Female
+2007-02-08,Bansko,BUL,NC,Parallel GS,Male
+2007-02-08,Bansko,BUL,NC,Parallel GS,Female
+2007-02-09,Bansko,BUL,NC,Parallel Slalom,Male
+2007-02-09,Bansko,BUL,NC,Parallel Slalom,Female
+2007-02-09,Shukolovo,RUS,WC,Parallel Slalom,Male
+2007-02-09,Shukolovo,RUS,WC,Parallel Slalom,Female
+2007-02-10,Isola,00,FIS,Parallel GS,Male
+2007-02-10,Isola,00,FIS,Parallel GS,Female
+2007-02-11,Isola,00,FIS,Parallel GS,Male
+2007-02-11,Isola,00,FIS,Parallel GS,Female
+2007-02-11,Tuutari,ar,EC,Parallel Slalom,Male
+2007-02-11,Tuutari,ar,EC,Big Air,Male
+2007-02-11,Tuutari,ar,EC,Parallel Slalom,Female
+2007-02-11,Tuutari,ar,EC,Big Air,Female
+2007-02-16,Furano,JPN,WC,Parallel GS,Male
+2007-02-16,Furano,JPN,WC,Parallel GS,Female
+2007-02-17,Furano,JPN,WC,Snowboardcross,Male
+2007-02-17,Furano,JPN,WC,Snowboardcross,Female
+2007-02-18,Furano,JPN,WC,Halfpipe,Male
+2007-02-18,Furano,JPN,WC,Halfpipe,Female
+2007-02-17,Adelboden,SUI,FIS,Giant Slalom,Male
+2007-02-17,Adelboden,SUI,FIS,Giant Slalom,Female
+2007-02-18,Adelboden,SUI,EC,Giant Slalom,Male
+2007-02-18,Adelboden,SUI,EC,Giant Slalom,Female
+2007-02-19,Adelboden,SUI,EC,Giant Slalom,Male
+2007-02-19,Adelboden,SUI,EC,Giant Slalom,Female
+2007-02-20,Jaca,ESP,EYOF,Parallel GS,Male
+2007-02-20,Jaca,ESP,EYOF,Parallel GS,Female
+2007-02-21,Jaca,ESP,EYOF,Giant Slalom,Female
+2007-02-22,Jaca,ESP,EYOF,Giant Slalom,Male
+2007-02-24,Sungwoo,KOR,WC,Halfpipe,Male
+2007-02-24,Sungwoo,KOR,WC,Halfpipe,Female
+2007-02-25,Sungwoo,KOR,WC,Parallel GS,Male
+2007-02-25,Sungwoo,KOR,WC,Parallel GS,Female
+2007-02-24,Klinovec,CZE,EC,Parallel GS,Male
+2007-02-24,Klinovec,CZE,EC,Parallel GS,Female
+2007-02-25,Klinovec,CZE,EC,Parallel GS,Male
+2007-02-25,Klinovec,CZE,EC,Parallel GS,Female
+2007-03-03,Kiev,UKR,EC,Parallel Slalom,Male
+2007-03-03,Kiev,UKR,EC,Parallel Slalom,Female
+2007-03-04,Kiev,UKR,EC,Parallel Slalom,Male
+2007-03-04,Kiev,UKR,EC,Parallel Slalom,Female
+2007-03-08,La,olin,EC,Parallel GS,Male
+2007-03-08,La,olin,EC,Parallel GS,Female
+2007-03-08,Kopaonik,SRB,FIS,Snowboardcross,Male
+2007-03-08,Kopaonik,SRB,FIS,Snowboardcross,Female
+2007-03-09,Kopaonik,SRB,FIS,Parallel GS,Male
+2007-03-09,Kopaonik,SRB,FIS,Parallel GS,Female
+2007-03-09,La,olin,NC,Parallel GS,Male
+2007-03-09,La,olin,NC,Parallel GS,Female
+2007-03-10,La,olin,NC,Giant Slalom,Male
+2007-03-10,La,olin,NC,Giant Slalom,Female
+2007-03-09,Gujo,JPN,NC,Parallel GS,Male
+2007-03-09,Gujo,JPN,NC,Parallel GS,Female
+2007-03-10,Gujo,JPN,NC,Halfpipe,Male
+2007-03-10,Gujo,JPN,NC,Halfpipe,Female
+2007-03-11,Gujo,JPN,NC,Snowboardcross,Male
+2007-03-11,Gujo,JPN,NC,Snowboardcross,Female
+2007-03-09,Spindleruv,ly,FIS,Parallel GS,Male
+2007-03-09,Spindleruv,ly,NC,Halfpipe,Male
+2007-03-09,Spindleruv,ly,FIS,Parallel GS,Female
+2007-03-09,Spindleruv,ly,NC,Halfpipe,Female
+2007-03-10,Spindleruv,ly,NC,Parallel GS,Male
+2007-03-10,Spindleruv,ly,NC,Parallel GS,Female
+2007-03-11,Spindleruv,ly,NC,Parallel Slalom,Male
+2007-03-11,Spindleruv,ly,NC,Parallel Slalom,Female
+2007-03-12,Spindleruv,ly,FIS,Parallel Slalom,Male
+2007-03-12,Spindleruv,ly,FIS,Parallel Slalom,Female
+2007-03-10,Gerlitzen,AUT,FIS,Parallel Slalom,Male
+2007-03-10,Gerlitzen,AUT,FIS,Parallel Slalom,Female
+2007-03-11,Gerlitzen,AUT,FIS,Parallel Slalom,Male
+2007-03-11,Gerlitzen,AUT,FIS,Parallel Slalom,Female
+2007-03-10,Bromley,USA,NAC,Parallel GS,Male
+2007-03-10,Bromley,USA,NAC,Parallel GS,Female
+2007-03-11,Bromley,USA,NAC,Parallel Slalom,Male
+2007-03-11,Bromley,USA,NAC,Parallel Slalom,Female
+2007-03-13,Zakopane,POL,NC,Parallel GS,Male
+2007-03-13,Zakopane,POL,NC,Parallel GS,Female
+2007-03-14,Zakopane,POL,NC,Parallel Slalom,Male
+2007-03-14,Zakopane,POL,NC,Parallel Slalom,Female
+2007-03-16,Stoneham,CAN,WC,Parallel GS,Male
+2007-03-16,Stoneham,CAN,WC,Parallel GS,Female
+2007-03-17,Stoneham,CAN,WC,Snowboardcross,Male
+2007-03-17,Stoneham,CAN,WC,Snowboardcross,Female
+2007-03-18,Stoneham,CAN,WC,Halfpipe,Male
+2007-03-18,Stoneham,CAN,WC,Halfpipe,Female
+2007-03-23,Haus,,NC,Parallel Slalom,Male
+2007-03-23,Haus,,NC,Parallel Slalom,Female
+2007-03-24,Haus,,NC,Giant Slalom,Male
+2007-03-24,Haus,,NC,Giant Slalom,Female
+2007-03-25,Haus,,EC,Giant Slalom,Male
+2007-03-25,Haus,,EC,Giant Slalom,Female
+2007-03-25,Haus,,JUN,Giant Slalom,Male
+2007-03-25,Haus,,JUN,Giant Slalom,Female
+2007-03-23,Sunshine,illage,NAC,Snowboardcross,Male
+2007-03-23,Sunshine,illage,NAC,Snowboardcross,Female
+2007-03-24,Sunshine,illage,NAC,Parallel GS,Male
+2007-03-24,Sunshine,illage,NAC,Parallel GS,Female
+2007-03-25,Sunshine,illage,NAC,Parallel Slalom,Male
+2007-03-25,Sunshine,illage,NAC,Parallel Slalom,Female
+2007-03-23,Colere,ITA,NC,Parallel Slalom,Male
+2007-03-23,Colere,ITA,NC,Parallel Slalom,Female
+2007-03-24,Colere,ITA,NC,Giant Slalom,Male
+2007-03-24,Colere,ITA,NC,Giant Slalom,Female
+2007-03-25,Colere,ITA,NC,Snowboardcross,Male
+2007-03-25,Colere,ITA,NC,Snowboardcross,Female
+2007-03-23,St.,ervais/Avoriaz/Gran,NC,Snowboardcross,Male
+2007-03-23,St.,ervais/Avoriaz/Gran,NC,Snowboardcross,Female
+2007-03-24,St.,ervais/Avoriaz/Gran,NC,Parallel GS,Male
+2007-03-24,St.,ervais/Avoriaz/Gran,NC,Parallel GS,Female
+2007-03-25,St.,ervais/Avoriaz/Gran,NC,Slopestyle,Male
+2007-03-25,St.,ervais/Avoriaz/Gran,NC,Slopestyle,Female
+2007-03-26,St.,ervais/Avoriaz/Gran,NC,Halfpipe,Male
+2007-03-26,St.,ervais/Avoriaz/Gran,NC,Halfpipe,Female
+2007-03-24,Bobrovy,o,NC,Snowboardcross,Male
+2007-03-24,Bobrovy,o,NC,Snowboardcross,Female
+2007-03-25,Bobrovy,o,NC,Parallel GS,Male
+2007-03-25,Bobrovy,o,NC,Parallel GS,Female
+2007-03-26,Bobrovy,o,NC,Parallel Slalom,Male
+2007-03-26,Bobrovy,o,NC,Parallel Slalom,Female
+2007-03-27,Maribor,SLO,NC,Parallel GS,Male
+2007-03-27,Maribor,SLO,NC,Parallel GS,Female
+2007-03-28,Maribor,SLO,NC,Parallel Slalom,Male
+2007-03-28,Maribor,SLO,NC,Parallel Slalom,Female
+2007-03-28,Vuokatti,FIN,FIS,Snowboardcross,Male
+2007-03-28,Vuokatti,FIN,FIS,Snowboardcross,Female
+2007-03-29,Vuokatti,FIN,NC,Snowboardcross,Male
+2007-03-29,Vuokatti,FIN,NC,Snowboardcross,Female
+2007-03-30,Vuokatti,FIN,NC,Parallel GS,Male
+2007-03-30,Vuokatti,FIN,NC,Parallel GS,Female
+2007-03-31,Vuokatti,FIN,NC,Parallel Slalom,Male
+2007-03-31,Vuokatti,FIN,NC,Parallel Slalom,Female
+2007-03-29,Sils,SUI,NC,Parallel GS,Male
+2007-03-29,Sils,SUI,NC,Parallel GS,Female
+2007-03-30,Sils,SUI,NC,Snowboardcross,Male
+2007-03-30,Sils,SUI,NC,Snowboardcross,Female
+2007-03-31,Sils,SUI,JUN,Parallel GS,Male
+2007-03-31,Sils,SUI,JUN,Parallel GS,Female
+2007-04-01,Sils,SUI,JUN,Snowboardcross,Male
+2007-04-01,Sils,SUI,JUN,Snowboardcross,Female
+2007-03-31,Strebske,les,EC,Parallel GS,Male
+2007-03-31,Strebske,les,EC,Parallel GS,Female
+2007-04-01,Strebske,les,EC,Parallel GS,Male
+2007-04-01,Strebske,les,EC,Parallel GS,Female
+2007-03-31,Kaunertal,GER,NC,Parallel GS,Male
+2007-03-31,Kaunertal,GER,NC,Parallel GS,Female
+2007-04-01,Kaunertal,GER,NC,Parallel Slalom,Male
+2007-04-01,Kaunertal,GER,NC,Parallel Slalom,Female
+2007-04-10,Khvojny,rma,FIS,Parallel GS,Male
+2007-04-10,Khvojny,rma,FIS,Parallel GS,Female
+2007-04-11,Khvojny,rma,FIS,Parallel GS,Male
+2007-04-11,Khvojny,rma,FIS,Big Air,Male
+2007-04-11,Khvojny,rma,FIS,Parallel GS,Female
+2007-04-11,Khvojny,rma,FIS,Big Air,Female
+2007-04-12,Khvojny,rma,FIS,Halfpipe,Male
+2007-04-12,Khvojny,rma,FIS,Halfpipe,Female
+2007-04-14,Khvojny,rma,FIS,Parallel Slalom,Male
+2007-04-14,Khvojny,rma,FIS,Parallel Slalom,Female
+2007-04-11,Bad,astei,WJC,Snowboardcross,Male
+2007-04-11,Bad,astei,WJC,Snowboardcross,Female
+2007-04-12,Bad,astei,WJC,Parallel GS,Male
+2007-04-12,Bad,astei,WJC,Parallel GS,Female
+2007-04-13,Bad,astei,WJC,Parallel Slalom,Male
+2007-04-13,Bad,astei,WJC,Big Air,Male
+2007-04-13,Bad,astei,WJC,Parallel Slalom,Female
+2007-04-13,Bad,astei,WJC,Big Air,Female
+2007-04-11,Dizin,IRI,FIS,Parallel GS,Male
+2007-04-12,Dizin,IRI,FIS,Parallel GS,Male
+2007-04-13,Dizin,IRI,FIS,Snowboardcross,Male
+2007-04-14,Dizin,IRI,FIS,Snowboardcross,Male

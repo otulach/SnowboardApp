@@ -1,55 +1,56 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Brookes Mia,Female,02-02-2025,Aspen,USA,Great Britain,World Cup,Slopestyle,3,687.70
-1,Brookes Mia,Female,31-01-2025,Aspen,USA,Great Britain,Qualification,Slopestyle,5,
-2,Brookes Mia,Female,18-01-2025,Laax,SUI,Great Britain,World Cup,Slopestyle,1,1000.00
-3,Brookes Mia,Female,16-01-2025,Laax,SUI,Great Britain,Qualification,Slopestyle,1,
-4,Brookes Mia,Female,11-01-2025,Kreischberg,AUT,Great Britain,World Cup,Big Air,3,686.40
-5,Brookes Mia,Female,09-01-2025,Kreischberg,AUT,Great Britain,Qualification,Big Air,2,
-6,Brookes Mia,Female,05-01-2025,Klagenfurt,AUT,Great Britain,World Cup,Big Air,1,1000.00
-7,Brookes Mia,Female,03-01-2025,Klagenfurt,AUT,Great Britain,Qualification,Big Air,5,
-8,Brookes Mia,Female,01-12-2024,Beijing,CHN,Great Britain,World Cup,Big Air,1,1000.00
-9,Brookes Mia,Female,30-11-2024,Beijing,CHN,Great Britain,Qualification,Big Air,5,
-10,Brookes Mia,Female,19-10-2024,Chur,SUI,Great Britain,World Cup,Big Air,5,491.50
-11,Brookes Mia,Female,02-09-2024,Cardrona,NZL,Great Britain,World Cup,Slopestyle,2,825.80
-12,Brookes Mia,Female,31-08-2024,Cardrona,NZL,Great Britain,Qualification,Slopestyle,2,
-13,Brookes Mia,Female,20-01-2024,Laax,SUI,Great Britain,World Cup,Slopestyle,8,315.40
-14,Brookes Mia,Female,16-01-2024,Laax,SUI,Great Britain,Qualification,Slopestyle,5,
-15,Brookes Mia,Female,15-12-2023,Copper Mountain,USA,Great Britain,World Cup,Big Air,3,672.10
-16,Brookes Mia,Female,13-12-2023,Copper Mountain,USA,Great Britain,Qualification,Big Air,3,
-17,Brookes Mia,Female,09-12-2023,Edmonton,CAN,Great Britain,World Cup,Big Air,2,810.30
-18,Brookes Mia,Female,08-12-2023,Edmonton,CAN,Great Britain,Qualification,Big Air,3,
-19,Brookes Mia,Female,02-12-2023,Beijing,CHN,Great Britain,World Cup,Big Air,4,511.20
-20,Brookes Mia,Female,01-12-2023,Beijing,CHN,Great Britain,Qualification,Big Air,1,
-21,Brookes Mia,Female,21-10-2023,Chur,SUI,Great Britain,World Cup,Big Air,3,674.30
-22,Brookes Mia,Female,21-10-2023,Chur,SUI,Great Britain,Qualification,Big Air,1,
-23,Brookes Mia,Female,25-03-2023,Silvaplana,SUI,Great Britain,World Cup,Slopestyle,4,540.10
-24,Brookes Mia,Female,23-03-2023,Silvaplana,SUI,Great Britain,Qualification,Slopestyle,2,
-25,Brookes Mia,Female,17-03-2023,Laax,SUI,Great Britain,European Cup Premium,Slopestyle,2,296.20
-26,Brookes Mia,Female,04-03-2023,Bakuriani,GEO,Great Britain,World Championships,Big Air,5,477.70
-27,Brookes Mia,Female,02-03-2023,Bakuriani,GEO,Great Britain,Qualification,Big Air,1,
-28,Brookes Mia,Female,27-02-2023,Bakuriani,GEO,Great Britain,World Championships,Slopestyle,1,1000.00
+0,Brookes Mia,Female,05-02-2025,Aspen,USA,Great Britain,Qualification,Big Air,DNS,
+1,Brookes Mia,Female,02-02-2025,Aspen,USA,Great Britain,World Cup,Slopestyle,3,687.70
+2,Brookes Mia,Female,31-01-2025,Aspen,USA,Great Britain,Qualification,Slopestyle,5,
+3,Brookes Mia,Female,18-01-2025,Laax,SUI,Great Britain,World Cup,Slopestyle,1,1000.00
+4,Brookes Mia,Female,16-01-2025,Laax,SUI,Great Britain,Qualification,Slopestyle,1,
+5,Brookes Mia,Female,11-01-2025,Kreischberg,AUT,Great Britain,World Cup,Big Air,3,686.40
+6,Brookes Mia,Female,09-01-2025,Kreischberg,AUT,Great Britain,Qualification,Big Air,2,
+7,Brookes Mia,Female,05-01-2025,Klagenfurt,AUT,Great Britain,World Cup,Big Air,1,1000.00
+8,Brookes Mia,Female,03-01-2025,Klagenfurt,AUT,Great Britain,Qualification,Big Air,5,
+9,Brookes Mia,Female,01-12-2024,Beijing,CHN,Great Britain,World Cup,Big Air,1,1000.00
+10,Brookes Mia,Female,30-11-2024,Beijing,CHN,Great Britain,Qualification,Big Air,5,
+11,Brookes Mia,Female,19-10-2024,Chur,SUI,Great Britain,World Cup,Big Air,5,491.50
+12,Brookes Mia,Female,02-09-2024,Cardrona,NZL,Great Britain,World Cup,Slopestyle,2,825.80
+13,Brookes Mia,Female,31-08-2024,Cardrona,NZL,Great Britain,Qualification,Slopestyle,2,
+14,Brookes Mia,Female,20-01-2024,Laax,SUI,Great Britain,World Cup,Slopestyle,8,315.40
+15,Brookes Mia,Female,16-01-2024,Laax,SUI,Great Britain,Qualification,Slopestyle,5,
+16,Brookes Mia,Female,15-12-2023,Copper Mountain,USA,Great Britain,World Cup,Big Air,3,672.10
+17,Brookes Mia,Female,13-12-2023,Copper Mountain,USA,Great Britain,Qualification,Big Air,3,
+18,Brookes Mia,Female,09-12-2023,Edmonton,CAN,Great Britain,World Cup,Big Air,2,810.30
+19,Brookes Mia,Female,08-12-2023,Edmonton,CAN,Great Britain,Qualification,Big Air,3,
+20,Brookes Mia,Female,02-12-2023,Beijing,CHN,Great Britain,World Cup,Big Air,4,511.20
+21,Brookes Mia,Female,01-12-2023,Beijing,CHN,Great Britain,Qualification,Big Air,1,
+22,Brookes Mia,Female,21-10-2023,Chur,SUI,Great Britain,World Cup,Big Air,3,674.30
+23,Brookes Mia,Female,21-10-2023,Chur,SUI,Great Britain,Qualification,Big Air,1,
+24,Brookes Mia,Female,25-03-2023,Silvaplana,SUI,Great Britain,World Cup,Slopestyle,4,540.10
+25,Brookes Mia,Female,23-03-2023,Silvaplana,SUI,Great Britain,Qualification,Slopestyle,2,
+26,Brookes Mia,Female,17-03-2023,Laax,SUI,Great Britain,European Cup Premium,Slopestyle,2,296.20
+27,Brookes Mia,Female,04-03-2023,Bakuriani,GEO,Great Britain,World Championships,Big Air,5,477.70
+28,Brookes Mia,Female,02-03-2023,Bakuriani,GEO,Great Britain,Qualification,Big Air,1,
 29,Brookes Mia,Female,27-02-2023,Bakuriani,GEO,Great Britain,Qualification,Slopestyle,2,
-30,Brookes Mia,Female,22-01-2023,Laax,SUI,Great Britain,World Cup,Slopestyle,2,824.90
-31,Brookes Mia,Female,20-01-2023,Laax,SUI,Great Britain,Qualification,Slopestyle,1,
-32,Brookes Mia,Female,14-01-2023,Kreischberg,AUT,Great Britain,World Cup,Big Air,5,477.70
-33,Brookes Mia,Female,14-01-2023,Kreischberg,AUT,Great Britain,Qualification,Big Air,5,
-34,Brookes Mia,Female,22-10-2022,Chur,SUI,Great Britain,World Cup,Big Air,9,249.70
-35,Brookes Mia,Female,22-10-2022,Chur,SUI,Great Britain,Qualification,Big Air,9,
-36,Brookes Mia,Female,02-08-2022,Perisher,AUS,Great Britain,Australian New Zealand Cup,Big Air,1,120.00
-37,Brookes Mia,Female,02-08-2022,Perisher,AUS,Great Britain,Australian New Zealand Cup,Slopestyle,1,120.00
-38,Brookes Mia,Female,01-08-2022,Perisher,AUS,Great Britain,Australian New Zealand Cup,Slopestyle,1,120.00
-39,Brookes Mia,Female,15-03-2022,Laax,SUI,Great Britain,European Cup Premium,Slopestyle,1,160.00
-40,Brookes Mia,Female,13-03-2022,Leysin,SUI,Great Britain,FIS Junior World Championships,Slopestyle,2,197.80
-41,Brookes Mia,Female,10-03-2022,Leysin,SUI,Great Britain,FIS Junior World Championships,Big Air,1,240.00
-42,Brookes Mia,Female,26-02-2022,Götschen,GER,Great Britain,European Cup,Big Air,1,140.00
-43,Brookes Mia,Female,25-02-2022,Götschen,GER,Great Britain,European Cup,Slopestyle,1,180.00
-44,Brookes Mia,Female,18-02-2022,Davos,SUI,Great Britain,European Cup Premium,Big Air,1,160.00
-45,Brookes Mia,Female,28-01-2022,Crans Montana,SUI,Great Britain,European Cup,Big Air,1,180.00
-46,Brookes Mia,Female,19-11-2021,Landgraaf,NED,Great Britain,European Cup,Slopestyle,1,130.00
-47,Brookes Mia,Female,18-11-2021,Landgraaf,NED,Great Britain,FIS,Slopestyle,1,130.00
-48,Brookes Mia,Female,20-04-2021,Corvatsch,SUI,Great Britain,European Cup Premium,Slopestyle,8,87.97
-49,Brookes Mia,Female,18-04-2021,Corvatsch,SUI,Great Britain,European Cup Premium,Big Air,3,117.16
-50,Brookes Mia,Female,11-03-2021,Leysin,SUI,Great Britain,European Cup,Slopestyle,1,150.00
-51,Brookes Mia,Female,19-02-2021,Davos,SUI,Great Britain,European Cup,Big Air,1,220.00
-52,Brookes Mia,Female,31-01-2021,Crans Montana,SUI,Great Britain,European Cup,Slopestyle,2,235.68
-53,Brookes Mia,Female,22-12-2020,Corvatsch,SUI,Great Britain,European Cup,Slopestyle,2,291.68
+30,Brookes Mia,Female,27-02-2023,Bakuriani,GEO,Great Britain,World Championships,Slopestyle,1,1000.00
+31,Brookes Mia,Female,22-01-2023,Laax,SUI,Great Britain,World Cup,Slopestyle,2,824.90
+32,Brookes Mia,Female,20-01-2023,Laax,SUI,Great Britain,Qualification,Slopestyle,1,
+33,Brookes Mia,Female,14-01-2023,Kreischberg,AUT,Great Britain,World Cup,Big Air,5,477.70
+34,Brookes Mia,Female,14-01-2023,Kreischberg,AUT,Great Britain,Qualification,Big Air,5,
+35,Brookes Mia,Female,22-10-2022,Chur,SUI,Great Britain,World Cup,Big Air,9,249.70
+36,Brookes Mia,Female,22-10-2022,Chur,SUI,Great Britain,Qualification,Big Air,9,
+37,Brookes Mia,Female,02-08-2022,Perisher,AUS,Great Britain,Australian New Zealand Cup,Big Air,1,120.00
+38,Brookes Mia,Female,02-08-2022,Perisher,AUS,Great Britain,Australian New Zealand Cup,Slopestyle,1,120.00
+39,Brookes Mia,Female,01-08-2022,Perisher,AUS,Great Britain,Australian New Zealand Cup,Slopestyle,1,120.00
+40,Brookes Mia,Female,15-03-2022,Laax,SUI,Great Britain,European Cup Premium,Slopestyle,1,160.00
+41,Brookes Mia,Female,13-03-2022,Leysin,SUI,Great Britain,FIS Junior World Championships,Slopestyle,2,197.80
+42,Brookes Mia,Female,10-03-2022,Leysin,SUI,Great Britain,FIS Junior World Championships,Big Air,1,240.00
+43,Brookes Mia,Female,26-02-2022,Götschen,GER,Great Britain,European Cup,Big Air,1,140.00
+44,Brookes Mia,Female,25-02-2022,Götschen,GER,Great Britain,European Cup,Slopestyle,1,180.00
+45,Brookes Mia,Female,18-02-2022,Davos,SUI,Great Britain,European Cup Premium,Big Air,1,160.00
+46,Brookes Mia,Female,28-01-2022,Crans Montana,SUI,Great Britain,European Cup,Big Air,1,180.00
+47,Brookes Mia,Female,19-11-2021,Landgraaf,NED,Great Britain,European Cup,Slopestyle,1,130.00
+48,Brookes Mia,Female,18-11-2021,Landgraaf,NED,Great Britain,FIS,Slopestyle,1,130.00
+49,Brookes Mia,Female,20-04-2021,Corvatsch,SUI,Great Britain,European Cup Premium,Slopestyle,8,87.97
+50,Brookes Mia,Female,18-04-2021,Corvatsch,SUI,Great Britain,European Cup Premium,Big Air,3,117.16
+51,Brookes Mia,Female,11-03-2021,Leysin,SUI,Great Britain,European Cup,Slopestyle,1,150.00
+52,Brookes Mia,Female,19-02-2021,Davos,SUI,Great Britain,European Cup,Big Air,1,220.00
+53,Brookes Mia,Female,31-01-2021,Crans Montana,SUI,Great Britain,European Cup,Slopestyle,2,235.68
+54,Brookes Mia,Female,22-12-2020,Corvatsch,SUI,Great Britain,European Cup,Slopestyle,2,291.68

@@ -1,0 +1,332 @@
+Date,Location,Country,Category,Discipline,Gender
+1999-07-06,Valle,evad,CoC,Giant Slalom,Male
+1999-07-07,Valle,evad,CoC,Snowboardcross,Male
+1999-07-10,Valle,evad,CoC,Parallel GS,Male
+1999-09-08,Cardrona,NZL,NC/FI,Snowboardcross,Male
+1999-09-08,Cardrona,NZL,NC/FI,Snowboardcross,Female
+1999-09-09,Cardrona,NZL,NC/FI,Half Pipe,Male
+1999-09-09,Cardrona,NZL,NC/FI,Half Pipe,Female
+1999-09-10,Cardrona,NZL,NC/FI,Giant Slalom,Male
+1999-09-10,Cardrona,NZL,NC/FI,Giant Slalom,Female
+1999-10-16,Kaprun,AUT,FIS,Giant Slalom,Male
+1999-10-16,Kaprun,AUT,FIS,Giant Slalom,Female
+1999-10-17,Kaprun,AUT,FIS,Giant Slalom,Male
+1999-10-17,Kaprun,AUT,FIS,Giant Slalom,Female
+1999-11-12,Breckenridge,USA,COC,Giant Slalom,Male
+1999-11-12,Breckenridge,USA,COC,Giant Slalom,Female
+1999-11-27,Tignes,FRA,WC,Giant Slalom,Male
+1999-11-27,Tignes,FRA,WC,Giant Slalom,Female
+1999-11-28,Tignes,FRA,WC,Half Pipe,Male
+1999-11-28,Tignes,FRA,WC,Half Pipe,Female
+1999-11-27,Ruka,FIN,FIS,Half Pipe,Male
+1999-11-27,Ruka,FIN,FIS,Half Pipe,Female
+1999-11-28,Ruka,FIN,FIS,Giant Slalom,Male
+1999-11-28,Ruka,FIN,FIS,Giant Slalom,Female
+1999-11-30,Sestriere,ITA,WC,Parallel GS,Male
+1999-11-30,Sestriere,ITA,WC,Parallel GS,Female
+1999-12-03,Zell,,WC,Snowboardcross,Male
+1999-12-03,Zell,,WC,Snowboardcross,Female
+1999-12-04,Zell,,WC,Parallel GS,Male
+1999-12-04,Zell,,WC,Parallel GS,Female
+1999-12-10,"Whistler,",,WC,Giant Slalom,Male
+1999-12-10,"Whistler,",,WC,Giant Slalom,Female
+1999-12-11,"Whistler,",,WC,Snowboardcross,Male
+1999-12-11,"Whistler,",,WC,Snowboardcross,Female
+1999-12-12,"Whistler,",,WC,Halfpipe,Male
+1999-12-12,"Whistler,",,WC,Halfpipe,Female
+1999-12-14,Mammoth,USA,FIS,Parallel GS,Male
+1999-12-14,Mammoth,USA,FIS,Parallel GS,Female
+1999-12-15,Mammoth,USA,FIS,Halfpipe,Male
+1999-12-15,Mammoth,USA,FIS,Halfpipe,Female
+1999-12-17,Berchtesgaden,GER,FIS,Parallel Slalom,Male
+1999-12-17,Berchtesgaden,GER,FIS,Parallel Slalom,Female
+1999-12-18,Berchtesgaden,GER,FIS,Parallel Slalom,Male
+1999-12-18,Berchtesgaden,GER,FIS,Parallel Slalom,Female
+1999-12-18,Mt.,t,WC,Giant Slalom,Male
+1999-12-18,Mt.,t,WC,Giant Slalom,Female
+1999-12-19,Mt.,t,WC,Halfpipe,Male
+1999-12-19,Mt.,t,WC,Halfpipe,Female
+1999-12-18,Livigno,ITA,FIS,Giant Slalom,Male
+1999-12-18,Livigno,ITA,FIS,Giant Slalom,Female
+1999-12-19,Livigno,ITA,FIS,Slalom,Male
+1999-12-19,Livigno,ITA,FIS,Slalom,Female
+1999-12-18,Semmering,AUT,FIS,Giant Slalom,Male
+1999-12-18,Semmering,AUT,FIS,Giant Slalom,Female
+1999-12-19,Semmering,AUT,FIS,Slalom,Male
+1999-12-19,Semmering,AUT,FIS,Slalom,Female
+1999-12-25,Makomanai,JPN,FIS,Giant Slalom,Male
+1999-12-25,Makomanai,JPN,FIS,Giant Slalom,Female
+1999-12-26,Makomanai,JPN,FIS,Half Pipe,Male
+1999-12-26,Makomanai,JPN,FIS,Half Pipe,Female
+2000-01-06,Embach-dienten,AUT,JUN,Giant Slalom,Male
+2000-01-06,Embach-dienten,AUT,JUN,Giant Slalom,Female
+2000-01-07,Embach-dienten,AUT,JUN,Parallel Slalom,Male
+2000-01-07,Embach-dienten,AUT,JUN,Parallel Slalom,Female
+2000-01-08,Embach-dienten,AUT,FIS,Parallel Slalom,Male
+2000-01-08,Embach-dienten,AUT,FIS,Parallel Slalom,Female
+2000-01-09,Embach-dienten,AUT,FIS,Giant Slalom,Male
+2000-01-09,Embach-dienten,AUT,FIS,Giant Slalom,Female
+2000-01-07,Breckenridge,USA,COC,Giant Slalom,Male
+2000-01-07,Breckenridge,USA,COC,Giant Slalom,Female
+2000-01-09,Breckenridge,USA,COC,Halfpipe,Male
+2000-01-09,Breckenridge,USA,COC,Halfpipe,Female
+2000-01-08,Morzine-avoriaz,FRA,WC,Snowboardcross,Male
+2000-01-08,Morzine-avoriaz,FRA,WC,Snowboardcross,Female
+2000-01-09,Morzine-avoriaz,FRA,WC,Parallel Slalom,Male
+2000-01-09,Morzine-avoriaz,FRA,WC,Parallel Slalom,Female
+2000-01-08,Puy,t,FIS,Parallel Slalom,Male
+2000-01-08,Puy,t,FIS,Parallel Slalom,Female
+2000-01-09,Puy,t,FIS,Giant Slalom,Male
+2000-01-09,Puy,t,FIS,Giant Slalom,Female
+2000-01-08,Szczyrk,POL,EC,Giant Slalom,Male
+2000-01-09,Szczyrk,POL,EC,Snowboardcross,Male
+2000-01-09,Szczyrk,POL,EC,Giant Slalom,Female
+2000-01-09,Szczyrk,POL,EC,Snowboardcross,Female
+2000-01-11,S.,iorgi,EC,Parallel Slalom,Male
+2000-01-11,S.,iorgi,EC,Parallel Slalom,Female
+2000-01-12,S.,iorgi,EC,Giant Slalom,Male
+2000-01-12,S.,iorgi,EC,Giant Slalom,Female
+2000-01-14,Mt.,t,NAC,Giant Slalom,Male
+2000-01-14,Mt.,t,NAC,Giant Slalom,Female
+2000-01-15,Mt.,t,NAC,Parallel Slalom,Male
+2000-01-15,Mt.,t,NAC,Parallel Slalom,Female
+2000-01-16,Mt.,t,NAC,Halfpipe,Male
+2000-01-16,Mt.,t,NAC,Halfpipe,Female
+2000-01-14,Berchtesgaden,GER,WC,Parallel GS,Male
+2000-01-14,Berchtesgaden,GER,WC,Parallel GS,Female
+2000-01-15,Berchtesgaden,GER,WC,Half Pipe,Male
+2000-01-15,Berchtesgaden,GER,WC,Half Pipe,Female
+2000-01-16,Berchtesgaden,GER,WC,Parallel Slalom,Male
+2000-01-16,Berchtesgaden,GER,WC,Parallel Slalom,Female
+2000-01-15,Spindleruv,ly,FIS,Slalom,Male
+2000-01-15,Spindleruv,ly,FIS,Slalom,Female
+2000-01-16,Spindleruv,ly,FIS,Giant Slalom,Male
+2000-01-16,Spindleruv,ly,FIS,Giant Slalom,Female
+2000-01-14,Haus,,FIS,Giant Slalom,Male
+2000-01-14,Haus,,FIS,Giant Slalom,Female
+2000-01-15,Haus,,FIS,Parallel Slalom,Male
+2000-01-15,Haus,,FIS,Parallel Slalom,Female
+2000-01-15,Combloux,FRA,FIS,Giant Slalom,Male
+2000-01-15,Combloux,FRA,FIS,Giant Slalom,Female
+2000-01-16,Combloux,FRA,FIS,Parallel Slalom,Male
+2000-01-16,Combloux,FRA,FIS,Parallel Slalom,Female
+2000-01-19,Schoenried/gstaad,SUI,WC,Giant Slalom,Male
+2000-01-19,Schoenried/gstaad,SUI,WC,Giant Slalom,Female
+2000-01-20,Schoenried/gstaad,SUI,WC,Snowboardcross,Male
+2000-01-20,Schoenried/gstaad,SUI,WC,Snowboardcross,Female
+2000-01-21,S.,imon,FIS,Giant Slalom,Male
+2000-01-21,S.,imon,FIS,Giant Slalom,Female
+2000-01-22,S.,imon,FIS,Slalom,Male
+2000-01-22,S.,imon,FIS,Slalom,Female
+2000-01-22,Kreischberg,AUT,EC,Snowboardcross,Male
+2000-01-22,Kreischberg,AUT,EC,Snowboardcross,Female
+2000-01-23,Kreischberg,AUT,EC,Giant Slalom,Male
+2000-01-23,Kreischberg,AUT,EC,Giant Slalom,Female
+2000-01-22,Font,ome,FIS,Snowboardcross,Male
+2000-01-22,Font,ome,FIS,Snowboardcross,Female
+2000-01-23,Font,ome,FIS,Giant Slalom,Male
+2000-01-23,Font,ome,FIS,Giant Slalom,Female
+2000-01-22,Northstar,,FIS,Snowboardcross,Male
+2000-01-22,Northstar,,FIS,Halfpipe,Male
+2000-01-22,Northstar,,FIS,Snowboardcross,Female
+2000-01-22,Northstar,,FIS,Halfpipe,Female
+2000-01-23,Northstar,,FIS,Giant Slalom,Male
+2000-01-23,Northstar,,FIS,Giant Slalom,Female
+2000-01-26,Tandadalen,SWE,WC,Parallel GS,Male
+2000-01-26,Tandadalen,SWE,WC,Parallel GS,Female
+2000-01-27,Tandadalen,SWE,WC,Parallel Slalom,Male
+2000-01-27,Tandadalen,SWE,WC,Parallel Slalom,Female
+2000-01-28,Tandadalen,SWE,WC,Half Pipe,Male
+2000-01-28,Tandadalen,SWE,WC,Half Pipe,Female
+2000-01-29,Tandadalen,SWE,WC,Half Pipe,Male
+2000-01-29,Tandadalen,SWE,WC,Half Pipe,Female
+2000-01-28,St.,ierr,COC,Giant Slalom,Male
+2000-01-28,St.,ierr,COC,Giant Slalom,Female
+2000-01-29,St.,ierr,COC,Snowboardcross,Male
+2000-01-29,St.,ierr,COC,Snowboardcross,Female
+2000-01-30,St.,ierr,COC,Snowboardcross,Male
+2000-01-30,St.,ierr,COC,Snowboardcross,Female
+2000-01-29,Lenggries,GER,FIS,Giant Slalom,Male
+2000-01-29,Lenggries,GER,FIS,Giant Slalom,Female
+2000-01-30,Lenggries,GER,FIS,Slalom,Male
+2000-01-30,Lenggries,GER,FIS,Slalom,Female
+2000-02-04,Ischgl,AUT,WC,Parallel Slalom,Male
+2000-02-04,Ischgl,AUT,WC,Parallel Slalom,Female
+2000-02-05,Ischgl,AUT,WC,Giant Slalom,Male
+2000-02-05,Ischgl,AUT,WC,Giant Slalom,Female
+2000-02-06,Ischgl,AUT,WC,Snowboardcross,Male
+2000-02-06,Ischgl,AUT,WC,Snowboardcross,Female
+2000-02-04,Mont,remblan,NAC,Giant Slalom,Male
+2000-02-04,Mont,remblan,NAC,Giant Slalom,Female
+2000-02-05,Mont,remblan,NAC,Parallel Slalom,Male
+2000-02-05,Mont,remblan,NAC,Parallel Slalom,Female
+2000-02-11,Berchtesgaden,GER,WJC,Parallel GS,Male
+2000-02-11,Berchtesgaden,GER,WJC,Parallel GS,Female
+2000-02-12,Berchtesgaden,GER,WJC,Half Pipe,Male
+2000-02-12,Berchtesgaden,GER,WJC,Half Pipe,Female
+2000-02-13,Berchtesgaden,GER,WJC,Parallel Slalom,Male
+2000-02-13,Berchtesgaden,GER,WJC,Parallel Slalom,Female
+2000-02-12,Yongpyong,KOR,FIS,Giant Slalom,Male
+2000-02-12,Yongpyong,KOR,FIS,Giant Slalom,Female
+2000-02-13,Yongpyong,KOR,FIS,Half Pipe,Male
+2000-02-13,Yongpyong,KOR,FIS,Half Pipe,Female
+2000-02-12,Vuokatti,FIN,FIS,Half Pipe,Male
+2000-02-12,Vuokatti,FIN,FIS,Half Pipe,Female
+2000-02-13,Vuokatti,FIN,FIS,Giant Slalom,Male
+2000-02-13,Vuokatti,FIN,FIS,Giant Slalom,Female
+2000-02-12,Marmot,asi,FIS,Giant Slalom,Male
+2000-02-12,Marmot,asi,FIS,Giant Slalom,Female
+2000-02-13,Marmot,asi,FIS,Parallel Slalom,Male
+2000-02-13,Marmot,asi,FIS,Parallel Slalom,Female
+2000-02-18,Sapporo,JPN,WC,Parallel GS,Male
+2000-02-18,Sapporo,JPN,WC,Parallel GS,Female
+2000-02-19,Sapporo,JPN,WC,Halfpipe,Male
+2000-02-19,Sapporo,JPN,WC,Halfpipe,Female
+2000-02-20,Sapporo,JPN,WC,Snowboardcross,Male
+2000-02-20,Sapporo,JPN,WC,Snowboardcross,Female
+2000-02-18,Berchtesgaden,GER,EC,Parallel GS,Male
+2000-02-18,Berchtesgaden,GER,EC,Parallel GS,Female
+2000-02-19,Berchtesgaden,GER,EC,Parallel Slalom,Male
+2000-02-19,Berchtesgaden,GER,EC,Half Pipe,Male
+2000-02-19,Berchtesgaden,GER,EC,Parallel Slalom,Female
+2000-02-19,Berchtesgaden,GER,EC,Half Pipe,Female
+2000-02-19,Piancavallo,ITA,FIS,Parallel GS,Male
+2000-02-19,Piancavallo,ITA,FIS,Parallel GS,Female
+2000-02-20,Piancavallo,ITA,FIS,Parallel Slalom,Male
+2000-02-20,Piancavallo,ITA,FIS,Parallel Slalom,Female
+2000-02-26,Shigakogen,JPN,WC,Giant Slalom,Male
+2000-02-26,Shigakogen,JPN,WC,Giant Slalom,Female
+2000-02-27,Shigakogen,JPN,WC,Halfpipe,Male
+2000-02-27,Shigakogen,JPN,WC,Halfpipe,Female
+2000-02-26,Nakiska,CAN,COC,Parallel GS,Male
+2000-02-26,Nakiska,CAN,COC,Parallel Slalom,Male
+2000-02-26,Nakiska,CAN,COC,Halfpipe,Male
+2000-02-26,Nakiska,CAN,COC,Parallel GS,Female
+2000-02-26,Nakiska,CAN,COC,Parallel Slalom,Female
+2000-02-27,Nakiska,CAN,COC,Snowboardcross,Male
+2000-02-26,Ostin,GER,EC,Parallel Slalom,Male
+2000-02-26,Ostin,GER,EC,Parallel Slalom,Female
+2000-02-27,Ostin,GER,EC,Parallel Slalom,Male
+2000-02-27,Ostin,GER,EC,Parallel Slalom,Female
+2000-02-26,Popova,apk,FIS,Giant Slalom,Male
+2000-02-26,Popova,apk,FIS,Giant Slalom,Female
+2000-02-27,Popova,apk,FIS,Slalom,Male
+2000-02-27,Popova,apk,FIS,Slalom,Female
+2000-02-26,Szczyrk,POL,EC,Giant Slalom,Male
+2000-02-26,Szczyrk,POL,EC,Giant Slalom,Female
+2000-02-27,Szczyrk,POL,EC,Snowboardcross,Male
+2000-02-27,Szczyrk,POL,EC,Snowboardcross,Female
+2000-02-28,Szczyrk,POL,EC,Parallel GS,Male
+2000-02-28,Szczyrk,POL,EC,Parallel GS,Female
+2000-03-01,Krynica,POL,FIS,Parallel GS,Male
+2000-03-01,Krynica,POL,FIS,Parallel GS,Female
+2000-03-02,Krynica,POL,FIS,Snowboardcross,Male
+2000-03-02,Krynica,POL,FIS,Snowboardcross,Female
+2000-03-03,Ajigasawa,JPN,NC,Parallel Slalom,Male
+2000-03-03,Ajigasawa,JPN,NC,Parallel Slalom,Female
+2000-03-04,Ajigasawa,JPN,NC,Parallel GS,Male
+2000-03-04,Ajigasawa,JPN,NC,Parallel GS,Female
+2000-03-05,Ajigasawa,JPN,NC,Half Pipe,Male
+2000-03-05,Ajigasawa,JPN,NC,Half Pipe,Female
+2000-03-03,Park,ity,WC,Snowboardcross,Male
+2000-03-03,Park,ity,WC,Snowboardcross,Female
+2000-03-04,Park,ity,WC,Halfpipe,Male
+2000-03-04,Park,ity,WC,Halfpipe,Female
+2000-03-05,Park,ity,WC,Giant Slalom,Male
+2000-03-05,Park,ity,WC,Giant Slalom,Female
+2000-03-04,Himos,FIN,FIS,Half Pipe,Male
+2000-03-04,Himos,FIN,FIS,Half Pipe,Female
+2000-03-05,Himos,FIN,FIS,Parallel Slalom,Male
+2000-03-05,Himos,FIN,FIS,Parallel Slalom,Female
+2000-03-05,Szczawnica,POL,NC,Half Pipe,Male
+2000-03-05,Szczawnica,POL,NC,Half Pipe,Female
+2000-03-06,Szczawnica,POL,NC,Giant Slalom,Male
+2000-03-06,Szczawnica,POL,NC,Giant Slalom,Female
+2000-03-07,Szczawnica,POL,NC,Parallel Slalom,Male
+2000-03-07,Szczawnica,POL,NC,Parallel Slalom,Female
+2000-03-04,Werfenweng,AUT,FIS,Giant Slalom,Male
+2000-03-04,Werfenweng,AUT,FIS,Giant Slalom,Female
+2000-03-05,Werfenweng,AUT,FIS,Parallel Slalom,Male
+2000-03-05,Werfenweng,AUT,FIS,Parallel Slalom,Female
+2000-03-10,San,andid,WC,Parallel Slalom,Male
+2000-03-10,San,andid,WC,Parallel Slalom,Female
+2000-03-11,San,andid,WC,Halfpipe,Male
+2000-03-11,San,andid,WC,Halfpipe,Female
+2000-03-12,San,andid,WC,Snowboardcross,Male
+2000-03-12,San,andid,WC,Snowboardcross,Female
+2000-03-11,Bad,astei,FIS,Parallel GS,Male
+2000-03-11,Bad,astei,FIS,Parallel GS,Female
+2000-03-12,Bad,astei,FIS,Parallel Slalom,Male
+2000-03-12,Bad,astei,FIS,Parallel Slalom,Female
+2000-03-11,Ruka,FIN,FIS,Half Pipe,Male
+2000-03-11,Ruka,FIN,FIS,Half Pipe,Female
+2000-03-12,Ruka,FIN,FIS,Giant Slalom,Male
+2000-03-12,Ruka,FIN,FIS,Giant Slalom,Female
+2000-03-11,Hakuba-iwatake,JPN,FIS,Half Pipe,Male
+2000-03-11,Hakuba-iwatake,JPN,FIS,Half Pipe,Female
+2000-03-13,Hakuba-iwatake,JPN,FIS,Giant Slalom,Male
+2000-03-13,Hakuba-iwatake,JPN,FIS,Giant Slalom,Female
+2000-03-16,Livigno,ITA,WC,Parallel Slalom,Male
+2000-03-16,Livigno,ITA,WC,Parallel Slalom,Female
+2000-03-17,Livigno,ITA,WC,Snowboardcross,Male
+2000-03-17,Livigno,ITA,WC,Snowboardcross,Female
+2000-03-18,Livigno,ITA,WC,Giant Slalom,Male
+2000-03-18,Livigno,ITA,WC,Half Pipe,Male
+2000-03-18,Livigno,ITA,WC,Giant Slalom,Female
+2000-03-18,Livigno,ITA,WC,Half Pipe,Female
+2000-03-21,Serre-chevallier,FRA,NC,Giant Slalom,Male
+2000-03-21,Serre-chevallier,FRA,NC,Giant Slalom,Female
+2000-03-22,Serre-chevallier,FRA,NC,Parallel Slalom,Male
+2000-03-22,Serre-chevallier,FRA,NC,Parallel Slalom,Female
+2000-03-25,Serre-chevallier,FRA,NC,Half Pipe,Male
+2000-03-25,Serre-chevallier,FRA,NC,Half Pipe,Female
+2000-03-26,Serre-chevallier,FRA,NC,Snowboardcross,Male
+2000-03-26,Serre-chevallier,FRA,NC,Snowboardcross,Female
+2000-03-24,San,andid,NC,Giant Slalom,Male
+2000-03-24,San,andid,NC,Giant Slalom,Female
+2000-03-25,San,andid,NC,Snowboardcross,Male
+2000-03-25,San,andid,NC,Snowboardcross,Female
+2000-03-26,San,andid,NC,Parallel Slalom,Male
+2000-03-26,San,andid,NC,Parallel Slalom,Female
+2000-03-23,Stoneham,CAN,NAC,Halfpipe,Male
+2000-03-23,Stoneham,CAN,NAC,Halfpipe,Female
+2000-03-24,Stoneham,CAN,NAC,Snowboardcross,Male
+2000-03-24,Stoneham,CAN,NAC,Snowboardcross,Female
+2000-03-25,Stoneham,CAN,NAC,Parallel GS,Male
+2000-03-25,Stoneham,CAN,NAC,Parallel GS,Female
+2000-03-26,Stoneham,CAN,NAC,Giant Slalom,Male
+2000-03-26,Stoneham,CAN,NAC,Giant Slalom,Female
+2000-03-23,Okemo,USA,NC,Slalom,Male
+2000-03-23,Okemo,USA,NC,Slalom,Female
+2000-03-24,Okemo,USA,NC,Giant Slalom,Male
+2000-03-24,Okemo,USA,NC,Giant Slalom,Female
+2000-03-25,Okemo,USA,NC,Halfpipe,Male
+2000-03-25,Okemo,USA,NC,Halfpipe,Female
+2000-03-26,Okemo,USA,NC,Snowboardcross,Male
+2000-03-26,Okemo,USA,NC,Snowboardcross,Female
+2000-03-25,Tahko,FIN,FIS,Parallel Slalom,Male
+2000-03-25,Tahko,FIN,FIS,Parallel Slalom,Female
+2000-03-26,Tahko,FIN,FIS,Giant Slalom,Male
+2000-03-26,Tahko,FIN,FIS,Giant Slalom,Female
+2000-03-25,Spitzing,GER,NC,Giant Slalom,Male
+2000-03-25,Spitzing,GER,NC,Giant Slalom,Female
+2000-03-26,Spitzing,GER,NC,Parallel Slalom,Male
+2000-03-26,Spitzing,GER,NC,Parallel Slalom,Female
+2000-03-24,Szklarska,oreb,FIS,Giant Slalom,Male
+2000-03-24,Szklarska,oreb,FIS,Giant Slalom,Female
+2000-03-25,Szklarska,oreb,FIS,Snowboardcross,Male
+2000-03-25,Szklarska,oreb,FIS,Snowboardcross,Female
+2000-03-31,Radstadt,AUT,NC,Giant Slalom,Male
+2000-03-31,Radstadt,AUT,NC,Giant Slalom,Female
+2000-04-01,Radstadt,AUT,NC,Parallel Slalom,Male
+2000-04-01,Radstadt,AUT,NC,Parallel Slalom,Female
+2000-04-02,Radstadt,AUT,NC,Snowboardcross,Male
+2000-04-02,Radstadt,AUT,NC,Snowboardcross,Female
+2000-04-06,Taernaby,SWE,NC/FI,Halfpipe,Male
+2000-04-06,Taernaby,SWE,NC/FI,Halfpipe,Female
+2000-04-07,Taernaby,SWE,NC/FI,Giant Slalom,Male
+2000-04-07,Taernaby,SWE,NC/FI,Snowboardcross,Male
+2000-04-07,Taernaby,SWE,NC/FI,Giant Slalom,Female
+2000-04-07,Taernaby,SWE,NC/FI,Snowboardcross,Female
+2000-04-08,Taernaby,SWE,NC/FI,Parallel Slalom,Male
+2000-04-08,Taernaby,SWE,NC/FI,Parallel Slalom,Female
