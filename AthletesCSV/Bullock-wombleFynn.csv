@@ -1,95 +1,96 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Bullock-womble Fynn,Male,02-02-2025,Aspen,USA,United States Of America,World Cup,Slopestyle,7,390.10
-1,Bullock-womble Fynn,Male,31-01-2025,Aspen,USA,United States Of America,Qualification,Slopestyle,6,
-2,Bullock-womble Fynn,Male,18-01-2025,Laax,SUI,United States Of America,World Cup,Slopestyle,25,150.30
-3,Bullock-womble Fynn,Male,16-01-2025,Laax,SUI,United States Of America,Qualification,Slopestyle,13,
-4,Bullock-womble Fynn,Male,11-01-2025,Kreischberg,AUT,United States Of America,Qualification,Big Air,16,
-5,Bullock-womble Fynn,Male,11-01-2025,Kreischberg,AUT,United States Of America,World Cup,Big Air,29,121.20
-6,Bullock-womble Fynn,Male,05-01-2025,Klagenfurt,AUT,United States Of America,World Cup,Big Air,35,65.60
-7,Bullock-womble Fynn,Male,05-01-2025,Klagenfurt,AUT,United States Of America,Qualification,Big Air,15,
-8,Bullock-womble Fynn,Male,01-12-2024,Beijing,CHN,United States Of America,World Cup,Big Air,51,9.90
-9,Bullock-womble Fynn,Male,30-11-2024,Beijing,CHN,United States Of America,Qualification,Big Air,26,
-10,Bullock-womble Fynn,Male,19-10-2024,Chur,SUI,United States Of America,World Cup,Big Air,32,78.30
-11,Bullock-womble Fynn,Male,02-09-2024,Cardrona,NZL,United States Of America,World Cup,Slopestyle,23,149.40
-12,Bullock-womble Fynn,Male,31-08-2024,Cardrona,NZL,United States Of America,Qualification,Slopestyle,15,
-13,Bullock-womble Fynn,Male,08-02-2024,Mammoth Mountain,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,14,105.80
-14,Bullock-womble Fynn,Male,26-01-2024,Copper Mountain,USA,United States Of America,Nor-Am Cup,Slopestyle,1,220.00
-15,Bullock-womble Fynn,Male,20-01-2024,Laax,SUI,United States Of America,World Cup,Slopestyle,21,169.00
-16,Bullock-womble Fynn,Male,16-01-2024,Laax,SUI,United States Of America,Qualification,Slopestyle,11,
-17,Bullock-womble Fynn,Male,05-01-2024,Font Romeu,FRA,United States Of America,European Cup,Big Air,4,152.80
-18,Bullock-womble Fynn,Male,04-01-2024,Font Romeu,FRA,United States Of America,European Cup Premium,Slopestyle,6,129.20
-19,Bullock-womble Fynn,Male,15-12-2023,Copper Mountain,USA,United States Of America,World Cup,Big Air,26,140.00
-20,Bullock-womble Fynn,Male,13-12-2023,Copper Mountain,USA,United States Of America,Qualification,Big Air,14,
-21,Bullock-womble Fynn,Male,09-12-2023,Edmonton,CAN,United States Of America,World Cup,Big Air,40,62.70
-22,Bullock-womble Fynn,Male,08-12-2023,Edmonton,CAN,United States Of America,Qualification,Big Air,22,
-23,Bullock-womble Fynn,Male,21-10-2023,Chur,SUI,United States Of America,World Cup,Big Air,13,231.90
-24,Bullock-womble Fynn,Male,21-10-2023,Chur,SUI,United States Of America,Qualification,Big Air,7,
-25,Bullock-womble Fynn,Male,17-04-2023,Corvatsch,SUI,United States Of America,European Cup Premium,Big Air,4,236.80
-26,Bullock-womble Fynn,Male,14-04-2023,Corvatsch,SUI,United States Of America,European Cup Premium,Slopestyle,2,373.90
-27,Bullock-womble Fynn,Male,26-03-2023,Silvaplana,SUI,United States Of America,World Cup,Slopestyle,34,68.30
-28,Bullock-womble Fynn,Male,25-03-2023,Silvaplana,SUI,United States Of America,Qualification,Slopestyle,16,
-29,Bullock-womble Fynn,Male,15-03-2023,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,1,120.00
-30,Bullock-womble Fynn,Male,14-03-2023,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,1,220.00
-31,Bullock-womble Fynn,Male,10-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Big Air,24,5.60
-32,Bullock-womble Fynn,Male,09-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,5,109.50
-33,Bullock-womble Fynn,Male,08-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,13,44.40
-34,Bullock-womble Fynn,Male,16-02-2023,Winsport Calgary,CAN,United States Of America,Nor-Am Cup,Big Air,3,89.70
-35,Bullock-womble Fynn,Male,15-02-2023,Winsport Calgary,CAN,United States Of America,Nor-Am Cup,Slopestyle,5,145.80
-36,Bullock-womble Fynn,Male,12-02-2023,Calgary,CAN,United States Of America,World Cup,Slopestyle,14,156.70
-37,Bullock-womble Fynn,Male,10-02-2023,Calgary,CAN,United States Of America,Qualification,Slopestyle,9,
-38,Bullock-womble Fynn,Male,04-02-2023,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,18,137.80
-39,Bullock-womble Fynn,Male,01-02-2023,Mammoth Mountain,USA,United States Of America,Qualification,Slopestyle,10,
-40,Bullock-womble Fynn,Male,26-01-2023,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,2,215.50
-41,Bullock-womble Fynn,Male,22-01-2023,Laax,SUI,United States Of America,World Cup,Slopestyle,52,22.50
-42,Bullock-womble Fynn,Male,18-01-2023,Laax,SUI,United States Of America,Qualification,Slopestyle,26,
-43,Bullock-womble Fynn,Male,17-12-2022,Copper Mountain,USA,United States Of America,World Cup,Big Air,49,22.40
-44,Bullock-womble Fynn,Male,15-12-2022,Copper Mountain,USA,United States Of America,Qualification,Big Air,25,
-45,Bullock-womble Fynn,Male,10-12-2022,Edmonton,CAN,United States Of America,World Cup,Big Air,41,49.20
-46,Bullock-womble Fynn,Male,09-12-2022,Edmonton,CAN,United States Of America,Qualification,Big Air,20,
-47,Bullock-womble Fynn,Male,22-10-2022,Chur,SUI,United States Of America,World Cup,Big Air,14,168.00
-48,Bullock-womble Fynn,Male,22-10-2022,Chur,SUI,United States Of America,Qualification,Big Air,9,
-49,Bullock-womble Fynn,Male,09-04-2022,Corvatsch,SUI,United States Of America,European Cup Premium,Big Air,10,113.30
-50,Bullock-womble Fynn,Male,07-04-2022,Corvatsch,SUI,United States Of America,European Cup Premium,Slopestyle,6,199.00
-51,Bullock-womble Fynn,Male,24-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,1,120.00
-52,Bullock-womble Fynn,Male,22-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,1,180.00
-53,Bullock-womble Fynn,Male,13-03-2022,Leysin,SUI,United States Of America,FIS Junior World Championships,Slopestyle,3,181.40
-54,Bullock-womble Fynn,Male,10-03-2022,Leysin,SUI,United States Of America,FIS Junior World Championships,Big Air,43,17.40
-55,Bullock-womble Fynn,Male,15-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Big Air,12,20.60
-56,Bullock-womble Fynn,Male,13-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Slopestyle,1,220.00
-57,Bullock-womble Fynn,Male,04-02-2022,Calgary,CAN,United States Of America,Nor-Am Cup,Big Air,20,13.60
-58,Bullock-womble Fynn,Male,26-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,5,146.10
-59,Bullock-womble Fynn,Male,25-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,12,68.70
-60,Bullock-womble Fynn,Male,08-01-2022,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,18,172.30
-61,Bullock-womble Fynn,Male,01-01-2022,Calgary,CAN,United States Of America,World Cup,Slopestyle,29,95.30
-62,Bullock-womble Fynn,Male,31-12-2021,Calgary,CAN,United States Of America,Qualification,Slopestyle,13,
-63,Bullock-womble Fynn,Male,04-12-2021,Steamboat,USA,United States Of America,World Cup,Big Air,56,21.00
-64,Bullock-womble Fynn,Male,02-12-2021,Steamboat,USA,United States Of America,Qualification,Big Air,27,
-65,Bullock-womble Fynn,Male,19-11-2021,Landgraaf,NED,United States Of America,European Cup,Slopestyle,12,54.20
-66,Bullock-womble Fynn,Male,18-11-2021,Landgraaf,NED,United States Of America,FIS,Slopestyle,13,54.10
-67,Bullock-womble Fynn,Male,01-05-2021,Hintertux,AUT,United States Of America,Junior,Slopestyle,9,64.76
-68,Bullock-womble Fynn,Male,20-04-2021,Corvatsch,SUI,United States Of America,European Cup Premium,Slopestyle,15,81.62
-69,Bullock-womble Fynn,Male,21-03-2021,Aspen,USA,United States Of America,World Cup,Halfpipe,22,71.93
-70,Bullock-womble Fynn,Male,20-03-2021,Aspen,USA,United States Of America,World Cup,Slopestyle,22,166.49
-71,Bullock-womble Fynn,Male,19-03-2021,Aspen,USA,United States Of America,Qualification,Slopestyle,11,
-72,Bullock-womble Fynn,Male,18-03-2021,Aspen,USA,United States Of America,Qualification,Halfpipe,22,
-73,Bullock-womble Fynn,Male,05-03-2021,Copper Mountain,USA,United States Of America,National Championships,Halfpipe,8,103.03
-74,Bullock-womble Fynn,Male,04-03-2021,Copper Mountain,USA,United States Of America,National Championships,Slopestyle,1,290.00
-75,Bullock-womble Fynn,Male,26-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Big Air,DNS,
-76,Bullock-womble Fynn,Male,25-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Halfpipe,10,62.98
-77,Bullock-womble Fynn,Male,24-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Slopestyle,3,347.35
-78,Bullock-womble Fynn,Male,22-01-2021,Laax,SUI,United States Of America,World Cup,Slopestyle,38,55.07
-79,Bullock-womble Fynn,Male,19-01-2021,Laax,SUI,United States Of America,Qualification,Slopestyle,38,
-80,Bullock-womble Fynn,Male,05-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Big Air,7,57.60
-81,Bullock-womble Fynn,Male,03-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Slopestyle,8,115.20
-82,Bullock-womble Fynn,Male,02-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Slopestyle,11,86.40
-83,Bullock-womble Fynn,Male,09-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Big Air,11,48.00
-84,Bullock-womble Fynn,Male,07-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,2,192.00
-85,Bullock-womble Fynn,Male,18-12-2019,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,8,51.20
-86,Bullock-womble Fynn,Male,17-12-2019,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,19,19.20
-87,Bullock-womble Fynn,Male,06-12-2019,Copper Mountain Resort,USA,United States Of America,FIS,Halfpipe,6,88.00
-88,Bullock-womble Fynn,Male,04-04-2019,"Copper Mountain, CO",USA,United States Of America,National Championships,Slopestyle,4,25.00
-89,Bullock-womble Fynn,Male,03-04-2019,"Copper Mountain, CO",USA,United States Of America,National Championships,Halfpipe,2,104.00
-90,Bullock-womble Fynn,Male,14-02-2019,"Copper Mountain, CO",USA,United States Of America,FIS,Halfpipe,2,56.00
-91,Bullock-womble Fynn,Male,13-02-2019,"Copper Mountain, CO",USA,United States Of America,FIS,Slopestyle,3,60.00
-92,Bullock-womble Fynn,Male,12-12-2018,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,17,50.40
-93,Bullock-womble Fynn,Male,11-12-2018,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,20,39.60
+0,Bullock-womble Fynn,Male,05-02-2025,Aspen,USA,United States Of America,Qualification,Big Air,10,
+1,Bullock-womble Fynn,Male,02-02-2025,Aspen,USA,United States Of America,World Cup,Slopestyle,7,390.10
+2,Bullock-womble Fynn,Male,31-01-2025,Aspen,USA,United States Of America,Qualification,Slopestyle,6,
+3,Bullock-womble Fynn,Male,18-01-2025,Laax,SUI,United States Of America,World Cup,Slopestyle,25,150.30
+4,Bullock-womble Fynn,Male,16-01-2025,Laax,SUI,United States Of America,Qualification,Slopestyle,13,
+5,Bullock-womble Fynn,Male,11-01-2025,Kreischberg,AUT,United States Of America,Qualification,Big Air,16,
+6,Bullock-womble Fynn,Male,11-01-2025,Kreischberg,AUT,United States Of America,World Cup,Big Air,29,121.20
+7,Bullock-womble Fynn,Male,05-01-2025,Klagenfurt,AUT,United States Of America,World Cup,Big Air,35,65.60
+8,Bullock-womble Fynn,Male,05-01-2025,Klagenfurt,AUT,United States Of America,Qualification,Big Air,15,
+9,Bullock-womble Fynn,Male,01-12-2024,Beijing,CHN,United States Of America,World Cup,Big Air,51,9.90
+10,Bullock-womble Fynn,Male,30-11-2024,Beijing,CHN,United States Of America,Qualification,Big Air,26,
+11,Bullock-womble Fynn,Male,19-10-2024,Chur,SUI,United States Of America,World Cup,Big Air,32,78.30
+12,Bullock-womble Fynn,Male,02-09-2024,Cardrona,NZL,United States Of America,World Cup,Slopestyle,23,149.40
+13,Bullock-womble Fynn,Male,31-08-2024,Cardrona,NZL,United States Of America,Qualification,Slopestyle,15,
+14,Bullock-womble Fynn,Male,08-02-2024,Mammoth Mountain,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,14,105.80
+15,Bullock-womble Fynn,Male,26-01-2024,Copper Mountain,USA,United States Of America,Nor-Am Cup,Slopestyle,1,220.00
+16,Bullock-womble Fynn,Male,20-01-2024,Laax,SUI,United States Of America,World Cup,Slopestyle,21,169.00
+17,Bullock-womble Fynn,Male,16-01-2024,Laax,SUI,United States Of America,Qualification,Slopestyle,11,
+18,Bullock-womble Fynn,Male,05-01-2024,Font Romeu,FRA,United States Of America,European Cup,Big Air,4,152.80
+19,Bullock-womble Fynn,Male,04-01-2024,Font Romeu,FRA,United States Of America,European Cup Premium,Slopestyle,6,129.20
+20,Bullock-womble Fynn,Male,15-12-2023,Copper Mountain,USA,United States Of America,World Cup,Big Air,26,140.00
+21,Bullock-womble Fynn,Male,13-12-2023,Copper Mountain,USA,United States Of America,Qualification,Big Air,14,
+22,Bullock-womble Fynn,Male,09-12-2023,Edmonton,CAN,United States Of America,World Cup,Big Air,40,62.70
+23,Bullock-womble Fynn,Male,08-12-2023,Edmonton,CAN,United States Of America,Qualification,Big Air,22,
+24,Bullock-womble Fynn,Male,21-10-2023,Chur,SUI,United States Of America,World Cup,Big Air,13,231.90
+25,Bullock-womble Fynn,Male,21-10-2023,Chur,SUI,United States Of America,Qualification,Big Air,7,
+26,Bullock-womble Fynn,Male,17-04-2023,Corvatsch,SUI,United States Of America,European Cup Premium,Big Air,4,236.80
+27,Bullock-womble Fynn,Male,14-04-2023,Corvatsch,SUI,United States Of America,European Cup Premium,Slopestyle,2,373.90
+28,Bullock-womble Fynn,Male,26-03-2023,Silvaplana,SUI,United States Of America,World Cup,Slopestyle,34,68.30
+29,Bullock-womble Fynn,Male,25-03-2023,Silvaplana,SUI,United States Of America,Qualification,Slopestyle,16,
+30,Bullock-womble Fynn,Male,15-03-2023,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,1,120.00
+31,Bullock-womble Fynn,Male,14-03-2023,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,1,220.00
+32,Bullock-womble Fynn,Male,10-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Big Air,24,5.60
+33,Bullock-womble Fynn,Male,09-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,5,109.50
+34,Bullock-womble Fynn,Male,08-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,13,44.40
+35,Bullock-womble Fynn,Male,16-02-2023,Winsport Calgary,CAN,United States Of America,Nor-Am Cup,Big Air,3,89.70
+36,Bullock-womble Fynn,Male,15-02-2023,Winsport Calgary,CAN,United States Of America,Nor-Am Cup,Slopestyle,5,145.80
+37,Bullock-womble Fynn,Male,12-02-2023,Calgary,CAN,United States Of America,World Cup,Slopestyle,14,156.70
+38,Bullock-womble Fynn,Male,10-02-2023,Calgary,CAN,United States Of America,Qualification,Slopestyle,9,
+39,Bullock-womble Fynn,Male,04-02-2023,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,18,137.80
+40,Bullock-womble Fynn,Male,01-02-2023,Mammoth Mountain,USA,United States Of America,Qualification,Slopestyle,10,
+41,Bullock-womble Fynn,Male,26-01-2023,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,2,215.50
+42,Bullock-womble Fynn,Male,22-01-2023,Laax,SUI,United States Of America,World Cup,Slopestyle,52,22.50
+43,Bullock-womble Fynn,Male,18-01-2023,Laax,SUI,United States Of America,Qualification,Slopestyle,26,
+44,Bullock-womble Fynn,Male,17-12-2022,Copper Mountain,USA,United States Of America,World Cup,Big Air,49,22.40
+45,Bullock-womble Fynn,Male,15-12-2022,Copper Mountain,USA,United States Of America,Qualification,Big Air,25,
+46,Bullock-womble Fynn,Male,10-12-2022,Edmonton,CAN,United States Of America,World Cup,Big Air,41,49.20
+47,Bullock-womble Fynn,Male,09-12-2022,Edmonton,CAN,United States Of America,Qualification,Big Air,20,
+48,Bullock-womble Fynn,Male,22-10-2022,Chur,SUI,United States Of America,World Cup,Big Air,14,168.00
+49,Bullock-womble Fynn,Male,22-10-2022,Chur,SUI,United States Of America,Qualification,Big Air,9,
+50,Bullock-womble Fynn,Male,09-04-2022,Corvatsch,SUI,United States Of America,European Cup Premium,Big Air,10,113.30
+51,Bullock-womble Fynn,Male,07-04-2022,Corvatsch,SUI,United States Of America,European Cup Premium,Slopestyle,6,199.00
+52,Bullock-womble Fynn,Male,24-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,1,120.00
+53,Bullock-womble Fynn,Male,22-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,1,180.00
+54,Bullock-womble Fynn,Male,13-03-2022,Leysin,SUI,United States Of America,FIS Junior World Championships,Slopestyle,3,181.40
+55,Bullock-womble Fynn,Male,10-03-2022,Leysin,SUI,United States Of America,FIS Junior World Championships,Big Air,43,17.40
+56,Bullock-womble Fynn,Male,15-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Big Air,12,20.60
+57,Bullock-womble Fynn,Male,13-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Slopestyle,1,220.00
+58,Bullock-womble Fynn,Male,04-02-2022,Calgary,CAN,United States Of America,Nor-Am Cup,Big Air,20,13.60
+59,Bullock-womble Fynn,Male,26-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,5,146.10
+60,Bullock-womble Fynn,Male,25-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,12,68.70
+61,Bullock-womble Fynn,Male,08-01-2022,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,18,172.30
+62,Bullock-womble Fynn,Male,01-01-2022,Calgary,CAN,United States Of America,World Cup,Slopestyle,29,95.30
+63,Bullock-womble Fynn,Male,31-12-2021,Calgary,CAN,United States Of America,Qualification,Slopestyle,13,
+64,Bullock-womble Fynn,Male,04-12-2021,Steamboat,USA,United States Of America,World Cup,Big Air,56,21.00
+65,Bullock-womble Fynn,Male,02-12-2021,Steamboat,USA,United States Of America,Qualification,Big Air,27,
+66,Bullock-womble Fynn,Male,19-11-2021,Landgraaf,NED,United States Of America,European Cup,Slopestyle,12,54.20
+67,Bullock-womble Fynn,Male,18-11-2021,Landgraaf,NED,United States Of America,FIS,Slopestyle,13,54.10
+68,Bullock-womble Fynn,Male,01-05-2021,Hintertux,AUT,United States Of America,Junior,Slopestyle,9,64.76
+69,Bullock-womble Fynn,Male,20-04-2021,Corvatsch,SUI,United States Of America,European Cup Premium,Slopestyle,15,81.62
+70,Bullock-womble Fynn,Male,21-03-2021,Aspen,USA,United States Of America,World Cup,Halfpipe,22,71.93
+71,Bullock-womble Fynn,Male,20-03-2021,Aspen,USA,United States Of America,World Cup,Slopestyle,22,166.49
+72,Bullock-womble Fynn,Male,19-03-2021,Aspen,USA,United States Of America,Qualification,Slopestyle,11,
+73,Bullock-womble Fynn,Male,18-03-2021,Aspen,USA,United States Of America,Qualification,Halfpipe,22,
+74,Bullock-womble Fynn,Male,05-03-2021,Copper Mountain,USA,United States Of America,National Championships,Halfpipe,8,103.03
+75,Bullock-womble Fynn,Male,04-03-2021,Copper Mountain,USA,United States Of America,National Championships,Slopestyle,1,290.00
+76,Bullock-womble Fynn,Male,26-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Big Air,DNS,
+77,Bullock-womble Fynn,Male,25-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Halfpipe,10,62.98
+78,Bullock-womble Fynn,Male,24-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Slopestyle,3,347.35
+79,Bullock-womble Fynn,Male,22-01-2021,Laax,SUI,United States Of America,World Cup,Slopestyle,38,55.07
+80,Bullock-womble Fynn,Male,19-01-2021,Laax,SUI,United States Of America,Qualification,Slopestyle,38,
+81,Bullock-womble Fynn,Male,05-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Big Air,7,57.60
+82,Bullock-womble Fynn,Male,03-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Slopestyle,8,115.20
+83,Bullock-womble Fynn,Male,02-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Slopestyle,11,86.40
+84,Bullock-womble Fynn,Male,09-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Big Air,11,48.00
+85,Bullock-womble Fynn,Male,07-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,2,192.00
+86,Bullock-womble Fynn,Male,18-12-2019,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,8,51.20
+87,Bullock-womble Fynn,Male,17-12-2019,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,19,19.20
+88,Bullock-womble Fynn,Male,06-12-2019,Copper Mountain Resort,USA,United States Of America,FIS,Halfpipe,6,88.00
+89,Bullock-womble Fynn,Male,04-04-2019,"Copper Mountain, CO",USA,United States Of America,National Championships,Slopestyle,4,25.00
+90,Bullock-womble Fynn,Male,03-04-2019,"Copper Mountain, CO",USA,United States Of America,National Championships,Halfpipe,2,104.00
+91,Bullock-womble Fynn,Male,14-02-2019,"Copper Mountain, CO",USA,United States Of America,FIS,Halfpipe,2,56.00
+92,Bullock-womble Fynn,Male,13-02-2019,"Copper Mountain, CO",USA,United States Of America,FIS,Slopestyle,3,60.00
+93,Bullock-womble Fynn,Male,12-12-2018,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,17,50.40
+94,Bullock-womble Fynn,Male,11-12-2018,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,20,39.60

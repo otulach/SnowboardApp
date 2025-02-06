@@ -1,45 +1,46 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Su Yiming,Male,02-02-2025,Aspen,USA,P.r. China,World Cup,Slopestyle,2,829.60
-1,Su Yiming,Male,31-01-2025,Aspen,USA,P.r. China,Qualification,Slopestyle,4,
-2,Su Yiming,Male,18-01-2025,Laax,SUI,P.r. China,World Cup,Slopestyle,6,443.80
-3,Su Yiming,Male,16-01-2025,Laax,SUI,P.r. China,Qualification,Slopestyle,6,
-4,Su Yiming,Male,11-01-2025,Kreischberg,AUT,P.r. China,World Cup,Big Air,9,314.50
-5,Su Yiming,Male,11-01-2025,Kreischberg,AUT,P.r. China,Qualification,Big Air,5,
-6,Su Yiming,Male,05-01-2025,Klagenfurt,AUT,P.r. China,World Cup,Big Air,13,222.20
-7,Su Yiming,Male,05-01-2025,Klagenfurt,AUT,P.r. China,Qualification,Big Air,8,
-8,Su Yiming,Male,01-12-2024,Beijing,CHN,P.r. China,World Cup,Big Air,10,285.90
-9,Su Yiming,Male,30-11-2024,Beijing,CHN,P.r. China,Qualification,Big Air,2,
-10,Su Yiming,Male,02-09-2024,Cardrona,NZL,P.r. China,World Cup,Slopestyle,10,286.70
-11,Su Yiming,Male,31-08-2024,Cardrona,NZL,P.r. China,Qualification,Slopestyle,5,
-12,Su Yiming,Male,23-03-2024,Silvaplana,SUI,P.r. China,World Cup,Slopestyle,5,508.70
-13,Su Yiming,Male,21-03-2024,Silvaplana,SUI,P.r. China,Qualification,Slopestyle,4,
-14,Su Yiming,Male,15-12-2023,Copper Mountain,USA,P.r. China,World Cup,Big Air,42,67.20
-15,Su Yiming,Male,13-12-2023,Copper Mountain,USA,P.r. China,Qualification,Big Air,20,
-16,Su Yiming,Male,09-12-2023,Edmonton,CAN,P.r. China,World Cup,Big Air,2,829.30
-17,Su Yiming,Male,08-12-2023,Edmonton,CAN,P.r. China,Qualification,Big Air,1,
-18,Su Yiming,Male,02-12-2023,Beijing,CHN,P.r. China,World Cup,Big Air,1,1000.00
-19,Su Yiming,Male,01-12-2023,Beijing,CHN,P.r. China,Qualification,Big Air,1,
-20,Su Yiming,Male,15-02-2022,Beijing,CHN,P.r. China,Olympic Winter Games,Big Air,1,1000.00
-21,Su Yiming,Male,14-02-2022,Beijing,CHN,P.r. China,Qualification,Big Air,5,
-22,Su Yiming,Male,07-02-2022,Beijing,CHN,P.r. China,Olympic Winter Games,Slopestyle,2,825.50
-23,Su Yiming,Male,06-02-2022,Beijing,CHN,P.r. China,Qualification,Slopestyle,1,
-24,Su Yiming,Male,15-01-2022,Laax,SUI,P.r. China,World Cup,Slopestyle,10,226.60
-25,Su Yiming,Male,13-01-2022,Laax,SUI,P.r. China,Qualification,Slopestyle,7,
-26,Su Yiming,Male,08-01-2022,Mammoth Mountain,USA,P.r. China,World Cup,Slopestyle,7,386.20
-27,Su Yiming,Male,01-01-2022,Calgary,CAN,P.r. China,World Cup,Slopestyle,6,437.20
-28,Su Yiming,Male,31-12-2021,Calgary,CAN,P.r. China,Qualification,Slopestyle,6,
-29,Su Yiming,Male,04-12-2021,Steamboat,USA,P.r. China,World Cup,Big Air,1,1000.00
-30,Su Yiming,Male,02-12-2021,Steamboat,USA,P.r. China,Qualification,Big Air,1,
-31,Su Yiming,Male,11-11-2021,Glacier 3000,SUI,P.r. China,Open,Slopestyle,3,166.10
-32,Su Yiming,Male,23-10-2021,Chur,SUI,P.r. China,World Cup,Big Air,41,41.90
-33,Su Yiming,Male,23-01-2020,Seiseralm,ITA,P.r. China,World Cup,Slopestyle,DNS,
-34,Su Yiming,Male,22-01-2020,Seiseralm,ITA,P.r. China,Qualification,Slopestyle,DNS,
-35,Su Yiming,Male,14-12-2019,Beijing,CHN,P.r. China,World Cup,Big Air,11,240.00
-36,Su Yiming,Male,12-12-2019,Beijing,CHN,P.r. China,Qualification,Big Air,6,
-37,Su Yiming,Male,15-08-2019,Cardrona Alpine Resort,NZL,P.r. China,Australian New Zealand Cup,Slopestyle,1,360.00
-38,Su Yiming,Male,13-04-2019,Klaeppen,SWE,P.r. China,FIS Junior World Championships,Big Air,23,19.20
-39,Su Yiming,Male,12-04-2019,Klaeppen,SWE,P.r. China,Qualification,Big Air,6,
-40,Su Yiming,Male,09-04-2019,Klaeppen,SWE,P.r. China,FIS Junior World Championships,Slopestyle,47,3.94
-41,Su Yiming,Male,08-04-2019,Klaeppen,SWE,P.r. China,Qualification,Slopestyle,14,
-42,Su Yiming,Male,31-01-2019,Phoenix Pyeongchang,KOR,P.r. China,FIS,Slopestyle,2,40.00
-43,Su Yiming,Male,30-01-2019,Phoenix Pyeongchang,KOR,P.r. China,FIS,Big Air,1,50.00
+0,Su Yiming,Male,05-02-2025,Aspen,USA,P.r. China,Qualification,Big Air,6,
+1,Su Yiming,Male,02-02-2025,Aspen,USA,P.r. China,World Cup,Slopestyle,2,829.60
+2,Su Yiming,Male,31-01-2025,Aspen,USA,P.r. China,Qualification,Slopestyle,4,
+3,Su Yiming,Male,18-01-2025,Laax,SUI,P.r. China,World Cup,Slopestyle,6,443.80
+4,Su Yiming,Male,16-01-2025,Laax,SUI,P.r. China,Qualification,Slopestyle,6,
+5,Su Yiming,Male,11-01-2025,Kreischberg,AUT,P.r. China,World Cup,Big Air,9,314.50
+6,Su Yiming,Male,11-01-2025,Kreischberg,AUT,P.r. China,Qualification,Big Air,5,
+7,Su Yiming,Male,05-01-2025,Klagenfurt,AUT,P.r. China,World Cup,Big Air,13,222.20
+8,Su Yiming,Male,05-01-2025,Klagenfurt,AUT,P.r. China,Qualification,Big Air,8,
+9,Su Yiming,Male,01-12-2024,Beijing,CHN,P.r. China,World Cup,Big Air,10,285.90
+10,Su Yiming,Male,30-11-2024,Beijing,CHN,P.r. China,Qualification,Big Air,2,
+11,Su Yiming,Male,02-09-2024,Cardrona,NZL,P.r. China,World Cup,Slopestyle,10,286.70
+12,Su Yiming,Male,31-08-2024,Cardrona,NZL,P.r. China,Qualification,Slopestyle,5,
+13,Su Yiming,Male,23-03-2024,Silvaplana,SUI,P.r. China,World Cup,Slopestyle,5,508.70
+14,Su Yiming,Male,21-03-2024,Silvaplana,SUI,P.r. China,Qualification,Slopestyle,4,
+15,Su Yiming,Male,15-12-2023,Copper Mountain,USA,P.r. China,World Cup,Big Air,42,67.20
+16,Su Yiming,Male,13-12-2023,Copper Mountain,USA,P.r. China,Qualification,Big Air,20,
+17,Su Yiming,Male,09-12-2023,Edmonton,CAN,P.r. China,World Cup,Big Air,2,829.30
+18,Su Yiming,Male,08-12-2023,Edmonton,CAN,P.r. China,Qualification,Big Air,1,
+19,Su Yiming,Male,02-12-2023,Beijing,CHN,P.r. China,World Cup,Big Air,1,1000.00
+20,Su Yiming,Male,01-12-2023,Beijing,CHN,P.r. China,Qualification,Big Air,1,
+21,Su Yiming,Male,15-02-2022,Beijing,CHN,P.r. China,Olympic Winter Games,Big Air,1,1000.00
+22,Su Yiming,Male,14-02-2022,Beijing,CHN,P.r. China,Qualification,Big Air,5,
+23,Su Yiming,Male,07-02-2022,Beijing,CHN,P.r. China,Olympic Winter Games,Slopestyle,2,825.50
+24,Su Yiming,Male,06-02-2022,Beijing,CHN,P.r. China,Qualification,Slopestyle,1,
+25,Su Yiming,Male,15-01-2022,Laax,SUI,P.r. China,World Cup,Slopestyle,10,226.60
+26,Su Yiming,Male,13-01-2022,Laax,SUI,P.r. China,Qualification,Slopestyle,7,
+27,Su Yiming,Male,08-01-2022,Mammoth Mountain,USA,P.r. China,World Cup,Slopestyle,7,386.20
+28,Su Yiming,Male,01-01-2022,Calgary,CAN,P.r. China,World Cup,Slopestyle,6,437.20
+29,Su Yiming,Male,31-12-2021,Calgary,CAN,P.r. China,Qualification,Slopestyle,6,
+30,Su Yiming,Male,04-12-2021,Steamboat,USA,P.r. China,World Cup,Big Air,1,1000.00
+31,Su Yiming,Male,02-12-2021,Steamboat,USA,P.r. China,Qualification,Big Air,1,
+32,Su Yiming,Male,11-11-2021,Glacier 3000,SUI,P.r. China,Open,Slopestyle,3,166.10
+33,Su Yiming,Male,23-10-2021,Chur,SUI,P.r. China,World Cup,Big Air,41,41.90
+34,Su Yiming,Male,23-01-2020,Seiseralm,ITA,P.r. China,World Cup,Slopestyle,DNS,
+35,Su Yiming,Male,22-01-2020,Seiseralm,ITA,P.r. China,Qualification,Slopestyle,DNS,
+36,Su Yiming,Male,14-12-2019,Beijing,CHN,P.r. China,World Cup,Big Air,11,240.00
+37,Su Yiming,Male,12-12-2019,Beijing,CHN,P.r. China,Qualification,Big Air,6,
+38,Su Yiming,Male,15-08-2019,Cardrona Alpine Resort,NZL,P.r. China,Australian New Zealand Cup,Slopestyle,1,360.00
+39,Su Yiming,Male,13-04-2019,Klaeppen,SWE,P.r. China,FIS Junior World Championships,Big Air,23,19.20
+40,Su Yiming,Male,12-04-2019,Klaeppen,SWE,P.r. China,Qualification,Big Air,6,
+41,Su Yiming,Male,09-04-2019,Klaeppen,SWE,P.r. China,FIS Junior World Championships,Slopestyle,47,3.94
+42,Su Yiming,Male,08-04-2019,Klaeppen,SWE,P.r. China,Qualification,Slopestyle,14,
+43,Su Yiming,Male,31-01-2019,Phoenix Pyeongchang,KOR,P.r. China,FIS,Slopestyle,2,40.00
+44,Su Yiming,Male,30-01-2019,Phoenix Pyeongchang,KOR,P.r. China,FIS,Big Air,1,50.00

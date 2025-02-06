@@ -1,79 +1,80 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Matteoli Ian,Male,02-02-2025,Aspen,USA,Italy,World Cup,Slopestyle,41,68.40
-1,Matteoli Ian,Male,31-01-2025,Aspen,USA,Italy,Qualification,Slopestyle,21,
-2,Matteoli Ian,Male,18-01-2025,Laax,SUI,Italy,World Cup,Slopestyle,33,114.80
-3,Matteoli Ian,Male,16-01-2025,Laax,SUI,Italy,Qualification,Slopestyle,21,
-4,Matteoli Ian,Male,11-01-2025,Kreischberg,AUT,Italy,Qualification,Big Air,29,
-5,Matteoli Ian,Male,11-01-2025,Kreischberg,AUT,Italy,World Cup,Big Air,55,0.20
-6,Matteoli Ian,Male,05-01-2025,Klagenfurt,AUT,Italy,World Cup,Big Air,2,828.70
-7,Matteoli Ian,Male,05-01-2025,Klagenfurt,AUT,Italy,Qualification,Big Air,1,
-8,Matteoli Ian,Male,01-12-2024,Beijing,CHN,Italy,World Cup,Big Air,2,829.30
-9,Matteoli Ian,Male,30-11-2024,Beijing,CHN,Italy,Qualification,Big Air,2,
-10,Matteoli Ian,Male,19-10-2024,Chur,SUI,Italy,World Cup,Big Air,4,587.70
-11,Matteoli Ian,Male,02-09-2024,Cardrona,NZL,Italy,World Cup,Slopestyle,53,5.00
-12,Matteoli Ian,Male,31-08-2024,Cardrona,NZL,Italy,Qualification,Slopestyle,26,
-13,Matteoli Ian,Male,06-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Slopestyle,3,135.90
-14,Matteoli Ian,Male,05-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Big Air,6,108.40
-15,Matteoli Ian,Male,23-03-2024,Silvaplana,SUI,Italy,World Cup,Slopestyle,38,90.70
-16,Matteoli Ian,Male,21-03-2024,Silvaplana,SUI,Italy,Qualification,Slopestyle,17,
-17,Matteoli Ian,Male,15-03-2024,Tignes,FRA,Italy,Qualification,Slopestyle,2,
-18,Matteoli Ian,Male,15-03-2024,Tignes,FRA,Italy,World Cup,Slopestyle,4,590.20
-19,Matteoli Ian,Male,22-02-2024,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,30,40.90
-20,Matteoli Ian,Male,08-02-2024,Mammoth Mountain,USA,Italy,Nor-Am Cup Premium,Slopestyle,1,500.00
-21,Matteoli Ian,Male,20-01-2024,Laax,SUI,Italy,World Cup,Slopestyle,11,268.50
-22,Matteoli Ian,Male,16-01-2024,Laax,SUI,Italy,Qualification,Slopestyle,5,
-23,Matteoli Ian,Male,15-12-2023,Copper Mountain,USA,Italy,World Cup,Big Air,14,221.10
-24,Matteoli Ian,Male,13-12-2023,Copper Mountain,USA,Italy,Qualification,Big Air,9,
-25,Matteoli Ian,Male,09-12-2023,Edmonton,CAN,Italy,World Cup,Big Air,37,77.20
-26,Matteoli Ian,Male,08-12-2023,Edmonton,CAN,Italy,Qualification,Big Air,17,
-27,Matteoli Ian,Male,02-12-2023,Beijing,CHN,Italy,World Cup,Big Air,8,338.70
-28,Matteoli Ian,Male,01-12-2023,Beijing,CHN,Italy,Qualification,Big Air,2,
-29,Matteoli Ian,Male,21-10-2023,Chur,SUI,Italy,World Cup,Big Air,11,265.40
-30,Matteoli Ian,Male,21-10-2023,Chur,SUI,Italy,Qualification,Big Air,6,
-31,Matteoli Ian,Male,04-09-2023,Cardrona,NZL,Italy,FIS Junior World Championships,Big Air,3,250.50
-32,Matteoli Ian,Male,02-09-2023,Cardrona,NZL,Italy,Qualification,Big Air,1,
-33,Matteoli Ian,Male,30-08-2023,Cardrona,NZL,Italy,FIS Junior World Championships,Slopestyle,5,183.50
-34,Matteoli Ian,Male,28-08-2023,Cardrona,NZL,Italy,Qualification,Slopestyle,2,
-35,Matteoli Ian,Male,25-01-2023,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,5,90.50
-36,Matteoli Ian,Male,14-01-2023,Kreischberg,AUT,Italy,World Cup,Big Air,29,76.30
-37,Matteoli Ian,Male,13-01-2023,Kreischberg,AUT,Italy,Qualification,Big Air,14,
-38,Matteoli Ian,Male,17-12-2022,Copper Mountain,USA,Italy,World Cup,Big Air,3,556.60
-39,Matteoli Ian,Male,15-12-2022,Copper Mountain,USA,Italy,Qualification,Big Air,1,
-40,Matteoli Ian,Male,09-04-2022,Corvatsch,SUI,Italy,European Cup Premium,Big Air,18,69.70
-41,Matteoli Ian,Male,07-04-2022,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,39,34.90
-42,Matteoli Ian,Male,25-03-2022,Vuokatti,FIN,Italy,European Youth Olympic Festival,Slopestyle,11,26.70
-43,Matteoli Ian,Male,23-03-2022,Vuokatti,FIN,Italy,European Youth Olympic Festival,Big Air,17,19.10
-44,Matteoli Ian,Male,15-03-2022,Laax,SUI,Italy,European Cup Premium,Slopestyle,35,6.90
-45,Matteoli Ian,Male,13-03-2022,Leysin,SUI,Italy,FIS Junior World Championships,Slopestyle,8,92.00
-46,Matteoli Ian,Male,10-03-2022,Leysin,SUI,Italy,FIS Junior World Championships,Big Air,11,64.70
-47,Matteoli Ian,Male,18-02-2022,Davos,SUI,Italy,European Cup Premium,Big Air,50,1.40
-48,Matteoli Ian,Male,28-01-2022,Crans Montana,SUI,Italy,European Cup,Big Air,4,116.50
-49,Matteoli Ian,Male,27-01-2022,Crans Montana,SUI,Italy,European Cup,Halfpipe,5,68.90
-50,Matteoli Ian,Male,23-01-2022,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,13,57.40
-51,Matteoli Ian,Male,18-01-2022,Livigno,ITA,Italy,Junior,Slopestyle,4,40.50
-52,Matteoli Ian,Male,19-11-2021,Landgraaf,NED,Italy,European Cup,Slopestyle,6,97.10
-53,Matteoli Ian,Male,18-11-2021,Landgraaf,NED,Italy,FIS,Slopestyle,23,38.90
-54,Matteoli Ian,Male,01-05-2021,Hintertux,AUT,Italy,Junior,Slopestyle,17,32.89
-55,Matteoli Ian,Male,20-04-2021,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,45,13.79
-56,Matteoli Ian,Male,23-03-2021,Krasnoyarsk ,RUS,Italy,FIS Junior World Championships,Halfpipe,4,118.79
-57,Matteoli Ian,Male,22-03-2021,Krasnoyarsk ,RUS,Italy,Qualification,Halfpipe,6,
-58,Matteoli Ian,Male,21-03-2021,Krasnoyarsk ,RUS,Italy,FIS Junior World Championships,Big Air,8,78.55
-59,Matteoli Ian,Male,20-03-2021,Krasnoyarsk ,RUS,Italy,Qualification,Big Air,1,
-60,Matteoli Ian,Male,19-03-2021,Krasnoyarsk ,RUS,Italy,FIS Junior World Championships,Slopestyle,9,69.82
-61,Matteoli Ian,Male,18-03-2021,Krasnoyarsk ,RUS,Italy,Qualification,Slopestyle,5,
-62,Matteoli Ian,Male,22-02-2021,Götschen,GER,Italy,European Cup,Big Air,37,17.89
-63,Matteoli Ian,Male,21-02-2021,Götschen,GER,Italy,European Cup,Slopestyle,7,70.54
-64,Matteoli Ian,Male,19-02-2021,Davos,SUI,Italy,European Cup,Big Air,31,40.18
-65,Matteoli Ian,Male,31-01-2021,Crans Montana,SUI,Italy,European Cup,Halfpipe,16,11.05
-66,Matteoli Ian,Male,23-01-2021,Laax,SUI,Italy,World Cup,Halfpipe,29,75.83
-67,Matteoli Ian,Male,21-01-2021,Laax,SUI,Italy,Qualification,Halfpipe,13,
-68,Matteoli Ian,Male,22-12-2020,Corvatsch,SUI,Italy,European Cup,Slopestyle,23,47.79
-69,Matteoli Ian,Male,19-01-2020,Vars,FRA,Italy,European Cup,Slopestyle,49,2.53
-70,Matteoli Ian,Male,18-01-2020,Vars,FRA,Italy,European Cup,Big Air,26,8.00
-71,Matteoli Ian,Male,13-04-2019,Silvaplana,SUI,Italy,European Cup,Big Air,20,39.60
-72,Matteoli Ian,Male,24-03-2019,Laax,SUI,Italy,European Cup,Halfpipe,11,86.40
-73,Matteoli Ian,Male,22-03-2019,Laax,SUI,Italy,European Cup,Slopestyle,39,3.01
-74,Matteoli Ian,Male,23-02-2019,Davos,SUI,Italy,FIS,Halfpipe,4,25.00
-75,Matteoli Ian,Male,22-02-2019,Davos,SUI,Italy,European Cup,Big Air,28,6.40
-76,Matteoli Ian,Male,10-02-2019,Crans Montana,SUI,Italy,FIS,Slopestyle,4,25.00
-77,Matteoli Ian,Male,09-02-2019,Crans Montana,SUI,Italy,European Cup,Halfpipe,5,72.00
+0,Matteoli Ian,Male,05-02-2025,Aspen,USA,Italy,Qualification,Big Air,22,
+1,Matteoli Ian,Male,02-02-2025,Aspen,USA,Italy,World Cup,Slopestyle,41,68.40
+2,Matteoli Ian,Male,31-01-2025,Aspen,USA,Italy,Qualification,Slopestyle,21,
+3,Matteoli Ian,Male,18-01-2025,Laax,SUI,Italy,World Cup,Slopestyle,33,114.80
+4,Matteoli Ian,Male,16-01-2025,Laax,SUI,Italy,Qualification,Slopestyle,21,
+5,Matteoli Ian,Male,11-01-2025,Kreischberg,AUT,Italy,Qualification,Big Air,29,
+6,Matteoli Ian,Male,11-01-2025,Kreischberg,AUT,Italy,World Cup,Big Air,55,0.20
+7,Matteoli Ian,Male,05-01-2025,Klagenfurt,AUT,Italy,World Cup,Big Air,2,828.70
+8,Matteoli Ian,Male,05-01-2025,Klagenfurt,AUT,Italy,Qualification,Big Air,1,
+9,Matteoli Ian,Male,01-12-2024,Beijing,CHN,Italy,World Cup,Big Air,2,829.30
+10,Matteoli Ian,Male,30-11-2024,Beijing,CHN,Italy,Qualification,Big Air,2,
+11,Matteoli Ian,Male,19-10-2024,Chur,SUI,Italy,World Cup,Big Air,4,587.70
+12,Matteoli Ian,Male,02-09-2024,Cardrona,NZL,Italy,World Cup,Slopestyle,53,5.00
+13,Matteoli Ian,Male,31-08-2024,Cardrona,NZL,Italy,Qualification,Slopestyle,26,
+14,Matteoli Ian,Male,06-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Slopestyle,3,135.90
+15,Matteoli Ian,Male,05-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Big Air,6,108.40
+16,Matteoli Ian,Male,23-03-2024,Silvaplana,SUI,Italy,World Cup,Slopestyle,38,90.70
+17,Matteoli Ian,Male,21-03-2024,Silvaplana,SUI,Italy,Qualification,Slopestyle,17,
+18,Matteoli Ian,Male,15-03-2024,Tignes,FRA,Italy,Qualification,Slopestyle,2,
+19,Matteoli Ian,Male,15-03-2024,Tignes,FRA,Italy,World Cup,Slopestyle,4,590.20
+20,Matteoli Ian,Male,22-02-2024,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,30,40.90
+21,Matteoli Ian,Male,08-02-2024,Mammoth Mountain,USA,Italy,Nor-Am Cup Premium,Slopestyle,1,500.00
+22,Matteoli Ian,Male,20-01-2024,Laax,SUI,Italy,World Cup,Slopestyle,11,268.50
+23,Matteoli Ian,Male,16-01-2024,Laax,SUI,Italy,Qualification,Slopestyle,5,
+24,Matteoli Ian,Male,15-12-2023,Copper Mountain,USA,Italy,World Cup,Big Air,14,221.10
+25,Matteoli Ian,Male,13-12-2023,Copper Mountain,USA,Italy,Qualification,Big Air,9,
+26,Matteoli Ian,Male,09-12-2023,Edmonton,CAN,Italy,World Cup,Big Air,37,77.20
+27,Matteoli Ian,Male,08-12-2023,Edmonton,CAN,Italy,Qualification,Big Air,17,
+28,Matteoli Ian,Male,02-12-2023,Beijing,CHN,Italy,World Cup,Big Air,8,338.70
+29,Matteoli Ian,Male,01-12-2023,Beijing,CHN,Italy,Qualification,Big Air,2,
+30,Matteoli Ian,Male,21-10-2023,Chur,SUI,Italy,World Cup,Big Air,11,265.40
+31,Matteoli Ian,Male,21-10-2023,Chur,SUI,Italy,Qualification,Big Air,6,
+32,Matteoli Ian,Male,04-09-2023,Cardrona,NZL,Italy,FIS Junior World Championships,Big Air,3,250.50
+33,Matteoli Ian,Male,02-09-2023,Cardrona,NZL,Italy,Qualification,Big Air,1,
+34,Matteoli Ian,Male,30-08-2023,Cardrona,NZL,Italy,FIS Junior World Championships,Slopestyle,5,183.50
+35,Matteoli Ian,Male,28-08-2023,Cardrona,NZL,Italy,Qualification,Slopestyle,2,
+36,Matteoli Ian,Male,25-01-2023,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,5,90.50
+37,Matteoli Ian,Male,14-01-2023,Kreischberg,AUT,Italy,World Cup,Big Air,29,76.30
+38,Matteoli Ian,Male,13-01-2023,Kreischberg,AUT,Italy,Qualification,Big Air,14,
+39,Matteoli Ian,Male,17-12-2022,Copper Mountain,USA,Italy,World Cup,Big Air,3,556.60
+40,Matteoli Ian,Male,15-12-2022,Copper Mountain,USA,Italy,Qualification,Big Air,1,
+41,Matteoli Ian,Male,09-04-2022,Corvatsch,SUI,Italy,European Cup Premium,Big Air,18,69.70
+42,Matteoli Ian,Male,07-04-2022,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,39,34.90
+43,Matteoli Ian,Male,25-03-2022,Vuokatti,FIN,Italy,European Youth Olympic Festival,Slopestyle,11,26.70
+44,Matteoli Ian,Male,23-03-2022,Vuokatti,FIN,Italy,European Youth Olympic Festival,Big Air,17,19.10
+45,Matteoli Ian,Male,15-03-2022,Laax,SUI,Italy,European Cup Premium,Slopestyle,35,6.90
+46,Matteoli Ian,Male,13-03-2022,Leysin,SUI,Italy,FIS Junior World Championships,Slopestyle,8,92.00
+47,Matteoli Ian,Male,10-03-2022,Leysin,SUI,Italy,FIS Junior World Championships,Big Air,11,64.70
+48,Matteoli Ian,Male,18-02-2022,Davos,SUI,Italy,European Cup Premium,Big Air,50,1.40
+49,Matteoli Ian,Male,28-01-2022,Crans Montana,SUI,Italy,European Cup,Big Air,4,116.50
+50,Matteoli Ian,Male,27-01-2022,Crans Montana,SUI,Italy,European Cup,Halfpipe,5,68.90
+51,Matteoli Ian,Male,23-01-2022,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,13,57.40
+52,Matteoli Ian,Male,18-01-2022,Livigno,ITA,Italy,Junior,Slopestyle,4,40.50
+53,Matteoli Ian,Male,19-11-2021,Landgraaf,NED,Italy,European Cup,Slopestyle,6,97.10
+54,Matteoli Ian,Male,18-11-2021,Landgraaf,NED,Italy,FIS,Slopestyle,23,38.90
+55,Matteoli Ian,Male,01-05-2021,Hintertux,AUT,Italy,Junior,Slopestyle,17,32.89
+56,Matteoli Ian,Male,20-04-2021,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,45,13.79
+57,Matteoli Ian,Male,23-03-2021,Krasnoyarsk ,RUS,Italy,FIS Junior World Championships,Halfpipe,4,118.79
+58,Matteoli Ian,Male,22-03-2021,Krasnoyarsk ,RUS,Italy,Qualification,Halfpipe,6,
+59,Matteoli Ian,Male,21-03-2021,Krasnoyarsk ,RUS,Italy,FIS Junior World Championships,Big Air,8,78.55
+60,Matteoli Ian,Male,20-03-2021,Krasnoyarsk ,RUS,Italy,Qualification,Big Air,1,
+61,Matteoli Ian,Male,19-03-2021,Krasnoyarsk ,RUS,Italy,FIS Junior World Championships,Slopestyle,9,69.82
+62,Matteoli Ian,Male,18-03-2021,Krasnoyarsk ,RUS,Italy,Qualification,Slopestyle,5,
+63,Matteoli Ian,Male,22-02-2021,Götschen,GER,Italy,European Cup,Big Air,37,17.89
+64,Matteoli Ian,Male,21-02-2021,Götschen,GER,Italy,European Cup,Slopestyle,7,70.54
+65,Matteoli Ian,Male,19-02-2021,Davos,SUI,Italy,European Cup,Big Air,31,40.18
+66,Matteoli Ian,Male,31-01-2021,Crans Montana,SUI,Italy,European Cup,Halfpipe,16,11.05
+67,Matteoli Ian,Male,23-01-2021,Laax,SUI,Italy,World Cup,Halfpipe,29,75.83
+68,Matteoli Ian,Male,21-01-2021,Laax,SUI,Italy,Qualification,Halfpipe,13,
+69,Matteoli Ian,Male,22-12-2020,Corvatsch,SUI,Italy,European Cup,Slopestyle,23,47.79
+70,Matteoli Ian,Male,19-01-2020,Vars,FRA,Italy,European Cup,Slopestyle,49,2.53
+71,Matteoli Ian,Male,18-01-2020,Vars,FRA,Italy,European Cup,Big Air,26,8.00
+72,Matteoli Ian,Male,13-04-2019,Silvaplana,SUI,Italy,European Cup,Big Air,20,39.60
+73,Matteoli Ian,Male,24-03-2019,Laax,SUI,Italy,European Cup,Halfpipe,11,86.40
+74,Matteoli Ian,Male,22-03-2019,Laax,SUI,Italy,European Cup,Slopestyle,39,3.01
+75,Matteoli Ian,Male,23-02-2019,Davos,SUI,Italy,FIS,Halfpipe,4,25.00
+76,Matteoli Ian,Male,22-02-2019,Davos,SUI,Italy,European Cup,Big Air,28,6.40
+77,Matteoli Ian,Male,10-02-2019,Crans Montana,SUI,Italy,FIS,Slopestyle,4,25.00
+78,Matteoli Ian,Male,09-02-2019,Crans Montana,SUI,Italy,European Cup,Halfpipe,5,72.00

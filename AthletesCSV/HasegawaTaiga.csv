@@ -1,83 +1,84 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Hasegawa Taiga,Male,02-02-2025,Aspen,USA,Japan,World Cup,Slopestyle,30,118.90
-1,Hasegawa Taiga,Male,31-01-2025,Aspen,USA,Japan,Qualification,Slopestyle,12,
-2,Hasegawa Taiga,Male,18-01-2025,Laax,SUI,Japan,World Cup,Slopestyle,27,141.10
-3,Hasegawa Taiga,Male,16-01-2025,Laax,SUI,Japan,Qualification,Slopestyle,15,
-4,Hasegawa Taiga,Male,11-01-2025,Kreischberg,AUT,Japan,Qualification,Big Air,4,
-5,Hasegawa Taiga,Male,11-01-2025,Kreischberg,AUT,Japan,World Cup,Big Air,2,829.50
-6,Hasegawa Taiga,Male,05-01-2025,Klagenfurt,AUT,Japan,World Cup,Big Air,1,1000.00
-7,Hasegawa Taiga,Male,05-01-2025,Klagenfurt,AUT,Japan,Qualification,Big Air,2,
-8,Hasegawa Taiga,Male,01-12-2024,Beijing,CHN,Japan,World Cup,Big Air,9,313.10
-9,Hasegawa Taiga,Male,30-11-2024,Beijing,CHN,Japan,Qualification,Big Air,4,
-10,Hasegawa Taiga,Male,19-10-2024,Chur,SUI,Japan,World Cup,Big Air,1,1000.00
-11,Hasegawa Taiga,Male,02-09-2024,Cardrona,NZL,Japan,World Cup,Slopestyle,22,155.00
-12,Hasegawa Taiga,Male,31-08-2024,Cardrona,NZL,Japan,Qualification,Slopestyle,14,
-13,Hasegawa Taiga,Male,23-03-2024,Silvaplana,SUI,Japan,World Cup,Slopestyle,2,829.80
-14,Hasegawa Taiga,Male,21-03-2024,Silvaplana,SUI,Japan,Qualification,Slopestyle,3,
-15,Hasegawa Taiga,Male,15-03-2024,Tignes,FRA,Japan,World Cup,Slopestyle,3,695.50
-16,Hasegawa Taiga,Male,15-03-2024,Tignes,FRA,Japan,Qualification,Slopestyle,1,
-17,Hasegawa Taiga,Male,03-03-2024,Tsugaike,JPN,Japan,National Championships,Slopestyle,2,214.40
-18,Hasegawa Taiga,Male,03-03-2024,Tsugaike,JPN,Japan,National Championships,Big Air,3,219.20
-19,Hasegawa Taiga,Male,20-01-2024,Laax,SUI,Japan,World Cup,Slopestyle,DNS,
-20,Hasegawa Taiga,Male,16-01-2024,Laax,SUI,Japan,Qualification,Slopestyle,DNS,
-21,Hasegawa Taiga,Male,15-12-2023,Copper Mountain,USA,Japan,World Cup,Big Air,14,221.10
-22,Hasegawa Taiga,Male,13-12-2023,Copper Mountain,USA,Japan,Qualification,Big Air,6,
-23,Hasegawa Taiga,Male,09-12-2023,Edmonton,CAN,Japan,World Cup,Big Air,1,1000.00
-24,Hasegawa Taiga,Male,08-12-2023,Edmonton,CAN,Japan,Qualification,Big Air,9,
-25,Hasegawa Taiga,Male,02-12-2023,Beijing,CHN,Japan,World Cup,Big Air,4,586.50
-26,Hasegawa Taiga,Male,01-12-2023,Beijing,CHN,Japan,Qualification,Big Air,3,
-27,Hasegawa Taiga,Male,21-10-2023,Chur,SUI,Japan,Qualification,Big Air,18,
-28,Hasegawa Taiga,Male,21-10-2023,Chur,SUI,Japan,World Cup,Big Air,33,102.30
-29,Hasegawa Taiga,Male,29-09-2023,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,1,360.00
-30,Hasegawa Taiga,Male,04-09-2023,Cardrona,NZL,Japan,FIS Junior World Championships,Big Air,1,360.00
-31,Hasegawa Taiga,Male,02-09-2023,Cardrona,NZL,Japan,Qualification,Big Air,1,
-32,Hasegawa Taiga,Male,30-08-2023,Cardrona,NZL,Japan,FIS Junior World Championships,Slopestyle,1,360.00
-33,Hasegawa Taiga,Male,28-08-2023,Cardrona,NZL,Japan,Qualification,Slopestyle,2,
-34,Hasegawa Taiga,Male,26-03-2023,Silvaplana,SUI,Japan,World Cup,Slopestyle,1,800.00
-35,Hasegawa Taiga,Male,25-03-2023,Silvaplana,SUI,Japan,Qualification,Slopestyle,1,
-36,Hasegawa Taiga,Male,17-03-2023,Laax,SUI,Japan,European Cup Premium,Slopestyle,1,400.00
-37,Hasegawa Taiga,Male,04-03-2023,Bakuriani,GEO,Japan,World Championships,Big Air,1,800.00
-38,Hasegawa Taiga,Male,02-03-2023,Bakuriani,GEO,Japan,Qualification,Big Air,1,
-39,Hasegawa Taiga,Male,27-02-2023,Bakuriani,GEO,Japan,World Championships,Slopestyle,6,352.00
-40,Hasegawa Taiga,Male,24-02-2023,Bakuriani,GEO,Japan,Qualification,Slopestyle,3,
-41,Hasegawa Taiga,Male,12-02-2023,Calgary,CAN,Japan,World Cup,Slopestyle,4,468.10
-42,Hasegawa Taiga,Male,10-02-2023,Calgary,CAN,Japan,Qualification,Slopestyle,3,
-43,Hasegawa Taiga,Male,04-02-2023,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,7,308.90
-44,Hasegawa Taiga,Male,01-02-2023,Mammoth Mountain,USA,Japan,Qualification,Slopestyle,3,
-45,Hasegawa Taiga,Male,22-01-2023,Laax,SUI,Japan,World Cup,Slopestyle,47,44.80
-46,Hasegawa Taiga,Male,18-01-2023,Laax,SUI,Japan,Qualification,Slopestyle,24,
-47,Hasegawa Taiga,Male,14-01-2023,Kreischberg,AUT,Japan,World Cup,Big Air,1,800.00
-48,Hasegawa Taiga,Male,13-01-2023,Kreischberg,AUT,Japan,Qualification,Big Air,2,
-49,Hasegawa Taiga,Male,17-12-2022,Copper Mountain,USA,Japan,World Cup,Big Air,9,251.60
-50,Hasegawa Taiga,Male,15-12-2022,Copper Mountain,USA,Japan,Qualification,Big Air,4,
-51,Hasegawa Taiga,Male,10-12-2022,Edmonton,CAN,Japan,World Cup,Big Air,23,119.50
-52,Hasegawa Taiga,Male,09-12-2022,Edmonton,CAN,Japan,Qualification,Big Air,12,
-53,Hasegawa Taiga,Male,22-10-2022,Chur,SUI,Japan,Qualification,Big Air,19,
+0,Hasegawa Taiga,Male,05-02-2025,Aspen,USA,Japan,Qualification,Big Air,1,
+1,Hasegawa Taiga,Male,02-02-2025,Aspen,USA,Japan,World Cup,Slopestyle,30,118.90
+2,Hasegawa Taiga,Male,31-01-2025,Aspen,USA,Japan,Qualification,Slopestyle,12,
+3,Hasegawa Taiga,Male,18-01-2025,Laax,SUI,Japan,World Cup,Slopestyle,27,141.10
+4,Hasegawa Taiga,Male,16-01-2025,Laax,SUI,Japan,Qualification,Slopestyle,15,
+5,Hasegawa Taiga,Male,11-01-2025,Kreischberg,AUT,Japan,Qualification,Big Air,4,
+6,Hasegawa Taiga,Male,11-01-2025,Kreischberg,AUT,Japan,World Cup,Big Air,2,829.50
+7,Hasegawa Taiga,Male,05-01-2025,Klagenfurt,AUT,Japan,World Cup,Big Air,1,1000.00
+8,Hasegawa Taiga,Male,05-01-2025,Klagenfurt,AUT,Japan,Qualification,Big Air,2,
+9,Hasegawa Taiga,Male,01-12-2024,Beijing,CHN,Japan,World Cup,Big Air,9,313.10
+10,Hasegawa Taiga,Male,30-11-2024,Beijing,CHN,Japan,Qualification,Big Air,4,
+11,Hasegawa Taiga,Male,19-10-2024,Chur,SUI,Japan,World Cup,Big Air,1,1000.00
+12,Hasegawa Taiga,Male,02-09-2024,Cardrona,NZL,Japan,World Cup,Slopestyle,22,155.00
+13,Hasegawa Taiga,Male,31-08-2024,Cardrona,NZL,Japan,Qualification,Slopestyle,14,
+14,Hasegawa Taiga,Male,23-03-2024,Silvaplana,SUI,Japan,World Cup,Slopestyle,2,829.80
+15,Hasegawa Taiga,Male,21-03-2024,Silvaplana,SUI,Japan,Qualification,Slopestyle,3,
+16,Hasegawa Taiga,Male,15-03-2024,Tignes,FRA,Japan,World Cup,Slopestyle,3,695.50
+17,Hasegawa Taiga,Male,15-03-2024,Tignes,FRA,Japan,Qualification,Slopestyle,1,
+18,Hasegawa Taiga,Male,03-03-2024,Tsugaike,JPN,Japan,National Championships,Slopestyle,2,214.40
+19,Hasegawa Taiga,Male,03-03-2024,Tsugaike,JPN,Japan,National Championships,Big Air,3,219.20
+20,Hasegawa Taiga,Male,20-01-2024,Laax,SUI,Japan,World Cup,Slopestyle,DNS,
+21,Hasegawa Taiga,Male,16-01-2024,Laax,SUI,Japan,Qualification,Slopestyle,DNS,
+22,Hasegawa Taiga,Male,15-12-2023,Copper Mountain,USA,Japan,World Cup,Big Air,14,221.10
+23,Hasegawa Taiga,Male,13-12-2023,Copper Mountain,USA,Japan,Qualification,Big Air,6,
+24,Hasegawa Taiga,Male,09-12-2023,Edmonton,CAN,Japan,World Cup,Big Air,1,1000.00
+25,Hasegawa Taiga,Male,08-12-2023,Edmonton,CAN,Japan,Qualification,Big Air,9,
+26,Hasegawa Taiga,Male,02-12-2023,Beijing,CHN,Japan,World Cup,Big Air,4,586.50
+27,Hasegawa Taiga,Male,01-12-2023,Beijing,CHN,Japan,Qualification,Big Air,3,
+28,Hasegawa Taiga,Male,21-10-2023,Chur,SUI,Japan,Qualification,Big Air,18,
+29,Hasegawa Taiga,Male,21-10-2023,Chur,SUI,Japan,World Cup,Big Air,33,102.30
+30,Hasegawa Taiga,Male,29-09-2023,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,1,360.00
+31,Hasegawa Taiga,Male,04-09-2023,Cardrona,NZL,Japan,FIS Junior World Championships,Big Air,1,360.00
+32,Hasegawa Taiga,Male,02-09-2023,Cardrona,NZL,Japan,Qualification,Big Air,1,
+33,Hasegawa Taiga,Male,30-08-2023,Cardrona,NZL,Japan,FIS Junior World Championships,Slopestyle,1,360.00
+34,Hasegawa Taiga,Male,28-08-2023,Cardrona,NZL,Japan,Qualification,Slopestyle,2,
+35,Hasegawa Taiga,Male,26-03-2023,Silvaplana,SUI,Japan,World Cup,Slopestyle,1,800.00
+36,Hasegawa Taiga,Male,25-03-2023,Silvaplana,SUI,Japan,Qualification,Slopestyle,1,
+37,Hasegawa Taiga,Male,17-03-2023,Laax,SUI,Japan,European Cup Premium,Slopestyle,1,400.00
+38,Hasegawa Taiga,Male,04-03-2023,Bakuriani,GEO,Japan,World Championships,Big Air,1,800.00
+39,Hasegawa Taiga,Male,02-03-2023,Bakuriani,GEO,Japan,Qualification,Big Air,1,
+40,Hasegawa Taiga,Male,27-02-2023,Bakuriani,GEO,Japan,World Championships,Slopestyle,6,352.00
+41,Hasegawa Taiga,Male,24-02-2023,Bakuriani,GEO,Japan,Qualification,Slopestyle,3,
+42,Hasegawa Taiga,Male,12-02-2023,Calgary,CAN,Japan,World Cup,Slopestyle,4,468.10
+43,Hasegawa Taiga,Male,10-02-2023,Calgary,CAN,Japan,Qualification,Slopestyle,3,
+44,Hasegawa Taiga,Male,04-02-2023,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,7,308.90
+45,Hasegawa Taiga,Male,01-02-2023,Mammoth Mountain,USA,Japan,Qualification,Slopestyle,3,
+46,Hasegawa Taiga,Male,22-01-2023,Laax,SUI,Japan,World Cup,Slopestyle,47,44.80
+47,Hasegawa Taiga,Male,18-01-2023,Laax,SUI,Japan,Qualification,Slopestyle,24,
+48,Hasegawa Taiga,Male,14-01-2023,Kreischberg,AUT,Japan,World Cup,Big Air,1,800.00
+49,Hasegawa Taiga,Male,13-01-2023,Kreischberg,AUT,Japan,Qualification,Big Air,2,
+50,Hasegawa Taiga,Male,17-12-2022,Copper Mountain,USA,Japan,World Cup,Big Air,9,251.60
+51,Hasegawa Taiga,Male,15-12-2022,Copper Mountain,USA,Japan,Qualification,Big Air,4,
+52,Hasegawa Taiga,Male,10-12-2022,Edmonton,CAN,Japan,World Cup,Big Air,23,119.50
+53,Hasegawa Taiga,Male,09-12-2022,Edmonton,CAN,Japan,Qualification,Big Air,12,
 54,Hasegawa Taiga,Male,22-10-2022,Chur,SUI,Japan,World Cup,Big Air,34,59.90
-55,Hasegawa Taiga,Male,02-09-2022,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,2,264.50
-56,Hasegawa Taiga,Male,09-04-2022,Corvatsch,SUI,Japan,European Cup Premium,Big Air,4,235.60
-57,Hasegawa Taiga,Male,07-04-2022,Corvatsch,SUI,Japan,European Cup Premium,Slopestyle,12,111.60
-58,Hasegawa Taiga,Male,27-03-2022,Silvaplana,SUI,Japan,World Cup,Slopestyle,16,153.00
-59,Hasegawa Taiga,Male,25-03-2022,Silvaplana,SUI,Japan,Qualification,Slopestyle,3,
-60,Hasegawa Taiga,Male,19-03-2022,Spindleruv Mlyn,CZE,Japan,World Cup,Slopestyle,4,351.40
-61,Hasegawa Taiga,Male,18-03-2022,Spindleruv Mlyn,CZE,Japan,Qualification,Slopestyle,3,
-62,Hasegawa Taiga,Male,13-03-2022,Leysin,SUI,Japan,FIS Junior World Championships,Slopestyle,4,154.20
-63,Hasegawa Taiga,Male,10-03-2022,Leysin,SUI,Japan,FIS Junior World Championships,Big Air,2,199.20
-64,Hasegawa Taiga,Male,08-01-2022,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,28,110.40
-65,Hasegawa Taiga,Male,01-01-2022,Calgary,CAN,Japan,World Cup,Slopestyle,38,44.70
-66,Hasegawa Taiga,Male,31-12-2021,Calgary,CAN,Japan,Qualification,Slopestyle,18,
-67,Hasegawa Taiga,Male,23-10-2021,Chur,SUI,Japan,World Cup,Big Air,DNS,
-68,Hasegawa Taiga,Male,01-05-2021,Hintertux,AUT,Japan,Junior,Slopestyle,7,82.39
-69,Hasegawa Taiga,Male,10-04-2021,Ajigasawa,JPN,Japan,National Championships,Big Air,2,99.32
-70,Hasegawa Taiga,Male,21-03-2021,Krasnoyarsk ,RUS,Japan,FIS Junior World Championships,Big Air,1,240.00
-71,Hasegawa Taiga,Male,20-03-2021,Krasnoyarsk ,RUS,Japan,Qualification,Big Air,3,
-72,Hasegawa Taiga,Male,19-03-2021,Krasnoyarsk ,RUS,Japan,FIS Junior World Championships,Slopestyle,6,102.48
-73,Hasegawa Taiga,Male,18-03-2021,Krasnoyarsk ,RUS,Japan,Qualification,Slopestyle,2,
-74,Hasegawa Taiga,Male,31-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,3,76.34
-75,Hasegawa Taiga,Male,30-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,2,91.14
-76,Hasegawa Taiga,Male,01-03-2020,Oze-Tokura,JPN,Japan,FIS,Big Air,3,42.00
-77,Hasegawa Taiga,Male,29-02-2020,Oze-Tokura,JPN,Japan,FIS,Slopestyle,2,72.00
-78,Hasegawa Taiga,Male,26-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,2,128.00
-79,Hasegawa Taiga,Male,25-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,3,96.00
-80,Hasegawa Taiga,Male,01-09-2019,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,4,160.00
-81,Hasegawa Taiga,Male,15-08-2019,Cardrona Alpine Resort,NZL,Japan,Australian New Zealand Cup,Slopestyle,8,115.20
+55,Hasegawa Taiga,Male,22-10-2022,Chur,SUI,Japan,Qualification,Big Air,19,
+56,Hasegawa Taiga,Male,02-09-2022,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,2,264.50
+57,Hasegawa Taiga,Male,09-04-2022,Corvatsch,SUI,Japan,European Cup Premium,Big Air,4,235.60
+58,Hasegawa Taiga,Male,07-04-2022,Corvatsch,SUI,Japan,European Cup Premium,Slopestyle,12,111.60
+59,Hasegawa Taiga,Male,27-03-2022,Silvaplana,SUI,Japan,World Cup,Slopestyle,16,153.00
+60,Hasegawa Taiga,Male,25-03-2022,Silvaplana,SUI,Japan,Qualification,Slopestyle,3,
+61,Hasegawa Taiga,Male,19-03-2022,Spindleruv Mlyn,CZE,Japan,World Cup,Slopestyle,4,351.40
+62,Hasegawa Taiga,Male,18-03-2022,Spindleruv Mlyn,CZE,Japan,Qualification,Slopestyle,3,
+63,Hasegawa Taiga,Male,13-03-2022,Leysin,SUI,Japan,FIS Junior World Championships,Slopestyle,4,154.20
+64,Hasegawa Taiga,Male,10-03-2022,Leysin,SUI,Japan,FIS Junior World Championships,Big Air,2,199.20
+65,Hasegawa Taiga,Male,08-01-2022,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,28,110.40
+66,Hasegawa Taiga,Male,01-01-2022,Calgary,CAN,Japan,World Cup,Slopestyle,38,44.70
+67,Hasegawa Taiga,Male,31-12-2021,Calgary,CAN,Japan,Qualification,Slopestyle,18,
+68,Hasegawa Taiga,Male,23-10-2021,Chur,SUI,Japan,World Cup,Big Air,DNS,
+69,Hasegawa Taiga,Male,01-05-2021,Hintertux,AUT,Japan,Junior,Slopestyle,7,82.39
+70,Hasegawa Taiga,Male,10-04-2021,Ajigasawa,JPN,Japan,National Championships,Big Air,2,99.32
+71,Hasegawa Taiga,Male,21-03-2021,Krasnoyarsk ,RUS,Japan,FIS Junior World Championships,Big Air,1,240.00
+72,Hasegawa Taiga,Male,20-03-2021,Krasnoyarsk ,RUS,Japan,Qualification,Big Air,3,
+73,Hasegawa Taiga,Male,19-03-2021,Krasnoyarsk ,RUS,Japan,FIS Junior World Championships,Slopestyle,6,102.48
+74,Hasegawa Taiga,Male,18-03-2021,Krasnoyarsk ,RUS,Japan,Qualification,Slopestyle,2,
+75,Hasegawa Taiga,Male,31-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,3,76.34
+76,Hasegawa Taiga,Male,30-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,2,91.14
+77,Hasegawa Taiga,Male,01-03-2020,Oze-Tokura,JPN,Japan,FIS,Big Air,3,42.00
+78,Hasegawa Taiga,Male,29-02-2020,Oze-Tokura,JPN,Japan,FIS,Slopestyle,2,72.00
+79,Hasegawa Taiga,Male,26-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,2,128.00
+80,Hasegawa Taiga,Male,25-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,3,96.00
+81,Hasegawa Taiga,Male,01-09-2019,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,4,160.00
+82,Hasegawa Taiga,Male,15-08-2019,Cardrona Alpine Resort,NZL,Japan,Australian New Zealand Cup,Slopestyle,8,115.20

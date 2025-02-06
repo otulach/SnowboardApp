@@ -1,78 +1,79 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Menzies Dane,Male,02-02-2025,Aspen,USA,New Zealand,World Cup,Slopestyle,4,590.70
-1,Menzies Dane,Male,31-01-2025,Aspen,USA,New Zealand,Qualification,Slopestyle,6,
-2,Menzies Dane,Male,18-01-2025,Laax,SUI,New Zealand,World Cup,Slopestyle,7,392.00
-3,Menzies Dane,Male,16-01-2025,Laax,SUI,New Zealand,Qualification,Slopestyle,3,
-4,Menzies Dane,Male,11-01-2025,Kreischberg,AUT,New Zealand,Qualification,Big Air,8,
+0,Menzies Dane,Male,05-02-2025,Aspen,USA,New Zealand,Qualification,Big Air,6,
+1,Menzies Dane,Male,02-02-2025,Aspen,USA,New Zealand,World Cup,Slopestyle,4,590.70
+2,Menzies Dane,Male,31-01-2025,Aspen,USA,New Zealand,Qualification,Slopestyle,6,
+3,Menzies Dane,Male,18-01-2025,Laax,SUI,New Zealand,World Cup,Slopestyle,7,392.00
+4,Menzies Dane,Male,16-01-2025,Laax,SUI,New Zealand,Qualification,Slopestyle,3,
 5,Menzies Dane,Male,11-01-2025,Kreischberg,AUT,New Zealand,World Cup,Big Air,18,182.10
-6,Menzies Dane,Male,05-01-2025,Klagenfurt,AUT,New Zealand,World Cup,Big Air,15,196.70
-7,Menzies Dane,Male,05-01-2025,Klagenfurt,AUT,New Zealand,Qualification,Big Air,6,
-8,Menzies Dane,Male,01-12-2024,Beijing,CHN,New Zealand,World Cup,Big Air,32,101.40
-9,Menzies Dane,Male,30-11-2024,Beijing,CHN,New Zealand,Qualification,Big Air,16,
-10,Menzies Dane,Male,30-09-2024,Cardrona,NZL,New Zealand,Australian New Zealand Cup,Big Air,22,12.30
-11,Menzies Dane,Male,02-09-2024,Cardrona,NZL,New Zealand,World Cup,Slopestyle,6,441.40
-12,Menzies Dane,Male,31-08-2024,Cardrona,NZL,New Zealand,Qualification,Slopestyle,3,
-13,Menzies Dane,Male,17-08-2024,The Remarkables,NZL,New Zealand,Australian New Zealand Cup,Slopestyle,5,99.00
-14,Menzies Dane,Male,23-03-2024,Silvaplana,SUI,New Zealand,World Cup,Slopestyle,15,212.40
-15,Menzies Dane,Male,21-03-2024,Silvaplana,SUI,New Zealand,Qualification,Slopestyle,1,
-16,Menzies Dane,Male,12-03-2024,Laax,SUI,New Zealand,European Cup Premium,Slopestyle,2,166.30
-17,Menzies Dane,Male,08-02-2024,Mammoth Mountain,USA,New Zealand,Nor-Am Cup Premium,Slopestyle,10,141.20
-18,Menzies Dane,Male,26-01-2024,Copper Mountain,USA,New Zealand,Nor-Am Cup,Slopestyle,4,128.40
-19,Menzies Dane,Male,15-12-2023,Copper Mountain,USA,New Zealand,World Cup,Big Air,38,85.10
-20,Menzies Dane,Male,13-12-2023,Copper Mountain,USA,New Zealand,Qualification,Big Air,18,
-21,Menzies Dane,Male,09-12-2023,Edmonton,CAN,New Zealand,World Cup,Big Air,DNS,
-22,Menzies Dane,Male,08-12-2023,Edmonton,CAN,New Zealand,Qualification,Big Air,DNS,
-23,Menzies Dane,Male,02-12-2023,Beijing,CHN,New Zealand,World Cup,Big Air,14,201.80
-24,Menzies Dane,Male,01-12-2023,Beijing,CHN,New Zealand,Qualification,Big Air,7,
-25,Menzies Dane,Male,29-09-2023,Cardrona,NZL,New Zealand,Australian New Zealand Cup,Slopestyle,4,211.30
-26,Menzies Dane,Male,04-09-2023,Cardrona,NZL,New Zealand,FIS Junior World Championships,Big Air,15,75.30
-27,Menzies Dane,Male,02-09-2023,Cardrona,NZL,New Zealand,Qualification,Big Air,8,
-28,Menzies Dane,Male,30-08-2023,Cardrona,NZL,New Zealand,FIS Junior World Championships,Slopestyle,8,126.60
-29,Menzies Dane,Male,28-08-2023,Cardrona,NZL,New Zealand,Qualification,Slopestyle,7,
-30,Menzies Dane,Male,12-08-2023,The Remarkables,NZL,New Zealand,Australian New Zealand Cup,Slopestyle,17,12.90
-31,Menzies Dane,Male,26-03-2023,Silvaplana,SUI,New Zealand,World Cup,Slopestyle,51,0.20
-32,Menzies Dane,Male,25-03-2023,Silvaplana,SUI,New Zealand,Qualification,Slopestyle,25,
-33,Menzies Dane,Male,17-03-2023,Laax,SUI,New Zealand,European Cup Premium,Slopestyle,9,132.90
-34,Menzies Dane,Male,25-01-2023,Prato Nevoso,ITA,New Zealand,European Cup,Slopestyle,41,3.20
-35,Menzies Dane,Male,17-12-2022,Copper Mountain,USA,New Zealand,World Cup,Big Air,19,140.10
-36,Menzies Dane,Male,15-12-2022,Copper Mountain,USA,New Zealand,Qualification,Big Air,7,
-37,Menzies Dane,Male,10-12-2022,Edmonton,CAN,New Zealand,World Cup,Big Air,33,79.60
-38,Menzies Dane,Male,09-12-2022,Edmonton,CAN,New Zealand,Qualification,Big Air,18,
-39,Menzies Dane,Male,08-10-2022,Cardrona Alpine Resort,NZL,New Zealand,Australian New Zealand Cup,Big Air,10,0.20
-40,Menzies Dane,Male,07-10-2022,Cardrona Alpine Resort,NZL,New Zealand,Australian New Zealand Cup,Slopestyle,5,121.90
-41,Menzies Dane,Male,02-09-2022,Cardrona,NZL,New Zealand,Australian New Zealand Cup,Slopestyle,4,186.10
-42,Menzies Dane,Male,27-03-2022,Silvaplana,SUI,New Zealand,World Cup,Slopestyle,29,86.40
-43,Menzies Dane,Male,25-03-2022,Silvaplana,SUI,New Zealand,Qualification,Slopestyle,16,
-44,Menzies Dane,Male,15-03-2022,Laax,SUI,New Zealand,European Cup Premium,Slopestyle,15,30.00
-45,Menzies Dane,Male,13-03-2022,Leysin,SUI,New Zealand,FIS Junior World Championships,Slopestyle,16,54.90
-46,Menzies Dane,Male,10-03-2022,Leysin,SUI,New Zealand,FIS Junior World Championships,Big Air,4,142.00
-47,Menzies Dane,Male,18-02-2022,Davos,SUI,New Zealand,European Cup Premium,Big Air,10,73.90
-48,Menzies Dane,Male,06-02-2022,Calgary,CAN,New Zealand,National Junior Championships,Slopestyle,1,130.00
-49,Menzies Dane,Male,04-02-2022,Calgary,CAN,New Zealand,Nor-Am Cup,Big Air,14,21.70
-50,Menzies Dane,Male,29-01-2022,Calgary,CAN,New Zealand,FIS,Slopestyle,3,41.50
-51,Menzies Dane,Male,21-01-2022,Sun Peaks,CAN,New Zealand,Nor-Am Cup,Slopestyle,4,69.80
-52,Menzies Dane,Male,20-01-2022,Sun Peaks,CAN,New Zealand,Nor-Am Cup,Slopestyle,15,20.00
-53,Menzies Dane,Male,09-01-2022,"Whistler Blackcomb, BC",CAN,New Zealand,FIS,Slopestyle,5,35.90
-54,Menzies Dane,Male,08-01-2022,"Whistler Blackcomb, BC",CAN,New Zealand,FIS,Slopestyle,1,80.00
-55,Menzies Dane,Male,01-01-2022,Calgary,CAN,New Zealand,World Cup,Slopestyle,20,151.10
-56,Menzies Dane,Male,31-12-2021,Calgary,CAN,New Zealand,Qualification,Slopestyle,12,
-57,Menzies Dane,Male,10-03-2020,"Canada Olympic Park, AB",CAN,New Zealand,National Junior Championships,Slopestyle,10,39.00
-58,Menzies Dane,Male,08-03-2020,"Canada Olympic Park, AB",CAN,New Zealand,FIS,Slopestyle,1,70.00
-59,Menzies Dane,Male,25-02-2020,Mount St-Louis Moonstone,CAN,New Zealand,Nor-Am Cup,Slopestyle,20,22.00
-60,Menzies Dane,Male,24-02-2020,Mount St-Louis Moonstone,CAN,New Zealand,Nor-Am Cup,Slopestyle,12,44.00
-61,Menzies Dane,Male,07-02-2020,Mammoth Mountain Ski Resort,USA,New Zealand,Nor-Am Cup,Slopestyle,35,4.80
-62,Menzies Dane,Male,26-01-2020,"Canada Olympic Park, AB",CAN,New Zealand,FIS,Slopestyle,3,30.00
-63,Menzies Dane,Male,16-01-2020,Sun Peaks,CAN,New Zealand,Nor-Am Cup,Big Air,22,14.40
-64,Menzies Dane,Male,15-01-2020,Sun Peaks,CAN,New Zealand,Nor-Am Cup,Slopestyle,15,25.60
-65,Menzies Dane,Male,11-01-2020,"Whistler Blackcomb, BC",CAN,New Zealand,FIS,Big Air,3,30.00
-66,Menzies Dane,Male,10-01-2020,"Whistler Blackcomb, BC",CAN,New Zealand,FIS,Slopestyle,13,30.00
-67,Menzies Dane,Male,24-03-2019,"Canada Olympic Park, AB",CAN,New Zealand,National Junior Championships,Slopestyle,13,20.00
-68,Menzies Dane,Male,19-03-2019,"Canada Olympic Park, AB",CAN,New Zealand,National Junior Championships,Halfpipe,12,11.00
-69,Menzies Dane,Male,17-03-2019,"Canada Olympic Park, AB",CAN,New Zealand,FIS,Slopestyle,15,11.20
-70,Menzies Dane,Male,16-03-2019,"Canada Olympic Park, AB",CAN,New Zealand,FIS,Halfpipe,16,10.50
-71,Menzies Dane,Male,03-03-2019,"Canada Olympic Park, AB",CAN,New Zealand,FIS,Slopestyle,5,22.50
-72,Menzies Dane,Male,17-02-2019,Mt Seymour,CAN,New Zealand,FIS,Slopestyle,6,20.00
-73,Menzies Dane,Male,16-02-2019,Mt Seymour,CAN,New Zealand,FIS,Slopestyle,2,40.00
-74,Menzies Dane,Male,02-02-2019,"Canada Olympic Park, AB",CAN,New Zealand,FIS,Halfpipe,18,6.50
-75,Menzies Dane,Male,20-01-2019,Big White Ski Resort,CAN,New Zealand,FIS,Slopestyle,2,40.00
-76,Menzies Dane,Male,19-01-2019,Big White Ski Resort,CAN,New Zealand,FIS,Slopestyle,10,13.00
+6,Menzies Dane,Male,11-01-2025,Kreischberg,AUT,New Zealand,Qualification,Big Air,8,
+7,Menzies Dane,Male,05-01-2025,Klagenfurt,AUT,New Zealand,World Cup,Big Air,15,196.70
+8,Menzies Dane,Male,05-01-2025,Klagenfurt,AUT,New Zealand,Qualification,Big Air,6,
+9,Menzies Dane,Male,01-12-2024,Beijing,CHN,New Zealand,World Cup,Big Air,32,101.40
+10,Menzies Dane,Male,30-11-2024,Beijing,CHN,New Zealand,Qualification,Big Air,16,
+11,Menzies Dane,Male,30-09-2024,Cardrona,NZL,New Zealand,Australian New Zealand Cup,Big Air,22,12.30
+12,Menzies Dane,Male,02-09-2024,Cardrona,NZL,New Zealand,World Cup,Slopestyle,6,441.40
+13,Menzies Dane,Male,31-08-2024,Cardrona,NZL,New Zealand,Qualification,Slopestyle,3,
+14,Menzies Dane,Male,17-08-2024,The Remarkables,NZL,New Zealand,Australian New Zealand Cup,Slopestyle,5,99.00
+15,Menzies Dane,Male,23-03-2024,Silvaplana,SUI,New Zealand,World Cup,Slopestyle,15,212.40
+16,Menzies Dane,Male,21-03-2024,Silvaplana,SUI,New Zealand,Qualification,Slopestyle,1,
+17,Menzies Dane,Male,12-03-2024,Laax,SUI,New Zealand,European Cup Premium,Slopestyle,2,166.30
+18,Menzies Dane,Male,08-02-2024,Mammoth Mountain,USA,New Zealand,Nor-Am Cup Premium,Slopestyle,10,141.20
+19,Menzies Dane,Male,26-01-2024,Copper Mountain,USA,New Zealand,Nor-Am Cup,Slopestyle,4,128.40
+20,Menzies Dane,Male,15-12-2023,Copper Mountain,USA,New Zealand,World Cup,Big Air,38,85.10
+21,Menzies Dane,Male,13-12-2023,Copper Mountain,USA,New Zealand,Qualification,Big Air,18,
+22,Menzies Dane,Male,09-12-2023,Edmonton,CAN,New Zealand,World Cup,Big Air,DNS,
+23,Menzies Dane,Male,08-12-2023,Edmonton,CAN,New Zealand,Qualification,Big Air,DNS,
+24,Menzies Dane,Male,02-12-2023,Beijing,CHN,New Zealand,World Cup,Big Air,14,201.80
+25,Menzies Dane,Male,01-12-2023,Beijing,CHN,New Zealand,Qualification,Big Air,7,
+26,Menzies Dane,Male,29-09-2023,Cardrona,NZL,New Zealand,Australian New Zealand Cup,Slopestyle,4,211.30
+27,Menzies Dane,Male,04-09-2023,Cardrona,NZL,New Zealand,FIS Junior World Championships,Big Air,15,75.30
+28,Menzies Dane,Male,02-09-2023,Cardrona,NZL,New Zealand,Qualification,Big Air,8,
+29,Menzies Dane,Male,30-08-2023,Cardrona,NZL,New Zealand,FIS Junior World Championships,Slopestyle,8,126.60
+30,Menzies Dane,Male,28-08-2023,Cardrona,NZL,New Zealand,Qualification,Slopestyle,7,
+31,Menzies Dane,Male,12-08-2023,The Remarkables,NZL,New Zealand,Australian New Zealand Cup,Slopestyle,17,12.90
+32,Menzies Dane,Male,26-03-2023,Silvaplana,SUI,New Zealand,World Cup,Slopestyle,51,0.20
+33,Menzies Dane,Male,25-03-2023,Silvaplana,SUI,New Zealand,Qualification,Slopestyle,25,
+34,Menzies Dane,Male,17-03-2023,Laax,SUI,New Zealand,European Cup Premium,Slopestyle,9,132.90
+35,Menzies Dane,Male,25-01-2023,Prato Nevoso,ITA,New Zealand,European Cup,Slopestyle,41,3.20
+36,Menzies Dane,Male,17-12-2022,Copper Mountain,USA,New Zealand,World Cup,Big Air,19,140.10
+37,Menzies Dane,Male,15-12-2022,Copper Mountain,USA,New Zealand,Qualification,Big Air,7,
+38,Menzies Dane,Male,10-12-2022,Edmonton,CAN,New Zealand,World Cup,Big Air,33,79.60
+39,Menzies Dane,Male,09-12-2022,Edmonton,CAN,New Zealand,Qualification,Big Air,18,
+40,Menzies Dane,Male,08-10-2022,Cardrona Alpine Resort,NZL,New Zealand,Australian New Zealand Cup,Big Air,10,0.20
+41,Menzies Dane,Male,07-10-2022,Cardrona Alpine Resort,NZL,New Zealand,Australian New Zealand Cup,Slopestyle,5,121.90
+42,Menzies Dane,Male,02-09-2022,Cardrona,NZL,New Zealand,Australian New Zealand Cup,Slopestyle,4,186.10
+43,Menzies Dane,Male,27-03-2022,Silvaplana,SUI,New Zealand,World Cup,Slopestyle,29,86.40
+44,Menzies Dane,Male,25-03-2022,Silvaplana,SUI,New Zealand,Qualification,Slopestyle,16,
+45,Menzies Dane,Male,15-03-2022,Laax,SUI,New Zealand,European Cup Premium,Slopestyle,15,30.00
+46,Menzies Dane,Male,13-03-2022,Leysin,SUI,New Zealand,FIS Junior World Championships,Slopestyle,16,54.90
+47,Menzies Dane,Male,10-03-2022,Leysin,SUI,New Zealand,FIS Junior World Championships,Big Air,4,142.00
+48,Menzies Dane,Male,18-02-2022,Davos,SUI,New Zealand,European Cup Premium,Big Air,10,73.90
+49,Menzies Dane,Male,06-02-2022,Calgary,CAN,New Zealand,National Junior Championships,Slopestyle,1,130.00
+50,Menzies Dane,Male,04-02-2022,Calgary,CAN,New Zealand,Nor-Am Cup,Big Air,14,21.70
+51,Menzies Dane,Male,29-01-2022,Calgary,CAN,New Zealand,FIS,Slopestyle,3,41.50
+52,Menzies Dane,Male,21-01-2022,Sun Peaks,CAN,New Zealand,Nor-Am Cup,Slopestyle,4,69.80
+53,Menzies Dane,Male,20-01-2022,Sun Peaks,CAN,New Zealand,Nor-Am Cup,Slopestyle,15,20.00
+54,Menzies Dane,Male,09-01-2022,"Whistler Blackcomb, BC",CAN,New Zealand,FIS,Slopestyle,5,35.90
+55,Menzies Dane,Male,08-01-2022,"Whistler Blackcomb, BC",CAN,New Zealand,FIS,Slopestyle,1,80.00
+56,Menzies Dane,Male,01-01-2022,Calgary,CAN,New Zealand,World Cup,Slopestyle,20,151.10
+57,Menzies Dane,Male,31-12-2021,Calgary,CAN,New Zealand,Qualification,Slopestyle,12,
+58,Menzies Dane,Male,10-03-2020,"Canada Olympic Park, AB",CAN,New Zealand,National Junior Championships,Slopestyle,10,39.00
+59,Menzies Dane,Male,08-03-2020,"Canada Olympic Park, AB",CAN,New Zealand,FIS,Slopestyle,1,70.00
+60,Menzies Dane,Male,25-02-2020,Mount St-Louis Moonstone,CAN,New Zealand,Nor-Am Cup,Slopestyle,20,22.00
+61,Menzies Dane,Male,24-02-2020,Mount St-Louis Moonstone,CAN,New Zealand,Nor-Am Cup,Slopestyle,12,44.00
+62,Menzies Dane,Male,07-02-2020,Mammoth Mountain Ski Resort,USA,New Zealand,Nor-Am Cup,Slopestyle,35,4.80
+63,Menzies Dane,Male,26-01-2020,"Canada Olympic Park, AB",CAN,New Zealand,FIS,Slopestyle,3,30.00
+64,Menzies Dane,Male,16-01-2020,Sun Peaks,CAN,New Zealand,Nor-Am Cup,Big Air,22,14.40
+65,Menzies Dane,Male,15-01-2020,Sun Peaks,CAN,New Zealand,Nor-Am Cup,Slopestyle,15,25.60
+66,Menzies Dane,Male,11-01-2020,"Whistler Blackcomb, BC",CAN,New Zealand,FIS,Big Air,3,30.00
+67,Menzies Dane,Male,10-01-2020,"Whistler Blackcomb, BC",CAN,New Zealand,FIS,Slopestyle,13,30.00
+68,Menzies Dane,Male,24-03-2019,"Canada Olympic Park, AB",CAN,New Zealand,National Junior Championships,Slopestyle,13,20.00
+69,Menzies Dane,Male,19-03-2019,"Canada Olympic Park, AB",CAN,New Zealand,National Junior Championships,Halfpipe,12,11.00
+70,Menzies Dane,Male,17-03-2019,"Canada Olympic Park, AB",CAN,New Zealand,FIS,Slopestyle,15,11.20
+71,Menzies Dane,Male,16-03-2019,"Canada Olympic Park, AB",CAN,New Zealand,FIS,Halfpipe,16,10.50
+72,Menzies Dane,Male,03-03-2019,"Canada Olympic Park, AB",CAN,New Zealand,FIS,Slopestyle,5,22.50
+73,Menzies Dane,Male,17-02-2019,Mt Seymour,CAN,New Zealand,FIS,Slopestyle,6,20.00
+74,Menzies Dane,Male,16-02-2019,Mt Seymour,CAN,New Zealand,FIS,Slopestyle,2,40.00
+75,Menzies Dane,Male,02-02-2019,"Canada Olympic Park, AB",CAN,New Zealand,FIS,Halfpipe,18,6.50
+76,Menzies Dane,Male,20-01-2019,Big White Ski Resort,CAN,New Zealand,FIS,Slopestyle,2,40.00
+77,Menzies Dane,Male,19-01-2019,Big White Ski Resort,CAN,New Zealand,FIS,Slopestyle,10,13.00
