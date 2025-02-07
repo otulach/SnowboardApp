@@ -1,59 +1,60 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Martin Oliver,Male,05-02-2025,Aspen,USA,United States Of America,Qualification,Big Air,2,
-1,Martin Oliver,Male,02-02-2025,Aspen,USA,United States Of America,World Cup,Slopestyle,53,13.90
-2,Martin Oliver,Male,31-01-2025,Aspen,USA,United States Of America,Qualification,Slopestyle,24,
-3,Martin Oliver,Male,05-01-2025,Klagenfurt,AUT,United States Of America,World Cup,Big Air,10,280.20
-4,Martin Oliver,Male,05-01-2025,Klagenfurt,AUT,United States Of America,Qualification,Big Air,3,
-5,Martin Oliver,Male,01-12-2024,Beijing,CHN,United States Of America,World Cup,Big Air,36,82.00
-6,Martin Oliver,Male,30-11-2024,Beijing,CHN,United States Of America,Qualification,Big Air,18,
-7,Martin Oliver,Male,19-10-2024,Chur,SUI,United States Of America,World Cup,Big Air,41,28.10
-8,Martin Oliver,Male,02-09-2024,Cardrona,NZL,United States Of America,World Cup,Slopestyle,49,23.80
-9,Martin Oliver,Male,31-08-2024,Cardrona,NZL,United States Of America,Qualification,Slopestyle,26,
-10,Martin Oliver,Male,17-08-2024,The Remarkables,NZL,United States Of America,Australian New Zealand Cup,Slopestyle,3,137.90
-11,Martin Oliver,Male,08-02-2024,Mammoth Mountain,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,5,252.60
-12,Martin Oliver,Male,28-01-2024,Gangwon/Welli Hilli,KOR,United States Of America,Youth Olympic Winter Games,Big Air,2,114.90
-13,Martin Oliver,Male,27-01-2024,Gangwon/Welli Hilli,KOR,United States Of America,Qualification,Big Air,6,
-14,Martin Oliver,Male,25-01-2024,Gangwon/Welli Hilli,KOR,United States Of America,Youth Olympic Winter Games,Slopestyle,5,96.00
-15,Martin Oliver,Male,18-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Big Air,8,55.00
-16,Martin Oliver,Male,17-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,11,52.60
-17,Martin Oliver,Male,04-09-2023,Cardrona,NZL,United States Of America,FIS Junior World Championships,Big Air,17,68.80
-18,Martin Oliver,Male,02-09-2023,Cardrona,NZL,United States Of America,Qualification,Big Air,9,
-19,Martin Oliver,Male,30-08-2023,Cardrona,NZL,United States Of America,FIS Junior World Championships,Slopestyle,36,38.50
-20,Martin Oliver,Male,28-08-2023,Cardrona,NZL,United States Of America,Qualification,Slopestyle,16,
-21,Martin Oliver,Male,12-08-2023,The Remarkables,NZL,United States Of America,Australian New Zealand Cup,Slopestyle,2,131.70
-22,Martin Oliver,Male,06-04-2023,Copper Mountain Resort,USA,United States Of America,National Championships,Slopestyle,8,40.20
-23,Martin Oliver,Male,15-03-2023,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,8,36.00
-24,Martin Oliver,Male,14-03-2023,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,7,79.60
-25,Martin Oliver,Male,10-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Big Air,8,56.40
-26,Martin Oliver,Male,09-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,16,35.40
-27,Martin Oliver,Male,08-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,3,152.00
-28,Martin Oliver,Male,16-02-2023,Winsport Calgary,CAN,United States Of America,Nor-Am Cup,Big Air,8,42.40
-29,Martin Oliver,Male,15-02-2023,Winsport Calgary,CAN,United States Of America,Nor-Am Cup,Slopestyle,27,29.10
-30,Martin Oliver,Male,10-02-2023,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,8,74.10
-31,Martin Oliver,Male,26-01-2023,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,4,152.80
-32,Martin Oliver,Male,18-01-2023,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,18,29.20
-33,Martin Oliver,Male,17-01-2023,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,29,13.40
-34,Martin Oliver,Male,02-09-2022,Cardrona,NZL,United States Of America,Australian New Zealand Cup,Slopestyle,24,25.10
-35,Martin Oliver,Male,07-04-2022,Copper Mountain Resort,USA,United States Of America,National Championships,Slopestyle,6,54.50
-36,Martin Oliver,Male,06-04-2022,Copper Mountain Resort,USA,United States Of America,National Championships,Halfpipe,7,17.90
-37,Martin Oliver,Male,24-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,11,23.70
-38,Martin Oliver,Male,23-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Halfpipe,3,46.80
-39,Martin Oliver,Male,22-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,3,123.70
-40,Martin Oliver,Male,20-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Big Air,7,36.10
-41,Martin Oliver,Male,19-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Slopestyle,18,14.90
-42,Martin Oliver,Male,18-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Slopestyle,9,37.40
-43,Martin Oliver,Male,11-03-2022,Northstar California Resorts,USA,United States Of America,FIS,Halfpipe,1,50.00
-44,Martin Oliver,Male,09-03-2022,Northstar California Resorts,USA,United States Of America,FIS,Slopestyle,4,28.80
-45,Martin Oliver,Male,28-02-2022,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,23,3.20
-46,Martin Oliver,Male,27-02-2022,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,6,132.00
-47,Martin Oliver,Male,24-02-2022,Copper Mountain Resort,USA,United States Of America,FIS,Slopestyle,23,13.50
-48,Martin Oliver,Male,15-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Big Air,17,9.70
-49,Martin Oliver,Male,14-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Halfpipe,17,0.10
-50,Martin Oliver,Male,13-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Slopestyle,29,15.70
-51,Martin Oliver,Male,04-02-2022,Calgary,CAN,United States Of America,Nor-Am Cup,Big Air,24,9.40
-52,Martin Oliver,Male,02-02-2022,Calgary,CAN,United States Of America,Nor-Am Cup,Halfpipe,5,48.30
-53,Martin Oliver,Male,28-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,12,28.50
-54,Martin Oliver,Male,26-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,44,3.30
-55,Martin Oliver,Male,25-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,23,38.00
-56,Martin Oliver,Male,21-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Halfpipe,6,23.60
-57,Martin Oliver,Male,19-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Slopestyle,11,20.40
+0,Martin Oliver,Male,06-02-2025,Aspen,USA,United States Of America,World Cup,Big Air,4,589.00
+1,Martin Oliver,Male,05-02-2025,Aspen,USA,United States Of America,Qualification,Big Air,2,
+2,Martin Oliver,Male,02-02-2025,Aspen,USA,United States Of America,World Cup,Slopestyle,53,13.90
+3,Martin Oliver,Male,31-01-2025,Aspen,USA,United States Of America,Qualification,Slopestyle,24,
+4,Martin Oliver,Male,05-01-2025,Klagenfurt,AUT,United States Of America,World Cup,Big Air,10,280.20
+5,Martin Oliver,Male,05-01-2025,Klagenfurt,AUT,United States Of America,Qualification,Big Air,3,
+6,Martin Oliver,Male,01-12-2024,Beijing,CHN,United States Of America,World Cup,Big Air,36,82.00
+7,Martin Oliver,Male,30-11-2024,Beijing,CHN,United States Of America,Qualification,Big Air,18,
+8,Martin Oliver,Male,19-10-2024,Chur,SUI,United States Of America,World Cup,Big Air,41,28.10
+9,Martin Oliver,Male,02-09-2024,Cardrona,NZL,United States Of America,World Cup,Slopestyle,49,23.80
+10,Martin Oliver,Male,31-08-2024,Cardrona,NZL,United States Of America,Qualification,Slopestyle,26,
+11,Martin Oliver,Male,17-08-2024,The Remarkables,NZL,United States Of America,Australian New Zealand Cup,Slopestyle,3,137.90
+12,Martin Oliver,Male,08-02-2024,Mammoth Mountain,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,5,252.60
+13,Martin Oliver,Male,28-01-2024,Gangwon/Welli Hilli,KOR,United States Of America,Youth Olympic Winter Games,Big Air,2,114.90
+14,Martin Oliver,Male,27-01-2024,Gangwon/Welli Hilli,KOR,United States Of America,Qualification,Big Air,6,
+15,Martin Oliver,Male,25-01-2024,Gangwon/Welli Hilli,KOR,United States Of America,Youth Olympic Winter Games,Slopestyle,5,96.00
+16,Martin Oliver,Male,18-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Big Air,8,55.00
+17,Martin Oliver,Male,17-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,11,52.60
+18,Martin Oliver,Male,04-09-2023,Cardrona,NZL,United States Of America,FIS Junior World Championships,Big Air,17,68.80
+19,Martin Oliver,Male,02-09-2023,Cardrona,NZL,United States Of America,Qualification,Big Air,9,
+20,Martin Oliver,Male,30-08-2023,Cardrona,NZL,United States Of America,FIS Junior World Championships,Slopestyle,36,38.50
+21,Martin Oliver,Male,28-08-2023,Cardrona,NZL,United States Of America,Qualification,Slopestyle,16,
+22,Martin Oliver,Male,12-08-2023,The Remarkables,NZL,United States Of America,Australian New Zealand Cup,Slopestyle,2,131.70
+23,Martin Oliver,Male,06-04-2023,Copper Mountain Resort,USA,United States Of America,National Championships,Slopestyle,8,40.20
+24,Martin Oliver,Male,15-03-2023,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,8,36.00
+25,Martin Oliver,Male,14-03-2023,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,7,79.60
+26,Martin Oliver,Male,10-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Big Air,8,56.40
+27,Martin Oliver,Male,09-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,16,35.40
+28,Martin Oliver,Male,08-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,3,152.00
+29,Martin Oliver,Male,16-02-2023,Winsport Calgary,CAN,United States Of America,Nor-Am Cup,Big Air,8,42.40
+30,Martin Oliver,Male,15-02-2023,Winsport Calgary,CAN,United States Of America,Nor-Am Cup,Slopestyle,27,29.10
+31,Martin Oliver,Male,10-02-2023,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,8,74.10
+32,Martin Oliver,Male,26-01-2023,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,4,152.80
+33,Martin Oliver,Male,18-01-2023,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,18,29.20
+34,Martin Oliver,Male,17-01-2023,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,29,13.40
+35,Martin Oliver,Male,02-09-2022,Cardrona,NZL,United States Of America,Australian New Zealand Cup,Slopestyle,24,25.10
+36,Martin Oliver,Male,07-04-2022,Copper Mountain Resort,USA,United States Of America,National Championships,Slopestyle,6,54.50
+37,Martin Oliver,Male,06-04-2022,Copper Mountain Resort,USA,United States Of America,National Championships,Halfpipe,7,17.90
+38,Martin Oliver,Male,24-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,11,23.70
+39,Martin Oliver,Male,23-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Halfpipe,3,46.80
+40,Martin Oliver,Male,22-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,3,123.70
+41,Martin Oliver,Male,20-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Big Air,7,36.10
+42,Martin Oliver,Male,19-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Slopestyle,18,14.90
+43,Martin Oliver,Male,18-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Slopestyle,9,37.40
+44,Martin Oliver,Male,11-03-2022,Northstar California Resorts,USA,United States Of America,FIS,Halfpipe,1,50.00
+45,Martin Oliver,Male,09-03-2022,Northstar California Resorts,USA,United States Of America,FIS,Slopestyle,4,28.80
+46,Martin Oliver,Male,28-02-2022,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,23,3.20
+47,Martin Oliver,Male,27-02-2022,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,6,132.00
+48,Martin Oliver,Male,24-02-2022,Copper Mountain Resort,USA,United States Of America,FIS,Slopestyle,23,13.50
+49,Martin Oliver,Male,15-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Big Air,17,9.70
+50,Martin Oliver,Male,14-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Halfpipe,17,0.10
+51,Martin Oliver,Male,13-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Slopestyle,29,15.70
+52,Martin Oliver,Male,04-02-2022,Calgary,CAN,United States Of America,Nor-Am Cup,Big Air,24,9.40
+53,Martin Oliver,Male,02-02-2022,Calgary,CAN,United States Of America,Nor-Am Cup,Halfpipe,5,48.30
+54,Martin Oliver,Male,28-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,12,28.50
+55,Martin Oliver,Male,26-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,44,3.30
+56,Martin Oliver,Male,25-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,23,38.00
+57,Martin Oliver,Male,21-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Halfpipe,6,23.60
+58,Martin Oliver,Male,19-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Slopestyle,11,20.40
