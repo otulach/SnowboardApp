@@ -1,104 +1,105 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Peng Cheng,Female,25-01-2025,Rogla,SLO,P.r. China,Qualification,Parallel Giant Slalom,36,
-1,Peng Cheng,Female,25-01-2025,Rogla,SLO,P.r. China,World Cup,Parallel Giant Slalom,36,19.70
-2,Peng Cheng,Female,19-01-2025,Bansko,BUL,P.r. China,Qualification,Parallel Giant Slalom,45,
-3,Peng Cheng,Female,19-01-2025,Bansko,BUL,P.r. China,World Cup,Parallel Giant Slalom,45,17.00
-4,Peng Cheng,Female,18-01-2025,Bansko,BUL,P.r. China,Qualification,Parallel Giant Slalom,47,
-5,Peng Cheng,Female,18-01-2025,Bansko,BUL,P.r. China,World Cup,Parallel Giant Slalom,47,16.40
-6,Peng Cheng,Female,14-01-2025,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,50,
-7,Peng Cheng,Female,14-01-2025,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,50,
-8,Peng Cheng,Female,11-01-2025,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,36,
-9,Peng Cheng,Female,11-01-2025,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,36,
-10,Peng Cheng,Female,31-12-2024,Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,5,72.00
-11,Peng Cheng,Female,30-12-2024,Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,4,80.00
-12,Peng Cheng,Female,21-12-2024,Davos,SUI,P.r. China,Qualification,Parallel Slalom,25,
-13,Peng Cheng,Female,21-12-2024,Davos,SUI,P.r. China,World Cup,Parallel Slalom,25,60.00
-14,Peng Cheng,Female,14-12-2024,Cortina d'Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,35,
-15,Peng Cheng,Female,14-12-2024,Cortina d'Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,35,20.00
-16,Peng Cheng,Female,12-12-2024,Carezza,ITA,P.r. China,Qualification,Parallel Giant Slalom,26,
-17,Peng Cheng,Female,12-12-2024,Carezza,ITA,P.r. China,World Cup,Parallel Giant Slalom,26,50.00
-18,Peng Cheng,Female,08-12-2024,Yanqing (NASC),CHN,P.r. China,World Cup,Parallel Slalom,21,100.00
-19,Peng Cheng,Female,08-12-2024,Yanqing (NASC),CHN,P.r. China,Qualification,Parallel Slalom,21,
-20,Peng Cheng,Female,07-12-2024,Yanqing (NASC),CHN,P.r. China,World Cup,Parallel Giant Slalom,33,24.00
-21,Peng Cheng,Female,07-12-2024,Yanqing (NASC),CHN,P.r. China,Qualification,Parallel Giant Slalom,33,
-22,Peng Cheng,Female,01-12-2024,Mylin,CHN,P.r. China,World Cup,Parallel Slalom,18,130.00
-23,Peng Cheng,Female,01-12-2024,Mylin,CHN,P.r. China,Qualification,Parallel Slalom,18,
-24,Peng Cheng,Female,30-11-2024,Mylin,CHN,P.r. China,World Cup,Parallel Giant Slalom,37,19.40
-25,Peng Cheng,Female,30-11-2024,Mylin,CHN,P.r. China,Qualification,Parallel Giant Slalom,37,
-26,Peng Cheng,Female,19-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Slalom,1,160.00
-27,Peng Cheng,Female,18-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,5,72.00
-28,Peng Cheng,Female,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,4,80.00
-29,Peng Cheng,Female,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,5,72.00
-30,Peng Cheng,Female,05-03-2024,High1resort,KOR,P.r. China,Asian Cup,Parallel Slalom,6,64.00
-31,Peng Cheng,Female,04-03-2024,High1resort,KOR,P.r. China,Asian Cup,Parallel Giant Slalom,10,41.60
-32,Peng Cheng,Female,01-03-2024,Jinshanling Galaxy Ski Resort,CHN,P.r. China,FIS,Parallel Slalom,2,88.00
-33,Peng Cheng,Female,29-02-2024,Jinshanling Galaxy Ski Resort,CHN,P.r. China,FIS,Parallel Giant Slalom,6,44.00
-34,Peng Cheng,Female,14-01-2022,Simonhöhe,AUT,P.r. China,World Cup,Parallel Giant Slalom,22,90.00
-35,Peng Cheng,Female,14-01-2022,Simonhöhe,AUT,P.r. China,Qualification,Parallel Giant Slalom,22,
-36,Peng Cheng,Female,11-01-2022,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,35,
-37,Peng Cheng,Female,11-01-2022,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,35,20.00
-38,Peng Cheng,Female,08-01-2022,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,26,
-39,Peng Cheng,Female,08-01-2022,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,26,50.00
-40,Peng Cheng,Female,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,40,
-41,Peng Cheng,Female,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,40,18.50
-42,Peng Cheng,Female,16-12-2021,Carezza,ITA,P.r. China,Qualification,Parallel Giant Slalom,40,
-43,Peng Cheng,Female,16-12-2021,Carezza,ITA,P.r. China,World Cup,Parallel Giant Slalom,40,18.50
-44,Peng Cheng,Female,12-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Slalom,17,
-45,Peng Cheng,Female,12-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Slalom,17,140.00
-46,Peng Cheng,Female,11-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Giant Slalom,33,
-47,Peng Cheng,Female,11-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Giant Slalom,33,24.00
-48,Peng Cheng,Female,03-03-2020,Blue Mountain,CAN,P.r. China,Nor-Am Cup,Parallel Slalom,2,288.00
-49,Peng Cheng,Female,02-03-2020,Blue Mountain,CAN,P.r. China,Nor-Am Cup,Parallel Giant Slalom,7,129.60
-50,Peng Cheng,Female,01-03-2020,Blue Mountain,CAN,P.r. China,World Cup,Parallel Giant Slalom,24,70.00
-51,Peng Cheng,Female,01-03-2020,Blue Mountain,CAN,P.r. China,Qualification,Parallel Giant Slalom,24,
-52,Peng Cheng,Female,29-02-2020,Blue Mountain,CAN,P.r. China,World Cup,Parallel Giant Slalom,14,180.00
-53,Peng Cheng,Female,29-02-2020,Blue Mountain,CAN,P.r. China,Qualification,Parallel Giant Slalom,13,
-54,Peng Cheng,Female,09-02-2020,Gerlitzen,AUT,P.r. China,FIS,Giant Slalom,1,220.00
-55,Peng Cheng,Female,08-02-2020,Gerlitzen,AUT,P.r. China,FIS,Giant Slalom,5,99.00
-56,Peng Cheng,Female,25-01-2020,Piancavallo,ITA,P.r. China,World Cup,Parallel Slalom,20,110.00
-57,Peng Cheng,Female,25-01-2020,Piancavallo,ITA,P.r. China,Qualification,Parallel Slalom,20,
-58,Peng Cheng,Female,18-01-2020,Rogla,SLO,P.r. China,World Cup,Parallel Giant Slalom,38,19.10
-59,Peng Cheng,Female,18-01-2020,Rogla,SLO,P.r. China,Qualification,Parallel Giant Slalom,38,
-60,Peng Cheng,Female,14-01-2020,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,42,17.90
-61,Peng Cheng,Female,14-01-2020,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,42,
-62,Peng Cheng,Female,11-01-2020,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,29,36.00
-63,Peng Cheng,Female,11-01-2020,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,29,
-64,Peng Cheng,Female,29-12-2019,Wanlong Ski Resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,3,216.00
-65,Peng Cheng,Female,28-12-2019,Wanlong Ski Resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,6,144.00
-66,Peng Cheng,Female,19-12-2019,Carezza,ITA,P.r. China,Open,Parallel Giant Slalom,39,18.80
-67,Peng Cheng,Female,14-12-2019,Cortina d Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,44,17.30
-68,Peng Cheng,Female,14-12-2019,Cortina d Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,44,
-69,Peng Cheng,Female,08-12-2019,Bannoye,RUS,P.r. China,World Cup,Parallel Giant Slalom,27,45.00
-70,Peng Cheng,Female,08-12-2019,Bannoye,RUS,P.r. China,Qualification,Parallel Giant Slalom,27,
-71,Peng Cheng,Female,07-12-2019,Bannoye,RUS,P.r. China,World Cup,Parallel Slalom,32,26.00
-72,Peng Cheng,Female,07-12-2019,Bannoye,RUS,P.r. China,Qualification,Parallel Slalom,32,
-73,Peng Cheng,Female,30-11-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,7,115.20
-74,Peng Cheng,Female,29-11-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,6,144.00
-75,Peng Cheng,Female,07-04-2019,Racines,ITA,P.r. China,European Cup,Parallel Slalom,12,79.20
-76,Peng Cheng,Female,06-04-2019,Racines,ITA,P.r. China,European Cup,Parallel Slalom,17,50.40
-77,Peng Cheng,Female,31-03-2019,Radstadt,AUT,P.r. China,National Championships,Parallel Giant Slalom,11,69.60
-78,Peng Cheng,Female,30-03-2019,Radstadt,AUT,P.r. China,National Championships,Parallel Slalom,1,290.00
-79,Peng Cheng,Female,27-03-2019,Piancavallo,ITA,P.r. China,National Championships,Parallel Giant Slalom,20,31.90
-80,Peng Cheng,Female,26-03-2019,Piancavallo,ITA,P.r. China,National Championships,Parallel Slalom,1,290.00
-81,Peng Cheng,Female,17-03-2019,Rogla,SLO,P.r. China,European Cup,Parallel Giant Slalom,15,57.60
-82,Peng Cheng,Female,16-03-2019,Rogla,SLO,P.r. China,European Cup,Parallel Giant Slalom,16,54.00
-83,Peng Cheng,Female,28-02-2019,Secret Garden,CHN,P.r. China,Asian Cup,Parallel Slalom,DSQ1,
-84,Peng Cheng,Female,27-02-2019,Secret Garden,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,6,80.00
-85,Peng Cheng,Female,24-02-2019,Secret Garden,CHN,P.r. China,World Cup,Parallel Slalom,19,120.00
-86,Peng Cheng,Female,24-02-2019,Secret Garden,CHN,P.r. China,Qualification,Parallel Slalom,19,
-87,Peng Cheng,Female,23-02-2019,Secret Garden,CHN,P.r. China,World Cup,Parallel Giant Slalom,17,140.00
-88,Peng Cheng,Female,23-02-2019,Secret Garden,CHN,P.r. China,Qualification,Parallel Giant Slalom,17,
-89,Peng Cheng,Female,12-02-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,3,120.00
-90,Peng Cheng,Female,11-02-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,6,80.00
-91,Peng Cheng,Female,27-01-2019,Lachtal,AUT,P.r. China,European Cup,Parallel GS,12,39.60
-92,Peng Cheng,Female,26-01-2019,Lachtal,AUT,P.r. China,European Cup,Parallel GS,15,28.80
-93,Peng Cheng,Female,20-01-2019,Gosau,AUT,P.r. China,FIS,Parallel Slalom,6,60.00
-94,Peng Cheng,Female,19-01-2019,Gosau,AUT,P.r. China,FIS,Parallel Slalom,1,140.00
-95,Peng Cheng,Female,11-01-2019,Bad Gastein,AUT,P.r. China,European Cup,Parallel Slalom,17,50.40
-96,Peng Cheng,Female,10-01-2019,Bad Gastein,AUT,P.r. China,European Cup,Parallel Slalom,23,28.80
-97,Peng Cheng,Female,06-01-2019,Simonhöhe,AUT,P.r. China,FIS,Parallel Slalom,5,99.00
-98,Peng Cheng,Female,05-01-2019,Simonhöhe,AUT,P.r. China,FIS,Parallel Slalom,19,26.40
-99,Peng Cheng,Female,02-12-2017,Changchengling,CHN,P.r. China,National Championships,Parallel Slalom,5,72.00
-100,Peng Cheng,Female,01-12-2017,Changchengling,CHN,P.r. China,National Championships,Parallel GS,7,57.60
-101,Peng Cheng,Female,11-03-2015,Yabuli,CHN,P.r. China,FIS Junior World Championships,Parallel Slalom,17,50.40
-102,Peng Cheng,Female,10-03-2015,Yabuli,CHN,P.r. China,FIS Junior World Championships,Parallel GS,18,46.80
+0,Peng Cheng,Female,07-02-2025,Jinshanling Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,5,
+1,Peng Cheng,Female,25-01-2025,Rogla,SLO,P.r. China,Qualification,Parallel Giant Slalom,36,
+2,Peng Cheng,Female,25-01-2025,Rogla,SLO,P.r. China,World Cup,Parallel Giant Slalom,36,19.70
+3,Peng Cheng,Female,19-01-2025,Bansko,BUL,P.r. China,Qualification,Parallel Giant Slalom,45,
+4,Peng Cheng,Female,19-01-2025,Bansko,BUL,P.r. China,World Cup,Parallel Giant Slalom,45,17.00
+5,Peng Cheng,Female,18-01-2025,Bansko,BUL,P.r. China,Qualification,Parallel Giant Slalom,47,
+6,Peng Cheng,Female,18-01-2025,Bansko,BUL,P.r. China,World Cup,Parallel Giant Slalom,47,16.40
+7,Peng Cheng,Female,14-01-2025,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,50,
+8,Peng Cheng,Female,14-01-2025,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,50,
+9,Peng Cheng,Female,11-01-2025,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,36,
+10,Peng Cheng,Female,11-01-2025,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,36,
+11,Peng Cheng,Female,31-12-2024,Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,5,72.00
+12,Peng Cheng,Female,30-12-2024,Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,4,80.00
+13,Peng Cheng,Female,21-12-2024,Davos,SUI,P.r. China,Qualification,Parallel Slalom,25,
+14,Peng Cheng,Female,21-12-2024,Davos,SUI,P.r. China,World Cup,Parallel Slalom,25,60.00
+15,Peng Cheng,Female,14-12-2024,Cortina d'Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,35,
+16,Peng Cheng,Female,14-12-2024,Cortina d'Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,35,20.00
+17,Peng Cheng,Female,12-12-2024,Carezza,ITA,P.r. China,Qualification,Parallel Giant Slalom,26,
+18,Peng Cheng,Female,12-12-2024,Carezza,ITA,P.r. China,World Cup,Parallel Giant Slalom,26,50.00
+19,Peng Cheng,Female,08-12-2024,Yanqing (NASC),CHN,P.r. China,World Cup,Parallel Slalom,21,100.00
+20,Peng Cheng,Female,08-12-2024,Yanqing (NASC),CHN,P.r. China,Qualification,Parallel Slalom,21,
+21,Peng Cheng,Female,07-12-2024,Yanqing (NASC),CHN,P.r. China,World Cup,Parallel Giant Slalom,33,24.00
+22,Peng Cheng,Female,07-12-2024,Yanqing (NASC),CHN,P.r. China,Qualification,Parallel Giant Slalom,33,
+23,Peng Cheng,Female,01-12-2024,Mylin,CHN,P.r. China,World Cup,Parallel Slalom,18,130.00
+24,Peng Cheng,Female,01-12-2024,Mylin,CHN,P.r. China,Qualification,Parallel Slalom,18,
+25,Peng Cheng,Female,30-11-2024,Mylin,CHN,P.r. China,World Cup,Parallel Giant Slalom,37,19.40
+26,Peng Cheng,Female,30-11-2024,Mylin,CHN,P.r. China,Qualification,Parallel Giant Slalom,37,
+27,Peng Cheng,Female,19-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Slalom,1,160.00
+28,Peng Cheng,Female,18-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,5,72.00
+29,Peng Cheng,Female,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,4,80.00
+30,Peng Cheng,Female,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,5,72.00
+31,Peng Cheng,Female,05-03-2024,High1resort,KOR,P.r. China,Asian Cup,Parallel Slalom,6,64.00
+32,Peng Cheng,Female,04-03-2024,High1resort,KOR,P.r. China,Asian Cup,Parallel Giant Slalom,10,41.60
+33,Peng Cheng,Female,01-03-2024,Jinshanling Galaxy Ski Resort,CHN,P.r. China,FIS,Parallel Slalom,2,88.00
+34,Peng Cheng,Female,29-02-2024,Jinshanling Galaxy Ski Resort,CHN,P.r. China,FIS,Parallel Giant Slalom,6,44.00
+35,Peng Cheng,Female,14-01-2022,Simonhöhe,AUT,P.r. China,World Cup,Parallel Giant Slalom,22,90.00
+36,Peng Cheng,Female,14-01-2022,Simonhöhe,AUT,P.r. China,Qualification,Parallel Giant Slalom,22,
+37,Peng Cheng,Female,11-01-2022,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,35,
+38,Peng Cheng,Female,11-01-2022,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,35,20.00
+39,Peng Cheng,Female,08-01-2022,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,26,
+40,Peng Cheng,Female,08-01-2022,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,26,50.00
+41,Peng Cheng,Female,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,40,
+42,Peng Cheng,Female,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,40,18.50
+43,Peng Cheng,Female,16-12-2021,Carezza,ITA,P.r. China,Qualification,Parallel Giant Slalom,40,
+44,Peng Cheng,Female,16-12-2021,Carezza,ITA,P.r. China,World Cup,Parallel Giant Slalom,40,18.50
+45,Peng Cheng,Female,12-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Slalom,17,
+46,Peng Cheng,Female,12-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Slalom,17,140.00
+47,Peng Cheng,Female,11-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Giant Slalom,33,
+48,Peng Cheng,Female,11-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Giant Slalom,33,24.00
+49,Peng Cheng,Female,03-03-2020,Blue Mountain,CAN,P.r. China,Nor-Am Cup,Parallel Slalom,2,288.00
+50,Peng Cheng,Female,02-03-2020,Blue Mountain,CAN,P.r. China,Nor-Am Cup,Parallel Giant Slalom,7,129.60
+51,Peng Cheng,Female,01-03-2020,Blue Mountain,CAN,P.r. China,World Cup,Parallel Giant Slalom,24,70.00
+52,Peng Cheng,Female,01-03-2020,Blue Mountain,CAN,P.r. China,Qualification,Parallel Giant Slalom,24,
+53,Peng Cheng,Female,29-02-2020,Blue Mountain,CAN,P.r. China,World Cup,Parallel Giant Slalom,14,180.00
+54,Peng Cheng,Female,29-02-2020,Blue Mountain,CAN,P.r. China,Qualification,Parallel Giant Slalom,13,
+55,Peng Cheng,Female,09-02-2020,Gerlitzen,AUT,P.r. China,FIS,Giant Slalom,1,220.00
+56,Peng Cheng,Female,08-02-2020,Gerlitzen,AUT,P.r. China,FIS,Giant Slalom,5,99.00
+57,Peng Cheng,Female,25-01-2020,Piancavallo,ITA,P.r. China,World Cup,Parallel Slalom,20,110.00
+58,Peng Cheng,Female,25-01-2020,Piancavallo,ITA,P.r. China,Qualification,Parallel Slalom,20,
+59,Peng Cheng,Female,18-01-2020,Rogla,SLO,P.r. China,World Cup,Parallel Giant Slalom,38,19.10
+60,Peng Cheng,Female,18-01-2020,Rogla,SLO,P.r. China,Qualification,Parallel Giant Slalom,38,
+61,Peng Cheng,Female,14-01-2020,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,42,17.90
+62,Peng Cheng,Female,14-01-2020,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,42,
+63,Peng Cheng,Female,11-01-2020,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,29,36.00
+64,Peng Cheng,Female,11-01-2020,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,29,
+65,Peng Cheng,Female,29-12-2019,Wanlong Ski Resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,3,216.00
+66,Peng Cheng,Female,28-12-2019,Wanlong Ski Resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,6,144.00
+67,Peng Cheng,Female,19-12-2019,Carezza,ITA,P.r. China,Open,Parallel Giant Slalom,39,18.80
+68,Peng Cheng,Female,14-12-2019,Cortina d Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,44,17.30
+69,Peng Cheng,Female,14-12-2019,Cortina d Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,44,
+70,Peng Cheng,Female,08-12-2019,Bannoye,RUS,P.r. China,World Cup,Parallel Giant Slalom,27,45.00
+71,Peng Cheng,Female,08-12-2019,Bannoye,RUS,P.r. China,Qualification,Parallel Giant Slalom,27,
+72,Peng Cheng,Female,07-12-2019,Bannoye,RUS,P.r. China,World Cup,Parallel Slalom,32,26.00
+73,Peng Cheng,Female,07-12-2019,Bannoye,RUS,P.r. China,Qualification,Parallel Slalom,32,
+74,Peng Cheng,Female,30-11-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,7,115.20
+75,Peng Cheng,Female,29-11-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,6,144.00
+76,Peng Cheng,Female,07-04-2019,Racines,ITA,P.r. China,European Cup,Parallel Slalom,12,79.20
+77,Peng Cheng,Female,06-04-2019,Racines,ITA,P.r. China,European Cup,Parallel Slalom,17,50.40
+78,Peng Cheng,Female,31-03-2019,Radstadt,AUT,P.r. China,National Championships,Parallel Giant Slalom,11,69.60
+79,Peng Cheng,Female,30-03-2019,Radstadt,AUT,P.r. China,National Championships,Parallel Slalom,1,290.00
+80,Peng Cheng,Female,27-03-2019,Piancavallo,ITA,P.r. China,National Championships,Parallel Giant Slalom,20,31.90
+81,Peng Cheng,Female,26-03-2019,Piancavallo,ITA,P.r. China,National Championships,Parallel Slalom,1,290.00
+82,Peng Cheng,Female,17-03-2019,Rogla,SLO,P.r. China,European Cup,Parallel Giant Slalom,15,57.60
+83,Peng Cheng,Female,16-03-2019,Rogla,SLO,P.r. China,European Cup,Parallel Giant Slalom,16,54.00
+84,Peng Cheng,Female,28-02-2019,Secret Garden,CHN,P.r. China,Asian Cup,Parallel Slalom,DSQ1,
+85,Peng Cheng,Female,27-02-2019,Secret Garden,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,6,80.00
+86,Peng Cheng,Female,24-02-2019,Secret Garden,CHN,P.r. China,World Cup,Parallel Slalom,19,120.00
+87,Peng Cheng,Female,24-02-2019,Secret Garden,CHN,P.r. China,Qualification,Parallel Slalom,19,
+88,Peng Cheng,Female,23-02-2019,Secret Garden,CHN,P.r. China,World Cup,Parallel Giant Slalom,17,140.00
+89,Peng Cheng,Female,23-02-2019,Secret Garden,CHN,P.r. China,Qualification,Parallel Giant Slalom,17,
+90,Peng Cheng,Female,12-02-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,3,120.00
+91,Peng Cheng,Female,11-02-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,6,80.00
+92,Peng Cheng,Female,27-01-2019,Lachtal,AUT,P.r. China,European Cup,Parallel GS,12,39.60
+93,Peng Cheng,Female,26-01-2019,Lachtal,AUT,P.r. China,European Cup,Parallel GS,15,28.80
+94,Peng Cheng,Female,20-01-2019,Gosau,AUT,P.r. China,FIS,Parallel Slalom,6,60.00
+95,Peng Cheng,Female,19-01-2019,Gosau,AUT,P.r. China,FIS,Parallel Slalom,1,140.00
+96,Peng Cheng,Female,11-01-2019,Bad Gastein,AUT,P.r. China,European Cup,Parallel Slalom,17,50.40
+97,Peng Cheng,Female,10-01-2019,Bad Gastein,AUT,P.r. China,European Cup,Parallel Slalom,23,28.80
+98,Peng Cheng,Female,06-01-2019,Simonhöhe,AUT,P.r. China,FIS,Parallel Slalom,5,99.00
+99,Peng Cheng,Female,05-01-2019,Simonhöhe,AUT,P.r. China,FIS,Parallel Slalom,19,26.40
+100,Peng Cheng,Female,02-12-2017,Changchengling,CHN,P.r. China,National Championships,Parallel Slalom,5,72.00
+101,Peng Cheng,Female,01-12-2017,Changchengling,CHN,P.r. China,National Championships,Parallel GS,7,57.60
+102,Peng Cheng,Female,11-03-2015,Yabuli,CHN,P.r. China,FIS Junior World Championships,Parallel Slalom,17,50.40
+103,Peng Cheng,Female,10-03-2015,Yabuli,CHN,P.r. China,FIS Junior World Championships,Parallel GS,18,46.80

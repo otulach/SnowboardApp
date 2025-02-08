@@ -1,119 +1,120 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Qin Zihan,Male,25-01-2025,Rogla,SLO,P.r. China,Qualification,Parallel Giant Slalom,45,
-1,Qin Zihan,Male,25-01-2025,Rogla,SLO,P.r. China,World Cup,Parallel Giant Slalom,45,17.00
-2,Qin Zihan,Male,19-01-2025,Bansko,BUL,P.r. China,Qualification,Parallel Giant Slalom,35,
-3,Qin Zihan,Male,19-01-2025,Bansko,BUL,P.r. China,World Cup,Parallel Giant Slalom,35,20.00
-4,Qin Zihan,Male,15-01-2025,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom Team,21,
-5,Qin Zihan,Male,14-01-2025,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,40,
-6,Qin Zihan,Male,14-01-2025,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,40,18.50
-7,Qin Zihan,Male,11-01-2025,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,38,
-8,Qin Zihan,Male,11-01-2025,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,38,19.10
-9,Qin Zihan,Male,31-12-2024,Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,5,90.00
-10,Qin Zihan,Male,30-12-2024,Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,3,120.00
-11,Qin Zihan,Male,21-12-2024,Davos,SUI,P.r. China,Qualification,Parallel Slalom,40,
-12,Qin Zihan,Male,21-12-2024,Davos,SUI,P.r. China,World Cup,Parallel Slalom,40,18.50
-13,Qin Zihan,Male,14-12-2024,Cortina d'Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,32,
-14,Qin Zihan,Male,14-12-2024,Cortina d'Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,32,26.00
-15,Qin Zihan,Male,12-12-2024,Carezza,ITA,P.r. China,Qualification,Parallel Giant Slalom,DSQ,
-16,Qin Zihan,Male,12-12-2024,Carezza,ITA,P.r. China,World Cup,Parallel Giant Slalom,DSQ,
-17,Qin Zihan,Male,08-12-2024,Yanqing (NASC),CHN,P.r. China,World Cup,Parallel Slalom,47,
-18,Qin Zihan,Male,08-12-2024,Yanqing (NASC),CHN,P.r. China,Qualification,Parallel Slalom,47,
-19,Qin Zihan,Male,07-12-2024,Yanqing (NASC),CHN,P.r. China,World Cup,Parallel Giant Slalom,37,19.40
-20,Qin Zihan,Male,07-12-2024,Yanqing (NASC),CHN,P.r. China,Qualification,Parallel Giant Slalom,37,
-21,Qin Zihan,Male,01-12-2024,Mylin,CHN,P.r. China,World Cup,Parallel Slalom,34,22.00
-22,Qin Zihan,Male,01-12-2024,Mylin,CHN,P.r. China,Qualification,Parallel Slalom,34,
-23,Qin Zihan,Male,30-11-2024,Mylin,CHN,P.r. China,World Cup,Parallel Giant Slalom,39,18.80
-24,Qin Zihan,Male,30-11-2024,Mylin,CHN,P.r. China,Qualification,Parallel Giant Slalom,39,
-25,Qin Zihan,Male,19-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Slalom,1,200.00
-26,Qin Zihan,Male,18-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,6,80.00
-27,Qin Zihan,Male,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,3,120.00
-28,Qin Zihan,Male,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,6,80.00
-29,Qin Zihan,Male,05-03-2024,High1resort,KOR,P.r. China,Asian Cup,Parallel Slalom,5,90.00
-30,Qin Zihan,Male,04-03-2024,High1resort,KOR,P.r. China,Asian Cup,Parallel Giant Slalom,8,76.80
-31,Qin Zihan,Male,01-03-2024,Jinshanling Galaxy Ski Resort,CHN,P.r. China,FIS,Parallel Slalom,3,60.00
-32,Qin Zihan,Male,29-02-2024,Jinshanling Galaxy Ski Resort,CHN,P.r. China,FIS,Parallel Giant Slalom,3,60.00
-33,Qin Zihan,Male,12-03-2023,ORTISEI,ITA,P.r. China,FIS,Giant Slalom,1,180.00
-34,Qin Zihan,Male,11-03-2023,ORTISEI,ITA,P.r. China,FIS,Giant Slalom,2,176.00
-35,Qin Zihan,Male,05-03-2023,Val Senales,ITA,P.r. China,FIS,Parallel Slalom,1,160.00
-36,Qin Zihan,Male,04-03-2023,Val Senales,ITA,P.r. China,FIS,Parallel Slalom,4,110.00
-37,Qin Zihan,Male,22-02-2023,Bakuriani,GEO,P.r. China,World Championships,Parallel Slalom Team,19,
-38,Qin Zihan,Male,21-02-2023,Bakuriani,GEO,P.r. China,Qualification,Parallel Slalom,22,
-39,Qin Zihan,Male,21-02-2023,Bakuriani,GEO,P.r. China,World Championships,Parallel Slalom,22,90.00
-40,Qin Zihan,Male,19-02-2023,Bakuriani,GEO,P.r. China,Qualification,Parallel Giant Slalom,23,
-41,Qin Zihan,Male,19-02-2023,Bakuriani,GEO,P.r. China,World Championships,Parallel Giant Slalom,23,80.00
-42,Qin Zihan,Male,12-02-2023,Funes - Vilnoess,ITA,P.r. China,FIS,Parallel Giant Slalom,13,44.00
-43,Qin Zihan,Male,11-02-2023,Funes - Vilnoess,ITA,P.r. China,FIS,Parallel Giant Slalom,25,13.20
-44,Qin Zihan,Male,14-01-2022,Simonhöhe,AUT,P.r. China,World Cup,Parallel Giant Slalom,47,16.40
-45,Qin Zihan,Male,14-01-2022,Simonhöhe,AUT,P.r. China,Qualification,Parallel Giant Slalom,47,
-46,Qin Zihan,Male,11-01-2022,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,DSQ,
-47,Qin Zihan,Male,11-01-2022,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,DSQ,
-48,Qin Zihan,Male,08-01-2022,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,47,
-49,Qin Zihan,Male,08-01-2022,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,47,16.40
-50,Qin Zihan,Male,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,20,
-51,Qin Zihan,Male,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,20,110.00
-52,Qin Zihan,Male,16-12-2021,Carezza,ITA,P.r. China,Qualification,Parallel Giant Slalom,60,
-53,Qin Zihan,Male,16-12-2021,Carezza,ITA,P.r. China,World Cup,Parallel Giant Slalom,60,12.50
-54,Qin Zihan,Male,12-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Slalom,DNF,
-55,Qin Zihan,Male,12-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Slalom,DNF,
-56,Qin Zihan,Male,11-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Giant Slalom,21,
-57,Qin Zihan,Male,11-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Giant Slalom,21,100.00
-58,Qin Zihan,Male,03-03-2020,Blue Mountain,CAN,P.r. China,Nor-Am Cup,Parallel Slalom,7,115.20
-59,Qin Zihan,Male,02-03-2020,Blue Mountain,CAN,P.r. China,Nor-Am Cup,Parallel Giant Slalom,7,115.20
-60,Qin Zihan,Male,01-03-2020,Blue Mountain,CAN,P.r. China,World Cup,Parallel Giant Slalom,36,19.70
-61,Qin Zihan,Male,01-03-2020,Blue Mountain,CAN,P.r. China,Qualification,Parallel Giant Slalom,36,
-62,Qin Zihan,Male,29-02-2020,Blue Mountain,CAN,P.r. China,World Cup,Parallel Giant Slalom,20,110.00
-63,Qin Zihan,Male,29-02-2020,Blue Mountain,CAN,P.r. China,Qualification,Parallel Giant Slalom,20,
-64,Qin Zihan,Male,09-02-2020,Gerlitzen,AUT,P.r. China,FIS,Giant Slalom,3,132.00
-65,Qin Zihan,Male,08-02-2020,Gerlitzen,AUT,P.r. China,FIS,Giant Slalom,3,132.00
-66,Qin Zihan,Male,25-01-2020,Piancavallo,ITA,P.r. China,World Cup,Parallel Slalom,29,36.00
-67,Qin Zihan,Male,25-01-2020,Piancavallo,ITA,P.r. China,Qualification,Parallel Slalom,29,
-68,Qin Zihan,Male,18-01-2020,Rogla,SLO,P.r. China,World Cup,Parallel Giant Slalom,55,14.00
-69,Qin Zihan,Male,18-01-2020,Rogla,SLO,P.r. China,Qualification,Parallel Giant Slalom,55,
-70,Qin Zihan,Male,14-01-2020,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,47,16.40
-71,Qin Zihan,Male,14-01-2020,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,47,
-72,Qin Zihan,Male,11-01-2020,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,DSQ,
-73,Qin Zihan,Male,11-01-2020,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,DSQ,
-74,Qin Zihan,Male,29-12-2019,Wanlong Ski Resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,3,144.00
-75,Qin Zihan,Male,28-12-2019,Wanlong Ski Resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,3,144.00
-76,Qin Zihan,Male,19-12-2019,Carezza,ITA,P.r. China,Open,Parallel Giant Slalom,43,17.60
-77,Qin Zihan,Male,14-12-2019,Cortina d Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,61,
-78,Qin Zihan,Male,14-12-2019,Cortina d Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,61,
-79,Qin Zihan,Male,08-12-2019,Bannoye,RUS,P.r. China,World Cup,Parallel Giant Slalom,42,17.90
-80,Qin Zihan,Male,08-12-2019,Bannoye,RUS,P.r. China,Qualification,Parallel Giant Slalom,42,
-81,Qin Zihan,Male,07-12-2019,Bannoye,RUS,P.r. China,World Cup,Parallel Slalom,DSQ,
-82,Qin Zihan,Male,07-12-2019,Bannoye,RUS,P.r. China,Qualification,Parallel Slalom,DSQ,
-83,Qin Zihan,Male,30-11-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,5,99.00
-84,Qin Zihan,Male,29-11-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,9,92.80
-85,Qin Zihan,Male,07-04-2019,Racines,ITA,P.r. China,European Cup,Parallel Slalom,26,18.00
-86,Qin Zihan,Male,06-04-2019,Racines,ITA,P.r. China,European Cup,Parallel Slalom,53,
-87,Qin Zihan,Male,03-04-2019,Rogla,SLO,P.r. China,FIS Junior World Championships,Parallel Slalom,12,79.20
-88,Qin Zihan,Male,02-04-2019,Rogla,SLO,P.r. China,FIS Junior World Championships,Parallel Giant Slalom,8,115.20
-89,Qin Zihan,Male,31-03-2019,Radstadt,AUT,P.r. China,National Championships,Parallel Giant Slalom,16,43.50
-90,Qin Zihan,Male,30-03-2019,Radstadt,AUT,P.r. China,National Championships,Parallel Slalom,11,69.60
-91,Qin Zihan,Male,27-03-2019,Piancavallo,ITA,P.r. China,National Championships,Parallel Giant Slalom,3,174.00
-92,Qin Zihan,Male,26-03-2019,Piancavallo,ITA,P.r. China,National Championships,Parallel Slalom,8,92.80
-93,Qin Zihan,Male,17-03-2019,Rogla,SLO,P.r. China,European Cup,Parallel Giant Slalom,22,32.40
-94,Qin Zihan,Male,17-03-2019,Rogla,SLO,P.r. China,Junior,Parallel Giant Slalom,27,9.00
-95,Qin Zihan,Male,16-03-2019,Rogla,SLO,P.r. China,European Cup,Parallel Giant Slalom,63,4.18
-96,Qin Zihan,Male,28-02-2019,Secret Garden,CHN,P.r. China,Asian Cup,Parallel Slalom,16,
-97,Qin Zihan,Male,27-02-2019,Secret Garden,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,8,51.20
-98,Qin Zihan,Male,24-02-2019,Secret Garden,CHN,P.r. China,World Cup,Parallel Slalom,23,80.00
-99,Qin Zihan,Male,24-02-2019,Secret Garden,CHN,P.r. China,Qualification,Parallel Slalom,23,
-100,Qin Zihan,Male,23-02-2019,Secret Garden,CHN,P.r. China,World Cup,Parallel Giant Slalom,24,70.00
-101,Qin Zihan,Male,23-02-2019,Secret Garden,CHN,P.r. China,Qualification,Parallel Giant Slalom,24,
-102,Qin Zihan,Male,12-02-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,2,144.00
-103,Qin Zihan,Male,11-02-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,3,108.00
-104,Qin Zihan,Male,05-02-2019,Park City,USA,P.r. China,World Championships,Parallel Slalom,32,26.00
-105,Qin Zihan,Male,04-02-2019,Park City,USA,P.r. China,World Championships,Parallel Giant Slalom,29,36.00
-106,Qin Zihan,Male,27-01-2019,Lachtal,AUT,P.r. China,European Cup,Parallel GS,19,21.60
-107,Qin Zihan,Male,26-01-2019,Lachtal,AUT,P.r. China,European Cup,Parallel GS,6,72.00
-108,Qin Zihan,Male,20-01-2019,Gosau,AUT,P.r. China,FIS,Parallel Slalom,34,
-109,Qin Zihan,Male,19-01-2019,Gosau,AUT,P.r. China,FIS,Parallel Slalom,16,16.50
-110,Qin Zihan,Male,11-01-2019,Bad Gastein,AUT,P.r. China,European Cup,Parallel Slalom,8,115.20
-111,Qin Zihan,Male,10-01-2019,Bad Gastein,AUT,P.r. China,European Cup,Parallel Slalom,9,104.40
-112,Qin Zihan,Male,06-01-2019,Simonhöhe,AUT,P.r. China,FIS,Parallel Slalom,6,88.00
-113,Qin Zihan,Male,05-01-2019,Simonhöhe,AUT,P.r. China,FIS,Parallel Slalom,34,
-114,Qin Zihan,Male,06-09-2018,Cardrona,NZL,P.r. China,FIS Junior World Championships,Parallel Slalom,DSQ1,
-115,Qin Zihan,Male,05-09-2018,Cardrona,NZL,P.r. China,FIS Junior World Championships,Parallel GS,22,28.80
-116,Qin Zihan,Male,02-12-2017,Changchengling,CHN,P.r. China,National Championships,Parallel Slalom,5,31.50
-117,Qin Zihan,Male,01-12-2017,Changchengling,CHN,P.r. China,National Championships,Parallel GS,6,28.00
+0,Qin Zihan,Male,07-02-2025,Jinshanling Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,3,
+1,Qin Zihan,Male,25-01-2025,Rogla,SLO,P.r. China,Qualification,Parallel Giant Slalom,45,
+2,Qin Zihan,Male,25-01-2025,Rogla,SLO,P.r. China,World Cup,Parallel Giant Slalom,45,17.00
+3,Qin Zihan,Male,19-01-2025,Bansko,BUL,P.r. China,Qualification,Parallel Giant Slalom,35,
+4,Qin Zihan,Male,19-01-2025,Bansko,BUL,P.r. China,World Cup,Parallel Giant Slalom,35,20.00
+5,Qin Zihan,Male,15-01-2025,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom Team,21,
+6,Qin Zihan,Male,14-01-2025,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,40,
+7,Qin Zihan,Male,14-01-2025,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,40,18.50
+8,Qin Zihan,Male,11-01-2025,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,38,
+9,Qin Zihan,Male,11-01-2025,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,38,19.10
+10,Qin Zihan,Male,31-12-2024,Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,5,90.00
+11,Qin Zihan,Male,30-12-2024,Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,3,120.00
+12,Qin Zihan,Male,21-12-2024,Davos,SUI,P.r. China,Qualification,Parallel Slalom,40,
+13,Qin Zihan,Male,21-12-2024,Davos,SUI,P.r. China,World Cup,Parallel Slalom,40,18.50
+14,Qin Zihan,Male,14-12-2024,Cortina d'Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,32,
+15,Qin Zihan,Male,14-12-2024,Cortina d'Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,32,26.00
+16,Qin Zihan,Male,12-12-2024,Carezza,ITA,P.r. China,Qualification,Parallel Giant Slalom,DSQ,
+17,Qin Zihan,Male,12-12-2024,Carezza,ITA,P.r. China,World Cup,Parallel Giant Slalom,DSQ,
+18,Qin Zihan,Male,08-12-2024,Yanqing (NASC),CHN,P.r. China,World Cup,Parallel Slalom,47,
+19,Qin Zihan,Male,08-12-2024,Yanqing (NASC),CHN,P.r. China,Qualification,Parallel Slalom,47,
+20,Qin Zihan,Male,07-12-2024,Yanqing (NASC),CHN,P.r. China,World Cup,Parallel Giant Slalom,37,19.40
+21,Qin Zihan,Male,07-12-2024,Yanqing (NASC),CHN,P.r. China,Qualification,Parallel Giant Slalom,37,
+22,Qin Zihan,Male,01-12-2024,Mylin,CHN,P.r. China,World Cup,Parallel Slalom,34,22.00
+23,Qin Zihan,Male,01-12-2024,Mylin,CHN,P.r. China,Qualification,Parallel Slalom,34,
+24,Qin Zihan,Male,30-11-2024,Mylin,CHN,P.r. China,World Cup,Parallel Giant Slalom,39,18.80
+25,Qin Zihan,Male,30-11-2024,Mylin,CHN,P.r. China,Qualification,Parallel Giant Slalom,39,
+26,Qin Zihan,Male,19-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Slalom,1,200.00
+27,Qin Zihan,Male,18-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,6,80.00
+28,Qin Zihan,Male,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,3,120.00
+29,Qin Zihan,Male,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,6,80.00
+30,Qin Zihan,Male,05-03-2024,High1resort,KOR,P.r. China,Asian Cup,Parallel Slalom,5,90.00
+31,Qin Zihan,Male,04-03-2024,High1resort,KOR,P.r. China,Asian Cup,Parallel Giant Slalom,8,76.80
+32,Qin Zihan,Male,01-03-2024,Jinshanling Galaxy Ski Resort,CHN,P.r. China,FIS,Parallel Slalom,3,60.00
+33,Qin Zihan,Male,29-02-2024,Jinshanling Galaxy Ski Resort,CHN,P.r. China,FIS,Parallel Giant Slalom,3,60.00
+34,Qin Zihan,Male,12-03-2023,ORTISEI,ITA,P.r. China,FIS,Giant Slalom,1,180.00
+35,Qin Zihan,Male,11-03-2023,ORTISEI,ITA,P.r. China,FIS,Giant Slalom,2,176.00
+36,Qin Zihan,Male,05-03-2023,Val Senales,ITA,P.r. China,FIS,Parallel Slalom,1,160.00
+37,Qin Zihan,Male,04-03-2023,Val Senales,ITA,P.r. China,FIS,Parallel Slalom,4,110.00
+38,Qin Zihan,Male,22-02-2023,Bakuriani,GEO,P.r. China,World Championships,Parallel Slalom Team,19,
+39,Qin Zihan,Male,21-02-2023,Bakuriani,GEO,P.r. China,Qualification,Parallel Slalom,22,
+40,Qin Zihan,Male,21-02-2023,Bakuriani,GEO,P.r. China,World Championships,Parallel Slalom,22,90.00
+41,Qin Zihan,Male,19-02-2023,Bakuriani,GEO,P.r. China,Qualification,Parallel Giant Slalom,23,
+42,Qin Zihan,Male,19-02-2023,Bakuriani,GEO,P.r. China,World Championships,Parallel Giant Slalom,23,80.00
+43,Qin Zihan,Male,12-02-2023,Funes - Vilnoess,ITA,P.r. China,FIS,Parallel Giant Slalom,13,44.00
+44,Qin Zihan,Male,11-02-2023,Funes - Vilnoess,ITA,P.r. China,FIS,Parallel Giant Slalom,25,13.20
+45,Qin Zihan,Male,14-01-2022,Simonhöhe,AUT,P.r. China,World Cup,Parallel Giant Slalom,47,16.40
+46,Qin Zihan,Male,14-01-2022,Simonhöhe,AUT,P.r. China,Qualification,Parallel Giant Slalom,47,
+47,Qin Zihan,Male,11-01-2022,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,DSQ,
+48,Qin Zihan,Male,11-01-2022,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,DSQ,
+49,Qin Zihan,Male,08-01-2022,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,47,
+50,Qin Zihan,Male,08-01-2022,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,47,16.40
+51,Qin Zihan,Male,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,20,
+52,Qin Zihan,Male,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,20,110.00
+53,Qin Zihan,Male,16-12-2021,Carezza,ITA,P.r. China,Qualification,Parallel Giant Slalom,60,
+54,Qin Zihan,Male,16-12-2021,Carezza,ITA,P.r. China,World Cup,Parallel Giant Slalom,60,12.50
+55,Qin Zihan,Male,12-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Slalom,DNF,
+56,Qin Zihan,Male,12-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Slalom,DNF,
+57,Qin Zihan,Male,11-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Giant Slalom,21,
+58,Qin Zihan,Male,11-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Giant Slalom,21,100.00
+59,Qin Zihan,Male,03-03-2020,Blue Mountain,CAN,P.r. China,Nor-Am Cup,Parallel Slalom,7,115.20
+60,Qin Zihan,Male,02-03-2020,Blue Mountain,CAN,P.r. China,Nor-Am Cup,Parallel Giant Slalom,7,115.20
+61,Qin Zihan,Male,01-03-2020,Blue Mountain,CAN,P.r. China,World Cup,Parallel Giant Slalom,36,19.70
+62,Qin Zihan,Male,01-03-2020,Blue Mountain,CAN,P.r. China,Qualification,Parallel Giant Slalom,36,
+63,Qin Zihan,Male,29-02-2020,Blue Mountain,CAN,P.r. China,World Cup,Parallel Giant Slalom,20,110.00
+64,Qin Zihan,Male,29-02-2020,Blue Mountain,CAN,P.r. China,Qualification,Parallel Giant Slalom,20,
+65,Qin Zihan,Male,09-02-2020,Gerlitzen,AUT,P.r. China,FIS,Giant Slalom,3,132.00
+66,Qin Zihan,Male,08-02-2020,Gerlitzen,AUT,P.r. China,FIS,Giant Slalom,3,132.00
+67,Qin Zihan,Male,25-01-2020,Piancavallo,ITA,P.r. China,World Cup,Parallel Slalom,29,36.00
+68,Qin Zihan,Male,25-01-2020,Piancavallo,ITA,P.r. China,Qualification,Parallel Slalom,29,
+69,Qin Zihan,Male,18-01-2020,Rogla,SLO,P.r. China,World Cup,Parallel Giant Slalom,55,14.00
+70,Qin Zihan,Male,18-01-2020,Rogla,SLO,P.r. China,Qualification,Parallel Giant Slalom,55,
+71,Qin Zihan,Male,14-01-2020,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,47,16.40
+72,Qin Zihan,Male,14-01-2020,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,47,
+73,Qin Zihan,Male,11-01-2020,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,DSQ,
+74,Qin Zihan,Male,11-01-2020,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,DSQ,
+75,Qin Zihan,Male,29-12-2019,Wanlong Ski Resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,3,144.00
+76,Qin Zihan,Male,28-12-2019,Wanlong Ski Resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,3,144.00
+77,Qin Zihan,Male,19-12-2019,Carezza,ITA,P.r. China,Open,Parallel Giant Slalom,43,17.60
+78,Qin Zihan,Male,14-12-2019,Cortina d Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,61,
+79,Qin Zihan,Male,14-12-2019,Cortina d Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,61,
+80,Qin Zihan,Male,08-12-2019,Bannoye,RUS,P.r. China,World Cup,Parallel Giant Slalom,42,17.90
+81,Qin Zihan,Male,08-12-2019,Bannoye,RUS,P.r. China,Qualification,Parallel Giant Slalom,42,
+82,Qin Zihan,Male,07-12-2019,Bannoye,RUS,P.r. China,World Cup,Parallel Slalom,DSQ,
+83,Qin Zihan,Male,07-12-2019,Bannoye,RUS,P.r. China,Qualification,Parallel Slalom,DSQ,
+84,Qin Zihan,Male,30-11-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,5,99.00
+85,Qin Zihan,Male,29-11-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,9,92.80
+86,Qin Zihan,Male,07-04-2019,Racines,ITA,P.r. China,European Cup,Parallel Slalom,26,18.00
+87,Qin Zihan,Male,06-04-2019,Racines,ITA,P.r. China,European Cup,Parallel Slalom,53,
+88,Qin Zihan,Male,03-04-2019,Rogla,SLO,P.r. China,FIS Junior World Championships,Parallel Slalom,12,79.20
+89,Qin Zihan,Male,02-04-2019,Rogla,SLO,P.r. China,FIS Junior World Championships,Parallel Giant Slalom,8,115.20
+90,Qin Zihan,Male,31-03-2019,Radstadt,AUT,P.r. China,National Championships,Parallel Giant Slalom,16,43.50
+91,Qin Zihan,Male,30-03-2019,Radstadt,AUT,P.r. China,National Championships,Parallel Slalom,11,69.60
+92,Qin Zihan,Male,27-03-2019,Piancavallo,ITA,P.r. China,National Championships,Parallel Giant Slalom,3,174.00
+93,Qin Zihan,Male,26-03-2019,Piancavallo,ITA,P.r. China,National Championships,Parallel Slalom,8,92.80
+94,Qin Zihan,Male,17-03-2019,Rogla,SLO,P.r. China,European Cup,Parallel Giant Slalom,22,32.40
+95,Qin Zihan,Male,17-03-2019,Rogla,SLO,P.r. China,Junior,Parallel Giant Slalom,27,9.00
+96,Qin Zihan,Male,16-03-2019,Rogla,SLO,P.r. China,European Cup,Parallel Giant Slalom,63,4.18
+97,Qin Zihan,Male,28-02-2019,Secret Garden,CHN,P.r. China,Asian Cup,Parallel Slalom,16,
+98,Qin Zihan,Male,27-02-2019,Secret Garden,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,8,51.20
+99,Qin Zihan,Male,24-02-2019,Secret Garden,CHN,P.r. China,World Cup,Parallel Slalom,23,80.00
+100,Qin Zihan,Male,24-02-2019,Secret Garden,CHN,P.r. China,Qualification,Parallel Slalom,23,
+101,Qin Zihan,Male,23-02-2019,Secret Garden,CHN,P.r. China,World Cup,Parallel Giant Slalom,24,70.00
+102,Qin Zihan,Male,23-02-2019,Secret Garden,CHN,P.r. China,Qualification,Parallel Giant Slalom,24,
+103,Qin Zihan,Male,12-02-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,2,144.00
+104,Qin Zihan,Male,11-02-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,3,108.00
+105,Qin Zihan,Male,05-02-2019,Park City,USA,P.r. China,World Championships,Parallel Slalom,32,26.00
+106,Qin Zihan,Male,04-02-2019,Park City,USA,P.r. China,World Championships,Parallel Giant Slalom,29,36.00
+107,Qin Zihan,Male,27-01-2019,Lachtal,AUT,P.r. China,European Cup,Parallel GS,19,21.60
+108,Qin Zihan,Male,26-01-2019,Lachtal,AUT,P.r. China,European Cup,Parallel GS,6,72.00
+109,Qin Zihan,Male,20-01-2019,Gosau,AUT,P.r. China,FIS,Parallel Slalom,34,
+110,Qin Zihan,Male,19-01-2019,Gosau,AUT,P.r. China,FIS,Parallel Slalom,16,16.50
+111,Qin Zihan,Male,11-01-2019,Bad Gastein,AUT,P.r. China,European Cup,Parallel Slalom,8,115.20
+112,Qin Zihan,Male,10-01-2019,Bad Gastein,AUT,P.r. China,European Cup,Parallel Slalom,9,104.40
+113,Qin Zihan,Male,06-01-2019,Simonhöhe,AUT,P.r. China,FIS,Parallel Slalom,6,88.00
+114,Qin Zihan,Male,05-01-2019,Simonhöhe,AUT,P.r. China,FIS,Parallel Slalom,34,
+115,Qin Zihan,Male,06-09-2018,Cardrona,NZL,P.r. China,FIS Junior World Championships,Parallel Slalom,DSQ1,
+116,Qin Zihan,Male,05-09-2018,Cardrona,NZL,P.r. China,FIS Junior World Championships,Parallel GS,22,28.80
+117,Qin Zihan,Male,02-12-2017,Changchengling,CHN,P.r. China,National Championships,Parallel Slalom,5,31.50
+118,Qin Zihan,Male,01-12-2017,Changchengling,CHN,P.r. China,National Championships,Parallel GS,6,28.00
