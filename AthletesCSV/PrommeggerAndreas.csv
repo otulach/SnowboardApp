@@ -1,620 +1,621 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Prommegger Andreas,Male,25-01-2025,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,14,
-1,Prommegger Andreas,Male,25-01-2025,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,15,160.00
-2,Prommegger Andreas,Male,19-01-2025,Bansko,BUL,Austria,Qualification,Parallel Giant Slalom,10,
-3,Prommegger Andreas,Male,19-01-2025,Bansko,BUL,Austria,World Cup,Parallel Giant Slalom,8,320.00
-4,Prommegger Andreas,Male,18-01-2025,Bansko,BUL,Austria,Qualification,Parallel Giant Slalom,3,
-5,Prommegger Andreas,Male,18-01-2025,Bansko,BUL,Austria,World Cup,Parallel Giant Slalom,1,1000.00
-6,Prommegger Andreas,Male,15-01-2025,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,1,
-7,Prommegger Andreas,Male,14-01-2025,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,2,
-8,Prommegger Andreas,Male,14-01-2025,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,2,800.00
-9,Prommegger Andreas,Male,11-01-2025,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,8,
-10,Prommegger Andreas,Male,11-01-2025,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,3,600.00
-11,Prommegger Andreas,Male,21-12-2024,Davos,SUI,Austria,Qualification,Parallel Slalom,7,
-12,Prommegger Andreas,Male,21-12-2024,Davos,SUI,Austria,World Cup,Parallel Slalom,6,400.00
-13,Prommegger Andreas,Male,14-12-2024,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,8,
-14,Prommegger Andreas,Male,14-12-2024,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,13,200.00
-15,Prommegger Andreas,Male,12-12-2024,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,15,
-16,Prommegger Andreas,Male,12-12-2024,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,15,160.00
-17,Prommegger Andreas,Male,08-12-2024,Yanqing (NASC),CHN,Austria,World Cup,Parallel Slalom,3,600.00
-18,Prommegger Andreas,Male,08-12-2024,Yanqing (NASC),CHN,Austria,Qualification,Parallel Slalom,7,
-19,Prommegger Andreas,Male,07-12-2024,Yanqing (NASC),CHN,Austria,World Cup,Parallel Giant Slalom,4,500.00
-20,Prommegger Andreas,Male,07-12-2024,Yanqing (NASC),CHN,Austria,Qualification,Parallel Giant Slalom,5,
-21,Prommegger Andreas,Male,01-12-2024,Mylin,CHN,Austria,World Cup,Parallel Slalom,11,240.00
-22,Prommegger Andreas,Male,01-12-2024,Mylin,CHN,Austria,Qualification,Parallel Slalom,7,
-23,Prommegger Andreas,Male,30-11-2024,Mylin,CHN,Austria,World Cup,Parallel Giant Slalom,7,360.00
-24,Prommegger Andreas,Male,30-11-2024,Mylin,CHN,Austria,Qualification,Parallel Giant Slalom,12,
-25,Prommegger Andreas,Male,17-03-2024,St. Moritz,SUI,Austria,European Cup,Parallel Slalom,5,162.00
-26,Prommegger Andreas,Male,16-03-2024,St. Moritz,SUI,Austria,European Cup,Parallel Giant Slalom,9,104.40
-27,Prommegger Andreas,Male,10-03-2024,Winterberg,GER,Austria,World Cup,Parallel Slalom Team,5,
-28,Prommegger Andreas,Male,09-03-2024,Winterberg,GER,Austria,Qualification,Parallel Slalom,7,
-29,Prommegger Andreas,Male,09-03-2024,Winterberg,GER,Austria,World Cup,Parallel Slalom,2,800.00
-30,Prommegger Andreas,Male,25-02-2024,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,17,
-31,Prommegger Andreas,Male,25-02-2024,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,17,140.00
-32,Prommegger Andreas,Male,24-02-2024,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,9,
-33,Prommegger Andreas,Male,24-02-2024,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,1,1000.00
-34,Prommegger Andreas,Male,28-01-2024,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom Team,1,
-35,Prommegger Andreas,Male,27-01-2024,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,10,
-36,Prommegger Andreas,Male,27-01-2024,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom,12,220.00
-37,Prommegger Andreas,Male,25-01-2024,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,4,
-38,Prommegger Andreas,Male,25-01-2024,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,9,290.00
-39,Prommegger Andreas,Male,21-01-2024,Pamporovo,BUL,Austria,Qualification,Parallel Slalom,7,
-40,Prommegger Andreas,Male,21-01-2024,Pamporovo,BUL,Austria,World Cup,Parallel Slalom,2,800.00
-41,Prommegger Andreas,Male,20-01-2024,Pamporovo,BUL,Austria,Qualification,Parallel Slalom,6,
-42,Prommegger Andreas,Male,20-01-2024,Pamporovo,BUL,Austria,World Cup,Parallel Slalom,5,450.00
-43,Prommegger Andreas,Male,17-01-2024,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,1,
-44,Prommegger Andreas,Male,16-01-2024,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,19,
-45,Prommegger Andreas,Male,16-01-2024,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,19,120.00
-46,Prommegger Andreas,Male,13-01-2024,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,11,
-47,Prommegger Andreas,Male,13-01-2024,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,3,600.00
-48,Prommegger Andreas,Male,23-12-2023,Davos,SUI,Austria,Qualification,Parallel Slalom,17,
-49,Prommegger Andreas,Male,23-12-2023,Davos ,SUI,Austria,World Cup,Parallel Slalom,17,140.00
-50,Prommegger Andreas,Male,16-12-2023,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,7,
-51,Prommegger Andreas,Male,16-12-2023,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,2,800.00
-52,Prommegger Andreas,Male,14-12-2023,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,9,
-53,Prommegger Andreas,Male,14-12-2023,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,11,240.00
-54,Prommegger Andreas,Male,01-04-2023,Haus im Ennstal,AUT,Austria,National Championships,Parallel Giant Slalom,2,232.00
-55,Prommegger Andreas,Male,19-03-2023,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom Team,9,
-56,Prommegger Andreas,Male,18-03-2023,Berchtesgaden,GER,Austria,Qualification,Parallel Slalom,12,
-57,Prommegger Andreas,Male,18-03-2023,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,8,320.00
-58,Prommegger Andreas,Male,15-03-2023,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,9,290.00
-59,Prommegger Andreas,Male,15-03-2023,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,4,
-60,Prommegger Andreas,Male,22-02-2023,Bakuriani,GEO,Austria,World Championships,Parallel Slalom Team,2,
-61,Prommegger Andreas,Male,21-02-2023,Bakuriani,GEO,Austria,Qualification,Parallel Slalom,1,
-62,Prommegger Andreas,Male,21-02-2023,Bakuriani,GEO,Austria,World Championships,Parallel Slalom,1,1000.00
-63,Prommegger Andreas,Male,19-02-2023,Bakuriani,GEO,Austria,Qualification,Parallel Giant Slalom,5,
-64,Prommegger Andreas,Male,19-02-2023,Bakuriani,GEO,Austria,World Championships,Parallel Giant Slalom,6,400.00
-65,Prommegger Andreas,Male,27-01-2023,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,9,
-66,Prommegger Andreas,Male,27-01-2023,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,12,220.00
-67,Prommegger Andreas,Male,26-01-2023,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,2,
-68,Prommegger Andreas,Male,26-01-2023,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,5,450.00
-69,Prommegger Andreas,Male,22-01-2023,Bansko,BUL,Austria,Qualification,Parallel Slalom,20,
-70,Prommegger Andreas,Male,22-01-2023,Bansko,BUL,Austria,World Cup,Parallel Slalom,20,110.00
-71,Prommegger Andreas,Male,21-01-2023,Bansko,BUL,Austria,Qualification,Parallel Slalom,12,
-72,Prommegger Andreas,Male,21-01-2023,Bansko,BUL,Austria,World Cup,Parallel Slalom,8,320.00
-73,Prommegger Andreas,Male,14-01-2023,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,2,
-74,Prommegger Andreas,Male,14-01-2023,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,3,600.00
-75,Prommegger Andreas,Male,11-01-2023,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,1,
-76,Prommegger Andreas,Male,10-01-2023,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,10,
-77,Prommegger Andreas,Male,10-01-2023,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,7,360.00
-78,Prommegger Andreas,Male,17-12-2022,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,3,
-79,Prommegger Andreas,Male,17-12-2022,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,2,800.00
-80,Prommegger Andreas,Male,15-12-2022,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,12,
-81,Prommegger Andreas,Male,15-12-2022,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,1,1000.00
-82,Prommegger Andreas,Male,11-12-2022,Winterberg,GER,Austria,World Cup,Parallel Slalom,14,180.00
-83,Prommegger Andreas,Male,10-12-2022,Winterberg,GER,Austria,Qualification,Parallel Slalom,13,
-84,Prommegger Andreas,Male,10-12-2022,Winterberg,GER,Austria,World Cup,Parallel Slalom Team,2,
-85,Prommegger Andreas,Male,26-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Giant Slalom,1,290.00
-86,Prommegger Andreas,Male,19-03-2022,Berchtesgaden,GER,Austria,Qualification,Parallel Slalom,6,
-87,Prommegger Andreas,Male,19-03-2022,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,1,1000.00
-88,Prommegger Andreas,Male,16-03-2022,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,14,
-89,Prommegger Andreas,Male,16-03-2022,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,8,320.00
-90,Prommegger Andreas,Male,12-03-2022,Piancavallo,ITA,Austria,Qualification,Parallel Slalom,4,
-91,Prommegger Andreas,Male,12-03-2022,Piancavallo,ITA,Austria,World Cup,Parallel Slalom,10,260.00
-92,Prommegger Andreas,Male,08-02-2022,Beijing,CHN,Austria,Qualification,Parallel Giant Slalom,3,
-93,Prommegger Andreas,Male,08-02-2022,Beijing,CHN,Austria,Olympic Winter Games,Parallel Giant Slalom,6,400.00
-94,Prommegger Andreas,Male,15-01-2022,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom Team,14,
-95,Prommegger Andreas,Male,14-01-2022,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom,21,100.00
-96,Prommegger Andreas,Male,14-01-2022,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,21,
-97,Prommegger Andreas,Male,12-01-2022,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,7,
-98,Prommegger Andreas,Male,11-01-2022,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,5,
-99,Prommegger Andreas,Male,11-01-2022,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,6,400.00
-100,Prommegger Andreas,Male,08-01-2022,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,12,
-101,Prommegger Andreas,Male,08-01-2022,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,7,360.00
-102,Prommegger Andreas,Male,18-12-2021,Cortina d Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,21,
-103,Prommegger Andreas,Male,18-12-2021,Cortina d Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,21,100.00
-104,Prommegger Andreas,Male,16-12-2021,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,16,
-105,Prommegger Andreas,Male,16-12-2021,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,16,150.00
-106,Prommegger Andreas,Male,12-12-2021,Bannoye,RUS,Austria,Qualification,Parallel Slalom,5,
-107,Prommegger Andreas,Male,12-12-2021,Bannoye,RUS,Austria,World Cup,Parallel Slalom,1,1000.00
-108,Prommegger Andreas,Male,11-12-2021,Bannoye,RUS,Austria,Qualification,Parallel Giant Slalom,17,
-109,Prommegger Andreas,Male,11-12-2021,Bannoye,RUS,Austria,World Cup,Parallel Giant Slalom,17,140.00
-110,Prommegger Andreas,Male,21-03-2021,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom Team,4,
-111,Prommegger Andreas,Male,20-03-2021,Berchtesgaden,GER,Austria,Qualification,Parallel Slalom,5,
-112,Prommegger Andreas,Male,20-03-2021,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,6,400.00
-113,Prommegger Andreas,Male,06-03-2021,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,19,
-114,Prommegger Andreas,Male,06-03-2021,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,19,120.00
-115,Prommegger Andreas,Male,02-03-2021,Rogla,SLO,Austria,World Championships,Parallel Slalom,2,800.00
-116,Prommegger Andreas,Male,02-03-2021,Rogla,SLO,Austria,Qualification,Parallel Slalom,3,
-117,Prommegger Andreas,Male,01-03-2021,Rogla,SLO,Austria,World Championships,Parallel Giant Slalom,16,150.00
-118,Prommegger Andreas,Male,01-03-2021,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,15,
-119,Prommegger Andreas,Male,20-02-2021,Gerlitzen,AUT,Austria,National Championships,Parallel Giant Slalom,1,290.00
-120,Prommegger Andreas,Male,07-02-2021,Bannoye,RUS,Austria,Qualification,Parallel Slalom,4,
-121,Prommegger Andreas,Male,07-02-2021,Bannoye,RUS,Austria,World Cup,Parallel Slalom,5,450.00
-122,Prommegger Andreas,Male,06-02-2021,Baonoye,RUS,Austria,Qualification,Parallel Giant Slalom,24,
-123,Prommegger Andreas,Male,06-02-2021,Bannoye,RUS,Austria,World Cup,Parallel Giant Slalom,24,70.00
-124,Prommegger Andreas,Male,30-01-2021,Moscow,RUS,Austria,Qualification,Parallel Slalom,17,
-125,Prommegger Andreas,Male,30-01-2021,Moscow,RUS,Austria,World Cup,Parallel Slalom,17,140.00
-126,Prommegger Andreas,Male,13-01-2021,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,1,
-127,Prommegger Andreas,Male,12-01-2021,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,11,
-128,Prommegger Andreas,Male,12-01-2021,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,3,600.00
-129,Prommegger Andreas,Male,09-01-2021,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,3,
-130,Prommegger Andreas,Male,09-01-2021,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,5,450.00
-131,Prommegger Andreas,Male,17-12-2020,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,5,
-132,Prommegger Andreas,Male,17-12-2020,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,2,800.00
-133,Prommegger Andreas,Male,12-12-2020,Cortina d Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,9,
-134,Prommegger Andreas,Male,12-12-2020,Cortina d Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,7,360.00
-135,Prommegger Andreas,Male,01-03-2020,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,15,160.00
-136,Prommegger Andreas,Male,01-03-2020,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,9,
-137,Prommegger Andreas,Male,29-02-2020,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,5,450.00
-138,Prommegger Andreas,Male,29-02-2020,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,7,
-139,Prommegger Andreas,Male,22-02-2020,Pyeongchang,KOR,Austria,World Cup,Parallel Giant Slalom,DSQ,
-140,Prommegger Andreas,Male,22-02-2020,Pyeongchang,KOR,Austria,Qualification,Parallel Giant Slalom,DSQ,
-141,Prommegger Andreas,Male,26-01-2020,Piancavallo,ITA,Austria,World Cup,Parallel Slalom Team,3,
-142,Prommegger Andreas,Male,25-01-2020,Piancavallo,ITA,Austria,World Cup,Parallel Slalom,1,1000.00
-143,Prommegger Andreas,Male,25-01-2020,Piancavallo,ITA,Austria,Qualification,Parallel Slalom,3,
-144,Prommegger Andreas,Male,18-01-2020,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,14,180.00
-145,Prommegger Andreas,Male,18-01-2020,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,12,
-146,Prommegger Andreas,Male,15-01-2020,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,2,
-147,Prommegger Andreas,Male,14-01-2020,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,10,260.00
-148,Prommegger Andreas,Male,14-01-2020,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,3,
-149,Prommegger Andreas,Male,11-01-2020,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,11,240.00
-150,Prommegger Andreas,Male,11-01-2020,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,9,
-151,Prommegger Andreas,Male,19-12-2019,Carezza,ITA,Austria,Open,Parallel Giant Slalom,19,120.00
-152,Prommegger Andreas,Male,14-12-2019,Cortina d Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,12,220.00
-153,Prommegger Andreas,Male,14-12-2019,Cortina d Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,8,
-154,Prommegger Andreas,Male,08-12-2019,Bannoye,RUS,Austria,World Cup,Parallel Giant Slalom,24,70.00
-155,Prommegger Andreas,Male,08-12-2019,Bannoye,RUS,Austria,Qualification,Parallel Giant Slalom,24,
-156,Prommegger Andreas,Male,07-12-2019,Bannoye,RUS,Austria,World Cup,Parallel Slalom,1,1000.00
-157,Prommegger Andreas,Male,07-12-2019,Bannoye,RUS,Austria,Qualification,Parallel Slalom,8,
-158,Prommegger Andreas,Male,30-03-2019,Radstadt,AUT,Austria,National Championships,Parallel Slalom,2,232.00
-159,Prommegger Andreas,Male,24-03-2019,Winterberg,GER,Austria,World Cup,Parallel Slalom Team,11,
-160,Prommegger Andreas,Male,23-03-2019,Winterberg,GER,Austria,World Cup,Parallel Slalom,11,240.00
-161,Prommegger Andreas,Male,23-03-2019,Winterberg,GER,Austria,Qualification,Parallel Slalom,9,
-162,Prommegger Andreas,Male,09-03-2019,Scuol,SUI,Austria,World Cup,Parallel GS,DSQ,
-163,Prommegger Andreas,Male,09-03-2019,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,DSQ,
-164,Prommegger Andreas,Male,24-02-2019,Secret Garden,CHN,Austria,World Cup,Parallel Slalom,12,220.00
-165,Prommegger Andreas,Male,24-02-2019,Secret Garden,CHN,Austria,Qualification,Parallel Slalom,11,
-166,Prommegger Andreas,Male,23-02-2019,Secret Garden,CHN,Austria,World Cup,Parallel Giant Slalom,20,110.00
-167,Prommegger Andreas,Male,23-02-2019,Secret Garden,CHN,Austria,Qualification,Parallel Giant Slalom,20,
-168,Prommegger Andreas,Male,17-02-2019,Pyeongchang,KOR,Austria,World Cup,Parallel Giant Slalom,1,1000.00
-169,Prommegger Andreas,Male,17-02-2019,Pyeongchang,KOR,Austria,Qualification,Parallel Giant Slalom,7,
-170,Prommegger Andreas,Male,16-02-2019,Pyeongchang,KOR,Austria,World Cup,Parallel Giant Slalom,3,600.00
-171,Prommegger Andreas,Male,16-02-2019,Pyeongchang,KOR,Austria,Qualification,Parallel Giant Slalom,11,
-172,Prommegger Andreas,Male,05-02-2019,Park City,USA,Austria,World Championships,Parallel Slalom,6,400.00
-173,Prommegger Andreas,Male,04-02-2019,Park City,USA,Austria,World Championships,Parallel Giant Slalom,16,150.00
-174,Prommegger Andreas,Male,19-01-2019,Rogla,SLO,Austria,World Cup,Parallel GS,7,360.00
-175,Prommegger Andreas,Male,19-01-2019,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,3,
-176,Prommegger Andreas,Male,09-01-2019,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,9,
-177,Prommegger Andreas,Male,08-01-2019,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,32,26.00
-178,Prommegger Andreas,Male,08-01-2019,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,32,
-179,Prommegger Andreas,Male,15-12-2018,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel GS,4,500.00
-180,Prommegger Andreas,Male,15-12-2018,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,4,
-181,Prommegger Andreas,Male,13-12-2018,Carezza,ITA,Austria,World Cup,Parallel GS,4,500.00
-182,Prommegger Andreas,Male,13-12-2018,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,3,
-183,Prommegger Andreas,Male,18-03-2018,Winterberg,GER,Austria,World Cup,Parallel Slalom Team,2,
-184,Prommegger Andreas,Male,17-03-2018,Winterberg,GER,Austria,World Cup,Parallel Slalom,6,400.00
-185,Prommegger Andreas,Male,17-03-2018,Winterberg,GER,Austria,Qualification,Parallel Slalom,7,
-186,Prommegger Andreas,Male,24-02-2018,Phoenix Snow Park,KOR,Austria,Qualification,Parallel GS,11,
-187,Prommegger Andreas,Male,24-02-2018,Phoenix Snow Park,KOR,Austria,Olympic Winter Games,Parallel GS,12,220.00
-188,Prommegger Andreas,Male,04-02-2018,Gerlitzen,AUT,Austria,National Championships,Parallel GS,3,174.00
-189,Prommegger Andreas,Male,28-01-2018,Bansko,BUL,Austria,World Cup,Parallel GS,3,600.00
-190,Prommegger Andreas,Male,28-01-2018,Bansko,BUL,Austria,Qualification,Parallel GS,4,
-191,Prommegger Andreas,Male,26-01-2018,Bansko,BUL,Austria,World Cup,Parallel GS,13,200.00
-192,Prommegger Andreas,Male,26-01-2018,Bansko,BUL,Austria,Qualification,Parallel GS,11,
-193,Prommegger Andreas,Male,21-01-2018,Rogla,SLO,Austria,World Cup,Parallel GS,11,240.00
-194,Prommegger Andreas,Male,21-01-2018,Rogla,SLO,Austria,Qualification,Parallel GS,7,
-195,Prommegger Andreas,Male,20-01-2018,Rogla,SLO,Austria,World Cup,Parallel GS,1,1000.00
-196,Prommegger Andreas,Male,20-01-2018,Rogla,SLO,Austria,Qualification,Parallel GS,3,
-197,Prommegger Andreas,Male,13-01-2018,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,3,
-198,Prommegger Andreas,Male,12-01-2018,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,41,18.20
-199,Prommegger Andreas,Male,12-01-2018,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,41,
-200,Prommegger Andreas,Male,06-01-2018,Lackenhof,AUT,Austria,World Cup,Parallel GS Team,1,
-201,Prommegger Andreas,Male,05-01-2018,Lackenhof,AUT,Austria,World Cup,Parallel GS,13,200.00
-202,Prommegger Andreas,Male,05-01-2018,Lackenhof,AUT,Austria,Qualification,Parallel GS,13,
-203,Prommegger Andreas,Male,16-12-2017,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Slalom,10,260.00
-204,Prommegger Andreas,Male,16-12-2017,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Slalom,3,
-205,Prommegger Andreas,Male,15-12-2017,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel GS,14,180.00
-206,Prommegger Andreas,Male,15-12-2017,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel GS,13,
-207,Prommegger Andreas,Male,14-12-2017,Carezza,ITA,Austria,World Cup,Parallel GS,7,360.00
-208,Prommegger Andreas,Male,14-12-2017,Carezza,ITA,Austria,Qualification,Parallel GS,7,
-209,Prommegger Andreas,Male,19-03-2017,Winterberg,GER,Austria,World Cup,Parallel Slalom Team,2,
-210,Prommegger Andreas,Male,18-03-2017,Winterberg,GER,Austria,Qualification,Parallel Slalom,8,
-211,Prommegger Andreas,Male,18-03-2017,Winterberg,GER,Austria,World Cup,Parallel Slalom,13,200.00
-212,Prommegger Andreas,Male,16-03-2017,Sierra Nevada,ESP,Austria,World Championships,Parallel GS,1,1000.00
-213,Prommegger Andreas,Male,15-03-2017,Sierra Nevada,ESP,Austria,World Championships,Parallel Slalom,1,1000.00
-214,Prommegger Andreas,Male,05-03-2017, Erciyes-Kayseri,TUR,Austria,World Cup,Parallel GS,1,1000.00
-215,Prommegger Andreas,Male,26-02-2017,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,2,288.00
-216,Prommegger Andreas,Male,25-02-2017,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,3,216.00
-217,Prommegger Andreas,Male,12-02-2017,Phoenix Pyeongchang,KOR,Austria,World Cup,Parallel GS,1,1000.00
-218,Prommegger Andreas,Male,05-02-2017,Bansko,BUL,Austria,World Cup,Parallel GS,16,150.00
-219,Prommegger Andreas,Male,03-02-2017,Bansko,BUL,Austria,World Cup,Parallel GS,9,290.00
-220,Prommegger Andreas,Male,28-01-2017,Rogla,SLO,Austria,World Cup,Parallel GS,4,500.00
-221,Prommegger Andreas,Male,14-01-2017,Hochficht,AUT,Austria,National Championships,Parallel GS,2,232.00
-222,Prommegger Andreas,Male,11-01-2017,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,3,
-223,Prommegger Andreas,Male,10-01-2017,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,3,600.00
-224,Prommegger Andreas,Male,17-12-2016,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Slalom,6,400.00
-225,Prommegger Andreas,Male,15-12-2016,Carezza,ITA,Austria,World Cup,Parallel GS,7,360.00
-226,Prommegger Andreas,Male,04-11-2016,Landgraaf,NED,Austria,European Cup,Parallel Slalom,4,180.00
-227,Prommegger Andreas,Male,03-11-2016,Landgraaf,NED,Austria,European Cup,Parallel Slalom,9,104.40
-228,Prommegger Andreas,Male,19-03-2016,Gerlitzen,AUT,Austria,European Cup,Parallel GS,4,250.00
-229,Prommegger Andreas,Male,06-03-2016,Winterberg,GER,Austria,World Cup,Parallel Slalom,8,320.00
-230,Prommegger Andreas,Male,27-02-2016,Kayseri,TUR,Austria,World Cup,Parallel GS,1,1000.00
-231,Prommegger Andreas,Male,06-02-2016,Lachtal,AUT,Austria,National Championships,Parallel Slalom,1,360.00
-232,Prommegger Andreas,Male,30-01-2016,Moscow,RUS,Austria,World Cup,Parallel Slalom,8,320.00
-233,Prommegger Andreas,Male,23-01-2016,Rogla,SLO,Austria,World Cup,Parallel GS,14,180.00
-234,Prommegger Andreas,Male,08-01-2016,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,6,400.00
-235,Prommegger Andreas,Male,19-12-2015,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Slalom,12,220.00
-236,Prommegger Andreas,Male,12-12-2015,Carezza,ITA,Austria,World Cup,Parallel GS,4,500.00
-237,Prommegger Andreas,Male,05-12-2015,Hochfuegen,GER,Austria,European Cup,Parallel GS,2,400.00
-238,Prommegger Andreas,Male,16-10-2015,Landgraaf,NED,Austria,European Cup,Parallel Slalom,11,120.00
-239,Prommegger Andreas,Male,15-10-2015,Landgraaf,NED,Austria,European Cup,Parallel Slalom,17,70.00
-240,Prommegger Andreas,Male,23-01-2015,Lachtal,AUT,Austria,World Championships,Parallel GS,14,180.00
-241,Prommegger Andreas,Male,22-01-2015,Lachtal,AUT,Austria,World Championships,Parallel Slalom,12,220.00
-242,Prommegger Andreas,Male,09-01-2015,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,13,200.00
-243,Prommegger Andreas,Male,18-12-2014,Montafon,AUT,Austria,World Cup,Parallel Slalom,8,320.00
-244,Prommegger Andreas,Male,16-12-2014,Carezza,ITA,Austria,World Cup,Parallel GS,9,290.00
-245,Prommegger Andreas,Male,23-03-2014,Falkert,AUT,Austria,National Championships,Giant Slalom,35,
-246,Prommegger Andreas,Male,22-03-2014,Falkert,AUT,Austria,National Championships,Parallel Slalom,35,
-247,Prommegger Andreas,Male,22-02-2014,Rosa Khutor,RUS,Austria,Olympic Winter Games,Parallel Slalom,13,200.00
-248,Prommegger Andreas,Male,19-02-2014,Rosa Khutor,RUS,Austria,Olympic Winter Games,Parallel GS,8,320.00
-249,Prommegger Andreas,Male,01-02-2014,Sudelfeld,GER,Austria,World Cup,Parallel GS,21,100.00
-250,Prommegger Andreas,Male,18-01-2014,Rogla,SLO,Austria,World Cup,Parallel GS,6,400.00
-251,Prommegger Andreas,Male,12-01-2014,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,17,140.00
-252,Prommegger Andreas,Male,10-01-2014,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,2,800.00
-253,Prommegger Andreas,Male,14-12-2013,Carezza,ITA,Austria,World Cup,Parallel Slalom,10,260.00
-254,Prommegger Andreas,Male,13-12-2013,Carezza,ITA,Austria,World Cup,Parallel GS,13,200.00
-255,Prommegger Andreas,Male,15-11-2013,"Copper Mountain, CO",USA,Austria,Nor-Am Cup,Parallel Slalom,5,225.00
-256,Prommegger Andreas,Male,14-11-2013,"Copper Mountain, CO",USA,Austria,Nor-Am Cup,Parallel Slalom,3,300.00
-257,Prommegger Andreas,Male,12-11-2013,"Copper Mountain, CO",USA,Austria,Nor-Am Cup,Parallel GS,2,400.00
-258,Prommegger Andreas,Male,11-11-2013,"Copper Mountain, CO",USA,Austria,Nor-Am Cup,Parallel GS,4,250.00
-259,Prommegger Andreas,Male,16-03-2013,La Molina,ESP,Austria,World Cup,Parallel GS,1,1000.00
-260,Prommegger Andreas,Male,10-03-2013,Arosa,SUI,Austria,World Cup,Parallel GS,10,260.00
-261,Prommegger Andreas,Male,23-02-2013,Moscow,RUS,Austria,World Cup,Parallel Slalom,11,240.00
-262,Prommegger Andreas,Male,14-02-2013,Sochi,RUS,Austria,World Cup,Parallel GS,1,1000.00
-263,Prommegger Andreas,Male,08-02-2013,Rogla,SLO,Austria,World Cup,Parallel GS,6,400.00
-264,Prommegger Andreas,Male,27-01-2013,Stoneham,CAN,Austria,World Championships,Parallel Slalom,4,500.00
-265,Prommegger Andreas,Male,25-01-2013,Stoneham,CAN,Austria,World Championships,Parallel GS,5,450.00
-266,Prommegger Andreas,Male,20-01-2013,"Le Relais, QC",CAN,Austria,Nor-Am Cup,Parallel Slalom,6,
-267,Prommegger Andreas,Male,19-01-2013,"Le Relais, QC",CAN,Austria,Nor-Am Cup,Parallel GS,5,225.00
-268,Prommegger Andreas,Male,12-01-2013,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,15,160.00
-269,Prommegger Andreas,Male,11-01-2013,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,1,1000.00
-270,Prommegger Andreas,Male,21-12-2012,Carezza,ITA,Austria,World Cup,Parallel GS,1,1000.00
-271,Prommegger Andreas,Male,09-12-2012,Lachtal,AUT,Austria,European Cup,Parallel GS,1,500.00
-272,Prommegger Andreas,Male,08-12-2012,Lachtal,AUT,Austria,European Cup,Parallel GS,9,145.00
-273,Prommegger Andreas,Male,01-04-2012,St. Gallenkirch,AUT,Austria,National Championships,Parallel Slalom,6,144.00
-274,Prommegger Andreas,Male,17-03-2012,Valmalenco,ITA,Austria,World Cup,Parallel GS,6,400.00
-275,Prommegger Andreas,Male,10-03-2012,La Molina,ESP,Austria,World Cup,Parallel GS,1,1000.00
-276,Prommegger Andreas,Male,03-03-2012,Moscow,RUS,Austria,World Cup,Parallel Slalom,3,600.00
-277,Prommegger Andreas,Male,22-02-2012,Stoneham,CAN,Austria,World Cup,Parallel GS,1,1000.00
-278,Prommegger Andreas,Male,18-02-2012,Le Relais,CAN,Austria,Nor-Am Cup,Parallel GS,2,400.00
-279,Prommegger Andreas,Male,28-01-2012,Sudelfeld,GER,Austria,World Cup,Parallel GS,3,600.00
-280,Prommegger Andreas,Male,15-01-2012,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,19,120.00
-281,Prommegger Andreas,Male,13-01-2012,Jauerling,AUT,Austria,World Cup,Parallel Slalom,1,1000.00
-282,Prommegger Andreas,Male,22-12-2011,Carezza,ITA,Austria,World Cup,Parallel Slalom,5,450.00
-283,Prommegger Andreas,Male,21-12-2011,Carezza,ITA,Austria,World Cup,Parallel GS,4,500.00
-284,Prommegger Andreas,Male,15-12-2011,Telluride,USA,Austria,Qualification,Parallel GS,1,
-285,Prommegger Andreas,Male,15-12-2011,Telluride,USA,Austria,World Cup,Parallel GS,2,800.00
-286,Prommegger Andreas,Male,13-10-2011,Landgraaf,NED,Austria,World Cup,Parallel Slalom,3,600.00
-287,Prommegger Andreas,Male,27-03-2011,Arosa,SUI,Austria,World Cup,Parallel GS,1,1000.00
-288,Prommegger Andreas,Male,19-03-2011,Valmalenco,ITA,Austria,World Cup,Parallel GS,2,800.00
-289,Prommegger Andreas,Male,12-03-2011,Radstadt,AUT,Austria,National Championships,Parallel GS,2,288.00
-290,Prommegger Andreas,Male,05-03-2011,Moscow,RUS,Austria,World Cup,Parallel Slalom,11,240.00
-291,Prommegger Andreas,Male,20-02-2011,Stoneham,CAN,Austria,World Cup,Parallel GS,2,800.00
-292,Prommegger Andreas,Male,09-02-2011,Yongpyong,KOR,Austria,World Cup,Parallel Slalom,13,200.00
-293,Prommegger Andreas,Male,22-01-2011,La Molina,ESP,Austria,World Championships,Parallel Slalom,4,500.00
-294,Prommegger Andreas,Male,19-01-2011,La Molina,ESP,Austria,World Championships,Parallel GS,20,110.00
-295,Prommegger Andreas,Male,09-01-2011,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,7,360.00
-296,Prommegger Andreas,Male,20-12-2010,"Steamboad Springs, CO",USA,Austria,Nor-Am Cup,Parallel GS,3,300.00
-297,Prommegger Andreas,Male,16-12-2010,Telluride,USA,Austria,World Cup,Parallel GS,5,450.00
-298,Prommegger Andreas,Male,11-12-2010,Limone Piemonte,ITA,Austria,World Cup,Parallel Slalom,9,290.00
-299,Prommegger Andreas,Male,10-12-2010,Limone Piemonte,ITA,Austria,World Cup,Parallel GS,2,800.00
-300,Prommegger Andreas,Male,10-10-2010,Landgraaf,NED,Austria,World Cup,Parallel Slalom,1,1000.00
-301,Prommegger Andreas,Male,28-03-2010,Gerlitzen,AUT,Austria,National Championships,Parallel GS,1,360.00
-302,Prommegger Andreas,Male,21-03-2010,La Molina,ESP,Austria,World Cup,Parallel GS,3,600.00
-303,Prommegger Andreas,Male,13-03-2010,Valmalenco,ITA,Austria,World Cup,Parallel GS,7,360.00
-304,Prommegger Andreas,Male,06-03-2010,Moscow,RUS,Austria,World Cup,Parallel Slalom,10,260.00
-305,Prommegger Andreas,Male,27-02-2010,Cypress,CAN,Austria,Olympic Winter Games,Parallel GS,9,290.00
-306,Prommegger Andreas,Male,06-02-2010,Sudelfeld,GER,Austria,World Cup,Parallel GS,1,1000.00
-307,Prommegger Andreas,Male,24-01-2010,Stoneham,CAN,Austria,World Cup,Parallel GS,2,800.00
-308,Prommegger Andreas,Male,17-01-2010,Nendaz,SUI,Austria,World Cup,Parallel GS,2,800.00
-309,Prommegger Andreas,Male,06-01-2010,Kreischberg,AUT,Austria,World Cup,Parallel GS,2,800.00
-310,Prommegger Andreas,Male,30-12-2009,Goetschen  Bischofswiesen,GER,Austria,European Cup,Parallel GS,2,400.00
-311,Prommegger Andreas,Male,17-12-2009,Telluride,USA,Austria,World Cup,Parallel GS,9,290.00
-312,Prommegger Andreas,Male,15-12-2009,Telluride,USA,Austria,World Cup,Parallel GS,4,500.00
-313,Prommegger Andreas,Male,28-11-2009,"Hochfuegen, Zillertal (AUT)",GER,Austria,National Championships,Parallel GS,7,129.60
-314,Prommegger Andreas,Male,09-10-2009,Landgraaf,NED,Austria,World Cup,Parallel Slalom,22,90.00
-315,Prommegger Andreas,Male,28-03-2009,Kasberg,AUT,Austria,National Championships,Parallel GS,3,216.00
-316,Prommegger Andreas,Male,22-03-2009,Valmalenco,ITA,Austria,World Cup,Parallel GS,4,500.00
-317,Prommegger Andreas,Male,15-03-2009,La Molina,ESP,Austria,World Cup,Parallel GS,3,600.00
-318,Prommegger Andreas,Male,26-02-2009,Sunday River,USA,Austria,World Cup,Parallel GS,6,400.00
-319,Prommegger Andreas,Male,22-02-2009,Stoneham,CAN,Austria,World Cup,Parallel GS,3,600.00
-320,Prommegger Andreas,Male,31-01-2009,Sudelfeld,GER,Austria,World Cup,Parallel GS,1,1000.00
-321,Prommegger Andreas,Male,21-01-2009,Gangwon,KOR,Austria,World Championships,Parallel Slalom,7,360.00
-322,Prommegger Andreas,Male,20-01-2009,Gangwon,KOR,Austria,World Championships,Parallel GS,6,400.00
-323,Prommegger Andreas,Male,07-01-2009,Kreischberg,AUT,Austria,World Cup,Parallel Slalom,13,200.00
-324,Prommegger Andreas,Male,06-01-2009,Kreischberg,AUT,Austria,World Cup,Parallel GS,18,130.00
-325,Prommegger Andreas,Male,29-12-2008,Bischofswiesen / Götschen,GER,Austria,European Cup,Parallel GS,4,250.00
-326,Prommegger Andreas,Male,21-12-2008,Arosa,SUI,Austria,World Cup,Parallel Slalom,4,500.00
-327,Prommegger Andreas,Male,14-12-2008,Limone Piemonte,ITA,Austria,World Cup,Parallel GS,12,220.00
-328,Prommegger Andreas,Male,30-11-2008,"Hochfügen, Zillertal",AUT,Austria,National Championships,Parallel GS,15,
-329,Prommegger Andreas,Male,10-10-2008,Landgraaf,NED,Austria,World Cup,Parallel Slalom,26,50.00
-330,Prommegger Andreas,Male,30-03-2008,Radstadt,AUT,Austria,National Championships,Giant Slalom,5,162.00
-331,Prommegger Andreas,Male,29-03-2008,Radstadt,AUT,Austria,National Championships,Parallel Slalom,3,216.00
-332,Prommegger Andreas,Male,15-03-2008,Valmalenco,ITA,Austria,World Cup,Parallel GS,4,500.00
-333,Prommegger Andreas,Male,08-03-2008,Stoneham,CAN,Austria,World Cup,Parallel GS,2,800.00
-334,Prommegger Andreas,Male,03-03-2008,"Lake Placid, NY",USA,Austria,World Cup,Parallel GS,18,130.00
-335,Prommegger Andreas,Male,24-02-2008,Gujo-Gifu,JPN,Austria,World Cup,Parallel GS,11,240.00
-336,Prommegger Andreas,Male,17-02-2008,Sungwoo,KOR,Austria,World Cup,Parallel GS,5,450.00
-337,Prommegger Andreas,Male,27-01-2008,Sudelfeld,GER,Austria,European Cup,Parallel GS,3,300.00
-338,Prommegger Andreas,Male,20-01-2008,La Molina,ESP,Austria,World Cup,Parallel Slalom,3,600.00
-339,Prommegger Andreas,Male,19-01-2008,La Molina,ESP,Austria,World Cup,Parallel GS,1,1000.00
-340,Prommegger Andreas,Male,10-01-2008,Bad Gastein,AUT,Austria,European Cup,Parallel Slalom,6,
-341,Prommegger Andreas,Male,09-01-2008,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,4,500.00
-342,Prommegger Andreas,Male,29-12-2007,Götschen/Bischofswiesen,GER,Austria,European Cup,Parallel GS,1,500.00
-343,Prommegger Andreas,Male,16-12-2007,Nendaz,SUI,Austria,World Cup,Parallel Slalom,7,360.00
-344,Prommegger Andreas,Male,08-12-2007,Limone Piemonte,ITA,Austria,World Cup,Parallel GS,12,220.00
-345,Prommegger Andreas,Male,20-10-2007,Soelden,AUT,Austria,World Cup,Parallel GS,16,150.00
-346,Prommegger Andreas,Male,12-10-2007,Landgraaf,NED,Austria,World Cup,Parallel Slalom,17,140.00
-347,Prommegger Andreas,Male,25-03-2007,Haus im Ennstal,AUT,Austria,European Cup,Giant Slalom,68,
-348,Prommegger Andreas,Male,24-03-2007,Haus im Ennstal,AUT,Austria,National Championships,Giant Slalom,1,360.00
-349,Prommegger Andreas,Male,23-03-2007,Haus im Ennstal,AUT,Austria,National Championships,Parallel Slalom,5,162.00
-350,Prommegger Andreas,Male,16-03-2007,Stoneham,CAN,Austria,World Cup,Parallel GS,20,110.00
-351,Prommegger Andreas,Male,25-02-2007,Sungwoo,KOR,Austria,World Cup,Parallel GS,2,800.00
-352,Prommegger Andreas,Male,16-02-2007,Furano,JPN,Austria,World Cup,Parallel GS,17,140.00
-353,Prommegger Andreas,Male,09-02-2007,Shukolovo,RUS,Austria,World Cup,Parallel Slalom,7,360.00
-354,Prommegger Andreas,Male,02-02-2007,Bardonecchia,ITA,Austria,World Cup,Parallel GS,11,240.00
-355,Prommegger Andreas,Male,28-01-2007,Nendaz,SUI,Austria,World Cup,Parallel Slalom,10,260.00
-356,Prommegger Andreas,Male,21-01-2007,Kühtai,AUT,Austria,European Cup,Parallel Slalom,26,22.50
-357,Prommegger Andreas,Male,17-01-2007,Arosa,SUI,Austria,World Championships,Parallel Slalom,4,500.00
-358,Prommegger Andreas,Male,16-01-2007,Arosa,SUI,Austria,World Championships,Parallel GS,5,450.00
-359,Prommegger Andreas,Male,21-12-2006,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,12,220.00
-360,Prommegger Andreas,Male,20-12-2006,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,10,260.00
-361,Prommegger Andreas,Male,13-12-2006,S. Viglio di Marebbe,ITA,Austria,World Cup,Parallel GS,7,360.00
-362,Prommegger Andreas,Male,22-10-2006,Sölden,AUT,Austria,World Cup,Parallel GS,4,500.00
-363,Prommegger Andreas,Male,13-10-2006,Landgraaf,NED,Austria,World Cup,Parallel Slalom,23,80.00
-364,Prommegger Andreas,Male,01-04-2006,Bad Gastein,AUT,Austria,National Championships,Parallel GS,5,162.00
-365,Prommegger Andreas,Male,19-03-2006,Furano,JPN,Austria,World Cup,Parallel GS,2,800.00
-366,Prommegger Andreas,Male,09-03-2006,"Lake Placid, NY",USA,Austria,World Cup,Parallel GS,3,600.00
-367,Prommegger Andreas,Male,03-03-2006,St. Petersburg,RUS,Austria,World Cup,Parallel Slalom,13,200.00
-368,Prommegger Andreas,Male,01-03-2006,Shukolovo,RUS,Austria,World Cup,Parallel Slalom,28,40.00
-369,Prommegger Andreas,Male,22-02-2006,Bardonecchia,ITA,Austria,Olympic Winter Games,Parallel GS,9,290.00
-370,Prommegger Andreas,Male,22-01-2006,Nendaz,SUI,Austria,World Cup,Parallel Slalom,12,220.00
-371,Prommegger Andreas,Male,15-01-2006,Kronplatz,ITA,Austria,World Cup,Parallel GS,13,200.00
-372,Prommegger Andreas,Male,08-01-2006,Kreischberg,AUT,Austria,World Cup,Parallel GS,6,400.00
-373,Prommegger Andreas,Male,29-12-2005,Bischofswiesen,GER,Austria,European Cup,Parallel GS,1,450.00
-374,Prommegger Andreas,Male,18-12-2005,"Le Relais, QC",CAN,Austria,World Cup,Parallel GS,5,450.00
-375,Prommegger Andreas,Male,17-12-2005,"Le Relais, QC",CAN,Austria,World Cup,Parallel GS,2,800.00
-376,Prommegger Andreas,Male,10-12-2005,Haus im Ennstal,AUT,Austria,European Cup,Parallel GS,1,500.00
-377,Prommegger Andreas,Male,16-10-2005,Soelden,AUT,Austria,World Cup,Parallel GS,9,290.00
-378,Prommegger Andreas,Male,07-10-2005,Landgraaf,NED,Austria,World Cup,Parallel Slalom,21,100.00
-379,Prommegger Andreas,Male,31-08-2005,Las Lenas,ARG,Austria,South American Cup,Parallel GS,3,300.00
-380,Prommegger Andreas,Male,16-03-2005,Tandadalen,SWE,Austria,World Cup,Parallel GS,5,450.00
-381,Prommegger Andreas,Male,12-03-2005,Sierra Nevada,ESP,Austria,World Cup,Parallel Slalom,29,36.00
-382,Prommegger Andreas,Male,03-03-2005,"Lake Placid, NY",USA,Austria,World Cup,Parallel GS,10,
-383,Prommegger Andreas,Male,25-02-2005,Sungwoo Resort,KOR,Austria,World Cup,Parallel Slalom,10,260.00
-384,Prommegger Andreas,Male,19-02-2005,Sapporo,JPN,Austria,World Cup,Parallel Slalom,7,360.00
-385,Prommegger Andreas,Male,18-02-2005,Sapporo,JPN,Austria,World Cup,Parallel GS,7,360.00
-386,Prommegger Andreas,Male,09-02-2005,Bardonecchia,ITA,Austria,World Cup,Parallel GS,4,500.00
-387,Prommegger Andreas,Male,06-02-2005,Winterberg,GER,Austria,World Cup,Parallel Slalom,3,600.00
-388,Prommegger Andreas,Male,02-02-2005,Maribor,SLO,Austria,European Cup,Parallel Slalom,5,225.00
-389,Prommegger Andreas,Male,01-02-2005,Maribor,SLO,Austria,World Cup,Parallel GS,7,360.00
-390,Prommegger Andreas,Male,29-01-2005,Kreischberg,AUT,Austria,National Championships,Parallel GS,1,360.00
-391,Prommegger Andreas,Male,19-01-2005,Whistler,CAN,Austria,World Championships,Parallel Slalom,9,290.00
-392,Prommegger Andreas,Male,18-01-2005,Whistler,CAN,Austria,World Championships,Parallel GS,5,450.00
-393,Prommegger Andreas,Male,07-01-2005,St. Petersburg,RUS,Austria,World Cup,Parallel Slalom,15,160.00
-394,Prommegger Andreas,Male,17-12-2004,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,7,360.00
-395,Prommegger Andreas,Male,12-12-2004,Haus im Ennstal,AUT,Austria,FIS,Parallel GS,1,260.00
-396,Prommegger Andreas,Male,11-12-2004,Haus im Ennstal,AUT,Austria,European Cup,Parallel GS,1,500.00
-397,Prommegger Andreas,Male,04-12-2004,Kronplatz,ITA,Austria,World Cup,Parallel GS,8,320.00
-398,Prommegger Andreas,Male,24-10-2004,Landgraaf,NED,Austria,World Cup,Parallel Slalom,22,90.00
-399,Prommegger Andreas,Male,17-10-2004,Soelden,AUT,Austria,World Cup,Parallel GS,12,220.00
-400,Prommegger Andreas,Male,21-03-2004,Bad Gastein,AUT,Austria,National Championships,Parallel Slalom,1,360.00
-401,Prommegger Andreas,Male,20-03-2004,Bad Gastein,AUT,Austria,National Championships,Parallel GS,9,104.40
-402,Prommegger Andreas,Male,14-03-2004,Bardonecchia,ITA,Austria,World Cup,Parallel GS,6,400.00
-403,Prommegger Andreas,Male,05-03-2004,"Mt. Bachelor, OR",USA,Austria,World Cup,Parallel GS,13,200.00
-404,Prommegger Andreas,Male,21-02-2004,Sapporo,JPN,Austria,World Cup,Parallel Slalom,11,240.00
-405,Prommegger Andreas,Male,20-02-2004,Sapporo,JPN,Austria,World Cup,Parallel GS,6,400.00
-406,Prommegger Andreas,Male,08-02-2004,Berchtesgaden,GER,Austria,World Cup,Parallel GS,3,600.00
-407,Prommegger Andreas,Male,07-02-2004,Berchtesgaden,GER,Austria,World Cup,Snowboardcross,77,
-408,Prommegger Andreas,Male,03-02-2004,Maribor,SLO,Austria,World Cup,Parallel GS,7,360.00
-409,Prommegger Andreas,Male,18-01-2004,Sankt Johann/Pongau,AUT,Austria,European Cup,Parallel Slalom,1,500.00
-410,Prommegger Andreas,Male,17-01-2004,Arosa,SUI,Austria,World Cup,Snowboardcross,27,45.00
-411,Prommegger Andreas,Male,16-01-2004,Arosa,SUI,Austria,World Cup,Snowboardcross,58,13.10
-412,Prommegger Andreas,Male,11-01-2004,Alpe d'Huez,FRA,Austria,World Cup,Parallel GS,14,180.00
-413,Prommegger Andreas,Male,10-01-2004,Alpe d'Huez,FRA,Austria,World Cup,Parallel GS,8,320.00
-414,Prommegger Andreas,Male,06-01-2004,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,13,200.00
-415,Prommegger Andreas,Male,05-01-2004,Bad Gastein,AUT,Austria,World Cup,Snowboardcross,27,45.00
-416,Prommegger Andreas,Male,29-12-2003,Berchtesgaden,GER,Austria,European Cup,Parallel GS,1,450.00
-417,Prommegger Andreas,Male,21-12-2003,Stoneham,CAN,Austria,World Cup,Parallel GS,17,140.00
-418,Prommegger Andreas,Male,17-12-2003,Park City,USA,Austria,Nor-Am Cup,Parallel GS,4,250.00
-419,Prommegger Andreas,Male,12-12-2003,"Whistler, BC",CAN,Austria,World Cup,Parallel GS,17,140.00
-420,Prommegger Andreas,Male,11-12-2003,"Whistler, BC",CAN,Austria,World Cup,Snowboardcross,30,32.00
-421,Prommegger Andreas,Male,04-12-2003,Tandadalen,SWE,Austria,World Cup,Parallel GS,21,100.00
-422,Prommegger Andreas,Male,26-10-2003,Landgraaf,NED,Austria,World Cup,Parallel Slalom,13,200.00
-423,Prommegger Andreas,Male,19-10-2003,Soelden,AUT,Austria,World Cup,Parallel Slalom,8,320.00
-424,Prommegger Andreas,Male,18-10-2003,Soelden,AUT,Austria,World Cup,Parallel GS,8,320.00
-425,Prommegger Andreas,Male,12-09-2003,Valle Nevado,CHI,Austria,World Cup,Parallel GS,10,260.00
-426,Prommegger Andreas,Male,30-03-2003,Kuethai,AUT,Austria,FIS,Parallel Slalom,2,176.00
-427,Prommegger Andreas,Male,29-03-2003,Kuethai,AUT,Austria,FIS,Parallel GS,DNF,
-428,Prommegger Andreas,Male,23-03-2003,Mariapfarr|/Fanningsberg,AUT,Austria,National Championships,Parallel Slalom,6,144.00
-429,Prommegger Andreas,Male,21-03-2003,Mariapfarr/Fanningsberg,AUT,Austria,National Championships,Parallel GS,9,104.40
-430,Prommegger Andreas,Male,14-03-2003,Arosa,SUI,Austria,World Cup,Parallel GS,18,130.00
-431,Prommegger Andreas,Male,09-03-2003,Borovets,BUL,Austria,European Cup,Parallel GS,5,81.00
-432,Prommegger Andreas,Male,08-03-2003,Borovets,BUL,Austria,European Cup,Parallel GS,1,180.00
-433,Prommegger Andreas,Male,02-03-2003,Radstadt,AUT,Austria,European Cup,Parallel Slalom,9,92.80
-434,Prommegger Andreas,Male,01-03-2003,Radstadt,AUT,Austria,European Cup,Parallel Slalom,5,130.50
-435,Prommegger Andreas,Male,28-02-2003,Radstadt,AUT,Austria,European Cup,Parallel GS,1,290.00
-436,Prommegger Andreas,Male,23-02-2003,Krynica,POL,Austria,European Cup,Parallel GS,3,156.00
-437,Prommegger Andreas,Male,21-02-2003,Kranjska Gora,SLO,Austria,European Cup,Parallel Slalom,4,250.00
-438,Prommegger Andreas,Male,20-02-2003,Kranjska Gora,SLO,Austria,European Cup,Parallel GS,8,144.00
-439,Prommegger Andreas,Male,09-02-2003,Maribor,SLO,Austria,World Cup,Parallel Slalom,25,60.00
-440,Prommegger Andreas,Male,08-02-2003,Maribor,SLO,Austria,World Cup,Parallel GS,7,360.00
-441,Prommegger Andreas,Male,07-02-2003,Hermagor-Nassfeld,AUT,Austria,FIS,Parallel GS,9,63.80
-442,Prommegger Andreas,Male,05-02-2003,Bad Gastein,AUT,Austria,World Cup,Snowboardcross,35,20.00
-443,Prommegger Andreas,Male,04-02-2003,Bad Gastein,AUT,Austria,World Cup,Snowboardcross,22,90.00
-444,Prommegger Andreas,Male,03-02-2003,Bischofswiesen/Berchtesgaden,GER,Austria,European Cup,Parallel GS,1,500.00
-445,Prommegger Andreas,Male,26-01-2003,Sankt Johann/Pg.,AUT,Austria,European Cup,Parallel Slalom,5,162.00
-446,Prommegger Andreas,Male,25-01-2003,Sankt Johann/Pg.,AUT,Austria,European Cup,Parallel GS,2,232.00
-447,Prommegger Andreas,Male,22-01-2003,Alleghe,ITA,Austria,European Cup,Parallel GS,14,64.80
-448,Prommegger Andreas,Male,21-01-2003,Alleghe,ITA,Austria,European Cup,Parallel Slalom,4,225.00
-449,Prommegger Andreas,Male,18-01-2003,Pozza di Fassa,ITA,Austria,FIS,Parallel GS,14,46.80
-450,Prommegger Andreas,Male,06-01-2003,Bad Gastein,AUT,Austria,FIS,Parallel Slalom,31,7.28
-451,Prommegger Andreas,Male,05-01-2003,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,41,18.20
-452,Prommegger Andreas,Male,22-12-2002,Davos Jakobshorn,SUI,Austria,FIS,Parallel Slalom,17,36.40
-453,Prommegger Andreas,Male,17-12-2002,Klinovec,CZE,Austria,FIS,Parallel Slalom,1,260.00
-454,Prommegger Andreas,Male,16-12-2002,Klinovec,CZE,Austria,FIS,Parallel Slalom,5,117.00
-455,Prommegger Andreas,Male,08-12-2002,Cortina d'Ampezzo,ITA,Austria,FIS,Parallel GS,1,200.00
-456,Prommegger Andreas,Male,30-10-2002,Soelden,AUT,Austria,World Cup,Parallel Slalom,31,28.00
-457,Prommegger Andreas,Male,29-10-2002,Soelden,AUT,Austria,World Cup,Parallel GS,20,110.00
-458,Prommegger Andreas,Male,15-09-2002,Valle Nevado,CHI,Austria,World Cup,Parallel GS,35,20.00
-459,Prommegger Andreas,Male,21-03-2002,Tandadalen,SWE,Austria,World Cup,Parallel Slalom,17,140.00
-460,Prommegger Andreas,Male,20-03-2002,Tandadalen,SWE,Austria,World Cup,Parallel GS,26,50.00
-461,Prommegger Andreas,Male,14-03-2002,Ruka,FIN,Austria,World Cup,Parallel Slalom,23,80.00
-462,Prommegger Andreas,Male,02-03-2002,Sapporo,JPN,Austria,World Cup,Parallel Slalom,29,36.00
-463,Prommegger Andreas,Male,01-03-2002,Sapporo,JPN,Austria,World Cup,Parallel GS,22,90.00
-464,Prommegger Andreas,Male,23-02-2002,Bad Kleinkirchheim,AUT,Austria,National Championships,Parallel Slalom,12,79.20
-465,Prommegger Andreas,Male,22-02-2002,Bad Kleinkirchheim,AUT,Austria,National Championships,Giant Slalom,29,9.36
-466,Prommegger Andreas,Male,22-02-2002,Bischofswiesen,GER,Austria,FIS,Parallel GS,1,220.00
-467,Prommegger Andreas,Male,21-02-2002,Bischofswiesen,GER,Austria,FIS,Parallel GS,1,160.00
-468,Prommegger Andreas,Male,17-02-2002,Mauterndorf,AUT,Austria,European Cup,Parallel GS,7,115.20
-469,Prommegger Andreas,Male,16-02-2002,Mauterndorf,AUT,Austria,European Cup,Parallel Slalom,4,200.00
-470,Prommegger Andreas,Male,10-02-2002,Kranjska Gora,SLO,Austria,European Cup,Parallel Slalom,9,116.00
-471,Prommegger Andreas,Male,09-02-2002,Kranjska Gora,SLO,Austria,European Cup,Parallel GS,6,144.00
-472,Prommegger Andreas,Male,04-02-2002,Maso Corto - Val Senales,ITA,Austria,European Cup,Parallel Slalom,3,216.00
-473,Prommegger Andreas,Male,29-01-2002,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,25,60.00
-474,Prommegger Andreas,Male,24-01-2002,Kreischberg,AUT,Austria,World Cup,Parallel GS,34,22.00
-475,Prommegger Andreas,Male,20-01-2002,Bardonecchia,ITA,Austria,World Cup,Parallel GS,24,70.00
-476,Prommegger Andreas,Male,19-01-2002,Bardonecchia,ITA,Austria,World Cup,Giant Slalom,11,240.00
-477,Prommegger Andreas,Male,13-01-2002,St. Johann/Pongau,AUT,Austria,European Cup,Parallel Slalom,1,360.00
-478,Prommegger Andreas,Male,12-01-2002,Sankt Johann/Pongau,AUT,Austria,European Cup,Giant Slalom,1,130.00
-479,Prommegger Andreas,Male,11-01-2002,Alpe d'Huez,FRA,Austria,World Cup,Parallel GS,18,130.00
-480,Prommegger Andreas,Male,08-01-2002,Arosa,SUI,Austria,World Cup,Parallel GS,14,180.00
-481,Prommegger Andreas,Male,21-12-2001,Bad Gastein,AUT,Austria,European Cup,Parallel Slalom,7,129.60
-482,Prommegger Andreas,Male,15-12-2001,"Mt. St. Anne, QC",CAN,Austria,World Cup,Parallel Slalom,16,150.00
-483,Prommegger Andreas,Male,14-12-2001,"Mt. St. Anne, QC",CAN,Austria,World Cup,Parallel GS,15,160.00
-484,Prommegger Andreas,Male,10-12-2001,"Whistler, BC",CAN,Austria,World Cup,Parallel GS,12,220.00
-485,Prommegger Andreas,Male,02-12-2001,Ischgl,AUT,Austria,World Cup,Parallel GS,18,130.00
-486,Prommegger Andreas,Male,01-12-2001,Ischgl,AUT,Austria,World Cup,Parallel GS,30,32.00
-487,Prommegger Andreas,Male,30-11-2001,Ischgl,AUT,Austria,World Cup,Parallel Slalom,17,140.00
-488,Prommegger Andreas,Male,18-11-2001,Tignes,FRA,Austria,World Cup,Parallel GS,25,60.00
-489,Prommegger Andreas,Male,27-10-2001,Kaunertal,AUT,Austria,European Cup,Parallel GS,68,0.00
-490,Prommegger Andreas,Male,09-09-2001,Valle Nevado,CHI,Austria,World Cup,Parallel Slalom,18,130.00
-491,Prommegger Andreas,Male,08-09-2001,Valle Nevado,CHI,Austria,World Cup,Parallel GS,20,110.00
-492,Prommegger Andreas,Male,31-03-2001,Radstadt,AUT,Austria,National Championships,Parallel Slalom,4,180.00
-493,Prommegger Andreas,Male,30-03-2001,Radstadt,AUT,Austria,National Championships,Parallel GS,4,180.00
-494,Prommegger Andreas,Male,24-03-2001,Tauplitzalm,AUT,Austria,FIS,Giant Slalom,DNF1,0.00
-495,Prommegger Andreas,Male,23-03-2001,Sappada,ITA,Austria,National Championships,Parallel GS,3,156.00
-496,Prommegger Andreas,Male,18-03-2001,Bad Gastein,AUT,Austria,European Cup,Giant Slalom,2,128.00
-497,Prommegger Andreas,Male,15-03-2001,Ruka,FIN,Austria,World Cup,Parallel Slalom,6,400.00
-498,Prommegger Andreas,Male,14-03-2001,Ruka,FIN,Austria,World Cup,Parallel GS,21,100.00
-499,Prommegger Andreas,Male,22-02-2001,Sappada,ITA,Austria,European Cup,Parallel Slalom,9,104.40
-500,Prommegger Andreas,Male,21-02-2001,Sappada,ITA,Austria,European Cup,Giant Slalom,3,96.00
-501,Prommegger Andreas,Male,18-02-2001,St. Johann/Pg.,AUT,Austria,European Cup,Parallel Slalom,1,320.00
-502,Prommegger Andreas,Male,17-02-2001,St. Johann/Pg.,AUT,Austria,European Cup,Giant Slalom,2,128.00
-503,Prommegger Andreas,Male,11-02-2001,Berchtesgaden,GER,Austria,World Cup,Parallel GS,4,500.00
-504,Prommegger Andreas,Male,09-02-2001,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,13,200.00
-505,Prommegger Andreas,Male,06-02-2001,Kranjska Gora,SLO,Austria,National Championships,Parallel SL,54,0.00
-506,Prommegger Andreas,Male,05-02-2001,Kranjska Gora,SLO,Austria,National Championships,Parallel GS,4,180.00
-507,Prommegger Andreas,Male,03-02-2001,Muenchen,GER,Austria,World Cup,Parallel Slalom,20,110.00
-508,Prommegger Andreas,Male,31-01-2001,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,29,36.00
-509,Prommegger Andreas,Male,28-01-2001,Madonna di Campiglio,ITA,Austria,World Championships,Snowboardcross,22,90.00
-510,Prommegger Andreas,Male,26-01-2001,Madonna di Campiglio,ITA,Austria,World Championships,Parallel Slalom,23,80.00
-511,Prommegger Andreas,Male,24-01-2001,Madonna di Campiglio,ITA,Austria,World Championships,Parallel GS,10,260.00
-512,Prommegger Andreas,Male,20-01-2001,Berchtesgaden,GER,Austria,European Cup,Parallel Slalom,9,104.40
-513,Prommegger Andreas,Male,17-01-2001,Kronplatz,ITA,Austria,World Cup,Parallel GS,18,130.00
-514,Prommegger Andreas,Male,14-01-2001,Morzine,FRA,Austria,World Cup,Snowboardcross,30,32.00
-515,Prommegger Andreas,Male,13-01-2001,Morzine-Les Gets,FRA,Austria,World Cup,Snowboardcross,17,140.00
-516,Prommegger Andreas,Male,10-01-2001,Schoenried/Gstaad,SUI,Austria,World Cup,Giant Slalom,25,60.00
-517,Prommegger Andreas,Male,10-01-2001,Schoenried/Gstaad,SUI,Austria,World Cup,Parallel Slalom,13,200.00
-518,Prommegger Andreas,Male,07-01-2001,Kreischberg,AUT,Austria,World Cup,Parallel Slalom,6,400.00
-519,Prommegger Andreas,Male,06-01-2001,Kreischberg,AUT,Austria,World Cup,Snowboardcross,19,120.00
-520,Prommegger Andreas,Male,05-01-2001,Kreischberg,AUT,Austria,World Cup,Snowboardcross,23,80.00
-521,Prommegger Andreas,Male,16-12-2000,"Mt. St. Anne, QC",CAN,Austria,World Cup,Giant Slalom,31,28.00
-522,Prommegger Andreas,Male,12-12-2000,Whistler,CAN,Austria,Continental Cup,Parallel GS,20,39.60
-523,Prommegger Andreas,Male,11-12-2000,"Whistler, BC",CAN,Austria,World Cup,Giant Slalom,28,40.00
-524,Prommegger Andreas,Male,08-12-2000,"Whistler, BC",CAN,Austria,World Cup,Snowboardcross,23,80.00
-525,Prommegger Andreas,Male,03-12-2000,Ischgl,AUT,Austria,World Cup,Parallel GS,22,90.00
-526,Prommegger Andreas,Male,02-12-2000,Ischgl,AUT,Austria,World Cup,Parallel GS,14,180.00
-527,Prommegger Andreas,Male,01-12-2000,Ischgl,AUT,Austria,World Cup,Parallel SL,13,200.00
-528,Prommegger Andreas,Male,19-11-2000,Tignes,FRA,Austria,World Cup,Giant Slalom,14,180.00
-529,Prommegger Andreas,Male,17-11-2000,Tignes,FRA,Austria,World Cup,Snowboard Cross,14,180.00
-530,Prommegger Andreas,Male,01-04-2000,Radstadt,AUT,Austria,National Championships,Parallel Slalom,6,104.00
-531,Prommegger Andreas,Male,31-03-2000,Radstadt,AUT,Austria,National Championships,Giant Slalom,10,67.60
-532,Prommegger Andreas,Male,25-03-2000,San Candido,ITA,Austria,National Championships,Snowboardcross,1,160.00
-533,Prommegger Andreas,Male,24-03-2000,San Candido,ITA,Austria,National Championships,Giant Slalom,5,117.00
-534,Prommegger Andreas,Male,18-03-2000,Livigno,ITA,Austria,World Cup,Giant Slalom,17,140.00
-535,Prommegger Andreas,Male,17-03-2000,Livigno,ITA,Austria,World Cup,Snowboardcross,21,100.00
-536,Prommegger Andreas,Male,16-03-2000,Livigno,ITA,Austria,World Cup,Parallel Slalom,8,320.00
-537,Prommegger Andreas,Male,12-03-2000,San Candido,ITA,Austria,World Cup,Snowboardcross,15,160.00
-538,Prommegger Andreas,Male,10-03-2000,San Candido,ITA,Austria,World Cup,Parallel Slalom,18,130.00
-539,Prommegger Andreas,Male,05-03-2000,"Park City, UT",USA,Austria,World Cup,Giant Slalom,6,400.00
-540,Prommegger Andreas,Male,03-03-2000,"Park City, UT",USA,Austria,World Cup,Snowboardcross,24,70.00
-541,Prommegger Andreas,Male,26-02-2000,Shigakogen,JPN,Austria,World Cup,Giant Slalom,16,150.00
-542,Prommegger Andreas,Male,20-02-2000,Sapporo,JPN,Austria,World Cup,Snowboardcross,41,10.00
-543,Prommegger Andreas,Male,18-02-2000,Sapporo,JPN,Austria,World Cup,Parallel GS,27,45.00
-544,Prommegger Andreas,Male,13-02-2000,Berchtesgaden,GER,Austria,FIS Junior World Championships,Parallel Slalom,1,140.00
-545,Prommegger Andreas,Male,11-02-2000,Berchtesgaden,GER,Austria,FIS Junior World Championships,Parallel GS,1,100.00
-546,Prommegger Andreas,Male,05-02-2000,Ischgl,AUT,Austria,World Cup,Giant Slalom,36,18.00
-547,Prommegger Andreas,Male,04-02-2000,Ischgl,AUT,Austria,World Cup,Parallel Slalom,26,50.00
-548,Prommegger Andreas,Male,27-01-2000,Tandadalen,SWE,Austria,World Cup,Parallel Slalom,8,320.00
-549,Prommegger Andreas,Male,26-01-2000,Tandadalen,SWE,Austria,World Cup,Parallel GS,16,150.00
-550,Prommegger Andreas,Male,22-01-2000,Kreischberg,AUT,Austria,European Cup,Snowboardcross,1,320.00
-551,Prommegger Andreas,Male,20-01-2000,Schoenried/Gstaad,SUI,Austria,World Cup,Snowboardcross,11,240.00
-552,Prommegger Andreas,Male,19-01-2000,Schoenried/Gstaad,SUI,Austria,World Cup,Giant Slalom,17,140.00
-553,Prommegger Andreas,Male,16-01-2000,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,26,50.00
-554,Prommegger Andreas,Male,15-01-2000,Haus i. Ennstal,AUT,Austria,FIS,Parallel Slalom,7,94.00
-555,Prommegger Andreas,Male,14-01-2000,Berchtesgaden,GER,Austria,World Cup,Parallel GS,14,180.00
-556,Prommegger Andreas,Male,12-01-2000,S. Giorgio Boscochiesanuova,ITA,Austria,European Cup,Giant Slalom,12,99.00
-557,Prommegger Andreas,Male,11-01-2000,S. Giorgio Boscochiesanuova,ITA,Austria,European Cup,Parallel Slalom,2,400.00
-558,Prommegger Andreas,Male,09-01-2000,Morzine-Avoriaz,FRA,Austria,World Cup,Parallel Slalom,24,70.00
-559,Prommegger Andreas,Male,08-01-2000,Morzine-Avoriaz,FRA,Austria,World Cup,Snowboardcross,23,80.00
-560,Prommegger Andreas,Male,19-12-1999,Semmering,AUT,Austria,FIS,Slalom,3,78.00
-561,Prommegger Andreas,Male,18-12-1999,Semmering,AUT,Austria,FIS,Giant Slalom,2,192.00
-562,Prommegger Andreas,Male,17-12-1999,Berchtesgaden,GER,Austria,FIS,Parallel Slalom,6,104.00
-563,Prommegger Andreas,Male,04-12-1999,Zell am See/Kaprun,AUT,Austria,World Cup,Parallel GS,40,11.00
-564,Prommegger Andreas,Male,27-03-1999,Racines,ITA,Austria,Continental Cup,Giant Slalom,3,192.00
-565,Prommegger Andreas,Male,20-03-1999,Gaschurn,AUT,Austria,Junior,Giant Slalom,1,110.00
-566,Prommegger Andreas,Male,19-03-1999,Gaschurn,AUT,Austria,Junior,Slalom,1,100.00
-567,Prommegger Andreas,Male,12-03-1999,Olang,ITA,Austria,World Cup,Parallel Slalom,26,50.00
-568,Prommegger Andreas,Male,11-03-1999,Olang,ITA,Austria,World Cup,Parallel GS,22,90.00
-569,Prommegger Andreas,Male,06-03-1999,Kreischberg,AUT,Austria,World Cup,Parallel Slalom,21,100.00
-570,Prommegger Andreas,Male,27-02-1999,Seiser Alm,ITA,Austria,FIS Junior World Championships,Parallel GS,2,176.00
-571,Prommegger Andreas,Male,21-02-1999,Bad Gastein,AUT,Austria,FIS,Giant Slalom,23,11.00
-572,Prommegger Andreas,Male,13-02-1999,Bischofswiesen/Goetschen,GER,Austria,FIS,Giant Slalom,7,94.00
-573,Prommegger Andreas,Male,12-02-1999,Bischofswiesen/Goetschen,GER,Austria,FIS,Giant Slalom,12,44.00
-574,Prommegger Andreas,Male,31-01-1999,Haus im Ennstal,AUT,Austria,Continental Cup,Giant Slalom,9,104.00
-575,Prommegger Andreas,Male,30-01-1999,Haus im Ennstal,AUT,Austria,Continental Cup,Parallel Slalom,6,160.00
-576,Prommegger Andreas,Male,17-01-1999,Berchtesgaden,GER,Austria,World Championships,Snowboardcross,43,8.00
-577,Prommegger Andreas,Male,09-01-1999,Falcade,ITA,Austria,Continental Cup,Giant Slalom,4,180.00
-578,Prommegger Andreas,Male,08-01-1999,Falcade,ITA,Austria,Continental Cup,Parallel Slalom,21,50.00
-579,Prommegger Andreas,Male,03-01-1999,Lofer,AUT,Austria,Junior,Giant Slalom,4,50.00
-580,Prommegger Andreas,Male,02-01-1999,Lofer,AUT,Austria,Junior,Parallel Slalom,1,100.00
-581,Prommegger Andreas,Male,20-12-1998,Sonnenalpe/Nassfeld,AUT,Austria,FIS,Giant Slalom,1,140.00
-582,Prommegger Andreas,Male,19-12-1998,Berchtesgaden,GER,Austria,Continental Cup,Parallel Slalom,15,80.00
-583,Prommegger Andreas,Male,18-12-1998,Berchtesgaden,GER,Austria,Continental Cup,Giant Slalom,4,200.00
-584,Prommegger Andreas,Male,04-12-1998,Ischgl,AUT,Austria,World Cup,Parallel Slalom,30,32.00
-585,Prommegger Andreas,Male,20-03-1998,Bad Gastein,AUT,Austria,National Championships,Giant Slalom,10,68.00
-586,Prommegger Andreas,Male,14-02-1998,Bad Ischl,AUT,Austria,FIS,Slalom,4,130.00
-587,Prommegger Andreas,Male,08-02-1998,Kreischberg,AUT,Austria,Continental Cup,Giant Slalom,3,300.00
-588,Prommegger Andreas,Male,07-02-1998,Kreischberg,AUT,Austria,Continental Cup,Parallel Slalom,16,75.00
-589,Prommegger Andreas,Male,30-01-1998,Sudelfeld,GER,Austria,Continental Cup,Giant Slalom,8,160.00
-590,Prommegger Andreas,Male,24-01-1998,Chamrousse,FRA,Austria,FIS Junior World Championships,Giant Slalom,4,120.00
-591,Prommegger Andreas,Male,13-01-1998,Lienz,AUT,Austria,World Cup,Giant Slalom,36,18.00
-592,Prommegger Andreas,Male,06-01-1998,Mariapfarr,AUT,Austria,FIS,Slalom,4,80.00
-593,Prommegger Andreas,Male,05-01-1998,Mautendorf,AUT,Austria,FIS,Giant Slalom,5,117.00
-594,Prommegger Andreas,Male,04-01-1998,St. Michael/Lungau,AUT,Austria,Junior,Parallel Slalom,2,80.00
-595,Prommegger Andreas,Male,03-01-1998,Mautendorf,AUT,Austria,Junior,Giant Slalom,1,100.00
-596,Prommegger Andreas,Male,21-12-1997,Haus im Ennstal,AUT,Austria,FIS,Giant Slalom,7,94.00
-597,Prommegger Andreas,Male,20-12-1997,Haus im Ennstal,AUT,Austria,FIS,Parallel Slalom,3,156.00
-598,Prommegger Andreas,Male,30-11-1997,Soelden,AUT,Austria,World Cup,Parallel Slalom,19,120.00
-599,Prommegger Andreas,Male,29-11-1997,Soelden,AUT,Austria,World Cup,Giant Slalom,134,0.00
-600,Prommegger Andreas,Male,21-11-1997,Zell am See/Kaprun,AUT,Austria,World Cup,Giant Slalom,124,0.00
-601,Prommegger Andreas,Male,20-11-1997,Zell am See/Kaprun,AUT,Austria,World Cup,Parallel Slalom,34,22.00
-602,Prommegger Andreas,Male,23-03-1997,Bad Gastein,AUT,Austria,FIS,Snowboardcross,12,29.00
-603,Prommegger Andreas,Male,22-03-1997,Bad Gastein,AUT,Austria,FIS,Slalom,10,68.00
-604,Prommegger Andreas,Male,21-03-1997,Bad Gastein,AUT,Austria,FIS,Giant Slalom,28,10.00
-605,Prommegger Andreas,Male,22-02-1997,Corno alle Scale,ITA,Austria,FIS Junior World Championships,Giant Slalom,4,50.00
-606,Prommegger Andreas,Male,12-01-1997,Lenggries,GER,Austria,World Cup,Slalom,41,10.00
-607,Prommegger Andreas,Male,11-01-1997,Lenggries,GER,Austria,World Cup,Giant Slalom,60,0.00
-608,Prommegger Andreas,Male,05-01-1997,St. Johann/Pg.,AUT,Austria,Continental Cup,Giant Slalom,22,40.00
-609,Prommegger Andreas,Male,04-01-1997,St. Johann/Pg.,AUT,Austria,Continental Cup,Slalom,11,86.00
-610,Prommegger Andreas,Male,22-12-1996,Haus im Ennstal,AUT,Austria,FIS,Slalom,15,42.00
-611,Prommegger Andreas,Male,21-12-1996,Haus im Ennstal,AUT,Austria,FIS,Giant Slalom,34,4.00
-612,Prommegger Andreas,Male,31-03-1996,Innerkrems,AUT,Austria,FIS,Giant Slalom,32,9.00
-613,Prommegger Andreas,Male,30-03-1996,Innerkrems,AUT,Austria,FIS,Parallel Slalom,18,40.00
-614,Prommegger Andreas,Male,24-02-1996,Bad Gastein,AUT,Austria,FIS,Giant Slalom,35,6.00
-615,Prommegger Andreas,Male,07-01-1996,Embach,AUT,Austria,FIS,Slalom,25,20.00
-616,Prommegger Andreas,Male,06-01-1996,Embach,AUT,Austria,FIS,Parallel Slalom,36,5.00
-617,Prommegger Andreas,Male,17-12-1995,Kreischberg,AUT,Austria,FIS,Giant Slalom,34,7.00
-618,Prommegger Andreas,Male,16-12-1995,Kreischberg,AUT,Austria,FIS,Parallel Slalom,31,10.00
+0,Prommegger Andreas,Male,08-02-2025,Simonhoehe,AUT,Austria,National Championships,Parallel Giant Slalom,2,232.00
+1,Prommegger Andreas,Male,25-01-2025,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,14,
+2,Prommegger Andreas,Male,25-01-2025,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,15,160.00
+3,Prommegger Andreas,Male,19-01-2025,Bansko,BUL,Austria,Qualification,Parallel Giant Slalom,10,
+4,Prommegger Andreas,Male,19-01-2025,Bansko,BUL,Austria,World Cup,Parallel Giant Slalom,8,320.00
+5,Prommegger Andreas,Male,18-01-2025,Bansko,BUL,Austria,Qualification,Parallel Giant Slalom,3,
+6,Prommegger Andreas,Male,18-01-2025,Bansko,BUL,Austria,World Cup,Parallel Giant Slalom,1,1000.00
+7,Prommegger Andreas,Male,15-01-2025,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,1,
+8,Prommegger Andreas,Male,14-01-2025,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,2,
+9,Prommegger Andreas,Male,14-01-2025,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,2,800.00
+10,Prommegger Andreas,Male,11-01-2025,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,8,
+11,Prommegger Andreas,Male,11-01-2025,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,3,600.00
+12,Prommegger Andreas,Male,21-12-2024,Davos,SUI,Austria,Qualification,Parallel Slalom,7,
+13,Prommegger Andreas,Male,21-12-2024,Davos,SUI,Austria,World Cup,Parallel Slalom,6,400.00
+14,Prommegger Andreas,Male,14-12-2024,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,8,
+15,Prommegger Andreas,Male,14-12-2024,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,13,200.00
+16,Prommegger Andreas,Male,12-12-2024,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,15,
+17,Prommegger Andreas,Male,12-12-2024,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,15,160.00
+18,Prommegger Andreas,Male,08-12-2024,Yanqing (NASC),CHN,Austria,World Cup,Parallel Slalom,3,600.00
+19,Prommegger Andreas,Male,08-12-2024,Yanqing (NASC),CHN,Austria,Qualification,Parallel Slalom,7,
+20,Prommegger Andreas,Male,07-12-2024,Yanqing (NASC),CHN,Austria,World Cup,Parallel Giant Slalom,4,500.00
+21,Prommegger Andreas,Male,07-12-2024,Yanqing (NASC),CHN,Austria,Qualification,Parallel Giant Slalom,5,
+22,Prommegger Andreas,Male,01-12-2024,Mylin,CHN,Austria,World Cup,Parallel Slalom,11,240.00
+23,Prommegger Andreas,Male,01-12-2024,Mylin,CHN,Austria,Qualification,Parallel Slalom,7,
+24,Prommegger Andreas,Male,30-11-2024,Mylin,CHN,Austria,World Cup,Parallel Giant Slalom,7,360.00
+25,Prommegger Andreas,Male,30-11-2024,Mylin,CHN,Austria,Qualification,Parallel Giant Slalom,12,
+26,Prommegger Andreas,Male,17-03-2024,St. Moritz,SUI,Austria,European Cup,Parallel Slalom,5,162.00
+27,Prommegger Andreas,Male,16-03-2024,St. Moritz,SUI,Austria,European Cup,Parallel Giant Slalom,9,104.40
+28,Prommegger Andreas,Male,10-03-2024,Winterberg,GER,Austria,World Cup,Parallel Slalom Team,5,
+29,Prommegger Andreas,Male,09-03-2024,Winterberg,GER,Austria,Qualification,Parallel Slalom,7,
+30,Prommegger Andreas,Male,09-03-2024,Winterberg,GER,Austria,World Cup,Parallel Slalom,2,800.00
+31,Prommegger Andreas,Male,25-02-2024,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,17,
+32,Prommegger Andreas,Male,25-02-2024,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,17,140.00
+33,Prommegger Andreas,Male,24-02-2024,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,9,
+34,Prommegger Andreas,Male,24-02-2024,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,1,1000.00
+35,Prommegger Andreas,Male,28-01-2024,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom Team,1,
+36,Prommegger Andreas,Male,27-01-2024,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,10,
+37,Prommegger Andreas,Male,27-01-2024,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom,12,220.00
+38,Prommegger Andreas,Male,25-01-2024,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,4,
+39,Prommegger Andreas,Male,25-01-2024,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,9,290.00
+40,Prommegger Andreas,Male,21-01-2024,Pamporovo,BUL,Austria,Qualification,Parallel Slalom,7,
+41,Prommegger Andreas,Male,21-01-2024,Pamporovo,BUL,Austria,World Cup,Parallel Slalom,2,800.00
+42,Prommegger Andreas,Male,20-01-2024,Pamporovo,BUL,Austria,Qualification,Parallel Slalom,6,
+43,Prommegger Andreas,Male,20-01-2024,Pamporovo,BUL,Austria,World Cup,Parallel Slalom,5,450.00
+44,Prommegger Andreas,Male,17-01-2024,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,1,
+45,Prommegger Andreas,Male,16-01-2024,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,19,
+46,Prommegger Andreas,Male,16-01-2024,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,19,120.00
+47,Prommegger Andreas,Male,13-01-2024,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,11,
+48,Prommegger Andreas,Male,13-01-2024,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,3,600.00
+49,Prommegger Andreas,Male,23-12-2023,Davos,SUI,Austria,Qualification,Parallel Slalom,17,
+50,Prommegger Andreas,Male,23-12-2023,Davos ,SUI,Austria,World Cup,Parallel Slalom,17,140.00
+51,Prommegger Andreas,Male,16-12-2023,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,7,
+52,Prommegger Andreas,Male,16-12-2023,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,2,800.00
+53,Prommegger Andreas,Male,14-12-2023,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,9,
+54,Prommegger Andreas,Male,14-12-2023,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,11,240.00
+55,Prommegger Andreas,Male,01-04-2023,Haus im Ennstal,AUT,Austria,National Championships,Parallel Giant Slalom,2,232.00
+56,Prommegger Andreas,Male,19-03-2023,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom Team,9,
+57,Prommegger Andreas,Male,18-03-2023,Berchtesgaden,GER,Austria,Qualification,Parallel Slalom,12,
+58,Prommegger Andreas,Male,18-03-2023,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,8,320.00
+59,Prommegger Andreas,Male,15-03-2023,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,9,290.00
+60,Prommegger Andreas,Male,15-03-2023,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,4,
+61,Prommegger Andreas,Male,22-02-2023,Bakuriani,GEO,Austria,World Championships,Parallel Slalom Team,2,
+62,Prommegger Andreas,Male,21-02-2023,Bakuriani,GEO,Austria,Qualification,Parallel Slalom,1,
+63,Prommegger Andreas,Male,21-02-2023,Bakuriani,GEO,Austria,World Championships,Parallel Slalom,1,1000.00
+64,Prommegger Andreas,Male,19-02-2023,Bakuriani,GEO,Austria,Qualification,Parallel Giant Slalom,5,
+65,Prommegger Andreas,Male,19-02-2023,Bakuriani,GEO,Austria,World Championships,Parallel Giant Slalom,6,400.00
+66,Prommegger Andreas,Male,27-01-2023,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,9,
+67,Prommegger Andreas,Male,27-01-2023,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,12,220.00
+68,Prommegger Andreas,Male,26-01-2023,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,2,
+69,Prommegger Andreas,Male,26-01-2023,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,5,450.00
+70,Prommegger Andreas,Male,22-01-2023,Bansko,BUL,Austria,Qualification,Parallel Slalom,20,
+71,Prommegger Andreas,Male,22-01-2023,Bansko,BUL,Austria,World Cup,Parallel Slalom,20,110.00
+72,Prommegger Andreas,Male,21-01-2023,Bansko,BUL,Austria,Qualification,Parallel Slalom,12,
+73,Prommegger Andreas,Male,21-01-2023,Bansko,BUL,Austria,World Cup,Parallel Slalom,8,320.00
+74,Prommegger Andreas,Male,14-01-2023,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,2,
+75,Prommegger Andreas,Male,14-01-2023,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,3,600.00
+76,Prommegger Andreas,Male,11-01-2023,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,1,
+77,Prommegger Andreas,Male,10-01-2023,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,10,
+78,Prommegger Andreas,Male,10-01-2023,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,7,360.00
+79,Prommegger Andreas,Male,17-12-2022,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,3,
+80,Prommegger Andreas,Male,17-12-2022,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,2,800.00
+81,Prommegger Andreas,Male,15-12-2022,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,12,
+82,Prommegger Andreas,Male,15-12-2022,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,1,1000.00
+83,Prommegger Andreas,Male,11-12-2022,Winterberg,GER,Austria,World Cup,Parallel Slalom,14,180.00
+84,Prommegger Andreas,Male,10-12-2022,Winterberg,GER,Austria,Qualification,Parallel Slalom,13,
+85,Prommegger Andreas,Male,10-12-2022,Winterberg,GER,Austria,World Cup,Parallel Slalom Team,2,
+86,Prommegger Andreas,Male,26-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Giant Slalom,1,290.00
+87,Prommegger Andreas,Male,19-03-2022,Berchtesgaden,GER,Austria,Qualification,Parallel Slalom,6,
+88,Prommegger Andreas,Male,19-03-2022,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,1,1000.00
+89,Prommegger Andreas,Male,16-03-2022,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,14,
+90,Prommegger Andreas,Male,16-03-2022,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,8,320.00
+91,Prommegger Andreas,Male,12-03-2022,Piancavallo,ITA,Austria,Qualification,Parallel Slalom,4,
+92,Prommegger Andreas,Male,12-03-2022,Piancavallo,ITA,Austria,World Cup,Parallel Slalom,10,260.00
+93,Prommegger Andreas,Male,08-02-2022,Beijing,CHN,Austria,Qualification,Parallel Giant Slalom,3,
+94,Prommegger Andreas,Male,08-02-2022,Beijing,CHN,Austria,Olympic Winter Games,Parallel Giant Slalom,6,400.00
+95,Prommegger Andreas,Male,15-01-2022,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom Team,14,
+96,Prommegger Andreas,Male,14-01-2022,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom,21,100.00
+97,Prommegger Andreas,Male,14-01-2022,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,21,
+98,Prommegger Andreas,Male,12-01-2022,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,7,
+99,Prommegger Andreas,Male,11-01-2022,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,5,
+100,Prommegger Andreas,Male,11-01-2022,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,6,400.00
+101,Prommegger Andreas,Male,08-01-2022,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,12,
+102,Prommegger Andreas,Male,08-01-2022,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,7,360.00
+103,Prommegger Andreas,Male,18-12-2021,Cortina d Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,21,
+104,Prommegger Andreas,Male,18-12-2021,Cortina d Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,21,100.00
+105,Prommegger Andreas,Male,16-12-2021,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,16,
+106,Prommegger Andreas,Male,16-12-2021,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,16,150.00
+107,Prommegger Andreas,Male,12-12-2021,Bannoye,RUS,Austria,Qualification,Parallel Slalom,5,
+108,Prommegger Andreas,Male,12-12-2021,Bannoye,RUS,Austria,World Cup,Parallel Slalom,1,1000.00
+109,Prommegger Andreas,Male,11-12-2021,Bannoye,RUS,Austria,Qualification,Parallel Giant Slalom,17,
+110,Prommegger Andreas,Male,11-12-2021,Bannoye,RUS,Austria,World Cup,Parallel Giant Slalom,17,140.00
+111,Prommegger Andreas,Male,21-03-2021,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom Team,4,
+112,Prommegger Andreas,Male,20-03-2021,Berchtesgaden,GER,Austria,Qualification,Parallel Slalom,5,
+113,Prommegger Andreas,Male,20-03-2021,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,6,400.00
+114,Prommegger Andreas,Male,06-03-2021,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,19,
+115,Prommegger Andreas,Male,06-03-2021,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,19,120.00
+116,Prommegger Andreas,Male,02-03-2021,Rogla,SLO,Austria,World Championships,Parallel Slalom,2,800.00
+117,Prommegger Andreas,Male,02-03-2021,Rogla,SLO,Austria,Qualification,Parallel Slalom,3,
+118,Prommegger Andreas,Male,01-03-2021,Rogla,SLO,Austria,World Championships,Parallel Giant Slalom,16,150.00
+119,Prommegger Andreas,Male,01-03-2021,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,15,
+120,Prommegger Andreas,Male,20-02-2021,Gerlitzen,AUT,Austria,National Championships,Parallel Giant Slalom,1,290.00
+121,Prommegger Andreas,Male,07-02-2021,Bannoye,RUS,Austria,Qualification,Parallel Slalom,4,
+122,Prommegger Andreas,Male,07-02-2021,Bannoye,RUS,Austria,World Cup,Parallel Slalom,5,450.00
+123,Prommegger Andreas,Male,06-02-2021,Baonoye,RUS,Austria,Qualification,Parallel Giant Slalom,24,
+124,Prommegger Andreas,Male,06-02-2021,Bannoye,RUS,Austria,World Cup,Parallel Giant Slalom,24,70.00
+125,Prommegger Andreas,Male,30-01-2021,Moscow,RUS,Austria,Qualification,Parallel Slalom,17,
+126,Prommegger Andreas,Male,30-01-2021,Moscow,RUS,Austria,World Cup,Parallel Slalom,17,140.00
+127,Prommegger Andreas,Male,13-01-2021,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,1,
+128,Prommegger Andreas,Male,12-01-2021,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,11,
+129,Prommegger Andreas,Male,12-01-2021,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,3,600.00
+130,Prommegger Andreas,Male,09-01-2021,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,3,
+131,Prommegger Andreas,Male,09-01-2021,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,5,450.00
+132,Prommegger Andreas,Male,17-12-2020,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,5,
+133,Prommegger Andreas,Male,17-12-2020,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,2,800.00
+134,Prommegger Andreas,Male,12-12-2020,Cortina d Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,9,
+135,Prommegger Andreas,Male,12-12-2020,Cortina d Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,7,360.00
+136,Prommegger Andreas,Male,01-03-2020,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,15,160.00
+137,Prommegger Andreas,Male,01-03-2020,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,9,
+138,Prommegger Andreas,Male,29-02-2020,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,5,450.00
+139,Prommegger Andreas,Male,29-02-2020,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,7,
+140,Prommegger Andreas,Male,22-02-2020,Pyeongchang,KOR,Austria,World Cup,Parallel Giant Slalom,DSQ,
+141,Prommegger Andreas,Male,22-02-2020,Pyeongchang,KOR,Austria,Qualification,Parallel Giant Slalom,DSQ,
+142,Prommegger Andreas,Male,26-01-2020,Piancavallo,ITA,Austria,World Cup,Parallel Slalom Team,3,
+143,Prommegger Andreas,Male,25-01-2020,Piancavallo,ITA,Austria,World Cup,Parallel Slalom,1,1000.00
+144,Prommegger Andreas,Male,25-01-2020,Piancavallo,ITA,Austria,Qualification,Parallel Slalom,3,
+145,Prommegger Andreas,Male,18-01-2020,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,14,180.00
+146,Prommegger Andreas,Male,18-01-2020,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,12,
+147,Prommegger Andreas,Male,15-01-2020,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,2,
+148,Prommegger Andreas,Male,14-01-2020,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,10,260.00
+149,Prommegger Andreas,Male,14-01-2020,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,3,
+150,Prommegger Andreas,Male,11-01-2020,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,11,240.00
+151,Prommegger Andreas,Male,11-01-2020,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,9,
+152,Prommegger Andreas,Male,19-12-2019,Carezza,ITA,Austria,Open,Parallel Giant Slalom,19,120.00
+153,Prommegger Andreas,Male,14-12-2019,Cortina d Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,12,220.00
+154,Prommegger Andreas,Male,14-12-2019,Cortina d Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,8,
+155,Prommegger Andreas,Male,08-12-2019,Bannoye,RUS,Austria,World Cup,Parallel Giant Slalom,24,70.00
+156,Prommegger Andreas,Male,08-12-2019,Bannoye,RUS,Austria,Qualification,Parallel Giant Slalom,24,
+157,Prommegger Andreas,Male,07-12-2019,Bannoye,RUS,Austria,World Cup,Parallel Slalom,1,1000.00
+158,Prommegger Andreas,Male,07-12-2019,Bannoye,RUS,Austria,Qualification,Parallel Slalom,8,
+159,Prommegger Andreas,Male,30-03-2019,Radstadt,AUT,Austria,National Championships,Parallel Slalom,2,232.00
+160,Prommegger Andreas,Male,24-03-2019,Winterberg,GER,Austria,World Cup,Parallel Slalom Team,11,
+161,Prommegger Andreas,Male,23-03-2019,Winterberg,GER,Austria,World Cup,Parallel Slalom,11,240.00
+162,Prommegger Andreas,Male,23-03-2019,Winterberg,GER,Austria,Qualification,Parallel Slalom,9,
+163,Prommegger Andreas,Male,09-03-2019,Scuol,SUI,Austria,World Cup,Parallel GS,DSQ,
+164,Prommegger Andreas,Male,09-03-2019,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,DSQ,
+165,Prommegger Andreas,Male,24-02-2019,Secret Garden,CHN,Austria,World Cup,Parallel Slalom,12,220.00
+166,Prommegger Andreas,Male,24-02-2019,Secret Garden,CHN,Austria,Qualification,Parallel Slalom,11,
+167,Prommegger Andreas,Male,23-02-2019,Secret Garden,CHN,Austria,World Cup,Parallel Giant Slalom,20,110.00
+168,Prommegger Andreas,Male,23-02-2019,Secret Garden,CHN,Austria,Qualification,Parallel Giant Slalom,20,
+169,Prommegger Andreas,Male,17-02-2019,Pyeongchang,KOR,Austria,World Cup,Parallel Giant Slalom,1,1000.00
+170,Prommegger Andreas,Male,17-02-2019,Pyeongchang,KOR,Austria,Qualification,Parallel Giant Slalom,7,
+171,Prommegger Andreas,Male,16-02-2019,Pyeongchang,KOR,Austria,World Cup,Parallel Giant Slalom,3,600.00
+172,Prommegger Andreas,Male,16-02-2019,Pyeongchang,KOR,Austria,Qualification,Parallel Giant Slalom,11,
+173,Prommegger Andreas,Male,05-02-2019,Park City,USA,Austria,World Championships,Parallel Slalom,6,400.00
+174,Prommegger Andreas,Male,04-02-2019,Park City,USA,Austria,World Championships,Parallel Giant Slalom,16,150.00
+175,Prommegger Andreas,Male,19-01-2019,Rogla,SLO,Austria,World Cup,Parallel GS,7,360.00
+176,Prommegger Andreas,Male,19-01-2019,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,3,
+177,Prommegger Andreas,Male,09-01-2019,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,9,
+178,Prommegger Andreas,Male,08-01-2019,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,32,26.00
+179,Prommegger Andreas,Male,08-01-2019,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,32,
+180,Prommegger Andreas,Male,15-12-2018,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel GS,4,500.00
+181,Prommegger Andreas,Male,15-12-2018,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,4,
+182,Prommegger Andreas,Male,13-12-2018,Carezza,ITA,Austria,World Cup,Parallel GS,4,500.00
+183,Prommegger Andreas,Male,13-12-2018,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,3,
+184,Prommegger Andreas,Male,18-03-2018,Winterberg,GER,Austria,World Cup,Parallel Slalom Team,2,
+185,Prommegger Andreas,Male,17-03-2018,Winterberg,GER,Austria,World Cup,Parallel Slalom,6,400.00
+186,Prommegger Andreas,Male,17-03-2018,Winterberg,GER,Austria,Qualification,Parallel Slalom,7,
+187,Prommegger Andreas,Male,24-02-2018,Phoenix Snow Park,KOR,Austria,Qualification,Parallel GS,11,
+188,Prommegger Andreas,Male,24-02-2018,Phoenix Snow Park,KOR,Austria,Olympic Winter Games,Parallel GS,12,220.00
+189,Prommegger Andreas,Male,04-02-2018,Gerlitzen,AUT,Austria,National Championships,Parallel GS,3,174.00
+190,Prommegger Andreas,Male,28-01-2018,Bansko,BUL,Austria,World Cup,Parallel GS,3,600.00
+191,Prommegger Andreas,Male,28-01-2018,Bansko,BUL,Austria,Qualification,Parallel GS,4,
+192,Prommegger Andreas,Male,26-01-2018,Bansko,BUL,Austria,World Cup,Parallel GS,13,200.00
+193,Prommegger Andreas,Male,26-01-2018,Bansko,BUL,Austria,Qualification,Parallel GS,11,
+194,Prommegger Andreas,Male,21-01-2018,Rogla,SLO,Austria,World Cup,Parallel GS,11,240.00
+195,Prommegger Andreas,Male,21-01-2018,Rogla,SLO,Austria,Qualification,Parallel GS,7,
+196,Prommegger Andreas,Male,20-01-2018,Rogla,SLO,Austria,World Cup,Parallel GS,1,1000.00
+197,Prommegger Andreas,Male,20-01-2018,Rogla,SLO,Austria,Qualification,Parallel GS,3,
+198,Prommegger Andreas,Male,13-01-2018,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,3,
+199,Prommegger Andreas,Male,12-01-2018,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,41,18.20
+200,Prommegger Andreas,Male,12-01-2018,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,41,
+201,Prommegger Andreas,Male,06-01-2018,Lackenhof,AUT,Austria,World Cup,Parallel GS Team,1,
+202,Prommegger Andreas,Male,05-01-2018,Lackenhof,AUT,Austria,World Cup,Parallel GS,13,200.00
+203,Prommegger Andreas,Male,05-01-2018,Lackenhof,AUT,Austria,Qualification,Parallel GS,13,
+204,Prommegger Andreas,Male,16-12-2017,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Slalom,10,260.00
+205,Prommegger Andreas,Male,16-12-2017,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Slalom,3,
+206,Prommegger Andreas,Male,15-12-2017,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel GS,14,180.00
+207,Prommegger Andreas,Male,15-12-2017,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel GS,13,
+208,Prommegger Andreas,Male,14-12-2017,Carezza,ITA,Austria,World Cup,Parallel GS,7,360.00
+209,Prommegger Andreas,Male,14-12-2017,Carezza,ITA,Austria,Qualification,Parallel GS,7,
+210,Prommegger Andreas,Male,19-03-2017,Winterberg,GER,Austria,World Cup,Parallel Slalom Team,2,
+211,Prommegger Andreas,Male,18-03-2017,Winterberg,GER,Austria,Qualification,Parallel Slalom,8,
+212,Prommegger Andreas,Male,18-03-2017,Winterberg,GER,Austria,World Cup,Parallel Slalom,13,200.00
+213,Prommegger Andreas,Male,16-03-2017,Sierra Nevada,ESP,Austria,World Championships,Parallel GS,1,1000.00
+214,Prommegger Andreas,Male,15-03-2017,Sierra Nevada,ESP,Austria,World Championships,Parallel Slalom,1,1000.00
+215,Prommegger Andreas,Male,05-03-2017, Erciyes-Kayseri,TUR,Austria,World Cup,Parallel GS,1,1000.00
+216,Prommegger Andreas,Male,26-02-2017,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,2,288.00
+217,Prommegger Andreas,Male,25-02-2017,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,3,216.00
+218,Prommegger Andreas,Male,12-02-2017,Phoenix Pyeongchang,KOR,Austria,World Cup,Parallel GS,1,1000.00
+219,Prommegger Andreas,Male,05-02-2017,Bansko,BUL,Austria,World Cup,Parallel GS,16,150.00
+220,Prommegger Andreas,Male,03-02-2017,Bansko,BUL,Austria,World Cup,Parallel GS,9,290.00
+221,Prommegger Andreas,Male,28-01-2017,Rogla,SLO,Austria,World Cup,Parallel GS,4,500.00
+222,Prommegger Andreas,Male,14-01-2017,Hochficht,AUT,Austria,National Championships,Parallel GS,2,232.00
+223,Prommegger Andreas,Male,11-01-2017,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,3,
+224,Prommegger Andreas,Male,10-01-2017,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,3,600.00
+225,Prommegger Andreas,Male,17-12-2016,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Slalom,6,400.00
+226,Prommegger Andreas,Male,15-12-2016,Carezza,ITA,Austria,World Cup,Parallel GS,7,360.00
+227,Prommegger Andreas,Male,04-11-2016,Landgraaf,NED,Austria,European Cup,Parallel Slalom,4,180.00
+228,Prommegger Andreas,Male,03-11-2016,Landgraaf,NED,Austria,European Cup,Parallel Slalom,9,104.40
+229,Prommegger Andreas,Male,19-03-2016,Gerlitzen,AUT,Austria,European Cup,Parallel GS,4,250.00
+230,Prommegger Andreas,Male,06-03-2016,Winterberg,GER,Austria,World Cup,Parallel Slalom,8,320.00
+231,Prommegger Andreas,Male,27-02-2016,Kayseri,TUR,Austria,World Cup,Parallel GS,1,1000.00
+232,Prommegger Andreas,Male,06-02-2016,Lachtal,AUT,Austria,National Championships,Parallel Slalom,1,360.00
+233,Prommegger Andreas,Male,30-01-2016,Moscow,RUS,Austria,World Cup,Parallel Slalom,8,320.00
+234,Prommegger Andreas,Male,23-01-2016,Rogla,SLO,Austria,World Cup,Parallel GS,14,180.00
+235,Prommegger Andreas,Male,08-01-2016,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,6,400.00
+236,Prommegger Andreas,Male,19-12-2015,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Slalom,12,220.00
+237,Prommegger Andreas,Male,12-12-2015,Carezza,ITA,Austria,World Cup,Parallel GS,4,500.00
+238,Prommegger Andreas,Male,05-12-2015,Hochfuegen,GER,Austria,European Cup,Parallel GS,2,400.00
+239,Prommegger Andreas,Male,16-10-2015,Landgraaf,NED,Austria,European Cup,Parallel Slalom,11,120.00
+240,Prommegger Andreas,Male,15-10-2015,Landgraaf,NED,Austria,European Cup,Parallel Slalom,17,70.00
+241,Prommegger Andreas,Male,23-01-2015,Lachtal,AUT,Austria,World Championships,Parallel GS,14,180.00
+242,Prommegger Andreas,Male,22-01-2015,Lachtal,AUT,Austria,World Championships,Parallel Slalom,12,220.00
+243,Prommegger Andreas,Male,09-01-2015,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,13,200.00
+244,Prommegger Andreas,Male,18-12-2014,Montafon,AUT,Austria,World Cup,Parallel Slalom,8,320.00
+245,Prommegger Andreas,Male,16-12-2014,Carezza,ITA,Austria,World Cup,Parallel GS,9,290.00
+246,Prommegger Andreas,Male,23-03-2014,Falkert,AUT,Austria,National Championships,Giant Slalom,35,
+247,Prommegger Andreas,Male,22-03-2014,Falkert,AUT,Austria,National Championships,Parallel Slalom,35,
+248,Prommegger Andreas,Male,22-02-2014,Rosa Khutor,RUS,Austria,Olympic Winter Games,Parallel Slalom,13,200.00
+249,Prommegger Andreas,Male,19-02-2014,Rosa Khutor,RUS,Austria,Olympic Winter Games,Parallel GS,8,320.00
+250,Prommegger Andreas,Male,01-02-2014,Sudelfeld,GER,Austria,World Cup,Parallel GS,21,100.00
+251,Prommegger Andreas,Male,18-01-2014,Rogla,SLO,Austria,World Cup,Parallel GS,6,400.00
+252,Prommegger Andreas,Male,12-01-2014,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,17,140.00
+253,Prommegger Andreas,Male,10-01-2014,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,2,800.00
+254,Prommegger Andreas,Male,14-12-2013,Carezza,ITA,Austria,World Cup,Parallel Slalom,10,260.00
+255,Prommegger Andreas,Male,13-12-2013,Carezza,ITA,Austria,World Cup,Parallel GS,13,200.00
+256,Prommegger Andreas,Male,15-11-2013,"Copper Mountain, CO",USA,Austria,Nor-Am Cup,Parallel Slalom,5,225.00
+257,Prommegger Andreas,Male,14-11-2013,"Copper Mountain, CO",USA,Austria,Nor-Am Cup,Parallel Slalom,3,300.00
+258,Prommegger Andreas,Male,12-11-2013,"Copper Mountain, CO",USA,Austria,Nor-Am Cup,Parallel GS,2,400.00
+259,Prommegger Andreas,Male,11-11-2013,"Copper Mountain, CO",USA,Austria,Nor-Am Cup,Parallel GS,4,250.00
+260,Prommegger Andreas,Male,16-03-2013,La Molina,ESP,Austria,World Cup,Parallel GS,1,1000.00
+261,Prommegger Andreas,Male,10-03-2013,Arosa,SUI,Austria,World Cup,Parallel GS,10,260.00
+262,Prommegger Andreas,Male,23-02-2013,Moscow,RUS,Austria,World Cup,Parallel Slalom,11,240.00
+263,Prommegger Andreas,Male,14-02-2013,Sochi,RUS,Austria,World Cup,Parallel GS,1,1000.00
+264,Prommegger Andreas,Male,08-02-2013,Rogla,SLO,Austria,World Cup,Parallel GS,6,400.00
+265,Prommegger Andreas,Male,27-01-2013,Stoneham,CAN,Austria,World Championships,Parallel Slalom,4,500.00
+266,Prommegger Andreas,Male,25-01-2013,Stoneham,CAN,Austria,World Championships,Parallel GS,5,450.00
+267,Prommegger Andreas,Male,20-01-2013,"Le Relais, QC",CAN,Austria,Nor-Am Cup,Parallel Slalom,6,
+268,Prommegger Andreas,Male,19-01-2013,"Le Relais, QC",CAN,Austria,Nor-Am Cup,Parallel GS,5,225.00
+269,Prommegger Andreas,Male,12-01-2013,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,15,160.00
+270,Prommegger Andreas,Male,11-01-2013,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,1,1000.00
+271,Prommegger Andreas,Male,21-12-2012,Carezza,ITA,Austria,World Cup,Parallel GS,1,1000.00
+272,Prommegger Andreas,Male,09-12-2012,Lachtal,AUT,Austria,European Cup,Parallel GS,1,500.00
+273,Prommegger Andreas,Male,08-12-2012,Lachtal,AUT,Austria,European Cup,Parallel GS,9,145.00
+274,Prommegger Andreas,Male,01-04-2012,St. Gallenkirch,AUT,Austria,National Championships,Parallel Slalom,6,144.00
+275,Prommegger Andreas,Male,17-03-2012,Valmalenco,ITA,Austria,World Cup,Parallel GS,6,400.00
+276,Prommegger Andreas,Male,10-03-2012,La Molina,ESP,Austria,World Cup,Parallel GS,1,1000.00
+277,Prommegger Andreas,Male,03-03-2012,Moscow,RUS,Austria,World Cup,Parallel Slalom,3,600.00
+278,Prommegger Andreas,Male,22-02-2012,Stoneham,CAN,Austria,World Cup,Parallel GS,1,1000.00
+279,Prommegger Andreas,Male,18-02-2012,Le Relais,CAN,Austria,Nor-Am Cup,Parallel GS,2,400.00
+280,Prommegger Andreas,Male,28-01-2012,Sudelfeld,GER,Austria,World Cup,Parallel GS,3,600.00
+281,Prommegger Andreas,Male,15-01-2012,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,19,120.00
+282,Prommegger Andreas,Male,13-01-2012,Jauerling,AUT,Austria,World Cup,Parallel Slalom,1,1000.00
+283,Prommegger Andreas,Male,22-12-2011,Carezza,ITA,Austria,World Cup,Parallel Slalom,5,450.00
+284,Prommegger Andreas,Male,21-12-2011,Carezza,ITA,Austria,World Cup,Parallel GS,4,500.00
+285,Prommegger Andreas,Male,15-12-2011,Telluride,USA,Austria,Qualification,Parallel GS,1,
+286,Prommegger Andreas,Male,15-12-2011,Telluride,USA,Austria,World Cup,Parallel GS,2,800.00
+287,Prommegger Andreas,Male,13-10-2011,Landgraaf,NED,Austria,World Cup,Parallel Slalom,3,600.00
+288,Prommegger Andreas,Male,27-03-2011,Arosa,SUI,Austria,World Cup,Parallel GS,1,1000.00
+289,Prommegger Andreas,Male,19-03-2011,Valmalenco,ITA,Austria,World Cup,Parallel GS,2,800.00
+290,Prommegger Andreas,Male,12-03-2011,Radstadt,AUT,Austria,National Championships,Parallel GS,2,288.00
+291,Prommegger Andreas,Male,05-03-2011,Moscow,RUS,Austria,World Cup,Parallel Slalom,11,240.00
+292,Prommegger Andreas,Male,20-02-2011,Stoneham,CAN,Austria,World Cup,Parallel GS,2,800.00
+293,Prommegger Andreas,Male,09-02-2011,Yongpyong,KOR,Austria,World Cup,Parallel Slalom,13,200.00
+294,Prommegger Andreas,Male,22-01-2011,La Molina,ESP,Austria,World Championships,Parallel Slalom,4,500.00
+295,Prommegger Andreas,Male,19-01-2011,La Molina,ESP,Austria,World Championships,Parallel GS,20,110.00
+296,Prommegger Andreas,Male,09-01-2011,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,7,360.00
+297,Prommegger Andreas,Male,20-12-2010,"Steamboad Springs, CO",USA,Austria,Nor-Am Cup,Parallel GS,3,300.00
+298,Prommegger Andreas,Male,16-12-2010,Telluride,USA,Austria,World Cup,Parallel GS,5,450.00
+299,Prommegger Andreas,Male,11-12-2010,Limone Piemonte,ITA,Austria,World Cup,Parallel Slalom,9,290.00
+300,Prommegger Andreas,Male,10-12-2010,Limone Piemonte,ITA,Austria,World Cup,Parallel GS,2,800.00
+301,Prommegger Andreas,Male,10-10-2010,Landgraaf,NED,Austria,World Cup,Parallel Slalom,1,1000.00
+302,Prommegger Andreas,Male,28-03-2010,Gerlitzen,AUT,Austria,National Championships,Parallel GS,1,360.00
+303,Prommegger Andreas,Male,21-03-2010,La Molina,ESP,Austria,World Cup,Parallel GS,3,600.00
+304,Prommegger Andreas,Male,13-03-2010,Valmalenco,ITA,Austria,World Cup,Parallel GS,7,360.00
+305,Prommegger Andreas,Male,06-03-2010,Moscow,RUS,Austria,World Cup,Parallel Slalom,10,260.00
+306,Prommegger Andreas,Male,27-02-2010,Cypress,CAN,Austria,Olympic Winter Games,Parallel GS,9,290.00
+307,Prommegger Andreas,Male,06-02-2010,Sudelfeld,GER,Austria,World Cup,Parallel GS,1,1000.00
+308,Prommegger Andreas,Male,24-01-2010,Stoneham,CAN,Austria,World Cup,Parallel GS,2,800.00
+309,Prommegger Andreas,Male,17-01-2010,Nendaz,SUI,Austria,World Cup,Parallel GS,2,800.00
+310,Prommegger Andreas,Male,06-01-2010,Kreischberg,AUT,Austria,World Cup,Parallel GS,2,800.00
+311,Prommegger Andreas,Male,30-12-2009,Goetschen  Bischofswiesen,GER,Austria,European Cup,Parallel GS,2,400.00
+312,Prommegger Andreas,Male,17-12-2009,Telluride,USA,Austria,World Cup,Parallel GS,9,290.00
+313,Prommegger Andreas,Male,15-12-2009,Telluride,USA,Austria,World Cup,Parallel GS,4,500.00
+314,Prommegger Andreas,Male,28-11-2009,"Hochfuegen, Zillertal (AUT)",GER,Austria,National Championships,Parallel GS,7,129.60
+315,Prommegger Andreas,Male,09-10-2009,Landgraaf,NED,Austria,World Cup,Parallel Slalom,22,90.00
+316,Prommegger Andreas,Male,28-03-2009,Kasberg,AUT,Austria,National Championships,Parallel GS,3,216.00
+317,Prommegger Andreas,Male,22-03-2009,Valmalenco,ITA,Austria,World Cup,Parallel GS,4,500.00
+318,Prommegger Andreas,Male,15-03-2009,La Molina,ESP,Austria,World Cup,Parallel GS,3,600.00
+319,Prommegger Andreas,Male,26-02-2009,Sunday River,USA,Austria,World Cup,Parallel GS,6,400.00
+320,Prommegger Andreas,Male,22-02-2009,Stoneham,CAN,Austria,World Cup,Parallel GS,3,600.00
+321,Prommegger Andreas,Male,31-01-2009,Sudelfeld,GER,Austria,World Cup,Parallel GS,1,1000.00
+322,Prommegger Andreas,Male,21-01-2009,Gangwon,KOR,Austria,World Championships,Parallel Slalom,7,360.00
+323,Prommegger Andreas,Male,20-01-2009,Gangwon,KOR,Austria,World Championships,Parallel GS,6,400.00
+324,Prommegger Andreas,Male,07-01-2009,Kreischberg,AUT,Austria,World Cup,Parallel Slalom,13,200.00
+325,Prommegger Andreas,Male,06-01-2009,Kreischberg,AUT,Austria,World Cup,Parallel GS,18,130.00
+326,Prommegger Andreas,Male,29-12-2008,Bischofswiesen / Götschen,GER,Austria,European Cup,Parallel GS,4,250.00
+327,Prommegger Andreas,Male,21-12-2008,Arosa,SUI,Austria,World Cup,Parallel Slalom,4,500.00
+328,Prommegger Andreas,Male,14-12-2008,Limone Piemonte,ITA,Austria,World Cup,Parallel GS,12,220.00
+329,Prommegger Andreas,Male,30-11-2008,"Hochfügen, Zillertal",AUT,Austria,National Championships,Parallel GS,15,
+330,Prommegger Andreas,Male,10-10-2008,Landgraaf,NED,Austria,World Cup,Parallel Slalom,26,50.00
+331,Prommegger Andreas,Male,30-03-2008,Radstadt,AUT,Austria,National Championships,Giant Slalom,5,162.00
+332,Prommegger Andreas,Male,29-03-2008,Radstadt,AUT,Austria,National Championships,Parallel Slalom,3,216.00
+333,Prommegger Andreas,Male,15-03-2008,Valmalenco,ITA,Austria,World Cup,Parallel GS,4,500.00
+334,Prommegger Andreas,Male,08-03-2008,Stoneham,CAN,Austria,World Cup,Parallel GS,2,800.00
+335,Prommegger Andreas,Male,03-03-2008,"Lake Placid, NY",USA,Austria,World Cup,Parallel GS,18,130.00
+336,Prommegger Andreas,Male,24-02-2008,Gujo-Gifu,JPN,Austria,World Cup,Parallel GS,11,240.00
+337,Prommegger Andreas,Male,17-02-2008,Sungwoo,KOR,Austria,World Cup,Parallel GS,5,450.00
+338,Prommegger Andreas,Male,27-01-2008,Sudelfeld,GER,Austria,European Cup,Parallel GS,3,300.00
+339,Prommegger Andreas,Male,20-01-2008,La Molina,ESP,Austria,World Cup,Parallel Slalom,3,600.00
+340,Prommegger Andreas,Male,19-01-2008,La Molina,ESP,Austria,World Cup,Parallel GS,1,1000.00
+341,Prommegger Andreas,Male,10-01-2008,Bad Gastein,AUT,Austria,European Cup,Parallel Slalom,6,
+342,Prommegger Andreas,Male,09-01-2008,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,4,500.00
+343,Prommegger Andreas,Male,29-12-2007,Götschen/Bischofswiesen,GER,Austria,European Cup,Parallel GS,1,500.00
+344,Prommegger Andreas,Male,16-12-2007,Nendaz,SUI,Austria,World Cup,Parallel Slalom,7,360.00
+345,Prommegger Andreas,Male,08-12-2007,Limone Piemonte,ITA,Austria,World Cup,Parallel GS,12,220.00
+346,Prommegger Andreas,Male,20-10-2007,Soelden,AUT,Austria,World Cup,Parallel GS,16,150.00
+347,Prommegger Andreas,Male,12-10-2007,Landgraaf,NED,Austria,World Cup,Parallel Slalom,17,140.00
+348,Prommegger Andreas,Male,25-03-2007,Haus im Ennstal,AUT,Austria,European Cup,Giant Slalom,68,
+349,Prommegger Andreas,Male,24-03-2007,Haus im Ennstal,AUT,Austria,National Championships,Giant Slalom,1,360.00
+350,Prommegger Andreas,Male,23-03-2007,Haus im Ennstal,AUT,Austria,National Championships,Parallel Slalom,5,162.00
+351,Prommegger Andreas,Male,16-03-2007,Stoneham,CAN,Austria,World Cup,Parallel GS,20,110.00
+352,Prommegger Andreas,Male,25-02-2007,Sungwoo,KOR,Austria,World Cup,Parallel GS,2,800.00
+353,Prommegger Andreas,Male,16-02-2007,Furano,JPN,Austria,World Cup,Parallel GS,17,140.00
+354,Prommegger Andreas,Male,09-02-2007,Shukolovo,RUS,Austria,World Cup,Parallel Slalom,7,360.00
+355,Prommegger Andreas,Male,02-02-2007,Bardonecchia,ITA,Austria,World Cup,Parallel GS,11,240.00
+356,Prommegger Andreas,Male,28-01-2007,Nendaz,SUI,Austria,World Cup,Parallel Slalom,10,260.00
+357,Prommegger Andreas,Male,21-01-2007,Kühtai,AUT,Austria,European Cup,Parallel Slalom,26,22.50
+358,Prommegger Andreas,Male,17-01-2007,Arosa,SUI,Austria,World Championships,Parallel Slalom,4,500.00
+359,Prommegger Andreas,Male,16-01-2007,Arosa,SUI,Austria,World Championships,Parallel GS,5,450.00
+360,Prommegger Andreas,Male,21-12-2006,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,12,220.00
+361,Prommegger Andreas,Male,20-12-2006,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,10,260.00
+362,Prommegger Andreas,Male,13-12-2006,S. Viglio di Marebbe,ITA,Austria,World Cup,Parallel GS,7,360.00
+363,Prommegger Andreas,Male,22-10-2006,Sölden,AUT,Austria,World Cup,Parallel GS,4,500.00
+364,Prommegger Andreas,Male,13-10-2006,Landgraaf,NED,Austria,World Cup,Parallel Slalom,23,80.00
+365,Prommegger Andreas,Male,01-04-2006,Bad Gastein,AUT,Austria,National Championships,Parallel GS,5,162.00
+366,Prommegger Andreas,Male,19-03-2006,Furano,JPN,Austria,World Cup,Parallel GS,2,800.00
+367,Prommegger Andreas,Male,09-03-2006,"Lake Placid, NY",USA,Austria,World Cup,Parallel GS,3,600.00
+368,Prommegger Andreas,Male,03-03-2006,St. Petersburg,RUS,Austria,World Cup,Parallel Slalom,13,200.00
+369,Prommegger Andreas,Male,01-03-2006,Shukolovo,RUS,Austria,World Cup,Parallel Slalom,28,40.00
+370,Prommegger Andreas,Male,22-02-2006,Bardonecchia,ITA,Austria,Olympic Winter Games,Parallel GS,9,290.00
+371,Prommegger Andreas,Male,22-01-2006,Nendaz,SUI,Austria,World Cup,Parallel Slalom,12,220.00
+372,Prommegger Andreas,Male,15-01-2006,Kronplatz,ITA,Austria,World Cup,Parallel GS,13,200.00
+373,Prommegger Andreas,Male,08-01-2006,Kreischberg,AUT,Austria,World Cup,Parallel GS,6,400.00
+374,Prommegger Andreas,Male,29-12-2005,Bischofswiesen,GER,Austria,European Cup,Parallel GS,1,450.00
+375,Prommegger Andreas,Male,18-12-2005,"Le Relais, QC",CAN,Austria,World Cup,Parallel GS,5,450.00
+376,Prommegger Andreas,Male,17-12-2005,"Le Relais, QC",CAN,Austria,World Cup,Parallel GS,2,800.00
+377,Prommegger Andreas,Male,10-12-2005,Haus im Ennstal,AUT,Austria,European Cup,Parallel GS,1,500.00
+378,Prommegger Andreas,Male,16-10-2005,Soelden,AUT,Austria,World Cup,Parallel GS,9,290.00
+379,Prommegger Andreas,Male,07-10-2005,Landgraaf,NED,Austria,World Cup,Parallel Slalom,21,100.00
+380,Prommegger Andreas,Male,31-08-2005,Las Lenas,ARG,Austria,South American Cup,Parallel GS,3,300.00
+381,Prommegger Andreas,Male,16-03-2005,Tandadalen,SWE,Austria,World Cup,Parallel GS,5,450.00
+382,Prommegger Andreas,Male,12-03-2005,Sierra Nevada,ESP,Austria,World Cup,Parallel Slalom,29,36.00
+383,Prommegger Andreas,Male,03-03-2005,"Lake Placid, NY",USA,Austria,World Cup,Parallel GS,10,
+384,Prommegger Andreas,Male,25-02-2005,Sungwoo Resort,KOR,Austria,World Cup,Parallel Slalom,10,260.00
+385,Prommegger Andreas,Male,19-02-2005,Sapporo,JPN,Austria,World Cup,Parallel Slalom,7,360.00
+386,Prommegger Andreas,Male,18-02-2005,Sapporo,JPN,Austria,World Cup,Parallel GS,7,360.00
+387,Prommegger Andreas,Male,09-02-2005,Bardonecchia,ITA,Austria,World Cup,Parallel GS,4,500.00
+388,Prommegger Andreas,Male,06-02-2005,Winterberg,GER,Austria,World Cup,Parallel Slalom,3,600.00
+389,Prommegger Andreas,Male,02-02-2005,Maribor,SLO,Austria,European Cup,Parallel Slalom,5,225.00
+390,Prommegger Andreas,Male,01-02-2005,Maribor,SLO,Austria,World Cup,Parallel GS,7,360.00
+391,Prommegger Andreas,Male,29-01-2005,Kreischberg,AUT,Austria,National Championships,Parallel GS,1,360.00
+392,Prommegger Andreas,Male,19-01-2005,Whistler,CAN,Austria,World Championships,Parallel Slalom,9,290.00
+393,Prommegger Andreas,Male,18-01-2005,Whistler,CAN,Austria,World Championships,Parallel GS,5,450.00
+394,Prommegger Andreas,Male,07-01-2005,St. Petersburg,RUS,Austria,World Cup,Parallel Slalom,15,160.00
+395,Prommegger Andreas,Male,17-12-2004,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,7,360.00
+396,Prommegger Andreas,Male,12-12-2004,Haus im Ennstal,AUT,Austria,FIS,Parallel GS,1,260.00
+397,Prommegger Andreas,Male,11-12-2004,Haus im Ennstal,AUT,Austria,European Cup,Parallel GS,1,500.00
+398,Prommegger Andreas,Male,04-12-2004,Kronplatz,ITA,Austria,World Cup,Parallel GS,8,320.00
+399,Prommegger Andreas,Male,24-10-2004,Landgraaf,NED,Austria,World Cup,Parallel Slalom,22,90.00
+400,Prommegger Andreas,Male,17-10-2004,Soelden,AUT,Austria,World Cup,Parallel GS,12,220.00
+401,Prommegger Andreas,Male,21-03-2004,Bad Gastein,AUT,Austria,National Championships,Parallel Slalom,1,360.00
+402,Prommegger Andreas,Male,20-03-2004,Bad Gastein,AUT,Austria,National Championships,Parallel GS,9,104.40
+403,Prommegger Andreas,Male,14-03-2004,Bardonecchia,ITA,Austria,World Cup,Parallel GS,6,400.00
+404,Prommegger Andreas,Male,05-03-2004,"Mt. Bachelor, OR",USA,Austria,World Cup,Parallel GS,13,200.00
+405,Prommegger Andreas,Male,21-02-2004,Sapporo,JPN,Austria,World Cup,Parallel Slalom,11,240.00
+406,Prommegger Andreas,Male,20-02-2004,Sapporo,JPN,Austria,World Cup,Parallel GS,6,400.00
+407,Prommegger Andreas,Male,08-02-2004,Berchtesgaden,GER,Austria,World Cup,Parallel GS,3,600.00
+408,Prommegger Andreas,Male,07-02-2004,Berchtesgaden,GER,Austria,World Cup,Snowboardcross,77,
+409,Prommegger Andreas,Male,03-02-2004,Maribor,SLO,Austria,World Cup,Parallel GS,7,360.00
+410,Prommegger Andreas,Male,18-01-2004,Sankt Johann/Pongau,AUT,Austria,European Cup,Parallel Slalom,1,500.00
+411,Prommegger Andreas,Male,17-01-2004,Arosa,SUI,Austria,World Cup,Snowboardcross,27,45.00
+412,Prommegger Andreas,Male,16-01-2004,Arosa,SUI,Austria,World Cup,Snowboardcross,58,13.10
+413,Prommegger Andreas,Male,11-01-2004,Alpe d'Huez,FRA,Austria,World Cup,Parallel GS,14,180.00
+414,Prommegger Andreas,Male,10-01-2004,Alpe d'Huez,FRA,Austria,World Cup,Parallel GS,8,320.00
+415,Prommegger Andreas,Male,06-01-2004,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,13,200.00
+416,Prommegger Andreas,Male,05-01-2004,Bad Gastein,AUT,Austria,World Cup,Snowboardcross,27,45.00
+417,Prommegger Andreas,Male,29-12-2003,Berchtesgaden,GER,Austria,European Cup,Parallel GS,1,450.00
+418,Prommegger Andreas,Male,21-12-2003,Stoneham,CAN,Austria,World Cup,Parallel GS,17,140.00
+419,Prommegger Andreas,Male,17-12-2003,Park City,USA,Austria,Nor-Am Cup,Parallel GS,4,250.00
+420,Prommegger Andreas,Male,12-12-2003,"Whistler, BC",CAN,Austria,World Cup,Parallel GS,17,140.00
+421,Prommegger Andreas,Male,11-12-2003,"Whistler, BC",CAN,Austria,World Cup,Snowboardcross,30,32.00
+422,Prommegger Andreas,Male,04-12-2003,Tandadalen,SWE,Austria,World Cup,Parallel GS,21,100.00
+423,Prommegger Andreas,Male,26-10-2003,Landgraaf,NED,Austria,World Cup,Parallel Slalom,13,200.00
+424,Prommegger Andreas,Male,19-10-2003,Soelden,AUT,Austria,World Cup,Parallel Slalom,8,320.00
+425,Prommegger Andreas,Male,18-10-2003,Soelden,AUT,Austria,World Cup,Parallel GS,8,320.00
+426,Prommegger Andreas,Male,12-09-2003,Valle Nevado,CHI,Austria,World Cup,Parallel GS,10,260.00
+427,Prommegger Andreas,Male,30-03-2003,Kuethai,AUT,Austria,FIS,Parallel Slalom,2,176.00
+428,Prommegger Andreas,Male,29-03-2003,Kuethai,AUT,Austria,FIS,Parallel GS,DNF,
+429,Prommegger Andreas,Male,23-03-2003,Mariapfarr|/Fanningsberg,AUT,Austria,National Championships,Parallel Slalom,6,144.00
+430,Prommegger Andreas,Male,21-03-2003,Mariapfarr/Fanningsberg,AUT,Austria,National Championships,Parallel GS,9,104.40
+431,Prommegger Andreas,Male,14-03-2003,Arosa,SUI,Austria,World Cup,Parallel GS,18,130.00
+432,Prommegger Andreas,Male,09-03-2003,Borovets,BUL,Austria,European Cup,Parallel GS,5,81.00
+433,Prommegger Andreas,Male,08-03-2003,Borovets,BUL,Austria,European Cup,Parallel GS,1,180.00
+434,Prommegger Andreas,Male,02-03-2003,Radstadt,AUT,Austria,European Cup,Parallel Slalom,9,92.80
+435,Prommegger Andreas,Male,01-03-2003,Radstadt,AUT,Austria,European Cup,Parallel Slalom,5,130.50
+436,Prommegger Andreas,Male,28-02-2003,Radstadt,AUT,Austria,European Cup,Parallel GS,1,290.00
+437,Prommegger Andreas,Male,23-02-2003,Krynica,POL,Austria,European Cup,Parallel GS,3,156.00
+438,Prommegger Andreas,Male,21-02-2003,Kranjska Gora,SLO,Austria,European Cup,Parallel Slalom,4,250.00
+439,Prommegger Andreas,Male,20-02-2003,Kranjska Gora,SLO,Austria,European Cup,Parallel GS,8,144.00
+440,Prommegger Andreas,Male,09-02-2003,Maribor,SLO,Austria,World Cup,Parallel Slalom,25,60.00
+441,Prommegger Andreas,Male,08-02-2003,Maribor,SLO,Austria,World Cup,Parallel GS,7,360.00
+442,Prommegger Andreas,Male,07-02-2003,Hermagor-Nassfeld,AUT,Austria,FIS,Parallel GS,9,63.80
+443,Prommegger Andreas,Male,05-02-2003,Bad Gastein,AUT,Austria,World Cup,Snowboardcross,35,20.00
+444,Prommegger Andreas,Male,04-02-2003,Bad Gastein,AUT,Austria,World Cup,Snowboardcross,22,90.00
+445,Prommegger Andreas,Male,03-02-2003,Bischofswiesen/Berchtesgaden,GER,Austria,European Cup,Parallel GS,1,500.00
+446,Prommegger Andreas,Male,26-01-2003,Sankt Johann/Pg.,AUT,Austria,European Cup,Parallel Slalom,5,162.00
+447,Prommegger Andreas,Male,25-01-2003,Sankt Johann/Pg.,AUT,Austria,European Cup,Parallel GS,2,232.00
+448,Prommegger Andreas,Male,22-01-2003,Alleghe,ITA,Austria,European Cup,Parallel GS,14,64.80
+449,Prommegger Andreas,Male,21-01-2003,Alleghe,ITA,Austria,European Cup,Parallel Slalom,4,225.00
+450,Prommegger Andreas,Male,18-01-2003,Pozza di Fassa,ITA,Austria,FIS,Parallel GS,14,46.80
+451,Prommegger Andreas,Male,06-01-2003,Bad Gastein,AUT,Austria,FIS,Parallel Slalom,31,7.28
+452,Prommegger Andreas,Male,05-01-2003,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,41,18.20
+453,Prommegger Andreas,Male,22-12-2002,Davos Jakobshorn,SUI,Austria,FIS,Parallel Slalom,17,36.40
+454,Prommegger Andreas,Male,17-12-2002,Klinovec,CZE,Austria,FIS,Parallel Slalom,1,260.00
+455,Prommegger Andreas,Male,16-12-2002,Klinovec,CZE,Austria,FIS,Parallel Slalom,5,117.00
+456,Prommegger Andreas,Male,08-12-2002,Cortina d'Ampezzo,ITA,Austria,FIS,Parallel GS,1,200.00
+457,Prommegger Andreas,Male,30-10-2002,Soelden,AUT,Austria,World Cup,Parallel Slalom,31,28.00
+458,Prommegger Andreas,Male,29-10-2002,Soelden,AUT,Austria,World Cup,Parallel GS,20,110.00
+459,Prommegger Andreas,Male,15-09-2002,Valle Nevado,CHI,Austria,World Cup,Parallel GS,35,20.00
+460,Prommegger Andreas,Male,21-03-2002,Tandadalen,SWE,Austria,World Cup,Parallel Slalom,17,140.00
+461,Prommegger Andreas,Male,20-03-2002,Tandadalen,SWE,Austria,World Cup,Parallel GS,26,50.00
+462,Prommegger Andreas,Male,14-03-2002,Ruka,FIN,Austria,World Cup,Parallel Slalom,23,80.00
+463,Prommegger Andreas,Male,02-03-2002,Sapporo,JPN,Austria,World Cup,Parallel Slalom,29,36.00
+464,Prommegger Andreas,Male,01-03-2002,Sapporo,JPN,Austria,World Cup,Parallel GS,22,90.00
+465,Prommegger Andreas,Male,23-02-2002,Bad Kleinkirchheim,AUT,Austria,National Championships,Parallel Slalom,12,79.20
+466,Prommegger Andreas,Male,22-02-2002,Bad Kleinkirchheim,AUT,Austria,National Championships,Giant Slalom,29,9.36
+467,Prommegger Andreas,Male,22-02-2002,Bischofswiesen,GER,Austria,FIS,Parallel GS,1,220.00
+468,Prommegger Andreas,Male,21-02-2002,Bischofswiesen,GER,Austria,FIS,Parallel GS,1,160.00
+469,Prommegger Andreas,Male,17-02-2002,Mauterndorf,AUT,Austria,European Cup,Parallel GS,7,115.20
+470,Prommegger Andreas,Male,16-02-2002,Mauterndorf,AUT,Austria,European Cup,Parallel Slalom,4,200.00
+471,Prommegger Andreas,Male,10-02-2002,Kranjska Gora,SLO,Austria,European Cup,Parallel Slalom,9,116.00
+472,Prommegger Andreas,Male,09-02-2002,Kranjska Gora,SLO,Austria,European Cup,Parallel GS,6,144.00
+473,Prommegger Andreas,Male,04-02-2002,Maso Corto - Val Senales,ITA,Austria,European Cup,Parallel Slalom,3,216.00
+474,Prommegger Andreas,Male,29-01-2002,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,25,60.00
+475,Prommegger Andreas,Male,24-01-2002,Kreischberg,AUT,Austria,World Cup,Parallel GS,34,22.00
+476,Prommegger Andreas,Male,20-01-2002,Bardonecchia,ITA,Austria,World Cup,Parallel GS,24,70.00
+477,Prommegger Andreas,Male,19-01-2002,Bardonecchia,ITA,Austria,World Cup,Giant Slalom,11,240.00
+478,Prommegger Andreas,Male,13-01-2002,St. Johann/Pongau,AUT,Austria,European Cup,Parallel Slalom,1,360.00
+479,Prommegger Andreas,Male,12-01-2002,Sankt Johann/Pongau,AUT,Austria,European Cup,Giant Slalom,1,130.00
+480,Prommegger Andreas,Male,11-01-2002,Alpe d'Huez,FRA,Austria,World Cup,Parallel GS,18,130.00
+481,Prommegger Andreas,Male,08-01-2002,Arosa,SUI,Austria,World Cup,Parallel GS,14,180.00
+482,Prommegger Andreas,Male,21-12-2001,Bad Gastein,AUT,Austria,European Cup,Parallel Slalom,7,129.60
+483,Prommegger Andreas,Male,15-12-2001,"Mt. St. Anne, QC",CAN,Austria,World Cup,Parallel Slalom,16,150.00
+484,Prommegger Andreas,Male,14-12-2001,"Mt. St. Anne, QC",CAN,Austria,World Cup,Parallel GS,15,160.00
+485,Prommegger Andreas,Male,10-12-2001,"Whistler, BC",CAN,Austria,World Cup,Parallel GS,12,220.00
+486,Prommegger Andreas,Male,02-12-2001,Ischgl,AUT,Austria,World Cup,Parallel GS,18,130.00
+487,Prommegger Andreas,Male,01-12-2001,Ischgl,AUT,Austria,World Cup,Parallel GS,30,32.00
+488,Prommegger Andreas,Male,30-11-2001,Ischgl,AUT,Austria,World Cup,Parallel Slalom,17,140.00
+489,Prommegger Andreas,Male,18-11-2001,Tignes,FRA,Austria,World Cup,Parallel GS,25,60.00
+490,Prommegger Andreas,Male,27-10-2001,Kaunertal,AUT,Austria,European Cup,Parallel GS,68,0.00
+491,Prommegger Andreas,Male,09-09-2001,Valle Nevado,CHI,Austria,World Cup,Parallel Slalom,18,130.00
+492,Prommegger Andreas,Male,08-09-2001,Valle Nevado,CHI,Austria,World Cup,Parallel GS,20,110.00
+493,Prommegger Andreas,Male,31-03-2001,Radstadt,AUT,Austria,National Championships,Parallel Slalom,4,180.00
+494,Prommegger Andreas,Male,30-03-2001,Radstadt,AUT,Austria,National Championships,Parallel GS,4,180.00
+495,Prommegger Andreas,Male,24-03-2001,Tauplitzalm,AUT,Austria,FIS,Giant Slalom,DNF1,0.00
+496,Prommegger Andreas,Male,23-03-2001,Sappada,ITA,Austria,National Championships,Parallel GS,3,156.00
+497,Prommegger Andreas,Male,18-03-2001,Bad Gastein,AUT,Austria,European Cup,Giant Slalom,2,128.00
+498,Prommegger Andreas,Male,15-03-2001,Ruka,FIN,Austria,World Cup,Parallel Slalom,6,400.00
+499,Prommegger Andreas,Male,14-03-2001,Ruka,FIN,Austria,World Cup,Parallel GS,21,100.00
+500,Prommegger Andreas,Male,22-02-2001,Sappada,ITA,Austria,European Cup,Parallel Slalom,9,104.40
+501,Prommegger Andreas,Male,21-02-2001,Sappada,ITA,Austria,European Cup,Giant Slalom,3,96.00
+502,Prommegger Andreas,Male,18-02-2001,St. Johann/Pg.,AUT,Austria,European Cup,Parallel Slalom,1,320.00
+503,Prommegger Andreas,Male,17-02-2001,St. Johann/Pg.,AUT,Austria,European Cup,Giant Slalom,2,128.00
+504,Prommegger Andreas,Male,11-02-2001,Berchtesgaden,GER,Austria,World Cup,Parallel GS,4,500.00
+505,Prommegger Andreas,Male,09-02-2001,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,13,200.00
+506,Prommegger Andreas,Male,06-02-2001,Kranjska Gora,SLO,Austria,National Championships,Parallel SL,54,0.00
+507,Prommegger Andreas,Male,05-02-2001,Kranjska Gora,SLO,Austria,National Championships,Parallel GS,4,180.00
+508,Prommegger Andreas,Male,03-02-2001,Muenchen,GER,Austria,World Cup,Parallel Slalom,20,110.00
+509,Prommegger Andreas,Male,31-01-2001,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,29,36.00
+510,Prommegger Andreas,Male,28-01-2001,Madonna di Campiglio,ITA,Austria,World Championships,Snowboardcross,22,90.00
+511,Prommegger Andreas,Male,26-01-2001,Madonna di Campiglio,ITA,Austria,World Championships,Parallel Slalom,23,80.00
+512,Prommegger Andreas,Male,24-01-2001,Madonna di Campiglio,ITA,Austria,World Championships,Parallel GS,10,260.00
+513,Prommegger Andreas,Male,20-01-2001,Berchtesgaden,GER,Austria,European Cup,Parallel Slalom,9,104.40
+514,Prommegger Andreas,Male,17-01-2001,Kronplatz,ITA,Austria,World Cup,Parallel GS,18,130.00
+515,Prommegger Andreas,Male,14-01-2001,Morzine,FRA,Austria,World Cup,Snowboardcross,30,32.00
+516,Prommegger Andreas,Male,13-01-2001,Morzine-Les Gets,FRA,Austria,World Cup,Snowboardcross,17,140.00
+517,Prommegger Andreas,Male,10-01-2001,Schoenried/Gstaad,SUI,Austria,World Cup,Giant Slalom,25,60.00
+518,Prommegger Andreas,Male,10-01-2001,Schoenried/Gstaad,SUI,Austria,World Cup,Parallel Slalom,13,200.00
+519,Prommegger Andreas,Male,07-01-2001,Kreischberg,AUT,Austria,World Cup,Parallel Slalom,6,400.00
+520,Prommegger Andreas,Male,06-01-2001,Kreischberg,AUT,Austria,World Cup,Snowboardcross,19,120.00
+521,Prommegger Andreas,Male,05-01-2001,Kreischberg,AUT,Austria,World Cup,Snowboardcross,23,80.00
+522,Prommegger Andreas,Male,16-12-2000,"Mt. St. Anne, QC",CAN,Austria,World Cup,Giant Slalom,31,28.00
+523,Prommegger Andreas,Male,12-12-2000,Whistler,CAN,Austria,Continental Cup,Parallel GS,20,39.60
+524,Prommegger Andreas,Male,11-12-2000,"Whistler, BC",CAN,Austria,World Cup,Giant Slalom,28,40.00
+525,Prommegger Andreas,Male,08-12-2000,"Whistler, BC",CAN,Austria,World Cup,Snowboardcross,23,80.00
+526,Prommegger Andreas,Male,03-12-2000,Ischgl,AUT,Austria,World Cup,Parallel GS,22,90.00
+527,Prommegger Andreas,Male,02-12-2000,Ischgl,AUT,Austria,World Cup,Parallel GS,14,180.00
+528,Prommegger Andreas,Male,01-12-2000,Ischgl,AUT,Austria,World Cup,Parallel SL,13,200.00
+529,Prommegger Andreas,Male,19-11-2000,Tignes,FRA,Austria,World Cup,Giant Slalom,14,180.00
+530,Prommegger Andreas,Male,17-11-2000,Tignes,FRA,Austria,World Cup,Snowboard Cross,14,180.00
+531,Prommegger Andreas,Male,01-04-2000,Radstadt,AUT,Austria,National Championships,Parallel Slalom,6,104.00
+532,Prommegger Andreas,Male,31-03-2000,Radstadt,AUT,Austria,National Championships,Giant Slalom,10,67.60
+533,Prommegger Andreas,Male,25-03-2000,San Candido,ITA,Austria,National Championships,Snowboardcross,1,160.00
+534,Prommegger Andreas,Male,24-03-2000,San Candido,ITA,Austria,National Championships,Giant Slalom,5,117.00
+535,Prommegger Andreas,Male,18-03-2000,Livigno,ITA,Austria,World Cup,Giant Slalom,17,140.00
+536,Prommegger Andreas,Male,17-03-2000,Livigno,ITA,Austria,World Cup,Snowboardcross,21,100.00
+537,Prommegger Andreas,Male,16-03-2000,Livigno,ITA,Austria,World Cup,Parallel Slalom,8,320.00
+538,Prommegger Andreas,Male,12-03-2000,San Candido,ITA,Austria,World Cup,Snowboardcross,15,160.00
+539,Prommegger Andreas,Male,10-03-2000,San Candido,ITA,Austria,World Cup,Parallel Slalom,18,130.00
+540,Prommegger Andreas,Male,05-03-2000,"Park City, UT",USA,Austria,World Cup,Giant Slalom,6,400.00
+541,Prommegger Andreas,Male,03-03-2000,"Park City, UT",USA,Austria,World Cup,Snowboardcross,24,70.00
+542,Prommegger Andreas,Male,26-02-2000,Shigakogen,JPN,Austria,World Cup,Giant Slalom,16,150.00
+543,Prommegger Andreas,Male,20-02-2000,Sapporo,JPN,Austria,World Cup,Snowboardcross,41,10.00
+544,Prommegger Andreas,Male,18-02-2000,Sapporo,JPN,Austria,World Cup,Parallel GS,27,45.00
+545,Prommegger Andreas,Male,13-02-2000,Berchtesgaden,GER,Austria,FIS Junior World Championships,Parallel Slalom,1,140.00
+546,Prommegger Andreas,Male,11-02-2000,Berchtesgaden,GER,Austria,FIS Junior World Championships,Parallel GS,1,100.00
+547,Prommegger Andreas,Male,05-02-2000,Ischgl,AUT,Austria,World Cup,Giant Slalom,36,18.00
+548,Prommegger Andreas,Male,04-02-2000,Ischgl,AUT,Austria,World Cup,Parallel Slalom,26,50.00
+549,Prommegger Andreas,Male,27-01-2000,Tandadalen,SWE,Austria,World Cup,Parallel Slalom,8,320.00
+550,Prommegger Andreas,Male,26-01-2000,Tandadalen,SWE,Austria,World Cup,Parallel GS,16,150.00
+551,Prommegger Andreas,Male,22-01-2000,Kreischberg,AUT,Austria,European Cup,Snowboardcross,1,320.00
+552,Prommegger Andreas,Male,20-01-2000,Schoenried/Gstaad,SUI,Austria,World Cup,Snowboardcross,11,240.00
+553,Prommegger Andreas,Male,19-01-2000,Schoenried/Gstaad,SUI,Austria,World Cup,Giant Slalom,17,140.00
+554,Prommegger Andreas,Male,16-01-2000,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,26,50.00
+555,Prommegger Andreas,Male,15-01-2000,Haus i. Ennstal,AUT,Austria,FIS,Parallel Slalom,7,94.00
+556,Prommegger Andreas,Male,14-01-2000,Berchtesgaden,GER,Austria,World Cup,Parallel GS,14,180.00
+557,Prommegger Andreas,Male,12-01-2000,S. Giorgio Boscochiesanuova,ITA,Austria,European Cup,Giant Slalom,12,99.00
+558,Prommegger Andreas,Male,11-01-2000,S. Giorgio Boscochiesanuova,ITA,Austria,European Cup,Parallel Slalom,2,400.00
+559,Prommegger Andreas,Male,09-01-2000,Morzine-Avoriaz,FRA,Austria,World Cup,Parallel Slalom,24,70.00
+560,Prommegger Andreas,Male,08-01-2000,Morzine-Avoriaz,FRA,Austria,World Cup,Snowboardcross,23,80.00
+561,Prommegger Andreas,Male,19-12-1999,Semmering,AUT,Austria,FIS,Slalom,3,78.00
+562,Prommegger Andreas,Male,18-12-1999,Semmering,AUT,Austria,FIS,Giant Slalom,2,192.00
+563,Prommegger Andreas,Male,17-12-1999,Berchtesgaden,GER,Austria,FIS,Parallel Slalom,6,104.00
+564,Prommegger Andreas,Male,04-12-1999,Zell am See/Kaprun,AUT,Austria,World Cup,Parallel GS,40,11.00
+565,Prommegger Andreas,Male,27-03-1999,Racines,ITA,Austria,Continental Cup,Giant Slalom,3,192.00
+566,Prommegger Andreas,Male,20-03-1999,Gaschurn,AUT,Austria,Junior,Giant Slalom,1,110.00
+567,Prommegger Andreas,Male,19-03-1999,Gaschurn,AUT,Austria,Junior,Slalom,1,100.00
+568,Prommegger Andreas,Male,12-03-1999,Olang,ITA,Austria,World Cup,Parallel Slalom,26,50.00
+569,Prommegger Andreas,Male,11-03-1999,Olang,ITA,Austria,World Cup,Parallel GS,22,90.00
+570,Prommegger Andreas,Male,06-03-1999,Kreischberg,AUT,Austria,World Cup,Parallel Slalom,21,100.00
+571,Prommegger Andreas,Male,27-02-1999,Seiser Alm,ITA,Austria,FIS Junior World Championships,Parallel GS,2,176.00
+572,Prommegger Andreas,Male,21-02-1999,Bad Gastein,AUT,Austria,FIS,Giant Slalom,23,11.00
+573,Prommegger Andreas,Male,13-02-1999,Bischofswiesen/Goetschen,GER,Austria,FIS,Giant Slalom,7,94.00
+574,Prommegger Andreas,Male,12-02-1999,Bischofswiesen/Goetschen,GER,Austria,FIS,Giant Slalom,12,44.00
+575,Prommegger Andreas,Male,31-01-1999,Haus im Ennstal,AUT,Austria,Continental Cup,Giant Slalom,9,104.00
+576,Prommegger Andreas,Male,30-01-1999,Haus im Ennstal,AUT,Austria,Continental Cup,Parallel Slalom,6,160.00
+577,Prommegger Andreas,Male,17-01-1999,Berchtesgaden,GER,Austria,World Championships,Snowboardcross,43,8.00
+578,Prommegger Andreas,Male,09-01-1999,Falcade,ITA,Austria,Continental Cup,Giant Slalom,4,180.00
+579,Prommegger Andreas,Male,08-01-1999,Falcade,ITA,Austria,Continental Cup,Parallel Slalom,21,50.00
+580,Prommegger Andreas,Male,03-01-1999,Lofer,AUT,Austria,Junior,Giant Slalom,4,50.00
+581,Prommegger Andreas,Male,02-01-1999,Lofer,AUT,Austria,Junior,Parallel Slalom,1,100.00
+582,Prommegger Andreas,Male,20-12-1998,Sonnenalpe/Nassfeld,AUT,Austria,FIS,Giant Slalom,1,140.00
+583,Prommegger Andreas,Male,19-12-1998,Berchtesgaden,GER,Austria,Continental Cup,Parallel Slalom,15,80.00
+584,Prommegger Andreas,Male,18-12-1998,Berchtesgaden,GER,Austria,Continental Cup,Giant Slalom,4,200.00
+585,Prommegger Andreas,Male,04-12-1998,Ischgl,AUT,Austria,World Cup,Parallel Slalom,30,32.00
+586,Prommegger Andreas,Male,20-03-1998,Bad Gastein,AUT,Austria,National Championships,Giant Slalom,10,68.00
+587,Prommegger Andreas,Male,14-02-1998,Bad Ischl,AUT,Austria,FIS,Slalom,4,130.00
+588,Prommegger Andreas,Male,08-02-1998,Kreischberg,AUT,Austria,Continental Cup,Giant Slalom,3,300.00
+589,Prommegger Andreas,Male,07-02-1998,Kreischberg,AUT,Austria,Continental Cup,Parallel Slalom,16,75.00
+590,Prommegger Andreas,Male,30-01-1998,Sudelfeld,GER,Austria,Continental Cup,Giant Slalom,8,160.00
+591,Prommegger Andreas,Male,24-01-1998,Chamrousse,FRA,Austria,FIS Junior World Championships,Giant Slalom,4,120.00
+592,Prommegger Andreas,Male,13-01-1998,Lienz,AUT,Austria,World Cup,Giant Slalom,36,18.00
+593,Prommegger Andreas,Male,06-01-1998,Mariapfarr,AUT,Austria,FIS,Slalom,4,80.00
+594,Prommegger Andreas,Male,05-01-1998,Mautendorf,AUT,Austria,FIS,Giant Slalom,5,117.00
+595,Prommegger Andreas,Male,04-01-1998,St. Michael/Lungau,AUT,Austria,Junior,Parallel Slalom,2,80.00
+596,Prommegger Andreas,Male,03-01-1998,Mautendorf,AUT,Austria,Junior,Giant Slalom,1,100.00
+597,Prommegger Andreas,Male,21-12-1997,Haus im Ennstal,AUT,Austria,FIS,Giant Slalom,7,94.00
+598,Prommegger Andreas,Male,20-12-1997,Haus im Ennstal,AUT,Austria,FIS,Parallel Slalom,3,156.00
+599,Prommegger Andreas,Male,30-11-1997,Soelden,AUT,Austria,World Cup,Parallel Slalom,19,120.00
+600,Prommegger Andreas,Male,29-11-1997,Soelden,AUT,Austria,World Cup,Giant Slalom,134,0.00
+601,Prommegger Andreas,Male,21-11-1997,Zell am See/Kaprun,AUT,Austria,World Cup,Giant Slalom,124,0.00
+602,Prommegger Andreas,Male,20-11-1997,Zell am See/Kaprun,AUT,Austria,World Cup,Parallel Slalom,34,22.00
+603,Prommegger Andreas,Male,23-03-1997,Bad Gastein,AUT,Austria,FIS,Snowboardcross,12,29.00
+604,Prommegger Andreas,Male,22-03-1997,Bad Gastein,AUT,Austria,FIS,Slalom,10,68.00
+605,Prommegger Andreas,Male,21-03-1997,Bad Gastein,AUT,Austria,FIS,Giant Slalom,28,10.00
+606,Prommegger Andreas,Male,22-02-1997,Corno alle Scale,ITA,Austria,FIS Junior World Championships,Giant Slalom,4,50.00
+607,Prommegger Andreas,Male,12-01-1997,Lenggries,GER,Austria,World Cup,Slalom,41,10.00
+608,Prommegger Andreas,Male,11-01-1997,Lenggries,GER,Austria,World Cup,Giant Slalom,60,0.00
+609,Prommegger Andreas,Male,05-01-1997,St. Johann/Pg.,AUT,Austria,Continental Cup,Giant Slalom,22,40.00
+610,Prommegger Andreas,Male,04-01-1997,St. Johann/Pg.,AUT,Austria,Continental Cup,Slalom,11,86.00
+611,Prommegger Andreas,Male,22-12-1996,Haus im Ennstal,AUT,Austria,FIS,Slalom,15,42.00
+612,Prommegger Andreas,Male,21-12-1996,Haus im Ennstal,AUT,Austria,FIS,Giant Slalom,34,4.00
+613,Prommegger Andreas,Male,31-03-1996,Innerkrems,AUT,Austria,FIS,Giant Slalom,32,9.00
+614,Prommegger Andreas,Male,30-03-1996,Innerkrems,AUT,Austria,FIS,Parallel Slalom,18,40.00
+615,Prommegger Andreas,Male,24-02-1996,Bad Gastein,AUT,Austria,FIS,Giant Slalom,35,6.00
+616,Prommegger Andreas,Male,07-01-1996,Embach,AUT,Austria,FIS,Slalom,25,20.00
+617,Prommegger Andreas,Male,06-01-1996,Embach,AUT,Austria,FIS,Parallel Slalom,36,5.00
+618,Prommegger Andreas,Male,17-12-1995,Kreischberg,AUT,Austria,FIS,Giant Slalom,34,7.00
+619,Prommegger Andreas,Male,16-12-1995,Kreischberg,AUT,Austria,FIS,Parallel Slalom,31,10.00

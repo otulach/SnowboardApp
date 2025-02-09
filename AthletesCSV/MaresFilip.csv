@@ -1,49 +1,50 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Mares Filip,Male,02-02-2025,Ratschings,ITA,Czechia,Qualification,Parallel Slalom,DNF,
-1,Mares Filip,Male,02-02-2025,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,DNF,
-2,Mares Filip,Male,01-02-2025,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,DNF,
-3,Mares Filip,Male,01-02-2025,Ratschings,ITA,Czechia,Qualification,Parallel Slalom,DNF,
-4,Mares Filip,Male,26-01-2025,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,43,5.63
-5,Mares Filip,Male,25-01-2025,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,29,6.48
-6,Mares Filip,Male,19-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,2,72.00
-7,Mares Filip,Male,18-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,2,72.00
-8,Mares Filip,Male,12-01-2025,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,11,36.00
-9,Mares Filip,Male,11-01-2025,Folgaria,ITA,Czechia,Qualification,Parallel Giant Slalom,14,
+0,Mares Filip,Male,08-02-2025,Simonhoehe,AUT,Czechia,National Championships,Parallel Giant Slalom,16,43.50
+1,Mares Filip,Male,02-02-2025,Ratschings,ITA,Czechia,Qualification,Parallel Slalom,DNF,
+2,Mares Filip,Male,02-02-2025,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,DNF,
+3,Mares Filip,Male,01-02-2025,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,DNF,
+4,Mares Filip,Male,01-02-2025,Ratschings,ITA,Czechia,Qualification,Parallel Slalom,DNF,
+5,Mares Filip,Male,26-01-2025,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,43,5.63
+6,Mares Filip,Male,25-01-2025,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,29,6.48
+7,Mares Filip,Male,19-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,2,72.00
+8,Mares Filip,Male,18-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,2,72.00
+9,Mares Filip,Male,12-01-2025,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,11,36.00
 10,Mares Filip,Male,11-01-2025,Folgaria,ITA,Czechia,European Cup,Parallel Giant Slalom,14,32.40
-11,Mares Filip,Male,10-01-2025,Folgaria,ITA,Czechia,Qualification,Parallel Giant Slalom,DNF,
-12,Mares Filip,Male,10-01-2025,Folgaria,ITA,Czechia,European Cup,Parallel Giant Slalom,DNF,
-13,Mares Filip,Male,22-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,36,3.15
-14,Mares Filip,Male,21-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,11,38.40
-15,Mares Filip,Male,20-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,31,5.04
-16,Mares Filip,Male,19-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,30,6.40
-17,Mares Filip,Male,15-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,27,10.80
-18,Mares Filip,Male,14-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,20,17.60
-19,Mares Filip,Male,07-04-2024,Samnaun,SUI,Czechia,National Championships,Giant Slalom,10,75.40
-20,Mares Filip,Male,06-04-2024,Samnaun,SUI,Czechia,National Championships,Parallel Slalom,16,43.50
-21,Mares Filip,Male,30-03-2024,Krvavec,SLO,Czechia,National Championships,Parallel Giant Slalom,3,174.00
-22,Mares Filip,Male,23-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Slalom,25,14.40
-23,Mares Filip,Male,23-03-2024,Lachtal,AUT,Czechia,Qualification,Parallel Slalom,25,
-24,Mares Filip,Male,22-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Giant Slalom,24,16.80
-25,Mares Filip,Male,22-03-2024,Lachtal,AUT,Czechia,Qualification,Parallel Giant Slalom,24,
-26,Mares Filip,Male,17-03-2024,Spindleruv Mlyn,CZE,Czechia,Junior,Parallel Slalom,2,40.00
-27,Mares Filip,Male,16-03-2024,Spindleruv Mlyn,CZE,Czechia,Junior,Parallel Slalom,1,50.00
-28,Mares Filip,Male,24-02-2024,Alleghe,ITA,Czechia,Junior,Parallel Giant Slalom,10,39.00
-29,Mares Filip,Male,09-02-2024,Funes - Vilnoess,ITA,Czechia,National Championships,Parallel Slalom,DSQ,
-30,Mares Filip,Male,08-02-2024,Funes - Vilnoess,ITA,Czechia,National Championships,Parallel Giant Slalom,40,5.36
-31,Mares Filip,Male,04-02-2024,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,6,56.00
-32,Mares Filip,Male,03-02-2024,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,18,18.20
-33,Mares Filip,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,39,
-34,Mares Filip,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,23,10.40
-35,Mares Filip,Male,14-01-2024,Gosau,AUT,Czechia,FIS,Parallel Slalom,10,26.00
-36,Mares Filip,Male,13-01-2024,Gosau,AUT,Czechia,FIS,Parallel Slalom,DSQ,
-37,Mares Filip,Male,07-01-2024,Dolni Morava,CZE,Czechia,National Junior Championships,Parallel Giant Slalom,2,40.00
-38,Mares Filip,Male,06-01-2024,Dolni Morava,CZE,Czechia,National Junior Championships,Parallel Slalom,2,40.00
-39,Mares Filip,Male,22-12-2023,Moninec,CZE,Czechia,Junior,Parallel Slalom,6,28.00
-40,Mares Filip,Male,21-12-2023,Moninec,CZE,Czechia,Junior,Parallel Slalom,DSQ,
-41,Mares Filip,Male,20-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,50,3.41
-42,Mares Filip,Male,19-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,38,4.20
-43,Mares Filip,Male,10-12-2023,Götschen,GER,Czechia,Junior,Parallel Slalom,30,4.16
-44,Mares Filip,Male,09-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,68,
-45,Mares Filip,Male,09-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,68,
-46,Mares Filip,Male,08-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,71,
-47,Mares Filip,Male,08-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,71,
+11,Mares Filip,Male,11-01-2025,Folgaria,ITA,Czechia,Qualification,Parallel Giant Slalom,14,
+12,Mares Filip,Male,10-01-2025,Folgaria,ITA,Czechia,Qualification,Parallel Giant Slalom,DNF,
+13,Mares Filip,Male,10-01-2025,Folgaria,ITA,Czechia,European Cup,Parallel Giant Slalom,DNF,
+14,Mares Filip,Male,22-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,36,3.15
+15,Mares Filip,Male,21-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,11,38.40
+16,Mares Filip,Male,20-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,31,5.04
+17,Mares Filip,Male,19-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,30,6.40
+18,Mares Filip,Male,15-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,27,10.80
+19,Mares Filip,Male,14-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,20,17.60
+20,Mares Filip,Male,07-04-2024,Samnaun,SUI,Czechia,National Championships,Giant Slalom,10,75.40
+21,Mares Filip,Male,06-04-2024,Samnaun,SUI,Czechia,National Championships,Parallel Slalom,16,43.50
+22,Mares Filip,Male,30-03-2024,Krvavec,SLO,Czechia,National Championships,Parallel Giant Slalom,3,174.00
+23,Mares Filip,Male,23-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Slalom,25,14.40
+24,Mares Filip,Male,23-03-2024,Lachtal,AUT,Czechia,Qualification,Parallel Slalom,25,
+25,Mares Filip,Male,22-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Giant Slalom,24,16.80
+26,Mares Filip,Male,22-03-2024,Lachtal,AUT,Czechia,Qualification,Parallel Giant Slalom,24,
+27,Mares Filip,Male,17-03-2024,Spindleruv Mlyn,CZE,Czechia,Junior,Parallel Slalom,2,40.00
+28,Mares Filip,Male,16-03-2024,Spindleruv Mlyn,CZE,Czechia,Junior,Parallel Slalom,1,50.00
+29,Mares Filip,Male,24-02-2024,Alleghe,ITA,Czechia,Junior,Parallel Giant Slalom,10,39.00
+30,Mares Filip,Male,09-02-2024,Funes - Vilnoess,ITA,Czechia,National Championships,Parallel Slalom,DSQ,
+31,Mares Filip,Male,08-02-2024,Funes - Vilnoess,ITA,Czechia,National Championships,Parallel Giant Slalom,40,5.36
+32,Mares Filip,Male,04-02-2024,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,6,56.00
+33,Mares Filip,Male,03-02-2024,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,18,18.20
+34,Mares Filip,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,39,
+35,Mares Filip,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,23,10.40
+36,Mares Filip,Male,14-01-2024,Gosau,AUT,Czechia,FIS,Parallel Slalom,10,26.00
+37,Mares Filip,Male,13-01-2024,Gosau,AUT,Czechia,FIS,Parallel Slalom,DSQ,
+38,Mares Filip,Male,07-01-2024,Dolni Morava,CZE,Czechia,National Junior Championships,Parallel Giant Slalom,2,40.00
+39,Mares Filip,Male,06-01-2024,Dolni Morava,CZE,Czechia,National Junior Championships,Parallel Slalom,2,40.00
+40,Mares Filip,Male,22-12-2023,Moninec,CZE,Czechia,Junior,Parallel Slalom,6,28.00
+41,Mares Filip,Male,21-12-2023,Moninec,CZE,Czechia,Junior,Parallel Slalom,DSQ,
+42,Mares Filip,Male,20-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,50,3.41
+43,Mares Filip,Male,19-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,38,4.20
+44,Mares Filip,Male,10-12-2023,Götschen,GER,Czechia,Junior,Parallel Slalom,30,4.16
+45,Mares Filip,Male,09-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,68,
+46,Mares Filip,Male,09-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,68,
+47,Mares Filip,Male,08-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,71,
+48,Mares Filip,Male,08-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,71,

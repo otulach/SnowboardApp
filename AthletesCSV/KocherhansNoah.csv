@@ -1,59 +1,60 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Kocherhans Noah,Male,02-02-2025,Reiteralm,AUT,Switzerland,Junior,Snowboard Cross,18,6.50
-1,Kocherhans Noah,Male,01-02-2025,Reiteralm,AUT,Switzerland,Junior,Snowboard Cross,17,7.00
-2,Kocherhans Noah,Male,25-01-2025,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,DNS,
-3,Kocherhans Noah,Male,24-01-2025,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,10,13.00
-4,Kocherhans Noah,Male,12-01-2025,Lenk,SUI,Switzerland,Junior Regional Cup,Snowboard Cross,34,2.64
-5,Kocherhans Noah,Male,01-12-2024,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,51,1.82
-6,Kocherhans Noah,Male,30-11-2024,Pitztal,AUT,Switzerland,Qualification,Snowboard Cross,21,
-7,Kocherhans Noah,Male,30-11-2024,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,21,12.00
-8,Kocherhans Noah,Male,27-11-2024,Pitztal,AUT,Switzerland,Qualification,Snowboard Cross,90,
-9,Kocherhans Noah,Male,27-11-2024,Pitztal,AUT,Switzerland,European Cup,Snowboard Cross,90,
-10,Kocherhans Noah,Male,24-03-2024,Lenk,SUI,Switzerland,National Championships,Snowboard Cross,25,7.20
-11,Kocherhans Noah,Male,22-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,48,3.86
-12,Kocherhans Noah,Male,21-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,60,3.00
-13,Kocherhans Noah,Male,14-03-2024,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,44,3.46
-14,Kocherhans Noah,Male,12-03-2024,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,10,18.20
-15,Kocherhans Noah,Male,11-03-2024,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,25,9.00
-16,Kocherhans Noah,Male,02-03-2024,St. Moritz,SUI,Switzerland,National Junior Championships,Snowboard Cross,13,14.00
-17,Kocherhans Noah,Male,25-02-2024,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,56,
-18,Kocherhans Noah,Male,24-02-2024,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,49,5.06
-19,Kocherhans Noah,Male,03-02-2024,Dolni Morava,CZE,Switzerland,FIS,Snowboard Cross,8,22.40
-20,Kocherhans Noah,Male,02-02-2024,Dolni Morava,CZE,Switzerland,Junior,Snowboard Cross,8,28.80
-21,Kocherhans Noah,Male,01-02-2024,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,55,3.08
-22,Kocherhans Noah,Male,31-01-2024,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,36,4.33
-23,Kocherhans Noah,Male,28-01-2024,Lenk,SUI,Switzerland,FIS,Snowboard Cross,3,42.00
-24,Kocherhans Noah,Male,27-01-2024,Lenk,SUI,Switzerland,FIS,Snowboard Cross,3,42.00
-25,Kocherhans Noah,Male,21-01-2024,Gangwon/Welli Hilli,KOR,Switzerland,Youth Olympic Winter Games,Snowboard Cross Team,4,
-26,Kocherhans Noah,Male,20-01-2024,Gangwon/Welli Hilli,KOR,Switzerland,Youth Olympic Winter Games,Snowboard Cross,15,17.60
-27,Kocherhans Noah,Male,17-12-2023,Reiteralm,AUT,Switzerland,Junior,Snowboard Cross,7,25.20
-28,Kocherhans Noah,Male,09-12-2023,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,21,10.00
-29,Kocherhans Noah,Male,01-04-2023,St. Moritz,SUI,Switzerland,National Championships,Snowboard Cross,6,116.00
-30,Kocherhans Noah,Male,30-03-2023,Passo San Pellegrino,ITA,Switzerland,FIS Junior World Championships,Snowboard Cross,49,5.06
-31,Kocherhans Noah,Male,19-03-2023,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,37,3.49
-32,Kocherhans Noah,Male,18-03-2023,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,47,2.95
-33,Kocherhans Noah,Male,12-03-2023,Lenk,SUI,Switzerland,National Junior Championships,Snowboard Cross,25,5.40
-34,Kocherhans Noah,Male,19-02-2023,Flumserberg,SUI,Switzerland,Junior,Snowboard Cross,17,15.40
-35,Kocherhans Noah,Male,18-02-2023,Flumserberg,SUI,Switzerland,Junior,Snowboard Cross,9,31.90
-36,Kocherhans Noah,Male,05-02-2023,Dolni Morava,CZE,Switzerland,Junior,Snowboard Cross,6,20.00
-37,Kocherhans Noah,Male,04-02-2023,Dolni Morava,CZE,Switzerland,Junior,Snowboard Cross,17,7.00
-38,Kocherhans Noah,Male,03-02-2023,Dolni Morava,CZE,Switzerland,Junior,Snowboard Cross,6,20.00
-39,Kocherhans Noah,Male,14-01-2023,Lenk,SUI,Switzerland,FIS,Snowboard Cross,14,9.00
-40,Kocherhans Noah,Male,08-01-2023,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,9,34.80
-41,Kocherhans Noah,Male,07-01-2023,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,17,7.00
-42,Kocherhans Noah,Male,27-11-2022,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,49,2.53
-43,Kocherhans Noah,Male,26-11-2022,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,41,3.28
-44,Kocherhans Noah,Male,25-11-2022,Pitztal,AUT,Switzerland,FIS,Snowboard Cross,94,0.51
-45,Kocherhans Noah,Male,27-03-2022,Lenk,SUI,Switzerland,National Championships,Snowboard Cross,43,4.58
-46,Kocherhans Noah,Male,20-03-2022,Passo San Pellegrino,ITA,Switzerland,Junior,Snowboard Cross,33,2.88
-47,Kocherhans Noah,Male,19-03-2022,Passo San Pellegrino,ITA,Switzerland,Junior,Snowboard Cross,38,2.29
-48,Kocherhans Noah,Male,09-03-2022,Lenk,SUI,Switzerland,Junior,Snowboard Cross,11,12.00
-49,Kocherhans Noah,Male,27-02-2022,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,11,12.00
-50,Kocherhans Noah,Male,26-02-2022,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,17,7.00
-51,Kocherhans Noah,Male,20-02-2022,Passo San Pellegrino,ITA,Switzerland,Junior,Snowboard Cross,25,4.20
-52,Kocherhans Noah,Male,19-02-2022,Passo San Pellegrino,ITA,Switzerland,Junior,Snowboard Cross,22,6.30
-53,Kocherhans Noah,Male,13-02-2022,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,49,1.90
-54,Kocherhans Noah,Male,12-02-2022,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,25,7.20
-55,Kocherhans Noah,Male,15-12-2021,Reiteralm,AUT,Switzerland,Junior,Snowboard Cross,47,
-56,Kocherhans Noah,Male,14-12-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,74,
-57,Kocherhans Noah,Male,13-12-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,69,2.16
+0,Kocherhans Noah,Male,08-02-2025,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,47,
+1,Kocherhans Noah,Male,02-02-2025,Reiteralm,AUT,Switzerland,Junior,Snowboard Cross,18,6.50
+2,Kocherhans Noah,Male,01-02-2025,Reiteralm,AUT,Switzerland,Junior,Snowboard Cross,17,7.00
+3,Kocherhans Noah,Male,25-01-2025,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,DNS,
+4,Kocherhans Noah,Male,24-01-2025,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,10,13.00
+5,Kocherhans Noah,Male,12-01-2025,Lenk,SUI,Switzerland,Junior Regional Cup,Snowboard Cross,34,2.64
+6,Kocherhans Noah,Male,01-12-2024,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,51,1.82
+7,Kocherhans Noah,Male,30-11-2024,Pitztal,AUT,Switzerland,Qualification,Snowboard Cross,21,
+8,Kocherhans Noah,Male,30-11-2024,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,21,12.00
+9,Kocherhans Noah,Male,27-11-2024,Pitztal,AUT,Switzerland,Qualification,Snowboard Cross,90,
+10,Kocherhans Noah,Male,27-11-2024,Pitztal,AUT,Switzerland,European Cup,Snowboard Cross,90,
+11,Kocherhans Noah,Male,24-03-2024,Lenk,SUI,Switzerland,National Championships,Snowboard Cross,25,7.20
+12,Kocherhans Noah,Male,22-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,48,3.86
+13,Kocherhans Noah,Male,21-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,60,3.00
+14,Kocherhans Noah,Male,14-03-2024,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,44,3.46
+15,Kocherhans Noah,Male,12-03-2024,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,10,18.20
+16,Kocherhans Noah,Male,11-03-2024,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,25,9.00
+17,Kocherhans Noah,Male,02-03-2024,St. Moritz,SUI,Switzerland,National Junior Championships,Snowboard Cross,13,14.00
+18,Kocherhans Noah,Male,25-02-2024,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,56,
+19,Kocherhans Noah,Male,24-02-2024,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,49,5.06
+20,Kocherhans Noah,Male,03-02-2024,Dolni Morava,CZE,Switzerland,FIS,Snowboard Cross,8,22.40
+21,Kocherhans Noah,Male,02-02-2024,Dolni Morava,CZE,Switzerland,Junior,Snowboard Cross,8,28.80
+22,Kocherhans Noah,Male,01-02-2024,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,55,3.08
+23,Kocherhans Noah,Male,31-01-2024,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,36,4.33
+24,Kocherhans Noah,Male,28-01-2024,Lenk,SUI,Switzerland,FIS,Snowboard Cross,3,42.00
+25,Kocherhans Noah,Male,27-01-2024,Lenk,SUI,Switzerland,FIS,Snowboard Cross,3,42.00
+26,Kocherhans Noah,Male,21-01-2024,Gangwon/Welli Hilli,KOR,Switzerland,Youth Olympic Winter Games,Snowboard Cross Team,4,
+27,Kocherhans Noah,Male,20-01-2024,Gangwon/Welli Hilli,KOR,Switzerland,Youth Olympic Winter Games,Snowboard Cross,15,17.60
+28,Kocherhans Noah,Male,17-12-2023,Reiteralm,AUT,Switzerland,Junior,Snowboard Cross,7,25.20
+29,Kocherhans Noah,Male,09-12-2023,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,21,10.00
+30,Kocherhans Noah,Male,01-04-2023,St. Moritz,SUI,Switzerland,National Championships,Snowboard Cross,6,116.00
+31,Kocherhans Noah,Male,30-03-2023,Passo San Pellegrino,ITA,Switzerland,FIS Junior World Championships,Snowboard Cross,49,5.06
+32,Kocherhans Noah,Male,19-03-2023,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,37,3.49
+33,Kocherhans Noah,Male,18-03-2023,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,47,2.95
+34,Kocherhans Noah,Male,12-03-2023,Lenk,SUI,Switzerland,National Junior Championships,Snowboard Cross,25,5.40
+35,Kocherhans Noah,Male,19-02-2023,Flumserberg,SUI,Switzerland,Junior,Snowboard Cross,17,15.40
+36,Kocherhans Noah,Male,18-02-2023,Flumserberg,SUI,Switzerland,Junior,Snowboard Cross,9,31.90
+37,Kocherhans Noah,Male,05-02-2023,Dolni Morava,CZE,Switzerland,Junior,Snowboard Cross,6,20.00
+38,Kocherhans Noah,Male,04-02-2023,Dolni Morava,CZE,Switzerland,Junior,Snowboard Cross,17,7.00
+39,Kocherhans Noah,Male,03-02-2023,Dolni Morava,CZE,Switzerland,Junior,Snowboard Cross,6,20.00
+40,Kocherhans Noah,Male,14-01-2023,Lenk,SUI,Switzerland,FIS,Snowboard Cross,14,9.00
+41,Kocherhans Noah,Male,08-01-2023,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,9,34.80
+42,Kocherhans Noah,Male,07-01-2023,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,17,7.00
+43,Kocherhans Noah,Male,27-11-2022,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,49,2.53
+44,Kocherhans Noah,Male,26-11-2022,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,41,3.28
+45,Kocherhans Noah,Male,25-11-2022,Pitztal,AUT,Switzerland,FIS,Snowboard Cross,94,0.51
+46,Kocherhans Noah,Male,27-03-2022,Lenk,SUI,Switzerland,National Championships,Snowboard Cross,43,4.58
+47,Kocherhans Noah,Male,20-03-2022,Passo San Pellegrino,ITA,Switzerland,Junior,Snowboard Cross,33,2.88
+48,Kocherhans Noah,Male,19-03-2022,Passo San Pellegrino,ITA,Switzerland,Junior,Snowboard Cross,38,2.29
+49,Kocherhans Noah,Male,09-03-2022,Lenk,SUI,Switzerland,Junior,Snowboard Cross,11,12.00
+50,Kocherhans Noah,Male,27-02-2022,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,11,12.00
+51,Kocherhans Noah,Male,26-02-2022,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,17,7.00
+52,Kocherhans Noah,Male,20-02-2022,Passo San Pellegrino,ITA,Switzerland,Junior,Snowboard Cross,25,4.20
+53,Kocherhans Noah,Male,19-02-2022,Passo San Pellegrino,ITA,Switzerland,Junior,Snowboard Cross,22,6.30
+54,Kocherhans Noah,Male,13-02-2022,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,49,1.90
+55,Kocherhans Noah,Male,12-02-2022,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,25,7.20
+56,Kocherhans Noah,Male,15-12-2021,Reiteralm,AUT,Switzerland,Junior,Snowboard Cross,47,
+57,Kocherhans Noah,Male,14-12-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,74,
+58,Kocherhans Noah,Male,13-12-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,69,2.16
