@@ -1,85 +1,86 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Rabanser Tommy,Male,08-02-2025,Santa Cristina Val Gardena,ITA,Italy,FIS,Giant Slalom,2,
-1,Rabanser Tommy,Male,02-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,2,
-2,Rabanser Tommy,Male,02-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,3,156.00
-3,Rabanser Tommy,Male,01-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,1,
-4,Rabanser Tommy,Male,01-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,9,84.10
-5,Rabanser Tommy,Male,26-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,2,256.00
-6,Rabanser Tommy,Male,25-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,1,180.00
-7,Rabanser Tommy,Male,22-01-2025,Bansko,BUL,Italy,European Cup,Parallel Giant Slalom,12,63.80
-8,Rabanser Tommy,Male,21-01-2025,Bansko,BUL,Italy,European Cup,Parallel Giant Slalom,9,84.10
-9,Rabanser Tommy,Male,19-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,DSQ,
-10,Rabanser Tommy,Male,19-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,DSQ,
-11,Rabanser Tommy,Male,18-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,33,24.00
-12,Rabanser Tommy,Male,18-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,33,
-13,Rabanser Tommy,Male,12-01-2025,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,1,150.00
-14,Rabanser Tommy,Male,11-01-2025,Folgaria,ITA,Italy,Qualification,Parallel Giant Slalom,9,
-15,Rabanser Tommy,Male,11-01-2025,Folgaria,ITA,Italy,European Cup,Parallel Giant Slalom,11,43.20
-16,Rabanser Tommy,Male,10-01-2025,Folgaria,ITA,Italy,Qualification,Parallel Giant Slalom,3,
-17,Rabanser Tommy,Male,10-01-2025,Folgaria,ITA,Italy,European Cup,Parallel Giant Slalom,1,180.00
-18,Rabanser Tommy,Male,06-01-2025,Simonhoehe,AUT,Italy,Junior Regional Cup,Parallel Giant Slalom,4,90.00
-19,Rabanser Tommy,Male,05-01-2025,Simonhoehe,AUT,Italy,Junior Regional Cup,Parallel Giant Slalom,2,144.00
-20,Rabanser Tommy,Male,22-12-2024,Moninec,CZE,Italy,FIS,Parallel Slalom,27,7.20
-21,Rabanser Tommy,Male,21-12-2024,Moninec,CZE,Italy,FIS,Parallel Slalom,1,160.00
-22,Rabanser Tommy,Male,20-12-2024,Moninec,CZE,Italy,European Cup,Parallel Slalom,1,180.00
-23,Rabanser Tommy,Male,19-12-2024,Moninec,CZE,Italy,European Cup,Parallel Slalom,DSQ,
-24,Rabanser Tommy,Male,15-12-2024,Götschen,GER,Italy,European Cup,Parallel Slalom,1,240.00
-25,Rabanser Tommy,Male,14-12-2024,Götschen,GER,Italy,European Cup,Parallel Slalom,3,96.00
-26,Rabanser Tommy,Male,24-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Slalom Team,10,
-27,Rabanser Tommy,Male,23-03-2024,Lachtal,AUT,Italy,Qualification,Parallel Slalom,1,
-28,Rabanser Tommy,Male,23-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Slalom,5,108.00
-29,Rabanser Tommy,Male,22-03-2024,Lachtal,AUT,Italy,Qualification,Parallel Giant Slalom,3,
-30,Rabanser Tommy,Male,22-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Giant Slalom,6,96.00
-31,Rabanser Tommy,Male,13-03-2024,Davos/Rinerhorn ,SUI,Italy,European Cup,Parallel Giant Slalom,11,86.40
-32,Rabanser Tommy,Male,12-03-2024,Davos/Rinerhorn ,SUI,Italy,European Cup,Parallel Giant Slalom,13,72.00
-33,Rabanser Tommy,Male,10-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,3,72.00
-34,Rabanser Tommy,Male,09-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,20,13.20
-35,Rabanser Tommy,Male,24-02-2024,Alleghe,ITA,Italy,Junior,Parallel Giant Slalom,3,90.00
-36,Rabanser Tommy,Male,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,7,104.40
-37,Rabanser Tommy,Male,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,12,63.80
-38,Rabanser Tommy,Male,04-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,4,70.00
-39,Rabanser Tommy,Male,03-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,2,112.00
-40,Rabanser Tommy,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,5,72.00
-41,Rabanser Tommy,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,1,130.00
-42,Rabanser Tommy,Male,14-01-2024,Gosau,AUT,Italy,FIS,Parallel Slalom,DSQ,
-43,Rabanser Tommy,Male,13-01-2024,Gosau,AUT,Italy,FIS,Parallel Slalom,2,80.00
-44,Rabanser Tommy,Male,12-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,7,86.40
-45,Rabanser Tommy,Male,12-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,8,
-46,Rabanser Tommy,Male,11-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,18,31.20
-47,Rabanser Tommy,Male,11-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,18,
-48,Rabanser Tommy,Male,05-01-2024,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,1,110.00
-49,Rabanser Tommy,Male,22-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,1,180.00
-50,Rabanser Tommy,Male,21-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,6,64.00
-51,Rabanser Tommy,Male,20-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,8,70.40
-52,Rabanser Tommy,Male,19-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,25,13.20
-53,Rabanser Tommy,Male,10-12-2023,Götschen,GER,Italy,Junior,Parallel Slalom,8,41.60
-54,Rabanser Tommy,Male,09-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,17,
+0,Rabanser Tommy,Male,09-02-2025,Santa Cristina Val Gardena,ITA,Italy,FIS,Giant Slalom,DNS1,
+1,Rabanser Tommy,Male,08-02-2025,Santa Cristina Val Gardena,ITA,Italy,FIS,Giant Slalom,2,
+2,Rabanser Tommy,Male,02-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,2,
+3,Rabanser Tommy,Male,02-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,3,156.00
+4,Rabanser Tommy,Male,01-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,1,
+5,Rabanser Tommy,Male,01-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,9,84.10
+6,Rabanser Tommy,Male,26-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,2,256.00
+7,Rabanser Tommy,Male,25-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,1,180.00
+8,Rabanser Tommy,Male,22-01-2025,Bansko,BUL,Italy,European Cup,Parallel Giant Slalom,12,63.80
+9,Rabanser Tommy,Male,21-01-2025,Bansko,BUL,Italy,European Cup,Parallel Giant Slalom,9,84.10
+10,Rabanser Tommy,Male,19-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,DSQ,
+11,Rabanser Tommy,Male,19-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,DSQ,
+12,Rabanser Tommy,Male,18-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,33,24.00
+13,Rabanser Tommy,Male,18-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,33,
+14,Rabanser Tommy,Male,12-01-2025,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,1,150.00
+15,Rabanser Tommy,Male,11-01-2025,Folgaria,ITA,Italy,Qualification,Parallel Giant Slalom,9,
+16,Rabanser Tommy,Male,11-01-2025,Folgaria,ITA,Italy,European Cup,Parallel Giant Slalom,11,43.20
+17,Rabanser Tommy,Male,10-01-2025,Folgaria,ITA,Italy,Qualification,Parallel Giant Slalom,3,
+18,Rabanser Tommy,Male,10-01-2025,Folgaria,ITA,Italy,European Cup,Parallel Giant Slalom,1,180.00
+19,Rabanser Tommy,Male,06-01-2025,Simonhoehe,AUT,Italy,Junior Regional Cup,Parallel Giant Slalom,4,90.00
+20,Rabanser Tommy,Male,05-01-2025,Simonhoehe,AUT,Italy,Junior Regional Cup,Parallel Giant Slalom,2,144.00
+21,Rabanser Tommy,Male,22-12-2024,Moninec,CZE,Italy,FIS,Parallel Slalom,27,7.20
+22,Rabanser Tommy,Male,21-12-2024,Moninec,CZE,Italy,FIS,Parallel Slalom,1,160.00
+23,Rabanser Tommy,Male,20-12-2024,Moninec,CZE,Italy,European Cup,Parallel Slalom,1,180.00
+24,Rabanser Tommy,Male,19-12-2024,Moninec,CZE,Italy,European Cup,Parallel Slalom,DSQ,
+25,Rabanser Tommy,Male,15-12-2024,Götschen,GER,Italy,European Cup,Parallel Slalom,1,240.00
+26,Rabanser Tommy,Male,14-12-2024,Götschen,GER,Italy,European Cup,Parallel Slalom,3,96.00
+27,Rabanser Tommy,Male,24-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Slalom Team,10,
+28,Rabanser Tommy,Male,23-03-2024,Lachtal,AUT,Italy,Qualification,Parallel Slalom,1,
+29,Rabanser Tommy,Male,23-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Slalom,5,108.00
+30,Rabanser Tommy,Male,22-03-2024,Lachtal,AUT,Italy,Qualification,Parallel Giant Slalom,3,
+31,Rabanser Tommy,Male,22-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Giant Slalom,6,96.00
+32,Rabanser Tommy,Male,13-03-2024,Davos/Rinerhorn ,SUI,Italy,European Cup,Parallel Giant Slalom,11,86.40
+33,Rabanser Tommy,Male,12-03-2024,Davos/Rinerhorn ,SUI,Italy,European Cup,Parallel Giant Slalom,13,72.00
+34,Rabanser Tommy,Male,10-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,3,72.00
+35,Rabanser Tommy,Male,09-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,20,13.20
+36,Rabanser Tommy,Male,24-02-2024,Alleghe,ITA,Italy,Junior,Parallel Giant Slalom,3,90.00
+37,Rabanser Tommy,Male,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,7,104.40
+38,Rabanser Tommy,Male,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,12,63.80
+39,Rabanser Tommy,Male,04-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,4,70.00
+40,Rabanser Tommy,Male,03-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,2,112.00
+41,Rabanser Tommy,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,5,72.00
+42,Rabanser Tommy,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,1,130.00
+43,Rabanser Tommy,Male,14-01-2024,Gosau,AUT,Italy,FIS,Parallel Slalom,DSQ,
+44,Rabanser Tommy,Male,13-01-2024,Gosau,AUT,Italy,FIS,Parallel Slalom,2,80.00
+45,Rabanser Tommy,Male,12-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,7,86.40
+46,Rabanser Tommy,Male,12-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,8,
+47,Rabanser Tommy,Male,11-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,18,31.20
+48,Rabanser Tommy,Male,11-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,18,
+49,Rabanser Tommy,Male,05-01-2024,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,1,110.00
+50,Rabanser Tommy,Male,22-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,1,180.00
+51,Rabanser Tommy,Male,21-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,6,64.00
+52,Rabanser Tommy,Male,20-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,8,70.40
+53,Rabanser Tommy,Male,19-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,25,13.20
+54,Rabanser Tommy,Male,10-12-2023,Götschen,GER,Italy,Junior,Parallel Slalom,8,41.60
 55,Rabanser Tommy,Male,09-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,17,50.40
-56,Rabanser Tommy,Male,08-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,38,6.88
-57,Rabanser Tommy,Male,08-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,38,
-58,Rabanser Tommy,Male,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,21,29.00
-59,Rabanser Tommy,Male,19-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,5,108.00
-60,Rabanser Tommy,Male,18-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,11,43.20
-61,Rabanser Tommy,Male,12-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,5,81.00
-62,Rabanser Tommy,Male,11-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,5,99.00
-63,Rabanser Tommy,Male,05-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,7,57.60
-64,Rabanser Tommy,Male,04-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,14,39.60
-65,Rabanser Tommy,Male,26-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,DSQ,
-66,Rabanser Tommy,Male,25-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,5,58.50
-67,Rabanser Tommy,Male,19-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,11,28.80
-68,Rabanser Tommy,Male,18-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,7,43.20
-69,Rabanser Tommy,Male,12-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,11,52.80
-70,Rabanser Tommy,Male,11-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,21,22.00
-71,Rabanser Tommy,Male,29-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,16,
-72,Rabanser Tommy,Male,29-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,16,27.00
-73,Rabanser Tommy,Male,28-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,19,
-74,Rabanser Tommy,Male,28-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,19,21.60
-75,Rabanser Tommy,Male,15-01-2023,Alleghe,ITA,Italy,Qualification,Parallel Slalom,7,
-76,Rabanser Tommy,Male,15-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,12,35.20
-77,Rabanser Tommy,Male,14-01-2023,Alleghe,ITA,Italy,Qualification,Parallel Slalom,28,
-78,Rabanser Tommy,Male,14-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,28,6.40
-79,Rabanser Tommy,Male,08-01-2023,Haus im Ennstal,AUT,Italy,Junior,Giant Slalom,24,8.40
-80,Rabanser Tommy,Male,07-01-2023,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,6,48.00
-81,Rabanser Tommy,Male,18-12-2022,Hochfügen,GER,Italy,Qualification,Parallel Giant Slalom,27,
-82,Rabanser Tommy,Male,18-12-2022,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,27,11.70
-83,Rabanser Tommy,Male,17-12-2022,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,35,3.60
+56,Rabanser Tommy,Male,09-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,17,
+57,Rabanser Tommy,Male,08-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,38,6.88
+58,Rabanser Tommy,Male,08-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,38,
+59,Rabanser Tommy,Male,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,21,29.00
+60,Rabanser Tommy,Male,19-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,5,108.00
+61,Rabanser Tommy,Male,18-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,11,43.20
+62,Rabanser Tommy,Male,12-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,5,81.00
+63,Rabanser Tommy,Male,11-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,5,99.00
+64,Rabanser Tommy,Male,05-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,7,57.60
+65,Rabanser Tommy,Male,04-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,14,39.60
+66,Rabanser Tommy,Male,26-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,DSQ,
+67,Rabanser Tommy,Male,25-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,5,58.50
+68,Rabanser Tommy,Male,19-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,11,28.80
+69,Rabanser Tommy,Male,18-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,7,43.20
+70,Rabanser Tommy,Male,12-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,11,52.80
+71,Rabanser Tommy,Male,11-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,21,22.00
+72,Rabanser Tommy,Male,29-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,16,
+73,Rabanser Tommy,Male,29-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,16,27.00
+74,Rabanser Tommy,Male,28-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,19,
+75,Rabanser Tommy,Male,28-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,19,21.60
+76,Rabanser Tommy,Male,15-01-2023,Alleghe,ITA,Italy,Qualification,Parallel Slalom,7,
+77,Rabanser Tommy,Male,15-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,12,35.20
+78,Rabanser Tommy,Male,14-01-2023,Alleghe,ITA,Italy,Qualification,Parallel Slalom,28,
+79,Rabanser Tommy,Male,14-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,28,6.40
+80,Rabanser Tommy,Male,08-01-2023,Haus im Ennstal,AUT,Italy,Junior,Giant Slalom,24,8.40
+81,Rabanser Tommy,Male,07-01-2023,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,6,48.00
+82,Rabanser Tommy,Male,18-12-2022,Hochfügen,GER,Italy,Qualification,Parallel Giant Slalom,27,
+83,Rabanser Tommy,Male,18-12-2022,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,27,11.70
+84,Rabanser Tommy,Male,17-12-2022,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,35,3.60

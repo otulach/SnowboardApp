@@ -1,40 +1,41 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Piekaj Lukasz,Male,08-02-2025,Simonhoehe,AUT,Poland,National Championships,Parallel Giant Slalom,25,17.40
-1,Piekaj Lukasz,Male,19-01-2025,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,7,32.40
-2,Piekaj Lukasz,Male,18-01-2025,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,17,12.60
-3,Piekaj Lukasz,Male,22-12-2024,Moninec,CZE,Poland,FIS,Parallel Slalom,23,12.80
-4,Piekaj Lukasz,Male,21-12-2024,Moninec,CZE,Poland,FIS,Parallel Slalom,41,2.91
-5,Piekaj Lukasz,Male,17-03-2024,St. Moritz,SUI,Poland,European Cup,Parallel Slalom,45,
-6,Piekaj Lukasz,Male,16-03-2024,St. Moritz,SUI,Poland,European Cup,Parallel Giant Slalom,55,
-7,Piekaj Lukasz,Male,07-01-2024,Dolni Morava,CZE,Poland,National Championships,Parallel Giant Slalom,11,26.40
-8,Piekaj Lukasz,Male,06-01-2024,Dolni Morava,CZE,Poland,National Championships,Parallel Slalom,12,24.20
-9,Piekaj Lukasz,Male,09-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,61,4.39
-10,Piekaj Lukasz,Male,09-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,61,
-11,Piekaj Lukasz,Male,05-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,38,6.11
-12,Piekaj Lukasz,Male,04-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,DNS,
-13,Piekaj Lukasz,Male,04-01-2023,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,DNS,
-14,Piekaj Lukasz,Male,13-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Slalom,20,12.10
-15,Piekaj Lukasz,Male,12-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Giant Slalom,19,13.20
-16,Piekaj Lukasz,Male,09-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,18,37.70
-17,Piekaj Lukasz,Male,08-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,30,9.28
-18,Piekaj Lukasz,Male,06-02-2022,Lenzerheide,SUI,Poland,European Cup,Parallel Slalom,32,
-19,Piekaj Lukasz,Male,16-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,14,19.80
-20,Piekaj Lukasz,Male,15-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,16,16.50
-21,Piekaj Lukasz,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,FIS,Slalom,7,64.80
-22,Piekaj Lukasz,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,FIS,Parallel Slalom,8,57.60
-23,Piekaj Lukasz,Male,21-12-2021,Moninec,CZE,Poland,FIS,Parallel Slalom,24,14.00
-24,Piekaj Lukasz,Male,20-12-2021,Moninec,CZE,Poland,FIS,Parallel Slalom,24,14.00
-25,Piekaj Lukasz,Male,19-12-2021,Moninec,CZE,Poland,European Cup,Parallel Slalom,38,4.20
-26,Piekaj Lukasz,Male,18-12-2021,Moninec,CZE,Poland,European Cup,Parallel Slalom,42,3.58
-27,Piekaj Lukasz,Male,09-03-2021,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,30,9.28
-28,Piekaj Lukasz,Male,08-03-2021,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,36,5.71
-29,Piekaj Lukasz,Male,21-02-2021,Gerlitzen,AUT,Poland,National Championships,Parallel Slalom,54,4.15
-30,Piekaj Lukasz,Male,20-02-2021,Gerlitzen,AUT,Poland,National Championships,Parallel Giant Slalom,52,4.32
-31,Piekaj Lukasz,Male,01-03-2020,Pec pod Snezkou,CZE,Poland,FIS,Parallel Slalom,8,16.00
-32,Piekaj Lukasz,Male,27-03-2019,Piancavallo,ITA,Poland,National Championships,Parallel Giant Slalom,42,5.19
-33,Piekaj Lukasz,Male,26-03-2019,Piancavallo,ITA,Poland,National Championships,Parallel Slalom,46,
-34,Piekaj Lukasz,Male,24-03-2019,Paseky nad Jizerou,CZE,Poland,FIS,Parallel Slalom,18,14.30
-35,Piekaj Lukasz,Male,23-03-2019,Paseky nad Jizerou,CZE,Poland,FIS,Parallel Slalom,14,16.20
-36,Piekaj Lukasz,Male,20-01-2019,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,13,14.00
-37,Piekaj Lukasz,Male,19-01-2019,Dolni Morava,CZE,Poland,FIS,Parallel GS,8,16.00
-38,Piekaj Lukasz,Male,13-03-2018,Suche,POL,Poland,National Championships,Parallel GS,14,27.00
+0,Piekaj Lukasz,Male,09-02-2025,Simonhoehe,AUT,Poland,National Championships,Parallel Slalom,28,
+1,Piekaj Lukasz,Male,08-02-2025,Simonhoehe,AUT,Poland,National Championships,Parallel Giant Slalom,25,17.40
+2,Piekaj Lukasz,Male,19-01-2025,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,7,32.40
+3,Piekaj Lukasz,Male,18-01-2025,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,17,12.60
+4,Piekaj Lukasz,Male,22-12-2024,Moninec,CZE,Poland,FIS,Parallel Slalom,23,12.80
+5,Piekaj Lukasz,Male,21-12-2024,Moninec,CZE,Poland,FIS,Parallel Slalom,41,2.91
+6,Piekaj Lukasz,Male,17-03-2024,St. Moritz,SUI,Poland,European Cup,Parallel Slalom,45,
+7,Piekaj Lukasz,Male,16-03-2024,St. Moritz,SUI,Poland,European Cup,Parallel Giant Slalom,55,
+8,Piekaj Lukasz,Male,07-01-2024,Dolni Morava,CZE,Poland,National Championships,Parallel Giant Slalom,11,26.40
+9,Piekaj Lukasz,Male,06-01-2024,Dolni Morava,CZE,Poland,National Championships,Parallel Slalom,12,24.20
+10,Piekaj Lukasz,Male,09-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,61,4.39
+11,Piekaj Lukasz,Male,09-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,61,
+12,Piekaj Lukasz,Male,05-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,38,6.11
+13,Piekaj Lukasz,Male,04-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,DNS,
+14,Piekaj Lukasz,Male,04-01-2023,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,DNS,
+15,Piekaj Lukasz,Male,13-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Slalom,20,12.10
+16,Piekaj Lukasz,Male,12-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Giant Slalom,19,13.20
+17,Piekaj Lukasz,Male,09-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,18,37.70
+18,Piekaj Lukasz,Male,08-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,30,9.28
+19,Piekaj Lukasz,Male,06-02-2022,Lenzerheide,SUI,Poland,European Cup,Parallel Slalom,32,
+20,Piekaj Lukasz,Male,16-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,14,19.80
+21,Piekaj Lukasz,Male,15-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,16,16.50
+22,Piekaj Lukasz,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,FIS,Slalom,7,64.80
+23,Piekaj Lukasz,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,FIS,Parallel Slalom,8,57.60
+24,Piekaj Lukasz,Male,21-12-2021,Moninec,CZE,Poland,FIS,Parallel Slalom,24,14.00
+25,Piekaj Lukasz,Male,20-12-2021,Moninec,CZE,Poland,FIS,Parallel Slalom,24,14.00
+26,Piekaj Lukasz,Male,19-12-2021,Moninec,CZE,Poland,European Cup,Parallel Slalom,38,4.20
+27,Piekaj Lukasz,Male,18-12-2021,Moninec,CZE,Poland,European Cup,Parallel Slalom,42,3.58
+28,Piekaj Lukasz,Male,09-03-2021,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,30,9.28
+29,Piekaj Lukasz,Male,08-03-2021,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,36,5.71
+30,Piekaj Lukasz,Male,21-02-2021,Gerlitzen,AUT,Poland,National Championships,Parallel Slalom,54,4.15
+31,Piekaj Lukasz,Male,20-02-2021,Gerlitzen,AUT,Poland,National Championships,Parallel Giant Slalom,52,4.32
+32,Piekaj Lukasz,Male,01-03-2020,Pec pod Snezkou,CZE,Poland,FIS,Parallel Slalom,8,16.00
+33,Piekaj Lukasz,Male,27-03-2019,Piancavallo,ITA,Poland,National Championships,Parallel Giant Slalom,42,5.19
+34,Piekaj Lukasz,Male,26-03-2019,Piancavallo,ITA,Poland,National Championships,Parallel Slalom,46,
+35,Piekaj Lukasz,Male,24-03-2019,Paseky nad Jizerou,CZE,Poland,FIS,Parallel Slalom,18,14.30
+36,Piekaj Lukasz,Male,23-03-2019,Paseky nad Jizerou,CZE,Poland,FIS,Parallel Slalom,14,16.20
+37,Piekaj Lukasz,Male,20-01-2019,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,13,14.00
+38,Piekaj Lukasz,Male,19-01-2019,Dolni Morava,CZE,Poland,FIS,Parallel GS,8,16.00
+39,Piekaj Lukasz,Male,13-03-2018,Suche,POL,Poland,National Championships,Parallel GS,14,27.00

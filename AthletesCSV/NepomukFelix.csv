@@ -1,78 +1,79 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Nepomuk Felix,Male,08-02-2025,Santa Cristina Val Gardena,ITA,Germany,FIS,Giant Slalom,16,
-1,Nepomuk Felix,Male,02-02-2025,Ratschings,ITA,Germany,Qualification,Parallel Slalom,37,
-2,Nepomuk Felix,Male,02-02-2025,Ratschings,ITA,Germany,European Cup,Parallel Slalom,36,
-3,Nepomuk Felix,Male,01-02-2025,Ratschings,ITA,Germany,Qualification,Parallel Slalom,36,
-4,Nepomuk Felix,Male,01-02-2025,Ratschings,ITA,Germany,European Cup,Parallel Slalom,36,
-5,Nepomuk Felix,Male,26-01-2025,Simonhöhe,AUT,Germany,European Cup,Parallel Giant Slalom,63,
-6,Nepomuk Felix,Male,25-01-2025,Simonhöhe,AUT,Germany,European Cup,Parallel Giant Slalom,37,
-7,Nepomuk Felix,Male,19-01-2025,Samnaun,SUI,Germany,Junior Regional Cup,Parallel Slalom,8,22.40
-8,Nepomuk Felix,Male,18-01-2025,Samnaun,SUI,Germany,Junior Regional Cup,Parallel Slalom,12,15.40
-9,Nepomuk Felix,Male,12-01-2025,Nova Levante - Welschnofen,ITA,Germany,FIS,Parallel Giant Slalom,24,10.50
-10,Nepomuk Felix,Male,11-01-2025,Folgaria,ITA,Germany,European Cup,Parallel Giant Slalom,28,7.20
-11,Nepomuk Felix,Male,11-01-2025,Folgaria,ITA,Germany,Qualification,Parallel Giant Slalom,28,
-12,Nepomuk Felix,Male,10-01-2025,Folgaria,ITA,Germany,European Cup,Parallel Giant Slalom,22,16.20
-13,Nepomuk Felix,Male,10-01-2025,Folgaria,ITA,Germany,Qualification,Parallel Giant Slalom,22,
-14,Nepomuk Felix,Male,06-01-2025,Simonhoehe,AUT,Germany,Junior Regional Cup,Parallel Giant Slalom,17,25.20
-15,Nepomuk Felix,Male,05-01-2025,Simonhoehe,AUT,Germany,Junior Regional Cup,Parallel Giant Slalom,DSQ,
-16,Nepomuk Felix,Male,22-12-2024,Moninec,CZE,Germany,FIS,Parallel Slalom,30,5.12
-17,Nepomuk Felix,Male,21-12-2024,Moninec,CZE,Germany,FIS,Parallel Slalom,DSQ,
-18,Nepomuk Felix,Male,20-12-2024,Moninec,CZE,Germany,European Cup,Parallel Slalom,47,2.95
-19,Nepomuk Felix,Male,19-12-2024,Moninec,CZE,Germany,European Cup,Parallel Slalom,51,
-20,Nepomuk Felix,Male,15-12-2024,Götschen,GER,Germany,European Cup,Parallel Slalom,DNF,
-21,Nepomuk Felix,Male,14-12-2024,Götschen,GER,Germany,European Cup,Parallel Slalom,36,3.15
-22,Nepomuk Felix,Male,10-03-2024,Senales - Schnals,ITA,Germany,FIS,Parallel Slalom,18,15.60
-23,Nepomuk Felix,Male,09-03-2024,Senales - Schnals,ITA,Germany,FIS,Parallel Slalom,18,15.60
-24,Nepomuk Felix,Male,24-02-2024,Alleghe,ITA,Germany,Junior,Parallel Giant Slalom,21,15.00
-25,Nepomuk Felix,Male,09-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Slalom,37,
-26,Nepomuk Felix,Male,08-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Giant Slalom,38,5.54
-27,Nepomuk Felix,Male,04-02-2024,Haus im Ennstal,AUT,Germany,Junior,Parallel Giant Slalom,24,9.80
-28,Nepomuk Felix,Male,03-02-2024,Haus im Ennstal,AUT,Germany,Junior,Parallel Giant Slalom,25,8.40
-29,Nepomuk Felix,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Germany,FIS,Parallel Giant Slalom,33,3.84
-30,Nepomuk Felix,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Germany,FIS,Parallel Giant Slalom,25,7.80
-31,Nepomuk Felix,Male,14-01-2024,Gosau,AUT,Germany,FIS,Parallel Slalom,11,24.00
-32,Nepomuk Felix,Male,13-01-2024,Gosau,AUT,Germany,FIS,Parallel Slalom,DSQ,
-33,Nepomuk Felix,Male,12-01-2024,Folgaria,ITA,Germany,Qualification,Parallel Slalom,DSQ1,
+0,Nepomuk Felix,Male,09-02-2025,Santa Cristina Val Gardena,ITA,Germany,FIS,Giant Slalom,16,
+1,Nepomuk Felix,Male,08-02-2025,Santa Cristina Val Gardena,ITA,Germany,FIS,Giant Slalom,16,
+2,Nepomuk Felix,Male,02-02-2025,Ratschings,ITA,Germany,Qualification,Parallel Slalom,37,
+3,Nepomuk Felix,Male,02-02-2025,Ratschings,ITA,Germany,European Cup,Parallel Slalom,36,
+4,Nepomuk Felix,Male,01-02-2025,Ratschings,ITA,Germany,Qualification,Parallel Slalom,36,
+5,Nepomuk Felix,Male,01-02-2025,Ratschings,ITA,Germany,European Cup,Parallel Slalom,36,
+6,Nepomuk Felix,Male,26-01-2025,Simonhöhe,AUT,Germany,European Cup,Parallel Giant Slalom,63,
+7,Nepomuk Felix,Male,25-01-2025,Simonhöhe,AUT,Germany,European Cup,Parallel Giant Slalom,37,
+8,Nepomuk Felix,Male,19-01-2025,Samnaun,SUI,Germany,Junior Regional Cup,Parallel Slalom,8,22.40
+9,Nepomuk Felix,Male,18-01-2025,Samnaun,SUI,Germany,Junior Regional Cup,Parallel Slalom,12,15.40
+10,Nepomuk Felix,Male,12-01-2025,Nova Levante - Welschnofen,ITA,Germany,FIS,Parallel Giant Slalom,24,10.50
+11,Nepomuk Felix,Male,11-01-2025,Folgaria,ITA,Germany,European Cup,Parallel Giant Slalom,28,7.20
+12,Nepomuk Felix,Male,11-01-2025,Folgaria,ITA,Germany,Qualification,Parallel Giant Slalom,28,
+13,Nepomuk Felix,Male,10-01-2025,Folgaria,ITA,Germany,European Cup,Parallel Giant Slalom,22,16.20
+14,Nepomuk Felix,Male,10-01-2025,Folgaria,ITA,Germany,Qualification,Parallel Giant Slalom,22,
+15,Nepomuk Felix,Male,06-01-2025,Simonhoehe,AUT,Germany,Junior Regional Cup,Parallel Giant Slalom,17,25.20
+16,Nepomuk Felix,Male,05-01-2025,Simonhoehe,AUT,Germany,Junior Regional Cup,Parallel Giant Slalom,DSQ,
+17,Nepomuk Felix,Male,22-12-2024,Moninec,CZE,Germany,FIS,Parallel Slalom,30,5.12
+18,Nepomuk Felix,Male,21-12-2024,Moninec,CZE,Germany,FIS,Parallel Slalom,DSQ,
+19,Nepomuk Felix,Male,20-12-2024,Moninec,CZE,Germany,European Cup,Parallel Slalom,47,2.95
+20,Nepomuk Felix,Male,19-12-2024,Moninec,CZE,Germany,European Cup,Parallel Slalom,51,
+21,Nepomuk Felix,Male,15-12-2024,Götschen,GER,Germany,European Cup,Parallel Slalom,DNF,
+22,Nepomuk Felix,Male,14-12-2024,Götschen,GER,Germany,European Cup,Parallel Slalom,36,3.15
+23,Nepomuk Felix,Male,10-03-2024,Senales - Schnals,ITA,Germany,FIS,Parallel Slalom,18,15.60
+24,Nepomuk Felix,Male,09-03-2024,Senales - Schnals,ITA,Germany,FIS,Parallel Slalom,18,15.60
+25,Nepomuk Felix,Male,24-02-2024,Alleghe,ITA,Germany,Junior,Parallel Giant Slalom,21,15.00
+26,Nepomuk Felix,Male,09-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Slalom,37,
+27,Nepomuk Felix,Male,08-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Giant Slalom,38,5.54
+28,Nepomuk Felix,Male,04-02-2024,Haus im Ennstal,AUT,Germany,Junior,Parallel Giant Slalom,24,9.80
+29,Nepomuk Felix,Male,03-02-2024,Haus im Ennstal,AUT,Germany,Junior,Parallel Giant Slalom,25,8.40
+30,Nepomuk Felix,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Germany,FIS,Parallel Giant Slalom,33,3.84
+31,Nepomuk Felix,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Germany,FIS,Parallel Giant Slalom,25,7.80
+32,Nepomuk Felix,Male,14-01-2024,Gosau,AUT,Germany,FIS,Parallel Slalom,11,24.00
+33,Nepomuk Felix,Male,13-01-2024,Gosau,AUT,Germany,FIS,Parallel Slalom,DSQ,
 34,Nepomuk Felix,Male,12-01-2024,Folgaria,ITA,Germany,European Cup,Parallel Slalom,DSQ,
-35,Nepomuk Felix,Male,11-01-2024,Folgaria,ITA,Germany,Qualification,Parallel Slalom,29,
+35,Nepomuk Felix,Male,12-01-2024,Folgaria,ITA,Germany,Qualification,Parallel Slalom,DSQ1,
 36,Nepomuk Felix,Male,11-01-2024,Folgaria,ITA,Germany,European Cup,Parallel Slalom,29,8.64
-37,Nepomuk Felix,Male,05-01-2024,Simonhöhe,AUT,Germany,Junior,Parallel Giant Slalom,18,14.30
-38,Nepomuk Felix,Male,22-12-2023,Moninec,CZE,Germany,FIS,Parallel Slalom,DNF,
-39,Nepomuk Felix,Male,21-12-2023,Moninec,CZE,Germany,FIS,Parallel Slalom,21,16.00
-40,Nepomuk Felix,Male,20-12-2023,Moninec,CZE,Germany,European Cup,Parallel Slalom,49,3.48
-41,Nepomuk Felix,Male,19-12-2023,Moninec,CZE,Germany,European Cup,Parallel Slalom,47,3.61
-42,Nepomuk Felix,Male,10-12-2023,Götschen,GER,Germany,Junior,Parallel Slalom,DNF,
-43,Nepomuk Felix,Male,09-12-2023,Götschen,GER,Germany,European Cup,Parallel Slalom,55,5.04
-44,Nepomuk Felix,Male,09-12-2023,Götschen,GER,Germany,Qualification,Parallel Slalom,55,
-45,Nepomuk Felix,Male,08-12-2023,Götschen,GER,Germany,European Cup,Parallel Slalom,65,3.96
-46,Nepomuk Felix,Male,08-12-2023,Götschen,GER,Germany,Qualification,Parallel Slalom,65,
-47,Nepomuk Felix,Male,12-03-2023,ORTISEI,ITA,Germany,FIS,Giant Slalom,17,25.20
-48,Nepomuk Felix,Male,11-03-2023,ORTISEI,ITA,Germany,FIS,Giant Slalom,18,28.60
-49,Nepomuk Felix,Male,05-03-2023,Val Senales,ITA,Germany,FIS,Parallel Slalom,24,
-50,Nepomuk Felix,Male,04-03-2023,Val Senales,ITA,Germany,FIS,Parallel Slalom,24,15.40
-51,Nepomuk Felix,Male,12-02-2023,Funes - Vilnoess,ITA,Germany,FIS,Parallel Giant Slalom,36,4.33
-52,Nepomuk Felix,Male,11-02-2023,Funes - Vilnoess,ITA,Germany,FIS,Parallel Giant Slalom,35,4.40
-53,Nepomuk Felix,Male,05-02-2023,Gosau,AUT,Germany,FIS,Slalom,15,17.60
-54,Nepomuk Felix,Male,04-02-2023,Gosau,AUT,Germany,FIS,Slalom,19,13.20
+37,Nepomuk Felix,Male,11-01-2024,Folgaria,ITA,Germany,Qualification,Parallel Slalom,29,
+38,Nepomuk Felix,Male,05-01-2024,Simonhöhe,AUT,Germany,Junior,Parallel Giant Slalom,18,14.30
+39,Nepomuk Felix,Male,22-12-2023,Moninec,CZE,Germany,FIS,Parallel Slalom,DNF,
+40,Nepomuk Felix,Male,21-12-2023,Moninec,CZE,Germany,FIS,Parallel Slalom,21,16.00
+41,Nepomuk Felix,Male,20-12-2023,Moninec,CZE,Germany,European Cup,Parallel Slalom,49,3.48
+42,Nepomuk Felix,Male,19-12-2023,Moninec,CZE,Germany,European Cup,Parallel Slalom,47,3.61
+43,Nepomuk Felix,Male,10-12-2023,Götschen,GER,Germany,Junior,Parallel Slalom,DNF,
+44,Nepomuk Felix,Male,09-12-2023,Götschen,GER,Germany,European Cup,Parallel Slalom,55,5.04
+45,Nepomuk Felix,Male,09-12-2023,Götschen,GER,Germany,Qualification,Parallel Slalom,55,
+46,Nepomuk Felix,Male,08-12-2023,Götschen,GER,Germany,European Cup,Parallel Slalom,65,3.96
+47,Nepomuk Felix,Male,08-12-2023,Götschen,GER,Germany,Qualification,Parallel Slalom,65,
+48,Nepomuk Felix,Male,12-03-2023,ORTISEI,ITA,Germany,FIS,Giant Slalom,17,25.20
+49,Nepomuk Felix,Male,11-03-2023,ORTISEI,ITA,Germany,FIS,Giant Slalom,18,28.60
+50,Nepomuk Felix,Male,05-03-2023,Val Senales,ITA,Germany,FIS,Parallel Slalom,24,
+51,Nepomuk Felix,Male,04-03-2023,Val Senales,ITA,Germany,FIS,Parallel Slalom,24,15.40
+52,Nepomuk Felix,Male,12-02-2023,Funes - Vilnoess,ITA,Germany,FIS,Parallel Giant Slalom,36,4.33
+53,Nepomuk Felix,Male,11-02-2023,Funes - Vilnoess,ITA,Germany,FIS,Parallel Giant Slalom,35,4.40
+54,Nepomuk Felix,Male,05-02-2023,Gosau,AUT,Germany,FIS,Slalom,15,17.60
 55,Nepomuk Felix,Male,04-02-2023,Gosau,AUT,Germany,FIS,Slalom,28,
-56,Nepomuk Felix,Male,15-01-2023,Alleghe,ITA,Germany,Qualification,Parallel Slalom,37,
-57,Nepomuk Felix,Male,15-01-2023,Alleghe,ITA,Germany,European Cup,Parallel Slalom,37,
-58,Nepomuk Felix,Male,14-01-2023,Alleghe,ITA,Germany,Qualification,Parallel Slalom,32,
-59,Nepomuk Felix,Male,14-01-2023,Alleghe,ITA,Germany,European Cup,Parallel Slalom,32,
-60,Nepomuk Felix,Male,08-01-2023,Haus im Ennstal,AUT,Germany,Junior,Giant Slalom,13,24.00
-61,Nepomuk Felix,Male,07-01-2023,Haus im Ennstal,AUT,Germany,Junior,Parallel Giant Slalom,16,18.00
-62,Nepomuk Felix,Male,18-12-2022,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,47,4.26
-63,Nepomuk Felix,Male,18-12-2022,Hochfügen,GER,Germany,Qualification,Parallel Giant Slalom,47,
-64,Nepomuk Felix,Male,17-12-2022,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,44,3.11
-65,Nepomuk Felix,Male,21-03-2021,Pizol,SUI,Germany,Junior,Parallel Slalom,DSQ,
-66,Nepomuk Felix,Male,20-03-2021,Pizol,SUI,Germany,Junior,Parallel Slalom,12,11.00
-67,Nepomuk Felix,Male,07-03-2021,Simonhöhe,AUT,Germany,Junior,Parallel Giant Slalom,23,7.20
-68,Nepomuk Felix,Male,06-03-2021,Simonhöhe,AUT,Germany,Junior,Parallel Giant Slalom,20,9.90
-69,Nepomuk Felix,Male,21-02-2021,Gerlitzen,AUT,Germany,National Championships,Parallel Slalom,53,4.23
-70,Nepomuk Felix,Male,20-02-2021,Gerlitzen,AUT,Germany,National Championships,Parallel Giant Slalom,55,4.06
-71,Nepomuk Felix,Male,07-02-2021,Gosau,AUT,Germany,FIS,Parallel Slalom,20,7.70
-72,Nepomuk Felix,Male,06-02-2021,Gosau,AUT,Germany,FIS,Parallel Slalom,24,4.90
-73,Nepomuk Felix,Male,23-01-2021,Haus im Ennstal,AUT,Germany,Junior,Parallel Slalom,15,8.00
-74,Nepomuk Felix,Male,22-01-2021,Haus im Ennstal,AUT,Germany,Junior,Parallel Slalom,18,6.50
-75,Nepomuk Felix,Male,10-01-2021,Goetschen,GER,Germany,Junior,Parallel Slalom,20,11.00
-76,Nepomuk Felix,Male,09-01-2021,Goetschen,GER,Germany,Junior,Parallel Slalom,22,9.00
+56,Nepomuk Felix,Male,04-02-2023,Gosau,AUT,Germany,FIS,Slalom,19,13.20
+57,Nepomuk Felix,Male,15-01-2023,Alleghe,ITA,Germany,Qualification,Parallel Slalom,37,
+58,Nepomuk Felix,Male,15-01-2023,Alleghe,ITA,Germany,European Cup,Parallel Slalom,37,
+59,Nepomuk Felix,Male,14-01-2023,Alleghe,ITA,Germany,Qualification,Parallel Slalom,32,
+60,Nepomuk Felix,Male,14-01-2023,Alleghe,ITA,Germany,European Cup,Parallel Slalom,32,
+61,Nepomuk Felix,Male,08-01-2023,Haus im Ennstal,AUT,Germany,Junior,Giant Slalom,13,24.00
+62,Nepomuk Felix,Male,07-01-2023,Haus im Ennstal,AUT,Germany,Junior,Parallel Giant Slalom,16,18.00
+63,Nepomuk Felix,Male,18-12-2022,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,47,4.26
+64,Nepomuk Felix,Male,18-12-2022,Hochfügen,GER,Germany,Qualification,Parallel Giant Slalom,47,
+65,Nepomuk Felix,Male,17-12-2022,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,44,3.11
+66,Nepomuk Felix,Male,21-03-2021,Pizol,SUI,Germany,Junior,Parallel Slalom,DSQ,
+67,Nepomuk Felix,Male,20-03-2021,Pizol,SUI,Germany,Junior,Parallel Slalom,12,11.00
+68,Nepomuk Felix,Male,07-03-2021,Simonhöhe,AUT,Germany,Junior,Parallel Giant Slalom,23,7.20
+69,Nepomuk Felix,Male,06-03-2021,Simonhöhe,AUT,Germany,Junior,Parallel Giant Slalom,20,9.90
+70,Nepomuk Felix,Male,21-02-2021,Gerlitzen,AUT,Germany,National Championships,Parallel Slalom,53,4.23
+71,Nepomuk Felix,Male,20-02-2021,Gerlitzen,AUT,Germany,National Championships,Parallel Giant Slalom,55,4.06
+72,Nepomuk Felix,Male,07-02-2021,Gosau,AUT,Germany,FIS,Parallel Slalom,20,7.70
+73,Nepomuk Felix,Male,06-02-2021,Gosau,AUT,Germany,FIS,Parallel Slalom,24,4.90
+74,Nepomuk Felix,Male,23-01-2021,Haus im Ennstal,AUT,Germany,Junior,Parallel Slalom,15,8.00
+75,Nepomuk Felix,Male,22-01-2021,Haus im Ennstal,AUT,Germany,Junior,Parallel Slalom,18,6.50
+76,Nepomuk Felix,Male,10-01-2021,Goetschen,GER,Germany,Junior,Parallel Slalom,20,11.00
+77,Nepomuk Felix,Male,09-01-2021,Goetschen,GER,Germany,Junior,Parallel Slalom,22,9.00

@@ -1,95 +1,96 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Kulpinski Anatol,Male,08-02-2025,Simonhoehe,AUT,Poland,National Championships,Parallel Giant Slalom,8,92.80
-1,Kulpinski Anatol,Male,02-02-2025,Ratschings,ITA,Poland,Qualification,Parallel Slalom,23,
-2,Kulpinski Anatol,Male,02-02-2025,Ratschings,ITA,Poland,European Cup,Parallel Slalom,23,20.80
-3,Kulpinski Anatol,Male,01-02-2025,Ratschings,ITA,Poland,Qualification,Parallel Slalom,30,
-4,Kulpinski Anatol,Male,01-02-2025,Ratschings,ITA,Poland,European Cup,Parallel Slalom,30,9.28
-5,Kulpinski Anatol,Male,26-01-2025,Simonhöhe,AUT,Poland,European Cup,Parallel Giant Slalom,37,6.21
-6,Kulpinski Anatol,Male,25-01-2025,Simonhöhe,AUT,Poland,European Cup,Parallel Giant Slalom,DNF,
-7,Kulpinski Anatol,Male,22-01-2025,Bansko,BUL,Poland,European Cup,Parallel Giant Slalom,20,31.90
-8,Kulpinski Anatol,Male,21-01-2025,Bansko,BUL,Poland,European Cup,Parallel Giant Slalom,15,46.40
-9,Kulpinski Anatol,Male,11-01-2025,Folgaria,ITA,Poland,Qualification,Parallel Giant Slalom,19,
-10,Kulpinski Anatol,Male,11-01-2025,Folgaria,ITA,Poland,European Cup,Parallel Giant Slalom,19,21.60
-11,Kulpinski Anatol,Male,10-01-2025,Folgaria,ITA,Poland,European Cup,Parallel Giant Slalom,27,8.10
+0,Kulpinski Anatol,Male,09-02-2025,Simonhoehe,AUT,Poland,National Championships,Parallel Slalom,12,63.80
+1,Kulpinski Anatol,Male,08-02-2025,Simonhoehe,AUT,Poland,National Championships,Parallel Giant Slalom,8,92.80
+2,Kulpinski Anatol,Male,02-02-2025,Ratschings,ITA,Poland,Qualification,Parallel Slalom,23,
+3,Kulpinski Anatol,Male,02-02-2025,Ratschings,ITA,Poland,European Cup,Parallel Slalom,23,20.80
+4,Kulpinski Anatol,Male,01-02-2025,Ratschings,ITA,Poland,Qualification,Parallel Slalom,30,
+5,Kulpinski Anatol,Male,01-02-2025,Ratschings,ITA,Poland,European Cup,Parallel Slalom,30,9.28
+6,Kulpinski Anatol,Male,26-01-2025,Simonhöhe,AUT,Poland,European Cup,Parallel Giant Slalom,37,6.21
+7,Kulpinski Anatol,Male,25-01-2025,Simonhöhe,AUT,Poland,European Cup,Parallel Giant Slalom,DNF,
+8,Kulpinski Anatol,Male,22-01-2025,Bansko,BUL,Poland,European Cup,Parallel Giant Slalom,20,31.90
+9,Kulpinski Anatol,Male,21-01-2025,Bansko,BUL,Poland,European Cup,Parallel Giant Slalom,15,46.40
+10,Kulpinski Anatol,Male,11-01-2025,Folgaria,ITA,Poland,Qualification,Parallel Giant Slalom,19,
+11,Kulpinski Anatol,Male,11-01-2025,Folgaria,ITA,Poland,European Cup,Parallel Giant Slalom,19,21.60
 12,Kulpinski Anatol,Male,10-01-2025,Folgaria,ITA,Poland,Qualification,Parallel Giant Slalom,27,
-13,Kulpinski Anatol,Male,06-01-2025,Simonhoehe,AUT,Poland,Junior Regional Cup,Parallel Giant Slalom,7,64.80
-14,Kulpinski Anatol,Male,05-01-2025,Simonhoehe,AUT,Poland,Junior Regional Cup,Parallel Giant Slalom,8,57.60
-15,Kulpinski Anatol,Male,21-12-2024,Davos,SUI,Poland,World Cup,Parallel Slalom,DSQ,
-16,Kulpinski Anatol,Male,21-12-2024,Davos,SUI,Poland,Qualification,Parallel Slalom,DSQ,
-17,Kulpinski Anatol,Male,20-12-2024,Moninec,CZE,Poland,European Cup,Parallel Slalom,19,21.60
-18,Kulpinski Anatol,Male,19-12-2024,Moninec,CZE,Poland,European Cup,Parallel Slalom,17,28.00
-19,Kulpinski Anatol,Male,15-12-2024,Götschen,GER,Poland,European Cup,Parallel Slalom,19,28.80
-20,Kulpinski Anatol,Male,14-12-2024,Götschen,GER,Poland,European Cup,Parallel Slalom,7,57.60
-21,Kulpinski Anatol,Male,05-04-2024,Bansko,BUL,Poland,National Championships,Parallel Slalom,8,83.20
-22,Kulpinski Anatol,Male,04-04-2024,Bansko,BUL,Poland,National Championships,Parallel Giant Slalom,13,52.00
-23,Kulpinski Anatol,Male,30-03-2024,Krvavec,SLO,Poland,National Championships,Parallel Giant Slalom,5,130.50
-24,Kulpinski Anatol,Male,24-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Slalom Team,23,
-25,Kulpinski Anatol,Male,23-03-2024,Lachtal,AUT,Poland,Qualification,Parallel Slalom,27,
-26,Kulpinski Anatol,Male,23-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Slalom,27,10.80
-27,Kulpinski Anatol,Male,22-03-2024,Lachtal,AUT,Poland,Qualification,Parallel Giant Slalom,48,
-28,Kulpinski Anatol,Male,22-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Giant Slalom,48,
-29,Kulpinski Anatol,Male,17-03-2024,Spindleruv Mlyn,CZE,Poland,FIS,Parallel Slalom,1,70.00
-30,Kulpinski Anatol,Male,16-03-2024,Spindleruv Mlyn,CZE,Poland,FIS,Parallel Slalom,6,28.00
-31,Kulpinski Anatol,Male,03-03-2024,Kopaonik,SRB,Poland,FIS,Slalom,1,50.00
-32,Kulpinski Anatol,Male,02-03-2024,Kopaonik,SRB,Poland,FIS,Giant Slalom,3,30.00
-33,Kulpinski Anatol,Male,10-02-2024,Hochficht/Zwiesel,AUT,Poland,National Championships,Parallel Slalom,17,40.60
-34,Kulpinski Anatol,Male,09-02-2024,Hochficht/Zwiesel,AUT,Poland,National Championships,Parallel Giant Slalom,25,
-35,Kulpinski Anatol,Male,08-02-2024,Funes - Vilnoess,ITA,Poland,National Championships,Parallel Giant Slalom,47,
-36,Kulpinski Anatol,Male,04-02-2024,Haus im Ennstal,AUT,Poland,Junior,Parallel Giant Slalom,DSQ,
-37,Kulpinski Anatol,Male,03-02-2024,Haus im Ennstal,AUT,Poland,Junior,Parallel Giant Slalom,16,21.00
-38,Kulpinski Anatol,Male,12-01-2024,Folgaria,ITA,Poland,European Cup,Parallel Slalom,26,12.00
-39,Kulpinski Anatol,Male,12-01-2024,Folgaria,ITA,Poland,Qualification,Parallel Slalom,26,
-40,Kulpinski Anatol,Male,11-01-2024,Folgaria,ITA,Poland,European Cup,Parallel Slalom,DSQ,
-41,Kulpinski Anatol,Male,11-01-2024,Folgaria,ITA,Poland,Qualification,Parallel Slalom,DSQ1,
-42,Kulpinski Anatol,Male,07-01-2024,Dolni Morava,CZE,Poland,National Championships,Parallel Giant Slalom,9,31.90
-43,Kulpinski Anatol,Male,06-01-2024,Dolni Morava,CZE,Poland,National Championships,Parallel Slalom,7,39.60
-44,Kulpinski Anatol,Male,05-01-2024,Simonhöhe,AUT,Poland,Junior,Parallel Giant Slalom,14,19.80
-45,Kulpinski Anatol,Male,21-12-2023,Moninec,CZE,Poland,FIS,Parallel Slalom,22,14.40
-46,Kulpinski Anatol,Male,20-12-2023,Moninec,CZE,Poland,European Cup,Parallel Slalom,28,8.80
-47,Kulpinski Anatol,Male,19-12-2023,Moninec,CZE,Poland,European Cup,Parallel Slalom,36,4.33
-48,Kulpinski Anatol,Male,10-12-2023,Götschen,GER,Poland,Junior,Parallel Slalom,16,19.50
-49,Kulpinski Anatol,Male,09-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,42,6.44
-50,Kulpinski Anatol,Male,09-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,42,
-51,Kulpinski Anatol,Male,08-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,26,
-52,Kulpinski Anatol,Male,08-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,26,18.00
-53,Kulpinski Anatol,Male,02-04-2023,Haus im Ennstal,AUT,Poland,National Championships,Parallel Slalom,22,26.10
-54,Kulpinski Anatol,Male,01-04-2023,Haus im Ennstal,AUT,Poland,National Championships,Parallel Giant Slalom,18,37.70
-55,Kulpinski Anatol,Male,28-03-2023,Bansko,BUL,Poland,National Championships,Parallel Slalom,16,30.00
-56,Kulpinski Anatol,Male,27-03-2023,Bansko,BUL,Poland,National Championships,Parallel Giant Slalom,15,32.00
-57,Kulpinski Anatol,Male,26-03-2023,Bansko,BUL,Poland,FIS Junior World Championships,Parallel Team,14,
-58,Kulpinski Anatol,Male,25-03-2023,Bansko,BUL,Poland,FIS Junior World Championships,Parallel Slalom,DSQ,
-59,Kulpinski Anatol,Male,25-03-2023,Bansko,BUL,Poland,Qualification,Parallel Slalom,DSQ,
-60,Kulpinski Anatol,Male,24-03-2023,Bansko,BUL,Poland,FIS Junior World Championships,Parallel Giant Slalom,34,5.28
-61,Kulpinski Anatol,Male,24-03-2023,Bansko,BUL,Poland,Qualification,Parallel Giant Slalom,34,
-62,Kulpinski Anatol,Male,19-03-2023,Ratschings,ITA,Poland,European Cup,Parallel Slalom,DSQ,
-63,Kulpinski Anatol,Male,18-03-2023,Ratschings,ITA,Poland,European Cup,Parallel Slalom,49,
-64,Kulpinski Anatol,Male,05-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,47,
-65,Kulpinski Anatol,Male,04-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,34,7.92
-66,Kulpinski Anatol,Male,27-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,11,28.80
-67,Kulpinski Anatol,Male,26-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,11,28.80
-68,Kulpinski Anatol,Male,25-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,8,38.40
-69,Kulpinski Anatol,Male,23-01-2023,Piancavallo,ITA,Poland,European Youth Olympic Festival,Parallel Giant Slalom,13,24.00
-70,Kulpinski Anatol,Male,15-01-2023,Alleghe,ITA,Poland,Qualification,Parallel Slalom,32,
-71,Kulpinski Anatol,Male,15-01-2023,Alleghe,ITA,Poland,European Cup,Parallel Slalom,32,4.16
-72,Kulpinski Anatol,Male,14-01-2023,Alleghe,ITA,Poland,Qualification,Parallel Slalom,25,
-73,Kulpinski Anatol,Male,14-01-2023,Alleghe,ITA,Poland,European Cup,Parallel Slalom,25,9.60
-74,Kulpinski Anatol,Male,04-01-2023,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,12,57.20
-75,Kulpinski Anatol,Male,18-12-2022,Hochfügen,GER,Poland,European Cup,Parallel Giant Slalom,49,4.11
-76,Kulpinski Anatol,Male,18-12-2022,Hochfügen,GER,Poland,Qualification,Parallel Giant Slalom,49,
-77,Kulpinski Anatol,Male,17-12-2022,Hochfügen,GER,Poland,European Cup,Parallel Giant Slalom,40,3.33
-78,Kulpinski Anatol,Male,13-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Slalom,21,11.00
-79,Kulpinski Anatol,Male,12-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Giant Slalom,14,19.80
-80,Kulpinski Anatol,Male,09-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,15,46.40
-81,Kulpinski Anatol,Male,08-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,25,17.40
-82,Kulpinski Anatol,Male,20-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,14,18.00
-83,Kulpinski Anatol,Male,19-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,8,32.00
-84,Kulpinski Anatol,Male,23-01-2022,Bukovel,UKR,Poland,European Cup,Parallel Giant Slalom,DSQ,
-85,Kulpinski Anatol,Male,22-01-2022,Bukovel,UKR,Poland,European Cup,Parallel Giant Slalom,35,5.20
-86,Kulpinski Anatol,Male,16-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,10,28.60
-87,Kulpinski Anatol,Male,15-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,15,17.60
-88,Kulpinski Anatol,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,Junior,Parallel Slalom,1,50.00
-89,Kulpinski Anatol,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,Junior,Slalom,4,25.00
-90,Kulpinski Anatol,Male,21-12-2021,Moninec,CZE,Poland,Junior,Parallel Slalom,18,6.50
-91,Kulpinski Anatol,Male,20-12-2021,Moninec,CZE,Poland,Junior,Parallel Slalom,8,22.40
-92,Kulpinski Anatol,Male,19-12-2021,Moninec,CZE,Poland,European Cup,Parallel Slalom,34,4.84
-93,Kulpinski Anatol,Male,18-12-2021,Moninec,CZE,Poland,European Cup,Parallel Slalom,50,3.10
+13,Kulpinski Anatol,Male,10-01-2025,Folgaria,ITA,Poland,European Cup,Parallel Giant Slalom,27,8.10
+14,Kulpinski Anatol,Male,06-01-2025,Simonhoehe,AUT,Poland,Junior Regional Cup,Parallel Giant Slalom,7,64.80
+15,Kulpinski Anatol,Male,05-01-2025,Simonhoehe,AUT,Poland,Junior Regional Cup,Parallel Giant Slalom,8,57.60
+16,Kulpinski Anatol,Male,21-12-2024,Davos,SUI,Poland,World Cup,Parallel Slalom,DSQ,
+17,Kulpinski Anatol,Male,21-12-2024,Davos,SUI,Poland,Qualification,Parallel Slalom,DSQ,
+18,Kulpinski Anatol,Male,20-12-2024,Moninec,CZE,Poland,European Cup,Parallel Slalom,19,21.60
+19,Kulpinski Anatol,Male,19-12-2024,Moninec,CZE,Poland,European Cup,Parallel Slalom,17,28.00
+20,Kulpinski Anatol,Male,15-12-2024,Götschen,GER,Poland,European Cup,Parallel Slalom,19,28.80
+21,Kulpinski Anatol,Male,14-12-2024,Götschen,GER,Poland,European Cup,Parallel Slalom,7,57.60
+22,Kulpinski Anatol,Male,05-04-2024,Bansko,BUL,Poland,National Championships,Parallel Slalom,8,83.20
+23,Kulpinski Anatol,Male,04-04-2024,Bansko,BUL,Poland,National Championships,Parallel Giant Slalom,13,52.00
+24,Kulpinski Anatol,Male,30-03-2024,Krvavec,SLO,Poland,National Championships,Parallel Giant Slalom,5,130.50
+25,Kulpinski Anatol,Male,24-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Slalom Team,23,
+26,Kulpinski Anatol,Male,23-03-2024,Lachtal,AUT,Poland,Qualification,Parallel Slalom,27,
+27,Kulpinski Anatol,Male,23-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Slalom,27,10.80
+28,Kulpinski Anatol,Male,22-03-2024,Lachtal,AUT,Poland,Qualification,Parallel Giant Slalom,48,
+29,Kulpinski Anatol,Male,22-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Giant Slalom,48,
+30,Kulpinski Anatol,Male,17-03-2024,Spindleruv Mlyn,CZE,Poland,FIS,Parallel Slalom,1,70.00
+31,Kulpinski Anatol,Male,16-03-2024,Spindleruv Mlyn,CZE,Poland,FIS,Parallel Slalom,6,28.00
+32,Kulpinski Anatol,Male,03-03-2024,Kopaonik,SRB,Poland,FIS,Slalom,1,50.00
+33,Kulpinski Anatol,Male,02-03-2024,Kopaonik,SRB,Poland,FIS,Giant Slalom,3,30.00
+34,Kulpinski Anatol,Male,10-02-2024,Hochficht/Zwiesel,AUT,Poland,National Championships,Parallel Slalom,17,40.60
+35,Kulpinski Anatol,Male,09-02-2024,Hochficht/Zwiesel,AUT,Poland,National Championships,Parallel Giant Slalom,25,
+36,Kulpinski Anatol,Male,08-02-2024,Funes - Vilnoess,ITA,Poland,National Championships,Parallel Giant Slalom,47,
+37,Kulpinski Anatol,Male,04-02-2024,Haus im Ennstal,AUT,Poland,Junior,Parallel Giant Slalom,DSQ,
+38,Kulpinski Anatol,Male,03-02-2024,Haus im Ennstal,AUT,Poland,Junior,Parallel Giant Slalom,16,21.00
+39,Kulpinski Anatol,Male,12-01-2024,Folgaria,ITA,Poland,European Cup,Parallel Slalom,26,12.00
+40,Kulpinski Anatol,Male,12-01-2024,Folgaria,ITA,Poland,Qualification,Parallel Slalom,26,
+41,Kulpinski Anatol,Male,11-01-2024,Folgaria,ITA,Poland,European Cup,Parallel Slalom,DSQ,
+42,Kulpinski Anatol,Male,11-01-2024,Folgaria,ITA,Poland,Qualification,Parallel Slalom,DSQ1,
+43,Kulpinski Anatol,Male,07-01-2024,Dolni Morava,CZE,Poland,National Championships,Parallel Giant Slalom,9,31.90
+44,Kulpinski Anatol,Male,06-01-2024,Dolni Morava,CZE,Poland,National Championships,Parallel Slalom,7,39.60
+45,Kulpinski Anatol,Male,05-01-2024,Simonhöhe,AUT,Poland,Junior,Parallel Giant Slalom,14,19.80
+46,Kulpinski Anatol,Male,21-12-2023,Moninec,CZE,Poland,FIS,Parallel Slalom,22,14.40
+47,Kulpinski Anatol,Male,20-12-2023,Moninec,CZE,Poland,European Cup,Parallel Slalom,28,8.80
+48,Kulpinski Anatol,Male,19-12-2023,Moninec,CZE,Poland,European Cup,Parallel Slalom,36,4.33
+49,Kulpinski Anatol,Male,10-12-2023,Götschen,GER,Poland,Junior,Parallel Slalom,16,19.50
+50,Kulpinski Anatol,Male,09-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,42,6.44
+51,Kulpinski Anatol,Male,09-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,42,
+52,Kulpinski Anatol,Male,08-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,26,
+53,Kulpinski Anatol,Male,08-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,26,18.00
+54,Kulpinski Anatol,Male,02-04-2023,Haus im Ennstal,AUT,Poland,National Championships,Parallel Slalom,22,26.10
+55,Kulpinski Anatol,Male,01-04-2023,Haus im Ennstal,AUT,Poland,National Championships,Parallel Giant Slalom,18,37.70
+56,Kulpinski Anatol,Male,28-03-2023,Bansko,BUL,Poland,National Championships,Parallel Slalom,16,30.00
+57,Kulpinski Anatol,Male,27-03-2023,Bansko,BUL,Poland,National Championships,Parallel Giant Slalom,15,32.00
+58,Kulpinski Anatol,Male,26-03-2023,Bansko,BUL,Poland,FIS Junior World Championships,Parallel Team,14,
+59,Kulpinski Anatol,Male,25-03-2023,Bansko,BUL,Poland,FIS Junior World Championships,Parallel Slalom,DSQ,
+60,Kulpinski Anatol,Male,25-03-2023,Bansko,BUL,Poland,Qualification,Parallel Slalom,DSQ,
+61,Kulpinski Anatol,Male,24-03-2023,Bansko,BUL,Poland,FIS Junior World Championships,Parallel Giant Slalom,34,5.28
+62,Kulpinski Anatol,Male,24-03-2023,Bansko,BUL,Poland,Qualification,Parallel Giant Slalom,34,
+63,Kulpinski Anatol,Male,19-03-2023,Ratschings,ITA,Poland,European Cup,Parallel Slalom,DSQ,
+64,Kulpinski Anatol,Male,18-03-2023,Ratschings,ITA,Poland,European Cup,Parallel Slalom,49,
+65,Kulpinski Anatol,Male,05-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,47,
+66,Kulpinski Anatol,Male,04-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,34,7.92
+67,Kulpinski Anatol,Male,27-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,11,28.80
+68,Kulpinski Anatol,Male,26-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,11,28.80
+69,Kulpinski Anatol,Male,25-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,8,38.40
+70,Kulpinski Anatol,Male,23-01-2023,Piancavallo,ITA,Poland,European Youth Olympic Festival,Parallel Giant Slalom,13,24.00
+71,Kulpinski Anatol,Male,15-01-2023,Alleghe,ITA,Poland,Qualification,Parallel Slalom,32,
+72,Kulpinski Anatol,Male,15-01-2023,Alleghe,ITA,Poland,European Cup,Parallel Slalom,32,4.16
+73,Kulpinski Anatol,Male,14-01-2023,Alleghe,ITA,Poland,Qualification,Parallel Slalom,25,
+74,Kulpinski Anatol,Male,14-01-2023,Alleghe,ITA,Poland,European Cup,Parallel Slalom,25,9.60
+75,Kulpinski Anatol,Male,04-01-2023,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,12,57.20
+76,Kulpinski Anatol,Male,18-12-2022,Hochfügen,GER,Poland,European Cup,Parallel Giant Slalom,49,4.11
+77,Kulpinski Anatol,Male,18-12-2022,Hochfügen,GER,Poland,Qualification,Parallel Giant Slalom,49,
+78,Kulpinski Anatol,Male,17-12-2022,Hochfügen,GER,Poland,European Cup,Parallel Giant Slalom,40,3.33
+79,Kulpinski Anatol,Male,13-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Slalom,21,11.00
+80,Kulpinski Anatol,Male,12-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Giant Slalom,14,19.80
+81,Kulpinski Anatol,Male,09-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,15,46.40
+82,Kulpinski Anatol,Male,08-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,25,17.40
+83,Kulpinski Anatol,Male,20-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,14,18.00
+84,Kulpinski Anatol,Male,19-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,8,32.00
+85,Kulpinski Anatol,Male,23-01-2022,Bukovel,UKR,Poland,European Cup,Parallel Giant Slalom,DSQ,
+86,Kulpinski Anatol,Male,22-01-2022,Bukovel,UKR,Poland,European Cup,Parallel Giant Slalom,35,5.20
+87,Kulpinski Anatol,Male,16-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,10,28.60
+88,Kulpinski Anatol,Male,15-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,15,17.60
+89,Kulpinski Anatol,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,Junior,Parallel Slalom,1,50.00
+90,Kulpinski Anatol,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,Junior,Slalom,4,25.00
+91,Kulpinski Anatol,Male,21-12-2021,Moninec,CZE,Poland,Junior,Parallel Slalom,18,6.50
+92,Kulpinski Anatol,Male,20-12-2021,Moninec,CZE,Poland,Junior,Parallel Slalom,8,22.40
+93,Kulpinski Anatol,Male,19-12-2021,Moninec,CZE,Poland,European Cup,Parallel Slalom,34,4.84
+94,Kulpinski Anatol,Male,18-12-2021,Moninec,CZE,Poland,European Cup,Parallel Slalom,50,3.10
