@@ -1,68 +1,70 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Lee Dongheon,Male,02-02-2025,Aspen,USA,Korea,World Cup,Slopestyle,39,77.50
-1,Lee Dongheon,Male,31-01-2025,Aspen,USA,Korea,Qualification,Slopestyle,19,
-2,Lee Dongheon,Male,18-01-2025,Laax,SUI,Korea,World Cup,Slopestyle,54,25.60
-3,Lee Dongheon,Male,16-01-2025,Laax,SUI,Korea,Qualification,Slopestyle,28,
-4,Lee Dongheon,Male,11-01-2025,Kreischberg,AUT,Korea,Qualification,Big Air,16,
-5,Lee Dongheon,Male,11-01-2025,Kreischberg,AUT,Korea,World Cup,Big Air,35,92.90
-6,Lee Dongheon,Male,05-01-2025,Klagenfurt,AUT,Korea,World Cup,Big Air,43,22.00
-7,Lee Dongheon,Male,05-01-2025,Klagenfurt,AUT,Korea,Qualification,Big Air,24,
-8,Lee Dongheon,Male,01-12-2024,Beijing,CHN,Korea,World Cup,Big Air,53,0.20
-9,Lee Dongheon,Male,30-11-2024,Beijing,CHN,Korea,Qualification,Big Air,26,
-10,Lee Dongheon,Male,19-10-2024,Chur,SUI,Korea,World Cup,Big Air,7,384.10
-11,Lee Dongheon,Male,02-09-2024,Cardrona,NZL,Korea,World Cup,Slopestyle,48,28.50
-12,Lee Dongheon,Male,31-08-2024,Cardrona,NZL,Korea,Qualification,Slopestyle,25,
-13,Lee Dongheon,Male,23-03-2024,Silvaplana,SUI,Korea,World Cup,Slopestyle,56,13.10
-14,Lee Dongheon,Male,21-03-2024,Silvaplana,SUI,Korea,Qualification,Slopestyle,27,
-15,Lee Dongheon,Male,15-03-2024,Tignes,FRA,Korea,Qualification,Slopestyle,22,
-16,Lee Dongheon,Male,15-03-2024,Tignes,FRA,Korea,World Cup,Slopestyle,43,52.10
-17,Lee Dongheon,Male,27-02-2024,Yongpyong,KOR,Korea,National Championships,Slopestyle,2,72.70
-18,Lee Dongheon,Male,25-01-2024,Gangwon/Welli Hilli,KOR,Korea,Youth Olympic Winter Games,Slopestyle,23,0.10
-19,Lee Dongheon,Male,20-01-2024,Laax,SUI,Korea,World Cup,Slopestyle,59,0.20
-20,Lee Dongheon,Male,16-01-2024,Laax,SUI,Korea,Qualification,Slopestyle,30,
-21,Lee Dongheon,Male,15-12-2023,Copper Mountain,USA,Korea,World Cup,Big Air,19,178.10
-22,Lee Dongheon,Male,13-12-2023,Copper Mountain,USA,Korea,Qualification,Big Air,10,
-23,Lee Dongheon,Male,09-12-2023,Edmonton,CAN,Korea,World Cup,Big Air,10,285.90
-24,Lee Dongheon,Male,08-12-2023,Edmonton,CAN,Korea,Qualification,Big Air,3,
-25,Lee Dongheon,Male,02-12-2023,Beijing,CHN,Korea,World Cup,Big Air,9,304.00
-26,Lee Dongheon,Male,01-12-2023,Beijing,CHN,Korea,Qualification,Big Air,1,
-27,Lee Dongheon,Male,21-10-2023,Chur,SUI,Korea,World Cup,Big Air,43,55.80
-28,Lee Dongheon,Male,21-10-2023,Chur,SUI,Korea,Qualification,Big Air,23,
-29,Lee Dongheon,Male,04-09-2023,Cardrona,NZL,Korea,FIS Junior World Championships,Big Air,18,66.10
-30,Lee Dongheon,Male,02-09-2023,Cardrona,NZL,Korea,Qualification,Big Air,10,
-31,Lee Dongheon,Male,30-08-2023,Cardrona,NZL,Korea,FIS Junior World Championships,Slopestyle,9,114.80
-32,Lee Dongheon,Male,28-08-2023,Cardrona,NZL,Korea,Qualification,Slopestyle,3,
-33,Lee Dongheon,Male,12-08-2023,The Remarkables,NZL,Korea,Australian New Zealand Cup,Slopestyle,1,160.00
-34,Lee Dongheon,Male,26-03-2023,Silvaplana,SUI,Korea,World Cup,Slopestyle,25,105.60
-35,Lee Dongheon,Male,25-03-2023,Silvaplana,SUI,Korea,Qualification,Slopestyle,14,
-36,Lee Dongheon,Male,17-03-2023,Laax,SUI,Korea,European Cup Premium,Slopestyle,57,45.70
-37,Lee Dongheon,Male,04-03-2023,Bakuriani,GEO,Korea,World Championships,Big Air,34,43.20
-38,Lee Dongheon,Male,02-03-2023,Bakuriani,GEO,Korea,Qualification,Big Air,17,
-39,Lee Dongheon,Male,27-02-2023,Bakuriani,GEO,Korea,World Championships,Slopestyle,30,84.60
-40,Lee Dongheon,Male,24-02-2023,Bakuriani,GEO,Korea,Qualification,Slopestyle,15,
-41,Lee Dongheon,Male,10-02-2023,"Aspen Snowmass, CO",USA,Korea,Nor-Am Cup,Slopestyle,7,83.60
-42,Lee Dongheon,Male,26-01-2023,Copper Mountain Resort,USA,Korea,Nor-Am Cup,Slopestyle,15,50.70
-43,Lee Dongheon,Male,18-01-2023,Sun Peaks,CAN,Korea,Nor-Am Cup,Slopestyle,17,31.20
-44,Lee Dongheon,Male,17-01-2023,Sun Peaks,CAN,Korea,Nor-Am Cup,Slopestyle,17,31.80
-45,Lee Dongheon,Male,02-09-2022,Cardrona,NZL,Korea,Australian New Zealand Cup,Slopestyle,15,53.40
-46,Lee Dongheon,Male,13-03-2022,Leysin,SUI,Korea,FIS Junior World Championships,Slopestyle,23,44.20
-47,Lee Dongheon,Male,10-03-2022,Leysin,SUI,Korea,FIS Junior World Championships,Big Air,13,56.80
-48,Lee Dongheon,Male,24-02-2022,Copper Mountain Resort,USA,Korea,FIS,Slopestyle,11,29.80
-49,Lee Dongheon,Male,15-02-2022,Aspen / Buttermilk,USA,Korea,Nor-Am Cup,Big Air,1,120.00
-50,Lee Dongheon,Male,13-02-2022,Aspen / Buttermilk,USA,Korea,Nor-Am Cup,Slopestyle,4,128.80
-51,Lee Dongheon,Male,26-01-2022,Mammoth Mountain Ski Resort,USA,Korea,Nor-Am Cup,Slopestyle,27,31.00
-52,Lee Dongheon,Male,25-01-2022,Mammoth Mountain Ski Resort,USA,Korea,Nor-Am Cup,Slopestyle,18,48.30
-53,Lee Dongheon,Male,04-12-2021,Steamboat,USA,Korea,World Cup,Big Air,57,16.90
-54,Lee Dongheon,Male,02-12-2021,Steamboat,USA,Korea,Qualification,Big Air,30,
-55,Lee Dongheon,Male,26-02-2021,Aspen Mountain Ski Area,USA,Korea,Open,Big Air,1,110.00
-56,Lee Dongheon,Male,24-02-2021,Aspen Mountain Ski Area,USA,Korea,Open,Slopestyle,14,106.40
-57,Lee Dongheon,Male,29-01-2021,Park City,USA,Korea,FIS,Slopestyle,10,19.61
-58,Lee Dongheon,Male,28-01-2021,Park City,USA,Korea,FIS,Halfpipe,8,14.30
-59,Lee Dongheon,Male,14-02-2020,Pyeongchang,KOR,Korea,National Championships,Big Air,9,14.50
-60,Lee Dongheon,Male,13-02-2020,Pyeongchang,KOR,Korea,National Championships,Slopestyle,2,40.00
-61,Lee Dongheon,Male,16-01-2020,Sun Peaks,CAN,Korea,Nor-Am Cup,Big Air,3,96.00
-62,Lee Dongheon,Male,15-01-2020,Sun Peaks,CAN,Korea,Nor-Am Cup,Slopestyle,25,9.60
-63,Lee Dongheon,Male,24-09-2019,Chapelco,ARG,Korea,South American Cup,Slopestyle,3,96.00
-64,Lee Dongheon,Male,23-09-2019,Chapelco,ARG,Korea,National Championships,Slopestyle,3,66.00
-65,Lee Dongheon,Male,01-09-2019,Cardrona,NZL,Korea,Australian New Zealand Cup,Slopestyle,23,25.60
-66,Lee Dongheon,Male,15-08-2019,Cardrona Alpine Resort,NZL,Korea,Australian New Zealand Cup,Slopestyle,46,
+0,Lee Dongheon,Male,10-02-2025,Yabuli Ski Resort,CHN,Korea,Asian Winter Games,Big Air,DNS,
+1,Lee Dongheon,Male,08-02-2025,Yabuli Ski Resort,CHN,Korea,Asian Winter Games,Slopestyle,DNS,
+2,Lee Dongheon,Male,02-02-2025,Aspen,USA,Korea,World Cup,Slopestyle,39,77.50
+3,Lee Dongheon,Male,31-01-2025,Aspen,USA,Korea,Qualification,Slopestyle,19,
+4,Lee Dongheon,Male,18-01-2025,Laax,SUI,Korea,World Cup,Slopestyle,54,25.60
+5,Lee Dongheon,Male,16-01-2025,Laax,SUI,Korea,Qualification,Slopestyle,28,
+6,Lee Dongheon,Male,11-01-2025,Kreischberg,AUT,Korea,World Cup,Big Air,35,92.90
+7,Lee Dongheon,Male,11-01-2025,Kreischberg,AUT,Korea,Qualification,Big Air,16,
+8,Lee Dongheon,Male,05-01-2025,Klagenfurt,AUT,Korea,Qualification,Big Air,24,
+9,Lee Dongheon,Male,05-01-2025,Klagenfurt,AUT,Korea,World Cup,Big Air,43,22.00
+10,Lee Dongheon,Male,01-12-2024,Beijing,CHN,Korea,World Cup,Big Air,53,0.20
+11,Lee Dongheon,Male,30-11-2024,Beijing,CHN,Korea,Qualification,Big Air,26,
+12,Lee Dongheon,Male,19-10-2024,Chur,SUI,Korea,World Cup,Big Air,7,384.10
+13,Lee Dongheon,Male,02-09-2024,Cardrona,NZL,Korea,World Cup,Slopestyle,48,28.50
+14,Lee Dongheon,Male,31-08-2024,Cardrona,NZL,Korea,Qualification,Slopestyle,25,
+15,Lee Dongheon,Male,23-03-2024,Silvaplana,SUI,Korea,World Cup,Slopestyle,56,13.10
+16,Lee Dongheon,Male,21-03-2024,Silvaplana,SUI,Korea,Qualification,Slopestyle,27,
+17,Lee Dongheon,Male,15-03-2024,Tignes,FRA,Korea,Qualification,Slopestyle,22,
+18,Lee Dongheon,Male,15-03-2024,Tignes,FRA,Korea,World Cup,Slopestyle,43,52.10
+19,Lee Dongheon,Male,27-02-2024,Yongpyong,KOR,Korea,National Championships,Slopestyle,2,72.70
+20,Lee Dongheon,Male,25-01-2024,Gangwon/Welli Hilli,KOR,Korea,Youth Olympic Winter Games,Slopestyle,23,0.10
+21,Lee Dongheon,Male,20-01-2024,Laax,SUI,Korea,World Cup,Slopestyle,59,0.20
+22,Lee Dongheon,Male,16-01-2024,Laax,SUI,Korea,Qualification,Slopestyle,30,
+23,Lee Dongheon,Male,15-12-2023,Copper Mountain,USA,Korea,World Cup,Big Air,19,178.10
+24,Lee Dongheon,Male,13-12-2023,Copper Mountain,USA,Korea,Qualification,Big Air,10,
+25,Lee Dongheon,Male,09-12-2023,Edmonton,CAN,Korea,World Cup,Big Air,10,285.90
+26,Lee Dongheon,Male,08-12-2023,Edmonton,CAN,Korea,Qualification,Big Air,3,
+27,Lee Dongheon,Male,02-12-2023,Beijing,CHN,Korea,World Cup,Big Air,9,304.00
+28,Lee Dongheon,Male,01-12-2023,Beijing,CHN,Korea,Qualification,Big Air,1,
+29,Lee Dongheon,Male,21-10-2023,Chur,SUI,Korea,World Cup,Big Air,43,55.80
+30,Lee Dongheon,Male,21-10-2023,Chur,SUI,Korea,Qualification,Big Air,23,
+31,Lee Dongheon,Male,04-09-2023,Cardrona,NZL,Korea,FIS Junior World Championships,Big Air,18,66.10
+32,Lee Dongheon,Male,02-09-2023,Cardrona,NZL,Korea,Qualification,Big Air,10,
+33,Lee Dongheon,Male,30-08-2023,Cardrona,NZL,Korea,FIS Junior World Championships,Slopestyle,9,114.80
+34,Lee Dongheon,Male,28-08-2023,Cardrona,NZL,Korea,Qualification,Slopestyle,3,
+35,Lee Dongheon,Male,12-08-2023,The Remarkables,NZL,Korea,Australian New Zealand Cup,Slopestyle,1,160.00
+36,Lee Dongheon,Male,26-03-2023,Silvaplana,SUI,Korea,World Cup,Slopestyle,25,105.60
+37,Lee Dongheon,Male,25-03-2023,Silvaplana,SUI,Korea,Qualification,Slopestyle,14,
+38,Lee Dongheon,Male,17-03-2023,Laax,SUI,Korea,European Cup Premium,Slopestyle,57,45.70
+39,Lee Dongheon,Male,04-03-2023,Bakuriani,GEO,Korea,World Championships,Big Air,34,43.20
+40,Lee Dongheon,Male,02-03-2023,Bakuriani,GEO,Korea,Qualification,Big Air,17,
+41,Lee Dongheon,Male,27-02-2023,Bakuriani,GEO,Korea,World Championships,Slopestyle,30,84.60
+42,Lee Dongheon,Male,24-02-2023,Bakuriani,GEO,Korea,Qualification,Slopestyle,15,
+43,Lee Dongheon,Male,10-02-2023,"Aspen Snowmass, CO",USA,Korea,Nor-Am Cup,Slopestyle,7,83.60
+44,Lee Dongheon,Male,26-01-2023,Copper Mountain Resort,USA,Korea,Nor-Am Cup,Slopestyle,15,50.70
+45,Lee Dongheon,Male,18-01-2023,Sun Peaks,CAN,Korea,Nor-Am Cup,Slopestyle,17,31.20
+46,Lee Dongheon,Male,17-01-2023,Sun Peaks,CAN,Korea,Nor-Am Cup,Slopestyle,17,31.80
+47,Lee Dongheon,Male,02-09-2022,Cardrona,NZL,Korea,Australian New Zealand Cup,Slopestyle,15,53.40
+48,Lee Dongheon,Male,13-03-2022,Leysin,SUI,Korea,FIS Junior World Championships,Slopestyle,23,44.20
+49,Lee Dongheon,Male,10-03-2022,Leysin,SUI,Korea,FIS Junior World Championships,Big Air,13,56.80
+50,Lee Dongheon,Male,24-02-2022,Copper Mountain Resort,USA,Korea,FIS,Slopestyle,11,29.80
+51,Lee Dongheon,Male,15-02-2022,Aspen / Buttermilk,USA,Korea,Nor-Am Cup,Big Air,1,120.00
+52,Lee Dongheon,Male,13-02-2022,Aspen / Buttermilk,USA,Korea,Nor-Am Cup,Slopestyle,4,128.80
+53,Lee Dongheon,Male,26-01-2022,Mammoth Mountain Ski Resort,USA,Korea,Nor-Am Cup,Slopestyle,27,31.00
+54,Lee Dongheon,Male,25-01-2022,Mammoth Mountain Ski Resort,USA,Korea,Nor-Am Cup,Slopestyle,18,48.30
+55,Lee Dongheon,Male,04-12-2021,Steamboat,USA,Korea,World Cup,Big Air,57,16.90
+56,Lee Dongheon,Male,02-12-2021,Steamboat,USA,Korea,Qualification,Big Air,30,
+57,Lee Dongheon,Male,26-02-2021,Aspen Mountain Ski Area,USA,Korea,Open,Big Air,1,110.00
+58,Lee Dongheon,Male,24-02-2021,Aspen Mountain Ski Area,USA,Korea,Open,Slopestyle,14,106.40
+59,Lee Dongheon,Male,29-01-2021,Park City,USA,Korea,FIS,Slopestyle,10,19.61
+60,Lee Dongheon,Male,28-01-2021,Park City,USA,Korea,FIS,Halfpipe,8,14.30
+61,Lee Dongheon,Male,14-02-2020,Pyeongchang,KOR,Korea,National Championships,Big Air,9,14.50
+62,Lee Dongheon,Male,13-02-2020,Pyeongchang,KOR,Korea,National Championships,Slopestyle,2,40.00
+63,Lee Dongheon,Male,16-01-2020,Sun Peaks,CAN,Korea,Nor-Am Cup,Big Air,3,96.00
+64,Lee Dongheon,Male,15-01-2020,Sun Peaks,CAN,Korea,Nor-Am Cup,Slopestyle,25,9.60
+65,Lee Dongheon,Male,24-09-2019,Chapelco,ARG,Korea,South American Cup,Slopestyle,3,96.00
+66,Lee Dongheon,Male,23-09-2019,Chapelco,ARG,Korea,National Championships,Slopestyle,3,66.00
+67,Lee Dongheon,Male,01-09-2019,Cardrona,NZL,Korea,Australian New Zealand Cup,Slopestyle,23,25.60
+68,Lee Dongheon,Male,15-08-2019,Cardrona Alpine Resort,NZL,Korea,Australian New Zealand Cup,Slopestyle,46,
