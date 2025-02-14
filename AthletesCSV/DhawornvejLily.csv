@@ -1,29 +1,30 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Dhawornvej Lily,Female,06-02-2025,Aspen,USA,United States Of America,World Cup,Big Air,4,571.50
-1,Dhawornvej Lily,Female,05-02-2025,Aspen,USA,United States Of America,Qualification,Big Air,8,
-2,Dhawornvej Lily,Female,02-02-2025,Aspen,USA,United States Of America,World Cup,Slopestyle,6,421.80
-3,Dhawornvej Lily,Female,31-01-2025,Aspen,USA,United States Of America,Qualification,Slopestyle,7,
-4,Dhawornvej Lily,Female,18-01-2025,Laax,SUI,United States Of America,World Cup,Slopestyle,8,322.00
-5,Dhawornvej Lily,Female,16-01-2025,Laax,SUI,United States Of America,Qualification,Slopestyle,6,
-6,Dhawornvej Lily,Female,11-01-2025,Kreischberg,AUT,United States Of America,World Cup,Big Air,14,158.50
-7,Dhawornvej Lily,Female,09-01-2025,Kreischberg,AUT,United States Of America,Qualification,Big Air,14,
-8,Dhawornvej Lily,Female,05-01-2025,Klagenfurt,AUT,United States Of America,World Cup,Big Air,7,345.00
-9,Dhawornvej Lily,Female,03-01-2025,Klagenfurt,AUT,United States Of America,Qualification,Big Air,6,
-10,Dhawornvej Lily,Female,01-12-2024,Beijing,CHN,United States Of America,World Cup,Big Air,13,149.60
-11,Dhawornvej Lily,Female,30-11-2024,Beijing,CHN,United States Of America,Qualification,Big Air,13,
-12,Dhawornvej Lily,Female,17-08-2024,The Remarkables,NZL,United States Of America,Australian New Zealand Cup,Slopestyle,2,97.60
-13,Dhawornvej Lily,Female,04-04-2024,"Copper Mountain, CO",USA,United States Of America,National Championships,Slopestyle,1,70.00
-14,Dhawornvej Lily,Female,30-03-2024,Livigno/Mottolino,ITA,United States Of America,FIS Junior World Championships,Big Air,6,98.50
-15,Dhawornvej Lily,Female,28-03-2024,Livigno/Mottolino,ITA,United States Of America,Qualification,Big Air,6,
-16,Dhawornvej Lily,Female,26-03-2024,Livigno/Mottolino,ITA,United States Of America,FIS Junior World Championships,Slopestyle,5,116.20
-17,Dhawornvej Lily,Female,24-03-2024,Livigno/Mottolino,ITA,United States Of America,Qualification,Slopestyle,5,
-18,Dhawornvej Lily,Female,17-03-2024,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,2,91.80
-19,Dhawornvej Lily,Female,08-02-2024,Mammoth Mountain,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,6,95.50
-20,Dhawornvej Lily,Female,26-01-2024,Copper Mountain,USA,United States Of America,Nor-Am Cup,Slopestyle,8,32.30
-21,Dhawornvej Lily,Female,18-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Big Air,4,61.40
-22,Dhawornvej Lily,Female,17-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,7,36.10
-23,Dhawornvej Lily,Female,10-02-2023,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,6,66.00
-24,Dhawornvej Lily,Female,02-02-2023,Woodward - Park City,USA,United States Of America,FIS,Slopestyle,3,33.40
-25,Dhawornvej Lily,Female,26-01-2023,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,10,32.60
-26,Dhawornvej Lily,Female,18-01-2023,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,10,21.90
-27,Dhawornvej Lily,Female,17-01-2023,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,14,4.30
+0,Dhawornvej Lily,Female,12-02-2025,Aspen / Highlands,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,9,57.20
+1,Dhawornvej Lily,Female,06-02-2025,Aspen,USA,United States Of America,World Cup,Big Air,4,571.50
+2,Dhawornvej Lily,Female,05-02-2025,Aspen,USA,United States Of America,Qualification,Big Air,8,
+3,Dhawornvej Lily,Female,02-02-2025,Aspen,USA,United States Of America,World Cup,Slopestyle,6,421.80
+4,Dhawornvej Lily,Female,31-01-2025,Aspen,USA,United States Of America,Qualification,Slopestyle,7,
+5,Dhawornvej Lily,Female,18-01-2025,Laax,SUI,United States Of America,World Cup,Slopestyle,8,322.00
+6,Dhawornvej Lily,Female,16-01-2025,Laax,SUI,United States Of America,Qualification,Slopestyle,6,
+7,Dhawornvej Lily,Female,11-01-2025,Kreischberg,AUT,United States Of America,World Cup,Big Air,14,158.50
+8,Dhawornvej Lily,Female,09-01-2025,Kreischberg,AUT,United States Of America,Qualification,Big Air,14,
+9,Dhawornvej Lily,Female,05-01-2025,Klagenfurt,AUT,United States Of America,World Cup,Big Air,7,345.00
+10,Dhawornvej Lily,Female,03-01-2025,Klagenfurt,AUT,United States Of America,Qualification,Big Air,6,
+11,Dhawornvej Lily,Female,01-12-2024,Beijing,CHN,United States Of America,World Cup,Big Air,13,149.60
+12,Dhawornvej Lily,Female,30-11-2024,Beijing,CHN,United States Of America,Qualification,Big Air,13,
+13,Dhawornvej Lily,Female,17-08-2024,The Remarkables,NZL,United States Of America,Australian New Zealand Cup,Slopestyle,2,97.60
+14,Dhawornvej Lily,Female,04-04-2024,"Copper Mountain, CO",USA,United States Of America,National Championships,Slopestyle,1,70.00
+15,Dhawornvej Lily,Female,30-03-2024,Livigno/Mottolino,ITA,United States Of America,FIS Junior World Championships,Big Air,6,98.50
+16,Dhawornvej Lily,Female,28-03-2024,Livigno/Mottolino,ITA,United States Of America,Qualification,Big Air,6,
+17,Dhawornvej Lily,Female,26-03-2024,Livigno/Mottolino,ITA,United States Of America,FIS Junior World Championships,Slopestyle,5,116.20
+18,Dhawornvej Lily,Female,24-03-2024,Livigno/Mottolino,ITA,United States Of America,Qualification,Slopestyle,5,
+19,Dhawornvej Lily,Female,17-03-2024,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,2,91.80
+20,Dhawornvej Lily,Female,08-02-2024,Mammoth Mountain,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,6,95.50
+21,Dhawornvej Lily,Female,26-01-2024,Copper Mountain,USA,United States Of America,Nor-Am Cup,Slopestyle,8,32.30
+22,Dhawornvej Lily,Female,18-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Big Air,4,61.40
+23,Dhawornvej Lily,Female,17-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,7,36.10
+24,Dhawornvej Lily,Female,10-02-2023,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,6,66.00
+25,Dhawornvej Lily,Female,02-02-2023,Woodward - Park City,USA,United States Of America,FIS,Slopestyle,3,33.40
+26,Dhawornvej Lily,Female,26-01-2023,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,10,32.60
+27,Dhawornvej Lily,Female,18-01-2023,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,10,21.90
+28,Dhawornvej Lily,Female,17-01-2023,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,14,4.30

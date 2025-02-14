@@ -1,135 +1,136 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Corning Chris,Male,06-02-2025,Aspen,USA,United States Of America,World Cup,Big Air,8,344.70
-1,Corning Chris,Male,05-02-2025,Aspen,USA,United States Of America,Qualification,Big Air,2,
-2,Corning Chris,Male,02-02-2025,Aspen,USA,United States Of America,World Cup,Slopestyle,11,266.20
-3,Corning Chris,Male,31-01-2025,Aspen,USA,United States Of America,Qualification,Slopestyle,3,
-4,Corning Chris,Male,18-01-2025,Laax,SUI,United States Of America,World Cup,Slopestyle,22,165.10
-5,Corning Chris,Male,16-01-2025,Laax,SUI,United States Of America,Qualification,Slopestyle,7,
-6,Corning Chris,Male,11-01-2025,Kreischberg,AUT,United States Of America,Qualification,Big Air,7,
-7,Corning Chris,Male,11-01-2025,Kreischberg,AUT,United States Of America,World Cup,Big Air,14,219.00
-8,Corning Chris,Male,05-01-2025,Klagenfurt,AUT,United States Of America,Qualification,Big Air,13,
-9,Corning Chris,Male,05-01-2025,Klagenfurt,AUT,United States Of America,World Cup,Big Air,21,146.50
-10,Corning Chris,Male,01-12-2024,Beijing,CHN,United States Of America,World Cup,Big Air,5,506.70
-11,Corning Chris,Male,30-11-2024,Beijing,CHN,United States Of America,Qualification,Big Air,5,
-12,Corning Chris,Male,19-10-2024,Chur,SUI,United States Of America,World Cup,Big Air,15,195.00
-13,Corning Chris,Male,02-09-2024,Cardrona,NZL,United States Of America,World Cup,Slopestyle,28,123.70
-14,Corning Chris,Male,31-08-2024,Cardrona,NZL,United States Of America,Qualification,Slopestyle,17,
-15,Corning Chris,Male,23-03-2024,Silvaplana,SUI,United States Of America,World Cup,Slopestyle,24,153.40
-16,Corning Chris,Male,21-03-2024,Silvaplana,SUI,United States Of America,Qualification,Slopestyle,10,
-17,Corning Chris,Male,15-03-2024,Tignes,FRA,United States Of America,Qualification,Slopestyle,4,
-18,Corning Chris,Male,15-03-2024,Tignes,FRA,United States Of America,World Cup,Slopestyle,14,217.90
-19,Corning Chris,Male,08-02-2024,Mammoth Mountain,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,11,129.80
-20,Corning Chris,Male,20-01-2024,Laax,SUI,United States Of America,World Cup,Slopestyle,27,139.20
-21,Corning Chris,Male,16-01-2024,Laax,SUI,United States Of America,Qualification,Slopestyle,15,
-22,Corning Chris,Male,15-12-2023,Copper Mountain,USA,United States Of America,World Cup,Big Air,40,76.10
-23,Corning Chris,Male,13-12-2023,Copper Mountain,USA,United States Of America,Qualification,Big Air,22,
-24,Corning Chris,Male,26-03-2023,Silvaplana,SUI,United States Of America,World Cup,Slopestyle,45,24.20
-25,Corning Chris,Male,25-03-2023,Silvaplana,SUI,United States Of America,Qualification,Slopestyle,20,
-26,Corning Chris,Male,04-03-2023,Bakuriani,GEO,United States Of America,World Championships,Big Air,DNS,
-27,Corning Chris,Male,02-03-2023,Bakuriani,GEO,United States Of America,Qualification,Big Air,DNS,
-28,Corning Chris,Male,27-02-2023,Bakuriani,GEO,United States Of America,World Championships,Slopestyle,3,556.00
-29,Corning Chris,Male,24-02-2023,Bakuriani,GEO,United States Of America,Qualification,Slopestyle,1,
-30,Corning Chris,Male,12-02-2023,Calgary,CAN,United States Of America,World Cup,Slopestyle,9,240.30
-31,Corning Chris,Male,10-02-2023,Calgary,CAN,United States Of America,Qualification,Slopestyle,8,
-32,Corning Chris,Male,04-02-2023,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,3,555.60
-33,Corning Chris,Male,01-02-2023,Mammoth Mountain,USA,United States Of America,Qualification,Slopestyle,3,
-34,Corning Chris,Male,22-01-2023,Laax,SUI,United States Of America,World Cup,Slopestyle,48,40.40
-35,Corning Chris,Male,18-01-2023,Laax,SUI,United States Of America,Qualification,Slopestyle,24,
-36,Corning Chris,Male,14-01-2023,Kreischberg,AUT,United States Of America,World Cup,Big Air,7,307.30
-37,Corning Chris,Male,13-01-2023,Kreischberg,AUT,United States Of America,Qualification,Big Air,5,
-38,Corning Chris,Male,17-12-2022,Copper Mountain,USA,United States Of America,World Cup,Big Air,2,663.60
-39,Corning Chris,Male,15-12-2022,Copper Mountain,USA,United States Of America,Qualification,Big Air,2,
-40,Corning Chris,Male,10-12-2022,Edmonton,CAN,United States Of America,World Cup,Big Air,2,663.60
-41,Corning Chris,Male,09-12-2022,Edmonton,CAN,United States Of America,Qualification,Big Air,6,
-42,Corning Chris,Male,15-02-2022,Beijing,CHN,United States Of America,Olympic Winter Games,Big Air,7,363.80
-43,Corning Chris,Male,14-02-2022,Beijing,CHN,United States Of America,Qualification,Big Air,10,
-44,Corning Chris,Male,07-02-2022,Beijing,CHN,United States Of America,Olympic Winter Games,Slopestyle,6,421.80
-45,Corning Chris,Male,06-02-2022,Beijing,CHN,United States Of America,Qualification,Slopestyle,11,
-46,Corning Chris,Male,08-01-2022,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,8,344.00
-47,Corning Chris,Male,01-01-2022,Calgary,CAN,United States Of America,World Cup,Slopestyle,22,137.40
-48,Corning Chris,Male,31-12-2021,Calgary,CAN,United States Of America,Qualification,Slopestyle,13,
-49,Corning Chris,Male,04-12-2021,Steamboat,USA,United States Of America,World Cup,Big Air,39,91.90
-50,Corning Chris,Male,02-12-2021,Steamboat,USA,United States Of America,Qualification,Big Air,18,
-51,Corning Chris,Male,23-10-2021,Chur,SUI,United States Of America,World Cup,Big Air,13,224.90
-52,Corning Chris,Male,28-03-2021,Silvaplana,SUI,United States Of America,Qualification,Slopestyle,7,
-53,Corning Chris,Male,28-03-2021,Silvaplana,SUI,United States Of America,World Cup,Slopestyle,3,696.42
-54,Corning Chris,Male,20-03-2021,Aspen,USA,United States Of America,World Cup,Slopestyle,16,205.17
-55,Corning Chris,Male,19-03-2021,Aspen,USA,United States Of America,Qualification,Slopestyle,9,
-56,Corning Chris,Male,16-03-2021,Aspen,USA,United States Of America,World Championships,Big Air,20,137.38
-57,Corning Chris,Male,14-03-2021,Aspen,USA,United States Of America,Qualification,Big Air,11,
-58,Corning Chris,Male,12-03-2021,Aspen,USA,United States Of America,World Championships,Slopestyle,11,264.42
-59,Corning Chris,Male,10-03-2021,Aspen,USA,United States Of America,Qualification,Slopestyle,8,
-60,Corning Chris,Male,24-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Slopestyle,1,500.00
-61,Corning Chris,Male,09-01-2021,Kreischberg,AUT,United States Of America,Qualification,Big Air,9,
-62,Corning Chris,Male,09-01-2021,Kreischberg,AUT,United States Of America,World Cup,Big Air,16,205.17
-63,Corning Chris,Male,15-01-2020,Laax,SUI,United States Of America,World Cup,Slopestyle,26,50.00
-64,Corning Chris,Male,13-01-2020,Laax,SUI,United States Of America,Qualification,Slopestyle,14,
-65,Corning Chris,Male,20-12-2019,Atlanta,USA,United States Of America,World Cup,Big Air,1,1000.00
-66,Corning Chris,Male,14-12-2019,Beijing,CHN,United States Of America,World Cup,Big Air,3,600.00
-67,Corning Chris,Male,12-12-2019,Beijing,CHN,United States Of America,Qualification,Big Air,1,
-68,Corning Chris,Male,02-11-2019,Modena SKIPASS,ITA,United States Of America,World Cup,Big Air,3,600.00
-69,Corning Chris,Male,24-08-2019,Cardrona,NZL,United States Of America,World Cup,Big Air,1,1000.00
-70,Corning Chris,Male,23-08-2019,Cardrona,NZL,United States Of America,Qualification,Big Air,9,
-71,Corning Chris,Male,09-03-2019,Mammoth Mountain Resort,USA,United States Of America,World Cup,Slopestyle,5,450.00
-72,Corning Chris,Male,07-03-2019,Mammoth Mountain Resort,USA,United States Of America,Qualification,Slopestyle,1,
-73,Corning Chris,Male,10-02-2019,Park City,USA,United States Of America,World Championships,Slopestyle,1,1000.00
-74,Corning Chris,Male,09-02-2019,Park City,USA,United States Of America,Qualification,Slopestyle,11,
-75,Corning Chris,Male,18-01-2019,Laax,SUI,United States Of America,World Cup,Slopestyle,1,1000.00
-76,Corning Chris,Male,16-01-2019,Laax,SUI,United States Of America,Qualification,Slopestyle,2,
-77,Corning Chris,Male,12-01-2019,Kreischberg,AUT,United States Of America,World Cup,Slopestyle,2,800.00
-78,Corning Chris,Male,11-01-2019,Kreischberg,AUT,United States Of America,Qualification,Slopestyle,1,
-79,Corning Chris,Male,24-11-2018,Beijing,CHN,United States Of America,World Cup,Big Air,9,290.00
-80,Corning Chris,Male,23-11-2018,Beijing,CHN,United States Of America,Qualification,Big Air,2,
-81,Corning Chris,Male,03-11-2018,Modena SKIPASS,ITA,United States Of America,World Cup,Big Air,2,800.00
-82,Corning Chris,Male,08-09-2018,Cardrona,NZL,United States Of America,World Cup,Big Air,1,1000.00
-83,Corning Chris,Male,06-09-2018,Cardrona,NZL,United States Of America,Qualification,Big Air,3,
-84,Corning Chris,Male,17-03-2018,Seiser Alm,ITA,United States Of America,World Cup,Slopestyle,1,1000.00
-85,Corning Chris,Male,16-03-2018,Seiser Alm,ITA,United States Of America,Qualification,Slopestyle,1,
-86,Corning Chris,Male,24-02-2018,Alpensia Jumping Park,KOR,United States Of America,Olympic Winter Games,Big Air,4,500.00
-87,Corning Chris,Male,21-02-2018,Alpensia Jumping Park,KOR,United States Of America,Qualification,Big Air,4,
-88,Corning Chris,Male,11-02-2018,Phoenix Snow Park,KOR,United States Of America,Olympic Winter Games,Slopestyle,17,140.00
-89,Corning Chris,Male,10-02-2018,Phoenix Snow Park,KOR,United States Of America,Qualification,Slopestyle,9,
-90,Corning Chris,Male,10-12-2017,Copper Mountain Resort,USA,United States Of America,World Cup,Big Air,2,800.00
-91,Corning Chris,Male,08-12-2017,Copper Mountain Resort,USA,United States Of America,Qualification,Big Air,2,
-92,Corning Chris,Male,11-11-2017,Milan,ITA,United States Of America,World Cup,Big Air,1,1000.00
-93,Corning Chris,Male,04-09-2017,Cardrona,NZL,United States Of America,World Cup,Slopestyle,4,500.00
-94,Corning Chris,Male,03-09-2017,Cardrona,NZL,United States Of America,Qualification,Slopestyle,1,
-95,Corning Chris,Male,31-03-2017,Spindleruv Mlyn,CZE,United States Of America,FIS Junior World Championships,Slopestyle,1,360.00
-96,Corning Chris,Male,30-03-2017,Spindleruv Mlyn,CZE,United States Of America,Qualification,Slopestyle,1,
-97,Corning Chris,Male,25-03-2017,Spindleruv Mlyn,CZE,United States Of America,World Cup,Slopestyle,1,1000.00
-98,Corning Chris,Male,24-03-2017,Spindleruv Mlyn,CZE,United States Of America,Qualification,Slopestyle,1,
-99,Corning Chris,Male,17-03-2017,Sierra Nevada,ESP,United States Of America,World Championships,Big Air,2,800.00
-100,Corning Chris,Male,16-03-2017,Sierra Nevada,ESP,United States Of America,Qualification,Big Air,2,
-101,Corning Chris,Male,11-03-2017,Sierra Nevada,ESP,United States Of America,World Championships,Slopestyle,3,600.00
-102,Corning Chris,Male,09-03-2017,Sierra Nevada,ESP,United States Of America,Qualification,Slopestyle,3,
-103,Corning Chris,Male,12-02-2017,Quebec City,CAN,United States Of America,World Cup,Slopestyle,21,100.00
-104,Corning Chris,Male,11-02-2017,Quebec City,CAN,United States Of America,World Cup,Big Air,39,18.80
-105,Corning Chris,Male,10-02-2017,Quebec City,CAN,United States Of America,Qualification,Slopestyle,10,
-106,Corning Chris,Male,09-02-2017,Quebec City,CAN,United States Of America,Qualification,Big Air,19,
-107,Corning Chris,Male,04-02-2017,Mammoth Mountain Resort,USA,United States Of America,World Cup,Slopestyle,37,19.40
-108,Corning Chris,Male,01-02-2017,Mammoth Mountain Resort,USA,United States Of America,Qualification,Slopestyle,19,
-109,Corning Chris,Male,17-12-2016,Copper,USA,United States Of America,World Cup,Big Air,10,260.00
-110,Corning Chris,Male,15-12-2016,Copper,USA,United States Of America,Qualification,Big Air,4,
-111,Corning Chris,Male,26-11-2016,Alpensia,KOR,United States Of America,World Cup,Big Air,5,450.00
-112,Corning Chris,Male,25-11-2016,Alpensia,KOR,United States Of America,Qualification,Big Air,2,
-113,Corning Chris,Male,12-11-2016,Milan,ITA,United States Of America,World Cup,Big Air,5,450.00
-114,Corning Chris,Male,12-11-2016,Milan,ITA,United States Of America,Qualification,Big Air,2,
-115,Corning Chris,Male,30-03-2016,Seiser Alm,ITA,United States Of America,FIS Junior World Championships,Big Air,1,360.00
-116,Corning Chris,Male,29-03-2016,Seiser Alm,ITA,United States Of America,FIS Junior World Championships,Slopestyle,1,360.00
-117,Corning Chris,Male,20-03-2016,Spindleruv Mlyn,CZE,United States Of America,World Cup,Slopestyle,2,800.00
-118,Corning Chris,Male,19-03-2016,Spindleruv Mlyn,CZE,United States Of America,Qualification,Slopestyle,3,
-119,Corning Chris,Male,05-03-2016,"Winter Park Resort, CO",USA,United States Of America,FIS,Slopestyle,1,260.00
-120,Corning Chris,Male,21-02-2016,Bokwang,KOR,United States Of America,World Cup,Slopestyle,6,400.00
-121,Corning Chris,Male,19-02-2016,Bokwang,KOR,United States Of America,Qualification,Slopestyle,1,
-122,Corning Chris,Male,21-01-2016,Mammoth,USA,United States Of America,Qualification,Slopestyle,3,
-123,Corning Chris,Male,21-01-2016,Mammoth,USA,United States Of America,World Cup,Slopestyle,8,320.00
-124,Corning Chris,Male,22-08-2015,Cardrona,NZL,United States Of America,World Cup,Slopestyle,1,1000.00
-125,Corning Chris,Male,20-08-2015,Cardrona,NZL,United States Of America,Qualification,Slopestyle,10,
-126,Corning Chris,Male,10-03-2015,Yabuli,CHN,United States Of America,FIS Junior World Championships,Slopestyle,10,93.60
-127,Corning Chris,Male,27-02-2015,Park City,USA,United States Of America,World Cup,Slopestyle,31,28.00
-128,Corning Chris,Male,25-02-2015,Park City,USA,United States Of America,Qualification,Slopestyle,18,
-129,Corning Chris,Male,13-02-2015,"Mammoth Mountain, CA",USA,United States Of America,FIS,Slopestyle,9,40.60
-130,Corning Chris,Male,30-01-2015,"Seven Springs Resort, PA",USA,United States Of America,FIS,Slopestyle,3,54.00
-131,Corning Chris,Male,17-12-2014,"Copper Mountain, CO",USA,United States Of America,FIS,Slopestyle,2,72.00
-132,Corning Chris,Male,07-03-2014,"Sun Valley, ID",USA,United States Of America,FIS,Slopestyle,21,7.00
-133,Corning Chris,Male,25-02-2014,Mammoth Mtn. CA ,USA,United States Of America,FIS,Slopestyle,42,2.51
+0,Corning Chris,Male,12-02-2025,Aspen / Highlands,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,5,130.90
+1,Corning Chris,Male,06-02-2025,Aspen,USA,United States Of America,World Cup,Big Air,8,344.70
+2,Corning Chris,Male,05-02-2025,Aspen,USA,United States Of America,Qualification,Big Air,2,
+3,Corning Chris,Male,02-02-2025,Aspen,USA,United States Of America,World Cup,Slopestyle,11,266.20
+4,Corning Chris,Male,31-01-2025,Aspen,USA,United States Of America,Qualification,Slopestyle,3,
+5,Corning Chris,Male,18-01-2025,Laax,SUI,United States Of America,World Cup,Slopestyle,22,165.10
+6,Corning Chris,Male,16-01-2025,Laax,SUI,United States Of America,Qualification,Slopestyle,7,
+7,Corning Chris,Male,11-01-2025,Kreischberg,AUT,United States Of America,Qualification,Big Air,7,
+8,Corning Chris,Male,11-01-2025,Kreischberg,AUT,United States Of America,World Cup,Big Air,14,219.00
+9,Corning Chris,Male,05-01-2025,Klagenfurt,AUT,United States Of America,Qualification,Big Air,13,
+10,Corning Chris,Male,05-01-2025,Klagenfurt,AUT,United States Of America,World Cup,Big Air,21,146.50
+11,Corning Chris,Male,01-12-2024,Beijing,CHN,United States Of America,World Cup,Big Air,5,506.70
+12,Corning Chris,Male,30-11-2024,Beijing,CHN,United States Of America,Qualification,Big Air,5,
+13,Corning Chris,Male,19-10-2024,Chur,SUI,United States Of America,World Cup,Big Air,15,195.00
+14,Corning Chris,Male,02-09-2024,Cardrona,NZL,United States Of America,World Cup,Slopestyle,28,123.70
+15,Corning Chris,Male,31-08-2024,Cardrona,NZL,United States Of America,Qualification,Slopestyle,17,
+16,Corning Chris,Male,23-03-2024,Silvaplana,SUI,United States Of America,World Cup,Slopestyle,24,153.40
+17,Corning Chris,Male,21-03-2024,Silvaplana,SUI,United States Of America,Qualification,Slopestyle,10,
+18,Corning Chris,Male,15-03-2024,Tignes,FRA,United States Of America,Qualification,Slopestyle,4,
+19,Corning Chris,Male,15-03-2024,Tignes,FRA,United States Of America,World Cup,Slopestyle,14,217.90
+20,Corning Chris,Male,08-02-2024,Mammoth Mountain,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,11,129.80
+21,Corning Chris,Male,20-01-2024,Laax,SUI,United States Of America,World Cup,Slopestyle,27,139.20
+22,Corning Chris,Male,16-01-2024,Laax,SUI,United States Of America,Qualification,Slopestyle,15,
+23,Corning Chris,Male,15-12-2023,Copper Mountain,USA,United States Of America,World Cup,Big Air,40,76.10
+24,Corning Chris,Male,13-12-2023,Copper Mountain,USA,United States Of America,Qualification,Big Air,22,
+25,Corning Chris,Male,26-03-2023,Silvaplana,SUI,United States Of America,World Cup,Slopestyle,45,24.20
+26,Corning Chris,Male,25-03-2023,Silvaplana,SUI,United States Of America,Qualification,Slopestyle,20,
+27,Corning Chris,Male,04-03-2023,Bakuriani,GEO,United States Of America,World Championships,Big Air,DNS,
+28,Corning Chris,Male,02-03-2023,Bakuriani,GEO,United States Of America,Qualification,Big Air,DNS,
+29,Corning Chris,Male,27-02-2023,Bakuriani,GEO,United States Of America,World Championships,Slopestyle,3,556.00
+30,Corning Chris,Male,24-02-2023,Bakuriani,GEO,United States Of America,Qualification,Slopestyle,1,
+31,Corning Chris,Male,12-02-2023,Calgary,CAN,United States Of America,World Cup,Slopestyle,9,240.30
+32,Corning Chris,Male,10-02-2023,Calgary,CAN,United States Of America,Qualification,Slopestyle,8,
+33,Corning Chris,Male,04-02-2023,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,3,555.60
+34,Corning Chris,Male,01-02-2023,Mammoth Mountain,USA,United States Of America,Qualification,Slopestyle,3,
+35,Corning Chris,Male,22-01-2023,Laax,SUI,United States Of America,World Cup,Slopestyle,48,40.40
+36,Corning Chris,Male,18-01-2023,Laax,SUI,United States Of America,Qualification,Slopestyle,24,
+37,Corning Chris,Male,14-01-2023,Kreischberg,AUT,United States Of America,World Cup,Big Air,7,307.30
+38,Corning Chris,Male,13-01-2023,Kreischberg,AUT,United States Of America,Qualification,Big Air,5,
+39,Corning Chris,Male,17-12-2022,Copper Mountain,USA,United States Of America,World Cup,Big Air,2,663.60
+40,Corning Chris,Male,15-12-2022,Copper Mountain,USA,United States Of America,Qualification,Big Air,2,
+41,Corning Chris,Male,10-12-2022,Edmonton,CAN,United States Of America,World Cup,Big Air,2,663.60
+42,Corning Chris,Male,09-12-2022,Edmonton,CAN,United States Of America,Qualification,Big Air,6,
+43,Corning Chris,Male,15-02-2022,Beijing,CHN,United States Of America,Olympic Winter Games,Big Air,7,363.80
+44,Corning Chris,Male,14-02-2022,Beijing,CHN,United States Of America,Qualification,Big Air,10,
+45,Corning Chris,Male,07-02-2022,Beijing,CHN,United States Of America,Olympic Winter Games,Slopestyle,6,421.80
+46,Corning Chris,Male,06-02-2022,Beijing,CHN,United States Of America,Qualification,Slopestyle,11,
+47,Corning Chris,Male,08-01-2022,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,8,344.00
+48,Corning Chris,Male,01-01-2022,Calgary,CAN,United States Of America,World Cup,Slopestyle,22,137.40
+49,Corning Chris,Male,31-12-2021,Calgary,CAN,United States Of America,Qualification,Slopestyle,13,
+50,Corning Chris,Male,04-12-2021,Steamboat,USA,United States Of America,World Cup,Big Air,39,91.90
+51,Corning Chris,Male,02-12-2021,Steamboat,USA,United States Of America,Qualification,Big Air,18,
+52,Corning Chris,Male,23-10-2021,Chur,SUI,United States Of America,World Cup,Big Air,13,224.90
+53,Corning Chris,Male,28-03-2021,Silvaplana,SUI,United States Of America,Qualification,Slopestyle,7,
+54,Corning Chris,Male,28-03-2021,Silvaplana,SUI,United States Of America,World Cup,Slopestyle,3,696.42
+55,Corning Chris,Male,20-03-2021,Aspen,USA,United States Of America,World Cup,Slopestyle,16,205.17
+56,Corning Chris,Male,19-03-2021,Aspen,USA,United States Of America,Qualification,Slopestyle,9,
+57,Corning Chris,Male,16-03-2021,Aspen,USA,United States Of America,World Championships,Big Air,20,137.38
+58,Corning Chris,Male,14-03-2021,Aspen,USA,United States Of America,Qualification,Big Air,11,
+59,Corning Chris,Male,12-03-2021,Aspen,USA,United States Of America,World Championships,Slopestyle,11,264.42
+60,Corning Chris,Male,10-03-2021,Aspen,USA,United States Of America,Qualification,Slopestyle,8,
+61,Corning Chris,Male,24-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Slopestyle,1,500.00
+62,Corning Chris,Male,09-01-2021,Kreischberg,AUT,United States Of America,Qualification,Big Air,9,
+63,Corning Chris,Male,09-01-2021,Kreischberg,AUT,United States Of America,World Cup,Big Air,16,205.17
+64,Corning Chris,Male,15-01-2020,Laax,SUI,United States Of America,World Cup,Slopestyle,26,50.00
+65,Corning Chris,Male,13-01-2020,Laax,SUI,United States Of America,Qualification,Slopestyle,14,
+66,Corning Chris,Male,20-12-2019,Atlanta,USA,United States Of America,World Cup,Big Air,1,1000.00
+67,Corning Chris,Male,14-12-2019,Beijing,CHN,United States Of America,World Cup,Big Air,3,600.00
+68,Corning Chris,Male,12-12-2019,Beijing,CHN,United States Of America,Qualification,Big Air,1,
+69,Corning Chris,Male,02-11-2019,Modena SKIPASS,ITA,United States Of America,World Cup,Big Air,3,600.00
+70,Corning Chris,Male,24-08-2019,Cardrona,NZL,United States Of America,World Cup,Big Air,1,1000.00
+71,Corning Chris,Male,23-08-2019,Cardrona,NZL,United States Of America,Qualification,Big Air,9,
+72,Corning Chris,Male,09-03-2019,Mammoth Mountain Resort,USA,United States Of America,World Cup,Slopestyle,5,450.00
+73,Corning Chris,Male,07-03-2019,Mammoth Mountain Resort,USA,United States Of America,Qualification,Slopestyle,1,
+74,Corning Chris,Male,10-02-2019,Park City,USA,United States Of America,World Championships,Slopestyle,1,1000.00
+75,Corning Chris,Male,09-02-2019,Park City,USA,United States Of America,Qualification,Slopestyle,11,
+76,Corning Chris,Male,18-01-2019,Laax,SUI,United States Of America,World Cup,Slopestyle,1,1000.00
+77,Corning Chris,Male,16-01-2019,Laax,SUI,United States Of America,Qualification,Slopestyle,2,
+78,Corning Chris,Male,12-01-2019,Kreischberg,AUT,United States Of America,World Cup,Slopestyle,2,800.00
+79,Corning Chris,Male,11-01-2019,Kreischberg,AUT,United States Of America,Qualification,Slopestyle,1,
+80,Corning Chris,Male,24-11-2018,Beijing,CHN,United States Of America,World Cup,Big Air,9,290.00
+81,Corning Chris,Male,23-11-2018,Beijing,CHN,United States Of America,Qualification,Big Air,2,
+82,Corning Chris,Male,03-11-2018,Modena SKIPASS,ITA,United States Of America,World Cup,Big Air,2,800.00
+83,Corning Chris,Male,08-09-2018,Cardrona,NZL,United States Of America,World Cup,Big Air,1,1000.00
+84,Corning Chris,Male,06-09-2018,Cardrona,NZL,United States Of America,Qualification,Big Air,3,
+85,Corning Chris,Male,17-03-2018,Seiser Alm,ITA,United States Of America,World Cup,Slopestyle,1,1000.00
+86,Corning Chris,Male,16-03-2018,Seiser Alm,ITA,United States Of America,Qualification,Slopestyle,1,
+87,Corning Chris,Male,24-02-2018,Alpensia Jumping Park,KOR,United States Of America,Olympic Winter Games,Big Air,4,500.00
+88,Corning Chris,Male,21-02-2018,Alpensia Jumping Park,KOR,United States Of America,Qualification,Big Air,4,
+89,Corning Chris,Male,11-02-2018,Phoenix Snow Park,KOR,United States Of America,Olympic Winter Games,Slopestyle,17,140.00
+90,Corning Chris,Male,10-02-2018,Phoenix Snow Park,KOR,United States Of America,Qualification,Slopestyle,9,
+91,Corning Chris,Male,10-12-2017,Copper Mountain Resort,USA,United States Of America,World Cup,Big Air,2,800.00
+92,Corning Chris,Male,08-12-2017,Copper Mountain Resort,USA,United States Of America,Qualification,Big Air,2,
+93,Corning Chris,Male,11-11-2017,Milan,ITA,United States Of America,World Cup,Big Air,1,1000.00
+94,Corning Chris,Male,04-09-2017,Cardrona,NZL,United States Of America,World Cup,Slopestyle,4,500.00
+95,Corning Chris,Male,03-09-2017,Cardrona,NZL,United States Of America,Qualification,Slopestyle,1,
+96,Corning Chris,Male,31-03-2017,Spindleruv Mlyn,CZE,United States Of America,FIS Junior World Championships,Slopestyle,1,360.00
+97,Corning Chris,Male,30-03-2017,Spindleruv Mlyn,CZE,United States Of America,Qualification,Slopestyle,1,
+98,Corning Chris,Male,25-03-2017,Spindleruv Mlyn,CZE,United States Of America,World Cup,Slopestyle,1,1000.00
+99,Corning Chris,Male,24-03-2017,Spindleruv Mlyn,CZE,United States Of America,Qualification,Slopestyle,1,
+100,Corning Chris,Male,17-03-2017,Sierra Nevada,ESP,United States Of America,World Championships,Big Air,2,800.00
+101,Corning Chris,Male,16-03-2017,Sierra Nevada,ESP,United States Of America,Qualification,Big Air,2,
+102,Corning Chris,Male,11-03-2017,Sierra Nevada,ESP,United States Of America,World Championships,Slopestyle,3,600.00
+103,Corning Chris,Male,09-03-2017,Sierra Nevada,ESP,United States Of America,Qualification,Slopestyle,3,
+104,Corning Chris,Male,12-02-2017,Quebec City,CAN,United States Of America,World Cup,Slopestyle,21,100.00
+105,Corning Chris,Male,11-02-2017,Quebec City,CAN,United States Of America,World Cup,Big Air,39,18.80
+106,Corning Chris,Male,10-02-2017,Quebec City,CAN,United States Of America,Qualification,Slopestyle,10,
+107,Corning Chris,Male,09-02-2017,Quebec City,CAN,United States Of America,Qualification,Big Air,19,
+108,Corning Chris,Male,04-02-2017,Mammoth Mountain Resort,USA,United States Of America,World Cup,Slopestyle,37,19.40
+109,Corning Chris,Male,01-02-2017,Mammoth Mountain Resort,USA,United States Of America,Qualification,Slopestyle,19,
+110,Corning Chris,Male,17-12-2016,Copper,USA,United States Of America,World Cup,Big Air,10,260.00
+111,Corning Chris,Male,15-12-2016,Copper,USA,United States Of America,Qualification,Big Air,4,
+112,Corning Chris,Male,26-11-2016,Alpensia,KOR,United States Of America,World Cup,Big Air,5,450.00
+113,Corning Chris,Male,25-11-2016,Alpensia,KOR,United States Of America,Qualification,Big Air,2,
+114,Corning Chris,Male,12-11-2016,Milan,ITA,United States Of America,World Cup,Big Air,5,450.00
+115,Corning Chris,Male,12-11-2016,Milan,ITA,United States Of America,Qualification,Big Air,2,
+116,Corning Chris,Male,30-03-2016,Seiser Alm,ITA,United States Of America,FIS Junior World Championships,Big Air,1,360.00
+117,Corning Chris,Male,29-03-2016,Seiser Alm,ITA,United States Of America,FIS Junior World Championships,Slopestyle,1,360.00
+118,Corning Chris,Male,20-03-2016,Spindleruv Mlyn,CZE,United States Of America,World Cup,Slopestyle,2,800.00
+119,Corning Chris,Male,19-03-2016,Spindleruv Mlyn,CZE,United States Of America,Qualification,Slopestyle,3,
+120,Corning Chris,Male,05-03-2016,"Winter Park Resort, CO",USA,United States Of America,FIS,Slopestyle,1,260.00
+121,Corning Chris,Male,21-02-2016,Bokwang,KOR,United States Of America,World Cup,Slopestyle,6,400.00
+122,Corning Chris,Male,19-02-2016,Bokwang,KOR,United States Of America,Qualification,Slopestyle,1,
+123,Corning Chris,Male,21-01-2016,Mammoth,USA,United States Of America,Qualification,Slopestyle,3,
+124,Corning Chris,Male,21-01-2016,Mammoth,USA,United States Of America,World Cup,Slopestyle,8,320.00
+125,Corning Chris,Male,22-08-2015,Cardrona,NZL,United States Of America,World Cup,Slopestyle,1,1000.00
+126,Corning Chris,Male,20-08-2015,Cardrona,NZL,United States Of America,Qualification,Slopestyle,10,
+127,Corning Chris,Male,10-03-2015,Yabuli,CHN,United States Of America,FIS Junior World Championships,Slopestyle,10,93.60
+128,Corning Chris,Male,27-02-2015,Park City,USA,United States Of America,World Cup,Slopestyle,31,28.00
+129,Corning Chris,Male,25-02-2015,Park City,USA,United States Of America,Qualification,Slopestyle,18,
+130,Corning Chris,Male,13-02-2015,"Mammoth Mountain, CA",USA,United States Of America,FIS,Slopestyle,9,40.60
+131,Corning Chris,Male,30-01-2015,"Seven Springs Resort, PA",USA,United States Of America,FIS,Slopestyle,3,54.00
+132,Corning Chris,Male,17-12-2014,"Copper Mountain, CO",USA,United States Of America,FIS,Slopestyle,2,72.00
+133,Corning Chris,Male,07-03-2014,"Sun Valley, ID",USA,United States Of America,FIS,Slopestyle,21,7.00
+134,Corning Chris,Male,25-02-2014,Mammoth Mtn. CA ,USA,United States Of America,FIS,Slopestyle,42,2.51
