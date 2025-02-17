@@ -1,89 +1,93 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Park Jisung,Male,22-01-2025,Bardonecchia,ITA,Korea,Universiade,Parallel Slalom,8,83.20
-1,Park Jisung,Male,21-01-2025,Bardonecchia,ITA,Korea,Universiade,Parallel Giant Slalom,10,67.60
-2,Park Jisung,Male,09-01-2025,O2 Resort,KOR,Korea,Asian Cup,Parallel Slalom,3,96.00
-3,Park Jisung,Male,08-01-2025,O2 Resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,6,64.00
-4,Park Jisung,Male,31-12-2024,Galaxy Ski Resort,CHN,Korea,Asian Cup,Parallel Slalom,12,44.00
-5,Park Jisung,Male,30-12-2024,Galaxy Ski Resort,CHN,Korea,Asian Cup,Parallel Giant Slalom,15,32.00
-6,Park Jisung,Male,22-12-2024,Moninec,CZE,Korea,FIS,Parallel Slalom,DSQ,
-7,Park Jisung,Male,21-12-2024,Moninec,CZE,Korea,FIS,Parallel Slalom,14,28.80
-8,Park Jisung,Male,20-12-2024,Moninec,CZE,Korea,European Cup,Parallel Slalom,DSQ,
-9,Park Jisung,Male,19-12-2024,Moninec,CZE,Korea,European Cup,Parallel Slalom,32,5.20
-10,Park Jisung,Male,15-12-2024,Götschen,GER,Korea,European Cup,Parallel Slalom,65,
-11,Park Jisung,Male,14-12-2024,Götschen,GER,Korea,European Cup,Parallel Slalom,5,72.00
-12,Park Jisung,Male,23-03-2024,Lachtal,AUT,Korea,FIS Junior World Championships,Parallel Slalom,DSQ,
-13,Park Jisung,Male,23-03-2024,Lachtal,AUT,Korea,Qualification,Parallel Slalom,DSQ,
-14,Park Jisung,Male,22-03-2024,Lachtal,AUT,Korea,FIS Junior World Championships,Parallel Giant Slalom,30,6.72
-15,Park Jisung,Male,22-03-2024,Lachtal,AUT,Korea,Qualification,Parallel Giant Slalom,30,
-16,Park Jisung,Male,19-03-2024,Wanglong Ski Resrort,CHN,Korea,Asian Cup,Slalom,DSQ,
-17,Park Jisung,Male,18-03-2024,Wanglong Ski Resrort,CHN,Korea,Asian Cup,Parallel Giant Slalom,20,22.00
-18,Park Jisung,Male,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Korea,Asian Cup,Parallel Slalom,10,52.00
-19,Park Jisung,Male,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Korea,Asian Cup,Parallel Giant Slalom,7,72.00
-20,Park Jisung,Male,05-03-2024,High1resort,KOR,Korea,Asian Cup,Parallel Slalom,14,36.00
-21,Park Jisung,Male,04-03-2024,High1resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,18,31.20
-22,Park Jisung,Male,02-02-2024,High1resort,KOR,Korea,FIS,Parallel Slalom,9,63.80
-23,Park Jisung,Male,01-02-2024,High1resort,KOR,Korea,FIS,Parallel Giant Slalom,16,33.00
-24,Park Jisung,Male,27-01-2024,Simonhöhe,AUT,Korea,Qualification,Parallel Giant Slalom,38,
-25,Park Jisung,Male,27-01-2024,Simonhöhe,AUT,Korea,World Cup,Parallel Giant Slalom,38,19.10
-26,Park Jisung,Male,24-01-2024,Pamporovo,BUL,Korea,European Cup,Parallel Slalom,17,30.80
-27,Park Jisung,Male,23-01-2024,Pamporovo,BUL,Korea,European Cup,Parallel Slalom,13,44.00
-28,Park Jisung,Male,21-01-2024,Pamporovo,BUL,Korea,World Cup,Parallel Slalom,DSQ,
-29,Park Jisung,Male,21-01-2024,Pamporovo,BUL,Korea,Qualification,Parallel Slalom,DSQ,
-30,Park Jisung,Male,20-01-2024,Pamporovo,BUL,Korea,World Cup,Parallel Slalom,38,19.10
-31,Park Jisung,Male,20-01-2024,Pamporovo,BUL,Korea,Qualification,Parallel Slalom,38,
-32,Park Jisung,Male,16-01-2024,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,DSQ,
-33,Park Jisung,Male,16-01-2024,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,DSQ,
-34,Park Jisung,Male,14-01-2024,Gosau,AUT,Korea,FIS,Parallel Slalom,8,32.00
-35,Park Jisung,Male,13-01-2024,Gosau,AUT,Korea,FIS,Parallel Slalom,15,16.00
-36,Park Jisung,Male,12-01-2024,Folgaria,ITA,Korea,European Cup,Parallel Slalom,16,36.00
-37,Park Jisung,Male,12-01-2024,Folgaria,ITA,Korea,Qualification,Parallel Slalom,16,
-38,Park Jisung,Male,11-01-2024,Folgaria,ITA,Korea,European Cup,Parallel Slalom,12,52.80
-39,Park Jisung,Male,11-01-2024,Folgaria,ITA,Korea,Qualification,Parallel Slalom,10,
-40,Park Jisung,Male,07-01-2024,Dolni Morava,CZE,Korea,National Championships,Parallel Giant Slalom,5,49.50
-41,Park Jisung,Male,06-01-2024,Dolni Morava,CZE,Korea,National Championships,Parallel Slalom,11,26.40
-42,Park Jisung,Male,03-03-2023,high1 resort,KOR,Korea,Asian Cup,Parallel Slalom,8,115.20
-43,Park Jisung,Male,02-03-2023,high1 resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,10,93.60
-44,Park Jisung,Male,07-02-2023,high1 resort,KOR,Korea,FIS,Parallel Slalom,6,88.00
-45,Park Jisung,Male,06-02-2023,high1 resort,KOR,Korea,FIS,Parallel Giant Slalom,8,70.40
-46,Park Jisung,Male,15-01-2023,Alleghe,ITA,Korea,European Cup,Parallel Slalom,4,80.00
-47,Park Jisung,Male,15-01-2023,Alleghe,ITA,Korea,Qualification,Parallel Slalom,13,
-48,Park Jisung,Male,14-01-2023,Alleghe,ITA,Korea,Qualification,Parallel Slalom,9,
-49,Park Jisung,Male,14-01-2023,Alleghe,ITA,Korea,European Cup,Parallel Slalom,11,38.40
-50,Park Jisung,Male,08-01-2023,Haus im Ennstal,AUT,Korea,Junior,Giant Slalom,32,
-51,Park Jisung,Male,07-01-2023,Haus im Ennstal,AUT,Korea,Junior,Parallel Giant Slalom,15,19.20
-52,Park Jisung,Male,04-01-2023,SUCHE/Zakopane,POL,Korea,National Championships,Parallel Giant Slalom,8,83.20
-53,Park Jisung,Male,18-12-2022,Hochfügen,GER,Korea,Qualification,Parallel Giant Slalom,18,
-54,Park Jisung,Male,18-12-2022,Hochfügen,GER,Korea,European Cup,Parallel Giant Slalom,18,33.80
-55,Park Jisung,Male,17-12-2022,Hochfügen,GER,Korea,European Cup,Parallel Giant Slalom,11,43.20
-56,Park Jisung,Male,01-04-2022,Chiesa in Valmalenco,ITA,Korea,FIS Junior World Championships,Parallel Slalom,44,
-57,Park Jisung,Male,31-03-2022,Chiesa in Valmalenco,ITA,Korea,FIS Junior World Championships,Parallel Giant Slalom,18,31.20
-58,Park Jisung,Male,27-03-2022,Villach / Gerlitzen,AUT,Korea,National Championships,Parallel Slalom,17,40.60
-59,Park Jisung,Male,26-03-2022,Villach / Gerlitzen,AUT,Korea,National Championships,Parallel Giant Slalom,15,46.40
-60,Park Jisung,Male,20-03-2022,Senales - Schnals,ITA,Korea,Junior,Parallel Slalom,4,50.00
-61,Park Jisung,Male,19-03-2022,Senales - Schnals,ITA,Korea,Junior,Parallel Slalom,6,40.00
-62,Park Jisung,Male,17-03-2022,Rogla,SLO,Korea,European Cup,Parallel Giant Slalom,46,
-63,Park Jisung,Male,03-03-2022,Wellihilli Park,KOR,Korea,National Championships,Parallel Slalom,11,69.60
-64,Park Jisung,Male,02-03-2022,Wellihilli Park,KOR,Korea,National Championships,Parallel Giant Slalom,13,58.00
-65,Park Jisung,Male,22-02-2022,Wellihilli Park,KOR,Korea,FIS,Parallel Slalom,8,70.40
-66,Park Jisung,Male,21-02-2022,Wellihilli Park,KOR,Korea,FIS,Parallel Giant Slalom,DSQ,
-67,Park Jisung,Male,06-02-2022,Lenzerheide,SUI,Korea,European Cup,Parallel Slalom,22,32.40
-68,Park Jisung,Male,05-02-2022,Lenzerheide,SUI,Korea,European Cup,Parallel Slalom,21,36.00
-69,Park Jisung,Male,30-01-2022,Davos,SUI,Korea,European Cup,Parallel Slalom,22,32.40
-70,Park Jisung,Male,29-01-2022,Davos,SUI,Korea,European Cup,Parallel Slalom,18,46.80
-71,Park Jisung,Male,23-01-2022,Bukovel,UKR,Korea,European Cup,Parallel Giant Slalom,22,23.40
-72,Park Jisung,Male,22-01-2022,Bukovel,UKR,Korea,European Cup,Parallel Giant Slalom,25,15.60
-73,Park Jisung,Male,20-01-2022,Bukovel,UKR,Korea,National Championships,Parallel Slalom,41,
-74,Park Jisung,Male,19-01-2022,Bukovel,UKR,Korea,National Championships,Parallel Giant Slalom,31,6.72
-75,Park Jisung,Male,15-01-2022,Goetschen,GER,Korea,Junior,Parallel Slalom,2,56.00
-76,Park Jisung,Male,21-12-2021,Moninec,CZE,Korea,FIS,Parallel Slalom,12,44.00
-77,Park Jisung,Male,20-12-2021,Moninec,CZE,Korea,FIS,Parallel Slalom,13,40.00
-78,Park Jisung,Male,19-12-2021,Moninec,CZE,Korea,European Cup,Parallel Slalom,35,4.40
-79,Park Jisung,Male,18-12-2021,Moninec,CZE,Korea,European Cup,Parallel Slalom,41,3.64
-80,Park Jisung,Male,12-12-2021,Götschen,GER,Korea,European Cup,Parallel Slalom,24,15.40
-81,Park Jisung,Male,11-12-2021,Götschen,GER,Korea,European Cup,Parallel Slalom,48,
-82,Park Jisung,Male,26-02-2021,Pyeongchang,KOR,Korea,National Championships,Parallel Slalom,9,20.30
-83,Park Jisung,Male,25-02-2021,Pyeongchang,KOR,Korea,National Championships,Parallel Giant Slalom,10,18.20
-84,Park Jisung,Male,04-02-2021,Pyeongchang,KOR,Korea,FIS,Parallel Slalom,9,20.30
-85,Park Jisung,Male,03-02-2021,Pyeongchang,KOR,Korea,FIS,Parallel Giant Slalom,7,25.20
-86,Park Jisung,Male,29-01-2021,Pyeongchang,KOR,Korea,FIS,Parallel Slalom,8,22.40
-87,Park Jisung,Male,28-01-2021,Pyeongchang,KOR,Korea,FIS,Parallel Giant Slalom,9,20.30
+0,Park Jisung,Male,16-02-2025,Val St. Come,CAN,Korea,World Cup,Parallel Giant Slalom,45,
+1,Park Jisung,Male,16-02-2025,Val St. Come,CAN,Korea,Qualification,Parallel Giant Slalom,45,
+2,Park Jisung,Male,15-02-2025,Val St. Come,CAN,Korea,Qualification,Parallel Giant Slalom,33,
+3,Park Jisung,Male,15-02-2025,Val St. Come,CAN,Korea,World Cup,Parallel Giant Slalom,33,
+4,Park Jisung,Male,22-01-2025,Bardonecchia,ITA,Korea,Universiade,Parallel Slalom,8,83.20
+5,Park Jisung,Male,21-01-2025,Bardonecchia,ITA,Korea,Universiade,Parallel Giant Slalom,10,67.60
+6,Park Jisung,Male,09-01-2025,O2 Resort,KOR,Korea,Asian Cup,Parallel Slalom,3,96.00
+7,Park Jisung,Male,08-01-2025,O2 Resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,6,64.00
+8,Park Jisung,Male,31-12-2024,Galaxy Ski Resort,CHN,Korea,Asian Cup,Parallel Slalom,12,44.00
+9,Park Jisung,Male,30-12-2024,Galaxy Ski Resort,CHN,Korea,Asian Cup,Parallel Giant Slalom,15,32.00
+10,Park Jisung,Male,22-12-2024,Moninec,CZE,Korea,FIS,Parallel Slalom,DSQ,
+11,Park Jisung,Male,21-12-2024,Moninec,CZE,Korea,FIS,Parallel Slalom,14,28.80
+12,Park Jisung,Male,20-12-2024,Moninec,CZE,Korea,European Cup,Parallel Slalom,DSQ,
+13,Park Jisung,Male,19-12-2024,Moninec,CZE,Korea,European Cup,Parallel Slalom,32,5.20
+14,Park Jisung,Male,15-12-2024,Götschen,GER,Korea,European Cup,Parallel Slalom,65,
+15,Park Jisung,Male,14-12-2024,Götschen,GER,Korea,European Cup,Parallel Slalom,5,72.00
+16,Park Jisung,Male,23-03-2024,Lachtal,AUT,Korea,FIS Junior World Championships,Parallel Slalom,DSQ,
+17,Park Jisung,Male,23-03-2024,Lachtal,AUT,Korea,Qualification,Parallel Slalom,DSQ,
+18,Park Jisung,Male,22-03-2024,Lachtal,AUT,Korea,FIS Junior World Championships,Parallel Giant Slalom,30,6.72
+19,Park Jisung,Male,22-03-2024,Lachtal,AUT,Korea,Qualification,Parallel Giant Slalom,30,
+20,Park Jisung,Male,19-03-2024,Wanglong Ski Resrort,CHN,Korea,Asian Cup,Slalom,DSQ,
+21,Park Jisung,Male,18-03-2024,Wanglong Ski Resrort,CHN,Korea,Asian Cup,Parallel Giant Slalom,20,22.00
+22,Park Jisung,Male,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Korea,Asian Cup,Parallel Slalom,10,52.00
+23,Park Jisung,Male,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Korea,Asian Cup,Parallel Giant Slalom,7,72.00
+24,Park Jisung,Male,05-03-2024,High1resort,KOR,Korea,Asian Cup,Parallel Slalom,14,36.00
+25,Park Jisung,Male,04-03-2024,High1resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,18,31.20
+26,Park Jisung,Male,02-02-2024,High1resort,KOR,Korea,FIS,Parallel Slalom,9,63.80
+27,Park Jisung,Male,01-02-2024,High1resort,KOR,Korea,FIS,Parallel Giant Slalom,16,33.00
+28,Park Jisung,Male,27-01-2024,Simonhöhe,AUT,Korea,World Cup,Parallel Giant Slalom,38,19.10
+29,Park Jisung,Male,27-01-2024,Simonhöhe,AUT,Korea,Qualification,Parallel Giant Slalom,38,
+30,Park Jisung,Male,24-01-2024,Pamporovo,BUL,Korea,European Cup,Parallel Slalom,17,30.80
+31,Park Jisung,Male,23-01-2024,Pamporovo,BUL,Korea,European Cup,Parallel Slalom,13,44.00
+32,Park Jisung,Male,21-01-2024,Pamporovo,BUL,Korea,World Cup,Parallel Slalom,DSQ,
+33,Park Jisung,Male,21-01-2024,Pamporovo,BUL,Korea,Qualification,Parallel Slalom,DSQ,
+34,Park Jisung,Male,20-01-2024,Pamporovo,BUL,Korea,World Cup,Parallel Slalom,38,19.10
+35,Park Jisung,Male,20-01-2024,Pamporovo,BUL,Korea,Qualification,Parallel Slalom,38,
+36,Park Jisung,Male,16-01-2024,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,DSQ,
+37,Park Jisung,Male,16-01-2024,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,DSQ,
+38,Park Jisung,Male,14-01-2024,Gosau,AUT,Korea,FIS,Parallel Slalom,8,32.00
+39,Park Jisung,Male,13-01-2024,Gosau,AUT,Korea,FIS,Parallel Slalom,15,16.00
+40,Park Jisung,Male,12-01-2024,Folgaria,ITA,Korea,Qualification,Parallel Slalom,16,
+41,Park Jisung,Male,12-01-2024,Folgaria,ITA,Korea,European Cup,Parallel Slalom,16,36.00
+42,Park Jisung,Male,11-01-2024,Folgaria,ITA,Korea,Qualification,Parallel Slalom,10,
+43,Park Jisung,Male,11-01-2024,Folgaria,ITA,Korea,European Cup,Parallel Slalom,12,52.80
+44,Park Jisung,Male,07-01-2024,Dolni Morava,CZE,Korea,National Championships,Parallel Giant Slalom,5,49.50
+45,Park Jisung,Male,06-01-2024,Dolni Morava,CZE,Korea,National Championships,Parallel Slalom,11,26.40
+46,Park Jisung,Male,03-03-2023,high1 resort,KOR,Korea,Asian Cup,Parallel Slalom,8,115.20
+47,Park Jisung,Male,02-03-2023,high1 resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,10,93.60
+48,Park Jisung,Male,07-02-2023,high1 resort,KOR,Korea,FIS,Parallel Slalom,6,88.00
+49,Park Jisung,Male,06-02-2023,high1 resort,KOR,Korea,FIS,Parallel Giant Slalom,8,70.40
+50,Park Jisung,Male,15-01-2023,Alleghe,ITA,Korea,European Cup,Parallel Slalom,4,80.00
+51,Park Jisung,Male,15-01-2023,Alleghe,ITA,Korea,Qualification,Parallel Slalom,13,
+52,Park Jisung,Male,14-01-2023,Alleghe,ITA,Korea,European Cup,Parallel Slalom,11,38.40
+53,Park Jisung,Male,14-01-2023,Alleghe,ITA,Korea,Qualification,Parallel Slalom,9,
+54,Park Jisung,Male,08-01-2023,Haus im Ennstal,AUT,Korea,Junior,Giant Slalom,32,
+55,Park Jisung,Male,07-01-2023,Haus im Ennstal,AUT,Korea,Junior,Parallel Giant Slalom,15,19.20
+56,Park Jisung,Male,04-01-2023,SUCHE/Zakopane,POL,Korea,National Championships,Parallel Giant Slalom,8,83.20
+57,Park Jisung,Male,18-12-2022,Hochfügen,GER,Korea,European Cup,Parallel Giant Slalom,18,33.80
+58,Park Jisung,Male,18-12-2022,Hochfügen,GER,Korea,Qualification,Parallel Giant Slalom,18,
+59,Park Jisung,Male,17-12-2022,Hochfügen,GER,Korea,European Cup,Parallel Giant Slalom,11,43.20
+60,Park Jisung,Male,01-04-2022,Chiesa in Valmalenco,ITA,Korea,FIS Junior World Championships,Parallel Slalom,44,
+61,Park Jisung,Male,31-03-2022,Chiesa in Valmalenco,ITA,Korea,FIS Junior World Championships,Parallel Giant Slalom,18,31.20
+62,Park Jisung,Male,27-03-2022,Villach / Gerlitzen,AUT,Korea,National Championships,Parallel Slalom,17,40.60
+63,Park Jisung,Male,26-03-2022,Villach / Gerlitzen,AUT,Korea,National Championships,Parallel Giant Slalom,15,46.40
+64,Park Jisung,Male,20-03-2022,Senales - Schnals,ITA,Korea,Junior,Parallel Slalom,4,50.00
+65,Park Jisung,Male,19-03-2022,Senales - Schnals,ITA,Korea,Junior,Parallel Slalom,6,40.00
+66,Park Jisung,Male,17-03-2022,Rogla,SLO,Korea,European Cup,Parallel Giant Slalom,46,
+67,Park Jisung,Male,03-03-2022,Wellihilli Park,KOR,Korea,National Championships,Parallel Slalom,11,69.60
+68,Park Jisung,Male,02-03-2022,Wellihilli Park,KOR,Korea,National Championships,Parallel Giant Slalom,13,58.00
+69,Park Jisung,Male,22-02-2022,Wellihilli Park,KOR,Korea,FIS,Parallel Slalom,8,70.40
+70,Park Jisung,Male,21-02-2022,Wellihilli Park,KOR,Korea,FIS,Parallel Giant Slalom,DSQ,
+71,Park Jisung,Male,06-02-2022,Lenzerheide,SUI,Korea,European Cup,Parallel Slalom,22,32.40
+72,Park Jisung,Male,05-02-2022,Lenzerheide,SUI,Korea,European Cup,Parallel Slalom,21,36.00
+73,Park Jisung,Male,30-01-2022,Davos,SUI,Korea,European Cup,Parallel Slalom,22,32.40
+74,Park Jisung,Male,29-01-2022,Davos,SUI,Korea,European Cup,Parallel Slalom,18,46.80
+75,Park Jisung,Male,23-01-2022,Bukovel,UKR,Korea,European Cup,Parallel Giant Slalom,22,23.40
+76,Park Jisung,Male,22-01-2022,Bukovel,UKR,Korea,European Cup,Parallel Giant Slalom,25,15.60
+77,Park Jisung,Male,20-01-2022,Bukovel,UKR,Korea,National Championships,Parallel Slalom,41,
+78,Park Jisung,Male,19-01-2022,Bukovel,UKR,Korea,National Championships,Parallel Giant Slalom,31,6.72
+79,Park Jisung,Male,15-01-2022,Goetschen,GER,Korea,Junior,Parallel Slalom,2,56.00
+80,Park Jisung,Male,21-12-2021,Moninec,CZE,Korea,FIS,Parallel Slalom,12,44.00
+81,Park Jisung,Male,20-12-2021,Moninec,CZE,Korea,FIS,Parallel Slalom,13,40.00
+82,Park Jisung,Male,19-12-2021,Moninec,CZE,Korea,European Cup,Parallel Slalom,35,4.40
+83,Park Jisung,Male,18-12-2021,Moninec,CZE,Korea,European Cup,Parallel Slalom,41,3.64
+84,Park Jisung,Male,12-12-2021,Götschen,GER,Korea,European Cup,Parallel Slalom,24,15.40
+85,Park Jisung,Male,11-12-2021,Götschen,GER,Korea,European Cup,Parallel Slalom,48,
+86,Park Jisung,Male,26-02-2021,Pyeongchang,KOR,Korea,National Championships,Parallel Slalom,9,20.30
+87,Park Jisung,Male,25-02-2021,Pyeongchang,KOR,Korea,National Championships,Parallel Giant Slalom,10,18.20
+88,Park Jisung,Male,04-02-2021,Pyeongchang,KOR,Korea,FIS,Parallel Slalom,9,20.30
+89,Park Jisung,Male,03-02-2021,Pyeongchang,KOR,Korea,FIS,Parallel Giant Slalom,7,25.20
+90,Park Jisung,Male,29-01-2021,Pyeongchang,KOR,Korea,FIS,Parallel Slalom,8,22.40
+91,Park Jisung,Male,28-01-2021,Pyeongchang,KOR,Korea,FIS,Parallel Giant Slalom,9,20.30

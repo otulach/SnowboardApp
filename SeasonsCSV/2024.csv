@@ -249,14 +249,14 @@ Date,Location,Country,Category,Discipline,Gender
 2025-02-15,Seli,GRE,NC,Slalom,Female
 2025-02-15,Seli,GRE,CHI,Slalom,Male
 2025-02-15,Seli,GRE,CHI,Slalom,Female
-2025-02-15,Val,t,WC,Parallel Giant Slalom,Male
-2025-02-15,Val,t,WC,Parallel Giant Slalom,Female
-2025-02-15,Val,t,QUA,Parallel Giant Slalom,Male
 2025-02-15,Val,t,QUA,Parallel Giant Slalom,Female
-2025-02-16,Val,t,WC,Parallel Giant Slalom,Male
-2025-02-16,Val,t,WC,Parallel Giant Slalom,Female
-2025-02-16,Val,t,QUA,Parallel Giant Slalom,Male
+2025-02-15,Val,t,QUA,Parallel Giant Slalom,Male
+2025-02-15,Val,t,WC,Parallel Giant Slalom,Female
+2025-02-15,Val,t,WC,Parallel Giant Slalom,Male
 2025-02-16,Val,t,QUA,Parallel Giant Slalom,Female
+2025-02-16,Val,t,QUA,Parallel Giant Slalom,Male
+2025-02-16,Val,t,WC,Parallel Giant Slalom,Female
+2025-02-16,Val,t,WC,Parallel Giant Slalom,Male
 2025-02-15,Funes/villnoess,ITA,JUN,Parallel Giant Slalom,Male
 2025-02-15,Funes/villnoess,ITA,JUN,Parallel Giant Slalom,Female
 2025-02-15,Funes/villnoess,ITA,JRC,Parallel Giant Slalom,Male
@@ -307,13 +307,13 @@ Date,Location,Country,Category,Discipline,Gender
 2025-02-27,Akan,JPN,AC,Parallel Slalom,Female
 2025-02-28,Akan,JPN,AC,Parallel Giant Slalom,Male
 2025-02-28,Akan,JPN,AC,Parallel Giant Slalom,Female
-2025-03-01,Spindleruv,ly,FIS,Parallel Giant Slalom,Male
+2025-03-01,Spindleruv,ly,NC,Parallel Giant Slalom,Male
 2025-03-01,Spindleruv,ly,JUN,Parallel Giant Slalom,Male
-2025-03-01,Spindleruv,ly,FIS,Parallel Giant Slalom,Female
+2025-03-01,Spindleruv,ly,NC,Parallel Giant Slalom,Female
 2025-03-01,Spindleruv,ly,JUN,Parallel Giant Slalom,Female
-2025-03-02,Spindleruv,ly,FIS,Parallel Slalom,Male
+2025-03-02,Spindleruv,ly,NC,Parallel Slalom,Male
 2025-03-02,Spindleruv,ly,JUN,Parallel Slalom,Male
-2025-03-02,Spindleruv,ly,FIS,Parallel Slalom,Female
+2025-03-02,Spindleruv,ly,NC,Parallel Slalom,Female
 2025-03-02,Spindleruv,ly,JUN,Parallel Slalom,Female
 2025-03-01,Cedars,k,NC,Giant Slalom,Male
 2025-03-01,Cedars,k,NC,Giant Slalom,Female

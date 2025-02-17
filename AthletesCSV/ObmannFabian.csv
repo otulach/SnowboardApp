@@ -1,365 +1,369 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Obmann Fabian,Male,09-02-2025,Simonhoehe,AUT,Austria,National Championships,Parallel Slalom,DSQ,
-1,Obmann Fabian,Male,08-02-2025,Simonhoehe,AUT,Austria,National Championships,Parallel Giant Slalom,6,116.00
-2,Obmann Fabian,Male,25-01-2025,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,19,
-3,Obmann Fabian,Male,25-01-2025,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,19,120.00
-4,Obmann Fabian,Male,19-01-2025,Bansko,BUL,Austria,Qualification,Parallel Giant Slalom,30,
-5,Obmann Fabian,Male,19-01-2025,Bansko,BUL,Austria,World Cup,Parallel Giant Slalom,30,32.00
-6,Obmann Fabian,Male,18-01-2025,Bansko,BUL,Austria,Qualification,Parallel Giant Slalom,11,
-7,Obmann Fabian,Male,18-01-2025,Bansko,BUL,Austria,World Cup,Parallel Giant Slalom,11,240.00
-8,Obmann Fabian,Male,14-01-2025,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,DSQ,
-9,Obmann Fabian,Male,14-01-2025,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,DSQ,
-10,Obmann Fabian,Male,11-01-2025,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,9,
-11,Obmann Fabian,Male,11-01-2025,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,12,220.00
-12,Obmann Fabian,Male,21-12-2024,Davos,SUI,Austria,Qualification,Parallel Slalom,3,
-13,Obmann Fabian,Male,21-12-2024,Davos,SUI,Austria,World Cup,Parallel Slalom,3,600.00
-14,Obmann Fabian,Male,14-12-2024,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,15,
-15,Obmann Fabian,Male,14-12-2024,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,4,500.00
-16,Obmann Fabian,Male,12-12-2024,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,14,
-17,Obmann Fabian,Male,12-12-2024,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,14,180.00
-18,Obmann Fabian,Male,08-12-2024,Yanqing (NASC),CHN,Austria,World Cup,Parallel Slalom,11,240.00
-19,Obmann Fabian,Male,08-12-2024,Yanqing (NASC),CHN,Austria,Qualification,Parallel Slalom,9,
-20,Obmann Fabian,Male,07-12-2024,Yanqing (NASC),CHN,Austria,World Cup,Parallel Giant Slalom,8,320.00
-21,Obmann Fabian,Male,07-12-2024,Yanqing (NASC),CHN,Austria,Qualification,Parallel Giant Slalom,4,
-22,Obmann Fabian,Male,01-12-2024,Mylin,CHN,Austria,World Cup,Parallel Slalom,22,90.00
-23,Obmann Fabian,Male,01-12-2024,Mylin,CHN,Austria,Qualification,Parallel Slalom,22,
-24,Obmann Fabian,Male,30-11-2024,Mylin,CHN,Austria,World Cup,Parallel Giant Slalom,8,320.00
-25,Obmann Fabian,Male,30-11-2024,Mylin,CHN,Austria,Qualification,Parallel Giant Slalom,15,
-26,Obmann Fabian,Male,17-03-2024,St. Moritz,SUI,Austria,European Cup,Parallel Slalom,4,180.00
-27,Obmann Fabian,Male,16-03-2024,St. Moritz,SUI,Austria,European Cup,Parallel Giant Slalom,7,129.60
-28,Obmann Fabian,Male,10-03-2024,Winterberg,GER,Austria,World Cup,Parallel Slalom Team,8,
-29,Obmann Fabian,Male,09-03-2024,Winterberg,GER,Austria,Qualification,Parallel Slalom,4,
-30,Obmann Fabian,Male,09-03-2024,Winterberg,GER,Austria,World Cup,Parallel Slalom,9,290.00
-31,Obmann Fabian,Male,25-02-2024,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,5,
-32,Obmann Fabian,Male,25-02-2024,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,6,400.00
-33,Obmann Fabian,Male,24-02-2024,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,6,
-34,Obmann Fabian,Male,24-02-2024,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,4,500.00
-35,Obmann Fabian,Male,10-02-2024,Hochficht/Zwiesel,AUT,Austria,National Championships,Parallel Slalom,5,130.50
-36,Obmann Fabian,Male,09-02-2024,Hochficht/Zwiesel,AUT,Austria,National Championships,Parallel Giant Slalom,9,84.10
-37,Obmann Fabian,Male,28-01-2024,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom Team,14,
-38,Obmann Fabian,Male,27-01-2024,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,12,
-39,Obmann Fabian,Male,27-01-2024,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom,3,600.00
-40,Obmann Fabian,Male,25-01-2024,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,12,
-41,Obmann Fabian,Male,25-01-2024,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,13,200.00
-42,Obmann Fabian,Male,21-01-2024,Pamporovo,BUL,Austria,Qualification,Parallel Slalom,6,
-43,Obmann Fabian,Male,21-01-2024,Pamporovo,BUL,Austria,World Cup,Parallel Slalom,3,600.00
-44,Obmann Fabian,Male,20-01-2024,Pamporovo,BUL,Austria,Qualification,Parallel Slalom,5,
-45,Obmann Fabian,Male,20-01-2024,Pamporovo,BUL,Austria,World Cup,Parallel Slalom,10,260.00
-46,Obmann Fabian,Male,17-01-2024,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,13,
-47,Obmann Fabian,Male,16-01-2024,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,4,
-48,Obmann Fabian,Male,16-01-2024,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,3,600.00
-49,Obmann Fabian,Male,13-01-2024,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,5,
-50,Obmann Fabian,Male,13-01-2024,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,11,240.00
-51,Obmann Fabian,Male,23-12-2023,Davos,SUI,Austria,Qualification,Parallel Slalom,DSQ,
-52,Obmann Fabian,Male,23-12-2023,Davos ,SUI,Austria,World Cup,Parallel Slalom,DSQ,
-53,Obmann Fabian,Male,16-12-2023,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,5,
-54,Obmann Fabian,Male,16-12-2023,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,10,260.00
-55,Obmann Fabian,Male,14-12-2023,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,6,
-56,Obmann Fabian,Male,14-12-2023,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,10,260.00
-57,Obmann Fabian,Male,01-04-2023,Haus im Ennstal,AUT,Austria,National Championships,Parallel Giant Slalom,8,92.80
-58,Obmann Fabian,Male,19-03-2023,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom Team,1,
-59,Obmann Fabian,Male,18-03-2023,Berchtesgaden,GER,Austria,Qualification,Parallel Slalom,4,
-60,Obmann Fabian,Male,18-03-2023,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,1,1000.00
-61,Obmann Fabian,Male,15-03-2023,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,6,400.00
-62,Obmann Fabian,Male,15-03-2023,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,7,
-63,Obmann Fabian,Male,22-02-2023,Bakuriani,GEO,Austria,World Championships,Parallel Slalom Team,5,
-64,Obmann Fabian,Male,21-02-2023,Bakuriani,GEO,Austria,Qualification,Parallel Slalom,2,
-65,Obmann Fabian,Male,21-02-2023,Bakuriani,GEO,Austria,World Championships,Parallel Slalom,4,500.00
-66,Obmann Fabian,Male,19-02-2023,Bakuriani,GEO,Austria,Qualification,Parallel Giant Slalom,3,
-67,Obmann Fabian,Male,19-02-2023,Bakuriani,GEO,Austria,World Championships,Parallel Giant Slalom,9,290.00
-68,Obmann Fabian,Male,27-01-2023,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,3,
-69,Obmann Fabian,Male,27-01-2023,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,9,290.00
-70,Obmann Fabian,Male,26-01-2023,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,6,
-71,Obmann Fabian,Male,26-01-2023,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,10,260.00
-72,Obmann Fabian,Male,22-01-2023,Bansko,BUL,Austria,Qualification,Parallel Slalom,4,
-73,Obmann Fabian,Male,22-01-2023,Bansko,BUL,Austria,World Cup,Parallel Slalom,5,450.00
-74,Obmann Fabian,Male,21-01-2023,Bansko,BUL,Austria,Qualification,Parallel Slalom,8,
-75,Obmann Fabian,Male,21-01-2023,Bansko,BUL,Austria,World Cup,Parallel Slalom,2,800.00
-76,Obmann Fabian,Male,14-01-2023,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,19,
-77,Obmann Fabian,Male,14-01-2023,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,19,120.00
-78,Obmann Fabian,Male,10-01-2023,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,4,
-79,Obmann Fabian,Male,10-01-2023,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,4,500.00
-80,Obmann Fabian,Male,17-12-2022,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,6,
-81,Obmann Fabian,Male,17-12-2022,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,7,360.00
-82,Obmann Fabian,Male,15-12-2022,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,9,
-83,Obmann Fabian,Male,15-12-2022,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,5,450.00
-84,Obmann Fabian,Male,11-12-2022,Winterberg,GER,Austria,World Cup,Parallel Slalom,12,220.00
-85,Obmann Fabian,Male,10-12-2022,Winterberg,GER,Austria,Qualification,Parallel Slalom,10,
-86,Obmann Fabian,Male,27-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,5,130.50
-87,Obmann Fabian,Male,26-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Giant Slalom,2,232.00
-88,Obmann Fabian,Male,19-03-2022,Berchtesgaden,GER,Austria,Qualification,Parallel Slalom,21,
-89,Obmann Fabian,Male,19-03-2022,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,21,100.00
-90,Obmann Fabian,Male,16-03-2022,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,8,
-91,Obmann Fabian,Male,16-03-2022,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,6,400.00
-92,Obmann Fabian,Male,12-03-2022,Piancavallo,ITA,Austria,Qualification,Parallel Slalom,DNF,
-93,Obmann Fabian,Male,12-03-2022,Piancavallo,ITA,Austria,World Cup,Parallel Slalom,DNF,
-94,Obmann Fabian,Male,06-03-2022,Lachtal,AUT,Austria,European Cup,Parallel Giant Slalom,1,360.00
-95,Obmann Fabian,Male,05-03-2022,Lachtal,AUT,Austria,European Cup,Parallel Giant Slalom,4,180.00
-96,Obmann Fabian,Male,20-02-2022,Bakuriani,GEO,Austria,European Cup,Parallel Giant Slalom,11,86.40
-97,Obmann Fabian,Male,19-02-2022,Bakuriani,GEO,Austria,European Cup,Parallel Giant Slalom,4,180.00
-98,Obmann Fabian,Male,30-01-2022,Davos,SUI,Austria,European Cup,Parallel Slalom,3,216.00
-99,Obmann Fabian,Male,29-01-2022,Davos,SUI,Austria,European Cup,Parallel Slalom,3,216.00
-100,Obmann Fabian,Male,14-01-2022,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom,25,60.00
-101,Obmann Fabian,Male,14-01-2022,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,25,
-102,Obmann Fabian,Male,11-01-2022,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,6,
-103,Obmann Fabian,Male,11-01-2022,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,10,260.00
-104,Obmann Fabian,Male,08-01-2022,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,29,
-105,Obmann Fabian,Male,08-01-2022,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,29,36.00
-106,Obmann Fabian,Male,18-12-2021,Cortina d Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,22,
-107,Obmann Fabian,Male,18-12-2021,Cortina d Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,22,90.00
-108,Obmann Fabian,Male,16-12-2021,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,22,
-109,Obmann Fabian,Male,16-12-2021,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,22,90.00
-110,Obmann Fabian,Male,12-12-2021,Bannoye,RUS,Austria,Qualification,Parallel Slalom,6,
-111,Obmann Fabian,Male,12-12-2021,Bannoye,RUS,Austria,World Cup,Parallel Slalom,4,500.00
-112,Obmann Fabian,Male,11-12-2021,Bannoye,RUS,Austria,Qualification,Parallel Giant Slalom,32,
-113,Obmann Fabian,Male,11-12-2021,Bannoye,RUS,Austria,World Cup,Parallel Giant Slalom,32,26.00
-114,Obmann Fabian,Male,20-03-2021,Berchtesgaden,GER,Austria,Qualification,Parallel Slalom,18,
-115,Obmann Fabian,Male,20-03-2021,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,18,130.00
-116,Obmann Fabian,Male,13-03-2021,Davos Rinerhorn,SUI,Austria,European Cup,Parallel Giant Slalom,7,129.60
-117,Obmann Fabian,Male,06-03-2021,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,23,
-118,Obmann Fabian,Male,06-03-2021,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,23,80.00
-119,Obmann Fabian,Male,28-02-2021,Funes/Villnoesses,ITA,Austria,European Cup,Parallel Giant Slalom,2,208.00
-120,Obmann Fabian,Male,27-02-2021,Funes/Villnoesses,ITA,Austria,European Cup,Parallel Giant Slalom,2,256.00
-121,Obmann Fabian,Male,21-02-2021,Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,7,104.40
-122,Obmann Fabian,Male,20-02-2021,Gerlitzen,AUT,Austria,National Championships,Parallel Giant Slalom,15,46.40
-123,Obmann Fabian,Male,07-02-2021,Bannoye,RUS,Austria,Qualification,Parallel Slalom,8,
-124,Obmann Fabian,Male,07-02-2021,Bannoye,RUS,Austria,World Cup,Parallel Slalom,8,320.00
-125,Obmann Fabian,Male,06-02-2021,Baonoye,RUS,Austria,Qualification,Parallel Giant Slalom,36,
-126,Obmann Fabian,Male,06-02-2021,Bannoye,RUS,Austria,World Cup,Parallel Giant Slalom,36,19.70
-127,Obmann Fabian,Male,30-01-2021,Moscow,RUS,Austria,Qualification,Parallel Slalom,24,
-128,Obmann Fabian,Male,30-01-2021,Moscow,RUS,Austria,World Cup,Parallel Slalom,24,70.00
-129,Obmann Fabian,Male,17-01-2021,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,9,104.40
-130,Obmann Fabian,Male,16-01-2021,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,5,162.00
-131,Obmann Fabian,Male,12-01-2021,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,27,
-132,Obmann Fabian,Male,12-01-2021,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,27,45.00
-133,Obmann Fabian,Male,09-01-2021,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,20,
-134,Obmann Fabian,Male,09-01-2021,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,20,110.00
-135,Obmann Fabian,Male,17-12-2020,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,18,
-136,Obmann Fabian,Male,17-12-2020,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,18,130.00
-137,Obmann Fabian,Male,12-12-2020,Cortina d Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,DNF,
-138,Obmann Fabian,Male,12-12-2020,Cortina d Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,DNF,
-139,Obmann Fabian,Male,08-03-2020,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,1,360.00
-140,Obmann Fabian,Male,07-03-2020,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,2,288.00
-141,Obmann Fabian,Male,01-03-2020,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,33,24.00
-142,Obmann Fabian,Male,01-03-2020,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,33,
-143,Obmann Fabian,Male,29-02-2020,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,36,19.70
-144,Obmann Fabian,Male,29-02-2020,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,36,
-145,Obmann Fabian,Male,22-02-2020,Pyeongchang,KOR,Austria,World Cup,Parallel Giant Slalom,14,180.00
-146,Obmann Fabian,Male,22-02-2020,Pyeongchang,KOR,Austria,Qualification,Parallel Giant Slalom,14,
-147,Obmann Fabian,Male,16-02-2020,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,5,162.00
-148,Obmann Fabian,Male,15-02-2020,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,12,79.20
-149,Obmann Fabian,Male,09-02-2020,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,6,144.00
-150,Obmann Fabian,Male,08-02-2020,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,4,180.00
-151,Obmann Fabian,Male,26-01-2020,Piancavallo,ITA,Austria,World Cup,Parallel Slalom Team,20,
-152,Obmann Fabian,Male,25-01-2020,Piancavallo,ITA,Austria,World Cup,Parallel Slalom,31,28.00
-153,Obmann Fabian,Male,25-01-2020,Piancavallo,ITA,Austria,Qualification,Parallel Slalom,31,
-154,Obmann Fabian,Male,18-01-2020,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,33,24.00
-155,Obmann Fabian,Male,18-01-2020,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,33,
-156,Obmann Fabian,Male,14-01-2020,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,22,90.00
-157,Obmann Fabian,Male,14-01-2020,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,22,
-158,Obmann Fabian,Male,11-01-2020,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,DSQ,
-159,Obmann Fabian,Male,11-01-2020,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,DSQ,
-160,Obmann Fabian,Male,22-12-2019,Hochfügen,GER,Austria,European Cup,Parallel Giant Slalom,11,86.40
-161,Obmann Fabian,Male,21-12-2019,Hochfügen,GER,Austria,European Cup,Parallel Giant Slalom,10,93.60
-162,Obmann Fabian,Male,19-12-2019,Carezza,ITA,Austria,Open,Parallel Giant Slalom,11,240.00
-163,Obmann Fabian,Male,14-12-2019,Cortina d Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,24,70.00
-164,Obmann Fabian,Male,14-12-2019,Cortina d Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,24,
-165,Obmann Fabian,Male,08-12-2019,Bannoye,RUS,Austria,World Cup,Parallel Giant Slalom,13,200.00
-166,Obmann Fabian,Male,08-12-2019,Bannoye,RUS,Austria,Qualification,Parallel Giant Slalom,9,
-167,Obmann Fabian,Male,07-12-2019,Bannoye,RUS,Austria,World Cup,Parallel Slalom,20,110.00
-168,Obmann Fabian,Male,07-12-2019,Bannoye,RUS,Austria,Qualification,Parallel Slalom,20,
-169,Obmann Fabian,Male,07-04-2019,Racines,ITA,Austria,European Cup,Parallel Slalom,2,288.00
-170,Obmann Fabian,Male,06-04-2019,Racines,ITA,Austria,European Cup,Parallel Slalom,3,216.00
-171,Obmann Fabian,Male,31-03-2019,Radstadt,AUT,Austria,National Championships,Parallel Giant Slalom,3,174.00
-172,Obmann Fabian,Male,30-03-2019,Radstadt,AUT,Austria,National Championships,Parallel Slalom,6,116.00
-173,Obmann Fabian,Male,23-03-2019,Winterberg,GER,Austria,World Cup,Parallel Slalom,23,80.00
-174,Obmann Fabian,Male,23-03-2019,Winterberg,GER,Austria,Qualification,Parallel Slalom,23,
-175,Obmann Fabian,Male,17-03-2019,Rogla,SLO,Austria,European Cup,Parallel Giant Slalom,12,79.20
-176,Obmann Fabian,Male,16-03-2019,Rogla,SLO,Austria,European Cup,Parallel Giant Slalom,12,79.20
-177,Obmann Fabian,Male,09-03-2019,Scuol,SUI,Austria,World Cup,Parallel GS,DSQ,
-178,Obmann Fabian,Male,09-03-2019,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,DSQ,
-179,Obmann Fabian,Male,03-03-2019,Davos,SUI,Austria,European Cup,Parallel Slalom,2,288.00
-180,Obmann Fabian,Male,02-03-2019,Davos,SUI,Austria,European Cup,Parallel Giant Slalom,16,54.00
-181,Obmann Fabian,Male,17-02-2019,Simonhoehe,AUT,Austria,FIS,Parallel GS,1,160.00
-182,Obmann Fabian,Male,16-02-2019,Simonhoehe,AUT,Austria,FIS,Parallel GS,2,128.00
-183,Obmann Fabian,Male,10-02-2019,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,1,320.00
-184,Obmann Fabian,Male,09-02-2019,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,1,320.00
-185,Obmann Fabian,Male,27-01-2019,Lachtal,AUT,Austria,European Cup,Parallel GS,6,72.00
-186,Obmann Fabian,Male,26-01-2019,Lachtal,AUT,Austria,European Cup,Parallel GS,2,144.00
-187,Obmann Fabian,Male,19-01-2019,Rogla,SLO,Austria,World Cup,Parallel GS,44,17.30
-188,Obmann Fabian,Male,19-01-2019,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,44,
-189,Obmann Fabian,Male,11-01-2019,Bad Gastein,AUT,Austria,European Cup,Parallel Slalom,6,144.00
-190,Obmann Fabian,Male,10-01-2019,Bad Gastein,AUT,Austria,European Cup,Parallel Slalom,6,144.00
-191,Obmann Fabian,Male,08-01-2019,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,18,130.00
-192,Obmann Fabian,Male,08-01-2019,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,18,
-193,Obmann Fabian,Male,06-01-2019,Simonhöhe,AUT,Austria,FIS,Parallel Slalom,2,176.00
-194,Obmann Fabian,Male,05-01-2019,Simonhöhe,AUT,Austria,FIS,Parallel Slalom,3,132.00
-195,Obmann Fabian,Male,23-12-2018,Hochfügen,GER,Austria,European Cup,Parallel Giant Slalom,2,288.00
-196,Obmann Fabian,Male,22-12-2018,Hochfügen,GER,Austria,European Cup,Parallel Giant Slalom,8,115.20
-197,Obmann Fabian,Male,15-12-2018,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel GS,14,180.00
-198,Obmann Fabian,Male,15-12-2018,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,13,
-199,Obmann Fabian,Male,13-12-2018,Carezza,ITA,Austria,World Cup,Parallel GS,25,60.00
-200,Obmann Fabian,Male,13-12-2018,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,25,
-201,Obmann Fabian,Male,02-12-2018,Pfelders,ITA,Austria,FIS,Parallel Giant Slalom,9,63.80
-202,Obmann Fabian,Male,01-12-2018,Pfelders,ITA,Austria,FIS,Parallel Giant Slalom,4,110.00
-203,Obmann Fabian,Male,08-04-2018,Racines,ITA,Austria,European Cup,Parallel Slalom,8,115.20
-204,Obmann Fabian,Male,07-04-2018,Racines,ITA,Austria,European Cup,Parallel Slalom,11,86.40
-205,Obmann Fabian,Male,25-03-2018,Davos,SUI,Austria,European Cup,Parallel Slalom,7,129.60
-206,Obmann Fabian,Male,24-03-2018,Davos,SUI,Austria,European Cup,Parallel GS,18,46.80
-207,Obmann Fabian,Male,21-03-2018,Rogla,SLO,Austria,European Cup,Parallel GS,34,7.92
-208,Obmann Fabian,Male,20-03-2018,Rogla,SLO,Austria,European Cup,Parallel GS,28,14.40
-209,Obmann Fabian,Male,17-03-2018,Winterberg,GER,Austria,World Cup,Parallel Slalom,43,17.60
-210,Obmann Fabian,Male,17-03-2018,Winterberg,GER,Austria,Qualification,Parallel Slalom,43,
-211,Obmann Fabian,Male,11-03-2018,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,5,108.00
-212,Obmann Fabian,Male,10-03-2018,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,4,120.00
-213,Obmann Fabian,Male,25-02-2018,Funes/Villnoess,ITA,Austria,FIS,Parallel GS,DSQ1,
-214,Obmann Fabian,Male,24-02-2018,Funes/Villnoess,ITA,Austria,FIS,Parallel GS,3,120.00
-215,Obmann Fabian,Male,18-02-2018,Simonhoehe,AUT,Austria,FIS,Parallel GS,5,99.00
-216,Obmann Fabian,Male,17-02-2018,Simonhoehe,AUT,Austria,FIS,Parallel GS,6,88.00
-217,Obmann Fabian,Male,11-02-2018,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,3,192.00
-218,Obmann Fabian,Male,10-02-2018,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,DNF1,
-219,Obmann Fabian,Male,04-02-2018,Gerlitzen,AUT,Austria,National Championships,Parallel GS,11,69.60
-220,Obmann Fabian,Male,03-02-2018,Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,6,116.00
-221,Obmann Fabian,Male,21-01-2018,Lachtal,AUT,Austria,European Cup,Parallel GS,38,3.82
-222,Obmann Fabian,Male,20-01-2018,Lachtal,AUT,Austria,European Cup,Parallel GS,6,80.00
-223,Obmann Fabian,Male,12-01-2018,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,26,50.00
-224,Obmann Fabian,Male,12-01-2018,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,26,
-225,Obmann Fabian,Male,05-01-2018,Lackenhof,AUT,Austria,World Cup,Parallel GS,35,20.00
-226,Obmann Fabian,Male,05-01-2018,Lackenhof,AUT,Austria,Qualification,Parallel GS,35,
-227,Obmann Fabian,Male,16-12-2017,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Slalom,42,17.90
-228,Obmann Fabian,Male,16-12-2017,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Slalom,42,
-229,Obmann Fabian,Male,15-12-2017,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel GS,43,17.60
-230,Obmann Fabian,Male,15-12-2017,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel GS,43,
-231,Obmann Fabian,Male,14-12-2017,Carezza,ITA,Austria,World Cup,Parallel GS,31,28.00
-232,Obmann Fabian,Male,14-12-2017,Carezza,ITA,Austria,Qualification,Parallel GS,31,
-233,Obmann Fabian,Male,10-12-2017,Hochfügen,GER,Austria,European Cup,Parallel GS,38,6.88
-234,Obmann Fabian,Male,09-12-2017,Hochfügen,GER,Austria,European Cup,Parallel GS,29,12.96
-235,Obmann Fabian,Male,02-12-2017,Pfelders,ITA,Austria,FIS,Parallel GS,10,57.20
-236,Obmann Fabian,Male,01-12-2017,Pfelders,ITA,Austria,FIS,Parallel GS,8,70.40
-237,Obmann Fabian,Male,02-04-2017,Scuol,SUI,Austria,European Cup,Parallel Slalom,6,144.00
-238,Obmann Fabian,Male,01-04-2017,Scuol,SUI,Austria,European Cup,Parallel GS,24,25.20
-239,Obmann Fabian,Male,29-03-2017,Rogla,SLO,Austria,European Cup,Parallel Slalom,15,57.60
-240,Obmann Fabian,Male,28-03-2017,Rogla,SLO,Austria,European Cup,Parallel GS,27,16.20
-241,Obmann Fabian,Male,26-03-2017,Racines,ITA,Austria,European Cup,Parallel Slalom,12,79.20
-242,Obmann Fabian,Male,25-03-2017,Racines,ITA,Austria,European Cup,Parallel Slalom,9,104.40
-243,Obmann Fabian,Male,18-03-2017,Radstadt,AUT,Austria,European Cup,Parallel Slalom,3,132.00
-244,Obmann Fabian,Male,17-03-2017,Radstadt,AUT,Austria,European Cup,Parallel Slalom,4,110.00
-245,Obmann Fabian,Male,12-03-2017,Tauplitz,AUT,Austria,FIS,Parallel Slalom,8,70.40
-246,Obmann Fabian,Male,11-03-2017,Tauplitz,AUT,Austria,FIS,Parallel Slalom,2,176.00
-247,Obmann Fabian,Male,26-02-2017,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,18,46.80
-248,Obmann Fabian,Male,25-02-2017,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,10,93.60
-249,Obmann Fabian,Male,12-02-2017,Gosau,AUT,Austria,FIS,Parallel Slalom,3,120.00
-250,Obmann Fabian,Male,11-02-2017,Gosau,AUT,Austria,FIS,Parallel Slalom,2,160.00
-251,Obmann Fabian,Male,29-01-2017,Falkert,AUT,Austria,FIS,Slalom,2,120.00
-252,Obmann Fabian,Male,28-01-2017,Falkert,AUT,Austria,FIS,Slalom,2,120.00
-253,Obmann Fabian,Male,21-01-2017,Livigno,ITA,Austria,European Cup,Parallel GS,22,32.40
-254,Obmann Fabian,Male,20-01-2017,Livigno,ITA,Austria,European Cup,Parallel GS,22,32.40
-255,Obmann Fabian,Male,15-01-2017,Hochficht,AUT,Austria,National Championships,Parallel Slalom,10,75.40
-256,Obmann Fabian,Male,14-01-2017,Hochficht,AUT,Austria,National Championships,Parallel GS,18,37.70
-257,Obmann Fabian,Male,10-01-2017,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,36,19.70
-258,Obmann Fabian,Male,08-01-2017,Gerlitzen,AUT,Austria,European Cup,Parallel GS,16,36.00
-259,Obmann Fabian,Male,17-12-2016,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Slalom,39,18.80
-260,Obmann Fabian,Male,11-12-2016,Hochfügen,GER,Austria,European Cup,Parallel GS,39,6.77
-261,Obmann Fabian,Male,10-12-2016,Hochfügen,GER,Austria,European Cup,Parallel GS,36,7.09
-262,Obmann Fabian,Male,04-11-2016,Landgraaf,NED,Austria,European Cup,Parallel Slalom,13,72.00
-263,Obmann Fabian,Male,03-11-2016,Landgraaf,NED,Austria,European Cup,Parallel Slalom,22,32.40
-264,Obmann Fabian,Male,03-04-2016,Rogla,SLO,Austria,FIS Junior World Championships,Parallel Slalom,10,93.60
-265,Obmann Fabian,Male,02-04-2016,Rogla,SLO,Austria,FIS Junior World Championships,Parallel GS,15,57.60
-266,Obmann Fabian,Male,27-03-2016,Racines,ITA,Austria,European Cup,Parallel Slalom,22,40.50
-267,Obmann Fabian,Male,26-03-2016,Racines,ITA,Austria,European Cup,Parallel Slalom,24,35.00
-268,Obmann Fabian,Male,24-03-2016,Rogla,SLO,Austria,European Cup,Parallel Slalom,29,18.00
-269,Obmann Fabian,Male,23-03-2016,Rogla,SLO,Austria,European Cup,Parallel GS,44,8.65
-270,Obmann Fabian,Male,20-03-2016,Gerlitzen,AUT,Austria,European Cup,Parallel GS,34,11.00
-271,Obmann Fabian,Male,19-03-2016,Gerlitzen,AUT,Austria,European Cup,Parallel GS,50,7.75
-272,Obmann Fabian,Male,06-03-2016,Tauplitz,AUT,Austria,FIS,Parallel Slalom,7,79.20
-273,Obmann Fabian,Male,05-03-2016,Tauplitz,AUT,Austria,FIS,Parallel Slalom,7,79.20
-274,Obmann Fabian,Male,28-02-2016,Falkert,AUT,Austria,FIS,Giant Slalom,6,88.00
-275,Obmann Fabian,Male,27-02-2016,Falkert,AUT,Austria,FIS,Giant Slalom,2,176.00
-276,Obmann Fabian,Male,21-02-2016,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,DSQ1,
-277,Obmann Fabian,Male,20-02-2016,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,46,8.35
-278,Obmann Fabian,Male,07-02-2016,Lachtal,AUT,Austria,FIS,Parallel Slalom,23,20.80
-279,Obmann Fabian,Male,06-02-2016,Lachtal,AUT,Austria,National Championships,Parallel Slalom,31,10.08
-280,Obmann Fabian,Male,30-01-2016,Stara Planina,SRB,Austria,European Cup,Parallel GS,12,52.80
-281,Obmann Fabian,Male,29-01-2016,Stara Planina,SRB,Austria,European Cup,Parallel Slalom,12,52.80
-282,Obmann Fabian,Male,17-01-2016,Kreischberg,AUT,Austria,FIS,Parallel GS,17,36.40
-283,Obmann Fabian,Male,16-01-2016,Kreischberg,AUT,Austria,FIS,Parallel GS,DNF1,
-284,Obmann Fabian,Male,08-01-2016,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,47,16.40
-285,Obmann Fabian,Male,06-12-2015,Hochfuegen,GER,Austria,European Cup,Parallel GS,56,6.85
-286,Obmann Fabian,Male,05-12-2015,Hochfuegen,GER,Austria,European Cup,Parallel GS,38,9.55
-287,Obmann Fabian,Male,16-10-2015,Landgraaf,NED,Austria,European Cup,Parallel Slalom,57,6.70
-288,Obmann Fabian,Male,15-10-2015,Landgraaf,NED,Austria,European Cup,Parallel Slalom,25,30.00
-289,Obmann Fabian,Male,22-03-2015,Hochficht,AUT,Austria,National Championships,Giant Slalom,9,104.40
-290,Obmann Fabian,Male,21-03-2015,Hochficht,AUT,Austria,National Championships,Parallel Slalom,7,129.60
-291,Obmann Fabian,Male,18-03-2015,Rogla,SLO,Austria,European Cup,Parallel Slalom,29,18.00
-292,Obmann Fabian,Male,17-03-2015,Rogla,SLO,Austria,European Cup,Parallel GS,15,80.00
-293,Obmann Fabian,Male,11-03-2015,Yabuli,CHN,Austria,FIS Junior World Championships,Parallel Slalom,6,144.00
-294,Obmann Fabian,Male,10-03-2015,Yabuli,CHN,Austria,FIS Junior World Championships,Parallel GS,5,162.00
-295,Obmann Fabian,Male,25-02-2015,Marianske Lazne,CZE,Austria,European Cup,Parallel Slalom,9,84.10
-296,Obmann Fabian,Male,24-02-2015,Marianske Lazne,CZE,Austria,European Cup,Parallel Slalom,16,43.50
-297,Obmann Fabian,Male,22-02-2015,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,25,24.00
-298,Obmann Fabian,Male,21-02-2015,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,28,20.00
-299,Obmann Fabian,Male,15-02-2015,Kayseri,TUR,Austria,European Cup,Parallel Slalom,11,69.60
-300,Obmann Fabian,Male,14-02-2015,Kayseri,TUR,Austria,European Cup,Parallel Slalom,22,26.10
-301,Obmann Fabian,Male,07-02-2015,Pfelders,ITA,Austria,FIS,Giant Slalom,6,80.00
-302,Obmann Fabian,Male,06-02-2015,Pfelders,ITA,Austria,FIS,Slalom,8,70.40
-303,Obmann Fabian,Male,31-01-2015,Livigno,ITA,Austria,European Cup,Parallel GS,13,52.00
-304,Obmann Fabian,Male,30-01-2015,Livigno,ITA,Austria,European Cup,Parallel GS,19,31.20
-305,Obmann Fabian,Male,24-01-2015,Samnaun,SUI,Austria,FIS,Parallel Slalom,11,62.40
-306,Obmann Fabian,Male,23-01-2015,Samnaun,SUI,Austria,FIS,Parallel Slalom,25,14.40
-307,Obmann Fabian,Male,09-01-2015,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,39,18.80
-308,Obmann Fabian,Male,06-01-2015,Dachstein West / Gosau,AUT,Austria,FIS,Parallel Slalom,21,26.00
-309,Obmann Fabian,Male,05-01-2015,Dachstein West / Gosau,AUT,Austria,FIS,Parallel Slalom,22,23.40
-310,Obmann Fabian,Male,25-03-2014,Chiesa in Valmalenco,ITA,Austria,FIS Junior World Championships,Parallel Slalom,4,180.00
-311,Obmann Fabian,Male,24-03-2014,Chiesa in Valmalenco,ITA,Austria,FIS Junior World Championships,Parallel GS,13,72.00
-312,Obmann Fabian,Male,16-03-2014,Ratsching/Racines,ITA,Austria,European Cup,Parallel Slalom,147,
-313,Obmann Fabian,Male,15-03-2014,Ratsching/Racines,ITA,Austria,European Cup,Parallel Slalom,21,50.00
-314,Obmann Fabian,Male,09-03-2014,Tauplitz,AUT,Austria,FIS,Parallel Slalom,19,31.20
-315,Obmann Fabian,Male,08-03-2014,Tauplitz,AUT,Austria,FIS,Parallel Slalom,15,41.60
-316,Obmann Fabian,Male,05-03-2014,Rogla,SLO,Austria,European Cup,Parallel Slalom,27,22.50
-317,Obmann Fabian,Male,04-03-2014,Rogla,SLO,Austria,European Cup,Parallel GS,26,25.00
-318,Obmann Fabian,Male,01-03-2014,Gerlitzen,AUT,Austria,European Cup,Parallel GS,26,25.00
-319,Obmann Fabian,Male,22-02-2014,Gosau,AUT,Austria,FIS,Slalom,12,57.20
-320,Obmann Fabian,Male,22-02-2014,Gosau,AUT,Austria,FIS,Slalom,5,117.00
-321,Obmann Fabian,Male,16-02-2014,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,44,0.00
-322,Obmann Fabian,Male,15-02-2014,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,21,45.00
-323,Obmann Fabian,Male,26-01-2014,Hochficht,AUT,Austria,FIS,Giant Slalom,4,120.00
-324,Obmann Fabian,Male,25-01-2014,Hochficht,AUT,Austria,FIS,Giant Slalom,19,28.80
-325,Obmann Fabian,Male,22-12-2013,Schönberg-Lachtal,AUT,Austria,European Cup,Parallel Slalom,61,
-326,Obmann Fabian,Male,21-12-2013,Schönberg-Lachtal,AUT,Austria,European Cup,Parallel Slalom,67,0.00
-327,Obmann Fabian,Male,15-12-2013,Samnaun,SUI,Austria,FIS,Parallel Slalom,84,
-328,Obmann Fabian,Male,14-12-2013,Samnaun,SUI,Austria,FIS,Parallel Slalom,11,52.80
-329,Obmann Fabian,Male,08-12-2013,Hochfügen,AUT,Austria,European Cup,Parallel GS,53,7.30
-330,Obmann Fabian,Male,07-12-2013,Hochfügen,AUT,Austria,European Cup,Parallel GS,56,6.85
-331,Obmann Fabian,Male,08-11-2013,Landgraaf,NED,Austria,FIS,Parallel Slalom,32,6.76
-332,Obmann Fabian,Male,07-11-2013,Landgraaf,NED,Austria,FIS,Parallel Slalom,29,9.36
-333,Obmann Fabian,Male,23-03-2013,Götschen,GER,Austria,National Championships,Parallel GS,19,43.20
-334,Obmann Fabian,Male,22-03-2013,Götschen,GER,Austria,National Championships,Parallel Slalom,31,
-335,Obmann Fabian,Male,03-03-2013,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,33,6.24
-336,Obmann Fabian,Male,02-03-2013,Gerlitzen,AUT,Austria,European Cup,Parallel Slalom,54,
-337,Obmann Fabian,Male,21-02-2013,Predeal,ROU,Austria,European Youth Olympic Festival,Parallel GS,7,18.00
-338,Obmann Fabian,Male,10-02-2013,Marianske Lazne,CZE,Austria,European Cup,Parallel Slalom,36,6.30
-339,Obmann Fabian,Male,09-02-2013,Marianske Lazne,CZE,Austria,European Cup,Parallel Slalom,DSQ,
-340,Obmann Fabian,Male,02-02-2013,Lizzola-Valbondione,ITA,Austria,FIS,Parallel Slalom,17,36.40
-341,Obmann Fabian,Male,20-01-2013,Vratna - Paseky,SVK,Austria,European Cup,Parallel GS,45,5.44
-342,Obmann Fabian,Male,19-01-2013,Vratna - Paseky,SVK,Austria,European Cup,Parallel GS,33,7.68
-343,Obmann Fabian,Male,23-12-2012,Radstadt,AUT,Austria,FIS,Giant Slalom,24,18.20
-344,Obmann Fabian,Male,22-12-2012,Radstadt,AUT,Austria,FIS,Giant Slalom,13,52.00
-345,Obmann Fabian,Male,16-12-2012,Racines/Ratschings,ITA,Austria,European Cup,Parallel Slalom,DNF,
-346,Obmann Fabian,Male,15-12-2012,Racines/Ratschings,ITA,Austria,European Cup,Parallel Slalom,62,4.76
-347,Obmann Fabian,Male,09-12-2012,Lachtal,AUT,Austria,European Cup,Parallel GS,73,4.30
-348,Obmann Fabian,Male,08-12-2012,Lachtal,AUT,Austria,European Cup,Parallel GS,77,3.70
-349,Obmann Fabian,Male,01-04-2012,St. Gallenkirch,AUT,Austria,National Championships,Parallel Slalom,23,28.80
-350,Obmann Fabian,Male,31-03-2012,St. Gallenkirch,AUT,Austria,National Championships,Parallel GS,24,25.20
-351,Obmann Fabian,Male,20-03-2012,Rogla,SLO,Austria,European Cup,Parallel Slalom,52,6.70
-352,Obmann Fabian,Male,19-03-2012,Rogla,SLO,Austria,European Cup,Parallel GS,46,6.68
-353,Obmann Fabian,Male,18-03-2012,Tauplitz,AUT,Austria,FIS,Parallel Slalom,36,3.55
-354,Obmann Fabian,Male,17-03-2012,Tauplitz,AUT,Austria,FIS,Parallel Slalom,49,3.79
-355,Obmann Fabian,Male,10-03-2012,Bad Gastein,AUT,Austria,European Cup,Parallel GS,45,4.93
-356,Obmann Fabian,Male,04-03-2012,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,43,3.87
-357,Obmann Fabian,Male,03-03-2012,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,32,6.24
-358,Obmann Fabian,Male,04-02-2012,Goetschen,GER,Austria,National Championships,Parallel Slalom,25,14.40
-359,Obmann Fabian,Male,03-02-2012,Goetschen,GER,Austria,National Championships,Parallel GS,18,31.20
-360,Obmann Fabian,Male,29-01-2012,Kasberg,AUT,Austria,FIS,Parallel Slalom,7,25.20
-361,Obmann Fabian,Male,28-01-2012,Kasberg,AUT,Austria,FIS,Parallel Slalom,16,7.50
-362,Obmann Fabian,Male,08-01-2012,Kreischberg,AUT,Austria,FIS,Parallel GS,103,
-363,Obmann Fabian,Male,07-01-2012,Kreischberg,AUT,Austria,FIS,Parallel GS,55,3.64
+0,Obmann Fabian,Male,16-02-2025,Val St. Come,CAN,Austria,Qualification,Parallel Giant Slalom,15,
+1,Obmann Fabian,Male,16-02-2025,Val St. Come,CAN,Austria,World Cup,Parallel Giant Slalom,15,
+2,Obmann Fabian,Male,15-02-2025,Val St. Come,CAN,Austria,Qualification,Parallel Giant Slalom,16,
+3,Obmann Fabian,Male,15-02-2025,Val St. Come,CAN,Austria,World Cup,Parallel Giant Slalom,16,
+4,Obmann Fabian,Male,09-02-2025,Simonhoehe,AUT,Austria,National Championships,Parallel Slalom,DSQ,
+5,Obmann Fabian,Male,08-02-2025,Simonhoehe,AUT,Austria,National Championships,Parallel Giant Slalom,6,116.00
+6,Obmann Fabian,Male,25-01-2025,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,19,
+7,Obmann Fabian,Male,25-01-2025,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,19,120.00
+8,Obmann Fabian,Male,19-01-2025,Bansko,BUL,Austria,Qualification,Parallel Giant Slalom,30,
+9,Obmann Fabian,Male,19-01-2025,Bansko,BUL,Austria,World Cup,Parallel Giant Slalom,30,32.00
+10,Obmann Fabian,Male,18-01-2025,Bansko,BUL,Austria,Qualification,Parallel Giant Slalom,11,
+11,Obmann Fabian,Male,18-01-2025,Bansko,BUL,Austria,World Cup,Parallel Giant Slalom,11,240.00
+12,Obmann Fabian,Male,14-01-2025,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,DSQ,
+13,Obmann Fabian,Male,14-01-2025,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,DSQ,
+14,Obmann Fabian,Male,11-01-2025,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,9,
+15,Obmann Fabian,Male,11-01-2025,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,12,220.00
+16,Obmann Fabian,Male,21-12-2024,Davos,SUI,Austria,Qualification,Parallel Slalom,3,
+17,Obmann Fabian,Male,21-12-2024,Davos,SUI,Austria,World Cup,Parallel Slalom,3,600.00
+18,Obmann Fabian,Male,14-12-2024,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,15,
+19,Obmann Fabian,Male,14-12-2024,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,4,500.00
+20,Obmann Fabian,Male,12-12-2024,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,14,
+21,Obmann Fabian,Male,12-12-2024,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,14,180.00
+22,Obmann Fabian,Male,08-12-2024,Yanqing (NASC),CHN,Austria,World Cup,Parallel Slalom,11,240.00
+23,Obmann Fabian,Male,08-12-2024,Yanqing (NASC),CHN,Austria,Qualification,Parallel Slalom,9,
+24,Obmann Fabian,Male,07-12-2024,Yanqing (NASC),CHN,Austria,World Cup,Parallel Giant Slalom,8,320.00
+25,Obmann Fabian,Male,07-12-2024,Yanqing (NASC),CHN,Austria,Qualification,Parallel Giant Slalom,4,
+26,Obmann Fabian,Male,01-12-2024,Mylin,CHN,Austria,World Cup,Parallel Slalom,22,90.00
+27,Obmann Fabian,Male,01-12-2024,Mylin,CHN,Austria,Qualification,Parallel Slalom,22,
+28,Obmann Fabian,Male,30-11-2024,Mylin,CHN,Austria,World Cup,Parallel Giant Slalom,8,320.00
+29,Obmann Fabian,Male,30-11-2024,Mylin,CHN,Austria,Qualification,Parallel Giant Slalom,15,
+30,Obmann Fabian,Male,17-03-2024,St. Moritz,SUI,Austria,European Cup,Parallel Slalom,4,180.00
+31,Obmann Fabian,Male,16-03-2024,St. Moritz,SUI,Austria,European Cup,Parallel Giant Slalom,7,129.60
+32,Obmann Fabian,Male,10-03-2024,Winterberg,GER,Austria,World Cup,Parallel Slalom Team,8,
+33,Obmann Fabian,Male,09-03-2024,Winterberg,GER,Austria,Qualification,Parallel Slalom,4,
+34,Obmann Fabian,Male,09-03-2024,Winterberg,GER,Austria,World Cup,Parallel Slalom,9,290.00
+35,Obmann Fabian,Male,25-02-2024,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,5,
+36,Obmann Fabian,Male,25-02-2024,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,6,400.00
+37,Obmann Fabian,Male,24-02-2024,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,6,
+38,Obmann Fabian,Male,24-02-2024,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,4,500.00
+39,Obmann Fabian,Male,10-02-2024,Hochficht/Zwiesel,AUT,Austria,National Championships,Parallel Slalom,5,130.50
+40,Obmann Fabian,Male,09-02-2024,Hochficht/Zwiesel,AUT,Austria,National Championships,Parallel Giant Slalom,9,84.10
+41,Obmann Fabian,Male,28-01-2024,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom Team,14,
+42,Obmann Fabian,Male,27-01-2024,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,12,
+43,Obmann Fabian,Male,27-01-2024,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom,3,600.00
+44,Obmann Fabian,Male,25-01-2024,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,12,
+45,Obmann Fabian,Male,25-01-2024,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,13,200.00
+46,Obmann Fabian,Male,21-01-2024,Pamporovo,BUL,Austria,Qualification,Parallel Slalom,6,
+47,Obmann Fabian,Male,21-01-2024,Pamporovo,BUL,Austria,World Cup,Parallel Slalom,3,600.00
+48,Obmann Fabian,Male,20-01-2024,Pamporovo,BUL,Austria,Qualification,Parallel Slalom,5,
+49,Obmann Fabian,Male,20-01-2024,Pamporovo,BUL,Austria,World Cup,Parallel Slalom,10,260.00
+50,Obmann Fabian,Male,17-01-2024,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,13,
+51,Obmann Fabian,Male,16-01-2024,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,4,
+52,Obmann Fabian,Male,16-01-2024,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,3,600.00
+53,Obmann Fabian,Male,13-01-2024,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,5,
+54,Obmann Fabian,Male,13-01-2024,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,11,240.00
+55,Obmann Fabian,Male,23-12-2023,Davos,SUI,Austria,Qualification,Parallel Slalom,DSQ,
+56,Obmann Fabian,Male,23-12-2023,Davos ,SUI,Austria,World Cup,Parallel Slalom,DSQ,
+57,Obmann Fabian,Male,16-12-2023,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,5,
+58,Obmann Fabian,Male,16-12-2023,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,10,260.00
+59,Obmann Fabian,Male,14-12-2023,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,6,
+60,Obmann Fabian,Male,14-12-2023,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,10,260.00
+61,Obmann Fabian,Male,01-04-2023,Haus im Ennstal,AUT,Austria,National Championships,Parallel Giant Slalom,8,92.80
+62,Obmann Fabian,Male,19-03-2023,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom Team,1,
+63,Obmann Fabian,Male,18-03-2023,Berchtesgaden,GER,Austria,Qualification,Parallel Slalom,4,
+64,Obmann Fabian,Male,18-03-2023,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,1,1000.00
+65,Obmann Fabian,Male,15-03-2023,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,6,400.00
+66,Obmann Fabian,Male,15-03-2023,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,7,
+67,Obmann Fabian,Male,22-02-2023,Bakuriani,GEO,Austria,World Championships,Parallel Slalom Team,5,
+68,Obmann Fabian,Male,21-02-2023,Bakuriani,GEO,Austria,Qualification,Parallel Slalom,2,
+69,Obmann Fabian,Male,21-02-2023,Bakuriani,GEO,Austria,World Championships,Parallel Slalom,4,500.00
+70,Obmann Fabian,Male,19-02-2023,Bakuriani,GEO,Austria,Qualification,Parallel Giant Slalom,3,
+71,Obmann Fabian,Male,19-02-2023,Bakuriani,GEO,Austria,World Championships,Parallel Giant Slalom,9,290.00
+72,Obmann Fabian,Male,27-01-2023,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,3,
+73,Obmann Fabian,Male,27-01-2023,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,9,290.00
+74,Obmann Fabian,Male,26-01-2023,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,6,
+75,Obmann Fabian,Male,26-01-2023,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,10,260.00
+76,Obmann Fabian,Male,22-01-2023,Bansko,BUL,Austria,Qualification,Parallel Slalom,4,
+77,Obmann Fabian,Male,22-01-2023,Bansko,BUL,Austria,World Cup,Parallel Slalom,5,450.00
+78,Obmann Fabian,Male,21-01-2023,Bansko,BUL,Austria,Qualification,Parallel Slalom,8,
+79,Obmann Fabian,Male,21-01-2023,Bansko,BUL,Austria,World Cup,Parallel Slalom,2,800.00
+80,Obmann Fabian,Male,14-01-2023,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,19,
+81,Obmann Fabian,Male,14-01-2023,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,19,120.00
+82,Obmann Fabian,Male,10-01-2023,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,4,
+83,Obmann Fabian,Male,10-01-2023,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,4,500.00
+84,Obmann Fabian,Male,17-12-2022,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,6,
+85,Obmann Fabian,Male,17-12-2022,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,7,360.00
+86,Obmann Fabian,Male,15-12-2022,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,9,
+87,Obmann Fabian,Male,15-12-2022,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,5,450.00
+88,Obmann Fabian,Male,11-12-2022,Winterberg,GER,Austria,World Cup,Parallel Slalom,12,220.00
+89,Obmann Fabian,Male,10-12-2022,Winterberg,GER,Austria,Qualification,Parallel Slalom,10,
+90,Obmann Fabian,Male,27-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,5,130.50
+91,Obmann Fabian,Male,26-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Giant Slalom,2,232.00
+92,Obmann Fabian,Male,19-03-2022,Berchtesgaden,GER,Austria,Qualification,Parallel Slalom,21,
+93,Obmann Fabian,Male,19-03-2022,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,21,100.00
+94,Obmann Fabian,Male,16-03-2022,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,8,
+95,Obmann Fabian,Male,16-03-2022,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,6,400.00
+96,Obmann Fabian,Male,12-03-2022,Piancavallo,ITA,Austria,Qualification,Parallel Slalom,DNF,
+97,Obmann Fabian,Male,12-03-2022,Piancavallo,ITA,Austria,World Cup,Parallel Slalom,DNF,
+98,Obmann Fabian,Male,06-03-2022,Lachtal,AUT,Austria,European Cup,Parallel Giant Slalom,1,360.00
+99,Obmann Fabian,Male,05-03-2022,Lachtal,AUT,Austria,European Cup,Parallel Giant Slalom,4,180.00
+100,Obmann Fabian,Male,20-02-2022,Bakuriani,GEO,Austria,European Cup,Parallel Giant Slalom,11,86.40
+101,Obmann Fabian,Male,19-02-2022,Bakuriani,GEO,Austria,European Cup,Parallel Giant Slalom,4,180.00
+102,Obmann Fabian,Male,30-01-2022,Davos,SUI,Austria,European Cup,Parallel Slalom,3,216.00
+103,Obmann Fabian,Male,29-01-2022,Davos,SUI,Austria,European Cup,Parallel Slalom,3,216.00
+104,Obmann Fabian,Male,14-01-2022,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom,25,60.00
+105,Obmann Fabian,Male,14-01-2022,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,25,
+106,Obmann Fabian,Male,11-01-2022,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,6,
+107,Obmann Fabian,Male,11-01-2022,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,10,260.00
+108,Obmann Fabian,Male,08-01-2022,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,29,
+109,Obmann Fabian,Male,08-01-2022,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,29,36.00
+110,Obmann Fabian,Male,18-12-2021,Cortina d Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,22,
+111,Obmann Fabian,Male,18-12-2021,Cortina d Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,22,90.00
+112,Obmann Fabian,Male,16-12-2021,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,22,
+113,Obmann Fabian,Male,16-12-2021,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,22,90.00
+114,Obmann Fabian,Male,12-12-2021,Bannoye,RUS,Austria,Qualification,Parallel Slalom,6,
+115,Obmann Fabian,Male,12-12-2021,Bannoye,RUS,Austria,World Cup,Parallel Slalom,4,500.00
+116,Obmann Fabian,Male,11-12-2021,Bannoye,RUS,Austria,Qualification,Parallel Giant Slalom,32,
+117,Obmann Fabian,Male,11-12-2021,Bannoye,RUS,Austria,World Cup,Parallel Giant Slalom,32,26.00
+118,Obmann Fabian,Male,20-03-2021,Berchtesgaden,GER,Austria,Qualification,Parallel Slalom,18,
+119,Obmann Fabian,Male,20-03-2021,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,18,130.00
+120,Obmann Fabian,Male,13-03-2021,Davos Rinerhorn,SUI,Austria,European Cup,Parallel Giant Slalom,7,129.60
+121,Obmann Fabian,Male,06-03-2021,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,23,
+122,Obmann Fabian,Male,06-03-2021,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,23,80.00
+123,Obmann Fabian,Male,28-02-2021,Funes/Villnoesses,ITA,Austria,European Cup,Parallel Giant Slalom,2,208.00
+124,Obmann Fabian,Male,27-02-2021,Funes/Villnoesses,ITA,Austria,European Cup,Parallel Giant Slalom,2,256.00
+125,Obmann Fabian,Male,21-02-2021,Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,7,104.40
+126,Obmann Fabian,Male,20-02-2021,Gerlitzen,AUT,Austria,National Championships,Parallel Giant Slalom,15,46.40
+127,Obmann Fabian,Male,07-02-2021,Bannoye,RUS,Austria,Qualification,Parallel Slalom,8,
+128,Obmann Fabian,Male,07-02-2021,Bannoye,RUS,Austria,World Cup,Parallel Slalom,8,320.00
+129,Obmann Fabian,Male,06-02-2021,Baonoye,RUS,Austria,Qualification,Parallel Giant Slalom,36,
+130,Obmann Fabian,Male,06-02-2021,Bannoye,RUS,Austria,World Cup,Parallel Giant Slalom,36,19.70
+131,Obmann Fabian,Male,30-01-2021,Moscow,RUS,Austria,Qualification,Parallel Slalom,24,
+132,Obmann Fabian,Male,30-01-2021,Moscow,RUS,Austria,World Cup,Parallel Slalom,24,70.00
+133,Obmann Fabian,Male,17-01-2021,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,9,104.40
+134,Obmann Fabian,Male,16-01-2021,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,5,162.00
+135,Obmann Fabian,Male,12-01-2021,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,27,
+136,Obmann Fabian,Male,12-01-2021,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,27,45.00
+137,Obmann Fabian,Male,09-01-2021,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,20,
+138,Obmann Fabian,Male,09-01-2021,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,20,110.00
+139,Obmann Fabian,Male,17-12-2020,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,18,
+140,Obmann Fabian,Male,17-12-2020,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,18,130.00
+141,Obmann Fabian,Male,12-12-2020,Cortina d Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,DNF,
+142,Obmann Fabian,Male,12-12-2020,Cortina d Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,DNF,
+143,Obmann Fabian,Male,08-03-2020,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,1,360.00
+144,Obmann Fabian,Male,07-03-2020,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,2,288.00
+145,Obmann Fabian,Male,01-03-2020,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,33,24.00
+146,Obmann Fabian,Male,01-03-2020,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,33,
+147,Obmann Fabian,Male,29-02-2020,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,36,19.70
+148,Obmann Fabian,Male,29-02-2020,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,36,
+149,Obmann Fabian,Male,22-02-2020,Pyeongchang,KOR,Austria,World Cup,Parallel Giant Slalom,14,180.00
+150,Obmann Fabian,Male,22-02-2020,Pyeongchang,KOR,Austria,Qualification,Parallel Giant Slalom,14,
+151,Obmann Fabian,Male,16-02-2020,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,5,162.00
+152,Obmann Fabian,Male,15-02-2020,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,12,79.20
+153,Obmann Fabian,Male,09-02-2020,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,6,144.00
+154,Obmann Fabian,Male,08-02-2020,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,4,180.00
+155,Obmann Fabian,Male,26-01-2020,Piancavallo,ITA,Austria,World Cup,Parallel Slalom Team,20,
+156,Obmann Fabian,Male,25-01-2020,Piancavallo,ITA,Austria,World Cup,Parallel Slalom,31,28.00
+157,Obmann Fabian,Male,25-01-2020,Piancavallo,ITA,Austria,Qualification,Parallel Slalom,31,
+158,Obmann Fabian,Male,18-01-2020,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,33,24.00
+159,Obmann Fabian,Male,18-01-2020,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,33,
+160,Obmann Fabian,Male,14-01-2020,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,22,90.00
+161,Obmann Fabian,Male,14-01-2020,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,22,
+162,Obmann Fabian,Male,11-01-2020,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,DSQ,
+163,Obmann Fabian,Male,11-01-2020,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,DSQ,
+164,Obmann Fabian,Male,22-12-2019,Hochfügen,GER,Austria,European Cup,Parallel Giant Slalom,11,86.40
+165,Obmann Fabian,Male,21-12-2019,Hochfügen,GER,Austria,European Cup,Parallel Giant Slalom,10,93.60
+166,Obmann Fabian,Male,19-12-2019,Carezza,ITA,Austria,Open,Parallel Giant Slalom,11,240.00
+167,Obmann Fabian,Male,14-12-2019,Cortina d Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,24,70.00
+168,Obmann Fabian,Male,14-12-2019,Cortina d Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,24,
+169,Obmann Fabian,Male,08-12-2019,Bannoye,RUS,Austria,World Cup,Parallel Giant Slalom,13,200.00
+170,Obmann Fabian,Male,08-12-2019,Bannoye,RUS,Austria,Qualification,Parallel Giant Slalom,9,
+171,Obmann Fabian,Male,07-12-2019,Bannoye,RUS,Austria,World Cup,Parallel Slalom,20,110.00
+172,Obmann Fabian,Male,07-12-2019,Bannoye,RUS,Austria,Qualification,Parallel Slalom,20,
+173,Obmann Fabian,Male,07-04-2019,Racines,ITA,Austria,European Cup,Parallel Slalom,2,288.00
+174,Obmann Fabian,Male,06-04-2019,Racines,ITA,Austria,European Cup,Parallel Slalom,3,216.00
+175,Obmann Fabian,Male,31-03-2019,Radstadt,AUT,Austria,National Championships,Parallel Giant Slalom,3,174.00
+176,Obmann Fabian,Male,30-03-2019,Radstadt,AUT,Austria,National Championships,Parallel Slalom,6,116.00
+177,Obmann Fabian,Male,23-03-2019,Winterberg,GER,Austria,World Cup,Parallel Slalom,23,80.00
+178,Obmann Fabian,Male,23-03-2019,Winterberg,GER,Austria,Qualification,Parallel Slalom,23,
+179,Obmann Fabian,Male,17-03-2019,Rogla,SLO,Austria,European Cup,Parallel Giant Slalom,12,79.20
+180,Obmann Fabian,Male,16-03-2019,Rogla,SLO,Austria,European Cup,Parallel Giant Slalom,12,79.20
+181,Obmann Fabian,Male,09-03-2019,Scuol,SUI,Austria,World Cup,Parallel GS,DSQ,
+182,Obmann Fabian,Male,09-03-2019,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,DSQ,
+183,Obmann Fabian,Male,03-03-2019,Davos,SUI,Austria,European Cup,Parallel Slalom,2,288.00
+184,Obmann Fabian,Male,02-03-2019,Davos,SUI,Austria,European Cup,Parallel Giant Slalom,16,54.00
+185,Obmann Fabian,Male,17-02-2019,Simonhoehe,AUT,Austria,FIS,Parallel GS,1,160.00
+186,Obmann Fabian,Male,16-02-2019,Simonhoehe,AUT,Austria,FIS,Parallel GS,2,128.00
+187,Obmann Fabian,Male,10-02-2019,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,1,320.00
+188,Obmann Fabian,Male,09-02-2019,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,1,320.00
+189,Obmann Fabian,Male,27-01-2019,Lachtal,AUT,Austria,European Cup,Parallel GS,6,72.00
+190,Obmann Fabian,Male,26-01-2019,Lachtal,AUT,Austria,European Cup,Parallel GS,2,144.00
+191,Obmann Fabian,Male,19-01-2019,Rogla,SLO,Austria,World Cup,Parallel GS,44,17.30
+192,Obmann Fabian,Male,19-01-2019,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,44,
+193,Obmann Fabian,Male,11-01-2019,Bad Gastein,AUT,Austria,European Cup,Parallel Slalom,6,144.00
+194,Obmann Fabian,Male,10-01-2019,Bad Gastein,AUT,Austria,European Cup,Parallel Slalom,6,144.00
+195,Obmann Fabian,Male,08-01-2019,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,18,130.00
+196,Obmann Fabian,Male,08-01-2019,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,18,
+197,Obmann Fabian,Male,06-01-2019,Simonhöhe,AUT,Austria,FIS,Parallel Slalom,2,176.00
+198,Obmann Fabian,Male,05-01-2019,Simonhöhe,AUT,Austria,FIS,Parallel Slalom,3,132.00
+199,Obmann Fabian,Male,23-12-2018,Hochfügen,GER,Austria,European Cup,Parallel Giant Slalom,2,288.00
+200,Obmann Fabian,Male,22-12-2018,Hochfügen,GER,Austria,European Cup,Parallel Giant Slalom,8,115.20
+201,Obmann Fabian,Male,15-12-2018,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel GS,14,180.00
+202,Obmann Fabian,Male,15-12-2018,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,13,
+203,Obmann Fabian,Male,13-12-2018,Carezza,ITA,Austria,World Cup,Parallel GS,25,60.00
+204,Obmann Fabian,Male,13-12-2018,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,25,
+205,Obmann Fabian,Male,02-12-2018,Pfelders,ITA,Austria,FIS,Parallel Giant Slalom,9,63.80
+206,Obmann Fabian,Male,01-12-2018,Pfelders,ITA,Austria,FIS,Parallel Giant Slalom,4,110.00
+207,Obmann Fabian,Male,08-04-2018,Racines,ITA,Austria,European Cup,Parallel Slalom,8,115.20
+208,Obmann Fabian,Male,07-04-2018,Racines,ITA,Austria,European Cup,Parallel Slalom,11,86.40
+209,Obmann Fabian,Male,25-03-2018,Davos,SUI,Austria,European Cup,Parallel Slalom,7,129.60
+210,Obmann Fabian,Male,24-03-2018,Davos,SUI,Austria,European Cup,Parallel GS,18,46.80
+211,Obmann Fabian,Male,21-03-2018,Rogla,SLO,Austria,European Cup,Parallel GS,34,7.92
+212,Obmann Fabian,Male,20-03-2018,Rogla,SLO,Austria,European Cup,Parallel GS,28,14.40
+213,Obmann Fabian,Male,17-03-2018,Winterberg,GER,Austria,World Cup,Parallel Slalom,43,17.60
+214,Obmann Fabian,Male,17-03-2018,Winterberg,GER,Austria,Qualification,Parallel Slalom,43,
+215,Obmann Fabian,Male,11-03-2018,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,5,108.00
+216,Obmann Fabian,Male,10-03-2018,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,4,120.00
+217,Obmann Fabian,Male,25-02-2018,Funes/Villnoess,ITA,Austria,FIS,Parallel GS,DSQ1,
+218,Obmann Fabian,Male,24-02-2018,Funes/Villnoess,ITA,Austria,FIS,Parallel GS,3,120.00
+219,Obmann Fabian,Male,18-02-2018,Simonhoehe,AUT,Austria,FIS,Parallel GS,5,99.00
+220,Obmann Fabian,Male,17-02-2018,Simonhoehe,AUT,Austria,FIS,Parallel GS,6,88.00
+221,Obmann Fabian,Male,11-02-2018,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,3,192.00
+222,Obmann Fabian,Male,10-02-2018,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,DNF1,
+223,Obmann Fabian,Male,04-02-2018,Gerlitzen,AUT,Austria,National Championships,Parallel GS,11,69.60
+224,Obmann Fabian,Male,03-02-2018,Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,6,116.00
+225,Obmann Fabian,Male,21-01-2018,Lachtal,AUT,Austria,European Cup,Parallel GS,38,3.82
+226,Obmann Fabian,Male,20-01-2018,Lachtal,AUT,Austria,European Cup,Parallel GS,6,80.00
+227,Obmann Fabian,Male,12-01-2018,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,26,50.00
+228,Obmann Fabian,Male,12-01-2018,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,26,
+229,Obmann Fabian,Male,05-01-2018,Lackenhof,AUT,Austria,World Cup,Parallel GS,35,20.00
+230,Obmann Fabian,Male,05-01-2018,Lackenhof,AUT,Austria,Qualification,Parallel GS,35,
+231,Obmann Fabian,Male,16-12-2017,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Slalom,42,17.90
+232,Obmann Fabian,Male,16-12-2017,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Slalom,42,
+233,Obmann Fabian,Male,15-12-2017,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel GS,43,17.60
+234,Obmann Fabian,Male,15-12-2017,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel GS,43,
+235,Obmann Fabian,Male,14-12-2017,Carezza,ITA,Austria,World Cup,Parallel GS,31,28.00
+236,Obmann Fabian,Male,14-12-2017,Carezza,ITA,Austria,Qualification,Parallel GS,31,
+237,Obmann Fabian,Male,10-12-2017,Hochfügen,GER,Austria,European Cup,Parallel GS,38,6.88
+238,Obmann Fabian,Male,09-12-2017,Hochfügen,GER,Austria,European Cup,Parallel GS,29,12.96
+239,Obmann Fabian,Male,02-12-2017,Pfelders,ITA,Austria,FIS,Parallel GS,10,57.20
+240,Obmann Fabian,Male,01-12-2017,Pfelders,ITA,Austria,FIS,Parallel GS,8,70.40
+241,Obmann Fabian,Male,02-04-2017,Scuol,SUI,Austria,European Cup,Parallel Slalom,6,144.00
+242,Obmann Fabian,Male,01-04-2017,Scuol,SUI,Austria,European Cup,Parallel GS,24,25.20
+243,Obmann Fabian,Male,29-03-2017,Rogla,SLO,Austria,European Cup,Parallel Slalom,15,57.60
+244,Obmann Fabian,Male,28-03-2017,Rogla,SLO,Austria,European Cup,Parallel GS,27,16.20
+245,Obmann Fabian,Male,26-03-2017,Racines,ITA,Austria,European Cup,Parallel Slalom,12,79.20
+246,Obmann Fabian,Male,25-03-2017,Racines,ITA,Austria,European Cup,Parallel Slalom,9,104.40
+247,Obmann Fabian,Male,18-03-2017,Radstadt,AUT,Austria,European Cup,Parallel Slalom,3,132.00
+248,Obmann Fabian,Male,17-03-2017,Radstadt,AUT,Austria,European Cup,Parallel Slalom,4,110.00
+249,Obmann Fabian,Male,12-03-2017,Tauplitz,AUT,Austria,FIS,Parallel Slalom,8,70.40
+250,Obmann Fabian,Male,11-03-2017,Tauplitz,AUT,Austria,FIS,Parallel Slalom,2,176.00
+251,Obmann Fabian,Male,26-02-2017,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,18,46.80
+252,Obmann Fabian,Male,25-02-2017,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,10,93.60
+253,Obmann Fabian,Male,12-02-2017,Gosau,AUT,Austria,FIS,Parallel Slalom,3,120.00
+254,Obmann Fabian,Male,11-02-2017,Gosau,AUT,Austria,FIS,Parallel Slalom,2,160.00
+255,Obmann Fabian,Male,29-01-2017,Falkert,AUT,Austria,FIS,Slalom,2,120.00
+256,Obmann Fabian,Male,28-01-2017,Falkert,AUT,Austria,FIS,Slalom,2,120.00
+257,Obmann Fabian,Male,21-01-2017,Livigno,ITA,Austria,European Cup,Parallel GS,22,32.40
+258,Obmann Fabian,Male,20-01-2017,Livigno,ITA,Austria,European Cup,Parallel GS,22,32.40
+259,Obmann Fabian,Male,15-01-2017,Hochficht,AUT,Austria,National Championships,Parallel Slalom,10,75.40
+260,Obmann Fabian,Male,14-01-2017,Hochficht,AUT,Austria,National Championships,Parallel GS,18,37.70
+261,Obmann Fabian,Male,10-01-2017,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,36,19.70
+262,Obmann Fabian,Male,08-01-2017,Gerlitzen,AUT,Austria,European Cup,Parallel GS,16,36.00
+263,Obmann Fabian,Male,17-12-2016,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Slalom,39,18.80
+264,Obmann Fabian,Male,11-12-2016,Hochfügen,GER,Austria,European Cup,Parallel GS,39,6.77
+265,Obmann Fabian,Male,10-12-2016,Hochfügen,GER,Austria,European Cup,Parallel GS,36,7.09
+266,Obmann Fabian,Male,04-11-2016,Landgraaf,NED,Austria,European Cup,Parallel Slalom,13,72.00
+267,Obmann Fabian,Male,03-11-2016,Landgraaf,NED,Austria,European Cup,Parallel Slalom,22,32.40
+268,Obmann Fabian,Male,03-04-2016,Rogla,SLO,Austria,FIS Junior World Championships,Parallel Slalom,10,93.60
+269,Obmann Fabian,Male,02-04-2016,Rogla,SLO,Austria,FIS Junior World Championships,Parallel GS,15,57.60
+270,Obmann Fabian,Male,27-03-2016,Racines,ITA,Austria,European Cup,Parallel Slalom,22,40.50
+271,Obmann Fabian,Male,26-03-2016,Racines,ITA,Austria,European Cup,Parallel Slalom,24,35.00
+272,Obmann Fabian,Male,24-03-2016,Rogla,SLO,Austria,European Cup,Parallel Slalom,29,18.00
+273,Obmann Fabian,Male,23-03-2016,Rogla,SLO,Austria,European Cup,Parallel GS,44,8.65
+274,Obmann Fabian,Male,20-03-2016,Gerlitzen,AUT,Austria,European Cup,Parallel GS,34,11.00
+275,Obmann Fabian,Male,19-03-2016,Gerlitzen,AUT,Austria,European Cup,Parallel GS,50,7.75
+276,Obmann Fabian,Male,06-03-2016,Tauplitz,AUT,Austria,FIS,Parallel Slalom,7,79.20
+277,Obmann Fabian,Male,05-03-2016,Tauplitz,AUT,Austria,FIS,Parallel Slalom,7,79.20
+278,Obmann Fabian,Male,28-02-2016,Falkert,AUT,Austria,FIS,Giant Slalom,6,88.00
+279,Obmann Fabian,Male,27-02-2016,Falkert,AUT,Austria,FIS,Giant Slalom,2,176.00
+280,Obmann Fabian,Male,21-02-2016,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,DSQ1,
+281,Obmann Fabian,Male,20-02-2016,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,46,8.35
+282,Obmann Fabian,Male,07-02-2016,Lachtal,AUT,Austria,FIS,Parallel Slalom,23,20.80
+283,Obmann Fabian,Male,06-02-2016,Lachtal,AUT,Austria,National Championships,Parallel Slalom,31,10.08
+284,Obmann Fabian,Male,30-01-2016,Stara Planina,SRB,Austria,European Cup,Parallel GS,12,52.80
+285,Obmann Fabian,Male,29-01-2016,Stara Planina,SRB,Austria,European Cup,Parallel Slalom,12,52.80
+286,Obmann Fabian,Male,17-01-2016,Kreischberg,AUT,Austria,FIS,Parallel GS,17,36.40
+287,Obmann Fabian,Male,16-01-2016,Kreischberg,AUT,Austria,FIS,Parallel GS,DNF1,
+288,Obmann Fabian,Male,08-01-2016,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,47,16.40
+289,Obmann Fabian,Male,06-12-2015,Hochfuegen,GER,Austria,European Cup,Parallel GS,56,6.85
+290,Obmann Fabian,Male,05-12-2015,Hochfuegen,GER,Austria,European Cup,Parallel GS,38,9.55
+291,Obmann Fabian,Male,16-10-2015,Landgraaf,NED,Austria,European Cup,Parallel Slalom,57,6.70
+292,Obmann Fabian,Male,15-10-2015,Landgraaf,NED,Austria,European Cup,Parallel Slalom,25,30.00
+293,Obmann Fabian,Male,22-03-2015,Hochficht,AUT,Austria,National Championships,Giant Slalom,9,104.40
+294,Obmann Fabian,Male,21-03-2015,Hochficht,AUT,Austria,National Championships,Parallel Slalom,7,129.60
+295,Obmann Fabian,Male,18-03-2015,Rogla,SLO,Austria,European Cup,Parallel Slalom,29,18.00
+296,Obmann Fabian,Male,17-03-2015,Rogla,SLO,Austria,European Cup,Parallel GS,15,80.00
+297,Obmann Fabian,Male,11-03-2015,Yabuli,CHN,Austria,FIS Junior World Championships,Parallel Slalom,6,144.00
+298,Obmann Fabian,Male,10-03-2015,Yabuli,CHN,Austria,FIS Junior World Championships,Parallel GS,5,162.00
+299,Obmann Fabian,Male,25-02-2015,Marianske Lazne,CZE,Austria,European Cup,Parallel Slalom,9,84.10
+300,Obmann Fabian,Male,24-02-2015,Marianske Lazne,CZE,Austria,European Cup,Parallel Slalom,16,43.50
+301,Obmann Fabian,Male,22-02-2015,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,25,24.00
+302,Obmann Fabian,Male,21-02-2015,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,28,20.00
+303,Obmann Fabian,Male,15-02-2015,Kayseri,TUR,Austria,European Cup,Parallel Slalom,11,69.60
+304,Obmann Fabian,Male,14-02-2015,Kayseri,TUR,Austria,European Cup,Parallel Slalom,22,26.10
+305,Obmann Fabian,Male,07-02-2015,Pfelders,ITA,Austria,FIS,Giant Slalom,6,80.00
+306,Obmann Fabian,Male,06-02-2015,Pfelders,ITA,Austria,FIS,Slalom,8,70.40
+307,Obmann Fabian,Male,31-01-2015,Livigno,ITA,Austria,European Cup,Parallel GS,13,52.00
+308,Obmann Fabian,Male,30-01-2015,Livigno,ITA,Austria,European Cup,Parallel GS,19,31.20
+309,Obmann Fabian,Male,24-01-2015,Samnaun,SUI,Austria,FIS,Parallel Slalom,11,62.40
+310,Obmann Fabian,Male,23-01-2015,Samnaun,SUI,Austria,FIS,Parallel Slalom,25,14.40
+311,Obmann Fabian,Male,09-01-2015,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,39,18.80
+312,Obmann Fabian,Male,06-01-2015,Dachstein West / Gosau,AUT,Austria,FIS,Parallel Slalom,21,26.00
+313,Obmann Fabian,Male,05-01-2015,Dachstein West / Gosau,AUT,Austria,FIS,Parallel Slalom,22,23.40
+314,Obmann Fabian,Male,25-03-2014,Chiesa in Valmalenco,ITA,Austria,FIS Junior World Championships,Parallel Slalom,4,180.00
+315,Obmann Fabian,Male,24-03-2014,Chiesa in Valmalenco,ITA,Austria,FIS Junior World Championships,Parallel GS,13,72.00
+316,Obmann Fabian,Male,16-03-2014,Ratsching/Racines,ITA,Austria,European Cup,Parallel Slalom,147,
+317,Obmann Fabian,Male,15-03-2014,Ratsching/Racines,ITA,Austria,European Cup,Parallel Slalom,21,50.00
+318,Obmann Fabian,Male,09-03-2014,Tauplitz,AUT,Austria,FIS,Parallel Slalom,19,31.20
+319,Obmann Fabian,Male,08-03-2014,Tauplitz,AUT,Austria,FIS,Parallel Slalom,15,41.60
+320,Obmann Fabian,Male,05-03-2014,Rogla,SLO,Austria,European Cup,Parallel Slalom,27,22.50
+321,Obmann Fabian,Male,04-03-2014,Rogla,SLO,Austria,European Cup,Parallel GS,26,25.00
+322,Obmann Fabian,Male,01-03-2014,Gerlitzen,AUT,Austria,European Cup,Parallel GS,26,25.00
+323,Obmann Fabian,Male,22-02-2014,Gosau,AUT,Austria,FIS,Slalom,12,57.20
+324,Obmann Fabian,Male,22-02-2014,Gosau,AUT,Austria,FIS,Slalom,5,117.00
+325,Obmann Fabian,Male,16-02-2014,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,44,0.00
+326,Obmann Fabian,Male,15-02-2014,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,21,45.00
+327,Obmann Fabian,Male,26-01-2014,Hochficht,AUT,Austria,FIS,Giant Slalom,4,120.00
+328,Obmann Fabian,Male,25-01-2014,Hochficht,AUT,Austria,FIS,Giant Slalom,19,28.80
+329,Obmann Fabian,Male,22-12-2013,Schönberg-Lachtal,AUT,Austria,European Cup,Parallel Slalom,61,
+330,Obmann Fabian,Male,21-12-2013,Schönberg-Lachtal,AUT,Austria,European Cup,Parallel Slalom,67,0.00
+331,Obmann Fabian,Male,15-12-2013,Samnaun,SUI,Austria,FIS,Parallel Slalom,84,
+332,Obmann Fabian,Male,14-12-2013,Samnaun,SUI,Austria,FIS,Parallel Slalom,11,52.80
+333,Obmann Fabian,Male,08-12-2013,Hochfügen,AUT,Austria,European Cup,Parallel GS,53,7.30
+334,Obmann Fabian,Male,07-12-2013,Hochfügen,AUT,Austria,European Cup,Parallel GS,56,6.85
+335,Obmann Fabian,Male,08-11-2013,Landgraaf,NED,Austria,FIS,Parallel Slalom,32,6.76
+336,Obmann Fabian,Male,07-11-2013,Landgraaf,NED,Austria,FIS,Parallel Slalom,29,9.36
+337,Obmann Fabian,Male,23-03-2013,Götschen,GER,Austria,National Championships,Parallel GS,19,43.20
+338,Obmann Fabian,Male,22-03-2013,Götschen,GER,Austria,National Championships,Parallel Slalom,31,
+339,Obmann Fabian,Male,03-03-2013,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,33,6.24
+340,Obmann Fabian,Male,02-03-2013,Gerlitzen,AUT,Austria,European Cup,Parallel Slalom,54,
+341,Obmann Fabian,Male,21-02-2013,Predeal,ROU,Austria,European Youth Olympic Festival,Parallel GS,7,18.00
+342,Obmann Fabian,Male,10-02-2013,Marianske Lazne,CZE,Austria,European Cup,Parallel Slalom,36,6.30
+343,Obmann Fabian,Male,09-02-2013,Marianske Lazne,CZE,Austria,European Cup,Parallel Slalom,DSQ,
+344,Obmann Fabian,Male,02-02-2013,Lizzola-Valbondione,ITA,Austria,FIS,Parallel Slalom,17,36.40
+345,Obmann Fabian,Male,20-01-2013,Vratna - Paseky,SVK,Austria,European Cup,Parallel GS,45,5.44
+346,Obmann Fabian,Male,19-01-2013,Vratna - Paseky,SVK,Austria,European Cup,Parallel GS,33,7.68
+347,Obmann Fabian,Male,23-12-2012,Radstadt,AUT,Austria,FIS,Giant Slalom,24,18.20
+348,Obmann Fabian,Male,22-12-2012,Radstadt,AUT,Austria,FIS,Giant Slalom,13,52.00
+349,Obmann Fabian,Male,16-12-2012,Racines/Ratschings,ITA,Austria,European Cup,Parallel Slalom,DNF,
+350,Obmann Fabian,Male,15-12-2012,Racines/Ratschings,ITA,Austria,European Cup,Parallel Slalom,62,4.76
+351,Obmann Fabian,Male,09-12-2012,Lachtal,AUT,Austria,European Cup,Parallel GS,73,4.30
+352,Obmann Fabian,Male,08-12-2012,Lachtal,AUT,Austria,European Cup,Parallel GS,77,3.70
+353,Obmann Fabian,Male,01-04-2012,St. Gallenkirch,AUT,Austria,National Championships,Parallel Slalom,23,28.80
+354,Obmann Fabian,Male,31-03-2012,St. Gallenkirch,AUT,Austria,National Championships,Parallel GS,24,25.20
+355,Obmann Fabian,Male,20-03-2012,Rogla,SLO,Austria,European Cup,Parallel Slalom,52,6.70
+356,Obmann Fabian,Male,19-03-2012,Rogla,SLO,Austria,European Cup,Parallel GS,46,6.68
+357,Obmann Fabian,Male,18-03-2012,Tauplitz,AUT,Austria,FIS,Parallel Slalom,36,3.55
+358,Obmann Fabian,Male,17-03-2012,Tauplitz,AUT,Austria,FIS,Parallel Slalom,49,3.79
+359,Obmann Fabian,Male,10-03-2012,Bad Gastein,AUT,Austria,European Cup,Parallel GS,45,4.93
+360,Obmann Fabian,Male,04-03-2012,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,43,3.87
+361,Obmann Fabian,Male,03-03-2012,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,32,6.24
+362,Obmann Fabian,Male,04-02-2012,Goetschen,GER,Austria,National Championships,Parallel Slalom,25,14.40
+363,Obmann Fabian,Male,03-02-2012,Goetschen,GER,Austria,National Championships,Parallel GS,18,31.20
+364,Obmann Fabian,Male,29-01-2012,Kasberg,AUT,Austria,FIS,Parallel Slalom,7,25.20
+365,Obmann Fabian,Male,28-01-2012,Kasberg,AUT,Austria,FIS,Parallel Slalom,16,7.50
+366,Obmann Fabian,Male,08-01-2012,Kreischberg,AUT,Austria,FIS,Parallel GS,103,
+367,Obmann Fabian,Male,07-01-2012,Kreischberg,AUT,Austria,FIS,Parallel GS,55,3.64

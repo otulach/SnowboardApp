@@ -1,206 +1,210 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Pink Matthaeus,Male,09-02-2025,Simonhoehe,AUT,Austria,National Championships,Parallel Slalom,9,84.10
-1,Pink Matthaeus,Male,08-02-2025,Simonhoehe,AUT,Austria,National Championships,Parallel Giant Slalom,11,69.60
-2,Pink Matthaeus,Male,25-01-2025,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,17,
-3,Pink Matthaeus,Male,25-01-2025,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,17,140.00
-4,Pink Matthaeus,Male,22-01-2025,Bardonecchia,ITA,Austria,Universiade,Parallel Slalom,1,260.00
-5,Pink Matthaeus,Male,21-01-2025,Bardonecchia,ITA,Austria,Universiade,Parallel Giant Slalom,9,75.40
-6,Pink Matthaeus,Male,19-01-2025,Bansko,BUL,Austria,Qualification,Parallel Giant Slalom,24,
-7,Pink Matthaeus,Male,19-01-2025,Bansko,BUL,Austria,World Cup,Parallel Giant Slalom,24,70.00
-8,Pink Matthaeus,Male,18-01-2025,Bansko,BUL,Austria,Qualification,Parallel Giant Slalom,24,
-9,Pink Matthaeus,Male,18-01-2025,Bansko,BUL,Austria,World Cup,Parallel Giant Slalom,24,70.00
-10,Pink Matthaeus,Male,15-01-2025,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,9,
-11,Pink Matthaeus,Male,14-01-2025,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,24,
-12,Pink Matthaeus,Male,14-01-2025,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,24,70.00
-13,Pink Matthaeus,Male,11-01-2025,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,27,
-14,Pink Matthaeus,Male,11-01-2025,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,27,45.00
-15,Pink Matthaeus,Male,21-12-2024,Davos,SUI,Austria,Qualification,Parallel Slalom,DSQ,
-16,Pink Matthaeus,Male,21-12-2024,Davos,SUI,Austria,World Cup,Parallel Slalom,DSQ,
-17,Pink Matthaeus,Male,14-12-2024,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,16,
-18,Pink Matthaeus,Male,14-12-2024,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,16,150.00
-19,Pink Matthaeus,Male,12-12-2024,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,29,
-20,Pink Matthaeus,Male,12-12-2024,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,29,36.00
-21,Pink Matthaeus,Male,08-12-2024,Yanqing (NASC),CHN,Austria,World Cup,Parallel Slalom,15,160.00
-22,Pink Matthaeus,Male,08-12-2024,Yanqing (NASC),CHN,Austria,Qualification,Parallel Slalom,14,
-23,Pink Matthaeus,Male,07-12-2024,Yanqing (NASC),CHN,Austria,World Cup,Parallel Giant Slalom,24,70.00
-24,Pink Matthaeus,Male,07-12-2024,Yanqing (NASC),CHN,Austria,Qualification,Parallel Giant Slalom,24,
-25,Pink Matthaeus,Male,01-12-2024,Mylin,CHN,Austria,World Cup,Parallel Slalom,8,320.00
-26,Pink Matthaeus,Male,01-12-2024,Mylin,CHN,Austria,Qualification,Parallel Slalom,16,
-27,Pink Matthaeus,Male,30-11-2024,Mylin,CHN,Austria,World Cup,Parallel Giant Slalom,38,19.10
-28,Pink Matthaeus,Male,30-11-2024,Mylin,CHN,Austria,Qualification,Parallel Giant Slalom,38,
-29,Pink Matthaeus,Male,17-03-2024,St. Moritz,SUI,Austria,European Cup,Parallel Slalom,DSQ,
-30,Pink Matthaeus,Male,16-03-2024,St. Moritz,SUI,Austria,European Cup,Parallel Giant Slalom,27,16.20
-31,Pink Matthaeus,Male,09-03-2024,Winterberg,GER,Austria,Qualification,Parallel Slalom,22,
-32,Pink Matthaeus,Male,09-03-2024,Winterberg,GER,Austria,World Cup,Parallel Slalom,22,90.00
-33,Pink Matthaeus,Male,25-02-2024,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,37,
-34,Pink Matthaeus,Male,25-02-2024,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,37,
-35,Pink Matthaeus,Male,24-02-2024,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,33,
-36,Pink Matthaeus,Male,24-02-2024,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,33,24.00
-37,Pink Matthaeus,Male,27-01-2024,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,33,
-38,Pink Matthaeus,Male,27-01-2024,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom,33,24.00
-39,Pink Matthaeus,Male,25-01-2024,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,DSQ,
-40,Pink Matthaeus,Male,25-01-2024,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,DSQ,
-41,Pink Matthaeus,Male,21-01-2024,Pamporovo,BUL,Austria,Qualification,Parallel Slalom,18,
-42,Pink Matthaeus,Male,21-01-2024,Pamporovo,BUL,Austria,World Cup,Parallel Slalom,18,130.00
-43,Pink Matthaeus,Male,20-01-2024,Pamporovo,BUL,Austria,Qualification,Parallel Slalom,37,
-44,Pink Matthaeus,Male,20-01-2024,Pamporovo,BUL,Austria,World Cup,Parallel Slalom,37,19.40
-45,Pink Matthaeus,Male,16-01-2024,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,21,
-46,Pink Matthaeus,Male,16-01-2024,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,21,100.00
-47,Pink Matthaeus,Male,13-01-2024,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,23,
-48,Pink Matthaeus,Male,13-01-2024,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,23,80.00
-49,Pink Matthaeus,Male,23-12-2023,Davos,SUI,Austria,Qualification,Parallel Slalom,13,
-50,Pink Matthaeus,Male,23-12-2023,Davos ,SUI,Austria,World Cup,Parallel Slalom,13,200.00
-51,Pink Matthaeus,Male,16-12-2023,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,16,
-52,Pink Matthaeus,Male,16-12-2023,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,16,150.00
-53,Pink Matthaeus,Male,14-12-2023,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,31,
-54,Pink Matthaeus,Male,14-12-2023,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,31,28.00
-55,Pink Matthaeus,Male,08-12-2023,Götschen,GER,Austria,Qualification,Parallel Slalom,27,
-56,Pink Matthaeus,Male,08-12-2023,Götschen,GER,Austria,European Cup,Parallel Slalom,27,16.20
-57,Pink Matthaeus,Male,02-04-2023,Haus im Ennstal,AUT,Austria,National Championships,Parallel Slalom,3,174.00
-58,Pink Matthaeus,Male,01-04-2023,Haus im Ennstal,AUT,Austria,National Championships,Parallel Giant Slalom,1,290.00
-59,Pink Matthaeus,Male,18-03-2023,Berchtesgaden,GER,Austria,Qualification,Parallel Slalom,30,
-60,Pink Matthaeus,Male,18-03-2023,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,30,32.00
-61,Pink Matthaeus,Male,15-03-2023,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,25,60.00
-62,Pink Matthaeus,Male,15-03-2023,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,25,
-63,Pink Matthaeus,Male,05-03-2023,Zakopane,POL,Austria,European Cup,Parallel Giant Slalom,2,256.00
-64,Pink Matthaeus,Male,04-03-2023,Zakopane,POL,Austria,European Cup,Parallel Giant Slalom,8,115.20
-65,Pink Matthaeus,Male,31-01-2023,Blue,CAN,Austria,Nor-Am Cup,Parallel Slalom,6,96.00
-66,Pink Matthaeus,Male,30-01-2023,Blue,CAN,Austria,Nor-Am Cup,Parallel Giant Slalom,23,19.20
-67,Pink Matthaeus,Male,27-01-2023,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,27,
-68,Pink Matthaeus,Male,27-01-2023,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,27,45.00
-69,Pink Matthaeus,Male,26-01-2023,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,31,
-70,Pink Matthaeus,Male,26-01-2023,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,31,28.00
-71,Pink Matthaeus,Male,22-01-2023,Gore Mountain,USA,Austria,Universiade,Parallel Slalom,1,220.00
-72,Pink Matthaeus,Male,22-01-2023,Gore Mountain,USA,Austria,Qualification,Parallel Slalom,2,
-73,Pink Matthaeus,Male,21-01-2023,Gore Mountain,USA,Austria,Universiade,Parallel Giant Slalom,2,176.00
-74,Pink Matthaeus,Male,21-01-2023,Gore Mountain,USA,Austria,Qualification,Parallel Giant Slalom,3,
-75,Pink Matthaeus,Male,14-01-2023,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,DSQ,
-76,Pink Matthaeus,Male,14-01-2023,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,DSQ,
-77,Pink Matthaeus,Male,10-01-2023,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,37,
-78,Pink Matthaeus,Male,10-01-2023,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,31,28.00
-79,Pink Matthaeus,Male,17-12-2022,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,DNF,
-80,Pink Matthaeus,Male,17-12-2022,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,DNF,
-81,Pink Matthaeus,Male,15-12-2022,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,33,
-82,Pink Matthaeus,Male,15-12-2022,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,33,24.00
-83,Pink Matthaeus,Male,11-12-2022,Winterberg,GER,Austria,World Cup,Parallel Slalom,7,360.00
-84,Pink Matthaeus,Male,10-12-2022,Winterberg,GER,Austria,Qualification,Parallel Slalom,9,
-85,Pink Matthaeus,Male,27-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,4,145.00
-86,Pink Matthaeus,Male,26-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Giant Slalom,5,130.50
-87,Pink Matthaeus,Male,19-03-2022,Berchtesgaden,GER,Austria,Qualification,Parallel Slalom,18,
-88,Pink Matthaeus,Male,19-03-2022,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,18,130.00
-89,Pink Matthaeus,Male,17-03-2022,Rogla,SLO,Austria,European Cup,Parallel Giant Slalom,12,70.40
-90,Pink Matthaeus,Male,16-03-2022,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,20,
-91,Pink Matthaeus,Male,16-03-2022,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,20,110.00
-92,Pink Matthaeus,Male,06-03-2022,Lachtal,AUT,Austria,European Cup,Parallel Giant Slalom,3,216.00
-93,Pink Matthaeus,Male,05-03-2022,Lachtal,AUT,Austria,European Cup,Parallel Giant Slalom,9,104.40
-94,Pink Matthaeus,Male,27-02-2022,Simonhöhe,AUT,Austria,FIS,Parallel Giant Slalom,2,176.00
-95,Pink Matthaeus,Male,26-02-2022,Simonhöhe,AUT,Austria,FIS,Parallel Giant Slalom,2,176.00
-96,Pink Matthaeus,Male,20-02-2022,Bakuriani,GEO,Austria,European Cup,Parallel Giant Slalom,15,57.60
-97,Pink Matthaeus,Male,19-02-2022,Bakuriani,GEO,Austria,European Cup,Parallel Giant Slalom,10,93.60
-98,Pink Matthaeus,Male,06-02-2022,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,4,180.00
-99,Pink Matthaeus,Male,05-02-2022,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,DNF,
-100,Pink Matthaeus,Male,30-01-2022,Davos,SUI,Austria,European Cup,Parallel Slalom,10,93.60
-101,Pink Matthaeus,Male,29-01-2022,Davos,SUI,Austria,European Cup,Parallel Slalom,10,93.60
-102,Pink Matthaeus,Male,23-01-2022,Bukovel,UKR,Austria,European Cup,Parallel Giant Slalom,6,104.00
-103,Pink Matthaeus,Male,22-01-2022,Bukovel,UKR,Austria,European Cup,Parallel Giant Slalom,1,260.00
-104,Pink Matthaeus,Male,14-01-2022,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom,30,32.00
-105,Pink Matthaeus,Male,14-01-2022,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,30,
-106,Pink Matthaeus,Male,11-01-2022,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,DSQ,
-107,Pink Matthaeus,Male,11-01-2022,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,DSQ,
-108,Pink Matthaeus,Male,08-01-2022,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,53,
-109,Pink Matthaeus,Male,08-01-2022,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,53,14.60
-110,Pink Matthaeus,Male,19-12-2021,Moninec,CZE,Austria,European Cup,Parallel Slalom,4,110.00
-111,Pink Matthaeus,Male,18-12-2021,Moninec,CZE,Austria,European Cup,Parallel Slalom,10,52.00
-112,Pink Matthaeus,Male,12-12-2021,Götschen,GER,Austria,European Cup,Parallel Slalom,DSQ,
-113,Pink Matthaeus,Male,11-12-2021,Götschen,GER,Austria,European Cup,Parallel Slalom,3,132.00
-114,Pink Matthaeus,Male,26-03-2021,Krasnoyarsk ,RUS,Austria,FIS Junior World Championships,Parallel Slalom,7,93.60
-115,Pink Matthaeus,Male,25-03-2021,Krasnoyarsk ,RUS,Austria,FIS Junior World Championships,Parallel Giant Slalom,8,83.20
-116,Pink Matthaeus,Male,25-03-2021,Krasnoyarsk ,RUS,Austria,Qualification,Parallel Giant Slalom,8,
-117,Pink Matthaeus,Male,28-02-2021,Funes/Villnoesses,ITA,Austria,European Cup,Parallel Giant Slalom,6,104.00
-118,Pink Matthaeus,Male,27-02-2021,Funes/Villnoesses,ITA,Austria,European Cup,Parallel Giant Slalom,50,
-119,Pink Matthaeus,Male,21-02-2021,Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,56,
-120,Pink Matthaeus,Male,20-02-2021,Gerlitzen,AUT,Austria,National Championships,Parallel Giant Slalom,22,26.10
-121,Pink Matthaeus,Male,07-02-2021,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,16,33.00
-122,Pink Matthaeus,Male,06-02-2021,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,8,70.40
-123,Pink Matthaeus,Male,24-01-2021,Davos,SUI,Austria,European Cup,Parallel Slalom,29,12.96
-124,Pink Matthaeus,Male,23-01-2021,Davos,SUI,Austria,European Cup,Parallel Slalom,28,14.40
-125,Pink Matthaeus,Male,17-01-2021,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,50,5.58
-126,Pink Matthaeus,Male,16-01-2021,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,32,9.36
-127,Pink Matthaeus,Male,12-01-2021,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,40,
-128,Pink Matthaeus,Male,12-01-2021,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,40,18.50
-129,Pink Matthaeus,Male,10-01-2021,Goetschen,GER,Austria,Junior,Parallel Slalom,5,45.00
-130,Pink Matthaeus,Male,09-01-2021,Goetschen,GER,Austria,Junior,Parallel Slalom,9,29.00
-131,Pink Matthaeus,Male,20-12-2020,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Giant Slalom,10,93.60
-132,Pink Matthaeus,Male,19-12-2020,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Slalom,9,104.40
-133,Pink Matthaeus,Male,12-12-2020,Cortina d Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,40,
-134,Pink Matthaeus,Male,12-12-2020,Cortina d Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,40,18.50
-135,Pink Matthaeus,Male,08-03-2020,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,46,
-136,Pink Matthaeus,Male,07-03-2020,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,9,104.40
-137,Pink Matthaeus,Male,23-02-2020,Funes/Villnoesses,ITA,Austria,FIS,Parallel Giant Slalom,7,79.20
-138,Pink Matthaeus,Male,22-02-2020,Funes/Villnoesses,ITA,Austria,FIS,Parallel Giant Slalom,DNF1,
-139,Pink Matthaeus,Male,16-02-2020,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,41,6.55
-140,Pink Matthaeus,Male,15-02-2020,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,20,39.60
-141,Pink Matthaeus,Male,09-02-2020,Gerlitzen,AUT,Austria,FIS,Giant Slalom,29,7.92
-142,Pink Matthaeus,Male,08-02-2020,Gerlitzen,AUT,Austria,FIS,Giant Slalom,7,79.20
-143,Pink Matthaeus,Male,02-02-2020,Carezza,ITA,Austria,FIS,Giant Slalom,18,19.50
-144,Pink Matthaeus,Male,01-02-2020,Carezza,ITA,Austria,FIS,Giant Slalom,24,
-145,Pink Matthaeus,Male,26-01-2020,Gosau,AUT,Austria,FIS,Parallel Slalom,4,90.00
-146,Pink Matthaeus,Male,25-01-2020,Gosau,AUT,Austria,FIS,Parallel Slalom,4,90.00
-147,Pink Matthaeus,Male,19-01-2020,Alleghe,ITA,Austria,FIS,Parallel Slalom,1,180.00
-148,Pink Matthaeus,Male,18-01-2020,Alleghe,ITA,Austria,FIS,Parallel Slalom,4,80.00
-149,Pink Matthaeus,Male,21-12-2019,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,2,72.00
-150,Pink Matthaeus,Male,20-12-2019,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,2,72.00
-151,Pink Matthaeus,Male,15-12-2019,Cortina d Ampezzo,ITA,Austria,Junior,Parallel Slalom,1,160.00
-152,Pink Matthaeus,Male,14-12-2019,Cortina d Ampezzo,ITA,Austria,Junior,Parallel Slalom,2,72.00
-153,Pink Matthaeus,Male,07-04-2019,Racines,ITA,Austria,European Cup,Parallel Slalom,33,8.64
-154,Pink Matthaeus,Male,06-04-2019,Racines,ITA,Austria,European Cup,Parallel Slalom,17,50.40
-155,Pink Matthaeus,Male,03-04-2019,Rogla,SLO,Austria,FIS Junior World Championships,Parallel Slalom,18,46.80
-156,Pink Matthaeus,Male,02-04-2019,Rogla,SLO,Austria,FIS Junior World Championships,Parallel Giant Slalom,10,93.60
-157,Pink Matthaeus,Male,31-03-2019,Radstadt,AUT,Austria,National Championships,Parallel Giant Slalom,DNF1,
-158,Pink Matthaeus,Male,30-03-2019,Radstadt,AUT,Austria,National Championships,Parallel Slalom,16,43.50
-159,Pink Matthaeus,Male,17-03-2019,Rogla,SLO,Austria,European Cup,Parallel Giant Slalom,40,6.66
-160,Pink Matthaeus,Male,17-03-2019,Rogla,SLO,Austria,Junior,Parallel Giant Slalom,14,36.00
-161,Pink Matthaeus,Male,16-03-2019,Rogla,SLO,Austria,European Cup,Parallel Giant Slalom,44,6.23
-162,Pink Matthaeus,Male,03-03-2019,Val Senales,ITA,Austria,FIS,Parallel Slalom,5,31.50
-163,Pink Matthaeus,Male,02-03-2019,Val Senales,ITA,Austria,FIS,Parallel Slalom,5,31.50
-164,Pink Matthaeus,Male,24-02-2019,Funes/Villnoess,ITA,Austria,FIS,Parallel Giant Slalom,8,48.00
-165,Pink Matthaeus,Male,23-02-2019,Funes/Villnoess,ITA,Austria,FIS,Parallel Giant Slalom,37,2.91
-166,Pink Matthaeus,Male,17-02-2019,Simonhoehe,AUT,Austria,FIS,Parallel GS,10,41.60
-167,Pink Matthaeus,Male,16-02-2019,Simonhoehe,AUT,Austria,FIS,Parallel GS,21,16.00
-168,Pink Matthaeus,Male,10-02-2019,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,27,14.40
-169,Pink Matthaeus,Male,09-02-2019,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,11,76.80
-170,Pink Matthaeus,Male,27-01-2019,Lachtal,AUT,Austria,European Cup,Parallel GS,41,
-171,Pink Matthaeus,Male,26-01-2019,Lachtal,AUT,Austria,European Cup,Parallel GS,16,27.00
-172,Pink Matthaeus,Male,20-01-2019,Gosau,AUT,Austria,FIS,Parallel Slalom,12,24.20
-173,Pink Matthaeus,Male,19-01-2019,Gosau,AUT,Austria,FIS,Parallel Slalom,8,35.20
-174,Pink Matthaeus,Male,06-01-2019,Simonhöhe,AUT,Austria,FIS,Parallel Slalom,10,57.20
-175,Pink Matthaeus,Male,05-01-2019,Simonhöhe,AUT,Austria,FIS,Parallel Slalom,15,35.20
-176,Pink Matthaeus,Male,08-04-2018,Racines,ITA,Austria,European Cup,Parallel Slalom,13,72.00
-177,Pink Matthaeus,Male,07-04-2018,Racines,ITA,Austria,European Cup,Parallel Slalom,23,28.80
-178,Pink Matthaeus,Male,18-03-2018,Gosau,AUT,Austria,FIS,Parallel Slalom,27,
-179,Pink Matthaeus,Male,17-03-2018,Gosau,AUT,Austria,FIS,Parallel Slalom,25,
-180,Pink Matthaeus,Male,11-03-2018,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,18,31.20
-181,Pink Matthaeus,Male,10-03-2018,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,37,4.66
-182,Pink Matthaeus,Male,04-03-2018,Davos,SUI,Austria,Junior,Parallel Slalom,15,16.00
-183,Pink Matthaeus,Male,03-03-2018,Davos,SUI,Austria,Junior,Parallel Slalom,2,80.00
-184,Pink Matthaeus,Male,25-02-2018,Funes/Villnoess,ITA,Austria,FIS,Parallel GS,13,40.00
-185,Pink Matthaeus,Male,24-02-2018,Funes/Villnoess,ITA,Austria,FIS,Parallel GS,41,3.64
-186,Pink Matthaeus,Male,18-02-2018,Simonhoehe,AUT,Austria,FIS,Parallel GS,18,28.60
-187,Pink Matthaeus,Male,17-02-2018,Simonhoehe,AUT,Austria,FIS,Parallel GS,18,28.60
-188,Pink Matthaeus,Male,04-02-2018,Gerlitzen,AUT,Austria,National Championships,Parallel GS,39,
-189,Pink Matthaeus,Male,03-02-2018,Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,19,34.80
-190,Pink Matthaeus,Male,21-01-2018,Lachtal,AUT,Austria,European Cup,Parallel GS,33,4.80
-191,Pink Matthaeus,Male,20-01-2018,Lachtal,AUT,Austria,European Cup,Parallel GS,DSQ1,
-192,Pink Matthaeus,Male,14-01-2018,Goetschen,GER,Austria,Junior,Parallel GS,5,45.00
-193,Pink Matthaeus,Male,23-12-2017,Haus im Ennstal,AUT,Austria,Junior,Parallel GS,31,
-194,Pink Matthaeus,Male,22-12-2017,Haus im Ennstal,AUT,Austria,Junior,Parallel GS,4,45.00
-195,Pink Matthaeus,Male,12-03-2017,Tauplitz,AUT,Austria,FIS,Parallel Slalom,21,22.00
-196,Pink Matthaeus,Male,11-03-2017,Tauplitz,AUT,Austria,FIS,Parallel Slalom,19,26.40
-197,Pink Matthaeus,Male,05-03-2017,Funes/Villnoss,ITA,Austria,FIS,Giant Slalom,36,3.15
-198,Pink Matthaeus,Male,04-03-2017,Funes/Villnoss,ITA,Austria,FIS,Giant Slalom,17,22.40
-199,Pink Matthaeus,Male,29-01-2017,Falkert,AUT,Austria,FIS,Slalom,15,24.00
-200,Pink Matthaeus,Male,28-01-2017,Falkert,AUT,Austria,FIS,Slalom,17,21.00
-201,Pink Matthaeus,Male,15-01-2017,Hochficht,AUT,Austria,National Championships,Parallel Slalom,33,6.96
-202,Pink Matthaeus,Male,14-01-2017,Hochficht,AUT,Austria,National Championships,Parallel GS,38,5.54
-203,Pink Matthaeus,Male,11-12-2016,Haus im Ennstal,AUT,Austria,Junior,Parallel GS,22,4.50
-204,Pink Matthaeus,Male,10-12-2016,Haus im Ennstal,AUT,Austria,Junior,Parallel GS,15,8.00
+0,Pink Matthaeus,Male,16-02-2025,Val St. Come,CAN,Austria,Qualification,Parallel Giant Slalom,32,
+1,Pink Matthaeus,Male,16-02-2025,Val St. Come,CAN,Austria,World Cup,Parallel Giant Slalom,32,
+2,Pink Matthaeus,Male,15-02-2025,Val St. Come,CAN,Austria,Qualification,Parallel Giant Slalom,25,
+3,Pink Matthaeus,Male,15-02-2025,Val St. Come,CAN,Austria,World Cup,Parallel Giant Slalom,25,
+4,Pink Matthaeus,Male,09-02-2025,Simonhoehe,AUT,Austria,National Championships,Parallel Slalom,9,84.10
+5,Pink Matthaeus,Male,08-02-2025,Simonhoehe,AUT,Austria,National Championships,Parallel Giant Slalom,11,69.60
+6,Pink Matthaeus,Male,25-01-2025,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,17,
+7,Pink Matthaeus,Male,25-01-2025,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,17,140.00
+8,Pink Matthaeus,Male,22-01-2025,Bardonecchia,ITA,Austria,Universiade,Parallel Slalom,1,260.00
+9,Pink Matthaeus,Male,21-01-2025,Bardonecchia,ITA,Austria,Universiade,Parallel Giant Slalom,9,75.40
+10,Pink Matthaeus,Male,19-01-2025,Bansko,BUL,Austria,Qualification,Parallel Giant Slalom,24,
+11,Pink Matthaeus,Male,19-01-2025,Bansko,BUL,Austria,World Cup,Parallel Giant Slalom,24,70.00
+12,Pink Matthaeus,Male,18-01-2025,Bansko,BUL,Austria,Qualification,Parallel Giant Slalom,24,
+13,Pink Matthaeus,Male,18-01-2025,Bansko,BUL,Austria,World Cup,Parallel Giant Slalom,24,70.00
+14,Pink Matthaeus,Male,15-01-2025,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,9,
+15,Pink Matthaeus,Male,14-01-2025,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,24,
+16,Pink Matthaeus,Male,14-01-2025,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,24,70.00
+17,Pink Matthaeus,Male,11-01-2025,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,27,
+18,Pink Matthaeus,Male,11-01-2025,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,27,45.00
+19,Pink Matthaeus,Male,21-12-2024,Davos,SUI,Austria,Qualification,Parallel Slalom,DSQ,
+20,Pink Matthaeus,Male,21-12-2024,Davos,SUI,Austria,World Cup,Parallel Slalom,DSQ,
+21,Pink Matthaeus,Male,14-12-2024,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,16,
+22,Pink Matthaeus,Male,14-12-2024,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,16,150.00
+23,Pink Matthaeus,Male,12-12-2024,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,29,
+24,Pink Matthaeus,Male,12-12-2024,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,29,36.00
+25,Pink Matthaeus,Male,08-12-2024,Yanqing (NASC),CHN,Austria,World Cup,Parallel Slalom,15,160.00
+26,Pink Matthaeus,Male,08-12-2024,Yanqing (NASC),CHN,Austria,Qualification,Parallel Slalom,14,
+27,Pink Matthaeus,Male,07-12-2024,Yanqing (NASC),CHN,Austria,World Cup,Parallel Giant Slalom,24,70.00
+28,Pink Matthaeus,Male,07-12-2024,Yanqing (NASC),CHN,Austria,Qualification,Parallel Giant Slalom,24,
+29,Pink Matthaeus,Male,01-12-2024,Mylin,CHN,Austria,World Cup,Parallel Slalom,8,320.00
+30,Pink Matthaeus,Male,01-12-2024,Mylin,CHN,Austria,Qualification,Parallel Slalom,16,
+31,Pink Matthaeus,Male,30-11-2024,Mylin,CHN,Austria,World Cup,Parallel Giant Slalom,38,19.10
+32,Pink Matthaeus,Male,30-11-2024,Mylin,CHN,Austria,Qualification,Parallel Giant Slalom,38,
+33,Pink Matthaeus,Male,17-03-2024,St. Moritz,SUI,Austria,European Cup,Parallel Slalom,DSQ,
+34,Pink Matthaeus,Male,16-03-2024,St. Moritz,SUI,Austria,European Cup,Parallel Giant Slalom,27,16.20
+35,Pink Matthaeus,Male,09-03-2024,Winterberg,GER,Austria,Qualification,Parallel Slalom,22,
+36,Pink Matthaeus,Male,09-03-2024,Winterberg,GER,Austria,World Cup,Parallel Slalom,22,90.00
+37,Pink Matthaeus,Male,25-02-2024,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,37,
+38,Pink Matthaeus,Male,25-02-2024,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,37,
+39,Pink Matthaeus,Male,24-02-2024,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,33,
+40,Pink Matthaeus,Male,24-02-2024,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,33,24.00
+41,Pink Matthaeus,Male,27-01-2024,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,33,
+42,Pink Matthaeus,Male,27-01-2024,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom,33,24.00
+43,Pink Matthaeus,Male,25-01-2024,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,DSQ,
+44,Pink Matthaeus,Male,25-01-2024,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,DSQ,
+45,Pink Matthaeus,Male,21-01-2024,Pamporovo,BUL,Austria,Qualification,Parallel Slalom,18,
+46,Pink Matthaeus,Male,21-01-2024,Pamporovo,BUL,Austria,World Cup,Parallel Slalom,18,130.00
+47,Pink Matthaeus,Male,20-01-2024,Pamporovo,BUL,Austria,Qualification,Parallel Slalom,37,
+48,Pink Matthaeus,Male,20-01-2024,Pamporovo,BUL,Austria,World Cup,Parallel Slalom,37,19.40
+49,Pink Matthaeus,Male,16-01-2024,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,21,
+50,Pink Matthaeus,Male,16-01-2024,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,21,100.00
+51,Pink Matthaeus,Male,13-01-2024,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,23,
+52,Pink Matthaeus,Male,13-01-2024,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,23,80.00
+53,Pink Matthaeus,Male,23-12-2023,Davos,SUI,Austria,Qualification,Parallel Slalom,13,
+54,Pink Matthaeus,Male,23-12-2023,Davos ,SUI,Austria,World Cup,Parallel Slalom,13,200.00
+55,Pink Matthaeus,Male,16-12-2023,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,16,
+56,Pink Matthaeus,Male,16-12-2023,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,16,150.00
+57,Pink Matthaeus,Male,14-12-2023,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,31,
+58,Pink Matthaeus,Male,14-12-2023,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,31,28.00
+59,Pink Matthaeus,Male,08-12-2023,Götschen,GER,Austria,Qualification,Parallel Slalom,27,
+60,Pink Matthaeus,Male,08-12-2023,Götschen,GER,Austria,European Cup,Parallel Slalom,27,16.20
+61,Pink Matthaeus,Male,02-04-2023,Haus im Ennstal,AUT,Austria,National Championships,Parallel Slalom,3,174.00
+62,Pink Matthaeus,Male,01-04-2023,Haus im Ennstal,AUT,Austria,National Championships,Parallel Giant Slalom,1,290.00
+63,Pink Matthaeus,Male,18-03-2023,Berchtesgaden,GER,Austria,Qualification,Parallel Slalom,30,
+64,Pink Matthaeus,Male,18-03-2023,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,30,32.00
+65,Pink Matthaeus,Male,15-03-2023,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,25,60.00
+66,Pink Matthaeus,Male,15-03-2023,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,25,
+67,Pink Matthaeus,Male,05-03-2023,Zakopane,POL,Austria,European Cup,Parallel Giant Slalom,2,256.00
+68,Pink Matthaeus,Male,04-03-2023,Zakopane,POL,Austria,European Cup,Parallel Giant Slalom,8,115.20
+69,Pink Matthaeus,Male,31-01-2023,Blue,CAN,Austria,Nor-Am Cup,Parallel Slalom,6,96.00
+70,Pink Matthaeus,Male,30-01-2023,Blue,CAN,Austria,Nor-Am Cup,Parallel Giant Slalom,23,19.20
+71,Pink Matthaeus,Male,27-01-2023,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,27,
+72,Pink Matthaeus,Male,27-01-2023,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,27,45.00
+73,Pink Matthaeus,Male,26-01-2023,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,31,
+74,Pink Matthaeus,Male,26-01-2023,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,31,28.00
+75,Pink Matthaeus,Male,22-01-2023,Gore Mountain,USA,Austria,Universiade,Parallel Slalom,1,220.00
+76,Pink Matthaeus,Male,22-01-2023,Gore Mountain,USA,Austria,Qualification,Parallel Slalom,2,
+77,Pink Matthaeus,Male,21-01-2023,Gore Mountain,USA,Austria,Universiade,Parallel Giant Slalom,2,176.00
+78,Pink Matthaeus,Male,21-01-2023,Gore Mountain,USA,Austria,Qualification,Parallel Giant Slalom,3,
+79,Pink Matthaeus,Male,14-01-2023,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,DSQ,
+80,Pink Matthaeus,Male,14-01-2023,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,DSQ,
+81,Pink Matthaeus,Male,10-01-2023,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,37,
+82,Pink Matthaeus,Male,10-01-2023,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,31,28.00
+83,Pink Matthaeus,Male,17-12-2022,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,DNF,
+84,Pink Matthaeus,Male,17-12-2022,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,DNF,
+85,Pink Matthaeus,Male,15-12-2022,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,33,
+86,Pink Matthaeus,Male,15-12-2022,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,33,24.00
+87,Pink Matthaeus,Male,11-12-2022,Winterberg,GER,Austria,World Cup,Parallel Slalom,7,360.00
+88,Pink Matthaeus,Male,10-12-2022,Winterberg,GER,Austria,Qualification,Parallel Slalom,9,
+89,Pink Matthaeus,Male,27-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,4,145.00
+90,Pink Matthaeus,Male,26-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Giant Slalom,5,130.50
+91,Pink Matthaeus,Male,19-03-2022,Berchtesgaden,GER,Austria,Qualification,Parallel Slalom,18,
+92,Pink Matthaeus,Male,19-03-2022,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,18,130.00
+93,Pink Matthaeus,Male,17-03-2022,Rogla,SLO,Austria,European Cup,Parallel Giant Slalom,12,70.40
+94,Pink Matthaeus,Male,16-03-2022,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,20,
+95,Pink Matthaeus,Male,16-03-2022,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,20,110.00
+96,Pink Matthaeus,Male,06-03-2022,Lachtal,AUT,Austria,European Cup,Parallel Giant Slalom,3,216.00
+97,Pink Matthaeus,Male,05-03-2022,Lachtal,AUT,Austria,European Cup,Parallel Giant Slalom,9,104.40
+98,Pink Matthaeus,Male,27-02-2022,Simonhöhe,AUT,Austria,FIS,Parallel Giant Slalom,2,176.00
+99,Pink Matthaeus,Male,26-02-2022,Simonhöhe,AUT,Austria,FIS,Parallel Giant Slalom,2,176.00
+100,Pink Matthaeus,Male,20-02-2022,Bakuriani,GEO,Austria,European Cup,Parallel Giant Slalom,15,57.60
+101,Pink Matthaeus,Male,19-02-2022,Bakuriani,GEO,Austria,European Cup,Parallel Giant Slalom,10,93.60
+102,Pink Matthaeus,Male,06-02-2022,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,4,180.00
+103,Pink Matthaeus,Male,05-02-2022,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,DNF,
+104,Pink Matthaeus,Male,30-01-2022,Davos,SUI,Austria,European Cup,Parallel Slalom,10,93.60
+105,Pink Matthaeus,Male,29-01-2022,Davos,SUI,Austria,European Cup,Parallel Slalom,10,93.60
+106,Pink Matthaeus,Male,23-01-2022,Bukovel,UKR,Austria,European Cup,Parallel Giant Slalom,6,104.00
+107,Pink Matthaeus,Male,22-01-2022,Bukovel,UKR,Austria,European Cup,Parallel Giant Slalom,1,260.00
+108,Pink Matthaeus,Male,14-01-2022,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom,30,32.00
+109,Pink Matthaeus,Male,14-01-2022,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,30,
+110,Pink Matthaeus,Male,11-01-2022,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,DSQ,
+111,Pink Matthaeus,Male,11-01-2022,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,DSQ,
+112,Pink Matthaeus,Male,08-01-2022,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,53,
+113,Pink Matthaeus,Male,08-01-2022,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,53,14.60
+114,Pink Matthaeus,Male,19-12-2021,Moninec,CZE,Austria,European Cup,Parallel Slalom,4,110.00
+115,Pink Matthaeus,Male,18-12-2021,Moninec,CZE,Austria,European Cup,Parallel Slalom,10,52.00
+116,Pink Matthaeus,Male,12-12-2021,Götschen,GER,Austria,European Cup,Parallel Slalom,DSQ,
+117,Pink Matthaeus,Male,11-12-2021,Götschen,GER,Austria,European Cup,Parallel Slalom,3,132.00
+118,Pink Matthaeus,Male,26-03-2021,Krasnoyarsk ,RUS,Austria,FIS Junior World Championships,Parallel Slalom,7,93.60
+119,Pink Matthaeus,Male,25-03-2021,Krasnoyarsk ,RUS,Austria,FIS Junior World Championships,Parallel Giant Slalom,8,83.20
+120,Pink Matthaeus,Male,25-03-2021,Krasnoyarsk ,RUS,Austria,Qualification,Parallel Giant Slalom,8,
+121,Pink Matthaeus,Male,28-02-2021,Funes/Villnoesses,ITA,Austria,European Cup,Parallel Giant Slalom,6,104.00
+122,Pink Matthaeus,Male,27-02-2021,Funes/Villnoesses,ITA,Austria,European Cup,Parallel Giant Slalom,50,
+123,Pink Matthaeus,Male,21-02-2021,Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,56,
+124,Pink Matthaeus,Male,20-02-2021,Gerlitzen,AUT,Austria,National Championships,Parallel Giant Slalom,22,26.10
+125,Pink Matthaeus,Male,07-02-2021,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,16,33.00
+126,Pink Matthaeus,Male,06-02-2021,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,8,70.40
+127,Pink Matthaeus,Male,24-01-2021,Davos,SUI,Austria,European Cup,Parallel Slalom,29,12.96
+128,Pink Matthaeus,Male,23-01-2021,Davos,SUI,Austria,European Cup,Parallel Slalom,28,14.40
+129,Pink Matthaeus,Male,17-01-2021,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,50,5.58
+130,Pink Matthaeus,Male,16-01-2021,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,32,9.36
+131,Pink Matthaeus,Male,12-01-2021,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,40,
+132,Pink Matthaeus,Male,12-01-2021,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,40,18.50
+133,Pink Matthaeus,Male,10-01-2021,Goetschen,GER,Austria,Junior,Parallel Slalom,5,45.00
+134,Pink Matthaeus,Male,09-01-2021,Goetschen,GER,Austria,Junior,Parallel Slalom,9,29.00
+135,Pink Matthaeus,Male,20-12-2020,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Giant Slalom,10,93.60
+136,Pink Matthaeus,Male,19-12-2020,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Slalom,9,104.40
+137,Pink Matthaeus,Male,12-12-2020,Cortina d Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,40,
+138,Pink Matthaeus,Male,12-12-2020,Cortina d Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,40,18.50
+139,Pink Matthaeus,Male,08-03-2020,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,46,
+140,Pink Matthaeus,Male,07-03-2020,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,9,104.40
+141,Pink Matthaeus,Male,23-02-2020,Funes/Villnoesses,ITA,Austria,FIS,Parallel Giant Slalom,7,79.20
+142,Pink Matthaeus,Male,22-02-2020,Funes/Villnoesses,ITA,Austria,FIS,Parallel Giant Slalom,DNF1,
+143,Pink Matthaeus,Male,16-02-2020,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,41,6.55
+144,Pink Matthaeus,Male,15-02-2020,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,20,39.60
+145,Pink Matthaeus,Male,09-02-2020,Gerlitzen,AUT,Austria,FIS,Giant Slalom,29,7.92
+146,Pink Matthaeus,Male,08-02-2020,Gerlitzen,AUT,Austria,FIS,Giant Slalom,7,79.20
+147,Pink Matthaeus,Male,02-02-2020,Carezza,ITA,Austria,FIS,Giant Slalom,18,19.50
+148,Pink Matthaeus,Male,01-02-2020,Carezza,ITA,Austria,FIS,Giant Slalom,24,
+149,Pink Matthaeus,Male,26-01-2020,Gosau,AUT,Austria,FIS,Parallel Slalom,4,90.00
+150,Pink Matthaeus,Male,25-01-2020,Gosau,AUT,Austria,FIS,Parallel Slalom,4,90.00
+151,Pink Matthaeus,Male,19-01-2020,Alleghe,ITA,Austria,FIS,Parallel Slalom,1,180.00
+152,Pink Matthaeus,Male,18-01-2020,Alleghe,ITA,Austria,FIS,Parallel Slalom,4,80.00
+153,Pink Matthaeus,Male,21-12-2019,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,2,72.00
+154,Pink Matthaeus,Male,20-12-2019,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,2,72.00
+155,Pink Matthaeus,Male,15-12-2019,Cortina d Ampezzo,ITA,Austria,Junior,Parallel Slalom,1,160.00
+156,Pink Matthaeus,Male,14-12-2019,Cortina d Ampezzo,ITA,Austria,Junior,Parallel Slalom,2,72.00
+157,Pink Matthaeus,Male,07-04-2019,Racines,ITA,Austria,European Cup,Parallel Slalom,33,8.64
+158,Pink Matthaeus,Male,06-04-2019,Racines,ITA,Austria,European Cup,Parallel Slalom,17,50.40
+159,Pink Matthaeus,Male,03-04-2019,Rogla,SLO,Austria,FIS Junior World Championships,Parallel Slalom,18,46.80
+160,Pink Matthaeus,Male,02-04-2019,Rogla,SLO,Austria,FIS Junior World Championships,Parallel Giant Slalom,10,93.60
+161,Pink Matthaeus,Male,31-03-2019,Radstadt,AUT,Austria,National Championships,Parallel Giant Slalom,DNF1,
+162,Pink Matthaeus,Male,30-03-2019,Radstadt,AUT,Austria,National Championships,Parallel Slalom,16,43.50
+163,Pink Matthaeus,Male,17-03-2019,Rogla,SLO,Austria,European Cup,Parallel Giant Slalom,40,6.66
+164,Pink Matthaeus,Male,17-03-2019,Rogla,SLO,Austria,Junior,Parallel Giant Slalom,14,36.00
+165,Pink Matthaeus,Male,16-03-2019,Rogla,SLO,Austria,European Cup,Parallel Giant Slalom,44,6.23
+166,Pink Matthaeus,Male,03-03-2019,Val Senales,ITA,Austria,FIS,Parallel Slalom,5,31.50
+167,Pink Matthaeus,Male,02-03-2019,Val Senales,ITA,Austria,FIS,Parallel Slalom,5,31.50
+168,Pink Matthaeus,Male,24-02-2019,Funes/Villnoess,ITA,Austria,FIS,Parallel Giant Slalom,8,48.00
+169,Pink Matthaeus,Male,23-02-2019,Funes/Villnoess,ITA,Austria,FIS,Parallel Giant Slalom,37,2.91
+170,Pink Matthaeus,Male,17-02-2019,Simonhoehe,AUT,Austria,FIS,Parallel GS,10,41.60
+171,Pink Matthaeus,Male,16-02-2019,Simonhoehe,AUT,Austria,FIS,Parallel GS,21,16.00
+172,Pink Matthaeus,Male,10-02-2019,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,27,14.40
+173,Pink Matthaeus,Male,09-02-2019,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,11,76.80
+174,Pink Matthaeus,Male,27-01-2019,Lachtal,AUT,Austria,European Cup,Parallel GS,41,
+175,Pink Matthaeus,Male,26-01-2019,Lachtal,AUT,Austria,European Cup,Parallel GS,16,27.00
+176,Pink Matthaeus,Male,20-01-2019,Gosau,AUT,Austria,FIS,Parallel Slalom,12,24.20
+177,Pink Matthaeus,Male,19-01-2019,Gosau,AUT,Austria,FIS,Parallel Slalom,8,35.20
+178,Pink Matthaeus,Male,06-01-2019,Simonhöhe,AUT,Austria,FIS,Parallel Slalom,10,57.20
+179,Pink Matthaeus,Male,05-01-2019,Simonhöhe,AUT,Austria,FIS,Parallel Slalom,15,35.20
+180,Pink Matthaeus,Male,08-04-2018,Racines,ITA,Austria,European Cup,Parallel Slalom,13,72.00
+181,Pink Matthaeus,Male,07-04-2018,Racines,ITA,Austria,European Cup,Parallel Slalom,23,28.80
+182,Pink Matthaeus,Male,18-03-2018,Gosau,AUT,Austria,FIS,Parallel Slalom,27,
+183,Pink Matthaeus,Male,17-03-2018,Gosau,AUT,Austria,FIS,Parallel Slalom,25,
+184,Pink Matthaeus,Male,11-03-2018,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,18,31.20
+185,Pink Matthaeus,Male,10-03-2018,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,37,4.66
+186,Pink Matthaeus,Male,04-03-2018,Davos,SUI,Austria,Junior,Parallel Slalom,15,16.00
+187,Pink Matthaeus,Male,03-03-2018,Davos,SUI,Austria,Junior,Parallel Slalom,2,80.00
+188,Pink Matthaeus,Male,25-02-2018,Funes/Villnoess,ITA,Austria,FIS,Parallel GS,13,40.00
+189,Pink Matthaeus,Male,24-02-2018,Funes/Villnoess,ITA,Austria,FIS,Parallel GS,41,3.64
+190,Pink Matthaeus,Male,18-02-2018,Simonhoehe,AUT,Austria,FIS,Parallel GS,18,28.60
+191,Pink Matthaeus,Male,17-02-2018,Simonhoehe,AUT,Austria,FIS,Parallel GS,18,28.60
+192,Pink Matthaeus,Male,04-02-2018,Gerlitzen,AUT,Austria,National Championships,Parallel GS,39,
+193,Pink Matthaeus,Male,03-02-2018,Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,19,34.80
+194,Pink Matthaeus,Male,21-01-2018,Lachtal,AUT,Austria,European Cup,Parallel GS,33,4.80
+195,Pink Matthaeus,Male,20-01-2018,Lachtal,AUT,Austria,European Cup,Parallel GS,DSQ1,
+196,Pink Matthaeus,Male,14-01-2018,Goetschen,GER,Austria,Junior,Parallel GS,5,45.00
+197,Pink Matthaeus,Male,23-12-2017,Haus im Ennstal,AUT,Austria,Junior,Parallel GS,31,
+198,Pink Matthaeus,Male,22-12-2017,Haus im Ennstal,AUT,Austria,Junior,Parallel GS,4,45.00
+199,Pink Matthaeus,Male,12-03-2017,Tauplitz,AUT,Austria,FIS,Parallel Slalom,21,22.00
+200,Pink Matthaeus,Male,11-03-2017,Tauplitz,AUT,Austria,FIS,Parallel Slalom,19,26.40
+201,Pink Matthaeus,Male,05-03-2017,Funes/Villnoss,ITA,Austria,FIS,Giant Slalom,36,3.15
+202,Pink Matthaeus,Male,04-03-2017,Funes/Villnoss,ITA,Austria,FIS,Giant Slalom,17,22.40
+203,Pink Matthaeus,Male,29-01-2017,Falkert,AUT,Austria,FIS,Slalom,15,24.00
+204,Pink Matthaeus,Male,28-01-2017,Falkert,AUT,Austria,FIS,Slalom,17,21.00
+205,Pink Matthaeus,Male,15-01-2017,Hochficht,AUT,Austria,National Championships,Parallel Slalom,33,6.96
+206,Pink Matthaeus,Male,14-01-2017,Hochficht,AUT,Austria,National Championships,Parallel GS,38,5.54
+207,Pink Matthaeus,Male,11-12-2016,Haus im Ennstal,AUT,Austria,Junior,Parallel GS,22,4.50
+208,Pink Matthaeus,Male,10-12-2016,Haus im Ennstal,AUT,Austria,Junior,Parallel GS,15,8.00

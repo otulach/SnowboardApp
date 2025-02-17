@@ -1,451 +1,455 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Baumeister Stefan,Male,02-02-2025,Ratschings,ITA,Germany,European Cup,Parallel Slalom,1,260.00
-1,Baumeister Stefan,Male,02-02-2025,Ratschings,ITA,Germany,Qualification,Parallel Slalom,6,
-2,Baumeister Stefan,Male,01-02-2025,Ratschings,ITA,Germany,European Cup,Parallel Slalom,1,290.00
-3,Baumeister Stefan,Male,01-02-2025,Ratschings,ITA,Germany,Qualification,Parallel Slalom,2,
-4,Baumeister Stefan,Male,25-01-2025,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,21,
-5,Baumeister Stefan,Male,25-01-2025,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,21,100.00
-6,Baumeister Stefan,Male,19-01-2025,Bansko,BUL,Germany,Qualification,Parallel Giant Slalom,17,
-7,Baumeister Stefan,Male,19-01-2025,Bansko,BUL,Germany,World Cup,Parallel Giant Slalom,17,140.00
-8,Baumeister Stefan,Male,18-01-2025,Bansko,BUL,Germany,Qualification,Parallel Giant Slalom,19,
-9,Baumeister Stefan,Male,18-01-2025,Bansko,BUL,Germany,World Cup,Parallel Giant Slalom,19,120.00
-10,Baumeister Stefan,Male,15-01-2025,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom Team,2,
-11,Baumeister Stefan,Male,14-01-2025,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,9,
-12,Baumeister Stefan,Male,14-01-2025,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,11,240.00
-13,Baumeister Stefan,Male,11-01-2025,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,30,
-14,Baumeister Stefan,Male,11-01-2025,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,30,32.00
-15,Baumeister Stefan,Male,21-12-2024,Davos,SUI,Germany,Qualification,Parallel Slalom,31,
-16,Baumeister Stefan,Male,21-12-2024,Davos,SUI,Germany,World Cup,Parallel Slalom,31,28.00
-17,Baumeister Stefan,Male,14-12-2024,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,30,
-18,Baumeister Stefan,Male,14-12-2024,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,30,32.00
-19,Baumeister Stefan,Male,12-12-2024,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,32,
-20,Baumeister Stefan,Male,12-12-2024,Carezza,ITA,Germany,World Cup,Parallel Giant Slalom,32,26.00
-21,Baumeister Stefan,Male,08-12-2024,Yanqing (NASC),CHN,Germany,World Cup,Parallel Slalom,7,360.00
-22,Baumeister Stefan,Male,08-12-2024,Yanqing (NASC),CHN,Germany,Qualification,Parallel Slalom,13,
-23,Baumeister Stefan,Male,07-12-2024,Yanqing (NASC),CHN,Germany,World Cup,Parallel Giant Slalom,14,180.00
-24,Baumeister Stefan,Male,07-12-2024,Yanqing (NASC),CHN,Germany,Qualification,Parallel Giant Slalom,14,
-25,Baumeister Stefan,Male,01-12-2024,Mylin,CHN,Germany,World Cup,Parallel Slalom,10,260.00
-26,Baumeister Stefan,Male,01-12-2024,Mylin,CHN,Germany,Qualification,Parallel Slalom,3,
-27,Baumeister Stefan,Male,30-11-2024,Mylin,CHN,Germany,World Cup,Parallel Giant Slalom,18,130.00
-28,Baumeister Stefan,Male,30-11-2024,Mylin,CHN,Germany,Qualification,Parallel Giant Slalom,18,
-29,Baumeister Stefan,Male,17-03-2024,St. Moritz,SUI,Germany,European Cup,Parallel Slalom,DSQ,
-30,Baumeister Stefan,Male,16-03-2024,St. Moritz,SUI,Germany,European Cup,Parallel Giant Slalom,19,43.20
-31,Baumeister Stefan,Male,13-03-2024,Davos/Rinerhorn ,SUI,Germany,European Cup,Parallel Giant Slalom,1,360.00
-32,Baumeister Stefan,Male,12-03-2024,Davos/Rinerhorn ,SUI,Germany,European Cup,Parallel Giant Slalom,3,216.00
-33,Baumeister Stefan,Male,10-03-2024,Winterberg,GER,Germany,World Cup,Parallel Slalom Team,6,
-34,Baumeister Stefan,Male,09-03-2024,Winterberg,GER,Germany,Qualification,Parallel Slalom,21,
-35,Baumeister Stefan,Male,09-03-2024,Winterberg,GER,Germany,World Cup,Parallel Slalom,21,100.00
-36,Baumeister Stefan,Male,25-02-2024,Krynica,POL,Germany,Qualification,Parallel Giant Slalom,21,
-37,Baumeister Stefan,Male,25-02-2024,Krynica,POL,Germany,World Cup,Parallel Giant Slalom,21,100.00
-38,Baumeister Stefan,Male,24-02-2024,Krynica,POL,Germany,Qualification,Parallel Giant Slalom,21,
-39,Baumeister Stefan,Male,24-02-2024,Krynica,POL,Germany,World Cup,Parallel Giant Slalom,21,100.00
-40,Baumeister Stefan,Male,09-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Slalom,10,75.40
-41,Baumeister Stefan,Male,08-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Giant Slalom,7,104.40
-42,Baumeister Stefan,Male,28-01-2024,Simonhöhe,AUT,Germany,World Cup,Parallel Giant Slalom Team,17,
-43,Baumeister Stefan,Male,27-01-2024,Simonhöhe,AUT,Germany,Qualification,Parallel Giant Slalom,29,
-44,Baumeister Stefan,Male,27-01-2024,Simonhöhe,AUT,Germany,World Cup,Parallel Giant Slalom,29,36.00
-45,Baumeister Stefan,Male,25-01-2024,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,DSQ,
-46,Baumeister Stefan,Male,25-01-2024,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,DSQ,
-47,Baumeister Stefan,Male,21-01-2024,Pamporovo,BUL,Germany,Qualification,Parallel Slalom,12,
-48,Baumeister Stefan,Male,21-01-2024,Pamporovo,BUL,Germany,World Cup,Parallel Slalom,14,180.00
-49,Baumeister Stefan,Male,20-01-2024,Pamporovo,BUL,Germany,Qualification,Parallel Slalom,17,
-50,Baumeister Stefan,Male,20-01-2024,Pamporovo,BUL,Germany,World Cup,Parallel Slalom,17,140.00
-51,Baumeister Stefan,Male,17-01-2024,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom Team,3,
-52,Baumeister Stefan,Male,16-01-2024,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,9,
-53,Baumeister Stefan,Male,16-01-2024,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,7,360.00
-54,Baumeister Stefan,Male,13-01-2024,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,18,
-55,Baumeister Stefan,Male,13-01-2024,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,18,130.00
-56,Baumeister Stefan,Male,23-12-2023,Davos,SUI,Germany,Qualification,Parallel Slalom,16,
-57,Baumeister Stefan,Male,23-12-2023,Davos ,SUI,Germany,World Cup,Parallel Slalom,16,150.00
-58,Baumeister Stefan,Male,16-12-2023,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,DSQ,
-59,Baumeister Stefan,Male,16-12-2023,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,DSQ,
-60,Baumeister Stefan,Male,14-12-2023,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,19,
-61,Baumeister Stefan,Male,14-12-2023,Carezza,ITA,Germany,World Cup,Parallel Giant Slalom,19,120.00
-62,Baumeister Stefan,Male,30-03-2023,Cortina dAmpezzo,ITA,Germany,National Championships,Parallel Slalom,10,75.40
-63,Baumeister Stefan,Male,19-03-2023,Berchtesgaden,GER,Germany,World Cup,Parallel Slalom Team,11,
-64,Baumeister Stefan,Male,18-03-2023,Berchtesgaden,GER,Germany,Qualification,Parallel Slalom,DNF,
-65,Baumeister Stefan,Male,18-03-2023,Berchtesgaden,GER,Germany,World Cup,Parallel Slalom,DNF,
-66,Baumeister Stefan,Male,15-03-2023,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,13,200.00
-67,Baumeister Stefan,Male,15-03-2023,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,12,
-68,Baumeister Stefan,Male,04-03-2023,Zakopane,POL,Germany,European Cup,Parallel Giant Slalom,32,9.36
-69,Baumeister Stefan,Male,22-02-2023,Bakuriani,GEO,Germany,World Championships,Parallel Slalom Team,7,
-70,Baumeister Stefan,Male,21-02-2023,Bakuriani,GEO,Germany,Qualification,Parallel Slalom,31,
-71,Baumeister Stefan,Male,21-02-2023,Bakuriani,GEO,Germany,World Championships,Parallel Slalom,31,28.00
-72,Baumeister Stefan,Male,19-02-2023,Bakuriani,GEO,Germany,Qualification,Parallel Giant Slalom,31,
-73,Baumeister Stefan,Male,19-02-2023,Bakuriani,GEO,Germany,World Championships,Parallel Giant Slalom,31,28.00
-74,Baumeister Stefan,Male,27-01-2023,Blue Mountain,CAN,Germany,Qualification,Parallel Giant Slalom,6,
-75,Baumeister Stefan,Male,27-01-2023,Blue Mountain,CAN,Germany,World Cup,Parallel Giant Slalom,6,400.00
-76,Baumeister Stefan,Male,26-01-2023,Blue Mountain,CAN,Germany,Qualification,Parallel Giant Slalom,4,
-77,Baumeister Stefan,Male,26-01-2023,Blue Mountain,CAN,Germany,World Cup,Parallel Giant Slalom,9,290.00
-78,Baumeister Stefan,Male,22-01-2023,Bansko,BUL,Germany,Qualification,Parallel Slalom,5,
-79,Baumeister Stefan,Male,22-01-2023,Bansko,BUL,Germany,World Cup,Parallel Slalom,3,600.00
-80,Baumeister Stefan,Male,21-01-2023,Bansko,BUL,Germany,Qualification,Parallel Slalom,16,
-81,Baumeister Stefan,Male,21-01-2023,Bansko,BUL,Germany,World Cup,Parallel Slalom,16,150.00
-82,Baumeister Stefan,Male,14-01-2023,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,23,
-83,Baumeister Stefan,Male,14-01-2023,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,23,80.00
-84,Baumeister Stefan,Male,11-01-2023,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom Team,2,
-85,Baumeister Stefan,Male,10-01-2023,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,2,
-86,Baumeister Stefan,Male,10-01-2023,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,3,600.00
-87,Baumeister Stefan,Male,17-12-2022,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,7,
-88,Baumeister Stefan,Male,17-12-2022,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,9,290.00
-89,Baumeister Stefan,Male,15-12-2022,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,17,
-90,Baumeister Stefan,Male,15-12-2022,Carezza,ITA,Germany,World Cup,Parallel Giant Slalom,17,140.00
-91,Baumeister Stefan,Male,11-12-2022,Winterberg,GER,Germany,World Cup,Parallel Slalom,3,600.00
-92,Baumeister Stefan,Male,10-12-2022,Winterberg,GER,Germany,Qualification,Parallel Slalom,4,
-93,Baumeister Stefan,Male,10-12-2022,Winterberg,GER,Germany,World Cup,Parallel Slalom Team,9,
-94,Baumeister Stefan,Male,20-03-2022,Berchtesgaden,GER,Germany,World Cup,Parallel  Slalom Team,1,
-95,Baumeister Stefan,Male,19-03-2022,Berchtesgaden,GER,Germany,Qualification,Parallel Slalom,4,
-96,Baumeister Stefan,Male,19-03-2022,Berchtesgaden,GER,Germany,World Cup,Parallel Slalom,6,400.00
-97,Baumeister Stefan,Male,16-03-2022,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,21,
-98,Baumeister Stefan,Male,16-03-2022,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,21,100.00
-99,Baumeister Stefan,Male,12-03-2022,Piancavallo,ITA,Germany,Qualification,Parallel Slalom,5,
-100,Baumeister Stefan,Male,12-03-2022,Piancavallo,ITA,Germany,World Cup,Parallel Slalom,4,500.00
-101,Baumeister Stefan,Male,20-02-2022,Bakuriani,GEO,Germany,European Cup,Parallel Giant Slalom,1,360.00
-102,Baumeister Stefan,Male,19-02-2022,Bakuriani,GEO,Germany,European Cup,Parallel Giant Slalom,3,216.00
-103,Baumeister Stefan,Male,08-02-2022,Beijing,CHN,Germany,Qualification,Parallel Giant Slalom,18,
-104,Baumeister Stefan,Male,08-02-2022,Beijing,CHN,Germany,Olympic Winter Games,Parallel Giant Slalom,18,130.00
-105,Baumeister Stefan,Male,15-01-2022,Simonhöhe,AUT,Germany,World Cup,Parallel Giant Slalom Team,2,
-106,Baumeister Stefan,Male,14-01-2022,Simonhöhe,AUT,Germany,World Cup,Parallel Giant Slalom,1,1000.00
-107,Baumeister Stefan,Male,14-01-2022,Simonhöhe,AUT,Germany,Qualification,Parallel Giant Slalom,7,
-108,Baumeister Stefan,Male,11-01-2022,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,14,
-109,Baumeister Stefan,Male,11-01-2022,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,15,160.00
-110,Baumeister Stefan,Male,08-01-2022,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,6,
-111,Baumeister Stefan,Male,08-01-2022,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,2,800.00
-112,Baumeister Stefan,Male,18-12-2021,Cortina d Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,17,
-113,Baumeister Stefan,Male,18-12-2021,Cortina d Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,17,140.00
-114,Baumeister Stefan,Male,16-12-2021,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,4,
-115,Baumeister Stefan,Male,16-12-2021,Carezza,ITA,Germany,World Cup,Parallel Giant Slalom,1,1000.00
-116,Baumeister Stefan,Male,12-12-2021,Bannoye,RUS,Germany,Qualification,Parallel Slalom,15,
-117,Baumeister Stefan,Male,12-12-2021,Bannoye,RUS,Germany,World Cup,Parallel Slalom,15,160.00
-118,Baumeister Stefan,Male,11-12-2021,Bannoye,RUS,Germany,Qualification,Parallel Giant Slalom,9,
-119,Baumeister Stefan,Male,11-12-2021,Bannoye,RUS,Germany,World Cup,Parallel Giant Slalom,2,800.00
-120,Baumeister Stefan,Male,21-03-2021,Berchtesgaden,GER,Germany,World Cup,Parallel Slalom Team,3,
-121,Baumeister Stefan,Male,20-03-2021,Berchtesgaden,GER,Germany,Qualification,Parallel Slalom,15,
-122,Baumeister Stefan,Male,20-03-2021,Berchtesgaden,GER,Germany,World Cup,Parallel Slalom,16,150.00
-123,Baumeister Stefan,Male,06-03-2021,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,32,
-124,Baumeister Stefan,Male,06-03-2021,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,32,26.00
-125,Baumeister Stefan,Male,02-03-2021,Rogla,SLO,Germany,World Championships,Parallel Slalom,20,110.00
-126,Baumeister Stefan,Male,02-03-2021,Rogla,SLO,Germany,Qualification,Parallel Slalom,20,
-127,Baumeister Stefan,Male,01-03-2021,Rogla,SLO,Germany,World Championships,Parallel Giant Slalom,20,110.00
-128,Baumeister Stefan,Male,01-03-2021,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,20,
-129,Baumeister Stefan,Male,07-02-2021,Bannoye,RUS,Germany,Qualification,Parallel Slalom,12,
-130,Baumeister Stefan,Male,07-02-2021,Bannoye,RUS,Germany,World Cup,Parallel Slalom,13,200.00
-131,Baumeister Stefan,Male,06-02-2021,Baonoye,RUS,Germany,Qualification,Parallel Giant Slalom,11,
-132,Baumeister Stefan,Male,06-02-2021,Bannoye,RUS,Germany,World Cup,Parallel Giant Slalom,7,360.00
-133,Baumeister Stefan,Male,30-01-2021,Moscow,RUS,Germany,Qualification,Parallel Slalom,12,
-134,Baumeister Stefan,Male,30-01-2021,Moscow,RUS,Germany,World Cup,Parallel Slalom,14,180.00
-135,Baumeister Stefan,Male,13-01-2021,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom Team,2,
-136,Baumeister Stefan,Male,12-01-2021,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,9,
-137,Baumeister Stefan,Male,12-01-2021,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,12,220.00
-138,Baumeister Stefan,Male,09-01-2021,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,11,
-139,Baumeister Stefan,Male,09-01-2021,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,4,500.00
-140,Baumeister Stefan,Male,17-12-2020,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,14,
-141,Baumeister Stefan,Male,17-12-2020,Carezza,ITA,Germany,World Cup,Parallel Giant Slalom,15,160.00
-142,Baumeister Stefan,Male,12-12-2020,Cortina d Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,16,
-143,Baumeister Stefan,Male,12-12-2020,Cortina d Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,16,150.00
-144,Baumeister Stefan,Male,01-03-2020,Blue Mountain,CAN,Germany,World Cup,Parallel Giant Slalom,2,800.00
-145,Baumeister Stefan,Male,01-03-2020,Blue Mountain,CAN,Germany,Qualification,Parallel Giant Slalom,14,
-146,Baumeister Stefan,Male,29-02-2020,Blue Mountain,CAN,Germany,World Cup,Parallel Giant Slalom,9,290.00
-147,Baumeister Stefan,Male,29-02-2020,Blue Mountain,CAN,Germany,Qualification,Parallel Giant Slalom,2,
-148,Baumeister Stefan,Male,22-02-2020,Pyeongchang,KOR,Germany,World Cup,Parallel Giant Slalom,6,400.00
-149,Baumeister Stefan,Male,22-02-2020,Pyeongchang,KOR,Germany,Qualification,Parallel Giant Slalom,6,
-150,Baumeister Stefan,Male,26-01-2020,Piancavallo,ITA,Germany,World Cup,Parallel Slalom Team,1,
-151,Baumeister Stefan,Male,25-01-2020,Piancavallo,ITA,Germany,World Cup,Parallel Slalom,3,600.00
-152,Baumeister Stefan,Male,25-01-2020,Piancavallo,ITA,Germany,Qualification,Parallel Slalom,2,
-153,Baumeister Stefan,Male,18-01-2020,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,27,45.00
-154,Baumeister Stefan,Male,18-01-2020,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,27,
-155,Baumeister Stefan,Male,15-01-2020,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom Team,1,
-156,Baumeister Stefan,Male,14-01-2020,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,3,600.00
-157,Baumeister Stefan,Male,14-01-2020,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,10,
-158,Baumeister Stefan,Male,11-01-2020,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,14,180.00
-159,Baumeister Stefan,Male,11-01-2020,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,14,
-160,Baumeister Stefan,Male,22-12-2019,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,1,360.00
-161,Baumeister Stefan,Male,21-12-2019,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,39,
-162,Baumeister Stefan,Male,19-12-2019,Carezza,ITA,Germany,Open,Parallel Giant Slalom,5,450.00
-163,Baumeister Stefan,Male,14-12-2019,Cortina d Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,6,400.00
-164,Baumeister Stefan,Male,14-12-2019,Cortina d Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,6,
-165,Baumeister Stefan,Male,08-12-2019,Bannoye,RUS,Germany,World Cup,Parallel Giant Slalom,5,450.00
-166,Baumeister Stefan,Male,08-12-2019,Bannoye,RUS,Germany,Qualification,Parallel Giant Slalom,2,
-167,Baumeister Stefan,Male,07-12-2019,Bannoye,RUS,Germany,World Cup,Parallel Slalom,6,400.00
-168,Baumeister Stefan,Male,07-12-2019,Bannoye,RUS,Germany,Qualification,Parallel Slalom,10,
-169,Baumeister Stefan,Male,07-04-2019,Racines,ITA,Germany,European Cup,Parallel Slalom,1,360.00
-170,Baumeister Stefan,Male,24-03-2019,Winterberg,GER,Germany,World Cup,Parallel Slalom Team,3,
-171,Baumeister Stefan,Male,23-03-2019,Winterberg,GER,Germany,World Cup,Parallel Slalom,2,800.00
-172,Baumeister Stefan,Male,23-03-2019,Winterberg,GER,Germany,Qualification,Parallel Slalom,8,
-173,Baumeister Stefan,Male,09-03-2019,Scuol,SUI,Germany,World Cup,Parallel GS,8,320.00
-174,Baumeister Stefan,Male,09-03-2019,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,8,
-175,Baumeister Stefan,Male,24-02-2019,Secret Garden,CHN,Germany,World Cup,Parallel Slalom,DSQ,
-176,Baumeister Stefan,Male,24-02-2019,Secret Garden,CHN,Germany,Qualification,Parallel Slalom,DSQ,
-177,Baumeister Stefan,Male,23-02-2019,Secret Garden,CHN,Germany,World Cup,Parallel Giant Slalom,3,600.00
-178,Baumeister Stefan,Male,23-02-2019,Secret Garden,CHN,Germany,Qualification,Parallel Giant Slalom,1,
-179,Baumeister Stefan,Male,17-02-2019,Pyeongchang,KOR,Germany,World Cup,Parallel Giant Slalom,16,150.00
-180,Baumeister Stefan,Male,17-02-2019,Pyeongchang,KOR,Germany,Qualification,Parallel Giant Slalom,15,
-181,Baumeister Stefan,Male,16-02-2019,Pyeongchang,KOR,Germany,World Cup,Parallel Giant Slalom,16,150.00
-182,Baumeister Stefan,Male,16-02-2019,Pyeongchang,KOR,Germany,Qualification,Parallel Giant Slalom,16,
-183,Baumeister Stefan,Male,05-02-2019,Park City,USA,Germany,World Championships,Parallel Slalom,3,600.00
-184,Baumeister Stefan,Male,04-02-2019,Park City,USA,Germany,World Championships,Parallel Giant Slalom,3,600.00
-185,Baumeister Stefan,Male,27-01-2019,Moscow,RUS,Germany,World Cup,Parallel Slalom Team,5,
-186,Baumeister Stefan,Male,26-01-2019,Moscow,RUS,Germany,World Cup,Parallel Slalom,12,220.00
-187,Baumeister Stefan,Male,26-01-2019,Moscow,RUS,Germany,Qualification,Parallel Slalom,9,
-188,Baumeister Stefan,Male,19-01-2019,Rogla,SLO,Germany,World Cup,Parallel GS,31,28.00
-189,Baumeister Stefan,Male,19-01-2019,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,31,
-190,Baumeister Stefan,Male,09-01-2019,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom Team,4,
-191,Baumeister Stefan,Male,08-01-2019,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,1,1000.00
-192,Baumeister Stefan,Male,08-01-2019,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,1,
-193,Baumeister Stefan,Male,05-01-2019,Simonhöhe,AUT,Germany,FIS,Parallel Slalom,2,176.00
-194,Baumeister Stefan,Male,23-12-2018,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,4,180.00
-195,Baumeister Stefan,Male,22-12-2018,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,10,93.60
-196,Baumeister Stefan,Male,15-12-2018,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel GS,32,26.00
-197,Baumeister Stefan,Male,15-12-2018,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,32,
-198,Baumeister Stefan,Male,13-12-2018,Carezza,ITA,Germany,World Cup,Parallel GS,10,260.00
-199,Baumeister Stefan,Male,13-12-2018,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,2,
-200,Baumeister Stefan,Male,08-04-2018,Racines,ITA,Germany,European Cup,Parallel Slalom,3,216.00
-201,Baumeister Stefan,Male,07-04-2018,Racines,ITA,Germany,European Cup,Parallel Slalom,3,216.00
-202,Baumeister Stefan,Male,18-03-2018,Winterberg,GER,Germany,World Cup,Parallel Slalom Team,6,
-203,Baumeister Stefan,Male,17-03-2018,Winterberg,GER,Germany,World Cup,Parallel Slalom,18,130.00
-204,Baumeister Stefan,Male,17-03-2018,Winterberg,GER,Germany,Qualification,Parallel Slalom,18,
-205,Baumeister Stefan,Male,10-03-2018,Scuol,SUI,Germany,World Cup,Parallel GS,25,60.00
-206,Baumeister Stefan,Male,10-03-2018,Scuol,SUI,Germany,Qualification,Parallel GS,25,
-207,Baumeister Stefan,Male,03-03-2018,Kayseri,TUR,Germany,World Cup,Parallel GS,1,1000.00
-208,Baumeister Stefan,Male,03-03-2018,Kayseri,TUR,Germany,Qualification,Parallel GS,4,
-209,Baumeister Stefan,Male,24-02-2018,Phoenix Snow Park,KOR,Germany,Qualification,Parallel GS,7,
-210,Baumeister Stefan,Male,24-02-2018,Phoenix Snow Park,KOR,Germany,Olympic Winter Games,Parallel GS,6,400.00
-211,Baumeister Stefan,Male,28-01-2018,Bansko,BUL,Germany,World Cup,Parallel GS,DNF,
-212,Baumeister Stefan,Male,28-01-2018,Bansko,BUL,Germany,Qualification,Parallel GS,DNF,
-213,Baumeister Stefan,Male,26-01-2018,Bansko,BUL,Germany,World Cup,Parallel GS,21,100.00
-214,Baumeister Stefan,Male,26-01-2018,Bansko,BUL,Germany,Qualification,Parallel GS,21,
-215,Baumeister Stefan,Male,21-01-2018,Rogla,SLO,Germany,World Cup,Parallel GS,23,80.00
-216,Baumeister Stefan,Male,21-01-2018,Rogla,SLO,Germany,Qualification,Parallel GS,23,
-217,Baumeister Stefan,Male,20-01-2018,Rogla,SLO,Germany,World Cup,Parallel GS,7,360.00
-218,Baumeister Stefan,Male,20-01-2018,Rogla,SLO,Germany,Qualification,Parallel GS,9,
-219,Baumeister Stefan,Male,13-01-2018,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom Team,2,
-220,Baumeister Stefan,Male,12-01-2018,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,21,100.00
-221,Baumeister Stefan,Male,12-01-2018,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,21,
-222,Baumeister Stefan,Male,05-01-2018,Lackenhof,AUT,Germany,World Cup,Parallel GS,28,40.00
-223,Baumeister Stefan,Male,05-01-2018,Lackenhof,AUT,Germany,Qualification,Parallel GS,28,
-224,Baumeister Stefan,Male,16-12-2017,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel Slalom,13,200.00
-225,Baumeister Stefan,Male,16-12-2017,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel Slalom,10,
-226,Baumeister Stefan,Male,15-12-2017,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel GS,24,70.00
-227,Baumeister Stefan,Male,15-12-2017,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel GS,24,
-228,Baumeister Stefan,Male,14-12-2017,Carezza,ITA,Germany,World Cup,Parallel GS,19,120.00
-229,Baumeister Stefan,Male,14-12-2017,Carezza,ITA,Germany,Qualification,Parallel GS,19,
-230,Baumeister Stefan,Male,09-12-2017,Hochfügen,GER,Germany,European Cup,Parallel GS,9,104.40
-231,Baumeister Stefan,Male,26-03-2017,Racines,ITA,Germany,European Cup,Parallel Slalom,1,360.00
-232,Baumeister Stefan,Male,25-03-2017,Racines,ITA,Germany,European Cup,Parallel Slalom,DSQ1,
-233,Baumeister Stefan,Male,19-03-2017,Winterberg,GER,Germany,World Cup,Parallel Slalom Team,3,
-234,Baumeister Stefan,Male,18-03-2017,Winterberg,GER,Germany,Qualification,Parallel Slalom,12,
-235,Baumeister Stefan,Male,18-03-2017,Winterberg,GER,Germany,World Cup,Parallel Slalom,1,1000.00
-236,Baumeister Stefan,Male,16-03-2017,Sierra Nevada,ESP,Germany,World Championships,Parallel GS,23,80.00
-237,Baumeister Stefan,Male,15-03-2017,Sierra Nevada,ESP,Germany,World Championships,Parallel Slalom,11,240.00
-238,Baumeister Stefan,Male,05-03-2017, Erciyes-Kayseri,TUR,Germany,World Cup,Parallel GS,21,100.00
-239,Baumeister Stefan,Male,26-02-2017,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,9,104.40
-240,Baumeister Stefan,Male,25-02-2017,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,8,115.20
-241,Baumeister Stefan,Male,12-02-2017,Phoenix Pyeongchang,KOR,Germany,World Cup,Parallel GS,18,130.00
-242,Baumeister Stefan,Male,05-02-2017,Bansko,BUL,Germany,World Cup,Parallel GS,3,600.00
-243,Baumeister Stefan,Male,03-02-2017,Bansko,BUL,Germany,World Cup,Parallel GS,18,130.00
-244,Baumeister Stefan,Male,28-01-2017,Rogla,SLO,Germany,World Cup,Parallel GS,19,120.00
-245,Baumeister Stefan,Male,21-01-2017,Livigno,ITA,Germany,European Cup,Parallel GS,7,129.60
-246,Baumeister Stefan,Male,20-01-2017,Livigno,ITA,Germany,European Cup,Parallel GS,16,54.00
-247,Baumeister Stefan,Male,10-01-2017,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,19,120.00
-248,Baumeister Stefan,Male,17-12-2016,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel Slalom,8,320.00
-249,Baumeister Stefan,Male,15-12-2016,Carezza,ITA,Germany,World Cup,Parallel GS,15,160.00
-250,Baumeister Stefan,Male,11-12-2016,Hochfügen,GER,Germany,European Cup,Parallel GS,14,64.80
-251,Baumeister Stefan,Male,10-12-2016,Hochfügen,GER,Germany,European Cup,Parallel GS,6,144.00
-252,Baumeister Stefan,Male,04-11-2016,Landgraaf,NED,Germany,European Cup,Parallel Slalom,7,129.60
-253,Baumeister Stefan,Male,03-11-2016,Landgraaf,NED,Germany,European Cup,Parallel Slalom,2,288.00
-254,Baumeister Stefan,Male,27-03-2016,Racines,ITA,Germany,European Cup,Parallel Slalom,12,99.00
-255,Baumeister Stefan,Male,26-03-2016,Racines,ITA,Germany,European Cup,Parallel Slalom,6,200.00
-256,Baumeister Stefan,Male,24-03-2016,Rogla,SLO,Germany,European Cup,Parallel Slalom,3,300.00
-257,Baumeister Stefan,Male,23-03-2016,Rogla,SLO,Germany,European Cup,Parallel GS,12,110.00
-258,Baumeister Stefan,Male,20-03-2016,Gerlitzen,AUT,Germany,European Cup,Parallel GS,9,145.00
-259,Baumeister Stefan,Male,19-03-2016,Gerlitzen,AUT,Germany,European Cup,Parallel GS,7,180.00
-260,Baumeister Stefan,Male,13-03-2016,Scuol,SUI,Germany,National Championships,Parallel Slalom,7,129.60
-261,Baumeister Stefan,Male,12-03-2016,Scuol,SUI,Germany,National Championships,Parallel GS,1,360.00
-262,Baumeister Stefan,Male,06-03-2016,Winterberg,GER,Germany,World Cup,Parallel Slalom,16,150.00
-263,Baumeister Stefan,Male,27-02-2016,Kayseri,TUR,Germany,World Cup,Parallel GS,30,32.00
-264,Baumeister Stefan,Male,21-02-2016,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,1,500.00
-265,Baumeister Stefan,Male,20-02-2016,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,8,160.00
-266,Baumeister Stefan,Male,07-02-2016,Lachtal,AUT,Germany,FIS,Parallel Slalom,3,156.00
-267,Baumeister Stefan,Male,06-02-2016,Lachtal,AUT,Germany,National Championships,Parallel Slalom,6,144.00
-268,Baumeister Stefan,Male,30-01-2016,Moscow,RUS,Germany,World Cup,Parallel Slalom,26,50.00
-269,Baumeister Stefan,Male,23-01-2016,Rogla,SLO,Germany,World Cup,Parallel GS,24,70.00
-270,Baumeister Stefan,Male,17-01-2016,Kreischberg,AUT,Germany,FIS,Parallel GS,12,57.20
-271,Baumeister Stefan,Male,16-01-2016,Kreischberg,AUT,Germany,FIS,Parallel GS,15,41.60
-272,Baumeister Stefan,Male,08-01-2016,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,9,290.00
-273,Baumeister Stefan,Male,19-12-2015,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel Slalom,32,26.00
-274,Baumeister Stefan,Male,12-12-2015,Carezza,ITA,Germany,World Cup,Parallel GS,36,19.70
-275,Baumeister Stefan,Male,06-12-2015,Hochfuegen,GER,Germany,European Cup,Parallel GS,7,180.00
-276,Baumeister Stefan,Male,05-12-2015,Hochfuegen,GER,Germany,European Cup,Parallel GS,11,120.00
-277,Baumeister Stefan,Male,16-10-2015,Landgraaf,NED,Germany,European Cup,Parallel Slalom,13,100.00
-278,Baumeister Stefan,Male,15-10-2015,Landgraaf,NED,Germany,European Cup,Parallel Slalom,8,160.00
-279,Baumeister Stefan,Male,22-03-2015,Racines,ITA,Germany,European Cup,Parallel Slalom,20,55.00
-280,Baumeister Stefan,Male,21-03-2015,Racines,ITA,Germany,European Cup,Parallel Slalom,13,100.00
-281,Baumeister Stefan,Male,18-03-2015,Rogla,SLO,Germany,European Cup,Parallel Slalom,12,110.00
-282,Baumeister Stefan,Male,17-03-2015,Rogla,SLO,Germany,European Cup,Parallel GS,3,300.00
-283,Baumeister Stefan,Male,14-03-2015,Winterberg,GER,Germany,World Cup,Parallel Slalom,31,28.00
-284,Baumeister Stefan,Male,07-03-2015,Moscow,RUS,Germany,World Cup,Parallel Slalom,DSQ,
-285,Baumeister Stefan,Male,01-03-2015,Asahikawa,JPN,Germany,World Cup,Parallel Slalom,24,70.00
-286,Baumeister Stefan,Male,28-02-2015,Asahikawa,JPN,Germany,World Cup,Parallel GS,27,45.00
-287,Baumeister Stefan,Male,22-02-2015,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,5,180.00
-288,Baumeister Stefan,Male,21-02-2015,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,12,110.00
-289,Baumeister Stefan,Male,14-02-2015,Goetschen,GER,Germany,National Championships,Parallel GS,3,216.00
-290,Baumeister Stefan,Male,13-02-2015,Goetschen,GER,Germany,National Championships,Parallel Slalom,10,93.60
-291,Baumeister Stefan,Male,07-02-2015,Sudelfeld,GER,Germany,World Cup,Parallel GS,27,45.00
-292,Baumeister Stefan,Male,06-02-2015,Sudelfeld,GER,Germany,Qualification,Parallel GS,27,
-293,Baumeister Stefan,Male,31-01-2015,Rogla,SLO,Germany,World Cup,Parallel GS,24,70.00
-294,Baumeister Stefan,Male,23-01-2015,Lachtal,AUT,Germany,World Championships,Parallel GS,35,20.00
-295,Baumeister Stefan,Male,22-01-2015,Lachtal,AUT,Germany,World Championships,Parallel Slalom,15,160.00
-296,Baumeister Stefan,Male,09-01-2015,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,18,130.00
-297,Baumeister Stefan,Male,18-12-2014,Montafon,AUT,Germany,World Cup,Parallel Slalom,26,50.00
-298,Baumeister Stefan,Male,16-12-2014,Carezza,ITA,Germany,World Cup,Parallel GS,19,120.00
-299,Baumeister Stefan,Male,10-10-2014,Landgraaf,NED,Germany,FIS,Parallel Slalom,6,104.00
-300,Baumeister Stefan,Male,09-10-2014,Landgraaf,NED,Germany,National Championships,Parallel Slalom,3,216.00
-301,Baumeister Stefan,Male,16-03-2014,Ratsching/Racines,ITA,Germany,European Cup,Parallel Slalom,10,130.00
-302,Baumeister Stefan,Male,15-03-2014,Ratsching/Racines,ITA,Germany,European Cup,Parallel Slalom,8,160.00
-303,Baumeister Stefan,Male,09-03-2014,Tauplitz,AUT,Germany,FIS,Parallel Slalom,9,75.40
-304,Baumeister Stefan,Male,08-03-2014,Tauplitz,AUT,Germany,FIS,Parallel Slalom,1,260.00
-305,Baumeister Stefan,Male,05-03-2014,Rogla,SLO,Germany,European Cup,Parallel Slalom,1,500.00
-306,Baumeister Stefan,Male,04-03-2014,Rogla,SLO,Germany,European Cup,Parallel GS,5,225.00
-307,Baumeister Stefan,Male,01-03-2014,Gerlitzen,AUT,Germany,European Cup,Parallel GS,6,200.00
-308,Baumeister Stefan,Male,22-02-2014,Rosa Khutor,RUS,Germany,Olympic Winter Games,Parallel Slalom,14,180.00
-309,Baumeister Stefan,Male,19-02-2014,Rosa Khutor,RUS,Germany,Olympic Winter Games,Parallel GS,20,110.00
-310,Baumeister Stefan,Male,01-02-2014,Sudelfeld,GER,Germany,World Cup,Parallel GS,26,50.00
-311,Baumeister Stefan,Male,18-01-2014,Rogla,SLO,Germany,World Cup,Parallel GS,34,22.00
-312,Baumeister Stefan,Male,12-01-2014,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,34,22.00
-313,Baumeister Stefan,Male,10-01-2014,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,8,320.00
-314,Baumeister Stefan,Male,22-12-2013,Schönberg-Lachtal,AUT,Germany,European Cup,Parallel Slalom,17,70.00
-315,Baumeister Stefan,Male,21-12-2013,Schönberg-Lachtal,AUT,Germany,European Cup,Parallel Slalom,2,400.00
-316,Baumeister Stefan,Male,14-12-2013,Carezza,ITA,Germany,World Cup,Parallel Slalom,29,36.00
-317,Baumeister Stefan,Male,13-12-2013,Carezza,ITA,Germany,World Cup,Parallel GS,18,130.00
-318,Baumeister Stefan,Male,08-12-2013,Hochfügen,AUT,Germany,European Cup,Parallel GS,25,30.00
-319,Baumeister Stefan,Male,07-12-2013,Hochfügen,AUT,Germany,European Cup,Parallel GS,5,225.00
-320,Baumeister Stefan,Male,08-11-2013,Landgraaf,NED,Germany,FIS,Parallel Slalom,10,67.60
-321,Baumeister Stefan,Male,07-11-2013,Landgraaf,NED,Germany,FIS,Parallel Slalom,12,57.20
-322,Baumeister Stefan,Male,23-03-2013,Götschen,GER,Germany,National Championships,Parallel GS,3,216.00
-323,Baumeister Stefan,Male,22-03-2013,Götschen,GER,Germany,National Championships,Parallel Slalom,2,288.00
-324,Baumeister Stefan,Male,16-03-2013,La Molina,ESP,Germany,World Cup,Parallel GS,34,22.00
-325,Baumeister Stefan,Male,10-03-2013,Arosa,SUI,Germany,World Cup,Parallel GS,40,18.50
-326,Baumeister Stefan,Male,07-03-2013,Erzurum,TUR,Germany,FIS Junior World Championships,Parallel Slalom,1,360.00
-327,Baumeister Stefan,Male,06-03-2013,Erzurum,TUR,Germany,FIS Junior World Championships,Parallel GS,3,216.00
-328,Baumeister Stefan,Male,23-02-2013,Moscow,RUS,Germany,World Cup,Parallel Slalom,43,17.60
-329,Baumeister Stefan,Male,14-02-2013,Sochi,RUS,Germany,World Cup,Parallel GS,29,36.00
-330,Baumeister Stefan,Male,08-02-2013,Rogla,SLO,Germany,World Cup,Parallel GS,32,26.00
-331,Baumeister Stefan,Male,27-01-2013,Stoneham,CAN,Germany,World Championships,Parallel Slalom,23,80.00
-332,Baumeister Stefan,Male,25-01-2013,Stoneham,CAN,Germany,World Championships,Parallel GS,35,20.00
-333,Baumeister Stefan,Male,20-01-2013,"Le Relais, QC",CAN,Germany,Nor-Am Cup,Parallel Slalom,8,160.00
-334,Baumeister Stefan,Male,19-01-2013,"Le Relais, QC",CAN,Germany,Nor-Am Cup,Parallel GS,24,35.00
-335,Baumeister Stefan,Male,12-01-2013,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,29,36.00
-336,Baumeister Stefan,Male,11-01-2013,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,40,18.50
-337,Baumeister Stefan,Male,21-12-2012,Carezza,ITA,Germany,World Cup,Parallel GS,52,14.90
-338,Baumeister Stefan,Male,16-12-2012,Racines/Ratschings,ITA,Germany,European Cup,Parallel Slalom,3,300.00
-339,Baumeister Stefan,Male,15-12-2012,Racines/Ratschings,ITA,Germany,European Cup,Parallel Slalom,3,240.00
-340,Baumeister Stefan,Male,09-12-2012,Lachtal,AUT,Germany,European Cup,Parallel GS,20,55.00
-341,Baumeister Stefan,Male,08-12-2012,Lachtal,AUT,Germany,European Cup,Parallel GS,32,13.00
-342,Baumeister Stefan,Male,28-03-2012,Sierra Nevada,ESP,Germany,FIS Junior World Championships,Parallel Slalom,31,10.08
-343,Baumeister Stefan,Male,27-03-2012,Sierra Nevada,ESP,Germany,FIS Junior World Championships,Parallel GS,5,162.00
-344,Baumeister Stefan,Male,20-03-2012,Rogla,SLO,Germany,European Cup,Parallel Slalom,2,360.00
-345,Baumeister Stefan,Male,19-03-2012,Rogla,SLO,Germany,European Cup,Parallel GS,20,44.00
-346,Baumeister Stefan,Male,18-03-2012,Tauplitz,AUT,Germany,FIS,Parallel Slalom,30,
-347,Baumeister Stefan,Male,17-03-2012,Tauplitz,AUT,Germany,FIS,Parallel Slalom,9,69.60
-348,Baumeister Stefan,Male,10-03-2012,Bad Gastein,AUT,Germany,European Cup,Parallel GS,1,290.00
-349,Baumeister Stefan,Male,04-03-2012,Gerlitzen,AUT,Germany,FIS,Parallel Slalom,22,19.80
-350,Baumeister Stefan,Male,03-03-2012,Gerlitzen,AUT,Germany,FIS,Parallel Slalom,5,108.00
-351,Baumeister Stefan,Male,25-02-2012,Brauneck,GER,Germany,Junior,Giant Slalom,46,
-352,Baumeister Stefan,Male,25-02-2012,Brauneck,GER,Germany,Junior,Slalom,46,
-353,Baumeister Stefan,Male,24-02-2012,Sochi,RUS,Germany,European Cup,Parallel Slalom,2,232.00
-354,Baumeister Stefan,Male,23-02-2012,Sochi,RUS,Germany,European Cup,Parallel GS,3,174.00
-355,Baumeister Stefan,Male,12-02-2012,Marianske Lazne,CZE,Germany,European Cup,Parallel Slalom,6,128.00
-356,Baumeister Stefan,Male,11-02-2012,Marianske Lazne,CZE,Germany,European Cup,Parallel Slalom,13,64.00
-357,Baumeister Stefan,Male,05-02-2012,Ratschings-Racines,ITA,Germany,European Cup,Parallel Slalom,6,200.00
-358,Baumeister Stefan,Male,29-01-2012,Adelboden,SUI,Germany,European Cup,Parallel GS,5,117.00
-359,Baumeister Stefan,Male,15-01-2012,Vratna,SVK,Germany,European Cup,Giant Slalom,2,208.00
-360,Baumeister Stefan,Male,14-01-2012,Vratna,SVK,Germany,European Cup,Parallel GS,5,117.00
-361,Baumeister Stefan,Male,08-01-2012,Kreischberg,AUT,Germany,FIS,Parallel GS,3,156.00
-362,Baumeister Stefan,Male,07-01-2012,Kreischberg,AUT,Germany,FIS,Parallel GS,17,36.40
-363,Baumeister Stefan,Male,31-03-2011,Valmalenco,ITA,Germany,FIS Junior World Championships,Parallel Slalom,3,216.00
-364,Baumeister Stefan,Male,30-03-2011,Valmalenco,ITA,Germany,FIS Junior World Championships,Parallel GS,4,180.00
-365,Baumeister Stefan,Male,26-03-2011,Lachtal,AUT,Germany,European Cup,Parallel Slalom,13,58.00
-366,Baumeister Stefan,Male,25-03-2011,Lachtal,AUT,Germany,European Cup,Parallel GS,24,20.30
-367,Baumeister Stefan,Male,19-03-2011,Valmalenco,ITA,Germany,World Cup,Parallel GS,36,19.70
-368,Baumeister Stefan,Male,13-03-2011,Radstadt,AUT,Germany,National Championships,Parallel Slalom,13,72.00
-369,Baumeister Stefan,Male,12-03-2011,Radstadt,AUT,Germany,National Championships,Parallel GS,17,50.40
-370,Baumeister Stefan,Male,01-03-2011,Rogla,SLO,Germany,European Cup,Parallel Slalom,14,81.00
-371,Baumeister Stefan,Male,28-02-2011,Rogla,SLO,Germany,European Cup,Parallel GS,14,57.60
-372,Baumeister Stefan,Male,27-02-2011,Villach / Gerlitzen,AUT,Germany,FIS,Parallel Slalom,10,57.20
-373,Baumeister Stefan,Male,26-02-2011,Villach / Gerlitzen,AUT,Germany,FIS,Parallel Slalom,31,7.28
-374,Baumeister Stefan,Male,12-02-2011,Valberg,FRA,Germany,European Cup,Parallel GS,2,256.00
-375,Baumeister Stefan,Male,11-02-2011,Valberg,FRA,Germany,European Cup,Parallel GS,18,41.60
-376,Baumeister Stefan,Male,06-02-2011,Vratna,SVK,Germany,European Cup,Parallel GS,6,128.00
-377,Baumeister Stefan,Male,05-02-2011,Vratna,SVK,Germany,European Cup,Parallel GS,17,44.80
-378,Baumeister Stefan,Male,30-01-2011,St. Gallenkirch,AUT,Germany,FIS,Parallel GS,14,43.20
-379,Baumeister Stefan,Male,29-01-2011,Adelboden,SUI,Germany,European Cup,Parallel GS,24,28.00
-380,Baumeister Stefan,Male,28-01-2011,Adelboden,SUI,Germany,European Cup,Parallel GS,18,52.00
-381,Baumeister Stefan,Male,23-01-2011,Innsbruck/Patscherkofel,AUT,Germany,FIS,Parallel Slalom,32,6.76
-382,Baumeister Stefan,Male,22-01-2011,Innsbruck/Patscherkofel,AUT,Germany,FIS,Parallel GS,5,117.00
-383,Baumeister Stefan,Male,12-01-2011,Berchtesgaden/Goetschen,GER,Germany,National Championships,Parallel GS,12,79.20
-384,Baumeister Stefan,Male,19-12-2010,Samnaun,SUI,Germany,FIS,Parallel Slalom,7,86.40
-385,Baumeister Stefan,Male,18-12-2010,Samnaun,SUI,Germany,FIS,Parallel Slalom,7,93.60
-386,Baumeister Stefan,Male,17-12-2010,Samnaun,SUI,Germany,FIS,Parallel Slalom,6,104.00
-387,Baumeister Stefan,Male,11-12-2010,Ratschings/Racines,ITA,Germany,European Cup,Parallel GS,28,11.60
-388,Baumeister Stefan,Male,10-12-2010,Ratschings/Racines,ITA,Germany,FIS,Parallel GS,50,4.03
-389,Baumeister Stefan,Male,05-12-2010,Welschnofen-Carezza,ITA,Germany,European Cup,Parallel Slalom,7,
-390,Baumeister Stefan,Male,04-12-2010,Welschnofen-Carezza,ITA,Germany,European Cup,Parallel GS,15,
-391,Baumeister Stefan,Male,28-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Germany,FIS,Parallel GS,10,67.60
-392,Baumeister Stefan,Male,27-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Germany,European Cup,Parallel GS,5,202.50
-393,Baumeister Stefan,Male,27-08-2010,Snow Park,NZL,Germany,FIS Junior World Championships,Parallel GS,3,216.00
-394,Baumeister Stefan,Male,26-08-2010,Snow Park,NZL,Germany,FIS Junior World Championships,Parallel Slalom,10,93.60
-395,Baumeister Stefan,Male,28-03-2010,Gerlitzen,AUT,Germany,National Championships,Parallel GS,20,39.60
-396,Baumeister Stefan,Male,27-03-2010,Gerlitzen,AUT,Germany,National Championships,Parallel Slalom,12,70.40
-397,Baumeister Stefan,Male,13-03-2010,Protasiv Yar Kiev,UKR,Germany,European Cup,Parallel Slalom,14,57.60
-398,Baumeister Stefan,Male,12-03-2010,Protasiv Yar Kiev,UKR,Germany,European Cup,Parallel Slalom,4,160.00
-399,Baumeister Stefan,Male,28-02-2010,Adelboden,SUI,Germany,FIS,Parallel Slalom,DSQ,
-400,Baumeister Stefan,Male,27-02-2010,Adelboden,SUI,Germany,European Cup,Parallel Slalom,15,57.60
-401,Baumeister Stefan,Male,21-02-2010,Ebingen,GER,Germany,FIS,Parallel Slalom,10,46.80
-402,Baumeister Stefan,Male,20-02-2010,Ebingen,GER,Germany,FIS,Parallel Slalom,2,144.00
-403,Baumeister Stefan,Male,14-02-2010,Kasberg,AUT,Germany,European Cup,Parallel GS,25,21.60
-404,Baumeister Stefan,Male,13-02-2010,Kasberg,AUT,Germany,European Cup,Parallel GS,49,
-405,Baumeister Stefan,Male,06-02-2010,Sudelfeld,GER,Germany,World Cup,Parallel GS,33,24.00
-406,Baumeister Stefan,Male,05-02-2010,Innsbruck Patcherkofel,AUT,Germany,FIS,Parallel Slalom,11,48.00
-407,Baumeister Stefan,Male,31-01-2010,Maribor,SLO,Germany,European Cup,Parallel GS,52,4.77
-408,Baumeister Stefan,Male,30-01-2010,Vratna,SVK,Germany,FIS,Parallel GS,13,40.00
-409,Baumeister Stefan,Male,29-01-2010,Vratna,SVK,Germany,European Cup,Parallel GS,33,7.68
-410,Baumeister Stefan,Male,24-01-2010,Imst,AUT,Germany,European Cup,Parallel Slalom,64,3.62
-411,Baumeister Stefan,Male,23-01-2010,Imst,AUT,Germany,European Cup,Parallel Slalom,40,5.92
-412,Baumeister Stefan,Male,17-01-2010,Goetschen Bischofswiesen,GER,Germany,FIS,Giant Slalom,5,45.00
-413,Baumeister Stefan,Male,16-01-2010,Goetschen Bischofswiesen,GER,Germany,FIS,Giant Slalom,3,60.00
-414,Baumeister Stefan,Male,10-01-2010,Marianske Lazne,CZE,Germany,FIS,Parallel Slalom,DNS,
-415,Baumeister Stefan,Male,09-01-2010,Marianske Lazne,CZE,Germany,European Cup,Parallel Slalom,DSQ,
-416,Baumeister Stefan,Male,30-12-2009,Goetschen  Bischofswiesen,GER,Germany,European Cup,Parallel GS,13,100.00
-417,Baumeister Stefan,Male,20-12-2009,Schoenberg/Lachtal,AUT,Germany,FIS,Parallel GS,48,4.19
-418,Baumeister Stefan,Male,19-12-2009,Schoenberg/Lachtal,AUT,Germany,FIS,Parallel GS,24,18.20
-419,Baumeister Stefan,Male,06-12-2009,Carezza,ITA,Germany,European Cup,Parallel Slalom,18,58.50
-420,Baumeister Stefan,Male,05-12-2009,Carezza,ITA,Germany,European Cup,Parallel GS,46,8.35
-421,Baumeister Stefan,Male,29-11-2009,"Hochfuegen, Zillertal (AUT)",GER,Germany,European Cup,Parallel GS,67,5.20
-422,Baumeister Stefan,Male,28-11-2009,"Hochfuegen, Zillertal (AUT)",GER,Germany,National Championships,Parallel GS,69,3.53
-423,Baumeister Stefan,Male,29-03-2009,Kasberg,AUT,Germany,National Championships,Parallel Slalom,41,
-424,Baumeister Stefan,Male,28-03-2009,Kasberg,AUT,Germany,National Championships,Parallel GS,27,16.20
-425,Baumeister Stefan,Male,15-03-2009,Gerlitzen,AUT,Germany,FIS,Parallel Slalom,27,10.80
-426,Baumeister Stefan,Male,14-03-2009,Gerlitzen,AUT,Germany,FIS,Parallel GS,16,36.00
-427,Baumeister Stefan,Male,06-03-2009,Nagano,JPN,Germany,FIS Junior World Championships,Parallel Slalom,24,25.20
-428,Baumeister Stefan,Male,05-03-2009,Nagano,JPN,Germany,FIS Junior World Championships,Parallel GS,22,32.40
-429,Baumeister Stefan,Male,22-02-2009,Adelboden,SUI,Germany,FIS,Parallel Slalom,51,
-430,Baumeister Stefan,Male,21-02-2009,Adelboden,SUI,Germany,European Cup,Parallel Slalom,25,15.60
-431,Baumeister Stefan,Male,20-02-2009,Adelboden,SUI,Germany,European Cup,Parallel Slalom,22,23.40
-432,Baumeister Stefan,Male,07-02-2009,Bischofswiesen / Götschen,GER,Germany,National Championships,Parallel GS,13,40.00
-433,Baumeister Stefan,Male,01-02-2009,Sils,SUI,Germany,FIS,Parallel GS,30,8.32
-434,Baumeister Stefan,Male,31-01-2009,Sils,SUI,Germany,European Cup,Parallel GS,30,9.28
-435,Baumeister Stefan,Male,30-01-2009,Sils,SUI,Germany,European Cup,Parallel GS,86,
-436,Baumeister Stefan,Male,18-01-2009,Imst,AUT,Germany,European Cup,Giant Slalom,33,8.64
-437,Baumeister Stefan,Male,17-01-2009,Imst,AUT,Germany,European Cup,Giant Slalom,30,11.52
-438,Baumeister Stefan,Male,11-01-2009,Kasberg,AUT,Germany,European Cup,Parallel GS,46,6.01
-439,Baumeister Stefan,Male,10-01-2009,Kasberg,AUT,Germany,European Cup,Parallel GS,57,4.82
-440,Baumeister Stefan,Male,04-01-2009,Marianske Lazne,CZE,Germany,European Cup,Parallel Slalom,31,7.28
-441,Baumeister Stefan,Male,03-01-2009,Marianske Lazne,CZE,Germany,European Cup,Parallel Slalom,16,39.00
-442,Baumeister Stefan,Male,29-12-2008,Bischofswiesen / Götschen,GER,Germany,European Cup,Parallel GS,76,
-443,Baumeister Stefan,Male,20-12-2008,Innsbruck/Patcherkofel,AUT,Germany,Junior,Parallel GS,5,22.50
-444,Baumeister Stefan,Male,19-12-2008,Innsbruck/Patcherkofel,AUT,Germany,Junior,Parallel GS,4,25.00
-445,Baumeister Stefan,Male,14-12-2008,Haus/Ennstal,AUT,Germany,FIS,Parallel GS,25,7.80
-446,Baumeister Stefan,Male,13-12-2008,Haus/Ennstal,AUT,Germany,FIS,Parallel GS,26,10.00
-447,Baumeister Stefan,Male,07-12-2008,Innsbruck/Patscherkofel,AUT,Germany,FIS,Parallel Slalom,54,3.72
-448,Baumeister Stefan,Male,06-12-2008,Innsbruck/Patscherkofel,AUT,Germany,FIS,Parallel Slalom,64,2.94
-449,Baumeister Stefan,Male,30-11-2008,"Hochfügen, Zillertal",AUT,Germany,National Championships,Parallel GS,40,6.66
+0,Baumeister Stefan,Male,16-02-2025,Val St. Come,CAN,Germany,Qualification,Parallel Giant Slalom,16,
+1,Baumeister Stefan,Male,16-02-2025,Val St. Come,CAN,Germany,World Cup,Parallel Giant Slalom,16,
+2,Baumeister Stefan,Male,15-02-2025,Val St. Come,CAN,Germany,Qualification,Parallel Giant Slalom,22,
+3,Baumeister Stefan,Male,15-02-2025,Val St. Come,CAN,Germany,World Cup,Parallel Giant Slalom,22,
+4,Baumeister Stefan,Male,02-02-2025,Ratschings,ITA,Germany,European Cup,Parallel Slalom,1,260.00
+5,Baumeister Stefan,Male,02-02-2025,Ratschings,ITA,Germany,Qualification,Parallel Slalom,6,
+6,Baumeister Stefan,Male,01-02-2025,Ratschings,ITA,Germany,European Cup,Parallel Slalom,1,290.00
+7,Baumeister Stefan,Male,01-02-2025,Ratschings,ITA,Germany,Qualification,Parallel Slalom,2,
+8,Baumeister Stefan,Male,25-01-2025,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,21,
+9,Baumeister Stefan,Male,25-01-2025,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,21,100.00
+10,Baumeister Stefan,Male,19-01-2025,Bansko,BUL,Germany,Qualification,Parallel Giant Slalom,17,
+11,Baumeister Stefan,Male,19-01-2025,Bansko,BUL,Germany,World Cup,Parallel Giant Slalom,17,140.00
+12,Baumeister Stefan,Male,18-01-2025,Bansko,BUL,Germany,Qualification,Parallel Giant Slalom,19,
+13,Baumeister Stefan,Male,18-01-2025,Bansko,BUL,Germany,World Cup,Parallel Giant Slalom,19,120.00
+14,Baumeister Stefan,Male,15-01-2025,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom Team,2,
+15,Baumeister Stefan,Male,14-01-2025,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,9,
+16,Baumeister Stefan,Male,14-01-2025,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,11,240.00
+17,Baumeister Stefan,Male,11-01-2025,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,30,
+18,Baumeister Stefan,Male,11-01-2025,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,30,32.00
+19,Baumeister Stefan,Male,21-12-2024,Davos,SUI,Germany,Qualification,Parallel Slalom,31,
+20,Baumeister Stefan,Male,21-12-2024,Davos,SUI,Germany,World Cup,Parallel Slalom,31,28.00
+21,Baumeister Stefan,Male,14-12-2024,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,30,
+22,Baumeister Stefan,Male,14-12-2024,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,30,32.00
+23,Baumeister Stefan,Male,12-12-2024,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,32,
+24,Baumeister Stefan,Male,12-12-2024,Carezza,ITA,Germany,World Cup,Parallel Giant Slalom,32,26.00
+25,Baumeister Stefan,Male,08-12-2024,Yanqing (NASC),CHN,Germany,World Cup,Parallel Slalom,7,360.00
+26,Baumeister Stefan,Male,08-12-2024,Yanqing (NASC),CHN,Germany,Qualification,Parallel Slalom,13,
+27,Baumeister Stefan,Male,07-12-2024,Yanqing (NASC),CHN,Germany,World Cup,Parallel Giant Slalom,14,180.00
+28,Baumeister Stefan,Male,07-12-2024,Yanqing (NASC),CHN,Germany,Qualification,Parallel Giant Slalom,14,
+29,Baumeister Stefan,Male,01-12-2024,Mylin,CHN,Germany,World Cup,Parallel Slalom,10,260.00
+30,Baumeister Stefan,Male,01-12-2024,Mylin,CHN,Germany,Qualification,Parallel Slalom,3,
+31,Baumeister Stefan,Male,30-11-2024,Mylin,CHN,Germany,World Cup,Parallel Giant Slalom,18,130.00
+32,Baumeister Stefan,Male,30-11-2024,Mylin,CHN,Germany,Qualification,Parallel Giant Slalom,18,
+33,Baumeister Stefan,Male,17-03-2024,St. Moritz,SUI,Germany,European Cup,Parallel Slalom,DSQ,
+34,Baumeister Stefan,Male,16-03-2024,St. Moritz,SUI,Germany,European Cup,Parallel Giant Slalom,19,43.20
+35,Baumeister Stefan,Male,13-03-2024,Davos/Rinerhorn ,SUI,Germany,European Cup,Parallel Giant Slalom,1,360.00
+36,Baumeister Stefan,Male,12-03-2024,Davos/Rinerhorn ,SUI,Germany,European Cup,Parallel Giant Slalom,3,216.00
+37,Baumeister Stefan,Male,10-03-2024,Winterberg,GER,Germany,World Cup,Parallel Slalom Team,6,
+38,Baumeister Stefan,Male,09-03-2024,Winterberg,GER,Germany,Qualification,Parallel Slalom,21,
+39,Baumeister Stefan,Male,09-03-2024,Winterberg,GER,Germany,World Cup,Parallel Slalom,21,100.00
+40,Baumeister Stefan,Male,25-02-2024,Krynica,POL,Germany,Qualification,Parallel Giant Slalom,21,
+41,Baumeister Stefan,Male,25-02-2024,Krynica,POL,Germany,World Cup,Parallel Giant Slalom,21,100.00
+42,Baumeister Stefan,Male,24-02-2024,Krynica,POL,Germany,Qualification,Parallel Giant Slalom,21,
+43,Baumeister Stefan,Male,24-02-2024,Krynica,POL,Germany,World Cup,Parallel Giant Slalom,21,100.00
+44,Baumeister Stefan,Male,09-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Slalom,10,75.40
+45,Baumeister Stefan,Male,08-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Giant Slalom,7,104.40
+46,Baumeister Stefan,Male,28-01-2024,Simonhöhe,AUT,Germany,World Cup,Parallel Giant Slalom Team,17,
+47,Baumeister Stefan,Male,27-01-2024,Simonhöhe,AUT,Germany,Qualification,Parallel Giant Slalom,29,
+48,Baumeister Stefan,Male,27-01-2024,Simonhöhe,AUT,Germany,World Cup,Parallel Giant Slalom,29,36.00
+49,Baumeister Stefan,Male,25-01-2024,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,DSQ,
+50,Baumeister Stefan,Male,25-01-2024,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,DSQ,
+51,Baumeister Stefan,Male,21-01-2024,Pamporovo,BUL,Germany,Qualification,Parallel Slalom,12,
+52,Baumeister Stefan,Male,21-01-2024,Pamporovo,BUL,Germany,World Cup,Parallel Slalom,14,180.00
+53,Baumeister Stefan,Male,20-01-2024,Pamporovo,BUL,Germany,Qualification,Parallel Slalom,17,
+54,Baumeister Stefan,Male,20-01-2024,Pamporovo,BUL,Germany,World Cup,Parallel Slalom,17,140.00
+55,Baumeister Stefan,Male,17-01-2024,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom Team,3,
+56,Baumeister Stefan,Male,16-01-2024,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,9,
+57,Baumeister Stefan,Male,16-01-2024,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,7,360.00
+58,Baumeister Stefan,Male,13-01-2024,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,18,
+59,Baumeister Stefan,Male,13-01-2024,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,18,130.00
+60,Baumeister Stefan,Male,23-12-2023,Davos,SUI,Germany,Qualification,Parallel Slalom,16,
+61,Baumeister Stefan,Male,23-12-2023,Davos ,SUI,Germany,World Cup,Parallel Slalom,16,150.00
+62,Baumeister Stefan,Male,16-12-2023,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,DSQ,
+63,Baumeister Stefan,Male,16-12-2023,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,DSQ,
+64,Baumeister Stefan,Male,14-12-2023,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,19,
+65,Baumeister Stefan,Male,14-12-2023,Carezza,ITA,Germany,World Cup,Parallel Giant Slalom,19,120.00
+66,Baumeister Stefan,Male,30-03-2023,Cortina dAmpezzo,ITA,Germany,National Championships,Parallel Slalom,10,75.40
+67,Baumeister Stefan,Male,19-03-2023,Berchtesgaden,GER,Germany,World Cup,Parallel Slalom Team,11,
+68,Baumeister Stefan,Male,18-03-2023,Berchtesgaden,GER,Germany,Qualification,Parallel Slalom,DNF,
+69,Baumeister Stefan,Male,18-03-2023,Berchtesgaden,GER,Germany,World Cup,Parallel Slalom,DNF,
+70,Baumeister Stefan,Male,15-03-2023,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,13,200.00
+71,Baumeister Stefan,Male,15-03-2023,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,12,
+72,Baumeister Stefan,Male,04-03-2023,Zakopane,POL,Germany,European Cup,Parallel Giant Slalom,32,9.36
+73,Baumeister Stefan,Male,22-02-2023,Bakuriani,GEO,Germany,World Championships,Parallel Slalom Team,7,
+74,Baumeister Stefan,Male,21-02-2023,Bakuriani,GEO,Germany,Qualification,Parallel Slalom,31,
+75,Baumeister Stefan,Male,21-02-2023,Bakuriani,GEO,Germany,World Championships,Parallel Slalom,31,28.00
+76,Baumeister Stefan,Male,19-02-2023,Bakuriani,GEO,Germany,Qualification,Parallel Giant Slalom,31,
+77,Baumeister Stefan,Male,19-02-2023,Bakuriani,GEO,Germany,World Championships,Parallel Giant Slalom,31,28.00
+78,Baumeister Stefan,Male,27-01-2023,Blue Mountain,CAN,Germany,Qualification,Parallel Giant Slalom,6,
+79,Baumeister Stefan,Male,27-01-2023,Blue Mountain,CAN,Germany,World Cup,Parallel Giant Slalom,6,400.00
+80,Baumeister Stefan,Male,26-01-2023,Blue Mountain,CAN,Germany,Qualification,Parallel Giant Slalom,4,
+81,Baumeister Stefan,Male,26-01-2023,Blue Mountain,CAN,Germany,World Cup,Parallel Giant Slalom,9,290.00
+82,Baumeister Stefan,Male,22-01-2023,Bansko,BUL,Germany,Qualification,Parallel Slalom,5,
+83,Baumeister Stefan,Male,22-01-2023,Bansko,BUL,Germany,World Cup,Parallel Slalom,3,600.00
+84,Baumeister Stefan,Male,21-01-2023,Bansko,BUL,Germany,Qualification,Parallel Slalom,16,
+85,Baumeister Stefan,Male,21-01-2023,Bansko,BUL,Germany,World Cup,Parallel Slalom,16,150.00
+86,Baumeister Stefan,Male,14-01-2023,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,23,
+87,Baumeister Stefan,Male,14-01-2023,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,23,80.00
+88,Baumeister Stefan,Male,11-01-2023,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom Team,2,
+89,Baumeister Stefan,Male,10-01-2023,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,2,
+90,Baumeister Stefan,Male,10-01-2023,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,3,600.00
+91,Baumeister Stefan,Male,17-12-2022,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,7,
+92,Baumeister Stefan,Male,17-12-2022,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,9,290.00
+93,Baumeister Stefan,Male,15-12-2022,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,17,
+94,Baumeister Stefan,Male,15-12-2022,Carezza,ITA,Germany,World Cup,Parallel Giant Slalom,17,140.00
+95,Baumeister Stefan,Male,11-12-2022,Winterberg,GER,Germany,World Cup,Parallel Slalom,3,600.00
+96,Baumeister Stefan,Male,10-12-2022,Winterberg,GER,Germany,Qualification,Parallel Slalom,4,
+97,Baumeister Stefan,Male,10-12-2022,Winterberg,GER,Germany,World Cup,Parallel Slalom Team,9,
+98,Baumeister Stefan,Male,20-03-2022,Berchtesgaden,GER,Germany,World Cup,Parallel  Slalom Team,1,
+99,Baumeister Stefan,Male,19-03-2022,Berchtesgaden,GER,Germany,Qualification,Parallel Slalom,4,
+100,Baumeister Stefan,Male,19-03-2022,Berchtesgaden,GER,Germany,World Cup,Parallel Slalom,6,400.00
+101,Baumeister Stefan,Male,16-03-2022,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,21,
+102,Baumeister Stefan,Male,16-03-2022,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,21,100.00
+103,Baumeister Stefan,Male,12-03-2022,Piancavallo,ITA,Germany,Qualification,Parallel Slalom,5,
+104,Baumeister Stefan,Male,12-03-2022,Piancavallo,ITA,Germany,World Cup,Parallel Slalom,4,500.00
+105,Baumeister Stefan,Male,20-02-2022,Bakuriani,GEO,Germany,European Cup,Parallel Giant Slalom,1,360.00
+106,Baumeister Stefan,Male,19-02-2022,Bakuriani,GEO,Germany,European Cup,Parallel Giant Slalom,3,216.00
+107,Baumeister Stefan,Male,08-02-2022,Beijing,CHN,Germany,Qualification,Parallel Giant Slalom,18,
+108,Baumeister Stefan,Male,08-02-2022,Beijing,CHN,Germany,Olympic Winter Games,Parallel Giant Slalom,18,130.00
+109,Baumeister Stefan,Male,15-01-2022,Simonhöhe,AUT,Germany,World Cup,Parallel Giant Slalom Team,2,
+110,Baumeister Stefan,Male,14-01-2022,Simonhöhe,AUT,Germany,World Cup,Parallel Giant Slalom,1,1000.00
+111,Baumeister Stefan,Male,14-01-2022,Simonhöhe,AUT,Germany,Qualification,Parallel Giant Slalom,7,
+112,Baumeister Stefan,Male,11-01-2022,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,14,
+113,Baumeister Stefan,Male,11-01-2022,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,15,160.00
+114,Baumeister Stefan,Male,08-01-2022,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,6,
+115,Baumeister Stefan,Male,08-01-2022,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,2,800.00
+116,Baumeister Stefan,Male,18-12-2021,Cortina d Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,17,
+117,Baumeister Stefan,Male,18-12-2021,Cortina d Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,17,140.00
+118,Baumeister Stefan,Male,16-12-2021,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,4,
+119,Baumeister Stefan,Male,16-12-2021,Carezza,ITA,Germany,World Cup,Parallel Giant Slalom,1,1000.00
+120,Baumeister Stefan,Male,12-12-2021,Bannoye,RUS,Germany,Qualification,Parallel Slalom,15,
+121,Baumeister Stefan,Male,12-12-2021,Bannoye,RUS,Germany,World Cup,Parallel Slalom,15,160.00
+122,Baumeister Stefan,Male,11-12-2021,Bannoye,RUS,Germany,Qualification,Parallel Giant Slalom,9,
+123,Baumeister Stefan,Male,11-12-2021,Bannoye,RUS,Germany,World Cup,Parallel Giant Slalom,2,800.00
+124,Baumeister Stefan,Male,21-03-2021,Berchtesgaden,GER,Germany,World Cup,Parallel Slalom Team,3,
+125,Baumeister Stefan,Male,20-03-2021,Berchtesgaden,GER,Germany,Qualification,Parallel Slalom,15,
+126,Baumeister Stefan,Male,20-03-2021,Berchtesgaden,GER,Germany,World Cup,Parallel Slalom,16,150.00
+127,Baumeister Stefan,Male,06-03-2021,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,32,
+128,Baumeister Stefan,Male,06-03-2021,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,32,26.00
+129,Baumeister Stefan,Male,02-03-2021,Rogla,SLO,Germany,World Championships,Parallel Slalom,20,110.00
+130,Baumeister Stefan,Male,02-03-2021,Rogla,SLO,Germany,Qualification,Parallel Slalom,20,
+131,Baumeister Stefan,Male,01-03-2021,Rogla,SLO,Germany,World Championships,Parallel Giant Slalom,20,110.00
+132,Baumeister Stefan,Male,01-03-2021,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,20,
+133,Baumeister Stefan,Male,07-02-2021,Bannoye,RUS,Germany,Qualification,Parallel Slalom,12,
+134,Baumeister Stefan,Male,07-02-2021,Bannoye,RUS,Germany,World Cup,Parallel Slalom,13,200.00
+135,Baumeister Stefan,Male,06-02-2021,Baonoye,RUS,Germany,Qualification,Parallel Giant Slalom,11,
+136,Baumeister Stefan,Male,06-02-2021,Bannoye,RUS,Germany,World Cup,Parallel Giant Slalom,7,360.00
+137,Baumeister Stefan,Male,30-01-2021,Moscow,RUS,Germany,Qualification,Parallel Slalom,12,
+138,Baumeister Stefan,Male,30-01-2021,Moscow,RUS,Germany,World Cup,Parallel Slalom,14,180.00
+139,Baumeister Stefan,Male,13-01-2021,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom Team,2,
+140,Baumeister Stefan,Male,12-01-2021,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,9,
+141,Baumeister Stefan,Male,12-01-2021,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,12,220.00
+142,Baumeister Stefan,Male,09-01-2021,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,11,
+143,Baumeister Stefan,Male,09-01-2021,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,4,500.00
+144,Baumeister Stefan,Male,17-12-2020,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,14,
+145,Baumeister Stefan,Male,17-12-2020,Carezza,ITA,Germany,World Cup,Parallel Giant Slalom,15,160.00
+146,Baumeister Stefan,Male,12-12-2020,Cortina d Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,16,
+147,Baumeister Stefan,Male,12-12-2020,Cortina d Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,16,150.00
+148,Baumeister Stefan,Male,01-03-2020,Blue Mountain,CAN,Germany,World Cup,Parallel Giant Slalom,2,800.00
+149,Baumeister Stefan,Male,01-03-2020,Blue Mountain,CAN,Germany,Qualification,Parallel Giant Slalom,14,
+150,Baumeister Stefan,Male,29-02-2020,Blue Mountain,CAN,Germany,World Cup,Parallel Giant Slalom,9,290.00
+151,Baumeister Stefan,Male,29-02-2020,Blue Mountain,CAN,Germany,Qualification,Parallel Giant Slalom,2,
+152,Baumeister Stefan,Male,22-02-2020,Pyeongchang,KOR,Germany,World Cup,Parallel Giant Slalom,6,400.00
+153,Baumeister Stefan,Male,22-02-2020,Pyeongchang,KOR,Germany,Qualification,Parallel Giant Slalom,6,
+154,Baumeister Stefan,Male,26-01-2020,Piancavallo,ITA,Germany,World Cup,Parallel Slalom Team,1,
+155,Baumeister Stefan,Male,25-01-2020,Piancavallo,ITA,Germany,World Cup,Parallel Slalom,3,600.00
+156,Baumeister Stefan,Male,25-01-2020,Piancavallo,ITA,Germany,Qualification,Parallel Slalom,2,
+157,Baumeister Stefan,Male,18-01-2020,Rogla,SLO,Germany,World Cup,Parallel Giant Slalom,27,45.00
+158,Baumeister Stefan,Male,18-01-2020,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,27,
+159,Baumeister Stefan,Male,15-01-2020,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom Team,1,
+160,Baumeister Stefan,Male,14-01-2020,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,3,600.00
+161,Baumeister Stefan,Male,14-01-2020,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,10,
+162,Baumeister Stefan,Male,11-01-2020,Scuol,SUI,Germany,World Cup,Parallel Giant Slalom,14,180.00
+163,Baumeister Stefan,Male,11-01-2020,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,14,
+164,Baumeister Stefan,Male,22-12-2019,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,1,360.00
+165,Baumeister Stefan,Male,21-12-2019,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,39,
+166,Baumeister Stefan,Male,19-12-2019,Carezza,ITA,Germany,Open,Parallel Giant Slalom,5,450.00
+167,Baumeister Stefan,Male,14-12-2019,Cortina d Ampezzo,ITA,Germany,World Cup,Parallel Giant Slalom,6,400.00
+168,Baumeister Stefan,Male,14-12-2019,Cortina d Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,6,
+169,Baumeister Stefan,Male,08-12-2019,Bannoye,RUS,Germany,World Cup,Parallel Giant Slalom,5,450.00
+170,Baumeister Stefan,Male,08-12-2019,Bannoye,RUS,Germany,Qualification,Parallel Giant Slalom,2,
+171,Baumeister Stefan,Male,07-12-2019,Bannoye,RUS,Germany,World Cup,Parallel Slalom,6,400.00
+172,Baumeister Stefan,Male,07-12-2019,Bannoye,RUS,Germany,Qualification,Parallel Slalom,10,
+173,Baumeister Stefan,Male,07-04-2019,Racines,ITA,Germany,European Cup,Parallel Slalom,1,360.00
+174,Baumeister Stefan,Male,24-03-2019,Winterberg,GER,Germany,World Cup,Parallel Slalom Team,3,
+175,Baumeister Stefan,Male,23-03-2019,Winterberg,GER,Germany,World Cup,Parallel Slalom,2,800.00
+176,Baumeister Stefan,Male,23-03-2019,Winterberg,GER,Germany,Qualification,Parallel Slalom,8,
+177,Baumeister Stefan,Male,09-03-2019,Scuol,SUI,Germany,World Cup,Parallel GS,8,320.00
+178,Baumeister Stefan,Male,09-03-2019,Scuol,SUI,Germany,Qualification,Parallel Giant Slalom,8,
+179,Baumeister Stefan,Male,24-02-2019,Secret Garden,CHN,Germany,World Cup,Parallel Slalom,DSQ,
+180,Baumeister Stefan,Male,24-02-2019,Secret Garden,CHN,Germany,Qualification,Parallel Slalom,DSQ,
+181,Baumeister Stefan,Male,23-02-2019,Secret Garden,CHN,Germany,World Cup,Parallel Giant Slalom,3,600.00
+182,Baumeister Stefan,Male,23-02-2019,Secret Garden,CHN,Germany,Qualification,Parallel Giant Slalom,1,
+183,Baumeister Stefan,Male,17-02-2019,Pyeongchang,KOR,Germany,World Cup,Parallel Giant Slalom,16,150.00
+184,Baumeister Stefan,Male,17-02-2019,Pyeongchang,KOR,Germany,Qualification,Parallel Giant Slalom,15,
+185,Baumeister Stefan,Male,16-02-2019,Pyeongchang,KOR,Germany,World Cup,Parallel Giant Slalom,16,150.00
+186,Baumeister Stefan,Male,16-02-2019,Pyeongchang,KOR,Germany,Qualification,Parallel Giant Slalom,16,
+187,Baumeister Stefan,Male,05-02-2019,Park City,USA,Germany,World Championships,Parallel Slalom,3,600.00
+188,Baumeister Stefan,Male,04-02-2019,Park City,USA,Germany,World Championships,Parallel Giant Slalom,3,600.00
+189,Baumeister Stefan,Male,27-01-2019,Moscow,RUS,Germany,World Cup,Parallel Slalom Team,5,
+190,Baumeister Stefan,Male,26-01-2019,Moscow,RUS,Germany,World Cup,Parallel Slalom,12,220.00
+191,Baumeister Stefan,Male,26-01-2019,Moscow,RUS,Germany,Qualification,Parallel Slalom,9,
+192,Baumeister Stefan,Male,19-01-2019,Rogla,SLO,Germany,World Cup,Parallel GS,31,28.00
+193,Baumeister Stefan,Male,19-01-2019,Rogla,SLO,Germany,Qualification,Parallel Giant Slalom,31,
+194,Baumeister Stefan,Male,09-01-2019,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom Team,4,
+195,Baumeister Stefan,Male,08-01-2019,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,1,1000.00
+196,Baumeister Stefan,Male,08-01-2019,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,1,
+197,Baumeister Stefan,Male,05-01-2019,Simonhöhe,AUT,Germany,FIS,Parallel Slalom,2,176.00
+198,Baumeister Stefan,Male,23-12-2018,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,4,180.00
+199,Baumeister Stefan,Male,22-12-2018,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,10,93.60
+200,Baumeister Stefan,Male,15-12-2018,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel GS,32,26.00
+201,Baumeister Stefan,Male,15-12-2018,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel Giant Slalom,32,
+202,Baumeister Stefan,Male,13-12-2018,Carezza,ITA,Germany,World Cup,Parallel GS,10,260.00
+203,Baumeister Stefan,Male,13-12-2018,Carezza,ITA,Germany,Qualification,Parallel Giant Slalom,2,
+204,Baumeister Stefan,Male,08-04-2018,Racines,ITA,Germany,European Cup,Parallel Slalom,3,216.00
+205,Baumeister Stefan,Male,07-04-2018,Racines,ITA,Germany,European Cup,Parallel Slalom,3,216.00
+206,Baumeister Stefan,Male,18-03-2018,Winterberg,GER,Germany,World Cup,Parallel Slalom Team,6,
+207,Baumeister Stefan,Male,17-03-2018,Winterberg,GER,Germany,World Cup,Parallel Slalom,18,130.00
+208,Baumeister Stefan,Male,17-03-2018,Winterberg,GER,Germany,Qualification,Parallel Slalom,18,
+209,Baumeister Stefan,Male,10-03-2018,Scuol,SUI,Germany,World Cup,Parallel GS,25,60.00
+210,Baumeister Stefan,Male,10-03-2018,Scuol,SUI,Germany,Qualification,Parallel GS,25,
+211,Baumeister Stefan,Male,03-03-2018,Kayseri,TUR,Germany,World Cup,Parallel GS,1,1000.00
+212,Baumeister Stefan,Male,03-03-2018,Kayseri,TUR,Germany,Qualification,Parallel GS,4,
+213,Baumeister Stefan,Male,24-02-2018,Phoenix Snow Park,KOR,Germany,Qualification,Parallel GS,7,
+214,Baumeister Stefan,Male,24-02-2018,Phoenix Snow Park,KOR,Germany,Olympic Winter Games,Parallel GS,6,400.00
+215,Baumeister Stefan,Male,28-01-2018,Bansko,BUL,Germany,World Cup,Parallel GS,DNF,
+216,Baumeister Stefan,Male,28-01-2018,Bansko,BUL,Germany,Qualification,Parallel GS,DNF,
+217,Baumeister Stefan,Male,26-01-2018,Bansko,BUL,Germany,World Cup,Parallel GS,21,100.00
+218,Baumeister Stefan,Male,26-01-2018,Bansko,BUL,Germany,Qualification,Parallel GS,21,
+219,Baumeister Stefan,Male,21-01-2018,Rogla,SLO,Germany,World Cup,Parallel GS,23,80.00
+220,Baumeister Stefan,Male,21-01-2018,Rogla,SLO,Germany,Qualification,Parallel GS,23,
+221,Baumeister Stefan,Male,20-01-2018,Rogla,SLO,Germany,World Cup,Parallel GS,7,360.00
+222,Baumeister Stefan,Male,20-01-2018,Rogla,SLO,Germany,Qualification,Parallel GS,9,
+223,Baumeister Stefan,Male,13-01-2018,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom Team,2,
+224,Baumeister Stefan,Male,12-01-2018,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,21,100.00
+225,Baumeister Stefan,Male,12-01-2018,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,21,
+226,Baumeister Stefan,Male,05-01-2018,Lackenhof,AUT,Germany,World Cup,Parallel GS,28,40.00
+227,Baumeister Stefan,Male,05-01-2018,Lackenhof,AUT,Germany,Qualification,Parallel GS,28,
+228,Baumeister Stefan,Male,16-12-2017,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel Slalom,13,200.00
+229,Baumeister Stefan,Male,16-12-2017,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel Slalom,10,
+230,Baumeister Stefan,Male,15-12-2017,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel GS,24,70.00
+231,Baumeister Stefan,Male,15-12-2017,Cortina d'Ampezzo,ITA,Germany,Qualification,Parallel GS,24,
+232,Baumeister Stefan,Male,14-12-2017,Carezza,ITA,Germany,World Cup,Parallel GS,19,120.00
+233,Baumeister Stefan,Male,14-12-2017,Carezza,ITA,Germany,Qualification,Parallel GS,19,
+234,Baumeister Stefan,Male,09-12-2017,Hochfügen,GER,Germany,European Cup,Parallel GS,9,104.40
+235,Baumeister Stefan,Male,26-03-2017,Racines,ITA,Germany,European Cup,Parallel Slalom,1,360.00
+236,Baumeister Stefan,Male,25-03-2017,Racines,ITA,Germany,European Cup,Parallel Slalom,DSQ1,
+237,Baumeister Stefan,Male,19-03-2017,Winterberg,GER,Germany,World Cup,Parallel Slalom Team,3,
+238,Baumeister Stefan,Male,18-03-2017,Winterberg,GER,Germany,Qualification,Parallel Slalom,12,
+239,Baumeister Stefan,Male,18-03-2017,Winterberg,GER,Germany,World Cup,Parallel Slalom,1,1000.00
+240,Baumeister Stefan,Male,16-03-2017,Sierra Nevada,ESP,Germany,World Championships,Parallel GS,23,80.00
+241,Baumeister Stefan,Male,15-03-2017,Sierra Nevada,ESP,Germany,World Championships,Parallel Slalom,11,240.00
+242,Baumeister Stefan,Male,05-03-2017, Erciyes-Kayseri,TUR,Germany,World Cup,Parallel GS,21,100.00
+243,Baumeister Stefan,Male,26-02-2017,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,9,104.40
+244,Baumeister Stefan,Male,25-02-2017,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,8,115.20
+245,Baumeister Stefan,Male,12-02-2017,Phoenix Pyeongchang,KOR,Germany,World Cup,Parallel GS,18,130.00
+246,Baumeister Stefan,Male,05-02-2017,Bansko,BUL,Germany,World Cup,Parallel GS,3,600.00
+247,Baumeister Stefan,Male,03-02-2017,Bansko,BUL,Germany,World Cup,Parallel GS,18,130.00
+248,Baumeister Stefan,Male,28-01-2017,Rogla,SLO,Germany,World Cup,Parallel GS,19,120.00
+249,Baumeister Stefan,Male,21-01-2017,Livigno,ITA,Germany,European Cup,Parallel GS,7,129.60
+250,Baumeister Stefan,Male,20-01-2017,Livigno,ITA,Germany,European Cup,Parallel GS,16,54.00
+251,Baumeister Stefan,Male,10-01-2017,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,19,120.00
+252,Baumeister Stefan,Male,17-12-2016,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel Slalom,8,320.00
+253,Baumeister Stefan,Male,15-12-2016,Carezza,ITA,Germany,World Cup,Parallel GS,15,160.00
+254,Baumeister Stefan,Male,11-12-2016,Hochfügen,GER,Germany,European Cup,Parallel GS,14,64.80
+255,Baumeister Stefan,Male,10-12-2016,Hochfügen,GER,Germany,European Cup,Parallel GS,6,144.00
+256,Baumeister Stefan,Male,04-11-2016,Landgraaf,NED,Germany,European Cup,Parallel Slalom,7,129.60
+257,Baumeister Stefan,Male,03-11-2016,Landgraaf,NED,Germany,European Cup,Parallel Slalom,2,288.00
+258,Baumeister Stefan,Male,27-03-2016,Racines,ITA,Germany,European Cup,Parallel Slalom,12,99.00
+259,Baumeister Stefan,Male,26-03-2016,Racines,ITA,Germany,European Cup,Parallel Slalom,6,200.00
+260,Baumeister Stefan,Male,24-03-2016,Rogla,SLO,Germany,European Cup,Parallel Slalom,3,300.00
+261,Baumeister Stefan,Male,23-03-2016,Rogla,SLO,Germany,European Cup,Parallel GS,12,110.00
+262,Baumeister Stefan,Male,20-03-2016,Gerlitzen,AUT,Germany,European Cup,Parallel GS,9,145.00
+263,Baumeister Stefan,Male,19-03-2016,Gerlitzen,AUT,Germany,European Cup,Parallel GS,7,180.00
+264,Baumeister Stefan,Male,13-03-2016,Scuol,SUI,Germany,National Championships,Parallel Slalom,7,129.60
+265,Baumeister Stefan,Male,12-03-2016,Scuol,SUI,Germany,National Championships,Parallel GS,1,360.00
+266,Baumeister Stefan,Male,06-03-2016,Winterberg,GER,Germany,World Cup,Parallel Slalom,16,150.00
+267,Baumeister Stefan,Male,27-02-2016,Kayseri,TUR,Germany,World Cup,Parallel GS,30,32.00
+268,Baumeister Stefan,Male,21-02-2016,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,1,500.00
+269,Baumeister Stefan,Male,20-02-2016,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,8,160.00
+270,Baumeister Stefan,Male,07-02-2016,Lachtal,AUT,Germany,FIS,Parallel Slalom,3,156.00
+271,Baumeister Stefan,Male,06-02-2016,Lachtal,AUT,Germany,National Championships,Parallel Slalom,6,144.00
+272,Baumeister Stefan,Male,30-01-2016,Moscow,RUS,Germany,World Cup,Parallel Slalom,26,50.00
+273,Baumeister Stefan,Male,23-01-2016,Rogla,SLO,Germany,World Cup,Parallel GS,24,70.00
+274,Baumeister Stefan,Male,17-01-2016,Kreischberg,AUT,Germany,FIS,Parallel GS,12,57.20
+275,Baumeister Stefan,Male,16-01-2016,Kreischberg,AUT,Germany,FIS,Parallel GS,15,41.60
+276,Baumeister Stefan,Male,08-01-2016,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,9,290.00
+277,Baumeister Stefan,Male,19-12-2015,Cortina d'Ampezzo,ITA,Germany,World Cup,Parallel Slalom,32,26.00
+278,Baumeister Stefan,Male,12-12-2015,Carezza,ITA,Germany,World Cup,Parallel GS,36,19.70
+279,Baumeister Stefan,Male,06-12-2015,Hochfuegen,GER,Germany,European Cup,Parallel GS,7,180.00
+280,Baumeister Stefan,Male,05-12-2015,Hochfuegen,GER,Germany,European Cup,Parallel GS,11,120.00
+281,Baumeister Stefan,Male,16-10-2015,Landgraaf,NED,Germany,European Cup,Parallel Slalom,13,100.00
+282,Baumeister Stefan,Male,15-10-2015,Landgraaf,NED,Germany,European Cup,Parallel Slalom,8,160.00
+283,Baumeister Stefan,Male,22-03-2015,Racines,ITA,Germany,European Cup,Parallel Slalom,20,55.00
+284,Baumeister Stefan,Male,21-03-2015,Racines,ITA,Germany,European Cup,Parallel Slalom,13,100.00
+285,Baumeister Stefan,Male,18-03-2015,Rogla,SLO,Germany,European Cup,Parallel Slalom,12,110.00
+286,Baumeister Stefan,Male,17-03-2015,Rogla,SLO,Germany,European Cup,Parallel GS,3,300.00
+287,Baumeister Stefan,Male,14-03-2015,Winterberg,GER,Germany,World Cup,Parallel Slalom,31,28.00
+288,Baumeister Stefan,Male,07-03-2015,Moscow,RUS,Germany,World Cup,Parallel Slalom,DSQ,
+289,Baumeister Stefan,Male,01-03-2015,Asahikawa,JPN,Germany,World Cup,Parallel Slalom,24,70.00
+290,Baumeister Stefan,Male,28-02-2015,Asahikawa,JPN,Germany,World Cup,Parallel GS,27,45.00
+291,Baumeister Stefan,Male,22-02-2015,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,5,180.00
+292,Baumeister Stefan,Male,21-02-2015,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,12,110.00
+293,Baumeister Stefan,Male,14-02-2015,Goetschen,GER,Germany,National Championships,Parallel GS,3,216.00
+294,Baumeister Stefan,Male,13-02-2015,Goetschen,GER,Germany,National Championships,Parallel Slalom,10,93.60
+295,Baumeister Stefan,Male,07-02-2015,Sudelfeld,GER,Germany,World Cup,Parallel GS,27,45.00
+296,Baumeister Stefan,Male,06-02-2015,Sudelfeld,GER,Germany,Qualification,Parallel GS,27,
+297,Baumeister Stefan,Male,31-01-2015,Rogla,SLO,Germany,World Cup,Parallel GS,24,70.00
+298,Baumeister Stefan,Male,23-01-2015,Lachtal,AUT,Germany,World Championships,Parallel GS,35,20.00
+299,Baumeister Stefan,Male,22-01-2015,Lachtal,AUT,Germany,World Championships,Parallel Slalom,15,160.00
+300,Baumeister Stefan,Male,09-01-2015,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,18,130.00
+301,Baumeister Stefan,Male,18-12-2014,Montafon,AUT,Germany,World Cup,Parallel Slalom,26,50.00
+302,Baumeister Stefan,Male,16-12-2014,Carezza,ITA,Germany,World Cup,Parallel GS,19,120.00
+303,Baumeister Stefan,Male,10-10-2014,Landgraaf,NED,Germany,FIS,Parallel Slalom,6,104.00
+304,Baumeister Stefan,Male,09-10-2014,Landgraaf,NED,Germany,National Championships,Parallel Slalom,3,216.00
+305,Baumeister Stefan,Male,16-03-2014,Ratsching/Racines,ITA,Germany,European Cup,Parallel Slalom,10,130.00
+306,Baumeister Stefan,Male,15-03-2014,Ratsching/Racines,ITA,Germany,European Cup,Parallel Slalom,8,160.00
+307,Baumeister Stefan,Male,09-03-2014,Tauplitz,AUT,Germany,FIS,Parallel Slalom,9,75.40
+308,Baumeister Stefan,Male,08-03-2014,Tauplitz,AUT,Germany,FIS,Parallel Slalom,1,260.00
+309,Baumeister Stefan,Male,05-03-2014,Rogla,SLO,Germany,European Cup,Parallel Slalom,1,500.00
+310,Baumeister Stefan,Male,04-03-2014,Rogla,SLO,Germany,European Cup,Parallel GS,5,225.00
+311,Baumeister Stefan,Male,01-03-2014,Gerlitzen,AUT,Germany,European Cup,Parallel GS,6,200.00
+312,Baumeister Stefan,Male,22-02-2014,Rosa Khutor,RUS,Germany,Olympic Winter Games,Parallel Slalom,14,180.00
+313,Baumeister Stefan,Male,19-02-2014,Rosa Khutor,RUS,Germany,Olympic Winter Games,Parallel GS,20,110.00
+314,Baumeister Stefan,Male,01-02-2014,Sudelfeld,GER,Germany,World Cup,Parallel GS,26,50.00
+315,Baumeister Stefan,Male,18-01-2014,Rogla,SLO,Germany,World Cup,Parallel GS,34,22.00
+316,Baumeister Stefan,Male,12-01-2014,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,34,22.00
+317,Baumeister Stefan,Male,10-01-2014,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,8,320.00
+318,Baumeister Stefan,Male,22-12-2013,Schönberg-Lachtal,AUT,Germany,European Cup,Parallel Slalom,17,70.00
+319,Baumeister Stefan,Male,21-12-2013,Schönberg-Lachtal,AUT,Germany,European Cup,Parallel Slalom,2,400.00
+320,Baumeister Stefan,Male,14-12-2013,Carezza,ITA,Germany,World Cup,Parallel Slalom,29,36.00
+321,Baumeister Stefan,Male,13-12-2013,Carezza,ITA,Germany,World Cup,Parallel GS,18,130.00
+322,Baumeister Stefan,Male,08-12-2013,Hochfügen,AUT,Germany,European Cup,Parallel GS,25,30.00
+323,Baumeister Stefan,Male,07-12-2013,Hochfügen,AUT,Germany,European Cup,Parallel GS,5,225.00
+324,Baumeister Stefan,Male,08-11-2013,Landgraaf,NED,Germany,FIS,Parallel Slalom,10,67.60
+325,Baumeister Stefan,Male,07-11-2013,Landgraaf,NED,Germany,FIS,Parallel Slalom,12,57.20
+326,Baumeister Stefan,Male,23-03-2013,Götschen,GER,Germany,National Championships,Parallel GS,3,216.00
+327,Baumeister Stefan,Male,22-03-2013,Götschen,GER,Germany,National Championships,Parallel Slalom,2,288.00
+328,Baumeister Stefan,Male,16-03-2013,La Molina,ESP,Germany,World Cup,Parallel GS,34,22.00
+329,Baumeister Stefan,Male,10-03-2013,Arosa,SUI,Germany,World Cup,Parallel GS,40,18.50
+330,Baumeister Stefan,Male,07-03-2013,Erzurum,TUR,Germany,FIS Junior World Championships,Parallel Slalom,1,360.00
+331,Baumeister Stefan,Male,06-03-2013,Erzurum,TUR,Germany,FIS Junior World Championships,Parallel GS,3,216.00
+332,Baumeister Stefan,Male,23-02-2013,Moscow,RUS,Germany,World Cup,Parallel Slalom,43,17.60
+333,Baumeister Stefan,Male,14-02-2013,Sochi,RUS,Germany,World Cup,Parallel GS,29,36.00
+334,Baumeister Stefan,Male,08-02-2013,Rogla,SLO,Germany,World Cup,Parallel GS,32,26.00
+335,Baumeister Stefan,Male,27-01-2013,Stoneham,CAN,Germany,World Championships,Parallel Slalom,23,80.00
+336,Baumeister Stefan,Male,25-01-2013,Stoneham,CAN,Germany,World Championships,Parallel GS,35,20.00
+337,Baumeister Stefan,Male,20-01-2013,"Le Relais, QC",CAN,Germany,Nor-Am Cup,Parallel Slalom,8,160.00
+338,Baumeister Stefan,Male,19-01-2013,"Le Relais, QC",CAN,Germany,Nor-Am Cup,Parallel GS,24,35.00
+339,Baumeister Stefan,Male,12-01-2013,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,29,36.00
+340,Baumeister Stefan,Male,11-01-2013,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,40,18.50
+341,Baumeister Stefan,Male,21-12-2012,Carezza,ITA,Germany,World Cup,Parallel GS,52,14.90
+342,Baumeister Stefan,Male,16-12-2012,Racines/Ratschings,ITA,Germany,European Cup,Parallel Slalom,3,300.00
+343,Baumeister Stefan,Male,15-12-2012,Racines/Ratschings,ITA,Germany,European Cup,Parallel Slalom,3,240.00
+344,Baumeister Stefan,Male,09-12-2012,Lachtal,AUT,Germany,European Cup,Parallel GS,20,55.00
+345,Baumeister Stefan,Male,08-12-2012,Lachtal,AUT,Germany,European Cup,Parallel GS,32,13.00
+346,Baumeister Stefan,Male,28-03-2012,Sierra Nevada,ESP,Germany,FIS Junior World Championships,Parallel Slalom,31,10.08
+347,Baumeister Stefan,Male,27-03-2012,Sierra Nevada,ESP,Germany,FIS Junior World Championships,Parallel GS,5,162.00
+348,Baumeister Stefan,Male,20-03-2012,Rogla,SLO,Germany,European Cup,Parallel Slalom,2,360.00
+349,Baumeister Stefan,Male,19-03-2012,Rogla,SLO,Germany,European Cup,Parallel GS,20,44.00
+350,Baumeister Stefan,Male,18-03-2012,Tauplitz,AUT,Germany,FIS,Parallel Slalom,30,
+351,Baumeister Stefan,Male,17-03-2012,Tauplitz,AUT,Germany,FIS,Parallel Slalom,9,69.60
+352,Baumeister Stefan,Male,10-03-2012,Bad Gastein,AUT,Germany,European Cup,Parallel GS,1,290.00
+353,Baumeister Stefan,Male,04-03-2012,Gerlitzen,AUT,Germany,FIS,Parallel Slalom,22,19.80
+354,Baumeister Stefan,Male,03-03-2012,Gerlitzen,AUT,Germany,FIS,Parallel Slalom,5,108.00
+355,Baumeister Stefan,Male,25-02-2012,Brauneck,GER,Germany,Junior,Giant Slalom,46,
+356,Baumeister Stefan,Male,25-02-2012,Brauneck,GER,Germany,Junior,Slalom,46,
+357,Baumeister Stefan,Male,24-02-2012,Sochi,RUS,Germany,European Cup,Parallel Slalom,2,232.00
+358,Baumeister Stefan,Male,23-02-2012,Sochi,RUS,Germany,European Cup,Parallel GS,3,174.00
+359,Baumeister Stefan,Male,12-02-2012,Marianske Lazne,CZE,Germany,European Cup,Parallel Slalom,6,128.00
+360,Baumeister Stefan,Male,11-02-2012,Marianske Lazne,CZE,Germany,European Cup,Parallel Slalom,13,64.00
+361,Baumeister Stefan,Male,05-02-2012,Ratschings-Racines,ITA,Germany,European Cup,Parallel Slalom,6,200.00
+362,Baumeister Stefan,Male,29-01-2012,Adelboden,SUI,Germany,European Cup,Parallel GS,5,117.00
+363,Baumeister Stefan,Male,15-01-2012,Vratna,SVK,Germany,European Cup,Giant Slalom,2,208.00
+364,Baumeister Stefan,Male,14-01-2012,Vratna,SVK,Germany,European Cup,Parallel GS,5,117.00
+365,Baumeister Stefan,Male,08-01-2012,Kreischberg,AUT,Germany,FIS,Parallel GS,3,156.00
+366,Baumeister Stefan,Male,07-01-2012,Kreischberg,AUT,Germany,FIS,Parallel GS,17,36.40
+367,Baumeister Stefan,Male,31-03-2011,Valmalenco,ITA,Germany,FIS Junior World Championships,Parallel Slalom,3,216.00
+368,Baumeister Stefan,Male,30-03-2011,Valmalenco,ITA,Germany,FIS Junior World Championships,Parallel GS,4,180.00
+369,Baumeister Stefan,Male,26-03-2011,Lachtal,AUT,Germany,European Cup,Parallel Slalom,13,58.00
+370,Baumeister Stefan,Male,25-03-2011,Lachtal,AUT,Germany,European Cup,Parallel GS,24,20.30
+371,Baumeister Stefan,Male,19-03-2011,Valmalenco,ITA,Germany,World Cup,Parallel GS,36,19.70
+372,Baumeister Stefan,Male,13-03-2011,Radstadt,AUT,Germany,National Championships,Parallel Slalom,13,72.00
+373,Baumeister Stefan,Male,12-03-2011,Radstadt,AUT,Germany,National Championships,Parallel GS,17,50.40
+374,Baumeister Stefan,Male,01-03-2011,Rogla,SLO,Germany,European Cup,Parallel Slalom,14,81.00
+375,Baumeister Stefan,Male,28-02-2011,Rogla,SLO,Germany,European Cup,Parallel GS,14,57.60
+376,Baumeister Stefan,Male,27-02-2011,Villach / Gerlitzen,AUT,Germany,FIS,Parallel Slalom,10,57.20
+377,Baumeister Stefan,Male,26-02-2011,Villach / Gerlitzen,AUT,Germany,FIS,Parallel Slalom,31,7.28
+378,Baumeister Stefan,Male,12-02-2011,Valberg,FRA,Germany,European Cup,Parallel GS,2,256.00
+379,Baumeister Stefan,Male,11-02-2011,Valberg,FRA,Germany,European Cup,Parallel GS,18,41.60
+380,Baumeister Stefan,Male,06-02-2011,Vratna,SVK,Germany,European Cup,Parallel GS,6,128.00
+381,Baumeister Stefan,Male,05-02-2011,Vratna,SVK,Germany,European Cup,Parallel GS,17,44.80
+382,Baumeister Stefan,Male,30-01-2011,St. Gallenkirch,AUT,Germany,FIS,Parallel GS,14,43.20
+383,Baumeister Stefan,Male,29-01-2011,Adelboden,SUI,Germany,European Cup,Parallel GS,24,28.00
+384,Baumeister Stefan,Male,28-01-2011,Adelboden,SUI,Germany,European Cup,Parallel GS,18,52.00
+385,Baumeister Stefan,Male,23-01-2011,Innsbruck/Patscherkofel,AUT,Germany,FIS,Parallel Slalom,32,6.76
+386,Baumeister Stefan,Male,22-01-2011,Innsbruck/Patscherkofel,AUT,Germany,FIS,Parallel GS,5,117.00
+387,Baumeister Stefan,Male,12-01-2011,Berchtesgaden/Goetschen,GER,Germany,National Championships,Parallel GS,12,79.20
+388,Baumeister Stefan,Male,19-12-2010,Samnaun,SUI,Germany,FIS,Parallel Slalom,7,86.40
+389,Baumeister Stefan,Male,18-12-2010,Samnaun,SUI,Germany,FIS,Parallel Slalom,7,93.60
+390,Baumeister Stefan,Male,17-12-2010,Samnaun,SUI,Germany,FIS,Parallel Slalom,6,104.00
+391,Baumeister Stefan,Male,11-12-2010,Ratschings/Racines,ITA,Germany,European Cup,Parallel GS,28,11.60
+392,Baumeister Stefan,Male,10-12-2010,Ratschings/Racines,ITA,Germany,FIS,Parallel GS,50,4.03
+393,Baumeister Stefan,Male,05-12-2010,Welschnofen-Carezza,ITA,Germany,European Cup,Parallel Slalom,7,
+394,Baumeister Stefan,Male,04-12-2010,Welschnofen-Carezza,ITA,Germany,European Cup,Parallel GS,15,
+395,Baumeister Stefan,Male,28-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Germany,FIS,Parallel GS,10,67.60
+396,Baumeister Stefan,Male,27-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Germany,European Cup,Parallel GS,5,202.50
+397,Baumeister Stefan,Male,27-08-2010,Snow Park,NZL,Germany,FIS Junior World Championships,Parallel GS,3,216.00
+398,Baumeister Stefan,Male,26-08-2010,Snow Park,NZL,Germany,FIS Junior World Championships,Parallel Slalom,10,93.60
+399,Baumeister Stefan,Male,28-03-2010,Gerlitzen,AUT,Germany,National Championships,Parallel GS,20,39.60
+400,Baumeister Stefan,Male,27-03-2010,Gerlitzen,AUT,Germany,National Championships,Parallel Slalom,12,70.40
+401,Baumeister Stefan,Male,13-03-2010,Protasiv Yar Kiev,UKR,Germany,European Cup,Parallel Slalom,14,57.60
+402,Baumeister Stefan,Male,12-03-2010,Protasiv Yar Kiev,UKR,Germany,European Cup,Parallel Slalom,4,160.00
+403,Baumeister Stefan,Male,28-02-2010,Adelboden,SUI,Germany,FIS,Parallel Slalom,DSQ,
+404,Baumeister Stefan,Male,27-02-2010,Adelboden,SUI,Germany,European Cup,Parallel Slalom,15,57.60
+405,Baumeister Stefan,Male,21-02-2010,Ebingen,GER,Germany,FIS,Parallel Slalom,10,46.80
+406,Baumeister Stefan,Male,20-02-2010,Ebingen,GER,Germany,FIS,Parallel Slalom,2,144.00
+407,Baumeister Stefan,Male,14-02-2010,Kasberg,AUT,Germany,European Cup,Parallel GS,25,21.60
+408,Baumeister Stefan,Male,13-02-2010,Kasberg,AUT,Germany,European Cup,Parallel GS,49,
+409,Baumeister Stefan,Male,06-02-2010,Sudelfeld,GER,Germany,World Cup,Parallel GS,33,24.00
+410,Baumeister Stefan,Male,05-02-2010,Innsbruck Patcherkofel,AUT,Germany,FIS,Parallel Slalom,11,48.00
+411,Baumeister Stefan,Male,31-01-2010,Maribor,SLO,Germany,European Cup,Parallel GS,52,4.77
+412,Baumeister Stefan,Male,30-01-2010,Vratna,SVK,Germany,FIS,Parallel GS,13,40.00
+413,Baumeister Stefan,Male,29-01-2010,Vratna,SVK,Germany,European Cup,Parallel GS,33,7.68
+414,Baumeister Stefan,Male,24-01-2010,Imst,AUT,Germany,European Cup,Parallel Slalom,64,3.62
+415,Baumeister Stefan,Male,23-01-2010,Imst,AUT,Germany,European Cup,Parallel Slalom,40,5.92
+416,Baumeister Stefan,Male,17-01-2010,Goetschen Bischofswiesen,GER,Germany,FIS,Giant Slalom,5,45.00
+417,Baumeister Stefan,Male,16-01-2010,Goetschen Bischofswiesen,GER,Germany,FIS,Giant Slalom,3,60.00
+418,Baumeister Stefan,Male,10-01-2010,Marianske Lazne,CZE,Germany,FIS,Parallel Slalom,DNS,
+419,Baumeister Stefan,Male,09-01-2010,Marianske Lazne,CZE,Germany,European Cup,Parallel Slalom,DSQ,
+420,Baumeister Stefan,Male,30-12-2009,Goetschen  Bischofswiesen,GER,Germany,European Cup,Parallel GS,13,100.00
+421,Baumeister Stefan,Male,20-12-2009,Schoenberg/Lachtal,AUT,Germany,FIS,Parallel GS,48,4.19
+422,Baumeister Stefan,Male,19-12-2009,Schoenberg/Lachtal,AUT,Germany,FIS,Parallel GS,24,18.20
+423,Baumeister Stefan,Male,06-12-2009,Carezza,ITA,Germany,European Cup,Parallel Slalom,18,58.50
+424,Baumeister Stefan,Male,05-12-2009,Carezza,ITA,Germany,European Cup,Parallel GS,46,8.35
+425,Baumeister Stefan,Male,29-11-2009,"Hochfuegen, Zillertal (AUT)",GER,Germany,European Cup,Parallel GS,67,5.20
+426,Baumeister Stefan,Male,28-11-2009,"Hochfuegen, Zillertal (AUT)",GER,Germany,National Championships,Parallel GS,69,3.53
+427,Baumeister Stefan,Male,29-03-2009,Kasberg,AUT,Germany,National Championships,Parallel Slalom,41,
+428,Baumeister Stefan,Male,28-03-2009,Kasberg,AUT,Germany,National Championships,Parallel GS,27,16.20
+429,Baumeister Stefan,Male,15-03-2009,Gerlitzen,AUT,Germany,FIS,Parallel Slalom,27,10.80
+430,Baumeister Stefan,Male,14-03-2009,Gerlitzen,AUT,Germany,FIS,Parallel GS,16,36.00
+431,Baumeister Stefan,Male,06-03-2009,Nagano,JPN,Germany,FIS Junior World Championships,Parallel Slalom,24,25.20
+432,Baumeister Stefan,Male,05-03-2009,Nagano,JPN,Germany,FIS Junior World Championships,Parallel GS,22,32.40
+433,Baumeister Stefan,Male,22-02-2009,Adelboden,SUI,Germany,FIS,Parallel Slalom,51,
+434,Baumeister Stefan,Male,21-02-2009,Adelboden,SUI,Germany,European Cup,Parallel Slalom,25,15.60
+435,Baumeister Stefan,Male,20-02-2009,Adelboden,SUI,Germany,European Cup,Parallel Slalom,22,23.40
+436,Baumeister Stefan,Male,07-02-2009,Bischofswiesen / Götschen,GER,Germany,National Championships,Parallel GS,13,40.00
+437,Baumeister Stefan,Male,01-02-2009,Sils,SUI,Germany,FIS,Parallel GS,30,8.32
+438,Baumeister Stefan,Male,31-01-2009,Sils,SUI,Germany,European Cup,Parallel GS,30,9.28
+439,Baumeister Stefan,Male,30-01-2009,Sils,SUI,Germany,European Cup,Parallel GS,86,
+440,Baumeister Stefan,Male,18-01-2009,Imst,AUT,Germany,European Cup,Giant Slalom,33,8.64
+441,Baumeister Stefan,Male,17-01-2009,Imst,AUT,Germany,European Cup,Giant Slalom,30,11.52
+442,Baumeister Stefan,Male,11-01-2009,Kasberg,AUT,Germany,European Cup,Parallel GS,46,6.01
+443,Baumeister Stefan,Male,10-01-2009,Kasberg,AUT,Germany,European Cup,Parallel GS,57,4.82
+444,Baumeister Stefan,Male,04-01-2009,Marianske Lazne,CZE,Germany,European Cup,Parallel Slalom,31,7.28
+445,Baumeister Stefan,Male,03-01-2009,Marianske Lazne,CZE,Germany,European Cup,Parallel Slalom,16,39.00
+446,Baumeister Stefan,Male,29-12-2008,Bischofswiesen / Götschen,GER,Germany,European Cup,Parallel GS,76,
+447,Baumeister Stefan,Male,20-12-2008,Innsbruck/Patcherkofel,AUT,Germany,Junior,Parallel GS,5,22.50
+448,Baumeister Stefan,Male,19-12-2008,Innsbruck/Patcherkofel,AUT,Germany,Junior,Parallel GS,4,25.00
+449,Baumeister Stefan,Male,14-12-2008,Haus/Ennstal,AUT,Germany,FIS,Parallel GS,25,7.80
+450,Baumeister Stefan,Male,13-12-2008,Haus/Ennstal,AUT,Germany,FIS,Parallel GS,26,10.00
+451,Baumeister Stefan,Male,07-12-2008,Innsbruck/Patscherkofel,AUT,Germany,FIS,Parallel Slalom,54,3.72
+452,Baumeister Stefan,Male,06-12-2008,Innsbruck/Patscherkofel,AUT,Germany,FIS,Parallel Slalom,64,2.94
+453,Baumeister Stefan,Male,30-11-2008,"Hochfügen, Zillertal",AUT,Germany,National Championships,Parallel GS,40,6.66

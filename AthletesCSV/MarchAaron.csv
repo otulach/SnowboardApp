@@ -1,473 +1,477 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,March Aaron,Male,25-01-2025,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,7,
-1,March Aaron,Male,25-01-2025,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,3,600.00
-2,March Aaron,Male,19-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,13,
-3,March Aaron,Male,19-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,13,200.00
-4,March Aaron,Male,18-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,22,
-5,March Aaron,Male,18-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,22,90.00
-6,March Aaron,Male,15-01-2025,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom Team,6,
-7,March Aaron,Male,14-01-2025,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,5,
-8,March Aaron,Male,14-01-2025,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,1,1000.00
-9,March Aaron,Male,11-01-2025,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,19,
-10,March Aaron,Male,11-01-2025,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,19,120.00
-11,March Aaron,Male,21-12-2024,Davos,SUI,Italy,Qualification,Parallel Slalom,13,
-12,March Aaron,Male,21-12-2024,Davos,SUI,Italy,World Cup,Parallel Slalom,13,200.00
-13,March Aaron,Male,14-12-2024,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,11,
-14,March Aaron,Male,14-12-2024,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,2,800.00
-15,March Aaron,Male,12-12-2024,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,10,
-16,March Aaron,Male,12-12-2024,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,11,240.00
-17,March Aaron,Male,08-12-2024,Yanqing (NASC),CHN,Italy,World Cup,Parallel Slalom,14,180.00
-18,March Aaron,Male,08-12-2024,Yanqing (NASC),CHN,Italy,Qualification,Parallel Slalom,12,
-19,March Aaron,Male,07-12-2024,Yanqing (NASC),CHN,Italy,World Cup,Parallel Giant Slalom,7,360.00
-20,March Aaron,Male,07-12-2024,Yanqing (NASC),CHN,Italy,Qualification,Parallel Giant Slalom,3,
-21,March Aaron,Male,01-12-2024,Mylin,CHN,Italy,World Cup,Parallel Slalom,26,50.00
-22,March Aaron,Male,01-12-2024,Mylin,CHN,Italy,Qualification,Parallel Slalom,26,
-23,March Aaron,Male,30-11-2024,Mylin,CHN,Italy,World Cup,Parallel Giant Slalom,17,140.00
-24,March Aaron,Male,30-11-2024,Mylin,CHN,Italy,Qualification,Parallel Giant Slalom,17,
-25,March Aaron,Male,17-03-2024,St. Moritz,SUI,Italy,European Cup,Parallel Slalom,10,93.60
-26,March Aaron,Male,16-03-2024,St. Moritz,SUI,Italy,European Cup,Parallel Giant Slalom,20,39.60
-27,March Aaron,Male,09-03-2024,Winterberg,GER,Italy,Qualification,Parallel Slalom,16,
-28,March Aaron,Male,09-03-2024,Winterberg,GER,Italy,World Cup,Parallel Slalom,16,150.00
-29,March Aaron,Male,25-02-2024,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,2,
-30,March Aaron,Male,25-02-2024,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,5,450.00
-31,March Aaron,Male,24-02-2024,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,19,
-32,March Aaron,Male,24-02-2024,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,19,120.00
-33,March Aaron,Male,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,DSQ,
-34,March Aaron,Male,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,5,130.50
-35,March Aaron,Male,27-01-2024,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,13,
-36,March Aaron,Male,27-01-2024,Simonhöhe,AUT,Italy,World Cup,Parallel Giant Slalom,13,200.00
-37,March Aaron,Male,25-01-2024,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,8,
-38,March Aaron,Male,25-01-2024,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,2,800.00
-39,March Aaron,Male,21-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,10,
-40,March Aaron,Male,21-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,12,220.00
-41,March Aaron,Male,20-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,12,
-42,March Aaron,Male,20-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,8,320.00
-43,March Aaron,Male,16-01-2024,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,13,
-44,March Aaron,Male,16-01-2024,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,13,200.00
-45,March Aaron,Male,13-01-2024,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,13,
-46,March Aaron,Male,13-01-2024,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,7,360.00
-47,March Aaron,Male,23-12-2023,Davos,SUI,Italy,Qualification,Parallel Slalom,8,
-48,March Aaron,Male,23-12-2023,Davos ,SUI,Italy,World Cup,Parallel Slalom,6,400.00
-49,March Aaron,Male,16-12-2023,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,13,
-50,March Aaron,Male,16-12-2023,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,14,180.00
-51,March Aaron,Male,14-12-2023,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,8,
-52,March Aaron,Male,14-12-2023,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,7,360.00
-53,March Aaron,Male,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,8,92.80
-54,March Aaron,Male,18-03-2023,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,16,
-55,March Aaron,Male,18-03-2023,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,16,150.00
-56,March Aaron,Male,15-03-2023,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,15,160.00
-57,March Aaron,Male,15-03-2023,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,15,
-58,March Aaron,Male,22-02-2023,Bakuriani,GEO,Italy,World Championships,Parallel Slalom Team,1,
-59,March Aaron,Male,21-02-2023,Bakuriani,GEO,Italy,Qualification,Parallel Slalom,8,
-60,March Aaron,Male,21-02-2023,Bakuriani,GEO,Italy,World Championships,Parallel Slalom,8,320.00
-61,March Aaron,Male,19-02-2023,Bakuriani,GEO,Italy,Qualification,Parallel Giant Slalom,17,
-62,March Aaron,Male,19-02-2023,Bakuriani,GEO,Italy,World Championships,Parallel Giant Slalom,17,140.00
-63,March Aaron,Male,27-01-2023,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,21,
-64,March Aaron,Male,27-01-2023,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,21,100.00
-65,March Aaron,Male,26-01-2023,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,DNF,
-66,March Aaron,Male,26-01-2023,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,DNF,
-67,March Aaron,Male,22-01-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,12,
-68,March Aaron,Male,22-01-2023,Bansko,BUL,Italy,World Cup,Parallel Slalom,13,200.00
-69,March Aaron,Male,21-01-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,19,
-70,March Aaron,Male,21-01-2023,Bansko,BUL,Italy,World Cup,Parallel Slalom,19,120.00
-71,March Aaron,Male,14-01-2023,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,8,
-72,March Aaron,Male,14-01-2023,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,7,360.00
-73,March Aaron,Male,11-01-2023,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom Team,5,
-74,March Aaron,Male,10-01-2023,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,5,
-75,March Aaron,Male,10-01-2023,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,5,450.00
-76,March Aaron,Male,17-12-2022,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,4,
-77,March Aaron,Male,17-12-2022,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,3,600.00
-78,March Aaron,Male,15-12-2022,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,11,
-79,March Aaron,Male,15-12-2022,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,6,400.00
-80,March Aaron,Male,11-12-2022,Winterberg,GER,Italy,World Cup,Parallel Slalom,17,140.00
-81,March Aaron,Male,10-12-2022,Winterberg,GER,Italy,Qualification,Parallel Slalom,17,
-82,March Aaron,Male,12-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Slalom,DNS,
-83,March Aaron,Male,20-03-2022,Berchtesgaden,GER,Italy,World Cup,Parallel  Slalom Team,8,
-84,March Aaron,Male,19-03-2022,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,14,
-85,March Aaron,Male,19-03-2022,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,14,180.00
-86,March Aaron,Male,16-03-2022,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,10,
-87,March Aaron,Male,16-03-2022,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,12,220.00
-88,March Aaron,Male,12-03-2022,Piancavallo,ITA,Italy,Qualification,Parallel Slalom,7,
-89,March Aaron,Male,12-03-2022,Piancavallo,ITA,Italy,World Cup,Parallel Slalom,5,450.00
-90,March Aaron,Male,14-01-2022,Simonhöhe,AUT,Italy,World Cup,Parallel Giant Slalom,5,450.00
-91,March Aaron,Male,14-01-2022,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,2,
-92,March Aaron,Male,08-01-2022,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,9,
-93,March Aaron,Male,08-01-2022,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,5,450.00
-94,March Aaron,Male,18-12-2021,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,28,
-95,March Aaron,Male,18-12-2021,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,28,40.00
-96,March Aaron,Male,16-12-2021,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,25,
-97,March Aaron,Male,16-12-2021,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,25,60.00
-98,March Aaron,Male,12-12-2021,Bannoye,RUS,Italy,Qualification,Parallel Slalom,3,
-99,March Aaron,Male,12-12-2021,Bannoye,RUS,Italy,World Cup,Parallel Slalom,5,450.00
-100,March Aaron,Male,11-12-2021,Bannoye,RUS,Italy,Qualification,Parallel Giant Slalom,19,
-101,March Aaron,Male,11-12-2021,Bannoye,RUS,Italy,World Cup,Parallel Giant Slalom,19,120.00
-102,March Aaron,Male,31-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Giant Slalom,7,104.40
-103,March Aaron,Male,30-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Slalom,2,232.00
-104,March Aaron,Male,20-03-2021,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,4,
-105,March Aaron,Male,20-03-2021,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,1,1000.00
-106,March Aaron,Male,06-03-2021,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,3,
-107,March Aaron,Male,06-03-2021,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,5,450.00
-108,March Aaron,Male,02-03-2021,Rogla,SLO,Italy,World Championships,Parallel Slalom,12,220.00
-109,March Aaron,Male,02-03-2021,Rogla,SLO,Italy,Qualification,Parallel Slalom,9,
-110,March Aaron,Male,01-03-2021,Rogla,SLO,Italy,World Championships,Parallel Giant Slalom,7,360.00
-111,March Aaron,Male,01-03-2021,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,7,
-112,March Aaron,Male,07-02-2021,Bannoye,RUS,Italy,Qualification,Parallel Slalom,18,
-113,March Aaron,Male,07-02-2021,Bannoye,RUS,Italy,World Cup,Parallel Slalom,18,130.00
-114,March Aaron,Male,06-02-2021,Baonoye,RUS,Italy,Qualification,Parallel Giant Slalom,22,
-115,March Aaron,Male,06-02-2021,Bannoye,RUS,Italy,World Cup,Parallel Giant Slalom,22,90.00
-116,March Aaron,Male,30-01-2021,Moscow,RUS,Italy,Qualification,Parallel Slalom,4,
-117,March Aaron,Male,30-01-2021,Moscow,RUS,Italy,World Cup,Parallel Slalom,5,450.00
-118,March Aaron,Male,13-01-2021,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom Team,12,
-119,March Aaron,Male,12-01-2021,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,15,
-120,March Aaron,Male,12-01-2021,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,1,1000.00
-121,March Aaron,Male,09-01-2021,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,25,
-122,March Aaron,Male,09-01-2021,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,25,60.00
-123,March Aaron,Male,17-12-2020,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,4,
-124,March Aaron,Male,17-12-2020,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,10,260.00
-125,March Aaron,Male,12-12-2020,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,10,
-126,March Aaron,Male,12-12-2020,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,2,800.00
-127,March Aaron,Male,01-03-2020,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,38,19.10
-128,March Aaron,Male,01-03-2020,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,38,
-129,March Aaron,Male,29-02-2020,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,23,80.00
-130,March Aaron,Male,29-02-2020,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,23,
-131,March Aaron,Male,22-02-2020,Pyeongchang,KOR,Italy,World Cup,Parallel Giant Slalom,16,150.00
-132,March Aaron,Male,22-02-2020,Pyeongchang,KOR,Italy,Qualification,Parallel Giant Slalom,16,
-133,March Aaron,Male,26-01-2020,Piancavallo,ITA,Italy,World Cup,Parallel Slalom Team,21,
-134,March Aaron,Male,25-01-2020,Piancavallo,ITA,Italy,World Cup,Parallel Slalom,12,220.00
-135,March Aaron,Male,25-01-2020,Piancavallo,ITA,Italy,Qualification,Parallel Slalom,12,
-136,March Aaron,Male,18-01-2020,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,7,360.00
-137,March Aaron,Male,18-01-2020,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,14,
-138,March Aaron,Male,14-01-2020,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,20,110.00
-139,March Aaron,Male,14-01-2020,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,20,
-140,March Aaron,Male,11-01-2020,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,21,100.00
-141,March Aaron,Male,11-01-2020,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,21,
-142,March Aaron,Male,19-12-2019,Carezza,ITA,Italy,Open,Parallel Giant Slalom,35,20.00
-143,March Aaron,Male,14-12-2019,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,32,26.00
-144,March Aaron,Male,14-12-2019,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,32,
-145,March Aaron,Male,08-12-2019,Bannoye,RUS,Italy,World Cup,Parallel Giant Slalom,7,360.00
-146,March Aaron,Male,08-12-2019,Bannoye,RUS,Italy,Qualification,Parallel Giant Slalom,8,
-147,March Aaron,Male,07-12-2019,Bannoye,RUS,Italy,World Cup,Parallel Slalom,2,800.00
-148,March Aaron,Male,07-12-2019,Bannoye,RUS,Italy,Qualification,Parallel Slalom,14,
-149,March Aaron,Male,24-03-2019,Winterberg,GER,Italy,World Cup,Parallel Slalom Team,9,
-150,March Aaron,Male,23-03-2019,Winterberg,GER,Italy,World Cup,Parallel Slalom,5,450.00
-151,March Aaron,Male,23-03-2019,Winterberg,GER,Italy,Qualification,Parallel Slalom,3,
-152,March Aaron,Male,09-03-2019,Scuol,SUI,Italy,World Cup,Parallel GS,14,180.00
-153,March Aaron,Male,09-03-2019,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,14,
-154,March Aaron,Male,24-02-2019,Secret Garden,CHN,Italy,World Cup,Parallel Slalom,15,160.00
-155,March Aaron,Male,24-02-2019,Secret Garden,CHN,Italy,Qualification,Parallel Slalom,15,
-156,March Aaron,Male,23-02-2019,Secret Garden,CHN,Italy,World Cup,Parallel Giant Slalom,15,160.00
-157,March Aaron,Male,23-02-2019,Secret Garden,CHN,Italy,Qualification,Parallel Giant Slalom,15,
-158,March Aaron,Male,17-02-2019,Pyeongchang,KOR,Italy,World Cup,Parallel Giant Slalom,37,19.40
-159,March Aaron,Male,17-02-2019,Pyeongchang,KOR,Italy,Qualification,Parallel Giant Slalom,37,
-160,March Aaron,Male,16-02-2019,Pyeongchang,KOR,Italy,World Cup,Parallel Giant Slalom,4,500.00
-161,March Aaron,Male,16-02-2019,Pyeongchang,KOR,Italy,Qualification,Parallel Giant Slalom,12,
-162,March Aaron,Male,05-02-2019,Park City,USA,Italy,World Championships,Parallel Slalom,5,450.00
-163,March Aaron,Male,04-02-2019,Park City,USA,Italy,World Championships,Parallel Giant Slalom,14,180.00
-164,March Aaron,Male,27-01-2019,Moscow,RUS,Italy,World Cup,Parallel Slalom Team,4,
-165,March Aaron,Male,26-01-2019,Moscow,RUS,Italy,World Cup,Parallel Slalom,13,200.00
-166,March Aaron,Male,26-01-2019,Moscow,RUS,Italy,Qualification,Parallel Slalom,12,
-167,March Aaron,Male,19-01-2019,Rogla,SLO,Italy,World Cup,Parallel GS,10,260.00
-168,March Aaron,Male,19-01-2019,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,10,
-169,March Aaron,Male,09-01-2019,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom Team,2,
-170,March Aaron,Male,08-01-2019,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,6,400.00
-171,March Aaron,Male,08-01-2019,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,6,
-172,March Aaron,Male,15-12-2018,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel GS,5,450.00
-173,March Aaron,Male,15-12-2018,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,9,
-174,March Aaron,Male,13-12-2018,Carezza,ITA,Italy,World Cup,Parallel GS,5,450.00
-175,March Aaron,Male,13-12-2018,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,5,
-176,March Aaron,Male,07-04-2018,Racines,ITA,Italy,European Cup,Parallel Slalom,1,360.00
-177,March Aaron,Male,17-03-2018,Winterberg,GER,Italy,World Cup,Parallel Slalom,7,360.00
-178,March Aaron,Male,17-03-2018,Winterberg,GER,Italy,Qualification,Parallel Slalom,8,
-179,March Aaron,Male,10-03-2018,Scuol,SUI,Italy,World Cup,Parallel GS,4,500.00
-180,March Aaron,Male,10-03-2018,Scuol,SUI,Italy,Qualification,Parallel GS,15,
-181,March Aaron,Male,08-03-2018,Carezza,ITA,Italy,National Championships,Parallel Slalom,2,232.00
-182,March Aaron,Male,03-03-2018,Kayseri,TUR,Italy,World Cup,Parallel GS,42,
-183,March Aaron,Male,03-03-2018,Kayseri,TUR,Italy,Qualification,Parallel GS,42,
-184,March Aaron,Male,24-02-2018,Phoenix Snow Park,KOR,Italy,Qualification,Parallel GS,23,
-185,March Aaron,Male,24-02-2018,Phoenix Snow Park,KOR,Italy,Olympic Winter Games,Parallel GS,23,80.00
-186,March Aaron,Male,28-01-2018,Bansko,BUL,Italy,World Cup,Parallel GS,21,100.00
-187,March Aaron,Male,28-01-2018,Bansko,BUL,Italy,Qualification,Parallel GS,21,
-188,March Aaron,Male,26-01-2018,Bansko,BUL,Italy,World Cup,Parallel GS,25,60.00
-189,March Aaron,Male,26-01-2018,Bansko,BUL,Italy,Qualification,Parallel GS,25,
-190,March Aaron,Male,21-01-2018,Rogla,SLO,Italy,World Cup,Parallel GS,14,180.00
-191,March Aaron,Male,21-01-2018,Rogla,SLO,Italy,Qualification,Parallel GS,13,
-192,March Aaron,Male,20-01-2018,Rogla,SLO,Italy,World Cup,Parallel GS,4,500.00
-193,March Aaron,Male,20-01-2018,Rogla,SLO,Italy,Qualification,Parallel GS,15,
-194,March Aaron,Male,12-01-2018,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,30,32.00
-195,March Aaron,Male,12-01-2018,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,30,
-196,March Aaron,Male,05-01-2018,Lackenhof,AUT,Italy,World Cup,Parallel GS,26,50.00
-197,March Aaron,Male,05-01-2018,Lackenhof,AUT,Italy,Qualification,Parallel GS,26,
-198,March Aaron,Male,16-12-2017,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Slalom,12,220.00
-199,March Aaron,Male,16-12-2017,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Slalom,8,
-200,March Aaron,Male,15-12-2017,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel GS,38,19.10
-201,March Aaron,Male,15-12-2017,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel GS,38,
-202,March Aaron,Male,14-12-2017,Carezza,ITA,Italy,World Cup,Parallel GS,17,140.00
-203,March Aaron,Male,14-12-2017,Carezza,ITA,Italy,Qualification,Parallel GS,17,
-204,March Aaron,Male,23-03-2017,Monte Pora - Castione della presolana,ITA,Italy,National Championships,Parallel Slalom,3,174.00
-205,March Aaron,Male,22-03-2017,Monte Pora - Castione della presolana,ITA,Italy,National Championships,Parallel GS,1,290.00
-206,March Aaron,Male,19-03-2017,Winterberg,GER,Italy,World Cup,Parallel Slalom Team,1,
-207,March Aaron,Male,18-03-2017,Winterberg,GER,Italy,Qualification,Parallel Slalom,10,
-208,March Aaron,Male,18-03-2017,Winterberg,GER,Italy,World Cup,Parallel Slalom,2,800.00
-209,March Aaron,Male,16-03-2017,Sierra Nevada,ESP,Italy,World Championships,Parallel GS,18,130.00
-210,March Aaron,Male,15-03-2017,Sierra Nevada,ESP,Italy,World Championships,Parallel Slalom,5,450.00
-211,March Aaron,Male,05-03-2017, Erciyes-Kayseri,TUR,Italy,World Cup,Parallel GS,23,80.00
-212,March Aaron,Male,12-02-2017,Phoenix Pyeongchang,KOR,Italy,World Cup,Parallel GS,3,600.00
-213,March Aaron,Male,05-02-2017,Bansko,BUL,Italy,World Cup,Parallel GS,32,26.00
-214,March Aaron,Male,03-02-2017,Bansko,BUL,Italy,World Cup,Parallel GS,13,200.00
-215,March Aaron,Male,28-01-2017,Rogla,SLO,Italy,World Cup,Parallel GS,DSQ,
-216,March Aaron,Male,10-01-2017,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,6,400.00
-217,March Aaron,Male,17-12-2016,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Slalom,7,360.00
-218,March Aaron,Male,15-12-2016,Carezza,ITA,Italy,World Cup,Parallel GS,8,320.00
-219,March Aaron,Male,04-11-2016,Landgraaf,NED,Italy,European Cup,Parallel Slalom,14,64.80
-220,March Aaron,Male,03-11-2016,Landgraaf,NED,Italy,European Cup,Parallel Slalom,13,72.00
-221,March Aaron,Male,08-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Parallel Slalom,7,129.60
-222,March Aaron,Male,07-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Parallel GS,2,288.00
-223,March Aaron,Male,27-03-2016,Racines,ITA,Italy,European Cup,Parallel Slalom,16,67.50
-224,March Aaron,Male,26-03-2016,Racines,ITA,Italy,European Cup,Parallel Slalom,14,90.00
-225,March Aaron,Male,06-03-2016,Winterberg,GER,Italy,World Cup,Parallel Slalom,11,240.00
-226,March Aaron,Male,27-02-2016,Kayseri,TUR,Italy,World Cup,Parallel GS,9,290.00
-227,March Aaron,Male,30-01-2016,Moscow,RUS,Italy,World Cup,Parallel Slalom,11,240.00
-228,March Aaron,Male,23-01-2016,Rogla,SLO,Italy,World Cup,Parallel GS,15,160.00
-229,March Aaron,Male,08-01-2016,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,7,360.00
-230,March Aaron,Male,19-12-2015,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Slalom,6,400.00
-231,March Aaron,Male,12-12-2015,Carezza,ITA,Italy,World Cup,Parallel GS,12,220.00
-232,March Aaron,Male,16-10-2015,Landgraaf,NED,Italy,European Cup,Parallel Slalom,6,200.00
-233,March Aaron,Male,15-10-2015,Landgraaf,NED,Italy,European Cup,Parallel Slalom,10,130.00
-234,March Aaron,Male,27-03-2015,Canazei,ITA,Italy,National Championships,Parallel Slalom,10,93.60
-235,March Aaron,Male,26-03-2015,Canazei,ITA,Italy,National Championships,Parallel GS,3,216.00
-236,March Aaron,Male,21-03-2015,Racines,ITA,Italy,European Cup,Parallel Slalom,5,225.00
-237,March Aaron,Male,14-03-2015,Winterberg,GER,Italy,World Cup,Parallel Slalom,13,200.00
-238,March Aaron,Male,07-03-2015,Moscow,RUS,Italy,World Cup,Parallel Slalom,DSQ,
-239,March Aaron,Male,01-03-2015,Asahikawa,JPN,Italy,World Cup,Parallel Slalom,5,450.00
-240,March Aaron,Male,28-02-2015,Asahikawa,JPN,Italy,World Cup,Parallel GS,9,290.00
-241,March Aaron,Male,07-02-2015,Sudelfeld,GER,Italy,World Cup,Parallel GS,13,200.00
-242,March Aaron,Male,06-02-2015,Sudelfeld,GER,Italy,Qualification,Parallel GS,14,
-243,March Aaron,Male,31-01-2015,Rogla,SLO,Italy,World Cup,Parallel GS,14,180.00
-244,March Aaron,Male,23-01-2015,Lachtal,AUT,Italy,World Championships,Parallel GS,16,150.00
-245,March Aaron,Male,22-01-2015,Lachtal,AUT,Italy,World Championships,Parallel Slalom,4,500.00
-246,March Aaron,Male,09-01-2015,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,22,90.00
-247,March Aaron,Male,18-12-2014,Montafon,AUT,Italy,World Cup,Parallel Slalom,5,450.00
-248,March Aaron,Male,16-12-2014,Carezza,ITA,Italy,World Cup,Parallel GS,10,260.00
-249,March Aaron,Male,09-04-2014,Chiesa in Valmalenco,ITA,Italy,National Championships,Parallel Slalom,2,288.00
-250,March Aaron,Male,08-04-2014,Chiesa in Valmalenco,ITA,Italy,National Championships,Parallel GS,10,93.60
-251,March Aaron,Male,15-03-2014,Ratsching/Racines,ITA,Italy,European Cup,Parallel Slalom,9,145.00
-252,March Aaron,Male,22-02-2014,Rosa Khutor,RUS,Italy,Olympic Winter Games,Parallel Slalom,4,500.00
-253,March Aaron,Male,19-02-2014,Rosa Khutor,RUS,Italy,Olympic Winter Games,Parallel GS,30,0.00
-254,March Aaron,Male,01-02-2014,Sudelfeld,GER,Italy,World Cup,Parallel GS,6,400.00
-255,March Aaron,Male,26-01-2014,Lizzola Valbondione,ITA,Italy,European Cup,Parallel Slalom,1,500.00
-256,March Aaron,Male,25-01-2014,Lizzola Valbondione,ITA,Italy,European Cup,Parallel Slalom,1,500.00
-257,March Aaron,Male,18-01-2014,Rogla,SLO,Italy,World Cup,Parallel GS,18,130.00
-258,March Aaron,Male,12-01-2014,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,57,0.00
-259,March Aaron,Male,10-01-2014,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,3,600.00
-260,March Aaron,Male,22-12-2013,Schönberg-Lachtal,AUT,Italy,European Cup,Parallel Slalom,2,400.00
-261,March Aaron,Male,21-12-2013,Schönberg-Lachtal,AUT,Italy,European Cup,Parallel Slalom,5,225.00
-262,March Aaron,Male,19-12-2013,Monte Bondone - Canalon Lavaman,ITA,Italy,Universiade,Parallel GS,2,320.00
-263,March Aaron,Male,14-12-2013,Carezza,ITA,Italy,World Cup,Parallel Slalom,9,290.00
-264,March Aaron,Male,13-12-2013,Carezza,ITA,Italy,World Cup,Parallel GS,16,150.00
-265,March Aaron,Male,07-12-2013,Hochfügen,AUT,Italy,European Cup,Parallel GS,3,300.00
-266,March Aaron,Male,08-11-2013,Landgraaf,NED,Italy,FIS,Parallel Slalom,1,260.00
-267,March Aaron,Male,07-11-2013,Landgraaf,NED,Italy,FIS,Parallel Slalom,25,15.60
-268,March Aaron,Male,04-04-2013,Chiesa in Valmalenco,ITA,Italy,National Championships,Parallel Slalom,1,360.00
-269,March Aaron,Male,03-04-2013,Chiesa in Valmalenco,ITA,Italy,National Championships,Giant Slalom,1,360.00
-270,March Aaron,Male,16-03-2013,La Molina,ESP,Italy,World Cup,Parallel GS,14,180.00
-271,March Aaron,Male,10-03-2013,Arosa,SUI,Italy,World Cup,Parallel GS,15,160.00
-272,March Aaron,Male,23-02-2013,Moscow,RUS,Italy,World Cup,Parallel Slalom,5,450.00
-273,March Aaron,Male,14-02-2013,Sochi,RUS,Italy,World Cup,Parallel GS,12,220.00
-274,March Aaron,Male,08-02-2013,Rogla,SLO,Italy,World Cup,Parallel GS,10,260.00
-275,March Aaron,Male,27-01-2013,Stoneham,CAN,Italy,World Championships,Parallel Slalom,9,290.00
-276,March Aaron,Male,25-01-2013,Stoneham,CAN,Italy,World Championships,Parallel GS,9,290.00
-277,March Aaron,Male,12-01-2013,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,3,600.00
-278,March Aaron,Male,11-01-2013,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,5,450.00
-279,March Aaron,Male,21-12-2012,Carezza,ITA,Italy,World Cup,Parallel GS,16,150.00
-280,March Aaron,Male,09-12-2012,Lachtal,AUT,Italy,European Cup,Parallel GS,2,400.00
-281,March Aaron,Male,08-12-2012,Lachtal,AUT,Italy,European Cup,Parallel GS,8,160.00
-282,March Aaron,Male,04-04-2012,Chiesa in Valmalenco,ITA,Italy,National Championships,Parallel Slalom,3,216.00
-283,March Aaron,Male,03-04-2012,Chiesa in Valmalenco,ITA,Italy,National Championships,Giant Slalom,2,288.00
-284,March Aaron,Male,17-03-2012,Valmalenco,ITA,Italy,World Cup,Parallel GS,14,180.00
-285,March Aaron,Male,10-03-2012,La Molina,ESP,Italy,World Cup,Parallel GS,19,120.00
-286,March Aaron,Male,03-03-2012,Moscow,RUS,Italy,World Cup,Parallel Slalom,6,400.00
-287,March Aaron,Male,22-02-2012,Stoneham,CAN,Italy,World Cup,Parallel GS,10,260.00
-288,March Aaron,Male,11-02-2012,Lizzola Valbondione,ITA,Italy,FIS,Giant Slalom,1,260.00
-289,March Aaron,Male,10-02-2012,Lizzola Valbondione,ITA,Italy,FIS,Parallel Slalom,1,260.00
-290,March Aaron,Male,28-01-2012,Sudelfeld,GER,Italy,World Cup,Parallel GS,17,140.00
-291,March Aaron,Male,22-01-2012,Valgardena-S. Cristina-Seceda,ITA,Italy,FIS,Slalom,39,
-292,March Aaron,Male,15-01-2012,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,2,800.00
-293,March Aaron,Male,13-01-2012,Jauerling,AUT,Italy,World Cup,Parallel Slalom,9,290.00
-294,March Aaron,Male,22-12-2011,Carezza,ITA,Italy,World Cup,Parallel Slalom,11,240.00
-295,March Aaron,Male,21-12-2011,Carezza,ITA,Italy,World Cup,Parallel GS,14,180.00
-296,March Aaron,Male,15-12-2011,Telluride,USA,Italy,Qualification,Parallel GS,7,
-297,March Aaron,Male,15-12-2011,Telluride,USA,Italy,World Cup,Parallel GS,5,450.00
-298,March Aaron,Male,13-10-2011,Landgraaf,NED,Italy,World Cup,Parallel Slalom,2,800.00
-299,March Aaron,Male,08-04-2011,Chiesa Valmalenco - Alpe Palu,ITA,Italy,National Championships,Parallel GS,1,360.00
-300,March Aaron,Male,27-03-2011,Arosa,SUI,Italy,World Cup,Parallel GS,17,140.00
-301,March Aaron,Male,19-03-2011,Valmalenco,ITA,Italy,World Cup,Parallel GS,31,28.00
-302,March Aaron,Male,05-03-2011,Moscow,RUS,Italy,World Cup,Parallel Slalom,7,360.00
-303,March Aaron,Male,20-02-2011,Stoneham,CAN,Italy,World Cup,Parallel GS,9,290.00
-304,March Aaron,Male,09-02-2011,Yongpyong,KOR,Italy,World Cup,Parallel Slalom,3,600.00
-305,March Aaron,Male,22-01-2011,La Molina,ESP,Italy,World Championships,Parallel Slalom,11,240.00
-306,March Aaron,Male,19-01-2011,La Molina,ESP,Italy,World Championships,Parallel GS,12,220.00
-307,March Aaron,Male,09-01-2011,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,2,800.00
-308,March Aaron,Male,16-12-2010,Telluride,USA,Italy,World Cup,Parallel GS,19,120.00
-309,March Aaron,Male,11-12-2010,Limone Piemonte,ITA,Italy,World Cup,Parallel Slalom,2,800.00
-310,March Aaron,Male,10-12-2010,Limone Piemonte,ITA,Italy,World Cup,Parallel GS,14,180.00
-311,March Aaron,Male,10-10-2010,Landgraaf,NED,Italy,World Cup,Parallel Slalom,3,600.00
-312,March Aaron,Male,23-03-2010,Pozza di Fassa,ITA,Italy,National Championships,Giant Slalom,4,145.00
-313,March Aaron,Male,21-03-2010,La Molina,ESP,Italy,World Cup,Parallel GS,22,90.00
-314,March Aaron,Male,13-03-2010,Valmalenco,ITA,Italy,World Cup,Parallel GS,8,320.00
-315,March Aaron,Male,06-03-2010,Moscow,RUS,Italy,World Cup,Parallel Slalom,1,1000.00
-316,March Aaron,Male,27-02-2010,Cypress,CAN,Italy,Olympic Winter Games,Parallel GS,15,160.00
-317,March Aaron,Male,06-02-2010,Sudelfeld,GER,Italy,World Cup,Parallel GS,17,140.00
-318,March Aaron,Male,24-01-2010,Stoneham,CAN,Italy,World Cup,Parallel GS,25,60.00
-319,March Aaron,Male,17-01-2010,Nendaz,SUI,Italy,World Cup,Parallel GS,28,40.00
-320,March Aaron,Male,14-01-2010,Nendaz,SUI,Italy,European Cup,Parallel GS,31,14.00
-321,March Aaron,Male,06-01-2010,Kreischberg,AUT,Italy,World Cup,Parallel GS,22,90.00
-322,March Aaron,Male,17-12-2009,Telluride,USA,Italy,World Cup,Parallel GS,16,150.00
-323,March Aaron,Male,15-12-2009,Telluride,USA,Italy,World Cup,Parallel GS,18,130.00
-324,March Aaron,Male,05-12-2009,Carezza,ITA,Italy,European Cup,Parallel GS,21,50.00
-325,March Aaron,Male,29-11-2009,"Hochfuegen, Zillertal (AUT)",GER,Italy,European Cup,Parallel GS,2,400.00
-326,March Aaron,Male,09-10-2009,Landgraaf,NED,Italy,World Cup,Parallel Slalom,4,500.00
-327,March Aaron,Male,28-03-2009,Canazei,ITA,Italy,National Championships,Giant Slalom,2,176.00
-328,March Aaron,Male,22-03-2009,Valmalenco,ITA,Italy,World Cup,Parallel GS,31,28.00
-329,March Aaron,Male,15-03-2009,La Molina,ESP,Italy,World Cup,Parallel GS,26,
-330,March Aaron,Male,26-02-2009,Sunday River,USA,Italy,World Cup,Parallel GS,39,18.80
-331,March Aaron,Male,22-02-2009,Stoneham,CAN,Italy,World Cup,Parallel GS,22,90.00
-332,March Aaron,Male,31-01-2009,Sudelfeld,GER,Italy,World Cup,Parallel GS,40,18.50
-333,March Aaron,Male,21-01-2009,Gangwon,KOR,Italy,World Championships,Parallel Slalom,19,120.00
-334,March Aaron,Male,20-01-2009,Gangwon,KOR,Italy,World Championships,Parallel GS,25,60.00
-335,March Aaron,Male,07-01-2009,Kreischberg,AUT,Italy,World Cup,Parallel Slalom,24,70.00
-336,March Aaron,Male,06-01-2009,Kreischberg,AUT,Italy,World Cup,Parallel GS,32,26.00
-337,March Aaron,Male,21-12-2008,Arosa,SUI,Italy,World Cup,Parallel Slalom,12,220.00
-338,March Aaron,Male,14-12-2008,Limone Piemonte,ITA,Italy,World Cup,Parallel GS,23,80.00
-339,March Aaron,Male,10-10-2008,Landgraaf,NED,Italy,World Cup,Parallel Slalom,25,60.00
-340,March Aaron,Male,29-03-2008,Pfelders in Passeiertal,ITA,Italy,National Championships,Parallel GS,3,216.00
-341,March Aaron,Male,28-03-2008,Pfelders in Passeiertal,ITA,Italy,National Championships,Parallel Slalom,4,180.00
-342,March Aaron,Male,15-03-2008,Valmalenco,ITA,Italy,World Cup,Parallel GS,39,
-343,March Aaron,Male,09-03-2008,Adelboden,SUI,Italy,FIS,Parallel Slalom,5,72.00
-344,March Aaron,Male,08-03-2008,Adelboden,SUI,Italy,European Cup,Parallel Slalom,6,104.00
-345,March Aaron,Male,07-03-2008,Adelboden,SUI,Italy,European Cup,Parallel Slalom,1,260.00
-346,March Aaron,Male,04-03-2008,Shemshak,IRI,Italy,FIS,Parallel GS,1,50.00
-347,March Aaron,Male,03-03-2008,Shemshak,IRI,Italy,FIS,Parallel Slalom,1,50.00
-348,March Aaron,Male,02-03-2008,Shemshak,IRI,Italy,FIS,Parallel Slalom,DNF,
-349,March Aaron,Male,17-02-2008,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,2,208.00
-350,March Aaron,Male,16-02-2008,Gerlitzen,AUT,Italy,FIS,Parallel GS,5,117.00
-351,March Aaron,Male,27-01-2008,Sudelfeld,GER,Italy,European Cup,Parallel GS,20,55.00
-352,March Aaron,Male,20-01-2008,La Molina,ESP,Italy,World Cup,Parallel Slalom,15,160.00
-353,March Aaron,Male,19-01-2008,La Molina,ESP,Italy,World Cup,Parallel GS,25,60.00
-354,March Aaron,Male,12-01-2008,Sand in Taufers,ITA,Italy,European Cup,Giant Slalom,38,9.55
-355,March Aaron,Male,10-01-2008,Bad Gastein,AUT,Italy,European Cup,Parallel Slalom,35,10.00
-356,March Aaron,Male,09-01-2008,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,23,80.00
-357,March Aaron,Male,29-12-2007,Götschen/Bischofswiesen,GER,Italy,European Cup,Parallel GS,29,18.00
-358,March Aaron,Male,15-12-2007,Carezza,ITA,Italy,European Cup,Giant Slalom,5,117.00
-359,March Aaron,Male,08-12-2007,Haus im Ennstal,AUT,Italy,FIS,Giant Slalom,6,80.00
-360,March Aaron,Male,07-12-2007,Haus im Ennstal,AUT,Italy,European Cup,Giant Slalom,6,96.00
-361,March Aaron,Male,02-12-2007,Kühtai,AUT,Italy,FIS,Parallel Slalom,13,52.00
-362,March Aaron,Male,01-12-2007,Kühtai,AUT,Italy,FIS,Parallel Slalom,31,7.28
-363,March Aaron,Male,12-10-2007,Landgraaf,NED,Italy,World Cup,Parallel Slalom,26,50.00
-364,March Aaron,Male,01-04-2007,Kaunertal,GER,Italy,National Championships,Parallel Slalom,7,72.00
-365,March Aaron,Male,31-03-2007,Kaunertal,GER,Italy,National Championships,Parallel GS,6,80.00
-366,March Aaron,Male,24-03-2007,Colere,ITA,Italy,National Championships,Giant Slalom,7,129.60
-367,March Aaron,Male,23-03-2007,Colere,ITA,Italy,National Championships,Parallel Slalom,6,144.00
-368,March Aaron,Male,04-03-2007,Kiev,UKR,Italy,European Cup,Parallel Slalom,11,76.80
-369,March Aaron,Male,03-03-2007,Kiev,UKR,Italy,European Cup,Parallel Slalom,13,64.00
-370,March Aaron,Male,25-02-2007,Klinovec,CZE,Italy,European Cup,Parallel GS,DSQ,
-371,March Aaron,Male,24-02-2007,Klinovec,CZE,Italy,European Cup,Parallel GS,7,104.40
-372,March Aaron,Male,19-02-2007,Adelboden,SUI,Italy,European Cup,Giant Slalom,5,144.00
-373,March Aaron,Male,18-02-2007,Adelboden,SUI,Italy,European Cup,Giant Slalom,16,48.00
-374,March Aaron,Male,17-02-2007,Adelboden,SUI,Italy,FIS,Giant Slalom,6,104.00
-375,March Aaron,Male,02-02-2007,Bardonecchia,ITA,Italy,World Cup,Parallel GS,43,17.60
-376,March Aaron,Male,30-01-2007,Nendaz,SUI,Italy,European Cup,Parallel Slalom,8,102.40
-377,March Aaron,Male,28-01-2007,Nendaz,SUI,Italy,World Cup,Parallel Slalom,30,32.00
-378,March Aaron,Male,26-01-2007,Bardonecchia,ITA,Italy,Universiade,Giant Slalom,7,104.40
-379,March Aaron,Male,21-01-2007,Kühtai,AUT,Italy,European Cup,Parallel Slalom,7,162.00
-380,March Aaron,Male,17-01-2007,Arosa,SUI,Italy,World Championships,Parallel Slalom,30,32.00
-381,March Aaron,Male,22-12-2006,Bad Gastein,AUT,Italy,European Cup,Parallel Slalom,20,49.50
-382,March Aaron,Male,21-12-2006,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,35,20.00
-383,March Aaron,Male,20-12-2006,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,24,70.00
-384,March Aaron,Male,13-12-2006,S. Viglio di Marebbe,ITA,Italy,World Cup,Parallel GS,36,
-385,March Aaron,Male,22-10-2006,Sölden,AUT,Italy,World Cup,Parallel GS,46,16.70
-386,March Aaron,Male,13-10-2006,Landgraaf,NED,Italy,World Cup,Parallel Slalom,52,0.00
-387,March Aaron,Male,09-04-2006,Madesimo,ITA,Italy,National Championships,Parallel GS,7,129.60
-388,March Aaron,Male,01-04-2006,Bad Gastein,AUT,Italy,National Championships,Parallel GS,31,10.08
-389,March Aaron,Male,31-03-2006,Bad Gastein,AUT,Italy,National Championships,Parallel Slalom,5,
-390,March Aaron,Male,12-03-2006,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,6,104.00
-391,March Aaron,Male,11-03-2006,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,16,39.00
-392,March Aaron,Male,06-02-2006,Vivaldi Park,KOR,Italy,FIS Junior World Championships,Parallel GS,8,115.20
-393,March Aaron,Male,22-01-2006,Radstadt,AUT,Italy,European Cup,Parallel Slalom,55,0.00
-394,March Aaron,Male,21-01-2006,Radstadt,AUT,Italy,European Cup,Parallel Slalom,64,
-395,March Aaron,Male,18-01-2006,Nendaz,SUI,Italy,European Cup,Parallel Slalom,7,180.00
-396,March Aaron,Male,15-01-2006,Kronplatz,ITA,Italy,World Cup,Parallel GS,55,0.00
-397,March Aaron,Male,14-01-2006,Bischofswiesen,GER,Italy,FIS,Parallel GS,4,
-398,March Aaron,Male,13-01-2006,Bischofswiesen,GER,Italy,FIS,Parallel Slalom,1,260.00
-399,March Aaron,Male,29-12-2005,Bischofswiesen,GER,Italy,European Cup,Parallel GS,44,7.78
-400,March Aaron,Male,11-12-2005,Haus im Ennstal,AUT,Italy,European Cup,Parallel GS,50,6.20
-401,March Aaron,Male,10-12-2005,Haus im Ennstal,AUT,Italy,European Cup,Parallel GS,39,9.40
-402,March Aaron,Male,04-12-2005,Kuehtai,AUT,Italy,FIS,Parallel Slalom,30,8.32
-403,March Aaron,Male,03-12-2005,Kuehtai,AUT,Italy,FIS,Parallel Slalom,6,104.00
-404,March Aaron,Male,22-04-2005,Zermatt,SUI,Italy,FIS Junior World Championships,Parallel GS,36,7.09
-405,March Aaron,Male,02-04-2005,Solda,ITA,Italy,National Championships,Parallel GS,25,19.20
-406,March Aaron,Male,09-03-2005,Piancavallo,ITA,Italy,European Cup,Parallel GS,14,46.80
-407,March Aaron,Male,06-03-2005,Sils-Furtschellas,SUI,Italy,FIS,Parallel GS,17,
-408,March Aaron,Male,06-03-2005,Watles,ITA,Italy,FIS,Parallel GS,26,6.00
-409,March Aaron,Male,05-03-2005,Watles,ITA,Italy,FIS,Parallel GS,7,57.60
-410,March Aaron,Male,20-02-2005,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,5,108.00
-411,March Aaron,Male,19-02-2005,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,16,36.00
-412,March Aaron,Male,09-02-2005,Bardonecchia,ITA,Italy,World Cup,Parallel GS,45,0.00
-413,March Aaron,Male,06-02-2005,Winterberg,GER,Italy,World Cup,Parallel Slalom,27,45.00
-414,March Aaron,Male,02-02-2005,Maribor,SLO,Italy,European Cup,Parallel Slalom,23,40.00
-415,March Aaron,Male,01-02-2005,Maribor,SLO,Italy,World Cup,Parallel GS,51,0.00
-416,March Aaron,Male,16-01-2005,Sankt Johann im Pongau,AUT,Italy,European Cup,Parallel Slalom,12,57.20
-417,March Aaron,Male,15-01-2005,Sankt Johann im Pongau,AUT,Italy,European Cup,Parallel GS,14,46.80
-418,March Aaron,Male,09-01-2005,Hinterstoder,AUT,Italy,FIS,Parallel GS,91,0.00
-419,March Aaron,Male,08-01-2005,Hinterstoder,AUT,Italy,FIS,Parallel GS,23,
-420,March Aaron,Male,19-12-2004,San Candido,ITA,Italy,FIS,Parallel Slalom,7,86.40
-421,March Aaron,Male,18-12-2004,San Candido,ITA,Italy,FIS,Parallel GS,5,117.00
-422,March Aaron,Male,17-12-2004,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,28,40.00
-423,March Aaron,Male,12-12-2004,Haus im Ennstal,AUT,Italy,FIS,Parallel GS,58,3.41
-424,March Aaron,Male,11-12-2004,Haus im Ennstal,AUT,Italy,European Cup,Parallel GS,40,
-425,March Aaron,Male,05-12-2004,Kuehtai,AUT,Italy,FIS,Parallel Slalom,8,83.20
-426,March Aaron,Male,04-12-2004,Kronplatz,ITA,Italy,World Cup,Parallel GS,53,0.00
-427,March Aaron,Male,04-12-2004,Kuehtai,AUT,Italy,FIS,Parallel Slalom,67,2.08
-428,March Aaron,Male,21-03-2004,Madesimo,ITA,Italy,National Championships,Parallel Slalom,32,9.36
-429,March Aaron,Male,20-03-2004,Madesimo,ITA,Italy,National Championships,Parallel GS,16,54.00
-430,March Aaron,Male,14-03-2004,Bardonecchia,ITA,Italy,World Cup,Parallel GS,57,13.40
-431,March Aaron,Male,15-02-2004,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,4,130.00
-432,March Aaron,Male,14-02-2004,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,12,57.20
-433,March Aaron,Male,11-02-2004,Klinovec,CZE,Italy,FIS Junior World Championships,Parallel GS,19,43.20
-434,March Aaron,Male,01-02-2004,Grand Bornand,FRA,Italy,FIS,Parallel GS,11,48.00
-435,March Aaron,Male,31-01-2004,Grand Bornand,FRA,Italy,FIS,Parallel GS,14,36.00
-436,March Aaron,Male,25-01-2004,Watles,ITA,Italy,FIS,Parallel Slalom,2,208.00
-437,March Aaron,Male,24-01-2004,Watles,ITA,Italy,FIS,Parallel GS,24,18.20
-438,March Aaron,Male,17-01-2004,Valmalenco,ITA,Italy,FIS,Parallel GS,2,40.00
-439,March Aaron,Male,10-01-2004,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,3,72.00
-440,March Aaron,Male,09-01-2004,Bardonecchia,ITA,Italy,FIS,Parallel GS,13,30.00
-441,March Aaron,Male,29-12-2003,Berchtesgaden,GER,Italy,European Cup,Parallel GS,34,9.90
-442,March Aaron,Male,07-12-2003,Kuehtai,AUT,Italy,FIS,Parallel Slalom,87,
-443,March Aaron,Male,06-12-2003,Kuehtai,AUT,Italy,FIS,Parallel Slalom,11,57.60
-444,March Aaron,Male,29-03-2003,Kuethai,AUT,Italy,FIS,Parallel GS,49,4.11
-445,March Aaron,Male,23-03-2003,Madesimo,ITA,Italy,National Championships,Parallel Slalom,20,35.20
-446,March Aaron,Male,22-03-2003,Madesimo,ITA,Italy,National Championships,Parallel GS,42,5.73
-447,March Aaron,Male,08-02-2003,Hermagor-Nassfeld,AUT,Italy,FIS,Parallel Slalom,21,20.00
-448,March Aaron,Male,07-02-2003,Hermagor-Nassfeld,AUT,Italy,FIS,Parallel GS,60,2.75
-449,March Aaron,Male,26-01-2003,Sankt Johann/Pg.,AUT,Italy,European Cup,Parallel Slalom,45,6.12
-450,March Aaron,Male,25-01-2003,Sankt Johann/Pg.,AUT,Italy,European Cup,Parallel GS,51,4.41
-451,March Aaron,Male,18-01-2003,Pozza di Fassa,ITA,Italy,FIS,Parallel GS,52,3.87
-452,March Aaron,Male,21-12-2002,Haus im Ennstal,AUT,Italy,Junior,Parallel GS,27,4.50
-453,March Aaron,Male,21-12-2002,Haus im Ennstal,AUT,Italy,Junior,Parallel GS,30,3.20
-454,March Aaron,Male,29-03-2002,Madesimo,ITA,Italy,National Championships,Parallel Slalom,27,16.20
-455,March Aaron,Male,28-03-2002,Madesimo,ITA,Italy,National Championships,Parallel GS,DNF,
-456,March Aaron,Male,24-02-2002,Pozza di Fassa,ITA,Italy,FIS,Snowboardcross,32,6.76
-457,March Aaron,Male,23-02-2002,Pozza di Fassa,ITA,Italy,FIS,Parallel GS,DNF,
-458,March Aaron,Male,17-02-2002,Madonna di Campiglio,ITA,Italy,FIS,Parallel Slalom,17,28.00
-459,March Aaron,Male,03-02-2002,Diedamskopf,AUT,Italy,FIS,Snowboardcross,32,5.72
-460,March Aaron,Male,02-02-2002,Diedamskopf,AUT,Italy,FIS,Parallel GS,90,0.00
-461,March Aaron,Male,20-01-2002,Innsbruck,AUT,Italy,FIS,Parallel Slalom,48,0.66
-462,March Aaron,Male,13-01-2002,Piancavallo,ITA,Italy,FIS,Parallel Slalom,34,2.64
-463,March Aaron,Male,12-01-2002,Piancavallo,ITA,Italy,FIS,Parallel GS,42,0.99
-464,March Aaron,Male,06-01-2002,Chiesa Valmalenco,ITA,Italy,FIS,Parallel GS,23,9.60
-465,March Aaron,Male,05-01-2002,Chiesa Valmalenco,ITA,Italy,FIS,Parallel Slalom,9,75.40
-466,March Aaron,Male,16-12-2001,S. vigilio di marebbe,ITA,Italy,FIS,Parallel GS,44,0.63
-467,March Aaron,Male,15-12-2001,S. vigilio di marebbe,ITA,Italy,FIS,Parallel Slalom,30,3.84
-468,March Aaron,Male,09-12-2001,Haus,AUT,Italy,FIS,Parallel GS,85,0.00
-469,March Aaron,Male,08-12-2001,Haus,AUT,Italy,FIS,Parallel Slalom,101,0.00
-470,March Aaron,Male,29-03-2001,Pecol di Zoldo/Alleghe,ITA,Italy,Children,Snowboardcross,3,0.00
-471,March Aaron,Male,28-03-2001,Pecol di Zoldo/Alleghe,ITA,Italy,Children,Parallel GS,2,0.00
+0,March Aaron,Male,16-02-2025,Val St. Come,CAN,Italy,Qualification,Parallel Giant Slalom,18,
+1,March Aaron,Male,16-02-2025,Val St. Come,CAN,Italy,World Cup,Parallel Giant Slalom,18,
+2,March Aaron,Male,15-02-2025,Val St. Come,CAN,Italy,Qualification,Parallel Giant Slalom,21,
+3,March Aaron,Male,15-02-2025,Val St. Come,CAN,Italy,World Cup,Parallel Giant Slalom,21,
+4,March Aaron,Male,25-01-2025,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,7,
+5,March Aaron,Male,25-01-2025,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,3,600.00
+6,March Aaron,Male,19-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,13,
+7,March Aaron,Male,19-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,13,200.00
+8,March Aaron,Male,18-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,22,
+9,March Aaron,Male,18-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,22,90.00
+10,March Aaron,Male,15-01-2025,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom Team,6,
+11,March Aaron,Male,14-01-2025,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,5,
+12,March Aaron,Male,14-01-2025,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,1,1000.00
+13,March Aaron,Male,11-01-2025,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,19,
+14,March Aaron,Male,11-01-2025,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,19,120.00
+15,March Aaron,Male,21-12-2024,Davos,SUI,Italy,Qualification,Parallel Slalom,13,
+16,March Aaron,Male,21-12-2024,Davos,SUI,Italy,World Cup,Parallel Slalom,13,200.00
+17,March Aaron,Male,14-12-2024,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,11,
+18,March Aaron,Male,14-12-2024,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,2,800.00
+19,March Aaron,Male,12-12-2024,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,10,
+20,March Aaron,Male,12-12-2024,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,11,240.00
+21,March Aaron,Male,08-12-2024,Yanqing (NASC),CHN,Italy,World Cup,Parallel Slalom,14,180.00
+22,March Aaron,Male,08-12-2024,Yanqing (NASC),CHN,Italy,Qualification,Parallel Slalom,12,
+23,March Aaron,Male,07-12-2024,Yanqing (NASC),CHN,Italy,World Cup,Parallel Giant Slalom,7,360.00
+24,March Aaron,Male,07-12-2024,Yanqing (NASC),CHN,Italy,Qualification,Parallel Giant Slalom,3,
+25,March Aaron,Male,01-12-2024,Mylin,CHN,Italy,World Cup,Parallel Slalom,26,50.00
+26,March Aaron,Male,01-12-2024,Mylin,CHN,Italy,Qualification,Parallel Slalom,26,
+27,March Aaron,Male,30-11-2024,Mylin,CHN,Italy,World Cup,Parallel Giant Slalom,17,140.00
+28,March Aaron,Male,30-11-2024,Mylin,CHN,Italy,Qualification,Parallel Giant Slalom,17,
+29,March Aaron,Male,17-03-2024,St. Moritz,SUI,Italy,European Cup,Parallel Slalom,10,93.60
+30,March Aaron,Male,16-03-2024,St. Moritz,SUI,Italy,European Cup,Parallel Giant Slalom,20,39.60
+31,March Aaron,Male,09-03-2024,Winterberg,GER,Italy,Qualification,Parallel Slalom,16,
+32,March Aaron,Male,09-03-2024,Winterberg,GER,Italy,World Cup,Parallel Slalom,16,150.00
+33,March Aaron,Male,25-02-2024,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,2,
+34,March Aaron,Male,25-02-2024,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,5,450.00
+35,March Aaron,Male,24-02-2024,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,19,
+36,March Aaron,Male,24-02-2024,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,19,120.00
+37,March Aaron,Male,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,DSQ,
+38,March Aaron,Male,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,5,130.50
+39,March Aaron,Male,27-01-2024,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,13,
+40,March Aaron,Male,27-01-2024,Simonhöhe,AUT,Italy,World Cup,Parallel Giant Slalom,13,200.00
+41,March Aaron,Male,25-01-2024,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,8,
+42,March Aaron,Male,25-01-2024,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,2,800.00
+43,March Aaron,Male,21-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,10,
+44,March Aaron,Male,21-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,12,220.00
+45,March Aaron,Male,20-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,12,
+46,March Aaron,Male,20-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,8,320.00
+47,March Aaron,Male,16-01-2024,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,13,
+48,March Aaron,Male,16-01-2024,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,13,200.00
+49,March Aaron,Male,13-01-2024,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,13,
+50,March Aaron,Male,13-01-2024,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,7,360.00
+51,March Aaron,Male,23-12-2023,Davos,SUI,Italy,Qualification,Parallel Slalom,8,
+52,March Aaron,Male,23-12-2023,Davos ,SUI,Italy,World Cup,Parallel Slalom,6,400.00
+53,March Aaron,Male,16-12-2023,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,13,
+54,March Aaron,Male,16-12-2023,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,14,180.00
+55,March Aaron,Male,14-12-2023,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,8,
+56,March Aaron,Male,14-12-2023,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,7,360.00
+57,March Aaron,Male,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,8,92.80
+58,March Aaron,Male,18-03-2023,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,16,
+59,March Aaron,Male,18-03-2023,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,16,150.00
+60,March Aaron,Male,15-03-2023,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,15,160.00
+61,March Aaron,Male,15-03-2023,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,15,
+62,March Aaron,Male,22-02-2023,Bakuriani,GEO,Italy,World Championships,Parallel Slalom Team,1,
+63,March Aaron,Male,21-02-2023,Bakuriani,GEO,Italy,Qualification,Parallel Slalom,8,
+64,March Aaron,Male,21-02-2023,Bakuriani,GEO,Italy,World Championships,Parallel Slalom,8,320.00
+65,March Aaron,Male,19-02-2023,Bakuriani,GEO,Italy,Qualification,Parallel Giant Slalom,17,
+66,March Aaron,Male,19-02-2023,Bakuriani,GEO,Italy,World Championships,Parallel Giant Slalom,17,140.00
+67,March Aaron,Male,27-01-2023,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,21,
+68,March Aaron,Male,27-01-2023,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,21,100.00
+69,March Aaron,Male,26-01-2023,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,DNF,
+70,March Aaron,Male,26-01-2023,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,DNF,
+71,March Aaron,Male,22-01-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,12,
+72,March Aaron,Male,22-01-2023,Bansko,BUL,Italy,World Cup,Parallel Slalom,13,200.00
+73,March Aaron,Male,21-01-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,19,
+74,March Aaron,Male,21-01-2023,Bansko,BUL,Italy,World Cup,Parallel Slalom,19,120.00
+75,March Aaron,Male,14-01-2023,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,8,
+76,March Aaron,Male,14-01-2023,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,7,360.00
+77,March Aaron,Male,11-01-2023,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom Team,5,
+78,March Aaron,Male,10-01-2023,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,5,
+79,March Aaron,Male,10-01-2023,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,5,450.00
+80,March Aaron,Male,17-12-2022,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,4,
+81,March Aaron,Male,17-12-2022,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,3,600.00
+82,March Aaron,Male,15-12-2022,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,11,
+83,March Aaron,Male,15-12-2022,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,6,400.00
+84,March Aaron,Male,11-12-2022,Winterberg,GER,Italy,World Cup,Parallel Slalom,17,140.00
+85,March Aaron,Male,10-12-2022,Winterberg,GER,Italy,Qualification,Parallel Slalom,17,
+86,March Aaron,Male,12-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Slalom,DNS,
+87,March Aaron,Male,20-03-2022,Berchtesgaden,GER,Italy,World Cup,Parallel  Slalom Team,8,
+88,March Aaron,Male,19-03-2022,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,14,
+89,March Aaron,Male,19-03-2022,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,14,180.00
+90,March Aaron,Male,16-03-2022,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,10,
+91,March Aaron,Male,16-03-2022,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,12,220.00
+92,March Aaron,Male,12-03-2022,Piancavallo,ITA,Italy,Qualification,Parallel Slalom,7,
+93,March Aaron,Male,12-03-2022,Piancavallo,ITA,Italy,World Cup,Parallel Slalom,5,450.00
+94,March Aaron,Male,14-01-2022,Simonhöhe,AUT,Italy,World Cup,Parallel Giant Slalom,5,450.00
+95,March Aaron,Male,14-01-2022,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,2,
+96,March Aaron,Male,08-01-2022,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,9,
+97,March Aaron,Male,08-01-2022,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,5,450.00
+98,March Aaron,Male,18-12-2021,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,28,
+99,March Aaron,Male,18-12-2021,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,28,40.00
+100,March Aaron,Male,16-12-2021,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,25,
+101,March Aaron,Male,16-12-2021,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,25,60.00
+102,March Aaron,Male,12-12-2021,Bannoye,RUS,Italy,Qualification,Parallel Slalom,3,
+103,March Aaron,Male,12-12-2021,Bannoye,RUS,Italy,World Cup,Parallel Slalom,5,450.00
+104,March Aaron,Male,11-12-2021,Bannoye,RUS,Italy,Qualification,Parallel Giant Slalom,19,
+105,March Aaron,Male,11-12-2021,Bannoye,RUS,Italy,World Cup,Parallel Giant Slalom,19,120.00
+106,March Aaron,Male,31-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Giant Slalom,7,104.40
+107,March Aaron,Male,30-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Slalom,2,232.00
+108,March Aaron,Male,20-03-2021,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,4,
+109,March Aaron,Male,20-03-2021,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,1,1000.00
+110,March Aaron,Male,06-03-2021,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,3,
+111,March Aaron,Male,06-03-2021,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,5,450.00
+112,March Aaron,Male,02-03-2021,Rogla,SLO,Italy,World Championships,Parallel Slalom,12,220.00
+113,March Aaron,Male,02-03-2021,Rogla,SLO,Italy,Qualification,Parallel Slalom,9,
+114,March Aaron,Male,01-03-2021,Rogla,SLO,Italy,World Championships,Parallel Giant Slalom,7,360.00
+115,March Aaron,Male,01-03-2021,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,7,
+116,March Aaron,Male,07-02-2021,Bannoye,RUS,Italy,Qualification,Parallel Slalom,18,
+117,March Aaron,Male,07-02-2021,Bannoye,RUS,Italy,World Cup,Parallel Slalom,18,130.00
+118,March Aaron,Male,06-02-2021,Baonoye,RUS,Italy,Qualification,Parallel Giant Slalom,22,
+119,March Aaron,Male,06-02-2021,Bannoye,RUS,Italy,World Cup,Parallel Giant Slalom,22,90.00
+120,March Aaron,Male,30-01-2021,Moscow,RUS,Italy,Qualification,Parallel Slalom,4,
+121,March Aaron,Male,30-01-2021,Moscow,RUS,Italy,World Cup,Parallel Slalom,5,450.00
+122,March Aaron,Male,13-01-2021,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom Team,12,
+123,March Aaron,Male,12-01-2021,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,15,
+124,March Aaron,Male,12-01-2021,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,1,1000.00
+125,March Aaron,Male,09-01-2021,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,25,
+126,March Aaron,Male,09-01-2021,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,25,60.00
+127,March Aaron,Male,17-12-2020,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,4,
+128,March Aaron,Male,17-12-2020,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,10,260.00
+129,March Aaron,Male,12-12-2020,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,10,
+130,March Aaron,Male,12-12-2020,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,2,800.00
+131,March Aaron,Male,01-03-2020,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,38,19.10
+132,March Aaron,Male,01-03-2020,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,38,
+133,March Aaron,Male,29-02-2020,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,23,80.00
+134,March Aaron,Male,29-02-2020,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,23,
+135,March Aaron,Male,22-02-2020,Pyeongchang,KOR,Italy,World Cup,Parallel Giant Slalom,16,150.00
+136,March Aaron,Male,22-02-2020,Pyeongchang,KOR,Italy,Qualification,Parallel Giant Slalom,16,
+137,March Aaron,Male,26-01-2020,Piancavallo,ITA,Italy,World Cup,Parallel Slalom Team,21,
+138,March Aaron,Male,25-01-2020,Piancavallo,ITA,Italy,World Cup,Parallel Slalom,12,220.00
+139,March Aaron,Male,25-01-2020,Piancavallo,ITA,Italy,Qualification,Parallel Slalom,12,
+140,March Aaron,Male,18-01-2020,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,7,360.00
+141,March Aaron,Male,18-01-2020,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,14,
+142,March Aaron,Male,14-01-2020,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,20,110.00
+143,March Aaron,Male,14-01-2020,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,20,
+144,March Aaron,Male,11-01-2020,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,21,100.00
+145,March Aaron,Male,11-01-2020,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,21,
+146,March Aaron,Male,19-12-2019,Carezza,ITA,Italy,Open,Parallel Giant Slalom,35,20.00
+147,March Aaron,Male,14-12-2019,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,32,26.00
+148,March Aaron,Male,14-12-2019,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,32,
+149,March Aaron,Male,08-12-2019,Bannoye,RUS,Italy,World Cup,Parallel Giant Slalom,7,360.00
+150,March Aaron,Male,08-12-2019,Bannoye,RUS,Italy,Qualification,Parallel Giant Slalom,8,
+151,March Aaron,Male,07-12-2019,Bannoye,RUS,Italy,World Cup,Parallel Slalom,2,800.00
+152,March Aaron,Male,07-12-2019,Bannoye,RUS,Italy,Qualification,Parallel Slalom,14,
+153,March Aaron,Male,24-03-2019,Winterberg,GER,Italy,World Cup,Parallel Slalom Team,9,
+154,March Aaron,Male,23-03-2019,Winterberg,GER,Italy,World Cup,Parallel Slalom,5,450.00
+155,March Aaron,Male,23-03-2019,Winterberg,GER,Italy,Qualification,Parallel Slalom,3,
+156,March Aaron,Male,09-03-2019,Scuol,SUI,Italy,World Cup,Parallel GS,14,180.00
+157,March Aaron,Male,09-03-2019,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,14,
+158,March Aaron,Male,24-02-2019,Secret Garden,CHN,Italy,World Cup,Parallel Slalom,15,160.00
+159,March Aaron,Male,24-02-2019,Secret Garden,CHN,Italy,Qualification,Parallel Slalom,15,
+160,March Aaron,Male,23-02-2019,Secret Garden,CHN,Italy,World Cup,Parallel Giant Slalom,15,160.00
+161,March Aaron,Male,23-02-2019,Secret Garden,CHN,Italy,Qualification,Parallel Giant Slalom,15,
+162,March Aaron,Male,17-02-2019,Pyeongchang,KOR,Italy,World Cup,Parallel Giant Slalom,37,19.40
+163,March Aaron,Male,17-02-2019,Pyeongchang,KOR,Italy,Qualification,Parallel Giant Slalom,37,
+164,March Aaron,Male,16-02-2019,Pyeongchang,KOR,Italy,World Cup,Parallel Giant Slalom,4,500.00
+165,March Aaron,Male,16-02-2019,Pyeongchang,KOR,Italy,Qualification,Parallel Giant Slalom,12,
+166,March Aaron,Male,05-02-2019,Park City,USA,Italy,World Championships,Parallel Slalom,5,450.00
+167,March Aaron,Male,04-02-2019,Park City,USA,Italy,World Championships,Parallel Giant Slalom,14,180.00
+168,March Aaron,Male,27-01-2019,Moscow,RUS,Italy,World Cup,Parallel Slalom Team,4,
+169,March Aaron,Male,26-01-2019,Moscow,RUS,Italy,World Cup,Parallel Slalom,13,200.00
+170,March Aaron,Male,26-01-2019,Moscow,RUS,Italy,Qualification,Parallel Slalom,12,
+171,March Aaron,Male,19-01-2019,Rogla,SLO,Italy,World Cup,Parallel GS,10,260.00
+172,March Aaron,Male,19-01-2019,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,10,
+173,March Aaron,Male,09-01-2019,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom Team,2,
+174,March Aaron,Male,08-01-2019,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,6,400.00
+175,March Aaron,Male,08-01-2019,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,6,
+176,March Aaron,Male,15-12-2018,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel GS,5,450.00
+177,March Aaron,Male,15-12-2018,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,9,
+178,March Aaron,Male,13-12-2018,Carezza,ITA,Italy,World Cup,Parallel GS,5,450.00
+179,March Aaron,Male,13-12-2018,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,5,
+180,March Aaron,Male,07-04-2018,Racines,ITA,Italy,European Cup,Parallel Slalom,1,360.00
+181,March Aaron,Male,17-03-2018,Winterberg,GER,Italy,World Cup,Parallel Slalom,7,360.00
+182,March Aaron,Male,17-03-2018,Winterberg,GER,Italy,Qualification,Parallel Slalom,8,
+183,March Aaron,Male,10-03-2018,Scuol,SUI,Italy,World Cup,Parallel GS,4,500.00
+184,March Aaron,Male,10-03-2018,Scuol,SUI,Italy,Qualification,Parallel GS,15,
+185,March Aaron,Male,08-03-2018,Carezza,ITA,Italy,National Championships,Parallel Slalom,2,232.00
+186,March Aaron,Male,03-03-2018,Kayseri,TUR,Italy,World Cup,Parallel GS,42,
+187,March Aaron,Male,03-03-2018,Kayseri,TUR,Italy,Qualification,Parallel GS,42,
+188,March Aaron,Male,24-02-2018,Phoenix Snow Park,KOR,Italy,Qualification,Parallel GS,23,
+189,March Aaron,Male,24-02-2018,Phoenix Snow Park,KOR,Italy,Olympic Winter Games,Parallel GS,23,80.00
+190,March Aaron,Male,28-01-2018,Bansko,BUL,Italy,World Cup,Parallel GS,21,100.00
+191,March Aaron,Male,28-01-2018,Bansko,BUL,Italy,Qualification,Parallel GS,21,
+192,March Aaron,Male,26-01-2018,Bansko,BUL,Italy,World Cup,Parallel GS,25,60.00
+193,March Aaron,Male,26-01-2018,Bansko,BUL,Italy,Qualification,Parallel GS,25,
+194,March Aaron,Male,21-01-2018,Rogla,SLO,Italy,World Cup,Parallel GS,14,180.00
+195,March Aaron,Male,21-01-2018,Rogla,SLO,Italy,Qualification,Parallel GS,13,
+196,March Aaron,Male,20-01-2018,Rogla,SLO,Italy,World Cup,Parallel GS,4,500.00
+197,March Aaron,Male,20-01-2018,Rogla,SLO,Italy,Qualification,Parallel GS,15,
+198,March Aaron,Male,12-01-2018,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,30,32.00
+199,March Aaron,Male,12-01-2018,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,30,
+200,March Aaron,Male,05-01-2018,Lackenhof,AUT,Italy,World Cup,Parallel GS,26,50.00
+201,March Aaron,Male,05-01-2018,Lackenhof,AUT,Italy,Qualification,Parallel GS,26,
+202,March Aaron,Male,16-12-2017,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Slalom,12,220.00
+203,March Aaron,Male,16-12-2017,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Slalom,8,
+204,March Aaron,Male,15-12-2017,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel GS,38,19.10
+205,March Aaron,Male,15-12-2017,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel GS,38,
+206,March Aaron,Male,14-12-2017,Carezza,ITA,Italy,World Cup,Parallel GS,17,140.00
+207,March Aaron,Male,14-12-2017,Carezza,ITA,Italy,Qualification,Parallel GS,17,
+208,March Aaron,Male,23-03-2017,Monte Pora - Castione della presolana,ITA,Italy,National Championships,Parallel Slalom,3,174.00
+209,March Aaron,Male,22-03-2017,Monte Pora - Castione della presolana,ITA,Italy,National Championships,Parallel GS,1,290.00
+210,March Aaron,Male,19-03-2017,Winterberg,GER,Italy,World Cup,Parallel Slalom Team,1,
+211,March Aaron,Male,18-03-2017,Winterberg,GER,Italy,Qualification,Parallel Slalom,10,
+212,March Aaron,Male,18-03-2017,Winterberg,GER,Italy,World Cup,Parallel Slalom,2,800.00
+213,March Aaron,Male,16-03-2017,Sierra Nevada,ESP,Italy,World Championships,Parallel GS,18,130.00
+214,March Aaron,Male,15-03-2017,Sierra Nevada,ESP,Italy,World Championships,Parallel Slalom,5,450.00
+215,March Aaron,Male,05-03-2017, Erciyes-Kayseri,TUR,Italy,World Cup,Parallel GS,23,80.00
+216,March Aaron,Male,12-02-2017,Phoenix Pyeongchang,KOR,Italy,World Cup,Parallel GS,3,600.00
+217,March Aaron,Male,05-02-2017,Bansko,BUL,Italy,World Cup,Parallel GS,32,26.00
+218,March Aaron,Male,03-02-2017,Bansko,BUL,Italy,World Cup,Parallel GS,13,200.00
+219,March Aaron,Male,28-01-2017,Rogla,SLO,Italy,World Cup,Parallel GS,DSQ,
+220,March Aaron,Male,10-01-2017,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,6,400.00
+221,March Aaron,Male,17-12-2016,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Slalom,7,360.00
+222,March Aaron,Male,15-12-2016,Carezza,ITA,Italy,World Cup,Parallel GS,8,320.00
+223,March Aaron,Male,04-11-2016,Landgraaf,NED,Italy,European Cup,Parallel Slalom,14,64.80
+224,March Aaron,Male,03-11-2016,Landgraaf,NED,Italy,European Cup,Parallel Slalom,13,72.00
+225,March Aaron,Male,08-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Parallel Slalom,7,129.60
+226,March Aaron,Male,07-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Parallel GS,2,288.00
+227,March Aaron,Male,27-03-2016,Racines,ITA,Italy,European Cup,Parallel Slalom,16,67.50
+228,March Aaron,Male,26-03-2016,Racines,ITA,Italy,European Cup,Parallel Slalom,14,90.00
+229,March Aaron,Male,06-03-2016,Winterberg,GER,Italy,World Cup,Parallel Slalom,11,240.00
+230,March Aaron,Male,27-02-2016,Kayseri,TUR,Italy,World Cup,Parallel GS,9,290.00
+231,March Aaron,Male,30-01-2016,Moscow,RUS,Italy,World Cup,Parallel Slalom,11,240.00
+232,March Aaron,Male,23-01-2016,Rogla,SLO,Italy,World Cup,Parallel GS,15,160.00
+233,March Aaron,Male,08-01-2016,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,7,360.00
+234,March Aaron,Male,19-12-2015,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Slalom,6,400.00
+235,March Aaron,Male,12-12-2015,Carezza,ITA,Italy,World Cup,Parallel GS,12,220.00
+236,March Aaron,Male,16-10-2015,Landgraaf,NED,Italy,European Cup,Parallel Slalom,6,200.00
+237,March Aaron,Male,15-10-2015,Landgraaf,NED,Italy,European Cup,Parallel Slalom,10,130.00
+238,March Aaron,Male,27-03-2015,Canazei,ITA,Italy,National Championships,Parallel Slalom,10,93.60
+239,March Aaron,Male,26-03-2015,Canazei,ITA,Italy,National Championships,Parallel GS,3,216.00
+240,March Aaron,Male,21-03-2015,Racines,ITA,Italy,European Cup,Parallel Slalom,5,225.00
+241,March Aaron,Male,14-03-2015,Winterberg,GER,Italy,World Cup,Parallel Slalom,13,200.00
+242,March Aaron,Male,07-03-2015,Moscow,RUS,Italy,World Cup,Parallel Slalom,DSQ,
+243,March Aaron,Male,01-03-2015,Asahikawa,JPN,Italy,World Cup,Parallel Slalom,5,450.00
+244,March Aaron,Male,28-02-2015,Asahikawa,JPN,Italy,World Cup,Parallel GS,9,290.00
+245,March Aaron,Male,07-02-2015,Sudelfeld,GER,Italy,World Cup,Parallel GS,13,200.00
+246,March Aaron,Male,06-02-2015,Sudelfeld,GER,Italy,Qualification,Parallel GS,14,
+247,March Aaron,Male,31-01-2015,Rogla,SLO,Italy,World Cup,Parallel GS,14,180.00
+248,March Aaron,Male,23-01-2015,Lachtal,AUT,Italy,World Championships,Parallel GS,16,150.00
+249,March Aaron,Male,22-01-2015,Lachtal,AUT,Italy,World Championships,Parallel Slalom,4,500.00
+250,March Aaron,Male,09-01-2015,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,22,90.00
+251,March Aaron,Male,18-12-2014,Montafon,AUT,Italy,World Cup,Parallel Slalom,5,450.00
+252,March Aaron,Male,16-12-2014,Carezza,ITA,Italy,World Cup,Parallel GS,10,260.00
+253,March Aaron,Male,09-04-2014,Chiesa in Valmalenco,ITA,Italy,National Championships,Parallel Slalom,2,288.00
+254,March Aaron,Male,08-04-2014,Chiesa in Valmalenco,ITA,Italy,National Championships,Parallel GS,10,93.60
+255,March Aaron,Male,15-03-2014,Ratsching/Racines,ITA,Italy,European Cup,Parallel Slalom,9,145.00
+256,March Aaron,Male,22-02-2014,Rosa Khutor,RUS,Italy,Olympic Winter Games,Parallel Slalom,4,500.00
+257,March Aaron,Male,19-02-2014,Rosa Khutor,RUS,Italy,Olympic Winter Games,Parallel GS,30,0.00
+258,March Aaron,Male,01-02-2014,Sudelfeld,GER,Italy,World Cup,Parallel GS,6,400.00
+259,March Aaron,Male,26-01-2014,Lizzola Valbondione,ITA,Italy,European Cup,Parallel Slalom,1,500.00
+260,March Aaron,Male,25-01-2014,Lizzola Valbondione,ITA,Italy,European Cup,Parallel Slalom,1,500.00
+261,March Aaron,Male,18-01-2014,Rogla,SLO,Italy,World Cup,Parallel GS,18,130.00
+262,March Aaron,Male,12-01-2014,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,57,0.00
+263,March Aaron,Male,10-01-2014,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,3,600.00
+264,March Aaron,Male,22-12-2013,Schönberg-Lachtal,AUT,Italy,European Cup,Parallel Slalom,2,400.00
+265,March Aaron,Male,21-12-2013,Schönberg-Lachtal,AUT,Italy,European Cup,Parallel Slalom,5,225.00
+266,March Aaron,Male,19-12-2013,Monte Bondone - Canalon Lavaman,ITA,Italy,Universiade,Parallel GS,2,320.00
+267,March Aaron,Male,14-12-2013,Carezza,ITA,Italy,World Cup,Parallel Slalom,9,290.00
+268,March Aaron,Male,13-12-2013,Carezza,ITA,Italy,World Cup,Parallel GS,16,150.00
+269,March Aaron,Male,07-12-2013,Hochfügen,AUT,Italy,European Cup,Parallel GS,3,300.00
+270,March Aaron,Male,08-11-2013,Landgraaf,NED,Italy,FIS,Parallel Slalom,1,260.00
+271,March Aaron,Male,07-11-2013,Landgraaf,NED,Italy,FIS,Parallel Slalom,25,15.60
+272,March Aaron,Male,04-04-2013,Chiesa in Valmalenco,ITA,Italy,National Championships,Parallel Slalom,1,360.00
+273,March Aaron,Male,03-04-2013,Chiesa in Valmalenco,ITA,Italy,National Championships,Giant Slalom,1,360.00
+274,March Aaron,Male,16-03-2013,La Molina,ESP,Italy,World Cup,Parallel GS,14,180.00
+275,March Aaron,Male,10-03-2013,Arosa,SUI,Italy,World Cup,Parallel GS,15,160.00
+276,March Aaron,Male,23-02-2013,Moscow,RUS,Italy,World Cup,Parallel Slalom,5,450.00
+277,March Aaron,Male,14-02-2013,Sochi,RUS,Italy,World Cup,Parallel GS,12,220.00
+278,March Aaron,Male,08-02-2013,Rogla,SLO,Italy,World Cup,Parallel GS,10,260.00
+279,March Aaron,Male,27-01-2013,Stoneham,CAN,Italy,World Championships,Parallel Slalom,9,290.00
+280,March Aaron,Male,25-01-2013,Stoneham,CAN,Italy,World Championships,Parallel GS,9,290.00
+281,March Aaron,Male,12-01-2013,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,3,600.00
+282,March Aaron,Male,11-01-2013,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,5,450.00
+283,March Aaron,Male,21-12-2012,Carezza,ITA,Italy,World Cup,Parallel GS,16,150.00
+284,March Aaron,Male,09-12-2012,Lachtal,AUT,Italy,European Cup,Parallel GS,2,400.00
+285,March Aaron,Male,08-12-2012,Lachtal,AUT,Italy,European Cup,Parallel GS,8,160.00
+286,March Aaron,Male,04-04-2012,Chiesa in Valmalenco,ITA,Italy,National Championships,Parallel Slalom,3,216.00
+287,March Aaron,Male,03-04-2012,Chiesa in Valmalenco,ITA,Italy,National Championships,Giant Slalom,2,288.00
+288,March Aaron,Male,17-03-2012,Valmalenco,ITA,Italy,World Cup,Parallel GS,14,180.00
+289,March Aaron,Male,10-03-2012,La Molina,ESP,Italy,World Cup,Parallel GS,19,120.00
+290,March Aaron,Male,03-03-2012,Moscow,RUS,Italy,World Cup,Parallel Slalom,6,400.00
+291,March Aaron,Male,22-02-2012,Stoneham,CAN,Italy,World Cup,Parallel GS,10,260.00
+292,March Aaron,Male,11-02-2012,Lizzola Valbondione,ITA,Italy,FIS,Giant Slalom,1,260.00
+293,March Aaron,Male,10-02-2012,Lizzola Valbondione,ITA,Italy,FIS,Parallel Slalom,1,260.00
+294,March Aaron,Male,28-01-2012,Sudelfeld,GER,Italy,World Cup,Parallel GS,17,140.00
+295,March Aaron,Male,22-01-2012,Valgardena-S. Cristina-Seceda,ITA,Italy,FIS,Slalom,39,
+296,March Aaron,Male,15-01-2012,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,2,800.00
+297,March Aaron,Male,13-01-2012,Jauerling,AUT,Italy,World Cup,Parallel Slalom,9,290.00
+298,March Aaron,Male,22-12-2011,Carezza,ITA,Italy,World Cup,Parallel Slalom,11,240.00
+299,March Aaron,Male,21-12-2011,Carezza,ITA,Italy,World Cup,Parallel GS,14,180.00
+300,March Aaron,Male,15-12-2011,Telluride,USA,Italy,Qualification,Parallel GS,7,
+301,March Aaron,Male,15-12-2011,Telluride,USA,Italy,World Cup,Parallel GS,5,450.00
+302,March Aaron,Male,13-10-2011,Landgraaf,NED,Italy,World Cup,Parallel Slalom,2,800.00
+303,March Aaron,Male,08-04-2011,Chiesa Valmalenco - Alpe Palu,ITA,Italy,National Championships,Parallel GS,1,360.00
+304,March Aaron,Male,27-03-2011,Arosa,SUI,Italy,World Cup,Parallel GS,17,140.00
+305,March Aaron,Male,19-03-2011,Valmalenco,ITA,Italy,World Cup,Parallel GS,31,28.00
+306,March Aaron,Male,05-03-2011,Moscow,RUS,Italy,World Cup,Parallel Slalom,7,360.00
+307,March Aaron,Male,20-02-2011,Stoneham,CAN,Italy,World Cup,Parallel GS,9,290.00
+308,March Aaron,Male,09-02-2011,Yongpyong,KOR,Italy,World Cup,Parallel Slalom,3,600.00
+309,March Aaron,Male,22-01-2011,La Molina,ESP,Italy,World Championships,Parallel Slalom,11,240.00
+310,March Aaron,Male,19-01-2011,La Molina,ESP,Italy,World Championships,Parallel GS,12,220.00
+311,March Aaron,Male,09-01-2011,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,2,800.00
+312,March Aaron,Male,16-12-2010,Telluride,USA,Italy,World Cup,Parallel GS,19,120.00
+313,March Aaron,Male,11-12-2010,Limone Piemonte,ITA,Italy,World Cup,Parallel Slalom,2,800.00
+314,March Aaron,Male,10-12-2010,Limone Piemonte,ITA,Italy,World Cup,Parallel GS,14,180.00
+315,March Aaron,Male,10-10-2010,Landgraaf,NED,Italy,World Cup,Parallel Slalom,3,600.00
+316,March Aaron,Male,23-03-2010,Pozza di Fassa,ITA,Italy,National Championships,Giant Slalom,4,145.00
+317,March Aaron,Male,21-03-2010,La Molina,ESP,Italy,World Cup,Parallel GS,22,90.00
+318,March Aaron,Male,13-03-2010,Valmalenco,ITA,Italy,World Cup,Parallel GS,8,320.00
+319,March Aaron,Male,06-03-2010,Moscow,RUS,Italy,World Cup,Parallel Slalom,1,1000.00
+320,March Aaron,Male,27-02-2010,Cypress,CAN,Italy,Olympic Winter Games,Parallel GS,15,160.00
+321,March Aaron,Male,06-02-2010,Sudelfeld,GER,Italy,World Cup,Parallel GS,17,140.00
+322,March Aaron,Male,24-01-2010,Stoneham,CAN,Italy,World Cup,Parallel GS,25,60.00
+323,March Aaron,Male,17-01-2010,Nendaz,SUI,Italy,World Cup,Parallel GS,28,40.00
+324,March Aaron,Male,14-01-2010,Nendaz,SUI,Italy,European Cup,Parallel GS,31,14.00
+325,March Aaron,Male,06-01-2010,Kreischberg,AUT,Italy,World Cup,Parallel GS,22,90.00
+326,March Aaron,Male,17-12-2009,Telluride,USA,Italy,World Cup,Parallel GS,16,150.00
+327,March Aaron,Male,15-12-2009,Telluride,USA,Italy,World Cup,Parallel GS,18,130.00
+328,March Aaron,Male,05-12-2009,Carezza,ITA,Italy,European Cup,Parallel GS,21,50.00
+329,March Aaron,Male,29-11-2009,"Hochfuegen, Zillertal (AUT)",GER,Italy,European Cup,Parallel GS,2,400.00
+330,March Aaron,Male,09-10-2009,Landgraaf,NED,Italy,World Cup,Parallel Slalom,4,500.00
+331,March Aaron,Male,28-03-2009,Canazei,ITA,Italy,National Championships,Giant Slalom,2,176.00
+332,March Aaron,Male,22-03-2009,Valmalenco,ITA,Italy,World Cup,Parallel GS,31,28.00
+333,March Aaron,Male,15-03-2009,La Molina,ESP,Italy,World Cup,Parallel GS,26,
+334,March Aaron,Male,26-02-2009,Sunday River,USA,Italy,World Cup,Parallel GS,39,18.80
+335,March Aaron,Male,22-02-2009,Stoneham,CAN,Italy,World Cup,Parallel GS,22,90.00
+336,March Aaron,Male,31-01-2009,Sudelfeld,GER,Italy,World Cup,Parallel GS,40,18.50
+337,March Aaron,Male,21-01-2009,Gangwon,KOR,Italy,World Championships,Parallel Slalom,19,120.00
+338,March Aaron,Male,20-01-2009,Gangwon,KOR,Italy,World Championships,Parallel GS,25,60.00
+339,March Aaron,Male,07-01-2009,Kreischberg,AUT,Italy,World Cup,Parallel Slalom,24,70.00
+340,March Aaron,Male,06-01-2009,Kreischberg,AUT,Italy,World Cup,Parallel GS,32,26.00
+341,March Aaron,Male,21-12-2008,Arosa,SUI,Italy,World Cup,Parallel Slalom,12,220.00
+342,March Aaron,Male,14-12-2008,Limone Piemonte,ITA,Italy,World Cup,Parallel GS,23,80.00
+343,March Aaron,Male,10-10-2008,Landgraaf,NED,Italy,World Cup,Parallel Slalom,25,60.00
+344,March Aaron,Male,29-03-2008,Pfelders in Passeiertal,ITA,Italy,National Championships,Parallel GS,3,216.00
+345,March Aaron,Male,28-03-2008,Pfelders in Passeiertal,ITA,Italy,National Championships,Parallel Slalom,4,180.00
+346,March Aaron,Male,15-03-2008,Valmalenco,ITA,Italy,World Cup,Parallel GS,39,
+347,March Aaron,Male,09-03-2008,Adelboden,SUI,Italy,FIS,Parallel Slalom,5,72.00
+348,March Aaron,Male,08-03-2008,Adelboden,SUI,Italy,European Cup,Parallel Slalom,6,104.00
+349,March Aaron,Male,07-03-2008,Adelboden,SUI,Italy,European Cup,Parallel Slalom,1,260.00
+350,March Aaron,Male,04-03-2008,Shemshak,IRI,Italy,FIS,Parallel GS,1,50.00
+351,March Aaron,Male,03-03-2008,Shemshak,IRI,Italy,FIS,Parallel Slalom,1,50.00
+352,March Aaron,Male,02-03-2008,Shemshak,IRI,Italy,FIS,Parallel Slalom,DNF,
+353,March Aaron,Male,17-02-2008,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,2,208.00
+354,March Aaron,Male,16-02-2008,Gerlitzen,AUT,Italy,FIS,Parallel GS,5,117.00
+355,March Aaron,Male,27-01-2008,Sudelfeld,GER,Italy,European Cup,Parallel GS,20,55.00
+356,March Aaron,Male,20-01-2008,La Molina,ESP,Italy,World Cup,Parallel Slalom,15,160.00
+357,March Aaron,Male,19-01-2008,La Molina,ESP,Italy,World Cup,Parallel GS,25,60.00
+358,March Aaron,Male,12-01-2008,Sand in Taufers,ITA,Italy,European Cup,Giant Slalom,38,9.55
+359,March Aaron,Male,10-01-2008,Bad Gastein,AUT,Italy,European Cup,Parallel Slalom,35,10.00
+360,March Aaron,Male,09-01-2008,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,23,80.00
+361,March Aaron,Male,29-12-2007,Götschen/Bischofswiesen,GER,Italy,European Cup,Parallel GS,29,18.00
+362,March Aaron,Male,15-12-2007,Carezza,ITA,Italy,European Cup,Giant Slalom,5,117.00
+363,March Aaron,Male,08-12-2007,Haus im Ennstal,AUT,Italy,FIS,Giant Slalom,6,80.00
+364,March Aaron,Male,07-12-2007,Haus im Ennstal,AUT,Italy,European Cup,Giant Slalom,6,96.00
+365,March Aaron,Male,02-12-2007,Kühtai,AUT,Italy,FIS,Parallel Slalom,13,52.00
+366,March Aaron,Male,01-12-2007,Kühtai,AUT,Italy,FIS,Parallel Slalom,31,7.28
+367,March Aaron,Male,12-10-2007,Landgraaf,NED,Italy,World Cup,Parallel Slalom,26,50.00
+368,March Aaron,Male,01-04-2007,Kaunertal,GER,Italy,National Championships,Parallel Slalom,7,72.00
+369,March Aaron,Male,31-03-2007,Kaunertal,GER,Italy,National Championships,Parallel GS,6,80.00
+370,March Aaron,Male,24-03-2007,Colere,ITA,Italy,National Championships,Giant Slalom,7,129.60
+371,March Aaron,Male,23-03-2007,Colere,ITA,Italy,National Championships,Parallel Slalom,6,144.00
+372,March Aaron,Male,04-03-2007,Kiev,UKR,Italy,European Cup,Parallel Slalom,11,76.80
+373,March Aaron,Male,03-03-2007,Kiev,UKR,Italy,European Cup,Parallel Slalom,13,64.00
+374,March Aaron,Male,25-02-2007,Klinovec,CZE,Italy,European Cup,Parallel GS,DSQ,
+375,March Aaron,Male,24-02-2007,Klinovec,CZE,Italy,European Cup,Parallel GS,7,104.40
+376,March Aaron,Male,19-02-2007,Adelboden,SUI,Italy,European Cup,Giant Slalom,5,144.00
+377,March Aaron,Male,18-02-2007,Adelboden,SUI,Italy,European Cup,Giant Slalom,16,48.00
+378,March Aaron,Male,17-02-2007,Adelboden,SUI,Italy,FIS,Giant Slalom,6,104.00
+379,March Aaron,Male,02-02-2007,Bardonecchia,ITA,Italy,World Cup,Parallel GS,43,17.60
+380,March Aaron,Male,30-01-2007,Nendaz,SUI,Italy,European Cup,Parallel Slalom,8,102.40
+381,March Aaron,Male,28-01-2007,Nendaz,SUI,Italy,World Cup,Parallel Slalom,30,32.00
+382,March Aaron,Male,26-01-2007,Bardonecchia,ITA,Italy,Universiade,Giant Slalom,7,104.40
+383,March Aaron,Male,21-01-2007,Kühtai,AUT,Italy,European Cup,Parallel Slalom,7,162.00
+384,March Aaron,Male,17-01-2007,Arosa,SUI,Italy,World Championships,Parallel Slalom,30,32.00
+385,March Aaron,Male,22-12-2006,Bad Gastein,AUT,Italy,European Cup,Parallel Slalom,20,49.50
+386,March Aaron,Male,21-12-2006,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,35,20.00
+387,March Aaron,Male,20-12-2006,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,24,70.00
+388,March Aaron,Male,13-12-2006,S. Viglio di Marebbe,ITA,Italy,World Cup,Parallel GS,36,
+389,March Aaron,Male,22-10-2006,Sölden,AUT,Italy,World Cup,Parallel GS,46,16.70
+390,March Aaron,Male,13-10-2006,Landgraaf,NED,Italy,World Cup,Parallel Slalom,52,0.00
+391,March Aaron,Male,09-04-2006,Madesimo,ITA,Italy,National Championships,Parallel GS,7,129.60
+392,March Aaron,Male,01-04-2006,Bad Gastein,AUT,Italy,National Championships,Parallel GS,31,10.08
+393,March Aaron,Male,31-03-2006,Bad Gastein,AUT,Italy,National Championships,Parallel Slalom,5,
+394,March Aaron,Male,12-03-2006,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,6,104.00
+395,March Aaron,Male,11-03-2006,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,16,39.00
+396,March Aaron,Male,06-02-2006,Vivaldi Park,KOR,Italy,FIS Junior World Championships,Parallel GS,8,115.20
+397,March Aaron,Male,22-01-2006,Radstadt,AUT,Italy,European Cup,Parallel Slalom,55,0.00
+398,March Aaron,Male,21-01-2006,Radstadt,AUT,Italy,European Cup,Parallel Slalom,64,
+399,March Aaron,Male,18-01-2006,Nendaz,SUI,Italy,European Cup,Parallel Slalom,7,180.00
+400,March Aaron,Male,15-01-2006,Kronplatz,ITA,Italy,World Cup,Parallel GS,55,0.00
+401,March Aaron,Male,14-01-2006,Bischofswiesen,GER,Italy,FIS,Parallel GS,4,
+402,March Aaron,Male,13-01-2006,Bischofswiesen,GER,Italy,FIS,Parallel Slalom,1,260.00
+403,March Aaron,Male,29-12-2005,Bischofswiesen,GER,Italy,European Cup,Parallel GS,44,7.78
+404,March Aaron,Male,11-12-2005,Haus im Ennstal,AUT,Italy,European Cup,Parallel GS,50,6.20
+405,March Aaron,Male,10-12-2005,Haus im Ennstal,AUT,Italy,European Cup,Parallel GS,39,9.40
+406,March Aaron,Male,04-12-2005,Kuehtai,AUT,Italy,FIS,Parallel Slalom,30,8.32
+407,March Aaron,Male,03-12-2005,Kuehtai,AUT,Italy,FIS,Parallel Slalom,6,104.00
+408,March Aaron,Male,22-04-2005,Zermatt,SUI,Italy,FIS Junior World Championships,Parallel GS,36,7.09
+409,March Aaron,Male,02-04-2005,Solda,ITA,Italy,National Championships,Parallel GS,25,19.20
+410,March Aaron,Male,09-03-2005,Piancavallo,ITA,Italy,European Cup,Parallel GS,14,46.80
+411,March Aaron,Male,06-03-2005,Sils-Furtschellas,SUI,Italy,FIS,Parallel GS,17,
+412,March Aaron,Male,06-03-2005,Watles,ITA,Italy,FIS,Parallel GS,26,6.00
+413,March Aaron,Male,05-03-2005,Watles,ITA,Italy,FIS,Parallel GS,7,57.60
+414,March Aaron,Male,20-02-2005,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,5,108.00
+415,March Aaron,Male,19-02-2005,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,16,36.00
+416,March Aaron,Male,09-02-2005,Bardonecchia,ITA,Italy,World Cup,Parallel GS,45,0.00
+417,March Aaron,Male,06-02-2005,Winterberg,GER,Italy,World Cup,Parallel Slalom,27,45.00
+418,March Aaron,Male,02-02-2005,Maribor,SLO,Italy,European Cup,Parallel Slalom,23,40.00
+419,March Aaron,Male,01-02-2005,Maribor,SLO,Italy,World Cup,Parallel GS,51,0.00
+420,March Aaron,Male,16-01-2005,Sankt Johann im Pongau,AUT,Italy,European Cup,Parallel Slalom,12,57.20
+421,March Aaron,Male,15-01-2005,Sankt Johann im Pongau,AUT,Italy,European Cup,Parallel GS,14,46.80
+422,March Aaron,Male,09-01-2005,Hinterstoder,AUT,Italy,FIS,Parallel GS,91,0.00
+423,March Aaron,Male,08-01-2005,Hinterstoder,AUT,Italy,FIS,Parallel GS,23,
+424,March Aaron,Male,19-12-2004,San Candido,ITA,Italy,FIS,Parallel Slalom,7,86.40
+425,March Aaron,Male,18-12-2004,San Candido,ITA,Italy,FIS,Parallel GS,5,117.00
+426,March Aaron,Male,17-12-2004,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,28,40.00
+427,March Aaron,Male,12-12-2004,Haus im Ennstal,AUT,Italy,FIS,Parallel GS,58,3.41
+428,March Aaron,Male,11-12-2004,Haus im Ennstal,AUT,Italy,European Cup,Parallel GS,40,
+429,March Aaron,Male,05-12-2004,Kuehtai,AUT,Italy,FIS,Parallel Slalom,8,83.20
+430,March Aaron,Male,04-12-2004,Kronplatz,ITA,Italy,World Cup,Parallel GS,53,0.00
+431,March Aaron,Male,04-12-2004,Kuehtai,AUT,Italy,FIS,Parallel Slalom,67,2.08
+432,March Aaron,Male,21-03-2004,Madesimo,ITA,Italy,National Championships,Parallel Slalom,32,9.36
+433,March Aaron,Male,20-03-2004,Madesimo,ITA,Italy,National Championships,Parallel GS,16,54.00
+434,March Aaron,Male,14-03-2004,Bardonecchia,ITA,Italy,World Cup,Parallel GS,57,13.40
+435,March Aaron,Male,15-02-2004,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,4,130.00
+436,March Aaron,Male,14-02-2004,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,12,57.20
+437,March Aaron,Male,11-02-2004,Klinovec,CZE,Italy,FIS Junior World Championships,Parallel GS,19,43.20
+438,March Aaron,Male,01-02-2004,Grand Bornand,FRA,Italy,FIS,Parallel GS,11,48.00
+439,March Aaron,Male,31-01-2004,Grand Bornand,FRA,Italy,FIS,Parallel GS,14,36.00
+440,March Aaron,Male,25-01-2004,Watles,ITA,Italy,FIS,Parallel Slalom,2,208.00
+441,March Aaron,Male,24-01-2004,Watles,ITA,Italy,FIS,Parallel GS,24,18.20
+442,March Aaron,Male,17-01-2004,Valmalenco,ITA,Italy,FIS,Parallel GS,2,40.00
+443,March Aaron,Male,10-01-2004,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,3,72.00
+444,March Aaron,Male,09-01-2004,Bardonecchia,ITA,Italy,FIS,Parallel GS,13,30.00
+445,March Aaron,Male,29-12-2003,Berchtesgaden,GER,Italy,European Cup,Parallel GS,34,9.90
+446,March Aaron,Male,07-12-2003,Kuehtai,AUT,Italy,FIS,Parallel Slalom,87,
+447,March Aaron,Male,06-12-2003,Kuehtai,AUT,Italy,FIS,Parallel Slalom,11,57.60
+448,March Aaron,Male,29-03-2003,Kuethai,AUT,Italy,FIS,Parallel GS,49,4.11
+449,March Aaron,Male,23-03-2003,Madesimo,ITA,Italy,National Championships,Parallel Slalom,20,35.20
+450,March Aaron,Male,22-03-2003,Madesimo,ITA,Italy,National Championships,Parallel GS,42,5.73
+451,March Aaron,Male,08-02-2003,Hermagor-Nassfeld,AUT,Italy,FIS,Parallel Slalom,21,20.00
+452,March Aaron,Male,07-02-2003,Hermagor-Nassfeld,AUT,Italy,FIS,Parallel GS,60,2.75
+453,March Aaron,Male,26-01-2003,Sankt Johann/Pg.,AUT,Italy,European Cup,Parallel Slalom,45,6.12
+454,March Aaron,Male,25-01-2003,Sankt Johann/Pg.,AUT,Italy,European Cup,Parallel GS,51,4.41
+455,March Aaron,Male,18-01-2003,Pozza di Fassa,ITA,Italy,FIS,Parallel GS,52,3.87
+456,March Aaron,Male,21-12-2002,Haus im Ennstal,AUT,Italy,Junior,Parallel GS,27,4.50
+457,March Aaron,Male,21-12-2002,Haus im Ennstal,AUT,Italy,Junior,Parallel GS,30,3.20
+458,March Aaron,Male,29-03-2002,Madesimo,ITA,Italy,National Championships,Parallel Slalom,27,16.20
+459,March Aaron,Male,28-03-2002,Madesimo,ITA,Italy,National Championships,Parallel GS,DNF,
+460,March Aaron,Male,24-02-2002,Pozza di Fassa,ITA,Italy,FIS,Snowboardcross,32,6.76
+461,March Aaron,Male,23-02-2002,Pozza di Fassa,ITA,Italy,FIS,Parallel GS,DNF,
+462,March Aaron,Male,17-02-2002,Madonna di Campiglio,ITA,Italy,FIS,Parallel Slalom,17,28.00
+463,March Aaron,Male,03-02-2002,Diedamskopf,AUT,Italy,FIS,Snowboardcross,32,5.72
+464,March Aaron,Male,02-02-2002,Diedamskopf,AUT,Italy,FIS,Parallel GS,90,0.00
+465,March Aaron,Male,20-01-2002,Innsbruck,AUT,Italy,FIS,Parallel Slalom,48,0.66
+466,March Aaron,Male,13-01-2002,Piancavallo,ITA,Italy,FIS,Parallel Slalom,34,2.64
+467,March Aaron,Male,12-01-2002,Piancavallo,ITA,Italy,FIS,Parallel GS,42,0.99
+468,March Aaron,Male,06-01-2002,Chiesa Valmalenco,ITA,Italy,FIS,Parallel GS,23,9.60
+469,March Aaron,Male,05-01-2002,Chiesa Valmalenco,ITA,Italy,FIS,Parallel Slalom,9,75.40
+470,March Aaron,Male,16-12-2001,S. vigilio di marebbe,ITA,Italy,FIS,Parallel GS,44,0.63
+471,March Aaron,Male,15-12-2001,S. vigilio di marebbe,ITA,Italy,FIS,Parallel Slalom,30,3.84
+472,March Aaron,Male,09-12-2001,Haus,AUT,Italy,FIS,Parallel GS,85,0.00
+473,March Aaron,Male,08-12-2001,Haus,AUT,Italy,FIS,Parallel Slalom,101,0.00
+474,March Aaron,Male,29-03-2001,Pecol di Zoldo/Alleghe,ITA,Italy,Children,Snowboardcross,3,0.00
+475,March Aaron,Male,28-03-2001,Pecol di Zoldo/Alleghe,ITA,Italy,Children,Parallel GS,2,0.00

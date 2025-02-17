@@ -1,289 +1,293 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Messner Gabriel,Male,25-01-2025,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,6,
-1,Messner Gabriel,Male,25-01-2025,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,11,240.00
-2,Messner Gabriel,Male,19-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,2,
-3,Messner Gabriel,Male,19-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,2,800.00
-4,Messner Gabriel,Male,18-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,1,
-5,Messner Gabriel,Male,18-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,3,600.00
-6,Messner Gabriel,Male,15-01-2025,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom Team,11,
-7,Messner Gabriel,Male,14-01-2025,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,7,
-8,Messner Gabriel,Male,14-01-2025,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,10,260.00
-9,Messner Gabriel,Male,11-01-2025,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,14,
-10,Messner Gabriel,Male,11-01-2025,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,4,500.00
-11,Messner Gabriel,Male,21-12-2024,Davos,SUI,Italy,Qualification,Parallel Slalom,4,
-12,Messner Gabriel,Male,21-12-2024,Davos,SUI,Italy,World Cup,Parallel Slalom,4,500.00
-13,Messner Gabriel,Male,14-12-2024,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,10,
-14,Messner Gabriel,Male,14-12-2024,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,8,320.00
-15,Messner Gabriel,Male,12-12-2024,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,28,
-16,Messner Gabriel,Male,12-12-2024,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,28,40.00
-17,Messner Gabriel,Male,08-12-2024,Yanqing (NASC),CHN,Italy,World Cup,Parallel Slalom,2,800.00
-18,Messner Gabriel,Male,08-12-2024,Yanqing (NASC),CHN,Italy,Qualification,Parallel Slalom,5,
-19,Messner Gabriel,Male,07-12-2024,Yanqing (NASC),CHN,Italy,World Cup,Parallel Giant Slalom,34,22.00
-20,Messner Gabriel,Male,07-12-2024,Yanqing (NASC),CHN,Italy,Qualification,Parallel Giant Slalom,34,
-21,Messner Gabriel,Male,01-12-2024,Mylin,CHN,Italy,World Cup,Parallel Slalom,3,600.00
-22,Messner Gabriel,Male,01-12-2024,Mylin,CHN,Italy,Qualification,Parallel Slalom,9,
-23,Messner Gabriel,Male,30-11-2024,Mylin,CHN,Italy,World Cup,Parallel Giant Slalom,25,60.00
-24,Messner Gabriel,Male,30-11-2024,Mylin,CHN,Italy,Qualification,Parallel Giant Slalom,25,
-25,Messner Gabriel,Male,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,7,104.40
-26,Messner Gabriel,Male,18-03-2023,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,22,
-27,Messner Gabriel,Male,18-03-2023,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,22,90.00
-28,Messner Gabriel,Male,15-03-2023,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,11,240.00
-29,Messner Gabriel,Male,15-03-2023,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,10,
-30,Messner Gabriel,Male,04-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,6,88.00
-31,Messner Gabriel,Male,12-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,2,176.00
-32,Messner Gabriel,Male,11-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,32,5.72
-33,Messner Gabriel,Male,05-02-2023,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,4,180.00
-34,Messner Gabriel,Male,27-01-2023,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,47,
-35,Messner Gabriel,Male,27-01-2023,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,47,
-36,Messner Gabriel,Male,26-01-2023,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,11,
-37,Messner Gabriel,Male,26-01-2023,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,8,320.00
-38,Messner Gabriel,Male,22-01-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,32,
-39,Messner Gabriel,Male,22-01-2023,Bansko,BUL,Italy,World Cup,Parallel Slalom,32,26.00
-40,Messner Gabriel,Male,21-01-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,13,
-41,Messner Gabriel,Male,21-01-2023,Bansko,BUL,Italy,World Cup,Parallel Slalom,13,200.00
-42,Messner Gabriel,Male,14-01-2023,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,16,
-43,Messner Gabriel,Male,14-01-2023,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,16,150.00
-44,Messner Gabriel,Male,10-01-2023,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,16,
-45,Messner Gabriel,Male,10-01-2023,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,16,150.00
-46,Messner Gabriel,Male,17-12-2022,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,19,
-47,Messner Gabriel,Male,17-12-2022,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,19,120.00
-48,Messner Gabriel,Male,15-12-2022,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,14,
-49,Messner Gabriel,Male,15-12-2022,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,15,160.00
-50,Messner Gabriel,Male,11-12-2022,Winterberg,GER,Italy,World Cup,Parallel Slalom,25,60.00
-51,Messner Gabriel,Male,10-12-2022,Winterberg,GER,Italy,Qualification,Parallel Slalom,25,
-52,Messner Gabriel,Male,12-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Slalom,5,130.50
-53,Messner Gabriel,Male,11-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Giant Slalom,5,130.50
-54,Messner Gabriel,Male,19-03-2022,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,23,
-55,Messner Gabriel,Male,19-03-2022,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,23,80.00
-56,Messner Gabriel,Male,16-03-2022,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,55,
-57,Messner Gabriel,Male,16-03-2022,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,55,
-58,Messner Gabriel,Male,13-03-2022,Piancavallo,ITA,Italy,World Cup,Parallel Slalom Team,15,
-59,Messner Gabriel,Male,12-03-2022,Piancavallo,ITA,Italy,Qualification,Parallel Slalom,13,
-60,Messner Gabriel,Male,12-03-2022,Piancavallo,ITA,Italy,World Cup,Parallel Slalom,7,360.00
-61,Messner Gabriel,Male,06-02-2022,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,5,162.00
-62,Messner Gabriel,Male,05-02-2022,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,13,72.00
-63,Messner Gabriel,Male,30-01-2022,Davos,SUI,Italy,European Cup,Parallel Slalom,2,288.00
-64,Messner Gabriel,Male,29-01-2022,Davos,SUI,Italy,European Cup,Parallel Slalom,2,288.00
-65,Messner Gabriel,Male,14-01-2022,Simonhöhe,AUT,Italy,World Cup,Parallel Giant Slalom,7,360.00
-66,Messner Gabriel,Male,14-01-2022,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,6,
-67,Messner Gabriel,Male,08-01-2022,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,38,
-68,Messner Gabriel,Male,08-01-2022,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,38,19.10
-69,Messner Gabriel,Male,18-12-2021,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,27,
-70,Messner Gabriel,Male,18-12-2021,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,27,45.00
-71,Messner Gabriel,Male,16-12-2021,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,37,
-72,Messner Gabriel,Male,16-12-2021,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,37,19.40
-73,Messner Gabriel,Male,12-12-2021,Bannoye,RUS,Italy,Qualification,Parallel Slalom,DNF,
-74,Messner Gabriel,Male,12-12-2021,Bannoye,RUS,Italy,World Cup,Parallel Slalom,DNF,
-75,Messner Gabriel,Male,11-12-2021,Bannoye,RUS,Italy,Qualification,Parallel Giant Slalom,11,
-76,Messner Gabriel,Male,11-12-2021,Bannoye,RUS,Italy,World Cup,Parallel Giant Slalom,12,220.00
-77,Messner Gabriel,Male,31-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Giant Slalom,15,46.40
-78,Messner Gabriel,Male,30-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Slalom,9,84.10
-79,Messner Gabriel,Male,28-03-2021,Villnöss - Funes,ITA,Italy,FIS,Parallel Slalom,5,99.00
-80,Messner Gabriel,Male,27-03-2021,Villnöss - Funes,ITA,Italy,FIS,Parallel Giant Slalom,3,132.00
-81,Messner Gabriel,Male,21-03-2021,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom Team,23,
-82,Messner Gabriel,Male,20-03-2021,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,DSQ,
-83,Messner Gabriel,Male,20-03-2021,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,DSQ,
-84,Messner Gabriel,Male,13-03-2021,Davos Rinerhorn,SUI,Italy,European Cup,Parallel Giant Slalom,17,50.40
-85,Messner Gabriel,Male,06-03-2021,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,21,
-86,Messner Gabriel,Male,06-03-2021,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,21,100.00
-87,Messner Gabriel,Male,28-02-2021,Funes/Villnoesses,ITA,Italy,European Cup,Parallel Giant Slalom,8,83.20
-88,Messner Gabriel,Male,27-02-2021,Funes/Villnoesses,ITA,Italy,European Cup,Parallel Giant Slalom,1,320.00
-89,Messner Gabriel,Male,21-02-2021,Gerlitzen,AUT,Italy,National Championships,Parallel Slalom,4,145.00
-90,Messner Gabriel,Male,20-02-2021,Gerlitzen,AUT,Italy,National Championships,Parallel Giant Slalom,11,69.60
-91,Messner Gabriel,Male,07-02-2021,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,15,35.20
-92,Messner Gabriel,Male,06-02-2021,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,7,79.20
-93,Messner Gabriel,Male,24-01-2021,Davos,SUI,Italy,European Cup,Parallel Slalom,7,129.60
-94,Messner Gabriel,Male,23-01-2021,Davos,SUI,Italy,European Cup,Parallel Slalom,18,46.80
-95,Messner Gabriel,Male,17-01-2021,Simonhoehe,AUT,Italy,European Cup,Parallel Giant Slalom,12,79.20
-96,Messner Gabriel,Male,16-01-2021,Simonhoehe,AUT,Italy,European Cup,Parallel Giant Slalom,7,129.60
-97,Messner Gabriel,Male,17-12-2020,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,DNF,
-98,Messner Gabriel,Male,17-12-2020,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,DNF,
-99,Messner Gabriel,Male,12-12-2020,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,32,
-100,Messner Gabriel,Male,12-12-2020,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,32,26.00
-101,Messner Gabriel,Male,08-03-2020,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,12,79.20
-102,Messner Gabriel,Male,07-03-2020,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,45,6.12
-103,Messner Gabriel,Male,23-02-2020,Funes/Villnoesses,ITA,Italy,FIS,Parallel Giant Slalom,40,4.07
-104,Messner Gabriel,Male,22-02-2020,Funes/Villnoesses,ITA,Italy,FIS,Parallel Giant Slalom,4,110.00
-105,Messner Gabriel,Male,16-02-2020,Simonhoehe,AUT,Italy,European Cup,Parallel Giant Slalom,29,12.96
-106,Messner Gabriel,Male,15-02-2020,Simonhoehe,AUT,Italy,European Cup,Parallel Giant Slalom,42,
-107,Messner Gabriel,Male,09-02-2020,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,8,115.20
-108,Messner Gabriel,Male,08-02-2020,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,6,144.00
-109,Messner Gabriel,Male,02-02-2020,Carezza,ITA,Italy,FIS,Giant Slalom,3,90.00
-110,Messner Gabriel,Male,01-02-2020,Carezza,ITA,Italy,FIS,Giant Slalom,21,20.00
-111,Messner Gabriel,Male,25-01-2020,Piancavallo,ITA,Italy,World Cup,Parallel Slalom,45,17.00
-112,Messner Gabriel,Male,25-01-2020,Piancavallo,ITA,Italy,Qualification,Parallel Slalom,45,
-113,Messner Gabriel,Male,18-01-2020,Alleghe,ITA,Italy,FIS,Parallel Slalom,1,160.00
-114,Messner Gabriel,Male,14-01-2020,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,49,15.80
-115,Messner Gabriel,Male,14-01-2020,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,49,
-116,Messner Gabriel,Male,11-01-2020,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,DSQ,
-117,Messner Gabriel,Male,11-01-2020,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,DSQ,
-118,Messner Gabriel,Male,22-12-2019,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,8,115.20
-119,Messner Gabriel,Male,21-12-2019,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,3,216.00
-120,Messner Gabriel,Male,19-12-2019,Carezza,ITA,Italy,Open,Parallel Giant Slalom,DNF,
-121,Messner Gabriel,Male,14-12-2019,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,14,180.00
-122,Messner Gabriel,Male,14-12-2019,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,12,
-123,Messner Gabriel,Male,07-04-2019,Racines,ITA,Italy,European Cup,Parallel Slalom,DSQ1,
-124,Messner Gabriel,Male,06-04-2019,Racines,ITA,Italy,European Cup,Parallel Slalom,4,180.00
-125,Messner Gabriel,Male,27-03-2019,Piancavallo,ITA,Italy,National Championships,Parallel Giant Slalom,DNF1,
-126,Messner Gabriel,Male,26-03-2019,Piancavallo,ITA,Italy,National Championships,Parallel Slalom,4,145.00
-127,Messner Gabriel,Male,23-03-2019,Winterberg,GER,Italy,World Cup,Parallel Slalom,24,70.00
-128,Messner Gabriel,Male,23-03-2019,Winterberg,GER,Italy,Qualification,Parallel Slalom,24,
-129,Messner Gabriel,Male,24-02-2019,Secret Garden,CHN,Italy,World Cup,Parallel Slalom,43,
-130,Messner Gabriel,Male,24-02-2019,Secret Garden,CHN,Italy,Qualification,Parallel Slalom,43,
-131,Messner Gabriel,Male,23-02-2019,Secret Garden,CHN,Italy,World Cup,Parallel Giant Slalom,42,
-132,Messner Gabriel,Male,23-02-2019,Secret Garden,CHN,Italy,Qualification,Parallel Giant Slalom,42,
-133,Messner Gabriel,Male,17-02-2019,Pyeongchang,KOR,Italy,World Cup,Parallel Giant Slalom,DNF,
-134,Messner Gabriel,Male,17-02-2019,Pyeongchang,KOR,Italy,Qualification,Parallel Giant Slalom,DNF,
-135,Messner Gabriel,Male,16-02-2019,Pyeongchang,KOR,Italy,World Cup,Parallel Giant Slalom,DNF,
-136,Messner Gabriel,Male,16-02-2019,Pyeongchang,KOR,Italy,Qualification,Parallel Giant Slalom,DNF,
-137,Messner Gabriel,Male,10-02-2019,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,13,64.00
-138,Messner Gabriel,Male,09-02-2019,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,25,19.20
-139,Messner Gabriel,Male,26-01-2019,Moscow,RUS,Italy,World Cup,Parallel Slalom,DSQ,
-140,Messner Gabriel,Male,26-01-2019,Moscow,RUS,Italy,Qualification,Parallel Slalom,DSQ,
-141,Messner Gabriel,Male,19-01-2019,Rogla,SLO,Italy,World Cup,Parallel GS,48,16.10
-142,Messner Gabriel,Male,19-01-2019,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,48,
-143,Messner Gabriel,Male,08-01-2019,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,27,45.00
-144,Messner Gabriel,Male,08-01-2019,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,27,
-145,Messner Gabriel,Male,23-12-2018,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,14,64.80
-146,Messner Gabriel,Male,22-12-2018,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,5,162.00
-147,Messner Gabriel,Male,15-12-2018,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel GS,19,120.00
-148,Messner Gabriel,Male,15-12-2018,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,19,
-149,Messner Gabriel,Male,13-12-2018,Carezza,ITA,Italy,World Cup,Parallel GS,DNF,
-150,Messner Gabriel,Male,13-12-2018,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,DNF,
-151,Messner Gabriel,Male,08-04-2018,Racines,ITA,Italy,European Cup,Parallel Slalom,27,16.20
-152,Messner Gabriel,Male,07-04-2018,Racines,ITA,Italy,European Cup,Parallel Slalom,DNF1,
-153,Messner Gabriel,Male,25-03-2018,Davos,SUI,Italy,European Cup,Parallel Slalom,27,16.20
-154,Messner Gabriel,Male,24-03-2018,Davos,SUI,Italy,European Cup,Parallel GS,30,11.52
-155,Messner Gabriel,Male,21-03-2018,Rogla,SLO,Italy,European Cup,Parallel GS,35,7.20
-156,Messner Gabriel,Male,20-03-2018,Rogla,SLO,Italy,European Cup,Parallel GS,13,72.00
-157,Messner Gabriel,Male,17-03-2018,Winterberg,GER,Italy,World Cup,Parallel Slalom,52,
-158,Messner Gabriel,Male,17-03-2018,Winterberg,GER,Italy,Qualification,Parallel Slalom,52,
-159,Messner Gabriel,Male,11-03-2018,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,12,52.80
-160,Messner Gabriel,Male,10-03-2018,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,12,52.80
-161,Messner Gabriel,Male,08-03-2018,Carezza,ITA,Italy,National Championships,Parallel Slalom,15,46.40
-162,Messner Gabriel,Male,07-03-2018,Carezza,ITA,Italy,National Championships,Parallel GS,6,116.00
-163,Messner Gabriel,Male,25-02-2018,Funes/Villnoess,ITA,Italy,FIS,Parallel GS,6,80.00
-164,Messner Gabriel,Male,24-02-2018,Funes/Villnoess,ITA,Italy,FIS,Parallel GS,29,7.20
-165,Messner Gabriel,Male,11-02-2018,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,29,
-166,Messner Gabriel,Male,10-02-2018,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,2,288.00
-167,Messner Gabriel,Male,04-02-2018,Gerlitzen,AUT,Italy,National Championships,Parallel GS,27,13.05
-168,Messner Gabriel,Male,03-02-2018,Gerlitzen,AUT,Italy,National Championships,Parallel Slalom,1,290.00
-169,Messner Gabriel,Male,21-01-2018,Lachtal,AUT,Italy,European Cup,Parallel GS,DSQ1,
-170,Messner Gabriel,Male,20-01-2018,Lachtal,AUT,Italy,European Cup,Parallel GS,16,30.00
-171,Messner Gabriel,Male,12-01-2018,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,DNF,
-172,Messner Gabriel,Male,12-01-2018,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,DNF,
-173,Messner Gabriel,Male,16-12-2017,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Slalom,46,16.70
-174,Messner Gabriel,Male,16-12-2017,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Slalom,46,
-175,Messner Gabriel,Male,15-12-2017,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel GS,34,22.00
-176,Messner Gabriel,Male,15-12-2017,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel GS,34,
-177,Messner Gabriel,Male,14-12-2017,Carezza,ITA,Italy,World Cup,Parallel GS,32,26.00
-178,Messner Gabriel,Male,14-12-2017,Carezza,ITA,Italy,Qualification,Parallel GS,32,
-179,Messner Gabriel,Male,10-12-2017,Hochfügen,GER,Italy,European Cup,Parallel GS,49,5.69
-180,Messner Gabriel,Male,09-12-2017,Hochfügen,GER,Italy,European Cup,Parallel GS,23,28.80
-181,Messner Gabriel,Male,02-04-2017,Scuol,SUI,Italy,European Cup,Parallel Slalom,14,64.80
-182,Messner Gabriel,Male,01-04-2017,Scuol,SUI,Italy,European Cup,Parallel GS,15,57.60
-183,Messner Gabriel,Male,29-03-2017,Rogla,SLO,Italy,European Cup,Parallel Slalom,35,7.20
-184,Messner Gabriel,Male,28-03-2017,Rogla,SLO,Italy,European Cup,Parallel GS,38,6.88
-185,Messner Gabriel,Male,26-03-2017,Racines,ITA,Italy,European Cup,Parallel Slalom,25,21.60
-186,Messner Gabriel,Male,25-03-2017,Racines,ITA,Italy,European Cup,Parallel Slalom,DSQ1,
-187,Messner Gabriel,Male,23-03-2017,Monte Pora - Castione della presolana,ITA,Italy,National Championships,Parallel Slalom,DNF,
-188,Messner Gabriel,Male,22-03-2017,Monte Pora - Castione della presolana,ITA,Italy,National Championships,Parallel GS,29,10.44
-189,Messner Gabriel,Male,18-03-2017,Radstadt,AUT,Italy,European Cup,Parallel Slalom,6,88.00
-190,Messner Gabriel,Male,17-03-2017,Radstadt,AUT,Italy,European Cup,Parallel Slalom,3,132.00
-191,Messner Gabriel,Male,05-03-2017,Funes/Villnoss,ITA,Italy,FIS,Giant Slalom,DSQ1,
-192,Messner Gabriel,Male,04-03-2017,Funes/Villnoss,ITA,Italy,FIS,Giant Slalom,1,160.00
-193,Messner Gabriel,Male,26-02-2017,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,36,7.09
-194,Messner Gabriel,Male,25-02-2017,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,5,162.00
-195,Messner Gabriel,Male,21-02-2017,Klinovec,CZE,Italy,FIS Junior World Championships,Parallel Slalom,3,156.00
-196,Messner Gabriel,Male,20-02-2017,Klinovec,CZE,Italy,FIS Junior World Championships,Parallel GS,4,130.00
-197,Messner Gabriel,Male,12-02-2017,Phoenix Pyeongchang,KOR,Italy,World Cup,Parallel GS,32,26.00
-198,Messner Gabriel,Male,05-02-2017,Bansko,BUL,Italy,World Cup,Parallel GS,49,15.80
-199,Messner Gabriel,Male,03-02-2017,Bansko,BUL,Italy,World Cup,Parallel GS,40,18.50
-200,Messner Gabriel,Male,28-01-2017,Rogla,SLO,Italy,World Cup,Parallel GS,36,19.70
-201,Messner Gabriel,Male,21-01-2017,Livigno,ITA,Italy,European Cup,Parallel GS,6,144.00
-202,Messner Gabriel,Male,20-01-2017,Livigno,ITA,Italy,European Cup,Parallel GS,13,72.00
-203,Messner Gabriel,Male,10-01-2017,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,13,200.00
-204,Messner Gabriel,Male,08-01-2017,Gerlitzen,AUT,Italy,European Cup,Parallel GS,6,96.00
-205,Messner Gabriel,Male,07-01-2017,Gerlitzen,AUT,Italy,European Cup,Parallel GS,43,6.34
-206,Messner Gabriel,Male,17-12-2016,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Slalom,DSQ,
-207,Messner Gabriel,Male,15-12-2016,Carezza,ITA,Italy,World Cup,Parallel GS,31,28.00
-208,Messner Gabriel,Male,11-12-2016,Hochfügen,GER,Italy,European Cup,Parallel GS,68,
-209,Messner Gabriel,Male,10-12-2016,Hochfügen,GER,Italy,European Cup,Parallel GS,25,21.60
-210,Messner Gabriel,Male,04-11-2016,Landgraaf,NED,Italy,European Cup,Parallel Slalom,34,7.92
-211,Messner Gabriel,Male,03-11-2016,Landgraaf,NED,Italy,European Cup,Parallel Slalom,50,5.58
-212,Messner Gabriel,Male,08-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Parallel Slalom,5,162.00
-213,Messner Gabriel,Male,07-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Parallel GS,11,86.40
-214,Messner Gabriel,Male,03-04-2016,Rogla,SLO,Italy,FIS Junior World Championships,Parallel Slalom,9,104.40
-215,Messner Gabriel,Male,02-04-2016,Rogla,SLO,Italy,FIS Junior World Championships,Parallel GS,3,216.00
-216,Messner Gabriel,Male,27-03-2016,Racines,ITA,Italy,European Cup,Parallel Slalom,DSQ1,
-217,Messner Gabriel,Male,26-03-2016,Racines,ITA,Italy,European Cup,Parallel Slalom,37,9.70
-218,Messner Gabriel,Male,24-03-2016,Rogla,SLO,Italy,European Cup,Parallel Slalom,DSQ1,
-219,Messner Gabriel,Male,23-03-2016,Rogla,SLO,Italy,European Cup,Parallel GS,32,13.00
-220,Messner Gabriel,Male,20-03-2016,Gerlitzen,AUT,Italy,European Cup,Parallel GS,37,9.70
-221,Messner Gabriel,Male,19-03-2016,Gerlitzen,AUT,Italy,European Cup,Parallel GS,62,
-222,Messner Gabriel,Male,06-03-2016,Tauplitz,AUT,Italy,FIS,Parallel Slalom,2,176.00
-223,Messner Gabriel,Male,05-03-2016,Tauplitz,AUT,Italy,FIS,Parallel Slalom,2,176.00
-224,Messner Gabriel,Male,28-02-2016,Falkert,AUT,Italy,FIS,Giant Slalom,7,79.20
-225,Messner Gabriel,Male,27-02-2016,Falkert,AUT,Italy,FIS,Giant Slalom,8,70.40
-226,Messner Gabriel,Male,21-02-2016,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,39,9.40
-227,Messner Gabriel,Male,20-02-2016,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,34,11.00
-228,Messner Gabriel,Male,07-02-2016,Lachtal,AUT,Italy,FIS,Parallel Slalom,46,
-229,Messner Gabriel,Male,06-02-2016,Lachtal,AUT,Italy,National Championships,Parallel Slalom,22,32.40
-230,Messner Gabriel,Male,30-01-2016,Pfelders,ITA,Italy,FIS,Slalom,DNS1,
-231,Messner Gabriel,Male,29-01-2016,Pfelders,ITA,Italy,FIS,Slalom,6,28.00
-232,Messner Gabriel,Male,17-01-2016,Kreischberg,AUT,Italy,FIS,Parallel GS,DSQ1,
-233,Messner Gabriel,Male,16-01-2016,Kreischberg,AUT,Italy,FIS,Parallel GS,DNF1,
-234,Messner Gabriel,Male,06-12-2015,Hochfuegen,GER,Italy,European Cup,Parallel GS,55,
-235,Messner Gabriel,Male,05-12-2015,Hochfuegen,GER,Italy,European Cup,Parallel GS,56,6.85
-236,Messner Gabriel,Male,27-03-2015,Canazei,ITA,Italy,National Championships,Parallel Slalom,15,57.60
-237,Messner Gabriel,Male,26-03-2015,Canazei,ITA,Italy,National Championships,Parallel GS,17,50.40
-238,Messner Gabriel,Male,22-03-2015,Racines,ITA,Italy,European Cup,Parallel Slalom,25,30.00
-239,Messner Gabriel,Male,21-03-2015,Racines,ITA,Italy,European Cup,Parallel Slalom,35,10.00
-240,Messner Gabriel,Male,18-03-2015,Rogla,SLO,Italy,European Cup,Parallel Slalom,41,9.10
-241,Messner Gabriel,Male,17-03-2015,Rogla,SLO,Italy,European Cup,Parallel GS,40,9.25
-242,Messner Gabriel,Male,25-02-2015,Marianske Lazne,CZE,Italy,European Cup,Parallel Slalom,DSQ,
-243,Messner Gabriel,Male,24-02-2015,Marianske Lazne,CZE,Italy,European Cup,Parallel Slalom,12,63.80
-244,Messner Gabriel,Male,22-02-2015,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,71,
-245,Messner Gabriel,Male,21-02-2015,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,19,60.00
-246,Messner Gabriel,Male,07-02-2015,Pfelders,ITA,Italy,FIS,Giant Slalom,10,52.00
-247,Messner Gabriel,Male,06-02-2015,Pfelders,ITA,Italy,FIS,Slalom,4,110.00
-248,Messner Gabriel,Male,24-01-2015,Samnaun,SUI,Italy,FIS,Parallel Slalom,20,28.60
-249,Messner Gabriel,Male,23-01-2015,Samnaun,SUI,Italy,FIS,Parallel Slalom,18,31.20
-250,Messner Gabriel,Male,09-04-2014,Chiesa in Valmalenco,ITA,Italy,National Championships,Parallel Slalom,7,129.60
-251,Messner Gabriel,Male,08-04-2014,Chiesa in Valmalenco,ITA,Italy,National Championships,Parallel GS,46,0.00
-252,Messner Gabriel,Male,25-03-2014,Chiesa in Valmalenco,ITA,Italy,FIS Junior World Championships,Parallel Slalom,9,104.40
-253,Messner Gabriel,Male,24-03-2014,Chiesa in Valmalenco,ITA,Italy,FIS Junior World Championships,Parallel GS,18,46.80
-254,Messner Gabriel,Male,16-03-2014,Ratsching/Racines,ITA,Italy,European Cup,Parallel Slalom,30,16.00
-255,Messner Gabriel,Male,15-03-2014,Ratsching/Racines,ITA,Italy,European Cup,Parallel Slalom,40,9.25
-256,Messner Gabriel,Male,09-03-2014,Tauplitz,AUT,Italy,FIS,Parallel Slalom,21,26.00
-257,Messner Gabriel,Male,08-03-2014,Tauplitz,AUT,Italy,FIS,Parallel Slalom,23,20.80
-258,Messner Gabriel,Male,01-03-2014,Gerlitzen,AUT,Italy,European Cup,Parallel GS,39,9.40
-259,Messner Gabriel,Male,22-02-2014,Gosau,AUT,Italy,FIS,Slalom,16,39.00
-260,Messner Gabriel,Male,22-02-2014,Gosau,AUT,Italy,FIS,Slalom,21,26.00
-261,Messner Gabriel,Male,16-02-2014,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,28,18.00
-262,Messner Gabriel,Male,15-02-2014,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,27,20.25
-263,Messner Gabriel,Male,26-01-2014,Lizzola Valbondione,ITA,Italy,European Cup,Parallel Slalom,29,18.00
-264,Messner Gabriel,Male,25-01-2014,Lizzola Valbondione,ITA,Italy,European Cup,Parallel Slalom,89,
-265,Messner Gabriel,Male,15-12-2013,Samnaun,SUI,Italy,FIS,Parallel Slalom,33,6.24
-266,Messner Gabriel,Male,14-12-2013,Samnaun,SUI,Italy,FIS,Parallel Slalom,32,5.72
-267,Messner Gabriel,Male,08-12-2013,Hochfügen,AUT,Italy,European Cup,Parallel GS,83,0.00
-268,Messner Gabriel,Male,07-12-2013,Hochfügen,AUT,Italy,European Cup,Parallel GS,89,0.00
-269,Messner Gabriel,Male,04-04-2013,Chiesa in Valmalenco,ITA,Italy,National Championships,Parallel Slalom,34,7.92
-270,Messner Gabriel,Male,03-04-2013,Chiesa in Valmalenco,ITA,Italy,National Championships,Giant Slalom,24,25.20
-271,Messner Gabriel,Male,24-03-2013,Pfelders,ITA,Italy,FIS,Slalom,8,44.80
-272,Messner Gabriel,Male,23-03-2013,Pfelders,ITA,Italy,FIS,Giant Slalom,11,48.00
-273,Messner Gabriel,Male,03-03-2013,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,41,4.73
-274,Messner Gabriel,Male,02-03-2013,Gerlitzen,AUT,Italy,European Cup,Parallel Slalom,46,8.35
-275,Messner Gabriel,Male,21-02-2013,Predeal,ROU,Italy,European Youth Olympic Festival,Parallel GS,4,25.00
-276,Messner Gabriel,Male,19-02-2013,Predeal,ROU,Italy,European Youth Olympic Festival,Snowboardcross,36,0.00
-277,Messner Gabriel,Male,02-02-2013,Lizzola-Valbondione,ITA,Italy,FIS,Parallel Slalom,44,4.50
-278,Messner Gabriel,Male,27-01-2013,Rossfeld,GER,Italy,Junior,Giant Slalom,DNF,
-279,Messner Gabriel,Male,27-01-2013,Rossfeld,GER,Italy,Junior,Slalom,11,28.80
-280,Messner Gabriel,Male,26-01-2013,Colere,ITA,Italy,FIS,Snowboardcross,24,18.20
-281,Messner Gabriel,Male,25-01-2013,Colere,ITA,Italy,FIS,Snowboardcross,40,4.81
-282,Messner Gabriel,Male,20-01-2013,Seceda/S. Cristina Val Gardena,ITA,Italy,FIS,Giant Slalom,6,20.00
-283,Messner Gabriel,Male,19-01-2013,Seceda/S. Cristina Val Gardena,ITA,Italy,FIS,Giant Slalom,8,48.00
-284,Messner Gabriel,Male,23-12-2012,Radstadt,AUT,Italy,FIS,Giant Slalom,32,6.76
-285,Messner Gabriel,Male,22-12-2012,Radstadt,AUT,Italy,FIS,Giant Slalom,92,
-286,Messner Gabriel,Male,16-12-2012,Racines/Ratschings,ITA,Italy,European Cup,Parallel Slalom,39,9.40
-287,Messner Gabriel,Male,15-12-2012,Racines/Ratschings,ITA,Italy,European Cup,Parallel Slalom,41,7.28
+0,Messner Gabriel,Male,16-02-2025,Val St. Come,CAN,Italy,Qualification,Parallel Giant Slalom,1,
+1,Messner Gabriel,Male,16-02-2025,Val St. Come,CAN,Italy,World Cup,Parallel Giant Slalom,4,
+2,Messner Gabriel,Male,15-02-2025,Val St. Come,CAN,Italy,Qualification,Parallel Giant Slalom,18,
+3,Messner Gabriel,Male,15-02-2025,Val St. Come,CAN,Italy,World Cup,Parallel Giant Slalom,18,
+4,Messner Gabriel,Male,25-01-2025,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,6,
+5,Messner Gabriel,Male,25-01-2025,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,11,240.00
+6,Messner Gabriel,Male,19-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,2,
+7,Messner Gabriel,Male,19-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,2,800.00
+8,Messner Gabriel,Male,18-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,1,
+9,Messner Gabriel,Male,18-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,3,600.00
+10,Messner Gabriel,Male,15-01-2025,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom Team,11,
+11,Messner Gabriel,Male,14-01-2025,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,7,
+12,Messner Gabriel,Male,14-01-2025,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,10,260.00
+13,Messner Gabriel,Male,11-01-2025,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,14,
+14,Messner Gabriel,Male,11-01-2025,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,4,500.00
+15,Messner Gabriel,Male,21-12-2024,Davos,SUI,Italy,Qualification,Parallel Slalom,4,
+16,Messner Gabriel,Male,21-12-2024,Davos,SUI,Italy,World Cup,Parallel Slalom,4,500.00
+17,Messner Gabriel,Male,14-12-2024,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,10,
+18,Messner Gabriel,Male,14-12-2024,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,8,320.00
+19,Messner Gabriel,Male,12-12-2024,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,28,
+20,Messner Gabriel,Male,12-12-2024,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,28,40.00
+21,Messner Gabriel,Male,08-12-2024,Yanqing (NASC),CHN,Italy,World Cup,Parallel Slalom,2,800.00
+22,Messner Gabriel,Male,08-12-2024,Yanqing (NASC),CHN,Italy,Qualification,Parallel Slalom,5,
+23,Messner Gabriel,Male,07-12-2024,Yanqing (NASC),CHN,Italy,World Cup,Parallel Giant Slalom,34,22.00
+24,Messner Gabriel,Male,07-12-2024,Yanqing (NASC),CHN,Italy,Qualification,Parallel Giant Slalom,34,
+25,Messner Gabriel,Male,01-12-2024,Mylin,CHN,Italy,World Cup,Parallel Slalom,3,600.00
+26,Messner Gabriel,Male,01-12-2024,Mylin,CHN,Italy,Qualification,Parallel Slalom,9,
+27,Messner Gabriel,Male,30-11-2024,Mylin,CHN,Italy,World Cup,Parallel Giant Slalom,25,60.00
+28,Messner Gabriel,Male,30-11-2024,Mylin,CHN,Italy,Qualification,Parallel Giant Slalom,25,
+29,Messner Gabriel,Male,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,7,104.40
+30,Messner Gabriel,Male,18-03-2023,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,22,
+31,Messner Gabriel,Male,18-03-2023,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,22,90.00
+32,Messner Gabriel,Male,15-03-2023,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,11,240.00
+33,Messner Gabriel,Male,15-03-2023,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,10,
+34,Messner Gabriel,Male,04-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,6,88.00
+35,Messner Gabriel,Male,12-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,2,176.00
+36,Messner Gabriel,Male,11-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,32,5.72
+37,Messner Gabriel,Male,05-02-2023,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,4,180.00
+38,Messner Gabriel,Male,27-01-2023,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,47,
+39,Messner Gabriel,Male,27-01-2023,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,47,
+40,Messner Gabriel,Male,26-01-2023,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,11,
+41,Messner Gabriel,Male,26-01-2023,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,8,320.00
+42,Messner Gabriel,Male,22-01-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,32,
+43,Messner Gabriel,Male,22-01-2023,Bansko,BUL,Italy,World Cup,Parallel Slalom,32,26.00
+44,Messner Gabriel,Male,21-01-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,13,
+45,Messner Gabriel,Male,21-01-2023,Bansko,BUL,Italy,World Cup,Parallel Slalom,13,200.00
+46,Messner Gabriel,Male,14-01-2023,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,16,
+47,Messner Gabriel,Male,14-01-2023,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,16,150.00
+48,Messner Gabriel,Male,10-01-2023,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,16,
+49,Messner Gabriel,Male,10-01-2023,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,16,150.00
+50,Messner Gabriel,Male,17-12-2022,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,19,
+51,Messner Gabriel,Male,17-12-2022,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,19,120.00
+52,Messner Gabriel,Male,15-12-2022,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,14,
+53,Messner Gabriel,Male,15-12-2022,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,15,160.00
+54,Messner Gabriel,Male,11-12-2022,Winterberg,GER,Italy,World Cup,Parallel Slalom,25,60.00
+55,Messner Gabriel,Male,10-12-2022,Winterberg,GER,Italy,Qualification,Parallel Slalom,25,
+56,Messner Gabriel,Male,12-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Slalom,5,130.50
+57,Messner Gabriel,Male,11-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Giant Slalom,5,130.50
+58,Messner Gabriel,Male,19-03-2022,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,23,
+59,Messner Gabriel,Male,19-03-2022,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,23,80.00
+60,Messner Gabriel,Male,16-03-2022,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,55,
+61,Messner Gabriel,Male,16-03-2022,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,55,
+62,Messner Gabriel,Male,13-03-2022,Piancavallo,ITA,Italy,World Cup,Parallel Slalom Team,15,
+63,Messner Gabriel,Male,12-03-2022,Piancavallo,ITA,Italy,Qualification,Parallel Slalom,13,
+64,Messner Gabriel,Male,12-03-2022,Piancavallo,ITA,Italy,World Cup,Parallel Slalom,7,360.00
+65,Messner Gabriel,Male,06-02-2022,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,5,162.00
+66,Messner Gabriel,Male,05-02-2022,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,13,72.00
+67,Messner Gabriel,Male,30-01-2022,Davos,SUI,Italy,European Cup,Parallel Slalom,2,288.00
+68,Messner Gabriel,Male,29-01-2022,Davos,SUI,Italy,European Cup,Parallel Slalom,2,288.00
+69,Messner Gabriel,Male,14-01-2022,Simonhöhe,AUT,Italy,World Cup,Parallel Giant Slalom,7,360.00
+70,Messner Gabriel,Male,14-01-2022,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,6,
+71,Messner Gabriel,Male,08-01-2022,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,38,
+72,Messner Gabriel,Male,08-01-2022,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,38,19.10
+73,Messner Gabriel,Male,18-12-2021,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,27,
+74,Messner Gabriel,Male,18-12-2021,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,27,45.00
+75,Messner Gabriel,Male,16-12-2021,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,37,
+76,Messner Gabriel,Male,16-12-2021,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,37,19.40
+77,Messner Gabriel,Male,12-12-2021,Bannoye,RUS,Italy,Qualification,Parallel Slalom,DNF,
+78,Messner Gabriel,Male,12-12-2021,Bannoye,RUS,Italy,World Cup,Parallel Slalom,DNF,
+79,Messner Gabriel,Male,11-12-2021,Bannoye,RUS,Italy,Qualification,Parallel Giant Slalom,11,
+80,Messner Gabriel,Male,11-12-2021,Bannoye,RUS,Italy,World Cup,Parallel Giant Slalom,12,220.00
+81,Messner Gabriel,Male,31-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Giant Slalom,15,46.40
+82,Messner Gabriel,Male,30-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Slalom,9,84.10
+83,Messner Gabriel,Male,28-03-2021,Villnöss - Funes,ITA,Italy,FIS,Parallel Slalom,5,99.00
+84,Messner Gabriel,Male,27-03-2021,Villnöss - Funes,ITA,Italy,FIS,Parallel Giant Slalom,3,132.00
+85,Messner Gabriel,Male,21-03-2021,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom Team,23,
+86,Messner Gabriel,Male,20-03-2021,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,DSQ,
+87,Messner Gabriel,Male,20-03-2021,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,DSQ,
+88,Messner Gabriel,Male,13-03-2021,Davos Rinerhorn,SUI,Italy,European Cup,Parallel Giant Slalom,17,50.40
+89,Messner Gabriel,Male,06-03-2021,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,21,
+90,Messner Gabriel,Male,06-03-2021,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,21,100.00
+91,Messner Gabriel,Male,28-02-2021,Funes/Villnoesses,ITA,Italy,European Cup,Parallel Giant Slalom,8,83.20
+92,Messner Gabriel,Male,27-02-2021,Funes/Villnoesses,ITA,Italy,European Cup,Parallel Giant Slalom,1,320.00
+93,Messner Gabriel,Male,21-02-2021,Gerlitzen,AUT,Italy,National Championships,Parallel Slalom,4,145.00
+94,Messner Gabriel,Male,20-02-2021,Gerlitzen,AUT,Italy,National Championships,Parallel Giant Slalom,11,69.60
+95,Messner Gabriel,Male,07-02-2021,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,15,35.20
+96,Messner Gabriel,Male,06-02-2021,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,7,79.20
+97,Messner Gabriel,Male,24-01-2021,Davos,SUI,Italy,European Cup,Parallel Slalom,7,129.60
+98,Messner Gabriel,Male,23-01-2021,Davos,SUI,Italy,European Cup,Parallel Slalom,18,46.80
+99,Messner Gabriel,Male,17-01-2021,Simonhoehe,AUT,Italy,European Cup,Parallel Giant Slalom,12,79.20
+100,Messner Gabriel,Male,16-01-2021,Simonhoehe,AUT,Italy,European Cup,Parallel Giant Slalom,7,129.60
+101,Messner Gabriel,Male,17-12-2020,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,DNF,
+102,Messner Gabriel,Male,17-12-2020,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,DNF,
+103,Messner Gabriel,Male,12-12-2020,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,32,
+104,Messner Gabriel,Male,12-12-2020,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,32,26.00
+105,Messner Gabriel,Male,08-03-2020,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,12,79.20
+106,Messner Gabriel,Male,07-03-2020,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,45,6.12
+107,Messner Gabriel,Male,23-02-2020,Funes/Villnoesses,ITA,Italy,FIS,Parallel Giant Slalom,40,4.07
+108,Messner Gabriel,Male,22-02-2020,Funes/Villnoesses,ITA,Italy,FIS,Parallel Giant Slalom,4,110.00
+109,Messner Gabriel,Male,16-02-2020,Simonhoehe,AUT,Italy,European Cup,Parallel Giant Slalom,29,12.96
+110,Messner Gabriel,Male,15-02-2020,Simonhoehe,AUT,Italy,European Cup,Parallel Giant Slalom,42,
+111,Messner Gabriel,Male,09-02-2020,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,8,115.20
+112,Messner Gabriel,Male,08-02-2020,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,6,144.00
+113,Messner Gabriel,Male,02-02-2020,Carezza,ITA,Italy,FIS,Giant Slalom,3,90.00
+114,Messner Gabriel,Male,01-02-2020,Carezza,ITA,Italy,FIS,Giant Slalom,21,20.00
+115,Messner Gabriel,Male,25-01-2020,Piancavallo,ITA,Italy,World Cup,Parallel Slalom,45,17.00
+116,Messner Gabriel,Male,25-01-2020,Piancavallo,ITA,Italy,Qualification,Parallel Slalom,45,
+117,Messner Gabriel,Male,18-01-2020,Alleghe,ITA,Italy,FIS,Parallel Slalom,1,160.00
+118,Messner Gabriel,Male,14-01-2020,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,49,15.80
+119,Messner Gabriel,Male,14-01-2020,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,49,
+120,Messner Gabriel,Male,11-01-2020,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,DSQ,
+121,Messner Gabriel,Male,11-01-2020,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,DSQ,
+122,Messner Gabriel,Male,22-12-2019,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,8,115.20
+123,Messner Gabriel,Male,21-12-2019,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,3,216.00
+124,Messner Gabriel,Male,19-12-2019,Carezza,ITA,Italy,Open,Parallel Giant Slalom,DNF,
+125,Messner Gabriel,Male,14-12-2019,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,14,180.00
+126,Messner Gabriel,Male,14-12-2019,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,12,
+127,Messner Gabriel,Male,07-04-2019,Racines,ITA,Italy,European Cup,Parallel Slalom,DSQ1,
+128,Messner Gabriel,Male,06-04-2019,Racines,ITA,Italy,European Cup,Parallel Slalom,4,180.00
+129,Messner Gabriel,Male,27-03-2019,Piancavallo,ITA,Italy,National Championships,Parallel Giant Slalom,DNF1,
+130,Messner Gabriel,Male,26-03-2019,Piancavallo,ITA,Italy,National Championships,Parallel Slalom,4,145.00
+131,Messner Gabriel,Male,23-03-2019,Winterberg,GER,Italy,World Cup,Parallel Slalom,24,70.00
+132,Messner Gabriel,Male,23-03-2019,Winterberg,GER,Italy,Qualification,Parallel Slalom,24,
+133,Messner Gabriel,Male,24-02-2019,Secret Garden,CHN,Italy,World Cup,Parallel Slalom,43,
+134,Messner Gabriel,Male,24-02-2019,Secret Garden,CHN,Italy,Qualification,Parallel Slalom,43,
+135,Messner Gabriel,Male,23-02-2019,Secret Garden,CHN,Italy,World Cup,Parallel Giant Slalom,42,
+136,Messner Gabriel,Male,23-02-2019,Secret Garden,CHN,Italy,Qualification,Parallel Giant Slalom,42,
+137,Messner Gabriel,Male,17-02-2019,Pyeongchang,KOR,Italy,World Cup,Parallel Giant Slalom,DNF,
+138,Messner Gabriel,Male,17-02-2019,Pyeongchang,KOR,Italy,Qualification,Parallel Giant Slalom,DNF,
+139,Messner Gabriel,Male,16-02-2019,Pyeongchang,KOR,Italy,World Cup,Parallel Giant Slalom,DNF,
+140,Messner Gabriel,Male,16-02-2019,Pyeongchang,KOR,Italy,Qualification,Parallel Giant Slalom,DNF,
+141,Messner Gabriel,Male,10-02-2019,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,13,64.00
+142,Messner Gabriel,Male,09-02-2019,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,25,19.20
+143,Messner Gabriel,Male,26-01-2019,Moscow,RUS,Italy,World Cup,Parallel Slalom,DSQ,
+144,Messner Gabriel,Male,26-01-2019,Moscow,RUS,Italy,Qualification,Parallel Slalom,DSQ,
+145,Messner Gabriel,Male,19-01-2019,Rogla,SLO,Italy,World Cup,Parallel GS,48,16.10
+146,Messner Gabriel,Male,19-01-2019,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,48,
+147,Messner Gabriel,Male,08-01-2019,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,27,45.00
+148,Messner Gabriel,Male,08-01-2019,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,27,
+149,Messner Gabriel,Male,23-12-2018,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,14,64.80
+150,Messner Gabriel,Male,22-12-2018,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,5,162.00
+151,Messner Gabriel,Male,15-12-2018,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel GS,19,120.00
+152,Messner Gabriel,Male,15-12-2018,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,19,
+153,Messner Gabriel,Male,13-12-2018,Carezza,ITA,Italy,World Cup,Parallel GS,DNF,
+154,Messner Gabriel,Male,13-12-2018,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,DNF,
+155,Messner Gabriel,Male,08-04-2018,Racines,ITA,Italy,European Cup,Parallel Slalom,27,16.20
+156,Messner Gabriel,Male,07-04-2018,Racines,ITA,Italy,European Cup,Parallel Slalom,DNF1,
+157,Messner Gabriel,Male,25-03-2018,Davos,SUI,Italy,European Cup,Parallel Slalom,27,16.20
+158,Messner Gabriel,Male,24-03-2018,Davos,SUI,Italy,European Cup,Parallel GS,30,11.52
+159,Messner Gabriel,Male,21-03-2018,Rogla,SLO,Italy,European Cup,Parallel GS,35,7.20
+160,Messner Gabriel,Male,20-03-2018,Rogla,SLO,Italy,European Cup,Parallel GS,13,72.00
+161,Messner Gabriel,Male,17-03-2018,Winterberg,GER,Italy,World Cup,Parallel Slalom,52,
+162,Messner Gabriel,Male,17-03-2018,Winterberg,GER,Italy,Qualification,Parallel Slalom,52,
+163,Messner Gabriel,Male,11-03-2018,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,12,52.80
+164,Messner Gabriel,Male,10-03-2018,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,12,52.80
+165,Messner Gabriel,Male,08-03-2018,Carezza,ITA,Italy,National Championships,Parallel Slalom,15,46.40
+166,Messner Gabriel,Male,07-03-2018,Carezza,ITA,Italy,National Championships,Parallel GS,6,116.00
+167,Messner Gabriel,Male,25-02-2018,Funes/Villnoess,ITA,Italy,FIS,Parallel GS,6,80.00
+168,Messner Gabriel,Male,24-02-2018,Funes/Villnoess,ITA,Italy,FIS,Parallel GS,29,7.20
+169,Messner Gabriel,Male,11-02-2018,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,29,
+170,Messner Gabriel,Male,10-02-2018,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,2,288.00
+171,Messner Gabriel,Male,04-02-2018,Gerlitzen,AUT,Italy,National Championships,Parallel GS,27,13.05
+172,Messner Gabriel,Male,03-02-2018,Gerlitzen,AUT,Italy,National Championships,Parallel Slalom,1,290.00
+173,Messner Gabriel,Male,21-01-2018,Lachtal,AUT,Italy,European Cup,Parallel GS,DSQ1,
+174,Messner Gabriel,Male,20-01-2018,Lachtal,AUT,Italy,European Cup,Parallel GS,16,30.00
+175,Messner Gabriel,Male,12-01-2018,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,DNF,
+176,Messner Gabriel,Male,12-01-2018,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,DNF,
+177,Messner Gabriel,Male,16-12-2017,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Slalom,46,16.70
+178,Messner Gabriel,Male,16-12-2017,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Slalom,46,
+179,Messner Gabriel,Male,15-12-2017,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel GS,34,22.00
+180,Messner Gabriel,Male,15-12-2017,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel GS,34,
+181,Messner Gabriel,Male,14-12-2017,Carezza,ITA,Italy,World Cup,Parallel GS,32,26.00
+182,Messner Gabriel,Male,14-12-2017,Carezza,ITA,Italy,Qualification,Parallel GS,32,
+183,Messner Gabriel,Male,10-12-2017,Hochfügen,GER,Italy,European Cup,Parallel GS,49,5.69
+184,Messner Gabriel,Male,09-12-2017,Hochfügen,GER,Italy,European Cup,Parallel GS,23,28.80
+185,Messner Gabriel,Male,02-04-2017,Scuol,SUI,Italy,European Cup,Parallel Slalom,14,64.80
+186,Messner Gabriel,Male,01-04-2017,Scuol,SUI,Italy,European Cup,Parallel GS,15,57.60
+187,Messner Gabriel,Male,29-03-2017,Rogla,SLO,Italy,European Cup,Parallel Slalom,35,7.20
+188,Messner Gabriel,Male,28-03-2017,Rogla,SLO,Italy,European Cup,Parallel GS,38,6.88
+189,Messner Gabriel,Male,26-03-2017,Racines,ITA,Italy,European Cup,Parallel Slalom,25,21.60
+190,Messner Gabriel,Male,25-03-2017,Racines,ITA,Italy,European Cup,Parallel Slalom,DSQ1,
+191,Messner Gabriel,Male,23-03-2017,Monte Pora - Castione della presolana,ITA,Italy,National Championships,Parallel Slalom,DNF,
+192,Messner Gabriel,Male,22-03-2017,Monte Pora - Castione della presolana,ITA,Italy,National Championships,Parallel GS,29,10.44
+193,Messner Gabriel,Male,18-03-2017,Radstadt,AUT,Italy,European Cup,Parallel Slalom,6,88.00
+194,Messner Gabriel,Male,17-03-2017,Radstadt,AUT,Italy,European Cup,Parallel Slalom,3,132.00
+195,Messner Gabriel,Male,05-03-2017,Funes/Villnoss,ITA,Italy,FIS,Giant Slalom,DSQ1,
+196,Messner Gabriel,Male,04-03-2017,Funes/Villnoss,ITA,Italy,FIS,Giant Slalom,1,160.00
+197,Messner Gabriel,Male,26-02-2017,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,36,7.09
+198,Messner Gabriel,Male,25-02-2017,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,5,162.00
+199,Messner Gabriel,Male,21-02-2017,Klinovec,CZE,Italy,FIS Junior World Championships,Parallel Slalom,3,156.00
+200,Messner Gabriel,Male,20-02-2017,Klinovec,CZE,Italy,FIS Junior World Championships,Parallel GS,4,130.00
+201,Messner Gabriel,Male,12-02-2017,Phoenix Pyeongchang,KOR,Italy,World Cup,Parallel GS,32,26.00
+202,Messner Gabriel,Male,05-02-2017,Bansko,BUL,Italy,World Cup,Parallel GS,49,15.80
+203,Messner Gabriel,Male,03-02-2017,Bansko,BUL,Italy,World Cup,Parallel GS,40,18.50
+204,Messner Gabriel,Male,28-01-2017,Rogla,SLO,Italy,World Cup,Parallel GS,36,19.70
+205,Messner Gabriel,Male,21-01-2017,Livigno,ITA,Italy,European Cup,Parallel GS,6,144.00
+206,Messner Gabriel,Male,20-01-2017,Livigno,ITA,Italy,European Cup,Parallel GS,13,72.00
+207,Messner Gabriel,Male,10-01-2017,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,13,200.00
+208,Messner Gabriel,Male,08-01-2017,Gerlitzen,AUT,Italy,European Cup,Parallel GS,6,96.00
+209,Messner Gabriel,Male,07-01-2017,Gerlitzen,AUT,Italy,European Cup,Parallel GS,43,6.34
+210,Messner Gabriel,Male,17-12-2016,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Slalom,DSQ,
+211,Messner Gabriel,Male,15-12-2016,Carezza,ITA,Italy,World Cup,Parallel GS,31,28.00
+212,Messner Gabriel,Male,11-12-2016,Hochfügen,GER,Italy,European Cup,Parallel GS,68,
+213,Messner Gabriel,Male,10-12-2016,Hochfügen,GER,Italy,European Cup,Parallel GS,25,21.60
+214,Messner Gabriel,Male,04-11-2016,Landgraaf,NED,Italy,European Cup,Parallel Slalom,34,7.92
+215,Messner Gabriel,Male,03-11-2016,Landgraaf,NED,Italy,European Cup,Parallel Slalom,50,5.58
+216,Messner Gabriel,Male,08-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Parallel Slalom,5,162.00
+217,Messner Gabriel,Male,07-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Parallel GS,11,86.40
+218,Messner Gabriel,Male,03-04-2016,Rogla,SLO,Italy,FIS Junior World Championships,Parallel Slalom,9,104.40
+219,Messner Gabriel,Male,02-04-2016,Rogla,SLO,Italy,FIS Junior World Championships,Parallel GS,3,216.00
+220,Messner Gabriel,Male,27-03-2016,Racines,ITA,Italy,European Cup,Parallel Slalom,DSQ1,
+221,Messner Gabriel,Male,26-03-2016,Racines,ITA,Italy,European Cup,Parallel Slalom,37,9.70
+222,Messner Gabriel,Male,24-03-2016,Rogla,SLO,Italy,European Cup,Parallel Slalom,DSQ1,
+223,Messner Gabriel,Male,23-03-2016,Rogla,SLO,Italy,European Cup,Parallel GS,32,13.00
+224,Messner Gabriel,Male,20-03-2016,Gerlitzen,AUT,Italy,European Cup,Parallel GS,37,9.70
+225,Messner Gabriel,Male,19-03-2016,Gerlitzen,AUT,Italy,European Cup,Parallel GS,62,
+226,Messner Gabriel,Male,06-03-2016,Tauplitz,AUT,Italy,FIS,Parallel Slalom,2,176.00
+227,Messner Gabriel,Male,05-03-2016,Tauplitz,AUT,Italy,FIS,Parallel Slalom,2,176.00
+228,Messner Gabriel,Male,28-02-2016,Falkert,AUT,Italy,FIS,Giant Slalom,7,79.20
+229,Messner Gabriel,Male,27-02-2016,Falkert,AUT,Italy,FIS,Giant Slalom,8,70.40
+230,Messner Gabriel,Male,21-02-2016,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,39,9.40
+231,Messner Gabriel,Male,20-02-2016,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,34,11.00
+232,Messner Gabriel,Male,07-02-2016,Lachtal,AUT,Italy,FIS,Parallel Slalom,46,
+233,Messner Gabriel,Male,06-02-2016,Lachtal,AUT,Italy,National Championships,Parallel Slalom,22,32.40
+234,Messner Gabriel,Male,30-01-2016,Pfelders,ITA,Italy,FIS,Slalom,DNS1,
+235,Messner Gabriel,Male,29-01-2016,Pfelders,ITA,Italy,FIS,Slalom,6,28.00
+236,Messner Gabriel,Male,17-01-2016,Kreischberg,AUT,Italy,FIS,Parallel GS,DSQ1,
+237,Messner Gabriel,Male,16-01-2016,Kreischberg,AUT,Italy,FIS,Parallel GS,DNF1,
+238,Messner Gabriel,Male,06-12-2015,Hochfuegen,GER,Italy,European Cup,Parallel GS,55,
+239,Messner Gabriel,Male,05-12-2015,Hochfuegen,GER,Italy,European Cup,Parallel GS,56,6.85
+240,Messner Gabriel,Male,27-03-2015,Canazei,ITA,Italy,National Championships,Parallel Slalom,15,57.60
+241,Messner Gabriel,Male,26-03-2015,Canazei,ITA,Italy,National Championships,Parallel GS,17,50.40
+242,Messner Gabriel,Male,22-03-2015,Racines,ITA,Italy,European Cup,Parallel Slalom,25,30.00
+243,Messner Gabriel,Male,21-03-2015,Racines,ITA,Italy,European Cup,Parallel Slalom,35,10.00
+244,Messner Gabriel,Male,18-03-2015,Rogla,SLO,Italy,European Cup,Parallel Slalom,41,9.10
+245,Messner Gabriel,Male,17-03-2015,Rogla,SLO,Italy,European Cup,Parallel GS,40,9.25
+246,Messner Gabriel,Male,25-02-2015,Marianske Lazne,CZE,Italy,European Cup,Parallel Slalom,DSQ,
+247,Messner Gabriel,Male,24-02-2015,Marianske Lazne,CZE,Italy,European Cup,Parallel Slalom,12,63.80
+248,Messner Gabriel,Male,22-02-2015,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,71,
+249,Messner Gabriel,Male,21-02-2015,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,19,60.00
+250,Messner Gabriel,Male,07-02-2015,Pfelders,ITA,Italy,FIS,Giant Slalom,10,52.00
+251,Messner Gabriel,Male,06-02-2015,Pfelders,ITA,Italy,FIS,Slalom,4,110.00
+252,Messner Gabriel,Male,24-01-2015,Samnaun,SUI,Italy,FIS,Parallel Slalom,20,28.60
+253,Messner Gabriel,Male,23-01-2015,Samnaun,SUI,Italy,FIS,Parallel Slalom,18,31.20
+254,Messner Gabriel,Male,09-04-2014,Chiesa in Valmalenco,ITA,Italy,National Championships,Parallel Slalom,7,129.60
+255,Messner Gabriel,Male,08-04-2014,Chiesa in Valmalenco,ITA,Italy,National Championships,Parallel GS,46,0.00
+256,Messner Gabriel,Male,25-03-2014,Chiesa in Valmalenco,ITA,Italy,FIS Junior World Championships,Parallel Slalom,9,104.40
+257,Messner Gabriel,Male,24-03-2014,Chiesa in Valmalenco,ITA,Italy,FIS Junior World Championships,Parallel GS,18,46.80
+258,Messner Gabriel,Male,16-03-2014,Ratsching/Racines,ITA,Italy,European Cup,Parallel Slalom,30,16.00
+259,Messner Gabriel,Male,15-03-2014,Ratsching/Racines,ITA,Italy,European Cup,Parallel Slalom,40,9.25
+260,Messner Gabriel,Male,09-03-2014,Tauplitz,AUT,Italy,FIS,Parallel Slalom,21,26.00
+261,Messner Gabriel,Male,08-03-2014,Tauplitz,AUT,Italy,FIS,Parallel Slalom,23,20.80
+262,Messner Gabriel,Male,01-03-2014,Gerlitzen,AUT,Italy,European Cup,Parallel GS,39,9.40
+263,Messner Gabriel,Male,22-02-2014,Gosau,AUT,Italy,FIS,Slalom,16,39.00
+264,Messner Gabriel,Male,22-02-2014,Gosau,AUT,Italy,FIS,Slalom,21,26.00
+265,Messner Gabriel,Male,16-02-2014,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,28,18.00
+266,Messner Gabriel,Male,15-02-2014,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,27,20.25
+267,Messner Gabriel,Male,26-01-2014,Lizzola Valbondione,ITA,Italy,European Cup,Parallel Slalom,29,18.00
+268,Messner Gabriel,Male,25-01-2014,Lizzola Valbondione,ITA,Italy,European Cup,Parallel Slalom,89,
+269,Messner Gabriel,Male,15-12-2013,Samnaun,SUI,Italy,FIS,Parallel Slalom,33,6.24
+270,Messner Gabriel,Male,14-12-2013,Samnaun,SUI,Italy,FIS,Parallel Slalom,32,5.72
+271,Messner Gabriel,Male,08-12-2013,Hochfügen,AUT,Italy,European Cup,Parallel GS,83,0.00
+272,Messner Gabriel,Male,07-12-2013,Hochfügen,AUT,Italy,European Cup,Parallel GS,89,0.00
+273,Messner Gabriel,Male,04-04-2013,Chiesa in Valmalenco,ITA,Italy,National Championships,Parallel Slalom,34,7.92
+274,Messner Gabriel,Male,03-04-2013,Chiesa in Valmalenco,ITA,Italy,National Championships,Giant Slalom,24,25.20
+275,Messner Gabriel,Male,24-03-2013,Pfelders,ITA,Italy,FIS,Slalom,8,44.80
+276,Messner Gabriel,Male,23-03-2013,Pfelders,ITA,Italy,FIS,Giant Slalom,11,48.00
+277,Messner Gabriel,Male,03-03-2013,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,41,4.73
+278,Messner Gabriel,Male,02-03-2013,Gerlitzen,AUT,Italy,European Cup,Parallel Slalom,46,8.35
+279,Messner Gabriel,Male,21-02-2013,Predeal,ROU,Italy,European Youth Olympic Festival,Parallel GS,4,25.00
+280,Messner Gabriel,Male,19-02-2013,Predeal,ROU,Italy,European Youth Olympic Festival,Snowboardcross,36,0.00
+281,Messner Gabriel,Male,02-02-2013,Lizzola-Valbondione,ITA,Italy,FIS,Parallel Slalom,44,4.50
+282,Messner Gabriel,Male,27-01-2013,Rossfeld,GER,Italy,Junior,Giant Slalom,DNF,
+283,Messner Gabriel,Male,27-01-2013,Rossfeld,GER,Italy,Junior,Slalom,11,28.80
+284,Messner Gabriel,Male,26-01-2013,Colere,ITA,Italy,FIS,Snowboardcross,24,18.20
+285,Messner Gabriel,Male,25-01-2013,Colere,ITA,Italy,FIS,Snowboardcross,40,4.81
+286,Messner Gabriel,Male,20-01-2013,Seceda/S. Cristina Val Gardena,ITA,Italy,FIS,Giant Slalom,6,20.00
+287,Messner Gabriel,Male,19-01-2013,Seceda/S. Cristina Val Gardena,ITA,Italy,FIS,Giant Slalom,8,48.00
+288,Messner Gabriel,Male,23-12-2012,Radstadt,AUT,Italy,FIS,Giant Slalom,32,6.76
+289,Messner Gabriel,Male,22-12-2012,Radstadt,AUT,Italy,FIS,Giant Slalom,92,
+290,Messner Gabriel,Male,16-12-2012,Racines/Ratschings,ITA,Italy,European Cup,Parallel Slalom,39,9.40
+291,Messner Gabriel,Male,15-12-2012,Racines/Ratschings,ITA,Italy,European Cup,Parallel Slalom,41,7.28

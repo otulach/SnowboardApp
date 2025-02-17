@@ -1,531 +1,535 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Fischnaller Roland,Male,25-01-2025,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,15,
-1,Fischnaller Roland,Male,25-01-2025,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,8,320.00
-2,Fischnaller Roland,Male,19-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,9,
-3,Fischnaller Roland,Male,19-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,11,240.00
-4,Fischnaller Roland,Male,18-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,14,
-5,Fischnaller Roland,Male,18-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,14,180.00
-6,Fischnaller Roland,Male,14-01-2025,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,38,
-7,Fischnaller Roland,Male,14-01-2025,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,38,19.10
-8,Fischnaller Roland,Male,11-01-2025,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,6,
-9,Fischnaller Roland,Male,11-01-2025,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,7,360.00
-10,Fischnaller Roland,Male,14-12-2024,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,4,
-11,Fischnaller Roland,Male,14-12-2024,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,6,400.00
-12,Fischnaller Roland,Male,12-12-2024,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,13,
-13,Fischnaller Roland,Male,12-12-2024,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,13,200.00
-14,Fischnaller Roland,Male,08-12-2024,Yanqing (NASC),CHN,Italy,World Cup,Parallel Slalom,25,60.00
-15,Fischnaller Roland,Male,08-12-2024,Yanqing (NASC),CHN,Italy,Qualification,Parallel Slalom,25,
-16,Fischnaller Roland,Male,07-12-2024,Yanqing (NASC),CHN,Italy,World Cup,Parallel Giant Slalom,27,45.00
-17,Fischnaller Roland,Male,07-12-2024,Yanqing (NASC),CHN,Italy,Qualification,Parallel Giant Slalom,27,
-18,Fischnaller Roland,Male,01-12-2024,Mylin,CHN,Italy,World Cup,Parallel Slalom,14,180.00
-19,Fischnaller Roland,Male,01-12-2024,Mylin,CHN,Italy,Qualification,Parallel Slalom,12,
-20,Fischnaller Roland,Male,30-11-2024,Mylin,CHN,Italy,World Cup,Parallel Giant Slalom,29,36.00
-21,Fischnaller Roland,Male,30-11-2024,Mylin,CHN,Italy,Qualification,Parallel Giant Slalom,29,
-22,Fischnaller Roland,Male,16-03-2024,St. Moritz,SUI,Italy,European Cup,Parallel Giant Slalom,8,115.20
-23,Fischnaller Roland,Male,09-03-2024,Winterberg,GER,Italy,Qualification,Parallel Slalom,9,
-24,Fischnaller Roland,Male,09-03-2024,Winterberg,GER,Italy,World Cup,Parallel Slalom,6,400.00
-25,Fischnaller Roland,Male,25-02-2024,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,6,
-26,Fischnaller Roland,Male,25-02-2024,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,7,360.00
-27,Fischnaller Roland,Male,24-02-2024,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,15,
-28,Fischnaller Roland,Male,24-02-2024,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,2,800.00
-29,Fischnaller Roland,Male,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,9,84.10
-30,Fischnaller Roland,Male,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,4,145.00
-31,Fischnaller Roland,Male,27-01-2024,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,7,
-32,Fischnaller Roland,Male,27-01-2024,Simonhöhe,AUT,Italy,World Cup,Parallel Giant Slalom,4,500.00
-33,Fischnaller Roland,Male,21-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,31,
-34,Fischnaller Roland,Male,21-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,31,28.00
-35,Fischnaller Roland,Male,20-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,10,
-36,Fischnaller Roland,Male,20-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,7,360.00
-37,Fischnaller Roland,Male,16-01-2024,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,DSQ,
-38,Fischnaller Roland,Male,16-01-2024,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,DSQ,
-39,Fischnaller Roland,Male,13-01-2024,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,12,
-40,Fischnaller Roland,Male,13-01-2024,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,4,500.00
-41,Fischnaller Roland,Male,23-12-2023,Davos,SUI,Italy,Qualification,Parallel Slalom,14,
-42,Fischnaller Roland,Male,23-12-2023,Davos ,SUI,Italy,World Cup,Parallel Slalom,14,180.00
-43,Fischnaller Roland,Male,16-12-2023,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,1,
-44,Fischnaller Roland,Male,16-12-2023,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,3,600.00
-45,Fischnaller Roland,Male,14-12-2023,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,11,
-46,Fischnaller Roland,Male,14-12-2023,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,8,320.00
-47,Fischnaller Roland,Male,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,2,232.00
-48,Fischnaller Roland,Male,18-03-2023,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,24,
-49,Fischnaller Roland,Male,18-03-2023,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,24,70.00
-50,Fischnaller Roland,Male,15-03-2023,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,1,1000.00
-51,Fischnaller Roland,Male,15-03-2023,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,1,
-52,Fischnaller Roland,Male,04-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,1,220.00
-53,Fischnaller Roland,Male,19-02-2023,Bakuriani,GEO,Italy,Qualification,Parallel Giant Slalom,18,
-54,Fischnaller Roland,Male,19-02-2023,Bakuriani,GEO,Italy,World Championships,Parallel Giant Slalom,18,130.00
-55,Fischnaller Roland,Male,12-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,3,132.00
-56,Fischnaller Roland,Male,11-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,1,220.00
-57,Fischnaller Roland,Male,27-01-2023,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,1,
-58,Fischnaller Roland,Male,27-01-2023,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,3,600.00
-59,Fischnaller Roland,Male,26-01-2023,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,18,
-60,Fischnaller Roland,Male,26-01-2023,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,18,130.00
-61,Fischnaller Roland,Male,22-01-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,DSQ,
-62,Fischnaller Roland,Male,22-01-2023,Bansko,BUL,Italy,World Cup,Parallel Slalom,DSQ,
-63,Fischnaller Roland,Male,21-01-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,24,
-64,Fischnaller Roland,Male,21-01-2023,Bansko,BUL,Italy,World Cup,Parallel Slalom,24,70.00
-65,Fischnaller Roland,Male,14-01-2023,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,20,
-66,Fischnaller Roland,Male,14-01-2023,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,20,110.00
-67,Fischnaller Roland,Male,10-01-2023,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,18,
-68,Fischnaller Roland,Male,10-01-2023,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,18,130.00
-69,Fischnaller Roland,Male,17-12-2022,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,1,
-70,Fischnaller Roland,Male,17-12-2022,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,1,1000.00
-71,Fischnaller Roland,Male,15-12-2022,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,1,
-72,Fischnaller Roland,Male,15-12-2022,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,3,600.00
-73,Fischnaller Roland,Male,11-12-2022,Winterberg,GER,Italy,World Cup,Parallel Slalom,13,200.00
-74,Fischnaller Roland,Male,10-12-2022,Winterberg,GER,Italy,Qualification,Parallel Slalom,12,
-75,Fischnaller Roland,Male,10-12-2022,Winterberg,GER,Italy,World Cup,Parallel Slalom Team,12,
-76,Fischnaller Roland,Male,19-03-2022,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,3,
-77,Fischnaller Roland,Male,19-03-2022,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,5,450.00
-78,Fischnaller Roland,Male,16-03-2022,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,7,
-79,Fischnaller Roland,Male,16-03-2022,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,5,450.00
-80,Fischnaller Roland,Male,12-03-2022,Piancavallo,ITA,Italy,Qualification,Parallel Slalom,6,
-81,Fischnaller Roland,Male,12-03-2022,Piancavallo,ITA,Italy,World Cup,Parallel Slalom,11,240.00
-82,Fischnaller Roland,Male,19-02-2022,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,1,220.00
-83,Fischnaller Roland,Male,08-02-2022,Beijing,CHN,Italy,Qualification,Parallel Giant Slalom,6,
-84,Fischnaller Roland,Male,08-02-2022,Beijing,CHN,Italy,Olympic Winter Games,Parallel Giant Slalom,4,500.00
-85,Fischnaller Roland,Male,14-01-2022,Simonhöhe,AUT,Italy,World Cup,Parallel Giant Slalom,3,600.00
-86,Fischnaller Roland,Male,14-01-2022,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,4,
-87,Fischnaller Roland,Male,08-01-2022,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,22,
-88,Fischnaller Roland,Male,08-01-2022,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,22,90.00
-89,Fischnaller Roland,Male,18-12-2021,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,1,
-90,Fischnaller Roland,Male,18-12-2021,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,3,600.00
-91,Fischnaller Roland,Male,16-12-2021,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,9,
-92,Fischnaller Roland,Male,16-12-2021,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,11,240.00
-93,Fischnaller Roland,Male,12-12-2021,Bannoye,RUS,Italy,Qualification,Parallel Slalom,10,
-94,Fischnaller Roland,Male,12-12-2021,Bannoye,RUS,Italy,World Cup,Parallel Slalom,7,360.00
-95,Fischnaller Roland,Male,11-12-2021,Bannoye,RUS,Italy,Qualification,Parallel Giant Slalom,22,
-96,Fischnaller Roland,Male,11-12-2021,Bannoye,RUS,Italy,World Cup,Parallel Giant Slalom,22,90.00
-97,Fischnaller Roland,Male,31-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Giant Slalom,3,174.00
-98,Fischnaller Roland,Male,30-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Slalom,5,130.50
-99,Fischnaller Roland,Male,27-03-2021,Villnöss - Funes,ITA,Italy,FIS,Parallel Giant Slalom,2,176.00
-100,Fischnaller Roland,Male,20-03-2021,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,11,
-101,Fischnaller Roland,Male,20-03-2021,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,8,320.00
-102,Fischnaller Roland,Male,06-03-2021,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,2,
-103,Fischnaller Roland,Male,06-03-2021,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,9,290.00
-104,Fischnaller Roland,Male,01-03-2021,Rogla,SLO,Italy,World Championships,Parallel Giant Slalom,2,800.00
-105,Fischnaller Roland,Male,01-03-2021,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,4,
-106,Fischnaller Roland,Male,07-02-2021,Bannoye,RUS,Italy,Qualification,Parallel Slalom,22,
-107,Fischnaller Roland,Male,07-02-2021,Bannoye,RUS,Italy,World Cup,Parallel Slalom,22,90.00
-108,Fischnaller Roland,Male,06-02-2021,Baonoye,RUS,Italy,Qualification,Parallel Giant Slalom,6,
-109,Fischnaller Roland,Male,06-02-2021,Bannoye,RUS,Italy,World Cup,Parallel Giant Slalom,12,220.00
-110,Fischnaller Roland,Male,30-01-2021,Moscow,RUS,Italy,Qualification,Parallel Slalom,DSQ,
-111,Fischnaller Roland,Male,30-01-2021,Moscow,RUS,Italy,World Cup,Parallel Slalom,DSQ,
-112,Fischnaller Roland,Male,12-01-2021,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,26,
-113,Fischnaller Roland,Male,12-01-2021,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,26,50.00
-114,Fischnaller Roland,Male,09-01-2021,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,17,
-115,Fischnaller Roland,Male,09-01-2021,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,17,140.00
-116,Fischnaller Roland,Male,17-12-2020,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,8,
-117,Fischnaller Roland,Male,17-12-2020,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,4,500.00
-118,Fischnaller Roland,Male,12-12-2020,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,1,
-119,Fischnaller Roland,Male,12-12-2020,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,1,1000.00
-120,Fischnaller Roland,Male,01-03-2020,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,11,240.00
-121,Fischnaller Roland,Male,01-03-2020,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,3,
-122,Fischnaller Roland,Male,29-02-2020,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,4,500.00
-123,Fischnaller Roland,Male,29-02-2020,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,15,
-124,Fischnaller Roland,Male,22-02-2020,Pyeongchang,KOR,Italy,World Cup,Parallel Giant Slalom,1,1000.00
-125,Fischnaller Roland,Male,22-02-2020,Pyeongchang,KOR,Italy,Qualification,Parallel Giant Slalom,1,
-126,Fischnaller Roland,Male,25-01-2020,Piancavallo,ITA,Italy,World Cup,Parallel Slalom,2,800.00
-127,Fischnaller Roland,Male,25-01-2020,Piancavallo,ITA,Italy,Qualification,Parallel Slalom,1,
-128,Fischnaller Roland,Male,18-01-2020,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,2,800.00
-129,Fischnaller Roland,Male,18-01-2020,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,1,
-130,Fischnaller Roland,Male,14-01-2020,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,4,500.00
-131,Fischnaller Roland,Male,14-01-2020,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,5,
-132,Fischnaller Roland,Male,11-01-2020,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,7,360.00
-133,Fischnaller Roland,Male,11-01-2020,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,8,
-134,Fischnaller Roland,Male,19-12-2019,Carezza,ITA,Italy,Open,Parallel Giant Slalom,3,600.00
-135,Fischnaller Roland,Male,14-12-2019,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,1,1000.00
-136,Fischnaller Roland,Male,14-12-2019,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,2,
-137,Fischnaller Roland,Male,08-12-2019,Bannoye,RUS,Italy,World Cup,Parallel Giant Slalom,1,1000.00
-138,Fischnaller Roland,Male,08-12-2019,Bannoye,RUS,Italy,Qualification,Parallel Giant Slalom,13,
-139,Fischnaller Roland,Male,07-12-2019,Bannoye,RUS,Italy,World Cup,Parallel Slalom,5,450.00
-140,Fischnaller Roland,Male,07-12-2019,Bannoye,RUS,Italy,Qualification,Parallel Slalom,1,
-141,Fischnaller Roland,Male,27-03-2019,Piancavallo,ITA,Italy,National Championships,Parallel Giant Slalom,2,232.00
-142,Fischnaller Roland,Male,26-03-2019,Piancavallo,ITA,Italy,National Championships,Parallel Slalom,1,290.00
-143,Fischnaller Roland,Male,23-03-2019,Winterberg,GER,Italy,World Cup,Parallel Slalom,7,360.00
-144,Fischnaller Roland,Male,23-03-2019,Winterberg,GER,Italy,Qualification,Parallel Slalom,7,
-145,Fischnaller Roland,Male,09-03-2019,Scuol,SUI,Italy,World Cup,Parallel GS,37,19.40
-146,Fischnaller Roland,Male,09-03-2019,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,37,
-147,Fischnaller Roland,Male,24-02-2019,Secret Garden,CHN,Italy,World Cup,Parallel Slalom,3,600.00
-148,Fischnaller Roland,Male,24-02-2019,Secret Garden,CHN,Italy,Qualification,Parallel Slalom,10,
-149,Fischnaller Roland,Male,23-02-2019,Secret Garden,CHN,Italy,World Cup,Parallel Giant Slalom,6,400.00
-150,Fischnaller Roland,Male,23-02-2019,Secret Garden,CHN,Italy,Qualification,Parallel Giant Slalom,8,
-151,Fischnaller Roland,Male,17-02-2019,Pyeongchang,KOR,Italy,World Cup,Parallel Giant Slalom,15,160.00
-152,Fischnaller Roland,Male,17-02-2019,Pyeongchang,KOR,Italy,Qualification,Parallel Giant Slalom,13,
-153,Fischnaller Roland,Male,16-02-2019,Pyeongchang,KOR,Italy,World Cup,Parallel Giant Slalom,8,320.00
-154,Fischnaller Roland,Male,16-02-2019,Pyeongchang,KOR,Italy,Qualification,Parallel Giant Slalom,13,
-155,Fischnaller Roland,Male,05-02-2019,Park City,USA,Italy,World Championships,Parallel Slalom,2,800.00
-156,Fischnaller Roland,Male,04-02-2019,Park City,USA,Italy,World Championships,Parallel Giant Slalom,18,130.00
-157,Fischnaller Roland,Male,27-01-2019,Moscow,RUS,Italy,World Cup,Parallel Slalom Team,17,
-158,Fischnaller Roland,Male,26-01-2019,Moscow,RUS,Italy,World Cup,Parallel Slalom,17,140.00
-159,Fischnaller Roland,Male,26-01-2019,Moscow,RUS,Italy,Qualification,Parallel Slalom,17,
-160,Fischnaller Roland,Male,19-01-2019,Rogla,SLO,Italy,World Cup,Parallel GS,5,450.00
-161,Fischnaller Roland,Male,19-01-2019,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,1,
-162,Fischnaller Roland,Male,08-01-2019,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,14,180.00
-163,Fischnaller Roland,Male,08-01-2019,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,14,
-164,Fischnaller Roland,Male,15-12-2018,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel GS,1,1000.00
-165,Fischnaller Roland,Male,15-12-2018,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,2,
-166,Fischnaller Roland,Male,13-12-2018,Carezza,ITA,Italy,World Cup,Parallel GS,7,360.00
-167,Fischnaller Roland,Male,13-12-2018,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,9,
-168,Fischnaller Roland,Male,18-03-2018,Winterberg,GER,Italy,World Cup,Parallel Slalom Team,1,
-169,Fischnaller Roland,Male,17-03-2018,Winterberg,GER,Italy,World Cup,Parallel Slalom,1,1000.00
-170,Fischnaller Roland,Male,17-03-2018,Winterberg,GER,Italy,Qualification,Parallel Slalom,1,
-171,Fischnaller Roland,Male,10-03-2018,Scuol,SUI,Italy,World Cup,Parallel GS,9,290.00
-172,Fischnaller Roland,Male,10-03-2018,Scuol,SUI,Italy,Qualification,Parallel GS,2,
-173,Fischnaller Roland,Male,08-03-2018,Carezza,ITA,Italy,National Championships,Parallel Slalom,5,130.50
-174,Fischnaller Roland,Male,07-03-2018,Carezza,ITA,Italy,National Championships,Parallel GS,1,290.00
-175,Fischnaller Roland,Male,03-03-2018,Kayseri,TUR,Italy,World Cup,Parallel GS,10,260.00
-176,Fischnaller Roland,Male,03-03-2018,Kayseri,TUR,Italy,Qualification,Parallel GS,10,
-177,Fischnaller Roland,Male,24-02-2018,Phoenix Snow Park,KOR,Italy,Qualification,Parallel GS,8,
-178,Fischnaller Roland,Male,24-02-2018,Phoenix Snow Park,KOR,Italy,Olympic Winter Games,Parallel GS,7,360.00
-179,Fischnaller Roland,Male,28-01-2018,Bansko,BUL,Italy,World Cup,Parallel GS,32,26.00
-180,Fischnaller Roland,Male,28-01-2018,Bansko,BUL,Italy,Qualification,Parallel GS,32,
-181,Fischnaller Roland,Male,26-01-2018,Bansko,BUL,Italy,World Cup,Parallel GS,DNF,
-182,Fischnaller Roland,Male,26-01-2018,Bansko,BUL,Italy,Qualification,Parallel GS,DNF,
-183,Fischnaller Roland,Male,21-01-2018,Rogla,SLO,Italy,World Cup,Parallel GS,3,600.00
-184,Fischnaller Roland,Male,21-01-2018,Rogla,SLO,Italy,Qualification,Parallel GS,4,
-185,Fischnaller Roland,Male,20-01-2018,Rogla,SLO,Italy,World Cup,Parallel GS,14,180.00
-186,Fischnaller Roland,Male,20-01-2018,Rogla,SLO,Italy,Qualification,Parallel GS,12,
-187,Fischnaller Roland,Male,13-01-2018,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom Team,7,
-188,Fischnaller Roland,Male,12-01-2018,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,13,200.00
-189,Fischnaller Roland,Male,12-01-2018,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,12,
-190,Fischnaller Roland,Male,06-01-2018,Lackenhof,AUT,Italy,World Cup,Parallel GS Team,6,
-191,Fischnaller Roland,Male,05-01-2018,Lackenhof,AUT,Italy,World Cup,Parallel GS,10,260.00
-192,Fischnaller Roland,Male,05-01-2018,Lackenhof,AUT,Italy,Qualification,Parallel GS,9,
-193,Fischnaller Roland,Male,16-12-2017,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Slalom,1,1000.00
-194,Fischnaller Roland,Male,16-12-2017,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Slalom,1,
-195,Fischnaller Roland,Male,15-12-2017,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel GS,2,800.00
-196,Fischnaller Roland,Male,15-12-2017,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel GS,2,
-197,Fischnaller Roland,Male,14-12-2017,Carezza,ITA,Italy,World Cup,Parallel GS,5,450.00
-198,Fischnaller Roland,Male,14-12-2017,Carezza,ITA,Italy,Qualification,Parallel GS,4,
-199,Fischnaller Roland,Male,18-03-2017,Winterberg,GER,Italy,Qualification,Parallel Slalom,2,
-200,Fischnaller Roland,Male,18-03-2017,Winterberg,GER,Italy,World Cup,Parallel Slalom,6,400.00
-201,Fischnaller Roland,Male,15-03-2017,Sierra Nevada,ESP,Italy,World Championships,Parallel Slalom,9,290.00
-202,Fischnaller Roland,Male,05-03-2017, Erciyes-Kayseri,TUR,Italy,World Cup,Parallel GS,37,19.40
-203,Fischnaller Roland,Male,12-02-2017,Phoenix Pyeongchang,KOR,Italy,World Cup,Parallel GS,23,80.00
-204,Fischnaller Roland,Male,05-02-2017,Bansko,BUL,Italy,World Cup,Parallel GS,14,180.00
-205,Fischnaller Roland,Male,03-02-2017,Bansko,BUL,Italy,World Cup,Parallel GS,DSQ,
-206,Fischnaller Roland,Male,28-01-2017,Rogla,SLO,Italy,World Cup,Parallel GS,26,50.00
-207,Fischnaller Roland,Male,10-01-2017,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,16,150.00
-208,Fischnaller Roland,Male,17-12-2016,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Slalom,2,800.00
-209,Fischnaller Roland,Male,15-12-2016,Carezza,ITA,Italy,World Cup,Parallel GS,19,120.00
-210,Fischnaller Roland,Male,04-11-2016,Landgraaf,NED,Italy,European Cup,Parallel Slalom,DSQ1,
-211,Fischnaller Roland,Male,03-11-2016,Landgraaf,NED,Italy,European Cup,Parallel Slalom,41,6.55
-212,Fischnaller Roland,Male,26-03-2016,Racines,ITA,Italy,European Cup,Parallel Slalom,5,225.00
-213,Fischnaller Roland,Male,06-03-2016,Winterberg,GER,Italy,World Cup,Parallel Slalom,2,800.00
-214,Fischnaller Roland,Male,27-02-2016,Kayseri,TUR,Italy,World Cup,Parallel GS,13,200.00
-215,Fischnaller Roland,Male,30-01-2016,Moscow,RUS,Italy,World Cup,Parallel Slalom,1,1000.00
-216,Fischnaller Roland,Male,23-01-2016,Rogla,SLO,Italy,World Cup,Parallel GS,5,450.00
-217,Fischnaller Roland,Male,08-01-2016,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,10,260.00
-218,Fischnaller Roland,Male,19-12-2015,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Slalom,2,800.00
-219,Fischnaller Roland,Male,12-12-2015,Carezza,ITA,Italy,World Cup,Parallel GS,20,110.00
-220,Fischnaller Roland,Male,27-03-2015,Canazei,ITA,Italy,National Championships,Parallel Slalom,3,216.00
-221,Fischnaller Roland,Male,21-03-2015,Racines,ITA,Italy,European Cup,Parallel Slalom,9,145.00
-222,Fischnaller Roland,Male,14-03-2015,Winterberg,GER,Italy,World Cup,Parallel Slalom,1,1000.00
-223,Fischnaller Roland,Male,07-03-2015,Moscow,RUS,Italy,World Cup,Parallel Slalom,3,600.00
-224,Fischnaller Roland,Male,01-03-2015,Asahikawa,JPN,Italy,World Cup,Parallel Slalom,12,220.00
-225,Fischnaller Roland,Male,28-02-2015,Asahikawa,JPN,Italy,World Cup,Parallel GS,10,260.00
-226,Fischnaller Roland,Male,07-02-2015,Sudelfeld,GER,Italy,World Cup,Parallel GS,40,18.50
-227,Fischnaller Roland,Male,06-02-2015,Sudelfeld,GER,Italy,Qualification,Parallel GS,40,
-228,Fischnaller Roland,Male,31-01-2015,Rogla,SLO,Italy,World Cup,Parallel GS,18,130.00
-229,Fischnaller Roland,Male,23-01-2015,Lachtal,AUT,Italy,World Championships,Parallel GS,22,90.00
-230,Fischnaller Roland,Male,22-01-2015,Lachtal,AUT,Italy,World Championships,Parallel Slalom,1,1000.00
-231,Fischnaller Roland,Male,09-01-2015,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,7,360.00
-232,Fischnaller Roland,Male,18-12-2014,Montafon,AUT,Italy,World Cup,Parallel Slalom,1,1000.00
-233,Fischnaller Roland,Male,16-12-2014,Carezza,ITA,Italy,World Cup,Parallel GS,1,1000.00
-234,Fischnaller Roland,Male,16-03-2014,Ratsching/Racines,ITA,Italy,European Cup,Parallel Slalom,9,145.00
-235,Fischnaller Roland,Male,15-03-2014,Ratsching/Racines,ITA,Italy,European Cup,Parallel Slalom,1,500.00
-236,Fischnaller Roland,Male,22-02-2014,Rosa Khutor,RUS,Italy,Olympic Winter Games,Parallel Slalom,8,320.00
-237,Fischnaller Roland,Male,19-02-2014,Rosa Khutor,RUS,Italy,Olympic Winter Games,Parallel GS,18,130.00
-238,Fischnaller Roland,Male,01-02-2014,Sudelfeld,GER,Italy,World Cup,Parallel GS,22,90.00
-239,Fischnaller Roland,Male,26-01-2014,Lizzola Valbondione,ITA,Italy,European Cup,Parallel Slalom,3,300.00
-240,Fischnaller Roland,Male,25-01-2014,Lizzola Valbondione,ITA,Italy,European Cup,Parallel Slalom,5,225.00
-241,Fischnaller Roland,Male,18-01-2014,Rogla,SLO,Italy,World Cup,Parallel GS,10,
-242,Fischnaller Roland,Male,12-01-2014,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,21,100.00
-243,Fischnaller Roland,Male,10-01-2014,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,41,18.20
-244,Fischnaller Roland,Male,22-12-2013,Schönberg-Lachtal,AUT,Italy,European Cup,Parallel Slalom,1,500.00
-245,Fischnaller Roland,Male,21-12-2013,Schönberg-Lachtal,AUT,Italy,European Cup,Parallel Slalom,10,130.00
-246,Fischnaller Roland,Male,14-12-2013,Carezza,ITA,Italy,World Cup,Parallel Slalom,12,220.00
-247,Fischnaller Roland,Male,13-12-2013,Carezza,ITA,Italy,World Cup,Parallel GS,34,22.00
-248,Fischnaller Roland,Male,07-12-2013,Hochfügen,AUT,Italy,European Cup,Parallel GS,44,8.65
-249,Fischnaller Roland,Male,08-11-2013,Landgraaf,NED,Italy,FIS,Parallel Slalom,2,208.00
-250,Fischnaller Roland,Male,07-11-2013,Landgraaf,NED,Italy,FIS,Parallel Slalom,1,260.00
-251,Fischnaller Roland,Male,16-03-2013,La Molina,ESP,Italy,World Cup,Parallel GS,9,290.00
-252,Fischnaller Roland,Male,10-03-2013,Arosa,SUI,Italy,World Cup,Parallel GS,13,200.00
-253,Fischnaller Roland,Male,23-02-2013,Moscow,RUS,Italy,World Cup,Parallel Slalom,3,600.00
-254,Fischnaller Roland,Male,14-02-2013,Sochi,RUS,Italy,World Cup,Parallel GS,9,290.00
-255,Fischnaller Roland,Male,08-02-2013,Rogla,SLO,Italy,World Cup,Parallel GS,1,1000.00
-256,Fischnaller Roland,Male,27-01-2013,Stoneham,CAN,Italy,World Championships,Parallel Slalom,3,600.00
-257,Fischnaller Roland,Male,25-01-2013,Stoneham,CAN,Italy,World Championships,Parallel GS,2,800.00
-258,Fischnaller Roland,Male,12-01-2013,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,2,800.00
-259,Fischnaller Roland,Male,11-01-2013,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,2,800.00
-260,Fischnaller Roland,Male,21-12-2012,Carezza,ITA,Italy,World Cup,Parallel GS,4,500.00
-261,Fischnaller Roland,Male,16-12-2012,Racines/Ratschings,ITA,Italy,European Cup,Parallel Slalom,1,500.00
-262,Fischnaller Roland,Male,09-12-2012,Lachtal,AUT,Italy,European Cup,Parallel GS,4,250.00
-263,Fischnaller Roland,Male,08-12-2012,Lachtal,AUT,Italy,European Cup,Parallel GS,6,200.00
-264,Fischnaller Roland,Male,17-03-2012,Valmalenco,ITA,Italy,World Cup,Parallel GS,1,1000.00
-265,Fischnaller Roland,Male,10-03-2012,La Molina,ESP,Italy,World Cup,Parallel GS,12,220.00
-266,Fischnaller Roland,Male,03-03-2012,Moscow,RUS,Italy,World Cup,Parallel Slalom,1,1000.00
-267,Fischnaller Roland,Male,22-02-2012,Stoneham,CAN,Italy,World Cup,Parallel GS,6,400.00
-268,Fischnaller Roland,Male,05-02-2012,Ratschings-Racines,ITA,Italy,European Cup,Parallel Slalom,1,500.00
-269,Fischnaller Roland,Male,28-01-2012,Sudelfeld,GER,Italy,World Cup,Parallel GS,6,400.00
-270,Fischnaller Roland,Male,21-01-2012,Valgardena-S. Cristina-Seceda,ITA,Italy,FIS,Slalom,41,
-271,Fischnaller Roland,Male,15-01-2012,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,1,1000.00
-272,Fischnaller Roland,Male,13-01-2012,Jauerling,AUT,Italy,World Cup,Parallel Slalom,3,600.00
-273,Fischnaller Roland,Male,22-12-2011,Carezza,ITA,Italy,World Cup,Parallel Slalom,9,290.00
-274,Fischnaller Roland,Male,21-12-2011,Carezza,ITA,Italy,World Cup,Parallel GS,1,1000.00
-275,Fischnaller Roland,Male,15-12-2011,Telluride,USA,Italy,Qualification,Parallel GS,6,
-276,Fischnaller Roland,Male,15-12-2011,Telluride,USA,Italy,World Cup,Parallel GS,11,240.00
-277,Fischnaller Roland,Male,13-10-2011,Landgraaf,NED,Italy,World Cup,Parallel Slalom,1,1000.00
-278,Fischnaller Roland,Male,27-03-2011,Arosa,SUI,Italy,World Cup,Parallel GS,2,800.00
-279,Fischnaller Roland,Male,19-03-2011,Valmalenco,ITA,Italy,World Cup,Parallel GS,21,100.00
-280,Fischnaller Roland,Male,05-03-2011,Moscow,RUS,Italy,World Cup,Parallel Slalom,1,1000.00
-281,Fischnaller Roland,Male,20-02-2011,Stoneham,CAN,Italy,World Cup,Parallel GS,4,500.00
-282,Fischnaller Roland,Male,09-02-2011,Yongpyong,KOR,Italy,World Cup,Parallel Slalom,7,360.00
-283,Fischnaller Roland,Male,22-01-2011,La Molina,ESP,Italy,World Championships,Parallel Slalom,5,450.00
-284,Fischnaller Roland,Male,19-01-2011,La Molina,ESP,Italy,World Championships,Parallel GS,3,600.00
-285,Fischnaller Roland,Male,09-01-2011,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,5,450.00
-286,Fischnaller Roland,Male,16-12-2010,Telluride,USA,Italy,World Cup,Parallel GS,12,220.00
-287,Fischnaller Roland,Male,11-12-2010,Limone Piemonte,ITA,Italy,World Cup,Parallel Slalom,1,1000.00
-288,Fischnaller Roland,Male,10-12-2010,Limone Piemonte,ITA,Italy,World Cup,Parallel GS,9,290.00
-289,Fischnaller Roland,Male,27-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Italy,European Cup,Parallel GS,1,450.00
-290,Fischnaller Roland,Male,10-10-2010,Landgraaf,NED,Italy,World Cup,Parallel Slalom,2,800.00
-291,Fischnaller Roland,Male,23-03-2010,Pozza di Fassa,ITA,Italy,National Championships,Giant Slalom,3,174.00
-292,Fischnaller Roland,Male,21-03-2010,La Molina,ESP,Italy,World Cup,Parallel GS,9,290.00
-293,Fischnaller Roland,Male,13-03-2010,Valmalenco,ITA,Italy,World Cup,Parallel GS,15,160.00
-294,Fischnaller Roland,Male,06-03-2010,Moscow,RUS,Italy,World Cup,Parallel Slalom,3,600.00
-295,Fischnaller Roland,Male,27-02-2010,Cypress,CAN,Italy,Olympic Winter Games,Parallel GS,18,130.00
-296,Fischnaller Roland,Male,06-02-2010,Sudelfeld,GER,Italy,World Cup,Parallel GS,4,
-297,Fischnaller Roland,Male,24-01-2010,Stoneham,CAN,Italy,World Cup,Parallel GS,31,28.00
-298,Fischnaller Roland,Male,17-01-2010,Nendaz,SUI,Italy,World Cup,Parallel GS,5,450.00
-299,Fischnaller Roland,Male,14-01-2010,Nendaz,SUI,Italy,European Cup,Parallel GS,4,250.00
-300,Fischnaller Roland,Male,06-01-2010,Kreischberg,AUT,Italy,World Cup,Parallel GS,9,290.00
-301,Fischnaller Roland,Male,17-12-2009,Telluride,USA,Italy,World Cup,Parallel GS,21,100.00
-302,Fischnaller Roland,Male,15-12-2009,Telluride,USA,Italy,World Cup,Parallel GS,25,60.00
-303,Fischnaller Roland,Male,06-12-2009,Carezza,ITA,Italy,European Cup,Parallel Slalom,1,450.00
-304,Fischnaller Roland,Male,05-12-2009,Carezza,ITA,Italy,European Cup,Parallel GS,3,300.00
-305,Fischnaller Roland,Male,29-11-2009,"Hochfuegen, Zillertal (AUT)",GER,Italy,European Cup,Parallel GS,27,22.50
-306,Fischnaller Roland,Male,09-10-2009,Landgraaf,NED,Italy,World Cup,Parallel Slalom,6,400.00
-307,Fischnaller Roland,Male,22-03-2009,Valmalenco,ITA,Italy,World Cup,Parallel GS,8,320.00
-308,Fischnaller Roland,Male,15-03-2009,La Molina,ESP,Italy,World Cup,Parallel GS,24,70.00
-309,Fischnaller Roland,Male,26-02-2009,Sunday River,USA,Italy,World Cup,Parallel GS,4,500.00
-310,Fischnaller Roland,Male,22-02-2009,Stoneham,CAN,Italy,World Cup,Parallel GS,9,290.00
-311,Fischnaller Roland,Male,31-01-2009,Sudelfeld,GER,Italy,World Cup,Parallel GS,4,500.00
-312,Fischnaller Roland,Male,21-01-2009,Gangwon,KOR,Italy,World Championships,Parallel Slalom,15,160.00
-313,Fischnaller Roland,Male,20-01-2009,Gangwon,KOR,Italy,World Championships,Parallel GS,19,120.00
-314,Fischnaller Roland,Male,07-01-2009,Kreischberg,AUT,Italy,World Cup,Parallel Slalom,5,450.00
-315,Fischnaller Roland,Male,06-01-2009,Kreischberg,AUT,Italy,World Cup,Parallel GS,10,260.00
-316,Fischnaller Roland,Male,21-12-2008,Arosa,SUI,Italy,World Cup,Parallel Slalom,2,800.00
-317,Fischnaller Roland,Male,14-12-2008,Limone Piemonte,ITA,Italy,World Cup,Parallel GS,32,26.00
-318,Fischnaller Roland,Male,10-10-2008,Landgraaf,NED,Italy,World Cup,Parallel Slalom,9,290.00
-319,Fischnaller Roland,Male,29-03-2008,Pfelders in Passeiertal,ITA,Italy,National Championships,Parallel GS,1,360.00
-320,Fischnaller Roland,Male,28-03-2008,Pfelders in Passeiertal,ITA,Italy,National Championships,Parallel Slalom,3,216.00
-321,Fischnaller Roland,Male,15-03-2008,Valmalenco,ITA,Italy,World Cup,Parallel GS,2,800.00
-322,Fischnaller Roland,Male,08-03-2008,Stoneham,CAN,Italy,World Cup,Parallel GS,14,
-323,Fischnaller Roland,Male,03-03-2008,"Lake Placid, NY",USA,Italy,World Cup,Parallel GS,6,400.00
-324,Fischnaller Roland,Male,24-02-2008,Gujo-Gifu,JPN,Italy,World Cup,Parallel GS,2,800.00
-325,Fischnaller Roland,Male,17-02-2008,Sungwoo,KOR,Italy,World Cup,Parallel GS,22,90.00
-326,Fischnaller Roland,Male,27-01-2008,Sudelfeld,GER,Italy,European Cup,Parallel GS,6,200.00
-327,Fischnaller Roland,Male,20-01-2008,La Molina,ESP,Italy,World Cup,Parallel Slalom,18,
-328,Fischnaller Roland,Male,19-01-2008,La Molina,ESP,Italy,World Cup,Parallel GS,18,130.00
-329,Fischnaller Roland,Male,12-01-2008,Sand in Taufers,ITA,Italy,European Cup,Giant Slalom,2,400.00
-330,Fischnaller Roland,Male,10-01-2008,Bad Gastein,AUT,Italy,European Cup,Parallel Slalom,9,145.00
-331,Fischnaller Roland,Male,09-01-2008,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,5,450.00
-332,Fischnaller Roland,Male,29-12-2007,Götschen/Bischofswiesen,GER,Italy,European Cup,Parallel GS,1,
-333,Fischnaller Roland,Male,20-10-2007,Soelden,AUT,Italy,World Cup,Parallel GS,24,
-334,Fischnaller Roland,Male,12-10-2007,Landgraaf,NED,Italy,World Cup,Parallel Slalom,7,360.00
-335,Fischnaller Roland,Male,24-03-2007,Colere,ITA,Italy,National Championships,Giant Slalom,2,288.00
-336,Fischnaller Roland,Male,23-03-2007,Colere,ITA,Italy,National Championships,Parallel Slalom,3,216.00
-337,Fischnaller Roland,Male,16-03-2007,Stoneham,CAN,Italy,World Cup,Parallel GS,22,
-338,Fischnaller Roland,Male,25-02-2007,Sungwoo,KOR,Italy,World Cup,Parallel GS,31,28.00
-339,Fischnaller Roland,Male,16-02-2007,Furano,JPN,Italy,World Cup,Parallel GS,16,150.00
-340,Fischnaller Roland,Male,09-02-2007,Shukolovo,RUS,Italy,World Cup,Parallel Slalom,30,32.00
-341,Fischnaller Roland,Male,02-02-2007,Bardonecchia,ITA,Italy,World Cup,Parallel GS,28,40.00
-342,Fischnaller Roland,Male,28-01-2007,Nendaz,SUI,Italy,World Cup,Parallel Slalom,11,240.00
-343,Fischnaller Roland,Male,17-01-2007,Arosa,SUI,Italy,World Championships,Parallel Slalom,6,400.00
-344,Fischnaller Roland,Male,16-01-2007,Arosa,SUI,Italy,World Championships,Parallel GS,15,160.00
-345,Fischnaller Roland,Male,22-12-2006,Bad Gastein,AUT,Italy,European Cup,Parallel Slalom,7,162.00
-346,Fischnaller Roland,Male,21-12-2006,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,11,240.00
-347,Fischnaller Roland,Male,20-12-2006,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,21,100.00
-348,Fischnaller Roland,Male,13-12-2006,S. Viglio di Marebbe,ITA,Italy,World Cup,Parallel GS,31,28.00
-349,Fischnaller Roland,Male,22-10-2006,Sölden,AUT,Italy,World Cup,Parallel GS,15,160.00
-350,Fischnaller Roland,Male,13-10-2006,Landgraaf,NED,Italy,World Cup,Parallel Slalom,13,200.00
-351,Fischnaller Roland,Male,09-04-2006,Madesimo,ITA,Italy,National Championships,Parallel GS,1,360.00
-352,Fischnaller Roland,Male,19-03-2006,Furano,JPN,Italy,World Cup,Parallel GS,14,180.00
-353,Fischnaller Roland,Male,03-03-2006,St. Petersburg,RUS,Italy,World Cup,Parallel Slalom,2,800.00
-354,Fischnaller Roland,Male,01-03-2006,Shukolovo,RUS,Italy,World Cup,Parallel Slalom,3,600.00
-355,Fischnaller Roland,Male,22-02-2006,Bardonecchia,ITA,Italy,Olympic Winter Games,Parallel GS,13,200.00
-356,Fischnaller Roland,Male,29-01-2006,Vratna-Terchova,SVK,Italy,European Cup,Parallel GS,4,145.00
-357,Fischnaller Roland,Male,28-01-2006,Vratna-Terchova,SVK,Italy,European Cup,Parallel GS,20,31.90
-358,Fischnaller Roland,Male,22-01-2006,Nendaz,SUI,Italy,World Cup,Parallel Slalom,11,240.00
-359,Fischnaller Roland,Male,18-01-2006,Nendaz,SUI,Italy,European Cup,Parallel Slalom,3,300.00
-360,Fischnaller Roland,Male,15-01-2006,Kronplatz,ITA,Italy,World Cup,Parallel GS,44,17.30
-361,Fischnaller Roland,Male,29-12-2005,Bischofswiesen,GER,Italy,European Cup,Parallel GS,4,225.00
-362,Fischnaller Roland,Male,18-12-2005,"Le Relais, QC",CAN,Italy,World Cup,Parallel GS,20,110.00
-363,Fischnaller Roland,Male,17-12-2005,"Le Relais, QC",CAN,Italy,World Cup,Parallel GS,35,20.00
-364,Fischnaller Roland,Male,11-12-2005,Haus im Ennstal,AUT,Italy,European Cup,Parallel GS,12,88.00
-365,Fischnaller Roland,Male,10-12-2005,Haus im Ennstal,AUT,Italy,European Cup,Parallel GS,8,160.00
-366,Fischnaller Roland,Male,04-12-2005,Kuehtai,AUT,Italy,FIS,Parallel Slalom,5,117.00
-367,Fischnaller Roland,Male,03-12-2005,Kuehtai,AUT,Italy,FIS,Parallel Slalom,8,83.20
-368,Fischnaller Roland,Male,02-04-2005,Solda,ITA,Italy,National Championships,Parallel GS,6,128.00
-369,Fischnaller Roland,Male,16-03-2005,Tandadalen,SWE,Italy,World Cup,Parallel GS,38,0.00
-370,Fischnaller Roland,Male,12-03-2005,Sierra Nevada,ESP,Italy,World Cup,Parallel Slalom,17,140.00
-371,Fischnaller Roland,Male,03-03-2005,"Lake Placid, NY",USA,Italy,World Cup,Parallel GS,39,0.00
-372,Fischnaller Roland,Male,25-02-2005,Sungwoo Resort,KOR,Italy,World Cup,Parallel Slalom,20,110.00
-373,Fischnaller Roland,Male,19-02-2005,Sapporo,JPN,Italy,World Cup,Parallel Slalom,29,
-374,Fischnaller Roland,Male,18-02-2005,Sapporo,JPN,Italy,World Cup,Parallel GS,35,20.00
-375,Fischnaller Roland,Male,09-02-2005,Bardonecchia,ITA,Italy,World Cup,Parallel GS,27,45.00
-376,Fischnaller Roland,Male,06-02-2005,Winterberg,GER,Italy,World Cup,Parallel Slalom,22,90.00
-377,Fischnaller Roland,Male,02-02-2005,Maribor,SLO,Italy,European Cup,Parallel Slalom,13,100.00
-378,Fischnaller Roland,Male,19-01-2005,Whistler,CAN,Italy,World Championships,Parallel Slalom,19,120.00
-379,Fischnaller Roland,Male,18-01-2005,Whistler,CAN,Italy,World Championships,Parallel GS,39,18.80
-380,Fischnaller Roland,Male,07-01-2005,St. Petersburg,RUS,Italy,World Cup,Parallel Slalom,19,120.00
-381,Fischnaller Roland,Male,19-12-2004,San Candido,ITA,Italy,FIS,Parallel Slalom,1,240.00
-382,Fischnaller Roland,Male,18-12-2004,San Candido,ITA,Italy,FIS,Parallel GS,118,0.00
-383,Fischnaller Roland,Male,17-12-2004,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,23,80.00
-384,Fischnaller Roland,Male,04-12-2004,Kronplatz,ITA,Italy,World Cup,Parallel GS,35,20.00
-385,Fischnaller Roland,Male,24-10-2004,Landgraaf,NED,Italy,World Cup,Parallel Slalom,17,140.00
-386,Fischnaller Roland,Male,17-10-2004,Soelden,AUT,Italy,World Cup,Parallel GS,46,16.70
-387,Fischnaller Roland,Male,21-03-2004,Madesimo,ITA,Italy,National Championships,Parallel Slalom,2,288.00
-388,Fischnaller Roland,Male,20-03-2004,Madesimo,ITA,Italy,National Championships,Parallel GS,4,180.00
-389,Fischnaller Roland,Male,14-03-2004,Bardonecchia,ITA,Italy,World Cup,Parallel GS,30,32.00
-390,Fischnaller Roland,Male,05-03-2004,"Mt. Bachelor, OR",USA,Italy,World Cup,Parallel GS,35,20.00
-391,Fischnaller Roland,Male,21-02-2004,Sapporo,JPN,Italy,World Cup,Parallel Slalom,23,80.00
-392,Fischnaller Roland,Male,20-02-2004,Sapporo,JPN,Italy,World Cup,Parallel GS,31,28.00
-393,Fischnaller Roland,Male,15-02-2004,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,1,260.00
-394,Fischnaller Roland,Male,14-02-2004,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,DSQ,
-395,Fischnaller Roland,Male,08-02-2004,Berchtesgaden,GER,Italy,World Cup,Parallel GS,28,40.00
-396,Fischnaller Roland,Male,03-02-2004,Maribor,SLO,Italy,World Cup,Parallel GS,26,50.00
-397,Fischnaller Roland,Male,25-01-2004,Watles,ITA,Italy,FIS,Parallel Slalom,7,93.60
-398,Fischnaller Roland,Male,24-01-2004,Watles,ITA,Italy,FIS,Parallel GS,1,260.00
-399,Fischnaller Roland,Male,18-01-2004,Sankt Johann/Pongau,AUT,Italy,European Cup,Parallel Slalom,44,8.65
-400,Fischnaller Roland,Male,17-01-2004,Sankt Johann/Pongau,AUT,Italy,European Cup,Parallel GS,10,130.00
-401,Fischnaller Roland,Male,11-01-2004,Alpe d'Huez,FRA,Italy,World Cup,Parallel GS,28,40.00
-402,Fischnaller Roland,Male,10-01-2004,Alpe d'Huez,FRA,Italy,World Cup,Parallel GS,45,17.00
-403,Fischnaller Roland,Male,06-01-2004,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,17,140.00
-404,Fischnaller Roland,Male,29-12-2003,Berchtesgaden,GER,Italy,European Cup,Parallel GS,21,45.00
-405,Fischnaller Roland,Male,21-12-2003,Stoneham,CAN,Italy,World Cup,Parallel GS,19,120.00
-406,Fischnaller Roland,Male,12-12-2003,"Whistler, BC",CAN,Italy,World Cup,Parallel GS,15,160.00
-407,Fischnaller Roland,Male,04-12-2003,Tandadalen,SWE,Italy,World Cup,Parallel GS,24,70.00
-408,Fischnaller Roland,Male,26-10-2003,Landgraaf,NED,Italy,World Cup,Parallel Slalom,10,260.00
-409,Fischnaller Roland,Male,19-10-2003,Soelden,AUT,Italy,World Cup,Parallel Slalom,2,800.00
-410,Fischnaller Roland,Male,18-10-2003,Soelden,AUT,Italy,World Cup,Parallel GS,20,110.00
-411,Fischnaller Roland,Male,12-09-2003,Valle Nevado,CHI,Italy,World Cup,Parallel GS,27,45.00
-412,Fischnaller Roland,Male,29-03-2003,Kuethai,AUT,Italy,FIS,Parallel GS,6,104.00
-413,Fischnaller Roland,Male,23-03-2003,Madesimo,ITA,Italy,National Championships,Parallel Slalom,2,256.00
-414,Fischnaller Roland,Male,22-03-2003,Madesimo,ITA,Italy,National Championships,Parallel GS,7,115.20
-415,Fischnaller Roland,Male,14-03-2003,Arosa,SUI,Italy,World Cup,Parallel GS,45,0.00
-416,Fischnaller Roland,Male,09-03-2003,Serre Chevalier,FRA,Italy,World Cup,Parallel Slalom,32,26.00
-417,Fischnaller Roland,Male,07-03-2003,Serre Chevalier,FRA,Italy,World Cup,Parallel GS,40,0.00
-418,Fischnaller Roland,Male,01-03-2003,Sapporo,JPN,Italy,World Cup,Parallel GS,29,36.00
-419,Fischnaller Roland,Male,01-03-2003,Sapporo,JPN,Italy,World Cup,Parallel Slalom,22,90.00
-420,Fischnaller Roland,Male,21-02-2003,Kranjska Gora,SLO,Italy,European Cup,Parallel Slalom,2,400.00
-421,Fischnaller Roland,Male,20-02-2003,Kranjska Gora,SLO,Italy,European Cup,Parallel GS,18,58.50
-422,Fischnaller Roland,Male,09-02-2003,Maribor,SLO,Italy,World Cup,Parallel Slalom,19,120.00
-423,Fischnaller Roland,Male,14-01-2003,Kreischberg,AUT,Italy,World Championships,Parallel Slalom,24,70.00
-424,Fischnaller Roland,Male,05-01-2003,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,31,28.00
-425,Fischnaller Roland,Male,20-12-2002,Stoneham,CAN,Italy,World Cup,Parallel GS,34,22.00
-426,Fischnaller Roland,Male,20-12-2002,Stoneham,CAN,Italy,World Cup,Parallel GS,24,70.00
-427,Fischnaller Roland,Male,18-12-2002,"Whistler, BC",CAN,Italy,World Cup,Parallel Slalom,20,
-428,Fischnaller Roland,Male,06-12-2002,Tandadalen,SWE,Italy,World Cup,Parallel GS,35,20.00
-429,Fischnaller Roland,Male,06-12-2002,Tandadalen,SWE,Italy,World Cup,Parallel Slalom,4,500.00
-430,Fischnaller Roland,Male,30-10-2002,Soelden,AUT,Italy,World Cup,Parallel Slalom,19,120.00
-431,Fischnaller Roland,Male,29-10-2002,Soelden,AUT,Italy,World Cup,Parallel GS,32,26.00
-432,Fischnaller Roland,Male,29-03-2002,Madesimo,ITA,Italy,National Championships,Parallel Slalom,3,216.00
-433,Fischnaller Roland,Male,28-03-2002,Madesimo,ITA,Italy,National Championships,Parallel GS,DNF,
-434,Fischnaller Roland,Male,21-03-2002,Tandadalen,SWE,Italy,World Cup,Parallel Slalom,8,320.00
-435,Fischnaller Roland,Male,20-03-2002,Tandadalen,SWE,Italy,World Cup,Parallel GS,44,7.00
-436,Fischnaller Roland,Male,14-03-2002,Ruka,FIN,Italy,World Cup,Parallel Slalom,19,120.00
-437,Fischnaller Roland,Male,23-02-2002,Pozza di Fassa,ITA,Italy,FIS,Parallel GS,2,176.00
-438,Fischnaller Roland,Male,15-02-2002,Park City,USA,Italy,Olympic Winter Games,Parallel GS,19,120.00
-439,Fischnaller Roland,Male,29-01-2002,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,35,20.00
-440,Fischnaller Roland,Male,26-01-2002,Ovindoli,ITA,Italy,FIS,Parallel Slalom,2,208.00
-441,Fischnaller Roland,Male,24-01-2002,Kreischberg,AUT,Italy,World Cup,Parallel GS,31,28.00
-442,Fischnaller Roland,Male,20-01-2002,Bardonecchia,ITA,Italy,World Cup,Parallel GS,27,45.00
-443,Fischnaller Roland,Male,19-01-2002,Bardonecchia,ITA,Italy,World Cup,Giant Slalom,32,26.00
-444,Fischnaller Roland,Male,13-01-2002,St. Johann/Pongau,AUT,Italy,European Cup,Parallel Slalom,24,25.20
-445,Fischnaller Roland,Male,12-01-2002,Piancavallo,ITA,Italy,FIS,Parallel GS,2,88.00
-446,Fischnaller Roland,Male,06-01-2002,Chiesa Valmalenco,ITA,Italy,FIS,Parallel GS,2,96.00
-447,Fischnaller Roland,Male,05-01-2002,Chiesa Valmalenco,ITA,Italy,FIS,Parallel Slalom,1,260.00
-448,Fischnaller Roland,Male,15-12-2001,"Mt. St. Anne, QC",CAN,Italy,World Cup,Parallel Slalom,8,320.00
-449,Fischnaller Roland,Male,01-12-2001,Ischgl,AUT,Italy,World Cup,Parallel GS,61,0.00
-450,Fischnaller Roland,Male,30-11-2001,Ischgl,AUT,Italy,World Cup,Parallel Slalom,5,450.00
-451,Fischnaller Roland,Male,18-11-2001,Tignes,FRA,Italy,World Cup,Parallel GS,34,22.00
-452,Fischnaller Roland,Male,28-10-2001,Kaunertal,AUT,Italy,FIS,Parallel GS,25,16.00
-453,Fischnaller Roland,Male,27-10-2001,Kaunertal,AUT,Italy,European Cup,Parallel GS,26,20.00
-454,Fischnaller Roland,Male,09-09-2001,Valle Nevado,CHI,Italy,World Cup,Parallel Slalom,19,120.00
-455,Fischnaller Roland,Male,30-03-2001,Radstadt,AUT,Italy,National Championships,Parallel GS,11,86.40
-456,Fischnaller Roland,Male,24-03-2001,Goetschen/Bischofswiesen,GER,Italy,National Championships,Parallel GS,7,93.60
-457,Fischnaller Roland,Male,23-03-2001,Sappada,ITA,Italy,National Championships,Parallel GS,6,104.00
-458,Fischnaller Roland,Male,21-03-2001,Sappada,ITA,Italy,National Championships,Parallel Slalom,10,83.20
-459,Fischnaller Roland,Male,15-03-2001,Ruka,FIN,Italy,World Cup,Parallel Slalom,DNF,0.00
-460,Fischnaller Roland,Male,14-03-2001,Ruka,FIN,Italy,World Cup,Parallel GS,54,0.00
-461,Fischnaller Roland,Male,04-03-2001,"Park City, UT",USA,Italy,World Cup,Parallel GS,DNF1,0.00
-462,Fischnaller Roland,Male,24-02-2001,Asahikawa,JPN,Italy,World Cup,Parallel GS,21,100.00
-463,Fischnaller Roland,Male,17-02-2001,Sapporo,JPN,Italy,World Cup,Parallel GS,18,130.00
-464,Fischnaller Roland,Male,11-02-2001,Berchtesgaden,GER,Italy,World Cup,Parallel GS,17,140.00
-465,Fischnaller Roland,Male,09-02-2001,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,3,600.00
-466,Fischnaller Roland,Male,03-02-2001,Muenchen,GER,Italy,World Cup,Parallel Slalom,18,130.00
-467,Fischnaller Roland,Male,31-01-2001,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,7,360.00
-468,Fischnaller Roland,Male,26-01-2001,Madonna di Campiglio,ITA,Italy,World Championships,Parallel Slalom,32,26.00
-469,Fischnaller Roland,Male,24-01-2001,Madonna di Campiglio,ITA,Italy,World Championships,Parallel GS,14,180.00
-470,Fischnaller Roland,Male,20-01-2001,Berchtesgaden,GER,Italy,European Cup,Parallel Slalom,DNF,0.00
-471,Fischnaller Roland,Male,19-01-2001,Berchtesgaden,GER,Italy,European Cup,Parallel Slalom,7,129.60
-472,Fischnaller Roland,Male,17-01-2001,Kronplatz,ITA,Italy,World Cup,Parallel GS,14,180.00
-473,Fischnaller Roland,Male,14-01-2001,Racines,ITA,Italy,FIS,Parallel Slalom,1,260.00
-474,Fischnaller Roland,Male,13-01-2001,Racines,ITA,Italy,FIS,Giant Slalom,1,260.00
-475,Fischnaller Roland,Male,10-01-2001,Schoenried/Gstaad,SUI,Italy,World Cup,Giant Slalom,DNF,0.00
-476,Fischnaller Roland,Male,10-01-2001,Schoenried/Gstaad,SUI,Italy,World Cup,Parallel Slalom,15,160.00
-477,Fischnaller Roland,Male,07-01-2001,Kreischberg,AUT,Italy,World Cup,Parallel Slalom,8,320.00
-478,Fischnaller Roland,Male,17-12-2000,Bad Gastein,AUT,Italy,European Cup,Parallel Slalom,3,174.00
-479,Fischnaller Roland,Male,16-12-2000,Bad Gastein,AUT,Italy,European Cup,Parallel Slalom,3,174.00
-480,Fischnaller Roland,Male,03-12-2000,Ischgl,AUT,Italy,World Cup,Parallel GS,41,10.00
-481,Fischnaller Roland,Male,02-12-2000,Ischgl,AUT,Italy,World Cup,Parallel GS,DNF,0.00
-482,Fischnaller Roland,Male,01-12-2000,Ischgl,AUT,Italy,World Cup,Parallel SL,41,10.00
-483,Fischnaller Roland,Male,26-03-2000,San Candido,ITA,Italy,National Championships,Parallel Slalom,5,117.00
-484,Fischnaller Roland,Male,24-03-2000,San Candido,ITA,Italy,National Championships,Giant Slalom,12,57.20
-485,Fischnaller Roland,Male,11-02-2000,Berchtesgaden,GER,Italy,FIS Junior World Championships,Parallel GS,5,45.00
-486,Fischnaller Roland,Male,30-01-2000,Lenggries,GER,Italy,FIS,Slalom,7,58.00
-487,Fischnaller Roland,Male,29-01-2000,Lenggries,GER,Italy,FIS,Giant Slalom,7,58.00
-488,Fischnaller Roland,Male,14-01-2000,Haus i. Ennstal,AUT,Italy,FIS,Giant Slalom,2,96.00
-489,Fischnaller Roland,Male,12-01-2000,S. Giorgio Boscochiesanuova,ITA,Italy,European Cup,Giant Slalom,10,117.00
-490,Fischnaller Roland,Male,11-01-2000,S. Giorgio Boscochiesanuova,ITA,Italy,European Cup,Parallel Slalom,29,18.00
-491,Fischnaller Roland,Male,09-01-2000,Embach-Dienten,AUT,Italy,FIS,Giant Slalom,3,66.00
-492,Fischnaller Roland,Male,08-01-2000,Embach-Dienten,AUT,Italy,FIS,Parallel Slalom,3,60.00
-493,Fischnaller Roland,Male,07-01-2000,Embach-Dienten,AUT,Italy,Junior,Parallel Slalom,5,45.00
-494,Fischnaller Roland,Male,06-01-2000,Embach-Dienten,AUT,Italy,Junior,Giant Slalom,20,11.00
-495,Fischnaller Roland,Male,19-12-1999,Livigno,ITA,Italy,FIS,Slalom,3,132.00
-496,Fischnaller Roland,Male,18-12-1999,Livigno,ITA,Italy,FIS,Giant Slalom,6,56.00
-497,Fischnaller Roland,Male,30-11-1999,Sestriere,ITA,Italy,World Cup,Parallel GS,56,0.00
-498,Fischnaller Roland,Male,17-10-1999,Kaprun,AUT,Italy,FIS,Giant Slalom,23,21.00
-499,Fischnaller Roland,Male,16-10-1999,Kaprun,AUT,Italy,FIS,Giant Slalom,32,7.00
-500,Fischnaller Roland,Male,27-03-1999,Racines,ITA,Italy,Continental Cup,Giant Slalom,9,93.00
-501,Fischnaller Roland,Male,20-03-1999,Racines-Ratschings,ITA,Italy,National Championships,Parallel Slalom,22,23.00
-502,Fischnaller Roland,Male,19-03-1999,Racines,ITA,Italy,National Championships,Giant Slalom,15,42.00
-503,Fischnaller Roland,Male,12-03-1999,Olang,ITA,Italy,World Cup,Parallel Slalom,69,0.00
-504,Fischnaller Roland,Male,27-02-1999,Seiser Alm,ITA,Italy,FIS Junior World Championships,Parallel GS,20,24.00
-505,Fischnaller Roland,Male,16-02-1999,Campo Imperatore,ITA,Italy,FIS,Giant Slalom,8,42.00
-506,Fischnaller Roland,Male,15-02-1999,Campo Imperatore,ITA,Italy,FIS,Parallel Slalom,13,36.00
-507,Fischnaller Roland,Male,31-01-1999,Haus im Ennstal,AUT,Italy,Continental Cup,Giant Slalom,16,54.00
-508,Fischnaller Roland,Male,30-01-1999,Haus im Ennstal,AUT,Italy,Continental Cup,Parallel Slalom,42,4.00
-509,Fischnaller Roland,Male,09-01-1999,Falcade,ITA,Italy,Continental Cup,Giant Slalom,29,13.00
-510,Fischnaller Roland,Male,08-01-1999,Falcade,ITA,Italy,Continental Cup,Parallel Slalom,27,22.00
-511,Fischnaller Roland,Male,03-01-1999,Lofer,AUT,Italy,Junior,Giant Slalom,2,80.00
-512,Fischnaller Roland,Male,02-01-1999,Lofer,AUT,Italy,Junior,Parallel Slalom,3,60.00
-513,Fischnaller Roland,Male,05-04-1998,Falcade,ITA,Italy,FIS,Giant Slalom,12,57.00
-514,Fischnaller Roland,Male,04-04-1998,Falcade,ITA,Italy,FIS,Snowboardcross,17,21.00
-515,Fischnaller Roland,Male,03-04-1998,Falcade,ITA,Italy,FIS,Parallel Slalom,56,0.00
-516,Fischnaller Roland,Male,14-03-1998,Folgaria,ITA,Italy,FIS,Giant Slalom,42,1.00
-517,Fischnaller Roland,Male,24-01-1998,Chamrousse,FRA,Italy,FIS Junior World Championships,Giant Slalom,59,0.00
-518,Fischnaller Roland,Male,06-01-1998,Mariapfarr,AUT,Italy,FIS,Slalom,10,42.00
-519,Fischnaller Roland,Male,05-01-1998,Mautendorf,AUT,Italy,FIS,Giant Slalom,108,0.00
-520,Fischnaller Roland,Male,04-01-1998,St. Michael/Lungau,AUT,Italy,Junior,Parallel Slalom,60,0.00
-521,Fischnaller Roland,Male,03-01-1998,Mautendorf,AUT,Italy,Junior,Giant Slalom,41,1.00
-522,Fischnaller Roland,Male,21-12-1997,Passo Tonale,ITA,Italy,FIS,Giant Slalom,10,29.00
-523,Fischnaller Roland,Male,05-12-1997,Sestriere,ITA,Italy,World Cup,Parallel Slalom,62,0.00
-524,Fischnaller Roland,Male,01-03-1997,Olang,ITA,Italy,World Cup,Slalom,67,0.00
-525,Fischnaller Roland,Male,05-01-1997,St. Johann/Pg.,AUT,Italy,Continental Cup,Giant Slalom,49,1.00
-526,Fischnaller Roland,Male,04-01-1997,St. Johann/Pg.,AUT,Italy,Continental Cup,Slalom,41,4.00
-527,Fischnaller Roland,Male,22-12-1996,Haus im Ennstal,AUT,Italy,FIS,Slalom,34,6.00
-528,Fischnaller Roland,Male,21-12-1996,Haus im Ennstal,AUT,Italy,FIS,Giant Slalom,53,0.00
-529,Fischnaller Roland,Male,14-04-1996,Val Senales,ITA,Italy,FIS,Parallel Slalom,24,22.00
+0,Fischnaller Roland,Male,16-02-2025,Val St. Come,CAN,Italy,Qualification,Parallel Giant Slalom,14,
+1,Fischnaller Roland,Male,16-02-2025,Val St. Come,CAN,Italy,World Cup,Parallel Giant Slalom,2,
+2,Fischnaller Roland,Male,15-02-2025,Val St. Come,CAN,Italy,Qualification,Parallel Giant Slalom,31,
+3,Fischnaller Roland,Male,15-02-2025,Val St. Come,CAN,Italy,World Cup,Parallel Giant Slalom,31,
+4,Fischnaller Roland,Male,25-01-2025,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,15,
+5,Fischnaller Roland,Male,25-01-2025,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,8,320.00
+6,Fischnaller Roland,Male,19-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,9,
+7,Fischnaller Roland,Male,19-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,11,240.00
+8,Fischnaller Roland,Male,18-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,14,
+9,Fischnaller Roland,Male,18-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,14,180.00
+10,Fischnaller Roland,Male,14-01-2025,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,38,
+11,Fischnaller Roland,Male,14-01-2025,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,38,19.10
+12,Fischnaller Roland,Male,11-01-2025,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,6,
+13,Fischnaller Roland,Male,11-01-2025,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,7,360.00
+14,Fischnaller Roland,Male,14-12-2024,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,4,
+15,Fischnaller Roland,Male,14-12-2024,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,6,400.00
+16,Fischnaller Roland,Male,12-12-2024,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,13,
+17,Fischnaller Roland,Male,12-12-2024,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,13,200.00
+18,Fischnaller Roland,Male,08-12-2024,Yanqing (NASC),CHN,Italy,World Cup,Parallel Slalom,25,60.00
+19,Fischnaller Roland,Male,08-12-2024,Yanqing (NASC),CHN,Italy,Qualification,Parallel Slalom,25,
+20,Fischnaller Roland,Male,07-12-2024,Yanqing (NASC),CHN,Italy,World Cup,Parallel Giant Slalom,27,45.00
+21,Fischnaller Roland,Male,07-12-2024,Yanqing (NASC),CHN,Italy,Qualification,Parallel Giant Slalom,27,
+22,Fischnaller Roland,Male,01-12-2024,Mylin,CHN,Italy,World Cup,Parallel Slalom,14,180.00
+23,Fischnaller Roland,Male,01-12-2024,Mylin,CHN,Italy,Qualification,Parallel Slalom,12,
+24,Fischnaller Roland,Male,30-11-2024,Mylin,CHN,Italy,World Cup,Parallel Giant Slalom,29,36.00
+25,Fischnaller Roland,Male,30-11-2024,Mylin,CHN,Italy,Qualification,Parallel Giant Slalom,29,
+26,Fischnaller Roland,Male,16-03-2024,St. Moritz,SUI,Italy,European Cup,Parallel Giant Slalom,8,115.20
+27,Fischnaller Roland,Male,09-03-2024,Winterberg,GER,Italy,Qualification,Parallel Slalom,9,
+28,Fischnaller Roland,Male,09-03-2024,Winterberg,GER,Italy,World Cup,Parallel Slalom,6,400.00
+29,Fischnaller Roland,Male,25-02-2024,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,6,
+30,Fischnaller Roland,Male,25-02-2024,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,7,360.00
+31,Fischnaller Roland,Male,24-02-2024,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,15,
+32,Fischnaller Roland,Male,24-02-2024,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,2,800.00
+33,Fischnaller Roland,Male,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,9,84.10
+34,Fischnaller Roland,Male,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,4,145.00
+35,Fischnaller Roland,Male,27-01-2024,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,7,
+36,Fischnaller Roland,Male,27-01-2024,Simonhöhe,AUT,Italy,World Cup,Parallel Giant Slalom,4,500.00
+37,Fischnaller Roland,Male,21-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,31,
+38,Fischnaller Roland,Male,21-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,31,28.00
+39,Fischnaller Roland,Male,20-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,10,
+40,Fischnaller Roland,Male,20-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,7,360.00
+41,Fischnaller Roland,Male,16-01-2024,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,DSQ,
+42,Fischnaller Roland,Male,16-01-2024,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,DSQ,
+43,Fischnaller Roland,Male,13-01-2024,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,12,
+44,Fischnaller Roland,Male,13-01-2024,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,4,500.00
+45,Fischnaller Roland,Male,23-12-2023,Davos,SUI,Italy,Qualification,Parallel Slalom,14,
+46,Fischnaller Roland,Male,23-12-2023,Davos ,SUI,Italy,World Cup,Parallel Slalom,14,180.00
+47,Fischnaller Roland,Male,16-12-2023,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,1,
+48,Fischnaller Roland,Male,16-12-2023,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,3,600.00
+49,Fischnaller Roland,Male,14-12-2023,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,11,
+50,Fischnaller Roland,Male,14-12-2023,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,8,320.00
+51,Fischnaller Roland,Male,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,2,232.00
+52,Fischnaller Roland,Male,18-03-2023,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,24,
+53,Fischnaller Roland,Male,18-03-2023,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,24,70.00
+54,Fischnaller Roland,Male,15-03-2023,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,1,1000.00
+55,Fischnaller Roland,Male,15-03-2023,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,1,
+56,Fischnaller Roland,Male,04-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,1,220.00
+57,Fischnaller Roland,Male,19-02-2023,Bakuriani,GEO,Italy,Qualification,Parallel Giant Slalom,18,
+58,Fischnaller Roland,Male,19-02-2023,Bakuriani,GEO,Italy,World Championships,Parallel Giant Slalom,18,130.00
+59,Fischnaller Roland,Male,12-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,3,132.00
+60,Fischnaller Roland,Male,11-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,1,220.00
+61,Fischnaller Roland,Male,27-01-2023,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,1,
+62,Fischnaller Roland,Male,27-01-2023,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,3,600.00
+63,Fischnaller Roland,Male,26-01-2023,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,18,
+64,Fischnaller Roland,Male,26-01-2023,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,18,130.00
+65,Fischnaller Roland,Male,22-01-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,DSQ,
+66,Fischnaller Roland,Male,22-01-2023,Bansko,BUL,Italy,World Cup,Parallel Slalom,DSQ,
+67,Fischnaller Roland,Male,21-01-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,24,
+68,Fischnaller Roland,Male,21-01-2023,Bansko,BUL,Italy,World Cup,Parallel Slalom,24,70.00
+69,Fischnaller Roland,Male,14-01-2023,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,20,
+70,Fischnaller Roland,Male,14-01-2023,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,20,110.00
+71,Fischnaller Roland,Male,10-01-2023,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,18,
+72,Fischnaller Roland,Male,10-01-2023,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,18,130.00
+73,Fischnaller Roland,Male,17-12-2022,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,1,
+74,Fischnaller Roland,Male,17-12-2022,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,1,1000.00
+75,Fischnaller Roland,Male,15-12-2022,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,1,
+76,Fischnaller Roland,Male,15-12-2022,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,3,600.00
+77,Fischnaller Roland,Male,11-12-2022,Winterberg,GER,Italy,World Cup,Parallel Slalom,13,200.00
+78,Fischnaller Roland,Male,10-12-2022,Winterberg,GER,Italy,Qualification,Parallel Slalom,12,
+79,Fischnaller Roland,Male,10-12-2022,Winterberg,GER,Italy,World Cup,Parallel Slalom Team,12,
+80,Fischnaller Roland,Male,19-03-2022,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,3,
+81,Fischnaller Roland,Male,19-03-2022,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,5,450.00
+82,Fischnaller Roland,Male,16-03-2022,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,7,
+83,Fischnaller Roland,Male,16-03-2022,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,5,450.00
+84,Fischnaller Roland,Male,12-03-2022,Piancavallo,ITA,Italy,Qualification,Parallel Slalom,6,
+85,Fischnaller Roland,Male,12-03-2022,Piancavallo,ITA,Italy,World Cup,Parallel Slalom,11,240.00
+86,Fischnaller Roland,Male,19-02-2022,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,1,220.00
+87,Fischnaller Roland,Male,08-02-2022,Beijing,CHN,Italy,Qualification,Parallel Giant Slalom,6,
+88,Fischnaller Roland,Male,08-02-2022,Beijing,CHN,Italy,Olympic Winter Games,Parallel Giant Slalom,4,500.00
+89,Fischnaller Roland,Male,14-01-2022,Simonhöhe,AUT,Italy,World Cup,Parallel Giant Slalom,3,600.00
+90,Fischnaller Roland,Male,14-01-2022,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,4,
+91,Fischnaller Roland,Male,08-01-2022,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,22,
+92,Fischnaller Roland,Male,08-01-2022,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,22,90.00
+93,Fischnaller Roland,Male,18-12-2021,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,1,
+94,Fischnaller Roland,Male,18-12-2021,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,3,600.00
+95,Fischnaller Roland,Male,16-12-2021,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,9,
+96,Fischnaller Roland,Male,16-12-2021,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,11,240.00
+97,Fischnaller Roland,Male,12-12-2021,Bannoye,RUS,Italy,Qualification,Parallel Slalom,10,
+98,Fischnaller Roland,Male,12-12-2021,Bannoye,RUS,Italy,World Cup,Parallel Slalom,7,360.00
+99,Fischnaller Roland,Male,11-12-2021,Bannoye,RUS,Italy,Qualification,Parallel Giant Slalom,22,
+100,Fischnaller Roland,Male,11-12-2021,Bannoye,RUS,Italy,World Cup,Parallel Giant Slalom,22,90.00
+101,Fischnaller Roland,Male,31-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Giant Slalom,3,174.00
+102,Fischnaller Roland,Male,30-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Slalom,5,130.50
+103,Fischnaller Roland,Male,27-03-2021,Villnöss - Funes,ITA,Italy,FIS,Parallel Giant Slalom,2,176.00
+104,Fischnaller Roland,Male,20-03-2021,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,11,
+105,Fischnaller Roland,Male,20-03-2021,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,8,320.00
+106,Fischnaller Roland,Male,06-03-2021,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,2,
+107,Fischnaller Roland,Male,06-03-2021,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,9,290.00
+108,Fischnaller Roland,Male,01-03-2021,Rogla,SLO,Italy,World Championships,Parallel Giant Slalom,2,800.00
+109,Fischnaller Roland,Male,01-03-2021,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,4,
+110,Fischnaller Roland,Male,07-02-2021,Bannoye,RUS,Italy,Qualification,Parallel Slalom,22,
+111,Fischnaller Roland,Male,07-02-2021,Bannoye,RUS,Italy,World Cup,Parallel Slalom,22,90.00
+112,Fischnaller Roland,Male,06-02-2021,Baonoye,RUS,Italy,Qualification,Parallel Giant Slalom,6,
+113,Fischnaller Roland,Male,06-02-2021,Bannoye,RUS,Italy,World Cup,Parallel Giant Slalom,12,220.00
+114,Fischnaller Roland,Male,30-01-2021,Moscow,RUS,Italy,Qualification,Parallel Slalom,DSQ,
+115,Fischnaller Roland,Male,30-01-2021,Moscow,RUS,Italy,World Cup,Parallel Slalom,DSQ,
+116,Fischnaller Roland,Male,12-01-2021,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,26,
+117,Fischnaller Roland,Male,12-01-2021,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,26,50.00
+118,Fischnaller Roland,Male,09-01-2021,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,17,
+119,Fischnaller Roland,Male,09-01-2021,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,17,140.00
+120,Fischnaller Roland,Male,17-12-2020,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,8,
+121,Fischnaller Roland,Male,17-12-2020,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,4,500.00
+122,Fischnaller Roland,Male,12-12-2020,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,1,
+123,Fischnaller Roland,Male,12-12-2020,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,1,1000.00
+124,Fischnaller Roland,Male,01-03-2020,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,11,240.00
+125,Fischnaller Roland,Male,01-03-2020,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,3,
+126,Fischnaller Roland,Male,29-02-2020,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,4,500.00
+127,Fischnaller Roland,Male,29-02-2020,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,15,
+128,Fischnaller Roland,Male,22-02-2020,Pyeongchang,KOR,Italy,World Cup,Parallel Giant Slalom,1,1000.00
+129,Fischnaller Roland,Male,22-02-2020,Pyeongchang,KOR,Italy,Qualification,Parallel Giant Slalom,1,
+130,Fischnaller Roland,Male,25-01-2020,Piancavallo,ITA,Italy,World Cup,Parallel Slalom,2,800.00
+131,Fischnaller Roland,Male,25-01-2020,Piancavallo,ITA,Italy,Qualification,Parallel Slalom,1,
+132,Fischnaller Roland,Male,18-01-2020,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,2,800.00
+133,Fischnaller Roland,Male,18-01-2020,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,1,
+134,Fischnaller Roland,Male,14-01-2020,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,4,500.00
+135,Fischnaller Roland,Male,14-01-2020,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,5,
+136,Fischnaller Roland,Male,11-01-2020,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,7,360.00
+137,Fischnaller Roland,Male,11-01-2020,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,8,
+138,Fischnaller Roland,Male,19-12-2019,Carezza,ITA,Italy,Open,Parallel Giant Slalom,3,600.00
+139,Fischnaller Roland,Male,14-12-2019,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,1,1000.00
+140,Fischnaller Roland,Male,14-12-2019,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,2,
+141,Fischnaller Roland,Male,08-12-2019,Bannoye,RUS,Italy,World Cup,Parallel Giant Slalom,1,1000.00
+142,Fischnaller Roland,Male,08-12-2019,Bannoye,RUS,Italy,Qualification,Parallel Giant Slalom,13,
+143,Fischnaller Roland,Male,07-12-2019,Bannoye,RUS,Italy,World Cup,Parallel Slalom,5,450.00
+144,Fischnaller Roland,Male,07-12-2019,Bannoye,RUS,Italy,Qualification,Parallel Slalom,1,
+145,Fischnaller Roland,Male,27-03-2019,Piancavallo,ITA,Italy,National Championships,Parallel Giant Slalom,2,232.00
+146,Fischnaller Roland,Male,26-03-2019,Piancavallo,ITA,Italy,National Championships,Parallel Slalom,1,290.00
+147,Fischnaller Roland,Male,23-03-2019,Winterberg,GER,Italy,World Cup,Parallel Slalom,7,360.00
+148,Fischnaller Roland,Male,23-03-2019,Winterberg,GER,Italy,Qualification,Parallel Slalom,7,
+149,Fischnaller Roland,Male,09-03-2019,Scuol,SUI,Italy,World Cup,Parallel GS,37,19.40
+150,Fischnaller Roland,Male,09-03-2019,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,37,
+151,Fischnaller Roland,Male,24-02-2019,Secret Garden,CHN,Italy,World Cup,Parallel Slalom,3,600.00
+152,Fischnaller Roland,Male,24-02-2019,Secret Garden,CHN,Italy,Qualification,Parallel Slalom,10,
+153,Fischnaller Roland,Male,23-02-2019,Secret Garden,CHN,Italy,World Cup,Parallel Giant Slalom,6,400.00
+154,Fischnaller Roland,Male,23-02-2019,Secret Garden,CHN,Italy,Qualification,Parallel Giant Slalom,8,
+155,Fischnaller Roland,Male,17-02-2019,Pyeongchang,KOR,Italy,World Cup,Parallel Giant Slalom,15,160.00
+156,Fischnaller Roland,Male,17-02-2019,Pyeongchang,KOR,Italy,Qualification,Parallel Giant Slalom,13,
+157,Fischnaller Roland,Male,16-02-2019,Pyeongchang,KOR,Italy,World Cup,Parallel Giant Slalom,8,320.00
+158,Fischnaller Roland,Male,16-02-2019,Pyeongchang,KOR,Italy,Qualification,Parallel Giant Slalom,13,
+159,Fischnaller Roland,Male,05-02-2019,Park City,USA,Italy,World Championships,Parallel Slalom,2,800.00
+160,Fischnaller Roland,Male,04-02-2019,Park City,USA,Italy,World Championships,Parallel Giant Slalom,18,130.00
+161,Fischnaller Roland,Male,27-01-2019,Moscow,RUS,Italy,World Cup,Parallel Slalom Team,17,
+162,Fischnaller Roland,Male,26-01-2019,Moscow,RUS,Italy,World Cup,Parallel Slalom,17,140.00
+163,Fischnaller Roland,Male,26-01-2019,Moscow,RUS,Italy,Qualification,Parallel Slalom,17,
+164,Fischnaller Roland,Male,19-01-2019,Rogla,SLO,Italy,World Cup,Parallel GS,5,450.00
+165,Fischnaller Roland,Male,19-01-2019,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,1,
+166,Fischnaller Roland,Male,08-01-2019,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,14,180.00
+167,Fischnaller Roland,Male,08-01-2019,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,14,
+168,Fischnaller Roland,Male,15-12-2018,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel GS,1,1000.00
+169,Fischnaller Roland,Male,15-12-2018,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,2,
+170,Fischnaller Roland,Male,13-12-2018,Carezza,ITA,Italy,World Cup,Parallel GS,7,360.00
+171,Fischnaller Roland,Male,13-12-2018,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,9,
+172,Fischnaller Roland,Male,18-03-2018,Winterberg,GER,Italy,World Cup,Parallel Slalom Team,1,
+173,Fischnaller Roland,Male,17-03-2018,Winterberg,GER,Italy,World Cup,Parallel Slalom,1,1000.00
+174,Fischnaller Roland,Male,17-03-2018,Winterberg,GER,Italy,Qualification,Parallel Slalom,1,
+175,Fischnaller Roland,Male,10-03-2018,Scuol,SUI,Italy,World Cup,Parallel GS,9,290.00
+176,Fischnaller Roland,Male,10-03-2018,Scuol,SUI,Italy,Qualification,Parallel GS,2,
+177,Fischnaller Roland,Male,08-03-2018,Carezza,ITA,Italy,National Championships,Parallel Slalom,5,130.50
+178,Fischnaller Roland,Male,07-03-2018,Carezza,ITA,Italy,National Championships,Parallel GS,1,290.00
+179,Fischnaller Roland,Male,03-03-2018,Kayseri,TUR,Italy,World Cup,Parallel GS,10,260.00
+180,Fischnaller Roland,Male,03-03-2018,Kayseri,TUR,Italy,Qualification,Parallel GS,10,
+181,Fischnaller Roland,Male,24-02-2018,Phoenix Snow Park,KOR,Italy,Qualification,Parallel GS,8,
+182,Fischnaller Roland,Male,24-02-2018,Phoenix Snow Park,KOR,Italy,Olympic Winter Games,Parallel GS,7,360.00
+183,Fischnaller Roland,Male,28-01-2018,Bansko,BUL,Italy,World Cup,Parallel GS,32,26.00
+184,Fischnaller Roland,Male,28-01-2018,Bansko,BUL,Italy,Qualification,Parallel GS,32,
+185,Fischnaller Roland,Male,26-01-2018,Bansko,BUL,Italy,World Cup,Parallel GS,DNF,
+186,Fischnaller Roland,Male,26-01-2018,Bansko,BUL,Italy,Qualification,Parallel GS,DNF,
+187,Fischnaller Roland,Male,21-01-2018,Rogla,SLO,Italy,World Cup,Parallel GS,3,600.00
+188,Fischnaller Roland,Male,21-01-2018,Rogla,SLO,Italy,Qualification,Parallel GS,4,
+189,Fischnaller Roland,Male,20-01-2018,Rogla,SLO,Italy,World Cup,Parallel GS,14,180.00
+190,Fischnaller Roland,Male,20-01-2018,Rogla,SLO,Italy,Qualification,Parallel GS,12,
+191,Fischnaller Roland,Male,13-01-2018,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom Team,7,
+192,Fischnaller Roland,Male,12-01-2018,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,13,200.00
+193,Fischnaller Roland,Male,12-01-2018,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,12,
+194,Fischnaller Roland,Male,06-01-2018,Lackenhof,AUT,Italy,World Cup,Parallel GS Team,6,
+195,Fischnaller Roland,Male,05-01-2018,Lackenhof,AUT,Italy,World Cup,Parallel GS,10,260.00
+196,Fischnaller Roland,Male,05-01-2018,Lackenhof,AUT,Italy,Qualification,Parallel GS,9,
+197,Fischnaller Roland,Male,16-12-2017,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Slalom,1,1000.00
+198,Fischnaller Roland,Male,16-12-2017,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Slalom,1,
+199,Fischnaller Roland,Male,15-12-2017,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel GS,2,800.00
+200,Fischnaller Roland,Male,15-12-2017,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel GS,2,
+201,Fischnaller Roland,Male,14-12-2017,Carezza,ITA,Italy,World Cup,Parallel GS,5,450.00
+202,Fischnaller Roland,Male,14-12-2017,Carezza,ITA,Italy,Qualification,Parallel GS,4,
+203,Fischnaller Roland,Male,18-03-2017,Winterberg,GER,Italy,Qualification,Parallel Slalom,2,
+204,Fischnaller Roland,Male,18-03-2017,Winterberg,GER,Italy,World Cup,Parallel Slalom,6,400.00
+205,Fischnaller Roland,Male,15-03-2017,Sierra Nevada,ESP,Italy,World Championships,Parallel Slalom,9,290.00
+206,Fischnaller Roland,Male,05-03-2017, Erciyes-Kayseri,TUR,Italy,World Cup,Parallel GS,37,19.40
+207,Fischnaller Roland,Male,12-02-2017,Phoenix Pyeongchang,KOR,Italy,World Cup,Parallel GS,23,80.00
+208,Fischnaller Roland,Male,05-02-2017,Bansko,BUL,Italy,World Cup,Parallel GS,14,180.00
+209,Fischnaller Roland,Male,03-02-2017,Bansko,BUL,Italy,World Cup,Parallel GS,DSQ,
+210,Fischnaller Roland,Male,28-01-2017,Rogla,SLO,Italy,World Cup,Parallel GS,26,50.00
+211,Fischnaller Roland,Male,10-01-2017,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,16,150.00
+212,Fischnaller Roland,Male,17-12-2016,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Slalom,2,800.00
+213,Fischnaller Roland,Male,15-12-2016,Carezza,ITA,Italy,World Cup,Parallel GS,19,120.00
+214,Fischnaller Roland,Male,04-11-2016,Landgraaf,NED,Italy,European Cup,Parallel Slalom,DSQ1,
+215,Fischnaller Roland,Male,03-11-2016,Landgraaf,NED,Italy,European Cup,Parallel Slalom,41,6.55
+216,Fischnaller Roland,Male,26-03-2016,Racines,ITA,Italy,European Cup,Parallel Slalom,5,225.00
+217,Fischnaller Roland,Male,06-03-2016,Winterberg,GER,Italy,World Cup,Parallel Slalom,2,800.00
+218,Fischnaller Roland,Male,27-02-2016,Kayseri,TUR,Italy,World Cup,Parallel GS,13,200.00
+219,Fischnaller Roland,Male,30-01-2016,Moscow,RUS,Italy,World Cup,Parallel Slalom,1,1000.00
+220,Fischnaller Roland,Male,23-01-2016,Rogla,SLO,Italy,World Cup,Parallel GS,5,450.00
+221,Fischnaller Roland,Male,08-01-2016,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,10,260.00
+222,Fischnaller Roland,Male,19-12-2015,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Slalom,2,800.00
+223,Fischnaller Roland,Male,12-12-2015,Carezza,ITA,Italy,World Cup,Parallel GS,20,110.00
+224,Fischnaller Roland,Male,27-03-2015,Canazei,ITA,Italy,National Championships,Parallel Slalom,3,216.00
+225,Fischnaller Roland,Male,21-03-2015,Racines,ITA,Italy,European Cup,Parallel Slalom,9,145.00
+226,Fischnaller Roland,Male,14-03-2015,Winterberg,GER,Italy,World Cup,Parallel Slalom,1,1000.00
+227,Fischnaller Roland,Male,07-03-2015,Moscow,RUS,Italy,World Cup,Parallel Slalom,3,600.00
+228,Fischnaller Roland,Male,01-03-2015,Asahikawa,JPN,Italy,World Cup,Parallel Slalom,12,220.00
+229,Fischnaller Roland,Male,28-02-2015,Asahikawa,JPN,Italy,World Cup,Parallel GS,10,260.00
+230,Fischnaller Roland,Male,07-02-2015,Sudelfeld,GER,Italy,World Cup,Parallel GS,40,18.50
+231,Fischnaller Roland,Male,06-02-2015,Sudelfeld,GER,Italy,Qualification,Parallel GS,40,
+232,Fischnaller Roland,Male,31-01-2015,Rogla,SLO,Italy,World Cup,Parallel GS,18,130.00
+233,Fischnaller Roland,Male,23-01-2015,Lachtal,AUT,Italy,World Championships,Parallel GS,22,90.00
+234,Fischnaller Roland,Male,22-01-2015,Lachtal,AUT,Italy,World Championships,Parallel Slalom,1,1000.00
+235,Fischnaller Roland,Male,09-01-2015,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,7,360.00
+236,Fischnaller Roland,Male,18-12-2014,Montafon,AUT,Italy,World Cup,Parallel Slalom,1,1000.00
+237,Fischnaller Roland,Male,16-12-2014,Carezza,ITA,Italy,World Cup,Parallel GS,1,1000.00
+238,Fischnaller Roland,Male,16-03-2014,Ratsching/Racines,ITA,Italy,European Cup,Parallel Slalom,9,145.00
+239,Fischnaller Roland,Male,15-03-2014,Ratsching/Racines,ITA,Italy,European Cup,Parallel Slalom,1,500.00
+240,Fischnaller Roland,Male,22-02-2014,Rosa Khutor,RUS,Italy,Olympic Winter Games,Parallel Slalom,8,320.00
+241,Fischnaller Roland,Male,19-02-2014,Rosa Khutor,RUS,Italy,Olympic Winter Games,Parallel GS,18,130.00
+242,Fischnaller Roland,Male,01-02-2014,Sudelfeld,GER,Italy,World Cup,Parallel GS,22,90.00
+243,Fischnaller Roland,Male,26-01-2014,Lizzola Valbondione,ITA,Italy,European Cup,Parallel Slalom,3,300.00
+244,Fischnaller Roland,Male,25-01-2014,Lizzola Valbondione,ITA,Italy,European Cup,Parallel Slalom,5,225.00
+245,Fischnaller Roland,Male,18-01-2014,Rogla,SLO,Italy,World Cup,Parallel GS,10,
+246,Fischnaller Roland,Male,12-01-2014,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,21,100.00
+247,Fischnaller Roland,Male,10-01-2014,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,41,18.20
+248,Fischnaller Roland,Male,22-12-2013,Schönberg-Lachtal,AUT,Italy,European Cup,Parallel Slalom,1,500.00
+249,Fischnaller Roland,Male,21-12-2013,Schönberg-Lachtal,AUT,Italy,European Cup,Parallel Slalom,10,130.00
+250,Fischnaller Roland,Male,14-12-2013,Carezza,ITA,Italy,World Cup,Parallel Slalom,12,220.00
+251,Fischnaller Roland,Male,13-12-2013,Carezza,ITA,Italy,World Cup,Parallel GS,34,22.00
+252,Fischnaller Roland,Male,07-12-2013,Hochfügen,AUT,Italy,European Cup,Parallel GS,44,8.65
+253,Fischnaller Roland,Male,08-11-2013,Landgraaf,NED,Italy,FIS,Parallel Slalom,2,208.00
+254,Fischnaller Roland,Male,07-11-2013,Landgraaf,NED,Italy,FIS,Parallel Slalom,1,260.00
+255,Fischnaller Roland,Male,16-03-2013,La Molina,ESP,Italy,World Cup,Parallel GS,9,290.00
+256,Fischnaller Roland,Male,10-03-2013,Arosa,SUI,Italy,World Cup,Parallel GS,13,200.00
+257,Fischnaller Roland,Male,23-02-2013,Moscow,RUS,Italy,World Cup,Parallel Slalom,3,600.00
+258,Fischnaller Roland,Male,14-02-2013,Sochi,RUS,Italy,World Cup,Parallel GS,9,290.00
+259,Fischnaller Roland,Male,08-02-2013,Rogla,SLO,Italy,World Cup,Parallel GS,1,1000.00
+260,Fischnaller Roland,Male,27-01-2013,Stoneham,CAN,Italy,World Championships,Parallel Slalom,3,600.00
+261,Fischnaller Roland,Male,25-01-2013,Stoneham,CAN,Italy,World Championships,Parallel GS,2,800.00
+262,Fischnaller Roland,Male,12-01-2013,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,2,800.00
+263,Fischnaller Roland,Male,11-01-2013,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,2,800.00
+264,Fischnaller Roland,Male,21-12-2012,Carezza,ITA,Italy,World Cup,Parallel GS,4,500.00
+265,Fischnaller Roland,Male,16-12-2012,Racines/Ratschings,ITA,Italy,European Cup,Parallel Slalom,1,500.00
+266,Fischnaller Roland,Male,09-12-2012,Lachtal,AUT,Italy,European Cup,Parallel GS,4,250.00
+267,Fischnaller Roland,Male,08-12-2012,Lachtal,AUT,Italy,European Cup,Parallel GS,6,200.00
+268,Fischnaller Roland,Male,17-03-2012,Valmalenco,ITA,Italy,World Cup,Parallel GS,1,1000.00
+269,Fischnaller Roland,Male,10-03-2012,La Molina,ESP,Italy,World Cup,Parallel GS,12,220.00
+270,Fischnaller Roland,Male,03-03-2012,Moscow,RUS,Italy,World Cup,Parallel Slalom,1,1000.00
+271,Fischnaller Roland,Male,22-02-2012,Stoneham,CAN,Italy,World Cup,Parallel GS,6,400.00
+272,Fischnaller Roland,Male,05-02-2012,Ratschings-Racines,ITA,Italy,European Cup,Parallel Slalom,1,500.00
+273,Fischnaller Roland,Male,28-01-2012,Sudelfeld,GER,Italy,World Cup,Parallel GS,6,400.00
+274,Fischnaller Roland,Male,21-01-2012,Valgardena-S. Cristina-Seceda,ITA,Italy,FIS,Slalom,41,
+275,Fischnaller Roland,Male,15-01-2012,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,1,1000.00
+276,Fischnaller Roland,Male,13-01-2012,Jauerling,AUT,Italy,World Cup,Parallel Slalom,3,600.00
+277,Fischnaller Roland,Male,22-12-2011,Carezza,ITA,Italy,World Cup,Parallel Slalom,9,290.00
+278,Fischnaller Roland,Male,21-12-2011,Carezza,ITA,Italy,World Cup,Parallel GS,1,1000.00
+279,Fischnaller Roland,Male,15-12-2011,Telluride,USA,Italy,Qualification,Parallel GS,6,
+280,Fischnaller Roland,Male,15-12-2011,Telluride,USA,Italy,World Cup,Parallel GS,11,240.00
+281,Fischnaller Roland,Male,13-10-2011,Landgraaf,NED,Italy,World Cup,Parallel Slalom,1,1000.00
+282,Fischnaller Roland,Male,27-03-2011,Arosa,SUI,Italy,World Cup,Parallel GS,2,800.00
+283,Fischnaller Roland,Male,19-03-2011,Valmalenco,ITA,Italy,World Cup,Parallel GS,21,100.00
+284,Fischnaller Roland,Male,05-03-2011,Moscow,RUS,Italy,World Cup,Parallel Slalom,1,1000.00
+285,Fischnaller Roland,Male,20-02-2011,Stoneham,CAN,Italy,World Cup,Parallel GS,4,500.00
+286,Fischnaller Roland,Male,09-02-2011,Yongpyong,KOR,Italy,World Cup,Parallel Slalom,7,360.00
+287,Fischnaller Roland,Male,22-01-2011,La Molina,ESP,Italy,World Championships,Parallel Slalom,5,450.00
+288,Fischnaller Roland,Male,19-01-2011,La Molina,ESP,Italy,World Championships,Parallel GS,3,600.00
+289,Fischnaller Roland,Male,09-01-2011,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,5,450.00
+290,Fischnaller Roland,Male,16-12-2010,Telluride,USA,Italy,World Cup,Parallel GS,12,220.00
+291,Fischnaller Roland,Male,11-12-2010,Limone Piemonte,ITA,Italy,World Cup,Parallel Slalom,1,1000.00
+292,Fischnaller Roland,Male,10-12-2010,Limone Piemonte,ITA,Italy,World Cup,Parallel GS,9,290.00
+293,Fischnaller Roland,Male,27-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Italy,European Cup,Parallel GS,1,450.00
+294,Fischnaller Roland,Male,10-10-2010,Landgraaf,NED,Italy,World Cup,Parallel Slalom,2,800.00
+295,Fischnaller Roland,Male,23-03-2010,Pozza di Fassa,ITA,Italy,National Championships,Giant Slalom,3,174.00
+296,Fischnaller Roland,Male,21-03-2010,La Molina,ESP,Italy,World Cup,Parallel GS,9,290.00
+297,Fischnaller Roland,Male,13-03-2010,Valmalenco,ITA,Italy,World Cup,Parallel GS,15,160.00
+298,Fischnaller Roland,Male,06-03-2010,Moscow,RUS,Italy,World Cup,Parallel Slalom,3,600.00
+299,Fischnaller Roland,Male,27-02-2010,Cypress,CAN,Italy,Olympic Winter Games,Parallel GS,18,130.00
+300,Fischnaller Roland,Male,06-02-2010,Sudelfeld,GER,Italy,World Cup,Parallel GS,4,
+301,Fischnaller Roland,Male,24-01-2010,Stoneham,CAN,Italy,World Cup,Parallel GS,31,28.00
+302,Fischnaller Roland,Male,17-01-2010,Nendaz,SUI,Italy,World Cup,Parallel GS,5,450.00
+303,Fischnaller Roland,Male,14-01-2010,Nendaz,SUI,Italy,European Cup,Parallel GS,4,250.00
+304,Fischnaller Roland,Male,06-01-2010,Kreischberg,AUT,Italy,World Cup,Parallel GS,9,290.00
+305,Fischnaller Roland,Male,17-12-2009,Telluride,USA,Italy,World Cup,Parallel GS,21,100.00
+306,Fischnaller Roland,Male,15-12-2009,Telluride,USA,Italy,World Cup,Parallel GS,25,60.00
+307,Fischnaller Roland,Male,06-12-2009,Carezza,ITA,Italy,European Cup,Parallel Slalom,1,450.00
+308,Fischnaller Roland,Male,05-12-2009,Carezza,ITA,Italy,European Cup,Parallel GS,3,300.00
+309,Fischnaller Roland,Male,29-11-2009,"Hochfuegen, Zillertal (AUT)",GER,Italy,European Cup,Parallel GS,27,22.50
+310,Fischnaller Roland,Male,09-10-2009,Landgraaf,NED,Italy,World Cup,Parallel Slalom,6,400.00
+311,Fischnaller Roland,Male,22-03-2009,Valmalenco,ITA,Italy,World Cup,Parallel GS,8,320.00
+312,Fischnaller Roland,Male,15-03-2009,La Molina,ESP,Italy,World Cup,Parallel GS,24,70.00
+313,Fischnaller Roland,Male,26-02-2009,Sunday River,USA,Italy,World Cup,Parallel GS,4,500.00
+314,Fischnaller Roland,Male,22-02-2009,Stoneham,CAN,Italy,World Cup,Parallel GS,9,290.00
+315,Fischnaller Roland,Male,31-01-2009,Sudelfeld,GER,Italy,World Cup,Parallel GS,4,500.00
+316,Fischnaller Roland,Male,21-01-2009,Gangwon,KOR,Italy,World Championships,Parallel Slalom,15,160.00
+317,Fischnaller Roland,Male,20-01-2009,Gangwon,KOR,Italy,World Championships,Parallel GS,19,120.00
+318,Fischnaller Roland,Male,07-01-2009,Kreischberg,AUT,Italy,World Cup,Parallel Slalom,5,450.00
+319,Fischnaller Roland,Male,06-01-2009,Kreischberg,AUT,Italy,World Cup,Parallel GS,10,260.00
+320,Fischnaller Roland,Male,21-12-2008,Arosa,SUI,Italy,World Cup,Parallel Slalom,2,800.00
+321,Fischnaller Roland,Male,14-12-2008,Limone Piemonte,ITA,Italy,World Cup,Parallel GS,32,26.00
+322,Fischnaller Roland,Male,10-10-2008,Landgraaf,NED,Italy,World Cup,Parallel Slalom,9,290.00
+323,Fischnaller Roland,Male,29-03-2008,Pfelders in Passeiertal,ITA,Italy,National Championships,Parallel GS,1,360.00
+324,Fischnaller Roland,Male,28-03-2008,Pfelders in Passeiertal,ITA,Italy,National Championships,Parallel Slalom,3,216.00
+325,Fischnaller Roland,Male,15-03-2008,Valmalenco,ITA,Italy,World Cup,Parallel GS,2,800.00
+326,Fischnaller Roland,Male,08-03-2008,Stoneham,CAN,Italy,World Cup,Parallel GS,14,
+327,Fischnaller Roland,Male,03-03-2008,"Lake Placid, NY",USA,Italy,World Cup,Parallel GS,6,400.00
+328,Fischnaller Roland,Male,24-02-2008,Gujo-Gifu,JPN,Italy,World Cup,Parallel GS,2,800.00
+329,Fischnaller Roland,Male,17-02-2008,Sungwoo,KOR,Italy,World Cup,Parallel GS,22,90.00
+330,Fischnaller Roland,Male,27-01-2008,Sudelfeld,GER,Italy,European Cup,Parallel GS,6,200.00
+331,Fischnaller Roland,Male,20-01-2008,La Molina,ESP,Italy,World Cup,Parallel Slalom,18,
+332,Fischnaller Roland,Male,19-01-2008,La Molina,ESP,Italy,World Cup,Parallel GS,18,130.00
+333,Fischnaller Roland,Male,12-01-2008,Sand in Taufers,ITA,Italy,European Cup,Giant Slalom,2,400.00
+334,Fischnaller Roland,Male,10-01-2008,Bad Gastein,AUT,Italy,European Cup,Parallel Slalom,9,145.00
+335,Fischnaller Roland,Male,09-01-2008,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,5,450.00
+336,Fischnaller Roland,Male,29-12-2007,Götschen/Bischofswiesen,GER,Italy,European Cup,Parallel GS,1,
+337,Fischnaller Roland,Male,20-10-2007,Soelden,AUT,Italy,World Cup,Parallel GS,24,
+338,Fischnaller Roland,Male,12-10-2007,Landgraaf,NED,Italy,World Cup,Parallel Slalom,7,360.00
+339,Fischnaller Roland,Male,24-03-2007,Colere,ITA,Italy,National Championships,Giant Slalom,2,288.00
+340,Fischnaller Roland,Male,23-03-2007,Colere,ITA,Italy,National Championships,Parallel Slalom,3,216.00
+341,Fischnaller Roland,Male,16-03-2007,Stoneham,CAN,Italy,World Cup,Parallel GS,22,
+342,Fischnaller Roland,Male,25-02-2007,Sungwoo,KOR,Italy,World Cup,Parallel GS,31,28.00
+343,Fischnaller Roland,Male,16-02-2007,Furano,JPN,Italy,World Cup,Parallel GS,16,150.00
+344,Fischnaller Roland,Male,09-02-2007,Shukolovo,RUS,Italy,World Cup,Parallel Slalom,30,32.00
+345,Fischnaller Roland,Male,02-02-2007,Bardonecchia,ITA,Italy,World Cup,Parallel GS,28,40.00
+346,Fischnaller Roland,Male,28-01-2007,Nendaz,SUI,Italy,World Cup,Parallel Slalom,11,240.00
+347,Fischnaller Roland,Male,17-01-2007,Arosa,SUI,Italy,World Championships,Parallel Slalom,6,400.00
+348,Fischnaller Roland,Male,16-01-2007,Arosa,SUI,Italy,World Championships,Parallel GS,15,160.00
+349,Fischnaller Roland,Male,22-12-2006,Bad Gastein,AUT,Italy,European Cup,Parallel Slalom,7,162.00
+350,Fischnaller Roland,Male,21-12-2006,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,11,240.00
+351,Fischnaller Roland,Male,20-12-2006,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,21,100.00
+352,Fischnaller Roland,Male,13-12-2006,S. Viglio di Marebbe,ITA,Italy,World Cup,Parallel GS,31,28.00
+353,Fischnaller Roland,Male,22-10-2006,Sölden,AUT,Italy,World Cup,Parallel GS,15,160.00
+354,Fischnaller Roland,Male,13-10-2006,Landgraaf,NED,Italy,World Cup,Parallel Slalom,13,200.00
+355,Fischnaller Roland,Male,09-04-2006,Madesimo,ITA,Italy,National Championships,Parallel GS,1,360.00
+356,Fischnaller Roland,Male,19-03-2006,Furano,JPN,Italy,World Cup,Parallel GS,14,180.00
+357,Fischnaller Roland,Male,03-03-2006,St. Petersburg,RUS,Italy,World Cup,Parallel Slalom,2,800.00
+358,Fischnaller Roland,Male,01-03-2006,Shukolovo,RUS,Italy,World Cup,Parallel Slalom,3,600.00
+359,Fischnaller Roland,Male,22-02-2006,Bardonecchia,ITA,Italy,Olympic Winter Games,Parallel GS,13,200.00
+360,Fischnaller Roland,Male,29-01-2006,Vratna-Terchova,SVK,Italy,European Cup,Parallel GS,4,145.00
+361,Fischnaller Roland,Male,28-01-2006,Vratna-Terchova,SVK,Italy,European Cup,Parallel GS,20,31.90
+362,Fischnaller Roland,Male,22-01-2006,Nendaz,SUI,Italy,World Cup,Parallel Slalom,11,240.00
+363,Fischnaller Roland,Male,18-01-2006,Nendaz,SUI,Italy,European Cup,Parallel Slalom,3,300.00
+364,Fischnaller Roland,Male,15-01-2006,Kronplatz,ITA,Italy,World Cup,Parallel GS,44,17.30
+365,Fischnaller Roland,Male,29-12-2005,Bischofswiesen,GER,Italy,European Cup,Parallel GS,4,225.00
+366,Fischnaller Roland,Male,18-12-2005,"Le Relais, QC",CAN,Italy,World Cup,Parallel GS,20,110.00
+367,Fischnaller Roland,Male,17-12-2005,"Le Relais, QC",CAN,Italy,World Cup,Parallel GS,35,20.00
+368,Fischnaller Roland,Male,11-12-2005,Haus im Ennstal,AUT,Italy,European Cup,Parallel GS,12,88.00
+369,Fischnaller Roland,Male,10-12-2005,Haus im Ennstal,AUT,Italy,European Cup,Parallel GS,8,160.00
+370,Fischnaller Roland,Male,04-12-2005,Kuehtai,AUT,Italy,FIS,Parallel Slalom,5,117.00
+371,Fischnaller Roland,Male,03-12-2005,Kuehtai,AUT,Italy,FIS,Parallel Slalom,8,83.20
+372,Fischnaller Roland,Male,02-04-2005,Solda,ITA,Italy,National Championships,Parallel GS,6,128.00
+373,Fischnaller Roland,Male,16-03-2005,Tandadalen,SWE,Italy,World Cup,Parallel GS,38,0.00
+374,Fischnaller Roland,Male,12-03-2005,Sierra Nevada,ESP,Italy,World Cup,Parallel Slalom,17,140.00
+375,Fischnaller Roland,Male,03-03-2005,"Lake Placid, NY",USA,Italy,World Cup,Parallel GS,39,0.00
+376,Fischnaller Roland,Male,25-02-2005,Sungwoo Resort,KOR,Italy,World Cup,Parallel Slalom,20,110.00
+377,Fischnaller Roland,Male,19-02-2005,Sapporo,JPN,Italy,World Cup,Parallel Slalom,29,
+378,Fischnaller Roland,Male,18-02-2005,Sapporo,JPN,Italy,World Cup,Parallel GS,35,20.00
+379,Fischnaller Roland,Male,09-02-2005,Bardonecchia,ITA,Italy,World Cup,Parallel GS,27,45.00
+380,Fischnaller Roland,Male,06-02-2005,Winterberg,GER,Italy,World Cup,Parallel Slalom,22,90.00
+381,Fischnaller Roland,Male,02-02-2005,Maribor,SLO,Italy,European Cup,Parallel Slalom,13,100.00
+382,Fischnaller Roland,Male,19-01-2005,Whistler,CAN,Italy,World Championships,Parallel Slalom,19,120.00
+383,Fischnaller Roland,Male,18-01-2005,Whistler,CAN,Italy,World Championships,Parallel GS,39,18.80
+384,Fischnaller Roland,Male,07-01-2005,St. Petersburg,RUS,Italy,World Cup,Parallel Slalom,19,120.00
+385,Fischnaller Roland,Male,19-12-2004,San Candido,ITA,Italy,FIS,Parallel Slalom,1,240.00
+386,Fischnaller Roland,Male,18-12-2004,San Candido,ITA,Italy,FIS,Parallel GS,118,0.00
+387,Fischnaller Roland,Male,17-12-2004,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,23,80.00
+388,Fischnaller Roland,Male,04-12-2004,Kronplatz,ITA,Italy,World Cup,Parallel GS,35,20.00
+389,Fischnaller Roland,Male,24-10-2004,Landgraaf,NED,Italy,World Cup,Parallel Slalom,17,140.00
+390,Fischnaller Roland,Male,17-10-2004,Soelden,AUT,Italy,World Cup,Parallel GS,46,16.70
+391,Fischnaller Roland,Male,21-03-2004,Madesimo,ITA,Italy,National Championships,Parallel Slalom,2,288.00
+392,Fischnaller Roland,Male,20-03-2004,Madesimo,ITA,Italy,National Championships,Parallel GS,4,180.00
+393,Fischnaller Roland,Male,14-03-2004,Bardonecchia,ITA,Italy,World Cup,Parallel GS,30,32.00
+394,Fischnaller Roland,Male,05-03-2004,"Mt. Bachelor, OR",USA,Italy,World Cup,Parallel GS,35,20.00
+395,Fischnaller Roland,Male,21-02-2004,Sapporo,JPN,Italy,World Cup,Parallel Slalom,23,80.00
+396,Fischnaller Roland,Male,20-02-2004,Sapporo,JPN,Italy,World Cup,Parallel GS,31,28.00
+397,Fischnaller Roland,Male,15-02-2004,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,1,260.00
+398,Fischnaller Roland,Male,14-02-2004,Gerlitzen,AUT,Italy,FIS,Parallel Slalom,DSQ,
+399,Fischnaller Roland,Male,08-02-2004,Berchtesgaden,GER,Italy,World Cup,Parallel GS,28,40.00
+400,Fischnaller Roland,Male,03-02-2004,Maribor,SLO,Italy,World Cup,Parallel GS,26,50.00
+401,Fischnaller Roland,Male,25-01-2004,Watles,ITA,Italy,FIS,Parallel Slalom,7,93.60
+402,Fischnaller Roland,Male,24-01-2004,Watles,ITA,Italy,FIS,Parallel GS,1,260.00
+403,Fischnaller Roland,Male,18-01-2004,Sankt Johann/Pongau,AUT,Italy,European Cup,Parallel Slalom,44,8.65
+404,Fischnaller Roland,Male,17-01-2004,Sankt Johann/Pongau,AUT,Italy,European Cup,Parallel GS,10,130.00
+405,Fischnaller Roland,Male,11-01-2004,Alpe d'Huez,FRA,Italy,World Cup,Parallel GS,28,40.00
+406,Fischnaller Roland,Male,10-01-2004,Alpe d'Huez,FRA,Italy,World Cup,Parallel GS,45,17.00
+407,Fischnaller Roland,Male,06-01-2004,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,17,140.00
+408,Fischnaller Roland,Male,29-12-2003,Berchtesgaden,GER,Italy,European Cup,Parallel GS,21,45.00
+409,Fischnaller Roland,Male,21-12-2003,Stoneham,CAN,Italy,World Cup,Parallel GS,19,120.00
+410,Fischnaller Roland,Male,12-12-2003,"Whistler, BC",CAN,Italy,World Cup,Parallel GS,15,160.00
+411,Fischnaller Roland,Male,04-12-2003,Tandadalen,SWE,Italy,World Cup,Parallel GS,24,70.00
+412,Fischnaller Roland,Male,26-10-2003,Landgraaf,NED,Italy,World Cup,Parallel Slalom,10,260.00
+413,Fischnaller Roland,Male,19-10-2003,Soelden,AUT,Italy,World Cup,Parallel Slalom,2,800.00
+414,Fischnaller Roland,Male,18-10-2003,Soelden,AUT,Italy,World Cup,Parallel GS,20,110.00
+415,Fischnaller Roland,Male,12-09-2003,Valle Nevado,CHI,Italy,World Cup,Parallel GS,27,45.00
+416,Fischnaller Roland,Male,29-03-2003,Kuethai,AUT,Italy,FIS,Parallel GS,6,104.00
+417,Fischnaller Roland,Male,23-03-2003,Madesimo,ITA,Italy,National Championships,Parallel Slalom,2,256.00
+418,Fischnaller Roland,Male,22-03-2003,Madesimo,ITA,Italy,National Championships,Parallel GS,7,115.20
+419,Fischnaller Roland,Male,14-03-2003,Arosa,SUI,Italy,World Cup,Parallel GS,45,0.00
+420,Fischnaller Roland,Male,09-03-2003,Serre Chevalier,FRA,Italy,World Cup,Parallel Slalom,32,26.00
+421,Fischnaller Roland,Male,07-03-2003,Serre Chevalier,FRA,Italy,World Cup,Parallel GS,40,0.00
+422,Fischnaller Roland,Male,01-03-2003,Sapporo,JPN,Italy,World Cup,Parallel GS,29,36.00
+423,Fischnaller Roland,Male,01-03-2003,Sapporo,JPN,Italy,World Cup,Parallel Slalom,22,90.00
+424,Fischnaller Roland,Male,21-02-2003,Kranjska Gora,SLO,Italy,European Cup,Parallel Slalom,2,400.00
+425,Fischnaller Roland,Male,20-02-2003,Kranjska Gora,SLO,Italy,European Cup,Parallel GS,18,58.50
+426,Fischnaller Roland,Male,09-02-2003,Maribor,SLO,Italy,World Cup,Parallel Slalom,19,120.00
+427,Fischnaller Roland,Male,14-01-2003,Kreischberg,AUT,Italy,World Championships,Parallel Slalom,24,70.00
+428,Fischnaller Roland,Male,05-01-2003,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,31,28.00
+429,Fischnaller Roland,Male,20-12-2002,Stoneham,CAN,Italy,World Cup,Parallel GS,34,22.00
+430,Fischnaller Roland,Male,20-12-2002,Stoneham,CAN,Italy,World Cup,Parallel GS,24,70.00
+431,Fischnaller Roland,Male,18-12-2002,"Whistler, BC",CAN,Italy,World Cup,Parallel Slalom,20,
+432,Fischnaller Roland,Male,06-12-2002,Tandadalen,SWE,Italy,World Cup,Parallel GS,35,20.00
+433,Fischnaller Roland,Male,06-12-2002,Tandadalen,SWE,Italy,World Cup,Parallel Slalom,4,500.00
+434,Fischnaller Roland,Male,30-10-2002,Soelden,AUT,Italy,World Cup,Parallel Slalom,19,120.00
+435,Fischnaller Roland,Male,29-10-2002,Soelden,AUT,Italy,World Cup,Parallel GS,32,26.00
+436,Fischnaller Roland,Male,29-03-2002,Madesimo,ITA,Italy,National Championships,Parallel Slalom,3,216.00
+437,Fischnaller Roland,Male,28-03-2002,Madesimo,ITA,Italy,National Championships,Parallel GS,DNF,
+438,Fischnaller Roland,Male,21-03-2002,Tandadalen,SWE,Italy,World Cup,Parallel Slalom,8,320.00
+439,Fischnaller Roland,Male,20-03-2002,Tandadalen,SWE,Italy,World Cup,Parallel GS,44,7.00
+440,Fischnaller Roland,Male,14-03-2002,Ruka,FIN,Italy,World Cup,Parallel Slalom,19,120.00
+441,Fischnaller Roland,Male,23-02-2002,Pozza di Fassa,ITA,Italy,FIS,Parallel GS,2,176.00
+442,Fischnaller Roland,Male,15-02-2002,Park City,USA,Italy,Olympic Winter Games,Parallel GS,19,120.00
+443,Fischnaller Roland,Male,29-01-2002,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,35,20.00
+444,Fischnaller Roland,Male,26-01-2002,Ovindoli,ITA,Italy,FIS,Parallel Slalom,2,208.00
+445,Fischnaller Roland,Male,24-01-2002,Kreischberg,AUT,Italy,World Cup,Parallel GS,31,28.00
+446,Fischnaller Roland,Male,20-01-2002,Bardonecchia,ITA,Italy,World Cup,Parallel GS,27,45.00
+447,Fischnaller Roland,Male,19-01-2002,Bardonecchia,ITA,Italy,World Cup,Giant Slalom,32,26.00
+448,Fischnaller Roland,Male,13-01-2002,St. Johann/Pongau,AUT,Italy,European Cup,Parallel Slalom,24,25.20
+449,Fischnaller Roland,Male,12-01-2002,Piancavallo,ITA,Italy,FIS,Parallel GS,2,88.00
+450,Fischnaller Roland,Male,06-01-2002,Chiesa Valmalenco,ITA,Italy,FIS,Parallel GS,2,96.00
+451,Fischnaller Roland,Male,05-01-2002,Chiesa Valmalenco,ITA,Italy,FIS,Parallel Slalom,1,260.00
+452,Fischnaller Roland,Male,15-12-2001,"Mt. St. Anne, QC",CAN,Italy,World Cup,Parallel Slalom,8,320.00
+453,Fischnaller Roland,Male,01-12-2001,Ischgl,AUT,Italy,World Cup,Parallel GS,61,0.00
+454,Fischnaller Roland,Male,30-11-2001,Ischgl,AUT,Italy,World Cup,Parallel Slalom,5,450.00
+455,Fischnaller Roland,Male,18-11-2001,Tignes,FRA,Italy,World Cup,Parallel GS,34,22.00
+456,Fischnaller Roland,Male,28-10-2001,Kaunertal,AUT,Italy,FIS,Parallel GS,25,16.00
+457,Fischnaller Roland,Male,27-10-2001,Kaunertal,AUT,Italy,European Cup,Parallel GS,26,20.00
+458,Fischnaller Roland,Male,09-09-2001,Valle Nevado,CHI,Italy,World Cup,Parallel Slalom,19,120.00
+459,Fischnaller Roland,Male,30-03-2001,Radstadt,AUT,Italy,National Championships,Parallel GS,11,86.40
+460,Fischnaller Roland,Male,24-03-2001,Goetschen/Bischofswiesen,GER,Italy,National Championships,Parallel GS,7,93.60
+461,Fischnaller Roland,Male,23-03-2001,Sappada,ITA,Italy,National Championships,Parallel GS,6,104.00
+462,Fischnaller Roland,Male,21-03-2001,Sappada,ITA,Italy,National Championships,Parallel Slalom,10,83.20
+463,Fischnaller Roland,Male,15-03-2001,Ruka,FIN,Italy,World Cup,Parallel Slalom,DNF,0.00
+464,Fischnaller Roland,Male,14-03-2001,Ruka,FIN,Italy,World Cup,Parallel GS,54,0.00
+465,Fischnaller Roland,Male,04-03-2001,"Park City, UT",USA,Italy,World Cup,Parallel GS,DNF1,0.00
+466,Fischnaller Roland,Male,24-02-2001,Asahikawa,JPN,Italy,World Cup,Parallel GS,21,100.00
+467,Fischnaller Roland,Male,17-02-2001,Sapporo,JPN,Italy,World Cup,Parallel GS,18,130.00
+468,Fischnaller Roland,Male,11-02-2001,Berchtesgaden,GER,Italy,World Cup,Parallel GS,17,140.00
+469,Fischnaller Roland,Male,09-02-2001,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,3,600.00
+470,Fischnaller Roland,Male,03-02-2001,Muenchen,GER,Italy,World Cup,Parallel Slalom,18,130.00
+471,Fischnaller Roland,Male,31-01-2001,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,7,360.00
+472,Fischnaller Roland,Male,26-01-2001,Madonna di Campiglio,ITA,Italy,World Championships,Parallel Slalom,32,26.00
+473,Fischnaller Roland,Male,24-01-2001,Madonna di Campiglio,ITA,Italy,World Championships,Parallel GS,14,180.00
+474,Fischnaller Roland,Male,20-01-2001,Berchtesgaden,GER,Italy,European Cup,Parallel Slalom,DNF,0.00
+475,Fischnaller Roland,Male,19-01-2001,Berchtesgaden,GER,Italy,European Cup,Parallel Slalom,7,129.60
+476,Fischnaller Roland,Male,17-01-2001,Kronplatz,ITA,Italy,World Cup,Parallel GS,14,180.00
+477,Fischnaller Roland,Male,14-01-2001,Racines,ITA,Italy,FIS,Parallel Slalom,1,260.00
+478,Fischnaller Roland,Male,13-01-2001,Racines,ITA,Italy,FIS,Giant Slalom,1,260.00
+479,Fischnaller Roland,Male,10-01-2001,Schoenried/Gstaad,SUI,Italy,World Cup,Giant Slalom,DNF,0.00
+480,Fischnaller Roland,Male,10-01-2001,Schoenried/Gstaad,SUI,Italy,World Cup,Parallel Slalom,15,160.00
+481,Fischnaller Roland,Male,07-01-2001,Kreischberg,AUT,Italy,World Cup,Parallel Slalom,8,320.00
+482,Fischnaller Roland,Male,17-12-2000,Bad Gastein,AUT,Italy,European Cup,Parallel Slalom,3,174.00
+483,Fischnaller Roland,Male,16-12-2000,Bad Gastein,AUT,Italy,European Cup,Parallel Slalom,3,174.00
+484,Fischnaller Roland,Male,03-12-2000,Ischgl,AUT,Italy,World Cup,Parallel GS,41,10.00
+485,Fischnaller Roland,Male,02-12-2000,Ischgl,AUT,Italy,World Cup,Parallel GS,DNF,0.00
+486,Fischnaller Roland,Male,01-12-2000,Ischgl,AUT,Italy,World Cup,Parallel SL,41,10.00
+487,Fischnaller Roland,Male,26-03-2000,San Candido,ITA,Italy,National Championships,Parallel Slalom,5,117.00
+488,Fischnaller Roland,Male,24-03-2000,San Candido,ITA,Italy,National Championships,Giant Slalom,12,57.20
+489,Fischnaller Roland,Male,11-02-2000,Berchtesgaden,GER,Italy,FIS Junior World Championships,Parallel GS,5,45.00
+490,Fischnaller Roland,Male,30-01-2000,Lenggries,GER,Italy,FIS,Slalom,7,58.00
+491,Fischnaller Roland,Male,29-01-2000,Lenggries,GER,Italy,FIS,Giant Slalom,7,58.00
+492,Fischnaller Roland,Male,14-01-2000,Haus i. Ennstal,AUT,Italy,FIS,Giant Slalom,2,96.00
+493,Fischnaller Roland,Male,12-01-2000,S. Giorgio Boscochiesanuova,ITA,Italy,European Cup,Giant Slalom,10,117.00
+494,Fischnaller Roland,Male,11-01-2000,S. Giorgio Boscochiesanuova,ITA,Italy,European Cup,Parallel Slalom,29,18.00
+495,Fischnaller Roland,Male,09-01-2000,Embach-Dienten,AUT,Italy,FIS,Giant Slalom,3,66.00
+496,Fischnaller Roland,Male,08-01-2000,Embach-Dienten,AUT,Italy,FIS,Parallel Slalom,3,60.00
+497,Fischnaller Roland,Male,07-01-2000,Embach-Dienten,AUT,Italy,Junior,Parallel Slalom,5,45.00
+498,Fischnaller Roland,Male,06-01-2000,Embach-Dienten,AUT,Italy,Junior,Giant Slalom,20,11.00
+499,Fischnaller Roland,Male,19-12-1999,Livigno,ITA,Italy,FIS,Slalom,3,132.00
+500,Fischnaller Roland,Male,18-12-1999,Livigno,ITA,Italy,FIS,Giant Slalom,6,56.00
+501,Fischnaller Roland,Male,30-11-1999,Sestriere,ITA,Italy,World Cup,Parallel GS,56,0.00
+502,Fischnaller Roland,Male,17-10-1999,Kaprun,AUT,Italy,FIS,Giant Slalom,23,21.00
+503,Fischnaller Roland,Male,16-10-1999,Kaprun,AUT,Italy,FIS,Giant Slalom,32,7.00
+504,Fischnaller Roland,Male,27-03-1999,Racines,ITA,Italy,Continental Cup,Giant Slalom,9,93.00
+505,Fischnaller Roland,Male,20-03-1999,Racines-Ratschings,ITA,Italy,National Championships,Parallel Slalom,22,23.00
+506,Fischnaller Roland,Male,19-03-1999,Racines,ITA,Italy,National Championships,Giant Slalom,15,42.00
+507,Fischnaller Roland,Male,12-03-1999,Olang,ITA,Italy,World Cup,Parallel Slalom,69,0.00
+508,Fischnaller Roland,Male,27-02-1999,Seiser Alm,ITA,Italy,FIS Junior World Championships,Parallel GS,20,24.00
+509,Fischnaller Roland,Male,16-02-1999,Campo Imperatore,ITA,Italy,FIS,Giant Slalom,8,42.00
+510,Fischnaller Roland,Male,15-02-1999,Campo Imperatore,ITA,Italy,FIS,Parallel Slalom,13,36.00
+511,Fischnaller Roland,Male,31-01-1999,Haus im Ennstal,AUT,Italy,Continental Cup,Giant Slalom,16,54.00
+512,Fischnaller Roland,Male,30-01-1999,Haus im Ennstal,AUT,Italy,Continental Cup,Parallel Slalom,42,4.00
+513,Fischnaller Roland,Male,09-01-1999,Falcade,ITA,Italy,Continental Cup,Giant Slalom,29,13.00
+514,Fischnaller Roland,Male,08-01-1999,Falcade,ITA,Italy,Continental Cup,Parallel Slalom,27,22.00
+515,Fischnaller Roland,Male,03-01-1999,Lofer,AUT,Italy,Junior,Giant Slalom,2,80.00
+516,Fischnaller Roland,Male,02-01-1999,Lofer,AUT,Italy,Junior,Parallel Slalom,3,60.00
+517,Fischnaller Roland,Male,05-04-1998,Falcade,ITA,Italy,FIS,Giant Slalom,12,57.00
+518,Fischnaller Roland,Male,04-04-1998,Falcade,ITA,Italy,FIS,Snowboardcross,17,21.00
+519,Fischnaller Roland,Male,03-04-1998,Falcade,ITA,Italy,FIS,Parallel Slalom,56,0.00
+520,Fischnaller Roland,Male,14-03-1998,Folgaria,ITA,Italy,FIS,Giant Slalom,42,1.00
+521,Fischnaller Roland,Male,24-01-1998,Chamrousse,FRA,Italy,FIS Junior World Championships,Giant Slalom,59,0.00
+522,Fischnaller Roland,Male,06-01-1998,Mariapfarr,AUT,Italy,FIS,Slalom,10,42.00
+523,Fischnaller Roland,Male,05-01-1998,Mautendorf,AUT,Italy,FIS,Giant Slalom,108,0.00
+524,Fischnaller Roland,Male,04-01-1998,St. Michael/Lungau,AUT,Italy,Junior,Parallel Slalom,60,0.00
+525,Fischnaller Roland,Male,03-01-1998,Mautendorf,AUT,Italy,Junior,Giant Slalom,41,1.00
+526,Fischnaller Roland,Male,21-12-1997,Passo Tonale,ITA,Italy,FIS,Giant Slalom,10,29.00
+527,Fischnaller Roland,Male,05-12-1997,Sestriere,ITA,Italy,World Cup,Parallel Slalom,62,0.00
+528,Fischnaller Roland,Male,01-03-1997,Olang,ITA,Italy,World Cup,Slalom,67,0.00
+529,Fischnaller Roland,Male,05-01-1997,St. Johann/Pg.,AUT,Italy,Continental Cup,Giant Slalom,49,1.00
+530,Fischnaller Roland,Male,04-01-1997,St. Johann/Pg.,AUT,Italy,Continental Cup,Slalom,41,4.00
+531,Fischnaller Roland,Male,22-12-1996,Haus im Ennstal,AUT,Italy,FIS,Slalom,34,6.00
+532,Fischnaller Roland,Male,21-12-1996,Haus im Ennstal,AUT,Italy,FIS,Giant Slalom,53,0.00
+533,Fischnaller Roland,Male,14-04-1996,Val Senales,ITA,Italy,FIS,Parallel Slalom,24,22.00

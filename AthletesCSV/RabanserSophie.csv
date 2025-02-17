@@ -1,118 +1,120 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Rabanser Sophie,Female,09-02-2025,Santa Cristina Val Gardena,ITA,Italy,FIS,Giant Slalom,2,72.00
-1,Rabanser Sophie,Female,08-02-2025,Santa Cristina Val Gardena,ITA,Italy,FIS,Giant Slalom,2,40.00
-2,Rabanser Sophie,Female,02-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,28,
-3,Rabanser Sophie,Female,02-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,28,
-4,Rabanser Sophie,Female,01-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,16,54.00
-5,Rabanser Sophie,Female,01-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,16,
-6,Rabanser Sophie,Female,26-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,DSQ,
-7,Rabanser Sophie,Female,25-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,17,33.60
-8,Rabanser Sophie,Female,22-01-2025,Bansko,BUL,Italy,European Cup,Parallel Giant Slalom,19,43.20
-9,Rabanser Sophie,Female,21-01-2025,Bansko,BUL,Italy,European Cup,Parallel Giant Slalom,19,43.20
-10,Rabanser Sophie,Female,19-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,51,
-11,Rabanser Sophie,Female,19-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,51,15.20
-12,Rabanser Sophie,Female,18-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,39,
-13,Rabanser Sophie,Female,18-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,39,18.80
-14,Rabanser Sophie,Female,12-01-2025,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,7,50.40
-15,Rabanser Sophie,Female,11-01-2025,Folgaria,ITA,Italy,European Cup,Parallel Giant Slalom,4,120.00
-16,Rabanser Sophie,Female,11-01-2025,Folgaria,ITA,Italy,Qualification,Parallel Giant Slalom,10,
-17,Rabanser Sophie,Female,10-01-2025,Folgaria,ITA,Italy,European Cup,Parallel Giant Slalom,15,38.40
-18,Rabanser Sophie,Female,10-01-2025,Folgaria,ITA,Italy,Qualification,Parallel Giant Slalom,14,
-19,Rabanser Sophie,Female,06-01-2025,Simonhoehe,AUT,Italy,Junior Regional Cup,Parallel Giant Slalom,DNS,
-20,Rabanser Sophie,Female,05-01-2025,Simonhoehe,AUT,Italy,Junior Regional Cup,Parallel Giant Slalom,27,
-21,Rabanser Sophie,Female,22-12-2024,Moninec,CZE,Italy,FIS,Parallel Slalom,18,23.40
-22,Rabanser Sophie,Female,21-12-2024,Moninec,CZE,Italy,FIS,Parallel Slalom,14,28.80
-23,Rabanser Sophie,Female,20-12-2024,Moninec,CZE,Italy,European Cup,Parallel Slalom,18,31.20
-24,Rabanser Sophie,Female,19-12-2024,Moninec,CZE,Italy,European Cup,Parallel Slalom,28,9.60
-25,Rabanser Sophie,Female,15-12-2024,Götschen,GER,Italy,European Cup,Parallel Slalom,34,5.28
-26,Rabanser Sophie,Female,14-12-2024,Götschen,GER,Italy,European Cup,Parallel Slalom,23,17.60
-27,Rabanser Sophie,Female,24-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Slalom Team,10,
-28,Rabanser Sophie,Female,23-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Slalom,17,33.60
-29,Rabanser Sophie,Female,23-03-2024,Lachtal,AUT,Italy,Qualification,Parallel Slalom,17,
-30,Rabanser Sophie,Female,22-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Giant Slalom,15,38.40
-31,Rabanser Sophie,Female,22-03-2024,Lachtal,AUT,Italy,Qualification,Parallel Giant Slalom,15,
-32,Rabanser Sophie,Female,10-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,23,
-33,Rabanser Sophie,Female,09-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,4,55.00
-34,Rabanser Sophie,Female,24-02-2024,Alleghe,ITA,Italy,Junior,Parallel Giant Slalom,6,56.00
-35,Rabanser Sophie,Female,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,14,52.20
-36,Rabanser Sophie,Female,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,12,63.80
-37,Rabanser Sophie,Female,28-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,14,32.40
-38,Rabanser Sophie,Female,27-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,25,10.80
-39,Rabanser Sophie,Female,14-01-2024,Gosau,AUT,Italy,FIS,Parallel Slalom,3,72.00
-40,Rabanser Sophie,Female,13-01-2024,Gosau,AUT,Italy,FIS,Parallel Slalom,9,34.80
-41,Rabanser Sophie,Female,12-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,16,
-42,Rabanser Sophie,Female,12-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,8,76.80
-43,Rabanser Sophie,Female,11-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,DSQ1,
-44,Rabanser Sophie,Female,11-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,DSQ,
-45,Rabanser Sophie,Female,05-01-2024,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,4,70.00
-46,Rabanser Sophie,Female,22-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,DSQ,
-47,Rabanser Sophie,Female,21-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,17,28.00
-48,Rabanser Sophie,Female,20-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,48,
-49,Rabanser Sophie,Female,19-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,33,6.24
-50,Rabanser Sophie,Female,10-12-2023,Götschen,GER,Italy,Junior,Parallel Slalom,11,38.40
-51,Rabanser Sophie,Female,09-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,41,
-52,Rabanser Sophie,Female,09-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,41,6.55
-53,Rabanser Sophie,Female,08-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,35,
-54,Rabanser Sophie,Female,08-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,35,7.20
-55,Rabanser Sophie,Female,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,24,
-56,Rabanser Sophie,Female,25-03-2023,Bansko,BUL,Italy,FIS Junior World Championships,Parallel Slalom,18,46.80
-57,Rabanser Sophie,Female,25-03-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,18,
-58,Rabanser Sophie,Female,24-03-2023,Bansko,BUL,Italy,FIS Junior World Championships,Parallel Giant Slalom,20,39.60
-59,Rabanser Sophie,Female,24-03-2023,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,20,
-60,Rabanser Sophie,Female,19-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,43,
-61,Rabanser Sophie,Female,18-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,25,15.60
-62,Rabanser Sophie,Female,12-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,5,45.00
-63,Rabanser Sophie,Female,11-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,4,50.00
-64,Rabanser Sophie,Female,05-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,6,44.00
-65,Rabanser Sophie,Female,04-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,10,46.80
-66,Rabanser Sophie,Female,26-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,9,46.40
-67,Rabanser Sophie,Female,25-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,10,46.80
-68,Rabanser Sophie,Female,19-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,6,52.00
-69,Rabanser Sophie,Female,18-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,7,46.80
-70,Rabanser Sophie,Female,12-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,14,36.00
-71,Rabanser Sophie,Female,11-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,13,40.00
-72,Rabanser Sophie,Female,29-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,31,6.72
-73,Rabanser Sophie,Female,29-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,31,
-74,Rabanser Sophie,Female,28-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,35,4.80
-75,Rabanser Sophie,Female,28-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,35,
-76,Rabanser Sophie,Female,23-01-2023,Piancavallo,ITA,Italy,European Youth Olympic Festival,Parallel Giant Slalom,13,
-77,Rabanser Sophie,Female,15-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,17,30.80
-78,Rabanser Sophie,Female,15-01-2023,Alleghe,ITA,Italy,Qualification,Parallel Slalom,17,
-79,Rabanser Sophie,Female,14-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,DSQ,
-80,Rabanser Sophie,Female,08-01-2023,Haus im Ennstal,AUT,Italy,Junior,Giant Slalom,9,34.80
-81,Rabanser Sophie,Female,07-01-2023,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,6,52.00
-82,Rabanser Sophie,Female,18-12-2022,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,DSQ,
-83,Rabanser Sophie,Female,18-12-2022,Hochfügen,GER,Italy,Qualification,Parallel Giant Slalom,DSQ,
-84,Rabanser Sophie,Female,17-12-2022,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,39,3.76
-85,Rabanser Sophie,Female,12-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Slalom,9,58.00
-86,Rabanser Sophie,Female,11-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Giant Slalom,6,80.00
-87,Rabanser Sophie,Female,01-04-2022,Chiesa in Valmalenco,ITA,Italy,FIS Junior World Championships,Parallel Slalom,42,
-88,Rabanser Sophie,Female,31-03-2022,Chiesa in Valmalenco,ITA,Italy,FIS Junior World Championships,Parallel Giant Slalom,28,14.40
-89,Rabanser Sophie,Female,20-03-2022,Senales - Schnals,ITA,Italy,Junior,Parallel Slalom,7,50.40
-90,Rabanser Sophie,Female,19-03-2022,Senales - Schnals,ITA,Italy,Junior,Parallel Slalom,11,33.60
-91,Rabanser Sophie,Female,13-03-2022,Pizol,SUI,Italy,Junior,Parallel Slalom,14,23.40
-92,Rabanser Sophie,Female,12-03-2022,Pizol,SUI,Italy,Junior,Parallel Slalom,4,65.00
-93,Rabanser Sophie,Female,06-03-2022,Lachtal,AUT,Italy,European Cup,Parallel Giant Slalom,29,12.96
-94,Rabanser Sophie,Female,05-03-2022,Lachtal,AUT,Italy,European Cup,Parallel Giant Slalom,47,
-95,Rabanser Sophie,Female,27-02-2022,Simonhöhe,AUT,Italy,FIS,Parallel Giant Slalom,16,27.00
-96,Rabanser Sophie,Female,26-02-2022,Simonhöhe,AUT,Italy,FIS,Parallel Giant Slalom,21,18.00
-97,Rabanser Sophie,Female,20-02-2022,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,DNS,
-98,Rabanser Sophie,Female,19-02-2022,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,DNS,
-99,Rabanser Sophie,Female,06-02-2022,Ebensee,AUT,Italy,FIS,Parallel Slalom,DNS,
-100,Rabanser Sophie,Female,05-02-2022,Ebensee,AUT,Italy,FIS,Parallel Slalom,2,40.00
-101,Rabanser Sophie,Female,30-01-2022,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Slalom,1,50.00
-102,Rabanser Sophie,Female,29-01-2022,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Slalom,2,40.00
-103,Rabanser Sophie,Female,31-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Giant Slalom,12,63.80
-104,Rabanser Sophie,Female,30-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Slalom,12,63.80
-105,Rabanser Sophie,Female,21-03-2021,Pizol,SUI,Italy,Junior,Parallel Slalom,9,14.50
-106,Rabanser Sophie,Female,20-03-2021,Pizol,SUI,Italy,Junior,Parallel Slalom,8,38.40
-107,Rabanser Sophie,Female,07-03-2021,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,24,12.60
-108,Rabanser Sophie,Female,06-03-2021,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,20,17.60
-109,Rabanser Sophie,Female,28-02-2021,Funes/Villnoesses,ITA,Italy,European Cup,Parallel Giant Slalom,DSQ,
-110,Rabanser Sophie,Female,27-02-2021,Funes/Villnoesses,ITA,Italy,European Cup,Parallel Giant Slalom,24,15.40
-111,Rabanser Sophie,Female,07-02-2021,Gosau,AUT,Italy,FIS,Parallel Slalom,11,16.80
-112,Rabanser Sophie,Female,06-02-2021,Gosau,AUT,Italy,FIS,Parallel Slalom,14,12.60
-113,Rabanser Sophie,Female,23-01-2021,Haus im Ennstal,AUT,Italy,Junior,Parallel Slalom,9,26.10
-114,Rabanser Sophie,Female,22-01-2021,Haus im Ennstal,AUT,Italy,Junior,Parallel Slalom,5,40.50
-115,Rabanser Sophie,Female,10-01-2021,Goetschen,GER,Italy,Junior,Parallel Slalom,25,9.60
-116,Rabanser Sophie,Female,09-01-2021,Goetschen,GER,Italy,Junior,Parallel Slalom,22,10.80
+0,Rabanser Sophie,Female,16-02-2025,Funes/Villnoess,ITA,Italy,Junior Regional Cup,Parallel Giant Slalom,5,
+1,Rabanser Sophie,Female,15-02-2025,Funes/Villnoess,ITA,Italy,Junior Regional Cup,Parallel Giant Slalom,6,
+2,Rabanser Sophie,Female,09-02-2025,Santa Cristina Val Gardena,ITA,Italy,FIS,Giant Slalom,2,72.00
+3,Rabanser Sophie,Female,08-02-2025,Santa Cristina Val Gardena,ITA,Italy,FIS,Giant Slalom,2,40.00
+4,Rabanser Sophie,Female,02-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,28,
+5,Rabanser Sophie,Female,02-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,28,
+6,Rabanser Sophie,Female,01-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,16,54.00
+7,Rabanser Sophie,Female,01-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,16,
+8,Rabanser Sophie,Female,26-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,DSQ,
+9,Rabanser Sophie,Female,25-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,17,33.60
+10,Rabanser Sophie,Female,22-01-2025,Bansko,BUL,Italy,European Cup,Parallel Giant Slalom,19,43.20
+11,Rabanser Sophie,Female,21-01-2025,Bansko,BUL,Italy,European Cup,Parallel Giant Slalom,19,43.20
+12,Rabanser Sophie,Female,19-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,51,
+13,Rabanser Sophie,Female,19-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,51,15.20
+14,Rabanser Sophie,Female,18-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,39,
+15,Rabanser Sophie,Female,18-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,39,18.80
+16,Rabanser Sophie,Female,12-01-2025,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,7,50.40
+17,Rabanser Sophie,Female,11-01-2025,Folgaria,ITA,Italy,European Cup,Parallel Giant Slalom,4,120.00
+18,Rabanser Sophie,Female,11-01-2025,Folgaria,ITA,Italy,Qualification,Parallel Giant Slalom,10,
+19,Rabanser Sophie,Female,10-01-2025,Folgaria,ITA,Italy,European Cup,Parallel Giant Slalom,15,38.40
+20,Rabanser Sophie,Female,10-01-2025,Folgaria,ITA,Italy,Qualification,Parallel Giant Slalom,14,
+21,Rabanser Sophie,Female,06-01-2025,Simonhoehe,AUT,Italy,Junior Regional Cup,Parallel Giant Slalom,DNS,
+22,Rabanser Sophie,Female,05-01-2025,Simonhoehe,AUT,Italy,Junior Regional Cup,Parallel Giant Slalom,27,
+23,Rabanser Sophie,Female,22-12-2024,Moninec,CZE,Italy,FIS,Parallel Slalom,18,23.40
+24,Rabanser Sophie,Female,21-12-2024,Moninec,CZE,Italy,FIS,Parallel Slalom,14,28.80
+25,Rabanser Sophie,Female,20-12-2024,Moninec,CZE,Italy,European Cup,Parallel Slalom,18,31.20
+26,Rabanser Sophie,Female,19-12-2024,Moninec,CZE,Italy,European Cup,Parallel Slalom,28,9.60
+27,Rabanser Sophie,Female,15-12-2024,Götschen,GER,Italy,European Cup,Parallel Slalom,34,5.28
+28,Rabanser Sophie,Female,14-12-2024,Götschen,GER,Italy,European Cup,Parallel Slalom,23,17.60
+29,Rabanser Sophie,Female,24-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Slalom Team,10,
+30,Rabanser Sophie,Female,23-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Slalom,17,33.60
+31,Rabanser Sophie,Female,23-03-2024,Lachtal,AUT,Italy,Qualification,Parallel Slalom,17,
+32,Rabanser Sophie,Female,22-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Giant Slalom,15,38.40
+33,Rabanser Sophie,Female,22-03-2024,Lachtal,AUT,Italy,Qualification,Parallel Giant Slalom,15,
+34,Rabanser Sophie,Female,10-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,23,
+35,Rabanser Sophie,Female,09-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,4,55.00
+36,Rabanser Sophie,Female,24-02-2024,Alleghe,ITA,Italy,Junior,Parallel Giant Slalom,6,56.00
+37,Rabanser Sophie,Female,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,14,52.20
+38,Rabanser Sophie,Female,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,12,63.80
+39,Rabanser Sophie,Female,28-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,14,32.40
+40,Rabanser Sophie,Female,27-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,25,10.80
+41,Rabanser Sophie,Female,14-01-2024,Gosau,AUT,Italy,FIS,Parallel Slalom,3,72.00
+42,Rabanser Sophie,Female,13-01-2024,Gosau,AUT,Italy,FIS,Parallel Slalom,9,34.80
+43,Rabanser Sophie,Female,12-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,16,
+44,Rabanser Sophie,Female,12-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,8,76.80
+45,Rabanser Sophie,Female,11-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,DSQ1,
+46,Rabanser Sophie,Female,11-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,DSQ,
+47,Rabanser Sophie,Female,05-01-2024,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,4,70.00
+48,Rabanser Sophie,Female,22-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,DSQ,
+49,Rabanser Sophie,Female,21-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,17,28.00
+50,Rabanser Sophie,Female,20-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,48,
+51,Rabanser Sophie,Female,19-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,33,6.24
+52,Rabanser Sophie,Female,10-12-2023,Götschen,GER,Italy,Junior,Parallel Slalom,11,38.40
+53,Rabanser Sophie,Female,09-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,41,
+54,Rabanser Sophie,Female,09-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,41,6.55
+55,Rabanser Sophie,Female,08-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,35,
+56,Rabanser Sophie,Female,08-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,35,7.20
+57,Rabanser Sophie,Female,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,24,
+58,Rabanser Sophie,Female,25-03-2023,Bansko,BUL,Italy,FIS Junior World Championships,Parallel Slalom,18,46.80
+59,Rabanser Sophie,Female,25-03-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,18,
+60,Rabanser Sophie,Female,24-03-2023,Bansko,BUL,Italy,FIS Junior World Championships,Parallel Giant Slalom,20,39.60
+61,Rabanser Sophie,Female,24-03-2023,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,20,
+62,Rabanser Sophie,Female,19-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,43,
+63,Rabanser Sophie,Female,18-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,25,15.60
+64,Rabanser Sophie,Female,12-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,5,45.00
+65,Rabanser Sophie,Female,11-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,4,50.00
+66,Rabanser Sophie,Female,05-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,6,44.00
+67,Rabanser Sophie,Female,04-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,10,46.80
+68,Rabanser Sophie,Female,26-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,9,46.40
+69,Rabanser Sophie,Female,25-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,10,46.80
+70,Rabanser Sophie,Female,19-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,6,52.00
+71,Rabanser Sophie,Female,18-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,7,46.80
+72,Rabanser Sophie,Female,12-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,14,36.00
+73,Rabanser Sophie,Female,11-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,13,40.00
+74,Rabanser Sophie,Female,29-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,31,6.72
+75,Rabanser Sophie,Female,29-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,31,
+76,Rabanser Sophie,Female,28-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,35,4.80
+77,Rabanser Sophie,Female,28-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,35,
+78,Rabanser Sophie,Female,23-01-2023,Piancavallo,ITA,Italy,European Youth Olympic Festival,Parallel Giant Slalom,13,
+79,Rabanser Sophie,Female,15-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,17,30.80
+80,Rabanser Sophie,Female,15-01-2023,Alleghe,ITA,Italy,Qualification,Parallel Slalom,17,
+81,Rabanser Sophie,Female,14-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,DSQ,
+82,Rabanser Sophie,Female,08-01-2023,Haus im Ennstal,AUT,Italy,Junior,Giant Slalom,9,34.80
+83,Rabanser Sophie,Female,07-01-2023,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,6,52.00
+84,Rabanser Sophie,Female,18-12-2022,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,DSQ,
+85,Rabanser Sophie,Female,18-12-2022,Hochfügen,GER,Italy,Qualification,Parallel Giant Slalom,DSQ,
+86,Rabanser Sophie,Female,17-12-2022,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,39,3.76
+87,Rabanser Sophie,Female,12-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Slalom,9,58.00
+88,Rabanser Sophie,Female,11-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Giant Slalom,6,80.00
+89,Rabanser Sophie,Female,01-04-2022,Chiesa in Valmalenco,ITA,Italy,FIS Junior World Championships,Parallel Slalom,42,
+90,Rabanser Sophie,Female,31-03-2022,Chiesa in Valmalenco,ITA,Italy,FIS Junior World Championships,Parallel Giant Slalom,28,14.40
+91,Rabanser Sophie,Female,20-03-2022,Senales - Schnals,ITA,Italy,Junior,Parallel Slalom,7,50.40
+92,Rabanser Sophie,Female,19-03-2022,Senales - Schnals,ITA,Italy,Junior,Parallel Slalom,11,33.60
+93,Rabanser Sophie,Female,13-03-2022,Pizol,SUI,Italy,Junior,Parallel Slalom,14,23.40
+94,Rabanser Sophie,Female,12-03-2022,Pizol,SUI,Italy,Junior,Parallel Slalom,4,65.00
+95,Rabanser Sophie,Female,06-03-2022,Lachtal,AUT,Italy,European Cup,Parallel Giant Slalom,29,12.96
+96,Rabanser Sophie,Female,05-03-2022,Lachtal,AUT,Italy,European Cup,Parallel Giant Slalom,47,
+97,Rabanser Sophie,Female,27-02-2022,Simonhöhe,AUT,Italy,FIS,Parallel Giant Slalom,16,27.00
+98,Rabanser Sophie,Female,26-02-2022,Simonhöhe,AUT,Italy,FIS,Parallel Giant Slalom,21,18.00
+99,Rabanser Sophie,Female,20-02-2022,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,DNS,
+100,Rabanser Sophie,Female,19-02-2022,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,DNS,
+101,Rabanser Sophie,Female,06-02-2022,Ebensee,AUT,Italy,FIS,Parallel Slalom,DNS,
+102,Rabanser Sophie,Female,05-02-2022,Ebensee,AUT,Italy,FIS,Parallel Slalom,2,40.00
+103,Rabanser Sophie,Female,30-01-2022,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Slalom,1,50.00
+104,Rabanser Sophie,Female,29-01-2022,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Slalom,2,40.00
+105,Rabanser Sophie,Female,31-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Giant Slalom,12,63.80
+106,Rabanser Sophie,Female,30-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Slalom,12,63.80
+107,Rabanser Sophie,Female,21-03-2021,Pizol,SUI,Italy,Junior,Parallel Slalom,9,14.50
+108,Rabanser Sophie,Female,20-03-2021,Pizol,SUI,Italy,Junior,Parallel Slalom,8,38.40
+109,Rabanser Sophie,Female,07-03-2021,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,24,12.60
+110,Rabanser Sophie,Female,06-03-2021,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,20,17.60
+111,Rabanser Sophie,Female,28-02-2021,Funes/Villnoesses,ITA,Italy,European Cup,Parallel Giant Slalom,DSQ,
+112,Rabanser Sophie,Female,27-02-2021,Funes/Villnoesses,ITA,Italy,European Cup,Parallel Giant Slalom,24,15.40
+113,Rabanser Sophie,Female,07-02-2021,Gosau,AUT,Italy,FIS,Parallel Slalom,11,16.80
+114,Rabanser Sophie,Female,06-02-2021,Gosau,AUT,Italy,FIS,Parallel Slalom,14,12.60
+115,Rabanser Sophie,Female,23-01-2021,Haus im Ennstal,AUT,Italy,Junior,Parallel Slalom,9,26.10
+116,Rabanser Sophie,Female,22-01-2021,Haus im Ennstal,AUT,Italy,Junior,Parallel Slalom,5,40.50
+117,Rabanser Sophie,Female,10-01-2021,Goetschen,GER,Italy,Junior,Parallel Slalom,25,9.60
+118,Rabanser Sophie,Female,09-01-2021,Goetschen,GER,Italy,Junior,Parallel Slalom,22,10.80

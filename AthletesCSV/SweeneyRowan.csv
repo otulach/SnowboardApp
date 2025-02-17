@@ -1,39 +1,43 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Sweeney Rowan,Female,06-02-2025,Toronto Ski Club,CAN,Canada,Nor-Am Cup,Parallel Slalom,10,75.40
-1,Sweeney Rowan,Female,05-02-2025,Toronto Ski Club,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,7,104.40
-2,Sweeney Rowan,Female,25-01-2025,Horseshoe Resort,CAN,Canada,FIS,Parallel Slalom,2,40.00
-3,Sweeney Rowan,Female,17-01-2025,Afton Alps Ski Area,USA,Canada,FIS,Parallel Slalom,3,30.00
-4,Sweeney Rowan,Female,17-01-2025,Afton Alps Ski Area,USA,Canada,Nor-Am Cup,Parallel Slalom,4,80.00
-5,Sweeney Rowan,Female,16-01-2025,Afton Alps Ski Area,USA,Canada,Nor-Am Cup,Parallel Slalom,2,128.00
-6,Sweeney Rowan,Female,05-01-2025,Val Saint Come,CAN,Canada,FIS,Parallel Giant Slalom,2,40.00
-7,Sweeney Rowan,Female,04-01-2025,Val Saint Come,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,10,46.80
-8,Sweeney Rowan,Female,03-01-2025,Val Saint Come,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,9,52.20
-9,Sweeney Rowan,Female,23-03-2024,Lachtal,AUT,Canada,Qualification,Parallel Slalom,34,
-10,Sweeney Rowan,Female,23-03-2024,Lachtal,AUT,Canada,FIS Junior World Championships,Parallel Slalom,34,5.28
-11,Sweeney Rowan,Female,22-03-2024,Lachtal,AUT,Canada,Qualification,Parallel Giant Slalom,30,
-12,Sweeney Rowan,Female,22-03-2024,Lachtal,AUT,Canada,FIS Junior World Championships,Parallel Giant Slalom,30,7.68
-13,Sweeney Rowan,Female,06-03-2024,Toronto Ski Club,CAN,Canada,National Junior Championships,Parallel Giant Slalom,2,40.00
-14,Sweeney Rowan,Female,27-02-2024,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Parallel Giant Slalom,12,35.20
-15,Sweeney Rowan,Female,26-02-2024,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Parallel Giant Slalom,10,41.60
-16,Sweeney Rowan,Female,10-02-2024,"Alpine Ski Club,",CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,19,21.60
-17,Sweeney Rowan,Female,09-02-2024,"Alpine Ski Club,",CAN,Canada,Nor-Am Cup,Parallel Slalom,DNF,
-18,Sweeney Rowan,Female,06-02-2024,Val Saint Come,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,DSQ,
-19,Sweeney Rowan,Female,05-02-2024,Val Saint Come,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,23,14.40
-20,Sweeney Rowan,Female,27-01-2024,Horseshoe Resort,CAN,Canada,FIS,Parallel Slalom,3,30.00
-21,Sweeney Rowan,Female,05-01-2024,Afton Alps Ski Area,USA,Canada,FIS,Parallel Slalom,8,32.00
-22,Sweeney Rowan,Female,05-01-2024,Afton Alps Ski Area,USA,Canada,Nor-Am Cup,Parallel Slalom,11,38.40
-23,Sweeney Rowan,Female,04-01-2024,Afton Alps Ski Area,USA,Canada,Nor-Am Cup,Parallel Slalom,13,32.00
-24,Sweeney Rowan,Female,11-03-2023,Horseshoe Resort,CAN,Canada,FIS,Parallel Giant Slalom,7,36.00
-25,Sweeney Rowan,Female,10-03-2023,Horseshoe Resort,CAN,Canada,FIS,Parallel Slalom,2,80.00
-26,Sweeney Rowan,Female,10-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Parallel Slalom,6,64.00
-27,Sweeney Rowan,Female,09-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Parallel Slalom,5,72.00
-28,Sweeney Rowan,Female,28-02-2023,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Parallel Giant Slalom,10,41.60
-29,Sweeney Rowan,Female,27-02-2023,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Parallel Giant Slalom,5,72.00
-30,Sweeney Rowan,Female,11-02-2023,Ontario,CAN,Canada,FIS,Parallel Giant Slalom,3,30.00
-31,Sweeney Rowan,Female,09-02-2023,Tremblant.QC,CAN,Canada,FIS,Parallel Giant Slalom,11,31.20
-32,Sweeney Rowan,Female,08-02-2023,Tremblant.QC,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,14,28.80
-33,Sweeney Rowan,Female,07-02-2023,Tremblant.QC,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,12,35.20
-34,Sweeney Rowan,Female,02-02-2023,Blue,CAN,Canada,National Junior Championships,Parallel Slalom,6,36.00
-35,Sweeney Rowan,Female,01-02-2023,Blue,CAN,Canada,National Junior Championships,Parallel Giant Slalom,9,26.10
-36,Sweeney Rowan,Female,31-01-2023,Blue,CAN,Canada,Nor-Am Cup,Parallel Slalom,DSQ,
-37,Sweeney Rowan,Female,30-01-2023,Blue,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,17,36.40
+0,Sweeney Rowan,Female,16-02-2025,Val St. Come,CAN,Canada,World Cup,Parallel Giant Slalom,34,
+1,Sweeney Rowan,Female,16-02-2025,Val St. Come,CAN,Canada,Qualification,Parallel Giant Slalom,34,
+2,Sweeney Rowan,Female,15-02-2025,Val St. Come,CAN,Canada,Qualification,Parallel Giant Slalom,34,
+3,Sweeney Rowan,Female,15-02-2025,Val St. Come,CAN,Canada,World Cup,Parallel Giant Slalom,34,
+4,Sweeney Rowan,Female,06-02-2025,Toronto Ski Club,CAN,Canada,Nor-Am Cup,Parallel Slalom,10,75.40
+5,Sweeney Rowan,Female,05-02-2025,Toronto Ski Club,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,7,104.40
+6,Sweeney Rowan,Female,25-01-2025,Horseshoe Resort,CAN,Canada,FIS,Parallel Slalom,2,40.00
+7,Sweeney Rowan,Female,17-01-2025,Afton Alps Ski Area,USA,Canada,FIS,Parallel Slalom,3,30.00
+8,Sweeney Rowan,Female,17-01-2025,Afton Alps Ski Area,USA,Canada,Nor-Am Cup,Parallel Slalom,4,80.00
+9,Sweeney Rowan,Female,16-01-2025,Afton Alps Ski Area,USA,Canada,Nor-Am Cup,Parallel Slalom,2,128.00
+10,Sweeney Rowan,Female,05-01-2025,Val Saint Come,CAN,Canada,FIS,Parallel Giant Slalom,2,40.00
+11,Sweeney Rowan,Female,04-01-2025,Val Saint Come,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,10,46.80
+12,Sweeney Rowan,Female,03-01-2025,Val Saint Come,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,9,52.20
+13,Sweeney Rowan,Female,23-03-2024,Lachtal,AUT,Canada,Qualification,Parallel Slalom,34,
+14,Sweeney Rowan,Female,23-03-2024,Lachtal,AUT,Canada,FIS Junior World Championships,Parallel Slalom,34,5.28
+15,Sweeney Rowan,Female,22-03-2024,Lachtal,AUT,Canada,Qualification,Parallel Giant Slalom,30,
+16,Sweeney Rowan,Female,22-03-2024,Lachtal,AUT,Canada,FIS Junior World Championships,Parallel Giant Slalom,30,7.68
+17,Sweeney Rowan,Female,06-03-2024,Toronto Ski Club,CAN,Canada,National Junior Championships,Parallel Giant Slalom,2,40.00
+18,Sweeney Rowan,Female,27-02-2024,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Parallel Giant Slalom,12,35.20
+19,Sweeney Rowan,Female,26-02-2024,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Parallel Giant Slalom,10,41.60
+20,Sweeney Rowan,Female,10-02-2024,"Alpine Ski Club,",CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,19,21.60
+21,Sweeney Rowan,Female,09-02-2024,"Alpine Ski Club,",CAN,Canada,Nor-Am Cup,Parallel Slalom,DNF,
+22,Sweeney Rowan,Female,06-02-2024,Val Saint Come,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,DSQ,
+23,Sweeney Rowan,Female,05-02-2024,Val Saint Come,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,23,14.40
+24,Sweeney Rowan,Female,27-01-2024,Horseshoe Resort,CAN,Canada,FIS,Parallel Slalom,3,30.00
+25,Sweeney Rowan,Female,05-01-2024,Afton Alps Ski Area,USA,Canada,FIS,Parallel Slalom,8,32.00
+26,Sweeney Rowan,Female,05-01-2024,Afton Alps Ski Area,USA,Canada,Nor-Am Cup,Parallel Slalom,11,38.40
+27,Sweeney Rowan,Female,04-01-2024,Afton Alps Ski Area,USA,Canada,Nor-Am Cup,Parallel Slalom,13,32.00
+28,Sweeney Rowan,Female,11-03-2023,Horseshoe Resort,CAN,Canada,FIS,Parallel Giant Slalom,7,36.00
+29,Sweeney Rowan,Female,10-03-2023,Horseshoe Resort,CAN,Canada,FIS,Parallel Slalom,2,80.00
+30,Sweeney Rowan,Female,10-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Parallel Slalom,6,64.00
+31,Sweeney Rowan,Female,09-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Parallel Slalom,5,72.00
+32,Sweeney Rowan,Female,28-02-2023,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Parallel Giant Slalom,10,41.60
+33,Sweeney Rowan,Female,27-02-2023,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Parallel Giant Slalom,5,72.00
+34,Sweeney Rowan,Female,11-02-2023,Ontario,CAN,Canada,FIS,Parallel Giant Slalom,3,30.00
+35,Sweeney Rowan,Female,09-02-2023,Tremblant.QC,CAN,Canada,FIS,Parallel Giant Slalom,11,31.20
+36,Sweeney Rowan,Female,08-02-2023,Tremblant.QC,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,14,28.80
+37,Sweeney Rowan,Female,07-02-2023,Tremblant.QC,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,12,35.20
+38,Sweeney Rowan,Female,02-02-2023,Blue,CAN,Canada,National Junior Championships,Parallel Slalom,6,36.00
+39,Sweeney Rowan,Female,01-02-2023,Blue,CAN,Canada,National Junior Championships,Parallel Giant Slalom,9,26.10
+40,Sweeney Rowan,Female,31-01-2023,Blue,CAN,Canada,Nor-Am Cup,Parallel Slalom,DSQ,
+41,Sweeney Rowan,Female,30-01-2023,Blue,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,17,36.40
