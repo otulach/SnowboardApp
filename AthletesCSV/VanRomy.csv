@@ -1,75 +1,76 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Van Romy,Female,06-02-2025,Aspen,USA,Netherlands,World Cup,Big Air,11,202.10
-1,Van Romy,Female,05-02-2025,Aspen,USA,Netherlands,Qualification,Big Air,11,
-2,Van Romy,Female,02-02-2025,Aspen,USA,Netherlands,World Cup,Slopestyle,16,138.30
-3,Van Romy,Female,31-01-2025,Aspen,USA,Netherlands,Qualification,Slopestyle,16,
-4,Van Romy,Female,18-01-2025,Laax,SUI,Netherlands,World Cup,Slopestyle,19,108.30
-5,Van Romy,Female,16-01-2025,Laax,SUI,Netherlands,Qualification,Slopestyle,19,
-6,Van Romy,Female,11-01-2025,Kreischberg,AUT,Netherlands,World Cup,Big Air,25,29.20
-7,Van Romy,Female,09-01-2025,Kreischberg,AUT,Netherlands,Qualification,Big Air,25,
-8,Van Romy,Female,05-01-2025,Klagenfurt,AUT,Netherlands,World Cup,Big Air,16,86.60
-9,Van Romy,Female,03-01-2025,Klagenfurt,AUT,Netherlands,Qualification,Big Air,16,
-10,Van Romy,Female,01-12-2024,Beijing,CHN,Netherlands,World Cup,Big Air,14,129.90
-11,Van Romy,Female,30-11-2024,Beijing,CHN,Netherlands,Qualification,Big Air,14,
-12,Van Romy,Female,19-10-2024,Chur,SUI,Netherlands,World Cup,Big Air,30,0.40
-13,Van Romy,Female,02-09-2024,Cardrona,NZL,Netherlands,World Cup,Slopestyle,20,98.20
-14,Van Romy,Female,31-08-2024,Cardrona,NZL,Netherlands,Qualification,Slopestyle,20,
-15,Van Romy,Female,14-04-2024,Corvatsch,SUI,Netherlands,European Cup Premium,Big Air,22,17.00
-16,Van Romy,Female,12-04-2024,Corvatsch,SUI,Netherlands,European Cup Premium,Slopestyle,7,131.00
-17,Van Romy,Female,23-03-2024,Silvaplana,SUI,Netherlands,World Cup,Slopestyle,17,70.80
-18,Van Romy,Female,21-03-2024,Silvaplana,SUI,Netherlands,Qualification,Slopestyle,17,
-19,Van Romy,Female,12-03-2024,Laax,SUI,Netherlands,European Cup Premium,Slopestyle,6,74.30
-20,Van Romy,Female,22-02-2024,Prato Nevoso,ITA,Netherlands,European Cup,Slopestyle,4,79.80
-21,Van Romy,Female,15-02-2024,Davos,SUI,Netherlands,European Cup,Big Air,11,20.30
-22,Van Romy,Female,10-02-2024,Kotelnica Bialczanska,POL,Netherlands,European Cup,Big Air,6,0.30
-23,Van Romy,Female,20-01-2024,Laax,SUI,Netherlands,World Cup,Slopestyle,20,80.30
-24,Van Romy,Female,16-01-2024,Laax,SUI,Netherlands,Qualification,Slopestyle,20,
-25,Van Romy,Female,05-01-2024,Font Romeu,FRA,Netherlands,European Cup,Big Air,2,97.80
-26,Van Romy,Female,04-01-2024,Font Romeu,FRA,Netherlands,European Cup Premium,Slopestyle,1,120.00
-27,Van Romy,Female,02-12-2023,Beijing,CHN,Netherlands,World Cup,Big Air,10,49.60
-28,Van Romy,Female,01-12-2023,Beijing,CHN,Netherlands,Qualification,Big Air,10,
-29,Van Romy,Female,13-10-2023,SnowWorld Landgraaf,NED,Netherlands,FIS,Slopestyle,3,53.00
-30,Van Romy,Female,12-10-2023,SnowWorld Landgraaf,NED,Netherlands,FIS,Slopestyle,8,18.50
-31,Van Romy,Female,04-09-2023,Cardrona,NZL,Netherlands,FIS Junior World Championships,Big Air,18,24.80
-32,Van Romy,Female,02-09-2023,Cardrona,NZL,Netherlands,Qualification,Big Air,11,
-33,Van Romy,Female,30-08-2023,Cardrona,NZL,Netherlands,FIS Junior World Championships,Slopestyle,6,103.30
-34,Van Romy,Female,28-08-2023,Cardrona,NZL,Netherlands,Qualification,Slopestyle,6,
-35,Van Romy,Female,22-04-2023,Kitzsteinhorn,AUT,Netherlands,European Cup,Big Air,8,68.70
-36,Van Romy,Female,21-04-2023,Kitzsteinhorn,AUT,Netherlands,European Cup,Slopestyle,10,49.70
-37,Van Romy,Female,17-04-2023,Corvatsch,SUI,Netherlands,European Cup Premium,Big Air,4,161.00
-38,Van Romy,Female,14-04-2023,Corvatsch,SUI,Netherlands,European Cup Premium,Slopestyle,8,70.90
-39,Van Romy,Female,29-03-2023,Leysin,SUI,Netherlands,FIS,Big Air,4,88.40
-40,Van Romy,Female,28-03-2023,Leysin,SUI,Netherlands,FIS,Slopestyle,6,44.30
-41,Van Romy,Female,20-03-2023,Mottolino Livigno,ITA,Netherlands,European Cup,Slopestyle,6,29.60
-42,Van Romy,Female,17-03-2023,Laax,SUI,Netherlands,European Cup Premium,Slopestyle,17,28.90
-43,Van Romy,Female,18-02-2023,Davos,SUI,Netherlands,European Cup,Big Air,11,19.10
-44,Van Romy,Female,04-02-2023,Font Romeu,FRA,Netherlands,European Cup,Big Air,6,46.00
-45,Van Romy,Female,02-02-2023,Font Romeu,FRA,Netherlands,European Cup,Slopestyle,5,55.80
-46,Van Romy,Female,25-01-2023,Prato Nevoso,ITA,Netherlands,European Cup,Slopestyle,5,51.70
-47,Van Romy,Female,07-10-2022,SnowWorld Landgraaf,NED,Netherlands,FIS,Slopestyle,4,31.00
-48,Van Romy,Female,06-10-2022,SnowWorld Landgraaf,NED,Netherlands,FIS,Slopestyle,1,70.00
-49,Van Romy,Female,09-04-2022,Corvatsch,SUI,Netherlands,European Cup Premium,Big Air,7,46.30
-50,Van Romy,Female,07-04-2022,Corvatsch,SUI,Netherlands,European Cup Premium,Slopestyle,10,32.80
-51,Van Romy,Female,25-03-2022,Vuokatti,FIN,Netherlands,European Youth Olympic Festival,Slopestyle,5,37.70
-52,Van Romy,Female,23-03-2022,Vuokatti,FIN,Netherlands,European Youth Olympic Festival,Big Air,3,45.60
-53,Van Romy,Female,13-03-2022,Leysin,SUI,Netherlands,FIS Junior World Championships,Slopestyle,11,50.70
-54,Van Romy,Female,10-03-2022,Leysin,SUI,Netherlands,FIS Junior World Championships,Big Air,17,23.10
-55,Van Romy,Female,26-02-2022,Götschen,GER,Netherlands,European Cup,Big Air,DNS,
-56,Van Romy,Female,25-02-2022,Götschen,GER,Netherlands,European Cup,Slopestyle,7,64.80
-57,Van Romy,Female,18-02-2022,Davos,SUI,Netherlands,European Cup Premium,Big Air,5,64.30
-58,Van Romy,Female,23-01-2022,Prato Nevoso,ITA,Netherlands,European Cup,Slopestyle,6,56.40
-59,Van Romy,Female,19-11-2021,Landgraaf,NED,Netherlands,European Cup,Slopestyle,3,87.70
-60,Van Romy,Female,18-11-2021,Landgraaf,NED,Netherlands,FIS,Slopestyle,3,88.50
-61,Van Romy,Female,08-10-2021,Landgraaf,NED,Netherlands,FIS,Slopestyle,1,70.00
-62,Van Romy,Female,06-03-2021,Götschen,GER,Netherlands,FIS,Big Air,2,38.99
-63,Van Romy,Female,05-03-2021,Götschen,GER,Netherlands,European Cup,Big Air,5,45.61
-64,Van Romy,Female,22-02-2021,Götschen,GER,Netherlands,European Cup,Big Air,11,18.77
-65,Van Romy,Female,21-02-2021,Götschen,GER,Netherlands,European Cup,Slopestyle,9,36.04
-66,Van Romy,Female,31-01-2021,Crans Montana,SUI,Netherlands,European Cup,Slopestyle,12,18.11
-67,Van Romy,Female,26-11-2020,Glacier 3000,SUI,Netherlands,FIS,Slopestyle,13,27.64
-68,Van Romy,Female,21-11-2019,Landgraaf,NED,Netherlands,European Cup,Slopestyle,14,32.40
-69,Van Romy,Female,20-11-2019,Landgraaf,NED,Netherlands,FIS,Slopestyle,9,52.20
-70,Van Romy,Female,17-04-2019,Laax,BEL,Netherlands,FIS,Big Air,4,
-71,Van Romy,Female,16-04-2019,Laax,BEL,Netherlands,FIS,Slopestyle,4,
-72,Van Romy,Female,22-11-2018,Landgraaf,NED,Netherlands,European Cup,Slopestyle,5,72.00
-73,Van Romy,Female,21-11-2018,Landgraaf,NED,Netherlands,FIS,Slopestyle,7,36.00
+0,Van Romy,Female,20-02-2025,Calgary,CAN,Netherlands,Qualification,Slopestyle,11,
+1,Van Romy,Female,06-02-2025,Aspen,USA,Netherlands,World Cup,Big Air,11,202.10
+2,Van Romy,Female,05-02-2025,Aspen,USA,Netherlands,Qualification,Big Air,11,
+3,Van Romy,Female,02-02-2025,Aspen,USA,Netherlands,World Cup,Slopestyle,16,138.30
+4,Van Romy,Female,31-01-2025,Aspen,USA,Netherlands,Qualification,Slopestyle,16,
+5,Van Romy,Female,18-01-2025,Laax,SUI,Netherlands,World Cup,Slopestyle,19,108.30
+6,Van Romy,Female,16-01-2025,Laax,SUI,Netherlands,Qualification,Slopestyle,19,
+7,Van Romy,Female,11-01-2025,Kreischberg,AUT,Netherlands,World Cup,Big Air,25,29.20
+8,Van Romy,Female,09-01-2025,Kreischberg,AUT,Netherlands,Qualification,Big Air,25,
+9,Van Romy,Female,05-01-2025,Klagenfurt,AUT,Netherlands,World Cup,Big Air,16,86.60
+10,Van Romy,Female,03-01-2025,Klagenfurt,AUT,Netherlands,Qualification,Big Air,16,
+11,Van Romy,Female,01-12-2024,Beijing,CHN,Netherlands,World Cup,Big Air,14,129.90
+12,Van Romy,Female,30-11-2024,Beijing,CHN,Netherlands,Qualification,Big Air,14,
+13,Van Romy,Female,19-10-2024,Chur,SUI,Netherlands,World Cup,Big Air,30,0.40
+14,Van Romy,Female,02-09-2024,Cardrona,NZL,Netherlands,World Cup,Slopestyle,20,98.20
+15,Van Romy,Female,31-08-2024,Cardrona,NZL,Netherlands,Qualification,Slopestyle,20,
+16,Van Romy,Female,14-04-2024,Corvatsch,SUI,Netherlands,European Cup Premium,Big Air,22,17.00
+17,Van Romy,Female,12-04-2024,Corvatsch,SUI,Netherlands,European Cup Premium,Slopestyle,7,131.00
+18,Van Romy,Female,23-03-2024,Silvaplana,SUI,Netherlands,World Cup,Slopestyle,17,70.80
+19,Van Romy,Female,21-03-2024,Silvaplana,SUI,Netherlands,Qualification,Slopestyle,17,
+20,Van Romy,Female,12-03-2024,Laax,SUI,Netherlands,European Cup Premium,Slopestyle,6,74.30
+21,Van Romy,Female,22-02-2024,Prato Nevoso,ITA,Netherlands,European Cup,Slopestyle,4,79.80
+22,Van Romy,Female,15-02-2024,Davos,SUI,Netherlands,European Cup,Big Air,11,20.30
+23,Van Romy,Female,10-02-2024,Kotelnica Bialczanska,POL,Netherlands,European Cup,Big Air,6,0.30
+24,Van Romy,Female,20-01-2024,Laax,SUI,Netherlands,World Cup,Slopestyle,20,80.30
+25,Van Romy,Female,16-01-2024,Laax,SUI,Netherlands,Qualification,Slopestyle,20,
+26,Van Romy,Female,05-01-2024,Font Romeu,FRA,Netherlands,European Cup,Big Air,2,97.80
+27,Van Romy,Female,04-01-2024,Font Romeu,FRA,Netherlands,European Cup Premium,Slopestyle,1,120.00
+28,Van Romy,Female,02-12-2023,Beijing,CHN,Netherlands,World Cup,Big Air,10,49.60
+29,Van Romy,Female,01-12-2023,Beijing,CHN,Netherlands,Qualification,Big Air,10,
+30,Van Romy,Female,13-10-2023,SnowWorld Landgraaf,NED,Netherlands,FIS,Slopestyle,3,53.00
+31,Van Romy,Female,12-10-2023,SnowWorld Landgraaf,NED,Netherlands,FIS,Slopestyle,8,18.50
+32,Van Romy,Female,04-09-2023,Cardrona,NZL,Netherlands,FIS Junior World Championships,Big Air,18,24.80
+33,Van Romy,Female,02-09-2023,Cardrona,NZL,Netherlands,Qualification,Big Air,11,
+34,Van Romy,Female,30-08-2023,Cardrona,NZL,Netherlands,FIS Junior World Championships,Slopestyle,6,103.30
+35,Van Romy,Female,28-08-2023,Cardrona,NZL,Netherlands,Qualification,Slopestyle,6,
+36,Van Romy,Female,22-04-2023,Kitzsteinhorn,AUT,Netherlands,European Cup,Big Air,8,68.70
+37,Van Romy,Female,21-04-2023,Kitzsteinhorn,AUT,Netherlands,European Cup,Slopestyle,10,49.70
+38,Van Romy,Female,17-04-2023,Corvatsch,SUI,Netherlands,European Cup Premium,Big Air,4,161.00
+39,Van Romy,Female,14-04-2023,Corvatsch,SUI,Netherlands,European Cup Premium,Slopestyle,8,70.90
+40,Van Romy,Female,29-03-2023,Leysin,SUI,Netherlands,FIS,Big Air,4,88.40
+41,Van Romy,Female,28-03-2023,Leysin,SUI,Netherlands,FIS,Slopestyle,6,44.30
+42,Van Romy,Female,20-03-2023,Mottolino Livigno,ITA,Netherlands,European Cup,Slopestyle,6,29.60
+43,Van Romy,Female,17-03-2023,Laax,SUI,Netherlands,European Cup Premium,Slopestyle,17,28.90
+44,Van Romy,Female,18-02-2023,Davos,SUI,Netherlands,European Cup,Big Air,11,19.10
+45,Van Romy,Female,04-02-2023,Font Romeu,FRA,Netherlands,European Cup,Big Air,6,46.00
+46,Van Romy,Female,02-02-2023,Font Romeu,FRA,Netherlands,European Cup,Slopestyle,5,55.80
+47,Van Romy,Female,25-01-2023,Prato Nevoso,ITA,Netherlands,European Cup,Slopestyle,5,51.70
+48,Van Romy,Female,07-10-2022,SnowWorld Landgraaf,NED,Netherlands,FIS,Slopestyle,4,31.00
+49,Van Romy,Female,06-10-2022,SnowWorld Landgraaf,NED,Netherlands,FIS,Slopestyle,1,70.00
+50,Van Romy,Female,09-04-2022,Corvatsch,SUI,Netherlands,European Cup Premium,Big Air,7,46.30
+51,Van Romy,Female,07-04-2022,Corvatsch,SUI,Netherlands,European Cup Premium,Slopestyle,10,32.80
+52,Van Romy,Female,25-03-2022,Vuokatti,FIN,Netherlands,European Youth Olympic Festival,Slopestyle,5,37.70
+53,Van Romy,Female,23-03-2022,Vuokatti,FIN,Netherlands,European Youth Olympic Festival,Big Air,3,45.60
+54,Van Romy,Female,13-03-2022,Leysin,SUI,Netherlands,FIS Junior World Championships,Slopestyle,11,50.70
+55,Van Romy,Female,10-03-2022,Leysin,SUI,Netherlands,FIS Junior World Championships,Big Air,17,23.10
+56,Van Romy,Female,26-02-2022,Götschen,GER,Netherlands,European Cup,Big Air,DNS,
+57,Van Romy,Female,25-02-2022,Götschen,GER,Netherlands,European Cup,Slopestyle,7,64.80
+58,Van Romy,Female,18-02-2022,Davos,SUI,Netherlands,European Cup Premium,Big Air,5,64.30
+59,Van Romy,Female,23-01-2022,Prato Nevoso,ITA,Netherlands,European Cup,Slopestyle,6,56.40
+60,Van Romy,Female,19-11-2021,Landgraaf,NED,Netherlands,European Cup,Slopestyle,3,87.70
+61,Van Romy,Female,18-11-2021,Landgraaf,NED,Netherlands,FIS,Slopestyle,3,88.50
+62,Van Romy,Female,08-10-2021,Landgraaf,NED,Netherlands,FIS,Slopestyle,1,70.00
+63,Van Romy,Female,06-03-2021,Götschen,GER,Netherlands,FIS,Big Air,2,38.99
+64,Van Romy,Female,05-03-2021,Götschen,GER,Netherlands,European Cup,Big Air,5,45.61
+65,Van Romy,Female,22-02-2021,Götschen,GER,Netherlands,European Cup,Big Air,11,18.77
+66,Van Romy,Female,21-02-2021,Götschen,GER,Netherlands,European Cup,Slopestyle,9,36.04
+67,Van Romy,Female,31-01-2021,Crans Montana,SUI,Netherlands,European Cup,Slopestyle,12,18.11
+68,Van Romy,Female,26-11-2020,Glacier 3000,SUI,Netherlands,FIS,Slopestyle,13,27.64
+69,Van Romy,Female,21-11-2019,Landgraaf,NED,Netherlands,European Cup,Slopestyle,14,32.40
+70,Van Romy,Female,20-11-2019,Landgraaf,NED,Netherlands,FIS,Slopestyle,9,52.20
+71,Van Romy,Female,17-04-2019,Laax,BEL,Netherlands,FIS,Big Air,4,
+72,Van Romy,Female,16-04-2019,Laax,BEL,Netherlands,FIS,Slopestyle,4,
+73,Van Romy,Female,22-11-2018,Landgraaf,NED,Netherlands,European Cup,Slopestyle,5,72.00
+74,Van Romy,Female,21-11-2018,Landgraaf,NED,Netherlands,FIS,Slopestyle,7,36.00

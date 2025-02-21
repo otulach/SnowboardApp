@@ -1,28 +1,29 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Zhang Xiaonan,Female,10-02-2025,Yabuli Ski Resort,CHN,P.r. China,Asian Winter Games,Big Air,2,133.50
-1,Zhang Xiaonan,Female,08-02-2025,Yabuli Ski Resort,CHN,P.r. China,Asian Winter Games,Slopestyle,1,120.00
-2,Zhang Xiaonan,Female,18-01-2025,Laax,SUI,P.r. China,World Cup,Slopestyle,22,78.90
-3,Zhang Xiaonan,Female,16-01-2025,Laax,SUI,P.r. China,Qualification,Slopestyle,22,
-4,Zhang Xiaonan,Female,11-01-2025,Kreischberg,AUT,P.r. China,World Cup,Big Air,4,576.50
-5,Zhang Xiaonan,Female,09-01-2025,Kreischberg,AUT,P.r. China,Qualification,Big Air,7,
-6,Zhang Xiaonan,Female,05-01-2025,Klagenfurt,AUT,P.r. China,World Cup,Big Air,11,190.90
-7,Zhang Xiaonan,Female,03-01-2025,Klagenfurt,AUT,P.r. China,Qualification,Big Air,11,
-8,Zhang Xiaonan,Female,01-12-2024,Beijing,CHN,P.r. China,World Cup,Big Air,9,259.70
-9,Zhang Xiaonan,Female,30-11-2024,Beijing,CHN,P.r. China,Qualification,Big Air,9,
-10,Zhang Xiaonan,Female,19-10-2024,Chur,SUI,P.r. China,World Cup,Big Air,21,82.60
-11,Zhang Xiaonan,Female,02-09-2024,Cardrona,NZL,P.r. China,World Cup,Slopestyle,30,8.80
-12,Zhang Xiaonan,Female,31-08-2024,Cardrona,NZL,P.r. China,Qualification,Slopestyle,30,
-13,Zhang Xiaonan,Female,17-08-2024,The Remarkables,NZL,P.r. China,Australian New Zealand Cup,Slopestyle,4,64.90
-14,Zhang Xiaonan,Female,14-04-2024,Corvatsch,SUI,P.r. China,European Cup Premium,Big Air,9,133.90
-15,Zhang Xiaonan,Female,12-04-2024,Corvatsch,SUI,P.r. China,European Cup Premium,Slopestyle,17,43.50
-16,Zhang Xiaonan,Female,15-03-2024,Laax,SUI,P.r. China,Junior,Slopestyle,5,20.90
-17,Zhang Xiaonan,Female,12-03-2024,Laax,SUI,P.r. China,European Cup Premium,Slopestyle,14,25.80
-18,Zhang Xiaonan,Female,05-03-2024,Tiger Ridge Ski Resort,CHN,P.r. China,Asian Cup,Slopestyle,1,120.00
-19,Zhang Xiaonan,Female,04-03-2024,Tiger Ridge Mountain Park,CHN,P.r. China,Asian Cup,Slopestyle,1,120.00
-20,Zhang Xiaonan,Female,28-01-2024,Gangwon/Welli Hilli,KOR,P.r. China,Youth Olympic Winter Games,Big Air,8,50.50
-21,Zhang Xiaonan,Female,27-01-2024,Gangwon/Welli Hilli,KOR,P.r. China,Qualification,Big Air,9,
-22,Zhang Xiaonan,Female,24-01-2024,Gangwon/Welli Hilli,KOR,P.r. China,Youth Olympic Winter Games,Slopestyle,11,30.40
-23,Zhang Xiaonan,Female,04-09-2023,Cardrona,NZL,P.r. China,FIS Junior World Championships,Big Air,19,22.00
-24,Zhang Xiaonan,Female,02-09-2023,Cardrona,NZL,P.r. China,Qualification,Big Air,12,
-25,Zhang Xiaonan,Female,30-08-2023,Cardrona,NZL,P.r. China,FIS Junior World Championships,Slopestyle,11,58.20
-26,Zhang Xiaonan,Female,28-08-2023,Cardrona,NZL,P.r. China,Qualification,Slopestyle,4,
+0,Zhang Xiaonan,Female,20-02-2025,Calgary,CAN,P.r. China,Qualification,Slopestyle,19,
+1,Zhang Xiaonan,Female,10-02-2025,Yabuli Ski Resort,CHN,P.r. China,Asian Winter Games,Big Air,2,133.50
+2,Zhang Xiaonan,Female,08-02-2025,Yabuli Ski Resort,CHN,P.r. China,Asian Winter Games,Slopestyle,1,120.00
+3,Zhang Xiaonan,Female,18-01-2025,Laax,SUI,P.r. China,World Cup,Slopestyle,22,78.90
+4,Zhang Xiaonan,Female,16-01-2025,Laax,SUI,P.r. China,Qualification,Slopestyle,22,
+5,Zhang Xiaonan,Female,11-01-2025,Kreischberg,AUT,P.r. China,World Cup,Big Air,4,576.50
+6,Zhang Xiaonan,Female,09-01-2025,Kreischberg,AUT,P.r. China,Qualification,Big Air,7,
+7,Zhang Xiaonan,Female,05-01-2025,Klagenfurt,AUT,P.r. China,World Cup,Big Air,11,190.90
+8,Zhang Xiaonan,Female,03-01-2025,Klagenfurt,AUT,P.r. China,Qualification,Big Air,11,
+9,Zhang Xiaonan,Female,01-12-2024,Beijing,CHN,P.r. China,World Cup,Big Air,9,259.70
+10,Zhang Xiaonan,Female,30-11-2024,Beijing,CHN,P.r. China,Qualification,Big Air,9,
+11,Zhang Xiaonan,Female,19-10-2024,Chur,SUI,P.r. China,World Cup,Big Air,21,82.60
+12,Zhang Xiaonan,Female,02-09-2024,Cardrona,NZL,P.r. China,World Cup,Slopestyle,30,8.80
+13,Zhang Xiaonan,Female,31-08-2024,Cardrona,NZL,P.r. China,Qualification,Slopestyle,30,
+14,Zhang Xiaonan,Female,17-08-2024,The Remarkables,NZL,P.r. China,Australian New Zealand Cup,Slopestyle,4,64.90
+15,Zhang Xiaonan,Female,14-04-2024,Corvatsch,SUI,P.r. China,European Cup Premium,Big Air,9,133.90
+16,Zhang Xiaonan,Female,12-04-2024,Corvatsch,SUI,P.r. China,European Cup Premium,Slopestyle,17,43.50
+17,Zhang Xiaonan,Female,15-03-2024,Laax,SUI,P.r. China,Junior,Slopestyle,5,20.90
+18,Zhang Xiaonan,Female,12-03-2024,Laax,SUI,P.r. China,European Cup Premium,Slopestyle,14,25.80
+19,Zhang Xiaonan,Female,05-03-2024,Tiger Ridge Ski Resort,CHN,P.r. China,Asian Cup,Slopestyle,1,120.00
+20,Zhang Xiaonan,Female,04-03-2024,Tiger Ridge Mountain Park,CHN,P.r. China,Asian Cup,Slopestyle,1,120.00
+21,Zhang Xiaonan,Female,28-01-2024,Gangwon/Welli Hilli,KOR,P.r. China,Youth Olympic Winter Games,Big Air,8,50.50
+22,Zhang Xiaonan,Female,27-01-2024,Gangwon/Welli Hilli,KOR,P.r. China,Qualification,Big Air,9,
+23,Zhang Xiaonan,Female,24-01-2024,Gangwon/Welli Hilli,KOR,P.r. China,Youth Olympic Winter Games,Slopestyle,11,30.40
+24,Zhang Xiaonan,Female,04-09-2023,Cardrona,NZL,P.r. China,FIS Junior World Championships,Big Air,19,22.00
+25,Zhang Xiaonan,Female,02-09-2023,Cardrona,NZL,P.r. China,Qualification,Big Air,12,
+26,Zhang Xiaonan,Female,30-08-2023,Cardrona,NZL,P.r. China,FIS Junior World Championships,Slopestyle,11,58.20
+27,Zhang Xiaonan,Female,28-08-2023,Cardrona,NZL,P.r. China,Qualification,Slopestyle,4,

@@ -289,14 +289,14 @@ Date,Location,Country,Category,Discipline,Gender
 2025-02-23,Bozi,a,FIS,Parallel Slalom,Male
 2025-02-23,Bozi,a,JUN,Parallel Slalom,Male
 2025-02-23,Bozi,a,FIS,Parallel Slalom,Female
-2025-02-22,Funes,,FIS,Parallel Giant Slalom,Male
-2025-02-22,Funes,,FIS,Parallel Giant Slalom,Female
-2025-02-23,Funes,,FIS,Parallel Giant Slalom,Male
-2025-02-23,Funes,,FIS,Parallel Giant Slalom,Female
 2025-02-22,Lenzerheide,SUI,NC,Parallel Slalom,Male
 2025-02-22,Lenzerheide,SUI,NC,Parallel Slalom,Female
 2025-02-23,Lenzerheide,SUI,NC,Giant Slalom,Male
 2025-02-23,Lenzerheide,SUI,NC,Giant Slalom,Female
+2025-02-22,Funes,,FIS,Parallel Giant Slalom,Male
+2025-02-22,Funes,,FIS,Parallel Giant Slalom,Female
+2025-02-23,Funes,,FIS,Parallel Giant Slalom,Male
+2025-02-23,Funes,,FIS,Parallel Giant Slalom,Female
 2025-02-24,Holiday,alle,NAC,Parallel Giant Slalom,Male
 2025-02-24,Holiday,alle,NAC,Parallel Giant Slalom,Female
 2025-02-25,Holiday,alle,NAC,Parallel Giant Slalom,Male
@@ -315,10 +315,6 @@ Date,Location,Country,Category,Discipline,Gender
 2025-03-02,Spindleruv,ly,JUN,Parallel Slalom,Male
 2025-03-02,Spindleruv,ly,NC,Parallel Slalom,Female
 2025-03-02,Spindleruv,ly,JUN,Parallel Slalom,Female
-2025-03-01,Cedars,k,NC,Giant Slalom,Male
-2025-03-01,Cedars,k,NC,Giant Slalom,Female
-2025-03-02,Cedars,k,FIS,Giant Slalom,Male
-2025-03-02,Cedars,k,FIS,Giant Slalom,Female
 2025-03-01,Krynica,POL,WC,Parallel Giant Slalom,Male
 2025-03-01,Krynica,POL,WC,Parallel Giant Slalom,Female
 2025-03-01,Krynica,POL,QUA,Parallel Giant Slalom,Male
@@ -340,6 +336,10 @@ Date,Location,Country,Category,Discipline,Gender
 2025-03-04,Cedars,k,FIS,Giant Slalom,Male
 2025-03-04,Cedars,k,FIS,Giant Slalom,Male
 2025-03-04,Cedars,k,FIS,Giant Slalom,Female
+2025-03-04,Cedars,k,FIS,Giant Slalom,Female
+2025-03-03,Cedars,k,NC,Giant Slalom,Male
+2025-03-03,Cedars,k,NC,Giant Slalom,Female
+2025-03-04,Cedars,k,FIS,Giant Slalom,Male
 2025-03-04,Cedars,k,FIS,Giant Slalom,Female
 2025-03-04,High1resort,KOR,AC,Parallel Giant Slalom,Male
 2025-03-04,High1resort,KOR,AC,Parallel Giant Slalom,Female
@@ -366,6 +366,15 @@ Date,Location,Country,Category,Discipline,Gender
 2025-03-11,Horseshoe,esor,NJC,Parallel Giant Slalom,Female
 2025-03-12,Horseshoe,esor,NJC,Parallel Slalom,Male
 2025-03-12,Horseshoe,esor,NJC,Parallel Slalom,Female
+2025-03-15,Winterberg,GER,WC,Parallel Slalom,Male
+2025-03-15,Winterberg,GER,WC,Parallel Slalom,Female
+2025-03-15,Winterberg,GER,QUA,Parallel Slalom,Male
+2025-03-15,Winterberg,GER,QUA,Parallel Slalom,Female
+2025-03-16,Winterberg,GER,WC,Parallel Slalom Team,Female
+2025-03-15,Senales/schnals,ITA,FIS,Parallel Slalom,Male
+2025-03-15,Senales/schnals,ITA,FIS,Parallel Slalom,Female
+2025-03-16,Senales/schnals,ITA,FIS,Parallel Slalom,Male
+2025-03-16,Senales/schnals,ITA,FIS,Parallel Slalom,Female
 2025-03-15,Davos,SUI,EC,Parallel Giant Slalom,Male
 2025-03-15,Davos,SUI,EC,Parallel Giant Slalom,Female
 2025-03-15,Davos,SUI,QUA,Parallel Giant Slalom,Male
@@ -374,15 +383,6 @@ Date,Location,Country,Category,Discipline,Gender
 2025-03-16,Davos,SUI,EC,Parallel Giant Slalom,Female
 2025-03-16,Davos,SUI,QUA,Parallel Giant Slalom,Male
 2025-03-16,Davos,SUI,QUA,Parallel Giant Slalom,Female
-2025-03-15,Senales/schnals,ITA,FIS,Parallel Slalom,Male
-2025-03-15,Senales/schnals,ITA,FIS,Parallel Slalom,Female
-2025-03-16,Senales/schnals,ITA,FIS,Parallel Slalom,Male
-2025-03-16,Senales/schnals,ITA,FIS,Parallel Slalom,Female
-2025-03-15,Winterberg,GER,WC,Parallel Slalom,Male
-2025-03-15,Winterberg,GER,WC,Parallel Slalom,Female
-2025-03-15,Winterberg,GER,QUA,Parallel Slalom,Male
-2025-03-15,Winterberg,GER,QUA,Parallel Slalom,Female
-2025-03-16,Winterberg,GER,WC,Parallel Slalom Team,Female
 2025-03-20,Engadin,SUI,WSC,Parallel Giant Slalom,Male
 2025-03-20,Engadin,SUI,WSC,Parallel Giant Slalom,Female
 2025-03-20,Engadin,SUI,QUA,Parallel Giant Slalom,Male

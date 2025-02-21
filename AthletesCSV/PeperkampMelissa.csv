@@ -1,112 +1,113 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Peperkamp Melissa,Female,06-02-2025,Aspen,USA,Netherlands,World Cup,Big Air,10,230.50
-1,Peperkamp Melissa,Female,05-02-2025,Aspen,USA,Netherlands,Qualification,Big Air,10,
-2,Peperkamp Melissa,Female,02-02-2025,Aspen,USA,Netherlands,World Cup,Slopestyle,10,251.50
-3,Peperkamp Melissa,Female,31-01-2025,Aspen,USA,Netherlands,Qualification,Slopestyle,10,
-4,Peperkamp Melissa,Female,18-01-2025,Laax,SUI,Netherlands,World Cup,Slopestyle,15,156.00
-5,Peperkamp Melissa,Female,16-01-2025,Laax,SUI,Netherlands,Qualification,Slopestyle,15,
-6,Peperkamp Melissa,Female,11-01-2025,Kreischberg,AUT,Netherlands,World Cup,Big Air,12,195.90
-7,Peperkamp Melissa,Female,09-01-2025,Kreischberg,AUT,Netherlands,Qualification,Big Air,12,
-8,Peperkamp Melissa,Female,05-01-2025,Klagenfurt,AUT,Netherlands,World Cup,Big Air,9,255.00
-9,Peperkamp Melissa,Female,03-01-2025,Klagenfurt,AUT,Netherlands,Qualification,Big Air,9,
-10,Peperkamp Melissa,Female,01-12-2024,Beijing,CHN,Netherlands,World Cup,Big Air,15,111.90
-11,Peperkamp Melissa,Female,30-11-2024,Beijing,CHN,Netherlands,Qualification,Big Air,15,
-12,Peperkamp Melissa,Female,19-10-2024,Chur,SUI,Netherlands,World Cup,Big Air,29,9.20
-13,Peperkamp Melissa,Female,05-10-2024,SnowWorld Landgraaf,NED,Netherlands,FIS,Rail Event,9,10.50
-14,Peperkamp Melissa,Female,02-09-2024,Cardrona,NZL,Netherlands,World Cup,Slopestyle,6,423.20
-15,Peperkamp Melissa,Female,31-08-2024,Cardrona,NZL,Netherlands,Qualification,Slopestyle,6,
-16,Peperkamp Melissa,Female,14-04-2024,Corvatsch,SUI,Netherlands,European Cup Premium,Big Air,4,286.50
-17,Peperkamp Melissa,Female,12-04-2024,Corvatsch,SUI,Netherlands,European Cup Premium,Slopestyle,3,247.40
-18,Peperkamp Melissa,Female,23-03-2024,Silvaplana,SUI,Netherlands,World Cup,Slopestyle,12,142.00
-19,Peperkamp Melissa,Female,21-03-2024,Silvaplana,SUI,Netherlands,Qualification,Slopestyle,12,
-20,Peperkamp Melissa,Female,15-03-2024,Tignes,FRA,Netherlands,World Cup,Slopestyle,6,310.80
-21,Peperkamp Melissa,Female,14-03-2024,Tignes,FRA,Netherlands,Qualification,Slopestyle,7,
-22,Peperkamp Melissa,Female,22-04-2023,Kitzsteinhorn,AUT,Netherlands,European Cup,Big Air,2,197.00
-23,Peperkamp Melissa,Female,21-04-2023,Kitzsteinhorn,AUT,Netherlands,European Cup,Slopestyle,2,181.00
-24,Peperkamp Melissa,Female,17-04-2023,Corvatsch,SUI,Netherlands,European Cup Premium,Big Air,1,290.00
-25,Peperkamp Melissa,Female,14-04-2023,Corvatsch,SUI,Netherlands,European Cup Premium,Slopestyle,1,290.00
-26,Peperkamp Melissa,Female,29-03-2023,Leysin,SUI,Netherlands,FIS,Big Air,1,200.00
-27,Peperkamp Melissa,Female,28-03-2023,Leysin,SUI,Netherlands,FIS,Slopestyle,1,180.00
-28,Peperkamp Melissa,Female,25-03-2023,Silvaplana,SUI,Netherlands,World Cup,Slopestyle,11,97.50
-29,Peperkamp Melissa,Female,23-03-2023,Silvaplana,SUI,Netherlands,Qualification,Slopestyle,11,
-30,Peperkamp Melissa,Female,04-03-2023,Bakuriani,GEO,Netherlands,World Championships,Big Air,11,190.90
-31,Peperkamp Melissa,Female,02-03-2023,Bakuriani,GEO,Netherlands,Qualification,Big Air,11,
-32,Peperkamp Melissa,Female,27-02-2023,Bakuriani,GEO,Netherlands,Qualification,Slopestyle,10,
-33,Peperkamp Melissa,Female,27-02-2023,Bakuriani,GEO,Netherlands,World Championships,Slopestyle,10,248.60
-34,Peperkamp Melissa,Female,12-02-2023,Calgary,CAN,Netherlands,World Cup,Slopestyle,5,228.10
-35,Peperkamp Melissa,Female,11-02-2023,Calgary,CAN,Netherlands,Qualification,Slopestyle,5,
-36,Peperkamp Melissa,Female,04-02-2023,Mammoth Mountain,USA,Netherlands,World Cup,Slopestyle,7,202.00
-37,Peperkamp Melissa,Female,01-02-2023,Mammoth Mountain,USA,Netherlands,Qualification,Slopestyle,7,
-38,Peperkamp Melissa,Female,22-01-2023,Laax,SUI,Netherlands,World Cup,Slopestyle,11,218.80
-39,Peperkamp Melissa,Female,20-01-2023,Laax,SUI,Netherlands,Qualification,Slopestyle,11,
-40,Peperkamp Melissa,Female,14-01-2023,Kreischberg,AUT,Netherlands,Qualification,Big Air,7,
-41,Peperkamp Melissa,Female,14-01-2023,Kreischberg,AUT,Netherlands,World Cup,Big Air,7,345.00
-42,Peperkamp Melissa,Female,17-12-2022,Copper Mountain,USA,Netherlands,World Cup,Big Air,9,204.00
-43,Peperkamp Melissa,Female,15-12-2022,Copper Mountain,USA,Netherlands,Qualification,Big Air,9,
-44,Peperkamp Melissa,Female,10-12-2022,Edmonton,CAN,Netherlands,World Cup,Big Air,4,426.20
-45,Peperkamp Melissa,Female,09-12-2022,Edmonton,CAN,Netherlands,Qualification,Big Air,2,
-46,Peperkamp Melissa,Female,22-10-2022,Chur,SUI,Netherlands,World Cup,Big Air,20,14.70
-47,Peperkamp Melissa,Female,22-10-2022,Chur,SUI,Netherlands,Qualification,Big Air,20,
-48,Peperkamp Melissa,Female,09-04-2022,Corvatsch,SUI,Netherlands,European Cup Premium,Big Air,1,200.00
-49,Peperkamp Melissa,Female,07-04-2022,Corvatsch,SUI,Netherlands,European Cup Premium,Slopestyle,2,195.10
-50,Peperkamp Melissa,Female,27-03-2022,Silvaplana,SUI,Netherlands,World Cup,Slopestyle,11,168.40
-51,Peperkamp Melissa,Female,25-03-2022,Silvaplana,SUI,Netherlands,Qualification,Slopestyle,11,
-52,Peperkamp Melissa,Female,19-03-2022,Spindleruv Mlyn,CZE,Netherlands,World Cup,Slopestyle,5,264.20
-53,Peperkamp Melissa,Female,18-03-2022,Spindleruv Mlyn,CZE,Netherlands,Qualification,Slopestyle,2,
-54,Peperkamp Melissa,Female,13-03-2022,Leysin,SUI,Netherlands,FIS Junior World Championships,Slopestyle,4,137.80
-55,Peperkamp Melissa,Female,10-03-2022,Leysin,SUI,Netherlands,FIS Junior World Championships,Big Air,3,164.20
-56,Peperkamp Melissa,Female,15-02-2022,Beijing,CHN,Netherlands,Olympic Winter Games,Big Air,6,420.20
-57,Peperkamp Melissa,Female,14-02-2022,Beijing,CHN,Netherlands,Qualification,Big Air,11,
-58,Peperkamp Melissa,Female,06-02-2022,Beijing,CHN,Netherlands,Olympic Winter Games,Slopestyle,13,176.10
-59,Peperkamp Melissa,Female,05-02-2022,Beijing,CHN,Netherlands,Qualification,Slopestyle,13,
-60,Peperkamp Melissa,Female,15-01-2022,Laax,SUI,Netherlands,World Cup,Slopestyle,7,293.90
-61,Peperkamp Melissa,Female,14-01-2022,Laax,SUI,Netherlands,Qualification,Slopestyle,6,
-62,Peperkamp Melissa,Female,08-01-2022,Mammoth Mountain,USA,Netherlands,World Cup,Slopestyle,6,414.70
-63,Peperkamp Melissa,Female,06-01-2022,Mammoth Mountain,USA,Netherlands,Qualification,Slopestyle,7,
-64,Peperkamp Melissa,Female,01-01-2022,Calgary,CAN,Netherlands,World Cup,Slopestyle,4,455.90
-65,Peperkamp Melissa,Female,31-12-2021,Calgary,CAN,Netherlands,Qualification,Slopestyle,5,
-66,Peperkamp Melissa,Female,04-12-2021,Steamboat,USA,Netherlands,World Cup,Big Air,13,187.40
-67,Peperkamp Melissa,Female,02-12-2021,Steamboat,USA,Netherlands,Qualification,Big Air,13,
-68,Peperkamp Melissa,Female,23-10-2021,Chur,SUI,Netherlands,World Cup,Big Air,25,29.20
-69,Peperkamp Melissa,Female,20-04-2021,Corvatsch,SUI,Netherlands,European Cup Premium,Slopestyle,1,360.00
-70,Peperkamp Melissa,Female,18-04-2021,Corvatsch,SUI,Netherlands,European Cup Premium,Big Air,1,180.00
-71,Peperkamp Melissa,Female,28-03-2021,Silvaplana,SUI,Netherlands,Qualification,Slopestyle,4,
-72,Peperkamp Melissa,Female,28-03-2021,Silvaplana,SUI,Netherlands,World Cup,Slopestyle,5,290.40
-73,Peperkamp Melissa,Female,20-03-2021,Aspen,USA,Netherlands,World Cup,Slopestyle,14,166.92
-74,Peperkamp Melissa,Female,19-03-2021,Aspen,USA,Netherlands,Qualification,Slopestyle,14,
-75,Peperkamp Melissa,Female,16-03-2021,Aspen,USA,Netherlands,World Championships,Big Air,11,211.14
-76,Peperkamp Melissa,Female,14-03-2021,Aspen,USA,Netherlands,Qualification,Big Air,11,
-77,Peperkamp Melissa,Female,12-03-2021,Aspen,USA,Netherlands,World Championships,Slopestyle,10,242.25
-78,Peperkamp Melissa,Female,10-03-2021,Aspen,USA,Netherlands,Qualification,Slopestyle,10,
-79,Peperkamp Melissa,Female,22-01-2021,Laax,SUI,Netherlands,World Cup,Slopestyle,14,126.77
-80,Peperkamp Melissa,Female,20-01-2021,Laax,SUI,Netherlands,Qualification,Slopestyle,14,
-81,Peperkamp Melissa,Female,09-01-2021,Kreischberg,AUT,Netherlands,World Cup,Big Air,18,108.71
-82,Peperkamp Melissa,Female,07-01-2021,Kreischberg ,AUT,Netherlands,Qualification,Big Air,18,
-83,Peperkamp Melissa,Female,22-12-2020,Corvatsch,SUI,Netherlands,European Cup,Slopestyle,6,124.37
-84,Peperkamp Melissa,Female,16-02-2020,Calgary,CAN,Netherlands,World Cup,Slopestyle,9,290.00
-85,Peperkamp Melissa,Female,14-02-2020,Calgary,CAN,Netherlands,Qualification,Slopestyle,9,
-86,Peperkamp Melissa,Female,01-02-2020,Mammoth Mountain Resort,USA,Netherlands,World Cup,Slopestyle,6,400.00
-87,Peperkamp Melissa,Female,30-01-2020,Mammoth Mountain Resort,USA,Netherlands,Qualification,Slopestyle,7,
-88,Peperkamp Melissa,Female,22-01-2020,Leysin,SUI,Netherlands,Youth Olympic Winter Games,Big Air,3,108.00
-89,Peperkamp Melissa,Female,21-01-2020,Leysin,SUI,Netherlands,Qualification,Big Air,2,
-90,Peperkamp Melissa,Female,18-01-2020,Leysin,SUI,Netherlands,Youth Olympic Winter Games,Slopestyle,2,128.00
-91,Peperkamp Melissa,Female,20-12-2019,Atlanta,USA,Netherlands,World Cup,Big Air,21,
-92,Peperkamp Melissa,Female,21-11-2019,Landgraaf,NED,Netherlands,European Cup,Slopestyle,1,180.00
-93,Peperkamp Melissa,Female,20-11-2019,Landgraaf,NED,Netherlands,FIS,Slopestyle,1,180.00
-94,Peperkamp Melissa,Female,01-09-2019,Cardrona,NZL,Netherlands,Australian New Zealand Cup,Slopestyle,2,288.00
-95,Peperkamp Melissa,Female,17-04-2019,Laax,BEL,Netherlands,FIS,Big Air,3,
-96,Peperkamp Melissa,Female,16-04-2019,Laax,BEL,Netherlands,FIS,Slopestyle,1,
-97,Peperkamp Melissa,Female,13-04-2019,Klaeppen,SWE,Netherlands,FIS Junior World Championships,Big Air,8,76.80
-98,Peperkamp Melissa,Female,12-04-2019,Klaeppen,SWE,Netherlands,Qualification,Big Air,5,
-99,Peperkamp Melissa,Female,09-04-2019,Klaeppen,SWE,Netherlands,FIS Junior World Championships,Slopestyle,7,86.40
-100,Peperkamp Melissa,Female,08-04-2019,Klaeppen,SWE,Netherlands,Qualification,Slopestyle,2,
-101,Peperkamp Melissa,Female,22-03-2019,Laax,SUI,Netherlands,European Cup,Slopestyle,3,108.00
-102,Peperkamp Melissa,Female,17-01-2019,Kreischberg,AUT,Netherlands,European Cup,Big Air,1,160.00
-103,Peperkamp Melissa,Female,16-01-2019,Kreischberg,AUT,Netherlands,European Cup,Slopestyle,1,160.00
-104,Peperkamp Melissa,Female,22-11-2018,Landgraaf,NED,Netherlands,European Cup,Slopestyle,1,160.00
-105,Peperkamp Melissa,Female,21-11-2018,Landgraaf,NED,Netherlands,FIS,Slopestyle,3,60.00
-106,Peperkamp Melissa,Female,21-04-2018,Corvatsch,SUI,Netherlands,European Cup,Big Air,3,144.00
-107,Peperkamp Melissa,Female,18-04-2018,Corvatsch,SUI,Netherlands,European Cup,Slopestyle,7,115.20
-108,Peperkamp Melissa,Female,18-03-2018,Laax,SUI,Netherlands,European Cup,Slopestyle,3,108.00
-109,Peperkamp Melissa,Female,23-11-2017,Landgraaf,NED,Netherlands,European Cup,Slopestyle,4,80.00
-110,Peperkamp Melissa,Female,22-11-2017,Landgraaf,NED,Netherlands,FIS,Slopestyle,3,60.00
+0,Peperkamp Melissa,Female,20-02-2025,Calgary,CAN,Netherlands,Qualification,Slopestyle,7,
+1,Peperkamp Melissa,Female,06-02-2025,Aspen,USA,Netherlands,World Cup,Big Air,10,230.50
+2,Peperkamp Melissa,Female,05-02-2025,Aspen,USA,Netherlands,Qualification,Big Air,10,
+3,Peperkamp Melissa,Female,02-02-2025,Aspen,USA,Netherlands,World Cup,Slopestyle,10,251.50
+4,Peperkamp Melissa,Female,31-01-2025,Aspen,USA,Netherlands,Qualification,Slopestyle,10,
+5,Peperkamp Melissa,Female,18-01-2025,Laax,SUI,Netherlands,World Cup,Slopestyle,15,156.00
+6,Peperkamp Melissa,Female,16-01-2025,Laax,SUI,Netherlands,Qualification,Slopestyle,15,
+7,Peperkamp Melissa,Female,11-01-2025,Kreischberg,AUT,Netherlands,World Cup,Big Air,12,195.90
+8,Peperkamp Melissa,Female,09-01-2025,Kreischberg,AUT,Netherlands,Qualification,Big Air,12,
+9,Peperkamp Melissa,Female,05-01-2025,Klagenfurt,AUT,Netherlands,World Cup,Big Air,9,255.00
+10,Peperkamp Melissa,Female,03-01-2025,Klagenfurt,AUT,Netherlands,Qualification,Big Air,9,
+11,Peperkamp Melissa,Female,01-12-2024,Beijing,CHN,Netherlands,World Cup,Big Air,15,111.90
+12,Peperkamp Melissa,Female,30-11-2024,Beijing,CHN,Netherlands,Qualification,Big Air,15,
+13,Peperkamp Melissa,Female,19-10-2024,Chur,SUI,Netherlands,World Cup,Big Air,29,9.20
+14,Peperkamp Melissa,Female,05-10-2024,SnowWorld Landgraaf,NED,Netherlands,FIS,Rail Event,9,10.50
+15,Peperkamp Melissa,Female,02-09-2024,Cardrona,NZL,Netherlands,World Cup,Slopestyle,6,423.20
+16,Peperkamp Melissa,Female,31-08-2024,Cardrona,NZL,Netherlands,Qualification,Slopestyle,6,
+17,Peperkamp Melissa,Female,14-04-2024,Corvatsch,SUI,Netherlands,European Cup Premium,Big Air,4,286.50
+18,Peperkamp Melissa,Female,12-04-2024,Corvatsch,SUI,Netherlands,European Cup Premium,Slopestyle,3,247.40
+19,Peperkamp Melissa,Female,23-03-2024,Silvaplana,SUI,Netherlands,World Cup,Slopestyle,12,142.00
+20,Peperkamp Melissa,Female,21-03-2024,Silvaplana,SUI,Netherlands,Qualification,Slopestyle,12,
+21,Peperkamp Melissa,Female,15-03-2024,Tignes,FRA,Netherlands,World Cup,Slopestyle,6,310.80
+22,Peperkamp Melissa,Female,14-03-2024,Tignes,FRA,Netherlands,Qualification,Slopestyle,7,
+23,Peperkamp Melissa,Female,22-04-2023,Kitzsteinhorn,AUT,Netherlands,European Cup,Big Air,2,197.00
+24,Peperkamp Melissa,Female,21-04-2023,Kitzsteinhorn,AUT,Netherlands,European Cup,Slopestyle,2,181.00
+25,Peperkamp Melissa,Female,17-04-2023,Corvatsch,SUI,Netherlands,European Cup Premium,Big Air,1,290.00
+26,Peperkamp Melissa,Female,14-04-2023,Corvatsch,SUI,Netherlands,European Cup Premium,Slopestyle,1,290.00
+27,Peperkamp Melissa,Female,29-03-2023,Leysin,SUI,Netherlands,FIS,Big Air,1,200.00
+28,Peperkamp Melissa,Female,28-03-2023,Leysin,SUI,Netherlands,FIS,Slopestyle,1,180.00
+29,Peperkamp Melissa,Female,25-03-2023,Silvaplana,SUI,Netherlands,World Cup,Slopestyle,11,97.50
+30,Peperkamp Melissa,Female,23-03-2023,Silvaplana,SUI,Netherlands,Qualification,Slopestyle,11,
+31,Peperkamp Melissa,Female,04-03-2023,Bakuriani,GEO,Netherlands,World Championships,Big Air,11,190.90
+32,Peperkamp Melissa,Female,02-03-2023,Bakuriani,GEO,Netherlands,Qualification,Big Air,11,
+33,Peperkamp Melissa,Female,27-02-2023,Bakuriani,GEO,Netherlands,Qualification,Slopestyle,10,
+34,Peperkamp Melissa,Female,27-02-2023,Bakuriani,GEO,Netherlands,World Championships,Slopestyle,10,248.60
+35,Peperkamp Melissa,Female,12-02-2023,Calgary,CAN,Netherlands,World Cup,Slopestyle,5,228.10
+36,Peperkamp Melissa,Female,11-02-2023,Calgary,CAN,Netherlands,Qualification,Slopestyle,5,
+37,Peperkamp Melissa,Female,04-02-2023,Mammoth Mountain,USA,Netherlands,World Cup,Slopestyle,7,202.00
+38,Peperkamp Melissa,Female,01-02-2023,Mammoth Mountain,USA,Netherlands,Qualification,Slopestyle,7,
+39,Peperkamp Melissa,Female,22-01-2023,Laax,SUI,Netherlands,World Cup,Slopestyle,11,218.80
+40,Peperkamp Melissa,Female,20-01-2023,Laax,SUI,Netherlands,Qualification,Slopestyle,11,
+41,Peperkamp Melissa,Female,14-01-2023,Kreischberg,AUT,Netherlands,Qualification,Big Air,7,
+42,Peperkamp Melissa,Female,14-01-2023,Kreischberg,AUT,Netherlands,World Cup,Big Air,7,345.00
+43,Peperkamp Melissa,Female,17-12-2022,Copper Mountain,USA,Netherlands,World Cup,Big Air,9,204.00
+44,Peperkamp Melissa,Female,15-12-2022,Copper Mountain,USA,Netherlands,Qualification,Big Air,9,
+45,Peperkamp Melissa,Female,10-12-2022,Edmonton,CAN,Netherlands,World Cup,Big Air,4,426.20
+46,Peperkamp Melissa,Female,09-12-2022,Edmonton,CAN,Netherlands,Qualification,Big Air,2,
+47,Peperkamp Melissa,Female,22-10-2022,Chur,SUI,Netherlands,World Cup,Big Air,20,14.70
+48,Peperkamp Melissa,Female,22-10-2022,Chur,SUI,Netherlands,Qualification,Big Air,20,
+49,Peperkamp Melissa,Female,09-04-2022,Corvatsch,SUI,Netherlands,European Cup Premium,Big Air,1,200.00
+50,Peperkamp Melissa,Female,07-04-2022,Corvatsch,SUI,Netherlands,European Cup Premium,Slopestyle,2,195.10
+51,Peperkamp Melissa,Female,27-03-2022,Silvaplana,SUI,Netherlands,World Cup,Slopestyle,11,168.40
+52,Peperkamp Melissa,Female,25-03-2022,Silvaplana,SUI,Netherlands,Qualification,Slopestyle,11,
+53,Peperkamp Melissa,Female,19-03-2022,Spindleruv Mlyn,CZE,Netherlands,World Cup,Slopestyle,5,264.20
+54,Peperkamp Melissa,Female,18-03-2022,Spindleruv Mlyn,CZE,Netherlands,Qualification,Slopestyle,2,
+55,Peperkamp Melissa,Female,13-03-2022,Leysin,SUI,Netherlands,FIS Junior World Championships,Slopestyle,4,137.80
+56,Peperkamp Melissa,Female,10-03-2022,Leysin,SUI,Netherlands,FIS Junior World Championships,Big Air,3,164.20
+57,Peperkamp Melissa,Female,15-02-2022,Beijing,CHN,Netherlands,Olympic Winter Games,Big Air,6,420.20
+58,Peperkamp Melissa,Female,14-02-2022,Beijing,CHN,Netherlands,Qualification,Big Air,11,
+59,Peperkamp Melissa,Female,06-02-2022,Beijing,CHN,Netherlands,Olympic Winter Games,Slopestyle,13,176.10
+60,Peperkamp Melissa,Female,05-02-2022,Beijing,CHN,Netherlands,Qualification,Slopestyle,13,
+61,Peperkamp Melissa,Female,15-01-2022,Laax,SUI,Netherlands,World Cup,Slopestyle,7,293.90
+62,Peperkamp Melissa,Female,14-01-2022,Laax,SUI,Netherlands,Qualification,Slopestyle,6,
+63,Peperkamp Melissa,Female,08-01-2022,Mammoth Mountain,USA,Netherlands,World Cup,Slopestyle,6,414.70
+64,Peperkamp Melissa,Female,06-01-2022,Mammoth Mountain,USA,Netherlands,Qualification,Slopestyle,7,
+65,Peperkamp Melissa,Female,01-01-2022,Calgary,CAN,Netherlands,World Cup,Slopestyle,4,455.90
+66,Peperkamp Melissa,Female,31-12-2021,Calgary,CAN,Netherlands,Qualification,Slopestyle,5,
+67,Peperkamp Melissa,Female,04-12-2021,Steamboat,USA,Netherlands,World Cup,Big Air,13,187.40
+68,Peperkamp Melissa,Female,02-12-2021,Steamboat,USA,Netherlands,Qualification,Big Air,13,
+69,Peperkamp Melissa,Female,23-10-2021,Chur,SUI,Netherlands,World Cup,Big Air,25,29.20
+70,Peperkamp Melissa,Female,20-04-2021,Corvatsch,SUI,Netherlands,European Cup Premium,Slopestyle,1,360.00
+71,Peperkamp Melissa,Female,18-04-2021,Corvatsch,SUI,Netherlands,European Cup Premium,Big Air,1,180.00
+72,Peperkamp Melissa,Female,28-03-2021,Silvaplana,SUI,Netherlands,Qualification,Slopestyle,4,
+73,Peperkamp Melissa,Female,28-03-2021,Silvaplana,SUI,Netherlands,World Cup,Slopestyle,5,290.40
+74,Peperkamp Melissa,Female,20-03-2021,Aspen,USA,Netherlands,World Cup,Slopestyle,14,166.92
+75,Peperkamp Melissa,Female,19-03-2021,Aspen,USA,Netherlands,Qualification,Slopestyle,14,
+76,Peperkamp Melissa,Female,16-03-2021,Aspen,USA,Netherlands,World Championships,Big Air,11,211.14
+77,Peperkamp Melissa,Female,14-03-2021,Aspen,USA,Netherlands,Qualification,Big Air,11,
+78,Peperkamp Melissa,Female,12-03-2021,Aspen,USA,Netherlands,World Championships,Slopestyle,10,242.25
+79,Peperkamp Melissa,Female,10-03-2021,Aspen,USA,Netherlands,Qualification,Slopestyle,10,
+80,Peperkamp Melissa,Female,22-01-2021,Laax,SUI,Netherlands,World Cup,Slopestyle,14,126.77
+81,Peperkamp Melissa,Female,20-01-2021,Laax,SUI,Netherlands,Qualification,Slopestyle,14,
+82,Peperkamp Melissa,Female,09-01-2021,Kreischberg,AUT,Netherlands,World Cup,Big Air,18,108.71
+83,Peperkamp Melissa,Female,07-01-2021,Kreischberg ,AUT,Netherlands,Qualification,Big Air,18,
+84,Peperkamp Melissa,Female,22-12-2020,Corvatsch,SUI,Netherlands,European Cup,Slopestyle,6,124.37
+85,Peperkamp Melissa,Female,16-02-2020,Calgary,CAN,Netherlands,World Cup,Slopestyle,9,290.00
+86,Peperkamp Melissa,Female,14-02-2020,Calgary,CAN,Netherlands,Qualification,Slopestyle,9,
+87,Peperkamp Melissa,Female,01-02-2020,Mammoth Mountain Resort,USA,Netherlands,World Cup,Slopestyle,6,400.00
+88,Peperkamp Melissa,Female,30-01-2020,Mammoth Mountain Resort,USA,Netherlands,Qualification,Slopestyle,7,
+89,Peperkamp Melissa,Female,22-01-2020,Leysin,SUI,Netherlands,Youth Olympic Winter Games,Big Air,3,108.00
+90,Peperkamp Melissa,Female,21-01-2020,Leysin,SUI,Netherlands,Qualification,Big Air,2,
+91,Peperkamp Melissa,Female,18-01-2020,Leysin,SUI,Netherlands,Youth Olympic Winter Games,Slopestyle,2,128.00
+92,Peperkamp Melissa,Female,20-12-2019,Atlanta,USA,Netherlands,World Cup,Big Air,21,
+93,Peperkamp Melissa,Female,21-11-2019,Landgraaf,NED,Netherlands,European Cup,Slopestyle,1,180.00
+94,Peperkamp Melissa,Female,20-11-2019,Landgraaf,NED,Netherlands,FIS,Slopestyle,1,180.00
+95,Peperkamp Melissa,Female,01-09-2019,Cardrona,NZL,Netherlands,Australian New Zealand Cup,Slopestyle,2,288.00
+96,Peperkamp Melissa,Female,17-04-2019,Laax,BEL,Netherlands,FIS,Big Air,3,
+97,Peperkamp Melissa,Female,16-04-2019,Laax,BEL,Netherlands,FIS,Slopestyle,1,
+98,Peperkamp Melissa,Female,13-04-2019,Klaeppen,SWE,Netherlands,FIS Junior World Championships,Big Air,8,76.80
+99,Peperkamp Melissa,Female,12-04-2019,Klaeppen,SWE,Netherlands,Qualification,Big Air,5,
+100,Peperkamp Melissa,Female,09-04-2019,Klaeppen,SWE,Netherlands,FIS Junior World Championships,Slopestyle,7,86.40
+101,Peperkamp Melissa,Female,08-04-2019,Klaeppen,SWE,Netherlands,Qualification,Slopestyle,2,
+102,Peperkamp Melissa,Female,22-03-2019,Laax,SUI,Netherlands,European Cup,Slopestyle,3,108.00
+103,Peperkamp Melissa,Female,17-01-2019,Kreischberg,AUT,Netherlands,European Cup,Big Air,1,160.00
+104,Peperkamp Melissa,Female,16-01-2019,Kreischberg,AUT,Netherlands,European Cup,Slopestyle,1,160.00
+105,Peperkamp Melissa,Female,22-11-2018,Landgraaf,NED,Netherlands,European Cup,Slopestyle,1,160.00
+106,Peperkamp Melissa,Female,21-11-2018,Landgraaf,NED,Netherlands,FIS,Slopestyle,3,60.00
+107,Peperkamp Melissa,Female,21-04-2018,Corvatsch,SUI,Netherlands,European Cup,Big Air,3,144.00
+108,Peperkamp Melissa,Female,18-04-2018,Corvatsch,SUI,Netherlands,European Cup,Slopestyle,7,115.20
+109,Peperkamp Melissa,Female,18-03-2018,Laax,SUI,Netherlands,European Cup,Slopestyle,3,108.00
+110,Peperkamp Melissa,Female,23-11-2017,Landgraaf,NED,Netherlands,European Cup,Slopestyle,4,80.00
+111,Peperkamp Melissa,Female,22-11-2017,Landgraaf,NED,Netherlands,FIS,Slopestyle,3,60.00

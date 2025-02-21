@@ -1,109 +1,110 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Yanez Alvaro,Male,06-02-2025,Aspen,USA,Chile,World Cup,Big Air,43,36.00
-1,Yanez Alvaro,Male,05-02-2025,Aspen,USA,Chile,Qualification,Big Air,20,
-2,Yanez Alvaro,Male,02-02-2025,Aspen,USA,Chile,World Cup,Slopestyle,40,72.90
-3,Yanez Alvaro,Male,31-01-2025,Aspen,USA,Chile,Qualification,Slopestyle,20,
-4,Yanez Alvaro,Male,18-01-2025,Laax,SUI,Chile,World Cup,Slopestyle,36,102.00
-5,Yanez Alvaro,Male,16-01-2025,Laax,SUI,Chile,Qualification,Slopestyle,24,
-6,Yanez Alvaro,Male,11-01-2025,Kreischberg,AUT,Chile,Qualification,Big Air,14,
-7,Yanez Alvaro,Male,11-01-2025,Kreischberg,AUT,Chile,World Cup,Big Air,31,111.70
-8,Yanez Alvaro,Male,05-01-2025,Klagenfurt,AUT,Chile,Qualification,Big Air,22,
-9,Yanez Alvaro,Male,05-01-2025,Klagenfurt,AUT,Chile,World Cup,Big Air,46,5.70
-10,Yanez Alvaro,Male,19-10-2024,Chur,SUI,Chile,World Cup,Big Air,37,50.30
-11,Yanez Alvaro,Male,02-09-2024,Cardrona,NZL,Chile,World Cup,Slopestyle,52,9.70
-12,Yanez Alvaro,Male,31-08-2024,Cardrona,NZL,Chile,Qualification,Slopestyle,25,
-13,Yanez Alvaro,Male,18-08-2024,Cerro Catedral - Bariloche,ARG,Chile,South American Cup,Slopestyle,1,120.00
-14,Yanez Alvaro,Male,17-08-2024,Cerro Catedral - Bariloche,ARG,Chile,South American Cup,Slopestyle,3,82.40
-15,Yanez Alvaro,Male,02-08-2024,Valle Nevado,CHI,Chile,South American Cup,Big Air,6,41.50
-16,Yanez Alvaro,Male,01-08-2024,Valle Nevado,CHI,Chile,South American Cup,Big Air,2,97.60
-17,Yanez Alvaro,Male,30-07-2024,Valle Nevado,CHI,Chile,South American Cup,Slopestyle,1,120.00
-18,Yanez Alvaro,Male,29-07-2024,Valle Nevado,CHI,Chile,South American Cup,Slopestyle,2,97.80
-19,Yanez Alvaro,Male,14-04-2024,Corvatsch,SUI,Chile,European Cup Premium,Big Air,40,65.60
-20,Yanez Alvaro,Male,12-04-2024,Corvatsch,SUI,Chile,European Cup Premium,Slopestyle,23,99.90
-21,Yanez Alvaro,Male,23-03-2024,Silvaplana,SUI,Chile,World Cup,Slopestyle,48,47.60
-22,Yanez Alvaro,Male,21-03-2024,Silvaplana,SUI,Chile,Qualification,Slopestyle,22,
-23,Yanez Alvaro,Male,12-03-2024,Laax,SUI,Chile,European Cup Premium,Slopestyle,87,3.80
-24,Yanez Alvaro,Male,22-02-2024,Prato Nevoso,ITA,Chile,European Cup,Slopestyle,45,20.40
-25,Yanez Alvaro,Male,20-01-2024,Laax,SUI,Chile,World Cup,Slopestyle,43,69.20
-26,Yanez Alvaro,Male,16-01-2024,Laax,SUI,Chile,Qualification,Slopestyle,21,
-27,Yanez Alvaro,Male,05-01-2024,Font Romeu,FRA,Chile,European Cup,Big Air,22,35.80
-28,Yanez Alvaro,Male,04-01-2024,Font Romeu,FRA,Chile,European Cup Premium,Slopestyle,28,42.20
-29,Yanez Alvaro,Male,21-10-2023,Chur,SUI,Chile,Qualification,Big Air,15,
-30,Yanez Alvaro,Male,21-10-2023,Chur,SUI,Chile,World Cup,Big Air,32,107.00
-31,Yanez Alvaro,Male,19-08-2023,Valle Nevado,CHI,Chile,South American Cup,Slopestyle,3,78.90
-32,Yanez Alvaro,Male,18-08-2023,Valle Nevado,CHI,Chile,South American Cup,Slopestyle,1,120.00
-33,Yanez Alvaro,Male,15-08-2023,El Colorado,CHI,Chile,South American Cup,Big Air,7,27.80
-34,Yanez Alvaro,Male,14-08-2023,El Colorado,CHI,Chile,South American Cup,Big Air,1,120.00
-35,Yanez Alvaro,Male,06-08-2023,Cerro Catedral,ARG,Chile,South American Cup,Big Air,7,11.20
-36,Yanez Alvaro,Male,05-08-2023,Cerro Catedral,ARG,Chile,South American Cup,Slopestyle,1,120.00
-37,Yanez Alvaro,Male,04-08-2023,Cerro Catedral,ARG,Chile,South American Cup,Slopestyle,2,98.80
-38,Yanez Alvaro,Male,29-03-2023,Ruka,FIN,Chile,European Cup,Slopestyle,5,55.80
-39,Yanez Alvaro,Male,20-03-2023,Mottolino Livigno,ITA,Chile,European Cup,Slopestyle,38,19.70
-40,Yanez Alvaro,Male,17-03-2023,Laax,SUI,Chile,European Cup Premium,Slopestyle,44,58.30
-41,Yanez Alvaro,Male,04-03-2023,Bakuriani,GEO,Chile,World Championships,Big Air,24,92.50
-42,Yanez Alvaro,Male,02-03-2023,Bakuriani,GEO,Chile,Qualification,Big Air,12,
-43,Yanez Alvaro,Male,27-02-2023,Bakuriani,GEO,Chile,World Championships,Slopestyle,49,8.20
-44,Yanez Alvaro,Male,24-02-2023,Bakuriani,GEO,Chile,Qualification,Slopestyle,25,
-45,Yanez Alvaro,Male,04-02-2023,Font Romeu,FRA,Chile,European Cup,Big Air,12,39.90
-46,Yanez Alvaro,Male,02-02-2023,Font Romeu,FRA,Chile,European Cup,Slopestyle,30,17.50
-47,Yanez Alvaro,Male,14-01-2023,Kreischberg,AUT,Chile,World Cup,Big Air,DNS,
-48,Yanez Alvaro,Male,13-01-2023,Kreischberg,AUT,Chile,Qualification,Big Air,DNS,
-49,Yanez Alvaro,Male,22-10-2022,Chur,SUI,Chile,World Cup,Big Air,28,86.00
-50,Yanez Alvaro,Male,22-10-2022,Chur,SUI,Chile,Qualification,Big Air,12,
-51,Yanez Alvaro,Male,21-09-2022,Chapelco,ARG,Chile,South American Cup,Slopestyle,1,120.00
-52,Yanez Alvaro,Male,12-09-2022,Cerro Catedral,ARG,Chile,South American Cup,Big Air,1,120.00
-53,Yanez Alvaro,Male,10-09-2022,Cerro Catedral,ARG,Chile,South American Cup,Big Air,1,120.00
-54,Yanez Alvaro,Male,09-09-2022,Cerro Catedral,ARG,Chile,South American Cup,Slopestyle,2,97.30
-55,Yanez Alvaro,Male,08-09-2022,Cerro Catedral,ARG,Chile,South American Cup,Slopestyle,4,64.90
-56,Yanez Alvaro,Male,09-08-2022,El Colorado,CHI,Chile,South American Cup,Big Air,2,97.60
-57,Yanez Alvaro,Male,08-08-2022,El Colorado,CHI,Chile,South American Cup,Big Air,13,6.60
-58,Yanez Alvaro,Male,05-08-2022,La Parva,CHI,Chile,South American Cup,Slopestyle,11,11.70
-59,Yanez Alvaro,Male,05-08-2022,La Parva,CHI,Chile,South American Cup,Slopestyle,14,3.20
-60,Yanez Alvaro,Male,27-03-2022,Silvaplana,SUI,Chile,World Cup,Slopestyle,43,28.80
-61,Yanez Alvaro,Male,25-03-2022,Silvaplana,SUI,Chile,Qualification,Slopestyle,22,
-62,Yanez Alvaro,Male,19-03-2022,Spindleruv Mlyn,CZE,Chile,World Cup,Slopestyle,23,69.50
-63,Yanez Alvaro,Male,18-03-2022,Spindleruv Mlyn,CZE,Chile,Qualification,Slopestyle,13,
-64,Yanez Alvaro,Male,26-02-2022,Götschen,GER,Chile,European Cup,Big Air,6,88.80
-65,Yanez Alvaro,Male,25-02-2022,Götschen,GER,Chile,European Cup,Slopestyle,56,10.10
-66,Yanez Alvaro,Male,15-01-2022,Laax,SUI,Chile,World Cup,Slopestyle,33,69.70
-67,Yanez Alvaro,Male,13-01-2022,Laax,SUI,Chile,Qualification,Slopestyle,18,
-68,Yanez Alvaro,Male,01-01-2022,Calgary,CAN,Chile,World Cup,Slopestyle,35,61.50
-69,Yanez Alvaro,Male,31-12-2021,Calgary,CAN,Chile,Qualification,Slopestyle,19,
-70,Yanez Alvaro,Male,23-10-2021,Chur,SUI,Chile,World Cup,Big Air,30,99.70
-71,Yanez Alvaro,Male,10-09-2021,La Parva,CHI,Chile,National Championships,Big Air,6,9.80
-72,Yanez Alvaro,Male,10-09-2021,La Parva,CHI,Chile,National Junior Championships,Big Air,2,39.00
-73,Yanez Alvaro,Male,08-09-2021,La Parva,CHI,Chile,National Junior Championships,Slopestyle,8,0.10
-74,Yanez Alvaro,Male,07-09-2021,La Parva,CHI,Chile,National Championships,Slopestyle,1,50.00
-75,Yanez Alvaro,Male,28-03-2021,Silvaplana,SUI,Chile,Qualification,Slopestyle,19,
-76,Yanez Alvaro,Male,28-03-2021,Silvaplana,SUI,Chile,World Cup,Slopestyle,40,84.90
-77,Yanez Alvaro,Male,20-03-2021,Aspen,USA,Chile,World Cup,Slopestyle,43,75.13
-78,Yanez Alvaro,Male,19-03-2021,Aspen,USA,Chile,Qualification,Slopestyle,21,
-79,Yanez Alvaro,Male,16-03-2021,Aspen,USA,Chile,World Championships,Big Air,42,53.69
-80,Yanez Alvaro,Male,14-03-2021,Aspen,USA,Chile,Qualification,Big Air,24,
-81,Yanez Alvaro,Male,12-03-2021,Aspen,USA,Chile,World Championships,Slopestyle,35,89.89
-82,Yanez Alvaro,Male,10-03-2021,Aspen,USA,Chile,Qualification,Slopestyle,19,
-83,Yanez Alvaro,Male,22-01-2020,Leysin,SUI,Chile,Qualification,Big Air,18,
-84,Yanez Alvaro,Male,22-01-2020,Leysin,SUI,Chile,Youth Olympic Winter Games,Big Air,18,26.00
-85,Yanez Alvaro,Male,20-01-2020,Leysin,SUI,Chile,Youth Olympic Winter Games,Slopestyle,9,52.20
-86,Yanez Alvaro,Male,24-09-2019,Chapelco,ARG,Chile,South American Cup,Slopestyle,1,160.00
-87,Yanez Alvaro,Male,23-09-2019,Chapelco,ARG,Chile,National Championships,Slopestyle,6,44.00
-88,Yanez Alvaro,Male,08-09-2019,Cerro Catedral,ARG,Chile,South American Cup,Big Air,2,128.00
-89,Yanez Alvaro,Male,07-09-2019,Cerro Catedral,ARG,Chile,South American Cup,Big Air,4,80.00
-90,Yanez Alvaro,Male,04-08-2019,La Parva,CHI,Chile,South American Cup,Slopestyle,19,19.20
-91,Yanez Alvaro,Male,03-08-2019,La Parva,CHI,Chile,South American Cup,Slopestyle,2,128.00
-92,Yanez Alvaro,Male,13-04-2019,Klaeppen,SWE,Chile,FIS Junior World Championships,Big Air,37,4.66
-93,Yanez Alvaro,Male,12-04-2019,Klaeppen,SWE,Chile,Qualification,Big Air,11,
-94,Yanez Alvaro,Male,09-04-2019,Klaeppen,SWE,Chile,FIS Junior World Championships,Slopestyle,9,69.60
-95,Yanez Alvaro,Male,08-04-2019,Klaeppen,SWE,Chile,Qualification,Slopestyle,4,
-96,Yanez Alvaro,Male,15-09-2018,Cerro Catedral,ARG,Chile,South American Cup,Big Air,5,72.00
-97,Yanez Alvaro,Male,14-09-2018,Cerro Catedral,ARG,Chile,South American Cup,Big Air,DNS,
-98,Yanez Alvaro,Male,11-09-2018,Corralco,CHI,Chile,FIS,Big Air,1,50.00
-99,Yanez Alvaro,Male,05-08-2018,La Parva,CHI,Chile,South American Cup,Slopestyle,6,64.00
-100,Yanez Alvaro,Male,04-08-2018,La Parva,CHI,Chile,South American Cup,Slopestyle,5,72.00
-101,Yanez Alvaro,Male,12-08-2017,La Parva,CHI,Chile,South American Cup,Slopestyle,13,32.00
-102,Yanez Alvaro,Male,11-08-2017,La Parva,CHI,Chile,South American Cup,Slopestyle,11,38.40
-103,Yanez Alvaro,Male,01-04-2017,Spindleruv Mlyn,CZE,Chile,FIS Junior World Championships,Big Air,73,
-104,Yanez Alvaro,Male,31-03-2017,Spindleruv Mlyn,CZE,Chile,FIS Junior World Championships,Slopestyle,69,3.53
-105,Yanez Alvaro,Male,30-03-2017,Spindleruv Mlyn,CZE,Chile,Qualification,Slopestyle,15,
-106,Yanez Alvaro,Male,29-03-2017,Spindleruv Mlyn,CZE,Chile,Qualification,Big Air,19,
-107,Yanez Alvaro,Male,25-02-2017,Davos,SUI,Chile,European Cup,Big Air,35,3.20
+0,Yanez Alvaro,Male,20-02-2025,Calgary,CAN,Chile,Qualification,Slopestyle,17,
+1,Yanez Alvaro,Male,06-02-2025,Aspen,USA,Chile,World Cup,Big Air,43,36.00
+2,Yanez Alvaro,Male,05-02-2025,Aspen,USA,Chile,Qualification,Big Air,20,
+3,Yanez Alvaro,Male,02-02-2025,Aspen,USA,Chile,World Cup,Slopestyle,40,72.90
+4,Yanez Alvaro,Male,31-01-2025,Aspen,USA,Chile,Qualification,Slopestyle,20,
+5,Yanez Alvaro,Male,18-01-2025,Laax,SUI,Chile,World Cup,Slopestyle,36,102.00
+6,Yanez Alvaro,Male,16-01-2025,Laax,SUI,Chile,Qualification,Slopestyle,24,
+7,Yanez Alvaro,Male,11-01-2025,Kreischberg,AUT,Chile,Qualification,Big Air,14,
+8,Yanez Alvaro,Male,11-01-2025,Kreischberg,AUT,Chile,World Cup,Big Air,31,111.70
+9,Yanez Alvaro,Male,05-01-2025,Klagenfurt,AUT,Chile,Qualification,Big Air,22,
+10,Yanez Alvaro,Male,05-01-2025,Klagenfurt,AUT,Chile,World Cup,Big Air,46,5.70
+11,Yanez Alvaro,Male,19-10-2024,Chur,SUI,Chile,World Cup,Big Air,37,50.30
+12,Yanez Alvaro,Male,02-09-2024,Cardrona,NZL,Chile,World Cup,Slopestyle,52,9.70
+13,Yanez Alvaro,Male,31-08-2024,Cardrona,NZL,Chile,Qualification,Slopestyle,25,
+14,Yanez Alvaro,Male,18-08-2024,Cerro Catedral - Bariloche,ARG,Chile,South American Cup,Slopestyle,1,120.00
+15,Yanez Alvaro,Male,17-08-2024,Cerro Catedral - Bariloche,ARG,Chile,South American Cup,Slopestyle,3,82.40
+16,Yanez Alvaro,Male,02-08-2024,Valle Nevado,CHI,Chile,South American Cup,Big Air,6,41.50
+17,Yanez Alvaro,Male,01-08-2024,Valle Nevado,CHI,Chile,South American Cup,Big Air,2,97.60
+18,Yanez Alvaro,Male,30-07-2024,Valle Nevado,CHI,Chile,South American Cup,Slopestyle,1,120.00
+19,Yanez Alvaro,Male,29-07-2024,Valle Nevado,CHI,Chile,South American Cup,Slopestyle,2,97.80
+20,Yanez Alvaro,Male,14-04-2024,Corvatsch,SUI,Chile,European Cup Premium,Big Air,40,65.60
+21,Yanez Alvaro,Male,12-04-2024,Corvatsch,SUI,Chile,European Cup Premium,Slopestyle,23,99.90
+22,Yanez Alvaro,Male,23-03-2024,Silvaplana,SUI,Chile,World Cup,Slopestyle,48,47.60
+23,Yanez Alvaro,Male,21-03-2024,Silvaplana,SUI,Chile,Qualification,Slopestyle,22,
+24,Yanez Alvaro,Male,12-03-2024,Laax,SUI,Chile,European Cup Premium,Slopestyle,87,3.80
+25,Yanez Alvaro,Male,22-02-2024,Prato Nevoso,ITA,Chile,European Cup,Slopestyle,45,20.40
+26,Yanez Alvaro,Male,20-01-2024,Laax,SUI,Chile,World Cup,Slopestyle,43,69.20
+27,Yanez Alvaro,Male,16-01-2024,Laax,SUI,Chile,Qualification,Slopestyle,21,
+28,Yanez Alvaro,Male,05-01-2024,Font Romeu,FRA,Chile,European Cup,Big Air,22,35.80
+29,Yanez Alvaro,Male,04-01-2024,Font Romeu,FRA,Chile,European Cup Premium,Slopestyle,28,42.20
+30,Yanez Alvaro,Male,21-10-2023,Chur,SUI,Chile,Qualification,Big Air,15,
+31,Yanez Alvaro,Male,21-10-2023,Chur,SUI,Chile,World Cup,Big Air,32,107.00
+32,Yanez Alvaro,Male,19-08-2023,Valle Nevado,CHI,Chile,South American Cup,Slopestyle,3,78.90
+33,Yanez Alvaro,Male,18-08-2023,Valle Nevado,CHI,Chile,South American Cup,Slopestyle,1,120.00
+34,Yanez Alvaro,Male,15-08-2023,El Colorado,CHI,Chile,South American Cup,Big Air,7,27.80
+35,Yanez Alvaro,Male,14-08-2023,El Colorado,CHI,Chile,South American Cup,Big Air,1,120.00
+36,Yanez Alvaro,Male,06-08-2023,Cerro Catedral,ARG,Chile,South American Cup,Big Air,7,11.20
+37,Yanez Alvaro,Male,05-08-2023,Cerro Catedral,ARG,Chile,South American Cup,Slopestyle,1,120.00
+38,Yanez Alvaro,Male,04-08-2023,Cerro Catedral,ARG,Chile,South American Cup,Slopestyle,2,98.80
+39,Yanez Alvaro,Male,29-03-2023,Ruka,FIN,Chile,European Cup,Slopestyle,5,55.80
+40,Yanez Alvaro,Male,20-03-2023,Mottolino Livigno,ITA,Chile,European Cup,Slopestyle,38,19.70
+41,Yanez Alvaro,Male,17-03-2023,Laax,SUI,Chile,European Cup Premium,Slopestyle,44,58.30
+42,Yanez Alvaro,Male,04-03-2023,Bakuriani,GEO,Chile,World Championships,Big Air,24,92.50
+43,Yanez Alvaro,Male,02-03-2023,Bakuriani,GEO,Chile,Qualification,Big Air,12,
+44,Yanez Alvaro,Male,27-02-2023,Bakuriani,GEO,Chile,World Championships,Slopestyle,49,8.20
+45,Yanez Alvaro,Male,24-02-2023,Bakuriani,GEO,Chile,Qualification,Slopestyle,25,
+46,Yanez Alvaro,Male,04-02-2023,Font Romeu,FRA,Chile,European Cup,Big Air,12,39.90
+47,Yanez Alvaro,Male,02-02-2023,Font Romeu,FRA,Chile,European Cup,Slopestyle,30,17.50
+48,Yanez Alvaro,Male,14-01-2023,Kreischberg,AUT,Chile,World Cup,Big Air,DNS,
+49,Yanez Alvaro,Male,13-01-2023,Kreischberg,AUT,Chile,Qualification,Big Air,DNS,
+50,Yanez Alvaro,Male,22-10-2022,Chur,SUI,Chile,World Cup,Big Air,28,86.00
+51,Yanez Alvaro,Male,22-10-2022,Chur,SUI,Chile,Qualification,Big Air,12,
+52,Yanez Alvaro,Male,21-09-2022,Chapelco,ARG,Chile,South American Cup,Slopestyle,1,120.00
+53,Yanez Alvaro,Male,12-09-2022,Cerro Catedral,ARG,Chile,South American Cup,Big Air,1,120.00
+54,Yanez Alvaro,Male,10-09-2022,Cerro Catedral,ARG,Chile,South American Cup,Big Air,1,120.00
+55,Yanez Alvaro,Male,09-09-2022,Cerro Catedral,ARG,Chile,South American Cup,Slopestyle,2,97.30
+56,Yanez Alvaro,Male,08-09-2022,Cerro Catedral,ARG,Chile,South American Cup,Slopestyle,4,64.90
+57,Yanez Alvaro,Male,09-08-2022,El Colorado,CHI,Chile,South American Cup,Big Air,2,97.60
+58,Yanez Alvaro,Male,08-08-2022,El Colorado,CHI,Chile,South American Cup,Big Air,13,6.60
+59,Yanez Alvaro,Male,05-08-2022,La Parva,CHI,Chile,South American Cup,Slopestyle,11,11.70
+60,Yanez Alvaro,Male,05-08-2022,La Parva,CHI,Chile,South American Cup,Slopestyle,14,3.20
+61,Yanez Alvaro,Male,27-03-2022,Silvaplana,SUI,Chile,World Cup,Slopestyle,43,28.80
+62,Yanez Alvaro,Male,25-03-2022,Silvaplana,SUI,Chile,Qualification,Slopestyle,22,
+63,Yanez Alvaro,Male,19-03-2022,Spindleruv Mlyn,CZE,Chile,World Cup,Slopestyle,23,69.50
+64,Yanez Alvaro,Male,18-03-2022,Spindleruv Mlyn,CZE,Chile,Qualification,Slopestyle,13,
+65,Yanez Alvaro,Male,26-02-2022,Götschen,GER,Chile,European Cup,Big Air,6,88.80
+66,Yanez Alvaro,Male,25-02-2022,Götschen,GER,Chile,European Cup,Slopestyle,56,10.10
+67,Yanez Alvaro,Male,15-01-2022,Laax,SUI,Chile,World Cup,Slopestyle,33,69.70
+68,Yanez Alvaro,Male,13-01-2022,Laax,SUI,Chile,Qualification,Slopestyle,18,
+69,Yanez Alvaro,Male,01-01-2022,Calgary,CAN,Chile,World Cup,Slopestyle,35,61.50
+70,Yanez Alvaro,Male,31-12-2021,Calgary,CAN,Chile,Qualification,Slopestyle,19,
+71,Yanez Alvaro,Male,23-10-2021,Chur,SUI,Chile,World Cup,Big Air,30,99.70
+72,Yanez Alvaro,Male,10-09-2021,La Parva,CHI,Chile,National Championships,Big Air,6,9.80
+73,Yanez Alvaro,Male,10-09-2021,La Parva,CHI,Chile,National Junior Championships,Big Air,2,39.00
+74,Yanez Alvaro,Male,08-09-2021,La Parva,CHI,Chile,National Junior Championships,Slopestyle,8,0.10
+75,Yanez Alvaro,Male,07-09-2021,La Parva,CHI,Chile,National Championships,Slopestyle,1,50.00
+76,Yanez Alvaro,Male,28-03-2021,Silvaplana,SUI,Chile,Qualification,Slopestyle,19,
+77,Yanez Alvaro,Male,28-03-2021,Silvaplana,SUI,Chile,World Cup,Slopestyle,40,84.90
+78,Yanez Alvaro,Male,20-03-2021,Aspen,USA,Chile,World Cup,Slopestyle,43,75.13
+79,Yanez Alvaro,Male,19-03-2021,Aspen,USA,Chile,Qualification,Slopestyle,21,
+80,Yanez Alvaro,Male,16-03-2021,Aspen,USA,Chile,World Championships,Big Air,42,53.69
+81,Yanez Alvaro,Male,14-03-2021,Aspen,USA,Chile,Qualification,Big Air,24,
+82,Yanez Alvaro,Male,12-03-2021,Aspen,USA,Chile,World Championships,Slopestyle,35,89.89
+83,Yanez Alvaro,Male,10-03-2021,Aspen,USA,Chile,Qualification,Slopestyle,19,
+84,Yanez Alvaro,Male,22-01-2020,Leysin,SUI,Chile,Qualification,Big Air,18,
+85,Yanez Alvaro,Male,22-01-2020,Leysin,SUI,Chile,Youth Olympic Winter Games,Big Air,18,26.00
+86,Yanez Alvaro,Male,20-01-2020,Leysin,SUI,Chile,Youth Olympic Winter Games,Slopestyle,9,52.20
+87,Yanez Alvaro,Male,24-09-2019,Chapelco,ARG,Chile,South American Cup,Slopestyle,1,160.00
+88,Yanez Alvaro,Male,23-09-2019,Chapelco,ARG,Chile,National Championships,Slopestyle,6,44.00
+89,Yanez Alvaro,Male,08-09-2019,Cerro Catedral,ARG,Chile,South American Cup,Big Air,2,128.00
+90,Yanez Alvaro,Male,07-09-2019,Cerro Catedral,ARG,Chile,South American Cup,Big Air,4,80.00
+91,Yanez Alvaro,Male,04-08-2019,La Parva,CHI,Chile,South American Cup,Slopestyle,19,19.20
+92,Yanez Alvaro,Male,03-08-2019,La Parva,CHI,Chile,South American Cup,Slopestyle,2,128.00
+93,Yanez Alvaro,Male,13-04-2019,Klaeppen,SWE,Chile,FIS Junior World Championships,Big Air,37,4.66
+94,Yanez Alvaro,Male,12-04-2019,Klaeppen,SWE,Chile,Qualification,Big Air,11,
+95,Yanez Alvaro,Male,09-04-2019,Klaeppen,SWE,Chile,FIS Junior World Championships,Slopestyle,9,69.60
+96,Yanez Alvaro,Male,08-04-2019,Klaeppen,SWE,Chile,Qualification,Slopestyle,4,
+97,Yanez Alvaro,Male,15-09-2018,Cerro Catedral,ARG,Chile,South American Cup,Big Air,5,72.00
+98,Yanez Alvaro,Male,14-09-2018,Cerro Catedral,ARG,Chile,South American Cup,Big Air,DNS,
+99,Yanez Alvaro,Male,11-09-2018,Corralco,CHI,Chile,FIS,Big Air,1,50.00
+100,Yanez Alvaro,Male,05-08-2018,La Parva,CHI,Chile,South American Cup,Slopestyle,6,64.00
+101,Yanez Alvaro,Male,04-08-2018,La Parva,CHI,Chile,South American Cup,Slopestyle,5,72.00
+102,Yanez Alvaro,Male,12-08-2017,La Parva,CHI,Chile,South American Cup,Slopestyle,13,32.00
+103,Yanez Alvaro,Male,11-08-2017,La Parva,CHI,Chile,South American Cup,Slopestyle,11,38.40
+104,Yanez Alvaro,Male,01-04-2017,Spindleruv Mlyn,CZE,Chile,FIS Junior World Championships,Big Air,73,
+105,Yanez Alvaro,Male,31-03-2017,Spindleruv Mlyn,CZE,Chile,FIS Junior World Championships,Slopestyle,69,3.53
+106,Yanez Alvaro,Male,30-03-2017,Spindleruv Mlyn,CZE,Chile,Qualification,Slopestyle,15,
+107,Yanez Alvaro,Male,29-03-2017,Spindleruv Mlyn,CZE,Chile,Qualification,Big Air,19,
+108,Yanez Alvaro,Male,25-02-2017,Davos,SUI,Chile,European Cup,Big Air,35,3.20

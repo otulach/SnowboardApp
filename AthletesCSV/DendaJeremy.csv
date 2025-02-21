@@ -1,79 +1,80 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Denda Jeremy,Male,06-02-2025,Aspen,USA,Switzerland,World Cup,Big Air,46,20.70
-1,Denda Jeremy,Male,05-02-2025,Aspen,USA,Switzerland,Qualification,Big Air,24,
-2,Denda Jeremy,Male,02-02-2025,Aspen,USA,Switzerland,World Cup,Slopestyle,38,82.10
-3,Denda Jeremy,Male,31-01-2025,Aspen,USA,Switzerland,Qualification,Slopestyle,18,
-4,Denda Jeremy,Male,18-01-2025,Laax,SUI,Switzerland,World Cup,Slopestyle,43,72.20
-5,Denda Jeremy,Male,16-01-2025,Laax,SUI,Switzerland,Qualification,Slopestyle,26,
-6,Denda Jeremy,Male,11-01-2025,Kreischberg,AUT,Switzerland,Qualification,Big Air,24,
-7,Denda Jeremy,Male,11-01-2025,Kreischberg,AUT,Switzerland,World Cup,Big Air,46,41.90
-8,Denda Jeremy,Male,05-01-2025,Klagenfurt,AUT,Switzerland,World Cup,Big Air,20,153.40
-9,Denda Jeremy,Male,05-01-2025,Klagenfurt,AUT,Switzerland,Qualification,Big Air,8,
-10,Denda Jeremy,Male,19-10-2024,Chur,SUI,Switzerland,World Cup,Big Air,44,11.40
-11,Denda Jeremy,Male,02-09-2024,Cardrona,NZL,Switzerland,World Cup,Slopestyle,51,14.40
-12,Denda Jeremy,Male,31-08-2024,Cardrona,NZL,Switzerland,Qualification,Slopestyle,27,
-13,Denda Jeremy,Male,14-04-2024,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,69,21.40
-14,Denda Jeremy,Male,12-04-2024,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,10,153.70
-15,Denda Jeremy,Male,23-03-2024,Silvaplana,SUI,Switzerland,World Cup,Slopestyle,8,350.20
-16,Denda Jeremy,Male,21-03-2024,Silvaplana,SUI,Switzerland,Qualification,Slopestyle,7,
-17,Denda Jeremy,Male,15-03-2024,Tignes,FRA,Switzerland,World Cup,Slopestyle,35,89.90
+0,Denda Jeremy,Male,20-02-2025,Calgary,CAN,Switzerland,Qualification,Slopestyle,DNS,
+1,Denda Jeremy,Male,06-02-2025,Aspen,USA,Switzerland,World Cup,Big Air,46,20.70
+2,Denda Jeremy,Male,05-02-2025,Aspen,USA,Switzerland,Qualification,Big Air,24,
+3,Denda Jeremy,Male,02-02-2025,Aspen,USA,Switzerland,World Cup,Slopestyle,38,82.10
+4,Denda Jeremy,Male,31-01-2025,Aspen,USA,Switzerland,Qualification,Slopestyle,18,
+5,Denda Jeremy,Male,18-01-2025,Laax,SUI,Switzerland,World Cup,Slopestyle,43,72.20
+6,Denda Jeremy,Male,16-01-2025,Laax,SUI,Switzerland,Qualification,Slopestyle,26,
+7,Denda Jeremy,Male,11-01-2025,Kreischberg,AUT,Switzerland,Qualification,Big Air,24,
+8,Denda Jeremy,Male,11-01-2025,Kreischberg,AUT,Switzerland,World Cup,Big Air,46,41.90
+9,Denda Jeremy,Male,05-01-2025,Klagenfurt,AUT,Switzerland,World Cup,Big Air,20,153.40
+10,Denda Jeremy,Male,05-01-2025,Klagenfurt,AUT,Switzerland,Qualification,Big Air,8,
+11,Denda Jeremy,Male,19-10-2024,Chur,SUI,Switzerland,World Cup,Big Air,44,11.40
+12,Denda Jeremy,Male,02-09-2024,Cardrona,NZL,Switzerland,World Cup,Slopestyle,51,14.40
+13,Denda Jeremy,Male,31-08-2024,Cardrona,NZL,Switzerland,Qualification,Slopestyle,27,
+14,Denda Jeremy,Male,14-04-2024,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,69,21.40
+15,Denda Jeremy,Male,12-04-2024,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,10,153.70
+16,Denda Jeremy,Male,23-03-2024,Silvaplana,SUI,Switzerland,World Cup,Slopestyle,8,350.20
+17,Denda Jeremy,Male,21-03-2024,Silvaplana,SUI,Switzerland,Qualification,Slopestyle,7,
 18,Denda Jeremy,Male,15-03-2024,Tignes,FRA,Switzerland,Qualification,Slopestyle,15,
-19,Denda Jeremy,Male,22-02-2024,Prato Nevoso,ITA,Switzerland,European Cup,Slopestyle,7,125.50
-20,Denda Jeremy,Male,15-02-2024,Davos,SUI,Switzerland,European Cup,Big Air,5,80.30
-21,Denda Jeremy,Male,20-01-2024,Laax,SUI,Switzerland,World Cup,Slopestyle,33,112.50
-22,Denda Jeremy,Male,16-01-2024,Laax,SUI,Switzerland,Qualification,Slopestyle,19,
-23,Denda Jeremy,Male,05-01-2024,Font Romeu,FRA,Switzerland,European Cup,Big Air,28,26.30
-24,Denda Jeremy,Male,04-01-2024,Font Romeu,FRA,Switzerland,European Cup Premium,Slopestyle,17,58.40
-25,Denda Jeremy,Male,02-12-2023,Beijing,CHN,Switzerland,World Cup,Big Air,20,143.50
-26,Denda Jeremy,Male,01-12-2023,Beijing,CHN,Switzerland,Qualification,Big Air,11,
-27,Denda Jeremy,Male,21-10-2023,Chur,SUI,Switzerland,World Cup,Big Air,40,69.70
-28,Denda Jeremy,Male,21-10-2023,Chur,SUI,Switzerland,Qualification,Big Air,20,
-29,Denda Jeremy,Male,22-04-2023,Kitzsteinhorn,AUT,Switzerland,European Cup,Big Air,25,39.00
-30,Denda Jeremy,Male,21-04-2023,Kitzsteinhorn,AUT,Switzerland,European Cup,Slopestyle,7,94.00
-31,Denda Jeremy,Male,17-04-2023,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,8,140.50
-32,Denda Jeremy,Male,14-04-2023,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,21,84.00
-33,Denda Jeremy,Male,29-03-2023,Ruka,FIN,Switzerland,European Cup,Slopestyle,4,67.10
-34,Denda Jeremy,Male,20-03-2023,Mottolino Livigno,ITA,Switzerland,European Cup,Slopestyle,2,215.70
-35,Denda Jeremy,Male,17-03-2023,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,14,99.10
-36,Denda Jeremy,Male,18-02-2023,Davos,SUI,Switzerland,European Cup,Big Air,14,28.30
-37,Denda Jeremy,Male,04-02-2023,Font Romeu,FRA,Switzerland,European Cup,Big Air,16,32.20
-38,Denda Jeremy,Male,02-02-2023,Font Romeu,FRA,Switzerland,European Cup,Slopestyle,15,31.20
-39,Denda Jeremy,Male,25-01-2023,Prato Nevoso,ITA,Switzerland,European Cup,Slopestyle,2,149.10
-40,Denda Jeremy,Male,17-12-2022,Kiruna,SWE,Switzerland,FIS,Slopestyle,14,17.70
-41,Denda Jeremy,Male,29-11-2022,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,9,33.90
-42,Denda Jeremy,Male,22-10-2022,Chur,SUI,Switzerland,Qualification,Big Air,24,
+19,Denda Jeremy,Male,15-03-2024,Tignes,FRA,Switzerland,World Cup,Slopestyle,35,89.90
+20,Denda Jeremy,Male,22-02-2024,Prato Nevoso,ITA,Switzerland,European Cup,Slopestyle,7,125.50
+21,Denda Jeremy,Male,15-02-2024,Davos,SUI,Switzerland,European Cup,Big Air,5,80.30
+22,Denda Jeremy,Male,20-01-2024,Laax,SUI,Switzerland,World Cup,Slopestyle,33,112.50
+23,Denda Jeremy,Male,16-01-2024,Laax,SUI,Switzerland,Qualification,Slopestyle,19,
+24,Denda Jeremy,Male,05-01-2024,Font Romeu,FRA,Switzerland,European Cup,Big Air,28,26.30
+25,Denda Jeremy,Male,04-01-2024,Font Romeu,FRA,Switzerland,European Cup Premium,Slopestyle,17,58.40
+26,Denda Jeremy,Male,02-12-2023,Beijing,CHN,Switzerland,World Cup,Big Air,20,143.50
+27,Denda Jeremy,Male,01-12-2023,Beijing,CHN,Switzerland,Qualification,Big Air,11,
+28,Denda Jeremy,Male,21-10-2023,Chur,SUI,Switzerland,World Cup,Big Air,40,69.70
+29,Denda Jeremy,Male,21-10-2023,Chur,SUI,Switzerland,Qualification,Big Air,20,
+30,Denda Jeremy,Male,22-04-2023,Kitzsteinhorn,AUT,Switzerland,European Cup,Big Air,25,39.00
+31,Denda Jeremy,Male,21-04-2023,Kitzsteinhorn,AUT,Switzerland,European Cup,Slopestyle,7,94.00
+32,Denda Jeremy,Male,17-04-2023,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,8,140.50
+33,Denda Jeremy,Male,14-04-2023,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,21,84.00
+34,Denda Jeremy,Male,29-03-2023,Ruka,FIN,Switzerland,European Cup,Slopestyle,4,67.10
+35,Denda Jeremy,Male,20-03-2023,Mottolino Livigno,ITA,Switzerland,European Cup,Slopestyle,2,215.70
+36,Denda Jeremy,Male,17-03-2023,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,14,99.10
+37,Denda Jeremy,Male,18-02-2023,Davos,SUI,Switzerland,European Cup,Big Air,14,28.30
+38,Denda Jeremy,Male,04-02-2023,Font Romeu,FRA,Switzerland,European Cup,Big Air,16,32.20
+39,Denda Jeremy,Male,02-02-2023,Font Romeu,FRA,Switzerland,European Cup,Slopestyle,15,31.20
+40,Denda Jeremy,Male,25-01-2023,Prato Nevoso,ITA,Switzerland,European Cup,Slopestyle,2,149.10
+41,Denda Jeremy,Male,17-12-2022,Kiruna,SWE,Switzerland,FIS,Slopestyle,14,17.70
+42,Denda Jeremy,Male,29-11-2022,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,9,33.90
 43,Denda Jeremy,Male,22-10-2022,Chur,SUI,Switzerland,World Cup,Big Air,43,21.50
-44,Denda Jeremy,Male,09-04-2022,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,49,2.20
-45,Denda Jeremy,Male,07-04-2022,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,15,94.10
-46,Denda Jeremy,Male,27-03-2022,Silvaplana,SUI,Switzerland,World Cup,Slopestyle,32,73.90
-47,Denda Jeremy,Male,25-03-2022,Silvaplana,SUI,Switzerland,Qualification,Slopestyle,15,
-48,Denda Jeremy,Male,15-03-2022,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,9,48.50
-49,Denda Jeremy,Male,26-02-2022,Götschen,GER,Switzerland,European Cup,Big Air,31,24.70
-50,Denda Jeremy,Male,25-02-2022,Götschen,GER,Switzerland,European Cup,Slopestyle,23,40.80
-51,Denda Jeremy,Male,18-02-2022,Davos,SUI,Switzerland,European Cup Premium,Big Air,12,63.20
-52,Denda Jeremy,Male,12-02-2022,Kotelnica Bialczanska,POL,Switzerland,European Cup Premium,Big Air,12,29.80
-53,Denda Jeremy,Male,03-02-2022,Font Romeu,FRA,Switzerland,European Cup,Slopestyle,13,25.90
-54,Denda Jeremy,Male,28-01-2022,Crans Montana,SUI,Switzerland,European Cup,Big Air,14,36.80
-55,Denda Jeremy,Male,23-01-2022,Prato Nevoso,ITA,Switzerland,European Cup,Slopestyle,40,8.80
-56,Denda Jeremy,Male,11-11-2021,Glacier 3000,SUI,Switzerland,Open,Slopestyle,16,40.60
-57,Denda Jeremy,Male,23-10-2021,Chur,SUI,Switzerland,World Cup,Big Air,45,21.10
-58,Denda Jeremy,Male,20-04-2021,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,21,62.83
-59,Denda Jeremy,Male,11-03-2021,Leysin,SUI,Switzerland,European Cup,Slopestyle,25,16.60
-60,Denda Jeremy,Male,04-03-2021,Flachauwinkel,AUT,Switzerland,European Cup,Big Air,21,26.27
-61,Denda Jeremy,Male,22-02-2021,Götschen,GER,Switzerland,European Cup,Big Air,28,26.08
-62,Denda Jeremy,Male,21-02-2021,Götschen,GER,Switzerland,European Cup,Slopestyle,24,27.89
-63,Denda Jeremy,Male,19-02-2021,Davos,SUI,Switzerland,European Cup,Big Air,53,3.39
-64,Denda Jeremy,Male,06-02-2021,Grindelwald,SUI,Switzerland,FIS,Big Air,3,34.03
-65,Denda Jeremy,Male,31-01-2021,Crans Montana,SUI,Switzerland,European Cup,Slopestyle,18,73.18
-66,Denda Jeremy,Male,22-12-2020,Corvatsch,SUI,Switzerland,European Cup,Slopestyle,14,69.69
-67,Denda Jeremy,Male,26-11-2020,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,26,35.10
-68,Denda Jeremy,Male,22-02-2020,Davos,SUI,Switzerland,FIS,Halfpipe,9,14.50
-69,Denda Jeremy,Male,21-02-2020,Davos,SUI,Switzerland,European Cup Premium,Big Air,27,9.90
-70,Denda Jeremy,Male,25-01-2020,Crans Montana,SUI,Switzerland,FIS,Slopestyle,5,31.50
-71,Denda Jeremy,Male,04-12-2019,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,8,16.00
-72,Denda Jeremy,Male,13-04-2019,Silvaplana,SUI,Switzerland,European Cup,Big Air,19,43.20
-73,Denda Jeremy,Male,24-03-2019,Laax,SUI,Switzerland,European Cup,Halfpipe,25,
-74,Denda Jeremy,Male,22-03-2019,Laax,SUI,Switzerland,European Cup,Slopestyle,42,2.86
-75,Denda Jeremy,Male,22-02-2019,Davos,SUI,Switzerland,European Cup,Big Air,30,5.12
-76,Denda Jeremy,Male,14-02-2019,Bjelasnica,BIH,Switzerland,European Youth Olympic Festival,Big Air,8,16.00
-77,Denda Jeremy,Male,12-02-2019,Bjelasnica,BIH,Switzerland,European Youth Olympic Festival,Slopestyle,25,3.00
+44,Denda Jeremy,Male,22-10-2022,Chur,SUI,Switzerland,Qualification,Big Air,24,
+45,Denda Jeremy,Male,09-04-2022,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,49,2.20
+46,Denda Jeremy,Male,07-04-2022,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,15,94.10
+47,Denda Jeremy,Male,27-03-2022,Silvaplana,SUI,Switzerland,World Cup,Slopestyle,32,73.90
+48,Denda Jeremy,Male,25-03-2022,Silvaplana,SUI,Switzerland,Qualification,Slopestyle,15,
+49,Denda Jeremy,Male,15-03-2022,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,9,48.50
+50,Denda Jeremy,Male,26-02-2022,Götschen,GER,Switzerland,European Cup,Big Air,31,24.70
+51,Denda Jeremy,Male,25-02-2022,Götschen,GER,Switzerland,European Cup,Slopestyle,23,40.80
+52,Denda Jeremy,Male,18-02-2022,Davos,SUI,Switzerland,European Cup Premium,Big Air,12,63.20
+53,Denda Jeremy,Male,12-02-2022,Kotelnica Bialczanska,POL,Switzerland,European Cup Premium,Big Air,12,29.80
+54,Denda Jeremy,Male,03-02-2022,Font Romeu,FRA,Switzerland,European Cup,Slopestyle,13,25.90
+55,Denda Jeremy,Male,28-01-2022,Crans Montana,SUI,Switzerland,European Cup,Big Air,14,36.80
+56,Denda Jeremy,Male,23-01-2022,Prato Nevoso,ITA,Switzerland,European Cup,Slopestyle,40,8.80
+57,Denda Jeremy,Male,11-11-2021,Glacier 3000,SUI,Switzerland,Open,Slopestyle,16,40.60
+58,Denda Jeremy,Male,23-10-2021,Chur,SUI,Switzerland,World Cup,Big Air,45,21.10
+59,Denda Jeremy,Male,20-04-2021,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,21,62.83
+60,Denda Jeremy,Male,11-03-2021,Leysin,SUI,Switzerland,European Cup,Slopestyle,25,16.60
+61,Denda Jeremy,Male,04-03-2021,Flachauwinkel,AUT,Switzerland,European Cup,Big Air,21,26.27
+62,Denda Jeremy,Male,22-02-2021,Götschen,GER,Switzerland,European Cup,Big Air,28,26.08
+63,Denda Jeremy,Male,21-02-2021,Götschen,GER,Switzerland,European Cup,Slopestyle,24,27.89
+64,Denda Jeremy,Male,19-02-2021,Davos,SUI,Switzerland,European Cup,Big Air,53,3.39
+65,Denda Jeremy,Male,06-02-2021,Grindelwald,SUI,Switzerland,FIS,Big Air,3,34.03
+66,Denda Jeremy,Male,31-01-2021,Crans Montana,SUI,Switzerland,European Cup,Slopestyle,18,73.18
+67,Denda Jeremy,Male,22-12-2020,Corvatsch,SUI,Switzerland,European Cup,Slopestyle,14,69.69
+68,Denda Jeremy,Male,26-11-2020,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,26,35.10
+69,Denda Jeremy,Male,22-02-2020,Davos,SUI,Switzerland,FIS,Halfpipe,9,14.50
+70,Denda Jeremy,Male,21-02-2020,Davos,SUI,Switzerland,European Cup Premium,Big Air,27,9.90
+71,Denda Jeremy,Male,25-01-2020,Crans Montana,SUI,Switzerland,FIS,Slopestyle,5,31.50
+72,Denda Jeremy,Male,04-12-2019,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,8,16.00
+73,Denda Jeremy,Male,13-04-2019,Silvaplana,SUI,Switzerland,European Cup,Big Air,19,43.20
+74,Denda Jeremy,Male,24-03-2019,Laax,SUI,Switzerland,European Cup,Halfpipe,25,
+75,Denda Jeremy,Male,22-03-2019,Laax,SUI,Switzerland,European Cup,Slopestyle,42,2.86
+76,Denda Jeremy,Male,22-02-2019,Davos,SUI,Switzerland,European Cup,Big Air,30,5.12
+77,Denda Jeremy,Male,14-02-2019,Bjelasnica,BIH,Switzerland,European Youth Olympic Festival,Big Air,8,16.00
+78,Denda Jeremy,Male,12-02-2019,Bjelasnica,BIH,Switzerland,European Youth Olympic Festival,Slopestyle,25,3.00

@@ -1,73 +1,74 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Stoklosa Natalia,Female,09-02-2025,Simonhoehe,AUT,Poland,National Championships,Parallel Slalom,14,52.20
-1,Stoklosa Natalia,Female,08-02-2025,Simonhoehe,AUT,Poland,National Championships,Parallel Giant Slalom,27,13.05
-2,Stoklosa Natalia,Female,26-01-2025,Simonhöhe,AUT,Poland,European Cup,Parallel Giant Slalom,46,6.01
-3,Stoklosa Natalia,Female,25-01-2025,Simonhöhe,AUT,Poland,European Cup,Parallel Giant Slalom,29,8.64
-4,Stoklosa Natalia,Female,22-01-2025,Bardonecchia,ITA,Poland,Universiade,Parallel Slalom,11,52.80
-5,Stoklosa Natalia,Female,21-01-2025,Bardonecchia,ITA,Poland,Universiade,Parallel Giant Slalom,14,39.60
-6,Stoklosa Natalia,Female,22-12-2024,Moninec,CZE,Poland,FIS,Parallel Slalom,13,36.00
-7,Stoklosa Natalia,Female,21-12-2024,Moninec,CZE,Poland,FIS,Parallel Slalom,19,19.20
-8,Stoklosa Natalia,Female,20-12-2024,Moninec,CZE,Poland,European Cup,Parallel Slalom,26,12.00
-9,Stoklosa Natalia,Female,19-12-2024,Moninec,CZE,Poland,European Cup,Parallel Slalom,37,4.66
-10,Stoklosa Natalia,Female,15-12-2024,Götschen,GER,Poland,European Cup,Parallel Slalom,29,8.64
-11,Stoklosa Natalia,Female,14-12-2024,Götschen,GER,Poland,European Cup,Parallel Slalom,18,28.60
-12,Stoklosa Natalia,Female,07-04-2024,Samnaun,SUI,Poland,National Championships,Giant Slalom,DSQ,
-13,Stoklosa Natalia,Female,06-04-2024,Samnaun,SUI,Poland,National Championships,Parallel Slalom,13,58.00
-14,Stoklosa Natalia,Female,23-03-2024,Lachtal,AUT,Poland,Qualification,Parallel Slalom,25,
-15,Stoklosa Natalia,Female,23-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Slalom,25,14.40
-16,Stoklosa Natalia,Female,22-03-2024,Lachtal,AUT,Poland,Qualification,Parallel Giant Slalom,33,
-17,Stoklosa Natalia,Female,22-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Giant Slalom,33,5.76
-18,Stoklosa Natalia,Female,17-03-2024,St. Moritz,SUI,Poland,European Cup,Parallel Slalom,42,
-19,Stoklosa Natalia,Female,16-03-2024,St. Moritz,SUI,Poland,European Cup,Parallel Giant Slalom,DSQ,
-20,Stoklosa Natalia,Female,13-03-2024,Davos/Rinerhorn ,SUI,Poland,European Cup,Parallel Giant Slalom,20,26.40
-21,Stoklosa Natalia,Female,12-03-2024,Davos/Rinerhorn ,SUI,Poland,European Cup,Parallel Giant Slalom,31,
-22,Stoklosa Natalia,Female,25-02-2024,Krynica,POL,Poland,Qualification,Parallel Giant Slalom,28,
-23,Stoklosa Natalia,Female,25-02-2024,Krynica,POL,Poland,World Cup,Parallel Giant Slalom,28,40.00
-24,Stoklosa Natalia,Female,24-02-2024,Krynica,POL,Poland,World Cup,Parallel Giant Slalom,29,36.00
+0,Stoklosa Natalia,Female,20-02-2025,KRYNICA,POL,Poland,National Championships,Parallel Giant Slalom,6,116.00
+1,Stoklosa Natalia,Female,09-02-2025,Simonhoehe,AUT,Poland,National Championships,Parallel Slalom,14,52.20
+2,Stoklosa Natalia,Female,08-02-2025,Simonhoehe,AUT,Poland,National Championships,Parallel Giant Slalom,27,13.05
+3,Stoklosa Natalia,Female,26-01-2025,Simonhöhe,AUT,Poland,European Cup,Parallel Giant Slalom,46,6.01
+4,Stoklosa Natalia,Female,25-01-2025,Simonhöhe,AUT,Poland,European Cup,Parallel Giant Slalom,29,8.64
+5,Stoklosa Natalia,Female,22-01-2025,Bardonecchia,ITA,Poland,Universiade,Parallel Slalom,11,52.80
+6,Stoklosa Natalia,Female,21-01-2025,Bardonecchia,ITA,Poland,Universiade,Parallel Giant Slalom,14,39.60
+7,Stoklosa Natalia,Female,22-12-2024,Moninec,CZE,Poland,FIS,Parallel Slalom,13,36.00
+8,Stoklosa Natalia,Female,21-12-2024,Moninec,CZE,Poland,FIS,Parallel Slalom,19,19.20
+9,Stoklosa Natalia,Female,20-12-2024,Moninec,CZE,Poland,European Cup,Parallel Slalom,26,12.00
+10,Stoklosa Natalia,Female,19-12-2024,Moninec,CZE,Poland,European Cup,Parallel Slalom,37,4.66
+11,Stoklosa Natalia,Female,15-12-2024,Götschen,GER,Poland,European Cup,Parallel Slalom,29,8.64
+12,Stoklosa Natalia,Female,14-12-2024,Götschen,GER,Poland,European Cup,Parallel Slalom,18,28.60
+13,Stoklosa Natalia,Female,07-04-2024,Samnaun,SUI,Poland,National Championships,Giant Slalom,DSQ,
+14,Stoklosa Natalia,Female,06-04-2024,Samnaun,SUI,Poland,National Championships,Parallel Slalom,13,58.00
+15,Stoklosa Natalia,Female,23-03-2024,Lachtal,AUT,Poland,Qualification,Parallel Slalom,25,
+16,Stoklosa Natalia,Female,23-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Slalom,25,14.40
+17,Stoklosa Natalia,Female,22-03-2024,Lachtal,AUT,Poland,Qualification,Parallel Giant Slalom,33,
+18,Stoklosa Natalia,Female,22-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Giant Slalom,33,5.76
+19,Stoklosa Natalia,Female,17-03-2024,St. Moritz,SUI,Poland,European Cup,Parallel Slalom,42,
+20,Stoklosa Natalia,Female,16-03-2024,St. Moritz,SUI,Poland,European Cup,Parallel Giant Slalom,DSQ,
+21,Stoklosa Natalia,Female,13-03-2024,Davos/Rinerhorn ,SUI,Poland,European Cup,Parallel Giant Slalom,20,26.40
+22,Stoklosa Natalia,Female,12-03-2024,Davos/Rinerhorn ,SUI,Poland,European Cup,Parallel Giant Slalom,31,
+23,Stoklosa Natalia,Female,25-02-2024,Krynica,POL,Poland,Qualification,Parallel Giant Slalom,28,
+24,Stoklosa Natalia,Female,25-02-2024,Krynica,POL,Poland,World Cup,Parallel Giant Slalom,28,40.00
 25,Stoklosa Natalia,Female,24-02-2024,Krynica,POL,Poland,Qualification,Parallel Giant Slalom,29,
-26,Stoklosa Natalia,Female,04-02-2024,Haus im Ennstal,AUT,Poland,Junior,Parallel Giant Slalom,14,25.20
-27,Stoklosa Natalia,Female,03-02-2024,Haus im Ennstal,AUT,Poland,Junior,Parallel Giant Slalom,11,33.60
-28,Stoklosa Natalia,Female,07-01-2024,Dolni Morava,CZE,Poland,National Championships,Parallel Giant Slalom,9,63.80
-29,Stoklosa Natalia,Female,06-01-2024,Dolni Morava,CZE,Poland,National Championships,Parallel Slalom,7,79.20
-30,Stoklosa Natalia,Female,21-12-2023,Moninec,CZE,Poland,Junior,Parallel Slalom,6,44.00
-31,Stoklosa Natalia,Female,20-12-2023,Moninec,CZE,Poland,European Cup,Parallel Slalom,42,4.65
-32,Stoklosa Natalia,Female,19-12-2023,Moninec,CZE,Poland,European Cup,Parallel Slalom,40,4.81
-33,Stoklosa Natalia,Female,10-12-2023,Götschen,GER,Poland,Junior,Parallel Slalom,17,22.40
-34,Stoklosa Natalia,Female,09-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,51,
+26,Stoklosa Natalia,Female,24-02-2024,Krynica,POL,Poland,World Cup,Parallel Giant Slalom,29,36.00
+27,Stoklosa Natalia,Female,04-02-2024,Haus im Ennstal,AUT,Poland,Junior,Parallel Giant Slalom,14,25.20
+28,Stoklosa Natalia,Female,03-02-2024,Haus im Ennstal,AUT,Poland,Junior,Parallel Giant Slalom,11,33.60
+29,Stoklosa Natalia,Female,07-01-2024,Dolni Morava,CZE,Poland,National Championships,Parallel Giant Slalom,9,63.80
+30,Stoklosa Natalia,Female,06-01-2024,Dolni Morava,CZE,Poland,National Championships,Parallel Slalom,7,79.20
+31,Stoklosa Natalia,Female,21-12-2023,Moninec,CZE,Poland,Junior,Parallel Slalom,6,44.00
+32,Stoklosa Natalia,Female,20-12-2023,Moninec,CZE,Poland,European Cup,Parallel Slalom,42,4.65
+33,Stoklosa Natalia,Female,19-12-2023,Moninec,CZE,Poland,European Cup,Parallel Slalom,40,4.81
+34,Stoklosa Natalia,Female,10-12-2023,Götschen,GER,Poland,Junior,Parallel Slalom,17,22.40
 35,Stoklosa Natalia,Female,09-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,51,5.47
-36,Stoklosa Natalia,Female,08-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,55,
-37,Stoklosa Natalia,Female,08-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,55,
-38,Stoklosa Natalia,Female,02-04-2023,Haus im Ennstal,AUT,Poland,National Championships,Parallel Slalom,10,75.40
-39,Stoklosa Natalia,Female,01-04-2023,Haus im Ennstal,AUT,Poland,National Championships,Parallel Giant Slalom,13,58.00
-40,Stoklosa Natalia,Female,26-03-2023,Villach - Gerlitzen,AUT,Poland,FIS,Parallel Slalom,5,54.00
-41,Stoklosa Natalia,Female,25-03-2023,Villach - Gerlitzen,AUT,Poland,FIS,Parallel Slalom,2,96.00
-42,Stoklosa Natalia,Female,05-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,34,6.38
-43,Stoklosa Natalia,Female,04-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,27,16.20
-44,Stoklosa Natalia,Female,27-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,7,57.60
-45,Stoklosa Natalia,Female,26-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,12,
-46,Stoklosa Natalia,Female,25-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,4,80.00
-47,Stoklosa Natalia,Female,04-01-2023,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,11,69.60
-48,Stoklosa Natalia,Female,01-04-2022,Chiesa in Valmalenco,ITA,Poland,FIS Junior World Championships,Parallel Slalom,23,28.80
-49,Stoklosa Natalia,Female,31-03-2022,Chiesa in Valmalenco,ITA,Poland,FIS Junior World Championships,Parallel Giant Slalom,27,16.20
-50,Stoklosa Natalia,Female,13-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Slalom,7,43.20
-51,Stoklosa Natalia,Female,12-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Giant Slalom,16,18.00
-52,Stoklosa Natalia,Female,09-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,6,116.00
-53,Stoklosa Natalia,Female,08-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,12,63.80
-54,Stoklosa Natalia,Female,06-03-2022,Lachtal,AUT,Poland,European Cup,Parallel Giant Slalom,42,
-55,Stoklosa Natalia,Female,05-03-2022,Lachtal,AUT,Poland,European Cup,Parallel Giant Slalom,35,7.20
-56,Stoklosa Natalia,Female,20-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,3,60.00
-57,Stoklosa Natalia,Female,19-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,4,50.00
-58,Stoklosa Natalia,Female,23-01-2022,Bukovel,UKR,Poland,European Cup,Parallel Giant Slalom,20,28.60
-59,Stoklosa Natalia,Female,22-01-2022,Bukovel,UKR,Poland,European Cup,Parallel Giant Slalom,35,5.20
-60,Stoklosa Natalia,Female,16-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,7,50.40
-61,Stoklosa Natalia,Female,15-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,9,31.90
-62,Stoklosa Natalia,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,FIS,Slalom,DSQ,
-63,Stoklosa Natalia,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,FIS,Parallel Slalom,9,58.00
-64,Stoklosa Natalia,Female,21-03-2021,Pizol,SUI,Poland,Junior,Parallel Slalom,15,8.00
-65,Stoklosa Natalia,Female,20-03-2021,Pizol,SUI,Poland,Junior,Parallel Slalom,13,24.00
-66,Stoklosa Natalia,Female,09-03-2021,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,18,33.80
-67,Stoklosa Natalia,Female,08-03-2021,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,22,23.40
-68,Stoklosa Natalia,Female,09-02-2020,Gerlitzen,AUT,Poland,FIS,Giant Slalom,19,26.40
-69,Stoklosa Natalia,Female,08-02-2020,Gerlitzen,AUT,Poland,FIS,Giant Slalom,20,24.20
-70,Stoklosa Natalia,Female,26-01-2020,Gosau,AUT,Poland,FIS,Parallel Slalom,22,13.50
-71,Stoklosa Natalia,Female,25-01-2020,Gosau,AUT,Poland,FIS,Parallel Slalom,28,6.00
+36,Stoklosa Natalia,Female,09-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,51,
+37,Stoklosa Natalia,Female,08-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,55,
+38,Stoklosa Natalia,Female,08-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,55,
+39,Stoklosa Natalia,Female,02-04-2023,Haus im Ennstal,AUT,Poland,National Championships,Parallel Slalom,10,75.40
+40,Stoklosa Natalia,Female,01-04-2023,Haus im Ennstal,AUT,Poland,National Championships,Parallel Giant Slalom,13,58.00
+41,Stoklosa Natalia,Female,26-03-2023,Villach - Gerlitzen,AUT,Poland,FIS,Parallel Slalom,5,54.00
+42,Stoklosa Natalia,Female,25-03-2023,Villach - Gerlitzen,AUT,Poland,FIS,Parallel Slalom,2,96.00
+43,Stoklosa Natalia,Female,05-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,34,6.38
+44,Stoklosa Natalia,Female,04-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,27,16.20
+45,Stoklosa Natalia,Female,27-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,7,57.60
+46,Stoklosa Natalia,Female,26-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,12,
+47,Stoklosa Natalia,Female,25-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,4,80.00
+48,Stoklosa Natalia,Female,04-01-2023,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,11,69.60
+49,Stoklosa Natalia,Female,01-04-2022,Chiesa in Valmalenco,ITA,Poland,FIS Junior World Championships,Parallel Slalom,23,28.80
+50,Stoklosa Natalia,Female,31-03-2022,Chiesa in Valmalenco,ITA,Poland,FIS Junior World Championships,Parallel Giant Slalom,27,16.20
+51,Stoklosa Natalia,Female,13-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Slalom,7,43.20
+52,Stoklosa Natalia,Female,12-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Giant Slalom,16,18.00
+53,Stoklosa Natalia,Female,09-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,6,116.00
+54,Stoklosa Natalia,Female,08-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,12,63.80
+55,Stoklosa Natalia,Female,06-03-2022,Lachtal,AUT,Poland,European Cup,Parallel Giant Slalom,42,
+56,Stoklosa Natalia,Female,05-03-2022,Lachtal,AUT,Poland,European Cup,Parallel Giant Slalom,35,7.20
+57,Stoklosa Natalia,Female,20-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,3,60.00
+58,Stoklosa Natalia,Female,19-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,4,50.00
+59,Stoklosa Natalia,Female,23-01-2022,Bukovel,UKR,Poland,European Cup,Parallel Giant Slalom,20,28.60
+60,Stoklosa Natalia,Female,22-01-2022,Bukovel,UKR,Poland,European Cup,Parallel Giant Slalom,35,5.20
+61,Stoklosa Natalia,Female,16-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,7,50.40
+62,Stoklosa Natalia,Female,15-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,9,31.90
+63,Stoklosa Natalia,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,FIS,Slalom,DSQ,
+64,Stoklosa Natalia,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,FIS,Parallel Slalom,9,58.00
+65,Stoklosa Natalia,Female,21-03-2021,Pizol,SUI,Poland,Junior,Parallel Slalom,15,8.00
+66,Stoklosa Natalia,Female,20-03-2021,Pizol,SUI,Poland,Junior,Parallel Slalom,13,24.00
+67,Stoklosa Natalia,Female,09-03-2021,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,18,33.80
+68,Stoklosa Natalia,Female,08-03-2021,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,22,23.40
+69,Stoklosa Natalia,Female,09-02-2020,Gerlitzen,AUT,Poland,FIS,Giant Slalom,19,26.40
+70,Stoklosa Natalia,Female,08-02-2020,Gerlitzen,AUT,Poland,FIS,Giant Slalom,20,24.20
+71,Stoklosa Natalia,Female,26-01-2020,Gosau,AUT,Poland,FIS,Parallel Slalom,22,13.50
+72,Stoklosa Natalia,Female,25-01-2020,Gosau,AUT,Poland,FIS,Parallel Slalom,28,6.00

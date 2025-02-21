@@ -1,62 +1,63 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Cowan Lola,Female,01-02-2025,Aspen,USA,Chile,World Cup,Halfpipe,27,54.30
-1,Cowan Lola,Female,30-01-2025,Aspen,USA,Chile,Qualification,Halfpipe,27,
-2,Cowan Lola,Female,18-01-2025,Laax,SUI,Chile,World Cup,Halfpipe,25,44.90
-3,Cowan Lola,Female,17-01-2025,Laax,SUI,Chile,Qualification,Halfpipe,25,
-4,Cowan Lola,Female,20-12-2024,Copper,USA,Chile,World Cup,Halfpipe,32,29.10
-5,Cowan Lola,Female,18-12-2024,Copper,USA,Chile,Qualification,Halfpipe,16,
-6,Cowan Lola,Female,08-12-2024,Secret Garden,CHN,Chile,World Cup,Halfpipe,26,10.40
-7,Cowan Lola,Female,06-12-2024,Secret Garden,CHN,Chile,Qualification,Halfpipe,26,
-8,Cowan Lola,Female,08-04-2024,Corvatsch,SUI,Chile,European Cup,Halfpipe,11,60.70
-9,Cowan Lola,Female,18-03-2024,"Aspen Snowmass, CO",USA,Chile,Nor-Am Cup,Halfpipe,11,42.00
-10,Cowan Lola,Female,18-03-2024,"Aspen Snowmass, CO",USA,Chile,Nor-Am Cup Premium,Halfpipe,7,54.60
-11,Cowan Lola,Female,21-02-2024,Winsport Calgary,CAN,Chile,Nor-Am Cup,Halfpipe,9,32.10
-12,Cowan Lola,Female,03-02-2024,Mammoth Mountain,USA,Chile,World Cup,Halfpipe,16,65.60
-13,Cowan Lola,Female,30-01-2024,Mammoth Mountain,USA,Chile,Qualification,Halfpipe,16,
-14,Cowan Lola,Female,25-01-2024,Copper Mountain,USA,Chile,Nor-Am Cup,Halfpipe,8,32.80
-15,Cowan Lola,Female,10-01-2024,"Copper Mountain, CO",USA,Chile,FIS,Halfpipe,7,15.10
-16,Cowan Lola,Female,10-03-2023,Horseshoe Resort,CAN,Chile,Nor-Am Cup,Big Air,7,18.60
-17,Cowan Lola,Female,09-03-2023,Horseshoe Resort,CAN,Chile,Nor-Am Cup,Slopestyle,12,0.20
-18,Cowan Lola,Female,08-03-2023,Horseshoe Resort,CAN,Chile,Nor-Am Cup,Slopestyle,10,20.60
-19,Cowan Lola,Female,16-02-2023,Winsport Calgary,CAN,Chile,Nor-Am Cup,Big Air,5,37.20
-20,Cowan Lola,Female,15-02-2023,Winsport Calgary,CAN,Chile,Nor-Am Cup,Slopestyle,8,0.30
-21,Cowan Lola,Female,10-02-2023,"Aspen Snowmass, CO",USA,Chile,Nor-Am Cup,Slopestyle,DNS,
-22,Cowan Lola,Female,09-02-2023,"Aspen Snowmass, CO",USA,Chile,Nor-Am Cup,Halfpipe,6,45.20
-23,Cowan Lola,Female,04-02-2023,Mammoth Mountain,USA,Chile,World Cup,Halfpipe,20,27.20
-24,Cowan Lola,Female,02-02-2023,Mammoth Mountain,USA,Chile,Qualification,Halfpipe,20,
-25,Cowan Lola,Female,27-01-2023,Copper Mountain Resort,USA,Chile,Nor-Am Cup,Halfpipe,10,25.00
-26,Cowan Lola,Female,26-01-2023,Copper Mountain Resort,USA,Chile,Nor-Am Cup,Slopestyle,11,26.50
-27,Cowan Lola,Female,07-04-2022,Copper Mountain Resort,USA,Chile,National Championships,Slopestyle,17,0.10
-28,Cowan Lola,Female,06-04-2022,Copper Mountain Resort,USA,Chile,National Championships,Halfpipe,5,38.10
-29,Cowan Lola,Female,24-03-2022,Stoneham,CAN,Chile,Nor-Am Cup,Big Air,2,94.90
-30,Cowan Lola,Female,22-03-2022,Stoneham,CAN,Chile,Nor-Am Cup,Slopestyle,4,81.80
-31,Cowan Lola,Female,08-03-2022,Leysin,SUI,Chile,FIS Junior World Championships,Halfpipe,14,25.00
-32,Cowan Lola,Female,28-02-2022,Copper Mountain Resort,USA,Chile,Nor-Am Cup,Halfpipe,6,46.00
-33,Cowan Lola,Female,27-02-2022,Copper Mountain Resort,USA,Chile,Nor-Am Cup,Halfpipe,8,31.90
-34,Cowan Lola,Female,14-02-2022,Aspen / Buttermilk,USA,Chile,Nor-Am Cup,Halfpipe,7,18.60
-35,Cowan Lola,Female,13-02-2022,Aspen / Buttermilk,USA,Chile,Nor-Am Cup,Slopestyle,13,6.70
-36,Cowan Lola,Female,28-01-2022,Mammoth Mountain Ski Resort,USA,Chile,Nor-Am Cup,Halfpipe,8,19.60
-37,Cowan Lola,Female,26-01-2022,Mammoth Mountain Ski Resort,USA,Chile,Nor-Am Cup,Slopestyle,17,7.70
-38,Cowan Lola,Female,25-01-2022,Mammoth Mountain Ski Resort,USA,Chile,Nor-Am Cup,Slopestyle,18,3.80
-39,Cowan Lola,Female,11-12-2021,Copper Mountain,USA,Chile,World Cup,Halfpipe,28,46.50
-40,Cowan Lola,Female,09-12-2021,Copper Mountain,USA,Chile,Qualification,Halfpipe,13,
-41,Cowan Lola,Female,21-03-2021,Aspen,USA,Chile,World Cup,Halfpipe,24,11.42
-42,Cowan Lola,Female,18-03-2021,Aspen,USA,Chile,Qualification,Halfpipe,24,
-43,Cowan Lola,Female,05-03-2021,Copper Mountain,USA,Chile,National Championships,Halfpipe,13,43.07
-44,Cowan Lola,Female,26-02-2021,Aspen Mountain Ski Area,USA,Chile,Open,Big Air,DNS,
-45,Cowan Lola,Female,25-02-2021,Aspen Mountain Ski Area,USA,Chile,Open,Halfpipe,11,67.34
-46,Cowan Lola,Female,05-03-2020,Park City,USA,Chile,Nor-Am Cup,Big Air,7,57.60
-47,Cowan Lola,Female,03-03-2020,Park City,USA,Chile,Nor-Am Cup,Slopestyle,14,39.60
-48,Cowan Lola,Female,02-03-2020,Park City,USA,Chile,Nor-Am Cup,Slopestyle,8,70.40
-49,Cowan Lola,Female,26-02-2020,Copper Mountain Resort,USA,Chile,FIS,Slopestyle,3,30.00
-50,Cowan Lola,Female,08-02-2020,Mammoth Mountain Ski Resort,USA,Chile,Nor-Am Cup,Halfpipe,11,57.60
-51,Cowan Lola,Female,07-02-2020,Mammoth Mountain Ski Resort,USA,Chile,Nor-Am Cup,Slopestyle,17,22.40
-52,Cowan Lola,Female,18-12-2019,"Copper Mountain, CO",USA,Chile,Nor-Am Cup,Halfpipe,17,25.20
-53,Cowan Lola,Female,17-12-2019,"Copper Mountain, CO",USA,Chile,Nor-Am Cup,Halfpipe,12,39.60
-54,Cowan Lola,Female,06-12-2019,Copper Mountain Resort,USA,Chile,FIS,Halfpipe,7,54.00
-55,Cowan Lola,Female,14-03-2019,"Mammoth Mountain, CA",USA,Chile,Nor-Am Cup,Halfpipe,12,35.20
-56,Cowan Lola,Female,13-03-2019,"Mammoth Mountain, CA",USA,Chile,Nor-Am Cup,Slopestyle,8,57.60
-57,Cowan Lola,Female,14-02-2019,"Copper Mountain, CO",USA,Chile,FIS,Halfpipe,11,26.40
-58,Cowan Lola,Female,13-02-2019,"Copper Mountain, CO",USA,Chile,FIS,Slopestyle,17,12.60
-59,Cowan Lola,Female,12-12-2018,"Copper Mountain, CO",USA,Chile,Nor-Am Cup,Halfpipe,19,34.80
-60,Cowan Lola,Female,11-12-2018,"Copper Mountain, CO",USA,Chile,Nor-Am Cup,Halfpipe,21,29.00
+0,Cowan Lola,Female,19-02-2025,Calgary,CAN,Chile,Qualification,Halfpipe,22,
+1,Cowan Lola,Female,01-02-2025,Aspen,USA,Chile,World Cup,Halfpipe,27,54.30
+2,Cowan Lola,Female,30-01-2025,Aspen,USA,Chile,Qualification,Halfpipe,27,
+3,Cowan Lola,Female,18-01-2025,Laax,SUI,Chile,World Cup,Halfpipe,25,44.90
+4,Cowan Lola,Female,17-01-2025,Laax,SUI,Chile,Qualification,Halfpipe,25,
+5,Cowan Lola,Female,20-12-2024,Copper,USA,Chile,World Cup,Halfpipe,32,29.10
+6,Cowan Lola,Female,18-12-2024,Copper,USA,Chile,Qualification,Halfpipe,16,
+7,Cowan Lola,Female,08-12-2024,Secret Garden,CHN,Chile,World Cup,Halfpipe,26,10.40
+8,Cowan Lola,Female,06-12-2024,Secret Garden,CHN,Chile,Qualification,Halfpipe,26,
+9,Cowan Lola,Female,08-04-2024,Corvatsch,SUI,Chile,European Cup,Halfpipe,11,60.70
+10,Cowan Lola,Female,18-03-2024,"Aspen Snowmass, CO",USA,Chile,Nor-Am Cup,Halfpipe,11,42.00
+11,Cowan Lola,Female,18-03-2024,"Aspen Snowmass, CO",USA,Chile,Nor-Am Cup Premium,Halfpipe,7,54.60
+12,Cowan Lola,Female,21-02-2024,Winsport Calgary,CAN,Chile,Nor-Am Cup,Halfpipe,9,32.10
+13,Cowan Lola,Female,03-02-2024,Mammoth Mountain,USA,Chile,World Cup,Halfpipe,16,65.60
+14,Cowan Lola,Female,30-01-2024,Mammoth Mountain,USA,Chile,Qualification,Halfpipe,16,
+15,Cowan Lola,Female,25-01-2024,Copper Mountain,USA,Chile,Nor-Am Cup,Halfpipe,8,32.80
+16,Cowan Lola,Female,10-01-2024,"Copper Mountain, CO",USA,Chile,FIS,Halfpipe,7,15.10
+17,Cowan Lola,Female,10-03-2023,Horseshoe Resort,CAN,Chile,Nor-Am Cup,Big Air,7,18.60
+18,Cowan Lola,Female,09-03-2023,Horseshoe Resort,CAN,Chile,Nor-Am Cup,Slopestyle,12,0.20
+19,Cowan Lola,Female,08-03-2023,Horseshoe Resort,CAN,Chile,Nor-Am Cup,Slopestyle,10,20.60
+20,Cowan Lola,Female,16-02-2023,Winsport Calgary,CAN,Chile,Nor-Am Cup,Big Air,5,37.20
+21,Cowan Lola,Female,15-02-2023,Winsport Calgary,CAN,Chile,Nor-Am Cup,Slopestyle,8,0.30
+22,Cowan Lola,Female,10-02-2023,"Aspen Snowmass, CO",USA,Chile,Nor-Am Cup,Slopestyle,DNS,
+23,Cowan Lola,Female,09-02-2023,"Aspen Snowmass, CO",USA,Chile,Nor-Am Cup,Halfpipe,6,45.20
+24,Cowan Lola,Female,04-02-2023,Mammoth Mountain,USA,Chile,World Cup,Halfpipe,20,27.20
+25,Cowan Lola,Female,02-02-2023,Mammoth Mountain,USA,Chile,Qualification,Halfpipe,20,
+26,Cowan Lola,Female,27-01-2023,Copper Mountain Resort,USA,Chile,Nor-Am Cup,Halfpipe,10,25.00
+27,Cowan Lola,Female,26-01-2023,Copper Mountain Resort,USA,Chile,Nor-Am Cup,Slopestyle,11,26.50
+28,Cowan Lola,Female,07-04-2022,Copper Mountain Resort,USA,Chile,National Championships,Slopestyle,17,0.10
+29,Cowan Lola,Female,06-04-2022,Copper Mountain Resort,USA,Chile,National Championships,Halfpipe,5,38.10
+30,Cowan Lola,Female,24-03-2022,Stoneham,CAN,Chile,Nor-Am Cup,Big Air,2,94.90
+31,Cowan Lola,Female,22-03-2022,Stoneham,CAN,Chile,Nor-Am Cup,Slopestyle,4,81.80
+32,Cowan Lola,Female,08-03-2022,Leysin,SUI,Chile,FIS Junior World Championships,Halfpipe,14,25.00
+33,Cowan Lola,Female,28-02-2022,Copper Mountain Resort,USA,Chile,Nor-Am Cup,Halfpipe,6,46.00
+34,Cowan Lola,Female,27-02-2022,Copper Mountain Resort,USA,Chile,Nor-Am Cup,Halfpipe,8,31.90
+35,Cowan Lola,Female,14-02-2022,Aspen / Buttermilk,USA,Chile,Nor-Am Cup,Halfpipe,7,18.60
+36,Cowan Lola,Female,13-02-2022,Aspen / Buttermilk,USA,Chile,Nor-Am Cup,Slopestyle,13,6.70
+37,Cowan Lola,Female,28-01-2022,Mammoth Mountain Ski Resort,USA,Chile,Nor-Am Cup,Halfpipe,8,19.60
+38,Cowan Lola,Female,26-01-2022,Mammoth Mountain Ski Resort,USA,Chile,Nor-Am Cup,Slopestyle,17,7.70
+39,Cowan Lola,Female,25-01-2022,Mammoth Mountain Ski Resort,USA,Chile,Nor-Am Cup,Slopestyle,18,3.80
+40,Cowan Lola,Female,11-12-2021,Copper Mountain,USA,Chile,World Cup,Halfpipe,28,46.50
+41,Cowan Lola,Female,09-12-2021,Copper Mountain,USA,Chile,Qualification,Halfpipe,13,
+42,Cowan Lola,Female,21-03-2021,Aspen,USA,Chile,World Cup,Halfpipe,24,11.42
+43,Cowan Lola,Female,18-03-2021,Aspen,USA,Chile,Qualification,Halfpipe,24,
+44,Cowan Lola,Female,05-03-2021,Copper Mountain,USA,Chile,National Championships,Halfpipe,13,43.07
+45,Cowan Lola,Female,26-02-2021,Aspen Mountain Ski Area,USA,Chile,Open,Big Air,DNS,
+46,Cowan Lola,Female,25-02-2021,Aspen Mountain Ski Area,USA,Chile,Open,Halfpipe,11,67.34
+47,Cowan Lola,Female,05-03-2020,Park City,USA,Chile,Nor-Am Cup,Big Air,7,57.60
+48,Cowan Lola,Female,03-03-2020,Park City,USA,Chile,Nor-Am Cup,Slopestyle,14,39.60
+49,Cowan Lola,Female,02-03-2020,Park City,USA,Chile,Nor-Am Cup,Slopestyle,8,70.40
+50,Cowan Lola,Female,26-02-2020,Copper Mountain Resort,USA,Chile,FIS,Slopestyle,3,30.00
+51,Cowan Lola,Female,08-02-2020,Mammoth Mountain Ski Resort,USA,Chile,Nor-Am Cup,Halfpipe,11,57.60
+52,Cowan Lola,Female,07-02-2020,Mammoth Mountain Ski Resort,USA,Chile,Nor-Am Cup,Slopestyle,17,22.40
+53,Cowan Lola,Female,18-12-2019,"Copper Mountain, CO",USA,Chile,Nor-Am Cup,Halfpipe,17,25.20
+54,Cowan Lola,Female,17-12-2019,"Copper Mountain, CO",USA,Chile,Nor-Am Cup,Halfpipe,12,39.60
+55,Cowan Lola,Female,06-12-2019,Copper Mountain Resort,USA,Chile,FIS,Halfpipe,7,54.00
+56,Cowan Lola,Female,14-03-2019,"Mammoth Mountain, CA",USA,Chile,Nor-Am Cup,Halfpipe,12,35.20
+57,Cowan Lola,Female,13-03-2019,"Mammoth Mountain, CA",USA,Chile,Nor-Am Cup,Slopestyle,8,57.60
+58,Cowan Lola,Female,14-02-2019,"Copper Mountain, CO",USA,Chile,FIS,Halfpipe,11,26.40
+59,Cowan Lola,Female,13-02-2019,"Copper Mountain, CO",USA,Chile,FIS,Slopestyle,17,12.60
+60,Cowan Lola,Female,12-12-2018,"Copper Mountain, CO",USA,Chile,Nor-Am Cup,Halfpipe,19,34.80
+61,Cowan Lola,Female,11-12-2018,"Copper Mountain, CO",USA,Chile,Nor-Am Cup,Halfpipe,21,29.00

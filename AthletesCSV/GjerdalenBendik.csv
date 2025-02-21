@@ -1,62 +1,63 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Gjerdalen Bendik,Male,08-02-2025,Klaeppen,SWE,Norway,FIS,Slopestyle,2,65.60
-1,Gjerdalen Bendik,Male,15-01-2025,Seiser Alm,ITA,Norway,European Cup,Slopestyle,6,65.70
-2,Gjerdalen Bendik,Male,11-01-2025,Kreischberg,AUT,Norway,World Cup,Big Air,17,189.80
-3,Gjerdalen Bendik,Male,11-01-2025,Kreischberg,AUT,Norway,Qualification,Big Air,10,
-4,Gjerdalen Bendik,Male,05-01-2025,Font Romeu,FRA,Norway,European Cup Premium,Slopestyle,13,38.30
-5,Gjerdalen Bendik,Male,17-03-2023,Laax,SUI,Norway,European Cup Premium,Slopestyle,19,85.90
-6,Gjerdalen Bendik,Male,04-03-2023,Bakuriani,GEO,Norway,World Championships,Big Air,14,161.50
-7,Gjerdalen Bendik,Male,02-03-2023,Bakuriani,GEO,Norway,Qualification,Big Air,6,
-8,Gjerdalen Bendik,Male,27-02-2023,Bakuriani,GEO,Norway,World Championships,Slopestyle,21,124.20
-9,Gjerdalen Bendik,Male,24-02-2023,Bakuriani,GEO,Norway,Qualification,Slopestyle,9,
-10,Gjerdalen Bendik,Male,12-02-2023,Calgary,CAN,Norway,World Cup,Slopestyle,37,15.70
-11,Gjerdalen Bendik,Male,10-02-2023,Calgary,CAN,Norway,Qualification,Slopestyle,18,
-12,Gjerdalen Bendik,Male,04-02-2023,Mammoth Mountain,USA,Norway,World Cup,Slopestyle,47,8.50
-13,Gjerdalen Bendik,Male,01-02-2023,Mammoth Mountain,USA,Norway,Qualification,Slopestyle,23,
-14,Gjerdalen Bendik,Male,22-01-2023,Laax,SUI,Norway,World Cup,Slopestyle,DNS,
-15,Gjerdalen Bendik,Male,18-01-2023,Laax,SUI,Norway,Qualification,Slopestyle,DNS,
-16,Gjerdalen Bendik,Male,17-12-2022,Copper Mountain,USA,Norway,World Cup,Big Air,54,3.90
-17,Gjerdalen Bendik,Male,15-12-2022,Copper Mountain,USA,Norway,Qualification,Big Air,28,
-18,Gjerdalen Bendik,Male,10-12-2022,Edmonton,CAN,Norway,World Cup,Big Air,22,124.00
-19,Gjerdalen Bendik,Male,09-12-2022,Edmonton,CAN,Norway,Qualification,Big Air,11,
-20,Gjerdalen Bendik,Male,22-10-2022,Chur,SUI,Norway,World Cup,Big Air,32,68.50
-21,Gjerdalen Bendik,Male,22-10-2022,Chur,SUI,Norway,Qualification,Big Air,18,
-22,Gjerdalen Bendik,Male,28-03-2021,Silvaplana,SUI,Norway,World Cup,Slopestyle,54,25.57
+0,Gjerdalen Bendik,Male,20-02-2025,Calgary,CAN,Norway,Qualification,Slopestyle,5,
+1,Gjerdalen Bendik,Male,08-02-2025,Klaeppen,SWE,Norway,FIS,Slopestyle,2,65.60
+2,Gjerdalen Bendik,Male,15-01-2025,Seiser Alm,ITA,Norway,European Cup,Slopestyle,6,65.70
+3,Gjerdalen Bendik,Male,11-01-2025,Kreischberg,AUT,Norway,World Cup,Big Air,17,189.80
+4,Gjerdalen Bendik,Male,11-01-2025,Kreischberg,AUT,Norway,Qualification,Big Air,10,
+5,Gjerdalen Bendik,Male,05-01-2025,Font Romeu,FRA,Norway,European Cup Premium,Slopestyle,13,38.30
+6,Gjerdalen Bendik,Male,17-03-2023,Laax,SUI,Norway,European Cup Premium,Slopestyle,19,85.90
+7,Gjerdalen Bendik,Male,04-03-2023,Bakuriani,GEO,Norway,World Championships,Big Air,14,161.50
+8,Gjerdalen Bendik,Male,02-03-2023,Bakuriani,GEO,Norway,Qualification,Big Air,6,
+9,Gjerdalen Bendik,Male,27-02-2023,Bakuriani,GEO,Norway,World Championships,Slopestyle,21,124.20
+10,Gjerdalen Bendik,Male,24-02-2023,Bakuriani,GEO,Norway,Qualification,Slopestyle,9,
+11,Gjerdalen Bendik,Male,12-02-2023,Calgary,CAN,Norway,World Cup,Slopestyle,37,15.70
+12,Gjerdalen Bendik,Male,10-02-2023,Calgary,CAN,Norway,Qualification,Slopestyle,18,
+13,Gjerdalen Bendik,Male,04-02-2023,Mammoth Mountain,USA,Norway,World Cup,Slopestyle,47,8.50
+14,Gjerdalen Bendik,Male,01-02-2023,Mammoth Mountain,USA,Norway,Qualification,Slopestyle,23,
+15,Gjerdalen Bendik,Male,22-01-2023,Laax,SUI,Norway,World Cup,Slopestyle,DNS,
+16,Gjerdalen Bendik,Male,18-01-2023,Laax,SUI,Norway,Qualification,Slopestyle,DNS,
+17,Gjerdalen Bendik,Male,17-12-2022,Copper Mountain,USA,Norway,World Cup,Big Air,54,3.90
+18,Gjerdalen Bendik,Male,15-12-2022,Copper Mountain,USA,Norway,Qualification,Big Air,28,
+19,Gjerdalen Bendik,Male,10-12-2022,Edmonton,CAN,Norway,World Cup,Big Air,22,124.00
+20,Gjerdalen Bendik,Male,09-12-2022,Edmonton,CAN,Norway,Qualification,Big Air,11,
+21,Gjerdalen Bendik,Male,22-10-2022,Chur,SUI,Norway,World Cup,Big Air,32,68.50
+22,Gjerdalen Bendik,Male,22-10-2022,Chur,SUI,Norway,Qualification,Big Air,18,
 23,Gjerdalen Bendik,Male,28-03-2021,Silvaplana,SUI,Norway,Qualification,Slopestyle,28,
-24,Gjerdalen Bendik,Male,20-03-2021,Aspen,USA,Norway,World Cup,Slopestyle,59,8.49
-25,Gjerdalen Bendik,Male,19-03-2021,Aspen,USA,Norway,Qualification,Slopestyle,30,
-26,Gjerdalen Bendik,Male,11-03-2021,Leysin,SUI,Norway,European Cup,Slopestyle,33,3.31
-27,Gjerdalen Bendik,Male,04-03-2021,Flachauwinkel,AUT,Norway,European Cup,Big Air,20,27.23
-28,Gjerdalen Bendik,Male,31-01-2021,Crans Montana,SUI,Norway,European Cup,Slopestyle,14,84.66
-29,Gjerdalen Bendik,Male,01-02-2020,Mammoth Mountain Resort,USA,Norway,World Cup,Slopestyle,41,
-30,Gjerdalen Bendik,Male,30-01-2020,Mammoth Mountain Resort,USA,Norway,Qualification,Slopestyle,20,
-31,Gjerdalen Bendik,Male,23-01-2020,Seiseralm,ITA,Norway,World Cup,Slopestyle,9,290.00
-32,Gjerdalen Bendik,Male,22-01-2020,Seiseralm,ITA,Norway,Qualification,Slopestyle,7,
-33,Gjerdalen Bendik,Male,15-01-2020,Laax,SUI,Norway,World Cup,Slopestyle,37,19.40
-34,Gjerdalen Bendik,Male,13-01-2020,Laax,SUI,Norway,Qualification,Slopestyle,20,
-35,Gjerdalen Bendik,Male,20-12-2019,Atlanta,USA,Norway,World Cup,Big Air,30,32.00
-36,Gjerdalen Bendik,Male,24-08-2019,Cardrona,NZL,Norway,World Cup,Big Air,31,28.00
-37,Gjerdalen Bendik,Male,23-08-2019,Cardrona,NZL,Norway,Qualification,Big Air,31,
-38,Gjerdalen Bendik,Male,15-08-2019,Cardrona Alpine Resort,NZL,Norway,Australian New Zealand Cup,Slopestyle,11,86.40
-39,Gjerdalen Bendik,Male,26-01-2019,Seiser Alm,ITA,Norway,World Cup,Slopestyle,27,45.00
-40,Gjerdalen Bendik,Male,24-01-2019,Seiser Alm,ITA,Norway,Qualification,Slopestyle,11,
-41,Gjerdalen Bendik,Male,18-01-2019,Laax,SUI,Norway,World Cup,Slopestyle,31,28.00
-42,Gjerdalen Bendik,Male,16-01-2019,Laax,SUI,Norway,Qualification,Slopestyle,14,
-43,Gjerdalen Bendik,Male,12-01-2019,Kreischberg,AUT,Norway,World Cup,Slopestyle,14,180.00
-44,Gjerdalen Bendik,Male,11-01-2019,Kreischberg,AUT,Norway,Qualification,Slopestyle,5,
-45,Gjerdalen Bendik,Male,21-12-2018,Secret Garden,CHN,Norway,World Cup,Slopestyle,22,90.00
-46,Gjerdalen Bendik,Male,20-12-2018,Secret Garden,CHN,Norway,Qualification,Slopestyle,22,
-47,Gjerdalen Bendik,Male,24-11-2018,Beijing,CHN,Norway,World Cup,Big Air,19,120.00
-48,Gjerdalen Bendik,Male,23-11-2018,Beijing,CHN,Norway,Qualification,Big Air,12,
-49,Gjerdalen Bendik,Male,03-11-2018,Modena SKIPASS,ITA,Norway,World Cup,Big Air,14,180.00
-50,Gjerdalen Bendik,Male,17-03-2018,Seiser Alm,ITA,Norway,World Cup,Slopestyle,24,70.00
-51,Gjerdalen Bendik,Male,16-03-2018,Seiser Alm,ITA,Norway,Qualification,Slopestyle,15,
-52,Gjerdalen Bendik,Male,12-01-2018,Snowmass,USA,Norway,World Cup,Slopestyle,38,19.10
-53,Gjerdalen Bendik,Male,10-01-2018,Snowmass,USA,Norway,Qualification,Slopestyle,19,
-54,Gjerdalen Bendik,Male,02-12-2017,Moenchengladbach,GER,Norway,World Cup,Big Air,34,22.00
-55,Gjerdalen Bendik,Male,11-03-2017,Sierra Nevada,ESP,Norway,World Championships,Slopestyle,43,17.60
-56,Gjerdalen Bendik,Male,09-03-2017,Sierra Nevada,ESP,Norway,Qualification,Slopestyle,18,
-57,Gjerdalen Bendik,Male,25-01-2017,Vars,FRA,Norway,European Cup,Slopestyle,3,96.00
-58,Gjerdalen Bendik,Male,24-01-2017,Vars,FRA,Norway,European Cup,Slopestyle,1,160.00
-59,Gjerdalen Bendik,Male,18-04-2015,Corvatsch,SUI,Norway,European Cup,Slopestyle,20,39.60
-60,Gjerdalen Bendik,Male,18-04-2015,Corvatsch,SUI,Norway,National Championships,Big Air,26,0.00
+24,Gjerdalen Bendik,Male,28-03-2021,Silvaplana,SUI,Norway,World Cup,Slopestyle,54,25.57
+25,Gjerdalen Bendik,Male,20-03-2021,Aspen,USA,Norway,World Cup,Slopestyle,59,8.49
+26,Gjerdalen Bendik,Male,19-03-2021,Aspen,USA,Norway,Qualification,Slopestyle,30,
+27,Gjerdalen Bendik,Male,11-03-2021,Leysin,SUI,Norway,European Cup,Slopestyle,33,3.31
+28,Gjerdalen Bendik,Male,04-03-2021,Flachauwinkel,AUT,Norway,European Cup,Big Air,20,27.23
+29,Gjerdalen Bendik,Male,31-01-2021,Crans Montana,SUI,Norway,European Cup,Slopestyle,14,84.66
+30,Gjerdalen Bendik,Male,01-02-2020,Mammoth Mountain Resort,USA,Norway,World Cup,Slopestyle,41,
+31,Gjerdalen Bendik,Male,30-01-2020,Mammoth Mountain Resort,USA,Norway,Qualification,Slopestyle,20,
+32,Gjerdalen Bendik,Male,23-01-2020,Seiseralm,ITA,Norway,World Cup,Slopestyle,9,290.00
+33,Gjerdalen Bendik,Male,22-01-2020,Seiseralm,ITA,Norway,Qualification,Slopestyle,7,
+34,Gjerdalen Bendik,Male,15-01-2020,Laax,SUI,Norway,World Cup,Slopestyle,37,19.40
+35,Gjerdalen Bendik,Male,13-01-2020,Laax,SUI,Norway,Qualification,Slopestyle,20,
+36,Gjerdalen Bendik,Male,20-12-2019,Atlanta,USA,Norway,World Cup,Big Air,30,32.00
+37,Gjerdalen Bendik,Male,24-08-2019,Cardrona,NZL,Norway,World Cup,Big Air,31,28.00
+38,Gjerdalen Bendik,Male,23-08-2019,Cardrona,NZL,Norway,Qualification,Big Air,31,
+39,Gjerdalen Bendik,Male,15-08-2019,Cardrona Alpine Resort,NZL,Norway,Australian New Zealand Cup,Slopestyle,11,86.40
+40,Gjerdalen Bendik,Male,26-01-2019,Seiser Alm,ITA,Norway,World Cup,Slopestyle,27,45.00
+41,Gjerdalen Bendik,Male,24-01-2019,Seiser Alm,ITA,Norway,Qualification,Slopestyle,11,
+42,Gjerdalen Bendik,Male,18-01-2019,Laax,SUI,Norway,World Cup,Slopestyle,31,28.00
+43,Gjerdalen Bendik,Male,16-01-2019,Laax,SUI,Norway,Qualification,Slopestyle,14,
+44,Gjerdalen Bendik,Male,12-01-2019,Kreischberg,AUT,Norway,World Cup,Slopestyle,14,180.00
+45,Gjerdalen Bendik,Male,11-01-2019,Kreischberg,AUT,Norway,Qualification,Slopestyle,5,
+46,Gjerdalen Bendik,Male,21-12-2018,Secret Garden,CHN,Norway,World Cup,Slopestyle,22,90.00
+47,Gjerdalen Bendik,Male,20-12-2018,Secret Garden,CHN,Norway,Qualification,Slopestyle,22,
+48,Gjerdalen Bendik,Male,24-11-2018,Beijing,CHN,Norway,World Cup,Big Air,19,120.00
+49,Gjerdalen Bendik,Male,23-11-2018,Beijing,CHN,Norway,Qualification,Big Air,12,
+50,Gjerdalen Bendik,Male,03-11-2018,Modena SKIPASS,ITA,Norway,World Cup,Big Air,14,180.00
+51,Gjerdalen Bendik,Male,17-03-2018,Seiser Alm,ITA,Norway,World Cup,Slopestyle,24,70.00
+52,Gjerdalen Bendik,Male,16-03-2018,Seiser Alm,ITA,Norway,Qualification,Slopestyle,15,
+53,Gjerdalen Bendik,Male,12-01-2018,Snowmass,USA,Norway,World Cup,Slopestyle,38,19.10
+54,Gjerdalen Bendik,Male,10-01-2018,Snowmass,USA,Norway,Qualification,Slopestyle,19,
+55,Gjerdalen Bendik,Male,02-12-2017,Moenchengladbach,GER,Norway,World Cup,Big Air,34,22.00
+56,Gjerdalen Bendik,Male,11-03-2017,Sierra Nevada,ESP,Norway,World Championships,Slopestyle,43,17.60
+57,Gjerdalen Bendik,Male,09-03-2017,Sierra Nevada,ESP,Norway,Qualification,Slopestyle,18,
+58,Gjerdalen Bendik,Male,25-01-2017,Vars,FRA,Norway,European Cup,Slopestyle,3,96.00
+59,Gjerdalen Bendik,Male,24-01-2017,Vars,FRA,Norway,European Cup,Slopestyle,1,160.00
+60,Gjerdalen Bendik,Male,18-04-2015,Corvatsch,SUI,Norway,European Cup,Slopestyle,20,39.60
+61,Gjerdalen Bendik,Male,18-04-2015,Corvatsch,SUI,Norway,National Championships,Big Air,26,0.00

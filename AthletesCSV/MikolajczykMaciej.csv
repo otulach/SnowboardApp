@@ -1,69 +1,70 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Mikolajczyk Maciej,Male,02-02-2025,Ratschings,ITA,Poland,Qualification,Parallel Slalom,36,
-1,Mikolajczyk Maciej,Male,02-02-2025,Ratschings,ITA,Poland,European Cup,Parallel Slalom,35,
-2,Mikolajczyk Maciej,Male,01-02-2025,Ratschings,ITA,Poland,Qualification,Parallel Slalom,33,
-3,Mikolajczyk Maciej,Male,01-02-2025,Ratschings,ITA,Poland,European Cup,Parallel Slalom,33,6.96
-4,Mikolajczyk Maciej,Male,19-01-2025,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,1,90.00
-5,Mikolajczyk Maciej,Male,18-01-2025,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,3,54.00
-6,Mikolajczyk Maciej,Male,11-01-2025,Folgaria,ITA,Poland,Qualification,Parallel Giant Slalom,18,
-7,Mikolajczyk Maciej,Male,11-01-2025,Folgaria,ITA,Poland,European Cup,Parallel Giant Slalom,18,23.40
-8,Mikolajczyk Maciej,Male,10-01-2025,Folgaria,ITA,Poland,Qualification,Parallel Giant Slalom,DSQ,
-9,Mikolajczyk Maciej,Male,10-01-2025,Folgaria,ITA,Poland,European Cup,Parallel Giant Slalom,DSQ,
-10,Mikolajczyk Maciej,Male,22-12-2024,Moninec,CZE,Poland,FIS,Parallel Slalom,22,14.40
-11,Mikolajczyk Maciej,Male,21-12-2024,Moninec,CZE,Poland,FIS,Parallel Slalom,20,17.60
-12,Mikolajczyk Maciej,Male,20-12-2024,Moninec,CZE,Poland,European Cup,Parallel Slalom,15,28.80
-13,Mikolajczyk Maciej,Male,19-12-2024,Moninec,CZE,Poland,European Cup,Parallel Slalom,DSQ,
-14,Mikolajczyk Maciej,Male,15-12-2024,Götschen,GER,Poland,European Cup,Parallel Slalom,39,4.51
-15,Mikolajczyk Maciej,Male,14-12-2024,Götschen,GER,Poland,European Cup,Parallel Slalom,25,9.60
-16,Mikolajczyk Maciej,Male,24-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Slalom Team,18,
-17,Mikolajczyk Maciej,Male,23-03-2024,Lachtal,AUT,Poland,Qualification,Parallel Slalom,24,
-18,Mikolajczyk Maciej,Male,23-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Slalom,24,16.80
-19,Mikolajczyk Maciej,Male,22-03-2024,Lachtal,AUT,Poland,Qualification,Parallel Giant Slalom,20,
-20,Mikolajczyk Maciej,Male,22-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Giant Slalom,20,26.40
-21,Mikolajczyk Maciej,Male,17-03-2024,Spindleruv Mlyn,CZE,Poland,FIS,Parallel Slalom,2,56.00
-22,Mikolajczyk Maciej,Male,16-03-2024,Spindleruv Mlyn,CZE,Poland,FIS,Parallel Slalom,18,
-23,Mikolajczyk Maciej,Male,25-02-2024,Krynica,POL,Poland,World Cup,Parallel Giant Slalom,38,
-24,Mikolajczyk Maciej,Male,25-02-2024,Krynica,POL,Poland,Qualification,Parallel Giant Slalom,38,
-25,Mikolajczyk Maciej,Male,24-02-2024,Krynica,POL,Poland,Qualification,Parallel Giant Slalom,35,
-26,Mikolajczyk Maciej,Male,24-02-2024,Krynica,POL,Poland,World Cup,Parallel Giant Slalom,35,20.00
-27,Mikolajczyk Maciej,Male,04-02-2024,Haus im Ennstal,AUT,Poland,Junior,Parallel Giant Slalom,DNS,
-28,Mikolajczyk Maciej,Male,03-02-2024,Haus im Ennstal,AUT,Poland,Junior,Parallel Giant Slalom,15,22.40
-29,Mikolajczyk Maciej,Male,10-12-2023,Götschen,GER,Poland,Junior,Parallel Slalom,6,52.00
-30,Mikolajczyk Maciej,Male,09-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,44,
-31,Mikolajczyk Maciej,Male,09-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,44,6.23
-32,Mikolajczyk Maciej,Male,08-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,56,
-33,Mikolajczyk Maciej,Male,08-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,56,4.93
-34,Mikolajczyk Maciej,Male,02-04-2023,Haus im Ennstal,AUT,Poland,National Championships,Parallel Slalom,DSQ,
-35,Mikolajczyk Maciej,Male,01-04-2023,Haus im Ennstal,AUT,Poland,National Championships,Parallel Giant Slalom,30,9.28
-36,Mikolajczyk Maciej,Male,26-03-2023,Villach - Gerlitzen,AUT,Poland,FIS,Parallel Slalom,5,99.00
-37,Mikolajczyk Maciej,Male,25-03-2023,Villach - Gerlitzen,AUT,Poland,FIS,Parallel Slalom,15,35.20
-38,Mikolajczyk Maciej,Male,05-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,41,5.82
-39,Mikolajczyk Maciej,Male,04-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,38,6.88
-40,Mikolajczyk Maciej,Male,27-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,13,24.00
-41,Mikolajczyk Maciej,Male,26-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,12,26.40
-42,Mikolajczyk Maciej,Male,25-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,9,34.80
-43,Mikolajczyk Maciej,Male,04-01-2023,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,18,33.80
-44,Mikolajczyk Maciej,Male,01-04-2022,Chiesa in Valmalenco,ITA,Poland,FIS Junior World Championships,Parallel Slalom,DNF,
-45,Mikolajczyk Maciej,Male,31-03-2022,Chiesa in Valmalenco,ITA,Poland,FIS Junior World Championships,Parallel Giant Slalom,33,5.76
-46,Mikolajczyk Maciej,Male,09-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,DSQ,
-47,Mikolajczyk Maciej,Male,08-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,14,52.20
-48,Mikolajczyk Maciej,Male,20-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,9,29.00
-49,Mikolajczyk Maciej,Male,19-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,DSQ,
-50,Mikolajczyk Maciej,Male,30-01-2022,Davos,SUI,Poland,European Cup,Parallel Slalom,27,16.20
-51,Mikolajczyk Maciej,Male,29-01-2022,Davos,SUI,Poland,European Cup,Parallel Slalom,30,
-52,Mikolajczyk Maciej,Male,23-01-2022,Bukovel,UKR,Poland,European Cup,Parallel Giant Slalom,27,11.70
-53,Mikolajczyk Maciej,Male,22-01-2022,Bukovel,UKR,Poland,European Cup,Parallel Giant Slalom,37,5.04
-54,Mikolajczyk Maciej,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,FIS,Parallel Slalom,6,72.00
-55,Mikolajczyk Maciej,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,FIS,Slalom,5,81.00
-56,Mikolajczyk Maciej,Male,21-12-2021,Moninec,CZE,Poland,Junior,Parallel Slalom,16,7.50
-57,Mikolajczyk Maciej,Male,20-12-2021,Moninec,CZE,Poland,Junior,Parallel Slalom,7,25.20
-58,Mikolajczyk Maciej,Male,19-12-2021,Moninec,CZE,Poland,European Cup,Parallel Slalom,32,5.72
-59,Mikolajczyk Maciej,Male,18-12-2021,Moninec,CZE,Poland,European Cup,Parallel Slalom,48,3.22
-60,Mikolajczyk Maciej,Male,12-12-2021,Götschen,GER,Poland,European Cup,Parallel Slalom,37,4.27
-61,Mikolajczyk Maciej,Male,11-12-2021,Götschen,GER,Poland,European Cup,Parallel Slalom,16,33.00
-62,Mikolajczyk Maciej,Male,09-03-2021,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,44,5.02
-63,Mikolajczyk Maciej,Male,08-03-2021,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,DSQ,
-64,Mikolajczyk Maciej,Male,09-02-2020,Gerlitzen,AUT,Poland,FIS,Giant Slalom,DNF1,
-65,Mikolajczyk Maciej,Male,08-02-2020,Gerlitzen,AUT,Poland,FIS,Giant Slalom,DSQ1,
-66,Mikolajczyk Maciej,Male,26-01-2020,Gosau,AUT,Poland,FIS,Parallel Slalom,29,6.48
-67,Mikolajczyk Maciej,Male,25-01-2020,Gosau,AUT,Poland,FIS,Parallel Slalom,27,8.10
+0,Mikolajczyk Maciej,Male,20-02-2025,KRYNICA,POL,Poland,National Championships,Parallel Giant Slalom,DSQ,
+1,Mikolajczyk Maciej,Male,02-02-2025,Ratschings,ITA,Poland,Qualification,Parallel Slalom,36,
+2,Mikolajczyk Maciej,Male,02-02-2025,Ratschings,ITA,Poland,European Cup,Parallel Slalom,35,
+3,Mikolajczyk Maciej,Male,01-02-2025,Ratschings,ITA,Poland,Qualification,Parallel Slalom,33,
+4,Mikolajczyk Maciej,Male,01-02-2025,Ratschings,ITA,Poland,European Cup,Parallel Slalom,33,6.96
+5,Mikolajczyk Maciej,Male,19-01-2025,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,1,90.00
+6,Mikolajczyk Maciej,Male,18-01-2025,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,3,54.00
+7,Mikolajczyk Maciej,Male,11-01-2025,Folgaria,ITA,Poland,Qualification,Parallel Giant Slalom,18,
+8,Mikolajczyk Maciej,Male,11-01-2025,Folgaria,ITA,Poland,European Cup,Parallel Giant Slalom,18,23.40
+9,Mikolajczyk Maciej,Male,10-01-2025,Folgaria,ITA,Poland,Qualification,Parallel Giant Slalom,DSQ,
+10,Mikolajczyk Maciej,Male,10-01-2025,Folgaria,ITA,Poland,European Cup,Parallel Giant Slalom,DSQ,
+11,Mikolajczyk Maciej,Male,22-12-2024,Moninec,CZE,Poland,FIS,Parallel Slalom,22,14.40
+12,Mikolajczyk Maciej,Male,21-12-2024,Moninec,CZE,Poland,FIS,Parallel Slalom,20,17.60
+13,Mikolajczyk Maciej,Male,20-12-2024,Moninec,CZE,Poland,European Cup,Parallel Slalom,15,28.80
+14,Mikolajczyk Maciej,Male,19-12-2024,Moninec,CZE,Poland,European Cup,Parallel Slalom,DSQ,
+15,Mikolajczyk Maciej,Male,15-12-2024,Götschen,GER,Poland,European Cup,Parallel Slalom,39,4.51
+16,Mikolajczyk Maciej,Male,14-12-2024,Götschen,GER,Poland,European Cup,Parallel Slalom,25,9.60
+17,Mikolajczyk Maciej,Male,24-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Slalom Team,18,
+18,Mikolajczyk Maciej,Male,23-03-2024,Lachtal,AUT,Poland,Qualification,Parallel Slalom,24,
+19,Mikolajczyk Maciej,Male,23-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Slalom,24,16.80
+20,Mikolajczyk Maciej,Male,22-03-2024,Lachtal,AUT,Poland,Qualification,Parallel Giant Slalom,20,
+21,Mikolajczyk Maciej,Male,22-03-2024,Lachtal,AUT,Poland,FIS Junior World Championships,Parallel Giant Slalom,20,26.40
+22,Mikolajczyk Maciej,Male,17-03-2024,Spindleruv Mlyn,CZE,Poland,FIS,Parallel Slalom,2,56.00
+23,Mikolajczyk Maciej,Male,16-03-2024,Spindleruv Mlyn,CZE,Poland,FIS,Parallel Slalom,18,
+24,Mikolajczyk Maciej,Male,25-02-2024,Krynica,POL,Poland,World Cup,Parallel Giant Slalom,38,
+25,Mikolajczyk Maciej,Male,25-02-2024,Krynica,POL,Poland,Qualification,Parallel Giant Slalom,38,
+26,Mikolajczyk Maciej,Male,24-02-2024,Krynica,POL,Poland,Qualification,Parallel Giant Slalom,35,
+27,Mikolajczyk Maciej,Male,24-02-2024,Krynica,POL,Poland,World Cup,Parallel Giant Slalom,35,20.00
+28,Mikolajczyk Maciej,Male,04-02-2024,Haus im Ennstal,AUT,Poland,Junior,Parallel Giant Slalom,DNS,
+29,Mikolajczyk Maciej,Male,03-02-2024,Haus im Ennstal,AUT,Poland,Junior,Parallel Giant Slalom,15,22.40
+30,Mikolajczyk Maciej,Male,10-12-2023,Götschen,GER,Poland,Junior,Parallel Slalom,6,52.00
+31,Mikolajczyk Maciej,Male,09-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,44,
+32,Mikolajczyk Maciej,Male,09-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,44,6.23
+33,Mikolajczyk Maciej,Male,08-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,56,
+34,Mikolajczyk Maciej,Male,08-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,56,4.93
+35,Mikolajczyk Maciej,Male,02-04-2023,Haus im Ennstal,AUT,Poland,National Championships,Parallel Slalom,DSQ,
+36,Mikolajczyk Maciej,Male,01-04-2023,Haus im Ennstal,AUT,Poland,National Championships,Parallel Giant Slalom,30,9.28
+37,Mikolajczyk Maciej,Male,26-03-2023,Villach - Gerlitzen,AUT,Poland,FIS,Parallel Slalom,5,99.00
+38,Mikolajczyk Maciej,Male,25-03-2023,Villach - Gerlitzen,AUT,Poland,FIS,Parallel Slalom,15,35.20
+39,Mikolajczyk Maciej,Male,05-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,41,5.82
+40,Mikolajczyk Maciej,Male,04-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,38,6.88
+41,Mikolajczyk Maciej,Male,27-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,13,24.00
+42,Mikolajczyk Maciej,Male,26-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,12,26.40
+43,Mikolajczyk Maciej,Male,25-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,9,34.80
+44,Mikolajczyk Maciej,Male,04-01-2023,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,18,33.80
+45,Mikolajczyk Maciej,Male,01-04-2022,Chiesa in Valmalenco,ITA,Poland,FIS Junior World Championships,Parallel Slalom,DNF,
+46,Mikolajczyk Maciej,Male,31-03-2022,Chiesa in Valmalenco,ITA,Poland,FIS Junior World Championships,Parallel Giant Slalom,33,5.76
+47,Mikolajczyk Maciej,Male,09-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,DSQ,
+48,Mikolajczyk Maciej,Male,08-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,14,52.20
+49,Mikolajczyk Maciej,Male,20-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,9,29.00
+50,Mikolajczyk Maciej,Male,19-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,DSQ,
+51,Mikolajczyk Maciej,Male,30-01-2022,Davos,SUI,Poland,European Cup,Parallel Slalom,27,16.20
+52,Mikolajczyk Maciej,Male,29-01-2022,Davos,SUI,Poland,European Cup,Parallel Slalom,30,
+53,Mikolajczyk Maciej,Male,23-01-2022,Bukovel,UKR,Poland,European Cup,Parallel Giant Slalom,27,11.70
+54,Mikolajczyk Maciej,Male,22-01-2022,Bukovel,UKR,Poland,European Cup,Parallel Giant Slalom,37,5.04
+55,Mikolajczyk Maciej,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,FIS,Parallel Slalom,6,72.00
+56,Mikolajczyk Maciej,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,FIS,Slalom,5,81.00
+57,Mikolajczyk Maciej,Male,21-12-2021,Moninec,CZE,Poland,Junior,Parallel Slalom,16,7.50
+58,Mikolajczyk Maciej,Male,20-12-2021,Moninec,CZE,Poland,Junior,Parallel Slalom,7,25.20
+59,Mikolajczyk Maciej,Male,19-12-2021,Moninec,CZE,Poland,European Cup,Parallel Slalom,32,5.72
+60,Mikolajczyk Maciej,Male,18-12-2021,Moninec,CZE,Poland,European Cup,Parallel Slalom,48,3.22
+61,Mikolajczyk Maciej,Male,12-12-2021,Götschen,GER,Poland,European Cup,Parallel Slalom,37,4.27
+62,Mikolajczyk Maciej,Male,11-12-2021,Götschen,GER,Poland,European Cup,Parallel Slalom,16,33.00
+63,Mikolajczyk Maciej,Male,09-03-2021,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,44,5.02
+64,Mikolajczyk Maciej,Male,08-03-2021,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,DSQ,
+65,Mikolajczyk Maciej,Male,09-02-2020,Gerlitzen,AUT,Poland,FIS,Giant Slalom,DNF1,
+66,Mikolajczyk Maciej,Male,08-02-2020,Gerlitzen,AUT,Poland,FIS,Giant Slalom,DSQ1,
+67,Mikolajczyk Maciej,Male,26-01-2020,Gosau,AUT,Poland,FIS,Parallel Slalom,29,6.48
+68,Mikolajczyk Maciej,Male,25-01-2020,Gosau,AUT,Poland,FIS,Parallel Slalom,27,8.10

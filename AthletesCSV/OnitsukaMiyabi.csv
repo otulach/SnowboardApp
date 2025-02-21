@@ -1,125 +1,126 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Onitsuka Miyabi,Female,06-02-2025,Aspen,USA,Japan,World Cup,Big Air,8,303.70
-1,Onitsuka Miyabi,Female,05-02-2025,Aspen,USA,Japan,Qualification,Big Air,7,
-2,Onitsuka Miyabi,Female,02-02-2025,Aspen,USA,Japan,World Cup,Slopestyle,13,183.90
-3,Onitsuka Miyabi,Female,31-01-2025,Aspen,USA,Japan,Qualification,Slopestyle,13,
-4,Onitsuka Miyabi,Female,18-01-2025,Laax,SUI,Japan,World Cup,Slopestyle,7,367.40
-5,Onitsuka Miyabi,Female,16-01-2025,Laax,SUI,Japan,Qualification,Slopestyle,7,
-6,Onitsuka Miyabi,Female,11-01-2025,Kreischberg,AUT,Japan,World Cup,Big Air,7,361.70
-7,Onitsuka Miyabi,Female,09-01-2025,Kreischberg,AUT,Japan,Qualification,Big Air,6,
-8,Onitsuka Miyabi,Female,01-12-2024,Beijing,CHN,Japan,World Cup,Big Air,4,569.90
-9,Onitsuka Miyabi,Female,30-11-2024,Beijing,CHN,Japan,Qualification,Big Air,4,
-10,Onitsuka Miyabi,Female,19-10-2024,Chur,SUI,Japan,World Cup,Big Air,8,320.00
-11,Onitsuka Miyabi,Female,02-09-2024,Cardrona,NZL,Japan,World Cup,Slopestyle,12,206.30
-12,Onitsuka Miyabi,Female,31-08-2024,Cardrona,NZL,Japan,Qualification,Slopestyle,12,
-13,Onitsuka Miyabi,Female,14-04-2024,Corvatsch,SUI,Japan,European Cup Premium,Big Air,13,80.90
-14,Onitsuka Miyabi,Female,12-04-2024,Corvatsch,SUI,Japan,European Cup Premium,Slopestyle,1,360.00
-15,Onitsuka Miyabi,Female,23-03-2024,Silvaplana,SUI,Japan,World Cup,Slopestyle,5,385.70
-16,Onitsuka Miyabi,Female,21-03-2024,Silvaplana,SUI,Japan,Qualification,Slopestyle,6,
-17,Onitsuka Miyabi,Female,15-03-2024,Tignes,FRA,Japan,World Cup,Slopestyle,2,655.10
-18,Onitsuka Miyabi,Female,14-03-2024,Tignes,FRA,Japan,Qualification,Slopestyle,6,
-19,Onitsuka Miyabi,Female,20-01-2024,Laax,SUI,Japan,World Cup,Slopestyle,17,115.30
-20,Onitsuka Miyabi,Female,16-01-2024,Laax,SUI,Japan,Qualification,Slopestyle,17,
-21,Onitsuka Miyabi,Female,15-12-2023,Copper Mountain,USA,Japan,World Cup,Big Air,6,382.70
-22,Onitsuka Miyabi,Female,13-12-2023,Copper Mountain,USA,Japan,Qualification,Big Air,6,
-23,Onitsuka Miyabi,Female,09-12-2023,Edmonton,CAN,Japan,World Cup,Big Air,6,345.50
-24,Onitsuka Miyabi,Female,08-12-2023,Edmonton,CAN,Japan,Qualification,Big Air,5,
-25,Onitsuka Miyabi,Female,02-12-2023,Beijing,CHN,Japan,World Cup,Big Air,3,642.80
-26,Onitsuka Miyabi,Female,01-12-2023,Beijing,CHN,Japan,Qualification,Big Air,4,
-27,Onitsuka Miyabi,Female,21-10-2023,Chur,SUI,Japan,Qualification,Big Air,7,
-28,Onitsuka Miyabi,Female,21-10-2023,Chur,SUI,Japan,World Cup,Big Air,6,388.40
-29,Onitsuka Miyabi,Female,25-03-2023,Silvaplana,SUI,Japan,World Cup,Slopestyle,5,440.30
-30,Onitsuka Miyabi,Female,23-03-2023,Silvaplana,SUI,Japan,Qualification,Slopestyle,5,
-31,Onitsuka Miyabi,Female,04-03-2023,Bakuriani,GEO,Japan,World Championships,Big Air,2,822.10
-32,Onitsuka Miyabi,Female,02-03-2023,Bakuriani,GEO,Japan,Qualification,Big Air,3,
-33,Onitsuka Miyabi,Female,27-02-2023,Bakuriani,GEO,Japan,Qualification,Slopestyle,5,
-34,Onitsuka Miyabi,Female,27-02-2023,Bakuriani,GEO,Japan,World Championships,Slopestyle,3,687.10
-35,Onitsuka Miyabi,Female,12-02-2023,Calgary,CAN,Japan,World Cup,Slopestyle,4,297.00
-36,Onitsuka Miyabi,Female,11-02-2023,Calgary,CAN,Japan,Qualification,Slopestyle,4,
-37,Onitsuka Miyabi,Female,04-02-2023,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,18,19.10
-38,Onitsuka Miyabi,Female,01-02-2023,Mammoth Mountain,USA,Japan,Qualification,Slopestyle,18,
-39,Onitsuka Miyabi,Female,22-01-2023,Laax,SUI,Japan,World Cup,Slopestyle,5,488.80
-40,Onitsuka Miyabi,Female,20-01-2023,Laax,SUI,Japan,Qualification,Slopestyle,5,
-41,Onitsuka Miyabi,Female,14-01-2023,Kreischberg,AUT,Japan,Qualification,Big Air,6,
-42,Onitsuka Miyabi,Female,14-01-2023,Kreischberg,AUT,Japan,World Cup,Big Air,4,568.10
-43,Onitsuka Miyabi,Female,17-12-2022,Copper Mountain,USA,Japan,World Cup,Big Air,3,544.70
-44,Onitsuka Miyabi,Female,15-12-2022,Copper Mountain,USA,Japan,Qualification,Big Air,5,
-45,Onitsuka Miyabi,Female,10-12-2022,Edmonton,CAN,Japan,World Cup,Big Air,DNS,
-46,Onitsuka Miyabi,Female,09-12-2022,Edmonton,CAN,Japan,Qualification,Big Air,DNS,
-47,Onitsuka Miyabi,Female,15-02-2022,Beijing,CHN,Japan,Olympic Winter Games,Big Air,11,222.20
-48,Onitsuka Miyabi,Female,14-02-2022,Beijing,CHN,Japan,Qualification,Big Air,5,
-49,Onitsuka Miyabi,Female,06-02-2022,Beijing,CHN,Japan,Olympic Winter Games,Slopestyle,19,91.40
-50,Onitsuka Miyabi,Female,05-02-2022,Beijing,CHN,Japan,Qualification,Slopestyle,19,
-51,Onitsuka Miyabi,Female,08-01-2022,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,DNS,
-52,Onitsuka Miyabi,Female,06-01-2022,Mammoth Mountain,USA,Japan,Qualification,Slopestyle,DNS,
-53,Onitsuka Miyabi,Female,01-01-2022,Calgary,CAN,Japan,World Cup,Slopestyle,2,658.10
-54,Onitsuka Miyabi,Female,31-12-2021,Calgary,CAN,Japan,Qualification,Slopestyle,2,
-55,Onitsuka Miyabi,Female,04-12-2021,Steamboat,USA,Japan,World Cup,Big Air,12,206.30
-56,Onitsuka Miyabi,Female,02-12-2021,Steamboat,USA,Japan,Qualification,Big Air,12,
-57,Onitsuka Miyabi,Female,23-10-2021,Chur,SUI,Japan,World Cup,Big Air,10,245.60
-58,Onitsuka Miyabi,Female,28-03-2021,Silvaplana,SUI,Japan,Qualification,Slopestyle,7,
-59,Onitsuka Miyabi,Female,28-03-2021,Silvaplana,SUI,Japan,World Cup,Slopestyle,12,109.62
-60,Onitsuka Miyabi,Female,20-03-2021,Aspen,USA,Japan,World Cup,Slopestyle,10,251.40
-61,Onitsuka Miyabi,Female,19-03-2021,Aspen,USA,Japan,Qualification,Slopestyle,10,
-62,Onitsuka Miyabi,Female,16-03-2021,Aspen,USA,Japan,World Championships,Big Air,3,684.81
-63,Onitsuka Miyabi,Female,14-03-2021,Aspen,USA,Japan,Qualification,Big Air,7,
-64,Onitsuka Miyabi,Female,12-03-2021,Aspen,USA,Japan,World Championships,Slopestyle,27,0.38
-65,Onitsuka Miyabi,Female,10-03-2021,Aspen,USA,Japan,Qualification,Slopestyle,27,
-66,Onitsuka Miyabi,Female,22-01-2021,Laax,SUI,Japan,World Cup,Slopestyle,13,140.80
-67,Onitsuka Miyabi,Female,20-01-2021,Laax,SUI,Japan,Qualification,Slopestyle,13,
-68,Onitsuka Miyabi,Female,09-01-2021,Kreischberg,AUT,Japan,World Cup,Big Air,5,490.14
-69,Onitsuka Miyabi,Female,07-01-2021,Kreischberg ,AUT,Japan,Qualification,Big Air,1,
-70,Onitsuka Miyabi,Female,20-12-2019,Atlanta,USA,Japan,World Cup,Big Air,5,450.00
-71,Onitsuka Miyabi,Female,14-12-2019,Beijing,CHN,Japan,World Cup,Big Air,1,1000.00
-72,Onitsuka Miyabi,Female,12-12-2019,Beijing,CHN,Japan,Qualification,Big Air,8,
-73,Onitsuka Miyabi,Female,02-11-2019,Modena SKIPASS,ITA,Japan,World Cup,Big Air,18,130.00
-74,Onitsuka Miyabi,Female,01-11-2019,Modena SKIPASS,ITA,Japan,Qualification,Big Air,18,
-75,Onitsuka Miyabi,Female,10-02-2019,Park City,USA,Japan,World Championships,Slopestyle,17,140.00
-76,Onitsuka Miyabi,Female,09-02-2019,Park City,USA,Japan,Qualification,Slopestyle,17,
-77,Onitsuka Miyabi,Female,12-01-2019,Kreischberg,AUT,Japan,World Cup,Slopestyle,1,1000.00
-78,Onitsuka Miyabi,Female,11-01-2019,Kreischberg,AUT,Japan,Qualification,Slopestyle,3,
-79,Onitsuka Miyabi,Female,21-12-2018,Secret Garden,CHN,Japan,World Cup,Slopestyle,1,1000.00
-80,Onitsuka Miyabi,Female,20-12-2018,Secret Garden,CHN,Japan,Qualification,Slopestyle,1,
-81,Onitsuka Miyabi,Female,24-11-2018,Beijing,CHN,Japan,World Cup,Big Air,2,800.00
-82,Onitsuka Miyabi,Female,23-11-2018,Beijing,CHN,Japan,Qualification,Big Air,4,
-83,Onitsuka Miyabi,Female,03-11-2018,Modena SKIPASS,ITA,Japan,World Cup,Big Air,2,800.00
-84,Onitsuka Miyabi,Female,08-09-2018,Cardrona,NZL,Japan,World Cup,Big Air,2,800.00
-85,Onitsuka Miyabi,Female,06-09-2018,Cardrona,NZL,Japan,Qualification,Big Air,2,
-86,Onitsuka Miyabi,Female,16-03-2018,Seiser Alm,ITA,Japan,World Cup,Slopestyle,4,500.00
-87,Onitsuka Miyabi,Female,22-02-2018,Alpensia Jumping Park,KOR,Japan,Olympic Winter Games,Big Air,8,320.00
-88,Onitsuka Miyabi,Female,19-02-2018,Alpensia Jumping Park,KOR,Japan,Qualification,Big Air,7,
-89,Onitsuka Miyabi,Female,12-02-2018,Phoenix Snow Park,KOR,Japan,Olympic Winter Games,Slopestyle,19,120.00
-90,Onitsuka Miyabi,Female,02-12-2017,Moenchengladbach,GER,Japan,World Cup,Big Air,2,800.00
-91,Onitsuka Miyabi,Female,25-11-2017,Beijing,CHN,Japan,World Cup,Big Air,2,800.00
-92,Onitsuka Miyabi,Female,24-11-2017,Beijing,CHN,Japan,Qualification,Big Air,2,
-93,Onitsuka Miyabi,Female,11-11-2017,Milan,ITA,Japan,World Cup,Big Air,7,360.00
-94,Onitsuka Miyabi,Female,04-09-2017,Cardrona,NZL,Japan,World Cup,Slopestyle,2,800.00
-95,Onitsuka Miyabi,Female,03-09-2017,Cardrona,NZL,Japan,Qualification,Slopestyle,3,
-96,Onitsuka Miyabi,Female,17-03-2017,Sierra Nevada,ESP,Japan,World Championships,Big Air,14,180.00
-97,Onitsuka Miyabi,Female,16-03-2017,Sierra Nevada,ESP,Japan,Qualification,Big Air,8,
-98,Onitsuka Miyabi,Female,11-03-2017,Sierra Nevada,ESP,Japan,World Championships,Slopestyle,3,600.00
-99,Onitsuka Miyabi,Female,09-03-2017,Sierra Nevada,ESP,Japan,Qualification,Slopestyle,1,
-100,Onitsuka Miyabi,Female,12-02-2017,Quebec City,CAN,Japan,World Cup,Slopestyle,DNS,
-101,Onitsuka Miyabi,Female,11-02-2017,Quebec City,CAN,Japan,World Cup,Big Air,6,400.00
-102,Onitsuka Miyabi,Female,10-02-2017,Quebec City,CAN,Japan,Qualification,Slopestyle,DNS,
-103,Onitsuka Miyabi,Female,09-02-2017,Quebec City,CAN,Japan,Qualification,Big Air,3,
-104,Onitsuka Miyabi,Female,27-01-2017,Seiser Alm,ITA,Japan,World Cup,Slopestyle,4,500.00
-105,Onitsuka Miyabi,Female,25-01-2017,Seiser Alm,ITA,Japan,Qualification,Slopestyle,3,
-106,Onitsuka Miyabi,Female,20-01-2017,Laax,SUI,Japan,World Cup,Slopestyle,23,80.00
-107,Onitsuka Miyabi,Female,17-01-2017,Laax,SUI,Japan,Qualification,Slopestyle,11,
-108,Onitsuka Miyabi,Female,14-01-2017,Kreischberg,AUT,Japan,World Cup,Slopestyle,9,290.00
-109,Onitsuka Miyabi,Female,13-01-2017,Kreischberg,AUT,Japan,Qualification,Slopestyle,9,
-110,Onitsuka Miyabi,Female,07-01-2017,Moscow,RUS,Japan,World Cup,Big Air,9,290.00
-111,Onitsuka Miyabi,Female,03-12-2016,Moenchengladbach,GER,Japan,World Cup,Big Air,3,600.00
-112,Onitsuka Miyabi,Female,26-11-2016,Alpensia,KOR,Japan,Qualification,Big Air,7,
-113,Onitsuka Miyabi,Female,26-11-2016,Alpensia,KOR,Japan,World Cup,Big Air,7,360.00
-114,Onitsuka Miyabi,Female,11-02-2016,Boston,USA,Japan,World Cup,Big Air,10,260.00
-115,Onitsuka Miyabi,Female,22-08-2015,Cardrona,NZL,Japan,World Cup,Slopestyle,11,240.00
-116,Onitsuka Miyabi,Female,20-08-2015,Cardrona,NZL,Japan,Qualification,Slopestyle,11,
-117,Onitsuka Miyabi,Female,21-01-2015,Kreischberg,AUT,Japan,World Championships,Slopestyle,1,1000.00
-118,Onitsuka Miyabi,Female,19-01-2015,Kreischberg,AUT,Japan,Qualification,Slopestyle,2,
-119,Onitsuka Miyabi,Female,01-04-2014,Niseko,JPN,Japan,National Championships,Slopestyle,1,50.00
-120,Onitsuka Miyabi,Female,22-12-2013,"Copper Mountain, CO",USA,Japan,World Cup,Slopestyle,46,16.70
-121,Onitsuka Miyabi,Female,20-12-2013,"Copper Mountain, CO",USA,Japan,Qualification,Slopestyle,24,
-122,Onitsuka Miyabi,Female,17-08-2013,Valle Nevado,CHI,Japan,South American Cup,Slopestyle,1,360.00
-123,Onitsuka Miyabi,Female,20-12-2011,"Copper, CO",USA,Japan,FIS,Slopestyle,11,57.60
+0,Onitsuka Miyabi,Female,20-02-2025,Calgary,CAN,Japan,Qualification,Slopestyle,25,
+1,Onitsuka Miyabi,Female,06-02-2025,Aspen,USA,Japan,World Cup,Big Air,8,303.70
+2,Onitsuka Miyabi,Female,05-02-2025,Aspen,USA,Japan,Qualification,Big Air,7,
+3,Onitsuka Miyabi,Female,02-02-2025,Aspen,USA,Japan,World Cup,Slopestyle,13,183.90
+4,Onitsuka Miyabi,Female,31-01-2025,Aspen,USA,Japan,Qualification,Slopestyle,13,
+5,Onitsuka Miyabi,Female,18-01-2025,Laax,SUI,Japan,World Cup,Slopestyle,7,367.40
+6,Onitsuka Miyabi,Female,16-01-2025,Laax,SUI,Japan,Qualification,Slopestyle,7,
+7,Onitsuka Miyabi,Female,11-01-2025,Kreischberg,AUT,Japan,World Cup,Big Air,7,361.70
+8,Onitsuka Miyabi,Female,09-01-2025,Kreischberg,AUT,Japan,Qualification,Big Air,6,
+9,Onitsuka Miyabi,Female,01-12-2024,Beijing,CHN,Japan,World Cup,Big Air,4,569.90
+10,Onitsuka Miyabi,Female,30-11-2024,Beijing,CHN,Japan,Qualification,Big Air,4,
+11,Onitsuka Miyabi,Female,19-10-2024,Chur,SUI,Japan,World Cup,Big Air,8,320.00
+12,Onitsuka Miyabi,Female,02-09-2024,Cardrona,NZL,Japan,World Cup,Slopestyle,12,206.30
+13,Onitsuka Miyabi,Female,31-08-2024,Cardrona,NZL,Japan,Qualification,Slopestyle,12,
+14,Onitsuka Miyabi,Female,14-04-2024,Corvatsch,SUI,Japan,European Cup Premium,Big Air,13,80.90
+15,Onitsuka Miyabi,Female,12-04-2024,Corvatsch,SUI,Japan,European Cup Premium,Slopestyle,1,360.00
+16,Onitsuka Miyabi,Female,23-03-2024,Silvaplana,SUI,Japan,World Cup,Slopestyle,5,385.70
+17,Onitsuka Miyabi,Female,21-03-2024,Silvaplana,SUI,Japan,Qualification,Slopestyle,6,
+18,Onitsuka Miyabi,Female,15-03-2024,Tignes,FRA,Japan,World Cup,Slopestyle,2,655.10
+19,Onitsuka Miyabi,Female,14-03-2024,Tignes,FRA,Japan,Qualification,Slopestyle,6,
+20,Onitsuka Miyabi,Female,20-01-2024,Laax,SUI,Japan,World Cup,Slopestyle,17,115.30
+21,Onitsuka Miyabi,Female,16-01-2024,Laax,SUI,Japan,Qualification,Slopestyle,17,
+22,Onitsuka Miyabi,Female,15-12-2023,Copper Mountain,USA,Japan,World Cup,Big Air,6,382.70
+23,Onitsuka Miyabi,Female,13-12-2023,Copper Mountain,USA,Japan,Qualification,Big Air,6,
+24,Onitsuka Miyabi,Female,09-12-2023,Edmonton,CAN,Japan,World Cup,Big Air,6,345.50
+25,Onitsuka Miyabi,Female,08-12-2023,Edmonton,CAN,Japan,Qualification,Big Air,5,
+26,Onitsuka Miyabi,Female,02-12-2023,Beijing,CHN,Japan,World Cup,Big Air,3,642.80
+27,Onitsuka Miyabi,Female,01-12-2023,Beijing,CHN,Japan,Qualification,Big Air,4,
+28,Onitsuka Miyabi,Female,21-10-2023,Chur,SUI,Japan,Qualification,Big Air,7,
+29,Onitsuka Miyabi,Female,21-10-2023,Chur,SUI,Japan,World Cup,Big Air,6,388.40
+30,Onitsuka Miyabi,Female,25-03-2023,Silvaplana,SUI,Japan,World Cup,Slopestyle,5,440.30
+31,Onitsuka Miyabi,Female,23-03-2023,Silvaplana,SUI,Japan,Qualification,Slopestyle,5,
+32,Onitsuka Miyabi,Female,04-03-2023,Bakuriani,GEO,Japan,World Championships,Big Air,2,822.10
+33,Onitsuka Miyabi,Female,02-03-2023,Bakuriani,GEO,Japan,Qualification,Big Air,3,
+34,Onitsuka Miyabi,Female,27-02-2023,Bakuriani,GEO,Japan,Qualification,Slopestyle,5,
+35,Onitsuka Miyabi,Female,27-02-2023,Bakuriani,GEO,Japan,World Championships,Slopestyle,3,687.10
+36,Onitsuka Miyabi,Female,12-02-2023,Calgary,CAN,Japan,World Cup,Slopestyle,4,297.00
+37,Onitsuka Miyabi,Female,11-02-2023,Calgary,CAN,Japan,Qualification,Slopestyle,4,
+38,Onitsuka Miyabi,Female,04-02-2023,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,18,19.10
+39,Onitsuka Miyabi,Female,01-02-2023,Mammoth Mountain,USA,Japan,Qualification,Slopestyle,18,
+40,Onitsuka Miyabi,Female,22-01-2023,Laax,SUI,Japan,World Cup,Slopestyle,5,488.80
+41,Onitsuka Miyabi,Female,20-01-2023,Laax,SUI,Japan,Qualification,Slopestyle,5,
+42,Onitsuka Miyabi,Female,14-01-2023,Kreischberg,AUT,Japan,Qualification,Big Air,6,
+43,Onitsuka Miyabi,Female,14-01-2023,Kreischberg,AUT,Japan,World Cup,Big Air,4,568.10
+44,Onitsuka Miyabi,Female,17-12-2022,Copper Mountain,USA,Japan,World Cup,Big Air,3,544.70
+45,Onitsuka Miyabi,Female,15-12-2022,Copper Mountain,USA,Japan,Qualification,Big Air,5,
+46,Onitsuka Miyabi,Female,10-12-2022,Edmonton,CAN,Japan,World Cup,Big Air,DNS,
+47,Onitsuka Miyabi,Female,09-12-2022,Edmonton,CAN,Japan,Qualification,Big Air,DNS,
+48,Onitsuka Miyabi,Female,15-02-2022,Beijing,CHN,Japan,Olympic Winter Games,Big Air,11,222.20
+49,Onitsuka Miyabi,Female,14-02-2022,Beijing,CHN,Japan,Qualification,Big Air,5,
+50,Onitsuka Miyabi,Female,06-02-2022,Beijing,CHN,Japan,Olympic Winter Games,Slopestyle,19,91.40
+51,Onitsuka Miyabi,Female,05-02-2022,Beijing,CHN,Japan,Qualification,Slopestyle,19,
+52,Onitsuka Miyabi,Female,08-01-2022,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,DNS,
+53,Onitsuka Miyabi,Female,06-01-2022,Mammoth Mountain,USA,Japan,Qualification,Slopestyle,DNS,
+54,Onitsuka Miyabi,Female,01-01-2022,Calgary,CAN,Japan,World Cup,Slopestyle,2,658.10
+55,Onitsuka Miyabi,Female,31-12-2021,Calgary,CAN,Japan,Qualification,Slopestyle,2,
+56,Onitsuka Miyabi,Female,04-12-2021,Steamboat,USA,Japan,World Cup,Big Air,12,206.30
+57,Onitsuka Miyabi,Female,02-12-2021,Steamboat,USA,Japan,Qualification,Big Air,12,
+58,Onitsuka Miyabi,Female,23-10-2021,Chur,SUI,Japan,World Cup,Big Air,10,245.60
+59,Onitsuka Miyabi,Female,28-03-2021,Silvaplana,SUI,Japan,Qualification,Slopestyle,7,
+60,Onitsuka Miyabi,Female,28-03-2021,Silvaplana,SUI,Japan,World Cup,Slopestyle,12,109.62
+61,Onitsuka Miyabi,Female,20-03-2021,Aspen,USA,Japan,World Cup,Slopestyle,10,251.40
+62,Onitsuka Miyabi,Female,19-03-2021,Aspen,USA,Japan,Qualification,Slopestyle,10,
+63,Onitsuka Miyabi,Female,16-03-2021,Aspen,USA,Japan,World Championships,Big Air,3,684.81
+64,Onitsuka Miyabi,Female,14-03-2021,Aspen,USA,Japan,Qualification,Big Air,7,
+65,Onitsuka Miyabi,Female,12-03-2021,Aspen,USA,Japan,World Championships,Slopestyle,27,0.38
+66,Onitsuka Miyabi,Female,10-03-2021,Aspen,USA,Japan,Qualification,Slopestyle,27,
+67,Onitsuka Miyabi,Female,22-01-2021,Laax,SUI,Japan,World Cup,Slopestyle,13,140.80
+68,Onitsuka Miyabi,Female,20-01-2021,Laax,SUI,Japan,Qualification,Slopestyle,13,
+69,Onitsuka Miyabi,Female,09-01-2021,Kreischberg,AUT,Japan,World Cup,Big Air,5,490.14
+70,Onitsuka Miyabi,Female,07-01-2021,Kreischberg ,AUT,Japan,Qualification,Big Air,1,
+71,Onitsuka Miyabi,Female,20-12-2019,Atlanta,USA,Japan,World Cup,Big Air,5,450.00
+72,Onitsuka Miyabi,Female,14-12-2019,Beijing,CHN,Japan,World Cup,Big Air,1,1000.00
+73,Onitsuka Miyabi,Female,12-12-2019,Beijing,CHN,Japan,Qualification,Big Air,8,
+74,Onitsuka Miyabi,Female,02-11-2019,Modena SKIPASS,ITA,Japan,World Cup,Big Air,18,130.00
+75,Onitsuka Miyabi,Female,01-11-2019,Modena SKIPASS,ITA,Japan,Qualification,Big Air,18,
+76,Onitsuka Miyabi,Female,10-02-2019,Park City,USA,Japan,World Championships,Slopestyle,17,140.00
+77,Onitsuka Miyabi,Female,09-02-2019,Park City,USA,Japan,Qualification,Slopestyle,17,
+78,Onitsuka Miyabi,Female,12-01-2019,Kreischberg,AUT,Japan,World Cup,Slopestyle,1,1000.00
+79,Onitsuka Miyabi,Female,11-01-2019,Kreischberg,AUT,Japan,Qualification,Slopestyle,3,
+80,Onitsuka Miyabi,Female,21-12-2018,Secret Garden,CHN,Japan,World Cup,Slopestyle,1,1000.00
+81,Onitsuka Miyabi,Female,20-12-2018,Secret Garden,CHN,Japan,Qualification,Slopestyle,1,
+82,Onitsuka Miyabi,Female,24-11-2018,Beijing,CHN,Japan,World Cup,Big Air,2,800.00
+83,Onitsuka Miyabi,Female,23-11-2018,Beijing,CHN,Japan,Qualification,Big Air,4,
+84,Onitsuka Miyabi,Female,03-11-2018,Modena SKIPASS,ITA,Japan,World Cup,Big Air,2,800.00
+85,Onitsuka Miyabi,Female,08-09-2018,Cardrona,NZL,Japan,World Cup,Big Air,2,800.00
+86,Onitsuka Miyabi,Female,06-09-2018,Cardrona,NZL,Japan,Qualification,Big Air,2,
+87,Onitsuka Miyabi,Female,16-03-2018,Seiser Alm,ITA,Japan,World Cup,Slopestyle,4,500.00
+88,Onitsuka Miyabi,Female,22-02-2018,Alpensia Jumping Park,KOR,Japan,Olympic Winter Games,Big Air,8,320.00
+89,Onitsuka Miyabi,Female,19-02-2018,Alpensia Jumping Park,KOR,Japan,Qualification,Big Air,7,
+90,Onitsuka Miyabi,Female,12-02-2018,Phoenix Snow Park,KOR,Japan,Olympic Winter Games,Slopestyle,19,120.00
+91,Onitsuka Miyabi,Female,02-12-2017,Moenchengladbach,GER,Japan,World Cup,Big Air,2,800.00
+92,Onitsuka Miyabi,Female,25-11-2017,Beijing,CHN,Japan,World Cup,Big Air,2,800.00
+93,Onitsuka Miyabi,Female,24-11-2017,Beijing,CHN,Japan,Qualification,Big Air,2,
+94,Onitsuka Miyabi,Female,11-11-2017,Milan,ITA,Japan,World Cup,Big Air,7,360.00
+95,Onitsuka Miyabi,Female,04-09-2017,Cardrona,NZL,Japan,World Cup,Slopestyle,2,800.00
+96,Onitsuka Miyabi,Female,03-09-2017,Cardrona,NZL,Japan,Qualification,Slopestyle,3,
+97,Onitsuka Miyabi,Female,17-03-2017,Sierra Nevada,ESP,Japan,World Championships,Big Air,14,180.00
+98,Onitsuka Miyabi,Female,16-03-2017,Sierra Nevada,ESP,Japan,Qualification,Big Air,8,
+99,Onitsuka Miyabi,Female,11-03-2017,Sierra Nevada,ESP,Japan,World Championships,Slopestyle,3,600.00
+100,Onitsuka Miyabi,Female,09-03-2017,Sierra Nevada,ESP,Japan,Qualification,Slopestyle,1,
+101,Onitsuka Miyabi,Female,12-02-2017,Quebec City,CAN,Japan,World Cup,Slopestyle,DNS,
+102,Onitsuka Miyabi,Female,11-02-2017,Quebec City,CAN,Japan,World Cup,Big Air,6,400.00
+103,Onitsuka Miyabi,Female,10-02-2017,Quebec City,CAN,Japan,Qualification,Slopestyle,DNS,
+104,Onitsuka Miyabi,Female,09-02-2017,Quebec City,CAN,Japan,Qualification,Big Air,3,
+105,Onitsuka Miyabi,Female,27-01-2017,Seiser Alm,ITA,Japan,World Cup,Slopestyle,4,500.00
+106,Onitsuka Miyabi,Female,25-01-2017,Seiser Alm,ITA,Japan,Qualification,Slopestyle,3,
+107,Onitsuka Miyabi,Female,20-01-2017,Laax,SUI,Japan,World Cup,Slopestyle,23,80.00
+108,Onitsuka Miyabi,Female,17-01-2017,Laax,SUI,Japan,Qualification,Slopestyle,11,
+109,Onitsuka Miyabi,Female,14-01-2017,Kreischberg,AUT,Japan,World Cup,Slopestyle,9,290.00
+110,Onitsuka Miyabi,Female,13-01-2017,Kreischberg,AUT,Japan,Qualification,Slopestyle,9,
+111,Onitsuka Miyabi,Female,07-01-2017,Moscow,RUS,Japan,World Cup,Big Air,9,290.00
+112,Onitsuka Miyabi,Female,03-12-2016,Moenchengladbach,GER,Japan,World Cup,Big Air,3,600.00
+113,Onitsuka Miyabi,Female,26-11-2016,Alpensia,KOR,Japan,Qualification,Big Air,7,
+114,Onitsuka Miyabi,Female,26-11-2016,Alpensia,KOR,Japan,World Cup,Big Air,7,360.00
+115,Onitsuka Miyabi,Female,11-02-2016,Boston,USA,Japan,World Cup,Big Air,10,260.00
+116,Onitsuka Miyabi,Female,22-08-2015,Cardrona,NZL,Japan,World Cup,Slopestyle,11,240.00
+117,Onitsuka Miyabi,Female,20-08-2015,Cardrona,NZL,Japan,Qualification,Slopestyle,11,
+118,Onitsuka Miyabi,Female,21-01-2015,Kreischberg,AUT,Japan,World Championships,Slopestyle,1,1000.00
+119,Onitsuka Miyabi,Female,19-01-2015,Kreischberg,AUT,Japan,Qualification,Slopestyle,2,
+120,Onitsuka Miyabi,Female,01-04-2014,Niseko,JPN,Japan,National Championships,Slopestyle,1,50.00
+121,Onitsuka Miyabi,Female,22-12-2013,"Copper Mountain, CO",USA,Japan,World Cup,Slopestyle,46,16.70
+122,Onitsuka Miyabi,Female,20-12-2013,"Copper Mountain, CO",USA,Japan,Qualification,Slopestyle,24,
+123,Onitsuka Miyabi,Female,17-08-2013,Valle Nevado,CHI,Japan,South American Cup,Slopestyle,1,360.00
+124,Onitsuka Miyabi,Female,20-12-2011,"Copper, CO",USA,Japan,FIS,Slopestyle,11,57.60
