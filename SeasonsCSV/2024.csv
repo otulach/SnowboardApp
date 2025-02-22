@@ -63,9 +63,13 @@ Date,Location,Country,Category,Discipline,Gender
 2025-01-05,Val,ain,FIS,Parallel Giant Slalom,Male
 2025-01-05,Val,ain,FIS,Parallel Giant Slalom,Female
 2025-01-05,Simonhoehe,AUT,JRC,Parallel Giant Slalom,Male
+2025-01-05,Simonhoehe,AUT,CHI,Parallel Giant Slalom,Male
 2025-01-05,Simonhoehe,AUT,JRC,Parallel Giant Slalom,Female
+2025-01-05,Simonhoehe,AUT,CHI,Parallel Giant Slalom,Female
 2025-01-06,Simonhoehe,AUT,JRC,Parallel Giant Slalom,Male
+2025-01-06,Simonhoehe,AUT,CHI,Parallel Giant Slalom,Male
 2025-01-06,Simonhoehe,AUT,JRC,Parallel Giant Slalom,Female
+2025-01-06,Simonhoehe,AUT,CHI,Parallel Giant Slalom,Female
 2025-01-07,Palandoken,,CHI,Giant Slalom,Male
 2025-01-07,Palandoken,,CHI,Giant Slalom,Male
 2025-01-07,Palandoken,,CHI,Giant Slalom,Female
@@ -413,10 +417,14 @@ Date,Location,Country,Category,Discipline,Gender
 2025-03-22,Gosau,AUT,FIS,Parallel Slalom,Female
 2025-03-23,Gosau,AUT,FIS,Parallel Slalom,Male
 2025-03-23,Gosau,AUT,FIS,Parallel Slalom,Female
-2025-03-29,Haus,,JRC,Parallel Giant Slalom,Male
-2025-03-29,Haus,,JRC,Parallel Giant Slalom,Female
-2025-03-30,Haus,,JRC,Parallel Giant Slalom,Male
-2025-03-30,Haus,,JRC,Parallel Giant Slalom,Female
+2025-03-29,Haus,,JRC,Parallel Slalom,Male
+2025-03-29,Haus,,CHI,Parallel Slalom,Male
+2025-03-29,Haus,,JRC,Parallel Slalom,Female
+2025-03-29,Haus,,CHI,Parallel Slalom,Female
+2025-03-30,Haus,,JRC,Parallel Slalom,Male
+2025-03-30,Haus,,CHI,Parallel Slalom,Male
+2025-03-30,Haus,,JRC,Parallel Slalom,Female
+2025-03-30,Haus,,CHI,Parallel Slalom,Female
 2025-03-29,Kopaonik,SRB,FIS,Giant Slalom,Male
 2025-03-29,Kopaonik,SRB,FIS,Giant Slalom,Female
 2025-03-30,Kopaonik,SRB,FIS,Slalom,Male
