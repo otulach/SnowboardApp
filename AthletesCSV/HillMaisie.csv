@@ -1,66 +1,67 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Hill Maisie,Female,20-02-2025,Calgary,CAN,Great Britain,Qualification,Slopestyle,9,
-1,Hill Maisie,Female,06-02-2025,Aspen,USA,Great Britain,World Cup,Big Air,17,88.50
-2,Hill Maisie,Female,05-02-2025,Aspen,USA,Great Britain,Qualification,Big Air,17,
-3,Hill Maisie,Female,02-02-2025,Aspen,USA,Great Britain,World Cup,Slopestyle,22,72.80
-4,Hill Maisie,Female,31-01-2025,Aspen,USA,Great Britain,Qualification,Slopestyle,22,
-5,Hill Maisie,Female,18-01-2025,Laax,SUI,Great Britain,World Cup,Slopestyle,16,142.60
-6,Hill Maisie,Female,16-01-2025,Laax,SUI,Great Britain,Qualification,Slopestyle,16,
-7,Hill Maisie,Female,11-01-2025,Kreischberg,AUT,Great Britain,World Cup,Big Air,19,91.40
-8,Hill Maisie,Female,09-01-2025,Kreischberg,AUT,Great Britain,Qualification,Big Air,19,
-9,Hill Maisie,Female,05-01-2025,Klagenfurt,AUT,Great Britain,World Cup,Big Air,13,142.60
-10,Hill Maisie,Female,03-01-2025,Klagenfurt,AUT,Great Britain,Qualification,Big Air,13,
-11,Hill Maisie,Female,01-12-2024,Beijing,CHN,Great Britain,World Cup,Big Air,21,25.50
-12,Hill Maisie,Female,30-11-2024,Beijing,CHN,Great Britain,Qualification,Big Air,21,
-13,Hill Maisie,Female,02-09-2024,Cardrona,NZL,Great Britain,World Cup,Slopestyle,27,34.40
-14,Hill Maisie,Female,31-08-2024,Cardrona,NZL,Great Britain,Qualification,Slopestyle,27,
-15,Hill Maisie,Female,17-08-2024,The Remarkables,NZL,Great Britain,Australian New Zealand Cup,Slopestyle,7,34.70
-16,Hill Maisie,Female,20-01-2024,Laax,SUI,Great Britain,World Cup,Slopestyle,15,142.80
-17,Hill Maisie,Female,16-01-2024,Laax,SUI,Great Britain,Qualification,Slopestyle,15,
-18,Hill Maisie,Female,05-01-2024,Font Romeu,FRA,Great Britain,European Cup,Big Air,3,80.00
-19,Hill Maisie,Female,04-01-2024,Font Romeu,FRA,Great Britain,European Cup Premium,Slopestyle,3,80.70
-20,Hill Maisie,Female,14-01-2023,Kreischberg,AUT,Great Britain,World Cup,Big Air,10,220.50
-21,Hill Maisie,Female,14-01-2023,Kreischberg,AUT,Great Britain,Qualification,Big Air,10,
-22,Hill Maisie,Female,22-10-2022,Chur,SUI,Great Britain,Qualification,Big Air,10,
-23,Hill Maisie,Female,22-10-2022,Chur,SUI,Great Britain,World Cup,Big Air,10,214.50
-24,Hill Maisie,Female,09-04-2022,Corvatsch,SUI,Great Britain,European Cup Premium,Big Air,8,32.60
-25,Hill Maisie,Female,07-04-2022,Corvatsch,SUI,Great Britain,European Cup Premium,Slopestyle,3,158.90
-26,Hill Maisie,Female,27-03-2022,Silvaplana,SUI,Great Britain,World Cup,Slopestyle,19,0.60
-27,Hill Maisie,Female,25-03-2022,Silvaplana,SUI,Great Britain,Qualification,Slopestyle,19,
-28,Hill Maisie,Female,19-03-2022,Spindleruv Mlyn,CZE,Great Britain,World Cup,Slopestyle,7,173.40
-29,Hill Maisie,Female,18-03-2022,Spindleruv Mlyn,CZE,Great Britain,Qualification,Slopestyle,10,
-30,Hill Maisie,Female,26-02-2022,Götschen,GER,Great Britain,European Cup,Big Air,7,47.80
-31,Hill Maisie,Female,25-02-2022,Götschen,GER,Great Britain,European Cup,Slopestyle,5,87.80
-32,Hill Maisie,Female,06-02-2022,Grindelwald,SUI,Great Britain,FIS,Big Air,2,39.60
-33,Hill Maisie,Female,28-01-2022,Crans Montana,SUI,Great Britain,European Cup,Big Air,5,28.10
-34,Hill Maisie,Female,19-11-2021,Landgraaf,NED,Great Britain,European Cup,Slopestyle,6,50.50
-35,Hill Maisie,Female,18-11-2021,Landgraaf,NED,Great Britain,FIS,Slopestyle,4,73.90
-36,Hill Maisie,Female,08-10-2021,Landgraaf,NED,Great Britain,FIS,Slopestyle,5,28.20
-37,Hill Maisie,Female,20-04-2021,Corvatsch,SUI,Great Britain,European Cup Premium,Slopestyle,9,70.59
-38,Hill Maisie,Female,18-04-2021,Corvatsch,SUI,Great Britain,European Cup Premium,Big Air,10,15.48
-39,Hill Maisie,Female,11-03-2021,Leysin,SUI,Great Britain,European Cup,Slopestyle,5,52.61
-40,Hill Maisie,Female,06-03-2021,Götschen,GER,Great Britain,FIS,Big Air,4,22.09
-41,Hill Maisie,Female,05-03-2021,Götschen,GER,Great Britain,European Cup,Big Air,6,33.92
-42,Hill Maisie,Female,04-03-2021,Flachauwinkel,AUT,Great Britain,European Cup,Big Air,3,83.52
-43,Hill Maisie,Female,22-02-2021,Götschen,GER,Great Britain,European Cup,Big Air,4,87.36
-44,Hill Maisie,Female,21-02-2021,Götschen,GER,Great Britain,European Cup,Slopestyle,7,57.77
-45,Hill Maisie,Female,26-11-2020,Glacier 3000,SUI,Great Britain,FIS,Slopestyle,20,0.11
-46,Hill Maisie,Female,19-01-2020,Vars,FRA,Great Britain,European Cup,Slopestyle,7,57.60
-47,Hill Maisie,Female,18-01-2020,Vars,FRA,Great Britain,European Cup,Big Air,8,70.40
-48,Hill Maisie,Female,15-12-2019,Hemavan,SWE,Great Britain,FIS,Slopestyle,1,50.00
-49,Hill Maisie,Female,22-02-2019,Davos,SUI,Great Britain,European Cup,Big Air,5,81.00
-50,Hill Maisie,Female,18-03-2018,Laax,SUI,Great Britain,European Cup,Slopestyle,8,57.60
-51,Hill Maisie,Female,12-04-2017,Les Deux Alpes,BEL,Great Britain,National Championships,Big Air,DNS,
-52,Hill Maisie,Female,10-04-2017,Les Deux Alpes,BEL,Great Britain,National Championships,Slopestyle,1,
-53,Hill Maisie,Female,09-04-2017,Avoriaz,FRA,Great Britain,National Championships,Big Air,3,66.00
-54,Hill Maisie,Female,08-04-2017,Avoriaz,FRA,Great Britain,National Championships,Slopestyle,4,65.00
-55,Hill Maisie,Female,06-04-2017,Le Grand Bornand,FRA,Great Britain,National Championships,Snowboardcross,15,46.40
-56,Hill Maisie,Female,24-02-2017,Davos,SUI,Great Britain,European Cup,Halfpipe,5,72.00
-57,Hill Maisie,Female,15-02-2017,Palandoken / Erzurum,TUR,Great Britain,European Youth Olympic Festival,Snowboardcross,5,22.50
-58,Hill Maisie,Female,05-02-2017,Grindelwald,SUI,Great Britain,FIS,Slopestyle,4,
-59,Hill Maisie,Female,04-02-2017,Grindelwald,SUI,Great Britain,FIS,Halfpipe,5,40.50
-60,Hill Maisie,Female,04-12-2016,Pitzal,AUT,Great Britain,Junior,Snowboardcross,32,4.16
-61,Hill Maisie,Female,03-12-2016,Pitzal,AUT,Great Britain,Junior,Snowboardcross,26,10.00
-62,Hill Maisie,Female,25-03-2016,Isola 2000,FRA,Great Britain,National Championships,Slopestyle,9,34.80
-63,Hill Maisie,Female,24-02-2016,Davos,SUI,Great Britain,European Cup,Halfpipe,6,80.00
-64,Hill Maisie,Female,23-02-2016,Davos,SUI,Great Britain,European Cup,Halfpipe,4,100.00
+0,Hill Maisie,Female,22-02-2025,Calgary,CAN,Great Britain,World Cup,Slopestyle,12,159.70
+1,Hill Maisie,Female,20-02-2025,Calgary,CAN,Great Britain,Qualification,Slopestyle,9,
+2,Hill Maisie,Female,06-02-2025,Aspen,USA,Great Britain,World Cup,Big Air,17,88.50
+3,Hill Maisie,Female,05-02-2025,Aspen,USA,Great Britain,Qualification,Big Air,17,
+4,Hill Maisie,Female,02-02-2025,Aspen,USA,Great Britain,World Cup,Slopestyle,22,72.80
+5,Hill Maisie,Female,31-01-2025,Aspen,USA,Great Britain,Qualification,Slopestyle,22,
+6,Hill Maisie,Female,18-01-2025,Laax,SUI,Great Britain,World Cup,Slopestyle,16,142.60
+7,Hill Maisie,Female,16-01-2025,Laax,SUI,Great Britain,Qualification,Slopestyle,16,
+8,Hill Maisie,Female,11-01-2025,Kreischberg,AUT,Great Britain,World Cup,Big Air,19,91.40
+9,Hill Maisie,Female,09-01-2025,Kreischberg,AUT,Great Britain,Qualification,Big Air,19,
+10,Hill Maisie,Female,05-01-2025,Klagenfurt,AUT,Great Britain,World Cup,Big Air,13,142.60
+11,Hill Maisie,Female,03-01-2025,Klagenfurt,AUT,Great Britain,Qualification,Big Air,13,
+12,Hill Maisie,Female,01-12-2024,Beijing,CHN,Great Britain,World Cup,Big Air,21,25.50
+13,Hill Maisie,Female,30-11-2024,Beijing,CHN,Great Britain,Qualification,Big Air,21,
+14,Hill Maisie,Female,02-09-2024,Cardrona,NZL,Great Britain,World Cup,Slopestyle,27,34.40
+15,Hill Maisie,Female,31-08-2024,Cardrona,NZL,Great Britain,Qualification,Slopestyle,27,
+16,Hill Maisie,Female,17-08-2024,The Remarkables,NZL,Great Britain,Australian New Zealand Cup,Slopestyle,7,34.70
+17,Hill Maisie,Female,20-01-2024,Laax,SUI,Great Britain,World Cup,Slopestyle,15,142.80
+18,Hill Maisie,Female,16-01-2024,Laax,SUI,Great Britain,Qualification,Slopestyle,15,
+19,Hill Maisie,Female,05-01-2024,Font Romeu,FRA,Great Britain,European Cup,Big Air,3,80.00
+20,Hill Maisie,Female,04-01-2024,Font Romeu,FRA,Great Britain,European Cup Premium,Slopestyle,3,80.70
+21,Hill Maisie,Female,14-01-2023,Kreischberg,AUT,Great Britain,World Cup,Big Air,10,220.50
+22,Hill Maisie,Female,14-01-2023,Kreischberg,AUT,Great Britain,Qualification,Big Air,10,
+23,Hill Maisie,Female,22-10-2022,Chur,SUI,Great Britain,Qualification,Big Air,10,
+24,Hill Maisie,Female,22-10-2022,Chur,SUI,Great Britain,World Cup,Big Air,10,214.50
+25,Hill Maisie,Female,09-04-2022,Corvatsch,SUI,Great Britain,European Cup Premium,Big Air,8,32.60
+26,Hill Maisie,Female,07-04-2022,Corvatsch,SUI,Great Britain,European Cup Premium,Slopestyle,3,158.90
+27,Hill Maisie,Female,27-03-2022,Silvaplana,SUI,Great Britain,World Cup,Slopestyle,19,0.60
+28,Hill Maisie,Female,25-03-2022,Silvaplana,SUI,Great Britain,Qualification,Slopestyle,19,
+29,Hill Maisie,Female,19-03-2022,Spindleruv Mlyn,CZE,Great Britain,World Cup,Slopestyle,7,173.40
+30,Hill Maisie,Female,18-03-2022,Spindleruv Mlyn,CZE,Great Britain,Qualification,Slopestyle,10,
+31,Hill Maisie,Female,26-02-2022,Götschen,GER,Great Britain,European Cup,Big Air,7,47.80
+32,Hill Maisie,Female,25-02-2022,Götschen,GER,Great Britain,European Cup,Slopestyle,5,87.80
+33,Hill Maisie,Female,06-02-2022,Grindelwald,SUI,Great Britain,FIS,Big Air,2,39.60
+34,Hill Maisie,Female,28-01-2022,Crans Montana,SUI,Great Britain,European Cup,Big Air,5,28.10
+35,Hill Maisie,Female,19-11-2021,Landgraaf,NED,Great Britain,European Cup,Slopestyle,6,50.50
+36,Hill Maisie,Female,18-11-2021,Landgraaf,NED,Great Britain,FIS,Slopestyle,4,73.90
+37,Hill Maisie,Female,08-10-2021,Landgraaf,NED,Great Britain,FIS,Slopestyle,5,28.20
+38,Hill Maisie,Female,20-04-2021,Corvatsch,SUI,Great Britain,European Cup Premium,Slopestyle,9,70.59
+39,Hill Maisie,Female,18-04-2021,Corvatsch,SUI,Great Britain,European Cup Premium,Big Air,10,15.48
+40,Hill Maisie,Female,11-03-2021,Leysin,SUI,Great Britain,European Cup,Slopestyle,5,52.61
+41,Hill Maisie,Female,06-03-2021,Götschen,GER,Great Britain,FIS,Big Air,4,22.09
+42,Hill Maisie,Female,05-03-2021,Götschen,GER,Great Britain,European Cup,Big Air,6,33.92
+43,Hill Maisie,Female,04-03-2021,Flachauwinkel,AUT,Great Britain,European Cup,Big Air,3,83.52
+44,Hill Maisie,Female,22-02-2021,Götschen,GER,Great Britain,European Cup,Big Air,4,87.36
+45,Hill Maisie,Female,21-02-2021,Götschen,GER,Great Britain,European Cup,Slopestyle,7,57.77
+46,Hill Maisie,Female,26-11-2020,Glacier 3000,SUI,Great Britain,FIS,Slopestyle,20,0.11
+47,Hill Maisie,Female,19-01-2020,Vars,FRA,Great Britain,European Cup,Slopestyle,7,57.60
+48,Hill Maisie,Female,18-01-2020,Vars,FRA,Great Britain,European Cup,Big Air,8,70.40
+49,Hill Maisie,Female,15-12-2019,Hemavan,SWE,Great Britain,FIS,Slopestyle,1,50.00
+50,Hill Maisie,Female,22-02-2019,Davos,SUI,Great Britain,European Cup,Big Air,5,81.00
+51,Hill Maisie,Female,18-03-2018,Laax,SUI,Great Britain,European Cup,Slopestyle,8,57.60
+52,Hill Maisie,Female,12-04-2017,Les Deux Alpes,BEL,Great Britain,National Championships,Big Air,DNS,
+53,Hill Maisie,Female,10-04-2017,Les Deux Alpes,BEL,Great Britain,National Championships,Slopestyle,1,
+54,Hill Maisie,Female,09-04-2017,Avoriaz,FRA,Great Britain,National Championships,Big Air,3,66.00
+55,Hill Maisie,Female,08-04-2017,Avoriaz,FRA,Great Britain,National Championships,Slopestyle,4,65.00
+56,Hill Maisie,Female,06-04-2017,Le Grand Bornand,FRA,Great Britain,National Championships,Snowboardcross,15,46.40
+57,Hill Maisie,Female,24-02-2017,Davos,SUI,Great Britain,European Cup,Halfpipe,5,72.00
+58,Hill Maisie,Female,15-02-2017,Palandoken / Erzurum,TUR,Great Britain,European Youth Olympic Festival,Snowboardcross,5,22.50
+59,Hill Maisie,Female,05-02-2017,Grindelwald,SUI,Great Britain,FIS,Slopestyle,4,
+60,Hill Maisie,Female,04-02-2017,Grindelwald,SUI,Great Britain,FIS,Halfpipe,5,40.50
+61,Hill Maisie,Female,04-12-2016,Pitzal,AUT,Great Britain,Junior,Snowboardcross,32,4.16
+62,Hill Maisie,Female,03-12-2016,Pitzal,AUT,Great Britain,Junior,Snowboardcross,26,10.00
+63,Hill Maisie,Female,25-03-2016,Isola 2000,FRA,Great Britain,National Championships,Slopestyle,9,34.80
+64,Hill Maisie,Female,24-02-2016,Davos,SUI,Great Britain,European Cup,Halfpipe,6,80.00
+65,Hill Maisie,Female,23-02-2016,Davos,SUI,Great Britain,European Cup,Halfpipe,4,100.00

@@ -1,28 +1,29 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Vautrot Nicolas,Male,09-02-2025,Reiteralm,AUT,France,European Cup,Snowboard Cross,16,30.00
-1,Vautrot Nicolas,Male,08-02-2025,Reiteralm,AUT,France,European Cup,Snowboard Cross,12,44.00
-2,Vautrot Nicolas,Male,02-02-2025,St. Lary,FRA,France,National Championships,Snowboard Cross,24,10.50
-3,Vautrot Nicolas,Male,31-01-2025,St. Lary,FRA,France,European Cup,Snowboard Cross,28,7.20
-4,Vautrot Nicolas,Male,24-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,33,4.32
-5,Vautrot Nicolas,Male,23-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,24,14.00
-6,Vautrot Nicolas,Male,12-01-2025,Lenk,SUI,France,Junior Regional Cup,Snowboard Cross,12,26.40
-7,Vautrot Nicolas,Male,01-12-2024,Pitztal,AUT,France,Junior,Snowboard Cross,24,8.40
-8,Vautrot Nicolas,Male,30-11-2024,Pitztal,AUT,France,Qualification,Snowboard Cross,26,
-9,Vautrot Nicolas,Male,30-11-2024,Pitztal,AUT,France,Junior,Snowboard Cross,28,4.80
-10,Vautrot Nicolas,Male,30-03-2024,Orcieres Merlette,FRA,France,National Championships,Snowboard Cross,29,10.44
-11,Vautrot Nicolas,Male,22-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,60,3.00
-12,Vautrot Nicolas,Male,21-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,67,
-13,Vautrot Nicolas,Male,14-03-2024,Isola 2000,FRA,France,European Cup,Snowboard Cross,43,3.52
-14,Vautrot Nicolas,Male,12-03-2024,Isola 2000,FRA,France,Junior,Snowboard Cross,18,9.10
-15,Vautrot Nicolas,Male,11-03-2024,Isola 2000,FRA,France,Junior,Snowboard Cross,30,4.80
-16,Vautrot Nicolas,Male,02-03-2024,St. Moritz,SUI,France,National Junior Championships,Snowboard Cross,16,10.50
-17,Vautrot Nicolas,Male,25-02-2024,Grasgehren,GER,France,European Cup,Snowboard Cross,59,
-18,Vautrot Nicolas,Male,24-02-2024,Grasgehren,GER,France,European Cup,Snowboard Cross,53,4.67
-19,Vautrot Nicolas,Male,17-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,68,
-20,Vautrot Nicolas,Male,16-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,49,3.79
-21,Vautrot Nicolas,Male,03-02-2024,Dolni Morava,CZE,France,Junior,Snowboard Cross,25,3.00
-22,Vautrot Nicolas,Male,02-02-2024,Dolni Morava,CZE,France,Junior,Snowboard Cross,4,45.00
-23,Vautrot Nicolas,Male,20-01-2024,Montafon,AUT,France,National Championships,Snowboard Cross,55,4.06
-24,Vautrot Nicolas,Male,17-12-2023,Reiteralm,AUT,France,Junior,Snowboard Cross,20,7.70
-25,Vautrot Nicolas,Male,09-12-2023,Pitztal,AUT,France,Junior,Snowboard Cross,29,3.60
-26,Vautrot Nicolas,Male,13-04-2022,Les Deux Alpes,FRA,France,National Championships,Slopestyle,20,1.20
+0,Vautrot Nicolas,Male,22-02-2025,Colere,ITA,France,FIS,Snowboard Cross,33,
+1,Vautrot Nicolas,Male,09-02-2025,Reiteralm,AUT,France,European Cup,Snowboard Cross,16,30.00
+2,Vautrot Nicolas,Male,08-02-2025,Reiteralm,AUT,France,European Cup,Snowboard Cross,12,44.00
+3,Vautrot Nicolas,Male,02-02-2025,St. Lary,FRA,France,National Championships,Snowboard Cross,24,10.50
+4,Vautrot Nicolas,Male,31-01-2025,St. Lary,FRA,France,European Cup,Snowboard Cross,28,7.20
+5,Vautrot Nicolas,Male,24-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,33,4.32
+6,Vautrot Nicolas,Male,23-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,24,14.00
+7,Vautrot Nicolas,Male,12-01-2025,Lenk,SUI,France,Junior Regional Cup,Snowboard Cross,12,26.40
+8,Vautrot Nicolas,Male,01-12-2024,Pitztal,AUT,France,Junior,Snowboard Cross,24,8.40
+9,Vautrot Nicolas,Male,30-11-2024,Pitztal,AUT,France,Qualification,Snowboard Cross,26,
+10,Vautrot Nicolas,Male,30-11-2024,Pitztal,AUT,France,Junior,Snowboard Cross,28,4.80
+11,Vautrot Nicolas,Male,30-03-2024,Orcieres Merlette,FRA,France,National Championships,Snowboard Cross,29,10.44
+12,Vautrot Nicolas,Male,22-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,60,3.00
+13,Vautrot Nicolas,Male,21-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,67,
+14,Vautrot Nicolas,Male,14-03-2024,Isola 2000,FRA,France,European Cup,Snowboard Cross,43,3.52
+15,Vautrot Nicolas,Male,12-03-2024,Isola 2000,FRA,France,Junior,Snowboard Cross,18,9.10
+16,Vautrot Nicolas,Male,11-03-2024,Isola 2000,FRA,France,Junior,Snowboard Cross,30,4.80
+17,Vautrot Nicolas,Male,02-03-2024,St. Moritz,SUI,France,National Junior Championships,Snowboard Cross,16,10.50
+18,Vautrot Nicolas,Male,25-02-2024,Grasgehren,GER,France,European Cup,Snowboard Cross,59,
+19,Vautrot Nicolas,Male,24-02-2024,Grasgehren,GER,France,European Cup,Snowboard Cross,53,4.67
+20,Vautrot Nicolas,Male,17-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,68,
+21,Vautrot Nicolas,Male,16-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,49,3.79
+22,Vautrot Nicolas,Male,03-02-2024,Dolni Morava,CZE,France,Junior,Snowboard Cross,25,3.00
+23,Vautrot Nicolas,Male,02-02-2024,Dolni Morava,CZE,France,Junior,Snowboard Cross,4,45.00
+24,Vautrot Nicolas,Male,20-01-2024,Montafon,AUT,France,National Championships,Snowboard Cross,55,4.06
+25,Vautrot Nicolas,Male,17-12-2023,Reiteralm,AUT,France,Junior,Snowboard Cross,20,7.70
+26,Vautrot Nicolas,Male,09-12-2023,Pitztal,AUT,France,Junior,Snowboard Cross,29,3.60
+27,Vautrot Nicolas,Male,13-04-2022,Les Deux Alpes,FRA,France,National Championships,Slopestyle,20,1.20

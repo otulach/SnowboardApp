@@ -1,67 +1,68 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Smith Truth,Male,20-02-2025,Calgary,CAN,Canada,Qualification,Slopestyle,8,
-1,Smith Truth,Male,06-02-2025,Aspen,USA,Canada,World Cup,Big Air,30,102.70
-2,Smith Truth,Male,05-02-2025,Aspen,USA,Canada,Qualification,Big Air,12,
-3,Smith Truth,Male,02-02-2025,Aspen,USA,Canada,World Cup,Slopestyle,25,142.90
-4,Smith Truth,Male,31-01-2025,Aspen,USA,Canada,Qualification,Slopestyle,9,
-5,Smith Truth,Male,18-01-2025,Laax,SUI,Canada,World Cup,Slopestyle,37,97.70
-6,Smith Truth,Male,16-01-2025,Laax,SUI,Canada,Qualification,Slopestyle,13,
-7,Smith Truth,Male,02-09-2024,Cardrona,NZL,Canada,World Cup,Slopestyle,15,206.70
-8,Smith Truth,Male,31-08-2024,Cardrona,NZL,Canada,Qualification,Slopestyle,7,
-9,Smith Truth,Male,03-04-2024,Stoneham,CAN,Canada,Nor-Am Cup,Big Air,3,87.10
-10,Smith Truth,Male,03-04-2024,Stoneham,CAN,Canada,Nor-Am Cup,Slopestyle,3,176.30
-11,Smith Truth,Male,23-03-2024,Silvaplana,SUI,Canada,World Cup,Slopestyle,27,139.20
-12,Smith Truth,Male,21-03-2024,Silvaplana,SUI,Canada,Qualification,Slopestyle,16,
-13,Smith Truth,Male,15-03-2024,Tignes,FRA,Canada,World Cup,Slopestyle,31,109.10
-14,Smith Truth,Male,15-03-2024,Tignes,FRA,Canada,Qualification,Slopestyle,12,
-15,Smith Truth,Male,20-01-2024,Laax,SUI,Canada,World Cup,Slopestyle,28,134.60
-16,Smith Truth,Male,16-01-2024,Laax,SUI,Canada,Qualification,Slopestyle,16,
-17,Smith Truth,Male,09-12-2023,Edmonton,CAN,Canada,World Cup,Big Air,26,131.40
-18,Smith Truth,Male,08-12-2023,Edmonton,CAN,Canada,Qualification,Big Air,14,
-19,Smith Truth,Male,21-10-2023,Chur,SUI,Canada,World Cup,Big Air,35,92.90
-20,Smith Truth,Male,21-10-2023,Chur,SUI,Canada,Qualification,Big Air,20,
-21,Smith Truth,Male,29-09-2023,Cardrona,NZL,Canada,Australian New Zealand Cup,Slopestyle,7,137.70
-22,Smith Truth,Male,12-02-2023,Calgary,CAN,Canada,World Cup,Slopestyle,18,121.50
-23,Smith Truth,Male,10-02-2023,Calgary,CAN,Canada,Qualification,Slopestyle,5,
-24,Smith Truth,Male,04-02-2023,Mammoth Mountain,USA,Canada,World Cup,Slopestyle,22,115.80
-25,Smith Truth,Male,01-02-2023,Mammoth Mountain,USA,Canada,Qualification,Slopestyle,9,
-26,Smith Truth,Male,18-01-2023,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,9,59.50
-27,Smith Truth,Male,17-01-2023,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,5,100.00
-28,Smith Truth,Male,10-12-2022,Edmonton,CAN,Canada,World Cup,Big Air,29,95.00
-29,Smith Truth,Male,09-12-2022,Edmonton,CAN,Canada,Qualification,Big Air,14,
-30,Smith Truth,Male,01-08-2022,Perisher,AUS,Canada,Australian New Zealand Cup,Slopestyle,2,129.70
-31,Smith Truth,Male,27-03-2022,Silvaplana,SUI,Canada,World Cup,Slopestyle,36,57.40
-32,Smith Truth,Male,25-03-2022,Silvaplana,SUI,Canada,Qualification,Slopestyle,17,
-33,Smith Truth,Male,19-03-2022,Spindleruv Mlyn,CZE,Canada,World Cup,Slopestyle,20,82.80
-34,Smith Truth,Male,18-03-2022,Spindleruv Mlyn,CZE,Canada,Qualification,Slopestyle,10,
-35,Smith Truth,Male,13-03-2022,Leysin,SUI,Canada,FIS Junior World Championships,Slopestyle,9,83.60
-36,Smith Truth,Male,10-03-2022,Leysin,SUI,Canada,FIS Junior World Championships,Big Air,32,28.60
-37,Smith Truth,Male,06-02-2022,Calgary,CAN,Canada,National Junior Championships,Slopestyle,2,107.60
-38,Smith Truth,Male,21-01-2022,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,2,99.20
-39,Smith Truth,Male,20-01-2022,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,2,99.20
-40,Smith Truth,Male,09-01-2022,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,3,53.30
-41,Smith Truth,Male,08-01-2022,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,2,65.40
-42,Smith Truth,Male,10-03-2020,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,8,48.00
-43,Smith Truth,Male,08-03-2020,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,6,28.00
-44,Smith Truth,Male,25-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,10,52.00
-45,Smith Truth,Male,24-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,11,48.00
-46,Smith Truth,Male,13-02-2020,Tremblant.QC,CAN,Canada,FIS,Slopestyle,11,12.00
-47,Smith Truth,Male,15-01-2020,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,9,46.40
-48,Smith Truth,Male,11-01-2020,"Whistler Blackcomb, BC",CAN,Canada,FIS,Big Air,1,50.00
-49,Smith Truth,Male,10-01-2020,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,4,75.00
-50,Smith Truth,Male,24-03-2019,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,2,80.00
-51,Smith Truth,Male,21-03-2019,"Canada Olympic Park, AB",CAN,Canada,Nor-Am Cup,Slopestyle,10,41.60
-52,Smith Truth,Male,17-03-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,26,3.50
-53,Smith Truth,Male,17-02-2019,Mt Seymour,CAN,Canada,FIS,Slopestyle,2,40.00
-54,Smith Truth,Male,16-02-2019,Mt Seymour,CAN,Canada,FIS,Slopestyle,1,50.00
-55,Smith Truth,Male,24-01-2019,Sun Peaks,CAN,Canada,Nor-Am Cup,Big Air,19,19.20
-56,Smith Truth,Male,23-01-2019,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,19,19.20
-57,Smith Truth,Male,20-01-2019,Big White Ski Resort,CAN,Canada,FIS,Slopestyle,6,20.00
-58,Smith Truth,Male,19-01-2019,Big White Ski Resort,CAN,Canada,FIS,Slopestyle,4,25.00
-59,Smith Truth,Male,13-01-2019,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,7,18.00
-60,Smith Truth,Male,12-01-2019,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,3,30.00
-61,Smith Truth,Male,04-03-2018,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,10,26.00
-62,Smith Truth,Male,18-02-2018,Mt Seymour,CAN,Canada,FIS,Slopestyle,4,25.00
-63,Smith Truth,Male,17-02-2018,Mt Seymour,CAN,Canada,FIS,Slopestyle,8,16.00
-64,Smith Truth,Male,14-01-2018,Big White Ski Resort,CAN,Canada,FIS,Slopestyle,11,12.00
-65,Smith Truth,Male,13-01-2018,Big White Ski Resort,CAN,Canada,FIS,Slopestyle,5,22.50
+0,Smith Truth,Male,22-02-2025,Calgary,CAN,Canada,World Cup,Slopestyle,13,234.80
+1,Smith Truth,Male,20-02-2025,Calgary,CAN,Canada,Qualification,Slopestyle,8,
+2,Smith Truth,Male,06-02-2025,Aspen,USA,Canada,World Cup,Big Air,30,102.70
+3,Smith Truth,Male,05-02-2025,Aspen,USA,Canada,Qualification,Big Air,12,
+4,Smith Truth,Male,02-02-2025,Aspen,USA,Canada,World Cup,Slopestyle,25,142.90
+5,Smith Truth,Male,31-01-2025,Aspen,USA,Canada,Qualification,Slopestyle,9,
+6,Smith Truth,Male,18-01-2025,Laax,SUI,Canada,World Cup,Slopestyle,37,97.70
+7,Smith Truth,Male,16-01-2025,Laax,SUI,Canada,Qualification,Slopestyle,13,
+8,Smith Truth,Male,02-09-2024,Cardrona,NZL,Canada,World Cup,Slopestyle,15,206.70
+9,Smith Truth,Male,31-08-2024,Cardrona,NZL,Canada,Qualification,Slopestyle,7,
+10,Smith Truth,Male,03-04-2024,Stoneham,CAN,Canada,Nor-Am Cup,Big Air,3,87.10
+11,Smith Truth,Male,03-04-2024,Stoneham,CAN,Canada,Nor-Am Cup,Slopestyle,3,176.30
+12,Smith Truth,Male,23-03-2024,Silvaplana,SUI,Canada,World Cup,Slopestyle,27,139.20
+13,Smith Truth,Male,21-03-2024,Silvaplana,SUI,Canada,Qualification,Slopestyle,16,
+14,Smith Truth,Male,15-03-2024,Tignes,FRA,Canada,World Cup,Slopestyle,31,109.10
+15,Smith Truth,Male,15-03-2024,Tignes,FRA,Canada,Qualification,Slopestyle,12,
+16,Smith Truth,Male,20-01-2024,Laax,SUI,Canada,World Cup,Slopestyle,28,134.60
+17,Smith Truth,Male,16-01-2024,Laax,SUI,Canada,Qualification,Slopestyle,16,
+18,Smith Truth,Male,09-12-2023,Edmonton,CAN,Canada,World Cup,Big Air,26,131.40
+19,Smith Truth,Male,08-12-2023,Edmonton,CAN,Canada,Qualification,Big Air,14,
+20,Smith Truth,Male,21-10-2023,Chur,SUI,Canada,World Cup,Big Air,35,92.90
+21,Smith Truth,Male,21-10-2023,Chur,SUI,Canada,Qualification,Big Air,20,
+22,Smith Truth,Male,29-09-2023,Cardrona,NZL,Canada,Australian New Zealand Cup,Slopestyle,7,137.70
+23,Smith Truth,Male,12-02-2023,Calgary,CAN,Canada,World Cup,Slopestyle,18,121.50
+24,Smith Truth,Male,10-02-2023,Calgary,CAN,Canada,Qualification,Slopestyle,5,
+25,Smith Truth,Male,04-02-2023,Mammoth Mountain,USA,Canada,World Cup,Slopestyle,22,115.80
+26,Smith Truth,Male,01-02-2023,Mammoth Mountain,USA,Canada,Qualification,Slopestyle,9,
+27,Smith Truth,Male,18-01-2023,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,9,59.50
+28,Smith Truth,Male,17-01-2023,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,5,100.00
+29,Smith Truth,Male,10-12-2022,Edmonton,CAN,Canada,World Cup,Big Air,29,95.00
+30,Smith Truth,Male,09-12-2022,Edmonton,CAN,Canada,Qualification,Big Air,14,
+31,Smith Truth,Male,01-08-2022,Perisher,AUS,Canada,Australian New Zealand Cup,Slopestyle,2,129.70
+32,Smith Truth,Male,27-03-2022,Silvaplana,SUI,Canada,World Cup,Slopestyle,36,57.40
+33,Smith Truth,Male,25-03-2022,Silvaplana,SUI,Canada,Qualification,Slopestyle,17,
+34,Smith Truth,Male,19-03-2022,Spindleruv Mlyn,CZE,Canada,World Cup,Slopestyle,20,82.80
+35,Smith Truth,Male,18-03-2022,Spindleruv Mlyn,CZE,Canada,Qualification,Slopestyle,10,
+36,Smith Truth,Male,13-03-2022,Leysin,SUI,Canada,FIS Junior World Championships,Slopestyle,9,83.60
+37,Smith Truth,Male,10-03-2022,Leysin,SUI,Canada,FIS Junior World Championships,Big Air,32,28.60
+38,Smith Truth,Male,06-02-2022,Calgary,CAN,Canada,National Junior Championships,Slopestyle,2,107.60
+39,Smith Truth,Male,21-01-2022,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,2,99.20
+40,Smith Truth,Male,20-01-2022,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,2,99.20
+41,Smith Truth,Male,09-01-2022,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,3,53.30
+42,Smith Truth,Male,08-01-2022,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,2,65.40
+43,Smith Truth,Male,10-03-2020,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,8,48.00
+44,Smith Truth,Male,08-03-2020,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,6,28.00
+45,Smith Truth,Male,25-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,10,52.00
+46,Smith Truth,Male,24-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,11,48.00
+47,Smith Truth,Male,13-02-2020,Tremblant.QC,CAN,Canada,FIS,Slopestyle,11,12.00
+48,Smith Truth,Male,15-01-2020,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,9,46.40
+49,Smith Truth,Male,11-01-2020,"Whistler Blackcomb, BC",CAN,Canada,FIS,Big Air,1,50.00
+50,Smith Truth,Male,10-01-2020,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,4,75.00
+51,Smith Truth,Male,24-03-2019,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,2,80.00
+52,Smith Truth,Male,21-03-2019,"Canada Olympic Park, AB",CAN,Canada,Nor-Am Cup,Slopestyle,10,41.60
+53,Smith Truth,Male,17-03-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,26,3.50
+54,Smith Truth,Male,17-02-2019,Mt Seymour,CAN,Canada,FIS,Slopestyle,2,40.00
+55,Smith Truth,Male,16-02-2019,Mt Seymour,CAN,Canada,FIS,Slopestyle,1,50.00
+56,Smith Truth,Male,24-01-2019,Sun Peaks,CAN,Canada,Nor-Am Cup,Big Air,19,19.20
+57,Smith Truth,Male,23-01-2019,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,19,19.20
+58,Smith Truth,Male,20-01-2019,Big White Ski Resort,CAN,Canada,FIS,Slopestyle,6,20.00
+59,Smith Truth,Male,19-01-2019,Big White Ski Resort,CAN,Canada,FIS,Slopestyle,4,25.00
+60,Smith Truth,Male,13-01-2019,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,7,18.00
+61,Smith Truth,Male,12-01-2019,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,3,30.00
+62,Smith Truth,Male,04-03-2018,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,10,26.00
+63,Smith Truth,Male,18-02-2018,Mt Seymour,CAN,Canada,FIS,Slopestyle,4,25.00
+64,Smith Truth,Male,17-02-2018,Mt Seymour,CAN,Canada,FIS,Slopestyle,8,16.00
+65,Smith Truth,Male,14-01-2018,Big White Ski Resort,CAN,Canada,FIS,Slopestyle,11,12.00
+66,Smith Truth,Male,13-01-2018,Big White Ski Resort,CAN,Canada,FIS,Slopestyle,5,22.50

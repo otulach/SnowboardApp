@@ -1,89 +1,90 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Malovannyi Ivan,Male,09-02-2025,Dolni Morava,CZE,Ukraine,FIS,Snowboard Cross,7,79.20
-1,Malovannyi Ivan,Male,14-01-2025,Bardonecchia,ITA,Ukraine,Universiade,Snowboard Cross,13,44.00
-2,Malovannyi Ivan,Male,27-11-2024,Pitztal,AUT,Ukraine,Qualification,Snowboard Cross,62,
-3,Malovannyi Ivan,Male,27-11-2024,Pitztal,AUT,Ukraine,European Cup,Snowboard Cross,62,4.28
-4,Malovannyi Ivan,Male,30-03-2024,Colere,ITA,Ukraine,National Championships,Snowboard Cross,10,75.40
-5,Malovannyi Ivan,Male,22-03-2024,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,DNS,
-6,Malovannyi Ivan,Male,21-03-2024,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,46,4.01
-7,Malovannyi Ivan,Male,09-03-2024,Cortina d'Ampezzo,ITA,Ukraine,World Cup,Snowboard Cross,62,11.90
-8,Malovannyi Ivan,Male,08-03-2024,Cortina d'Ampezzo,ITA,Ukraine,Qualification,Snowboard Cross,62,
-9,Malovannyi Ivan,Male,19-02-2024,Bukovel,UKR,Ukraine,National Championships,Snowboard Cross,1,50.00
-10,Malovannyi Ivan,Male,18-02-2024,Bukovel,UKR,Ukraine,FIS,Snowboard Cross,1,50.00
-11,Malovannyi Ivan,Male,04-02-2024,Gudauri,GEO,Ukraine,World Cup,Snowboard Cross,55,
-12,Malovannyi Ivan,Male,03-02-2024,Gudauri,GEO,Ukraine,World Cup,Snowboard Cross,52,14.90
-13,Malovannyi Ivan,Male,02-02-2024,Gudauri,GEO,Ukraine,Qualification,Snowboard Cross,52,
-14,Malovannyi Ivan,Male,28-01-2024,Lenk,SUI,Ukraine,FIS,Snowboard Cross,1,70.00
-15,Malovannyi Ivan,Male,27-01-2024,Lenk,SUI,Ukraine,FIS,Snowboard Cross,4,35.00
-16,Malovannyi Ivan,Male,26-01-2024,St. Moritz,SUI,Ukraine,World Cup,Snowboard Cross,56,13.70
-17,Malovannyi Ivan,Male,25-01-2024,St. Moritz,SUI,Ukraine,Qualification,Snowboard Cross,56,
-18,Malovannyi Ivan,Male,20-01-2024,Montafon,AUT,Ukraine,National Championships,Snowboard Cross,33,6.96
-19,Malovannyi Ivan,Male,16-12-2023,Cervinia,ITA,Ukraine,World Cup,Snowboard Cross,62,11.90
-20,Malovannyi Ivan,Male,03-12-2023,Les Deux Alpes,FRA,Ukraine,Qualification,Snowboard Cross,54,
+0,Malovannyi Ivan,Male,23-02-2025,Bukovel,UKR,Ukraine,National Championships,Snowboard Cross,1,50.00
+1,Malovannyi Ivan,Male,09-02-2025,Dolni Morava,CZE,Ukraine,FIS,Snowboard Cross,7,79.20
+2,Malovannyi Ivan,Male,14-01-2025,Bardonecchia,ITA,Ukraine,Universiade,Snowboard Cross,13,44.00
+3,Malovannyi Ivan,Male,27-11-2024,Pitztal,AUT,Ukraine,Qualification,Snowboard Cross,62,
+4,Malovannyi Ivan,Male,27-11-2024,Pitztal,AUT,Ukraine,European Cup,Snowboard Cross,62,4.28
+5,Malovannyi Ivan,Male,30-03-2024,Colere,ITA,Ukraine,National Championships,Snowboard Cross,10,75.40
+6,Malovannyi Ivan,Male,22-03-2024,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,DNS,
+7,Malovannyi Ivan,Male,21-03-2024,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,46,4.01
+8,Malovannyi Ivan,Male,09-03-2024,Cortina d'Ampezzo,ITA,Ukraine,World Cup,Snowboard Cross,62,11.90
+9,Malovannyi Ivan,Male,08-03-2024,Cortina d'Ampezzo,ITA,Ukraine,Qualification,Snowboard Cross,62,
+10,Malovannyi Ivan,Male,19-02-2024,Bukovel,UKR,Ukraine,National Championships,Snowboard Cross,1,50.00
+11,Malovannyi Ivan,Male,18-02-2024,Bukovel,UKR,Ukraine,FIS,Snowboard Cross,1,50.00
+12,Malovannyi Ivan,Male,04-02-2024,Gudauri,GEO,Ukraine,World Cup,Snowboard Cross,55,
+13,Malovannyi Ivan,Male,03-02-2024,Gudauri,GEO,Ukraine,World Cup,Snowboard Cross,52,14.90
+14,Malovannyi Ivan,Male,02-02-2024,Gudauri,GEO,Ukraine,Qualification,Snowboard Cross,52,
+15,Malovannyi Ivan,Male,28-01-2024,Lenk,SUI,Ukraine,FIS,Snowboard Cross,1,70.00
+16,Malovannyi Ivan,Male,27-01-2024,Lenk,SUI,Ukraine,FIS,Snowboard Cross,4,35.00
+17,Malovannyi Ivan,Male,26-01-2024,St. Moritz,SUI,Ukraine,World Cup,Snowboard Cross,56,13.70
+18,Malovannyi Ivan,Male,25-01-2024,St. Moritz,SUI,Ukraine,Qualification,Snowboard Cross,56,
+19,Malovannyi Ivan,Male,20-01-2024,Montafon,AUT,Ukraine,National Championships,Snowboard Cross,33,6.96
+20,Malovannyi Ivan,Male,16-12-2023,Cervinia,ITA,Ukraine,World Cup,Snowboard Cross,62,11.90
 21,Malovannyi Ivan,Male,03-12-2023,Les Deux Alpes,FRA,Ukraine,World Cup,Snowboard Cross,54,14.30
-22,Malovannyi Ivan,Male,03-04-2023,Moena - Passo San Pellegrino,ITA,Ukraine,National Junior Championships,Snowboard Cross,3,78.00
-23,Malovannyi Ivan,Male,02-04-2023,Moena - Passo San Pellegrino,ITA,Ukraine,National Championships,Snowboard Cross,25,17.40
-24,Malovannyi Ivan,Male,30-03-2023,Passo San Pellegrino,ITA,Ukraine,FIS Junior World Championships,Snowboard Cross,33,7.68
-25,Malovannyi Ivan,Male,19-03-2023,Passo San Pellegrino,ITA,Ukraine,FIS,Snowboard Cross,31,5.04
-26,Malovannyi Ivan,Male,18-03-2023,Passo San Pellegrino,ITA,Ukraine,FIS,Snowboard Cross,18,23.40
-27,Malovannyi Ivan,Male,16-03-2023,Pitztal,AUT,Ukraine,FIS,Snowboard Cross,7,46.80
-28,Malovannyi Ivan,Male,15-03-2023,Pitztal,AUT,Ukraine,FIS,Snowboard Cross,9,37.70
-29,Malovannyi Ivan,Male,12-03-2023,Lenk,SUI,Ukraine,National Junior Championships,Snowboard Cross,25,5.40
+22,Malovannyi Ivan,Male,03-12-2023,Les Deux Alpes,FRA,Ukraine,Qualification,Snowboard Cross,54,
+23,Malovannyi Ivan,Male,03-04-2023,Moena - Passo San Pellegrino,ITA,Ukraine,National Junior Championships,Snowboard Cross,3,78.00
+24,Malovannyi Ivan,Male,02-04-2023,Moena - Passo San Pellegrino,ITA,Ukraine,National Championships,Snowboard Cross,25,17.40
+25,Malovannyi Ivan,Male,30-03-2023,Passo San Pellegrino,ITA,Ukraine,FIS Junior World Championships,Snowboard Cross,33,7.68
+26,Malovannyi Ivan,Male,19-03-2023,Passo San Pellegrino,ITA,Ukraine,FIS,Snowboard Cross,31,5.04
+27,Malovannyi Ivan,Male,18-03-2023,Passo San Pellegrino,ITA,Ukraine,FIS,Snowboard Cross,18,23.40
+28,Malovannyi Ivan,Male,16-03-2023,Pitztal,AUT,Ukraine,FIS,Snowboard Cross,7,46.80
+29,Malovannyi Ivan,Male,15-03-2023,Pitztal,AUT,Ukraine,FIS,Snowboard Cross,9,37.70
 30,Malovannyi Ivan,Male,12-03-2023,Lenk,SUI,Ukraine,FIS,Snowboard Cross,8,51.20
-31,Malovannyi Ivan,Male,01-03-2023,Bakuriani,GEO,Ukraine,World Championships,Snowboard Cross,33,24.00
-32,Malovannyi Ivan,Male,13-01-2023,Gore Mountain,USA,Ukraine,Universiade,Snowboard Cross,11,62.40
-33,Malovannyi Ivan,Male,12-01-2023,Gore Mountain,USA,Ukraine,Qualification,Snowboard Cross,10,
-34,Malovannyi Ivan,Male,17-12-2022,Cervinia,ITA,Ukraine,World Cup,Snowboard Cross,33,24.00
-35,Malovannyi Ivan,Male,16-12-2022,Cervinia,ITA,Ukraine,World Cup,Snowboard Cross,42,17.90
-36,Malovannyi Ivan,Male,15-12-2022,Cervinia,ITA,Ukraine,Qualification,Snowboard Cross,42,
-37,Malovannyi Ivan,Male,27-11-2022,Pitztal,AUT,Ukraine,Junior,Snowboard Cross,9,46.40
-38,Malovannyi Ivan,Male,26-11-2022,Pitztal,AUT,Ukraine,Junior,Snowboard Cross,3,108.00
-39,Malovannyi Ivan,Male,25-11-2022,Pitztal,AUT,Ukraine,FIS,Snowboard Cross,49,3.48
-40,Malovannyi Ivan,Male,24-11-2022,Pitztal,AUT,Ukraine,European Cup,Snowboard Cross,44,4.15
-41,Malovannyi Ivan,Male,23-11-2022,Pitztal,AUT,Ukraine,Qualification,Snowboard Cross,44,
-42,Malovannyi Ivan,Male,03-04-2022,Passo San Pellegrino,ITA,Ukraine,National Junior Championships,Snowboard Cross,1,50.00
-43,Malovannyi Ivan,Male,02-04-2022,Passo San Pellegrino,ITA,Ukraine,National Championships,Snowboard Cross,8,92.80
-44,Malovannyi Ivan,Male,31-03-2022,Veysonnaz,SUI,Ukraine,FIS Junior World Championships,Snowboard Cross,25,15.60
-45,Malovannyi Ivan,Male,27-03-2022,Lenk,SUI,Ukraine,National Championships,Snowboard Cross,15,41.60
-46,Malovannyi Ivan,Male,26-03-2022,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,30,11.52
-47,Malovannyi Ivan,Male,25-03-2022,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,41,6.55
-48,Malovannyi Ivan,Male,06-02-2022,Dolni Morava,CZE,Ukraine,FIS,Snowboard Cross,4,60.00
-49,Malovannyi Ivan,Male,05-02-2022,Dolni Morava,CZE,Ukraine,FIS,Snowboard Cross,7,50.40
-50,Malovannyi Ivan,Male,03-02-2022,Dolni Morava,CZE,Ukraine,European Cup,Snowboard Cross,40,4.81
-51,Malovannyi Ivan,Male,02-02-2022,Dolni Morava,CZE,Ukraine,European Cup,Snowboard Cross,25,14.40
-52,Malovannyi Ivan,Male,23-01-2022,Vitkovice,CZE,Ukraine,Junior,Snowboard Cross,4,25.00
-53,Malovannyi Ivan,Male,22-01-2022,Vitkovice,CZE,Ukraine,Junior,Snowboard Cross,9,14.50
-54,Malovannyi Ivan,Male,13-12-2021,Reiteralm,AUT,Ukraine,FIS,Snowboard Cross,62,2.62
-55,Malovannyi Ivan,Male,10-04-2021,Colere,ITA,Ukraine,National Championships,Snowboard Cross,24,14.00
-56,Malovannyi Ivan,Male,09-04-2021,Colere,ITA,Ukraine,Junior,Snowboard Cross,2,40.00
-57,Malovannyi Ivan,Male,29-03-2021,Reiteralm,AUT,Ukraine,National Championships,Snowboard Cross,29,10.44
-58,Malovannyi Ivan,Male,12-03-2021,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,34,5.28
-59,Malovannyi Ivan,Male,03-02-2021,Isola 2000,FRA,Ukraine,European Cup,Snowboard Cross,33,3.84
-60,Malovannyi Ivan,Male,01-02-2021,Isola 2000,FRA,Ukraine,Junior,Snowboard Cross,9,26.10
-61,Malovannyi Ivan,Male,31-01-2021,Isola 2000,FRA,Ukraine,European Cup,Snowboard Cross,58,3.41
-62,Malovannyi Ivan,Male,30-01-2021,Isola 2000,FRA,Ukraine,European Cup,Snowboard Cross,62,4.28
-63,Malovannyi Ivan,Male,28-01-2021,Isola 2000,FRA,Ukraine,Junior,Snowboard Cross,29,2.52
-64,Malovannyi Ivan,Male,27-01-2021,Isola 2000,FRA,Ukraine,Junior,Snowboard Cross,6,28.00
-65,Malovannyi Ivan,Male,24-01-2021,Reiteralm,AUT,Ukraine,FIS,Snowboard Cross,33,1.68
-66,Malovannyi Ivan,Male,23-01-2021,Reiteralm,AUT,Ukraine,FIS,Snowboard Cross,16,10.50
-67,Malovannyi Ivan,Male,20-01-2020,Villars,SUI,Ukraine,Youth Olympic Winter Games,Snowboard Cross,15,17.60
-68,Malovannyi Ivan,Male,12-01-2020,Puy St. Vincent,FRA,Ukraine,European Cup,Snowboard Cross,24,22.40
-69,Malovannyi Ivan,Male,11-01-2020,Puy St. Vincent,FRA,Ukraine,European Cup,Snowboard Cross,37,6.21
-70,Malovannyi Ivan,Male,01-12-2019,Pitztal,AUT,Ukraine,Junior,Snowboard Cross,12,30.80
-71,Malovannyi Ivan,Male,30-11-2019,Pitztal,AUT,Ukraine,Junior,Snowboard Cross,21,14.00
-72,Malovannyi Ivan,Male,28-11-2019,Pitztal,AUT,Ukraine,European Cup,Snowboard Cross,65,3.96
-73,Malovannyi Ivan,Male,01-04-2019,Reiteralm,AUT,Ukraine,FIS Junior World Championships,Snowboard Cross,41,4.37
-74,Malovannyi Ivan,Male,31-03-2019,Reiteralm,AUT,Ukraine,Qualification,Snowboard Cross,41,
-75,Malovannyi Ivan,Male,27-03-2019,Isola 2000,FRA,Ukraine,National Championships,Snowboard Cross,38,3.82
-76,Malovannyi Ivan,Male,24-03-2019,Lenk,SUI,Ukraine,National Championships,Snowboard Cross,17,33.60
-77,Malovannyi Ivan,Male,23-03-2019,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,39,6.77
-78,Malovannyi Ivan,Male,22-03-2019,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,36,7.09
-79,Malovannyi Ivan,Male,10-02-2019,Dolni Morava,CZE,Ukraine,Junior,Snowboard Cross,9,29.00
-80,Malovannyi Ivan,Male,09-02-2019,Dolni Morava,CZE,Ukraine,Junior,Snowboard Cross,8,32.00
-81,Malovannyi Ivan,Male,07-02-2019,Dolni Morava,CZE,Ukraine,European Cup,Snowboard Cross,21,16.00
-82,Malovannyi Ivan,Male,27-01-2019,Grasgehren,GER,Ukraine,Junior,Snowboard Cross,25,4.20
-83,Malovannyi Ivan,Male,26-01-2019,Grasgehren,GER,Ukraine,Junior,Snowboard Cross,13,18.00
-84,Malovannyi Ivan,Male,13-01-2019,Puy St. Vincent,FRA,Ukraine,Junior,Snowboard Cross,5,31.50
-85,Malovannyi Ivan,Male,12-01-2019,Puy St. Vincent,FRA,Ukraine,Junior,Snowboard Cross,5,31.50
-86,Malovannyi Ivan,Male,02-12-2018,Pitzal,AUT,Ukraine,Junior,Snowboard Cross,45,2.21
-87,Malovannyi Ivan,Male,01-12-2018,Pitzal,AUT,Ukraine,Junior,Snowboard Cross,33,3.12
+31,Malovannyi Ivan,Male,12-03-2023,Lenk,SUI,Ukraine,National Junior Championships,Snowboard Cross,25,5.40
+32,Malovannyi Ivan,Male,01-03-2023,Bakuriani,GEO,Ukraine,World Championships,Snowboard Cross,33,24.00
+33,Malovannyi Ivan,Male,13-01-2023,Gore Mountain,USA,Ukraine,Universiade,Snowboard Cross,11,62.40
+34,Malovannyi Ivan,Male,12-01-2023,Gore Mountain,USA,Ukraine,Qualification,Snowboard Cross,10,
+35,Malovannyi Ivan,Male,17-12-2022,Cervinia,ITA,Ukraine,World Cup,Snowboard Cross,33,24.00
+36,Malovannyi Ivan,Male,16-12-2022,Cervinia,ITA,Ukraine,World Cup,Snowboard Cross,42,17.90
+37,Malovannyi Ivan,Male,15-12-2022,Cervinia,ITA,Ukraine,Qualification,Snowboard Cross,42,
+38,Malovannyi Ivan,Male,27-11-2022,Pitztal,AUT,Ukraine,Junior,Snowboard Cross,9,46.40
+39,Malovannyi Ivan,Male,26-11-2022,Pitztal,AUT,Ukraine,Junior,Snowboard Cross,3,108.00
+40,Malovannyi Ivan,Male,25-11-2022,Pitztal,AUT,Ukraine,FIS,Snowboard Cross,49,3.48
+41,Malovannyi Ivan,Male,24-11-2022,Pitztal,AUT,Ukraine,European Cup,Snowboard Cross,44,4.15
+42,Malovannyi Ivan,Male,23-11-2022,Pitztal,AUT,Ukraine,Qualification,Snowboard Cross,44,
+43,Malovannyi Ivan,Male,03-04-2022,Passo San Pellegrino,ITA,Ukraine,National Junior Championships,Snowboard Cross,1,50.00
+44,Malovannyi Ivan,Male,02-04-2022,Passo San Pellegrino,ITA,Ukraine,National Championships,Snowboard Cross,8,92.80
+45,Malovannyi Ivan,Male,31-03-2022,Veysonnaz,SUI,Ukraine,FIS Junior World Championships,Snowboard Cross,25,15.60
+46,Malovannyi Ivan,Male,27-03-2022,Lenk,SUI,Ukraine,National Championships,Snowboard Cross,15,41.60
+47,Malovannyi Ivan,Male,26-03-2022,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,30,11.52
+48,Malovannyi Ivan,Male,25-03-2022,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,41,6.55
+49,Malovannyi Ivan,Male,06-02-2022,Dolni Morava,CZE,Ukraine,FIS,Snowboard Cross,4,60.00
+50,Malovannyi Ivan,Male,05-02-2022,Dolni Morava,CZE,Ukraine,FIS,Snowboard Cross,7,50.40
+51,Malovannyi Ivan,Male,03-02-2022,Dolni Morava,CZE,Ukraine,European Cup,Snowboard Cross,40,4.81
+52,Malovannyi Ivan,Male,02-02-2022,Dolni Morava,CZE,Ukraine,European Cup,Snowboard Cross,25,14.40
+53,Malovannyi Ivan,Male,23-01-2022,Vitkovice,CZE,Ukraine,Junior,Snowboard Cross,4,25.00
+54,Malovannyi Ivan,Male,22-01-2022,Vitkovice,CZE,Ukraine,Junior,Snowboard Cross,9,14.50
+55,Malovannyi Ivan,Male,13-12-2021,Reiteralm,AUT,Ukraine,FIS,Snowboard Cross,62,2.62
+56,Malovannyi Ivan,Male,10-04-2021,Colere,ITA,Ukraine,National Championships,Snowboard Cross,24,14.00
+57,Malovannyi Ivan,Male,09-04-2021,Colere,ITA,Ukraine,Junior,Snowboard Cross,2,40.00
+58,Malovannyi Ivan,Male,29-03-2021,Reiteralm,AUT,Ukraine,National Championships,Snowboard Cross,29,10.44
+59,Malovannyi Ivan,Male,12-03-2021,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,34,5.28
+60,Malovannyi Ivan,Male,03-02-2021,Isola 2000,FRA,Ukraine,European Cup,Snowboard Cross,33,3.84
+61,Malovannyi Ivan,Male,01-02-2021,Isola 2000,FRA,Ukraine,Junior,Snowboard Cross,9,26.10
+62,Malovannyi Ivan,Male,31-01-2021,Isola 2000,FRA,Ukraine,European Cup,Snowboard Cross,58,3.41
+63,Malovannyi Ivan,Male,30-01-2021,Isola 2000,FRA,Ukraine,European Cup,Snowboard Cross,62,4.28
+64,Malovannyi Ivan,Male,28-01-2021,Isola 2000,FRA,Ukraine,Junior,Snowboard Cross,29,2.52
+65,Malovannyi Ivan,Male,27-01-2021,Isola 2000,FRA,Ukraine,Junior,Snowboard Cross,6,28.00
+66,Malovannyi Ivan,Male,24-01-2021,Reiteralm,AUT,Ukraine,FIS,Snowboard Cross,33,1.68
+67,Malovannyi Ivan,Male,23-01-2021,Reiteralm,AUT,Ukraine,FIS,Snowboard Cross,16,10.50
+68,Malovannyi Ivan,Male,20-01-2020,Villars,SUI,Ukraine,Youth Olympic Winter Games,Snowboard Cross,15,17.60
+69,Malovannyi Ivan,Male,12-01-2020,Puy St. Vincent,FRA,Ukraine,European Cup,Snowboard Cross,24,22.40
+70,Malovannyi Ivan,Male,11-01-2020,Puy St. Vincent,FRA,Ukraine,European Cup,Snowboard Cross,37,6.21
+71,Malovannyi Ivan,Male,01-12-2019,Pitztal,AUT,Ukraine,Junior,Snowboard Cross,12,30.80
+72,Malovannyi Ivan,Male,30-11-2019,Pitztal,AUT,Ukraine,Junior,Snowboard Cross,21,14.00
+73,Malovannyi Ivan,Male,28-11-2019,Pitztal,AUT,Ukraine,European Cup,Snowboard Cross,65,3.96
+74,Malovannyi Ivan,Male,01-04-2019,Reiteralm,AUT,Ukraine,FIS Junior World Championships,Snowboard Cross,41,4.37
+75,Malovannyi Ivan,Male,31-03-2019,Reiteralm,AUT,Ukraine,Qualification,Snowboard Cross,41,
+76,Malovannyi Ivan,Male,27-03-2019,Isola 2000,FRA,Ukraine,National Championships,Snowboard Cross,38,3.82
+77,Malovannyi Ivan,Male,24-03-2019,Lenk,SUI,Ukraine,National Championships,Snowboard Cross,17,33.60
+78,Malovannyi Ivan,Male,23-03-2019,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,39,6.77
+79,Malovannyi Ivan,Male,22-03-2019,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,36,7.09
+80,Malovannyi Ivan,Male,10-02-2019,Dolni Morava,CZE,Ukraine,Junior,Snowboard Cross,9,29.00
+81,Malovannyi Ivan,Male,09-02-2019,Dolni Morava,CZE,Ukraine,Junior,Snowboard Cross,8,32.00
+82,Malovannyi Ivan,Male,07-02-2019,Dolni Morava,CZE,Ukraine,European Cup,Snowboard Cross,21,16.00
+83,Malovannyi Ivan,Male,27-01-2019,Grasgehren,GER,Ukraine,Junior,Snowboard Cross,25,4.20
+84,Malovannyi Ivan,Male,26-01-2019,Grasgehren,GER,Ukraine,Junior,Snowboard Cross,13,18.00
+85,Malovannyi Ivan,Male,13-01-2019,Puy St. Vincent,FRA,Ukraine,Junior,Snowboard Cross,5,31.50
+86,Malovannyi Ivan,Male,12-01-2019,Puy St. Vincent,FRA,Ukraine,Junior,Snowboard Cross,5,31.50
+87,Malovannyi Ivan,Male,02-12-2018,Pitzal,AUT,Ukraine,Junior,Snowboard Cross,45,2.21
+88,Malovannyi Ivan,Male,01-12-2018,Pitzal,AUT,Ukraine,Junior,Snowboard Cross,33,3.12

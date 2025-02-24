@@ -1,92 +1,93 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Depriest Brooklyn,Male,20-02-2025,Calgary,CAN,United States Of America,Qualification,Slopestyle,26,
-1,Depriest Brooklyn,Male,12-02-2025,Aspen / Highlands,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,6,113.50
-2,Depriest Brooklyn,Male,06-02-2025,Aspen,USA,United States Of America,World Cup,Big Air,24,135.20
-3,Depriest Brooklyn,Male,05-02-2025,Aspen,USA,United States Of America,Qualification,Big Air,14,
-4,Depriest Brooklyn,Male,02-02-2025,Aspen,USA,United States Of America,World Cup,Slopestyle,21,164.30
-5,Depriest Brooklyn,Male,31-01-2025,Aspen,USA,United States Of America,Qualification,Slopestyle,13,
-6,Depriest Brooklyn,Male,18-01-2025,Laax,SUI,United States Of America,World Cup,Slopestyle,24,155.00
-7,Depriest Brooklyn,Male,16-01-2025,Laax,SUI,United States Of America,Qualification,Slopestyle,4,
-8,Depriest Brooklyn,Male,11-01-2025,Kreischberg,AUT,United States Of America,Qualification,Big Air,27,
-9,Depriest Brooklyn,Male,11-01-2025,Kreischberg,AUT,United States Of America,World Cup,Big Air,52,14.10
-10,Depriest Brooklyn,Male,05-01-2025,Klagenfurt,AUT,United States Of America,Qualification,Big Air,18,
+0,Depriest Brooklyn,Male,22-02-2025,Calgary,CAN,United States Of America,World Cup,Slopestyle,51,30.90
+1,Depriest Brooklyn,Male,20-02-2025,Calgary,CAN,United States Of America,Qualification,Slopestyle,26,
+2,Depriest Brooklyn,Male,12-02-2025,Aspen / Highlands,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,6,113.50
+3,Depriest Brooklyn,Male,06-02-2025,Aspen,USA,United States Of America,World Cup,Big Air,24,135.20
+4,Depriest Brooklyn,Male,05-02-2025,Aspen,USA,United States Of America,Qualification,Big Air,14,
+5,Depriest Brooklyn,Male,02-02-2025,Aspen,USA,United States Of America,World Cup,Slopestyle,21,164.30
+6,Depriest Brooklyn,Male,31-01-2025,Aspen,USA,United States Of America,Qualification,Slopestyle,13,
+7,Depriest Brooklyn,Male,18-01-2025,Laax,SUI,United States Of America,World Cup,Slopestyle,24,155.00
+8,Depriest Brooklyn,Male,16-01-2025,Laax,SUI,United States Of America,Qualification,Slopestyle,4,
+9,Depriest Brooklyn,Male,11-01-2025,Kreischberg,AUT,United States Of America,Qualification,Big Air,27,
+10,Depriest Brooklyn,Male,11-01-2025,Kreischberg,AUT,United States Of America,World Cup,Big Air,52,14.10
 11,Depriest Brooklyn,Male,05-01-2025,Klagenfurt,AUT,United States Of America,World Cup,Big Air,30,93.10
-12,Depriest Brooklyn,Male,01-12-2024,Beijing,CHN,United States Of America,World Cup,Big Air,49,19.50
-13,Depriest Brooklyn,Male,30-11-2024,Beijing,CHN,United States Of America,Qualification,Big Air,25,
-14,Depriest Brooklyn,Male,02-09-2024,Cardrona,NZL,United States Of America,World Cup,Slopestyle,35,89.90
-15,Depriest Brooklyn,Male,31-08-2024,Cardrona,NZL,United States Of America,Qualification,Slopestyle,21,
-16,Depriest Brooklyn,Male,03-04-2024,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,14,27.10
-17,Depriest Brooklyn,Male,03-04-2024,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,9,27.20
-18,Depriest Brooklyn,Male,30-03-2024,Livigno/Mottolino,ITA,United States Of America,FIS Junior World Championships,Big Air,9,76.30
-19,Depriest Brooklyn,Male,28-03-2024,Livigno/Mottolino,ITA,United States Of America,Qualification,Big Air,3,
-20,Depriest Brooklyn,Male,26-03-2024,Livigno/Mottolino,ITA,United States Of America,FIS Junior World Championships,Slopestyle,1,260.00
-21,Depriest Brooklyn,Male,26-03-2024,Livigno/Mottolino,ITA,United States Of America,Qualification,Slopestyle,1,
-22,Depriest Brooklyn,Male,17-03-2024,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,6,67.30
-23,Depriest Brooklyn,Male,12-03-2024,Laax,SUI,United States Of America,European Cup Premium,Slopestyle,17,44.20
-24,Depriest Brooklyn,Male,08-02-2024,Mammoth Mountain,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,6,219.50
-25,Depriest Brooklyn,Male,28-01-2024,Gangwon/Welli Hilli,KOR,United States Of America,Youth Olympic Winter Games,Big Air,8,40.10
-26,Depriest Brooklyn,Male,27-01-2024,Gangwon/Welli Hilli,KOR,United States Of America,Qualification,Big Air,7,
-27,Depriest Brooklyn,Male,25-01-2024,Gangwon/Welli Hilli,KOR,United States Of America,Youth Olympic Winter Games,Slopestyle,6,81.50
-28,Depriest Brooklyn,Male,18-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Big Air,2,132.70
-29,Depriest Brooklyn,Male,17-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,9,62.50
-30,Depriest Brooklyn,Male,15-12-2023,Copper Mountain,USA,United States Of America,World Cup,Big Air,52,22.50
-31,Depriest Brooklyn,Male,13-12-2023,Copper Mountain,USA,United States Of America,Qualification,Big Air,27,
-32,Depriest Brooklyn,Male,09-12-2023,Edmonton,CAN,United States Of America,World Cup,Big Air,52,5.00
-33,Depriest Brooklyn,Male,08-12-2023,Edmonton,CAN,United States Of America,Qualification,Big Air,26,
-34,Depriest Brooklyn,Male,21-10-2023,Chur,SUI,United States Of America,Qualification,Big Air,22,
-35,Depriest Brooklyn,Male,21-10-2023,Chur,SUI,United States Of America,World Cup,Big Air,46,41.90
-36,Depriest Brooklyn,Male,04-09-2023,Cardrona,NZL,United States Of America,FIS Junior World Championships,Big Air,5,182.80
-37,Depriest Brooklyn,Male,02-09-2023,Cardrona,NZL,United States Of America,Qualification,Big Air,2,
-38,Depriest Brooklyn,Male,30-08-2023,Cardrona,NZL,United States Of America,FIS Junior World Championships,Slopestyle,6,160.00
-39,Depriest Brooklyn,Male,28-08-2023,Cardrona,NZL,United States Of America,Qualification,Slopestyle,4,
-40,Depriest Brooklyn,Male,06-04-2023,Copper Mountain Resort,USA,United States Of America,National Championships,Slopestyle,1,120.00
-41,Depriest Brooklyn,Male,15-03-2023,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,2,98.80
-42,Depriest Brooklyn,Male,14-03-2023,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,25,6.50
-43,Depriest Brooklyn,Male,10-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Big Air,9,49.40
-44,Depriest Brooklyn,Male,09-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,6,94.50
-45,Depriest Brooklyn,Male,08-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,21,24.80
-46,Depriest Brooklyn,Male,16-02-2023,Winsport Calgary,CAN,United States Of America,Nor-Am Cup,Big Air,4,75.60
-47,Depriest Brooklyn,Male,15-02-2023,Winsport Calgary,CAN,United States Of America,Nor-Am Cup,Slopestyle,31,22.10
-48,Depriest Brooklyn,Male,10-02-2023,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,11,54.90
-49,Depriest Brooklyn,Male,04-02-2023,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,26,97.10
-50,Depriest Brooklyn,Male,01-02-2023,Mammoth Mountain,USA,United States Of America,Qualification,Slopestyle,14,
-51,Depriest Brooklyn,Male,26-01-2023,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,3,180.40
-52,Depriest Brooklyn,Male,18-01-2023,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,3,138.30
-53,Depriest Brooklyn,Male,17-01-2023,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,11,49.20
-54,Depriest Brooklyn,Male,17-12-2022,Copper Mountain,USA,United States Of America,World Cup,Big Air,29,97.00
-55,Depriest Brooklyn,Male,15-12-2022,Copper Mountain,USA,United States Of America,Qualification,Big Air,16,
-56,Depriest Brooklyn,Male,07-04-2022,Copper Mountain Resort,USA,United States Of America,National Championships,Slopestyle,2,107.30
-57,Depriest Brooklyn,Male,24-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,4,68.40
-58,Depriest Brooklyn,Male,22-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,19,17.60
-59,Depriest Brooklyn,Male,20-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Big Air,6,44.20
-60,Depriest Brooklyn,Male,19-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Slopestyle,2,107.40
-61,Depriest Brooklyn,Male,18-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Slopestyle,7,48.00
-62,Depriest Brooklyn,Male,13-03-2022,Leysin,SUI,United States Of America,FIS Junior World Championships,Slopestyle,14,59.80
-63,Depriest Brooklyn,Male,10-03-2022,Leysin,SUI,United States Of America,FIS Junior World Championships,Big Air,20,42.30
-64,Depriest Brooklyn,Male,24-02-2022,Copper Mountain Resort,USA,United States Of America,FIS,Slopestyle,28,9.40
-65,Depriest Brooklyn,Male,15-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Big Air,9,31.20
-66,Depriest Brooklyn,Male,13-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Slopestyle,6,95.30
-67,Depriest Brooklyn,Male,04-02-2022,Calgary,CAN,United States Of America,Nor-Am Cup,Big Air,10,31.40
-68,Depriest Brooklyn,Male,26-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,12,68.70
-69,Depriest Brooklyn,Male,25-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,16,53.50
-70,Depriest Brooklyn,Male,21-01-2022,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,19,14.70
-71,Depriest Brooklyn,Male,20-01-2022,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,25,8.50
-72,Depriest Brooklyn,Male,25-03-2021,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Halfpipe,4,33.05
-73,Depriest Brooklyn,Male,24-03-2021,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Slopestyle,8,19.98
-74,Depriest Brooklyn,Male,19-03-2021,"Winter Park Resort, CO",USA,United States Of America,FIS,Slopestyle,25,4.83
-75,Depriest Brooklyn,Male,05-03-2021,Copper Mountain,USA,United States Of America,National Championships,Halfpipe,16,45.63
-76,Depriest Brooklyn,Male,04-03-2021,Copper Mountain,USA,United States Of America,National Championships,Slopestyle,9,88.45
-77,Depriest Brooklyn,Male,26-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Big Air,19,4.51
-78,Depriest Brooklyn,Male,25-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Halfpipe,9,71.33
-79,Depriest Brooklyn,Male,24-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Slopestyle,40,25.61
-80,Depriest Brooklyn,Male,29-01-2021,Park City,USA,United States Of America,FIS,Slopestyle,15,13.76
-81,Depriest Brooklyn,Male,28-01-2021,Park City,USA,United States Of America,FIS,Halfpipe,2,41.03
-82,Depriest Brooklyn,Male,09-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Big Air,17,28.00
-83,Depriest Brooklyn,Male,07-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,42,4.30
-84,Depriest Brooklyn,Male,24-01-2020,Loon Mountain Ski Resort,USA,United States Of America,FIS,Slopestyle,34,
-85,Depriest Brooklyn,Male,21-01-2020,Mount Snow,USA,United States Of America,FIS,Slopestyle,19,6.00
-86,Depriest Brooklyn,Male,16-01-2020,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Big Air,19,19.20
-87,Depriest Brooklyn,Male,15-01-2020,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,58,2.10
-88,Depriest Brooklyn,Male,18-12-2019,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,16,24.00
-89,Depriest Brooklyn,Male,17-12-2019,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,13,32.00
-90,Depriest Brooklyn,Male,06-12-2019,Copper Mountain Resort,USA,United States Of America,FIS,Halfpipe,28,8.80
+12,Depriest Brooklyn,Male,05-01-2025,Klagenfurt,AUT,United States Of America,Qualification,Big Air,18,
+13,Depriest Brooklyn,Male,01-12-2024,Beijing,CHN,United States Of America,World Cup,Big Air,49,19.50
+14,Depriest Brooklyn,Male,30-11-2024,Beijing,CHN,United States Of America,Qualification,Big Air,25,
+15,Depriest Brooklyn,Male,02-09-2024,Cardrona,NZL,United States Of America,World Cup,Slopestyle,35,89.90
+16,Depriest Brooklyn,Male,31-08-2024,Cardrona,NZL,United States Of America,Qualification,Slopestyle,21,
+17,Depriest Brooklyn,Male,03-04-2024,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,14,27.10
+18,Depriest Brooklyn,Male,03-04-2024,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,9,27.20
+19,Depriest Brooklyn,Male,30-03-2024,Livigno/Mottolino,ITA,United States Of America,FIS Junior World Championships,Big Air,9,76.30
+20,Depriest Brooklyn,Male,28-03-2024,Livigno/Mottolino,ITA,United States Of America,Qualification,Big Air,3,
+21,Depriest Brooklyn,Male,26-03-2024,Livigno/Mottolino,ITA,United States Of America,FIS Junior World Championships,Slopestyle,1,260.00
+22,Depriest Brooklyn,Male,26-03-2024,Livigno/Mottolino,ITA,United States Of America,Qualification,Slopestyle,1,
+23,Depriest Brooklyn,Male,17-03-2024,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,6,67.30
+24,Depriest Brooklyn,Male,12-03-2024,Laax,SUI,United States Of America,European Cup Premium,Slopestyle,17,44.20
+25,Depriest Brooklyn,Male,08-02-2024,Mammoth Mountain,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,6,219.50
+26,Depriest Brooklyn,Male,28-01-2024,Gangwon/Welli Hilli,KOR,United States Of America,Youth Olympic Winter Games,Big Air,8,40.10
+27,Depriest Brooklyn,Male,27-01-2024,Gangwon/Welli Hilli,KOR,United States Of America,Qualification,Big Air,7,
+28,Depriest Brooklyn,Male,25-01-2024,Gangwon/Welli Hilli,KOR,United States Of America,Youth Olympic Winter Games,Slopestyle,6,81.50
+29,Depriest Brooklyn,Male,18-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Big Air,2,132.70
+30,Depriest Brooklyn,Male,17-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,9,62.50
+31,Depriest Brooklyn,Male,15-12-2023,Copper Mountain,USA,United States Of America,World Cup,Big Air,52,22.50
+32,Depriest Brooklyn,Male,13-12-2023,Copper Mountain,USA,United States Of America,Qualification,Big Air,27,
+33,Depriest Brooklyn,Male,09-12-2023,Edmonton,CAN,United States Of America,World Cup,Big Air,52,5.00
+34,Depriest Brooklyn,Male,08-12-2023,Edmonton,CAN,United States Of America,Qualification,Big Air,26,
+35,Depriest Brooklyn,Male,21-10-2023,Chur,SUI,United States Of America,Qualification,Big Air,22,
+36,Depriest Brooklyn,Male,21-10-2023,Chur,SUI,United States Of America,World Cup,Big Air,46,41.90
+37,Depriest Brooklyn,Male,04-09-2023,Cardrona,NZL,United States Of America,FIS Junior World Championships,Big Air,5,182.80
+38,Depriest Brooklyn,Male,02-09-2023,Cardrona,NZL,United States Of America,Qualification,Big Air,2,
+39,Depriest Brooklyn,Male,30-08-2023,Cardrona,NZL,United States Of America,FIS Junior World Championships,Slopestyle,6,160.00
+40,Depriest Brooklyn,Male,28-08-2023,Cardrona,NZL,United States Of America,Qualification,Slopestyle,4,
+41,Depriest Brooklyn,Male,06-04-2023,Copper Mountain Resort,USA,United States Of America,National Championships,Slopestyle,1,120.00
+42,Depriest Brooklyn,Male,15-03-2023,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,2,98.80
+43,Depriest Brooklyn,Male,14-03-2023,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,25,6.50
+44,Depriest Brooklyn,Male,10-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Big Air,9,49.40
+45,Depriest Brooklyn,Male,09-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,6,94.50
+46,Depriest Brooklyn,Male,08-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,21,24.80
+47,Depriest Brooklyn,Male,16-02-2023,Winsport Calgary,CAN,United States Of America,Nor-Am Cup,Big Air,4,75.60
+48,Depriest Brooklyn,Male,15-02-2023,Winsport Calgary,CAN,United States Of America,Nor-Am Cup,Slopestyle,31,22.10
+49,Depriest Brooklyn,Male,10-02-2023,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,11,54.90
+50,Depriest Brooklyn,Male,04-02-2023,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,26,97.10
+51,Depriest Brooklyn,Male,01-02-2023,Mammoth Mountain,USA,United States Of America,Qualification,Slopestyle,14,
+52,Depriest Brooklyn,Male,26-01-2023,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,3,180.40
+53,Depriest Brooklyn,Male,18-01-2023,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,3,138.30
+54,Depriest Brooklyn,Male,17-01-2023,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,11,49.20
+55,Depriest Brooklyn,Male,17-12-2022,Copper Mountain,USA,United States Of America,World Cup,Big Air,29,97.00
+56,Depriest Brooklyn,Male,15-12-2022,Copper Mountain,USA,United States Of America,Qualification,Big Air,16,
+57,Depriest Brooklyn,Male,07-04-2022,Copper Mountain Resort,USA,United States Of America,National Championships,Slopestyle,2,107.30
+58,Depriest Brooklyn,Male,24-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,4,68.40
+59,Depriest Brooklyn,Male,22-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,19,17.60
+60,Depriest Brooklyn,Male,20-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Big Air,6,44.20
+61,Depriest Brooklyn,Male,19-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Slopestyle,2,107.40
+62,Depriest Brooklyn,Male,18-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Slopestyle,7,48.00
+63,Depriest Brooklyn,Male,13-03-2022,Leysin,SUI,United States Of America,FIS Junior World Championships,Slopestyle,14,59.80
+64,Depriest Brooklyn,Male,10-03-2022,Leysin,SUI,United States Of America,FIS Junior World Championships,Big Air,20,42.30
+65,Depriest Brooklyn,Male,24-02-2022,Copper Mountain Resort,USA,United States Of America,FIS,Slopestyle,28,9.40
+66,Depriest Brooklyn,Male,15-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Big Air,9,31.20
+67,Depriest Brooklyn,Male,13-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Slopestyle,6,95.30
+68,Depriest Brooklyn,Male,04-02-2022,Calgary,CAN,United States Of America,Nor-Am Cup,Big Air,10,31.40
+69,Depriest Brooklyn,Male,26-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,12,68.70
+70,Depriest Brooklyn,Male,25-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,16,53.50
+71,Depriest Brooklyn,Male,21-01-2022,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,19,14.70
+72,Depriest Brooklyn,Male,20-01-2022,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,25,8.50
+73,Depriest Brooklyn,Male,25-03-2021,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Halfpipe,4,33.05
+74,Depriest Brooklyn,Male,24-03-2021,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Slopestyle,8,19.98
+75,Depriest Brooklyn,Male,19-03-2021,"Winter Park Resort, CO",USA,United States Of America,FIS,Slopestyle,25,4.83
+76,Depriest Brooklyn,Male,05-03-2021,Copper Mountain,USA,United States Of America,National Championships,Halfpipe,16,45.63
+77,Depriest Brooklyn,Male,04-03-2021,Copper Mountain,USA,United States Of America,National Championships,Slopestyle,9,88.45
+78,Depriest Brooklyn,Male,26-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Big Air,19,4.51
+79,Depriest Brooklyn,Male,25-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Halfpipe,9,71.33
+80,Depriest Brooklyn,Male,24-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Slopestyle,40,25.61
+81,Depriest Brooklyn,Male,29-01-2021,Park City,USA,United States Of America,FIS,Slopestyle,15,13.76
+82,Depriest Brooklyn,Male,28-01-2021,Park City,USA,United States Of America,FIS,Halfpipe,2,41.03
+83,Depriest Brooklyn,Male,09-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Big Air,17,28.00
+84,Depriest Brooklyn,Male,07-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,42,4.30
+85,Depriest Brooklyn,Male,24-01-2020,Loon Mountain Ski Resort,USA,United States Of America,FIS,Slopestyle,34,
+86,Depriest Brooklyn,Male,21-01-2020,Mount Snow,USA,United States Of America,FIS,Slopestyle,19,6.00
+87,Depriest Brooklyn,Male,16-01-2020,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Big Air,19,19.20
+88,Depriest Brooklyn,Male,15-01-2020,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,58,2.10
+89,Depriest Brooklyn,Male,18-12-2019,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,16,24.00
+90,Depriest Brooklyn,Male,17-12-2019,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,13,32.00
+91,Depriest Brooklyn,Male,06-12-2019,Copper Mountain Resort,USA,United States Of America,FIS,Halfpipe,28,8.80

@@ -1,75 +1,76 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Kim Kangsan,Male,19-02-2025,Calgary,CAN,Korea,Qualification,Halfpipe,11,
-1,Kim Kangsan,Male,12-02-2025,Yabuli Ski Resort,CHN,Korea,Asian Winter Games,Halfpipe,5,150.50
-2,Kim Kangsan,Male,01-02-2025,Aspen,USA,Korea,World Cup,Halfpipe,25,105.70
-3,Kim Kangsan,Male,30-01-2025,Aspen,USA,Korea,Qualification,Halfpipe,13,
-4,Kim Kangsan,Male,18-01-2025,Laax,SUI,Korea,World Cup,Halfpipe,29,91.80
-5,Kim Kangsan,Male,17-01-2025,Laax,SUI,Korea,Qualification,Halfpipe,17,
-6,Kim Kangsan,Male,20-12-2024,Copper,USA,Korea,World Cup,Halfpipe,24,112.30
-7,Kim Kangsan,Male,18-12-2024,Copper,USA,Korea,Qualification,Halfpipe,13,
-8,Kim Kangsan,Male,08-12-2024,Secret Garden,CHN,Korea,World Cup,Halfpipe,25,75.50
-9,Kim Kangsan,Male,06-12-2024,Secret Garden,CHN,Korea,Qualification,Halfpipe,11,
-10,Kim Kangsan,Male,08-04-2024,Corvatsch,SUI,Korea,European Cup,Halfpipe,12,55.90
-11,Kim Kangsan,Male,24-02-2024,Welli Hilli,KOR,Korea,National Championships,Halfpipe,3,111.20
-12,Kim Kangsan,Male,15-02-2024,Pheonix PyeongChang,KOR,Korea,FIS,Halfpipe,DNS,
-13,Kim Kangsan,Male,10-02-2024,Calgary,CAN,Korea,World Cup,Halfpipe,19,97.50
-14,Kim Kangsan,Male,09-02-2024,Calgary,CAN,Korea,Qualification,Halfpipe,19,
-15,Kim Kangsan,Male,03-02-2024,Mammoth Mountain,USA,Korea,World Cup,Halfpipe,33,0.40
-16,Kim Kangsan,Male,30-01-2024,Mammoth Mountain,USA,Korea,Qualification,Halfpipe,17,
-17,Kim Kangsan,Male,25-01-2024,Copper Mountain,USA,Korea,Nor-Am Cup,Halfpipe,23,5.80
-18,Kim Kangsan,Male,08-12-2023,Secret Garden,CHN,Korea,World Cup,Halfpipe,19,84.80
-19,Kim Kangsan,Male,06-12-2023,Secret Garden,CHN,Korea,Qualification,Halfpipe,19,
-20,Kim Kangsan,Male,29-09-2023,Cardrona,NZL,Korea,Australian New Zealand Cup,Slopestyle,27,36.10
-21,Kim Kangsan,Male,03-03-2023,Bakuriani,GEO,Korea,World Championships,Halfpipe,16,86.60
-22,Kim Kangsan,Male,01-03-2023,Bakuriani,GEO,Korea,Qualification,Halfpipe,16,
-23,Kim Kangsan,Male,10-02-2023,Calgary,CAN,Korea,World Cup,Halfpipe,17,70.80
-24,Kim Kangsan,Male,09-02-2023,Calgary,CAN,Korea,Qualification,Halfpipe,17,
-25,Kim Kangsan,Male,04-02-2023,Mammoth Mountain,USA,Korea,World Cup,Halfpipe,14,123.00
-26,Kim Kangsan,Male,02-02-2023,Mammoth Mountain,USA,Korea,Qualification,Halfpipe,14,
-27,Kim Kangsan,Male,16-12-2022,Copper Mountain,USA,Korea,World Cup,Halfpipe,41,6.40
-28,Kim Kangsan,Male,14-12-2022,Copper Mountain,USA,Korea,Qualification,Halfpipe,20,
-29,Kim Kangsan,Male,01-09-2022,Cardrona,NZL,Korea,Australian New Zealand Cup,Halfpipe,10,27.20
-30,Kim Kangsan,Male,20-03-2022,Laax,SUI,Korea,European Cup Premium,Halfpipe,6,123.50
-31,Kim Kangsan,Male,08-03-2022,Leysin,SUI,Korea,FIS Junior World Championships,Halfpipe,10,53.00
-32,Kim Kangsan,Male,18-02-2022,Wellihilli Parkipark,KOR,Korea,FIS,Snowboard Cross,4,25.00
-33,Kim Kangsan,Male,11-02-2022,Phoenix Pyeongchang,KOR,Korea,National Championships,Halfpipe,2,45.90
-34,Kim Kangsan,Male,09-02-2022,Phoenix Pyeongchang,KOR,Korea,FIS,Halfpipe,6,7.20
-35,Kim Kangsan,Male,15-01-2022,Laax,SUI,Korea,World Cup,Halfpipe,34,54.00
-36,Kim Kangsan,Male,13-01-2022,Laax,SUI,Korea,Qualification,Halfpipe,17,
-37,Kim Kangsan,Male,08-01-2022,Mammoth Mountain,USA,Korea,World Cup,Halfpipe,21,89.90
-38,Kim Kangsan,Male,11-12-2021,Copper Mountain,USA,Korea,World Cup,Halfpipe,44,0.30
-39,Kim Kangsan,Male,09-12-2021,Copper Mountain,USA,Korea,Qualification,Halfpipe,23,
-40,Kim Kangsan,Male,21-03-2021,Aspen,USA,Korea,World Cup,Halfpipe,31,12.87
-41,Kim Kangsan,Male,18-03-2021,Aspen,USA,Korea,Qualification,Halfpipe,31,
-42,Kim Kangsan,Male,13-03-2021,Aspen,USA,Korea,World Championships,Halfpipe,19,84.74
-43,Kim Kangsan,Male,11-03-2021,Aspen,USA,Korea,Qualification,Halfpipe,19,
-44,Kim Kangsan,Male,05-03-2021,Copper Mountain,USA,Korea,National Championships,Halfpipe,11,73.02
-45,Kim Kangsan,Male,31-01-2021,Crans Montana,SUI,Korea,European Cup,Halfpipe,6,112.62
-46,Kim Kangsan,Male,23-01-2021,Laax,SUI,Korea,World Cup,Halfpipe,24,108.76
-47,Kim Kangsan,Male,21-01-2021,Laax,SUI,Korea,Qualification,Halfpipe,10,
-48,Kim Kangsan,Male,19-02-2020,Pyeongchang,KOR,Korea,Asian Cup,Halfpipe,3,96.00
-49,Kim Kangsan,Male,10-02-2020,Pyeongchang,KOR,Korea,Asian Cup,Halfpipe,16,24.00
-50,Kim Kangsan,Male,04-02-2020,Pyeongchang,KOR,Korea,FIS,Halfpipe,11,36.00
-51,Kim Kangsan,Male,18-12-2019,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Halfpipe,11,38.40
-52,Kim Kangsan,Male,17-12-2019,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Halfpipe,8,51.20
-53,Kim Kangsan,Male,02-10-2019,Cardrona,NZL,Korea,Australian New Zealand Cup,Halfpipe,3,96.00
-54,Kim Kangsan,Male,28-08-2019,Cardrona,NZL,Korea,Australian New Zealand Cup,Halfpipe,17,30.80
-55,Kim Kangsan,Male,03-04-2019,"Copper Mountain, CO",USA,Korea,National Championships,Halfpipe,12,28.60
-56,Kim Kangsan,Male,19-03-2019,"Canada Olympic Park, AB",CAN,Korea,National Junior Championships,Halfpipe,2,40.00
-57,Kim Kangsan,Male,19-03-2019,"Canada Olympic Park, AB",CAN,Korea,Nor-Am Cup,Halfpipe,4,80.00
-58,Kim Kangsan,Male,16-03-2019,"Canada Olympic Park, AB",CAN,Korea,FIS,Halfpipe,3,42.00
-59,Kim Kangsan,Male,26-02-2019,Phoenix Pyeongchang,KOR,Korea,National Championships,Halfpipe,4,50.00
-60,Kim Kangsan,Male,29-01-2019,Phoenix Pyeongchang,KOR,Korea,FIS,Halfpipe,2,56.00
-61,Kim Kangsan,Male,28-01-2019,Phoenix Pyeongchang,KOR,Korea,FIS,Halfpipe,1,50.00
-62,Kim Kangsan,Male,12-12-2018,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Halfpipe,20,39.60
-63,Kim Kangsan,Male,11-12-2018,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Halfpipe,26,18.00
-64,Kim Kangsan,Male,04-09-2018,Cardrona,NZL,Korea,FIS Junior World Championships,Halfpipe,17,33.60
-65,Kim Kangsan,Male,01-09-2018,Cardrona,NZL,Korea,Qualification,Halfpipe,17,
-66,Kim Kangsan,Male,16-08-2018,Cardrona,NZL,Korea,Australian New Zealand Cup,Halfpipe,6,64.00
-67,Kim Kangsan,Male,03-03-2018,Phoenix Pyeongchang,KOR,Korea,National Championships,Halfpipe,4,65.00
-68,Kim Kangsan,Male,02-03-2018,Phoenix Pyeongchang,KOR,Korea,Asian Cup,Halfpipe,6,64.00
-69,Kim Kangsan,Male,18-01-2018,Wellihilli Park,KOR,Korea,FIS,Halfpipe,1,50.00
-70,Kim Kangsan,Male,17-01-2018,Wellihilli Park,KOR,Korea,FIS,Halfpipe,3,30.00
-71,Kim Kangsan,Male,13-12-2017,Copper Mountain Resort,USA,Korea,Nor-Am Cup,Halfpipe,14,46.80
-72,Kim Kangsan,Male,12-12-2017,Copper Mountain Resort,USA,Korea,Nor-Am Cup,Halfpipe,17,36.40
-73,Kim Kangsan,Male,15-08-2017,Cardrona,NZL,Korea,Australian New Zealand Cup,Halfpipe,14,32.40
+0,Kim Kangsan,Male,21-02-2025,Calgary,CAN,Korea,World Cup,Halfpipe,23,86.80
+1,Kim Kangsan,Male,19-02-2025,Calgary,CAN,Korea,Qualification,Halfpipe,11,
+2,Kim Kangsan,Male,12-02-2025,Yabuli Ski Resort,CHN,Korea,Asian Winter Games,Halfpipe,5,150.50
+3,Kim Kangsan,Male,01-02-2025,Aspen,USA,Korea,World Cup,Halfpipe,25,105.70
+4,Kim Kangsan,Male,30-01-2025,Aspen,USA,Korea,Qualification,Halfpipe,13,
+5,Kim Kangsan,Male,18-01-2025,Laax,SUI,Korea,World Cup,Halfpipe,29,91.80
+6,Kim Kangsan,Male,17-01-2025,Laax,SUI,Korea,Qualification,Halfpipe,17,
+7,Kim Kangsan,Male,20-12-2024,Copper,USA,Korea,World Cup,Halfpipe,24,112.30
+8,Kim Kangsan,Male,18-12-2024,Copper,USA,Korea,Qualification,Halfpipe,13,
+9,Kim Kangsan,Male,08-12-2024,Secret Garden,CHN,Korea,World Cup,Halfpipe,25,75.50
+10,Kim Kangsan,Male,06-12-2024,Secret Garden,CHN,Korea,Qualification,Halfpipe,11,
+11,Kim Kangsan,Male,08-04-2024,Corvatsch,SUI,Korea,European Cup,Halfpipe,12,55.90
+12,Kim Kangsan,Male,24-02-2024,Welli Hilli,KOR,Korea,National Championships,Halfpipe,3,111.20
+13,Kim Kangsan,Male,15-02-2024,Pheonix PyeongChang,KOR,Korea,FIS,Halfpipe,DNS,
+14,Kim Kangsan,Male,10-02-2024,Calgary,CAN,Korea,World Cup,Halfpipe,19,97.50
+15,Kim Kangsan,Male,09-02-2024,Calgary,CAN,Korea,Qualification,Halfpipe,19,
+16,Kim Kangsan,Male,03-02-2024,Mammoth Mountain,USA,Korea,World Cup,Halfpipe,33,0.40
+17,Kim Kangsan,Male,30-01-2024,Mammoth Mountain,USA,Korea,Qualification,Halfpipe,17,
+18,Kim Kangsan,Male,25-01-2024,Copper Mountain,USA,Korea,Nor-Am Cup,Halfpipe,23,5.80
+19,Kim Kangsan,Male,08-12-2023,Secret Garden,CHN,Korea,World Cup,Halfpipe,19,84.80
+20,Kim Kangsan,Male,06-12-2023,Secret Garden,CHN,Korea,Qualification,Halfpipe,19,
+21,Kim Kangsan,Male,29-09-2023,Cardrona,NZL,Korea,Australian New Zealand Cup,Slopestyle,27,36.10
+22,Kim Kangsan,Male,03-03-2023,Bakuriani,GEO,Korea,World Championships,Halfpipe,16,86.60
+23,Kim Kangsan,Male,01-03-2023,Bakuriani,GEO,Korea,Qualification,Halfpipe,16,
+24,Kim Kangsan,Male,10-02-2023,Calgary,CAN,Korea,World Cup,Halfpipe,17,70.80
+25,Kim Kangsan,Male,09-02-2023,Calgary,CAN,Korea,Qualification,Halfpipe,17,
+26,Kim Kangsan,Male,04-02-2023,Mammoth Mountain,USA,Korea,World Cup,Halfpipe,14,123.00
+27,Kim Kangsan,Male,02-02-2023,Mammoth Mountain,USA,Korea,Qualification,Halfpipe,14,
+28,Kim Kangsan,Male,16-12-2022,Copper Mountain,USA,Korea,World Cup,Halfpipe,41,6.40
+29,Kim Kangsan,Male,14-12-2022,Copper Mountain,USA,Korea,Qualification,Halfpipe,20,
+30,Kim Kangsan,Male,01-09-2022,Cardrona,NZL,Korea,Australian New Zealand Cup,Halfpipe,10,27.20
+31,Kim Kangsan,Male,20-03-2022,Laax,SUI,Korea,European Cup Premium,Halfpipe,6,123.50
+32,Kim Kangsan,Male,08-03-2022,Leysin,SUI,Korea,FIS Junior World Championships,Halfpipe,10,53.00
+33,Kim Kangsan,Male,18-02-2022,Wellihilli Parkipark,KOR,Korea,FIS,Snowboard Cross,4,25.00
+34,Kim Kangsan,Male,11-02-2022,Phoenix Pyeongchang,KOR,Korea,National Championships,Halfpipe,2,45.90
+35,Kim Kangsan,Male,09-02-2022,Phoenix Pyeongchang,KOR,Korea,FIS,Halfpipe,6,7.20
+36,Kim Kangsan,Male,15-01-2022,Laax,SUI,Korea,World Cup,Halfpipe,34,54.00
+37,Kim Kangsan,Male,13-01-2022,Laax,SUI,Korea,Qualification,Halfpipe,17,
+38,Kim Kangsan,Male,08-01-2022,Mammoth Mountain,USA,Korea,World Cup,Halfpipe,21,89.90
+39,Kim Kangsan,Male,11-12-2021,Copper Mountain,USA,Korea,World Cup,Halfpipe,44,0.30
+40,Kim Kangsan,Male,09-12-2021,Copper Mountain,USA,Korea,Qualification,Halfpipe,23,
+41,Kim Kangsan,Male,21-03-2021,Aspen,USA,Korea,World Cup,Halfpipe,31,12.87
+42,Kim Kangsan,Male,18-03-2021,Aspen,USA,Korea,Qualification,Halfpipe,31,
+43,Kim Kangsan,Male,13-03-2021,Aspen,USA,Korea,World Championships,Halfpipe,19,84.74
+44,Kim Kangsan,Male,11-03-2021,Aspen,USA,Korea,Qualification,Halfpipe,19,
+45,Kim Kangsan,Male,05-03-2021,Copper Mountain,USA,Korea,National Championships,Halfpipe,11,73.02
+46,Kim Kangsan,Male,31-01-2021,Crans Montana,SUI,Korea,European Cup,Halfpipe,6,112.62
+47,Kim Kangsan,Male,23-01-2021,Laax,SUI,Korea,World Cup,Halfpipe,24,108.76
+48,Kim Kangsan,Male,21-01-2021,Laax,SUI,Korea,Qualification,Halfpipe,10,
+49,Kim Kangsan,Male,19-02-2020,Pyeongchang,KOR,Korea,Asian Cup,Halfpipe,3,96.00
+50,Kim Kangsan,Male,10-02-2020,Pyeongchang,KOR,Korea,Asian Cup,Halfpipe,16,24.00
+51,Kim Kangsan,Male,04-02-2020,Pyeongchang,KOR,Korea,FIS,Halfpipe,11,36.00
+52,Kim Kangsan,Male,18-12-2019,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Halfpipe,11,38.40
+53,Kim Kangsan,Male,17-12-2019,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Halfpipe,8,51.20
+54,Kim Kangsan,Male,02-10-2019,Cardrona,NZL,Korea,Australian New Zealand Cup,Halfpipe,3,96.00
+55,Kim Kangsan,Male,28-08-2019,Cardrona,NZL,Korea,Australian New Zealand Cup,Halfpipe,17,30.80
+56,Kim Kangsan,Male,03-04-2019,"Copper Mountain, CO",USA,Korea,National Championships,Halfpipe,12,28.60
+57,Kim Kangsan,Male,19-03-2019,"Canada Olympic Park, AB",CAN,Korea,National Junior Championships,Halfpipe,2,40.00
+58,Kim Kangsan,Male,19-03-2019,"Canada Olympic Park, AB",CAN,Korea,Nor-Am Cup,Halfpipe,4,80.00
+59,Kim Kangsan,Male,16-03-2019,"Canada Olympic Park, AB",CAN,Korea,FIS,Halfpipe,3,42.00
+60,Kim Kangsan,Male,26-02-2019,Phoenix Pyeongchang,KOR,Korea,National Championships,Halfpipe,4,50.00
+61,Kim Kangsan,Male,29-01-2019,Phoenix Pyeongchang,KOR,Korea,FIS,Halfpipe,2,56.00
+62,Kim Kangsan,Male,28-01-2019,Phoenix Pyeongchang,KOR,Korea,FIS,Halfpipe,1,50.00
+63,Kim Kangsan,Male,12-12-2018,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Halfpipe,20,39.60
+64,Kim Kangsan,Male,11-12-2018,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Halfpipe,26,18.00
+65,Kim Kangsan,Male,04-09-2018,Cardrona,NZL,Korea,FIS Junior World Championships,Halfpipe,17,33.60
+66,Kim Kangsan,Male,01-09-2018,Cardrona,NZL,Korea,Qualification,Halfpipe,17,
+67,Kim Kangsan,Male,16-08-2018,Cardrona,NZL,Korea,Australian New Zealand Cup,Halfpipe,6,64.00
+68,Kim Kangsan,Male,03-03-2018,Phoenix Pyeongchang,KOR,Korea,National Championships,Halfpipe,4,65.00
+69,Kim Kangsan,Male,02-03-2018,Phoenix Pyeongchang,KOR,Korea,Asian Cup,Halfpipe,6,64.00
+70,Kim Kangsan,Male,18-01-2018,Wellihilli Park,KOR,Korea,FIS,Halfpipe,1,50.00
+71,Kim Kangsan,Male,17-01-2018,Wellihilli Park,KOR,Korea,FIS,Halfpipe,3,30.00
+72,Kim Kangsan,Male,13-12-2017,Copper Mountain Resort,USA,Korea,Nor-Am Cup,Halfpipe,14,46.80
+73,Kim Kangsan,Male,12-12-2017,Copper Mountain Resort,USA,Korea,Nor-Am Cup,Halfpipe,17,36.40
+74,Kim Kangsan,Male,15-08-2017,Cardrona,NZL,Korea,Australian New Zealand Cup,Halfpipe,14,32.40

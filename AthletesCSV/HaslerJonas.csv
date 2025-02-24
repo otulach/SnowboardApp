@@ -1,46 +1,48 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Hasler Jonas,Male,20-02-2025,Calgary,CAN,Switzerland,Qualification,Slopestyle,11,
-1,Hasler Jonas,Male,19-02-2025,Calgary,CAN,Switzerland,Qualification,Halfpipe,5,
-2,Hasler Jonas,Male,18-01-2025,Laax,SUI,Switzerland,World Cup,Halfpipe,14,205.30
-3,Hasler Jonas,Male,18-01-2025,Laax,SUI,Switzerland,World Cup,Slopestyle,5,509.00
-4,Hasler Jonas,Male,17-01-2025,Laax,SUI,Switzerland,Qualification,Halfpipe,8,
-5,Hasler Jonas,Male,16-01-2025,Laax,SUI,Switzerland,Qualification,Slopestyle,1,
-6,Hasler Jonas,Male,20-12-2024,Copper,USA,Switzerland,World Cup,Halfpipe,14,199.90
-7,Hasler Jonas,Male,18-12-2024,Copper,USA,Switzerland,Qualification,Halfpipe,7,
-8,Hasler Jonas,Male,08-12-2024,Secret Garden,CHN,Switzerland,World Cup,Halfpipe,19,126.10
-9,Hasler Jonas,Male,06-12-2024,Secret Garden,CHN,Switzerland,Qualification,Halfpipe,10,
-10,Hasler Jonas,Male,23-03-2024,Silvaplana,SUI,Switzerland,World Cup,Slopestyle,6,443.40
-11,Hasler Jonas,Male,21-03-2024,Silvaplana,SUI,Switzerland,Qualification,Slopestyle,5,
-12,Hasler Jonas,Male,12-03-2024,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,7,80.30
-13,Hasler Jonas,Male,09-03-2024,Laax,SUI,Switzerland,European Cup Premium,Halfpipe,4,166.20
-14,Hasler Jonas,Male,10-02-2024,Calgary,CAN,Switzerland,World Cup,Halfpipe,13,180.10
-15,Hasler Jonas,Male,09-02-2024,Calgary,CAN,Switzerland,Qualification,Halfpipe,13,
-16,Hasler Jonas,Male,01-02-2024,Gangwon/Welli Hilli,KOR,Switzerland,Youth Olympic Winter Games,Halfpipe,6,109.10
-17,Hasler Jonas,Male,20-01-2024,Laax,SUI,Switzerland,World Cup,Slopestyle,29,130.10
-18,Hasler Jonas,Male,20-01-2024,Laax,SUI,Switzerland,World Cup,Halfpipe,16,184.40
-19,Hasler Jonas,Male,16-01-2024,Laax,SUI,Switzerland,Qualification,Slopestyle,17,
-20,Hasler Jonas,Male,16-12-2023,Copper Mountain,USA,Switzerland,World Cup,Halfpipe,19,136.90
-21,Hasler Jonas,Male,14-12-2023,Copper Mountain,USA,Switzerland,Qualification,Halfpipe,8,
-22,Hasler Jonas,Male,13-10-2023,SnowWorld Landgraaf,NED,Switzerland,FIS,Slopestyle,2,66.20
-23,Hasler Jonas,Male,12-10-2023,SnowWorld Landgraaf,NED,Switzerland,FIS,Slopestyle,2,66.20
-24,Hasler Jonas,Male,04-09-2023,Cardrona,NZL,Switzerland,FIS Junior World Championships,Big Air,29,44.50
-25,Hasler Jonas,Male,02-09-2023,Cardrona,NZL,Switzerland,Qualification,Big Air,14,
-26,Hasler Jonas,Male,30-08-2023,Cardrona,NZL,Switzerland,FIS Junior World Championships,Slopestyle,15,77.60
-27,Hasler Jonas,Male,28-08-2023,Cardrona,NZL,Switzerland,Qualification,Slopestyle,8,
-28,Hasler Jonas,Male,18-04-2023,Kitzsteinhorn,AUT,Switzerland,European Cup,Halfpipe,7,54.90
-29,Hasler Jonas,Male,22-04-2022,Kitzsteinhorn,AUT,Switzerland,National Championships,Slopestyle,1,50.00
-30,Hasler Jonas,Male,20-04-2022,Kitzsteinhorn,AUT,Switzerland,European Cup,Halfpipe,2,96.40
-31,Hasler Jonas,Male,20-03-2022,Laax,SUI,Switzerland,European Cup Premium,Halfpipe,3,199.90
-32,Hasler Jonas,Male,08-03-2022,Leysin,SUI,Switzerland,FIS Junior World Championships,Halfpipe,3,163.40
-33,Hasler Jonas,Male,27-01-2022,Crans Montana,SUI,Switzerland,European Cup,Halfpipe,1,160.00
-34,Hasler Jonas,Male,15-01-2022,Laax,SUI,Switzerland,World Cup,Halfpipe,21,136.20
-35,Hasler Jonas,Male,13-01-2022,Laax,SUI,Switzerland,Qualification,Halfpipe,14,
-36,Hasler Jonas,Male,08-01-2022,Mammoth Mountain,USA,Switzerland,World Cup,Halfpipe,22,83.30
-37,Hasler Jonas,Male,11-12-2021,Copper Mountain,USA,Switzerland,World Cup,Halfpipe,22,132.00
-38,Hasler Jonas,Male,09-12-2021,Copper Mountain,USA,Switzerland,Qualification,Halfpipe,13,
-39,Hasler Jonas,Male,27-03-2021,Laax,SUI,Switzerland,European Cup,Halfpipe,6,149.28
-40,Hasler Jonas,Male,23-03-2021,Krasnoyarsk ,RUS,Switzerland,FIS Junior World Championships,Halfpipe,2,191.43
-41,Hasler Jonas,Male,22-03-2021,Krasnoyarsk ,RUS,Switzerland,Qualification,Halfpipe,3,
-42,Hasler Jonas,Male,08-03-2021,Leysin,SUI,Switzerland,European Cup,Halfpipe,3,75.84
-43,Hasler Jonas,Male,31-01-2021,Crans Montana,SUI,Switzerland,European Cup,Halfpipe,5,134.76
-44,Hasler Jonas,Male,26-01-2020,Crans Montana,SUI,Switzerland,European Cup,Halfpipe,2,128.00
+0,Hasler Jonas,Male,22-02-2025,Calgary,CAN,Switzerland,World Cup,Slopestyle,24,151.60
+1,Hasler Jonas,Male,21-02-2025,Calgary,CAN,Switzerland,World Cup,Halfpipe,10,216.00
+2,Hasler Jonas,Male,20-02-2025,Calgary,CAN,Switzerland,Qualification,Slopestyle,11,
+3,Hasler Jonas,Male,19-02-2025,Calgary,CAN,Switzerland,Qualification,Halfpipe,5,
+4,Hasler Jonas,Male,18-01-2025,Laax,SUI,Switzerland,World Cup,Halfpipe,14,205.30
+5,Hasler Jonas,Male,18-01-2025,Laax,SUI,Switzerland,World Cup,Slopestyle,5,509.00
+6,Hasler Jonas,Male,17-01-2025,Laax,SUI,Switzerland,Qualification,Halfpipe,8,
+7,Hasler Jonas,Male,16-01-2025,Laax,SUI,Switzerland,Qualification,Slopestyle,1,
+8,Hasler Jonas,Male,20-12-2024,Copper,USA,Switzerland,World Cup,Halfpipe,14,199.90
+9,Hasler Jonas,Male,18-12-2024,Copper,USA,Switzerland,Qualification,Halfpipe,7,
+10,Hasler Jonas,Male,08-12-2024,Secret Garden,CHN,Switzerland,World Cup,Halfpipe,19,126.10
+11,Hasler Jonas,Male,06-12-2024,Secret Garden,CHN,Switzerland,Qualification,Halfpipe,10,
+12,Hasler Jonas,Male,23-03-2024,Silvaplana,SUI,Switzerland,World Cup,Slopestyle,6,443.40
+13,Hasler Jonas,Male,21-03-2024,Silvaplana,SUI,Switzerland,Qualification,Slopestyle,5,
+14,Hasler Jonas,Male,12-03-2024,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,7,80.30
+15,Hasler Jonas,Male,09-03-2024,Laax,SUI,Switzerland,European Cup Premium,Halfpipe,4,166.20
+16,Hasler Jonas,Male,10-02-2024,Calgary,CAN,Switzerland,World Cup,Halfpipe,13,180.10
+17,Hasler Jonas,Male,09-02-2024,Calgary,CAN,Switzerland,Qualification,Halfpipe,13,
+18,Hasler Jonas,Male,01-02-2024,Gangwon/Welli Hilli,KOR,Switzerland,Youth Olympic Winter Games,Halfpipe,6,109.10
+19,Hasler Jonas,Male,20-01-2024,Laax,SUI,Switzerland,World Cup,Halfpipe,16,184.40
+20,Hasler Jonas,Male,20-01-2024,Laax,SUI,Switzerland,World Cup,Slopestyle,29,130.10
+21,Hasler Jonas,Male,16-01-2024,Laax,SUI,Switzerland,Qualification,Slopestyle,17,
+22,Hasler Jonas,Male,16-12-2023,Copper Mountain,USA,Switzerland,World Cup,Halfpipe,19,136.90
+23,Hasler Jonas,Male,14-12-2023,Copper Mountain,USA,Switzerland,Qualification,Halfpipe,8,
+24,Hasler Jonas,Male,13-10-2023,SnowWorld Landgraaf,NED,Switzerland,FIS,Slopestyle,2,66.20
+25,Hasler Jonas,Male,12-10-2023,SnowWorld Landgraaf,NED,Switzerland,FIS,Slopestyle,2,66.20
+26,Hasler Jonas,Male,04-09-2023,Cardrona,NZL,Switzerland,FIS Junior World Championships,Big Air,29,44.50
+27,Hasler Jonas,Male,02-09-2023,Cardrona,NZL,Switzerland,Qualification,Big Air,14,
+28,Hasler Jonas,Male,30-08-2023,Cardrona,NZL,Switzerland,FIS Junior World Championships,Slopestyle,15,77.60
+29,Hasler Jonas,Male,28-08-2023,Cardrona,NZL,Switzerland,Qualification,Slopestyle,8,
+30,Hasler Jonas,Male,18-04-2023,Kitzsteinhorn,AUT,Switzerland,European Cup,Halfpipe,7,54.90
+31,Hasler Jonas,Male,22-04-2022,Kitzsteinhorn,AUT,Switzerland,National Championships,Slopestyle,1,50.00
+32,Hasler Jonas,Male,20-04-2022,Kitzsteinhorn,AUT,Switzerland,European Cup,Halfpipe,2,96.40
+33,Hasler Jonas,Male,20-03-2022,Laax,SUI,Switzerland,European Cup Premium,Halfpipe,3,199.90
+34,Hasler Jonas,Male,08-03-2022,Leysin,SUI,Switzerland,FIS Junior World Championships,Halfpipe,3,163.40
+35,Hasler Jonas,Male,27-01-2022,Crans Montana,SUI,Switzerland,European Cup,Halfpipe,1,160.00
+36,Hasler Jonas,Male,15-01-2022,Laax,SUI,Switzerland,World Cup,Halfpipe,21,136.20
+37,Hasler Jonas,Male,13-01-2022,Laax,SUI,Switzerland,Qualification,Halfpipe,14,
+38,Hasler Jonas,Male,08-01-2022,Mammoth Mountain,USA,Switzerland,World Cup,Halfpipe,22,83.30
+39,Hasler Jonas,Male,11-12-2021,Copper Mountain,USA,Switzerland,World Cup,Halfpipe,22,132.00
+40,Hasler Jonas,Male,09-12-2021,Copper Mountain,USA,Switzerland,Qualification,Halfpipe,13,
+41,Hasler Jonas,Male,27-03-2021,Laax,SUI,Switzerland,European Cup,Halfpipe,6,149.28
+42,Hasler Jonas,Male,23-03-2021,Krasnoyarsk ,RUS,Switzerland,FIS Junior World Championships,Halfpipe,2,191.43
+43,Hasler Jonas,Male,22-03-2021,Krasnoyarsk ,RUS,Switzerland,Qualification,Halfpipe,3,
+44,Hasler Jonas,Male,08-03-2021,Leysin,SUI,Switzerland,European Cup,Halfpipe,3,75.84
+45,Hasler Jonas,Male,31-01-2021,Crans Montana,SUI,Switzerland,European Cup,Halfpipe,5,134.76
+46,Hasler Jonas,Male,26-01-2020,Crans Montana,SUI,Switzerland,European Cup,Halfpipe,2,128.00

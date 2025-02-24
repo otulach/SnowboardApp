@@ -1,87 +1,88 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Marino Julia,Female,20-02-2025,Calgary,CAN,United States Of America,Qualification,Slopestyle,DNS,
-1,Marino Julia,Female,02-02-2025,Aspen,USA,United States Of America,World Cup,Slopestyle,DNS,
-2,Marino Julia,Female,31-01-2025,Aspen,USA,United States Of America,Qualification,Slopestyle,DNS,
-3,Marino Julia,Female,20-01-2024,Laax,SUI,United States Of America,World Cup,Slopestyle,1,1000.00
-4,Marino Julia,Female,16-01-2024,Laax,SUI,United States Of America,Qualification,Slopestyle,6,
-5,Marino Julia,Female,15-12-2023,Copper Mountain,USA,United States Of America,World Cup,Big Air,7,318.70
-6,Marino Julia,Female,13-12-2023,Copper Mountain,USA,United States Of America,Qualification,Big Air,8,
-7,Marino Julia,Female,25-03-2023,Silvaplana,SUI,United States Of America,World Cup,Slopestyle,1,1000.00
-8,Marino Julia,Female,23-03-2023,Silvaplana,SUI,United States Of America,Qualification,Slopestyle,3,
-9,Marino Julia,Female,12-02-2023,Calgary,CAN,United States Of America,World Cup,Slopestyle,1,600.00
-10,Marino Julia,Female,11-02-2023,Calgary,CAN,United States Of America,Qualification,Slopestyle,1,
-11,Marino Julia,Female,04-02-2023,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,1,600.00
-12,Marino Julia,Female,01-02-2023,Mammoth Mountain,USA,United States Of America,Qualification,Slopestyle,1,
-13,Marino Julia,Female,22-01-2023,Laax,SUI,United States Of America,World Cup,Slopestyle,18,103.00
-14,Marino Julia,Female,20-01-2023,Laax,SUI,United States Of America,Qualification,Slopestyle,18,
-15,Marino Julia,Female,17-12-2022,Copper Mountain,USA,United States Of America,World Cup,Big Air,6,323.70
-16,Marino Julia,Female,15-12-2022,Copper Mountain,USA,United States Of America,Qualification,Big Air,6,
-17,Marino Julia,Female,15-02-2022,Beijing,CHN,United States Of America,Olympic Winter Games,Big Air,DNS,
-18,Marino Julia,Female,14-02-2022,Beijing,CHN,United States Of America,Qualification,Big Air,DNS,
-19,Marino Julia,Female,06-02-2022,Beijing,CHN,United States Of America,Olympic Winter Games,Slopestyle,2,824.90
-20,Marino Julia,Female,05-02-2022,Beijing,CHN,United States Of America,Qualification,Slopestyle,6,
-21,Marino Julia,Female,08-01-2022,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,16,117.10
-22,Marino Julia,Female,06-01-2022,Mammoth Mountain,USA,United States Of America,Qualification,Slopestyle,16,
-23,Marino Julia,Female,04-12-2021,Steamboat,USA,United States Of America,World Cup,Big Air,9,284.90
-24,Marino Julia,Female,02-12-2021,Steamboat,USA,United States Of America,Qualification,Big Air,9,
-25,Marino Julia,Female,20-03-2021,Aspen,USA,United States Of America,World Cup,Slopestyle,8,319.94
-26,Marino Julia,Female,19-03-2021,Aspen,USA,United States Of America,Qualification,Slopestyle,2,
-27,Marino Julia,Female,09-01-2021,Kreischberg,AUT,United States Of America,World Cup,Big Air,10,248.58
-28,Marino Julia,Female,07-01-2021,Kreischberg ,AUT,United States Of America,Qualification,Big Air,10,
-29,Marino Julia,Female,15-01-2020,Laax,SUI,United States Of America,World Cup,Slopestyle,1,1000.00
-30,Marino Julia,Female,14-01-2020,Laax,SUI,United States Of America,Qualification,Slopestyle,8,
-31,Marino Julia,Female,20-12-2019,Atlanta,USA,United States Of America,World Cup,Big Air,4,500.00
-32,Marino Julia,Female,14-12-2019,Beijing,CHN,United States Of America,World Cup,Big Air,7,360.00
-33,Marino Julia,Female,12-12-2019,Beijing,CHN,United States Of America,Qualification,Big Air,7,
-34,Marino Julia,Female,16-03-2019,Quebec,CAN,United States Of America,World Cup,Big Air,1,1000.00
-35,Marino Julia,Female,14-03-2019,Quebec,CAN,United States Of America,Qualification,Big Air,1,
-36,Marino Julia,Female,10-02-2019,Park City,USA,United States Of America,World Championships,Slopestyle,19,120.00
-37,Marino Julia,Female,09-02-2019,Park City,USA,United States Of America,Qualification,Slopestyle,19,
-38,Marino Julia,Female,18-01-2019,Laax,SUI,United States Of America,World Cup,Slopestyle,4,500.00
-39,Marino Julia,Female,17-01-2019,Laax,SUI,United States Of America,Qualification,Slopestyle,1,
-40,Marino Julia,Female,24-03-2018,Quebec City,CAN,United States Of America,World Cup,Big Air,1,1000.00
-41,Marino Julia,Female,23-03-2018,Quebec City,CAN,United States Of America,Qualification,Big Air,1,
-42,Marino Julia,Female,22-02-2018,Alpensia Jumping Park,KOR,United States Of America,Olympic Winter Games,Big Air,10,260.00
-43,Marino Julia,Female,19-02-2018,Alpensia Jumping Park,KOR,United States Of America,Qualification,Big Air,9,
-44,Marino Julia,Female,12-02-2018,Phoenix Snow Park,KOR,United States Of America,Olympic Winter Games,Slopestyle,11,240.00
-45,Marino Julia,Female,12-01-2018,Snowmass,USA,United States Of America,World Cup,Slopestyle,11,240.00
-46,Marino Julia,Female,10-01-2018,Snowmass,USA,United States Of America,Qualification,Slopestyle,11,
-47,Marino Julia,Female,10-12-2017,Copper Mountain Resort,USA,United States Of America,World Cup,Big Air,2,800.00
-48,Marino Julia,Female,08-12-2017,Copper Mountain Resort,USA,United States Of America,Qualification,Big Air,2,
-49,Marino Julia,Female,11-11-2017,Milan,ITA,United States Of America,World Cup,Big Air,17,140.00
-50,Marino Julia,Female,25-03-2017,Spindleruv Mlyn,CZE,United States Of America,World Cup,Slopestyle,24,70.00
-51,Marino Julia,Female,24-03-2017,Spindleruv Mlyn,CZE,United States Of America,Qualification,Slopestyle,11,
-52,Marino Julia,Female,12-02-2017,Quebec City,CAN,United States Of America,World Cup,Slopestyle,1,1000.00
-53,Marino Julia,Female,11-02-2017,Quebec City,CAN,United States Of America,World Cup,Big Air,2,800.00
-54,Marino Julia,Female,10-02-2017,Quebec City,CAN,United States Of America,Qualification,Slopestyle,1,
-55,Marino Julia,Female,09-02-2017,Quebec City,CAN,United States Of America,Qualification,Big Air,2,
-56,Marino Julia,Female,04-02-2017,Mammoth Mountain Resort,USA,United States Of America,World Cup,Slopestyle,3,600.00
-57,Marino Julia,Female,01-02-2017,Mammoth Mountain Resort,USA,United States Of America,Qualification,Slopestyle,2,
-58,Marino Julia,Female,20-01-2017,Laax,SUI,United States Of America,World Cup,Slopestyle,4,500.00
-59,Marino Julia,Female,17-01-2017,Laax,SUI,United States Of America,Qualification,Slopestyle,1,
-60,Marino Julia,Female,14-01-2017,Kreischberg,AUT,United States Of America,World Cup,Slopestyle,27,45.00
-61,Marino Julia,Female,13-01-2017,Kreischberg,AUT,United States Of America,Qualification,Slopestyle,27,
-62,Marino Julia,Female,17-12-2016,Copper,USA,United States Of America,World Cup,Big Air,4,500.00
-63,Marino Julia,Female,15-12-2016,Copper,USA,United States Of America,Qualification,Big Air,3,
-64,Marino Julia,Female,26-11-2016,Alpensia,KOR,United States Of America,World Cup,Big Air,2,800.00
-65,Marino Julia,Female,26-11-2016,Alpensia,KOR,United States Of America,Qualification,Big Air,5,
-66,Marino Julia,Female,12-11-2016,Milan,ITA,United States Of America,Qualification,Big Air,16,
-67,Marino Julia,Female,12-11-2016,Milan,ITA,United States Of America,World Cup,Big Air,16,150.00
-68,Marino Julia,Female,05-03-2016,"Winter Park Resort, CO",USA,United States Of America,FIS,Slopestyle,1,260.00
-69,Marino Julia,Female,21-02-2016,Bokwang,KOR,United States Of America,World Cup,Slopestyle,23,80.00
-70,Marino Julia,Female,19-02-2016,Bokwang,KOR,United States Of America,Qualification,Slopestyle,23,
-71,Marino Julia,Female,13-02-2016,Quebec,CAN,United States Of America,World Cup,Big Air,7,360.00
-72,Marino Julia,Female,11-02-2016,Boston,USA,United States Of America,World Cup,Big Air,1,1000.00
-73,Marino Julia,Female,10-03-2015,Yabuli,CHN,United States Of America,FIS Junior World Championships,Slopestyle,13,72.00
-74,Marino Julia,Female,27-02-2015,Park City,USA,United States Of America,World Cup,Slopestyle,13,200.00
-75,Marino Julia,Female,25-02-2015,Park City,USA,United States Of America,Qualification,Slopestyle,13,
-76,Marino Julia,Female,13-02-2015,"Mammoth Mountain, CA",USA,United States Of America,FIS,Slopestyle,2,96.00
-77,Marino Julia,Female,21-01-2015,Kreischberg,AUT,United States Of America,World Championships,Slopestyle,19,120.00
-78,Marino Julia,Female,19-01-2015,Kreischberg,AUT,United States Of America,Qualification,Slopestyle,8,
-79,Marino Julia,Female,17-12-2014,"Copper Mountain, CO",USA,United States Of America,FIS,Slopestyle,4,75.00
-80,Marino Julia,Female,07-03-2014,"Sun Valley, ID",USA,United States Of America,FIS,Slopestyle,14,9.00
-81,Marino Julia,Female,25-02-2014,Mammoth Mtn. CA ,USA,United States Of America,FIS,Slopestyle,4,45.00
-82,Marino Julia,Female,22-03-2013,"Sun Valley, ID",USA,United States Of America,FIS,Slopestyle,3,30.00
-83,Marino Julia,Female,21-03-2013,"Sun Valley, ID",USA,United States Of America,FIS,Halfpipe,6,72.00
-84,Marino Julia,Female,18-01-2013,Northstar,USA,United States Of America,FIS,Slopestyle,22,14.40
-85,Marino Julia,Female,17-01-2013,Northstar,USA,United States Of America,FIS,Halfpipe,7,25.20
+0,Marino Julia,Female,22-02-2025,Calgary,CAN,United States Of America,World Cup,Slopestyle,DNS,
+1,Marino Julia,Female,20-02-2025,Calgary,CAN,United States Of America,Qualification,Slopestyle,DNS,
+2,Marino Julia,Female,02-02-2025,Aspen,USA,United States Of America,World Cup,Slopestyle,DNS,
+3,Marino Julia,Female,31-01-2025,Aspen,USA,United States Of America,Qualification,Slopestyle,DNS,
+4,Marino Julia,Female,20-01-2024,Laax,SUI,United States Of America,World Cup,Slopestyle,1,1000.00
+5,Marino Julia,Female,16-01-2024,Laax,SUI,United States Of America,Qualification,Slopestyle,6,
+6,Marino Julia,Female,15-12-2023,Copper Mountain,USA,United States Of America,World Cup,Big Air,7,318.70
+7,Marino Julia,Female,13-12-2023,Copper Mountain,USA,United States Of America,Qualification,Big Air,8,
+8,Marino Julia,Female,25-03-2023,Silvaplana,SUI,United States Of America,World Cup,Slopestyle,1,1000.00
+9,Marino Julia,Female,23-03-2023,Silvaplana,SUI,United States Of America,Qualification,Slopestyle,3,
+10,Marino Julia,Female,12-02-2023,Calgary,CAN,United States Of America,World Cup,Slopestyle,1,600.00
+11,Marino Julia,Female,11-02-2023,Calgary,CAN,United States Of America,Qualification,Slopestyle,1,
+12,Marino Julia,Female,04-02-2023,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,1,600.00
+13,Marino Julia,Female,01-02-2023,Mammoth Mountain,USA,United States Of America,Qualification,Slopestyle,1,
+14,Marino Julia,Female,22-01-2023,Laax,SUI,United States Of America,World Cup,Slopestyle,18,103.00
+15,Marino Julia,Female,20-01-2023,Laax,SUI,United States Of America,Qualification,Slopestyle,18,
+16,Marino Julia,Female,17-12-2022,Copper Mountain,USA,United States Of America,World Cup,Big Air,6,323.70
+17,Marino Julia,Female,15-12-2022,Copper Mountain,USA,United States Of America,Qualification,Big Air,6,
+18,Marino Julia,Female,15-02-2022,Beijing,CHN,United States Of America,Olympic Winter Games,Big Air,DNS,
+19,Marino Julia,Female,14-02-2022,Beijing,CHN,United States Of America,Qualification,Big Air,DNS,
+20,Marino Julia,Female,06-02-2022,Beijing,CHN,United States Of America,Olympic Winter Games,Slopestyle,2,824.90
+21,Marino Julia,Female,05-02-2022,Beijing,CHN,United States Of America,Qualification,Slopestyle,6,
+22,Marino Julia,Female,08-01-2022,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,16,117.10
+23,Marino Julia,Female,06-01-2022,Mammoth Mountain,USA,United States Of America,Qualification,Slopestyle,16,
+24,Marino Julia,Female,04-12-2021,Steamboat,USA,United States Of America,World Cup,Big Air,9,284.90
+25,Marino Julia,Female,02-12-2021,Steamboat,USA,United States Of America,Qualification,Big Air,9,
+26,Marino Julia,Female,20-03-2021,Aspen,USA,United States Of America,World Cup,Slopestyle,8,319.94
+27,Marino Julia,Female,19-03-2021,Aspen,USA,United States Of America,Qualification,Slopestyle,2,
+28,Marino Julia,Female,09-01-2021,Kreischberg,AUT,United States Of America,World Cup,Big Air,10,248.58
+29,Marino Julia,Female,07-01-2021,Kreischberg ,AUT,United States Of America,Qualification,Big Air,10,
+30,Marino Julia,Female,15-01-2020,Laax,SUI,United States Of America,World Cup,Slopestyle,1,1000.00
+31,Marino Julia,Female,14-01-2020,Laax,SUI,United States Of America,Qualification,Slopestyle,8,
+32,Marino Julia,Female,20-12-2019,Atlanta,USA,United States Of America,World Cup,Big Air,4,500.00
+33,Marino Julia,Female,14-12-2019,Beijing,CHN,United States Of America,World Cup,Big Air,7,360.00
+34,Marino Julia,Female,12-12-2019,Beijing,CHN,United States Of America,Qualification,Big Air,7,
+35,Marino Julia,Female,16-03-2019,Quebec,CAN,United States Of America,World Cup,Big Air,1,1000.00
+36,Marino Julia,Female,14-03-2019,Quebec,CAN,United States Of America,Qualification,Big Air,1,
+37,Marino Julia,Female,10-02-2019,Park City,USA,United States Of America,World Championships,Slopestyle,19,120.00
+38,Marino Julia,Female,09-02-2019,Park City,USA,United States Of America,Qualification,Slopestyle,19,
+39,Marino Julia,Female,18-01-2019,Laax,SUI,United States Of America,World Cup,Slopestyle,4,500.00
+40,Marino Julia,Female,17-01-2019,Laax,SUI,United States Of America,Qualification,Slopestyle,1,
+41,Marino Julia,Female,24-03-2018,Quebec City,CAN,United States Of America,World Cup,Big Air,1,1000.00
+42,Marino Julia,Female,23-03-2018,Quebec City,CAN,United States Of America,Qualification,Big Air,1,
+43,Marino Julia,Female,22-02-2018,Alpensia Jumping Park,KOR,United States Of America,Olympic Winter Games,Big Air,10,260.00
+44,Marino Julia,Female,19-02-2018,Alpensia Jumping Park,KOR,United States Of America,Qualification,Big Air,9,
+45,Marino Julia,Female,12-02-2018,Phoenix Snow Park,KOR,United States Of America,Olympic Winter Games,Slopestyle,11,240.00
+46,Marino Julia,Female,12-01-2018,Snowmass,USA,United States Of America,World Cup,Slopestyle,11,240.00
+47,Marino Julia,Female,10-01-2018,Snowmass,USA,United States Of America,Qualification,Slopestyle,11,
+48,Marino Julia,Female,10-12-2017,Copper Mountain Resort,USA,United States Of America,World Cup,Big Air,2,800.00
+49,Marino Julia,Female,08-12-2017,Copper Mountain Resort,USA,United States Of America,Qualification,Big Air,2,
+50,Marino Julia,Female,11-11-2017,Milan,ITA,United States Of America,World Cup,Big Air,17,140.00
+51,Marino Julia,Female,25-03-2017,Spindleruv Mlyn,CZE,United States Of America,World Cup,Slopestyle,24,70.00
+52,Marino Julia,Female,24-03-2017,Spindleruv Mlyn,CZE,United States Of America,Qualification,Slopestyle,11,
+53,Marino Julia,Female,12-02-2017,Quebec City,CAN,United States Of America,World Cup,Slopestyle,1,1000.00
+54,Marino Julia,Female,11-02-2017,Quebec City,CAN,United States Of America,World Cup,Big Air,2,800.00
+55,Marino Julia,Female,10-02-2017,Quebec City,CAN,United States Of America,Qualification,Slopestyle,1,
+56,Marino Julia,Female,09-02-2017,Quebec City,CAN,United States Of America,Qualification,Big Air,2,
+57,Marino Julia,Female,04-02-2017,Mammoth Mountain Resort,USA,United States Of America,World Cup,Slopestyle,3,600.00
+58,Marino Julia,Female,01-02-2017,Mammoth Mountain Resort,USA,United States Of America,Qualification,Slopestyle,2,
+59,Marino Julia,Female,20-01-2017,Laax,SUI,United States Of America,World Cup,Slopestyle,4,500.00
+60,Marino Julia,Female,17-01-2017,Laax,SUI,United States Of America,Qualification,Slopestyle,1,
+61,Marino Julia,Female,14-01-2017,Kreischberg,AUT,United States Of America,World Cup,Slopestyle,27,45.00
+62,Marino Julia,Female,13-01-2017,Kreischberg,AUT,United States Of America,Qualification,Slopestyle,27,
+63,Marino Julia,Female,17-12-2016,Copper,USA,United States Of America,World Cup,Big Air,4,500.00
+64,Marino Julia,Female,15-12-2016,Copper,USA,United States Of America,Qualification,Big Air,3,
+65,Marino Julia,Female,26-11-2016,Alpensia,KOR,United States Of America,World Cup,Big Air,2,800.00
+66,Marino Julia,Female,26-11-2016,Alpensia,KOR,United States Of America,Qualification,Big Air,5,
+67,Marino Julia,Female,12-11-2016,Milan,ITA,United States Of America,Qualification,Big Air,16,
+68,Marino Julia,Female,12-11-2016,Milan,ITA,United States Of America,World Cup,Big Air,16,150.00
+69,Marino Julia,Female,05-03-2016,"Winter Park Resort, CO",USA,United States Of America,FIS,Slopestyle,1,260.00
+70,Marino Julia,Female,21-02-2016,Bokwang,KOR,United States Of America,World Cup,Slopestyle,23,80.00
+71,Marino Julia,Female,19-02-2016,Bokwang,KOR,United States Of America,Qualification,Slopestyle,23,
+72,Marino Julia,Female,13-02-2016,Quebec,CAN,United States Of America,World Cup,Big Air,7,360.00
+73,Marino Julia,Female,11-02-2016,Boston,USA,United States Of America,World Cup,Big Air,1,1000.00
+74,Marino Julia,Female,10-03-2015,Yabuli,CHN,United States Of America,FIS Junior World Championships,Slopestyle,13,72.00
+75,Marino Julia,Female,27-02-2015,Park City,USA,United States Of America,World Cup,Slopestyle,13,200.00
+76,Marino Julia,Female,25-02-2015,Park City,USA,United States Of America,Qualification,Slopestyle,13,
+77,Marino Julia,Female,13-02-2015,"Mammoth Mountain, CA",USA,United States Of America,FIS,Slopestyle,2,96.00
+78,Marino Julia,Female,21-01-2015,Kreischberg,AUT,United States Of America,World Championships,Slopestyle,19,120.00
+79,Marino Julia,Female,19-01-2015,Kreischberg,AUT,United States Of America,Qualification,Slopestyle,8,
+80,Marino Julia,Female,17-12-2014,"Copper Mountain, CO",USA,United States Of America,FIS,Slopestyle,4,75.00
+81,Marino Julia,Female,07-03-2014,"Sun Valley, ID",USA,United States Of America,FIS,Slopestyle,14,9.00
+82,Marino Julia,Female,25-02-2014,Mammoth Mtn. CA ,USA,United States Of America,FIS,Slopestyle,4,45.00
+83,Marino Julia,Female,22-03-2013,"Sun Valley, ID",USA,United States Of America,FIS,Slopestyle,3,30.00
+84,Marino Julia,Female,21-03-2013,"Sun Valley, ID",USA,United States Of America,FIS,Halfpipe,6,72.00
+85,Marino Julia,Female,18-01-2013,Northstar,USA,United States Of America,FIS,Slopestyle,22,14.40
+86,Marino Julia,Female,17-01-2013,Northstar,USA,United States Of America,FIS,Halfpipe,7,25.20

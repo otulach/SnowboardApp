@@ -1,137 +1,138 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Houser Radek,Male,15-02-2025,Cortina d'Ampezzo,ITA,Czechia,Qualification,Snowboard Cross,31,
-1,Houser Radek,Male,15-02-2025,Cortina d'Ampezzo,ITA,Czechia,World Cup,Snowboard Cross,4,500.00
-2,Houser Radek,Male,09-02-2025,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,1,220.00
-3,Houser Radek,Male,08-02-2025,Dolni Morava,CZE,Czechia,National Championships,Snowboard Cross,1,260.00
-4,Houser Radek,Male,02-02-2025,Beidahu,CHN,Czechia,World Cup,Snowboard Cross,17,140.00
-5,Houser Radek,Male,02-02-2025,Beidahu,CHN,Czechia,Qualification,Snowboard Cross,9,
-6,Houser Radek,Male,01-02-2025,Beidahu,CHN,Czechia,World Cup,Snowboard Cross,19,120.00
-7,Houser Radek,Male,31-01-2025,Beidahu,CHN,Czechia,Qualification,Snowboard Cross,16,
-8,Houser Radek,Male,14-12-2024,Cervinia,ITA,Czechia,World Cup,Snowboard Cross,40,18.50
-9,Houser Radek,Male,13-12-2024,Cervinia,ITA,Czechia,Qualification,Snowboard Cross,40,
-10,Houser Radek,Male,27-11-2024,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,28,14.40
-11,Houser Radek,Male,27-11-2024,Pitztal,AUT,Czechia,Qualification,Snowboard Cross,27,
-12,Houser Radek,Male,03-10-2024,Corralco,CHI,Czechia,South American Cup,Snowboard Cross,9,104.40
-13,Houser Radek,Male,03-10-2024,Corralco,CHI,Czechia,South American Cup,Snowboard Cross,8,115.20
-14,Houser Radek,Male,24-03-2024,Mt. St. Anne,CAN,Czechia,World Cup,Snowboard Cross,27,45.00
-15,Houser Radek,Male,23-03-2024,Mt. St. Anne,CAN,Czechia,World Cup,Snowboard Cross,3,600.00
-16,Houser Radek,Male,22-03-2024,Mt. St. Anne,CAN,Czechia,Qualification,Snowboard Cross,26,
-17,Houser Radek,Male,17-03-2024,Montafon,AUT,Czechia,World Cup,Snowboard Cross,30,32.00
-18,Houser Radek,Male,16-03-2024,Montafon,AUT,Czechia,World Cup,Snowboard Cross,34,22.00
-19,Houser Radek,Male,15-03-2024,Montafon,AUT,Czechia,Qualification,Snowboard Cross,34,
-20,Houser Radek,Male,09-03-2024,Cortina d'Ampezzo,ITA,Czechia,World Cup,Snowboard Cross,19,120.00
-21,Houser Radek,Male,08-03-2024,Cortina d'Ampezzo,ITA,Czechia,Qualification,Snowboard Cross,7,
-22,Houser Radek,Male,03-03-2024,Sierra Nevada,ESP,Czechia,World Cup,Snowboard Cross,45,17.00
-23,Houser Radek,Male,02-03-2024,Sierra Nevada,ESP,Czechia,World Cup,Snowboard Cross,7,360.00
-24,Houser Radek,Male,01-03-2024,Sierra Nevada,ESP,Czechia,Qualification,Snowboard Cross,5,
-25,Houser Radek,Male,25-02-2024,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,36,5.71
-26,Houser Radek,Male,24-02-2024,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,3,192.00
-27,Houser Radek,Male,04-02-2024,Gudauri,GEO,Czechia,World Cup,Snowboard Cross,46,16.70
-28,Houser Radek,Male,03-02-2024,Gudauri,GEO,Czechia,World Cup,Snowboard Cross,41,18.20
-29,Houser Radek,Male,02-02-2024,Gudauri,GEO,Czechia,Qualification,Snowboard Cross,41,
-30,Houser Radek,Male,26-01-2024,St. Moritz,SUI,Czechia,World Cup,Snowboard Cross,25,60.00
-31,Houser Radek,Male,25-01-2024,St. Moritz,SUI,Czechia,Qualification,Snowboard Cross,4,
-32,Houser Radek,Male,20-01-2024,Montafon,AUT,Czechia,National Championships,Snowboard Cross,12,63.80
-33,Houser Radek,Male,16-12-2023,Cervinia,ITA,Czechia,World Cup,Snowboard Cross,29,36.00
-34,Houser Radek,Male,03-12-2023,Les Deux Alpes,FRA,Czechia,Qualification,Snowboard Cross,38,
-35,Houser Radek,Male,03-12-2023,Les Deux Alpes,FRA,Czechia,World Cup,Snowboard Cross,38,19.10
-36,Houser Radek,Male,19-08-2023,Mt Hotham,AUS,Czechia,Australian New Zealand Cup,Snowboard Cross,1,200.00
-37,Houser Radek,Male,18-08-2023,Mt Hotham,AUS,Czechia,Australian New Zealand Cup,Snowboard Cross,3,96.00
-38,Houser Radek,Male,17-08-2023,Mt Hotham,AUS,Czechia,Australian New Zealand Cup,Snowboard Cross,17,28.00
-39,Houser Radek,Male,26-03-2023,Mt. St. Anne,CAN,Czechia,World Cup,Snowboard Cross,17,140.00
-40,Houser Radek,Male,25-03-2023,Mt. St. Anne,CAN,Czechia,World Cup,Snowboard Cross,20,110.00
-41,Houser Radek,Male,24-03-2023,Mt. St. Anne,CAN,Czechia,Qualification,Snowboard Cross,13,
-42,Houser Radek,Male,19-03-2023,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,1,150.00
-43,Houser Radek,Male,18-03-2023,Dolni Morava,CZE,Czechia,National Championships,Snowboard Cross,2,120.00
-44,Houser Radek,Male,17-03-2023,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,2,120.00
-45,Houser Radek,Male,16-03-2023,Veysonnaz,SUI,Czechia,World Cup,Snowboard Cross,23,80.00
-46,Houser Radek,Male,15-03-2023,Veysonnaz,SUI,Czechia,Qualification,Snowboard Cross,29,
-47,Houser Radek,Male,12-03-2023,Sierra Nevada,ESP,Czechia,World Cup,Snowboard Cross,25,60.00
-48,Houser Radek,Male,11-03-2023,Sierra Nevada,ESP,Czechia,World Cup,Snowboard Cross,25,60.00
-49,Houser Radek,Male,02-03-2023,Bakuriani,GEO,Czechia,World Championships,Snowboard Cross Team,13,
-50,Houser Radek,Male,01-03-2023,Bakuriani,GEO,Czechia,World Championships,Snowboard Cross,33,24.00
-51,Houser Radek,Male,04-12-2022,Les Deux Alpes,FRA,Czechia,World Cup,Snowboard Cross,32,26.00
-52,Houser Radek,Male,02-12-2022,Les Deux Alpes,FRA,Czechia,Qualification,Snowboard Cross,13,
-53,Houser Radek,Male,25-11-2022,Pitztal,AUT,Czechia,FIS,Snowboard Cross,6,88.00
-54,Houser Radek,Male,24-11-2022,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,21,24.00
-55,Houser Radek,Male,23-11-2022,Pitztal,AUT,Czechia,Qualification,Snowboard Cross,21,
-56,Houser Radek,Male,27-03-2022,Lenk,SUI,Czechia,National Championships,Snowboard Cross,7,93.60
-57,Houser Radek,Male,26-03-2022,Lenk,SUI,Czechia,European Cup,Snowboard Cross,11,86.40
-58,Houser Radek,Male,25-03-2022,Lenk,SUI,Czechia,European Cup,Snowboard Cross,7,129.60
-59,Houser Radek,Male,20-03-2022,Veysonnaz,SUI,Czechia,World Cup,Snowboard Cross,9,290.00
-60,Houser Radek,Male,12-03-2022,Reiteralm,AUT,Czechia,World Cup,Snowboard Cross,11,240.00
-61,Houser Radek,Male,10-03-2022,Reiteralm,AUT,Czechia,Qualification,Snowboard Cross,12,
-62,Houser Radek,Male,06-03-2022,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,2,80.00
-63,Houser Radek,Male,05-03-2022,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,1,100.00
-64,Houser Radek,Male,03-03-2022,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,9,104.40
-65,Houser Radek,Male,02-03-2022,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,8,115.20
-66,Houser Radek,Male,27-02-2022,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,9,104.40
-67,Houser Radek,Male,26-02-2022,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,3,216.00
-68,Houser Radek,Male,10-02-2022,Beijing,CHN,Czechia,Qualification,Snowboard Cross,DNS1,
-69,Houser Radek,Male,10-02-2022,Beijing,CHN,Czechia,Olympic Winter Games,Snowboard Cross,DNS,
-70,Houser Radek,Male,03-02-2022,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,4,130.00
-71,Houser Radek,Male,02-02-2022,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,17,33.60
-72,Houser Radek,Male,29-01-2022,Cortina d'Ampezzo,ITA,Czechia,Qualification,Snowboard Cross,10,
-73,Houser Radek,Male,29-01-2022,Cortina d'Ampezzo,ITA,Czechia,World Cup,Snowboard Cross,26,50.00
-74,Houser Radek,Male,18-12-2021,Cervinia,ITA,Czechia,World Cup,Snowboard Cross,39,18.80
-75,Houser Radek,Male,17-12-2021,Cervinia,ITA,Czechia,Qualification,Snowboard Cross,39,
-76,Houser Radek,Male,10-12-2021,Montafon,AUT,Czechia,World Cup,Snowboard Cross,62,
-77,Houser Radek,Male,09-12-2021,Montafon,AUT,Czechia,Qualification,Snowboard Cross,62,
-78,Houser Radek,Male,28-11-2021,Secret Garden,CHN,Czechia,World Cup,Snowboard Cross,34,22.00
-79,Houser Radek,Male,26-11-2021,Secret Garden,CHN,Czechia,Qualification,Snowboard Cross,34,
-80,Houser Radek,Male,10-04-2021,Colere,ITA,Czechia,National Championships,Snowboard Cross,2,160.00
-81,Houser Radek,Male,29-03-2021,Reiteralm,AUT,Czechia,National Championships,Snowboard Cross,4,145.00
-82,Houser Radek,Male,12-03-2021,Lenk,SUI,Czechia,European Cup,Snowboard Cross,14,43.20
-83,Houser Radek,Male,05-03-2021,Bakuriani,GEO,Czechia,World Cup,Snowboard Cross,40,18.50
-84,Houser Radek,Male,04-03-2021,Bakuriani,GEO,Czechia,World Cup,Snowboard Cross,46,
-85,Houser Radek,Male,03-03-2021,Bakuriani,GEO,Czechia,Qualification,Snowboard Cross,46,
-86,Houser Radek,Male,18-02-2021,Reiteralm,AUT,Czechia,World Cup,Snowboard Cross,42,17.90
-87,Houser Radek,Male,16-02-2021,Reiteralm,AUT,Czechia,Qualification,Snowboard Cross,42,
-88,Houser Radek,Male,11-02-2021,Idre Fjäll,SWE,Czechia,World Championships,Snowboard Cross,28,40.00
-89,Houser Radek,Male,09-02-2021,Idre Fjäll,SWE,Czechia,Qualification,Snowboard Cross,28,
-90,Houser Radek,Male,03-02-2021,Isola 2000,FRA,Czechia,European Cup,Snowboard Cross,3,96.00
-91,Houser Radek,Male,31-01-2021,Isola 2000,FRA,Czechia,European Cup,Snowboard Cross,16,39.00
-92,Houser Radek,Male,30-01-2021,Isola 2000,FRA,Czechia,European Cup,Snowboard Cross,18,46.80
-93,Houser Radek,Male,24-01-2021,Reiteralm,AUT,Czechia,FIS,Snowboard Cross,8,22.40
-94,Houser Radek,Male,23-01-2021,Reiteralm,AUT,Czechia,FIS,Snowboard Cross,3,42.00
-95,Houser Radek,Male,17-01-2021,Colere,ITA,Czechia,FIS,Snowboard Cross,11,48.00
-96,Houser Radek,Male,16-01-2021,Colere,ITA,Czechia,FIS,Snowboard Cross,8,64.00
-97,Houser Radek,Male,12-01-2020,Puy St. Vincent,FRA,Czechia,European Cup,Snowboard Cross,20,35.20
-98,Houser Radek,Male,11-01-2020,Puy St. Vincent,FRA,Czechia,European Cup,Snowboard Cross,15,51.20
-99,Houser Radek,Male,20-12-2019,Isola 2000,FRA,Czechia,European Cup,Snowboard Cross,6,64.00
-100,Houser Radek,Male,19-12-2019,Isola 2000,FRA,Czechia,European Cup,Snowboard Cross,40,2.96
-101,Houser Radek,Male,28-11-2019,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,30,11.52
-102,Houser Radek,Male,07-04-2019,Gargellen,AUT,Czechia,FIS,Snowboard Cross,6,52.00
-103,Houser Radek,Male,06-04-2019,Gargellen,AUT,Czechia,National Championships,Snowboard Cross,26,7.00
-104,Houser Radek,Male,23-03-2019,Lenk,SUI,Czechia,European Cup,Snowboard Cross,37,6.98
-105,Houser Radek,Male,22-03-2019,Lenk,SUI,Czechia,European Cup,Snowboard Cross,34,7.92
-106,Houser Radek,Male,17-03-2019,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,6,36.00
-107,Houser Radek,Male,16-03-2019,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,4,45.00
-108,Houser Radek,Male,10-03-2019,Kuehtai,AUT,Czechia,FIS,Snowboard Cross,1,120.00
-109,Houser Radek,Male,09-03-2019,Kuehtai,AUT,Czechia,FIS,Snowboard Cross,2,96.00
-110,Houser Radek,Male,24-02-2019,Bozi Dar,CZE,Czechia,FIS,Snowboard Cross,5,49.50
-111,Houser Radek,Male,23-02-2019,Bozi Dar,CZE,Czechia,FIS,Snowboard Cross,3,66.00
-112,Houser Radek,Male,10-02-2019,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,1,50.00
-113,Houser Radek,Male,09-02-2019,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,3,30.00
-114,Houser Radek,Male,07-02-2019,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,25,9.60
-115,Houser Radek,Male,06-02-2019,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,26,8.00
-116,Houser Radek,Male,29-01-2019,Val Thorens,FRA,Czechia,European Cup,Snowboard Cross,42,
-117,Houser Radek,Male,20-01-2019,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,30,11.52
-118,Houser Radek,Male,19-01-2019,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,33,8.64
-119,Houser Radek,Male,29-11-2018,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,77,2.66
-120,Houser Radek,Male,28-11-2018,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,77,2.66
-121,Houser Radek,Male,11-03-2018,Dolni Morava,CZE,Czechia,FIS,Snowboardcross,3,30.00
-122,Houser Radek,Male,10-03-2018,Dolni Morava,CZE,Czechia,FIS,Snowboardcross,9,14.50
-123,Houser Radek,Male,25-02-2018,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,6,20.00
-124,Houser Radek,Male,24-02-2018,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,10,26.00
-125,Houser Radek,Male,11-02-2018,Pec pod Snezkou,CZE,Czechia,FIS,Snowboard Cross,13,10.00
-126,Houser Radek,Male,10-02-2018,Pec pod Snezkou,CZE,Czechia,FIS,Snowboard Cross,6,20.00
-127,Houser Radek,Male,21-01-2018,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,18,
-128,Houser Radek,Male,20-01-2018,Dolni Morava,CZE,Czechia,FIS,Parallel GS,13,10.00
-129,Houser Radek,Male,29-11-2017,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,DNF1,
-130,Houser Radek,Male,26-02-2017,Bozi Dar,CZE,Czechia,FIS,Snowboardcross,9,20.30
-131,Houser Radek,Male,25-02-2017,Bozi Dar,CZE,Czechia,FIS,Snowboardcross,25,4.20
-132,Houser Radek,Male,29-01-2017,Lipno,CZE,Czechia,FIS,Snowboardcross,3,30.00
-133,Houser Radek,Male,28-01-2017,Lipno,CZE,Czechia,FIS,Snowboardcross,5,22.50
-134,Houser Radek,Male,15-01-2017,Dolni Morava,CZE,Czechia,FIS,Snowboardcross,33,2.88
-135,Houser Radek,Male,14-01-2017,Dolni Morava,CZE,Czechia,FIS,Snowboardcross,33,3.36
+0,Houser Radek,Male,23-02-2025,Klinovec,CZE,Czechia,FIS,Snowboard Cross,24,9.80
+1,Houser Radek,Male,15-02-2025,Cortina d'Ampezzo,ITA,Czechia,Qualification,Snowboard Cross,31,
+2,Houser Radek,Male,15-02-2025,Cortina d'Ampezzo,ITA,Czechia,World Cup,Snowboard Cross,4,500.00
+3,Houser Radek,Male,09-02-2025,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,1,220.00
+4,Houser Radek,Male,08-02-2025,Dolni Morava,CZE,Czechia,National Championships,Snowboard Cross,1,260.00
+5,Houser Radek,Male,02-02-2025,Beidahu,CHN,Czechia,World Cup,Snowboard Cross,17,140.00
+6,Houser Radek,Male,02-02-2025,Beidahu,CHN,Czechia,Qualification,Snowboard Cross,9,
+7,Houser Radek,Male,01-02-2025,Beidahu,CHN,Czechia,World Cup,Snowboard Cross,19,120.00
+8,Houser Radek,Male,31-01-2025,Beidahu,CHN,Czechia,Qualification,Snowboard Cross,16,
+9,Houser Radek,Male,14-12-2024,Cervinia,ITA,Czechia,World Cup,Snowboard Cross,40,18.50
+10,Houser Radek,Male,13-12-2024,Cervinia,ITA,Czechia,Qualification,Snowboard Cross,40,
+11,Houser Radek,Male,27-11-2024,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,28,14.40
+12,Houser Radek,Male,27-11-2024,Pitztal,AUT,Czechia,Qualification,Snowboard Cross,27,
+13,Houser Radek,Male,03-10-2024,Corralco,CHI,Czechia,South American Cup,Snowboard Cross,9,104.40
+14,Houser Radek,Male,03-10-2024,Corralco,CHI,Czechia,South American Cup,Snowboard Cross,8,115.20
+15,Houser Radek,Male,24-03-2024,Mt. St. Anne,CAN,Czechia,World Cup,Snowboard Cross,27,45.00
+16,Houser Radek,Male,23-03-2024,Mt. St. Anne,CAN,Czechia,World Cup,Snowboard Cross,3,600.00
+17,Houser Radek,Male,22-03-2024,Mt. St. Anne,CAN,Czechia,Qualification,Snowboard Cross,26,
+18,Houser Radek,Male,17-03-2024,Montafon,AUT,Czechia,World Cup,Snowboard Cross,30,32.00
+19,Houser Radek,Male,16-03-2024,Montafon,AUT,Czechia,World Cup,Snowboard Cross,34,22.00
+20,Houser Radek,Male,15-03-2024,Montafon,AUT,Czechia,Qualification,Snowboard Cross,34,
+21,Houser Radek,Male,09-03-2024,Cortina d'Ampezzo,ITA,Czechia,World Cup,Snowboard Cross,19,120.00
+22,Houser Radek,Male,08-03-2024,Cortina d'Ampezzo,ITA,Czechia,Qualification,Snowboard Cross,7,
+23,Houser Radek,Male,03-03-2024,Sierra Nevada,ESP,Czechia,World Cup,Snowboard Cross,45,17.00
+24,Houser Radek,Male,02-03-2024,Sierra Nevada,ESP,Czechia,World Cup,Snowboard Cross,7,360.00
+25,Houser Radek,Male,01-03-2024,Sierra Nevada,ESP,Czechia,Qualification,Snowboard Cross,5,
+26,Houser Radek,Male,25-02-2024,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,36,5.71
+27,Houser Radek,Male,24-02-2024,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,3,192.00
+28,Houser Radek,Male,04-02-2024,Gudauri,GEO,Czechia,World Cup,Snowboard Cross,46,16.70
+29,Houser Radek,Male,03-02-2024,Gudauri,GEO,Czechia,World Cup,Snowboard Cross,41,18.20
+30,Houser Radek,Male,02-02-2024,Gudauri,GEO,Czechia,Qualification,Snowboard Cross,41,
+31,Houser Radek,Male,26-01-2024,St. Moritz,SUI,Czechia,World Cup,Snowboard Cross,25,60.00
+32,Houser Radek,Male,25-01-2024,St. Moritz,SUI,Czechia,Qualification,Snowboard Cross,4,
+33,Houser Radek,Male,20-01-2024,Montafon,AUT,Czechia,National Championships,Snowboard Cross,12,63.80
+34,Houser Radek,Male,16-12-2023,Cervinia,ITA,Czechia,World Cup,Snowboard Cross,29,36.00
+35,Houser Radek,Male,03-12-2023,Les Deux Alpes,FRA,Czechia,Qualification,Snowboard Cross,38,
+36,Houser Radek,Male,03-12-2023,Les Deux Alpes,FRA,Czechia,World Cup,Snowboard Cross,38,19.10
+37,Houser Radek,Male,19-08-2023,Mt Hotham,AUS,Czechia,Australian New Zealand Cup,Snowboard Cross,1,200.00
+38,Houser Radek,Male,18-08-2023,Mt Hotham,AUS,Czechia,Australian New Zealand Cup,Snowboard Cross,3,96.00
+39,Houser Radek,Male,17-08-2023,Mt Hotham,AUS,Czechia,Australian New Zealand Cup,Snowboard Cross,17,28.00
+40,Houser Radek,Male,26-03-2023,Mt. St. Anne,CAN,Czechia,World Cup,Snowboard Cross,17,140.00
+41,Houser Radek,Male,25-03-2023,Mt. St. Anne,CAN,Czechia,World Cup,Snowboard Cross,20,110.00
+42,Houser Radek,Male,24-03-2023,Mt. St. Anne,CAN,Czechia,Qualification,Snowboard Cross,13,
+43,Houser Radek,Male,19-03-2023,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,1,150.00
+44,Houser Radek,Male,18-03-2023,Dolni Morava,CZE,Czechia,National Championships,Snowboard Cross,2,120.00
+45,Houser Radek,Male,17-03-2023,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,2,120.00
+46,Houser Radek,Male,16-03-2023,Veysonnaz,SUI,Czechia,World Cup,Snowboard Cross,23,80.00
+47,Houser Radek,Male,15-03-2023,Veysonnaz,SUI,Czechia,Qualification,Snowboard Cross,29,
+48,Houser Radek,Male,12-03-2023,Sierra Nevada,ESP,Czechia,World Cup,Snowboard Cross,25,60.00
+49,Houser Radek,Male,11-03-2023,Sierra Nevada,ESP,Czechia,World Cup,Snowboard Cross,25,60.00
+50,Houser Radek,Male,02-03-2023,Bakuriani,GEO,Czechia,World Championships,Snowboard Cross Team,13,
+51,Houser Radek,Male,01-03-2023,Bakuriani,GEO,Czechia,World Championships,Snowboard Cross,33,24.00
+52,Houser Radek,Male,04-12-2022,Les Deux Alpes,FRA,Czechia,World Cup,Snowboard Cross,32,26.00
+53,Houser Radek,Male,02-12-2022,Les Deux Alpes,FRA,Czechia,Qualification,Snowboard Cross,13,
+54,Houser Radek,Male,25-11-2022,Pitztal,AUT,Czechia,FIS,Snowboard Cross,6,88.00
+55,Houser Radek,Male,24-11-2022,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,21,24.00
+56,Houser Radek,Male,23-11-2022,Pitztal,AUT,Czechia,Qualification,Snowboard Cross,21,
+57,Houser Radek,Male,27-03-2022,Lenk,SUI,Czechia,National Championships,Snowboard Cross,7,93.60
+58,Houser Radek,Male,26-03-2022,Lenk,SUI,Czechia,European Cup,Snowboard Cross,11,86.40
+59,Houser Radek,Male,25-03-2022,Lenk,SUI,Czechia,European Cup,Snowboard Cross,7,129.60
+60,Houser Radek,Male,20-03-2022,Veysonnaz,SUI,Czechia,World Cup,Snowboard Cross,9,290.00
+61,Houser Radek,Male,12-03-2022,Reiteralm,AUT,Czechia,World Cup,Snowboard Cross,11,240.00
+62,Houser Radek,Male,10-03-2022,Reiteralm,AUT,Czechia,Qualification,Snowboard Cross,12,
+63,Houser Radek,Male,06-03-2022,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,2,80.00
+64,Houser Radek,Male,05-03-2022,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,1,100.00
+65,Houser Radek,Male,03-03-2022,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,9,104.40
+66,Houser Radek,Male,02-03-2022,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,8,115.20
+67,Houser Radek,Male,27-02-2022,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,9,104.40
+68,Houser Radek,Male,26-02-2022,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,3,216.00
+69,Houser Radek,Male,10-02-2022,Beijing,CHN,Czechia,Qualification,Snowboard Cross,DNS1,
+70,Houser Radek,Male,10-02-2022,Beijing,CHN,Czechia,Olympic Winter Games,Snowboard Cross,DNS,
+71,Houser Radek,Male,03-02-2022,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,4,130.00
+72,Houser Radek,Male,02-02-2022,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,17,33.60
+73,Houser Radek,Male,29-01-2022,Cortina d'Ampezzo,ITA,Czechia,Qualification,Snowboard Cross,10,
+74,Houser Radek,Male,29-01-2022,Cortina d'Ampezzo,ITA,Czechia,World Cup,Snowboard Cross,26,50.00
+75,Houser Radek,Male,18-12-2021,Cervinia,ITA,Czechia,World Cup,Snowboard Cross,39,18.80
+76,Houser Radek,Male,17-12-2021,Cervinia,ITA,Czechia,Qualification,Snowboard Cross,39,
+77,Houser Radek,Male,10-12-2021,Montafon,AUT,Czechia,World Cup,Snowboard Cross,62,
+78,Houser Radek,Male,09-12-2021,Montafon,AUT,Czechia,Qualification,Snowboard Cross,62,
+79,Houser Radek,Male,28-11-2021,Secret Garden,CHN,Czechia,World Cup,Snowboard Cross,34,22.00
+80,Houser Radek,Male,26-11-2021,Secret Garden,CHN,Czechia,Qualification,Snowboard Cross,34,
+81,Houser Radek,Male,10-04-2021,Colere,ITA,Czechia,National Championships,Snowboard Cross,2,160.00
+82,Houser Radek,Male,29-03-2021,Reiteralm,AUT,Czechia,National Championships,Snowboard Cross,4,145.00
+83,Houser Radek,Male,12-03-2021,Lenk,SUI,Czechia,European Cup,Snowboard Cross,14,43.20
+84,Houser Radek,Male,05-03-2021,Bakuriani,GEO,Czechia,World Cup,Snowboard Cross,40,18.50
+85,Houser Radek,Male,04-03-2021,Bakuriani,GEO,Czechia,World Cup,Snowboard Cross,46,
+86,Houser Radek,Male,03-03-2021,Bakuriani,GEO,Czechia,Qualification,Snowboard Cross,46,
+87,Houser Radek,Male,18-02-2021,Reiteralm,AUT,Czechia,World Cup,Snowboard Cross,42,17.90
+88,Houser Radek,Male,16-02-2021,Reiteralm,AUT,Czechia,Qualification,Snowboard Cross,42,
+89,Houser Radek,Male,11-02-2021,Idre Fjäll,SWE,Czechia,World Championships,Snowboard Cross,28,40.00
+90,Houser Radek,Male,09-02-2021,Idre Fjäll,SWE,Czechia,Qualification,Snowboard Cross,28,
+91,Houser Radek,Male,03-02-2021,Isola 2000,FRA,Czechia,European Cup,Snowboard Cross,3,96.00
+92,Houser Radek,Male,31-01-2021,Isola 2000,FRA,Czechia,European Cup,Snowboard Cross,16,39.00
+93,Houser Radek,Male,30-01-2021,Isola 2000,FRA,Czechia,European Cup,Snowboard Cross,18,46.80
+94,Houser Radek,Male,24-01-2021,Reiteralm,AUT,Czechia,FIS,Snowboard Cross,8,22.40
+95,Houser Radek,Male,23-01-2021,Reiteralm,AUT,Czechia,FIS,Snowboard Cross,3,42.00
+96,Houser Radek,Male,17-01-2021,Colere,ITA,Czechia,FIS,Snowboard Cross,11,48.00
+97,Houser Radek,Male,16-01-2021,Colere,ITA,Czechia,FIS,Snowboard Cross,8,64.00
+98,Houser Radek,Male,12-01-2020,Puy St. Vincent,FRA,Czechia,European Cup,Snowboard Cross,20,35.20
+99,Houser Radek,Male,11-01-2020,Puy St. Vincent,FRA,Czechia,European Cup,Snowboard Cross,15,51.20
+100,Houser Radek,Male,20-12-2019,Isola 2000,FRA,Czechia,European Cup,Snowboard Cross,6,64.00
+101,Houser Radek,Male,19-12-2019,Isola 2000,FRA,Czechia,European Cup,Snowboard Cross,40,2.96
+102,Houser Radek,Male,28-11-2019,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,30,11.52
+103,Houser Radek,Male,07-04-2019,Gargellen,AUT,Czechia,FIS,Snowboard Cross,6,52.00
+104,Houser Radek,Male,06-04-2019,Gargellen,AUT,Czechia,National Championships,Snowboard Cross,26,7.00
+105,Houser Radek,Male,23-03-2019,Lenk,SUI,Czechia,European Cup,Snowboard Cross,37,6.98
+106,Houser Radek,Male,22-03-2019,Lenk,SUI,Czechia,European Cup,Snowboard Cross,34,7.92
+107,Houser Radek,Male,17-03-2019,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,6,36.00
+108,Houser Radek,Male,16-03-2019,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,4,45.00
+109,Houser Radek,Male,10-03-2019,Kuehtai,AUT,Czechia,FIS,Snowboard Cross,1,120.00
+110,Houser Radek,Male,09-03-2019,Kuehtai,AUT,Czechia,FIS,Snowboard Cross,2,96.00
+111,Houser Radek,Male,24-02-2019,Bozi Dar,CZE,Czechia,FIS,Snowboard Cross,5,49.50
+112,Houser Radek,Male,23-02-2019,Bozi Dar,CZE,Czechia,FIS,Snowboard Cross,3,66.00
+113,Houser Radek,Male,10-02-2019,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,1,50.00
+114,Houser Radek,Male,09-02-2019,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,3,30.00
+115,Houser Radek,Male,07-02-2019,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,25,9.60
+116,Houser Radek,Male,06-02-2019,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,26,8.00
+117,Houser Radek,Male,29-01-2019,Val Thorens,FRA,Czechia,European Cup,Snowboard Cross,42,
+118,Houser Radek,Male,20-01-2019,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,30,11.52
+119,Houser Radek,Male,19-01-2019,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,33,8.64
+120,Houser Radek,Male,29-11-2018,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,77,2.66
+121,Houser Radek,Male,28-11-2018,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,77,2.66
+122,Houser Radek,Male,11-03-2018,Dolni Morava,CZE,Czechia,FIS,Snowboardcross,3,30.00
+123,Houser Radek,Male,10-03-2018,Dolni Morava,CZE,Czechia,FIS,Snowboardcross,9,14.50
+124,Houser Radek,Male,25-02-2018,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,6,20.00
+125,Houser Radek,Male,24-02-2018,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,10,26.00
+126,Houser Radek,Male,11-02-2018,Pec pod Snezkou,CZE,Czechia,FIS,Snowboard Cross,13,10.00
+127,Houser Radek,Male,10-02-2018,Pec pod Snezkou,CZE,Czechia,FIS,Snowboard Cross,6,20.00
+128,Houser Radek,Male,21-01-2018,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,18,
+129,Houser Radek,Male,20-01-2018,Dolni Morava,CZE,Czechia,FIS,Parallel GS,13,10.00
+130,Houser Radek,Male,29-11-2017,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,DNF1,
+131,Houser Radek,Male,26-02-2017,Bozi Dar,CZE,Czechia,FIS,Snowboardcross,9,20.30
+132,Houser Radek,Male,25-02-2017,Bozi Dar,CZE,Czechia,FIS,Snowboardcross,25,4.20
+133,Houser Radek,Male,29-01-2017,Lipno,CZE,Czechia,FIS,Snowboardcross,3,30.00
+134,Houser Radek,Male,28-01-2017,Lipno,CZE,Czechia,FIS,Snowboardcross,5,22.50
+135,Houser Radek,Male,15-01-2017,Dolni Morava,CZE,Czechia,FIS,Snowboardcross,33,2.88
+136,Houser Radek,Male,14-01-2017,Dolni Morava,CZE,Czechia,FIS,Snowboardcross,33,3.36

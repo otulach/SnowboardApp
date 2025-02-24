@@ -1,152 +1,154 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Fachin Fabiana,Female,02-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,26,16.00
-1,Fachin Fabiana,Female,02-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,26,
-2,Fachin Fabiana,Female,01-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,2,288.00
-3,Fachin Fabiana,Female,01-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,12,
-4,Fachin Fabiana,Female,26-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,32,9.36
-5,Fachin Fabiana,Female,25-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,13,48.00
-6,Fachin Fabiana,Female,22-01-2025,Bansko,BUL,Italy,European Cup,Parallel Giant Slalom,15,57.60
-7,Fachin Fabiana,Female,21-01-2025,Bansko,BUL,Italy,European Cup,Parallel Giant Slalom,24,25.20
-8,Fachin Fabiana,Female,19-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,42,
-9,Fachin Fabiana,Female,19-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,42,17.90
-10,Fachin Fabiana,Female,18-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,51,
-11,Fachin Fabiana,Female,18-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,51,15.20
-12,Fachin Fabiana,Female,12-01-2025,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,10,36.40
-13,Fachin Fabiana,Female,11-01-2025,Folgaria,ITA,Italy,European Cup,Parallel Giant Slalom,11,57.60
-14,Fachin Fabiana,Female,11-01-2025,Folgaria,ITA,Italy,Qualification,Parallel Giant Slalom,7,
-15,Fachin Fabiana,Female,10-01-2025,Folgaria,ITA,Italy,European Cup,Parallel Giant Slalom,18,31.20
-16,Fachin Fabiana,Female,10-01-2025,Folgaria,ITA,Italy,Qualification,Parallel Giant Slalom,18,
-17,Fachin Fabiana,Female,22-12-2024,Moninec,CZE,Italy,FIS,Parallel Slalom,3,108.00
-18,Fachin Fabiana,Female,21-12-2024,Moninec,CZE,Italy,FIS,Parallel Slalom,10,41.60
-19,Fachin Fabiana,Female,20-12-2024,Moninec,CZE,Italy,European Cup,Parallel Slalom,27,10.80
-20,Fachin Fabiana,Female,19-12-2024,Moninec,CZE,Italy,European Cup,Parallel Slalom,23,19.20
-21,Fachin Fabiana,Female,15-12-2024,Götschen,GER,Italy,European Cup,Parallel Slalom,19,28.80
-22,Fachin Fabiana,Female,14-12-2024,Götschen,GER,Italy,European Cup,Parallel Slalom,10,57.20
-23,Fachin Fabiana,Female,24-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Slalom Team,3,
-24,Fachin Fabiana,Female,23-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Slalom,12,52.80
-25,Fachin Fabiana,Female,23-03-2024,Lachtal,AUT,Italy,Qualification,Parallel Slalom,11,
-26,Fachin Fabiana,Female,22-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Giant Slalom,14,43.20
-27,Fachin Fabiana,Female,22-03-2024,Lachtal,AUT,Italy,Qualification,Parallel Giant Slalom,14,
-28,Fachin Fabiana,Female,17-03-2024,St. Moritz,SUI,Italy,European Cup,Parallel Slalom,27,16.20
-29,Fachin Fabiana,Female,16-03-2024,St. Moritz,SUI,Italy,European Cup,Parallel Giant Slalom,31,10.08
-30,Fachin Fabiana,Female,13-03-2024,Davos/Rinerhorn ,SUI,Italy,European Cup,Parallel Giant Slalom,8,76.80
-31,Fachin Fabiana,Female,12-03-2024,Davos/Rinerhorn ,SUI,Italy,European Cup,Parallel Giant Slalom,16,54.00
-32,Fachin Fabiana,Female,10-03-2024,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,1,240.00
-33,Fachin Fabiana,Female,09-03-2024,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,16,36.00
-34,Fachin Fabiana,Female,24-02-2024,Alleghe,ITA,Italy,Junior,Parallel Giant Slalom,5,63.00
-35,Fachin Fabiana,Female,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,24,20.30
-36,Fachin Fabiana,Female,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,23,23.20
-37,Fachin Fabiana,Female,04-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,6,56.00
-38,Fachin Fabiana,Female,03-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,4,70.00
-39,Fachin Fabiana,Female,28-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,19,21.60
-40,Fachin Fabiana,Female,27-01-2024,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,28,
-41,Fachin Fabiana,Female,27-01-2024,Simonhöhe,AUT,Italy,World Cup,Parallel Giant Slalom,28,40.00
-42,Fachin Fabiana,Female,24-01-2024,Pamporovo,BUL,Italy,European Cup,Parallel Slalom,11,69.60
-43,Fachin Fabiana,Female,23-01-2024,Pamporovo,BUL,Italy,European Cup,Parallel Slalom,14,52.20
-44,Fachin Fabiana,Female,21-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,25,
-45,Fachin Fabiana,Female,21-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,25,60.00
-46,Fachin Fabiana,Female,20-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,31,
-47,Fachin Fabiana,Female,20-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,31,28.00
-48,Fachin Fabiana,Female,12-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,15,
-49,Fachin Fabiana,Female,12-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,7,86.40
-50,Fachin Fabiana,Female,11-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,18,
-51,Fachin Fabiana,Female,11-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,18,37.70
-52,Fachin Fabiana,Female,05-01-2024,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,9,40.60
-53,Fachin Fabiana,Female,22-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,16,30.00
-54,Fachin Fabiana,Female,21-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,19,24.00
-55,Fachin Fabiana,Female,20-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,28,10.40
-56,Fachin Fabiana,Female,19-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,44,4.50
-57,Fachin Fabiana,Female,16-12-2023,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,35,
-58,Fachin Fabiana,Female,16-12-2023,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,35,20.00
-59,Fachin Fabiana,Female,14-12-2023,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,36,
-60,Fachin Fabiana,Female,14-12-2023,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,36,19.70
-61,Fachin Fabiana,Female,10-12-2023,Götschen,GER,Italy,Junior,Parallel Slalom,5,72.00
-62,Fachin Fabiana,Female,09-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,58,
-63,Fachin Fabiana,Female,09-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,58,
-64,Fachin Fabiana,Female,08-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,38,
-65,Fachin Fabiana,Female,08-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,38,6.88
-66,Fachin Fabiana,Female,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,8,92.80
-67,Fachin Fabiana,Female,26-03-2023,Bansko,BUL,Italy,FIS Junior World Championships,Parallel Team,10,
-68,Fachin Fabiana,Female,25-03-2023,Bansko,BUL,Italy,FIS Junior World Championships,Parallel Slalom,15,57.60
-69,Fachin Fabiana,Female,25-03-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,14,
-70,Fachin Fabiana,Female,24-03-2023,Bansko,BUL,Italy,FIS Junior World Championships,Parallel Giant Slalom,34,7.92
-71,Fachin Fabiana,Female,24-03-2023,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,34,
-72,Fachin Fabiana,Female,19-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,44,
-73,Fachin Fabiana,Female,18-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,27,11.70
-74,Fachin Fabiana,Female,12-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,6,40.00
-75,Fachin Fabiana,Female,11-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,5,45.00
-76,Fachin Fabiana,Female,05-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,8,35.20
-77,Fachin Fabiana,Female,04-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,11,43.20
-78,Fachin Fabiana,Female,26-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,14,28.80
-79,Fachin Fabiana,Female,25-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,13,36.00
-80,Fachin Fabiana,Female,19-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,5,58.50
-81,Fachin Fabiana,Female,18-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,5,58.50
-82,Fachin Fabiana,Female,12-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,19,24.00
-83,Fachin Fabiana,Female,11-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,27,9.00
-84,Fachin Fabiana,Female,05-02-2023,Gosau,AUT,Italy,FIS,Slalom,6,36.00
-85,Fachin Fabiana,Female,04-02-2023,Gosau,AUT,Italy,FIS,Slalom,13,18.00
-86,Fachin Fabiana,Female,04-02-2023,Gosau,AUT,Italy,FIS,Slalom,5,40.50
-87,Fachin Fabiana,Female,29-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,30,7.68
-88,Fachin Fabiana,Female,29-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,30,
-89,Fachin Fabiana,Female,28-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,39,4.51
-90,Fachin Fabiana,Female,28-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,39,
-91,Fachin Fabiana,Female,15-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,18,28.60
-92,Fachin Fabiana,Female,15-01-2023,Alleghe,ITA,Italy,Qualification,Parallel Slalom,19,
-93,Fachin Fabiana,Female,14-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,22,18.00
-94,Fachin Fabiana,Female,14-01-2023,Alleghe,ITA,Italy,Qualification,Parallel Slalom,22,
-95,Fachin Fabiana,Female,08-01-2023,Haus im Ennstal,AUT,Italy,Junior,Giant Slalom,19,14.40
-96,Fachin Fabiana,Female,07-01-2023,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,20,14.30
-97,Fachin Fabiana,Female,18-12-2022,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,31,5.60
-98,Fachin Fabiana,Female,18-12-2022,Hochfügen,GER,Italy,Qualification,Parallel Giant Slalom,31,
-99,Fachin Fabiana,Female,12-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Slalom,13,
-100,Fachin Fabiana,Female,11-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Giant Slalom,7,72.00
-101,Fachin Fabiana,Female,01-04-2022,Chiesa in Valmalenco,ITA,Italy,FIS Junior World Championships,Parallel Slalom,34,7.92
-102,Fachin Fabiana,Female,31-03-2022,Chiesa in Valmalenco,ITA,Italy,FIS Junior World Championships,Parallel Giant Slalom,30,11.52
-103,Fachin Fabiana,Female,20-03-2022,Senales - Schnals,ITA,Italy,Junior,Parallel Slalom,16,21.00
-104,Fachin Fabiana,Female,19-03-2022,Senales - Schnals,ITA,Italy,Junior,Parallel Slalom,10,36.40
-105,Fachin Fabiana,Female,13-03-2022,Pizol,SUI,Italy,Junior,Parallel Slalom,7,46.80
-106,Fachin Fabiana,Female,12-03-2022,Pizol,SUI,Italy,Junior,Parallel Slalom,10,33.80
-107,Fachin Fabiana,Female,06-03-2022,Lachtal,AUT,Italy,European Cup,Parallel Giant Slalom,39,6.77
-108,Fachin Fabiana,Female,05-03-2022,Lachtal,AUT,Italy,European Cup,Parallel Giant Slalom,44,
-109,Fachin Fabiana,Female,27-02-2022,Simonhöhe,AUT,Italy,FIS,Parallel Giant Slalom,10,46.80
-110,Fachin Fabiana,Female,26-02-2022,Simonhöhe,AUT,Italy,FIS,Parallel Giant Slalom,11,43.20
-111,Fachin Fabiana,Female,20-02-2022,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,12,39.60
-112,Fachin Fabiana,Female,19-02-2022,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,16,33.00
-113,Fachin Fabiana,Female,06-02-2022,Ebensee,AUT,Italy,FIS,Parallel Slalom,2,40.00
-114,Fachin Fabiana,Female,05-02-2022,Ebensee,AUT,Italy,FIS,Parallel Slalom,5,22.50
-115,Fachin Fabiana,Female,30-01-2022,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Slalom,3,30.00
-116,Fachin Fabiana,Female,29-01-2022,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Slalom,1,50.00
-117,Fachin Fabiana,Female,23-01-2022,Bardonecchia,ITA,Italy,FIS,Slalom,4,25.00
-118,Fachin Fabiana,Female,22-01-2022,Bardonecchia,ITA,Italy,FIS,Slalom,4,25.00
-119,Fachin Fabiana,Female,12-12-2021,Götschen,GER,Italy,European Cup,Parallel Slalom,38,3.82
-120,Fachin Fabiana,Female,11-12-2021,Götschen,GER,Italy,European Cup,Parallel Slalom,29,7.20
-121,Fachin Fabiana,Female,31-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Giant Slalom,22,26.10
-122,Fachin Fabiana,Female,30-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Slalom,18,37.70
-123,Fachin Fabiana,Female,28-03-2021,Villnöss - Funes,ITA,Italy,FIS,Parallel Slalom,10,57.20
-124,Fachin Fabiana,Female,27-03-2021,Villnöss - Funes,ITA,Italy,FIS,Parallel Giant Slalom,16,33.00
-125,Fachin Fabiana,Female,21-03-2021,Pizol,SUI,Italy,Junior,Parallel Slalom,7,18.00
-126,Fachin Fabiana,Female,20-03-2021,Pizol,SUI,Italy,Junior,Parallel Slalom,6,48.00
-127,Fachin Fabiana,Female,07-03-2021,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,21,18.00
-128,Fachin Fabiana,Female,06-03-2021,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,18,20.80
-129,Fachin Fabiana,Female,28-02-2021,Funes/Villnoesses,ITA,Italy,European Cup,Parallel Giant Slalom,25,10.80
-130,Fachin Fabiana,Female,27-02-2021,Funes/Villnoesses,ITA,Italy,European Cup,Parallel Giant Slalom,25,13.20
-131,Fachin Fabiana,Female,21-02-2021,Gerlitzen,AUT,Italy,National Championships,Parallel Slalom,25,17.40
-132,Fachin Fabiana,Female,20-02-2021,Gerlitzen,AUT,Italy,National Championships,Parallel Giant Slalom,DSQ,
-133,Fachin Fabiana,Female,07-02-2021,Gosau,AUT,Italy,FIS,Parallel Slalom,10,18.20
-134,Fachin Fabiana,Female,06-02-2021,Gosau,AUT,Italy,FIS,Parallel Slalom,5,31.50
-135,Fachin Fabiana,Female,23-01-2021,Haus im Ennstal,AUT,Italy,Junior,Parallel Slalom,10,23.40
-136,Fachin Fabiana,Female,22-01-2021,Haus im Ennstal,AUT,Italy,Junior,Parallel Slalom,16,
-137,Fachin Fabiana,Female,10-01-2021,Goetschen,GER,Italy,Junior,Parallel Slalom,11,38.40
-138,Fachin Fabiana,Female,09-01-2021,Goetschen,GER,Italy,Junior,Parallel Slalom,15,19.20
-139,Fachin Fabiana,Female,23-02-2020,Funes/Villnoesses,ITA,Italy,FIS,Parallel Giant Slalom,32,5.72
-140,Fachin Fabiana,Female,22-02-2020,Funes/Villnoesses,ITA,Italy,FIS,Parallel Giant Slalom,25,13.20
-141,Fachin Fabiana,Female,09-02-2020,Gerlitzen,AUT,Italy,FIS,Giant Slalom,22,19.80
-142,Fachin Fabiana,Female,08-02-2020,Gerlitzen,AUT,Italy,FIS,Giant Slalom,16,33.00
-143,Fachin Fabiana,Female,02-02-2020,Carezza,ITA,Italy,FIS,Giant Slalom,14,25.20
-144,Fachin Fabiana,Female,01-02-2020,Carezza,ITA,Italy,FIS,Giant Slalom,18,19.50
-145,Fachin Fabiana,Female,26-01-2020,Gosau,AUT,Italy,FIS,Parallel Slalom,23,12.00
-146,Fachin Fabiana,Female,25-01-2020,Gosau,AUT,Italy,FIS,Parallel Slalom,26,7.50
-147,Fachin Fabiana,Female,21-12-2019,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,15,11.20
-148,Fachin Fabiana,Female,20-12-2019,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,9,20.30
-149,Fachin Fabiana,Female,15-12-2019,Cortina d Ampezzo,ITA,Italy,Junior,Parallel Slalom,24,11.20
-150,Fachin Fabiana,Female,14-12-2019,Cortina d Ampezzo,ITA,Italy,Junior,Parallel Slalom,24,4.90
+0,Fachin Fabiana,Female,23-02-2025,Funes - Vilnoessse,ITA,Italy,FIS,Parallel Giant Slalom,9,
+1,Fachin Fabiana,Female,22-02-2025,Funes - Vilnoessse,ITA,Italy,FIS,Parallel Giant Slalom,7,
+2,Fachin Fabiana,Female,02-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,26,16.00
+3,Fachin Fabiana,Female,02-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,26,
+4,Fachin Fabiana,Female,01-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,2,288.00
+5,Fachin Fabiana,Female,01-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,12,
+6,Fachin Fabiana,Female,26-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,32,9.36
+7,Fachin Fabiana,Female,25-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,13,48.00
+8,Fachin Fabiana,Female,22-01-2025,Bansko,BUL,Italy,European Cup,Parallel Giant Slalom,15,57.60
+9,Fachin Fabiana,Female,21-01-2025,Bansko,BUL,Italy,European Cup,Parallel Giant Slalom,24,25.20
+10,Fachin Fabiana,Female,19-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,42,
+11,Fachin Fabiana,Female,19-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,42,17.90
+12,Fachin Fabiana,Female,18-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,51,
+13,Fachin Fabiana,Female,18-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,51,15.20
+14,Fachin Fabiana,Female,12-01-2025,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,10,36.40
+15,Fachin Fabiana,Female,11-01-2025,Folgaria,ITA,Italy,European Cup,Parallel Giant Slalom,11,57.60
+16,Fachin Fabiana,Female,11-01-2025,Folgaria,ITA,Italy,Qualification,Parallel Giant Slalom,7,
+17,Fachin Fabiana,Female,10-01-2025,Folgaria,ITA,Italy,European Cup,Parallel Giant Slalom,18,31.20
+18,Fachin Fabiana,Female,10-01-2025,Folgaria,ITA,Italy,Qualification,Parallel Giant Slalom,18,
+19,Fachin Fabiana,Female,22-12-2024,Moninec,CZE,Italy,FIS,Parallel Slalom,3,108.00
+20,Fachin Fabiana,Female,21-12-2024,Moninec,CZE,Italy,FIS,Parallel Slalom,10,41.60
+21,Fachin Fabiana,Female,20-12-2024,Moninec,CZE,Italy,European Cup,Parallel Slalom,27,10.80
+22,Fachin Fabiana,Female,19-12-2024,Moninec,CZE,Italy,European Cup,Parallel Slalom,23,19.20
+23,Fachin Fabiana,Female,15-12-2024,Götschen,GER,Italy,European Cup,Parallel Slalom,19,28.80
+24,Fachin Fabiana,Female,14-12-2024,Götschen,GER,Italy,European Cup,Parallel Slalom,10,57.20
+25,Fachin Fabiana,Female,24-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Slalom Team,3,
+26,Fachin Fabiana,Female,23-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Slalom,12,52.80
+27,Fachin Fabiana,Female,23-03-2024,Lachtal,AUT,Italy,Qualification,Parallel Slalom,11,
+28,Fachin Fabiana,Female,22-03-2024,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Giant Slalom,14,43.20
+29,Fachin Fabiana,Female,22-03-2024,Lachtal,AUT,Italy,Qualification,Parallel Giant Slalom,14,
+30,Fachin Fabiana,Female,17-03-2024,St. Moritz,SUI,Italy,European Cup,Parallel Slalom,27,16.20
+31,Fachin Fabiana,Female,16-03-2024,St. Moritz,SUI,Italy,European Cup,Parallel Giant Slalom,31,10.08
+32,Fachin Fabiana,Female,13-03-2024,Davos/Rinerhorn ,SUI,Italy,European Cup,Parallel Giant Slalom,8,76.80
+33,Fachin Fabiana,Female,12-03-2024,Davos/Rinerhorn ,SUI,Italy,European Cup,Parallel Giant Slalom,16,54.00
+34,Fachin Fabiana,Female,10-03-2024,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,1,240.00
+35,Fachin Fabiana,Female,09-03-2024,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,16,36.00
+36,Fachin Fabiana,Female,24-02-2024,Alleghe,ITA,Italy,Junior,Parallel Giant Slalom,5,63.00
+37,Fachin Fabiana,Female,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,24,20.30
+38,Fachin Fabiana,Female,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,23,23.20
+39,Fachin Fabiana,Female,04-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,6,56.00
+40,Fachin Fabiana,Female,03-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,4,70.00
+41,Fachin Fabiana,Female,28-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,19,21.60
+42,Fachin Fabiana,Female,27-01-2024,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,28,
+43,Fachin Fabiana,Female,27-01-2024,Simonhöhe,AUT,Italy,World Cup,Parallel Giant Slalom,28,40.00
+44,Fachin Fabiana,Female,24-01-2024,Pamporovo,BUL,Italy,European Cup,Parallel Slalom,11,69.60
+45,Fachin Fabiana,Female,23-01-2024,Pamporovo,BUL,Italy,European Cup,Parallel Slalom,14,52.20
+46,Fachin Fabiana,Female,21-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,25,
+47,Fachin Fabiana,Female,21-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,25,60.00
+48,Fachin Fabiana,Female,20-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,31,
+49,Fachin Fabiana,Female,20-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,31,28.00
+50,Fachin Fabiana,Female,12-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,15,
+51,Fachin Fabiana,Female,12-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,7,86.40
+52,Fachin Fabiana,Female,11-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,18,
+53,Fachin Fabiana,Female,11-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,18,37.70
+54,Fachin Fabiana,Female,05-01-2024,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,9,40.60
+55,Fachin Fabiana,Female,22-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,16,30.00
+56,Fachin Fabiana,Female,21-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,19,24.00
+57,Fachin Fabiana,Female,20-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,28,10.40
+58,Fachin Fabiana,Female,19-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,44,4.50
+59,Fachin Fabiana,Female,16-12-2023,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,35,
+60,Fachin Fabiana,Female,16-12-2023,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,35,20.00
+61,Fachin Fabiana,Female,14-12-2023,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,36,
+62,Fachin Fabiana,Female,14-12-2023,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,36,19.70
+63,Fachin Fabiana,Female,10-12-2023,Götschen,GER,Italy,Junior,Parallel Slalom,5,72.00
+64,Fachin Fabiana,Female,09-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,58,
+65,Fachin Fabiana,Female,09-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,58,
+66,Fachin Fabiana,Female,08-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,38,
+67,Fachin Fabiana,Female,08-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,38,6.88
+68,Fachin Fabiana,Female,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,8,92.80
+69,Fachin Fabiana,Female,26-03-2023,Bansko,BUL,Italy,FIS Junior World Championships,Parallel Team,10,
+70,Fachin Fabiana,Female,25-03-2023,Bansko,BUL,Italy,FIS Junior World Championships,Parallel Slalom,15,57.60
+71,Fachin Fabiana,Female,25-03-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,14,
+72,Fachin Fabiana,Female,24-03-2023,Bansko,BUL,Italy,FIS Junior World Championships,Parallel Giant Slalom,34,7.92
+73,Fachin Fabiana,Female,24-03-2023,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,34,
+74,Fachin Fabiana,Female,19-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,44,
+75,Fachin Fabiana,Female,18-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,27,11.70
+76,Fachin Fabiana,Female,12-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,6,40.00
+77,Fachin Fabiana,Female,11-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,5,45.00
+78,Fachin Fabiana,Female,05-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,8,35.20
+79,Fachin Fabiana,Female,04-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,11,43.20
+80,Fachin Fabiana,Female,26-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,14,28.80
+81,Fachin Fabiana,Female,25-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,13,36.00
+82,Fachin Fabiana,Female,19-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,5,58.50
+83,Fachin Fabiana,Female,18-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,5,58.50
+84,Fachin Fabiana,Female,12-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,19,24.00
+85,Fachin Fabiana,Female,11-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,27,9.00
+86,Fachin Fabiana,Female,05-02-2023,Gosau,AUT,Italy,FIS,Slalom,6,36.00
+87,Fachin Fabiana,Female,04-02-2023,Gosau,AUT,Italy,FIS,Slalom,13,18.00
+88,Fachin Fabiana,Female,04-02-2023,Gosau,AUT,Italy,FIS,Slalom,5,40.50
+89,Fachin Fabiana,Female,29-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,30,7.68
+90,Fachin Fabiana,Female,29-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,30,
+91,Fachin Fabiana,Female,28-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,39,4.51
+92,Fachin Fabiana,Female,28-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,39,
+93,Fachin Fabiana,Female,15-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,18,28.60
+94,Fachin Fabiana,Female,15-01-2023,Alleghe,ITA,Italy,Qualification,Parallel Slalom,19,
+95,Fachin Fabiana,Female,14-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,22,18.00
+96,Fachin Fabiana,Female,14-01-2023,Alleghe,ITA,Italy,Qualification,Parallel Slalom,22,
+97,Fachin Fabiana,Female,08-01-2023,Haus im Ennstal,AUT,Italy,Junior,Giant Slalom,19,14.40
+98,Fachin Fabiana,Female,07-01-2023,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,20,14.30
+99,Fachin Fabiana,Female,18-12-2022,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,31,5.60
+100,Fachin Fabiana,Female,18-12-2022,Hochfügen,GER,Italy,Qualification,Parallel Giant Slalom,31,
+101,Fachin Fabiana,Female,12-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Slalom,13,
+102,Fachin Fabiana,Female,11-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Giant Slalom,7,72.00
+103,Fachin Fabiana,Female,01-04-2022,Chiesa in Valmalenco,ITA,Italy,FIS Junior World Championships,Parallel Slalom,34,7.92
+104,Fachin Fabiana,Female,31-03-2022,Chiesa in Valmalenco,ITA,Italy,FIS Junior World Championships,Parallel Giant Slalom,30,11.52
+105,Fachin Fabiana,Female,20-03-2022,Senales - Schnals,ITA,Italy,Junior,Parallel Slalom,16,21.00
+106,Fachin Fabiana,Female,19-03-2022,Senales - Schnals,ITA,Italy,Junior,Parallel Slalom,10,36.40
+107,Fachin Fabiana,Female,13-03-2022,Pizol,SUI,Italy,Junior,Parallel Slalom,7,46.80
+108,Fachin Fabiana,Female,12-03-2022,Pizol,SUI,Italy,Junior,Parallel Slalom,10,33.80
+109,Fachin Fabiana,Female,06-03-2022,Lachtal,AUT,Italy,European Cup,Parallel Giant Slalom,39,6.77
+110,Fachin Fabiana,Female,05-03-2022,Lachtal,AUT,Italy,European Cup,Parallel Giant Slalom,44,
+111,Fachin Fabiana,Female,27-02-2022,Simonhöhe,AUT,Italy,FIS,Parallel Giant Slalom,10,46.80
+112,Fachin Fabiana,Female,26-02-2022,Simonhöhe,AUT,Italy,FIS,Parallel Giant Slalom,11,43.20
+113,Fachin Fabiana,Female,20-02-2022,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,12,39.60
+114,Fachin Fabiana,Female,19-02-2022,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,16,33.00
+115,Fachin Fabiana,Female,06-02-2022,Ebensee,AUT,Italy,FIS,Parallel Slalom,2,40.00
+116,Fachin Fabiana,Female,05-02-2022,Ebensee,AUT,Italy,FIS,Parallel Slalom,5,22.50
+117,Fachin Fabiana,Female,30-01-2022,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Slalom,3,30.00
+118,Fachin Fabiana,Female,29-01-2022,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Slalom,1,50.00
+119,Fachin Fabiana,Female,23-01-2022,Bardonecchia,ITA,Italy,FIS,Slalom,4,25.00
+120,Fachin Fabiana,Female,22-01-2022,Bardonecchia,ITA,Italy,FIS,Slalom,4,25.00
+121,Fachin Fabiana,Female,12-12-2021,Götschen,GER,Italy,European Cup,Parallel Slalom,38,3.82
+122,Fachin Fabiana,Female,11-12-2021,Götschen,GER,Italy,European Cup,Parallel Slalom,29,7.20
+123,Fachin Fabiana,Female,31-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Giant Slalom,22,26.10
+124,Fachin Fabiana,Female,30-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Slalom,18,37.70
+125,Fachin Fabiana,Female,28-03-2021,Villnöss - Funes,ITA,Italy,FIS,Parallel Slalom,10,57.20
+126,Fachin Fabiana,Female,27-03-2021,Villnöss - Funes,ITA,Italy,FIS,Parallel Giant Slalom,16,33.00
+127,Fachin Fabiana,Female,21-03-2021,Pizol,SUI,Italy,Junior,Parallel Slalom,7,18.00
+128,Fachin Fabiana,Female,20-03-2021,Pizol,SUI,Italy,Junior,Parallel Slalom,6,48.00
+129,Fachin Fabiana,Female,07-03-2021,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,21,18.00
+130,Fachin Fabiana,Female,06-03-2021,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,18,20.80
+131,Fachin Fabiana,Female,28-02-2021,Funes/Villnoesses,ITA,Italy,European Cup,Parallel Giant Slalom,25,10.80
+132,Fachin Fabiana,Female,27-02-2021,Funes/Villnoesses,ITA,Italy,European Cup,Parallel Giant Slalom,25,13.20
+133,Fachin Fabiana,Female,21-02-2021,Gerlitzen,AUT,Italy,National Championships,Parallel Slalom,25,17.40
+134,Fachin Fabiana,Female,20-02-2021,Gerlitzen,AUT,Italy,National Championships,Parallel Giant Slalom,DSQ,
+135,Fachin Fabiana,Female,07-02-2021,Gosau,AUT,Italy,FIS,Parallel Slalom,10,18.20
+136,Fachin Fabiana,Female,06-02-2021,Gosau,AUT,Italy,FIS,Parallel Slalom,5,31.50
+137,Fachin Fabiana,Female,23-01-2021,Haus im Ennstal,AUT,Italy,Junior,Parallel Slalom,10,23.40
+138,Fachin Fabiana,Female,22-01-2021,Haus im Ennstal,AUT,Italy,Junior,Parallel Slalom,16,
+139,Fachin Fabiana,Female,10-01-2021,Goetschen,GER,Italy,Junior,Parallel Slalom,11,38.40
+140,Fachin Fabiana,Female,09-01-2021,Goetschen,GER,Italy,Junior,Parallel Slalom,15,19.20
+141,Fachin Fabiana,Female,23-02-2020,Funes/Villnoesses,ITA,Italy,FIS,Parallel Giant Slalom,32,5.72
+142,Fachin Fabiana,Female,22-02-2020,Funes/Villnoesses,ITA,Italy,FIS,Parallel Giant Slalom,25,13.20
+143,Fachin Fabiana,Female,09-02-2020,Gerlitzen,AUT,Italy,FIS,Giant Slalom,22,19.80
+144,Fachin Fabiana,Female,08-02-2020,Gerlitzen,AUT,Italy,FIS,Giant Slalom,16,33.00
+145,Fachin Fabiana,Female,02-02-2020,Carezza,ITA,Italy,FIS,Giant Slalom,14,25.20
+146,Fachin Fabiana,Female,01-02-2020,Carezza,ITA,Italy,FIS,Giant Slalom,18,19.50
+147,Fachin Fabiana,Female,26-01-2020,Gosau,AUT,Italy,FIS,Parallel Slalom,23,12.00
+148,Fachin Fabiana,Female,25-01-2020,Gosau,AUT,Italy,FIS,Parallel Slalom,26,7.50
+149,Fachin Fabiana,Female,21-12-2019,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,15,11.20
+150,Fachin Fabiana,Female,20-12-2019,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,9,20.30
+151,Fachin Fabiana,Female,15-12-2019,Cortina d Ampezzo,ITA,Italy,Junior,Parallel Slalom,24,11.20
+152,Fachin Fabiana,Female,14-12-2019,Cortina d Ampezzo,ITA,Italy,Junior,Parallel Slalom,24,4.90

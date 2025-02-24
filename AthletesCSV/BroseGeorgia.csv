@@ -1,50 +1,52 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Brose Georgia,Female,09-02-2025,Santa Cristina Val Gardena,ITA,Australia,FIS,Giant Slalom,8,28.80
-1,Brose Georgia,Female,08-02-2025,Santa Cristina Val Gardena,ITA,Australia,FIS,Giant Slalom,8,16.00
-2,Brose Georgia,Female,02-02-2025,Ratschings,ITA,Australia,Qualification,Parallel Slalom,27,
-3,Brose Georgia,Female,02-02-2025,Ratschings,ITA,Australia,European Cup,Parallel Slalom,27,14.40
-4,Brose Georgia,Female,01-02-2025,Ratschings,ITA,Australia,European Cup,Parallel Slalom,26,18.00
-5,Brose Georgia,Female,01-02-2025,Ratschings,ITA,Australia,Qualification,Parallel Slalom,26,
-6,Brose Georgia,Female,26-01-2025,Simonhöhe,AUT,Australia,European Cup,Parallel Giant Slalom,53,
-7,Brose Georgia,Female,25-01-2025,Simonhöhe,AUT,Australia,European Cup,Parallel Giant Slalom,31,6.72
-8,Brose Georgia,Female,22-01-2025,Bardonecchia,ITA,Australia,Universiade,Parallel Slalom,17,30.80
-9,Brose Georgia,Female,21-01-2025,Bardonecchia,ITA,Australia,Universiade,Parallel Giant Slalom,20,24.20
-10,Brose Georgia,Female,12-01-2025,Nova Levante - Welschnofen,ITA,Australia,FIS,Parallel Giant Slalom,24,9.80
-11,Brose Georgia,Female,11-01-2025,Folgaria,ITA,Australia,Qualification,Parallel Giant Slalom,24,
-12,Brose Georgia,Female,11-01-2025,Folgaria,ITA,Australia,European Cup,Parallel Giant Slalom,24,16.80
-13,Brose Georgia,Female,10-01-2025,Folgaria,ITA,Australia,European Cup,Parallel Giant Slalom,26,
-14,Brose Georgia,Female,10-01-2025,Folgaria,ITA,Australia,Qualification,Parallel Giant Slalom,26,
-15,Brose Georgia,Female,23-03-2024,Lachtal,AUT,Australia,Qualification,Parallel Slalom,39,
-16,Brose Georgia,Female,23-03-2024,Lachtal,AUT,Australia,FIS Junior World Championships,Parallel Slalom,39,
-17,Brose Georgia,Female,22-03-2024,Lachtal,AUT,Australia,Qualification,Parallel Giant Slalom,39,
-18,Brose Georgia,Female,22-03-2024,Lachtal,AUT,Australia,FIS Junior World Championships,Parallel Giant Slalom,39,
-19,Brose Georgia,Female,27-02-2024,"Holiday Valley Resort, NY",USA,Australia,Nor-Am Cup,Parallel Giant Slalom,14,28.80
-20,Brose Georgia,Female,26-02-2024,"Holiday Valley Resort, NY",USA,Australia,Nor-Am Cup,Parallel Giant Slalom,20,
-21,Brose Georgia,Female,10-02-2024,"Alpine Ski Club,",CAN,Australia,Nor-Am Cup,Parallel Giant Slalom,24,12.60
-22,Brose Georgia,Female,09-02-2024,"Alpine Ski Club,",CAN,Australia,Nor-Am Cup,Parallel Slalom,21,18.00
-23,Brose Georgia,Female,07-02-2024,Val Saint Come,CAN,Australia,FIS,Parallel Giant Slalom,13,24.00
-24,Brose Georgia,Female,06-02-2024,Val Saint Come,CAN,Australia,Nor-Am Cup,Parallel Giant Slalom,22,16.20
-25,Brose Georgia,Female,05-02-2024,Val Saint Come,CAN,Australia,Nor-Am Cup,Parallel Giant Slalom,24,12.60
-26,Brose Georgia,Female,12-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,Australia,Nor-Am Cup,Parallel Slalom,17,22.40
-27,Brose Georgia,Female,11-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,Australia,Nor-Am Cup,Parallel Giant Slalom,22,
-28,Brose Georgia,Female,10-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,Australia,FIS,Giant Slalom,12,22.00
-29,Brose Georgia,Female,05-01-2024,Afton Alps Ski Area,USA,Australia,FIS,Parallel Slalom,10,26.00
-30,Brose Georgia,Female,05-01-2024,Afton Alps Ski Area,USA,Australia,Nor-Am Cup,Parallel Slalom,18,20.80
-31,Brose Georgia,Female,04-01-2024,Afton Alps Ski Area,USA,Australia,Nor-Am Cup,Parallel Slalom,20,17.60
-32,Brose Georgia,Female,19-02-2023,Giants Ridge Recreation Area,USA,Australia,Nor-Am Cup,Parallel Slalom,10,
-33,Brose Georgia,Female,18-02-2023,Giants Ridge Recreation Area,USA,Australia,Nor-Am Cup,Parallel Giant Slalom,10,
-34,Brose Georgia,Female,18-02-2023,Giants Ridge Rescreation Area,USA,Australia,FIS,Parallel Giant Slalom,3,
-35,Brose Georgia,Female,02-02-2023,Blue,CAN,Australia,National Junior Championships,Parallel Slalom,10,23.40
-36,Brose Georgia,Female,01-02-2023,Blue,CAN,Australia,National Junior Championships,Parallel Giant Slalom,10,
-37,Brose Georgia,Female,31-01-2023,Blue,CAN,Australia,Nor-Am Cup,Parallel Slalom,17,
-38,Brose Georgia,Female,30-01-2023,Blue,CAN,Australia,Nor-Am Cup,Parallel Giant Slalom,16,39.00
-39,Brose Georgia,Female,22-01-2023,Gore Mountain,USA,Australia,Qualification,Parallel Slalom,22,
-40,Brose Georgia,Female,22-01-2023,Gore Mountain,USA,Australia,Universiade,Parallel Slalom,22,16.20
-41,Brose Georgia,Female,21-01-2023,Gore Mountain,USA,Australia,Qualification,Parallel Giant Slalom,23,
-42,Brose Georgia,Female,21-01-2023,Gore Mountain,USA,Australia,Universiade,Parallel Giant Slalom,23,14.40
-43,Brose Georgia,Female,14-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,Australia,FIS,Parallel Giant Slalom,13,22.00
-44,Brose Georgia,Female,13-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,Australia,Nor-Am Cup,Parallel Slalom,11,38.40
-45,Brose Georgia,Female,12-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,Australia,Nor-Am Cup,Parallel Giant Slalom,15,25.60
-46,Brose Georgia,Female,12-09-2022,Perisher,AUS,Australia,Junior,Snowboard Cross,9,14.50
-47,Brose Georgia,Female,14-08-2022,Mt Buller,AUS,Australia,Junior,Snowboard Cross,10,
-48,Brose Georgia,Female,31-07-2022,Thredbo,AUS,Australia,Junior,Snowboard Cross,16,
+0,Brose Georgia,Female,23-02-2025,Funes - Vilnoessse,ITA,Australia,FIS,Parallel Giant Slalom,27,
+1,Brose Georgia,Female,22-02-2025,Funes - Vilnoessse,ITA,Australia,FIS,Parallel Giant Slalom,23,
+2,Brose Georgia,Female,09-02-2025,Santa Cristina Val Gardena,ITA,Australia,FIS,Giant Slalom,8,28.80
+3,Brose Georgia,Female,08-02-2025,Santa Cristina Val Gardena,ITA,Australia,FIS,Giant Slalom,8,16.00
+4,Brose Georgia,Female,02-02-2025,Ratschings,ITA,Australia,European Cup,Parallel Slalom,27,14.40
+5,Brose Georgia,Female,02-02-2025,Ratschings,ITA,Australia,Qualification,Parallel Slalom,27,
+6,Brose Georgia,Female,01-02-2025,Ratschings,ITA,Australia,Qualification,Parallel Slalom,26,
+7,Brose Georgia,Female,01-02-2025,Ratschings,ITA,Australia,European Cup,Parallel Slalom,26,18.00
+8,Brose Georgia,Female,26-01-2025,Simonhöhe,AUT,Australia,European Cup,Parallel Giant Slalom,53,
+9,Brose Georgia,Female,25-01-2025,Simonhöhe,AUT,Australia,European Cup,Parallel Giant Slalom,31,6.72
+10,Brose Georgia,Female,22-01-2025,Bardonecchia,ITA,Australia,Universiade,Parallel Slalom,17,30.80
+11,Brose Georgia,Female,21-01-2025,Bardonecchia,ITA,Australia,Universiade,Parallel Giant Slalom,20,24.20
+12,Brose Georgia,Female,12-01-2025,Nova Levante - Welschnofen,ITA,Australia,FIS,Parallel Giant Slalom,24,9.80
+13,Brose Georgia,Female,11-01-2025,Folgaria,ITA,Australia,Qualification,Parallel Giant Slalom,24,
+14,Brose Georgia,Female,11-01-2025,Folgaria,ITA,Australia,European Cup,Parallel Giant Slalom,24,16.80
+15,Brose Georgia,Female,10-01-2025,Folgaria,ITA,Australia,Qualification,Parallel Giant Slalom,26,
+16,Brose Georgia,Female,10-01-2025,Folgaria,ITA,Australia,European Cup,Parallel Giant Slalom,26,
+17,Brose Georgia,Female,23-03-2024,Lachtal,AUT,Australia,Qualification,Parallel Slalom,39,
+18,Brose Georgia,Female,23-03-2024,Lachtal,AUT,Australia,FIS Junior World Championships,Parallel Slalom,39,
+19,Brose Georgia,Female,22-03-2024,Lachtal,AUT,Australia,Qualification,Parallel Giant Slalom,39,
+20,Brose Georgia,Female,22-03-2024,Lachtal,AUT,Australia,FIS Junior World Championships,Parallel Giant Slalom,39,
+21,Brose Georgia,Female,27-02-2024,"Holiday Valley Resort, NY",USA,Australia,Nor-Am Cup,Parallel Giant Slalom,14,28.80
+22,Brose Georgia,Female,26-02-2024,"Holiday Valley Resort, NY",USA,Australia,Nor-Am Cup,Parallel Giant Slalom,20,
+23,Brose Georgia,Female,10-02-2024,"Alpine Ski Club,",CAN,Australia,Nor-Am Cup,Parallel Giant Slalom,24,12.60
+24,Brose Georgia,Female,09-02-2024,"Alpine Ski Club,",CAN,Australia,Nor-Am Cup,Parallel Slalom,21,18.00
+25,Brose Georgia,Female,07-02-2024,Val Saint Come,CAN,Australia,FIS,Parallel Giant Slalom,13,24.00
+26,Brose Georgia,Female,06-02-2024,Val Saint Come,CAN,Australia,Nor-Am Cup,Parallel Giant Slalom,22,16.20
+27,Brose Georgia,Female,05-02-2024,Val Saint Come,CAN,Australia,Nor-Am Cup,Parallel Giant Slalom,24,12.60
+28,Brose Georgia,Female,12-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,Australia,Nor-Am Cup,Parallel Slalom,17,22.40
+29,Brose Georgia,Female,11-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,Australia,Nor-Am Cup,Parallel Giant Slalom,22,
+30,Brose Georgia,Female,10-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,Australia,FIS,Giant Slalom,12,22.00
+31,Brose Georgia,Female,05-01-2024,Afton Alps Ski Area,USA,Australia,FIS,Parallel Slalom,10,26.00
+32,Brose Georgia,Female,05-01-2024,Afton Alps Ski Area,USA,Australia,Nor-Am Cup,Parallel Slalom,18,20.80
+33,Brose Georgia,Female,04-01-2024,Afton Alps Ski Area,USA,Australia,Nor-Am Cup,Parallel Slalom,20,17.60
+34,Brose Georgia,Female,19-02-2023,Giants Ridge Recreation Area,USA,Australia,Nor-Am Cup,Parallel Slalom,10,
+35,Brose Georgia,Female,18-02-2023,Giants Ridge Rescreation Area,USA,Australia,FIS,Parallel Giant Slalom,3,
+36,Brose Georgia,Female,18-02-2023,Giants Ridge Recreation Area,USA,Australia,Nor-Am Cup,Parallel Giant Slalom,10,
+37,Brose Georgia,Female,02-02-2023,Blue,CAN,Australia,National Junior Championships,Parallel Slalom,10,23.40
+38,Brose Georgia,Female,01-02-2023,Blue,CAN,Australia,National Junior Championships,Parallel Giant Slalom,10,
+39,Brose Georgia,Female,31-01-2023,Blue,CAN,Australia,Nor-Am Cup,Parallel Slalom,17,
+40,Brose Georgia,Female,30-01-2023,Blue,CAN,Australia,Nor-Am Cup,Parallel Giant Slalom,16,39.00
+41,Brose Georgia,Female,22-01-2023,Gore Mountain,USA,Australia,Qualification,Parallel Slalom,22,
+42,Brose Georgia,Female,22-01-2023,Gore Mountain,USA,Australia,Universiade,Parallel Slalom,22,16.20
+43,Brose Georgia,Female,21-01-2023,Gore Mountain,USA,Australia,Qualification,Parallel Giant Slalom,23,
+44,Brose Georgia,Female,21-01-2023,Gore Mountain,USA,Australia,Universiade,Parallel Giant Slalom,23,14.40
+45,Brose Georgia,Female,14-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,Australia,FIS,Parallel Giant Slalom,13,22.00
+46,Brose Georgia,Female,13-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,Australia,Nor-Am Cup,Parallel Slalom,11,38.40
+47,Brose Georgia,Female,12-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,Australia,Nor-Am Cup,Parallel Giant Slalom,15,25.60
+48,Brose Georgia,Female,12-09-2022,Perisher,AUS,Australia,Junior,Snowboard Cross,9,14.50
+49,Brose Georgia,Female,14-08-2022,Mt Buller,AUS,Australia,Junior,Snowboard Cross,10,
+50,Brose Georgia,Female,31-07-2022,Thredbo,AUS,Australia,Junior,Snowboard Cross,16,

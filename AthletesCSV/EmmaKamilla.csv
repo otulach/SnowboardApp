@@ -1,80 +1,81 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Emma Kamilla,Female,20-02-2025,Calgary,CAN,Hungary,Qualification,Slopestyle,DNS,
-1,Emma Kamilla,Female,11-01-2025,Kreischberg,AUT,Hungary,World Cup,Big Air,13,176.10
-2,Emma Kamilla,Female,09-01-2025,Kreischberg,AUT,Hungary,Qualification,Big Air,13,
-3,Emma Kamilla,Female,05-01-2025,Klagenfurt,AUT,Hungary,World Cup,Big Air,10,220.50
-4,Emma Kamilla,Female,03-01-2025,Klagenfurt,AUT,Hungary,Qualification,Big Air,10,
-5,Emma Kamilla,Female,01-12-2024,Beijing,CHN,Hungary,World Cup,Big Air,DNS,
-6,Emma Kamilla,Female,30-11-2024,Beijing,CHN,Hungary,Qualification,Big Air,DNS,
-7,Emma Kamilla,Female,19-10-2024,Chur,SUI,Hungary,World Cup,Big Air,18,114.10
-8,Emma Kamilla,Female,02-09-2024,Cardrona,NZL,Hungary,World Cup,Slopestyle,17,130.40
-9,Emma Kamilla,Female,31-08-2024,Cardrona,NZL,Hungary,Qualification,Slopestyle,17,
-10,Emma Kamilla,Female,23-03-2024,Silvaplana,SUI,Hungary,World Cup,Slopestyle,7,281.30
-11,Emma Kamilla,Female,21-03-2024,Silvaplana,SUI,Hungary,Qualification,Slopestyle,9,
-12,Emma Kamilla,Female,12-03-2024,Laax,SUI,Hungary,European Cup Premium,Slopestyle,1,180.00
-13,Emma Kamilla,Female,20-01-2024,Laax,SUI,Hungary,World Cup,Slopestyle,24,39.00
-14,Emma Kamilla,Female,16-01-2024,Laax,SUI,Hungary,Qualification,Slopestyle,24,
-15,Emma Kamilla,Female,15-12-2023,Copper Mountain,USA,Hungary,World Cup,Big Air,10,181.10
-16,Emma Kamilla,Female,13-12-2023,Copper Mountain,USA,Hungary,Qualification,Big Air,10,
-17,Emma Kamilla,Female,21-10-2023,Chur,SUI,Hungary,Qualification,Big Air,12,
+0,Emma Kamilla,Female,22-02-2025,Calgary,CAN,Hungary,World Cup,Slopestyle,DNS,
+1,Emma Kamilla,Female,20-02-2025,Calgary,CAN,Hungary,Qualification,Slopestyle,DNS,
+2,Emma Kamilla,Female,11-01-2025,Kreischberg,AUT,Hungary,World Cup,Big Air,13,176.10
+3,Emma Kamilla,Female,09-01-2025,Kreischberg,AUT,Hungary,Qualification,Big Air,13,
+4,Emma Kamilla,Female,05-01-2025,Klagenfurt,AUT,Hungary,World Cup,Big Air,10,220.50
+5,Emma Kamilla,Female,03-01-2025,Klagenfurt,AUT,Hungary,Qualification,Big Air,10,
+6,Emma Kamilla,Female,01-12-2024,Beijing,CHN,Hungary,World Cup,Big Air,DNS,
+7,Emma Kamilla,Female,30-11-2024,Beijing,CHN,Hungary,Qualification,Big Air,DNS,
+8,Emma Kamilla,Female,19-10-2024,Chur,SUI,Hungary,World Cup,Big Air,18,114.10
+9,Emma Kamilla,Female,02-09-2024,Cardrona,NZL,Hungary,World Cup,Slopestyle,17,130.40
+10,Emma Kamilla,Female,31-08-2024,Cardrona,NZL,Hungary,Qualification,Slopestyle,17,
+11,Emma Kamilla,Female,23-03-2024,Silvaplana,SUI,Hungary,World Cup,Slopestyle,7,281.30
+12,Emma Kamilla,Female,21-03-2024,Silvaplana,SUI,Hungary,Qualification,Slopestyle,9,
+13,Emma Kamilla,Female,12-03-2024,Laax,SUI,Hungary,European Cup Premium,Slopestyle,1,180.00
+14,Emma Kamilla,Female,20-01-2024,Laax,SUI,Hungary,World Cup,Slopestyle,24,39.00
+15,Emma Kamilla,Female,16-01-2024,Laax,SUI,Hungary,Qualification,Slopestyle,24,
+16,Emma Kamilla,Female,15-12-2023,Copper Mountain,USA,Hungary,World Cup,Big Air,10,181.10
+17,Emma Kamilla,Female,13-12-2023,Copper Mountain,USA,Hungary,Qualification,Big Air,10,
 18,Emma Kamilla,Female,21-10-2023,Chur,SUI,Hungary,World Cup,Big Air,12,129.70
-19,Emma Kamilla,Female,10-12-2022,Edmonton,CAN,Hungary,World Cup,Big Air,DNS,
-20,Emma Kamilla,Female,09-12-2022,Edmonton,CAN,Hungary,Qualification,Big Air,DNS,
-21,Emma Kamilla,Female,22-10-2022,Chur,SUI,Hungary,Qualification,Big Air,16,
-22,Emma Kamilla,Female,22-10-2022,Chur,SUI,Hungary,World Cup,Big Air,16,76.80
-23,Emma Kamilla,Female,08-10-2022,Cardrona Alpine Resort,NZL,Hungary,Australian New Zealand Cup,Big Air,4,39.20
-24,Emma Kamilla,Female,25-03-2022,Vuokatti,FIN,Hungary,European Youth Olympic Festival,Slopestyle,2,72.70
-25,Emma Kamilla,Female,23-03-2022,Vuokatti,FIN,Hungary,European Youth Olympic Festival,Big Air,1,70.00
-26,Emma Kamilla,Female,13-03-2022,Leysin,SUI,Hungary,FIS Junior World Championships,Slopestyle,18,21.60
-27,Emma Kamilla,Female,08-03-2022,Leysin,SUI,Hungary,FIS Junior World Championships,Halfpipe,13,30.20
-28,Emma Kamilla,Female,15-02-2022,Beijing,CHN,Hungary,Olympic Winter Games,Big Air,17,120.70
-29,Emma Kamilla,Female,14-02-2022,Beijing,CHN,Hungary,Qualification,Big Air,17,
-30,Emma Kamilla,Female,10-02-2022,Beijing,CHN,Hungary,Olympic Winter Games,Halfpipe,19,41.10
-31,Emma Kamilla,Female,09-02-2022,Beijing,CHN,Hungary,Qualification,Halfpipe,19,
-32,Emma Kamilla,Female,06-02-2022,Beijing,CHN,Hungary,Olympic Winter Games,Slopestyle,28,0.40
-33,Emma Kamilla,Female,05-02-2022,Beijing,CHN,Hungary,Qualification,Slopestyle,28,
-34,Emma Kamilla,Female,15-01-2022,Laax,SUI,Hungary,World Cup,Halfpipe,24,39.00
-35,Emma Kamilla,Female,15-01-2022,Laax,SUI,Hungary,World Cup,Slopestyle,20,78.50
-36,Emma Kamilla,Female,14-01-2022,Laax,SUI,Hungary,Qualification,Slopestyle,20,
-37,Emma Kamilla,Female,13-01-2022,Laax,SUI,Hungary,Qualification,Halfpipe,24,
-38,Emma Kamilla,Female,08-01-2022,Mammoth Mountain,USA,Hungary,World Cup,Halfpipe,21,54.30
-39,Emma Kamilla,Female,08-01-2022,Mammoth Mountain,USA,Hungary,World Cup,Slopestyle,25,10.90
-40,Emma Kamilla,Female,06-01-2022,Mammoth Mountain,USA,Hungary,Qualification,Halfpipe,21,
-41,Emma Kamilla,Female,06-01-2022,Mammoth Mountain,USA,Hungary,Qualification,Slopestyle,25,
-42,Emma Kamilla,Female,01-01-2022,Calgary,CAN,Hungary,World Cup,Slopestyle,16,76.40
-43,Emma Kamilla,Female,31-12-2021,Calgary,CAN,Hungary,Qualification,Slopestyle,16,
-44,Emma Kamilla,Female,11-12-2021,Copper Mountain,USA,Hungary,World Cup,Halfpipe,29,38.70
-45,Emma Kamilla,Female,09-12-2021,Copper Mountain,USA,Hungary,Qualification,Halfpipe,14,
-46,Emma Kamilla,Female,04-12-2021,Steamboat,USA,Hungary,World Cup,Big Air,26,43.10
-47,Emma Kamilla,Female,02-12-2021,Steamboat,USA,Hungary,Qualification,Big Air,26,
-48,Emma Kamilla,Female,10-03-2020,"Canada Olympic Park, AB",CAN,Hungary,National Junior Championships,Slopestyle,2,56.00
-49,Emma Kamilla,Female,08-03-2020,"Canada Olympic Park, AB",CAN,Hungary,FIS,Slopestyle,2,40.00
-50,Emma Kamilla,Female,25-02-2020,Mount St-Louis Moonstone,CAN,Hungary,Nor-Am Cup,Slopestyle,10,57.20
-51,Emma Kamilla,Female,24-02-2020,Mount St-Louis Moonstone,CAN,Hungary,Nor-Am Cup,Slopestyle,11,52.80
-52,Emma Kamilla,Female,14-02-2020,Tremblant.QC,CAN,Hungary,FIS,Slopestyle,4,35.00
-53,Emma Kamilla,Female,13-02-2020,Tremblant.QC,CAN,Hungary,FIS,Slopestyle,5,31.50
-54,Emma Kamilla,Female,26-01-2020,"Canada Olympic Park, AB",CAN,Hungary,FIS,Slopestyle,1,50.00
-55,Emma Kamilla,Female,25-01-2020,"Canada Olympic Park, AB",CAN,Hungary,FIS,Halfpipe,2,40.00
-56,Emma Kamilla,Female,22-01-2020,Leysin,SUI,Hungary,Youth Olympic Winter Games,Big Air,8,57.60
-57,Emma Kamilla,Female,21-01-2020,Leysin,SUI,Hungary,Qualification,Big Air,11,
-58,Emma Kamilla,Female,20-01-2020,Leysin,SUI,Hungary,Youth Olympic Winter Games,Halfpipe,9,69.60
-59,Emma Kamilla,Female,18-01-2020,Leysin,SUI,Hungary,Youth Olympic Winter Games,Slopestyle,14,28.80
-60,Emma Kamilla,Female,10-01-2020,"Whistler Blackcomb, BC",CAN,Hungary,FIS,Slopestyle,5,31.50
-61,Emma Kamilla,Female,18-12-2019,"Copper Mountain, CO",USA,Hungary,Nor-Am Cup,Halfpipe,14,32.40
-62,Emma Kamilla,Female,17-12-2019,"Copper Mountain, CO",USA,Hungary,Nor-Am Cup,Halfpipe,20,19.80
-63,Emma Kamilla,Female,19-03-2019,"Canada Olympic Park, AB",CAN,Hungary,Nor-Am Cup,Halfpipe,3,96.00
-64,Emma Kamilla,Female,03-03-2019,"Canada Olympic Park, AB",CAN,Hungary,FIS,Slopestyle,2,40.00
-65,Emma Kamilla,Female,02-03-2019,"Canada Olympic Park, AB",CAN,Hungary,FIS,Halfpipe,2,40.00
-66,Emma Kamilla,Female,17-02-2019,Mt Seymour,CAN,Hungary,FIS,Slopestyle,2,40.00
-67,Emma Kamilla,Female,16-02-2019,Mt Seymour,CAN,Hungary,FIS,Slopestyle,3,30.00
-68,Emma Kamilla,Female,02-02-2019,"Canada Olympic Park, AB",CAN,Hungary,FIS,Halfpipe,2,40.00
-69,Emma Kamilla,Female,20-01-2019,Big White Ski Resort,CAN,Hungary,FIS,Slopestyle,2,40.00
-70,Emma Kamilla,Female,19-01-2019,Big White Ski Resort,CAN,Hungary,FIS,Slopestyle,4,25.00
-71,Emma Kamilla,Female,11-03-2018,"Canada Olympic Park, AB",CAN,Hungary,National Junior Championships,Slopestyle,6,20.00
-72,Emma Kamilla,Female,06-03-2018,"Canada Olympic Park, AB",CAN,Hungary,Nor-Am Cup,Halfpipe,5,72.00
-73,Emma Kamilla,Female,04-03-2018,"Canada Olympic Park, AB",CAN,Hungary,FIS,Slopestyle,5,31.50
-74,Emma Kamilla,Female,03-03-2018,"Canada Olympic Park, AB",CAN,Hungary,FIS,Halfpipe,4,25.00
-75,Emma Kamilla,Female,28-01-2018,"Canada Olympic Park, AB",CAN,Hungary,FIS,Slopestyle,6,20.00
-76,Emma Kamilla,Female,27-01-2018,"Canada Olympic Park, AB",CAN,Hungary,FIS,Halfpipe,3,30.00
-77,Emma Kamilla,Female,14-01-2018,Big White Ski Resort,CAN,Hungary,FIS,Slopestyle,3,30.00
-78,Emma Kamilla,Female,13-01-2018,Big White Ski Resort,CAN,Hungary,FIS,Slopestyle,6,20.00
+19,Emma Kamilla,Female,21-10-2023,Chur,SUI,Hungary,Qualification,Big Air,12,
+20,Emma Kamilla,Female,10-12-2022,Edmonton,CAN,Hungary,World Cup,Big Air,DNS,
+21,Emma Kamilla,Female,09-12-2022,Edmonton,CAN,Hungary,Qualification,Big Air,DNS,
+22,Emma Kamilla,Female,22-10-2022,Chur,SUI,Hungary,Qualification,Big Air,16,
+23,Emma Kamilla,Female,22-10-2022,Chur,SUI,Hungary,World Cup,Big Air,16,76.80
+24,Emma Kamilla,Female,08-10-2022,Cardrona Alpine Resort,NZL,Hungary,Australian New Zealand Cup,Big Air,4,39.20
+25,Emma Kamilla,Female,25-03-2022,Vuokatti,FIN,Hungary,European Youth Olympic Festival,Slopestyle,2,72.70
+26,Emma Kamilla,Female,23-03-2022,Vuokatti,FIN,Hungary,European Youth Olympic Festival,Big Air,1,70.00
+27,Emma Kamilla,Female,13-03-2022,Leysin,SUI,Hungary,FIS Junior World Championships,Slopestyle,18,21.60
+28,Emma Kamilla,Female,08-03-2022,Leysin,SUI,Hungary,FIS Junior World Championships,Halfpipe,13,30.20
+29,Emma Kamilla,Female,15-02-2022,Beijing,CHN,Hungary,Olympic Winter Games,Big Air,17,120.70
+30,Emma Kamilla,Female,14-02-2022,Beijing,CHN,Hungary,Qualification,Big Air,17,
+31,Emma Kamilla,Female,10-02-2022,Beijing,CHN,Hungary,Olympic Winter Games,Halfpipe,19,41.10
+32,Emma Kamilla,Female,09-02-2022,Beijing,CHN,Hungary,Qualification,Halfpipe,19,
+33,Emma Kamilla,Female,06-02-2022,Beijing,CHN,Hungary,Olympic Winter Games,Slopestyle,28,0.40
+34,Emma Kamilla,Female,05-02-2022,Beijing,CHN,Hungary,Qualification,Slopestyle,28,
+35,Emma Kamilla,Female,15-01-2022,Laax,SUI,Hungary,World Cup,Halfpipe,24,39.00
+36,Emma Kamilla,Female,15-01-2022,Laax,SUI,Hungary,World Cup,Slopestyle,20,78.50
+37,Emma Kamilla,Female,14-01-2022,Laax,SUI,Hungary,Qualification,Slopestyle,20,
+38,Emma Kamilla,Female,13-01-2022,Laax,SUI,Hungary,Qualification,Halfpipe,24,
+39,Emma Kamilla,Female,08-01-2022,Mammoth Mountain,USA,Hungary,World Cup,Halfpipe,21,54.30
+40,Emma Kamilla,Female,08-01-2022,Mammoth Mountain,USA,Hungary,World Cup,Slopestyle,25,10.90
+41,Emma Kamilla,Female,06-01-2022,Mammoth Mountain,USA,Hungary,Qualification,Halfpipe,21,
+42,Emma Kamilla,Female,06-01-2022,Mammoth Mountain,USA,Hungary,Qualification,Slopestyle,25,
+43,Emma Kamilla,Female,01-01-2022,Calgary,CAN,Hungary,World Cup,Slopestyle,16,76.40
+44,Emma Kamilla,Female,31-12-2021,Calgary,CAN,Hungary,Qualification,Slopestyle,16,
+45,Emma Kamilla,Female,11-12-2021,Copper Mountain,USA,Hungary,World Cup,Halfpipe,29,38.70
+46,Emma Kamilla,Female,09-12-2021,Copper Mountain,USA,Hungary,Qualification,Halfpipe,14,
+47,Emma Kamilla,Female,04-12-2021,Steamboat,USA,Hungary,World Cup,Big Air,26,43.10
+48,Emma Kamilla,Female,02-12-2021,Steamboat,USA,Hungary,Qualification,Big Air,26,
+49,Emma Kamilla,Female,10-03-2020,"Canada Olympic Park, AB",CAN,Hungary,National Junior Championships,Slopestyle,2,56.00
+50,Emma Kamilla,Female,08-03-2020,"Canada Olympic Park, AB",CAN,Hungary,FIS,Slopestyle,2,40.00
+51,Emma Kamilla,Female,25-02-2020,Mount St-Louis Moonstone,CAN,Hungary,Nor-Am Cup,Slopestyle,10,57.20
+52,Emma Kamilla,Female,24-02-2020,Mount St-Louis Moonstone,CAN,Hungary,Nor-Am Cup,Slopestyle,11,52.80
+53,Emma Kamilla,Female,14-02-2020,Tremblant.QC,CAN,Hungary,FIS,Slopestyle,4,35.00
+54,Emma Kamilla,Female,13-02-2020,Tremblant.QC,CAN,Hungary,FIS,Slopestyle,5,31.50
+55,Emma Kamilla,Female,26-01-2020,"Canada Olympic Park, AB",CAN,Hungary,FIS,Slopestyle,1,50.00
+56,Emma Kamilla,Female,25-01-2020,"Canada Olympic Park, AB",CAN,Hungary,FIS,Halfpipe,2,40.00
+57,Emma Kamilla,Female,22-01-2020,Leysin,SUI,Hungary,Youth Olympic Winter Games,Big Air,8,57.60
+58,Emma Kamilla,Female,21-01-2020,Leysin,SUI,Hungary,Qualification,Big Air,11,
+59,Emma Kamilla,Female,20-01-2020,Leysin,SUI,Hungary,Youth Olympic Winter Games,Halfpipe,9,69.60
+60,Emma Kamilla,Female,18-01-2020,Leysin,SUI,Hungary,Youth Olympic Winter Games,Slopestyle,14,28.80
+61,Emma Kamilla,Female,10-01-2020,"Whistler Blackcomb, BC",CAN,Hungary,FIS,Slopestyle,5,31.50
+62,Emma Kamilla,Female,18-12-2019,"Copper Mountain, CO",USA,Hungary,Nor-Am Cup,Halfpipe,14,32.40
+63,Emma Kamilla,Female,17-12-2019,"Copper Mountain, CO",USA,Hungary,Nor-Am Cup,Halfpipe,20,19.80
+64,Emma Kamilla,Female,19-03-2019,"Canada Olympic Park, AB",CAN,Hungary,Nor-Am Cup,Halfpipe,3,96.00
+65,Emma Kamilla,Female,03-03-2019,"Canada Olympic Park, AB",CAN,Hungary,FIS,Slopestyle,2,40.00
+66,Emma Kamilla,Female,02-03-2019,"Canada Olympic Park, AB",CAN,Hungary,FIS,Halfpipe,2,40.00
+67,Emma Kamilla,Female,17-02-2019,Mt Seymour,CAN,Hungary,FIS,Slopestyle,2,40.00
+68,Emma Kamilla,Female,16-02-2019,Mt Seymour,CAN,Hungary,FIS,Slopestyle,3,30.00
+69,Emma Kamilla,Female,02-02-2019,"Canada Olympic Park, AB",CAN,Hungary,FIS,Halfpipe,2,40.00
+70,Emma Kamilla,Female,20-01-2019,Big White Ski Resort,CAN,Hungary,FIS,Slopestyle,2,40.00
+71,Emma Kamilla,Female,19-01-2019,Big White Ski Resort,CAN,Hungary,FIS,Slopestyle,4,25.00
+72,Emma Kamilla,Female,11-03-2018,"Canada Olympic Park, AB",CAN,Hungary,National Junior Championships,Slopestyle,6,20.00
+73,Emma Kamilla,Female,06-03-2018,"Canada Olympic Park, AB",CAN,Hungary,Nor-Am Cup,Halfpipe,5,72.00
+74,Emma Kamilla,Female,04-03-2018,"Canada Olympic Park, AB",CAN,Hungary,FIS,Slopestyle,5,31.50
+75,Emma Kamilla,Female,03-03-2018,"Canada Olympic Park, AB",CAN,Hungary,FIS,Halfpipe,4,25.00
+76,Emma Kamilla,Female,28-01-2018,"Canada Olympic Park, AB",CAN,Hungary,FIS,Slopestyle,6,20.00
+77,Emma Kamilla,Female,27-01-2018,"Canada Olympic Park, AB",CAN,Hungary,FIS,Halfpipe,3,30.00
+78,Emma Kamilla,Female,14-01-2018,Big White Ski Resort,CAN,Hungary,FIS,Slopestyle,3,30.00
+79,Emma Kamilla,Female,13-01-2018,Big White Ski Resort,CAN,Hungary,FIS,Slopestyle,6,20.00

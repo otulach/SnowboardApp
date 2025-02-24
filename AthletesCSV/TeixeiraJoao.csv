@@ -1,30 +1,32 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Teixeira Joao,Male,19-02-2025,Calgary,CAN,Brazil,Qualification,Halfpipe,19,
-1,Teixeira Joao,Male,17-03-2024,Winsport Calgary,CAN,Brazil,FIS,Halfpipe,7,15.10
-2,Teixeira Joao,Male,07-03-2024,"Alpine Ski Club,",CAN,Brazil,National Junior Championships,Halfpipe,1,10.00
-3,Teixeira Joao,Male,21-02-2024,Winsport Calgary,CAN,Brazil,Nor-Am Cup,Halfpipe,14,32.90
-4,Teixeira Joao,Male,10-02-2024,Calgary,CAN,Brazil,World Cup,Halfpipe,28,9.50
-5,Teixeira Joao,Male,09-02-2024,Calgary,CAN,Brazil,Qualification,Halfpipe,28,
-6,Teixeira Joao,Male,01-02-2024,Gangwon/Welli Hilli,KOR,Brazil,Youth Olympic Winter Games,Halfpipe,15,6.90
-7,Teixeira Joao,Male,20-01-2024,Laax,SUI,Brazil,World Cup,Halfpipe,43,16.90
-8,Teixeira Joao,Male,29-09-2023,Cardrona,NZL,Brazil,Australian New Zealand Cup,Slopestyle,43,2.20
-9,Teixeira Joao,Male,30-08-2023,Cardrona,NZL,Brazil,FIS Junior World Championships,Slopestyle,61,1.60
-10,Teixeira Joao,Male,28-08-2023,Cardrona,NZL,Brazil,Qualification,Slopestyle,32,
-11,Teixeira Joao,Male,12-08-2023,The Remarkables,NZL,Brazil,Australian New Zealand Cup,Slopestyle,21,4.10
-12,Teixeira Joao,Male,23-03-2023,Winsport Calgary,CAN,Brazil,National Junior Championships,Halfpipe,2,39.00
-13,Teixeira Joao,Male,21-03-2023,Winsport Calgary,CAN,Brazil,National Junior Championships,Slopestyle,33,6.00
-14,Teixeira Joao,Male,19-03-2023,Winsport Calgary,CAN,Brazil,FIS,Slopestyle,20,6.90
-15,Teixeira Joao,Male,18-03-2023,Winsport Calgary,CAN,Brazil,FIS,Halfpipe,2,40.70
-16,Teixeira Joao,Male,13-02-2023,Winsport Calgary,CAN,Brazil,Nor-Am Cup,Halfpipe,19,4.40
-17,Teixeira Joao,Male,10-02-2023,Calgary,CAN,Brazil,World Cup,Halfpipe,22,19.20
-18,Teixeira Joao,Male,09-02-2023,Calgary,CAN,Brazil,Qualification,Halfpipe,22,
-19,Teixeira Joao,Male,29-01-2023,Winsport Calgary,CAN,Brazil,FIS,Halfpipe,5,22.80
-20,Teixeira Joao,Male,28-01-2023,Winsport Calgary,CAN,Brazil,FIS,Slopestyle,6,20.40
-21,Teixeira Joao,Male,18-03-2022,Calgary,CAN,Brazil,FIS,Halfpipe,4,26.70
-22,Teixeira Joao,Male,16-03-2022,Calgary,CAN,Brazil,FIS,Halfpipe,6,12.30
-23,Teixeira Joao,Male,20-02-2022,Calgary,CAN,Brazil,FIS,Slopestyle,11,9.90
-24,Teixeira Joao,Male,19-02-2022,Calgary,CAN,Brazil,FIS,Slopestyle,21,2.80
-25,Teixeira Joao,Male,06-02-2022,Calgary,CAN,Brazil,National Junior Championships,Slopestyle,37,1.00
-26,Teixeira Joao,Male,02-02-2022,Calgary,CAN,Brazil,National Junior Championships,Halfpipe,5,1.60
-27,Teixeira Joao,Male,02-02-2022,Calgary,CAN,Brazil,Nor-Am Cup,Halfpipe,11,0.20
-28,Teixeira Joao,Male,28-01-2022,Calgary,CAN,Brazil,FIS,Halfpipe,5,15.50
+0,Teixeira Joao,Male,23-02-2025,Winsport Calgary,CAN,Brazil,Nor-Am Cup Premium,Halfpipe,16,
+1,Teixeira Joao,Male,21-02-2025,Calgary,CAN,Brazil,World Cup,Halfpipe,35,21.40
+2,Teixeira Joao,Male,19-02-2025,Calgary,CAN,Brazil,Qualification,Halfpipe,19,
+3,Teixeira Joao,Male,17-03-2024,Winsport Calgary,CAN,Brazil,FIS,Halfpipe,7,15.10
+4,Teixeira Joao,Male,07-03-2024,"Alpine Ski Club,",CAN,Brazil,National Junior Championships,Halfpipe,1,10.00
+5,Teixeira Joao,Male,21-02-2024,Winsport Calgary,CAN,Brazil,Nor-Am Cup,Halfpipe,14,32.90
+6,Teixeira Joao,Male,10-02-2024,Calgary,CAN,Brazil,World Cup,Halfpipe,28,9.50
+7,Teixeira Joao,Male,09-02-2024,Calgary,CAN,Brazil,Qualification,Halfpipe,28,
+8,Teixeira Joao,Male,01-02-2024,Gangwon/Welli Hilli,KOR,Brazil,Youth Olympic Winter Games,Halfpipe,15,6.90
+9,Teixeira Joao,Male,20-01-2024,Laax,SUI,Brazil,World Cup,Halfpipe,43,16.90
+10,Teixeira Joao,Male,29-09-2023,Cardrona,NZL,Brazil,Australian New Zealand Cup,Slopestyle,43,2.20
+11,Teixeira Joao,Male,30-08-2023,Cardrona,NZL,Brazil,FIS Junior World Championships,Slopestyle,61,1.60
+12,Teixeira Joao,Male,28-08-2023,Cardrona,NZL,Brazil,Qualification,Slopestyle,32,
+13,Teixeira Joao,Male,12-08-2023,The Remarkables,NZL,Brazil,Australian New Zealand Cup,Slopestyle,21,4.10
+14,Teixeira Joao,Male,23-03-2023,Winsport Calgary,CAN,Brazil,National Junior Championships,Halfpipe,2,39.00
+15,Teixeira Joao,Male,21-03-2023,Winsport Calgary,CAN,Brazil,National Junior Championships,Slopestyle,33,6.00
+16,Teixeira Joao,Male,19-03-2023,Winsport Calgary,CAN,Brazil,FIS,Slopestyle,20,6.90
+17,Teixeira Joao,Male,18-03-2023,Winsport Calgary,CAN,Brazil,FIS,Halfpipe,2,40.70
+18,Teixeira Joao,Male,13-02-2023,Winsport Calgary,CAN,Brazil,Nor-Am Cup,Halfpipe,19,4.40
+19,Teixeira Joao,Male,10-02-2023,Calgary,CAN,Brazil,World Cup,Halfpipe,22,19.20
+20,Teixeira Joao,Male,09-02-2023,Calgary,CAN,Brazil,Qualification,Halfpipe,22,
+21,Teixeira Joao,Male,29-01-2023,Winsport Calgary,CAN,Brazil,FIS,Halfpipe,5,22.80
+22,Teixeira Joao,Male,28-01-2023,Winsport Calgary,CAN,Brazil,FIS,Slopestyle,6,20.40
+23,Teixeira Joao,Male,18-03-2022,Calgary,CAN,Brazil,FIS,Halfpipe,4,26.70
+24,Teixeira Joao,Male,16-03-2022,Calgary,CAN,Brazil,FIS,Halfpipe,6,12.30
+25,Teixeira Joao,Male,20-02-2022,Calgary,CAN,Brazil,FIS,Slopestyle,11,9.90
+26,Teixeira Joao,Male,19-02-2022,Calgary,CAN,Brazil,FIS,Slopestyle,21,2.80
+27,Teixeira Joao,Male,06-02-2022,Calgary,CAN,Brazil,National Junior Championships,Slopestyle,37,1.00
+28,Teixeira Joao,Male,02-02-2022,Calgary,CAN,Brazil,National Junior Championships,Halfpipe,5,1.60
+29,Teixeira Joao,Male,02-02-2022,Calgary,CAN,Brazil,Nor-Am Cup,Halfpipe,11,0.20
+30,Teixeira Joao,Male,28-01-2022,Calgary,CAN,Brazil,FIS,Halfpipe,5,15.50

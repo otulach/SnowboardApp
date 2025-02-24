@@ -1,86 +1,87 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Gill Liam,Male,19-02-2025,Calgary,CAN,Canada,Qualification,Halfpipe,10,
-1,Gill Liam,Male,01-02-2025,Aspen,USA,Canada,World Cup,Halfpipe,32,61.50
-2,Gill Liam,Male,30-01-2025,Aspen,USA,Canada,Qualification,Halfpipe,17,
-3,Gill Liam,Male,18-01-2025,Laax,SUI,Canada,World Cup,Halfpipe,36,51.50
-4,Gill Liam,Male,17-01-2025,Laax,SUI,Canada,Qualification,Halfpipe,17,
-5,Gill Liam,Male,21-02-2024,Winsport Calgary,CAN,Canada,Nor-Am Cup,Halfpipe,11,48.50
-6,Gill Liam,Male,10-02-2024,Calgary,CAN,Canada,World Cup,Halfpipe,24,46.80
-7,Gill Liam,Male,09-02-2024,Calgary,CAN,Canada,Qualification,Halfpipe,24,
-8,Gill Liam,Male,03-02-2024,Mammoth Mountain,USA,Canada,World Cup,Halfpipe,16,150.50
-9,Gill Liam,Male,30-01-2024,Mammoth Mountain,USA,Canada,Qualification,Halfpipe,5,
-10,Gill Liam,Male,20-01-2024,Laax,SUI,Canada,World Cup,Halfpipe,8,341.50
-11,Gill Liam,Male,16-12-2023,Copper Mountain,USA,Canada,World Cup,Halfpipe,DNS,
-12,Gill Liam,Male,14-12-2023,Copper Mountain,USA,Canada,Qualification,Halfpipe,DNS,
-13,Gill Liam,Male,08-12-2023,Secret Garden,CHN,Canada,World Cup,Halfpipe,13,171.70
-14,Gill Liam,Male,06-12-2023,Secret Garden,CHN,Canada,Qualification,Halfpipe,13,
-15,Gill Liam,Male,03-03-2023,Bakuriani,GEO,Canada,World Championships,Halfpipe,13,142.60
-16,Gill Liam,Male,01-03-2023,Bakuriani,GEO,Canada,Qualification,Halfpipe,13,
-17,Gill Liam,Male,15-02-2023,Winsport Calgary,CAN,Canada,Nor-Am Cup,Slopestyle,17,49.60
-18,Gill Liam,Male,13-02-2023,Winsport Calgary,CAN,Canada,Nor-Am Cup,Halfpipe,1,150.00
-19,Gill Liam,Male,10-02-2023,Calgary,CAN,Canada,World Cup,Halfpipe,21,28.80
-20,Gill Liam,Male,09-02-2023,Calgary,CAN,Canada,Qualification,Halfpipe,21,
-21,Gill Liam,Male,04-02-2023,Mammoth Mountain,USA,Canada,World Cup,Halfpipe,12,153.50
-22,Gill Liam,Male,02-02-2023,Mammoth Mountain,USA,Canada,Qualification,Halfpipe,12,
-23,Gill Liam,Male,21-01-2023,Laax,SUI,Canada,World Cup,Halfpipe,17,115.30
-24,Gill Liam,Male,19-01-2023,Laax,SUI,Canada,Qualification,Halfpipe,17,
-25,Gill Liam,Male,16-12-2022,Copper Mountain,USA,Canada,World Cup,Halfpipe,25,105.70
-26,Gill Liam,Male,14-12-2022,Copper Mountain,USA,Canada,Qualification,Halfpipe,12,
-27,Gill Liam,Male,11-02-2022,Beijing,CHN,Canada,Olympic Winter Games,Halfpipe,23,22.60
-28,Gill Liam,Male,09-02-2022,Beijing,CHN,Canada,Qualification,Halfpipe,23,
-29,Gill Liam,Male,15-01-2022,Laax,SUI,Canada,World Cup,Halfpipe,19,151.30
-30,Gill Liam,Male,13-01-2022,Laax,SUI,Canada,Qualification,Halfpipe,12,
-31,Gill Liam,Male,08-01-2022,Mammoth Mountain,USA,Canada,World Cup,Halfpipe,30,34.90
-32,Gill Liam,Male,11-12-2021,Copper Mountain,USA,Canada,World Cup,Halfpipe,16,180.60
-33,Gill Liam,Male,09-12-2021,Copper Mountain,USA,Canada,Qualification,Halfpipe,9,
-34,Gill Liam,Male,21-03-2021,Aspen,USA,Canada,World Cup,Halfpipe,28,31.99
-35,Gill Liam,Male,18-03-2021,Aspen,USA,Canada,Qualification,Halfpipe,28,
-36,Gill Liam,Male,23-01-2021,Laax,SUI,Canada,World Cup,Halfpipe,28,82.27
-37,Gill Liam,Male,21-01-2021,Laax,SUI,Canada,Qualification,Halfpipe,12,
-38,Gill Liam,Male,10-03-2020,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,4,75.00
-39,Gill Liam,Male,08-03-2020,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,4,35.00
-40,Gill Liam,Male,07-03-2020,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,2,40.00
-41,Gill Liam,Male,25-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,19,24.00
-42,Gill Liam,Male,24-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,8,64.00
-43,Gill Liam,Male,16-02-2020,Calgary,CAN,Canada,World Cup,Slopestyle,23,80.00
-44,Gill Liam,Male,15-02-2020,Calgary,CAN,Canada,World Cup,Halfpipe,27,45.00
-45,Gill Liam,Male,14-02-2020,Calgary,CAN,Canada,Qualification,Slopestyle,13,
-46,Gill Liam,Male,13-02-2020,Calgary,CAN,Canada,Qualification,Halfpipe,27,
-47,Gill Liam,Male,07-02-2020,Mammoth Mountain Ski Resort,USA,Canada,Nor-Am Cup,Slopestyle,31,6.72
-48,Gill Liam,Male,26-01-2020,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,2,40.00
-49,Gill Liam,Male,25-01-2020,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,1,50.00
-50,Gill Liam,Male,22-01-2020,Leysin,SUI,Canada,Youth Olympic Winter Games,Big Air,8,64.00
-51,Gill Liam,Male,22-01-2020,Leysin,SUI,Canada,Qualification,Big Air,8,
-52,Gill Liam,Male,21-01-2020,Leysin,SUI,Canada,Youth Olympic Winter Games,Halfpipe,13,52.00
-53,Gill Liam,Male,20-01-2020,Leysin,SUI,Canada,Youth Olympic Winter Games,Slopestyle,11,43.20
-54,Gill Liam,Male,18-12-2019,"Copper Mountain, CO",USA,Canada,Nor-Am Cup,Halfpipe,15,25.60
-55,Gill Liam,Male,17-12-2019,"Copper Mountain, CO",USA,Canada,Nor-Am Cup,Halfpipe,20,17.60
-56,Gill Liam,Male,13-04-2019,Klaeppen,SWE,Canada,FIS Junior World Championships,Big Air,26,12.00
-57,Gill Liam,Male,12-04-2019,Klaeppen,SWE,Canada,Qualification,Big Air,9,
-58,Gill Liam,Male,09-04-2019,Klaeppen,SWE,Canada,FIS Junior World Championships,Slopestyle,24,16.80
-59,Gill Liam,Male,08-04-2019,Klaeppen,SWE,Canada,Qualification,Slopestyle,7,
-60,Gill Liam,Male,24-03-2019,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,3,60.00
-61,Gill Liam,Male,23-03-2019,"Canada Olympic Park, AB",CAN,Canada,Nor-Am Cup,Big Air,17,22.40
-62,Gill Liam,Male,21-03-2019,"Canada Olympic Park, AB",CAN,Canada,Nor-Am Cup,Slopestyle,7,57.60
-63,Gill Liam,Male,19-03-2019,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Halfpipe,4,25.00
-64,Gill Liam,Male,17-03-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,1,70.00
-65,Gill Liam,Male,16-03-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,4,35.00
-66,Gill Liam,Male,03-03-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,4,25.00
-67,Gill Liam,Male,02-03-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,2,40.00
-68,Gill Liam,Male,07-02-2019,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,28,6.40
-69,Gill Liam,Male,02-02-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,2,40.00
-70,Gill Liam,Male,24-01-2019,Sun Peaks,CAN,Canada,Nor-Am Cup,Big Air,9,46.40
-71,Gill Liam,Male,23-01-2019,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,3,96.00
-72,Gill Liam,Male,28-01-2018,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,1,50.00
-73,Gill Liam,Male,27-01-2018,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,6,20.00
-74,Gill Liam,Male,24-01-2018,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,38,3.06
-75,Gill Liam,Male,23-01-2018,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,1,160.00
-76,Gill Liam,Male,12-03-2017,Mount St-Louis Moonstone,CAN,Canada,National Junior Championships,Slopestyle,4,45.00
-77,Gill Liam,Male,11-03-2017,Horseshoe Ski Resort,CAN,Canada,National Championships,Big Air,8,22.40
-78,Gill Liam,Male,09-03-2017,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,14,28.80
-79,Gill Liam,Male,06-03-2017,Mount St-Louis Moonstone,CAN,Canada,National Championships,Halfpipe,6,28.00
-80,Gill Liam,Male,06-03-2017,Mount St-Louis Moonstone,CAN,Canada,National Junior Championships,Halfpipe,4,25.00
-81,Gill Liam,Male,05-02-2017,Canada Olympic Park,CAN,Canada,FIS,Slopestyle,7,18.00
-82,Gill Liam,Male,04-02-2017,Canada Olympic Park,CAN,Canada,FIS,Halfpipe,7,18.00
-83,Gill Liam,Male,15-01-2017,Canada Olympic Park,CAN,Canada,FIS,Slopestyle,3,30.00
-84,Gill Liam,Male,14-01-2017,Canada Olympic Park,CAN,Canada,FIS,Halfpipe,11,12.00
+0,Gill Liam,Male,21-02-2025,Calgary,CAN,Canada,World Cup,Halfpipe,22,92.80
+1,Gill Liam,Male,19-02-2025,Calgary,CAN,Canada,Qualification,Halfpipe,10,
+2,Gill Liam,Male,01-02-2025,Aspen,USA,Canada,World Cup,Halfpipe,32,61.50
+3,Gill Liam,Male,30-01-2025,Aspen,USA,Canada,Qualification,Halfpipe,17,
+4,Gill Liam,Male,18-01-2025,Laax,SUI,Canada,World Cup,Halfpipe,36,51.50
+5,Gill Liam,Male,17-01-2025,Laax,SUI,Canada,Qualification,Halfpipe,17,
+6,Gill Liam,Male,21-02-2024,Winsport Calgary,CAN,Canada,Nor-Am Cup,Halfpipe,11,48.50
+7,Gill Liam,Male,10-02-2024,Calgary,CAN,Canada,World Cup,Halfpipe,24,46.80
+8,Gill Liam,Male,09-02-2024,Calgary,CAN,Canada,Qualification,Halfpipe,24,
+9,Gill Liam,Male,03-02-2024,Mammoth Mountain,USA,Canada,World Cup,Halfpipe,16,150.50
+10,Gill Liam,Male,30-01-2024,Mammoth Mountain,USA,Canada,Qualification,Halfpipe,5,
+11,Gill Liam,Male,20-01-2024,Laax,SUI,Canada,World Cup,Halfpipe,8,341.50
+12,Gill Liam,Male,16-12-2023,Copper Mountain,USA,Canada,World Cup,Halfpipe,DNS,
+13,Gill Liam,Male,14-12-2023,Copper Mountain,USA,Canada,Qualification,Halfpipe,DNS,
+14,Gill Liam,Male,08-12-2023,Secret Garden,CHN,Canada,World Cup,Halfpipe,13,171.70
+15,Gill Liam,Male,06-12-2023,Secret Garden,CHN,Canada,Qualification,Halfpipe,13,
+16,Gill Liam,Male,03-03-2023,Bakuriani,GEO,Canada,World Championships,Halfpipe,13,142.60
+17,Gill Liam,Male,01-03-2023,Bakuriani,GEO,Canada,Qualification,Halfpipe,13,
+18,Gill Liam,Male,15-02-2023,Winsport Calgary,CAN,Canada,Nor-Am Cup,Slopestyle,17,49.60
+19,Gill Liam,Male,13-02-2023,Winsport Calgary,CAN,Canada,Nor-Am Cup,Halfpipe,1,150.00
+20,Gill Liam,Male,10-02-2023,Calgary,CAN,Canada,World Cup,Halfpipe,21,28.80
+21,Gill Liam,Male,09-02-2023,Calgary,CAN,Canada,Qualification,Halfpipe,21,
+22,Gill Liam,Male,04-02-2023,Mammoth Mountain,USA,Canada,World Cup,Halfpipe,12,153.50
+23,Gill Liam,Male,02-02-2023,Mammoth Mountain,USA,Canada,Qualification,Halfpipe,12,
+24,Gill Liam,Male,21-01-2023,Laax,SUI,Canada,World Cup,Halfpipe,17,115.30
+25,Gill Liam,Male,19-01-2023,Laax,SUI,Canada,Qualification,Halfpipe,17,
+26,Gill Liam,Male,16-12-2022,Copper Mountain,USA,Canada,World Cup,Halfpipe,25,105.70
+27,Gill Liam,Male,14-12-2022,Copper Mountain,USA,Canada,Qualification,Halfpipe,12,
+28,Gill Liam,Male,11-02-2022,Beijing,CHN,Canada,Olympic Winter Games,Halfpipe,23,22.60
+29,Gill Liam,Male,09-02-2022,Beijing,CHN,Canada,Qualification,Halfpipe,23,
+30,Gill Liam,Male,15-01-2022,Laax,SUI,Canada,World Cup,Halfpipe,19,151.30
+31,Gill Liam,Male,13-01-2022,Laax,SUI,Canada,Qualification,Halfpipe,12,
+32,Gill Liam,Male,08-01-2022,Mammoth Mountain,USA,Canada,World Cup,Halfpipe,30,34.90
+33,Gill Liam,Male,11-12-2021,Copper Mountain,USA,Canada,World Cup,Halfpipe,16,180.60
+34,Gill Liam,Male,09-12-2021,Copper Mountain,USA,Canada,Qualification,Halfpipe,9,
+35,Gill Liam,Male,21-03-2021,Aspen,USA,Canada,World Cup,Halfpipe,28,31.99
+36,Gill Liam,Male,18-03-2021,Aspen,USA,Canada,Qualification,Halfpipe,28,
+37,Gill Liam,Male,23-01-2021,Laax,SUI,Canada,World Cup,Halfpipe,28,82.27
+38,Gill Liam,Male,21-01-2021,Laax,SUI,Canada,Qualification,Halfpipe,12,
+39,Gill Liam,Male,10-03-2020,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,4,75.00
+40,Gill Liam,Male,08-03-2020,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,4,35.00
+41,Gill Liam,Male,07-03-2020,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,2,40.00
+42,Gill Liam,Male,25-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,19,24.00
+43,Gill Liam,Male,24-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,8,64.00
+44,Gill Liam,Male,16-02-2020,Calgary,CAN,Canada,World Cup,Slopestyle,23,80.00
+45,Gill Liam,Male,15-02-2020,Calgary,CAN,Canada,World Cup,Halfpipe,27,45.00
+46,Gill Liam,Male,14-02-2020,Calgary,CAN,Canada,Qualification,Slopestyle,13,
+47,Gill Liam,Male,13-02-2020,Calgary,CAN,Canada,Qualification,Halfpipe,27,
+48,Gill Liam,Male,07-02-2020,Mammoth Mountain Ski Resort,USA,Canada,Nor-Am Cup,Slopestyle,31,6.72
+49,Gill Liam,Male,26-01-2020,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,2,40.00
+50,Gill Liam,Male,25-01-2020,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,1,50.00
+51,Gill Liam,Male,22-01-2020,Leysin,SUI,Canada,Youth Olympic Winter Games,Big Air,8,64.00
+52,Gill Liam,Male,22-01-2020,Leysin,SUI,Canada,Qualification,Big Air,8,
+53,Gill Liam,Male,21-01-2020,Leysin,SUI,Canada,Youth Olympic Winter Games,Halfpipe,13,52.00
+54,Gill Liam,Male,20-01-2020,Leysin,SUI,Canada,Youth Olympic Winter Games,Slopestyle,11,43.20
+55,Gill Liam,Male,18-12-2019,"Copper Mountain, CO",USA,Canada,Nor-Am Cup,Halfpipe,15,25.60
+56,Gill Liam,Male,17-12-2019,"Copper Mountain, CO",USA,Canada,Nor-Am Cup,Halfpipe,20,17.60
+57,Gill Liam,Male,13-04-2019,Klaeppen,SWE,Canada,FIS Junior World Championships,Big Air,26,12.00
+58,Gill Liam,Male,12-04-2019,Klaeppen,SWE,Canada,Qualification,Big Air,9,
+59,Gill Liam,Male,09-04-2019,Klaeppen,SWE,Canada,FIS Junior World Championships,Slopestyle,24,16.80
+60,Gill Liam,Male,08-04-2019,Klaeppen,SWE,Canada,Qualification,Slopestyle,7,
+61,Gill Liam,Male,24-03-2019,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,3,60.00
+62,Gill Liam,Male,23-03-2019,"Canada Olympic Park, AB",CAN,Canada,Nor-Am Cup,Big Air,17,22.40
+63,Gill Liam,Male,21-03-2019,"Canada Olympic Park, AB",CAN,Canada,Nor-Am Cup,Slopestyle,7,57.60
+64,Gill Liam,Male,19-03-2019,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Halfpipe,4,25.00
+65,Gill Liam,Male,17-03-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,1,70.00
+66,Gill Liam,Male,16-03-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,4,35.00
+67,Gill Liam,Male,03-03-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,4,25.00
+68,Gill Liam,Male,02-03-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,2,40.00
+69,Gill Liam,Male,07-02-2019,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,28,6.40
+70,Gill Liam,Male,02-02-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,2,40.00
+71,Gill Liam,Male,24-01-2019,Sun Peaks,CAN,Canada,Nor-Am Cup,Big Air,9,46.40
+72,Gill Liam,Male,23-01-2019,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,3,96.00
+73,Gill Liam,Male,28-01-2018,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,1,50.00
+74,Gill Liam,Male,27-01-2018,"Canada Olympic Park, AB",CAN,Canada,FIS,Halfpipe,6,20.00
+75,Gill Liam,Male,24-01-2018,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,38,3.06
+76,Gill Liam,Male,23-01-2018,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,1,160.00
+77,Gill Liam,Male,12-03-2017,Mount St-Louis Moonstone,CAN,Canada,National Junior Championships,Slopestyle,4,45.00
+78,Gill Liam,Male,11-03-2017,Horseshoe Ski Resort,CAN,Canada,National Championships,Big Air,8,22.40
+79,Gill Liam,Male,09-03-2017,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,14,28.80
+80,Gill Liam,Male,06-03-2017,Mount St-Louis Moonstone,CAN,Canada,National Championships,Halfpipe,6,28.00
+81,Gill Liam,Male,06-03-2017,Mount St-Louis Moonstone,CAN,Canada,National Junior Championships,Halfpipe,4,25.00
+82,Gill Liam,Male,05-02-2017,Canada Olympic Park,CAN,Canada,FIS,Slopestyle,7,18.00
+83,Gill Liam,Male,04-02-2017,Canada Olympic Park,CAN,Canada,FIS,Halfpipe,7,18.00
+84,Gill Liam,Male,15-01-2017,Canada Olympic Park,CAN,Canada,FIS,Slopestyle,3,30.00
+85,Gill Liam,Male,14-01-2017,Canada Olympic Park,CAN,Canada,FIS,Halfpipe,11,12.00

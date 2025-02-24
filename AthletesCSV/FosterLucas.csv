@@ -1,75 +1,77 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Foster Lucas,Male,19-02-2025,Calgary,CAN,United States Of America,Qualification,Halfpipe,3,
-1,Foster Lucas,Male,01-02-2025,Aspen,USA,United States Of America,World Cup,Halfpipe,6,434.50
-2,Foster Lucas,Male,30-01-2025,Aspen,USA,United States Of America,Qualification,Halfpipe,3,
-3,Foster Lucas,Male,18-01-2025,Laax,SUI,United States Of America,World Cup,Halfpipe,40,28.70
-4,Foster Lucas,Male,17-01-2025,Laax,SUI,United States Of America,Qualification,Halfpipe,20,
-5,Foster Lucas,Male,20-12-2024,Copper,USA,United States Of America,World Cup,Halfpipe,27,92.80
-6,Foster Lucas,Male,18-12-2024,Copper,USA,United States Of America,Qualification,Halfpipe,14,
-7,Foster Lucas,Male,08-12-2024,Secret Garden,CHN,United States Of America,World Cup,Halfpipe,15,169.80
-8,Foster Lucas,Male,06-12-2024,Secret Garden,CHN,United States Of America,Qualification,Halfpipe,8,
-9,Foster Lucas,Male,10-02-2024,Calgary,CAN,United States Of America,World Cup,Halfpipe,25,37.30
-10,Foster Lucas,Male,09-02-2024,Calgary,CAN,United States Of America,Qualification,Halfpipe,25,
-11,Foster Lucas,Male,03-02-2024,Mammoth Mountain,USA,United States Of America,World Cup,Halfpipe,18,128.00
-12,Foster Lucas,Male,30-01-2024,Mammoth Mountain,USA,United States Of America,Qualification,Halfpipe,10,
-13,Foster Lucas,Male,20-01-2024,Laax,SUI,United States Of America,World Cup,Halfpipe,42,22.50
-14,Foster Lucas,Male,16-12-2023,Copper Mountain,USA,United States Of America,World Cup,Halfpipe,14,191.40
-15,Foster Lucas,Male,14-12-2023,Copper Mountain,USA,United States Of America,Qualification,Halfpipe,8,
-16,Foster Lucas,Male,08-12-2023,Secret Garden,CHN,United States Of America,World Cup,Halfpipe,7,359.50
-17,Foster Lucas,Male,06-12-2023,Secret Garden,CHN,United States Of America,Qualification,Halfpipe,7,
-18,Foster Lucas,Male,03-03-2023,Bakuriani,GEO,United States Of America,World Championships,Halfpipe,22,0.50
-19,Foster Lucas,Male,01-03-2023,Bakuriani,GEO,United States Of America,Qualification,Halfpipe,22,
-20,Foster Lucas,Male,10-02-2023,Calgary,CAN,United States Of America,World Cup,Halfpipe,DNS,
-21,Foster Lucas,Male,09-02-2023,Calgary,CAN,United States Of America,Qualification,Halfpipe,DNS,
-22,Foster Lucas,Male,04-02-2023,Mammoth Mountain,USA,United States Of America,World Cup,Halfpipe,23,32.80
-23,Foster Lucas,Male,02-02-2023,Mammoth Mountain,USA,United States Of America,Qualification,Halfpipe,23,
-24,Foster Lucas,Male,21-01-2023,Laax,SUI,United States Of America,World Cup,Halfpipe,18,103.00
-25,Foster Lucas,Male,19-01-2023,Laax,SUI,United States Of America,Qualification,Halfpipe,18,
-26,Foster Lucas,Male,16-12-2022,Copper Mountain,USA,United States Of America,World Cup,Halfpipe,9,302.80
-27,Foster Lucas,Male,14-12-2022,Copper Mountain,USA,United States Of America,Qualification,Halfpipe,2,
-28,Foster Lucas,Male,11-02-2022,Beijing,CHN,United States Of America,Olympic Winter Games,Halfpipe,17,96.20
-29,Foster Lucas,Male,09-02-2022,Beijing,CHN,United States Of America,Qualification,Halfpipe,17,
-30,Foster Lucas,Male,15-01-2022,Laax,SUI,United States Of America,World Cup,Halfpipe,7,381.70
-31,Foster Lucas,Male,13-01-2022,Laax,SUI,United States Of America,Qualification,Halfpipe,6,
-32,Foster Lucas,Male,08-01-2022,Mammoth Mountain,USA,United States Of America,World Cup,Halfpipe,5,397.90
-33,Foster Lucas,Male,11-12-2021,Copper Mountain,USA,United States Of America,World Cup,Halfpipe,11,253.50
-34,Foster Lucas,Male,09-12-2021,Copper Mountain,USA,United States Of America,Qualification,Halfpipe,6,
-35,Foster Lucas,Male,21-03-2021,Aspen,USA,United States Of America,World Cup,Halfpipe,6,340.66
-36,Foster Lucas,Male,18-03-2021,Aspen,USA,United States Of America,Qualification,Halfpipe,9,
-37,Foster Lucas,Male,05-03-2021,Copper Mountain,USA,United States Of America,National Championships,Halfpipe,2,264.24
-38,Foster Lucas,Male,25-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Halfpipe,4,149.58
-39,Foster Lucas,Male,23-01-2021,Laax,SUI,United States Of America,World Cup,Halfpipe,17,163.82
-40,Foster Lucas,Male,21-01-2021,Laax,SUI,United States Of America,Qualification,Halfpipe,8,
-41,Foster Lucas,Male,15-02-2020,Calgary,CAN,United States Of America,World Cup,Halfpipe,8,320.00
-42,Foster Lucas,Male,13-02-2020,Calgary,CAN,United States Of America,Qualification,Halfpipe,7,
-43,Foster Lucas,Male,31-01-2020,Mammoth Mountain Resort,USA,United States Of America,World Cup,Halfpipe,25,60.00
-44,Foster Lucas,Male,29-01-2020,Mammoth Mountain Resort,USA,United States Of America,Qualification,Halfpipe,25,
-45,Foster Lucas,Male,18-01-2020,Laax,SUI,United States Of America,World Cup,Halfpipe,25,
-46,Foster Lucas,Male,16-01-2020,Laax,SUI,United States Of America,Qualification,Halfpipe,25,
-47,Foster Lucas,Male,18-12-2019,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,3,96.00
-48,Foster Lucas,Male,17-12-2019,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,7,57.60
-49,Foster Lucas,Male,14-12-2019,Copper Mountain Resort,USA,United States Of America,World Cup,Halfpipe,12,220.00
-50,Foster Lucas,Male,12-12-2019,Copper Mountain Resort,USA,United States Of America,Qualification,Halfpipe,12,
-51,Foster Lucas,Male,04-04-2019,"Copper Mountain, CO",USA,United States Of America,National Championships,Slopestyle,24,3.50
-52,Foster Lucas,Male,03-04-2019,"Copper Mountain, CO",USA,United States Of America,National Championships,Halfpipe,7,46.80
-53,Foster Lucas,Male,14-03-2019,"Mammoth Mountain, CA",USA,United States Of America,Nor-Am Cup,Halfpipe,3,96.00
-54,Foster Lucas,Male,09-03-2019,Mammoth Mountain Resort,USA,United States Of America,World Cup,Halfpipe,15,160.00
-55,Foster Lucas,Male,07-03-2019,Mammoth Mountain Resort,USA,United States Of America,Qualification,Halfpipe,8,
-56,Foster Lucas,Male,14-02-2019,"Copper Mountain, CO",USA,United States Of America,FIS,Halfpipe,4,35.00
-57,Foster Lucas,Male,19-01-2019,Laax,SUI,United States Of America,World Cup,Halfpipe,37,
-58,Foster Lucas,Male,16-01-2019,Laax,SUI,United States Of America,Qualification,Halfpipe,18,
-59,Foster Lucas,Male,12-12-2018,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,8,115.20
-60,Foster Lucas,Male,11-12-2018,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,15,57.60
-61,Foster Lucas,Male,08-12-2018,Copper Mountain Resort,USA,United States Of America,World Cup,Halfpipe,19,120.00
-62,Foster Lucas,Male,06-12-2018,Copper Mountain Resort,USA,United States Of America,Qualification,Halfpipe,10,
-63,Foster Lucas,Male,15-03-2018,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,10,41.60
-64,Foster Lucas,Male,28-02-2018,Park City,USA,United States Of America,Nor-Am Cup,Slopestyle,DNS,
-65,Foster Lucas,Male,27-02-2018,Park City,USA,United States Of America,Nor-Am Cup,Halfpipe,16,24.00
-66,Foster Lucas,Male,13-12-2017,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,8,83.20
-67,Foster Lucas,Male,12-12-2017,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,15,41.60
-68,Foster Lucas,Male,08-12-2016,Copper Mountain Resort,USA,United States Of America,FIS,Halfpipe,44,3.81
-69,Foster Lucas,Male,30-01-2016,"Mammoth Mountain, CA",USA,United States Of America,FIS,Halfpipe,DNS,
-70,Foster Lucas,Male,08-12-2015,"Copper Mountain, CO",USA,United States Of America,FIS,Halfpipe,22,14.40
-71,Foster Lucas,Male,07-12-2015,"Copper Mountain, CO",USA,United States Of America,FIS,Halfpipe,30,6.40
-72,Foster Lucas,Male,12-02-2015,"Mammoth Mountain, CA",USA,United States Of America,FIS,Halfpipe,39,2.26
-73,Foster Lucas,Male,16-12-2014,"Copper Mountain, CO",USA,United States Of America,FIS,Halfpipe,33,6.24
+0,Foster Lucas,Male,23-02-2025,Winsport Calgary,CAN,United States Of America,Nor-Am Cup Premium,Halfpipe,21,
+1,Foster Lucas,Male,21-02-2025,Calgary,CAN,United States Of America,World Cup,Halfpipe,5,399.70
+2,Foster Lucas,Male,19-02-2025,Calgary,CAN,United States Of America,Qualification,Halfpipe,3,
+3,Foster Lucas,Male,01-02-2025,Aspen,USA,United States Of America,World Cup,Halfpipe,6,434.50
+4,Foster Lucas,Male,30-01-2025,Aspen,USA,United States Of America,Qualification,Halfpipe,3,
+5,Foster Lucas,Male,18-01-2025,Laax,SUI,United States Of America,World Cup,Halfpipe,40,28.70
+6,Foster Lucas,Male,17-01-2025,Laax,SUI,United States Of America,Qualification,Halfpipe,20,
+7,Foster Lucas,Male,20-12-2024,Copper,USA,United States Of America,World Cup,Halfpipe,27,92.80
+8,Foster Lucas,Male,18-12-2024,Copper,USA,United States Of America,Qualification,Halfpipe,14,
+9,Foster Lucas,Male,08-12-2024,Secret Garden,CHN,United States Of America,World Cup,Halfpipe,15,169.80
+10,Foster Lucas,Male,06-12-2024,Secret Garden,CHN,United States Of America,Qualification,Halfpipe,8,
+11,Foster Lucas,Male,10-02-2024,Calgary,CAN,United States Of America,World Cup,Halfpipe,25,37.30
+12,Foster Lucas,Male,09-02-2024,Calgary,CAN,United States Of America,Qualification,Halfpipe,25,
+13,Foster Lucas,Male,03-02-2024,Mammoth Mountain,USA,United States Of America,World Cup,Halfpipe,18,128.00
+14,Foster Lucas,Male,30-01-2024,Mammoth Mountain,USA,United States Of America,Qualification,Halfpipe,10,
+15,Foster Lucas,Male,20-01-2024,Laax,SUI,United States Of America,World Cup,Halfpipe,42,22.50
+16,Foster Lucas,Male,16-12-2023,Copper Mountain,USA,United States Of America,World Cup,Halfpipe,14,191.40
+17,Foster Lucas,Male,14-12-2023,Copper Mountain,USA,United States Of America,Qualification,Halfpipe,8,
+18,Foster Lucas,Male,08-12-2023,Secret Garden,CHN,United States Of America,World Cup,Halfpipe,7,359.50
+19,Foster Lucas,Male,06-12-2023,Secret Garden,CHN,United States Of America,Qualification,Halfpipe,7,
+20,Foster Lucas,Male,03-03-2023,Bakuriani,GEO,United States Of America,World Championships,Halfpipe,22,0.50
+21,Foster Lucas,Male,01-03-2023,Bakuriani,GEO,United States Of America,Qualification,Halfpipe,22,
+22,Foster Lucas,Male,10-02-2023,Calgary,CAN,United States Of America,World Cup,Halfpipe,DNS,
+23,Foster Lucas,Male,09-02-2023,Calgary,CAN,United States Of America,Qualification,Halfpipe,DNS,
+24,Foster Lucas,Male,04-02-2023,Mammoth Mountain,USA,United States Of America,World Cup,Halfpipe,23,32.80
+25,Foster Lucas,Male,02-02-2023,Mammoth Mountain,USA,United States Of America,Qualification,Halfpipe,23,
+26,Foster Lucas,Male,21-01-2023,Laax,SUI,United States Of America,World Cup,Halfpipe,18,103.00
+27,Foster Lucas,Male,19-01-2023,Laax,SUI,United States Of America,Qualification,Halfpipe,18,
+28,Foster Lucas,Male,16-12-2022,Copper Mountain,USA,United States Of America,World Cup,Halfpipe,9,302.80
+29,Foster Lucas,Male,14-12-2022,Copper Mountain,USA,United States Of America,Qualification,Halfpipe,2,
+30,Foster Lucas,Male,11-02-2022,Beijing,CHN,United States Of America,Olympic Winter Games,Halfpipe,17,96.20
+31,Foster Lucas,Male,09-02-2022,Beijing,CHN,United States Of America,Qualification,Halfpipe,17,
+32,Foster Lucas,Male,15-01-2022,Laax,SUI,United States Of America,World Cup,Halfpipe,7,381.70
+33,Foster Lucas,Male,13-01-2022,Laax,SUI,United States Of America,Qualification,Halfpipe,6,
+34,Foster Lucas,Male,08-01-2022,Mammoth Mountain,USA,United States Of America,World Cup,Halfpipe,5,397.90
+35,Foster Lucas,Male,11-12-2021,Copper Mountain,USA,United States Of America,World Cup,Halfpipe,11,253.50
+36,Foster Lucas,Male,09-12-2021,Copper Mountain,USA,United States Of America,Qualification,Halfpipe,6,
+37,Foster Lucas,Male,21-03-2021,Aspen,USA,United States Of America,World Cup,Halfpipe,6,340.66
+38,Foster Lucas,Male,18-03-2021,Aspen,USA,United States Of America,Qualification,Halfpipe,9,
+39,Foster Lucas,Male,05-03-2021,Copper Mountain,USA,United States Of America,National Championships,Halfpipe,2,264.24
+40,Foster Lucas,Male,25-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Halfpipe,4,149.58
+41,Foster Lucas,Male,23-01-2021,Laax,SUI,United States Of America,World Cup,Halfpipe,17,163.82
+42,Foster Lucas,Male,21-01-2021,Laax,SUI,United States Of America,Qualification,Halfpipe,8,
+43,Foster Lucas,Male,15-02-2020,Calgary,CAN,United States Of America,World Cup,Halfpipe,8,320.00
+44,Foster Lucas,Male,13-02-2020,Calgary,CAN,United States Of America,Qualification,Halfpipe,7,
+45,Foster Lucas,Male,31-01-2020,Mammoth Mountain Resort,USA,United States Of America,World Cup,Halfpipe,25,60.00
+46,Foster Lucas,Male,29-01-2020,Mammoth Mountain Resort,USA,United States Of America,Qualification,Halfpipe,25,
+47,Foster Lucas,Male,18-01-2020,Laax,SUI,United States Of America,World Cup,Halfpipe,25,
+48,Foster Lucas,Male,16-01-2020,Laax,SUI,United States Of America,Qualification,Halfpipe,25,
+49,Foster Lucas,Male,18-12-2019,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,3,96.00
+50,Foster Lucas,Male,17-12-2019,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,7,57.60
+51,Foster Lucas,Male,14-12-2019,Copper Mountain Resort,USA,United States Of America,World Cup,Halfpipe,12,220.00
+52,Foster Lucas,Male,12-12-2019,Copper Mountain Resort,USA,United States Of America,Qualification,Halfpipe,12,
+53,Foster Lucas,Male,04-04-2019,"Copper Mountain, CO",USA,United States Of America,National Championships,Slopestyle,24,3.50
+54,Foster Lucas,Male,03-04-2019,"Copper Mountain, CO",USA,United States Of America,National Championships,Halfpipe,7,46.80
+55,Foster Lucas,Male,14-03-2019,"Mammoth Mountain, CA",USA,United States Of America,Nor-Am Cup,Halfpipe,3,96.00
+56,Foster Lucas,Male,09-03-2019,Mammoth Mountain Resort,USA,United States Of America,World Cup,Halfpipe,15,160.00
+57,Foster Lucas,Male,07-03-2019,Mammoth Mountain Resort,USA,United States Of America,Qualification,Halfpipe,8,
+58,Foster Lucas,Male,14-02-2019,"Copper Mountain, CO",USA,United States Of America,FIS,Halfpipe,4,35.00
+59,Foster Lucas,Male,19-01-2019,Laax,SUI,United States Of America,World Cup,Halfpipe,37,
+60,Foster Lucas,Male,16-01-2019,Laax,SUI,United States Of America,Qualification,Halfpipe,18,
+61,Foster Lucas,Male,12-12-2018,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,8,115.20
+62,Foster Lucas,Male,11-12-2018,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,15,57.60
+63,Foster Lucas,Male,08-12-2018,Copper Mountain Resort,USA,United States Of America,World Cup,Halfpipe,19,120.00
+64,Foster Lucas,Male,06-12-2018,Copper Mountain Resort,USA,United States Of America,Qualification,Halfpipe,10,
+65,Foster Lucas,Male,15-03-2018,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,10,41.60
+66,Foster Lucas,Male,28-02-2018,Park City,USA,United States Of America,Nor-Am Cup,Slopestyle,DNS,
+67,Foster Lucas,Male,27-02-2018,Park City,USA,United States Of America,Nor-Am Cup,Halfpipe,16,24.00
+68,Foster Lucas,Male,13-12-2017,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,8,83.20
+69,Foster Lucas,Male,12-12-2017,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,15,41.60
+70,Foster Lucas,Male,08-12-2016,Copper Mountain Resort,USA,United States Of America,FIS,Halfpipe,44,3.81
+71,Foster Lucas,Male,30-01-2016,"Mammoth Mountain, CA",USA,United States Of America,FIS,Halfpipe,DNS,
+72,Foster Lucas,Male,08-12-2015,"Copper Mountain, CO",USA,United States Of America,FIS,Halfpipe,22,14.40
+73,Foster Lucas,Male,07-12-2015,"Copper Mountain, CO",USA,United States Of America,FIS,Halfpipe,30,6.40
+74,Foster Lucas,Male,12-02-2015,"Mammoth Mountain, CA",USA,United States Of America,FIS,Halfpipe,39,2.26
+75,Foster Lucas,Male,16-12-2014,"Copper Mountain, CO",USA,United States Of America,FIS,Halfpipe,33,6.24

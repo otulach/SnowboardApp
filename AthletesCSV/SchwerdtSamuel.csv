@@ -1,51 +1,53 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Schwerdt Samuel,Male,16-02-2025,Funes/Villnoess,ITA,Germany,Junior Regional Cup,Parallel Giant Slalom,6,56.00
-1,Schwerdt Samuel,Male,15-02-2025,Funes/Villnoess,ITA,Germany,Junior Regional Cup,Parallel Giant Slalom,15,28.80
-2,Schwerdt Samuel,Male,09-02-2025,Santa Cristina Val Gardena,ITA,Germany,FIS,Giant Slalom,9,63.80
-3,Schwerdt Samuel,Male,08-02-2025,Santa Cristina Val Gardena,ITA,Germany,FIS,Giant Slalom,10,57.20
-4,Schwerdt Samuel,Male,02-02-2025,Ratschings,ITA,Germany,European Cup,Parallel Slalom,DSQ,
-5,Schwerdt Samuel,Male,02-02-2025,Ratschings,ITA,Germany,Qualification,Parallel Slalom,DSQ,
-6,Schwerdt Samuel,Male,01-02-2025,Ratschings,ITA,Germany,European Cup,Parallel Slalom,DNS,
-7,Schwerdt Samuel,Male,01-02-2025,Ratschings,ITA,Germany,Qualification,Parallel Slalom,DNS,
-8,Schwerdt Samuel,Male,26-01-2025,Simonhöhe,AUT,Germany,European Cup,Parallel Giant Slalom,56,4.38
-9,Schwerdt Samuel,Male,25-01-2025,Simonhöhe,AUT,Germany,European Cup,Parallel Giant Slalom,39,
-10,Schwerdt Samuel,Male,19-01-2025,Samnaun,SUI,Germany,Junior Regional Cup,Parallel Slalom,11,16.80
-11,Schwerdt Samuel,Male,18-01-2025,Samnaun,SUI,Germany,Junior Regional Cup,Parallel Slalom,4,35.00
-12,Schwerdt Samuel,Male,12-01-2025,Nova Levante - Welschnofen,ITA,Germany,FIS,Parallel Giant Slalom,20,16.50
-13,Schwerdt Samuel,Male,11-01-2025,Folgaria,ITA,Germany,European Cup,Parallel Giant Slalom,12,39.60
-14,Schwerdt Samuel,Male,11-01-2025,Folgaria,ITA,Germany,Qualification,Parallel Giant Slalom,11,
-15,Schwerdt Samuel,Male,10-01-2025,Folgaria,ITA,Germany,Qualification,Parallel Giant Slalom,28,
-16,Schwerdt Samuel,Male,10-01-2025,Folgaria,ITA,Germany,European Cup,Parallel Giant Slalom,28,7.20
-17,Schwerdt Samuel,Male,06-01-2025,Simonhoehe,AUT,Germany,Junior Regional Cup,Parallel Giant Slalom,21,18.00
-18,Schwerdt Samuel,Male,05-01-2025,Simonhoehe,AUT,Germany,Junior Regional Cup,Parallel Giant Slalom,10,46.80
-19,Schwerdt Samuel,Male,22-12-2024,Moninec,CZE,Germany,FIS,Parallel Slalom,DSQ,
-20,Schwerdt Samuel,Male,21-12-2024,Moninec,CZE,Germany,FIS,Parallel Slalom,33,3.84
-21,Schwerdt Samuel,Male,20-12-2024,Moninec,CZE,Germany,European Cup,Parallel Slalom,42,3.22
-22,Schwerdt Samuel,Male,19-12-2024,Moninec,CZE,Germany,European Cup,Parallel Slalom,39,3.76
-23,Schwerdt Samuel,Male,15-12-2024,Götschen,GER,Germany,European Cup,Parallel Slalom,52,3.58
-24,Schwerdt Samuel,Male,14-12-2024,Götschen,GER,Germany,European Cup,Parallel Slalom,37,3.10
-25,Schwerdt Samuel,Male,10-03-2024,Senales - Schnals,ITA,Germany,FIS,Parallel Slalom,19,14.40
-26,Schwerdt Samuel,Male,09-03-2024,Senales - Schnals,ITA,Germany,FIS,Parallel Slalom,14,21.60
-27,Schwerdt Samuel,Male,24-02-2024,Alleghe,ITA,Germany,Junior,Parallel Giant Slalom,26,
-28,Schwerdt Samuel,Male,09-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Slalom,DSQ,
-29,Schwerdt Samuel,Male,08-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Giant Slalom,43,5.10
-30,Schwerdt Samuel,Male,04-02-2024,Haus im Ennstal,AUT,Germany,Junior,Parallel Giant Slalom,DSQ,
-31,Schwerdt Samuel,Male,03-02-2024,Haus im Ennstal,AUT,Germany,Junior,Parallel Giant Slalom,DNF,
-32,Schwerdt Samuel,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Germany,FIS,Parallel Giant Slalom,34,3.52
-33,Schwerdt Samuel,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Germany,FIS,Parallel Giant Slalom,33,3.12
-34,Schwerdt Samuel,Male,14-01-2024,Gosau,AUT,Germany,FIS,Parallel Slalom,14,18.00
-35,Schwerdt Samuel,Male,13-01-2024,Gosau,AUT,Germany,FIS,Parallel Slalom,12,22.00
-36,Schwerdt Samuel,Male,12-01-2024,Folgaria,ITA,Germany,European Cup,Parallel Slalom,25,14.40
-37,Schwerdt Samuel,Male,12-01-2024,Folgaria,ITA,Germany,Qualification,Parallel Slalom,25,
-38,Schwerdt Samuel,Male,11-01-2024,Folgaria,ITA,Germany,European Cup,Parallel Slalom,32,
-39,Schwerdt Samuel,Male,11-01-2024,Folgaria,ITA,Germany,Qualification,Parallel Slalom,32,
-40,Schwerdt Samuel,Male,05-01-2024,Simonhöhe,AUT,Germany,Junior,Parallel Giant Slalom,17,15.40
-41,Schwerdt Samuel,Male,22-12-2023,Moninec,CZE,Germany,Junior,Parallel Slalom,13,14.00
-42,Schwerdt Samuel,Male,21-12-2023,Moninec,CZE,Germany,Junior,Parallel Slalom,DSQ,
-43,Schwerdt Samuel,Male,20-12-2023,Moninec,CZE,Germany,European Cup,Parallel Slalom,59,
-44,Schwerdt Samuel,Male,19-12-2023,Moninec,CZE,Germany,European Cup,Parallel Slalom,50,3.41
-45,Schwerdt Samuel,Male,10-12-2023,Götschen,GER,Germany,Junior,Parallel Slalom,33,3.12
-46,Schwerdt Samuel,Male,09-12-2023,Götschen,GER,Germany,European Cup,Parallel Slalom,DSQ,
-47,Schwerdt Samuel,Male,09-12-2023,Götschen,GER,Germany,Qualification,Parallel Slalom,DSQ,
-48,Schwerdt Samuel,Male,08-12-2023,Götschen,GER,Germany,Qualification,Parallel Slalom,60,
-49,Schwerdt Samuel,Male,08-12-2023,Götschen,GER,Germany,European Cup,Parallel Slalom,60,4.50
+0,Schwerdt Samuel,Male,23-02-2025,Funes - Vilnoessse,ITA,Germany,FIS,Parallel Giant Slalom,15,
+1,Schwerdt Samuel,Male,22-02-2025,Funes - Vilnoessse,ITA,Germany,FIS,Parallel Giant Slalom,14,
+2,Schwerdt Samuel,Male,16-02-2025,Funes/Villnoess,ITA,Germany,Junior Regional Cup,Parallel Giant Slalom,6,56.00
+3,Schwerdt Samuel,Male,15-02-2025,Funes/Villnoess,ITA,Germany,Junior Regional Cup,Parallel Giant Slalom,15,28.80
+4,Schwerdt Samuel,Male,09-02-2025,Santa Cristina Val Gardena,ITA,Germany,FIS,Giant Slalom,9,63.80
+5,Schwerdt Samuel,Male,08-02-2025,Santa Cristina Val Gardena,ITA,Germany,FIS,Giant Slalom,10,57.20
+6,Schwerdt Samuel,Male,02-02-2025,Ratschings,ITA,Germany,European Cup,Parallel Slalom,DSQ,
+7,Schwerdt Samuel,Male,02-02-2025,Ratschings,ITA,Germany,Qualification,Parallel Slalom,DSQ,
+8,Schwerdt Samuel,Male,01-02-2025,Ratschings,ITA,Germany,European Cup,Parallel Slalom,DNS,
+9,Schwerdt Samuel,Male,01-02-2025,Ratschings,ITA,Germany,Qualification,Parallel Slalom,DNS,
+10,Schwerdt Samuel,Male,26-01-2025,Simonhöhe,AUT,Germany,European Cup,Parallel Giant Slalom,56,4.38
+11,Schwerdt Samuel,Male,25-01-2025,Simonhöhe,AUT,Germany,European Cup,Parallel Giant Slalom,39,
+12,Schwerdt Samuel,Male,19-01-2025,Samnaun,SUI,Germany,Junior Regional Cup,Parallel Slalom,11,16.80
+13,Schwerdt Samuel,Male,18-01-2025,Samnaun,SUI,Germany,Junior Regional Cup,Parallel Slalom,4,35.00
+14,Schwerdt Samuel,Male,12-01-2025,Nova Levante - Welschnofen,ITA,Germany,FIS,Parallel Giant Slalom,20,16.50
+15,Schwerdt Samuel,Male,11-01-2025,Folgaria,ITA,Germany,European Cup,Parallel Giant Slalom,12,39.60
+16,Schwerdt Samuel,Male,11-01-2025,Folgaria,ITA,Germany,Qualification,Parallel Giant Slalom,11,
+17,Schwerdt Samuel,Male,10-01-2025,Folgaria,ITA,Germany,Qualification,Parallel Giant Slalom,28,
+18,Schwerdt Samuel,Male,10-01-2025,Folgaria,ITA,Germany,European Cup,Parallel Giant Slalom,28,7.20
+19,Schwerdt Samuel,Male,06-01-2025,Simonhoehe,AUT,Germany,Junior Regional Cup,Parallel Giant Slalom,21,18.00
+20,Schwerdt Samuel,Male,05-01-2025,Simonhoehe,AUT,Germany,Junior Regional Cup,Parallel Giant Slalom,10,46.80
+21,Schwerdt Samuel,Male,22-12-2024,Moninec,CZE,Germany,FIS,Parallel Slalom,DSQ,
+22,Schwerdt Samuel,Male,21-12-2024,Moninec,CZE,Germany,FIS,Parallel Slalom,33,3.84
+23,Schwerdt Samuel,Male,20-12-2024,Moninec,CZE,Germany,European Cup,Parallel Slalom,42,3.22
+24,Schwerdt Samuel,Male,19-12-2024,Moninec,CZE,Germany,European Cup,Parallel Slalom,39,3.76
+25,Schwerdt Samuel,Male,15-12-2024,Götschen,GER,Germany,European Cup,Parallel Slalom,52,3.58
+26,Schwerdt Samuel,Male,14-12-2024,Götschen,GER,Germany,European Cup,Parallel Slalom,37,3.10
+27,Schwerdt Samuel,Male,10-03-2024,Senales - Schnals,ITA,Germany,FIS,Parallel Slalom,19,14.40
+28,Schwerdt Samuel,Male,09-03-2024,Senales - Schnals,ITA,Germany,FIS,Parallel Slalom,14,21.60
+29,Schwerdt Samuel,Male,24-02-2024,Alleghe,ITA,Germany,Junior,Parallel Giant Slalom,26,
+30,Schwerdt Samuel,Male,09-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Slalom,DSQ,
+31,Schwerdt Samuel,Male,08-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Giant Slalom,43,5.10
+32,Schwerdt Samuel,Male,04-02-2024,Haus im Ennstal,AUT,Germany,Junior,Parallel Giant Slalom,DSQ,
+33,Schwerdt Samuel,Male,03-02-2024,Haus im Ennstal,AUT,Germany,Junior,Parallel Giant Slalom,DNF,
+34,Schwerdt Samuel,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Germany,FIS,Parallel Giant Slalom,34,3.52
+35,Schwerdt Samuel,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Germany,FIS,Parallel Giant Slalom,33,3.12
+36,Schwerdt Samuel,Male,14-01-2024,Gosau,AUT,Germany,FIS,Parallel Slalom,14,18.00
+37,Schwerdt Samuel,Male,13-01-2024,Gosau,AUT,Germany,FIS,Parallel Slalom,12,22.00
+38,Schwerdt Samuel,Male,12-01-2024,Folgaria,ITA,Germany,European Cup,Parallel Slalom,25,14.40
+39,Schwerdt Samuel,Male,12-01-2024,Folgaria,ITA,Germany,Qualification,Parallel Slalom,25,
+40,Schwerdt Samuel,Male,11-01-2024,Folgaria,ITA,Germany,European Cup,Parallel Slalom,32,
+41,Schwerdt Samuel,Male,11-01-2024,Folgaria,ITA,Germany,Qualification,Parallel Slalom,32,
+42,Schwerdt Samuel,Male,05-01-2024,Simonhöhe,AUT,Germany,Junior,Parallel Giant Slalom,17,15.40
+43,Schwerdt Samuel,Male,22-12-2023,Moninec,CZE,Germany,Junior,Parallel Slalom,13,14.00
+44,Schwerdt Samuel,Male,21-12-2023,Moninec,CZE,Germany,Junior,Parallel Slalom,DSQ,
+45,Schwerdt Samuel,Male,20-12-2023,Moninec,CZE,Germany,European Cup,Parallel Slalom,59,
+46,Schwerdt Samuel,Male,19-12-2023,Moninec,CZE,Germany,European Cup,Parallel Slalom,50,3.41
+47,Schwerdt Samuel,Male,10-12-2023,Götschen,GER,Germany,Junior,Parallel Slalom,33,3.12
+48,Schwerdt Samuel,Male,09-12-2023,Götschen,GER,Germany,European Cup,Parallel Slalom,DSQ,
+49,Schwerdt Samuel,Male,09-12-2023,Götschen,GER,Germany,Qualification,Parallel Slalom,DSQ,
+50,Schwerdt Samuel,Male,08-12-2023,Götschen,GER,Germany,Qualification,Parallel Slalom,60,
+51,Schwerdt Samuel,Male,08-12-2023,Götschen,GER,Germany,European Cup,Parallel Slalom,60,4.50

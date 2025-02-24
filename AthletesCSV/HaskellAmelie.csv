@@ -1,33 +1,35 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Haskell Amelie,Female,19-02-2025,Calgary,CAN,Australia,Qualification,Halfpipe,19,
-1,Haskell Amelie,Female,11-02-2025,Aspen / Highlands,USA,Australia,Nor-Am Cup Premium,Halfpipe,11,7.50
-2,Haskell Amelie,Female,01-02-2025,Aspen,USA,Australia,World Cup,Halfpipe,13,196.50
-3,Haskell Amelie,Female,30-01-2025,Aspen,USA,Australia,Qualification,Halfpipe,13,
-4,Haskell Amelie,Female,12-01-2025,"Copper Mountain, CO",USA,Australia,Nor-Am Cup,Halfpipe,6,46.70
-5,Haskell Amelie,Female,09-01-2025,"Copper Mountain, CO",USA,Australia,FIS,Halfpipe,9,26.10
-6,Haskell Amelie,Female,20-12-2024,Copper,USA,Australia,World Cup,Halfpipe,35,7.50
-7,Haskell Amelie,Female,18-12-2024,Copper,USA,Australia,Qualification,Halfpipe,18,
-8,Haskell Amelie,Female,03-04-2024,"Copper Mountain, CO",USA,Australia,National Championships,Halfpipe,5,34.10
-9,Haskell Amelie,Female,18-03-2024,"Aspen Snowmass, CO",USA,Australia,Nor-Am Cup,Halfpipe,12,36.40
-10,Haskell Amelie,Female,18-03-2024,"Aspen Snowmass, CO",USA,Australia,Nor-Am Cup Premium,Halfpipe,9,40.00
-11,Haskell Amelie,Female,06-03-2024,Mammoth Mountain Ski Resort,USA,Australia,FIS,Halfpipe,2,40.40
-12,Haskell Amelie,Female,03-02-2024,Mammoth Mountain,USA,Australia,World Cup,Halfpipe,DNS,
-13,Haskell Amelie,Female,01-02-2024,Gangwon/Welli Hilli,KOR,Australia,Youth Olympic Winter Games,Halfpipe,11,21.20
-14,Haskell Amelie,Female,30-01-2024,Mammoth Mountain,USA,Australia,Qualification,Halfpipe,DNS,
-15,Haskell Amelie,Female,25-01-2024,Copper Mountain,USA,Australia,Nor-Am Cup,Halfpipe,18,0.10
-16,Haskell Amelie,Female,10-01-2024,"Copper Mountain, CO",USA,Australia,FIS,Halfpipe,4,27.40
-17,Haskell Amelie,Female,05-04-2023,Copper Mountain Resort,USA,Australia,National Championships,Halfpipe,4,61.40
-18,Haskell Amelie,Female,29-03-2023,Copper Mountain,USA,Australia,Nor-Am Cup,Halfpipe,8,30.70
-19,Haskell Amelie,Female,03-03-2023,Northstar California Resorts,USA,Australia,FIS,Halfpipe,5,17.60
-20,Haskell Amelie,Female,01-03-2023,Northstar California Resorts,USA,Australia,FIS,Slopestyle,10,10.40
-21,Haskell Amelie,Female,16-02-2023,Mammoth Mountain,USA,Australia,FIS,Halfpipe,5,22.90
-22,Haskell Amelie,Female,09-02-2023,"Aspen Snowmass, CO",USA,Australia,Nor-Am Cup,Halfpipe,7,37.30
-23,Haskell Amelie,Female,27-01-2023,Copper Mountain Resort,USA,Australia,Nor-Am Cup,Halfpipe,14,12.50
-24,Haskell Amelie,Female,11-03-2022,Northstar California Resorts,USA,Australia,FIS,Halfpipe,3,26.00
-25,Haskell Amelie,Female,09-03-2022,Northstar California Resorts,USA,Australia,FIS,Slopestyle,9,10.50
-26,Haskell Amelie,Female,28-02-2022,Copper Mountain Resort,USA,Australia,Nor-Am Cup,Halfpipe,11,17.70
-27,Haskell Amelie,Female,27-02-2022,Copper Mountain Resort,USA,Australia,Nor-Am Cup,Halfpipe,10,21.80
-28,Haskell Amelie,Female,03-02-2022,"Park City, UT",USA,Australia,FIS,Halfpipe,2,35.20
-29,Haskell Amelie,Female,02-02-2022,"Park City, UT",USA,Australia,FIS,Slopestyle,8,8.20
-30,Haskell Amelie,Female,21-01-2022,Mammoth Mountain Ski Resort,USA,Australia,FIS,Halfpipe,7,7.50
-31,Haskell Amelie,Female,19-01-2022,Mammoth Mountain Ski Resort,USA,Australia,FIS,Slopestyle,11,8.50
+0,Haskell Amelie,Female,23-02-2025,Winsport Calgary,CAN,Australia,Nor-Am Cup Premium,Halfpipe,5,
+1,Haskell Amelie,Female,21-02-2025,Calgary,CAN,Australia,World Cup,Halfpipe,19,49.00
+2,Haskell Amelie,Female,19-02-2025,Calgary,CAN,Australia,Qualification,Halfpipe,19,
+3,Haskell Amelie,Female,11-02-2025,Aspen / Highlands,USA,Australia,Nor-Am Cup Premium,Halfpipe,11,7.50
+4,Haskell Amelie,Female,01-02-2025,Aspen,USA,Australia,World Cup,Halfpipe,13,196.50
+5,Haskell Amelie,Female,30-01-2025,Aspen,USA,Australia,Qualification,Halfpipe,13,
+6,Haskell Amelie,Female,12-01-2025,"Copper Mountain, CO",USA,Australia,Nor-Am Cup,Halfpipe,6,46.70
+7,Haskell Amelie,Female,09-01-2025,"Copper Mountain, CO",USA,Australia,FIS,Halfpipe,9,26.10
+8,Haskell Amelie,Female,20-12-2024,Copper,USA,Australia,World Cup,Halfpipe,35,7.50
+9,Haskell Amelie,Female,18-12-2024,Copper,USA,Australia,Qualification,Halfpipe,18,
+10,Haskell Amelie,Female,03-04-2024,"Copper Mountain, CO",USA,Australia,National Championships,Halfpipe,5,34.10
+11,Haskell Amelie,Female,18-03-2024,"Aspen Snowmass, CO",USA,Australia,Nor-Am Cup,Halfpipe,12,36.40
+12,Haskell Amelie,Female,18-03-2024,"Aspen Snowmass, CO",USA,Australia,Nor-Am Cup Premium,Halfpipe,9,40.00
+13,Haskell Amelie,Female,06-03-2024,Mammoth Mountain Ski Resort,USA,Australia,FIS,Halfpipe,2,40.40
+14,Haskell Amelie,Female,03-02-2024,Mammoth Mountain,USA,Australia,World Cup,Halfpipe,DNS,
+15,Haskell Amelie,Female,01-02-2024,Gangwon/Welli Hilli,KOR,Australia,Youth Olympic Winter Games,Halfpipe,11,21.20
+16,Haskell Amelie,Female,30-01-2024,Mammoth Mountain,USA,Australia,Qualification,Halfpipe,DNS,
+17,Haskell Amelie,Female,25-01-2024,Copper Mountain,USA,Australia,Nor-Am Cup,Halfpipe,18,0.10
+18,Haskell Amelie,Female,10-01-2024,"Copper Mountain, CO",USA,Australia,FIS,Halfpipe,4,27.40
+19,Haskell Amelie,Female,05-04-2023,Copper Mountain Resort,USA,Australia,National Championships,Halfpipe,4,61.40
+20,Haskell Amelie,Female,29-03-2023,Copper Mountain,USA,Australia,Nor-Am Cup,Halfpipe,8,30.70
+21,Haskell Amelie,Female,03-03-2023,Northstar California Resorts,USA,Australia,FIS,Halfpipe,5,17.60
+22,Haskell Amelie,Female,01-03-2023,Northstar California Resorts,USA,Australia,FIS,Slopestyle,10,10.40
+23,Haskell Amelie,Female,16-02-2023,Mammoth Mountain,USA,Australia,FIS,Halfpipe,5,22.90
+24,Haskell Amelie,Female,09-02-2023,"Aspen Snowmass, CO",USA,Australia,Nor-Am Cup,Halfpipe,7,37.30
+25,Haskell Amelie,Female,27-01-2023,Copper Mountain Resort,USA,Australia,Nor-Am Cup,Halfpipe,14,12.50
+26,Haskell Amelie,Female,11-03-2022,Northstar California Resorts,USA,Australia,FIS,Halfpipe,3,26.00
+27,Haskell Amelie,Female,09-03-2022,Northstar California Resorts,USA,Australia,FIS,Slopestyle,9,10.50
+28,Haskell Amelie,Female,28-02-2022,Copper Mountain Resort,USA,Australia,Nor-Am Cup,Halfpipe,11,17.70
+29,Haskell Amelie,Female,27-02-2022,Copper Mountain Resort,USA,Australia,Nor-Am Cup,Halfpipe,10,21.80
+30,Haskell Amelie,Female,03-02-2022,"Park City, UT",USA,Australia,FIS,Halfpipe,2,35.20
+31,Haskell Amelie,Female,02-02-2022,"Park City, UT",USA,Australia,FIS,Slopestyle,8,8.20
+32,Haskell Amelie,Female,21-01-2022,Mammoth Mountain Ski Resort,USA,Australia,FIS,Halfpipe,7,7.50
+33,Haskell Amelie,Female,19-01-2022,Mammoth Mountain Ski Resort,USA,Australia,FIS,Slopestyle,11,8.50

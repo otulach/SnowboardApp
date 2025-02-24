@@ -1,89 +1,90 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Leicht Felicie,Female,15-02-2025,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,32,
-1,Leicht Felicie,Female,15-02-2025,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,32,
-2,Leicht Felicie,Female,09-02-2025,Reiteralm,AUT,France,European Cup,Snowboard Cross,1,260.00
-3,Leicht Felicie,Female,08-02-2025,Reiteralm,AUT,France,European Cup,Snowboard Cross,1,260.00
-4,Leicht Felicie,Female,02-02-2025,St. Lary,FRA,France,National Championships,Snowboard Cross,DNS,
-5,Leicht Felicie,Female,31-01-2025,St. Lary,FRA,France,European Cup,Snowboard Cross,9,75.40
-6,Leicht Felicie,Female,24-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,6,104.00
-7,Leicht Felicie,Female,23-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,4,180.00
-8,Leicht Felicie,Female,14-12-2024,Cervinia,ITA,France,World Cup,Snowboard Cross,19,120.00
-9,Leicht Felicie,Female,13-12-2024,Cervinia,ITA,France,Qualification,Snowboard Cross,19,
-10,Leicht Felicie,Female,01-12-2024,Pitztal,AUT,France,Junior,Snowboard Cross,4,110.00
-11,Leicht Felicie,Female,30-11-2024,Pitztal,AUT,France,Qualification,Snowboard Cross,9,
-12,Leicht Felicie,Female,30-11-2024,Pitztal,AUT,France,Junior,Snowboard Cross,4,110.00
-13,Leicht Felicie,Female,27-11-2024,Pitztal,AUT,France,Qualification,Snowboard Cross,15,
+0,Leicht Felicie,Female,22-02-2025,Colere,ITA,France,FIS,Snowboard Cross,DNS,
+1,Leicht Felicie,Female,15-02-2025,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,32,
+2,Leicht Felicie,Female,15-02-2025,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,32,
+3,Leicht Felicie,Female,09-02-2025,Reiteralm,AUT,France,European Cup,Snowboard Cross,1,260.00
+4,Leicht Felicie,Female,08-02-2025,Reiteralm,AUT,France,European Cup,Snowboard Cross,1,260.00
+5,Leicht Felicie,Female,02-02-2025,St. Lary,FRA,France,National Championships,Snowboard Cross,DNS,
+6,Leicht Felicie,Female,31-01-2025,St. Lary,FRA,France,European Cup,Snowboard Cross,9,75.40
+7,Leicht Felicie,Female,24-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,6,104.00
+8,Leicht Felicie,Female,23-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,4,180.00
+9,Leicht Felicie,Female,14-12-2024,Cervinia,ITA,France,World Cup,Snowboard Cross,19,120.00
+10,Leicht Felicie,Female,13-12-2024,Cervinia,ITA,France,Qualification,Snowboard Cross,19,
+11,Leicht Felicie,Female,01-12-2024,Pitztal,AUT,France,Junior,Snowboard Cross,4,110.00
+12,Leicht Felicie,Female,30-11-2024,Pitztal,AUT,France,Qualification,Snowboard Cross,9,
+13,Leicht Felicie,Female,30-11-2024,Pitztal,AUT,France,Junior,Snowboard Cross,4,110.00
 14,Leicht Felicie,Female,27-11-2024,Pitztal,AUT,France,European Cup,Snowboard Cross,6,144.00
-15,Leicht Felicie,Female,06-04-2024,Gudauri,GEO,France,FIS Junior World Championships,Snowboard Cross,10,93.60
-16,Leicht Felicie,Female,05-04-2024,Gudauri,GEO,France,Qualification,Snowboard Cross,10,
-17,Leicht Felicie,Female,30-03-2024,Orcieres Merlette,FRA,France,National Championships,Snowboard Cross,5,130.50
-18,Leicht Felicie,Female,22-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,12,70.40
-19,Leicht Felicie,Female,21-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,6,128.00
-20,Leicht Felicie,Female,14-03-2024,Isola 2000,FRA,France,European Cup,Snowboard Cross,8,92.80
-21,Leicht Felicie,Female,13-03-2024,Isola 2000,FRA,France,European Cup,Snowboard Cross,6,116.00
-22,Leicht Felicie,Female,11-03-2024,Isola 2000,FRA,France,Junior,Snowboard Cross,2,176.00
-23,Leicht Felicie,Female,09-03-2024,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,24,70.00
-24,Leicht Felicie,Female,08-03-2024,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,24,
-25,Leicht Felicie,Female,03-03-2024,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,24,70.00
-26,Leicht Felicie,Female,02-03-2024,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,22,90.00
-27,Leicht Felicie,Female,01-03-2024,Sierra Nevada,ESP,France,Qualification,Snowboard Cross,22,
-28,Leicht Felicie,Female,24-02-2024,Grasgehren,GER,France,European Cup,Snowboard Cross,2,256.00
-29,Leicht Felicie,Female,17-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,4,180.00
-30,Leicht Felicie,Female,16-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,12,79.20
-31,Leicht Felicie,Female,06-02-2024,Reiteralm,AUT,France,European Cup,Snowboard Cross,2,232.00
-32,Leicht Felicie,Female,05-02-2024,Reiteralm,AUT,France,European Cup,Snowboard Cross,2,232.00
-33,Leicht Felicie,Female,01-02-2024,Dolni Morava,CZE,France,European Cup,Snowboard Cross,3,174.00
-34,Leicht Felicie,Female,31-01-2024,Dolni Morava,CZE,France,European Cup,Snowboard Cross,3,174.00
-35,Leicht Felicie,Female,28-01-2024,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,1,260.00
-36,Leicht Felicie,Female,27-01-2024,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,5,144.00
-37,Leicht Felicie,Female,20-01-2024,Montafon,AUT,France,National Championships,Snowboard Cross,10,75.40
-38,Leicht Felicie,Female,16-12-2023,Cervinia,ITA,France,World Cup,Snowboard Cross,20,110.00
-39,Leicht Felicie,Female,09-12-2023,Pitztal,AUT,France,FIS,Snowboard Cross,2,144.00
-40,Leicht Felicie,Female,03-12-2023,Les Deux Alpes,FRA,France,World Cup,Snowboard Cross,24,70.00
-41,Leicht Felicie,Female,03-12-2023,Les Deux Alpes,FRA,France,Qualification,Snowboard Cross,24,
-42,Leicht Felicie,Female,08-04-2023,Chamonix,FRA,France,National Championships,Snowboard Cross,3,174.00
-43,Leicht Felicie,Female,31-03-2023,Passo San Pellegrino,ITA,France,FIS Junior World Championships,Snowboard Cross Team,5,
-44,Leicht Felicie,Female,30-03-2023,Passo San Pellegrino,ITA,France,FIS Junior World Championships,Snowboard Cross,5,162.00
-45,Leicht Felicie,Female,23-03-2023,Gargellen,AUT,France,European Cup,Snowboard Cross,1,180.00
-46,Leicht Felicie,Female,22-03-2023,Gargellen,AUT,France,European Cup,Snowboard Cross,2,144.00
-47,Leicht Felicie,Female,19-03-2023,Passo San Pellegrino,ITA,France,FIS,Snowboard Cross,4,75.00
-48,Leicht Felicie,Female,18-03-2023,Passo San Pellegrino,ITA,France,FIS,Snowboard Cross,3,96.00
-49,Leicht Felicie,Female,12-03-2023,Lenk,SUI,France,FIS,Snowboard Cross,1,120.00
-50,Leicht Felicie,Female,19-02-2023,Flumserberg,SUI,France,Junior,Snowboard Cross,1,100.00
-51,Leicht Felicie,Female,18-02-2023,Flumserberg,SUI,France,Junior,Snowboard Cross,2,80.00
-52,Leicht Felicie,Female,16-02-2023,Moena - Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,9,92.80
-53,Leicht Felicie,Female,15-02-2023,Moena - Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,16,48.00
-54,Leicht Felicie,Female,08-02-2023,Cervinia,ITA,France,Junior,Snowboard Cross,6,60.00
-55,Leicht Felicie,Female,07-02-2023,Cervinia,ITA,France,Junior,Snowboard Cross,2,120.00
-56,Leicht Felicie,Female,26-01-2023,Piancavallo,ITA,France,European Youth Olympic Festival,Snowboard Cross,1,140.00
-57,Leicht Felicie,Female,22-01-2023,Puy St.Vincent,FRA,France,European Cup,Snowboard Cross,13,72.00
-58,Leicht Felicie,Female,21-01-2023,Puy St.Vincent,FRA,France,European Cup,Snowboard Cross,6,144.00
-59,Leicht Felicie,Female,15-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,18,46.80
-60,Leicht Felicie,Female,14-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,20,39.60
-61,Leicht Felicie,Female,08-01-2023,Isola 2000,FRA,France,Junior,Snowboard Cross,5,99.00
-62,Leicht Felicie,Female,07-01-2023,Isola 2000,FRA,France,European Cup,Snowboard Cross,6,104.00
-63,Leicht Felicie,Female,06-01-2023,Isola 2000,FRA,France,European Cup,Snowboard Cross,6,104.00
-64,Leicht Felicie,Female,04-12-2022,Les Deux Alpes,FRA,France,World Cup,Snowboard Cross,26,50.00
-65,Leicht Felicie,Female,02-12-2022,Les Deux Alpes,FRA,France,Qualification,Snowboard Cross,26,
-66,Leicht Felicie,Female,24-11-2022,Pitztal,AUT,France,Qualification,Snowboard Cross,25,
-67,Leicht Felicie,Female,24-11-2022,Pitztal,AUT,France,European Cup,Snowboard Cross,25,14.40
-68,Leicht Felicie,Female,08-04-2022,Isola 2000,FRA,France,National Championships,Snowboard Cross,6,116.00
-69,Leicht Felicie,Female,31-03-2022,Veysonnaz,SUI,France,FIS Junior World Championships,Snowboard Cross,9,69.60
-70,Leicht Felicie,Female,26-03-2022,Lenk,SUI,France,European Cup,Snowboard Cross,10,75.40
-71,Leicht Felicie,Female,25-03-2022,Lenk,SUI,France,European Cup,Snowboard Cross,19,34.80
-72,Leicht Felicie,Female,20-03-2022,Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,3,78.00
-73,Leicht Felicie,Female,19-03-2022,Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,3,90.00
-74,Leicht Felicie,Female,04-03-2022,Pitztal,AUT,France,Junior,Snowboard Cross,9,40.60
-75,Leicht Felicie,Female,03-03-2022,Pitztal,AUT,France,European Cup,Snowboard Cross,13,58.00
-76,Leicht Felicie,Female,02-03-2022,Pitztal,AUT,France,European Cup,Snowboard Cross,17,44.80
-77,Leicht Felicie,Female,26-02-2022,Grasgehren,GER,France,European Cup,Snowboard Cross,14,46.80
-78,Leicht Felicie,Female,13-02-2022,Grasgehren,GER,France,Junior,Snowboard Cross,3,72.00
-79,Leicht Felicie,Female,12-02-2022,Grasgehren,GER,France,Junior,Snowboard Cross,7,43.20
-80,Leicht Felicie,Female,06-02-2022,Dolni Morava,CZE,France,FIS,Snowboard Cross,4,65.00
-81,Leicht Felicie,Female,05-02-2022,Dolni Morava,CZE,France,FIS,Snowboard Cross,2,104.00
-82,Leicht Felicie,Female,03-02-2022,Dolni Morava,CZE,France,European Cup,Snowboard Cross,14,39.60
-83,Leicht Felicie,Female,02-02-2022,Dolni Morava,CZE,France,European Cup,Snowboard Cross,8,70.40
-84,Leicht Felicie,Female,23-01-2022,Reiteralm,AUT,France,European Cup,Snowboard Cross,13,44.00
-85,Leicht Felicie,Female,15-12-2021,Reiteralm,AUT,France,Junior,Snowboard Cross,17,15.40
-86,Leicht Felicie,Female,14-12-2021,Reiteralm,AUT,France,FIS,Snowboard Cross,13,28.00
-87,Leicht Felicie,Female,13-12-2021,Reiteralm,AUT,France,FIS,Snowboard Cross,11,38.40
+15,Leicht Felicie,Female,27-11-2024,Pitztal,AUT,France,Qualification,Snowboard Cross,15,
+16,Leicht Felicie,Female,06-04-2024,Gudauri,GEO,France,FIS Junior World Championships,Snowboard Cross,10,93.60
+17,Leicht Felicie,Female,05-04-2024,Gudauri,GEO,France,Qualification,Snowboard Cross,10,
+18,Leicht Felicie,Female,30-03-2024,Orcieres Merlette,FRA,France,National Championships,Snowboard Cross,5,130.50
+19,Leicht Felicie,Female,22-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,12,70.40
+20,Leicht Felicie,Female,21-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,6,128.00
+21,Leicht Felicie,Female,14-03-2024,Isola 2000,FRA,France,European Cup,Snowboard Cross,8,92.80
+22,Leicht Felicie,Female,13-03-2024,Isola 2000,FRA,France,European Cup,Snowboard Cross,6,116.00
+23,Leicht Felicie,Female,11-03-2024,Isola 2000,FRA,France,Junior,Snowboard Cross,2,176.00
+24,Leicht Felicie,Female,09-03-2024,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,24,70.00
+25,Leicht Felicie,Female,08-03-2024,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,24,
+26,Leicht Felicie,Female,03-03-2024,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,24,70.00
+27,Leicht Felicie,Female,02-03-2024,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,22,90.00
+28,Leicht Felicie,Female,01-03-2024,Sierra Nevada,ESP,France,Qualification,Snowboard Cross,22,
+29,Leicht Felicie,Female,24-02-2024,Grasgehren,GER,France,European Cup,Snowboard Cross,2,256.00
+30,Leicht Felicie,Female,17-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,4,180.00
+31,Leicht Felicie,Female,16-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,12,79.20
+32,Leicht Felicie,Female,06-02-2024,Reiteralm,AUT,France,European Cup,Snowboard Cross,2,232.00
+33,Leicht Felicie,Female,05-02-2024,Reiteralm,AUT,France,European Cup,Snowboard Cross,2,232.00
+34,Leicht Felicie,Female,01-02-2024,Dolni Morava,CZE,France,European Cup,Snowboard Cross,3,174.00
+35,Leicht Felicie,Female,31-01-2024,Dolni Morava,CZE,France,European Cup,Snowboard Cross,3,174.00
+36,Leicht Felicie,Female,28-01-2024,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,1,260.00
+37,Leicht Felicie,Female,27-01-2024,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,5,144.00
+38,Leicht Felicie,Female,20-01-2024,Montafon,AUT,France,National Championships,Snowboard Cross,10,75.40
+39,Leicht Felicie,Female,16-12-2023,Cervinia,ITA,France,World Cup,Snowboard Cross,20,110.00
+40,Leicht Felicie,Female,09-12-2023,Pitztal,AUT,France,FIS,Snowboard Cross,2,144.00
+41,Leicht Felicie,Female,03-12-2023,Les Deux Alpes,FRA,France,World Cup,Snowboard Cross,24,70.00
+42,Leicht Felicie,Female,03-12-2023,Les Deux Alpes,FRA,France,Qualification,Snowboard Cross,24,
+43,Leicht Felicie,Female,08-04-2023,Chamonix,FRA,France,National Championships,Snowboard Cross,3,174.00
+44,Leicht Felicie,Female,31-03-2023,Passo San Pellegrino,ITA,France,FIS Junior World Championships,Snowboard Cross Team,5,
+45,Leicht Felicie,Female,30-03-2023,Passo San Pellegrino,ITA,France,FIS Junior World Championships,Snowboard Cross,5,162.00
+46,Leicht Felicie,Female,23-03-2023,Gargellen,AUT,France,European Cup,Snowboard Cross,1,180.00
+47,Leicht Felicie,Female,22-03-2023,Gargellen,AUT,France,European Cup,Snowboard Cross,2,144.00
+48,Leicht Felicie,Female,19-03-2023,Passo San Pellegrino,ITA,France,FIS,Snowboard Cross,4,75.00
+49,Leicht Felicie,Female,18-03-2023,Passo San Pellegrino,ITA,France,FIS,Snowboard Cross,3,96.00
+50,Leicht Felicie,Female,12-03-2023,Lenk,SUI,France,FIS,Snowboard Cross,1,120.00
+51,Leicht Felicie,Female,19-02-2023,Flumserberg,SUI,France,Junior,Snowboard Cross,1,100.00
+52,Leicht Felicie,Female,18-02-2023,Flumserberg,SUI,France,Junior,Snowboard Cross,2,80.00
+53,Leicht Felicie,Female,16-02-2023,Moena - Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,9,92.80
+54,Leicht Felicie,Female,15-02-2023,Moena - Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,16,48.00
+55,Leicht Felicie,Female,08-02-2023,Cervinia,ITA,France,Junior,Snowboard Cross,6,60.00
+56,Leicht Felicie,Female,07-02-2023,Cervinia,ITA,France,Junior,Snowboard Cross,2,120.00
+57,Leicht Felicie,Female,26-01-2023,Piancavallo,ITA,France,European Youth Olympic Festival,Snowboard Cross,1,140.00
+58,Leicht Felicie,Female,22-01-2023,Puy St.Vincent,FRA,France,European Cup,Snowboard Cross,13,72.00
+59,Leicht Felicie,Female,21-01-2023,Puy St.Vincent,FRA,France,European Cup,Snowboard Cross,6,144.00
+60,Leicht Felicie,Female,15-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,18,46.80
+61,Leicht Felicie,Female,14-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,20,39.60
+62,Leicht Felicie,Female,08-01-2023,Isola 2000,FRA,France,Junior,Snowboard Cross,5,99.00
+63,Leicht Felicie,Female,07-01-2023,Isola 2000,FRA,France,European Cup,Snowboard Cross,6,104.00
+64,Leicht Felicie,Female,06-01-2023,Isola 2000,FRA,France,European Cup,Snowboard Cross,6,104.00
+65,Leicht Felicie,Female,04-12-2022,Les Deux Alpes,FRA,France,World Cup,Snowboard Cross,26,50.00
+66,Leicht Felicie,Female,02-12-2022,Les Deux Alpes,FRA,France,Qualification,Snowboard Cross,26,
+67,Leicht Felicie,Female,24-11-2022,Pitztal,AUT,France,Qualification,Snowboard Cross,25,
+68,Leicht Felicie,Female,24-11-2022,Pitztal,AUT,France,European Cup,Snowboard Cross,25,14.40
+69,Leicht Felicie,Female,08-04-2022,Isola 2000,FRA,France,National Championships,Snowboard Cross,6,116.00
+70,Leicht Felicie,Female,31-03-2022,Veysonnaz,SUI,France,FIS Junior World Championships,Snowboard Cross,9,69.60
+71,Leicht Felicie,Female,26-03-2022,Lenk,SUI,France,European Cup,Snowboard Cross,10,75.40
+72,Leicht Felicie,Female,25-03-2022,Lenk,SUI,France,European Cup,Snowboard Cross,19,34.80
+73,Leicht Felicie,Female,20-03-2022,Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,3,78.00
+74,Leicht Felicie,Female,19-03-2022,Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,3,90.00
+75,Leicht Felicie,Female,04-03-2022,Pitztal,AUT,France,Junior,Snowboard Cross,9,40.60
+76,Leicht Felicie,Female,03-03-2022,Pitztal,AUT,France,European Cup,Snowboard Cross,13,58.00
+77,Leicht Felicie,Female,02-03-2022,Pitztal,AUT,France,European Cup,Snowboard Cross,17,44.80
+78,Leicht Felicie,Female,26-02-2022,Grasgehren,GER,France,European Cup,Snowboard Cross,14,46.80
+79,Leicht Felicie,Female,13-02-2022,Grasgehren,GER,France,Junior,Snowboard Cross,3,72.00
+80,Leicht Felicie,Female,12-02-2022,Grasgehren,GER,France,Junior,Snowboard Cross,7,43.20
+81,Leicht Felicie,Female,06-02-2022,Dolni Morava,CZE,France,FIS,Snowboard Cross,4,65.00
+82,Leicht Felicie,Female,05-02-2022,Dolni Morava,CZE,France,FIS,Snowboard Cross,2,104.00
+83,Leicht Felicie,Female,03-02-2022,Dolni Morava,CZE,France,European Cup,Snowboard Cross,14,39.60
+84,Leicht Felicie,Female,02-02-2022,Dolni Morava,CZE,France,European Cup,Snowboard Cross,8,70.40
+85,Leicht Felicie,Female,23-01-2022,Reiteralm,AUT,France,European Cup,Snowboard Cross,13,44.00
+86,Leicht Felicie,Female,15-12-2021,Reiteralm,AUT,France,Junior,Snowboard Cross,17,15.40
+87,Leicht Felicie,Female,14-12-2021,Reiteralm,AUT,France,FIS,Snowboard Cross,13,28.00
+88,Leicht Felicie,Female,13-12-2021,Reiteralm,AUT,France,FIS,Snowboard Cross,11,38.40

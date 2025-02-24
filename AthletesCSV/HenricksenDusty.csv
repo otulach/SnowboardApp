@@ -1,81 +1,82 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Henricksen Dusty,Male,20-02-2025,Calgary,CAN,United States Of America,Qualification,Slopestyle,2,
-1,Henricksen Dusty,Male,06-02-2025,Aspen,USA,United States Of America,World Cup,Big Air,20,159.70
-2,Henricksen Dusty,Male,05-02-2025,Aspen,USA,United States Of America,Qualification,Big Air,11,
-3,Henricksen Dusty,Male,02-02-2025,Aspen,USA,United States Of America,World Cup,Slopestyle,18,183.50
-4,Henricksen Dusty,Male,31-01-2025,Aspen,USA,United States Of America,Qualification,Slopestyle,10,
-5,Henricksen Dusty,Male,18-01-2025,Laax,SUI,United States Of America,World Cup,Slopestyle,11,269.30
-6,Henricksen Dusty,Male,16-01-2025,Laax,SUI,United States Of America,Qualification,Slopestyle,4,
-7,Henricksen Dusty,Male,11-01-2025,Kreischberg,AUT,United States Of America,Qualification,Big Air,11,
-8,Henricksen Dusty,Male,11-01-2025,Kreischberg,AUT,United States Of America,World Cup,Big Air,24,146.00
-9,Henricksen Dusty,Male,05-01-2025,Klagenfurt,AUT,United States Of America,World Cup,Big Air,17,176.90
-10,Henricksen Dusty,Male,05-01-2025,Klagenfurt,AUT,United States Of America,Qualification,Big Air,7,
-11,Henricksen Dusty,Male,02-09-2024,Cardrona,NZL,United States Of America,World Cup,Slopestyle,DNS,
-12,Henricksen Dusty,Male,31-08-2024,Cardrona,NZL,United States Of America,Qualification,Slopestyle,DNS,
-13,Henricksen Dusty,Male,26-03-2023,Silvaplana,SUI,United States Of America,World Cup,Slopestyle,7,309.90
-14,Henricksen Dusty,Male,25-03-2023,Silvaplana,SUI,United States Of America,Qualification,Slopestyle,4,
-15,Henricksen Dusty,Male,12-02-2023,Calgary,CAN,United States Of America,World Cup,Slopestyle,2,662.20
-16,Henricksen Dusty,Male,10-02-2023,Calgary,CAN,United States Of America,Qualification,Slopestyle,2,
-17,Henricksen Dusty,Male,04-02-2023,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,1,800.00
-18,Henricksen Dusty,Male,01-02-2023,Mammoth Mountain,USA,United States Of America,Qualification,Slopestyle,1,
-19,Henricksen Dusty,Male,22-01-2023,Laax,SUI,United States Of America,World Cup,Slopestyle,2,829.70
-20,Henricksen Dusty,Male,18-01-2023,Laax,SUI,United States Of America,Qualification,Slopestyle,1,
-21,Henricksen Dusty,Male,14-01-2023,Kreischberg,AUT,United States Of America,World Cup,Big Air,10,223.30
-22,Henricksen Dusty,Male,13-01-2023,Kreischberg,AUT,United States Of America,Qualification,Big Air,2,
-23,Henricksen Dusty,Male,17-12-2022,Copper Mountain,USA,United States Of America,World Cup,Big Air,21,130.10
-24,Henricksen Dusty,Male,15-12-2022,Copper Mountain,USA,United States Of America,Qualification,Big Air,8,
-25,Henricksen Dusty,Male,27-03-2022,Silvaplana,SUI,United States Of America,World Cup,Slopestyle,9,248.60
-26,Henricksen Dusty,Male,25-03-2022,Silvaplana,SUI,United States Of America,Qualification,Slopestyle,2,
-27,Henricksen Dusty,Male,19-03-2022,Spindleruv Mlyn,CZE,United States Of America,World Cup,Slopestyle,9,181.00
-28,Henricksen Dusty,Male,18-03-2022,Spindleruv Mlyn,CZE,United States Of America,Qualification,Slopestyle,1,
-29,Henricksen Dusty,Male,15-02-2022,Beijing,CHN,United States Of America,Olympic Winter Games,Big Air,21,76.30
-30,Henricksen Dusty,Male,14-02-2022,Beijing,CHN,United States Of America,Qualification,Big Air,21,
-31,Henricksen Dusty,Male,07-02-2022,Beijing,CHN,United States Of America,Olympic Winter Games,Slopestyle,17,125.80
-32,Henricksen Dusty,Male,06-02-2022,Beijing,CHN,United States Of America,Qualification,Slopestyle,17,
-33,Henricksen Dusty,Male,08-01-2022,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,10,282.30
-34,Henricksen Dusty,Male,04-12-2021,Steamboat,USA,United States Of America,World Cup,Big Air,22,166.50
-35,Henricksen Dusty,Male,02-12-2021,Steamboat,USA,United States Of America,Qualification,Big Air,13,
-36,Henricksen Dusty,Male,28-03-2021,Silvaplana,SUI,United States Of America,World Cup,Slopestyle,5,508.97
-37,Henricksen Dusty,Male,28-03-2021,Silvaplana,SUI,United States Of America,Qualification,Slopestyle,3,
-38,Henricksen Dusty,Male,20-03-2021,Aspen,USA,United States Of America,World Cup,Slopestyle,5,509.25
-39,Henricksen Dusty,Male,19-03-2021,Aspen,USA,United States Of America,Qualification,Slopestyle,3,
-40,Henricksen Dusty,Male,16-03-2021,Aspen,USA,United States Of America,World Championships,Big Air,21,132.66
-41,Henricksen Dusty,Male,14-03-2021,Aspen,USA,United States Of America,Qualification,Big Air,10,
-42,Henricksen Dusty,Male,12-03-2021,Aspen,USA,United States Of America,World Championships,Slopestyle,7,389.06
-43,Henricksen Dusty,Male,10-03-2021,Aspen,USA,United States Of America,Qualification,Slopestyle,3,
-44,Henricksen Dusty,Male,09-01-2021,Kreischberg,AUT,United States Of America,World Cup,Big Air,33,117.00
-45,Henricksen Dusty,Male,09-01-2021,Kreischberg,AUT,United States Of America,Qualification,Big Air,19,
-46,Henricksen Dusty,Male,05-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Big Air,2,128.00
-47,Henricksen Dusty,Male,03-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Slopestyle,1,360.00
-48,Henricksen Dusty,Male,02-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Slopestyle,6,144.00
-49,Henricksen Dusty,Male,16-02-2020,Calgary,CAN,United States Of America,World Cup,Slopestyle,DNS,
-50,Henricksen Dusty,Male,14-02-2020,Calgary,CAN,United States Of America,Qualification,Slopestyle,DNS,
-51,Henricksen Dusty,Male,09-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Big Air,DNS,
-52,Henricksen Dusty,Male,07-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,1,240.00
-53,Henricksen Dusty,Male,01-02-2020,Mammoth Mountain Resort,USA,United States Of America,World Cup,Slopestyle,1,1000.00
-54,Henricksen Dusty,Male,30-01-2020,Mammoth Mountain Resort,USA,United States Of America,Qualification,Slopestyle,1,
-55,Henricksen Dusty,Male,22-01-2020,Leysin,SUI,United States Of America,Qualification,Big Air,2,
-56,Henricksen Dusty,Male,22-01-2020,Leysin,SUI,United States Of America,Youth Olympic Winter Games,Big Air,4,100.00
-57,Henricksen Dusty,Male,20-01-2020,Leysin,SUI,United States Of America,Youth Olympic Winter Games,Slopestyle,1,180.00
-58,Henricksen Dusty,Male,15-01-2020,Laax,SUI,United States Of America,World Cup,Slopestyle,9,290.00
-59,Henricksen Dusty,Male,13-01-2020,Laax,SUI,United States Of America,Qualification,Slopestyle,1,
-60,Henricksen Dusty,Male,20-12-2019,Atlanta,USA,United States Of America,World Cup,Big Air,17,140.00
-61,Henricksen Dusty,Male,02-11-2019,Modena SKIPASS,ITA,United States Of America,World Cup,Big Air,23,80.00
-62,Henricksen Dusty,Male,13-04-2019,Klaeppen,SWE,United States Of America,FIS Junior World Championships,Big Air,30,7.68
-63,Henricksen Dusty,Male,12-04-2019,Klaeppen,SWE,United States Of America,Qualification,Big Air,10,
-64,Henricksen Dusty,Male,09-04-2019,Klaeppen,SWE,United States Of America,FIS Junior World Championships,Slopestyle,6,96.00
-65,Henricksen Dusty,Male,08-04-2019,Klaeppen,SWE,United States Of America,Qualification,Slopestyle,1,
-66,Henricksen Dusty,Male,13-03-2019,"Mammoth Mountain, CA",USA,United States Of America,Nor-Am Cup,Slopestyle,7,64.80
-67,Henricksen Dusty,Male,09-03-2019,Mammoth Mountain Resort,USA,United States Of America,World Cup,Slopestyle,29,36.00
-68,Henricksen Dusty,Male,07-03-2019,Mammoth Mountain Resort,USA,United States Of America,Qualification,Slopestyle,12,
-69,Henricksen Dusty,Male,13-02-2019,"Copper Mountain, CO",USA,United States Of America,FIS,Slopestyle,5,45.00
-70,Henricksen Dusty,Male,07-02-2019,Mount St-Louis Moonstone,CAN,United States Of America,Nor-Am Cup,Slopestyle,2,128.00
-71,Henricksen Dusty,Male,24-01-2019,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Big Air,4,80.00
-72,Henricksen Dusty,Male,23-01-2019,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,8,51.20
-73,Henricksen Dusty,Male,15-01-2019,Waterville Valley Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,3,96.00
-74,Henricksen Dusty,Male,14-01-2019,Waterville Valley Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,2,128.00
-75,Henricksen Dusty,Male,13-02-2018,Waterville Valley Resort,USA,United States Of America,FIS,Slopestyle,13,26.00
-76,Henricksen Dusty,Male,12-02-2018,Waterville Valley Resort,USA,United States Of America,FIS,Slopestyle,17,16.80
-77,Henricksen Dusty,Male,12-02-2017,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Slopestyle,15,28.80
-78,Henricksen Dusty,Male,11-02-2017,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Halfpipe,13,36.00
-79,Henricksen Dusty,Male,08-12-2016,Copper Mountain Resort,USA,United States Of America,FIS,Halfpipe,58,
+0,Henricksen Dusty,Male,22-02-2025,Calgary,CAN,United States Of America,World Cup,Slopestyle,5,508.40
+1,Henricksen Dusty,Male,20-02-2025,Calgary,CAN,United States Of America,Qualification,Slopestyle,2,
+2,Henricksen Dusty,Male,06-02-2025,Aspen,USA,United States Of America,World Cup,Big Air,20,159.70
+3,Henricksen Dusty,Male,05-02-2025,Aspen,USA,United States Of America,Qualification,Big Air,11,
+4,Henricksen Dusty,Male,02-02-2025,Aspen,USA,United States Of America,World Cup,Slopestyle,18,183.50
+5,Henricksen Dusty,Male,31-01-2025,Aspen,USA,United States Of America,Qualification,Slopestyle,10,
+6,Henricksen Dusty,Male,18-01-2025,Laax,SUI,United States Of America,World Cup,Slopestyle,11,269.30
+7,Henricksen Dusty,Male,16-01-2025,Laax,SUI,United States Of America,Qualification,Slopestyle,4,
+8,Henricksen Dusty,Male,11-01-2025,Kreischberg,AUT,United States Of America,Qualification,Big Air,11,
+9,Henricksen Dusty,Male,11-01-2025,Kreischberg,AUT,United States Of America,World Cup,Big Air,24,146.00
+10,Henricksen Dusty,Male,05-01-2025,Klagenfurt,AUT,United States Of America,World Cup,Big Air,17,176.90
+11,Henricksen Dusty,Male,05-01-2025,Klagenfurt,AUT,United States Of America,Qualification,Big Air,7,
+12,Henricksen Dusty,Male,02-09-2024,Cardrona,NZL,United States Of America,World Cup,Slopestyle,DNS,
+13,Henricksen Dusty,Male,31-08-2024,Cardrona,NZL,United States Of America,Qualification,Slopestyle,DNS,
+14,Henricksen Dusty,Male,26-03-2023,Silvaplana,SUI,United States Of America,World Cup,Slopestyle,7,309.90
+15,Henricksen Dusty,Male,25-03-2023,Silvaplana,SUI,United States Of America,Qualification,Slopestyle,4,
+16,Henricksen Dusty,Male,12-02-2023,Calgary,CAN,United States Of America,World Cup,Slopestyle,2,662.20
+17,Henricksen Dusty,Male,10-02-2023,Calgary,CAN,United States Of America,Qualification,Slopestyle,2,
+18,Henricksen Dusty,Male,04-02-2023,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,1,800.00
+19,Henricksen Dusty,Male,01-02-2023,Mammoth Mountain,USA,United States Of America,Qualification,Slopestyle,1,
+20,Henricksen Dusty,Male,22-01-2023,Laax,SUI,United States Of America,World Cup,Slopestyle,2,829.70
+21,Henricksen Dusty,Male,18-01-2023,Laax,SUI,United States Of America,Qualification,Slopestyle,1,
+22,Henricksen Dusty,Male,14-01-2023,Kreischberg,AUT,United States Of America,World Cup,Big Air,10,223.30
+23,Henricksen Dusty,Male,13-01-2023,Kreischberg,AUT,United States Of America,Qualification,Big Air,2,
+24,Henricksen Dusty,Male,17-12-2022,Copper Mountain,USA,United States Of America,World Cup,Big Air,21,130.10
+25,Henricksen Dusty,Male,15-12-2022,Copper Mountain,USA,United States Of America,Qualification,Big Air,8,
+26,Henricksen Dusty,Male,27-03-2022,Silvaplana,SUI,United States Of America,World Cup,Slopestyle,9,248.60
+27,Henricksen Dusty,Male,25-03-2022,Silvaplana,SUI,United States Of America,Qualification,Slopestyle,2,
+28,Henricksen Dusty,Male,19-03-2022,Spindleruv Mlyn,CZE,United States Of America,World Cup,Slopestyle,9,181.00
+29,Henricksen Dusty,Male,18-03-2022,Spindleruv Mlyn,CZE,United States Of America,Qualification,Slopestyle,1,
+30,Henricksen Dusty,Male,15-02-2022,Beijing,CHN,United States Of America,Olympic Winter Games,Big Air,21,76.30
+31,Henricksen Dusty,Male,14-02-2022,Beijing,CHN,United States Of America,Qualification,Big Air,21,
+32,Henricksen Dusty,Male,07-02-2022,Beijing,CHN,United States Of America,Olympic Winter Games,Slopestyle,17,125.80
+33,Henricksen Dusty,Male,06-02-2022,Beijing,CHN,United States Of America,Qualification,Slopestyle,17,
+34,Henricksen Dusty,Male,08-01-2022,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,10,282.30
+35,Henricksen Dusty,Male,04-12-2021,Steamboat,USA,United States Of America,World Cup,Big Air,22,166.50
+36,Henricksen Dusty,Male,02-12-2021,Steamboat,USA,United States Of America,Qualification,Big Air,13,
+37,Henricksen Dusty,Male,28-03-2021,Silvaplana,SUI,United States Of America,World Cup,Slopestyle,5,508.97
+38,Henricksen Dusty,Male,28-03-2021,Silvaplana,SUI,United States Of America,Qualification,Slopestyle,3,
+39,Henricksen Dusty,Male,20-03-2021,Aspen,USA,United States Of America,World Cup,Slopestyle,5,509.25
+40,Henricksen Dusty,Male,19-03-2021,Aspen,USA,United States Of America,Qualification,Slopestyle,3,
+41,Henricksen Dusty,Male,16-03-2021,Aspen,USA,United States Of America,World Championships,Big Air,21,132.66
+42,Henricksen Dusty,Male,14-03-2021,Aspen,USA,United States Of America,Qualification,Big Air,10,
+43,Henricksen Dusty,Male,12-03-2021,Aspen,USA,United States Of America,World Championships,Slopestyle,7,389.06
+44,Henricksen Dusty,Male,10-03-2021,Aspen,USA,United States Of America,Qualification,Slopestyle,3,
+45,Henricksen Dusty,Male,09-01-2021,Kreischberg,AUT,United States Of America,World Cup,Big Air,33,117.00
+46,Henricksen Dusty,Male,09-01-2021,Kreischberg,AUT,United States Of America,Qualification,Big Air,19,
+47,Henricksen Dusty,Male,05-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Big Air,2,128.00
+48,Henricksen Dusty,Male,03-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Slopestyle,1,360.00
+49,Henricksen Dusty,Male,02-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Slopestyle,6,144.00
+50,Henricksen Dusty,Male,16-02-2020,Calgary,CAN,United States Of America,World Cup,Slopestyle,DNS,
+51,Henricksen Dusty,Male,14-02-2020,Calgary,CAN,United States Of America,Qualification,Slopestyle,DNS,
+52,Henricksen Dusty,Male,09-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Big Air,DNS,
+53,Henricksen Dusty,Male,07-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,1,240.00
+54,Henricksen Dusty,Male,01-02-2020,Mammoth Mountain Resort,USA,United States Of America,World Cup,Slopestyle,1,1000.00
+55,Henricksen Dusty,Male,30-01-2020,Mammoth Mountain Resort,USA,United States Of America,Qualification,Slopestyle,1,
+56,Henricksen Dusty,Male,22-01-2020,Leysin,SUI,United States Of America,Qualification,Big Air,2,
+57,Henricksen Dusty,Male,22-01-2020,Leysin,SUI,United States Of America,Youth Olympic Winter Games,Big Air,4,100.00
+58,Henricksen Dusty,Male,20-01-2020,Leysin,SUI,United States Of America,Youth Olympic Winter Games,Slopestyle,1,180.00
+59,Henricksen Dusty,Male,15-01-2020,Laax,SUI,United States Of America,World Cup,Slopestyle,9,290.00
+60,Henricksen Dusty,Male,13-01-2020,Laax,SUI,United States Of America,Qualification,Slopestyle,1,
+61,Henricksen Dusty,Male,20-12-2019,Atlanta,USA,United States Of America,World Cup,Big Air,17,140.00
+62,Henricksen Dusty,Male,02-11-2019,Modena SKIPASS,ITA,United States Of America,World Cup,Big Air,23,80.00
+63,Henricksen Dusty,Male,13-04-2019,Klaeppen,SWE,United States Of America,FIS Junior World Championships,Big Air,30,7.68
+64,Henricksen Dusty,Male,12-04-2019,Klaeppen,SWE,United States Of America,Qualification,Big Air,10,
+65,Henricksen Dusty,Male,09-04-2019,Klaeppen,SWE,United States Of America,FIS Junior World Championships,Slopestyle,6,96.00
+66,Henricksen Dusty,Male,08-04-2019,Klaeppen,SWE,United States Of America,Qualification,Slopestyle,1,
+67,Henricksen Dusty,Male,13-03-2019,"Mammoth Mountain, CA",USA,United States Of America,Nor-Am Cup,Slopestyle,7,64.80
+68,Henricksen Dusty,Male,09-03-2019,Mammoth Mountain Resort,USA,United States Of America,World Cup,Slopestyle,29,36.00
+69,Henricksen Dusty,Male,07-03-2019,Mammoth Mountain Resort,USA,United States Of America,Qualification,Slopestyle,12,
+70,Henricksen Dusty,Male,13-02-2019,"Copper Mountain, CO",USA,United States Of America,FIS,Slopestyle,5,45.00
+71,Henricksen Dusty,Male,07-02-2019,Mount St-Louis Moonstone,CAN,United States Of America,Nor-Am Cup,Slopestyle,2,128.00
+72,Henricksen Dusty,Male,24-01-2019,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Big Air,4,80.00
+73,Henricksen Dusty,Male,23-01-2019,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,8,51.20
+74,Henricksen Dusty,Male,15-01-2019,Waterville Valley Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,3,96.00
+75,Henricksen Dusty,Male,14-01-2019,Waterville Valley Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,2,128.00
+76,Henricksen Dusty,Male,13-02-2018,Waterville Valley Resort,USA,United States Of America,FIS,Slopestyle,13,26.00
+77,Henricksen Dusty,Male,12-02-2018,Waterville Valley Resort,USA,United States Of America,FIS,Slopestyle,17,16.80
+78,Henricksen Dusty,Male,12-02-2017,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Slopestyle,15,28.80
+79,Henricksen Dusty,Male,11-02-2017,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Halfpipe,13,36.00
+80,Henricksen Dusty,Male,08-12-2016,Copper Mountain Resort,USA,United States Of America,FIS,Halfpipe,58,
