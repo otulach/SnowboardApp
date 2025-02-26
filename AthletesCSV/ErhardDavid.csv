@@ -1,56 +1,57 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Erhard David,Male,22-02-2025,Colere,ITA,Austria,FIS,Snowboard Cross,12,
-1,Erhard David,Male,16-02-2025,Flumserberg,SUI,Austria,Junior Regional Cup,Snowboard Cross,7,39.60
-2,Erhard David,Male,15-02-2025,Flumserberg,SUI,Austria,Junior Regional Cup,Snowboard Cross,6,44.00
-3,Erhard David,Male,09-02-2025,Reiteralm,AUT,Austria,European Cup,Snowboard Cross,42,3.58
-4,Erhard David,Male,08-02-2025,Reiteralm,AUT,Austria,European Cup,Snowboard Cross,35,4.00
-5,Erhard David,Male,02-02-2025,St. Lary,FRA,Austria,National Championships,Snowboard Cross,7,54.00
-6,Erhard David,Male,31-01-2025,St. Lary,FRA,Austria,European Cup,Snowboard Cross,36,3.55
-7,Erhard David,Male,24-01-2025,Puy St. Vincent,FRA,Austria,European Cup,Snowboard Cross,DNS,
-8,Erhard David,Male,23-01-2025,Puy St. Vincent,FRA,Austria,European Cup,Snowboard Cross,32,5.20
-9,Erhard David,Male,12-01-2025,Lenk,SUI,Austria,Junior Regional Cup,Snowboard Cross,7,43.20
-10,Erhard David,Male,01-12-2024,Pitztal,AUT,Austria,Junior,Snowboard Cross,4,60.00
-11,Erhard David,Male,30-11-2024,Pitztal,AUT,Austria,Qualification,Snowboard Cross,18,
-12,Erhard David,Male,30-11-2024,Pitztal,AUT,Austria,Junior,Snowboard Cross,20,13.20
-13,Erhard David,Male,27-11-2024,Pitztal,AUT,Austria,Qualification,Snowboard Cross,85,
+0,Erhard David,Male,23-02-2025,Colere,ITA,Austria,FIS,Snowboard Cross,17,25.20
+1,Erhard David,Male,22-02-2025,Colere,ITA,Austria,FIS,Snowboard Cross,12,39.60
+2,Erhard David,Male,16-02-2025,Flumserberg,SUI,Austria,Junior Regional Cup,Snowboard Cross,7,39.60
+3,Erhard David,Male,15-02-2025,Flumserberg,SUI,Austria,Junior Regional Cup,Snowboard Cross,6,44.00
+4,Erhard David,Male,09-02-2025,Reiteralm,AUT,Austria,European Cup,Snowboard Cross,42,3.58
+5,Erhard David,Male,08-02-2025,Reiteralm,AUT,Austria,European Cup,Snowboard Cross,35,4.00
+6,Erhard David,Male,02-02-2025,St. Lary,FRA,Austria,National Championships,Snowboard Cross,7,54.00
+7,Erhard David,Male,31-01-2025,St. Lary,FRA,Austria,European Cup,Snowboard Cross,36,3.55
+8,Erhard David,Male,24-01-2025,Puy St. Vincent,FRA,Austria,European Cup,Snowboard Cross,DNS,
+9,Erhard David,Male,23-01-2025,Puy St. Vincent,FRA,Austria,European Cup,Snowboard Cross,32,5.20
+10,Erhard David,Male,12-01-2025,Lenk,SUI,Austria,Junior Regional Cup,Snowboard Cross,7,43.20
+11,Erhard David,Male,01-12-2024,Pitztal,AUT,Austria,Junior,Snowboard Cross,4,60.00
+12,Erhard David,Male,30-11-2024,Pitztal,AUT,Austria,Qualification,Snowboard Cross,18,
+13,Erhard David,Male,30-11-2024,Pitztal,AUT,Austria,Junior,Snowboard Cross,20,13.20
 14,Erhard David,Male,27-11-2024,Pitztal,AUT,Austria,European Cup,Snowboard Cross,85,
-15,Erhard David,Male,07-04-2024,Pitztal,AUT,Austria,Junior,Snowboard Cross,4,25.00
-16,Erhard David,Male,06-04-2024,Pitztal,AUT,Austria,Junior,Snowboard Cross,1,50.00
-17,Erhard David,Male,22-03-2024,Lenk,SUI,Austria,European Cup,Snowboard Cross,43,4.22
-18,Erhard David,Male,21-03-2024,Lenk,SUI,Austria,European Cup,Snowboard Cross,40,4.44
-19,Erhard David,Male,14-03-2024,Isola 2000,FRA,Austria,European Cup,Snowboard Cross,34,4.40
-20,Erhard David,Male,12-03-2024,Isola 2000,FRA,Austria,Junior,Snowboard Cross,11,16.80
-21,Erhard David,Male,11-03-2024,Isola 2000,FRA,Austria,Junior,Snowboard Cross,33,3.60
-22,Erhard David,Male,09-03-2024,Colere,ITA,Austria,FIS,Snowboard Cross,5,22.50
-23,Erhard David,Male,02-03-2024,Reiteralm,AUT,Austria,Junior,Snowboard Cross,4,45.00
-24,Erhard David,Male,01-03-2024,Reiteralm,AUT,Austria,Junior,Snowboard Cross,18,11.70
-25,Erhard David,Male,25-02-2024,Grasgehren,GER,Austria,European Cup,Snowboard Cross,29,10.44
-26,Erhard David,Male,24-02-2024,Grasgehren,GER,Austria,European Cup,Snowboard Cross,48,5.15
-27,Erhard David,Male,17-02-2024,Colere,ITA,Austria,European Cup,Snowboard Cross,40,4.44
-28,Erhard David,Male,16-02-2024,Colere,ITA,Austria,European Cup,Snowboard Cross,68,
-29,Erhard David,Male,06-02-2024,Reiteralm,AUT,Austria,European Cup,Snowboard Cross,38,3.82
-30,Erhard David,Male,05-02-2024,Reiteralm,AUT,Austria,European Cup,Snowboard Cross,15,32.00
-31,Erhard David,Male,01-02-2024,Dolni Morava,CZE,Austria,European Cup,Snowboard Cross,45,3.74
-32,Erhard David,Male,31-01-2024,Dolni Morava,CZE,Austria,European Cup,Snowboard Cross,51,3.34
-33,Erhard David,Male,28-01-2024,Grasgehren,GER,Austria,Junior,Snowboard Cross,11,26.40
-34,Erhard David,Male,27-01-2024,Grasgehren,GER,Austria,Junior,Snowboard Cross,3,30.00
-35,Erhard David,Male,20-01-2024,Gangwon/Welli Hilli,KOR,Austria,Youth Olympic Winter Games,Snowboard Cross,17,15.40
-36,Erhard David,Male,17-12-2023,Reiteralm,AUT,Austria,Junior,Snowboard Cross,4,35.00
-37,Erhard David,Male,09-12-2023,Pitztal,AUT,Austria,Junior,Snowboard Cross,26,5.00
-38,Erhard David,Male,30-03-2023,Passo San Pellegrino,ITA,Austria,FIS Junior World Championships,Snowboard Cross,64,3.62
-39,Erhard David,Male,25-03-2023,Gargellen,AUT,Austria,Junior,Snowboard Cross,8,51.20
-40,Erhard David,Male,24-03-2023,Gargellen,AUT,Austria,Junior,Snowboard Cross,8,35.20
-41,Erhard David,Male,23-03-2023,Gargellen,AUT,Austria,European Cup,Snowboard Cross,23,19.20
-42,Erhard David,Male,22-03-2023,Gargellen,AUT,Austria,European Cup,Snowboard Cross,29,9.36
-43,Erhard David,Male,16-03-2023,Pitztal,AUT,Austria,FIS,Snowboard Cross,18,16.90
-44,Erhard David,Male,15-03-2023,Pitztal,AUT,Austria,FIS,Snowboard Cross,17,18.20
-45,Erhard David,Male,12-03-2023,Lenk,SUI,Austria,National Junior Championships,Snowboard Cross,7,32.40
-46,Erhard David,Male,19-02-2023,Flumserberg,SUI,Austria,Junior,Snowboard Cross,17,15.40
-47,Erhard David,Male,18-02-2023,Flumserberg,SUI,Austria,Junior,Snowboard Cross,9,31.90
-48,Erhard David,Male,05-02-2023,Dolni Morava,CZE,Austria,Junior,Snowboard Cross,13,10.00
-49,Erhard David,Male,04-02-2023,Dolni Morava,CZE,Austria,Junior,Snowboard Cross,7,18.00
-50,Erhard David,Male,03-02-2023,Dolni Morava,CZE,Austria,FIS,Snowboard Cross,25,5.40
-51,Erhard David,Male,14-01-2023,Lenk,SUI,Austria,FIS,Snowboard Cross,15,8.00
-52,Erhard David,Male,27-11-2022,Pitztal,AUT,Austria,Junior,Snowboard Cross,65,1.76
-53,Erhard David,Male,26-11-2022,Pitztal,AUT,Austria,Junior,Snowboard Cross,61,2.20
-54,Erhard David,Male,25-11-2022,Pitztal,AUT,Austria,FIS,Snowboard Cross,65,2.42
+15,Erhard David,Male,27-11-2024,Pitztal,AUT,Austria,Qualification,Snowboard Cross,85,
+16,Erhard David,Male,07-04-2024,Pitztal,AUT,Austria,Junior,Snowboard Cross,4,25.00
+17,Erhard David,Male,06-04-2024,Pitztal,AUT,Austria,Junior,Snowboard Cross,1,50.00
+18,Erhard David,Male,22-03-2024,Lenk,SUI,Austria,European Cup,Snowboard Cross,43,4.22
+19,Erhard David,Male,21-03-2024,Lenk,SUI,Austria,European Cup,Snowboard Cross,40,4.44
+20,Erhard David,Male,14-03-2024,Isola 2000,FRA,Austria,European Cup,Snowboard Cross,34,4.40
+21,Erhard David,Male,12-03-2024,Isola 2000,FRA,Austria,Junior,Snowboard Cross,11,16.80
+22,Erhard David,Male,11-03-2024,Isola 2000,FRA,Austria,Junior,Snowboard Cross,33,3.60
+23,Erhard David,Male,09-03-2024,Colere,ITA,Austria,FIS,Snowboard Cross,5,22.50
+24,Erhard David,Male,02-03-2024,Reiteralm,AUT,Austria,Junior,Snowboard Cross,4,45.00
+25,Erhard David,Male,01-03-2024,Reiteralm,AUT,Austria,Junior,Snowboard Cross,18,11.70
+26,Erhard David,Male,25-02-2024,Grasgehren,GER,Austria,European Cup,Snowboard Cross,29,10.44
+27,Erhard David,Male,24-02-2024,Grasgehren,GER,Austria,European Cup,Snowboard Cross,48,5.15
+28,Erhard David,Male,17-02-2024,Colere,ITA,Austria,European Cup,Snowboard Cross,40,4.44
+29,Erhard David,Male,16-02-2024,Colere,ITA,Austria,European Cup,Snowboard Cross,68,
+30,Erhard David,Male,06-02-2024,Reiteralm,AUT,Austria,European Cup,Snowboard Cross,38,3.82
+31,Erhard David,Male,05-02-2024,Reiteralm,AUT,Austria,European Cup,Snowboard Cross,15,32.00
+32,Erhard David,Male,01-02-2024,Dolni Morava,CZE,Austria,European Cup,Snowboard Cross,45,3.74
+33,Erhard David,Male,31-01-2024,Dolni Morava,CZE,Austria,European Cup,Snowboard Cross,51,3.34
+34,Erhard David,Male,28-01-2024,Grasgehren,GER,Austria,Junior,Snowboard Cross,11,26.40
+35,Erhard David,Male,27-01-2024,Grasgehren,GER,Austria,Junior,Snowboard Cross,3,30.00
+36,Erhard David,Male,20-01-2024,Gangwon/Welli Hilli,KOR,Austria,Youth Olympic Winter Games,Snowboard Cross,17,15.40
+37,Erhard David,Male,17-12-2023,Reiteralm,AUT,Austria,Junior,Snowboard Cross,4,35.00
+38,Erhard David,Male,09-12-2023,Pitztal,AUT,Austria,Junior,Snowboard Cross,26,5.00
+39,Erhard David,Male,30-03-2023,Passo San Pellegrino,ITA,Austria,FIS Junior World Championships,Snowboard Cross,64,3.62
+40,Erhard David,Male,25-03-2023,Gargellen,AUT,Austria,Junior,Snowboard Cross,8,51.20
+41,Erhard David,Male,24-03-2023,Gargellen,AUT,Austria,Junior,Snowboard Cross,8,35.20
+42,Erhard David,Male,23-03-2023,Gargellen,AUT,Austria,European Cup,Snowboard Cross,23,19.20
+43,Erhard David,Male,22-03-2023,Gargellen,AUT,Austria,European Cup,Snowboard Cross,29,9.36
+44,Erhard David,Male,16-03-2023,Pitztal,AUT,Austria,FIS,Snowboard Cross,18,16.90
+45,Erhard David,Male,15-03-2023,Pitztal,AUT,Austria,FIS,Snowboard Cross,17,18.20
+46,Erhard David,Male,12-03-2023,Lenk,SUI,Austria,National Junior Championships,Snowboard Cross,7,32.40
+47,Erhard David,Male,19-02-2023,Flumserberg,SUI,Austria,Junior,Snowboard Cross,17,15.40
+48,Erhard David,Male,18-02-2023,Flumserberg,SUI,Austria,Junior,Snowboard Cross,9,31.90
+49,Erhard David,Male,05-02-2023,Dolni Morava,CZE,Austria,Junior,Snowboard Cross,13,10.00
+50,Erhard David,Male,04-02-2023,Dolni Morava,CZE,Austria,Junior,Snowboard Cross,7,18.00
+51,Erhard David,Male,03-02-2023,Dolni Morava,CZE,Austria,FIS,Snowboard Cross,25,5.40
+52,Erhard David,Male,14-01-2023,Lenk,SUI,Austria,FIS,Snowboard Cross,15,8.00
+53,Erhard David,Male,27-11-2022,Pitztal,AUT,Austria,Junior,Snowboard Cross,65,1.76
+54,Erhard David,Male,26-11-2022,Pitztal,AUT,Austria,Junior,Snowboard Cross,61,2.20
+55,Erhard David,Male,25-11-2022,Pitztal,AUT,Austria,FIS,Snowboard Cross,65,2.42

@@ -327,14 +327,6 @@ Date,Location,Country,Category,Discipline,Gender
 2025-03-02,Krynica,POL,WC,Parallel Giant Slalom,Female
 2025-03-02,Krynica,POL,QUA,Parallel Giant Slalom,Male
 2025-03-02,Krynica,POL,QUA,Parallel Giant Slalom,Female
-2025-03-01,Kopaonik,SRB,NC,Giant Slalom,Male
-2025-03-01,Kopaonik,SRB,NC,Giant Slalom,Female
-2025-03-02,Kopaonik,SRB,NC,Slalom,Male
-2025-03-02,Kopaonik,SRB,NC,Slalom,Female
-2025-03-03,Kopaonik,SRB,NC,Slopestyle,Male
-2025-03-03,Kopaonik,SRB,NC,Slopestyle,Female
-2025-03-04,Kopaonik,SRB,NC,Big Air,Male
-2025-03-04,Kopaonik,SRB,NC,Big Air,Female
 2025-03-03,Cedars,k,FIS,Giant Slalom,Male
 2025-03-03,Cedars,k,FIS,Giant Slalom,Female
 2025-03-04,Cedars,k,FIS,Giant Slalom,Male
@@ -345,6 +337,10 @@ Date,Location,Country,Category,Discipline,Gender
 2025-03-03,Cedars,k,NC,Giant Slalom,Female
 2025-03-04,Cedars,k,FIS,Giant Slalom,Male
 2025-03-04,Cedars,k,FIS,Giant Slalom,Female
+2025-03-03,Cedars,k,CHI,Giant Slalom,Male
+2025-03-03,Cedars,k,CHI,Giant Slalom,Male
+2025-03-04,Cedars,k,CHI,Giant Slalom,Male
+2025-03-04,Cedars,k,CHI,Giant Slalom,Male
 2025-03-04,High1resort,KOR,AC,Parallel Giant Slalom,Male
 2025-03-04,High1resort,KOR,AC,Parallel Giant Slalom,Female
 2025-03-05,High1resort,KOR,AC,Parallel Slalom,Male
@@ -370,6 +366,14 @@ Date,Location,Country,Category,Discipline,Gender
 2025-03-11,Horseshoe,esor,NJC,Parallel Giant Slalom,Female
 2025-03-12,Horseshoe,esor,NJC,Parallel Slalom,Male
 2025-03-12,Horseshoe,esor,NJC,Parallel Slalom,Female
+2025-03-12,Kopaonik,SRB,NC,Giant Slalom,Male
+2025-03-12,Kopaonik,SRB,NC,Giant Slalom,Female
+2025-03-13,Kopaonik,SRB,NC,Slalom,Male
+2025-03-13,Kopaonik,SRB,NC,Slalom,Female
+2025-03-14,Kopaonik,SRB,NC,Slopestyle,Male
+2025-03-14,Kopaonik,SRB,NC,Slopestyle,Female
+2025-03-15,Kopaonik,SRB,NC,Big Air,Male
+2025-03-15,Kopaonik,SRB,NC,Big Air,Female
 2025-03-15,Winterberg,GER,WC,Parallel Slalom,Male
 2025-03-15,Winterberg,GER,WC,Parallel Slalom,Female
 2025-03-15,Winterberg,GER,QUA,Parallel Slalom,Male

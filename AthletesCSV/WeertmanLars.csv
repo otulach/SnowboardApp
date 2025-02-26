@@ -1,66 +1,67 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Weertman Lars,Male,22-02-2025,Colere,ITA,Netherlands,FIS,Snowboard Cross,38,
-1,Weertman Lars,Male,09-02-2025,Reiteralm,AUT,Netherlands,European Cup,Snowboard Cross,34,4.40
-2,Weertman Lars,Male,08-02-2025,Reiteralm,AUT,Netherlands,European Cup,Snowboard Cross,23,16.00
-3,Weertman Lars,Male,31-01-2025,St. Lary,FRA,Netherlands,European Cup,Snowboard Cross,27,8.10
-4,Weertman Lars,Male,24-01-2025,Puy St. Vincent,FRA,Netherlands,European Cup,Snowboard Cross,31,5.04
-5,Weertman Lars,Male,23-01-2025,Puy St. Vincent,FRA,Netherlands,European Cup,Snowboard Cross,22,18.00
-6,Weertman Lars,Male,24-03-2024,Lenk,SUI,Netherlands,National Championships,Snowboard Cross,8,38.40
-7,Weertman Lars,Male,22-03-2024,Lenk,SUI,Netherlands,European Cup,Snowboard Cross,32,6.24
-8,Weertman Lars,Male,21-03-2024,Lenk,SUI,Netherlands,European Cup,Snowboard Cross,23,19.20
-9,Weertman Lars,Male,14-03-2024,Isola 2000,FRA,Netherlands,European Cup,Snowboard Cross,40,3.70
-10,Weertman Lars,Male,13-03-2024,Isola 2000,FRA,Netherlands,European Cup,Snowboard Cross,22,18.00
-11,Weertman Lars,Male,02-03-2024,St. Moritz,SUI,Netherlands,FIS,Snowboard Cross,10,36.40
-12,Weertman Lars,Male,25-02-2024,Grasgehren,GER,Netherlands,European Cup,Snowboard Cross,39,5.45
-13,Weertman Lars,Male,24-02-2024,Grasgehren,GER,Netherlands,European Cup,Snowboard Cross,23,25.60
-14,Weertman Lars,Male,17-02-2024,Colere,ITA,Netherlands,European Cup,Snowboard Cross,42,4.30
-15,Weertman Lars,Male,16-02-2024,Colere,ITA,Netherlands,European Cup,Snowboard Cross,46,4.01
-16,Weertman Lars,Male,06-02-2024,Reiteralm,AUT,Netherlands,European Cup,Snowboard Cross,28,8.00
-17,Weertman Lars,Male,05-02-2024,Reiteralm,AUT,Netherlands,European Cup,Snowboard Cross,46,3.34
-18,Weertman Lars,Male,02-02-2024,Dolni Morava,CZE,Netherlands,FIS,Snowboard Cross,6,28.00
-19,Weertman Lars,Male,01-02-2024,Dolni Morava,CZE,Netherlands,European Cup,Snowboard Cross,48,3.54
-20,Weertman Lars,Male,31-01-2024,Dolni Morava,CZE,Netherlands,European Cup,Snowboard Cross,47,3.61
-21,Weertman Lars,Male,28-01-2024,Puy St. Vincent,FRA,Netherlands,European Cup,Snowboard Cross,47,3.28
-22,Weertman Lars,Male,27-01-2024,Puy St. Vincent,FRA,Netherlands,European Cup,Snowboard Cross,35,4.00
-23,Weertman Lars,Male,20-01-2024,Montafon,AUT,Netherlands,National Championships,Snowboard Cross,46,4.84
-24,Weertman Lars,Male,09-12-2023,Pitztal,AUT,Netherlands,FIS,Snowboard Cross,14,25.20
-25,Weertman Lars,Male,22-01-2023,Puy St.Vincent,FRA,Netherlands,European Cup,Snowboard Cross,33,5.76
-26,Weertman Lars,Male,21-01-2023,Puy St.Vincent,FRA,Netherlands,European Cup,Snowboard Cross,35,4.80
-27,Weertman Lars,Male,15-01-2023,Reiteralm,AUT,Netherlands,European Cup,Snowboard Cross,46,6.01
-28,Weertman Lars,Male,14-01-2023,Reiteralm,AUT,Netherlands,European Cup,Snowboard Cross,54,5.15
-29,Weertman Lars,Male,07-01-2023,Isola 2000,FRA,Netherlands,European Cup,Snowboard Cross,17,33.60
-30,Weertman Lars,Male,06-01-2023,Isola 2000,FRA,Netherlands,European Cup,Snowboard Cross,38,4.58
-31,Weertman Lars,Male,25-11-2022,Pitztal,AUT,Netherlands,FIS,Snowboard Cross,65,2.42
-32,Weertman Lars,Male,24-11-2022,Pitztal,AUT,Netherlands,European Cup,Snowboard Cross,78,1.70
-33,Weertman Lars,Male,23-11-2022,Pitztal,AUT,Netherlands,Qualification,Snowboard Cross,78,
-34,Weertman Lars,Male,27-03-2022,Lenk,SUI,Netherlands,National Championships,Snowboard Cross,20,28.60
-35,Weertman Lars,Male,26-03-2022,Lenk,SUI,Netherlands,European Cup,Snowboard Cross,45,6.12
-36,Weertman Lars,Male,25-03-2022,Lenk,SUI,Netherlands,European Cup,Snowboard Cross,53,5.26
-37,Weertman Lars,Male,27-02-2022,Grasgehren,GER,Netherlands,European Cup,Snowboard Cross,33,8.64
-38,Weertman Lars,Male,26-02-2022,Grasgehren,GER,Netherlands,European Cup,Snowboard Cross,47,5.90
-39,Weertman Lars,Male,06-02-2022,Dolni Morava,CZE,Netherlands,FIS,Snowboard Cross,12,26.40
-40,Weertman Lars,Male,05-02-2022,Dolni Morava,CZE,Netherlands,Junior,Snowboard Cross,2,40.00
-41,Weertman Lars,Male,03-02-2022,Dolni Morava,CZE,Netherlands,European Cup,Snowboard Cross,54,3.72
-42,Weertman Lars,Male,02-02-2022,Dolni Morava,CZE,Netherlands,European Cup,Snowboard Cross,49,3.79
-43,Weertman Lars,Male,23-01-2022,Reiteralm,AUT,Netherlands,European Cup,Snowboard Cross,33,6.24
-44,Weertman Lars,Male,15-12-2021,Reiteralm,AUT,Netherlands,Junior,Snowboard Cross,17,9.80
-45,Weertman Lars,Male,14-12-2021,Reiteralm,AUT,Netherlands,FIS,Snowboard Cross,33,5.28
-46,Weertman Lars,Male,13-12-2021,Reiteralm,AUT,Netherlands,FIS,Snowboard Cross,22,19.80
-47,Weertman Lars,Male,12-12-2021,Moninec,CZE,Netherlands,Junior,Snowboard Cross,2,40.00
-48,Weertman Lars,Male,11-12-2021,Moninec,CZE,Netherlands,Junior,Snowboard Cross,3,30.00
-49,Weertman Lars,Male,12-03-2021,Lenk,SUI,Netherlands,European Cup,Snowboard Cross,56,3.29
-50,Weertman Lars,Male,07-03-2021,Montafon/Gargellen,AUT,Netherlands,European Cup,Snowboard Cross,33,4.32
-51,Weertman Lars,Male,06-03-2021,Montafon/Gargellen,AUT,Netherlands,European Cup,Snowboard Cross,54,
-52,Weertman Lars,Male,28-02-2021,Reiteralm,AUT,Netherlands,European Cup,Snowboard Cross,49,2.84
-53,Weertman Lars,Male,27-02-2021,Reiteralm,AUT,Netherlands,European Cup,Snowboard Cross,49,2.84
-54,Weertman Lars,Male,03-02-2021,Isola 2000,FRA,Netherlands,European Cup,Snowboard Cross,25,9.60
-55,Weertman Lars,Male,01-02-2021,Isola 2000,FRA,Netherlands,Junior,Snowboard Cross,17,12.60
-56,Weertman Lars,Male,31-01-2021,Isola 2000,FRA,Netherlands,European Cup,Snowboard Cross,56,3.56
-57,Weertman Lars,Male,30-01-2021,Isola 2000,FRA,Netherlands,European Cup,Snowboard Cross,57,4.82
-58,Weertman Lars,Male,28-01-2021,Isola 2000,FRA,Netherlands,Junior,Snowboard Cross,36,1.38
-59,Weertman Lars,Male,27-01-2021,Isola 2000,FRA,Netherlands,Junior,Snowboard Cross,32,1.82
-60,Weertman Lars,Male,24-01-2021,Reiteralm,AUT,Netherlands,FIS,Snowboard Cross,33,1.68
-61,Weertman Lars,Male,23-01-2021,Reiteralm,AUT,Netherlands,FIS,Snowboard Cross,35,1.40
-62,Weertman Lars,Male,16-01-2021,Crans-Montana,SUI,Netherlands,FIS,Snowboard Cross,13,44.00
-63,Weertman Lars,Male,16-02-2020,Flumserberg,SUI,Netherlands,FIS,Snowboard Cross,92,
-64,Weertman Lars,Male,15-02-2020,Flumserberg,SUI,Netherlands,FIS,Snowboard Cross,88,
+0,Weertman Lars,Male,23-02-2025,Colere,ITA,Netherlands,FIS,Snowboard Cross,17,25.20
+1,Weertman Lars,Male,22-02-2025,Colere,ITA,Netherlands,FIS,Snowboard Cross,38,3.44
+2,Weertman Lars,Male,09-02-2025,Reiteralm,AUT,Netherlands,European Cup,Snowboard Cross,34,4.40
+3,Weertman Lars,Male,08-02-2025,Reiteralm,AUT,Netherlands,European Cup,Snowboard Cross,23,16.00
+4,Weertman Lars,Male,31-01-2025,St. Lary,FRA,Netherlands,European Cup,Snowboard Cross,27,8.10
+5,Weertman Lars,Male,24-01-2025,Puy St. Vincent,FRA,Netherlands,European Cup,Snowboard Cross,31,5.04
+6,Weertman Lars,Male,23-01-2025,Puy St. Vincent,FRA,Netherlands,European Cup,Snowboard Cross,22,18.00
+7,Weertman Lars,Male,24-03-2024,Lenk,SUI,Netherlands,National Championships,Snowboard Cross,8,38.40
+8,Weertman Lars,Male,22-03-2024,Lenk,SUI,Netherlands,European Cup,Snowboard Cross,32,6.24
+9,Weertman Lars,Male,21-03-2024,Lenk,SUI,Netherlands,European Cup,Snowboard Cross,23,19.20
+10,Weertman Lars,Male,14-03-2024,Isola 2000,FRA,Netherlands,European Cup,Snowboard Cross,40,3.70
+11,Weertman Lars,Male,13-03-2024,Isola 2000,FRA,Netherlands,European Cup,Snowboard Cross,22,18.00
+12,Weertman Lars,Male,02-03-2024,St. Moritz,SUI,Netherlands,FIS,Snowboard Cross,10,36.40
+13,Weertman Lars,Male,25-02-2024,Grasgehren,GER,Netherlands,European Cup,Snowboard Cross,39,5.45
+14,Weertman Lars,Male,24-02-2024,Grasgehren,GER,Netherlands,European Cup,Snowboard Cross,23,25.60
+15,Weertman Lars,Male,17-02-2024,Colere,ITA,Netherlands,European Cup,Snowboard Cross,42,4.30
+16,Weertman Lars,Male,16-02-2024,Colere,ITA,Netherlands,European Cup,Snowboard Cross,46,4.01
+17,Weertman Lars,Male,06-02-2024,Reiteralm,AUT,Netherlands,European Cup,Snowboard Cross,28,8.00
+18,Weertman Lars,Male,05-02-2024,Reiteralm,AUT,Netherlands,European Cup,Snowboard Cross,46,3.34
+19,Weertman Lars,Male,02-02-2024,Dolni Morava,CZE,Netherlands,FIS,Snowboard Cross,6,28.00
+20,Weertman Lars,Male,01-02-2024,Dolni Morava,CZE,Netherlands,European Cup,Snowboard Cross,48,3.54
+21,Weertman Lars,Male,31-01-2024,Dolni Morava,CZE,Netherlands,European Cup,Snowboard Cross,47,3.61
+22,Weertman Lars,Male,28-01-2024,Puy St. Vincent,FRA,Netherlands,European Cup,Snowboard Cross,47,3.28
+23,Weertman Lars,Male,27-01-2024,Puy St. Vincent,FRA,Netherlands,European Cup,Snowboard Cross,35,4.00
+24,Weertman Lars,Male,20-01-2024,Montafon,AUT,Netherlands,National Championships,Snowboard Cross,46,4.84
+25,Weertman Lars,Male,09-12-2023,Pitztal,AUT,Netherlands,FIS,Snowboard Cross,14,25.20
+26,Weertman Lars,Male,22-01-2023,Puy St.Vincent,FRA,Netherlands,European Cup,Snowboard Cross,33,5.76
+27,Weertman Lars,Male,21-01-2023,Puy St.Vincent,FRA,Netherlands,European Cup,Snowboard Cross,35,4.80
+28,Weertman Lars,Male,15-01-2023,Reiteralm,AUT,Netherlands,European Cup,Snowboard Cross,46,6.01
+29,Weertman Lars,Male,14-01-2023,Reiteralm,AUT,Netherlands,European Cup,Snowboard Cross,54,5.15
+30,Weertman Lars,Male,07-01-2023,Isola 2000,FRA,Netherlands,European Cup,Snowboard Cross,17,33.60
+31,Weertman Lars,Male,06-01-2023,Isola 2000,FRA,Netherlands,European Cup,Snowboard Cross,38,4.58
+32,Weertman Lars,Male,25-11-2022,Pitztal,AUT,Netherlands,FIS,Snowboard Cross,65,2.42
+33,Weertman Lars,Male,24-11-2022,Pitztal,AUT,Netherlands,European Cup,Snowboard Cross,78,1.70
+34,Weertman Lars,Male,23-11-2022,Pitztal,AUT,Netherlands,Qualification,Snowboard Cross,78,
+35,Weertman Lars,Male,27-03-2022,Lenk,SUI,Netherlands,National Championships,Snowboard Cross,20,28.60
+36,Weertman Lars,Male,26-03-2022,Lenk,SUI,Netherlands,European Cup,Snowboard Cross,45,6.12
+37,Weertman Lars,Male,25-03-2022,Lenk,SUI,Netherlands,European Cup,Snowboard Cross,53,5.26
+38,Weertman Lars,Male,27-02-2022,Grasgehren,GER,Netherlands,European Cup,Snowboard Cross,33,8.64
+39,Weertman Lars,Male,26-02-2022,Grasgehren,GER,Netherlands,European Cup,Snowboard Cross,47,5.90
+40,Weertman Lars,Male,06-02-2022,Dolni Morava,CZE,Netherlands,FIS,Snowboard Cross,12,26.40
+41,Weertman Lars,Male,05-02-2022,Dolni Morava,CZE,Netherlands,Junior,Snowboard Cross,2,40.00
+42,Weertman Lars,Male,03-02-2022,Dolni Morava,CZE,Netherlands,European Cup,Snowboard Cross,54,3.72
+43,Weertman Lars,Male,02-02-2022,Dolni Morava,CZE,Netherlands,European Cup,Snowboard Cross,49,3.79
+44,Weertman Lars,Male,23-01-2022,Reiteralm,AUT,Netherlands,European Cup,Snowboard Cross,33,6.24
+45,Weertman Lars,Male,15-12-2021,Reiteralm,AUT,Netherlands,Junior,Snowboard Cross,17,9.80
+46,Weertman Lars,Male,14-12-2021,Reiteralm,AUT,Netherlands,FIS,Snowboard Cross,33,5.28
+47,Weertman Lars,Male,13-12-2021,Reiteralm,AUT,Netherlands,FIS,Snowboard Cross,22,19.80
+48,Weertman Lars,Male,12-12-2021,Moninec,CZE,Netherlands,Junior,Snowboard Cross,2,40.00
+49,Weertman Lars,Male,11-12-2021,Moninec,CZE,Netherlands,Junior,Snowboard Cross,3,30.00
+50,Weertman Lars,Male,12-03-2021,Lenk,SUI,Netherlands,European Cup,Snowboard Cross,56,3.29
+51,Weertman Lars,Male,07-03-2021,Montafon/Gargellen,AUT,Netherlands,European Cup,Snowboard Cross,33,4.32
+52,Weertman Lars,Male,06-03-2021,Montafon/Gargellen,AUT,Netherlands,European Cup,Snowboard Cross,54,
+53,Weertman Lars,Male,28-02-2021,Reiteralm,AUT,Netherlands,European Cup,Snowboard Cross,49,2.84
+54,Weertman Lars,Male,27-02-2021,Reiteralm,AUT,Netherlands,European Cup,Snowboard Cross,49,2.84
+55,Weertman Lars,Male,03-02-2021,Isola 2000,FRA,Netherlands,European Cup,Snowboard Cross,25,9.60
+56,Weertman Lars,Male,01-02-2021,Isola 2000,FRA,Netherlands,Junior,Snowboard Cross,17,12.60
+57,Weertman Lars,Male,31-01-2021,Isola 2000,FRA,Netherlands,European Cup,Snowboard Cross,56,3.56
+58,Weertman Lars,Male,30-01-2021,Isola 2000,FRA,Netherlands,European Cup,Snowboard Cross,57,4.82
+59,Weertman Lars,Male,28-01-2021,Isola 2000,FRA,Netherlands,Junior,Snowboard Cross,36,1.38
+60,Weertman Lars,Male,27-01-2021,Isola 2000,FRA,Netherlands,Junior,Snowboard Cross,32,1.82
+61,Weertman Lars,Male,24-01-2021,Reiteralm,AUT,Netherlands,FIS,Snowboard Cross,33,1.68
+62,Weertman Lars,Male,23-01-2021,Reiteralm,AUT,Netherlands,FIS,Snowboard Cross,35,1.40
+63,Weertman Lars,Male,16-01-2021,Crans-Montana,SUI,Netherlands,FIS,Snowboard Cross,13,44.00
+64,Weertman Lars,Male,16-02-2020,Flumserberg,SUI,Netherlands,FIS,Snowboard Cross,92,
+65,Weertman Lars,Male,15-02-2020,Flumserberg,SUI,Netherlands,FIS,Snowboard Cross,88,
