@@ -1,319 +1,323 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Keiser Jessica,Female,23-02-2025,Lenzerheide,SUI,Switzerland,National Championships,Giant Slalom,2,232.00
-1,Keiser Jessica,Female,22-02-2025,Lenzerheide,SUI,Switzerland,National Championships,Parallel Slalom,3,174.00
-2,Keiser Jessica,Female,16-02-2025,Val St. Come,CAN,Switzerland,Qualification,Parallel Giant Slalom,25,
-3,Keiser Jessica,Female,16-02-2025,Val St. Come,CAN,Switzerland,World Cup,Parallel Giant Slalom,25,60.00
-4,Keiser Jessica,Female,15-02-2025,Val St. Come,CAN,Switzerland,Qualification,Parallel Giant Slalom,36,
-5,Keiser Jessica,Female,15-02-2025,Val St. Come,CAN,Switzerland,World Cup,Parallel Giant Slalom,36,
-6,Keiser Jessica,Female,26-01-2025,Simonhöhe,AUT,Switzerland,European Cup,Parallel Giant Slalom,10,93.60
-7,Keiser Jessica,Female,25-01-2025,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,21,
-8,Keiser Jessica,Female,25-01-2025,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,21,100.00
-9,Keiser Jessica,Female,22-01-2025,Bansko,BUL,Switzerland,European Cup,Parallel Giant Slalom,5,162.00
-10,Keiser Jessica,Female,21-01-2025,Bansko,BUL,Switzerland,European Cup,Parallel Giant Slalom,12,79.20
-11,Keiser Jessica,Female,19-01-2025,Bansko,BUL,Switzerland,Qualification,Parallel Giant Slalom,31,
-12,Keiser Jessica,Female,19-01-2025,Bansko,BUL,Switzerland,World Cup,Parallel Giant Slalom,31,28.00
-13,Keiser Jessica,Female,18-01-2025,Bansko,BUL,Switzerland,Qualification,Parallel Giant Slalom,17,
-14,Keiser Jessica,Female,18-01-2025,Bansko,BUL,Switzerland,World Cup,Parallel Giant Slalom,17,140.00
-15,Keiser Jessica,Female,14-01-2025,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,15,
-16,Keiser Jessica,Female,14-01-2025,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,15,160.00
-17,Keiser Jessica,Female,11-01-2025,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,30,
-18,Keiser Jessica,Female,11-01-2025,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,30,32.00
-19,Keiser Jessica,Female,21-12-2024,Davos,SUI,Switzerland,Qualification,Parallel Slalom,17,
-20,Keiser Jessica,Female,21-12-2024,Davos,SUI,Switzerland,World Cup,Parallel Slalom,17,140.00
-21,Keiser Jessica,Female,14-12-2024,Cortina d'Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,25,
-22,Keiser Jessica,Female,14-12-2024,Cortina d'Ampezzo,ITA,Switzerland,World Cup,Parallel Giant Slalom,25,60.00
-23,Keiser Jessica,Female,12-12-2024,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,22,
-24,Keiser Jessica,Female,12-12-2024,Carezza,ITA,Switzerland,World Cup,Parallel Giant Slalom,22,90.00
-25,Keiser Jessica,Female,08-12-2024,Yanqing (NASC),CHN,Switzerland,World Cup,Parallel Slalom,22,90.00
-26,Keiser Jessica,Female,08-12-2024,Yanqing (NASC),CHN,Switzerland,Qualification,Parallel Slalom,22,
-27,Keiser Jessica,Female,07-12-2024,Yanqing (NASC),CHN,Switzerland,World Cup,Parallel Giant Slalom,20,110.00
-28,Keiser Jessica,Female,07-12-2024,Yanqing (NASC),CHN,Switzerland,Qualification,Parallel Giant Slalom,20,
-29,Keiser Jessica,Female,01-12-2024,Mylin,CHN,Switzerland,World Cup,Parallel Slalom,19,120.00
-30,Keiser Jessica,Female,01-12-2024,Mylin,CHN,Switzerland,Qualification,Parallel Slalom,19,
-31,Keiser Jessica,Female,30-11-2024,Mylin,CHN,Switzerland,World Cup,Parallel Giant Slalom,27,45.00
-32,Keiser Jessica,Female,30-11-2024,Mylin,CHN,Switzerland,Qualification,Parallel Giant Slalom,27,
-33,Keiser Jessica,Female,23-12-2023,Davos ,SUI,Switzerland,Qualification,Parallel Slalom,14,
-34,Keiser Jessica,Female,23-12-2023,Davos,SUI,Switzerland,World Cup,Parallel Slalom,14,180.00
-35,Keiser Jessica,Female,16-12-2023,Cortina d'Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,31,
-36,Keiser Jessica,Female,16-12-2023,Cortina d'Ampezzo,ITA,Switzerland,World Cup,Parallel Giant Slalom,31,28.00
-37,Keiser Jessica,Female,14-12-2023,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,25,
-38,Keiser Jessica,Female,14-12-2023,Carezza,ITA,Switzerland,World Cup,Parallel Giant Slalom,25,60.00
-39,Keiser Jessica,Female,18-03-2023,Berchtesgaden,GER,Switzerland,Qualification,Parallel Slalom,12,
-40,Keiser Jessica,Female,18-03-2023,Berchtesgaden,GER,Switzerland,World Cup,Parallel Slalom,12,220.00
-41,Keiser Jessica,Female,15-03-2023,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,12,220.00
-42,Keiser Jessica,Female,15-03-2023,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,12,
-43,Keiser Jessica,Female,21-02-2023,Bakuriani,GEO,Switzerland,Qualification,Parallel Slalom,16,
-44,Keiser Jessica,Female,21-02-2023,Bakuriani,GEO,Switzerland,World Championships,Parallel Slalom,16,150.00
-45,Keiser Jessica,Female,19-02-2023,Bakuriani,GEO,Switzerland,Qualification,Parallel Giant Slalom,13,
-46,Keiser Jessica,Female,19-02-2023,Bakuriani,GEO,Switzerland,World Championships,Parallel Giant Slalom,12,220.00
-47,Keiser Jessica,Female,27-01-2023,Blue Mountain,CAN,Switzerland,Qualification,Parallel Giant Slalom,8,
-48,Keiser Jessica,Female,27-01-2023,Blue Mountain,CAN,Switzerland,World Cup,Parallel Giant Slalom,11,240.00
-49,Keiser Jessica,Female,26-01-2023,Blue Mountain,CAN,Switzerland,Qualification,Parallel Giant Slalom,15,
-50,Keiser Jessica,Female,26-01-2023,Blue Mountain,CAN,Switzerland,World Cup,Parallel Giant Slalom,16,150.00
-51,Keiser Jessica,Female,22-01-2023,Bansko,BUL,Switzerland,Qualification,Parallel Slalom,13,
-52,Keiser Jessica,Female,22-01-2023,Bansko,BUL,Switzerland,World Cup,Parallel Slalom,13,200.00
-53,Keiser Jessica,Female,21-01-2023,Bansko,BUL,Switzerland,Qualification,Parallel Slalom,14,
-54,Keiser Jessica,Female,21-01-2023,Bansko,BUL,Switzerland,World Cup,Parallel Slalom,3,600.00
-55,Keiser Jessica,Female,14-01-2023,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,13,
-56,Keiser Jessica,Female,14-01-2023,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,13,200.00
-57,Keiser Jessica,Female,10-01-2023,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,10,
-58,Keiser Jessica,Female,10-01-2023,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,4,500.00
-59,Keiser Jessica,Female,17-12-2022,Cortina d'Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,15,
-60,Keiser Jessica,Female,17-12-2022,Cortina d'Ampezzo,ITA,Switzerland,World Cup,Parallel Giant Slalom,16,150.00
-61,Keiser Jessica,Female,15-12-2022,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,14,
-62,Keiser Jessica,Female,15-12-2022,Carezza,ITA,Switzerland,World Cup,Parallel Giant Slalom,14,180.00
-63,Keiser Jessica,Female,11-12-2022,Winterberg,GER,Switzerland,World Cup,Parallel Slalom,6,400.00
-64,Keiser Jessica,Female,10-12-2022,Winterberg,GER,Switzerland,Qualification,Parallel Slalom,9,
-65,Keiser Jessica,Female,20-03-2022,Berchtesgaden,GER,Switzerland,World Cup,Parallel  Slalom Team,16,
-66,Keiser Jessica,Female,19-03-2022,Berchtesgaden,GER,Switzerland,Qualification,Parallel Slalom,24,
-67,Keiser Jessica,Female,19-03-2022,Berchtesgaden,GER,Switzerland,World Cup,Parallel Slalom,24,70.00
-68,Keiser Jessica,Female,16-03-2022,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,16,
-69,Keiser Jessica,Female,16-03-2022,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,16,150.00
-70,Keiser Jessica,Female,13-03-2022,Piancavallo,ITA,Switzerland,World Cup,Parallel Slalom Team,10,
-71,Keiser Jessica,Female,12-03-2022,Piancavallo,ITA,Switzerland,Qualification,Parallel Slalom,16,
-72,Keiser Jessica,Female,12-03-2022,Piancavallo,ITA,Switzerland,World Cup,Parallel Slalom,16,150.00
-73,Keiser Jessica,Female,06-03-2022,Lachtal,AUT,Switzerland,European Cup,Parallel Giant Slalom,10,93.60
-74,Keiser Jessica,Female,05-03-2022,Lachtal,AUT,Switzerland,European Cup,Parallel Giant Slalom,9,104.40
-75,Keiser Jessica,Female,08-02-2022,Beijing,CHN,Switzerland,Qualification,Parallel Giant Slalom,28,
-76,Keiser Jessica,Female,08-02-2022,Beijing,CHN,Switzerland,Olympic Winter Games,Parallel Giant Slalom,28,
-77,Keiser Jessica,Female,14-01-2022,Simonhöhe,AUT,Switzerland,World Cup,Parallel Giant Slalom,11,240.00
-78,Keiser Jessica,Female,14-01-2022,Simonhöhe,AUT,Switzerland,Qualification,Parallel Giant Slalom,8,
-79,Keiser Jessica,Female,18-12-2021,Cortina d Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,18,
-80,Keiser Jessica,Female,18-12-2021,Cortina d Ampezzo,ITA,Switzerland,World Cup,Parallel Giant Slalom,18,130.00
-81,Keiser Jessica,Female,16-12-2021,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,19,
-82,Keiser Jessica,Female,16-12-2021,Carezza,ITA,Switzerland,World Cup,Parallel Giant Slalom,19,120.00
-83,Keiser Jessica,Female,12-12-2021,Bannoye,RUS,Switzerland,Qualification,Parallel Slalom,20,
-84,Keiser Jessica,Female,12-12-2021,Bannoye,RUS,Switzerland,World Cup,Parallel Slalom,20,110.00
-85,Keiser Jessica,Female,11-12-2021,Bannoye,RUS,Switzerland,Qualification,Parallel Giant Slalom,14,
-86,Keiser Jessica,Female,11-12-2021,Bannoye,RUS,Switzerland,World Cup,Parallel Giant Slalom,14,180.00
-87,Keiser Jessica,Female,20-03-2021,Berchtesgaden,GER,Switzerland,Qualification,Parallel Slalom,17,
-88,Keiser Jessica,Female,20-03-2021,Berchtesgaden,GER,Switzerland,World Cup,Parallel Slalom,17,140.00
-89,Keiser Jessica,Female,13-03-2021,Davos Rinerhorn,SUI,Switzerland,European Cup,Parallel Giant Slalom,3,216.00
-90,Keiser Jessica,Female,06-03-2021,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,10,
-91,Keiser Jessica,Female,06-03-2021,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,11,240.00
-92,Keiser Jessica,Female,02-03-2021,Rogla,SLO,Switzerland,World Championships,Parallel Slalom,15,160.00
-93,Keiser Jessica,Female,02-03-2021,Rogla,SLO,Switzerland,Qualification,Parallel Slalom,15,
-94,Keiser Jessica,Female,01-03-2021,Rogla,SLO,Switzerland,World Championships,Parallel Giant Slalom,13,200.00
-95,Keiser Jessica,Female,01-03-2021,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,13,
-96,Keiser Jessica,Female,07-02-2021,Bannoye,RUS,Switzerland,Qualification,Parallel Slalom,22,
-97,Keiser Jessica,Female,07-02-2021,Bannoye,RUS,Switzerland,World Cup,Parallel Slalom,22,90.00
-98,Keiser Jessica,Female,06-02-2021,Bannoye,RUS,Switzerland,Qualification,Parallel Giant Slalom,4,
-99,Keiser Jessica,Female,06-02-2021,Bannoye,RUS,Switzerland,World Cup,Parallel Giant Slalom,6,400.00
-100,Keiser Jessica,Female,30-01-2021,Moscow,RUS,Switzerland,Qualification,Parallel Slalom,12,
-101,Keiser Jessica,Female,30-01-2021,Moscow,RUS,Switzerland,World Cup,Parallel Slalom,13,200.00
-102,Keiser Jessica,Female,24-01-2021,Davos,SUI,Switzerland,European Cup,Parallel Slalom,3,216.00
-103,Keiser Jessica,Female,23-01-2021,Davos,SUI,Switzerland,European Cup,Parallel Slalom,2,288.00
-104,Keiser Jessica,Female,12-01-2021,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,21,
-105,Keiser Jessica,Female,12-01-2021,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,21,100.00
-106,Keiser Jessica,Female,09-01-2021,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,14,
-107,Keiser Jessica,Female,09-01-2021,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,14,180.00
-108,Keiser Jessica,Female,17-12-2020,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,9,
-109,Keiser Jessica,Female,17-12-2020,Carezza,ITA,Switzerland,World Cup,Parallel Giant Slalom,7,360.00
-110,Keiser Jessica,Female,12-12-2020,Cortina d Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,21,
-111,Keiser Jessica,Female,12-12-2020,Cortina d Ampezzo,ITA,Switzerland,World Cup,Parallel Giant Slalom,21,100.00
-112,Keiser Jessica,Female,08-03-2020,Tauplitz,AUT,Switzerland,European Cup,Parallel Slalom,8,115.20
-113,Keiser Jessica,Female,07-03-2020,Tauplitz,AUT,Switzerland,European Cup,Parallel Slalom,13,72.00
-114,Keiser Jessica,Female,01-03-2020,Gudauri,GEO,Switzerland,European Cup,Parallel Giant Slalom,8,64.00
-115,Keiser Jessica,Female,29-02-2020,Gudauri,GEO,Switzerland,European Cup,Parallel Slalom,6,80.00
-116,Keiser Jessica,Female,23-02-2020,Funes/Villnoesses,ITA,Switzerland,FIS,Parallel Giant Slalom,1,220.00
-117,Keiser Jessica,Female,22-02-2020,Funes/Villnoesses,ITA,Switzerland,FIS,Parallel Giant Slalom,2,176.00
-118,Keiser Jessica,Female,16-02-2020,Simonhoehe,AUT,Switzerland,European Cup,Parallel Giant Slalom,3,216.00
-119,Keiser Jessica,Female,15-02-2020,Simonhoehe,AUT,Switzerland,European Cup,Parallel Giant Slalom,24,25.20
-120,Keiser Jessica,Female,09-02-2020,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,4,180.00
-121,Keiser Jessica,Female,08-02-2020,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,9,104.40
-122,Keiser Jessica,Female,25-01-2020,Piancavallo,ITA,Switzerland,World Cup,Parallel Slalom,22,90.00
-123,Keiser Jessica,Female,25-01-2020,Piancavallo,ITA,Switzerland,Qualification,Parallel Slalom,22,
-124,Keiser Jessica,Female,18-01-2020,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,19,120.00
-125,Keiser Jessica,Female,18-01-2020,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,19,
-126,Keiser Jessica,Female,14-01-2020,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,19,120.00
-127,Keiser Jessica,Female,14-01-2020,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,19,
-128,Keiser Jessica,Female,11-01-2020,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,17,140.00
-129,Keiser Jessica,Female,11-01-2020,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,17,
-130,Keiser Jessica,Female,22-12-2019,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,8,115.20
-131,Keiser Jessica,Female,21-12-2019,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,11,86.40
-132,Keiser Jessica,Female,19-12-2019,Carezza,ITA,Switzerland,Open,Parallel Giant Slalom,28,40.00
-133,Keiser Jessica,Female,14-12-2019,Cortina d Ampezzo,ITA,Switzerland,World Cup,Parallel Giant Slalom,31,28.00
-134,Keiser Jessica,Female,14-12-2019,Cortina d Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,31,
-135,Keiser Jessica,Female,08-12-2019,Bannoye,RUS,Switzerland,World Cup,Parallel Giant Slalom,26,50.00
-136,Keiser Jessica,Female,08-12-2019,Bannoye,RUS,Switzerland,Qualification,Parallel Giant Slalom,26,
-137,Keiser Jessica,Female,07-12-2019,Bannoye,RUS,Switzerland,World Cup,Parallel Slalom,21,100.00
-138,Keiser Jessica,Female,07-12-2019,Bannoye,RUS,Switzerland,Qualification,Parallel Slalom,21,
-139,Keiser Jessica,Female,07-04-2019,Racines,ITA,Switzerland,European Cup,Parallel Slalom,7,129.60
-140,Keiser Jessica,Female,06-04-2019,Racines,ITA,Switzerland,European Cup,Parallel Slalom,3,216.00
-141,Keiser Jessica,Female,30-03-2019,Radstadt,AUT,Switzerland,National Championships,Parallel Slalom,2,232.00
-142,Keiser Jessica,Female,17-03-2019,Rogla,SLO,Switzerland,European Cup,Parallel Giant Slalom,2,288.00
-143,Keiser Jessica,Female,16-03-2019,Rogla,SLO,Switzerland,European Cup,Parallel Giant Slalom,15,57.60
-144,Keiser Jessica,Female,09-03-2019,Scuol,SUI,Switzerland,World Cup,Parallel GS,DNS,
-145,Keiser Jessica,Female,09-03-2019,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,DNS,
-146,Keiser Jessica,Female,03-03-2019,Davos,SUI,Switzerland,European Cup,Parallel Slalom,12,79.20
-147,Keiser Jessica,Female,02-03-2019,Davos,SUI,Switzerland,European Cup,Parallel Giant Slalom,9,104.40
-148,Keiser Jessica,Female,10-02-2019,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,9,75.40
-149,Keiser Jessica,Female,09-02-2019,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,4,130.00
-150,Keiser Jessica,Female,27-01-2019,Lachtal,AUT,Switzerland,European Cup,Parallel GS,DSQ1,
-151,Keiser Jessica,Female,26-01-2019,Lachtal,AUT,Switzerland,European Cup,Parallel GS,1,180.00
-152,Keiser Jessica,Female,19-01-2019,Rogla,SLO,Switzerland,World Cup,Parallel GS,28,40.00
-153,Keiser Jessica,Female,19-01-2019,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,28,
-154,Keiser Jessica,Female,11-01-2019,Bad Gastein,AUT,Switzerland,European Cup,Parallel Slalom,23,28.80
-155,Keiser Jessica,Female,10-01-2019,Bad Gastein,AUT,Switzerland,European Cup,Parallel Slalom,16,54.00
-156,Keiser Jessica,Female,08-01-2019,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,27,45.00
-157,Keiser Jessica,Female,08-01-2019,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,27,
-158,Keiser Jessica,Female,23-12-2018,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,4,180.00
-159,Keiser Jessica,Female,22-12-2018,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,2,288.00
-160,Keiser Jessica,Female,15-12-2018,Cortina d'Ampezzo,ITA,Switzerland,World Cup,Parallel GS,24,70.00
-161,Keiser Jessica,Female,15-12-2018,Cortina d'Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,24,
-162,Keiser Jessica,Female,13-12-2018,Carezza,ITA,Switzerland,World Cup,Parallel GS,25,60.00
-163,Keiser Jessica,Female,13-12-2018,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,25,
-164,Keiser Jessica,Female,02-12-2018,Pfelders,ITA,Switzerland,FIS,Parallel Giant Slalom,4,110.00
-165,Keiser Jessica,Female,01-12-2018,Pfelders,ITA,Switzerland,FIS,Parallel Giant Slalom,DNF1,
-166,Keiser Jessica,Female,08-04-2018,Racines,ITA,Switzerland,European Cup,Parallel Slalom,10,93.60
-167,Keiser Jessica,Female,07-04-2018,Racines,ITA,Switzerland,European Cup,Parallel Slalom,5,162.00
-168,Keiser Jessica,Female,25-03-2018,Davos,SUI,Switzerland,European Cup,Parallel Slalom,8,115.20
-169,Keiser Jessica,Female,24-03-2018,Davos,SUI,Switzerland,European Cup,Parallel GS,13,72.00
-170,Keiser Jessica,Female,21-03-2018,Rogla,SLO,Switzerland,European Cup,Parallel GS,10,93.60
-171,Keiser Jessica,Female,20-03-2018,Rogla,SLO,Switzerland,European Cup,Parallel GS,10,93.60
-172,Keiser Jessica,Female,18-03-2018,Gosau,AUT,Switzerland,FIS,Parallel Slalom,1,140.00
-173,Keiser Jessica,Female,17-03-2018,Gosau,AUT,Switzerland,FIS,Parallel Slalom,1,140.00
-174,Keiser Jessica,Female,11-03-2018,Tauplitz,AUT,Switzerland,European Cup,Parallel Slalom,9,84.10
-175,Keiser Jessica,Female,10-03-2018,Tauplitz,AUT,Switzerland,European Cup,Parallel Slalom,7,104.40
-176,Keiser Jessica,Female,08-03-2018,Carezza,ITA,Switzerland,National Championships,Parallel Slalom,6,96.00
-177,Keiser Jessica,Female,07-03-2018,Carezza,ITA,Switzerland,National Championships,Parallel GS,4,145.00
-178,Keiser Jessica,Female,25-02-2018,Funes/Villnoess,ITA,Switzerland,FIS,Parallel GS,2,144.00
-179,Keiser Jessica,Female,24-02-2018,Funes/Villnoess,ITA,Switzerland,FIS,Parallel GS,4,90.00
-180,Keiser Jessica,Female,18-02-2018,Simonhoehe,AUT,Switzerland,FIS,Parallel GS,2,176.00
-181,Keiser Jessica,Female,17-02-2018,Simonhoehe,AUT,Switzerland,FIS,Parallel GS,4,110.00
-182,Keiser Jessica,Female,11-02-2018,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,7,115.20
-183,Keiser Jessica,Female,10-02-2018,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,6,144.00
-184,Keiser Jessica,Female,04-02-2018,Gerlitzen,AUT,Switzerland,National Championships,Parallel GS,6,116.00
-185,Keiser Jessica,Female,03-02-2018,Gerlitzen,AUT,Switzerland,National Championships,Parallel Slalom,5,130.50
-186,Keiser Jessica,Female,21-01-2018,Lachtal,AUT,Switzerland,European Cup,Parallel GS,7,79.20
-187,Keiser Jessica,Female,20-01-2018,Lachtal,AUT,Switzerland,European Cup,Parallel GS,2,176.00
-188,Keiser Jessica,Female,02-12-2017,Pfelders,ITA,Switzerland,FIS,Parallel GS,8,70.40
-189,Keiser Jessica,Female,01-12-2017,Pfelders,ITA,Switzerland,FIS,Parallel GS,8,64.00
-190,Keiser Jessica,Female,17-12-2016,Cortina d'Ampezzo,ITA,Switzerland,World Cup,Parallel Slalom,36,19.70
-191,Keiser Jessica,Female,11-12-2016,Hochfügen,GER,Switzerland,European Cup,Parallel GS,30,11.52
-192,Keiser Jessica,Female,10-12-2016,Hochfügen,GER,Switzerland,European Cup,Parallel GS,26,18.00
-193,Keiser Jessica,Female,04-11-2016,Landgraaf,NED,Switzerland,European Cup,Parallel Slalom,29,12.96
-194,Keiser Jessica,Female,03-11-2016,Landgraaf,NED,Switzerland,European Cup,Parallel Slalom,33,8.64
-195,Keiser Jessica,Female,08-04-2016,Breuil Cervinia - Valtournenche,ITA,Switzerland,National Championships,Parallel Slalom,4,160.00
-196,Keiser Jessica,Female,07-04-2016,Breuil Cervinia - Valtournenche,ITA,Switzerland,National Championships,Parallel GS,3,192.00
-197,Keiser Jessica,Female,27-03-2016,Racines,ITA,Switzerland,European Cup,Parallel Slalom,13,100.00
-198,Keiser Jessica,Female,26-03-2016,Racines,ITA,Switzerland,European Cup,Parallel Slalom,17,70.00
-199,Keiser Jessica,Female,24-03-2016,Rogla,SLO,Switzerland,European Cup,Parallel Slalom,15,80.00
-200,Keiser Jessica,Female,23-03-2016,Rogla,SLO,Switzerland,European Cup,Parallel GS,DNF1,
-201,Keiser Jessica,Female,20-03-2016,Gerlitzen,AUT,Switzerland,European Cup,Parallel GS,23,40.00
-202,Keiser Jessica,Female,19-03-2016,Gerlitzen,AUT,Switzerland,European Cup,Parallel GS,26,25.00
-203,Keiser Jessica,Female,13-03-2016,Scuol,SUI,Switzerland,National Championships,Parallel Slalom,6,144.00
-204,Keiser Jessica,Female,12-03-2016,Scuol,SUI,Switzerland,National Championships,Parallel GS,6,144.00
-205,Keiser Jessica,Female,06-03-2016,Tauplitz,AUT,Switzerland,FIS,Parallel Slalom,17,30.80
-206,Keiser Jessica,Female,05-03-2016,Tauplitz,AUT,Switzerland,FIS,Parallel Slalom,8,70.40
-207,Keiser Jessica,Female,28-02-2016,Falkert,AUT,Switzerland,FIS,Giant Slalom,2,176.00
-208,Keiser Jessica,Female,27-02-2016,Falkert,AUT,Switzerland,FIS,Giant Slalom,1,220.00
-209,Keiser Jessica,Female,21-02-2016,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,21,50.00
-210,Keiser Jessica,Female,20-02-2016,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,27,22.50
-211,Keiser Jessica,Female,07-02-2016,Lachtal,AUT,Switzerland,FIS,Parallel Slalom,21,26.00
-212,Keiser Jessica,Female,06-02-2016,Lachtal,AUT,Switzerland,National Championships,Parallel Slalom,20,39.60
-213,Keiser Jessica,Female,30-01-2016,Stara Planina,SRB,Switzerland,European Cup,Parallel GS,12,48.40
-214,Keiser Jessica,Female,29-01-2016,Stara Planina,SRB,Switzerland,European Cup,Parallel Slalom,11,52.80
-215,Keiser Jessica,Female,17-01-2016,Kreischberg,AUT,Switzerland,FIS,Parallel GS,24,18.20
-216,Keiser Jessica,Female,16-01-2016,Kreischberg,AUT,Switzerland,FIS,Parallel GS,29,9.36
-217,Keiser Jessica,Female,06-12-2015,Hochfuegen,GER,Switzerland,European Cup,Parallel GS,38,9.55
-218,Keiser Jessica,Female,05-12-2015,Hochfuegen,GER,Switzerland,European Cup,Parallel GS,44,8.65
-219,Keiser Jessica,Female,29-03-2015,Grächen,SUI,Switzerland,National Championships,Parallel Slalom,11,86.40
-220,Keiser Jessica,Female,22-03-2015,Racines,ITA,Switzerland,European Cup,Parallel Slalom,13,100.00
-221,Keiser Jessica,Female,21-03-2015,Racines,ITA,Switzerland,European Cup,Parallel Slalom,18,65.00
-222,Keiser Jessica,Female,18-03-2015,Rogla,SLO,Switzerland,European Cup,Parallel Slalom,16,60.00
-223,Keiser Jessica,Female,17-03-2015,Rogla,SLO,Switzerland,European Cup,Parallel GS,25,24.00
-224,Keiser Jessica,Female,25-02-2015,Marianske Lazne,CZE,Switzerland,European Cup,Parallel Slalom,6,116.00
-225,Keiser Jessica,Female,24-02-2015,Marianske Lazne,CZE,Switzerland,European Cup,Parallel Slalom,11,69.60
-226,Keiser Jessica,Female,22-02-2015,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,16,67.50
-227,Keiser Jessica,Female,21-02-2015,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,15,80.00
-228,Keiser Jessica,Female,15-02-2015,Kayseri,TUR,Switzerland,European Cup,Parallel Slalom,11,76.80
-229,Keiser Jessica,Female,14-02-2015,Kayseri,TUR,Switzerland,European Cup,Parallel Slalom,10,93.60
-230,Keiser Jessica,Female,10-02-2015,Sierra Nevada,ESP,Switzerland,Universiade,Parallel GS,16,75.00
-231,Keiser Jessica,Female,31-01-2015,Livigno,ITA,Switzerland,European Cup,Parallel GS,7,86.40
-232,Keiser Jessica,Female,30-01-2015,Livigno,ITA,Switzerland,European Cup,Parallel GS,10,62.40
-233,Keiser Jessica,Female,24-01-2015,Samnaun,SUI,Switzerland,FIS,Parallel Slalom,16,39.00
-234,Keiser Jessica,Female,23-01-2015,Samnaun,SUI,Switzerland,FIS,Parallel Slalom,14,46.80
-235,Keiser Jessica,Female,06-01-2015,Dachstein West / Gosau,AUT,Switzerland,FIS,Parallel Slalom,25,15.60
-236,Keiser Jessica,Female,05-01-2015,Dachstein West / Gosau,AUT,Switzerland,FIS,Parallel Slalom,20,28.60
-237,Keiser Jessica,Female,10-10-2014,Landgraaf,NED,Switzerland,FIS,Parallel Slalom,13,52.00
-238,Keiser Jessica,Female,09-10-2014,Landgraaf,NED,Switzerland,National Championships,Parallel Slalom,13,72.00
-239,Keiser Jessica,Female,09-04-2014,Chiesa in Valmalenco,ITA,Switzerland,National Championships,Parallel Slalom,6,144.00
-240,Keiser Jessica,Female,08-04-2014,Chiesa in Valmalenco,ITA,Switzerland,National Championships,Parallel GS,6,144.00
-241,Keiser Jessica,Female,05-04-2014,Furtschellas,SUI,Switzerland,National Championships,Parallel GS,12,79.20
-242,Keiser Jessica,Female,30-03-2014,Sestriere,ITA,Switzerland,FIS,Slalom,2,72.00
-243,Keiser Jessica,Female,29-03-2014,Sestriere,ITA,Switzerland,FIS,Giant Slalom,2,72.00
-244,Keiser Jessica,Female,25-03-2014,Chiesa in Valmalenco,ITA,Switzerland,FIS Junior World Championships,Parallel Slalom,13,72.00
-245,Keiser Jessica,Female,24-03-2014,Chiesa in Valmalenco,ITA,Switzerland,FIS Junior World Championships,Parallel GS,18,46.80
-246,Keiser Jessica,Female,16-03-2014,Ratsching/Racines,ITA,Switzerland,European Cup,Parallel Slalom,30,12.80
-247,Keiser Jessica,Female,15-03-2014,Ratsching/Racines,ITA,Switzerland,European Cup,Parallel Slalom,23,32.00
-248,Keiser Jessica,Female,09-03-2014,Tauplitz,AUT,Switzerland,FIS,Parallel Slalom,7,93.60
-249,Keiser Jessica,Female,08-03-2014,Tauplitz,AUT,Switzerland,FIS,Parallel Slalom,11,62.40
-250,Keiser Jessica,Female,05-03-2014,Rogla,SLO,Switzerland,European Cup,Parallel Slalom,20,49.50
-251,Keiser Jessica,Female,04-03-2014,Rogla,SLO,Switzerland,European Cup,Parallel GS,24,31.50
-252,Keiser Jessica,Female,01-03-2014,Gerlitzen,AUT,Switzerland,European Cup,Parallel GS,16,60.00
-253,Keiser Jessica,Female,22-02-2014,Gosau,AUT,Switzerland,FIS,Slalom,22,0.00
-254,Keiser Jessica,Female,22-02-2014,Gosau,AUT,Switzerland,FIS,Slalom,11,62.40
-255,Keiser Jessica,Female,16-02-2014,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,12,70.40
-256,Keiser Jessica,Female,15-02-2014,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,10,83.20
-257,Keiser Jessica,Female,26-01-2014,Lizzola Valbondione,ITA,Switzerland,European Cup,Parallel Slalom,24,25.20
-258,Keiser Jessica,Female,25-01-2014,Lizzola Valbondione,ITA,Switzerland,European Cup,Parallel Slalom,31,10.08
-259,Keiser Jessica,Female,22-12-2013,Schönberg-Lachtal,AUT,Switzerland,European Cup,Parallel Slalom,27,22.50
-260,Keiser Jessica,Female,21-12-2013,Schönberg-Lachtal,AUT,Switzerland,European Cup,Parallel Slalom,23,40.00
-261,Keiser Jessica,Female,19-12-2013,Monte Bondone - Canalon Lavaman,ITA,Switzerland,Universiade,Parallel GS,18,65.00
-262,Keiser Jessica,Female,15-12-2013,Samnaun,SUI,Switzerland,FIS,Parallel Slalom,18,33.80
-263,Keiser Jessica,Female,14-12-2013,Samnaun,SUI,Switzerland,FIS,Parallel Slalom,7,64.80
-264,Keiser Jessica,Female,08-12-2013,Hochfügen,AUT,Switzerland,European Cup,Parallel GS,49,7.90
-265,Keiser Jessica,Female,07-12-2013,Hochfügen,AUT,Switzerland,European Cup,Parallel GS,44,8.65
-266,Keiser Jessica,Female,08-11-2013,Landgraaf,NED,Switzerland,FIS,Parallel Slalom,14,46.80
-267,Keiser Jessica,Female,07-11-2013,Landgraaf,NED,Switzerland,FIS,Parallel Slalom,15,41.60
-268,Keiser Jessica,Female,04-04-2012,Chiesa in Valmalenco,ITA,Switzerland,National Championships,Parallel Slalom,10,67.60
-269,Keiser Jessica,Female,03-04-2012,Chiesa in Valmalenco,ITA,Switzerland,National Championships,Giant Slalom,5,117.00
-270,Keiser Jessica,Female,01-04-2012,Sils,SUI,Switzerland,National Championships,Parallel GS,9,104.40
-271,Keiser Jessica,Female,31-03-2012,St. Gallenkirch,AUT,Switzerland,National Championships,Parallel GS,12,79.20
-272,Keiser Jessica,Female,20-03-2012,Rogla,SLO,Switzerland,European Cup,Parallel Slalom,49,5.69
-273,Keiser Jessica,Female,19-03-2012,Rogla,SLO,Switzerland,European Cup,Parallel GS,40,6.66
-274,Keiser Jessica,Female,18-03-2012,Tauplitz,AUT,Switzerland,FIS,Parallel Slalom,7,72.00
-275,Keiser Jessica,Female,17-03-2012,Tauplitz,AUT,Switzerland,FIS,Parallel Slalom,18,28.60
-276,Keiser Jessica,Female,04-03-2012,Gerlitzen,AUT,Switzerland,FIS,Parallel Slalom,18,31.20
-277,Keiser Jessica,Female,03-03-2012,Gerlitzen,AUT,Switzerland,FIS,Parallel Slalom,21,24.00
-278,Keiser Jessica,Female,25-02-2012,Brauneck,GER,Switzerland,Junior,Giant Slalom,2,40.00
-279,Keiser Jessica,Female,25-02-2012,Brauneck,GER,Switzerland,Junior,Slalom,3,30.00
-280,Keiser Jessica,Female,19-02-2012,Gudauri,GEO,Switzerland,National Championships,Parallel Slalom,8,38.40
-281,Keiser Jessica,Female,18-02-2012,Gudauri,GEO,Switzerland,National Championships,Parallel GS,8,38.40
-282,Keiser Jessica,Female,12-02-2012,Rossfeld,GER,Switzerland,Junior,Giant Slalom,4,35.00
-283,Keiser Jessica,Female,12-02-2012,Rossfeld,GER,Switzerland,Junior,Slalom,4,35.00
-284,Keiser Jessica,Female,11-02-2012,Gruenstein,GER,Switzerland,Junior,Giant Slalom,4,45.00
-285,Keiser Jessica,Female,11-02-2012,Gruenstein,GER,Switzerland,Junior,Slalom,5,40.50
-286,Keiser Jessica,Female,05-02-2012,Ratschings-Racines,ITA,Switzerland,European Cup,Parallel Slalom,36,6.30
-287,Keiser Jessica,Female,03-02-2012,Goetschen,GER,Switzerland,National Championships,Parallel GS,17,50.40
-288,Keiser Jessica,Female,29-01-2012,Adelboden,SUI,Switzerland,European Cup,Parallel GS,21,26.00
-289,Keiser Jessica,Female,22-01-2012,Valgardena-S. Cristina-Seceda,ITA,Switzerland,FIS,Slalom,14,36.00
-290,Keiser Jessica,Female,21-01-2012,Valgardena-S. Cristina-Seceda,ITA,Switzerland,FIS,Slalom,12,57.20
-291,Keiser Jessica,Female,08-01-2012,Kreischberg,AUT,Switzerland,FIS,Parallel GS,37,5.04
-292,Keiser Jessica,Female,07-01-2012,Kreischberg,AUT,Switzerland,FIS,Parallel GS,28,10.40
-293,Keiser Jessica,Female,08-04-2011,Chiesa Valmalenco - Alpe Palu,ITA,Switzerland,National Championships,Parallel GS,6,80.00
-294,Keiser Jessica,Female,03-04-2011,Sils,SUI,Switzerland,National Championships,Parallel GS,20,39.60
-295,Keiser Jessica,Female,27-03-2011,Lachtal,AUT,Switzerland,European Cup,Parallel Slalom,37,5.04
-296,Keiser Jessica,Female,26-03-2011,Lachtal,AUT,Switzerland,European Cup,Parallel Slalom,42,4.65
-297,Keiser Jessica,Female,25-03-2011,Lachtal,AUT,Switzerland,European Cup,Parallel GS,34,7.04
-298,Keiser Jessica,Female,13-03-2011,Radstadt,AUT,Switzerland,National Championships,Parallel Slalom,20,39.60
-299,Keiser Jessica,Female,12-03-2011,Radstadt,AUT,Switzerland,National Championships,Parallel GS,25,21.60
-300,Keiser Jessica,Female,01-03-2011,Rogla,SLO,Switzerland,European Cup,Parallel Slalom,30,10.24
-301,Keiser Jessica,Female,28-02-2011,Rogla,SLO,Switzerland,European Cup,Parallel GS,30,8.32
-302,Keiser Jessica,Female,27-02-2011,Villach / Gerlitzen,AUT,Switzerland,FIS,Parallel Slalom,27,0.00
-303,Keiser Jessica,Female,26-02-2011,Villach / Gerlitzen,AUT,Switzerland,FIS,Parallel Slalom,28,10.40
-304,Keiser Jessica,Female,13-02-2011,Berchtesgaden/Goetschen,GER,Switzerland,Junior,Parallel Slalom,8,32.00
-305,Keiser Jessica,Female,12-02-2011,Berchtesgaden/Goetschen,GER,Switzerland,Junior,Giant Slalom,10,28.60
-306,Keiser Jessica,Female,23-01-2011,Innsbruck/Patscherkofel,AUT,Switzerland,FIS,Parallel Slalom,55,
-307,Keiser Jessica,Female,22-01-2011,Innsbruck/Patscherkofel,AUT,Switzerland,FIS,Parallel GS,28,9.60
-308,Keiser Jessica,Female,12-01-2011,Berchtesgaden/Goetschen,GER,Switzerland,National Championships,Parallel GS,43,6.34
-309,Keiser Jessica,Female,19-12-2010,Samnaun,SUI,Switzerland,FIS,Parallel Slalom,DSQ,
-310,Keiser Jessica,Female,18-12-2010,Samnaun,SUI,Switzerland,FIS,Parallel Slalom,24,16.80
-311,Keiser Jessica,Female,17-12-2010,Samnaun,SUI,Switzerland,FIS,Parallel Slalom,26,12.00
-312,Keiser Jessica,Female,11-12-2010,Ratschings/Racines,ITA,Switzerland,European Cup,Parallel GS,42,3.94
-313,Keiser Jessica,Female,10-12-2010,Ratschings/Racines,ITA,Switzerland,FIS,Parallel GS,41,4.00
-314,Keiser Jessica,Female,05-12-2010,Welschnofen-Carezza,ITA,Switzerland,European Cup,Parallel Slalom,44,8.65
-315,Keiser Jessica,Female,04-12-2010,Welschnofen-Carezza,ITA,Switzerland,European Cup,Parallel GS,44,8.65
-316,Keiser Jessica,Female,28-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Switzerland,FIS,Parallel GS,57,0.00
-317,Keiser Jessica,Female,27-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Switzerland,European Cup,Parallel GS,54,7.15
+0,Keiser Jessica,Female,02-03-2025,Krynica,POL,Switzerland,Qualification,Parallel Giant Slalom,21,
+1,Keiser Jessica,Female,02-03-2025,Krynica,POL,Switzerland,World Cup,Parallel Giant Slalom,21,
+2,Keiser Jessica,Female,01-03-2025,Krynica,POL,Switzerland,Qualification,Parallel Giant Slalom,24,
+3,Keiser Jessica,Female,01-03-2025,Krynica,POL,Switzerland,World Cup,Parallel Giant Slalom,24,
+4,Keiser Jessica,Female,23-02-2025,Lenzerheide,SUI,Switzerland,National Championships,Giant Slalom,2,232.00
+5,Keiser Jessica,Female,22-02-2025,Lenzerheide,SUI,Switzerland,National Championships,Parallel Slalom,3,174.00
+6,Keiser Jessica,Female,16-02-2025,Val St. Come,CAN,Switzerland,Qualification,Parallel Giant Slalom,25,
+7,Keiser Jessica,Female,16-02-2025,Val St. Come,CAN,Switzerland,World Cup,Parallel Giant Slalom,25,60.00
+8,Keiser Jessica,Female,15-02-2025,Val St. Come,CAN,Switzerland,Qualification,Parallel Giant Slalom,36,
+9,Keiser Jessica,Female,15-02-2025,Val St. Come,CAN,Switzerland,World Cup,Parallel Giant Slalom,36,
+10,Keiser Jessica,Female,26-01-2025,Simonhöhe,AUT,Switzerland,European Cup,Parallel Giant Slalom,10,93.60
+11,Keiser Jessica,Female,25-01-2025,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,21,
+12,Keiser Jessica,Female,25-01-2025,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,21,100.00
+13,Keiser Jessica,Female,22-01-2025,Bansko,BUL,Switzerland,European Cup,Parallel Giant Slalom,5,162.00
+14,Keiser Jessica,Female,21-01-2025,Bansko,BUL,Switzerland,European Cup,Parallel Giant Slalom,12,79.20
+15,Keiser Jessica,Female,19-01-2025,Bansko,BUL,Switzerland,Qualification,Parallel Giant Slalom,31,
+16,Keiser Jessica,Female,19-01-2025,Bansko,BUL,Switzerland,World Cup,Parallel Giant Slalom,31,28.00
+17,Keiser Jessica,Female,18-01-2025,Bansko,BUL,Switzerland,Qualification,Parallel Giant Slalom,17,
+18,Keiser Jessica,Female,18-01-2025,Bansko,BUL,Switzerland,World Cup,Parallel Giant Slalom,17,140.00
+19,Keiser Jessica,Female,14-01-2025,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,15,
+20,Keiser Jessica,Female,14-01-2025,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,15,160.00
+21,Keiser Jessica,Female,11-01-2025,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,30,
+22,Keiser Jessica,Female,11-01-2025,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,30,32.00
+23,Keiser Jessica,Female,21-12-2024,Davos,SUI,Switzerland,Qualification,Parallel Slalom,17,
+24,Keiser Jessica,Female,21-12-2024,Davos,SUI,Switzerland,World Cup,Parallel Slalom,17,140.00
+25,Keiser Jessica,Female,14-12-2024,Cortina d'Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,25,
+26,Keiser Jessica,Female,14-12-2024,Cortina d'Ampezzo,ITA,Switzerland,World Cup,Parallel Giant Slalom,25,60.00
+27,Keiser Jessica,Female,12-12-2024,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,22,
+28,Keiser Jessica,Female,12-12-2024,Carezza,ITA,Switzerland,World Cup,Parallel Giant Slalom,22,90.00
+29,Keiser Jessica,Female,08-12-2024,Yanqing (NASC),CHN,Switzerland,World Cup,Parallel Slalom,22,90.00
+30,Keiser Jessica,Female,08-12-2024,Yanqing (NASC),CHN,Switzerland,Qualification,Parallel Slalom,22,
+31,Keiser Jessica,Female,07-12-2024,Yanqing (NASC),CHN,Switzerland,World Cup,Parallel Giant Slalom,20,110.00
+32,Keiser Jessica,Female,07-12-2024,Yanqing (NASC),CHN,Switzerland,Qualification,Parallel Giant Slalom,20,
+33,Keiser Jessica,Female,01-12-2024,Mylin,CHN,Switzerland,World Cup,Parallel Slalom,19,120.00
+34,Keiser Jessica,Female,01-12-2024,Mylin,CHN,Switzerland,Qualification,Parallel Slalom,19,
+35,Keiser Jessica,Female,30-11-2024,Mylin,CHN,Switzerland,World Cup,Parallel Giant Slalom,27,45.00
+36,Keiser Jessica,Female,30-11-2024,Mylin,CHN,Switzerland,Qualification,Parallel Giant Slalom,27,
+37,Keiser Jessica,Female,23-12-2023,Davos ,SUI,Switzerland,Qualification,Parallel Slalom,14,
+38,Keiser Jessica,Female,23-12-2023,Davos,SUI,Switzerland,World Cup,Parallel Slalom,14,180.00
+39,Keiser Jessica,Female,16-12-2023,Cortina d'Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,31,
+40,Keiser Jessica,Female,16-12-2023,Cortina d'Ampezzo,ITA,Switzerland,World Cup,Parallel Giant Slalom,31,28.00
+41,Keiser Jessica,Female,14-12-2023,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,25,
+42,Keiser Jessica,Female,14-12-2023,Carezza,ITA,Switzerland,World Cup,Parallel Giant Slalom,25,60.00
+43,Keiser Jessica,Female,18-03-2023,Berchtesgaden,GER,Switzerland,Qualification,Parallel Slalom,12,
+44,Keiser Jessica,Female,18-03-2023,Berchtesgaden,GER,Switzerland,World Cup,Parallel Slalom,12,220.00
+45,Keiser Jessica,Female,15-03-2023,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,12,220.00
+46,Keiser Jessica,Female,15-03-2023,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,12,
+47,Keiser Jessica,Female,21-02-2023,Bakuriani,GEO,Switzerland,Qualification,Parallel Slalom,16,
+48,Keiser Jessica,Female,21-02-2023,Bakuriani,GEO,Switzerland,World Championships,Parallel Slalom,16,150.00
+49,Keiser Jessica,Female,19-02-2023,Bakuriani,GEO,Switzerland,Qualification,Parallel Giant Slalom,13,
+50,Keiser Jessica,Female,19-02-2023,Bakuriani,GEO,Switzerland,World Championships,Parallel Giant Slalom,12,220.00
+51,Keiser Jessica,Female,27-01-2023,Blue Mountain,CAN,Switzerland,Qualification,Parallel Giant Slalom,8,
+52,Keiser Jessica,Female,27-01-2023,Blue Mountain,CAN,Switzerland,World Cup,Parallel Giant Slalom,11,240.00
+53,Keiser Jessica,Female,26-01-2023,Blue Mountain,CAN,Switzerland,Qualification,Parallel Giant Slalom,15,
+54,Keiser Jessica,Female,26-01-2023,Blue Mountain,CAN,Switzerland,World Cup,Parallel Giant Slalom,16,150.00
+55,Keiser Jessica,Female,22-01-2023,Bansko,BUL,Switzerland,Qualification,Parallel Slalom,13,
+56,Keiser Jessica,Female,22-01-2023,Bansko,BUL,Switzerland,World Cup,Parallel Slalom,13,200.00
+57,Keiser Jessica,Female,21-01-2023,Bansko,BUL,Switzerland,Qualification,Parallel Slalom,14,
+58,Keiser Jessica,Female,21-01-2023,Bansko,BUL,Switzerland,World Cup,Parallel Slalom,3,600.00
+59,Keiser Jessica,Female,14-01-2023,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,13,
+60,Keiser Jessica,Female,14-01-2023,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,13,200.00
+61,Keiser Jessica,Female,10-01-2023,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,10,
+62,Keiser Jessica,Female,10-01-2023,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,4,500.00
+63,Keiser Jessica,Female,17-12-2022,Cortina d'Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,15,
+64,Keiser Jessica,Female,17-12-2022,Cortina d'Ampezzo,ITA,Switzerland,World Cup,Parallel Giant Slalom,16,150.00
+65,Keiser Jessica,Female,15-12-2022,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,14,
+66,Keiser Jessica,Female,15-12-2022,Carezza,ITA,Switzerland,World Cup,Parallel Giant Slalom,14,180.00
+67,Keiser Jessica,Female,11-12-2022,Winterberg,GER,Switzerland,World Cup,Parallel Slalom,6,400.00
+68,Keiser Jessica,Female,10-12-2022,Winterberg,GER,Switzerland,Qualification,Parallel Slalom,9,
+69,Keiser Jessica,Female,20-03-2022,Berchtesgaden,GER,Switzerland,World Cup,Parallel  Slalom Team,16,
+70,Keiser Jessica,Female,19-03-2022,Berchtesgaden,GER,Switzerland,Qualification,Parallel Slalom,24,
+71,Keiser Jessica,Female,19-03-2022,Berchtesgaden,GER,Switzerland,World Cup,Parallel Slalom,24,70.00
+72,Keiser Jessica,Female,16-03-2022,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,16,
+73,Keiser Jessica,Female,16-03-2022,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,16,150.00
+74,Keiser Jessica,Female,13-03-2022,Piancavallo,ITA,Switzerland,World Cup,Parallel Slalom Team,10,
+75,Keiser Jessica,Female,12-03-2022,Piancavallo,ITA,Switzerland,Qualification,Parallel Slalom,16,
+76,Keiser Jessica,Female,12-03-2022,Piancavallo,ITA,Switzerland,World Cup,Parallel Slalom,16,150.00
+77,Keiser Jessica,Female,06-03-2022,Lachtal,AUT,Switzerland,European Cup,Parallel Giant Slalom,10,93.60
+78,Keiser Jessica,Female,05-03-2022,Lachtal,AUT,Switzerland,European Cup,Parallel Giant Slalom,9,104.40
+79,Keiser Jessica,Female,08-02-2022,Beijing,CHN,Switzerland,Qualification,Parallel Giant Slalom,28,
+80,Keiser Jessica,Female,08-02-2022,Beijing,CHN,Switzerland,Olympic Winter Games,Parallel Giant Slalom,28,
+81,Keiser Jessica,Female,14-01-2022,Simonhöhe,AUT,Switzerland,World Cup,Parallel Giant Slalom,11,240.00
+82,Keiser Jessica,Female,14-01-2022,Simonhöhe,AUT,Switzerland,Qualification,Parallel Giant Slalom,8,
+83,Keiser Jessica,Female,18-12-2021,Cortina d Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,18,
+84,Keiser Jessica,Female,18-12-2021,Cortina d Ampezzo,ITA,Switzerland,World Cup,Parallel Giant Slalom,18,130.00
+85,Keiser Jessica,Female,16-12-2021,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,19,
+86,Keiser Jessica,Female,16-12-2021,Carezza,ITA,Switzerland,World Cup,Parallel Giant Slalom,19,120.00
+87,Keiser Jessica,Female,12-12-2021,Bannoye,RUS,Switzerland,Qualification,Parallel Slalom,20,
+88,Keiser Jessica,Female,12-12-2021,Bannoye,RUS,Switzerland,World Cup,Parallel Slalom,20,110.00
+89,Keiser Jessica,Female,11-12-2021,Bannoye,RUS,Switzerland,Qualification,Parallel Giant Slalom,14,
+90,Keiser Jessica,Female,11-12-2021,Bannoye,RUS,Switzerland,World Cup,Parallel Giant Slalom,14,180.00
+91,Keiser Jessica,Female,20-03-2021,Berchtesgaden,GER,Switzerland,Qualification,Parallel Slalom,17,
+92,Keiser Jessica,Female,20-03-2021,Berchtesgaden,GER,Switzerland,World Cup,Parallel Slalom,17,140.00
+93,Keiser Jessica,Female,13-03-2021,Davos Rinerhorn,SUI,Switzerland,European Cup,Parallel Giant Slalom,3,216.00
+94,Keiser Jessica,Female,06-03-2021,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,10,
+95,Keiser Jessica,Female,06-03-2021,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,11,240.00
+96,Keiser Jessica,Female,02-03-2021,Rogla,SLO,Switzerland,World Championships,Parallel Slalom,15,160.00
+97,Keiser Jessica,Female,02-03-2021,Rogla,SLO,Switzerland,Qualification,Parallel Slalom,15,
+98,Keiser Jessica,Female,01-03-2021,Rogla,SLO,Switzerland,World Championships,Parallel Giant Slalom,13,200.00
+99,Keiser Jessica,Female,01-03-2021,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,13,
+100,Keiser Jessica,Female,07-02-2021,Bannoye,RUS,Switzerland,Qualification,Parallel Slalom,22,
+101,Keiser Jessica,Female,07-02-2021,Bannoye,RUS,Switzerland,World Cup,Parallel Slalom,22,90.00
+102,Keiser Jessica,Female,06-02-2021,Bannoye,RUS,Switzerland,Qualification,Parallel Giant Slalom,4,
+103,Keiser Jessica,Female,06-02-2021,Bannoye,RUS,Switzerland,World Cup,Parallel Giant Slalom,6,400.00
+104,Keiser Jessica,Female,30-01-2021,Moscow,RUS,Switzerland,Qualification,Parallel Slalom,12,
+105,Keiser Jessica,Female,30-01-2021,Moscow,RUS,Switzerland,World Cup,Parallel Slalom,13,200.00
+106,Keiser Jessica,Female,24-01-2021,Davos,SUI,Switzerland,European Cup,Parallel Slalom,3,216.00
+107,Keiser Jessica,Female,23-01-2021,Davos,SUI,Switzerland,European Cup,Parallel Slalom,2,288.00
+108,Keiser Jessica,Female,12-01-2021,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,21,
+109,Keiser Jessica,Female,12-01-2021,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,21,100.00
+110,Keiser Jessica,Female,09-01-2021,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,14,
+111,Keiser Jessica,Female,09-01-2021,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,14,180.00
+112,Keiser Jessica,Female,17-12-2020,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,9,
+113,Keiser Jessica,Female,17-12-2020,Carezza,ITA,Switzerland,World Cup,Parallel Giant Slalom,7,360.00
+114,Keiser Jessica,Female,12-12-2020,Cortina d Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,21,
+115,Keiser Jessica,Female,12-12-2020,Cortina d Ampezzo,ITA,Switzerland,World Cup,Parallel Giant Slalom,21,100.00
+116,Keiser Jessica,Female,08-03-2020,Tauplitz,AUT,Switzerland,European Cup,Parallel Slalom,8,115.20
+117,Keiser Jessica,Female,07-03-2020,Tauplitz,AUT,Switzerland,European Cup,Parallel Slalom,13,72.00
+118,Keiser Jessica,Female,01-03-2020,Gudauri,GEO,Switzerland,European Cup,Parallel Giant Slalom,8,64.00
+119,Keiser Jessica,Female,29-02-2020,Gudauri,GEO,Switzerland,European Cup,Parallel Slalom,6,80.00
+120,Keiser Jessica,Female,23-02-2020,Funes/Villnoesses,ITA,Switzerland,FIS,Parallel Giant Slalom,1,220.00
+121,Keiser Jessica,Female,22-02-2020,Funes/Villnoesses,ITA,Switzerland,FIS,Parallel Giant Slalom,2,176.00
+122,Keiser Jessica,Female,16-02-2020,Simonhoehe,AUT,Switzerland,European Cup,Parallel Giant Slalom,3,216.00
+123,Keiser Jessica,Female,15-02-2020,Simonhoehe,AUT,Switzerland,European Cup,Parallel Giant Slalom,24,25.20
+124,Keiser Jessica,Female,09-02-2020,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,4,180.00
+125,Keiser Jessica,Female,08-02-2020,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,9,104.40
+126,Keiser Jessica,Female,25-01-2020,Piancavallo,ITA,Switzerland,World Cup,Parallel Slalom,22,90.00
+127,Keiser Jessica,Female,25-01-2020,Piancavallo,ITA,Switzerland,Qualification,Parallel Slalom,22,
+128,Keiser Jessica,Female,18-01-2020,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,19,120.00
+129,Keiser Jessica,Female,18-01-2020,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,19,
+130,Keiser Jessica,Female,14-01-2020,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,19,120.00
+131,Keiser Jessica,Female,14-01-2020,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,19,
+132,Keiser Jessica,Female,11-01-2020,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,17,140.00
+133,Keiser Jessica,Female,11-01-2020,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,17,
+134,Keiser Jessica,Female,22-12-2019,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,8,115.20
+135,Keiser Jessica,Female,21-12-2019,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,11,86.40
+136,Keiser Jessica,Female,19-12-2019,Carezza,ITA,Switzerland,Open,Parallel Giant Slalom,28,40.00
+137,Keiser Jessica,Female,14-12-2019,Cortina d Ampezzo,ITA,Switzerland,World Cup,Parallel Giant Slalom,31,28.00
+138,Keiser Jessica,Female,14-12-2019,Cortina d Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,31,
+139,Keiser Jessica,Female,08-12-2019,Bannoye,RUS,Switzerland,World Cup,Parallel Giant Slalom,26,50.00
+140,Keiser Jessica,Female,08-12-2019,Bannoye,RUS,Switzerland,Qualification,Parallel Giant Slalom,26,
+141,Keiser Jessica,Female,07-12-2019,Bannoye,RUS,Switzerland,World Cup,Parallel Slalom,21,100.00
+142,Keiser Jessica,Female,07-12-2019,Bannoye,RUS,Switzerland,Qualification,Parallel Slalom,21,
+143,Keiser Jessica,Female,07-04-2019,Racines,ITA,Switzerland,European Cup,Parallel Slalom,7,129.60
+144,Keiser Jessica,Female,06-04-2019,Racines,ITA,Switzerland,European Cup,Parallel Slalom,3,216.00
+145,Keiser Jessica,Female,30-03-2019,Radstadt,AUT,Switzerland,National Championships,Parallel Slalom,2,232.00
+146,Keiser Jessica,Female,17-03-2019,Rogla,SLO,Switzerland,European Cup,Parallel Giant Slalom,2,288.00
+147,Keiser Jessica,Female,16-03-2019,Rogla,SLO,Switzerland,European Cup,Parallel Giant Slalom,15,57.60
+148,Keiser Jessica,Female,09-03-2019,Scuol,SUI,Switzerland,World Cup,Parallel GS,DNS,
+149,Keiser Jessica,Female,09-03-2019,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,DNS,
+150,Keiser Jessica,Female,03-03-2019,Davos,SUI,Switzerland,European Cup,Parallel Slalom,12,79.20
+151,Keiser Jessica,Female,02-03-2019,Davos,SUI,Switzerland,European Cup,Parallel Giant Slalom,9,104.40
+152,Keiser Jessica,Female,10-02-2019,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,9,75.40
+153,Keiser Jessica,Female,09-02-2019,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,4,130.00
+154,Keiser Jessica,Female,27-01-2019,Lachtal,AUT,Switzerland,European Cup,Parallel GS,DSQ1,
+155,Keiser Jessica,Female,26-01-2019,Lachtal,AUT,Switzerland,European Cup,Parallel GS,1,180.00
+156,Keiser Jessica,Female,19-01-2019,Rogla,SLO,Switzerland,World Cup,Parallel GS,28,40.00
+157,Keiser Jessica,Female,19-01-2019,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,28,
+158,Keiser Jessica,Female,11-01-2019,Bad Gastein,AUT,Switzerland,European Cup,Parallel Slalom,23,28.80
+159,Keiser Jessica,Female,10-01-2019,Bad Gastein,AUT,Switzerland,European Cup,Parallel Slalom,16,54.00
+160,Keiser Jessica,Female,08-01-2019,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,27,45.00
+161,Keiser Jessica,Female,08-01-2019,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,27,
+162,Keiser Jessica,Female,23-12-2018,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,4,180.00
+163,Keiser Jessica,Female,22-12-2018,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,2,288.00
+164,Keiser Jessica,Female,15-12-2018,Cortina d'Ampezzo,ITA,Switzerland,World Cup,Parallel GS,24,70.00
+165,Keiser Jessica,Female,15-12-2018,Cortina d'Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,24,
+166,Keiser Jessica,Female,13-12-2018,Carezza,ITA,Switzerland,World Cup,Parallel GS,25,60.00
+167,Keiser Jessica,Female,13-12-2018,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,25,
+168,Keiser Jessica,Female,02-12-2018,Pfelders,ITA,Switzerland,FIS,Parallel Giant Slalom,4,110.00
+169,Keiser Jessica,Female,01-12-2018,Pfelders,ITA,Switzerland,FIS,Parallel Giant Slalom,DNF1,
+170,Keiser Jessica,Female,08-04-2018,Racines,ITA,Switzerland,European Cup,Parallel Slalom,10,93.60
+171,Keiser Jessica,Female,07-04-2018,Racines,ITA,Switzerland,European Cup,Parallel Slalom,5,162.00
+172,Keiser Jessica,Female,25-03-2018,Davos,SUI,Switzerland,European Cup,Parallel Slalom,8,115.20
+173,Keiser Jessica,Female,24-03-2018,Davos,SUI,Switzerland,European Cup,Parallel GS,13,72.00
+174,Keiser Jessica,Female,21-03-2018,Rogla,SLO,Switzerland,European Cup,Parallel GS,10,93.60
+175,Keiser Jessica,Female,20-03-2018,Rogla,SLO,Switzerland,European Cup,Parallel GS,10,93.60
+176,Keiser Jessica,Female,18-03-2018,Gosau,AUT,Switzerland,FIS,Parallel Slalom,1,140.00
+177,Keiser Jessica,Female,17-03-2018,Gosau,AUT,Switzerland,FIS,Parallel Slalom,1,140.00
+178,Keiser Jessica,Female,11-03-2018,Tauplitz,AUT,Switzerland,European Cup,Parallel Slalom,9,84.10
+179,Keiser Jessica,Female,10-03-2018,Tauplitz,AUT,Switzerland,European Cup,Parallel Slalom,7,104.40
+180,Keiser Jessica,Female,08-03-2018,Carezza,ITA,Switzerland,National Championships,Parallel Slalom,6,96.00
+181,Keiser Jessica,Female,07-03-2018,Carezza,ITA,Switzerland,National Championships,Parallel GS,4,145.00
+182,Keiser Jessica,Female,25-02-2018,Funes/Villnoess,ITA,Switzerland,FIS,Parallel GS,2,144.00
+183,Keiser Jessica,Female,24-02-2018,Funes/Villnoess,ITA,Switzerland,FIS,Parallel GS,4,90.00
+184,Keiser Jessica,Female,18-02-2018,Simonhoehe,AUT,Switzerland,FIS,Parallel GS,2,176.00
+185,Keiser Jessica,Female,17-02-2018,Simonhoehe,AUT,Switzerland,FIS,Parallel GS,4,110.00
+186,Keiser Jessica,Female,11-02-2018,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,7,115.20
+187,Keiser Jessica,Female,10-02-2018,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,6,144.00
+188,Keiser Jessica,Female,04-02-2018,Gerlitzen,AUT,Switzerland,National Championships,Parallel GS,6,116.00
+189,Keiser Jessica,Female,03-02-2018,Gerlitzen,AUT,Switzerland,National Championships,Parallel Slalom,5,130.50
+190,Keiser Jessica,Female,21-01-2018,Lachtal,AUT,Switzerland,European Cup,Parallel GS,7,79.20
+191,Keiser Jessica,Female,20-01-2018,Lachtal,AUT,Switzerland,European Cup,Parallel GS,2,176.00
+192,Keiser Jessica,Female,02-12-2017,Pfelders,ITA,Switzerland,FIS,Parallel GS,8,70.40
+193,Keiser Jessica,Female,01-12-2017,Pfelders,ITA,Switzerland,FIS,Parallel GS,8,64.00
+194,Keiser Jessica,Female,17-12-2016,Cortina d'Ampezzo,ITA,Switzerland,World Cup,Parallel Slalom,36,19.70
+195,Keiser Jessica,Female,11-12-2016,Hochfügen,GER,Switzerland,European Cup,Parallel GS,30,11.52
+196,Keiser Jessica,Female,10-12-2016,Hochfügen,GER,Switzerland,European Cup,Parallel GS,26,18.00
+197,Keiser Jessica,Female,04-11-2016,Landgraaf,NED,Switzerland,European Cup,Parallel Slalom,29,12.96
+198,Keiser Jessica,Female,03-11-2016,Landgraaf,NED,Switzerland,European Cup,Parallel Slalom,33,8.64
+199,Keiser Jessica,Female,08-04-2016,Breuil Cervinia - Valtournenche,ITA,Switzerland,National Championships,Parallel Slalom,4,160.00
+200,Keiser Jessica,Female,07-04-2016,Breuil Cervinia - Valtournenche,ITA,Switzerland,National Championships,Parallel GS,3,192.00
+201,Keiser Jessica,Female,27-03-2016,Racines,ITA,Switzerland,European Cup,Parallel Slalom,13,100.00
+202,Keiser Jessica,Female,26-03-2016,Racines,ITA,Switzerland,European Cup,Parallel Slalom,17,70.00
+203,Keiser Jessica,Female,24-03-2016,Rogla,SLO,Switzerland,European Cup,Parallel Slalom,15,80.00
+204,Keiser Jessica,Female,23-03-2016,Rogla,SLO,Switzerland,European Cup,Parallel GS,DNF1,
+205,Keiser Jessica,Female,20-03-2016,Gerlitzen,AUT,Switzerland,European Cup,Parallel GS,23,40.00
+206,Keiser Jessica,Female,19-03-2016,Gerlitzen,AUT,Switzerland,European Cup,Parallel GS,26,25.00
+207,Keiser Jessica,Female,13-03-2016,Scuol,SUI,Switzerland,National Championships,Parallel Slalom,6,144.00
+208,Keiser Jessica,Female,12-03-2016,Scuol,SUI,Switzerland,National Championships,Parallel GS,6,144.00
+209,Keiser Jessica,Female,06-03-2016,Tauplitz,AUT,Switzerland,FIS,Parallel Slalom,17,30.80
+210,Keiser Jessica,Female,05-03-2016,Tauplitz,AUT,Switzerland,FIS,Parallel Slalom,8,70.40
+211,Keiser Jessica,Female,28-02-2016,Falkert,AUT,Switzerland,FIS,Giant Slalom,2,176.00
+212,Keiser Jessica,Female,27-02-2016,Falkert,AUT,Switzerland,FIS,Giant Slalom,1,220.00
+213,Keiser Jessica,Female,21-02-2016,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,21,50.00
+214,Keiser Jessica,Female,20-02-2016,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,27,22.50
+215,Keiser Jessica,Female,07-02-2016,Lachtal,AUT,Switzerland,FIS,Parallel Slalom,21,26.00
+216,Keiser Jessica,Female,06-02-2016,Lachtal,AUT,Switzerland,National Championships,Parallel Slalom,20,39.60
+217,Keiser Jessica,Female,30-01-2016,Stara Planina,SRB,Switzerland,European Cup,Parallel GS,12,48.40
+218,Keiser Jessica,Female,29-01-2016,Stara Planina,SRB,Switzerland,European Cup,Parallel Slalom,11,52.80
+219,Keiser Jessica,Female,17-01-2016,Kreischberg,AUT,Switzerland,FIS,Parallel GS,24,18.20
+220,Keiser Jessica,Female,16-01-2016,Kreischberg,AUT,Switzerland,FIS,Parallel GS,29,9.36
+221,Keiser Jessica,Female,06-12-2015,Hochfuegen,GER,Switzerland,European Cup,Parallel GS,38,9.55
+222,Keiser Jessica,Female,05-12-2015,Hochfuegen,GER,Switzerland,European Cup,Parallel GS,44,8.65
+223,Keiser Jessica,Female,29-03-2015,Grächen,SUI,Switzerland,National Championships,Parallel Slalom,11,86.40
+224,Keiser Jessica,Female,22-03-2015,Racines,ITA,Switzerland,European Cup,Parallel Slalom,13,100.00
+225,Keiser Jessica,Female,21-03-2015,Racines,ITA,Switzerland,European Cup,Parallel Slalom,18,65.00
+226,Keiser Jessica,Female,18-03-2015,Rogla,SLO,Switzerland,European Cup,Parallel Slalom,16,60.00
+227,Keiser Jessica,Female,17-03-2015,Rogla,SLO,Switzerland,European Cup,Parallel GS,25,24.00
+228,Keiser Jessica,Female,25-02-2015,Marianske Lazne,CZE,Switzerland,European Cup,Parallel Slalom,6,116.00
+229,Keiser Jessica,Female,24-02-2015,Marianske Lazne,CZE,Switzerland,European Cup,Parallel Slalom,11,69.60
+230,Keiser Jessica,Female,22-02-2015,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,16,67.50
+231,Keiser Jessica,Female,21-02-2015,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,15,80.00
+232,Keiser Jessica,Female,15-02-2015,Kayseri,TUR,Switzerland,European Cup,Parallel Slalom,11,76.80
+233,Keiser Jessica,Female,14-02-2015,Kayseri,TUR,Switzerland,European Cup,Parallel Slalom,10,93.60
+234,Keiser Jessica,Female,10-02-2015,Sierra Nevada,ESP,Switzerland,Universiade,Parallel GS,16,75.00
+235,Keiser Jessica,Female,31-01-2015,Livigno,ITA,Switzerland,European Cup,Parallel GS,7,86.40
+236,Keiser Jessica,Female,30-01-2015,Livigno,ITA,Switzerland,European Cup,Parallel GS,10,62.40
+237,Keiser Jessica,Female,24-01-2015,Samnaun,SUI,Switzerland,FIS,Parallel Slalom,16,39.00
+238,Keiser Jessica,Female,23-01-2015,Samnaun,SUI,Switzerland,FIS,Parallel Slalom,14,46.80
+239,Keiser Jessica,Female,06-01-2015,Dachstein West / Gosau,AUT,Switzerland,FIS,Parallel Slalom,25,15.60
+240,Keiser Jessica,Female,05-01-2015,Dachstein West / Gosau,AUT,Switzerland,FIS,Parallel Slalom,20,28.60
+241,Keiser Jessica,Female,10-10-2014,Landgraaf,NED,Switzerland,FIS,Parallel Slalom,13,52.00
+242,Keiser Jessica,Female,09-10-2014,Landgraaf,NED,Switzerland,National Championships,Parallel Slalom,13,72.00
+243,Keiser Jessica,Female,09-04-2014,Chiesa in Valmalenco,ITA,Switzerland,National Championships,Parallel Slalom,6,144.00
+244,Keiser Jessica,Female,08-04-2014,Chiesa in Valmalenco,ITA,Switzerland,National Championships,Parallel GS,6,144.00
+245,Keiser Jessica,Female,05-04-2014,Furtschellas,SUI,Switzerland,National Championships,Parallel GS,12,79.20
+246,Keiser Jessica,Female,30-03-2014,Sestriere,ITA,Switzerland,FIS,Slalom,2,72.00
+247,Keiser Jessica,Female,29-03-2014,Sestriere,ITA,Switzerland,FIS,Giant Slalom,2,72.00
+248,Keiser Jessica,Female,25-03-2014,Chiesa in Valmalenco,ITA,Switzerland,FIS Junior World Championships,Parallel Slalom,13,72.00
+249,Keiser Jessica,Female,24-03-2014,Chiesa in Valmalenco,ITA,Switzerland,FIS Junior World Championships,Parallel GS,18,46.80
+250,Keiser Jessica,Female,16-03-2014,Ratsching/Racines,ITA,Switzerland,European Cup,Parallel Slalom,30,12.80
+251,Keiser Jessica,Female,15-03-2014,Ratsching/Racines,ITA,Switzerland,European Cup,Parallel Slalom,23,32.00
+252,Keiser Jessica,Female,09-03-2014,Tauplitz,AUT,Switzerland,FIS,Parallel Slalom,7,93.60
+253,Keiser Jessica,Female,08-03-2014,Tauplitz,AUT,Switzerland,FIS,Parallel Slalom,11,62.40
+254,Keiser Jessica,Female,05-03-2014,Rogla,SLO,Switzerland,European Cup,Parallel Slalom,20,49.50
+255,Keiser Jessica,Female,04-03-2014,Rogla,SLO,Switzerland,European Cup,Parallel GS,24,31.50
+256,Keiser Jessica,Female,01-03-2014,Gerlitzen,AUT,Switzerland,European Cup,Parallel GS,16,60.00
+257,Keiser Jessica,Female,22-02-2014,Gosau,AUT,Switzerland,FIS,Slalom,22,0.00
+258,Keiser Jessica,Female,22-02-2014,Gosau,AUT,Switzerland,FIS,Slalom,11,62.40
+259,Keiser Jessica,Female,16-02-2014,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,12,70.40
+260,Keiser Jessica,Female,15-02-2014,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,10,83.20
+261,Keiser Jessica,Female,26-01-2014,Lizzola Valbondione,ITA,Switzerland,European Cup,Parallel Slalom,24,25.20
+262,Keiser Jessica,Female,25-01-2014,Lizzola Valbondione,ITA,Switzerland,European Cup,Parallel Slalom,31,10.08
+263,Keiser Jessica,Female,22-12-2013,Schönberg-Lachtal,AUT,Switzerland,European Cup,Parallel Slalom,27,22.50
+264,Keiser Jessica,Female,21-12-2013,Schönberg-Lachtal,AUT,Switzerland,European Cup,Parallel Slalom,23,40.00
+265,Keiser Jessica,Female,19-12-2013,Monte Bondone - Canalon Lavaman,ITA,Switzerland,Universiade,Parallel GS,18,65.00
+266,Keiser Jessica,Female,15-12-2013,Samnaun,SUI,Switzerland,FIS,Parallel Slalom,18,33.80
+267,Keiser Jessica,Female,14-12-2013,Samnaun,SUI,Switzerland,FIS,Parallel Slalom,7,64.80
+268,Keiser Jessica,Female,08-12-2013,Hochfügen,AUT,Switzerland,European Cup,Parallel GS,49,7.90
+269,Keiser Jessica,Female,07-12-2013,Hochfügen,AUT,Switzerland,European Cup,Parallel GS,44,8.65
+270,Keiser Jessica,Female,08-11-2013,Landgraaf,NED,Switzerland,FIS,Parallel Slalom,14,46.80
+271,Keiser Jessica,Female,07-11-2013,Landgraaf,NED,Switzerland,FIS,Parallel Slalom,15,41.60
+272,Keiser Jessica,Female,04-04-2012,Chiesa in Valmalenco,ITA,Switzerland,National Championships,Parallel Slalom,10,67.60
+273,Keiser Jessica,Female,03-04-2012,Chiesa in Valmalenco,ITA,Switzerland,National Championships,Giant Slalom,5,117.00
+274,Keiser Jessica,Female,01-04-2012,Sils,SUI,Switzerland,National Championships,Parallel GS,9,104.40
+275,Keiser Jessica,Female,31-03-2012,St. Gallenkirch,AUT,Switzerland,National Championships,Parallel GS,12,79.20
+276,Keiser Jessica,Female,20-03-2012,Rogla,SLO,Switzerland,European Cup,Parallel Slalom,49,5.69
+277,Keiser Jessica,Female,19-03-2012,Rogla,SLO,Switzerland,European Cup,Parallel GS,40,6.66
+278,Keiser Jessica,Female,18-03-2012,Tauplitz,AUT,Switzerland,FIS,Parallel Slalom,7,72.00
+279,Keiser Jessica,Female,17-03-2012,Tauplitz,AUT,Switzerland,FIS,Parallel Slalom,18,28.60
+280,Keiser Jessica,Female,04-03-2012,Gerlitzen,AUT,Switzerland,FIS,Parallel Slalom,18,31.20
+281,Keiser Jessica,Female,03-03-2012,Gerlitzen,AUT,Switzerland,FIS,Parallel Slalom,21,24.00
+282,Keiser Jessica,Female,25-02-2012,Brauneck,GER,Switzerland,Junior,Giant Slalom,2,40.00
+283,Keiser Jessica,Female,25-02-2012,Brauneck,GER,Switzerland,Junior,Slalom,3,30.00
+284,Keiser Jessica,Female,19-02-2012,Gudauri,GEO,Switzerland,National Championships,Parallel Slalom,8,38.40
+285,Keiser Jessica,Female,18-02-2012,Gudauri,GEO,Switzerland,National Championships,Parallel GS,8,38.40
+286,Keiser Jessica,Female,12-02-2012,Rossfeld,GER,Switzerland,Junior,Giant Slalom,4,35.00
+287,Keiser Jessica,Female,12-02-2012,Rossfeld,GER,Switzerland,Junior,Slalom,4,35.00
+288,Keiser Jessica,Female,11-02-2012,Gruenstein,GER,Switzerland,Junior,Giant Slalom,4,45.00
+289,Keiser Jessica,Female,11-02-2012,Gruenstein,GER,Switzerland,Junior,Slalom,5,40.50
+290,Keiser Jessica,Female,05-02-2012,Ratschings-Racines,ITA,Switzerland,European Cup,Parallel Slalom,36,6.30
+291,Keiser Jessica,Female,03-02-2012,Goetschen,GER,Switzerland,National Championships,Parallel GS,17,50.40
+292,Keiser Jessica,Female,29-01-2012,Adelboden,SUI,Switzerland,European Cup,Parallel GS,21,26.00
+293,Keiser Jessica,Female,22-01-2012,Valgardena-S. Cristina-Seceda,ITA,Switzerland,FIS,Slalom,14,36.00
+294,Keiser Jessica,Female,21-01-2012,Valgardena-S. Cristina-Seceda,ITA,Switzerland,FIS,Slalom,12,57.20
+295,Keiser Jessica,Female,08-01-2012,Kreischberg,AUT,Switzerland,FIS,Parallel GS,37,5.04
+296,Keiser Jessica,Female,07-01-2012,Kreischberg,AUT,Switzerland,FIS,Parallel GS,28,10.40
+297,Keiser Jessica,Female,08-04-2011,Chiesa Valmalenco - Alpe Palu,ITA,Switzerland,National Championships,Parallel GS,6,80.00
+298,Keiser Jessica,Female,03-04-2011,Sils,SUI,Switzerland,National Championships,Parallel GS,20,39.60
+299,Keiser Jessica,Female,27-03-2011,Lachtal,AUT,Switzerland,European Cup,Parallel Slalom,37,5.04
+300,Keiser Jessica,Female,26-03-2011,Lachtal,AUT,Switzerland,European Cup,Parallel Slalom,42,4.65
+301,Keiser Jessica,Female,25-03-2011,Lachtal,AUT,Switzerland,European Cup,Parallel GS,34,7.04
+302,Keiser Jessica,Female,13-03-2011,Radstadt,AUT,Switzerland,National Championships,Parallel Slalom,20,39.60
+303,Keiser Jessica,Female,12-03-2011,Radstadt,AUT,Switzerland,National Championships,Parallel GS,25,21.60
+304,Keiser Jessica,Female,01-03-2011,Rogla,SLO,Switzerland,European Cup,Parallel Slalom,30,10.24
+305,Keiser Jessica,Female,28-02-2011,Rogla,SLO,Switzerland,European Cup,Parallel GS,30,8.32
+306,Keiser Jessica,Female,27-02-2011,Villach / Gerlitzen,AUT,Switzerland,FIS,Parallel Slalom,27,0.00
+307,Keiser Jessica,Female,26-02-2011,Villach / Gerlitzen,AUT,Switzerland,FIS,Parallel Slalom,28,10.40
+308,Keiser Jessica,Female,13-02-2011,Berchtesgaden/Goetschen,GER,Switzerland,Junior,Parallel Slalom,8,32.00
+309,Keiser Jessica,Female,12-02-2011,Berchtesgaden/Goetschen,GER,Switzerland,Junior,Giant Slalom,10,28.60
+310,Keiser Jessica,Female,23-01-2011,Innsbruck/Patscherkofel,AUT,Switzerland,FIS,Parallel Slalom,55,
+311,Keiser Jessica,Female,22-01-2011,Innsbruck/Patscherkofel,AUT,Switzerland,FIS,Parallel GS,28,9.60
+312,Keiser Jessica,Female,12-01-2011,Berchtesgaden/Goetschen,GER,Switzerland,National Championships,Parallel GS,43,6.34
+313,Keiser Jessica,Female,19-12-2010,Samnaun,SUI,Switzerland,FIS,Parallel Slalom,DSQ,
+314,Keiser Jessica,Female,18-12-2010,Samnaun,SUI,Switzerland,FIS,Parallel Slalom,24,16.80
+315,Keiser Jessica,Female,17-12-2010,Samnaun,SUI,Switzerland,FIS,Parallel Slalom,26,12.00
+316,Keiser Jessica,Female,11-12-2010,Ratschings/Racines,ITA,Switzerland,European Cup,Parallel GS,42,3.94
+317,Keiser Jessica,Female,10-12-2010,Ratschings/Racines,ITA,Switzerland,FIS,Parallel GS,41,4.00
+318,Keiser Jessica,Female,05-12-2010,Welschnofen-Carezza,ITA,Switzerland,European Cup,Parallel Slalom,44,8.65
+319,Keiser Jessica,Female,04-12-2010,Welschnofen-Carezza,ITA,Switzerland,European Cup,Parallel GS,44,8.65
+320,Keiser Jessica,Female,28-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Switzerland,FIS,Parallel GS,57,0.00
+321,Keiser Jessica,Female,27-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Switzerland,European Cup,Parallel GS,54,7.15

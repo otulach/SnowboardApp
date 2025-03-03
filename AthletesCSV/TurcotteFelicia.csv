@@ -1,98 +1,101 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Turcotte Felicia,Female,03-02-2025,Steamboat Ski and Resort / Mount Werner,USA,Canada,Nor-Am Cup,Snowboard Cross,DNS,
-1,Turcotte Felicia,Female,05-01-2025,Sun Peaks,CAN,Canada,Nor-Am Cup,Snowboard Cross,4,100.00
-2,Turcotte Felicia,Female,04-01-2025,Sun Peaks,CAN,Canada,Nor-Am Cup,Snowboard Cross,7,72.00
-3,Turcotte Felicia,Female,18-08-2024,Mt Hotham,AUS,Canada,Australian New Zealand Cup,Snowboard Cross,10,93.60
-4,Turcotte Felicia,Female,17-08-2024,Mt Hotham,AUS,Canada,Australian New Zealand Cup,Snowboard Cross,22,32.40
-5,Turcotte Felicia,Female,15-08-2024,Mt Hotham,AUS,Canada,Australian New Zealand Cup,Snowboard Cross,19,43.20
-6,Turcotte Felicia,Female,29-03-2024,Mt St. Anne,CAN,Canada,Nor-Am Cup,Snowboard Cross,4,80.00
-7,Turcotte Felicia,Female,28-03-2024,Mt St. Anne,CAN,Canada,Nor-Am Cup,Snowboard Cross,8,51.20
-8,Turcotte Felicia,Female,17-03-2024,Steamboat Ski and Resort / Mount Werner,USA,Canada,Nor-Am Cup,Snowboard Cross,2,128.00
-9,Turcotte Felicia,Female,16-03-2024,Steamboat Ski and Resort / Mount Werner,USA,Canada,Nor-Am Cup,Snowboard Cross,6,64.00
-10,Turcotte Felicia,Female,01-03-2024,Sunday River Resort,USA,Canada,FIS,Snowboard Cross,1,90.00
-11,Turcotte Felicia,Female,28-02-2024,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,3,96.00
-12,Turcotte Felicia,Female,27-02-2024,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,5,72.00
-13,Turcotte Felicia,Female,23-02-2024,Gore Mountain Ski Area,USA,Canada,FIS,Snowboard Cross,5,45.00
-14,Turcotte Felicia,Female,21-02-2024,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,DNS,
-15,Turcotte Felicia,Female,03-09-2023,Corralco (CHI),BRA,Canada,South American Cup,Snowboard Cross,5,99.00
-16,Turcotte Felicia,Female,03-09-2023,Corralco (CHI),BRA,Canada,South American Cup,Snowboard Cross,5,99.00
-17,Turcotte Felicia,Female,20-03-2023,Mt. Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,5,72.00
-18,Turcotte Felicia,Female,16-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,6,64.00
-19,Turcotte Felicia,Female,15-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,8,51.20
-20,Turcotte Felicia,Female,02-03-2023,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,5,72.00
-21,Turcotte Felicia,Female,01-03-2023,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,9,46.40
-22,Turcotte Felicia,Female,07-02-2023,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,DNS,
-23,Turcotte Felicia,Female,26-01-2023,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,6,64.00
-24,Turcotte Felicia,Female,25-01-2023,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,13,32.00
-25,Turcotte Felicia,Female,12-01-2023,Sunshine Village,CAN,Canada,Nor-Am Cup,Snowboard Cross,12,35.20
-26,Turcotte Felicia,Female,11-01-2023,Sunshine Village,CAN,Canada,Nor-Am Cup,Snowboard Cross,15,25.60
-27,Turcotte Felicia,Female,25-11-2022,Pitztal,AUT,Canada,FIS,Snowboard Cross,DNS,
-28,Turcotte Felicia,Female,04-04-2021,Copper Mountain Resort,USA,Canada,National Championships,Snowboard Cross,4,75.00
-29,Turcotte Felicia,Female,03-04-2021,Copper Mountain Resort,USA,Canada,FIS,Snowboard Cross,4,75.00
-30,Turcotte Felicia,Female,02-04-2021,Copper Mountain Resort,USA,Canada,FIS,Snowboard Cross,6,60.00
-31,Turcotte Felicia,Female,12-03-2021,Lenk,SUI,Canada,European Cup,Snowboard Cross,22,19.80
-32,Turcotte Felicia,Female,07-03-2021,Montafon/Gargellen,AUT,Canada,European Cup,Snowboard Cross,13,36.00
-33,Turcotte Felicia,Female,06-03-2021,Montafon/Gargellen,AUT,Canada,European Cup,Snowboard Cross,21,18.00
-34,Turcotte Felicia,Female,28-02-2021,Reiteralm,AUT,Canada,European Cup,Snowboard Cross,20,22.00
-35,Turcotte Felicia,Female,27-02-2021,Reiteralm,AUT,Canada,European Cup,Snowboard Cross,20,22.00
-36,Turcotte Felicia,Female,12-03-2020,Mont Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,6,72.00
-37,Turcotte Felicia,Female,06-03-2020,Beaver Valley,CAN,Canada,Nor-Am Cup,Snowboard Cross,4,80.00
-38,Turcotte Felicia,Female,05-03-2020,Beaver Valley,CAN,Canada,Nor-Am Cup,Snowboard Cross,5,72.00
-39,Turcotte Felicia,Female,23-02-2020,Ski Cooper,USA,Canada,Nor-Am Cup,Snowboard Cross,7,115.20
-40,Turcotte Felicia,Female,22-02-2020,Ski Cooper,USA,Canada,Nor-Am Cup,Snowboard Cross,9,92.80
-41,Turcotte Felicia,Female,31-01-2020,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,14,64.80
-42,Turcotte Felicia,Female,30-01-2020,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,11,86.40
-43,Turcotte Felicia,Female,30-11-2019,Pyhatunturi,FIN,Canada,FIS,Snowboard Cross,15,35.20
-44,Turcotte Felicia,Female,31-03-2019,"Copper Mountain, CO",USA,Canada,National Championships,Snowboard Cross,4,60.00
-45,Turcotte Felicia,Female,27-03-2019,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,25,
-46,Turcotte Felicia,Female,23-03-2019,Big White Ski Resort,CAN,Canada,FIS,Snowboard Cross,1,70.00
-47,Turcotte Felicia,Female,22-03-2019,Big White Ski Resort,CAN,Canada,FIS,Snowboard Cross,2,56.00
-48,Turcotte Felicia,Female,15-03-2019,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Snowboard Cross,8,51.20
-49,Turcotte Felicia,Female,14-03-2019,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Snowboard Cross,5,72.00
-50,Turcotte Felicia,Female,21-02-2019,Ski Cooper,USA,Canada,Nor-Am Cup,Snowboard Cross,19,21.60
-51,Turcotte Felicia,Female,20-02-2019,Ski Cooper,USA,Canada,Nor-Am Cup,Snowboard Cross,13,36.00
-52,Turcotte Felicia,Female,13-02-2019,Mont Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,5,72.00
-53,Turcotte Felicia,Female,12-02-2019,Mont Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,2,128.00
-54,Turcotte Felicia,Female,08-02-2019,Craigleith,CAN,Canada,Nor-Am Cup,Snowboard Cross,8,51.20
-55,Turcotte Felicia,Female,07-02-2019,Craigleith,CAN,Canada,Nor-Am Cup,Snowboard Cross,3,96.00
-56,Turcotte Felicia,Female,09-01-2019,"Panorama, BC",CAN,Canada,Nor-Am Cup,Snowboard Cross,23,23.20
-57,Turcotte Felicia,Female,08-01-2019,"Panorama, BC",CAN,Canada,Nor-Am Cup,Snowboard Cross,31,8.12
-58,Turcotte Felicia,Female,29-03-2018,Ski Cooper,USA,Canada,Nor-Am Cup,Snowboard Cross,18,23.40
-59,Turcotte Felicia,Female,28-03-2018,Ski Cooper,USA,Canada,Nor-Am Cup,Snowboard Cross,20,19.80
-60,Turcotte Felicia,Female,22-03-2018,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,25,17.40
-61,Turcotte Felicia,Female,18-03-2018,Big White Ski Resort,CAN,Canada,FIS,Snowboard Cross,2,88.00
-62,Turcotte Felicia,Female,17-03-2018,Big White Ski Resort,CAN,Canada,FIS,Snowboard Cross,4,50.00
-63,Turcotte Felicia,Female,23-02-2018,Mont Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,27,7.20
-64,Turcotte Felicia,Female,22-02-2018,Mont Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,29,5.76
-65,Turcotte Felicia,Female,14-02-2018,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,5,81.00
-66,Turcotte Felicia,Female,13-02-2018,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,22,16.20
-67,Turcotte Felicia,Female,09-02-2018,Craigleith,CAN,Canada,Nor-Am Cup,Snowboard Cross,29,
-68,Turcotte Felicia,Female,08-02-2018,Craigleith,CAN,Canada,Nor-Am Cup,Snowboard Cross,30,
-69,Turcotte Felicia,Female,28-01-2018,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,23,14.40
-70,Turcotte Felicia,Female,27-01-2018,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,23,14.40
-71,Turcotte Felicia,Female,04-09-2017,Corralco,CHI,Canada,South American Cup,Snowboardcross,9,52.20
-72,Turcotte Felicia,Female,25-08-2017,La Parva,CHI,Canada,South American Cup,Snowboardcross,8,76.80
-73,Turcotte Felicia,Female,02-04-2017,Copper Mountain Resort,USA,Canada,Nor-Am Cup,Snowboardcross,19,
-74,Turcotte Felicia,Female,10-03-2017,Big White,CAN,Canada,Nor-Am Cup,Snowboardcross,15,32.00
-75,Turcotte Felicia,Female,09-03-2017,Big White,CAN,Canada,Nor-Am Cup,Snowboardcross,21,20.00
-76,Turcotte Felicia,Female,23-02-2017,Ski Cooper,USA,Canada,Nor-Am Cup,Snowboardcross,23,19.20
-77,Turcotte Felicia,Female,22-02-2017,Ski Cooper,USA,Canada,Nor-Am Cup,Snowboardcross,26,
-78,Turcotte Felicia,Female,10-02-2017,Craigleith,CAN,Canada,Nor-Am Cup,Snowboardcross,18,26.00
-79,Turcotte Felicia,Female,09-02-2017,Craigleith,CAN,Canada,Nor-Am Cup,Snowboardcross,21,20.00
-80,Turcotte Felicia,Female,03-02-2017,Tremblant,CAN,Canada,Nor-Am Cup,Snowboardcross,23,16.00
-81,Turcotte Felicia,Female,02-02-2017,Tremblant,CAN,Canada,Nor-Am Cup,Snowboardcross,26,10.00
-82,Turcotte Felicia,Female,03-04-2015,"Big White Ski Resort, BC",CAN,Canada,National Junior Championships,Snowboardcross,18,20.80
-83,Turcotte Felicia,Female,02-04-2015,"Big White Ski Resort, BC",CAN,Canada,Nor-Am Cup,Snowboardcross,28,8.00
-84,Turcotte Felicia,Female,29-03-2015,"Copper Mountain, CO",USA,Canada,Nor-Am Cup,Snowboardcross,12,44.00
-85,Turcotte Felicia,Female,15-02-2015,Big White,CAN,Canada,FIS,Snowboardcross,11,28.80
-86,Turcotte Felicia,Female,14-02-2015,Big White,CAN,Canada,FIS,Snowboardcross,11,28.80
-87,Turcotte Felicia,Female,12-02-2015,Big White,CAN,Canada,Nor-Am Cup,Snowboardcross,21,20.00
-88,Turcotte Felicia,Female,11-02-2015,Big White,CAN,Canada,Nor-Am Cup,Snowboardcross,23,16.00
-89,Turcotte Felicia,Female,06-02-2015,"Ski Cooper, CO",USA,Canada,Nor-Am Cup,Snowboardcross,22,19.80
-90,Turcotte Felicia,Female,05-02-2015,"Ski Cooper, CO",USA,Canada,Nor-Am Cup,Snowboardcross,30,0.00
-91,Turcotte Felicia,Female,01-02-2015,Tremblant.QC,CAN,Canada,FIS,Snowboardcross,5,31.50
-92,Turcotte Felicia,Female,31-01-2015,Tremblant.QC,CAN,Canada,FIS,Snowboardcross,11,16.80
-93,Turcotte Felicia,Female,28-01-2015,Tremblant.QC,CAN,Canada,Nor-Am Cup,Snowboardcross,20,22.00
-94,Turcotte Felicia,Female,27-01-2015,Tremblant.QC,CAN,Canada,Nor-Am Cup,Snowboardcross,23,16.00
-95,Turcotte Felicia,Female,22-08-2014,Corralco (CHI),BRA,Canada,South American Cup,Snowboardcross,8,64.00
-96,Turcotte Felicia,Female,21-08-2014,Corralco (CHI),BRA,Canada,South American Cup,Snowboardcross,9,58.00
+0,Turcotte Felicia,Female,02-03-2025,Gore Mountain Ski Area,USA,Canada,FIS,Snowboard Cross,8,
+1,Turcotte Felicia,Female,01-03-2025,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,14,36.00
+2,Turcotte Felicia,Female,28-02-2025,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,9,58.00
+3,Turcotte Felicia,Female,03-02-2025,Steamboat Ski and Resort / Mount Werner,USA,Canada,Nor-Am Cup,Snowboard Cross,DNS,
+4,Turcotte Felicia,Female,05-01-2025,Sun Peaks,CAN,Canada,Nor-Am Cup,Snowboard Cross,4,100.00
+5,Turcotte Felicia,Female,04-01-2025,Sun Peaks,CAN,Canada,Nor-Am Cup,Snowboard Cross,7,72.00
+6,Turcotte Felicia,Female,18-08-2024,Mt Hotham,AUS,Canada,Australian New Zealand Cup,Snowboard Cross,10,93.60
+7,Turcotte Felicia,Female,17-08-2024,Mt Hotham,AUS,Canada,Australian New Zealand Cup,Snowboard Cross,22,32.40
+8,Turcotte Felicia,Female,15-08-2024,Mt Hotham,AUS,Canada,Australian New Zealand Cup,Snowboard Cross,19,43.20
+9,Turcotte Felicia,Female,29-03-2024,Mt St. Anne,CAN,Canada,Nor-Am Cup,Snowboard Cross,4,80.00
+10,Turcotte Felicia,Female,28-03-2024,Mt St. Anne,CAN,Canada,Nor-Am Cup,Snowboard Cross,8,51.20
+11,Turcotte Felicia,Female,17-03-2024,Steamboat Ski and Resort / Mount Werner,USA,Canada,Nor-Am Cup,Snowboard Cross,2,128.00
+12,Turcotte Felicia,Female,16-03-2024,Steamboat Ski and Resort / Mount Werner,USA,Canada,Nor-Am Cup,Snowboard Cross,6,64.00
+13,Turcotte Felicia,Female,01-03-2024,Sunday River Resort,USA,Canada,FIS,Snowboard Cross,1,90.00
+14,Turcotte Felicia,Female,28-02-2024,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,3,96.00
+15,Turcotte Felicia,Female,27-02-2024,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,5,72.00
+16,Turcotte Felicia,Female,23-02-2024,Gore Mountain Ski Area,USA,Canada,FIS,Snowboard Cross,5,45.00
+17,Turcotte Felicia,Female,21-02-2024,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,DNS,
+18,Turcotte Felicia,Female,03-09-2023,Corralco (CHI),BRA,Canada,South American Cup,Snowboard Cross,5,99.00
+19,Turcotte Felicia,Female,03-09-2023,Corralco (CHI),BRA,Canada,South American Cup,Snowboard Cross,5,99.00
+20,Turcotte Felicia,Female,20-03-2023,Mt. Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,5,72.00
+21,Turcotte Felicia,Female,16-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,6,64.00
+22,Turcotte Felicia,Female,15-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,8,51.20
+23,Turcotte Felicia,Female,02-03-2023,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,5,72.00
+24,Turcotte Felicia,Female,01-03-2023,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,9,46.40
+25,Turcotte Felicia,Female,07-02-2023,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,DNS,
+26,Turcotte Felicia,Female,26-01-2023,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,6,64.00
+27,Turcotte Felicia,Female,25-01-2023,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,13,32.00
+28,Turcotte Felicia,Female,12-01-2023,Sunshine Village,CAN,Canada,Nor-Am Cup,Snowboard Cross,12,35.20
+29,Turcotte Felicia,Female,11-01-2023,Sunshine Village,CAN,Canada,Nor-Am Cup,Snowboard Cross,15,25.60
+30,Turcotte Felicia,Female,25-11-2022,Pitztal,AUT,Canada,FIS,Snowboard Cross,DNS,
+31,Turcotte Felicia,Female,04-04-2021,Copper Mountain Resort,USA,Canada,National Championships,Snowboard Cross,4,75.00
+32,Turcotte Felicia,Female,03-04-2021,Copper Mountain Resort,USA,Canada,FIS,Snowboard Cross,4,75.00
+33,Turcotte Felicia,Female,02-04-2021,Copper Mountain Resort,USA,Canada,FIS,Snowboard Cross,6,60.00
+34,Turcotte Felicia,Female,12-03-2021,Lenk,SUI,Canada,European Cup,Snowboard Cross,22,19.80
+35,Turcotte Felicia,Female,07-03-2021,Montafon/Gargellen,AUT,Canada,European Cup,Snowboard Cross,13,36.00
+36,Turcotte Felicia,Female,06-03-2021,Montafon/Gargellen,AUT,Canada,European Cup,Snowboard Cross,21,18.00
+37,Turcotte Felicia,Female,28-02-2021,Reiteralm,AUT,Canada,European Cup,Snowboard Cross,20,22.00
+38,Turcotte Felicia,Female,27-02-2021,Reiteralm,AUT,Canada,European Cup,Snowboard Cross,20,22.00
+39,Turcotte Felicia,Female,12-03-2020,Mont Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,6,72.00
+40,Turcotte Felicia,Female,06-03-2020,Beaver Valley,CAN,Canada,Nor-Am Cup,Snowboard Cross,4,80.00
+41,Turcotte Felicia,Female,05-03-2020,Beaver Valley,CAN,Canada,Nor-Am Cup,Snowboard Cross,5,72.00
+42,Turcotte Felicia,Female,23-02-2020,Ski Cooper,USA,Canada,Nor-Am Cup,Snowboard Cross,7,115.20
+43,Turcotte Felicia,Female,22-02-2020,Ski Cooper,USA,Canada,Nor-Am Cup,Snowboard Cross,9,92.80
+44,Turcotte Felicia,Female,31-01-2020,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,14,64.80
+45,Turcotte Felicia,Female,30-01-2020,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,11,86.40
+46,Turcotte Felicia,Female,30-11-2019,Pyhatunturi,FIN,Canada,FIS,Snowboard Cross,15,35.20
+47,Turcotte Felicia,Female,31-03-2019,"Copper Mountain, CO",USA,Canada,National Championships,Snowboard Cross,4,60.00
+48,Turcotte Felicia,Female,27-03-2019,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,25,
+49,Turcotte Felicia,Female,23-03-2019,Big White Ski Resort,CAN,Canada,FIS,Snowboard Cross,1,70.00
+50,Turcotte Felicia,Female,22-03-2019,Big White Ski Resort,CAN,Canada,FIS,Snowboard Cross,2,56.00
+51,Turcotte Felicia,Female,15-03-2019,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Snowboard Cross,8,51.20
+52,Turcotte Felicia,Female,14-03-2019,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Snowboard Cross,5,72.00
+53,Turcotte Felicia,Female,21-02-2019,Ski Cooper,USA,Canada,Nor-Am Cup,Snowboard Cross,19,21.60
+54,Turcotte Felicia,Female,20-02-2019,Ski Cooper,USA,Canada,Nor-Am Cup,Snowboard Cross,13,36.00
+55,Turcotte Felicia,Female,13-02-2019,Mont Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,5,72.00
+56,Turcotte Felicia,Female,12-02-2019,Mont Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,2,128.00
+57,Turcotte Felicia,Female,08-02-2019,Craigleith,CAN,Canada,Nor-Am Cup,Snowboard Cross,8,51.20
+58,Turcotte Felicia,Female,07-02-2019,Craigleith,CAN,Canada,Nor-Am Cup,Snowboard Cross,3,96.00
+59,Turcotte Felicia,Female,09-01-2019,"Panorama, BC",CAN,Canada,Nor-Am Cup,Snowboard Cross,23,23.20
+60,Turcotte Felicia,Female,08-01-2019,"Panorama, BC",CAN,Canada,Nor-Am Cup,Snowboard Cross,31,8.12
+61,Turcotte Felicia,Female,29-03-2018,Ski Cooper,USA,Canada,Nor-Am Cup,Snowboard Cross,18,23.40
+62,Turcotte Felicia,Female,28-03-2018,Ski Cooper,USA,Canada,Nor-Am Cup,Snowboard Cross,20,19.80
+63,Turcotte Felicia,Female,22-03-2018,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,25,17.40
+64,Turcotte Felicia,Female,18-03-2018,Big White Ski Resort,CAN,Canada,FIS,Snowboard Cross,2,88.00
+65,Turcotte Felicia,Female,17-03-2018,Big White Ski Resort,CAN,Canada,FIS,Snowboard Cross,4,50.00
+66,Turcotte Felicia,Female,23-02-2018,Mont Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,27,7.20
+67,Turcotte Felicia,Female,22-02-2018,Mont Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,29,5.76
+68,Turcotte Felicia,Female,14-02-2018,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,5,81.00
+69,Turcotte Felicia,Female,13-02-2018,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,22,16.20
+70,Turcotte Felicia,Female,09-02-2018,Craigleith,CAN,Canada,Nor-Am Cup,Snowboard Cross,29,
+71,Turcotte Felicia,Female,08-02-2018,Craigleith,CAN,Canada,Nor-Am Cup,Snowboard Cross,30,
+72,Turcotte Felicia,Female,28-01-2018,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,23,14.40
+73,Turcotte Felicia,Female,27-01-2018,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,23,14.40
+74,Turcotte Felicia,Female,04-09-2017,Corralco,CHI,Canada,South American Cup,Snowboardcross,9,52.20
+75,Turcotte Felicia,Female,25-08-2017,La Parva,CHI,Canada,South American Cup,Snowboardcross,8,76.80
+76,Turcotte Felicia,Female,02-04-2017,Copper Mountain Resort,USA,Canada,Nor-Am Cup,Snowboardcross,19,
+77,Turcotte Felicia,Female,10-03-2017,Big White,CAN,Canada,Nor-Am Cup,Snowboardcross,15,32.00
+78,Turcotte Felicia,Female,09-03-2017,Big White,CAN,Canada,Nor-Am Cup,Snowboardcross,21,20.00
+79,Turcotte Felicia,Female,23-02-2017,Ski Cooper,USA,Canada,Nor-Am Cup,Snowboardcross,23,19.20
+80,Turcotte Felicia,Female,22-02-2017,Ski Cooper,USA,Canada,Nor-Am Cup,Snowboardcross,26,
+81,Turcotte Felicia,Female,10-02-2017,Craigleith,CAN,Canada,Nor-Am Cup,Snowboardcross,18,26.00
+82,Turcotte Felicia,Female,09-02-2017,Craigleith,CAN,Canada,Nor-Am Cup,Snowboardcross,21,20.00
+83,Turcotte Felicia,Female,03-02-2017,Tremblant,CAN,Canada,Nor-Am Cup,Snowboardcross,23,16.00
+84,Turcotte Felicia,Female,02-02-2017,Tremblant,CAN,Canada,Nor-Am Cup,Snowboardcross,26,10.00
+85,Turcotte Felicia,Female,03-04-2015,"Big White Ski Resort, BC",CAN,Canada,National Junior Championships,Snowboardcross,18,20.80
+86,Turcotte Felicia,Female,02-04-2015,"Big White Ski Resort, BC",CAN,Canada,Nor-Am Cup,Snowboardcross,28,8.00
+87,Turcotte Felicia,Female,29-03-2015,"Copper Mountain, CO",USA,Canada,Nor-Am Cup,Snowboardcross,12,44.00
+88,Turcotte Felicia,Female,15-02-2015,Big White,CAN,Canada,FIS,Snowboardcross,11,28.80
+89,Turcotte Felicia,Female,14-02-2015,Big White,CAN,Canada,FIS,Snowboardcross,11,28.80
+90,Turcotte Felicia,Female,12-02-2015,Big White,CAN,Canada,Nor-Am Cup,Snowboardcross,21,20.00
+91,Turcotte Felicia,Female,11-02-2015,Big White,CAN,Canada,Nor-Am Cup,Snowboardcross,23,16.00
+92,Turcotte Felicia,Female,06-02-2015,"Ski Cooper, CO",USA,Canada,Nor-Am Cup,Snowboardcross,22,19.80
+93,Turcotte Felicia,Female,05-02-2015,"Ski Cooper, CO",USA,Canada,Nor-Am Cup,Snowboardcross,30,0.00
+94,Turcotte Felicia,Female,01-02-2015,Tremblant.QC,CAN,Canada,FIS,Snowboardcross,5,31.50
+95,Turcotte Felicia,Female,31-01-2015,Tremblant.QC,CAN,Canada,FIS,Snowboardcross,11,16.80
+96,Turcotte Felicia,Female,28-01-2015,Tremblant.QC,CAN,Canada,Nor-Am Cup,Snowboardcross,20,22.00
+97,Turcotte Felicia,Female,27-01-2015,Tremblant.QC,CAN,Canada,Nor-Am Cup,Snowboardcross,23,16.00
+98,Turcotte Felicia,Female,22-08-2014,Corralco (CHI),BRA,Canada,South American Cup,Snowboardcross,8,64.00
+99,Turcotte Felicia,Female,21-08-2014,Corralco (CHI),BRA,Canada,South American Cup,Snowboardcross,9,58.00

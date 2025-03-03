@@ -1,179 +1,183 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Neva Flurina,Female,23-02-2025,Lenzerheide,SUI,Switzerland,National Championships,Giant Slalom,DNF,
-1,Neva Flurina,Female,22-02-2025,Lenzerheide,SUI,Switzerland,National Championships,Parallel Slalom,5,130.50
-2,Neva Flurina,Female,16-02-2025,Val St. Come,CAN,Switzerland,Qualification,Parallel Giant Slalom,12,
-3,Neva Flurina,Female,16-02-2025,Val St. Come,CAN,Switzerland,World Cup,Parallel Giant Slalom,13,200.00
-4,Neva Flurina,Female,15-02-2025,Val St. Come,CAN,Switzerland,Qualification,Parallel Giant Slalom,15,
-5,Neva Flurina,Female,15-02-2025,Val St. Come,CAN,Switzerland,World Cup,Parallel Giant Slalom,15,160.00
-6,Neva Flurina,Female,26-01-2025,Simonhöhe,AUT,Switzerland,European Cup,Parallel Giant Slalom,6,144.00
-7,Neva Flurina,Female,25-01-2025,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,10,
-8,Neva Flurina,Female,25-01-2025,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,11,240.00
-9,Neva Flurina,Female,19-01-2025,Bansko,BUL,Switzerland,Qualification,Parallel Giant Slalom,DNF,
-10,Neva Flurina,Female,19-01-2025,Bansko,BUL,Switzerland,World Cup,Parallel Giant Slalom,DNF,
-11,Neva Flurina,Female,18-01-2025,Bansko,BUL,Switzerland,Qualification,Parallel Giant Slalom,36,
-12,Neva Flurina,Female,18-01-2025,Bansko,BUL,Switzerland,World Cup,Parallel Giant Slalom,36,19.70
-13,Neva Flurina,Female,15-01-2025,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom Team,3,
-14,Neva Flurina,Female,14-01-2025,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,7,
-15,Neva Flurina,Female,14-01-2025,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,4,500.00
-16,Neva Flurina,Female,11-01-2025,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,10,
-17,Neva Flurina,Female,11-01-2025,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,7,360.00
-18,Neva Flurina,Female,21-12-2024,Davos,SUI,Switzerland,Qualification,Parallel Slalom,14,
-19,Neva Flurina,Female,21-12-2024,Davos,SUI,Switzerland,World Cup,Parallel Slalom,3,600.00
-20,Neva Flurina,Female,14-12-2024,Cortina d'Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,23,
-21,Neva Flurina,Female,14-12-2024,Cortina d'Ampezzo,ITA,Switzerland,World Cup,Parallel Giant Slalom,23,80.00
-22,Neva Flurina,Female,12-12-2024,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,18,
-23,Neva Flurina,Female,12-12-2024,Carezza,ITA,Switzerland,World Cup,Parallel Giant Slalom,18,130.00
-24,Neva Flurina,Female,08-12-2024,Yanqing (NASC),CHN,Switzerland,World Cup,Parallel Slalom,4,500.00
-25,Neva Flurina,Female,08-12-2024,Yanqing (NASC),CHN,Switzerland,Qualification,Parallel Slalom,4,
-26,Neva Flurina,Female,07-12-2024,Yanqing (NASC),CHN,Switzerland,World Cup,Parallel Giant Slalom,16,150.00
-27,Neva Flurina,Female,07-12-2024,Yanqing (NASC),CHN,Switzerland,Qualification,Parallel Giant Slalom,16,
-28,Neva Flurina,Female,01-12-2024,Mylin,CHN,Switzerland,World Cup,Parallel Slalom,14,180.00
-29,Neva Flurina,Female,01-12-2024,Mylin,CHN,Switzerland,Qualification,Parallel Slalom,14,
-30,Neva Flurina,Female,30-11-2024,Mylin,CHN,Switzerland,World Cup,Parallel Giant Slalom,26,50.00
-31,Neva Flurina,Female,30-11-2024,Mylin,CHN,Switzerland,Qualification,Parallel Giant Slalom,26,
-32,Neva Flurina,Female,07-04-2024,Samnaun,SUI,Switzerland,National Championships,Giant Slalom,5,130.50
-33,Neva Flurina,Female,06-04-2024,Samnaun,SUI,Switzerland,National Championships,Parallel Slalom,3,174.00
-34,Neva Flurina,Female,17-03-2024,St. Moritz,SUI,Switzerland,European Cup,Parallel Slalom,DSQ,
-35,Neva Flurina,Female,16-03-2024,St. Moritz,SUI,Switzerland,European Cup,Parallel Giant Slalom,34,7.92
-36,Neva Flurina,Female,13-03-2024,Davos/Rinerhorn ,SUI,Switzerland,European Cup,Parallel Giant Slalom,2,192.00
-37,Neva Flurina,Female,12-03-2024,Davos/Rinerhorn ,SUI,Switzerland,European Cup,Parallel Giant Slalom,10,93.60
-38,Neva Flurina,Female,10-03-2024,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,9,69.60
-39,Neva Flurina,Female,09-03-2024,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,2,192.00
-40,Neva Flurina,Female,10-02-2024,Hochficht/Zwiesel,AUT,Switzerland,National Championships,Parallel Slalom,7,104.40
-41,Neva Flurina,Female,09-02-2024,Hochficht/Zwiesel,AUT,Switzerland,National Championships,Parallel Giant Slalom,13,58.00
-42,Neva Flurina,Female,24-01-2024,Pamporovo,BUL,Switzerland,European Cup,Parallel Slalom,1,290.00
-43,Neva Flurina,Female,23-01-2024,Pamporovo,BUL,Switzerland,European Cup,Parallel Slalom,19,34.80
-44,Neva Flurina,Female,21-01-2024,Pamporovo,BUL,Switzerland,Qualification,Parallel Slalom,31,
-45,Neva Flurina,Female,21-01-2024,Pamporovo,BUL,Switzerland,World Cup,Parallel Slalom,31,
-46,Neva Flurina,Female,20-01-2024,Pamporovo,BUL,Switzerland,Qualification,Parallel Slalom,36,
-47,Neva Flurina,Female,20-01-2024,Pamporovo,BUL,Switzerland,World Cup,Parallel Slalom,36,
-48,Neva Flurina,Female,16-01-2024,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,31,
-49,Neva Flurina,Female,16-01-2024,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,31,28.00
-50,Neva Flurina,Female,13-01-2024,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,24,
-51,Neva Flurina,Female,13-01-2024,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,24,70.00
-52,Neva Flurina,Female,12-01-2024,Folgaria,ITA,Switzerland,Qualification,Parallel Slalom,1,
-53,Neva Flurina,Female,12-01-2024,Folgaria,ITA,Switzerland,European Cup,Parallel Slalom,9,69.60
-54,Neva Flurina,Female,11-01-2024,Folgaria,ITA,Switzerland,Qualification,Parallel Slalom,12,
-55,Neva Flurina,Female,11-01-2024,Folgaria,ITA,Switzerland,European Cup,Parallel Slalom,13,58.00
-56,Neva Flurina,Female,23-12-2023,Davos ,SUI,Switzerland,Qualification,Parallel Slalom,18,
-57,Neva Flurina,Female,23-12-2023,Davos,SUI,Switzerland,World Cup,Parallel Slalom,18,130.00
-58,Neva Flurina,Female,20-12-2023,Moninec,CZE,Switzerland,European Cup,Parallel Slalom,29,9.36
-59,Neva Flurina,Female,19-12-2023,Moninec,CZE,Switzerland,European Cup,Parallel Slalom,2,208.00
-60,Neva Flurina,Female,09-12-2023,Götschen,GER,Switzerland,Qualification,Parallel Slalom,11,
-61,Neva Flurina,Female,09-12-2023,Götschen,GER,Switzerland,European Cup,Parallel Slalom,14,64.80
-62,Neva Flurina,Female,08-12-2023,Götschen,GER,Switzerland,Qualification,Parallel Slalom,11,
-63,Neva Flurina,Female,08-12-2023,Götschen,GER,Switzerland,European Cup,Parallel Slalom,4,180.00
-64,Neva Flurina,Female,26-03-2023,Bansko,BUL,Switzerland,FIS Junior World Championships,Parallel Team,2,
-65,Neva Flurina,Female,25-03-2023,Bansko,BUL,Switzerland,FIS Junior World Championships,Parallel Slalom,9,104.40
-66,Neva Flurina,Female,25-03-2023,Bansko,BUL,Switzerland,Qualification,Parallel Slalom,1,
-67,Neva Flurina,Female,24-03-2023,Bansko,BUL,Switzerland,FIS Junior World Championships,Parallel Giant Slalom,4,180.00
-68,Neva Flurina,Female,24-03-2023,Bansko,BUL,Switzerland,Qualification,Parallel Giant Slalom,3,
-69,Neva Flurina,Female,19-03-2023,Ratschings,ITA,Switzerland,European Cup,Parallel Slalom,2,208.00
-70,Neva Flurina,Female,18-03-2023,Ratschings,ITA,Switzerland,European Cup,Parallel Slalom,6,104.00
-71,Neva Flurina,Female,12-03-2023,Davos,SUI,Switzerland,European Cup,Parallel Slalom,6,104.00
-72,Neva Flurina,Female,11-03-2023,Davos,SUI,Switzerland,European Cup,Parallel Slalom,2,288.00
-73,Neva Flurina,Female,05-03-2023,Zakopane,POL,Switzerland,European Cup,Parallel Giant Slalom,10,75.40
-74,Neva Flurina,Female,04-03-2023,Zakopane,POL,Switzerland,European Cup,Parallel Giant Slalom,11,86.40
-75,Neva Flurina,Female,26-02-2023,Simonhoehe,AUT,Switzerland,Junior,Parallel Giant Slalom,DNS,
-76,Neva Flurina,Female,25-02-2023,Simonhoehe,AUT,Switzerland,Junior,Parallel Giant Slalom,7,64.80
-77,Neva Flurina,Female,12-02-2023,Funes - Vilnoess,ITA,Switzerland,FIS,Parallel Giant Slalom,1,200.00
-78,Neva Flurina,Female,11-02-2023,Funes - Vilnoess,ITA,Switzerland,FIS,Parallel Giant Slalom,10,52.00
-79,Neva Flurina,Female,05-02-2023,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,3,132.00
-80,Neva Flurina,Female,29-01-2023,Simonhöhe,AUT,Switzerland,European Cup,Parallel Giant Slalom,11,57.60
-81,Neva Flurina,Female,29-01-2023,Simonhöhe,AUT,Switzerland,Qualification,Parallel Giant Slalom,11,
-82,Neva Flurina,Female,28-01-2023,Simonhöhe,AUT,Switzerland,European Cup,Parallel Giant Slalom,6,96.00
-83,Neva Flurina,Female,28-01-2023,Simonhöhe,AUT,Switzerland,Qualification,Parallel Giant Slalom,6,
-84,Neva Flurina,Female,22-01-2023,Gore Mountain,USA,Switzerland,Universiade,Parallel Slalom,2,144.00
-85,Neva Flurina,Female,22-01-2023,Gore Mountain,USA,Switzerland,Qualification,Parallel Slalom,2,
-86,Neva Flurina,Female,21-01-2023,Gore Mountain,USA,Switzerland,Universiade,Parallel Giant Slalom,3,108.00
-87,Neva Flurina,Female,21-01-2023,Gore Mountain,USA,Switzerland,Qualification,Parallel Giant Slalom,6,
-88,Neva Flurina,Female,15-01-2023,Alleghe,ITA,Switzerland,European Cup,Parallel Slalom,23,17.60
-89,Neva Flurina,Female,15-01-2023,Alleghe,ITA,Switzerland,Qualification,Parallel Slalom,23,
-90,Neva Flurina,Female,14-01-2023,Alleghe,ITA,Switzerland,European Cup,Parallel Slalom,3,120.00
-91,Neva Flurina,Female,14-01-2023,Alleghe,ITA,Switzerland,Qualification,Parallel Slalom,1,
-92,Neva Flurina,Female,10-01-2023,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,9,
-93,Neva Flurina,Female,10-01-2023,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,11,240.00
-94,Neva Flurina,Female,18-12-2022,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,6,80.00
-95,Neva Flurina,Female,18-12-2022,Hochfügen,GER,Switzerland,Qualification,Parallel Giant Slalom,4,
-96,Neva Flurina,Female,17-12-2022,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,5,90.00
-97,Neva Flurina,Female,11-12-2022,Winterberg,GER,Switzerland,World Cup,Parallel Slalom,26,50.00
-98,Neva Flurina,Female,10-12-2022,Winterberg,GER,Switzerland,Qualification,Parallel Slalom,26,
-99,Neva Flurina,Female,01-04-2022,Chiesa in Valmalenco,ITA,Switzerland,FIS Junior World Championships,Parallel Slalom,9,104.40
-100,Neva Flurina,Female,31-03-2022,Chiesa in Valmalenco,ITA,Switzerland,FIS Junior World Championships,Parallel Giant Slalom,3,216.00
-101,Neva Flurina,Female,19-03-2022,Berchtesgaden,GER,Switzerland,Qualification,Parallel Slalom,DSQ,
-102,Neva Flurina,Female,19-03-2022,Berchtesgaden,GER,Switzerland,World Cup,Parallel Slalom,DSQ,
-103,Neva Flurina,Female,17-03-2022,Rogla,SLO,Switzerland,European Cup,Parallel Giant Slalom,7,129.60
-104,Neva Flurina,Female,16-03-2022,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,26,
-105,Neva Flurina,Female,16-03-2022,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,26,50.00
-106,Neva Flurina,Female,06-03-2022,Lachtal,AUT,Switzerland,European Cup,Parallel Giant Slalom,4,180.00
-107,Neva Flurina,Female,05-03-2022,Lachtal,AUT,Switzerland,European Cup,Parallel Giant Slalom,13,72.00
-108,Neva Flurina,Female,20-02-2022,Bakuriani,GEO,Switzerland,European Cup,Parallel Giant Slalom,12,79.20
-109,Neva Flurina,Female,19-02-2022,Bakuriani,GEO,Switzerland,European Cup,Parallel Giant Slalom,11,86.40
-110,Neva Flurina,Female,06-02-2022,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,9,75.40
-111,Neva Flurina,Female,05-02-2022,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,7,93.60
-112,Neva Flurina,Female,30-01-2022,Davos,SUI,Switzerland,European Cup,Parallel Slalom,16,36.00
-113,Neva Flurina,Female,29-01-2022,Davos,SUI,Switzerland,European Cup,Parallel Slalom,16,36.00
-114,Neva Flurina,Female,23-01-2022,Bukovel,UKR,Switzerland,European Cup,Parallel Giant Slalom,3,156.00
-115,Neva Flurina,Female,22-01-2022,Bukovel,UKR,Switzerland,European Cup,Parallel Giant Slalom,31,7.28
-116,Neva Flurina,Female,14-01-2022,Simonhöhe,AUT,Switzerland,World Cup,Parallel Giant Slalom,37,19.40
-117,Neva Flurina,Female,14-01-2022,Simonhöhe,AUT,Switzerland,Qualification,Parallel Giant Slalom,37,
-118,Neva Flurina,Female,11-01-2022,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,34,
-119,Neva Flurina,Female,11-01-2022,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,34,22.00
-120,Neva Flurina,Female,08-01-2022,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,49,
-121,Neva Flurina,Female,08-01-2022,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,49,
-122,Neva Flurina,Female,19-12-2021,Moninec,CZE,Switzerland,European Cup,Parallel Slalom,8,64.00
-123,Neva Flurina,Female,18-12-2021,Moninec,CZE,Switzerland,European Cup,Parallel Slalom,3,120.00
-124,Neva Flurina,Female,12-12-2021,Götschen,GER,Switzerland,European Cup,Parallel Slalom,7,72.00
-125,Neva Flurina,Female,11-12-2021,Götschen,GER,Switzerland,European Cup,Parallel Slalom,34,4.40
-126,Neva Flurina,Female,26-03-2021,Krasnoyarsk ,RUS,Switzerland,FIS Junior World Championships,Parallel Slalom,3,216.00
-127,Neva Flurina,Female,25-03-2021,Krasnoyarsk ,RUS,Switzerland,FIS Junior World Championships,Parallel Giant Slalom,12,79.20
-128,Neva Flurina,Female,25-03-2021,Krasnoyarsk ,RUS,Switzerland,Qualification,Parallel Giant Slalom,12,
-129,Neva Flurina,Female,20-03-2021,Pizol,SUI,Switzerland,Junior,Parallel Slalom,DSQ,
-130,Neva Flurina,Female,13-03-2021,Davos Rinerhorn,SUI,Switzerland,European Cup,Parallel Giant Slalom,46,
-131,Neva Flurina,Female,07-03-2021,Simonhöhe,AUT,Switzerland,Junior,Parallel Giant Slalom,11,43.20
-132,Neva Flurina,Female,06-03-2021,Simonhöhe,AUT,Switzerland,Junior,Parallel Giant Slalom,DSQ,
-133,Neva Flurina,Female,28-02-2021,Funes/Villnoesses,ITA,Switzerland,European Cup,Parallel Giant Slalom,11,43.20
-134,Neva Flurina,Female,27-02-2021,Funes/Villnoesses,ITA,Switzerland,European Cup,Parallel Giant Slalom,DNF,
-135,Neva Flurina,Female,21-02-2021,Gerlitzen,AUT,Switzerland,National Championships,Parallel Slalom,14,52.20
-136,Neva Flurina,Female,20-02-2021,Gerlitzen,AUT,Switzerland,National Championships,Parallel Giant Slalom,22,26.10
-137,Neva Flurina,Female,07-02-2021,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,1,240.00
-138,Neva Flurina,Female,06-02-2021,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,9,69.60
-139,Neva Flurina,Female,24-01-2021,Davos,SUI,Switzerland,European Cup,Parallel Slalom,16,54.00
-140,Neva Flurina,Female,23-01-2021,Davos,SUI,Switzerland,European Cup,Parallel Slalom,14,64.80
-141,Neva Flurina,Female,17-01-2021,Simonhoehe,AUT,Switzerland,European Cup,Parallel Giant Slalom,27,16.20
-142,Neva Flurina,Female,16-01-2021,Simonhoehe,AUT,Switzerland,European Cup,Parallel Giant Slalom,37,6.98
-143,Neva Flurina,Female,10-01-2021,Goetschen,GER,Switzerland,Junior,Parallel Slalom,2,128.00
-144,Neva Flurina,Female,09-01-2021,Goetschen,GER,Switzerland,Junior,Parallel Slalom,DNF,
-145,Neva Flurina,Female,20-12-2020,Lachtal,AUT,Switzerland,FIS Junior World Championships,Parallel Giant Slalom,15,57.60
-146,Neva Flurina,Female,19-12-2020,Lachtal,AUT,Switzerland,FIS Junior World Championships,Parallel Slalom,6,144.00
-147,Neva Flurina,Female,08-03-2020,Tauplitz,AUT,Switzerland,European Cup,Parallel Slalom,19,43.20
-148,Neva Flurina,Female,07-03-2020,Tauplitz,AUT,Switzerland,European Cup,Parallel Slalom,31,10.08
-149,Neva Flurina,Female,23-02-2020,Funes/Villnoesses,ITA,Switzerland,FIS,Parallel Giant Slalom,25,13.20
-150,Neva Flurina,Female,22-02-2020,Funes/Villnoesses,ITA,Switzerland,FIS,Parallel Giant Slalom,27,9.90
-151,Neva Flurina,Female,16-02-2020,Simonhoehe,AUT,Switzerland,European Cup,Parallel Giant Slalom,35,7.20
-152,Neva Flurina,Female,15-02-2020,Simonhoehe,AUT,Switzerland,European Cup,Parallel Giant Slalom,33,8.64
-153,Neva Flurina,Female,09-02-2020,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,15,57.60
-154,Neva Flurina,Female,08-02-2020,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,18,46.80
-155,Neva Flurina,Female,02-02-2020,Carezza,ITA,Switzerland,FIS,Giant Slalom,11,33.60
-156,Neva Flurina,Female,01-02-2020,Carezza,ITA,Switzerland,FIS,Giant Slalom,16,22.50
-157,Neva Flurina,Female,26-01-2020,Gosau,AUT,Switzerland,FIS,Parallel Slalom,33,
-158,Neva Flurina,Female,25-01-2020,Gosau,AUT,Switzerland,FIS,Parallel Slalom,14,27.00
-159,Neva Flurina,Female,19-01-2020,Alleghe,ITA,Switzerland,FIS,Parallel Slalom,12,35.20
-160,Neva Flurina,Female,18-01-2020,Alleghe,ITA,Switzerland,FIS,Parallel Slalom,12,35.20
-161,Neva Flurina,Female,22-12-2019,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,38,
-162,Neva Flurina,Female,21-12-2019,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,33,8.64
-163,Neva Flurina,Female,07-04-2019,Racines,ITA,Switzerland,European Cup,Parallel Slalom,30,11.52
-164,Neva Flurina,Female,06-04-2019,Racines,ITA,Switzerland,European Cup,Parallel Slalom,31,10.08
-165,Neva Flurina,Female,03-04-2019,Rogla,SLO,Switzerland,FIS Junior World Championships,Parallel Slalom,30,10.24
-166,Neva Flurina,Female,02-04-2019,Rogla,SLO,Switzerland,FIS Junior World Championships,Parallel Giant Slalom,36,6.30
-167,Neva Flurina,Female,31-03-2019,Radstadt,AUT,Switzerland,National Championships,Parallel Giant Slalom,DNF1,
-168,Neva Flurina,Female,30-03-2019,Radstadt,AUT,Switzerland,National Championships,Parallel Slalom,32,7.54
-169,Neva Flurina,Female,17-03-2019,Rogla,SLO,Switzerland,European Cup,Parallel Giant Slalom,55,
-170,Neva Flurina,Female,17-03-2019,Rogla,SLO,Switzerland,Junior,Parallel Giant Slalom,26,11.00
-171,Neva Flurina,Female,16-03-2019,Rogla,SLO,Switzerland,European Cup,Parallel Giant Slalom,50,5.58
-172,Neva Flurina,Female,03-03-2019,Davos,SUI,Switzerland,European Cup,Parallel Slalom,20,39.60
-173,Neva Flurina,Female,02-03-2019,Davos,SUI,Switzerland,European Cup,Parallel Giant Slalom,21,36.00
-174,Neva Flurina,Female,17-02-2019,Simonhoehe,AUT,Switzerland,FIS,Parallel GS,19,24.00
-175,Neva Flurina,Female,16-02-2019,Simonhoehe,AUT,Switzerland,FIS,Parallel GS,21,20.00
-176,Neva Flurina,Female,10-02-2019,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,16,39.00
-177,Neva Flurina,Female,09-02-2019,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,12,57.20
+0,Neva Flurina,Female,02-03-2025,Krynica,POL,Switzerland,Qualification,Parallel Giant Slalom,31,
+1,Neva Flurina,Female,02-03-2025,Krynica,POL,Switzerland,World Cup,Parallel Giant Slalom,31,
+2,Neva Flurina,Female,01-03-2025,Krynica,POL,Switzerland,Qualification,Parallel Giant Slalom,DNF,
+3,Neva Flurina,Female,01-03-2025,Krynica,POL,Switzerland,World Cup,Parallel Giant Slalom,DNF,
+4,Neva Flurina,Female,23-02-2025,Lenzerheide,SUI,Switzerland,National Championships,Giant Slalom,DNF,
+5,Neva Flurina,Female,22-02-2025,Lenzerheide,SUI,Switzerland,National Championships,Parallel Slalom,5,130.50
+6,Neva Flurina,Female,16-02-2025,Val St. Come,CAN,Switzerland,Qualification,Parallel Giant Slalom,12,
+7,Neva Flurina,Female,16-02-2025,Val St. Come,CAN,Switzerland,World Cup,Parallel Giant Slalom,13,200.00
+8,Neva Flurina,Female,15-02-2025,Val St. Come,CAN,Switzerland,Qualification,Parallel Giant Slalom,15,
+9,Neva Flurina,Female,15-02-2025,Val St. Come,CAN,Switzerland,World Cup,Parallel Giant Slalom,15,160.00
+10,Neva Flurina,Female,26-01-2025,Simonhöhe,AUT,Switzerland,European Cup,Parallel Giant Slalom,6,144.00
+11,Neva Flurina,Female,25-01-2025,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,10,
+12,Neva Flurina,Female,25-01-2025,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,11,240.00
+13,Neva Flurina,Female,19-01-2025,Bansko,BUL,Switzerland,Qualification,Parallel Giant Slalom,DNF,
+14,Neva Flurina,Female,19-01-2025,Bansko,BUL,Switzerland,World Cup,Parallel Giant Slalom,DNF,
+15,Neva Flurina,Female,18-01-2025,Bansko,BUL,Switzerland,Qualification,Parallel Giant Slalom,36,
+16,Neva Flurina,Female,18-01-2025,Bansko,BUL,Switzerland,World Cup,Parallel Giant Slalom,36,19.70
+17,Neva Flurina,Female,15-01-2025,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom Team,3,
+18,Neva Flurina,Female,14-01-2025,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,7,
+19,Neva Flurina,Female,14-01-2025,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,4,500.00
+20,Neva Flurina,Female,11-01-2025,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,10,
+21,Neva Flurina,Female,11-01-2025,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,7,360.00
+22,Neva Flurina,Female,21-12-2024,Davos,SUI,Switzerland,Qualification,Parallel Slalom,14,
+23,Neva Flurina,Female,21-12-2024,Davos,SUI,Switzerland,World Cup,Parallel Slalom,3,600.00
+24,Neva Flurina,Female,14-12-2024,Cortina d'Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,23,
+25,Neva Flurina,Female,14-12-2024,Cortina d'Ampezzo,ITA,Switzerland,World Cup,Parallel Giant Slalom,23,80.00
+26,Neva Flurina,Female,12-12-2024,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,18,
+27,Neva Flurina,Female,12-12-2024,Carezza,ITA,Switzerland,World Cup,Parallel Giant Slalom,18,130.00
+28,Neva Flurina,Female,08-12-2024,Yanqing (NASC),CHN,Switzerland,World Cup,Parallel Slalom,4,500.00
+29,Neva Flurina,Female,08-12-2024,Yanqing (NASC),CHN,Switzerland,Qualification,Parallel Slalom,4,
+30,Neva Flurina,Female,07-12-2024,Yanqing (NASC),CHN,Switzerland,World Cup,Parallel Giant Slalom,16,150.00
+31,Neva Flurina,Female,07-12-2024,Yanqing (NASC),CHN,Switzerland,Qualification,Parallel Giant Slalom,16,
+32,Neva Flurina,Female,01-12-2024,Mylin,CHN,Switzerland,World Cup,Parallel Slalom,14,180.00
+33,Neva Flurina,Female,01-12-2024,Mylin,CHN,Switzerland,Qualification,Parallel Slalom,14,
+34,Neva Flurina,Female,30-11-2024,Mylin,CHN,Switzerland,World Cup,Parallel Giant Slalom,26,50.00
+35,Neva Flurina,Female,30-11-2024,Mylin,CHN,Switzerland,Qualification,Parallel Giant Slalom,26,
+36,Neva Flurina,Female,07-04-2024,Samnaun,SUI,Switzerland,National Championships,Giant Slalom,5,130.50
+37,Neva Flurina,Female,06-04-2024,Samnaun,SUI,Switzerland,National Championships,Parallel Slalom,3,174.00
+38,Neva Flurina,Female,17-03-2024,St. Moritz,SUI,Switzerland,European Cup,Parallel Slalom,DSQ,
+39,Neva Flurina,Female,16-03-2024,St. Moritz,SUI,Switzerland,European Cup,Parallel Giant Slalom,34,7.92
+40,Neva Flurina,Female,13-03-2024,Davos/Rinerhorn ,SUI,Switzerland,European Cup,Parallel Giant Slalom,2,192.00
+41,Neva Flurina,Female,12-03-2024,Davos/Rinerhorn ,SUI,Switzerland,European Cup,Parallel Giant Slalom,10,93.60
+42,Neva Flurina,Female,10-03-2024,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,9,69.60
+43,Neva Flurina,Female,09-03-2024,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,2,192.00
+44,Neva Flurina,Female,10-02-2024,Hochficht/Zwiesel,AUT,Switzerland,National Championships,Parallel Slalom,7,104.40
+45,Neva Flurina,Female,09-02-2024,Hochficht/Zwiesel,AUT,Switzerland,National Championships,Parallel Giant Slalom,13,58.00
+46,Neva Flurina,Female,24-01-2024,Pamporovo,BUL,Switzerland,European Cup,Parallel Slalom,1,290.00
+47,Neva Flurina,Female,23-01-2024,Pamporovo,BUL,Switzerland,European Cup,Parallel Slalom,19,34.80
+48,Neva Flurina,Female,21-01-2024,Pamporovo,BUL,Switzerland,Qualification,Parallel Slalom,31,
+49,Neva Flurina,Female,21-01-2024,Pamporovo,BUL,Switzerland,World Cup,Parallel Slalom,31,
+50,Neva Flurina,Female,20-01-2024,Pamporovo,BUL,Switzerland,Qualification,Parallel Slalom,36,
+51,Neva Flurina,Female,20-01-2024,Pamporovo,BUL,Switzerland,World Cup,Parallel Slalom,36,
+52,Neva Flurina,Female,16-01-2024,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,31,
+53,Neva Flurina,Female,16-01-2024,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,31,28.00
+54,Neva Flurina,Female,13-01-2024,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,24,
+55,Neva Flurina,Female,13-01-2024,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,24,70.00
+56,Neva Flurina,Female,12-01-2024,Folgaria,ITA,Switzerland,Qualification,Parallel Slalom,1,
+57,Neva Flurina,Female,12-01-2024,Folgaria,ITA,Switzerland,European Cup,Parallel Slalom,9,69.60
+58,Neva Flurina,Female,11-01-2024,Folgaria,ITA,Switzerland,Qualification,Parallel Slalom,12,
+59,Neva Flurina,Female,11-01-2024,Folgaria,ITA,Switzerland,European Cup,Parallel Slalom,13,58.00
+60,Neva Flurina,Female,23-12-2023,Davos ,SUI,Switzerland,Qualification,Parallel Slalom,18,
+61,Neva Flurina,Female,23-12-2023,Davos,SUI,Switzerland,World Cup,Parallel Slalom,18,130.00
+62,Neva Flurina,Female,20-12-2023,Moninec,CZE,Switzerland,European Cup,Parallel Slalom,29,9.36
+63,Neva Flurina,Female,19-12-2023,Moninec,CZE,Switzerland,European Cup,Parallel Slalom,2,208.00
+64,Neva Flurina,Female,09-12-2023,Götschen,GER,Switzerland,Qualification,Parallel Slalom,11,
+65,Neva Flurina,Female,09-12-2023,Götschen,GER,Switzerland,European Cup,Parallel Slalom,14,64.80
+66,Neva Flurina,Female,08-12-2023,Götschen,GER,Switzerland,Qualification,Parallel Slalom,11,
+67,Neva Flurina,Female,08-12-2023,Götschen,GER,Switzerland,European Cup,Parallel Slalom,4,180.00
+68,Neva Flurina,Female,26-03-2023,Bansko,BUL,Switzerland,FIS Junior World Championships,Parallel Team,2,
+69,Neva Flurina,Female,25-03-2023,Bansko,BUL,Switzerland,FIS Junior World Championships,Parallel Slalom,9,104.40
+70,Neva Flurina,Female,25-03-2023,Bansko,BUL,Switzerland,Qualification,Parallel Slalom,1,
+71,Neva Flurina,Female,24-03-2023,Bansko,BUL,Switzerland,FIS Junior World Championships,Parallel Giant Slalom,4,180.00
+72,Neva Flurina,Female,24-03-2023,Bansko,BUL,Switzerland,Qualification,Parallel Giant Slalom,3,
+73,Neva Flurina,Female,19-03-2023,Ratschings,ITA,Switzerland,European Cup,Parallel Slalom,2,208.00
+74,Neva Flurina,Female,18-03-2023,Ratschings,ITA,Switzerland,European Cup,Parallel Slalom,6,104.00
+75,Neva Flurina,Female,12-03-2023,Davos,SUI,Switzerland,European Cup,Parallel Slalom,6,104.00
+76,Neva Flurina,Female,11-03-2023,Davos,SUI,Switzerland,European Cup,Parallel Slalom,2,288.00
+77,Neva Flurina,Female,05-03-2023,Zakopane,POL,Switzerland,European Cup,Parallel Giant Slalom,10,75.40
+78,Neva Flurina,Female,04-03-2023,Zakopane,POL,Switzerland,European Cup,Parallel Giant Slalom,11,86.40
+79,Neva Flurina,Female,26-02-2023,Simonhoehe,AUT,Switzerland,Junior,Parallel Giant Slalom,DNS,
+80,Neva Flurina,Female,25-02-2023,Simonhoehe,AUT,Switzerland,Junior,Parallel Giant Slalom,7,64.80
+81,Neva Flurina,Female,12-02-2023,Funes - Vilnoess,ITA,Switzerland,FIS,Parallel Giant Slalom,1,200.00
+82,Neva Flurina,Female,11-02-2023,Funes - Vilnoess,ITA,Switzerland,FIS,Parallel Giant Slalom,10,52.00
+83,Neva Flurina,Female,05-02-2023,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,3,132.00
+84,Neva Flurina,Female,29-01-2023,Simonhöhe,AUT,Switzerland,European Cup,Parallel Giant Slalom,11,57.60
+85,Neva Flurina,Female,29-01-2023,Simonhöhe,AUT,Switzerland,Qualification,Parallel Giant Slalom,11,
+86,Neva Flurina,Female,28-01-2023,Simonhöhe,AUT,Switzerland,European Cup,Parallel Giant Slalom,6,96.00
+87,Neva Flurina,Female,28-01-2023,Simonhöhe,AUT,Switzerland,Qualification,Parallel Giant Slalom,6,
+88,Neva Flurina,Female,22-01-2023,Gore Mountain,USA,Switzerland,Universiade,Parallel Slalom,2,144.00
+89,Neva Flurina,Female,22-01-2023,Gore Mountain,USA,Switzerland,Qualification,Parallel Slalom,2,
+90,Neva Flurina,Female,21-01-2023,Gore Mountain,USA,Switzerland,Universiade,Parallel Giant Slalom,3,108.00
+91,Neva Flurina,Female,21-01-2023,Gore Mountain,USA,Switzerland,Qualification,Parallel Giant Slalom,6,
+92,Neva Flurina,Female,15-01-2023,Alleghe,ITA,Switzerland,European Cup,Parallel Slalom,23,17.60
+93,Neva Flurina,Female,15-01-2023,Alleghe,ITA,Switzerland,Qualification,Parallel Slalom,23,
+94,Neva Flurina,Female,14-01-2023,Alleghe,ITA,Switzerland,European Cup,Parallel Slalom,3,120.00
+95,Neva Flurina,Female,14-01-2023,Alleghe,ITA,Switzerland,Qualification,Parallel Slalom,1,
+96,Neva Flurina,Female,10-01-2023,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,9,
+97,Neva Flurina,Female,10-01-2023,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,11,240.00
+98,Neva Flurina,Female,18-12-2022,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,6,80.00
+99,Neva Flurina,Female,18-12-2022,Hochfügen,GER,Switzerland,Qualification,Parallel Giant Slalom,4,
+100,Neva Flurina,Female,17-12-2022,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,5,90.00
+101,Neva Flurina,Female,11-12-2022,Winterberg,GER,Switzerland,World Cup,Parallel Slalom,26,50.00
+102,Neva Flurina,Female,10-12-2022,Winterberg,GER,Switzerland,Qualification,Parallel Slalom,26,
+103,Neva Flurina,Female,01-04-2022,Chiesa in Valmalenco,ITA,Switzerland,FIS Junior World Championships,Parallel Slalom,9,104.40
+104,Neva Flurina,Female,31-03-2022,Chiesa in Valmalenco,ITA,Switzerland,FIS Junior World Championships,Parallel Giant Slalom,3,216.00
+105,Neva Flurina,Female,19-03-2022,Berchtesgaden,GER,Switzerland,Qualification,Parallel Slalom,DSQ,
+106,Neva Flurina,Female,19-03-2022,Berchtesgaden,GER,Switzerland,World Cup,Parallel Slalom,DSQ,
+107,Neva Flurina,Female,17-03-2022,Rogla,SLO,Switzerland,European Cup,Parallel Giant Slalom,7,129.60
+108,Neva Flurina,Female,16-03-2022,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,26,
+109,Neva Flurina,Female,16-03-2022,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,26,50.00
+110,Neva Flurina,Female,06-03-2022,Lachtal,AUT,Switzerland,European Cup,Parallel Giant Slalom,4,180.00
+111,Neva Flurina,Female,05-03-2022,Lachtal,AUT,Switzerland,European Cup,Parallel Giant Slalom,13,72.00
+112,Neva Flurina,Female,20-02-2022,Bakuriani,GEO,Switzerland,European Cup,Parallel Giant Slalom,12,79.20
+113,Neva Flurina,Female,19-02-2022,Bakuriani,GEO,Switzerland,European Cup,Parallel Giant Slalom,11,86.40
+114,Neva Flurina,Female,06-02-2022,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,9,75.40
+115,Neva Flurina,Female,05-02-2022,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,7,93.60
+116,Neva Flurina,Female,30-01-2022,Davos,SUI,Switzerland,European Cup,Parallel Slalom,16,36.00
+117,Neva Flurina,Female,29-01-2022,Davos,SUI,Switzerland,European Cup,Parallel Slalom,16,36.00
+118,Neva Flurina,Female,23-01-2022,Bukovel,UKR,Switzerland,European Cup,Parallel Giant Slalom,3,156.00
+119,Neva Flurina,Female,22-01-2022,Bukovel,UKR,Switzerland,European Cup,Parallel Giant Slalom,31,7.28
+120,Neva Flurina,Female,14-01-2022,Simonhöhe,AUT,Switzerland,World Cup,Parallel Giant Slalom,37,19.40
+121,Neva Flurina,Female,14-01-2022,Simonhöhe,AUT,Switzerland,Qualification,Parallel Giant Slalom,37,
+122,Neva Flurina,Female,11-01-2022,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,34,
+123,Neva Flurina,Female,11-01-2022,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,34,22.00
+124,Neva Flurina,Female,08-01-2022,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,49,
+125,Neva Flurina,Female,08-01-2022,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,49,
+126,Neva Flurina,Female,19-12-2021,Moninec,CZE,Switzerland,European Cup,Parallel Slalom,8,64.00
+127,Neva Flurina,Female,18-12-2021,Moninec,CZE,Switzerland,European Cup,Parallel Slalom,3,120.00
+128,Neva Flurina,Female,12-12-2021,Götschen,GER,Switzerland,European Cup,Parallel Slalom,7,72.00
+129,Neva Flurina,Female,11-12-2021,Götschen,GER,Switzerland,European Cup,Parallel Slalom,34,4.40
+130,Neva Flurina,Female,26-03-2021,Krasnoyarsk ,RUS,Switzerland,FIS Junior World Championships,Parallel Slalom,3,216.00
+131,Neva Flurina,Female,25-03-2021,Krasnoyarsk ,RUS,Switzerland,FIS Junior World Championships,Parallel Giant Slalom,12,79.20
+132,Neva Flurina,Female,25-03-2021,Krasnoyarsk ,RUS,Switzerland,Qualification,Parallel Giant Slalom,12,
+133,Neva Flurina,Female,20-03-2021,Pizol,SUI,Switzerland,Junior,Parallel Slalom,DSQ,
+134,Neva Flurina,Female,13-03-2021,Davos Rinerhorn,SUI,Switzerland,European Cup,Parallel Giant Slalom,46,
+135,Neva Flurina,Female,07-03-2021,Simonhöhe,AUT,Switzerland,Junior,Parallel Giant Slalom,11,43.20
+136,Neva Flurina,Female,06-03-2021,Simonhöhe,AUT,Switzerland,Junior,Parallel Giant Slalom,DSQ,
+137,Neva Flurina,Female,28-02-2021,Funes/Villnoesses,ITA,Switzerland,European Cup,Parallel Giant Slalom,11,43.20
+138,Neva Flurina,Female,27-02-2021,Funes/Villnoesses,ITA,Switzerland,European Cup,Parallel Giant Slalom,DNF,
+139,Neva Flurina,Female,21-02-2021,Gerlitzen,AUT,Switzerland,National Championships,Parallel Slalom,14,52.20
+140,Neva Flurina,Female,20-02-2021,Gerlitzen,AUT,Switzerland,National Championships,Parallel Giant Slalom,22,26.10
+141,Neva Flurina,Female,07-02-2021,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,1,240.00
+142,Neva Flurina,Female,06-02-2021,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,9,69.60
+143,Neva Flurina,Female,24-01-2021,Davos,SUI,Switzerland,European Cup,Parallel Slalom,16,54.00
+144,Neva Flurina,Female,23-01-2021,Davos,SUI,Switzerland,European Cup,Parallel Slalom,14,64.80
+145,Neva Flurina,Female,17-01-2021,Simonhoehe,AUT,Switzerland,European Cup,Parallel Giant Slalom,27,16.20
+146,Neva Flurina,Female,16-01-2021,Simonhoehe,AUT,Switzerland,European Cup,Parallel Giant Slalom,37,6.98
+147,Neva Flurina,Female,10-01-2021,Goetschen,GER,Switzerland,Junior,Parallel Slalom,2,128.00
+148,Neva Flurina,Female,09-01-2021,Goetschen,GER,Switzerland,Junior,Parallel Slalom,DNF,
+149,Neva Flurina,Female,20-12-2020,Lachtal,AUT,Switzerland,FIS Junior World Championships,Parallel Giant Slalom,15,57.60
+150,Neva Flurina,Female,19-12-2020,Lachtal,AUT,Switzerland,FIS Junior World Championships,Parallel Slalom,6,144.00
+151,Neva Flurina,Female,08-03-2020,Tauplitz,AUT,Switzerland,European Cup,Parallel Slalom,19,43.20
+152,Neva Flurina,Female,07-03-2020,Tauplitz,AUT,Switzerland,European Cup,Parallel Slalom,31,10.08
+153,Neva Flurina,Female,23-02-2020,Funes/Villnoesses,ITA,Switzerland,FIS,Parallel Giant Slalom,25,13.20
+154,Neva Flurina,Female,22-02-2020,Funes/Villnoesses,ITA,Switzerland,FIS,Parallel Giant Slalom,27,9.90
+155,Neva Flurina,Female,16-02-2020,Simonhoehe,AUT,Switzerland,European Cup,Parallel Giant Slalom,35,7.20
+156,Neva Flurina,Female,15-02-2020,Simonhoehe,AUT,Switzerland,European Cup,Parallel Giant Slalom,33,8.64
+157,Neva Flurina,Female,09-02-2020,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,15,57.60
+158,Neva Flurina,Female,08-02-2020,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,18,46.80
+159,Neva Flurina,Female,02-02-2020,Carezza,ITA,Switzerland,FIS,Giant Slalom,11,33.60
+160,Neva Flurina,Female,01-02-2020,Carezza,ITA,Switzerland,FIS,Giant Slalom,16,22.50
+161,Neva Flurina,Female,26-01-2020,Gosau,AUT,Switzerland,FIS,Parallel Slalom,33,
+162,Neva Flurina,Female,25-01-2020,Gosau,AUT,Switzerland,FIS,Parallel Slalom,14,27.00
+163,Neva Flurina,Female,19-01-2020,Alleghe,ITA,Switzerland,FIS,Parallel Slalom,12,35.20
+164,Neva Flurina,Female,18-01-2020,Alleghe,ITA,Switzerland,FIS,Parallel Slalom,12,35.20
+165,Neva Flurina,Female,22-12-2019,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,38,
+166,Neva Flurina,Female,21-12-2019,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,33,8.64
+167,Neva Flurina,Female,07-04-2019,Racines,ITA,Switzerland,European Cup,Parallel Slalom,30,11.52
+168,Neva Flurina,Female,06-04-2019,Racines,ITA,Switzerland,European Cup,Parallel Slalom,31,10.08
+169,Neva Flurina,Female,03-04-2019,Rogla,SLO,Switzerland,FIS Junior World Championships,Parallel Slalom,30,10.24
+170,Neva Flurina,Female,02-04-2019,Rogla,SLO,Switzerland,FIS Junior World Championships,Parallel Giant Slalom,36,6.30
+171,Neva Flurina,Female,31-03-2019,Radstadt,AUT,Switzerland,National Championships,Parallel Giant Slalom,DNF1,
+172,Neva Flurina,Female,30-03-2019,Radstadt,AUT,Switzerland,National Championships,Parallel Slalom,32,7.54
+173,Neva Flurina,Female,17-03-2019,Rogla,SLO,Switzerland,European Cup,Parallel Giant Slalom,55,
+174,Neva Flurina,Female,17-03-2019,Rogla,SLO,Switzerland,Junior,Parallel Giant Slalom,26,11.00
+175,Neva Flurina,Female,16-03-2019,Rogla,SLO,Switzerland,European Cup,Parallel Giant Slalom,50,5.58
+176,Neva Flurina,Female,03-03-2019,Davos,SUI,Switzerland,European Cup,Parallel Slalom,20,39.60
+177,Neva Flurina,Female,02-03-2019,Davos,SUI,Switzerland,European Cup,Parallel Giant Slalom,21,36.00
+178,Neva Flurina,Female,17-02-2019,Simonhoehe,AUT,Switzerland,FIS,Parallel GS,19,24.00
+179,Neva Flurina,Female,16-02-2019,Simonhoehe,AUT,Switzerland,FIS,Parallel GS,21,20.00
+180,Neva Flurina,Female,10-02-2019,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,16,39.00
+181,Neva Flurina,Female,09-02-2019,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,12,57.20

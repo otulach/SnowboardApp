@@ -1,28 +1,30 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Legac Vid,Male,24-02-2023,Platak,BIH,Croatia,FIS,Slopestyle,15,3.00
-1,Legac Vid,Male,23-02-2023,Platak,BIH,Croatia,FIS,Big Air,18,0.10
-2,Legac Vid,Male,22-02-2023,Bjelasnica,BIH,Croatia,FIS,Big Air,15,3.60
-3,Legac Vid,Male,21-02-2023,Bjelasnica,BIH,Croatia,FIS,Big Air,14,4.90
-4,Legac Vid,Male,01-02-2021,Bjelasnicaca,BIH,Croatia,FIS,Slopestyle,8,8.14
-5,Legac Vid,Male,31-01-2021,Bjelasnicaca,BIH,Croatia,FIS,Big Air,8,8.14
-6,Legac Vid,Male,30-01-2021,Bjelasnica,BIH,Croatia,FIS,Slopestyle,11,0.04
-7,Legac Vid,Male,29-01-2021,Bjelasnica,BIH,Croatia,FIS,Big Air,8,8.14
-8,Legac Vid,Male,27-01-2021,Platak,CRO,Croatia,FIS,Slopestyle,8,3.69
-9,Legac Vid,Male,26-01-2021,Platak,CRO,Croatia,FIS,Big Air,5,15.46
-10,Legac Vid,Male,25-01-2021,Platak,CRO,Croatia,FIS,Slopestyle,8,3.69
-11,Legac Vid,Male,24-01-2021,Platak,CRO,Croatia,FIS,Big Air,6,9.71
-12,Legac Vid,Male,13-03-2020,Platak,CRO,Croatia,FIS,Big Air,4,25.00
-13,Legac Vid,Male,02-03-2020,Kopaonik,SRB,Croatia,FIS,Slopestyle,14,
-14,Legac Vid,Male,01-03-2020,Kopaonik,SRB,Croatia,FIS,Big Air,11,12.00
-15,Legac Vid,Male,29-02-2020,Kopaonik,SRB,Croatia,FIS,Slopestyle,15,
-16,Legac Vid,Male,28-02-2020,Kopaonik,SRB,Croatia,FIS,Big Air,16,
-17,Legac Vid,Male,27-02-2020,Kopaonik,SRB,Croatia,FIS,Big Air,25,3.00
-18,Legac Vid,Male,26-02-2020,Kopaonik,SRB,Croatia,FIS,Slopestyle,27,
-19,Legac Vid,Male,26-03-2019,Kopaonik,SRB,Croatia,FIS,Slopestyle,12,11.00
-20,Legac Vid,Male,25-03-2019,Kopaonik,SRB,Croatia,FIS,Big Air,14,9.00
-21,Legac Vid,Male,24-03-2019,Kopaonik,SRB,Croatia,National Championships,Big Air,16,7.50
-22,Legac Vid,Male,23-03-2019,Kopaonik,SRB,Croatia,National Championships,Slopestyle,16,7.50
-23,Legac Vid,Male,22-03-2019,Bjelasnica,BIH,Croatia,FIS,Big Air,8,16.00
-24,Legac Vid,Male,21-03-2019,Bjelasnica,BIH,Croatia,FIS,Slopestyle,8,16.00
-25,Legac Vid,Male,20-03-2019,Bjelasnica,BIH,Croatia,FIS,Slopestyle,7,18.00
-26,Legac Vid,Male,19-03-2019,Bjelasnica,BIH,Croatia,FIS,Big Air,7,18.00
+0,Legac Vid,Male,26-02-2025,Bjelalnica,CRO,Croatia,FIS,Slopestyle,11,0.10
+1,Legac Vid,Male,25-02-2025,Bjelalnica,CRO,Croatia,FIS,Big Air,10,2.50
+2,Legac Vid,Male,24-02-2023,Platak,BIH,Croatia,FIS,Slopestyle,15,3.00
+3,Legac Vid,Male,23-02-2023,Platak,BIH,Croatia,FIS,Big Air,18,0.10
+4,Legac Vid,Male,22-02-2023,Bjelasnica,BIH,Croatia,FIS,Big Air,15,3.60
+5,Legac Vid,Male,21-02-2023,Bjelasnica,BIH,Croatia,FIS,Big Air,14,4.90
+6,Legac Vid,Male,01-02-2021,Bjelasnicaca,BIH,Croatia,FIS,Slopestyle,8,8.14
+7,Legac Vid,Male,31-01-2021,Bjelasnicaca,BIH,Croatia,FIS,Big Air,8,8.14
+8,Legac Vid,Male,30-01-2021,Bjelasnica,BIH,Croatia,FIS,Slopestyle,11,0.04
+9,Legac Vid,Male,29-01-2021,Bjelasnica,BIH,Croatia,FIS,Big Air,8,8.14
+10,Legac Vid,Male,27-01-2021,Platak,CRO,Croatia,FIS,Slopestyle,8,3.69
+11,Legac Vid,Male,26-01-2021,Platak,CRO,Croatia,FIS,Big Air,5,15.46
+12,Legac Vid,Male,25-01-2021,Platak,CRO,Croatia,FIS,Slopestyle,8,3.69
+13,Legac Vid,Male,24-01-2021,Platak,CRO,Croatia,FIS,Big Air,6,9.71
+14,Legac Vid,Male,13-03-2020,Platak,CRO,Croatia,FIS,Big Air,4,25.00
+15,Legac Vid,Male,02-03-2020,Kopaonik,SRB,Croatia,FIS,Slopestyle,14,
+16,Legac Vid,Male,01-03-2020,Kopaonik,SRB,Croatia,FIS,Big Air,11,12.00
+17,Legac Vid,Male,29-02-2020,Kopaonik,SRB,Croatia,FIS,Slopestyle,15,
+18,Legac Vid,Male,28-02-2020,Kopaonik,SRB,Croatia,FIS,Big Air,16,
+19,Legac Vid,Male,27-02-2020,Kopaonik,SRB,Croatia,FIS,Big Air,25,3.00
+20,Legac Vid,Male,26-02-2020,Kopaonik,SRB,Croatia,FIS,Slopestyle,27,
+21,Legac Vid,Male,26-03-2019,Kopaonik,SRB,Croatia,FIS,Slopestyle,12,11.00
+22,Legac Vid,Male,25-03-2019,Kopaonik,SRB,Croatia,FIS,Big Air,14,9.00
+23,Legac Vid,Male,24-03-2019,Kopaonik,SRB,Croatia,National Championships,Big Air,16,7.50
+24,Legac Vid,Male,23-03-2019,Kopaonik,SRB,Croatia,National Championships,Slopestyle,16,7.50
+25,Legac Vid,Male,22-03-2019,Bjelasnica,BIH,Croatia,FIS,Big Air,8,16.00
+26,Legac Vid,Male,21-03-2019,Bjelasnica,BIH,Croatia,FIS,Slopestyle,8,16.00
+27,Legac Vid,Male,20-03-2019,Bjelasnica,BIH,Croatia,FIS,Slopestyle,7,18.00
+28,Legac Vid,Male,19-03-2019,Bjelasnica,BIH,Croatia,FIS,Big Air,7,18.00

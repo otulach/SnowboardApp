@@ -1,36 +1,37 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Kaku Yusei,Male,03-03-2024,Tsugaike,JPN,Japan,National Championships,Big Air,8,99.30
-1,Kaku Yusei,Male,03-03-2024,Tsugaike,JPN,Japan,National Championships,Slopestyle,10,63.00
-2,Kaku Yusei,Male,28-02-2024,Hakuba,JPN,Japan,Asian Cup,Slopestyle,15,37.50
-3,Kaku Yusei,Male,17-02-2024,Fukushima Yama,JPN,Japan,Asian Cup,Big Air,20,26.40
-4,Kaku Yusei,Male,31-03-2023,Hakuba,JPN,Japan,Asian Cup,Big Air,21,6.50
-5,Kaku Yusei,Male,29-03-2023,Hakuba,JPN,Japan,Asian Cup,Slopestyle,22,22.00
-6,Kaku Yusei,Male,25-03-2023,Niseko,JPN,Japan,National Championships,Big Air,18,23.80
-7,Kaku Yusei,Male,24-03-2023,Niseko,JPN,Japan,National Championships,Slopestyle,22,20.90
-8,Kaku Yusei,Male,17-03-2023,Laax,SUI,Japan,European Cup Premium,Slopestyle,88,15.60
-9,Kaku Yusei,Male,14-02-2023,Fukushima Yama,JPN,Japan,FIS,Big Air,DNS,
-10,Kaku Yusei,Male,29-01-2023,Niseko,JPN,Japan,FIS,Slopestyle,7,61.50
-11,Kaku Yusei,Male,28-01-2023,Niseko,JPN,Japan,FIS,Slopestyle,21,23.10
-12,Kaku Yusei,Male,20-01-2023,Gore Mountain,USA,Japan,Universiade,Big Air,1,110.00
-13,Kaku Yusei,Male,19-01-2023,Gore Mountain,USA,Japan,Qualification,Big Air,5,
-14,Kaku Yusei,Male,18-01-2023,Gore Mountain,USA,Japan,Universiade,Slopestyle,4,67.10
-15,Kaku Yusei,Male,17-01-2023,Gore Mountain,USA,Japan,Qualification,Slopestyle,3,
-16,Kaku Yusei,Male,22-10-2022,Chur,SUI,Japan,Qualification,Big Air,10,
+0,Kaku Yusei,Male,01-03-2025,Hakuba,JPN,Japan,Asian Cup,Slopestyle,DNS,
+1,Kaku Yusei,Male,03-03-2024,Tsugaike,JPN,Japan,National Championships,Big Air,8,99.30
+2,Kaku Yusei,Male,03-03-2024,Tsugaike,JPN,Japan,National Championships,Slopestyle,10,63.00
+3,Kaku Yusei,Male,28-02-2024,Hakuba,JPN,Japan,Asian Cup,Slopestyle,15,37.50
+4,Kaku Yusei,Male,17-02-2024,Fukushima Yama,JPN,Japan,Asian Cup,Big Air,20,26.40
+5,Kaku Yusei,Male,31-03-2023,Hakuba,JPN,Japan,Asian Cup,Big Air,21,6.50
+6,Kaku Yusei,Male,29-03-2023,Hakuba,JPN,Japan,Asian Cup,Slopestyle,22,22.00
+7,Kaku Yusei,Male,25-03-2023,Niseko,JPN,Japan,National Championships,Big Air,18,23.80
+8,Kaku Yusei,Male,24-03-2023,Niseko,JPN,Japan,National Championships,Slopestyle,22,20.90
+9,Kaku Yusei,Male,17-03-2023,Laax,SUI,Japan,European Cup Premium,Slopestyle,88,15.60
+10,Kaku Yusei,Male,14-02-2023,Fukushima Yama,JPN,Japan,FIS,Big Air,DNS,
+11,Kaku Yusei,Male,29-01-2023,Niseko,JPN,Japan,FIS,Slopestyle,7,61.50
+12,Kaku Yusei,Male,28-01-2023,Niseko,JPN,Japan,FIS,Slopestyle,21,23.10
+13,Kaku Yusei,Male,20-01-2023,Gore Mountain,USA,Japan,Universiade,Big Air,1,110.00
+14,Kaku Yusei,Male,19-01-2023,Gore Mountain,USA,Japan,Qualification,Big Air,5,
+15,Kaku Yusei,Male,18-01-2023,Gore Mountain,USA,Japan,Universiade,Slopestyle,4,67.10
+16,Kaku Yusei,Male,17-01-2023,Gore Mountain,USA,Japan,Qualification,Slopestyle,3,
 17,Kaku Yusei,Male,22-10-2022,Chur,SUI,Japan,World Cup,Big Air,25,99.50
-18,Kaku Yusei,Male,02-09-2022,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,16,49.30
-19,Kaku Yusei,Male,02-04-2022,Tsugaike,JPN,Japan,FIS,Big Air,1,80.00
-20,Kaku Yusei,Male,30-03-2022,Hakuba,JPN,Japan,FIS,Slopestyle,2,91.10
-21,Kaku Yusei,Male,06-03-2022,Niseko,JPN,Japan,National Championships,Big Air,5,100.20
-22,Kaku Yusei,Male,05-03-2022,Niseko,JPN,Japan,National Championships,Slopestyle,4,117.30
-23,Kaku Yusei,Male,30-01-2022,Niseko,JPN,Japan,FIS,Slopestyle,11,34.80
-24,Kaku Yusei,Male,29-01-2022,Niseko,JPN,Japan,FIS,Slopestyle,4,76.90
-25,Kaku Yusei,Male,10-04-2021,Ajigasawa,JPN,Japan,National Championships,Big Air,5,60.03
-26,Kaku Yusei,Male,31-03-2021,Tsugaike,JPN,Japan,FIS,Big Air,11,14.41
-27,Kaku Yusei,Male,31-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,11,28.29
-28,Kaku Yusei,Male,30-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,13,24.28
-29,Kaku Yusei,Male,01-03-2020,Oze-Tokura,JPN,Japan,FIS,Big Air,14,12.60
-30,Kaku Yusei,Male,29-02-2020,Oze-Tokura,JPN,Japan,FIS,Slopestyle,16,13.50
-31,Kaku Yusei,Male,26-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,7,57.60
-32,Kaku Yusei,Male,25-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,23,12.80
-33,Kaku Yusei,Male,27-01-2019,Niseko,JPN,Japan,FIS,Slopestyle,17,12.60
-34,Kaku Yusei,Male,26-01-2019,Niseko,JPN,Japan,FIS,Slopestyle,21,9.00
+18,Kaku Yusei,Male,22-10-2022,Chur,SUI,Japan,Qualification,Big Air,10,
+19,Kaku Yusei,Male,02-09-2022,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,16,49.30
+20,Kaku Yusei,Male,02-04-2022,Tsugaike,JPN,Japan,FIS,Big Air,1,80.00
+21,Kaku Yusei,Male,30-03-2022,Hakuba,JPN,Japan,FIS,Slopestyle,2,91.10
+22,Kaku Yusei,Male,06-03-2022,Niseko,JPN,Japan,National Championships,Big Air,5,100.20
+23,Kaku Yusei,Male,05-03-2022,Niseko,JPN,Japan,National Championships,Slopestyle,4,117.30
+24,Kaku Yusei,Male,30-01-2022,Niseko,JPN,Japan,FIS,Slopestyle,11,34.80
+25,Kaku Yusei,Male,29-01-2022,Niseko,JPN,Japan,FIS,Slopestyle,4,76.90
+26,Kaku Yusei,Male,10-04-2021,Ajigasawa,JPN,Japan,National Championships,Big Air,5,60.03
+27,Kaku Yusei,Male,31-03-2021,Tsugaike,JPN,Japan,FIS,Big Air,11,14.41
+28,Kaku Yusei,Male,31-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,11,28.29
+29,Kaku Yusei,Male,30-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,13,24.28
+30,Kaku Yusei,Male,01-03-2020,Oze-Tokura,JPN,Japan,FIS,Big Air,14,12.60
+31,Kaku Yusei,Male,29-02-2020,Oze-Tokura,JPN,Japan,FIS,Slopestyle,16,13.50
+32,Kaku Yusei,Male,26-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,7,57.60
+33,Kaku Yusei,Male,25-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,23,12.80
+34,Kaku Yusei,Male,27-01-2019,Niseko,JPN,Japan,FIS,Slopestyle,17,12.60
+35,Kaku Yusei,Male,26-01-2019,Niseko,JPN,Japan,FIS,Slopestyle,21,9.00

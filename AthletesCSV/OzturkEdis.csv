@@ -1,85 +1,88 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Ozturk Edis,Male,26-01-2025,Bjelasnica/ Sarajevo,BIH,Bosnia And Herzegovina,FIS,Slopestyle,6,0.10
-1,Ozturk Edis,Male,25-01-2025,Bjelasnica/ Sarajevo,BIH,Bosnia And Herzegovina,FIS,Big Air,7,0.10
-2,Ozturk Edis,Male,07-01-2025,Bjelasnica/ Sarajevo,BIH,Bosnia And Herzegovina,FIS,Slopestyle,4,8.00
-3,Ozturk Edis,Male,06-01-2025,Bjelasnica/ Sarajevo,BIH,Bosnia And Herzegovina,FIS,Big Air,7,7.80
-4,Ozturk Edis,Male,13-02-2024,Bjelasnica / Sarajevo,BIH,Bosnia And Herzegovina,FIS,Slopestyle,2,39.00
-5,Ozturk Edis,Male,12-02-2024,Bjelasnica / Sarajevo,BIH,Bosnia And Herzegovina,FIS,Big Air,4,22.10
-6,Ozturk Edis,Male,11-02-2024,Bjelasnica / Sarajevo,BIH,Bosnia And Herzegovina,FIS,Slopestyle,3,29.90
-7,Ozturk Edis,Male,10-02-2024,Bjelasnica / Sarajevo,BIH,Bosnia And Herzegovina,FIS,Big Air,1,50.00
-8,Ozturk Edis,Male,26-02-2023,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,3,31.70
-9,Ozturk Edis,Male,25-02-2023,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,9,3.00
-10,Ozturk Edis,Male,24-02-2023,Platak,BIH,Bosnia And Herzegovina,FIS,Slopestyle,4,28.00
-11,Ozturk Edis,Male,23-02-2023,Platak,BIH,Bosnia And Herzegovina,FIS,Big Air,4,33.60
-12,Ozturk Edis,Male,22-02-2023,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,3,40.50
-13,Ozturk Edis,Male,21-02-2023,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,8,16.40
-14,Ozturk Edis,Male,31-01-2023,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,2,40.60
-15,Ozturk Edis,Male,30-01-2023,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,1,50.00
-16,Ozturk Edis,Male,29-01-2023,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,2,40.60
-17,Ozturk Edis,Male,28-01-2023,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,1,50.00
-18,Ozturk Edis,Male,20-03-2022,Kopaonik,SRB,Bosnia And Herzegovina,FIS,Big Air,3,32.20
-19,Ozturk Edis,Male,19-03-2022,Kopaonik,SRB,Bosnia And Herzegovina,FIS,Slopestyle,3,31.70
-20,Ozturk Edis,Male,22-02-2022,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,2,39.90
-21,Ozturk Edis,Male,21-02-2022,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,2,40.60
-22,Ozturk Edis,Male,20-02-2022,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,3,32.90
-23,Ozturk Edis,Male,19-02-2022,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,2,40.70
-24,Ozturk Edis,Male,23-01-2022,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,2,39.60
-25,Ozturk Edis,Male,22-01-2022,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,2,39.00
-26,Ozturk Edis,Male,29-12-2021,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,5,15.50
-27,Ozturk Edis,Male,28-12-2021,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,5,15.50
-28,Ozturk Edis,Male,21-03-2021,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,3,8.86
-29,Ozturk Edis,Male,20-03-2021,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,2,14.06
-30,Ozturk Edis,Male,01-02-2021,Bjelasnicaca,BIH,Bosnia And Herzegovina,FIS,Slopestyle,3,32.13
-31,Ozturk Edis,Male,31-01-2021,Bjelasnicaca,BIH,Bosnia And Herzegovina,FIS,Big Air,4,25.55
-32,Ozturk Edis,Male,30-01-2021,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,4,25.55
-33,Ozturk Edis,Male,29-01-2021,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,2,40.15
-34,Ozturk Edis,Male,27-01-2021,Platak,CRO,Bosnia And Herzegovina,FIS,Slopestyle,2,39.51
-35,Ozturk Edis,Male,26-01-2021,Platak,CRO,Bosnia And Herzegovina,FIS,Big Air,3,29.83
-36,Ozturk Edis,Male,25-01-2021,Platak,CRO,Bosnia And Herzegovina,FIS,Slopestyle,3,30.86
-37,Ozturk Edis,Male,24-01-2021,Platak,CRO,Bosnia And Herzegovina,FIS,Big Air,5,15.46
-38,Ozturk Edis,Male,03-03-2020,Bjelasnica/Sarajevo,BIH,Bosnia And Herzegovina,FIS,Big Air,2,40.00
-39,Ozturk Edis,Male,02-03-2020,Bjelasnica/Sarajevo,BIH,Bosnia And Herzegovina,FIS,Slopestyle,4,25.00
-40,Ozturk Edis,Male,01-03-2020,Bjelasnica/Sarajevo,BIH,Bosnia And Herzegovina,FIS,Big Air,3,30.00
-41,Ozturk Edis,Male,29-02-2020,Bjelasnica/Sarajevo,BIH,Bosnia And Herzegovina,FIS,Slopestyle,2,40.00
-42,Ozturk Edis,Male,20-02-2020,"Snow Arena, Druskininkai",LTU,Bosnia And Herzegovina,FIS,Big Air,11,16.80
-43,Ozturk Edis,Male,19-02-2020,"Snow Arena, Druskininkai",LTU,Bosnia And Herzegovina,FIS,Slopestyle,11,12.00
-44,Ozturk Edis,Male,26-03-2019,Kopaonik,SRB,Bosnia And Herzegovina,FIS,Slopestyle,14,9.00
-45,Ozturk Edis,Male,25-03-2019,Kopaonik,SRB,Bosnia And Herzegovina,FIS,Big Air,3,30.00
-46,Ozturk Edis,Male,24-03-2019,Kopaonik,SRB,Bosnia And Herzegovina,National Championships,Big Air,4,25.00
-47,Ozturk Edis,Male,23-03-2019,Kopaonik,SRB,Bosnia And Herzegovina,National Championships,Slopestyle,9,14.50
-48,Ozturk Edis,Male,22-03-2019,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,5,22.50
-49,Ozturk Edis,Male,21-03-2019,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,4,25.00
-50,Ozturk Edis,Male,20-03-2019,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,2,40.00
-51,Ozturk Edis,Male,19-03-2019,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,3,30.00
-52,Ozturk Edis,Male,21-02-2019,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,6,20.00
-53,Ozturk Edis,Male,20-02-2019,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,7,18.00
-54,Ozturk Edis,Male,03-02-2019,Sarajevo,BIH,Bosnia And Herzegovina,European Cup,Big Air,15,25.60
-55,Ozturk Edis,Male,03-02-2019,Sarajevo,BIH,Bosnia And Herzegovina,European Cup,Big Air,18,20.80
-56,Ozturk Edis,Male,29-03-2018,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,3,30.00
-57,Ozturk Edis,Male,28-03-2018,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,3,30.00
-58,Ozturk Edis,Male,02-03-2018,Mavrovo,MKD,Bosnia And Herzegovina,National Championships,Slopestyle,4,25.00
-59,Ozturk Edis,Male,01-03-2018,Mavrovo,MKD,Bosnia And Herzegovina,National Championships,Big Air,4,25.00
-60,Ozturk Edis,Male,25-02-2018,Kopaonik,SRB,Bosnia And Herzegovina,European Cup,Big Air,33,3.84
-61,Ozturk Edis,Male,23-02-2018,Kopaonik,SRB,Bosnia And Herzegovina,FIS,Big Air,9,31.90
-62,Ozturk Edis,Male,22-02-2018,Kopaonik,SRB,Bosnia And Herzegovina,FIS,Slopestyle,18,11.70
-63,Ozturk Edis,Male,18-02-2018,Sarajevo,BIH,Bosnia And Herzegovina,European Cup,Big Air,12,35.20
-64,Ozturk Edis,Male,17-02-2018,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,11,12.00
-65,Ozturk Edis,Male,27-12-2017,Platak,CRO,Bosnia And Herzegovina,FIS,Big Air,4,25.00
-66,Ozturk Edis,Male,26-12-2017,Platak,CRO,Bosnia And Herzegovina,FIS,Big Air,3,30.00
-67,Ozturk Edis,Male,06-04-2017,Kopaonik,SRB,Bosnia And Herzegovina,FIS,Big Air,4,25.00
-68,Ozturk Edis,Male,05-04-2017,Kopaonik,SRB,Bosnia And Herzegovina,FIS,Slopestyle,4,25.00
-69,Ozturk Edis,Male,19-03-2017,Kopaonik,SRB,Bosnia And Herzegovina,National Championships,Big Air,2,40.00
-70,Ozturk Edis,Male,18-03-2017,Kopaonik,SRB,Bosnia And Herzegovina,National Championships,Slopestyle,2,40.00
-71,Ozturk Edis,Male,05-03-2017,Kopaonik,SRB,Bosnia And Herzegovina,European Cup,Big Air,7,57.60
-72,Ozturk Edis,Male,04-03-2017,Kopaonik,SRB,Bosnia And Herzegovina,European Cup,Big Air,10,41.60
-73,Ozturk Edis,Male,12-02-2017,Sarajevo,BIH,Bosnia And Herzegovina,European Cup,Big Air,13,32.00
-74,Ozturk Edis,Male,11-02-2017,Sarajevo,BIH,Bosnia And Herzegovina,FIS,Slopestyle,17,9.80
-75,Ozturk Edis,Male,04-01-2017,Kopaonik,SRB,Bosnia And Herzegovina,FIS,Big Air,6,20.00
-76,Ozturk Edis,Male,03-01-2017,Kopaonik,SRB,Bosnia And Herzegovina,FIS,Slopestyle,5,22.50
-77,Ozturk Edis,Male,09-03-2016,Kopaonik,SRB,Bosnia And Herzegovina,European Cup,Big Air,30,6.40
-78,Ozturk Edis,Male,08-03-2016,Kopaonik,SRB,Bosnia And Herzegovina,European Cup,Slopestyle,32,5.20
-79,Ozturk Edis,Male,05-11-2015,Landgraaf,NED,Bosnia And Herzegovina,European Cup,Slopestyle,100,0.00
-80,Ozturk Edis,Male,04-11-2015,Landgraaf,NED,Bosnia And Herzegovina,European Cup,Slopestyle,99,0.00
-81,Ozturk Edis,Male,08-03-2015,Kopaonik,SRB,Bosnia And Herzegovina,European Cup,Slopestyle,14,36.00
-82,Ozturk Edis,Male,08-02-2015,Bjelasnica,BIH,Bosnia And Herzegovina,European Cup,Big Air,39,
-83,Ozturk Edis,Male,07-02-2015,Bjelasnica,BIH,Bosnia And Herzegovina,European Cup,Slopestyle,30,0.00
+0,Ozturk Edis,Male,02-03-2025,Bjelasnica/ Sarajevo,BIH,Bosnia And Herzegovina,FIS,Slopestyle,5,
+1,Ozturk Edis,Male,01-03-2025,Bjelasnica/ Sarajevo,BIH,Bosnia And Herzegovina,FIS,Big Air,10,4.40
+2,Ozturk Edis,Male,27-02-2025,Bjelalnica,CRO,Bosnia And Herzegovina,FIS,Big Air,10,
+3,Ozturk Edis,Male,26-01-2025,Bjelasnica/ Sarajevo,BIH,Bosnia And Herzegovina,FIS,Slopestyle,6,0.10
+4,Ozturk Edis,Male,25-01-2025,Bjelasnica/ Sarajevo,BIH,Bosnia And Herzegovina,FIS,Big Air,7,0.10
+5,Ozturk Edis,Male,07-01-2025,Bjelasnica/ Sarajevo,BIH,Bosnia And Herzegovina,FIS,Slopestyle,4,8.00
+6,Ozturk Edis,Male,06-01-2025,Bjelasnica/ Sarajevo,BIH,Bosnia And Herzegovina,FIS,Big Air,7,7.80
+7,Ozturk Edis,Male,13-02-2024,Bjelasnica / Sarajevo,BIH,Bosnia And Herzegovina,FIS,Slopestyle,2,39.00
+8,Ozturk Edis,Male,12-02-2024,Bjelasnica / Sarajevo,BIH,Bosnia And Herzegovina,FIS,Big Air,4,22.10
+9,Ozturk Edis,Male,11-02-2024,Bjelasnica / Sarajevo,BIH,Bosnia And Herzegovina,FIS,Slopestyle,3,29.90
+10,Ozturk Edis,Male,10-02-2024,Bjelasnica / Sarajevo,BIH,Bosnia And Herzegovina,FIS,Big Air,1,50.00
+11,Ozturk Edis,Male,26-02-2023,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,3,31.70
+12,Ozturk Edis,Male,25-02-2023,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,9,3.00
+13,Ozturk Edis,Male,24-02-2023,Platak,BIH,Bosnia And Herzegovina,FIS,Slopestyle,4,28.00
+14,Ozturk Edis,Male,23-02-2023,Platak,BIH,Bosnia And Herzegovina,FIS,Big Air,4,33.60
+15,Ozturk Edis,Male,22-02-2023,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,3,40.50
+16,Ozturk Edis,Male,21-02-2023,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,8,16.40
+17,Ozturk Edis,Male,31-01-2023,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,2,40.60
+18,Ozturk Edis,Male,30-01-2023,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,1,50.00
+19,Ozturk Edis,Male,29-01-2023,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,2,40.60
+20,Ozturk Edis,Male,28-01-2023,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,1,50.00
+21,Ozturk Edis,Male,20-03-2022,Kopaonik,SRB,Bosnia And Herzegovina,FIS,Big Air,3,32.20
+22,Ozturk Edis,Male,19-03-2022,Kopaonik,SRB,Bosnia And Herzegovina,FIS,Slopestyle,3,31.70
+23,Ozturk Edis,Male,22-02-2022,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,2,39.90
+24,Ozturk Edis,Male,21-02-2022,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,2,40.60
+25,Ozturk Edis,Male,20-02-2022,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,3,32.90
+26,Ozturk Edis,Male,19-02-2022,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,2,40.70
+27,Ozturk Edis,Male,23-01-2022,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,2,39.60
+28,Ozturk Edis,Male,22-01-2022,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,2,39.00
+29,Ozturk Edis,Male,29-12-2021,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,5,15.50
+30,Ozturk Edis,Male,28-12-2021,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,5,15.50
+31,Ozturk Edis,Male,21-03-2021,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,3,8.86
+32,Ozturk Edis,Male,20-03-2021,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,2,14.06
+33,Ozturk Edis,Male,01-02-2021,Bjelasnicaca,BIH,Bosnia And Herzegovina,FIS,Slopestyle,3,32.13
+34,Ozturk Edis,Male,31-01-2021,Bjelasnicaca,BIH,Bosnia And Herzegovina,FIS,Big Air,4,25.55
+35,Ozturk Edis,Male,30-01-2021,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,4,25.55
+36,Ozturk Edis,Male,29-01-2021,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,2,40.15
+37,Ozturk Edis,Male,27-01-2021,Platak,CRO,Bosnia And Herzegovina,FIS,Slopestyle,2,39.51
+38,Ozturk Edis,Male,26-01-2021,Platak,CRO,Bosnia And Herzegovina,FIS,Big Air,3,29.83
+39,Ozturk Edis,Male,25-01-2021,Platak,CRO,Bosnia And Herzegovina,FIS,Slopestyle,3,30.86
+40,Ozturk Edis,Male,24-01-2021,Platak,CRO,Bosnia And Herzegovina,FIS,Big Air,5,15.46
+41,Ozturk Edis,Male,03-03-2020,Bjelasnica/Sarajevo,BIH,Bosnia And Herzegovina,FIS,Big Air,2,40.00
+42,Ozturk Edis,Male,02-03-2020,Bjelasnica/Sarajevo,BIH,Bosnia And Herzegovina,FIS,Slopestyle,4,25.00
+43,Ozturk Edis,Male,01-03-2020,Bjelasnica/Sarajevo,BIH,Bosnia And Herzegovina,FIS,Big Air,3,30.00
+44,Ozturk Edis,Male,29-02-2020,Bjelasnica/Sarajevo,BIH,Bosnia And Herzegovina,FIS,Slopestyle,2,40.00
+45,Ozturk Edis,Male,20-02-2020,"Snow Arena, Druskininkai",LTU,Bosnia And Herzegovina,FIS,Big Air,11,16.80
+46,Ozturk Edis,Male,19-02-2020,"Snow Arena, Druskininkai",LTU,Bosnia And Herzegovina,FIS,Slopestyle,11,12.00
+47,Ozturk Edis,Male,26-03-2019,Kopaonik,SRB,Bosnia And Herzegovina,FIS,Slopestyle,14,9.00
+48,Ozturk Edis,Male,25-03-2019,Kopaonik,SRB,Bosnia And Herzegovina,FIS,Big Air,3,30.00
+49,Ozturk Edis,Male,24-03-2019,Kopaonik,SRB,Bosnia And Herzegovina,National Championships,Big Air,4,25.00
+50,Ozturk Edis,Male,23-03-2019,Kopaonik,SRB,Bosnia And Herzegovina,National Championships,Slopestyle,9,14.50
+51,Ozturk Edis,Male,22-03-2019,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,5,22.50
+52,Ozturk Edis,Male,21-03-2019,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,4,25.00
+53,Ozturk Edis,Male,20-03-2019,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,2,40.00
+54,Ozturk Edis,Male,19-03-2019,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,3,30.00
+55,Ozturk Edis,Male,21-02-2019,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,6,20.00
+56,Ozturk Edis,Male,20-02-2019,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,7,18.00
+57,Ozturk Edis,Male,03-02-2019,Sarajevo,BIH,Bosnia And Herzegovina,European Cup,Big Air,15,25.60
+58,Ozturk Edis,Male,03-02-2019,Sarajevo,BIH,Bosnia And Herzegovina,European Cup,Big Air,18,20.80
+59,Ozturk Edis,Male,29-03-2018,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Big Air,3,30.00
+60,Ozturk Edis,Male,28-03-2018,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,3,30.00
+61,Ozturk Edis,Male,02-03-2018,Mavrovo,MKD,Bosnia And Herzegovina,National Championships,Slopestyle,4,25.00
+62,Ozturk Edis,Male,01-03-2018,Mavrovo,MKD,Bosnia And Herzegovina,National Championships,Big Air,4,25.00
+63,Ozturk Edis,Male,25-02-2018,Kopaonik,SRB,Bosnia And Herzegovina,European Cup,Big Air,33,3.84
+64,Ozturk Edis,Male,23-02-2018,Kopaonik,SRB,Bosnia And Herzegovina,FIS,Big Air,9,31.90
+65,Ozturk Edis,Male,22-02-2018,Kopaonik,SRB,Bosnia And Herzegovina,FIS,Slopestyle,18,11.70
+66,Ozturk Edis,Male,18-02-2018,Sarajevo,BIH,Bosnia And Herzegovina,European Cup,Big Air,12,35.20
+67,Ozturk Edis,Male,17-02-2018,Bjelasnica,BIH,Bosnia And Herzegovina,FIS,Slopestyle,11,12.00
+68,Ozturk Edis,Male,27-12-2017,Platak,CRO,Bosnia And Herzegovina,FIS,Big Air,4,25.00
+69,Ozturk Edis,Male,26-12-2017,Platak,CRO,Bosnia And Herzegovina,FIS,Big Air,3,30.00
+70,Ozturk Edis,Male,06-04-2017,Kopaonik,SRB,Bosnia And Herzegovina,FIS,Big Air,4,25.00
+71,Ozturk Edis,Male,05-04-2017,Kopaonik,SRB,Bosnia And Herzegovina,FIS,Slopestyle,4,25.00
+72,Ozturk Edis,Male,19-03-2017,Kopaonik,SRB,Bosnia And Herzegovina,National Championships,Big Air,2,40.00
+73,Ozturk Edis,Male,18-03-2017,Kopaonik,SRB,Bosnia And Herzegovina,National Championships,Slopestyle,2,40.00
+74,Ozturk Edis,Male,05-03-2017,Kopaonik,SRB,Bosnia And Herzegovina,European Cup,Big Air,7,57.60
+75,Ozturk Edis,Male,04-03-2017,Kopaonik,SRB,Bosnia And Herzegovina,European Cup,Big Air,10,41.60
+76,Ozturk Edis,Male,12-02-2017,Sarajevo,BIH,Bosnia And Herzegovina,European Cup,Big Air,13,32.00
+77,Ozturk Edis,Male,11-02-2017,Sarajevo,BIH,Bosnia And Herzegovina,FIS,Slopestyle,17,9.80
+78,Ozturk Edis,Male,04-01-2017,Kopaonik,SRB,Bosnia And Herzegovina,FIS,Big Air,6,20.00
+79,Ozturk Edis,Male,03-01-2017,Kopaonik,SRB,Bosnia And Herzegovina,FIS,Slopestyle,5,22.50
+80,Ozturk Edis,Male,09-03-2016,Kopaonik,SRB,Bosnia And Herzegovina,European Cup,Big Air,30,6.40
+81,Ozturk Edis,Male,08-03-2016,Kopaonik,SRB,Bosnia And Herzegovina,European Cup,Slopestyle,32,5.20
+82,Ozturk Edis,Male,05-11-2015,Landgraaf,NED,Bosnia And Herzegovina,European Cup,Slopestyle,100,0.00
+83,Ozturk Edis,Male,04-11-2015,Landgraaf,NED,Bosnia And Herzegovina,European Cup,Slopestyle,99,0.00
+84,Ozturk Edis,Male,08-03-2015,Kopaonik,SRB,Bosnia And Herzegovina,European Cup,Slopestyle,14,36.00
+85,Ozturk Edis,Male,08-02-2015,Bjelasnica,BIH,Bosnia And Herzegovina,European Cup,Big Air,39,
+86,Ozturk Edis,Male,07-02-2015,Bjelasnica,BIH,Bosnia And Herzegovina,European Cup,Slopestyle,30,0.00

@@ -1,49 +1,50 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Shigeno Shuichiro,Male,21-02-2025,Calgary,CAN,Japan,World Cup,Halfpipe,8,267.50
-1,Shigeno Shuichiro,Male,19-02-2025,Calgary,CAN,Japan,Qualification,Halfpipe,4,
-2,Shigeno Shuichiro,Male,12-02-2025,Yabuli Ski Resort,CHN,Japan,Asian Winter Games,Halfpipe,9,48.80
-3,Shigeno Shuichiro,Male,01-02-2025,Aspen,USA,Japan,World Cup,Halfpipe,8,337.70
-4,Shigeno Shuichiro,Male,30-01-2025,Aspen,USA,Japan,Qualification,Halfpipe,4,
-5,Shigeno Shuichiro,Male,18-01-2025,Laax,SUI,Japan,World Cup,Halfpipe,5,503.30
-6,Shigeno Shuichiro,Male,17-01-2025,Laax,SUI,Japan,Qualification,Halfpipe,4,
-7,Shigeno Shuichiro,Male,20-12-2024,Copper,USA,Japan,World Cup,Halfpipe,6,434.50
-8,Shigeno Shuichiro,Male,18-12-2024,Copper,USA,Japan,Qualification,Halfpipe,5,
-9,Shigeno Shuichiro,Male,08-12-2024,Secret Garden,CHN,Japan,World Cup,Halfpipe,6,428.20
-10,Shigeno Shuichiro,Male,06-12-2024,Secret Garden,CHN,Japan,Qualification,Halfpipe,3,
-11,Shigeno Shuichiro,Male,17-03-2024,Spporo,JPN,Japan,National Championships,Halfpipe,3,220.80
-12,Shigeno Shuichiro,Male,10-03-2024,Sapporo,JPN,Japan,FIS,Halfpipe,2,181.20
-13,Shigeno Shuichiro,Male,10-02-2024,Calgary,CAN,Japan,World Cup,Halfpipe,3,687.10
-14,Shigeno Shuichiro,Male,09-02-2024,Calgary,CAN,Japan,Qualification,Halfpipe,4,
-15,Shigeno Shuichiro,Male,03-02-2024,Mammoth Mountain,USA,Japan,World Cup,Halfpipe,6,425.90
-16,Shigeno Shuichiro,Male,30-01-2024,Mammoth Mountain,USA,Japan,Qualification,Halfpipe,2,
-17,Shigeno Shuichiro,Male,20-01-2024,Laax,SUI,Japan,World Cup,Halfpipe,5,503.80
-18,Shigeno Shuichiro,Male,16-12-2023,Copper Mountain,USA,Japan,World Cup,Halfpipe,6,431.20
-19,Shigeno Shuichiro,Male,14-12-2023,Copper Mountain,USA,Japan,Qualification,Halfpipe,5,
-20,Shigeno Shuichiro,Male,08-12-2023,Secret Garden,CHN,Japan,World Cup,Halfpipe,5,487.40
-21,Shigeno Shuichiro,Male,06-12-2023,Secret Garden,CHN,Japan,Qualification,Halfpipe,4,
-22,Shigeno Shuichiro,Male,19-03-2023,Ajigasawa,JPN,Japan,National Championships,Halfpipe,3,221.40
-23,Shigeno Shuichiro,Male,03-03-2023,Bakuriani,GEO,Japan,World Championships,Halfpipe,10,220.50
-24,Shigeno Shuichiro,Male,01-03-2023,Bakuriani,GEO,Japan,Qualification,Halfpipe,9,
-25,Shigeno Shuichiro,Male,19-02-2023,Sapporo Bankei,JPN,Japan,FIS,Halfpipe,1,180.00
-26,Shigeno Shuichiro,Male,10-02-2023,Calgary,CAN,Japan,World Cup,Halfpipe,3,546.40
-27,Shigeno Shuichiro,Male,09-02-2023,Calgary,CAN,Japan,Qualification,Halfpipe,6,
-28,Shigeno Shuichiro,Male,04-02-2023,Mammoth Mountain,USA,Japan,World Cup,Halfpipe,9,219.50
-29,Shigeno Shuichiro,Male,02-02-2023,Mammoth Mountain,USA,Japan,Qualification,Halfpipe,5,
-30,Shigeno Shuichiro,Male,21-01-2023,Laax,SUI,Japan,World Cup,Halfpipe,8,315.40
-31,Shigeno Shuichiro,Male,19-01-2023,Laax,SUI,Japan,Qualification,Halfpipe,8,
-32,Shigeno Shuichiro,Male,16-12-2022,Copper Mountain,USA,Japan,World Cup,Halfpipe,19,148.70
-33,Shigeno Shuichiro,Male,14-12-2022,Copper Mountain,USA,Japan,Qualification,Halfpipe,8,
-34,Shigeno Shuichiro,Male,21-03-2022,Ajigasawa,JPN,Japan,National Championships,Halfpipe,4,187.10
-35,Shigeno Shuichiro,Male,08-03-2022,Leysin,SUI,Japan,FIS Junior World Championships,Halfpipe,2,197.30
-36,Shigeno Shuichiro,Male,20-02-2022,Sapporo Bankei,JPN,Japan,FIS,Halfpipe,4,62.90
-37,Shigeno Shuichiro,Male,14-04-2021,Sapporo,JPN,Japan,National Championships,Halfpipe,5,157.24
-38,Shigeno Shuichiro,Male,23-03-2021,Krasnoyarsk ,RUS,Japan,FIS Junior World Championships,Halfpipe,7,47.69
-39,Shigeno Shuichiro,Male,22-03-2021,Krasnoyarsk ,RUS,Japan,Qualification,Halfpipe,1,
-40,Shigeno Shuichiro,Male,14-03-2021,Sapporo Bankei,JPN,Japan,FIS,Halfpipe,2,57.68
-41,Shigeno Shuichiro,Male,23-01-2021,Laax,SUI,Japan,World Cup,Halfpipe,32,56.74
-42,Shigeno Shuichiro,Male,21-01-2021,Laax,SUI,Japan,Qualification,Halfpipe,15,
-43,Shigeno Shuichiro,Male,18-12-2019,"Copper Mountain, CO",USA,Japan,Nor-Am Cup,Halfpipe,5,72.00
-44,Shigeno Shuichiro,Male,17-12-2019,"Copper Mountain, CO",USA,Japan,Nor-Am Cup,Halfpipe,1,160.00
-45,Shigeno Shuichiro,Male,03-03-2019,Sapporo,JPN,Japan,FIS,Halfpipe,1,90.00
-46,Shigeno Shuichiro,Male,24-02-2019,Gujo,JPN,Japan,National Championships,Halfpipe,6,116.00
-47,Shigeno Shuichiro,Male,11-02-2019, Sapporo Bankei ,JPN,Japan,FIS,Halfpipe,2,72.00
+0,Shigeno Shuichiro,Male,02-03-2025,Gujo,JPN,Japan,National Championships,Halfpipe,3,221.50
+1,Shigeno Shuichiro,Male,21-02-2025,Calgary,CAN,Japan,World Cup,Halfpipe,8,267.50
+2,Shigeno Shuichiro,Male,19-02-2025,Calgary,CAN,Japan,Qualification,Halfpipe,4,
+3,Shigeno Shuichiro,Male,12-02-2025,Yabuli Ski Resort,CHN,Japan,Asian Winter Games,Halfpipe,9,48.80
+4,Shigeno Shuichiro,Male,01-02-2025,Aspen,USA,Japan,World Cup,Halfpipe,8,337.70
+5,Shigeno Shuichiro,Male,30-01-2025,Aspen,USA,Japan,Qualification,Halfpipe,4,
+6,Shigeno Shuichiro,Male,18-01-2025,Laax,SUI,Japan,World Cup,Halfpipe,5,503.30
+7,Shigeno Shuichiro,Male,17-01-2025,Laax,SUI,Japan,Qualification,Halfpipe,4,
+8,Shigeno Shuichiro,Male,20-12-2024,Copper,USA,Japan,World Cup,Halfpipe,6,434.50
+9,Shigeno Shuichiro,Male,18-12-2024,Copper,USA,Japan,Qualification,Halfpipe,5,
+10,Shigeno Shuichiro,Male,08-12-2024,Secret Garden,CHN,Japan,World Cup,Halfpipe,6,428.20
+11,Shigeno Shuichiro,Male,06-12-2024,Secret Garden,CHN,Japan,Qualification,Halfpipe,3,
+12,Shigeno Shuichiro,Male,17-03-2024,Spporo,JPN,Japan,National Championships,Halfpipe,3,220.80
+13,Shigeno Shuichiro,Male,10-03-2024,Sapporo,JPN,Japan,FIS,Halfpipe,2,181.20
+14,Shigeno Shuichiro,Male,10-02-2024,Calgary,CAN,Japan,World Cup,Halfpipe,3,687.10
+15,Shigeno Shuichiro,Male,09-02-2024,Calgary,CAN,Japan,Qualification,Halfpipe,4,
+16,Shigeno Shuichiro,Male,03-02-2024,Mammoth Mountain,USA,Japan,World Cup,Halfpipe,6,425.90
+17,Shigeno Shuichiro,Male,30-01-2024,Mammoth Mountain,USA,Japan,Qualification,Halfpipe,2,
+18,Shigeno Shuichiro,Male,20-01-2024,Laax,SUI,Japan,World Cup,Halfpipe,5,503.80
+19,Shigeno Shuichiro,Male,16-12-2023,Copper Mountain,USA,Japan,World Cup,Halfpipe,6,431.20
+20,Shigeno Shuichiro,Male,14-12-2023,Copper Mountain,USA,Japan,Qualification,Halfpipe,5,
+21,Shigeno Shuichiro,Male,08-12-2023,Secret Garden,CHN,Japan,World Cup,Halfpipe,5,487.40
+22,Shigeno Shuichiro,Male,06-12-2023,Secret Garden,CHN,Japan,Qualification,Halfpipe,4,
+23,Shigeno Shuichiro,Male,19-03-2023,Ajigasawa,JPN,Japan,National Championships,Halfpipe,3,221.40
+24,Shigeno Shuichiro,Male,03-03-2023,Bakuriani,GEO,Japan,World Championships,Halfpipe,10,220.50
+25,Shigeno Shuichiro,Male,01-03-2023,Bakuriani,GEO,Japan,Qualification,Halfpipe,9,
+26,Shigeno Shuichiro,Male,19-02-2023,Sapporo Bankei,JPN,Japan,FIS,Halfpipe,1,180.00
+27,Shigeno Shuichiro,Male,10-02-2023,Calgary,CAN,Japan,World Cup,Halfpipe,3,546.40
+28,Shigeno Shuichiro,Male,09-02-2023,Calgary,CAN,Japan,Qualification,Halfpipe,6,
+29,Shigeno Shuichiro,Male,04-02-2023,Mammoth Mountain,USA,Japan,World Cup,Halfpipe,9,219.50
+30,Shigeno Shuichiro,Male,02-02-2023,Mammoth Mountain,USA,Japan,Qualification,Halfpipe,5,
+31,Shigeno Shuichiro,Male,21-01-2023,Laax,SUI,Japan,World Cup,Halfpipe,8,315.40
+32,Shigeno Shuichiro,Male,19-01-2023,Laax,SUI,Japan,Qualification,Halfpipe,8,
+33,Shigeno Shuichiro,Male,16-12-2022,Copper Mountain,USA,Japan,World Cup,Halfpipe,19,148.70
+34,Shigeno Shuichiro,Male,14-12-2022,Copper Mountain,USA,Japan,Qualification,Halfpipe,8,
+35,Shigeno Shuichiro,Male,21-03-2022,Ajigasawa,JPN,Japan,National Championships,Halfpipe,4,187.10
+36,Shigeno Shuichiro,Male,08-03-2022,Leysin,SUI,Japan,FIS Junior World Championships,Halfpipe,2,197.30
+37,Shigeno Shuichiro,Male,20-02-2022,Sapporo Bankei,JPN,Japan,FIS,Halfpipe,4,62.90
+38,Shigeno Shuichiro,Male,14-04-2021,Sapporo,JPN,Japan,National Championships,Halfpipe,5,157.24
+39,Shigeno Shuichiro,Male,23-03-2021,Krasnoyarsk ,RUS,Japan,FIS Junior World Championships,Halfpipe,7,47.69
+40,Shigeno Shuichiro,Male,22-03-2021,Krasnoyarsk ,RUS,Japan,Qualification,Halfpipe,1,
+41,Shigeno Shuichiro,Male,14-03-2021,Sapporo Bankei,JPN,Japan,FIS,Halfpipe,2,57.68
+42,Shigeno Shuichiro,Male,23-01-2021,Laax,SUI,Japan,World Cup,Halfpipe,32,56.74
+43,Shigeno Shuichiro,Male,21-01-2021,Laax,SUI,Japan,Qualification,Halfpipe,15,
+44,Shigeno Shuichiro,Male,18-12-2019,"Copper Mountain, CO",USA,Japan,Nor-Am Cup,Halfpipe,5,72.00
+45,Shigeno Shuichiro,Male,17-12-2019,"Copper Mountain, CO",USA,Japan,Nor-Am Cup,Halfpipe,1,160.00
+46,Shigeno Shuichiro,Male,03-03-2019,Sapporo,JPN,Japan,FIS,Halfpipe,1,90.00
+47,Shigeno Shuichiro,Male,24-02-2019,Gujo,JPN,Japan,National Championships,Halfpipe,6,116.00
+48,Shigeno Shuichiro,Male,11-02-2019, Sapporo Bankei ,JPN,Japan,FIS,Halfpipe,2,72.00

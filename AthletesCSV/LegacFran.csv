@@ -1,42 +1,44 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Legac Fran,Male,24-02-2023,Platak,BIH,Croatia,FIS,Slopestyle,13,5.20
-1,Legac Fran,Male,23-02-2023,Platak,BIH,Croatia,FIS,Big Air,15,3.60
-2,Legac Fran,Male,22-02-2023,Bjelasnica,BIH,Croatia,FIS,Big Air,13,6.30
-3,Legac Fran,Male,21-02-2023,Bjelasnica,BIH,Croatia,FIS,Big Air,13,6.30
-4,Legac Fran,Male,12-03-2022,Platak,CRO,Croatia,FIS,Big Air,1,10.00
-5,Legac Fran,Male,22-02-2022,Bjelasnica,BIH,Croatia,FIS,Slopestyle,10,0.10
-6,Legac Fran,Male,21-02-2022,Bjelasnica,BIH,Croatia,FIS,Big Air,9,8.10
-7,Legac Fran,Male,20-02-2022,Bjelasnica,BIH,Croatia,FIS,Big Air,7,13.80
-8,Legac Fran,Male,19-02-2022,Bjelasnica,BIH,Croatia,FIS,Slopestyle,11,4.90
-9,Legac Fran,Male,23-12-2021,Platak,CRO,Croatia,FIS,Slopestyle,9,5.20
-10,Legac Fran,Male,22-12-2021,Platak,CRO,Croatia,FIS,Slopestyle,9,5.20
-11,Legac Fran,Male,01-02-2021,Bjelasnicaca,BIH,Croatia,FIS,Slopestyle,6,15.47
-12,Legac Fran,Male,31-01-2021,Bjelasnicaca,BIH,Croatia,FIS,Big Air,6,15.47
-13,Legac Fran,Male,30-01-2021,Bjelasnica,BIH,Croatia,FIS,Slopestyle,10,2.47
-14,Legac Fran,Male,29-01-2021,Bjelasnica,BIH,Croatia,FIS,Big Air,11,0.04
-15,Legac Fran,Male,27-01-2021,Platak,CRO,Croatia,FIS,Slopestyle,7,7.73
-16,Legac Fran,Male,26-01-2021,Platak,CRO,Croatia,FIS,Big Air,6,9.71
-17,Legac Fran,Male,25-01-2021,Platak,CRO,Croatia,FIS,Slopestyle,7,7.73
-18,Legac Fran,Male,24-01-2021,Platak,CRO,Croatia,FIS,Big Air,8,0.07
-19,Legac Fran,Male,13-03-2020,Platak,CRO,Croatia,FIS,Big Air,2,40.00
-20,Legac Fran,Male,02-03-2020,Kopaonik,SRB,Croatia,FIS,Slopestyle,9,14.50
-21,Legac Fran,Male,01-03-2020,Kopaonik,SRB,Croatia,FIS,Big Air,9,14.50
-22,Legac Fran,Male,29-02-2020,Kopaonik,SRB,Croatia,FIS,Slopestyle,11,12.00
-23,Legac Fran,Male,28-02-2020,Kopaonik,SRB,Croatia,FIS,Big Air,11,12.00
-24,Legac Fran,Male,28-02-2020,Kopaonik,SRB,Croatia,FIS,Giant Slalom,16,
-25,Legac Fran,Male,27-02-2020,Kopaonik,SRB,Croatia,FIS,Big Air,23,4.00
-26,Legac Fran,Male,26-02-2020,Kopaonik,SRB,Croatia,FIS,Slopestyle,19,6.00
-27,Legac Fran,Male,26-03-2019,Kopaonik,SRB,Croatia,FIS,Slopestyle,9,14.50
-28,Legac Fran,Male,25-03-2019,Kopaonik,SRB,Croatia,FIS,Big Air,12,11.00
-29,Legac Fran,Male,24-03-2019,Kopaonik,SRB,Croatia,National Championships,Big Air,12,11.00
-30,Legac Fran,Male,23-03-2019,Kopaonik,SRB,Croatia,National Championships,Slopestyle,14,9.00
-31,Legac Fran,Male,22-03-2019,Bjelasnica,BIH,Croatia,FIS,Big Air,7,18.00
-32,Legac Fran,Male,21-03-2019,Bjelasnica,BIH,Croatia,FIS,Slopestyle,6,20.00
-33,Legac Fran,Male,20-03-2019,Bjelasnica,BIH,Croatia,FIS,Slopestyle,6,20.00
-34,Legac Fran,Male,19-03-2019,Bjelasnica,BIH,Croatia,FIS,Big Air,6,20.00
-35,Legac Fran,Male,23-02-2018,Kopaonik,SRB,Croatia,FIS,Big Air,29,
-36,Legac Fran,Male,22-02-2018,Kopaonik,SRB,Croatia,FIS,Slopestyle,31,
-37,Legac Fran,Male,18-02-2018,Sarajevo,BIH,Croatia,European Cup,Big Air,21,16.00
-38,Legac Fran,Male,17-02-2018,Bjelasnica,BIH,Croatia,FIS,Slopestyle,23,4.00
-39,Legac Fran,Male,27-12-2017,Platak,CRO,Croatia,FIS,Big Air,7,18.00
-40,Legac Fran,Male,26-12-2017,Platak,CRO,Croatia,FIS,Big Air,6,20.00
+0,Legac Fran,Male,26-02-2025,Bjelalnica,CRO,Croatia,FIS,Slopestyle,10,2.50
+1,Legac Fran,Male,25-02-2025,Bjelalnica,CRO,Croatia,FIS,Big Air,11,0.10
+2,Legac Fran,Male,24-02-2023,Platak,BIH,Croatia,FIS,Slopestyle,13,5.20
+3,Legac Fran,Male,23-02-2023,Platak,BIH,Croatia,FIS,Big Air,15,3.60
+4,Legac Fran,Male,22-02-2023,Bjelasnica,BIH,Croatia,FIS,Big Air,13,6.30
+5,Legac Fran,Male,21-02-2023,Bjelasnica,BIH,Croatia,FIS,Big Air,13,6.30
+6,Legac Fran,Male,12-03-2022,Platak,CRO,Croatia,FIS,Big Air,1,10.00
+7,Legac Fran,Male,22-02-2022,Bjelasnica,BIH,Croatia,FIS,Slopestyle,10,0.10
+8,Legac Fran,Male,21-02-2022,Bjelasnica,BIH,Croatia,FIS,Big Air,9,8.10
+9,Legac Fran,Male,20-02-2022,Bjelasnica,BIH,Croatia,FIS,Big Air,7,13.80
+10,Legac Fran,Male,19-02-2022,Bjelasnica,BIH,Croatia,FIS,Slopestyle,11,4.90
+11,Legac Fran,Male,23-12-2021,Platak,CRO,Croatia,FIS,Slopestyle,9,5.20
+12,Legac Fran,Male,22-12-2021,Platak,CRO,Croatia,FIS,Slopestyle,9,5.20
+13,Legac Fran,Male,01-02-2021,Bjelasnicaca,BIH,Croatia,FIS,Slopestyle,6,15.47
+14,Legac Fran,Male,31-01-2021,Bjelasnicaca,BIH,Croatia,FIS,Big Air,6,15.47
+15,Legac Fran,Male,30-01-2021,Bjelasnica,BIH,Croatia,FIS,Slopestyle,10,2.47
+16,Legac Fran,Male,29-01-2021,Bjelasnica,BIH,Croatia,FIS,Big Air,11,0.04
+17,Legac Fran,Male,27-01-2021,Platak,CRO,Croatia,FIS,Slopestyle,7,7.73
+18,Legac Fran,Male,26-01-2021,Platak,CRO,Croatia,FIS,Big Air,6,9.71
+19,Legac Fran,Male,25-01-2021,Platak,CRO,Croatia,FIS,Slopestyle,7,7.73
+20,Legac Fran,Male,24-01-2021,Platak,CRO,Croatia,FIS,Big Air,8,0.07
+21,Legac Fran,Male,13-03-2020,Platak,CRO,Croatia,FIS,Big Air,2,40.00
+22,Legac Fran,Male,02-03-2020,Kopaonik,SRB,Croatia,FIS,Slopestyle,9,14.50
+23,Legac Fran,Male,01-03-2020,Kopaonik,SRB,Croatia,FIS,Big Air,9,14.50
+24,Legac Fran,Male,29-02-2020,Kopaonik,SRB,Croatia,FIS,Slopestyle,11,12.00
+25,Legac Fran,Male,28-02-2020,Kopaonik,SRB,Croatia,FIS,Giant Slalom,16,
+26,Legac Fran,Male,28-02-2020,Kopaonik,SRB,Croatia,FIS,Big Air,11,12.00
+27,Legac Fran,Male,27-02-2020,Kopaonik,SRB,Croatia,FIS,Big Air,23,4.00
+28,Legac Fran,Male,26-02-2020,Kopaonik,SRB,Croatia,FIS,Slopestyle,19,6.00
+29,Legac Fran,Male,26-03-2019,Kopaonik,SRB,Croatia,FIS,Slopestyle,9,14.50
+30,Legac Fran,Male,25-03-2019,Kopaonik,SRB,Croatia,FIS,Big Air,12,11.00
+31,Legac Fran,Male,24-03-2019,Kopaonik,SRB,Croatia,National Championships,Big Air,12,11.00
+32,Legac Fran,Male,23-03-2019,Kopaonik,SRB,Croatia,National Championships,Slopestyle,14,9.00
+33,Legac Fran,Male,22-03-2019,Bjelasnica,BIH,Croatia,FIS,Big Air,7,18.00
+34,Legac Fran,Male,21-03-2019,Bjelasnica,BIH,Croatia,FIS,Slopestyle,6,20.00
+35,Legac Fran,Male,20-03-2019,Bjelasnica,BIH,Croatia,FIS,Slopestyle,6,20.00
+36,Legac Fran,Male,19-03-2019,Bjelasnica,BIH,Croatia,FIS,Big Air,6,20.00
+37,Legac Fran,Male,23-02-2018,Kopaonik,SRB,Croatia,FIS,Big Air,29,
+38,Legac Fran,Male,22-02-2018,Kopaonik,SRB,Croatia,FIS,Slopestyle,31,
+39,Legac Fran,Male,18-02-2018,Sarajevo,BIH,Croatia,European Cup,Big Air,21,16.00
+40,Legac Fran,Male,17-02-2018,Bjelasnica,BIH,Croatia,FIS,Slopestyle,23,4.00
+41,Legac Fran,Male,27-12-2017,Platak,CRO,Croatia,FIS,Big Air,7,18.00
+42,Legac Fran,Male,26-12-2017,Platak,CRO,Croatia,FIS,Big Air,6,20.00

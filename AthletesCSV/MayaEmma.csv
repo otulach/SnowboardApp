@@ -1,96 +1,98 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Maya Emma,Female,09-02-2025,Simonhoehe,AUT,Czechia,National Championships,Parallel Slalom,10,75.40
-1,Maya Emma,Female,08-02-2025,Simonhoehe,AUT,Czechia,National Championships,Parallel Giant Slalom,18,37.70
-2,Maya Emma,Female,02-02-2025,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,DSQ,
-3,Maya Emma,Female,01-02-2025,Ratschings,ITA,Czechia,Qualification,Parallel Slalom,24,
-4,Maya Emma,Female,01-02-2025,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,24,25.20
-5,Maya Emma,Female,26-01-2025,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,44,6.23
-6,Maya Emma,Female,25-01-2025,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,22,21.60
-7,Maya Emma,Female,19-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,3,42.00
-8,Maya Emma,Female,18-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,2,56.00
-9,Maya Emma,Female,12-01-2025,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,11,33.60
-10,Maya Emma,Female,11-01-2025,Folgaria,ITA,Czechia,Qualification,Parallel Giant Slalom,20,
-11,Maya Emma,Female,11-01-2025,Folgaria,ITA,Czechia,European Cup,Parallel Giant Slalom,20,26.40
-12,Maya Emma,Female,10-01-2025,Folgaria,ITA,Czechia,Qualification,Parallel Giant Slalom,22,
-13,Maya Emma,Female,10-01-2025,Folgaria,ITA,Czechia,European Cup,Parallel Giant Slalom,22,21.60
-14,Maya Emma,Female,22-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,6,72.00
-15,Maya Emma,Female,21-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,7,57.60
-16,Maya Emma,Female,20-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,31,6.72
-17,Maya Emma,Female,19-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,29,8.64
-18,Maya Emma,Female,15-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,40,4.44
-19,Maya Emma,Female,14-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,34,4.84
-20,Maya Emma,Female,07-04-2024,Samnaun,SUI,Czechia,National Championships,Giant Slalom,12,63.80
-21,Maya Emma,Female,06-04-2024,Samnaun,SUI,Czechia,National Championships,Parallel Slalom,9,84.10
-22,Maya Emma,Female,30-03-2024,Krvavec,SLO,Czechia,National Championships,Parallel Giant Slalom,4,110.00
-23,Maya Emma,Female,24-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Slalom Team,27,
-24,Maya Emma,Female,23-03-2024,Lachtal,AUT,Czechia,Qualification,Parallel Slalom,18,
-25,Maya Emma,Female,23-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Slalom,18,31.20
-26,Maya Emma,Female,22-03-2024,Lachtal,AUT,Czechia,Qualification,Parallel Giant Slalom,29,
-27,Maya Emma,Female,22-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Giant Slalom,29,8.64
-28,Maya Emma,Female,17-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,2,72.00
-29,Maya Emma,Female,16-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,3,108.00
-30,Maya Emma,Female,10-03-2024,Senales - Schnals,ITA,Czechia,FIS,Parallel Slalom,8,35.20
-31,Maya Emma,Female,09-03-2024,Senales - Schnals,ITA,Czechia,FIS,Parallel Slalom,7,39.60
-32,Maya Emma,Female,24-02-2024,Alleghe,ITA,Czechia,Junior,Parallel Giant Slalom,8,44.80
-33,Maya Emma,Female,09-02-2024,Funes - Vilnoess,ITA,Czechia,National Championships,Parallel Slalom,27,13.05
-34,Maya Emma,Female,08-02-2024,Funes - Vilnoess,ITA,Czechia,National Championships,Parallel Giant Slalom,29,10.44
-35,Maya Emma,Female,04-02-2024,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,12,30.80
-36,Maya Emma,Female,03-02-2024,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,12,30.80
-37,Maya Emma,Female,28-01-2024,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,20,19.80
-38,Maya Emma,Female,27-01-2024,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,30,5.76
-39,Maya Emma,Female,14-01-2024,Gosau,AUT,Czechia,FIS,Parallel Slalom,5,54.00
-40,Maya Emma,Female,13-01-2024,Gosau,AUT,Czechia,FIS,Parallel Slalom,2,96.00
-41,Maya Emma,Female,07-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Giant Slalom,11,52.80
-42,Maya Emma,Female,06-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Slalom,5,99.00
-43,Maya Emma,Female,22-12-2023,Moninec,CZE,Czechia,Junior,Parallel Slalom,4,35.00
-44,Maya Emma,Female,21-12-2023,Moninec,CZE,Czechia,Junior,Parallel Slalom,4,55.00
-45,Maya Emma,Female,20-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,32,6.76
-46,Maya Emma,Female,19-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,37,5.04
-47,Maya Emma,Female,10-12-2023,Götschen,GER,Czechia,Junior,Parallel Slalom,16,24.00
-48,Maya Emma,Female,09-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,47,5.90
-49,Maya Emma,Female,09-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,47,
-50,Maya Emma,Female,08-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,49,5.69
-51,Maya Emma,Female,08-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,49,
-52,Maya Emma,Female,10-04-2023,Krvavec KD Zakon,SLO,Czechia,National Junior Championships,Parallel Giant Slalom,1,
-53,Maya Emma,Female,10-04-2023,Krvavec KD Zakon,SLO,Czechia,National Junior Championships,Slalom,1,
-54,Maya Emma,Female,10-04-2023,Krvavec KD Zakon,SLO,Czechia,National Championships,Parallel Giant Slalom,1,50.00
-55,Maya Emma,Female,10-04-2023,Krvavec KD Zakon,SLO,Czechia,National Championships,Slalom,1,
-56,Maya Emma,Female,28-03-2023,Bansko,BUL,Czechia,National Championships,Parallel Slalom,12,15.40
-57,Maya Emma,Female,27-03-2023,Bansko,BUL,Czechia,National Championships,Parallel Giant Slalom,7,39.60
-58,Maya Emma,Female,25-03-2023,Bansko,BUL,Czechia,FIS Junior World Championships,Parallel Slalom,27,16.20
-59,Maya Emma,Female,25-03-2023,Bansko,BUL,Czechia,Qualification,Parallel Slalom,27,
-60,Maya Emma,Female,24-03-2023,Bansko,BUL,Czechia,Qualification,Parallel Giant Slalom,27,
-61,Maya Emma,Female,24-03-2023,Bansko,BUL,Czechia,FIS Junior World Championships,Parallel Giant Slalom,27,16.20
-62,Maya Emma,Female,19-03-2023,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,33,6.24
-63,Maya Emma,Female,18-03-2023,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,38,
-64,Maya Emma,Female,12-03-2023,ORTISEI,ITA,Czechia,FIS,Giant Slalom,12,22.00
-65,Maya Emma,Female,11-03-2023,ORTISEI,ITA,Czechia,FIS,Giant Slalom,8,32.00
-66,Maya Emma,Female,05-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,4,65.00
-67,Maya Emma,Female,04-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,8,41.60
-68,Maya Emma,Female,03-03-2023,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Giant Slalom,5,58.50
-69,Maya Emma,Female,27-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,2,40.00
-70,Maya Emma,Female,26-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,2,40.00
-71,Maya Emma,Female,25-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,2,40.00
-72,Maya Emma,Female,29-01-2023,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,39,
-73,Maya Emma,Female,29-01-2023,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,39,
-74,Maya Emma,Female,28-01-2023,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,40,
-75,Maya Emma,Female,28-01-2023,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,40,4.44
-76,Maya Emma,Female,08-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Giant Slalom,14,21.60
-77,Maya Emma,Female,07-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,11,31.20
-78,Maya Emma,Female,04-01-2023,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,17,40.60
-79,Maya Emma,Female,09-03-2022,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Slalom,18,37.70
-80,Maya Emma,Female,08-03-2022,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,20,31.90
-81,Maya Emma,Female,20-02-2022,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,9,29.00
-82,Maya Emma,Female,19-02-2022,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,9,29.00
-83,Maya Emma,Female,06-02-2022,Ebensee,AUT,Czechia,FIS,Parallel Slalom,9,14.50
-84,Maya Emma,Female,05-02-2022,Ebensee,AUT,Czechia,FIS,Parallel Slalom,9,14.50
-85,Maya Emma,Female,16-01-2022,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,6,20.00
-86,Maya Emma,Female,15-01-2022,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,10,23.40
-87,Maya Emma,Female,09-01-2022,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,22,11.70
-88,Maya Emma,Female,08-01-2022,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,21,13.00
-89,Maya Emma,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Czechia,Junior,Parallel Slalom,7,18.00
-90,Maya Emma,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Czechia,Junior,Slalom,5,22.50
-91,Maya Emma,Female,21-12-2021,Moninec,CZE,Czechia,FIS,Parallel Slalom,36,3.55
-92,Maya Emma,Female,20-12-2021,Moninec,CZE,Czechia,FIS,Parallel Slalom,31,5.04
-93,Maya Emma,Female,19-12-2021,Moninec,CZE,Czechia,European Cup,Parallel Slalom,40,
-94,Maya Emma,Female,18-12-2021,Moninec,CZE,Czechia,European Cup,Parallel Slalom,40,
+0,Maya Emma,Female,02-03-2025,Spindleruv Mlyn - Stoh,CZE,Czechia,National Championships,Parallel Slalom,3,
+1,Maya Emma,Female,01-03-2025,Spindleruv Mlyn - Stoh,CZE,Czechia,National Championships,Parallel Giant Slalom,3,
+2,Maya Emma,Female,09-02-2025,Simonhoehe,AUT,Czechia,National Championships,Parallel Slalom,10,75.40
+3,Maya Emma,Female,08-02-2025,Simonhoehe,AUT,Czechia,National Championships,Parallel Giant Slalom,18,37.70
+4,Maya Emma,Female,02-02-2025,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,DSQ,
+5,Maya Emma,Female,01-02-2025,Ratschings,ITA,Czechia,Qualification,Parallel Slalom,24,
+6,Maya Emma,Female,01-02-2025,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,24,25.20
+7,Maya Emma,Female,26-01-2025,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,44,6.23
+8,Maya Emma,Female,25-01-2025,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,22,21.60
+9,Maya Emma,Female,19-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,3,42.00
+10,Maya Emma,Female,18-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,2,56.00
+11,Maya Emma,Female,12-01-2025,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,11,33.60
+12,Maya Emma,Female,11-01-2025,Folgaria,ITA,Czechia,European Cup,Parallel Giant Slalom,20,26.40
+13,Maya Emma,Female,11-01-2025,Folgaria,ITA,Czechia,Qualification,Parallel Giant Slalom,20,
+14,Maya Emma,Female,10-01-2025,Folgaria,ITA,Czechia,Qualification,Parallel Giant Slalom,22,
+15,Maya Emma,Female,10-01-2025,Folgaria,ITA,Czechia,European Cup,Parallel Giant Slalom,22,21.60
+16,Maya Emma,Female,22-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,6,72.00
+17,Maya Emma,Female,21-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,7,57.60
+18,Maya Emma,Female,20-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,31,6.72
+19,Maya Emma,Female,19-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,29,8.64
+20,Maya Emma,Female,15-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,40,4.44
+21,Maya Emma,Female,14-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,34,4.84
+22,Maya Emma,Female,07-04-2024,Samnaun,SUI,Czechia,National Championships,Giant Slalom,12,63.80
+23,Maya Emma,Female,06-04-2024,Samnaun,SUI,Czechia,National Championships,Parallel Slalom,9,84.10
+24,Maya Emma,Female,30-03-2024,Krvavec,SLO,Czechia,National Championships,Parallel Giant Slalom,4,110.00
+25,Maya Emma,Female,24-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Slalom Team,27,
+26,Maya Emma,Female,23-03-2024,Lachtal,AUT,Czechia,Qualification,Parallel Slalom,18,
+27,Maya Emma,Female,23-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Slalom,18,31.20
+28,Maya Emma,Female,22-03-2024,Lachtal,AUT,Czechia,Qualification,Parallel Giant Slalom,29,
+29,Maya Emma,Female,22-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Giant Slalom,29,8.64
+30,Maya Emma,Female,17-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,2,72.00
+31,Maya Emma,Female,16-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,3,108.00
+32,Maya Emma,Female,10-03-2024,Senales - Schnals,ITA,Czechia,FIS,Parallel Slalom,8,35.20
+33,Maya Emma,Female,09-03-2024,Senales - Schnals,ITA,Czechia,FIS,Parallel Slalom,7,39.60
+34,Maya Emma,Female,24-02-2024,Alleghe,ITA,Czechia,Junior,Parallel Giant Slalom,8,44.80
+35,Maya Emma,Female,09-02-2024,Funes - Vilnoess,ITA,Czechia,National Championships,Parallel Slalom,27,13.05
+36,Maya Emma,Female,08-02-2024,Funes - Vilnoess,ITA,Czechia,National Championships,Parallel Giant Slalom,29,10.44
+37,Maya Emma,Female,04-02-2024,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,12,30.80
+38,Maya Emma,Female,03-02-2024,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,12,30.80
+39,Maya Emma,Female,28-01-2024,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,20,19.80
+40,Maya Emma,Female,27-01-2024,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,30,5.76
+41,Maya Emma,Female,14-01-2024,Gosau,AUT,Czechia,FIS,Parallel Slalom,5,54.00
+42,Maya Emma,Female,13-01-2024,Gosau,AUT,Czechia,FIS,Parallel Slalom,2,96.00
+43,Maya Emma,Female,07-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Giant Slalom,11,52.80
+44,Maya Emma,Female,06-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Slalom,5,99.00
+45,Maya Emma,Female,22-12-2023,Moninec,CZE,Czechia,Junior,Parallel Slalom,4,35.00
+46,Maya Emma,Female,21-12-2023,Moninec,CZE,Czechia,Junior,Parallel Slalom,4,55.00
+47,Maya Emma,Female,20-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,32,6.76
+48,Maya Emma,Female,19-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,37,5.04
+49,Maya Emma,Female,10-12-2023,Götschen,GER,Czechia,Junior,Parallel Slalom,16,24.00
+50,Maya Emma,Female,09-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,47,5.90
+51,Maya Emma,Female,09-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,47,
+52,Maya Emma,Female,08-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,49,5.69
+53,Maya Emma,Female,08-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,49,
+54,Maya Emma,Female,10-04-2023,Krvavec KD Zakon,SLO,Czechia,National Junior Championships,Parallel Giant Slalom,1,
+55,Maya Emma,Female,10-04-2023,Krvavec KD Zakon,SLO,Czechia,National Junior Championships,Slalom,1,
+56,Maya Emma,Female,10-04-2023,Krvavec KD Zakon,SLO,Czechia,National Championships,Parallel Giant Slalom,1,50.00
+57,Maya Emma,Female,10-04-2023,Krvavec KD Zakon,SLO,Czechia,National Championships,Slalom,1,
+58,Maya Emma,Female,28-03-2023,Bansko,BUL,Czechia,National Championships,Parallel Slalom,12,15.40
+59,Maya Emma,Female,27-03-2023,Bansko,BUL,Czechia,National Championships,Parallel Giant Slalom,7,39.60
+60,Maya Emma,Female,25-03-2023,Bansko,BUL,Czechia,Qualification,Parallel Slalom,27,
+61,Maya Emma,Female,25-03-2023,Bansko,BUL,Czechia,FIS Junior World Championships,Parallel Slalom,27,16.20
+62,Maya Emma,Female,24-03-2023,Bansko,BUL,Czechia,Qualification,Parallel Giant Slalom,27,
+63,Maya Emma,Female,24-03-2023,Bansko,BUL,Czechia,FIS Junior World Championships,Parallel Giant Slalom,27,16.20
+64,Maya Emma,Female,19-03-2023,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,33,6.24
+65,Maya Emma,Female,18-03-2023,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,38,
+66,Maya Emma,Female,12-03-2023,ORTISEI,ITA,Czechia,FIS,Giant Slalom,12,22.00
+67,Maya Emma,Female,11-03-2023,ORTISEI,ITA,Czechia,FIS,Giant Slalom,8,32.00
+68,Maya Emma,Female,05-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,4,65.00
+69,Maya Emma,Female,04-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,8,41.60
+70,Maya Emma,Female,03-03-2023,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Giant Slalom,5,58.50
+71,Maya Emma,Female,27-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,2,40.00
+72,Maya Emma,Female,26-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,2,40.00
+73,Maya Emma,Female,25-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,2,40.00
+74,Maya Emma,Female,29-01-2023,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,39,
+75,Maya Emma,Female,29-01-2023,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,39,
+76,Maya Emma,Female,28-01-2023,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,40,4.44
+77,Maya Emma,Female,28-01-2023,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,40,
+78,Maya Emma,Female,08-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Giant Slalom,14,21.60
+79,Maya Emma,Female,07-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,11,31.20
+80,Maya Emma,Female,04-01-2023,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,17,40.60
+81,Maya Emma,Female,09-03-2022,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Slalom,18,37.70
+82,Maya Emma,Female,08-03-2022,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,20,31.90
+83,Maya Emma,Female,20-02-2022,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,9,29.00
+84,Maya Emma,Female,19-02-2022,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,9,29.00
+85,Maya Emma,Female,06-02-2022,Ebensee,AUT,Czechia,FIS,Parallel Slalom,9,14.50
+86,Maya Emma,Female,05-02-2022,Ebensee,AUT,Czechia,FIS,Parallel Slalom,9,14.50
+87,Maya Emma,Female,16-01-2022,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,6,20.00
+88,Maya Emma,Female,15-01-2022,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,10,23.40
+89,Maya Emma,Female,09-01-2022,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,22,11.70
+90,Maya Emma,Female,08-01-2022,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,21,13.00
+91,Maya Emma,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Czechia,Junior,Parallel Slalom,7,18.00
+92,Maya Emma,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Czechia,Junior,Slalom,5,22.50
+93,Maya Emma,Female,21-12-2021,Moninec,CZE,Czechia,FIS,Parallel Slalom,36,3.55
+94,Maya Emma,Female,20-12-2021,Moninec,CZE,Czechia,FIS,Parallel Slalom,31,5.04
+95,Maya Emma,Female,19-12-2021,Moninec,CZE,Czechia,European Cup,Parallel Slalom,40,
+96,Maya Emma,Female,18-12-2021,Moninec,CZE,Czechia,European Cup,Parallel Slalom,40,

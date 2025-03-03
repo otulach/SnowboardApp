@@ -1,113 +1,116 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Tomas Julien,Male,15-02-2025,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,17,
-1,Tomas Julien,Male,15-02-2025,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,22,90.00
-2,Tomas Julien,Male,02-02-2025,Beidahu,CHN,France,World Cup,Snowboard Cross,7,360.00
-3,Tomas Julien,Male,02-02-2025,Beidahu,CHN,France,Qualification,Snowboard Cross,10,
-4,Tomas Julien,Male,01-02-2025,Beidahu,CHN,France,World Cup,Snowboard Cross,9,290.00
-5,Tomas Julien,Male,31-01-2025,Beidahu,CHN,France,Qualification,Snowboard Cross,5,
-6,Tomas Julien,Male,14-12-2024,Cervinia,ITA,France,World Cup,Snowboard Cross,13,200.00
-7,Tomas Julien,Male,13-12-2024,Cervinia,ITA,France,Qualification,Snowboard Cross,4,
-8,Tomas Julien,Male,27-11-2024,Pitztal,AUT,France,European Cup,Snowboard Cross,6,144.00
-9,Tomas Julien,Male,27-11-2024,Pitztal,AUT,France,Qualification,Snowboard Cross,10,
-10,Tomas Julien,Male,03-10-2024,Corralco,CHI,France,South American Cup,Snowboard Cross,8,115.20
-11,Tomas Julien,Male,03-10-2024,Corralco,CHI,France,South American Cup,Snowboard Cross,2,288.00
-12,Tomas Julien,Male,07-04-2024,Gudauri,GEO,France,FIS Junior World Championships,Snowboard Cross Team,1,
-13,Tomas Julien,Male,06-04-2024,Gudauri,GEO,France,FIS Junior World Championships,Snowboard Cross,2,288.00
-14,Tomas Julien,Male,05-04-2024,Gudauri,GEO,France,Qualification,Snowboard Cross,2,
-15,Tomas Julien,Male,30-03-2024,Orcieres Merlette,FRA,France,National Championships,Snowboard Cross,4,145.00
-16,Tomas Julien,Male,24-03-2024,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,10,260.00
-17,Tomas Julien,Male,23-03-2024,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,15,160.00
-18,Tomas Julien,Male,22-03-2024,Mt. St. Anne,CAN,France,Qualification,Snowboard Cross,20,
-19,Tomas Julien,Male,17-03-2024,Montafon,AUT,France,World Cup,Snowboard Cross,15,160.00
-20,Tomas Julien,Male,16-03-2024,Montafon,AUT,France,World Cup,Snowboard Cross,4,500.00
-21,Tomas Julien,Male,15-03-2024,Montafon,AUT,France,Qualification,Snowboard Cross,14,
-22,Tomas Julien,Male,09-03-2024,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,4,500.00
-23,Tomas Julien,Male,08-03-2024,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,10,
-24,Tomas Julien,Male,03-03-2024,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,16,150.00
-25,Tomas Julien,Male,02-03-2024,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,11,240.00
-26,Tomas Julien,Male,01-03-2024,Sierra Nevada,ESP,France,Qualification,Snowboard Cross,11,
-27,Tomas Julien,Male,24-02-2024,Grasgehren,GER,France,European Cup,Snowboard Cross,4,160.00
-28,Tomas Julien,Male,17-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,28,9.60
-29,Tomas Julien,Male,16-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,2,192.00
-30,Tomas Julien,Male,04-02-2024,Gudauri,GEO,France,World Cup,Snowboard Cross,21,100.00
-31,Tomas Julien,Male,03-02-2024,Gudauri,GEO,France,World Cup,Snowboard Cross,8,320.00
-32,Tomas Julien,Male,02-02-2024,Gudauri,GEO,France,Qualification,Snowboard Cross,22,
-33,Tomas Julien,Male,26-01-2024,St. Moritz,SUI,France,World Cup,Snowboard Cross,24,70.00
-34,Tomas Julien,Male,25-01-2024,St. Moritz,SUI,France,Qualification,Snowboard Cross,32,
-35,Tomas Julien,Male,20-01-2024,Montafon,AUT,France,National Championships,Snowboard Cross,11,69.60
-36,Tomas Julien,Male,04-01-2024,Font Romeu,FRA,France,European Cup Premium,Slopestyle,57,9.20
-37,Tomas Julien,Male,16-12-2023,Cervinia,ITA,France,World Cup,Snowboard Cross,12,220.00
-38,Tomas Julien,Male,03-12-2023,Les Deux Alpes,FRA,France,Qualification,Snowboard Cross,13,
-39,Tomas Julien,Male,03-12-2023,Les Deux Alpes,FRA,France,World Cup,Snowboard Cross,18,130.00
-40,Tomas Julien,Male,08-04-2023,Chamonix,FRA,France,National Championships,Snowboard Cross,3,174.00
-41,Tomas Julien,Male,31-03-2023,Passo San Pellegrino,ITA,France,FIS Junior World Championships,Snowboard Cross Team,5,
-42,Tomas Julien,Male,30-03-2023,Passo San Pellegrino,ITA,France,FIS Junior World Championships,Snowboard Cross,9,92.80
-43,Tomas Julien,Male,23-03-2023,Gargellen,AUT,France,European Cup,Snowboard Cross,6,96.00
-44,Tomas Julien,Male,22-03-2023,Gargellen,AUT,France,European Cup,Snowboard Cross,6,104.00
-45,Tomas Julien,Male,16-03-2023,Veysonnaz,SUI,France,World Cup,Snowboard Cross,35,20.00
-46,Tomas Julien,Male,15-03-2023,Veysonnaz,SUI,France,Qualification,Snowboard Cross,35,
-47,Tomas Julien,Male,16-02-2023,Moena - Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,25,17.40
-48,Tomas Julien,Male,15-02-2023,Moena - Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,3,174.00
-49,Tomas Julien,Male,04-02-2023,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,15,160.00
-50,Tomas Julien,Male,03-02-2023,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,28,
-51,Tomas Julien,Male,22-01-2023,Puy St.Vincent,FRA,France,European Cup,Snowboard Cross,17,33.60
-52,Tomas Julien,Male,21-01-2023,Puy St.Vincent,FRA,France,European Cup,Snowboard Cross,9,69.60
-53,Tomas Julien,Male,15-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,25,21.60
-54,Tomas Julien,Male,14-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,15,57.60
-55,Tomas Julien,Male,08-01-2023,Isola 2000,FRA,France,Junior,Snowboard Cross,2,96.00
-56,Tomas Julien,Male,07-01-2023,Isola 2000,FRA,France,European Cup,Snowboard Cross,5,108.00
-57,Tomas Julien,Male,06-01-2023,Isola 2000,FRA,France,European Cup,Snowboard Cross,3,144.00
-58,Tomas Julien,Male,17-12-2022,Cervinia,ITA,France,World Cup,Snowboard Cross,33,24.00
-59,Tomas Julien,Male,16-12-2022,Cervinia,ITA,France,World Cup,Snowboard Cross,40,18.50
-60,Tomas Julien,Male,15-12-2022,Cervinia,ITA,France,Qualification,Snowboard Cross,40,
-61,Tomas Julien,Male,04-12-2022,Les Deux Alpes,FRA,France,World Cup,Snowboard Cross,37,19.40
-62,Tomas Julien,Male,02-12-2022,Les Deux Alpes,FRA,France,Qualification,Snowboard Cross,37,
-63,Tomas Julien,Male,24-11-2022,Pitztal,AUT,France,European Cup,Snowboard Cross,33,5.76
-64,Tomas Julien,Male,23-11-2022,Pitztal,AUT,France,Qualification,Snowboard Cross,33,
-65,Tomas Julien,Male,08-04-2022,Isola 2000,FRA,France,National Championships,Snowboard Cross,8,92.80
-66,Tomas Julien,Male,31-03-2022,Veysonnaz,SUI,France,FIS Junior World Championships,Snowboard Cross,17,36.40
-67,Tomas Julien,Male,26-03-2022,Lenk,SUI,France,European Cup,Snowboard Cross,31,10.08
-68,Tomas Julien,Male,25-03-2022,Lenk,SUI,France,European Cup,Snowboard Cross,21,36.00
-69,Tomas Julien,Male,06-02-2022,Dolni Morava,CZE,France,FIS,Snowboard Cross,8,38.40
-70,Tomas Julien,Male,05-02-2022,Dolni Morava,CZE,France,FIS,Snowboard Cross,5,63.00
-71,Tomas Julien,Male,03-02-2022,Dolni Morava,CZE,France,European Cup,Snowboard Cross,16,39.00
-72,Tomas Julien,Male,02-02-2022,Dolni Morava,CZE,France,European Cup,Snowboard Cross,33,5.76
-73,Tomas Julien,Male,18-12-2021,Cervinia,ITA,France,World Cup,Snowboard Cross,56,13.70
-74,Tomas Julien,Male,17-12-2021,Cervinia,ITA,France,Qualification,Snowboard Cross,56,
-75,Tomas Julien,Male,14-12-2021,Reiteralm,AUT,France,FIS,Snowboard Cross,9,63.80
-76,Tomas Julien,Male,13-12-2021,Reiteralm,AUT,France,FIS,Snowboard Cross,19,26.40
-77,Tomas Julien,Male,10-12-2021,Montafon,AUT,France,World Cup,Snowboard Cross,58,
-78,Tomas Julien,Male,09-12-2021,Montafon,AUT,France,Qualification,Snowboard Cross,58,
-79,Tomas Julien,Male,31-10-2021,Les 2 Alpes,FRA,France,FIS,Snowboard Cross,9,46.40
-80,Tomas Julien,Male,30-10-2021,Les 2 Alpes,FRA,France,FIS,Snowboard Cross,3,132.00
-81,Tomas Julien,Male,12-03-2021,Lenk,SUI,France,European Cup,Snowboard Cross,38,4.58
-82,Tomas Julien,Male,07-03-2021,Montafon/Gargellen,AUT,France,European Cup,Snowboard Cross,17,25.20
-83,Tomas Julien,Male,06-03-2021,Montafon/Gargellen,AUT,France,European Cup,Snowboard Cross,39,3.38
-84,Tomas Julien,Male,28-02-2021,Reiteralm,AUT,France,European Cup,Snowboard Cross,4,90.00
-85,Tomas Julien,Male,27-02-2021,Reiteralm,AUT,France,European Cup,Snowboard Cross,DNF,
-86,Tomas Julien,Male,18-02-2021,Reiteralm,AUT,France,World Cup,Snowboard Cross,63,
-87,Tomas Julien,Male,16-02-2021,Reiteralm,AUT,France,Qualification,Snowboard Cross,63,
-88,Tomas Julien,Male,13-02-2021,Chiesa in Valmalenco,ITA,France,European Cup,Snowboard Cross,25,15.60
-89,Tomas Julien,Male,12-02-2021,Chiesa in Valmalenco,ITA,France,European Cup,Snowboard Cross,20,28.60
-90,Tomas Julien,Male,03-02-2021,Isola 2000,FRA,France,European Cup,Snowboard Cross,17,22.40
-91,Tomas Julien,Male,31-01-2021,Isola 2000,FRA,France,European Cup,Snowboard Cross,17,36.40
-92,Tomas Julien,Male,30-01-2021,Isola 2000,FRA,France,European Cup,Snowboard Cross,7,129.60
-93,Tomas Julien,Male,28-01-2021,Isola 2000,FRA,France,Junior,Snowboard Cross,6,28.00
-94,Tomas Julien,Male,27-01-2021,Isola 2000,FRA,France,Junior,Snowboard Cross,3,42.00
-95,Tomas Julien,Male,16-01-2021,Crans-Montana,SUI,France,FIS,Snowboard Cross,17,30.80
-96,Tomas Julien,Male,08-03-2020,Kuehtai,AUT,France,Junior,Snowboard Cross,2,104.00
-97,Tomas Julien,Male,07-03-2020,Kuehtai,AUT,France,Junior,Snowboard Cross,8,41.60
-98,Tomas Julien,Male,23-02-2020,Folgaria,ITA,France,Junior,Snowboard Cross,6,28.00
-99,Tomas Julien,Male,22-02-2020,Folgaria,ITA,France,Junior,Snowboard Cross,6,28.00
-100,Tomas Julien,Male,16-02-2020,Flumserberg,SUI,France,FIS,Snowboard Cross,28,8.00
-101,Tomas Julien,Male,15-02-2020,Flumserberg,SUI,France,FIS,Snowboard Cross,34,3.30
-102,Tomas Julien,Male,26-01-2020,Grasgehren,GER,France,Junior,Snowboard Cross,58,1.57
-103,Tomas Julien,Male,25-01-2020,Grasgehren,GER,France,Junior,Snowboard Cross,10,31.20
-104,Tomas Julien,Male,12-01-2020,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,29,11.52
-105,Tomas Julien,Male,11-01-2020,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,30,10.24
-106,Tomas Julien,Male,20-12-2019,Isola 2000,FRA,France,Junior,Snowboard Cross,7,18.00
-107,Tomas Julien,Male,19-12-2019,Isola 2000,FRA,France,Junior,Snowboard Cross,8,22.40
-108,Tomas Julien,Male,01-12-2019,Pitztal,AUT,France,Junior,Snowboard Cross,44,2.42
-109,Tomas Julien,Male,30-11-2019,Pitztal,AUT,France,Junior,Snowboard Cross,3,84.00
-110,Tomas Julien,Male,24-01-2018,Vars,FRA,France,European Cup,Big Air,47,2.62
-111,Tomas Julien,Male,23-01-2018,Vars,FRA,France,European Cup,Slopestyle,35,3.20
+0,Tomas Julien,Male,02-03-2025,Erzurum,TUR,France,World Cup,Snowboard Cross Team,5,
+1,Tomas Julien,Male,01-03-2025,Erzurum,TUR,France,World Cup,Snowboard Cross,4,
+2,Tomas Julien,Male,28-02-2025,Erzurum,TUR,France,Qualification,Snowboard Cross,4,
+3,Tomas Julien,Male,15-02-2025,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,17,
+4,Tomas Julien,Male,15-02-2025,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,22,90.00
+5,Tomas Julien,Male,02-02-2025,Beidahu,CHN,France,World Cup,Snowboard Cross,7,360.00
+6,Tomas Julien,Male,02-02-2025,Beidahu,CHN,France,Qualification,Snowboard Cross,10,
+7,Tomas Julien,Male,01-02-2025,Beidahu,CHN,France,World Cup,Snowboard Cross,9,290.00
+8,Tomas Julien,Male,31-01-2025,Beidahu,CHN,France,Qualification,Snowboard Cross,5,
+9,Tomas Julien,Male,14-12-2024,Cervinia,ITA,France,World Cup,Snowboard Cross,13,200.00
+10,Tomas Julien,Male,13-12-2024,Cervinia,ITA,France,Qualification,Snowboard Cross,4,
+11,Tomas Julien,Male,27-11-2024,Pitztal,AUT,France,European Cup,Snowboard Cross,6,144.00
+12,Tomas Julien,Male,27-11-2024,Pitztal,AUT,France,Qualification,Snowboard Cross,10,
+13,Tomas Julien,Male,03-10-2024,Corralco,CHI,France,South American Cup,Snowboard Cross,8,115.20
+14,Tomas Julien,Male,03-10-2024,Corralco,CHI,France,South American Cup,Snowboard Cross,2,288.00
+15,Tomas Julien,Male,07-04-2024,Gudauri,GEO,France,FIS Junior World Championships,Snowboard Cross Team,1,
+16,Tomas Julien,Male,06-04-2024,Gudauri,GEO,France,FIS Junior World Championships,Snowboard Cross,2,288.00
+17,Tomas Julien,Male,05-04-2024,Gudauri,GEO,France,Qualification,Snowboard Cross,2,
+18,Tomas Julien,Male,30-03-2024,Orcieres Merlette,FRA,France,National Championships,Snowboard Cross,4,145.00
+19,Tomas Julien,Male,24-03-2024,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,10,260.00
+20,Tomas Julien,Male,23-03-2024,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,15,160.00
+21,Tomas Julien,Male,22-03-2024,Mt. St. Anne,CAN,France,Qualification,Snowboard Cross,20,
+22,Tomas Julien,Male,17-03-2024,Montafon,AUT,France,World Cup,Snowboard Cross,15,160.00
+23,Tomas Julien,Male,16-03-2024,Montafon,AUT,France,World Cup,Snowboard Cross,4,500.00
+24,Tomas Julien,Male,15-03-2024,Montafon,AUT,France,Qualification,Snowboard Cross,14,
+25,Tomas Julien,Male,09-03-2024,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,4,500.00
+26,Tomas Julien,Male,08-03-2024,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,10,
+27,Tomas Julien,Male,03-03-2024,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,16,150.00
+28,Tomas Julien,Male,02-03-2024,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,11,240.00
+29,Tomas Julien,Male,01-03-2024,Sierra Nevada,ESP,France,Qualification,Snowboard Cross,11,
+30,Tomas Julien,Male,24-02-2024,Grasgehren,GER,France,European Cup,Snowboard Cross,4,160.00
+31,Tomas Julien,Male,17-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,28,9.60
+32,Tomas Julien,Male,16-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,2,192.00
+33,Tomas Julien,Male,04-02-2024,Gudauri,GEO,France,World Cup,Snowboard Cross,21,100.00
+34,Tomas Julien,Male,03-02-2024,Gudauri,GEO,France,World Cup,Snowboard Cross,8,320.00
+35,Tomas Julien,Male,02-02-2024,Gudauri,GEO,France,Qualification,Snowboard Cross,22,
+36,Tomas Julien,Male,26-01-2024,St. Moritz,SUI,France,World Cup,Snowboard Cross,24,70.00
+37,Tomas Julien,Male,25-01-2024,St. Moritz,SUI,France,Qualification,Snowboard Cross,32,
+38,Tomas Julien,Male,20-01-2024,Montafon,AUT,France,National Championships,Snowboard Cross,11,69.60
+39,Tomas Julien,Male,04-01-2024,Font Romeu,FRA,France,European Cup Premium,Slopestyle,57,9.20
+40,Tomas Julien,Male,16-12-2023,Cervinia,ITA,France,World Cup,Snowboard Cross,12,220.00
+41,Tomas Julien,Male,03-12-2023,Les Deux Alpes,FRA,France,Qualification,Snowboard Cross,13,
+42,Tomas Julien,Male,03-12-2023,Les Deux Alpes,FRA,France,World Cup,Snowboard Cross,18,130.00
+43,Tomas Julien,Male,08-04-2023,Chamonix,FRA,France,National Championships,Snowboard Cross,3,174.00
+44,Tomas Julien,Male,31-03-2023,Passo San Pellegrino,ITA,France,FIS Junior World Championships,Snowboard Cross Team,5,
+45,Tomas Julien,Male,30-03-2023,Passo San Pellegrino,ITA,France,FIS Junior World Championships,Snowboard Cross,9,92.80
+46,Tomas Julien,Male,23-03-2023,Gargellen,AUT,France,European Cup,Snowboard Cross,6,96.00
+47,Tomas Julien,Male,22-03-2023,Gargellen,AUT,France,European Cup,Snowboard Cross,6,104.00
+48,Tomas Julien,Male,16-03-2023,Veysonnaz,SUI,France,World Cup,Snowboard Cross,35,20.00
+49,Tomas Julien,Male,15-03-2023,Veysonnaz,SUI,France,Qualification,Snowboard Cross,35,
+50,Tomas Julien,Male,16-02-2023,Moena - Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,25,17.40
+51,Tomas Julien,Male,15-02-2023,Moena - Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,3,174.00
+52,Tomas Julien,Male,04-02-2023,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,15,160.00
+53,Tomas Julien,Male,03-02-2023,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,28,
+54,Tomas Julien,Male,22-01-2023,Puy St.Vincent,FRA,France,European Cup,Snowboard Cross,17,33.60
+55,Tomas Julien,Male,21-01-2023,Puy St.Vincent,FRA,France,European Cup,Snowboard Cross,9,69.60
+56,Tomas Julien,Male,15-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,25,21.60
+57,Tomas Julien,Male,14-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,15,57.60
+58,Tomas Julien,Male,08-01-2023,Isola 2000,FRA,France,Junior,Snowboard Cross,2,96.00
+59,Tomas Julien,Male,07-01-2023,Isola 2000,FRA,France,European Cup,Snowboard Cross,5,108.00
+60,Tomas Julien,Male,06-01-2023,Isola 2000,FRA,France,European Cup,Snowboard Cross,3,144.00
+61,Tomas Julien,Male,17-12-2022,Cervinia,ITA,France,World Cup,Snowboard Cross,33,24.00
+62,Tomas Julien,Male,16-12-2022,Cervinia,ITA,France,World Cup,Snowboard Cross,40,18.50
+63,Tomas Julien,Male,15-12-2022,Cervinia,ITA,France,Qualification,Snowboard Cross,40,
+64,Tomas Julien,Male,04-12-2022,Les Deux Alpes,FRA,France,World Cup,Snowboard Cross,37,19.40
+65,Tomas Julien,Male,02-12-2022,Les Deux Alpes,FRA,France,Qualification,Snowboard Cross,37,
+66,Tomas Julien,Male,24-11-2022,Pitztal,AUT,France,European Cup,Snowboard Cross,33,5.76
+67,Tomas Julien,Male,23-11-2022,Pitztal,AUT,France,Qualification,Snowboard Cross,33,
+68,Tomas Julien,Male,08-04-2022,Isola 2000,FRA,France,National Championships,Snowboard Cross,8,92.80
+69,Tomas Julien,Male,31-03-2022,Veysonnaz,SUI,France,FIS Junior World Championships,Snowboard Cross,17,36.40
+70,Tomas Julien,Male,26-03-2022,Lenk,SUI,France,European Cup,Snowboard Cross,31,10.08
+71,Tomas Julien,Male,25-03-2022,Lenk,SUI,France,European Cup,Snowboard Cross,21,36.00
+72,Tomas Julien,Male,06-02-2022,Dolni Morava,CZE,France,FIS,Snowboard Cross,8,38.40
+73,Tomas Julien,Male,05-02-2022,Dolni Morava,CZE,France,FIS,Snowboard Cross,5,63.00
+74,Tomas Julien,Male,03-02-2022,Dolni Morava,CZE,France,European Cup,Snowboard Cross,16,39.00
+75,Tomas Julien,Male,02-02-2022,Dolni Morava,CZE,France,European Cup,Snowboard Cross,33,5.76
+76,Tomas Julien,Male,18-12-2021,Cervinia,ITA,France,World Cup,Snowboard Cross,56,13.70
+77,Tomas Julien,Male,17-12-2021,Cervinia,ITA,France,Qualification,Snowboard Cross,56,
+78,Tomas Julien,Male,14-12-2021,Reiteralm,AUT,France,FIS,Snowboard Cross,9,63.80
+79,Tomas Julien,Male,13-12-2021,Reiteralm,AUT,France,FIS,Snowboard Cross,19,26.40
+80,Tomas Julien,Male,10-12-2021,Montafon,AUT,France,World Cup,Snowboard Cross,58,
+81,Tomas Julien,Male,09-12-2021,Montafon,AUT,France,Qualification,Snowboard Cross,58,
+82,Tomas Julien,Male,31-10-2021,Les 2 Alpes,FRA,France,FIS,Snowboard Cross,9,46.40
+83,Tomas Julien,Male,30-10-2021,Les 2 Alpes,FRA,France,FIS,Snowboard Cross,3,132.00
+84,Tomas Julien,Male,12-03-2021,Lenk,SUI,France,European Cup,Snowboard Cross,38,4.58
+85,Tomas Julien,Male,07-03-2021,Montafon/Gargellen,AUT,France,European Cup,Snowboard Cross,17,25.20
+86,Tomas Julien,Male,06-03-2021,Montafon/Gargellen,AUT,France,European Cup,Snowboard Cross,39,3.38
+87,Tomas Julien,Male,28-02-2021,Reiteralm,AUT,France,European Cup,Snowboard Cross,4,90.00
+88,Tomas Julien,Male,27-02-2021,Reiteralm,AUT,France,European Cup,Snowboard Cross,DNF,
+89,Tomas Julien,Male,18-02-2021,Reiteralm,AUT,France,World Cup,Snowboard Cross,63,
+90,Tomas Julien,Male,16-02-2021,Reiteralm,AUT,France,Qualification,Snowboard Cross,63,
+91,Tomas Julien,Male,13-02-2021,Chiesa in Valmalenco,ITA,France,European Cup,Snowboard Cross,25,15.60
+92,Tomas Julien,Male,12-02-2021,Chiesa in Valmalenco,ITA,France,European Cup,Snowboard Cross,20,28.60
+93,Tomas Julien,Male,03-02-2021,Isola 2000,FRA,France,European Cup,Snowboard Cross,17,22.40
+94,Tomas Julien,Male,31-01-2021,Isola 2000,FRA,France,European Cup,Snowboard Cross,17,36.40
+95,Tomas Julien,Male,30-01-2021,Isola 2000,FRA,France,European Cup,Snowboard Cross,7,129.60
+96,Tomas Julien,Male,28-01-2021,Isola 2000,FRA,France,Junior,Snowboard Cross,6,28.00
+97,Tomas Julien,Male,27-01-2021,Isola 2000,FRA,France,Junior,Snowboard Cross,3,42.00
+98,Tomas Julien,Male,16-01-2021,Crans-Montana,SUI,France,FIS,Snowboard Cross,17,30.80
+99,Tomas Julien,Male,08-03-2020,Kuehtai,AUT,France,Junior,Snowboard Cross,2,104.00
+100,Tomas Julien,Male,07-03-2020,Kuehtai,AUT,France,Junior,Snowboard Cross,8,41.60
+101,Tomas Julien,Male,23-02-2020,Folgaria,ITA,France,Junior,Snowboard Cross,6,28.00
+102,Tomas Julien,Male,22-02-2020,Folgaria,ITA,France,Junior,Snowboard Cross,6,28.00
+103,Tomas Julien,Male,16-02-2020,Flumserberg,SUI,France,FIS,Snowboard Cross,28,8.00
+104,Tomas Julien,Male,15-02-2020,Flumserberg,SUI,France,FIS,Snowboard Cross,34,3.30
+105,Tomas Julien,Male,26-01-2020,Grasgehren,GER,France,Junior,Snowboard Cross,58,1.57
+106,Tomas Julien,Male,25-01-2020,Grasgehren,GER,France,Junior,Snowboard Cross,10,31.20
+107,Tomas Julien,Male,12-01-2020,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,29,11.52
+108,Tomas Julien,Male,11-01-2020,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,30,10.24
+109,Tomas Julien,Male,20-12-2019,Isola 2000,FRA,France,Junior,Snowboard Cross,7,18.00
+110,Tomas Julien,Male,19-12-2019,Isola 2000,FRA,France,Junior,Snowboard Cross,8,22.40
+111,Tomas Julien,Male,01-12-2019,Pitztal,AUT,France,Junior,Snowboard Cross,44,2.42
+112,Tomas Julien,Male,30-11-2019,Pitztal,AUT,France,Junior,Snowboard Cross,3,84.00
+113,Tomas Julien,Male,24-01-2018,Vars,FRA,France,European Cup,Big Air,47,2.62
+114,Tomas Julien,Male,23-01-2018,Vars,FRA,France,European Cup,Slopestyle,35,3.20

@@ -1,72 +1,74 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Otipkova Hana,Female,23-02-2025,Funes - Vilnoessse,ITA,Czechia,FIS,Parallel Giant Slalom,14,39.60
-1,Otipkova Hana,Female,22-02-2025,Funes - Vilnoessse,ITA,Czechia,FIS,Parallel Giant Slalom,9,63.80
-2,Otipkova Hana,Female,09-02-2025,Simonhoehe,AUT,Czechia,National Championships,Parallel Slalom,12,63.80
-3,Otipkova Hana,Female,08-02-2025,Simonhoehe,AUT,Czechia,National Championships,Parallel Giant Slalom,17,40.60
-4,Otipkova Hana,Female,02-02-2025,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,25,19.20
-5,Otipkova Hana,Female,02-02-2025,Ratschings,ITA,Czechia,Qualification,Parallel Slalom,25,
-6,Otipkova Hana,Female,01-02-2025,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,DNF,
-7,Otipkova Hana,Female,26-01-2025,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,54,
-8,Otipkova Hana,Female,25-01-2025,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,21,24.00
-9,Otipkova Hana,Female,19-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,1,70.00
-10,Otipkova Hana,Female,18-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,1,70.00
-11,Otipkova Hana,Female,12-01-2025,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,DSQ,
-12,Otipkova Hana,Female,11-01-2025,Folgaria,ITA,Czechia,European Cup,Parallel Giant Slalom,14,43.20
-13,Otipkova Hana,Female,11-01-2025,Folgaria,ITA,Czechia,Qualification,Parallel Giant Slalom,14,
-14,Otipkova Hana,Female,10-01-2025,Folgaria,ITA,Czechia,Qualification,Parallel Giant Slalom,21,
-15,Otipkova Hana,Female,10-01-2025,Folgaria,ITA,Czechia,European Cup,Parallel Giant Slalom,21,24.00
-16,Otipkova Hana,Female,06-01-2025,Simonhoehe,AUT,Czechia,Junior Regional Cup,Parallel Giant Slalom,11,33.60
-17,Otipkova Hana,Female,05-01-2025,Simonhoehe,AUT,Czechia,Junior Regional Cup,Parallel Giant Slalom,8,44.80
-18,Otipkova Hana,Female,22-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,DSQ,
-19,Otipkova Hana,Female,21-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,8,51.20
-20,Otipkova Hana,Female,20-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,29,8.64
-21,Otipkova Hana,Female,19-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,30,7.68
-22,Otipkova Hana,Female,15-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,37,4.66
-23,Otipkova Hana,Female,14-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,33,5.28
-24,Otipkova Hana,Female,07-04-2024,Samnaun,SUI,Czechia,National Championships,Giant Slalom,13,58.00
-25,Otipkova Hana,Female,06-04-2024,Samnaun,SUI,Czechia,National Championships,Parallel Slalom,DSQ,
-26,Otipkova Hana,Female,23-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Slalom,33,5.76
-27,Otipkova Hana,Female,23-03-2024,Lachtal,AUT,Czechia,Qualification,Parallel Slalom,33,
-28,Otipkova Hana,Female,22-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Giant Slalom,19,28.80
-29,Otipkova Hana,Female,22-03-2024,Lachtal,AUT,Czechia,Qualification,Parallel Giant Slalom,19,
-30,Otipkova Hana,Female,17-03-2024,St. Moritz,SUI,Czechia,European Cup,Parallel Slalom,35,7.20
-31,Otipkova Hana,Female,16-03-2024,St. Moritz,SUI,Czechia,European Cup,Parallel Giant Slalom,44,6.23
-32,Otipkova Hana,Female,13-03-2024,Davos/Rinerhorn ,SUI,Czechia,European Cup,Parallel Giant Slalom,28,
-33,Otipkova Hana,Female,12-03-2024,Davos/Rinerhorn ,SUI,Czechia,European Cup,Parallel Giant Slalom,30,11.52
-34,Otipkova Hana,Female,10-03-2024,Senales - Schnals,ITA,Czechia,FIS,Parallel Slalom,24,
-35,Otipkova Hana,Female,09-03-2024,Senales - Schnals,ITA,Czechia,FIS,Parallel Slalom,10,28.60
-36,Otipkova Hana,Female,10-02-2024,Hochficht/Zwiesel,AUT,Czechia,National Championships,Parallel Slalom,18,37.70
-37,Otipkova Hana,Female,09-02-2024,Hochficht/Zwiesel,AUT,Czechia,National Championships,Parallel Giant Slalom,22,26.10
-38,Otipkova Hana,Female,04-02-2024,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,16,21.00
-39,Otipkova Hana,Female,03-02-2024,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,19,16.80
-40,Otipkova Hana,Female,07-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Giant Slalom,7,79.20
-41,Otipkova Hana,Female,06-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Slalom,8,70.40
-42,Otipkova Hana,Female,22-12-2023,Moninec,CZE,Czechia,Junior,Parallel Slalom,3,42.00
-43,Otipkova Hana,Female,21-12-2023,Moninec,CZE,Czechia,FIS,Parallel Slalom,23,16.00
-44,Otipkova Hana,Female,20-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,39,4.89
-45,Otipkova Hana,Female,19-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,DSQ,
-46,Otipkova Hana,Female,10-12-2023,Götschen,GER,Czechia,Junior,Parallel Slalom,23,12.80
-47,Otipkova Hana,Female,09-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,45,
-48,Otipkova Hana,Female,09-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,45,6.12
-49,Otipkova Hana,Female,08-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,53,5.26
-50,Otipkova Hana,Female,08-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,53,
-51,Otipkova Hana,Female,02-04-2023,Haus im Ennstal,AUT,Czechia,National Championships,Parallel Slalom,14,52.20
-52,Otipkova Hana,Female,01-04-2023,Haus im Ennstal,AUT,Czechia,National Championships,Parallel Giant Slalom,19,
-53,Otipkova Hana,Female,28-03-2023,Bansko,BUL,Czechia,National Championships,Parallel Slalom,3,42.00
-54,Otipkova Hana,Female,27-03-2023,Bansko,BUL,Czechia,National Championships,Parallel Giant Slalom,18,14.30
-55,Otipkova Hana,Female,05-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,5,58.50
-56,Otipkova Hana,Female,04-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,7,46.80
-57,Otipkova Hana,Female,03-03-2023,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Giant Slalom,8,41.60
-58,Otipkova Hana,Female,27-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,1,50.00
-59,Otipkova Hana,Female,26-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,1,50.00
-60,Otipkova Hana,Female,25-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,8,16.00
-61,Otipkova Hana,Female,29-01-2023,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,40,
-62,Otipkova Hana,Female,29-01-2023,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,40,
-63,Otipkova Hana,Female,28-01-2023,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,45,
-64,Otipkova Hana,Female,28-01-2023,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,45,
-65,Otipkova Hana,Female,08-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Giant Slalom,18,15.60
-66,Otipkova Hana,Female,07-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,14,23.40
-67,Otipkova Hana,Female,04-01-2023,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,14,52.20
-68,Otipkova Hana,Female,18-12-2022,Hochfügen,GER,Czechia,Qualification,Parallel Giant Slalom,37,
-69,Otipkova Hana,Female,18-12-2022,Hochfügen,GER,Czechia,European Cup,Parallel Giant Slalom,37,3.88
-70,Otipkova Hana,Female,17-12-2022,Hochfügen,GER,Czechia,European Cup,Parallel Giant Slalom,45,
+0,Otipkova Hana,Female,02-03-2025,Spindleruv Mlyn - Stoh,CZE,Czechia,National Championships,Parallel Slalom,1,
+1,Otipkova Hana,Female,01-03-2025,Spindleruv Mlyn - Stoh,CZE,Czechia,National Championships,Parallel Giant Slalom,1,
+2,Otipkova Hana,Female,23-02-2025,Funes - Vilnoessse,ITA,Czechia,FIS,Parallel Giant Slalom,14,39.60
+3,Otipkova Hana,Female,22-02-2025,Funes - Vilnoessse,ITA,Czechia,FIS,Parallel Giant Slalom,9,63.80
+4,Otipkova Hana,Female,09-02-2025,Simonhoehe,AUT,Czechia,National Championships,Parallel Slalom,12,63.80
+5,Otipkova Hana,Female,08-02-2025,Simonhoehe,AUT,Czechia,National Championships,Parallel Giant Slalom,17,40.60
+6,Otipkova Hana,Female,02-02-2025,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,25,19.20
+7,Otipkova Hana,Female,02-02-2025,Ratschings,ITA,Czechia,Qualification,Parallel Slalom,25,
+8,Otipkova Hana,Female,01-02-2025,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,DNF,
+9,Otipkova Hana,Female,26-01-2025,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,54,
+10,Otipkova Hana,Female,25-01-2025,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,21,24.00
+11,Otipkova Hana,Female,19-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,1,70.00
+12,Otipkova Hana,Female,18-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,1,70.00
+13,Otipkova Hana,Female,12-01-2025,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,DSQ,
+14,Otipkova Hana,Female,11-01-2025,Folgaria,ITA,Czechia,Qualification,Parallel Giant Slalom,14,
+15,Otipkova Hana,Female,11-01-2025,Folgaria,ITA,Czechia,European Cup,Parallel Giant Slalom,14,43.20
+16,Otipkova Hana,Female,10-01-2025,Folgaria,ITA,Czechia,Qualification,Parallel Giant Slalom,21,
+17,Otipkova Hana,Female,10-01-2025,Folgaria,ITA,Czechia,European Cup,Parallel Giant Slalom,21,24.00
+18,Otipkova Hana,Female,06-01-2025,Simonhoehe,AUT,Czechia,Junior Regional Cup,Parallel Giant Slalom,11,33.60
+19,Otipkova Hana,Female,05-01-2025,Simonhoehe,AUT,Czechia,Junior Regional Cup,Parallel Giant Slalom,8,44.80
+20,Otipkova Hana,Female,22-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,DSQ,
+21,Otipkova Hana,Female,21-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,8,51.20
+22,Otipkova Hana,Female,20-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,29,8.64
+23,Otipkova Hana,Female,19-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,30,7.68
+24,Otipkova Hana,Female,15-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,37,4.66
+25,Otipkova Hana,Female,14-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,33,5.28
+26,Otipkova Hana,Female,07-04-2024,Samnaun,SUI,Czechia,National Championships,Giant Slalom,13,58.00
+27,Otipkova Hana,Female,06-04-2024,Samnaun,SUI,Czechia,National Championships,Parallel Slalom,DSQ,
+28,Otipkova Hana,Female,23-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Slalom,33,5.76
+29,Otipkova Hana,Female,23-03-2024,Lachtal,AUT,Czechia,Qualification,Parallel Slalom,33,
+30,Otipkova Hana,Female,22-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Giant Slalom,19,28.80
+31,Otipkova Hana,Female,22-03-2024,Lachtal,AUT,Czechia,Qualification,Parallel Giant Slalom,19,
+32,Otipkova Hana,Female,17-03-2024,St. Moritz,SUI,Czechia,European Cup,Parallel Slalom,35,7.20
+33,Otipkova Hana,Female,16-03-2024,St. Moritz,SUI,Czechia,European Cup,Parallel Giant Slalom,44,6.23
+34,Otipkova Hana,Female,13-03-2024,Davos/Rinerhorn ,SUI,Czechia,European Cup,Parallel Giant Slalom,28,
+35,Otipkova Hana,Female,12-03-2024,Davos/Rinerhorn ,SUI,Czechia,European Cup,Parallel Giant Slalom,30,11.52
+36,Otipkova Hana,Female,10-03-2024,Senales - Schnals,ITA,Czechia,FIS,Parallel Slalom,24,
+37,Otipkova Hana,Female,09-03-2024,Senales - Schnals,ITA,Czechia,FIS,Parallel Slalom,10,28.60
+38,Otipkova Hana,Female,10-02-2024,Hochficht/Zwiesel,AUT,Czechia,National Championships,Parallel Slalom,18,37.70
+39,Otipkova Hana,Female,09-02-2024,Hochficht/Zwiesel,AUT,Czechia,National Championships,Parallel Giant Slalom,22,26.10
+40,Otipkova Hana,Female,04-02-2024,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,16,21.00
+41,Otipkova Hana,Female,03-02-2024,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,19,16.80
+42,Otipkova Hana,Female,07-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Giant Slalom,7,79.20
+43,Otipkova Hana,Female,06-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Slalom,8,70.40
+44,Otipkova Hana,Female,22-12-2023,Moninec,CZE,Czechia,Junior,Parallel Slalom,3,42.00
+45,Otipkova Hana,Female,21-12-2023,Moninec,CZE,Czechia,FIS,Parallel Slalom,23,16.00
+46,Otipkova Hana,Female,20-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,39,4.89
+47,Otipkova Hana,Female,19-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,DSQ,
+48,Otipkova Hana,Female,10-12-2023,Götschen,GER,Czechia,Junior,Parallel Slalom,23,12.80
+49,Otipkova Hana,Female,09-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,45,6.12
+50,Otipkova Hana,Female,09-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,45,
+51,Otipkova Hana,Female,08-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,53,5.26
+52,Otipkova Hana,Female,08-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,53,
+53,Otipkova Hana,Female,02-04-2023,Haus im Ennstal,AUT,Czechia,National Championships,Parallel Slalom,14,52.20
+54,Otipkova Hana,Female,01-04-2023,Haus im Ennstal,AUT,Czechia,National Championships,Parallel Giant Slalom,19,
+55,Otipkova Hana,Female,28-03-2023,Bansko,BUL,Czechia,National Championships,Parallel Slalom,3,42.00
+56,Otipkova Hana,Female,27-03-2023,Bansko,BUL,Czechia,National Championships,Parallel Giant Slalom,18,14.30
+57,Otipkova Hana,Female,05-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,5,58.50
+58,Otipkova Hana,Female,04-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,7,46.80
+59,Otipkova Hana,Female,03-03-2023,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Giant Slalom,8,41.60
+60,Otipkova Hana,Female,27-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,1,50.00
+61,Otipkova Hana,Female,26-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,1,50.00
+62,Otipkova Hana,Female,25-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,8,16.00
+63,Otipkova Hana,Female,29-01-2023,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,40,
+64,Otipkova Hana,Female,29-01-2023,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,40,
+65,Otipkova Hana,Female,28-01-2023,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,45,
+66,Otipkova Hana,Female,28-01-2023,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,45,
+67,Otipkova Hana,Female,08-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Giant Slalom,18,15.60
+68,Otipkova Hana,Female,07-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,14,23.40
+69,Otipkova Hana,Female,04-01-2023,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,14,52.20
+70,Otipkova Hana,Female,18-12-2022,Hochfügen,GER,Czechia,European Cup,Parallel Giant Slalom,37,3.88
+71,Otipkova Hana,Female,18-12-2022,Hochfügen,GER,Czechia,Qualification,Parallel Giant Slalom,37,
+72,Otipkova Hana,Female,17-12-2022,Hochfügen,GER,Czechia,European Cup,Parallel Giant Slalom,45,

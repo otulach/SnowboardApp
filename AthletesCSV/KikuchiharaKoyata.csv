@@ -1,30 +1,31 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Kikuchihara Koyata,Male,12-02-2025,Yabuli Ski Resort,CHN,Japan,Asian Winter Games,Halfpipe,2,290.60
-1,Kikuchihara Koyata,Male,01-02-2025,Aspen,USA,Japan,World Cup,Halfpipe,15,187.40
-2,Kikuchihara Koyata,Male,30-01-2025,Aspen,USA,Japan,Qualification,Halfpipe,8,
-3,Kikuchihara Koyata,Male,18-01-2025,Laax,SUI,Japan,World Cup,Halfpipe,45,0.30
-4,Kikuchihara Koyata,Male,17-01-2025,Laax,SUI,Japan,Qualification,Halfpipe,23,
-5,Kikuchihara Koyata,Male,17-03-2024,Spporo,JPN,Japan,National Championships,Halfpipe,4,186.10
-6,Kikuchihara Koyata,Male,10-03-2024,Sapporo,JPN,Japan,FIS,Halfpipe,5,106.50
-7,Kikuchihara Koyata,Male,18-02-2024,Sapporo,JPN,Japan,FIS,Halfpipe,12,33.80
-8,Kikuchihara Koyata,Male,25-01-2024,Copper Mountain,USA,Japan,Nor-Am Cup,Halfpipe,5,87.50
-9,Kikuchihara Koyata,Male,10-01-2024,"Copper Mountain, CO",USA,Japan,FIS,Halfpipe,2,74.00
-10,Kikuchihara Koyata,Male,19-03-2023,Ajigasawa,JPN,Japan,National Championships,Halfpipe,4,187.10
-11,Kikuchihara Koyata,Male,12-03-2023,Sapporo Bankei,JPN,Japan,FIS,Halfpipe,11,28.00
-12,Kikuchihara Koyata,Male,19-02-2023,Sapporo Bankei,JPN,Japan,FIS,Halfpipe,3,123.30
-13,Kikuchihara Koyata,Male,09-02-2023,"Aspen Snowmass, CO",USA,Japan,Nor-Am Cup,Halfpipe,2,114.10
-14,Kikuchihara Koyata,Male,21-03-2022,Ajigasawa,JPN,Japan,National Championships,Halfpipe,5,159.90
-15,Kikuchihara Koyata,Male,08-03-2022,Leysin,SUI,Japan,FIS Junior World Championships,Halfpipe,4,136.40
-16,Kikuchihara Koyata,Male,20-02-2022,Sapporo Bankei,JPN,Japan,FIS,Halfpipe,5,53.10
-17,Kikuchihara Koyata,Male,28-01-2022,Mammoth Mountain Ski Resort,USA,Japan,Nor-Am Cup,Halfpipe,3,122.30
-18,Kikuchihara Koyata,Male,21-01-2022,Mammoth Mountain Ski Resort,USA,Japan,FIS,Halfpipe,1,60.00
-19,Kikuchihara Koyata,Male,14-04-2021,Sapporo,JPN,Japan,National Championships,Halfpipe,11,72.09
-20,Kikuchihara Koyata,Male,14-03-2021,Sapporo Bankei,JPN,Japan,FIS,Halfpipe,7,24.99
-21,Kikuchihara Koyata,Male,23-02-2021,Sapporo Bankei,JPN,Japan,FIS,Halfpipe,4,28.57
-22,Kikuchihara Koyata,Male,28-08-2019,Cardrona,NZL,Japan,Australian New Zealand Cup,Halfpipe,6,88.00
-23,Kikuchihara Koyata,Male,03-03-2019,Sapporo,JPN,Japan,FIS,Halfpipe,4,45.00
-24,Kikuchihara Koyata,Male,24-02-2019,Gujo,JPN,Japan,National Championships,Halfpipe,7,104.40
-25,Kikuchihara Koyata,Male,11-02-2019, Sapporo Bankei ,JPN,Japan,FIS,Halfpipe,14,16.20
-26,Kikuchihara Koyata,Male,24-03-2018,Sapporo,JPN,Japan,FIS,Halfpipe,10,18.20
-27,Kikuchihara Koyata,Male,25-02-2018,Gujo,JPN,Japan,National Championships,Halfpipe,27,13.05
-28,Kikuchihara Koyata,Male,18-02-2018,Sapporo,JPN,Japan,FIS,Halfpipe,10,18.20
+0,Kikuchihara Koyata,Male,02-03-2025,Gujo,JPN,Japan,National Championships,Halfpipe,6,138.60
+1,Kikuchihara Koyata,Male,12-02-2025,Yabuli Ski Resort,CHN,Japan,Asian Winter Games,Halfpipe,2,290.60
+2,Kikuchihara Koyata,Male,01-02-2025,Aspen,USA,Japan,World Cup,Halfpipe,15,187.40
+3,Kikuchihara Koyata,Male,30-01-2025,Aspen,USA,Japan,Qualification,Halfpipe,8,
+4,Kikuchihara Koyata,Male,18-01-2025,Laax,SUI,Japan,World Cup,Halfpipe,45,0.30
+5,Kikuchihara Koyata,Male,17-01-2025,Laax,SUI,Japan,Qualification,Halfpipe,23,
+6,Kikuchihara Koyata,Male,17-03-2024,Spporo,JPN,Japan,National Championships,Halfpipe,4,186.10
+7,Kikuchihara Koyata,Male,10-03-2024,Sapporo,JPN,Japan,FIS,Halfpipe,5,106.50
+8,Kikuchihara Koyata,Male,18-02-2024,Sapporo,JPN,Japan,FIS,Halfpipe,12,33.80
+9,Kikuchihara Koyata,Male,25-01-2024,Copper Mountain,USA,Japan,Nor-Am Cup,Halfpipe,5,87.50
+10,Kikuchihara Koyata,Male,10-01-2024,"Copper Mountain, CO",USA,Japan,FIS,Halfpipe,2,74.00
+11,Kikuchihara Koyata,Male,19-03-2023,Ajigasawa,JPN,Japan,National Championships,Halfpipe,4,187.10
+12,Kikuchihara Koyata,Male,12-03-2023,Sapporo Bankei,JPN,Japan,FIS,Halfpipe,11,28.00
+13,Kikuchihara Koyata,Male,19-02-2023,Sapporo Bankei,JPN,Japan,FIS,Halfpipe,3,123.30
+14,Kikuchihara Koyata,Male,09-02-2023,"Aspen Snowmass, CO",USA,Japan,Nor-Am Cup,Halfpipe,2,114.10
+15,Kikuchihara Koyata,Male,21-03-2022,Ajigasawa,JPN,Japan,National Championships,Halfpipe,5,159.90
+16,Kikuchihara Koyata,Male,08-03-2022,Leysin,SUI,Japan,FIS Junior World Championships,Halfpipe,4,136.40
+17,Kikuchihara Koyata,Male,20-02-2022,Sapporo Bankei,JPN,Japan,FIS,Halfpipe,5,53.10
+18,Kikuchihara Koyata,Male,28-01-2022,Mammoth Mountain Ski Resort,USA,Japan,Nor-Am Cup,Halfpipe,3,122.30
+19,Kikuchihara Koyata,Male,21-01-2022,Mammoth Mountain Ski Resort,USA,Japan,FIS,Halfpipe,1,60.00
+20,Kikuchihara Koyata,Male,14-04-2021,Sapporo,JPN,Japan,National Championships,Halfpipe,11,72.09
+21,Kikuchihara Koyata,Male,14-03-2021,Sapporo Bankei,JPN,Japan,FIS,Halfpipe,7,24.99
+22,Kikuchihara Koyata,Male,23-02-2021,Sapporo Bankei,JPN,Japan,FIS,Halfpipe,4,28.57
+23,Kikuchihara Koyata,Male,28-08-2019,Cardrona,NZL,Japan,Australian New Zealand Cup,Halfpipe,6,88.00
+24,Kikuchihara Koyata,Male,03-03-2019,Sapporo,JPN,Japan,FIS,Halfpipe,4,45.00
+25,Kikuchihara Koyata,Male,24-02-2019,Gujo,JPN,Japan,National Championships,Halfpipe,7,104.40
+26,Kikuchihara Koyata,Male,11-02-2019, Sapporo Bankei ,JPN,Japan,FIS,Halfpipe,14,16.20
+27,Kikuchihara Koyata,Male,24-03-2018,Sapporo,JPN,Japan,FIS,Halfpipe,10,18.20
+28,Kikuchihara Koyata,Male,25-02-2018,Gujo,JPN,Japan,National Championships,Halfpipe,27,13.05
+29,Kikuchihara Koyata,Male,18-02-2018,Sapporo,JPN,Japan,FIS,Halfpipe,10,18.20

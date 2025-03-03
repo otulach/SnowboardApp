@@ -1,238 +1,240 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Menconi Matteo,Male,15-02-2025,Cortina d'Ampezzo,ITA,Italy,Qualification,Snowboard Cross,DNS2,
-1,Menconi Matteo,Male,15-02-2025,Cortina d'Ampezzo,ITA,Italy,World Cup,Snowboard Cross,DNS2,
-2,Menconi Matteo,Male,02-02-2025,Beidahu,CHN,Italy,World Cup,Snowboard Cross,50,
-3,Menconi Matteo,Male,02-02-2025,Beidahu,CHN,Italy,Qualification,Snowboard Cross,50,
-4,Menconi Matteo,Male,01-02-2025,Beidahu,CHN,Italy,World Cup,Snowboard Cross,40,18.50
-5,Menconi Matteo,Male,31-01-2025,Beidahu,CHN,Italy,Qualification,Snowboard Cross,40,
-6,Menconi Matteo,Male,14-12-2024,Cervinia,ITA,Italy,World Cup,Snowboard Cross,28,40.00
-7,Menconi Matteo,Male,13-12-2024,Cervinia,ITA,Italy,Qualification,Snowboard Cross,17,
-8,Menconi Matteo,Male,30-03-2024,Colere,ITA,Italy,National Championships,Snowboard Cross,25,17.40
-9,Menconi Matteo,Male,22-03-2024,Lenk,SUI,Italy,European Cup,Snowboard Cross,1,240.00
-10,Menconi Matteo,Male,21-03-2024,Lenk,SUI,Italy,European Cup,Snowboard Cross,2,192.00
-11,Menconi Matteo,Male,17-03-2024,Montafon,AUT,Italy,World Cup,Snowboard Cross,48,16.10
-12,Menconi Matteo,Male,16-03-2024,Montafon,AUT,Italy,World Cup,Snowboard Cross,24,70.00
-13,Menconi Matteo,Male,15-03-2024,Montafon,AUT,Italy,Qualification,Snowboard Cross,32,
-14,Menconi Matteo,Male,09-03-2024,Cortina d'Ampezzo,ITA,Italy,World Cup,Snowboard Cross,38,19.10
-15,Menconi Matteo,Male,08-03-2024,Cortina d'Ampezzo,ITA,Italy,Qualification,Snowboard Cross,38,
-16,Menconi Matteo,Male,03-03-2024,Sierra Nevada,ESP,Italy,World Cup,Snowboard Cross,43,17.60
-17,Menconi Matteo,Male,02-03-2024,Sierra Nevada,ESP,Italy,World Cup,Snowboard Cross,24,70.00
-18,Menconi Matteo,Male,01-03-2024,Sierra Nevada,ESP,Italy,Qualification,Snowboard Cross,29,
-19,Menconi Matteo,Male,04-02-2024,Gudauri,GEO,Italy,World Cup,Snowboard Cross,42,17.90
-20,Menconi Matteo,Male,03-02-2024,Gudauri,GEO,Italy,World Cup,Snowboard Cross,28,40.00
-21,Menconi Matteo,Male,02-02-2024,Gudauri,GEO,Italy,Qualification,Snowboard Cross,25,
-22,Menconi Matteo,Male,26-01-2024,St. Moritz,SUI,Italy,World Cup,Snowboard Cross,32,26.00
-23,Menconi Matteo,Male,25-01-2024,St. Moritz,SUI,Italy,Qualification,Snowboard Cross,31,
-24,Menconi Matteo,Male,16-12-2023,Cervinia,ITA,Italy,World Cup,Snowboard Cross,51,15.20
-25,Menconi Matteo,Male,03-12-2023,Les Deux Alpes,FRA,Italy,Qualification,Snowboard Cross,19,
-26,Menconi Matteo,Male,03-12-2023,Les Deux Alpes,FRA,Italy,World Cup,Snowboard Cross,27,45.00
-27,Menconi Matteo,Male,02-04-2023,Moena - Passo San Pellegrino,ITA,Italy,National Championships,Snowboard Cross,3,174.00
-28,Menconi Matteo,Male,26-03-2023,Mt. St. Anne,CAN,Italy,World Cup,Snowboard Cross,33,24.00
-29,Menconi Matteo,Male,25-03-2023,Mt. St. Anne,CAN,Italy,World Cup,Snowboard Cross,28,40.00
-30,Menconi Matteo,Male,24-03-2023,Mt. St. Anne,CAN,Italy,Qualification,Snowboard Cross,27,
-31,Menconi Matteo,Male,16-03-2023,Veysonnaz,SUI,Italy,World Cup,Snowboard Cross,15,160.00
-32,Menconi Matteo,Male,15-03-2023,Veysonnaz,SUI,Italy,Qualification,Snowboard Cross,30,
-33,Menconi Matteo,Male,12-03-2023,Sierra Nevada,ESP,Italy,World Cup,Snowboard Cross,13,200.00
-34,Menconi Matteo,Male,11-03-2023,Sierra Nevada,ESP,Italy,World Cup,Snowboard Cross,13,200.00
-35,Menconi Matteo,Male,04-02-2023,Cortina d'Ampezzo,ITA,Italy,World Cup,Snowboard Cross,53,
-36,Menconi Matteo,Male,03-02-2023,Cortina d'Ampezzo,ITA,Italy,Qualification,Snowboard Cross,53,
-37,Menconi Matteo,Male,02-04-2022,Passo San Pellegrino,ITA,Italy,National Championships,Snowboard Cross,2,232.00
-38,Menconi Matteo,Male,29-01-2022,Cortina d'Ampezzo,ITA,Italy,Qualification,Snowboard Cross,28,
-39,Menconi Matteo,Male,29-01-2022,Cortina d'Ampezzo,ITA,Italy,World Cup,Snowboard Cross,32,26.00
-40,Menconi Matteo,Male,08-01-2022,Krasnoyarsk,RUS,Italy,World Cup,Snowboard Cross,39,18.80
-41,Menconi Matteo,Male,07-01-2022,Krasnoyarsk,RUS,Italy,Qualification,Snowboard Cross,39,
-42,Menconi Matteo,Male,18-12-2021,Cervinia,ITA,Italy,World Cup,Snowboard Cross,18,130.00
-43,Menconi Matteo,Male,17-12-2021,Cervinia,ITA,Italy,Qualification,Snowboard Cross,7,
-44,Menconi Matteo,Male,10-12-2021,Montafon,AUT,Italy,World Cup,Snowboard Cross,14,180.00
-45,Menconi Matteo,Male,09-12-2021,Montafon,AUT,Italy,Qualification,Snowboard Cross,5,
-46,Menconi Matteo,Male,28-11-2021,Secret Garden,CHN,Italy,World Cup,Snowboard Cross,30,32.00
-47,Menconi Matteo,Male,26-11-2021,Secret Garden,CHN,Italy,Qualification,Snowboard Cross,28,
-48,Menconi Matteo,Male,10-04-2021,Colere,ITA,Italy,National Championships,Snowboard Cross,8,64.00
-49,Menconi Matteo,Male,12-03-2021,Lenk,SUI,Italy,European Cup,Snowboard Cross,20,26.40
-50,Menconi Matteo,Male,07-03-2021,Montafon/Gargellen,AUT,Italy,European Cup,Snowboard Cross,25,10.80
-51,Menconi Matteo,Male,06-03-2021,Montafon/Gargellen,AUT,Italy,European Cup,Snowboard Cross,4,90.00
-52,Menconi Matteo,Male,28-02-2021,Reiteralm,AUT,Italy,European Cup,Snowboard Cross,3,108.00
-53,Menconi Matteo,Male,27-02-2021,Reiteralm,AUT,Italy,European Cup,Snowboard Cross,3,108.00
-54,Menconi Matteo,Male,18-02-2021,Reiteralm,AUT,Italy,World Cup,Snowboard Cross,59,
-55,Menconi Matteo,Male,16-02-2021,Reiteralm,AUT,Italy,Qualification,Snowboard Cross,59,
-56,Menconi Matteo,Male,13-02-2021,Chiesa in Valmalenco,ITA,Italy,European Cup,Snowboard Cross,8,83.20
-57,Menconi Matteo,Male,12-02-2021,Chiesa in Valmalenco,ITA,Italy,European Cup,Snowboard Cross,26,13.00
-58,Menconi Matteo,Male,03-02-2021,Isola 2000,FRA,Italy,European Cup,Snowboard Cross,1,160.00
-59,Menconi Matteo,Male,31-01-2021,Isola 2000,FRA,Italy,European Cup,Snowboard Cross,22,23.40
-60,Menconi Matteo,Male,30-01-2021,Isola 2000,FRA,Italy,European Cup,Snowboard Cross,52,5.36
-61,Menconi Matteo,Male,24-01-2021,Chiesa in Valmalenco,ITA,Italy,World Cup,Snowboard Cross,49,15.80
-62,Menconi Matteo,Male,23-01-2021,Chiesa in Valmalenco,ITA,Italy,World Cup,Snowboard Cross,44,17.30
-63,Menconi Matteo,Male,22-01-2021,Chiesa in Valmalenco,ITA,Italy,Qualification,Snowboard Cross,44,
-64,Menconi Matteo,Male,17-01-2021,Colere,ITA,Italy,FIS,Snowboard Cross,5,90.00
-65,Menconi Matteo,Male,16-01-2021,Colere,ITA,Italy,FIS,Snowboard Cross,10,52.00
-66,Menconi Matteo,Male,07-03-2020,Sierra Nevada,ESP,Italy,Qualification,Snowboard Cross,33,
-67,Menconi Matteo,Male,07-03-2020,Sierra Nevada,ESP,Italy,World Cup,Snowboard Cross,33,24.00
-68,Menconi Matteo,Male,22-02-2020,Grasgehren,GER,Italy,European Cup,Snowboard Cross,3,216.00
-69,Menconi Matteo,Male,26-01-2020,Big White,CAN,Italy,World Cup,Snowboard Cross,39,18.80
-70,Menconi Matteo,Male,25-01-2020,Big White,CAN,Italy,World Cup,Snowboard Cross,17,140.00
-71,Menconi Matteo,Male,24-01-2020,Big White,CAN,Italy,Qualification,Snowboard Cross,3,
-72,Menconi Matteo,Male,21-12-2019,Cervinia,ITA,Italy,World Cup,Snowboard Cross,29,36.00
-73,Menconi Matteo,Male,13-12-2019,Montafon,AUT,Italy,World Cup,Snowboard Cross,27,45.00
-74,Menconi Matteo,Male,12-12-2019,Montafon,AUT,Italy,Qualification,Snowboard Cross,23,
-75,Menconi Matteo,Male,28-11-2019,Pitztal,AUT,Italy,European Cup,Snowboard Cross,33,8.64
-76,Menconi Matteo,Male,29-03-2019,Piancavallo,ITA,Italy,National Championships,Snowboard Cross,1,290.00
-77,Menconi Matteo,Male,23-03-2019,Lenk,SUI,Italy,European Cup,Snowboard Cross,5,162.00
-78,Menconi Matteo,Male,22-03-2019,Lenk,SUI,Italy,European Cup,Snowboard Cross,6,144.00
-79,Menconi Matteo,Male,02-03-2019,Baqueira Beret,ESP,Italy,World Cup,Snowboard Cross,46,16.70
-80,Menconi Matteo,Male,01-03-2019,Baqueira Beret,ESP,Italy,Qualification,Snowboard Cross,46,
-81,Menconi Matteo,Male,09-02-2019,Feldberg,GER,Italy,World Cup,Snowboard Cross,22,90.00
-82,Menconi Matteo,Male,08-02-2019,Feldberg,GER,Italy,Qualification,Snowboard Cross,16,
-83,Menconi Matteo,Male,29-01-2019,Val Thorens,FRA,Italy,European Cup,Snowboard Cross,15,51.20
-84,Menconi Matteo,Male,20-01-2019,Grasgehren,GER,Italy,European Cup,Snowboard Cross,6,144.00
-85,Menconi Matteo,Male,19-01-2019,Grasgehren,GER,Italy,European Cup,Snowboard Cross,8,115.20
-86,Menconi Matteo,Male,13-01-2019,Puy St. Vincent,FRA,Italy,European Cup,Snowboard Cross,17,44.80
-87,Menconi Matteo,Male,12-01-2019,Puy St. Vincent,FRA,Italy,European Cup,Snowboard Cross,9,92.80
-88,Menconi Matteo,Male,22-12-2018,Cervinia,ITA,Italy,World Cup,Snowboard Cross,55,14.00
-89,Menconi Matteo,Male,21-12-2018,Cervinia,ITA,Italy,World Cup,Snowboard Cross,48,16.10
-90,Menconi Matteo,Male,20-12-2018,Cervinia,ITA,Italy,Qualification,Snowboard Cross,46,
-91,Menconi Matteo,Male,08-04-2018,Bad Gastein,AUT,Italy,FIS,Snowboard Cross,5,90.00
-92,Menconi Matteo,Male,07-04-2018,Bad Gastein,AUT,Italy,European Cup,Snowboard Cross,6,88.00
-93,Menconi Matteo,Male,21-03-2018,Veysonnaz,SUI,Italy,European Cup,Snowboard Cross,2,208.00
-94,Menconi Matteo,Male,20-03-2018,Veysonnaz,SUI,Italy,European Cup,Snowboard Cross,21,26.00
-95,Menconi Matteo,Male,17-03-2018,Veysonnaz,SUI,Italy,World Cup,Snowboard Cross,48,16.10
-96,Menconi Matteo,Male,16-03-2018,Veysonnaz,SUI,Italy,Qualification,Snowboard Cross,48,
-97,Menconi Matteo,Male,10-03-2018,Lenk,SUI,Italy,European Cup,Snowboard Cross,5,117.00
-98,Menconi Matteo,Male,09-03-2018,Lenk,SUI,Italy,European Cup,Snowboard Cross,8,83.20
-99,Menconi Matteo,Male,06-03-2018,Moena,ITA,Italy,National Championships,Snowboard Cross,1,160.00
-100,Menconi Matteo,Male,03-03-2018,La Molina,ESP,Italy,World Cup,Snowboard Cross,34,22.00
-101,Menconi Matteo,Male,02-03-2018,La Molina,ESP,Italy,Qualification,Snowboard Cross,34,
-102,Menconi Matteo,Male,04-02-2018,Puy St. Vincent,FRA,Italy,European Cup,Snowboard Cross,25,13.20
-103,Menconi Matteo,Male,03-02-2018,Puy St. Vincent,FRA,Italy,European Cup,Snowboard Cross,5,99.00
-104,Menconi Matteo,Male,28-01-2018,Grasgehren,GER,Italy,European Cup,Snowboard Cross,13,44.00
-105,Menconi Matteo,Male,27-01-2018,Grasgehren,GER,Italy,European Cup,Snowboard Cross,3,132.00
-106,Menconi Matteo,Male,14-01-2018,Isola 2000,FRA,Italy,European Cup,Snowboard Cross,17,30.80
-107,Menconi Matteo,Male,13-01-2018,Isola 2000,FRA,Italy,European Cup,Snowboard Cross,19,26.40
-108,Menconi Matteo,Male,22-12-2017,Cervinia,ITA,Italy,World Cup,Snowboard Cross,54,14.30
-109,Menconi Matteo,Male,21-12-2017,Cervinia,ITA,Italy,Qualification,Snowboard Cross,54,
-110,Menconi Matteo,Male,30-11-2017,Pitztal,AUT,Italy,European Cup,Snowboard Cross,25,21.60
-111,Menconi Matteo,Male,29-11-2017,Pitztal,AUT,Italy,European Cup,Snowboard Cross,27,16.20
-112,Menconi Matteo,Male,08-04-2017,Cervinia,ITA,Italy,National Championships,Snowboardcross,3,174.00
-113,Menconi Matteo,Male,25-03-2017,Veysonnaz,SUI,Italy,World Cup,Snowboardcross,32,26.00
-114,Menconi Matteo,Male,24-03-2017,Veysonnaz,SUI,Italy,Qualification,Snowboardcross,46,
-115,Menconi Matteo,Male,17-03-2017,Lenk,SUI,Italy,European Cup,Snowboardcross,27,16.20
-116,Menconi Matteo,Male,05-03-2017,La Molina,ESP,Italy,World Cup,Snowboardcross,55,14.00
-117,Menconi Matteo,Male,04-03-2017,La Molina,ESP,Italy,Qualification,Snowboardcross,55,
-118,Menconi Matteo,Male,25-02-2017,Colere,ITA,Italy,European Cup,Snowboardcross,19,34.80
-119,Menconi Matteo,Male,24-02-2017,Colere,ITA,Italy,European Cup,Snowboardcross,22,26.10
-120,Menconi Matteo,Male,12-02-2017,Feldberg,GER,Italy,World Cup,Snowboardcross,23,80.00
-121,Menconi Matteo,Male,11-02-2017,Feldberg,GER,Italy,World Cup,Snowboardcross,DNS,
-122,Menconi Matteo,Male,10-02-2017,Feldberg,GER,Italy,Qualification,Snowboardcross,DNS,
-123,Menconi Matteo,Male,03-02-2017,Puy St. Vincent,FRA,Italy,European Cup,Snowboardcross,24,
-124,Menconi Matteo,Male,29-01-2017,Grasgehren,GER,Italy,European Cup,Snowboardcross,32,5.72
-125,Menconi Matteo,Male,28-01-2017,Grasgehren,GER,Italy,European Cup,Snowboardcross,10,93.60
-126,Menconi Matteo,Male,16-12-2016,Val Thorens,FRA,Italy,European Cup,Snowboardcross,6,80.00
-127,Menconi Matteo,Male,15-12-2016,Val Thorens,FRA,Italy,European Cup,Snowboardcross,2,160.00
-128,Menconi Matteo,Male,01-12-2016,Pitztal,AUT,Italy,European Cup,Snowboardcross,49,5.69
-129,Menconi Matteo,Male,30-11-2016,Pitztal,AUT,Italy,European Cup,Snowboardcross,12,79.20
-130,Menconi Matteo,Male,09-04-2016,Bad Gastein,AUT,Italy,European Cup,Snowboardcross,13,72.00
-131,Menconi Matteo,Male,08-04-2016,Bad Gastein,AUT,Italy,European Cup,Snowboardcross,13,72.00
-132,Menconi Matteo,Male,06-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Snowboardcross,9,104.40
-133,Menconi Matteo,Male,19-03-2016,Lenk,SUI,Italy,European Cup,Snowboardcross,34,4.84
-134,Menconi Matteo,Male,18-03-2016,Lenk,SUI,Italy,European Cup,Snowboardcross,12,48.40
-135,Menconi Matteo,Male,13-03-2016,Puy St. Vincent,FRA,Italy,European Cup,Snowboardcross,19,60.00
-136,Menconi Matteo,Male,12-03-2016,Puy St. Vincent,FRA,Italy,European Cup,Snowboardcross,29,16.20
-137,Menconi Matteo,Male,06-03-2016,Veysonnaz,SUI,Italy,World Cup,Snowboardcross,45,17.00
-138,Menconi Matteo,Male,05-03-2016,Veysonnaz,SUI,Italy,World Cup,Snowboardcross,50,15.50
-139,Menconi Matteo,Male,04-03-2016,Veysonnaz,SUI,Italy,Qualification,Snowboardcross,50,
-140,Menconi Matteo,Male,04-03-2016,Veysonnaz,SUI,Italy,Qualification,Snowboardcross,44,
-141,Menconi Matteo,Male,13-02-2016,Breuil Cervinia-Valtournenche,ITA,Italy,FIS,Snowboardcross,5,117.00
-142,Menconi Matteo,Male,12-02-2016,Breuil Cervinia-Valtournenche,ITA,Italy,FIS,Snowboardcross,1,260.00
-143,Menconi Matteo,Male,06-02-2016,Sedrun,SUI,Italy,National Championships,Snowboardcross,29,10.44
-144,Menconi Matteo,Male,30-01-2016,Grasgehren,GER,Italy,European Cup,Snowboardcross,39,6.02
-145,Menconi Matteo,Male,12-12-2015,Montafon,AUT,Italy,World Cup,Snowboardcross,57,13.40
-146,Menconi Matteo,Male,11-12-2015,Montafon,AUT,Italy,Qualification,Snowboardcross,57,
-147,Menconi Matteo,Male,26-11-2015,Pitztal,AUT,Italy,European Cup,Snowboardcross,25,30.00
-148,Menconi Matteo,Male,25-11-2015,Pitztal,AUT,Italy,European Cup,Snowboardcross,9,145.00
-149,Menconi Matteo,Male,19-04-2015,Breuil Cervinia,ITA,Italy,FIS,Snowboardcross,1,260.00
-150,Menconi Matteo,Male,18-04-2015,Breuil Cervinia,ITA,Italy,FIS,Snowboardcross,8,83.20
-151,Menconi Matteo,Male,28-03-2015,Bad Gastein,AUT,Italy,European Cup,Snowboardcross,9,116.00
-152,Menconi Matteo,Male,27-03-2015,Bad Gastein,AUT,Italy,European Cup,Snowboardcross,29,14.40
-153,Menconi Matteo,Male,25-03-2015,Canazei,ITA,Italy,National Championships,Snowboardcross,1,360.00
-154,Menconi Matteo,Male,24-03-2015,Canazei,ITA,Italy,FIS,Snowboardcross,13,52.00
-155,Menconi Matteo,Male,21-03-2015,Lenk,SUI,Italy,European Cup,Snowboardcross,20,24.20
-156,Menconi Matteo,Male,20-03-2015,Lenk,SUI,Italy,European Cup,Snowboardcross,8,70.40
-157,Menconi Matteo,Male,07-03-2015,Moena,ITA,Italy,FIS,Snowboardcross,5,117.00
-158,Menconi Matteo,Male,06-03-2015,Moena,ITA,Italy,FIS,Snowboardcross,6,104.00
-159,Menconi Matteo,Male,15-02-2015,Grasgehren,GER,Italy,European Cup,Snowboardcross,87,
-160,Menconi Matteo,Male,14-02-2015,Grasgehren,GER,Italy,European Cup,Snowboardcross,34,11.00
-161,Menconi Matteo,Male,07-02-2015,Cortina d'Ampezzo,ITA,Italy,European Cup,Snowboardcross,21,50.00
-162,Menconi Matteo,Male,07-04-2014,Chiesa in Valmalenco,ITA,Italy,National Championships,Snowboardcross,2,288.00
-163,Menconi Matteo,Male,02-04-2014,Chiesa in Valmalenco,ITA,Italy,FIS Junior World Championships,Snowboardcross,26,20.00
-164,Menconi Matteo,Male,22-03-2014,Lenk,SUI,Italy,European Cup,Snowboardcross,11,69.60
-165,Menconi Matteo,Male,17-03-2014,Puy St Vincent,FRA,Italy,European Cup,Snowboardcross,7,86.40
-166,Menconi Matteo,Male,16-03-2014,Puy St Vincent,FRA,Italy,European Cup,Snowboardcross,4,120.00
-167,Menconi Matteo,Male,02-03-2014,Grasgehren,GER,Italy,Junior,Snowboardcross,2,72.00
-168,Menconi Matteo,Male,09-02-2014,Isola 2000,FRA,Italy,European Cup,Snowboardcross,18,37.70
-169,Menconi Matteo,Male,12-01-2014,Vallnord-Arcalís,AND,Italy,World Cup,Snowboardcross,60,12.50
-170,Menconi Matteo,Male,11-01-2014,Vallnord-Arcalís,AND,Italy,World Cup,Snowboardcross,65,11.00
-171,Menconi Matteo,Male,10-01-2014,Vallnord-Arcalís,AND,Italy,Qualification,Snowboardcross,65,
-172,Menconi Matteo,Male,22-12-2013,Cortina d Ampezzo,ITA,Italy,European Cup,Snowboardcross,17,33.60
-173,Menconi Matteo,Male,21-12-2013,Cortina d Ampezzo,ITA,Italy,European Cup,Snowboardcross,5,108.00
-174,Menconi Matteo,Male,15-12-2013,Montafon,AUT,Italy,European Cup,Snowboardcross,25,19.20
-175,Menconi Matteo,Male,14-12-2013,Montafon,AUT,Italy,European Cup,Snowboardcross,11,120.00
-176,Menconi Matteo,Male,01-12-2013,Breuil Cervinia,ITA,Italy,FIS,Snowboardcross,14,46.80
-177,Menconi Matteo,Male,30-11-2013,Breuil Cervinia,ITA,Italy,FIS,Snowboardcross,15,41.60
-178,Menconi Matteo,Male,02-04-2013,Chiesa in Valmalenco,ITA,Italy,National Championships,Snowboardcross,4,180.00
-179,Menconi Matteo,Male,16-03-2013,Arcalis,AND,Italy,European Cup,Snowboardcross,7,93.60
-180,Menconi Matteo,Male,15-03-2013,Arcalis,AND,Italy,European Cup,Snowboardcross,11,62.40
-181,Menconi Matteo,Male,09-03-2013,Moena Passo Lusia (TN),ITA,Italy,FIS,Snowboardcross,27,0.00
-182,Menconi Matteo,Male,08-03-2013,Moena Passo Lusia (TN),ITA,Italy,FIS,Snowboardcross,3,60.00
-183,Menconi Matteo,Male,03-03-2013,Erzurum,TUR,Italy,FIS Junior World Championships,Snowboardcross,12,88.00
-184,Menconi Matteo,Male,24-02-2013,Grasgehren,GER,Italy,European Cup,Snowboardcross,30,12.80
-185,Menconi Matteo,Male,23-02-2013,Grasgehren,GER,Italy,National Championships,Snowboardcross,40,6.66
-186,Menconi Matteo,Male,26-01-2013,Colere,ITA,Italy,FIS,Snowboardcross,8,83.20
-187,Menconi Matteo,Male,25-01-2013,Colere,ITA,Italy,FIS,Snowboardcross,11,62.40
-188,Menconi Matteo,Male,13-01-2013,Puy St Vincent,FRA,Italy,European Cup,Snowboardcross,54,7.15
-189,Menconi Matteo,Male,12-01-2013,Puy St Vincent,FRA,Italy,European Cup,Snowboardcross,39,9.40
-190,Menconi Matteo,Male,11-01-2013,Puy St Vincent,FRA,Italy,FIS,Snowboardcross,38,
-191,Menconi Matteo,Male,23-12-2012,Cortina d Ampezzo,ITA,Italy,European Cup,Snowboardcross,23,40.00
-192,Menconi Matteo,Male,22-12-2012,Cortina d Ampezzo,ITA,Italy,European Cup,Snowboardcross,33,12.00
-193,Menconi Matteo,Male,03-04-2012,Chiesa in Valmalenco,ITA,Italy,National Championships,Giant Slalom,74,
-194,Menconi Matteo,Male,02-04-2012,Chiesa in Valmalenco,ITA,Italy,National Championships,Snowboardcross,14,64.80
-195,Menconi Matteo,Male,25-03-2012,Sierra Nevada,ESP,Italy,FIS Junior World Championships,Snowboardcross,27,16.20
-196,Menconi Matteo,Male,16-03-2012,Valmalenco,ITA,Italy,World Cup,Snowboardcross,60,0.00
-197,Menconi Matteo,Male,15-03-2012,Valmalenco,ITA,Italy,Qualification,Snowboardcross,60,
-198,Menconi Matteo,Male,14-03-2012,Valmalenco,ITA,Italy,World Cup,Snowboardcross,62,0.00
-199,Menconi Matteo,Male,13-03-2012,Valmalenco,ITA,Italy,Qualification,Snowboardcross,62,
-200,Menconi Matteo,Male,10-03-2012,Moena,ITA,Italy,FIS,Snowboardcross,8,64.00
-201,Menconi Matteo,Male,09-03-2012,Moena,ITA,Italy,FIS,Snowboardcross,5,90.00
-202,Menconi Matteo,Male,04-03-2012,Saalbach,AUT,Italy,European Cup,Snowboardcross,38,8.60
-203,Menconi Matteo,Male,03-03-2012,Saalbach,AUT,Italy,European Cup,Snowboardcross,46,7.52
-204,Menconi Matteo,Male,05-02-2012,Kongsberg,NOR,Italy,European Cup,Snowboardcross,33,4.80
-205,Menconi Matteo,Male,04-02-2012,Kongsberg,NOR,Italy,European Cup,Snowboardcross,37,3.88
-206,Menconi Matteo,Male,29-01-2012,Breuil Cervinia,ITA,Italy,European Cup,Snowboardcross,46,4.84
-207,Menconi Matteo,Male,28-01-2012,Breuil Cervinia,ITA,Italy,European Cup,Snowboardcross,54,4.58
-208,Menconi Matteo,Male,14-01-2012,Sedrun,SUI,Italy,FIS,Snowboardcross,48,4.19
-209,Menconi Matteo,Male,08-01-2012,Puy St. Vincent,FRA,Italy,European Cup,Snowboardcross,62,5.95
-210,Menconi Matteo,Male,07-01-2012,Puy St. Vincent,FRA,Italy,European Cup,Snowboardcross,62,5.95
-211,Menconi Matteo,Male,08-04-2011,Chiesa Valmalenco - Alpe Palu,ITA,Italy,National Championships,Parallel GS,24,25.20
-212,Menconi Matteo,Male,07-04-2011,Chiesa Valmalenco - Alpe Palu,ITA,Italy,National Championships,Snowboardcross,19,43.20
-213,Menconi Matteo,Male,29-03-2011,Valmalenco,ITA,Italy,FIS Junior World Championships,Snowboardcross,50,5.58
-214,Menconi Matteo,Male,19-03-2011,Lenk,SUI,Italy,European Cup,Snowboardcross,38,5.54
-215,Menconi Matteo,Male,18-03-2011,Lenk,SUI,Italy,European Cup,Snowboardcross,58,3.14
-216,Menconi Matteo,Male,05-03-2011,Alpe di Lusia - Moena,ITA,Italy,FIS,Snowboardcross,7,79.20
-217,Menconi Matteo,Male,27-02-2011,Gressoney La Trinité,ITA,Italy,FIS,Snowboardcross,34,5.72
-218,Menconi Matteo,Male,26-02-2011,Gressoney La Trinité,ITA,Italy,FIS,Snowboardcross,32,6.76
-219,Menconi Matteo,Male,17-02-2011,Rejdice,CZE,Italy,European Youth Olympic Festival,Parallel GS,18,6.50
-220,Menconi Matteo,Male,15-02-2011,Rejdice,CZE,Italy,European Youth Olympic Festival,Snowboardcross,1,50.00
-221,Menconi Matteo,Male,30-01-2011,Isola 2000,FRA,Italy,European Cup,Snowboardcross,75,2.88
-222,Menconi Matteo,Male,29-01-2011,Isola 2000,FRA,Italy,European Cup,Snowboardcross,44,6.23
-223,Menconi Matteo,Male,28-01-2011,Isola 2000,FRA,Italy,FIS,Snowboardcross,72,2.31
-224,Menconi Matteo,Male,22-01-2011,Pozza di Fassa,ITA,Italy,FIS,Giant Slalom,16,22.50
-225,Menconi Matteo,Male,09-01-2011,Puy St Vincent,FRA,Italy,FIS,Snowboardcross,85,1.30
-226,Menconi Matteo,Male,08-01-2011,Puy St Vincent,FRA,Italy,European Cup,Snowboardcross,100,0.25
-227,Menconi Matteo,Male,07-01-2011,Puy St Vincent,FRA,Italy,FIS,Snowboardcross,70,
-228,Menconi Matteo,Male,19-12-2010,Cortina d Ampezzo,ITA,Italy,European Cup,Snowboardcross,62,2.86
-229,Menconi Matteo,Male,18-12-2010,Cortina d Ampezzo,ITA,Italy,European Cup,Snowboardcross,70,2.28
-230,Menconi Matteo,Male,11-12-2010,Ratschings/Racines,ITA,Italy,European Cup,Parallel GS,65,3.19
-231,Menconi Matteo,Male,10-12-2010,Ratschings/Racines,ITA,Italy,FIS,Parallel GS,66,2.78
-232,Menconi Matteo,Male,05-12-2010,Welschnofen-Carezza,ITA,Italy,European Cup,Parallel Slalom,63,4.64
-233,Menconi Matteo,Male,04-12-2010,Welschnofen-Carezza,ITA,Italy,European Cup,Parallel GS,70,3.80
-234,Menconi Matteo,Male,23-03-2010,Canazei,ITA,Italy,National Championships,Snowboardcross,35,3.60
-235,Menconi Matteo,Male,23-03-2010,Pozza di Fassa,ITA,Italy,National Championships,Giant Slalom,31,8.12
-236,Menconi Matteo,Male,22-03-2010,Canazei,ITA,Italy,FIS,Snowboardcross,36,2.96
+0,Menconi Matteo,Male,01-03-2025,Erzurum,TUR,Italy,World Cup,Snowboard Cross,38,
+1,Menconi Matteo,Male,28-02-2025,Erzurum,TUR,Italy,Qualification,Snowboard Cross,38,
+2,Menconi Matteo,Male,15-02-2025,Cortina d'Ampezzo,ITA,Italy,Qualification,Snowboard Cross,DNS2,
+3,Menconi Matteo,Male,15-02-2025,Cortina d'Ampezzo,ITA,Italy,World Cup,Snowboard Cross,DNS2,
+4,Menconi Matteo,Male,02-02-2025,Beidahu,CHN,Italy,World Cup,Snowboard Cross,50,
+5,Menconi Matteo,Male,02-02-2025,Beidahu,CHN,Italy,Qualification,Snowboard Cross,50,
+6,Menconi Matteo,Male,01-02-2025,Beidahu,CHN,Italy,World Cup,Snowboard Cross,40,18.50
+7,Menconi Matteo,Male,31-01-2025,Beidahu,CHN,Italy,Qualification,Snowboard Cross,40,
+8,Menconi Matteo,Male,14-12-2024,Cervinia,ITA,Italy,World Cup,Snowboard Cross,28,40.00
+9,Menconi Matteo,Male,13-12-2024,Cervinia,ITA,Italy,Qualification,Snowboard Cross,17,
+10,Menconi Matteo,Male,30-03-2024,Colere,ITA,Italy,National Championships,Snowboard Cross,25,17.40
+11,Menconi Matteo,Male,22-03-2024,Lenk,SUI,Italy,European Cup,Snowboard Cross,1,240.00
+12,Menconi Matteo,Male,21-03-2024,Lenk,SUI,Italy,European Cup,Snowboard Cross,2,192.00
+13,Menconi Matteo,Male,17-03-2024,Montafon,AUT,Italy,World Cup,Snowboard Cross,48,16.10
+14,Menconi Matteo,Male,16-03-2024,Montafon,AUT,Italy,World Cup,Snowboard Cross,24,70.00
+15,Menconi Matteo,Male,15-03-2024,Montafon,AUT,Italy,Qualification,Snowboard Cross,32,
+16,Menconi Matteo,Male,09-03-2024,Cortina d'Ampezzo,ITA,Italy,World Cup,Snowboard Cross,38,19.10
+17,Menconi Matteo,Male,08-03-2024,Cortina d'Ampezzo,ITA,Italy,Qualification,Snowboard Cross,38,
+18,Menconi Matteo,Male,03-03-2024,Sierra Nevada,ESP,Italy,World Cup,Snowboard Cross,43,17.60
+19,Menconi Matteo,Male,02-03-2024,Sierra Nevada,ESP,Italy,World Cup,Snowboard Cross,24,70.00
+20,Menconi Matteo,Male,01-03-2024,Sierra Nevada,ESP,Italy,Qualification,Snowboard Cross,29,
+21,Menconi Matteo,Male,04-02-2024,Gudauri,GEO,Italy,World Cup,Snowboard Cross,42,17.90
+22,Menconi Matteo,Male,03-02-2024,Gudauri,GEO,Italy,World Cup,Snowboard Cross,28,40.00
+23,Menconi Matteo,Male,02-02-2024,Gudauri,GEO,Italy,Qualification,Snowboard Cross,25,
+24,Menconi Matteo,Male,26-01-2024,St. Moritz,SUI,Italy,World Cup,Snowboard Cross,32,26.00
+25,Menconi Matteo,Male,25-01-2024,St. Moritz,SUI,Italy,Qualification,Snowboard Cross,31,
+26,Menconi Matteo,Male,16-12-2023,Cervinia,ITA,Italy,World Cup,Snowboard Cross,51,15.20
+27,Menconi Matteo,Male,03-12-2023,Les Deux Alpes,FRA,Italy,Qualification,Snowboard Cross,19,
+28,Menconi Matteo,Male,03-12-2023,Les Deux Alpes,FRA,Italy,World Cup,Snowboard Cross,27,45.00
+29,Menconi Matteo,Male,02-04-2023,Moena - Passo San Pellegrino,ITA,Italy,National Championships,Snowboard Cross,3,174.00
+30,Menconi Matteo,Male,26-03-2023,Mt. St. Anne,CAN,Italy,World Cup,Snowboard Cross,33,24.00
+31,Menconi Matteo,Male,25-03-2023,Mt. St. Anne,CAN,Italy,World Cup,Snowboard Cross,28,40.00
+32,Menconi Matteo,Male,24-03-2023,Mt. St. Anne,CAN,Italy,Qualification,Snowboard Cross,27,
+33,Menconi Matteo,Male,16-03-2023,Veysonnaz,SUI,Italy,World Cup,Snowboard Cross,15,160.00
+34,Menconi Matteo,Male,15-03-2023,Veysonnaz,SUI,Italy,Qualification,Snowboard Cross,30,
+35,Menconi Matteo,Male,12-03-2023,Sierra Nevada,ESP,Italy,World Cup,Snowboard Cross,13,200.00
+36,Menconi Matteo,Male,11-03-2023,Sierra Nevada,ESP,Italy,World Cup,Snowboard Cross,13,200.00
+37,Menconi Matteo,Male,04-02-2023,Cortina d'Ampezzo,ITA,Italy,World Cup,Snowboard Cross,53,
+38,Menconi Matteo,Male,03-02-2023,Cortina d'Ampezzo,ITA,Italy,Qualification,Snowboard Cross,53,
+39,Menconi Matteo,Male,02-04-2022,Passo San Pellegrino,ITA,Italy,National Championships,Snowboard Cross,2,232.00
+40,Menconi Matteo,Male,29-01-2022,Cortina d'Ampezzo,ITA,Italy,Qualification,Snowboard Cross,28,
+41,Menconi Matteo,Male,29-01-2022,Cortina d'Ampezzo,ITA,Italy,World Cup,Snowboard Cross,32,26.00
+42,Menconi Matteo,Male,08-01-2022,Krasnoyarsk,RUS,Italy,World Cup,Snowboard Cross,39,18.80
+43,Menconi Matteo,Male,07-01-2022,Krasnoyarsk,RUS,Italy,Qualification,Snowboard Cross,39,
+44,Menconi Matteo,Male,18-12-2021,Cervinia,ITA,Italy,World Cup,Snowboard Cross,18,130.00
+45,Menconi Matteo,Male,17-12-2021,Cervinia,ITA,Italy,Qualification,Snowboard Cross,7,
+46,Menconi Matteo,Male,10-12-2021,Montafon,AUT,Italy,World Cup,Snowboard Cross,14,180.00
+47,Menconi Matteo,Male,09-12-2021,Montafon,AUT,Italy,Qualification,Snowboard Cross,5,
+48,Menconi Matteo,Male,28-11-2021,Secret Garden,CHN,Italy,World Cup,Snowboard Cross,30,32.00
+49,Menconi Matteo,Male,26-11-2021,Secret Garden,CHN,Italy,Qualification,Snowboard Cross,28,
+50,Menconi Matteo,Male,10-04-2021,Colere,ITA,Italy,National Championships,Snowboard Cross,8,64.00
+51,Menconi Matteo,Male,12-03-2021,Lenk,SUI,Italy,European Cup,Snowboard Cross,20,26.40
+52,Menconi Matteo,Male,07-03-2021,Montafon/Gargellen,AUT,Italy,European Cup,Snowboard Cross,25,10.80
+53,Menconi Matteo,Male,06-03-2021,Montafon/Gargellen,AUT,Italy,European Cup,Snowboard Cross,4,90.00
+54,Menconi Matteo,Male,28-02-2021,Reiteralm,AUT,Italy,European Cup,Snowboard Cross,3,108.00
+55,Menconi Matteo,Male,27-02-2021,Reiteralm,AUT,Italy,European Cup,Snowboard Cross,3,108.00
+56,Menconi Matteo,Male,18-02-2021,Reiteralm,AUT,Italy,World Cup,Snowboard Cross,59,
+57,Menconi Matteo,Male,16-02-2021,Reiteralm,AUT,Italy,Qualification,Snowboard Cross,59,
+58,Menconi Matteo,Male,13-02-2021,Chiesa in Valmalenco,ITA,Italy,European Cup,Snowboard Cross,8,83.20
+59,Menconi Matteo,Male,12-02-2021,Chiesa in Valmalenco,ITA,Italy,European Cup,Snowboard Cross,26,13.00
+60,Menconi Matteo,Male,03-02-2021,Isola 2000,FRA,Italy,European Cup,Snowboard Cross,1,160.00
+61,Menconi Matteo,Male,31-01-2021,Isola 2000,FRA,Italy,European Cup,Snowboard Cross,22,23.40
+62,Menconi Matteo,Male,30-01-2021,Isola 2000,FRA,Italy,European Cup,Snowboard Cross,52,5.36
+63,Menconi Matteo,Male,24-01-2021,Chiesa in Valmalenco,ITA,Italy,World Cup,Snowboard Cross,49,15.80
+64,Menconi Matteo,Male,23-01-2021,Chiesa in Valmalenco,ITA,Italy,World Cup,Snowboard Cross,44,17.30
+65,Menconi Matteo,Male,22-01-2021,Chiesa in Valmalenco,ITA,Italy,Qualification,Snowboard Cross,44,
+66,Menconi Matteo,Male,17-01-2021,Colere,ITA,Italy,FIS,Snowboard Cross,5,90.00
+67,Menconi Matteo,Male,16-01-2021,Colere,ITA,Italy,FIS,Snowboard Cross,10,52.00
+68,Menconi Matteo,Male,07-03-2020,Sierra Nevada,ESP,Italy,Qualification,Snowboard Cross,33,
+69,Menconi Matteo,Male,07-03-2020,Sierra Nevada,ESP,Italy,World Cup,Snowboard Cross,33,24.00
+70,Menconi Matteo,Male,22-02-2020,Grasgehren,GER,Italy,European Cup,Snowboard Cross,3,216.00
+71,Menconi Matteo,Male,26-01-2020,Big White,CAN,Italy,World Cup,Snowboard Cross,39,18.80
+72,Menconi Matteo,Male,25-01-2020,Big White,CAN,Italy,World Cup,Snowboard Cross,17,140.00
+73,Menconi Matteo,Male,24-01-2020,Big White,CAN,Italy,Qualification,Snowboard Cross,3,
+74,Menconi Matteo,Male,21-12-2019,Cervinia,ITA,Italy,World Cup,Snowboard Cross,29,36.00
+75,Menconi Matteo,Male,13-12-2019,Montafon,AUT,Italy,World Cup,Snowboard Cross,27,45.00
+76,Menconi Matteo,Male,12-12-2019,Montafon,AUT,Italy,Qualification,Snowboard Cross,23,
+77,Menconi Matteo,Male,28-11-2019,Pitztal,AUT,Italy,European Cup,Snowboard Cross,33,8.64
+78,Menconi Matteo,Male,29-03-2019,Piancavallo,ITA,Italy,National Championships,Snowboard Cross,1,290.00
+79,Menconi Matteo,Male,23-03-2019,Lenk,SUI,Italy,European Cup,Snowboard Cross,5,162.00
+80,Menconi Matteo,Male,22-03-2019,Lenk,SUI,Italy,European Cup,Snowboard Cross,6,144.00
+81,Menconi Matteo,Male,02-03-2019,Baqueira Beret,ESP,Italy,World Cup,Snowboard Cross,46,16.70
+82,Menconi Matteo,Male,01-03-2019,Baqueira Beret,ESP,Italy,Qualification,Snowboard Cross,46,
+83,Menconi Matteo,Male,09-02-2019,Feldberg,GER,Italy,World Cup,Snowboard Cross,22,90.00
+84,Menconi Matteo,Male,08-02-2019,Feldberg,GER,Italy,Qualification,Snowboard Cross,16,
+85,Menconi Matteo,Male,29-01-2019,Val Thorens,FRA,Italy,European Cup,Snowboard Cross,15,51.20
+86,Menconi Matteo,Male,20-01-2019,Grasgehren,GER,Italy,European Cup,Snowboard Cross,6,144.00
+87,Menconi Matteo,Male,19-01-2019,Grasgehren,GER,Italy,European Cup,Snowboard Cross,8,115.20
+88,Menconi Matteo,Male,13-01-2019,Puy St. Vincent,FRA,Italy,European Cup,Snowboard Cross,17,44.80
+89,Menconi Matteo,Male,12-01-2019,Puy St. Vincent,FRA,Italy,European Cup,Snowboard Cross,9,92.80
+90,Menconi Matteo,Male,22-12-2018,Cervinia,ITA,Italy,World Cup,Snowboard Cross,55,14.00
+91,Menconi Matteo,Male,21-12-2018,Cervinia,ITA,Italy,World Cup,Snowboard Cross,48,16.10
+92,Menconi Matteo,Male,20-12-2018,Cervinia,ITA,Italy,Qualification,Snowboard Cross,46,
+93,Menconi Matteo,Male,08-04-2018,Bad Gastein,AUT,Italy,FIS,Snowboard Cross,5,90.00
+94,Menconi Matteo,Male,07-04-2018,Bad Gastein,AUT,Italy,European Cup,Snowboard Cross,6,88.00
+95,Menconi Matteo,Male,21-03-2018,Veysonnaz,SUI,Italy,European Cup,Snowboard Cross,2,208.00
+96,Menconi Matteo,Male,20-03-2018,Veysonnaz,SUI,Italy,European Cup,Snowboard Cross,21,26.00
+97,Menconi Matteo,Male,17-03-2018,Veysonnaz,SUI,Italy,World Cup,Snowboard Cross,48,16.10
+98,Menconi Matteo,Male,16-03-2018,Veysonnaz,SUI,Italy,Qualification,Snowboard Cross,48,
+99,Menconi Matteo,Male,10-03-2018,Lenk,SUI,Italy,European Cup,Snowboard Cross,5,117.00
+100,Menconi Matteo,Male,09-03-2018,Lenk,SUI,Italy,European Cup,Snowboard Cross,8,83.20
+101,Menconi Matteo,Male,06-03-2018,Moena,ITA,Italy,National Championships,Snowboard Cross,1,160.00
+102,Menconi Matteo,Male,03-03-2018,La Molina,ESP,Italy,World Cup,Snowboard Cross,34,22.00
+103,Menconi Matteo,Male,02-03-2018,La Molina,ESP,Italy,Qualification,Snowboard Cross,34,
+104,Menconi Matteo,Male,04-02-2018,Puy St. Vincent,FRA,Italy,European Cup,Snowboard Cross,25,13.20
+105,Menconi Matteo,Male,03-02-2018,Puy St. Vincent,FRA,Italy,European Cup,Snowboard Cross,5,99.00
+106,Menconi Matteo,Male,28-01-2018,Grasgehren,GER,Italy,European Cup,Snowboard Cross,13,44.00
+107,Menconi Matteo,Male,27-01-2018,Grasgehren,GER,Italy,European Cup,Snowboard Cross,3,132.00
+108,Menconi Matteo,Male,14-01-2018,Isola 2000,FRA,Italy,European Cup,Snowboard Cross,17,30.80
+109,Menconi Matteo,Male,13-01-2018,Isola 2000,FRA,Italy,European Cup,Snowboard Cross,19,26.40
+110,Menconi Matteo,Male,22-12-2017,Cervinia,ITA,Italy,World Cup,Snowboard Cross,54,14.30
+111,Menconi Matteo,Male,21-12-2017,Cervinia,ITA,Italy,Qualification,Snowboard Cross,54,
+112,Menconi Matteo,Male,30-11-2017,Pitztal,AUT,Italy,European Cup,Snowboard Cross,25,21.60
+113,Menconi Matteo,Male,29-11-2017,Pitztal,AUT,Italy,European Cup,Snowboard Cross,27,16.20
+114,Menconi Matteo,Male,08-04-2017,Cervinia,ITA,Italy,National Championships,Snowboardcross,3,174.00
+115,Menconi Matteo,Male,25-03-2017,Veysonnaz,SUI,Italy,World Cup,Snowboardcross,32,26.00
+116,Menconi Matteo,Male,24-03-2017,Veysonnaz,SUI,Italy,Qualification,Snowboardcross,46,
+117,Menconi Matteo,Male,17-03-2017,Lenk,SUI,Italy,European Cup,Snowboardcross,27,16.20
+118,Menconi Matteo,Male,05-03-2017,La Molina,ESP,Italy,World Cup,Snowboardcross,55,14.00
+119,Menconi Matteo,Male,04-03-2017,La Molina,ESP,Italy,Qualification,Snowboardcross,55,
+120,Menconi Matteo,Male,25-02-2017,Colere,ITA,Italy,European Cup,Snowboardcross,19,34.80
+121,Menconi Matteo,Male,24-02-2017,Colere,ITA,Italy,European Cup,Snowboardcross,22,26.10
+122,Menconi Matteo,Male,12-02-2017,Feldberg,GER,Italy,World Cup,Snowboardcross,23,80.00
+123,Menconi Matteo,Male,11-02-2017,Feldberg,GER,Italy,World Cup,Snowboardcross,DNS,
+124,Menconi Matteo,Male,10-02-2017,Feldberg,GER,Italy,Qualification,Snowboardcross,DNS,
+125,Menconi Matteo,Male,03-02-2017,Puy St. Vincent,FRA,Italy,European Cup,Snowboardcross,24,
+126,Menconi Matteo,Male,29-01-2017,Grasgehren,GER,Italy,European Cup,Snowboardcross,32,5.72
+127,Menconi Matteo,Male,28-01-2017,Grasgehren,GER,Italy,European Cup,Snowboardcross,10,93.60
+128,Menconi Matteo,Male,16-12-2016,Val Thorens,FRA,Italy,European Cup,Snowboardcross,6,80.00
+129,Menconi Matteo,Male,15-12-2016,Val Thorens,FRA,Italy,European Cup,Snowboardcross,2,160.00
+130,Menconi Matteo,Male,01-12-2016,Pitztal,AUT,Italy,European Cup,Snowboardcross,49,5.69
+131,Menconi Matteo,Male,30-11-2016,Pitztal,AUT,Italy,European Cup,Snowboardcross,12,79.20
+132,Menconi Matteo,Male,09-04-2016,Bad Gastein,AUT,Italy,European Cup,Snowboardcross,13,72.00
+133,Menconi Matteo,Male,08-04-2016,Bad Gastein,AUT,Italy,European Cup,Snowboardcross,13,72.00
+134,Menconi Matteo,Male,06-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Snowboardcross,9,104.40
+135,Menconi Matteo,Male,19-03-2016,Lenk,SUI,Italy,European Cup,Snowboardcross,34,4.84
+136,Menconi Matteo,Male,18-03-2016,Lenk,SUI,Italy,European Cup,Snowboardcross,12,48.40
+137,Menconi Matteo,Male,13-03-2016,Puy St. Vincent,FRA,Italy,European Cup,Snowboardcross,19,60.00
+138,Menconi Matteo,Male,12-03-2016,Puy St. Vincent,FRA,Italy,European Cup,Snowboardcross,29,16.20
+139,Menconi Matteo,Male,06-03-2016,Veysonnaz,SUI,Italy,World Cup,Snowboardcross,45,17.00
+140,Menconi Matteo,Male,05-03-2016,Veysonnaz,SUI,Italy,World Cup,Snowboardcross,50,15.50
+141,Menconi Matteo,Male,04-03-2016,Veysonnaz,SUI,Italy,Qualification,Snowboardcross,50,
+142,Menconi Matteo,Male,04-03-2016,Veysonnaz,SUI,Italy,Qualification,Snowboardcross,44,
+143,Menconi Matteo,Male,13-02-2016,Breuil Cervinia-Valtournenche,ITA,Italy,FIS,Snowboardcross,5,117.00
+144,Menconi Matteo,Male,12-02-2016,Breuil Cervinia-Valtournenche,ITA,Italy,FIS,Snowboardcross,1,260.00
+145,Menconi Matteo,Male,06-02-2016,Sedrun,SUI,Italy,National Championships,Snowboardcross,29,10.44
+146,Menconi Matteo,Male,30-01-2016,Grasgehren,GER,Italy,European Cup,Snowboardcross,39,6.02
+147,Menconi Matteo,Male,12-12-2015,Montafon,AUT,Italy,World Cup,Snowboardcross,57,13.40
+148,Menconi Matteo,Male,11-12-2015,Montafon,AUT,Italy,Qualification,Snowboardcross,57,
+149,Menconi Matteo,Male,26-11-2015,Pitztal,AUT,Italy,European Cup,Snowboardcross,25,30.00
+150,Menconi Matteo,Male,25-11-2015,Pitztal,AUT,Italy,European Cup,Snowboardcross,9,145.00
+151,Menconi Matteo,Male,19-04-2015,Breuil Cervinia,ITA,Italy,FIS,Snowboardcross,1,260.00
+152,Menconi Matteo,Male,18-04-2015,Breuil Cervinia,ITA,Italy,FIS,Snowboardcross,8,83.20
+153,Menconi Matteo,Male,28-03-2015,Bad Gastein,AUT,Italy,European Cup,Snowboardcross,9,116.00
+154,Menconi Matteo,Male,27-03-2015,Bad Gastein,AUT,Italy,European Cup,Snowboardcross,29,14.40
+155,Menconi Matteo,Male,25-03-2015,Canazei,ITA,Italy,National Championships,Snowboardcross,1,360.00
+156,Menconi Matteo,Male,24-03-2015,Canazei,ITA,Italy,FIS,Snowboardcross,13,52.00
+157,Menconi Matteo,Male,21-03-2015,Lenk,SUI,Italy,European Cup,Snowboardcross,20,24.20
+158,Menconi Matteo,Male,20-03-2015,Lenk,SUI,Italy,European Cup,Snowboardcross,8,70.40
+159,Menconi Matteo,Male,07-03-2015,Moena,ITA,Italy,FIS,Snowboardcross,5,117.00
+160,Menconi Matteo,Male,06-03-2015,Moena,ITA,Italy,FIS,Snowboardcross,6,104.00
+161,Menconi Matteo,Male,15-02-2015,Grasgehren,GER,Italy,European Cup,Snowboardcross,87,
+162,Menconi Matteo,Male,14-02-2015,Grasgehren,GER,Italy,European Cup,Snowboardcross,34,11.00
+163,Menconi Matteo,Male,07-02-2015,Cortina d'Ampezzo,ITA,Italy,European Cup,Snowboardcross,21,50.00
+164,Menconi Matteo,Male,07-04-2014,Chiesa in Valmalenco,ITA,Italy,National Championships,Snowboardcross,2,288.00
+165,Menconi Matteo,Male,02-04-2014,Chiesa in Valmalenco,ITA,Italy,FIS Junior World Championships,Snowboardcross,26,20.00
+166,Menconi Matteo,Male,22-03-2014,Lenk,SUI,Italy,European Cup,Snowboardcross,11,69.60
+167,Menconi Matteo,Male,17-03-2014,Puy St Vincent,FRA,Italy,European Cup,Snowboardcross,7,86.40
+168,Menconi Matteo,Male,16-03-2014,Puy St Vincent,FRA,Italy,European Cup,Snowboardcross,4,120.00
+169,Menconi Matteo,Male,02-03-2014,Grasgehren,GER,Italy,Junior,Snowboardcross,2,72.00
+170,Menconi Matteo,Male,09-02-2014,Isola 2000,FRA,Italy,European Cup,Snowboardcross,18,37.70
+171,Menconi Matteo,Male,12-01-2014,Vallnord-Arcalís,AND,Italy,World Cup,Snowboardcross,60,12.50
+172,Menconi Matteo,Male,11-01-2014,Vallnord-Arcalís,AND,Italy,World Cup,Snowboardcross,65,11.00
+173,Menconi Matteo,Male,10-01-2014,Vallnord-Arcalís,AND,Italy,Qualification,Snowboardcross,65,
+174,Menconi Matteo,Male,22-12-2013,Cortina d Ampezzo,ITA,Italy,European Cup,Snowboardcross,17,33.60
+175,Menconi Matteo,Male,21-12-2013,Cortina d Ampezzo,ITA,Italy,European Cup,Snowboardcross,5,108.00
+176,Menconi Matteo,Male,15-12-2013,Montafon,AUT,Italy,European Cup,Snowboardcross,25,19.20
+177,Menconi Matteo,Male,14-12-2013,Montafon,AUT,Italy,European Cup,Snowboardcross,11,120.00
+178,Menconi Matteo,Male,01-12-2013,Breuil Cervinia,ITA,Italy,FIS,Snowboardcross,14,46.80
+179,Menconi Matteo,Male,30-11-2013,Breuil Cervinia,ITA,Italy,FIS,Snowboardcross,15,41.60
+180,Menconi Matteo,Male,02-04-2013,Chiesa in Valmalenco,ITA,Italy,National Championships,Snowboardcross,4,180.00
+181,Menconi Matteo,Male,16-03-2013,Arcalis,AND,Italy,European Cup,Snowboardcross,7,93.60
+182,Menconi Matteo,Male,15-03-2013,Arcalis,AND,Italy,European Cup,Snowboardcross,11,62.40
+183,Menconi Matteo,Male,09-03-2013,Moena Passo Lusia (TN),ITA,Italy,FIS,Snowboardcross,27,0.00
+184,Menconi Matteo,Male,08-03-2013,Moena Passo Lusia (TN),ITA,Italy,FIS,Snowboardcross,3,60.00
+185,Menconi Matteo,Male,03-03-2013,Erzurum,TUR,Italy,FIS Junior World Championships,Snowboardcross,12,88.00
+186,Menconi Matteo,Male,24-02-2013,Grasgehren,GER,Italy,European Cup,Snowboardcross,30,12.80
+187,Menconi Matteo,Male,23-02-2013,Grasgehren,GER,Italy,National Championships,Snowboardcross,40,6.66
+188,Menconi Matteo,Male,26-01-2013,Colere,ITA,Italy,FIS,Snowboardcross,8,83.20
+189,Menconi Matteo,Male,25-01-2013,Colere,ITA,Italy,FIS,Snowboardcross,11,62.40
+190,Menconi Matteo,Male,13-01-2013,Puy St Vincent,FRA,Italy,European Cup,Snowboardcross,54,7.15
+191,Menconi Matteo,Male,12-01-2013,Puy St Vincent,FRA,Italy,European Cup,Snowboardcross,39,9.40
+192,Menconi Matteo,Male,11-01-2013,Puy St Vincent,FRA,Italy,FIS,Snowboardcross,38,
+193,Menconi Matteo,Male,23-12-2012,Cortina d Ampezzo,ITA,Italy,European Cup,Snowboardcross,23,40.00
+194,Menconi Matteo,Male,22-12-2012,Cortina d Ampezzo,ITA,Italy,European Cup,Snowboardcross,33,12.00
+195,Menconi Matteo,Male,03-04-2012,Chiesa in Valmalenco,ITA,Italy,National Championships,Giant Slalom,74,
+196,Menconi Matteo,Male,02-04-2012,Chiesa in Valmalenco,ITA,Italy,National Championships,Snowboardcross,14,64.80
+197,Menconi Matteo,Male,25-03-2012,Sierra Nevada,ESP,Italy,FIS Junior World Championships,Snowboardcross,27,16.20
+198,Menconi Matteo,Male,16-03-2012,Valmalenco,ITA,Italy,World Cup,Snowboardcross,60,0.00
+199,Menconi Matteo,Male,15-03-2012,Valmalenco,ITA,Italy,Qualification,Snowboardcross,60,
+200,Menconi Matteo,Male,14-03-2012,Valmalenco,ITA,Italy,World Cup,Snowboardcross,62,0.00
+201,Menconi Matteo,Male,13-03-2012,Valmalenco,ITA,Italy,Qualification,Snowboardcross,62,
+202,Menconi Matteo,Male,10-03-2012,Moena,ITA,Italy,FIS,Snowboardcross,8,64.00
+203,Menconi Matteo,Male,09-03-2012,Moena,ITA,Italy,FIS,Snowboardcross,5,90.00
+204,Menconi Matteo,Male,04-03-2012,Saalbach,AUT,Italy,European Cup,Snowboardcross,38,8.60
+205,Menconi Matteo,Male,03-03-2012,Saalbach,AUT,Italy,European Cup,Snowboardcross,46,7.52
+206,Menconi Matteo,Male,05-02-2012,Kongsberg,NOR,Italy,European Cup,Snowboardcross,33,4.80
+207,Menconi Matteo,Male,04-02-2012,Kongsberg,NOR,Italy,European Cup,Snowboardcross,37,3.88
+208,Menconi Matteo,Male,29-01-2012,Breuil Cervinia,ITA,Italy,European Cup,Snowboardcross,46,4.84
+209,Menconi Matteo,Male,28-01-2012,Breuil Cervinia,ITA,Italy,European Cup,Snowboardcross,54,4.58
+210,Menconi Matteo,Male,14-01-2012,Sedrun,SUI,Italy,FIS,Snowboardcross,48,4.19
+211,Menconi Matteo,Male,08-01-2012,Puy St. Vincent,FRA,Italy,European Cup,Snowboardcross,62,5.95
+212,Menconi Matteo,Male,07-01-2012,Puy St. Vincent,FRA,Italy,European Cup,Snowboardcross,62,5.95
+213,Menconi Matteo,Male,08-04-2011,Chiesa Valmalenco - Alpe Palu,ITA,Italy,National Championships,Parallel GS,24,25.20
+214,Menconi Matteo,Male,07-04-2011,Chiesa Valmalenco - Alpe Palu,ITA,Italy,National Championships,Snowboardcross,19,43.20
+215,Menconi Matteo,Male,29-03-2011,Valmalenco,ITA,Italy,FIS Junior World Championships,Snowboardcross,50,5.58
+216,Menconi Matteo,Male,19-03-2011,Lenk,SUI,Italy,European Cup,Snowboardcross,38,5.54
+217,Menconi Matteo,Male,18-03-2011,Lenk,SUI,Italy,European Cup,Snowboardcross,58,3.14
+218,Menconi Matteo,Male,05-03-2011,Alpe di Lusia - Moena,ITA,Italy,FIS,Snowboardcross,7,79.20
+219,Menconi Matteo,Male,27-02-2011,Gressoney La Trinité,ITA,Italy,FIS,Snowboardcross,34,5.72
+220,Menconi Matteo,Male,26-02-2011,Gressoney La Trinité,ITA,Italy,FIS,Snowboardcross,32,6.76
+221,Menconi Matteo,Male,17-02-2011,Rejdice,CZE,Italy,European Youth Olympic Festival,Parallel GS,18,6.50
+222,Menconi Matteo,Male,15-02-2011,Rejdice,CZE,Italy,European Youth Olympic Festival,Snowboardcross,1,50.00
+223,Menconi Matteo,Male,30-01-2011,Isola 2000,FRA,Italy,European Cup,Snowboardcross,75,2.88
+224,Menconi Matteo,Male,29-01-2011,Isola 2000,FRA,Italy,European Cup,Snowboardcross,44,6.23
+225,Menconi Matteo,Male,28-01-2011,Isola 2000,FRA,Italy,FIS,Snowboardcross,72,2.31
+226,Menconi Matteo,Male,22-01-2011,Pozza di Fassa,ITA,Italy,FIS,Giant Slalom,16,22.50
+227,Menconi Matteo,Male,09-01-2011,Puy St Vincent,FRA,Italy,FIS,Snowboardcross,85,1.30
+228,Menconi Matteo,Male,08-01-2011,Puy St Vincent,FRA,Italy,European Cup,Snowboardcross,100,0.25
+229,Menconi Matteo,Male,07-01-2011,Puy St Vincent,FRA,Italy,FIS,Snowboardcross,70,
+230,Menconi Matteo,Male,19-12-2010,Cortina d Ampezzo,ITA,Italy,European Cup,Snowboardcross,62,2.86
+231,Menconi Matteo,Male,18-12-2010,Cortina d Ampezzo,ITA,Italy,European Cup,Snowboardcross,70,2.28
+232,Menconi Matteo,Male,11-12-2010,Ratschings/Racines,ITA,Italy,European Cup,Parallel GS,65,3.19
+233,Menconi Matteo,Male,10-12-2010,Ratschings/Racines,ITA,Italy,FIS,Parallel GS,66,2.78
+234,Menconi Matteo,Male,05-12-2010,Welschnofen-Carezza,ITA,Italy,European Cup,Parallel Slalom,63,4.64
+235,Menconi Matteo,Male,04-12-2010,Welschnofen-Carezza,ITA,Italy,European Cup,Parallel GS,70,3.80
+236,Menconi Matteo,Male,23-03-2010,Canazei,ITA,Italy,National Championships,Snowboardcross,35,3.60
+237,Menconi Matteo,Male,23-03-2010,Pozza di Fassa,ITA,Italy,National Championships,Giant Slalom,31,8.12
+238,Menconi Matteo,Male,22-03-2010,Canazei,ITA,Italy,FIS,Snowboardcross,36,2.96

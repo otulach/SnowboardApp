@@ -1,200 +1,204 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Malovanna Oleksandra,Female,04-02-2025,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,4,100.00
-1,Malovanna Oleksandra,Female,03-02-2025,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,2,160.00
-2,Malovanna Oleksandra,Female,22-01-2025,Bansko,BUL,Ukraine,European Cup,Parallel Giant Slalom,20,39.60
-3,Malovanna Oleksandra,Female,21-01-2025,Bansko,BUL,Ukraine,European Cup,Parallel Giant Slalom,26,18.00
-4,Malovanna Oleksandra,Female,19-01-2025,Bansko,BUL,Ukraine,Qualification,Parallel Giant Slalom,50,
-5,Malovanna Oleksandra,Female,19-01-2025,Bansko,BUL,Ukraine,World Cup,Parallel Giant Slalom,50,15.50
-6,Malovanna Oleksandra,Female,18-01-2025,Bansko,BUL,Ukraine,Qualification,Parallel Giant Slalom,52,
-7,Malovanna Oleksandra,Female,18-01-2025,Bansko,BUL,Ukraine,World Cup,Parallel Giant Slalom,52,14.90
-8,Malovanna Oleksandra,Female,14-01-2025,Bad Gastein,AUT,Ukraine,Qualification,Parallel Slalom,44,
-9,Malovanna Oleksandra,Female,14-01-2025,Bad Gastein,AUT,Ukraine,World Cup,Parallel Slalom,44,17.30
-10,Malovanna Oleksandra,Female,11-01-2025,Scuol,SUI,Ukraine,Qualification,Parallel Giant Slalom,29,
-11,Malovanna Oleksandra,Female,11-01-2025,Scuol,SUI,Ukraine,World Cup,Parallel Giant Slalom,29,36.00
-12,Malovanna Oleksandra,Female,21-12-2024,Davos,SUI,Ukraine,Qualification,Parallel Slalom,36,
-13,Malovanna Oleksandra,Female,21-12-2024,Davos,SUI,Ukraine,World Cup,Parallel Slalom,36,19.70
-14,Malovanna Oleksandra,Female,14-12-2024,Cortina d'Ampezzo,ITA,Ukraine,Qualification,Parallel Giant Slalom,41,
-15,Malovanna Oleksandra,Female,14-12-2024,Cortina d'Ampezzo,ITA,Ukraine,World Cup,Parallel Giant Slalom,41,18.20
-16,Malovanna Oleksandra,Female,12-12-2024,Carezza,ITA,Ukraine,Qualification,Parallel Giant Slalom,37,
-17,Malovanna Oleksandra,Female,12-12-2024,Carezza,ITA,Ukraine,World Cup,Parallel Giant Slalom,37,19.40
-18,Malovanna Oleksandra,Female,08-12-2024,Yanqing (NASC),CHN,Ukraine,World Cup,Parallel Slalom,29,36.00
-19,Malovanna Oleksandra,Female,08-12-2024,Yanqing (NASC),CHN,Ukraine,Qualification,Parallel Slalom,29,
-20,Malovanna Oleksandra,Female,07-12-2024,Yanqing (NASC),CHN,Ukraine,World Cup,Parallel Giant Slalom,36,19.70
-21,Malovanna Oleksandra,Female,07-12-2024,Yanqing (NASC),CHN,Ukraine,Qualification,Parallel Giant Slalom,36,
-22,Malovanna Oleksandra,Female,01-12-2024,Mylin,CHN,Ukraine,World Cup,Parallel Slalom,40,
-23,Malovanna Oleksandra,Female,01-12-2024,Mylin,CHN,Ukraine,Qualification,Parallel Slalom,40,
-24,Malovanna Oleksandra,Female,30-11-2024,Mylin,CHN,Ukraine,World Cup,Parallel Giant Slalom,41,
-25,Malovanna Oleksandra,Female,30-11-2024,Mylin,CHN,Ukraine,Qualification,Parallel Giant Slalom,41,
-26,Malovanna Oleksandra,Female,17-03-2024,St. Moritz,SUI,Ukraine,European Cup,Parallel Slalom,DSQ,
-27,Malovanna Oleksandra,Female,16-03-2024,St. Moritz,SUI,Ukraine,European Cup,Parallel Giant Slalom,37,6.98
-28,Malovanna Oleksandra,Female,13-03-2024,Davos/Rinerhorn ,SUI,Ukraine,European Cup,Parallel Giant Slalom,15,38.40
-29,Malovanna Oleksandra,Female,12-03-2024,Davos/Rinerhorn ,SUI,Ukraine,European Cup,Parallel Giant Slalom,25,21.60
-30,Malovanna Oleksandra,Female,10-03-2024,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,20,26.40
-31,Malovanna Oleksandra,Female,09-03-2024,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,13,48.00
-32,Malovanna Oleksandra,Female,25-02-2024,Krynica,POL,Ukraine,Qualification,Parallel Giant Slalom,33,
-33,Malovanna Oleksandra,Female,25-02-2024,Krynica,POL,Ukraine,World Cup,Parallel Giant Slalom,33,24.00
-34,Malovanna Oleksandra,Female,24-02-2024,Krynica,POL,Ukraine,Qualification,Parallel Giant Slalom,27,
-35,Malovanna Oleksandra,Female,24-02-2024,Krynica,POL,Ukraine,World Cup,Parallel Giant Slalom,27,45.00
-36,Malovanna Oleksandra,Female,14-02-2024,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,4,100.00
-37,Malovanna Oleksandra,Female,13-02-2024,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,4,100.00
-38,Malovanna Oleksandra,Female,27-01-2024,Simonhöhe,AUT,Ukraine,Qualification,Parallel Giant Slalom,31,
-39,Malovanna Oleksandra,Female,27-01-2024,Simonhöhe,AUT,Ukraine,World Cup,Parallel Giant Slalom,31,28.00
-40,Malovanna Oleksandra,Female,24-01-2024,Pamporovo,BUL,Ukraine,European Cup,Parallel Slalom,DSQ,
-41,Malovanna Oleksandra,Female,23-01-2024,Pamporovo,BUL,Ukraine,European Cup,Parallel Slalom,17,40.60
-42,Malovanna Oleksandra,Female,13-01-2024,Scuol,SUI,Ukraine,Qualification,Parallel Giant Slalom,DSQ,
-43,Malovanna Oleksandra,Female,13-01-2024,Scuol,SUI,Ukraine,World Cup,Parallel Giant Slalom,DSQ,
-44,Malovanna Oleksandra,Female,22-12-2023,Moninec,CZE,Ukraine,FIS,Parallel Slalom,14,36.00
-45,Malovanna Oleksandra,Female,21-12-2023,Moninec,CZE,Ukraine,FIS,Parallel Slalom,15,32.00
-46,Malovanna Oleksandra,Female,20-12-2023,Moninec,CZE,Ukraine,European Cup,Parallel Slalom,22,23.40
-47,Malovanna Oleksandra,Female,19-12-2023,Moninec,CZE,Ukraine,European Cup,Parallel Slalom,31,7.28
-48,Malovanna Oleksandra,Female,16-12-2023,Cortina d'Ampezzo,ITA,Ukraine,Qualification,Parallel Giant Slalom,34,
-49,Malovanna Oleksandra,Female,16-12-2023,Cortina d'Ampezzo,ITA,Ukraine,World Cup,Parallel Giant Slalom,34,22.00
-50,Malovanna Oleksandra,Female,14-12-2023,Carezza,ITA,Ukraine,Qualification,Parallel Giant Slalom,27,
-51,Malovanna Oleksandra,Female,14-12-2023,Carezza,ITA,Ukraine,World Cup,Parallel Giant Slalom,27,45.00
-52,Malovanna Oleksandra,Female,09-12-2023,Götschen,GER,Ukraine,Qualification,Parallel Slalom,36,
-53,Malovanna Oleksandra,Female,09-12-2023,Götschen,GER,Ukraine,European Cup,Parallel Slalom,36,7.09
-54,Malovanna Oleksandra,Female,08-12-2023,Götschen,GER,Ukraine,Qualification,Parallel Slalom,30,
-55,Malovanna Oleksandra,Female,08-12-2023,Götschen,GER,Ukraine,European Cup,Parallel Slalom,30,11.52
-56,Malovanna Oleksandra,Female,05-03-2023,Zakopane,POL,Ukraine,European Cup,Parallel Giant Slalom,19,34.80
-57,Malovanna Oleksandra,Female,04-03-2023,Zakopane,POL,Ukraine,European Cup,Parallel Giant Slalom,20,39.60
-58,Malovanna Oleksandra,Female,22-02-2023,Bakuriani,GEO,Ukraine,World Championships,Parallel Slalom Team,23,
-59,Malovanna Oleksandra,Female,21-02-2023,Bakuriani,GEO,Ukraine,Qualification,Parallel Slalom,33,
-60,Malovanna Oleksandra,Female,21-02-2023,Bakuriani,GEO,Ukraine,World Championships,Parallel Slalom,33,24.00
-61,Malovanna Oleksandra,Female,19-02-2023,Bakuriani,GEO,Ukraine,Qualification,Parallel Giant Slalom,24,
-62,Malovanna Oleksandra,Female,19-02-2023,Bakuriani,GEO,Ukraine,World Championships,Parallel Giant Slalom,24,70.00
-63,Malovanna Oleksandra,Female,14-02-2023,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,5,67.50
-64,Malovanna Oleksandra,Female,13-02-2023,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,2,120.00
-65,Malovanna Oleksandra,Female,05-02-2023,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,7,79.20
-66,Malovanna Oleksandra,Female,15-01-2023,Alleghe,ITA,Ukraine,European Cup,Parallel Slalom,10,57.20
-67,Malovanna Oleksandra,Female,15-01-2023,Alleghe,ITA,Ukraine,Qualification,Parallel Slalom,9,
-68,Malovanna Oleksandra,Female,14-01-2023,Alleghe,ITA,Ukraine,European Cup,Parallel Slalom,7,72.00
-69,Malovanna Oleksandra,Female,14-01-2023,Alleghe,ITA,Ukraine,Qualification,Parallel Slalom,9,
-70,Malovanna Oleksandra,Female,10-01-2023,Bad Gastein,AUT,Ukraine,Qualification,Parallel Slalom,DSQ,
-71,Malovanna Oleksandra,Female,10-01-2023,Bad Gastein,AUT,Ukraine,World Cup,Parallel Slalom,DSQ,
-72,Malovanna Oleksandra,Female,20-02-2022,Bakuriani,GEO,Ukraine,European Cup,Parallel Giant Slalom,15,57.60
-73,Malovanna Oleksandra,Female,19-02-2022,Bakuriani,GEO,Ukraine,European Cup,Parallel Giant Slalom,12,79.20
-74,Malovanna Oleksandra,Female,23-01-2022,Bukovel,UKR,Ukraine,European Cup,Parallel Giant Slalom,16,39.00
-75,Malovanna Oleksandra,Female,22-01-2022,Bukovel,UKR,Ukraine,European Cup,Parallel Giant Slalom,13,52.00
-76,Malovanna Oleksandra,Female,20-01-2022,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,11,52.80
-77,Malovanna Oleksandra,Female,19-01-2022,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,8,70.40
-78,Malovanna Oleksandra,Female,14-01-2022,Simonhöhe,AUT,Ukraine,World Cup,Parallel Giant Slalom,47,
-79,Malovanna Oleksandra,Female,14-01-2022,Simonhöhe,AUT,Ukraine,Qualification,Parallel Giant Slalom,47,
-80,Malovanna Oleksandra,Female,18-12-2021,Cortina d Ampezzo,ITA,Ukraine,Qualification,Parallel Giant Slalom,43,
-81,Malovanna Oleksandra,Female,18-12-2021,Cortina d Ampezzo,ITA,Ukraine,World Cup,Parallel Giant Slalom,43,17.60
-82,Malovanna Oleksandra,Female,16-12-2021,Carezza,ITA,Ukraine,Qualification,Parallel Giant Slalom,42,
-83,Malovanna Oleksandra,Female,16-12-2021,Carezza,ITA,Ukraine,World Cup,Parallel Giant Slalom,42,17.90
-84,Malovanna Oleksandra,Female,12-12-2021,Bannoye,RUS,Ukraine,Qualification,Parallel Slalom,DSQ,
-85,Malovanna Oleksandra,Female,12-12-2021,Bannoye,RUS,Ukraine,World Cup,Parallel Slalom,DSQ,
-86,Malovanna Oleksandra,Female,11-12-2021,Bannoye,RUS,Ukraine,Qualification,Parallel Giant Slalom,40,
-87,Malovanna Oleksandra,Female,11-12-2021,Bannoye,RUS,Ukraine,World Cup,Parallel Giant Slalom,40,18.50
-88,Malovanna Oleksandra,Female,20-03-2021,Berchtesgaden,GER,Ukraine,Qualification,Parallel Slalom,DSQ,
-89,Malovanna Oleksandra,Female,20-03-2021,Berchtesgaden,GER,Ukraine,World Cup,Parallel Slalom,DSQ,
-90,Malovanna Oleksandra,Female,13-03-2021,Davos Rinerhorn,SUI,Ukraine,European Cup,Parallel Giant Slalom,34,7.92
-91,Malovanna Oleksandra,Female,09-03-2021,SUCHE/Zakopane,POL,Ukraine,National Championships,Parallel Slalom,19,31.20
-92,Malovanna Oleksandra,Female,08-03-2021,SUCHE/Zakopane,POL,Ukraine,National Championships,Parallel Giant Slalom,6,104.00
-93,Malovanna Oleksandra,Female,06-03-2021,Rogla,SLO,Ukraine,Qualification,Parallel Giant Slalom,DSQ,
-94,Malovanna Oleksandra,Female,06-03-2021,Rogla,SLO,Ukraine,World Cup,Parallel Giant Slalom,DSQ,
-95,Malovanna Oleksandra,Female,07-02-2021,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,12,52.80
-96,Malovanna Oleksandra,Female,06-02-2021,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,23,
-97,Malovanna Oleksandra,Female,26-01-2021,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,2,144.00
-98,Malovanna Oleksandra,Female,25-01-2021,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,8,57.60
-99,Malovanna Oleksandra,Female,17-01-2021,Simonhoehe,AUT,Ukraine,European Cup,Parallel Giant Slalom,18,46.80
-100,Malovanna Oleksandra,Female,16-01-2021,Simonhoehe,AUT,Ukraine,European Cup,Parallel Giant Slalom,24,25.20
-101,Malovanna Oleksandra,Female,12-01-2021,Bad Gastein,AUT,Ukraine,Qualification,Parallel Slalom,35,
-102,Malovanna Oleksandra,Female,12-01-2021,Bad Gastein,AUT,Ukraine,World Cup,Parallel Slalom,35,20.00
-103,Malovanna Oleksandra,Female,09-01-2021,Scuol,SUI,Ukraine,Qualification,Parallel Giant Slalom,44,
-104,Malovanna Oleksandra,Female,09-01-2021,Scuol,SUI,Ukraine,World Cup,Parallel Giant Slalom,44,17.30
-105,Malovanna Oleksandra,Female,17-12-2020,Carezza,ITA,Ukraine,Qualification,Parallel Giant Slalom,43,
-106,Malovanna Oleksandra,Female,17-12-2020,Carezza,ITA,Ukraine,World Cup,Parallel Giant Slalom,43,
-107,Malovanna Oleksandra,Female,12-12-2020,Cortina d Ampezzo,ITA,Ukraine,Qualification,Parallel Giant Slalom,31,
-108,Malovanna Oleksandra,Female,12-12-2020,Cortina d Ampezzo,ITA,Ukraine,World Cup,Parallel Giant Slalom,31,28.00
-109,Malovanna Oleksandra,Female,03-03-2020,Blue Mountain,CAN,Ukraine,Nor-Am Cup,Parallel Slalom,15,57.60
-110,Malovanna Oleksandra,Female,02-03-2020,Blue Mountain,CAN,Ukraine,Nor-Am Cup,Parallel Giant Slalom,19,43.20
-111,Malovanna Oleksandra,Female,01-03-2020,Blue Mountain,CAN,Ukraine,World Cup,Parallel Giant Slalom,39,
-112,Malovanna Oleksandra,Female,01-03-2020,Blue Mountain,CAN,Ukraine,Qualification,Parallel Giant Slalom,39,
-113,Malovanna Oleksandra,Female,29-02-2020,Blue Mountain,CAN,Ukraine,World Cup,Parallel Giant Slalom,37,
-114,Malovanna Oleksandra,Female,29-02-2020,Blue Mountain,CAN,Ukraine,Qualification,Parallel Giant Slalom,37,
-115,Malovanna Oleksandra,Female,25-02-2020,Pyeongchang,KOR,Ukraine,National Championships,Parallel Slalom,4,130.00
-116,Malovanna Oleksandra,Female,24-02-2020,Pyeongchang,KOR,Ukraine,National Championships,Parallel Giant Slalom,5,117.00
-117,Malovanna Oleksandra,Female,22-02-2020,Pyeongchang,KOR,Ukraine,World Cup,Parallel Giant Slalom,18,130.00
-118,Malovanna Oleksandra,Female,22-02-2020,Pyeongchang,KOR,Ukraine,Qualification,Parallel Giant Slalom,18,
-119,Malovanna Oleksandra,Female,04-02-2020,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,5,99.00
-120,Malovanna Oleksandra,Female,03-02-2020,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,4,110.00
-121,Malovanna Oleksandra,Female,25-01-2020,Piancavallo,ITA,Ukraine,World Cup,Parallel Slalom,39,
-122,Malovanna Oleksandra,Female,25-01-2020,Piancavallo,ITA,Ukraine,Qualification,Parallel Slalom,39,
-123,Malovanna Oleksandra,Female,18-01-2020,Rogla,SLO,Ukraine,World Cup,Parallel Giant Slalom,43,
-124,Malovanna Oleksandra,Female,18-01-2020,Rogla,SLO,Ukraine,Qualification,Parallel Giant Slalom,43,
-125,Malovanna Oleksandra,Female,14-01-2020,Bad Gastein,AUT,Ukraine,World Cup,Parallel Slalom,40,18.50
-126,Malovanna Oleksandra,Female,14-01-2020,Bad Gastein,AUT,Ukraine,Qualification,Parallel Slalom,40,
-127,Malovanna Oleksandra,Female,11-01-2020,Scuol,SUI,Ukraine,World Cup,Parallel Giant Slalom,DSQ,
-128,Malovanna Oleksandra,Female,11-01-2020,Scuol,SUI,Ukraine,Qualification,Parallel Giant Slalom,DSQ,
-129,Malovanna Oleksandra,Female,23-03-2019,Winterberg,GER,Ukraine,World Cup,Parallel Slalom,30,32.00
-130,Malovanna Oleksandra,Female,23-03-2019,Winterberg,GER,Ukraine,Qualification,Parallel Slalom,30,
-131,Malovanna Oleksandra,Female,09-03-2019,Scuol,SUI,Ukraine,World Cup,Parallel GS,37,
-132,Malovanna Oleksandra,Female,09-03-2019,Scuol,SUI,Ukraine,Qualification,Parallel Giant Slalom,37,
-133,Malovanna Oleksandra,Female,28-02-2019,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,2,144.00
-134,Malovanna Oleksandra,Female,27-02-2019,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,2,96.00
-135,Malovanna Oleksandra,Female,05-02-2019,Park City,USA,Ukraine,World Championships,Parallel Slalom,34,22.00
-136,Malovanna Oleksandra,Female,04-02-2019,Park City,USA,Ukraine,World Championships,Parallel Giant Slalom,24,70.00
-137,Malovanna Oleksandra,Female,11-01-2019,Bad Gastein,AUT,Ukraine,European Cup,Parallel Slalom,32,9.36
-138,Malovanna Oleksandra,Female,10-01-2019,Bad Gastein,AUT,Ukraine,European Cup,Parallel Slalom,25,21.60
-139,Malovanna Oleksandra,Female,09-01-2019,Bad Gastein,AUT,Ukraine,World Cup,Parallel Slalom Team,24,
-140,Malovanna Oleksandra,Female,08-01-2019,Bad Gastein,AUT,Ukraine,World Cup,Parallel Slalom,36,19.70
-141,Malovanna Oleksandra,Female,08-01-2019,Bad Gastein,AUT,Ukraine,Qualification,Parallel Slalom,36,
-142,Malovanna Oleksandra,Female,15-12-2018,Cortina d'Ampezzo,ITA,Ukraine,World Cup,Parallel GS,43,
-143,Malovanna Oleksandra,Female,15-12-2018,Cortina d'Ampezzo,ITA,Ukraine,Qualification,Parallel Giant Slalom,43,
-144,Malovanna Oleksandra,Female,13-12-2018,Carezza,ITA,Ukraine,World Cup,Parallel GS,45,
-145,Malovanna Oleksandra,Female,13-12-2018,Carezza,ITA,Ukraine,Qualification,Parallel Giant Slalom,45,
-146,Malovanna Oleksandra,Female,14-03-2018,Suche,POL,Ukraine,National Championships,Parallel Slalom,10,62.40
-147,Malovanna Oleksandra,Female,13-03-2018,Suche,POL,Ukraine,National Championships,Parallel GS,3,144.00
-148,Malovanna Oleksandra,Female,08-03-2018,Carezza,ITA,Ukraine,National Championships,Parallel Slalom,4,120.00
-149,Malovanna Oleksandra,Female,07-03-2018,Carezza,ITA,Ukraine,National Championships,Parallel GS,DNS1,
-150,Malovanna Oleksandra,Female,18-02-2018,Vysna Boca,SVK,Ukraine,FIS,Parallel GS,4,45.00
-151,Malovanna Oleksandra,Female,17-02-2018,Vysna Boca,SVK,Ukraine,FIS,Parallel Slalom,DSQ,
-152,Malovanna Oleksandra,Female,06-02-2018,Bukovytsya,UKR,Ukraine,National Championships,Parallel Slalom,3,60.00
-153,Malovanna Oleksandra,Female,05-02-2018,Bukovytsya,UKR,Ukraine,National Championships,Parallel GS,2,72.00
-154,Malovanna Oleksandra,Female,21-01-2018,Lachtal,AUT,Ukraine,European Cup,Parallel GS,23,17.60
-155,Malovanna Oleksandra,Female,20-01-2018,Lachtal,AUT,Ukraine,European Cup,Parallel GS,22,19.80
-156,Malovanna Oleksandra,Female,07-01-2018,Pec pod Snezkou,CZE,Ukraine,FIS,Parallel Slalom,1,100.00
-157,Malovanna Oleksandra,Female,06-01-2018,Pec pod Snezkou,CZE,Ukraine,FIS,Parallel GS,6,36.00
-158,Malovanna Oleksandra,Female,03-04-2016,Rogla,SLO,Ukraine,FIS Junior World Championships,Parallel Slalom,32,9.36
-159,Malovanna Oleksandra,Female,02-04-2016,Rogla,SLO,Ukraine,FIS Junior World Championships,Parallel GS,10,93.60
-160,Malovanna Oleksandra,Female,04-03-2016,Krasiya,UKR,Ukraine,National Championships,Slalom,2,56.00
-161,Malovanna Oleksandra,Female,03-03-2016,Krasiya,UKR,Ukraine,National Championships,Giant Slalom,2,56.00
-162,Malovanna Oleksandra,Female,28-02-2016,Falkert,AUT,Ukraine,FIS,Giant Slalom,14,39.60
-163,Malovanna Oleksandra,Female,27-02-2016,Falkert,AUT,Ukraine,FIS,Giant Slalom,7,79.20
-164,Malovanna Oleksandra,Female,21-02-2016,Klinovec,CZE,Ukraine,FIS,Parallel Slalom,2,80.00
-165,Malovanna Oleksandra,Female,20-02-2016,Klinovec,CZE,Ukraine,FIS,Parallel GS,1,100.00
-166,Malovanna Oleksandra,Female,30-01-2016,Pfelders,ITA,Ukraine,FIS,Slalom,1,70.00
-167,Malovanna Oleksandra,Female,29-01-2016,Pfelders,ITA,Ukraine,FIS,Slalom,DSQ1,
-168,Malovanna Oleksandra,Female,23-01-2016,Rogla,SLO,Ukraine,World Cup,Parallel GS,39,
-169,Malovanna Oleksandra,Female,08-01-2016,Bad Gastein,AUT,Ukraine,World Cup,Parallel Slalom,40,
-170,Malovanna Oleksandra,Female,19-12-2015,Cortina d'Ampezzo,ITA,Ukraine,World Cup,Parallel Slalom,37,
-171,Malovanna Oleksandra,Female,12-12-2015,Carezza,ITA,Ukraine,World Cup,Parallel GS,37,
-172,Malovanna Oleksandra,Female,06-12-2015,Hochfuegen,GER,Ukraine,European Cup,Parallel GS,40,9.25
-173,Malovanna Oleksandra,Female,05-12-2015,Hochfuegen,GER,Ukraine,European Cup,Parallel GS,47,8.20
-174,Malovanna Oleksandra,Female,16-10-2015,Landgraaf,NED,Ukraine,European Cup,Parallel Slalom,33,12.00
-175,Malovanna Oleksandra,Female,15-10-2015,Landgraaf,NED,Ukraine,European Cup,Parallel Slalom,39,9.40
-176,Malovanna Oleksandra,Female,11-03-2015,Yabuli,CHN,Ukraine,FIS Junior World Championships,Parallel Slalom,29,
-177,Malovanna Oleksandra,Female,10-03-2015,Yabuli,CHN,Ukraine,FIS Junior World Championships,Parallel GS,13,72.00
-178,Malovanna Oleksandra,Female,28-02-2015,Krasiya,UKR,Ukraine,National Championships,Parallel Slalom,5,22.50
-179,Malovanna Oleksandra,Female,27-02-2015,Krasiya,UKR,Ukraine,National Championships,Giant Slalom,1,50.00
-180,Malovanna Oleksandra,Female,23-01-2015,Lachtal,AUT,Ukraine,World Championships,Parallel GS,41,0.00
-181,Malovanna Oleksandra,Female,22-01-2015,Lachtal,AUT,Ukraine,World Championships,Parallel Slalom,37,0.00
-182,Malovanna Oleksandra,Female,06-01-2015,Dachstein West / Gosau,AUT,Ukraine,FIS,Parallel Slalom,22,23.40
-183,Malovanna Oleksandra,Female,05-01-2015,Dachstein West / Gosau,AUT,Ukraine,FIS,Parallel Slalom,26,13.00
-184,Malovanna Oleksandra,Female,25-03-2014,Chiesa in Valmalenco,ITA,Ukraine,FIS Junior World Championships,Parallel Slalom,27,16.20
-185,Malovanna Oleksandra,Female,24-03-2014,Chiesa in Valmalenco,ITA,Ukraine,FIS Junior World Championships,Parallel GS,15,57.60
-186,Malovanna Oleksandra,Female,07-03-2013,Erzurum,TUR,Ukraine,FIS Junior World Championships,Parallel Slalom,32,0.00
-187,Malovanna Oleksandra,Female,06-03-2013,Erzurum,TUR,Ukraine,FIS Junior World Championships,Parallel GS,20,39.60
-188,Malovanna Oleksandra,Female,27-02-2013,Krasiya,UKR,Ukraine,National Championships,Parallel GS,4,65.00
-189,Malovanna Oleksandra,Female,21-02-2013,Predeal,ROU,Ukraine,European Youth Olympic Festival,Parallel GS,6,48.00
-190,Malovanna Oleksandra,Female,10-02-2013,Marianske Lazne,CZE,Ukraine,European Cup,Parallel Slalom,16,48.00
-191,Malovanna Oleksandra,Female,09-02-2013,Marianske Lazne,CZE,Ukraine,European Cup,Parallel Slalom,22,28.80
-192,Malovanna Oleksandra,Female,20-01-2013,Vratna - Paseky,SVK,Ukraine,European Cup,Parallel GS,33,0.00
-193,Malovanna Oleksandra,Female,19-01-2013,Vratna - Paseky,SVK,Ukraine,European Cup,Parallel GS,23,23.20
-194,Malovanna Oleksandra,Female,16-12-2012,Racines/Ratschings,ITA,Ukraine,European Cup,Parallel Slalom,38,9.55
-195,Malovanna Oleksandra,Female,15-12-2012,Racines/Ratschings,ITA,Ukraine,European Cup,Parallel Slalom,45,8.50
-196,Malovanna Oleksandra,Female,09-12-2012,Lachtal,AUT,Ukraine,European Cup,Parallel GS,71,0.00
-197,Malovanna Oleksandra,Female,08-12-2012,Lachtal,AUT,Ukraine,European Cup,Parallel GS,68,5.05
-198,Malovanna Oleksandra,Female,31-08-2012,"Snej.com, Moscow",RUS,Ukraine,FIS,Parallel Slalom,9,75.40
+0,Malovanna Oleksandra,Female,02-03-2025,Krynica,POL,Ukraine,Qualification,Parallel Giant Slalom,41,
+1,Malovanna Oleksandra,Female,02-03-2025,Krynica,POL,Ukraine,World Cup,Parallel Giant Slalom,41,
+2,Malovanna Oleksandra,Female,01-03-2025,Krynica,POL,Ukraine,Qualification,Parallel Giant Slalom,48,
+3,Malovanna Oleksandra,Female,01-03-2025,Krynica,POL,Ukraine,World Cup,Parallel Giant Slalom,48,
+4,Malovanna Oleksandra,Female,04-02-2025,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,4,100.00
+5,Malovanna Oleksandra,Female,03-02-2025,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,2,160.00
+6,Malovanna Oleksandra,Female,22-01-2025,Bansko,BUL,Ukraine,European Cup,Parallel Giant Slalom,20,39.60
+7,Malovanna Oleksandra,Female,21-01-2025,Bansko,BUL,Ukraine,European Cup,Parallel Giant Slalom,26,18.00
+8,Malovanna Oleksandra,Female,19-01-2025,Bansko,BUL,Ukraine,Qualification,Parallel Giant Slalom,50,
+9,Malovanna Oleksandra,Female,19-01-2025,Bansko,BUL,Ukraine,World Cup,Parallel Giant Slalom,50,15.50
+10,Malovanna Oleksandra,Female,18-01-2025,Bansko,BUL,Ukraine,Qualification,Parallel Giant Slalom,52,
+11,Malovanna Oleksandra,Female,18-01-2025,Bansko,BUL,Ukraine,World Cup,Parallel Giant Slalom,52,14.90
+12,Malovanna Oleksandra,Female,14-01-2025,Bad Gastein,AUT,Ukraine,Qualification,Parallel Slalom,44,
+13,Malovanna Oleksandra,Female,14-01-2025,Bad Gastein,AUT,Ukraine,World Cup,Parallel Slalom,44,17.30
+14,Malovanna Oleksandra,Female,11-01-2025,Scuol,SUI,Ukraine,Qualification,Parallel Giant Slalom,29,
+15,Malovanna Oleksandra,Female,11-01-2025,Scuol,SUI,Ukraine,World Cup,Parallel Giant Slalom,29,36.00
+16,Malovanna Oleksandra,Female,21-12-2024,Davos,SUI,Ukraine,Qualification,Parallel Slalom,36,
+17,Malovanna Oleksandra,Female,21-12-2024,Davos,SUI,Ukraine,World Cup,Parallel Slalom,36,19.70
+18,Malovanna Oleksandra,Female,14-12-2024,Cortina d'Ampezzo,ITA,Ukraine,Qualification,Parallel Giant Slalom,41,
+19,Malovanna Oleksandra,Female,14-12-2024,Cortina d'Ampezzo,ITA,Ukraine,World Cup,Parallel Giant Slalom,41,18.20
+20,Malovanna Oleksandra,Female,12-12-2024,Carezza,ITA,Ukraine,Qualification,Parallel Giant Slalom,37,
+21,Malovanna Oleksandra,Female,12-12-2024,Carezza,ITA,Ukraine,World Cup,Parallel Giant Slalom,37,19.40
+22,Malovanna Oleksandra,Female,08-12-2024,Yanqing (NASC),CHN,Ukraine,World Cup,Parallel Slalom,29,36.00
+23,Malovanna Oleksandra,Female,08-12-2024,Yanqing (NASC),CHN,Ukraine,Qualification,Parallel Slalom,29,
+24,Malovanna Oleksandra,Female,07-12-2024,Yanqing (NASC),CHN,Ukraine,World Cup,Parallel Giant Slalom,36,19.70
+25,Malovanna Oleksandra,Female,07-12-2024,Yanqing (NASC),CHN,Ukraine,Qualification,Parallel Giant Slalom,36,
+26,Malovanna Oleksandra,Female,01-12-2024,Mylin,CHN,Ukraine,World Cup,Parallel Slalom,40,
+27,Malovanna Oleksandra,Female,01-12-2024,Mylin,CHN,Ukraine,Qualification,Parallel Slalom,40,
+28,Malovanna Oleksandra,Female,30-11-2024,Mylin,CHN,Ukraine,World Cup,Parallel Giant Slalom,41,
+29,Malovanna Oleksandra,Female,30-11-2024,Mylin,CHN,Ukraine,Qualification,Parallel Giant Slalom,41,
+30,Malovanna Oleksandra,Female,17-03-2024,St. Moritz,SUI,Ukraine,European Cup,Parallel Slalom,DSQ,
+31,Malovanna Oleksandra,Female,16-03-2024,St. Moritz,SUI,Ukraine,European Cup,Parallel Giant Slalom,37,6.98
+32,Malovanna Oleksandra,Female,13-03-2024,Davos/Rinerhorn ,SUI,Ukraine,European Cup,Parallel Giant Slalom,15,38.40
+33,Malovanna Oleksandra,Female,12-03-2024,Davos/Rinerhorn ,SUI,Ukraine,European Cup,Parallel Giant Slalom,25,21.60
+34,Malovanna Oleksandra,Female,10-03-2024,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,20,26.40
+35,Malovanna Oleksandra,Female,09-03-2024,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,13,48.00
+36,Malovanna Oleksandra,Female,25-02-2024,Krynica,POL,Ukraine,Qualification,Parallel Giant Slalom,33,
+37,Malovanna Oleksandra,Female,25-02-2024,Krynica,POL,Ukraine,World Cup,Parallel Giant Slalom,33,24.00
+38,Malovanna Oleksandra,Female,24-02-2024,Krynica,POL,Ukraine,Qualification,Parallel Giant Slalom,27,
+39,Malovanna Oleksandra,Female,24-02-2024,Krynica,POL,Ukraine,World Cup,Parallel Giant Slalom,27,45.00
+40,Malovanna Oleksandra,Female,14-02-2024,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,4,100.00
+41,Malovanna Oleksandra,Female,13-02-2024,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,4,100.00
+42,Malovanna Oleksandra,Female,27-01-2024,Simonhöhe,AUT,Ukraine,Qualification,Parallel Giant Slalom,31,
+43,Malovanna Oleksandra,Female,27-01-2024,Simonhöhe,AUT,Ukraine,World Cup,Parallel Giant Slalom,31,28.00
+44,Malovanna Oleksandra,Female,24-01-2024,Pamporovo,BUL,Ukraine,European Cup,Parallel Slalom,DSQ,
+45,Malovanna Oleksandra,Female,23-01-2024,Pamporovo,BUL,Ukraine,European Cup,Parallel Slalom,17,40.60
+46,Malovanna Oleksandra,Female,13-01-2024,Scuol,SUI,Ukraine,Qualification,Parallel Giant Slalom,DSQ,
+47,Malovanna Oleksandra,Female,13-01-2024,Scuol,SUI,Ukraine,World Cup,Parallel Giant Slalom,DSQ,
+48,Malovanna Oleksandra,Female,22-12-2023,Moninec,CZE,Ukraine,FIS,Parallel Slalom,14,36.00
+49,Malovanna Oleksandra,Female,21-12-2023,Moninec,CZE,Ukraine,FIS,Parallel Slalom,15,32.00
+50,Malovanna Oleksandra,Female,20-12-2023,Moninec,CZE,Ukraine,European Cup,Parallel Slalom,22,23.40
+51,Malovanna Oleksandra,Female,19-12-2023,Moninec,CZE,Ukraine,European Cup,Parallel Slalom,31,7.28
+52,Malovanna Oleksandra,Female,16-12-2023,Cortina d'Ampezzo,ITA,Ukraine,Qualification,Parallel Giant Slalom,34,
+53,Malovanna Oleksandra,Female,16-12-2023,Cortina d'Ampezzo,ITA,Ukraine,World Cup,Parallel Giant Slalom,34,22.00
+54,Malovanna Oleksandra,Female,14-12-2023,Carezza,ITA,Ukraine,Qualification,Parallel Giant Slalom,27,
+55,Malovanna Oleksandra,Female,14-12-2023,Carezza,ITA,Ukraine,World Cup,Parallel Giant Slalom,27,45.00
+56,Malovanna Oleksandra,Female,09-12-2023,Götschen,GER,Ukraine,Qualification,Parallel Slalom,36,
+57,Malovanna Oleksandra,Female,09-12-2023,Götschen,GER,Ukraine,European Cup,Parallel Slalom,36,7.09
+58,Malovanna Oleksandra,Female,08-12-2023,Götschen,GER,Ukraine,Qualification,Parallel Slalom,30,
+59,Malovanna Oleksandra,Female,08-12-2023,Götschen,GER,Ukraine,European Cup,Parallel Slalom,30,11.52
+60,Malovanna Oleksandra,Female,05-03-2023,Zakopane,POL,Ukraine,European Cup,Parallel Giant Slalom,19,34.80
+61,Malovanna Oleksandra,Female,04-03-2023,Zakopane,POL,Ukraine,European Cup,Parallel Giant Slalom,20,39.60
+62,Malovanna Oleksandra,Female,22-02-2023,Bakuriani,GEO,Ukraine,World Championships,Parallel Slalom Team,23,
+63,Malovanna Oleksandra,Female,21-02-2023,Bakuriani,GEO,Ukraine,Qualification,Parallel Slalom,33,
+64,Malovanna Oleksandra,Female,21-02-2023,Bakuriani,GEO,Ukraine,World Championships,Parallel Slalom,33,24.00
+65,Malovanna Oleksandra,Female,19-02-2023,Bakuriani,GEO,Ukraine,Qualification,Parallel Giant Slalom,24,
+66,Malovanna Oleksandra,Female,19-02-2023,Bakuriani,GEO,Ukraine,World Championships,Parallel Giant Slalom,24,70.00
+67,Malovanna Oleksandra,Female,14-02-2023,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,5,67.50
+68,Malovanna Oleksandra,Female,13-02-2023,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,2,120.00
+69,Malovanna Oleksandra,Female,05-02-2023,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,7,79.20
+70,Malovanna Oleksandra,Female,15-01-2023,Alleghe,ITA,Ukraine,European Cup,Parallel Slalom,10,57.20
+71,Malovanna Oleksandra,Female,15-01-2023,Alleghe,ITA,Ukraine,Qualification,Parallel Slalom,9,
+72,Malovanna Oleksandra,Female,14-01-2023,Alleghe,ITA,Ukraine,European Cup,Parallel Slalom,7,72.00
+73,Malovanna Oleksandra,Female,14-01-2023,Alleghe,ITA,Ukraine,Qualification,Parallel Slalom,9,
+74,Malovanna Oleksandra,Female,10-01-2023,Bad Gastein,AUT,Ukraine,Qualification,Parallel Slalom,DSQ,
+75,Malovanna Oleksandra,Female,10-01-2023,Bad Gastein,AUT,Ukraine,World Cup,Parallel Slalom,DSQ,
+76,Malovanna Oleksandra,Female,20-02-2022,Bakuriani,GEO,Ukraine,European Cup,Parallel Giant Slalom,15,57.60
+77,Malovanna Oleksandra,Female,19-02-2022,Bakuriani,GEO,Ukraine,European Cup,Parallel Giant Slalom,12,79.20
+78,Malovanna Oleksandra,Female,23-01-2022,Bukovel,UKR,Ukraine,European Cup,Parallel Giant Slalom,16,39.00
+79,Malovanna Oleksandra,Female,22-01-2022,Bukovel,UKR,Ukraine,European Cup,Parallel Giant Slalom,13,52.00
+80,Malovanna Oleksandra,Female,20-01-2022,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,11,52.80
+81,Malovanna Oleksandra,Female,19-01-2022,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,8,70.40
+82,Malovanna Oleksandra,Female,14-01-2022,Simonhöhe,AUT,Ukraine,World Cup,Parallel Giant Slalom,47,
+83,Malovanna Oleksandra,Female,14-01-2022,Simonhöhe,AUT,Ukraine,Qualification,Parallel Giant Slalom,47,
+84,Malovanna Oleksandra,Female,18-12-2021,Cortina d Ampezzo,ITA,Ukraine,Qualification,Parallel Giant Slalom,43,
+85,Malovanna Oleksandra,Female,18-12-2021,Cortina d Ampezzo,ITA,Ukraine,World Cup,Parallel Giant Slalom,43,17.60
+86,Malovanna Oleksandra,Female,16-12-2021,Carezza,ITA,Ukraine,Qualification,Parallel Giant Slalom,42,
+87,Malovanna Oleksandra,Female,16-12-2021,Carezza,ITA,Ukraine,World Cup,Parallel Giant Slalom,42,17.90
+88,Malovanna Oleksandra,Female,12-12-2021,Bannoye,RUS,Ukraine,Qualification,Parallel Slalom,DSQ,
+89,Malovanna Oleksandra,Female,12-12-2021,Bannoye,RUS,Ukraine,World Cup,Parallel Slalom,DSQ,
+90,Malovanna Oleksandra,Female,11-12-2021,Bannoye,RUS,Ukraine,Qualification,Parallel Giant Slalom,40,
+91,Malovanna Oleksandra,Female,11-12-2021,Bannoye,RUS,Ukraine,World Cup,Parallel Giant Slalom,40,18.50
+92,Malovanna Oleksandra,Female,20-03-2021,Berchtesgaden,GER,Ukraine,Qualification,Parallel Slalom,DSQ,
+93,Malovanna Oleksandra,Female,20-03-2021,Berchtesgaden,GER,Ukraine,World Cup,Parallel Slalom,DSQ,
+94,Malovanna Oleksandra,Female,13-03-2021,Davos Rinerhorn,SUI,Ukraine,European Cup,Parallel Giant Slalom,34,7.92
+95,Malovanna Oleksandra,Female,09-03-2021,SUCHE/Zakopane,POL,Ukraine,National Championships,Parallel Slalom,19,31.20
+96,Malovanna Oleksandra,Female,08-03-2021,SUCHE/Zakopane,POL,Ukraine,National Championships,Parallel Giant Slalom,6,104.00
+97,Malovanna Oleksandra,Female,06-03-2021,Rogla,SLO,Ukraine,Qualification,Parallel Giant Slalom,DSQ,
+98,Malovanna Oleksandra,Female,06-03-2021,Rogla,SLO,Ukraine,World Cup,Parallel Giant Slalom,DSQ,
+99,Malovanna Oleksandra,Female,07-02-2021,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,12,52.80
+100,Malovanna Oleksandra,Female,06-02-2021,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,23,
+101,Malovanna Oleksandra,Female,26-01-2021,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,2,144.00
+102,Malovanna Oleksandra,Female,25-01-2021,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,8,57.60
+103,Malovanna Oleksandra,Female,17-01-2021,Simonhoehe,AUT,Ukraine,European Cup,Parallel Giant Slalom,18,46.80
+104,Malovanna Oleksandra,Female,16-01-2021,Simonhoehe,AUT,Ukraine,European Cup,Parallel Giant Slalom,24,25.20
+105,Malovanna Oleksandra,Female,12-01-2021,Bad Gastein,AUT,Ukraine,Qualification,Parallel Slalom,35,
+106,Malovanna Oleksandra,Female,12-01-2021,Bad Gastein,AUT,Ukraine,World Cup,Parallel Slalom,35,20.00
+107,Malovanna Oleksandra,Female,09-01-2021,Scuol,SUI,Ukraine,Qualification,Parallel Giant Slalom,44,
+108,Malovanna Oleksandra,Female,09-01-2021,Scuol,SUI,Ukraine,World Cup,Parallel Giant Slalom,44,17.30
+109,Malovanna Oleksandra,Female,17-12-2020,Carezza,ITA,Ukraine,Qualification,Parallel Giant Slalom,43,
+110,Malovanna Oleksandra,Female,17-12-2020,Carezza,ITA,Ukraine,World Cup,Parallel Giant Slalom,43,
+111,Malovanna Oleksandra,Female,12-12-2020,Cortina d Ampezzo,ITA,Ukraine,Qualification,Parallel Giant Slalom,31,
+112,Malovanna Oleksandra,Female,12-12-2020,Cortina d Ampezzo,ITA,Ukraine,World Cup,Parallel Giant Slalom,31,28.00
+113,Malovanna Oleksandra,Female,03-03-2020,Blue Mountain,CAN,Ukraine,Nor-Am Cup,Parallel Slalom,15,57.60
+114,Malovanna Oleksandra,Female,02-03-2020,Blue Mountain,CAN,Ukraine,Nor-Am Cup,Parallel Giant Slalom,19,43.20
+115,Malovanna Oleksandra,Female,01-03-2020,Blue Mountain,CAN,Ukraine,World Cup,Parallel Giant Slalom,39,
+116,Malovanna Oleksandra,Female,01-03-2020,Blue Mountain,CAN,Ukraine,Qualification,Parallel Giant Slalom,39,
+117,Malovanna Oleksandra,Female,29-02-2020,Blue Mountain,CAN,Ukraine,World Cup,Parallel Giant Slalom,37,
+118,Malovanna Oleksandra,Female,29-02-2020,Blue Mountain,CAN,Ukraine,Qualification,Parallel Giant Slalom,37,
+119,Malovanna Oleksandra,Female,25-02-2020,Pyeongchang,KOR,Ukraine,National Championships,Parallel Slalom,4,130.00
+120,Malovanna Oleksandra,Female,24-02-2020,Pyeongchang,KOR,Ukraine,National Championships,Parallel Giant Slalom,5,117.00
+121,Malovanna Oleksandra,Female,22-02-2020,Pyeongchang,KOR,Ukraine,World Cup,Parallel Giant Slalom,18,130.00
+122,Malovanna Oleksandra,Female,22-02-2020,Pyeongchang,KOR,Ukraine,Qualification,Parallel Giant Slalom,18,
+123,Malovanna Oleksandra,Female,04-02-2020,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,5,99.00
+124,Malovanna Oleksandra,Female,03-02-2020,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,4,110.00
+125,Malovanna Oleksandra,Female,25-01-2020,Piancavallo,ITA,Ukraine,World Cup,Parallel Slalom,39,
+126,Malovanna Oleksandra,Female,25-01-2020,Piancavallo,ITA,Ukraine,Qualification,Parallel Slalom,39,
+127,Malovanna Oleksandra,Female,18-01-2020,Rogla,SLO,Ukraine,World Cup,Parallel Giant Slalom,43,
+128,Malovanna Oleksandra,Female,18-01-2020,Rogla,SLO,Ukraine,Qualification,Parallel Giant Slalom,43,
+129,Malovanna Oleksandra,Female,14-01-2020,Bad Gastein,AUT,Ukraine,World Cup,Parallel Slalom,40,18.50
+130,Malovanna Oleksandra,Female,14-01-2020,Bad Gastein,AUT,Ukraine,Qualification,Parallel Slalom,40,
+131,Malovanna Oleksandra,Female,11-01-2020,Scuol,SUI,Ukraine,World Cup,Parallel Giant Slalom,DSQ,
+132,Malovanna Oleksandra,Female,11-01-2020,Scuol,SUI,Ukraine,Qualification,Parallel Giant Slalom,DSQ,
+133,Malovanna Oleksandra,Female,23-03-2019,Winterberg,GER,Ukraine,World Cup,Parallel Slalom,30,32.00
+134,Malovanna Oleksandra,Female,23-03-2019,Winterberg,GER,Ukraine,Qualification,Parallel Slalom,30,
+135,Malovanna Oleksandra,Female,09-03-2019,Scuol,SUI,Ukraine,World Cup,Parallel GS,37,
+136,Malovanna Oleksandra,Female,09-03-2019,Scuol,SUI,Ukraine,Qualification,Parallel Giant Slalom,37,
+137,Malovanna Oleksandra,Female,28-02-2019,Bukovel,UKR,Ukraine,National Championships,Parallel Slalom,2,144.00
+138,Malovanna Oleksandra,Female,27-02-2019,Bukovel,UKR,Ukraine,National Championships,Parallel Giant Slalom,2,96.00
+139,Malovanna Oleksandra,Female,05-02-2019,Park City,USA,Ukraine,World Championships,Parallel Slalom,34,22.00
+140,Malovanna Oleksandra,Female,04-02-2019,Park City,USA,Ukraine,World Championships,Parallel Giant Slalom,24,70.00
+141,Malovanna Oleksandra,Female,11-01-2019,Bad Gastein,AUT,Ukraine,European Cup,Parallel Slalom,32,9.36
+142,Malovanna Oleksandra,Female,10-01-2019,Bad Gastein,AUT,Ukraine,European Cup,Parallel Slalom,25,21.60
+143,Malovanna Oleksandra,Female,09-01-2019,Bad Gastein,AUT,Ukraine,World Cup,Parallel Slalom Team,24,
+144,Malovanna Oleksandra,Female,08-01-2019,Bad Gastein,AUT,Ukraine,World Cup,Parallel Slalom,36,19.70
+145,Malovanna Oleksandra,Female,08-01-2019,Bad Gastein,AUT,Ukraine,Qualification,Parallel Slalom,36,
+146,Malovanna Oleksandra,Female,15-12-2018,Cortina d'Ampezzo,ITA,Ukraine,World Cup,Parallel GS,43,
+147,Malovanna Oleksandra,Female,15-12-2018,Cortina d'Ampezzo,ITA,Ukraine,Qualification,Parallel Giant Slalom,43,
+148,Malovanna Oleksandra,Female,13-12-2018,Carezza,ITA,Ukraine,World Cup,Parallel GS,45,
+149,Malovanna Oleksandra,Female,13-12-2018,Carezza,ITA,Ukraine,Qualification,Parallel Giant Slalom,45,
+150,Malovanna Oleksandra,Female,14-03-2018,Suche,POL,Ukraine,National Championships,Parallel Slalom,10,62.40
+151,Malovanna Oleksandra,Female,13-03-2018,Suche,POL,Ukraine,National Championships,Parallel GS,3,144.00
+152,Malovanna Oleksandra,Female,08-03-2018,Carezza,ITA,Ukraine,National Championships,Parallel Slalom,4,120.00
+153,Malovanna Oleksandra,Female,07-03-2018,Carezza,ITA,Ukraine,National Championships,Parallel GS,DNS1,
+154,Malovanna Oleksandra,Female,18-02-2018,Vysna Boca,SVK,Ukraine,FIS,Parallel GS,4,45.00
+155,Malovanna Oleksandra,Female,17-02-2018,Vysna Boca,SVK,Ukraine,FIS,Parallel Slalom,DSQ,
+156,Malovanna Oleksandra,Female,06-02-2018,Bukovytsya,UKR,Ukraine,National Championships,Parallel Slalom,3,60.00
+157,Malovanna Oleksandra,Female,05-02-2018,Bukovytsya,UKR,Ukraine,National Championships,Parallel GS,2,72.00
+158,Malovanna Oleksandra,Female,21-01-2018,Lachtal,AUT,Ukraine,European Cup,Parallel GS,23,17.60
+159,Malovanna Oleksandra,Female,20-01-2018,Lachtal,AUT,Ukraine,European Cup,Parallel GS,22,19.80
+160,Malovanna Oleksandra,Female,07-01-2018,Pec pod Snezkou,CZE,Ukraine,FIS,Parallel Slalom,1,100.00
+161,Malovanna Oleksandra,Female,06-01-2018,Pec pod Snezkou,CZE,Ukraine,FIS,Parallel GS,6,36.00
+162,Malovanna Oleksandra,Female,03-04-2016,Rogla,SLO,Ukraine,FIS Junior World Championships,Parallel Slalom,32,9.36
+163,Malovanna Oleksandra,Female,02-04-2016,Rogla,SLO,Ukraine,FIS Junior World Championships,Parallel GS,10,93.60
+164,Malovanna Oleksandra,Female,04-03-2016,Krasiya,UKR,Ukraine,National Championships,Slalom,2,56.00
+165,Malovanna Oleksandra,Female,03-03-2016,Krasiya,UKR,Ukraine,National Championships,Giant Slalom,2,56.00
+166,Malovanna Oleksandra,Female,28-02-2016,Falkert,AUT,Ukraine,FIS,Giant Slalom,14,39.60
+167,Malovanna Oleksandra,Female,27-02-2016,Falkert,AUT,Ukraine,FIS,Giant Slalom,7,79.20
+168,Malovanna Oleksandra,Female,21-02-2016,Klinovec,CZE,Ukraine,FIS,Parallel Slalom,2,80.00
+169,Malovanna Oleksandra,Female,20-02-2016,Klinovec,CZE,Ukraine,FIS,Parallel GS,1,100.00
+170,Malovanna Oleksandra,Female,30-01-2016,Pfelders,ITA,Ukraine,FIS,Slalom,1,70.00
+171,Malovanna Oleksandra,Female,29-01-2016,Pfelders,ITA,Ukraine,FIS,Slalom,DSQ1,
+172,Malovanna Oleksandra,Female,23-01-2016,Rogla,SLO,Ukraine,World Cup,Parallel GS,39,
+173,Malovanna Oleksandra,Female,08-01-2016,Bad Gastein,AUT,Ukraine,World Cup,Parallel Slalom,40,
+174,Malovanna Oleksandra,Female,19-12-2015,Cortina d'Ampezzo,ITA,Ukraine,World Cup,Parallel Slalom,37,
+175,Malovanna Oleksandra,Female,12-12-2015,Carezza,ITA,Ukraine,World Cup,Parallel GS,37,
+176,Malovanna Oleksandra,Female,06-12-2015,Hochfuegen,GER,Ukraine,European Cup,Parallel GS,40,9.25
+177,Malovanna Oleksandra,Female,05-12-2015,Hochfuegen,GER,Ukraine,European Cup,Parallel GS,47,8.20
+178,Malovanna Oleksandra,Female,16-10-2015,Landgraaf,NED,Ukraine,European Cup,Parallel Slalom,33,12.00
+179,Malovanna Oleksandra,Female,15-10-2015,Landgraaf,NED,Ukraine,European Cup,Parallel Slalom,39,9.40
+180,Malovanna Oleksandra,Female,11-03-2015,Yabuli,CHN,Ukraine,FIS Junior World Championships,Parallel Slalom,29,
+181,Malovanna Oleksandra,Female,10-03-2015,Yabuli,CHN,Ukraine,FIS Junior World Championships,Parallel GS,13,72.00
+182,Malovanna Oleksandra,Female,28-02-2015,Krasiya,UKR,Ukraine,National Championships,Parallel Slalom,5,22.50
+183,Malovanna Oleksandra,Female,27-02-2015,Krasiya,UKR,Ukraine,National Championships,Giant Slalom,1,50.00
+184,Malovanna Oleksandra,Female,23-01-2015,Lachtal,AUT,Ukraine,World Championships,Parallel GS,41,0.00
+185,Malovanna Oleksandra,Female,22-01-2015,Lachtal,AUT,Ukraine,World Championships,Parallel Slalom,37,0.00
+186,Malovanna Oleksandra,Female,06-01-2015,Dachstein West / Gosau,AUT,Ukraine,FIS,Parallel Slalom,22,23.40
+187,Malovanna Oleksandra,Female,05-01-2015,Dachstein West / Gosau,AUT,Ukraine,FIS,Parallel Slalom,26,13.00
+188,Malovanna Oleksandra,Female,25-03-2014,Chiesa in Valmalenco,ITA,Ukraine,FIS Junior World Championships,Parallel Slalom,27,16.20
+189,Malovanna Oleksandra,Female,24-03-2014,Chiesa in Valmalenco,ITA,Ukraine,FIS Junior World Championships,Parallel GS,15,57.60
+190,Malovanna Oleksandra,Female,07-03-2013,Erzurum,TUR,Ukraine,FIS Junior World Championships,Parallel Slalom,32,0.00
+191,Malovanna Oleksandra,Female,06-03-2013,Erzurum,TUR,Ukraine,FIS Junior World Championships,Parallel GS,20,39.60
+192,Malovanna Oleksandra,Female,27-02-2013,Krasiya,UKR,Ukraine,National Championships,Parallel GS,4,65.00
+193,Malovanna Oleksandra,Female,21-02-2013,Predeal,ROU,Ukraine,European Youth Olympic Festival,Parallel GS,6,48.00
+194,Malovanna Oleksandra,Female,10-02-2013,Marianske Lazne,CZE,Ukraine,European Cup,Parallel Slalom,16,48.00
+195,Malovanna Oleksandra,Female,09-02-2013,Marianske Lazne,CZE,Ukraine,European Cup,Parallel Slalom,22,28.80
+196,Malovanna Oleksandra,Female,20-01-2013,Vratna - Paseky,SVK,Ukraine,European Cup,Parallel GS,33,0.00
+197,Malovanna Oleksandra,Female,19-01-2013,Vratna - Paseky,SVK,Ukraine,European Cup,Parallel GS,23,23.20
+198,Malovanna Oleksandra,Female,16-12-2012,Racines/Ratschings,ITA,Ukraine,European Cup,Parallel Slalom,38,9.55
+199,Malovanna Oleksandra,Female,15-12-2012,Racines/Ratschings,ITA,Ukraine,European Cup,Parallel Slalom,45,8.50
+200,Malovanna Oleksandra,Female,09-12-2012,Lachtal,AUT,Ukraine,European Cup,Parallel GS,71,0.00
+201,Malovanna Oleksandra,Female,08-12-2012,Lachtal,AUT,Ukraine,European Cup,Parallel GS,68,5.05
+202,Malovanna Oleksandra,Female,31-08-2012,"Snej.com, Moscow",RUS,Ukraine,FIS,Parallel Slalom,9,75.40

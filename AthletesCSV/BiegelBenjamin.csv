@@ -1,87 +1,89 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Biegel Benjamin,Male,09-02-2025,Simonhoehe,AUT,Czechia,National Championships,Parallel Slalom,23,23.20
-1,Biegel Benjamin,Male,08-02-2025,Simonhoehe,AUT,Czechia,National Championships,Parallel Giant Slalom,24,20.30
-2,Biegel Benjamin,Male,22-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,25,9.60
-3,Biegel Benjamin,Male,21-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,38,3.06
-4,Biegel Benjamin,Male,20-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,52,
-5,Biegel Benjamin,Male,17-03-2024,Spindleruv Mlyn,CZE,Czechia,Junior,Parallel Slalom,3,30.00
-6,Biegel Benjamin,Male,16-03-2024,Spindleruv Mlyn,CZE,Czechia,Junior,Parallel Slalom,8,16.00
-7,Biegel Benjamin,Male,07-01-2024,Dolni Morava,CZE,Czechia,National Junior Championships,Parallel Giant Slalom,4,25.00
-8,Biegel Benjamin,Male,06-01-2024,Dolni Morava,CZE,Czechia,National Junior Championships,Parallel Slalom,6,20.00
-9,Biegel Benjamin,Male,22-12-2023,Moninec,CZE,Czechia,Junior,Parallel Slalom,20,
-10,Biegel Benjamin,Male,21-12-2023,Moninec,CZE,Czechia,Junior,Parallel Slalom,10,26.00
-11,Biegel Benjamin,Male,20-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,45,3.74
-12,Biegel Benjamin,Male,19-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,49,3.48
-13,Biegel Benjamin,Male,10-12-2023,Götschen,GER,Czechia,Junior,Parallel Slalom,34,2.86
-14,Biegel Benjamin,Male,09-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,64,
-15,Biegel Benjamin,Male,09-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,64,
-16,Biegel Benjamin,Male,08-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,72,
-17,Biegel Benjamin,Male,08-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,72,
-18,Biegel Benjamin,Male,30-03-2023,Cortina dAmpezzo,ITA,Czechia,National Championships,Parallel Slalom,29,10.44
-19,Biegel Benjamin,Male,28-03-2023,Bansko,BUL,Czechia,National Championships,Parallel Slalom,14,36.00
-20,Biegel Benjamin,Male,27-03-2023,Bansko,BUL,Czechia,National Championships,Parallel Giant Slalom,13,40.00
-21,Biegel Benjamin,Male,26-03-2023,Bansko,BUL,Czechia,FIS Junior World Championships,Parallel Team,21,
-22,Biegel Benjamin,Male,25-03-2023,Bansko,BUL,Czechia,Qualification,Parallel Slalom,35,
-23,Biegel Benjamin,Male,25-03-2023,Bansko,BUL,Czechia,FIS Junior World Championships,Parallel Slalom,35,4.80
-24,Biegel Benjamin,Male,24-03-2023,Bansko,BUL,Czechia,Qualification,Parallel Giant Slalom,DNF,
-25,Biegel Benjamin,Male,24-03-2023,Bansko,BUL,Czechia,FIS Junior World Championships,Parallel Giant Slalom,DNF,
-26,Biegel Benjamin,Male,19-03-2023,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,DSQ,
-27,Biegel Benjamin,Male,18-03-2023,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,43,3.17
-28,Biegel Benjamin,Male,12-03-2023,ORTISEI,ITA,Czechia,FIS,Giant Slalom,10,46.80
-29,Biegel Benjamin,Male,11-03-2023,ORTISEI,ITA,Czechia,FIS,Giant Slalom,15,35.20
-30,Biegel Benjamin,Male,05-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,4,35.00
-31,Biegel Benjamin,Male,04-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,3,42.00
-32,Biegel Benjamin,Male,03-03-2023,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Giant Slalom,14,12.60
-33,Biegel Benjamin,Male,27-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,3,30.00
-34,Biegel Benjamin,Male,26-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,4,25.00
-35,Biegel Benjamin,Male,25-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,2,40.00
-36,Biegel Benjamin,Male,29-01-2023,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,35,
-37,Biegel Benjamin,Male,29-01-2023,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,35,3.60
-38,Biegel Benjamin,Male,28-01-2023,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,40,3.33
-39,Biegel Benjamin,Male,28-01-2023,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,40,
-40,Biegel Benjamin,Male,08-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Giant Slalom,28,4.80
-41,Biegel Benjamin,Male,07-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,20,13.20
-42,Biegel Benjamin,Male,04-01-2023,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,16,39.00
-43,Biegel Benjamin,Male,18-12-2022,Hochfügen,GER,Czechia,Qualification,Parallel Giant Slalom,58,
-44,Biegel Benjamin,Male,18-12-2022,Hochfügen,GER,Czechia,European Cup,Parallel Giant Slalom,58,
-45,Biegel Benjamin,Male,17-12-2022,Hochfügen,GER,Czechia,European Cup,Parallel Giant Slalom,31,5.04
-46,Biegel Benjamin,Male,01-04-2022,Chiesa in Valmalenco,ITA,Czechia,FIS Junior World Championships,Parallel Slalom,40,4.44
-47,Biegel Benjamin,Male,31-03-2022,Chiesa in Valmalenco,ITA,Czechia,FIS Junior World Championships,Parallel Giant Slalom,43,
-48,Biegel Benjamin,Male,27-03-2022,Villach / Gerlitzen,AUT,Czechia,National Championships,Parallel Slalom,26,14.50
-49,Biegel Benjamin,Male,26-03-2022,Villach / Gerlitzen,AUT,Czechia,National Championships,Parallel Giant Slalom,25,17.40
-50,Biegel Benjamin,Male,13-03-2022,Spindleruv Mlyn,CZE,Czechia,National Junior Championships,Parallel Slalom,3,30.00
-51,Biegel Benjamin,Male,12-03-2022,Spindleruv Mlyn,CZE,Czechia,National Junior Championships,Parallel Giant Slalom,6,20.00
-52,Biegel Benjamin,Male,09-03-2022,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Slalom,19,34.80
-53,Biegel Benjamin,Male,08-03-2022,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,20,31.90
-54,Biegel Benjamin,Male,20-02-2022,Bozi Dar - Neklid,CZE,Czechia,Junior,Parallel Slalom,5,22.50
-55,Biegel Benjamin,Male,19-02-2022,Bozi Dar - Neklid,CZE,Czechia,Junior,Parallel Slalom,3,30.00
-56,Biegel Benjamin,Male,06-02-2022,Ebensee,AUT,Czechia,FIS,Parallel Slalom,20,
-57,Biegel Benjamin,Male,05-02-2022,Ebensee,AUT,Czechia,FIS,Parallel Slalom,16,10.50
-58,Biegel Benjamin,Male,16-01-2022,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,1,50.00
-59,Biegel Benjamin,Male,15-01-2022,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,1,50.00
-60,Biegel Benjamin,Male,09-01-2022,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,16,15.00
-61,Biegel Benjamin,Male,08-01-2022,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,19,12.00
-62,Biegel Benjamin,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Czechia,Junior,Slalom,8,16.00
-63,Biegel Benjamin,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Czechia,Junior,Parallel Slalom,2,40.00
-64,Biegel Benjamin,Male,21-12-2021,Moninec,CZE,Czechia,Junior,Parallel Slalom,9,14.50
-65,Biegel Benjamin,Male,20-12-2021,Moninec,CZE,Czechia,Junior,Parallel Slalom,19,8.40
-66,Biegel Benjamin,Male,19-12-2021,Moninec,CZE,Czechia,European Cup,Parallel Slalom,40,4.07
-67,Biegel Benjamin,Male,18-12-2021,Moninec,CZE,Czechia,European Cup,Parallel Slalom,43,3.52
-68,Biegel Benjamin,Male,31-03-2021,Villnöss,ITA,Czechia,National Championships,Parallel Giant Slalom,30,9.28
-69,Biegel Benjamin,Male,30-03-2021,Villnöss,ITA,Czechia,National Championships,Parallel Slalom,26,14.50
-70,Biegel Benjamin,Male,26-03-2021,Krasnoyarsk ,RUS,Czechia,FIS Junior World Championships,Parallel Slalom,31,
-71,Biegel Benjamin,Male,25-03-2021,Krasnoyarsk ,RUS,Czechia,Qualification,Parallel Giant Slalom,31,
-72,Biegel Benjamin,Male,25-03-2021,Krasnoyarsk ,RUS,Czechia,FIS Junior World Championships,Parallel Giant Slalom,31,
-73,Biegel Benjamin,Male,13-03-2021,Davos Rinerhorn,SUI,Czechia,European Cup,Parallel Giant Slalom,54,
-74,Biegel Benjamin,Male,09-03-2021,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Slalom,32,7.54
-75,Biegel Benjamin,Male,08-03-2021,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,52,4.32
-76,Biegel Benjamin,Male,23-01-2021,Haus im Ennstal,AUT,Czechia,Junior,Parallel Slalom,18,6.50
-77,Biegel Benjamin,Male,22-01-2021,Haus im Ennstal,AUT,Czechia,Junior,Parallel Slalom,13,10.00
-78,Biegel Benjamin,Male,10-01-2021,Goetschen,GER,Czechia,Junior,Parallel Slalom,19,12.00
-79,Biegel Benjamin,Male,09-01-2021,Goetschen,GER,Czechia,Junior,Parallel Slalom,26,5.00
-80,Biegel Benjamin,Male,20-12-2020,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Giant Slalom,29,
-81,Biegel Benjamin,Male,19-12-2020,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Slalom,26,18.00
-82,Biegel Benjamin,Male,01-03-2020,Pec pod Snezkou,CZE,Czechia,Junior,Parallel Slalom,9,14.50
-83,Biegel Benjamin,Male,29-02-2020,Pec pod Snezkou,CZE,Czechia,Junior,Parallel Giant Slalom,11,12.00
-84,Biegel Benjamin,Male,21-12-2019,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,20,9.90
-85,Biegel Benjamin,Male,20-12-2019,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,15,14.40
+0,Biegel Benjamin,Male,02-03-2025,Spindleruv Mlyn - Stoh,CZE,Czechia,National Championships,Parallel Slalom,15,
+1,Biegel Benjamin,Male,01-03-2025,Spindleruv Mlyn - Stoh,CZE,Czechia,National Championships,Parallel Giant Slalom,4,
+2,Biegel Benjamin,Male,09-02-2025,Simonhoehe,AUT,Czechia,National Championships,Parallel Slalom,23,23.20
+3,Biegel Benjamin,Male,08-02-2025,Simonhoehe,AUT,Czechia,National Championships,Parallel Giant Slalom,24,20.30
+4,Biegel Benjamin,Male,22-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,25,9.60
+5,Biegel Benjamin,Male,21-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,38,3.06
+6,Biegel Benjamin,Male,20-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,52,
+7,Biegel Benjamin,Male,17-03-2024,Spindleruv Mlyn,CZE,Czechia,Junior,Parallel Slalom,3,30.00
+8,Biegel Benjamin,Male,16-03-2024,Spindleruv Mlyn,CZE,Czechia,Junior,Parallel Slalom,8,16.00
+9,Biegel Benjamin,Male,07-01-2024,Dolni Morava,CZE,Czechia,National Junior Championships,Parallel Giant Slalom,4,25.00
+10,Biegel Benjamin,Male,06-01-2024,Dolni Morava,CZE,Czechia,National Junior Championships,Parallel Slalom,6,20.00
+11,Biegel Benjamin,Male,22-12-2023,Moninec,CZE,Czechia,Junior,Parallel Slalom,20,
+12,Biegel Benjamin,Male,21-12-2023,Moninec,CZE,Czechia,Junior,Parallel Slalom,10,26.00
+13,Biegel Benjamin,Male,20-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,45,3.74
+14,Biegel Benjamin,Male,19-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,49,3.48
+15,Biegel Benjamin,Male,10-12-2023,Götschen,GER,Czechia,Junior,Parallel Slalom,34,2.86
+16,Biegel Benjamin,Male,09-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,64,
+17,Biegel Benjamin,Male,09-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,64,
+18,Biegel Benjamin,Male,08-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,72,
+19,Biegel Benjamin,Male,08-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,72,
+20,Biegel Benjamin,Male,30-03-2023,Cortina dAmpezzo,ITA,Czechia,National Championships,Parallel Slalom,29,10.44
+21,Biegel Benjamin,Male,28-03-2023,Bansko,BUL,Czechia,National Championships,Parallel Slalom,14,36.00
+22,Biegel Benjamin,Male,27-03-2023,Bansko,BUL,Czechia,National Championships,Parallel Giant Slalom,13,40.00
+23,Biegel Benjamin,Male,26-03-2023,Bansko,BUL,Czechia,FIS Junior World Championships,Parallel Team,21,
+24,Biegel Benjamin,Male,25-03-2023,Bansko,BUL,Czechia,Qualification,Parallel Slalom,35,
+25,Biegel Benjamin,Male,25-03-2023,Bansko,BUL,Czechia,FIS Junior World Championships,Parallel Slalom,35,4.80
+26,Biegel Benjamin,Male,24-03-2023,Bansko,BUL,Czechia,Qualification,Parallel Giant Slalom,DNF,
+27,Biegel Benjamin,Male,24-03-2023,Bansko,BUL,Czechia,FIS Junior World Championships,Parallel Giant Slalom,DNF,
+28,Biegel Benjamin,Male,19-03-2023,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,DSQ,
+29,Biegel Benjamin,Male,18-03-2023,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,43,3.17
+30,Biegel Benjamin,Male,12-03-2023,ORTISEI,ITA,Czechia,FIS,Giant Slalom,10,46.80
+31,Biegel Benjamin,Male,11-03-2023,ORTISEI,ITA,Czechia,FIS,Giant Slalom,15,35.20
+32,Biegel Benjamin,Male,05-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,4,35.00
+33,Biegel Benjamin,Male,04-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,3,42.00
+34,Biegel Benjamin,Male,03-03-2023,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Giant Slalom,14,12.60
+35,Biegel Benjamin,Male,27-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,3,30.00
+36,Biegel Benjamin,Male,26-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,4,25.00
+37,Biegel Benjamin,Male,25-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,2,40.00
+38,Biegel Benjamin,Male,29-01-2023,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,35,
+39,Biegel Benjamin,Male,29-01-2023,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,35,3.60
+40,Biegel Benjamin,Male,28-01-2023,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,40,3.33
+41,Biegel Benjamin,Male,28-01-2023,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,40,
+42,Biegel Benjamin,Male,08-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Giant Slalom,28,4.80
+43,Biegel Benjamin,Male,07-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,20,13.20
+44,Biegel Benjamin,Male,04-01-2023,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,16,39.00
+45,Biegel Benjamin,Male,18-12-2022,Hochfügen,GER,Czechia,European Cup,Parallel Giant Slalom,58,
+46,Biegel Benjamin,Male,18-12-2022,Hochfügen,GER,Czechia,Qualification,Parallel Giant Slalom,58,
+47,Biegel Benjamin,Male,17-12-2022,Hochfügen,GER,Czechia,European Cup,Parallel Giant Slalom,31,5.04
+48,Biegel Benjamin,Male,01-04-2022,Chiesa in Valmalenco,ITA,Czechia,FIS Junior World Championships,Parallel Slalom,40,4.44
+49,Biegel Benjamin,Male,31-03-2022,Chiesa in Valmalenco,ITA,Czechia,FIS Junior World Championships,Parallel Giant Slalom,43,
+50,Biegel Benjamin,Male,27-03-2022,Villach / Gerlitzen,AUT,Czechia,National Championships,Parallel Slalom,26,14.50
+51,Biegel Benjamin,Male,26-03-2022,Villach / Gerlitzen,AUT,Czechia,National Championships,Parallel Giant Slalom,25,17.40
+52,Biegel Benjamin,Male,13-03-2022,Spindleruv Mlyn,CZE,Czechia,National Junior Championships,Parallel Slalom,3,30.00
+53,Biegel Benjamin,Male,12-03-2022,Spindleruv Mlyn,CZE,Czechia,National Junior Championships,Parallel Giant Slalom,6,20.00
+54,Biegel Benjamin,Male,09-03-2022,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Slalom,19,34.80
+55,Biegel Benjamin,Male,08-03-2022,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,20,31.90
+56,Biegel Benjamin,Male,20-02-2022,Bozi Dar - Neklid,CZE,Czechia,Junior,Parallel Slalom,5,22.50
+57,Biegel Benjamin,Male,19-02-2022,Bozi Dar - Neklid,CZE,Czechia,Junior,Parallel Slalom,3,30.00
+58,Biegel Benjamin,Male,06-02-2022,Ebensee,AUT,Czechia,FIS,Parallel Slalom,20,
+59,Biegel Benjamin,Male,05-02-2022,Ebensee,AUT,Czechia,FIS,Parallel Slalom,16,10.50
+60,Biegel Benjamin,Male,16-01-2022,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,1,50.00
+61,Biegel Benjamin,Male,15-01-2022,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,1,50.00
+62,Biegel Benjamin,Male,09-01-2022,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,16,15.00
+63,Biegel Benjamin,Male,08-01-2022,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,19,12.00
+64,Biegel Benjamin,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Czechia,Junior,Parallel Slalom,2,40.00
+65,Biegel Benjamin,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Czechia,Junior,Slalom,8,16.00
+66,Biegel Benjamin,Male,21-12-2021,Moninec,CZE,Czechia,Junior,Parallel Slalom,9,14.50
+67,Biegel Benjamin,Male,20-12-2021,Moninec,CZE,Czechia,Junior,Parallel Slalom,19,8.40
+68,Biegel Benjamin,Male,19-12-2021,Moninec,CZE,Czechia,European Cup,Parallel Slalom,40,4.07
+69,Biegel Benjamin,Male,18-12-2021,Moninec,CZE,Czechia,European Cup,Parallel Slalom,43,3.52
+70,Biegel Benjamin,Male,31-03-2021,Villnöss,ITA,Czechia,National Championships,Parallel Giant Slalom,30,9.28
+71,Biegel Benjamin,Male,30-03-2021,Villnöss,ITA,Czechia,National Championships,Parallel Slalom,26,14.50
+72,Biegel Benjamin,Male,26-03-2021,Krasnoyarsk ,RUS,Czechia,FIS Junior World Championships,Parallel Slalom,31,
+73,Biegel Benjamin,Male,25-03-2021,Krasnoyarsk ,RUS,Czechia,Qualification,Parallel Giant Slalom,31,
+74,Biegel Benjamin,Male,25-03-2021,Krasnoyarsk ,RUS,Czechia,FIS Junior World Championships,Parallel Giant Slalom,31,
+75,Biegel Benjamin,Male,13-03-2021,Davos Rinerhorn,SUI,Czechia,European Cup,Parallel Giant Slalom,54,
+76,Biegel Benjamin,Male,09-03-2021,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Slalom,32,7.54
+77,Biegel Benjamin,Male,08-03-2021,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,52,4.32
+78,Biegel Benjamin,Male,23-01-2021,Haus im Ennstal,AUT,Czechia,Junior,Parallel Slalom,18,6.50
+79,Biegel Benjamin,Male,22-01-2021,Haus im Ennstal,AUT,Czechia,Junior,Parallel Slalom,13,10.00
+80,Biegel Benjamin,Male,10-01-2021,Goetschen,GER,Czechia,Junior,Parallel Slalom,19,12.00
+81,Biegel Benjamin,Male,09-01-2021,Goetschen,GER,Czechia,Junior,Parallel Slalom,26,5.00
+82,Biegel Benjamin,Male,20-12-2020,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Giant Slalom,29,
+83,Biegel Benjamin,Male,19-12-2020,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Slalom,26,18.00
+84,Biegel Benjamin,Male,01-03-2020,Pec pod Snezkou,CZE,Czechia,Junior,Parallel Slalom,9,14.50
+85,Biegel Benjamin,Male,29-02-2020,Pec pod Snezkou,CZE,Czechia,Junior,Parallel Giant Slalom,11,12.00
+86,Biegel Benjamin,Male,21-12-2019,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,20,9.90
+87,Biegel Benjamin,Male,20-12-2019,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,15,14.40

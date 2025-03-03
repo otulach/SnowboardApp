@@ -1,316 +1,320 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Gasser Larissa,Female,23-02-2025,Lenzerheide,SUI,Switzerland,National Championships,Giant Slalom,DNF,
-1,Gasser Larissa,Female,22-02-2025,Lenzerheide,SUI,Switzerland,National Championships,Parallel Slalom,7,104.40
-2,Gasser Larissa,Female,16-02-2025,Val St. Come,CAN,Switzerland,Qualification,Parallel Giant Slalom,26,
-3,Gasser Larissa,Female,16-02-2025,Val St. Come,CAN,Switzerland,World Cup,Parallel Giant Slalom,26,50.00
-4,Gasser Larissa,Female,15-02-2025,Val St. Come,CAN,Switzerland,Qualification,Parallel Giant Slalom,21,
-5,Gasser Larissa,Female,15-02-2025,Val St. Come,CAN,Switzerland,World Cup,Parallel Giant Slalom,21,100.00
-6,Gasser Larissa,Female,26-01-2025,Simonhöhe,AUT,Switzerland,European Cup,Parallel Giant Slalom,18,46.80
-7,Gasser Larissa,Female,25-01-2025,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,38,
-8,Gasser Larissa,Female,25-01-2025,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,38,
-9,Gasser Larissa,Female,22-01-2025,Bansko,BUL,Switzerland,European Cup,Parallel Giant Slalom,2,288.00
-10,Gasser Larissa,Female,21-01-2025,Bansko,BUL,Switzerland,European Cup,Parallel Giant Slalom,5,162.00
-11,Gasser Larissa,Female,19-01-2025,Bansko,BUL,Switzerland,Qualification,Parallel Giant Slalom,16,
-12,Gasser Larissa,Female,19-01-2025,Bansko,BUL,Switzerland,World Cup,Parallel Giant Slalom,16,150.00
-13,Gasser Larissa,Female,18-01-2025,Bansko,BUL,Switzerland,Qualification,Parallel Giant Slalom,27,
-14,Gasser Larissa,Female,18-01-2025,Bansko,BUL,Switzerland,World Cup,Parallel Giant Slalom,27,45.00
-15,Gasser Larissa,Female,14-01-2025,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,14,
-16,Gasser Larissa,Female,14-01-2025,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,14,180.00
-17,Gasser Larissa,Female,11-01-2025,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,DNF,
-18,Gasser Larissa,Female,11-01-2025,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,DNF,
-19,Gasser Larissa,Female,21-12-2024,Davos,SUI,Switzerland,Qualification,Parallel Slalom,12,
-20,Gasser Larissa,Female,21-12-2024,Davos,SUI,Switzerland,World Cup,Parallel Slalom,14,180.00
-21,Gasser Larissa,Female,20-12-2024,Moninec,CZE,Switzerland,European Cup,Parallel Slalom,10,62.40
-22,Gasser Larissa,Female,19-12-2024,Moninec,CZE,Switzerland,European Cup,Parallel Slalom,13,48.00
-23,Gasser Larissa,Female,15-12-2024,Götschen,GER,Switzerland,European Cup,Parallel Slalom,6,96.00
-24,Gasser Larissa,Female,14-12-2024,Götschen,GER,Switzerland,European Cup,Parallel Slalom,3,132.00
-25,Gasser Larissa,Female,17-03-2024,St. Moritz,SUI,Switzerland,European Cup,Parallel Slalom,16,54.00
-26,Gasser Larissa,Female,16-03-2024,St. Moritz,SUI,Switzerland,European Cup,Parallel Giant Slalom,14,64.80
-27,Gasser Larissa,Female,13-03-2024,Davos/Rinerhorn ,SUI,Switzerland,European Cup,Parallel Giant Slalom,4,120.00
-28,Gasser Larissa,Female,12-03-2024,Davos/Rinerhorn ,SUI,Switzerland,European Cup,Parallel Giant Slalom,13,72.00
-29,Gasser Larissa,Female,09-03-2024,Winterberg,GER,Switzerland,Qualification,Parallel Slalom,19,
-30,Gasser Larissa,Female,09-03-2024,Winterberg,GER,Switzerland,World Cup,Parallel Slalom,19,120.00
-31,Gasser Larissa,Female,25-02-2024,Krynica,POL,Switzerland,Qualification,Parallel Giant Slalom,16,
-32,Gasser Larissa,Female,25-02-2024,Krynica,POL,Switzerland,World Cup,Parallel Giant Slalom,16,150.00
-33,Gasser Larissa,Female,24-02-2024,Krynica,POL,Switzerland,Qualification,Parallel Giant Slalom,28,
-34,Gasser Larissa,Female,24-02-2024,Krynica,POL,Switzerland,World Cup,Parallel Giant Slalom,28,40.00
-35,Gasser Larissa,Female,27-01-2024,Simonhöhe,AUT,Switzerland,Qualification,Parallel Giant Slalom,16,
-36,Gasser Larissa,Female,27-01-2024,Simonhöhe,AUT,Switzerland,World Cup,Parallel Giant Slalom,16,150.00
-37,Gasser Larissa,Female,25-01-2024,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,19,
-38,Gasser Larissa,Female,25-01-2024,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,19,120.00
-39,Gasser Larissa,Female,21-01-2024,Pamporovo,BUL,Switzerland,Qualification,Parallel Slalom,29,
-40,Gasser Larissa,Female,21-01-2024,Pamporovo,BUL,Switzerland,World Cup,Parallel Slalom,29,36.00
-41,Gasser Larissa,Female,20-01-2024,Pamporovo,BUL,Switzerland,Qualification,Parallel Slalom,35,
-42,Gasser Larissa,Female,20-01-2024,Pamporovo,BUL,Switzerland,World Cup,Parallel Slalom,35,20.00
-43,Gasser Larissa,Female,16-01-2024,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,17,
-44,Gasser Larissa,Female,16-01-2024,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,17,140.00
-45,Gasser Larissa,Female,13-01-2024,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,17,
-46,Gasser Larissa,Female,13-01-2024,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,17,140.00
-47,Gasser Larissa,Female,23-12-2023,Davos ,SUI,Switzerland,Qualification,Parallel Slalom,22,
-48,Gasser Larissa,Female,23-12-2023,Davos,SUI,Switzerland,World Cup,Parallel Slalom,22,90.00
-49,Gasser Larissa,Female,14-12-2023,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,32,
-50,Gasser Larissa,Female,14-12-2023,Carezza,ITA,Switzerland,World Cup,Parallel Giant Slalom,32,26.00
-51,Gasser Larissa,Female,18-03-2023,Berchtesgaden,GER,Switzerland,Qualification,Parallel Slalom,16,
-52,Gasser Larissa,Female,18-03-2023,Berchtesgaden,GER,Switzerland,World Cup,Parallel Slalom,16,150.00
-53,Gasser Larissa,Female,15-03-2023,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,25,60.00
-54,Gasser Larissa,Female,15-03-2023,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,25,
-55,Gasser Larissa,Female,12-03-2023,Davos,SUI,Switzerland,European Cup,Parallel Slalom,1,260.00
-56,Gasser Larissa,Female,11-03-2023,Davos,SUI,Switzerland,European Cup,Parallel Slalom,14,64.80
-57,Gasser Larissa,Female,05-03-2023,Zakopane,POL,Switzerland,European Cup,Parallel Giant Slalom,5,130.50
-58,Gasser Larissa,Female,04-03-2023,Zakopane,POL,Switzerland,European Cup,Parallel Giant Slalom,9,104.40
-59,Gasser Larissa,Female,05-02-2023,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,9,63.80
-60,Gasser Larissa,Female,27-01-2023,Blue Mountain,CAN,Switzerland,Qualification,Parallel Giant Slalom,16,
-61,Gasser Larissa,Female,27-01-2023,Blue Mountain,CAN,Switzerland,World Cup,Parallel Giant Slalom,16,150.00
-62,Gasser Larissa,Female,26-01-2023,Blue Mountain,CAN,Switzerland,Qualification,Parallel Giant Slalom,24,
-63,Gasser Larissa,Female,26-01-2023,Blue Mountain,CAN,Switzerland,World Cup,Parallel Giant Slalom,24,70.00
-64,Gasser Larissa,Female,22-01-2023,Bansko,BUL,Switzerland,Qualification,Parallel Slalom,16,
-65,Gasser Larissa,Female,22-01-2023,Bansko,BUL,Switzerland,World Cup,Parallel Slalom,16,150.00
-66,Gasser Larissa,Female,21-01-2023,Bansko,BUL,Switzerland,Qualification,Parallel Slalom,18,
-67,Gasser Larissa,Female,21-01-2023,Bansko,BUL,Switzerland,World Cup,Parallel Slalom,18,130.00
-68,Gasser Larissa,Female,14-01-2023,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,16,
-69,Gasser Larissa,Female,14-01-2023,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,16,150.00
-70,Gasser Larissa,Female,10-01-2023,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,21,
-71,Gasser Larissa,Female,10-01-2023,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,21,100.00
-72,Gasser Larissa,Female,17-12-2022,Cortina d'Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,20,
-73,Gasser Larissa,Female,17-12-2022,Cortina d'Ampezzo,ITA,Switzerland,World Cup,Parallel Giant Slalom,20,110.00
-74,Gasser Larissa,Female,15-12-2022,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,13,
-75,Gasser Larissa,Female,15-12-2022,Carezza,ITA,Switzerland,World Cup,Parallel Giant Slalom,13,200.00
-76,Gasser Larissa,Female,11-12-2022,Winterberg,GER,Switzerland,World Cup,Parallel Slalom,19,120.00
-77,Gasser Larissa,Female,10-12-2022,Winterberg,GER,Switzerland,Qualification,Parallel Slalom,19,
-78,Gasser Larissa,Female,19-03-2022,Berchtesgaden,GER,Switzerland,Qualification,Parallel Slalom,22,
-79,Gasser Larissa,Female,19-03-2022,Berchtesgaden,GER,Switzerland,World Cup,Parallel Slalom,22,90.00
-80,Gasser Larissa,Female,17-03-2022,Rogla,SLO,Switzerland,European Cup,Parallel Giant Slalom,9,104.40
-81,Gasser Larissa,Female,16-03-2022,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,32,
-82,Gasser Larissa,Female,16-03-2022,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,32,26.00
-83,Gasser Larissa,Female,12-03-2022,Piancavallo,ITA,Switzerland,Qualification,Parallel Slalom,DSQ,
-84,Gasser Larissa,Female,12-03-2022,Piancavallo,ITA,Switzerland,World Cup,Parallel Slalom,DSQ,
-85,Gasser Larissa,Female,06-03-2022,Lachtal,AUT,Switzerland,European Cup,Parallel Giant Slalom,9,104.40
-86,Gasser Larissa,Female,05-03-2022,Lachtal,AUT,Switzerland,European Cup,Parallel Giant Slalom,5,162.00
-87,Gasser Larissa,Female,20-02-2022,Bakuriani,GEO,Switzerland,European Cup,Parallel Giant Slalom,7,129.60
-88,Gasser Larissa,Female,19-02-2022,Bakuriani,GEO,Switzerland,European Cup,Parallel Giant Slalom,4,180.00
-89,Gasser Larissa,Female,06-02-2022,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,4,130.00
-90,Gasser Larissa,Female,05-02-2022,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,5,117.00
-91,Gasser Larissa,Female,30-01-2022,Davos,SUI,Switzerland,European Cup,Parallel Slalom,2,192.00
-92,Gasser Larissa,Female,29-01-2022,Davos,SUI,Switzerland,European Cup,Parallel Slalom,13,48.00
-93,Gasser Larissa,Female,23-01-2022,Bukovel,UKR,Switzerland,European Cup,Parallel Giant Slalom,19,31.20
-94,Gasser Larissa,Female,22-01-2022,Bukovel,UKR,Switzerland,European Cup,Parallel Giant Slalom,4,130.00
-95,Gasser Larissa,Female,11-01-2022,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,DNS,
-96,Gasser Larissa,Female,11-01-2022,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,DNS,
-97,Gasser Larissa,Female,08-01-2022,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,28,
-98,Gasser Larissa,Female,08-01-2022,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,28,40.00
-99,Gasser Larissa,Female,18-12-2021,Cortina d Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,42,
-100,Gasser Larissa,Female,18-12-2021,Cortina d Ampezzo,ITA,Switzerland,World Cup,Parallel Giant Slalom,42,17.90
-101,Gasser Larissa,Female,16-12-2021,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,21,
-102,Gasser Larissa,Female,16-12-2021,Carezza,ITA,Switzerland,World Cup,Parallel Giant Slalom,21,100.00
-103,Gasser Larissa,Female,12-12-2021,Bannoye,RUS,Switzerland,Qualification,Parallel Slalom,28,
-104,Gasser Larissa,Female,12-12-2021,Bannoye,RUS,Switzerland,World Cup,Parallel Slalom,28,40.00
-105,Gasser Larissa,Female,11-12-2021,Bannoye,RUS,Switzerland,Qualification,Parallel Giant Slalom,23,
-106,Gasser Larissa,Female,11-12-2021,Bannoye,RUS,Switzerland,World Cup,Parallel Giant Slalom,23,80.00
-107,Gasser Larissa,Female,20-03-2021,Berchtesgaden,GER,Switzerland,Qualification,Parallel Slalom,37,
-108,Gasser Larissa,Female,20-03-2021,Berchtesgaden,GER,Switzerland,World Cup,Parallel Slalom,37,19.40
-109,Gasser Larissa,Female,13-03-2021,Davos Rinerhorn,SUI,Switzerland,European Cup,Parallel Giant Slalom,15,57.60
-110,Gasser Larissa,Female,06-03-2021,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,7,
-111,Gasser Larissa,Female,06-03-2021,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,6,400.00
-112,Gasser Larissa,Female,02-03-2021,Rogla,SLO,Switzerland,World Championships,Parallel Slalom,31,28.00
-113,Gasser Larissa,Female,02-03-2021,Rogla,SLO,Switzerland,Qualification,Parallel Slalom,31,
-114,Gasser Larissa,Female,28-02-2021,Funes/Villnoesses,ITA,Switzerland,European Cup,Parallel Giant Slalom,1,180.00
-115,Gasser Larissa,Female,27-02-2021,Funes/Villnoesses,ITA,Switzerland,European Cup,Parallel Giant Slalom,15,35.20
-116,Gasser Larissa,Female,21-02-2021,Gerlitzen,AUT,Switzerland,National Championships,Parallel Slalom,16,43.50
-117,Gasser Larissa,Female,20-02-2021,Gerlitzen,AUT,Switzerland,National Championships,Parallel Giant Slalom,6,116.00
-118,Gasser Larissa,Female,07-02-2021,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,7,86.40
-119,Gasser Larissa,Female,06-02-2021,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,2,192.00
-120,Gasser Larissa,Female,24-01-2021,Davos,SUI,Switzerland,European Cup,Parallel Slalom,6,144.00
-121,Gasser Larissa,Female,23-01-2021,Davos,SUI,Switzerland,European Cup,Parallel Slalom,9,104.40
-122,Gasser Larissa,Female,17-01-2021,Simonhoehe,AUT,Switzerland,European Cup,Parallel Giant Slalom,7,129.60
-123,Gasser Larissa,Female,16-01-2021,Simonhoehe,AUT,Switzerland,European Cup,Parallel Giant Slalom,12,79.20
-124,Gasser Larissa,Female,12-01-2021,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,15,
-125,Gasser Larissa,Female,12-01-2021,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,15,160.00
-126,Gasser Larissa,Female,09-01-2021,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,24,
-127,Gasser Larissa,Female,09-01-2021,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,24,70.00
-128,Gasser Larissa,Female,17-12-2020,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,17,
-129,Gasser Larissa,Female,17-12-2020,Carezza,ITA,Switzerland,World Cup,Parallel Giant Slalom,17,140.00
-130,Gasser Larissa,Female,12-12-2020,Cortina d Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,26,
-131,Gasser Larissa,Female,12-12-2020,Cortina d Ampezzo,ITA,Switzerland,World Cup,Parallel Giant Slalom,26,50.00
-132,Gasser Larissa,Female,08-03-2020,Tauplitz,AUT,Switzerland,European Cup,Parallel Slalom,23,28.80
-133,Gasser Larissa,Female,07-03-2020,Tauplitz,AUT,Switzerland,European Cup,Parallel Slalom,30,11.52
-134,Gasser Larissa,Female,01-03-2020,Gudauri,GEO,Switzerland,European Cup,Parallel Giant Slalom,15,32.00
-135,Gasser Larissa,Female,29-02-2020,Gudauri,GEO,Switzerland,European Cup,Parallel Slalom,1,200.00
-136,Gasser Larissa,Female,16-02-2020,Simonhoehe,AUT,Switzerland,European Cup,Parallel Giant Slalom,7,129.60
-137,Gasser Larissa,Female,15-02-2020,Simonhoehe,AUT,Switzerland,European Cup,Parallel Giant Slalom,8,115.20
-138,Gasser Larissa,Female,09-02-2020,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,7,129.60
-139,Gasser Larissa,Female,08-02-2020,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,15,57.60
-140,Gasser Larissa,Female,11-01-2020,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,23,80.00
-141,Gasser Larissa,Female,11-01-2020,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,23,
-142,Gasser Larissa,Female,22-12-2019,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,6,144.00
-143,Gasser Larissa,Female,21-12-2019,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,6,144.00
-144,Gasser Larissa,Female,19-12-2019,Carezza,ITA,Switzerland,Open,Parallel Giant Slalom,16,150.00
-145,Gasser Larissa,Female,14-12-2019,Cortina d Ampezzo,ITA,Switzerland,World Cup,Parallel Giant Slalom,25,60.00
-146,Gasser Larissa,Female,14-12-2019,Cortina d Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,25,
-147,Gasser Larissa,Female,07-04-2019,Racines,ITA,Switzerland,European Cup,Parallel Slalom,8,115.20
-148,Gasser Larissa,Female,06-04-2019,Racines,ITA,Switzerland,European Cup,Parallel Slalom,12,79.20
-149,Gasser Larissa,Female,31-03-2019,Radstadt,AUT,Switzerland,National Championships,Parallel Giant Slalom,3,174.00
-150,Gasser Larissa,Female,30-03-2019,Radstadt,AUT,Switzerland,National Championships,Parallel Slalom,6,116.00
-151,Gasser Larissa,Female,23-03-2019,Winterberg,GER,Switzerland,World Cup,Parallel Slalom,27,45.00
-152,Gasser Larissa,Female,23-03-2019,Winterberg,GER,Switzerland,Qualification,Parallel Slalom,27,
-153,Gasser Larissa,Female,17-03-2019,Rogla,SLO,Switzerland,European Cup,Parallel Giant Slalom,50,5.58
-154,Gasser Larissa,Female,16-03-2019,Rogla,SLO,Switzerland,European Cup,Parallel Giant Slalom,5,162.00
-155,Gasser Larissa,Female,09-03-2019,Scuol,SUI,Switzerland,World Cup,Parallel GS,28,40.00
-156,Gasser Larissa,Female,09-03-2019,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,28,
-157,Gasser Larissa,Female,03-03-2019,Davos,SUI,Switzerland,European Cup,Parallel Slalom,9,104.40
-158,Gasser Larissa,Female,02-03-2019,Davos,SUI,Switzerland,European Cup,Parallel Giant Slalom,11,86.40
-159,Gasser Larissa,Female,17-02-2019,Simonhoehe,AUT,Switzerland,FIS,Parallel GS,1,200.00
-160,Gasser Larissa,Female,16-02-2019,Simonhoehe,AUT,Switzerland,FIS,Parallel GS,1,200.00
-161,Gasser Larissa,Female,10-02-2019,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,21,
-162,Gasser Larissa,Female,09-02-2019,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,6,104.00
-163,Gasser Larissa,Female,27-01-2019,Lachtal,AUT,Switzerland,European Cup,Parallel GS,2,144.00
-164,Gasser Larissa,Female,26-01-2019,Lachtal,AUT,Switzerland,European Cup,Parallel GS,8,57.60
-165,Gasser Larissa,Female,19-01-2019,Rogla,SLO,Switzerland,World Cup,Parallel GS,27,45.00
-166,Gasser Larissa,Female,19-01-2019,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,27,
-167,Gasser Larissa,Female,11-01-2019,Bad Gastein,AUT,Switzerland,European Cup,Parallel Slalom,6,144.00
-168,Gasser Larissa,Female,10-01-2019,Bad Gastein,AUT,Switzerland,European Cup,Parallel Slalom,12,79.20
-169,Gasser Larissa,Female,08-01-2019,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,23,80.00
-170,Gasser Larissa,Female,08-01-2019,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,23,
-171,Gasser Larissa,Female,06-01-2019,Simonhöhe,AUT,Switzerland,FIS,Parallel Slalom,3,132.00
-172,Gasser Larissa,Female,05-01-2019,Simonhöhe,AUT,Switzerland,FIS,Parallel Slalom,8,70.40
-173,Gasser Larissa,Female,23-12-2018,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,DNF1,
-174,Gasser Larissa,Female,22-12-2018,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,11,86.40
-175,Gasser Larissa,Female,15-12-2018,Cortina d'Ampezzo,ITA,Switzerland,World Cup,Parallel GS,31,28.00
-176,Gasser Larissa,Female,15-12-2018,Cortina d'Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,31,
-177,Gasser Larissa,Female,13-12-2018,Carezza,ITA,Switzerland,World Cup,Parallel GS,DNF,
-178,Gasser Larissa,Female,13-12-2018,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,DNF,
-179,Gasser Larissa,Female,02-12-2018,Pfelders,ITA,Switzerland,FIS,Parallel Giant Slalom,3,132.00
-180,Gasser Larissa,Female,01-12-2018,Pfelders,ITA,Switzerland,FIS,Parallel Giant Slalom,5,99.00
-181,Gasser Larissa,Female,08-04-2018,Racines,ITA,Switzerland,European Cup,Parallel Slalom,5,162.00
-182,Gasser Larissa,Female,07-04-2018,Racines,ITA,Switzerland,European Cup,Parallel Slalom,7,129.60
-183,Gasser Larissa,Female,25-03-2018,Davos,SUI,Switzerland,European Cup,Parallel Slalom,23,
-184,Gasser Larissa,Female,24-03-2018,Davos,SUI,Switzerland,European Cup,Parallel GS,10,93.60
-185,Gasser Larissa,Female,21-03-2018,Rogla,SLO,Switzerland,European Cup,Parallel GS,31,10.08
-186,Gasser Larissa,Female,20-03-2018,Rogla,SLO,Switzerland,European Cup,Parallel GS,21,36.00
-187,Gasser Larissa,Female,11-03-2018,Tauplitz,AUT,Switzerland,European Cup,Parallel Slalom,4,145.00
-188,Gasser Larissa,Female,10-03-2018,Tauplitz,AUT,Switzerland,European Cup,Parallel Slalom,4,145.00
-189,Gasser Larissa,Female,25-02-2018,Funes/Villnoess,ITA,Switzerland,FIS,Parallel GS,23,
-190,Gasser Larissa,Female,24-02-2018,Funes/Villnoess,ITA,Switzerland,FIS,Parallel GS,2,144.00
-191,Gasser Larissa,Female,11-02-2018,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,2,256.00
-192,Gasser Larissa,Female,10-02-2018,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,1,360.00
-193,Gasser Larissa,Female,28-01-2018,Bansko,BUL,Switzerland,World Cup,Parallel GS,23,80.00
-194,Gasser Larissa,Female,28-01-2018,Bansko,BUL,Switzerland,Qualification,Parallel GS,23,
-195,Gasser Larissa,Female,26-01-2018,Bansko,BUL,Switzerland,World Cup,Parallel GS,37,19.40
-196,Gasser Larissa,Female,26-01-2018,Bansko,BUL,Switzerland,Qualification,Parallel GS,37,
-197,Gasser Larissa,Female,21-01-2018,Rogla,SLO,Switzerland,World Cup,Parallel GS,21,100.00
-198,Gasser Larissa,Female,21-01-2018,Rogla,SLO,Switzerland,Qualification,Parallel GS,21,
-199,Gasser Larissa,Female,20-01-2018,Rogla,SLO,Switzerland,World Cup,Parallel GS,48,
-200,Gasser Larissa,Female,20-01-2018,Rogla,SLO,Switzerland,Qualification,Parallel GS,48,
-201,Gasser Larissa,Female,12-01-2018,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,25,60.00
-202,Gasser Larissa,Female,12-01-2018,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,25,
-203,Gasser Larissa,Female,05-01-2018,Lackenhof,AUT,Switzerland,World Cup,Parallel GS,15,160.00
-204,Gasser Larissa,Female,05-01-2018,Lackenhof,AUT,Switzerland,Qualification,Parallel GS,14,
-205,Gasser Larissa,Female,10-12-2017,Hochfügen,GER,Switzerland,European Cup,Parallel GS,30,11.52
-206,Gasser Larissa,Female,09-12-2017,Hochfügen,GER,Switzerland,European Cup,Parallel GS,12,79.20
-207,Gasser Larissa,Female,21-02-2017,Klinovec,CZE,Switzerland,FIS Junior World Championships,Parallel Slalom,DSQ,
-208,Gasser Larissa,Female,20-02-2017,Klinovec,CZE,Switzerland,FIS Junior World Championships,Parallel GS,3,216.00
-209,Gasser Larissa,Female,12-02-2017,Phoenix Pyeongchang,KOR,Switzerland,World Cup,Parallel GS,18,130.00
-210,Gasser Larissa,Female,28-01-2017,Rogla,SLO,Switzerland,World Cup,Parallel GS,22,90.00
-211,Gasser Larissa,Female,21-01-2017,Livigno,ITA,Switzerland,European Cup,Parallel GS,17,50.40
-212,Gasser Larissa,Female,20-01-2017,Livigno,ITA,Switzerland,European Cup,Parallel GS,DSQ,
-213,Gasser Larissa,Female,10-01-2017,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,22,90.00
-214,Gasser Larissa,Female,08-01-2017,Gerlitzen,AUT,Switzerland,European Cup,Parallel GS,2,192.00
-215,Gasser Larissa,Female,07-01-2017,Gerlitzen,AUT,Switzerland,European Cup,Parallel GS,5,162.00
-216,Gasser Larissa,Female,17-12-2016,Cortina d'Ampezzo,ITA,Switzerland,World Cup,Parallel Slalom,15,160.00
-217,Gasser Larissa,Female,15-12-2016,Carezza,ITA,Switzerland,World Cup,Parallel GS,20,110.00
-218,Gasser Larissa,Female,11-12-2016,Hochfügen,GER,Switzerland,European Cup,Parallel GS,14,64.80
-219,Gasser Larissa,Female,10-12-2016,Hochfügen,GER,Switzerland,European Cup,Parallel GS,8,115.20
-220,Gasser Larissa,Female,04-11-2016,Landgraaf,NED,Switzerland,European Cup,Parallel Slalom,16,54.00
-221,Gasser Larissa,Female,03-11-2016,Landgraaf,NED,Switzerland,European Cup,Parallel Slalom,32,9.36
-222,Gasser Larissa,Female,03-04-2016,Rogla,SLO,Switzerland,FIS Junior World Championships,Parallel Slalom,8,115.20
-223,Gasser Larissa,Female,02-04-2016,Rogla,SLO,Switzerland,FIS Junior World Championships,Parallel GS,4,180.00
-224,Gasser Larissa,Female,27-03-2016,Racines,ITA,Switzerland,European Cup,Parallel Slalom,17,70.00
-225,Gasser Larissa,Female,26-03-2016,Racines,ITA,Switzerland,European Cup,Parallel Slalom,22,45.00
-226,Gasser Larissa,Female,24-03-2016,Rogla,SLO,Switzerland,European Cup,Parallel Slalom,38,
-227,Gasser Larissa,Female,23-03-2016,Rogla,SLO,Switzerland,European Cup,Parallel GS,2,400.00
-228,Gasser Larissa,Female,20-03-2016,Gerlitzen,AUT,Switzerland,European Cup,Parallel GS,32,13.00
-229,Gasser Larissa,Female,19-03-2016,Gerlitzen,AUT,Switzerland,European Cup,Parallel GS,30,16.00
-230,Gasser Larissa,Female,13-03-2016,Scuol,SUI,Switzerland,National Championships,Parallel Slalom,11,86.40
-231,Gasser Larissa,Female,12-03-2016,Scuol,SUI,Switzerland,National Championships,Parallel GS,7,129.60
-232,Gasser Larissa,Female,06-03-2016,Tauplitz,AUT,Switzerland,FIS,Parallel Slalom,4,110.00
-233,Gasser Larissa,Female,05-03-2016,Tauplitz,AUT,Switzerland,FIS,Parallel Slalom,2,176.00
-234,Gasser Larissa,Female,21-02-2016,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,30,16.00
-235,Gasser Larissa,Female,20-02-2016,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,12,110.00
-236,Gasser Larissa,Female,07-02-2016,Lachtal,AUT,Switzerland,FIS,Parallel Slalom,10,67.60
-237,Gasser Larissa,Female,06-02-2016,Lachtal,AUT,Switzerland,National Championships,Parallel Slalom,DNF1,
-238,Gasser Larissa,Female,30-01-2016,Stara Planina,SRB,Switzerland,European Cup,Parallel GS,9,63.80
-239,Gasser Larissa,Female,29-01-2016,Stara Planina,SRB,Switzerland,European Cup,Parallel Slalom,7,79.20
-240,Gasser Larissa,Female,17-01-2016,Kreischberg,AUT,Switzerland,FIS,Parallel GS,2,208.00
-241,Gasser Larissa,Female,16-01-2016,Kreischberg,AUT,Switzerland,FIS,Parallel GS,DSQ1,
-242,Gasser Larissa,Female,08-01-2016,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,33,24.00
-243,Gasser Larissa,Female,19-12-2015,Cortina d'Ampezzo,ITA,Switzerland,World Cup,Parallel Slalom,30,32.00
-244,Gasser Larissa,Female,12-12-2015,Carezza,ITA,Switzerland,World Cup,Parallel GS,24,70.00
-245,Gasser Larissa,Female,06-12-2015,Hochfuegen,GER,Switzerland,European Cup,Parallel GS,21,50.00
-246,Gasser Larissa,Female,05-12-2015,Hochfuegen,GER,Switzerland,European Cup,Parallel GS,7,180.00
-247,Gasser Larissa,Female,16-10-2015,Landgraaf,NED,Switzerland,European Cup,Parallel Slalom,17,70.00
-248,Gasser Larissa,Female,15-10-2015,Landgraaf,NED,Switzerland,European Cup,Parallel Slalom,32,13.00
-249,Gasser Larissa,Female,29-03-2015,Grächen,SUI,Switzerland,National Championships,Parallel Slalom,4,180.00
-250,Gasser Larissa,Female,22-03-2015,Racines,ITA,Switzerland,European Cup,Parallel Slalom,18,65.00
-251,Gasser Larissa,Female,21-03-2015,Racines,ITA,Switzerland,European Cup,Parallel Slalom,26,25.00
-252,Gasser Larissa,Female,18-03-2015,Rogla,SLO,Switzerland,European Cup,Parallel Slalom,11,96.00
-253,Gasser Larissa,Female,17-03-2015,Rogla,SLO,Switzerland,European Cup,Parallel GS,10,104.00
-254,Gasser Larissa,Female,11-03-2015,Yabuli,CHN,Switzerland,FIS Junior World Championships,Parallel Slalom,8,115.20
-255,Gasser Larissa,Female,10-03-2015,Yabuli,CHN,Switzerland,FIS Junior World Championships,Parallel GS,8,115.20
-256,Gasser Larissa,Female,25-02-2015,Marianske Lazne,CZE,Switzerland,European Cup,Parallel Slalom,5,130.50
-257,Gasser Larissa,Female,24-02-2015,Marianske Lazne,CZE,Switzerland,European Cup,Parallel Slalom,13,58.00
-258,Gasser Larissa,Female,22-02-2015,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,5,202.50
-259,Gasser Larissa,Female,21-02-2015,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,7,180.00
-260,Gasser Larissa,Female,15-02-2015,Kayseri,TUR,Switzerland,European Cup,Parallel Slalom,8,102.40
-261,Gasser Larissa,Female,14-02-2015,Kayseri,TUR,Switzerland,European Cup,Parallel Slalom,15,57.60
-262,Gasser Larissa,Female,31-01-2015,Livigno,ITA,Switzerland,European Cup,Parallel GS,3,144.00
-263,Gasser Larissa,Female,24-01-2015,Samnaun,SUI,Switzerland,FIS,Parallel Slalom,5,117.00
-264,Gasser Larissa,Female,23-01-2015,Samnaun,SUI,Switzerland,FIS,Parallel Slalom,9,75.40
-265,Gasser Larissa,Female,06-01-2015,Dachstein West / Gosau,AUT,Switzerland,FIS,Parallel Slalom,15,41.60
-266,Gasser Larissa,Female,05-01-2015,Dachstein West / Gosau,AUT,Switzerland,FIS,Parallel Slalom,24,18.20
-267,Gasser Larissa,Female,10-10-2014,Landgraaf,NED,Switzerland,FIS,Parallel Slalom,11,62.40
-268,Gasser Larissa,Female,09-10-2014,Landgraaf,NED,Switzerland,National Championships,Parallel Slalom,8,115.20
-269,Gasser Larissa,Female,09-04-2014,Chiesa in Valmalenco,ITA,Switzerland,National Championships,Parallel Slalom,16,54.00
-270,Gasser Larissa,Female,08-04-2014,Chiesa in Valmalenco,ITA,Switzerland,National Championships,Parallel GS,11,86.40
-271,Gasser Larissa,Female,05-04-2014,Furtschellas,SUI,Switzerland,National Championships,Parallel GS,10,93.60
-272,Gasser Larissa,Female,25-03-2014,Chiesa in Valmalenco,ITA,Switzerland,FIS Junior World Championships,Parallel Slalom,8,115.20
-273,Gasser Larissa,Female,24-03-2014,Chiesa in Valmalenco,ITA,Switzerland,FIS Junior World Championships,Parallel GS,13,72.00
-274,Gasser Larissa,Female,09-03-2014,Tauplitz,AUT,Switzerland,FIS,Parallel Slalom,20,28.60
-275,Gasser Larissa,Female,08-03-2014,Tauplitz,AUT,Switzerland,FIS,Parallel Slalom,12,57.20
-276,Gasser Larissa,Female,05-03-2014,Rogla,SLO,Switzerland,European Cup,Parallel Slalom,27,20.25
-277,Gasser Larissa,Female,04-03-2014,Rogla,SLO,Switzerland,European Cup,Parallel GS,35,0.00
-278,Gasser Larissa,Female,01-03-2014,Gerlitzen,AUT,Switzerland,European Cup,Parallel GS,28,16.00
-279,Gasser Larissa,Female,22-02-2014,Gosau,AUT,Switzerland,FIS,Slalom,13,52.00
-280,Gasser Larissa,Female,22-02-2014,Gosau,AUT,Switzerland,FIS,Slalom,6,104.00
-281,Gasser Larissa,Female,16-02-2014,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,20,35.20
-282,Gasser Larissa,Female,15-02-2014,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,12,70.40
-283,Gasser Larissa,Female,26-01-2014,Lizzola Valbondione,ITA,Switzerland,European Cup,Parallel Slalom,23,28.80
-284,Gasser Larissa,Female,25-01-2014,Lizzola Valbondione,ITA,Switzerland,European Cup,Parallel Slalom,32,9.36
-285,Gasser Larissa,Female,22-12-2013,Schönberg-Lachtal,AUT,Switzerland,European Cup,Parallel Slalom,134,
-286,Gasser Larissa,Female,21-12-2013,Schönberg-Lachtal,AUT,Switzerland,European Cup,Parallel Slalom,44,8.65
-287,Gasser Larissa,Female,15-12-2013,Samnaun,SUI,Switzerland,FIS,Parallel Slalom,4,130.00
-288,Gasser Larissa,Female,14-12-2013,Samnaun,SUI,Switzerland,FIS,Parallel Slalom,5,81.00
-289,Gasser Larissa,Female,08-12-2013,Hochfügen,AUT,Switzerland,European Cup,Parallel GS,39,9.40
-290,Gasser Larissa,Female,07-12-2013,Hochfügen,AUT,Switzerland,European Cup,Parallel GS,39,9.40
-291,Gasser Larissa,Female,08-11-2013,Landgraaf,NED,Switzerland,FIS,Parallel Slalom,11,62.40
-292,Gasser Larissa,Female,07-11-2013,Landgraaf,NED,Switzerland,FIS,Parallel Slalom,14,46.80
-293,Gasser Larissa,Female,07-04-2013,Sils/Silvaplana,SUI,Switzerland,National Championships,Parallel GS,7,129.60
-294,Gasser Larissa,Female,04-04-2013,Chiesa in Valmalenco,ITA,Switzerland,National Championships,Parallel Slalom,7,86.40
-295,Gasser Larissa,Female,03-04-2013,Chiesa in Valmalenco,ITA,Switzerland,National Championships,Giant Slalom,7,86.40
-296,Gasser Larissa,Female,23-03-2013,Götschen,GER,Switzerland,National Championships,Parallel GS,21,36.00
-297,Gasser Larissa,Female,22-03-2013,Götschen,GER,Switzerland,National Championships,Parallel Slalom,20,39.60
-298,Gasser Larissa,Female,07-03-2013,Erzurum,TUR,Switzerland,FIS Junior World Championships,Parallel Slalom,23,28.80
-299,Gasser Larissa,Female,06-03-2013,Erzurum,TUR,Switzerland,FIS Junior World Championships,Parallel GS,25,21.60
-300,Gasser Larissa,Female,02-03-2013,Gerlitzen,AUT,Switzerland,European Cup,Parallel Slalom,25,30.00
-301,Gasser Larissa,Female,21-02-2013,Predeal,ROU,Switzerland,European Youth Olympic Festival,Parallel GS,9,34.80
-302,Gasser Larissa,Female,02-02-2013,Lizzola-Valbondione,ITA,Switzerland,FIS,Parallel Slalom,12,48.40
-303,Gasser Larissa,Female,27-01-2013,Rossfeld,GER,Switzerland,Junior,Giant Slalom,7,46.80
-304,Gasser Larissa,Female,27-01-2013,Rossfeld,GER,Switzerland,Junior,Slalom,6,52.00
-305,Gasser Larissa,Female,26-01-2013,Rossfeld,GER,Switzerland,Junior,Giant Slalom,6,52.00
-306,Gasser Larissa,Female,26-01-2013,Rossfeld,GER,Switzerland,Junior,Slalom,7,46.80
-307,Gasser Larissa,Female,20-01-2013,Seceda/S. Cristina Val Gardena,ITA,Switzerland,FIS,Giant Slalom,1,70.00
-308,Gasser Larissa,Female,19-01-2013,Seceda/S. Cristina Val Gardena,ITA,Switzerland,FIS,Giant Slalom,7,72.00
-309,Gasser Larissa,Female,23-12-2012,Radstadt,AUT,Switzerland,FIS,Giant Slalom,13,48.00
-310,Gasser Larissa,Female,22-12-2012,Radstadt,AUT,Switzerland,FIS,Giant Slalom,9,69.60
-311,Gasser Larissa,Female,16-12-2012,Racines/Ratschings,ITA,Switzerland,European Cup,Parallel Slalom,47,8.20
-312,Gasser Larissa,Female,15-12-2012,Racines/Ratschings,ITA,Switzerland,European Cup,Parallel Slalom,47,8.20
-313,Gasser Larissa,Female,09-12-2012,Lachtal,AUT,Switzerland,European Cup,Parallel GS,43,8.80
-314,Gasser Larissa,Female,08-12-2012,Lachtal,AUT,Switzerland,European Cup,Parallel GS,55,7.00
+0,Gasser Larissa,Female,02-03-2025,Krynica,POL,Switzerland,Qualification,Parallel Giant Slalom,36,
+1,Gasser Larissa,Female,02-03-2025,Krynica,POL,Switzerland,World Cup,Parallel Giant Slalom,36,
+2,Gasser Larissa,Female,01-03-2025,Krynica,POL,Switzerland,Qualification,Parallel Giant Slalom,31,
+3,Gasser Larissa,Female,01-03-2025,Krynica,POL,Switzerland,World Cup,Parallel Giant Slalom,31,
+4,Gasser Larissa,Female,23-02-2025,Lenzerheide,SUI,Switzerland,National Championships,Giant Slalom,DNF,
+5,Gasser Larissa,Female,22-02-2025,Lenzerheide,SUI,Switzerland,National Championships,Parallel Slalom,7,104.40
+6,Gasser Larissa,Female,16-02-2025,Val St. Come,CAN,Switzerland,Qualification,Parallel Giant Slalom,26,
+7,Gasser Larissa,Female,16-02-2025,Val St. Come,CAN,Switzerland,World Cup,Parallel Giant Slalom,26,50.00
+8,Gasser Larissa,Female,15-02-2025,Val St. Come,CAN,Switzerland,Qualification,Parallel Giant Slalom,21,
+9,Gasser Larissa,Female,15-02-2025,Val St. Come,CAN,Switzerland,World Cup,Parallel Giant Slalom,21,100.00
+10,Gasser Larissa,Female,26-01-2025,Simonhöhe,AUT,Switzerland,European Cup,Parallel Giant Slalom,18,46.80
+11,Gasser Larissa,Female,25-01-2025,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,38,
+12,Gasser Larissa,Female,25-01-2025,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,38,
+13,Gasser Larissa,Female,22-01-2025,Bansko,BUL,Switzerland,European Cup,Parallel Giant Slalom,2,288.00
+14,Gasser Larissa,Female,21-01-2025,Bansko,BUL,Switzerland,European Cup,Parallel Giant Slalom,5,162.00
+15,Gasser Larissa,Female,19-01-2025,Bansko,BUL,Switzerland,Qualification,Parallel Giant Slalom,16,
+16,Gasser Larissa,Female,19-01-2025,Bansko,BUL,Switzerland,World Cup,Parallel Giant Slalom,16,150.00
+17,Gasser Larissa,Female,18-01-2025,Bansko,BUL,Switzerland,Qualification,Parallel Giant Slalom,27,
+18,Gasser Larissa,Female,18-01-2025,Bansko,BUL,Switzerland,World Cup,Parallel Giant Slalom,27,45.00
+19,Gasser Larissa,Female,14-01-2025,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,14,
+20,Gasser Larissa,Female,14-01-2025,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,14,180.00
+21,Gasser Larissa,Female,11-01-2025,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,DNF,
+22,Gasser Larissa,Female,11-01-2025,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,DNF,
+23,Gasser Larissa,Female,21-12-2024,Davos,SUI,Switzerland,Qualification,Parallel Slalom,12,
+24,Gasser Larissa,Female,21-12-2024,Davos,SUI,Switzerland,World Cup,Parallel Slalom,14,180.00
+25,Gasser Larissa,Female,20-12-2024,Moninec,CZE,Switzerland,European Cup,Parallel Slalom,10,62.40
+26,Gasser Larissa,Female,19-12-2024,Moninec,CZE,Switzerland,European Cup,Parallel Slalom,13,48.00
+27,Gasser Larissa,Female,15-12-2024,Götschen,GER,Switzerland,European Cup,Parallel Slalom,6,96.00
+28,Gasser Larissa,Female,14-12-2024,Götschen,GER,Switzerland,European Cup,Parallel Slalom,3,132.00
+29,Gasser Larissa,Female,17-03-2024,St. Moritz,SUI,Switzerland,European Cup,Parallel Slalom,16,54.00
+30,Gasser Larissa,Female,16-03-2024,St. Moritz,SUI,Switzerland,European Cup,Parallel Giant Slalom,14,64.80
+31,Gasser Larissa,Female,13-03-2024,Davos/Rinerhorn ,SUI,Switzerland,European Cup,Parallel Giant Slalom,4,120.00
+32,Gasser Larissa,Female,12-03-2024,Davos/Rinerhorn ,SUI,Switzerland,European Cup,Parallel Giant Slalom,13,72.00
+33,Gasser Larissa,Female,09-03-2024,Winterberg,GER,Switzerland,Qualification,Parallel Slalom,19,
+34,Gasser Larissa,Female,09-03-2024,Winterberg,GER,Switzerland,World Cup,Parallel Slalom,19,120.00
+35,Gasser Larissa,Female,25-02-2024,Krynica,POL,Switzerland,Qualification,Parallel Giant Slalom,16,
+36,Gasser Larissa,Female,25-02-2024,Krynica,POL,Switzerland,World Cup,Parallel Giant Slalom,16,150.00
+37,Gasser Larissa,Female,24-02-2024,Krynica,POL,Switzerland,Qualification,Parallel Giant Slalom,28,
+38,Gasser Larissa,Female,24-02-2024,Krynica,POL,Switzerland,World Cup,Parallel Giant Slalom,28,40.00
+39,Gasser Larissa,Female,27-01-2024,Simonhöhe,AUT,Switzerland,Qualification,Parallel Giant Slalom,16,
+40,Gasser Larissa,Female,27-01-2024,Simonhöhe,AUT,Switzerland,World Cup,Parallel Giant Slalom,16,150.00
+41,Gasser Larissa,Female,25-01-2024,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,19,
+42,Gasser Larissa,Female,25-01-2024,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,19,120.00
+43,Gasser Larissa,Female,21-01-2024,Pamporovo,BUL,Switzerland,Qualification,Parallel Slalom,29,
+44,Gasser Larissa,Female,21-01-2024,Pamporovo,BUL,Switzerland,World Cup,Parallel Slalom,29,36.00
+45,Gasser Larissa,Female,20-01-2024,Pamporovo,BUL,Switzerland,Qualification,Parallel Slalom,35,
+46,Gasser Larissa,Female,20-01-2024,Pamporovo,BUL,Switzerland,World Cup,Parallel Slalom,35,20.00
+47,Gasser Larissa,Female,16-01-2024,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,17,
+48,Gasser Larissa,Female,16-01-2024,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,17,140.00
+49,Gasser Larissa,Female,13-01-2024,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,17,
+50,Gasser Larissa,Female,13-01-2024,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,17,140.00
+51,Gasser Larissa,Female,23-12-2023,Davos ,SUI,Switzerland,Qualification,Parallel Slalom,22,
+52,Gasser Larissa,Female,23-12-2023,Davos,SUI,Switzerland,World Cup,Parallel Slalom,22,90.00
+53,Gasser Larissa,Female,14-12-2023,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,32,
+54,Gasser Larissa,Female,14-12-2023,Carezza,ITA,Switzerland,World Cup,Parallel Giant Slalom,32,26.00
+55,Gasser Larissa,Female,18-03-2023,Berchtesgaden,GER,Switzerland,Qualification,Parallel Slalom,16,
+56,Gasser Larissa,Female,18-03-2023,Berchtesgaden,GER,Switzerland,World Cup,Parallel Slalom,16,150.00
+57,Gasser Larissa,Female,15-03-2023,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,25,60.00
+58,Gasser Larissa,Female,15-03-2023,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,25,
+59,Gasser Larissa,Female,12-03-2023,Davos,SUI,Switzerland,European Cup,Parallel Slalom,1,260.00
+60,Gasser Larissa,Female,11-03-2023,Davos,SUI,Switzerland,European Cup,Parallel Slalom,14,64.80
+61,Gasser Larissa,Female,05-03-2023,Zakopane,POL,Switzerland,European Cup,Parallel Giant Slalom,5,130.50
+62,Gasser Larissa,Female,04-03-2023,Zakopane,POL,Switzerland,European Cup,Parallel Giant Slalom,9,104.40
+63,Gasser Larissa,Female,05-02-2023,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,9,63.80
+64,Gasser Larissa,Female,27-01-2023,Blue Mountain,CAN,Switzerland,Qualification,Parallel Giant Slalom,16,
+65,Gasser Larissa,Female,27-01-2023,Blue Mountain,CAN,Switzerland,World Cup,Parallel Giant Slalom,16,150.00
+66,Gasser Larissa,Female,26-01-2023,Blue Mountain,CAN,Switzerland,Qualification,Parallel Giant Slalom,24,
+67,Gasser Larissa,Female,26-01-2023,Blue Mountain,CAN,Switzerland,World Cup,Parallel Giant Slalom,24,70.00
+68,Gasser Larissa,Female,22-01-2023,Bansko,BUL,Switzerland,Qualification,Parallel Slalom,16,
+69,Gasser Larissa,Female,22-01-2023,Bansko,BUL,Switzerland,World Cup,Parallel Slalom,16,150.00
+70,Gasser Larissa,Female,21-01-2023,Bansko,BUL,Switzerland,Qualification,Parallel Slalom,18,
+71,Gasser Larissa,Female,21-01-2023,Bansko,BUL,Switzerland,World Cup,Parallel Slalom,18,130.00
+72,Gasser Larissa,Female,14-01-2023,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,16,
+73,Gasser Larissa,Female,14-01-2023,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,16,150.00
+74,Gasser Larissa,Female,10-01-2023,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,21,
+75,Gasser Larissa,Female,10-01-2023,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,21,100.00
+76,Gasser Larissa,Female,17-12-2022,Cortina d'Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,20,
+77,Gasser Larissa,Female,17-12-2022,Cortina d'Ampezzo,ITA,Switzerland,World Cup,Parallel Giant Slalom,20,110.00
+78,Gasser Larissa,Female,15-12-2022,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,13,
+79,Gasser Larissa,Female,15-12-2022,Carezza,ITA,Switzerland,World Cup,Parallel Giant Slalom,13,200.00
+80,Gasser Larissa,Female,11-12-2022,Winterberg,GER,Switzerland,World Cup,Parallel Slalom,19,120.00
+81,Gasser Larissa,Female,10-12-2022,Winterberg,GER,Switzerland,Qualification,Parallel Slalom,19,
+82,Gasser Larissa,Female,19-03-2022,Berchtesgaden,GER,Switzerland,Qualification,Parallel Slalom,22,
+83,Gasser Larissa,Female,19-03-2022,Berchtesgaden,GER,Switzerland,World Cup,Parallel Slalom,22,90.00
+84,Gasser Larissa,Female,17-03-2022,Rogla,SLO,Switzerland,European Cup,Parallel Giant Slalom,9,104.40
+85,Gasser Larissa,Female,16-03-2022,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,32,
+86,Gasser Larissa,Female,16-03-2022,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,32,26.00
+87,Gasser Larissa,Female,12-03-2022,Piancavallo,ITA,Switzerland,Qualification,Parallel Slalom,DSQ,
+88,Gasser Larissa,Female,12-03-2022,Piancavallo,ITA,Switzerland,World Cup,Parallel Slalom,DSQ,
+89,Gasser Larissa,Female,06-03-2022,Lachtal,AUT,Switzerland,European Cup,Parallel Giant Slalom,9,104.40
+90,Gasser Larissa,Female,05-03-2022,Lachtal,AUT,Switzerland,European Cup,Parallel Giant Slalom,5,162.00
+91,Gasser Larissa,Female,20-02-2022,Bakuriani,GEO,Switzerland,European Cup,Parallel Giant Slalom,7,129.60
+92,Gasser Larissa,Female,19-02-2022,Bakuriani,GEO,Switzerland,European Cup,Parallel Giant Slalom,4,180.00
+93,Gasser Larissa,Female,06-02-2022,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,4,130.00
+94,Gasser Larissa,Female,05-02-2022,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,5,117.00
+95,Gasser Larissa,Female,30-01-2022,Davos,SUI,Switzerland,European Cup,Parallel Slalom,2,192.00
+96,Gasser Larissa,Female,29-01-2022,Davos,SUI,Switzerland,European Cup,Parallel Slalom,13,48.00
+97,Gasser Larissa,Female,23-01-2022,Bukovel,UKR,Switzerland,European Cup,Parallel Giant Slalom,19,31.20
+98,Gasser Larissa,Female,22-01-2022,Bukovel,UKR,Switzerland,European Cup,Parallel Giant Slalom,4,130.00
+99,Gasser Larissa,Female,11-01-2022,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,DNS,
+100,Gasser Larissa,Female,11-01-2022,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,DNS,
+101,Gasser Larissa,Female,08-01-2022,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,28,
+102,Gasser Larissa,Female,08-01-2022,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,28,40.00
+103,Gasser Larissa,Female,18-12-2021,Cortina d Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,42,
+104,Gasser Larissa,Female,18-12-2021,Cortina d Ampezzo,ITA,Switzerland,World Cup,Parallel Giant Slalom,42,17.90
+105,Gasser Larissa,Female,16-12-2021,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,21,
+106,Gasser Larissa,Female,16-12-2021,Carezza,ITA,Switzerland,World Cup,Parallel Giant Slalom,21,100.00
+107,Gasser Larissa,Female,12-12-2021,Bannoye,RUS,Switzerland,Qualification,Parallel Slalom,28,
+108,Gasser Larissa,Female,12-12-2021,Bannoye,RUS,Switzerland,World Cup,Parallel Slalom,28,40.00
+109,Gasser Larissa,Female,11-12-2021,Bannoye,RUS,Switzerland,Qualification,Parallel Giant Slalom,23,
+110,Gasser Larissa,Female,11-12-2021,Bannoye,RUS,Switzerland,World Cup,Parallel Giant Slalom,23,80.00
+111,Gasser Larissa,Female,20-03-2021,Berchtesgaden,GER,Switzerland,Qualification,Parallel Slalom,37,
+112,Gasser Larissa,Female,20-03-2021,Berchtesgaden,GER,Switzerland,World Cup,Parallel Slalom,37,19.40
+113,Gasser Larissa,Female,13-03-2021,Davos Rinerhorn,SUI,Switzerland,European Cup,Parallel Giant Slalom,15,57.60
+114,Gasser Larissa,Female,06-03-2021,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,7,
+115,Gasser Larissa,Female,06-03-2021,Rogla,SLO,Switzerland,World Cup,Parallel Giant Slalom,6,400.00
+116,Gasser Larissa,Female,02-03-2021,Rogla,SLO,Switzerland,World Championships,Parallel Slalom,31,28.00
+117,Gasser Larissa,Female,02-03-2021,Rogla,SLO,Switzerland,Qualification,Parallel Slalom,31,
+118,Gasser Larissa,Female,28-02-2021,Funes/Villnoesses,ITA,Switzerland,European Cup,Parallel Giant Slalom,1,180.00
+119,Gasser Larissa,Female,27-02-2021,Funes/Villnoesses,ITA,Switzerland,European Cup,Parallel Giant Slalom,15,35.20
+120,Gasser Larissa,Female,21-02-2021,Gerlitzen,AUT,Switzerland,National Championships,Parallel Slalom,16,43.50
+121,Gasser Larissa,Female,20-02-2021,Gerlitzen,AUT,Switzerland,National Championships,Parallel Giant Slalom,6,116.00
+122,Gasser Larissa,Female,07-02-2021,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,7,86.40
+123,Gasser Larissa,Female,06-02-2021,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,2,192.00
+124,Gasser Larissa,Female,24-01-2021,Davos,SUI,Switzerland,European Cup,Parallel Slalom,6,144.00
+125,Gasser Larissa,Female,23-01-2021,Davos,SUI,Switzerland,European Cup,Parallel Slalom,9,104.40
+126,Gasser Larissa,Female,17-01-2021,Simonhoehe,AUT,Switzerland,European Cup,Parallel Giant Slalom,7,129.60
+127,Gasser Larissa,Female,16-01-2021,Simonhoehe,AUT,Switzerland,European Cup,Parallel Giant Slalom,12,79.20
+128,Gasser Larissa,Female,12-01-2021,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,15,
+129,Gasser Larissa,Female,12-01-2021,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,15,160.00
+130,Gasser Larissa,Female,09-01-2021,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,24,
+131,Gasser Larissa,Female,09-01-2021,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,24,70.00
+132,Gasser Larissa,Female,17-12-2020,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,17,
+133,Gasser Larissa,Female,17-12-2020,Carezza,ITA,Switzerland,World Cup,Parallel Giant Slalom,17,140.00
+134,Gasser Larissa,Female,12-12-2020,Cortina d Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,26,
+135,Gasser Larissa,Female,12-12-2020,Cortina d Ampezzo,ITA,Switzerland,World Cup,Parallel Giant Slalom,26,50.00
+136,Gasser Larissa,Female,08-03-2020,Tauplitz,AUT,Switzerland,European Cup,Parallel Slalom,23,28.80
+137,Gasser Larissa,Female,07-03-2020,Tauplitz,AUT,Switzerland,European Cup,Parallel Slalom,30,11.52
+138,Gasser Larissa,Female,01-03-2020,Gudauri,GEO,Switzerland,European Cup,Parallel Giant Slalom,15,32.00
+139,Gasser Larissa,Female,29-02-2020,Gudauri,GEO,Switzerland,European Cup,Parallel Slalom,1,200.00
+140,Gasser Larissa,Female,16-02-2020,Simonhoehe,AUT,Switzerland,European Cup,Parallel Giant Slalom,7,129.60
+141,Gasser Larissa,Female,15-02-2020,Simonhoehe,AUT,Switzerland,European Cup,Parallel Giant Slalom,8,115.20
+142,Gasser Larissa,Female,09-02-2020,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,7,129.60
+143,Gasser Larissa,Female,08-02-2020,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,15,57.60
+144,Gasser Larissa,Female,11-01-2020,Scuol,SUI,Switzerland,World Cup,Parallel Giant Slalom,23,80.00
+145,Gasser Larissa,Female,11-01-2020,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,23,
+146,Gasser Larissa,Female,22-12-2019,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,6,144.00
+147,Gasser Larissa,Female,21-12-2019,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,6,144.00
+148,Gasser Larissa,Female,19-12-2019,Carezza,ITA,Switzerland,Open,Parallel Giant Slalom,16,150.00
+149,Gasser Larissa,Female,14-12-2019,Cortina d Ampezzo,ITA,Switzerland,World Cup,Parallel Giant Slalom,25,60.00
+150,Gasser Larissa,Female,14-12-2019,Cortina d Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,25,
+151,Gasser Larissa,Female,07-04-2019,Racines,ITA,Switzerland,European Cup,Parallel Slalom,8,115.20
+152,Gasser Larissa,Female,06-04-2019,Racines,ITA,Switzerland,European Cup,Parallel Slalom,12,79.20
+153,Gasser Larissa,Female,31-03-2019,Radstadt,AUT,Switzerland,National Championships,Parallel Giant Slalom,3,174.00
+154,Gasser Larissa,Female,30-03-2019,Radstadt,AUT,Switzerland,National Championships,Parallel Slalom,6,116.00
+155,Gasser Larissa,Female,23-03-2019,Winterberg,GER,Switzerland,World Cup,Parallel Slalom,27,45.00
+156,Gasser Larissa,Female,23-03-2019,Winterberg,GER,Switzerland,Qualification,Parallel Slalom,27,
+157,Gasser Larissa,Female,17-03-2019,Rogla,SLO,Switzerland,European Cup,Parallel Giant Slalom,50,5.58
+158,Gasser Larissa,Female,16-03-2019,Rogla,SLO,Switzerland,European Cup,Parallel Giant Slalom,5,162.00
+159,Gasser Larissa,Female,09-03-2019,Scuol,SUI,Switzerland,World Cup,Parallel GS,28,40.00
+160,Gasser Larissa,Female,09-03-2019,Scuol,SUI,Switzerland,Qualification,Parallel Giant Slalom,28,
+161,Gasser Larissa,Female,03-03-2019,Davos,SUI,Switzerland,European Cup,Parallel Slalom,9,104.40
+162,Gasser Larissa,Female,02-03-2019,Davos,SUI,Switzerland,European Cup,Parallel Giant Slalom,11,86.40
+163,Gasser Larissa,Female,17-02-2019,Simonhoehe,AUT,Switzerland,FIS,Parallel GS,1,200.00
+164,Gasser Larissa,Female,16-02-2019,Simonhoehe,AUT,Switzerland,FIS,Parallel GS,1,200.00
+165,Gasser Larissa,Female,10-02-2019,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,21,
+166,Gasser Larissa,Female,09-02-2019,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,6,104.00
+167,Gasser Larissa,Female,27-01-2019,Lachtal,AUT,Switzerland,European Cup,Parallel GS,2,144.00
+168,Gasser Larissa,Female,26-01-2019,Lachtal,AUT,Switzerland,European Cup,Parallel GS,8,57.60
+169,Gasser Larissa,Female,19-01-2019,Rogla,SLO,Switzerland,World Cup,Parallel GS,27,45.00
+170,Gasser Larissa,Female,19-01-2019,Rogla,SLO,Switzerland,Qualification,Parallel Giant Slalom,27,
+171,Gasser Larissa,Female,11-01-2019,Bad Gastein,AUT,Switzerland,European Cup,Parallel Slalom,6,144.00
+172,Gasser Larissa,Female,10-01-2019,Bad Gastein,AUT,Switzerland,European Cup,Parallel Slalom,12,79.20
+173,Gasser Larissa,Female,08-01-2019,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,23,80.00
+174,Gasser Larissa,Female,08-01-2019,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,23,
+175,Gasser Larissa,Female,06-01-2019,Simonhöhe,AUT,Switzerland,FIS,Parallel Slalom,3,132.00
+176,Gasser Larissa,Female,05-01-2019,Simonhöhe,AUT,Switzerland,FIS,Parallel Slalom,8,70.40
+177,Gasser Larissa,Female,23-12-2018,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,DNF1,
+178,Gasser Larissa,Female,22-12-2018,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,11,86.40
+179,Gasser Larissa,Female,15-12-2018,Cortina d'Ampezzo,ITA,Switzerland,World Cup,Parallel GS,31,28.00
+180,Gasser Larissa,Female,15-12-2018,Cortina d'Ampezzo,ITA,Switzerland,Qualification,Parallel Giant Slalom,31,
+181,Gasser Larissa,Female,13-12-2018,Carezza,ITA,Switzerland,World Cup,Parallel GS,DNF,
+182,Gasser Larissa,Female,13-12-2018,Carezza,ITA,Switzerland,Qualification,Parallel Giant Slalom,DNF,
+183,Gasser Larissa,Female,02-12-2018,Pfelders,ITA,Switzerland,FIS,Parallel Giant Slalom,3,132.00
+184,Gasser Larissa,Female,01-12-2018,Pfelders,ITA,Switzerland,FIS,Parallel Giant Slalom,5,99.00
+185,Gasser Larissa,Female,08-04-2018,Racines,ITA,Switzerland,European Cup,Parallel Slalom,5,162.00
+186,Gasser Larissa,Female,07-04-2018,Racines,ITA,Switzerland,European Cup,Parallel Slalom,7,129.60
+187,Gasser Larissa,Female,25-03-2018,Davos,SUI,Switzerland,European Cup,Parallel Slalom,23,
+188,Gasser Larissa,Female,24-03-2018,Davos,SUI,Switzerland,European Cup,Parallel GS,10,93.60
+189,Gasser Larissa,Female,21-03-2018,Rogla,SLO,Switzerland,European Cup,Parallel GS,31,10.08
+190,Gasser Larissa,Female,20-03-2018,Rogla,SLO,Switzerland,European Cup,Parallel GS,21,36.00
+191,Gasser Larissa,Female,11-03-2018,Tauplitz,AUT,Switzerland,European Cup,Parallel Slalom,4,145.00
+192,Gasser Larissa,Female,10-03-2018,Tauplitz,AUT,Switzerland,European Cup,Parallel Slalom,4,145.00
+193,Gasser Larissa,Female,25-02-2018,Funes/Villnoess,ITA,Switzerland,FIS,Parallel GS,23,
+194,Gasser Larissa,Female,24-02-2018,Funes/Villnoess,ITA,Switzerland,FIS,Parallel GS,2,144.00
+195,Gasser Larissa,Female,11-02-2018,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,2,256.00
+196,Gasser Larissa,Female,10-02-2018,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,1,360.00
+197,Gasser Larissa,Female,28-01-2018,Bansko,BUL,Switzerland,World Cup,Parallel GS,23,80.00
+198,Gasser Larissa,Female,28-01-2018,Bansko,BUL,Switzerland,Qualification,Parallel GS,23,
+199,Gasser Larissa,Female,26-01-2018,Bansko,BUL,Switzerland,World Cup,Parallel GS,37,19.40
+200,Gasser Larissa,Female,26-01-2018,Bansko,BUL,Switzerland,Qualification,Parallel GS,37,
+201,Gasser Larissa,Female,21-01-2018,Rogla,SLO,Switzerland,World Cup,Parallel GS,21,100.00
+202,Gasser Larissa,Female,21-01-2018,Rogla,SLO,Switzerland,Qualification,Parallel GS,21,
+203,Gasser Larissa,Female,20-01-2018,Rogla,SLO,Switzerland,World Cup,Parallel GS,48,
+204,Gasser Larissa,Female,20-01-2018,Rogla,SLO,Switzerland,Qualification,Parallel GS,48,
+205,Gasser Larissa,Female,12-01-2018,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,25,60.00
+206,Gasser Larissa,Female,12-01-2018,Bad Gastein,AUT,Switzerland,Qualification,Parallel Slalom,25,
+207,Gasser Larissa,Female,05-01-2018,Lackenhof,AUT,Switzerland,World Cup,Parallel GS,15,160.00
+208,Gasser Larissa,Female,05-01-2018,Lackenhof,AUT,Switzerland,Qualification,Parallel GS,14,
+209,Gasser Larissa,Female,10-12-2017,Hochfügen,GER,Switzerland,European Cup,Parallel GS,30,11.52
+210,Gasser Larissa,Female,09-12-2017,Hochfügen,GER,Switzerland,European Cup,Parallel GS,12,79.20
+211,Gasser Larissa,Female,21-02-2017,Klinovec,CZE,Switzerland,FIS Junior World Championships,Parallel Slalom,DSQ,
+212,Gasser Larissa,Female,20-02-2017,Klinovec,CZE,Switzerland,FIS Junior World Championships,Parallel GS,3,216.00
+213,Gasser Larissa,Female,12-02-2017,Phoenix Pyeongchang,KOR,Switzerland,World Cup,Parallel GS,18,130.00
+214,Gasser Larissa,Female,28-01-2017,Rogla,SLO,Switzerland,World Cup,Parallel GS,22,90.00
+215,Gasser Larissa,Female,21-01-2017,Livigno,ITA,Switzerland,European Cup,Parallel GS,17,50.40
+216,Gasser Larissa,Female,20-01-2017,Livigno,ITA,Switzerland,European Cup,Parallel GS,DSQ,
+217,Gasser Larissa,Female,10-01-2017,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,22,90.00
+218,Gasser Larissa,Female,08-01-2017,Gerlitzen,AUT,Switzerland,European Cup,Parallel GS,2,192.00
+219,Gasser Larissa,Female,07-01-2017,Gerlitzen,AUT,Switzerland,European Cup,Parallel GS,5,162.00
+220,Gasser Larissa,Female,17-12-2016,Cortina d'Ampezzo,ITA,Switzerland,World Cup,Parallel Slalom,15,160.00
+221,Gasser Larissa,Female,15-12-2016,Carezza,ITA,Switzerland,World Cup,Parallel GS,20,110.00
+222,Gasser Larissa,Female,11-12-2016,Hochfügen,GER,Switzerland,European Cup,Parallel GS,14,64.80
+223,Gasser Larissa,Female,10-12-2016,Hochfügen,GER,Switzerland,European Cup,Parallel GS,8,115.20
+224,Gasser Larissa,Female,04-11-2016,Landgraaf,NED,Switzerland,European Cup,Parallel Slalom,16,54.00
+225,Gasser Larissa,Female,03-11-2016,Landgraaf,NED,Switzerland,European Cup,Parallel Slalom,32,9.36
+226,Gasser Larissa,Female,03-04-2016,Rogla,SLO,Switzerland,FIS Junior World Championships,Parallel Slalom,8,115.20
+227,Gasser Larissa,Female,02-04-2016,Rogla,SLO,Switzerland,FIS Junior World Championships,Parallel GS,4,180.00
+228,Gasser Larissa,Female,27-03-2016,Racines,ITA,Switzerland,European Cup,Parallel Slalom,17,70.00
+229,Gasser Larissa,Female,26-03-2016,Racines,ITA,Switzerland,European Cup,Parallel Slalom,22,45.00
+230,Gasser Larissa,Female,24-03-2016,Rogla,SLO,Switzerland,European Cup,Parallel Slalom,38,
+231,Gasser Larissa,Female,23-03-2016,Rogla,SLO,Switzerland,European Cup,Parallel GS,2,400.00
+232,Gasser Larissa,Female,20-03-2016,Gerlitzen,AUT,Switzerland,European Cup,Parallel GS,32,13.00
+233,Gasser Larissa,Female,19-03-2016,Gerlitzen,AUT,Switzerland,European Cup,Parallel GS,30,16.00
+234,Gasser Larissa,Female,13-03-2016,Scuol,SUI,Switzerland,National Championships,Parallel Slalom,11,86.40
+235,Gasser Larissa,Female,12-03-2016,Scuol,SUI,Switzerland,National Championships,Parallel GS,7,129.60
+236,Gasser Larissa,Female,06-03-2016,Tauplitz,AUT,Switzerland,FIS,Parallel Slalom,4,110.00
+237,Gasser Larissa,Female,05-03-2016,Tauplitz,AUT,Switzerland,FIS,Parallel Slalom,2,176.00
+238,Gasser Larissa,Female,21-02-2016,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,30,16.00
+239,Gasser Larissa,Female,20-02-2016,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,12,110.00
+240,Gasser Larissa,Female,07-02-2016,Lachtal,AUT,Switzerland,FIS,Parallel Slalom,10,67.60
+241,Gasser Larissa,Female,06-02-2016,Lachtal,AUT,Switzerland,National Championships,Parallel Slalom,DNF1,
+242,Gasser Larissa,Female,30-01-2016,Stara Planina,SRB,Switzerland,European Cup,Parallel GS,9,63.80
+243,Gasser Larissa,Female,29-01-2016,Stara Planina,SRB,Switzerland,European Cup,Parallel Slalom,7,79.20
+244,Gasser Larissa,Female,17-01-2016,Kreischberg,AUT,Switzerland,FIS,Parallel GS,2,208.00
+245,Gasser Larissa,Female,16-01-2016,Kreischberg,AUT,Switzerland,FIS,Parallel GS,DSQ1,
+246,Gasser Larissa,Female,08-01-2016,Bad Gastein,AUT,Switzerland,World Cup,Parallel Slalom,33,24.00
+247,Gasser Larissa,Female,19-12-2015,Cortina d'Ampezzo,ITA,Switzerland,World Cup,Parallel Slalom,30,32.00
+248,Gasser Larissa,Female,12-12-2015,Carezza,ITA,Switzerland,World Cup,Parallel GS,24,70.00
+249,Gasser Larissa,Female,06-12-2015,Hochfuegen,GER,Switzerland,European Cup,Parallel GS,21,50.00
+250,Gasser Larissa,Female,05-12-2015,Hochfuegen,GER,Switzerland,European Cup,Parallel GS,7,180.00
+251,Gasser Larissa,Female,16-10-2015,Landgraaf,NED,Switzerland,European Cup,Parallel Slalom,17,70.00
+252,Gasser Larissa,Female,15-10-2015,Landgraaf,NED,Switzerland,European Cup,Parallel Slalom,32,13.00
+253,Gasser Larissa,Female,29-03-2015,Grächen,SUI,Switzerland,National Championships,Parallel Slalom,4,180.00
+254,Gasser Larissa,Female,22-03-2015,Racines,ITA,Switzerland,European Cup,Parallel Slalom,18,65.00
+255,Gasser Larissa,Female,21-03-2015,Racines,ITA,Switzerland,European Cup,Parallel Slalom,26,25.00
+256,Gasser Larissa,Female,18-03-2015,Rogla,SLO,Switzerland,European Cup,Parallel Slalom,11,96.00
+257,Gasser Larissa,Female,17-03-2015,Rogla,SLO,Switzerland,European Cup,Parallel GS,10,104.00
+258,Gasser Larissa,Female,11-03-2015,Yabuli,CHN,Switzerland,FIS Junior World Championships,Parallel Slalom,8,115.20
+259,Gasser Larissa,Female,10-03-2015,Yabuli,CHN,Switzerland,FIS Junior World Championships,Parallel GS,8,115.20
+260,Gasser Larissa,Female,25-02-2015,Marianske Lazne,CZE,Switzerland,European Cup,Parallel Slalom,5,130.50
+261,Gasser Larissa,Female,24-02-2015,Marianske Lazne,CZE,Switzerland,European Cup,Parallel Slalom,13,58.00
+262,Gasser Larissa,Female,22-02-2015,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,5,202.50
+263,Gasser Larissa,Female,21-02-2015,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,7,180.00
+264,Gasser Larissa,Female,15-02-2015,Kayseri,TUR,Switzerland,European Cup,Parallel Slalom,8,102.40
+265,Gasser Larissa,Female,14-02-2015,Kayseri,TUR,Switzerland,European Cup,Parallel Slalom,15,57.60
+266,Gasser Larissa,Female,31-01-2015,Livigno,ITA,Switzerland,European Cup,Parallel GS,3,144.00
+267,Gasser Larissa,Female,24-01-2015,Samnaun,SUI,Switzerland,FIS,Parallel Slalom,5,117.00
+268,Gasser Larissa,Female,23-01-2015,Samnaun,SUI,Switzerland,FIS,Parallel Slalom,9,75.40
+269,Gasser Larissa,Female,06-01-2015,Dachstein West / Gosau,AUT,Switzerland,FIS,Parallel Slalom,15,41.60
+270,Gasser Larissa,Female,05-01-2015,Dachstein West / Gosau,AUT,Switzerland,FIS,Parallel Slalom,24,18.20
+271,Gasser Larissa,Female,10-10-2014,Landgraaf,NED,Switzerland,FIS,Parallel Slalom,11,62.40
+272,Gasser Larissa,Female,09-10-2014,Landgraaf,NED,Switzerland,National Championships,Parallel Slalom,8,115.20
+273,Gasser Larissa,Female,09-04-2014,Chiesa in Valmalenco,ITA,Switzerland,National Championships,Parallel Slalom,16,54.00
+274,Gasser Larissa,Female,08-04-2014,Chiesa in Valmalenco,ITA,Switzerland,National Championships,Parallel GS,11,86.40
+275,Gasser Larissa,Female,05-04-2014,Furtschellas,SUI,Switzerland,National Championships,Parallel GS,10,93.60
+276,Gasser Larissa,Female,25-03-2014,Chiesa in Valmalenco,ITA,Switzerland,FIS Junior World Championships,Parallel Slalom,8,115.20
+277,Gasser Larissa,Female,24-03-2014,Chiesa in Valmalenco,ITA,Switzerland,FIS Junior World Championships,Parallel GS,13,72.00
+278,Gasser Larissa,Female,09-03-2014,Tauplitz,AUT,Switzerland,FIS,Parallel Slalom,20,28.60
+279,Gasser Larissa,Female,08-03-2014,Tauplitz,AUT,Switzerland,FIS,Parallel Slalom,12,57.20
+280,Gasser Larissa,Female,05-03-2014,Rogla,SLO,Switzerland,European Cup,Parallel Slalom,27,20.25
+281,Gasser Larissa,Female,04-03-2014,Rogla,SLO,Switzerland,European Cup,Parallel GS,35,0.00
+282,Gasser Larissa,Female,01-03-2014,Gerlitzen,AUT,Switzerland,European Cup,Parallel GS,28,16.00
+283,Gasser Larissa,Female,22-02-2014,Gosau,AUT,Switzerland,FIS,Slalom,13,52.00
+284,Gasser Larissa,Female,22-02-2014,Gosau,AUT,Switzerland,FIS,Slalom,6,104.00
+285,Gasser Larissa,Female,16-02-2014,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,20,35.20
+286,Gasser Larissa,Female,15-02-2014,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,12,70.40
+287,Gasser Larissa,Female,26-01-2014,Lizzola Valbondione,ITA,Switzerland,European Cup,Parallel Slalom,23,28.80
+288,Gasser Larissa,Female,25-01-2014,Lizzola Valbondione,ITA,Switzerland,European Cup,Parallel Slalom,32,9.36
+289,Gasser Larissa,Female,22-12-2013,Schönberg-Lachtal,AUT,Switzerland,European Cup,Parallel Slalom,134,
+290,Gasser Larissa,Female,21-12-2013,Schönberg-Lachtal,AUT,Switzerland,European Cup,Parallel Slalom,44,8.65
+291,Gasser Larissa,Female,15-12-2013,Samnaun,SUI,Switzerland,FIS,Parallel Slalom,4,130.00
+292,Gasser Larissa,Female,14-12-2013,Samnaun,SUI,Switzerland,FIS,Parallel Slalom,5,81.00
+293,Gasser Larissa,Female,08-12-2013,Hochfügen,AUT,Switzerland,European Cup,Parallel GS,39,9.40
+294,Gasser Larissa,Female,07-12-2013,Hochfügen,AUT,Switzerland,European Cup,Parallel GS,39,9.40
+295,Gasser Larissa,Female,08-11-2013,Landgraaf,NED,Switzerland,FIS,Parallel Slalom,11,62.40
+296,Gasser Larissa,Female,07-11-2013,Landgraaf,NED,Switzerland,FIS,Parallel Slalom,14,46.80
+297,Gasser Larissa,Female,07-04-2013,Sils/Silvaplana,SUI,Switzerland,National Championships,Parallel GS,7,129.60
+298,Gasser Larissa,Female,04-04-2013,Chiesa in Valmalenco,ITA,Switzerland,National Championships,Parallel Slalom,7,86.40
+299,Gasser Larissa,Female,03-04-2013,Chiesa in Valmalenco,ITA,Switzerland,National Championships,Giant Slalom,7,86.40
+300,Gasser Larissa,Female,23-03-2013,Götschen,GER,Switzerland,National Championships,Parallel GS,21,36.00
+301,Gasser Larissa,Female,22-03-2013,Götschen,GER,Switzerland,National Championships,Parallel Slalom,20,39.60
+302,Gasser Larissa,Female,07-03-2013,Erzurum,TUR,Switzerland,FIS Junior World Championships,Parallel Slalom,23,28.80
+303,Gasser Larissa,Female,06-03-2013,Erzurum,TUR,Switzerland,FIS Junior World Championships,Parallel GS,25,21.60
+304,Gasser Larissa,Female,02-03-2013,Gerlitzen,AUT,Switzerland,European Cup,Parallel Slalom,25,30.00
+305,Gasser Larissa,Female,21-02-2013,Predeal,ROU,Switzerland,European Youth Olympic Festival,Parallel GS,9,34.80
+306,Gasser Larissa,Female,02-02-2013,Lizzola-Valbondione,ITA,Switzerland,FIS,Parallel Slalom,12,48.40
+307,Gasser Larissa,Female,27-01-2013,Rossfeld,GER,Switzerland,Junior,Giant Slalom,7,46.80
+308,Gasser Larissa,Female,27-01-2013,Rossfeld,GER,Switzerland,Junior,Slalom,6,52.00
+309,Gasser Larissa,Female,26-01-2013,Rossfeld,GER,Switzerland,Junior,Giant Slalom,6,52.00
+310,Gasser Larissa,Female,26-01-2013,Rossfeld,GER,Switzerland,Junior,Slalom,7,46.80
+311,Gasser Larissa,Female,20-01-2013,Seceda/S. Cristina Val Gardena,ITA,Switzerland,FIS,Giant Slalom,1,70.00
+312,Gasser Larissa,Female,19-01-2013,Seceda/S. Cristina Val Gardena,ITA,Switzerland,FIS,Giant Slalom,7,72.00
+313,Gasser Larissa,Female,23-12-2012,Radstadt,AUT,Switzerland,FIS,Giant Slalom,13,48.00
+314,Gasser Larissa,Female,22-12-2012,Radstadt,AUT,Switzerland,FIS,Giant Slalom,9,69.60
+315,Gasser Larissa,Female,16-12-2012,Racines/Ratschings,ITA,Switzerland,European Cup,Parallel Slalom,47,8.20
+316,Gasser Larissa,Female,15-12-2012,Racines/Ratschings,ITA,Switzerland,European Cup,Parallel Slalom,47,8.20
+317,Gasser Larissa,Female,09-12-2012,Lachtal,AUT,Switzerland,European Cup,Parallel GS,43,8.80
+318,Gasser Larissa,Female,08-12-2012,Lachtal,AUT,Switzerland,European Cup,Parallel GS,55,7.00

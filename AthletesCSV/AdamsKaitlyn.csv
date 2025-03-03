@@ -1,72 +1,74 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Adams Kaitlyn,Female,22-02-2025,Calgary,CAN,United States Of America,World Cup,Slopestyle,26,22.40
-1,Adams Kaitlyn,Female,20-02-2025,Calgary,CAN,United States Of America,Qualification,Slopestyle,26,
-2,Adams Kaitlyn,Female,12-02-2025,Aspen / Highlands,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,6,99.50
-3,Adams Kaitlyn,Female,06-02-2025,Aspen,USA,United States Of America,World Cup,Big Air,16,103.40
-4,Adams Kaitlyn,Female,05-02-2025,Aspen,USA,United States Of America,Qualification,Big Air,16,
-5,Adams Kaitlyn,Female,02-02-2025,Aspen,USA,United States Of America,World Cup,Slopestyle,26,35.80
-6,Adams Kaitlyn,Female,31-01-2025,Aspen,USA,United States Of America,Qualification,Slopestyle,26,
-7,Adams Kaitlyn,Female,18-01-2025,Laax,SUI,United States Of America,World Cup,Slopestyle,24,60.70
-8,Adams Kaitlyn,Female,16-01-2025,Laax,SUI,United States Of America,Qualification,Slopestyle,24,
-9,Adams Kaitlyn,Female,02-09-2024,Cardrona,NZL,United States Of America,World Cup,Slopestyle,23,69.70
-10,Adams Kaitlyn,Female,31-08-2024,Cardrona,NZL,United States Of America,Qualification,Slopestyle,23,
-11,Adams Kaitlyn,Female,03-04-2024,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,3,53.20
-12,Adams Kaitlyn,Female,03-04-2024,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,4,79.30
-13,Adams Kaitlyn,Female,23-03-2024,Silvaplana,SUI,United States Of America,World Cup,Slopestyle,19,49.00
-14,Adams Kaitlyn,Female,21-03-2024,Silvaplana,SUI,United States Of America,Qualification,Slopestyle,19,
-15,Adams Kaitlyn,Female,15-03-2024,Tignes,FRA,United States Of America,World Cup,Slopestyle,12,103.80
-16,Adams Kaitlyn,Female,14-03-2024,Tignes,FRA,United States Of America,Qualification,Slopestyle,12,
-17,Adams Kaitlyn,Female,08-02-2024,Mammoth Mountain,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,2,197.00
-18,Adams Kaitlyn,Female,26-01-2024,Copper Mountain,USA,United States Of America,Nor-Am Cup,Slopestyle,1,140.00
-19,Adams Kaitlyn,Female,20-01-2024,Laax,SUI,United States Of America,World Cup,Slopestyle,26,19.50
-20,Adams Kaitlyn,Female,16-01-2024,Laax,SUI,United States Of America,Qualification,Slopestyle,26,
-21,Adams Kaitlyn,Female,09-12-2023,Edmonton,CAN,United States Of America,World Cup,Big Air,DNS,
-22,Adams Kaitlyn,Female,08-12-2023,Edmonton,CAN,United States Of America,Qualification,Big Air,DNS,
-23,Adams Kaitlyn,Female,06-04-2023,Copper Mountain Resort,USA,United States Of America,National Championships,Slopestyle,15,0.20
-24,Adams Kaitlyn,Female,15-03-2023,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,2,89.00
-25,Adams Kaitlyn,Female,14-03-2023,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,2,96.40
-26,Adams Kaitlyn,Female,10-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Big Air,4,56.80
-27,Adams Kaitlyn,Female,09-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,5,75.30
-28,Adams Kaitlyn,Female,08-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,1,180.00
-29,Adams Kaitlyn,Female,16-02-2023,Winsport Calgary,CAN,United States Of America,Nor-Am Cup,Big Air,3,71.60
-30,Adams Kaitlyn,Female,15-02-2023,Winsport Calgary,CAN,United States Of America,Nor-Am Cup,Slopestyle,5,55.70
-31,Adams Kaitlyn,Female,10-02-2023,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,3,130.20
-32,Adams Kaitlyn,Female,04-02-2023,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,20,0.40
-33,Adams Kaitlyn,Female,01-02-2023,Mammoth Mountain,USA,United States Of America,Qualification,Slopestyle,20,
-34,Adams Kaitlyn,Female,26-01-2023,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,16,3.80
-35,Adams Kaitlyn,Female,22-01-2023,Laax,SUI,United States Of America,World Cup,Slopestyle,19,91.40
-36,Adams Kaitlyn,Female,20-01-2023,Laax,SUI,United States Of America,Qualification,Slopestyle,19,
-37,Adams Kaitlyn,Female,17-12-2022,Copper Mountain,USA,United States Of America,World Cup,Big Air,15,83.00
-38,Adams Kaitlyn,Female,15-12-2022,Copper Mountain,USA,United States Of America,Qualification,Big Air,15,
-39,Adams Kaitlyn,Female,10-12-2022,Edmonton,CAN,United States Of America,World Cup,Big Air,13,0.70
-40,Adams Kaitlyn,Female,09-12-2022,Edmonton,CAN,United States Of America,Qualification,Big Air,13,
-41,Adams Kaitlyn,Female,24-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,1,120.00
-42,Adams Kaitlyn,Female,22-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,3,102.90
-43,Adams Kaitlyn,Female,19-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Slopestyle,2,146.30
-44,Adams Kaitlyn,Female,18-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Slopestyle,1,180.00
-45,Adams Kaitlyn,Female,13-03-2022,Leysin,SUI,United States Of America,FIS Junior World Championships,Slopestyle,9,65.10
-46,Adams Kaitlyn,Female,10-03-2022,Leysin,SUI,United States Of America,FIS Junior World Championships,Big Air,11,49.70
-47,Adams Kaitlyn,Female,15-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Big Air,4,53.10
-48,Adams Kaitlyn,Female,13-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Slopestyle,3,145.70
-49,Adams Kaitlyn,Female,06-02-2022,Calgary,CAN,United States Of America,National Junior Championships,Slopestyle,1,110.00
-50,Adams Kaitlyn,Female,04-02-2022,Calgary,CAN,United States Of America,Nor-Am Cup,Big Air,3,75.90
-51,Adams Kaitlyn,Female,26-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,1,220.00
-52,Adams Kaitlyn,Female,25-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,2,180.40
-53,Adams Kaitlyn,Female,21-01-2022,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,2,127.70
-54,Adams Kaitlyn,Female,20-01-2022,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,4,79.20
-55,Adams Kaitlyn,Female,20-03-2021,Aspen,USA,United States Of America,World Cup,Slopestyle,28,17.94
-56,Adams Kaitlyn,Female,19-03-2021,Aspen,USA,United States Of America,Qualification,Slopestyle,28,
-57,Adams Kaitlyn,Female,04-03-2021,Copper Mountain,USA,United States Of America,National Championships,Slopestyle,16,19.05
-58,Adams Kaitlyn,Female,26-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Big Air,11,9.46
-59,Adams Kaitlyn,Female,24-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Slopestyle,21,6.60
-60,Adams Kaitlyn,Female,27-01-2021,Park City,USA,United States Of America,FIS,Slopestyle,10,14.48
-61,Adams Kaitlyn,Female,05-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Big Air,5,72.00
-62,Adams Kaitlyn,Female,03-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Slopestyle,10,57.20
-63,Adams Kaitlyn,Female,02-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Slopestyle,18,28.60
-64,Adams Kaitlyn,Female,25-02-2020,Mount St-Louis Moonstone,CAN,United States Of America,Nor-Am Cup,Slopestyle,9,63.80
-65,Adams Kaitlyn,Female,24-02-2020,Mount St-Louis Moonstone,CAN,United States Of America,Nor-Am Cup,Slopestyle,9,63.80
-66,Adams Kaitlyn,Female,09-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Big Air,10,41.60
-67,Adams Kaitlyn,Female,07-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,6,64.00
-68,Adams Kaitlyn,Female,16-01-2020,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Big Air,1,160.00
-69,Adams Kaitlyn,Female,15-01-2020,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,2,128.00
-70,Adams Kaitlyn,Female,27-02-2019,"Seven Springs Mountain Resort, PA",USA,United States Of America,FIS,Slopestyle,3,30.00
+0,Adams Kaitlyn,Female,26-02-2025,Winsport Calgary,CAN,United States Of America,Nor-Am Cup Premium,Big Air,6,90.50
+1,Adams Kaitlyn,Female,25-02-2025,Winsport Calgary,CAN,United States Of America,Nor-Am Cup Premium,Slopestyle,3,215.10
+2,Adams Kaitlyn,Female,22-02-2025,Calgary,CAN,United States Of America,World Cup,Slopestyle,26,22.40
+3,Adams Kaitlyn,Female,20-02-2025,Calgary,CAN,United States Of America,Qualification,Slopestyle,26,
+4,Adams Kaitlyn,Female,12-02-2025,Aspen / Highlands,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,6,99.50
+5,Adams Kaitlyn,Female,06-02-2025,Aspen,USA,United States Of America,World Cup,Big Air,16,103.40
+6,Adams Kaitlyn,Female,05-02-2025,Aspen,USA,United States Of America,Qualification,Big Air,16,
+7,Adams Kaitlyn,Female,02-02-2025,Aspen,USA,United States Of America,World Cup,Slopestyle,26,35.80
+8,Adams Kaitlyn,Female,31-01-2025,Aspen,USA,United States Of America,Qualification,Slopestyle,26,
+9,Adams Kaitlyn,Female,18-01-2025,Laax,SUI,United States Of America,World Cup,Slopestyle,24,60.70
+10,Adams Kaitlyn,Female,16-01-2025,Laax,SUI,United States Of America,Qualification,Slopestyle,24,
+11,Adams Kaitlyn,Female,02-09-2024,Cardrona,NZL,United States Of America,World Cup,Slopestyle,23,69.70
+12,Adams Kaitlyn,Female,31-08-2024,Cardrona,NZL,United States Of America,Qualification,Slopestyle,23,
+13,Adams Kaitlyn,Female,03-04-2024,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,3,53.20
+14,Adams Kaitlyn,Female,03-04-2024,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,4,79.30
+15,Adams Kaitlyn,Female,23-03-2024,Silvaplana,SUI,United States Of America,World Cup,Slopestyle,19,49.00
+16,Adams Kaitlyn,Female,21-03-2024,Silvaplana,SUI,United States Of America,Qualification,Slopestyle,19,
+17,Adams Kaitlyn,Female,15-03-2024,Tignes,FRA,United States Of America,World Cup,Slopestyle,12,103.80
+18,Adams Kaitlyn,Female,14-03-2024,Tignes,FRA,United States Of America,Qualification,Slopestyle,12,
+19,Adams Kaitlyn,Female,08-02-2024,Mammoth Mountain,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,2,197.00
+20,Adams Kaitlyn,Female,26-01-2024,Copper Mountain,USA,United States Of America,Nor-Am Cup,Slopestyle,1,140.00
+21,Adams Kaitlyn,Female,20-01-2024,Laax,SUI,United States Of America,World Cup,Slopestyle,26,19.50
+22,Adams Kaitlyn,Female,16-01-2024,Laax,SUI,United States Of America,Qualification,Slopestyle,26,
+23,Adams Kaitlyn,Female,09-12-2023,Edmonton,CAN,United States Of America,World Cup,Big Air,DNS,
+24,Adams Kaitlyn,Female,08-12-2023,Edmonton,CAN,United States Of America,Qualification,Big Air,DNS,
+25,Adams Kaitlyn,Female,06-04-2023,Copper Mountain Resort,USA,United States Of America,National Championships,Slopestyle,15,0.20
+26,Adams Kaitlyn,Female,15-03-2023,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,2,89.00
+27,Adams Kaitlyn,Female,14-03-2023,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,2,96.40
+28,Adams Kaitlyn,Female,10-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Big Air,4,56.80
+29,Adams Kaitlyn,Female,09-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,5,75.30
+30,Adams Kaitlyn,Female,08-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,1,180.00
+31,Adams Kaitlyn,Female,16-02-2023,Winsport Calgary,CAN,United States Of America,Nor-Am Cup,Big Air,3,71.60
+32,Adams Kaitlyn,Female,15-02-2023,Winsport Calgary,CAN,United States Of America,Nor-Am Cup,Slopestyle,5,55.70
+33,Adams Kaitlyn,Female,10-02-2023,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,3,130.20
+34,Adams Kaitlyn,Female,04-02-2023,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,20,0.40
+35,Adams Kaitlyn,Female,01-02-2023,Mammoth Mountain,USA,United States Of America,Qualification,Slopestyle,20,
+36,Adams Kaitlyn,Female,26-01-2023,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,16,3.80
+37,Adams Kaitlyn,Female,22-01-2023,Laax,SUI,United States Of America,World Cup,Slopestyle,19,91.40
+38,Adams Kaitlyn,Female,20-01-2023,Laax,SUI,United States Of America,Qualification,Slopestyle,19,
+39,Adams Kaitlyn,Female,17-12-2022,Copper Mountain,USA,United States Of America,World Cup,Big Air,15,83.00
+40,Adams Kaitlyn,Female,15-12-2022,Copper Mountain,USA,United States Of America,Qualification,Big Air,15,
+41,Adams Kaitlyn,Female,10-12-2022,Edmonton,CAN,United States Of America,World Cup,Big Air,13,0.70
+42,Adams Kaitlyn,Female,09-12-2022,Edmonton,CAN,United States Of America,Qualification,Big Air,13,
+43,Adams Kaitlyn,Female,24-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,1,120.00
+44,Adams Kaitlyn,Female,22-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,3,102.90
+45,Adams Kaitlyn,Female,19-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Slopestyle,2,146.30
+46,Adams Kaitlyn,Female,18-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Slopestyle,1,180.00
+47,Adams Kaitlyn,Female,13-03-2022,Leysin,SUI,United States Of America,FIS Junior World Championships,Slopestyle,9,65.10
+48,Adams Kaitlyn,Female,10-03-2022,Leysin,SUI,United States Of America,FIS Junior World Championships,Big Air,11,49.70
+49,Adams Kaitlyn,Female,15-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Big Air,4,53.10
+50,Adams Kaitlyn,Female,13-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Slopestyle,3,145.70
+51,Adams Kaitlyn,Female,06-02-2022,Calgary,CAN,United States Of America,National Junior Championships,Slopestyle,1,110.00
+52,Adams Kaitlyn,Female,04-02-2022,Calgary,CAN,United States Of America,Nor-Am Cup,Big Air,3,75.90
+53,Adams Kaitlyn,Female,26-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,1,220.00
+54,Adams Kaitlyn,Female,25-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,2,180.40
+55,Adams Kaitlyn,Female,21-01-2022,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,2,127.70
+56,Adams Kaitlyn,Female,20-01-2022,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,4,79.20
+57,Adams Kaitlyn,Female,20-03-2021,Aspen,USA,United States Of America,World Cup,Slopestyle,28,17.94
+58,Adams Kaitlyn,Female,19-03-2021,Aspen,USA,United States Of America,Qualification,Slopestyle,28,
+59,Adams Kaitlyn,Female,04-03-2021,Copper Mountain,USA,United States Of America,National Championships,Slopestyle,16,19.05
+60,Adams Kaitlyn,Female,26-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Big Air,11,9.46
+61,Adams Kaitlyn,Female,24-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Slopestyle,21,6.60
+62,Adams Kaitlyn,Female,27-01-2021,Park City,USA,United States Of America,FIS,Slopestyle,10,14.48
+63,Adams Kaitlyn,Female,05-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Big Air,5,72.00
+64,Adams Kaitlyn,Female,03-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Slopestyle,10,57.20
+65,Adams Kaitlyn,Female,02-03-2020,Park City,USA,United States Of America,Nor-Am Cup,Slopestyle,18,28.60
+66,Adams Kaitlyn,Female,25-02-2020,Mount St-Louis Moonstone,CAN,United States Of America,Nor-Am Cup,Slopestyle,9,63.80
+67,Adams Kaitlyn,Female,24-02-2020,Mount St-Louis Moonstone,CAN,United States Of America,Nor-Am Cup,Slopestyle,9,63.80
+68,Adams Kaitlyn,Female,09-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Big Air,10,41.60
+69,Adams Kaitlyn,Female,07-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,6,64.00
+70,Adams Kaitlyn,Female,16-01-2020,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Big Air,1,160.00
+71,Adams Kaitlyn,Female,15-01-2020,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,2,128.00
+72,Adams Kaitlyn,Female,27-02-2019,"Seven Springs Mountain Resort, PA",USA,United States Of America,FIS,Slopestyle,3,30.00

@@ -1,66 +1,68 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Kuh Vojtech,Male,19-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,9,26.10
-1,Kuh Vojtech,Male,18-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,12,19.80
-2,Kuh Vojtech,Male,17-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,10,18.20
-3,Kuh Vojtech,Male,16-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,2,56.00
-4,Kuh Vojtech,Male,05-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,8,22.40
-5,Kuh Vojtech,Male,04-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,9,20.30
-6,Kuh Vojtech,Male,03-03-2023,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Giant Slalom,DNF,
-7,Kuh Vojtech,Male,13-03-2022,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,28,
-8,Kuh Vojtech,Male,12-03-2022,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,11,26.40
-9,Kuh Vojtech,Male,16-01-2022,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,12,24.20
-10,Kuh Vojtech,Male,15-01-2022,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,13,22.00
-11,Kuh Vojtech,Male,24-03-2019,Paseky nad Jizerou,CZE,Czechia,FIS,Parallel Slalom,2,88.00
-12,Kuh Vojtech,Male,23-03-2019,Paseky nad Jizerou,CZE,Czechia,FIS,Parallel Slalom,3,54.00
-13,Kuh Vojtech,Male,20-01-2019,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,8,22.40
-14,Kuh Vojtech,Male,19-01-2019,Dolni Morava,CZE,Czechia,FIS,Parallel GS,3,30.00
-15,Kuh Vojtech,Male,17-03-2018,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel GS,8,16.00
-16,Kuh Vojtech,Male,21-01-2018,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,3,30.00
-17,Kuh Vojtech,Male,20-01-2018,Dolni Morava,CZE,Czechia,FIS,Parallel GS,7,18.00
-18,Kuh Vojtech,Male,07-01-2018,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,7,25.20
-19,Kuh Vojtech,Male,06-01-2018,Pec pod Snezkou,CZE,Czechia,FIS,Parallel GS,5,31.50
-20,Kuh Vojtech,Male,05-03-2017,Herlikovice,CZE,Czechia,FIS,Parallel Slalom,6,20.00
-21,Kuh Vojtech,Male,04-03-2017,Herlikovice,CZE,Czechia,FIS,Parallel GS,5,22.50
-22,Kuh Vojtech,Male,10-01-2017,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,51,
-23,Kuh Vojtech,Male,08-01-2017,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,4,25.00
-24,Kuh Vojtech,Male,07-01-2017,Dolni Morava,CZE,Czechia,FIS,Parallel GS,7,18.00
-25,Kuh Vojtech,Male,20-02-2016,Klinovec,CZE,Czechia,FIS,Parallel GS,4,25.00
-26,Kuh Vojtech,Male,07-02-2016,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,1,50.00
-27,Kuh Vojtech,Male,06-02-2016,Dolni Morava,CZE,Czechia,FIS,Parallel GS,1,50.00
-28,Kuh Vojtech,Male,14-03-2010,Herlikovice,CZE,Czechia,National Championships,Parallel GS,9,29.00
-29,Kuh Vojtech,Male,13-03-2010,Herlikovice,CZE,Czechia,National Championships,Parallel Slalom,12,19.80
-30,Kuh Vojtech,Male,08-03-2009,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,21,11.00
-31,Kuh Vojtech,Male,07-03-2009,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel GS,11,26.40
-32,Kuh Vojtech,Male,09-03-2008,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,22,11.70
-33,Kuh Vojtech,Male,08-03-2008,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel GS,3,78.00
-34,Kuh Vojtech,Male,12-03-2007,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,16,15.00
-35,Kuh Vojtech,Male,11-03-2007,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,6,60.00
-36,Kuh Vojtech,Male,10-03-2007,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel GS,7,54.00
-37,Kuh Vojtech,Male,09-03-2007,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel GS,6,60.00
-38,Kuh Vojtech,Male,25-02-2007,Klinovec,CZE,Czechia,European Cup,Parallel GS,20,31.90
-39,Kuh Vojtech,Male,24-02-2007,Klinovec,CZE,Czechia,European Cup,Parallel GS,19,34.80
-40,Kuh Vojtech,Male,27-03-2006,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,8,
-41,Kuh Vojtech,Male,26-03-2006,Spindleruv Mlyn,CZE,Czechia,National Championships,Snowboardcross,29,5.76
-42,Kuh Vojtech,Male,25-03-2006,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel GS,6,80.00
-43,Kuh Vojtech,Male,22-01-2006,Pec pod Snezkou,CZE,Czechia,FIS,Parallel GS,8,16.00
-44,Kuh Vojtech,Male,21-01-2006,Pec pod Snezkou,CZE,Czechia,FIS,Parallel GS,1,50.00
-45,Kuh Vojtech,Male,08-01-2006,Herlikovice,CZE,Czechia,FIS,Parallel GS,8,22.40
-46,Kuh Vojtech,Male,07-01-2006,Herlikovice,CZE,Czechia,FIS,Parallel GS,2,56.00
-47,Kuh Vojtech,Male,03-04-2005,Pec pod Snezkou,CZE,Czechia,National Championships,Parallel GS,3,30.00
-48,Kuh Vojtech,Male,06-03-2005,Herlikovice,CZE,Czechia,FIS,Parallel GS,2,40.00
-49,Kuh Vojtech,Male,05-03-2005,Herlikovice,CZE,Czechia,FIS,Parallel GS,9,14.50
-50,Kuh Vojtech,Male,16-01-2005,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,4,25.00
-51,Kuh Vojtech,Male,15-01-2005,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,4,25.00
-52,Kuh Vojtech,Male,27-03-2004,Klinovec,CZE,Czechia,National Championships,Parallel GS,10,13.00
-53,Kuh Vojtech,Male,14-03-2004,Herlikovice,CZE,Czechia,FIS,Parallel GS,1,50.00
-54,Kuh Vojtech,Male,13-03-2004,Herlikovice,CZE,Czechia,FIS,Parallel GS,3,30.00
-55,Kuh Vojtech,Male,25-01-2004,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,22,4.50
-56,Kuh Vojtech,Male,24-01-2004,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,16,7.50
-57,Kuh Vojtech,Male,23-03-2003,Pec pod Snezkou,CZE,Czechia,National Championships,Parallel Slalom,16,7.50
-58,Kuh Vojtech,Male,22-03-2003,Pec pod Snezkou,CZE,Czechia,National Championships,Parallel GS,13,10.00
-59,Kuh Vojtech,Male,02-02-2003,Pec pod Snezkou,CZE,Czechia,FIS,Giant Slalom,15,14.40
-60,Kuh Vojtech,Male,01-02-2003,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,DSQ,
-61,Kuh Vojtech,Male,26-01-2003,Telnice,CZE,Czechia,FIS,Giant Slalom,5,22.50
-62,Kuh Vojtech,Male,25-01-2003,Telnice,CZE,Czechia,FIS,Giant Slalom,4,25.00
-63,Kuh Vojtech,Male,16-01-2000,Spindleruv Mlyn,CZE,Czechia,FIS,Giant Slalom,2,80.00
-64,Kuh Vojtech,Male,15-01-2000,Spindleruv Mlyn,CZE,Czechia,FIS,Slalom,1,100.00
+0,Kuh Vojtech,Male,02-03-2025,Spindleruv Mlyn - Stoh,CZE,Czechia,National Championships,Parallel Slalom,12,
+1,Kuh Vojtech,Male,01-03-2025,Spindleruv Mlyn - Stoh,CZE,Czechia,National Championships,Parallel Giant Slalom,3,
+2,Kuh Vojtech,Male,19-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,9,26.10
+3,Kuh Vojtech,Male,18-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,12,19.80
+4,Kuh Vojtech,Male,17-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,10,18.20
+5,Kuh Vojtech,Male,16-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,2,56.00
+6,Kuh Vojtech,Male,05-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,8,22.40
+7,Kuh Vojtech,Male,04-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,9,20.30
+8,Kuh Vojtech,Male,03-03-2023,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Giant Slalom,DNF,
+9,Kuh Vojtech,Male,13-03-2022,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,28,
+10,Kuh Vojtech,Male,12-03-2022,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,11,26.40
+11,Kuh Vojtech,Male,16-01-2022,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,12,24.20
+12,Kuh Vojtech,Male,15-01-2022,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,13,22.00
+13,Kuh Vojtech,Male,24-03-2019,Paseky nad Jizerou,CZE,Czechia,FIS,Parallel Slalom,2,88.00
+14,Kuh Vojtech,Male,23-03-2019,Paseky nad Jizerou,CZE,Czechia,FIS,Parallel Slalom,3,54.00
+15,Kuh Vojtech,Male,20-01-2019,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,8,22.40
+16,Kuh Vojtech,Male,19-01-2019,Dolni Morava,CZE,Czechia,FIS,Parallel GS,3,30.00
+17,Kuh Vojtech,Male,17-03-2018,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel GS,8,16.00
+18,Kuh Vojtech,Male,21-01-2018,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,3,30.00
+19,Kuh Vojtech,Male,20-01-2018,Dolni Morava,CZE,Czechia,FIS,Parallel GS,7,18.00
+20,Kuh Vojtech,Male,07-01-2018,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,7,25.20
+21,Kuh Vojtech,Male,06-01-2018,Pec pod Snezkou,CZE,Czechia,FIS,Parallel GS,5,31.50
+22,Kuh Vojtech,Male,05-03-2017,Herlikovice,CZE,Czechia,FIS,Parallel Slalom,6,20.00
+23,Kuh Vojtech,Male,04-03-2017,Herlikovice,CZE,Czechia,FIS,Parallel GS,5,22.50
+24,Kuh Vojtech,Male,10-01-2017,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,51,
+25,Kuh Vojtech,Male,08-01-2017,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,4,25.00
+26,Kuh Vojtech,Male,07-01-2017,Dolni Morava,CZE,Czechia,FIS,Parallel GS,7,18.00
+27,Kuh Vojtech,Male,20-02-2016,Klinovec,CZE,Czechia,FIS,Parallel GS,4,25.00
+28,Kuh Vojtech,Male,07-02-2016,Dolni Morava,CZE,Czechia,FIS,Parallel Slalom,1,50.00
+29,Kuh Vojtech,Male,06-02-2016,Dolni Morava,CZE,Czechia,FIS,Parallel GS,1,50.00
+30,Kuh Vojtech,Male,14-03-2010,Herlikovice,CZE,Czechia,National Championships,Parallel GS,9,29.00
+31,Kuh Vojtech,Male,13-03-2010,Herlikovice,CZE,Czechia,National Championships,Parallel Slalom,12,19.80
+32,Kuh Vojtech,Male,08-03-2009,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,21,11.00
+33,Kuh Vojtech,Male,07-03-2009,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel GS,11,26.40
+34,Kuh Vojtech,Male,09-03-2008,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,22,11.70
+35,Kuh Vojtech,Male,08-03-2008,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel GS,3,78.00
+36,Kuh Vojtech,Male,12-03-2007,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,16,15.00
+37,Kuh Vojtech,Male,11-03-2007,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,6,60.00
+38,Kuh Vojtech,Male,10-03-2007,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel GS,7,54.00
+39,Kuh Vojtech,Male,09-03-2007,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel GS,6,60.00
+40,Kuh Vojtech,Male,25-02-2007,Klinovec,CZE,Czechia,European Cup,Parallel GS,20,31.90
+41,Kuh Vojtech,Male,24-02-2007,Klinovec,CZE,Czechia,European Cup,Parallel GS,19,34.80
+42,Kuh Vojtech,Male,27-03-2006,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,8,
+43,Kuh Vojtech,Male,26-03-2006,Spindleruv Mlyn,CZE,Czechia,National Championships,Snowboardcross,29,5.76
+44,Kuh Vojtech,Male,25-03-2006,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel GS,6,80.00
+45,Kuh Vojtech,Male,22-01-2006,Pec pod Snezkou,CZE,Czechia,FIS,Parallel GS,8,16.00
+46,Kuh Vojtech,Male,21-01-2006,Pec pod Snezkou,CZE,Czechia,FIS,Parallel GS,1,50.00
+47,Kuh Vojtech,Male,08-01-2006,Herlikovice,CZE,Czechia,FIS,Parallel GS,8,22.40
+48,Kuh Vojtech,Male,07-01-2006,Herlikovice,CZE,Czechia,FIS,Parallel GS,2,56.00
+49,Kuh Vojtech,Male,03-04-2005,Pec pod Snezkou,CZE,Czechia,National Championships,Parallel GS,3,30.00
+50,Kuh Vojtech,Male,06-03-2005,Herlikovice,CZE,Czechia,FIS,Parallel GS,2,40.00
+51,Kuh Vojtech,Male,05-03-2005,Herlikovice,CZE,Czechia,FIS,Parallel GS,9,14.50
+52,Kuh Vojtech,Male,16-01-2005,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,4,25.00
+53,Kuh Vojtech,Male,15-01-2005,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,4,25.00
+54,Kuh Vojtech,Male,27-03-2004,Klinovec,CZE,Czechia,National Championships,Parallel GS,10,13.00
+55,Kuh Vojtech,Male,14-03-2004,Herlikovice,CZE,Czechia,FIS,Parallel GS,1,50.00
+56,Kuh Vojtech,Male,13-03-2004,Herlikovice,CZE,Czechia,FIS,Parallel GS,3,30.00
+57,Kuh Vojtech,Male,25-01-2004,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,22,4.50
+58,Kuh Vojtech,Male,24-01-2004,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,16,7.50
+59,Kuh Vojtech,Male,23-03-2003,Pec pod Snezkou,CZE,Czechia,National Championships,Parallel Slalom,16,7.50
+60,Kuh Vojtech,Male,22-03-2003,Pec pod Snezkou,CZE,Czechia,National Championships,Parallel GS,13,10.00
+61,Kuh Vojtech,Male,02-02-2003,Pec pod Snezkou,CZE,Czechia,FIS,Giant Slalom,15,14.40
+62,Kuh Vojtech,Male,01-02-2003,Pec pod Snezkou,CZE,Czechia,FIS,Parallel Slalom,DSQ,
+63,Kuh Vojtech,Male,26-01-2003,Telnice,CZE,Czechia,FIS,Giant Slalom,5,22.50
+64,Kuh Vojtech,Male,25-01-2003,Telnice,CZE,Czechia,FIS,Giant Slalom,4,25.00
+65,Kuh Vojtech,Male,16-01-2000,Spindleruv Mlyn,CZE,Czechia,FIS,Giant Slalom,2,80.00
+66,Kuh Vojtech,Male,15-01-2000,Spindleruv Mlyn,CZE,Czechia,FIS,Slalom,1,100.00

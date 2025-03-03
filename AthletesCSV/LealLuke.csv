@@ -1,56 +1,58 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Leal Luke,Male,12-02-2025,Aspen / Highlands,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,30,22.40
-1,Leal Luke,Male,13-01-2025,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,21,19.10
-2,Leal Luke,Male,17-08-2024,The Remarkables,NZL,United States Of America,Australian New Zealand Cup,Slopestyle,32,1.70
-3,Leal Luke,Male,04-04-2024,"Copper Mountain, CO",USA,United States Of America,National Championships,Slopestyle,29,1.80
-4,Leal Luke,Male,30-03-2024,"Copper Mountain, CO",USA,United States Of America,National Championships,Rail Event,17,
-5,Leal Luke,Male,17-03-2024,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,26,4.50
-6,Leal Luke,Male,08-02-2024,Mammoth Mountain,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,37,31.40
-7,Leal Luke,Male,26-01-2024,Copper Mountain,USA,United States Of America,Nor-Am Cup,Slopestyle,11,53.30
-8,Leal Luke,Male,18-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Big Air,10,45.00
-9,Leal Luke,Male,17-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,28,23.80
-10,Leal Luke,Male,06-04-2023,Copper Mountain Resort,USA,United States Of America,National Championships,Slopestyle,28,8.90
-11,Leal Luke,Male,15-03-2023,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,21,3.10
-12,Leal Luke,Male,14-03-2023,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,15,31.50
-13,Leal Luke,Male,10-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Big Air,25,3.70
-14,Leal Luke,Male,09-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,30,9.60
-15,Leal Luke,Male,08-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,23,21.20
-16,Leal Luke,Male,16-02-2023,Winsport Calgary,CAN,United States Of America,Nor-Am Cup,Big Air,10,33.70
-17,Leal Luke,Male,15-02-2023,Winsport Calgary,CAN,United States Of America,Nor-Am Cup,Slopestyle,39,8.60
-18,Leal Luke,Male,10-02-2023,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,21,28.70
-19,Leal Luke,Male,26-01-2023,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,29,24.80
-20,Leal Luke,Male,18-01-2023,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,28,13.80
-21,Leal Luke,Male,17-01-2023,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,32,9.40
-22,Leal Luke,Male,07-04-2022,Copper Mountain Resort,USA,United States Of America,National Championships,Slopestyle,23,6.40
-23,Leal Luke,Male,06-04-2022,Copper Mountain Resort,USA,United States Of America,National Championships,Halfpipe,6,25.50
-24,Leal Luke,Male,24-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,21,3.10
-25,Leal Luke,Male,23-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Halfpipe,4,29.40
-26,Leal Luke,Male,22-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,14,29.40
-27,Leal Luke,Male,20-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Big Air,14,3.20
-28,Leal Luke,Male,19-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Slopestyle,17,16.40
-29,Leal Luke,Male,18-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Slopestyle,26,6.50
-30,Leal Luke,Male,11-03-2022,Northstar California Resorts,USA,United States Of America,FIS,Halfpipe,3,32.20
-31,Leal Luke,Male,09-03-2022,Northstar California Resorts,USA,United States Of America,FIS,Slopestyle,2,41.30
-32,Leal Luke,Male,28-02-2022,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,13,40.60
-33,Leal Luke,Male,27-02-2022,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,14,45.80
-34,Leal Luke,Male,24-02-2022,Copper Mountain Resort,USA,United States Of America,FIS,Slopestyle,13,25.30
-35,Leal Luke,Male,15-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Big Air,23,0.10
-36,Leal Luke,Male,14-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Halfpipe,14,9.20
-37,Leal Luke,Male,13-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Slopestyle,24,23.20
-38,Leal Luke,Male,04-02-2022,"Park City, UT",USA,United States Of America,FIS,Slopestyle,26,2.20
-39,Leal Luke,Male,03-02-2022,"Park City, UT",USA,United States Of America,FIS,Halfpipe,3,5.70
-40,Leal Luke,Male,28-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,18,8.00
-41,Leal Luke,Male,26-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,46,0.10
-42,Leal Luke,Male,25-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,35,17.90
-43,Leal Luke,Male,21-01-2022,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,25,8.50
-44,Leal Luke,Male,20-01-2022,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,24,9.40
-45,Leal Luke,Male,19-11-2021,Landgraaf,NED,United States Of America,European Cup,Slopestyle,44,10.50
-46,Leal Luke,Male,18-11-2021,Landgraaf,NED,United States Of America,FIS,Slopestyle,64,7.00
-47,Leal Luke,Male,25-03-2021,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Halfpipe,6,22.55
-48,Leal Luke,Male,24-03-2021,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Slopestyle,19,8.20
-49,Leal Luke,Male,19-03-2021,"Winter Park Resort, CO",USA,United States Of America,FIS,Slopestyle,17,8.97
-50,Leal Luke,Male,26-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Big Air,21,1.50
-51,Leal Luke,Male,25-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Halfpipe,19,22.03
-52,Leal Luke,Male,24-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Slopestyle,37,33.28
-53,Leal Luke,Male,29-01-2021,Park City,USA,United States Of America,FIS,Slopestyle,DNS,
-54,Leal Luke,Male,28-01-2021,Park City,USA,United States Of America,FIS,Halfpipe,5,23.60
+0,Leal Luke,Male,26-02-2025,Winsport Calgary,CAN,United States Of America,Nor-Am Cup Premium,Big Air,11,54.10
+1,Leal Luke,Male,25-02-2025,Winsport Calgary,CAN,United States Of America,Nor-Am Cup Premium,Slopestyle,31,40.30
+2,Leal Luke,Male,12-02-2025,Aspen / Highlands,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,30,22.40
+3,Leal Luke,Male,13-01-2025,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,21,19.10
+4,Leal Luke,Male,17-08-2024,The Remarkables,NZL,United States Of America,Australian New Zealand Cup,Slopestyle,32,1.70
+5,Leal Luke,Male,04-04-2024,"Copper Mountain, CO",USA,United States Of America,National Championships,Slopestyle,29,1.80
+6,Leal Luke,Male,30-03-2024,"Copper Mountain, CO",USA,United States Of America,National Championships,Rail Event,17,
+7,Leal Luke,Male,17-03-2024,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,26,4.50
+8,Leal Luke,Male,08-02-2024,Mammoth Mountain,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,37,31.40
+9,Leal Luke,Male,26-01-2024,Copper Mountain,USA,United States Of America,Nor-Am Cup,Slopestyle,11,53.30
+10,Leal Luke,Male,18-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Big Air,10,45.00
+11,Leal Luke,Male,17-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,28,23.80
+12,Leal Luke,Male,06-04-2023,Copper Mountain Resort,USA,United States Of America,National Championships,Slopestyle,28,8.90
+13,Leal Luke,Male,15-03-2023,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,21,3.10
+14,Leal Luke,Male,14-03-2023,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,15,31.50
+15,Leal Luke,Male,10-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Big Air,25,3.70
+16,Leal Luke,Male,09-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,30,9.60
+17,Leal Luke,Male,08-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,23,21.20
+18,Leal Luke,Male,16-02-2023,Winsport Calgary,CAN,United States Of America,Nor-Am Cup,Big Air,10,33.70
+19,Leal Luke,Male,15-02-2023,Winsport Calgary,CAN,United States Of America,Nor-Am Cup,Slopestyle,39,8.60
+20,Leal Luke,Male,10-02-2023,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,21,28.70
+21,Leal Luke,Male,26-01-2023,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,29,24.80
+22,Leal Luke,Male,18-01-2023,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,28,13.80
+23,Leal Luke,Male,17-01-2023,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,32,9.40
+24,Leal Luke,Male,07-04-2022,Copper Mountain Resort,USA,United States Of America,National Championships,Slopestyle,23,6.40
+25,Leal Luke,Male,06-04-2022,Copper Mountain Resort,USA,United States Of America,National Championships,Halfpipe,6,25.50
+26,Leal Luke,Male,24-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,21,3.10
+27,Leal Luke,Male,23-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Halfpipe,4,29.40
+28,Leal Luke,Male,22-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,14,29.40
+29,Leal Luke,Male,20-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Big Air,14,3.20
+30,Leal Luke,Male,19-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Slopestyle,17,16.40
+31,Leal Luke,Male,18-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Slopestyle,26,6.50
+32,Leal Luke,Male,11-03-2022,Northstar California Resorts,USA,United States Of America,FIS,Halfpipe,3,32.20
+33,Leal Luke,Male,09-03-2022,Northstar California Resorts,USA,United States Of America,FIS,Slopestyle,2,41.30
+34,Leal Luke,Male,28-02-2022,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,13,40.60
+35,Leal Luke,Male,27-02-2022,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,14,45.80
+36,Leal Luke,Male,24-02-2022,Copper Mountain Resort,USA,United States Of America,FIS,Slopestyle,13,25.30
+37,Leal Luke,Male,15-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Big Air,23,0.10
+38,Leal Luke,Male,14-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Halfpipe,14,9.20
+39,Leal Luke,Male,13-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Slopestyle,24,23.20
+40,Leal Luke,Male,04-02-2022,"Park City, UT",USA,United States Of America,FIS,Slopestyle,26,2.20
+41,Leal Luke,Male,03-02-2022,"Park City, UT",USA,United States Of America,FIS,Halfpipe,3,5.70
+42,Leal Luke,Male,28-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Halfpipe,18,8.00
+43,Leal Luke,Male,26-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,46,0.10
+44,Leal Luke,Male,25-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,35,17.90
+45,Leal Luke,Male,21-01-2022,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,25,8.50
+46,Leal Luke,Male,20-01-2022,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,24,9.40
+47,Leal Luke,Male,19-11-2021,Landgraaf,NED,United States Of America,European Cup,Slopestyle,44,10.50
+48,Leal Luke,Male,18-11-2021,Landgraaf,NED,United States Of America,FIS,Slopestyle,64,7.00
+49,Leal Luke,Male,25-03-2021,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Halfpipe,6,22.55
+50,Leal Luke,Male,24-03-2021,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Slopestyle,19,8.20
+51,Leal Luke,Male,19-03-2021,"Winter Park Resort, CO",USA,United States Of America,FIS,Slopestyle,17,8.97
+52,Leal Luke,Male,26-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Big Air,21,1.50
+53,Leal Luke,Male,25-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Halfpipe,19,22.03
+54,Leal Luke,Male,24-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Slopestyle,37,33.28
+55,Leal Luke,Male,29-01-2021,Park City,USA,United States Of America,FIS,Slopestyle,DNS,
+56,Leal Luke,Male,28-01-2021,Park City,USA,United States Of America,FIS,Halfpipe,5,23.60
