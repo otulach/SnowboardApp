@@ -1,84 +1,86 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Meisser Nicola,Male,23-02-2025,Lenzerheide,SUI,Switzerland,National Championships,Giant Slalom,4,80.00
-1,Meisser Nicola,Male,22-02-2025,Lenzerheide,SUI,Switzerland,National Championships,Parallel Slalom,5,130.50
-2,Meisser Nicola,Male,16-02-2025,Funes/Villnoess,ITA,Switzerland,Junior Regional Cup,Parallel Giant Slalom,14,25.20
-3,Meisser Nicola,Male,15-02-2025,Funes/Villnoess,ITA,Switzerland,Junior Regional Cup,Parallel Giant Slalom,17,25.20
-4,Meisser Nicola,Male,19-01-2025,Samnaun,SUI,Switzerland,Junior Regional Cup,Parallel Slalom,5,31.50
-5,Meisser Nicola,Male,18-01-2025,Samnaun,SUI,Switzerland,Junior Regional Cup,Parallel Slalom,6,28.00
-6,Meisser Nicola,Male,12-01-2025,Nova Levante - Welschnofen,ITA,Switzerland,FIS,Parallel Giant Slalom,14,27.00
-7,Meisser Nicola,Male,06-01-2025,Simonhoehe,AUT,Switzerland,Junior Regional Cup,Parallel Giant Slalom,16,27.00
-8,Meisser Nicola,Male,05-01-2025,Simonhoehe,AUT,Switzerland,Junior Regional Cup,Parallel Giant Slalom,11,43.20
-9,Meisser Nicola,Male,22-12-2024,Moninec,CZE,Switzerland,FIS,Parallel Slalom,14,28.80
-10,Meisser Nicola,Male,21-12-2024,Moninec,CZE,Switzerland,FIS,Parallel Slalom,28,6.40
-11,Meisser Nicola,Male,07-04-2024,Samnaun,SUI,Switzerland,National Championships,Giant Slalom,15,46.40
-12,Meisser Nicola,Male,06-04-2024,Samnaun,SUI,Switzerland,National Championships,Parallel Slalom,11,69.60
-13,Meisser Nicola,Male,23-03-2024,Lachtal,AUT,Switzerland,FIS Junior World Championships,Parallel Slalom,38,4.58
-14,Meisser Nicola,Male,23-03-2024,Lachtal,AUT,Switzerland,Qualification,Parallel Slalom,38,
-15,Meisser Nicola,Male,22-03-2024,Lachtal,AUT,Switzerland,FIS Junior World Championships,Parallel Giant Slalom,41,4.30
-16,Meisser Nicola,Male,22-03-2024,Lachtal,AUT,Switzerland,Qualification,Parallel Giant Slalom,41,
-17,Meisser Nicola,Male,17-03-2024,St. Moritz,SUI,Switzerland,European Cup,Parallel Slalom,47,
-18,Meisser Nicola,Male,16-03-2024,St. Moritz,SUI,Switzerland,European Cup,Parallel Giant Slalom,DSQ,
-19,Meisser Nicola,Male,13-03-2024,Davos/Rinerhorn ,SUI,Switzerland,European Cup,Parallel Giant Slalom,DSQ,
-20,Meisser Nicola,Male,12-03-2024,Davos/Rinerhorn ,SUI,Switzerland,European Cup,Parallel Giant Slalom,47,
-21,Meisser Nicola,Male,10-03-2024,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,21,18.00
-22,Meisser Nicola,Male,09-03-2024,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,20,19.80
-23,Meisser Nicola,Male,24-02-2024,Alleghe,ITA,Switzerland,Junior,Parallel Giant Slalom,19,18.00
-24,Meisser Nicola,Male,10-02-2024,Hochficht/Zwiesel,AUT,Switzerland,National Championships,Parallel Slalom,12,63.80
-25,Meisser Nicola,Male,09-02-2024,Hochficht/Zwiesel,AUT,Switzerland,National Championships,Parallel Giant Slalom,20,31.90
-26,Meisser Nicola,Male,04-02-2024,Haus im Ennstal,AUT,Switzerland,Junior,Parallel Giant Slalom,19,16.80
-27,Meisser Nicola,Male,03-02-2024,Haus im Ennstal,AUT,Switzerland,Junior,Parallel Giant Slalom,27,6.30
-28,Meisser Nicola,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Switzerland,FIS,Parallel Giant Slalom,26,8.00
-29,Meisser Nicola,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Switzerland,FIS,Parallel Giant Slalom,24,9.10
-30,Meisser Nicola,Male,14-01-2024,Gosau,AUT,Switzerland,FIS,Parallel Slalom,19,
-31,Meisser Nicola,Male,13-01-2024,Gosau,AUT,Switzerland,FIS,Parallel Slalom,13,20.00
-32,Meisser Nicola,Male,11-01-2024,Folgaria,ITA,Switzerland,European Cup,Parallel Slalom,DNS,
-33,Meisser Nicola,Male,11-01-2024,Folgaria,ITA,Switzerland,Qualification,Parallel Slalom,DNS1,
-34,Meisser Nicola,Male,22-12-2023,Moninec,CZE,Switzerland,Junior,Parallel Slalom,14,12.60
-35,Meisser Nicola,Male,21-12-2023,Moninec,CZE,Switzerland,Junior,Parallel Slalom,19,12.00
-36,Meisser Nicola,Male,20-12-2023,Moninec,CZE,Switzerland,European Cup,Parallel Slalom,DNF,
-37,Meisser Nicola,Male,19-12-2023,Moninec,CZE,Switzerland,European Cup,Parallel Slalom,DNF,
-38,Meisser Nicola,Male,10-12-2023,Götschen,GER,Switzerland,Junior,Parallel Slalom,21,13.00
-39,Meisser Nicola,Male,09-12-2023,Götschen,GER,Switzerland,Qualification,Parallel Slalom,53,
-40,Meisser Nicola,Male,09-12-2023,Götschen,GER,Switzerland,European Cup,Parallel Slalom,53,5.26
-41,Meisser Nicola,Male,08-12-2023,Götschen,GER,Switzerland,Qualification,Parallel Slalom,59,
-42,Meisser Nicola,Male,08-12-2023,Götschen,GER,Switzerland,European Cup,Parallel Slalom,59,4.61
-43,Meisser Nicola,Male,26-03-2023,Bansko,BUL,Switzerland,FIS Junior World Championships,Parallel Team,2,
-44,Meisser Nicola,Male,25-03-2023,Bansko,BUL,Switzerland,Qualification,Parallel Slalom,DNF,
-45,Meisser Nicola,Male,25-03-2023,Bansko,BUL,Switzerland,FIS Junior World Championships,Parallel Slalom,DNF,
-46,Meisser Nicola,Male,24-03-2023,Bansko,BUL,Switzerland,Qualification,Parallel Giant Slalom,35,
-47,Meisser Nicola,Male,24-03-2023,Bansko,BUL,Switzerland,FIS Junior World Championships,Parallel Giant Slalom,35,4.80
-48,Meisser Nicola,Male,19-03-2023,Ratschings,ITA,Switzerland,European Cup,Parallel Slalom,49,3.79
-49,Meisser Nicola,Male,18-03-2023,Ratschings,ITA,Switzerland,European Cup,Parallel Slalom,47,2.95
-50,Meisser Nicola,Male,12-03-2023,Davos,SUI,Switzerland,European Cup,Parallel Slalom,28,8.80
-51,Meisser Nicola,Male,11-03-2023,Davos,SUI,Switzerland,European Cup,Parallel Slalom,26,18.00
-52,Meisser Nicola,Male,05-03-2023,Val Senales,ITA,Switzerland,FIS,Parallel Slalom,19,19.20
-53,Meisser Nicola,Male,04-03-2023,Val Senales,ITA,Switzerland,FIS,Parallel Slalom,23,17.60
-54,Meisser Nicola,Male,12-02-2023,Funes - Vilnoess,ITA,Switzerland,FIS,Parallel Giant Slalom,41,4.00
-55,Meisser Nicola,Male,11-02-2023,Funes - Vilnoess,ITA,Switzerland,FIS,Parallel Giant Slalom,44,3.81
-56,Meisser Nicola,Male,05-02-2023,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,25,21.60
-57,Meisser Nicola,Male,29-01-2023,Simonhöhe,AUT,Switzerland,Qualification,Parallel Giant Slalom,45,
-58,Meisser Nicola,Male,29-01-2023,Simonhöhe,AUT,Switzerland,European Cup,Parallel Giant Slalom,45,
-59,Meisser Nicola,Male,28-01-2023,Simonhöhe,AUT,Switzerland,European Cup,Parallel Giant Slalom,DSQ,
-60,Meisser Nicola,Male,28-01-2023,Simonhöhe,AUT,Switzerland,Qualification,Parallel Giant Slalom,DSQ,
-61,Meisser Nicola,Male,23-01-2023,Piancavallo,ITA,Switzerland,European Youth Olympic Festival,Parallel Giant Slalom,15,19.20
-62,Meisser Nicola,Male,08-01-2023,Haus im Ennstal,AUT,Switzerland,Junior,Giant Slalom,23,9.60
-63,Meisser Nicola,Male,07-01-2023,Haus im Ennstal,AUT,Switzerland,Junior,Parallel Giant Slalom,31,
-64,Meisser Nicola,Male,18-12-2022,Hochfügen,GER,Switzerland,Qualification,Parallel Giant Slalom,56,
-65,Meisser Nicola,Male,18-12-2022,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,56,3.56
-66,Meisser Nicola,Male,17-12-2022,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,42,3.22
-67,Meisser Nicola,Male,01-04-2022,Chiesa in Valmalenco,ITA,Switzerland,FIS Junior World Championships,Parallel Slalom,37,4.66
-68,Meisser Nicola,Male,31-03-2022,Chiesa in Valmalenco,ITA,Switzerland,FIS Junior World Championships,Parallel Giant Slalom,45,
-69,Meisser Nicola,Male,20-03-2022,Senales - Schnals,ITA,Switzerland,Junior,Parallel Slalom,15,16.00
-70,Meisser Nicola,Male,19-03-2022,Senales - Schnals,ITA,Switzerland,Junior,Parallel Slalom,19,12.00
-71,Meisser Nicola,Male,13-03-2022,Pizol,SUI,Switzerland,Junior,Parallel Slalom,12,15.40
-72,Meisser Nicola,Male,12-03-2022,Pizol,SUI,Switzerland,Junior,Parallel Slalom,11,16.80
-73,Meisser Nicola,Male,27-02-2022,Simonhöhe,AUT,Switzerland,FIS,Parallel Giant Slalom,29,7.92
-74,Meisser Nicola,Male,26-02-2022,Simonhöhe,AUT,Switzerland,FIS,Parallel Giant Slalom,23,17.60
-75,Meisser Nicola,Male,19-02-2022,Funes - Vilnoess,ITA,Switzerland,FIS,Parallel Giant Slalom,DNS,
-76,Meisser Nicola,Male,06-02-2022,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,26,18.00
-77,Meisser Nicola,Male,05-02-2022,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,25,21.60
-78,Meisser Nicola,Male,30-01-2022,Davos,SUI,Switzerland,European Cup,Parallel Slalom,28,14.40
-79,Meisser Nicola,Male,29-01-2022,Davos,SUI,Switzerland,European Cup,Parallel Slalom,25,21.60
-80,Meisser Nicola,Male,15-01-2022,Goetschen,GER,Switzerland,Junior,Parallel Slalom,18,9.10
-81,Meisser Nicola,Male,21-12-2021,Moninec,CZE,Switzerland,Junior,Parallel Slalom,12,11.00
-82,Meisser Nicola,Male,20-12-2021,Moninec,CZE,Switzerland,Junior,Parallel Slalom,17,9.80
+0,Meisser Nicola,Male,04-03-2025,Zakopane/Suche,POL,Switzerland,FIS Junior World Championships,Parallel Giant Slalom,31,
+1,Meisser Nicola,Male,04-03-2025,Zakopane/Suche,POL,Switzerland,Qualification,Parallel Giant Slalom,31,
+2,Meisser Nicola,Male,23-02-2025,Lenzerheide,SUI,Switzerland,National Championships,Giant Slalom,4,80.00
+3,Meisser Nicola,Male,22-02-2025,Lenzerheide,SUI,Switzerland,National Championships,Parallel Slalom,5,130.50
+4,Meisser Nicola,Male,16-02-2025,Funes/Villnoess,ITA,Switzerland,Junior Regional Cup,Parallel Giant Slalom,14,25.20
+5,Meisser Nicola,Male,15-02-2025,Funes/Villnoess,ITA,Switzerland,Junior Regional Cup,Parallel Giant Slalom,17,25.20
+6,Meisser Nicola,Male,19-01-2025,Samnaun,SUI,Switzerland,Junior Regional Cup,Parallel Slalom,5,31.50
+7,Meisser Nicola,Male,18-01-2025,Samnaun,SUI,Switzerland,Junior Regional Cup,Parallel Slalom,6,28.00
+8,Meisser Nicola,Male,12-01-2025,Nova Levante - Welschnofen,ITA,Switzerland,FIS,Parallel Giant Slalom,14,27.00
+9,Meisser Nicola,Male,06-01-2025,Simonhoehe,AUT,Switzerland,Junior Regional Cup,Parallel Giant Slalom,16,27.00
+10,Meisser Nicola,Male,05-01-2025,Simonhoehe,AUT,Switzerland,Junior Regional Cup,Parallel Giant Slalom,11,43.20
+11,Meisser Nicola,Male,22-12-2024,Moninec,CZE,Switzerland,FIS,Parallel Slalom,14,28.80
+12,Meisser Nicola,Male,21-12-2024,Moninec,CZE,Switzerland,FIS,Parallel Slalom,28,6.40
+13,Meisser Nicola,Male,07-04-2024,Samnaun,SUI,Switzerland,National Championships,Giant Slalom,15,46.40
+14,Meisser Nicola,Male,06-04-2024,Samnaun,SUI,Switzerland,National Championships,Parallel Slalom,11,69.60
+15,Meisser Nicola,Male,23-03-2024,Lachtal,AUT,Switzerland,Qualification,Parallel Slalom,38,
+16,Meisser Nicola,Male,23-03-2024,Lachtal,AUT,Switzerland,FIS Junior World Championships,Parallel Slalom,38,4.58
+17,Meisser Nicola,Male,22-03-2024,Lachtal,AUT,Switzerland,Qualification,Parallel Giant Slalom,41,
+18,Meisser Nicola,Male,22-03-2024,Lachtal,AUT,Switzerland,FIS Junior World Championships,Parallel Giant Slalom,41,4.30
+19,Meisser Nicola,Male,17-03-2024,St. Moritz,SUI,Switzerland,European Cup,Parallel Slalom,47,
+20,Meisser Nicola,Male,16-03-2024,St. Moritz,SUI,Switzerland,European Cup,Parallel Giant Slalom,DSQ,
+21,Meisser Nicola,Male,13-03-2024,Davos/Rinerhorn ,SUI,Switzerland,European Cup,Parallel Giant Slalom,DSQ,
+22,Meisser Nicola,Male,12-03-2024,Davos/Rinerhorn ,SUI,Switzerland,European Cup,Parallel Giant Slalom,47,
+23,Meisser Nicola,Male,10-03-2024,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,21,18.00
+24,Meisser Nicola,Male,09-03-2024,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,20,19.80
+25,Meisser Nicola,Male,24-02-2024,Alleghe,ITA,Switzerland,Junior,Parallel Giant Slalom,19,18.00
+26,Meisser Nicola,Male,10-02-2024,Hochficht/Zwiesel,AUT,Switzerland,National Championships,Parallel Slalom,12,63.80
+27,Meisser Nicola,Male,09-02-2024,Hochficht/Zwiesel,AUT,Switzerland,National Championships,Parallel Giant Slalom,20,31.90
+28,Meisser Nicola,Male,04-02-2024,Haus im Ennstal,AUT,Switzerland,Junior,Parallel Giant Slalom,19,16.80
+29,Meisser Nicola,Male,03-02-2024,Haus im Ennstal,AUT,Switzerland,Junior,Parallel Giant Slalom,27,6.30
+30,Meisser Nicola,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Switzerland,FIS,Parallel Giant Slalom,26,8.00
+31,Meisser Nicola,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Switzerland,FIS,Parallel Giant Slalom,24,9.10
+32,Meisser Nicola,Male,14-01-2024,Gosau,AUT,Switzerland,FIS,Parallel Slalom,19,
+33,Meisser Nicola,Male,13-01-2024,Gosau,AUT,Switzerland,FIS,Parallel Slalom,13,20.00
+34,Meisser Nicola,Male,11-01-2024,Folgaria,ITA,Switzerland,European Cup,Parallel Slalom,DNS,
+35,Meisser Nicola,Male,11-01-2024,Folgaria,ITA,Switzerland,Qualification,Parallel Slalom,DNS1,
+36,Meisser Nicola,Male,22-12-2023,Moninec,CZE,Switzerland,Junior,Parallel Slalom,14,12.60
+37,Meisser Nicola,Male,21-12-2023,Moninec,CZE,Switzerland,Junior,Parallel Slalom,19,12.00
+38,Meisser Nicola,Male,20-12-2023,Moninec,CZE,Switzerland,European Cup,Parallel Slalom,DNF,
+39,Meisser Nicola,Male,19-12-2023,Moninec,CZE,Switzerland,European Cup,Parallel Slalom,DNF,
+40,Meisser Nicola,Male,10-12-2023,Götschen,GER,Switzerland,Junior,Parallel Slalom,21,13.00
+41,Meisser Nicola,Male,09-12-2023,Götschen,GER,Switzerland,Qualification,Parallel Slalom,53,
+42,Meisser Nicola,Male,09-12-2023,Götschen,GER,Switzerland,European Cup,Parallel Slalom,53,5.26
+43,Meisser Nicola,Male,08-12-2023,Götschen,GER,Switzerland,Qualification,Parallel Slalom,59,
+44,Meisser Nicola,Male,08-12-2023,Götschen,GER,Switzerland,European Cup,Parallel Slalom,59,4.61
+45,Meisser Nicola,Male,26-03-2023,Bansko,BUL,Switzerland,FIS Junior World Championships,Parallel Team,2,
+46,Meisser Nicola,Male,25-03-2023,Bansko,BUL,Switzerland,Qualification,Parallel Slalom,DNF,
+47,Meisser Nicola,Male,25-03-2023,Bansko,BUL,Switzerland,FIS Junior World Championships,Parallel Slalom,DNF,
+48,Meisser Nicola,Male,24-03-2023,Bansko,BUL,Switzerland,Qualification,Parallel Giant Slalom,35,
+49,Meisser Nicola,Male,24-03-2023,Bansko,BUL,Switzerland,FIS Junior World Championships,Parallel Giant Slalom,35,4.80
+50,Meisser Nicola,Male,19-03-2023,Ratschings,ITA,Switzerland,European Cup,Parallel Slalom,49,3.79
+51,Meisser Nicola,Male,18-03-2023,Ratschings,ITA,Switzerland,European Cup,Parallel Slalom,47,2.95
+52,Meisser Nicola,Male,12-03-2023,Davos,SUI,Switzerland,European Cup,Parallel Slalom,28,8.80
+53,Meisser Nicola,Male,11-03-2023,Davos,SUI,Switzerland,European Cup,Parallel Slalom,26,18.00
+54,Meisser Nicola,Male,05-03-2023,Val Senales,ITA,Switzerland,FIS,Parallel Slalom,19,19.20
+55,Meisser Nicola,Male,04-03-2023,Val Senales,ITA,Switzerland,FIS,Parallel Slalom,23,17.60
+56,Meisser Nicola,Male,12-02-2023,Funes - Vilnoess,ITA,Switzerland,FIS,Parallel Giant Slalom,41,4.00
+57,Meisser Nicola,Male,11-02-2023,Funes - Vilnoess,ITA,Switzerland,FIS,Parallel Giant Slalom,44,3.81
+58,Meisser Nicola,Male,05-02-2023,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,25,21.60
+59,Meisser Nicola,Male,29-01-2023,Simonhöhe,AUT,Switzerland,Qualification,Parallel Giant Slalom,45,
+60,Meisser Nicola,Male,29-01-2023,Simonhöhe,AUT,Switzerland,European Cup,Parallel Giant Slalom,45,
+61,Meisser Nicola,Male,28-01-2023,Simonhöhe,AUT,Switzerland,European Cup,Parallel Giant Slalom,DSQ,
+62,Meisser Nicola,Male,28-01-2023,Simonhöhe,AUT,Switzerland,Qualification,Parallel Giant Slalom,DSQ,
+63,Meisser Nicola,Male,23-01-2023,Piancavallo,ITA,Switzerland,European Youth Olympic Festival,Parallel Giant Slalom,15,19.20
+64,Meisser Nicola,Male,08-01-2023,Haus im Ennstal,AUT,Switzerland,Junior,Giant Slalom,23,9.60
+65,Meisser Nicola,Male,07-01-2023,Haus im Ennstal,AUT,Switzerland,Junior,Parallel Giant Slalom,31,
+66,Meisser Nicola,Male,18-12-2022,Hochfügen,GER,Switzerland,Qualification,Parallel Giant Slalom,56,
+67,Meisser Nicola,Male,18-12-2022,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,56,3.56
+68,Meisser Nicola,Male,17-12-2022,Hochfügen,GER,Switzerland,European Cup,Parallel Giant Slalom,42,3.22
+69,Meisser Nicola,Male,01-04-2022,Chiesa in Valmalenco,ITA,Switzerland,FIS Junior World Championships,Parallel Slalom,37,4.66
+70,Meisser Nicola,Male,31-03-2022,Chiesa in Valmalenco,ITA,Switzerland,FIS Junior World Championships,Parallel Giant Slalom,45,
+71,Meisser Nicola,Male,20-03-2022,Senales - Schnals,ITA,Switzerland,Junior,Parallel Slalom,15,16.00
+72,Meisser Nicola,Male,19-03-2022,Senales - Schnals,ITA,Switzerland,Junior,Parallel Slalom,19,12.00
+73,Meisser Nicola,Male,13-03-2022,Pizol,SUI,Switzerland,Junior,Parallel Slalom,12,15.40
+74,Meisser Nicola,Male,12-03-2022,Pizol,SUI,Switzerland,Junior,Parallel Slalom,11,16.80
+75,Meisser Nicola,Male,27-02-2022,Simonhöhe,AUT,Switzerland,FIS,Parallel Giant Slalom,29,7.92
+76,Meisser Nicola,Male,26-02-2022,Simonhöhe,AUT,Switzerland,FIS,Parallel Giant Slalom,23,17.60
+77,Meisser Nicola,Male,19-02-2022,Funes - Vilnoess,ITA,Switzerland,FIS,Parallel Giant Slalom,DNS,
+78,Meisser Nicola,Male,06-02-2022,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,26,18.00
+79,Meisser Nicola,Male,05-02-2022,Lenzerheide,SUI,Switzerland,European Cup,Parallel Slalom,25,21.60
+80,Meisser Nicola,Male,30-01-2022,Davos,SUI,Switzerland,European Cup,Parallel Slalom,28,14.40
+81,Meisser Nicola,Male,29-01-2022,Davos,SUI,Switzerland,European Cup,Parallel Slalom,25,21.60
+82,Meisser Nicola,Male,15-01-2022,Goetschen,GER,Switzerland,Junior,Parallel Slalom,18,9.10
+83,Meisser Nicola,Male,21-12-2021,Moninec,CZE,Switzerland,Junior,Parallel Slalom,12,11.00
+84,Meisser Nicola,Male,20-12-2021,Moninec,CZE,Switzerland,Junior,Parallel Slalom,17,9.80

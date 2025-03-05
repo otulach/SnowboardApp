@@ -1,32 +1,33 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Fox Nick,Male,12-02-2025,Aspen / Highlands,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,24,31.70
-1,Fox Nick,Male,13-01-2025,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,10,40.80
-2,Fox Nick,Male,14-04-2024,Corvatsch,SUI,United States Of America,European Cup Premium,Big Air,26,87.70
-3,Fox Nick,Male,12-04-2024,Corvatsch,SUI,United States Of America,European Cup Premium,Slopestyle,29,91.40
-4,Fox Nick,Male,17-03-2024,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,8,50.90
-5,Fox Nick,Male,08-02-2024,Mammoth Mountain,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,18,86.20
-6,Fox Nick,Male,26-01-2024,Copper Mountain,USA,United States Of America,Nor-Am Cup,Slopestyle,13,44.90
-7,Fox Nick,Male,21-04-2023,Kitzsteinhorn,AUT,United States Of America,European Cup,Slopestyle,15,51.00
-8,Fox Nick,Male,17-04-2023,Corvatsch,SUI,United States Of America,European Cup Premium,Big Air,12,100.90
-9,Fox Nick,Male,14-04-2023,Corvatsch,SUI,United States Of America,European Cup Premium,Slopestyle,41,51.00
-10,Fox Nick,Male,06-04-2023,Copper Mountain Resort,USA,United States Of America,National Championships,Slopestyle,11,29.50
-11,Fox Nick,Male,10-02-2023,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,24,24.00
-12,Fox Nick,Male,04-02-2023,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,49,0.20
-13,Fox Nick,Male,01-02-2023,Mammoth Mountain,USA,United States Of America,Qualification,Slopestyle,24,
-14,Fox Nick,Male,26-01-2023,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,21,37.50
-15,Fox Nick,Male,07-04-2022,Copper Mountain Resort,USA,United States Of America,National Championships,Slopestyle,9,36.10
-16,Fox Nick,Male,22-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,29,0.10
-17,Fox Nick,Male,19-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Slopestyle,14,21.80
-18,Fox Nick,Male,18-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Slopestyle,29,3.30
-19,Fox Nick,Male,15-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Big Air,13,18.00
-20,Fox Nick,Male,13-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Slopestyle,38,2.90
-21,Fox Nick,Male,04-02-2022,Calgary,CAN,United States Of America,Nor-Am Cup,Big Air,33,1.00
-22,Fox Nick,Male,26-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,7,111.40
-23,Fox Nick,Male,25-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,10,81.00
-24,Fox Nick,Male,19-03-2021,"Winter Park Resort, CO",USA,United States Of America,FIS,Slopestyle,21,6.73
-25,Fox Nick,Male,04-03-2021,Copper Mountain,USA,United States Of America,National Championships,Slopestyle,29,25.52
-26,Fox Nick,Male,24-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Slopestyle,9,155.35
-27,Fox Nick,Male,25-02-2020,Mount St-Louis Moonstone,CAN,United States Of America,Nor-Am Cup,Slopestyle,21,20.00
-28,Fox Nick,Male,24-02-2020,Mount St-Louis Moonstone,CAN,United States Of America,Nor-Am Cup,Slopestyle,33,4.80
-29,Fox Nick,Male,24-01-2020,Loon Mountain Ski Resort,USA,United States Of America,FIS,Slopestyle,5,22.50
-30,Fox Nick,Male,21-01-2020,Mount Snow,USA,United States Of America,FIS,Slopestyle,7,18.00
+0,Fox Nick,Male,04-03-2025,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,12,
+1,Fox Nick,Male,12-02-2025,Aspen / Highlands,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,24,31.70
+2,Fox Nick,Male,13-01-2025,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,10,40.80
+3,Fox Nick,Male,14-04-2024,Corvatsch,SUI,United States Of America,European Cup Premium,Big Air,26,87.70
+4,Fox Nick,Male,12-04-2024,Corvatsch,SUI,United States Of America,European Cup Premium,Slopestyle,29,91.40
+5,Fox Nick,Male,17-03-2024,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,8,50.90
+6,Fox Nick,Male,08-02-2024,Mammoth Mountain,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,18,86.20
+7,Fox Nick,Male,26-01-2024,Copper Mountain,USA,United States Of America,Nor-Am Cup,Slopestyle,13,44.90
+8,Fox Nick,Male,21-04-2023,Kitzsteinhorn,AUT,United States Of America,European Cup,Slopestyle,15,51.00
+9,Fox Nick,Male,17-04-2023,Corvatsch,SUI,United States Of America,European Cup Premium,Big Air,12,100.90
+10,Fox Nick,Male,14-04-2023,Corvatsch,SUI,United States Of America,European Cup Premium,Slopestyle,41,51.00
+11,Fox Nick,Male,06-04-2023,Copper Mountain Resort,USA,United States Of America,National Championships,Slopestyle,11,29.50
+12,Fox Nick,Male,10-02-2023,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,24,24.00
+13,Fox Nick,Male,04-02-2023,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,49,0.20
+14,Fox Nick,Male,01-02-2023,Mammoth Mountain,USA,United States Of America,Qualification,Slopestyle,24,
+15,Fox Nick,Male,26-01-2023,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,21,37.50
+16,Fox Nick,Male,07-04-2022,Copper Mountain Resort,USA,United States Of America,National Championships,Slopestyle,9,36.10
+17,Fox Nick,Male,22-03-2022,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,29,0.10
+18,Fox Nick,Male,19-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Slopestyle,14,21.80
+19,Fox Nick,Male,18-03-2022,Beaver Valley,CAN,United States Of America,Nor-Am Cup,Slopestyle,29,3.30
+20,Fox Nick,Male,15-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Big Air,13,18.00
+21,Fox Nick,Male,13-02-2022,Aspen / Buttermilk,USA,United States Of America,Nor-Am Cup,Slopestyle,38,2.90
+22,Fox Nick,Male,04-02-2022,Calgary,CAN,United States Of America,Nor-Am Cup,Big Air,33,1.00
+23,Fox Nick,Male,26-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,7,111.40
+24,Fox Nick,Male,25-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,10,81.00
+25,Fox Nick,Male,19-03-2021,"Winter Park Resort, CO",USA,United States Of America,FIS,Slopestyle,21,6.73
+26,Fox Nick,Male,04-03-2021,Copper Mountain,USA,United States Of America,National Championships,Slopestyle,29,25.52
+27,Fox Nick,Male,24-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Slopestyle,9,155.35
+28,Fox Nick,Male,25-02-2020,Mount St-Louis Moonstone,CAN,United States Of America,Nor-Am Cup,Slopestyle,21,20.00
+29,Fox Nick,Male,24-02-2020,Mount St-Louis Moonstone,CAN,United States Of America,Nor-Am Cup,Slopestyle,33,4.80
+30,Fox Nick,Male,24-01-2020,Loon Mountain Ski Resort,USA,United States Of America,FIS,Slopestyle,5,22.50
+31,Fox Nick,Male,21-01-2020,Mount Snow,USA,United States Of America,FIS,Slopestyle,7,18.00

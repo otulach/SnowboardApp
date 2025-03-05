@@ -1,80 +1,81 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Yogo Ryusho,Male,28-02-2025,Akan,JPN,Japan,Asian Cup,Parallel Giant Slalom,32,
-1,Yogo Ryusho,Male,27-02-2025,Akan,JPN,Japan,Asian Cup,Parallel Slalom,2,128.00
-2,Yogo Ryusho,Male,09-02-2025,Simonhoehe,AUT,Japan,National Championships,Parallel Slalom,21,29.00
-3,Yogo Ryusho,Male,08-02-2025,Simonhoehe,AUT,Japan,National Championships,Parallel Giant Slalom,17,40.60
-4,Yogo Ryusho,Male,02-02-2025,Ratschings,ITA,Japan,European Cup,Parallel Slalom,22,23.40
+0,Yogo Ryusho,Male,04-03-2025,High1resort,KOR,Japan,Asian Cup,Parallel Giant Slalom,4,
+1,Yogo Ryusho,Male,28-02-2025,Akan,JPN,Japan,Asian Cup,Parallel Giant Slalom,32,4.16
+2,Yogo Ryusho,Male,27-02-2025,Akan,JPN,Japan,Asian Cup,Parallel Slalom,2,128.00
+3,Yogo Ryusho,Male,09-02-2025,Simonhoehe,AUT,Japan,National Championships,Parallel Slalom,21,29.00
+4,Yogo Ryusho,Male,08-02-2025,Simonhoehe,AUT,Japan,National Championships,Parallel Giant Slalom,17,40.60
 5,Yogo Ryusho,Male,02-02-2025,Ratschings,ITA,Japan,Qualification,Parallel Slalom,22,
-6,Yogo Ryusho,Male,01-02-2025,Ratschings,ITA,Japan,European Cup,Parallel Slalom,18,37.70
+6,Yogo Ryusho,Male,02-02-2025,Ratschings,ITA,Japan,European Cup,Parallel Slalom,22,23.40
 7,Yogo Ryusho,Male,01-02-2025,Ratschings,ITA,Japan,Qualification,Parallel Slalom,18,
-8,Yogo Ryusho,Male,26-01-2025,Simonhöhe,AUT,Japan,European Cup,Parallel Giant Slalom,44,5.54
-9,Yogo Ryusho,Male,25-01-2025,Simonhöhe,AUT,Japan,European Cup,Parallel Giant Slalom,19,21.60
-10,Yogo Ryusho,Male,09-01-2025,O2 Resort,KOR,Japan,Asian Cup,Parallel Slalom,DSQ,
-11,Yogo Ryusho,Male,08-01-2025,O2 Resort,KOR,Japan,Asian Cup,Parallel Giant Slalom,12,35.20
-12,Yogo Ryusho,Male,22-12-2024,Moninec,CZE,Japan,FIS,Parallel Slalom,8,51.20
-13,Yogo Ryusho,Male,21-12-2024,Moninec,CZE,Japan,FIS,Parallel Slalom,15,25.60
-14,Yogo Ryusho,Male,20-12-2024,Moninec,CZE,Japan,European Cup,Parallel Slalom,33,4.32
-15,Yogo Ryusho,Male,19-12-2024,Moninec,CZE,Japan,European Cup,Parallel Slalom,36,3.94
-16,Yogo Ryusho,Male,15-12-2024,Götschen,GER,Japan,European Cup,Parallel Slalom,37,4.66
-17,Yogo Ryusho,Male,14-12-2024,Götschen,GER,Japan,European Cup,Parallel Slalom,31,4.48
-18,Yogo Ryusho,Male,07-04-2024,Samnaun,SUI,Japan,National Championships,Giant Slalom,8,92.80
-19,Yogo Ryusho,Male,06-04-2024,Samnaun,SUI,Japan,National Championships,Parallel Slalom,DSQ,
-20,Yogo Ryusho,Male,02-04-2024,"Copper Mountain, CO",USA,Japan,National Championships,Parallel Slalom,7,93.60
-21,Yogo Ryusho,Male,01-04-2024,"Copper Mountain, CO",USA,Japan,National Championships,Parallel Giant Slalom,13,52.00
-22,Yogo Ryusho,Male,19-03-2024,Wanglong Ski Resrort,CHN,Japan,Asian Cup,Slalom,14,36.00
-23,Yogo Ryusho,Male,18-03-2024,Wanglong Ski Resrort,CHN,Japan,Asian Cup,Parallel Giant Slalom,21,20.00
-24,Yogo Ryusho,Male,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Japan,Asian Cup,Parallel Slalom,17,28.00
-25,Yogo Ryusho,Male,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Japan,Asian Cup,Parallel Giant Slalom,25,12.00
-26,Yogo Ryusho,Male,05-03-2024,High1resort,KOR,Japan,Asian Cup,Parallel Slalom,23,16.00
-27,Yogo Ryusho,Male,04-03-2024,High1resort,KOR,Japan,Asian Cup,Parallel Giant Slalom,22,21.60
-28,Yogo Ryusho,Male,02-03-2024,Akan,JPN,Japan,FIS,Parallel Giant Slalom,10,46.80
-29,Yogo Ryusho,Male,01-03-2024,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,16,27.00
-30,Yogo Ryusho,Male,10-02-2024,"Alpine Ski Club,",CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,21,28.80
-31,Yogo Ryusho,Male,09-02-2024,"Alpine Ski Club,",CAN,Japan,Nor-Am Cup,Parallel Slalom,22,25.60
-32,Yogo Ryusho,Male,07-02-2024,Val Saint Come,CAN,Japan,FIS,Parallel Giant Slalom,6,44.00
-33,Yogo Ryusho,Male,06-02-2024,Val Saint Come,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,23,25.60
-34,Yogo Ryusho,Male,05-02-2024,Val Saint Come,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,20,35.20
-35,Yogo Ryusho,Male,02-02-2024,High1resort,KOR,Japan,FIS,Parallel Slalom,11,52.80
-36,Yogo Ryusho,Male,01-02-2024,High1resort,KOR,Japan,FIS,Parallel Giant Slalom,15,35.20
-37,Yogo Ryusho,Male,09-12-2023,Götschen,GER,Japan,European Cup,Parallel Slalom,57,4.82
+8,Yogo Ryusho,Male,01-02-2025,Ratschings,ITA,Japan,European Cup,Parallel Slalom,18,37.70
+9,Yogo Ryusho,Male,26-01-2025,Simonhöhe,AUT,Japan,European Cup,Parallel Giant Slalom,44,5.54
+10,Yogo Ryusho,Male,25-01-2025,Simonhöhe,AUT,Japan,European Cup,Parallel Giant Slalom,19,21.60
+11,Yogo Ryusho,Male,09-01-2025,O2 Resort,KOR,Japan,Asian Cup,Parallel Slalom,DSQ,
+12,Yogo Ryusho,Male,08-01-2025,O2 Resort,KOR,Japan,Asian Cup,Parallel Giant Slalom,12,35.20
+13,Yogo Ryusho,Male,22-12-2024,Moninec,CZE,Japan,FIS,Parallel Slalom,8,51.20
+14,Yogo Ryusho,Male,21-12-2024,Moninec,CZE,Japan,FIS,Parallel Slalom,15,25.60
+15,Yogo Ryusho,Male,20-12-2024,Moninec,CZE,Japan,European Cup,Parallel Slalom,33,4.32
+16,Yogo Ryusho,Male,19-12-2024,Moninec,CZE,Japan,European Cup,Parallel Slalom,36,3.94
+17,Yogo Ryusho,Male,15-12-2024,Götschen,GER,Japan,European Cup,Parallel Slalom,37,4.66
+18,Yogo Ryusho,Male,14-12-2024,Götschen,GER,Japan,European Cup,Parallel Slalom,31,4.48
+19,Yogo Ryusho,Male,07-04-2024,Samnaun,SUI,Japan,National Championships,Giant Slalom,8,92.80
+20,Yogo Ryusho,Male,06-04-2024,Samnaun,SUI,Japan,National Championships,Parallel Slalom,DSQ,
+21,Yogo Ryusho,Male,02-04-2024,"Copper Mountain, CO",USA,Japan,National Championships,Parallel Slalom,7,93.60
+22,Yogo Ryusho,Male,01-04-2024,"Copper Mountain, CO",USA,Japan,National Championships,Parallel Giant Slalom,13,52.00
+23,Yogo Ryusho,Male,19-03-2024,Wanglong Ski Resrort,CHN,Japan,Asian Cup,Slalom,14,36.00
+24,Yogo Ryusho,Male,18-03-2024,Wanglong Ski Resrort,CHN,Japan,Asian Cup,Parallel Giant Slalom,21,20.00
+25,Yogo Ryusho,Male,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Japan,Asian Cup,Parallel Slalom,17,28.00
+26,Yogo Ryusho,Male,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Japan,Asian Cup,Parallel Giant Slalom,25,12.00
+27,Yogo Ryusho,Male,05-03-2024,High1resort,KOR,Japan,Asian Cup,Parallel Slalom,23,16.00
+28,Yogo Ryusho,Male,04-03-2024,High1resort,KOR,Japan,Asian Cup,Parallel Giant Slalom,22,21.60
+29,Yogo Ryusho,Male,02-03-2024,Akan,JPN,Japan,FIS,Parallel Giant Slalom,10,46.80
+30,Yogo Ryusho,Male,01-03-2024,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,16,27.00
+31,Yogo Ryusho,Male,10-02-2024,"Alpine Ski Club,",CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,21,28.80
+32,Yogo Ryusho,Male,09-02-2024,"Alpine Ski Club,",CAN,Japan,Nor-Am Cup,Parallel Slalom,22,25.60
+33,Yogo Ryusho,Male,07-02-2024,Val Saint Come,CAN,Japan,FIS,Parallel Giant Slalom,6,44.00
+34,Yogo Ryusho,Male,06-02-2024,Val Saint Come,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,23,25.60
+35,Yogo Ryusho,Male,05-02-2024,Val Saint Come,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,20,35.20
+36,Yogo Ryusho,Male,02-02-2024,High1resort,KOR,Japan,FIS,Parallel Slalom,11,52.80
+37,Yogo Ryusho,Male,01-02-2024,High1resort,KOR,Japan,FIS,Parallel Giant Slalom,15,35.20
 38,Yogo Ryusho,Male,09-12-2023,Götschen,GER,Japan,Qualification,Parallel Slalom,57,
-39,Yogo Ryusho,Male,08-12-2023,Götschen,GER,Japan,European Cup,Parallel Slalom,52,5.36
-40,Yogo Ryusho,Male,08-12-2023,Götschen,GER,Japan,Qualification,Parallel Slalom,52,
-41,Yogo Ryusho,Male,02-04-2023,Haus im Ennstal,AUT,Japan,National Championships,Parallel Slalom,11,69.60
-42,Yogo Ryusho,Male,01-04-2023,Haus im Ennstal,AUT,Japan,National Championships,Parallel Giant Slalom,25,17.40
-43,Yogo Ryusho,Male,30-03-2023,Cortina dAmpezzo,ITA,Japan,National Championships,Parallel Slalom,24,20.30
-44,Yogo Ryusho,Male,26-03-2023,Villach - Gerlitzen,AUT,Japan,FIS,Parallel Slalom,6,88.00
-45,Yogo Ryusho,Male,25-03-2023,Villach - Gerlitzen,AUT,Japan,FIS,Parallel Slalom,8,70.40
-46,Yogo Ryusho,Male,19-03-2023,Ratschings,ITA,Japan,European Cup,Parallel Slalom,41,4.37
-47,Yogo Ryusho,Male,18-03-2023,Ratschings,ITA,Japan,European Cup,Parallel Slalom,38,3.44
-48,Yogo Ryusho,Male,12-03-2023,Davos,SUI,Japan,European Cup,Parallel Slalom,29,7.92
-49,Yogo Ryusho,Male,11-03-2023,Davos,SUI,Japan,European Cup,Parallel Slalom,32,9.36
-50,Yogo Ryusho,Male,05-03-2023,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,DNS,
-51,Yogo Ryusho,Male,03-03-2023,high1 resort,KOR,Japan,Asian Cup,Parallel Slalom,10,93.60
-52,Yogo Ryusho,Male,02-03-2023,high1 resort,KOR,Japan,Asian Cup,Parallel Giant Slalom,8,115.20
-53,Yogo Ryusho,Male,22-01-2023,Gore Mountain,USA,Japan,Qualification,Parallel Slalom,11,
-54,Yogo Ryusho,Male,22-01-2023,Gore Mountain,USA,Japan,Universiade,Parallel Slalom,11,52.80
-55,Yogo Ryusho,Male,21-01-2023,Gore Mountain,USA,Japan,Qualification,Parallel Giant Slalom,18,
-56,Yogo Ryusho,Male,21-01-2023,Gore Mountain,USA,Japan,Universiade,Parallel Giant Slalom,18,28.60
-57,Yogo Ryusho,Male,12-04-2022,Chiesa Valmalenco,ITA,Japan,National Championships,Parallel Slalom,14,52.20
-58,Yogo Ryusho,Male,11-04-2022,Chiesa Valmalenco,ITA,Japan,National Championships,Parallel Giant Slalom,11,69.60
-59,Yogo Ryusho,Male,27-03-2022,Villach / Gerlitzen,AUT,Japan,National Championships,Parallel Slalom,21,29.00
-60,Yogo Ryusho,Male,26-03-2022,Villach / Gerlitzen,AUT,Japan,National Championships,Parallel Giant Slalom,10,75.40
-61,Yogo Ryusho,Male,17-03-2022,Rogla,SLO,Japan,European Cup,Parallel Giant Slalom,34,7.04
-62,Yogo Ryusho,Male,08-03-2022,SUCHE/Zakopane,POL,Japan,National Championships,Parallel Giant Slalom,DNS,
-63,Yogo Ryusho,Male,05-03-2022,Lachtal,AUT,Japan,European Cup,Parallel Giant Slalom,DNS,
-64,Yogo Ryusho,Male,25-02-2022,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,11,21.60
-65,Yogo Ryusho,Male,24-02-2022,Akan,JPN,Japan,FIS,Parallel Giant Slalom,11,21.60
-66,Yogo Ryusho,Male,26-03-2021,Krasnoyarsk ,RUS,Japan,FIS Junior World Championships,Parallel Slalom,20,28.60
-67,Yogo Ryusho,Male,25-03-2021,Krasnoyarsk ,RUS,Japan,Qualification,Parallel Giant Slalom,21,
-68,Yogo Ryusho,Male,25-03-2021,Krasnoyarsk ,RUS,Japan,FIS Junior World Championships,Parallel Giant Slalom,21,26.00
-69,Yogo Ryusho,Male,20-03-2021,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,11,16.80
-70,Yogo Ryusho,Male,13-02-2021,Steamboat Ski and Resort / Howelsen Hill,USA,Japan,FIS,Parallel Slalom,4,35.00
-71,Yogo Ryusho,Male,12-02-2021,Steamboat Ski and Resort / Howelsen Hill,USA,Japan,FIS,Parallel Giant Slalom,5,31.50
-72,Yogo Ryusho,Male,11-02-2021,Steamboat Ski and Resort / Howelsen Hill,USA,Japan,FIS,Parallel Giant Slalom,5,31.50
-73,Yogo Ryusho,Male,07-02-2021,Sapporo Bankei,JPN,Japan,FIS,Giant Slalom,6,28.00
-74,Yogo Ryusho,Male,29-12-2019,Wanlong Ski Resorts,CHN,Japan,Asian Cup,Parallel Slalom,9,69.60
-75,Yogo Ryusho,Male,28-12-2019,Wanlong Ski Resorts,CHN,Japan,Asian Cup,Parallel Giant Slalom,7,86.40
-76,Yogo Ryusho,Male,17-03-2019,Tazawako,JPN,Japan,FIS,Giant Slalom,8,16.00
-77,Yogo Ryusho,Male,03-03-2019,Kurikoma Akiata,JPN,Japan,National Championships,Parallel Giant Slalom,DNF1,
-78,Yogo Ryusho,Male,02-03-2019,Kurikoma Akiata,JPN,Japan,FIS,Parallel Giant Slalom,20,
+39,Yogo Ryusho,Male,09-12-2023,Götschen,GER,Japan,European Cup,Parallel Slalom,57,4.82
+40,Yogo Ryusho,Male,08-12-2023,Götschen,GER,Japan,European Cup,Parallel Slalom,52,5.36
+41,Yogo Ryusho,Male,08-12-2023,Götschen,GER,Japan,Qualification,Parallel Slalom,52,
+42,Yogo Ryusho,Male,02-04-2023,Haus im Ennstal,AUT,Japan,National Championships,Parallel Slalom,11,69.60
+43,Yogo Ryusho,Male,01-04-2023,Haus im Ennstal,AUT,Japan,National Championships,Parallel Giant Slalom,25,17.40
+44,Yogo Ryusho,Male,30-03-2023,Cortina dAmpezzo,ITA,Japan,National Championships,Parallel Slalom,24,20.30
+45,Yogo Ryusho,Male,26-03-2023,Villach - Gerlitzen,AUT,Japan,FIS,Parallel Slalom,6,88.00
+46,Yogo Ryusho,Male,25-03-2023,Villach - Gerlitzen,AUT,Japan,FIS,Parallel Slalom,8,70.40
+47,Yogo Ryusho,Male,19-03-2023,Ratschings,ITA,Japan,European Cup,Parallel Slalom,41,4.37
+48,Yogo Ryusho,Male,18-03-2023,Ratschings,ITA,Japan,European Cup,Parallel Slalom,38,3.44
+49,Yogo Ryusho,Male,12-03-2023,Davos,SUI,Japan,European Cup,Parallel Slalom,29,7.92
+50,Yogo Ryusho,Male,11-03-2023,Davos,SUI,Japan,European Cup,Parallel Slalom,32,9.36
+51,Yogo Ryusho,Male,05-03-2023,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,DNS,
+52,Yogo Ryusho,Male,03-03-2023,high1 resort,KOR,Japan,Asian Cup,Parallel Slalom,10,93.60
+53,Yogo Ryusho,Male,02-03-2023,high1 resort,KOR,Japan,Asian Cup,Parallel Giant Slalom,8,115.20
+54,Yogo Ryusho,Male,22-01-2023,Gore Mountain,USA,Japan,Qualification,Parallel Slalom,11,
+55,Yogo Ryusho,Male,22-01-2023,Gore Mountain,USA,Japan,Universiade,Parallel Slalom,11,52.80
+56,Yogo Ryusho,Male,21-01-2023,Gore Mountain,USA,Japan,Qualification,Parallel Giant Slalom,18,
+57,Yogo Ryusho,Male,21-01-2023,Gore Mountain,USA,Japan,Universiade,Parallel Giant Slalom,18,28.60
+58,Yogo Ryusho,Male,12-04-2022,Chiesa Valmalenco,ITA,Japan,National Championships,Parallel Slalom,14,52.20
+59,Yogo Ryusho,Male,11-04-2022,Chiesa Valmalenco,ITA,Japan,National Championships,Parallel Giant Slalom,11,69.60
+60,Yogo Ryusho,Male,27-03-2022,Villach / Gerlitzen,AUT,Japan,National Championships,Parallel Slalom,21,29.00
+61,Yogo Ryusho,Male,26-03-2022,Villach / Gerlitzen,AUT,Japan,National Championships,Parallel Giant Slalom,10,75.40
+62,Yogo Ryusho,Male,17-03-2022,Rogla,SLO,Japan,European Cup,Parallel Giant Slalom,34,7.04
+63,Yogo Ryusho,Male,08-03-2022,SUCHE/Zakopane,POL,Japan,National Championships,Parallel Giant Slalom,DNS,
+64,Yogo Ryusho,Male,05-03-2022,Lachtal,AUT,Japan,European Cup,Parallel Giant Slalom,DNS,
+65,Yogo Ryusho,Male,25-02-2022,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,11,21.60
+66,Yogo Ryusho,Male,24-02-2022,Akan,JPN,Japan,FIS,Parallel Giant Slalom,11,21.60
+67,Yogo Ryusho,Male,26-03-2021,Krasnoyarsk ,RUS,Japan,FIS Junior World Championships,Parallel Slalom,20,28.60
+68,Yogo Ryusho,Male,25-03-2021,Krasnoyarsk ,RUS,Japan,Qualification,Parallel Giant Slalom,21,
+69,Yogo Ryusho,Male,25-03-2021,Krasnoyarsk ,RUS,Japan,FIS Junior World Championships,Parallel Giant Slalom,21,26.00
+70,Yogo Ryusho,Male,20-03-2021,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,11,16.80
+71,Yogo Ryusho,Male,13-02-2021,Steamboat Ski and Resort / Howelsen Hill,USA,Japan,FIS,Parallel Slalom,4,35.00
+72,Yogo Ryusho,Male,12-02-2021,Steamboat Ski and Resort / Howelsen Hill,USA,Japan,FIS,Parallel Giant Slalom,5,31.50
+73,Yogo Ryusho,Male,11-02-2021,Steamboat Ski and Resort / Howelsen Hill,USA,Japan,FIS,Parallel Giant Slalom,5,31.50
+74,Yogo Ryusho,Male,07-02-2021,Sapporo Bankei,JPN,Japan,FIS,Giant Slalom,6,28.00
+75,Yogo Ryusho,Male,29-12-2019,Wanlong Ski Resorts,CHN,Japan,Asian Cup,Parallel Slalom,9,69.60
+76,Yogo Ryusho,Male,28-12-2019,Wanlong Ski Resorts,CHN,Japan,Asian Cup,Parallel Giant Slalom,7,86.40
+77,Yogo Ryusho,Male,17-03-2019,Tazawako,JPN,Japan,FIS,Giant Slalom,8,16.00
+78,Yogo Ryusho,Male,03-03-2019,Kurikoma Akiata,JPN,Japan,National Championships,Parallel Giant Slalom,DNF1,
+79,Yogo Ryusho,Male,02-03-2019,Kurikoma Akiata,JPN,Japan,FIS,Parallel Giant Slalom,20,
