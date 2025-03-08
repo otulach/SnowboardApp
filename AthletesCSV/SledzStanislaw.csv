@@ -1,31 +1,33 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Sledz Stanislaw,Male,05-03-2025,Zakopane/Suche,POL,Poland,FIS Junior World Championships,Parallel Slalom,22,
-1,Sledz Stanislaw,Male,05-03-2025,Zakopane/Suche,POL,Poland,Qualification,Parallel Slalom,22,
-2,Sledz Stanislaw,Male,04-03-2025,Zakopane/Suche,POL,Poland,FIS Junior World Championships,Parallel Giant Slalom,42,
-3,Sledz Stanislaw,Male,04-03-2025,Zakopane/Suche,POL,Poland,Qualification,Parallel Giant Slalom,42,
-4,Sledz Stanislaw,Male,21-02-2025,KRYNICA,POL,Poland,National Championships,Parallel Slalom,15,16.00
-5,Sledz Stanislaw,Male,20-02-2025,KRYNICA,POL,Poland,National Championships,Parallel Giant Slalom,10,26.00
-6,Sledz Stanislaw,Male,17-03-2024,Spindleruv Mlyn,CZE,Poland,FIS,Parallel Slalom,9,20.30
-7,Sledz Stanislaw,Male,16-03-2024,Spindleruv Mlyn,CZE,Poland,FIS,Parallel Slalom,13,14.00
-8,Sledz Stanislaw,Male,07-01-2024,Dolni Morava,CZE,Poland,National Junior Championships,Parallel Giant Slalom,3,30.00
-9,Sledz Stanislaw,Male,06-01-2024,Dolni Morava,CZE,Poland,National Junior Championships,Parallel Slalom,5,22.50
-10,Sledz Stanislaw,Male,08-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,DNS,
-11,Sledz Stanislaw,Male,08-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,DNS,
-12,Sledz Stanislaw,Male,26-03-2023,Villach - Gerlitzen,AUT,Poland,FIS,Parallel Slalom,16,33.00
-13,Sledz Stanislaw,Male,25-03-2023,Villach - Gerlitzen,AUT,Poland,FIS,Parallel Slalom,16,33.00
-14,Sledz Stanislaw,Male,05-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,40,5.92
-15,Sledz Stanislaw,Male,04-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,46,
-16,Sledz Stanislaw,Male,27-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,10,31.20
-17,Sledz Stanislaw,Male,26-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,15,19.20
-18,Sledz Stanislaw,Male,25-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,25,7.20
-19,Sledz Stanislaw,Male,04-01-2023,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,23,20.80
-20,Sledz Stanislaw,Male,13-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Slalom,DSQ,
-21,Sledz Stanislaw,Male,12-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Giant Slalom,32,2.86
-22,Sledz Stanislaw,Male,09-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,DSQ,
-23,Sledz Stanislaw,Male,08-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,29,10.44
-24,Sledz Stanislaw,Male,20-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,DSQ,
-25,Sledz Stanislaw,Male,19-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,18,13.00
-26,Sledz Stanislaw,Male,16-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,22,9.90
-27,Sledz Stanislaw,Male,15-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,10,28.60
-28,Sledz Stanislaw,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,Junior,Parallel Slalom,5,22.50
-29,Sledz Stanislaw,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,Junior,Slalom,3,30.00
+0,Sledz Stanislaw,Male,06-03-2025,Zakopane/Suche,POL,Poland,Qualification,Parallel Slalom Team,30,
+1,Sledz Stanislaw,Male,06-03-2025,Zakopane/Suche,POL,Poland,FIS Junior World Championships,Parallel Slalom Team,30,
+2,Sledz Stanislaw,Male,05-03-2025,Zakopane/Suche,POL,Poland,FIS Junior World Championships,Parallel Slalom,22,23.40
+3,Sledz Stanislaw,Male,05-03-2025,Zakopane/Suche,POL,Poland,Qualification,Parallel Slalom,22,
+4,Sledz Stanislaw,Male,04-03-2025,Zakopane/Suche,POL,Poland,FIS Junior World Championships,Parallel Giant Slalom,42,4.65
+5,Sledz Stanislaw,Male,04-03-2025,Zakopane/Suche,POL,Poland,Qualification,Parallel Giant Slalom,42,
+6,Sledz Stanislaw,Male,21-02-2025,KRYNICA,POL,Poland,National Championships,Parallel Slalom,15,16.00
+7,Sledz Stanislaw,Male,20-02-2025,KRYNICA,POL,Poland,National Championships,Parallel Giant Slalom,10,26.00
+8,Sledz Stanislaw,Male,17-03-2024,Spindleruv Mlyn,CZE,Poland,FIS,Parallel Slalom,9,20.30
+9,Sledz Stanislaw,Male,16-03-2024,Spindleruv Mlyn,CZE,Poland,FIS,Parallel Slalom,13,14.00
+10,Sledz Stanislaw,Male,07-01-2024,Dolni Morava,CZE,Poland,National Junior Championships,Parallel Giant Slalom,3,30.00
+11,Sledz Stanislaw,Male,06-01-2024,Dolni Morava,CZE,Poland,National Junior Championships,Parallel Slalom,5,22.50
+12,Sledz Stanislaw,Male,08-12-2023,Götschen,GER,Poland,European Cup,Parallel Slalom,DNS,
+13,Sledz Stanislaw,Male,08-12-2023,Götschen,GER,Poland,Qualification,Parallel Slalom,DNS,
+14,Sledz Stanislaw,Male,26-03-2023,Villach - Gerlitzen,AUT,Poland,FIS,Parallel Slalom,16,33.00
+15,Sledz Stanislaw,Male,25-03-2023,Villach - Gerlitzen,AUT,Poland,FIS,Parallel Slalom,16,33.00
+16,Sledz Stanislaw,Male,05-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,40,5.92
+17,Sledz Stanislaw,Male,04-03-2023,Zakopane,POL,Poland,European Cup,Parallel Giant Slalom,46,
+18,Sledz Stanislaw,Male,27-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,10,31.20
+19,Sledz Stanislaw,Male,26-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Slalom,15,19.20
+20,Sledz Stanislaw,Male,25-02-2023,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,25,7.20
+21,Sledz Stanislaw,Male,04-01-2023,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,23,20.80
+22,Sledz Stanislaw,Male,13-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Slalom,DSQ,
+23,Sledz Stanislaw,Male,12-03-2022,Spindleruv Mlyn,CZE,Poland,National Championships,Parallel Giant Slalom,32,2.86
+24,Sledz Stanislaw,Male,09-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Slalom,DSQ,
+25,Sledz Stanislaw,Male,08-03-2022,SUCHE/Zakopane,POL,Poland,National Championships,Parallel Giant Slalom,29,10.44
+26,Sledz Stanislaw,Male,20-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,DSQ,
+27,Sledz Stanislaw,Male,19-02-2022,Bozi Dar - Neklid,CZE,Poland,FIS,Parallel Slalom,18,13.00
+28,Sledz Stanislaw,Male,16-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,22,9.90
+29,Sledz Stanislaw,Male,15-01-2022,Dolni Morava,CZE,Poland,FIS,Parallel Giant Slalom,10,28.60
+30,Sledz Stanislaw,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,Junior,Parallel Slalom,5,22.50
+31,Sledz Stanislaw,Male,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Poland,Junior,Slalom,3,30.00

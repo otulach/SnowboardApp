@@ -1,116 +1,118 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Hammerschmidt Lion,Male,05-03-2025,Zakopane/Suche,POL,Austria,Qualification,Parallel Slalom,6,
-1,Hammerschmidt Lion,Male,05-03-2025,Zakopane/Suche,POL,Austria,FIS Junior World Championships,Parallel Slalom,4,
-2,Hammerschmidt Lion,Male,04-03-2025,Zakopane/Suche,POL,Austria,Qualification,Parallel Giant Slalom,11,
-3,Hammerschmidt Lion,Male,04-03-2025,Zakopane/Suche,POL,Austria,FIS Junior World Championships,Parallel Giant Slalom,11,
-4,Hammerschmidt Lion,Male,16-02-2025,Funes/Villnoess,ITA,Austria,Junior Regional Cup,Parallel Giant Slalom,4,70.00
-5,Hammerschmidt Lion,Male,15-02-2025,Funes/Villnoess,ITA,Austria,Junior Regional Cup,Parallel Giant Slalom,5,81.00
-6,Hammerschmidt Lion,Male,09-02-2025,Simonhoehe,AUT,Austria,National Championships,Parallel Slalom,8,92.80
-7,Hammerschmidt Lion,Male,08-02-2025,Simonhoehe,AUT,Austria,National Championships,Parallel Giant Slalom,15,46.40
-8,Hammerschmidt Lion,Male,02-02-2025,Ratschings,ITA,Austria,European Cup,Parallel Slalom,29,9.36
-9,Hammerschmidt Lion,Male,02-02-2025,Ratschings,ITA,Austria,Qualification,Parallel Slalom,30,
-10,Hammerschmidt Lion,Male,01-02-2025,Ratschings,ITA,Austria,European Cup,Parallel Slalom,29,10.44
-11,Hammerschmidt Lion,Male,01-02-2025,Ratschings,ITA,Austria,Qualification,Parallel Slalom,29,
-12,Hammerschmidt Lion,Male,26-01-2025,Simonhöhe,AUT,Austria,European Cup,Parallel Giant Slalom,27,14.40
-13,Hammerschmidt Lion,Male,25-01-2025,Simonhöhe,AUT,Austria,European Cup,Parallel Giant Slalom,14,32.40
-14,Hammerschmidt Lion,Male,22-01-2025,Bansko,BUL,Austria,European Cup,Parallel Giant Slalom,31,8.12
-15,Hammerschmidt Lion,Male,21-01-2025,Bansko,BUL,Austria,European Cup,Parallel Giant Slalom,13,58.00
-16,Hammerschmidt Lion,Male,14-01-2025,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,29,
-17,Hammerschmidt Lion,Male,14-01-2025,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,29,36.00
-18,Hammerschmidt Lion,Male,11-01-2025,Folgaria,ITA,Austria,European Cup,Parallel Giant Slalom,10,46.80
-19,Hammerschmidt Lion,Male,11-01-2025,Folgaria,ITA,Austria,Qualification,Parallel Giant Slalom,7,
-20,Hammerschmidt Lion,Male,10-01-2025,Folgaria,ITA,Austria,European Cup,Parallel Giant Slalom,8,57.60
-21,Hammerschmidt Lion,Male,10-01-2025,Folgaria,ITA,Austria,Qualification,Parallel Giant Slalom,7,
-22,Hammerschmidt Lion,Male,06-01-2025,Simonhoehe,AUT,Austria,Junior Regional Cup,Parallel Giant Slalom,24,12.60
-23,Hammerschmidt Lion,Male,05-01-2025,Simonhoehe,AUT,Austria,Junior Regional Cup,Parallel Giant Slalom,17,25.20
-24,Hammerschmidt Lion,Male,22-12-2024,Moninec,CZE,Austria,FIS,Parallel Slalom,2,128.00
-25,Hammerschmidt Lion,Male,21-12-2024,Moninec,CZE,Austria,FIS,Parallel Slalom,2,128.00
-26,Hammerschmidt Lion,Male,20-12-2024,Moninec,CZE,Austria,European Cup,Parallel Slalom,2,144.00
-27,Hammerschmidt Lion,Male,19-12-2024,Moninec,CZE,Austria,European Cup,Parallel Slalom,6,80.00
-28,Hammerschmidt Lion,Male,15-12-2024,Götschen,GER,Austria,European Cup,Parallel Slalom,17,33.60
-29,Hammerschmidt Lion,Male,14-12-2024,Götschen,GER,Austria,European Cup,Parallel Slalom,12,35.20
-30,Hammerschmidt Lion,Male,24-03-2024,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Slalom Team,24,
-31,Hammerschmidt Lion,Male,23-03-2024,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Slalom,12,52.80
-32,Hammerschmidt Lion,Male,23-03-2024,Lachtal,AUT,Austria,Qualification,Parallel Slalom,12,
-33,Hammerschmidt Lion,Male,22-03-2024,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Giant Slalom,21,24.00
-34,Hammerschmidt Lion,Male,22-03-2024,Lachtal,AUT,Austria,Qualification,Parallel Giant Slalom,21,
-35,Hammerschmidt Lion,Male,10-03-2024,Senales - Schnals,ITA,Austria,FIS,Parallel Slalom,6,48.00
-36,Hammerschmidt Lion,Male,09-03-2024,Senales - Schnals,ITA,Austria,FIS,Parallel Slalom,3,72.00
-37,Hammerschmidt Lion,Male,24-02-2024,Alleghe,ITA,Austria,Junior,Parallel Giant Slalom,2,120.00
-38,Hammerschmidt Lion,Male,10-02-2024,Hochficht/Zwiesel,AUT,Austria,National Championships,Parallel Slalom,8,92.80
-39,Hammerschmidt Lion,Male,09-02-2024,Hochficht/Zwiesel,AUT,Austria,National Championships,Parallel Giant Slalom,13,58.00
-40,Hammerschmidt Lion,Male,04-02-2024,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,DSQ,
-41,Hammerschmidt Lion,Male,03-02-2024,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,14,25.20
-42,Hammerschmidt Lion,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Austria,FIS,Parallel Giant Slalom,15,25.60
-43,Hammerschmidt Lion,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Austria,FIS,Parallel Giant Slalom,10,33.80
-44,Hammerschmidt Lion,Male,14-01-2024,Gosau,AUT,Austria,FIS,Parallel Slalom,1,100.00
-45,Hammerschmidt Lion,Male,13-01-2024,Gosau,AUT,Austria,FIS,Parallel Slalom,3,60.00
-46,Hammerschmidt Lion,Male,05-01-2024,Simonhöhe,AUT,Austria,Junior,Parallel Giant Slalom,6,44.00
-47,Hammerschmidt Lion,Male,22-12-2023,Moninec,CZE,Austria,Junior,Parallel Slalom,2,56.00
-48,Hammerschmidt Lion,Male,21-12-2023,Moninec,CZE,Austria,Junior,Parallel Slalom,DSQ,
-49,Hammerschmidt Lion,Male,20-12-2023,Moninec,CZE,Austria,European Cup,Parallel Slalom,16,33.00
-50,Hammerschmidt Lion,Male,19-12-2023,Moninec,CZE,Austria,European Cup,Parallel Slalom,16,33.00
-51,Hammerschmidt Lion,Male,10-12-2023,Götschen,GER,Austria,Junior,Parallel Slalom,14,23.40
-52,Hammerschmidt Lion,Male,09-12-2023,Götschen,GER,Austria,Qualification,Parallel Slalom,27,
-53,Hammerschmidt Lion,Male,09-12-2023,Götschen,GER,Austria,European Cup,Parallel Slalom,27,16.20
-54,Hammerschmidt Lion,Male,08-12-2023,Götschen,GER,Austria,Qualification,Parallel Slalom,41,
-55,Hammerschmidt Lion,Male,08-12-2023,Götschen,GER,Austria,European Cup,Parallel Slalom,41,6.55
-56,Hammerschmidt Lion,Male,02-04-2023,Haus im Ennstal,AUT,Austria,National Championships,Parallel Slalom,7,104.40
-57,Hammerschmidt Lion,Male,01-04-2023,Haus im Ennstal,AUT,Austria,National Championships,Parallel Giant Slalom,15,46.40
-58,Hammerschmidt Lion,Male,25-03-2023,Bansko,BUL,Austria,FIS Junior World Championships,Parallel Slalom,18,31.20
-59,Hammerschmidt Lion,Male,25-03-2023,Bansko,BUL,Austria,Qualification,Parallel Slalom,18,
-60,Hammerschmidt Lion,Male,24-03-2023,Bansko,BUL,Austria,FIS Junior World Championships,Parallel Giant Slalom,23,19.20
-61,Hammerschmidt Lion,Male,24-03-2023,Bansko,BUL,Austria,Qualification,Parallel Giant Slalom,23,
-62,Hammerschmidt Lion,Male,19-03-2023,Ratschings,ITA,Austria,European Cup,Parallel Slalom,DSQ,
-63,Hammerschmidt Lion,Male,18-03-2023,Ratschings,ITA,Austria,European Cup,Parallel Slalom,DNS,
-64,Hammerschmidt Lion,Male,12-03-2023,Davos,SUI,Austria,European Cup,Parallel Slalom,14,39.60
-65,Hammerschmidt Lion,Male,11-03-2023,Davos,SUI,Austria,European Cup,Parallel Slalom,19,43.20
-66,Hammerschmidt Lion,Male,05-03-2023,Zakopane,POL,Austria,European Cup,Parallel Giant Slalom,25,19.20
-67,Hammerschmidt Lion,Male,04-03-2023,Zakopane,POL,Austria,European Cup,Parallel Giant Slalom,30,11.52
-68,Hammerschmidt Lion,Male,26-02-2023,Simonhoehe,AUT,Austria,Junior,Parallel Giant Slalom,4,65.00
-69,Hammerschmidt Lion,Male,25-02-2023,Simonhoehe,AUT,Austria,Junior,Parallel Giant Slalom,10,33.80
-70,Hammerschmidt Lion,Male,12-02-2023,Funes - Vilnoess,ITA,Austria,FIS,Parallel Giant Slalom,24,15.40
-71,Hammerschmidt Lion,Male,11-02-2023,Funes - Vilnoess,ITA,Austria,FIS,Parallel Giant Slalom,28,8.80
-72,Hammerschmidt Lion,Male,05-02-2023,Gosau,AUT,Austria,FIS,Slalom,11,26.40
-73,Hammerschmidt Lion,Male,04-02-2023,Gosau,AUT,Austria,FIS,Slalom,4,55.00
-74,Hammerschmidt Lion,Male,04-02-2023,Gosau,AUT,Austria,FIS,Slalom,4,55.00
-75,Hammerschmidt Lion,Male,29-01-2023,Simonhöhe,AUT,Austria,European Cup,Parallel Giant Slalom,18,23.40
-76,Hammerschmidt Lion,Male,29-01-2023,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,18,
-77,Hammerschmidt Lion,Male,28-01-2023,Simonhöhe,AUT,Austria,European Cup,Parallel Giant Slalom,26,9.00
-78,Hammerschmidt Lion,Male,28-01-2023,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,26,
-79,Hammerschmidt Lion,Male,26-01-2023,Piancavallo,ITA,Austria,European Youth Olympic Festival,Snowboard Cross,16,10.50
-80,Hammerschmidt Lion,Male,23-01-2023,Piancavallo,ITA,Austria,European Youth Olympic Festival,Parallel Giant Slalom,8,38.40
-81,Hammerschmidt Lion,Male,15-01-2023,Alleghe,ITA,Austria,European Cup,Parallel Slalom,7,57.60
-82,Hammerschmidt Lion,Male,15-01-2023,Alleghe,ITA,Austria,Qualification,Parallel Slalom,11,
-83,Hammerschmidt Lion,Male,14-01-2023,Alleghe,ITA,Austria,European Cup,Parallel Slalom,16,24.00
-84,Hammerschmidt Lion,Male,14-01-2023,Alleghe,ITA,Austria,Qualification,Parallel Slalom,16,
-85,Hammerschmidt Lion,Male,10-01-2023,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,DNS,
-86,Hammerschmidt Lion,Male,10-01-2023,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,DNS,
-87,Hammerschmidt Lion,Male,08-01-2023,Haus im Ennstal,AUT,Austria,Junior,Giant Slalom,9,34.80
-88,Hammerschmidt Lion,Male,07-01-2023,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,12,26.40
-89,Hammerschmidt Lion,Male,18-12-2022,Hochfügen,GER,Austria,European Cup,Parallel Giant Slalom,28,10.40
-90,Hammerschmidt Lion,Male,18-12-2022,Hochfügen,GER,Austria,Qualification,Parallel Giant Slalom,28,
-91,Hammerschmidt Lion,Male,17-12-2022,Hochfügen,GER,Austria,European Cup,Parallel Giant Slalom,24,12.60
-92,Hammerschmidt Lion,Male,01-04-2022,Chiesa in Valmalenco,ITA,Austria,FIS Junior World Championships,Parallel Slalom,22,21.60
-93,Hammerschmidt Lion,Male,31-03-2022,Chiesa in Valmalenco,ITA,Austria,FIS Junior World Championships,Parallel Giant Slalom,30,7.68
-94,Hammerschmidt Lion,Male,27-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,15,46.40
-95,Hammerschmidt Lion,Male,26-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Giant Slalom,DSQ,
-96,Hammerschmidt Lion,Male,20-03-2022,Senales - Schnals,ITA,Austria,Junior,Parallel Slalom,8,32.00
-97,Hammerschmidt Lion,Male,19-03-2022,Senales - Schnals,ITA,Austria,Junior,Parallel Slalom,9,29.00
-98,Hammerschmidt Lion,Male,13-03-2022,Pizol,SUI,Austria,Junior,Parallel Slalom,7,25.20
-99,Hammerschmidt Lion,Male,12-03-2022,Pizol,SUI,Austria,Junior,Parallel Slalom,9,20.30
-100,Hammerschmidt Lion,Male,27-02-2022,Simonhöhe,AUT,Austria,FIS,Parallel Giant Slalom,21,22.00
-101,Hammerschmidt Lion,Male,26-02-2022,Simonhöhe,AUT,Austria,FIS,Parallel Giant Slalom,20,24.20
-102,Hammerschmidt Lion,Male,20-02-2022,Funes - Vilnoess,ITA,Austria,FIS,Parallel Giant Slalom,17,30.80
-103,Hammerschmidt Lion,Male,19-02-2022,Funes - Vilnoess,ITA,Austria,FIS,Parallel Giant Slalom,21,22.00
-104,Hammerschmidt Lion,Male,06-02-2022,Ebensee,AUT,Austria,FIS,Parallel Slalom,5,31.50
-105,Hammerschmidt Lion,Male,05-02-2022,Ebensee,AUT,Austria,FIS,Parallel Slalom,5,31.50
-106,Hammerschmidt Lion,Male,30-01-2022,Nova Levante - Welschnofen,ITA,Austria,FIS,Parallel Slalom,7,18.00
-107,Hammerschmidt Lion,Male,29-01-2022,Nova Levante - Welschnofen,ITA,Austria,FIS,Parallel Slalom,6,20.00
-108,Hammerschmidt Lion,Male,15-01-2022,Goetschen,GER,Austria,Junior,Parallel Slalom,20,7.70
-109,Hammerschmidt Lion,Male,09-01-2022,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,8,32.00
-110,Hammerschmidt Lion,Male,08-01-2022,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,8,32.00
-111,Hammerschmidt Lion,Male,21-12-2021,Moninec,CZE,Austria,Junior,Parallel Slalom,8,16.00
-112,Hammerschmidt Lion,Male,20-12-2021,Moninec,CZE,Austria,Junior,Parallel Slalom,11,16.80
-113,Hammerschmidt Lion,Male,19-12-2021,Moninec,CZE,Austria,European Cup,Parallel Slalom,27,9.90
-114,Hammerschmidt Lion,Male,18-12-2021,Moninec,CZE,Austria,European Cup,Parallel Slalom,33,4.80
+0,Hammerschmidt Lion,Male,06-03-2025,Zakopane/Suche,POL,Austria,FIS Junior World Championships,Parallel Slalom Team,10,
+1,Hammerschmidt Lion,Male,06-03-2025,Zakopane/Suche,POL,Austria,Qualification,Parallel Slalom Team,10,
+2,Hammerschmidt Lion,Male,05-03-2025,Zakopane/Suche,POL,Austria,Qualification,Parallel Slalom,6,
+3,Hammerschmidt Lion,Male,05-03-2025,Zakopane/Suche,POL,Austria,FIS Junior World Championships,Parallel Slalom,4,130.00
+4,Hammerschmidt Lion,Male,04-03-2025,Zakopane/Suche,POL,Austria,Qualification,Parallel Giant Slalom,11,
+5,Hammerschmidt Lion,Male,04-03-2025,Zakopane/Suche,POL,Austria,FIS Junior World Championships,Parallel Giant Slalom,11,62.40
+6,Hammerschmidt Lion,Male,16-02-2025,Funes/Villnoess,ITA,Austria,Junior Regional Cup,Parallel Giant Slalom,4,70.00
+7,Hammerschmidt Lion,Male,15-02-2025,Funes/Villnoess,ITA,Austria,Junior Regional Cup,Parallel Giant Slalom,5,81.00
+8,Hammerschmidt Lion,Male,09-02-2025,Simonhoehe,AUT,Austria,National Championships,Parallel Slalom,8,92.80
+9,Hammerschmidt Lion,Male,08-02-2025,Simonhoehe,AUT,Austria,National Championships,Parallel Giant Slalom,15,46.40
+10,Hammerschmidt Lion,Male,02-02-2025,Ratschings,ITA,Austria,European Cup,Parallel Slalom,29,9.36
+11,Hammerschmidt Lion,Male,02-02-2025,Ratschings,ITA,Austria,Qualification,Parallel Slalom,30,
+12,Hammerschmidt Lion,Male,01-02-2025,Ratschings,ITA,Austria,European Cup,Parallel Slalom,29,10.44
+13,Hammerschmidt Lion,Male,01-02-2025,Ratschings,ITA,Austria,Qualification,Parallel Slalom,29,
+14,Hammerschmidt Lion,Male,26-01-2025,Simonhöhe,AUT,Austria,European Cup,Parallel Giant Slalom,27,14.40
+15,Hammerschmidt Lion,Male,25-01-2025,Simonhöhe,AUT,Austria,European Cup,Parallel Giant Slalom,14,32.40
+16,Hammerschmidt Lion,Male,22-01-2025,Bansko,BUL,Austria,European Cup,Parallel Giant Slalom,31,8.12
+17,Hammerschmidt Lion,Male,21-01-2025,Bansko,BUL,Austria,European Cup,Parallel Giant Slalom,13,58.00
+18,Hammerschmidt Lion,Male,14-01-2025,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,29,
+19,Hammerschmidt Lion,Male,14-01-2025,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,29,36.00
+20,Hammerschmidt Lion,Male,11-01-2025,Folgaria,ITA,Austria,European Cup,Parallel Giant Slalom,10,46.80
+21,Hammerschmidt Lion,Male,11-01-2025,Folgaria,ITA,Austria,Qualification,Parallel Giant Slalom,7,
+22,Hammerschmidt Lion,Male,10-01-2025,Folgaria,ITA,Austria,European Cup,Parallel Giant Slalom,8,57.60
+23,Hammerschmidt Lion,Male,10-01-2025,Folgaria,ITA,Austria,Qualification,Parallel Giant Slalom,7,
+24,Hammerschmidt Lion,Male,06-01-2025,Simonhoehe,AUT,Austria,Junior Regional Cup,Parallel Giant Slalom,24,12.60
+25,Hammerschmidt Lion,Male,05-01-2025,Simonhoehe,AUT,Austria,Junior Regional Cup,Parallel Giant Slalom,17,25.20
+26,Hammerschmidt Lion,Male,22-12-2024,Moninec,CZE,Austria,FIS,Parallel Slalom,2,128.00
+27,Hammerschmidt Lion,Male,21-12-2024,Moninec,CZE,Austria,FIS,Parallel Slalom,2,128.00
+28,Hammerschmidt Lion,Male,20-12-2024,Moninec,CZE,Austria,European Cup,Parallel Slalom,2,144.00
+29,Hammerschmidt Lion,Male,19-12-2024,Moninec,CZE,Austria,European Cup,Parallel Slalom,6,80.00
+30,Hammerschmidt Lion,Male,15-12-2024,Götschen,GER,Austria,European Cup,Parallel Slalom,17,33.60
+31,Hammerschmidt Lion,Male,14-12-2024,Götschen,GER,Austria,European Cup,Parallel Slalom,12,35.20
+32,Hammerschmidt Lion,Male,24-03-2024,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Slalom Team,24,
+33,Hammerschmidt Lion,Male,23-03-2024,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Slalom,12,52.80
+34,Hammerschmidt Lion,Male,23-03-2024,Lachtal,AUT,Austria,Qualification,Parallel Slalom,12,
+35,Hammerschmidt Lion,Male,22-03-2024,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Giant Slalom,21,24.00
+36,Hammerschmidt Lion,Male,22-03-2024,Lachtal,AUT,Austria,Qualification,Parallel Giant Slalom,21,
+37,Hammerschmidt Lion,Male,10-03-2024,Senales - Schnals,ITA,Austria,FIS,Parallel Slalom,6,48.00
+38,Hammerschmidt Lion,Male,09-03-2024,Senales - Schnals,ITA,Austria,FIS,Parallel Slalom,3,72.00
+39,Hammerschmidt Lion,Male,24-02-2024,Alleghe,ITA,Austria,Junior,Parallel Giant Slalom,2,120.00
+40,Hammerschmidt Lion,Male,10-02-2024,Hochficht/Zwiesel,AUT,Austria,National Championships,Parallel Slalom,8,92.80
+41,Hammerschmidt Lion,Male,09-02-2024,Hochficht/Zwiesel,AUT,Austria,National Championships,Parallel Giant Slalom,13,58.00
+42,Hammerschmidt Lion,Male,04-02-2024,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,DSQ,
+43,Hammerschmidt Lion,Male,03-02-2024,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,14,25.20
+44,Hammerschmidt Lion,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Austria,FIS,Parallel Giant Slalom,15,25.60
+45,Hammerschmidt Lion,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Austria,FIS,Parallel Giant Slalom,10,33.80
+46,Hammerschmidt Lion,Male,14-01-2024,Gosau,AUT,Austria,FIS,Parallel Slalom,1,100.00
+47,Hammerschmidt Lion,Male,13-01-2024,Gosau,AUT,Austria,FIS,Parallel Slalom,3,60.00
+48,Hammerschmidt Lion,Male,05-01-2024,Simonhöhe,AUT,Austria,Junior,Parallel Giant Slalom,6,44.00
+49,Hammerschmidt Lion,Male,22-12-2023,Moninec,CZE,Austria,Junior,Parallel Slalom,2,56.00
+50,Hammerschmidt Lion,Male,21-12-2023,Moninec,CZE,Austria,Junior,Parallel Slalom,DSQ,
+51,Hammerschmidt Lion,Male,20-12-2023,Moninec,CZE,Austria,European Cup,Parallel Slalom,16,33.00
+52,Hammerschmidt Lion,Male,19-12-2023,Moninec,CZE,Austria,European Cup,Parallel Slalom,16,33.00
+53,Hammerschmidt Lion,Male,10-12-2023,Götschen,GER,Austria,Junior,Parallel Slalom,14,23.40
+54,Hammerschmidt Lion,Male,09-12-2023,Götschen,GER,Austria,Qualification,Parallel Slalom,27,
+55,Hammerschmidt Lion,Male,09-12-2023,Götschen,GER,Austria,European Cup,Parallel Slalom,27,16.20
+56,Hammerschmidt Lion,Male,08-12-2023,Götschen,GER,Austria,Qualification,Parallel Slalom,41,
+57,Hammerschmidt Lion,Male,08-12-2023,Götschen,GER,Austria,European Cup,Parallel Slalom,41,6.55
+58,Hammerschmidt Lion,Male,02-04-2023,Haus im Ennstal,AUT,Austria,National Championships,Parallel Slalom,7,104.40
+59,Hammerschmidt Lion,Male,01-04-2023,Haus im Ennstal,AUT,Austria,National Championships,Parallel Giant Slalom,15,46.40
+60,Hammerschmidt Lion,Male,25-03-2023,Bansko,BUL,Austria,FIS Junior World Championships,Parallel Slalom,18,31.20
+61,Hammerschmidt Lion,Male,25-03-2023,Bansko,BUL,Austria,Qualification,Parallel Slalom,18,
+62,Hammerschmidt Lion,Male,24-03-2023,Bansko,BUL,Austria,FIS Junior World Championships,Parallel Giant Slalom,23,19.20
+63,Hammerschmidt Lion,Male,24-03-2023,Bansko,BUL,Austria,Qualification,Parallel Giant Slalom,23,
+64,Hammerschmidt Lion,Male,19-03-2023,Ratschings,ITA,Austria,European Cup,Parallel Slalom,DSQ,
+65,Hammerschmidt Lion,Male,18-03-2023,Ratschings,ITA,Austria,European Cup,Parallel Slalom,DNS,
+66,Hammerschmidt Lion,Male,12-03-2023,Davos,SUI,Austria,European Cup,Parallel Slalom,14,39.60
+67,Hammerschmidt Lion,Male,11-03-2023,Davos,SUI,Austria,European Cup,Parallel Slalom,19,43.20
+68,Hammerschmidt Lion,Male,05-03-2023,Zakopane,POL,Austria,European Cup,Parallel Giant Slalom,25,19.20
+69,Hammerschmidt Lion,Male,04-03-2023,Zakopane,POL,Austria,European Cup,Parallel Giant Slalom,30,11.52
+70,Hammerschmidt Lion,Male,26-02-2023,Simonhoehe,AUT,Austria,Junior,Parallel Giant Slalom,4,65.00
+71,Hammerschmidt Lion,Male,25-02-2023,Simonhoehe,AUT,Austria,Junior,Parallel Giant Slalom,10,33.80
+72,Hammerschmidt Lion,Male,12-02-2023,Funes - Vilnoess,ITA,Austria,FIS,Parallel Giant Slalom,24,15.40
+73,Hammerschmidt Lion,Male,11-02-2023,Funes - Vilnoess,ITA,Austria,FIS,Parallel Giant Slalom,28,8.80
+74,Hammerschmidt Lion,Male,05-02-2023,Gosau,AUT,Austria,FIS,Slalom,11,26.40
+75,Hammerschmidt Lion,Male,04-02-2023,Gosau,AUT,Austria,FIS,Slalom,4,55.00
+76,Hammerschmidt Lion,Male,04-02-2023,Gosau,AUT,Austria,FIS,Slalom,4,55.00
+77,Hammerschmidt Lion,Male,29-01-2023,Simonhöhe,AUT,Austria,European Cup,Parallel Giant Slalom,18,23.40
+78,Hammerschmidt Lion,Male,29-01-2023,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,18,
+79,Hammerschmidt Lion,Male,28-01-2023,Simonhöhe,AUT,Austria,European Cup,Parallel Giant Slalom,26,9.00
+80,Hammerschmidt Lion,Male,28-01-2023,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,26,
+81,Hammerschmidt Lion,Male,26-01-2023,Piancavallo,ITA,Austria,European Youth Olympic Festival,Snowboard Cross,16,10.50
+82,Hammerschmidt Lion,Male,23-01-2023,Piancavallo,ITA,Austria,European Youth Olympic Festival,Parallel Giant Slalom,8,38.40
+83,Hammerschmidt Lion,Male,15-01-2023,Alleghe,ITA,Austria,European Cup,Parallel Slalom,7,57.60
+84,Hammerschmidt Lion,Male,15-01-2023,Alleghe,ITA,Austria,Qualification,Parallel Slalom,11,
+85,Hammerschmidt Lion,Male,14-01-2023,Alleghe,ITA,Austria,European Cup,Parallel Slalom,16,24.00
+86,Hammerschmidt Lion,Male,14-01-2023,Alleghe,ITA,Austria,Qualification,Parallel Slalom,16,
+87,Hammerschmidt Lion,Male,10-01-2023,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,DNS,
+88,Hammerschmidt Lion,Male,10-01-2023,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,DNS,
+89,Hammerschmidt Lion,Male,08-01-2023,Haus im Ennstal,AUT,Austria,Junior,Giant Slalom,9,34.80
+90,Hammerschmidt Lion,Male,07-01-2023,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,12,26.40
+91,Hammerschmidt Lion,Male,18-12-2022,Hochfügen,GER,Austria,European Cup,Parallel Giant Slalom,28,10.40
+92,Hammerschmidt Lion,Male,18-12-2022,Hochfügen,GER,Austria,Qualification,Parallel Giant Slalom,28,
+93,Hammerschmidt Lion,Male,17-12-2022,Hochfügen,GER,Austria,European Cup,Parallel Giant Slalom,24,12.60
+94,Hammerschmidt Lion,Male,01-04-2022,Chiesa in Valmalenco,ITA,Austria,FIS Junior World Championships,Parallel Slalom,22,21.60
+95,Hammerschmidt Lion,Male,31-03-2022,Chiesa in Valmalenco,ITA,Austria,FIS Junior World Championships,Parallel Giant Slalom,30,7.68
+96,Hammerschmidt Lion,Male,27-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,15,46.40
+97,Hammerschmidt Lion,Male,26-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Giant Slalom,DSQ,
+98,Hammerschmidt Lion,Male,20-03-2022,Senales - Schnals,ITA,Austria,Junior,Parallel Slalom,8,32.00
+99,Hammerschmidt Lion,Male,19-03-2022,Senales - Schnals,ITA,Austria,Junior,Parallel Slalom,9,29.00
+100,Hammerschmidt Lion,Male,13-03-2022,Pizol,SUI,Austria,Junior,Parallel Slalom,7,25.20
+101,Hammerschmidt Lion,Male,12-03-2022,Pizol,SUI,Austria,Junior,Parallel Slalom,9,20.30
+102,Hammerschmidt Lion,Male,27-02-2022,Simonhöhe,AUT,Austria,FIS,Parallel Giant Slalom,21,22.00
+103,Hammerschmidt Lion,Male,26-02-2022,Simonhöhe,AUT,Austria,FIS,Parallel Giant Slalom,20,24.20
+104,Hammerschmidt Lion,Male,20-02-2022,Funes - Vilnoess,ITA,Austria,FIS,Parallel Giant Slalom,17,30.80
+105,Hammerschmidt Lion,Male,19-02-2022,Funes - Vilnoess,ITA,Austria,FIS,Parallel Giant Slalom,21,22.00
+106,Hammerschmidt Lion,Male,06-02-2022,Ebensee,AUT,Austria,FIS,Parallel Slalom,5,31.50
+107,Hammerschmidt Lion,Male,05-02-2022,Ebensee,AUT,Austria,FIS,Parallel Slalom,5,31.50
+108,Hammerschmidt Lion,Male,30-01-2022,Nova Levante - Welschnofen,ITA,Austria,FIS,Parallel Slalom,7,18.00
+109,Hammerschmidt Lion,Male,29-01-2022,Nova Levante - Welschnofen,ITA,Austria,FIS,Parallel Slalom,6,20.00
+110,Hammerschmidt Lion,Male,15-01-2022,Goetschen,GER,Austria,Junior,Parallel Slalom,20,7.70
+111,Hammerschmidt Lion,Male,09-01-2022,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,8,32.00
+112,Hammerschmidt Lion,Male,08-01-2022,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,8,32.00
+113,Hammerschmidt Lion,Male,21-12-2021,Moninec,CZE,Austria,Junior,Parallel Slalom,8,16.00
+114,Hammerschmidt Lion,Male,20-12-2021,Moninec,CZE,Austria,Junior,Parallel Slalom,11,16.80
+115,Hammerschmidt Lion,Male,19-12-2021,Moninec,CZE,Austria,European Cup,Parallel Slalom,27,9.90
+116,Hammerschmidt Lion,Male,18-12-2021,Moninec,CZE,Austria,European Cup,Parallel Slalom,33,4.80

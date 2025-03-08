@@ -1,178 +1,179 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Hughes Jarryd,Male,02-03-2025,Erzurum,TUR,Australia,World Cup,Snowboard Cross Team,13,
-1,Hughes Jarryd,Male,01-03-2025,Erzurum,TUR,Australia,World Cup,Snowboard Cross,19,120.00
-2,Hughes Jarryd,Male,28-02-2025,Erzurum,TUR,Australia,Qualification,Snowboard Cross,22,
-3,Hughes Jarryd,Male,15-02-2025,Cortina d'Ampezzo,ITA,Australia,Qualification,Snowboard Cross,7,
-4,Hughes Jarryd,Male,15-02-2025,Cortina d'Ampezzo,ITA,Australia,World Cup,Snowboard Cross,10,260.00
-5,Hughes Jarryd,Male,02-02-2025,Beidahu,CHN,Australia,World Cup,Snowboard Cross,13,200.00
-6,Hughes Jarryd,Male,02-02-2025,Beidahu,CHN,Australia,Qualification,Snowboard Cross,11,
-7,Hughes Jarryd,Male,01-02-2025,Beidahu,CHN,Australia,World Cup,Snowboard Cross,18,130.00
-8,Hughes Jarryd,Male,31-01-2025,Beidahu,CHN,Australia,Qualification,Snowboard Cross,6,
-9,Hughes Jarryd,Male,14-12-2024,Cervinia,ITA,Australia,World Cup,Snowboard Cross,31,28.00
-10,Hughes Jarryd,Male,13-12-2024,Cervinia,ITA,Australia,Qualification,Snowboard Cross,28,
-11,Hughes Jarryd,Male,27-11-2024,Pitztal,AUT,Australia,European Cup,Snowboard Cross,DNS,
-12,Hughes Jarryd,Male,27-11-2024,Pitztal,AUT,Australia,Qualification,Snowboard Cross,DNS,
-13,Hughes Jarryd,Male,16-03-2024,Montafon,AUT,Australia,World Cup,Snowboard Cross,32,26.00
-14,Hughes Jarryd,Male,15-03-2024,Montafon,AUT,Australia,Qualification,Snowboard Cross,20,
-15,Hughes Jarryd,Male,09-03-2024,Cortina d'Ampezzo,ITA,Australia,World Cup,Snowboard Cross,3,600.00
-16,Hughes Jarryd,Male,08-03-2024,Cortina d'Ampezzo,ITA,Australia,Qualification,Snowboard Cross,4,
-17,Hughes Jarryd,Male,03-03-2024,Sierra Nevada,ESP,Australia,World Cup,Snowboard Cross,24,70.00
-18,Hughes Jarryd,Male,02-03-2024,Sierra Nevada,ESP,Australia,World Cup,Snowboard Cross,42,17.90
-19,Hughes Jarryd,Male,01-03-2024,Sierra Nevada,ESP,Australia,Qualification,Snowboard Cross,43,
-20,Hughes Jarryd,Male,04-02-2024,Gudauri,GEO,Australia,World Cup,Snowboard Cross,44,17.30
-21,Hughes Jarryd,Male,03-02-2024,Gudauri,GEO,Australia,World Cup,Snowboard Cross,12,220.00
-22,Hughes Jarryd,Male,02-02-2024,Gudauri,GEO,Australia,Qualification,Snowboard Cross,21,
-23,Hughes Jarryd,Male,26-01-2024,St. Moritz,SUI,Australia,World Cup,Snowboard Cross,45,17.00
-24,Hughes Jarryd,Male,25-01-2024,St. Moritz,SUI,Australia,Qualification,Snowboard Cross,45,
-25,Hughes Jarryd,Male,16-12-2023,Cervinia,ITA,Australia,World Cup,Snowboard Cross,46,16.70
-26,Hughes Jarryd,Male,03-12-2023,Les Deux Alpes,FRA,Australia,Qualification,Snowboard Cross,28,
-27,Hughes Jarryd,Male,03-12-2023,Les Deux Alpes,FRA,Australia,World Cup,Snowboard Cross,15,160.00
-28,Hughes Jarryd,Male,10-02-2022,Beijing,CHN,Australia,Qualification,Snowboard Cross,28,
-29,Hughes Jarryd,Male,10-02-2022,Beijing,CHN,Australia,Olympic Winter Games,Snowboard Cross,29,
-30,Hughes Jarryd,Male,09-01-2022,Krasnoyarsk,RUS,Australia,World Cup,Snowboard Cross,17,140.00
-31,Hughes Jarryd,Male,08-01-2022,Krasnoyarsk,RUS,Australia,World Cup,Snowboard Cross,36,19.70
-32,Hughes Jarryd,Male,07-01-2022,Krasnoyarsk,RUS,Australia,Qualification,Snowboard Cross,36,
-33,Hughes Jarryd,Male,18-12-2021,Cervinia,ITA,Australia,World Cup,Snowboard Cross,35,20.00
-34,Hughes Jarryd,Male,17-12-2021,Cervinia,ITA,Australia,Qualification,Snowboard Cross,35,
-35,Hughes Jarryd,Male,11-12-2021,Montafon,AUT,Australia,World Cup,Snowboard Cross Team,4,
-36,Hughes Jarryd,Male,10-12-2021,Montafon,AUT,Australia,World Cup,Snowboard Cross,22,90.00
-37,Hughes Jarryd,Male,09-12-2021,Montafon,AUT,Australia,Qualification,Snowboard Cross,28,
-38,Hughes Jarryd,Male,28-11-2021,Secret Garden,CHN,Australia,World Cup,Snowboard Cross,12,220.00
-39,Hughes Jarryd,Male,26-11-2021,Secret Garden,CHN,Australia,Qualification,Snowboard Cross,15,
-40,Hughes Jarryd,Male,29-03-2021,Reiteralm,AUT,Australia,National Championships,Snowboard Cross,3,174.00
-41,Hughes Jarryd,Male,18-02-2021,Reiteralm,AUT,Australia,World Cup,Snowboard Cross,10,260.00
-42,Hughes Jarryd,Male,16-02-2021,Reiteralm,AUT,Australia,Qualification,Snowboard Cross,11,
-43,Hughes Jarryd,Male,12-02-2021,Idre Fjäll,SWE,Australia,World Championships,Snowboard Cross Team,1,
-44,Hughes Jarryd,Male,11-02-2021,Idre Fjäll,SWE,Australia,World Championships,Snowboard Cross,11,240.00
-45,Hughes Jarryd,Male,09-02-2021,Idre Fjäll,SWE,Australia,Qualification,Snowboard Cross,16,
-46,Hughes Jarryd,Male,07-03-2020,Sierra Nevada,ESP,Australia,Qualification,Snowboard Cross,13,
-47,Hughes Jarryd,Male,07-03-2020,Sierra Nevada,ESP,Australia,World Cup,Snowboard Cross,13,200.00
-48,Hughes Jarryd,Male,26-01-2020,Big White,CAN,Australia,World Cup,Snowboard Cross,27,45.00
-49,Hughes Jarryd,Male,25-01-2020,Big White,CAN,Australia,World Cup,Snowboard Cross,11,240.00
-50,Hughes Jarryd,Male,24-01-2020,Big White,CAN,Australia,Qualification,Snowboard Cross,21,
-51,Hughes Jarryd,Male,21-12-2019,Cervinia,ITA,Australia,World Cup,Snowboard Cross,DNS,
-52,Hughes Jarryd,Male,13-12-2019,Montafon,AUT,Australia,World Cup,Snowboard Cross,7,360.00
-53,Hughes Jarryd,Male,12-12-2019,Montafon,AUT,Australia,Qualification,Snowboard Cross,7,
-54,Hughes Jarryd,Male,02-03-2019,Baqueira Beret,ESP,Australia,World Cup,Snowboard Cross,11,240.00
-55,Hughes Jarryd,Male,01-03-2019,Baqueira Beret,ESP,Australia,Qualification,Snowboard Cross,10,
-56,Hughes Jarryd,Male,09-02-2019,Feldberg,GER,Australia,World Cup,Snowboard Cross,31,28.00
-57,Hughes Jarryd,Male,08-02-2019,Feldberg,GER,Australia,Qualification,Snowboard Cross,27,
-58,Hughes Jarryd,Male,01-02-2019,Solitude,USA,Australia,World Championships,Snowboard Cross,35,20.00
-59,Hughes Jarryd,Male,31-01-2019,Solitude,USA,Australia,Qualification,Snowboard Cross,35,
-60,Hughes Jarryd,Male,22-12-2018,Cervinia,ITA,Australia,World Cup,Snowboard Cross,21,100.00
-61,Hughes Jarryd,Male,21-12-2018,Cervinia,ITA,Australia,World Cup,Snowboard Cross,19,120.00
-62,Hughes Jarryd,Male,20-12-2018,Cervinia,ITA,Australia,Qualification,Snowboard Cross,8,
-63,Hughes Jarryd,Male,25-02-2018,Feldberg,GER,Australia,World Cup,Snowboard Cross,6,400.00
-64,Hughes Jarryd,Male,24-02-2018,Feldberg,GER,Australia,World Cup,Snowboard Cross,27,45.00
-65,Hughes Jarryd,Male,24-02-2018,Feldberg,GER,Australia,Qualification,Snowboard Cross,7,
-66,Hughes Jarryd,Male,23-02-2018,Feldberg,GER,Australia,Qualification,Snowboard Cross,7,
-67,Hughes Jarryd,Male,15-02-2018,Phoenix Snow Park,KOR,Australia,Olympic Winter Games,Snowboard Cross,2,800.00
-68,Hughes Jarryd,Male,15-02-2018,Phoenix Snow Park,KOR,Australia,Qualification,Snowboard Cross,25,
-69,Hughes Jarryd,Male,27-01-2018,Bansko,BUL,Australia,World Cup,Snowboardcross,48,16.10
-70,Hughes Jarryd,Male,27-01-2018,Bansko,BUL,Australia,Qualification,Snowboard Cross,25,
-71,Hughes Jarryd,Male,22-12-2017,Cervinia,ITA,Australia,World Cup,Snowboard Cross,33,24.00
-72,Hughes Jarryd,Male,21-12-2017,Cervinia,ITA,Australia,Qualification,Snowboard Cross,33,
-73,Hughes Jarryd,Male,16-12-2017,Montafon,AUT,Australia,World Cup,Snowboardcross,1,1000.00
-74,Hughes Jarryd,Male,15-12-2017,Montafon,AUT,Australia,Qualification,Snowboard Cross,26,
-75,Hughes Jarryd,Male,13-12-2017,Val Thorens,FRA,Australia,World Cup,Snowboardcross,25,60.00
-76,Hughes Jarryd,Male,12-12-2017,Val Thorens,FRA,Australia,Qualification,Snowboard Cross,2,
-77,Hughes Jarryd,Male,10-09-2017,Cerro Catedral,ARG,Australia,World Cup,Snowboardcross,8,320.00
-78,Hughes Jarryd,Male,09-09-2017,Cerro Catedral,ARG,Australia,World Cup,Snowboardcross,15,160.00
-79,Hughes Jarryd,Male,08-09-2017,Cerro Catedral,ARG,Australia,Qualification,Snowboardcross,21,
-80,Hughes Jarryd,Male,12-03-2017,Sierra Nevada,ESP,Australia,World Championships,Snowboardcross,34,
-81,Hughes Jarryd,Male,10-03-2017,Sierra Nevada,ESP,Australia,Qualification,Snowboardcross,8,
-82,Hughes Jarryd,Male,05-03-2017,La Molina,ESP,Australia,World Cup,Snowboardcross,31,28.00
-83,Hughes Jarryd,Male,04-03-2017,La Molina,ESP,Australia,Qualification,Snowboardcross,10,
-84,Hughes Jarryd,Male,25-02-2017,Colere,ITA,Australia,European Cup,Snowboardcross,DNS,
-85,Hughes Jarryd,Male,24-02-2017,Colere,ITA,Australia,European Cup,Snowboardcross,DNS,
-86,Hughes Jarryd,Male,12-02-2017,Feldberg,GER,Australia,World Cup,Snowboardcross,2,800.00
-87,Hughes Jarryd,Male,11-02-2017,Feldberg,GER,Australia,World Cup,Snowboardcross,8,320.00
-88,Hughes Jarryd,Male,10-02-2017,Feldberg,GER,Australia,Qualification,Snowboardcross,14,
-89,Hughes Jarryd,Male,04-02-2017,Bansko,BUL,Australia,World Cup,Snowboardcross,21,100.00
-90,Hughes Jarryd,Male,02-02-2017,Bansko,BUL,Australia,Qualification,Snowboardcross,19,
-91,Hughes Jarryd,Male,22-01-2017,Solitude Mountain Resort,USA,Australia,World Cup,Snowboardcross Team,9,
-92,Hughes Jarryd,Male,21-01-2017,Solitude Mountain Resort,USA,Australia,World Cup,Snowboardcross,8,320.00
-93,Hughes Jarryd,Male,19-01-2017,Solitude Mountain Resort,USA,Australia,Qualification,Snowboardcross,41,
-94,Hughes Jarryd,Male,16-12-2016,Montafon,AUT,Australia,World Cup,Snowboardcross,4,500.00
-95,Hughes Jarryd,Male,15-12-2016,Montafon,AUT,Australia,Qualification,Snowboardcross,2,
-96,Hughes Jarryd,Male,01-12-2016,Pitztal,AUT,Australia,European Cup,Snowboardcross,DNS1,
-97,Hughes Jarryd,Male,30-11-2016,Pitztal,AUT,Australia,European Cup,Snowboardcross,DNS1,
-98,Hughes Jarryd,Male,27-02-2016,Bokwang,KOR,Australia,World Cup,Snowboardcross,DNS,
-99,Hughes Jarryd,Male,25-02-2016,Bokwang,KOR,Australia,Qualification,Snowboardcross,DNS,
-100,Hughes Jarryd,Male,21-02-2016,Sunny Valley,RUS,Australia,World Cup,Snowboardcross,6,400.00
-101,Hughes Jarryd,Male,20-02-2016,Sunny Valley,RUS,Australia,Qualification,Snowboardcross,3,
-102,Hughes Jarryd,Male,24-01-2016,Feldberg,GER,Australia,World Cup,Snowboardcross,28,40.00
-103,Hughes Jarryd,Male,23-01-2016,Feldberg,GER,Australia,World Cup,Snowboardcross,15,160.00
-104,Hughes Jarryd,Male,22-01-2016,Feldberg,GER,Australia,Qualification,Snowboardcross,15,
-105,Hughes Jarryd,Male,12-12-2015,Montafon,AUT,Australia,World Cup,Snowboardcross,17,140.00
-106,Hughes Jarryd,Male,11-12-2015,Montafon,AUT,Australia,Qualification,Snowboardcross,2,
-107,Hughes Jarryd,Male,26-11-2015,Pitztal,AUT,Australia,European Cup,Snowboardcross,DNS1,
-108,Hughes Jarryd,Male,25-11-2015,Pitztal,AUT,Australia,European Cup,Snowboardcross,DNS1,
-109,Hughes Jarryd,Male,21-03-2015,La Molina,ESP,Australia,World Cup,Snowboardcross,34,22.00
-110,Hughes Jarryd,Male,20-03-2015,La Molina,ESP,Australia,Qualification,Snowboardcross,34,
-111,Hughes Jarryd,Male,15-03-2015,Veysonnaz,SUI,Australia,World Cup,Snowboardcross,4,500.00
-112,Hughes Jarryd,Male,14-03-2015,Veysonnaz,SUI,Australia,World Cup,Snowboardcross,8,320.00
-113,Hughes Jarryd,Male,13-03-2015,Veysonnaz,SUI,Australia,Qualification,Snowboardcross,4,
-114,Hughes Jarryd,Male,16-01-2015,Kreischberg,AUT,Australia,World Championships,Snowboardcross,31,28.00
-115,Hughes Jarryd,Male,15-01-2015,Kreischberg,AUT,Australia,Qualification,Snowboardcross,29,
-116,Hughes Jarryd,Male,04-12-2014,Pitztal,AUT,Australia,European Cup,Snowboardcross,4,
-117,Hughes Jarryd,Male,03-12-2014,Pitztal,AUT,Australia,National Championships,Snowboardcross,13,72.00
-118,Hughes Jarryd,Male,02-04-2014,Chiesa in Valmalenco,ITA,Australia,FIS Junior World Championships,Snowboardcross,5,180.00
-119,Hughes Jarryd,Male,15-03-2014,La Molina,ESP,Australia,World Cup,Snowboardcross,44,0.00
-120,Hughes Jarryd,Male,14-03-2014,La Molina,ESP,Australia,Qualification,Snowboardcross,44,
-121,Hughes Jarryd,Male,11-03-2014,Veysonnaz,SUI,Australia,World Cup,Snowboardcross,11,240.00
-122,Hughes Jarryd,Male,10-03-2014,Veysonnaz,SUI,Australia,Qualification,Snowboardcross,18,
-123,Hughes Jarryd,Male,18-02-2014,Rosa Khutor,RUS,Australia,Olympic Winter Games,Snowboardcross,17,140.00
-124,Hughes Jarryd,Male,12-01-2014,Vallnord-Arcalís,AND,Australia,World Cup,Snowboardcross,9,290.00
-125,Hughes Jarryd,Male,11-01-2014,Vallnord-Arcalís,AND,Australia,World Cup,Snowboardcross,11,240.00
-126,Hughes Jarryd,Male,10-01-2014,Vallnord-Arcalís,AND,Australia,Qualification,Snowboardcross,5,
-127,Hughes Jarryd,Male,21-12-2013,Lake Louise,CAN,Australia,World Cup,Snowboardcross,1,1000.00
-128,Hughes Jarryd,Male,20-12-2013,Lake Louise,CAN,Australia,Qualification,Snowboardcross,7,
-129,Hughes Jarryd,Male,07-12-2013,Montafon,AUT,Australia,World Cup,Snowboardcross,8,320.00
-130,Hughes Jarryd,Male,06-12-2013,Montafon,AUT,Australia,Qualification,Snowboardcross,12,
-131,Hughes Jarryd,Male,16-03-2013,Veysonnaz,SUI,Australia,World Cup,Snowboardcross,40,18.50
-132,Hughes Jarryd,Male,15-03-2013,Veysonnaz,SUI,Australia,Qualification,Snowboardcross,12,
-133,Hughes Jarryd,Male,17-02-2013,Sochi,RUS,Australia,World Cup,Snowboardcross,85,
-134,Hughes Jarryd,Male,16-02-2013,Sochi,RUS,Australia,Qualification,Snowboardcross,85,
-135,Hughes Jarryd,Male,02-02-2013,Blue Mountain,CAN,Australia,World Cup,Snowboardcross,32,26.00
-136,Hughes Jarryd,Male,01-02-2013,Blue Mountain,CAN,Australia,Qualification,Snowboardcross,24,
-137,Hughes Jarryd,Male,26-01-2013,Stoneham,CAN,Australia,World Championships,Snowboardcross,11,240.00
-138,Hughes Jarryd,Male,24-01-2013,Stoneham,CAN,Australia,Qualification,Snowboardcross,20,
-139,Hughes Jarryd,Male,14-12-2012,Telluride,USA,Australia,World Cup,Snowboardcross,23,80.00
-140,Hughes Jarryd,Male,12-12-2012,Telluride,USA,Australia,Qualification,Snowboardcross,30,
-141,Hughes Jarryd,Male,07-12-2012,Montafon,AUT,Australia,World Cup,Snowboardcross,61,
-142,Hughes Jarryd,Male,18-09-2012,Cardrona,NZL,Australia,Australian New Zealand Cup,Snowboardcross,8,160.00
-143,Hughes Jarryd,Male,25-03-2012,Sierra Nevada,ESP,Australia,FIS Junior World Championships,Snowboardcross,2,288.00
-144,Hughes Jarryd,Male,16-03-2012,Valmalenco,ITA,Australia,World Cup,Snowboardcross,17,140.00
-145,Hughes Jarryd,Male,15-03-2012,Valmalenco,ITA,Australia,Qualification,Snowboardcross,2,
-146,Hughes Jarryd,Male,14-03-2012,Valmalenco,ITA,Australia,World Cup,Snowboardcross,21,100.00
-147,Hughes Jarryd,Male,13-03-2012,Valmalenco,ITA,Australia,Qualification,Snowboardcross,5,
-148,Hughes Jarryd,Male,21-02-2012,Stoneham,CAN,Australia,World Cup,Snowboardcross,10,260.00
-149,Hughes Jarryd,Male,20-02-2012,Stoneham,CAN,Australia,Qualification,Snowboardcross,32,
-150,Hughes Jarryd,Male,12-02-2012,"Canyons, UT",USA,Australia,Nor-Am Cup,Snowboardcross,3,300.00
-151,Hughes Jarryd,Male,29-01-2012,Big White BC,CAN,Australia,Nor-Am Cup,Snowboardcross,3,132.00
-152,Hughes Jarryd,Male,28-01-2012,Big White BC,CAN,Australia,Nor-Am Cup,Snowboardcross,10,57.20
-153,Hughes Jarryd,Male,22-01-2012,"Copper, CO",USA,Australia,Nor-Am Cup,Snowboardcross,6,88.00
-154,Hughes Jarryd,Male,21-01-2012,"Copper, CO",USA,Australia,Nor-Am Cup,Snowboardcross,7,79.20
-155,Hughes Jarryd,Male,10-12-2011,"Steamboat Springs, CO",USA,Australia,Nor-Am Cup,Parallel Slalom,16,48.00
-156,Hughes Jarryd,Male,09-12-2011,"Steamboat Springs, CO",USA,Australia,Nor-Am Cup,Parallel GS,23,25.60
-157,Hughes Jarryd,Male,15-11-2011,"Copper, CO",USA,Australia,Nor-Am Cup,Parallel Slalom,39,7.52
-158,Hughes Jarryd,Male,14-11-2011,"Copper, CO",USA,Australia,Nor-Am Cup,Parallel GS,37,7.76
-159,Hughes Jarryd,Male,19-08-2011,Cardrona,NZL,Australia,Australian New Zealand Cup,Snowboardcross,13,64.00
-160,Hughes Jarryd,Male,07-08-2011,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboardcross,10,83.20
-161,Hughes Jarryd,Male,29-03-2011,Valmalenco,ITA,Australia,FIS Junior World Championships,Snowboardcross,35,7.20
-162,Hughes Jarryd,Male,18-03-2011,Lenk,SUI,Australia,European Cup,Snowboardcross,39,4.51
-163,Hughes Jarryd,Male,12-02-2011,"The Canyons, UT",USA,Australia,Nor-Am Cup,Snowboardcross,22,45.00
-164,Hughes Jarryd,Male,07-02-2011,"Boreal, CA",USA,Australia,FIS,Snowboardcross,14,32.40
-165,Hughes Jarryd,Male,04-02-2011,"Alpine Meadows, CA",USA,Australia,Nor-Am Cup,Snowboardcross,18,31.20
-166,Hughes Jarryd,Male,03-02-2011,"Alpine Meadows, CA",USA,Australia,Nor-Am Cup,Snowboardcross,20,28.60
-167,Hughes Jarryd,Male,27-01-2011,"Steamboat Springs, CO",USA,Australia,Nor-Am Cup,Snowboardcross,21,24.00
-168,Hughes Jarryd,Male,26-01-2011,"Steamboat Springs, CO",USA,Australia,Nor-Am Cup,Snowboardcross,23,19.20
-169,Hughes Jarryd,Male,20-01-2011,"Mt. Hood Meadows, OR",USA,Australia,Nor-Am Cup,Snowboardcross,32,8.32
-170,Hughes Jarryd,Male,19-01-2011,"Mt. Hood Meadows, OR",USA,Australia,Nor-Am Cup,Snowboardcross,44,6.23
-171,Hughes Jarryd,Male,16-01-2011,Big White,CAN,Australia,Nor-Am Cup,Snowboardcross,22,21.60
-172,Hughes Jarryd,Male,15-01-2011,Big White,CAN,Australia,Nor-Am Cup,Snowboardcross,8,76.80
-173,Hughes Jarryd,Male,14-12-2010,"Copper, CO",USA,Australia,FIS,Halfpipe,56,3.56
-174,Hughes Jarryd,Male,08-08-2010,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboardcross,15,51.20
-175,Hughes Jarryd,Male,07-08-2010,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboardcross,14,57.60
-176,Hughes Jarryd,Male,17-03-2010,Mt. Hood Meadows OR,USA,Australia,FIS,Halfpipe,37,0.97
+0,Hughes Jarryd,Male,07-03-2025,Gudauri,GEO,Australia,Qualification,Snowboard Cross,2,
+1,Hughes Jarryd,Male,02-03-2025,Erzurum,TUR,Australia,World Cup,Snowboard Cross Team,13,
+2,Hughes Jarryd,Male,01-03-2025,Erzurum,TUR,Australia,World Cup,Snowboard Cross,19,120.00
+3,Hughes Jarryd,Male,28-02-2025,Erzurum,TUR,Australia,Qualification,Snowboard Cross,22,
+4,Hughes Jarryd,Male,15-02-2025,Cortina d'Ampezzo,ITA,Australia,Qualification,Snowboard Cross,7,
+5,Hughes Jarryd,Male,15-02-2025,Cortina d'Ampezzo,ITA,Australia,World Cup,Snowboard Cross,10,260.00
+6,Hughes Jarryd,Male,02-02-2025,Beidahu,CHN,Australia,World Cup,Snowboard Cross,13,200.00
+7,Hughes Jarryd,Male,02-02-2025,Beidahu,CHN,Australia,Qualification,Snowboard Cross,11,
+8,Hughes Jarryd,Male,01-02-2025,Beidahu,CHN,Australia,World Cup,Snowboard Cross,18,130.00
+9,Hughes Jarryd,Male,31-01-2025,Beidahu,CHN,Australia,Qualification,Snowboard Cross,6,
+10,Hughes Jarryd,Male,14-12-2024,Cervinia,ITA,Australia,World Cup,Snowboard Cross,31,28.00
+11,Hughes Jarryd,Male,13-12-2024,Cervinia,ITA,Australia,Qualification,Snowboard Cross,28,
+12,Hughes Jarryd,Male,27-11-2024,Pitztal,AUT,Australia,European Cup,Snowboard Cross,DNS,
+13,Hughes Jarryd,Male,27-11-2024,Pitztal,AUT,Australia,Qualification,Snowboard Cross,DNS,
+14,Hughes Jarryd,Male,16-03-2024,Montafon,AUT,Australia,World Cup,Snowboard Cross,32,26.00
+15,Hughes Jarryd,Male,15-03-2024,Montafon,AUT,Australia,Qualification,Snowboard Cross,20,
+16,Hughes Jarryd,Male,09-03-2024,Cortina d'Ampezzo,ITA,Australia,World Cup,Snowboard Cross,3,600.00
+17,Hughes Jarryd,Male,08-03-2024,Cortina d'Ampezzo,ITA,Australia,Qualification,Snowboard Cross,4,
+18,Hughes Jarryd,Male,03-03-2024,Sierra Nevada,ESP,Australia,World Cup,Snowboard Cross,24,70.00
+19,Hughes Jarryd,Male,02-03-2024,Sierra Nevada,ESP,Australia,World Cup,Snowboard Cross,42,17.90
+20,Hughes Jarryd,Male,01-03-2024,Sierra Nevada,ESP,Australia,Qualification,Snowboard Cross,43,
+21,Hughes Jarryd,Male,04-02-2024,Gudauri,GEO,Australia,World Cup,Snowboard Cross,44,17.30
+22,Hughes Jarryd,Male,03-02-2024,Gudauri,GEO,Australia,World Cup,Snowboard Cross,12,220.00
+23,Hughes Jarryd,Male,02-02-2024,Gudauri,GEO,Australia,Qualification,Snowboard Cross,21,
+24,Hughes Jarryd,Male,26-01-2024,St. Moritz,SUI,Australia,World Cup,Snowboard Cross,45,17.00
+25,Hughes Jarryd,Male,25-01-2024,St. Moritz,SUI,Australia,Qualification,Snowboard Cross,45,
+26,Hughes Jarryd,Male,16-12-2023,Cervinia,ITA,Australia,World Cup,Snowboard Cross,46,16.70
+27,Hughes Jarryd,Male,03-12-2023,Les Deux Alpes,FRA,Australia,Qualification,Snowboard Cross,28,
+28,Hughes Jarryd,Male,03-12-2023,Les Deux Alpes,FRA,Australia,World Cup,Snowboard Cross,15,160.00
+29,Hughes Jarryd,Male,10-02-2022,Beijing,CHN,Australia,Qualification,Snowboard Cross,28,
+30,Hughes Jarryd,Male,10-02-2022,Beijing,CHN,Australia,Olympic Winter Games,Snowboard Cross,29,
+31,Hughes Jarryd,Male,09-01-2022,Krasnoyarsk,RUS,Australia,World Cup,Snowboard Cross,17,140.00
+32,Hughes Jarryd,Male,08-01-2022,Krasnoyarsk,RUS,Australia,World Cup,Snowboard Cross,36,19.70
+33,Hughes Jarryd,Male,07-01-2022,Krasnoyarsk,RUS,Australia,Qualification,Snowboard Cross,36,
+34,Hughes Jarryd,Male,18-12-2021,Cervinia,ITA,Australia,World Cup,Snowboard Cross,35,20.00
+35,Hughes Jarryd,Male,17-12-2021,Cervinia,ITA,Australia,Qualification,Snowboard Cross,35,
+36,Hughes Jarryd,Male,11-12-2021,Montafon,AUT,Australia,World Cup,Snowboard Cross Team,4,
+37,Hughes Jarryd,Male,10-12-2021,Montafon,AUT,Australia,World Cup,Snowboard Cross,22,90.00
+38,Hughes Jarryd,Male,09-12-2021,Montafon,AUT,Australia,Qualification,Snowboard Cross,28,
+39,Hughes Jarryd,Male,28-11-2021,Secret Garden,CHN,Australia,World Cup,Snowboard Cross,12,220.00
+40,Hughes Jarryd,Male,26-11-2021,Secret Garden,CHN,Australia,Qualification,Snowboard Cross,15,
+41,Hughes Jarryd,Male,29-03-2021,Reiteralm,AUT,Australia,National Championships,Snowboard Cross,3,174.00
+42,Hughes Jarryd,Male,18-02-2021,Reiteralm,AUT,Australia,World Cup,Snowboard Cross,10,260.00
+43,Hughes Jarryd,Male,16-02-2021,Reiteralm,AUT,Australia,Qualification,Snowboard Cross,11,
+44,Hughes Jarryd,Male,12-02-2021,Idre Fjäll,SWE,Australia,World Championships,Snowboard Cross Team,1,
+45,Hughes Jarryd,Male,11-02-2021,Idre Fjäll,SWE,Australia,World Championships,Snowboard Cross,11,240.00
+46,Hughes Jarryd,Male,09-02-2021,Idre Fjäll,SWE,Australia,Qualification,Snowboard Cross,16,
+47,Hughes Jarryd,Male,07-03-2020,Sierra Nevada,ESP,Australia,Qualification,Snowboard Cross,13,
+48,Hughes Jarryd,Male,07-03-2020,Sierra Nevada,ESP,Australia,World Cup,Snowboard Cross,13,200.00
+49,Hughes Jarryd,Male,26-01-2020,Big White,CAN,Australia,World Cup,Snowboard Cross,27,45.00
+50,Hughes Jarryd,Male,25-01-2020,Big White,CAN,Australia,World Cup,Snowboard Cross,11,240.00
+51,Hughes Jarryd,Male,24-01-2020,Big White,CAN,Australia,Qualification,Snowboard Cross,21,
+52,Hughes Jarryd,Male,21-12-2019,Cervinia,ITA,Australia,World Cup,Snowboard Cross,DNS,
+53,Hughes Jarryd,Male,13-12-2019,Montafon,AUT,Australia,World Cup,Snowboard Cross,7,360.00
+54,Hughes Jarryd,Male,12-12-2019,Montafon,AUT,Australia,Qualification,Snowboard Cross,7,
+55,Hughes Jarryd,Male,02-03-2019,Baqueira Beret,ESP,Australia,World Cup,Snowboard Cross,11,240.00
+56,Hughes Jarryd,Male,01-03-2019,Baqueira Beret,ESP,Australia,Qualification,Snowboard Cross,10,
+57,Hughes Jarryd,Male,09-02-2019,Feldberg,GER,Australia,World Cup,Snowboard Cross,31,28.00
+58,Hughes Jarryd,Male,08-02-2019,Feldberg,GER,Australia,Qualification,Snowboard Cross,27,
+59,Hughes Jarryd,Male,01-02-2019,Solitude,USA,Australia,World Championships,Snowboard Cross,35,20.00
+60,Hughes Jarryd,Male,31-01-2019,Solitude,USA,Australia,Qualification,Snowboard Cross,35,
+61,Hughes Jarryd,Male,22-12-2018,Cervinia,ITA,Australia,World Cup,Snowboard Cross,21,100.00
+62,Hughes Jarryd,Male,21-12-2018,Cervinia,ITA,Australia,World Cup,Snowboard Cross,19,120.00
+63,Hughes Jarryd,Male,20-12-2018,Cervinia,ITA,Australia,Qualification,Snowboard Cross,8,
+64,Hughes Jarryd,Male,25-02-2018,Feldberg,GER,Australia,World Cup,Snowboard Cross,6,400.00
+65,Hughes Jarryd,Male,24-02-2018,Feldberg,GER,Australia,World Cup,Snowboard Cross,27,45.00
+66,Hughes Jarryd,Male,24-02-2018,Feldberg,GER,Australia,Qualification,Snowboard Cross,7,
+67,Hughes Jarryd,Male,23-02-2018,Feldberg,GER,Australia,Qualification,Snowboard Cross,7,
+68,Hughes Jarryd,Male,15-02-2018,Phoenix Snow Park,KOR,Australia,Olympic Winter Games,Snowboard Cross,2,800.00
+69,Hughes Jarryd,Male,15-02-2018,Phoenix Snow Park,KOR,Australia,Qualification,Snowboard Cross,25,
+70,Hughes Jarryd,Male,27-01-2018,Bansko,BUL,Australia,World Cup,Snowboardcross,48,16.10
+71,Hughes Jarryd,Male,27-01-2018,Bansko,BUL,Australia,Qualification,Snowboard Cross,25,
+72,Hughes Jarryd,Male,22-12-2017,Cervinia,ITA,Australia,World Cup,Snowboard Cross,33,24.00
+73,Hughes Jarryd,Male,21-12-2017,Cervinia,ITA,Australia,Qualification,Snowboard Cross,33,
+74,Hughes Jarryd,Male,16-12-2017,Montafon,AUT,Australia,World Cup,Snowboardcross,1,1000.00
+75,Hughes Jarryd,Male,15-12-2017,Montafon,AUT,Australia,Qualification,Snowboard Cross,26,
+76,Hughes Jarryd,Male,13-12-2017,Val Thorens,FRA,Australia,World Cup,Snowboardcross,25,60.00
+77,Hughes Jarryd,Male,12-12-2017,Val Thorens,FRA,Australia,Qualification,Snowboard Cross,2,
+78,Hughes Jarryd,Male,10-09-2017,Cerro Catedral,ARG,Australia,World Cup,Snowboardcross,8,320.00
+79,Hughes Jarryd,Male,09-09-2017,Cerro Catedral,ARG,Australia,World Cup,Snowboardcross,15,160.00
+80,Hughes Jarryd,Male,08-09-2017,Cerro Catedral,ARG,Australia,Qualification,Snowboardcross,21,
+81,Hughes Jarryd,Male,12-03-2017,Sierra Nevada,ESP,Australia,World Championships,Snowboardcross,34,
+82,Hughes Jarryd,Male,10-03-2017,Sierra Nevada,ESP,Australia,Qualification,Snowboardcross,8,
+83,Hughes Jarryd,Male,05-03-2017,La Molina,ESP,Australia,World Cup,Snowboardcross,31,28.00
+84,Hughes Jarryd,Male,04-03-2017,La Molina,ESP,Australia,Qualification,Snowboardcross,10,
+85,Hughes Jarryd,Male,25-02-2017,Colere,ITA,Australia,European Cup,Snowboardcross,DNS,
+86,Hughes Jarryd,Male,24-02-2017,Colere,ITA,Australia,European Cup,Snowboardcross,DNS,
+87,Hughes Jarryd,Male,12-02-2017,Feldberg,GER,Australia,World Cup,Snowboardcross,2,800.00
+88,Hughes Jarryd,Male,11-02-2017,Feldberg,GER,Australia,World Cup,Snowboardcross,8,320.00
+89,Hughes Jarryd,Male,10-02-2017,Feldberg,GER,Australia,Qualification,Snowboardcross,14,
+90,Hughes Jarryd,Male,04-02-2017,Bansko,BUL,Australia,World Cup,Snowboardcross,21,100.00
+91,Hughes Jarryd,Male,02-02-2017,Bansko,BUL,Australia,Qualification,Snowboardcross,19,
+92,Hughes Jarryd,Male,22-01-2017,Solitude Mountain Resort,USA,Australia,World Cup,Snowboardcross Team,9,
+93,Hughes Jarryd,Male,21-01-2017,Solitude Mountain Resort,USA,Australia,World Cup,Snowboardcross,8,320.00
+94,Hughes Jarryd,Male,19-01-2017,Solitude Mountain Resort,USA,Australia,Qualification,Snowboardcross,41,
+95,Hughes Jarryd,Male,16-12-2016,Montafon,AUT,Australia,World Cup,Snowboardcross,4,500.00
+96,Hughes Jarryd,Male,15-12-2016,Montafon,AUT,Australia,Qualification,Snowboardcross,2,
+97,Hughes Jarryd,Male,01-12-2016,Pitztal,AUT,Australia,European Cup,Snowboardcross,DNS1,
+98,Hughes Jarryd,Male,30-11-2016,Pitztal,AUT,Australia,European Cup,Snowboardcross,DNS1,
+99,Hughes Jarryd,Male,27-02-2016,Bokwang,KOR,Australia,World Cup,Snowboardcross,DNS,
+100,Hughes Jarryd,Male,25-02-2016,Bokwang,KOR,Australia,Qualification,Snowboardcross,DNS,
+101,Hughes Jarryd,Male,21-02-2016,Sunny Valley,RUS,Australia,World Cup,Snowboardcross,6,400.00
+102,Hughes Jarryd,Male,20-02-2016,Sunny Valley,RUS,Australia,Qualification,Snowboardcross,3,
+103,Hughes Jarryd,Male,24-01-2016,Feldberg,GER,Australia,World Cup,Snowboardcross,28,40.00
+104,Hughes Jarryd,Male,23-01-2016,Feldberg,GER,Australia,World Cup,Snowboardcross,15,160.00
+105,Hughes Jarryd,Male,22-01-2016,Feldberg,GER,Australia,Qualification,Snowboardcross,15,
+106,Hughes Jarryd,Male,12-12-2015,Montafon,AUT,Australia,World Cup,Snowboardcross,17,140.00
+107,Hughes Jarryd,Male,11-12-2015,Montafon,AUT,Australia,Qualification,Snowboardcross,2,
+108,Hughes Jarryd,Male,26-11-2015,Pitztal,AUT,Australia,European Cup,Snowboardcross,DNS1,
+109,Hughes Jarryd,Male,25-11-2015,Pitztal,AUT,Australia,European Cup,Snowboardcross,DNS1,
+110,Hughes Jarryd,Male,21-03-2015,La Molina,ESP,Australia,World Cup,Snowboardcross,34,22.00
+111,Hughes Jarryd,Male,20-03-2015,La Molina,ESP,Australia,Qualification,Snowboardcross,34,
+112,Hughes Jarryd,Male,15-03-2015,Veysonnaz,SUI,Australia,World Cup,Snowboardcross,4,500.00
+113,Hughes Jarryd,Male,14-03-2015,Veysonnaz,SUI,Australia,World Cup,Snowboardcross,8,320.00
+114,Hughes Jarryd,Male,13-03-2015,Veysonnaz,SUI,Australia,Qualification,Snowboardcross,4,
+115,Hughes Jarryd,Male,16-01-2015,Kreischberg,AUT,Australia,World Championships,Snowboardcross,31,28.00
+116,Hughes Jarryd,Male,15-01-2015,Kreischberg,AUT,Australia,Qualification,Snowboardcross,29,
+117,Hughes Jarryd,Male,04-12-2014,Pitztal,AUT,Australia,European Cup,Snowboardcross,4,
+118,Hughes Jarryd,Male,03-12-2014,Pitztal,AUT,Australia,National Championships,Snowboardcross,13,72.00
+119,Hughes Jarryd,Male,02-04-2014,Chiesa in Valmalenco,ITA,Australia,FIS Junior World Championships,Snowboardcross,5,180.00
+120,Hughes Jarryd,Male,15-03-2014,La Molina,ESP,Australia,World Cup,Snowboardcross,44,0.00
+121,Hughes Jarryd,Male,14-03-2014,La Molina,ESP,Australia,Qualification,Snowboardcross,44,
+122,Hughes Jarryd,Male,11-03-2014,Veysonnaz,SUI,Australia,World Cup,Snowboardcross,11,240.00
+123,Hughes Jarryd,Male,10-03-2014,Veysonnaz,SUI,Australia,Qualification,Snowboardcross,18,
+124,Hughes Jarryd,Male,18-02-2014,Rosa Khutor,RUS,Australia,Olympic Winter Games,Snowboardcross,17,140.00
+125,Hughes Jarryd,Male,12-01-2014,Vallnord-Arcalís,AND,Australia,World Cup,Snowboardcross,9,290.00
+126,Hughes Jarryd,Male,11-01-2014,Vallnord-Arcalís,AND,Australia,World Cup,Snowboardcross,11,240.00
+127,Hughes Jarryd,Male,10-01-2014,Vallnord-Arcalís,AND,Australia,Qualification,Snowboardcross,5,
+128,Hughes Jarryd,Male,21-12-2013,Lake Louise,CAN,Australia,World Cup,Snowboardcross,1,1000.00
+129,Hughes Jarryd,Male,20-12-2013,Lake Louise,CAN,Australia,Qualification,Snowboardcross,7,
+130,Hughes Jarryd,Male,07-12-2013,Montafon,AUT,Australia,World Cup,Snowboardcross,8,320.00
+131,Hughes Jarryd,Male,06-12-2013,Montafon,AUT,Australia,Qualification,Snowboardcross,12,
+132,Hughes Jarryd,Male,16-03-2013,Veysonnaz,SUI,Australia,World Cup,Snowboardcross,40,18.50
+133,Hughes Jarryd,Male,15-03-2013,Veysonnaz,SUI,Australia,Qualification,Snowboardcross,12,
+134,Hughes Jarryd,Male,17-02-2013,Sochi,RUS,Australia,World Cup,Snowboardcross,85,
+135,Hughes Jarryd,Male,16-02-2013,Sochi,RUS,Australia,Qualification,Snowboardcross,85,
+136,Hughes Jarryd,Male,02-02-2013,Blue Mountain,CAN,Australia,World Cup,Snowboardcross,32,26.00
+137,Hughes Jarryd,Male,01-02-2013,Blue Mountain,CAN,Australia,Qualification,Snowboardcross,24,
+138,Hughes Jarryd,Male,26-01-2013,Stoneham,CAN,Australia,World Championships,Snowboardcross,11,240.00
+139,Hughes Jarryd,Male,24-01-2013,Stoneham,CAN,Australia,Qualification,Snowboardcross,20,
+140,Hughes Jarryd,Male,14-12-2012,Telluride,USA,Australia,World Cup,Snowboardcross,23,80.00
+141,Hughes Jarryd,Male,12-12-2012,Telluride,USA,Australia,Qualification,Snowboardcross,30,
+142,Hughes Jarryd,Male,07-12-2012,Montafon,AUT,Australia,World Cup,Snowboardcross,61,
+143,Hughes Jarryd,Male,18-09-2012,Cardrona,NZL,Australia,Australian New Zealand Cup,Snowboardcross,8,160.00
+144,Hughes Jarryd,Male,25-03-2012,Sierra Nevada,ESP,Australia,FIS Junior World Championships,Snowboardcross,2,288.00
+145,Hughes Jarryd,Male,16-03-2012,Valmalenco,ITA,Australia,World Cup,Snowboardcross,17,140.00
+146,Hughes Jarryd,Male,15-03-2012,Valmalenco,ITA,Australia,Qualification,Snowboardcross,2,
+147,Hughes Jarryd,Male,14-03-2012,Valmalenco,ITA,Australia,World Cup,Snowboardcross,21,100.00
+148,Hughes Jarryd,Male,13-03-2012,Valmalenco,ITA,Australia,Qualification,Snowboardcross,5,
+149,Hughes Jarryd,Male,21-02-2012,Stoneham,CAN,Australia,World Cup,Snowboardcross,10,260.00
+150,Hughes Jarryd,Male,20-02-2012,Stoneham,CAN,Australia,Qualification,Snowboardcross,32,
+151,Hughes Jarryd,Male,12-02-2012,"Canyons, UT",USA,Australia,Nor-Am Cup,Snowboardcross,3,300.00
+152,Hughes Jarryd,Male,29-01-2012,Big White BC,CAN,Australia,Nor-Am Cup,Snowboardcross,3,132.00
+153,Hughes Jarryd,Male,28-01-2012,Big White BC,CAN,Australia,Nor-Am Cup,Snowboardcross,10,57.20
+154,Hughes Jarryd,Male,22-01-2012,"Copper, CO",USA,Australia,Nor-Am Cup,Snowboardcross,6,88.00
+155,Hughes Jarryd,Male,21-01-2012,"Copper, CO",USA,Australia,Nor-Am Cup,Snowboardcross,7,79.20
+156,Hughes Jarryd,Male,10-12-2011,"Steamboat Springs, CO",USA,Australia,Nor-Am Cup,Parallel Slalom,16,48.00
+157,Hughes Jarryd,Male,09-12-2011,"Steamboat Springs, CO",USA,Australia,Nor-Am Cup,Parallel GS,23,25.60
+158,Hughes Jarryd,Male,15-11-2011,"Copper, CO",USA,Australia,Nor-Am Cup,Parallel Slalom,39,7.52
+159,Hughes Jarryd,Male,14-11-2011,"Copper, CO",USA,Australia,Nor-Am Cup,Parallel GS,37,7.76
+160,Hughes Jarryd,Male,19-08-2011,Cardrona,NZL,Australia,Australian New Zealand Cup,Snowboardcross,13,64.00
+161,Hughes Jarryd,Male,07-08-2011,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboardcross,10,83.20
+162,Hughes Jarryd,Male,29-03-2011,Valmalenco,ITA,Australia,FIS Junior World Championships,Snowboardcross,35,7.20
+163,Hughes Jarryd,Male,18-03-2011,Lenk,SUI,Australia,European Cup,Snowboardcross,39,4.51
+164,Hughes Jarryd,Male,12-02-2011,"The Canyons, UT",USA,Australia,Nor-Am Cup,Snowboardcross,22,45.00
+165,Hughes Jarryd,Male,07-02-2011,"Boreal, CA",USA,Australia,FIS,Snowboardcross,14,32.40
+166,Hughes Jarryd,Male,04-02-2011,"Alpine Meadows, CA",USA,Australia,Nor-Am Cup,Snowboardcross,18,31.20
+167,Hughes Jarryd,Male,03-02-2011,"Alpine Meadows, CA",USA,Australia,Nor-Am Cup,Snowboardcross,20,28.60
+168,Hughes Jarryd,Male,27-01-2011,"Steamboat Springs, CO",USA,Australia,Nor-Am Cup,Snowboardcross,21,24.00
+169,Hughes Jarryd,Male,26-01-2011,"Steamboat Springs, CO",USA,Australia,Nor-Am Cup,Snowboardcross,23,19.20
+170,Hughes Jarryd,Male,20-01-2011,"Mt. Hood Meadows, OR",USA,Australia,Nor-Am Cup,Snowboardcross,32,8.32
+171,Hughes Jarryd,Male,19-01-2011,"Mt. Hood Meadows, OR",USA,Australia,Nor-Am Cup,Snowboardcross,44,6.23
+172,Hughes Jarryd,Male,16-01-2011,Big White,CAN,Australia,Nor-Am Cup,Snowboardcross,22,21.60
+173,Hughes Jarryd,Male,15-01-2011,Big White,CAN,Australia,Nor-Am Cup,Snowboardcross,8,76.80
+174,Hughes Jarryd,Male,14-12-2010,"Copper, CO",USA,Australia,FIS,Halfpipe,56,3.56
+175,Hughes Jarryd,Male,08-08-2010,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboardcross,15,51.20
+176,Hughes Jarryd,Male,07-08-2010,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboardcross,14,57.60
+177,Hughes Jarryd,Male,17-03-2010,Mt. Hood Meadows OR,USA,Australia,FIS,Halfpipe,37,0.97

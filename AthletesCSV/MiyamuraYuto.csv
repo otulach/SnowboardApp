@@ -1,72 +1,74 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Miyamura Yuto,Male,01-03-2025,Hakuba,JPN,Japan,Asian Cup,Slopestyle,4,139.80
-1,Miyamura Yuto,Male,22-02-2025,Calgary,CAN,Japan,World Cup,Slopestyle,11,267.80
-2,Miyamura Yuto,Male,20-02-2025,Calgary,CAN,Japan,Qualification,Slopestyle,7,
-3,Miyamura Yuto,Male,06-02-2025,Aspen,USA,Japan,World Cup,Big Air,3,694.80
-4,Miyamura Yuto,Male,05-02-2025,Aspen,USA,Japan,Qualification,Big Air,3,
-5,Miyamura Yuto,Male,02-02-2025,Aspen,USA,Japan,World Cup,Slopestyle,20,170.20
-6,Miyamura Yuto,Male,31-01-2025,Aspen,USA,Japan,Qualification,Slopestyle,12,
-7,Miyamura Yuto,Male,18-01-2025,Laax,SUI,Japan,World Cup,Slopestyle,16,204.20
-8,Miyamura Yuto,Male,16-01-2025,Laax,SUI,Japan,Qualification,Slopestyle,11,
-9,Miyamura Yuto,Male,11-01-2025,Kreischberg,AUT,Japan,Qualification,Big Air,26,
-10,Miyamura Yuto,Male,11-01-2025,Kreischberg,AUT,Japan,World Cup,Big Air,51,18.70
-11,Miyamura Yuto,Male,05-01-2025,Klagenfurt,AUT,Japan,Qualification,Big Air,23,
-12,Miyamura Yuto,Male,05-01-2025,Klagenfurt,AUT,Japan,World Cup,Big Air,42,27.40
-13,Miyamura Yuto,Male,01-12-2024,Beijing,CHN,Japan,World Cup,Big Air,11,263.60
-14,Miyamura Yuto,Male,30-11-2024,Beijing,CHN,Japan,Qualification,Big Air,6,
-15,Miyamura Yuto,Male,19-10-2024,Chur,SUI,Japan,World Cup,Big Air,25,118.70
-16,Miyamura Yuto,Male,30-09-2024,Cardrona,NZL,Japan,Australian New Zealand Cup,Big Air,4,206.30
-17,Miyamura Yuto,Male,02-09-2024,Cardrona,NZL,Japan,World Cup,Slopestyle,26,133.70
-18,Miyamura Yuto,Male,31-08-2024,Cardrona,NZL,Japan,Qualification,Slopestyle,11,
-19,Miyamura Yuto,Male,14-04-2024,Corvatsch,SUI,Japan,European Cup Premium,Big Air,2,415.60
-20,Miyamura Yuto,Male,12-04-2024,Corvatsch,SUI,Japan,European Cup Premium,Slopestyle,7,201.40
-21,Miyamura Yuto,Male,23-03-2024,Silvaplana,SUI,Japan,World Cup,Slopestyle,58,4.50
-22,Miyamura Yuto,Male,21-03-2024,Silvaplana,SUI,Japan,Qualification,Slopestyle,29,
-23,Miyamura Yuto,Male,15-03-2024,Tignes,FRA,Japan,World Cup,Slopestyle,6,441.40
-24,Miyamura Yuto,Male,15-03-2024,Tignes,FRA,Japan,Qualification,Slopestyle,5,
-25,Miyamura Yuto,Male,05-03-2024,Tiger Ridge Ski Resort,CHN,Japan,Asian Cup,Slopestyle,4,87.40
-26,Miyamura Yuto,Male,04-03-2024,Tiger Ridge Mountain Park,CHN,Japan,Asian Cup,Slopestyle,2,130.40
-27,Miyamura Yuto,Male,28-02-2024,Hakuba,JPN,Japan,Asian Cup,Slopestyle,1,240.00
-28,Miyamura Yuto,Male,17-02-2024,Fukushima Yama,JPN,Japan,Asian Cup,Big Air,7,129.50
-29,Miyamura Yuto,Male,08-02-2024,Mammoth Mountain,USA,Japan,Nor-Am Cup Premium,Slopestyle,4,294.40
-30,Miyamura Yuto,Male,20-01-2024,Laax,SUI,Japan,World Cup,Slopestyle,54,21.80
-31,Miyamura Yuto,Male,16-01-2024,Laax,SUI,Japan,Qualification,Slopestyle,27,
-32,Miyamura Yuto,Male,15-12-2023,Copper Mountain,USA,Japan,World Cup,Big Air,7,390.60
-33,Miyamura Yuto,Male,13-12-2023,Copper Mountain,USA,Japan,Qualification,Big Air,1,
-34,Miyamura Yuto,Male,09-12-2023,Edmonton,CAN,Japan,World Cup,Big Air,4,589.90
-35,Miyamura Yuto,Male,08-12-2023,Edmonton,CAN,Japan,Qualification,Big Air,2,
-36,Miyamura Yuto,Male,02-12-2023,Beijing,CHN,Japan,World Cup,Big Air,11,252.10
-37,Miyamura Yuto,Male,01-12-2023,Beijing,CHN,Japan,Qualification,Big Air,6,
-38,Miyamura Yuto,Male,21-10-2023,Chur,SUI,Japan,World Cup,Big Air,23,151.30
-39,Miyamura Yuto,Male,21-10-2023,Chur,SUI,Japan,Qualification,Big Air,10,
-40,Miyamura Yuto,Male,29-09-2023,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,28,33.90
-41,Miyamura Yuto,Male,04-09-2023,Cardrona,NZL,Japan,FIS Junior World Championships,Big Air,4,212.70
-42,Miyamura Yuto,Male,02-09-2023,Cardrona,NZL,Japan,Qualification,Big Air,3,
-43,Miyamura Yuto,Male,30-08-2023,Cardrona,NZL,Japan,FIS Junior World Championships,Slopestyle,3,250.90
-44,Miyamura Yuto,Male,28-08-2023,Cardrona,NZL,Japan,Qualification,Slopestyle,7,
-45,Miyamura Yuto,Male,31-03-2023,Hakuba,JPN,Japan,Asian Cup,Big Air,16,18.60
-46,Miyamura Yuto,Male,29-03-2023,Hakuba,JPN,Japan,Asian Cup,Slopestyle,2,181.90
-47,Miyamura Yuto,Male,25-03-2023,Niseko,JPN,Japan,National Championships,Big Air,6,76.90
-48,Miyamura Yuto,Male,24-03-2023,Niseko,JPN,Japan,National Championships,Slopestyle,6,94.00
-49,Miyamura Yuto,Male,10-03-2023,Horseshoe Resort,CAN,Japan,Nor-Am Cup,Big Air,2,148.50
-50,Miyamura Yuto,Male,09-03-2023,Horseshoe Resort,CAN,Japan,Nor-Am Cup,Slopestyle,14,41.00
-51,Miyamura Yuto,Male,08-03-2023,Horseshoe Resort,CAN,Japan,Nor-Am Cup,Slopestyle,6,94.50
-52,Miyamura Yuto,Male,16-02-2023,Winsport Calgary,CAN,Japan,Nor-Am Cup,Big Air,1,130.00
-53,Miyamura Yuto,Male,15-02-2023,Winsport Calgary,CAN,Japan,Nor-Am Cup,Slopestyle,4,170.20
-54,Miyamura Yuto,Male,12-02-2023,Calgary,CAN,Japan,World Cup,Slopestyle,12,182.00
-55,Miyamura Yuto,Male,10-02-2023,Calgary,CAN,Japan,Qualification,Slopestyle,8,
-56,Miyamura Yuto,Male,29-01-2023,Niseko,JPN,Japan,FIS,Slopestyle,2,132.60
-57,Miyamura Yuto,Male,28-01-2023,Niseko,JPN,Japan,FIS,Slopestyle,16,29.60
-58,Miyamura Yuto,Male,02-09-2022,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,11,75.50
-59,Miyamura Yuto,Male,06-03-2022,Niseko,JPN,Japan,National Championships,Big Air,6,86.80
-60,Miyamura Yuto,Male,05-03-2022,Niseko,JPN,Japan,National Championships,Slopestyle,6,87.10
-61,Miyamura Yuto,Male,30-01-2022,Niseko,JPN,Japan,FIS,Slopestyle,7,50.80
-62,Miyamura Yuto,Male,29-01-2022,Niseko,JPN,Japan,FIS,Slopestyle,7,50.90
-63,Miyamura Yuto,Male,10-04-2021,Ajigasawa,JPN,Japan,National Championships,Big Air,17,19.35
-64,Miyamura Yuto,Male,31-03-2021,Tsugaike,JPN,Japan,FIS,Big Air,3,41.43
-65,Miyamura Yuto,Male,31-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,15,21.62
-66,Miyamura Yuto,Male,30-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,7,42.24
-67,Miyamura Yuto,Male,01-03-2020,Oze-Tokura,JPN,Japan,FIS,Big Air,10,18.20
-68,Miyamura Yuto,Male,29-02-2020,Oze-Tokura,JPN,Japan,FIS,Slopestyle,12,19.80
-69,Miyamura Yuto,Male,26-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,18,20.80
-70,Miyamura Yuto,Male,25-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,5,72.00
+0,Miyamura Yuto,Male,05-03-2025,Tsugaike,JPN,Japan,National Championships,Big Air,9,87.80
+1,Miyamura Yuto,Male,04-03-2025,Tsugaike,JPN,Japan,National Championships,Slopestyle,2,264.00
+2,Miyamura Yuto,Male,01-03-2025,Hakuba,JPN,Japan,Asian Cup,Slopestyle,4,139.80
+3,Miyamura Yuto,Male,22-02-2025,Calgary,CAN,Japan,World Cup,Slopestyle,11,267.80
+4,Miyamura Yuto,Male,20-02-2025,Calgary,CAN,Japan,Qualification,Slopestyle,7,
+5,Miyamura Yuto,Male,06-02-2025,Aspen,USA,Japan,World Cup,Big Air,3,694.80
+6,Miyamura Yuto,Male,05-02-2025,Aspen,USA,Japan,Qualification,Big Air,3,
+7,Miyamura Yuto,Male,02-02-2025,Aspen,USA,Japan,World Cup,Slopestyle,20,170.20
+8,Miyamura Yuto,Male,31-01-2025,Aspen,USA,Japan,Qualification,Slopestyle,12,
+9,Miyamura Yuto,Male,18-01-2025,Laax,SUI,Japan,World Cup,Slopestyle,16,204.20
+10,Miyamura Yuto,Male,16-01-2025,Laax,SUI,Japan,Qualification,Slopestyle,11,
+11,Miyamura Yuto,Male,11-01-2025,Kreischberg,AUT,Japan,World Cup,Big Air,51,18.70
+12,Miyamura Yuto,Male,11-01-2025,Kreischberg,AUT,Japan,Qualification,Big Air,26,
+13,Miyamura Yuto,Male,05-01-2025,Klagenfurt,AUT,Japan,Qualification,Big Air,23,
+14,Miyamura Yuto,Male,05-01-2025,Klagenfurt,AUT,Japan,World Cup,Big Air,42,27.40
+15,Miyamura Yuto,Male,01-12-2024,Beijing,CHN,Japan,World Cup,Big Air,11,263.60
+16,Miyamura Yuto,Male,30-11-2024,Beijing,CHN,Japan,Qualification,Big Air,6,
+17,Miyamura Yuto,Male,19-10-2024,Chur,SUI,Japan,World Cup,Big Air,25,118.70
+18,Miyamura Yuto,Male,30-09-2024,Cardrona,NZL,Japan,Australian New Zealand Cup,Big Air,4,206.30
+19,Miyamura Yuto,Male,02-09-2024,Cardrona,NZL,Japan,World Cup,Slopestyle,26,133.70
+20,Miyamura Yuto,Male,31-08-2024,Cardrona,NZL,Japan,Qualification,Slopestyle,11,
+21,Miyamura Yuto,Male,14-04-2024,Corvatsch,SUI,Japan,European Cup Premium,Big Air,2,415.60
+22,Miyamura Yuto,Male,12-04-2024,Corvatsch,SUI,Japan,European Cup Premium,Slopestyle,7,201.40
+23,Miyamura Yuto,Male,23-03-2024,Silvaplana,SUI,Japan,World Cup,Slopestyle,58,4.50
+24,Miyamura Yuto,Male,21-03-2024,Silvaplana,SUI,Japan,Qualification,Slopestyle,29,
+25,Miyamura Yuto,Male,15-03-2024,Tignes,FRA,Japan,World Cup,Slopestyle,6,441.40
+26,Miyamura Yuto,Male,15-03-2024,Tignes,FRA,Japan,Qualification,Slopestyle,5,
+27,Miyamura Yuto,Male,05-03-2024,Tiger Ridge Ski Resort,CHN,Japan,Asian Cup,Slopestyle,4,87.40
+28,Miyamura Yuto,Male,04-03-2024,Tiger Ridge Mountain Park,CHN,Japan,Asian Cup,Slopestyle,2,130.40
+29,Miyamura Yuto,Male,28-02-2024,Hakuba,JPN,Japan,Asian Cup,Slopestyle,1,240.00
+30,Miyamura Yuto,Male,17-02-2024,Fukushima Yama,JPN,Japan,Asian Cup,Big Air,7,129.50
+31,Miyamura Yuto,Male,08-02-2024,Mammoth Mountain,USA,Japan,Nor-Am Cup Premium,Slopestyle,4,294.40
+32,Miyamura Yuto,Male,20-01-2024,Laax,SUI,Japan,World Cup,Slopestyle,54,21.80
+33,Miyamura Yuto,Male,16-01-2024,Laax,SUI,Japan,Qualification,Slopestyle,27,
+34,Miyamura Yuto,Male,15-12-2023,Copper Mountain,USA,Japan,World Cup,Big Air,7,390.60
+35,Miyamura Yuto,Male,13-12-2023,Copper Mountain,USA,Japan,Qualification,Big Air,1,
+36,Miyamura Yuto,Male,09-12-2023,Edmonton,CAN,Japan,World Cup,Big Air,4,589.90
+37,Miyamura Yuto,Male,08-12-2023,Edmonton,CAN,Japan,Qualification,Big Air,2,
+38,Miyamura Yuto,Male,02-12-2023,Beijing,CHN,Japan,World Cup,Big Air,11,252.10
+39,Miyamura Yuto,Male,01-12-2023,Beijing,CHN,Japan,Qualification,Big Air,6,
+40,Miyamura Yuto,Male,21-10-2023,Chur,SUI,Japan,World Cup,Big Air,23,151.30
+41,Miyamura Yuto,Male,21-10-2023,Chur,SUI,Japan,Qualification,Big Air,10,
+42,Miyamura Yuto,Male,29-09-2023,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,28,33.90
+43,Miyamura Yuto,Male,04-09-2023,Cardrona,NZL,Japan,FIS Junior World Championships,Big Air,4,212.70
+44,Miyamura Yuto,Male,02-09-2023,Cardrona,NZL,Japan,Qualification,Big Air,3,
+45,Miyamura Yuto,Male,30-08-2023,Cardrona,NZL,Japan,FIS Junior World Championships,Slopestyle,3,250.90
+46,Miyamura Yuto,Male,28-08-2023,Cardrona,NZL,Japan,Qualification,Slopestyle,7,
+47,Miyamura Yuto,Male,31-03-2023,Hakuba,JPN,Japan,Asian Cup,Big Air,16,18.60
+48,Miyamura Yuto,Male,29-03-2023,Hakuba,JPN,Japan,Asian Cup,Slopestyle,2,181.90
+49,Miyamura Yuto,Male,25-03-2023,Niseko,JPN,Japan,National Championships,Big Air,6,76.90
+50,Miyamura Yuto,Male,24-03-2023,Niseko,JPN,Japan,National Championships,Slopestyle,6,94.00
+51,Miyamura Yuto,Male,10-03-2023,Horseshoe Resort,CAN,Japan,Nor-Am Cup,Big Air,2,148.50
+52,Miyamura Yuto,Male,09-03-2023,Horseshoe Resort,CAN,Japan,Nor-Am Cup,Slopestyle,14,41.00
+53,Miyamura Yuto,Male,08-03-2023,Horseshoe Resort,CAN,Japan,Nor-Am Cup,Slopestyle,6,94.50
+54,Miyamura Yuto,Male,16-02-2023,Winsport Calgary,CAN,Japan,Nor-Am Cup,Big Air,1,130.00
+55,Miyamura Yuto,Male,15-02-2023,Winsport Calgary,CAN,Japan,Nor-Am Cup,Slopestyle,4,170.20
+56,Miyamura Yuto,Male,12-02-2023,Calgary,CAN,Japan,World Cup,Slopestyle,12,182.00
+57,Miyamura Yuto,Male,10-02-2023,Calgary,CAN,Japan,Qualification,Slopestyle,8,
+58,Miyamura Yuto,Male,29-01-2023,Niseko,JPN,Japan,FIS,Slopestyle,2,132.60
+59,Miyamura Yuto,Male,28-01-2023,Niseko,JPN,Japan,FIS,Slopestyle,16,29.60
+60,Miyamura Yuto,Male,02-09-2022,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,11,75.50
+61,Miyamura Yuto,Male,06-03-2022,Niseko,JPN,Japan,National Championships,Big Air,6,86.80
+62,Miyamura Yuto,Male,05-03-2022,Niseko,JPN,Japan,National Championships,Slopestyle,6,87.10
+63,Miyamura Yuto,Male,30-01-2022,Niseko,JPN,Japan,FIS,Slopestyle,7,50.80
+64,Miyamura Yuto,Male,29-01-2022,Niseko,JPN,Japan,FIS,Slopestyle,7,50.90
+65,Miyamura Yuto,Male,10-04-2021,Ajigasawa,JPN,Japan,National Championships,Big Air,17,19.35
+66,Miyamura Yuto,Male,31-03-2021,Tsugaike,JPN,Japan,FIS,Big Air,3,41.43
+67,Miyamura Yuto,Male,31-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,15,21.62
+68,Miyamura Yuto,Male,30-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,7,42.24
+69,Miyamura Yuto,Male,01-03-2020,Oze-Tokura,JPN,Japan,FIS,Big Air,10,18.20
+70,Miyamura Yuto,Male,29-02-2020,Oze-Tokura,JPN,Japan,FIS,Slopestyle,12,19.80
+71,Miyamura Yuto,Male,26-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,18,20.80
+72,Miyamura Yuto,Male,25-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,5,72.00
