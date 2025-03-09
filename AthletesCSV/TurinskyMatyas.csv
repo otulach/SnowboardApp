@@ -1,101 +1,102 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Turinsky Matyas,Male,07-03-2025,Gudauri,GEO,Czechia,Qualification,Snowboard Cross,52,
-1,Turinsky Matyas,Male,01-03-2025,Erzurum,TUR,Czechia,World Cup,Snowboard Cross,52,14.90
-2,Turinsky Matyas,Male,28-02-2025,Erzurum,TUR,Czechia,Qualification,Snowboard Cross,52,
-3,Turinsky Matyas,Male,15-02-2025,Cortina d'Ampezzo,ITA,Czechia,Qualification,Snowboard Cross,50,
-4,Turinsky Matyas,Male,15-02-2025,Cortina d'Ampezzo,ITA,Czechia,World Cup,Snowboard Cross,50,15.50
-5,Turinsky Matyas,Male,09-02-2025,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,5,99.00
-6,Turinsky Matyas,Male,08-02-2025,Dolni Morava,CZE,Czechia,National Championships,Snowboard Cross,6,104.00
-7,Turinsky Matyas,Male,02-02-2025,St. Lary,FRA,Czechia,National Championships,Snowboard Cross,8,48.00
-8,Turinsky Matyas,Male,31-01-2025,St. Lary,FRA,Czechia,European Cup,Snowboard Cross,30,5.76
-9,Turinsky Matyas,Male,14-01-2025,Bardonecchia,ITA,Czechia,Universiade,Snowboard Cross,10,57.20
-10,Turinsky Matyas,Male,14-12-2024,Cervinia,ITA,Czechia,World Cup,Snowboard Cross,67,
-11,Turinsky Matyas,Male,13-12-2024,Cervinia,ITA,Czechia,Qualification,Snowboard Cross,67,
-12,Turinsky Matyas,Male,27-11-2024,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,39,6.77
-13,Turinsky Matyas,Male,27-11-2024,Pitztal,AUT,Czechia,Qualification,Snowboard Cross,39,
-14,Turinsky Matyas,Male,03-10-2024,Corralco,CHI,Czechia,South American Cup,Snowboard Cross,16,54.00
+0,Turinsky Matyas,Male,08-03-2025,Gudauri,GEO,Czechia,World Cup,Snowboard Cross,52,
+1,Turinsky Matyas,Male,07-03-2025,Gudauri,GEO,Czechia,Qualification,Snowboard Cross,52,
+2,Turinsky Matyas,Male,01-03-2025,Erzurum,TUR,Czechia,World Cup,Snowboard Cross,52,14.90
+3,Turinsky Matyas,Male,28-02-2025,Erzurum,TUR,Czechia,Qualification,Snowboard Cross,52,
+4,Turinsky Matyas,Male,15-02-2025,Cortina d'Ampezzo,ITA,Czechia,Qualification,Snowboard Cross,50,
+5,Turinsky Matyas,Male,15-02-2025,Cortina d'Ampezzo,ITA,Czechia,World Cup,Snowboard Cross,50,15.50
+6,Turinsky Matyas,Male,09-02-2025,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,5,99.00
+7,Turinsky Matyas,Male,08-02-2025,Dolni Morava,CZE,Czechia,National Championships,Snowboard Cross,6,104.00
+8,Turinsky Matyas,Male,02-02-2025,St. Lary,FRA,Czechia,National Championships,Snowboard Cross,8,48.00
+9,Turinsky Matyas,Male,31-01-2025,St. Lary,FRA,Czechia,European Cup,Snowboard Cross,30,5.76
+10,Turinsky Matyas,Male,14-01-2025,Bardonecchia,ITA,Czechia,Universiade,Snowboard Cross,10,57.20
+11,Turinsky Matyas,Male,14-12-2024,Cervinia,ITA,Czechia,World Cup,Snowboard Cross,67,
+12,Turinsky Matyas,Male,13-12-2024,Cervinia,ITA,Czechia,Qualification,Snowboard Cross,67,
+13,Turinsky Matyas,Male,27-11-2024,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,39,6.77
+14,Turinsky Matyas,Male,27-11-2024,Pitztal,AUT,Czechia,Qualification,Snowboard Cross,39,
 15,Turinsky Matyas,Male,03-10-2024,Corralco,CHI,Czechia,South American Cup,Snowboard Cross,21,36.00
-16,Turinsky Matyas,Male,07-04-2024,Gudauri,GEO,Czechia,FIS Junior World Championships,Snowboard Cross Team,4,
-17,Turinsky Matyas,Male,06-04-2024,Gudauri,GEO,Czechia,FIS Junior World Championships,Snowboard Cross,6,144.00
-18,Turinsky Matyas,Male,05-04-2024,Gudauri,GEO,Czechia,Qualification,Snowboard Cross,12,
-19,Turinsky Matyas,Male,22-03-2024,Lenk,SUI,Czechia,European Cup,Snowboard Cross,25,14.40
-20,Turinsky Matyas,Male,21-03-2024,Lenk,SUI,Czechia,European Cup,Snowboard Cross,50,3.72
-21,Turinsky Matyas,Male,01-03-2024,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,4,45.00
-22,Turinsky Matyas,Male,29-02-2024,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,1,90.00
-23,Turinsky Matyas,Male,25-02-2024,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,33,6.96
-24,Turinsky Matyas,Male,24-02-2024,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,64,
-25,Turinsky Matyas,Male,17-02-2024,Colere,ITA,Czechia,European Cup,Snowboard Cross,49,3.79
-26,Turinsky Matyas,Male,16-02-2024,Colere,ITA,Czechia,European Cup,Snowboard Cross,43,4.22
-27,Turinsky Matyas,Male,06-02-2024,Reiteralm,AUT,Czechia,European Cup,Snowboard Cross,20,22.00
-28,Turinsky Matyas,Male,05-02-2024,Reiteralm,AUT,Czechia,European Cup,Snowboard Cross,12,44.00
-29,Turinsky Matyas,Male,01-02-2024,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,5,99.00
-30,Turinsky Matyas,Male,31-01-2024,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,5,99.00
-31,Turinsky Matyas,Male,28-01-2024,Puy St. Vincent,FRA,Czechia,European Cup,Snowboard Cross,38,3.82
-32,Turinsky Matyas,Male,27-01-2024,Puy St. Vincent,FRA,Czechia,European Cup,Snowboard Cross,11,48.00
-33,Turinsky Matyas,Male,09-12-2023,Pitztal,AUT,Czechia,Junior,Snowboard Cross,3,60.00
-34,Turinsky Matyas,Male,02-04-2023,Moena - Passo San Pellegrino,ITA,Czechia,National Championships,Snowboard Cross,14,52.20
-35,Turinsky Matyas,Male,31-03-2023,Passo San Pellegrino,ITA,Czechia,FIS Junior World Championships,Snowboard Cross Team,13,
-36,Turinsky Matyas,Male,30-03-2023,Passo San Pellegrino,ITA,Czechia,FIS Junior World Championships,Snowboard Cross,13,64.00
-37,Turinsky Matyas,Male,19-03-2023,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,3,90.00
-38,Turinsky Matyas,Male,18-03-2023,Dolni Morava,CZE,Czechia,National Championships,Snowboard Cross,5,67.50
-39,Turinsky Matyas,Male,17-03-2023,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,7,54.00
-40,Turinsky Matyas,Male,12-03-2023,Lenk,SUI,Czechia,National Junior Championships,Snowboard Cross,8,28.80
-41,Turinsky Matyas,Male,16-02-2023,Moena - Passo San Pellegrino,ITA,Czechia,European Cup,Snowboard Cross,33,6.96
-42,Turinsky Matyas,Male,15-02-2023,Moena - Passo San Pellegrino,ITA,Czechia,European Cup,Snowboard Cross,36,5.71
-43,Turinsky Matyas,Male,05-02-2023,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,5,40.50
-44,Turinsky Matyas,Male,04-02-2023,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,4,45.00
-45,Turinsky Matyas,Male,03-02-2023,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,2,72.00
-46,Turinsky Matyas,Male,22-01-2023,Puy St.Vincent,FRA,Czechia,European Cup,Snowboard Cross,33,5.76
-47,Turinsky Matyas,Male,21-01-2023,Puy St.Vincent,FRA,Czechia,European Cup,Snowboard Cross,24,16.80
-48,Turinsky Matyas,Male,15-01-2023,Reiteralm,AUT,Czechia,European Cup,Snowboard Cross,53,5.26
-49,Turinsky Matyas,Male,14-01-2023,Reiteralm,AUT,Czechia,European Cup,Snowboard Cross,56,
-50,Turinsky Matyas,Male,07-01-2023,Isola 2000,FRA,Czechia,European Cup,Snowboard Cross,25,14.40
-51,Turinsky Matyas,Male,06-01-2023,Isola 2000,FRA,Czechia,European Cup,Snowboard Cross,22,21.60
-52,Turinsky Matyas,Male,27-11-2022,Pitztal,AUT,Czechia,Junior,Snowboard Cross,17,22.40
-53,Turinsky Matyas,Male,26-11-2022,Pitztal,AUT,Czechia,Junior,Snowboard Cross,38,3.44
-54,Turinsky Matyas,Male,25-11-2022,Pitztal,AUT,Czechia,FIS,Snowboard Cross,49,3.48
-55,Turinsky Matyas,Male,24-11-2022,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,60,3.00
-56,Turinsky Matyas,Male,23-11-2022,Pitztal,AUT,Czechia,Qualification,Snowboard Cross,60,
-57,Turinsky Matyas,Male,31-03-2022,Veysonnaz,SUI,Czechia,FIS Junior World Championships,Snowboard Cross,33,6.24
-58,Turinsky Matyas,Male,27-03-2022,Lenk,SUI,Czechia,National Championships,Snowboard Cross,18,33.80
-59,Turinsky Matyas,Male,26-03-2022,Lenk,SUI,Czechia,European Cup,Snowboard Cross,36,7.09
-60,Turinsky Matyas,Male,25-03-2022,Lenk,SUI,Czechia,European Cup,Snowboard Cross,36,7.09
-61,Turinsky Matyas,Male,20-03-2022,Passo San Pellegrino,ITA,Czechia,Junior,Snowboard Cross,2,96.00
-62,Turinsky Matyas,Male,19-03-2022,Passo San Pellegrino,ITA,Czechia,Junior,Snowboard Cross,5,54.00
-63,Turinsky Matyas,Male,06-03-2022,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,9,29.00
-64,Turinsky Matyas,Male,05-03-2022,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,9,29.00
-65,Turinsky Matyas,Male,27-02-2022,Flumserberg,SUI,Czechia,FIS,Snowboard Cross,15,8.00
-66,Turinsky Matyas,Male,26-02-2022,Flumserberg,SUI,Czechia,FIS,Snowboard Cross,9,14.50
-67,Turinsky Matyas,Male,20-02-2022,Passo San Pellegrino,ITA,Czechia,Junior,Snowboard Cross,9,20.30
-68,Turinsky Matyas,Male,19-02-2022,Passo San Pellegrino,ITA,Czechia,Junior,Snowboard Cross,20,7.70
-69,Turinsky Matyas,Male,13-02-2022,Grasgehren,GER,Czechia,Junior,Snowboard Cross,25,7.20
-70,Turinsky Matyas,Male,12-02-2022,Grasgehren,GER,Czechia,Junior,Snowboard Cross,17,16.80
-71,Turinsky Matyas,Male,06-02-2022,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,23,9.60
-72,Turinsky Matyas,Male,05-02-2022,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,23,11.20
-73,Turinsky Matyas,Male,03-02-2022,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,47,4.26
-74,Turinsky Matyas,Male,02-02-2022,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,33,5.76
-75,Turinsky Matyas,Male,23-01-2022,Vitkovice,CZE,Czechia,Junior,Snowboard Cross,5,22.50
-76,Turinsky Matyas,Male,22-01-2022,Vitkovice,CZE,Czechia,Junior,Snowboard Cross,4,25.00
-77,Turinsky Matyas,Male,15-12-2021,Reiteralm,AUT,Czechia,Junior,Snowboard Cross,33,1.68
-78,Turinsky Matyas,Male,14-12-2021,Reiteralm,AUT,Czechia,FIS,Snowboard Cross,63,2.55
-79,Turinsky Matyas,Male,13-12-2021,Reiteralm,AUT,Czechia,FIS,Snowboard Cross,55,3.08
-80,Turinsky Matyas,Male,11-12-2021,Moninec,CZE,Czechia,Junior,Snowboard Cross,4,25.00
-81,Turinsky Matyas,Male,31-10-2021,Les 2 Alpes,FRA,Czechia,FIS,Snowboard Cross,25,9.60
-82,Turinsky Matyas,Male,30-10-2021,Les 2 Alpes,FRA,Czechia,FIS,Snowboard Cross,33,5.28
-83,Turinsky Matyas,Male,10-04-2021,Colere,ITA,Czechia,National Championships,Snowboard Cross,30,6.40
-84,Turinsky Matyas,Male,09-04-2021,Colere,ITA,Czechia,Junior,Snowboard Cross,9,14.50
-85,Turinsky Matyas,Male,24-03-2021,Krasnoyarsk ,RUS,Czechia,FIS Junior World Championships,Snowboard Cross Team,17,
-86,Turinsky Matyas,Male,23-03-2021,Krasnoyarsk ,RUS,Czechia,FIS Junior World Championships,Snowboard Cross,29,9.36
-87,Turinsky Matyas,Male,07-03-2021,Corno alle Scale,ITA,Czechia,Junior,Snowboard Cross,6,20.00
-88,Turinsky Matyas,Male,28-01-2021,Isola 2000,FRA,Czechia,Junior,Snowboard Cross,43,1.23
-89,Turinsky Matyas,Male,27-01-2021,Isola 2000,FRA,Czechia,Junior,Snowboard Cross,23,5.60
-90,Turinsky Matyas,Male,24-01-2021,Reiteralm,AUT,Czechia,FIS,Snowboard Cross,25,4.20
-91,Turinsky Matyas,Male,23-01-2021,Reiteralm,AUT,Czechia,FIS,Snowboard Cross,37,1.36
-92,Turinsky Matyas,Male,08-03-2020,Bukova Hora ,CZE,Czechia,Junior,Snowboard Cross,5,22.50
-93,Turinsky Matyas,Male,07-03-2020,Bukova Hora ,CZE,Czechia,Junior,Snowboard Cross,6,20.00
-94,Turinsky Matyas,Male,23-02-2020,Folgaria,ITA,Czechia,Junior,Snowboard Cross,56,0.96
-95,Turinsky Matyas,Male,22-02-2020,Folgaria,ITA,Czechia,Junior,Snowboard Cross,32,1.82
-96,Turinsky Matyas,Male,26-01-2020,Grasgehren,GER,Czechia,Junior,Snowboard Cross,66,1.28
-97,Turinsky Matyas,Male,25-01-2020,Grasgehren,GER,Czechia,Junior,Snowboard Cross,91,
-98,Turinsky Matyas,Male,01-12-2019,Pitztal,AUT,Czechia,Junior,Snowboard Cross,87,
-99,Turinsky Matyas,Male,30-11-2019,Pitztal,AUT,Czechia,Junior,Snowboard Cross,56,1.92
+16,Turinsky Matyas,Male,03-10-2024,Corralco,CHI,Czechia,South American Cup,Snowboard Cross,16,54.00
+17,Turinsky Matyas,Male,07-04-2024,Gudauri,GEO,Czechia,FIS Junior World Championships,Snowboard Cross Team,4,
+18,Turinsky Matyas,Male,06-04-2024,Gudauri,GEO,Czechia,FIS Junior World Championships,Snowboard Cross,6,144.00
+19,Turinsky Matyas,Male,05-04-2024,Gudauri,GEO,Czechia,Qualification,Snowboard Cross,12,
+20,Turinsky Matyas,Male,22-03-2024,Lenk,SUI,Czechia,European Cup,Snowboard Cross,25,14.40
+21,Turinsky Matyas,Male,21-03-2024,Lenk,SUI,Czechia,European Cup,Snowboard Cross,50,3.72
+22,Turinsky Matyas,Male,01-03-2024,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,4,45.00
+23,Turinsky Matyas,Male,29-02-2024,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,1,90.00
+24,Turinsky Matyas,Male,25-02-2024,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,33,6.96
+25,Turinsky Matyas,Male,24-02-2024,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,64,
+26,Turinsky Matyas,Male,17-02-2024,Colere,ITA,Czechia,European Cup,Snowboard Cross,49,3.79
+27,Turinsky Matyas,Male,16-02-2024,Colere,ITA,Czechia,European Cup,Snowboard Cross,43,4.22
+28,Turinsky Matyas,Male,06-02-2024,Reiteralm,AUT,Czechia,European Cup,Snowboard Cross,20,22.00
+29,Turinsky Matyas,Male,05-02-2024,Reiteralm,AUT,Czechia,European Cup,Snowboard Cross,12,44.00
+30,Turinsky Matyas,Male,01-02-2024,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,5,99.00
+31,Turinsky Matyas,Male,31-01-2024,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,5,99.00
+32,Turinsky Matyas,Male,28-01-2024,Puy St. Vincent,FRA,Czechia,European Cup,Snowboard Cross,38,3.82
+33,Turinsky Matyas,Male,27-01-2024,Puy St. Vincent,FRA,Czechia,European Cup,Snowboard Cross,11,48.00
+34,Turinsky Matyas,Male,09-12-2023,Pitztal,AUT,Czechia,Junior,Snowboard Cross,3,60.00
+35,Turinsky Matyas,Male,02-04-2023,Moena - Passo San Pellegrino,ITA,Czechia,National Championships,Snowboard Cross,14,52.20
+36,Turinsky Matyas,Male,31-03-2023,Passo San Pellegrino,ITA,Czechia,FIS Junior World Championships,Snowboard Cross Team,13,
+37,Turinsky Matyas,Male,30-03-2023,Passo San Pellegrino,ITA,Czechia,FIS Junior World Championships,Snowboard Cross,13,64.00
+38,Turinsky Matyas,Male,19-03-2023,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,3,90.00
+39,Turinsky Matyas,Male,18-03-2023,Dolni Morava,CZE,Czechia,National Championships,Snowboard Cross,5,67.50
+40,Turinsky Matyas,Male,17-03-2023,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,7,54.00
+41,Turinsky Matyas,Male,12-03-2023,Lenk,SUI,Czechia,National Junior Championships,Snowboard Cross,8,28.80
+42,Turinsky Matyas,Male,16-02-2023,Moena - Passo San Pellegrino,ITA,Czechia,European Cup,Snowboard Cross,33,6.96
+43,Turinsky Matyas,Male,15-02-2023,Moena - Passo San Pellegrino,ITA,Czechia,European Cup,Snowboard Cross,36,5.71
+44,Turinsky Matyas,Male,05-02-2023,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,5,40.50
+45,Turinsky Matyas,Male,04-02-2023,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,4,45.00
+46,Turinsky Matyas,Male,03-02-2023,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,2,72.00
+47,Turinsky Matyas,Male,22-01-2023,Puy St.Vincent,FRA,Czechia,European Cup,Snowboard Cross,33,5.76
+48,Turinsky Matyas,Male,21-01-2023,Puy St.Vincent,FRA,Czechia,European Cup,Snowboard Cross,24,16.80
+49,Turinsky Matyas,Male,15-01-2023,Reiteralm,AUT,Czechia,European Cup,Snowboard Cross,53,5.26
+50,Turinsky Matyas,Male,14-01-2023,Reiteralm,AUT,Czechia,European Cup,Snowboard Cross,56,
+51,Turinsky Matyas,Male,07-01-2023,Isola 2000,FRA,Czechia,European Cup,Snowboard Cross,25,14.40
+52,Turinsky Matyas,Male,06-01-2023,Isola 2000,FRA,Czechia,European Cup,Snowboard Cross,22,21.60
+53,Turinsky Matyas,Male,27-11-2022,Pitztal,AUT,Czechia,Junior,Snowboard Cross,17,22.40
+54,Turinsky Matyas,Male,26-11-2022,Pitztal,AUT,Czechia,Junior,Snowboard Cross,38,3.44
+55,Turinsky Matyas,Male,25-11-2022,Pitztal,AUT,Czechia,FIS,Snowboard Cross,49,3.48
+56,Turinsky Matyas,Male,24-11-2022,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,60,3.00
+57,Turinsky Matyas,Male,23-11-2022,Pitztal,AUT,Czechia,Qualification,Snowboard Cross,60,
+58,Turinsky Matyas,Male,31-03-2022,Veysonnaz,SUI,Czechia,FIS Junior World Championships,Snowboard Cross,33,6.24
+59,Turinsky Matyas,Male,27-03-2022,Lenk,SUI,Czechia,National Championships,Snowboard Cross,18,33.80
+60,Turinsky Matyas,Male,26-03-2022,Lenk,SUI,Czechia,European Cup,Snowboard Cross,36,7.09
+61,Turinsky Matyas,Male,25-03-2022,Lenk,SUI,Czechia,European Cup,Snowboard Cross,36,7.09
+62,Turinsky Matyas,Male,20-03-2022,Passo San Pellegrino,ITA,Czechia,Junior,Snowboard Cross,2,96.00
+63,Turinsky Matyas,Male,19-03-2022,Passo San Pellegrino,ITA,Czechia,Junior,Snowboard Cross,5,54.00
+64,Turinsky Matyas,Male,06-03-2022,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,9,29.00
+65,Turinsky Matyas,Male,05-03-2022,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,9,29.00
+66,Turinsky Matyas,Male,27-02-2022,Flumserberg,SUI,Czechia,FIS,Snowboard Cross,15,8.00
+67,Turinsky Matyas,Male,26-02-2022,Flumserberg,SUI,Czechia,FIS,Snowboard Cross,9,14.50
+68,Turinsky Matyas,Male,20-02-2022,Passo San Pellegrino,ITA,Czechia,Junior,Snowboard Cross,9,20.30
+69,Turinsky Matyas,Male,19-02-2022,Passo San Pellegrino,ITA,Czechia,Junior,Snowboard Cross,20,7.70
+70,Turinsky Matyas,Male,13-02-2022,Grasgehren,GER,Czechia,Junior,Snowboard Cross,25,7.20
+71,Turinsky Matyas,Male,12-02-2022,Grasgehren,GER,Czechia,Junior,Snowboard Cross,17,16.80
+72,Turinsky Matyas,Male,06-02-2022,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,23,9.60
+73,Turinsky Matyas,Male,05-02-2022,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,23,11.20
+74,Turinsky Matyas,Male,03-02-2022,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,47,4.26
+75,Turinsky Matyas,Male,02-02-2022,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,33,5.76
+76,Turinsky Matyas,Male,23-01-2022,Vitkovice,CZE,Czechia,Junior,Snowboard Cross,5,22.50
+77,Turinsky Matyas,Male,22-01-2022,Vitkovice,CZE,Czechia,Junior,Snowboard Cross,4,25.00
+78,Turinsky Matyas,Male,15-12-2021,Reiteralm,AUT,Czechia,Junior,Snowboard Cross,33,1.68
+79,Turinsky Matyas,Male,14-12-2021,Reiteralm,AUT,Czechia,FIS,Snowboard Cross,63,2.55
+80,Turinsky Matyas,Male,13-12-2021,Reiteralm,AUT,Czechia,FIS,Snowboard Cross,55,3.08
+81,Turinsky Matyas,Male,11-12-2021,Moninec,CZE,Czechia,Junior,Snowboard Cross,4,25.00
+82,Turinsky Matyas,Male,31-10-2021,Les 2 Alpes,FRA,Czechia,FIS,Snowboard Cross,25,9.60
+83,Turinsky Matyas,Male,30-10-2021,Les 2 Alpes,FRA,Czechia,FIS,Snowboard Cross,33,5.28
+84,Turinsky Matyas,Male,10-04-2021,Colere,ITA,Czechia,National Championships,Snowboard Cross,30,6.40
+85,Turinsky Matyas,Male,09-04-2021,Colere,ITA,Czechia,Junior,Snowboard Cross,9,14.50
+86,Turinsky Matyas,Male,24-03-2021,Krasnoyarsk ,RUS,Czechia,FIS Junior World Championships,Snowboard Cross Team,17,
+87,Turinsky Matyas,Male,23-03-2021,Krasnoyarsk ,RUS,Czechia,FIS Junior World Championships,Snowboard Cross,29,9.36
+88,Turinsky Matyas,Male,07-03-2021,Corno alle Scale,ITA,Czechia,Junior,Snowboard Cross,6,20.00
+89,Turinsky Matyas,Male,28-01-2021,Isola 2000,FRA,Czechia,Junior,Snowboard Cross,43,1.23
+90,Turinsky Matyas,Male,27-01-2021,Isola 2000,FRA,Czechia,Junior,Snowboard Cross,23,5.60
+91,Turinsky Matyas,Male,24-01-2021,Reiteralm,AUT,Czechia,FIS,Snowboard Cross,25,4.20
+92,Turinsky Matyas,Male,23-01-2021,Reiteralm,AUT,Czechia,FIS,Snowboard Cross,37,1.36
+93,Turinsky Matyas,Male,08-03-2020,Bukova Hora ,CZE,Czechia,Junior,Snowboard Cross,5,22.50
+94,Turinsky Matyas,Male,07-03-2020,Bukova Hora ,CZE,Czechia,Junior,Snowboard Cross,6,20.00
+95,Turinsky Matyas,Male,23-02-2020,Folgaria,ITA,Czechia,Junior,Snowboard Cross,56,0.96
+96,Turinsky Matyas,Male,22-02-2020,Folgaria,ITA,Czechia,Junior,Snowboard Cross,32,1.82
+97,Turinsky Matyas,Male,26-01-2020,Grasgehren,GER,Czechia,Junior,Snowboard Cross,66,1.28
+98,Turinsky Matyas,Male,25-01-2020,Grasgehren,GER,Czechia,Junior,Snowboard Cross,91,
+99,Turinsky Matyas,Male,01-12-2019,Pitztal,AUT,Czechia,Junior,Snowboard Cross,87,
+100,Turinsky Matyas,Male,30-11-2019,Pitztal,AUT,Czechia,Junior,Snowboard Cross,56,1.92

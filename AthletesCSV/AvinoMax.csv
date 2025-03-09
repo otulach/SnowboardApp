@@ -1,36 +1,37 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Avino Max,Male,09-02-2025,Reiteralm,AUT,Spain,European Cup,Snowboard Cross,50,
-1,Avino Max,Male,08-02-2025,Reiteralm,AUT,Spain,European Cup,Snowboard Cross,50,
-2,Avino Max,Male,02-02-2025,Baqueira Beret ,ESP,Spain,FIS,Snowboard Cross,7,18.00
-3,Avino Max,Male,31-01-2025,St. Lary,FRA,Spain,European Cup,Snowboard Cross,44,3.11
-4,Avino Max,Male,01-12-2024,Pitztal,AUT,Spain,Junior,Snowboard Cross,35,2.40
-5,Avino Max,Male,30-11-2024,Pitztal,AUT,Spain,Qualification,Snowboard Cross,51,
-6,Avino Max,Male,30-11-2024,Pitztal,AUT,Spain,Junior,Snowboard Cross,51,1.82
-7,Avino Max,Male,27-11-2024,Pitztal,AUT,Spain,Qualification,Snowboard Cross,91,
-8,Avino Max,Male,27-11-2024,Pitztal,AUT,Spain,European Cup,Snowboard Cross,91,
-9,Avino Max,Male,27-03-2024,Baqueira Beret,ESP,Spain,National Championships,Snowboard Cross,7,64.80
-10,Avino Max,Male,14-03-2024,Isola 2000,FRA,Spain,European Cup,Snowboard Cross,49,
-11,Avino Max,Male,12-03-2024,Isola 2000,FRA,Spain,Junior,Snowboard Cross,27,3.15
-12,Avino Max,Male,11-03-2024,Isola 2000,FRA,Spain,Junior,Snowboard Cross,43,2.64
-13,Avino Max,Male,09-03-2024,Colere,ITA,Spain,FIS,Snowboard Cross,9,14.50
-14,Avino Max,Male,28-01-2024,Grasgehren,GER,Spain,Junior,Snowboard Cross,32,2.86
-15,Avino Max,Male,27-01-2024,Grasgehren,GER,Spain,Junior,Snowboard Cross,8,16.00
-16,Avino Max,Male,21-01-2024,Baquiera Beret,ESP,Spain,FIS,Snowboard Cross,8,16.00
-17,Avino Max,Male,09-12-2023,Pitztal,AUT,Spain,Junior,Snowboard Cross,58,1.31
-18,Avino Max,Male,08-04-2023,Chamonix,FRA,Spain,National Championships,Snowboard Cross,35,5.80
-19,Avino Max,Male,18-03-2023,Sierra Nevada,ESP,Spain,National Championships,Snowboard Cross,7,54.00
-20,Avino Max,Male,12-03-2023,Lenk,SUI,Spain,National Junior Championships,Snowboard Cross,17,12.60
-21,Avino Max,Male,04-03-2023,Formigal,ESP,Spain,FIS,Snowboard Cross,6,28.00
-22,Avino Max,Male,18-02-2023,Baquirea Beret,ESP,Spain,FIS,Snowboard Cross,24,10.50
-23,Avino Max,Male,24-11-2022,Pitztal,AUT,Spain,European Cup,Snowboard Cross,DNS,
-24,Avino Max,Male,23-11-2022,Pitztal,AUT,Spain,Qualification,Snowboard Cross,DNS,
-25,Avino Max,Male,09-04-2022,Baqueira Beret,ESP,Spain,National Championships,Snowboard Cross,7,104.40
-26,Avino Max,Male,20-03-2022,Passo San Pellegrino,ITA,Spain,Junior,Snowboard Cross,33,2.88
-27,Avino Max,Male,19-03-2022,Passo San Pellegrino,ITA,Spain,Junior,Snowboard Cross,34,2.64
-28,Avino Max,Male,06-03-2022,Dolni Morava,CZE,Spain,Junior,Snowboard Cross,8,16.00
-29,Avino Max,Male,05-03-2022,Dolni Morava,CZE,Spain,Junior,Snowboard Cross,9,14.50
-30,Avino Max,Male,16-01-2022,Baqueira Beret,ESP,Spain,FIS,Snowboard Cross,21,9.00
-31,Avino Max,Male,31-10-2021,Les 2 Alpes,FRA,Spain,FIS,Snowboard Cross,45,2.72
-32,Avino Max,Male,30-10-2021,Les 2 Alpes,FRA,Spain,FIS,Snowboard Cross,48,3.54
-33,Avino Max,Male,11-04-2021,Sierra Nevada,ESP,Spain,National Championships,Snowboard Cross,17,14.00
-34,Avino Max,Male,07-03-2021,Corno alle Scale,ITA,Spain,Junior,Snowboard Cross,DNS,
+0,Avino Max,Male,08-03-2025,BAQUEIRA BERET,ESP,Spain,FIS,Snowboard Cross,4,25.00
+1,Avino Max,Male,09-02-2025,Reiteralm,AUT,Spain,European Cup,Snowboard Cross,50,
+2,Avino Max,Male,08-02-2025,Reiteralm,AUT,Spain,European Cup,Snowboard Cross,50,
+3,Avino Max,Male,02-02-2025,Baqueira Beret ,ESP,Spain,FIS,Snowboard Cross,7,18.00
+4,Avino Max,Male,31-01-2025,St. Lary,FRA,Spain,European Cup,Snowboard Cross,44,3.11
+5,Avino Max,Male,01-12-2024,Pitztal,AUT,Spain,Junior,Snowboard Cross,35,2.40
+6,Avino Max,Male,30-11-2024,Pitztal,AUT,Spain,Qualification,Snowboard Cross,51,
+7,Avino Max,Male,30-11-2024,Pitztal,AUT,Spain,Junior,Snowboard Cross,51,1.82
+8,Avino Max,Male,27-11-2024,Pitztal,AUT,Spain,Qualification,Snowboard Cross,91,
+9,Avino Max,Male,27-11-2024,Pitztal,AUT,Spain,European Cup,Snowboard Cross,91,
+10,Avino Max,Male,27-03-2024,Baqueira Beret,ESP,Spain,National Championships,Snowboard Cross,7,64.80
+11,Avino Max,Male,14-03-2024,Isola 2000,FRA,Spain,European Cup,Snowboard Cross,49,
+12,Avino Max,Male,12-03-2024,Isola 2000,FRA,Spain,Junior,Snowboard Cross,27,3.15
+13,Avino Max,Male,11-03-2024,Isola 2000,FRA,Spain,Junior,Snowboard Cross,43,2.64
+14,Avino Max,Male,09-03-2024,Colere,ITA,Spain,FIS,Snowboard Cross,9,14.50
+15,Avino Max,Male,28-01-2024,Grasgehren,GER,Spain,Junior,Snowboard Cross,32,2.86
+16,Avino Max,Male,27-01-2024,Grasgehren,GER,Spain,Junior,Snowboard Cross,8,16.00
+17,Avino Max,Male,21-01-2024,Baquiera Beret,ESP,Spain,FIS,Snowboard Cross,8,16.00
+18,Avino Max,Male,09-12-2023,Pitztal,AUT,Spain,Junior,Snowboard Cross,58,1.31
+19,Avino Max,Male,08-04-2023,Chamonix,FRA,Spain,National Championships,Snowboard Cross,35,5.80
+20,Avino Max,Male,18-03-2023,Sierra Nevada,ESP,Spain,National Championships,Snowboard Cross,7,54.00
+21,Avino Max,Male,12-03-2023,Lenk,SUI,Spain,National Junior Championships,Snowboard Cross,17,12.60
+22,Avino Max,Male,04-03-2023,Formigal,ESP,Spain,FIS,Snowboard Cross,6,28.00
+23,Avino Max,Male,18-02-2023,Baquirea Beret,ESP,Spain,FIS,Snowboard Cross,24,10.50
+24,Avino Max,Male,24-11-2022,Pitztal,AUT,Spain,European Cup,Snowboard Cross,DNS,
+25,Avino Max,Male,23-11-2022,Pitztal,AUT,Spain,Qualification,Snowboard Cross,DNS,
+26,Avino Max,Male,09-04-2022,Baqueira Beret,ESP,Spain,National Championships,Snowboard Cross,7,104.40
+27,Avino Max,Male,20-03-2022,Passo San Pellegrino,ITA,Spain,Junior,Snowboard Cross,33,2.88
+28,Avino Max,Male,19-03-2022,Passo San Pellegrino,ITA,Spain,Junior,Snowboard Cross,34,2.64
+29,Avino Max,Male,06-03-2022,Dolni Morava,CZE,Spain,Junior,Snowboard Cross,8,16.00
+30,Avino Max,Male,05-03-2022,Dolni Morava,CZE,Spain,Junior,Snowboard Cross,9,14.50
+31,Avino Max,Male,16-01-2022,Baqueira Beret,ESP,Spain,FIS,Snowboard Cross,21,9.00
+32,Avino Max,Male,31-10-2021,Les 2 Alpes,FRA,Spain,FIS,Snowboard Cross,45,2.72
+33,Avino Max,Male,30-10-2021,Les 2 Alpes,FRA,Spain,FIS,Snowboard Cross,48,3.54
+34,Avino Max,Male,11-04-2021,Sierra Nevada,ESP,Spain,National Championships,Snowboard Cross,17,14.00
+35,Avino Max,Male,07-03-2021,Corno alle Scale,ITA,Spain,Junior,Snowboard Cross,DNS,

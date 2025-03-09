@@ -1,136 +1,137 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Karpov Anton,Male,07-03-2025,Gudauri,GEO,Ukraine,Qualification,Snowboard Cross,55,
-1,Karpov Anton,Male,01-03-2025,Erzurum,TUR,Ukraine,World Cup,Snowboard Cross,56,
-2,Karpov Anton,Male,28-02-2025,Erzurum,TUR,Ukraine,Qualification,Snowboard Cross,56,
-3,Karpov Anton,Male,24-02-2025,Bukovel,UKR,Ukraine,FIS,Snowboard Cross,DNS,
-4,Karpov Anton,Male,23-02-2025,Bukovel,UKR,Ukraine,National Championships,Snowboard Cross,2,40.00
-5,Karpov Anton,Male,15-02-2025,Cortina d'Ampezzo,ITA,Ukraine,Qualification,Snowboard Cross,62,
-6,Karpov Anton,Male,15-02-2025,Cortina d'Ampezzo,ITA,Ukraine,World Cup,Snowboard Cross,62,
-7,Karpov Anton,Male,09-02-2025,Dolni Morava,CZE,Ukraine,FIS,Snowboard Cross,6,88.00
-8,Karpov Anton,Male,08-02-2025,Dolni Morava,CZE,Ukraine,National Championships,Snowboard Cross,9,75.40
-9,Karpov Anton,Male,14-12-2024,Cervinia,ITA,Ukraine,World Cup,Snowboard Cross,65,
-10,Karpov Anton,Male,13-12-2024,Cervinia,ITA,Ukraine,Qualification,Snowboard Cross,65,
-11,Karpov Anton,Male,27-11-2024,Pitztal,AUT,Ukraine,European Cup,Snowboard Cross,76,2.77
-12,Karpov Anton,Male,27-11-2024,Pitztal,AUT,Ukraine,Qualification,Snowboard Cross,76,
-13,Karpov Anton,Male,30-03-2024,Colere,ITA,Ukraine,National Championships,Snowboard Cross,9,84.10
-14,Karpov Anton,Male,24-03-2024,Lenk,SUI,Ukraine,National Championships,Snowboard Cross,15,19.20
-15,Karpov Anton,Male,22-03-2024,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,12,52.80
-16,Karpov Anton,Male,21-03-2024,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,31,6.72
-17,Karpov Anton,Male,09-03-2024,Cortina d'Ampezzo,ITA,Ukraine,World Cup,Snowboard Cross,66,
-18,Karpov Anton,Male,08-03-2024,Cortina d'Ampezzo,ITA,Ukraine,Qualification,Snowboard Cross,66,
-19,Karpov Anton,Male,19-02-2024,Bukovel,UKR,Ukraine,National Championships,Snowboard Cross,2,40.00
-20,Karpov Anton,Male,18-02-2024,Bukovel,UKR,Ukraine,FIS,Snowboard Cross,2,40.00
-21,Karpov Anton,Male,04-02-2024,Gudauri,GEO,Ukraine,World Cup,Snowboard Cross,56,
-22,Karpov Anton,Male,03-02-2024,Gudauri,GEO,Ukraine,World Cup,Snowboard Cross,56,
-23,Karpov Anton,Male,02-02-2024,Gudauri,GEO,Ukraine,Qualification,Snowboard Cross,56,
-24,Karpov Anton,Male,28-01-2024,Lenk,SUI,Ukraine,FIS,Snowboard Cross,2,56.00
-25,Karpov Anton,Male,27-01-2024,Lenk,SUI,Ukraine,FIS,Snowboard Cross,1,70.00
-26,Karpov Anton,Male,26-01-2024,St. Moritz,SUI,Ukraine,World Cup,Snowboard Cross,54,14.30
-27,Karpov Anton,Male,25-01-2024,St. Moritz,SUI,Ukraine,Qualification,Snowboard Cross,54,
-28,Karpov Anton,Male,20-01-2024,Montafon,AUT,Ukraine,National Championships,Snowboard Cross,52,4.32
-29,Karpov Anton,Male,16-12-2023,Cervinia,ITA,Ukraine,World Cup,Snowboard Cross,63,
-30,Karpov Anton,Male,09-12-2023,Pitztal,AUT,Ukraine,FIS,Snowboard Cross,15,22.40
-31,Karpov Anton,Male,03-12-2023,Les Deux Alpes,FRA,Ukraine,Qualification,Snowboard Cross,57,
-32,Karpov Anton,Male,03-12-2023,Les Deux Alpes,FRA,Ukraine,World Cup,Snowboard Cross,57,13.40
-33,Karpov Anton,Male,02-04-2023,Moena - Passo San Pellegrino,ITA,Ukraine,National Championships,Snowboard Cross,6,116.00
-34,Karpov Anton,Male,19-03-2023,Passo San Pellegrino,ITA,Ukraine,FIS,Snowboard Cross,27,8.10
-35,Karpov Anton,Male,18-03-2023,Passo San Pellegrino,ITA,Ukraine,FIS,Snowboard Cross,8,57.60
-36,Karpov Anton,Male,16-03-2023,Pitztal,AUT,Ukraine,FIS,Snowboard Cross,14,23.40
-37,Karpov Anton,Male,15-03-2023,Pitztal,AUT,Ukraine,FIS,Snowboard Cross,17,18.20
-38,Karpov Anton,Male,01-03-2023,Bakuriani,GEO,Ukraine,World Championships,Snowboard Cross,33,24.00
-39,Karpov Anton,Male,14-01-2023,Lenk,SUI,Ukraine,FIS,Snowboard Cross,2,40.00
-40,Karpov Anton,Male,25-11-2022,Pitztal,AUT,Ukraine,FIS,Snowboard Cross,33,5.28
-41,Karpov Anton,Male,24-11-2022,Pitztal,AUT,Ukraine,European Cup,Snowboard Cross,84,1.27
-42,Karpov Anton,Male,23-11-2022,Pitztal,AUT,Ukraine,Qualification,Snowboard Cross,84,
-43,Karpov Anton,Male,06-02-2022,Dolni Morava,CZE,Ukraine,FIS,Snowboard Cross,17,16.80
-44,Karpov Anton,Male,05-02-2022,Dolni Morava,CZE,Ukraine,FIS,Snowboard Cross,21,14.00
-45,Karpov Anton,Male,03-02-2022,Dolni Morava,CZE,Ukraine,European Cup,Snowboard Cross,28,10.40
-46,Karpov Anton,Male,02-02-2022,Dolni Morava,CZE,Ukraine,European Cup,Snowboard Cross,33,5.76
-47,Karpov Anton,Male,14-12-2021,Reiteralm,AUT,Ukraine,FIS,Snowboard Cross,33,5.28
-48,Karpov Anton,Male,13-12-2021,Reiteralm,AUT,Ukraine,FIS,Snowboard Cross,DNF,
-49,Karpov Anton,Male,10-04-2021,Colere,ITA,Ukraine,National Championships,Snowboard Cross,6,80.00
-50,Karpov Anton,Male,29-03-2021,Reiteralm,AUT,Ukraine,National Championships,Snowboard Cross,28,11.60
-51,Karpov Anton,Male,12-03-2021,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,DNF,
-52,Karpov Anton,Male,11-02-2021,Idre Fjäll,SWE,Ukraine,World Championships,Snowboard Cross,48,
-53,Karpov Anton,Male,09-02-2021,Idre Fjäll,SWE,Ukraine,Qualification,Snowboard Cross,48,
-54,Karpov Anton,Male,03-02-2021,Isola 2000,FRA,Ukraine,European Cup,Snowboard Cross,33,3.84
-55,Karpov Anton,Male,31-01-2021,Isola 2000,FRA,Ukraine,European Cup,Snowboard Cross,33,6.24
-56,Karpov Anton,Male,30-01-2021,Isola 2000,FRA,Ukraine,European Cup,Snowboard Cross,60,4.50
-57,Karpov Anton,Male,24-01-2021,Reiteralm,AUT,Ukraine,FIS,Snowboard Cross,17,9.80
-58,Karpov Anton,Male,23-01-2021,Reiteralm,AUT,Ukraine,FIS,Snowboard Cross,28,2.80
-59,Karpov Anton,Male,08-02-2020,Colere,ITA,Ukraine,FIS,Snowboard Cross,20,14.30
-60,Karpov Anton,Male,07-02-2020,Colere,ITA,Ukraine,FIS,Snowboard Cross,21,14.00
-61,Karpov Anton,Male,12-01-2020,Puy St. Vincent,FRA,Ukraine,European Cup,Snowboard Cross,DNF1,
-62,Karpov Anton,Male,11-01-2020,Puy St. Vincent,FRA,Ukraine,European Cup,Snowboard Cross,39,6.02
-63,Karpov Anton,Male,20-12-2019,Isola 2000,FRA,Ukraine,European Cup,Snowboard Cross,21,16.00
-64,Karpov Anton,Male,19-12-2019,Isola 2000,FRA,Ukraine,European Cup,Snowboard Cross,24,11.20
-65,Karpov Anton,Male,28-11-2019,Pitztal,AUT,Ukraine,European Cup,Snowboard Cross,67,3.74
-66,Karpov Anton,Male,29-03-2019,Piancavallo,ITA,Ukraine,National Championships,Snowboard Cross,11,69.60
-67,Karpov Anton,Male,27-03-2019,Isola 2000,FRA,Ukraine,National Championships,Snowboard Cross,11,48.00
-68,Karpov Anton,Male,24-03-2019,Lenk,SUI,Ukraine,National Championships,Snowboard Cross,25,14.40
-69,Karpov Anton,Male,23-03-2019,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,44,6.23
-70,Karpov Anton,Male,22-03-2019,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,DNF1,
-71,Karpov Anton,Male,10-03-2019,Gudauri,GEO,Ukraine,FIS,Snowboard Cross,8,22.40
-72,Karpov Anton,Male,09-03-2019,Gudauri,GEO,Ukraine,European Cup,Snowboard Cross,29,9.36
-73,Karpov Anton,Male,08-03-2019,Gudauri,GEO,Ukraine,European Cup,Snowboard Cross,21,26.00
-74,Karpov Anton,Male,10-02-2019,Dolni Morava,CZE,Ukraine,FIS,Snowboard Cross,2,40.00
-75,Karpov Anton,Male,09-02-2019,Dolni Morava,CZE,Ukraine,FIS,Snowboard Cross,4,25.00
-76,Karpov Anton,Male,07-02-2019,Dolni Morava,CZE,Ukraine,European Cup,Snowboard Cross,29,5.76
-77,Karpov Anton,Male,06-02-2019,Dolni Morava,CZE,Ukraine,European Cup,Snowboard Cross,27,7.20
-78,Karpov Anton,Male,20-01-2019,Grasgehren,GER,Ukraine,European Cup,Snowboard Cross,DNF1,
-79,Karpov Anton,Male,19-01-2019,Grasgehren,GER,Ukraine,European Cup,Snowboard Cross,41,6.55
-80,Karpov Anton,Male,13-01-2019,Puy St. Vincent,FRA,Ukraine,European Cup,Snowboard Cross,43,5.63
-81,Karpov Anton,Male,12-01-2019,Puy St. Vincent,FRA,Ukraine,European Cup,Snowboard Cross,49,
-82,Karpov Anton,Male,17-12-2018,Isola 2000,FRA,Ukraine,FIS,Snowboard Cross,10,33.80
-83,Karpov Anton,Male,16-12-2018,Isola 2000,FRA,Ukraine,FIS,Snowboard Cross,8,41.60
-84,Karpov Anton,Male,29-11-2018,Pitztal,AUT,Ukraine,European Cup,Snowboard Cross,69,3.53
-85,Karpov Anton,Male,28-11-2018,Pitztal,AUT,Ukraine,European Cup,Snowboard Cross,71,3.31
-86,Karpov Anton,Male,01-04-2018,Peyragudes,FRA,Ukraine,National Championships,Snowboard Cross,22,26.10
-87,Karpov Anton,Male,11-03-2018,Dolni Morava,CZE,Ukraine,FIS,Snowboardcross,5,22.50
-88,Karpov Anton,Male,10-03-2018,Dolni Morava,CZE,Ukraine,FIS,Snowboardcross,4,25.00
-89,Karpov Anton,Male,10-03-2018,Annaberg,AUT,Ukraine,FIS,Snowboard Cross,DNS1,
-90,Karpov Anton,Male,09-03-2018,Annaberg,AUT,Ukraine,FIS,Snowboard Cross,4,25.00
-91,Karpov Anton,Male,06-03-2018,Moena,ITA,Ukraine,National Championships,Snowboard Cross,17,22.40
-92,Karpov Anton,Male,04-03-2018,Gargellen,AUT,Ukraine,FIS,Snowboard Cross,9,40.60
-93,Karpov Anton,Male,03-03-2018,Gargellen,AUT,Ukraine,FIS,Snowboard Cross,17,19.60
-94,Karpov Anton,Male,25-02-2018,Dolni Morava,CZE,Ukraine,FIS,Snowboard Cross,5,22.50
-95,Karpov Anton,Male,24-02-2018,Dolni Morava,CZE,Ukraine,FIS,Snowboard Cross,9,29.00
-96,Karpov Anton,Male,11-02-2018,Pec pod Snezkou,CZE,Ukraine,FIS,Snowboard Cross,7,18.00
-97,Karpov Anton,Male,10-02-2018,Pec pod Snezkou,CZE,Ukraine,FIS,Snowboard Cross,8,16.00
-98,Karpov Anton,Male,06-02-2018,Bukovytsya,UKR,Ukraine,National Championships,Parallel Slalom,20,11.00
-99,Karpov Anton,Male,05-02-2018,Bukovytsya,UKR,Ukraine,National Championships,Parallel GS,20,11.00
-100,Karpov Anton,Male,30-11-2017,Pitztal,AUT,Ukraine,European Cup,Snowboard Cross,65,3.96
-101,Karpov Anton,Male,29-11-2017,Pitztal,AUT,Ukraine,European Cup,Snowboard Cross,55,5.04
-102,Karpov Anton,Male,13-03-2017,Gargellen,AUT,Ukraine,FIS,Snowboardcross,25,13.20
-103,Karpov Anton,Male,12-03-2017,Gargellen,AUT,Ukraine,FIS,Snowboardcross,25,13.20
-104,Karpov Anton,Male,10-03-2017,Moena,ITA,Ukraine,FIS,Snowboardcross,13,22.00
-105,Karpov Anton,Male,09-03-2017,Moena,ITA,Ukraine,FIS,Snowboardcross,21,11.00
-106,Karpov Anton,Male,18-02-2017,Klinovec,CZE,Ukraine,FIS Junior World Championships,Snowboardcross,42,4.30
-107,Karpov Anton,Male,15-01-2017,Dolni Morava,CZE,Ukraine,Junior,Snowboardcross,10,13.00
-108,Karpov Anton,Male,14-01-2017,Dolni Morava,CZE,Ukraine,Junior,Snowboardcross,11,12.00
-109,Karpov Anton,Male,04-12-2016,Pitzal,AUT,Ukraine,Junior,Snowboardcross,63,2.32
-110,Karpov Anton,Male,03-12-2016,Pitzal,AUT,Ukraine,Junior,Snowboardcross,33,4.80
-111,Karpov Anton,Male,01-12-2016,Pitztal,AUT,Ukraine,European Cup,Snowboardcross,96,0.61
-112,Karpov Anton,Male,30-11-2016,Pitztal,AUT,Ukraine,European Cup,Snowboardcross,108,
-113,Karpov Anton,Male,04-04-2016,Rogla,SLO,Ukraine,FIS Junior World Championships,Snowboardcross,51,5.47
-114,Karpov Anton,Male,13-03-2016,Bozi Dar,CZE,Ukraine,FIS,Snowboardcross,9,20.30
-115,Karpov Anton,Male,12-03-2016,Bozi Dar,CZE,Ukraine,FIS,Snowboardcross,7,25.20
-116,Karpov Anton,Male,14-02-2016,Dolni Morava,CZE,Ukraine,FIS,Snowboardcross,12,19.80
-117,Karpov Anton,Male,13-02-2016,Dolni Morava,CZE,Ukraine,FIS,Snowboardcross,19,10.80
-118,Karpov Anton,Male,28-02-2015,Krasiya,UKR,Ukraine,National Championships,Parallel Slalom,32,
-119,Karpov Anton,Male,27-02-2015,Krasiya,UKR,Ukraine,National Championships,Giant Slalom,9,26.10
-120,Karpov Anton,Male,10-02-2015,Sierra Nevada,ESP,Ukraine,Universiade,Parallel GS,26,18.00
-121,Karpov Anton,Male,06-02-2015,Sierra Nevada,ESP,Ukraine,Universiade,Snowboardcross,28,16.00
-122,Karpov Anton,Male,30-11-2014,Pitztal,AUT,Ukraine,Junior,Snowboardcross,17,19.60
-123,Karpov Anton,Male,29-11-2014,Pitztal,AUT,Ukraine,Junior,Snowboardcross,65,1.54
-124,Karpov Anton,Male,02-04-2014,Chiesa in Valmalenco,ITA,Ukraine,FIS Junior World Championships,Snowboardcross,55,0.00
-125,Karpov Anton,Male,25-03-2014,Chiesa in Valmalenco,ITA,Ukraine,FIS Junior World Championships,Parallel Slalom,36,7.09
-126,Karpov Anton,Male,24-03-2014,Chiesa in Valmalenco,ITA,Ukraine,FIS Junior World Championships,Parallel GS,38,6.88
-127,Karpov Anton,Male,28-02-2013,Krasiya,UKR,Ukraine,National Championships,Parallel Slalom,10,31.20
-128,Karpov Anton,Male,27-02-2013,Krasiya,UKR,Ukraine,National Championships,Parallel GS,21,15.00
-129,Karpov Anton,Male,17-02-2013,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,39,8.46
-130,Karpov Anton,Male,16-02-2013,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,36,7.88
-131,Karpov Anton,Male,10-02-2013,Marianske Lazne,CZE,Ukraine,European Cup,Parallel Slalom,44,5.54
-132,Karpov Anton,Male,09-02-2013,Marianske Lazne,CZE,Ukraine,European Cup,Parallel Slalom,46,5.34
-133,Karpov Anton,Male,20-01-2013,Vratna - Paseky,SVK,Ukraine,European Cup,Parallel GS,50,4.96
-134,Karpov Anton,Male,19-01-2013,Vratna - Paseky,SVK,Ukraine,European Cup,Parallel GS,55,4.48
+0,Karpov Anton,Male,08-03-2025,Gudauri,GEO,Ukraine,World Cup,Snowboard Cross,55,
+1,Karpov Anton,Male,07-03-2025,Gudauri,GEO,Ukraine,Qualification,Snowboard Cross,55,
+2,Karpov Anton,Male,01-03-2025,Erzurum,TUR,Ukraine,World Cup,Snowboard Cross,56,
+3,Karpov Anton,Male,28-02-2025,Erzurum,TUR,Ukraine,Qualification,Snowboard Cross,56,
+4,Karpov Anton,Male,24-02-2025,Bukovel,UKR,Ukraine,FIS,Snowboard Cross,DNS,
+5,Karpov Anton,Male,23-02-2025,Bukovel,UKR,Ukraine,National Championships,Snowboard Cross,2,40.00
+6,Karpov Anton,Male,15-02-2025,Cortina d'Ampezzo,ITA,Ukraine,Qualification,Snowboard Cross,62,
+7,Karpov Anton,Male,15-02-2025,Cortina d'Ampezzo,ITA,Ukraine,World Cup,Snowboard Cross,62,
+8,Karpov Anton,Male,09-02-2025,Dolni Morava,CZE,Ukraine,FIS,Snowboard Cross,6,88.00
+9,Karpov Anton,Male,08-02-2025,Dolni Morava,CZE,Ukraine,National Championships,Snowboard Cross,9,75.40
+10,Karpov Anton,Male,14-12-2024,Cervinia,ITA,Ukraine,World Cup,Snowboard Cross,65,
+11,Karpov Anton,Male,13-12-2024,Cervinia,ITA,Ukraine,Qualification,Snowboard Cross,65,
+12,Karpov Anton,Male,27-11-2024,Pitztal,AUT,Ukraine,European Cup,Snowboard Cross,76,2.77
+13,Karpov Anton,Male,27-11-2024,Pitztal,AUT,Ukraine,Qualification,Snowboard Cross,76,
+14,Karpov Anton,Male,30-03-2024,Colere,ITA,Ukraine,National Championships,Snowboard Cross,9,84.10
+15,Karpov Anton,Male,24-03-2024,Lenk,SUI,Ukraine,National Championships,Snowboard Cross,15,19.20
+16,Karpov Anton,Male,22-03-2024,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,12,52.80
+17,Karpov Anton,Male,21-03-2024,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,31,6.72
+18,Karpov Anton,Male,09-03-2024,Cortina d'Ampezzo,ITA,Ukraine,World Cup,Snowboard Cross,66,
+19,Karpov Anton,Male,08-03-2024,Cortina d'Ampezzo,ITA,Ukraine,Qualification,Snowboard Cross,66,
+20,Karpov Anton,Male,19-02-2024,Bukovel,UKR,Ukraine,National Championships,Snowboard Cross,2,40.00
+21,Karpov Anton,Male,18-02-2024,Bukovel,UKR,Ukraine,FIS,Snowboard Cross,2,40.00
+22,Karpov Anton,Male,04-02-2024,Gudauri,GEO,Ukraine,World Cup,Snowboard Cross,56,
+23,Karpov Anton,Male,03-02-2024,Gudauri,GEO,Ukraine,World Cup,Snowboard Cross,56,
+24,Karpov Anton,Male,02-02-2024,Gudauri,GEO,Ukraine,Qualification,Snowboard Cross,56,
+25,Karpov Anton,Male,28-01-2024,Lenk,SUI,Ukraine,FIS,Snowboard Cross,2,56.00
+26,Karpov Anton,Male,27-01-2024,Lenk,SUI,Ukraine,FIS,Snowboard Cross,1,70.00
+27,Karpov Anton,Male,26-01-2024,St. Moritz,SUI,Ukraine,World Cup,Snowboard Cross,54,14.30
+28,Karpov Anton,Male,25-01-2024,St. Moritz,SUI,Ukraine,Qualification,Snowboard Cross,54,
+29,Karpov Anton,Male,20-01-2024,Montafon,AUT,Ukraine,National Championships,Snowboard Cross,52,4.32
+30,Karpov Anton,Male,16-12-2023,Cervinia,ITA,Ukraine,World Cup,Snowboard Cross,63,
+31,Karpov Anton,Male,09-12-2023,Pitztal,AUT,Ukraine,FIS,Snowboard Cross,15,22.40
+32,Karpov Anton,Male,03-12-2023,Les Deux Alpes,FRA,Ukraine,Qualification,Snowboard Cross,57,
+33,Karpov Anton,Male,03-12-2023,Les Deux Alpes,FRA,Ukraine,World Cup,Snowboard Cross,57,13.40
+34,Karpov Anton,Male,02-04-2023,Moena - Passo San Pellegrino,ITA,Ukraine,National Championships,Snowboard Cross,6,116.00
+35,Karpov Anton,Male,19-03-2023,Passo San Pellegrino,ITA,Ukraine,FIS,Snowboard Cross,27,8.10
+36,Karpov Anton,Male,18-03-2023,Passo San Pellegrino,ITA,Ukraine,FIS,Snowboard Cross,8,57.60
+37,Karpov Anton,Male,16-03-2023,Pitztal,AUT,Ukraine,FIS,Snowboard Cross,14,23.40
+38,Karpov Anton,Male,15-03-2023,Pitztal,AUT,Ukraine,FIS,Snowboard Cross,17,18.20
+39,Karpov Anton,Male,01-03-2023,Bakuriani,GEO,Ukraine,World Championships,Snowboard Cross,33,24.00
+40,Karpov Anton,Male,14-01-2023,Lenk,SUI,Ukraine,FIS,Snowboard Cross,2,40.00
+41,Karpov Anton,Male,25-11-2022,Pitztal,AUT,Ukraine,FIS,Snowboard Cross,33,5.28
+42,Karpov Anton,Male,24-11-2022,Pitztal,AUT,Ukraine,European Cup,Snowboard Cross,84,1.27
+43,Karpov Anton,Male,23-11-2022,Pitztal,AUT,Ukraine,Qualification,Snowboard Cross,84,
+44,Karpov Anton,Male,06-02-2022,Dolni Morava,CZE,Ukraine,FIS,Snowboard Cross,17,16.80
+45,Karpov Anton,Male,05-02-2022,Dolni Morava,CZE,Ukraine,FIS,Snowboard Cross,21,14.00
+46,Karpov Anton,Male,03-02-2022,Dolni Morava,CZE,Ukraine,European Cup,Snowboard Cross,28,10.40
+47,Karpov Anton,Male,02-02-2022,Dolni Morava,CZE,Ukraine,European Cup,Snowboard Cross,33,5.76
+48,Karpov Anton,Male,14-12-2021,Reiteralm,AUT,Ukraine,FIS,Snowboard Cross,33,5.28
+49,Karpov Anton,Male,13-12-2021,Reiteralm,AUT,Ukraine,FIS,Snowboard Cross,DNF,
+50,Karpov Anton,Male,10-04-2021,Colere,ITA,Ukraine,National Championships,Snowboard Cross,6,80.00
+51,Karpov Anton,Male,29-03-2021,Reiteralm,AUT,Ukraine,National Championships,Snowboard Cross,28,11.60
+52,Karpov Anton,Male,12-03-2021,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,DNF,
+53,Karpov Anton,Male,11-02-2021,Idre Fjäll,SWE,Ukraine,World Championships,Snowboard Cross,48,
+54,Karpov Anton,Male,09-02-2021,Idre Fjäll,SWE,Ukraine,Qualification,Snowboard Cross,48,
+55,Karpov Anton,Male,03-02-2021,Isola 2000,FRA,Ukraine,European Cup,Snowboard Cross,33,3.84
+56,Karpov Anton,Male,31-01-2021,Isola 2000,FRA,Ukraine,European Cup,Snowboard Cross,33,6.24
+57,Karpov Anton,Male,30-01-2021,Isola 2000,FRA,Ukraine,European Cup,Snowboard Cross,60,4.50
+58,Karpov Anton,Male,24-01-2021,Reiteralm,AUT,Ukraine,FIS,Snowboard Cross,17,9.80
+59,Karpov Anton,Male,23-01-2021,Reiteralm,AUT,Ukraine,FIS,Snowboard Cross,28,2.80
+60,Karpov Anton,Male,08-02-2020,Colere,ITA,Ukraine,FIS,Snowboard Cross,20,14.30
+61,Karpov Anton,Male,07-02-2020,Colere,ITA,Ukraine,FIS,Snowboard Cross,21,14.00
+62,Karpov Anton,Male,12-01-2020,Puy St. Vincent,FRA,Ukraine,European Cup,Snowboard Cross,DNF1,
+63,Karpov Anton,Male,11-01-2020,Puy St. Vincent,FRA,Ukraine,European Cup,Snowboard Cross,39,6.02
+64,Karpov Anton,Male,20-12-2019,Isola 2000,FRA,Ukraine,European Cup,Snowboard Cross,21,16.00
+65,Karpov Anton,Male,19-12-2019,Isola 2000,FRA,Ukraine,European Cup,Snowboard Cross,24,11.20
+66,Karpov Anton,Male,28-11-2019,Pitztal,AUT,Ukraine,European Cup,Snowboard Cross,67,3.74
+67,Karpov Anton,Male,29-03-2019,Piancavallo,ITA,Ukraine,National Championships,Snowboard Cross,11,69.60
+68,Karpov Anton,Male,27-03-2019,Isola 2000,FRA,Ukraine,National Championships,Snowboard Cross,11,48.00
+69,Karpov Anton,Male,24-03-2019,Lenk,SUI,Ukraine,National Championships,Snowboard Cross,25,14.40
+70,Karpov Anton,Male,23-03-2019,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,44,6.23
+71,Karpov Anton,Male,22-03-2019,Lenk,SUI,Ukraine,European Cup,Snowboard Cross,DNF1,
+72,Karpov Anton,Male,10-03-2019,Gudauri,GEO,Ukraine,FIS,Snowboard Cross,8,22.40
+73,Karpov Anton,Male,09-03-2019,Gudauri,GEO,Ukraine,European Cup,Snowboard Cross,29,9.36
+74,Karpov Anton,Male,08-03-2019,Gudauri,GEO,Ukraine,European Cup,Snowboard Cross,21,26.00
+75,Karpov Anton,Male,10-02-2019,Dolni Morava,CZE,Ukraine,FIS,Snowboard Cross,2,40.00
+76,Karpov Anton,Male,09-02-2019,Dolni Morava,CZE,Ukraine,FIS,Snowboard Cross,4,25.00
+77,Karpov Anton,Male,07-02-2019,Dolni Morava,CZE,Ukraine,European Cup,Snowboard Cross,29,5.76
+78,Karpov Anton,Male,06-02-2019,Dolni Morava,CZE,Ukraine,European Cup,Snowboard Cross,27,7.20
+79,Karpov Anton,Male,20-01-2019,Grasgehren,GER,Ukraine,European Cup,Snowboard Cross,DNF1,
+80,Karpov Anton,Male,19-01-2019,Grasgehren,GER,Ukraine,European Cup,Snowboard Cross,41,6.55
+81,Karpov Anton,Male,13-01-2019,Puy St. Vincent,FRA,Ukraine,European Cup,Snowboard Cross,43,5.63
+82,Karpov Anton,Male,12-01-2019,Puy St. Vincent,FRA,Ukraine,European Cup,Snowboard Cross,49,
+83,Karpov Anton,Male,17-12-2018,Isola 2000,FRA,Ukraine,FIS,Snowboard Cross,10,33.80
+84,Karpov Anton,Male,16-12-2018,Isola 2000,FRA,Ukraine,FIS,Snowboard Cross,8,41.60
+85,Karpov Anton,Male,29-11-2018,Pitztal,AUT,Ukraine,European Cup,Snowboard Cross,69,3.53
+86,Karpov Anton,Male,28-11-2018,Pitztal,AUT,Ukraine,European Cup,Snowboard Cross,71,3.31
+87,Karpov Anton,Male,01-04-2018,Peyragudes,FRA,Ukraine,National Championships,Snowboard Cross,22,26.10
+88,Karpov Anton,Male,11-03-2018,Dolni Morava,CZE,Ukraine,FIS,Snowboardcross,5,22.50
+89,Karpov Anton,Male,10-03-2018,Dolni Morava,CZE,Ukraine,FIS,Snowboardcross,4,25.00
+90,Karpov Anton,Male,10-03-2018,Annaberg,AUT,Ukraine,FIS,Snowboard Cross,DNS1,
+91,Karpov Anton,Male,09-03-2018,Annaberg,AUT,Ukraine,FIS,Snowboard Cross,4,25.00
+92,Karpov Anton,Male,06-03-2018,Moena,ITA,Ukraine,National Championships,Snowboard Cross,17,22.40
+93,Karpov Anton,Male,04-03-2018,Gargellen,AUT,Ukraine,FIS,Snowboard Cross,9,40.60
+94,Karpov Anton,Male,03-03-2018,Gargellen,AUT,Ukraine,FIS,Snowboard Cross,17,19.60
+95,Karpov Anton,Male,25-02-2018,Dolni Morava,CZE,Ukraine,FIS,Snowboard Cross,5,22.50
+96,Karpov Anton,Male,24-02-2018,Dolni Morava,CZE,Ukraine,FIS,Snowboard Cross,9,29.00
+97,Karpov Anton,Male,11-02-2018,Pec pod Snezkou,CZE,Ukraine,FIS,Snowboard Cross,7,18.00
+98,Karpov Anton,Male,10-02-2018,Pec pod Snezkou,CZE,Ukraine,FIS,Snowboard Cross,8,16.00
+99,Karpov Anton,Male,06-02-2018,Bukovytsya,UKR,Ukraine,National Championships,Parallel Slalom,20,11.00
+100,Karpov Anton,Male,05-02-2018,Bukovytsya,UKR,Ukraine,National Championships,Parallel GS,20,11.00
+101,Karpov Anton,Male,30-11-2017,Pitztal,AUT,Ukraine,European Cup,Snowboard Cross,65,3.96
+102,Karpov Anton,Male,29-11-2017,Pitztal,AUT,Ukraine,European Cup,Snowboard Cross,55,5.04
+103,Karpov Anton,Male,13-03-2017,Gargellen,AUT,Ukraine,FIS,Snowboardcross,25,13.20
+104,Karpov Anton,Male,12-03-2017,Gargellen,AUT,Ukraine,FIS,Snowboardcross,25,13.20
+105,Karpov Anton,Male,10-03-2017,Moena,ITA,Ukraine,FIS,Snowboardcross,13,22.00
+106,Karpov Anton,Male,09-03-2017,Moena,ITA,Ukraine,FIS,Snowboardcross,21,11.00
+107,Karpov Anton,Male,18-02-2017,Klinovec,CZE,Ukraine,FIS Junior World Championships,Snowboardcross,42,4.30
+108,Karpov Anton,Male,15-01-2017,Dolni Morava,CZE,Ukraine,Junior,Snowboardcross,10,13.00
+109,Karpov Anton,Male,14-01-2017,Dolni Morava,CZE,Ukraine,Junior,Snowboardcross,11,12.00
+110,Karpov Anton,Male,04-12-2016,Pitzal,AUT,Ukraine,Junior,Snowboardcross,63,2.32
+111,Karpov Anton,Male,03-12-2016,Pitzal,AUT,Ukraine,Junior,Snowboardcross,33,4.80
+112,Karpov Anton,Male,01-12-2016,Pitztal,AUT,Ukraine,European Cup,Snowboardcross,96,0.61
+113,Karpov Anton,Male,30-11-2016,Pitztal,AUT,Ukraine,European Cup,Snowboardcross,108,
+114,Karpov Anton,Male,04-04-2016,Rogla,SLO,Ukraine,FIS Junior World Championships,Snowboardcross,51,5.47
+115,Karpov Anton,Male,13-03-2016,Bozi Dar,CZE,Ukraine,FIS,Snowboardcross,9,20.30
+116,Karpov Anton,Male,12-03-2016,Bozi Dar,CZE,Ukraine,FIS,Snowboardcross,7,25.20
+117,Karpov Anton,Male,14-02-2016,Dolni Morava,CZE,Ukraine,FIS,Snowboardcross,12,19.80
+118,Karpov Anton,Male,13-02-2016,Dolni Morava,CZE,Ukraine,FIS,Snowboardcross,19,10.80
+119,Karpov Anton,Male,28-02-2015,Krasiya,UKR,Ukraine,National Championships,Parallel Slalom,32,
+120,Karpov Anton,Male,27-02-2015,Krasiya,UKR,Ukraine,National Championships,Giant Slalom,9,26.10
+121,Karpov Anton,Male,10-02-2015,Sierra Nevada,ESP,Ukraine,Universiade,Parallel GS,26,18.00
+122,Karpov Anton,Male,06-02-2015,Sierra Nevada,ESP,Ukraine,Universiade,Snowboardcross,28,16.00
+123,Karpov Anton,Male,30-11-2014,Pitztal,AUT,Ukraine,Junior,Snowboardcross,17,19.60
+124,Karpov Anton,Male,29-11-2014,Pitztal,AUT,Ukraine,Junior,Snowboardcross,65,1.54
+125,Karpov Anton,Male,02-04-2014,Chiesa in Valmalenco,ITA,Ukraine,FIS Junior World Championships,Snowboardcross,55,0.00
+126,Karpov Anton,Male,25-03-2014,Chiesa in Valmalenco,ITA,Ukraine,FIS Junior World Championships,Parallel Slalom,36,7.09
+127,Karpov Anton,Male,24-03-2014,Chiesa in Valmalenco,ITA,Ukraine,FIS Junior World Championships,Parallel GS,38,6.88
+128,Karpov Anton,Male,28-02-2013,Krasiya,UKR,Ukraine,National Championships,Parallel Slalom,10,31.20
+129,Karpov Anton,Male,27-02-2013,Krasiya,UKR,Ukraine,National Championships,Parallel GS,21,15.00
+130,Karpov Anton,Male,17-02-2013,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,39,8.46
+131,Karpov Anton,Male,16-02-2013,Lenzerheide,SUI,Ukraine,European Cup,Parallel Slalom,36,7.88
+132,Karpov Anton,Male,10-02-2013,Marianske Lazne,CZE,Ukraine,European Cup,Parallel Slalom,44,5.54
+133,Karpov Anton,Male,09-02-2013,Marianske Lazne,CZE,Ukraine,European Cup,Parallel Slalom,46,5.34
+134,Karpov Anton,Male,20-01-2013,Vratna - Paseky,SVK,Ukraine,European Cup,Parallel GS,50,4.96
+135,Karpov Anton,Male,19-01-2013,Vratna - Paseky,SVK,Ukraine,European Cup,Parallel GS,55,4.48
