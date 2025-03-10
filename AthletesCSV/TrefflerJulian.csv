@@ -1,142 +1,143 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Treffler Julian,Male,08-03-2025,Montafon/Gargellen,AUT,Austria,European Cup,Parallel Giant Slalom,11,
-1,Treffler Julian,Male,02-03-2025,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,42,
-2,Treffler Julian,Male,02-03-2025,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,42,17.90
-3,Treffler Julian,Male,01-03-2025,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,44,
-4,Treffler Julian,Male,01-03-2025,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,44,17.30
-5,Treffler Julian,Male,23-02-2025,Funes - Vilnoessse,ITA,Austria,FIS,Parallel Giant Slalom,9,63.80
-6,Treffler Julian,Male,22-02-2025,Funes - Vilnoessse,ITA,Austria,FIS,Parallel Giant Slalom,7,79.20
-7,Treffler Julian,Male,02-02-2025,Ratschings,ITA,Austria,European Cup,Parallel Slalom,9,75.40
-8,Treffler Julian,Male,02-02-2025,Ratschings,ITA,Austria,Qualification,Parallel Slalom,4,
-9,Treffler Julian,Male,01-02-2025,Ratschings,ITA,Austria,European Cup,Parallel Slalom,4,145.00
-10,Treffler Julian,Male,01-02-2025,Ratschings,ITA,Austria,Qualification,Parallel Slalom,8,
-11,Treffler Julian,Male,26-01-2025,Simonhöhe,AUT,Austria,European Cup,Parallel Giant Slalom,13,64.00
-12,Treffler Julian,Male,25-01-2025,Simonhöhe,AUT,Austria,European Cup,Parallel Giant Slalom,3,108.00
-13,Treffler Julian,Male,22-01-2025,Bansko,BUL,Austria,European Cup,Parallel Giant Slalom,8,92.80
-14,Treffler Julian,Male,21-01-2025,Bansko,BUL,Austria,European Cup,Parallel Giant Slalom,12,63.80
-15,Treffler Julian,Male,14-01-2025,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,35,
-16,Treffler Julian,Male,14-01-2025,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,35,20.00
-17,Treffler Julian,Male,11-01-2025,Folgaria,ITA,Austria,European Cup,Parallel Giant Slalom,16,27.00
-18,Treffler Julian,Male,11-01-2025,Folgaria,ITA,Austria,Qualification,Parallel Giant Slalom,16,
-19,Treffler Julian,Male,10-01-2025,Folgaria,ITA,Austria,European Cup,Parallel Giant Slalom,3,108.00
-20,Treffler Julian,Male,10-01-2025,Folgaria,ITA,Austria,Qualification,Parallel Giant Slalom,4,
-21,Treffler Julian,Male,21-12-2024,Davos,SUI,Austria,Qualification,Parallel Slalom,DSQ,
-22,Treffler Julian,Male,21-12-2024,Davos,SUI,Austria,World Cup,Parallel Slalom,DSQ,
-23,Treffler Julian,Male,20-12-2024,Moninec,CZE,Austria,European Cup,Parallel Slalom,9,52.20
-24,Treffler Julian,Male,19-12-2024,Moninec,CZE,Austria,European Cup,Parallel Slalom,4,100.00
-25,Treffler Julian,Male,15-12-2024,Götschen,GER,Austria,European Cup,Parallel Slalom,11,57.60
-26,Treffler Julian,Male,14-12-2024,Götschen,GER,Austria,European Cup,Parallel Slalom,2,128.00
-27,Treffler Julian,Male,24-03-2024,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Slalom Team,6,
-28,Treffler Julian,Male,23-03-2024,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Slalom,DSQ,
-29,Treffler Julian,Male,23-03-2024,Lachtal,AUT,Austria,Qualification,Parallel Slalom,DSQ,
-30,Treffler Julian,Male,22-03-2024,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Giant Slalom,11,57.60
-31,Treffler Julian,Male,22-03-2024,Lachtal,AUT,Austria,Qualification,Parallel Giant Slalom,11,
-32,Treffler Julian,Male,10-03-2024,Senales - Schnals,ITA,Austria,FIS,Parallel Slalom,1,120.00
-33,Treffler Julian,Male,09-03-2024,Senales - Schnals,ITA,Austria,FIS,Parallel Slalom,1,120.00
-34,Treffler Julian,Male,24-02-2024,Alleghe,ITA,Austria,Junior,Parallel Giant Slalom,4,75.00
-35,Treffler Julian,Male,10-02-2024,Hochficht/Zwiesel,AUT,Austria,National Championships,Parallel Slalom,6,116.00
-36,Treffler Julian,Male,09-02-2024,Hochficht/Zwiesel,AUT,Austria,National Championships,Parallel Giant Slalom,12,63.80
-37,Treffler Julian,Male,04-02-2024,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,8,44.80
-38,Treffler Julian,Male,03-02-2024,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,1,140.00
-39,Treffler Julian,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Austria,FIS,Parallel Giant Slalom,12,35.20
-40,Treffler Julian,Male,27-01-2024,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,DNS,
-41,Treffler Julian,Male,27-01-2024,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom,DNS,
-42,Treffler Julian,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Austria,FIS,Parallel Giant Slalom,6,52.00
-43,Treffler Julian,Male,14-01-2024,Gosau,AUT,Austria,FIS,Parallel Slalom,3,60.00
-44,Treffler Julian,Male,13-01-2024,Gosau,AUT,Austria,FIS,Parallel Slalom,5,45.00
-45,Treffler Julian,Male,11-01-2024,Folgaria,ITA,Austria,Qualification,Parallel Slalom,DNS1,
-46,Treffler Julian,Male,11-01-2024,Folgaria,ITA,Austria,European Cup,Parallel Slalom,DNS,
-47,Treffler Julian,Male,05-01-2024,Simonhöhe,AUT,Austria,Junior,Parallel Giant Slalom,9,31.90
-48,Treffler Julian,Male,22-12-2023,Moninec,CZE,Austria,Junior,Parallel Slalom,1,70.00
-49,Treffler Julian,Male,21-12-2023,Moninec,CZE,Austria,Junior,Parallel Slalom,4,50.00
-50,Treffler Julian,Male,20-12-2023,Moninec,CZE,Austria,European Cup,Parallel Slalom,21,22.00
-51,Treffler Julian,Male,19-12-2023,Moninec,CZE,Austria,European Cup,Parallel Slalom,27,9.90
-52,Treffler Julian,Male,10-12-2023,Götschen,GER,Austria,Junior,Parallel Slalom,10,33.80
-53,Treffler Julian,Male,09-12-2023,Götschen,GER,Austria,Qualification,Parallel Slalom,25,
-54,Treffler Julian,Male,09-12-2023,Götschen,GER,Austria,European Cup,Parallel Slalom,25,21.60
-55,Treffler Julian,Male,08-12-2023,Götschen,GER,Austria,Qualification,Parallel Slalom,24,
-56,Treffler Julian,Male,08-12-2023,Götschen,GER,Austria,European Cup,Parallel Slalom,24,25.20
-57,Treffler Julian,Male,02-04-2023,Haus im Ennstal,AUT,Austria,National Championships,Parallel Slalom,9,84.10
-58,Treffler Julian,Male,01-04-2023,Haus im Ennstal,AUT,Austria,National Championships,Parallel Giant Slalom,20,31.90
-59,Treffler Julian,Male,25-03-2023,Bansko,BUL,Austria,FIS Junior World Championships,Parallel Slalom,30,7.68
-60,Treffler Julian,Male,25-03-2023,Bansko,BUL,Austria,Qualification,Parallel Slalom,30,
-61,Treffler Julian,Male,24-03-2023,Bansko,BUL,Austria,FIS Junior World Championships,Parallel Giant Slalom,11,57.60
-62,Treffler Julian,Male,24-03-2023,Bansko,BUL,Austria,Qualification,Parallel Giant Slalom,11,
-63,Treffler Julian,Male,19-03-2023,Ratschings,ITA,Austria,European Cup,Parallel Slalom,14,43.20
-64,Treffler Julian,Male,18-03-2023,Ratschings,ITA,Austria,European Cup,Parallel Slalom,20,19.80
-65,Treffler Julian,Male,12-03-2023,Davos,SUI,Austria,European Cup,Parallel Slalom,22,19.80
-66,Treffler Julian,Male,11-03-2023,Davos,SUI,Austria,European Cup,Parallel Slalom,29,12.96
-67,Treffler Julian,Male,05-03-2023,Zakopane,POL,Austria,European Cup,Parallel Giant Slalom,29,11.52
-68,Treffler Julian,Male,04-03-2023,Zakopane,POL,Austria,European Cup,Parallel Giant Slalom,24,25.20
-69,Treffler Julian,Male,26-02-2023,Simonhoehe,AUT,Austria,Junior,Parallel Giant Slalom,6,52.00
-70,Treffler Julian,Male,25-02-2023,Simonhoehe,AUT,Austria,Junior,Parallel Giant Slalom,6,52.00
-71,Treffler Julian,Male,12-02-2023,Funes - Vilnoess,ITA,Austria,FIS,Parallel Giant Slalom,21,22.00
-72,Treffler Julian,Male,11-02-2023,Funes - Vilnoess,ITA,Austria,FIS,Parallel Giant Slalom,18,28.60
-73,Treffler Julian,Male,05-02-2023,Gosau,AUT,Austria,FIS,Slalom,DSQ,
-74,Treffler Julian,Male,04-02-2023,Gosau,AUT,Austria,FIS,Slalom,6,44.00
-75,Treffler Julian,Male,04-02-2023,Gosau,AUT,Austria,FIS,Slalom,7,39.60
-76,Treffler Julian,Male,29-01-2023,Simonhöhe,AUT,Austria,European Cup,Parallel Giant Slalom,8,57.60
-77,Treffler Julian,Male,29-01-2023,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,12,
-78,Treffler Julian,Male,28-01-2023,Simonhöhe,AUT,Austria,European Cup,Parallel Giant Slalom,11,43.20
-79,Treffler Julian,Male,28-01-2023,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,11,
-80,Treffler Julian,Male,15-01-2023,Alleghe,ITA,Austria,European Cup,Parallel Slalom,14,28.80
-81,Treffler Julian,Male,15-01-2023,Alleghe,ITA,Austria,Qualification,Parallel Slalom,12,
-82,Treffler Julian,Male,14-01-2023,Alleghe,ITA,Austria,European Cup,Parallel Slalom,8,51.20
-83,Treffler Julian,Male,14-01-2023,Alleghe,ITA,Austria,Qualification,Parallel Slalom,12,
-84,Treffler Julian,Male,10-01-2023,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,46,
-85,Treffler Julian,Male,10-01-2023,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,46,
-86,Treffler Julian,Male,08-01-2023,Haus im Ennstal,AUT,Austria,Junior,Giant Slalom,4,60.00
-87,Treffler Julian,Male,07-01-2023,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,9,34.80
-88,Treffler Julian,Male,18-12-2022,Hochfügen,GER,Austria,European Cup,Parallel Giant Slalom,44,4.50
-89,Treffler Julian,Male,18-12-2022,Hochfügen,GER,Austria,Qualification,Parallel Giant Slalom,44,
-90,Treffler Julian,Male,17-12-2022,Hochfügen,GER,Austria,European Cup,Parallel Giant Slalom,16,27.00
-91,Treffler Julian,Male,01-04-2022,Chiesa in Valmalenco,ITA,Austria,FIS Junior World Championships,Parallel Slalom,11,57.60
-92,Treffler Julian,Male,31-03-2022,Chiesa in Valmalenco,ITA,Austria,FIS Junior World Championships,Parallel Giant Slalom,41,4.37
-93,Treffler Julian,Male,27-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,14,52.20
-94,Treffler Julian,Male,26-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Giant Slalom,8,92.80
-95,Treffler Julian,Male,12-03-2022,Pizol,SUI,Austria,Junior,Parallel Slalom,15,
-96,Treffler Julian,Male,06-03-2022,Lachtal,AUT,Austria,European Cup,Parallel Giant Slalom,21,36.00
-97,Treffler Julian,Male,05-03-2022,Lachtal,AUT,Austria,European Cup,Parallel Giant Slalom,28,14.40
-98,Treffler Julian,Male,27-02-2022,Simonhöhe,AUT,Austria,FIS,Parallel Giant Slalom,13,44.00
-99,Treffler Julian,Male,26-02-2022,Simonhöhe,AUT,Austria,FIS,Parallel Giant Slalom,18,28.60
-100,Treffler Julian,Male,20-02-2022,Funes - Vilnoess,ITA,Austria,FIS,Parallel Giant Slalom,DNS,
-101,Treffler Julian,Male,19-02-2022,Funes - Vilnoess,ITA,Austria,FIS,Parallel Giant Slalom,12,48.40
-102,Treffler Julian,Male,06-02-2022,Ebensee,AUT,Austria,FIS,Parallel Slalom,4,35.00
-103,Treffler Julian,Male,05-02-2022,Ebensee,AUT,Austria,FIS,Parallel Slalom,12,15.40
-104,Treffler Julian,Male,30-01-2022,Nova Levante - Welschnofen,ITA,Austria,FIS,Parallel Slalom,1,50.00
-105,Treffler Julian,Male,29-01-2022,Nova Levante - Welschnofen,ITA,Austria,FIS,Parallel Slalom,4,25.00
-106,Treffler Julian,Male,15-01-2022,Goetschen,GER,Austria,Junior,Parallel Slalom,10,18.20
-107,Treffler Julian,Male,09-01-2022,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,5,45.00
-108,Treffler Julian,Male,08-01-2022,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,6,40.00
-109,Treffler Julian,Male,21-03-2021,Pizol,SUI,Austria,Junior,Parallel Slalom,6,20.00
-110,Treffler Julian,Male,20-03-2021,Pizol,SUI,Austria,Junior,Parallel Slalom,1,50.00
-111,Treffler Julian,Male,13-03-2021,Davos Rinerhorn,SUI,Austria,European Cup,Parallel Giant Slalom,45,6.12
-112,Treffler Julian,Male,07-03-2021,Simonhöhe,AUT,Austria,Junior,Parallel Giant Slalom,6,36.00
-113,Treffler Julian,Male,06-03-2021,Simonhöhe,AUT,Austria,Junior,Parallel Giant Slalom,4,45.00
-114,Treffler Julian,Male,28-02-2021,Funes/Villnoesses,ITA,Austria,European Cup,Parallel Giant Slalom,24,18.20
-115,Treffler Julian,Male,27-02-2021,Funes/Villnoesses,ITA,Austria,European Cup,Parallel Giant Slalom,36,6.30
-116,Treffler Julian,Male,21-02-2021,Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,35,5.80
-117,Treffler Julian,Male,20-02-2021,Gerlitzen,AUT,Austria,National Championships,Parallel Giant Slalom,37,5.63
-118,Treffler Julian,Male,07-02-2021,Gosau,AUT,Austria,FIS,Parallel Slalom,3,42.00
-119,Treffler Julian,Male,06-02-2021,Gosau,AUT,Austria,FIS,Parallel Slalom,3,42.00
-120,Treffler Julian,Male,23-01-2021,Haus im Ennstal,AUT,Austria,Junior,Parallel Slalom,7,18.00
-121,Treffler Julian,Male,22-01-2021,Haus im Ennstal,AUT,Austria,Junior,Parallel Slalom,11,12.00
-122,Treffler Julian,Male,17-01-2021,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,51,5.47
-123,Treffler Julian,Male,16-01-2021,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,49,5.69
-124,Treffler Julian,Male,10-01-2021,Goetschen,GER,Austria,Junior,Parallel Slalom,10,26.00
-125,Treffler Julian,Male,09-01-2021,Goetschen,GER,Austria,Junior,Parallel Slalom,10,26.00
-126,Treffler Julian,Male,20-12-2020,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Giant Slalom,19,43.20
-127,Treffler Julian,Male,19-12-2020,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Slalom,13,72.00
-128,Treffler Julian,Male,08-03-2020,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,25,21.60
-129,Treffler Julian,Male,07-03-2020,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,35,7.20
-130,Treffler Julian,Male,23-02-2020,Funes/Villnoesses,ITA,Austria,FIS,Parallel Giant Slalom,22,19.80
-131,Treffler Julian,Male,22-02-2020,Funes/Villnoesses,ITA,Austria,FIS,Parallel Giant Slalom,26,11.00
-132,Treffler Julian,Male,16-02-2020,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,37,6.98
-133,Treffler Julian,Male,09-02-2020,Gerlitzen,AUT,Austria,FIS,Giant Slalom,23,17.60
-134,Treffler Julian,Male,08-02-2020,Gerlitzen,AUT,Austria,FIS,Giant Slalom,DSQ1,
-135,Treffler Julian,Male,26-01-2020,Gosau,AUT,Austria,FIS,Parallel Slalom,13,36.00
-136,Treffler Julian,Male,25-01-2020,Gosau,AUT,Austria,FIS,Parallel Slalom,20,19.80
-137,Treffler Julian,Male,21-12-2019,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,1,90.00
-138,Treffler Julian,Male,20-12-2019,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,10,23.40
-139,Treffler Julian,Male,15-12-2019,Cortina d Ampezzo,ITA,Austria,Junior,Parallel Slalom,14,28.80
-140,Treffler Julian,Male,14-12-2019,Cortina d Ampezzo,ITA,Austria,Junior,Parallel Slalom,17,12.60
+0,Treffler Julian,Male,09-03-2025,Montafon/Gargellen,AUT,Austria,European Cup,Parallel Slalom,26,
+1,Treffler Julian,Male,08-03-2025,Montafon/Gargellen,AUT,Austria,European Cup,Parallel Giant Slalom,11,
+2,Treffler Julian,Male,02-03-2025,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,42,
+3,Treffler Julian,Male,02-03-2025,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,42,17.90
+4,Treffler Julian,Male,01-03-2025,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,44,
+5,Treffler Julian,Male,01-03-2025,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,44,17.30
+6,Treffler Julian,Male,23-02-2025,Funes - Vilnoessse,ITA,Austria,FIS,Parallel Giant Slalom,9,63.80
+7,Treffler Julian,Male,22-02-2025,Funes - Vilnoessse,ITA,Austria,FIS,Parallel Giant Slalom,7,79.20
+8,Treffler Julian,Male,02-02-2025,Ratschings,ITA,Austria,European Cup,Parallel Slalom,9,75.40
+9,Treffler Julian,Male,02-02-2025,Ratschings,ITA,Austria,Qualification,Parallel Slalom,4,
+10,Treffler Julian,Male,01-02-2025,Ratschings,ITA,Austria,European Cup,Parallel Slalom,4,145.00
+11,Treffler Julian,Male,01-02-2025,Ratschings,ITA,Austria,Qualification,Parallel Slalom,8,
+12,Treffler Julian,Male,26-01-2025,Simonhöhe,AUT,Austria,European Cup,Parallel Giant Slalom,13,64.00
+13,Treffler Julian,Male,25-01-2025,Simonhöhe,AUT,Austria,European Cup,Parallel Giant Slalom,3,108.00
+14,Treffler Julian,Male,22-01-2025,Bansko,BUL,Austria,European Cup,Parallel Giant Slalom,8,92.80
+15,Treffler Julian,Male,21-01-2025,Bansko,BUL,Austria,European Cup,Parallel Giant Slalom,12,63.80
+16,Treffler Julian,Male,14-01-2025,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,35,
+17,Treffler Julian,Male,14-01-2025,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,35,20.00
+18,Treffler Julian,Male,11-01-2025,Folgaria,ITA,Austria,European Cup,Parallel Giant Slalom,16,27.00
+19,Treffler Julian,Male,11-01-2025,Folgaria,ITA,Austria,Qualification,Parallel Giant Slalom,16,
+20,Treffler Julian,Male,10-01-2025,Folgaria,ITA,Austria,European Cup,Parallel Giant Slalom,3,108.00
+21,Treffler Julian,Male,10-01-2025,Folgaria,ITA,Austria,Qualification,Parallel Giant Slalom,4,
+22,Treffler Julian,Male,21-12-2024,Davos,SUI,Austria,Qualification,Parallel Slalom,DSQ,
+23,Treffler Julian,Male,21-12-2024,Davos,SUI,Austria,World Cup,Parallel Slalom,DSQ,
+24,Treffler Julian,Male,20-12-2024,Moninec,CZE,Austria,European Cup,Parallel Slalom,9,52.20
+25,Treffler Julian,Male,19-12-2024,Moninec,CZE,Austria,European Cup,Parallel Slalom,4,100.00
+26,Treffler Julian,Male,15-12-2024,Götschen,GER,Austria,European Cup,Parallel Slalom,11,57.60
+27,Treffler Julian,Male,14-12-2024,Götschen,GER,Austria,European Cup,Parallel Slalom,2,128.00
+28,Treffler Julian,Male,24-03-2024,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Slalom Team,6,
+29,Treffler Julian,Male,23-03-2024,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Slalom,DSQ,
+30,Treffler Julian,Male,23-03-2024,Lachtal,AUT,Austria,Qualification,Parallel Slalom,DSQ,
+31,Treffler Julian,Male,22-03-2024,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Giant Slalom,11,57.60
+32,Treffler Julian,Male,22-03-2024,Lachtal,AUT,Austria,Qualification,Parallel Giant Slalom,11,
+33,Treffler Julian,Male,10-03-2024,Senales - Schnals,ITA,Austria,FIS,Parallel Slalom,1,120.00
+34,Treffler Julian,Male,09-03-2024,Senales - Schnals,ITA,Austria,FIS,Parallel Slalom,1,120.00
+35,Treffler Julian,Male,24-02-2024,Alleghe,ITA,Austria,Junior,Parallel Giant Slalom,4,75.00
+36,Treffler Julian,Male,10-02-2024,Hochficht/Zwiesel,AUT,Austria,National Championships,Parallel Slalom,6,116.00
+37,Treffler Julian,Male,09-02-2024,Hochficht/Zwiesel,AUT,Austria,National Championships,Parallel Giant Slalom,12,63.80
+38,Treffler Julian,Male,04-02-2024,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,8,44.80
+39,Treffler Julian,Male,03-02-2024,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,1,140.00
+40,Treffler Julian,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Austria,FIS,Parallel Giant Slalom,12,35.20
+41,Treffler Julian,Male,27-01-2024,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,DNS,
+42,Treffler Julian,Male,27-01-2024,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom,DNS,
+43,Treffler Julian,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Austria,FIS,Parallel Giant Slalom,6,52.00
+44,Treffler Julian,Male,14-01-2024,Gosau,AUT,Austria,FIS,Parallel Slalom,3,60.00
+45,Treffler Julian,Male,13-01-2024,Gosau,AUT,Austria,FIS,Parallel Slalom,5,45.00
+46,Treffler Julian,Male,11-01-2024,Folgaria,ITA,Austria,Qualification,Parallel Slalom,DNS1,
+47,Treffler Julian,Male,11-01-2024,Folgaria,ITA,Austria,European Cup,Parallel Slalom,DNS,
+48,Treffler Julian,Male,05-01-2024,Simonhöhe,AUT,Austria,Junior,Parallel Giant Slalom,9,31.90
+49,Treffler Julian,Male,22-12-2023,Moninec,CZE,Austria,Junior,Parallel Slalom,1,70.00
+50,Treffler Julian,Male,21-12-2023,Moninec,CZE,Austria,Junior,Parallel Slalom,4,50.00
+51,Treffler Julian,Male,20-12-2023,Moninec,CZE,Austria,European Cup,Parallel Slalom,21,22.00
+52,Treffler Julian,Male,19-12-2023,Moninec,CZE,Austria,European Cup,Parallel Slalom,27,9.90
+53,Treffler Julian,Male,10-12-2023,Götschen,GER,Austria,Junior,Parallel Slalom,10,33.80
+54,Treffler Julian,Male,09-12-2023,Götschen,GER,Austria,Qualification,Parallel Slalom,25,
+55,Treffler Julian,Male,09-12-2023,Götschen,GER,Austria,European Cup,Parallel Slalom,25,21.60
+56,Treffler Julian,Male,08-12-2023,Götschen,GER,Austria,Qualification,Parallel Slalom,24,
+57,Treffler Julian,Male,08-12-2023,Götschen,GER,Austria,European Cup,Parallel Slalom,24,25.20
+58,Treffler Julian,Male,02-04-2023,Haus im Ennstal,AUT,Austria,National Championships,Parallel Slalom,9,84.10
+59,Treffler Julian,Male,01-04-2023,Haus im Ennstal,AUT,Austria,National Championships,Parallel Giant Slalom,20,31.90
+60,Treffler Julian,Male,25-03-2023,Bansko,BUL,Austria,FIS Junior World Championships,Parallel Slalom,30,7.68
+61,Treffler Julian,Male,25-03-2023,Bansko,BUL,Austria,Qualification,Parallel Slalom,30,
+62,Treffler Julian,Male,24-03-2023,Bansko,BUL,Austria,FIS Junior World Championships,Parallel Giant Slalom,11,57.60
+63,Treffler Julian,Male,24-03-2023,Bansko,BUL,Austria,Qualification,Parallel Giant Slalom,11,
+64,Treffler Julian,Male,19-03-2023,Ratschings,ITA,Austria,European Cup,Parallel Slalom,14,43.20
+65,Treffler Julian,Male,18-03-2023,Ratschings,ITA,Austria,European Cup,Parallel Slalom,20,19.80
+66,Treffler Julian,Male,12-03-2023,Davos,SUI,Austria,European Cup,Parallel Slalom,22,19.80
+67,Treffler Julian,Male,11-03-2023,Davos,SUI,Austria,European Cup,Parallel Slalom,29,12.96
+68,Treffler Julian,Male,05-03-2023,Zakopane,POL,Austria,European Cup,Parallel Giant Slalom,29,11.52
+69,Treffler Julian,Male,04-03-2023,Zakopane,POL,Austria,European Cup,Parallel Giant Slalom,24,25.20
+70,Treffler Julian,Male,26-02-2023,Simonhoehe,AUT,Austria,Junior,Parallel Giant Slalom,6,52.00
+71,Treffler Julian,Male,25-02-2023,Simonhoehe,AUT,Austria,Junior,Parallel Giant Slalom,6,52.00
+72,Treffler Julian,Male,12-02-2023,Funes - Vilnoess,ITA,Austria,FIS,Parallel Giant Slalom,21,22.00
+73,Treffler Julian,Male,11-02-2023,Funes - Vilnoess,ITA,Austria,FIS,Parallel Giant Slalom,18,28.60
+74,Treffler Julian,Male,05-02-2023,Gosau,AUT,Austria,FIS,Slalom,DSQ,
+75,Treffler Julian,Male,04-02-2023,Gosau,AUT,Austria,FIS,Slalom,6,44.00
+76,Treffler Julian,Male,04-02-2023,Gosau,AUT,Austria,FIS,Slalom,7,39.60
+77,Treffler Julian,Male,29-01-2023,Simonhöhe,AUT,Austria,European Cup,Parallel Giant Slalom,8,57.60
+78,Treffler Julian,Male,29-01-2023,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,12,
+79,Treffler Julian,Male,28-01-2023,Simonhöhe,AUT,Austria,European Cup,Parallel Giant Slalom,11,43.20
+80,Treffler Julian,Male,28-01-2023,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,11,
+81,Treffler Julian,Male,15-01-2023,Alleghe,ITA,Austria,European Cup,Parallel Slalom,14,28.80
+82,Treffler Julian,Male,15-01-2023,Alleghe,ITA,Austria,Qualification,Parallel Slalom,12,
+83,Treffler Julian,Male,14-01-2023,Alleghe,ITA,Austria,European Cup,Parallel Slalom,8,51.20
+84,Treffler Julian,Male,14-01-2023,Alleghe,ITA,Austria,Qualification,Parallel Slalom,12,
+85,Treffler Julian,Male,10-01-2023,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,46,
+86,Treffler Julian,Male,10-01-2023,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,46,
+87,Treffler Julian,Male,08-01-2023,Haus im Ennstal,AUT,Austria,Junior,Giant Slalom,4,60.00
+88,Treffler Julian,Male,07-01-2023,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,9,34.80
+89,Treffler Julian,Male,18-12-2022,Hochfügen,GER,Austria,European Cup,Parallel Giant Slalom,44,4.50
+90,Treffler Julian,Male,18-12-2022,Hochfügen,GER,Austria,Qualification,Parallel Giant Slalom,44,
+91,Treffler Julian,Male,17-12-2022,Hochfügen,GER,Austria,European Cup,Parallel Giant Slalom,16,27.00
+92,Treffler Julian,Male,01-04-2022,Chiesa in Valmalenco,ITA,Austria,FIS Junior World Championships,Parallel Slalom,11,57.60
+93,Treffler Julian,Male,31-03-2022,Chiesa in Valmalenco,ITA,Austria,FIS Junior World Championships,Parallel Giant Slalom,41,4.37
+94,Treffler Julian,Male,27-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,14,52.20
+95,Treffler Julian,Male,26-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Giant Slalom,8,92.80
+96,Treffler Julian,Male,12-03-2022,Pizol,SUI,Austria,Junior,Parallel Slalom,15,
+97,Treffler Julian,Male,06-03-2022,Lachtal,AUT,Austria,European Cup,Parallel Giant Slalom,21,36.00
+98,Treffler Julian,Male,05-03-2022,Lachtal,AUT,Austria,European Cup,Parallel Giant Slalom,28,14.40
+99,Treffler Julian,Male,27-02-2022,Simonhöhe,AUT,Austria,FIS,Parallel Giant Slalom,13,44.00
+100,Treffler Julian,Male,26-02-2022,Simonhöhe,AUT,Austria,FIS,Parallel Giant Slalom,18,28.60
+101,Treffler Julian,Male,20-02-2022,Funes - Vilnoess,ITA,Austria,FIS,Parallel Giant Slalom,DNS,
+102,Treffler Julian,Male,19-02-2022,Funes - Vilnoess,ITA,Austria,FIS,Parallel Giant Slalom,12,48.40
+103,Treffler Julian,Male,06-02-2022,Ebensee,AUT,Austria,FIS,Parallel Slalom,4,35.00
+104,Treffler Julian,Male,05-02-2022,Ebensee,AUT,Austria,FIS,Parallel Slalom,12,15.40
+105,Treffler Julian,Male,30-01-2022,Nova Levante - Welschnofen,ITA,Austria,FIS,Parallel Slalom,1,50.00
+106,Treffler Julian,Male,29-01-2022,Nova Levante - Welschnofen,ITA,Austria,FIS,Parallel Slalom,4,25.00
+107,Treffler Julian,Male,15-01-2022,Goetschen,GER,Austria,Junior,Parallel Slalom,10,18.20
+108,Treffler Julian,Male,09-01-2022,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,5,45.00
+109,Treffler Julian,Male,08-01-2022,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,6,40.00
+110,Treffler Julian,Male,21-03-2021,Pizol,SUI,Austria,Junior,Parallel Slalom,6,20.00
+111,Treffler Julian,Male,20-03-2021,Pizol,SUI,Austria,Junior,Parallel Slalom,1,50.00
+112,Treffler Julian,Male,13-03-2021,Davos Rinerhorn,SUI,Austria,European Cup,Parallel Giant Slalom,45,6.12
+113,Treffler Julian,Male,07-03-2021,Simonhöhe,AUT,Austria,Junior,Parallel Giant Slalom,6,36.00
+114,Treffler Julian,Male,06-03-2021,Simonhöhe,AUT,Austria,Junior,Parallel Giant Slalom,4,45.00
+115,Treffler Julian,Male,28-02-2021,Funes/Villnoesses,ITA,Austria,European Cup,Parallel Giant Slalom,24,18.20
+116,Treffler Julian,Male,27-02-2021,Funes/Villnoesses,ITA,Austria,European Cup,Parallel Giant Slalom,36,6.30
+117,Treffler Julian,Male,21-02-2021,Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,35,5.80
+118,Treffler Julian,Male,20-02-2021,Gerlitzen,AUT,Austria,National Championships,Parallel Giant Slalom,37,5.63
+119,Treffler Julian,Male,07-02-2021,Gosau,AUT,Austria,FIS,Parallel Slalom,3,42.00
+120,Treffler Julian,Male,06-02-2021,Gosau,AUT,Austria,FIS,Parallel Slalom,3,42.00
+121,Treffler Julian,Male,23-01-2021,Haus im Ennstal,AUT,Austria,Junior,Parallel Slalom,7,18.00
+122,Treffler Julian,Male,22-01-2021,Haus im Ennstal,AUT,Austria,Junior,Parallel Slalom,11,12.00
+123,Treffler Julian,Male,17-01-2021,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,51,5.47
+124,Treffler Julian,Male,16-01-2021,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,49,5.69
+125,Treffler Julian,Male,10-01-2021,Goetschen,GER,Austria,Junior,Parallel Slalom,10,26.00
+126,Treffler Julian,Male,09-01-2021,Goetschen,GER,Austria,Junior,Parallel Slalom,10,26.00
+127,Treffler Julian,Male,20-12-2020,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Giant Slalom,19,43.20
+128,Treffler Julian,Male,19-12-2020,Lachtal,AUT,Austria,FIS Junior World Championships,Parallel Slalom,13,72.00
+129,Treffler Julian,Male,08-03-2020,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,25,21.60
+130,Treffler Julian,Male,07-03-2020,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,35,7.20
+131,Treffler Julian,Male,23-02-2020,Funes/Villnoesses,ITA,Austria,FIS,Parallel Giant Slalom,22,19.80
+132,Treffler Julian,Male,22-02-2020,Funes/Villnoesses,ITA,Austria,FIS,Parallel Giant Slalom,26,11.00
+133,Treffler Julian,Male,16-02-2020,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,37,6.98
+134,Treffler Julian,Male,09-02-2020,Gerlitzen,AUT,Austria,FIS,Giant Slalom,23,17.60
+135,Treffler Julian,Male,08-02-2020,Gerlitzen,AUT,Austria,FIS,Giant Slalom,DSQ1,
+136,Treffler Julian,Male,26-01-2020,Gosau,AUT,Austria,FIS,Parallel Slalom,13,36.00
+137,Treffler Julian,Male,25-01-2020,Gosau,AUT,Austria,FIS,Parallel Slalom,20,19.80
+138,Treffler Julian,Male,21-12-2019,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,1,90.00
+139,Treffler Julian,Male,20-12-2019,Haus im Ennstal,AUT,Austria,Junior,Parallel Giant Slalom,10,23.40
+140,Treffler Julian,Male,15-12-2019,Cortina d Ampezzo,ITA,Austria,Junior,Parallel Slalom,14,28.80
+141,Treffler Julian,Male,14-12-2019,Cortina d Ampezzo,ITA,Austria,Junior,Parallel Slalom,17,12.60

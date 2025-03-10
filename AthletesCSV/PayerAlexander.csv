@@ -1,550 +1,551 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Payer Alexander,Male,02-03-2025,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,8,
-1,Payer Alexander,Male,02-03-2025,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,10,260.00
-2,Payer Alexander,Male,01-03-2025,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,20,
-3,Payer Alexander,Male,01-03-2025,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,20,110.00
-4,Payer Alexander,Male,16-02-2025,Val St. Come,CAN,Austria,Qualification,Parallel Giant Slalom,8,
-5,Payer Alexander,Male,16-02-2025,Val St. Come,CAN,Austria,World Cup,Parallel Giant Slalom,6,400.00
-6,Payer Alexander,Male,15-02-2025,Val St. Come,CAN,Austria,Qualification,Parallel Giant Slalom,DSQ,
-7,Payer Alexander,Male,15-02-2025,Val St. Come,CAN,Austria,World Cup,Parallel Giant Slalom,DSQ,
-8,Payer Alexander,Male,09-02-2025,Simonhoehe,AUT,Austria,National Championships,Parallel Slalom,6,116.00
-9,Payer Alexander,Male,08-02-2025,Simonhoehe,AUT,Austria,National Championships,Parallel Giant Slalom,3,174.00
-10,Payer Alexander,Male,25-01-2025,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,2,
-11,Payer Alexander,Male,25-01-2025,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,9,290.00
-12,Payer Alexander,Male,19-01-2025,Bansko,BUL,Austria,Qualification,Parallel Giant Slalom,11,
-13,Payer Alexander,Male,19-01-2025,Bansko,BUL,Austria,World Cup,Parallel Giant Slalom,4,500.00
-14,Payer Alexander,Male,18-01-2025,Bansko,BUL,Austria,Qualification,Parallel Giant Slalom,16,
-15,Payer Alexander,Male,18-01-2025,Bansko,BUL,Austria,World Cup,Parallel Giant Slalom,16,150.00
-16,Payer Alexander,Male,15-01-2025,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,5,
-17,Payer Alexander,Male,14-01-2025,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,6,
-18,Payer Alexander,Male,14-01-2025,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,4,500.00
-19,Payer Alexander,Male,11-01-2025,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,11,
-20,Payer Alexander,Male,11-01-2025,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,14,180.00
-21,Payer Alexander,Male,21-12-2024,Davos,SUI,Austria,Qualification,Parallel Slalom,8,
-22,Payer Alexander,Male,21-12-2024,Davos,SUI,Austria,World Cup,Parallel Slalom,10,260.00
-23,Payer Alexander,Male,14-12-2024,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,12,
-24,Payer Alexander,Male,14-12-2024,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,3,600.00
-25,Payer Alexander,Male,12-12-2024,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,19,
-26,Payer Alexander,Male,12-12-2024,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,19,120.00
-27,Payer Alexander,Male,08-12-2024,Yanqing (NASC),CHN,Austria,World Cup,Parallel Slalom,13,200.00
-28,Payer Alexander,Male,08-12-2024,Yanqing (NASC),CHN,Austria,Qualification,Parallel Slalom,11,
-29,Payer Alexander,Male,07-12-2024,Yanqing (NASC),CHN,Austria,World Cup,Parallel Giant Slalom,18,130.00
-30,Payer Alexander,Male,07-12-2024,Yanqing (NASC),CHN,Austria,Qualification,Parallel Giant Slalom,18,
-31,Payer Alexander,Male,01-12-2024,Mylin,CHN,Austria,World Cup,Parallel Slalom,19,120.00
-32,Payer Alexander,Male,01-12-2024,Mylin,CHN,Austria,Qualification,Parallel Slalom,19,
-33,Payer Alexander,Male,30-11-2024,Mylin,CHN,Austria,World Cup,Parallel Giant Slalom,13,200.00
-34,Payer Alexander,Male,30-11-2024,Mylin,CHN,Austria,Qualification,Parallel Giant Slalom,10,
-35,Payer Alexander,Male,17-03-2024,St. Moritz,SUI,Austria,European Cup,Parallel Slalom,DSQ,
-36,Payer Alexander,Male,16-03-2024,St. Moritz,SUI,Austria,European Cup,Parallel Giant Slalom,10,93.60
-37,Payer Alexander,Male,09-03-2024,Winterberg,GER,Austria,Qualification,Parallel Slalom,8,
-38,Payer Alexander,Male,09-03-2024,Winterberg,GER,Austria,World Cup,Parallel Slalom,12,220.00
-39,Payer Alexander,Male,25-02-2024,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,3,
-40,Payer Alexander,Male,25-02-2024,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,3,600.00
-41,Payer Alexander,Male,24-02-2024,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,29,
-42,Payer Alexander,Male,24-02-2024,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,29,36.00
-43,Payer Alexander,Male,10-02-2024,Hochficht/Zwiesel,AUT,Austria,National Championships,Parallel Slalom,3,174.00
-44,Payer Alexander,Male,09-02-2024,Hochficht/Zwiesel,AUT,Austria,National Championships,Parallel Giant Slalom,5,130.50
-45,Payer Alexander,Male,28-01-2024,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom Team,20,
-46,Payer Alexander,Male,27-01-2024,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,16,
-47,Payer Alexander,Male,27-01-2024,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom,16,150.00
-48,Payer Alexander,Male,25-01-2024,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,14,
-49,Payer Alexander,Male,25-01-2024,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,14,180.00
-50,Payer Alexander,Male,21-01-2024,Pamporovo,BUL,Austria,Qualification,Parallel Slalom,14,
-51,Payer Alexander,Male,21-01-2024,Pamporovo,BUL,Austria,World Cup,Parallel Slalom,8,320.00
-52,Payer Alexander,Male,20-01-2024,Pamporovo,BUL,Austria,Qualification,Parallel Slalom,14,
-53,Payer Alexander,Male,20-01-2024,Pamporovo,BUL,Austria,World Cup,Parallel Slalom,15,160.00
-54,Payer Alexander,Male,17-01-2024,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,16,
-55,Payer Alexander,Male,16-01-2024,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,25,
-56,Payer Alexander,Male,16-01-2024,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,25,60.00
-57,Payer Alexander,Male,13-01-2024,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,15,
-58,Payer Alexander,Male,13-01-2024,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,15,160.00
-59,Payer Alexander,Male,23-12-2023,Davos,SUI,Austria,Qualification,Parallel Slalom,20,
-60,Payer Alexander,Male,23-12-2023,Davos ,SUI,Austria,World Cup,Parallel Slalom,20,110.00
-61,Payer Alexander,Male,16-12-2023,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,14,
-62,Payer Alexander,Male,16-12-2023,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,15,160.00
-63,Payer Alexander,Male,14-12-2023,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,13,
-64,Payer Alexander,Male,14-12-2023,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,14,180.00
-65,Payer Alexander,Male,08-12-2023,Götschen,GER,Austria,Qualification,Parallel Slalom,5,
-66,Payer Alexander,Male,08-12-2023,Götschen,GER,Austria,European Cup,Parallel Slalom,6,144.00
-67,Payer Alexander,Male,21-02-2023,Bakuriani,GEO,Austria,Qualification,Parallel Slalom,DNF,
-68,Payer Alexander,Male,21-02-2023,Bakuriani,GEO,Austria,World Championships,Parallel Slalom,DNF,
-69,Payer Alexander,Male,19-02-2023,Bakuriani,GEO,Austria,Qualification,Parallel Giant Slalom,8,
-70,Payer Alexander,Male,19-02-2023,Bakuriani,GEO,Austria,World Championships,Parallel Giant Slalom,3,600.00
-71,Payer Alexander,Male,27-01-2023,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,5,
-72,Payer Alexander,Male,27-01-2023,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,2,800.00
-73,Payer Alexander,Male,26-01-2023,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,9,
-74,Payer Alexander,Male,26-01-2023,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,7,360.00
-75,Payer Alexander,Male,22-01-2023,Bansko,BUL,Austria,Qualification,Parallel Slalom,2,
-76,Payer Alexander,Male,22-01-2023,Bansko,BUL,Austria,World Cup,Parallel Slalom,9,290.00
-77,Payer Alexander,Male,21-01-2023,Bansko,BUL,Austria,Qualification,Parallel Slalom,15,
-78,Payer Alexander,Male,21-01-2023,Bansko,BUL,Austria,World Cup,Parallel Slalom,15,160.00
-79,Payer Alexander,Male,14-01-2023,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,6,
-80,Payer Alexander,Male,14-01-2023,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,6,400.00
-81,Payer Alexander,Male,11-01-2023,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,4,
-82,Payer Alexander,Male,10-01-2023,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,3,
-83,Payer Alexander,Male,10-01-2023,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,2,800.00
-84,Payer Alexander,Male,17-12-2022,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,8,
-85,Payer Alexander,Male,17-12-2022,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,10,260.00
-86,Payer Alexander,Male,15-12-2022,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,4,
-87,Payer Alexander,Male,15-12-2022,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,10,260.00
-88,Payer Alexander,Male,11-12-2022,Winterberg,GER,Austria,World Cup,Parallel Slalom,1,1000.00
-89,Payer Alexander,Male,10-12-2022,Winterberg,GER,Austria,Qualification,Parallel Slalom,1,
-90,Payer Alexander,Male,10-12-2022,Winterberg,GER,Austria,World Cup,Parallel Slalom Team,10,
-91,Payer Alexander,Male,13-04-2022,Dizin,IRI,Austria,FIS,Slalom,1,180.00
-92,Payer Alexander,Male,12-04-2022,Dizin,IRI,Austria,FIS,Slalom,1,180.00
-93,Payer Alexander,Male,11-04-2022,Dizin,IRI,Austria,FIS,Slalom,1,180.00
-94,Payer Alexander,Male,10-04-2022,Dizin,IRI,Austria,FIS,Giant Slalom,1,180.00
-95,Payer Alexander,Male,27-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,1,290.00
-96,Payer Alexander,Male,20-03-2022,Berchtesgaden,GER,Austria,World Cup,Parallel  Slalom Team,2,
-97,Payer Alexander,Male,19-03-2022,Berchtesgaden,GER,Austria,Qualification,Parallel Slalom,13,
-98,Payer Alexander,Male,19-03-2022,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,13,200.00
-99,Payer Alexander,Male,16-03-2022,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,17,
-100,Payer Alexander,Male,16-03-2022,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,17,140.00
-101,Payer Alexander,Male,13-03-2022,Piancavallo,ITA,Austria,World Cup,Parallel Slalom Team,3,
-102,Payer Alexander,Male,12-03-2022,Piancavallo,ITA,Austria,Qualification,Parallel Slalom,8,
-103,Payer Alexander,Male,12-03-2022,Piancavallo,ITA,Austria,World Cup,Parallel Slalom,6,400.00
-104,Payer Alexander,Male,05-03-2022,Lachtal,AUT,Austria,European Cup,Parallel Giant Slalom,1,360.00
-105,Payer Alexander,Male,20-02-2022,Bakuriani,GEO,Austria,European Cup,Parallel Giant Slalom,7,129.60
-106,Payer Alexander,Male,19-02-2022,Bakuriani,GEO,Austria,European Cup,Parallel Giant Slalom,8,115.20
-107,Payer Alexander,Male,08-02-2022,Beijing,CHN,Austria,Qualification,Parallel Giant Slalom,10,
-108,Payer Alexander,Male,08-02-2022,Beijing,CHN,Austria,Olympic Winter Games,Parallel Giant Slalom,8,320.00
-109,Payer Alexander,Male,15-01-2022,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom Team,1,
-110,Payer Alexander,Male,14-01-2022,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom,6,400.00
-111,Payer Alexander,Male,14-01-2022,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,5,
-112,Payer Alexander,Male,12-01-2022,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,6,
-113,Payer Alexander,Male,11-01-2022,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,4,
-114,Payer Alexander,Male,11-01-2022,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,3,600.00
-115,Payer Alexander,Male,08-01-2022,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,10,
-116,Payer Alexander,Male,08-01-2022,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,6,400.00
-117,Payer Alexander,Male,18-12-2021,Cortina d Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,8,
-118,Payer Alexander,Male,18-12-2021,Cortina d Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,11,240.00
-119,Payer Alexander,Male,16-12-2021,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,12,
-120,Payer Alexander,Male,16-12-2021,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,13,200.00
-121,Payer Alexander,Male,12-12-2021,Bannoye,RUS,Austria,Qualification,Parallel Slalom,21,
-122,Payer Alexander,Male,12-12-2021,Bannoye,RUS,Austria,World Cup,Parallel Slalom,21,100.00
-123,Payer Alexander,Male,11-12-2021,Bannoye,RUS,Austria,Qualification,Parallel Giant Slalom,DNF,
-124,Payer Alexander,Male,11-12-2021,Bannoye,RUS,Austria,World Cup,Parallel Giant Slalom,DNF,
-125,Payer Alexander,Male,21-03-2021,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom Team,10,
-126,Payer Alexander,Male,20-03-2021,Berchtesgaden,GER,Austria,Qualification,Parallel Slalom,10,
-127,Payer Alexander,Male,20-03-2021,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,2,800.00
-128,Payer Alexander,Male,13-03-2021,Davos Rinerhorn,SUI,Austria,European Cup,Parallel Giant Slalom,3,216.00
-129,Payer Alexander,Male,06-03-2021,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,15,
-130,Payer Alexander,Male,06-03-2021,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,8,320.00
-131,Payer Alexander,Male,02-03-2021,Rogla,SLO,Austria,World Championships,Parallel Slalom,10,260.00
-132,Payer Alexander,Male,02-03-2021,Rogla,SLO,Austria,Qualification,Parallel Slalom,5,
-133,Payer Alexander,Male,01-03-2021,Rogla,SLO,Austria,World Championships,Parallel Giant Slalom,14,180.00
-134,Payer Alexander,Male,01-03-2021,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,13,
-135,Payer Alexander,Male,21-02-2021,Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,1,290.00
-136,Payer Alexander,Male,20-02-2021,Gerlitzen,AUT,Austria,National Championships,Parallel Giant Slalom,5,130.50
-137,Payer Alexander,Male,07-02-2021,Bannoye,RUS,Austria,Qualification,Parallel Slalom,13,
-138,Payer Alexander,Male,07-02-2021,Bannoye,RUS,Austria,World Cup,Parallel Slalom,14,180.00
-139,Payer Alexander,Male,06-02-2021,Baonoye,RUS,Austria,Qualification,Parallel Giant Slalom,2,
-140,Payer Alexander,Male,06-02-2021,Bannoye,RUS,Austria,World Cup,Parallel Giant Slalom,9,290.00
-141,Payer Alexander,Male,30-01-2021,Moscow,RUS,Austria,Qualification,Parallel Slalom,5,
-142,Payer Alexander,Male,30-01-2021,Moscow,RUS,Austria,World Cup,Parallel Slalom,4,500.00
-143,Payer Alexander,Male,17-01-2021,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,2,288.00
-144,Payer Alexander,Male,16-01-2021,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,1,360.00
-145,Payer Alexander,Male,13-01-2021,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,10,
-146,Payer Alexander,Male,12-01-2021,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,7,
-147,Payer Alexander,Male,12-01-2021,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,7,360.00
-148,Payer Alexander,Male,09-01-2021,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,16,
-149,Payer Alexander,Male,09-01-2021,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,16,150.00
-150,Payer Alexander,Male,17-12-2020,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,16,
-151,Payer Alexander,Male,17-12-2020,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,16,150.00
-152,Payer Alexander,Male,12-12-2020,Cortina d Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,13,
-153,Payer Alexander,Male,12-12-2020,Cortina d Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,13,200.00
-154,Payer Alexander,Male,08-03-2020,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,3,216.00
-155,Payer Alexander,Male,07-03-2020,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,1,360.00
-156,Payer Alexander,Male,01-03-2020,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,6,400.00
-157,Payer Alexander,Male,01-03-2020,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,11,
-158,Payer Alexander,Male,29-02-2020,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,12,220.00
-159,Payer Alexander,Male,29-02-2020,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,9,
-160,Payer Alexander,Male,22-02-2020,Pyeongchang,KOR,Austria,World Cup,Parallel Giant Slalom,4,500.00
-161,Payer Alexander,Male,22-02-2020,Pyeongchang,KOR,Austria,Qualification,Parallel Giant Slalom,7,
-162,Payer Alexander,Male,16-02-2020,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,31,10.08
-163,Payer Alexander,Male,15-02-2020,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,5,162.00
-164,Payer Alexander,Male,09-02-2020,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,1,360.00
-165,Payer Alexander,Male,08-02-2020,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,2,288.00
-166,Payer Alexander,Male,26-01-2020,Piancavallo,ITA,Austria,World Cup,Parallel Slalom Team,6,
-167,Payer Alexander,Male,25-01-2020,Piancavallo,ITA,Austria,World Cup,Parallel Slalom,7,360.00
-168,Payer Alexander,Male,25-01-2020,Piancavallo,ITA,Austria,Qualification,Parallel Slalom,8,
-169,Payer Alexander,Male,18-01-2020,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,15,160.00
-170,Payer Alexander,Male,18-01-2020,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,15,
-171,Payer Alexander,Male,15-01-2020,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,7,
-172,Payer Alexander,Male,14-01-2020,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,23,80.00
-173,Payer Alexander,Male,14-01-2020,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,23,
-174,Payer Alexander,Male,11-01-2020,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,45,
-175,Payer Alexander,Male,11-01-2020,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,45,
-176,Payer Alexander,Male,19-12-2019,Carezza,ITA,Austria,Open,Parallel Giant Slalom,15,160.00
-177,Payer Alexander,Male,14-12-2019,Cortina d Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,17,140.00
-178,Payer Alexander,Male,14-12-2019,Cortina d Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,17,
-179,Payer Alexander,Male,08-12-2019,Bannoye,RUS,Austria,World Cup,Parallel Giant Slalom,8,320.00
-180,Payer Alexander,Male,08-12-2019,Bannoye,RUS,Austria,Qualification,Parallel Giant Slalom,11,
-181,Payer Alexander,Male,07-12-2019,Bannoye,RUS,Austria,World Cup,Parallel Slalom,4,500.00
-182,Payer Alexander,Male,07-12-2019,Bannoye,RUS,Austria,Qualification,Parallel Slalom,2,
-183,Payer Alexander,Male,31-03-2019,Radstadt,AUT,Austria,National Championships,Parallel Giant Slalom,2,232.00
-184,Payer Alexander,Male,30-03-2019,Radstadt,AUT,Austria,National Championships,Parallel Slalom,1,290.00
-185,Payer Alexander,Male,24-03-2019,Winterberg,GER,Austria,World Cup,Parallel Slalom Team,7,
-186,Payer Alexander,Male,23-03-2019,Winterberg,GER,Austria,World Cup,Parallel Slalom,12,220.00
-187,Payer Alexander,Male,23-03-2019,Winterberg,GER,Austria,Qualification,Parallel Slalom,10,
-188,Payer Alexander,Male,17-03-2019,Rogla,SLO,Austria,European Cup,Parallel Giant Slalom,5,162.00
-189,Payer Alexander,Male,16-03-2019,Rogla,SLO,Austria,European Cup,Parallel Giant Slalom,10,93.60
-190,Payer Alexander,Male,09-03-2019,Scuol,SUI,Austria,World Cup,Parallel GS,24,70.00
-191,Payer Alexander,Male,09-03-2019,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,24,
-192,Payer Alexander,Male,03-03-2019,Davos,SUI,Austria,European Cup,Parallel Slalom,6,144.00
-193,Payer Alexander,Male,02-03-2019,Davos,SUI,Austria,European Cup,Parallel Giant Slalom,21,36.00
-194,Payer Alexander,Male,24-02-2019,Secret Garden,CHN,Austria,World Cup,Parallel Slalom,7,360.00
-195,Payer Alexander,Male,24-02-2019,Secret Garden,CHN,Austria,Qualification,Parallel Slalom,8,
-196,Payer Alexander,Male,23-02-2019,Secret Garden,CHN,Austria,World Cup,Parallel Giant Slalom,17,140.00
-197,Payer Alexander,Male,23-02-2019,Secret Garden,CHN,Austria,Qualification,Parallel Giant Slalom,17,
-198,Payer Alexander,Male,17-02-2019,Pyeongchang,KOR,Austria,World Cup,Parallel Giant Slalom,33,24.00
-199,Payer Alexander,Male,17-02-2019,Pyeongchang,KOR,Austria,Qualification,Parallel Giant Slalom,33,
-200,Payer Alexander,Male,16-02-2019,Pyeongchang,KOR,Austria,World Cup,Parallel Giant Slalom,6,400.00
-201,Payer Alexander,Male,16-02-2019,Pyeongchang,KOR,Austria,Qualification,Parallel Giant Slalom,3,
-202,Payer Alexander,Male,04-02-2019,Park City,USA,Austria,World Championships,Parallel Giant Slalom,11,240.00
-203,Payer Alexander,Male,27-01-2019,Moscow,RUS,Austria,World Cup,Parallel Slalom Team,6,
-204,Payer Alexander,Male,26-01-2019,Moscow,RUS,Austria,World Cup,Parallel Slalom,16,150.00
-205,Payer Alexander,Male,26-01-2019,Moscow,RUS,Austria,Qualification,Parallel Slalom,15,
-206,Payer Alexander,Male,19-01-2019,Rogla,SLO,Austria,World Cup,Parallel GS,17,140.00
-207,Payer Alexander,Male,19-01-2019,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,17,
-208,Payer Alexander,Male,09-01-2019,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,7,
-209,Payer Alexander,Male,08-01-2019,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,10,260.00
-210,Payer Alexander,Male,08-01-2019,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,10,
-211,Payer Alexander,Male,06-01-2019,Simonhöhe,AUT,Austria,FIS,Parallel Slalom,DNS1,
-212,Payer Alexander,Male,05-01-2019,Simonhöhe,AUT,Austria,FIS,Parallel Slalom,1,220.00
-213,Payer Alexander,Male,15-12-2018,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel GS,13,200.00
-214,Payer Alexander,Male,15-12-2018,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,11,
-215,Payer Alexander,Male,13-12-2018,Carezza,ITA,Austria,World Cup,Parallel GS,20,110.00
-216,Payer Alexander,Male,13-12-2018,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,20,
-217,Payer Alexander,Male,21-03-2018,Rogla,SLO,Austria,European Cup,Parallel GS,15,57.60
-218,Payer Alexander,Male,20-03-2018,Rogla,SLO,Austria,European Cup,Parallel GS,17,50.40
-219,Payer Alexander,Male,18-03-2018,Winterberg,GER,Austria,World Cup,Parallel Slalom Team,9,
-220,Payer Alexander,Male,17-03-2018,Winterberg,GER,Austria,World Cup,Parallel Slalom,31,28.00
-221,Payer Alexander,Male,17-03-2018,Winterberg,GER,Austria,Qualification,Parallel Slalom,31,
-222,Payer Alexander,Male,10-03-2018,Scuol,SUI,Austria,World Cup,Parallel GS,33,24.00
-223,Payer Alexander,Male,10-03-2018,Scuol,SUI,Austria,Qualification,Parallel GS,33,
-224,Payer Alexander,Male,03-03-2018,Kayseri,TUR,Austria,World Cup,Parallel GS,8,320.00
-225,Payer Alexander,Male,03-03-2018,Kayseri,TUR,Austria,Qualification,Parallel GS,7,
-226,Payer Alexander,Male,24-02-2018,Phoenix Snow Park,KOR,Austria,Qualification,Parallel GS,5,
-227,Payer Alexander,Male,24-02-2018,Phoenix Snow Park,KOR,Austria,Olympic Winter Games,Parallel GS,9,290.00
-228,Payer Alexander,Male,04-02-2018,Gerlitzen,AUT,Austria,National Championships,Parallel GS,2,232.00
-229,Payer Alexander,Male,03-02-2018,Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,3,174.00
-230,Payer Alexander,Male,28-01-2018,Bansko,BUL,Austria,World Cup,Parallel GS,7,360.00
-231,Payer Alexander,Male,28-01-2018,Bansko,BUL,Austria,Qualification,Parallel GS,9,
-232,Payer Alexander,Male,26-01-2018,Bansko,BUL,Austria,World Cup,Parallel GS,11,240.00
-233,Payer Alexander,Male,26-01-2018,Bansko,BUL,Austria,Qualification,Parallel GS,7,
-234,Payer Alexander,Male,21-01-2018,Rogla,SLO,Austria,World Cup,Parallel GS,24,70.00
-235,Payer Alexander,Male,21-01-2018,Rogla,SLO,Austria,Qualification,Parallel GS,24,
-236,Payer Alexander,Male,20-01-2018,Rogla,SLO,Austria,World Cup,Parallel GS,11,240.00
-237,Payer Alexander,Male,20-01-2018,Rogla,SLO,Austria,Qualification,Parallel GS,6,
-238,Payer Alexander,Male,13-01-2018,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,1,
-239,Payer Alexander,Male,12-01-2018,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,8,320.00
-240,Payer Alexander,Male,12-01-2018,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,14,
-241,Payer Alexander,Male,06-01-2018,Lackenhof,AUT,Austria,World Cup,Parallel GS Team,2,
-242,Payer Alexander,Male,05-01-2018,Lackenhof,AUT,Austria,World Cup,Parallel GS,3,600.00
-243,Payer Alexander,Male,05-01-2018,Lackenhof,AUT,Austria,Qualification,Parallel GS,2,
-244,Payer Alexander,Male,16-12-2017,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Slalom,18,130.00
-245,Payer Alexander,Male,16-12-2017,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Slalom,18,
-246,Payer Alexander,Male,15-12-2017,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel GS,1,1000.00
-247,Payer Alexander,Male,15-12-2017,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel GS,12,
-248,Payer Alexander,Male,14-12-2017,Carezza,ITA,Austria,World Cup,Parallel GS,26,50.00
-249,Payer Alexander,Male,14-12-2017,Carezza,ITA,Austria,Qualification,Parallel GS,26,
-250,Payer Alexander,Male,10-12-2017,Hochfügen,GER,Austria,European Cup,Parallel GS,2,288.00
-251,Payer Alexander,Male,29-03-2017,Rogla,SLO,Austria,European Cup,Parallel Slalom,3,216.00
-252,Payer Alexander,Male,28-03-2017,Rogla,SLO,Austria,European Cup,Parallel GS,14,64.80
-253,Payer Alexander,Male,26-03-2017,Racines,ITA,Austria,European Cup,Parallel Slalom,5,162.00
-254,Payer Alexander,Male,25-03-2017,Racines,ITA,Austria,European Cup,Parallel Slalom,2,288.00
-255,Payer Alexander,Male,19-03-2017,Winterberg,GER,Austria,World Cup,Parallel Slalom Team,5,
-256,Payer Alexander,Male,18-03-2017,Winterberg,GER,Austria,Qualification,Parallel Slalom,14,
-257,Payer Alexander,Male,18-03-2017,Winterberg,GER,Austria,World Cup,Parallel Slalom,3,600.00
-258,Payer Alexander,Male,16-03-2017,Sierra Nevada,ESP,Austria,World Championships,Parallel GS,31,28.00
-259,Payer Alexander,Male,15-03-2017,Sierra Nevada,ESP,Austria,World Championships,Parallel Slalom,14,180.00
-260,Payer Alexander,Male,05-03-2017, Erciyes-Kayseri,TUR,Austria,World Cup,Parallel GS,12,220.00
-261,Payer Alexander,Male,26-02-2017,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,14,64.80
-262,Payer Alexander,Male,25-02-2017,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,11,86.40
-263,Payer Alexander,Male,12-02-2017,Phoenix Pyeongchang,KOR,Austria,World Cup,Parallel GS,DSQ,
-264,Payer Alexander,Male,05-02-2017,Bansko,BUL,Austria,World Cup,Parallel GS,20,110.00
-265,Payer Alexander,Male,03-02-2017,Bansko,BUL,Austria,World Cup,Parallel GS,17,140.00
-266,Payer Alexander,Male,28-01-2017,Rogla,SLO,Austria,World Cup,Parallel GS,16,150.00
-267,Payer Alexander,Male,15-01-2017,Hochficht,AUT,Austria,National Championships,Parallel Slalom,3,174.00
-268,Payer Alexander,Male,14-01-2017,Hochficht,AUT,Austria,National Championships,Parallel GS,19,34.80
-269,Payer Alexander,Male,11-01-2017,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,5,
-270,Payer Alexander,Male,10-01-2017,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,12,220.00
-271,Payer Alexander,Male,17-12-2016,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Slalom,9,290.00
-272,Payer Alexander,Male,15-12-2016,Carezza,ITA,Austria,World Cup,Parallel GS,11,240.00
-273,Payer Alexander,Male,11-12-2016,Hochfügen,GER,Austria,European Cup,Parallel GS,10,93.60
-274,Payer Alexander,Male,04-11-2016,Landgraaf,NED,Austria,European Cup,Parallel Slalom,9,104.40
-275,Payer Alexander,Male,03-11-2016,Landgraaf,NED,Austria,European Cup,Parallel Slalom,6,144.00
-276,Payer Alexander,Male,27-03-2016,Racines,ITA,Austria,European Cup,Parallel Slalom,4,225.00
-277,Payer Alexander,Male,26-03-2016,Racines,ITA,Austria,European Cup,Parallel Slalom,9,145.00
-278,Payer Alexander,Male,24-03-2016,Rogla,SLO,Austria,European Cup,Parallel Slalom,1,500.00
-279,Payer Alexander,Male,23-03-2016,Rogla,SLO,Austria,European Cup,Parallel GS,16,75.00
-280,Payer Alexander,Male,20-03-2016,Gerlitzen,AUT,Austria,European Cup,Parallel GS,5,225.00
-281,Payer Alexander,Male,19-03-2016,Gerlitzen,AUT,Austria,European Cup,Parallel GS,9,145.00
-282,Payer Alexander,Male,06-03-2016,Winterberg,GER,Austria,World Cup,Parallel Slalom,13,200.00
-283,Payer Alexander,Male,27-02-2016,Kayseri,TUR,Austria,World Cup,Parallel GS,23,80.00
-284,Payer Alexander,Male,07-02-2016,Lachtal,AUT,Austria,FIS,Parallel Slalom,6,104.00
-285,Payer Alexander,Male,06-02-2016,Lachtal,AUT,Austria,National Championships,Parallel Slalom,2,288.00
-286,Payer Alexander,Male,30-01-2016,Moscow,RUS,Austria,World Cup,Parallel Slalom,7,360.00
-287,Payer Alexander,Male,23-01-2016,Rogla,SLO,Austria,World Cup,Parallel GS,16,150.00
-288,Payer Alexander,Male,16-01-2016,Kreischberg,AUT,Austria,FIS,Parallel GS,2,208.00
-289,Payer Alexander,Male,08-01-2016,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,11,240.00
-290,Payer Alexander,Male,19-12-2015,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Slalom,5,450.00
-291,Payer Alexander,Male,12-12-2015,Carezza,ITA,Austria,World Cup,Parallel GS,8,320.00
-292,Payer Alexander,Male,06-12-2015,Hochfuegen,GER,Austria,European Cup,Parallel GS,3,300.00
-293,Payer Alexander,Male,05-12-2015,Hochfuegen,GER,Austria,European Cup,Parallel GS,6,200.00
-294,Payer Alexander,Male,16-10-2015,Landgraaf,NED,Austria,European Cup,Parallel Slalom,8,160.00
-295,Payer Alexander,Male,15-10-2015,Landgraaf,NED,Austria,European Cup,Parallel Slalom,1,500.00
-296,Payer Alexander,Male,27-03-2015,Canazei,ITA,Austria,National Championships,Parallel Slalom,13,72.00
-297,Payer Alexander,Male,26-03-2015,Canazei,ITA,Austria,National Championships,Parallel GS,6,144.00
-298,Payer Alexander,Male,22-03-2015,Hochficht,AUT,Austria,National Championships,Giant Slalom,6,144.00
-299,Payer Alexander,Male,21-03-2015,Hochficht,AUT,Austria,National Championships,Parallel Slalom,5,162.00
-300,Payer Alexander,Male,18-03-2015,Rogla,SLO,Austria,European Cup,Parallel Slalom,9,145.00
-301,Payer Alexander,Male,17-03-2015,Rogla,SLO,Austria,European Cup,Parallel GS,16,
-302,Payer Alexander,Male,14-03-2015,Winterberg,GER,Austria,World Cup,Parallel Slalom,7,360.00
-303,Payer Alexander,Male,07-03-2015,Moscow,RUS,Austria,World Cup,Parallel Slalom,11,240.00
-304,Payer Alexander,Male,01-03-2015,Asahikawa,JPN,Austria,World Cup,Parallel Slalom,16,150.00
-305,Payer Alexander,Male,28-02-2015,Asahikawa,JPN,Austria,World Cup,Parallel GS,7,360.00
-306,Payer Alexander,Male,14-02-2015,Goetschen,GER,Austria,National Championships,Parallel GS,6,144.00
-307,Payer Alexander,Male,13-02-2015,Goetschen,GER,Austria,National Championships,Parallel Slalom,14,64.80
-308,Payer Alexander,Male,10-02-2015,Sierra Nevada,ESP,Austria,Universiade,Parallel GS,3,216.00
-309,Payer Alexander,Male,07-02-2015,Sudelfeld,GER,Austria,World Cup,Parallel GS,17,140.00
-310,Payer Alexander,Male,06-02-2015,Sudelfeld,GER,Austria,Qualification,Parallel GS,17,
-311,Payer Alexander,Male,31-01-2015,Rogla,SLO,Austria,World Cup,Parallel GS,25,60.00
-312,Payer Alexander,Male,09-01-2015,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,27,45.00
-313,Payer Alexander,Male,06-01-2015,Dachstein West / Gosau,AUT,Austria,FIS,Parallel Slalom,3,156.00
-314,Payer Alexander,Male,05-01-2015,Dachstein West / Gosau,AUT,Austria,FIS,Parallel Slalom,5,117.00
-315,Payer Alexander,Male,18-12-2014,Montafon,AUT,Austria,World Cup,Parallel Slalom,47,0.00
-316,Payer Alexander,Male,16-12-2014,Carezza,ITA,Austria,World Cup,Parallel GS,16,150.00
-317,Payer Alexander,Male,23-03-2014,Falkert,AUT,Austria,National Championships,Giant Slalom,1,360.00
-318,Payer Alexander,Male,22-03-2014,Falkert,AUT,Austria,National Championships,Parallel Slalom,4,180.00
-319,Payer Alexander,Male,16-03-2014,Ratsching/Racines,ITA,Austria,European Cup,Parallel Slalom,2,400.00
-320,Payer Alexander,Male,15-03-2014,Ratsching/Racines,ITA,Austria,European Cup,Parallel Slalom,7,180.00
-321,Payer Alexander,Male,09-03-2014,Tauplitz,AUT,Austria,FIS,Parallel Slalom,3,156.00
-322,Payer Alexander,Male,05-03-2014,Rogla,SLO,Austria,European Cup,Parallel Slalom,10,130.00
-323,Payer Alexander,Male,04-03-2014,Rogla,SLO,Austria,European Cup,Parallel GS,10,130.00
-324,Payer Alexander,Male,01-03-2014,Gerlitzen,AUT,Austria,European Cup,Parallel GS,8,160.00
-325,Payer Alexander,Male,16-02-2014,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,9,130.50
-326,Payer Alexander,Male,15-02-2014,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,7,162.00
-327,Payer Alexander,Male,01-02-2014,Sudelfeld,GER,Austria,World Cup,Parallel GS,11,240.00
-328,Payer Alexander,Male,26-01-2014,Hochficht,AUT,Austria,FIS,Giant Slalom,24,0.00
-329,Payer Alexander,Male,25-01-2014,Hochficht,AUT,Austria,FIS,Giant Slalom,2,192.00
-330,Payer Alexander,Male,18-01-2014,Rogla,SLO,Austria,World Cup,Parallel GS,24,70.00
-331,Payer Alexander,Male,12-01-2014,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,15,160.00
-332,Payer Alexander,Male,10-01-2014,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,54,14.30
-333,Payer Alexander,Male,22-12-2013,Schönberg-Lachtal,AUT,Austria,European Cup,Parallel Slalom,11,120.00
-334,Payer Alexander,Male,21-12-2013,Schönberg-Lachtal,AUT,Austria,European Cup,Parallel Slalom,15,80.00
-335,Payer Alexander,Male,19-12-2013,Monte Bondone - Canalon Lavaman,ITA,Austria,Universiade,Parallel GS,7,144.00
-336,Payer Alexander,Male,14-12-2013,Carezza,ITA,Austria,World Cup,Parallel Slalom,2,800.00
-337,Payer Alexander,Male,13-12-2013,Carezza,ITA,Austria,World Cup,Parallel GS,37,19.40
-338,Payer Alexander,Male,08-12-2013,Hochfügen,AUT,Austria,European Cup,Parallel GS,3,300.00
-339,Payer Alexander,Male,07-12-2013,Hochfügen,AUT,Austria,European Cup,Parallel GS,6,200.00
-340,Payer Alexander,Male,15-11-2013,"Copper Mountain, CO",USA,Austria,Nor-Am Cup,Parallel Slalom,9,145.00
-341,Payer Alexander,Male,14-11-2013,"Copper Mountain, CO",USA,Austria,Nor-Am Cup,Parallel Slalom,17,70.00
-342,Payer Alexander,Male,12-11-2013,"Copper Mountain, CO",USA,Austria,Nor-Am Cup,Parallel GS,22,45.00
-343,Payer Alexander,Male,11-11-2013,"Copper Mountain, CO",USA,Austria,Nor-Am Cup,Parallel GS,44,8.65
-344,Payer Alexander,Male,23-03-2013,Götschen,GER,Austria,National Championships,Parallel GS,7,129.60
-345,Payer Alexander,Male,22-03-2013,Götschen,GER,Austria,National Championships,Parallel Slalom,5,162.00
-346,Payer Alexander,Male,17-03-2013,Rogla,SLO,Austria,European Cup,Parallel Slalom,12,79.20
-347,Payer Alexander,Male,16-03-2013,Rogla,SLO,Austria,European Cup,Parallel GS,6,144.00
-348,Payer Alexander,Male,10-03-2013,Arosa,SUI,Austria,World Cup,Parallel GS,21,100.00
-349,Payer Alexander,Male,03-03-2013,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,2,208.00
-350,Payer Alexander,Male,02-03-2013,Gerlitzen,AUT,Austria,European Cup,Parallel Slalom,14,90.00
-351,Payer Alexander,Male,23-02-2013,Moscow,RUS,Austria,World Cup,Parallel Slalom,23,80.00
-352,Payer Alexander,Male,17-02-2013,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,5,202.50
-353,Payer Alexander,Male,16-02-2013,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,2,320.00
-354,Payer Alexander,Male,10-02-2013,Marianske Lazne,CZE,Austria,European Cup,Parallel Slalom,1,320.00
-355,Payer Alexander,Male,09-02-2013,Marianske Lazne,CZE,Austria,European Cup,Parallel Slalom,2,256.00
-356,Payer Alexander,Male,08-02-2013,Rogla,SLO,Austria,World Cup,Parallel GS,42,17.90
-357,Payer Alexander,Male,20-01-2013,Vratna - Paseky,SVK,Austria,European Cup,Parallel GS,1,320.00
-358,Payer Alexander,Male,19-01-2013,Vratna - Paseky,SVK,Austria,European Cup,Parallel GS,4,160.00
-359,Payer Alexander,Male,12-01-2013,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,12,220.00
-360,Payer Alexander,Male,11-01-2013,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,20,110.00
-361,Payer Alexander,Male,23-12-2012,Radstadt,AUT,Austria,FIS,Giant Slalom,13,52.00
-362,Payer Alexander,Male,22-12-2012,Radstadt,AUT,Austria,FIS,Giant Slalom,4,130.00
-363,Payer Alexander,Male,21-12-2012,Carezza,ITA,Austria,World Cup,Parallel GS,39,18.80
-364,Payer Alexander,Male,16-12-2012,Racines/Ratschings,ITA,Austria,European Cup,Parallel Slalom,2,400.00
-365,Payer Alexander,Male,15-12-2012,Racines/Ratschings,ITA,Austria,European Cup,Parallel Slalom,11,96.00
-366,Payer Alexander,Male,09-12-2012,Lachtal,AUT,Austria,European Cup,Parallel GS,16,75.00
-367,Payer Alexander,Male,08-12-2012,Lachtal,AUT,Austria,European Cup,Parallel GS,31,14.00
-368,Payer Alexander,Male,01-04-2012,St. Gallenkirch,AUT,Austria,National Championships,Parallel Slalom,5,162.00
-369,Payer Alexander,Male,31-03-2012,St. Gallenkirch,AUT,Austria,National Championships,Parallel GS,2,288.00
-370,Payer Alexander,Male,20-03-2012,Rogla,SLO,Austria,European Cup,Parallel Slalom,28,18.00
-371,Payer Alexander,Male,19-03-2012,Rogla,SLO,Austria,European Cup,Parallel GS,1,400.00
-372,Payer Alexander,Male,18-03-2012,Tauplitz,AUT,Austria,FIS,Parallel Slalom,1,180.00
-373,Payer Alexander,Male,17-03-2012,Tauplitz,AUT,Austria,FIS,Parallel Slalom,10,62.40
-374,Payer Alexander,Male,10-03-2012,Bad Gastein,AUT,Austria,European Cup,Parallel GS,3,174.00
-375,Payer Alexander,Male,04-03-2012,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,3,132.00
-376,Payer Alexander,Male,03-03-2012,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,10,62.40
-377,Payer Alexander,Male,24-02-2012,Sochi,RUS,Austria,European Cup,Parallel Slalom,8,92.80
-378,Payer Alexander,Male,23-02-2012,Sochi,RUS,Austria,European Cup,Parallel GS,10,75.40
-379,Payer Alexander,Male,12-02-2012,Marianske Lazne,CZE,Austria,European Cup,Parallel Slalom,18,41.60
-380,Payer Alexander,Male,11-02-2012,Marianske Lazne,CZE,Austria,European Cup,Parallel Slalom,19,38.40
-381,Payer Alexander,Male,05-02-2012,Ratschings-Racines,ITA,Austria,European Cup,Parallel Slalom,19,60.00
-382,Payer Alexander,Male,29-01-2012,Adelboden,SUI,Austria,European Cup,Parallel GS,18,33.80
-383,Payer Alexander,Male,15-01-2012,Vratna,SVK,Austria,European Cup,Giant Slalom,11,62.40
-384,Payer Alexander,Male,14-01-2012,Vratna,SVK,Austria,European Cup,Parallel GS,17,36.40
-385,Payer Alexander,Male,08-01-2012,Kreischberg,AUT,Austria,FIS,Parallel GS,15,41.60
-386,Payer Alexander,Male,07-01-2012,Kreischberg,AUT,Austria,FIS,Parallel GS,3,156.00
-387,Payer Alexander,Male,27-03-2011,Lachtal,AUT,Austria,European Cup,Parallel Slalom,7,104.40
-388,Payer Alexander,Male,26-03-2011,Lachtal,AUT,Austria,European Cup,Parallel Slalom,10,75.40
-389,Payer Alexander,Male,25-03-2011,Lachtal,AUT,Austria,European Cup,Parallel GS,13,58.00
-390,Payer Alexander,Male,12-03-2011,Protasiv Yar,UKR,Austria,European Cup,Parallel Slalom,10,83.20
-391,Payer Alexander,Male,11-03-2011,Protasiv Yar,UKR,Austria,FIS,Parallel Slalom,5,117.00
-392,Payer Alexander,Male,01-03-2011,Rogla,SLO,Austria,European Cup,Parallel Slalom,19,54.00
-393,Payer Alexander,Male,28-02-2011,Rogla,SLO,Austria,European Cup,Parallel GS,36,6.30
-394,Payer Alexander,Male,26-02-2011,Villach / Gerlitzen,AUT,Austria,FIS,Parallel Slalom,1,260.00
-395,Payer Alexander,Male,12-02-2011,Valberg,FRA,Austria,European Cup,Parallel GS,17,44.80
-396,Payer Alexander,Male,11-02-2011,Valberg,FRA,Austria,European Cup,Parallel GS,10,83.20
-397,Payer Alexander,Male,06-02-2011,Vratna,SVK,Austria,European Cup,Parallel GS,7,115.20
-398,Payer Alexander,Male,05-02-2011,Vratna,SVK,Austria,European Cup,Parallel GS,6,128.00
-399,Payer Alexander,Male,01-02-2011,Palandoken/Erzurum,TUR,Austria,Universiade,Parallel GS,16,48.00
-400,Payer Alexander,Male,29-01-2011,Adelboden,SUI,Austria,European Cup,Parallel GS,10,104.00
-401,Payer Alexander,Male,28-01-2011,Adelboden,SUI,Austria,European Cup,Parallel GS,23,32.00
-402,Payer Alexander,Male,23-01-2011,Innsbruck/Patscherkofel,AUT,Austria,FIS,Parallel Slalom,6,104.00
-403,Payer Alexander,Male,22-01-2011,Innsbruck/Patscherkofel,AUT,Austria,FIS,Parallel GS,3,156.00
-404,Payer Alexander,Male,12-01-2011,Berchtesgaden/Goetschen,GER,Austria,National Championships,Parallel GS,15,57.60
-405,Payer Alexander,Male,09-01-2011,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,29,36.00
-406,Payer Alexander,Male,19-12-2010,Samnaun,SUI,Austria,FIS,Parallel Slalom,5,108.00
-407,Payer Alexander,Male,18-12-2010,Samnaun,SUI,Austria,FIS,Parallel Slalom,3,156.00
-408,Payer Alexander,Male,17-12-2010,Samnaun,SUI,Austria,FIS,Parallel Slalom,7,93.60
-409,Payer Alexander,Male,11-12-2010,Ratschings/Racines,ITA,Austria,European Cup,Parallel GS,4,145.00
-410,Payer Alexander,Male,10-12-2010,Ratschings/Racines,ITA,Austria,FIS,Parallel GS,10,67.60
-411,Payer Alexander,Male,05-12-2010,Welschnofen-Carezza,ITA,Austria,European Cup,Parallel Slalom,14,72.00
-412,Payer Alexander,Male,04-12-2010,Welschnofen-Carezza,ITA,Austria,European Cup,Parallel GS,9,116.00
-413,Payer Alexander,Male,28-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Austria,FIS,Parallel GS,17,36.40
-414,Payer Alexander,Male,27-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Austria,European Cup,Parallel GS,28,18.00
-415,Payer Alexander,Male,28-03-2010,Gerlitzen,AUT,Austria,National Championships,Parallel GS,16,54.00
-416,Payer Alexander,Male,27-03-2010,Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,20,35.20
-417,Payer Alexander,Male,24-03-2010,Isola 2000,FRA,Austria,European Cup,Parallel GS,6,128.00
-418,Payer Alexander,Male,13-03-2010,Protasiv Yar Kiev,UKR,Austria,European Cup,Parallel Slalom,8,102.40
-419,Payer Alexander,Male,12-03-2010,Protasiv Yar Kiev,UKR,Austria,European Cup,Parallel Slalom,14,57.60
-420,Payer Alexander,Male,28-02-2010,Adelboden,SUI,Austria,FIS,Parallel Slalom,12,57.20
-421,Payer Alexander,Male,27-02-2010,Adelboden,SUI,Austria,European Cup,Parallel Slalom,7,129.60
-422,Payer Alexander,Male,14-02-2010,Kasberg,AUT,Austria,European Cup,Parallel GS,12,79.20
-423,Payer Alexander,Male,13-02-2010,Kasberg,AUT,Austria,European Cup,Parallel GS,18,46.80
-424,Payer Alexander,Male,06-02-2010,Innsbruck Patcherkofel,AUT,Austria,FIS,Parallel Slalom,7,72.00
-425,Payer Alexander,Male,05-02-2010,Innsbruck Patcherkofel,AUT,Austria,FIS,Parallel Slalom,1,200.00
-426,Payer Alexander,Male,31-01-2010,Maribor,SLO,Austria,European Cup,Parallel GS,27,14.40
-427,Payer Alexander,Male,29-01-2010,Vratna,SVK,Austria,European Cup,Parallel GS,16,48.00
-428,Payer Alexander,Male,24-01-2010,Imst,AUT,Austria,European Cup,Parallel Slalom,16,48.00
-429,Payer Alexander,Male,23-01-2010,Imst,AUT,Austria,European Cup,Parallel Slalom,14,57.60
-430,Payer Alexander,Male,16-01-2010,Le Lac Blanc,FRA,Austria,European Cup,Parallel GS,14,46.80
-431,Payer Alexander,Male,14-01-2010,Nendaz,SUI,Austria,European Cup,Parallel GS,35,10.00
-432,Payer Alexander,Male,09-01-2010,Marianske Lazne,CZE,Austria,European Cup,Parallel Slalom,15,57.60
-433,Payer Alexander,Male,06-01-2010,Kreischberg,AUT,Austria,World Cup,Parallel GS,54,14.30
-434,Payer Alexander,Male,30-12-2009,Goetschen  Bischofswiesen,GER,Austria,European Cup,Parallel GS,22,45.00
-435,Payer Alexander,Male,20-12-2009,Schoenberg/Lachtal,AUT,Austria,FIS,Parallel GS,12,57.20
-436,Payer Alexander,Male,19-12-2009,Schoenberg/Lachtal,AUT,Austria,FIS,Parallel GS,8,83.20
-437,Payer Alexander,Male,06-12-2009,Carezza,ITA,Austria,European Cup,Parallel Slalom,16,67.50
-438,Payer Alexander,Male,05-12-2009,Carezza,ITA,Austria,European Cup,Parallel GS,33,12.00
-439,Payer Alexander,Male,29-11-2009,"Hochfuegen, Zillertal (AUT)",GER,Austria,European Cup,Parallel GS,33,12.00
-440,Payer Alexander,Male,28-11-2009,"Hochfuegen, Zillertal (AUT)",GER,Austria,National Championships,Parallel GS,33,8.64
-441,Payer Alexander,Male,31-03-2009,Maribor,SLO,Austria,FIS,Parallel GS,2,160.00
-442,Payer Alexander,Male,29-03-2009,Kasberg,AUT,Austria,National Championships,Parallel Slalom,41,0.00
-443,Payer Alexander,Male,28-03-2009,Kasberg,AUT,Austria,National Championships,Parallel GS,6,144.00
-444,Payer Alexander,Male,15-03-2009,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,4,120.00
-445,Payer Alexander,Male,14-03-2009,Gerlitzen,AUT,Austria,FIS,Parallel GS,9,69.60
-446,Payer Alexander,Male,08-03-2009,Spindleruv Mlyn,CZE,Austria,National Championships,Parallel Slalom,3,66.00
-447,Payer Alexander,Male,07-03-2009,Spindleruv Mlyn,CZE,Austria,National Championships,Parallel GS,5,49.50
-448,Payer Alexander,Male,21-02-2009,Adelboden,SUI,Austria,European Cup,Parallel Slalom,10,67.60
-449,Payer Alexander,Male,20-02-2009,Adelboden,SUI,Austria,European Cup,Parallel Slalom,1,260.00
-450,Payer Alexander,Male,08-02-2009,Kreischberg,AUT,Austria,FIS,Parallel GS,5,45.00
-451,Payer Alexander,Male,07-02-2009,Lachtal,AUT,Austria,FIS,Parallel Slalom,3,60.00
-452,Payer Alexander,Male,31-01-2009,Sils,SUI,Austria,European Cup,Parallel GS,21,29.00
-453,Payer Alexander,Male,30-01-2009,Sils,SUI,Austria,European Cup,Parallel GS,28,10.40
-454,Payer Alexander,Male,18-01-2009,Imst,AUT,Austria,European Cup,Giant Slalom,24,25.20
-455,Payer Alexander,Male,17-01-2009,Imst,AUT,Austria,European Cup,Giant Slalom,36,7.09
-456,Payer Alexander,Male,11-01-2009,Kasberg,AUT,Austria,European Cup,Parallel GS,26,18.00
-457,Payer Alexander,Male,10-01-2009,Kasberg,AUT,Austria,European Cup,Parallel GS,34,7.92
-458,Payer Alexander,Male,04-01-2009,Marianske Lazne,CZE,Austria,European Cup,Parallel Slalom,8,83.20
-459,Payer Alexander,Male,03-01-2009,Marianske Lazne,CZE,Austria,European Cup,Parallel Slalom,15,41.60
-460,Payer Alexander,Male,29-12-2008,Bischofswiesen / Götschen,GER,Austria,European Cup,Parallel GS,26,25.00
-461,Payer Alexander,Male,20-12-2008,Ratschings/Racines,ITA,Austria,European Cup,Giant Slalom,32,6.76
-462,Payer Alexander,Male,19-12-2008,Ratschings/Racines,ITA,Austria,European Cup,Giant Slalom,28,10.40
-463,Payer Alexander,Male,14-12-2008,Welschnofen/Karerpass,ITA,Austria,European Cup,Giant Slalom,21,26.00
-464,Payer Alexander,Male,13-12-2008,Haus/Ennstal,AUT,Austria,FIS,Parallel GS,15,32.00
-465,Payer Alexander,Male,07-12-2008,Innsbruck/Patscherkofel,AUT,Austria,FIS,Parallel Slalom,19,31.20
-466,Payer Alexander,Male,06-12-2008,Innsbruck/Patscherkofel,AUT,Austria,FIS,Parallel Slalom,69,2.55
-467,Payer Alexander,Male,29-11-2008,Abzakovo / Magnitogorsk,RUS,Austria,European Cup,Parallel Slalom,DSQ,
-468,Payer Alexander,Male,28-11-2008,Abzakovo / Magnitogorsk,RUS,Austria,European Cup,Parallel Slalom,16,43.50
-469,Payer Alexander,Male,11-04-2008,Kope,SLO,Austria,FIS,Giant Slalom,5,117.00
-470,Payer Alexander,Male,03-04-2008,Sils,SUI,Austria,National Championships,Parallel GS,14,64.80
-471,Payer Alexander,Male,30-03-2008,Radstadt,AUT,Austria,National Championships,Giant Slalom,16,54.00
-472,Payer Alexander,Male,29-03-2008,Radstadt,AUT,Austria,National Championships,Parallel Slalom,17,50.40
-473,Payer Alexander,Male,18-03-2008,Valmalenco,ITA,Austria,FIS Junior World Championships,Parallel Slalom,10,93.60
-474,Payer Alexander,Male,17-03-2008,Valmalenco,ITA,Austria,FIS Junior World Championships,Parallel GS,14,64.80
-475,Payer Alexander,Male,09-03-2008,Spindleruv Mlyn,CZE,Austria,National Championships,Parallel Slalom,5,58.50
-476,Payer Alexander,Male,08-03-2008,Spindleruv Mlyn,CZE,Austria,National Championships,Parallel GS,4,65.00
-477,Payer Alexander,Male,24-02-2008,Fiss,AUT,Austria,European Cup,Snowboardcross,49,3.48
-478,Payer Alexander,Male,24-02-2008,Fiss,AUT,Austria,Junior,Snowboardcross,130,
-479,Payer Alexander,Male,22-02-2008,Fiss,AUT,Austria,Junior,Snowboardcross,17,7.00
-480,Payer Alexander,Male,17-02-2008,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,16,39.00
-481,Payer Alexander,Male,16-02-2008,Gerlitzen,AUT,Austria,FIS,Parallel GS,16,39.00
-482,Payer Alexander,Male,27-01-2008,St. Gallenkirch,AUT,Austria,FIS,Snowboardcross,37,5.04
-483,Payer Alexander,Male,26-01-2008,St. Gallenkirch,AUT,Austria,Junior,Snowboardcross,16,7.50
-484,Payer Alexander,Male,20-01-2008,Imst,AUT,Austria,European Cup,Parallel Slalom,10,62.40
-485,Payer Alexander,Male,19-01-2008,Imst,AUT,Austria,European Cup,Parallel Slalom,7,86.40
-486,Payer Alexander,Male,13-01-2008,Kasberg,AUT,Austria,FIS,Parallel GS,10,41.60
-487,Payer Alexander,Male,12-01-2008,Kasberg,AUT,Austria,FIS,Parallel GS,13,32.00
-488,Payer Alexander,Male,10-01-2008,Bad Gastein,AUT,Austria,European Cup,Parallel Slalom,37,9.70
-489,Payer Alexander,Male,06-01-2008,Pec pod Snezkou,CZE,Austria,FIS,Parallel GS,8,51.20
-490,Payer Alexander,Male,29-12-2007,Götschen/Bischofswiesen,GER,Austria,European Cup,Parallel GS,25,30.00
-491,Payer Alexander,Male,15-12-2007,Carezza,ITA,Austria,European Cup,Giant Slalom,15,41.60
-492,Payer Alexander,Male,08-12-2007,Haus im Ennstal,AUT,Austria,FIS,Giant Slalom,28,8.00
-493,Payer Alexander,Male,07-12-2007,Haus im Ennstal,AUT,Austria,European Cup,Giant Slalom,20,26.40
-494,Payer Alexander,Male,02-12-2007,Kühtai,AUT,Austria,FIS,Parallel Slalom,38,4.97
-495,Payer Alexander,Male,01-12-2007,Kühtai,AUT,Austria,FIS,Parallel Slalom,16,39.00
-496,Payer Alexander,Male,12-04-2007,Bad Gastein,AUT,Austria,FIS Junior World Championships,Parallel GS,14,64.80
-497,Payer Alexander,Male,01-04-2007,Serfaus,AUT,Austria,European Cup,Snowboardcross,88,
-498,Payer Alexander,Male,01-04-2007,Kaunertal,GER,Austria,National Championships,Parallel Slalom,18,26.00
-499,Payer Alexander,Male,30-03-2007,Serfaus,AUT,Austria,National Championships,Snowboardcross,43,6.34
-500,Payer Alexander,Male,25-03-2007,Haus im Ennstal,AUT,Austria,Junior,Giant Slalom,4,25.00
-501,Payer Alexander,Male,24-03-2007,Haus im Ennstal,AUT,Austria,National Championships,Giant Slalom,27,16.20
-502,Payer Alexander,Male,23-03-2007,Haus im Ennstal,AUT,Austria,National Championships,Parallel Slalom,20,39.60
-503,Payer Alexander,Male,11-03-2007,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,20,13.20
-504,Payer Alexander,Male,10-03-2007,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,31,3.92
-505,Payer Alexander,Male,25-02-2007,Fiss,AUT,Austria,FIS,Snowboardcross,36,5.12
-506,Payer Alexander,Male,24-02-2007,Fiss,AUT,Austria,FIS,Snowboardcross,37,5.04
-507,Payer Alexander,Male,19-02-2007,Adelboden,SUI,Austria,European Cup,Giant Slalom,22,28.80
-508,Payer Alexander,Male,18-02-2007,Adelboden,SUI,Austria,European Cup,Giant Slalom,24,22.40
-509,Payer Alexander,Male,17-02-2007,Adelboden,SUI,Austria,FIS,Giant Slalom,22,23.40
-510,Payer Alexander,Male,11-02-2007,St. Gallenkirch,AUT,Austria,FIS,Snowboardcross,20,22.00
-511,Payer Alexander,Male,10-02-2007,St. Gallenkirch,AUT,Austria,FIS,Snowboardcross,97,
-512,Payer Alexander,Male,21-01-2007,Kühtai,AUT,Austria,European Cup,Parallel Slalom,96,
-513,Payer Alexander,Male,22-12-2006,Bad Gastein,AUT,Austria,European Cup,Parallel Slalom,66,
-514,Payer Alexander,Male,01-04-2006,Bad Gastein,AUT,Austria,National Championships,Parallel GS,33,8.64
-515,Payer Alexander,Male,31-03-2006,Bad Gastein,AUT,Austria,National Championships,Parallel Slalom,36,6.30
-516,Payer Alexander,Male,19-03-2006,Fiss,AUT,Austria,FIS,Snowboardcross,42,4.30
-517,Payer Alexander,Male,18-03-2006,Fiss,AUT,Austria,FIS,Snowboardcross,35,4.40
-518,Payer Alexander,Male,12-03-2006,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,80,
-519,Payer Alexander,Male,11-03-2006,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,53,3.80
-520,Payer Alexander,Male,26-02-2006,Fiss,AUT,Austria,FIS,Snowboardcross,23,16.00
-521,Payer Alexander,Male,25-02-2006,Fiss,AUT,Austria,FIS,Snowboardcross,DSQ,
-522,Payer Alexander,Male,29-01-2006,Vratna-Terchova,SVK,Austria,European Cup,Parallel GS,39,5.45
-523,Payer Alexander,Male,28-01-2006,Vratna-Terchova,SVK,Austria,European Cup,Parallel GS,71,
-524,Payer Alexander,Male,22-01-2006,Radstadt,AUT,Austria,European Cup,Parallel Slalom,53,3.80
-525,Payer Alexander,Male,21-01-2006,Radstadt,AUT,Austria,European Cup,Parallel Slalom,31,7.28
-526,Payer Alexander,Male,15-01-2006,Hinterstoder,AUT,Austria,FIS,Parallel GS,21,26.00
-527,Payer Alexander,Male,14-01-2006,Hinterstoder,AUT,Austria,FIS,Parallel GS,18,23.40
-528,Payer Alexander,Male,06-01-2006,Bad Gastein,AUT,Austria,European Cup,Snowboardcross,81,2.23
-529,Payer Alexander,Male,02-04-2005,Berchtesgaden/Rossfeld,GER,Austria,National Championships,Snowboardcross,34,3.96
-530,Payer Alexander,Male,01-04-2005,Berchtesgaden/Rossfeld,GER,Austria,National Championships,Parallel GS,50,4.50
-531,Payer Alexander,Male,13-03-2005,Bad Kleinkirchheim,AUT,Austria,FIS,Parallel Slalom,22,16.20
-532,Payer Alexander,Male,12-03-2005,Bad Kleinkirchheim,AUT,Austria,FIS,Parallel Slalom,27,9.00
-533,Payer Alexander,Male,06-03-2005,Bergeralm,AUT,Austria,FIS,Snowboardcross,21,20.00
-534,Payer Alexander,Male,05-03-2005,Bergeralm,AUT,Austria,FIS,Snowboardcross,19,28.80
-535,Payer Alexander,Male,27-02-2005,Sankt Gallenkirch,AUT,Austria,FIS,Snowboardcross,30,5.12
-536,Payer Alexander,Male,26-02-2005,Sankt Gallenkirch,AUT,Austria,FIS,Snowboardcross,39,3.76
-537,Payer Alexander,Male,20-02-2005,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,60,3.00
-538,Payer Alexander,Male,19-02-2005,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,60,3.00
-539,Payer Alexander,Male,12-02-2005,Bad Gastein,AUT,Austria,National Championships,Snowboardcross,40,6.66
-540,Payer Alexander,Male,11-02-2005,Bad Gastein,AUT,Austria,European Cup,Snowboardcross,58,5.24
-541,Payer Alexander,Male,30-01-2005,Kreischberg,AUT,Austria,National Championships,Parallel Slalom,48,4.19
-542,Payer Alexander,Male,29-01-2005,Kreischberg,AUT,Austria,National Championships,Parallel GS,53,5.26
-543,Payer Alexander,Male,09-01-2005,Hinterstoder,AUT,Austria,FIS,Parallel GS,70,2.09
-544,Payer Alexander,Male,08-01-2005,Hinterstoder,AUT,Austria,FIS,Parallel GS,89,0.00
-545,Payer Alexander,Male,12-12-2004,Haus im Ennstal,AUT,Austria,FIS,Parallel GS,94,0.60
-546,Payer Alexander,Male,05-12-2004,Kuehtai,AUT,Austria,FIS,Parallel Slalom,60,3.25
-547,Payer Alexander,Male,04-12-2004,Kuehtai,AUT,Austria,FIS,Parallel Slalom,17,28.00
-548,Payer Alexander,Male,28-11-2004,Moelltaler Gletscher,AUT,Austria,FIS,Snowboardcross,99,0.21
+0,Payer Alexander,Male,09-03-2025,Montafon/Gargellen,AUT,Austria,European Cup,Parallel Slalom,7,
+1,Payer Alexander,Male,02-03-2025,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,8,
+2,Payer Alexander,Male,02-03-2025,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,10,260.00
+3,Payer Alexander,Male,01-03-2025,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,20,
+4,Payer Alexander,Male,01-03-2025,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,20,110.00
+5,Payer Alexander,Male,16-02-2025,Val St. Come,CAN,Austria,Qualification,Parallel Giant Slalom,8,
+6,Payer Alexander,Male,16-02-2025,Val St. Come,CAN,Austria,World Cup,Parallel Giant Slalom,6,400.00
+7,Payer Alexander,Male,15-02-2025,Val St. Come,CAN,Austria,Qualification,Parallel Giant Slalom,DSQ,
+8,Payer Alexander,Male,15-02-2025,Val St. Come,CAN,Austria,World Cup,Parallel Giant Slalom,DSQ,
+9,Payer Alexander,Male,09-02-2025,Simonhoehe,AUT,Austria,National Championships,Parallel Slalom,6,116.00
+10,Payer Alexander,Male,08-02-2025,Simonhoehe,AUT,Austria,National Championships,Parallel Giant Slalom,3,174.00
+11,Payer Alexander,Male,25-01-2025,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,2,
+12,Payer Alexander,Male,25-01-2025,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,9,290.00
+13,Payer Alexander,Male,19-01-2025,Bansko,BUL,Austria,Qualification,Parallel Giant Slalom,11,
+14,Payer Alexander,Male,19-01-2025,Bansko,BUL,Austria,World Cup,Parallel Giant Slalom,4,500.00
+15,Payer Alexander,Male,18-01-2025,Bansko,BUL,Austria,Qualification,Parallel Giant Slalom,16,
+16,Payer Alexander,Male,18-01-2025,Bansko,BUL,Austria,World Cup,Parallel Giant Slalom,16,150.00
+17,Payer Alexander,Male,15-01-2025,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,5,
+18,Payer Alexander,Male,14-01-2025,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,6,
+19,Payer Alexander,Male,14-01-2025,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,4,500.00
+20,Payer Alexander,Male,11-01-2025,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,11,
+21,Payer Alexander,Male,11-01-2025,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,14,180.00
+22,Payer Alexander,Male,21-12-2024,Davos,SUI,Austria,Qualification,Parallel Slalom,8,
+23,Payer Alexander,Male,21-12-2024,Davos,SUI,Austria,World Cup,Parallel Slalom,10,260.00
+24,Payer Alexander,Male,14-12-2024,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,12,
+25,Payer Alexander,Male,14-12-2024,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,3,600.00
+26,Payer Alexander,Male,12-12-2024,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,19,
+27,Payer Alexander,Male,12-12-2024,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,19,120.00
+28,Payer Alexander,Male,08-12-2024,Yanqing (NASC),CHN,Austria,World Cup,Parallel Slalom,13,200.00
+29,Payer Alexander,Male,08-12-2024,Yanqing (NASC),CHN,Austria,Qualification,Parallel Slalom,11,
+30,Payer Alexander,Male,07-12-2024,Yanqing (NASC),CHN,Austria,World Cup,Parallel Giant Slalom,18,130.00
+31,Payer Alexander,Male,07-12-2024,Yanqing (NASC),CHN,Austria,Qualification,Parallel Giant Slalom,18,
+32,Payer Alexander,Male,01-12-2024,Mylin,CHN,Austria,World Cup,Parallel Slalom,19,120.00
+33,Payer Alexander,Male,01-12-2024,Mylin,CHN,Austria,Qualification,Parallel Slalom,19,
+34,Payer Alexander,Male,30-11-2024,Mylin,CHN,Austria,World Cup,Parallel Giant Slalom,13,200.00
+35,Payer Alexander,Male,30-11-2024,Mylin,CHN,Austria,Qualification,Parallel Giant Slalom,10,
+36,Payer Alexander,Male,17-03-2024,St. Moritz,SUI,Austria,European Cup,Parallel Slalom,DSQ,
+37,Payer Alexander,Male,16-03-2024,St. Moritz,SUI,Austria,European Cup,Parallel Giant Slalom,10,93.60
+38,Payer Alexander,Male,09-03-2024,Winterberg,GER,Austria,Qualification,Parallel Slalom,8,
+39,Payer Alexander,Male,09-03-2024,Winterberg,GER,Austria,World Cup,Parallel Slalom,12,220.00
+40,Payer Alexander,Male,25-02-2024,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,3,
+41,Payer Alexander,Male,25-02-2024,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,3,600.00
+42,Payer Alexander,Male,24-02-2024,Krynica,POL,Austria,Qualification,Parallel Giant Slalom,29,
+43,Payer Alexander,Male,24-02-2024,Krynica,POL,Austria,World Cup,Parallel Giant Slalom,29,36.00
+44,Payer Alexander,Male,10-02-2024,Hochficht/Zwiesel,AUT,Austria,National Championships,Parallel Slalom,3,174.00
+45,Payer Alexander,Male,09-02-2024,Hochficht/Zwiesel,AUT,Austria,National Championships,Parallel Giant Slalom,5,130.50
+46,Payer Alexander,Male,28-01-2024,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom Team,20,
+47,Payer Alexander,Male,27-01-2024,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,16,
+48,Payer Alexander,Male,27-01-2024,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom,16,150.00
+49,Payer Alexander,Male,25-01-2024,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,14,
+50,Payer Alexander,Male,25-01-2024,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,14,180.00
+51,Payer Alexander,Male,21-01-2024,Pamporovo,BUL,Austria,Qualification,Parallel Slalom,14,
+52,Payer Alexander,Male,21-01-2024,Pamporovo,BUL,Austria,World Cup,Parallel Slalom,8,320.00
+53,Payer Alexander,Male,20-01-2024,Pamporovo,BUL,Austria,Qualification,Parallel Slalom,14,
+54,Payer Alexander,Male,20-01-2024,Pamporovo,BUL,Austria,World Cup,Parallel Slalom,15,160.00
+55,Payer Alexander,Male,17-01-2024,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,16,
+56,Payer Alexander,Male,16-01-2024,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,25,
+57,Payer Alexander,Male,16-01-2024,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,25,60.00
+58,Payer Alexander,Male,13-01-2024,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,15,
+59,Payer Alexander,Male,13-01-2024,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,15,160.00
+60,Payer Alexander,Male,23-12-2023,Davos,SUI,Austria,Qualification,Parallel Slalom,20,
+61,Payer Alexander,Male,23-12-2023,Davos ,SUI,Austria,World Cup,Parallel Slalom,20,110.00
+62,Payer Alexander,Male,16-12-2023,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,14,
+63,Payer Alexander,Male,16-12-2023,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,15,160.00
+64,Payer Alexander,Male,14-12-2023,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,13,
+65,Payer Alexander,Male,14-12-2023,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,14,180.00
+66,Payer Alexander,Male,08-12-2023,Götschen,GER,Austria,Qualification,Parallel Slalom,5,
+67,Payer Alexander,Male,08-12-2023,Götschen,GER,Austria,European Cup,Parallel Slalom,6,144.00
+68,Payer Alexander,Male,21-02-2023,Bakuriani,GEO,Austria,Qualification,Parallel Slalom,DNF,
+69,Payer Alexander,Male,21-02-2023,Bakuriani,GEO,Austria,World Championships,Parallel Slalom,DNF,
+70,Payer Alexander,Male,19-02-2023,Bakuriani,GEO,Austria,Qualification,Parallel Giant Slalom,8,
+71,Payer Alexander,Male,19-02-2023,Bakuriani,GEO,Austria,World Championships,Parallel Giant Slalom,3,600.00
+72,Payer Alexander,Male,27-01-2023,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,5,
+73,Payer Alexander,Male,27-01-2023,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,2,800.00
+74,Payer Alexander,Male,26-01-2023,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,9,
+75,Payer Alexander,Male,26-01-2023,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,7,360.00
+76,Payer Alexander,Male,22-01-2023,Bansko,BUL,Austria,Qualification,Parallel Slalom,2,
+77,Payer Alexander,Male,22-01-2023,Bansko,BUL,Austria,World Cup,Parallel Slalom,9,290.00
+78,Payer Alexander,Male,21-01-2023,Bansko,BUL,Austria,Qualification,Parallel Slalom,15,
+79,Payer Alexander,Male,21-01-2023,Bansko,BUL,Austria,World Cup,Parallel Slalom,15,160.00
+80,Payer Alexander,Male,14-01-2023,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,6,
+81,Payer Alexander,Male,14-01-2023,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,6,400.00
+82,Payer Alexander,Male,11-01-2023,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,4,
+83,Payer Alexander,Male,10-01-2023,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,3,
+84,Payer Alexander,Male,10-01-2023,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,2,800.00
+85,Payer Alexander,Male,17-12-2022,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,8,
+86,Payer Alexander,Male,17-12-2022,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,10,260.00
+87,Payer Alexander,Male,15-12-2022,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,4,
+88,Payer Alexander,Male,15-12-2022,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,10,260.00
+89,Payer Alexander,Male,11-12-2022,Winterberg,GER,Austria,World Cup,Parallel Slalom,1,1000.00
+90,Payer Alexander,Male,10-12-2022,Winterberg,GER,Austria,Qualification,Parallel Slalom,1,
+91,Payer Alexander,Male,10-12-2022,Winterberg,GER,Austria,World Cup,Parallel Slalom Team,10,
+92,Payer Alexander,Male,13-04-2022,Dizin,IRI,Austria,FIS,Slalom,1,180.00
+93,Payer Alexander,Male,12-04-2022,Dizin,IRI,Austria,FIS,Slalom,1,180.00
+94,Payer Alexander,Male,11-04-2022,Dizin,IRI,Austria,FIS,Slalom,1,180.00
+95,Payer Alexander,Male,10-04-2022,Dizin,IRI,Austria,FIS,Giant Slalom,1,180.00
+96,Payer Alexander,Male,27-03-2022,Villach / Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,1,290.00
+97,Payer Alexander,Male,20-03-2022,Berchtesgaden,GER,Austria,World Cup,Parallel  Slalom Team,2,
+98,Payer Alexander,Male,19-03-2022,Berchtesgaden,GER,Austria,Qualification,Parallel Slalom,13,
+99,Payer Alexander,Male,19-03-2022,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,13,200.00
+100,Payer Alexander,Male,16-03-2022,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,17,
+101,Payer Alexander,Male,16-03-2022,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,17,140.00
+102,Payer Alexander,Male,13-03-2022,Piancavallo,ITA,Austria,World Cup,Parallel Slalom Team,3,
+103,Payer Alexander,Male,12-03-2022,Piancavallo,ITA,Austria,Qualification,Parallel Slalom,8,
+104,Payer Alexander,Male,12-03-2022,Piancavallo,ITA,Austria,World Cup,Parallel Slalom,6,400.00
+105,Payer Alexander,Male,05-03-2022,Lachtal,AUT,Austria,European Cup,Parallel Giant Slalom,1,360.00
+106,Payer Alexander,Male,20-02-2022,Bakuriani,GEO,Austria,European Cup,Parallel Giant Slalom,7,129.60
+107,Payer Alexander,Male,19-02-2022,Bakuriani,GEO,Austria,European Cup,Parallel Giant Slalom,8,115.20
+108,Payer Alexander,Male,08-02-2022,Beijing,CHN,Austria,Qualification,Parallel Giant Slalom,10,
+109,Payer Alexander,Male,08-02-2022,Beijing,CHN,Austria,Olympic Winter Games,Parallel Giant Slalom,8,320.00
+110,Payer Alexander,Male,15-01-2022,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom Team,1,
+111,Payer Alexander,Male,14-01-2022,Simonhöhe,AUT,Austria,World Cup,Parallel Giant Slalom,6,400.00
+112,Payer Alexander,Male,14-01-2022,Simonhöhe,AUT,Austria,Qualification,Parallel Giant Slalom,5,
+113,Payer Alexander,Male,12-01-2022,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,6,
+114,Payer Alexander,Male,11-01-2022,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,4,
+115,Payer Alexander,Male,11-01-2022,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,3,600.00
+116,Payer Alexander,Male,08-01-2022,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,10,
+117,Payer Alexander,Male,08-01-2022,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,6,400.00
+118,Payer Alexander,Male,18-12-2021,Cortina d Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,8,
+119,Payer Alexander,Male,18-12-2021,Cortina d Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,11,240.00
+120,Payer Alexander,Male,16-12-2021,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,12,
+121,Payer Alexander,Male,16-12-2021,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,13,200.00
+122,Payer Alexander,Male,12-12-2021,Bannoye,RUS,Austria,Qualification,Parallel Slalom,21,
+123,Payer Alexander,Male,12-12-2021,Bannoye,RUS,Austria,World Cup,Parallel Slalom,21,100.00
+124,Payer Alexander,Male,11-12-2021,Bannoye,RUS,Austria,Qualification,Parallel Giant Slalom,DNF,
+125,Payer Alexander,Male,11-12-2021,Bannoye,RUS,Austria,World Cup,Parallel Giant Slalom,DNF,
+126,Payer Alexander,Male,21-03-2021,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom Team,10,
+127,Payer Alexander,Male,20-03-2021,Berchtesgaden,GER,Austria,Qualification,Parallel Slalom,10,
+128,Payer Alexander,Male,20-03-2021,Berchtesgaden,GER,Austria,World Cup,Parallel Slalom,2,800.00
+129,Payer Alexander,Male,13-03-2021,Davos Rinerhorn,SUI,Austria,European Cup,Parallel Giant Slalom,3,216.00
+130,Payer Alexander,Male,06-03-2021,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,15,
+131,Payer Alexander,Male,06-03-2021,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,8,320.00
+132,Payer Alexander,Male,02-03-2021,Rogla,SLO,Austria,World Championships,Parallel Slalom,10,260.00
+133,Payer Alexander,Male,02-03-2021,Rogla,SLO,Austria,Qualification,Parallel Slalom,5,
+134,Payer Alexander,Male,01-03-2021,Rogla,SLO,Austria,World Championships,Parallel Giant Slalom,14,180.00
+135,Payer Alexander,Male,01-03-2021,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,13,
+136,Payer Alexander,Male,21-02-2021,Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,1,290.00
+137,Payer Alexander,Male,20-02-2021,Gerlitzen,AUT,Austria,National Championships,Parallel Giant Slalom,5,130.50
+138,Payer Alexander,Male,07-02-2021,Bannoye,RUS,Austria,Qualification,Parallel Slalom,13,
+139,Payer Alexander,Male,07-02-2021,Bannoye,RUS,Austria,World Cup,Parallel Slalom,14,180.00
+140,Payer Alexander,Male,06-02-2021,Baonoye,RUS,Austria,Qualification,Parallel Giant Slalom,2,
+141,Payer Alexander,Male,06-02-2021,Bannoye,RUS,Austria,World Cup,Parallel Giant Slalom,9,290.00
+142,Payer Alexander,Male,30-01-2021,Moscow,RUS,Austria,Qualification,Parallel Slalom,5,
+143,Payer Alexander,Male,30-01-2021,Moscow,RUS,Austria,World Cup,Parallel Slalom,4,500.00
+144,Payer Alexander,Male,17-01-2021,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,2,288.00
+145,Payer Alexander,Male,16-01-2021,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,1,360.00
+146,Payer Alexander,Male,13-01-2021,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,10,
+147,Payer Alexander,Male,12-01-2021,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,7,
+148,Payer Alexander,Male,12-01-2021,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,7,360.00
+149,Payer Alexander,Male,09-01-2021,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,16,
+150,Payer Alexander,Male,09-01-2021,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,16,150.00
+151,Payer Alexander,Male,17-12-2020,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,16,
+152,Payer Alexander,Male,17-12-2020,Carezza,ITA,Austria,World Cup,Parallel Giant Slalom,16,150.00
+153,Payer Alexander,Male,12-12-2020,Cortina d Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,13,
+154,Payer Alexander,Male,12-12-2020,Cortina d Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,13,200.00
+155,Payer Alexander,Male,08-03-2020,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,3,216.00
+156,Payer Alexander,Male,07-03-2020,Tauplitz,AUT,Austria,European Cup,Parallel Slalom,1,360.00
+157,Payer Alexander,Male,01-03-2020,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,6,400.00
+158,Payer Alexander,Male,01-03-2020,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,11,
+159,Payer Alexander,Male,29-02-2020,Blue Mountain,CAN,Austria,World Cup,Parallel Giant Slalom,12,220.00
+160,Payer Alexander,Male,29-02-2020,Blue Mountain,CAN,Austria,Qualification,Parallel Giant Slalom,9,
+161,Payer Alexander,Male,22-02-2020,Pyeongchang,KOR,Austria,World Cup,Parallel Giant Slalom,4,500.00
+162,Payer Alexander,Male,22-02-2020,Pyeongchang,KOR,Austria,Qualification,Parallel Giant Slalom,7,
+163,Payer Alexander,Male,16-02-2020,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,31,10.08
+164,Payer Alexander,Male,15-02-2020,Simonhoehe,AUT,Austria,European Cup,Parallel Giant Slalom,5,162.00
+165,Payer Alexander,Male,09-02-2020,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,1,360.00
+166,Payer Alexander,Male,08-02-2020,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,2,288.00
+167,Payer Alexander,Male,26-01-2020,Piancavallo,ITA,Austria,World Cup,Parallel Slalom Team,6,
+168,Payer Alexander,Male,25-01-2020,Piancavallo,ITA,Austria,World Cup,Parallel Slalom,7,360.00
+169,Payer Alexander,Male,25-01-2020,Piancavallo,ITA,Austria,Qualification,Parallel Slalom,8,
+170,Payer Alexander,Male,18-01-2020,Rogla,SLO,Austria,World Cup,Parallel Giant Slalom,15,160.00
+171,Payer Alexander,Male,18-01-2020,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,15,
+172,Payer Alexander,Male,15-01-2020,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,7,
+173,Payer Alexander,Male,14-01-2020,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,23,80.00
+174,Payer Alexander,Male,14-01-2020,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,23,
+175,Payer Alexander,Male,11-01-2020,Scuol,SUI,Austria,World Cup,Parallel Giant Slalom,45,
+176,Payer Alexander,Male,11-01-2020,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,45,
+177,Payer Alexander,Male,19-12-2019,Carezza,ITA,Austria,Open,Parallel Giant Slalom,15,160.00
+178,Payer Alexander,Male,14-12-2019,Cortina d Ampezzo,ITA,Austria,World Cup,Parallel Giant Slalom,17,140.00
+179,Payer Alexander,Male,14-12-2019,Cortina d Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,17,
+180,Payer Alexander,Male,08-12-2019,Bannoye,RUS,Austria,World Cup,Parallel Giant Slalom,8,320.00
+181,Payer Alexander,Male,08-12-2019,Bannoye,RUS,Austria,Qualification,Parallel Giant Slalom,11,
+182,Payer Alexander,Male,07-12-2019,Bannoye,RUS,Austria,World Cup,Parallel Slalom,4,500.00
+183,Payer Alexander,Male,07-12-2019,Bannoye,RUS,Austria,Qualification,Parallel Slalom,2,
+184,Payer Alexander,Male,31-03-2019,Radstadt,AUT,Austria,National Championships,Parallel Giant Slalom,2,232.00
+185,Payer Alexander,Male,30-03-2019,Radstadt,AUT,Austria,National Championships,Parallel Slalom,1,290.00
+186,Payer Alexander,Male,24-03-2019,Winterberg,GER,Austria,World Cup,Parallel Slalom Team,7,
+187,Payer Alexander,Male,23-03-2019,Winterberg,GER,Austria,World Cup,Parallel Slalom,12,220.00
+188,Payer Alexander,Male,23-03-2019,Winterberg,GER,Austria,Qualification,Parallel Slalom,10,
+189,Payer Alexander,Male,17-03-2019,Rogla,SLO,Austria,European Cup,Parallel Giant Slalom,5,162.00
+190,Payer Alexander,Male,16-03-2019,Rogla,SLO,Austria,European Cup,Parallel Giant Slalom,10,93.60
+191,Payer Alexander,Male,09-03-2019,Scuol,SUI,Austria,World Cup,Parallel GS,24,70.00
+192,Payer Alexander,Male,09-03-2019,Scuol,SUI,Austria,Qualification,Parallel Giant Slalom,24,
+193,Payer Alexander,Male,03-03-2019,Davos,SUI,Austria,European Cup,Parallel Slalom,6,144.00
+194,Payer Alexander,Male,02-03-2019,Davos,SUI,Austria,European Cup,Parallel Giant Slalom,21,36.00
+195,Payer Alexander,Male,24-02-2019,Secret Garden,CHN,Austria,World Cup,Parallel Slalom,7,360.00
+196,Payer Alexander,Male,24-02-2019,Secret Garden,CHN,Austria,Qualification,Parallel Slalom,8,
+197,Payer Alexander,Male,23-02-2019,Secret Garden,CHN,Austria,World Cup,Parallel Giant Slalom,17,140.00
+198,Payer Alexander,Male,23-02-2019,Secret Garden,CHN,Austria,Qualification,Parallel Giant Slalom,17,
+199,Payer Alexander,Male,17-02-2019,Pyeongchang,KOR,Austria,World Cup,Parallel Giant Slalom,33,24.00
+200,Payer Alexander,Male,17-02-2019,Pyeongchang,KOR,Austria,Qualification,Parallel Giant Slalom,33,
+201,Payer Alexander,Male,16-02-2019,Pyeongchang,KOR,Austria,World Cup,Parallel Giant Slalom,6,400.00
+202,Payer Alexander,Male,16-02-2019,Pyeongchang,KOR,Austria,Qualification,Parallel Giant Slalom,3,
+203,Payer Alexander,Male,04-02-2019,Park City,USA,Austria,World Championships,Parallel Giant Slalom,11,240.00
+204,Payer Alexander,Male,27-01-2019,Moscow,RUS,Austria,World Cup,Parallel Slalom Team,6,
+205,Payer Alexander,Male,26-01-2019,Moscow,RUS,Austria,World Cup,Parallel Slalom,16,150.00
+206,Payer Alexander,Male,26-01-2019,Moscow,RUS,Austria,Qualification,Parallel Slalom,15,
+207,Payer Alexander,Male,19-01-2019,Rogla,SLO,Austria,World Cup,Parallel GS,17,140.00
+208,Payer Alexander,Male,19-01-2019,Rogla,SLO,Austria,Qualification,Parallel Giant Slalom,17,
+209,Payer Alexander,Male,09-01-2019,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,7,
+210,Payer Alexander,Male,08-01-2019,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,10,260.00
+211,Payer Alexander,Male,08-01-2019,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,10,
+212,Payer Alexander,Male,06-01-2019,Simonhöhe,AUT,Austria,FIS,Parallel Slalom,DNS1,
+213,Payer Alexander,Male,05-01-2019,Simonhöhe,AUT,Austria,FIS,Parallel Slalom,1,220.00
+214,Payer Alexander,Male,15-12-2018,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel GS,13,200.00
+215,Payer Alexander,Male,15-12-2018,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Giant Slalom,11,
+216,Payer Alexander,Male,13-12-2018,Carezza,ITA,Austria,World Cup,Parallel GS,20,110.00
+217,Payer Alexander,Male,13-12-2018,Carezza,ITA,Austria,Qualification,Parallel Giant Slalom,20,
+218,Payer Alexander,Male,21-03-2018,Rogla,SLO,Austria,European Cup,Parallel GS,15,57.60
+219,Payer Alexander,Male,20-03-2018,Rogla,SLO,Austria,European Cup,Parallel GS,17,50.40
+220,Payer Alexander,Male,18-03-2018,Winterberg,GER,Austria,World Cup,Parallel Slalom Team,9,
+221,Payer Alexander,Male,17-03-2018,Winterberg,GER,Austria,World Cup,Parallel Slalom,31,28.00
+222,Payer Alexander,Male,17-03-2018,Winterberg,GER,Austria,Qualification,Parallel Slalom,31,
+223,Payer Alexander,Male,10-03-2018,Scuol,SUI,Austria,World Cup,Parallel GS,33,24.00
+224,Payer Alexander,Male,10-03-2018,Scuol,SUI,Austria,Qualification,Parallel GS,33,
+225,Payer Alexander,Male,03-03-2018,Kayseri,TUR,Austria,World Cup,Parallel GS,8,320.00
+226,Payer Alexander,Male,03-03-2018,Kayseri,TUR,Austria,Qualification,Parallel GS,7,
+227,Payer Alexander,Male,24-02-2018,Phoenix Snow Park,KOR,Austria,Qualification,Parallel GS,5,
+228,Payer Alexander,Male,24-02-2018,Phoenix Snow Park,KOR,Austria,Olympic Winter Games,Parallel GS,9,290.00
+229,Payer Alexander,Male,04-02-2018,Gerlitzen,AUT,Austria,National Championships,Parallel GS,2,232.00
+230,Payer Alexander,Male,03-02-2018,Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,3,174.00
+231,Payer Alexander,Male,28-01-2018,Bansko,BUL,Austria,World Cup,Parallel GS,7,360.00
+232,Payer Alexander,Male,28-01-2018,Bansko,BUL,Austria,Qualification,Parallel GS,9,
+233,Payer Alexander,Male,26-01-2018,Bansko,BUL,Austria,World Cup,Parallel GS,11,240.00
+234,Payer Alexander,Male,26-01-2018,Bansko,BUL,Austria,Qualification,Parallel GS,7,
+235,Payer Alexander,Male,21-01-2018,Rogla,SLO,Austria,World Cup,Parallel GS,24,70.00
+236,Payer Alexander,Male,21-01-2018,Rogla,SLO,Austria,Qualification,Parallel GS,24,
+237,Payer Alexander,Male,20-01-2018,Rogla,SLO,Austria,World Cup,Parallel GS,11,240.00
+238,Payer Alexander,Male,20-01-2018,Rogla,SLO,Austria,Qualification,Parallel GS,6,
+239,Payer Alexander,Male,13-01-2018,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,1,
+240,Payer Alexander,Male,12-01-2018,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,8,320.00
+241,Payer Alexander,Male,12-01-2018,Bad Gastein,AUT,Austria,Qualification,Parallel Slalom,14,
+242,Payer Alexander,Male,06-01-2018,Lackenhof,AUT,Austria,World Cup,Parallel GS Team,2,
+243,Payer Alexander,Male,05-01-2018,Lackenhof,AUT,Austria,World Cup,Parallel GS,3,600.00
+244,Payer Alexander,Male,05-01-2018,Lackenhof,AUT,Austria,Qualification,Parallel GS,2,
+245,Payer Alexander,Male,16-12-2017,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Slalom,18,130.00
+246,Payer Alexander,Male,16-12-2017,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel Slalom,18,
+247,Payer Alexander,Male,15-12-2017,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel GS,1,1000.00
+248,Payer Alexander,Male,15-12-2017,Cortina d'Ampezzo,ITA,Austria,Qualification,Parallel GS,12,
+249,Payer Alexander,Male,14-12-2017,Carezza,ITA,Austria,World Cup,Parallel GS,26,50.00
+250,Payer Alexander,Male,14-12-2017,Carezza,ITA,Austria,Qualification,Parallel GS,26,
+251,Payer Alexander,Male,10-12-2017,Hochfügen,GER,Austria,European Cup,Parallel GS,2,288.00
+252,Payer Alexander,Male,29-03-2017,Rogla,SLO,Austria,European Cup,Parallel Slalom,3,216.00
+253,Payer Alexander,Male,28-03-2017,Rogla,SLO,Austria,European Cup,Parallel GS,14,64.80
+254,Payer Alexander,Male,26-03-2017,Racines,ITA,Austria,European Cup,Parallel Slalom,5,162.00
+255,Payer Alexander,Male,25-03-2017,Racines,ITA,Austria,European Cup,Parallel Slalom,2,288.00
+256,Payer Alexander,Male,19-03-2017,Winterberg,GER,Austria,World Cup,Parallel Slalom Team,5,
+257,Payer Alexander,Male,18-03-2017,Winterberg,GER,Austria,Qualification,Parallel Slalom,14,
+258,Payer Alexander,Male,18-03-2017,Winterberg,GER,Austria,World Cup,Parallel Slalom,3,600.00
+259,Payer Alexander,Male,16-03-2017,Sierra Nevada,ESP,Austria,World Championships,Parallel GS,31,28.00
+260,Payer Alexander,Male,15-03-2017,Sierra Nevada,ESP,Austria,World Championships,Parallel Slalom,14,180.00
+261,Payer Alexander,Male,05-03-2017, Erciyes-Kayseri,TUR,Austria,World Cup,Parallel GS,12,220.00
+262,Payer Alexander,Male,26-02-2017,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,14,64.80
+263,Payer Alexander,Male,25-02-2017,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,11,86.40
+264,Payer Alexander,Male,12-02-2017,Phoenix Pyeongchang,KOR,Austria,World Cup,Parallel GS,DSQ,
+265,Payer Alexander,Male,05-02-2017,Bansko,BUL,Austria,World Cup,Parallel GS,20,110.00
+266,Payer Alexander,Male,03-02-2017,Bansko,BUL,Austria,World Cup,Parallel GS,17,140.00
+267,Payer Alexander,Male,28-01-2017,Rogla,SLO,Austria,World Cup,Parallel GS,16,150.00
+268,Payer Alexander,Male,15-01-2017,Hochficht,AUT,Austria,National Championships,Parallel Slalom,3,174.00
+269,Payer Alexander,Male,14-01-2017,Hochficht,AUT,Austria,National Championships,Parallel GS,19,34.80
+270,Payer Alexander,Male,11-01-2017,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom Team,5,
+271,Payer Alexander,Male,10-01-2017,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,12,220.00
+272,Payer Alexander,Male,17-12-2016,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Slalom,9,290.00
+273,Payer Alexander,Male,15-12-2016,Carezza,ITA,Austria,World Cup,Parallel GS,11,240.00
+274,Payer Alexander,Male,11-12-2016,Hochfügen,GER,Austria,European Cup,Parallel GS,10,93.60
+275,Payer Alexander,Male,04-11-2016,Landgraaf,NED,Austria,European Cup,Parallel Slalom,9,104.40
+276,Payer Alexander,Male,03-11-2016,Landgraaf,NED,Austria,European Cup,Parallel Slalom,6,144.00
+277,Payer Alexander,Male,27-03-2016,Racines,ITA,Austria,European Cup,Parallel Slalom,4,225.00
+278,Payer Alexander,Male,26-03-2016,Racines,ITA,Austria,European Cup,Parallel Slalom,9,145.00
+279,Payer Alexander,Male,24-03-2016,Rogla,SLO,Austria,European Cup,Parallel Slalom,1,500.00
+280,Payer Alexander,Male,23-03-2016,Rogla,SLO,Austria,European Cup,Parallel GS,16,75.00
+281,Payer Alexander,Male,20-03-2016,Gerlitzen,AUT,Austria,European Cup,Parallel GS,5,225.00
+282,Payer Alexander,Male,19-03-2016,Gerlitzen,AUT,Austria,European Cup,Parallel GS,9,145.00
+283,Payer Alexander,Male,06-03-2016,Winterberg,GER,Austria,World Cup,Parallel Slalom,13,200.00
+284,Payer Alexander,Male,27-02-2016,Kayseri,TUR,Austria,World Cup,Parallel GS,23,80.00
+285,Payer Alexander,Male,07-02-2016,Lachtal,AUT,Austria,FIS,Parallel Slalom,6,104.00
+286,Payer Alexander,Male,06-02-2016,Lachtal,AUT,Austria,National Championships,Parallel Slalom,2,288.00
+287,Payer Alexander,Male,30-01-2016,Moscow,RUS,Austria,World Cup,Parallel Slalom,7,360.00
+288,Payer Alexander,Male,23-01-2016,Rogla,SLO,Austria,World Cup,Parallel GS,16,150.00
+289,Payer Alexander,Male,16-01-2016,Kreischberg,AUT,Austria,FIS,Parallel GS,2,208.00
+290,Payer Alexander,Male,08-01-2016,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,11,240.00
+291,Payer Alexander,Male,19-12-2015,Cortina d'Ampezzo,ITA,Austria,World Cup,Parallel Slalom,5,450.00
+292,Payer Alexander,Male,12-12-2015,Carezza,ITA,Austria,World Cup,Parallel GS,8,320.00
+293,Payer Alexander,Male,06-12-2015,Hochfuegen,GER,Austria,European Cup,Parallel GS,3,300.00
+294,Payer Alexander,Male,05-12-2015,Hochfuegen,GER,Austria,European Cup,Parallel GS,6,200.00
+295,Payer Alexander,Male,16-10-2015,Landgraaf,NED,Austria,European Cup,Parallel Slalom,8,160.00
+296,Payer Alexander,Male,15-10-2015,Landgraaf,NED,Austria,European Cup,Parallel Slalom,1,500.00
+297,Payer Alexander,Male,27-03-2015,Canazei,ITA,Austria,National Championships,Parallel Slalom,13,72.00
+298,Payer Alexander,Male,26-03-2015,Canazei,ITA,Austria,National Championships,Parallel GS,6,144.00
+299,Payer Alexander,Male,22-03-2015,Hochficht,AUT,Austria,National Championships,Giant Slalom,6,144.00
+300,Payer Alexander,Male,21-03-2015,Hochficht,AUT,Austria,National Championships,Parallel Slalom,5,162.00
+301,Payer Alexander,Male,18-03-2015,Rogla,SLO,Austria,European Cup,Parallel Slalom,9,145.00
+302,Payer Alexander,Male,17-03-2015,Rogla,SLO,Austria,European Cup,Parallel GS,16,
+303,Payer Alexander,Male,14-03-2015,Winterberg,GER,Austria,World Cup,Parallel Slalom,7,360.00
+304,Payer Alexander,Male,07-03-2015,Moscow,RUS,Austria,World Cup,Parallel Slalom,11,240.00
+305,Payer Alexander,Male,01-03-2015,Asahikawa,JPN,Austria,World Cup,Parallel Slalom,16,150.00
+306,Payer Alexander,Male,28-02-2015,Asahikawa,JPN,Austria,World Cup,Parallel GS,7,360.00
+307,Payer Alexander,Male,14-02-2015,Goetschen,GER,Austria,National Championships,Parallel GS,6,144.00
+308,Payer Alexander,Male,13-02-2015,Goetschen,GER,Austria,National Championships,Parallel Slalom,14,64.80
+309,Payer Alexander,Male,10-02-2015,Sierra Nevada,ESP,Austria,Universiade,Parallel GS,3,216.00
+310,Payer Alexander,Male,07-02-2015,Sudelfeld,GER,Austria,World Cup,Parallel GS,17,140.00
+311,Payer Alexander,Male,06-02-2015,Sudelfeld,GER,Austria,Qualification,Parallel GS,17,
+312,Payer Alexander,Male,31-01-2015,Rogla,SLO,Austria,World Cup,Parallel GS,25,60.00
+313,Payer Alexander,Male,09-01-2015,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,27,45.00
+314,Payer Alexander,Male,06-01-2015,Dachstein West / Gosau,AUT,Austria,FIS,Parallel Slalom,3,156.00
+315,Payer Alexander,Male,05-01-2015,Dachstein West / Gosau,AUT,Austria,FIS,Parallel Slalom,5,117.00
+316,Payer Alexander,Male,18-12-2014,Montafon,AUT,Austria,World Cup,Parallel Slalom,47,0.00
+317,Payer Alexander,Male,16-12-2014,Carezza,ITA,Austria,World Cup,Parallel GS,16,150.00
+318,Payer Alexander,Male,23-03-2014,Falkert,AUT,Austria,National Championships,Giant Slalom,1,360.00
+319,Payer Alexander,Male,22-03-2014,Falkert,AUT,Austria,National Championships,Parallel Slalom,4,180.00
+320,Payer Alexander,Male,16-03-2014,Ratsching/Racines,ITA,Austria,European Cup,Parallel Slalom,2,400.00
+321,Payer Alexander,Male,15-03-2014,Ratsching/Racines,ITA,Austria,European Cup,Parallel Slalom,7,180.00
+322,Payer Alexander,Male,09-03-2014,Tauplitz,AUT,Austria,FIS,Parallel Slalom,3,156.00
+323,Payer Alexander,Male,05-03-2014,Rogla,SLO,Austria,European Cup,Parallel Slalom,10,130.00
+324,Payer Alexander,Male,04-03-2014,Rogla,SLO,Austria,European Cup,Parallel GS,10,130.00
+325,Payer Alexander,Male,01-03-2014,Gerlitzen,AUT,Austria,European Cup,Parallel GS,8,160.00
+326,Payer Alexander,Male,16-02-2014,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,9,130.50
+327,Payer Alexander,Male,15-02-2014,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,7,162.00
+328,Payer Alexander,Male,01-02-2014,Sudelfeld,GER,Austria,World Cup,Parallel GS,11,240.00
+329,Payer Alexander,Male,26-01-2014,Hochficht,AUT,Austria,FIS,Giant Slalom,24,0.00
+330,Payer Alexander,Male,25-01-2014,Hochficht,AUT,Austria,FIS,Giant Slalom,2,192.00
+331,Payer Alexander,Male,18-01-2014,Rogla,SLO,Austria,World Cup,Parallel GS,24,70.00
+332,Payer Alexander,Male,12-01-2014,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,15,160.00
+333,Payer Alexander,Male,10-01-2014,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,54,14.30
+334,Payer Alexander,Male,22-12-2013,Schönberg-Lachtal,AUT,Austria,European Cup,Parallel Slalom,11,120.00
+335,Payer Alexander,Male,21-12-2013,Schönberg-Lachtal,AUT,Austria,European Cup,Parallel Slalom,15,80.00
+336,Payer Alexander,Male,19-12-2013,Monte Bondone - Canalon Lavaman,ITA,Austria,Universiade,Parallel GS,7,144.00
+337,Payer Alexander,Male,14-12-2013,Carezza,ITA,Austria,World Cup,Parallel Slalom,2,800.00
+338,Payer Alexander,Male,13-12-2013,Carezza,ITA,Austria,World Cup,Parallel GS,37,19.40
+339,Payer Alexander,Male,08-12-2013,Hochfügen,AUT,Austria,European Cup,Parallel GS,3,300.00
+340,Payer Alexander,Male,07-12-2013,Hochfügen,AUT,Austria,European Cup,Parallel GS,6,200.00
+341,Payer Alexander,Male,15-11-2013,"Copper Mountain, CO",USA,Austria,Nor-Am Cup,Parallel Slalom,9,145.00
+342,Payer Alexander,Male,14-11-2013,"Copper Mountain, CO",USA,Austria,Nor-Am Cup,Parallel Slalom,17,70.00
+343,Payer Alexander,Male,12-11-2013,"Copper Mountain, CO",USA,Austria,Nor-Am Cup,Parallel GS,22,45.00
+344,Payer Alexander,Male,11-11-2013,"Copper Mountain, CO",USA,Austria,Nor-Am Cup,Parallel GS,44,8.65
+345,Payer Alexander,Male,23-03-2013,Götschen,GER,Austria,National Championships,Parallel GS,7,129.60
+346,Payer Alexander,Male,22-03-2013,Götschen,GER,Austria,National Championships,Parallel Slalom,5,162.00
+347,Payer Alexander,Male,17-03-2013,Rogla,SLO,Austria,European Cup,Parallel Slalom,12,79.20
+348,Payer Alexander,Male,16-03-2013,Rogla,SLO,Austria,European Cup,Parallel GS,6,144.00
+349,Payer Alexander,Male,10-03-2013,Arosa,SUI,Austria,World Cup,Parallel GS,21,100.00
+350,Payer Alexander,Male,03-03-2013,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,2,208.00
+351,Payer Alexander,Male,02-03-2013,Gerlitzen,AUT,Austria,European Cup,Parallel Slalom,14,90.00
+352,Payer Alexander,Male,23-02-2013,Moscow,RUS,Austria,World Cup,Parallel Slalom,23,80.00
+353,Payer Alexander,Male,17-02-2013,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,5,202.50
+354,Payer Alexander,Male,16-02-2013,Lenzerheide,SUI,Austria,European Cup,Parallel Slalom,2,320.00
+355,Payer Alexander,Male,10-02-2013,Marianske Lazne,CZE,Austria,European Cup,Parallel Slalom,1,320.00
+356,Payer Alexander,Male,09-02-2013,Marianske Lazne,CZE,Austria,European Cup,Parallel Slalom,2,256.00
+357,Payer Alexander,Male,08-02-2013,Rogla,SLO,Austria,World Cup,Parallel GS,42,17.90
+358,Payer Alexander,Male,20-01-2013,Vratna - Paseky,SVK,Austria,European Cup,Parallel GS,1,320.00
+359,Payer Alexander,Male,19-01-2013,Vratna - Paseky,SVK,Austria,European Cup,Parallel GS,4,160.00
+360,Payer Alexander,Male,12-01-2013,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,12,220.00
+361,Payer Alexander,Male,11-01-2013,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,20,110.00
+362,Payer Alexander,Male,23-12-2012,Radstadt,AUT,Austria,FIS,Giant Slalom,13,52.00
+363,Payer Alexander,Male,22-12-2012,Radstadt,AUT,Austria,FIS,Giant Slalom,4,130.00
+364,Payer Alexander,Male,21-12-2012,Carezza,ITA,Austria,World Cup,Parallel GS,39,18.80
+365,Payer Alexander,Male,16-12-2012,Racines/Ratschings,ITA,Austria,European Cup,Parallel Slalom,2,400.00
+366,Payer Alexander,Male,15-12-2012,Racines/Ratschings,ITA,Austria,European Cup,Parallel Slalom,11,96.00
+367,Payer Alexander,Male,09-12-2012,Lachtal,AUT,Austria,European Cup,Parallel GS,16,75.00
+368,Payer Alexander,Male,08-12-2012,Lachtal,AUT,Austria,European Cup,Parallel GS,31,14.00
+369,Payer Alexander,Male,01-04-2012,St. Gallenkirch,AUT,Austria,National Championships,Parallel Slalom,5,162.00
+370,Payer Alexander,Male,31-03-2012,St. Gallenkirch,AUT,Austria,National Championships,Parallel GS,2,288.00
+371,Payer Alexander,Male,20-03-2012,Rogla,SLO,Austria,European Cup,Parallel Slalom,28,18.00
+372,Payer Alexander,Male,19-03-2012,Rogla,SLO,Austria,European Cup,Parallel GS,1,400.00
+373,Payer Alexander,Male,18-03-2012,Tauplitz,AUT,Austria,FIS,Parallel Slalom,1,180.00
+374,Payer Alexander,Male,17-03-2012,Tauplitz,AUT,Austria,FIS,Parallel Slalom,10,62.40
+375,Payer Alexander,Male,10-03-2012,Bad Gastein,AUT,Austria,European Cup,Parallel GS,3,174.00
+376,Payer Alexander,Male,04-03-2012,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,3,132.00
+377,Payer Alexander,Male,03-03-2012,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,10,62.40
+378,Payer Alexander,Male,24-02-2012,Sochi,RUS,Austria,European Cup,Parallel Slalom,8,92.80
+379,Payer Alexander,Male,23-02-2012,Sochi,RUS,Austria,European Cup,Parallel GS,10,75.40
+380,Payer Alexander,Male,12-02-2012,Marianske Lazne,CZE,Austria,European Cup,Parallel Slalom,18,41.60
+381,Payer Alexander,Male,11-02-2012,Marianske Lazne,CZE,Austria,European Cup,Parallel Slalom,19,38.40
+382,Payer Alexander,Male,05-02-2012,Ratschings-Racines,ITA,Austria,European Cup,Parallel Slalom,19,60.00
+383,Payer Alexander,Male,29-01-2012,Adelboden,SUI,Austria,European Cup,Parallel GS,18,33.80
+384,Payer Alexander,Male,15-01-2012,Vratna,SVK,Austria,European Cup,Giant Slalom,11,62.40
+385,Payer Alexander,Male,14-01-2012,Vratna,SVK,Austria,European Cup,Parallel GS,17,36.40
+386,Payer Alexander,Male,08-01-2012,Kreischberg,AUT,Austria,FIS,Parallel GS,15,41.60
+387,Payer Alexander,Male,07-01-2012,Kreischberg,AUT,Austria,FIS,Parallel GS,3,156.00
+388,Payer Alexander,Male,27-03-2011,Lachtal,AUT,Austria,European Cup,Parallel Slalom,7,104.40
+389,Payer Alexander,Male,26-03-2011,Lachtal,AUT,Austria,European Cup,Parallel Slalom,10,75.40
+390,Payer Alexander,Male,25-03-2011,Lachtal,AUT,Austria,European Cup,Parallel GS,13,58.00
+391,Payer Alexander,Male,12-03-2011,Protasiv Yar,UKR,Austria,European Cup,Parallel Slalom,10,83.20
+392,Payer Alexander,Male,11-03-2011,Protasiv Yar,UKR,Austria,FIS,Parallel Slalom,5,117.00
+393,Payer Alexander,Male,01-03-2011,Rogla,SLO,Austria,European Cup,Parallel Slalom,19,54.00
+394,Payer Alexander,Male,28-02-2011,Rogla,SLO,Austria,European Cup,Parallel GS,36,6.30
+395,Payer Alexander,Male,26-02-2011,Villach / Gerlitzen,AUT,Austria,FIS,Parallel Slalom,1,260.00
+396,Payer Alexander,Male,12-02-2011,Valberg,FRA,Austria,European Cup,Parallel GS,17,44.80
+397,Payer Alexander,Male,11-02-2011,Valberg,FRA,Austria,European Cup,Parallel GS,10,83.20
+398,Payer Alexander,Male,06-02-2011,Vratna,SVK,Austria,European Cup,Parallel GS,7,115.20
+399,Payer Alexander,Male,05-02-2011,Vratna,SVK,Austria,European Cup,Parallel GS,6,128.00
+400,Payer Alexander,Male,01-02-2011,Palandoken/Erzurum,TUR,Austria,Universiade,Parallel GS,16,48.00
+401,Payer Alexander,Male,29-01-2011,Adelboden,SUI,Austria,European Cup,Parallel GS,10,104.00
+402,Payer Alexander,Male,28-01-2011,Adelboden,SUI,Austria,European Cup,Parallel GS,23,32.00
+403,Payer Alexander,Male,23-01-2011,Innsbruck/Patscherkofel,AUT,Austria,FIS,Parallel Slalom,6,104.00
+404,Payer Alexander,Male,22-01-2011,Innsbruck/Patscherkofel,AUT,Austria,FIS,Parallel GS,3,156.00
+405,Payer Alexander,Male,12-01-2011,Berchtesgaden/Goetschen,GER,Austria,National Championships,Parallel GS,15,57.60
+406,Payer Alexander,Male,09-01-2011,Bad Gastein,AUT,Austria,World Cup,Parallel Slalom,29,36.00
+407,Payer Alexander,Male,19-12-2010,Samnaun,SUI,Austria,FIS,Parallel Slalom,5,108.00
+408,Payer Alexander,Male,18-12-2010,Samnaun,SUI,Austria,FIS,Parallel Slalom,3,156.00
+409,Payer Alexander,Male,17-12-2010,Samnaun,SUI,Austria,FIS,Parallel Slalom,7,93.60
+410,Payer Alexander,Male,11-12-2010,Ratschings/Racines,ITA,Austria,European Cup,Parallel GS,4,145.00
+411,Payer Alexander,Male,10-12-2010,Ratschings/Racines,ITA,Austria,FIS,Parallel GS,10,67.60
+412,Payer Alexander,Male,05-12-2010,Welschnofen-Carezza,ITA,Austria,European Cup,Parallel Slalom,14,72.00
+413,Payer Alexander,Male,04-12-2010,Welschnofen-Carezza,ITA,Austria,European Cup,Parallel GS,9,116.00
+414,Payer Alexander,Male,28-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Austria,FIS,Parallel GS,17,36.40
+415,Payer Alexander,Male,27-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Austria,European Cup,Parallel GS,28,18.00
+416,Payer Alexander,Male,28-03-2010,Gerlitzen,AUT,Austria,National Championships,Parallel GS,16,54.00
+417,Payer Alexander,Male,27-03-2010,Gerlitzen,AUT,Austria,National Championships,Parallel Slalom,20,35.20
+418,Payer Alexander,Male,24-03-2010,Isola 2000,FRA,Austria,European Cup,Parallel GS,6,128.00
+419,Payer Alexander,Male,13-03-2010,Protasiv Yar Kiev,UKR,Austria,European Cup,Parallel Slalom,8,102.40
+420,Payer Alexander,Male,12-03-2010,Protasiv Yar Kiev,UKR,Austria,European Cup,Parallel Slalom,14,57.60
+421,Payer Alexander,Male,28-02-2010,Adelboden,SUI,Austria,FIS,Parallel Slalom,12,57.20
+422,Payer Alexander,Male,27-02-2010,Adelboden,SUI,Austria,European Cup,Parallel Slalom,7,129.60
+423,Payer Alexander,Male,14-02-2010,Kasberg,AUT,Austria,European Cup,Parallel GS,12,79.20
+424,Payer Alexander,Male,13-02-2010,Kasberg,AUT,Austria,European Cup,Parallel GS,18,46.80
+425,Payer Alexander,Male,06-02-2010,Innsbruck Patcherkofel,AUT,Austria,FIS,Parallel Slalom,7,72.00
+426,Payer Alexander,Male,05-02-2010,Innsbruck Patcherkofel,AUT,Austria,FIS,Parallel Slalom,1,200.00
+427,Payer Alexander,Male,31-01-2010,Maribor,SLO,Austria,European Cup,Parallel GS,27,14.40
+428,Payer Alexander,Male,29-01-2010,Vratna,SVK,Austria,European Cup,Parallel GS,16,48.00
+429,Payer Alexander,Male,24-01-2010,Imst,AUT,Austria,European Cup,Parallel Slalom,16,48.00
+430,Payer Alexander,Male,23-01-2010,Imst,AUT,Austria,European Cup,Parallel Slalom,14,57.60
+431,Payer Alexander,Male,16-01-2010,Le Lac Blanc,FRA,Austria,European Cup,Parallel GS,14,46.80
+432,Payer Alexander,Male,14-01-2010,Nendaz,SUI,Austria,European Cup,Parallel GS,35,10.00
+433,Payer Alexander,Male,09-01-2010,Marianske Lazne,CZE,Austria,European Cup,Parallel Slalom,15,57.60
+434,Payer Alexander,Male,06-01-2010,Kreischberg,AUT,Austria,World Cup,Parallel GS,54,14.30
+435,Payer Alexander,Male,30-12-2009,Goetschen  Bischofswiesen,GER,Austria,European Cup,Parallel GS,22,45.00
+436,Payer Alexander,Male,20-12-2009,Schoenberg/Lachtal,AUT,Austria,FIS,Parallel GS,12,57.20
+437,Payer Alexander,Male,19-12-2009,Schoenberg/Lachtal,AUT,Austria,FIS,Parallel GS,8,83.20
+438,Payer Alexander,Male,06-12-2009,Carezza,ITA,Austria,European Cup,Parallel Slalom,16,67.50
+439,Payer Alexander,Male,05-12-2009,Carezza,ITA,Austria,European Cup,Parallel GS,33,12.00
+440,Payer Alexander,Male,29-11-2009,"Hochfuegen, Zillertal (AUT)",GER,Austria,European Cup,Parallel GS,33,12.00
+441,Payer Alexander,Male,28-11-2009,"Hochfuegen, Zillertal (AUT)",GER,Austria,National Championships,Parallel GS,33,8.64
+442,Payer Alexander,Male,31-03-2009,Maribor,SLO,Austria,FIS,Parallel GS,2,160.00
+443,Payer Alexander,Male,29-03-2009,Kasberg,AUT,Austria,National Championships,Parallel Slalom,41,0.00
+444,Payer Alexander,Male,28-03-2009,Kasberg,AUT,Austria,National Championships,Parallel GS,6,144.00
+445,Payer Alexander,Male,15-03-2009,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,4,120.00
+446,Payer Alexander,Male,14-03-2009,Gerlitzen,AUT,Austria,FIS,Parallel GS,9,69.60
+447,Payer Alexander,Male,08-03-2009,Spindleruv Mlyn,CZE,Austria,National Championships,Parallel Slalom,3,66.00
+448,Payer Alexander,Male,07-03-2009,Spindleruv Mlyn,CZE,Austria,National Championships,Parallel GS,5,49.50
+449,Payer Alexander,Male,21-02-2009,Adelboden,SUI,Austria,European Cup,Parallel Slalom,10,67.60
+450,Payer Alexander,Male,20-02-2009,Adelboden,SUI,Austria,European Cup,Parallel Slalom,1,260.00
+451,Payer Alexander,Male,08-02-2009,Kreischberg,AUT,Austria,FIS,Parallel GS,5,45.00
+452,Payer Alexander,Male,07-02-2009,Lachtal,AUT,Austria,FIS,Parallel Slalom,3,60.00
+453,Payer Alexander,Male,31-01-2009,Sils,SUI,Austria,European Cup,Parallel GS,21,29.00
+454,Payer Alexander,Male,30-01-2009,Sils,SUI,Austria,European Cup,Parallel GS,28,10.40
+455,Payer Alexander,Male,18-01-2009,Imst,AUT,Austria,European Cup,Giant Slalom,24,25.20
+456,Payer Alexander,Male,17-01-2009,Imst,AUT,Austria,European Cup,Giant Slalom,36,7.09
+457,Payer Alexander,Male,11-01-2009,Kasberg,AUT,Austria,European Cup,Parallel GS,26,18.00
+458,Payer Alexander,Male,10-01-2009,Kasberg,AUT,Austria,European Cup,Parallel GS,34,7.92
+459,Payer Alexander,Male,04-01-2009,Marianske Lazne,CZE,Austria,European Cup,Parallel Slalom,8,83.20
+460,Payer Alexander,Male,03-01-2009,Marianske Lazne,CZE,Austria,European Cup,Parallel Slalom,15,41.60
+461,Payer Alexander,Male,29-12-2008,Bischofswiesen / Götschen,GER,Austria,European Cup,Parallel GS,26,25.00
+462,Payer Alexander,Male,20-12-2008,Ratschings/Racines,ITA,Austria,European Cup,Giant Slalom,32,6.76
+463,Payer Alexander,Male,19-12-2008,Ratschings/Racines,ITA,Austria,European Cup,Giant Slalom,28,10.40
+464,Payer Alexander,Male,14-12-2008,Welschnofen/Karerpass,ITA,Austria,European Cup,Giant Slalom,21,26.00
+465,Payer Alexander,Male,13-12-2008,Haus/Ennstal,AUT,Austria,FIS,Parallel GS,15,32.00
+466,Payer Alexander,Male,07-12-2008,Innsbruck/Patscherkofel,AUT,Austria,FIS,Parallel Slalom,19,31.20
+467,Payer Alexander,Male,06-12-2008,Innsbruck/Patscherkofel,AUT,Austria,FIS,Parallel Slalom,69,2.55
+468,Payer Alexander,Male,29-11-2008,Abzakovo / Magnitogorsk,RUS,Austria,European Cup,Parallel Slalom,DSQ,
+469,Payer Alexander,Male,28-11-2008,Abzakovo / Magnitogorsk,RUS,Austria,European Cup,Parallel Slalom,16,43.50
+470,Payer Alexander,Male,11-04-2008,Kope,SLO,Austria,FIS,Giant Slalom,5,117.00
+471,Payer Alexander,Male,03-04-2008,Sils,SUI,Austria,National Championships,Parallel GS,14,64.80
+472,Payer Alexander,Male,30-03-2008,Radstadt,AUT,Austria,National Championships,Giant Slalom,16,54.00
+473,Payer Alexander,Male,29-03-2008,Radstadt,AUT,Austria,National Championships,Parallel Slalom,17,50.40
+474,Payer Alexander,Male,18-03-2008,Valmalenco,ITA,Austria,FIS Junior World Championships,Parallel Slalom,10,93.60
+475,Payer Alexander,Male,17-03-2008,Valmalenco,ITA,Austria,FIS Junior World Championships,Parallel GS,14,64.80
+476,Payer Alexander,Male,09-03-2008,Spindleruv Mlyn,CZE,Austria,National Championships,Parallel Slalom,5,58.50
+477,Payer Alexander,Male,08-03-2008,Spindleruv Mlyn,CZE,Austria,National Championships,Parallel GS,4,65.00
+478,Payer Alexander,Male,24-02-2008,Fiss,AUT,Austria,European Cup,Snowboardcross,49,3.48
+479,Payer Alexander,Male,24-02-2008,Fiss,AUT,Austria,Junior,Snowboardcross,130,
+480,Payer Alexander,Male,22-02-2008,Fiss,AUT,Austria,Junior,Snowboardcross,17,7.00
+481,Payer Alexander,Male,17-02-2008,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,16,39.00
+482,Payer Alexander,Male,16-02-2008,Gerlitzen,AUT,Austria,FIS,Parallel GS,16,39.00
+483,Payer Alexander,Male,27-01-2008,St. Gallenkirch,AUT,Austria,FIS,Snowboardcross,37,5.04
+484,Payer Alexander,Male,26-01-2008,St. Gallenkirch,AUT,Austria,Junior,Snowboardcross,16,7.50
+485,Payer Alexander,Male,20-01-2008,Imst,AUT,Austria,European Cup,Parallel Slalom,10,62.40
+486,Payer Alexander,Male,19-01-2008,Imst,AUT,Austria,European Cup,Parallel Slalom,7,86.40
+487,Payer Alexander,Male,13-01-2008,Kasberg,AUT,Austria,FIS,Parallel GS,10,41.60
+488,Payer Alexander,Male,12-01-2008,Kasberg,AUT,Austria,FIS,Parallel GS,13,32.00
+489,Payer Alexander,Male,10-01-2008,Bad Gastein,AUT,Austria,European Cup,Parallel Slalom,37,9.70
+490,Payer Alexander,Male,06-01-2008,Pec pod Snezkou,CZE,Austria,FIS,Parallel GS,8,51.20
+491,Payer Alexander,Male,29-12-2007,Götschen/Bischofswiesen,GER,Austria,European Cup,Parallel GS,25,30.00
+492,Payer Alexander,Male,15-12-2007,Carezza,ITA,Austria,European Cup,Giant Slalom,15,41.60
+493,Payer Alexander,Male,08-12-2007,Haus im Ennstal,AUT,Austria,FIS,Giant Slalom,28,8.00
+494,Payer Alexander,Male,07-12-2007,Haus im Ennstal,AUT,Austria,European Cup,Giant Slalom,20,26.40
+495,Payer Alexander,Male,02-12-2007,Kühtai,AUT,Austria,FIS,Parallel Slalom,38,4.97
+496,Payer Alexander,Male,01-12-2007,Kühtai,AUT,Austria,FIS,Parallel Slalom,16,39.00
+497,Payer Alexander,Male,12-04-2007,Bad Gastein,AUT,Austria,FIS Junior World Championships,Parallel GS,14,64.80
+498,Payer Alexander,Male,01-04-2007,Serfaus,AUT,Austria,European Cup,Snowboardcross,88,
+499,Payer Alexander,Male,01-04-2007,Kaunertal,GER,Austria,National Championships,Parallel Slalom,18,26.00
+500,Payer Alexander,Male,30-03-2007,Serfaus,AUT,Austria,National Championships,Snowboardcross,43,6.34
+501,Payer Alexander,Male,25-03-2007,Haus im Ennstal,AUT,Austria,Junior,Giant Slalom,4,25.00
+502,Payer Alexander,Male,24-03-2007,Haus im Ennstal,AUT,Austria,National Championships,Giant Slalom,27,16.20
+503,Payer Alexander,Male,23-03-2007,Haus im Ennstal,AUT,Austria,National Championships,Parallel Slalom,20,39.60
+504,Payer Alexander,Male,11-03-2007,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,20,13.20
+505,Payer Alexander,Male,10-03-2007,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,31,3.92
+506,Payer Alexander,Male,25-02-2007,Fiss,AUT,Austria,FIS,Snowboardcross,36,5.12
+507,Payer Alexander,Male,24-02-2007,Fiss,AUT,Austria,FIS,Snowboardcross,37,5.04
+508,Payer Alexander,Male,19-02-2007,Adelboden,SUI,Austria,European Cup,Giant Slalom,22,28.80
+509,Payer Alexander,Male,18-02-2007,Adelboden,SUI,Austria,European Cup,Giant Slalom,24,22.40
+510,Payer Alexander,Male,17-02-2007,Adelboden,SUI,Austria,FIS,Giant Slalom,22,23.40
+511,Payer Alexander,Male,11-02-2007,St. Gallenkirch,AUT,Austria,FIS,Snowboardcross,20,22.00
+512,Payer Alexander,Male,10-02-2007,St. Gallenkirch,AUT,Austria,FIS,Snowboardcross,97,
+513,Payer Alexander,Male,21-01-2007,Kühtai,AUT,Austria,European Cup,Parallel Slalom,96,
+514,Payer Alexander,Male,22-12-2006,Bad Gastein,AUT,Austria,European Cup,Parallel Slalom,66,
+515,Payer Alexander,Male,01-04-2006,Bad Gastein,AUT,Austria,National Championships,Parallel GS,33,8.64
+516,Payer Alexander,Male,31-03-2006,Bad Gastein,AUT,Austria,National Championships,Parallel Slalom,36,6.30
+517,Payer Alexander,Male,19-03-2006,Fiss,AUT,Austria,FIS,Snowboardcross,42,4.30
+518,Payer Alexander,Male,18-03-2006,Fiss,AUT,Austria,FIS,Snowboardcross,35,4.40
+519,Payer Alexander,Male,12-03-2006,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,80,
+520,Payer Alexander,Male,11-03-2006,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,53,3.80
+521,Payer Alexander,Male,26-02-2006,Fiss,AUT,Austria,FIS,Snowboardcross,23,16.00
+522,Payer Alexander,Male,25-02-2006,Fiss,AUT,Austria,FIS,Snowboardcross,DSQ,
+523,Payer Alexander,Male,29-01-2006,Vratna-Terchova,SVK,Austria,European Cup,Parallel GS,39,5.45
+524,Payer Alexander,Male,28-01-2006,Vratna-Terchova,SVK,Austria,European Cup,Parallel GS,71,
+525,Payer Alexander,Male,22-01-2006,Radstadt,AUT,Austria,European Cup,Parallel Slalom,53,3.80
+526,Payer Alexander,Male,21-01-2006,Radstadt,AUT,Austria,European Cup,Parallel Slalom,31,7.28
+527,Payer Alexander,Male,15-01-2006,Hinterstoder,AUT,Austria,FIS,Parallel GS,21,26.00
+528,Payer Alexander,Male,14-01-2006,Hinterstoder,AUT,Austria,FIS,Parallel GS,18,23.40
+529,Payer Alexander,Male,06-01-2006,Bad Gastein,AUT,Austria,European Cup,Snowboardcross,81,2.23
+530,Payer Alexander,Male,02-04-2005,Berchtesgaden/Rossfeld,GER,Austria,National Championships,Snowboardcross,34,3.96
+531,Payer Alexander,Male,01-04-2005,Berchtesgaden/Rossfeld,GER,Austria,National Championships,Parallel GS,50,4.50
+532,Payer Alexander,Male,13-03-2005,Bad Kleinkirchheim,AUT,Austria,FIS,Parallel Slalom,22,16.20
+533,Payer Alexander,Male,12-03-2005,Bad Kleinkirchheim,AUT,Austria,FIS,Parallel Slalom,27,9.00
+534,Payer Alexander,Male,06-03-2005,Bergeralm,AUT,Austria,FIS,Snowboardcross,21,20.00
+535,Payer Alexander,Male,05-03-2005,Bergeralm,AUT,Austria,FIS,Snowboardcross,19,28.80
+536,Payer Alexander,Male,27-02-2005,Sankt Gallenkirch,AUT,Austria,FIS,Snowboardcross,30,5.12
+537,Payer Alexander,Male,26-02-2005,Sankt Gallenkirch,AUT,Austria,FIS,Snowboardcross,39,3.76
+538,Payer Alexander,Male,20-02-2005,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,60,3.00
+539,Payer Alexander,Male,19-02-2005,Gerlitzen,AUT,Austria,FIS,Parallel Slalom,60,3.00
+540,Payer Alexander,Male,12-02-2005,Bad Gastein,AUT,Austria,National Championships,Snowboardcross,40,6.66
+541,Payer Alexander,Male,11-02-2005,Bad Gastein,AUT,Austria,European Cup,Snowboardcross,58,5.24
+542,Payer Alexander,Male,30-01-2005,Kreischberg,AUT,Austria,National Championships,Parallel Slalom,48,4.19
+543,Payer Alexander,Male,29-01-2005,Kreischberg,AUT,Austria,National Championships,Parallel GS,53,5.26
+544,Payer Alexander,Male,09-01-2005,Hinterstoder,AUT,Austria,FIS,Parallel GS,70,2.09
+545,Payer Alexander,Male,08-01-2005,Hinterstoder,AUT,Austria,FIS,Parallel GS,89,0.00
+546,Payer Alexander,Male,12-12-2004,Haus im Ennstal,AUT,Austria,FIS,Parallel GS,94,0.60
+547,Payer Alexander,Male,05-12-2004,Kuehtai,AUT,Austria,FIS,Parallel Slalom,60,3.25
+548,Payer Alexander,Male,04-12-2004,Kuehtai,AUT,Austria,FIS,Parallel Slalom,17,28.00
+549,Payer Alexander,Male,28-11-2004,Moelltaler Gletscher,AUT,Austria,FIS,Snowboardcross,99,0.21
