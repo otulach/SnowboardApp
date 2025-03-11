@@ -1,37 +1,38 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Hunter Colin,Male,09-03-2025,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Slopestyle,10,
-1,Hunter Colin,Male,05-03-2025,Stoneham,CAN,Canada,Nor-Am Cup,Big Air,14,38.80
-2,Hunter Colin,Male,04-03-2025,Stoneham,CAN,Canada,Nor-Am Cup,Slopestyle,42,0.10
-3,Hunter Colin,Male,26-02-2025,Winsport Calgary,CAN,Canada,Nor-Am Cup Premium,Big Air,27,17.70
-4,Hunter Colin,Male,25-02-2025,Winsport Calgary,CAN,Canada,Nor-Am Cup Premium,Slopestyle,37,28.10
-5,Hunter Colin,Male,12-01-2025,Whistler,CAN,Canada,FIS,Slopestyle,4,46.90
-6,Hunter Colin,Male,11-01-2025,Whistler,CAN,Canada,FIS,Slopestyle,25,8.50
-7,Hunter Colin,Male,19-08-2023,Valle Nevado,CHI,Canada,South American Cup,Slopestyle,9,19.30
-8,Hunter Colin,Male,18-08-2023,Valle Nevado,CHI,Canada,South American Cup,Slopestyle,7,32.90
-9,Hunter Colin,Male,15-08-2023,El Colorado,CHI,Canada,South American Cup,Big Air,10,6.00
-10,Hunter Colin,Male,14-08-2023,El Colorado,CHI,Canada,South American Cup,Big Air,11,5.00
-11,Hunter Colin,Male,21-03-2023,Winsport Calgary,CAN,Canada,National Junior Championships,Slopestyle,5,50.30
-12,Hunter Colin,Male,19-03-2023,Winsport Calgary,CAN,Canada,FIS,Slopestyle,7,19.00
-13,Hunter Colin,Male,15-03-2023,Stoneham,CAN,Canada,Nor-Am Cup,Big Air,6,48.90
-14,Hunter Colin,Male,14-03-2023,Stoneham,CAN,Canada,Nor-Am Cup,Slopestyle,18,22.70
-15,Hunter Colin,Male,10-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Big Air,13,30.90
-16,Hunter Colin,Male,09-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Slopestyle,17,32.90
-17,Hunter Colin,Male,08-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Slopestyle,8,72.70
-18,Hunter Colin,Male,29-01-2023,Horseshoe Resort,CAN,Canada,FIS,Slopestyle,1,10.00
-19,Hunter Colin,Male,18-01-2023,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,29,12.40
-20,Hunter Colin,Male,17-01-2023,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,20,26.40
-21,Hunter Colin,Male,24-03-2022,Stoneham,CAN,Canada,Nor-Am Cup,Big Air,20,4.60
-22,Hunter Colin,Male,22-03-2022,Stoneham,CAN,Canada,Nor-Am Cup,Slopestyle,24,8.50
-23,Hunter Colin,Male,20-03-2022,Beaver Valley,CAN,Canada,Nor-Am Cup,Big Air,4,65.60
-24,Hunter Colin,Male,19-03-2022,Beaver Valley,CAN,Canada,Nor-Am Cup,Slopestyle,21,10.80
-25,Hunter Colin,Male,18-03-2022,Beaver Valley,CAN,Canada,Nor-Am Cup,Slopestyle,25,7.60
-26,Hunter Colin,Male,12-03-2022,Ontario,CAN,Canada,FIS,Slopestyle,4,6.60
-27,Hunter Colin,Male,19-02-2022,Calgary,CAN,Canada,FIS,Slopestyle,12,9.40
-28,Hunter Colin,Male,13-02-2022,Blue Mountain,CAN,Canada,FIS,Slopestyle,3,47.80
-29,Hunter Colin,Male,06-02-2022,Calgary,CAN,Canada,National Junior Championships,Slopestyle,27,9.90
-30,Hunter Colin,Male,04-02-2022,Calgary,CAN,Canada,Nor-Am Cup,Big Air,15,20.00
-31,Hunter Colin,Male,29-01-2022,Horseshoe Resort,CAN,Canada,FIS,Slopestyle,3,4.50
-32,Hunter Colin,Male,10-03-2020,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,28,6.00
-33,Hunter Colin,Male,25-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,39,3.76
-34,Hunter Colin,Male,24-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,37,3.88
-35,Hunter Colin,Male,22-02-2020,Horseshoe Resort,CAN,Canada,FIS,Slopestyle,3,30.00
+0,Hunter Colin,Male,10-03-2025,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Big Air,15,23.00
+1,Hunter Colin,Male,09-03-2025,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Slopestyle,10,45.80
+2,Hunter Colin,Male,05-03-2025,Stoneham,CAN,Canada,Nor-Am Cup,Big Air,14,38.80
+3,Hunter Colin,Male,04-03-2025,Stoneham,CAN,Canada,Nor-Am Cup,Slopestyle,42,0.10
+4,Hunter Colin,Male,26-02-2025,Winsport Calgary,CAN,Canada,Nor-Am Cup Premium,Big Air,27,17.70
+5,Hunter Colin,Male,25-02-2025,Winsport Calgary,CAN,Canada,Nor-Am Cup Premium,Slopestyle,37,28.10
+6,Hunter Colin,Male,12-01-2025,Whistler,CAN,Canada,FIS,Slopestyle,4,46.90
+7,Hunter Colin,Male,11-01-2025,Whistler,CAN,Canada,FIS,Slopestyle,25,8.50
+8,Hunter Colin,Male,19-08-2023,Valle Nevado,CHI,Canada,South American Cup,Slopestyle,9,19.30
+9,Hunter Colin,Male,18-08-2023,Valle Nevado,CHI,Canada,South American Cup,Slopestyle,7,32.90
+10,Hunter Colin,Male,15-08-2023,El Colorado,CHI,Canada,South American Cup,Big Air,10,6.00
+11,Hunter Colin,Male,14-08-2023,El Colorado,CHI,Canada,South American Cup,Big Air,11,5.00
+12,Hunter Colin,Male,21-03-2023,Winsport Calgary,CAN,Canada,National Junior Championships,Slopestyle,5,50.30
+13,Hunter Colin,Male,19-03-2023,Winsport Calgary,CAN,Canada,FIS,Slopestyle,7,19.00
+14,Hunter Colin,Male,15-03-2023,Stoneham,CAN,Canada,Nor-Am Cup,Big Air,6,48.90
+15,Hunter Colin,Male,14-03-2023,Stoneham,CAN,Canada,Nor-Am Cup,Slopestyle,18,22.70
+16,Hunter Colin,Male,10-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Big Air,13,30.90
+17,Hunter Colin,Male,09-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Slopestyle,17,32.90
+18,Hunter Colin,Male,08-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Slopestyle,8,72.70
+19,Hunter Colin,Male,29-01-2023,Horseshoe Resort,CAN,Canada,FIS,Slopestyle,1,10.00
+20,Hunter Colin,Male,18-01-2023,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,29,12.40
+21,Hunter Colin,Male,17-01-2023,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,20,26.40
+22,Hunter Colin,Male,24-03-2022,Stoneham,CAN,Canada,Nor-Am Cup,Big Air,20,4.60
+23,Hunter Colin,Male,22-03-2022,Stoneham,CAN,Canada,Nor-Am Cup,Slopestyle,24,8.50
+24,Hunter Colin,Male,20-03-2022,Beaver Valley,CAN,Canada,Nor-Am Cup,Big Air,4,65.60
+25,Hunter Colin,Male,19-03-2022,Beaver Valley,CAN,Canada,Nor-Am Cup,Slopestyle,21,10.80
+26,Hunter Colin,Male,18-03-2022,Beaver Valley,CAN,Canada,Nor-Am Cup,Slopestyle,25,7.60
+27,Hunter Colin,Male,12-03-2022,Ontario,CAN,Canada,FIS,Slopestyle,4,6.60
+28,Hunter Colin,Male,19-02-2022,Calgary,CAN,Canada,FIS,Slopestyle,12,9.40
+29,Hunter Colin,Male,13-02-2022,Blue Mountain,CAN,Canada,FIS,Slopestyle,3,47.80
+30,Hunter Colin,Male,06-02-2022,Calgary,CAN,Canada,National Junior Championships,Slopestyle,27,9.90
+31,Hunter Colin,Male,04-02-2022,Calgary,CAN,Canada,Nor-Am Cup,Big Air,15,20.00
+32,Hunter Colin,Male,29-01-2022,Horseshoe Resort,CAN,Canada,FIS,Slopestyle,3,4.50
+33,Hunter Colin,Male,10-03-2020,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,28,6.00
+34,Hunter Colin,Male,25-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,39,3.76
+35,Hunter Colin,Male,24-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,37,3.88
+36,Hunter Colin,Male,22-02-2020,Horseshoe Resort,CAN,Canada,FIS,Slopestyle,3,30.00

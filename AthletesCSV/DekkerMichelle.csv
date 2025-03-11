@@ -1,322 +1,323 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Dekker Michelle,Female,08-03-2025,Montafon/Gargellen,AUT,Netherlands,European Cup,Parallel Giant Slalom,26,
-1,Dekker Michelle,Female,02-03-2025,Krynica,POL,Netherlands,Qualification,Parallel Giant Slalom,2,
-2,Dekker Michelle,Female,02-03-2025,Krynica,POL,Netherlands,World Cup,Parallel Giant Slalom,9,290.00
-3,Dekker Michelle,Female,01-03-2025,Krynica,POL,Netherlands,Qualification,Parallel Giant Slalom,2,
-4,Dekker Michelle,Female,01-03-2025,Krynica,POL,Netherlands,World Cup,Parallel Giant Slalom,2,800.00
-5,Dekker Michelle,Female,16-02-2025,Val St. Come,CAN,Netherlands,Qualification,Parallel Giant Slalom,20,
-6,Dekker Michelle,Female,16-02-2025,Val St. Come,CAN,Netherlands,World Cup,Parallel Giant Slalom,20,110.00
-7,Dekker Michelle,Female,15-02-2025,Val St. Come,CAN,Netherlands,Qualification,Parallel Giant Slalom,2,
-8,Dekker Michelle,Female,15-02-2025,Val St. Come,CAN,Netherlands,World Cup,Parallel Giant Slalom,3,600.00
-9,Dekker Michelle,Female,25-01-2025,Rogla,SLO,Netherlands,Qualification,Parallel Giant Slalom,2,
-10,Dekker Michelle,Female,25-01-2025,Rogla,SLO,Netherlands,World Cup,Parallel Giant Slalom,5,450.00
-11,Dekker Michelle,Female,19-01-2025,Bansko,BUL,Netherlands,Qualification,Parallel Giant Slalom,4,
-12,Dekker Michelle,Female,19-01-2025,Bansko,BUL,Netherlands,World Cup,Parallel Giant Slalom,3,600.00
-13,Dekker Michelle,Female,18-01-2025,Bansko,BUL,Netherlands,Qualification,Parallel Giant Slalom,3,
-14,Dekker Michelle,Female,18-01-2025,Bansko,BUL,Netherlands,World Cup,Parallel Giant Slalom,4,500.00
-15,Dekker Michelle,Female,14-01-2025,Bad Gastein,AUT,Netherlands,Qualification,Parallel Slalom,3,
-16,Dekker Michelle,Female,14-01-2025,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,6,400.00
-17,Dekker Michelle,Female,11-01-2025,Scuol,SUI,Netherlands,Qualification,Parallel Giant Slalom,2,
-18,Dekker Michelle,Female,11-01-2025,Scuol,SUI,Netherlands,World Cup,Parallel Giant Slalom,4,500.00
-19,Dekker Michelle,Female,21-12-2024,Davos,SUI,Netherlands,Qualification,Parallel Slalom,1,
-20,Dekker Michelle,Female,21-12-2024,Davos,SUI,Netherlands,World Cup,Parallel Slalom,2,800.00
-21,Dekker Michelle,Female,14-12-2024,Cortina d'Ampezzo,ITA,Netherlands,Qualification,Parallel Giant Slalom,13,
-22,Dekker Michelle,Female,14-12-2024,Cortina d'Ampezzo,ITA,Netherlands,World Cup,Parallel Giant Slalom,14,180.00
-23,Dekker Michelle,Female,12-12-2024,Carezza,ITA,Netherlands,Qualification,Parallel Giant Slalom,10,
-24,Dekker Michelle,Female,12-12-2024,Carezza,ITA,Netherlands,World Cup,Parallel Giant Slalom,11,240.00
-25,Dekker Michelle,Female,08-12-2024,Yanqing (NASC),CHN,Netherlands,World Cup,Parallel Slalom,6,400.00
-26,Dekker Michelle,Female,08-12-2024,Yanqing (NASC),CHN,Netherlands,Qualification,Parallel Slalom,7,
-27,Dekker Michelle,Female,07-12-2024,Yanqing (NASC),CHN,Netherlands,World Cup,Parallel Giant Slalom,21,100.00
-28,Dekker Michelle,Female,07-12-2024,Yanqing (NASC),CHN,Netherlands,Qualification,Parallel Giant Slalom,21,
-29,Dekker Michelle,Female,01-12-2024,Mylin,CHN,Netherlands,World Cup,Parallel Slalom,9,290.00
-30,Dekker Michelle,Female,01-12-2024,Mylin,CHN,Netherlands,Qualification,Parallel Slalom,5,
-31,Dekker Michelle,Female,30-11-2024,Mylin,CHN,Netherlands,World Cup,Parallel Giant Slalom,16,150.00
-32,Dekker Michelle,Female,30-11-2024,Mylin,CHN,Netherlands,Qualification,Parallel Giant Slalom,16,
-33,Dekker Michelle,Female,17-03-2024,St. Moritz,SUI,Netherlands,European Cup,Parallel Slalom,8,115.20
-34,Dekker Michelle,Female,16-03-2024,St. Moritz,SUI,Netherlands,European Cup,Parallel Giant Slalom,3,216.00
-35,Dekker Michelle,Female,09-03-2024,Winterberg,GER,Netherlands,Qualification,Parallel Slalom,11,
-36,Dekker Michelle,Female,09-03-2024,Winterberg,GER,Netherlands,World Cup,Parallel Slalom,11,240.00
-37,Dekker Michelle,Female,25-02-2024,Krynica,POL,Netherlands,Qualification,Parallel Giant Slalom,12,
-38,Dekker Michelle,Female,25-02-2024,Krynica,POL,Netherlands,World Cup,Parallel Giant Slalom,8,320.00
-39,Dekker Michelle,Female,24-02-2024,Krynica,POL,Netherlands,Qualification,Parallel Giant Slalom,6,
-40,Dekker Michelle,Female,24-02-2024,Krynica,POL,Netherlands,World Cup,Parallel Giant Slalom,3,600.00
-41,Dekker Michelle,Female,27-01-2024,Simonhöhe,AUT,Netherlands,Qualification,Parallel Giant Slalom,5,
-42,Dekker Michelle,Female,27-01-2024,Simonhöhe,AUT,Netherlands,World Cup,Parallel Giant Slalom,4,500.00
-43,Dekker Michelle,Female,25-01-2024,Rogla,SLO,Netherlands,Qualification,Parallel Giant Slalom,1,
-44,Dekker Michelle,Female,25-01-2024,Rogla,SLO,Netherlands,World Cup,Parallel Giant Slalom,2,800.00
-45,Dekker Michelle,Female,21-01-2024,Pamporovo,BUL,Netherlands,Qualification,Parallel Slalom,10,
-46,Dekker Michelle,Female,21-01-2024,Pamporovo,BUL,Netherlands,World Cup,Parallel Slalom,11,240.00
-47,Dekker Michelle,Female,20-01-2024,Pamporovo,BUL,Netherlands,Qualification,Parallel Slalom,6,
-48,Dekker Michelle,Female,20-01-2024,Pamporovo,BUL,Netherlands,World Cup,Parallel Slalom,6,400.00
-49,Dekker Michelle,Female,16-01-2024,Bad Gastein,AUT,Netherlands,Qualification,Parallel Slalom,11,
-50,Dekker Michelle,Female,16-01-2024,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,12,220.00
-51,Dekker Michelle,Female,23-12-2023,Davos ,SUI,Netherlands,Qualification,Parallel Slalom,17,
-52,Dekker Michelle,Female,23-12-2023,Davos,SUI,Netherlands,World Cup,Parallel Slalom,17,140.00
-53,Dekker Michelle,Female,16-12-2023,Cortina d'Ampezzo,ITA,Netherlands,Qualification,Parallel Giant Slalom,9,
-54,Dekker Michelle,Female,16-12-2023,Cortina d'Ampezzo,ITA,Netherlands,World Cup,Parallel Giant Slalom,13,200.00
-55,Dekker Michelle,Female,14-12-2023,Carezza,ITA,Netherlands,Qualification,Parallel Giant Slalom,8,
-56,Dekker Michelle,Female,14-12-2023,Carezza,ITA,Netherlands,World Cup,Parallel Giant Slalom,8,320.00
-57,Dekker Michelle,Female,08-12-2023,Götschen,GER,Netherlands,Qualification,Parallel Slalom,DSQ,
-58,Dekker Michelle,Female,08-12-2023,Götschen,GER,Netherlands,European Cup,Parallel Slalom,DSQ,
-59,Dekker Michelle,Female,18-03-2023,Berchtesgaden,GER,Netherlands,Qualification,Parallel Slalom,4,
-60,Dekker Michelle,Female,18-03-2023,Berchtesgaden,GER,Netherlands,World Cup,Parallel Slalom,6,400.00
-61,Dekker Michelle,Female,15-03-2023,Rogla,SLO,Netherlands,World Cup,Parallel Giant Slalom,7,360.00
-62,Dekker Michelle,Female,15-03-2023,Rogla,SLO,Netherlands,Qualification,Parallel Giant Slalom,7,
-63,Dekker Michelle,Female,21-02-2023,Bakuriani,GEO,Netherlands,Qualification,Parallel Slalom,14,
-64,Dekker Michelle,Female,21-02-2023,Bakuriani,GEO,Netherlands,World Championships,Parallel Slalom,7,360.00
-65,Dekker Michelle,Female,19-02-2023,Bakuriani,GEO,Netherlands,Qualification,Parallel Giant Slalom,18,
-66,Dekker Michelle,Female,19-02-2023,Bakuriani,GEO,Netherlands,World Championships,Parallel Giant Slalom,18,130.00
-67,Dekker Michelle,Female,31-01-2023,Blue,CAN,Netherlands,Nor-Am Cup,Parallel Slalom,1,260.00
-68,Dekker Michelle,Female,30-01-2023,Blue,CAN,Netherlands,Nor-Am Cup,Parallel Giant Slalom,1,260.00
-69,Dekker Michelle,Female,27-01-2023,Blue Mountain,CAN,Netherlands,Qualification,Parallel Giant Slalom,28,
-70,Dekker Michelle,Female,27-01-2023,Blue Mountain,CAN,Netherlands,World Cup,Parallel Giant Slalom,28,
-71,Dekker Michelle,Female,26-01-2023,Blue Mountain,CAN,Netherlands,Qualification,Parallel Giant Slalom,7,
-72,Dekker Michelle,Female,26-01-2023,Blue Mountain,CAN,Netherlands,World Cup,Parallel Giant Slalom,11,240.00
-73,Dekker Michelle,Female,22-01-2023,Bansko,BUL,Netherlands,Qualification,Parallel Slalom,5,
-74,Dekker Michelle,Female,22-01-2023,Bansko,BUL,Netherlands,World Cup,Parallel Slalom,9,290.00
-75,Dekker Michelle,Female,21-01-2023,Bansko,BUL,Netherlands,Qualification,Parallel Slalom,4,
-76,Dekker Michelle,Female,21-01-2023,Bansko,BUL,Netherlands,World Cup,Parallel Slalom,6,400.00
-77,Dekker Michelle,Female,14-01-2023,Scuol,SUI,Netherlands,Qualification,Parallel Giant Slalom,12,
-78,Dekker Michelle,Female,14-01-2023,Scuol,SUI,Netherlands,World Cup,Parallel Giant Slalom,12,220.00
-79,Dekker Michelle,Female,10-01-2023,Bad Gastein,AUT,Netherlands,Qualification,Parallel Slalom,DSQ,
-80,Dekker Michelle,Female,10-01-2023,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,DSQ,
-81,Dekker Michelle,Female,17-12-2022,Cortina d'Ampezzo,ITA,Netherlands,Qualification,Parallel Giant Slalom,17,
-82,Dekker Michelle,Female,17-12-2022,Cortina d'Ampezzo,ITA,Netherlands,World Cup,Parallel Giant Slalom,17,140.00
-83,Dekker Michelle,Female,15-12-2022,Carezza,ITA,Netherlands,Qualification,Parallel Giant Slalom,9,
-84,Dekker Michelle,Female,15-12-2022,Carezza,ITA,Netherlands,World Cup,Parallel Giant Slalom,1,1000.00
-85,Dekker Michelle,Female,11-12-2022,Winterberg,GER,Netherlands,World Cup,Parallel Slalom,31,
-86,Dekker Michelle,Female,10-12-2022,Winterberg,GER,Netherlands,Qualification,Parallel Slalom,31,
-87,Dekker Michelle,Female,06-04-2022,Copper Mountain Resort,USA,Netherlands,National Championships,Parallel Slalom,1,200.00
-88,Dekker Michelle,Female,04-04-2022,Copper Mountain Resort,USA,Netherlands,National Championships,Parallel Giant Slalom,1,200.00
-89,Dekker Michelle,Female,19-03-2022,Berchtesgaden,GER,Netherlands,Qualification,Parallel Slalom,6,
-90,Dekker Michelle,Female,19-03-2022,Berchtesgaden,GER,Netherlands,World Cup,Parallel Slalom,6,400.00
-91,Dekker Michelle,Female,16-03-2022,Rogla,SLO,Netherlands,Qualification,Parallel Giant Slalom,10,
-92,Dekker Michelle,Female,16-03-2022,Rogla,SLO,Netherlands,World Cup,Parallel Giant Slalom,3,600.00
-93,Dekker Michelle,Female,12-03-2022,Piancavallo,ITA,Netherlands,Qualification,Parallel Slalom,27,
-94,Dekker Michelle,Female,12-03-2022,Piancavallo,ITA,Netherlands,World Cup,Parallel Slalom,27,
-95,Dekker Michelle,Female,08-02-2022,Beijing,CHN,Netherlands,Qualification,Parallel Giant Slalom,13,
-96,Dekker Michelle,Female,08-02-2022,Beijing,CHN,Netherlands,Olympic Winter Games,Parallel Giant Slalom,4,500.00
-97,Dekker Michelle,Female,14-01-2022,Simonhöhe,AUT,Netherlands,World Cup,Parallel Giant Slalom,8,320.00
-98,Dekker Michelle,Female,14-01-2022,Simonhöhe,AUT,Netherlands,Qualification,Parallel Giant Slalom,12,
-99,Dekker Michelle,Female,11-01-2022,Bad Gastein,AUT,Netherlands,Qualification,Parallel Slalom,16,
-100,Dekker Michelle,Female,11-01-2022,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,16,150.00
-101,Dekker Michelle,Female,08-01-2022,Scuol,SUI,Netherlands,Qualification,Parallel Giant Slalom,23,
-102,Dekker Michelle,Female,08-01-2022,Scuol,SUI,Netherlands,World Cup,Parallel Giant Slalom,23,80.00
-103,Dekker Michelle,Female,18-12-2021,Cortina d Ampezzo,ITA,Netherlands,Qualification,Parallel Giant Slalom,24,
-104,Dekker Michelle,Female,18-12-2021,Cortina d Ampezzo,ITA,Netherlands,World Cup,Parallel Giant Slalom,24,70.00
-105,Dekker Michelle,Female,16-12-2021,Carezza,ITA,Netherlands,Qualification,Parallel Giant Slalom,15,
-106,Dekker Michelle,Female,16-12-2021,Carezza,ITA,Netherlands,World Cup,Parallel Giant Slalom,15,160.00
-107,Dekker Michelle,Female,12-12-2021,Bannoye,RUS,Netherlands,Qualification,Parallel Slalom,21,
-108,Dekker Michelle,Female,12-12-2021,Bannoye,RUS,Netherlands,World Cup,Parallel Slalom,21,100.00
-109,Dekker Michelle,Female,11-12-2021,Bannoye,RUS,Netherlands,Qualification,Parallel Giant Slalom,20,
-110,Dekker Michelle,Female,11-12-2021,Bannoye,RUS,Netherlands,World Cup,Parallel Giant Slalom,20,110.00
-111,Dekker Michelle,Female,20-03-2021,Berchtesgaden,GER,Netherlands,Qualification,Parallel Slalom,19,
-112,Dekker Michelle,Female,20-03-2021,Berchtesgaden,GER,Netherlands,World Cup,Parallel Slalom,19,120.00
-113,Dekker Michelle,Female,06-03-2021,Rogla,SLO,Netherlands,Qualification,Parallel Giant Slalom,15,
-114,Dekker Michelle,Female,06-03-2021,Rogla,SLO,Netherlands,World Cup,Parallel Giant Slalom,15,160.00
-115,Dekker Michelle,Female,02-03-2021,Rogla,SLO,Netherlands,World Championships,Parallel Slalom,44,17.30
-116,Dekker Michelle,Female,02-03-2021,Rogla,SLO,Netherlands,Qualification,Parallel Slalom,44,
-117,Dekker Michelle,Female,01-03-2021,Rogla,SLO,Netherlands,World Championships,Parallel Giant Slalom,15,160.00
-118,Dekker Michelle,Female,01-03-2021,Rogla,SLO,Netherlands,Qualification,Parallel Giant Slalom,15,
-119,Dekker Michelle,Female,07-02-2021,Bannoye,RUS,Netherlands,Qualification,Parallel Slalom,23,
-120,Dekker Michelle,Female,07-02-2021,Bannoye,RUS,Netherlands,World Cup,Parallel Slalom,23,80.00
-121,Dekker Michelle,Female,06-02-2021,Bannoye,RUS,Netherlands,Qualification,Parallel Giant Slalom,13,
-122,Dekker Michelle,Female,06-02-2021,Bannoye,RUS,Netherlands,World Cup,Parallel Giant Slalom,13,200.00
-123,Dekker Michelle,Female,30-01-2021,Moscow,RUS,Netherlands,Qualification,Parallel Slalom,31,
-124,Dekker Michelle,Female,30-01-2021,Moscow,RUS,Netherlands,World Cup,Parallel Slalom,31,28.00
-125,Dekker Michelle,Female,24-01-2021,Davos,SUI,Netherlands,European Cup,Parallel Slalom,11,86.40
-126,Dekker Michelle,Female,23-01-2021,Davos,SUI,Netherlands,European Cup,Parallel Slalom,5,162.00
-127,Dekker Michelle,Female,17-01-2021,Simonhoehe,AUT,Netherlands,European Cup,Parallel Giant Slalom,1,360.00
-128,Dekker Michelle,Female,16-01-2021,Simonhoehe,AUT,Netherlands,European Cup,Parallel Giant Slalom,4,180.00
-129,Dekker Michelle,Female,12-01-2021,Bad Gastein,AUT,Netherlands,Qualification,Parallel Slalom,6,
-130,Dekker Michelle,Female,12-01-2021,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,6,400.00
-131,Dekker Michelle,Female,09-01-2021,Scuol,SUI,Netherlands,Qualification,Parallel Giant Slalom,20,
-132,Dekker Michelle,Female,09-01-2021,Scuol,SUI,Netherlands,World Cup,Parallel Giant Slalom,20,110.00
-133,Dekker Michelle,Female,17-12-2020,Carezza,ITA,Netherlands,Qualification,Parallel Giant Slalom,24,
-134,Dekker Michelle,Female,17-12-2020,Carezza,ITA,Netherlands,World Cup,Parallel Giant Slalom,24,70.00
-135,Dekker Michelle,Female,12-12-2020,Cortina d Ampezzo,ITA,Netherlands,Qualification,Parallel Giant Slalom,24,
-136,Dekker Michelle,Female,12-12-2020,Cortina d Ampezzo,ITA,Netherlands,World Cup,Parallel Giant Slalom,24,70.00
-137,Dekker Michelle,Female,03-03-2020,Blue Mountain,CAN,Netherlands,Nor-Am Cup,Parallel Slalom,5,162.00
-138,Dekker Michelle,Female,02-03-2020,Blue Mountain,CAN,Netherlands,Nor-Am Cup,Parallel Giant Slalom,1,360.00
-139,Dekker Michelle,Female,01-03-2020,Blue Mountain,CAN,Netherlands,World Cup,Parallel Giant Slalom,12,220.00
-140,Dekker Michelle,Female,01-03-2020,Blue Mountain,CAN,Netherlands,Qualification,Parallel Giant Slalom,9,
-141,Dekker Michelle,Female,29-02-2020,Blue Mountain,CAN,Netherlands,World Cup,Parallel Giant Slalom,12,220.00
-142,Dekker Michelle,Female,29-02-2020,Blue Mountain,CAN,Netherlands,Qualification,Parallel Giant Slalom,11,
-143,Dekker Michelle,Female,25-01-2020,Piancavallo,ITA,Netherlands,World Cup,Parallel Slalom,21,100.00
-144,Dekker Michelle,Female,25-01-2020,Piancavallo,ITA,Netherlands,Qualification,Parallel Slalom,21,
-145,Dekker Michelle,Female,18-01-2020,Rogla,SLO,Netherlands,World Cup,Parallel Giant Slalom,DNF,
-146,Dekker Michelle,Female,18-01-2020,Rogla,SLO,Netherlands,Qualification,Parallel Giant Slalom,DNF,
-147,Dekker Michelle,Female,14-01-2020,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,11,240.00
-148,Dekker Michelle,Female,14-01-2020,Bad Gastein,AUT,Netherlands,Qualification,Parallel Slalom,8,
-149,Dekker Michelle,Female,11-01-2020,Scuol,SUI,Netherlands,World Cup,Parallel Giant Slalom,DNF,
-150,Dekker Michelle,Female,11-01-2020,Scuol,SUI,Netherlands,Qualification,Parallel Giant Slalom,DNF,
-151,Dekker Michelle,Female,19-12-2019,Carezza,ITA,Netherlands,Open,Parallel Giant Slalom,3,600.00
-152,Dekker Michelle,Female,14-12-2019,Cortina d Ampezzo,ITA,Netherlands,World Cup,Parallel Giant Slalom,32,26.00
-153,Dekker Michelle,Female,14-12-2019,Cortina d Ampezzo,ITA,Netherlands,Qualification,Parallel Giant Slalom,32,
-154,Dekker Michelle,Female,08-12-2019,Bannoye,RUS,Netherlands,World Cup,Parallel Giant Slalom,9,290.00
-155,Dekker Michelle,Female,08-12-2019,Bannoye,RUS,Netherlands,Qualification,Parallel Giant Slalom,4,
-156,Dekker Michelle,Female,07-12-2019,Bannoye,RUS,Netherlands,World Cup,Parallel Slalom,8,320.00
-157,Dekker Michelle,Female,07-12-2019,Bannoye,RUS,Netherlands,Qualification,Parallel Slalom,12,
-158,Dekker Michelle,Female,23-03-2019,Winterberg,GER,Netherlands,World Cup,Parallel Slalom,14,180.00
-159,Dekker Michelle,Female,23-03-2019,Winterberg,GER,Netherlands,Qualification,Parallel Slalom,12,
-160,Dekker Michelle,Female,09-03-2019,Scuol,SUI,Netherlands,World Cup,Parallel GS,32,26.00
-161,Dekker Michelle,Female,09-03-2019,Scuol,SUI,Netherlands,Qualification,Parallel Giant Slalom,32,
-162,Dekker Michelle,Female,24-02-2019,Secret Garden,CHN,Netherlands,World Cup,Parallel Slalom,13,200.00
-163,Dekker Michelle,Female,24-02-2019,Secret Garden,CHN,Netherlands,Qualification,Parallel Slalom,11,
-164,Dekker Michelle,Female,23-02-2019,Secret Garden,CHN,Netherlands,World Cup,Parallel Giant Slalom,16,150.00
-165,Dekker Michelle,Female,23-02-2019,Secret Garden,CHN,Netherlands,Qualification,Parallel Giant Slalom,16,
-166,Dekker Michelle,Female,05-02-2019,Park City,USA,Netherlands,World Championships,Parallel Slalom,21,100.00
-167,Dekker Michelle,Female,04-02-2019,Park City,USA,Netherlands,World Championships,Parallel Giant Slalom,12,220.00
-168,Dekker Michelle,Female,19-01-2019,Rogla,SLO,Netherlands,World Cup,Parallel GS,22,90.00
-169,Dekker Michelle,Female,19-01-2019,Rogla,SLO,Netherlands,Qualification,Parallel Giant Slalom,22,
-170,Dekker Michelle,Female,08-01-2019,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,15,160.00
-171,Dekker Michelle,Female,08-01-2019,Bad Gastein,AUT,Netherlands,Qualification,Parallel Slalom,14,
-172,Dekker Michelle,Female,06-01-2019,Simonhöhe,AUT,Netherlands,FIS,Parallel Slalom,11,52.80
-173,Dekker Michelle,Female,05-01-2019,Simonhöhe,AUT,Netherlands,FIS,Parallel Slalom,6,88.00
-174,Dekker Michelle,Female,15-12-2018,Cortina d'Ampezzo,ITA,Netherlands,World Cup,Parallel GS,10,260.00
-175,Dekker Michelle,Female,15-12-2018,Cortina d'Ampezzo,ITA,Netherlands,Qualification,Parallel Giant Slalom,8,
-176,Dekker Michelle,Female,13-12-2018,Carezza,ITA,Netherlands,World Cup,Parallel GS,9,290.00
-177,Dekker Michelle,Female,13-12-2018,Carezza,ITA,Netherlands,Qualification,Parallel Giant Slalom,5,
-178,Dekker Michelle,Female,08-04-2018,Racines,ITA,Netherlands,European Cup,Parallel Slalom,9,104.40
-179,Dekker Michelle,Female,07-04-2018,Racines,ITA,Netherlands,European Cup,Parallel Slalom,2,288.00
-180,Dekker Michelle,Female,17-03-2018,Winterberg,GER,Netherlands,World Cup,Parallel Slalom,8,320.00
-181,Dekker Michelle,Female,17-03-2018,Winterberg,GER,Netherlands,Qualification,Parallel Slalom,13,
-182,Dekker Michelle,Female,10-03-2018,Scuol,SUI,Netherlands,World Cup,Parallel GS,27,45.00
-183,Dekker Michelle,Female,10-03-2018,Scuol,SUI,Netherlands,Qualification,Parallel GS,27,
-184,Dekker Michelle,Female,24-02-2018,Phoenix Snow Park,KOR,Netherlands,Qualification,Parallel GS,17,
-185,Dekker Michelle,Female,24-02-2018,Phoenix Snow Park,KOR,Netherlands,Olympic Winter Games,Parallel GS,17,140.00
-186,Dekker Michelle,Female,26-01-2018,Bansko,BUL,Netherlands,World Cup,Parallel GS,DNS,
-187,Dekker Michelle,Female,26-01-2018,Bansko,BUL,Netherlands,Qualification,Parallel GS,DNS,
-188,Dekker Michelle,Female,21-01-2018,Rogla,SLO,Netherlands,World Cup,Parallel GS,41,18.20
-189,Dekker Michelle,Female,21-01-2018,Rogla,SLO,Netherlands,Qualification,Parallel GS,41,
-190,Dekker Michelle,Female,20-01-2018,Rogla,SLO,Netherlands,World Cup,Parallel GS,22,90.00
-191,Dekker Michelle,Female,20-01-2018,Rogla,SLO,Netherlands,Qualification,Parallel GS,22,
-192,Dekker Michelle,Female,12-01-2018,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,3,600.00
-193,Dekker Michelle,Female,12-01-2018,Bad Gastein,AUT,Netherlands,Qualification,Parallel Slalom,11,
-194,Dekker Michelle,Female,05-01-2018,Lackenhof,AUT,Netherlands,World Cup,Parallel GS,21,100.00
-195,Dekker Michelle,Female,05-01-2018,Lackenhof,AUT,Netherlands,Qualification,Parallel GS,21,
-196,Dekker Michelle,Female,16-12-2017,Cortina d'Ampezzo,ITA,Netherlands,World Cup,Parallel Slalom,19,120.00
-197,Dekker Michelle,Female,16-12-2017,Cortina d'Ampezzo,ITA,Netherlands,Qualification,Parallel Slalom,19,
-198,Dekker Michelle,Female,15-12-2017,Cortina d'Ampezzo,ITA,Netherlands,World Cup,Parallel GS,32,26.00
-199,Dekker Michelle,Female,15-12-2017,Cortina d'Ampezzo,ITA,Netherlands,Qualification,Parallel GS,32,
-200,Dekker Michelle,Female,14-12-2017,Carezza,ITA,Netherlands,World Cup,Parallel GS,21,100.00
-201,Dekker Michelle,Female,14-12-2017,Carezza,ITA,Netherlands,Qualification,Parallel GS,21,
-202,Dekker Michelle,Female,10-12-2017,Hochfügen,GER,Netherlands,European Cup,Parallel GS,4,180.00
-203,Dekker Michelle,Female,09-12-2017,Hochfügen,GER,Netherlands,European Cup,Parallel GS,32,9.36
-204,Dekker Michelle,Female,26-03-2017,Racines,ITA,Netherlands,European Cup,Parallel Slalom,2,288.00
-205,Dekker Michelle,Female,25-03-2017,Racines,ITA,Netherlands,European Cup,Parallel Slalom,DSQ1,
-206,Dekker Michelle,Female,18-03-2017,Winterberg,GER,Netherlands,Qualification,Parallel Slalom,7,
-207,Dekker Michelle,Female,18-03-2017,Winterberg,GER,Netherlands,World Cup,Parallel Slalom,6,400.00
-208,Dekker Michelle,Female,16-03-2017,Sierra Nevada,ESP,Netherlands,World Championships,Parallel GS,19,120.00
-209,Dekker Michelle,Female,15-03-2017,Sierra Nevada,ESP,Netherlands,World Championships,Parallel Slalom,19,120.00
-210,Dekker Michelle,Female,05-03-2017, Erciyes-Kayseri,TUR,Netherlands,World Cup,Parallel GS,DSQ,
-211,Dekker Michelle,Female,12-02-2017,Phoenix Pyeongchang,KOR,Netherlands,World Cup,Parallel GS,16,150.00
-212,Dekker Michelle,Female,05-02-2017,Bansko,BUL,Netherlands,World Cup,Parallel GS,27,45.00
-213,Dekker Michelle,Female,03-02-2017,Bansko,BUL,Netherlands,World Cup,Parallel GS,15,160.00
-214,Dekker Michelle,Female,28-01-2017,Rogla,SLO,Netherlands,World Cup,Parallel GS,35,20.00
-215,Dekker Michelle,Female,21-01-2017,Livigno,ITA,Netherlands,European Cup,Parallel GS,11,86.40
-216,Dekker Michelle,Female,20-01-2017,Livigno,ITA,Netherlands,European Cup,Parallel GS,14,64.80
-217,Dekker Michelle,Female,10-01-2017,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,2,800.00
-218,Dekker Michelle,Female,17-12-2016,Cortina d'Ampezzo,ITA,Netherlands,World Cup,Parallel Slalom,32,26.00
-219,Dekker Michelle,Female,15-12-2016,Carezza,ITA,Netherlands,World Cup,Parallel GS,17,140.00
-220,Dekker Michelle,Female,11-12-2016,Hochfügen,GER,Netherlands,European Cup,Parallel GS,12,79.20
-221,Dekker Michelle,Female,10-12-2016,Hochfügen,GER,Netherlands,European Cup,Parallel GS,20,39.60
-222,Dekker Michelle,Female,04-11-2016,Landgraaf,NED,Netherlands,European Cup,Parallel Slalom,10,93.60
-223,Dekker Michelle,Female,03-11-2016,Landgraaf,NED,Netherlands,European Cup,Parallel Slalom,1,360.00
-224,Dekker Michelle,Female,23-01-2016,Rogla,SLO,Netherlands,World Cup,Parallel GS,26,50.00
-225,Dekker Michelle,Female,17-01-2016,Kreischberg,AUT,Netherlands,FIS,Parallel GS,8,83.20
-226,Dekker Michelle,Female,16-01-2016,Kreischberg,AUT,Netherlands,FIS,Parallel GS,17,36.40
-227,Dekker Michelle,Female,08-01-2016,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,21,100.00
-228,Dekker Michelle,Female,16-10-2015,Landgraaf,NED,Netherlands,European Cup,Parallel Slalom,8,160.00
-229,Dekker Michelle,Female,15-10-2015,Landgraaf,NED,Netherlands,European Cup,Parallel Slalom,24,35.00
-230,Dekker Michelle,Female,29-03-2015,Grächen,SUI,Netherlands,National Championships,Parallel Slalom,9,104.40
-231,Dekker Michelle,Female,27-03-2015,Canazei,ITA,Netherlands,National Championships,Parallel Slalom,1,320.00
-232,Dekker Michelle,Female,26-03-2015,Canazei,ITA,Netherlands,National Championships,Parallel GS,26,0.00
-233,Dekker Michelle,Female,22-03-2015,Racines,ITA,Netherlands,European Cup,Parallel Slalom,22,
-234,Dekker Michelle,Female,21-03-2015,Racines,ITA,Netherlands,European Cup,Parallel Slalom,9,145.00
-235,Dekker Michelle,Female,18-03-2015,Rogla,SLO,Netherlands,European Cup,Parallel Slalom,17,56.00
-236,Dekker Michelle,Female,17-03-2015,Rogla,SLO,Netherlands,European Cup,Parallel GS,4,200.00
-237,Dekker Michelle,Female,14-03-2015,Winterberg,GER,Netherlands,World Cup,Parallel Slalom,19,120.00
-238,Dekker Michelle,Female,11-03-2015,Yabuli,CHN,Netherlands,FIS Junior World Championships,Parallel Slalom,5,162.00
-239,Dekker Michelle,Female,10-03-2015,Yabuli,CHN,Netherlands,FIS Junior World Championships,Parallel GS,2,288.00
-240,Dekker Michelle,Female,25-02-2015,Marianske Lazne,CZE,Netherlands,European Cup,Parallel Slalom,2,232.00
-241,Dekker Michelle,Female,24-02-2015,Marianske Lazne,CZE,Netherlands,European Cup,Parallel Slalom,3,174.00
-242,Dekker Michelle,Female,22-02-2015,Lenzerheide,SUI,Netherlands,European Cup,Parallel Slalom,2,360.00
-243,Dekker Michelle,Female,21-02-2015,Lenzerheide,SUI,Netherlands,European Cup,Parallel Slalom,21,50.00
-244,Dekker Michelle,Female,15-02-2015,Kayseri,TUR,Netherlands,European Cup,Parallel Slalom,6,128.00
-245,Dekker Michelle,Female,14-02-2015,Kayseri,TUR,Netherlands,European Cup,Parallel Slalom,2,288.00
-246,Dekker Michelle,Female,07-02-2015,Sudelfeld,GER,Netherlands,World Cup,Parallel GS,33,24.00
-247,Dekker Michelle,Female,06-02-2015,Sudelfeld,GER,Netherlands,Qualification,Parallel GS,33,
-248,Dekker Michelle,Female,31-01-2015,Rogla,SLO,Netherlands,World Cup,Parallel GS,15,160.00
-249,Dekker Michelle,Female,23-01-2015,Lachtal,AUT,Netherlands,World Championships,Parallel GS,25,60.00
-250,Dekker Michelle,Female,22-01-2015,Lachtal,AUT,Netherlands,World Championships,Parallel Slalom,23,80.00
-251,Dekker Michelle,Female,09-01-2015,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,11,240.00
-252,Dekker Michelle,Female,06-01-2015,Dachstein West / Gosau,AUT,Netherlands,FIS,Parallel Slalom,3,156.00
-253,Dekker Michelle,Female,05-01-2015,Dachstein West / Gosau,AUT,Netherlands,FIS,Parallel Slalom,1,260.00
-254,Dekker Michelle,Female,18-12-2014,Montafon,AUT,Netherlands,World Cup,Parallel Slalom,40,0.00
-255,Dekker Michelle,Female,16-12-2014,Carezza,ITA,Netherlands,World Cup,Parallel GS,DNF,
-256,Dekker Michelle,Female,10-10-2014,Landgraaf,NED,Netherlands,FIS,Parallel Slalom,1,260.00
-257,Dekker Michelle,Female,09-10-2014,Landgraaf,NED,Netherlands,National Championships,Parallel Slalom,1,360.00
-258,Dekker Michelle,Female,09-04-2014,Chiesa in Valmalenco,ITA,Netherlands,National Championships,Parallel Slalom,1,360.00
-259,Dekker Michelle,Female,08-04-2014,Chiesa in Valmalenco,ITA,Netherlands,National Championships,Parallel GS,10,93.60
-260,Dekker Michelle,Female,05-04-2014,Furtschellas,SUI,Netherlands,National Championships,Parallel GS,6,144.00
-261,Dekker Michelle,Female,25-03-2014,Chiesa in Valmalenco,ITA,Netherlands,FIS Junior World Championships,Parallel Slalom,2,288.00
-262,Dekker Michelle,Female,24-03-2014,Chiesa in Valmalenco,ITA,Netherlands,FIS Junior World Championships,Parallel GS,7,129.60
-263,Dekker Michelle,Female,09-03-2014,Tauplitz,AUT,Netherlands,FIS,Parallel Slalom,9,75.40
-264,Dekker Michelle,Female,08-03-2014,Tauplitz,AUT,Netherlands,FIS,Parallel Slalom,19,
-265,Dekker Michelle,Female,05-03-2014,Rogla,SLO,Netherlands,European Cup,Parallel Slalom,24,31.50
-266,Dekker Michelle,Female,04-03-2014,Rogla,SLO,Netherlands,European Cup,Parallel GS,13,90.00
-267,Dekker Michelle,Female,22-02-2014,Rosa Khutor,RUS,Netherlands,Olympic Winter Games,Parallel Slalom,19,120.00
-268,Dekker Michelle,Female,19-02-2014,Rosa Khutor,RUS,Netherlands,Olympic Winter Games,Parallel GS,22,90.00
-269,Dekker Michelle,Female,01-02-2014,Sudelfeld,GER,Netherlands,World Cup,Parallel GS,24,
-270,Dekker Michelle,Female,18-01-2014,Rogla,SLO,Netherlands,World Cup,Parallel GS,41,18.20
-271,Dekker Michelle,Female,12-01-2014,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,19,120.00
-272,Dekker Michelle,Female,10-01-2014,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,10,260.00
-273,Dekker Michelle,Female,22-12-2013,Schönberg-Lachtal,AUT,Netherlands,European Cup,Parallel Slalom,36,9.85
-274,Dekker Michelle,Female,21-12-2013,Schönberg-Lachtal,AUT,Netherlands,European Cup,Parallel Slalom,8,160.00
-275,Dekker Michelle,Female,15-12-2013,Samnaun,SUI,Netherlands,FIS,Parallel Slalom,3,156.00
-276,Dekker Michelle,Female,14-12-2013,Carezza,ITA,Netherlands,World Cup,Parallel Slalom,15,160.00
-277,Dekker Michelle,Female,13-12-2013,Carezza,ITA,Netherlands,World Cup,Parallel GS,39,18.80
-278,Dekker Michelle,Female,08-12-2013,Hochfügen,AUT,Netherlands,European Cup,Parallel GS,23,40.00
-279,Dekker Michelle,Female,07-12-2013,Hochfügen,AUT,Netherlands,European Cup,Parallel GS,19,60.00
-280,Dekker Michelle,Female,08-11-2013,Landgraaf,NED,Netherlands,FIS,Parallel Slalom,2,208.00
-281,Dekker Michelle,Female,07-11-2013,Landgraaf,NED,Netherlands,FIS,Parallel Slalom,3,156.00
-282,Dekker Michelle,Female,23-03-2013,Götschen,GER,Netherlands,National Championships,Parallel GS,16,54.00
-283,Dekker Michelle,Female,22-03-2013,Götschen,GER,Netherlands,National Championships,Parallel Slalom,4,180.00
-284,Dekker Michelle,Female,17-03-2013,Rogla,SLO,Netherlands,European Cup,Parallel Slalom,18,41.60
-285,Dekker Michelle,Female,16-03-2013,Rogla,SLO,Netherlands,European Cup,Parallel GS,14,57.60
-286,Dekker Michelle,Female,07-03-2013,Erzurum,TUR,Netherlands,FIS Junior World Championships,Parallel Slalom,12,79.20
-287,Dekker Michelle,Female,06-03-2013,Erzurum,TUR,Netherlands,FIS Junior World Championships,Parallel GS,12,79.20
-288,Dekker Michelle,Female,02-03-2013,Gerlitzen,AUT,Netherlands,European Cup,Parallel Slalom,2,400.00
-289,Dekker Michelle,Female,21-02-2013,Predeal,ROU,Netherlands,European Youth Olympic Festival,Parallel GS,3,72.00
-290,Dekker Michelle,Female,10-02-2013,Marianske Lazne,CZE,Netherlands,European Cup,Parallel Slalom,9,92.80
-291,Dekker Michelle,Female,09-02-2013,Marianske Lazne,CZE,Netherlands,European Cup,Parallel Slalom,17,44.80
-292,Dekker Michelle,Female,27-01-2013,Rossfeld,GER,Netherlands,Junior,Giant Slalom,2,104.00
-293,Dekker Michelle,Female,27-01-2013,Rossfeld,GER,Netherlands,Junior,Slalom,1,130.00
-294,Dekker Michelle,Female,26-01-2013,Rossfeld,GER,Netherlands,Junior,Giant Slalom,1,130.00
-295,Dekker Michelle,Female,26-01-2013,Rossfeld,GER,Netherlands,Junior,Slalom,1,130.00
-296,Dekker Michelle,Female,20-01-2013,Vratna - Paseky,SVK,Netherlands,European Cup,Parallel GS,19,31.20
-297,Dekker Michelle,Female,19-01-2013,Vratna - Paseky,SVK,Netherlands,European Cup,Parallel GS,14,52.20
-298,Dekker Michelle,Female,23-12-2012,Radstadt,AUT,Netherlands,FIS,Giant Slalom,10,62.40
-299,Dekker Michelle,Female,22-12-2012,Radstadt,AUT,Netherlands,FIS,Giant Slalom,5,108.00
-300,Dekker Michelle,Female,21-12-2012,Carezza,ITA,Netherlands,World Cup,Parallel GS,42,17.90
-301,Dekker Michelle,Female,16-12-2012,Racines/Ratschings,ITA,Netherlands,European Cup,Parallel Slalom,22,45.00
-302,Dekker Michelle,Female,15-12-2012,Racines/Ratschings,ITA,Netherlands,European Cup,Parallel Slalom,55,0.00
-303,Dekker Michelle,Female,08-12-2012,Lachtal,AUT,Netherlands,European Cup,Parallel GS,DNS,
-304,Dekker Michelle,Female,01-04-2012,Sils,SUI,Netherlands,National Championships,Parallel GS,11,86.40
-305,Dekker Michelle,Female,31-03-2012,St. Gallenkirch,AUT,Netherlands,National Championships,Parallel GS,14,64.80
-306,Dekker Michelle,Female,28-03-2012,Sierra Nevada,ESP,Netherlands,FIS Junior World Championships,Parallel Slalom,16,60.00
-307,Dekker Michelle,Female,27-03-2012,Sierra Nevada,ESP,Netherlands,FIS Junior World Championships,Parallel GS,22,36.00
-308,Dekker Michelle,Female,10-03-2012,Bad Gastein,AUT,Netherlands,European Cup,Parallel GS,26,14.50
-309,Dekker Michelle,Female,04-03-2012,Gerlitzen,AUT,Netherlands,FIS,Parallel Slalom,24,16.80
-310,Dekker Michelle,Female,03-03-2012,Gerlitzen,AUT,Netherlands,FIS,Parallel Slalom,24,16.80
-311,Dekker Michelle,Female,25-02-2012,Brauneck,GER,Netherlands,Junior,Giant Slalom,1,50.00
-312,Dekker Michelle,Female,25-02-2012,Brauneck,GER,Netherlands,Junior,Slalom,5,22.50
-313,Dekker Michelle,Female,12-02-2012,Marianske Lazne,CZE,Netherlands,European Cup,Parallel Slalom,7,104.40
-314,Dekker Michelle,Female,11-02-2012,Marianske Lazne,CZE,Netherlands,European Cup,Parallel Slalom,20,31.90
-315,Dekker Michelle,Female,05-02-2012,Ratschings-Racines,ITA,Netherlands,European Cup,Parallel Slalom,40,0.00
-316,Dekker Michelle,Female,29-01-2012,Adelboden,SUI,Netherlands,European Cup,Parallel GS,23,20.80
-317,Dekker Michelle,Female,22-01-2012,Valgardena-S. Cristina-Seceda,ITA,Netherlands,FIS,Slalom,6,80.00
-318,Dekker Michelle,Female,21-01-2012,Valgardena-S. Cristina-Seceda,ITA,Netherlands,FIS,Slalom,11,62.40
-319,Dekker Michelle,Female,08-01-2012,Kreischberg,AUT,Netherlands,FIS,Parallel GS,40,4.81
-320,Dekker Michelle,Female,07-01-2012,Kreischberg,AUT,Netherlands,FIS,Parallel GS,37,5.04
+0,Dekker Michelle,Female,09-03-2025,Montafon/Gargellen,AUT,Netherlands,European Cup,Parallel Slalom,1,360.00
+1,Dekker Michelle,Female,08-03-2025,Montafon/Gargellen,AUT,Netherlands,European Cup,Parallel Giant Slalom,26,18.00
+2,Dekker Michelle,Female,02-03-2025,Krynica,POL,Netherlands,Qualification,Parallel Giant Slalom,2,
+3,Dekker Michelle,Female,02-03-2025,Krynica,POL,Netherlands,World Cup,Parallel Giant Slalom,9,290.00
+4,Dekker Michelle,Female,01-03-2025,Krynica,POL,Netherlands,Qualification,Parallel Giant Slalom,2,
+5,Dekker Michelle,Female,01-03-2025,Krynica,POL,Netherlands,World Cup,Parallel Giant Slalom,2,800.00
+6,Dekker Michelle,Female,16-02-2025,Val St. Come,CAN,Netherlands,Qualification,Parallel Giant Slalom,20,
+7,Dekker Michelle,Female,16-02-2025,Val St. Come,CAN,Netherlands,World Cup,Parallel Giant Slalom,20,110.00
+8,Dekker Michelle,Female,15-02-2025,Val St. Come,CAN,Netherlands,Qualification,Parallel Giant Slalom,2,
+9,Dekker Michelle,Female,15-02-2025,Val St. Come,CAN,Netherlands,World Cup,Parallel Giant Slalom,3,600.00
+10,Dekker Michelle,Female,25-01-2025,Rogla,SLO,Netherlands,Qualification,Parallel Giant Slalom,2,
+11,Dekker Michelle,Female,25-01-2025,Rogla,SLO,Netherlands,World Cup,Parallel Giant Slalom,5,450.00
+12,Dekker Michelle,Female,19-01-2025,Bansko,BUL,Netherlands,Qualification,Parallel Giant Slalom,4,
+13,Dekker Michelle,Female,19-01-2025,Bansko,BUL,Netherlands,World Cup,Parallel Giant Slalom,3,600.00
+14,Dekker Michelle,Female,18-01-2025,Bansko,BUL,Netherlands,Qualification,Parallel Giant Slalom,3,
+15,Dekker Michelle,Female,18-01-2025,Bansko,BUL,Netherlands,World Cup,Parallel Giant Slalom,4,500.00
+16,Dekker Michelle,Female,14-01-2025,Bad Gastein,AUT,Netherlands,Qualification,Parallel Slalom,3,
+17,Dekker Michelle,Female,14-01-2025,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,6,400.00
+18,Dekker Michelle,Female,11-01-2025,Scuol,SUI,Netherlands,Qualification,Parallel Giant Slalom,2,
+19,Dekker Michelle,Female,11-01-2025,Scuol,SUI,Netherlands,World Cup,Parallel Giant Slalom,4,500.00
+20,Dekker Michelle,Female,21-12-2024,Davos,SUI,Netherlands,Qualification,Parallel Slalom,1,
+21,Dekker Michelle,Female,21-12-2024,Davos,SUI,Netherlands,World Cup,Parallel Slalom,2,800.00
+22,Dekker Michelle,Female,14-12-2024,Cortina d'Ampezzo,ITA,Netherlands,Qualification,Parallel Giant Slalom,13,
+23,Dekker Michelle,Female,14-12-2024,Cortina d'Ampezzo,ITA,Netherlands,World Cup,Parallel Giant Slalom,14,180.00
+24,Dekker Michelle,Female,12-12-2024,Carezza,ITA,Netherlands,Qualification,Parallel Giant Slalom,10,
+25,Dekker Michelle,Female,12-12-2024,Carezza,ITA,Netherlands,World Cup,Parallel Giant Slalom,11,240.00
+26,Dekker Michelle,Female,08-12-2024,Yanqing (NASC),CHN,Netherlands,World Cup,Parallel Slalom,6,400.00
+27,Dekker Michelle,Female,08-12-2024,Yanqing (NASC),CHN,Netherlands,Qualification,Parallel Slalom,7,
+28,Dekker Michelle,Female,07-12-2024,Yanqing (NASC),CHN,Netherlands,World Cup,Parallel Giant Slalom,21,100.00
+29,Dekker Michelle,Female,07-12-2024,Yanqing (NASC),CHN,Netherlands,Qualification,Parallel Giant Slalom,21,
+30,Dekker Michelle,Female,01-12-2024,Mylin,CHN,Netherlands,World Cup,Parallel Slalom,9,290.00
+31,Dekker Michelle,Female,01-12-2024,Mylin,CHN,Netherlands,Qualification,Parallel Slalom,5,
+32,Dekker Michelle,Female,30-11-2024,Mylin,CHN,Netherlands,World Cup,Parallel Giant Slalom,16,150.00
+33,Dekker Michelle,Female,30-11-2024,Mylin,CHN,Netherlands,Qualification,Parallel Giant Slalom,16,
+34,Dekker Michelle,Female,17-03-2024,St. Moritz,SUI,Netherlands,European Cup,Parallel Slalom,8,115.20
+35,Dekker Michelle,Female,16-03-2024,St. Moritz,SUI,Netherlands,European Cup,Parallel Giant Slalom,3,216.00
+36,Dekker Michelle,Female,09-03-2024,Winterberg,GER,Netherlands,Qualification,Parallel Slalom,11,
+37,Dekker Michelle,Female,09-03-2024,Winterberg,GER,Netherlands,World Cup,Parallel Slalom,11,240.00
+38,Dekker Michelle,Female,25-02-2024,Krynica,POL,Netherlands,Qualification,Parallel Giant Slalom,12,
+39,Dekker Michelle,Female,25-02-2024,Krynica,POL,Netherlands,World Cup,Parallel Giant Slalom,8,320.00
+40,Dekker Michelle,Female,24-02-2024,Krynica,POL,Netherlands,Qualification,Parallel Giant Slalom,6,
+41,Dekker Michelle,Female,24-02-2024,Krynica,POL,Netherlands,World Cup,Parallel Giant Slalom,3,600.00
+42,Dekker Michelle,Female,27-01-2024,Simonhöhe,AUT,Netherlands,Qualification,Parallel Giant Slalom,5,
+43,Dekker Michelle,Female,27-01-2024,Simonhöhe,AUT,Netherlands,World Cup,Parallel Giant Slalom,4,500.00
+44,Dekker Michelle,Female,25-01-2024,Rogla,SLO,Netherlands,Qualification,Parallel Giant Slalom,1,
+45,Dekker Michelle,Female,25-01-2024,Rogla,SLO,Netherlands,World Cup,Parallel Giant Slalom,2,800.00
+46,Dekker Michelle,Female,21-01-2024,Pamporovo,BUL,Netherlands,Qualification,Parallel Slalom,10,
+47,Dekker Michelle,Female,21-01-2024,Pamporovo,BUL,Netherlands,World Cup,Parallel Slalom,11,240.00
+48,Dekker Michelle,Female,20-01-2024,Pamporovo,BUL,Netherlands,Qualification,Parallel Slalom,6,
+49,Dekker Michelle,Female,20-01-2024,Pamporovo,BUL,Netherlands,World Cup,Parallel Slalom,6,400.00
+50,Dekker Michelle,Female,16-01-2024,Bad Gastein,AUT,Netherlands,Qualification,Parallel Slalom,11,
+51,Dekker Michelle,Female,16-01-2024,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,12,220.00
+52,Dekker Michelle,Female,23-12-2023,Davos ,SUI,Netherlands,Qualification,Parallel Slalom,17,
+53,Dekker Michelle,Female,23-12-2023,Davos,SUI,Netherlands,World Cup,Parallel Slalom,17,140.00
+54,Dekker Michelle,Female,16-12-2023,Cortina d'Ampezzo,ITA,Netherlands,Qualification,Parallel Giant Slalom,9,
+55,Dekker Michelle,Female,16-12-2023,Cortina d'Ampezzo,ITA,Netherlands,World Cup,Parallel Giant Slalom,13,200.00
+56,Dekker Michelle,Female,14-12-2023,Carezza,ITA,Netherlands,Qualification,Parallel Giant Slalom,8,
+57,Dekker Michelle,Female,14-12-2023,Carezza,ITA,Netherlands,World Cup,Parallel Giant Slalom,8,320.00
+58,Dekker Michelle,Female,08-12-2023,Götschen,GER,Netherlands,Qualification,Parallel Slalom,DSQ,
+59,Dekker Michelle,Female,08-12-2023,Götschen,GER,Netherlands,European Cup,Parallel Slalom,DSQ,
+60,Dekker Michelle,Female,18-03-2023,Berchtesgaden,GER,Netherlands,Qualification,Parallel Slalom,4,
+61,Dekker Michelle,Female,18-03-2023,Berchtesgaden,GER,Netherlands,World Cup,Parallel Slalom,6,400.00
+62,Dekker Michelle,Female,15-03-2023,Rogla,SLO,Netherlands,World Cup,Parallel Giant Slalom,7,360.00
+63,Dekker Michelle,Female,15-03-2023,Rogla,SLO,Netherlands,Qualification,Parallel Giant Slalom,7,
+64,Dekker Michelle,Female,21-02-2023,Bakuriani,GEO,Netherlands,Qualification,Parallel Slalom,14,
+65,Dekker Michelle,Female,21-02-2023,Bakuriani,GEO,Netherlands,World Championships,Parallel Slalom,7,360.00
+66,Dekker Michelle,Female,19-02-2023,Bakuriani,GEO,Netherlands,Qualification,Parallel Giant Slalom,18,
+67,Dekker Michelle,Female,19-02-2023,Bakuriani,GEO,Netherlands,World Championships,Parallel Giant Slalom,18,130.00
+68,Dekker Michelle,Female,31-01-2023,Blue,CAN,Netherlands,Nor-Am Cup,Parallel Slalom,1,260.00
+69,Dekker Michelle,Female,30-01-2023,Blue,CAN,Netherlands,Nor-Am Cup,Parallel Giant Slalom,1,260.00
+70,Dekker Michelle,Female,27-01-2023,Blue Mountain,CAN,Netherlands,Qualification,Parallel Giant Slalom,28,
+71,Dekker Michelle,Female,27-01-2023,Blue Mountain,CAN,Netherlands,World Cup,Parallel Giant Slalom,28,
+72,Dekker Michelle,Female,26-01-2023,Blue Mountain,CAN,Netherlands,Qualification,Parallel Giant Slalom,7,
+73,Dekker Michelle,Female,26-01-2023,Blue Mountain,CAN,Netherlands,World Cup,Parallel Giant Slalom,11,240.00
+74,Dekker Michelle,Female,22-01-2023,Bansko,BUL,Netherlands,Qualification,Parallel Slalom,5,
+75,Dekker Michelle,Female,22-01-2023,Bansko,BUL,Netherlands,World Cup,Parallel Slalom,9,290.00
+76,Dekker Michelle,Female,21-01-2023,Bansko,BUL,Netherlands,Qualification,Parallel Slalom,4,
+77,Dekker Michelle,Female,21-01-2023,Bansko,BUL,Netherlands,World Cup,Parallel Slalom,6,400.00
+78,Dekker Michelle,Female,14-01-2023,Scuol,SUI,Netherlands,Qualification,Parallel Giant Slalom,12,
+79,Dekker Michelle,Female,14-01-2023,Scuol,SUI,Netherlands,World Cup,Parallel Giant Slalom,12,220.00
+80,Dekker Michelle,Female,10-01-2023,Bad Gastein,AUT,Netherlands,Qualification,Parallel Slalom,DSQ,
+81,Dekker Michelle,Female,10-01-2023,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,DSQ,
+82,Dekker Michelle,Female,17-12-2022,Cortina d'Ampezzo,ITA,Netherlands,Qualification,Parallel Giant Slalom,17,
+83,Dekker Michelle,Female,17-12-2022,Cortina d'Ampezzo,ITA,Netherlands,World Cup,Parallel Giant Slalom,17,140.00
+84,Dekker Michelle,Female,15-12-2022,Carezza,ITA,Netherlands,Qualification,Parallel Giant Slalom,9,
+85,Dekker Michelle,Female,15-12-2022,Carezza,ITA,Netherlands,World Cup,Parallel Giant Slalom,1,1000.00
+86,Dekker Michelle,Female,11-12-2022,Winterberg,GER,Netherlands,World Cup,Parallel Slalom,31,
+87,Dekker Michelle,Female,10-12-2022,Winterberg,GER,Netherlands,Qualification,Parallel Slalom,31,
+88,Dekker Michelle,Female,06-04-2022,Copper Mountain Resort,USA,Netherlands,National Championships,Parallel Slalom,1,200.00
+89,Dekker Michelle,Female,04-04-2022,Copper Mountain Resort,USA,Netherlands,National Championships,Parallel Giant Slalom,1,200.00
+90,Dekker Michelle,Female,19-03-2022,Berchtesgaden,GER,Netherlands,Qualification,Parallel Slalom,6,
+91,Dekker Michelle,Female,19-03-2022,Berchtesgaden,GER,Netherlands,World Cup,Parallel Slalom,6,400.00
+92,Dekker Michelle,Female,16-03-2022,Rogla,SLO,Netherlands,Qualification,Parallel Giant Slalom,10,
+93,Dekker Michelle,Female,16-03-2022,Rogla,SLO,Netherlands,World Cup,Parallel Giant Slalom,3,600.00
+94,Dekker Michelle,Female,12-03-2022,Piancavallo,ITA,Netherlands,Qualification,Parallel Slalom,27,
+95,Dekker Michelle,Female,12-03-2022,Piancavallo,ITA,Netherlands,World Cup,Parallel Slalom,27,
+96,Dekker Michelle,Female,08-02-2022,Beijing,CHN,Netherlands,Qualification,Parallel Giant Slalom,13,
+97,Dekker Michelle,Female,08-02-2022,Beijing,CHN,Netherlands,Olympic Winter Games,Parallel Giant Slalom,4,500.00
+98,Dekker Michelle,Female,14-01-2022,Simonhöhe,AUT,Netherlands,World Cup,Parallel Giant Slalom,8,320.00
+99,Dekker Michelle,Female,14-01-2022,Simonhöhe,AUT,Netherlands,Qualification,Parallel Giant Slalom,12,
+100,Dekker Michelle,Female,11-01-2022,Bad Gastein,AUT,Netherlands,Qualification,Parallel Slalom,16,
+101,Dekker Michelle,Female,11-01-2022,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,16,150.00
+102,Dekker Michelle,Female,08-01-2022,Scuol,SUI,Netherlands,Qualification,Parallel Giant Slalom,23,
+103,Dekker Michelle,Female,08-01-2022,Scuol,SUI,Netherlands,World Cup,Parallel Giant Slalom,23,80.00
+104,Dekker Michelle,Female,18-12-2021,Cortina d Ampezzo,ITA,Netherlands,Qualification,Parallel Giant Slalom,24,
+105,Dekker Michelle,Female,18-12-2021,Cortina d Ampezzo,ITA,Netherlands,World Cup,Parallel Giant Slalom,24,70.00
+106,Dekker Michelle,Female,16-12-2021,Carezza,ITA,Netherlands,Qualification,Parallel Giant Slalom,15,
+107,Dekker Michelle,Female,16-12-2021,Carezza,ITA,Netherlands,World Cup,Parallel Giant Slalom,15,160.00
+108,Dekker Michelle,Female,12-12-2021,Bannoye,RUS,Netherlands,Qualification,Parallel Slalom,21,
+109,Dekker Michelle,Female,12-12-2021,Bannoye,RUS,Netherlands,World Cup,Parallel Slalom,21,100.00
+110,Dekker Michelle,Female,11-12-2021,Bannoye,RUS,Netherlands,Qualification,Parallel Giant Slalom,20,
+111,Dekker Michelle,Female,11-12-2021,Bannoye,RUS,Netherlands,World Cup,Parallel Giant Slalom,20,110.00
+112,Dekker Michelle,Female,20-03-2021,Berchtesgaden,GER,Netherlands,Qualification,Parallel Slalom,19,
+113,Dekker Michelle,Female,20-03-2021,Berchtesgaden,GER,Netherlands,World Cup,Parallel Slalom,19,120.00
+114,Dekker Michelle,Female,06-03-2021,Rogla,SLO,Netherlands,Qualification,Parallel Giant Slalom,15,
+115,Dekker Michelle,Female,06-03-2021,Rogla,SLO,Netherlands,World Cup,Parallel Giant Slalom,15,160.00
+116,Dekker Michelle,Female,02-03-2021,Rogla,SLO,Netherlands,World Championships,Parallel Slalom,44,17.30
+117,Dekker Michelle,Female,02-03-2021,Rogla,SLO,Netherlands,Qualification,Parallel Slalom,44,
+118,Dekker Michelle,Female,01-03-2021,Rogla,SLO,Netherlands,World Championships,Parallel Giant Slalom,15,160.00
+119,Dekker Michelle,Female,01-03-2021,Rogla,SLO,Netherlands,Qualification,Parallel Giant Slalom,15,
+120,Dekker Michelle,Female,07-02-2021,Bannoye,RUS,Netherlands,Qualification,Parallel Slalom,23,
+121,Dekker Michelle,Female,07-02-2021,Bannoye,RUS,Netherlands,World Cup,Parallel Slalom,23,80.00
+122,Dekker Michelle,Female,06-02-2021,Bannoye,RUS,Netherlands,Qualification,Parallel Giant Slalom,13,
+123,Dekker Michelle,Female,06-02-2021,Bannoye,RUS,Netherlands,World Cup,Parallel Giant Slalom,13,200.00
+124,Dekker Michelle,Female,30-01-2021,Moscow,RUS,Netherlands,Qualification,Parallel Slalom,31,
+125,Dekker Michelle,Female,30-01-2021,Moscow,RUS,Netherlands,World Cup,Parallel Slalom,31,28.00
+126,Dekker Michelle,Female,24-01-2021,Davos,SUI,Netherlands,European Cup,Parallel Slalom,11,86.40
+127,Dekker Michelle,Female,23-01-2021,Davos,SUI,Netherlands,European Cup,Parallel Slalom,5,162.00
+128,Dekker Michelle,Female,17-01-2021,Simonhoehe,AUT,Netherlands,European Cup,Parallel Giant Slalom,1,360.00
+129,Dekker Michelle,Female,16-01-2021,Simonhoehe,AUT,Netherlands,European Cup,Parallel Giant Slalom,4,180.00
+130,Dekker Michelle,Female,12-01-2021,Bad Gastein,AUT,Netherlands,Qualification,Parallel Slalom,6,
+131,Dekker Michelle,Female,12-01-2021,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,6,400.00
+132,Dekker Michelle,Female,09-01-2021,Scuol,SUI,Netherlands,Qualification,Parallel Giant Slalom,20,
+133,Dekker Michelle,Female,09-01-2021,Scuol,SUI,Netherlands,World Cup,Parallel Giant Slalom,20,110.00
+134,Dekker Michelle,Female,17-12-2020,Carezza,ITA,Netherlands,Qualification,Parallel Giant Slalom,24,
+135,Dekker Michelle,Female,17-12-2020,Carezza,ITA,Netherlands,World Cup,Parallel Giant Slalom,24,70.00
+136,Dekker Michelle,Female,12-12-2020,Cortina d Ampezzo,ITA,Netherlands,Qualification,Parallel Giant Slalom,24,
+137,Dekker Michelle,Female,12-12-2020,Cortina d Ampezzo,ITA,Netherlands,World Cup,Parallel Giant Slalom,24,70.00
+138,Dekker Michelle,Female,03-03-2020,Blue Mountain,CAN,Netherlands,Nor-Am Cup,Parallel Slalom,5,162.00
+139,Dekker Michelle,Female,02-03-2020,Blue Mountain,CAN,Netherlands,Nor-Am Cup,Parallel Giant Slalom,1,360.00
+140,Dekker Michelle,Female,01-03-2020,Blue Mountain,CAN,Netherlands,World Cup,Parallel Giant Slalom,12,220.00
+141,Dekker Michelle,Female,01-03-2020,Blue Mountain,CAN,Netherlands,Qualification,Parallel Giant Slalom,9,
+142,Dekker Michelle,Female,29-02-2020,Blue Mountain,CAN,Netherlands,World Cup,Parallel Giant Slalom,12,220.00
+143,Dekker Michelle,Female,29-02-2020,Blue Mountain,CAN,Netherlands,Qualification,Parallel Giant Slalom,11,
+144,Dekker Michelle,Female,25-01-2020,Piancavallo,ITA,Netherlands,World Cup,Parallel Slalom,21,100.00
+145,Dekker Michelle,Female,25-01-2020,Piancavallo,ITA,Netherlands,Qualification,Parallel Slalom,21,
+146,Dekker Michelle,Female,18-01-2020,Rogla,SLO,Netherlands,World Cup,Parallel Giant Slalom,DNF,
+147,Dekker Michelle,Female,18-01-2020,Rogla,SLO,Netherlands,Qualification,Parallel Giant Slalom,DNF,
+148,Dekker Michelle,Female,14-01-2020,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,11,240.00
+149,Dekker Michelle,Female,14-01-2020,Bad Gastein,AUT,Netherlands,Qualification,Parallel Slalom,8,
+150,Dekker Michelle,Female,11-01-2020,Scuol,SUI,Netherlands,World Cup,Parallel Giant Slalom,DNF,
+151,Dekker Michelle,Female,11-01-2020,Scuol,SUI,Netherlands,Qualification,Parallel Giant Slalom,DNF,
+152,Dekker Michelle,Female,19-12-2019,Carezza,ITA,Netherlands,Open,Parallel Giant Slalom,3,600.00
+153,Dekker Michelle,Female,14-12-2019,Cortina d Ampezzo,ITA,Netherlands,World Cup,Parallel Giant Slalom,32,26.00
+154,Dekker Michelle,Female,14-12-2019,Cortina d Ampezzo,ITA,Netherlands,Qualification,Parallel Giant Slalom,32,
+155,Dekker Michelle,Female,08-12-2019,Bannoye,RUS,Netherlands,World Cup,Parallel Giant Slalom,9,290.00
+156,Dekker Michelle,Female,08-12-2019,Bannoye,RUS,Netherlands,Qualification,Parallel Giant Slalom,4,
+157,Dekker Michelle,Female,07-12-2019,Bannoye,RUS,Netherlands,World Cup,Parallel Slalom,8,320.00
+158,Dekker Michelle,Female,07-12-2019,Bannoye,RUS,Netherlands,Qualification,Parallel Slalom,12,
+159,Dekker Michelle,Female,23-03-2019,Winterberg,GER,Netherlands,World Cup,Parallel Slalom,14,180.00
+160,Dekker Michelle,Female,23-03-2019,Winterberg,GER,Netherlands,Qualification,Parallel Slalom,12,
+161,Dekker Michelle,Female,09-03-2019,Scuol,SUI,Netherlands,World Cup,Parallel GS,32,26.00
+162,Dekker Michelle,Female,09-03-2019,Scuol,SUI,Netherlands,Qualification,Parallel Giant Slalom,32,
+163,Dekker Michelle,Female,24-02-2019,Secret Garden,CHN,Netherlands,World Cup,Parallel Slalom,13,200.00
+164,Dekker Michelle,Female,24-02-2019,Secret Garden,CHN,Netherlands,Qualification,Parallel Slalom,11,
+165,Dekker Michelle,Female,23-02-2019,Secret Garden,CHN,Netherlands,World Cup,Parallel Giant Slalom,16,150.00
+166,Dekker Michelle,Female,23-02-2019,Secret Garden,CHN,Netherlands,Qualification,Parallel Giant Slalom,16,
+167,Dekker Michelle,Female,05-02-2019,Park City,USA,Netherlands,World Championships,Parallel Slalom,21,100.00
+168,Dekker Michelle,Female,04-02-2019,Park City,USA,Netherlands,World Championships,Parallel Giant Slalom,12,220.00
+169,Dekker Michelle,Female,19-01-2019,Rogla,SLO,Netherlands,World Cup,Parallel GS,22,90.00
+170,Dekker Michelle,Female,19-01-2019,Rogla,SLO,Netherlands,Qualification,Parallel Giant Slalom,22,
+171,Dekker Michelle,Female,08-01-2019,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,15,160.00
+172,Dekker Michelle,Female,08-01-2019,Bad Gastein,AUT,Netherlands,Qualification,Parallel Slalom,14,
+173,Dekker Michelle,Female,06-01-2019,Simonhöhe,AUT,Netherlands,FIS,Parallel Slalom,11,52.80
+174,Dekker Michelle,Female,05-01-2019,Simonhöhe,AUT,Netherlands,FIS,Parallel Slalom,6,88.00
+175,Dekker Michelle,Female,15-12-2018,Cortina d'Ampezzo,ITA,Netherlands,World Cup,Parallel GS,10,260.00
+176,Dekker Michelle,Female,15-12-2018,Cortina d'Ampezzo,ITA,Netherlands,Qualification,Parallel Giant Slalom,8,
+177,Dekker Michelle,Female,13-12-2018,Carezza,ITA,Netherlands,World Cup,Parallel GS,9,290.00
+178,Dekker Michelle,Female,13-12-2018,Carezza,ITA,Netherlands,Qualification,Parallel Giant Slalom,5,
+179,Dekker Michelle,Female,08-04-2018,Racines,ITA,Netherlands,European Cup,Parallel Slalom,9,104.40
+180,Dekker Michelle,Female,07-04-2018,Racines,ITA,Netherlands,European Cup,Parallel Slalom,2,288.00
+181,Dekker Michelle,Female,17-03-2018,Winterberg,GER,Netherlands,World Cup,Parallel Slalom,8,320.00
+182,Dekker Michelle,Female,17-03-2018,Winterberg,GER,Netherlands,Qualification,Parallel Slalom,13,
+183,Dekker Michelle,Female,10-03-2018,Scuol,SUI,Netherlands,World Cup,Parallel GS,27,45.00
+184,Dekker Michelle,Female,10-03-2018,Scuol,SUI,Netherlands,Qualification,Parallel GS,27,
+185,Dekker Michelle,Female,24-02-2018,Phoenix Snow Park,KOR,Netherlands,Qualification,Parallel GS,17,
+186,Dekker Michelle,Female,24-02-2018,Phoenix Snow Park,KOR,Netherlands,Olympic Winter Games,Parallel GS,17,140.00
+187,Dekker Michelle,Female,26-01-2018,Bansko,BUL,Netherlands,World Cup,Parallel GS,DNS,
+188,Dekker Michelle,Female,26-01-2018,Bansko,BUL,Netherlands,Qualification,Parallel GS,DNS,
+189,Dekker Michelle,Female,21-01-2018,Rogla,SLO,Netherlands,World Cup,Parallel GS,41,18.20
+190,Dekker Michelle,Female,21-01-2018,Rogla,SLO,Netherlands,Qualification,Parallel GS,41,
+191,Dekker Michelle,Female,20-01-2018,Rogla,SLO,Netherlands,World Cup,Parallel GS,22,90.00
+192,Dekker Michelle,Female,20-01-2018,Rogla,SLO,Netherlands,Qualification,Parallel GS,22,
+193,Dekker Michelle,Female,12-01-2018,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,3,600.00
+194,Dekker Michelle,Female,12-01-2018,Bad Gastein,AUT,Netherlands,Qualification,Parallel Slalom,11,
+195,Dekker Michelle,Female,05-01-2018,Lackenhof,AUT,Netherlands,World Cup,Parallel GS,21,100.00
+196,Dekker Michelle,Female,05-01-2018,Lackenhof,AUT,Netherlands,Qualification,Parallel GS,21,
+197,Dekker Michelle,Female,16-12-2017,Cortina d'Ampezzo,ITA,Netherlands,World Cup,Parallel Slalom,19,120.00
+198,Dekker Michelle,Female,16-12-2017,Cortina d'Ampezzo,ITA,Netherlands,Qualification,Parallel Slalom,19,
+199,Dekker Michelle,Female,15-12-2017,Cortina d'Ampezzo,ITA,Netherlands,World Cup,Parallel GS,32,26.00
+200,Dekker Michelle,Female,15-12-2017,Cortina d'Ampezzo,ITA,Netherlands,Qualification,Parallel GS,32,
+201,Dekker Michelle,Female,14-12-2017,Carezza,ITA,Netherlands,World Cup,Parallel GS,21,100.00
+202,Dekker Michelle,Female,14-12-2017,Carezza,ITA,Netherlands,Qualification,Parallel GS,21,
+203,Dekker Michelle,Female,10-12-2017,Hochfügen,GER,Netherlands,European Cup,Parallel GS,4,180.00
+204,Dekker Michelle,Female,09-12-2017,Hochfügen,GER,Netherlands,European Cup,Parallel GS,32,9.36
+205,Dekker Michelle,Female,26-03-2017,Racines,ITA,Netherlands,European Cup,Parallel Slalom,2,288.00
+206,Dekker Michelle,Female,25-03-2017,Racines,ITA,Netherlands,European Cup,Parallel Slalom,DSQ1,
+207,Dekker Michelle,Female,18-03-2017,Winterberg,GER,Netherlands,Qualification,Parallel Slalom,7,
+208,Dekker Michelle,Female,18-03-2017,Winterberg,GER,Netherlands,World Cup,Parallel Slalom,6,400.00
+209,Dekker Michelle,Female,16-03-2017,Sierra Nevada,ESP,Netherlands,World Championships,Parallel GS,19,120.00
+210,Dekker Michelle,Female,15-03-2017,Sierra Nevada,ESP,Netherlands,World Championships,Parallel Slalom,19,120.00
+211,Dekker Michelle,Female,05-03-2017, Erciyes-Kayseri,TUR,Netherlands,World Cup,Parallel GS,DSQ,
+212,Dekker Michelle,Female,12-02-2017,Phoenix Pyeongchang,KOR,Netherlands,World Cup,Parallel GS,16,150.00
+213,Dekker Michelle,Female,05-02-2017,Bansko,BUL,Netherlands,World Cup,Parallel GS,27,45.00
+214,Dekker Michelle,Female,03-02-2017,Bansko,BUL,Netherlands,World Cup,Parallel GS,15,160.00
+215,Dekker Michelle,Female,28-01-2017,Rogla,SLO,Netherlands,World Cup,Parallel GS,35,20.00
+216,Dekker Michelle,Female,21-01-2017,Livigno,ITA,Netherlands,European Cup,Parallel GS,11,86.40
+217,Dekker Michelle,Female,20-01-2017,Livigno,ITA,Netherlands,European Cup,Parallel GS,14,64.80
+218,Dekker Michelle,Female,10-01-2017,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,2,800.00
+219,Dekker Michelle,Female,17-12-2016,Cortina d'Ampezzo,ITA,Netherlands,World Cup,Parallel Slalom,32,26.00
+220,Dekker Michelle,Female,15-12-2016,Carezza,ITA,Netherlands,World Cup,Parallel GS,17,140.00
+221,Dekker Michelle,Female,11-12-2016,Hochfügen,GER,Netherlands,European Cup,Parallel GS,12,79.20
+222,Dekker Michelle,Female,10-12-2016,Hochfügen,GER,Netherlands,European Cup,Parallel GS,20,39.60
+223,Dekker Michelle,Female,04-11-2016,Landgraaf,NED,Netherlands,European Cup,Parallel Slalom,10,93.60
+224,Dekker Michelle,Female,03-11-2016,Landgraaf,NED,Netherlands,European Cup,Parallel Slalom,1,360.00
+225,Dekker Michelle,Female,23-01-2016,Rogla,SLO,Netherlands,World Cup,Parallel GS,26,50.00
+226,Dekker Michelle,Female,17-01-2016,Kreischberg,AUT,Netherlands,FIS,Parallel GS,8,83.20
+227,Dekker Michelle,Female,16-01-2016,Kreischberg,AUT,Netherlands,FIS,Parallel GS,17,36.40
+228,Dekker Michelle,Female,08-01-2016,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,21,100.00
+229,Dekker Michelle,Female,16-10-2015,Landgraaf,NED,Netherlands,European Cup,Parallel Slalom,8,160.00
+230,Dekker Michelle,Female,15-10-2015,Landgraaf,NED,Netherlands,European Cup,Parallel Slalom,24,35.00
+231,Dekker Michelle,Female,29-03-2015,Grächen,SUI,Netherlands,National Championships,Parallel Slalom,9,104.40
+232,Dekker Michelle,Female,27-03-2015,Canazei,ITA,Netherlands,National Championships,Parallel Slalom,1,320.00
+233,Dekker Michelle,Female,26-03-2015,Canazei,ITA,Netherlands,National Championships,Parallel GS,26,0.00
+234,Dekker Michelle,Female,22-03-2015,Racines,ITA,Netherlands,European Cup,Parallel Slalom,22,
+235,Dekker Michelle,Female,21-03-2015,Racines,ITA,Netherlands,European Cup,Parallel Slalom,9,145.00
+236,Dekker Michelle,Female,18-03-2015,Rogla,SLO,Netherlands,European Cup,Parallel Slalom,17,56.00
+237,Dekker Michelle,Female,17-03-2015,Rogla,SLO,Netherlands,European Cup,Parallel GS,4,200.00
+238,Dekker Michelle,Female,14-03-2015,Winterberg,GER,Netherlands,World Cup,Parallel Slalom,19,120.00
+239,Dekker Michelle,Female,11-03-2015,Yabuli,CHN,Netherlands,FIS Junior World Championships,Parallel Slalom,5,162.00
+240,Dekker Michelle,Female,10-03-2015,Yabuli,CHN,Netherlands,FIS Junior World Championships,Parallel GS,2,288.00
+241,Dekker Michelle,Female,25-02-2015,Marianske Lazne,CZE,Netherlands,European Cup,Parallel Slalom,2,232.00
+242,Dekker Michelle,Female,24-02-2015,Marianske Lazne,CZE,Netherlands,European Cup,Parallel Slalom,3,174.00
+243,Dekker Michelle,Female,22-02-2015,Lenzerheide,SUI,Netherlands,European Cup,Parallel Slalom,2,360.00
+244,Dekker Michelle,Female,21-02-2015,Lenzerheide,SUI,Netherlands,European Cup,Parallel Slalom,21,50.00
+245,Dekker Michelle,Female,15-02-2015,Kayseri,TUR,Netherlands,European Cup,Parallel Slalom,6,128.00
+246,Dekker Michelle,Female,14-02-2015,Kayseri,TUR,Netherlands,European Cup,Parallel Slalom,2,288.00
+247,Dekker Michelle,Female,07-02-2015,Sudelfeld,GER,Netherlands,World Cup,Parallel GS,33,24.00
+248,Dekker Michelle,Female,06-02-2015,Sudelfeld,GER,Netherlands,Qualification,Parallel GS,33,
+249,Dekker Michelle,Female,31-01-2015,Rogla,SLO,Netherlands,World Cup,Parallel GS,15,160.00
+250,Dekker Michelle,Female,23-01-2015,Lachtal,AUT,Netherlands,World Championships,Parallel GS,25,60.00
+251,Dekker Michelle,Female,22-01-2015,Lachtal,AUT,Netherlands,World Championships,Parallel Slalom,23,80.00
+252,Dekker Michelle,Female,09-01-2015,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,11,240.00
+253,Dekker Michelle,Female,06-01-2015,Dachstein West / Gosau,AUT,Netherlands,FIS,Parallel Slalom,3,156.00
+254,Dekker Michelle,Female,05-01-2015,Dachstein West / Gosau,AUT,Netherlands,FIS,Parallel Slalom,1,260.00
+255,Dekker Michelle,Female,18-12-2014,Montafon,AUT,Netherlands,World Cup,Parallel Slalom,40,0.00
+256,Dekker Michelle,Female,16-12-2014,Carezza,ITA,Netherlands,World Cup,Parallel GS,DNF,
+257,Dekker Michelle,Female,10-10-2014,Landgraaf,NED,Netherlands,FIS,Parallel Slalom,1,260.00
+258,Dekker Michelle,Female,09-10-2014,Landgraaf,NED,Netherlands,National Championships,Parallel Slalom,1,360.00
+259,Dekker Michelle,Female,09-04-2014,Chiesa in Valmalenco,ITA,Netherlands,National Championships,Parallel Slalom,1,360.00
+260,Dekker Michelle,Female,08-04-2014,Chiesa in Valmalenco,ITA,Netherlands,National Championships,Parallel GS,10,93.60
+261,Dekker Michelle,Female,05-04-2014,Furtschellas,SUI,Netherlands,National Championships,Parallel GS,6,144.00
+262,Dekker Michelle,Female,25-03-2014,Chiesa in Valmalenco,ITA,Netherlands,FIS Junior World Championships,Parallel Slalom,2,288.00
+263,Dekker Michelle,Female,24-03-2014,Chiesa in Valmalenco,ITA,Netherlands,FIS Junior World Championships,Parallel GS,7,129.60
+264,Dekker Michelle,Female,09-03-2014,Tauplitz,AUT,Netherlands,FIS,Parallel Slalom,9,75.40
+265,Dekker Michelle,Female,08-03-2014,Tauplitz,AUT,Netherlands,FIS,Parallel Slalom,19,
+266,Dekker Michelle,Female,05-03-2014,Rogla,SLO,Netherlands,European Cup,Parallel Slalom,24,31.50
+267,Dekker Michelle,Female,04-03-2014,Rogla,SLO,Netherlands,European Cup,Parallel GS,13,90.00
+268,Dekker Michelle,Female,22-02-2014,Rosa Khutor,RUS,Netherlands,Olympic Winter Games,Parallel Slalom,19,120.00
+269,Dekker Michelle,Female,19-02-2014,Rosa Khutor,RUS,Netherlands,Olympic Winter Games,Parallel GS,22,90.00
+270,Dekker Michelle,Female,01-02-2014,Sudelfeld,GER,Netherlands,World Cup,Parallel GS,24,
+271,Dekker Michelle,Female,18-01-2014,Rogla,SLO,Netherlands,World Cup,Parallel GS,41,18.20
+272,Dekker Michelle,Female,12-01-2014,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,19,120.00
+273,Dekker Michelle,Female,10-01-2014,Bad Gastein,AUT,Netherlands,World Cup,Parallel Slalom,10,260.00
+274,Dekker Michelle,Female,22-12-2013,Schönberg-Lachtal,AUT,Netherlands,European Cup,Parallel Slalom,36,9.85
+275,Dekker Michelle,Female,21-12-2013,Schönberg-Lachtal,AUT,Netherlands,European Cup,Parallel Slalom,8,160.00
+276,Dekker Michelle,Female,15-12-2013,Samnaun,SUI,Netherlands,FIS,Parallel Slalom,3,156.00
+277,Dekker Michelle,Female,14-12-2013,Carezza,ITA,Netherlands,World Cup,Parallel Slalom,15,160.00
+278,Dekker Michelle,Female,13-12-2013,Carezza,ITA,Netherlands,World Cup,Parallel GS,39,18.80
+279,Dekker Michelle,Female,08-12-2013,Hochfügen,AUT,Netherlands,European Cup,Parallel GS,23,40.00
+280,Dekker Michelle,Female,07-12-2013,Hochfügen,AUT,Netherlands,European Cup,Parallel GS,19,60.00
+281,Dekker Michelle,Female,08-11-2013,Landgraaf,NED,Netherlands,FIS,Parallel Slalom,2,208.00
+282,Dekker Michelle,Female,07-11-2013,Landgraaf,NED,Netherlands,FIS,Parallel Slalom,3,156.00
+283,Dekker Michelle,Female,23-03-2013,Götschen,GER,Netherlands,National Championships,Parallel GS,16,54.00
+284,Dekker Michelle,Female,22-03-2013,Götschen,GER,Netherlands,National Championships,Parallel Slalom,4,180.00
+285,Dekker Michelle,Female,17-03-2013,Rogla,SLO,Netherlands,European Cup,Parallel Slalom,18,41.60
+286,Dekker Michelle,Female,16-03-2013,Rogla,SLO,Netherlands,European Cup,Parallel GS,14,57.60
+287,Dekker Michelle,Female,07-03-2013,Erzurum,TUR,Netherlands,FIS Junior World Championships,Parallel Slalom,12,79.20
+288,Dekker Michelle,Female,06-03-2013,Erzurum,TUR,Netherlands,FIS Junior World Championships,Parallel GS,12,79.20
+289,Dekker Michelle,Female,02-03-2013,Gerlitzen,AUT,Netherlands,European Cup,Parallel Slalom,2,400.00
+290,Dekker Michelle,Female,21-02-2013,Predeal,ROU,Netherlands,European Youth Olympic Festival,Parallel GS,3,72.00
+291,Dekker Michelle,Female,10-02-2013,Marianske Lazne,CZE,Netherlands,European Cup,Parallel Slalom,9,92.80
+292,Dekker Michelle,Female,09-02-2013,Marianske Lazne,CZE,Netherlands,European Cup,Parallel Slalom,17,44.80
+293,Dekker Michelle,Female,27-01-2013,Rossfeld,GER,Netherlands,Junior,Giant Slalom,2,104.00
+294,Dekker Michelle,Female,27-01-2013,Rossfeld,GER,Netherlands,Junior,Slalom,1,130.00
+295,Dekker Michelle,Female,26-01-2013,Rossfeld,GER,Netherlands,Junior,Giant Slalom,1,130.00
+296,Dekker Michelle,Female,26-01-2013,Rossfeld,GER,Netherlands,Junior,Slalom,1,130.00
+297,Dekker Michelle,Female,20-01-2013,Vratna - Paseky,SVK,Netherlands,European Cup,Parallel GS,19,31.20
+298,Dekker Michelle,Female,19-01-2013,Vratna - Paseky,SVK,Netherlands,European Cup,Parallel GS,14,52.20
+299,Dekker Michelle,Female,23-12-2012,Radstadt,AUT,Netherlands,FIS,Giant Slalom,10,62.40
+300,Dekker Michelle,Female,22-12-2012,Radstadt,AUT,Netherlands,FIS,Giant Slalom,5,108.00
+301,Dekker Michelle,Female,21-12-2012,Carezza,ITA,Netherlands,World Cup,Parallel GS,42,17.90
+302,Dekker Michelle,Female,16-12-2012,Racines/Ratschings,ITA,Netherlands,European Cup,Parallel Slalom,22,45.00
+303,Dekker Michelle,Female,15-12-2012,Racines/Ratschings,ITA,Netherlands,European Cup,Parallel Slalom,55,0.00
+304,Dekker Michelle,Female,08-12-2012,Lachtal,AUT,Netherlands,European Cup,Parallel GS,DNS,
+305,Dekker Michelle,Female,01-04-2012,Sils,SUI,Netherlands,National Championships,Parallel GS,11,86.40
+306,Dekker Michelle,Female,31-03-2012,St. Gallenkirch,AUT,Netherlands,National Championships,Parallel GS,14,64.80
+307,Dekker Michelle,Female,28-03-2012,Sierra Nevada,ESP,Netherlands,FIS Junior World Championships,Parallel Slalom,16,60.00
+308,Dekker Michelle,Female,27-03-2012,Sierra Nevada,ESP,Netherlands,FIS Junior World Championships,Parallel GS,22,36.00
+309,Dekker Michelle,Female,10-03-2012,Bad Gastein,AUT,Netherlands,European Cup,Parallel GS,26,14.50
+310,Dekker Michelle,Female,04-03-2012,Gerlitzen,AUT,Netherlands,FIS,Parallel Slalom,24,16.80
+311,Dekker Michelle,Female,03-03-2012,Gerlitzen,AUT,Netherlands,FIS,Parallel Slalom,24,16.80
+312,Dekker Michelle,Female,25-02-2012,Brauneck,GER,Netherlands,Junior,Giant Slalom,1,50.00
+313,Dekker Michelle,Female,25-02-2012,Brauneck,GER,Netherlands,Junior,Slalom,5,22.50
+314,Dekker Michelle,Female,12-02-2012,Marianske Lazne,CZE,Netherlands,European Cup,Parallel Slalom,7,104.40
+315,Dekker Michelle,Female,11-02-2012,Marianske Lazne,CZE,Netherlands,European Cup,Parallel Slalom,20,31.90
+316,Dekker Michelle,Female,05-02-2012,Ratschings-Racines,ITA,Netherlands,European Cup,Parallel Slalom,40,0.00
+317,Dekker Michelle,Female,29-01-2012,Adelboden,SUI,Netherlands,European Cup,Parallel GS,23,20.80
+318,Dekker Michelle,Female,22-01-2012,Valgardena-S. Cristina-Seceda,ITA,Netherlands,FIS,Slalom,6,80.00
+319,Dekker Michelle,Female,21-01-2012,Valgardena-S. Cristina-Seceda,ITA,Netherlands,FIS,Slalom,11,62.40
+320,Dekker Michelle,Female,08-01-2012,Kreischberg,AUT,Netherlands,FIS,Parallel GS,40,4.81
+321,Dekker Michelle,Female,07-01-2012,Kreischberg,AUT,Netherlands,FIS,Parallel GS,37,5.04

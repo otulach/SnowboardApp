@@ -1,113 +1,114 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Chollet Aidan,Male,08-03-2025,Gudauri,GEO,France,World Cup,Snowboard Cross,53,
-1,Chollet Aidan,Male,07-03-2025,Gudauri,GEO,France,Qualification,Snowboard Cross,53,
-2,Chollet Aidan,Male,01-03-2025,Erzurum,TUR,France,World Cup,Snowboard Cross,10,260.00
-3,Chollet Aidan,Male,28-02-2025,Erzurum,TUR,France,Qualification,Snowboard Cross,3,
-4,Chollet Aidan,Male,15-02-2025,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,13,
-5,Chollet Aidan,Male,15-02-2025,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,1,1000.00
-6,Chollet Aidan,Male,02-02-2025,Beidahu,CHN,France,World Cup,Snowboard Cross,20,110.00
-7,Chollet Aidan,Male,02-02-2025,Beidahu,CHN,France,Qualification,Snowboard Cross,18,
-8,Chollet Aidan,Male,01-02-2025,Beidahu,CHN,France,World Cup,Snowboard Cross,16,150.00
-9,Chollet Aidan,Male,31-01-2025,Beidahu,CHN,France,Qualification,Snowboard Cross,17,
-10,Chollet Aidan,Male,14-12-2024,Cervinia,ITA,France,World Cup,Snowboard Cross,6,400.00
-11,Chollet Aidan,Male,13-12-2024,Cervinia,ITA,France,Qualification,Snowboard Cross,3,
-12,Chollet Aidan,Male,27-11-2024,Pitztal,AUT,France,European Cup,Snowboard Cross,14,64.80
-13,Chollet Aidan,Male,27-11-2024,Pitztal,AUT,France,Qualification,Snowboard Cross,15,
-14,Chollet Aidan,Male,03-10-2024,Corralco,CHI,France,South American Cup,Snowboard Cross,2,288.00
-15,Chollet Aidan,Male,03-10-2024,Corralco,CHI,France,South American Cup,Snowboard Cross,3,216.00
-16,Chollet Aidan,Male,07-04-2024,Gudauri,GEO,France,FIS Junior World Championships,Snowboard Cross Team,2,
-17,Chollet Aidan,Male,06-04-2024,Gudauri,GEO,France,FIS Junior World Championships,Snowboard Cross,3,216.00
-18,Chollet Aidan,Male,05-04-2024,Gudauri,GEO,France,Qualification,Snowboard Cross,1,
-19,Chollet Aidan,Male,30-03-2024,Orcieres Merlette,FRA,France,National Championships,Snowboard Cross,3,174.00
-20,Chollet Aidan,Male,24-03-2024,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,11,240.00
-21,Chollet Aidan,Male,23-03-2024,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,11,240.00
-22,Chollet Aidan,Male,22-03-2024,Mt. St. Anne,CAN,France,Qualification,Snowboard Cross,16,
-23,Chollet Aidan,Male,17-03-2024,Montafon,AUT,France,World Cup,Snowboard Cross,11,240.00
-24,Chollet Aidan,Male,16-03-2024,Montafon,AUT,France,World Cup,Snowboard Cross,19,120.00
-25,Chollet Aidan,Male,15-03-2024,Montafon,AUT,France,Qualification,Snowboard Cross,7,
-26,Chollet Aidan,Male,09-03-2024,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,22,90.00
-27,Chollet Aidan,Male,08-03-2024,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,16,
-28,Chollet Aidan,Male,03-03-2024,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,4,500.00
-29,Chollet Aidan,Male,02-03-2024,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,9,290.00
-30,Chollet Aidan,Male,01-03-2024,Sierra Nevada,ESP,France,Qualification,Snowboard Cross,9,
-31,Chollet Aidan,Male,04-02-2024,Gudauri,GEO,France,World Cup,Snowboard Cross,6,400.00
-32,Chollet Aidan,Male,03-02-2024,Gudauri,GEO,France,World Cup,Snowboard Cross,13,200.00
-33,Chollet Aidan,Male,02-02-2024,Gudauri,GEO,France,Qualification,Snowboard Cross,14,
-34,Chollet Aidan,Male,26-01-2024,St. Moritz,SUI,France,World Cup,Snowboard Cross,42,17.90
-35,Chollet Aidan,Male,25-01-2024,St. Moritz,SUI,France,Qualification,Snowboard Cross,42,
-36,Chollet Aidan,Male,16-12-2023,Cervinia,ITA,France,World Cup,Snowboard Cross,6,400.00
-37,Chollet Aidan,Male,03-12-2023,Les Deux Alpes,FRA,France,Qualification,Snowboard Cross,25,
-38,Chollet Aidan,Male,03-12-2023,Les Deux Alpes,FRA,France,World Cup,Snowboard Cross,29,36.00
-39,Chollet Aidan,Male,02-12-2023,Les Deux Alpes,FRA,France,World Cup,Snowboard Cross Team,15,
-40,Chollet Aidan,Male,01-10-2023,Corralco,CHI,France,South American Cup,Snowboard Cross,1,360.00
-41,Chollet Aidan,Male,30-09-2023,Corralco,CHI,France,South American Cup,Snowboard Cross,23,28.80
-42,Chollet Aidan,Male,08-04-2023,Chamonix,FRA,France,National Championships,Snowboard Cross,1,290.00
-43,Chollet Aidan,Male,31-03-2023,Passo San Pellegrino,ITA,France,FIS Junior World Championships,Snowboard Cross Team,3,
-44,Chollet Aidan,Male,30-03-2023,Passo San Pellegrino,ITA,France,FIS Junior World Championships,Snowboard Cross,2,256.00
-45,Chollet Aidan,Male,26-03-2023,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,33,24.00
-46,Chollet Aidan,Male,25-03-2023,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,32,26.00
-47,Chollet Aidan,Male,24-03-2023,Mt. St. Anne,CAN,France,Qualification,Snowboard Cross,31,
-48,Chollet Aidan,Male,16-03-2023,Veysonnaz,SUI,France,World Cup,Snowboard Cross,24,70.00
-49,Chollet Aidan,Male,15-03-2023,Veysonnaz,SUI,France,Qualification,Snowboard Cross,31,
-50,Chollet Aidan,Male,12-03-2023,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,9,290.00
-51,Chollet Aidan,Male,11-03-2023,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,17,140.00
-52,Chollet Aidan,Male,01-03-2023,Bakuriani,GEO,France,World Championships,Snowboard Cross,25,60.00
-53,Chollet Aidan,Male,04-02-2023,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,6,400.00
-54,Chollet Aidan,Male,03-02-2023,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,2,
-55,Chollet Aidan,Male,22-01-2023,Puy St.Vincent,FRA,France,European Cup,Snowboard Cross,3,144.00
-56,Chollet Aidan,Male,21-01-2023,Puy St.Vincent,FRA,France,European Cup,Snowboard Cross,1,240.00
-57,Chollet Aidan,Male,15-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,5,162.00
-58,Chollet Aidan,Male,14-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,4,180.00
-59,Chollet Aidan,Male,08-01-2023,Isola 2000,FRA,France,Junior,Snowboard Cross,1,120.00
-60,Chollet Aidan,Male,07-01-2023,Isola 2000,FRA,France,European Cup,Snowboard Cross,1,240.00
-61,Chollet Aidan,Male,06-01-2023,Isola 2000,FRA,France,European Cup,Snowboard Cross,1,240.00
-62,Chollet Aidan,Male,04-12-2022,Les Deux Alpes,FRA,France,World Cup,Snowboard Cross,16,150.00
-63,Chollet Aidan,Male,02-12-2022,Les Deux Alpes,FRA,France,Qualification,Snowboard Cross,29,
-64,Chollet Aidan,Male,24-11-2022,Pitztal,AUT,France,European Cup,Snowboard Cross,8,76.80
-65,Chollet Aidan,Male,23-11-2022,Pitztal,AUT,France,Qualification,Snowboard Cross,8,
-66,Chollet Aidan,Male,08-04-2022,Isola 2000,FRA,France,National Championships,Snowboard Cross,9,84.10
-67,Chollet Aidan,Male,31-03-2022,Veysonnaz,SUI,France,FIS Junior World Championships,Snowboard Cross,33,6.24
-68,Chollet Aidan,Male,26-03-2022,Lenk,SUI,France,European Cup,Snowboard Cross,27,16.20
-69,Chollet Aidan,Male,25-03-2022,Lenk,SUI,France,European Cup,Snowboard Cross,6,144.00
-70,Chollet Aidan,Male,20-03-2022,Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,4,60.00
-71,Chollet Aidan,Male,19-03-2022,Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,3,72.00
-72,Chollet Aidan,Male,04-03-2022,Pitztal,AUT,France,Junior,Snowboard Cross,14,21.60
-73,Chollet Aidan,Male,03-03-2022,Pitztal,AUT,France,European Cup,Snowboard Cross,49,5.69
-74,Chollet Aidan,Male,02-03-2022,Pitztal,AUT,France,European Cup,Snowboard Cross,40,6.66
-75,Chollet Aidan,Male,27-02-2022,Grasgehren,GER,France,European Cup,Snowboard Cross,33,8.64
-76,Chollet Aidan,Male,26-02-2022,Grasgehren,GER,France,European Cup,Snowboard Cross,26,18.00
-77,Chollet Aidan,Male,13-02-2022,Grasgehren,GER,France,Junior,Snowboard Cross,1,120.00
-78,Chollet Aidan,Male,12-02-2022,Grasgehren,GER,France,Junior,Snowboard Cross,5,54.00
-79,Chollet Aidan,Male,06-02-2022,Dolni Morava,CZE,France,FIS,Snowboard Cross,16,18.00
-80,Chollet Aidan,Male,05-02-2022,Dolni Morava,CZE,France,FIS,Snowboard Cross,8,44.80
-81,Chollet Aidan,Male,16-01-2022,Baqueira Beret,ESP,France,FIS,Snowboard Cross,2,72.00
-82,Chollet Aidan,Male,15-12-2021,Reiteralm,AUT,France,Junior,Snowboard Cross,5,31.50
-83,Chollet Aidan,Male,14-12-2021,Reiteralm,AUT,France,FIS,Snowboard Cross,25,13.20
-84,Chollet Aidan,Male,13-12-2021,Reiteralm,AUT,France,FIS,Snowboard Cross,11,52.80
-85,Chollet Aidan,Male,31-10-2021,Les 2 Alpes,FRA,France,FIS,Snowboard Cross,3,96.00
-86,Chollet Aidan,Male,30-10-2021,Les 2 Alpes,FRA,France,FIS,Snowboard Cross,17,30.80
-87,Chollet Aidan,Male,12-03-2021,Lenk,SUI,France,European Cup,Snowboard Cross,42,4.30
-88,Chollet Aidan,Male,07-03-2021,Montafon/Gargellen,AUT,France,European Cup,Snowboard Cross,33,4.32
-89,Chollet Aidan,Male,06-03-2021,Montafon/Gargellen,AUT,France,European Cup,Snowboard Cross,43,3.17
-90,Chollet Aidan,Male,28-02-2021,Reiteralm,AUT,France,European Cup,Snowboard Cross,38,3.44
-91,Chollet Aidan,Male,27-02-2021,Reiteralm,AUT,France,European Cup,Snowboard Cross,47,2.95
-92,Chollet Aidan,Male,13-02-2021,Chiesa in Valmalenco,ITA,France,European Cup,Snowboard Cross,25,15.60
-93,Chollet Aidan,Male,12-02-2021,Chiesa in Valmalenco,ITA,France,European Cup,Snowboard Cross,22,23.40
-94,Chollet Aidan,Male,03-02-2021,Isola 2000,FRA,France,European Cup,Snowboard Cross,17,22.40
-95,Chollet Aidan,Male,31-01-2021,Isola 2000,FRA,France,European Cup,Snowboard Cross,28,10.40
-96,Chollet Aidan,Male,30-01-2021,Isola 2000,FRA,France,European Cup,Snowboard Cross,32,9.36
-97,Chollet Aidan,Male,28-01-2021,Isola 2000,FRA,France,Junior,Snowboard Cross,14,12.60
-98,Chollet Aidan,Male,27-01-2021,Isola 2000,FRA,France,Junior,Snowboard Cross,4,35.00
-99,Chollet Aidan,Male,16-01-2021,Crans-Montana,SUI,France,FIS,Snowboard Cross,17,30.80
-100,Chollet Aidan,Male,08-03-2020,Kuehtai,AUT,France,Junior,Snowboard Cross,29,4.68
-101,Chollet Aidan,Male,07-03-2020,Kuehtai,AUT,France,Junior,Snowboard Cross,6,52.00
-102,Chollet Aidan,Male,23-02-2020,Folgaria,ITA,France,Junior,Snowboard Cross,7,25.20
-103,Chollet Aidan,Male,22-02-2020,Folgaria,ITA,France,Junior,Snowboard Cross,3,42.00
-104,Chollet Aidan,Male,16-02-2020,Flumserberg,SUI,France,FIS,Snowboard Cross,43,3.52
-105,Chollet Aidan,Male,15-02-2020,Flumserberg,SUI,France,FIS,Snowboard Cross,37,2.91
-106,Chollet Aidan,Male,26-01-2020,Grasgehren,GER,France,Junior,Snowboard Cross,10,31.20
-107,Chollet Aidan,Male,25-01-2020,Grasgehren,GER,France,Junior,Snowboard Cross,9,34.80
-108,Chollet Aidan,Male,20-12-2019,Isola 2000,FRA,France,Junior,Snowboard Cross,31,1.40
-109,Chollet Aidan,Male,19-12-2019,Isola 2000,FRA,France,Junior,Snowboard Cross,9,20.30
-110,Chollet Aidan,Male,01-12-2019,Pitztal,AUT,France,Junior,Snowboard Cross,59,1.79
-111,Chollet Aidan,Male,30-11-2019,Pitztal,AUT,France,Junior,Snowboard Cross,36,2.76
+0,Chollet Aidan,Male,09-03-2025,Gudauri,GEO,France,World Cup,Snowboard Cross,10,
+1,Chollet Aidan,Male,08-03-2025,Gudauri,GEO,France,World Cup,Snowboard Cross,53,
+2,Chollet Aidan,Male,07-03-2025,Gudauri,GEO,France,Qualification,Snowboard Cross,53,
+3,Chollet Aidan,Male,01-03-2025,Erzurum,TUR,France,World Cup,Snowboard Cross,10,260.00
+4,Chollet Aidan,Male,28-02-2025,Erzurum,TUR,France,Qualification,Snowboard Cross,3,
+5,Chollet Aidan,Male,15-02-2025,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,13,
+6,Chollet Aidan,Male,15-02-2025,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,1,1000.00
+7,Chollet Aidan,Male,02-02-2025,Beidahu,CHN,France,World Cup,Snowboard Cross,20,110.00
+8,Chollet Aidan,Male,02-02-2025,Beidahu,CHN,France,Qualification,Snowboard Cross,18,
+9,Chollet Aidan,Male,01-02-2025,Beidahu,CHN,France,World Cup,Snowboard Cross,16,150.00
+10,Chollet Aidan,Male,31-01-2025,Beidahu,CHN,France,Qualification,Snowboard Cross,17,
+11,Chollet Aidan,Male,14-12-2024,Cervinia,ITA,France,World Cup,Snowboard Cross,6,400.00
+12,Chollet Aidan,Male,13-12-2024,Cervinia,ITA,France,Qualification,Snowboard Cross,3,
+13,Chollet Aidan,Male,27-11-2024,Pitztal,AUT,France,European Cup,Snowboard Cross,14,64.80
+14,Chollet Aidan,Male,27-11-2024,Pitztal,AUT,France,Qualification,Snowboard Cross,15,
+15,Chollet Aidan,Male,03-10-2024,Corralco,CHI,France,South American Cup,Snowboard Cross,2,288.00
+16,Chollet Aidan,Male,03-10-2024,Corralco,CHI,France,South American Cup,Snowboard Cross,3,216.00
+17,Chollet Aidan,Male,07-04-2024,Gudauri,GEO,France,FIS Junior World Championships,Snowboard Cross Team,2,
+18,Chollet Aidan,Male,06-04-2024,Gudauri,GEO,France,FIS Junior World Championships,Snowboard Cross,3,216.00
+19,Chollet Aidan,Male,05-04-2024,Gudauri,GEO,France,Qualification,Snowboard Cross,1,
+20,Chollet Aidan,Male,30-03-2024,Orcieres Merlette,FRA,France,National Championships,Snowboard Cross,3,174.00
+21,Chollet Aidan,Male,24-03-2024,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,11,240.00
+22,Chollet Aidan,Male,23-03-2024,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,11,240.00
+23,Chollet Aidan,Male,22-03-2024,Mt. St. Anne,CAN,France,Qualification,Snowboard Cross,16,
+24,Chollet Aidan,Male,17-03-2024,Montafon,AUT,France,World Cup,Snowboard Cross,11,240.00
+25,Chollet Aidan,Male,16-03-2024,Montafon,AUT,France,World Cup,Snowboard Cross,19,120.00
+26,Chollet Aidan,Male,15-03-2024,Montafon,AUT,France,Qualification,Snowboard Cross,7,
+27,Chollet Aidan,Male,09-03-2024,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,22,90.00
+28,Chollet Aidan,Male,08-03-2024,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,16,
+29,Chollet Aidan,Male,03-03-2024,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,4,500.00
+30,Chollet Aidan,Male,02-03-2024,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,9,290.00
+31,Chollet Aidan,Male,01-03-2024,Sierra Nevada,ESP,France,Qualification,Snowboard Cross,9,
+32,Chollet Aidan,Male,04-02-2024,Gudauri,GEO,France,World Cup,Snowboard Cross,6,400.00
+33,Chollet Aidan,Male,03-02-2024,Gudauri,GEO,France,World Cup,Snowboard Cross,13,200.00
+34,Chollet Aidan,Male,02-02-2024,Gudauri,GEO,France,Qualification,Snowboard Cross,14,
+35,Chollet Aidan,Male,26-01-2024,St. Moritz,SUI,France,World Cup,Snowboard Cross,42,17.90
+36,Chollet Aidan,Male,25-01-2024,St. Moritz,SUI,France,Qualification,Snowboard Cross,42,
+37,Chollet Aidan,Male,16-12-2023,Cervinia,ITA,France,World Cup,Snowboard Cross,6,400.00
+38,Chollet Aidan,Male,03-12-2023,Les Deux Alpes,FRA,France,Qualification,Snowboard Cross,25,
+39,Chollet Aidan,Male,03-12-2023,Les Deux Alpes,FRA,France,World Cup,Snowboard Cross,29,36.00
+40,Chollet Aidan,Male,02-12-2023,Les Deux Alpes,FRA,France,World Cup,Snowboard Cross Team,15,
+41,Chollet Aidan,Male,01-10-2023,Corralco,CHI,France,South American Cup,Snowboard Cross,1,360.00
+42,Chollet Aidan,Male,30-09-2023,Corralco,CHI,France,South American Cup,Snowboard Cross,23,28.80
+43,Chollet Aidan,Male,08-04-2023,Chamonix,FRA,France,National Championships,Snowboard Cross,1,290.00
+44,Chollet Aidan,Male,31-03-2023,Passo San Pellegrino,ITA,France,FIS Junior World Championships,Snowboard Cross Team,3,
+45,Chollet Aidan,Male,30-03-2023,Passo San Pellegrino,ITA,France,FIS Junior World Championships,Snowboard Cross,2,256.00
+46,Chollet Aidan,Male,26-03-2023,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,33,24.00
+47,Chollet Aidan,Male,25-03-2023,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,32,26.00
+48,Chollet Aidan,Male,24-03-2023,Mt. St. Anne,CAN,France,Qualification,Snowboard Cross,31,
+49,Chollet Aidan,Male,16-03-2023,Veysonnaz,SUI,France,World Cup,Snowboard Cross,24,70.00
+50,Chollet Aidan,Male,15-03-2023,Veysonnaz,SUI,France,Qualification,Snowboard Cross,31,
+51,Chollet Aidan,Male,12-03-2023,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,9,290.00
+52,Chollet Aidan,Male,11-03-2023,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,17,140.00
+53,Chollet Aidan,Male,01-03-2023,Bakuriani,GEO,France,World Championships,Snowboard Cross,25,60.00
+54,Chollet Aidan,Male,04-02-2023,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,6,400.00
+55,Chollet Aidan,Male,03-02-2023,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,2,
+56,Chollet Aidan,Male,22-01-2023,Puy St.Vincent,FRA,France,European Cup,Snowboard Cross,3,144.00
+57,Chollet Aidan,Male,21-01-2023,Puy St.Vincent,FRA,France,European Cup,Snowboard Cross,1,240.00
+58,Chollet Aidan,Male,15-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,5,162.00
+59,Chollet Aidan,Male,14-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,4,180.00
+60,Chollet Aidan,Male,08-01-2023,Isola 2000,FRA,France,Junior,Snowboard Cross,1,120.00
+61,Chollet Aidan,Male,07-01-2023,Isola 2000,FRA,France,European Cup,Snowboard Cross,1,240.00
+62,Chollet Aidan,Male,06-01-2023,Isola 2000,FRA,France,European Cup,Snowboard Cross,1,240.00
+63,Chollet Aidan,Male,04-12-2022,Les Deux Alpes,FRA,France,World Cup,Snowboard Cross,16,150.00
+64,Chollet Aidan,Male,02-12-2022,Les Deux Alpes,FRA,France,Qualification,Snowboard Cross,29,
+65,Chollet Aidan,Male,24-11-2022,Pitztal,AUT,France,European Cup,Snowboard Cross,8,76.80
+66,Chollet Aidan,Male,23-11-2022,Pitztal,AUT,France,Qualification,Snowboard Cross,8,
+67,Chollet Aidan,Male,08-04-2022,Isola 2000,FRA,France,National Championships,Snowboard Cross,9,84.10
+68,Chollet Aidan,Male,31-03-2022,Veysonnaz,SUI,France,FIS Junior World Championships,Snowboard Cross,33,6.24
+69,Chollet Aidan,Male,26-03-2022,Lenk,SUI,France,European Cup,Snowboard Cross,27,16.20
+70,Chollet Aidan,Male,25-03-2022,Lenk,SUI,France,European Cup,Snowboard Cross,6,144.00
+71,Chollet Aidan,Male,20-03-2022,Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,4,60.00
+72,Chollet Aidan,Male,19-03-2022,Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,3,72.00
+73,Chollet Aidan,Male,04-03-2022,Pitztal,AUT,France,Junior,Snowboard Cross,14,21.60
+74,Chollet Aidan,Male,03-03-2022,Pitztal,AUT,France,European Cup,Snowboard Cross,49,5.69
+75,Chollet Aidan,Male,02-03-2022,Pitztal,AUT,France,European Cup,Snowboard Cross,40,6.66
+76,Chollet Aidan,Male,27-02-2022,Grasgehren,GER,France,European Cup,Snowboard Cross,33,8.64
+77,Chollet Aidan,Male,26-02-2022,Grasgehren,GER,France,European Cup,Snowboard Cross,26,18.00
+78,Chollet Aidan,Male,13-02-2022,Grasgehren,GER,France,Junior,Snowboard Cross,1,120.00
+79,Chollet Aidan,Male,12-02-2022,Grasgehren,GER,France,Junior,Snowboard Cross,5,54.00
+80,Chollet Aidan,Male,06-02-2022,Dolni Morava,CZE,France,FIS,Snowboard Cross,16,18.00
+81,Chollet Aidan,Male,05-02-2022,Dolni Morava,CZE,France,FIS,Snowboard Cross,8,44.80
+82,Chollet Aidan,Male,16-01-2022,Baqueira Beret,ESP,France,FIS,Snowboard Cross,2,72.00
+83,Chollet Aidan,Male,15-12-2021,Reiteralm,AUT,France,Junior,Snowboard Cross,5,31.50
+84,Chollet Aidan,Male,14-12-2021,Reiteralm,AUT,France,FIS,Snowboard Cross,25,13.20
+85,Chollet Aidan,Male,13-12-2021,Reiteralm,AUT,France,FIS,Snowboard Cross,11,52.80
+86,Chollet Aidan,Male,31-10-2021,Les 2 Alpes,FRA,France,FIS,Snowboard Cross,3,96.00
+87,Chollet Aidan,Male,30-10-2021,Les 2 Alpes,FRA,France,FIS,Snowboard Cross,17,30.80
+88,Chollet Aidan,Male,12-03-2021,Lenk,SUI,France,European Cup,Snowboard Cross,42,4.30
+89,Chollet Aidan,Male,07-03-2021,Montafon/Gargellen,AUT,France,European Cup,Snowboard Cross,33,4.32
+90,Chollet Aidan,Male,06-03-2021,Montafon/Gargellen,AUT,France,European Cup,Snowboard Cross,43,3.17
+91,Chollet Aidan,Male,28-02-2021,Reiteralm,AUT,France,European Cup,Snowboard Cross,38,3.44
+92,Chollet Aidan,Male,27-02-2021,Reiteralm,AUT,France,European Cup,Snowboard Cross,47,2.95
+93,Chollet Aidan,Male,13-02-2021,Chiesa in Valmalenco,ITA,France,European Cup,Snowboard Cross,25,15.60
+94,Chollet Aidan,Male,12-02-2021,Chiesa in Valmalenco,ITA,France,European Cup,Snowboard Cross,22,23.40
+95,Chollet Aidan,Male,03-02-2021,Isola 2000,FRA,France,European Cup,Snowboard Cross,17,22.40
+96,Chollet Aidan,Male,31-01-2021,Isola 2000,FRA,France,European Cup,Snowboard Cross,28,10.40
+97,Chollet Aidan,Male,30-01-2021,Isola 2000,FRA,France,European Cup,Snowboard Cross,32,9.36
+98,Chollet Aidan,Male,28-01-2021,Isola 2000,FRA,France,Junior,Snowboard Cross,14,12.60
+99,Chollet Aidan,Male,27-01-2021,Isola 2000,FRA,France,Junior,Snowboard Cross,4,35.00
+100,Chollet Aidan,Male,16-01-2021,Crans-Montana,SUI,France,FIS,Snowboard Cross,17,30.80
+101,Chollet Aidan,Male,08-03-2020,Kuehtai,AUT,France,Junior,Snowboard Cross,29,4.68
+102,Chollet Aidan,Male,07-03-2020,Kuehtai,AUT,France,Junior,Snowboard Cross,6,52.00
+103,Chollet Aidan,Male,23-02-2020,Folgaria,ITA,France,Junior,Snowboard Cross,7,25.20
+104,Chollet Aidan,Male,22-02-2020,Folgaria,ITA,France,Junior,Snowboard Cross,3,42.00
+105,Chollet Aidan,Male,16-02-2020,Flumserberg,SUI,France,FIS,Snowboard Cross,43,3.52
+106,Chollet Aidan,Male,15-02-2020,Flumserberg,SUI,France,FIS,Snowboard Cross,37,2.91
+107,Chollet Aidan,Male,26-01-2020,Grasgehren,GER,France,Junior,Snowboard Cross,10,31.20
+108,Chollet Aidan,Male,25-01-2020,Grasgehren,GER,France,Junior,Snowboard Cross,9,34.80
+109,Chollet Aidan,Male,20-12-2019,Isola 2000,FRA,France,Junior,Snowboard Cross,31,1.40
+110,Chollet Aidan,Male,19-12-2019,Isola 2000,FRA,France,Junior,Snowboard Cross,9,20.30
+111,Chollet Aidan,Male,01-12-2019,Pitztal,AUT,France,Junior,Snowboard Cross,59,1.79
+112,Chollet Aidan,Male,30-11-2019,Pitztal,AUT,France,Junior,Snowboard Cross,36,2.76

@@ -1,41 +1,43 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Fedorowycz Lys,Male,05-03-2025,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,33,8.00
-1,Fedorowycz Lys,Male,04-03-2025,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,16,51.20
-2,Fedorowycz Lys,Male,26-02-2025,Winsport Calgary,CAN,United States Of America,Nor-Am Cup Premium,Big Air,37,3.00
-3,Fedorowycz Lys,Male,25-02-2025,Winsport Calgary,CAN,United States Of America,Nor-Am Cup Premium,Slopestyle,10,113.70
-4,Fedorowycz Lys,Male,12-02-2025,Aspen / Highlands,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,37,11.90
-5,Fedorowycz Lys,Male,06-02-2025,Aspen,USA,United States Of America,World Cup,Big Air,47,15.60
-6,Fedorowycz Lys,Male,05-02-2025,Aspen,USA,United States Of America,Qualification,Big Air,23,
-7,Fedorowycz Lys,Male,13-01-2025,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,16,25.80
-8,Fedorowycz Lys,Male,17-08-2024,The Remarkables,NZL,United States Of America,Australian New Zealand Cup,Slopestyle,21,19.80
-9,Fedorowycz Lys,Male,04-04-2024,"Copper Mountain, CO",USA,United States Of America,National Championships,Slopestyle,8,32.20
-10,Fedorowycz Lys,Male,30-03-2024,"Copper Mountain, CO",USA,United States Of America,National Championships,Rail Event,4,
-11,Fedorowycz Lys,Male,17-03-2024,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,7,58.20
-12,Fedorowycz Lys,Male,12-03-2024,Laax,SUI,United States Of America,European Cup Premium,Slopestyle,66,15.10
-13,Fedorowycz Lys,Male,16-02-2024,Woodward - Park City,USA,United States Of America,FIS,Slopestyle,DNS,
-14,Fedorowycz Lys,Male,08-02-2024,Mammoth Mountain,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,20,78.90
-15,Fedorowycz Lys,Male,26-01-2024,Copper Mountain,USA,United States Of America,Nor-Am Cup,Slopestyle,37,0.10
-16,Fedorowycz Lys,Male,18-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Big Air,37,9.50
-17,Fedorowycz Lys,Male,17-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,46,6.00
-18,Fedorowycz Lys,Male,06-04-2023,Copper Mountain Resort,USA,United States Of America,National Championships,Slopestyle,26,10.50
-19,Fedorowycz Lys,Male,01-03-2023,Northstar California Resorts,USA,United States Of America,FIS,Slopestyle,7,22.50
-20,Fedorowycz Lys,Male,15-02-2023,Mammoth Mountain,USA,United States Of America,FIS,Slopestyle,12,11.70
-21,Fedorowycz Lys,Male,10-02-2023,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,DNS,
-22,Fedorowycz Lys,Male,03-02-2023,Woodward - Park City,USA,United States Of America,FIS,Slopestyle,9,15.20
-23,Fedorowycz Lys,Male,26-01-2023,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,26,29.30
-24,Fedorowycz Lys,Male,19-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Slopestyle,9,24.50
-25,Fedorowycz Lys,Male,08-01-2022,Mammoth Mountain,USA,United States Of America,World Cup,Halfpipe,34,11.80
-26,Fedorowycz Lys,Male,08-01-2022,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,29,105.00
-27,Fedorowycz Lys,Male,25-03-2021,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Halfpipe,5,27.28
-28,Fedorowycz Lys,Male,24-03-2021,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Slopestyle,35,1.23
-29,Fedorowycz Lys,Male,05-03-2021,Copper Mountain,USA,United States Of America,National Championships,Halfpipe,17,41.71
-30,Fedorowycz Lys,Male,04-03-2021,Copper Mountain,USA,United States Of America,National Championships,Slopestyle,41,5.12
-31,Fedorowycz Lys,Male,26-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Big Air,7,37.94
-32,Fedorowycz Lys,Male,25-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Halfpipe,8,81.33
-33,Fedorowycz Lys,Male,24-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Slopestyle,23,70.45
-34,Fedorowycz Lys,Male,01-03-2020,Park City,USA,United States Of America,FIS,Halfpipe,4,25.00
-35,Fedorowycz Lys,Male,29-02-2020,Park City,USA,United States Of America,FIS,Slopestyle,29,1.80
-36,Fedorowycz Lys,Male,13-02-2020,Mammoth Mountain Ski Resortt,USA,United States Of America,FIS,Halfpipe,3,30.00
-37,Fedorowycz Lys,Male,11-02-2020,Mammoth Mountain Ski Resortt,USA,United States Of America,FIS,Slopestyle,23,4.00
-38,Fedorowycz Lys,Male,07-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,40,4.44
-39,Fedorowycz Lys,Male,06-12-2019,Copper Mountain Resort,USA,United States Of America,FIS,Halfpipe,17,30.80
+0,Fedorowycz Lys,Male,10-03-2025,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Big Air,12,28.10
+1,Fedorowycz Lys,Male,09-03-2025,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,9,50.10
+2,Fedorowycz Lys,Male,05-03-2025,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,33,8.00
+3,Fedorowycz Lys,Male,04-03-2025,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,16,51.20
+4,Fedorowycz Lys,Male,26-02-2025,Winsport Calgary,CAN,United States Of America,Nor-Am Cup Premium,Big Air,37,3.00
+5,Fedorowycz Lys,Male,25-02-2025,Winsport Calgary,CAN,United States Of America,Nor-Am Cup Premium,Slopestyle,10,113.70
+6,Fedorowycz Lys,Male,12-02-2025,Aspen / Highlands,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,37,11.90
+7,Fedorowycz Lys,Male,06-02-2025,Aspen,USA,United States Of America,World Cup,Big Air,47,15.60
+8,Fedorowycz Lys,Male,05-02-2025,Aspen,USA,United States Of America,Qualification,Big Air,23,
+9,Fedorowycz Lys,Male,13-01-2025,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,16,25.80
+10,Fedorowycz Lys,Male,17-08-2024,The Remarkables,NZL,United States Of America,Australian New Zealand Cup,Slopestyle,21,19.80
+11,Fedorowycz Lys,Male,04-04-2024,"Copper Mountain, CO",USA,United States Of America,National Championships,Slopestyle,8,32.20
+12,Fedorowycz Lys,Male,30-03-2024,"Copper Mountain, CO",USA,United States Of America,National Championships,Rail Event,4,
+13,Fedorowycz Lys,Male,17-03-2024,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,7,58.20
+14,Fedorowycz Lys,Male,12-03-2024,Laax,SUI,United States Of America,European Cup Premium,Slopestyle,66,15.10
+15,Fedorowycz Lys,Male,16-02-2024,Woodward - Park City,USA,United States Of America,FIS,Slopestyle,DNS,
+16,Fedorowycz Lys,Male,08-02-2024,Mammoth Mountain,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,20,78.90
+17,Fedorowycz Lys,Male,26-01-2024,Copper Mountain,USA,United States Of America,Nor-Am Cup,Slopestyle,37,0.10
+18,Fedorowycz Lys,Male,18-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Big Air,37,9.50
+19,Fedorowycz Lys,Male,17-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,46,6.00
+20,Fedorowycz Lys,Male,06-04-2023,Copper Mountain Resort,USA,United States Of America,National Championships,Slopestyle,26,10.50
+21,Fedorowycz Lys,Male,01-03-2023,Northstar California Resorts,USA,United States Of America,FIS,Slopestyle,7,22.50
+22,Fedorowycz Lys,Male,15-02-2023,Mammoth Mountain,USA,United States Of America,FIS,Slopestyle,12,11.70
+23,Fedorowycz Lys,Male,10-02-2023,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,DNS,
+24,Fedorowycz Lys,Male,03-02-2023,Woodward - Park City,USA,United States Of America,FIS,Slopestyle,9,15.20
+25,Fedorowycz Lys,Male,26-01-2023,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,26,29.30
+26,Fedorowycz Lys,Male,19-01-2022,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Slopestyle,9,24.50
+27,Fedorowycz Lys,Male,08-01-2022,Mammoth Mountain,USA,United States Of America,World Cup,Halfpipe,34,11.80
+28,Fedorowycz Lys,Male,08-01-2022,Mammoth Mountain,USA,United States Of America,World Cup,Slopestyle,29,105.00
+29,Fedorowycz Lys,Male,25-03-2021,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Halfpipe,5,27.28
+30,Fedorowycz Lys,Male,24-03-2021,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Slopestyle,35,1.23
+31,Fedorowycz Lys,Male,05-03-2021,Copper Mountain,USA,United States Of America,National Championships,Halfpipe,17,41.71
+32,Fedorowycz Lys,Male,04-03-2021,Copper Mountain,USA,United States Of America,National Championships,Slopestyle,41,5.12
+33,Fedorowycz Lys,Male,26-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Big Air,7,37.94
+34,Fedorowycz Lys,Male,25-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Halfpipe,8,81.33
+35,Fedorowycz Lys,Male,24-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Slopestyle,23,70.45
+36,Fedorowycz Lys,Male,01-03-2020,Park City,USA,United States Of America,FIS,Halfpipe,4,25.00
+37,Fedorowycz Lys,Male,29-02-2020,Park City,USA,United States Of America,FIS,Slopestyle,29,1.80
+38,Fedorowycz Lys,Male,13-02-2020,Mammoth Mountain Ski Resortt,USA,United States Of America,FIS,Halfpipe,3,30.00
+39,Fedorowycz Lys,Male,11-02-2020,Mammoth Mountain Ski Resortt,USA,United States Of America,FIS,Slopestyle,23,4.00
+40,Fedorowycz Lys,Male,07-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,40,4.44
+41,Fedorowycz Lys,Male,06-12-2019,Copper Mountain Resort,USA,United States Of America,FIS,Halfpipe,17,30.80

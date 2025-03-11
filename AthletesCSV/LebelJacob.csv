@@ -1,55 +1,56 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Lebel Jacob,Male,07-03-2025,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,18,20.80
-1,Lebel Jacob,Male,06-03-2025,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,7,57.60
-2,Lebel Jacob,Male,02-03-2025,Gore Mountain Ski Area,USA,Canada,FIS,Snowboard Cross,3,42.00
-3,Lebel Jacob,Male,01-03-2025,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,17,22.40
-4,Lebel Jacob,Male,28-02-2025,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,18,20.80
-5,Lebel Jacob,Male,05-02-2025,Steamboat Ski and Resort / Mount Werner,USA,Canada,FIS,Snowboard Cross,6,36.00
-6,Lebel Jacob,Male,04-02-2025,Steamboat Ski and Resort / Mount Werner,USA,Canada,Nor-Am Cup,Snowboard Cross,14,28.80
-7,Lebel Jacob,Male,03-02-2025,Steamboat Ski and Resort / Mount Werner,USA,Canada,Nor-Am Cup,Snowboard Cross,12,35.20
-8,Lebel Jacob,Male,05-01-2025,Sun Peaks,CAN,Canada,Nor-Am Cup,Snowboard Cross,10,41.60
-9,Lebel Jacob,Male,04-01-2025,Sun Peaks,CAN,Canada,Nor-Am Cup,Snowboard Cross,7,57.60
-10,Lebel Jacob,Male,14-12-2024,Cervinia,ITA,Canada,World Cup,Snowboard Cross,69,
-11,Lebel Jacob,Male,13-12-2024,Cervinia,ITA,Canada,Qualification,Snowboard Cross,69,
-12,Lebel Jacob,Male,01-12-2024,Pitztal,AUT,Canada,Junior,Snowboard Cross,9,34.80
-13,Lebel Jacob,Male,30-11-2024,Pitztal,AUT,Canada,Qualification,Snowboard Cross,25,
+0,Lebel Jacob,Male,10-03-2025,Horseshoe Resort,CAN,Canada,National Junior Championships,Snowboard Cross,2,
+1,Lebel Jacob,Male,07-03-2025,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,18,20.80
+2,Lebel Jacob,Male,06-03-2025,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,7,57.60
+3,Lebel Jacob,Male,02-03-2025,Gore Mountain Ski Area,USA,Canada,FIS,Snowboard Cross,3,42.00
+4,Lebel Jacob,Male,01-03-2025,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,17,22.40
+5,Lebel Jacob,Male,28-02-2025,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,18,20.80
+6,Lebel Jacob,Male,05-02-2025,Steamboat Ski and Resort / Mount Werner,USA,Canada,FIS,Snowboard Cross,6,36.00
+7,Lebel Jacob,Male,04-02-2025,Steamboat Ski and Resort / Mount Werner,USA,Canada,Nor-Am Cup,Snowboard Cross,14,28.80
+8,Lebel Jacob,Male,03-02-2025,Steamboat Ski and Resort / Mount Werner,USA,Canada,Nor-Am Cup,Snowboard Cross,12,35.20
+9,Lebel Jacob,Male,05-01-2025,Sun Peaks,CAN,Canada,Nor-Am Cup,Snowboard Cross,10,41.60
+10,Lebel Jacob,Male,04-01-2025,Sun Peaks,CAN,Canada,Nor-Am Cup,Snowboard Cross,7,57.60
+11,Lebel Jacob,Male,14-12-2024,Cervinia,ITA,Canada,World Cup,Snowboard Cross,69,
+12,Lebel Jacob,Male,13-12-2024,Cervinia,ITA,Canada,Qualification,Snowboard Cross,69,
+13,Lebel Jacob,Male,01-12-2024,Pitztal,AUT,Canada,Junior,Snowboard Cross,9,34.80
 14,Lebel Jacob,Male,30-11-2024,Pitztal,AUT,Canada,Junior,Snowboard Cross,23,9.60
-15,Lebel Jacob,Male,27-11-2024,Pitztal,AUT,Canada,European Cup,Snowboard Cross,80,2.34
+15,Lebel Jacob,Male,30-11-2024,Pitztal,AUT,Canada,Qualification,Snowboard Cross,25,
 16,Lebel Jacob,Male,27-11-2024,Pitztal,AUT,Canada,Qualification,Snowboard Cross,81,
-17,Lebel Jacob,Male,03-10-2024,Corralco,CHI,Canada,South American Cup,Snowboard Cross,22,32.40
+17,Lebel Jacob,Male,27-11-2024,Pitztal,AUT,Canada,European Cup,Snowboard Cross,80,2.34
 18,Lebel Jacob,Male,03-10-2024,Corralco,CHI,Canada,South American Cup,Snowboard Cross,22,32.40
-19,Lebel Jacob,Male,06-04-2024,Gudauri,GEO,Canada,FIS Junior World Championships,Snowboard Cross,30,11.52
-20,Lebel Jacob,Male,05-04-2024,Gudauri,GEO,Canada,Qualification,Snowboard Cross,28,
-21,Lebel Jacob,Male,29-03-2024,Mt St. Anne,CAN,Canada,Nor-Am Cup,Snowboard Cross,11,48.00
-22,Lebel Jacob,Male,28-03-2024,Mt St. Anne,CAN,Canada,Nor-Am Cup,Snowboard Cross,20,24.20
-23,Lebel Jacob,Male,17-03-2024,Steamboat Ski and Resort / Mount Werner,USA,Canada,Nor-Am Cup,Snowboard Cross,6,64.00
-24,Lebel Jacob,Male,16-03-2024,Steamboat Ski and Resort / Mount Werner,USA,Canada,Nor-Am Cup,Snowboard Cross,3,96.00
-25,Lebel Jacob,Male,08-03-2024,Beaver Valley,CAN,Canada,National Junior Championships,Snowboard Cross,1,70.00
-26,Lebel Jacob,Male,28-02-2024,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,11,38.40
-27,Lebel Jacob,Male,27-02-2024,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,13,32.00
-28,Lebel Jacob,Male,22-02-2024,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,11,48.00
-29,Lebel Jacob,Male,21-02-2024,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,11,48.00
-30,Lebel Jacob,Male,04-02-2024,Val Saint Come,CAN,Canada,FIS,Snowboard Cross,2,40.00
-31,Lebel Jacob,Male,03-02-2024,Val Saint Come,CAN,Canada,FIS,Snowboard Cross,4,25.00
-32,Lebel Jacob,Male,02-04-2023,Mont Orignal,CAN,Canada,FIS,Snowboard Cross,2,40.00
-33,Lebel Jacob,Male,21-03-2023,Mt. Orignal,CAN,Canada,Junior,Snowboard Cross,12,26.40
-34,Lebel Jacob,Male,20-03-2023,Mt. Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,22,14.40
-35,Lebel Jacob,Male,17-03-2023,Horseshoe Resort,CAN,Canada,National Junior Championships,Snowboard Cross,14,19.80
-36,Lebel Jacob,Male,16-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,21,16.00
-37,Lebel Jacob,Male,15-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,19,19.20
-38,Lebel Jacob,Male,08-02-2023,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,12,35.20
-39,Lebel Jacob,Male,07-02-2023,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,19,19.20
-40,Lebel Jacob,Male,26-01-2023,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,23,12.80
-41,Lebel Jacob,Male,25-01-2023,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,18,20.80
-42,Lebel Jacob,Male,11-01-2023,Sunshine Village,CAN,Canada,Nor-Am Cup,Snowboard Cross,27,16.20
-43,Lebel Jacob,Male,27-11-2022,Pitztal,AUT,Canada,Junior,Snowboard Cross,49,2.53
-44,Lebel Jacob,Male,26-11-2022,Pitztal,AUT,Canada,Junior,Snowboard Cross,46,3.01
-45,Lebel Jacob,Male,25-11-2022,Pitztal,AUT,Canada,FIS,Snowboard Cross,65,2.42
-46,Lebel Jacob,Male,19-03-2022,Mt. Orignal,CAN,Canada,National Junior Championships,Snowboard Cross,28,5.60
-47,Lebel Jacob,Male,18-03-2022,Mt. Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,31,4.48
-48,Lebel Jacob,Male,12-03-2022,Beaver Valley,CAN,Canada,Nor-Am Cup,Snowboard Cross,30,5.12
-49,Lebel Jacob,Male,11-03-2022,Beaver Valley,CAN,Canada,Nor-Am Cup,Snowboard Cross,24,11.20
-50,Lebel Jacob,Male,07-02-2022,Gore Mountain,USA,Canada,Nor-Am Cup,Snowboard Cross,27,8.10
-51,Lebel Jacob,Male,06-02-2022,Gore Mountain,USA,Canada,Nor-Am Cup,Snowboard Cross,32,4.68
-52,Lebel Jacob,Male,13-01-2022,Sunshine Village,CAN,Canada,Nor-Am Cup,Snowboard Cross,34,3.52
-53,Lebel Jacob,Male,12-01-2022,Sunshine Village,CAN,Canada,Nor-Am Cup,Snowboard Cross,18,20.80
+19,Lebel Jacob,Male,03-10-2024,Corralco,CHI,Canada,South American Cup,Snowboard Cross,22,32.40
+20,Lebel Jacob,Male,06-04-2024,Gudauri,GEO,Canada,FIS Junior World Championships,Snowboard Cross,30,11.52
+21,Lebel Jacob,Male,05-04-2024,Gudauri,GEO,Canada,Qualification,Snowboard Cross,28,
+22,Lebel Jacob,Male,29-03-2024,Mt St. Anne,CAN,Canada,Nor-Am Cup,Snowboard Cross,11,48.00
+23,Lebel Jacob,Male,28-03-2024,Mt St. Anne,CAN,Canada,Nor-Am Cup,Snowboard Cross,20,24.20
+24,Lebel Jacob,Male,17-03-2024,Steamboat Ski and Resort / Mount Werner,USA,Canada,Nor-Am Cup,Snowboard Cross,6,64.00
+25,Lebel Jacob,Male,16-03-2024,Steamboat Ski and Resort / Mount Werner,USA,Canada,Nor-Am Cup,Snowboard Cross,3,96.00
+26,Lebel Jacob,Male,08-03-2024,Beaver Valley,CAN,Canada,National Junior Championships,Snowboard Cross,1,70.00
+27,Lebel Jacob,Male,28-02-2024,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,11,38.40
+28,Lebel Jacob,Male,27-02-2024,Sunday River Resort,USA,Canada,Nor-Am Cup,Snowboard Cross,13,32.00
+29,Lebel Jacob,Male,22-02-2024,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,11,48.00
+30,Lebel Jacob,Male,21-02-2024,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,11,48.00
+31,Lebel Jacob,Male,04-02-2024,Val Saint Come,CAN,Canada,FIS,Snowboard Cross,2,40.00
+32,Lebel Jacob,Male,03-02-2024,Val Saint Come,CAN,Canada,FIS,Snowboard Cross,4,25.00
+33,Lebel Jacob,Male,02-04-2023,Mont Orignal,CAN,Canada,FIS,Snowboard Cross,2,40.00
+34,Lebel Jacob,Male,21-03-2023,Mt. Orignal,CAN,Canada,Junior,Snowboard Cross,12,26.40
+35,Lebel Jacob,Male,20-03-2023,Mt. Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,22,14.40
+36,Lebel Jacob,Male,17-03-2023,Horseshoe Resort,CAN,Canada,National Junior Championships,Snowboard Cross,14,19.80
+37,Lebel Jacob,Male,16-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,21,16.00
+38,Lebel Jacob,Male,15-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,19,19.20
+39,Lebel Jacob,Male,08-02-2023,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,12,35.20
+40,Lebel Jacob,Male,07-02-2023,Gore Mountain Ski Area,USA,Canada,Nor-Am Cup,Snowboard Cross,19,19.20
+41,Lebel Jacob,Male,26-01-2023,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,23,12.80
+42,Lebel Jacob,Male,25-01-2023,Big White Ski Resort,CAN,Canada,Nor-Am Cup,Snowboard Cross,18,20.80
+43,Lebel Jacob,Male,11-01-2023,Sunshine Village,CAN,Canada,Nor-Am Cup,Snowboard Cross,27,16.20
+44,Lebel Jacob,Male,27-11-2022,Pitztal,AUT,Canada,Junior,Snowboard Cross,49,2.53
+45,Lebel Jacob,Male,26-11-2022,Pitztal,AUT,Canada,Junior,Snowboard Cross,46,3.01
+46,Lebel Jacob,Male,25-11-2022,Pitztal,AUT,Canada,FIS,Snowboard Cross,65,2.42
+47,Lebel Jacob,Male,19-03-2022,Mt. Orignal,CAN,Canada,National Junior Championships,Snowboard Cross,28,5.60
+48,Lebel Jacob,Male,18-03-2022,Mt. Orignal,CAN,Canada,Nor-Am Cup,Snowboard Cross,31,4.48
+49,Lebel Jacob,Male,12-03-2022,Beaver Valley,CAN,Canada,Nor-Am Cup,Snowboard Cross,30,5.12
+50,Lebel Jacob,Male,11-03-2022,Beaver Valley,CAN,Canada,Nor-Am Cup,Snowboard Cross,24,11.20
+51,Lebel Jacob,Male,07-02-2022,Gore Mountain,USA,Canada,Nor-Am Cup,Snowboard Cross,27,8.10
+52,Lebel Jacob,Male,06-02-2022,Gore Mountain,USA,Canada,Nor-Am Cup,Snowboard Cross,32,4.68
+53,Lebel Jacob,Male,13-01-2022,Sunshine Village,CAN,Canada,Nor-Am Cup,Snowboard Cross,34,3.52
+54,Lebel Jacob,Male,12-01-2022,Sunshine Village,CAN,Canada,Nor-Am Cup,Snowboard Cross,18,20.80

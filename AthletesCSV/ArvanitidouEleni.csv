@@ -1,89 +1,90 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Arvanitidou Eleni,Female,08-03-2025,Kalavrita,GRE,Greece,National Championships,Slopestyle,1,
-1,Arvanitidou Eleni,Female,15-02-2025,Seli ,GRE,Greece,National Championships,Slalom,4,25.00
-2,Arvanitidou Eleni,Female,14-02-2025,Seli ,GRE,Greece,National Championships,Giant Slalom,5,22.50
-3,Arvanitidou Eleni,Female,14-02-2025,Seli ,GRE,Greece,FIS,Giant Slalom,4,25.00
-4,Arvanitidou Eleni,Female,26-01-2025,Anilio,GRE,Greece,National Championships,Rail Event,DNS,
-5,Arvanitidou Eleni,Female,25-01-2025,Anilio,GRE,Greece,FIS,Slopestyle,DNS,
-6,Arvanitidou Eleni,Female,05-10-2024,SnowWorld Landgraaf,NED,Greece,FIS,Rail Event,10,8.50
-7,Arvanitidou Eleni,Female,04-10-2024,SnowWorld Landgraaf,NED,Greece,FIS,Slopestyle,11,10.70
-8,Arvanitidou Eleni,Female,03-10-2024,SnowWorld Landgraaf,NED,Greece,FIS,Slopestyle,12,9.00
-9,Arvanitidou Eleni,Female,08-03-2024,Voras,GRE,Greece,National Championships,Big Air,1,50.00
-10,Arvanitidou Eleni,Female,07-03-2024,Voras,GRE,Greece,FIS,Slopestyle,3,29.90
-11,Arvanitidou Eleni,Female,01-03-2024,Kopaonik,SRB,Greece,FIS,Big Air,1,50.00
-12,Arvanitidou Eleni,Female,29-02-2024,Kopaonik,SRB,Greece,FIS,Slopestyle,1,50.00
-13,Arvanitidou Eleni,Female,09-12-2023,Pitztal,AUT,Greece,Junior,Snowboard Cross,37,
-14,Arvanitidou Eleni,Female,13-10-2023,SnowWorld Landgraaf,NED,Greece,FIS,Slopestyle,14,0.10
-15,Arvanitidou Eleni,Female,12-10-2023,SnowWorld Landgraaf,NED,Greece,FIS,Slopestyle,13,2.50
-16,Arvanitidou Eleni,Female,28-03-2023,Bansko,BUL,Greece,National Championships,Parallel Slalom,10,18.20
-17,Arvanitidou Eleni,Female,27-03-2023,Bansko,BUL,Greece,National Championships,Parallel Giant Slalom,16,16.50
-18,Arvanitidou Eleni,Female,26-03-2023,Bansko,BUL,Greece,FIS Junior World Championships,Parallel Team,27,
-19,Arvanitidou Eleni,Female,25-03-2023,Bansko,BUL,Greece,FIS Junior World Championships,Parallel Slalom,39,
-20,Arvanitidou Eleni,Female,25-03-2023,Bansko,BUL,Greece,Qualification,Parallel Slalom,39,
-21,Arvanitidou Eleni,Female,24-03-2023,Bansko,BUL,Greece,FIS Junior World Championships,Parallel Giant Slalom,38,
-22,Arvanitidou Eleni,Female,24-03-2023,Bansko,BUL,Greece,Qualification,Parallel Giant Slalom,38,
-23,Arvanitidou Eleni,Female,19-03-2023,Kalavrita,GRE,Greece,FIS,Big Air,2,39.60
-24,Arvanitidou Eleni,Female,18-03-2023,Kalavrita,GRE,Greece,FIS,Slopestyle,4,24.80
-25,Arvanitidou Eleni,Female,12-02-2023,Seli,GRE,Greece,National Championships,Slalom,6,20.00
-26,Arvanitidou Eleni,Female,11-02-2023,Seli,GRE,Greece,FIS,Giant Slalom,4,25.00
+0,Arvanitidou Eleni,Female,09-03-2025,Kalavrita,GRE,Greece,National Championships,Big Air,1,50.00
+1,Arvanitidou Eleni,Female,08-03-2025,Kalavrita,GRE,Greece,National Championships,Slopestyle,1,50.00
+2,Arvanitidou Eleni,Female,15-02-2025,Seli ,GRE,Greece,National Championships,Slalom,4,25.00
+3,Arvanitidou Eleni,Female,14-02-2025,Seli ,GRE,Greece,National Championships,Giant Slalom,5,22.50
+4,Arvanitidou Eleni,Female,14-02-2025,Seli ,GRE,Greece,FIS,Giant Slalom,4,25.00
+5,Arvanitidou Eleni,Female,26-01-2025,Anilio,GRE,Greece,National Championships,Rail Event,DNS,
+6,Arvanitidou Eleni,Female,25-01-2025,Anilio,GRE,Greece,FIS,Slopestyle,DNS,
+7,Arvanitidou Eleni,Female,05-10-2024,SnowWorld Landgraaf,NED,Greece,FIS,Rail Event,10,8.50
+8,Arvanitidou Eleni,Female,04-10-2024,SnowWorld Landgraaf,NED,Greece,FIS,Slopestyle,11,10.70
+9,Arvanitidou Eleni,Female,03-10-2024,SnowWorld Landgraaf,NED,Greece,FIS,Slopestyle,12,9.00
+10,Arvanitidou Eleni,Female,08-03-2024,Voras,GRE,Greece,National Championships,Big Air,1,50.00
+11,Arvanitidou Eleni,Female,07-03-2024,Voras,GRE,Greece,FIS,Slopestyle,3,29.90
+12,Arvanitidou Eleni,Female,01-03-2024,Kopaonik,SRB,Greece,FIS,Big Air,1,50.00
+13,Arvanitidou Eleni,Female,29-02-2024,Kopaonik,SRB,Greece,FIS,Slopestyle,1,50.00
+14,Arvanitidou Eleni,Female,09-12-2023,Pitztal,AUT,Greece,Junior,Snowboard Cross,37,
+15,Arvanitidou Eleni,Female,13-10-2023,SnowWorld Landgraaf,NED,Greece,FIS,Slopestyle,14,0.10
+16,Arvanitidou Eleni,Female,12-10-2023,SnowWorld Landgraaf,NED,Greece,FIS,Slopestyle,13,2.50
+17,Arvanitidou Eleni,Female,28-03-2023,Bansko,BUL,Greece,National Championships,Parallel Slalom,10,18.20
+18,Arvanitidou Eleni,Female,27-03-2023,Bansko,BUL,Greece,National Championships,Parallel Giant Slalom,16,16.50
+19,Arvanitidou Eleni,Female,26-03-2023,Bansko,BUL,Greece,FIS Junior World Championships,Parallel Team,27,
+20,Arvanitidou Eleni,Female,25-03-2023,Bansko,BUL,Greece,FIS Junior World Championships,Parallel Slalom,39,
+21,Arvanitidou Eleni,Female,25-03-2023,Bansko,BUL,Greece,Qualification,Parallel Slalom,39,
+22,Arvanitidou Eleni,Female,24-03-2023,Bansko,BUL,Greece,FIS Junior World Championships,Parallel Giant Slalom,38,
+23,Arvanitidou Eleni,Female,24-03-2023,Bansko,BUL,Greece,Qualification,Parallel Giant Slalom,38,
+24,Arvanitidou Eleni,Female,19-03-2023,Kalavrita,GRE,Greece,FIS,Big Air,2,39.60
+25,Arvanitidou Eleni,Female,18-03-2023,Kalavrita,GRE,Greece,FIS,Slopestyle,4,24.80
+26,Arvanitidou Eleni,Female,12-02-2023,Seli,GRE,Greece,National Championships,Slalom,6,20.00
 27,Arvanitidou Eleni,Female,11-02-2023,Seli,GRE,Greece,National Championships,Giant Slalom,4,25.00
-28,Arvanitidou Eleni,Female,10-02-2023,Popova Sapka,MKD,Greece,FIS,Slopestyle,4,19.90
-29,Arvanitidou Eleni,Female,09-02-2023,Popova Sapka,MKD,Greece,National Championships,Slopestyle,2,38.30
-30,Arvanitidou Eleni,Female,08-02-2023,Popova Sapka,MKD,Greece,FIS,Giant Slalom,4,25.00
-31,Arvanitidou Eleni,Female,07-02-2023,Popova Sapka,MKD,Greece,National Championships,Giant Slalom,8,16.00
-32,Arvanitidou Eleni,Female,29-01-2023,Anilio,GRE,Greece,FIS,Big Air,4,16.40
-33,Arvanitidou Eleni,Female,28-01-2023,Anilio,GRE,Greece,National Championships,Slopestyle,2,38.30
-34,Arvanitidou Eleni,Female,18-10-2022,"Ski Dubai, Mall of the Emirates",UAE,Greece,FIS,Slopestyle,2,35.20
-35,Arvanitidou Eleni,Female,17-10-2022,"Ski Dubai, Mall of the Emirates",UAE,Greece,FIS,Slopestyle,2,35.20
-36,Arvanitidou Eleni,Female,01-04-2022,Chiesa in Valmalenco,ITA,Greece,FIS Junior World Championships,Parallel Slalom,43,
-37,Arvanitidou Eleni,Female,31-03-2022,Chiesa in Valmalenco,ITA,Greece,FIS Junior World Championships,Parallel Giant Slalom,44,
-38,Arvanitidou Eleni,Female,25-03-2022,Vuokatti,FIN,Greece,European Youth Olympic Festival,Slopestyle,DNS,
-39,Arvanitidou Eleni,Female,23-03-2022,Vuokatti,FIN,Greece,European Youth Olympic Festival,Big Air,11,3.00
-40,Arvanitidou Eleni,Female,04-03-2022,Stara Planina,SRB,Greece,National Championships,Giant Slalom,DNF,
-41,Arvanitidou Eleni,Female,03-03-2022,Stara Planina,SRB,Greece,National Championships,Slalom,2,40.00
-42,Arvanitidou Eleni,Female,20-02-2022,Bansko,BUL,Greece,FIS,Parallel Slalom,9,14.50
-43,Arvanitidou Eleni,Female,19-02-2022,Bansko,BUL,Greece,FIS,Parallel Giant Slalom,10,13.00
-44,Arvanitidou Eleni,Female,13-02-2022,Anilio,GRE,Greece,National Championships,Slalom,5,22.50
-45,Arvanitidou Eleni,Female,12-02-2022,Anilio,GRE,Greece,National Championships,Giant Slalom,4,25.00
-46,Arvanitidou Eleni,Female,30-01-2022,Anilio,GRE,Greece,FIS,Slopestyle,1,50.00
-47,Arvanitidou Eleni,Female,29-01-2022,Anilio,GRE,Greece,National Championships,Slopestyle,1,50.00
-48,Arvanitidou Eleni,Female,08-10-2021,Landgraaf,NED,Greece,FIS,Slopestyle,11,0.10
-49,Arvanitidou Eleni,Female,26-03-2021,Krasnoyarsk ,RUS,Greece,FIS Junior World Championships,Parallel Slalom,25,21.60
-50,Arvanitidou Eleni,Female,25-03-2021,Krasnoyarsk ,RUS,Greece,Qualification,Parallel Giant Slalom,27,
-51,Arvanitidou Eleni,Female,25-03-2021,Krasnoyarsk ,RUS,Greece,FIS Junior World Championships,Parallel Giant Slalom,27,
-52,Arvanitidou Eleni,Female,19-03-2021,Anilio,GRE,Greece,National Championships,Slalom,4,25.00
-53,Arvanitidou Eleni,Female,19-03-2021,Anilio,GRE,Greece,National Championships,Big Air,1,50.00
-54,Arvanitidou Eleni,Female,18-03-2021,Anilio,GRE,Greece,FIS,Giant Slalom,4,25.00
-55,Arvanitidou Eleni,Female,18-03-2021,Anilio,GRE,Greece,FIS,Slopestyle,1,50.00
-56,Arvanitidou Eleni,Female,17-03-2021,Anilio,GRE,Greece,National Championships,Giant Slalom,2,40.00
-57,Arvanitidou Eleni,Female,17-03-2021,Anilio,GRE,Greece,National Championships,Slopestyle,1,50.00
-58,Arvanitidou Eleni,Female,02-03-2021,Rogla,SLO,Greece,Qualification,Parallel Slalom,49,
-59,Arvanitidou Eleni,Female,02-03-2021,Rogla,SLO,Greece,World Championships,Parallel Slalom,49,
-60,Arvanitidou Eleni,Female,01-03-2021,Rogla,SLO,Greece,Qualification,Parallel Giant Slalom,48,
-61,Arvanitidou Eleni,Female,01-03-2021,Rogla,SLO,Greece,World Championships,Parallel Giant Slalom,48,
-62,Arvanitidou Eleni,Female,05-02-2021,Mavrovo,MKD,Greece,FIS,Slopestyle,5,19.00
-63,Arvanitidou Eleni,Female,04-02-2021,Mavrovo,MKD,Greece,National Championships,Slopestyle,5,20.08
-64,Arvanitidou Eleni,Female,03-02-2021,Mavrovo,MKD,Greece,National Championships,Slalom,3,30.00
-65,Arvanitidou Eleni,Female,02-02-2021,Mavrovo,MKD,Greece,National Championships,Giant Slalom,3,30.00
-66,Arvanitidou Eleni,Female,14-01-2021,Kopaonik,SRB,Greece,FIS,Big Air,1,10.00
-67,Arvanitidou Eleni,Female,13-01-2021,Kopaonik,SRB,Greece,FIS,Slopestyle,1,10.00
-68,Arvanitidou Eleni,Female,12-01-2021,Kopaonik,SRB,Greece,FIS,Slalom,2,40.00
-69,Arvanitidou Eleni,Female,11-01-2021,Kopaonik,SRB,Greece,FIS,Giant Slalom,3,30.00
-70,Arvanitidou Eleni,Female,02-03-2020,Kopaonik,SRB,Greece,FIS,Slopestyle,7,18.00
-71,Arvanitidou Eleni,Female,01-03-2020,Kopaonik,SRB,Greece,FIS,Big Air,12,
-72,Arvanitidou Eleni,Female,29-02-2020,Kopaonik,SRB,Greece,FIS,Slopestyle,7,18.00
-73,Arvanitidou Eleni,Female,29-02-2020,Kopaonik,SRB,Greece,FIS,Slalom,4,25.00
-74,Arvanitidou Eleni,Female,28-02-2020,Kopaonik,SRB,Greece,FIS,Giant Slalom,8,16.00
-75,Arvanitidou Eleni,Female,28-02-2020,Kopaonik,SRB,Greece,FIS,Big Air,12,
-76,Arvanitidou Eleni,Female,27-02-2020,Kopaonik,SRB,Greece,FIS,Big Air,4,45.00
-77,Arvanitidou Eleni,Female,26-02-2020,Kopaonik,SRB,Greece,FIS,Slopestyle,5,22.50
-78,Arvanitidou Eleni,Female,23-02-2020,Vorras,GRE,Greece,FIS,Slalom,DSQ2,
-79,Arvanitidou Eleni,Female,22-02-2020,Vorras,GRE,Greece,FIS,Giant Slalom,1,50.00
-80,Arvanitidou Eleni,Female,09-02-2020,Parnassos,GRE,Greece,National Championships,Slalom,2,40.00
-81,Arvanitidou Eleni,Female,08-02-2020,Parnassos,GRE,Greece,National Championships,Giant Slalom,3,30.00
-82,Arvanitidou Eleni,Female,28-01-2020,Kopaonik,SRB,Greece,National Championships,Big Air,3,30.00
-83,Arvanitidou Eleni,Female,27-01-2020,Kopaonik,SRB,Greece,National Championships,Slopestyle,4,25.00
-84,Arvanitidou Eleni,Female,26-01-2020,Kopaonik,SRB,Greece,National Championships,Slalom,4,25.00
-85,Arvanitidou Eleni,Female,25-01-2020,Kopaonik,SRB,Greece,National Championships,Giant Slalom,3,30.00
-86,Arvanitidou Eleni,Female,01-12-2019,Pitztal,AUT,Greece,Junior,Snowboard Cross,39,2.63
-87,Arvanitidou Eleni,Female,30-11-2019,Pitztal,AUT,Greece,Junior,Snowboard Cross,53,
+28,Arvanitidou Eleni,Female,11-02-2023,Seli,GRE,Greece,FIS,Giant Slalom,4,25.00
+29,Arvanitidou Eleni,Female,10-02-2023,Popova Sapka,MKD,Greece,FIS,Slopestyle,4,19.90
+30,Arvanitidou Eleni,Female,09-02-2023,Popova Sapka,MKD,Greece,National Championships,Slopestyle,2,38.30
+31,Arvanitidou Eleni,Female,08-02-2023,Popova Sapka,MKD,Greece,FIS,Giant Slalom,4,25.00
+32,Arvanitidou Eleni,Female,07-02-2023,Popova Sapka,MKD,Greece,National Championships,Giant Slalom,8,16.00
+33,Arvanitidou Eleni,Female,29-01-2023,Anilio,GRE,Greece,FIS,Big Air,4,16.40
+34,Arvanitidou Eleni,Female,28-01-2023,Anilio,GRE,Greece,National Championships,Slopestyle,2,38.30
+35,Arvanitidou Eleni,Female,18-10-2022,"Ski Dubai, Mall of the Emirates",UAE,Greece,FIS,Slopestyle,2,35.20
+36,Arvanitidou Eleni,Female,17-10-2022,"Ski Dubai, Mall of the Emirates",UAE,Greece,FIS,Slopestyle,2,35.20
+37,Arvanitidou Eleni,Female,01-04-2022,Chiesa in Valmalenco,ITA,Greece,FIS Junior World Championships,Parallel Slalom,43,
+38,Arvanitidou Eleni,Female,31-03-2022,Chiesa in Valmalenco,ITA,Greece,FIS Junior World Championships,Parallel Giant Slalom,44,
+39,Arvanitidou Eleni,Female,25-03-2022,Vuokatti,FIN,Greece,European Youth Olympic Festival,Slopestyle,DNS,
+40,Arvanitidou Eleni,Female,23-03-2022,Vuokatti,FIN,Greece,European Youth Olympic Festival,Big Air,11,3.00
+41,Arvanitidou Eleni,Female,04-03-2022,Stara Planina,SRB,Greece,National Championships,Giant Slalom,DNF,
+42,Arvanitidou Eleni,Female,03-03-2022,Stara Planina,SRB,Greece,National Championships,Slalom,2,40.00
+43,Arvanitidou Eleni,Female,20-02-2022,Bansko,BUL,Greece,FIS,Parallel Slalom,9,14.50
+44,Arvanitidou Eleni,Female,19-02-2022,Bansko,BUL,Greece,FIS,Parallel Giant Slalom,10,13.00
+45,Arvanitidou Eleni,Female,13-02-2022,Anilio,GRE,Greece,National Championships,Slalom,5,22.50
+46,Arvanitidou Eleni,Female,12-02-2022,Anilio,GRE,Greece,National Championships,Giant Slalom,4,25.00
+47,Arvanitidou Eleni,Female,30-01-2022,Anilio,GRE,Greece,FIS,Slopestyle,1,50.00
+48,Arvanitidou Eleni,Female,29-01-2022,Anilio,GRE,Greece,National Championships,Slopestyle,1,50.00
+49,Arvanitidou Eleni,Female,08-10-2021,Landgraaf,NED,Greece,FIS,Slopestyle,11,0.10
+50,Arvanitidou Eleni,Female,26-03-2021,Krasnoyarsk ,RUS,Greece,FIS Junior World Championships,Parallel Slalom,25,21.60
+51,Arvanitidou Eleni,Female,25-03-2021,Krasnoyarsk ,RUS,Greece,Qualification,Parallel Giant Slalom,27,
+52,Arvanitidou Eleni,Female,25-03-2021,Krasnoyarsk ,RUS,Greece,FIS Junior World Championships,Parallel Giant Slalom,27,
+53,Arvanitidou Eleni,Female,19-03-2021,Anilio,GRE,Greece,National Championships,Slalom,4,25.00
+54,Arvanitidou Eleni,Female,19-03-2021,Anilio,GRE,Greece,National Championships,Big Air,1,50.00
+55,Arvanitidou Eleni,Female,18-03-2021,Anilio,GRE,Greece,FIS,Giant Slalom,4,25.00
+56,Arvanitidou Eleni,Female,18-03-2021,Anilio,GRE,Greece,FIS,Slopestyle,1,50.00
+57,Arvanitidou Eleni,Female,17-03-2021,Anilio,GRE,Greece,National Championships,Giant Slalom,2,40.00
+58,Arvanitidou Eleni,Female,17-03-2021,Anilio,GRE,Greece,National Championships,Slopestyle,1,50.00
+59,Arvanitidou Eleni,Female,02-03-2021,Rogla,SLO,Greece,Qualification,Parallel Slalom,49,
+60,Arvanitidou Eleni,Female,02-03-2021,Rogla,SLO,Greece,World Championships,Parallel Slalom,49,
+61,Arvanitidou Eleni,Female,01-03-2021,Rogla,SLO,Greece,Qualification,Parallel Giant Slalom,48,
+62,Arvanitidou Eleni,Female,01-03-2021,Rogla,SLO,Greece,World Championships,Parallel Giant Slalom,48,
+63,Arvanitidou Eleni,Female,05-02-2021,Mavrovo,MKD,Greece,FIS,Slopestyle,5,19.00
+64,Arvanitidou Eleni,Female,04-02-2021,Mavrovo,MKD,Greece,National Championships,Slopestyle,5,20.08
+65,Arvanitidou Eleni,Female,03-02-2021,Mavrovo,MKD,Greece,National Championships,Slalom,3,30.00
+66,Arvanitidou Eleni,Female,02-02-2021,Mavrovo,MKD,Greece,National Championships,Giant Slalom,3,30.00
+67,Arvanitidou Eleni,Female,14-01-2021,Kopaonik,SRB,Greece,FIS,Big Air,1,10.00
+68,Arvanitidou Eleni,Female,13-01-2021,Kopaonik,SRB,Greece,FIS,Slopestyle,1,10.00
+69,Arvanitidou Eleni,Female,12-01-2021,Kopaonik,SRB,Greece,FIS,Slalom,2,40.00
+70,Arvanitidou Eleni,Female,11-01-2021,Kopaonik,SRB,Greece,FIS,Giant Slalom,3,30.00
+71,Arvanitidou Eleni,Female,02-03-2020,Kopaonik,SRB,Greece,FIS,Slopestyle,7,18.00
+72,Arvanitidou Eleni,Female,01-03-2020,Kopaonik,SRB,Greece,FIS,Big Air,12,
+73,Arvanitidou Eleni,Female,29-02-2020,Kopaonik,SRB,Greece,FIS,Slopestyle,7,18.00
+74,Arvanitidou Eleni,Female,29-02-2020,Kopaonik,SRB,Greece,FIS,Slalom,4,25.00
+75,Arvanitidou Eleni,Female,28-02-2020,Kopaonik,SRB,Greece,FIS,Giant Slalom,8,16.00
+76,Arvanitidou Eleni,Female,28-02-2020,Kopaonik,SRB,Greece,FIS,Big Air,12,
+77,Arvanitidou Eleni,Female,27-02-2020,Kopaonik,SRB,Greece,FIS,Big Air,4,45.00
+78,Arvanitidou Eleni,Female,26-02-2020,Kopaonik,SRB,Greece,FIS,Slopestyle,5,22.50
+79,Arvanitidou Eleni,Female,23-02-2020,Vorras,GRE,Greece,FIS,Slalom,DSQ2,
+80,Arvanitidou Eleni,Female,22-02-2020,Vorras,GRE,Greece,FIS,Giant Slalom,1,50.00
+81,Arvanitidou Eleni,Female,09-02-2020,Parnassos,GRE,Greece,National Championships,Slalom,2,40.00
+82,Arvanitidou Eleni,Female,08-02-2020,Parnassos,GRE,Greece,National Championships,Giant Slalom,3,30.00
+83,Arvanitidou Eleni,Female,28-01-2020,Kopaonik,SRB,Greece,National Championships,Big Air,3,30.00
+84,Arvanitidou Eleni,Female,27-01-2020,Kopaonik,SRB,Greece,National Championships,Slopestyle,4,25.00
+85,Arvanitidou Eleni,Female,26-01-2020,Kopaonik,SRB,Greece,National Championships,Slalom,4,25.00
+86,Arvanitidou Eleni,Female,25-01-2020,Kopaonik,SRB,Greece,National Championships,Giant Slalom,3,30.00
+87,Arvanitidou Eleni,Female,01-12-2019,Pitztal,AUT,Greece,Junior,Snowboard Cross,39,2.63
+88,Arvanitidou Eleni,Female,30-11-2019,Pitztal,AUT,Greece,Junior,Snowboard Cross,53,
