@@ -1,93 +1,94 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Koenen Fynn,Male,07-03-2025,Prato Nevoso,ITA,Germany,National Championships,Rail Event,3,31.70
-1,Koenen Fynn,Male,06-03-2025,Prato Nevoso,ITA,Germany,National Championships,Big Air,3,34.00
-2,Koenen Fynn,Male,05-03-2025,Prato Nevoso,ITA,Germany,European Cup,Big Air,7,42.20
-3,Koenen Fynn,Male,04-03-2025,Prato Nevoso,ITA,Germany,National Championships,Slopestyle,16,11.10
-4,Koenen Fynn,Male,23-02-2025,Kotelnica,POL,Germany,European Cup,Big Air,5,55.80
-5,Koenen Fynn,Male,13-02-2025,Davos,SUI,Germany,European Cup,Rail Event,12,25.80
-6,Koenen Fynn,Male,09-02-2025,Mayrhofen,AUT,Germany,FIS,Slopestyle,5,33.60
-7,Koenen Fynn,Male,15-01-2025,Seiser Alm,ITA,Germany,European Cup,Slopestyle,35,9.90
-8,Koenen Fynn,Male,11-01-2025,Prato Nevoso,ITA,Germany,European Cup,Slopestyle,44,13.90
-9,Koenen Fynn,Male,06-01-2025,Font Romeu,FRA,Germany,FIS,Rail Event,8,16.20
-10,Koenen Fynn,Male,05-01-2025,Font Romeu,FRA,Germany,European Cup Premium,Slopestyle,28,22.80
-11,Koenen Fynn,Male,21-12-2024,Schilthorn,SUI,Germany,FIS,Slopestyle,9,28.70
-12,Koenen Fynn,Male,07-12-2024,Den Haag,NED,Germany,European Cup,Rail Event,14,7.90
-13,Koenen Fynn,Male,01-12-2024,Beijing,CHN,Germany,World Cup,Big Air,46,33.90
-14,Koenen Fynn,Male,30-11-2024,Beijing,CHN,Germany,Qualification,Big Air,23,
-15,Koenen Fynn,Male,15-11-2024,Glacier 3000,SUI,Germany,FIS,Big Air,8,19.80
-16,Koenen Fynn,Male,04-10-2024,SnowWorld Landgraaf,NED,Germany,FIS,Slopestyle,9,17.70
-17,Koenen Fynn,Male,03-10-2024,SnowWorld Landgraaf,NED,Germany,FIS,Slopestyle,6,25.90
-18,Koenen Fynn,Male,12-03-2024,Laax,SUI,Germany,European Cup Premium,Slopestyle,45,26.40
-19,Koenen Fynn,Male,22-02-2024,Prato Nevoso,ITA,Germany,European Cup,Slopestyle,24,49.60
-20,Koenen Fynn,Male,15-02-2024,Davos,SUI,Germany,European Cup,Big Air,25,17.00
-21,Koenen Fynn,Male,10-02-2024,Kotelnica Bialczanska,POL,Germany,European Cup,Big Air,9,21.70
-22,Koenen Fynn,Male,05-01-2024,Font Romeu,FRA,Germany,European Cup,Big Air,26,29.30
-23,Koenen Fynn,Male,04-01-2024,Font Romeu,FRA,Germany,European Cup Premium,Slopestyle,58,8.00
-24,Koenen Fynn,Male,02-12-2023,Beijing,CHN,Germany,World Cup,Big Air,37,36.00
-25,Koenen Fynn,Male,01-12-2023,Beijing,CHN,Germany,Qualification,Big Air,20,
-26,Koenen Fynn,Male,13-10-2023,SnowWorld Landgraaf,NED,Germany,FIS,Slopestyle,36,0.10
-27,Koenen Fynn,Male,12-10-2023,SnowWorld Landgraaf,NED,Germany,FIS,Slopestyle,4,46.70
-28,Koenen Fynn,Male,29-03-2023,Leysin,SUI,Germany,FIS,Big Air,6,80.30
-29,Koenen Fynn,Male,28-03-2023,Leysin,SUI,Germany,FIS,Slopestyle,8,66.00
-30,Koenen Fynn,Male,26-03-2023,Silvaplana,SUI,Germany,World Cup,Slopestyle,27,97.00
-31,Koenen Fynn,Male,25-03-2023,Silvaplana,SUI,Germany,Qualification,Slopestyle,15,
-32,Koenen Fynn,Male,20-03-2023,Mottolino Livigno,ITA,Germany,European Cup,Slopestyle,52,2.60
-33,Koenen Fynn,Male,17-03-2023,Laax,SUI,Germany,European Cup Premium,Slopestyle,34,68.10
-34,Koenen Fynn,Male,18-02-2023,Davos,SUI,Germany,European Cup,Big Air,28,12.70
-35,Koenen Fynn,Male,04-02-2023,Font Romeu,FRA,Germany,European Cup,Big Air,14,35.40
-36,Koenen Fynn,Male,02-02-2023,Font Romeu,FRA,Germany,European Cup,Slopestyle,28,18.90
-37,Koenen Fynn,Male,25-01-2023,Prato Nevoso,ITA,Germany,European Cup,Slopestyle,27,18.10
-38,Koenen Fynn,Male,07-10-2022,SnowWorld Landgraaf,NED,Germany,FIS,Slopestyle,19,10.10
-39,Koenen Fynn,Male,06-10-2022,SnowWorld Landgraaf,NED,Germany,FIS,Slopestyle,4,46.60
-40,Koenen Fynn,Male,09-04-2022,Corvatsch,SUI,Germany,European Cup Premium,Big Air,22,58.80
-41,Koenen Fynn,Male,15-03-2022,Laax,SUI,Germany,European Cup Premium,Slopestyle,24,18.00
-42,Koenen Fynn,Male,26-02-2022,Götschen,GER,Germany,European Cup,Big Air,2,166.00
-43,Koenen Fynn,Male,25-02-2022,Götschen,GER,Germany,European Cup,Slopestyle,40,24.60
-44,Koenen Fynn,Male,23-02-2022,Moscow,RUS,Germany,European Cup,Big Air,13,24.30
-45,Koenen Fynn,Male,18-02-2022,Davos,SUI,Germany,European Cup Premium,Big Air,32,24.90
-46,Koenen Fynn,Male,28-01-2022,Crans Montana,SUI,Germany,European Cup,Big Air,21,21.70
-47,Koenen Fynn,Male,23-01-2022,Prato Nevoso,ITA,Germany,European Cup,Slopestyle,29,24.80
-48,Koenen Fynn,Male,19-11-2021,Landgraaf,NED,Germany,European Cup,Slopestyle,22,34.10
-49,Koenen Fynn,Male,18-11-2021,Landgraaf,NED,Germany,FIS,Slopestyle,27,35.40
-50,Koenen Fynn,Male,08-10-2021,Landgraaf,NED,Germany,FIS,Slopestyle,16,8.20
-51,Koenen Fynn,Male,20-04-2021,Corvatsch,SUI,Germany,European Cup Premium,Slopestyle,35,33.44
-52,Koenen Fynn,Male,11-03-2021,Leysin,SUI,Germany,European Cup,Slopestyle,20,25.70
-53,Koenen Fynn,Male,06-03-2021,Götschen,GER,Germany,FIS,Big Air,DNS,
-54,Koenen Fynn,Male,05-03-2021,Götschen,GER,Germany,European Cup,Big Air,21,15.60
-55,Koenen Fynn,Male,04-03-2021,Flachauwinkel,AUT,Germany,European Cup,Big Air,26,22.06
-56,Koenen Fynn,Male,22-02-2021,Götschen,GER,Germany,European Cup,Big Air,DNS,
-57,Koenen Fynn,Male,21-02-2021,Götschen,GER,Germany,European Cup,Slopestyle,58,1.55
-58,Koenen Fynn,Male,19-02-2021,Davos,SUI,Germany,European Cup,Big Air,36,31.75
-59,Koenen Fynn,Male,31-01-2021,Crans Montana,SUI,Germany,European Cup,Slopestyle,30,54.94
-60,Koenen Fynn,Male,22-12-2020,Corvatsch,SUI,Germany,European Cup,Slopestyle,51,4.58
-61,Koenen Fynn,Male,26-11-2020,Glacier 3000,SUI,Germany,FIS,Slopestyle,34,28.36
-62,Koenen Fynn,Male,29-02-2020,Moscow,RUS,Germany,European Cup Premium,Big Air,27,13.05
-63,Koenen Fynn,Male,21-02-2020,Davos,SUI,Germany,European Cup Premium,Big Air,10,57.20
-64,Koenen Fynn,Male,19-01-2020,Vars,FRA,Germany,European Cup,Slopestyle,44,2.77
-65,Koenen Fynn,Male,18-01-2020,Vars,FRA,Germany,European Cup,Big Air,21,16.00
-66,Koenen Fynn,Male,21-11-2019,Landgraaf,NED,Germany,European Cup,Slopestyle,32,4.16
-67,Koenen Fynn,Male,20-11-2019,Landgraaf,NED,Germany,FIS,Slopestyle,21,16.00
-68,Koenen Fynn,Male,17-04-2019,Laax,BEL,Germany,FIS,Big Air,9,63.80
-69,Koenen Fynn,Male,16-04-2019,Laax,BEL,Germany,FIS,Slopestyle,7,79.20
-70,Koenen Fynn,Male,13-04-2019,Silvaplana,SUI,Germany,European Cup,Big Air,10,93.60
-71,Koenen Fynn,Male,29-03-2019,Livigno,ITA,Germany,European Cup,Slopestyle,37,
-72,Koenen Fynn,Male,28-03-2019,Livigno,ITA,Germany,European Cup,Slopestyle,25,12.00
-73,Koenen Fynn,Male,22-03-2019,Laax,SUI,Germany,European Cup,Slopestyle,57,
-74,Koenen Fynn,Male,16-03-2019,Kuehtai,AUT,Germany,European Cup,Big Air,4,80.00
-75,Koenen Fynn,Male,27-02-2019,Götschen,GER,Germany,European Cup,Big Air,11,38.40
-76,Koenen Fynn,Male,26-02-2019,Götschen,GER,Germany,European Cup,Big Air,28,6.40
-77,Koenen Fynn,Male,26-01-2019,Vars,FRA,Germany,European Cup,Big Air,29,6.48
-78,Koenen Fynn,Male,25-01-2019,Vars,FRA,Germany,European Cup,Slopestyle,28,6.40
-79,Koenen Fynn,Male,22-01-2019,Font Romeu,FRA,Germany,European Cup,Big Air,35,
-80,Koenen Fynn,Male,17-01-2019,Kreischberg,AUT,Germany,European Cup,Big Air,12,39.60
-81,Koenen Fynn,Male,16-01-2019,Kreischberg,AUT,Germany,European Cup,Slopestyle,41,2.91
-82,Koenen Fynn,Male,22-11-2018,Landgraaf,NED,Germany,European Cup,Slopestyle,6,64.00
-83,Koenen Fynn,Male,21-11-2018,Landgraaf,NED,Germany,FIS,Slopestyle,35,2.20
-84,Koenen Fynn,Male,23-03-2018,Kühtai,AUT,Germany,European Cup,Big Air,34,
-85,Koenen Fynn,Male,23-11-2017,Landgraaf,NED,Germany,European Cup,Slopestyle,14,28.80
-86,Koenen Fynn,Male,22-11-2017,Landgraaf,NED,Germany,FIS,Slopestyle,23,8.80
-87,Koenen Fynn,Male,17-02-2017,Goetschen,GER,Germany,European Cup,Big Air,43,
-88,Koenen Fynn,Male,10-11-2016,Landgraaf,NED,Germany,European Cup,Slopestyle,37,3.49
-89,Koenen Fynn,Male,09-11-2016,Landgraaf,NED,Germany,European Cup,Slopestyle,69,
-90,Koenen Fynn,Male,05-11-2015,Landgraaf,NED,Germany,European Cup,Slopestyle,64,2.94
-91,Koenen Fynn,Male,04-11-2015,Landgraaf,NED,Germany,European Cup,Slopestyle,88,1.07
+0,Koenen Fynn,Male,11-03-2025,Laax,SUI,Germany,European Cup Premium,Slopestyle,69,2.20
+1,Koenen Fynn,Male,07-03-2025,Prato Nevoso,ITA,Germany,National Championships,Rail Event,3,31.70
+2,Koenen Fynn,Male,06-03-2025,Prato Nevoso,ITA,Germany,National Championships,Big Air,3,34.00
+3,Koenen Fynn,Male,05-03-2025,Prato Nevoso,ITA,Germany,European Cup,Big Air,7,42.20
+4,Koenen Fynn,Male,04-03-2025,Prato Nevoso,ITA,Germany,National Championships,Slopestyle,16,11.10
+5,Koenen Fynn,Male,23-02-2025,Kotelnica,POL,Germany,European Cup,Big Air,5,55.80
+6,Koenen Fynn,Male,13-02-2025,Davos,SUI,Germany,European Cup,Rail Event,12,25.80
+7,Koenen Fynn,Male,09-02-2025,Mayrhofen,AUT,Germany,FIS,Slopestyle,5,33.60
+8,Koenen Fynn,Male,15-01-2025,Seiser Alm,ITA,Germany,European Cup,Slopestyle,35,9.90
+9,Koenen Fynn,Male,11-01-2025,Prato Nevoso,ITA,Germany,European Cup,Slopestyle,44,13.90
+10,Koenen Fynn,Male,06-01-2025,Font Romeu,FRA,Germany,FIS,Rail Event,8,16.20
+11,Koenen Fynn,Male,05-01-2025,Font Romeu,FRA,Germany,European Cup Premium,Slopestyle,28,22.80
+12,Koenen Fynn,Male,21-12-2024,Schilthorn,SUI,Germany,FIS,Slopestyle,9,28.70
+13,Koenen Fynn,Male,07-12-2024,Den Haag,NED,Germany,European Cup,Rail Event,14,7.90
+14,Koenen Fynn,Male,01-12-2024,Beijing,CHN,Germany,World Cup,Big Air,46,33.90
+15,Koenen Fynn,Male,30-11-2024,Beijing,CHN,Germany,Qualification,Big Air,23,
+16,Koenen Fynn,Male,15-11-2024,Glacier 3000,SUI,Germany,FIS,Big Air,8,19.80
+17,Koenen Fynn,Male,04-10-2024,SnowWorld Landgraaf,NED,Germany,FIS,Slopestyle,9,17.70
+18,Koenen Fynn,Male,03-10-2024,SnowWorld Landgraaf,NED,Germany,FIS,Slopestyle,6,25.90
+19,Koenen Fynn,Male,12-03-2024,Laax,SUI,Germany,European Cup Premium,Slopestyle,45,26.40
+20,Koenen Fynn,Male,22-02-2024,Prato Nevoso,ITA,Germany,European Cup,Slopestyle,24,49.60
+21,Koenen Fynn,Male,15-02-2024,Davos,SUI,Germany,European Cup,Big Air,25,17.00
+22,Koenen Fynn,Male,10-02-2024,Kotelnica Bialczanska,POL,Germany,European Cup,Big Air,9,21.70
+23,Koenen Fynn,Male,05-01-2024,Font Romeu,FRA,Germany,European Cup,Big Air,26,29.30
+24,Koenen Fynn,Male,04-01-2024,Font Romeu,FRA,Germany,European Cup Premium,Slopestyle,58,8.00
+25,Koenen Fynn,Male,02-12-2023,Beijing,CHN,Germany,World Cup,Big Air,37,36.00
+26,Koenen Fynn,Male,01-12-2023,Beijing,CHN,Germany,Qualification,Big Air,20,
+27,Koenen Fynn,Male,13-10-2023,SnowWorld Landgraaf,NED,Germany,FIS,Slopestyle,36,0.10
+28,Koenen Fynn,Male,12-10-2023,SnowWorld Landgraaf,NED,Germany,FIS,Slopestyle,4,46.70
+29,Koenen Fynn,Male,29-03-2023,Leysin,SUI,Germany,FIS,Big Air,6,80.30
+30,Koenen Fynn,Male,28-03-2023,Leysin,SUI,Germany,FIS,Slopestyle,8,66.00
+31,Koenen Fynn,Male,26-03-2023,Silvaplana,SUI,Germany,World Cup,Slopestyle,27,97.00
+32,Koenen Fynn,Male,25-03-2023,Silvaplana,SUI,Germany,Qualification,Slopestyle,15,
+33,Koenen Fynn,Male,20-03-2023,Mottolino Livigno,ITA,Germany,European Cup,Slopestyle,52,2.60
+34,Koenen Fynn,Male,17-03-2023,Laax,SUI,Germany,European Cup Premium,Slopestyle,34,68.10
+35,Koenen Fynn,Male,18-02-2023,Davos,SUI,Germany,European Cup,Big Air,28,12.70
+36,Koenen Fynn,Male,04-02-2023,Font Romeu,FRA,Germany,European Cup,Big Air,14,35.40
+37,Koenen Fynn,Male,02-02-2023,Font Romeu,FRA,Germany,European Cup,Slopestyle,28,18.90
+38,Koenen Fynn,Male,25-01-2023,Prato Nevoso,ITA,Germany,European Cup,Slopestyle,27,18.10
+39,Koenen Fynn,Male,07-10-2022,SnowWorld Landgraaf,NED,Germany,FIS,Slopestyle,19,10.10
+40,Koenen Fynn,Male,06-10-2022,SnowWorld Landgraaf,NED,Germany,FIS,Slopestyle,4,46.60
+41,Koenen Fynn,Male,09-04-2022,Corvatsch,SUI,Germany,European Cup Premium,Big Air,22,58.80
+42,Koenen Fynn,Male,15-03-2022,Laax,SUI,Germany,European Cup Premium,Slopestyle,24,18.00
+43,Koenen Fynn,Male,26-02-2022,Götschen,GER,Germany,European Cup,Big Air,2,166.00
+44,Koenen Fynn,Male,25-02-2022,Götschen,GER,Germany,European Cup,Slopestyle,40,24.60
+45,Koenen Fynn,Male,23-02-2022,Moscow,RUS,Germany,European Cup,Big Air,13,24.30
+46,Koenen Fynn,Male,18-02-2022,Davos,SUI,Germany,European Cup Premium,Big Air,32,24.90
+47,Koenen Fynn,Male,28-01-2022,Crans Montana,SUI,Germany,European Cup,Big Air,21,21.70
+48,Koenen Fynn,Male,23-01-2022,Prato Nevoso,ITA,Germany,European Cup,Slopestyle,29,24.80
+49,Koenen Fynn,Male,19-11-2021,Landgraaf,NED,Germany,European Cup,Slopestyle,22,34.10
+50,Koenen Fynn,Male,18-11-2021,Landgraaf,NED,Germany,FIS,Slopestyle,27,35.40
+51,Koenen Fynn,Male,08-10-2021,Landgraaf,NED,Germany,FIS,Slopestyle,16,8.20
+52,Koenen Fynn,Male,20-04-2021,Corvatsch,SUI,Germany,European Cup Premium,Slopestyle,35,33.44
+53,Koenen Fynn,Male,11-03-2021,Leysin,SUI,Germany,European Cup,Slopestyle,20,25.70
+54,Koenen Fynn,Male,06-03-2021,Götschen,GER,Germany,FIS,Big Air,DNS,
+55,Koenen Fynn,Male,05-03-2021,Götschen,GER,Germany,European Cup,Big Air,21,15.60
+56,Koenen Fynn,Male,04-03-2021,Flachauwinkel,AUT,Germany,European Cup,Big Air,26,22.06
+57,Koenen Fynn,Male,22-02-2021,Götschen,GER,Germany,European Cup,Big Air,DNS,
+58,Koenen Fynn,Male,21-02-2021,Götschen,GER,Germany,European Cup,Slopestyle,58,1.55
+59,Koenen Fynn,Male,19-02-2021,Davos,SUI,Germany,European Cup,Big Air,36,31.75
+60,Koenen Fynn,Male,31-01-2021,Crans Montana,SUI,Germany,European Cup,Slopestyle,30,54.94
+61,Koenen Fynn,Male,22-12-2020,Corvatsch,SUI,Germany,European Cup,Slopestyle,51,4.58
+62,Koenen Fynn,Male,26-11-2020,Glacier 3000,SUI,Germany,FIS,Slopestyle,34,28.36
+63,Koenen Fynn,Male,29-02-2020,Moscow,RUS,Germany,European Cup Premium,Big Air,27,13.05
+64,Koenen Fynn,Male,21-02-2020,Davos,SUI,Germany,European Cup Premium,Big Air,10,57.20
+65,Koenen Fynn,Male,19-01-2020,Vars,FRA,Germany,European Cup,Slopestyle,44,2.77
+66,Koenen Fynn,Male,18-01-2020,Vars,FRA,Germany,European Cup,Big Air,21,16.00
+67,Koenen Fynn,Male,21-11-2019,Landgraaf,NED,Germany,European Cup,Slopestyle,32,4.16
+68,Koenen Fynn,Male,20-11-2019,Landgraaf,NED,Germany,FIS,Slopestyle,21,16.00
+69,Koenen Fynn,Male,17-04-2019,Laax,BEL,Germany,FIS,Big Air,9,63.80
+70,Koenen Fynn,Male,16-04-2019,Laax,BEL,Germany,FIS,Slopestyle,7,79.20
+71,Koenen Fynn,Male,13-04-2019,Silvaplana,SUI,Germany,European Cup,Big Air,10,93.60
+72,Koenen Fynn,Male,29-03-2019,Livigno,ITA,Germany,European Cup,Slopestyle,37,
+73,Koenen Fynn,Male,28-03-2019,Livigno,ITA,Germany,European Cup,Slopestyle,25,12.00
+74,Koenen Fynn,Male,22-03-2019,Laax,SUI,Germany,European Cup,Slopestyle,57,
+75,Koenen Fynn,Male,16-03-2019,Kuehtai,AUT,Germany,European Cup,Big Air,4,80.00
+76,Koenen Fynn,Male,27-02-2019,Götschen,GER,Germany,European Cup,Big Air,11,38.40
+77,Koenen Fynn,Male,26-02-2019,Götschen,GER,Germany,European Cup,Big Air,28,6.40
+78,Koenen Fynn,Male,26-01-2019,Vars,FRA,Germany,European Cup,Big Air,29,6.48
+79,Koenen Fynn,Male,25-01-2019,Vars,FRA,Germany,European Cup,Slopestyle,28,6.40
+80,Koenen Fynn,Male,22-01-2019,Font Romeu,FRA,Germany,European Cup,Big Air,35,
+81,Koenen Fynn,Male,17-01-2019,Kreischberg,AUT,Germany,European Cup,Big Air,12,39.60
+82,Koenen Fynn,Male,16-01-2019,Kreischberg,AUT,Germany,European Cup,Slopestyle,41,2.91
+83,Koenen Fynn,Male,22-11-2018,Landgraaf,NED,Germany,European Cup,Slopestyle,6,64.00
+84,Koenen Fynn,Male,21-11-2018,Landgraaf,NED,Germany,FIS,Slopestyle,35,2.20
+85,Koenen Fynn,Male,23-03-2018,Kühtai,AUT,Germany,European Cup,Big Air,34,
+86,Koenen Fynn,Male,23-11-2017,Landgraaf,NED,Germany,European Cup,Slopestyle,14,28.80
+87,Koenen Fynn,Male,22-11-2017,Landgraaf,NED,Germany,FIS,Slopestyle,23,8.80
+88,Koenen Fynn,Male,17-02-2017,Goetschen,GER,Germany,European Cup,Big Air,43,
+89,Koenen Fynn,Male,10-11-2016,Landgraaf,NED,Germany,European Cup,Slopestyle,37,3.49
+90,Koenen Fynn,Male,09-11-2016,Landgraaf,NED,Germany,European Cup,Slopestyle,69,
+91,Koenen Fynn,Male,05-11-2015,Landgraaf,NED,Germany,European Cup,Slopestyle,64,2.94
+92,Koenen Fynn,Male,04-11-2015,Landgraaf,NED,Germany,European Cup,Slopestyle,88,1.07
