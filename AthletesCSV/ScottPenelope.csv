@@ -1,25 +1,26 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Scott Penelope,Female,04-03-2025,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Slopestyle,7,12.80
-1,Scott Penelope,Female,25-02-2025,Northstar California Resorts,USA,United States Of America,FIS,Slopestyle,10,0.10
-2,Scott Penelope,Female,13-02-2025,Mount Snow Resort,USA,United States Of America,FIS,Slopestyle,9,0.10
-3,Scott Penelope,Female,06-02-2025,Okemo Mountain Resort,USA,United States Of America,FIS,Slopestyle,5,12.50
-4,Scott Penelope,Female,13-01-2025,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,16,0.10
-5,Scott Penelope,Female,18-08-2023,Valle Nevado,CHI,United States Of America,South American Cup,Slopestyle,DNS,
-6,Scott Penelope,Female,15-08-2023,El Colorado,CHI,United States Of America,South American Cup,Big Air,2,6.40
-7,Scott Penelope,Female,14-08-2023,El Colorado,CHI,United States Of America,South American Cup,Big Air,3,0.10
-8,Scott Penelope,Female,01-03-2023,Northstar California Resorts,USA,United States Of America,FIS,Slopestyle,12,7.50
-9,Scott Penelope,Female,15-02-2023,Mammoth Mountain,USA,United States Of America,FIS,Slopestyle,11,6.70
-10,Scott Penelope,Female,02-02-2023,Woodward - Park City,USA,United States Of America,FIS,Slopestyle,15,0.10
-11,Scott Penelope,Female,26-01-2023,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,15,7.70
-12,Scott Penelope,Female,18-01-2023,Mount Snow,USA,United States Of America,FIS,Slopestyle,6,15.50
-13,Scott Penelope,Female,09-03-2022,Northstar California Resorts,USA,United States Of America,FIS,Slopestyle,13,3.70
-14,Scott Penelope,Female,24-03-2021,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Slopestyle,21,2.51
-15,Scott Penelope,Female,19-03-2021,"Winter Park Resort, CO",USA,United States Of America,FIS,Slopestyle,9,4.19
-16,Scott Penelope,Female,04-03-2021,Copper Mountain,USA,United States Of America,National Championships,Slopestyle,21,3.00
-17,Scott Penelope,Female,24-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Slopestyle,DNS,
-18,Scott Penelope,Female,27-01-2021,Park City,USA,United States Of America,FIS,Slopestyle,17,0.04
-19,Scott Penelope,Female,29-02-2020,Park City,USA,United States Of America,FIS,Slopestyle,9,14.50
-20,Scott Penelope,Female,26-02-2020,Copper Mountain Resort,USA,United States Of America,FIS,Slopestyle,12,11.00
-21,Scott Penelope,Female,11-02-2020,Mammoth Mountain Ski Resortt,USA,United States Of America,FIS,Slopestyle,9,14.50
-22,Scott Penelope,Female,07-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,23,
-23,Scott Penelope,Female,06-12-2019,Copper Mountain Resort,USA,United States Of America,FIS,Halfpipe,23,
+0,Scott Penelope,Female,13-03-2025,Woodward - Park City,USA,United States Of America,FIS,Slopestyle,15,
+1,Scott Penelope,Female,04-03-2025,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Slopestyle,7,12.80
+2,Scott Penelope,Female,25-02-2025,Northstar California Resorts,USA,United States Of America,FIS,Slopestyle,10,0.10
+3,Scott Penelope,Female,13-02-2025,Mount Snow Resort,USA,United States Of America,FIS,Slopestyle,9,0.10
+4,Scott Penelope,Female,06-02-2025,Okemo Mountain Resort,USA,United States Of America,FIS,Slopestyle,5,12.50
+5,Scott Penelope,Female,13-01-2025,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,16,0.10
+6,Scott Penelope,Female,18-08-2023,Valle Nevado,CHI,United States Of America,South American Cup,Slopestyle,DNS,
+7,Scott Penelope,Female,15-08-2023,El Colorado,CHI,United States Of America,South American Cup,Big Air,2,6.40
+8,Scott Penelope,Female,14-08-2023,El Colorado,CHI,United States Of America,South American Cup,Big Air,3,0.10
+9,Scott Penelope,Female,01-03-2023,Northstar California Resorts,USA,United States Of America,FIS,Slopestyle,12,7.50
+10,Scott Penelope,Female,15-02-2023,Mammoth Mountain,USA,United States Of America,FIS,Slopestyle,11,6.70
+11,Scott Penelope,Female,02-02-2023,Woodward - Park City,USA,United States Of America,FIS,Slopestyle,15,0.10
+12,Scott Penelope,Female,26-01-2023,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,15,7.70
+13,Scott Penelope,Female,18-01-2023,Mount Snow,USA,United States Of America,FIS,Slopestyle,6,15.50
+14,Scott Penelope,Female,09-03-2022,Northstar California Resorts,USA,United States Of America,FIS,Slopestyle,13,3.70
+15,Scott Penelope,Female,24-03-2021,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Slopestyle,21,2.51
+16,Scott Penelope,Female,19-03-2021,"Winter Park Resort, CO",USA,United States Of America,FIS,Slopestyle,9,4.19
+17,Scott Penelope,Female,04-03-2021,Copper Mountain,USA,United States Of America,National Championships,Slopestyle,21,3.00
+18,Scott Penelope,Female,24-02-2021,Aspen Mountain Ski Area,USA,United States Of America,Open,Slopestyle,DNS,
+19,Scott Penelope,Female,27-01-2021,Park City,USA,United States Of America,FIS,Slopestyle,17,0.04
+20,Scott Penelope,Female,29-02-2020,Park City,USA,United States Of America,FIS,Slopestyle,9,14.50
+21,Scott Penelope,Female,26-02-2020,Copper Mountain Resort,USA,United States Of America,FIS,Slopestyle,12,11.00
+22,Scott Penelope,Female,11-02-2020,Mammoth Mountain Ski Resortt,USA,United States Of America,FIS,Slopestyle,9,14.50
+23,Scott Penelope,Female,07-02-2020,Mammoth Mountain Ski Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,23,
+24,Scott Penelope,Female,06-12-2019,Copper Mountain Resort,USA,United States Of America,FIS,Halfpipe,23,

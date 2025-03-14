@@ -1,110 +1,111 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Iwabuchi Reira,Female,02-02-2025,Aspen,USA,Japan,World Cup,Slopestyle,24,54.00
-1,Iwabuchi Reira,Female,31-01-2025,Aspen,USA,Japan,Qualification,Slopestyle,24,
-2,Iwabuchi Reira,Female,18-01-2025,Laax,SUI,Japan,World Cup,Slopestyle,5,492.60
-3,Iwabuchi Reira,Female,16-01-2025,Laax,SUI,Japan,Qualification,Slopestyle,5,
-4,Iwabuchi Reira,Female,11-01-2025,Kreischberg,AUT,Japan,World Cup,Big Air,2,824.90
-5,Iwabuchi Reira,Female,09-01-2025,Kreischberg,AUT,Japan,Qualification,Big Air,3,
-6,Iwabuchi Reira,Female,05-01-2025,Klagenfurt,AUT,Japan,World Cup,Big Air,4,568.10
-7,Iwabuchi Reira,Female,03-01-2025,Klagenfurt,AUT,Japan,Qualification,Big Air,3,
-8,Iwabuchi Reira,Female,01-12-2024,Beijing,CHN,Japan,World Cup,Big Air,5,480.00
-9,Iwabuchi Reira,Female,30-11-2024,Beijing,CHN,Japan,Qualification,Big Air,8,
-10,Iwabuchi Reira,Female,19-10-2024,Chur,SUI,Japan,World Cup,Big Air,2,825.50
-11,Iwabuchi Reira,Female,02-09-2024,Cardrona,NZL,Japan,World Cup,Slopestyle,4,579.30
-12,Iwabuchi Reira,Female,31-08-2024,Cardrona,NZL,Japan,Qualification,Slopestyle,4,
-13,Iwabuchi Reira,Female,23-03-2024,Silvaplana,SUI,Japan,World Cup,Slopestyle,1,800.00
-14,Iwabuchi Reira,Female,21-03-2024,Silvaplana,SUI,Japan,Qualification,Slopestyle,5,
-15,Iwabuchi Reira,Female,15-03-2024,Tignes,FRA,Japan,World Cup,Slopestyle,3,539.50
-16,Iwabuchi Reira,Female,14-03-2024,Tignes,FRA,Japan,Qualification,Slopestyle,1,
-17,Iwabuchi Reira,Female,15-12-2023,Copper Mountain,USA,Japan,World Cup,Big Air,5,460.20
-18,Iwabuchi Reira,Female,13-12-2023,Copper Mountain,USA,Japan,Qualification,Big Air,4,
-19,Iwabuchi Reira,Female,09-12-2023,Edmonton,CAN,Japan,World Cup,Big Air,5,430.50
-20,Iwabuchi Reira,Female,08-12-2023,Edmonton,CAN,Japan,Qualification,Big Air,4,
-21,Iwabuchi Reira,Female,02-12-2023,Beijing,CHN,Japan,World Cup,Big Air,7,231.10
-22,Iwabuchi Reira,Female,01-12-2023,Beijing,CHN,Japan,Qualification,Big Air,3,
-23,Iwabuchi Reira,Female,21-10-2023,Chur,SUI,Japan,Qualification,Big Air,2,
-24,Iwabuchi Reira,Female,21-10-2023,Chur,SUI,Japan,World Cup,Big Air,2,818.80
-25,Iwabuchi Reira,Female,04-03-2023,Bakuriani,GEO,Japan,World Championships,Big Air,DNS,
-26,Iwabuchi Reira,Female,02-03-2023,Bakuriani,GEO,Japan,Qualification,Big Air,DNS,
-27,Iwabuchi Reira,Female,27-02-2023,Bakuriani,GEO,Japan,Qualification,Slopestyle,7,
-28,Iwabuchi Reira,Female,27-02-2023,Bakuriani,GEO,Japan,World Championships,Slopestyle,6,420.20
-29,Iwabuchi Reira,Female,04-02-2023,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,2,492.40
-30,Iwabuchi Reira,Female,01-02-2023,Mammoth Mountain,USA,Japan,Qualification,Slopestyle,2,
-31,Iwabuchi Reira,Female,22-01-2023,Laax,SUI,Japan,World Cup,Slopestyle,4,576.50
-32,Iwabuchi Reira,Female,20-01-2023,Laax,SUI,Japan,Qualification,Slopestyle,4,
-33,Iwabuchi Reira,Female,14-01-2023,Kreischberg,AUT,Japan,Qualification,Big Air,2,
-34,Iwabuchi Reira,Female,14-01-2023,Kreischberg,AUT,Japan,World Cup,Big Air,8,295.90
-35,Iwabuchi Reira,Female,17-12-2022,Copper Mountain,USA,Japan,World Cup,Big Air,DNS,
-36,Iwabuchi Reira,Female,15-12-2022,Copper Mountain,USA,Japan,Qualification,Big Air,DNS,
-37,Iwabuchi Reira,Female,10-12-2022,Edmonton,CAN,Japan,World Cup,Big Air,3,525.80
-38,Iwabuchi Reira,Female,09-12-2022,Edmonton,CAN,Japan,Qualification,Big Air,1,
-39,Iwabuchi Reira,Female,22-10-2022,Chur,SUI,Japan,World Cup,Big Air,1,1000.00
-40,Iwabuchi Reira,Female,22-10-2022,Chur,SUI,Japan,Qualification,Big Air,1,
-41,Iwabuchi Reira,Female,15-02-2022,Beijing,CHN,Japan,Olympic Winter Games,Big Air,4,577.50
-42,Iwabuchi Reira,Female,14-02-2022,Beijing,CHN,Japan,Qualification,Big Air,3,
-43,Iwabuchi Reira,Female,06-02-2022,Beijing,CHN,Japan,Olympic Winter Games,Slopestyle,5,488.80
-44,Iwabuchi Reira,Female,05-02-2022,Beijing,CHN,Japan,Qualification,Slopestyle,11,
-45,Iwabuchi Reira,Female,15-01-2022,Laax,SUI,Japan,World Cup,Slopestyle,4,463.50
-46,Iwabuchi Reira,Female,14-01-2022,Laax,SUI,Japan,Qualification,Slopestyle,4,
-47,Iwabuchi Reira,Female,08-01-2022,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,11,211.20
-48,Iwabuchi Reira,Female,06-01-2022,Mammoth Mountain,USA,Japan,Qualification,Slopestyle,11,
-49,Iwabuchi Reira,Female,01-01-2022,Calgary,CAN,Japan,World Cup,Slopestyle,7,278.80
-50,Iwabuchi Reira,Female,31-12-2021,Calgary,CAN,Japan,Qualification,Slopestyle,4,
-51,Iwabuchi Reira,Female,04-12-2021,Steamboat,USA,Japan,World Cup,Big Air,1,1000.00
-52,Iwabuchi Reira,Female,02-12-2021,Steamboat,USA,Japan,Qualification,Big Air,1,
-53,Iwabuchi Reira,Female,23-10-2021,Chur,SUI,Japan,World Cup,Big Air,7,361.70
-54,Iwabuchi Reira,Female,28-03-2021,Silvaplana,SUI,Japan,Qualification,Slopestyle,1,
-55,Iwabuchi Reira,Female,28-03-2021,Silvaplana,SUI,Japan,World Cup,Slopestyle,1,600.00
-56,Iwabuchi Reira,Female,16-03-2021,Aspen,USA,Japan,World Championships,Big Air,8,310.03
-57,Iwabuchi Reira,Female,14-03-2021,Aspen,USA,Japan,Qualification,Big Air,4,
-58,Iwabuchi Reira,Female,12-03-2021,Aspen,USA,Japan,World Championships,Slopestyle,20,73.25
-59,Iwabuchi Reira,Female,10-03-2021,Aspen,USA,Japan,Qualification,Slopestyle,20,
-60,Iwabuchi Reira,Female,22-01-2021,Laax,SUI,Japan,World Cup,Slopestyle,6,334.79
-61,Iwabuchi Reira,Female,20-01-2021,Laax,SUI,Japan,Qualification,Slopestyle,5,
-62,Iwabuchi Reira,Female,09-01-2021,Kreischberg,AUT,Japan,World Cup,Big Air,4,577.45
-63,Iwabuchi Reira,Female,07-01-2021,Kreischberg ,AUT,Japan,Qualification,Big Air,3,
-64,Iwabuchi Reira,Female,15-01-2020,Laax,SUI,Japan,World Cup,Slopestyle,2,800.00
-65,Iwabuchi Reira,Female,14-01-2020,Laax,SUI,Japan,Qualification,Slopestyle,1,
-66,Iwabuchi Reira,Female,20-12-2019,Atlanta,USA,Japan,World Cup,Big Air,1,1000.00
-67,Iwabuchi Reira,Female,14-12-2019,Beijing,CHN,Japan,World Cup,Big Air,4,500.00
-68,Iwabuchi Reira,Female,12-12-2019,Beijing,CHN,Japan,Qualification,Big Air,4,
-69,Iwabuchi Reira,Female,02-11-2019,Modena SKIPASS,ITA,Japan,World Cup,Big Air,1,1000.00
-70,Iwabuchi Reira,Female,01-11-2019,Modena SKIPASS,ITA,Japan,Qualification,Big Air,1,
-71,Iwabuchi Reira,Female,24-08-2019,Cardrona,NZL,Japan,World Cup,Big Air,6,400.00
-72,Iwabuchi Reira,Female,23-08-2019,Cardrona,NZL,Japan,Qualification,Big Air,6,
-73,Iwabuchi Reira,Female,10-02-2019,Park City,USA,Japan,World Championships,Slopestyle,5,450.00
-74,Iwabuchi Reira,Female,09-02-2019,Park City,USA,Japan,Qualification,Slopestyle,5,
-75,Iwabuchi Reira,Female,18-01-2019,Laax,SUI,Japan,World Cup,Slopestyle,5,450.00
-76,Iwabuchi Reira,Female,17-01-2019,Laax,SUI,Japan,Qualification,Slopestyle,2,
-77,Iwabuchi Reira,Female,12-01-2019,Kreischberg,AUT,Japan,World Cup,Slopestyle,5,450.00
-78,Iwabuchi Reira,Female,11-01-2019,Kreischberg,AUT,Japan,Qualification,Slopestyle,2,
-79,Iwabuchi Reira,Female,21-12-2018,Secret Garden,CHN,Japan,World Cup,Slopestyle,2,800.00
-80,Iwabuchi Reira,Female,20-12-2018,Secret Garden,CHN,Japan,Qualification,Slopestyle,2,
-81,Iwabuchi Reira,Female,24-11-2018,Beijing,CHN,Japan,World Cup,Big Air,6,400.00
-82,Iwabuchi Reira,Female,23-11-2018,Beijing,CHN,Japan,Qualification,Big Air,1,
-83,Iwabuchi Reira,Female,03-11-2018,Modena SKIPASS,ITA,Japan,World Cup,Big Air,1,1000.00
-84,Iwabuchi Reira,Female,08-09-2018,Cardrona,NZL,Japan,World Cup,Big Air,1,1000.00
-85,Iwabuchi Reira,Female,06-09-2018,Cardrona,NZL,Japan,Qualification,Big Air,1,
-86,Iwabuchi Reira,Female,22-02-2018,Alpensia Jumping Park,KOR,Japan,Olympic Winter Games,Big Air,4,500.00
-87,Iwabuchi Reira,Female,19-02-2018,Alpensia Jumping Park,KOR,Japan,Qualification,Big Air,3,
-88,Iwabuchi Reira,Female,12-02-2018,Phoenix Snow Park,KOR,Japan,Olympic Winter Games,Slopestyle,14,180.00
-89,Iwabuchi Reira,Female,12-01-2018,Snowmass,USA,Japan,World Cup,Slopestyle,2,800.00
-90,Iwabuchi Reira,Female,10-01-2018,Snowmass,USA,Japan,Qualification,Slopestyle,2,
-91,Iwabuchi Reira,Female,10-12-2017,Copper Mountain Resort,USA,Japan,World Cup,Big Air,1,1000.00
-92,Iwabuchi Reira,Female,08-12-2017,Copper Mountain Resort,USA,Japan,Qualification,Big Air,1,
-93,Iwabuchi Reira,Female,02-12-2017,Moenchengladbach,GER,Japan,World Cup,Big Air,13,200.00
-94,Iwabuchi Reira,Female,04-09-2017,Cardrona,NZL,Japan,World Cup,Slopestyle,4,500.00
-95,Iwabuchi Reira,Female,03-09-2017,Cardrona,NZL,Japan,Qualification,Slopestyle,2,
-96,Iwabuchi Reira,Female,17-08-2017,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,1,200.00
-97,Iwabuchi Reira,Female,01-04-2017,Spindleruv Mlyn,CZE,Japan,FIS Junior World Championships,Big Air,2,192.00
-98,Iwabuchi Reira,Female,31-03-2017,Spindleruv Mlyn,CZE,Japan,FIS Junior World Championships,Slopestyle,2,192.00
-99,Iwabuchi Reira,Female,30-03-2017,Spindleruv Mlyn,CZE,Japan,Qualification,Slopestyle,1,
-100,Iwabuchi Reira,Female,29-03-2017,Spindleruv Mlyn,CZE,Japan,Qualification,Big Air,1,
-101,Iwabuchi Reira,Female,09-03-2017,Tokura  Katashina,JPN,Japan,National Championships,Slopestyle,1,100.00
-102,Iwabuchi Reira,Female,08-03-2017,Tokura  Katashina,JPN,Japan,FIS,Slopestyle,1,100.00
-103,Iwabuchi Reira,Female,05-03-2017,Tokura  Katashina,JPN,Japan,National Championships,Big Air,3,30.00
-104,Iwabuchi Reira,Female,04-03-2017,Tokura  Katashina,JPN,Japan,FIS,Big Air,1,50.00
-105,Iwabuchi Reira,Female,10-03-2016,Katashina/Tokura,JPN,Japan,National Championships,Slopestyle,3,72.00
-106,Iwabuchi Reira,Female,08-03-2016,Katashina/Tokura,JPN,Japan,FIS,Slopestyle,5,58.50
-107,Iwabuchi Reira,Female,27-03-2015,Yubari,JPN,Japan,National Championships,Slopestyle,17,9.80
-108,Iwabuchi Reira,Female,10-03-2015,Yabuli,CHN,Japan,FIS Junior World Championships,Slopestyle,19,43.20
+0,Iwabuchi Reira,Female,13-03-2025,Flachau,AUT,Japan,Qualification,Slopestyle,4,
+1,Iwabuchi Reira,Female,02-02-2025,Aspen,USA,Japan,World Cup,Slopestyle,24,54.00
+2,Iwabuchi Reira,Female,31-01-2025,Aspen,USA,Japan,Qualification,Slopestyle,24,
+3,Iwabuchi Reira,Female,18-01-2025,Laax,SUI,Japan,World Cup,Slopestyle,5,492.60
+4,Iwabuchi Reira,Female,16-01-2025,Laax,SUI,Japan,Qualification,Slopestyle,5,
+5,Iwabuchi Reira,Female,11-01-2025,Kreischberg,AUT,Japan,World Cup,Big Air,2,824.90
+6,Iwabuchi Reira,Female,09-01-2025,Kreischberg,AUT,Japan,Qualification,Big Air,3,
+7,Iwabuchi Reira,Female,05-01-2025,Klagenfurt,AUT,Japan,World Cup,Big Air,4,568.10
+8,Iwabuchi Reira,Female,03-01-2025,Klagenfurt,AUT,Japan,Qualification,Big Air,3,
+9,Iwabuchi Reira,Female,01-12-2024,Beijing,CHN,Japan,World Cup,Big Air,5,480.00
+10,Iwabuchi Reira,Female,30-11-2024,Beijing,CHN,Japan,Qualification,Big Air,8,
+11,Iwabuchi Reira,Female,19-10-2024,Chur,SUI,Japan,World Cup,Big Air,2,825.50
+12,Iwabuchi Reira,Female,02-09-2024,Cardrona,NZL,Japan,World Cup,Slopestyle,4,579.30
+13,Iwabuchi Reira,Female,31-08-2024,Cardrona,NZL,Japan,Qualification,Slopestyle,4,
+14,Iwabuchi Reira,Female,23-03-2024,Silvaplana,SUI,Japan,World Cup,Slopestyle,1,800.00
+15,Iwabuchi Reira,Female,21-03-2024,Silvaplana,SUI,Japan,Qualification,Slopestyle,5,
+16,Iwabuchi Reira,Female,15-03-2024,Tignes,FRA,Japan,World Cup,Slopestyle,3,539.50
+17,Iwabuchi Reira,Female,14-03-2024,Tignes,FRA,Japan,Qualification,Slopestyle,1,
+18,Iwabuchi Reira,Female,15-12-2023,Copper Mountain,USA,Japan,World Cup,Big Air,5,460.20
+19,Iwabuchi Reira,Female,13-12-2023,Copper Mountain,USA,Japan,Qualification,Big Air,4,
+20,Iwabuchi Reira,Female,09-12-2023,Edmonton,CAN,Japan,World Cup,Big Air,5,430.50
+21,Iwabuchi Reira,Female,08-12-2023,Edmonton,CAN,Japan,Qualification,Big Air,4,
+22,Iwabuchi Reira,Female,02-12-2023,Beijing,CHN,Japan,World Cup,Big Air,7,231.10
+23,Iwabuchi Reira,Female,01-12-2023,Beijing,CHN,Japan,Qualification,Big Air,3,
+24,Iwabuchi Reira,Female,21-10-2023,Chur,SUI,Japan,Qualification,Big Air,2,
+25,Iwabuchi Reira,Female,21-10-2023,Chur,SUI,Japan,World Cup,Big Air,2,818.80
+26,Iwabuchi Reira,Female,04-03-2023,Bakuriani,GEO,Japan,World Championships,Big Air,DNS,
+27,Iwabuchi Reira,Female,02-03-2023,Bakuriani,GEO,Japan,Qualification,Big Air,DNS,
+28,Iwabuchi Reira,Female,27-02-2023,Bakuriani,GEO,Japan,Qualification,Slopestyle,7,
+29,Iwabuchi Reira,Female,27-02-2023,Bakuriani,GEO,Japan,World Championships,Slopestyle,6,420.20
+30,Iwabuchi Reira,Female,04-02-2023,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,2,492.40
+31,Iwabuchi Reira,Female,01-02-2023,Mammoth Mountain,USA,Japan,Qualification,Slopestyle,2,
+32,Iwabuchi Reira,Female,22-01-2023,Laax,SUI,Japan,World Cup,Slopestyle,4,576.50
+33,Iwabuchi Reira,Female,20-01-2023,Laax,SUI,Japan,Qualification,Slopestyle,4,
+34,Iwabuchi Reira,Female,14-01-2023,Kreischberg,AUT,Japan,Qualification,Big Air,2,
+35,Iwabuchi Reira,Female,14-01-2023,Kreischberg,AUT,Japan,World Cup,Big Air,8,295.90
+36,Iwabuchi Reira,Female,17-12-2022,Copper Mountain,USA,Japan,World Cup,Big Air,DNS,
+37,Iwabuchi Reira,Female,15-12-2022,Copper Mountain,USA,Japan,Qualification,Big Air,DNS,
+38,Iwabuchi Reira,Female,10-12-2022,Edmonton,CAN,Japan,World Cup,Big Air,3,525.80
+39,Iwabuchi Reira,Female,09-12-2022,Edmonton,CAN,Japan,Qualification,Big Air,1,
+40,Iwabuchi Reira,Female,22-10-2022,Chur,SUI,Japan,World Cup,Big Air,1,1000.00
+41,Iwabuchi Reira,Female,22-10-2022,Chur,SUI,Japan,Qualification,Big Air,1,
+42,Iwabuchi Reira,Female,15-02-2022,Beijing,CHN,Japan,Olympic Winter Games,Big Air,4,577.50
+43,Iwabuchi Reira,Female,14-02-2022,Beijing,CHN,Japan,Qualification,Big Air,3,
+44,Iwabuchi Reira,Female,06-02-2022,Beijing,CHN,Japan,Olympic Winter Games,Slopestyle,5,488.80
+45,Iwabuchi Reira,Female,05-02-2022,Beijing,CHN,Japan,Qualification,Slopestyle,11,
+46,Iwabuchi Reira,Female,15-01-2022,Laax,SUI,Japan,World Cup,Slopestyle,4,463.50
+47,Iwabuchi Reira,Female,14-01-2022,Laax,SUI,Japan,Qualification,Slopestyle,4,
+48,Iwabuchi Reira,Female,08-01-2022,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,11,211.20
+49,Iwabuchi Reira,Female,06-01-2022,Mammoth Mountain,USA,Japan,Qualification,Slopestyle,11,
+50,Iwabuchi Reira,Female,01-01-2022,Calgary,CAN,Japan,World Cup,Slopestyle,7,278.80
+51,Iwabuchi Reira,Female,31-12-2021,Calgary,CAN,Japan,Qualification,Slopestyle,4,
+52,Iwabuchi Reira,Female,04-12-2021,Steamboat,USA,Japan,World Cup,Big Air,1,1000.00
+53,Iwabuchi Reira,Female,02-12-2021,Steamboat,USA,Japan,Qualification,Big Air,1,
+54,Iwabuchi Reira,Female,23-10-2021,Chur,SUI,Japan,World Cup,Big Air,7,361.70
+55,Iwabuchi Reira,Female,28-03-2021,Silvaplana,SUI,Japan,Qualification,Slopestyle,1,
+56,Iwabuchi Reira,Female,28-03-2021,Silvaplana,SUI,Japan,World Cup,Slopestyle,1,600.00
+57,Iwabuchi Reira,Female,16-03-2021,Aspen,USA,Japan,World Championships,Big Air,8,310.03
+58,Iwabuchi Reira,Female,14-03-2021,Aspen,USA,Japan,Qualification,Big Air,4,
+59,Iwabuchi Reira,Female,12-03-2021,Aspen,USA,Japan,World Championships,Slopestyle,20,73.25
+60,Iwabuchi Reira,Female,10-03-2021,Aspen,USA,Japan,Qualification,Slopestyle,20,
+61,Iwabuchi Reira,Female,22-01-2021,Laax,SUI,Japan,World Cup,Slopestyle,6,334.79
+62,Iwabuchi Reira,Female,20-01-2021,Laax,SUI,Japan,Qualification,Slopestyle,5,
+63,Iwabuchi Reira,Female,09-01-2021,Kreischberg,AUT,Japan,World Cup,Big Air,4,577.45
+64,Iwabuchi Reira,Female,07-01-2021,Kreischberg ,AUT,Japan,Qualification,Big Air,3,
+65,Iwabuchi Reira,Female,15-01-2020,Laax,SUI,Japan,World Cup,Slopestyle,2,800.00
+66,Iwabuchi Reira,Female,14-01-2020,Laax,SUI,Japan,Qualification,Slopestyle,1,
+67,Iwabuchi Reira,Female,20-12-2019,Atlanta,USA,Japan,World Cup,Big Air,1,1000.00
+68,Iwabuchi Reira,Female,14-12-2019,Beijing,CHN,Japan,World Cup,Big Air,4,500.00
+69,Iwabuchi Reira,Female,12-12-2019,Beijing,CHN,Japan,Qualification,Big Air,4,
+70,Iwabuchi Reira,Female,02-11-2019,Modena SKIPASS,ITA,Japan,World Cup,Big Air,1,1000.00
+71,Iwabuchi Reira,Female,01-11-2019,Modena SKIPASS,ITA,Japan,Qualification,Big Air,1,
+72,Iwabuchi Reira,Female,24-08-2019,Cardrona,NZL,Japan,World Cup,Big Air,6,400.00
+73,Iwabuchi Reira,Female,23-08-2019,Cardrona,NZL,Japan,Qualification,Big Air,6,
+74,Iwabuchi Reira,Female,10-02-2019,Park City,USA,Japan,World Championships,Slopestyle,5,450.00
+75,Iwabuchi Reira,Female,09-02-2019,Park City,USA,Japan,Qualification,Slopestyle,5,
+76,Iwabuchi Reira,Female,18-01-2019,Laax,SUI,Japan,World Cup,Slopestyle,5,450.00
+77,Iwabuchi Reira,Female,17-01-2019,Laax,SUI,Japan,Qualification,Slopestyle,2,
+78,Iwabuchi Reira,Female,12-01-2019,Kreischberg,AUT,Japan,World Cup,Slopestyle,5,450.00
+79,Iwabuchi Reira,Female,11-01-2019,Kreischberg,AUT,Japan,Qualification,Slopestyle,2,
+80,Iwabuchi Reira,Female,21-12-2018,Secret Garden,CHN,Japan,World Cup,Slopestyle,2,800.00
+81,Iwabuchi Reira,Female,20-12-2018,Secret Garden,CHN,Japan,Qualification,Slopestyle,2,
+82,Iwabuchi Reira,Female,24-11-2018,Beijing,CHN,Japan,World Cup,Big Air,6,400.00
+83,Iwabuchi Reira,Female,23-11-2018,Beijing,CHN,Japan,Qualification,Big Air,1,
+84,Iwabuchi Reira,Female,03-11-2018,Modena SKIPASS,ITA,Japan,World Cup,Big Air,1,1000.00
+85,Iwabuchi Reira,Female,08-09-2018,Cardrona,NZL,Japan,World Cup,Big Air,1,1000.00
+86,Iwabuchi Reira,Female,06-09-2018,Cardrona,NZL,Japan,Qualification,Big Air,1,
+87,Iwabuchi Reira,Female,22-02-2018,Alpensia Jumping Park,KOR,Japan,Olympic Winter Games,Big Air,4,500.00
+88,Iwabuchi Reira,Female,19-02-2018,Alpensia Jumping Park,KOR,Japan,Qualification,Big Air,3,
+89,Iwabuchi Reira,Female,12-02-2018,Phoenix Snow Park,KOR,Japan,Olympic Winter Games,Slopestyle,14,180.00
+90,Iwabuchi Reira,Female,12-01-2018,Snowmass,USA,Japan,World Cup,Slopestyle,2,800.00
+91,Iwabuchi Reira,Female,10-01-2018,Snowmass,USA,Japan,Qualification,Slopestyle,2,
+92,Iwabuchi Reira,Female,10-12-2017,Copper Mountain Resort,USA,Japan,World Cup,Big Air,1,1000.00
+93,Iwabuchi Reira,Female,08-12-2017,Copper Mountain Resort,USA,Japan,Qualification,Big Air,1,
+94,Iwabuchi Reira,Female,02-12-2017,Moenchengladbach,GER,Japan,World Cup,Big Air,13,200.00
+95,Iwabuchi Reira,Female,04-09-2017,Cardrona,NZL,Japan,World Cup,Slopestyle,4,500.00
+96,Iwabuchi Reira,Female,03-09-2017,Cardrona,NZL,Japan,Qualification,Slopestyle,2,
+97,Iwabuchi Reira,Female,17-08-2017,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,1,200.00
+98,Iwabuchi Reira,Female,01-04-2017,Spindleruv Mlyn,CZE,Japan,FIS Junior World Championships,Big Air,2,192.00
+99,Iwabuchi Reira,Female,31-03-2017,Spindleruv Mlyn,CZE,Japan,FIS Junior World Championships,Slopestyle,2,192.00
+100,Iwabuchi Reira,Female,30-03-2017,Spindleruv Mlyn,CZE,Japan,Qualification,Slopestyle,1,
+101,Iwabuchi Reira,Female,29-03-2017,Spindleruv Mlyn,CZE,Japan,Qualification,Big Air,1,
+102,Iwabuchi Reira,Female,09-03-2017,Tokura  Katashina,JPN,Japan,National Championships,Slopestyle,1,100.00
+103,Iwabuchi Reira,Female,08-03-2017,Tokura  Katashina,JPN,Japan,FIS,Slopestyle,1,100.00
+104,Iwabuchi Reira,Female,05-03-2017,Tokura  Katashina,JPN,Japan,National Championships,Big Air,3,30.00
+105,Iwabuchi Reira,Female,04-03-2017,Tokura  Katashina,JPN,Japan,FIS,Big Air,1,50.00
+106,Iwabuchi Reira,Female,10-03-2016,Katashina/Tokura,JPN,Japan,National Championships,Slopestyle,3,72.00
+107,Iwabuchi Reira,Female,08-03-2016,Katashina/Tokura,JPN,Japan,FIS,Slopestyle,5,58.50
+108,Iwabuchi Reira,Female,27-03-2015,Yubari,JPN,Japan,National Championships,Slopestyle,17,9.80
+109,Iwabuchi Reira,Female,10-03-2015,Yabuli,CHN,Japan,FIS Junior World Championships,Slopestyle,19,43.20
