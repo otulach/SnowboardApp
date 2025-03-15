@@ -1,110 +1,111 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Buntschu Leandro,Male,13-03-2025,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,25,
-1,Buntschu Leandro,Male,28-02-2025,Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,15,28.80
-2,Buntschu Leandro,Male,27-02-2025,Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,16,27.00
-3,Buntschu Leandro,Male,23-02-2025,Colere,ITA,Switzerland,FIS,Snowboard Cross,17,25.20
-4,Buntschu Leandro,Male,22-02-2025,Colere,ITA,Switzerland,FIS,Snowboard Cross,7,64.80
-5,Buntschu Leandro,Male,09-02-2025,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,30,6.40
-6,Buntschu Leandro,Male,08-02-2025,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,54,
-7,Buntschu Leandro,Male,31-01-2025,St. Lary,FRA,Switzerland,European Cup,Snowboard Cross,16,27.00
-8,Buntschu Leandro,Male,24-01-2025,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,35,3.60
-9,Buntschu Leandro,Male,23-01-2025,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,38,3.82
-10,Buntschu Leandro,Male,27-11-2024,Pitztal,AUT,Switzerland,European Cup,Snowboard Cross,67,3.74
-11,Buntschu Leandro,Male,27-11-2024,Pitztal,AUT,Switzerland,Qualification,Snowboard Cross,67,
-12,Buntschu Leandro,Male,24-03-2024,Lenk,SUI,Switzerland,National Championships,Snowboard Cross,5,54.00
-13,Buntschu Leandro,Male,22-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,DNF,
-14,Buntschu Leandro,Male,21-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,38,4.58
-15,Buntschu Leandro,Male,14-03-2024,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,21,20.00
-16,Buntschu Leandro,Male,13-03-2024,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,19,24.00
-17,Buntschu Leandro,Male,02-03-2024,St. Moritz,SUI,Switzerland,FIS,Snowboard Cross,6,56.00
-18,Buntschu Leandro,Male,25-02-2024,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,40,5.36
-19,Buntschu Leandro,Male,24-02-2024,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,47,5.25
-20,Buntschu Leandro,Male,17-02-2024,Colere,ITA,Switzerland,European Cup,Snowboard Cross,54,3.43
-21,Buntschu Leandro,Male,16-02-2024,Colere,ITA,Switzerland,European Cup,Snowboard Cross,55,3.36
-22,Buntschu Leandro,Male,06-02-2024,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,42,3.58
-23,Buntschu Leandro,Male,05-02-2024,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,28,8.00
-24,Buntschu Leandro,Male,01-02-2024,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,38,4.20
-25,Buntschu Leandro,Male,31-01-2024,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,38,4.20
-26,Buntschu Leandro,Male,28-01-2024,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,40,3.70
-27,Buntschu Leandro,Male,27-01-2024,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,24,14.00
-28,Buntschu Leandro,Male,20-01-2024,Montafon,AUT,Switzerland,National Championships,Snowboard Cross,43,5.10
-29,Buntschu Leandro,Male,09-12-2023,Pitztal,AUT,Switzerland,FIS,Snowboard Cross,18,18.20
-30,Buntschu Leandro,Male,01-04-2023,St. Moritz,SUI,Switzerland,National Championships,Snowboard Cross,10,75.40
-31,Buntschu Leandro,Male,19-03-2023,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,40,3.33
-32,Buntschu Leandro,Male,18-03-2023,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,29,6.48
-33,Buntschu Leandro,Male,16-03-2023,Pitztal,AUT,Switzerland,FIS,Snowboard Cross,16,19.50
-34,Buntschu Leandro,Male,15-03-2023,Pitztal,AUT,Switzerland,FIS,Snowboard Cross,13,26.00
-35,Buntschu Leandro,Male,12-03-2023,Lenk,SUI,Switzerland,FIS,Snowboard Cross,17,22.40
-36,Buntschu Leandro,Male,16-02-2023,Moena - Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,33,6.96
-37,Buntschu Leandro,Male,15-02-2023,Moena - Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,43,5.10
-38,Buntschu Leandro,Male,05-02-2023,Dolni Morava,CZE,Switzerland,FIS,Snowboard Cross,2,72.00
-39,Buntschu Leandro,Male,04-02-2023,Dolni Morava,CZE,Switzerland,FIS,Snowboard Cross,3,54.00
-40,Buntschu Leandro,Male,03-02-2023,Dolni Morava,CZE,Switzerland,FIS,Snowboard Cross,4,45.00
-41,Buntschu Leandro,Male,22-01-2023,Puy St.Vincent,FRA,Switzerland,European Cup,Snowboard Cross,33,5.76
-42,Buntschu Leandro,Male,21-01-2023,Puy St.Vincent,FRA,Switzerland,European Cup,Snowboard Cross,41,4.37
-43,Buntschu Leandro,Male,14-01-2023,Lenk,SUI,Switzerland,FIS,Snowboard Cross,4,25.00
-44,Buntschu Leandro,Male,25-11-2022,Pitztal,AUT,Switzerland,FIS,Snowboard Cross,65,2.42
-45,Buntschu Leandro,Male,24-11-2022,Pitztal,AUT,Switzerland,European Cup,Snowboard Cross,85,
-46,Buntschu Leandro,Male,23-11-2022,Pitztal,AUT,Switzerland,Qualification,Snowboard Cross,85,
-47,Buntschu Leandro,Male,31-03-2022,Veysonnaz,SUI,Switzerland,FIS Junior World Championships,Snowboard Cross,33,6.24
-48,Buntschu Leandro,Male,27-03-2022,Lenk,SUI,Switzerland,National Championships,Snowboard Cross,40,4.81
-49,Buntschu Leandro,Male,26-03-2022,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,58,4.72
-50,Buntschu Leandro,Male,25-03-2022,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,60,4.50
-51,Buntschu Leandro,Male,09-03-2022,Lenk,SUI,Switzerland,Junior,Snowboard Cross,7,18.00
-52,Buntschu Leandro,Male,04-03-2022,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,12,26.40
-53,Buntschu Leandro,Male,03-03-2022,Pitztal,AUT,Switzerland,European Cup,Snowboard Cross,49,5.69
-54,Buntschu Leandro,Male,27-02-2022,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,8,16.00
-55,Buntschu Leandro,Male,26-02-2022,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,25,3.00
-56,Buntschu Leandro,Male,13-02-2022,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,17,16.80
-57,Buntschu Leandro,Male,12-02-2022,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,25,7.20
-58,Buntschu Leandro,Male,06-02-2022,Dolni Morava,CZE,Switzerland,Junior,Snowboard Cross,14,9.00
-59,Buntschu Leandro,Male,05-02-2022,Dolni Morava,CZE,Switzerland,Junior,Snowboard Cross,13,10.00
-60,Buntschu Leandro,Male,03-02-2022,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,63,3.02
-61,Buntschu Leandro,Male,02-02-2022,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,65,
-62,Buntschu Leandro,Male,23-01-2022,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,48,4.19
-63,Buntschu Leandro,Male,31-10-2021,Les 2 Alpes,FRA,Switzerland,FIS,Snowboard Cross,32,4.16
-64,Buntschu Leandro,Male,30-10-2021,Les 2 Alpes,FRA,Switzerland,FIS,Snowboard Cross,17,30.80
-65,Buntschu Leandro,Male,20-03-2021,Pizol,SUI,Switzerland,Junior,Parallel Slalom,21,5.00
-66,Buntschu Leandro,Male,12-03-2021,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,69,2.35
-67,Buntschu Leandro,Male,28-02-2021,Lenk,SUI,Switzerland,FIS,Snowboard Cross,9,14.50
-68,Buntschu Leandro,Male,31-01-2021,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,61,3.17
-69,Buntschu Leandro,Male,30-01-2021,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,67,
-70,Buntschu Leandro,Male,28-01-2021,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,31,1.96
-71,Buntschu Leandro,Male,27-01-2021,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,27,3.15
-72,Buntschu Leandro,Male,16-01-2021,Crans-Montana,SUI,Switzerland,FIS,Snowboard Cross,25,13.20
-73,Buntschu Leandro,Male,08-03-2020,Kuehtai,AUT,Switzerland,Junior,Snowboard Cross,30,4.16
-74,Buntschu Leandro,Male,07-03-2020,Kuehtai,AUT,Switzerland,Junior,Snowboard Cross,12,28.60
-75,Buntschu Leandro,Male,23-02-2020,Folgaria,ITA,Switzerland,Junior,Snowboard Cross,37,1.36
-76,Buntschu Leandro,Male,22-02-2020,Folgaria,ITA,Switzerland,Junior,Snowboard Cross,30,2.24
-77,Buntschu Leandro,Male,16-02-2020,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,29,7.20
-78,Buntschu Leandro,Male,15-02-2020,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,41,2.73
-79,Buntschu Leandro,Male,08-02-2020,Colere,ITA,Switzerland,FIS,Snowboard Cross,41,2.37
-80,Buntschu Leandro,Male,07-02-2020,Colere,ITA,Switzerland,FIS,Snowboard Cross,24,9.80
-81,Buntschu Leandro,Male,26-01-2020,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,44,2.08
-82,Buntschu Leandro,Male,25-01-2020,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,76,0.92
-83,Buntschu Leandro,Male,01-12-2019,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,35,2.80
-84,Buntschu Leandro,Male,30-11-2019,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,45,2.38
-85,Buntschu Leandro,Male,24-03-2019,Lenk,SUI,Switzerland,National Championships,Snowboard Cross,32,6.24
-86,Buntschu Leandro,Male,23-03-2019,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,67,
-87,Buntschu Leandro,Male,22-03-2019,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,61,4.39
-88,Buntschu Leandro,Male,10-03-2019,Kuehtai,AUT,Switzerland,FIS,Snowboard Cross,20,13.20
-89,Buntschu Leandro,Male,09-03-2019,Kuehtai,AUT,Switzerland,FIS,Snowboard Cross,31,3.36
-90,Buntschu Leandro,Male,10-02-2019,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,8,32.00
-91,Buntschu Leandro,Male,09-02-2019,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,21,12.00
-92,Buntschu Leandro,Male,27-01-2019,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,25,4.20
-93,Buntschu Leandro,Male,26-01-2019,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,25,5.40
-94,Buntschu Leandro,Male,12-01-2019,Villars sur Ollons,SUI,Switzerland,FIS,Snowboard Cross,6,20.00
-95,Buntschu Leandro,Male,17-12-2018,Isola 2000,FRA,Switzerland,FIS,Snowboard Cross,40,2.40
-96,Buntschu Leandro,Male,16-12-2018,Isola 2000,FRA,Switzerland,FIS,Snowboard Cross,56,
-97,Buntschu Leandro,Male,11-03-2018,Lenk,SUI,Switzerland,Junior,Snowboard Cross,22,
-98,Buntschu Leandro,Male,10-03-2018,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,49,4.11
-99,Buntschu Leandro,Male,09-03-2018,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,58,
-100,Buntschu Leandro,Male,24-02-2018,Sedrun,SUI,Switzerland,National Championships,Snowboard Cross,23,14.40
-101,Buntschu Leandro,Male,18-02-2018,Flumserberg,SUI,Switzerland,Junior,Snowboard Cross,13,10.00
-102,Buntschu Leandro,Male,17-02-2018,Flumserberg,SUI,Switzerland,Junior,Snowboard Cross,25,7.80
-103,Buntschu Leandro,Male,04-02-2018,Puy St. Vincent,FRA,Switzerland,Junior,Snowboard Cross,11,12.00
-104,Buntschu Leandro,Male,03-02-2018,Puy St. Vincent,FRA,Switzerland,Junior,Snowboard Cross,15,8.00
-105,Buntschu Leandro,Male,28-01-2018,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,65,2.42
-106,Buntschu Leandro,Male,27-01-2018,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,62,2.62
-107,Buntschu Leandro,Male,03-12-2017,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,63,1.86
-108,Buntschu Leandro,Male,02-12-2017,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,57,2.01
+0,Buntschu Leandro,Male,15-03-2025,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,19,
+1,Buntschu Leandro,Male,13-03-2025,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,26,
+2,Buntschu Leandro,Male,28-02-2025,Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,15,28.80
+3,Buntschu Leandro,Male,27-02-2025,Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,16,27.00
+4,Buntschu Leandro,Male,23-02-2025,Colere,ITA,Switzerland,FIS,Snowboard Cross,17,25.20
+5,Buntschu Leandro,Male,22-02-2025,Colere,ITA,Switzerland,FIS,Snowboard Cross,7,64.80
+6,Buntschu Leandro,Male,09-02-2025,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,30,6.40
+7,Buntschu Leandro,Male,08-02-2025,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,54,
+8,Buntschu Leandro,Male,31-01-2025,St. Lary,FRA,Switzerland,European Cup,Snowboard Cross,16,27.00
+9,Buntschu Leandro,Male,24-01-2025,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,35,3.60
+10,Buntschu Leandro,Male,23-01-2025,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,38,3.82
+11,Buntschu Leandro,Male,27-11-2024,Pitztal,AUT,Switzerland,European Cup,Snowboard Cross,67,3.74
+12,Buntschu Leandro,Male,27-11-2024,Pitztal,AUT,Switzerland,Qualification,Snowboard Cross,67,
+13,Buntschu Leandro,Male,24-03-2024,Lenk,SUI,Switzerland,National Championships,Snowboard Cross,5,54.00
+14,Buntschu Leandro,Male,22-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,DNF,
+15,Buntschu Leandro,Male,21-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,38,4.58
+16,Buntschu Leandro,Male,14-03-2024,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,21,20.00
+17,Buntschu Leandro,Male,13-03-2024,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,19,24.00
+18,Buntschu Leandro,Male,02-03-2024,St. Moritz,SUI,Switzerland,FIS,Snowboard Cross,6,56.00
+19,Buntschu Leandro,Male,25-02-2024,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,40,5.36
+20,Buntschu Leandro,Male,24-02-2024,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,47,5.25
+21,Buntschu Leandro,Male,17-02-2024,Colere,ITA,Switzerland,European Cup,Snowboard Cross,54,3.43
+22,Buntschu Leandro,Male,16-02-2024,Colere,ITA,Switzerland,European Cup,Snowboard Cross,55,3.36
+23,Buntschu Leandro,Male,06-02-2024,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,42,3.58
+24,Buntschu Leandro,Male,05-02-2024,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,28,8.00
+25,Buntschu Leandro,Male,01-02-2024,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,38,4.20
+26,Buntschu Leandro,Male,31-01-2024,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,38,4.20
+27,Buntschu Leandro,Male,28-01-2024,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,40,3.70
+28,Buntschu Leandro,Male,27-01-2024,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,24,14.00
+29,Buntschu Leandro,Male,20-01-2024,Montafon,AUT,Switzerland,National Championships,Snowboard Cross,43,5.10
+30,Buntschu Leandro,Male,09-12-2023,Pitztal,AUT,Switzerland,FIS,Snowboard Cross,18,18.20
+31,Buntschu Leandro,Male,01-04-2023,St. Moritz,SUI,Switzerland,National Championships,Snowboard Cross,10,75.40
+32,Buntschu Leandro,Male,19-03-2023,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,40,3.33
+33,Buntschu Leandro,Male,18-03-2023,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,29,6.48
+34,Buntschu Leandro,Male,16-03-2023,Pitztal,AUT,Switzerland,FIS,Snowboard Cross,16,19.50
+35,Buntschu Leandro,Male,15-03-2023,Pitztal,AUT,Switzerland,FIS,Snowboard Cross,13,26.00
+36,Buntschu Leandro,Male,12-03-2023,Lenk,SUI,Switzerland,FIS,Snowboard Cross,17,22.40
+37,Buntschu Leandro,Male,16-02-2023,Moena - Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,33,6.96
+38,Buntschu Leandro,Male,15-02-2023,Moena - Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,43,5.10
+39,Buntschu Leandro,Male,05-02-2023,Dolni Morava,CZE,Switzerland,FIS,Snowboard Cross,2,72.00
+40,Buntschu Leandro,Male,04-02-2023,Dolni Morava,CZE,Switzerland,FIS,Snowboard Cross,3,54.00
+41,Buntschu Leandro,Male,03-02-2023,Dolni Morava,CZE,Switzerland,FIS,Snowboard Cross,4,45.00
+42,Buntschu Leandro,Male,22-01-2023,Puy St.Vincent,FRA,Switzerland,European Cup,Snowboard Cross,33,5.76
+43,Buntschu Leandro,Male,21-01-2023,Puy St.Vincent,FRA,Switzerland,European Cup,Snowboard Cross,41,4.37
+44,Buntschu Leandro,Male,14-01-2023,Lenk,SUI,Switzerland,FIS,Snowboard Cross,4,25.00
+45,Buntschu Leandro,Male,25-11-2022,Pitztal,AUT,Switzerland,FIS,Snowboard Cross,65,2.42
+46,Buntschu Leandro,Male,24-11-2022,Pitztal,AUT,Switzerland,European Cup,Snowboard Cross,85,
+47,Buntschu Leandro,Male,23-11-2022,Pitztal,AUT,Switzerland,Qualification,Snowboard Cross,85,
+48,Buntschu Leandro,Male,31-03-2022,Veysonnaz,SUI,Switzerland,FIS Junior World Championships,Snowboard Cross,33,6.24
+49,Buntschu Leandro,Male,27-03-2022,Lenk,SUI,Switzerland,National Championships,Snowboard Cross,40,4.81
+50,Buntschu Leandro,Male,26-03-2022,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,58,4.72
+51,Buntschu Leandro,Male,25-03-2022,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,60,4.50
+52,Buntschu Leandro,Male,09-03-2022,Lenk,SUI,Switzerland,Junior,Snowboard Cross,7,18.00
+53,Buntschu Leandro,Male,04-03-2022,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,12,26.40
+54,Buntschu Leandro,Male,03-03-2022,Pitztal,AUT,Switzerland,European Cup,Snowboard Cross,49,5.69
+55,Buntschu Leandro,Male,27-02-2022,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,8,16.00
+56,Buntschu Leandro,Male,26-02-2022,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,25,3.00
+57,Buntschu Leandro,Male,13-02-2022,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,17,16.80
+58,Buntschu Leandro,Male,12-02-2022,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,25,7.20
+59,Buntschu Leandro,Male,06-02-2022,Dolni Morava,CZE,Switzerland,Junior,Snowboard Cross,14,9.00
+60,Buntschu Leandro,Male,05-02-2022,Dolni Morava,CZE,Switzerland,Junior,Snowboard Cross,13,10.00
+61,Buntschu Leandro,Male,03-02-2022,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,63,3.02
+62,Buntschu Leandro,Male,02-02-2022,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,65,
+63,Buntschu Leandro,Male,23-01-2022,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,48,4.19
+64,Buntschu Leandro,Male,31-10-2021,Les 2 Alpes,FRA,Switzerland,FIS,Snowboard Cross,32,4.16
+65,Buntschu Leandro,Male,30-10-2021,Les 2 Alpes,FRA,Switzerland,FIS,Snowboard Cross,17,30.80
+66,Buntschu Leandro,Male,20-03-2021,Pizol,SUI,Switzerland,Junior,Parallel Slalom,21,5.00
+67,Buntschu Leandro,Male,12-03-2021,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,69,2.35
+68,Buntschu Leandro,Male,28-02-2021,Lenk,SUI,Switzerland,FIS,Snowboard Cross,9,14.50
+69,Buntschu Leandro,Male,31-01-2021,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,61,3.17
+70,Buntschu Leandro,Male,30-01-2021,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,67,
+71,Buntschu Leandro,Male,28-01-2021,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,31,1.96
+72,Buntschu Leandro,Male,27-01-2021,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,27,3.15
+73,Buntschu Leandro,Male,16-01-2021,Crans-Montana,SUI,Switzerland,FIS,Snowboard Cross,25,13.20
+74,Buntschu Leandro,Male,08-03-2020,Kuehtai,AUT,Switzerland,Junior,Snowboard Cross,30,4.16
+75,Buntschu Leandro,Male,07-03-2020,Kuehtai,AUT,Switzerland,Junior,Snowboard Cross,12,28.60
+76,Buntschu Leandro,Male,23-02-2020,Folgaria,ITA,Switzerland,Junior,Snowboard Cross,37,1.36
+77,Buntschu Leandro,Male,22-02-2020,Folgaria,ITA,Switzerland,Junior,Snowboard Cross,30,2.24
+78,Buntschu Leandro,Male,16-02-2020,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,29,7.20
+79,Buntschu Leandro,Male,15-02-2020,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,41,2.73
+80,Buntschu Leandro,Male,08-02-2020,Colere,ITA,Switzerland,FIS,Snowboard Cross,41,2.37
+81,Buntschu Leandro,Male,07-02-2020,Colere,ITA,Switzerland,FIS,Snowboard Cross,24,9.80
+82,Buntschu Leandro,Male,26-01-2020,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,44,2.08
+83,Buntschu Leandro,Male,25-01-2020,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,76,0.92
+84,Buntschu Leandro,Male,01-12-2019,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,35,2.80
+85,Buntschu Leandro,Male,30-11-2019,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,45,2.38
+86,Buntschu Leandro,Male,24-03-2019,Lenk,SUI,Switzerland,National Championships,Snowboard Cross,32,6.24
+87,Buntschu Leandro,Male,23-03-2019,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,67,
+88,Buntschu Leandro,Male,22-03-2019,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,61,4.39
+89,Buntschu Leandro,Male,10-03-2019,Kuehtai,AUT,Switzerland,FIS,Snowboard Cross,20,13.20
+90,Buntschu Leandro,Male,09-03-2019,Kuehtai,AUT,Switzerland,FIS,Snowboard Cross,31,3.36
+91,Buntschu Leandro,Male,10-02-2019,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,8,32.00
+92,Buntschu Leandro,Male,09-02-2019,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,21,12.00
+93,Buntschu Leandro,Male,27-01-2019,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,25,4.20
+94,Buntschu Leandro,Male,26-01-2019,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,25,5.40
+95,Buntschu Leandro,Male,12-01-2019,Villars sur Ollons,SUI,Switzerland,FIS,Snowboard Cross,6,20.00
+96,Buntschu Leandro,Male,17-12-2018,Isola 2000,FRA,Switzerland,FIS,Snowboard Cross,40,2.40
+97,Buntschu Leandro,Male,16-12-2018,Isola 2000,FRA,Switzerland,FIS,Snowboard Cross,56,
+98,Buntschu Leandro,Male,11-03-2018,Lenk,SUI,Switzerland,Junior,Snowboard Cross,22,
+99,Buntschu Leandro,Male,10-03-2018,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,49,4.11
+100,Buntschu Leandro,Male,09-03-2018,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,58,
+101,Buntschu Leandro,Male,24-02-2018,Sedrun,SUI,Switzerland,National Championships,Snowboard Cross,23,14.40
+102,Buntschu Leandro,Male,18-02-2018,Flumserberg,SUI,Switzerland,Junior,Snowboard Cross,13,10.00
+103,Buntschu Leandro,Male,17-02-2018,Flumserberg,SUI,Switzerland,Junior,Snowboard Cross,25,7.80
+104,Buntschu Leandro,Male,04-02-2018,Puy St. Vincent,FRA,Switzerland,Junior,Snowboard Cross,11,12.00
+105,Buntschu Leandro,Male,03-02-2018,Puy St. Vincent,FRA,Switzerland,Junior,Snowboard Cross,15,8.00
+106,Buntschu Leandro,Male,28-01-2018,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,65,2.42
+107,Buntschu Leandro,Male,27-01-2018,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,62,2.62
+108,Buntschu Leandro,Male,03-12-2017,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,63,1.86
+109,Buntschu Leandro,Male,02-12-2017,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,57,2.01
