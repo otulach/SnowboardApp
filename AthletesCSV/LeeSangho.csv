@@ -1,338 +1,340 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Lee Sangho,Male,02-03-2025,Krynica,POL,Korea,Qualification,Parallel Giant Slalom,4,
-1,Lee Sangho,Male,02-03-2025,Krynica,POL,Korea,World Cup,Parallel Giant Slalom,7,360.00
-2,Lee Sangho,Male,01-03-2025,Krynica,POL,Korea,Qualification,Parallel Giant Slalom,3,
-3,Lee Sangho,Male,01-03-2025,Krynica,POL,Korea,World Cup,Parallel Giant Slalom,2,800.00
-4,Lee Sangho,Male,16-02-2025,Val St. Come,CAN,Korea,Qualification,Parallel Giant Slalom,20,
-5,Lee Sangho,Male,16-02-2025,Val St. Come,CAN,Korea,World Cup,Parallel Giant Slalom,20,110.00
-6,Lee Sangho,Male,15-02-2025,Val St. Come,CAN,Korea,Qualification,Parallel Giant Slalom,20,
-7,Lee Sangho,Male,15-02-2025,Val St. Come,CAN,Korea,World Cup,Parallel Giant Slalom,20,110.00
-8,Lee Sangho,Male,21-12-2024,Davos,SUI,Korea,Qualification,Parallel Slalom,11,
-9,Lee Sangho,Male,21-12-2024,Davos,SUI,Korea,World Cup,Parallel Slalom,8,320.00
-10,Lee Sangho,Male,14-12-2024,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,31,
-11,Lee Sangho,Male,14-12-2024,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,31,28.00
-12,Lee Sangho,Male,12-12-2024,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,2,
-13,Lee Sangho,Male,12-12-2024,Carezza,ITA,Korea,World Cup,Parallel Giant Slalom,5,450.00
-14,Lee Sangho,Male,08-12-2024,Yanqing (NASC),CHN,Korea,World Cup,Parallel Slalom,DNF,
-15,Lee Sangho,Male,08-12-2024,Yanqing (NASC),CHN,Korea,Qualification,Parallel Slalom,DNF,
-16,Lee Sangho,Male,07-12-2024,Yanqing (NASC),CHN,Korea,World Cup,Parallel Giant Slalom,5,450.00
-17,Lee Sangho,Male,07-12-2024,Yanqing (NASC),CHN,Korea,Qualification,Parallel Giant Slalom,1,
-18,Lee Sangho,Male,01-12-2024,Mylin,CHN,Korea,World Cup,Parallel Slalom,9,290.00
-19,Lee Sangho,Male,01-12-2024,Mylin,CHN,Korea,Qualification,Parallel Slalom,1,
-20,Lee Sangho,Male,30-11-2024,Mylin,CHN,Korea,World Cup,Parallel Giant Slalom,3,600.00
-21,Lee Sangho,Male,30-11-2024,Mylin,CHN,Korea,Qualification,Parallel Giant Slalom,7,
-22,Lee Sangho,Male,17-03-2024,St. Moritz,SUI,Korea,European Cup,Parallel Slalom,27,16.20
-23,Lee Sangho,Male,16-03-2024,St. Moritz,SUI,Korea,European Cup,Parallel Giant Slalom,3,216.00
-24,Lee Sangho,Male,10-03-2024,Winterberg,GER,Korea,World Cup,Parallel Slalom Team,9,
-25,Lee Sangho,Male,09-03-2024,Winterberg,GER,Korea,Qualification,Parallel Slalom,1,
-26,Lee Sangho,Male,09-03-2024,Winterberg,GER,Korea,World Cup,Parallel Slalom,1,1000.00
-27,Lee Sangho,Male,25-02-2024,Krynica,POL,Korea,Qualification,Parallel Giant Slalom,16,
-28,Lee Sangho,Male,25-02-2024,Krynica,POL,Korea,World Cup,Parallel Giant Slalom,16,150.00
-29,Lee Sangho,Male,24-02-2024,Krynica,POL,Korea,Qualification,Parallel Giant Slalom,1,
-30,Lee Sangho,Male,24-02-2024,Krynica,POL,Korea,World Cup,Parallel Giant Slalom,9,290.00
-31,Lee Sangho,Male,02-02-2024,High1resort,KOR,Korea,FIS,Parallel Slalom,1,220.00
-32,Lee Sangho,Male,01-02-2024,High1resort,KOR,Korea,FIS,Parallel Giant Slalom,1,220.00
-33,Lee Sangho,Male,27-01-2024,Simonhöhe,AUT,Korea,Qualification,Parallel Giant Slalom,DNS,
-34,Lee Sangho,Male,27-01-2024,Simonhöhe,AUT,Korea,World Cup,Parallel Giant Slalom,DNS,
-35,Lee Sangho,Male,25-01-2024,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,1,
-36,Lee Sangho,Male,25-01-2024,Rogla,SLO,Korea,World Cup,Parallel Giant Slalom,5,450.00
-37,Lee Sangho,Male,21-01-2024,Pamporovo,BUL,Korea,Qualification,Parallel Slalom,4,
-38,Lee Sangho,Male,21-01-2024,Pamporovo,BUL,Korea,World Cup,Parallel Slalom,1,1000.00
-39,Lee Sangho,Male,20-01-2024,Pamporovo,BUL,Korea,Qualification,Parallel Slalom,15,
-40,Lee Sangho,Male,20-01-2024,Pamporovo,BUL,Korea,World Cup,Parallel Slalom,4,500.00
-41,Lee Sangho,Male,16-01-2024,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,14,
-42,Lee Sangho,Male,16-01-2024,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,14,180.00
-43,Lee Sangho,Male,13-01-2024,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,6,
-44,Lee Sangho,Male,13-01-2024,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,12,220.00
-45,Lee Sangho,Male,23-12-2023,Davos,SUI,Korea,Qualification,Parallel Slalom,3,
-46,Lee Sangho,Male,23-12-2023,Davos ,SUI,Korea,World Cup,Parallel Slalom,5,450.00
-47,Lee Sangho,Male,16-12-2023,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,9,
-48,Lee Sangho,Male,16-12-2023,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,11,240.00
-49,Lee Sangho,Male,14-12-2023,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,1,
-50,Lee Sangho,Male,14-12-2023,Carezza,ITA,Korea,World Cup,Parallel Giant Slalom,9,290.00
-51,Lee Sangho,Male,02-04-2023,Haus im Ennstal,AUT,Korea,National Championships,Parallel Slalom,DNS,
-52,Lee Sangho,Male,01-04-2023,Haus im Ennstal,AUT,Korea,National Championships,Parallel Giant Slalom,6,116.00
-53,Lee Sangho,Male,30-03-2023,Cortina dAmpezzo,ITA,Korea,National Championships,Parallel Slalom,6,116.00
-54,Lee Sangho,Male,26-03-2023,Villach - Gerlitzen,AUT,Korea,FIS,Parallel Slalom,1,220.00
-55,Lee Sangho,Male,25-03-2023,Villach - Gerlitzen,AUT,Korea,FIS,Parallel Slalom,2,176.00
-56,Lee Sangho,Male,18-03-2023,Berchtesgaden,GER,Korea,Qualification,Parallel Slalom,DNF,
-57,Lee Sangho,Male,18-03-2023,Berchtesgaden,GER,Korea,World Cup,Parallel Slalom,DNF,
-58,Lee Sangho,Male,15-03-2023,Rogla,SLO,Korea,World Cup,Parallel Giant Slalom,4,500.00
-59,Lee Sangho,Male,15-03-2023,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,2,
-60,Lee Sangho,Male,03-03-2023,high1 resort,KOR,Korea,Asian Cup,Parallel Slalom,DNF,
-61,Lee Sangho,Male,02-03-2023,high1 resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,9,104.40
-62,Lee Sangho,Male,22-02-2023,Bakuriani,GEO,Korea,World Championships,Parallel Slalom Team,10,
-63,Lee Sangho,Male,21-02-2023,Bakuriani,GEO,Korea,Qualification,Parallel Slalom,3,
-64,Lee Sangho,Male,21-02-2023,Bakuriani,GEO,Korea,World Championships,Parallel Slalom,5,450.00
-65,Lee Sangho,Male,19-02-2023,Bakuriani,GEO,Korea,Qualification,Parallel Giant Slalom,9,
-66,Lee Sangho,Male,19-02-2023,Bakuriani,GEO,Korea,World Championships,Parallel Giant Slalom,10,260.00
-67,Lee Sangho,Male,07-02-2023,high1 resort,KOR,Korea,FIS,Parallel Slalom,2,176.00
-68,Lee Sangho,Male,06-02-2023,high1 resort,KOR,Korea,FIS,Parallel Giant Slalom,3,132.00
-69,Lee Sangho,Male,27-01-2023,Blue Mountain,CAN,Korea,Qualification,Parallel Giant Slalom,2,
-70,Lee Sangho,Male,27-01-2023,Blue Mountain,CAN,Korea,World Cup,Parallel Giant Slalom,5,450.00
-71,Lee Sangho,Male,26-01-2023,Blue Mountain,CAN,Korea,Qualification,Parallel Giant Slalom,1,
-72,Lee Sangho,Male,26-01-2023,Blue Mountain,CAN,Korea,World Cup,Parallel Giant Slalom,2,800.00
-73,Lee Sangho,Male,22-01-2023,Bansko,BUL,Korea,Qualification,Parallel Slalom,10,
-74,Lee Sangho,Male,22-01-2023,Bansko,BUL,Korea,World Cup,Parallel Slalom,11,240.00
-75,Lee Sangho,Male,21-01-2023,Bansko,BUL,Korea,Qualification,Parallel Slalom,30,
-76,Lee Sangho,Male,21-01-2023,Bansko,BUL,Korea,World Cup,Parallel Slalom,30,32.00
-77,Lee Sangho,Male,14-01-2023,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,9,
-78,Lee Sangho,Male,14-01-2023,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,10,260.00
-79,Lee Sangho,Male,11-01-2023,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom Team,11,
-80,Lee Sangho,Male,10-01-2023,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,21,
-81,Lee Sangho,Male,10-01-2023,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,21,100.00
-82,Lee Sangho,Male,17-12-2022,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,21,
-83,Lee Sangho,Male,17-12-2022,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,21,100.00
-84,Lee Sangho,Male,15-12-2022,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,20,
-85,Lee Sangho,Male,15-12-2022,Carezza,ITA,Korea,World Cup,Parallel Giant Slalom,20,110.00
-86,Lee Sangho,Male,11-12-2022,Winterberg,GER,Korea,World Cup,Parallel Slalom,9,290.00
-87,Lee Sangho,Male,10-12-2022,Winterberg,GER,Korea,Qualification,Parallel Slalom,2,
-88,Lee Sangho,Male,10-12-2022,Winterberg,GER,Korea,World Cup,Parallel Slalom Team,19,
-89,Lee Sangho,Male,20-03-2022,Berchtesgaden,GER,Korea,World Cup,Parallel  Slalom Team,11,
-90,Lee Sangho,Male,19-03-2022,Berchtesgaden,GER,Korea,Qualification,Parallel Slalom,2,
-91,Lee Sangho,Male,19-03-2022,Berchtesgaden,GER,Korea,World Cup,Parallel Slalom,3,600.00
-92,Lee Sangho,Male,16-03-2022,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,4,
-93,Lee Sangho,Male,16-03-2022,Rogla,SLO,Korea,World Cup,Parallel Giant Slalom,4,500.00
-94,Lee Sangho,Male,12-03-2022,Piancavallo,ITA,Korea,Qualification,Parallel Slalom,2,
-95,Lee Sangho,Male,12-03-2022,Piancavallo,ITA,Korea,World Cup,Parallel Slalom,3,600.00
-96,Lee Sangho,Male,03-03-2022,Wellihilli Park,KOR,Korea,National Championships,Parallel Slalom,1,290.00
-97,Lee Sangho,Male,02-03-2022,Wellihilli Park,KOR,Korea,National Championships,Parallel Giant Slalom,1,290.00
-98,Lee Sangho,Male,22-02-2022,Wellihilli Park,KOR,Korea,FIS,Parallel Slalom,2,176.00
-99,Lee Sangho,Male,21-02-2022,Wellihilli Park,KOR,Korea,FIS,Parallel Giant Slalom,1,220.00
-100,Lee Sangho,Male,08-02-2022,Beijing,CHN,Korea,Qualification,Parallel Giant Slalom,1,
-101,Lee Sangho,Male,08-02-2022,Beijing,CHN,Korea,Olympic Winter Games,Parallel Giant Slalom,5,450.00
-102,Lee Sangho,Male,15-01-2022,Simonhöhe,AUT,Korea,World Cup,Parallel Giant Slalom Team,3,
-103,Lee Sangho,Male,14-01-2022,Simonhöhe,AUT,Korea,World Cup,Parallel Giant Slalom,9,290.00
-104,Lee Sangho,Male,14-01-2022,Simonhöhe,AUT,Korea,Qualification,Parallel Giant Slalom,3,
-105,Lee Sangho,Male,11-01-2022,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,1,
-106,Lee Sangho,Male,11-01-2022,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,5,450.00
-107,Lee Sangho,Male,08-01-2022,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,2,
-108,Lee Sangho,Male,08-01-2022,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,3,600.00
-109,Lee Sangho,Male,18-12-2021,Cortina d Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,3,
-110,Lee Sangho,Male,18-12-2021,Cortina d Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,2,800.00
-111,Lee Sangho,Male,16-12-2021,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,5,
-112,Lee Sangho,Male,16-12-2021,Carezza,ITA,Korea,World Cup,Parallel Giant Slalom,6,400.00
-113,Lee Sangho,Male,12-12-2021,Bannoye,RUS,Korea,Qualification,Parallel Slalom,2,
-114,Lee Sangho,Male,12-12-2021,Bannoye,RUS,Korea,World Cup,Parallel Slalom,2,800.00
-115,Lee Sangho,Male,11-12-2021,Bannoye,RUS,Korea,Qualification,Parallel Giant Slalom,2,
-116,Lee Sangho,Male,11-12-2021,Bannoye,RUS,Korea,World Cup,Parallel Giant Slalom,1,1000.00
-117,Lee Sangho,Male,21-03-2021,Berchtesgaden,GER,Korea,World Cup,Parallel Slalom Team,18,
-118,Lee Sangho,Male,20-03-2021,Berchtesgaden,GER,Korea,Qualification,Parallel Slalom,31,
-119,Lee Sangho,Male,20-03-2021,Berchtesgaden,GER,Korea,World Cup,Parallel Slalom,31,28.00
-120,Lee Sangho,Male,06-03-2021,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,6,
-121,Lee Sangho,Male,06-03-2021,Rogla,SLO,Korea,World Cup,Parallel Giant Slalom,12,220.00
-122,Lee Sangho,Male,02-03-2021,Rogla,SLO,Korea,World Championships,Parallel Slalom,5,450.00
-123,Lee Sangho,Male,02-03-2021,Rogla,SLO,Korea,Qualification,Parallel Slalom,6,
-124,Lee Sangho,Male,01-03-2021,Rogla,SLO,Korea,World Championships,Parallel Giant Slalom,14,180.00
-125,Lee Sangho,Male,01-03-2021,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,14,
-126,Lee Sangho,Male,07-02-2021,Bannoye,RUS,Korea,Qualification,Parallel Slalom,29,
-127,Lee Sangho,Male,07-02-2021,Bannoye,RUS,Korea,World Cup,Parallel Slalom,29,36.00
-128,Lee Sangho,Male,06-02-2021,Baonoye,RUS,Korea,Qualification,Parallel Giant Slalom,30,
-129,Lee Sangho,Male,06-02-2021,Bannoye,RUS,Korea,World Cup,Parallel Giant Slalom,30,32.00
-130,Lee Sangho,Male,30-01-2021,Moscow,RUS,Korea,Qualification,Parallel Slalom,10,
-131,Lee Sangho,Male,30-01-2021,Moscow,RUS,Korea,World Cup,Parallel Slalom,13,200.00
-132,Lee Sangho,Male,24-01-2021,Davos,SUI,Korea,European Cup,Parallel Slalom,8,115.20
-133,Lee Sangho,Male,23-01-2021,Davos,SUI,Korea,European Cup,Parallel Slalom,20,39.60
-134,Lee Sangho,Male,17-01-2021,Simonhoehe,AUT,Korea,European Cup,Parallel Giant Slalom,13,72.00
-135,Lee Sangho,Male,16-01-2021,Simonhoehe,AUT,Korea,European Cup,Parallel Giant Slalom,9,104.40
-136,Lee Sangho,Male,13-01-2021,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom Team,17,
-137,Lee Sangho,Male,12-01-2021,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,19,
-138,Lee Sangho,Male,12-01-2021,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,19,120.00
-139,Lee Sangho,Male,09-01-2021,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,14,
-140,Lee Sangho,Male,09-01-2021,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,13,200.00
-141,Lee Sangho,Male,17-12-2020,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,21,
-142,Lee Sangho,Male,17-12-2020,Carezza,ITA,Korea,World Cup,Parallel Giant Slalom,21,100.00
-143,Lee Sangho,Male,12-12-2020,Cortina d Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,39,
-144,Lee Sangho,Male,12-12-2020,Cortina d Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,39,18.80
-145,Lee Sangho,Male,26-01-2020,Piancavallo,ITA,Korea,World Cup,Parallel Slalom Team,11,
-146,Lee Sangho,Male,25-01-2020,Piancavallo,ITA,Korea,World Cup,Parallel Slalom,9,290.00
-147,Lee Sangho,Male,25-01-2020,Piancavallo,ITA,Korea,Qualification,Parallel Slalom,6,
-148,Lee Sangho,Male,18-01-2020,Rogla,SLO,Korea,World Cup,Parallel Giant Slalom,9,290.00
-149,Lee Sangho,Male,18-01-2020,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,3,
-150,Lee Sangho,Male,14-01-2020,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,31,28.00
-151,Lee Sangho,Male,14-01-2020,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,31,
-152,Lee Sangho,Male,11-01-2020,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,10,260.00
-153,Lee Sangho,Male,11-01-2020,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,7,
-154,Lee Sangho,Male,19-12-2019,Carezza,ITA,Korea,Open,Parallel Giant Slalom,4,500.00
-155,Lee Sangho,Male,14-12-2019,Cortina d Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,2,800.00
-156,Lee Sangho,Male,14-12-2019,Cortina d Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,5,
-157,Lee Sangho,Male,08-12-2019,Bannoye,RUS,Korea,World Cup,Parallel Giant Slalom,9,290.00
-158,Lee Sangho,Male,08-12-2019,Bannoye,RUS,Korea,Qualification,Parallel Giant Slalom,1,
-159,Lee Sangho,Male,07-12-2019,Bannoye,RUS,Korea,World Cup,Parallel Slalom,15,160.00
-160,Lee Sangho,Male,07-12-2019,Bannoye,RUS,Korea,Qualification,Parallel Slalom,15,
-161,Lee Sangho,Male,29-11-2019,Taiwoo ski resorts,CHN,Korea,Asian Cup,Parallel Giant Slalom,1,320.00
-162,Lee Sangho,Male,24-03-2019,Winterberg,GER,Korea,World Cup,Parallel Slalom Team,16,
-163,Lee Sangho,Male,23-03-2019,Winterberg,GER,Korea,World Cup,Parallel Slalom,10,260.00
-164,Lee Sangho,Male,23-03-2019,Winterberg,GER,Korea,Qualification,Parallel Slalom,6,
-165,Lee Sangho,Male,09-03-2019,Scuol,SUI,Korea,World Cup,Parallel GS,23,80.00
-166,Lee Sangho,Male,09-03-2019,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,23,
-167,Lee Sangho,Male,06-03-2019,Krasnoyarsk,RUS,Korea,Universiade,Parallel Slalom,3,216.00
-168,Lee Sangho,Male,05-03-2019,Krasnoyarsk,RUS,Korea,Universiade,Parallel GS,5,162.00
-169,Lee Sangho,Male,24-02-2019,Secret Garden,CHN,Korea,World Cup,Parallel Slalom,8,320.00
-170,Lee Sangho,Male,24-02-2019,Secret Garden,CHN,Korea,Qualification,Parallel Slalom,14,
-171,Lee Sangho,Male,23-02-2019,Secret Garden,CHN,Korea,World Cup,Parallel Giant Slalom,27,45.00
-172,Lee Sangho,Male,23-02-2019,Secret Garden,CHN,Korea,Qualification,Parallel Giant Slalom,27,
-173,Lee Sangho,Male,17-02-2019,Pyeongchang,KOR,Korea,World Cup,Parallel Giant Slalom,3,600.00
-174,Lee Sangho,Male,17-02-2019,Pyeongchang,KOR,Korea,Qualification,Parallel Giant Slalom,4,
-175,Lee Sangho,Male,16-02-2019,Pyeongchang,KOR,Korea,World Cup,Parallel Giant Slalom,5,450.00
-176,Lee Sangho,Male,16-02-2019,Pyeongchang,KOR,Korea,Qualification,Parallel Giant Slalom,1,
-177,Lee Sangho,Male,05-02-2019,Park City,USA,Korea,World Championships,Parallel Slalom,DSQ,
-178,Lee Sangho,Male,04-02-2019,Park City,USA,Korea,World Championships,Parallel Giant Slalom,31,28.00
-179,Lee Sangho,Male,27-01-2019,Moscow,RUS,Korea,World Cup,Parallel Slalom Team,19,
-180,Lee Sangho,Male,26-01-2019,Moscow,RUS,Korea,World Cup,Parallel Slalom,17,140.00
-181,Lee Sangho,Male,26-01-2019,Moscow,RUS,Korea,Qualification,Parallel Slalom,17,
-182,Lee Sangho,Male,19-01-2019,Rogla,SLO,Korea,World Cup,Parallel GS,12,220.00
-183,Lee Sangho,Male,19-01-2019,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,12,
-184,Lee Sangho,Male,10-01-2019,Bad Gastein,AUT,Korea,European Cup,Parallel Slalom,1,360.00
-185,Lee Sangho,Male,09-01-2019,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom Team,14,
-186,Lee Sangho,Male,08-01-2019,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,22,90.00
-187,Lee Sangho,Male,08-01-2019,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,22,
-188,Lee Sangho,Male,04-01-2019,Phoenix Pyeongchang,KOR,Korea,FIS,Parallel Slalom,1,220.00
-189,Lee Sangho,Male,03-01-2019,Phoenix Pyeongchang,KOR,Korea,FIS,Parallel Giant Slalom,1,220.00
-190,Lee Sangho,Male,15-12-2018,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel GS,30,32.00
-191,Lee Sangho,Male,15-12-2018,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,30,
-192,Lee Sangho,Male,13-12-2018,Carezza,ITA,Korea,World Cup,Parallel GS,38,19.10
-193,Lee Sangho,Male,13-12-2018,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,38,
-194,Lee Sangho,Male,24-02-2018,Phoenix Snow Park,KOR,Korea,Qualification,Parallel GS,3,
-195,Lee Sangho,Male,24-02-2018,Phoenix Snow Park,KOR,Korea,Olympic Winter Games,Parallel GS,2,800.00
-196,Lee Sangho,Male,28-01-2018,Bansko,BUL,Korea,World Cup,Parallel GS,13,200.00
-197,Lee Sangho,Male,28-01-2018,Bansko,BUL,Korea,Qualification,Parallel GS,12,
-198,Lee Sangho,Male,26-01-2018,Bansko,BUL,Korea,World Cup,Parallel GS,10,260.00
-199,Lee Sangho,Male,26-01-2018,Bansko,BUL,Korea,Qualification,Parallel GS,3,
-200,Lee Sangho,Male,21-01-2018,Rogla,SLO,Korea,World Cup,Parallel GS,7,360.00
-201,Lee Sangho,Male,21-01-2018,Rogla,SLO,Korea,Qualification,Parallel GS,10,
-202,Lee Sangho,Male,20-01-2018,Rogla,SLO,Korea,World Cup,Parallel GS,18,130.00
-203,Lee Sangho,Male,20-01-2018,Rogla,SLO,Korea,Qualification,Parallel GS,18,
-204,Lee Sangho,Male,12-01-2018,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,12,220.00
-205,Lee Sangho,Male,12-01-2018,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,11,
-206,Lee Sangho,Male,06-01-2018,Lackenhof,AUT,Korea,World Cup,Parallel GS Team,12,
-207,Lee Sangho,Male,05-01-2018,Lackenhof,AUT,Korea,World Cup,Parallel GS,7,360.00
-208,Lee Sangho,Male,05-01-2018,Lackenhof,AUT,Korea,Qualification,Parallel GS,7,
-209,Lee Sangho,Male,16-12-2017,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel Slalom,15,160.00
-210,Lee Sangho,Male,16-12-2017,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel Slalom,13,
-211,Lee Sangho,Male,15-12-2017,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel GS,9,290.00
-212,Lee Sangho,Male,15-12-2017,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel GS,3,
-213,Lee Sangho,Male,14-12-2017,Carezza,ITA,Korea,World Cup,Parallel GS,11,240.00
-214,Lee Sangho,Male,14-12-2017,Carezza,ITA,Korea,Qualification,Parallel GS,11,
-215,Lee Sangho,Male,09-12-2017,Hochfügen,GER,Korea,European Cup,Parallel GS,1,360.00
-216,Lee Sangho,Male,19-03-2017,Winterberg,GER,Korea,World Cup,Parallel Slalom Team,9,
-217,Lee Sangho,Male,18-03-2017,Winterberg,GER,Korea,Qualification,Parallel Slalom,1,
-218,Lee Sangho,Male,18-03-2017,Winterberg,GER,Korea,World Cup,Parallel Slalom,5,450.00
-219,Lee Sangho,Male,16-03-2017,Sierra Nevada,ESP,Korea,World Championships,Parallel GS,5,450.00
-220,Lee Sangho,Male,15-03-2017,Sierra Nevada,ESP,Korea,World Championships,Parallel Slalom,19,120.00
-221,Lee Sangho,Male,05-03-2017, Erciyes-Kayseri,TUR,Korea,World Cup,Parallel GS,2,800.00
-222,Lee Sangho,Male,20-02-2017,Sapporo,JPN,Korea,FIS,Slalom,1,220.00
-223,Lee Sangho,Male,19-02-2017,Sapporo,JPN,Korea,FIS,Giant Slalom,1,220.00
-224,Lee Sangho,Male,12-02-2017,Phoenix Pyeongchang,KOR,Korea,World Cup,Parallel GS,20,110.00
-225,Lee Sangho,Male,05-02-2017,Bansko,BUL,Korea,World Cup,Parallel GS,5,450.00
-226,Lee Sangho,Male,03-02-2017,Bansko,BUL,Korea,World Cup,Parallel GS,15,160.00
-227,Lee Sangho,Male,28-01-2017,Rogla,SLO,Korea,World Cup,Parallel GS,5,450.00
-228,Lee Sangho,Male,21-01-2017,Livigno,ITA,Korea,European Cup,Parallel GS,12,79.20
-229,Lee Sangho,Male,20-01-2017,Livigno,ITA,Korea,European Cup,Parallel GS,30,11.52
-230,Lee Sangho,Male,11-01-2017,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom Team,11,
-231,Lee Sangho,Male,10-01-2017,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,17,140.00
-232,Lee Sangho,Male,17-12-2016,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel Slalom,12,220.00
-233,Lee Sangho,Male,15-12-2016,Carezza,ITA,Korea,World Cup,Parallel GS,4,500.00
-234,Lee Sangho,Male,11-12-2016,Hochfügen,GER,Korea,European Cup,Parallel GS,2,288.00
-235,Lee Sangho,Male,10-12-2016,Hochfügen,GER,Korea,European Cup,Parallel GS,2,288.00
-236,Lee Sangho,Male,04-11-2016,Landgraaf,NED,Korea,European Cup,Parallel Slalom,11,86.40
-237,Lee Sangho,Male,03-11-2016,Landgraaf,NED,Korea,European Cup,Parallel Slalom,4,180.00
-238,Lee Sangho,Male,02-04-2016,Sapporo,JPN,Korea,FIS,Parallel GS,DNS1,
-239,Lee Sangho,Male,01-04-2016,Sapporo,JPN,Korea,National Championships,Parallel GS,1,240.00
-240,Lee Sangho,Male,27-03-2016,Racines,ITA,Korea,European Cup,Parallel Slalom,2,360.00
-241,Lee Sangho,Male,26-03-2016,Racines,ITA,Korea,European Cup,Parallel Slalom,1,500.00
-242,Lee Sangho,Male,24-03-2016,Rogla,SLO,Korea,European Cup,Parallel Slalom,10,130.00
-243,Lee Sangho,Male,23-03-2016,Rogla,SLO,Korea,European Cup,Parallel GS,3,300.00
-244,Lee Sangho,Male,20-03-2016,Gerlitzen,AUT,Korea,European Cup,Parallel GS,2,400.00
-245,Lee Sangho,Male,19-03-2016,Gerlitzen,AUT,Korea,European Cup,Parallel GS,8,160.00
-246,Lee Sangho,Male,06-03-2016,Winterberg,GER,Korea,World Cup,Parallel Slalom,15,160.00
-247,Lee Sangho,Male,27-02-2016,Kayseri,TUR,Korea,World Cup,Parallel GS,12,220.00
-248,Lee Sangho,Male,21-02-2016,Lenzerheide,SUI,Korea,European Cup,Parallel Slalom,13,100.00
-249,Lee Sangho,Male,20-02-2016,Lenzerheide,SUI,Korea,European Cup,Parallel Slalom,4,250.00
-250,Lee Sangho,Male,07-02-2016,Lachtal,AUT,Korea,FIS,Parallel Slalom,7,93.60
-251,Lee Sangho,Male,06-02-2016,Lachtal,AUT,Korea,National Championships,Parallel Slalom,5,162.00
-252,Lee Sangho,Male,30-01-2016,Moscow,RUS,Korea,World Cup,Parallel Slalom,12,220.00
-253,Lee Sangho,Male,23-01-2016,Rogla,SLO,Korea,World Cup,Parallel GS,37,19.40
-254,Lee Sangho,Male,17-01-2016,Kreischberg,AUT,Korea,FIS,Parallel GS,53,3.80
-255,Lee Sangho,Male,16-01-2016,Kreischberg,AUT,Korea,FIS,Parallel GS,20,28.60
-256,Lee Sangho,Male,19-12-2015,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel Slalom,36,19.70
-257,Lee Sangho,Male,12-12-2015,Carezza,ITA,Korea,World Cup,Parallel GS,35,20.00
-258,Lee Sangho,Male,06-12-2015,Hochfuegen,GER,Korea,European Cup,Parallel GS,12,110.00
-259,Lee Sangho,Male,05-12-2015,Hochfuegen,GER,Korea,European Cup,Parallel GS,13,100.00
-260,Lee Sangho,Male,19-11-2015,"Echo Mountain, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,13,80.00
-261,Lee Sangho,Male,18-11-2015,"Echo Mountain, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,11,96.00
-262,Lee Sangho,Male,16-10-2015,Landgraaf,NED,Korea,European Cup,Parallel Slalom,18,65.00
-263,Lee Sangho,Male,15-10-2015,Landgraaf,NED,Korea,European Cup,Parallel Slalom,12,110.00
-264,Lee Sangho,Male,04-04-2015,Sapporo,JPN,Korea,FIS,Giant Slalom,DNS,
-265,Lee Sangho,Male,22-03-2015,Racines,ITA,Korea,European Cup,Parallel Slalom,32,13.00
-266,Lee Sangho,Male,21-03-2015,Racines,ITA,Korea,European Cup,Parallel Slalom,28,20.00
-267,Lee Sangho,Male,18-03-2015,Rogla,SLO,Korea,European Cup,Parallel Slalom,18,65.00
-268,Lee Sangho,Male,17-03-2015,Rogla,SLO,Korea,European Cup,Parallel GS,4,250.00
-269,Lee Sangho,Male,11-03-2015,Yabuli,CHN,Korea,FIS Junior World Championships,Parallel Slalom,3,216.00
-270,Lee Sangho,Male,10-03-2015,Yabuli,CHN,Korea,FIS Junior World Championships,Parallel GS,1,360.00
-271,Lee Sangho,Male,06-03-2015,Welli Hilli Park,KOR,Korea,National Championships,Parallel Slalom,3,108.00
-272,Lee Sangho,Male,05-03-2015,Welli Hilli Park,KOR,Korea,National Championships,Parallel GS,3,108.00
-273,Lee Sangho,Male,01-03-2015,Asahikawa,JPN,Korea,World Cup,Parallel Slalom,35,20.00
-274,Lee Sangho,Male,28-02-2015,Asahikawa,JPN,Korea,World Cup,Parallel GS,24,70.00
-275,Lee Sangho,Male,10-02-2015,Sierra Nevada,ESP,Korea,Universiade,Parallel GS,6,144.00
-276,Lee Sangho,Male,07-02-2015,Sudelfeld,GER,Korea,World Cup,Parallel GS,33,24.00
-277,Lee Sangho,Male,06-02-2015,Sudelfeld,GER,Korea,Qualification,Parallel GS,33,
-278,Lee Sangho,Male,31-01-2015,Rogla,SLO,Korea,World Cup,Parallel GS,27,45.00
-279,Lee Sangho,Male,24-01-2015,Samnaun,SUI,Korea,FIS,Parallel Slalom,7,93.60
-280,Lee Sangho,Male,23-01-2015,Lachtal,AUT,Korea,World Championships,Parallel GS,12,220.00
-281,Lee Sangho,Male,22-01-2015,Lachtal,AUT,Korea,World Championships,Parallel Slalom,25,60.00
-282,Lee Sangho,Male,06-01-2015,Dachstein West / Gosau,AUT,Korea,FIS,Parallel Slalom,1,260.00
-283,Lee Sangho,Male,05-01-2015,Dachstein West / Gosau,AUT,Korea,FIS,Parallel Slalom,15,41.60
-284,Lee Sangho,Male,18-12-2014,Montafon,AUT,Korea,World Cup,Parallel Slalom,42,17.90
-285,Lee Sangho,Male,16-12-2014,Carezza,ITA,Korea,World Cup,Parallel GS,39,18.80
-286,Lee Sangho,Male,25-03-2014,Chiesa in Valmalenco,ITA,Korea,FIS Junior World Championships,Parallel Slalom,5,162.00
-287,Lee Sangho,Male,24-03-2014,Chiesa in Valmalenco,ITA,Korea,FIS Junior World Championships,Parallel GS,2,288.00
-288,Lee Sangho,Male,14-03-2014,Mt Tremblant,CAN,Korea,Nor-Am Cup,Parallel Slalom,6,128.00
-289,Lee Sangho,Male,13-03-2014,Mt Tremblant,CAN,Korea,Nor-Am Cup,Parallel GS,9,92.80
-290,Lee Sangho,Male,12-03-2014,Mt Tremblant,CAN,Korea,National Junior Championships,Parallel GS,1,70.00
-291,Lee Sangho,Male,04-03-2014,Welli Hilli Park,KOR,Korea,National Championships,Parallel Slalom,2,112.00
-292,Lee Sangho,Male,03-03-2014,Welli Hilli Park,KOR,Korea,National Championships,Parallel GS,1,160.00
-293,Lee Sangho,Male,21-01-2014,Bokwang Phoenix Park,KOR,Korea,FIS,Parallel Slalom,1,120.00
-294,Lee Sangho,Male,20-01-2014,Bokwang Phoenix Park,KOR,Korea,FIS,Parallel GS,1,120.00
-295,Lee Sangho,Male,07-01-2014,Welli Hilli Park,KOR,Korea,FIS,Parallel Slalom,2,80.00
-296,Lee Sangho,Male,06-01-2014,Welli Hilli Park,KOR,Korea,FIS,Parallel GS,DSQ,
-297,Lee Sangho,Male,14-12-2013,Carezza,ITA,Korea,World Cup,Parallel Slalom,45,17.00
-298,Lee Sangho,Male,13-12-2013,Carezza,ITA,Korea,World Cup,Parallel GS,52,14.90
-299,Lee Sangho,Male,08-12-2013,Hochfügen,AUT,Korea,European Cup,Parallel GS,35,10.00
-300,Lee Sangho,Male,07-12-2013,Hochfügen,AUT,Korea,European Cup,Parallel GS,18,65.00
-301,Lee Sangho,Male,15-11-2013,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,17,
-302,Lee Sangho,Male,14-11-2013,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,8,160.00
-303,Lee Sangho,Male,12-11-2013,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel GS,17,70.00
-304,Lee Sangho,Male,11-11-2013,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel GS,12,110.00
-305,Lee Sangho,Male,27-03-2013,Le Relais,CAN,Korea,Nor-Am Cup,Parallel Slalom,27,
-306,Lee Sangho,Male,26-03-2013,Le Relais,CAN,Korea,Nor-Am Cup,Parallel GS,12,79.20
-307,Lee Sangho,Male,25-03-2013,Le Relais,CAN,Korea,National Junior Championships,Parallel GS,1,110.00
-308,Lee Sangho,Male,07-03-2013,Erzurum,TUR,Korea,FIS Junior World Championships,Parallel Slalom,9,104.40
-309,Lee Sangho,Male,06-03-2013,Erzurum,TUR,Korea,FIS Junior World Championships,Parallel GS,9,104.40
-310,Lee Sangho,Male,27-01-2013,Stoneham,CAN,Korea,World Championships,Parallel Slalom,20,110.00
-311,Lee Sangho,Male,25-01-2013,Stoneham,CAN,Korea,World Championships,Parallel GS,36,19.70
-312,Lee Sangho,Male,20-01-2013,"Le Relais, QC",CAN,Korea,Nor-Am Cup,Parallel Slalom,25,30.00
-313,Lee Sangho,Male,19-01-2013,"Le Relais, QC",CAN,Korea,Nor-Am Cup,Parallel GS,22,45.00
-314,Lee Sangho,Male,16-12-2012,Racines/Ratschings,ITA,Korea,European Cup,Parallel Slalom,60,6.25
-315,Lee Sangho,Male,15-12-2012,Racines/Ratschings,ITA,Korea,European Cup,Parallel Slalom,DSQ,
-316,Lee Sangho,Male,09-12-2012,Lachtal,AUT,Korea,European Cup,Parallel GS,33,12.00
-317,Lee Sangho,Male,08-12-2012,Lachtal,AUT,Korea,European Cup,Parallel GS,40,9.25
-318,Lee Sangho,Male,14-11-2012,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,87,
-319,Lee Sangho,Male,13-11-2012,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel GS,19,54.00
-320,Lee Sangho,Male,28-03-2012,Sierra Nevada,ESP,Korea,FIS Junior World Championships,Parallel Slalom,19,
-321,Lee Sangho,Male,27-03-2012,Sierra Nevada,ESP,Korea,FIS Junior World Championships,Parallel GS,23,28.80
-322,Lee Sangho,Male,20-03-2012,Rogla,SLO,Korea,European Cup,Parallel Slalom,53,6.57
-323,Lee Sangho,Male,19-03-2012,Rogla,SLO,Korea,European Cup,Parallel GS,47,6.56
-324,Lee Sangho,Male,24-02-2012,Phoenix Park,KOR,Korea,National Championships,Parallel GS,2,72.00
-325,Lee Sangho,Male,31-03-2011,Valmalenco,ITA,Korea,FIS Junior World Championships,Parallel Slalom,41,6.55
-326,Lee Sangho,Male,30-03-2011,Valmalenco,ITA,Korea,FIS Junior World Championships,Parallel GS,16,54.00
-327,Lee Sangho,Male,27-03-2011,Lachtal,AUT,Korea,European Cup,Parallel Slalom,56,3.97
-328,Lee Sangho,Male,26-03-2011,Lachtal,AUT,Korea,European Cup,Parallel Slalom,74,0.00
-329,Lee Sangho,Male,25-03-2011,Lachtal,AUT,Korea,European Cup,Parallel GS,44,5.02
-330,Lee Sangho,Male,11-12-2010,Ratschings/Racines,ITA,Korea,European Cup,Parallel GS,62,3.45
-331,Lee Sangho,Male,10-12-2010,Ratschings/Racines,ITA,Korea,FIS,Parallel GS,79,1.77
-332,Lee Sangho,Male,05-12-2010,Welschnofen-Carezza,ITA,Korea,European Cup,Parallel Slalom,69,3.92
-333,Lee Sangho,Male,04-12-2010,Welschnofen-Carezza,ITA,Korea,European Cup,Parallel GS,33,9.60
-334,Lee Sangho,Male,28-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Korea,FIS,Parallel GS,19,31.20
-335,Lee Sangho,Male,27-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Korea,European Cup,Parallel GS,71,4.14
-336,Lee Sangho,Male,20-08-2010,Mt Hutt,NZL,Korea,FIS,Parallel GS,9,43.50
+0,Lee Sangho,Male,15-03-2025,Winterberg,GER,Korea,Qualification,Parallel Slalom,1,
+1,Lee Sangho,Male,15-03-2025,Winterberg,GER,Korea,World Cup,Parallel Slalom,5,
+2,Lee Sangho,Male,02-03-2025,Krynica,POL,Korea,Qualification,Parallel Giant Slalom,4,
+3,Lee Sangho,Male,02-03-2025,Krynica,POL,Korea,World Cup,Parallel Giant Slalom,7,360.00
+4,Lee Sangho,Male,01-03-2025,Krynica,POL,Korea,Qualification,Parallel Giant Slalom,3,
+5,Lee Sangho,Male,01-03-2025,Krynica,POL,Korea,World Cup,Parallel Giant Slalom,2,800.00
+6,Lee Sangho,Male,16-02-2025,Val St. Come,CAN,Korea,Qualification,Parallel Giant Slalom,20,
+7,Lee Sangho,Male,16-02-2025,Val St. Come,CAN,Korea,World Cup,Parallel Giant Slalom,20,110.00
+8,Lee Sangho,Male,15-02-2025,Val St. Come,CAN,Korea,Qualification,Parallel Giant Slalom,20,
+9,Lee Sangho,Male,15-02-2025,Val St. Come,CAN,Korea,World Cup,Parallel Giant Slalom,20,110.00
+10,Lee Sangho,Male,21-12-2024,Davos,SUI,Korea,Qualification,Parallel Slalom,11,
+11,Lee Sangho,Male,21-12-2024,Davos,SUI,Korea,World Cup,Parallel Slalom,8,320.00
+12,Lee Sangho,Male,14-12-2024,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,31,
+13,Lee Sangho,Male,14-12-2024,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,31,28.00
+14,Lee Sangho,Male,12-12-2024,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,2,
+15,Lee Sangho,Male,12-12-2024,Carezza,ITA,Korea,World Cup,Parallel Giant Slalom,5,450.00
+16,Lee Sangho,Male,08-12-2024,Yanqing (NASC),CHN,Korea,World Cup,Parallel Slalom,DNF,
+17,Lee Sangho,Male,08-12-2024,Yanqing (NASC),CHN,Korea,Qualification,Parallel Slalom,DNF,
+18,Lee Sangho,Male,07-12-2024,Yanqing (NASC),CHN,Korea,World Cup,Parallel Giant Slalom,5,450.00
+19,Lee Sangho,Male,07-12-2024,Yanqing (NASC),CHN,Korea,Qualification,Parallel Giant Slalom,1,
+20,Lee Sangho,Male,01-12-2024,Mylin,CHN,Korea,World Cup,Parallel Slalom,9,290.00
+21,Lee Sangho,Male,01-12-2024,Mylin,CHN,Korea,Qualification,Parallel Slalom,1,
+22,Lee Sangho,Male,30-11-2024,Mylin,CHN,Korea,World Cup,Parallel Giant Slalom,3,600.00
+23,Lee Sangho,Male,30-11-2024,Mylin,CHN,Korea,Qualification,Parallel Giant Slalom,7,
+24,Lee Sangho,Male,17-03-2024,St. Moritz,SUI,Korea,European Cup,Parallel Slalom,27,16.20
+25,Lee Sangho,Male,16-03-2024,St. Moritz,SUI,Korea,European Cup,Parallel Giant Slalom,3,216.00
+26,Lee Sangho,Male,10-03-2024,Winterberg,GER,Korea,World Cup,Parallel Slalom Team,9,
+27,Lee Sangho,Male,09-03-2024,Winterberg,GER,Korea,Qualification,Parallel Slalom,1,
+28,Lee Sangho,Male,09-03-2024,Winterberg,GER,Korea,World Cup,Parallel Slalom,1,1000.00
+29,Lee Sangho,Male,25-02-2024,Krynica,POL,Korea,Qualification,Parallel Giant Slalom,16,
+30,Lee Sangho,Male,25-02-2024,Krynica,POL,Korea,World Cup,Parallel Giant Slalom,16,150.00
+31,Lee Sangho,Male,24-02-2024,Krynica,POL,Korea,Qualification,Parallel Giant Slalom,1,
+32,Lee Sangho,Male,24-02-2024,Krynica,POL,Korea,World Cup,Parallel Giant Slalom,9,290.00
+33,Lee Sangho,Male,02-02-2024,High1resort,KOR,Korea,FIS,Parallel Slalom,1,220.00
+34,Lee Sangho,Male,01-02-2024,High1resort,KOR,Korea,FIS,Parallel Giant Slalom,1,220.00
+35,Lee Sangho,Male,27-01-2024,Simonhöhe,AUT,Korea,Qualification,Parallel Giant Slalom,DNS,
+36,Lee Sangho,Male,27-01-2024,Simonhöhe,AUT,Korea,World Cup,Parallel Giant Slalom,DNS,
+37,Lee Sangho,Male,25-01-2024,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,1,
+38,Lee Sangho,Male,25-01-2024,Rogla,SLO,Korea,World Cup,Parallel Giant Slalom,5,450.00
+39,Lee Sangho,Male,21-01-2024,Pamporovo,BUL,Korea,Qualification,Parallel Slalom,4,
+40,Lee Sangho,Male,21-01-2024,Pamporovo,BUL,Korea,World Cup,Parallel Slalom,1,1000.00
+41,Lee Sangho,Male,20-01-2024,Pamporovo,BUL,Korea,Qualification,Parallel Slalom,15,
+42,Lee Sangho,Male,20-01-2024,Pamporovo,BUL,Korea,World Cup,Parallel Slalom,4,500.00
+43,Lee Sangho,Male,16-01-2024,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,14,
+44,Lee Sangho,Male,16-01-2024,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,14,180.00
+45,Lee Sangho,Male,13-01-2024,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,6,
+46,Lee Sangho,Male,13-01-2024,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,12,220.00
+47,Lee Sangho,Male,23-12-2023,Davos,SUI,Korea,Qualification,Parallel Slalom,3,
+48,Lee Sangho,Male,23-12-2023,Davos ,SUI,Korea,World Cup,Parallel Slalom,5,450.00
+49,Lee Sangho,Male,16-12-2023,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,9,
+50,Lee Sangho,Male,16-12-2023,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,11,240.00
+51,Lee Sangho,Male,14-12-2023,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,1,
+52,Lee Sangho,Male,14-12-2023,Carezza,ITA,Korea,World Cup,Parallel Giant Slalom,9,290.00
+53,Lee Sangho,Male,02-04-2023,Haus im Ennstal,AUT,Korea,National Championships,Parallel Slalom,DNS,
+54,Lee Sangho,Male,01-04-2023,Haus im Ennstal,AUT,Korea,National Championships,Parallel Giant Slalom,6,116.00
+55,Lee Sangho,Male,30-03-2023,Cortina dAmpezzo,ITA,Korea,National Championships,Parallel Slalom,6,116.00
+56,Lee Sangho,Male,26-03-2023,Villach - Gerlitzen,AUT,Korea,FIS,Parallel Slalom,1,220.00
+57,Lee Sangho,Male,25-03-2023,Villach - Gerlitzen,AUT,Korea,FIS,Parallel Slalom,2,176.00
+58,Lee Sangho,Male,18-03-2023,Berchtesgaden,GER,Korea,Qualification,Parallel Slalom,DNF,
+59,Lee Sangho,Male,18-03-2023,Berchtesgaden,GER,Korea,World Cup,Parallel Slalom,DNF,
+60,Lee Sangho,Male,15-03-2023,Rogla,SLO,Korea,World Cup,Parallel Giant Slalom,4,500.00
+61,Lee Sangho,Male,15-03-2023,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,2,
+62,Lee Sangho,Male,03-03-2023,high1 resort,KOR,Korea,Asian Cup,Parallel Slalom,DNF,
+63,Lee Sangho,Male,02-03-2023,high1 resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,9,104.40
+64,Lee Sangho,Male,22-02-2023,Bakuriani,GEO,Korea,World Championships,Parallel Slalom Team,10,
+65,Lee Sangho,Male,21-02-2023,Bakuriani,GEO,Korea,Qualification,Parallel Slalom,3,
+66,Lee Sangho,Male,21-02-2023,Bakuriani,GEO,Korea,World Championships,Parallel Slalom,5,450.00
+67,Lee Sangho,Male,19-02-2023,Bakuriani,GEO,Korea,Qualification,Parallel Giant Slalom,9,
+68,Lee Sangho,Male,19-02-2023,Bakuriani,GEO,Korea,World Championships,Parallel Giant Slalom,10,260.00
+69,Lee Sangho,Male,07-02-2023,high1 resort,KOR,Korea,FIS,Parallel Slalom,2,176.00
+70,Lee Sangho,Male,06-02-2023,high1 resort,KOR,Korea,FIS,Parallel Giant Slalom,3,132.00
+71,Lee Sangho,Male,27-01-2023,Blue Mountain,CAN,Korea,Qualification,Parallel Giant Slalom,2,
+72,Lee Sangho,Male,27-01-2023,Blue Mountain,CAN,Korea,World Cup,Parallel Giant Slalom,5,450.00
+73,Lee Sangho,Male,26-01-2023,Blue Mountain,CAN,Korea,Qualification,Parallel Giant Slalom,1,
+74,Lee Sangho,Male,26-01-2023,Blue Mountain,CAN,Korea,World Cup,Parallel Giant Slalom,2,800.00
+75,Lee Sangho,Male,22-01-2023,Bansko,BUL,Korea,Qualification,Parallel Slalom,10,
+76,Lee Sangho,Male,22-01-2023,Bansko,BUL,Korea,World Cup,Parallel Slalom,11,240.00
+77,Lee Sangho,Male,21-01-2023,Bansko,BUL,Korea,Qualification,Parallel Slalom,30,
+78,Lee Sangho,Male,21-01-2023,Bansko,BUL,Korea,World Cup,Parallel Slalom,30,32.00
+79,Lee Sangho,Male,14-01-2023,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,9,
+80,Lee Sangho,Male,14-01-2023,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,10,260.00
+81,Lee Sangho,Male,11-01-2023,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom Team,11,
+82,Lee Sangho,Male,10-01-2023,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,21,
+83,Lee Sangho,Male,10-01-2023,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,21,100.00
+84,Lee Sangho,Male,17-12-2022,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,21,
+85,Lee Sangho,Male,17-12-2022,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,21,100.00
+86,Lee Sangho,Male,15-12-2022,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,20,
+87,Lee Sangho,Male,15-12-2022,Carezza,ITA,Korea,World Cup,Parallel Giant Slalom,20,110.00
+88,Lee Sangho,Male,11-12-2022,Winterberg,GER,Korea,World Cup,Parallel Slalom,9,290.00
+89,Lee Sangho,Male,10-12-2022,Winterberg,GER,Korea,Qualification,Parallel Slalom,2,
+90,Lee Sangho,Male,10-12-2022,Winterberg,GER,Korea,World Cup,Parallel Slalom Team,19,
+91,Lee Sangho,Male,20-03-2022,Berchtesgaden,GER,Korea,World Cup,Parallel  Slalom Team,11,
+92,Lee Sangho,Male,19-03-2022,Berchtesgaden,GER,Korea,Qualification,Parallel Slalom,2,
+93,Lee Sangho,Male,19-03-2022,Berchtesgaden,GER,Korea,World Cup,Parallel Slalom,3,600.00
+94,Lee Sangho,Male,16-03-2022,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,4,
+95,Lee Sangho,Male,16-03-2022,Rogla,SLO,Korea,World Cup,Parallel Giant Slalom,4,500.00
+96,Lee Sangho,Male,12-03-2022,Piancavallo,ITA,Korea,Qualification,Parallel Slalom,2,
+97,Lee Sangho,Male,12-03-2022,Piancavallo,ITA,Korea,World Cup,Parallel Slalom,3,600.00
+98,Lee Sangho,Male,03-03-2022,Wellihilli Park,KOR,Korea,National Championships,Parallel Slalom,1,290.00
+99,Lee Sangho,Male,02-03-2022,Wellihilli Park,KOR,Korea,National Championships,Parallel Giant Slalom,1,290.00
+100,Lee Sangho,Male,22-02-2022,Wellihilli Park,KOR,Korea,FIS,Parallel Slalom,2,176.00
+101,Lee Sangho,Male,21-02-2022,Wellihilli Park,KOR,Korea,FIS,Parallel Giant Slalom,1,220.00
+102,Lee Sangho,Male,08-02-2022,Beijing,CHN,Korea,Qualification,Parallel Giant Slalom,1,
+103,Lee Sangho,Male,08-02-2022,Beijing,CHN,Korea,Olympic Winter Games,Parallel Giant Slalom,5,450.00
+104,Lee Sangho,Male,15-01-2022,Simonhöhe,AUT,Korea,World Cup,Parallel Giant Slalom Team,3,
+105,Lee Sangho,Male,14-01-2022,Simonhöhe,AUT,Korea,World Cup,Parallel Giant Slalom,9,290.00
+106,Lee Sangho,Male,14-01-2022,Simonhöhe,AUT,Korea,Qualification,Parallel Giant Slalom,3,
+107,Lee Sangho,Male,11-01-2022,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,1,
+108,Lee Sangho,Male,11-01-2022,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,5,450.00
+109,Lee Sangho,Male,08-01-2022,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,2,
+110,Lee Sangho,Male,08-01-2022,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,3,600.00
+111,Lee Sangho,Male,18-12-2021,Cortina d Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,3,
+112,Lee Sangho,Male,18-12-2021,Cortina d Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,2,800.00
+113,Lee Sangho,Male,16-12-2021,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,5,
+114,Lee Sangho,Male,16-12-2021,Carezza,ITA,Korea,World Cup,Parallel Giant Slalom,6,400.00
+115,Lee Sangho,Male,12-12-2021,Bannoye,RUS,Korea,Qualification,Parallel Slalom,2,
+116,Lee Sangho,Male,12-12-2021,Bannoye,RUS,Korea,World Cup,Parallel Slalom,2,800.00
+117,Lee Sangho,Male,11-12-2021,Bannoye,RUS,Korea,Qualification,Parallel Giant Slalom,2,
+118,Lee Sangho,Male,11-12-2021,Bannoye,RUS,Korea,World Cup,Parallel Giant Slalom,1,1000.00
+119,Lee Sangho,Male,21-03-2021,Berchtesgaden,GER,Korea,World Cup,Parallel Slalom Team,18,
+120,Lee Sangho,Male,20-03-2021,Berchtesgaden,GER,Korea,Qualification,Parallel Slalom,31,
+121,Lee Sangho,Male,20-03-2021,Berchtesgaden,GER,Korea,World Cup,Parallel Slalom,31,28.00
+122,Lee Sangho,Male,06-03-2021,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,6,
+123,Lee Sangho,Male,06-03-2021,Rogla,SLO,Korea,World Cup,Parallel Giant Slalom,12,220.00
+124,Lee Sangho,Male,02-03-2021,Rogla,SLO,Korea,World Championships,Parallel Slalom,5,450.00
+125,Lee Sangho,Male,02-03-2021,Rogla,SLO,Korea,Qualification,Parallel Slalom,6,
+126,Lee Sangho,Male,01-03-2021,Rogla,SLO,Korea,World Championships,Parallel Giant Slalom,14,180.00
+127,Lee Sangho,Male,01-03-2021,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,14,
+128,Lee Sangho,Male,07-02-2021,Bannoye,RUS,Korea,Qualification,Parallel Slalom,29,
+129,Lee Sangho,Male,07-02-2021,Bannoye,RUS,Korea,World Cup,Parallel Slalom,29,36.00
+130,Lee Sangho,Male,06-02-2021,Baonoye,RUS,Korea,Qualification,Parallel Giant Slalom,30,
+131,Lee Sangho,Male,06-02-2021,Bannoye,RUS,Korea,World Cup,Parallel Giant Slalom,30,32.00
+132,Lee Sangho,Male,30-01-2021,Moscow,RUS,Korea,Qualification,Parallel Slalom,10,
+133,Lee Sangho,Male,30-01-2021,Moscow,RUS,Korea,World Cup,Parallel Slalom,13,200.00
+134,Lee Sangho,Male,24-01-2021,Davos,SUI,Korea,European Cup,Parallel Slalom,8,115.20
+135,Lee Sangho,Male,23-01-2021,Davos,SUI,Korea,European Cup,Parallel Slalom,20,39.60
+136,Lee Sangho,Male,17-01-2021,Simonhoehe,AUT,Korea,European Cup,Parallel Giant Slalom,13,72.00
+137,Lee Sangho,Male,16-01-2021,Simonhoehe,AUT,Korea,European Cup,Parallel Giant Slalom,9,104.40
+138,Lee Sangho,Male,13-01-2021,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom Team,17,
+139,Lee Sangho,Male,12-01-2021,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,19,
+140,Lee Sangho,Male,12-01-2021,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,19,120.00
+141,Lee Sangho,Male,09-01-2021,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,14,
+142,Lee Sangho,Male,09-01-2021,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,13,200.00
+143,Lee Sangho,Male,17-12-2020,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,21,
+144,Lee Sangho,Male,17-12-2020,Carezza,ITA,Korea,World Cup,Parallel Giant Slalom,21,100.00
+145,Lee Sangho,Male,12-12-2020,Cortina d Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,39,
+146,Lee Sangho,Male,12-12-2020,Cortina d Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,39,18.80
+147,Lee Sangho,Male,26-01-2020,Piancavallo,ITA,Korea,World Cup,Parallel Slalom Team,11,
+148,Lee Sangho,Male,25-01-2020,Piancavallo,ITA,Korea,World Cup,Parallel Slalom,9,290.00
+149,Lee Sangho,Male,25-01-2020,Piancavallo,ITA,Korea,Qualification,Parallel Slalom,6,
+150,Lee Sangho,Male,18-01-2020,Rogla,SLO,Korea,World Cup,Parallel Giant Slalom,9,290.00
+151,Lee Sangho,Male,18-01-2020,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,3,
+152,Lee Sangho,Male,14-01-2020,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,31,28.00
+153,Lee Sangho,Male,14-01-2020,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,31,
+154,Lee Sangho,Male,11-01-2020,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,10,260.00
+155,Lee Sangho,Male,11-01-2020,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,7,
+156,Lee Sangho,Male,19-12-2019,Carezza,ITA,Korea,Open,Parallel Giant Slalom,4,500.00
+157,Lee Sangho,Male,14-12-2019,Cortina d Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,2,800.00
+158,Lee Sangho,Male,14-12-2019,Cortina d Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,5,
+159,Lee Sangho,Male,08-12-2019,Bannoye,RUS,Korea,World Cup,Parallel Giant Slalom,9,290.00
+160,Lee Sangho,Male,08-12-2019,Bannoye,RUS,Korea,Qualification,Parallel Giant Slalom,1,
+161,Lee Sangho,Male,07-12-2019,Bannoye,RUS,Korea,World Cup,Parallel Slalom,15,160.00
+162,Lee Sangho,Male,07-12-2019,Bannoye,RUS,Korea,Qualification,Parallel Slalom,15,
+163,Lee Sangho,Male,29-11-2019,Taiwoo ski resorts,CHN,Korea,Asian Cup,Parallel Giant Slalom,1,320.00
+164,Lee Sangho,Male,24-03-2019,Winterberg,GER,Korea,World Cup,Parallel Slalom Team,16,
+165,Lee Sangho,Male,23-03-2019,Winterberg,GER,Korea,World Cup,Parallel Slalom,10,260.00
+166,Lee Sangho,Male,23-03-2019,Winterberg,GER,Korea,Qualification,Parallel Slalom,6,
+167,Lee Sangho,Male,09-03-2019,Scuol,SUI,Korea,World Cup,Parallel GS,23,80.00
+168,Lee Sangho,Male,09-03-2019,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,23,
+169,Lee Sangho,Male,06-03-2019,Krasnoyarsk,RUS,Korea,Universiade,Parallel Slalom,3,216.00
+170,Lee Sangho,Male,05-03-2019,Krasnoyarsk,RUS,Korea,Universiade,Parallel GS,5,162.00
+171,Lee Sangho,Male,24-02-2019,Secret Garden,CHN,Korea,World Cup,Parallel Slalom,8,320.00
+172,Lee Sangho,Male,24-02-2019,Secret Garden,CHN,Korea,Qualification,Parallel Slalom,14,
+173,Lee Sangho,Male,23-02-2019,Secret Garden,CHN,Korea,World Cup,Parallel Giant Slalom,27,45.00
+174,Lee Sangho,Male,23-02-2019,Secret Garden,CHN,Korea,Qualification,Parallel Giant Slalom,27,
+175,Lee Sangho,Male,17-02-2019,Pyeongchang,KOR,Korea,World Cup,Parallel Giant Slalom,3,600.00
+176,Lee Sangho,Male,17-02-2019,Pyeongchang,KOR,Korea,Qualification,Parallel Giant Slalom,4,
+177,Lee Sangho,Male,16-02-2019,Pyeongchang,KOR,Korea,World Cup,Parallel Giant Slalom,5,450.00
+178,Lee Sangho,Male,16-02-2019,Pyeongchang,KOR,Korea,Qualification,Parallel Giant Slalom,1,
+179,Lee Sangho,Male,05-02-2019,Park City,USA,Korea,World Championships,Parallel Slalom,DSQ,
+180,Lee Sangho,Male,04-02-2019,Park City,USA,Korea,World Championships,Parallel Giant Slalom,31,28.00
+181,Lee Sangho,Male,27-01-2019,Moscow,RUS,Korea,World Cup,Parallel Slalom Team,19,
+182,Lee Sangho,Male,26-01-2019,Moscow,RUS,Korea,World Cup,Parallel Slalom,17,140.00
+183,Lee Sangho,Male,26-01-2019,Moscow,RUS,Korea,Qualification,Parallel Slalom,17,
+184,Lee Sangho,Male,19-01-2019,Rogla,SLO,Korea,World Cup,Parallel GS,12,220.00
+185,Lee Sangho,Male,19-01-2019,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,12,
+186,Lee Sangho,Male,10-01-2019,Bad Gastein,AUT,Korea,European Cup,Parallel Slalom,1,360.00
+187,Lee Sangho,Male,09-01-2019,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom Team,14,
+188,Lee Sangho,Male,08-01-2019,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,22,90.00
+189,Lee Sangho,Male,08-01-2019,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,22,
+190,Lee Sangho,Male,04-01-2019,Phoenix Pyeongchang,KOR,Korea,FIS,Parallel Slalom,1,220.00
+191,Lee Sangho,Male,03-01-2019,Phoenix Pyeongchang,KOR,Korea,FIS,Parallel Giant Slalom,1,220.00
+192,Lee Sangho,Male,15-12-2018,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel GS,30,32.00
+193,Lee Sangho,Male,15-12-2018,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,30,
+194,Lee Sangho,Male,13-12-2018,Carezza,ITA,Korea,World Cup,Parallel GS,38,19.10
+195,Lee Sangho,Male,13-12-2018,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,38,
+196,Lee Sangho,Male,24-02-2018,Phoenix Snow Park,KOR,Korea,Qualification,Parallel GS,3,
+197,Lee Sangho,Male,24-02-2018,Phoenix Snow Park,KOR,Korea,Olympic Winter Games,Parallel GS,2,800.00
+198,Lee Sangho,Male,28-01-2018,Bansko,BUL,Korea,World Cup,Parallel GS,13,200.00
+199,Lee Sangho,Male,28-01-2018,Bansko,BUL,Korea,Qualification,Parallel GS,12,
+200,Lee Sangho,Male,26-01-2018,Bansko,BUL,Korea,World Cup,Parallel GS,10,260.00
+201,Lee Sangho,Male,26-01-2018,Bansko,BUL,Korea,Qualification,Parallel GS,3,
+202,Lee Sangho,Male,21-01-2018,Rogla,SLO,Korea,World Cup,Parallel GS,7,360.00
+203,Lee Sangho,Male,21-01-2018,Rogla,SLO,Korea,Qualification,Parallel GS,10,
+204,Lee Sangho,Male,20-01-2018,Rogla,SLO,Korea,World Cup,Parallel GS,18,130.00
+205,Lee Sangho,Male,20-01-2018,Rogla,SLO,Korea,Qualification,Parallel GS,18,
+206,Lee Sangho,Male,12-01-2018,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,12,220.00
+207,Lee Sangho,Male,12-01-2018,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,11,
+208,Lee Sangho,Male,06-01-2018,Lackenhof,AUT,Korea,World Cup,Parallel GS Team,12,
+209,Lee Sangho,Male,05-01-2018,Lackenhof,AUT,Korea,World Cup,Parallel GS,7,360.00
+210,Lee Sangho,Male,05-01-2018,Lackenhof,AUT,Korea,Qualification,Parallel GS,7,
+211,Lee Sangho,Male,16-12-2017,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel Slalom,15,160.00
+212,Lee Sangho,Male,16-12-2017,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel Slalom,13,
+213,Lee Sangho,Male,15-12-2017,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel GS,9,290.00
+214,Lee Sangho,Male,15-12-2017,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel GS,3,
+215,Lee Sangho,Male,14-12-2017,Carezza,ITA,Korea,World Cup,Parallel GS,11,240.00
+216,Lee Sangho,Male,14-12-2017,Carezza,ITA,Korea,Qualification,Parallel GS,11,
+217,Lee Sangho,Male,09-12-2017,Hochfügen,GER,Korea,European Cup,Parallel GS,1,360.00
+218,Lee Sangho,Male,19-03-2017,Winterberg,GER,Korea,World Cup,Parallel Slalom Team,9,
+219,Lee Sangho,Male,18-03-2017,Winterberg,GER,Korea,Qualification,Parallel Slalom,1,
+220,Lee Sangho,Male,18-03-2017,Winterberg,GER,Korea,World Cup,Parallel Slalom,5,450.00
+221,Lee Sangho,Male,16-03-2017,Sierra Nevada,ESP,Korea,World Championships,Parallel GS,5,450.00
+222,Lee Sangho,Male,15-03-2017,Sierra Nevada,ESP,Korea,World Championships,Parallel Slalom,19,120.00
+223,Lee Sangho,Male,05-03-2017, Erciyes-Kayseri,TUR,Korea,World Cup,Parallel GS,2,800.00
+224,Lee Sangho,Male,20-02-2017,Sapporo,JPN,Korea,FIS,Slalom,1,220.00
+225,Lee Sangho,Male,19-02-2017,Sapporo,JPN,Korea,FIS,Giant Slalom,1,220.00
+226,Lee Sangho,Male,12-02-2017,Phoenix Pyeongchang,KOR,Korea,World Cup,Parallel GS,20,110.00
+227,Lee Sangho,Male,05-02-2017,Bansko,BUL,Korea,World Cup,Parallel GS,5,450.00
+228,Lee Sangho,Male,03-02-2017,Bansko,BUL,Korea,World Cup,Parallel GS,15,160.00
+229,Lee Sangho,Male,28-01-2017,Rogla,SLO,Korea,World Cup,Parallel GS,5,450.00
+230,Lee Sangho,Male,21-01-2017,Livigno,ITA,Korea,European Cup,Parallel GS,12,79.20
+231,Lee Sangho,Male,20-01-2017,Livigno,ITA,Korea,European Cup,Parallel GS,30,11.52
+232,Lee Sangho,Male,11-01-2017,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom Team,11,
+233,Lee Sangho,Male,10-01-2017,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,17,140.00
+234,Lee Sangho,Male,17-12-2016,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel Slalom,12,220.00
+235,Lee Sangho,Male,15-12-2016,Carezza,ITA,Korea,World Cup,Parallel GS,4,500.00
+236,Lee Sangho,Male,11-12-2016,Hochfügen,GER,Korea,European Cup,Parallel GS,2,288.00
+237,Lee Sangho,Male,10-12-2016,Hochfügen,GER,Korea,European Cup,Parallel GS,2,288.00
+238,Lee Sangho,Male,04-11-2016,Landgraaf,NED,Korea,European Cup,Parallel Slalom,11,86.40
+239,Lee Sangho,Male,03-11-2016,Landgraaf,NED,Korea,European Cup,Parallel Slalom,4,180.00
+240,Lee Sangho,Male,02-04-2016,Sapporo,JPN,Korea,FIS,Parallel GS,DNS1,
+241,Lee Sangho,Male,01-04-2016,Sapporo,JPN,Korea,National Championships,Parallel GS,1,240.00
+242,Lee Sangho,Male,27-03-2016,Racines,ITA,Korea,European Cup,Parallel Slalom,2,360.00
+243,Lee Sangho,Male,26-03-2016,Racines,ITA,Korea,European Cup,Parallel Slalom,1,500.00
+244,Lee Sangho,Male,24-03-2016,Rogla,SLO,Korea,European Cup,Parallel Slalom,10,130.00
+245,Lee Sangho,Male,23-03-2016,Rogla,SLO,Korea,European Cup,Parallel GS,3,300.00
+246,Lee Sangho,Male,20-03-2016,Gerlitzen,AUT,Korea,European Cup,Parallel GS,2,400.00
+247,Lee Sangho,Male,19-03-2016,Gerlitzen,AUT,Korea,European Cup,Parallel GS,8,160.00
+248,Lee Sangho,Male,06-03-2016,Winterberg,GER,Korea,World Cup,Parallel Slalom,15,160.00
+249,Lee Sangho,Male,27-02-2016,Kayseri,TUR,Korea,World Cup,Parallel GS,12,220.00
+250,Lee Sangho,Male,21-02-2016,Lenzerheide,SUI,Korea,European Cup,Parallel Slalom,13,100.00
+251,Lee Sangho,Male,20-02-2016,Lenzerheide,SUI,Korea,European Cup,Parallel Slalom,4,250.00
+252,Lee Sangho,Male,07-02-2016,Lachtal,AUT,Korea,FIS,Parallel Slalom,7,93.60
+253,Lee Sangho,Male,06-02-2016,Lachtal,AUT,Korea,National Championships,Parallel Slalom,5,162.00
+254,Lee Sangho,Male,30-01-2016,Moscow,RUS,Korea,World Cup,Parallel Slalom,12,220.00
+255,Lee Sangho,Male,23-01-2016,Rogla,SLO,Korea,World Cup,Parallel GS,37,19.40
+256,Lee Sangho,Male,17-01-2016,Kreischberg,AUT,Korea,FIS,Parallel GS,53,3.80
+257,Lee Sangho,Male,16-01-2016,Kreischberg,AUT,Korea,FIS,Parallel GS,20,28.60
+258,Lee Sangho,Male,19-12-2015,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel Slalom,36,19.70
+259,Lee Sangho,Male,12-12-2015,Carezza,ITA,Korea,World Cup,Parallel GS,35,20.00
+260,Lee Sangho,Male,06-12-2015,Hochfuegen,GER,Korea,European Cup,Parallel GS,12,110.00
+261,Lee Sangho,Male,05-12-2015,Hochfuegen,GER,Korea,European Cup,Parallel GS,13,100.00
+262,Lee Sangho,Male,19-11-2015,"Echo Mountain, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,13,80.00
+263,Lee Sangho,Male,18-11-2015,"Echo Mountain, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,11,96.00
+264,Lee Sangho,Male,16-10-2015,Landgraaf,NED,Korea,European Cup,Parallel Slalom,18,65.00
+265,Lee Sangho,Male,15-10-2015,Landgraaf,NED,Korea,European Cup,Parallel Slalom,12,110.00
+266,Lee Sangho,Male,04-04-2015,Sapporo,JPN,Korea,FIS,Giant Slalom,DNS,
+267,Lee Sangho,Male,22-03-2015,Racines,ITA,Korea,European Cup,Parallel Slalom,32,13.00
+268,Lee Sangho,Male,21-03-2015,Racines,ITA,Korea,European Cup,Parallel Slalom,28,20.00
+269,Lee Sangho,Male,18-03-2015,Rogla,SLO,Korea,European Cup,Parallel Slalom,18,65.00
+270,Lee Sangho,Male,17-03-2015,Rogla,SLO,Korea,European Cup,Parallel GS,4,250.00
+271,Lee Sangho,Male,11-03-2015,Yabuli,CHN,Korea,FIS Junior World Championships,Parallel Slalom,3,216.00
+272,Lee Sangho,Male,10-03-2015,Yabuli,CHN,Korea,FIS Junior World Championships,Parallel GS,1,360.00
+273,Lee Sangho,Male,06-03-2015,Welli Hilli Park,KOR,Korea,National Championships,Parallel Slalom,3,108.00
+274,Lee Sangho,Male,05-03-2015,Welli Hilli Park,KOR,Korea,National Championships,Parallel GS,3,108.00
+275,Lee Sangho,Male,01-03-2015,Asahikawa,JPN,Korea,World Cup,Parallel Slalom,35,20.00
+276,Lee Sangho,Male,28-02-2015,Asahikawa,JPN,Korea,World Cup,Parallel GS,24,70.00
+277,Lee Sangho,Male,10-02-2015,Sierra Nevada,ESP,Korea,Universiade,Parallel GS,6,144.00
+278,Lee Sangho,Male,07-02-2015,Sudelfeld,GER,Korea,World Cup,Parallel GS,33,24.00
+279,Lee Sangho,Male,06-02-2015,Sudelfeld,GER,Korea,Qualification,Parallel GS,33,
+280,Lee Sangho,Male,31-01-2015,Rogla,SLO,Korea,World Cup,Parallel GS,27,45.00
+281,Lee Sangho,Male,24-01-2015,Samnaun,SUI,Korea,FIS,Parallel Slalom,7,93.60
+282,Lee Sangho,Male,23-01-2015,Lachtal,AUT,Korea,World Championships,Parallel GS,12,220.00
+283,Lee Sangho,Male,22-01-2015,Lachtal,AUT,Korea,World Championships,Parallel Slalom,25,60.00
+284,Lee Sangho,Male,06-01-2015,Dachstein West / Gosau,AUT,Korea,FIS,Parallel Slalom,1,260.00
+285,Lee Sangho,Male,05-01-2015,Dachstein West / Gosau,AUT,Korea,FIS,Parallel Slalom,15,41.60
+286,Lee Sangho,Male,18-12-2014,Montafon,AUT,Korea,World Cup,Parallel Slalom,42,17.90
+287,Lee Sangho,Male,16-12-2014,Carezza,ITA,Korea,World Cup,Parallel GS,39,18.80
+288,Lee Sangho,Male,25-03-2014,Chiesa in Valmalenco,ITA,Korea,FIS Junior World Championships,Parallel Slalom,5,162.00
+289,Lee Sangho,Male,24-03-2014,Chiesa in Valmalenco,ITA,Korea,FIS Junior World Championships,Parallel GS,2,288.00
+290,Lee Sangho,Male,14-03-2014,Mt Tremblant,CAN,Korea,Nor-Am Cup,Parallel Slalom,6,128.00
+291,Lee Sangho,Male,13-03-2014,Mt Tremblant,CAN,Korea,Nor-Am Cup,Parallel GS,9,92.80
+292,Lee Sangho,Male,12-03-2014,Mt Tremblant,CAN,Korea,National Junior Championships,Parallel GS,1,70.00
+293,Lee Sangho,Male,04-03-2014,Welli Hilli Park,KOR,Korea,National Championships,Parallel Slalom,2,112.00
+294,Lee Sangho,Male,03-03-2014,Welli Hilli Park,KOR,Korea,National Championships,Parallel GS,1,160.00
+295,Lee Sangho,Male,21-01-2014,Bokwang Phoenix Park,KOR,Korea,FIS,Parallel Slalom,1,120.00
+296,Lee Sangho,Male,20-01-2014,Bokwang Phoenix Park,KOR,Korea,FIS,Parallel GS,1,120.00
+297,Lee Sangho,Male,07-01-2014,Welli Hilli Park,KOR,Korea,FIS,Parallel Slalom,2,80.00
+298,Lee Sangho,Male,06-01-2014,Welli Hilli Park,KOR,Korea,FIS,Parallel GS,DSQ,
+299,Lee Sangho,Male,14-12-2013,Carezza,ITA,Korea,World Cup,Parallel Slalom,45,17.00
+300,Lee Sangho,Male,13-12-2013,Carezza,ITA,Korea,World Cup,Parallel GS,52,14.90
+301,Lee Sangho,Male,08-12-2013,Hochfügen,AUT,Korea,European Cup,Parallel GS,35,10.00
+302,Lee Sangho,Male,07-12-2013,Hochfügen,AUT,Korea,European Cup,Parallel GS,18,65.00
+303,Lee Sangho,Male,15-11-2013,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,17,
+304,Lee Sangho,Male,14-11-2013,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,8,160.00
+305,Lee Sangho,Male,12-11-2013,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel GS,17,70.00
+306,Lee Sangho,Male,11-11-2013,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel GS,12,110.00
+307,Lee Sangho,Male,27-03-2013,Le Relais,CAN,Korea,Nor-Am Cup,Parallel Slalom,27,
+308,Lee Sangho,Male,26-03-2013,Le Relais,CAN,Korea,Nor-Am Cup,Parallel GS,12,79.20
+309,Lee Sangho,Male,25-03-2013,Le Relais,CAN,Korea,National Junior Championships,Parallel GS,1,110.00
+310,Lee Sangho,Male,07-03-2013,Erzurum,TUR,Korea,FIS Junior World Championships,Parallel Slalom,9,104.40
+311,Lee Sangho,Male,06-03-2013,Erzurum,TUR,Korea,FIS Junior World Championships,Parallel GS,9,104.40
+312,Lee Sangho,Male,27-01-2013,Stoneham,CAN,Korea,World Championships,Parallel Slalom,20,110.00
+313,Lee Sangho,Male,25-01-2013,Stoneham,CAN,Korea,World Championships,Parallel GS,36,19.70
+314,Lee Sangho,Male,20-01-2013,"Le Relais, QC",CAN,Korea,Nor-Am Cup,Parallel Slalom,25,30.00
+315,Lee Sangho,Male,19-01-2013,"Le Relais, QC",CAN,Korea,Nor-Am Cup,Parallel GS,22,45.00
+316,Lee Sangho,Male,16-12-2012,Racines/Ratschings,ITA,Korea,European Cup,Parallel Slalom,60,6.25
+317,Lee Sangho,Male,15-12-2012,Racines/Ratschings,ITA,Korea,European Cup,Parallel Slalom,DSQ,
+318,Lee Sangho,Male,09-12-2012,Lachtal,AUT,Korea,European Cup,Parallel GS,33,12.00
+319,Lee Sangho,Male,08-12-2012,Lachtal,AUT,Korea,European Cup,Parallel GS,40,9.25
+320,Lee Sangho,Male,14-11-2012,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,87,
+321,Lee Sangho,Male,13-11-2012,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel GS,19,54.00
+322,Lee Sangho,Male,28-03-2012,Sierra Nevada,ESP,Korea,FIS Junior World Championships,Parallel Slalom,19,
+323,Lee Sangho,Male,27-03-2012,Sierra Nevada,ESP,Korea,FIS Junior World Championships,Parallel GS,23,28.80
+324,Lee Sangho,Male,20-03-2012,Rogla,SLO,Korea,European Cup,Parallel Slalom,53,6.57
+325,Lee Sangho,Male,19-03-2012,Rogla,SLO,Korea,European Cup,Parallel GS,47,6.56
+326,Lee Sangho,Male,24-02-2012,Phoenix Park,KOR,Korea,National Championships,Parallel GS,2,72.00
+327,Lee Sangho,Male,31-03-2011,Valmalenco,ITA,Korea,FIS Junior World Championships,Parallel Slalom,41,6.55
+328,Lee Sangho,Male,30-03-2011,Valmalenco,ITA,Korea,FIS Junior World Championships,Parallel GS,16,54.00
+329,Lee Sangho,Male,27-03-2011,Lachtal,AUT,Korea,European Cup,Parallel Slalom,56,3.97
+330,Lee Sangho,Male,26-03-2011,Lachtal,AUT,Korea,European Cup,Parallel Slalom,74,0.00
+331,Lee Sangho,Male,25-03-2011,Lachtal,AUT,Korea,European Cup,Parallel GS,44,5.02
+332,Lee Sangho,Male,11-12-2010,Ratschings/Racines,ITA,Korea,European Cup,Parallel GS,62,3.45
+333,Lee Sangho,Male,10-12-2010,Ratschings/Racines,ITA,Korea,FIS,Parallel GS,79,1.77
+334,Lee Sangho,Male,05-12-2010,Welschnofen-Carezza,ITA,Korea,European Cup,Parallel Slalom,69,3.92
+335,Lee Sangho,Male,04-12-2010,Welschnofen-Carezza,ITA,Korea,European Cup,Parallel GS,33,9.60
+336,Lee Sangho,Male,28-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Korea,FIS,Parallel GS,19,31.20
+337,Lee Sangho,Male,27-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Korea,European Cup,Parallel GS,71,4.14
+338,Lee Sangho,Male,20-08-2010,Mt Hutt,NZL,Korea,FIS,Parallel GS,9,43.50

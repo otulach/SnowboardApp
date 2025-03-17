@@ -1,146 +1,150 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Kuehnhauser Max,Male,09-03-2025,Montafon/Gargellen,AUT,Germany,European Cup,Parallel Slalom,4,180.00
-1,Kuehnhauser Max,Male,08-03-2025,Montafon/Gargellen,AUT,Germany,European Cup,Parallel Giant Slalom,6,144.00
-2,Kuehnhauser Max,Male,02-03-2025,Krynica,POL,Germany,Qualification,Parallel Giant Slalom,37,
-3,Kuehnhauser Max,Male,02-03-2025,Krynica,POL,Germany,World Cup,Parallel Giant Slalom,37,19.40
-4,Kuehnhauser Max,Male,01-03-2025,Krynica,POL,Germany,Qualification,Parallel Giant Slalom,39,
-5,Kuehnhauser Max,Male,01-03-2025,Krynica,POL,Germany,World Cup,Parallel Giant Slalom,39,18.80
-6,Kuehnhauser Max,Male,23-02-2025,Funes - Vilnoessse,ITA,Germany,FIS,Parallel Giant Slalom,6,88.00
-7,Kuehnhauser Max,Male,22-02-2025,Funes - Vilnoessse,ITA,Germany,FIS,Parallel Giant Slalom,4,110.00
-8,Kuehnhauser Max,Male,02-02-2025,Ratschings,ITA,Germany,European Cup,Parallel Slalom,8,83.20
-9,Kuehnhauser Max,Male,02-02-2025,Ratschings,ITA,Germany,Qualification,Parallel Slalom,13,
-10,Kuehnhauser Max,Male,01-02-2025,Ratschings,ITA,Germany,European Cup,Parallel Slalom,8,92.80
-11,Kuehnhauser Max,Male,01-02-2025,Ratschings,ITA,Germany,Qualification,Parallel Slalom,16,
-12,Kuehnhauser Max,Male,26-01-2025,Simonhöhe,AUT,Germany,European Cup,Parallel Giant Slalom,6,128.00
-13,Kuehnhauser Max,Male,25-01-2025,Simonhöhe,AUT,Germany,European Cup,Parallel Giant Slalom,5,81.00
-14,Kuehnhauser Max,Male,22-01-2025,Bansko,BUL,Germany,European Cup,Parallel Giant Slalom,14,52.20
-15,Kuehnhauser Max,Male,21-01-2025,Bansko,BUL,Germany,European Cup,Parallel Giant Slalom,8,92.80
-16,Kuehnhauser Max,Male,19-01-2025,Bansko,BUL,Germany,Qualification,Parallel Giant Slalom,38,
-17,Kuehnhauser Max,Male,19-01-2025,Bansko,BUL,Germany,World Cup,Parallel Giant Slalom,38,19.10
-18,Kuehnhauser Max,Male,18-01-2025,Bansko,BUL,Germany,Qualification,Parallel Giant Slalom,26,
-19,Kuehnhauser Max,Male,18-01-2025,Bansko,BUL,Germany,World Cup,Parallel Giant Slalom,26,50.00
-20,Kuehnhauser Max,Male,14-01-2025,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,18,
-21,Kuehnhauser Max,Male,14-01-2025,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,18,130.00
-22,Kuehnhauser Max,Male,11-01-2025,Folgaria,ITA,Germany,European Cup,Parallel Giant Slalom,1,180.00
-23,Kuehnhauser Max,Male,11-01-2025,Folgaria,ITA,Germany,Qualification,Parallel Giant Slalom,1,
-24,Kuehnhauser Max,Male,10-01-2025,Folgaria,ITA,Germany,European Cup,Parallel Giant Slalom,5,81.00
-25,Kuehnhauser Max,Male,10-01-2025,Folgaria,ITA,Germany,Qualification,Parallel Giant Slalom,1,
-26,Kuehnhauser Max,Male,20-12-2024,Moninec,CZE,Germany,European Cup,Parallel Slalom,6,72.00
-27,Kuehnhauser Max,Male,19-12-2024,Moninec,CZE,Germany,European Cup,Parallel Slalom,7,72.00
-28,Kuehnhauser Max,Male,15-12-2024,Götschen,GER,Germany,European Cup,Parallel Slalom,13,48.00
-29,Kuehnhauser Max,Male,14-12-2024,Götschen,GER,Germany,European Cup,Parallel Slalom,47,2.62
-30,Kuehnhauser Max,Male,17-03-2024,St. Moritz,SUI,Germany,European Cup,Parallel Slalom,32,9.36
-31,Kuehnhauser Max,Male,16-03-2024,St. Moritz,SUI,Germany,European Cup,Parallel Giant Slalom,43,6.34
-32,Kuehnhauser Max,Male,13-03-2024,Davos/Rinerhorn ,SUI,Germany,European Cup,Parallel Giant Slalom,14,64.80
-33,Kuehnhauser Max,Male,12-03-2024,Davos/Rinerhorn ,SUI,Germany,European Cup,Parallel Giant Slalom,21,36.00
-34,Kuehnhauser Max,Male,10-03-2024,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,17,25.20
-35,Kuehnhauser Max,Male,09-03-2024,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,2,144.00
-36,Kuehnhauser Max,Male,09-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Slalom,11,69.60
-37,Kuehnhauser Max,Male,08-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Giant Slalom,17,40.60
-38,Kuehnhauser Max,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Germany,FIS,Parallel Giant Slalom,2,128.00
-39,Kuehnhauser Max,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Germany,FIS,Parallel Giant Slalom,2,104.00
-40,Kuehnhauser Max,Male,16-01-2024,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,38,
-41,Kuehnhauser Max,Male,16-01-2024,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,38,19.10
-42,Kuehnhauser Max,Male,12-01-2024,Folgaria,ITA,Germany,Qualification,Parallel Slalom,28,
-43,Kuehnhauser Max,Male,12-01-2024,Folgaria,ITA,Germany,European Cup,Parallel Slalom,28,9.60
-44,Kuehnhauser Max,Male,11-01-2024,Folgaria,ITA,Germany,Qualification,Parallel Slalom,7,
-45,Kuehnhauser Max,Male,11-01-2024,Folgaria,ITA,Germany,European Cup,Parallel Slalom,7,86.40
-46,Kuehnhauser Max,Male,22-12-2023,Moninec,CZE,Germany,FIS,Parallel Slalom,18,23.40
-47,Kuehnhauser Max,Male,20-12-2023,Moninec,CZE,Germany,European Cup,Parallel Slalom,13,44.00
-48,Kuehnhauser Max,Male,19-12-2023,Moninec,CZE,Germany,European Cup,Parallel Slalom,12,48.40
-49,Kuehnhauser Max,Male,09-12-2023,Götschen,GER,Germany,Qualification,Parallel Slalom,23,
-50,Kuehnhauser Max,Male,09-12-2023,Götschen,GER,Germany,European Cup,Parallel Slalom,23,28.80
-51,Kuehnhauser Max,Male,08-12-2023,Götschen,GER,Germany,Qualification,Parallel Slalom,40,
-52,Kuehnhauser Max,Male,08-12-2023,Götschen,GER,Germany,European Cup,Parallel Slalom,40,6.66
-53,Kuehnhauser Max,Male,27-03-2023,Bansko,BUL,Germany,National Championships,Parallel Giant Slalom,5,90.00
-54,Kuehnhauser Max,Male,26-03-2023,Bansko,BUL,Germany,FIS Junior World Championships,Parallel Team,1,
-55,Kuehnhauser Max,Male,25-03-2023,Bansko,BUL,Germany,FIS Junior World Championships,Parallel Slalom,23,19.20
-56,Kuehnhauser Max,Male,25-03-2023,Bansko,BUL,Germany,Qualification,Parallel Slalom,23,
-57,Kuehnhauser Max,Male,24-03-2023,Bansko,BUL,Germany,FIS Junior World Championships,Parallel Giant Slalom,3,144.00
-58,Kuehnhauser Max,Male,24-03-2023,Bansko,BUL,Germany,Qualification,Parallel Giant Slalom,4,
-59,Kuehnhauser Max,Male,19-03-2023,Ratschings,ITA,Germany,European Cup,Parallel Slalom,38,4.58
-60,Kuehnhauser Max,Male,18-03-2023,Ratschings,ITA,Germany,European Cup,Parallel Slalom,10,46.80
-61,Kuehnhauser Max,Male,12-03-2023,Davos,SUI,Germany,European Cup,Parallel Slalom,38,
-62,Kuehnhauser Max,Male,11-03-2023,Davos,SUI,Germany,European Cup,Parallel Slalom,13,72.00
-63,Kuehnhauser Max,Male,05-03-2023,Zakopane,POL,Germany,European Cup,Parallel Giant Slalom,4,160.00
-64,Kuehnhauser Max,Male,04-03-2023,Zakopane,POL,Germany,European Cup,Parallel Giant Slalom,16,54.00
-65,Kuehnhauser Max,Male,26-02-2023,Simonhoehe,AUT,Germany,Junior,Parallel Giant Slalom,3,78.00
-66,Kuehnhauser Max,Male,25-02-2023,Simonhoehe,AUT,Germany,Junior,Parallel Giant Slalom,1,130.00
-67,Kuehnhauser Max,Male,12-02-2023,Funes - Vilnoess,ITA,Germany,FIS,Parallel Giant Slalom,12,48.40
-68,Kuehnhauser Max,Male,11-02-2023,Funes - Vilnoess,ITA,Germany,FIS,Parallel Giant Slalom,8,70.40
-69,Kuehnhauser Max,Male,05-02-2023,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,11,86.40
-70,Kuehnhauser Max,Male,29-01-2023,Simonhöhe,AUT,Germany,European Cup,Parallel Giant Slalom,2,144.00
-71,Kuehnhauser Max,Male,29-01-2023,Simonhöhe,AUT,Germany,Qualification,Parallel Giant Slalom,7,
-72,Kuehnhauser Max,Male,28-01-2023,Simonhöhe,AUT,Germany,European Cup,Parallel Giant Slalom,16,27.00
-73,Kuehnhauser Max,Male,28-01-2023,Simonhöhe,AUT,Germany,Qualification,Parallel Giant Slalom,16,
-74,Kuehnhauser Max,Male,22-01-2023,Bansko,BUL,Germany,Qualification,Parallel Slalom,DSQ,
-75,Kuehnhauser Max,Male,22-01-2023,Bansko,BUL,Germany,World Cup,Parallel Slalom,DSQ,
-76,Kuehnhauser Max,Male,21-01-2023,Bansko,BUL,Germany,Qualification,Parallel Slalom,37,
-77,Kuehnhauser Max,Male,21-01-2023,Bansko,BUL,Germany,World Cup,Parallel Slalom,37,19.40
-78,Kuehnhauser Max,Male,15-01-2023,Alleghe,ITA,Germany,European Cup,Parallel Slalom,8,51.20
-79,Kuehnhauser Max,Male,15-01-2023,Alleghe,ITA,Germany,Qualification,Parallel Slalom,15,
-80,Kuehnhauser Max,Male,14-01-2023,Alleghe,ITA,Germany,European Cup,Parallel Slalom,10,41.60
-81,Kuehnhauser Max,Male,14-01-2023,Alleghe,ITA,Germany,Qualification,Parallel Slalom,6,
-82,Kuehnhauser Max,Male,10-01-2023,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,35,
-83,Kuehnhauser Max,Male,10-01-2023,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,36,19.70
-84,Kuehnhauser Max,Male,08-01-2023,Haus im Ennstal,AUT,Germany,Junior,Giant Slalom,3,72.00
-85,Kuehnhauser Max,Male,07-01-2023,Haus im Ennstal,AUT,Germany,Junior,Parallel Giant Slalom,5,54.00
-86,Kuehnhauser Max,Male,18-12-2022,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,6,104.00
-87,Kuehnhauser Max,Male,18-12-2022,Hochfügen,GER,Germany,Qualification,Parallel Giant Slalom,2,
-88,Kuehnhauser Max,Male,17-12-2022,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,1,180.00
-89,Kuehnhauser Max,Male,11-12-2022,Winterberg,GER,Germany,World Cup,Parallel Slalom,35,20.00
-90,Kuehnhauser Max,Male,10-12-2022,Winterberg,GER,Germany,Qualification,Parallel Slalom,35,
-91,Kuehnhauser Max,Male,01-04-2022,Chiesa in Valmalenco,ITA,Germany,FIS Junior World Championships,Parallel Slalom,13,48.00
-92,Kuehnhauser Max,Male,31-03-2022,Chiesa in Valmalenco,ITA,Germany,FIS Junior World Championships,Parallel Giant Slalom,2,192.00
-93,Kuehnhauser Max,Male,19-03-2022,Berchtesgaden,GER,Germany,Qualification,Parallel Slalom,47,
-94,Kuehnhauser Max,Male,19-03-2022,Berchtesgaden,GER,Germany,World Cup,Parallel Slalom,47,
-95,Kuehnhauser Max,Male,06-03-2022,Lachtal,AUT,Germany,European Cup,Parallel Giant Slalom,24,25.20
-96,Kuehnhauser Max,Male,05-03-2022,Lachtal,AUT,Germany,European Cup,Parallel Giant Slalom,31,10.08
-97,Kuehnhauser Max,Male,27-02-2022,Simonhöhe,AUT,Germany,FIS,Parallel Giant Slalom,6,88.00
-98,Kuehnhauser Max,Male,26-02-2022,Simonhöhe,AUT,Germany,FIS,Parallel Giant Slalom,7,79.20
-99,Kuehnhauser Max,Male,20-02-2022,Funes - Vilnoess,ITA,Germany,FIS,Parallel Giant Slalom,7,79.20
-100,Kuehnhauser Max,Male,19-02-2022,Funes - Vilnoess,ITA,Germany,FIS,Parallel Giant Slalom,7,79.20
-101,Kuehnhauser Max,Male,23-01-2022,Bukovel,UKR,Germany,European Cup,Parallel Giant Slalom,10,67.60
-102,Kuehnhauser Max,Male,22-01-2022,Bukovel,UKR,Germany,European Cup,Parallel Giant Slalom,21,26.00
-103,Kuehnhauser Max,Male,20-01-2022,Bukovel,UKR,Germany,National Championships,Parallel Slalom,6,88.00
-104,Kuehnhauser Max,Male,19-01-2022,Bukovel,UKR,Germany,National Championships,Parallel Giant Slalom,26,12.00
-105,Kuehnhauser Max,Male,15-01-2022,Goetschen,GER,Germany,Junior,Parallel Slalom,1,70.00
-106,Kuehnhauser Max,Male,09-01-2022,Haus im Ennstal,AUT,Germany,Junior,Parallel Giant Slalom,13,20.00
-107,Kuehnhauser Max,Male,08-01-2022,Haus im Ennstal,AUT,Germany,Junior,Parallel Giant Slalom,10,26.00
-108,Kuehnhauser Max,Male,21-12-2021,Moninec,CZE,Germany,FIS,Parallel Slalom,6,80.00
-109,Kuehnhauser Max,Male,20-12-2021,Moninec,CZE,Germany,FIS,Parallel Slalom,7,72.00
-110,Kuehnhauser Max,Male,19-12-2021,Moninec,CZE,Germany,European Cup,Parallel Slalom,18,28.60
-111,Kuehnhauser Max,Male,18-12-2021,Moninec,CZE,Germany,European Cup,Parallel Slalom,17,28.00
-112,Kuehnhauser Max,Male,12-12-2021,Götschen,GER,Germany,European Cup,Parallel Slalom,19,26.40
-113,Kuehnhauser Max,Male,11-12-2021,Götschen,GER,Germany,European Cup,Parallel Slalom,10,57.20
-114,Kuehnhauser Max,Male,21-03-2021,Pizol,SUI,Germany,Junior,Parallel Slalom,4,25.00
-115,Kuehnhauser Max,Male,20-03-2021,Pizol,SUI,Germany,Junior,Parallel Slalom,DSQ,
-116,Kuehnhauser Max,Male,13-03-2021,Davos Rinerhorn,SUI,Germany,European Cup,Parallel Giant Slalom,37,6.98
-117,Kuehnhauser Max,Male,07-03-2021,Simonhöhe,AUT,Germany,Junior,Parallel Giant Slalom,7,32.40
-118,Kuehnhauser Max,Male,06-03-2021,Simonhöhe,AUT,Germany,Junior,Parallel Giant Slalom,9,26.10
-119,Kuehnhauser Max,Male,28-02-2021,Funes/Villnoesses,ITA,Germany,European Cup,Parallel Giant Slalom,23,20.80
-120,Kuehnhauser Max,Male,27-02-2021,Funes/Villnoesses,ITA,Germany,European Cup,Parallel Giant Slalom,42,5.73
-121,Kuehnhauser Max,Male,21-02-2021,Gerlitzen,AUT,Germany,National Championships,Parallel Slalom,24,20.30
-122,Kuehnhauser Max,Male,20-02-2021,Gerlitzen,AUT,Germany,National Championships,Parallel Giant Slalom,32,7.54
-123,Kuehnhauser Max,Male,07-02-2021,Gosau,AUT,Germany,FIS,Parallel Slalom,DSQ,
-124,Kuehnhauser Max,Male,06-02-2021,Gosau,AUT,Germany,FIS,Parallel Slalom,4,35.00
-125,Kuehnhauser Max,Male,24-01-2021,Davos,SUI,Germany,European Cup,Parallel Slalom,32,9.36
-126,Kuehnhauser Max,Male,23-01-2021,Davos,SUI,Germany,European Cup,Parallel Slalom,35,7.20
-127,Kuehnhauser Max,Male,17-01-2021,Simonhoehe,AUT,Germany,European Cup,Parallel Giant Slalom,49,5.69
-128,Kuehnhauser Max,Male,16-01-2021,Simonhoehe,AUT,Germany,European Cup,Parallel Giant Slalom,52,5.36
-129,Kuehnhauser Max,Male,10-01-2021,Goetschen,GER,Germany,Junior,Parallel Slalom,16,15.00
-130,Kuehnhauser Max,Male,09-01-2021,Goetschen,GER,Germany,Junior,Parallel Slalom,4,50.00
-131,Kuehnhauser Max,Male,20-12-2020,Lachtal,AUT,Germany,FIS Junior World Championships,Parallel Giant Slalom,20,39.60
-132,Kuehnhauser Max,Male,19-12-2020,Lachtal,AUT,Germany,FIS Junior World Championships,Parallel Slalom,20,39.60
-133,Kuehnhauser Max,Male,08-03-2020,Tauplitz,AUT,Germany,European Cup,Parallel Slalom,38,6.88
-134,Kuehnhauser Max,Male,07-03-2020,Tauplitz,AUT,Germany,European Cup,Parallel Slalom,53,
-135,Kuehnhauser Max,Male,01-03-2020,Pec pod Snezkou,CZE,Germany,Junior,Parallel Slalom,2,40.00
-136,Kuehnhauser Max,Male,29-02-2020,Pec pod Snezkou,CZE,Germany,Junior,Parallel Giant Slalom,3,30.00
-137,Kuehnhauser Max,Male,23-02-2020,Funes/Villnoesses,ITA,Germany,FIS,Parallel Giant Slalom,39,4.14
-138,Kuehnhauser Max,Male,22-02-2020,Funes/Villnoesses,ITA,Germany,FIS,Parallel Giant Slalom,48,
-139,Kuehnhauser Max,Male,03-03-2019,Val Senales,ITA,Germany,FIS,Parallel Slalom,21,7.00
-140,Kuehnhauser Max,Male,02-03-2019,Val Senales,ITA,Germany,FIS,Parallel Slalom,12,15.40
-141,Kuehnhauser Max,Male,17-02-2019,Simonhoehe,AUT,Germany,FIS,Parallel GS,32,
-142,Kuehnhauser Max,Male,16-02-2019,Simonhoehe,AUT,Germany,FIS,Parallel GS,DSQ1,
-143,Kuehnhauser Max,Male,20-01-2019,Gosau,AUT,Germany,FIS,Parallel Slalom,23,8.80
-144,Kuehnhauser Max,Male,19-01-2019,Gosau,AUT,Germany,FIS,Parallel Slalom,25,6.60
+0,Kuehnhauser Max,Male,16-03-2025,Davos,SUI,Germany,European Cup,Parallel Slalom,2,
+1,Kuehnhauser Max,Male,16-03-2025,Davos,SUI,Germany,Qualification,Parallel Slalom,7,
+2,Kuehnhauser Max,Male,15-03-2025,Davos,SUI,Germany,European Cup,Parallel Slalom,10,
+3,Kuehnhauser Max,Male,15-03-2025,Davos,SUI,Germany,Qualification,Parallel Slalom,8,
+4,Kuehnhauser Max,Male,09-03-2025,Montafon/Gargellen,AUT,Germany,European Cup,Parallel Slalom,4,180.00
+5,Kuehnhauser Max,Male,08-03-2025,Montafon/Gargellen,AUT,Germany,European Cup,Parallel Giant Slalom,6,144.00
+6,Kuehnhauser Max,Male,02-03-2025,Krynica,POL,Germany,Qualification,Parallel Giant Slalom,37,
+7,Kuehnhauser Max,Male,02-03-2025,Krynica,POL,Germany,World Cup,Parallel Giant Slalom,37,19.40
+8,Kuehnhauser Max,Male,01-03-2025,Krynica,POL,Germany,Qualification,Parallel Giant Slalom,39,
+9,Kuehnhauser Max,Male,01-03-2025,Krynica,POL,Germany,World Cup,Parallel Giant Slalom,39,18.80
+10,Kuehnhauser Max,Male,23-02-2025,Funes - Vilnoessse,ITA,Germany,FIS,Parallel Giant Slalom,6,88.00
+11,Kuehnhauser Max,Male,22-02-2025,Funes - Vilnoessse,ITA,Germany,FIS,Parallel Giant Slalom,4,110.00
+12,Kuehnhauser Max,Male,02-02-2025,Ratschings,ITA,Germany,European Cup,Parallel Slalom,8,83.20
+13,Kuehnhauser Max,Male,02-02-2025,Ratschings,ITA,Germany,Qualification,Parallel Slalom,13,
+14,Kuehnhauser Max,Male,01-02-2025,Ratschings,ITA,Germany,European Cup,Parallel Slalom,8,92.80
+15,Kuehnhauser Max,Male,01-02-2025,Ratschings,ITA,Germany,Qualification,Parallel Slalom,16,
+16,Kuehnhauser Max,Male,26-01-2025,Simonhöhe,AUT,Germany,European Cup,Parallel Giant Slalom,6,128.00
+17,Kuehnhauser Max,Male,25-01-2025,Simonhöhe,AUT,Germany,European Cup,Parallel Giant Slalom,5,81.00
+18,Kuehnhauser Max,Male,22-01-2025,Bansko,BUL,Germany,European Cup,Parallel Giant Slalom,14,52.20
+19,Kuehnhauser Max,Male,21-01-2025,Bansko,BUL,Germany,European Cup,Parallel Giant Slalom,8,92.80
+20,Kuehnhauser Max,Male,19-01-2025,Bansko,BUL,Germany,Qualification,Parallel Giant Slalom,38,
+21,Kuehnhauser Max,Male,19-01-2025,Bansko,BUL,Germany,World Cup,Parallel Giant Slalom,38,19.10
+22,Kuehnhauser Max,Male,18-01-2025,Bansko,BUL,Germany,Qualification,Parallel Giant Slalom,26,
+23,Kuehnhauser Max,Male,18-01-2025,Bansko,BUL,Germany,World Cup,Parallel Giant Slalom,26,50.00
+24,Kuehnhauser Max,Male,14-01-2025,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,18,
+25,Kuehnhauser Max,Male,14-01-2025,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,18,130.00
+26,Kuehnhauser Max,Male,11-01-2025,Folgaria,ITA,Germany,European Cup,Parallel Giant Slalom,1,180.00
+27,Kuehnhauser Max,Male,11-01-2025,Folgaria,ITA,Germany,Qualification,Parallel Giant Slalom,1,
+28,Kuehnhauser Max,Male,10-01-2025,Folgaria,ITA,Germany,European Cup,Parallel Giant Slalom,5,81.00
+29,Kuehnhauser Max,Male,10-01-2025,Folgaria,ITA,Germany,Qualification,Parallel Giant Slalom,1,
+30,Kuehnhauser Max,Male,20-12-2024,Moninec,CZE,Germany,European Cup,Parallel Slalom,6,72.00
+31,Kuehnhauser Max,Male,19-12-2024,Moninec,CZE,Germany,European Cup,Parallel Slalom,7,72.00
+32,Kuehnhauser Max,Male,15-12-2024,Götschen,GER,Germany,European Cup,Parallel Slalom,13,48.00
+33,Kuehnhauser Max,Male,14-12-2024,Götschen,GER,Germany,European Cup,Parallel Slalom,47,2.62
+34,Kuehnhauser Max,Male,17-03-2024,St. Moritz,SUI,Germany,European Cup,Parallel Slalom,32,9.36
+35,Kuehnhauser Max,Male,16-03-2024,St. Moritz,SUI,Germany,European Cup,Parallel Giant Slalom,43,6.34
+36,Kuehnhauser Max,Male,13-03-2024,Davos/Rinerhorn ,SUI,Germany,European Cup,Parallel Giant Slalom,14,64.80
+37,Kuehnhauser Max,Male,12-03-2024,Davos/Rinerhorn ,SUI,Germany,European Cup,Parallel Giant Slalom,21,36.00
+38,Kuehnhauser Max,Male,10-03-2024,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,17,25.20
+39,Kuehnhauser Max,Male,09-03-2024,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,2,144.00
+40,Kuehnhauser Max,Male,09-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Slalom,11,69.60
+41,Kuehnhauser Max,Male,08-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Giant Slalom,17,40.60
+42,Kuehnhauser Max,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Germany,FIS,Parallel Giant Slalom,2,128.00
+43,Kuehnhauser Max,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Germany,FIS,Parallel Giant Slalom,2,104.00
+44,Kuehnhauser Max,Male,16-01-2024,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,38,
+45,Kuehnhauser Max,Male,16-01-2024,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,38,19.10
+46,Kuehnhauser Max,Male,12-01-2024,Folgaria,ITA,Germany,Qualification,Parallel Slalom,28,
+47,Kuehnhauser Max,Male,12-01-2024,Folgaria,ITA,Germany,European Cup,Parallel Slalom,28,9.60
+48,Kuehnhauser Max,Male,11-01-2024,Folgaria,ITA,Germany,Qualification,Parallel Slalom,7,
+49,Kuehnhauser Max,Male,11-01-2024,Folgaria,ITA,Germany,European Cup,Parallel Slalom,7,86.40
+50,Kuehnhauser Max,Male,22-12-2023,Moninec,CZE,Germany,FIS,Parallel Slalom,18,23.40
+51,Kuehnhauser Max,Male,20-12-2023,Moninec,CZE,Germany,European Cup,Parallel Slalom,13,44.00
+52,Kuehnhauser Max,Male,19-12-2023,Moninec,CZE,Germany,European Cup,Parallel Slalom,12,48.40
+53,Kuehnhauser Max,Male,09-12-2023,Götschen,GER,Germany,Qualification,Parallel Slalom,23,
+54,Kuehnhauser Max,Male,09-12-2023,Götschen,GER,Germany,European Cup,Parallel Slalom,23,28.80
+55,Kuehnhauser Max,Male,08-12-2023,Götschen,GER,Germany,Qualification,Parallel Slalom,40,
+56,Kuehnhauser Max,Male,08-12-2023,Götschen,GER,Germany,European Cup,Parallel Slalom,40,6.66
+57,Kuehnhauser Max,Male,27-03-2023,Bansko,BUL,Germany,National Championships,Parallel Giant Slalom,5,90.00
+58,Kuehnhauser Max,Male,26-03-2023,Bansko,BUL,Germany,FIS Junior World Championships,Parallel Team,1,
+59,Kuehnhauser Max,Male,25-03-2023,Bansko,BUL,Germany,FIS Junior World Championships,Parallel Slalom,23,19.20
+60,Kuehnhauser Max,Male,25-03-2023,Bansko,BUL,Germany,Qualification,Parallel Slalom,23,
+61,Kuehnhauser Max,Male,24-03-2023,Bansko,BUL,Germany,FIS Junior World Championships,Parallel Giant Slalom,3,144.00
+62,Kuehnhauser Max,Male,24-03-2023,Bansko,BUL,Germany,Qualification,Parallel Giant Slalom,4,
+63,Kuehnhauser Max,Male,19-03-2023,Ratschings,ITA,Germany,European Cup,Parallel Slalom,38,4.58
+64,Kuehnhauser Max,Male,18-03-2023,Ratschings,ITA,Germany,European Cup,Parallel Slalom,10,46.80
+65,Kuehnhauser Max,Male,12-03-2023,Davos,SUI,Germany,European Cup,Parallel Slalom,38,
+66,Kuehnhauser Max,Male,11-03-2023,Davos,SUI,Germany,European Cup,Parallel Slalom,13,72.00
+67,Kuehnhauser Max,Male,05-03-2023,Zakopane,POL,Germany,European Cup,Parallel Giant Slalom,4,160.00
+68,Kuehnhauser Max,Male,04-03-2023,Zakopane,POL,Germany,European Cup,Parallel Giant Slalom,16,54.00
+69,Kuehnhauser Max,Male,26-02-2023,Simonhoehe,AUT,Germany,Junior,Parallel Giant Slalom,3,78.00
+70,Kuehnhauser Max,Male,25-02-2023,Simonhoehe,AUT,Germany,Junior,Parallel Giant Slalom,1,130.00
+71,Kuehnhauser Max,Male,12-02-2023,Funes - Vilnoess,ITA,Germany,FIS,Parallel Giant Slalom,12,48.40
+72,Kuehnhauser Max,Male,11-02-2023,Funes - Vilnoess,ITA,Germany,FIS,Parallel Giant Slalom,8,70.40
+73,Kuehnhauser Max,Male,05-02-2023,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,11,86.40
+74,Kuehnhauser Max,Male,29-01-2023,Simonhöhe,AUT,Germany,European Cup,Parallel Giant Slalom,2,144.00
+75,Kuehnhauser Max,Male,29-01-2023,Simonhöhe,AUT,Germany,Qualification,Parallel Giant Slalom,7,
+76,Kuehnhauser Max,Male,28-01-2023,Simonhöhe,AUT,Germany,European Cup,Parallel Giant Slalom,16,27.00
+77,Kuehnhauser Max,Male,28-01-2023,Simonhöhe,AUT,Germany,Qualification,Parallel Giant Slalom,16,
+78,Kuehnhauser Max,Male,22-01-2023,Bansko,BUL,Germany,Qualification,Parallel Slalom,DSQ,
+79,Kuehnhauser Max,Male,22-01-2023,Bansko,BUL,Germany,World Cup,Parallel Slalom,DSQ,
+80,Kuehnhauser Max,Male,21-01-2023,Bansko,BUL,Germany,Qualification,Parallel Slalom,37,
+81,Kuehnhauser Max,Male,21-01-2023,Bansko,BUL,Germany,World Cup,Parallel Slalom,37,19.40
+82,Kuehnhauser Max,Male,15-01-2023,Alleghe,ITA,Germany,European Cup,Parallel Slalom,8,51.20
+83,Kuehnhauser Max,Male,15-01-2023,Alleghe,ITA,Germany,Qualification,Parallel Slalom,15,
+84,Kuehnhauser Max,Male,14-01-2023,Alleghe,ITA,Germany,European Cup,Parallel Slalom,10,41.60
+85,Kuehnhauser Max,Male,14-01-2023,Alleghe,ITA,Germany,Qualification,Parallel Slalom,6,
+86,Kuehnhauser Max,Male,10-01-2023,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,35,
+87,Kuehnhauser Max,Male,10-01-2023,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,36,19.70
+88,Kuehnhauser Max,Male,08-01-2023,Haus im Ennstal,AUT,Germany,Junior,Giant Slalom,3,72.00
+89,Kuehnhauser Max,Male,07-01-2023,Haus im Ennstal,AUT,Germany,Junior,Parallel Giant Slalom,5,54.00
+90,Kuehnhauser Max,Male,18-12-2022,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,6,104.00
+91,Kuehnhauser Max,Male,18-12-2022,Hochfügen,GER,Germany,Qualification,Parallel Giant Slalom,2,
+92,Kuehnhauser Max,Male,17-12-2022,Hochfügen,GER,Germany,European Cup,Parallel Giant Slalom,1,180.00
+93,Kuehnhauser Max,Male,11-12-2022,Winterberg,GER,Germany,World Cup,Parallel Slalom,35,20.00
+94,Kuehnhauser Max,Male,10-12-2022,Winterberg,GER,Germany,Qualification,Parallel Slalom,35,
+95,Kuehnhauser Max,Male,01-04-2022,Chiesa in Valmalenco,ITA,Germany,FIS Junior World Championships,Parallel Slalom,13,48.00
+96,Kuehnhauser Max,Male,31-03-2022,Chiesa in Valmalenco,ITA,Germany,FIS Junior World Championships,Parallel Giant Slalom,2,192.00
+97,Kuehnhauser Max,Male,19-03-2022,Berchtesgaden,GER,Germany,Qualification,Parallel Slalom,47,
+98,Kuehnhauser Max,Male,19-03-2022,Berchtesgaden,GER,Germany,World Cup,Parallel Slalom,47,
+99,Kuehnhauser Max,Male,06-03-2022,Lachtal,AUT,Germany,European Cup,Parallel Giant Slalom,24,25.20
+100,Kuehnhauser Max,Male,05-03-2022,Lachtal,AUT,Germany,European Cup,Parallel Giant Slalom,31,10.08
+101,Kuehnhauser Max,Male,27-02-2022,Simonhöhe,AUT,Germany,FIS,Parallel Giant Slalom,6,88.00
+102,Kuehnhauser Max,Male,26-02-2022,Simonhöhe,AUT,Germany,FIS,Parallel Giant Slalom,7,79.20
+103,Kuehnhauser Max,Male,20-02-2022,Funes - Vilnoess,ITA,Germany,FIS,Parallel Giant Slalom,7,79.20
+104,Kuehnhauser Max,Male,19-02-2022,Funes - Vilnoess,ITA,Germany,FIS,Parallel Giant Slalom,7,79.20
+105,Kuehnhauser Max,Male,23-01-2022,Bukovel,UKR,Germany,European Cup,Parallel Giant Slalom,10,67.60
+106,Kuehnhauser Max,Male,22-01-2022,Bukovel,UKR,Germany,European Cup,Parallel Giant Slalom,21,26.00
+107,Kuehnhauser Max,Male,20-01-2022,Bukovel,UKR,Germany,National Championships,Parallel Slalom,6,88.00
+108,Kuehnhauser Max,Male,19-01-2022,Bukovel,UKR,Germany,National Championships,Parallel Giant Slalom,26,12.00
+109,Kuehnhauser Max,Male,15-01-2022,Goetschen,GER,Germany,Junior,Parallel Slalom,1,70.00
+110,Kuehnhauser Max,Male,09-01-2022,Haus im Ennstal,AUT,Germany,Junior,Parallel Giant Slalom,13,20.00
+111,Kuehnhauser Max,Male,08-01-2022,Haus im Ennstal,AUT,Germany,Junior,Parallel Giant Slalom,10,26.00
+112,Kuehnhauser Max,Male,21-12-2021,Moninec,CZE,Germany,FIS,Parallel Slalom,6,80.00
+113,Kuehnhauser Max,Male,20-12-2021,Moninec,CZE,Germany,FIS,Parallel Slalom,7,72.00
+114,Kuehnhauser Max,Male,19-12-2021,Moninec,CZE,Germany,European Cup,Parallel Slalom,18,28.60
+115,Kuehnhauser Max,Male,18-12-2021,Moninec,CZE,Germany,European Cup,Parallel Slalom,17,28.00
+116,Kuehnhauser Max,Male,12-12-2021,Götschen,GER,Germany,European Cup,Parallel Slalom,19,26.40
+117,Kuehnhauser Max,Male,11-12-2021,Götschen,GER,Germany,European Cup,Parallel Slalom,10,57.20
+118,Kuehnhauser Max,Male,21-03-2021,Pizol,SUI,Germany,Junior,Parallel Slalom,4,25.00
+119,Kuehnhauser Max,Male,20-03-2021,Pizol,SUI,Germany,Junior,Parallel Slalom,DSQ,
+120,Kuehnhauser Max,Male,13-03-2021,Davos Rinerhorn,SUI,Germany,European Cup,Parallel Giant Slalom,37,6.98
+121,Kuehnhauser Max,Male,07-03-2021,Simonhöhe,AUT,Germany,Junior,Parallel Giant Slalom,7,32.40
+122,Kuehnhauser Max,Male,06-03-2021,Simonhöhe,AUT,Germany,Junior,Parallel Giant Slalom,9,26.10
+123,Kuehnhauser Max,Male,28-02-2021,Funes/Villnoesses,ITA,Germany,European Cup,Parallel Giant Slalom,23,20.80
+124,Kuehnhauser Max,Male,27-02-2021,Funes/Villnoesses,ITA,Germany,European Cup,Parallel Giant Slalom,42,5.73
+125,Kuehnhauser Max,Male,21-02-2021,Gerlitzen,AUT,Germany,National Championships,Parallel Slalom,24,20.30
+126,Kuehnhauser Max,Male,20-02-2021,Gerlitzen,AUT,Germany,National Championships,Parallel Giant Slalom,32,7.54
+127,Kuehnhauser Max,Male,07-02-2021,Gosau,AUT,Germany,FIS,Parallel Slalom,DSQ,
+128,Kuehnhauser Max,Male,06-02-2021,Gosau,AUT,Germany,FIS,Parallel Slalom,4,35.00
+129,Kuehnhauser Max,Male,24-01-2021,Davos,SUI,Germany,European Cup,Parallel Slalom,32,9.36
+130,Kuehnhauser Max,Male,23-01-2021,Davos,SUI,Germany,European Cup,Parallel Slalom,35,7.20
+131,Kuehnhauser Max,Male,17-01-2021,Simonhoehe,AUT,Germany,European Cup,Parallel Giant Slalom,49,5.69
+132,Kuehnhauser Max,Male,16-01-2021,Simonhoehe,AUT,Germany,European Cup,Parallel Giant Slalom,52,5.36
+133,Kuehnhauser Max,Male,10-01-2021,Goetschen,GER,Germany,Junior,Parallel Slalom,16,15.00
+134,Kuehnhauser Max,Male,09-01-2021,Goetschen,GER,Germany,Junior,Parallel Slalom,4,50.00
+135,Kuehnhauser Max,Male,20-12-2020,Lachtal,AUT,Germany,FIS Junior World Championships,Parallel Giant Slalom,20,39.60
+136,Kuehnhauser Max,Male,19-12-2020,Lachtal,AUT,Germany,FIS Junior World Championships,Parallel Slalom,20,39.60
+137,Kuehnhauser Max,Male,08-03-2020,Tauplitz,AUT,Germany,European Cup,Parallel Slalom,38,6.88
+138,Kuehnhauser Max,Male,07-03-2020,Tauplitz,AUT,Germany,European Cup,Parallel Slalom,53,
+139,Kuehnhauser Max,Male,01-03-2020,Pec pod Snezkou,CZE,Germany,Junior,Parallel Slalom,2,40.00
+140,Kuehnhauser Max,Male,29-02-2020,Pec pod Snezkou,CZE,Germany,Junior,Parallel Giant Slalom,3,30.00
+141,Kuehnhauser Max,Male,23-02-2020,Funes/Villnoesses,ITA,Germany,FIS,Parallel Giant Slalom,39,4.14
+142,Kuehnhauser Max,Male,22-02-2020,Funes/Villnoesses,ITA,Germany,FIS,Parallel Giant Slalom,48,
+143,Kuehnhauser Max,Male,03-03-2019,Val Senales,ITA,Germany,FIS,Parallel Slalom,21,7.00
+144,Kuehnhauser Max,Male,02-03-2019,Val Senales,ITA,Germany,FIS,Parallel Slalom,12,15.40
+145,Kuehnhauser Max,Male,17-02-2019,Simonhoehe,AUT,Germany,FIS,Parallel GS,32,
+146,Kuehnhauser Max,Male,16-02-2019,Simonhoehe,AUT,Germany,FIS,Parallel GS,DSQ1,
+147,Kuehnhauser Max,Male,20-01-2019,Gosau,AUT,Germany,FIS,Parallel Slalom,23,8.80
+148,Kuehnhauser Max,Male,19-01-2019,Gosau,AUT,Germany,FIS,Parallel Slalom,25,6.60

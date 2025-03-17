@@ -1,81 +1,85 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Georgiev Kristian,Male,02-03-2025,Krynica,POL,Bulgaria,World Cup,Parallel Giant Slalom,24,70.00
-1,Georgiev Kristian,Male,02-03-2025,Krynica,POL,Bulgaria,Qualification,Parallel Giant Slalom,24,
-2,Georgiev Kristian,Male,01-03-2025,Krynica,POL,Bulgaria,World Cup,Parallel Giant Slalom,35,20.00
-3,Georgiev Kristian,Male,01-03-2025,Krynica,POL,Bulgaria,Qualification,Parallel Giant Slalom,35,
-4,Georgiev Kristian,Male,02-02-2025,Ratschings,ITA,Bulgaria,Qualification,Parallel Slalom,20,
-5,Georgiev Kristian,Male,02-02-2025,Ratschings,ITA,Bulgaria,European Cup,Parallel Slalom,20,28.60
-6,Georgiev Kristian,Male,01-02-2025,Ratschings,ITA,Bulgaria,Qualification,Parallel Slalom,3,
-7,Georgiev Kristian,Male,01-02-2025,Ratschings,ITA,Bulgaria,European Cup,Parallel Slalom,5,130.50
-8,Georgiev Kristian,Male,26-01-2025,Simonhöhe,AUT,Bulgaria,European Cup,Parallel Giant Slalom,14,57.60
-9,Georgiev Kristian,Male,25-01-2025,Rogla,SLO,Bulgaria,World Cup,Parallel Giant Slalom,39,18.80
-10,Georgiev Kristian,Male,25-01-2025,Rogla,SLO,Bulgaria,Qualification,Parallel Giant Slalom,39,
-11,Georgiev Kristian,Male,22-01-2025,Bansko,BUL,Bulgaria,European Cup,Parallel Giant Slalom,6,116.00
-12,Georgiev Kristian,Male,21-01-2025,Bansko,BUL,Bulgaria,European Cup,Parallel Giant Slalom,7,104.40
-13,Georgiev Kristian,Male,19-01-2025,Bansko,BUL,Bulgaria,Qualification,Parallel Giant Slalom,37,
-14,Georgiev Kristian,Male,19-01-2025,Bansko,BUL,Bulgaria,World Cup,Parallel Giant Slalom,37,19.40
-15,Georgiev Kristian,Male,18-01-2025,Bansko,BUL,Bulgaria,World Cup,Parallel Giant Slalom,38,19.10
-16,Georgiev Kristian,Male,18-01-2025,Bansko,BUL,Bulgaria,Qualification,Parallel Giant Slalom,38,
-17,Georgiev Kristian,Male,14-01-2025,Bad Gastein,AUT,Bulgaria,World Cup,Parallel Slalom,33,24.00
-18,Georgiev Kristian,Male,14-01-2025,Bad Gastein,AUT,Bulgaria,Qualification,Parallel Slalom,33,
-19,Georgiev Kristian,Male,21-12-2024,Davos,SUI,Bulgaria,World Cup,Parallel Slalom,32,26.00
-20,Georgiev Kristian,Male,21-12-2024,Davos,SUI,Bulgaria,Qualification,Parallel Slalom,32,
-21,Georgiev Kristian,Male,14-12-2024,Cortina d'Ampezzo,ITA,Bulgaria,World Cup,Parallel Giant Slalom,40,18.50
-22,Georgiev Kristian,Male,14-12-2024,Cortina d'Ampezzo,ITA,Bulgaria,Qualification,Parallel Giant Slalom,40,
-23,Georgiev Kristian,Male,12-12-2024,Carezza,ITA,Bulgaria,World Cup,Parallel Giant Slalom,31,28.00
-24,Georgiev Kristian,Male,12-12-2024,Carezza,ITA,Bulgaria,Qualification,Parallel Giant Slalom,31,
-25,Georgiev Kristian,Male,05-04-2024,Bansko,BUL,Bulgaria,National Championships,Parallel Slalom,1,260.00
-26,Georgiev Kristian,Male,04-04-2024,Bansko,BUL,Bulgaria,National Championships,Parallel Giant Slalom,1,260.00
-27,Georgiev Kristian,Male,24-03-2024,Lachtal,AUT,Bulgaria,FIS Junior World Championships,Parallel Slalom Team,26,
-28,Georgiev Kristian,Male,23-03-2024,Lachtal,AUT,Bulgaria,FIS Junior World Championships,Parallel Slalom,1,240.00
-29,Georgiev Kristian,Male,23-03-2024,Lachtal,AUT,Bulgaria,Qualification,Parallel Slalom,2,
-30,Georgiev Kristian,Male,22-03-2024,Lachtal,AUT,Bulgaria,Qualification,Parallel Giant Slalom,4,
-31,Georgiev Kristian,Male,22-03-2024,Lachtal,AUT,Bulgaria,FIS Junior World Championships,Parallel Giant Slalom,4,120.00
-32,Georgiev Kristian,Male,17-03-2024,St. Moritz,SUI,Bulgaria,European Cup,Parallel Slalom,DSQ,
-33,Georgiev Kristian,Male,16-03-2024,St. Moritz,SUI,Bulgaria,European Cup,Parallel Giant Slalom,30,11.52
-34,Georgiev Kristian,Male,24-01-2024,Pamporovo,BUL,Bulgaria,European Cup,Parallel Slalom,5,99.00
-35,Georgiev Kristian,Male,23-01-2024,Pamporovo,BUL,Bulgaria,European Cup,Parallel Slalom,8,70.40
-36,Georgiev Kristian,Male,21-01-2024,Pamporovo,BUL,Bulgaria,World Cup,Parallel Slalom,33,24.00
-37,Georgiev Kristian,Male,21-01-2024,Pamporovo,BUL,Bulgaria,Qualification,Parallel Slalom,33,
-38,Georgiev Kristian,Male,20-01-2024,Pamporovo,BUL,Bulgaria,Qualification,Parallel Slalom,47,
-39,Georgiev Kristian,Male,20-01-2024,Pamporovo,BUL,Bulgaria,World Cup,Parallel Slalom,47,16.40
-40,Georgiev Kristian,Male,16-12-2023,Cortina d'Ampezzo,ITA,Bulgaria,World Cup,Parallel Giant Slalom,49,15.80
-41,Georgiev Kristian,Male,16-12-2023,Cortina d'Ampezzo,ITA,Bulgaria,Qualification,Parallel Giant Slalom,49,
-42,Georgiev Kristian,Male,28-03-2023,Bansko,BUL,Bulgaria,National Championships,Parallel Slalom,7,72.00
-43,Georgiev Kristian,Male,27-03-2023,Bansko,BUL,Bulgaria,National Championships,Parallel Giant Slalom,3,120.00
-44,Georgiev Kristian,Male,25-03-2023,Bansko,BUL,Bulgaria,FIS Junior World Championships,Parallel Slalom,4,120.00
-45,Georgiev Kristian,Male,25-03-2023,Bansko,BUL,Bulgaria,Qualification,Parallel Slalom,5,
-46,Georgiev Kristian,Male,24-03-2023,Bansko,BUL,Bulgaria,FIS Junior World Championships,Parallel Giant Slalom,9,69.60
-47,Georgiev Kristian,Male,24-03-2023,Bansko,BUL,Bulgaria,Qualification,Parallel Giant Slalom,7,
-48,Georgiev Kristian,Male,15-03-2023,Rogla,SLO,Bulgaria,Qualification,Parallel Giant Slalom,43,
-49,Georgiev Kristian,Male,15-03-2023,Rogla,SLO,Bulgaria,World Cup,Parallel Giant Slalom,43,17.60
-50,Georgiev Kristian,Male,09-02-2023,Pamporovo,BUL,Bulgaria,FIS,Parallel Slalom,3,96.00
-51,Georgiev Kristian,Male,08-02-2023,Pamporovo,BUL,Bulgaria,FIS,Parallel Slalom,3,96.00
-52,Georgiev Kristian,Male,22-01-2023,Bansko,BUL,Bulgaria,World Cup,Parallel Slalom,38,19.10
-53,Georgiev Kristian,Male,22-01-2023,Bansko,BUL,Bulgaria,Qualification,Parallel Slalom,38,
-54,Georgiev Kristian,Male,21-01-2023,Bansko,BUL,Bulgaria,World Cup,Parallel Slalom,DSQ,
-55,Georgiev Kristian,Male,21-01-2023,Bansko,BUL,Bulgaria,Qualification,Parallel Slalom,DSQ,
-56,Georgiev Kristian,Male,06-04-2022,Borovets,BUL,Bulgaria,National Championships,Parallel Slalom,3,120.00
-57,Georgiev Kristian,Male,05-04-2022,Borovets,BUL,Bulgaria,National Championships,Parallel Giant Slalom,8,64.00
-58,Georgiev Kristian,Male,01-04-2022,Chiesa in Valmalenco,ITA,Bulgaria,FIS Junior World Championships,Parallel Slalom,5,108.00
-59,Georgiev Kristian,Male,31-03-2022,Chiesa in Valmalenco,ITA,Bulgaria,FIS Junior World Championships,Parallel Giant Slalom,31,6.72
-60,Georgiev Kristian,Male,17-03-2022,Rogla,SLO,Bulgaria,European Cup,Parallel Giant Slalom,27,14.40
-61,Georgiev Kristian,Male,10-03-2022,Pamporovo,BUL,Bulgaria,FIS,Parallel Slalom,4,55.00
-62,Georgiev Kristian,Male,09-03-2022,Pamporovo,BUL,Bulgaria,FIS,Parallel Slalom,1,110.00
-63,Georgiev Kristian,Male,20-02-2022,Bansko,BUL,Bulgaria,FIS,Parallel Slalom,4,90.00
-64,Georgiev Kristian,Male,19-02-2022,Bansko,BUL,Bulgaria,FIS,Parallel Giant Slalom,6,72.00
-65,Georgiev Kristian,Male,30-03-2021,Bansko,BUL,Bulgaria,National Championships,Parallel Slalom,7,64.80
-66,Georgiev Kristian,Male,29-03-2021,Bansko,BUL,Bulgaria,National Championships,Parallel Giant Slalom,9,52.20
-67,Georgiev Kristian,Male,26-03-2021,Krasnoyarsk ,RUS,Bulgaria,FIS Junior World Championships,Parallel Slalom,25,15.60
-68,Georgiev Kristian,Male,25-03-2021,Krasnoyarsk ,RUS,Bulgaria,Qualification,Parallel Giant Slalom,30,
-69,Georgiev Kristian,Male,25-03-2021,Krasnoyarsk ,RUS,Bulgaria,FIS Junior World Championships,Parallel Giant Slalom,30,8.32
-70,Georgiev Kristian,Male,21-02-2021,Gerlitzen,AUT,Bulgaria,National Championships,Parallel Slalom,43,5.10
-71,Georgiev Kristian,Male,20-02-2021,Gerlitzen,AUT,Bulgaria,National Championships,Parallel Giant Slalom,54,4.15
-72,Georgiev Kristian,Male,07-02-2021,Gosau,AUT,Bulgaria,FIS,Parallel Slalom,16,10.50
-73,Georgiev Kristian,Male,06-02-2021,Gosau,AUT,Bulgaria,FIS,Parallel Slalom,DSQ,
-74,Georgiev Kristian,Male,23-01-2021,Haus im Ennstal,AUT,Bulgaria,Junior,Parallel Slalom,10,13.00
-75,Georgiev Kristian,Male,22-01-2021,Haus im Ennstal,AUT,Bulgaria,Junior,Parallel Slalom,10,13.00
-76,Georgiev Kristian,Male,26-01-2020,Gosau,AUT,Bulgaria,FIS,Parallel Slalom,24,12.60
-77,Georgiev Kristian,Male,25-01-2020,Gosau,AUT,Bulgaria,FIS,Parallel Slalom,26,9.00
-78,Georgiev Kristian,Male,21-12-2019,Haus im Ennstal,AUT,Bulgaria,Junior,Parallel Giant Slalom,9,26.10
-79,Georgiev Kristian,Male,20-12-2019,Haus im Ennstal,AUT,Bulgaria,Junior,Parallel Giant Slalom,9,26.10
+0,Georgiev Kristian,Male,16-03-2025,Davos,SUI,Bulgaria,Qualification,Parallel Slalom,6,
+1,Georgiev Kristian,Male,16-03-2025,Davos,SUI,Bulgaria,European Cup,Parallel Slalom,6,
+2,Georgiev Kristian,Male,15-03-2025,Davos,SUI,Bulgaria,Qualification,Parallel Slalom,3,
+3,Georgiev Kristian,Male,15-03-2025,Davos,SUI,Bulgaria,European Cup,Parallel Slalom,1,
+4,Georgiev Kristian,Male,02-03-2025,Krynica,POL,Bulgaria,Qualification,Parallel Giant Slalom,24,
+5,Georgiev Kristian,Male,02-03-2025,Krynica,POL,Bulgaria,World Cup,Parallel Giant Slalom,24,70.00
+6,Georgiev Kristian,Male,01-03-2025,Krynica,POL,Bulgaria,Qualification,Parallel Giant Slalom,35,
+7,Georgiev Kristian,Male,01-03-2025,Krynica,POL,Bulgaria,World Cup,Parallel Giant Slalom,35,20.00
+8,Georgiev Kristian,Male,02-02-2025,Ratschings,ITA,Bulgaria,Qualification,Parallel Slalom,20,
+9,Georgiev Kristian,Male,02-02-2025,Ratschings,ITA,Bulgaria,European Cup,Parallel Slalom,20,28.60
+10,Georgiev Kristian,Male,01-02-2025,Ratschings,ITA,Bulgaria,Qualification,Parallel Slalom,3,
+11,Georgiev Kristian,Male,01-02-2025,Ratschings,ITA,Bulgaria,European Cup,Parallel Slalom,5,130.50
+12,Georgiev Kristian,Male,26-01-2025,Simonhöhe,AUT,Bulgaria,European Cup,Parallel Giant Slalom,14,57.60
+13,Georgiev Kristian,Male,25-01-2025,Rogla,SLO,Bulgaria,World Cup,Parallel Giant Slalom,39,18.80
+14,Georgiev Kristian,Male,25-01-2025,Rogla,SLO,Bulgaria,Qualification,Parallel Giant Slalom,39,
+15,Georgiev Kristian,Male,22-01-2025,Bansko,BUL,Bulgaria,European Cup,Parallel Giant Slalom,6,116.00
+16,Georgiev Kristian,Male,21-01-2025,Bansko,BUL,Bulgaria,European Cup,Parallel Giant Slalom,7,104.40
+17,Georgiev Kristian,Male,19-01-2025,Bansko,BUL,Bulgaria,World Cup,Parallel Giant Slalom,37,19.40
+18,Georgiev Kristian,Male,19-01-2025,Bansko,BUL,Bulgaria,Qualification,Parallel Giant Slalom,37,
+19,Georgiev Kristian,Male,18-01-2025,Bansko,BUL,Bulgaria,World Cup,Parallel Giant Slalom,38,19.10
+20,Georgiev Kristian,Male,18-01-2025,Bansko,BUL,Bulgaria,Qualification,Parallel Giant Slalom,38,
+21,Georgiev Kristian,Male,14-01-2025,Bad Gastein,AUT,Bulgaria,World Cup,Parallel Slalom,33,24.00
+22,Georgiev Kristian,Male,14-01-2025,Bad Gastein,AUT,Bulgaria,Qualification,Parallel Slalom,33,
+23,Georgiev Kristian,Male,21-12-2024,Davos,SUI,Bulgaria,World Cup,Parallel Slalom,32,26.00
+24,Georgiev Kristian,Male,21-12-2024,Davos,SUI,Bulgaria,Qualification,Parallel Slalom,32,
+25,Georgiev Kristian,Male,14-12-2024,Cortina d'Ampezzo,ITA,Bulgaria,World Cup,Parallel Giant Slalom,40,18.50
+26,Georgiev Kristian,Male,14-12-2024,Cortina d'Ampezzo,ITA,Bulgaria,Qualification,Parallel Giant Slalom,40,
+27,Georgiev Kristian,Male,12-12-2024,Carezza,ITA,Bulgaria,World Cup,Parallel Giant Slalom,31,28.00
+28,Georgiev Kristian,Male,12-12-2024,Carezza,ITA,Bulgaria,Qualification,Parallel Giant Slalom,31,
+29,Georgiev Kristian,Male,05-04-2024,Bansko,BUL,Bulgaria,National Championships,Parallel Slalom,1,260.00
+30,Georgiev Kristian,Male,04-04-2024,Bansko,BUL,Bulgaria,National Championships,Parallel Giant Slalom,1,260.00
+31,Georgiev Kristian,Male,24-03-2024,Lachtal,AUT,Bulgaria,FIS Junior World Championships,Parallel Slalom Team,26,
+32,Georgiev Kristian,Male,23-03-2024,Lachtal,AUT,Bulgaria,FIS Junior World Championships,Parallel Slalom,1,240.00
+33,Georgiev Kristian,Male,23-03-2024,Lachtal,AUT,Bulgaria,Qualification,Parallel Slalom,2,
+34,Georgiev Kristian,Male,22-03-2024,Lachtal,AUT,Bulgaria,Qualification,Parallel Giant Slalom,4,
+35,Georgiev Kristian,Male,22-03-2024,Lachtal,AUT,Bulgaria,FIS Junior World Championships,Parallel Giant Slalom,4,120.00
+36,Georgiev Kristian,Male,17-03-2024,St. Moritz,SUI,Bulgaria,European Cup,Parallel Slalom,DSQ,
+37,Georgiev Kristian,Male,16-03-2024,St. Moritz,SUI,Bulgaria,European Cup,Parallel Giant Slalom,30,11.52
+38,Georgiev Kristian,Male,24-01-2024,Pamporovo,BUL,Bulgaria,European Cup,Parallel Slalom,5,99.00
+39,Georgiev Kristian,Male,23-01-2024,Pamporovo,BUL,Bulgaria,European Cup,Parallel Slalom,8,70.40
+40,Georgiev Kristian,Male,21-01-2024,Pamporovo,BUL,Bulgaria,Qualification,Parallel Slalom,33,
+41,Georgiev Kristian,Male,21-01-2024,Pamporovo,BUL,Bulgaria,World Cup,Parallel Slalom,33,24.00
+42,Georgiev Kristian,Male,20-01-2024,Pamporovo,BUL,Bulgaria,World Cup,Parallel Slalom,47,16.40
+43,Georgiev Kristian,Male,20-01-2024,Pamporovo,BUL,Bulgaria,Qualification,Parallel Slalom,47,
+44,Georgiev Kristian,Male,16-12-2023,Cortina d'Ampezzo,ITA,Bulgaria,World Cup,Parallel Giant Slalom,49,15.80
+45,Georgiev Kristian,Male,16-12-2023,Cortina d'Ampezzo,ITA,Bulgaria,Qualification,Parallel Giant Slalom,49,
+46,Georgiev Kristian,Male,28-03-2023,Bansko,BUL,Bulgaria,National Championships,Parallel Slalom,7,72.00
+47,Georgiev Kristian,Male,27-03-2023,Bansko,BUL,Bulgaria,National Championships,Parallel Giant Slalom,3,120.00
+48,Georgiev Kristian,Male,25-03-2023,Bansko,BUL,Bulgaria,Qualification,Parallel Slalom,5,
+49,Georgiev Kristian,Male,25-03-2023,Bansko,BUL,Bulgaria,FIS Junior World Championships,Parallel Slalom,4,120.00
+50,Georgiev Kristian,Male,24-03-2023,Bansko,BUL,Bulgaria,Qualification,Parallel Giant Slalom,7,
+51,Georgiev Kristian,Male,24-03-2023,Bansko,BUL,Bulgaria,FIS Junior World Championships,Parallel Giant Slalom,9,69.60
+52,Georgiev Kristian,Male,15-03-2023,Rogla,SLO,Bulgaria,Qualification,Parallel Giant Slalom,43,
+53,Georgiev Kristian,Male,15-03-2023,Rogla,SLO,Bulgaria,World Cup,Parallel Giant Slalom,43,17.60
+54,Georgiev Kristian,Male,09-02-2023,Pamporovo,BUL,Bulgaria,FIS,Parallel Slalom,3,96.00
+55,Georgiev Kristian,Male,08-02-2023,Pamporovo,BUL,Bulgaria,FIS,Parallel Slalom,3,96.00
+56,Georgiev Kristian,Male,22-01-2023,Bansko,BUL,Bulgaria,World Cup,Parallel Slalom,38,19.10
+57,Georgiev Kristian,Male,22-01-2023,Bansko,BUL,Bulgaria,Qualification,Parallel Slalom,38,
+58,Georgiev Kristian,Male,21-01-2023,Bansko,BUL,Bulgaria,World Cup,Parallel Slalom,DSQ,
+59,Georgiev Kristian,Male,21-01-2023,Bansko,BUL,Bulgaria,Qualification,Parallel Slalom,DSQ,
+60,Georgiev Kristian,Male,06-04-2022,Borovets,BUL,Bulgaria,National Championships,Parallel Slalom,3,120.00
+61,Georgiev Kristian,Male,05-04-2022,Borovets,BUL,Bulgaria,National Championships,Parallel Giant Slalom,8,64.00
+62,Georgiev Kristian,Male,01-04-2022,Chiesa in Valmalenco,ITA,Bulgaria,FIS Junior World Championships,Parallel Slalom,5,108.00
+63,Georgiev Kristian,Male,31-03-2022,Chiesa in Valmalenco,ITA,Bulgaria,FIS Junior World Championships,Parallel Giant Slalom,31,6.72
+64,Georgiev Kristian,Male,17-03-2022,Rogla,SLO,Bulgaria,European Cup,Parallel Giant Slalom,27,14.40
+65,Georgiev Kristian,Male,10-03-2022,Pamporovo,BUL,Bulgaria,FIS,Parallel Slalom,4,55.00
+66,Georgiev Kristian,Male,09-03-2022,Pamporovo,BUL,Bulgaria,FIS,Parallel Slalom,1,110.00
+67,Georgiev Kristian,Male,20-02-2022,Bansko,BUL,Bulgaria,FIS,Parallel Slalom,4,90.00
+68,Georgiev Kristian,Male,19-02-2022,Bansko,BUL,Bulgaria,FIS,Parallel Giant Slalom,6,72.00
+69,Georgiev Kristian,Male,30-03-2021,Bansko,BUL,Bulgaria,National Championships,Parallel Slalom,7,64.80
+70,Georgiev Kristian,Male,29-03-2021,Bansko,BUL,Bulgaria,National Championships,Parallel Giant Slalom,9,52.20
+71,Georgiev Kristian,Male,26-03-2021,Krasnoyarsk ,RUS,Bulgaria,FIS Junior World Championships,Parallel Slalom,25,15.60
+72,Georgiev Kristian,Male,25-03-2021,Krasnoyarsk ,RUS,Bulgaria,Qualification,Parallel Giant Slalom,30,
+73,Georgiev Kristian,Male,25-03-2021,Krasnoyarsk ,RUS,Bulgaria,FIS Junior World Championships,Parallel Giant Slalom,30,8.32
+74,Georgiev Kristian,Male,21-02-2021,Gerlitzen,AUT,Bulgaria,National Championships,Parallel Slalom,43,5.10
+75,Georgiev Kristian,Male,20-02-2021,Gerlitzen,AUT,Bulgaria,National Championships,Parallel Giant Slalom,54,4.15
+76,Georgiev Kristian,Male,07-02-2021,Gosau,AUT,Bulgaria,FIS,Parallel Slalom,16,10.50
+77,Georgiev Kristian,Male,06-02-2021,Gosau,AUT,Bulgaria,FIS,Parallel Slalom,DSQ,
+78,Georgiev Kristian,Male,23-01-2021,Haus im Ennstal,AUT,Bulgaria,Junior,Parallel Slalom,10,13.00
+79,Georgiev Kristian,Male,22-01-2021,Haus im Ennstal,AUT,Bulgaria,Junior,Parallel Slalom,10,13.00
+80,Georgiev Kristian,Male,26-01-2020,Gosau,AUT,Bulgaria,FIS,Parallel Slalom,24,12.60
+81,Georgiev Kristian,Male,25-01-2020,Gosau,AUT,Bulgaria,FIS,Parallel Slalom,26,9.00
+82,Georgiev Kristian,Male,21-12-2019,Haus im Ennstal,AUT,Bulgaria,Junior,Parallel Giant Slalom,9,26.10
+83,Georgiev Kristian,Male,20-12-2019,Haus im Ennstal,AUT,Bulgaria,Junior,Parallel Giant Slalom,9,26.10

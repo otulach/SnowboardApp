@@ -1,68 +1,69 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Kaspar Daniel,Male,24-02-2024,Vitkovice v Krkonosich,CZE,Czechia,FIS,Slopestyle,5,23.80
-1,Kaspar Daniel,Male,18-02-2023,Vitkovice v Krkonosich,CZE,Czechia,FIS,Slopestyle,5,21.60
-2,Kaspar Daniel,Male,05-03-2022,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,14,18.00
-3,Kaspar Daniel,Male,06-02-2022,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,31,3.36
-4,Kaspar Daniel,Male,05-02-2022,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,33,3.36
-5,Kaspar Daniel,Male,17-03-2019,Pec pod Snezkou,CZE,Czechia,National Championships,Slopestyle,18,6.50
-6,Kaspar Daniel,Male,16-03-2019,Pec pod Snezkou,CZE,Czechia,European Cup,Slopestyle,23,12.80
-7,Kaspar Daniel,Male,02-03-2019,Baqueira Beret,ESP,Czechia,World Cup,Snowboard Cross,56,
-8,Kaspar Daniel,Male,01-03-2019,Baqueira Beret,ESP,Czechia,Qualification,Snowboard Cross,56,
-9,Kaspar Daniel,Male,24-02-2019,Bozi Dar,CZE,Czechia,FIS,Snowboard Cross,7,39.60
-10,Kaspar Daniel,Male,07-02-2019,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,33,3.84
-11,Kaspar Daniel,Male,06-02-2019,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,2,128.00
-12,Kaspar Daniel,Male,29-01-2019,Val Thorens,FRA,Czechia,European Cup,Snowboard Cross,29,11.52
-13,Kaspar Daniel,Male,20-01-2019,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,41,6.55
-14,Kaspar Daniel,Male,19-01-2019,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,22,32.40
-15,Kaspar Daniel,Male,13-01-2019,Puy St. Vincent,FRA,Czechia,European Cup,Snowboard Cross,38,6.11
-16,Kaspar Daniel,Male,12-01-2019,Puy St. Vincent,FRA,Czechia,European Cup,Snowboard Cross,35,6.40
-17,Kaspar Daniel,Male,27-08-2018,Cardrona,NZL,Czechia,FIS Junior World Championships,Snowboard Cross,21,24.00
-18,Kaspar Daniel,Male,21-03-2018,Veysonnaz,SUI,Czechia,European Cup,Snowboard Cross,14,46.80
-19,Kaspar Daniel,Male,20-03-2018,Veysonnaz,SUI,Czechia,European Cup,Snowboard Cross,29,9.36
-20,Kaspar Daniel,Male,10-03-2018,Lenk,SUI,Czechia,European Cup,Snowboard Cross,25,15.60
-21,Kaspar Daniel,Male,09-03-2018,Lenk,SUI,Czechia,European Cup,Snowboard Cross,36,5.12
-22,Kaspar Daniel,Male,04-03-2018,Gargellen,AUT,Czechia,FIS,Snowboard Cross,17,19.60
-23,Kaspar Daniel,Male,25-02-2018,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,1,50.00
-24,Kaspar Daniel,Male,24-02-2018,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,3,60.00
-25,Kaspar Daniel,Male,11-02-2018,Pec pod Snezkou,CZE,Czechia,Junior,Snowboard Cross,8,16.00
-26,Kaspar Daniel,Male,28-01-2018,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,49,3.48
-27,Kaspar Daniel,Male,27-01-2018,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,42,3.94
-28,Kaspar Daniel,Male,21-01-2018,Grasgehren,GER,Czechia,Junior,Snowboard Cross,17,16.80
-29,Kaspar Daniel,Male,20-01-2018,Grasgehren,GER,Czechia,Junior,Snowboard Cross,17,16.80
-30,Kaspar Daniel,Male,03-12-2017,Pitztal,AUT,Czechia,Junior,Snowboard Cross,13,32.00
-31,Kaspar Daniel,Male,02-12-2017,Pitztal,AUT,Czechia,Junior,Snowboard Cross,25,9.00
-32,Kaspar Daniel,Male,30-11-2017,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,65,3.96
-33,Kaspar Daniel,Male,29-11-2017,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,32,9.36
-34,Kaspar Daniel,Male,25-03-2017,Spindleruv Mlyn,CZE,Czechia,World Cup,Slopestyle,46,16.70
-35,Kaspar Daniel,Male,24-03-2017,Spindleruv Mlyn,CZE,Czechia,Qualification,Slopestyle,26,
-36,Kaspar Daniel,Male,26-02-2017,Bozi Dar,CZE,Czechia,FIS,Snowboardcross,6,28.00
-37,Kaspar Daniel,Male,25-02-2017,Bozi Dar,CZE,Czechia,FIS,Snowboardcross,4,35.00
-38,Kaspar Daniel,Male,18-02-2017,Klinovec,CZE,Czechia,FIS Junior World Championships,Snowboardcross,24,16.80
-39,Kaspar Daniel,Male,29-01-2017,Grasgehren,GER,Czechia,European Cup,Snowboardcross,33,5.28
-40,Kaspar Daniel,Male,28-01-2017,Grasgehren,GER,Czechia,European Cup,Snowboardcross,49,5.69
-41,Kaspar Daniel,Male,22-01-2017,Grasgehren,GER,Czechia,Junior,Snowboardcross,14,32.40
-42,Kaspar Daniel,Male,21-01-2017,Grasgehren,GER,Czechia,Junior,Snowboardcross,29,6.48
-43,Kaspar Daniel,Male,15-01-2017,Dolni Morava,CZE,Czechia,FIS,Snowboardcross,12,26.40
-44,Kaspar Daniel,Male,14-01-2017,Dolni Morava,CZE,Czechia,FIS,Snowboardcross,14,25.20
-45,Kaspar Daniel,Male,16-12-2016,Val Thorens,FRA,Czechia,European Cup,Snowboardcross,16,30.00
-46,Kaspar Daniel,Male,15-12-2016,Val Thorens,FRA,Czechia,European Cup,Snowboardcross,31,5.60
-47,Kaspar Daniel,Male,04-12-2016,Pitzal,AUT,Czechia,Junior,Snowboardcross,33,4.80
-48,Kaspar Daniel,Male,03-12-2016,Pitzal,AUT,Czechia,Junior,Snowboardcross,24,14.00
-49,Kaspar Daniel,Male,01-12-2016,Pitztal,AUT,Czechia,European Cup,Snowboardcross,65,3.96
-50,Kaspar Daniel,Male,30-11-2016,Pitztal,AUT,Czechia,European Cup,Snowboardcross,106,
-51,Kaspar Daniel,Male,27-11-2016,Kaunertal,AUT,Czechia,FIS,Big Air,22,12.60
-52,Kaspar Daniel,Male,26-11-2016,Kaunertal,AUT,Czechia,European Cup,Slopestyle,49,
-53,Kaspar Daniel,Male,30-03-2016,Seiser Alm,ITA,Czechia,FIS Junior World Championships,Big Air,23,28.80
-54,Kaspar Daniel,Male,29-03-2016,Seiser Alm,ITA,Czechia,FIS Junior World Championships,Slopestyle,42,6.44
-55,Kaspar Daniel,Male,09-03-2016,Kopaonik,SRB,Czechia,European Cup,Big Air,33,
-56,Kaspar Daniel,Male,08-03-2016,Kopaonik,SRB,Czechia,European Cup,Slopestyle,11,48.00
-57,Kaspar Daniel,Male,14-02-2016,Oslo,NOR,Czechia,Youth Olympic Winter Games,Halfpipe,14,36.00
-58,Kaspar Daniel,Male,06-02-2016,Grindelwald,SUI,Czechia,FIS,Halfpipe,10,13.00
-59,Kaspar Daniel,Male,16-01-2016,Davos,SUI,Czechia,European Cup,Big Air,21,20.00
-60,Kaspar Daniel,Male,05-11-2015,Landgraaf,NED,Czechia,European Cup,Slopestyle,73,2.24
-61,Kaspar Daniel,Male,04-11-2015,Landgraaf,NED,Czechia,European Cup,Slopestyle,85,1.30
-62,Kaspar Daniel,Male,15-03-2015,Yabuli,CHN,Czechia,FIS Junior World Championships,Halfpipe,29,12.96
-63,Kaspar Daniel,Male,10-03-2015,Yabuli,CHN,Czechia,FIS Junior World Championships,Slopestyle,56,0.00
-64,Kaspar Daniel,Male,30-03-2014,Chiesa in Valmalenco,ITA,Czechia,FIS Junior World Championships,Slopestyle,45,6.12
-65,Kaspar Daniel,Male,26-03-2014,Chiesa in Valmalenco,ITA,Czechia,FIS Junior World Championships,Halfpipe,40,0.00
-66,Kaspar Daniel,Male,15-03-2014,Innsbruck / Kuehtai,AUT,Czechia,National Championships,Halfpipe,10,13.00
+0,Kaspar Daniel,Male,15-03-2025,"Klinovec, Bozi Dar",CZE,Czechia,FIS,Snowboard Cross,4,25.00
+1,Kaspar Daniel,Male,24-02-2024,Vitkovice v Krkonosich,CZE,Czechia,FIS,Slopestyle,5,23.80
+2,Kaspar Daniel,Male,18-02-2023,Vitkovice v Krkonosich,CZE,Czechia,FIS,Slopestyle,5,21.60
+3,Kaspar Daniel,Male,05-03-2022,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,14,18.00
+4,Kaspar Daniel,Male,06-02-2022,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,31,3.36
+5,Kaspar Daniel,Male,05-02-2022,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,33,3.36
+6,Kaspar Daniel,Male,17-03-2019,Pec pod Snezkou,CZE,Czechia,National Championships,Slopestyle,18,6.50
+7,Kaspar Daniel,Male,16-03-2019,Pec pod Snezkou,CZE,Czechia,European Cup,Slopestyle,23,12.80
+8,Kaspar Daniel,Male,02-03-2019,Baqueira Beret,ESP,Czechia,World Cup,Snowboard Cross,56,
+9,Kaspar Daniel,Male,01-03-2019,Baqueira Beret,ESP,Czechia,Qualification,Snowboard Cross,56,
+10,Kaspar Daniel,Male,24-02-2019,Bozi Dar,CZE,Czechia,FIS,Snowboard Cross,7,39.60
+11,Kaspar Daniel,Male,07-02-2019,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,33,3.84
+12,Kaspar Daniel,Male,06-02-2019,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,2,128.00
+13,Kaspar Daniel,Male,29-01-2019,Val Thorens,FRA,Czechia,European Cup,Snowboard Cross,29,11.52
+14,Kaspar Daniel,Male,20-01-2019,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,41,6.55
+15,Kaspar Daniel,Male,19-01-2019,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,22,32.40
+16,Kaspar Daniel,Male,13-01-2019,Puy St. Vincent,FRA,Czechia,European Cup,Snowboard Cross,38,6.11
+17,Kaspar Daniel,Male,12-01-2019,Puy St. Vincent,FRA,Czechia,European Cup,Snowboard Cross,35,6.40
+18,Kaspar Daniel,Male,27-08-2018,Cardrona,NZL,Czechia,FIS Junior World Championships,Snowboard Cross,21,24.00
+19,Kaspar Daniel,Male,21-03-2018,Veysonnaz,SUI,Czechia,European Cup,Snowboard Cross,14,46.80
+20,Kaspar Daniel,Male,20-03-2018,Veysonnaz,SUI,Czechia,European Cup,Snowboard Cross,29,9.36
+21,Kaspar Daniel,Male,10-03-2018,Lenk,SUI,Czechia,European Cup,Snowboard Cross,25,15.60
+22,Kaspar Daniel,Male,09-03-2018,Lenk,SUI,Czechia,European Cup,Snowboard Cross,36,5.12
+23,Kaspar Daniel,Male,04-03-2018,Gargellen,AUT,Czechia,FIS,Snowboard Cross,17,19.60
+24,Kaspar Daniel,Male,25-02-2018,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,1,50.00
+25,Kaspar Daniel,Male,24-02-2018,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,3,60.00
+26,Kaspar Daniel,Male,11-02-2018,Pec pod Snezkou,CZE,Czechia,Junior,Snowboard Cross,8,16.00
+27,Kaspar Daniel,Male,28-01-2018,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,49,3.48
+28,Kaspar Daniel,Male,27-01-2018,Grasgehren,GER,Czechia,European Cup,Snowboard Cross,42,3.94
+29,Kaspar Daniel,Male,21-01-2018,Grasgehren,GER,Czechia,Junior,Snowboard Cross,17,16.80
+30,Kaspar Daniel,Male,20-01-2018,Grasgehren,GER,Czechia,Junior,Snowboard Cross,17,16.80
+31,Kaspar Daniel,Male,03-12-2017,Pitztal,AUT,Czechia,Junior,Snowboard Cross,13,32.00
+32,Kaspar Daniel,Male,02-12-2017,Pitztal,AUT,Czechia,Junior,Snowboard Cross,25,9.00
+33,Kaspar Daniel,Male,30-11-2017,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,65,3.96
+34,Kaspar Daniel,Male,29-11-2017,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,32,9.36
+35,Kaspar Daniel,Male,25-03-2017,Spindleruv Mlyn,CZE,Czechia,World Cup,Slopestyle,46,16.70
+36,Kaspar Daniel,Male,24-03-2017,Spindleruv Mlyn,CZE,Czechia,Qualification,Slopestyle,26,
+37,Kaspar Daniel,Male,26-02-2017,Bozi Dar,CZE,Czechia,FIS,Snowboardcross,6,28.00
+38,Kaspar Daniel,Male,25-02-2017,Bozi Dar,CZE,Czechia,FIS,Snowboardcross,4,35.00
+39,Kaspar Daniel,Male,18-02-2017,Klinovec,CZE,Czechia,FIS Junior World Championships,Snowboardcross,24,16.80
+40,Kaspar Daniel,Male,29-01-2017,Grasgehren,GER,Czechia,European Cup,Snowboardcross,33,5.28
+41,Kaspar Daniel,Male,28-01-2017,Grasgehren,GER,Czechia,European Cup,Snowboardcross,49,5.69
+42,Kaspar Daniel,Male,22-01-2017,Grasgehren,GER,Czechia,Junior,Snowboardcross,14,32.40
+43,Kaspar Daniel,Male,21-01-2017,Grasgehren,GER,Czechia,Junior,Snowboardcross,29,6.48
+44,Kaspar Daniel,Male,15-01-2017,Dolni Morava,CZE,Czechia,FIS,Snowboardcross,12,26.40
+45,Kaspar Daniel,Male,14-01-2017,Dolni Morava,CZE,Czechia,FIS,Snowboardcross,14,25.20
+46,Kaspar Daniel,Male,16-12-2016,Val Thorens,FRA,Czechia,European Cup,Snowboardcross,16,30.00
+47,Kaspar Daniel,Male,15-12-2016,Val Thorens,FRA,Czechia,European Cup,Snowboardcross,31,5.60
+48,Kaspar Daniel,Male,04-12-2016,Pitzal,AUT,Czechia,Junior,Snowboardcross,33,4.80
+49,Kaspar Daniel,Male,03-12-2016,Pitzal,AUT,Czechia,Junior,Snowboardcross,24,14.00
+50,Kaspar Daniel,Male,01-12-2016,Pitztal,AUT,Czechia,European Cup,Snowboardcross,65,3.96
+51,Kaspar Daniel,Male,30-11-2016,Pitztal,AUT,Czechia,European Cup,Snowboardcross,106,
+52,Kaspar Daniel,Male,27-11-2016,Kaunertal,AUT,Czechia,FIS,Big Air,22,12.60
+53,Kaspar Daniel,Male,26-11-2016,Kaunertal,AUT,Czechia,European Cup,Slopestyle,49,
+54,Kaspar Daniel,Male,30-03-2016,Seiser Alm,ITA,Czechia,FIS Junior World Championships,Big Air,23,28.80
+55,Kaspar Daniel,Male,29-03-2016,Seiser Alm,ITA,Czechia,FIS Junior World Championships,Slopestyle,42,6.44
+56,Kaspar Daniel,Male,09-03-2016,Kopaonik,SRB,Czechia,European Cup,Big Air,33,
+57,Kaspar Daniel,Male,08-03-2016,Kopaonik,SRB,Czechia,European Cup,Slopestyle,11,48.00
+58,Kaspar Daniel,Male,14-02-2016,Oslo,NOR,Czechia,Youth Olympic Winter Games,Halfpipe,14,36.00
+59,Kaspar Daniel,Male,06-02-2016,Grindelwald,SUI,Czechia,FIS,Halfpipe,10,13.00
+60,Kaspar Daniel,Male,16-01-2016,Davos,SUI,Czechia,European Cup,Big Air,21,20.00
+61,Kaspar Daniel,Male,05-11-2015,Landgraaf,NED,Czechia,European Cup,Slopestyle,73,2.24
+62,Kaspar Daniel,Male,04-11-2015,Landgraaf,NED,Czechia,European Cup,Slopestyle,85,1.30
+63,Kaspar Daniel,Male,15-03-2015,Yabuli,CHN,Czechia,FIS Junior World Championships,Halfpipe,29,12.96
+64,Kaspar Daniel,Male,10-03-2015,Yabuli,CHN,Czechia,FIS Junior World Championships,Slopestyle,56,0.00
+65,Kaspar Daniel,Male,30-03-2014,Chiesa in Valmalenco,ITA,Czechia,FIS Junior World Championships,Slopestyle,45,6.12
+66,Kaspar Daniel,Male,26-03-2014,Chiesa in Valmalenco,ITA,Czechia,FIS Junior World Championships,Halfpipe,40,0.00
+67,Kaspar Daniel,Male,15-03-2014,Innsbruck / Kuehtai,AUT,Czechia,National Championships,Halfpipe,10,13.00

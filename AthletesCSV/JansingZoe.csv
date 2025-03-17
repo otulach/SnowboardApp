@@ -1,60 +1,64 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Jansing Zoe,Female,09-03-2025,Montafon/Gargellen,AUT,Germany,European Cup,Parallel Slalom,15,57.60
-1,Jansing Zoe,Female,08-03-2025,Montafon/Gargellen,AUT,Germany,European Cup,Parallel Giant Slalom,3,216.00
-2,Jansing Zoe,Female,05-03-2025,Zakopane/Suche,POL,Germany,FIS Junior World Championships,Parallel Slalom,8,92.80
-3,Jansing Zoe,Female,05-03-2025,Zakopane/Suche,POL,Germany,Qualification,Parallel Slalom,10,
-4,Jansing Zoe,Female,04-03-2025,Zakopane/Suche,POL,Germany,FIS Junior World Championships,Parallel Giant Slalom,8,92.80
-5,Jansing Zoe,Female,04-03-2025,Zakopane/Suche,POL,Germany,Qualification,Parallel Giant Slalom,9,
-6,Jansing Zoe,Female,16-02-2025,Funes/Villnoess,ITA,Germany,Junior Regional Cup,Parallel Giant Slalom,2,144.00
-7,Jansing Zoe,Female,15-02-2025,Funes/Villnoess,ITA,Germany,Junior Regional Cup,Parallel Giant Slalom,7,64.80
-8,Jansing Zoe,Female,08-02-2025,Simonhoehe,AUT,Germany,National Championships,Parallel Giant Slalom,36,
-9,Jansing Zoe,Female,02-02-2025,Ratschings,ITA,Germany,European Cup,Parallel Slalom,5,144.00
-10,Jansing Zoe,Female,02-02-2025,Ratschings,ITA,Germany,Qualification,Parallel Slalom,5,
-11,Jansing Zoe,Female,01-02-2025,Ratschings,ITA,Germany,Qualification,Parallel Slalom,19,
-12,Jansing Zoe,Female,01-02-2025,Ratschings,ITA,Germany,European Cup,Parallel Slalom,19,43.20
-13,Jansing Zoe,Female,26-01-2025,Simonhöhe,AUT,Germany,European Cup,Parallel Giant Slalom,31,10.08
-14,Jansing Zoe,Female,25-01-2025,Simonhöhe,AUT,Germany,European Cup,Parallel Giant Slalom,3,144.00
-15,Jansing Zoe,Female,22-01-2025,Bansko,BUL,Germany,European Cup,Parallel Giant Slalom,10,93.60
-16,Jansing Zoe,Female,21-01-2025,Bansko,BUL,Germany,European Cup,Parallel Giant Slalom,15,57.60
-17,Jansing Zoe,Female,19-01-2025,Bansko,BUL,Germany,Qualification,Parallel Giant Slalom,DNF,
-18,Jansing Zoe,Female,19-01-2025,Bansko,BUL,Germany,World Cup,Parallel Giant Slalom,DNF,
-19,Jansing Zoe,Female,18-01-2025,Bansko,BUL,Germany,Qualification,Parallel Giant Slalom,44,
-20,Jansing Zoe,Female,18-01-2025,Bansko,BUL,Germany,World Cup,Parallel Giant Slalom,44,17.30
-21,Jansing Zoe,Female,14-01-2025,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,48,
-22,Jansing Zoe,Female,14-01-2025,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,48,
-23,Jansing Zoe,Female,11-01-2025,Folgaria,ITA,Germany,European Cup,Parallel Giant Slalom,2,192.00
-24,Jansing Zoe,Female,11-01-2025,Folgaria,ITA,Germany,Qualification,Parallel Giant Slalom,1,
-25,Jansing Zoe,Female,10-01-2025,Folgaria,ITA,Germany,European Cup,Parallel Giant Slalom,9,69.60
-26,Jansing Zoe,Female,10-01-2025,Folgaria,ITA,Germany,Qualification,Parallel Giant Slalom,2,
-27,Jansing Zoe,Female,06-01-2025,Simonhoehe,AUT,Germany,Junior Regional Cup,Parallel Giant Slalom,3,84.00
-28,Jansing Zoe,Female,05-01-2025,Simonhoehe,AUT,Germany,Junior Regional Cup,Parallel Giant Slalom,5,63.00
-29,Jansing Zoe,Female,20-12-2024,Moninec,CZE,Germany,European Cup,Parallel Slalom,2,192.00
-30,Jansing Zoe,Female,19-12-2024,Moninec,CZE,Germany,European Cup,Parallel Slalom,8,76.80
-31,Jansing Zoe,Female,15-12-2024,Götschen,GER,Germany,European Cup,Parallel Slalom,32,6.24
-32,Jansing Zoe,Female,14-12-2024,Götschen,GER,Germany,European Cup,Parallel Slalom,9,63.80
-33,Jansing Zoe,Female,23-03-2024,Lachtal,AUT,Germany,FIS Junior World Championships,Parallel Slalom,14,43.20
-34,Jansing Zoe,Female,23-03-2024,Lachtal,AUT,Germany,Qualification,Parallel Slalom,14,
-35,Jansing Zoe,Female,22-03-2024,Lachtal,AUT,Germany,Qualification,Parallel Giant Slalom,22,
-36,Jansing Zoe,Female,22-03-2024,Lachtal,AUT,Germany,FIS Junior World Championships,Parallel Giant Slalom,22,21.60
-37,Jansing Zoe,Female,10-03-2024,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,22,21.60
-38,Jansing Zoe,Female,09-03-2024,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,21,24.00
-39,Jansing Zoe,Female,09-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Slalom,9,84.10
-40,Jansing Zoe,Female,08-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Giant Slalom,30,9.28
-41,Jansing Zoe,Female,04-02-2024,Haus im Ennstal,AUT,Germany,Junior,Parallel Giant Slalom,2,112.00
-42,Jansing Zoe,Female,03-02-2024,Haus im Ennstal,AUT,Germany,Junior,Parallel Giant Slalom,3,84.00
-43,Jansing Zoe,Female,28-01-2024,Nova Levante - Welschnofen,ITA,Germany,FIS,Parallel Giant Slalom,9,52.20
-44,Jansing Zoe,Female,27-01-2024,Nova Levante - Welschnofen,ITA,Germany,FIS,Parallel Giant Slalom,15,28.80
-45,Jansing Zoe,Female,12-01-2024,Folgaria,ITA,Germany,European Cup,Parallel Slalom,20,26.40
-46,Jansing Zoe,Female,12-01-2024,Folgaria,ITA,Germany,Qualification,Parallel Slalom,20,
-47,Jansing Zoe,Female,11-01-2024,Folgaria,ITA,Germany,European Cup,Parallel Slalom,28,
-48,Jansing Zoe,Female,11-01-2024,Folgaria,ITA,Germany,Qualification,Parallel Slalom,28,
-49,Jansing Zoe,Female,05-01-2024,Simonhöhe,AUT,Germany,Junior,Parallel Giant Slalom,5,63.00
-50,Jansing Zoe,Female,22-12-2023,Moninec,CZE,Germany,FIS,Parallel Slalom,22,18.00
-51,Jansing Zoe,Female,21-12-2023,Moninec,CZE,Germany,FIS,Parallel Slalom,DSQ,
-52,Jansing Zoe,Female,20-12-2023,Moninec,CZE,Germany,European Cup,Parallel Slalom,24,18.20
-53,Jansing Zoe,Female,19-12-2023,Moninec,CZE,Germany,European Cup,Parallel Slalom,33,6.24
-54,Jansing Zoe,Female,10-12-2023,Götschen,GER,Germany,Junior,Parallel Slalom,13,32.00
-55,Jansing Zoe,Female,09-12-2023,Götschen,GER,Germany,European Cup,Parallel Slalom,32,9.36
-56,Jansing Zoe,Female,09-12-2023,Götschen,GER,Germany,Qualification,Parallel Slalom,32,
-57,Jansing Zoe,Female,08-12-2023,Götschen,GER,Germany,European Cup,Parallel Slalom,8,115.20
-58,Jansing Zoe,Female,08-12-2023,Götschen,GER,Germany,Qualification,Parallel Slalom,8,
+0,Jansing Zoe,Female,16-03-2025,Davos,SUI,Germany,European Cup,Parallel Slalom,5,
+1,Jansing Zoe,Female,16-03-2025,Davos,SUI,Germany,Qualification,Parallel Slalom,1,
+2,Jansing Zoe,Female,15-03-2025,Davos,SUI,Germany,European Cup,Parallel Slalom,4,
+3,Jansing Zoe,Female,15-03-2025,Davos,SUI,Germany,Qualification,Parallel Slalom,4,
+4,Jansing Zoe,Female,09-03-2025,Montafon/Gargellen,AUT,Germany,European Cup,Parallel Slalom,15,57.60
+5,Jansing Zoe,Female,08-03-2025,Montafon/Gargellen,AUT,Germany,European Cup,Parallel Giant Slalom,3,216.00
+6,Jansing Zoe,Female,05-03-2025,Zakopane/Suche,POL,Germany,FIS Junior World Championships,Parallel Slalom,8,92.80
+7,Jansing Zoe,Female,05-03-2025,Zakopane/Suche,POL,Germany,Qualification,Parallel Slalom,10,
+8,Jansing Zoe,Female,04-03-2025,Zakopane/Suche,POL,Germany,FIS Junior World Championships,Parallel Giant Slalom,8,92.80
+9,Jansing Zoe,Female,04-03-2025,Zakopane/Suche,POL,Germany,Qualification,Parallel Giant Slalom,9,
+10,Jansing Zoe,Female,16-02-2025,Funes/Villnoess,ITA,Germany,Junior Regional Cup,Parallel Giant Slalom,2,144.00
+11,Jansing Zoe,Female,15-02-2025,Funes/Villnoess,ITA,Germany,Junior Regional Cup,Parallel Giant Slalom,7,64.80
+12,Jansing Zoe,Female,08-02-2025,Simonhoehe,AUT,Germany,National Championships,Parallel Giant Slalom,36,
+13,Jansing Zoe,Female,02-02-2025,Ratschings,ITA,Germany,Qualification,Parallel Slalom,5,
+14,Jansing Zoe,Female,02-02-2025,Ratschings,ITA,Germany,European Cup,Parallel Slalom,5,144.00
+15,Jansing Zoe,Female,01-02-2025,Ratschings,ITA,Germany,Qualification,Parallel Slalom,19,
+16,Jansing Zoe,Female,01-02-2025,Ratschings,ITA,Germany,European Cup,Parallel Slalom,19,43.20
+17,Jansing Zoe,Female,26-01-2025,Simonhöhe,AUT,Germany,European Cup,Parallel Giant Slalom,31,10.08
+18,Jansing Zoe,Female,25-01-2025,Simonhöhe,AUT,Germany,European Cup,Parallel Giant Slalom,3,144.00
+19,Jansing Zoe,Female,22-01-2025,Bansko,BUL,Germany,European Cup,Parallel Giant Slalom,10,93.60
+20,Jansing Zoe,Female,21-01-2025,Bansko,BUL,Germany,European Cup,Parallel Giant Slalom,15,57.60
+21,Jansing Zoe,Female,19-01-2025,Bansko,BUL,Germany,World Cup,Parallel Giant Slalom,DNF,
+22,Jansing Zoe,Female,19-01-2025,Bansko,BUL,Germany,Qualification,Parallel Giant Slalom,DNF,
+23,Jansing Zoe,Female,18-01-2025,Bansko,BUL,Germany,Qualification,Parallel Giant Slalom,44,
+24,Jansing Zoe,Female,18-01-2025,Bansko,BUL,Germany,World Cup,Parallel Giant Slalom,44,17.30
+25,Jansing Zoe,Female,14-01-2025,Bad Gastein,AUT,Germany,Qualification,Parallel Slalom,48,
+26,Jansing Zoe,Female,14-01-2025,Bad Gastein,AUT,Germany,World Cup,Parallel Slalom,48,
+27,Jansing Zoe,Female,11-01-2025,Folgaria,ITA,Germany,European Cup,Parallel Giant Slalom,2,192.00
+28,Jansing Zoe,Female,11-01-2025,Folgaria,ITA,Germany,Qualification,Parallel Giant Slalom,1,
+29,Jansing Zoe,Female,10-01-2025,Folgaria,ITA,Germany,European Cup,Parallel Giant Slalom,9,69.60
+30,Jansing Zoe,Female,10-01-2025,Folgaria,ITA,Germany,Qualification,Parallel Giant Slalom,2,
+31,Jansing Zoe,Female,06-01-2025,Simonhoehe,AUT,Germany,Junior Regional Cup,Parallel Giant Slalom,3,84.00
+32,Jansing Zoe,Female,05-01-2025,Simonhoehe,AUT,Germany,Junior Regional Cup,Parallel Giant Slalom,5,63.00
+33,Jansing Zoe,Female,20-12-2024,Moninec,CZE,Germany,European Cup,Parallel Slalom,2,192.00
+34,Jansing Zoe,Female,19-12-2024,Moninec,CZE,Germany,European Cup,Parallel Slalom,8,76.80
+35,Jansing Zoe,Female,15-12-2024,Götschen,GER,Germany,European Cup,Parallel Slalom,32,6.24
+36,Jansing Zoe,Female,14-12-2024,Götschen,GER,Germany,European Cup,Parallel Slalom,9,63.80
+37,Jansing Zoe,Female,23-03-2024,Lachtal,AUT,Germany,Qualification,Parallel Slalom,14,
+38,Jansing Zoe,Female,23-03-2024,Lachtal,AUT,Germany,FIS Junior World Championships,Parallel Slalom,14,43.20
+39,Jansing Zoe,Female,22-03-2024,Lachtal,AUT,Germany,Qualification,Parallel Giant Slalom,22,
+40,Jansing Zoe,Female,22-03-2024,Lachtal,AUT,Germany,FIS Junior World Championships,Parallel Giant Slalom,22,21.60
+41,Jansing Zoe,Female,10-03-2024,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,22,21.60
+42,Jansing Zoe,Female,09-03-2024,Lenzerheide,SUI,Germany,European Cup,Parallel Slalom,21,24.00
+43,Jansing Zoe,Female,09-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Slalom,9,84.10
+44,Jansing Zoe,Female,08-02-2024,Funes - Vilnoess,ITA,Germany,National Championships,Parallel Giant Slalom,30,9.28
+45,Jansing Zoe,Female,04-02-2024,Haus im Ennstal,AUT,Germany,Junior,Parallel Giant Slalom,2,112.00
+46,Jansing Zoe,Female,03-02-2024,Haus im Ennstal,AUT,Germany,Junior,Parallel Giant Slalom,3,84.00
+47,Jansing Zoe,Female,28-01-2024,Nova Levante - Welschnofen,ITA,Germany,FIS,Parallel Giant Slalom,9,52.20
+48,Jansing Zoe,Female,27-01-2024,Nova Levante - Welschnofen,ITA,Germany,FIS,Parallel Giant Slalom,15,28.80
+49,Jansing Zoe,Female,12-01-2024,Folgaria,ITA,Germany,European Cup,Parallel Slalom,20,26.40
+50,Jansing Zoe,Female,12-01-2024,Folgaria,ITA,Germany,Qualification,Parallel Slalom,20,
+51,Jansing Zoe,Female,11-01-2024,Folgaria,ITA,Germany,European Cup,Parallel Slalom,28,
+52,Jansing Zoe,Female,11-01-2024,Folgaria,ITA,Germany,Qualification,Parallel Slalom,28,
+53,Jansing Zoe,Female,05-01-2024,Simonhöhe,AUT,Germany,Junior,Parallel Giant Slalom,5,63.00
+54,Jansing Zoe,Female,22-12-2023,Moninec,CZE,Germany,FIS,Parallel Slalom,22,18.00
+55,Jansing Zoe,Female,21-12-2023,Moninec,CZE,Germany,FIS,Parallel Slalom,DSQ,
+56,Jansing Zoe,Female,20-12-2023,Moninec,CZE,Germany,European Cup,Parallel Slalom,24,18.20
+57,Jansing Zoe,Female,19-12-2023,Moninec,CZE,Germany,European Cup,Parallel Slalom,33,6.24
+58,Jansing Zoe,Female,10-12-2023,Götschen,GER,Germany,Junior,Parallel Slalom,13,32.00
+59,Jansing Zoe,Female,09-12-2023,Götschen,GER,Germany,European Cup,Parallel Slalom,32,9.36
+60,Jansing Zoe,Female,09-12-2023,Götschen,GER,Germany,Qualification,Parallel Slalom,32,
+61,Jansing Zoe,Female,08-12-2023,Götschen,GER,Germany,European Cup,Parallel Slalom,8,115.20
+62,Jansing Zoe,Female,08-12-2023,Götschen,GER,Germany,Qualification,Parallel Slalom,8,

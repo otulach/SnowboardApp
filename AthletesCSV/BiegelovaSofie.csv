@@ -1,99 +1,103 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Biegelova Sofie,Female,05-03-2025,Zakopane/Suche,POL,Czechia,FIS Junior World Championships,Parallel Slalom,27,13.05
-1,Biegelova Sofie,Female,05-03-2025,Zakopane/Suche,POL,Czechia,Qualification,Parallel Slalom,27,
-2,Biegelova Sofie,Female,04-03-2025,Zakopane/Suche,POL,Czechia,FIS Junior World Championships,Parallel Giant Slalom,23,23.20
-3,Biegelova Sofie,Female,04-03-2025,Zakopane/Suche,POL,Czechia,Qualification,Parallel Giant Slalom,23,
-4,Biegelova Sofie,Female,02-03-2025,Spindleruv Mlyn - Stoh,CZE,Czechia,National Championships,Parallel Slalom,DSQ,
-5,Biegelova Sofie,Female,01-03-2025,Spindleruv Mlyn - Stoh,CZE,Czechia,National Championships,Parallel Giant Slalom,4,35.00
-6,Biegelova Sofie,Female,16-02-2025,Funes/Villnoess,ITA,Czechia,Junior Regional Cup,Parallel Giant Slalom,14,32.40
-7,Biegelova Sofie,Female,15-02-2025,Funes/Villnoess,ITA,Czechia,Junior Regional Cup,Parallel Giant Slalom,19,21.60
-8,Biegelova Sofie,Female,09-02-2025,Simonhoehe,AUT,Czechia,National Championships,Parallel Slalom,17,40.60
-9,Biegelova Sofie,Female,08-02-2025,Simonhoehe,AUT,Czechia,National Championships,Parallel Giant Slalom,23,23.20
-10,Biegelova Sofie,Female,02-02-2025,Ratschings,ITA,Czechia,Qualification,Parallel Slalom,29,
-11,Biegelova Sofie,Female,02-02-2025,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,29,
-12,Biegelova Sofie,Female,01-02-2025,Ratschings,ITA,Czechia,Qualification,Parallel Slalom,25,
-13,Biegelova Sofie,Female,01-02-2025,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,25,21.60
-14,Biegelova Sofie,Female,19-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,10,18.20
-15,Biegelova Sofie,Female,18-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,5,31.50
-16,Biegelova Sofie,Female,12-01-2025,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,16,21.00
-17,Biegelova Sofie,Female,11-01-2025,Folgaria,ITA,Czechia,Qualification,Parallel Giant Slalom,21,
-18,Biegelova Sofie,Female,11-01-2025,Folgaria,ITA,Czechia,European Cup,Parallel Giant Slalom,21,24.00
-19,Biegelova Sofie,Female,10-01-2025,Folgaria,ITA,Czechia,Qualification,Parallel Giant Slalom,23,
-20,Biegelova Sofie,Female,10-01-2025,Folgaria,ITA,Czechia,European Cup,Parallel Giant Slalom,23,19.20
-21,Biegelova Sofie,Female,22-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,DSQ,
-22,Biegelova Sofie,Female,21-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,20,17.60
-23,Biegelova Sofie,Female,20-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,32,6.24
-24,Biegelova Sofie,Female,15-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,43,4.22
-25,Biegelova Sofie,Female,14-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,37,4.27
-26,Biegelova Sofie,Female,23-03-2024,Lachtal,AUT,Czechia,Qualification,Parallel Slalom,32,
-27,Biegelova Sofie,Female,23-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Slalom,32,6.24
-28,Biegelova Sofie,Female,22-03-2024,Lachtal,AUT,Czechia,Qualification,Parallel Giant Slalom,31,
-29,Biegelova Sofie,Female,22-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Giant Slalom,31,6.72
-30,Biegelova Sofie,Female,17-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,5,40.50
-31,Biegelova Sofie,Female,16-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,2,144.00
-32,Biegelova Sofie,Female,10-03-2024,Senales - Schnals,ITA,Czechia,FIS,Parallel Slalom,13,22.00
-33,Biegelova Sofie,Female,09-03-2024,Senales - Schnals,ITA,Czechia,FIS,Parallel Slalom,17,15.40
-34,Biegelova Sofie,Female,24-02-2024,Alleghe,ITA,Czechia,Junior,Parallel Giant Slalom,10,36.40
-35,Biegelova Sofie,Female,09-02-2024,Funes - Vilnoess,ITA,Czechia,National Championships,Parallel Slalom,DSQ,
-36,Biegelova Sofie,Female,08-02-2024,Funes - Vilnoess,ITA,Czechia,National Championships,Parallel Giant Slalom,27,13.05
-37,Biegelova Sofie,Female,04-02-2024,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,21,14.00
-38,Biegelova Sofie,Female,03-02-2024,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,14,25.20
-39,Biegelova Sofie,Female,28-01-2024,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,23,14.40
-40,Biegelova Sofie,Female,27-01-2024,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,32,
-41,Biegelova Sofie,Female,14-01-2024,Gosau,AUT,Czechia,FIS,Parallel Slalom,13,24.00
-42,Biegelova Sofie,Female,13-01-2024,Gosau,AUT,Czechia,FIS,Parallel Slalom,4,60.00
-43,Biegelova Sofie,Female,07-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Giant Slalom,13,
-44,Biegelova Sofie,Female,06-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Slalom,10,57.20
-45,Biegelova Sofie,Female,22-12-2023,Moninec,CZE,Czechia,Junior,Parallel Slalom,6,28.00
-46,Biegelova Sofie,Female,21-12-2023,Moninec,CZE,Czechia,Junior,Parallel Slalom,7,39.60
-47,Biegelova Sofie,Female,20-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,38,4.97
-48,Biegelova Sofie,Female,19-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,43,4.58
-49,Biegelova Sofie,Female,10-12-2023,Götschen,GER,Czechia,Junior,Parallel Slalom,24,11.20
-50,Biegelova Sofie,Female,09-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,56,
-51,Biegelova Sofie,Female,09-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,56,
-52,Biegelova Sofie,Female,08-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,56,
-53,Biegelova Sofie,Female,08-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,56,
-54,Biegelova Sofie,Female,28-03-2023,Bansko,BUL,Czechia,National Championships,Parallel Slalom,2,56.00
-55,Biegelova Sofie,Female,27-03-2023,Bansko,BUL,Czechia,National Championships,Parallel Giant Slalom,6,44.00
-56,Biegelova Sofie,Female,25-03-2023,Bansko,BUL,Czechia,Qualification,Parallel Slalom,22,
-57,Biegelova Sofie,Female,25-03-2023,Bansko,BUL,Czechia,FIS Junior World Championships,Parallel Slalom,22,32.40
-58,Biegelova Sofie,Female,24-03-2023,Bansko,BUL,Czechia,FIS Junior World Championships,Parallel Giant Slalom,23,28.80
-59,Biegelova Sofie,Female,24-03-2023,Bansko,BUL,Czechia,Qualification,Parallel Giant Slalom,23,
-60,Biegelova Sofie,Female,19-03-2023,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,35,5.20
-61,Biegelova Sofie,Female,18-03-2023,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,36,5.12
-62,Biegelova Sofie,Female,12-03-2023,ORTISEI,ITA,Czechia,FIS,Giant Slalom,14,18.00
-63,Biegelova Sofie,Female,11-03-2023,ORTISEI,ITA,Czechia,FIS,Giant Slalom,6,40.00
-64,Biegelova Sofie,Female,05-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,6,52.00
-65,Biegelova Sofie,Female,04-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,5,58.50
-66,Biegelova Sofie,Female,03-03-2023,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Giant Slalom,3,78.00
-67,Biegelova Sofie,Female,27-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,5,22.50
-68,Biegelova Sofie,Female,26-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,4,25.00
-69,Biegelova Sofie,Female,25-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,3,30.00
-70,Biegelova Sofie,Female,29-01-2023,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,DSQ,
-71,Biegelova Sofie,Female,29-01-2023,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,DSQ,
-72,Biegelova Sofie,Female,28-01-2023,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,38,
-73,Biegelova Sofie,Female,28-01-2023,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,38,4.58
-74,Biegelova Sofie,Female,23-01-2023,Piancavallo,ITA,Czechia,European Youth Olympic Festival,Parallel Giant Slalom,11,28.80
-75,Biegelova Sofie,Female,08-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Giant Slalom,17,16.80
-76,Biegelova Sofie,Female,07-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,12,28.60
-77,Biegelova Sofie,Female,04-01-2023,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,16,43.50
-78,Biegelova Sofie,Female,18-12-2022,Hochfügen,GER,Czechia,Qualification,Parallel Giant Slalom,43,
-79,Biegelova Sofie,Female,18-12-2022,Hochfügen,GER,Czechia,European Cup,Parallel Giant Slalom,43,
-80,Biegelova Sofie,Female,17-12-2022,Hochfügen,GER,Czechia,European Cup,Parallel Giant Slalom,38,3.82
-81,Biegelova Sofie,Female,13-03-2022,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,10,31.20
-82,Biegelova Sofie,Female,12-03-2022,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,14,21.60
-83,Biegelova Sofie,Female,08-03-2022,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,DNS,
-84,Biegelova Sofie,Female,20-02-2022,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,5,45.00
-85,Biegelova Sofie,Female,19-02-2022,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,11,24.00
-86,Biegelova Sofie,Female,06-02-2022,Ebensee,AUT,Czechia,FIS,Parallel Slalom,10,
-87,Biegelova Sofie,Female,05-02-2022,Ebensee,AUT,Czechia,FIS,Parallel Slalom,11,
-88,Biegelova Sofie,Female,16-01-2022,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,4,25.00
-89,Biegelova Sofie,Female,15-01-2022,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,9,26.10
-90,Biegelova Sofie,Female,09-01-2022,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,16,19.50
-91,Biegelova Sofie,Female,08-01-2022,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,20,14.30
-92,Biegelova Sofie,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Czechia,Junior,Slalom,DSQ,
-93,Biegelova Sofie,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Czechia,Junior,Parallel Slalom,6,20.00
-94,Biegelova Sofie,Female,21-12-2021,Moninec,CZE,Czechia,FIS,Parallel Slalom,33,4.32
-95,Biegelova Sofie,Female,20-12-2021,Moninec,CZE,Czechia,FIS,Parallel Slalom,26,9.00
-96,Biegelova Sofie,Female,19-12-2021,Moninec,CZE,Czechia,European Cup,Parallel Slalom,37,3.88
-97,Biegelova Sofie,Female,18-12-2021,Moninec,CZE,Czechia,European Cup,Parallel Slalom,DSQ,
+0,Biegelova Sofie,Female,16-03-2025,Davos,SUI,Czechia,European Cup,Parallel Slalom,25,
+1,Biegelova Sofie,Female,16-03-2025,Davos,SUI,Czechia,Qualification,Parallel Slalom,25,
+2,Biegelova Sofie,Female,15-03-2025,Davos,SUI,Czechia,European Cup,Parallel Slalom,30,
+3,Biegelova Sofie,Female,15-03-2025,Davos,SUI,Czechia,Qualification,Parallel Slalom,30,
+4,Biegelova Sofie,Female,05-03-2025,Zakopane/Suche,POL,Czechia,Qualification,Parallel Slalom,27,
+5,Biegelova Sofie,Female,05-03-2025,Zakopane/Suche,POL,Czechia,FIS Junior World Championships,Parallel Slalom,27,13.05
+6,Biegelova Sofie,Female,04-03-2025,Zakopane/Suche,POL,Czechia,Qualification,Parallel Giant Slalom,23,
+7,Biegelova Sofie,Female,04-03-2025,Zakopane/Suche,POL,Czechia,FIS Junior World Championships,Parallel Giant Slalom,23,23.20
+8,Biegelova Sofie,Female,02-03-2025,Spindleruv Mlyn - Stoh,CZE,Czechia,National Championships,Parallel Slalom,DSQ,
+9,Biegelova Sofie,Female,01-03-2025,Spindleruv Mlyn - Stoh,CZE,Czechia,National Championships,Parallel Giant Slalom,4,35.00
+10,Biegelova Sofie,Female,16-02-2025,Funes/Villnoess,ITA,Czechia,Junior Regional Cup,Parallel Giant Slalom,14,32.40
+11,Biegelova Sofie,Female,15-02-2025,Funes/Villnoess,ITA,Czechia,Junior Regional Cup,Parallel Giant Slalom,19,21.60
+12,Biegelova Sofie,Female,09-02-2025,Simonhoehe,AUT,Czechia,National Championships,Parallel Slalom,17,40.60
+13,Biegelova Sofie,Female,08-02-2025,Simonhoehe,AUT,Czechia,National Championships,Parallel Giant Slalom,23,23.20
+14,Biegelova Sofie,Female,02-02-2025,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,29,
+15,Biegelova Sofie,Female,02-02-2025,Ratschings,ITA,Czechia,Qualification,Parallel Slalom,29,
+16,Biegelova Sofie,Female,01-02-2025,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,25,21.60
+17,Biegelova Sofie,Female,01-02-2025,Ratschings,ITA,Czechia,Qualification,Parallel Slalom,25,
+18,Biegelova Sofie,Female,19-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,10,18.20
+19,Biegelova Sofie,Female,18-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,5,31.50
+20,Biegelova Sofie,Female,12-01-2025,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,16,21.00
+21,Biegelova Sofie,Female,11-01-2025,Folgaria,ITA,Czechia,European Cup,Parallel Giant Slalom,21,24.00
+22,Biegelova Sofie,Female,11-01-2025,Folgaria,ITA,Czechia,Qualification,Parallel Giant Slalom,21,
+23,Biegelova Sofie,Female,10-01-2025,Folgaria,ITA,Czechia,European Cup,Parallel Giant Slalom,23,19.20
+24,Biegelova Sofie,Female,10-01-2025,Folgaria,ITA,Czechia,Qualification,Parallel Giant Slalom,23,
+25,Biegelova Sofie,Female,22-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,DSQ,
+26,Biegelova Sofie,Female,21-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,20,17.60
+27,Biegelova Sofie,Female,20-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,32,6.24
+28,Biegelova Sofie,Female,15-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,43,4.22
+29,Biegelova Sofie,Female,14-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,37,4.27
+30,Biegelova Sofie,Female,23-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Slalom,32,6.24
+31,Biegelova Sofie,Female,23-03-2024,Lachtal,AUT,Czechia,Qualification,Parallel Slalom,32,
+32,Biegelova Sofie,Female,22-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Giant Slalom,31,6.72
+33,Biegelova Sofie,Female,22-03-2024,Lachtal,AUT,Czechia,Qualification,Parallel Giant Slalom,31,
+34,Biegelova Sofie,Female,17-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,5,40.50
+35,Biegelova Sofie,Female,16-03-2024,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Slalom,2,144.00
+36,Biegelova Sofie,Female,10-03-2024,Senales - Schnals,ITA,Czechia,FIS,Parallel Slalom,13,22.00
+37,Biegelova Sofie,Female,09-03-2024,Senales - Schnals,ITA,Czechia,FIS,Parallel Slalom,17,15.40
+38,Biegelova Sofie,Female,24-02-2024,Alleghe,ITA,Czechia,Junior,Parallel Giant Slalom,10,36.40
+39,Biegelova Sofie,Female,09-02-2024,Funes - Vilnoess,ITA,Czechia,National Championships,Parallel Slalom,DSQ,
+40,Biegelova Sofie,Female,08-02-2024,Funes - Vilnoess,ITA,Czechia,National Championships,Parallel Giant Slalom,27,13.05
+41,Biegelova Sofie,Female,04-02-2024,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,21,14.00
+42,Biegelova Sofie,Female,03-02-2024,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,14,25.20
+43,Biegelova Sofie,Female,28-01-2024,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,23,14.40
+44,Biegelova Sofie,Female,27-01-2024,Nova Levante - Welschnofen,ITA,Czechia,FIS,Parallel Giant Slalom,32,
+45,Biegelova Sofie,Female,14-01-2024,Gosau,AUT,Czechia,FIS,Parallel Slalom,13,24.00
+46,Biegelova Sofie,Female,13-01-2024,Gosau,AUT,Czechia,FIS,Parallel Slalom,4,60.00
+47,Biegelova Sofie,Female,07-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Giant Slalom,13,
+48,Biegelova Sofie,Female,06-01-2024,Dolni Morava,CZE,Czechia,National Championships,Parallel Slalom,10,57.20
+49,Biegelova Sofie,Female,22-12-2023,Moninec,CZE,Czechia,Junior,Parallel Slalom,6,28.00
+50,Biegelova Sofie,Female,21-12-2023,Moninec,CZE,Czechia,Junior,Parallel Slalom,7,39.60
+51,Biegelova Sofie,Female,20-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,38,4.97
+52,Biegelova Sofie,Female,19-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,43,4.58
+53,Biegelova Sofie,Female,10-12-2023,Götschen,GER,Czechia,Junior,Parallel Slalom,24,11.20
+54,Biegelova Sofie,Female,09-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,56,
+55,Biegelova Sofie,Female,09-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,56,
+56,Biegelova Sofie,Female,08-12-2023,Götschen,GER,Czechia,Qualification,Parallel Slalom,56,
+57,Biegelova Sofie,Female,08-12-2023,Götschen,GER,Czechia,European Cup,Parallel Slalom,56,
+58,Biegelova Sofie,Female,28-03-2023,Bansko,BUL,Czechia,National Championships,Parallel Slalom,2,56.00
+59,Biegelova Sofie,Female,27-03-2023,Bansko,BUL,Czechia,National Championships,Parallel Giant Slalom,6,44.00
+60,Biegelova Sofie,Female,25-03-2023,Bansko,BUL,Czechia,FIS Junior World Championships,Parallel Slalom,22,32.40
+61,Biegelova Sofie,Female,25-03-2023,Bansko,BUL,Czechia,Qualification,Parallel Slalom,22,
+62,Biegelova Sofie,Female,24-03-2023,Bansko,BUL,Czechia,FIS Junior World Championships,Parallel Giant Slalom,23,28.80
+63,Biegelova Sofie,Female,24-03-2023,Bansko,BUL,Czechia,Qualification,Parallel Giant Slalom,23,
+64,Biegelova Sofie,Female,19-03-2023,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,35,5.20
+65,Biegelova Sofie,Female,18-03-2023,Ratschings,ITA,Czechia,European Cup,Parallel Slalom,36,5.12
+66,Biegelova Sofie,Female,12-03-2023,ORTISEI,ITA,Czechia,FIS,Giant Slalom,14,18.00
+67,Biegelova Sofie,Female,11-03-2023,ORTISEI,ITA,Czechia,FIS,Giant Slalom,6,40.00
+68,Biegelova Sofie,Female,05-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,6,52.00
+69,Biegelova Sofie,Female,04-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,5,58.50
+70,Biegelova Sofie,Female,03-03-2023,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Giant Slalom,3,78.00
+71,Biegelova Sofie,Female,27-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,5,22.50
+72,Biegelova Sofie,Female,26-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,4,25.00
+73,Biegelova Sofie,Female,25-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,3,30.00
+74,Biegelova Sofie,Female,29-01-2023,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,DSQ,
+75,Biegelova Sofie,Female,29-01-2023,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,DSQ,
+76,Biegelova Sofie,Female,28-01-2023,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,38,4.58
+77,Biegelova Sofie,Female,28-01-2023,Simonhöhe,AUT,Czechia,Qualification,Parallel Giant Slalom,38,
+78,Biegelova Sofie,Female,23-01-2023,Piancavallo,ITA,Czechia,European Youth Olympic Festival,Parallel Giant Slalom,11,28.80
+79,Biegelova Sofie,Female,08-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Giant Slalom,17,16.80
+80,Biegelova Sofie,Female,07-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,12,28.60
+81,Biegelova Sofie,Female,04-01-2023,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,16,43.50
+82,Biegelova Sofie,Female,18-12-2022,Hochfügen,GER,Czechia,European Cup,Parallel Giant Slalom,43,
+83,Biegelova Sofie,Female,18-12-2022,Hochfügen,GER,Czechia,Qualification,Parallel Giant Slalom,43,
+84,Biegelova Sofie,Female,17-12-2022,Hochfügen,GER,Czechia,European Cup,Parallel Giant Slalom,38,3.82
+85,Biegelova Sofie,Female,13-03-2022,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,10,31.20
+86,Biegelova Sofie,Female,12-03-2022,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,14,21.60
+87,Biegelova Sofie,Female,08-03-2022,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,DNS,
+88,Biegelova Sofie,Female,20-02-2022,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,5,45.00
+89,Biegelova Sofie,Female,19-02-2022,Bozi Dar - Neklid,CZE,Czechia,FIS,Parallel Slalom,11,24.00
+90,Biegelova Sofie,Female,06-02-2022,Ebensee,AUT,Czechia,FIS,Parallel Slalom,10,
+91,Biegelova Sofie,Female,05-02-2022,Ebensee,AUT,Czechia,FIS,Parallel Slalom,11,
+92,Biegelova Sofie,Female,16-01-2022,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,4,25.00
+93,Biegelova Sofie,Female,15-01-2022,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,9,26.10
+94,Biegelova Sofie,Female,09-01-2022,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,16,19.50
+95,Biegelova Sofie,Female,08-01-2022,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,20,14.30
+96,Biegelova Sofie,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Czechia,Junior,Slalom,DSQ,
+97,Biegelova Sofie,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Czechia,Junior,Parallel Slalom,6,20.00
+98,Biegelova Sofie,Female,21-12-2021,Moninec,CZE,Czechia,FIS,Parallel Slalom,33,4.32
+99,Biegelova Sofie,Female,20-12-2021,Moninec,CZE,Czechia,FIS,Parallel Slalom,26,9.00
+100,Biegelova Sofie,Female,19-12-2021,Moninec,CZE,Czechia,European Cup,Parallel Slalom,37,3.88
+101,Biegelova Sofie,Female,18-12-2021,Moninec,CZE,Czechia,European Cup,Parallel Slalom,DSQ,

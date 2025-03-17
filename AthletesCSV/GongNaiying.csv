@@ -1,216 +1,220 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Gong Naiying,Female,09-03-2025,Montafon/Gargellen,AUT,P.r. China,European Cup,Parallel Slalom,6,144.00
-1,Gong Naiying,Female,08-03-2025,Montafon/Gargellen,AUT,P.r. China,European Cup,Parallel Giant Slalom,11,86.40
-2,Gong Naiying,Female,08-02-2025,Jinshanling Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,1,160.00
-3,Gong Naiying,Female,07-02-2025,Jinshanling Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,1,160.00
-4,Gong Naiying,Female,25-01-2025,Rogla,SLO,P.r. China,Qualification,Parallel Giant Slalom,20,
-5,Gong Naiying,Female,25-01-2025,Rogla,SLO,P.r. China,World Cup,Parallel Giant Slalom,20,110.00
-6,Gong Naiying,Female,19-01-2025,Bansko,BUL,P.r. China,Qualification,Parallel Giant Slalom,24,
-7,Gong Naiying,Female,19-01-2025,Bansko,BUL,P.r. China,World Cup,Parallel Giant Slalom,24,70.00
-8,Gong Naiying,Female,18-01-2025,Bansko,BUL,P.r. China,Qualification,Parallel Giant Slalom,18,
-9,Gong Naiying,Female,18-01-2025,Bansko,BUL,P.r. China,World Cup,Parallel Giant Slalom,18,130.00
-10,Gong Naiying,Female,15-01-2025,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom Team,16,
-11,Gong Naiying,Female,14-01-2025,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,23,
-12,Gong Naiying,Female,14-01-2025,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,23,80.00
-13,Gong Naiying,Female,11-01-2025,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,17,
-14,Gong Naiying,Female,11-01-2025,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,17,140.00
-15,Gong Naiying,Female,31-12-2024,Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,1,160.00
-16,Gong Naiying,Female,30-12-2024,Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,3,96.00
-17,Gong Naiying,Female,21-12-2024,Davos,SUI,P.r. China,Qualification,Parallel Slalom,33,
-18,Gong Naiying,Female,21-12-2024,Davos,SUI,P.r. China,World Cup,Parallel Slalom,33,24.00
-19,Gong Naiying,Female,14-12-2024,Cortina d'Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,15,
-20,Gong Naiying,Female,14-12-2024,Cortina d'Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,15,160.00
-21,Gong Naiying,Female,12-12-2024,Carezza,ITA,P.r. China,Qualification,Parallel Giant Slalom,14,
-22,Gong Naiying,Female,12-12-2024,Carezza,ITA,P.r. China,World Cup,Parallel Giant Slalom,14,180.00
-23,Gong Naiying,Female,08-12-2024,Yanqing (NASC),CHN,P.r. China,World Cup,Parallel Slalom,14,180.00
-24,Gong Naiying,Female,08-12-2024,Yanqing (NASC),CHN,P.r. China,Qualification,Parallel Slalom,13,
-25,Gong Naiying,Female,07-12-2024,Yanqing (NASC),CHN,P.r. China,World Cup,Parallel Giant Slalom,12,220.00
-26,Gong Naiying,Female,07-12-2024,Yanqing (NASC),CHN,P.r. China,Qualification,Parallel Giant Slalom,8,
-27,Gong Naiying,Female,01-12-2024,Mylin,CHN,P.r. China,World Cup,Parallel Slalom,16,150.00
-28,Gong Naiying,Female,01-12-2024,Mylin,CHN,P.r. China,Qualification,Parallel Slalom,16,
-29,Gong Naiying,Female,30-11-2024,Mylin,CHN,P.r. China,World Cup,Parallel Giant Slalom,23,80.00
-30,Gong Naiying,Female,30-11-2024,Mylin,CHN,P.r. China,Qualification,Parallel Giant Slalom,23,
-31,Gong Naiying,Female,19-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Slalom,2,128.00
-32,Gong Naiying,Female,18-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,3,96.00
-33,Gong Naiying,Female,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,1,160.00
-34,Gong Naiying,Female,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,2,128.00
-35,Gong Naiying,Female,05-03-2024,High1resort,KOR,P.r. China,Asian Cup,Parallel Slalom,1,160.00
-36,Gong Naiying,Female,04-03-2024,High1resort,KOR,P.r. China,Asian Cup,Parallel Giant Slalom,1,160.00
-37,Gong Naiying,Female,01-03-2024,Jinshanling Galaxy Ski Resort,CHN,P.r. China,FIS,Parallel Slalom,1,110.00
-38,Gong Naiying,Female,29-02-2024,Jinshanling Galaxy Ski Resort,CHN,P.r. China,FIS,Parallel Giant Slalom,1,110.00
-39,Gong Naiying,Female,16-12-2023,Cortina d'Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,20,
-40,Gong Naiying,Female,16-12-2023,Cortina d'Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,20,110.00
-41,Gong Naiying,Female,14-12-2023,Carezza,ITA,P.r. China,Qualification,Parallel Giant Slalom,18,
-42,Gong Naiying,Female,14-12-2023,Carezza,ITA,P.r. China,World Cup,Parallel Giant Slalom,18,130.00
-43,Gong Naiying,Female,09-12-2023,Götschen,GER,P.r. China,Qualification,Parallel Slalom,7,
-44,Gong Naiying,Female,09-12-2023,Götschen,GER,P.r. China,European Cup,Parallel Slalom,12,79.20
-45,Gong Naiying,Female,08-12-2023,Götschen,GER,P.r. China,Qualification,Parallel Slalom,6,
-46,Gong Naiying,Female,08-12-2023,Götschen,GER,P.r. China,European Cup,Parallel Slalom,9,104.40
-47,Gong Naiying,Female,08-02-2022,Beijing,CHN,P.r. China,Qualification,Parallel Giant Slalom,19,
-48,Gong Naiying,Female,08-02-2022,Beijing,CHN,P.r. China,Olympic Winter Games,Parallel Giant Slalom,19,120.00
-49,Gong Naiying,Female,14-01-2022,Simonhöhe,AUT,P.r. China,World Cup,Parallel Giant Slalom,28,40.00
-50,Gong Naiying,Female,14-01-2022,Simonhöhe,AUT,P.r. China,Qualification,Parallel Giant Slalom,28,
-51,Gong Naiying,Female,11-01-2022,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,21,
-52,Gong Naiying,Female,11-01-2022,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,21,100.00
-53,Gong Naiying,Female,08-01-2022,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,15,
-54,Gong Naiying,Female,08-01-2022,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,8,320.00
-55,Gong Naiying,Female,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,37,
-56,Gong Naiying,Female,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,37,19.40
-57,Gong Naiying,Female,16-12-2021,Carezza,ITA,P.r. China,Qualification,Parallel Giant Slalom,25,
-58,Gong Naiying,Female,16-12-2021,Carezza,ITA,P.r. China,World Cup,Parallel Giant Slalom,25,60.00
-59,Gong Naiying,Female,12-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Slalom,52,
-60,Gong Naiying,Female,12-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Slalom,52,
-61,Gong Naiying,Female,11-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Giant Slalom,26,
-62,Gong Naiying,Female,11-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Giant Slalom,26,50.00
-63,Gong Naiying,Female,03-03-2020,Blue Mountain,CAN,P.r. China,Nor-Am Cup,Parallel Slalom,1,360.00
-64,Gong Naiying,Female,02-03-2020,Blue Mountain,CAN,P.r. China,Nor-Am Cup,Parallel Giant Slalom,DSQ,
-65,Gong Naiying,Female,01-03-2020,Blue Mountain,CAN,P.r. China,World Cup,Parallel Giant Slalom,6,400.00
-66,Gong Naiying,Female,01-03-2020,Blue Mountain,CAN,P.r. China,Qualification,Parallel Giant Slalom,8,
-67,Gong Naiying,Female,29-02-2020,Blue Mountain,CAN,P.r. China,World Cup,Parallel Giant Slalom,10,260.00
-68,Gong Naiying,Female,29-02-2020,Blue Mountain,CAN,P.r. China,Qualification,Parallel Giant Slalom,7,
-69,Gong Naiying,Female,09-02-2020,Gerlitzen,AUT,P.r. China,FIS,Giant Slalom,3,132.00
-70,Gong Naiying,Female,08-02-2020,Gerlitzen,AUT,P.r. China,FIS,Giant Slalom,1,220.00
-71,Gong Naiying,Female,26-01-2020,Piancavallo,ITA,P.r. China,World Cup,Parallel Slalom Team,23,
-72,Gong Naiying,Female,25-01-2020,Piancavallo,ITA,P.r. China,World Cup,Parallel Slalom,16,150.00
-73,Gong Naiying,Female,25-01-2020,Piancavallo,ITA,P.r. China,Qualification,Parallel Slalom,16,
-74,Gong Naiying,Female,18-01-2020,Rogla,SLO,P.r. China,World Cup,Parallel Giant Slalom,12,220.00
-75,Gong Naiying,Female,18-01-2020,Rogla,SLO,P.r. China,Qualification,Parallel Giant Slalom,9,
-76,Gong Naiying,Female,15-01-2020,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom Team,14,
-77,Gong Naiying,Female,14-01-2020,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,14,180.00
-78,Gong Naiying,Female,14-01-2020,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,14,
-79,Gong Naiying,Female,11-01-2020,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,19,120.00
-80,Gong Naiying,Female,11-01-2020,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,19,
-81,Gong Naiying,Female,29-12-2019,Wanlong Ski Resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,1,360.00
-82,Gong Naiying,Female,28-12-2019,Wanlong Ski Resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,1,360.00
-83,Gong Naiying,Female,19-12-2019,Carezza,ITA,P.r. China,Open,Parallel Giant Slalom,22,90.00
-84,Gong Naiying,Female,14-12-2019,Cortina d Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,18,130.00
-85,Gong Naiying,Female,14-12-2019,Cortina d Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,18,
-86,Gong Naiying,Female,08-12-2019,Bannoye,RUS,P.r. China,World Cup,Parallel Giant Slalom,11,240.00
-87,Gong Naiying,Female,08-12-2019,Bannoye,RUS,P.r. China,Qualification,Parallel Giant Slalom,8,
-88,Gong Naiying,Female,07-12-2019,Bannoye,RUS,P.r. China,World Cup,Parallel Slalom,18,130.00
-89,Gong Naiying,Female,07-12-2019,Bannoye,RUS,P.r. China,Qualification,Parallel Slalom,18,
-90,Gong Naiying,Female,30-11-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,1,320.00
-91,Gong Naiying,Female,29-11-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,8,115.20
-92,Gong Naiying,Female,07-04-2019,Racines,ITA,P.r. China,European Cup,Parallel Slalom,3,216.00
-93,Gong Naiying,Female,06-04-2019,Racines,ITA,P.r. China,European Cup,Parallel Slalom,5,162.00
-94,Gong Naiying,Female,24-03-2019,Winterberg,GER,P.r. China,World Cup,Parallel Slalom Team,14,
-95,Gong Naiying,Female,23-03-2019,Winterberg,GER,P.r. China,World Cup,Parallel Slalom,12,220.00
-96,Gong Naiying,Female,23-03-2019,Winterberg,GER,P.r. China,Qualification,Parallel Slalom,7,
-97,Gong Naiying,Female,17-03-2019,Rogla,SLO,P.r. China,European Cup,Parallel Giant Slalom,3,216.00
-98,Gong Naiying,Female,16-03-2019,Rogla,SLO,P.r. China,European Cup,Parallel Giant Slalom,4,180.00
-99,Gong Naiying,Female,09-03-2019,Scuol,SUI,P.r. China,World Cup,Parallel GS,12,220.00
-100,Gong Naiying,Female,09-03-2019,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,7,
-101,Gong Naiying,Female,28-02-2019,Secret Garden,CHN,P.r. China,Asian Cup,Parallel Slalom,2,208.00
-102,Gong Naiying,Female,27-02-2019,Secret Garden,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,1,200.00
-103,Gong Naiying,Female,24-02-2019,Secret Garden,CHN,P.r. China,World Cup,Parallel Slalom,1,1000.00
-104,Gong Naiying,Female,24-02-2019,Secret Garden,CHN,P.r. China,Qualification,Parallel Slalom,2,
-105,Gong Naiying,Female,23-02-2019,Secret Garden,CHN,P.r. China,World Cup,Parallel Giant Slalom,11,240.00
-106,Gong Naiying,Female,23-02-2019,Secret Garden,CHN,P.r. China,Qualification,Parallel Giant Slalom,11,
-107,Gong Naiying,Female,17-02-2019,Pyeongchang,KOR,P.r. China,World Cup,Parallel Giant Slalom,19,120.00
-108,Gong Naiying,Female,17-02-2019,Pyeongchang,KOR,P.r. China,Qualification,Parallel Giant Slalom,19,
-109,Gong Naiying,Female,16-02-2019,Pyeongchang,KOR,P.r. China,World Cup,Parallel Giant Slalom,18,130.00
-110,Gong Naiying,Female,16-02-2019,Pyeongchang,KOR,P.r. China,Qualification,Parallel Giant Slalom,18,
-111,Gong Naiying,Female,12-02-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,1,200.00
-112,Gong Naiying,Female,11-02-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,1,200.00
-113,Gong Naiying,Female,05-02-2019,Park City,USA,P.r. China,World Championships,Parallel Slalom,18,130.00
-114,Gong Naiying,Female,04-02-2019,Park City,USA,P.r. China,World Championships,Parallel Giant Slalom,34,
-115,Gong Naiying,Female,27-01-2019,Moscow,RUS,P.r. China,World Cup,Parallel Slalom Team,18,
-116,Gong Naiying,Female,26-01-2019,Moscow,RUS,P.r. China,World Cup,Parallel Slalom,27,
-117,Gong Naiying,Female,26-01-2019,Moscow,RUS,P.r. China,Qualification,Parallel Slalom,27,
-118,Gong Naiying,Female,19-01-2019,Rogla,SLO,P.r. China,World Cup,Parallel GS,6,400.00
-119,Gong Naiying,Female,19-01-2019,Rogla,SLO,P.r. China,Qualification,Parallel Giant Slalom,5,
-120,Gong Naiying,Female,11-01-2019,Bad Gastein,AUT,P.r. China,European Cup,Parallel Slalom,3,216.00
-121,Gong Naiying,Female,10-01-2019,Bad Gastein,AUT,P.r. China,European Cup,Parallel Slalom,6,144.00
-122,Gong Naiying,Female,09-01-2019,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom Team,19,
-123,Gong Naiying,Female,08-01-2019,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,18,130.00
-124,Gong Naiying,Female,08-01-2019,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,18,
-125,Gong Naiying,Female,15-12-2018,Cortina d'Ampezzo,ITA,P.r. China,World Cup,Parallel GS,8,320.00
-126,Gong Naiying,Female,15-12-2018,Cortina d'Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,9,
-127,Gong Naiying,Female,13-12-2018,Carezza,ITA,P.r. China,World Cup,Parallel GS,22,90.00
-128,Gong Naiying,Female,13-12-2018,Carezza,ITA,P.r. China,Qualification,Parallel Giant Slalom,22,
-129,Gong Naiying,Female,06-09-2018,Cardrona,NZL,P.r. China,FIS Junior World Championships,Parallel Slalom,5,162.00
-130,Gong Naiying,Female,05-09-2018,Cardrona,NZL,P.r. China,FIS Junior World Championships,Parallel GS,2,288.00
-131,Gong Naiying,Female,25-03-2018,Davos,SUI,P.r. China,European Cup,Parallel Slalom,5,162.00
-132,Gong Naiying,Female,24-03-2018,Davos,SUI,P.r. China,European Cup,Parallel GS,5,162.00
-133,Gong Naiying,Female,21-03-2018,Rogla,SLO,P.r. China,European Cup,Parallel GS,5,162.00
-134,Gong Naiying,Female,20-03-2018,Rogla,SLO,P.r. China,European Cup,Parallel GS,4,180.00
-135,Gong Naiying,Female,17-03-2018,Winterberg,GER,P.r. China,World Cup,Parallel Slalom,32,26.00
-136,Gong Naiying,Female,17-03-2018,Winterberg,GER,P.r. China,Qualification,Parallel Slalom,32,
-137,Gong Naiying,Female,11-03-2018,Tauplitz,AUT,P.r. China,European Cup,Parallel Slalom,17,40.60
-138,Gong Naiying,Female,10-03-2018,Scuol,SUI,P.r. China,World Cup,Parallel GS,24,70.00
-139,Gong Naiying,Female,10-03-2018,Scuol,SUI,P.r. China,Qualification,Parallel GS,24,
-140,Gong Naiying,Female,03-03-2018,Kayseri,TUR,P.r. China,World Cup,Parallel GS,DSQ,
-141,Gong Naiying,Female,03-03-2018,Kayseri,TUR,P.r. China,Qualification,Parallel GS,DSQ,
-142,Gong Naiying,Female,24-02-2018,Phoenix Snow Park,KOR,P.r. China,Qualification,Parallel GS,26,
-143,Gong Naiying,Female,24-02-2018,Phoenix Snow Park,KOR,P.r. China,Olympic Winter Games,Parallel GS,26,50.00
-144,Gong Naiying,Female,28-01-2018,Bansko,BUL,P.r. China,World Cup,Parallel GS,19,120.00
-145,Gong Naiying,Female,28-01-2018,Bansko,BUL,P.r. China,Qualification,Parallel GS,19,
-146,Gong Naiying,Female,26-01-2018,Bansko,BUL,P.r. China,World Cup,Parallel GS,30,32.00
-147,Gong Naiying,Female,26-01-2018,Bansko,BUL,P.r. China,Qualification,Parallel GS,30,
-148,Gong Naiying,Female,21-01-2018,Rogla,SLO,P.r. China,World Cup,Parallel GS,12,220.00
-149,Gong Naiying,Female,21-01-2018,Rogla,SLO,P.r. China,Qualification,Parallel GS,12,
-150,Gong Naiying,Female,20-01-2018,Rogla,SLO,P.r. China,World Cup,Parallel GS,21,100.00
-151,Gong Naiying,Female,20-01-2018,Rogla,SLO,P.r. China,Qualification,Parallel GS,21,
-152,Gong Naiying,Female,12-01-2018,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,30,32.00
-153,Gong Naiying,Female,12-01-2018,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,30,
-154,Gong Naiying,Female,05-01-2018,Lackenhof,AUT,P.r. China,World Cup,Parallel GS,36,19.70
-155,Gong Naiying,Female,05-01-2018,Lackenhof,AUT,P.r. China,Qualification,Parallel GS,36,
-156,Gong Naiying,Female,16-12-2017,Cortina d'Ampezzo,ITA,P.r. China,World Cup,Parallel Slalom,13,200.00
-157,Gong Naiying,Female,16-12-2017,Cortina d'Ampezzo,ITA,P.r. China,Qualification,Parallel Slalom,8,
-158,Gong Naiying,Female,15-12-2017,Cortina d'Ampezzo,ITA,P.r. China,World Cup,Parallel GS,15,160.00
-159,Gong Naiying,Female,15-12-2017,Cortina d'Ampezzo,ITA,P.r. China,Qualification,Parallel GS,15,
-160,Gong Naiying,Female,14-12-2017,Carezza,ITA,P.r. China,World Cup,Parallel GS,37,19.40
-161,Gong Naiying,Female,14-12-2017,Carezza,ITA,P.r. China,Qualification,Parallel GS,37,
-162,Gong Naiying,Female,10-12-2017,Hochfügen,GER,P.r. China,European Cup,Parallel GS,17,50.40
-163,Gong Naiying,Female,09-12-2017,Hochfügen,GER,P.r. China,European Cup,Parallel GS,25,21.60
-164,Gong Naiying,Female,02-12-2017,Changchengling,CHN,P.r. China,National Championships,Parallel Slalom,1,160.00
-165,Gong Naiying,Female,01-12-2017,Changchengling,CHN,P.r. China,National Championships,Parallel GS,3,96.00
-166,Gong Naiying,Female,02-04-2017,Scuol,SUI,P.r. China,European Cup,Parallel Slalom,18,46.80
-167,Gong Naiying,Female,01-04-2017,Scuol,SUI,P.r. China,European Cup,Parallel GS,16,54.00
-168,Gong Naiying,Female,29-03-2017,Rogla,SLO,P.r. China,European Cup,Parallel Slalom,24,
-169,Gong Naiying,Female,25-03-2017,Racines,ITA,P.r. China,European Cup,Parallel Slalom,DNF1,
-170,Gong Naiying,Female,18-03-2017,Winterberg,GER,P.r. China,Qualification,Parallel Slalom,32,
-171,Gong Naiying,Female,18-03-2017,Winterberg,GER,P.r. China,World Cup,Parallel Slalom,32,26.00
-172,Gong Naiying,Female,16-03-2017,Sierra Nevada,ESP,P.r. China,World Championships,Parallel GS,21,100.00
-173,Gong Naiying,Female,15-03-2017,Sierra Nevada,ESP,P.r. China,World Championships,Parallel Slalom,27,45.00
-174,Gong Naiying,Female,05-03-2017, Erciyes-Kayseri,TUR,P.r. China,World Cup,Parallel GS,8,320.00
-175,Gong Naiying,Female,20-02-2017,Sapporo,JPN,P.r. China,FIS,Slalom,6,88.00
-176,Gong Naiying,Female,19-02-2017,Sapporo,JPN,P.r. China,FIS,Giant Slalom,3,132.00
-177,Gong Naiying,Female,12-02-2017,Phoenix Pyeongchang,KOR,P.r. China,World Cup,Parallel GS,24,70.00
-178,Gong Naiying,Female,05-02-2017,Bansko,BUL,P.r. China,World Cup,Parallel GS,25,60.00
-179,Gong Naiying,Female,03-02-2017,Bansko,BUL,P.r. China,World Cup,Parallel GS,27,45.00
-180,Gong Naiying,Female,28-01-2017,Rogla,SLO,P.r. China,World Cup,Parallel GS,21,100.00
-181,Gong Naiying,Female,21-01-2017,Livigno,ITA,P.r. China,European Cup,Parallel GS,28,14.40
-182,Gong Naiying,Female,20-01-2017,Livigno,ITA,P.r. China,European Cup,Parallel GS,15,57.60
-183,Gong Naiying,Female,17-12-2016,Cortina d'Ampezzo,ITA,P.r. China,World Cup,Parallel Slalom,22,90.00
-184,Gong Naiying,Female,15-12-2016,Carezza,ITA,P.r. China,World Cup,Parallel GS,13,200.00
-185,Gong Naiying,Female,11-12-2016,Hochfügen,GER,P.r. China,European Cup,Parallel GS,10,93.60
-186,Gong Naiying,Female,10-12-2016,Hochfügen,GER,P.r. China,European Cup,Parallel GS,23,28.80
-187,Gong Naiying,Female,04-11-2016,Landgraaf,NED,P.r. China,European Cup,Parallel Slalom,20,39.60
-188,Gong Naiying,Female,03-11-2016,Landgraaf,NED,P.r. China,European Cup,Parallel Slalom,29,12.96
-189,Gong Naiying,Female,08-04-2016,Breuil Cervinia - Valtournenche,ITA,P.r. China,National Championships,Parallel Slalom,3,192.00
-190,Gong Naiying,Female,07-04-2016,Breuil Cervinia - Valtournenche,ITA,P.r. China,National Championships,Parallel GS,1,320.00
-191,Gong Naiying,Female,03-04-2016,Rogla,SLO,P.r. China,FIS Junior World Championships,Parallel Slalom,12,79.20
-192,Gong Naiying,Female,02-04-2016,Rogla,SLO,P.r. China,FIS Junior World Championships,Parallel GS,13,72.00
-193,Gong Naiying,Female,29-03-2016,Sunny Valley,RUS,P.r. China,National Championships,Parallel Slalom,11,86.40
-194,Gong Naiying,Female,28-03-2016,Sunny Valley,RUS,P.r. China,National Championships,Parallel GS,19,43.20
-195,Gong Naiying,Female,22-03-2016,Ski Chantecler,CAN,P.r. China,Nor-Am Cup,Parallel Slalom,3,120.00
-196,Gong Naiying,Female,21-03-2016,Ski Chantecler,CAN,P.r. China,Nor-Am Cup,Parallel GS,2,160.00
-197,Gong Naiying,Female,06-03-2016,Tauplitz,AUT,P.r. China,FIS,Parallel Slalom,7,79.20
-198,Gong Naiying,Female,05-03-2016,Tauplitz,AUT,P.r. China,FIS,Parallel Slalom,7,79.20
-199,Gong Naiying,Female,21-02-2016,Lenzerheide,SUI,P.r. China,European Cup,Parallel Slalom,23,40.00
-200,Gong Naiying,Female,20-02-2016,Lenzerheide,SUI,P.r. China,European Cup,Parallel Slalom,19,60.00
-201,Gong Naiying,Female,11-03-2015,Yabuli,CHN,P.r. China,FIS Junior World Championships,Parallel Slalom,16,54.00
-202,Gong Naiying,Female,10-03-2015,Yabuli,CHN,P.r. China,FIS Junior World Championships,Parallel GS,7,129.60
-203,Gong Naiying,Female,23-01-2015,Lachtal,AUT,P.r. China,World Championships,Parallel GS,39,18.80
-204,Gong Naiying,Female,22-01-2015,Lachtal,AUT,P.r. China,World Championships,Parallel Slalom,40,0.00
-205,Gong Naiying,Female,25-03-2014,Chiesa in Valmalenco,ITA,P.r. China,FIS Junior World Championships,Parallel Slalom,15,57.60
-206,Gong Naiying,Female,24-03-2014,Chiesa in Valmalenco,ITA,P.r. China,FIS Junior World Championships,Parallel GS,25,21.60
-207,Gong Naiying,Female,14-03-2014,Mt Tremblant,CAN,P.r. China,Nor-Am Cup,Parallel Slalom,17,56.00
-208,Gong Naiying,Female,13-03-2014,Mt Tremblant,CAN,P.r. China,Nor-Am Cup,Parallel GS,5,180.00
-209,Gong Naiying,Female,12-03-2014,Mt Tremblant,CAN,P.r. China,National Junior Championships,Parallel GS,5,49.50
-210,Gong Naiying,Female,04-04-2013,Rusutsu,JPN,P.r. China,National Championships,Parallel GS,17,40.60
-211,Gong Naiying,Female,16-12-2012,Racines/Ratschings,ITA,P.r. China,European Cup,Parallel Slalom,52,0.00
-212,Gong Naiying,Female,15-12-2012,Racines/Ratschings,ITA,P.r. China,European Cup,Parallel Slalom,34,11.00
-213,Gong Naiying,Female,09-12-2012,Lachtal,AUT,P.r. China,European Cup,Parallel GS,DNF,
-214,Gong Naiying,Female,08-12-2012,Lachtal,AUT,P.r. China,European Cup,Parallel GS,57,6.70
+0,Gong Naiying,Female,16-03-2025,Winterberg,GER,P.r. China,World Cup,Parallel Slalom Team,10,
+1,Gong Naiying,Female,16-03-2025,Winterberg,GER,P.r. China,Qualification,Parallel Slalom Team,10,
+2,Gong Naiying,Female,15-03-2025,Winterberg,GER,P.r. China,Qualification,Parallel Slalom,27,
+3,Gong Naiying,Female,15-03-2025,Winterberg,GER,P.r. China,World Cup,Parallel Slalom,27,
+4,Gong Naiying,Female,09-03-2025,Montafon/Gargellen,AUT,P.r. China,European Cup,Parallel Slalom,6,144.00
+5,Gong Naiying,Female,08-03-2025,Montafon/Gargellen,AUT,P.r. China,European Cup,Parallel Giant Slalom,11,86.40
+6,Gong Naiying,Female,08-02-2025,Jinshanling Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,1,160.00
+7,Gong Naiying,Female,07-02-2025,Jinshanling Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,1,160.00
+8,Gong Naiying,Female,25-01-2025,Rogla,SLO,P.r. China,Qualification,Parallel Giant Slalom,20,
+9,Gong Naiying,Female,25-01-2025,Rogla,SLO,P.r. China,World Cup,Parallel Giant Slalom,20,110.00
+10,Gong Naiying,Female,19-01-2025,Bansko,BUL,P.r. China,Qualification,Parallel Giant Slalom,24,
+11,Gong Naiying,Female,19-01-2025,Bansko,BUL,P.r. China,World Cup,Parallel Giant Slalom,24,70.00
+12,Gong Naiying,Female,18-01-2025,Bansko,BUL,P.r. China,Qualification,Parallel Giant Slalom,18,
+13,Gong Naiying,Female,18-01-2025,Bansko,BUL,P.r. China,World Cup,Parallel Giant Slalom,18,130.00
+14,Gong Naiying,Female,15-01-2025,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom Team,16,
+15,Gong Naiying,Female,14-01-2025,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,23,
+16,Gong Naiying,Female,14-01-2025,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,23,80.00
+17,Gong Naiying,Female,11-01-2025,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,17,
+18,Gong Naiying,Female,11-01-2025,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,17,140.00
+19,Gong Naiying,Female,31-12-2024,Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,1,160.00
+20,Gong Naiying,Female,30-12-2024,Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,3,96.00
+21,Gong Naiying,Female,21-12-2024,Davos,SUI,P.r. China,Qualification,Parallel Slalom,33,
+22,Gong Naiying,Female,21-12-2024,Davos,SUI,P.r. China,World Cup,Parallel Slalom,33,24.00
+23,Gong Naiying,Female,14-12-2024,Cortina d'Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,15,
+24,Gong Naiying,Female,14-12-2024,Cortina d'Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,15,160.00
+25,Gong Naiying,Female,12-12-2024,Carezza,ITA,P.r. China,Qualification,Parallel Giant Slalom,14,
+26,Gong Naiying,Female,12-12-2024,Carezza,ITA,P.r. China,World Cup,Parallel Giant Slalom,14,180.00
+27,Gong Naiying,Female,08-12-2024,Yanqing (NASC),CHN,P.r. China,World Cup,Parallel Slalom,14,180.00
+28,Gong Naiying,Female,08-12-2024,Yanqing (NASC),CHN,P.r. China,Qualification,Parallel Slalom,13,
+29,Gong Naiying,Female,07-12-2024,Yanqing (NASC),CHN,P.r. China,World Cup,Parallel Giant Slalom,12,220.00
+30,Gong Naiying,Female,07-12-2024,Yanqing (NASC),CHN,P.r. China,Qualification,Parallel Giant Slalom,8,
+31,Gong Naiying,Female,01-12-2024,Mylin,CHN,P.r. China,World Cup,Parallel Slalom,16,150.00
+32,Gong Naiying,Female,01-12-2024,Mylin,CHN,P.r. China,Qualification,Parallel Slalom,16,
+33,Gong Naiying,Female,30-11-2024,Mylin,CHN,P.r. China,World Cup,Parallel Giant Slalom,23,80.00
+34,Gong Naiying,Female,30-11-2024,Mylin,CHN,P.r. China,Qualification,Parallel Giant Slalom,23,
+35,Gong Naiying,Female,19-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Slalom,2,128.00
+36,Gong Naiying,Female,18-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,3,96.00
+37,Gong Naiying,Female,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,1,160.00
+38,Gong Naiying,Female,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,2,128.00
+39,Gong Naiying,Female,05-03-2024,High1resort,KOR,P.r. China,Asian Cup,Parallel Slalom,1,160.00
+40,Gong Naiying,Female,04-03-2024,High1resort,KOR,P.r. China,Asian Cup,Parallel Giant Slalom,1,160.00
+41,Gong Naiying,Female,01-03-2024,Jinshanling Galaxy Ski Resort,CHN,P.r. China,FIS,Parallel Slalom,1,110.00
+42,Gong Naiying,Female,29-02-2024,Jinshanling Galaxy Ski Resort,CHN,P.r. China,FIS,Parallel Giant Slalom,1,110.00
+43,Gong Naiying,Female,16-12-2023,Cortina d'Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,20,
+44,Gong Naiying,Female,16-12-2023,Cortina d'Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,20,110.00
+45,Gong Naiying,Female,14-12-2023,Carezza,ITA,P.r. China,Qualification,Parallel Giant Slalom,18,
+46,Gong Naiying,Female,14-12-2023,Carezza,ITA,P.r. China,World Cup,Parallel Giant Slalom,18,130.00
+47,Gong Naiying,Female,09-12-2023,Götschen,GER,P.r. China,Qualification,Parallel Slalom,7,
+48,Gong Naiying,Female,09-12-2023,Götschen,GER,P.r. China,European Cup,Parallel Slalom,12,79.20
+49,Gong Naiying,Female,08-12-2023,Götschen,GER,P.r. China,Qualification,Parallel Slalom,6,
+50,Gong Naiying,Female,08-12-2023,Götschen,GER,P.r. China,European Cup,Parallel Slalom,9,104.40
+51,Gong Naiying,Female,08-02-2022,Beijing,CHN,P.r. China,Qualification,Parallel Giant Slalom,19,
+52,Gong Naiying,Female,08-02-2022,Beijing,CHN,P.r. China,Olympic Winter Games,Parallel Giant Slalom,19,120.00
+53,Gong Naiying,Female,14-01-2022,Simonhöhe,AUT,P.r. China,World Cup,Parallel Giant Slalom,28,40.00
+54,Gong Naiying,Female,14-01-2022,Simonhöhe,AUT,P.r. China,Qualification,Parallel Giant Slalom,28,
+55,Gong Naiying,Female,11-01-2022,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,21,
+56,Gong Naiying,Female,11-01-2022,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,21,100.00
+57,Gong Naiying,Female,08-01-2022,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,15,
+58,Gong Naiying,Female,08-01-2022,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,8,320.00
+59,Gong Naiying,Female,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,37,
+60,Gong Naiying,Female,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,37,19.40
+61,Gong Naiying,Female,16-12-2021,Carezza,ITA,P.r. China,Qualification,Parallel Giant Slalom,25,
+62,Gong Naiying,Female,16-12-2021,Carezza,ITA,P.r. China,World Cup,Parallel Giant Slalom,25,60.00
+63,Gong Naiying,Female,12-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Slalom,52,
+64,Gong Naiying,Female,12-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Slalom,52,
+65,Gong Naiying,Female,11-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Giant Slalom,26,
+66,Gong Naiying,Female,11-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Giant Slalom,26,50.00
+67,Gong Naiying,Female,03-03-2020,Blue Mountain,CAN,P.r. China,Nor-Am Cup,Parallel Slalom,1,360.00
+68,Gong Naiying,Female,02-03-2020,Blue Mountain,CAN,P.r. China,Nor-Am Cup,Parallel Giant Slalom,DSQ,
+69,Gong Naiying,Female,01-03-2020,Blue Mountain,CAN,P.r. China,World Cup,Parallel Giant Slalom,6,400.00
+70,Gong Naiying,Female,01-03-2020,Blue Mountain,CAN,P.r. China,Qualification,Parallel Giant Slalom,8,
+71,Gong Naiying,Female,29-02-2020,Blue Mountain,CAN,P.r. China,World Cup,Parallel Giant Slalom,10,260.00
+72,Gong Naiying,Female,29-02-2020,Blue Mountain,CAN,P.r. China,Qualification,Parallel Giant Slalom,7,
+73,Gong Naiying,Female,09-02-2020,Gerlitzen,AUT,P.r. China,FIS,Giant Slalom,3,132.00
+74,Gong Naiying,Female,08-02-2020,Gerlitzen,AUT,P.r. China,FIS,Giant Slalom,1,220.00
+75,Gong Naiying,Female,26-01-2020,Piancavallo,ITA,P.r. China,World Cup,Parallel Slalom Team,23,
+76,Gong Naiying,Female,25-01-2020,Piancavallo,ITA,P.r. China,World Cup,Parallel Slalom,16,150.00
+77,Gong Naiying,Female,25-01-2020,Piancavallo,ITA,P.r. China,Qualification,Parallel Slalom,16,
+78,Gong Naiying,Female,18-01-2020,Rogla,SLO,P.r. China,World Cup,Parallel Giant Slalom,12,220.00
+79,Gong Naiying,Female,18-01-2020,Rogla,SLO,P.r. China,Qualification,Parallel Giant Slalom,9,
+80,Gong Naiying,Female,15-01-2020,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom Team,14,
+81,Gong Naiying,Female,14-01-2020,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,14,180.00
+82,Gong Naiying,Female,14-01-2020,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,14,
+83,Gong Naiying,Female,11-01-2020,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,19,120.00
+84,Gong Naiying,Female,11-01-2020,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,19,
+85,Gong Naiying,Female,29-12-2019,Wanlong Ski Resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,1,360.00
+86,Gong Naiying,Female,28-12-2019,Wanlong Ski Resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,1,360.00
+87,Gong Naiying,Female,19-12-2019,Carezza,ITA,P.r. China,Open,Parallel Giant Slalom,22,90.00
+88,Gong Naiying,Female,14-12-2019,Cortina d Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,18,130.00
+89,Gong Naiying,Female,14-12-2019,Cortina d Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,18,
+90,Gong Naiying,Female,08-12-2019,Bannoye,RUS,P.r. China,World Cup,Parallel Giant Slalom,11,240.00
+91,Gong Naiying,Female,08-12-2019,Bannoye,RUS,P.r. China,Qualification,Parallel Giant Slalom,8,
+92,Gong Naiying,Female,07-12-2019,Bannoye,RUS,P.r. China,World Cup,Parallel Slalom,18,130.00
+93,Gong Naiying,Female,07-12-2019,Bannoye,RUS,P.r. China,Qualification,Parallel Slalom,18,
+94,Gong Naiying,Female,30-11-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,1,320.00
+95,Gong Naiying,Female,29-11-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,8,115.20
+96,Gong Naiying,Female,07-04-2019,Racines,ITA,P.r. China,European Cup,Parallel Slalom,3,216.00
+97,Gong Naiying,Female,06-04-2019,Racines,ITA,P.r. China,European Cup,Parallel Slalom,5,162.00
+98,Gong Naiying,Female,24-03-2019,Winterberg,GER,P.r. China,World Cup,Parallel Slalom Team,14,
+99,Gong Naiying,Female,23-03-2019,Winterberg,GER,P.r. China,World Cup,Parallel Slalom,12,220.00
+100,Gong Naiying,Female,23-03-2019,Winterberg,GER,P.r. China,Qualification,Parallel Slalom,7,
+101,Gong Naiying,Female,17-03-2019,Rogla,SLO,P.r. China,European Cup,Parallel Giant Slalom,3,216.00
+102,Gong Naiying,Female,16-03-2019,Rogla,SLO,P.r. China,European Cup,Parallel Giant Slalom,4,180.00
+103,Gong Naiying,Female,09-03-2019,Scuol,SUI,P.r. China,World Cup,Parallel GS,12,220.00
+104,Gong Naiying,Female,09-03-2019,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,7,
+105,Gong Naiying,Female,28-02-2019,Secret Garden,CHN,P.r. China,Asian Cup,Parallel Slalom,2,208.00
+106,Gong Naiying,Female,27-02-2019,Secret Garden,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,1,200.00
+107,Gong Naiying,Female,24-02-2019,Secret Garden,CHN,P.r. China,World Cup,Parallel Slalom,1,1000.00
+108,Gong Naiying,Female,24-02-2019,Secret Garden,CHN,P.r. China,Qualification,Parallel Slalom,2,
+109,Gong Naiying,Female,23-02-2019,Secret Garden,CHN,P.r. China,World Cup,Parallel Giant Slalom,11,240.00
+110,Gong Naiying,Female,23-02-2019,Secret Garden,CHN,P.r. China,Qualification,Parallel Giant Slalom,11,
+111,Gong Naiying,Female,17-02-2019,Pyeongchang,KOR,P.r. China,World Cup,Parallel Giant Slalom,19,120.00
+112,Gong Naiying,Female,17-02-2019,Pyeongchang,KOR,P.r. China,Qualification,Parallel Giant Slalom,19,
+113,Gong Naiying,Female,16-02-2019,Pyeongchang,KOR,P.r. China,World Cup,Parallel Giant Slalom,18,130.00
+114,Gong Naiying,Female,16-02-2019,Pyeongchang,KOR,P.r. China,Qualification,Parallel Giant Slalom,18,
+115,Gong Naiying,Female,12-02-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,1,200.00
+116,Gong Naiying,Female,11-02-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,1,200.00
+117,Gong Naiying,Female,05-02-2019,Park City,USA,P.r. China,World Championships,Parallel Slalom,18,130.00
+118,Gong Naiying,Female,04-02-2019,Park City,USA,P.r. China,World Championships,Parallel Giant Slalom,34,
+119,Gong Naiying,Female,27-01-2019,Moscow,RUS,P.r. China,World Cup,Parallel Slalom Team,18,
+120,Gong Naiying,Female,26-01-2019,Moscow,RUS,P.r. China,World Cup,Parallel Slalom,27,
+121,Gong Naiying,Female,26-01-2019,Moscow,RUS,P.r. China,Qualification,Parallel Slalom,27,
+122,Gong Naiying,Female,19-01-2019,Rogla,SLO,P.r. China,World Cup,Parallel GS,6,400.00
+123,Gong Naiying,Female,19-01-2019,Rogla,SLO,P.r. China,Qualification,Parallel Giant Slalom,5,
+124,Gong Naiying,Female,11-01-2019,Bad Gastein,AUT,P.r. China,European Cup,Parallel Slalom,3,216.00
+125,Gong Naiying,Female,10-01-2019,Bad Gastein,AUT,P.r. China,European Cup,Parallel Slalom,6,144.00
+126,Gong Naiying,Female,09-01-2019,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom Team,19,
+127,Gong Naiying,Female,08-01-2019,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,18,130.00
+128,Gong Naiying,Female,08-01-2019,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,18,
+129,Gong Naiying,Female,15-12-2018,Cortina d'Ampezzo,ITA,P.r. China,World Cup,Parallel GS,8,320.00
+130,Gong Naiying,Female,15-12-2018,Cortina d'Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,9,
+131,Gong Naiying,Female,13-12-2018,Carezza,ITA,P.r. China,World Cup,Parallel GS,22,90.00
+132,Gong Naiying,Female,13-12-2018,Carezza,ITA,P.r. China,Qualification,Parallel Giant Slalom,22,
+133,Gong Naiying,Female,06-09-2018,Cardrona,NZL,P.r. China,FIS Junior World Championships,Parallel Slalom,5,162.00
+134,Gong Naiying,Female,05-09-2018,Cardrona,NZL,P.r. China,FIS Junior World Championships,Parallel GS,2,288.00
+135,Gong Naiying,Female,25-03-2018,Davos,SUI,P.r. China,European Cup,Parallel Slalom,5,162.00
+136,Gong Naiying,Female,24-03-2018,Davos,SUI,P.r. China,European Cup,Parallel GS,5,162.00
+137,Gong Naiying,Female,21-03-2018,Rogla,SLO,P.r. China,European Cup,Parallel GS,5,162.00
+138,Gong Naiying,Female,20-03-2018,Rogla,SLO,P.r. China,European Cup,Parallel GS,4,180.00
+139,Gong Naiying,Female,17-03-2018,Winterberg,GER,P.r. China,World Cup,Parallel Slalom,32,26.00
+140,Gong Naiying,Female,17-03-2018,Winterberg,GER,P.r. China,Qualification,Parallel Slalom,32,
+141,Gong Naiying,Female,11-03-2018,Tauplitz,AUT,P.r. China,European Cup,Parallel Slalom,17,40.60
+142,Gong Naiying,Female,10-03-2018,Scuol,SUI,P.r. China,World Cup,Parallel GS,24,70.00
+143,Gong Naiying,Female,10-03-2018,Scuol,SUI,P.r. China,Qualification,Parallel GS,24,
+144,Gong Naiying,Female,03-03-2018,Kayseri,TUR,P.r. China,World Cup,Parallel GS,DSQ,
+145,Gong Naiying,Female,03-03-2018,Kayseri,TUR,P.r. China,Qualification,Parallel GS,DSQ,
+146,Gong Naiying,Female,24-02-2018,Phoenix Snow Park,KOR,P.r. China,Qualification,Parallel GS,26,
+147,Gong Naiying,Female,24-02-2018,Phoenix Snow Park,KOR,P.r. China,Olympic Winter Games,Parallel GS,26,50.00
+148,Gong Naiying,Female,28-01-2018,Bansko,BUL,P.r. China,World Cup,Parallel GS,19,120.00
+149,Gong Naiying,Female,28-01-2018,Bansko,BUL,P.r. China,Qualification,Parallel GS,19,
+150,Gong Naiying,Female,26-01-2018,Bansko,BUL,P.r. China,World Cup,Parallel GS,30,32.00
+151,Gong Naiying,Female,26-01-2018,Bansko,BUL,P.r. China,Qualification,Parallel GS,30,
+152,Gong Naiying,Female,21-01-2018,Rogla,SLO,P.r. China,World Cup,Parallel GS,12,220.00
+153,Gong Naiying,Female,21-01-2018,Rogla,SLO,P.r. China,Qualification,Parallel GS,12,
+154,Gong Naiying,Female,20-01-2018,Rogla,SLO,P.r. China,World Cup,Parallel GS,21,100.00
+155,Gong Naiying,Female,20-01-2018,Rogla,SLO,P.r. China,Qualification,Parallel GS,21,
+156,Gong Naiying,Female,12-01-2018,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,30,32.00
+157,Gong Naiying,Female,12-01-2018,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,30,
+158,Gong Naiying,Female,05-01-2018,Lackenhof,AUT,P.r. China,World Cup,Parallel GS,36,19.70
+159,Gong Naiying,Female,05-01-2018,Lackenhof,AUT,P.r. China,Qualification,Parallel GS,36,
+160,Gong Naiying,Female,16-12-2017,Cortina d'Ampezzo,ITA,P.r. China,World Cup,Parallel Slalom,13,200.00
+161,Gong Naiying,Female,16-12-2017,Cortina d'Ampezzo,ITA,P.r. China,Qualification,Parallel Slalom,8,
+162,Gong Naiying,Female,15-12-2017,Cortina d'Ampezzo,ITA,P.r. China,World Cup,Parallel GS,15,160.00
+163,Gong Naiying,Female,15-12-2017,Cortina d'Ampezzo,ITA,P.r. China,Qualification,Parallel GS,15,
+164,Gong Naiying,Female,14-12-2017,Carezza,ITA,P.r. China,World Cup,Parallel GS,37,19.40
+165,Gong Naiying,Female,14-12-2017,Carezza,ITA,P.r. China,Qualification,Parallel GS,37,
+166,Gong Naiying,Female,10-12-2017,Hochfügen,GER,P.r. China,European Cup,Parallel GS,17,50.40
+167,Gong Naiying,Female,09-12-2017,Hochfügen,GER,P.r. China,European Cup,Parallel GS,25,21.60
+168,Gong Naiying,Female,02-12-2017,Changchengling,CHN,P.r. China,National Championships,Parallel Slalom,1,160.00
+169,Gong Naiying,Female,01-12-2017,Changchengling,CHN,P.r. China,National Championships,Parallel GS,3,96.00
+170,Gong Naiying,Female,02-04-2017,Scuol,SUI,P.r. China,European Cup,Parallel Slalom,18,46.80
+171,Gong Naiying,Female,01-04-2017,Scuol,SUI,P.r. China,European Cup,Parallel GS,16,54.00
+172,Gong Naiying,Female,29-03-2017,Rogla,SLO,P.r. China,European Cup,Parallel Slalom,24,
+173,Gong Naiying,Female,25-03-2017,Racines,ITA,P.r. China,European Cup,Parallel Slalom,DNF1,
+174,Gong Naiying,Female,18-03-2017,Winterberg,GER,P.r. China,Qualification,Parallel Slalom,32,
+175,Gong Naiying,Female,18-03-2017,Winterberg,GER,P.r. China,World Cup,Parallel Slalom,32,26.00
+176,Gong Naiying,Female,16-03-2017,Sierra Nevada,ESP,P.r. China,World Championships,Parallel GS,21,100.00
+177,Gong Naiying,Female,15-03-2017,Sierra Nevada,ESP,P.r. China,World Championships,Parallel Slalom,27,45.00
+178,Gong Naiying,Female,05-03-2017, Erciyes-Kayseri,TUR,P.r. China,World Cup,Parallel GS,8,320.00
+179,Gong Naiying,Female,20-02-2017,Sapporo,JPN,P.r. China,FIS,Slalom,6,88.00
+180,Gong Naiying,Female,19-02-2017,Sapporo,JPN,P.r. China,FIS,Giant Slalom,3,132.00
+181,Gong Naiying,Female,12-02-2017,Phoenix Pyeongchang,KOR,P.r. China,World Cup,Parallel GS,24,70.00
+182,Gong Naiying,Female,05-02-2017,Bansko,BUL,P.r. China,World Cup,Parallel GS,25,60.00
+183,Gong Naiying,Female,03-02-2017,Bansko,BUL,P.r. China,World Cup,Parallel GS,27,45.00
+184,Gong Naiying,Female,28-01-2017,Rogla,SLO,P.r. China,World Cup,Parallel GS,21,100.00
+185,Gong Naiying,Female,21-01-2017,Livigno,ITA,P.r. China,European Cup,Parallel GS,28,14.40
+186,Gong Naiying,Female,20-01-2017,Livigno,ITA,P.r. China,European Cup,Parallel GS,15,57.60
+187,Gong Naiying,Female,17-12-2016,Cortina d'Ampezzo,ITA,P.r. China,World Cup,Parallel Slalom,22,90.00
+188,Gong Naiying,Female,15-12-2016,Carezza,ITA,P.r. China,World Cup,Parallel GS,13,200.00
+189,Gong Naiying,Female,11-12-2016,Hochfügen,GER,P.r. China,European Cup,Parallel GS,10,93.60
+190,Gong Naiying,Female,10-12-2016,Hochfügen,GER,P.r. China,European Cup,Parallel GS,23,28.80
+191,Gong Naiying,Female,04-11-2016,Landgraaf,NED,P.r. China,European Cup,Parallel Slalom,20,39.60
+192,Gong Naiying,Female,03-11-2016,Landgraaf,NED,P.r. China,European Cup,Parallel Slalom,29,12.96
+193,Gong Naiying,Female,08-04-2016,Breuil Cervinia - Valtournenche,ITA,P.r. China,National Championships,Parallel Slalom,3,192.00
+194,Gong Naiying,Female,07-04-2016,Breuil Cervinia - Valtournenche,ITA,P.r. China,National Championships,Parallel GS,1,320.00
+195,Gong Naiying,Female,03-04-2016,Rogla,SLO,P.r. China,FIS Junior World Championships,Parallel Slalom,12,79.20
+196,Gong Naiying,Female,02-04-2016,Rogla,SLO,P.r. China,FIS Junior World Championships,Parallel GS,13,72.00
+197,Gong Naiying,Female,29-03-2016,Sunny Valley,RUS,P.r. China,National Championships,Parallel Slalom,11,86.40
+198,Gong Naiying,Female,28-03-2016,Sunny Valley,RUS,P.r. China,National Championships,Parallel GS,19,43.20
+199,Gong Naiying,Female,22-03-2016,Ski Chantecler,CAN,P.r. China,Nor-Am Cup,Parallel Slalom,3,120.00
+200,Gong Naiying,Female,21-03-2016,Ski Chantecler,CAN,P.r. China,Nor-Am Cup,Parallel GS,2,160.00
+201,Gong Naiying,Female,06-03-2016,Tauplitz,AUT,P.r. China,FIS,Parallel Slalom,7,79.20
+202,Gong Naiying,Female,05-03-2016,Tauplitz,AUT,P.r. China,FIS,Parallel Slalom,7,79.20
+203,Gong Naiying,Female,21-02-2016,Lenzerheide,SUI,P.r. China,European Cup,Parallel Slalom,23,40.00
+204,Gong Naiying,Female,20-02-2016,Lenzerheide,SUI,P.r. China,European Cup,Parallel Slalom,19,60.00
+205,Gong Naiying,Female,11-03-2015,Yabuli,CHN,P.r. China,FIS Junior World Championships,Parallel Slalom,16,54.00
+206,Gong Naiying,Female,10-03-2015,Yabuli,CHN,P.r. China,FIS Junior World Championships,Parallel GS,7,129.60
+207,Gong Naiying,Female,23-01-2015,Lachtal,AUT,P.r. China,World Championships,Parallel GS,39,18.80
+208,Gong Naiying,Female,22-01-2015,Lachtal,AUT,P.r. China,World Championships,Parallel Slalom,40,0.00
+209,Gong Naiying,Female,25-03-2014,Chiesa in Valmalenco,ITA,P.r. China,FIS Junior World Championships,Parallel Slalom,15,57.60
+210,Gong Naiying,Female,24-03-2014,Chiesa in Valmalenco,ITA,P.r. China,FIS Junior World Championships,Parallel GS,25,21.60
+211,Gong Naiying,Female,14-03-2014,Mt Tremblant,CAN,P.r. China,Nor-Am Cup,Parallel Slalom,17,56.00
+212,Gong Naiying,Female,13-03-2014,Mt Tremblant,CAN,P.r. China,Nor-Am Cup,Parallel GS,5,180.00
+213,Gong Naiying,Female,12-03-2014,Mt Tremblant,CAN,P.r. China,National Junior Championships,Parallel GS,5,49.50
+214,Gong Naiying,Female,04-04-2013,Rusutsu,JPN,P.r. China,National Championships,Parallel GS,17,40.60
+215,Gong Naiying,Female,16-12-2012,Racines/Ratschings,ITA,P.r. China,European Cup,Parallel Slalom,52,0.00
+216,Gong Naiying,Female,15-12-2012,Racines/Ratschings,ITA,P.r. China,European Cup,Parallel Slalom,34,11.00
+217,Gong Naiying,Female,09-12-2012,Lachtal,AUT,P.r. China,European Cup,Parallel GS,DNF,
+218,Gong Naiying,Female,08-12-2012,Lachtal,AUT,P.r. China,European Cup,Parallel GS,57,6.70
