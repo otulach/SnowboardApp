@@ -1,31 +1,35 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Pesic Ilija,Male,13-03-2025,Kopaonik,SRB,Serbia,National Championships,Slalom,5,22.50
-1,Pesic Ilija,Male,12-03-2025,Kopaonik,SRB,Serbia,National Championships,Giant Slalom,7,18.00
-2,Pesic Ilija,Male,28-02-2025,Vitosha,BUL,Serbia,FIS,Snowboard Cross,DNS,
-3,Pesic Ilija,Male,28-02-2025,Vitosha,BUL,Serbia,National Championships,Snowboard Cross,DNS,
-4,Pesic Ilija,Male,23-02-2025,Sipark Matraszentistvan,HUN,Serbia,National Championships,Slopestyle,6,
-5,Pesic Ilija,Male,22-02-2025,Sipark Matraszentistvan,HUN,Serbia,Junior,Slopestyle,4,
-6,Pesic Ilija,Male,09-02-2025,Kopaonik,SRB,Serbia,FIS,Big Air,4,6.40
-7,Pesic Ilija,Male,08-02-2025,Kopaonik,SRB,Serbia,FIS,Slopestyle,4,9.80
-8,Pesic Ilija,Male,04-02-2025,Popova Sapka,MKD,Serbia,National Championships,Giant Slalom,DNS,
-9,Pesic Ilija,Male,04-02-2025,Popova Sapka,MKD,Serbia,National Championships,Giant Slalom,DNS,
-10,Pesic Ilija,Male,02-02-2025,Stara Planina,SRB,Serbia,FIS,Giant Slalom,16,
-11,Pesic Ilija,Male,02-02-2025,Stara Planina,SRB,Serbia,FIS,Giant Slalom,13,10.00
-12,Pesic Ilija,Male,01-02-2025,Stara Planina,SRB,Serbia,FIS,Slalom,8,16.00
-13,Pesic Ilija,Male,01-02-2025,Stara Planina,SRB,Serbia,FIS,Slalom,11,12.00
-14,Pesic Ilija,Male,16-01-2025,Kopaonik,SRB,Serbia,FIS,Slalom,7,18.00
-15,Pesic Ilija,Male,15-01-2025,Kopaonik,SRB,Serbia,FIS,Giant Slalom,8,16.00
-16,Pesic Ilija,Male,05-10-2024,SnowWorld Landgraaf,NED,Serbia,FIS,Rail Event,25,0.60
-17,Pesic Ilija,Male,04-10-2024,SnowWorld Landgraaf,NED,Serbia,FIS,Slopestyle,34,0.90
-18,Pesic Ilija,Male,03-10-2024,SnowWorld Landgraaf,NED,Serbia,FIS,Slopestyle,35,0.90
-19,Pesic Ilija,Male,01-03-2024,Kopaonik,SRB,Serbia,FIS,Big Air,12,8.30
-20,Pesic Ilija,Male,29-02-2024,Kopaonik,SRB,Serbia,FIS,Slopestyle,10,10.40
-21,Pesic Ilija,Male,03-02-2024,Kopaonik,SRB,Serbia,FIS,Big Air,7,7.80
-22,Pesic Ilija,Male,21-01-2024,Kopaonik,SRB,Serbia,FIS,Slopestyle,6,9.80
-23,Pesic Ilija,Male,20-01-2024,Kopaonik,SRB,Serbia,FIS,Big Air,4,8.00
-24,Pesic Ilija,Male,19-10-2023,"Ski Dubai, Mall of the Emirates (UAE)",UAE,Serbia,FIS,Slopestyle,4,22.10
-25,Pesic Ilija,Male,18-10-2023,"Ski Dubai, Mall of the Emirates (UAE)",UAE,Serbia,FIS,Slopestyle,7,4.70
-26,Pesic Ilija,Male,13-10-2023,SnowWorld Landgraaf,NED,Serbia,FIS,Slopestyle,34,1.20
-27,Pesic Ilija,Male,12-10-2023,SnowWorld Landgraaf,NED,Serbia,FIS,Slopestyle,36,0.10
-28,Pesic Ilija,Male,26-03-2023,Kopaonik,SRB,Serbia,National Championships,Big Air,5,15.50
-29,Pesic Ilija,Male,25-03-2023,Kopaonik,SRB,Serbia,National Championships,Slopestyle,4,23.70
+0,Pesic Ilija,Male,16-03-2025,Kopaonik,SRB,Serbia,National Championships,Big Air,7,7.80
+1,Pesic Ilija,Male,16-03-2025,Kopaonik,SRB,Serbia,National Championships,Slopestyle,6,12.30
+2,Pesic Ilija,Male,15-03-2025,Kopaonik,SRB,Serbia,National Championships,Big Air,6,
+3,Pesic Ilija,Male,14-03-2025,Kopaonik,SRB,Serbia,National Championships,Slopestyle,7,
+4,Pesic Ilija,Male,13-03-2025,Kopaonik,SRB,Serbia,National Championships,Slalom,5,22.50
+5,Pesic Ilija,Male,12-03-2025,Kopaonik,SRB,Serbia,National Championships,Giant Slalom,7,18.00
+6,Pesic Ilija,Male,28-02-2025,Vitosha,BUL,Serbia,FIS,Snowboard Cross,DNS,
+7,Pesic Ilija,Male,28-02-2025,Vitosha,BUL,Serbia,National Championships,Snowboard Cross,DNS,
+8,Pesic Ilija,Male,23-02-2025,Sipark Matraszentistvan,HUN,Serbia,National Championships,Slopestyle,6,
+9,Pesic Ilija,Male,22-02-2025,Sipark Matraszentistvan,HUN,Serbia,Junior,Slopestyle,4,
+10,Pesic Ilija,Male,09-02-2025,Kopaonik,SRB,Serbia,FIS,Big Air,4,6.40
+11,Pesic Ilija,Male,08-02-2025,Kopaonik,SRB,Serbia,FIS,Slopestyle,4,9.80
+12,Pesic Ilija,Male,04-02-2025,Popova Sapka,MKD,Serbia,FIS,Giant Slalom,DNS,
+13,Pesic Ilija,Male,04-02-2025,Popova Sapka,MKD,Serbia,National Championships,Giant Slalom,DNS,
+14,Pesic Ilija,Male,02-02-2025,Stara Planina,SRB,Serbia,FIS,Giant Slalom,13,10.00
+15,Pesic Ilija,Male,02-02-2025,Stara Planina,SRB,Serbia,FIS,Giant Slalom,16,
+16,Pesic Ilija,Male,01-02-2025,Stara Planina,SRB,Serbia,FIS,Slalom,8,16.00
+17,Pesic Ilija,Male,01-02-2025,Stara Planina,SRB,Serbia,FIS,Slalom,11,12.00
+18,Pesic Ilija,Male,16-01-2025,Kopaonik,SRB,Serbia,FIS,Slalom,7,18.00
+19,Pesic Ilija,Male,15-01-2025,Kopaonik,SRB,Serbia,FIS,Giant Slalom,8,16.00
+20,Pesic Ilija,Male,05-10-2024,SnowWorld Landgraaf,NED,Serbia,FIS,Rail Event,25,0.60
+21,Pesic Ilija,Male,04-10-2024,SnowWorld Landgraaf,NED,Serbia,FIS,Slopestyle,34,0.90
+22,Pesic Ilija,Male,03-10-2024,SnowWorld Landgraaf,NED,Serbia,FIS,Slopestyle,35,0.90
+23,Pesic Ilija,Male,01-03-2024,Kopaonik,SRB,Serbia,FIS,Big Air,12,8.30
+24,Pesic Ilija,Male,29-02-2024,Kopaonik,SRB,Serbia,FIS,Slopestyle,10,10.40
+25,Pesic Ilija,Male,03-02-2024,Kopaonik,SRB,Serbia,FIS,Big Air,7,7.80
+26,Pesic Ilija,Male,21-01-2024,Kopaonik,SRB,Serbia,FIS,Slopestyle,6,9.80
+27,Pesic Ilija,Male,20-01-2024,Kopaonik,SRB,Serbia,FIS,Big Air,4,8.00
+28,Pesic Ilija,Male,19-10-2023,"Ski Dubai, Mall of the Emirates (UAE)",UAE,Serbia,FIS,Slopestyle,4,22.10
+29,Pesic Ilija,Male,18-10-2023,"Ski Dubai, Mall of the Emirates (UAE)",UAE,Serbia,FIS,Slopestyle,7,4.70
+30,Pesic Ilija,Male,13-10-2023,SnowWorld Landgraaf,NED,Serbia,FIS,Slopestyle,34,1.20
+31,Pesic Ilija,Male,12-10-2023,SnowWorld Landgraaf,NED,Serbia,FIS,Slopestyle,36,0.10
+32,Pesic Ilija,Male,26-03-2023,Kopaonik,SRB,Serbia,National Championships,Big Air,5,15.50
+33,Pesic Ilija,Male,25-03-2023,Kopaonik,SRB,Serbia,National Championships,Slopestyle,4,23.70

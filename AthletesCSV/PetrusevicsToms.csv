@@ -1,90 +1,91 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Petrusevics Toms,Male,02-03-2025,Ergli,LAT,Latvia,National Championships,Big Air,5,22.10
-1,Petrusevics Toms,Male,01-03-2025,Ergli,LAT,Latvia,National Championships,Slopestyle,2,40.70
-2,Petrusevics Toms,Male,16-03-2019,Milzkalns,LAT,Latvia,FIS,Big Air,2,40.00
-3,Petrusevics Toms,Male,21-04-2018,Corvatsch,SUI,Latvia,European Cup,Big Air,25,21.60
-4,Petrusevics Toms,Male,18-04-2018,Corvatsch,SUI,Latvia,European Cup,Slopestyle,54,
-5,Petrusevics Toms,Male,17-03-2018,Seiser Alm,ITA,Latvia,World Cup,Slopestyle,48,16.10
-6,Petrusevics Toms,Male,16-03-2018,Seiser Alm,ITA,Latvia,Qualification,Slopestyle,23,
-7,Petrusevics Toms,Male,12-01-2018,Snowmass,USA,Latvia,World Cup,Slopestyle,DNS,
-8,Petrusevics Toms,Male,10-01-2018,Snowmass,USA,Latvia,Qualification,Slopestyle,DNS,
-9,Petrusevics Toms,Male,10-12-2017,Copper Mountain Resort,USA,Latvia,World Cup,Big Air,39,18.80
-10,Petrusevics Toms,Male,08-12-2017,Copper Mountain Resort,USA,Latvia,Qualification,Big Air,18,
-11,Petrusevics Toms,Male,02-12-2017,Moenchengladbach,GER,Latvia,World Cup,Big Air,45,
-12,Petrusevics Toms,Male,25-11-2017,Beijing,CHN,Latvia,World Cup,Big Air,24,70.00
-13,Petrusevics Toms,Male,24-11-2017,Beijing,CHN,Latvia,Qualification,Big Air,9,
-14,Petrusevics Toms,Male,04-09-2017,Cardrona,NZL,Latvia,World Cup,Slopestyle,36,19.70
-15,Petrusevics Toms,Male,03-09-2017,Cardrona,NZL,Latvia,Qualification,Slopestyle,18,
-16,Petrusevics Toms,Male,17-03-2017,Sierra Nevada,ESP,Latvia,World Championships,Big Air,DNS,
-17,Petrusevics Toms,Male,16-03-2017,Sierra Nevada,ESP,Latvia,Qualification,Big Air,DNS,
-18,Petrusevics Toms,Male,11-03-2017,Sierra Nevada,ESP,Latvia,World Championships,Slopestyle,58,
-19,Petrusevics Toms,Male,09-03-2017,Sierra Nevada,ESP,Latvia,Qualification,Slopestyle,29,
-20,Petrusevics Toms,Male,12-02-2017,Quebec City,CAN,Latvia,World Cup,Slopestyle,39,18.80
-21,Petrusevics Toms,Male,11-02-2017,Quebec City,CAN,Latvia,World Cup,Big Air,32,26.00
-22,Petrusevics Toms,Male,10-02-2017,Quebec City,CAN,Latvia,Qualification,Slopestyle,19,
-23,Petrusevics Toms,Male,09-02-2017,Quebec City,CAN,Latvia,Qualification,Big Air,17,
-24,Petrusevics Toms,Male,04-02-2017,Mammoth Mountain Resort,USA,Latvia,World Cup,Slopestyle,39,18.80
-25,Petrusevics Toms,Male,01-02-2017,Mammoth Mountain Resort,USA,Latvia,Qualification,Slopestyle,19,
-26,Petrusevics Toms,Male,27-01-2017,Seiser Alm,ITA,Latvia,World Cup,Slopestyle,28,40.00
-27,Petrusevics Toms,Male,25-01-2017,Seiser Alm,ITA,Latvia,Qualification,Slopestyle,18,
-28,Petrusevics Toms,Male,20-01-2017,Laax,SUI,Latvia,World Cup,Slopestyle,39,18.80
-29,Petrusevics Toms,Male,17-01-2017,Laax,SUI,Latvia,Qualification,Slopestyle,10,
-30,Petrusevics Toms,Male,14-01-2017,Kreischberg,AUT,Latvia,World Cup,Slopestyle,19,120.00
-31,Petrusevics Toms,Male,13-01-2017,Kreischberg,AUT,Latvia,Qualification,Slopestyle,11,
-32,Petrusevics Toms,Male,07-01-2017,Moscow,RUS,Latvia,World Cup,Big Air,18,130.00
-33,Petrusevics Toms,Male,17-12-2016,Copper,USA,Latvia,World Cup,Big Air,32,26.00
-34,Petrusevics Toms,Male,15-12-2016,Copper,USA,Latvia,Qualification,Big Air,18,
-35,Petrusevics Toms,Male,03-12-2016,Moenchengladbach,GER,Latvia,World Cup,Big Air,42,17.90
-36,Petrusevics Toms,Male,03-12-2016,Moenchengladbach,GER,Latvia,Qualification,Big Air,22,
-37,Petrusevics Toms,Male,12-11-2016,Milan,ITA,Latvia,World Cup,Big Air,32,26.00
-38,Petrusevics Toms,Male,12-11-2016,Milan,ITA,Latvia,Qualification,Big Air,15,
-39,Petrusevics Toms,Male,20-04-2016,Sils,SUI,Latvia,European Cup,Slopestyle,12,48.40
-40,Petrusevics Toms,Male,03-04-2016,Jasna,SVK,Latvia,European Cup,Slopestyle,2,160.00
-41,Petrusevics Toms,Male,02-04-2016,Jasna,SVK,Latvia,European Cup,Slopestyle,3,120.00
-42,Petrusevics Toms,Male,24-03-2016,Rogla,SLO,Latvia,European Cup,Slopestyle,1,200.00
-43,Petrusevics Toms,Male,23-03-2016,Rogla,SLO,Latvia,European Cup,Parallel GS,DNS1,
-44,Petrusevics Toms,Male,09-03-2016,Kopaonik,SRB,Latvia,European Cup,Big Air,5,90.00
-45,Petrusevics Toms,Male,08-03-2016,Kopaonik,SRB,Latvia,European Cup,Slopestyle,3,120.00
-46,Petrusevics Toms,Male,21-02-2016,Seiser Alm -Kastelruth,ITA,Latvia,European Cup,Slopestyle,11,48.00
-47,Petrusevics Toms,Male,20-02-2016,Seiser Alm -Kastelruth,ITA,Latvia,European Cup,Slopestyle,5,90.00
-48,Petrusevics Toms,Male,13-02-2016,Quebec,CAN,Latvia,World Cup,Big Air,27,
-49,Petrusevics Toms,Male,11-02-2016,Boston,USA,Latvia,World Cup,Big Air,24,70.00
-50,Petrusevics Toms,Male,21-01-2016,Mammoth,USA,Latvia,World Cup,Slopestyle,27,45.00
-51,Petrusevics Toms,Male,21-01-2016,Mammoth,USA,Latvia,Qualification,Slopestyle,14,
-52,Petrusevics Toms,Male,18-04-2015,Corvatsch,SUI,Latvia,European Cup,Slopestyle,22,32.40
-53,Petrusevics Toms,Male,24-03-2015,Strbske Pleso,SVK,Latvia,European Cup,Slopestyle,9,69.60
-54,Petrusevics Toms,Male,23-03-2015,Strbske Pleso,SVK,Latvia,European Cup,Slopestyle,5,108.00
-55,Petrusevics Toms,Male,14-03-2015,Spindleruv Mlyn,CZE,Latvia,World Cup,Slopestyle,21,100.00
-56,Petrusevics Toms,Male,13-03-2015,Spindleruv Mlyn,CZE,Latvia,Qualification,Slopestyle,21,
-57,Petrusevics Toms,Male,27-02-2015,Park City,USA,Latvia,World Cup,Slopestyle,21,100.00
-58,Petrusevics Toms,Male,25-02-2015,Park City,USA,Latvia,Qualification,Slopestyle,11,
-59,Petrusevics Toms,Male,21-02-2015,Stoneham,CAN,Latvia,World Cup,Slopestyle,22,90.00
-60,Petrusevics Toms,Male,20-02-2015,Stoneham,CAN,Latvia,World Cup,Big Air,22,90.00
-61,Petrusevics Toms,Male,19-02-2015,Stoneham,CAN,Latvia,Qualification,Slopestyle,10,
-62,Petrusevics Toms,Male,18-02-2015,Stoneham,CAN,Latvia,Qualification,Big Air,22,
-63,Petrusevics Toms,Male,17-12-2014,"Copper Mountain, CO",USA,Latvia,FIS,Slopestyle,69,
-64,Petrusevics Toms,Male,28-11-2014,Landgraaf,NED,Latvia,European Cup,Slopestyle,6,80.00
-65,Petrusevics Toms,Male,27-11-2014,Landgraaf,NED,Latvia,European Cup,Slopestyle,19,24.00
-66,Petrusevics Toms,Male,23-03-2014,Strbske Pleso,SVK,Latvia,European Cup,Slopestyle,1,360.00
-67,Petrusevics Toms,Male,22-03-2014,Strbske Pleso,SVK,Latvia,European Cup,Slopestyle,2,288.00
-68,Petrusevics Toms,Male,12-03-2014,Pamporovo,BUL,Latvia,European Cup,Slopestyle,14,64.80
-69,Petrusevics Toms,Male,11-03-2014,Pamporovo,BUL,Latvia,European Cup,Slopestyle,14,64.80
-70,Petrusevics Toms,Male,06-03-2014,Kreischberg,AUT,Latvia,World Cup,Slopestyle,15,160.00
-71,Petrusevics Toms,Male,05-03-2014,Kreischberg,AUT,Latvia,Qualification,Slopestyle,7,
-72,Petrusevics Toms,Male,19-01-2014,Stoneham,CAN,Latvia,World Cup,Slopestyle,38,19.10
-73,Petrusevics Toms,Male,22-12-2013,"Copper Mountain, CO",USA,Latvia,World Cup,Slopestyle,69,9.80
-74,Petrusevics Toms,Male,19-12-2013,"Copper Mountain, CO",USA,Latvia,Qualification,Slopestyle,18,
-75,Petrusevics Toms,Male,26-03-2013,Sierra Nevada,ESP,Latvia,World Cup,Slopestyle,88,4.10
-76,Petrusevics Toms,Male,25-03-2013,Sierra Nevada,ESP,Latvia,Qualification,Slopestyle,23,
-77,Petrusevics Toms,Male,21-03-2013,Rogla,SLO,Latvia,European Cup,Slopestyle,1,360.00
-78,Petrusevics Toms,Male,16-03-2013,Brand,AUT,Latvia,European Cup,Slopestyle,2,288.00
-79,Petrusevics Toms,Male,16-03-2013,Spindleruv Mlyn,CZE,Latvia,World Cup,Slopestyle,54,14.30
-80,Petrusevics Toms,Male,15-03-2013,Spindleruv Mlyn,CZE,Latvia,Qualification,Slopestyle,13,
-81,Petrusevics Toms,Male,23-02-2013,Osogovo,BUL,Latvia,European Cup,Slopestyle,4,180.00
-82,Petrusevics Toms,Male,03-02-2013,Val Thorens,FRA,Latvia,European Cup,Slopestyle,3,216.00
-83,Petrusevics Toms,Male,14-11-2012,Landgraaf,NED,Latvia,European Cup,Slopestyle,22,32.40
-84,Petrusevics Toms,Male,10-11-2012,Antwerp,BEL,Latvia,World Cup,Big Air,51,0.00
-85,Petrusevics Toms,Male,16-03-2012,Val Thorens,FRA,Latvia,European Cup,Slopestyle,7,64.80
-86,Petrusevics Toms,Male,27-01-2012,Brand,AUT,Latvia,European Cup,Slopestyle,27,9.90
-87,Petrusevics Toms,Male,26-01-2012,Brand,AUT,Latvia,European Cup,Slopestyle,27,9.90
-88,Petrusevics Toms,Male,23-01-2012,Les 2 Alpes,FRA,Latvia,European Cup,Slopestyle,20,26.40
+0,Petrusevics Toms,Male,16-03-2025,Munakas,EST,Latvia,National Championships,Big Air,4,
+1,Petrusevics Toms,Male,02-03-2025,Ergli,LAT,Latvia,National Championships,Big Air,5,22.10
+2,Petrusevics Toms,Male,01-03-2025,Ergli,LAT,Latvia,National Championships,Slopestyle,2,40.70
+3,Petrusevics Toms,Male,16-03-2019,Milzkalns,LAT,Latvia,FIS,Big Air,2,40.00
+4,Petrusevics Toms,Male,21-04-2018,Corvatsch,SUI,Latvia,European Cup,Big Air,25,21.60
+5,Petrusevics Toms,Male,18-04-2018,Corvatsch,SUI,Latvia,European Cup,Slopestyle,54,
+6,Petrusevics Toms,Male,17-03-2018,Seiser Alm,ITA,Latvia,World Cup,Slopestyle,48,16.10
+7,Petrusevics Toms,Male,16-03-2018,Seiser Alm,ITA,Latvia,Qualification,Slopestyle,23,
+8,Petrusevics Toms,Male,12-01-2018,Snowmass,USA,Latvia,World Cup,Slopestyle,DNS,
+9,Petrusevics Toms,Male,10-01-2018,Snowmass,USA,Latvia,Qualification,Slopestyle,DNS,
+10,Petrusevics Toms,Male,10-12-2017,Copper Mountain Resort,USA,Latvia,World Cup,Big Air,39,18.80
+11,Petrusevics Toms,Male,08-12-2017,Copper Mountain Resort,USA,Latvia,Qualification,Big Air,18,
+12,Petrusevics Toms,Male,02-12-2017,Moenchengladbach,GER,Latvia,World Cup,Big Air,45,
+13,Petrusevics Toms,Male,25-11-2017,Beijing,CHN,Latvia,World Cup,Big Air,24,70.00
+14,Petrusevics Toms,Male,24-11-2017,Beijing,CHN,Latvia,Qualification,Big Air,9,
+15,Petrusevics Toms,Male,04-09-2017,Cardrona,NZL,Latvia,World Cup,Slopestyle,36,19.70
+16,Petrusevics Toms,Male,03-09-2017,Cardrona,NZL,Latvia,Qualification,Slopestyle,18,
+17,Petrusevics Toms,Male,17-03-2017,Sierra Nevada,ESP,Latvia,World Championships,Big Air,DNS,
+18,Petrusevics Toms,Male,16-03-2017,Sierra Nevada,ESP,Latvia,Qualification,Big Air,DNS,
+19,Petrusevics Toms,Male,11-03-2017,Sierra Nevada,ESP,Latvia,World Championships,Slopestyle,58,
+20,Petrusevics Toms,Male,09-03-2017,Sierra Nevada,ESP,Latvia,Qualification,Slopestyle,29,
+21,Petrusevics Toms,Male,12-02-2017,Quebec City,CAN,Latvia,World Cup,Slopestyle,39,18.80
+22,Petrusevics Toms,Male,11-02-2017,Quebec City,CAN,Latvia,World Cup,Big Air,32,26.00
+23,Petrusevics Toms,Male,10-02-2017,Quebec City,CAN,Latvia,Qualification,Slopestyle,19,
+24,Petrusevics Toms,Male,09-02-2017,Quebec City,CAN,Latvia,Qualification,Big Air,17,
+25,Petrusevics Toms,Male,04-02-2017,Mammoth Mountain Resort,USA,Latvia,World Cup,Slopestyle,39,18.80
+26,Petrusevics Toms,Male,01-02-2017,Mammoth Mountain Resort,USA,Latvia,Qualification,Slopestyle,19,
+27,Petrusevics Toms,Male,27-01-2017,Seiser Alm,ITA,Latvia,World Cup,Slopestyle,28,40.00
+28,Petrusevics Toms,Male,25-01-2017,Seiser Alm,ITA,Latvia,Qualification,Slopestyle,18,
+29,Petrusevics Toms,Male,20-01-2017,Laax,SUI,Latvia,World Cup,Slopestyle,39,18.80
+30,Petrusevics Toms,Male,17-01-2017,Laax,SUI,Latvia,Qualification,Slopestyle,10,
+31,Petrusevics Toms,Male,14-01-2017,Kreischberg,AUT,Latvia,World Cup,Slopestyle,19,120.00
+32,Petrusevics Toms,Male,13-01-2017,Kreischberg,AUT,Latvia,Qualification,Slopestyle,11,
+33,Petrusevics Toms,Male,07-01-2017,Moscow,RUS,Latvia,World Cup,Big Air,18,130.00
+34,Petrusevics Toms,Male,17-12-2016,Copper,USA,Latvia,World Cup,Big Air,32,26.00
+35,Petrusevics Toms,Male,15-12-2016,Copper,USA,Latvia,Qualification,Big Air,18,
+36,Petrusevics Toms,Male,03-12-2016,Moenchengladbach,GER,Latvia,World Cup,Big Air,42,17.90
+37,Petrusevics Toms,Male,03-12-2016,Moenchengladbach,GER,Latvia,Qualification,Big Air,22,
+38,Petrusevics Toms,Male,12-11-2016,Milan,ITA,Latvia,World Cup,Big Air,32,26.00
+39,Petrusevics Toms,Male,12-11-2016,Milan,ITA,Latvia,Qualification,Big Air,15,
+40,Petrusevics Toms,Male,20-04-2016,Sils,SUI,Latvia,European Cup,Slopestyle,12,48.40
+41,Petrusevics Toms,Male,03-04-2016,Jasna,SVK,Latvia,European Cup,Slopestyle,2,160.00
+42,Petrusevics Toms,Male,02-04-2016,Jasna,SVK,Latvia,European Cup,Slopestyle,3,120.00
+43,Petrusevics Toms,Male,24-03-2016,Rogla,SLO,Latvia,European Cup,Slopestyle,1,200.00
+44,Petrusevics Toms,Male,23-03-2016,Rogla,SLO,Latvia,European Cup,Parallel GS,DNS1,
+45,Petrusevics Toms,Male,09-03-2016,Kopaonik,SRB,Latvia,European Cup,Big Air,5,90.00
+46,Petrusevics Toms,Male,08-03-2016,Kopaonik,SRB,Latvia,European Cup,Slopestyle,3,120.00
+47,Petrusevics Toms,Male,21-02-2016,Seiser Alm -Kastelruth,ITA,Latvia,European Cup,Slopestyle,11,48.00
+48,Petrusevics Toms,Male,20-02-2016,Seiser Alm -Kastelruth,ITA,Latvia,European Cup,Slopestyle,5,90.00
+49,Petrusevics Toms,Male,13-02-2016,Quebec,CAN,Latvia,World Cup,Big Air,27,
+50,Petrusevics Toms,Male,11-02-2016,Boston,USA,Latvia,World Cup,Big Air,24,70.00
+51,Petrusevics Toms,Male,21-01-2016,Mammoth,USA,Latvia,World Cup,Slopestyle,27,45.00
+52,Petrusevics Toms,Male,21-01-2016,Mammoth,USA,Latvia,Qualification,Slopestyle,14,
+53,Petrusevics Toms,Male,18-04-2015,Corvatsch,SUI,Latvia,European Cup,Slopestyle,22,32.40
+54,Petrusevics Toms,Male,24-03-2015,Strbske Pleso,SVK,Latvia,European Cup,Slopestyle,9,69.60
+55,Petrusevics Toms,Male,23-03-2015,Strbske Pleso,SVK,Latvia,European Cup,Slopestyle,5,108.00
+56,Petrusevics Toms,Male,14-03-2015,Spindleruv Mlyn,CZE,Latvia,World Cup,Slopestyle,21,100.00
+57,Petrusevics Toms,Male,13-03-2015,Spindleruv Mlyn,CZE,Latvia,Qualification,Slopestyle,21,
+58,Petrusevics Toms,Male,27-02-2015,Park City,USA,Latvia,World Cup,Slopestyle,21,100.00
+59,Petrusevics Toms,Male,25-02-2015,Park City,USA,Latvia,Qualification,Slopestyle,11,
+60,Petrusevics Toms,Male,21-02-2015,Stoneham,CAN,Latvia,World Cup,Slopestyle,22,90.00
+61,Petrusevics Toms,Male,20-02-2015,Stoneham,CAN,Latvia,World Cup,Big Air,22,90.00
+62,Petrusevics Toms,Male,19-02-2015,Stoneham,CAN,Latvia,Qualification,Slopestyle,10,
+63,Petrusevics Toms,Male,18-02-2015,Stoneham,CAN,Latvia,Qualification,Big Air,22,
+64,Petrusevics Toms,Male,17-12-2014,"Copper Mountain, CO",USA,Latvia,FIS,Slopestyle,69,
+65,Petrusevics Toms,Male,28-11-2014,Landgraaf,NED,Latvia,European Cup,Slopestyle,6,80.00
+66,Petrusevics Toms,Male,27-11-2014,Landgraaf,NED,Latvia,European Cup,Slopestyle,19,24.00
+67,Petrusevics Toms,Male,23-03-2014,Strbske Pleso,SVK,Latvia,European Cup,Slopestyle,1,360.00
+68,Petrusevics Toms,Male,22-03-2014,Strbske Pleso,SVK,Latvia,European Cup,Slopestyle,2,288.00
+69,Petrusevics Toms,Male,12-03-2014,Pamporovo,BUL,Latvia,European Cup,Slopestyle,14,64.80
+70,Petrusevics Toms,Male,11-03-2014,Pamporovo,BUL,Latvia,European Cup,Slopestyle,14,64.80
+71,Petrusevics Toms,Male,06-03-2014,Kreischberg,AUT,Latvia,World Cup,Slopestyle,15,160.00
+72,Petrusevics Toms,Male,05-03-2014,Kreischberg,AUT,Latvia,Qualification,Slopestyle,7,
+73,Petrusevics Toms,Male,19-01-2014,Stoneham,CAN,Latvia,World Cup,Slopestyle,38,19.10
+74,Petrusevics Toms,Male,22-12-2013,"Copper Mountain, CO",USA,Latvia,World Cup,Slopestyle,69,9.80
+75,Petrusevics Toms,Male,19-12-2013,"Copper Mountain, CO",USA,Latvia,Qualification,Slopestyle,18,
+76,Petrusevics Toms,Male,26-03-2013,Sierra Nevada,ESP,Latvia,World Cup,Slopestyle,88,4.10
+77,Petrusevics Toms,Male,25-03-2013,Sierra Nevada,ESP,Latvia,Qualification,Slopestyle,23,
+78,Petrusevics Toms,Male,21-03-2013,Rogla,SLO,Latvia,European Cup,Slopestyle,1,360.00
+79,Petrusevics Toms,Male,16-03-2013,Brand,AUT,Latvia,European Cup,Slopestyle,2,288.00
+80,Petrusevics Toms,Male,16-03-2013,Spindleruv Mlyn,CZE,Latvia,World Cup,Slopestyle,54,14.30
+81,Petrusevics Toms,Male,15-03-2013,Spindleruv Mlyn,CZE,Latvia,Qualification,Slopestyle,13,
+82,Petrusevics Toms,Male,23-02-2013,Osogovo,BUL,Latvia,European Cup,Slopestyle,4,180.00
+83,Petrusevics Toms,Male,03-02-2013,Val Thorens,FRA,Latvia,European Cup,Slopestyle,3,216.00
+84,Petrusevics Toms,Male,14-11-2012,Landgraaf,NED,Latvia,European Cup,Slopestyle,22,32.40
+85,Petrusevics Toms,Male,10-11-2012,Antwerp,BEL,Latvia,World Cup,Big Air,51,0.00
+86,Petrusevics Toms,Male,16-03-2012,Val Thorens,FRA,Latvia,European Cup,Slopestyle,7,64.80
+87,Petrusevics Toms,Male,27-01-2012,Brand,AUT,Latvia,European Cup,Slopestyle,27,9.90
+88,Petrusevics Toms,Male,26-01-2012,Brand,AUT,Latvia,European Cup,Slopestyle,27,9.90
+89,Petrusevics Toms,Male,23-01-2012,Les 2 Alpes,FRA,Latvia,European Cup,Slopestyle,20,26.40
