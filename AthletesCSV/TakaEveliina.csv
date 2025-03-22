@@ -1,53 +1,55 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Taka Eveliina,Female,14-03-2025,Flachau,AUT,Finland,World Cup,Slopestyle,15,159.80
-1,Taka Eveliina,Female,13-03-2025,Flachau,AUT,Finland,Qualification,Slopestyle,9,
-2,Taka Eveliina,Female,22-02-2025,Calgary,CAN,Finland,World Cup,Slopestyle,16,106.90
-3,Taka Eveliina,Female,20-02-2025,Calgary,CAN,Finland,Qualification,Slopestyle,16,
-4,Taka Eveliina,Female,11-01-2025,Kreischberg,AUT,Finland,World Cup,Big Air,17,115.30
-5,Taka Eveliina,Female,09-01-2025,Kreischberg,AUT,Finland,Qualification,Big Air,17,
-6,Taka Eveliina,Female,05-01-2025,Klagenfurt,AUT,Finland,World Cup,Big Air,21,13.70
-7,Taka Eveliina,Female,03-01-2025,Klagenfurt,AUT,Finland,Qualification,Big Air,21,
-8,Taka Eveliina,Female,19-10-2024,Chur,SUI,Finland,World Cup,Big Air,13,183.90
-9,Taka Eveliina,Female,02-09-2024,Cardrona,NZL,Finland,World Cup,Slopestyle,21,88.40
-10,Taka Eveliina,Female,31-08-2024,Cardrona,NZL,Finland,Qualification,Slopestyle,21,
-11,Taka Eveliina,Female,14-04-2024,Corvatsch,SUI,Finland,European Cup Premium,Big Air,7,177.30
-12,Taka Eveliina,Female,12-04-2024,Corvatsch,SUI,Finland,European Cup Premium,Slopestyle,29,0.20
-13,Taka Eveliina,Female,06-04-2024,Alpe di Siusi/Seiseralm,ITA,Finland,National Championships,Slopestyle,3,48.80
-14,Taka Eveliina,Female,05-04-2024,Alpe di Siusi/Seiseralm,ITA,Finland,National Championships,Big Air,3,26.60
-15,Taka Eveliina,Female,23-03-2024,Silvaplana,SUI,Finland,World Cup,Slopestyle,21,28.80
-16,Taka Eveliina,Female,21-03-2024,Silvaplana,SUI,Finland,Qualification,Slopestyle,21,
-17,Taka Eveliina,Female,12-03-2024,Laax,SUI,Finland,European Cup Premium,Slopestyle,2,148.30
-18,Taka Eveliina,Female,15-02-2024,Davos,SUI,Finland,European Cup,Big Air,4,67.40
-19,Taka Eveliina,Female,20-01-2024,Laax,SUI,Finland,World Cup,Slopestyle,DNS,
-20,Taka Eveliina,Female,16-01-2024,Laax,SUI,Finland,Qualification,Slopestyle,DNS,
-21,Taka Eveliina,Female,15-12-2023,Copper Mountain,USA,Finland,World Cup,Big Air,DNS,
-22,Taka Eveliina,Female,13-12-2023,Copper Mountain,USA,Finland,Qualification,Big Air,DNS,
-23,Taka Eveliina,Female,09-12-2023,Edmonton,CAN,Finland,World Cup,Big Air,12,35.40
-24,Taka Eveliina,Female,08-12-2023,Edmonton,CAN,Finland,Qualification,Big Air,12,
-25,Taka Eveliina,Female,21-10-2023,Chur,SUI,Finland,World Cup,Big Air,10,191.40
-26,Taka Eveliina,Female,21-10-2023,Chur,SUI,Finland,Qualification,Big Air,10,
-27,Taka Eveliina,Female,09-04-2022,Kasurila,FIN,Finland,National Championships,Slopestyle,3,66.50
-28,Taka Eveliina,Female,07-04-2022,Kasurila,FIN,Finland,National Championships,Big Air,1,130.00
-29,Taka Eveliina,Female,27-03-2022,Silvaplana,SUI,Finland,World Cup,Slopestyle,6,393.30
-30,Taka Eveliina,Female,25-03-2022,Silvaplana,SUI,Finland,Qualification,Slopestyle,7,
-31,Taka Eveliina,Female,26-02-2022,Götschen,GER,Finland,European Cup,Big Air,13,18.90
-32,Taka Eveliina,Female,25-02-2022,Götschen,GER,Finland,European Cup,Slopestyle,12,34.60
-33,Taka Eveliina,Female,12-02-2022,Kotelnica Bialczanska,POL,Finland,European Cup Premium,Big Air,2,91.50
-34,Taka Eveliina,Female,08-01-2022,Mammoth Mountain,USA,Finland,World Cup,Slopestyle,18,90.00
-35,Taka Eveliina,Female,06-01-2022,Mammoth Mountain,USA,Finland,Qualification,Slopestyle,18,
-36,Taka Eveliina,Female,19-12-2021,Kiruna,SWE,Finland,FIS,Slopestyle,2,55.90
-37,Taka Eveliina,Female,17-04-2021,Ruka,FIN,Finland,National Championships,Slopestyle,3,97.49
-38,Taka Eveliina,Female,15-04-2021,Ruka,FIN,Finland,National Championships,Big Air,5,0.59
-39,Taka Eveliina,Female,05-03-2021,Götschen,GER,Finland,European Cup,Big Air,1,120.00
-40,Taka Eveliina,Female,04-03-2021,Flachauwinkel,AUT,Finland,European Cup,Big Air,1,140.00
-41,Taka Eveliina,Female,22-02-2021,Götschen,GER,Finland,European Cup,Big Air,15,0.11
-42,Taka Eveliina,Female,31-01-2021,Crans Montana,SUI,Finland,European Cup,Slopestyle,5,127.67
-43,Taka Eveliina,Female,22-01-2020,Leysin,SUI,Finland,Youth Olympic Winter Games,Big Air,18,23.40
-44,Taka Eveliina,Female,21-01-2020,Leysin,SUI,Finland,Qualification,Big Air,18,
-45,Taka Eveliina,Female,18-01-2020,Leysin,SUI,Finland,Youth Olympic Winter Games,Slopestyle,8,51.20
-46,Taka Eveliina,Female,13-04-2019,Klaeppen,SWE,Finland,FIS Junior World Championships,Big Air,37,
-47,Taka Eveliina,Female,12-04-2019,Klaeppen,SWE,Finland,Qualification,Big Air,18,
-48,Taka Eveliina,Female,09-04-2019,Klaeppen,SWE,Finland,FIS Junior World Championships,Slopestyle,2,192.00
-49,Taka Eveliina,Female,08-04-2019,Klaeppen,SWE,Finland,Qualification,Slopestyle,1,
-50,Taka Eveliina,Female,14-02-2019,Bjelasnica,BIH,Finland,European Youth Olympic Festival,Big Air,4,35.00
-51,Taka Eveliina,Female,12-02-2019,Bjelasnica,BIH,Finland,European Youth Olympic Festival,Slopestyle,2,96.00
+0,Taka Eveliina,Female,21-03-2025,Engadin,SUI,Finland,World Championships,Slopestyle,29,
+1,Taka Eveliina,Female,20-03-2025,Engadin,SUI,Finland,Qualification,Slopestyle,29,
+2,Taka Eveliina,Female,14-03-2025,Flachau,AUT,Finland,World Cup,Slopestyle,15,159.80
+3,Taka Eveliina,Female,13-03-2025,Flachau,AUT,Finland,Qualification,Slopestyle,9,
+4,Taka Eveliina,Female,22-02-2025,Calgary,CAN,Finland,World Cup,Slopestyle,16,106.90
+5,Taka Eveliina,Female,20-02-2025,Calgary,CAN,Finland,Qualification,Slopestyle,16,
+6,Taka Eveliina,Female,11-01-2025,Kreischberg,AUT,Finland,World Cup,Big Air,17,115.30
+7,Taka Eveliina,Female,09-01-2025,Kreischberg,AUT,Finland,Qualification,Big Air,17,
+8,Taka Eveliina,Female,05-01-2025,Klagenfurt,AUT,Finland,World Cup,Big Air,21,13.70
+9,Taka Eveliina,Female,03-01-2025,Klagenfurt,AUT,Finland,Qualification,Big Air,21,
+10,Taka Eveliina,Female,19-10-2024,Chur,SUI,Finland,World Cup,Big Air,13,183.90
+11,Taka Eveliina,Female,02-09-2024,Cardrona,NZL,Finland,World Cup,Slopestyle,21,88.40
+12,Taka Eveliina,Female,31-08-2024,Cardrona,NZL,Finland,Qualification,Slopestyle,21,
+13,Taka Eveliina,Female,14-04-2024,Corvatsch,SUI,Finland,European Cup Premium,Big Air,7,177.30
+14,Taka Eveliina,Female,12-04-2024,Corvatsch,SUI,Finland,European Cup Premium,Slopestyle,29,0.20
+15,Taka Eveliina,Female,06-04-2024,Alpe di Siusi/Seiseralm,ITA,Finland,National Championships,Slopestyle,3,48.80
+16,Taka Eveliina,Female,05-04-2024,Alpe di Siusi/Seiseralm,ITA,Finland,National Championships,Big Air,3,26.60
+17,Taka Eveliina,Female,23-03-2024,Silvaplana,SUI,Finland,World Cup,Slopestyle,21,28.80
+18,Taka Eveliina,Female,21-03-2024,Silvaplana,SUI,Finland,Qualification,Slopestyle,21,
+19,Taka Eveliina,Female,12-03-2024,Laax,SUI,Finland,European Cup Premium,Slopestyle,2,148.30
+20,Taka Eveliina,Female,15-02-2024,Davos,SUI,Finland,European Cup,Big Air,4,67.40
+21,Taka Eveliina,Female,20-01-2024,Laax,SUI,Finland,World Cup,Slopestyle,DNS,
+22,Taka Eveliina,Female,16-01-2024,Laax,SUI,Finland,Qualification,Slopestyle,DNS,
+23,Taka Eveliina,Female,15-12-2023,Copper Mountain,USA,Finland,World Cup,Big Air,DNS,
+24,Taka Eveliina,Female,13-12-2023,Copper Mountain,USA,Finland,Qualification,Big Air,DNS,
+25,Taka Eveliina,Female,09-12-2023,Edmonton,CAN,Finland,World Cup,Big Air,12,35.40
+26,Taka Eveliina,Female,08-12-2023,Edmonton,CAN,Finland,Qualification,Big Air,12,
+27,Taka Eveliina,Female,21-10-2023,Chur,SUI,Finland,World Cup,Big Air,10,191.40
+28,Taka Eveliina,Female,21-10-2023,Chur,SUI,Finland,Qualification,Big Air,10,
+29,Taka Eveliina,Female,09-04-2022,Kasurila,FIN,Finland,National Championships,Slopestyle,3,66.50
+30,Taka Eveliina,Female,07-04-2022,Kasurila,FIN,Finland,National Championships,Big Air,1,130.00
+31,Taka Eveliina,Female,27-03-2022,Silvaplana,SUI,Finland,World Cup,Slopestyle,6,393.30
+32,Taka Eveliina,Female,25-03-2022,Silvaplana,SUI,Finland,Qualification,Slopestyle,7,
+33,Taka Eveliina,Female,26-02-2022,Götschen,GER,Finland,European Cup,Big Air,13,18.90
+34,Taka Eveliina,Female,25-02-2022,Götschen,GER,Finland,European Cup,Slopestyle,12,34.60
+35,Taka Eveliina,Female,12-02-2022,Kotelnica Bialczanska,POL,Finland,European Cup Premium,Big Air,2,91.50
+36,Taka Eveliina,Female,08-01-2022,Mammoth Mountain,USA,Finland,World Cup,Slopestyle,18,90.00
+37,Taka Eveliina,Female,06-01-2022,Mammoth Mountain,USA,Finland,Qualification,Slopestyle,18,
+38,Taka Eveliina,Female,19-12-2021,Kiruna,SWE,Finland,FIS,Slopestyle,2,55.90
+39,Taka Eveliina,Female,17-04-2021,Ruka,FIN,Finland,National Championships,Slopestyle,3,97.49
+40,Taka Eveliina,Female,15-04-2021,Ruka,FIN,Finland,National Championships,Big Air,5,0.59
+41,Taka Eveliina,Female,05-03-2021,Götschen,GER,Finland,European Cup,Big Air,1,120.00
+42,Taka Eveliina,Female,04-03-2021,Flachauwinkel,AUT,Finland,European Cup,Big Air,1,140.00
+43,Taka Eveliina,Female,22-02-2021,Götschen,GER,Finland,European Cup,Big Air,15,0.11
+44,Taka Eveliina,Female,31-01-2021,Crans Montana,SUI,Finland,European Cup,Slopestyle,5,127.67
+45,Taka Eveliina,Female,22-01-2020,Leysin,SUI,Finland,Youth Olympic Winter Games,Big Air,18,23.40
+46,Taka Eveliina,Female,21-01-2020,Leysin,SUI,Finland,Qualification,Big Air,18,
+47,Taka Eveliina,Female,18-01-2020,Leysin,SUI,Finland,Youth Olympic Winter Games,Slopestyle,8,51.20
+48,Taka Eveliina,Female,13-04-2019,Klaeppen,SWE,Finland,FIS Junior World Championships,Big Air,37,
+49,Taka Eveliina,Female,12-04-2019,Klaeppen,SWE,Finland,Qualification,Big Air,18,
+50,Taka Eveliina,Female,09-04-2019,Klaeppen,SWE,Finland,FIS Junior World Championships,Slopestyle,2,192.00
+51,Taka Eveliina,Female,08-04-2019,Klaeppen,SWE,Finland,Qualification,Slopestyle,1,
+52,Taka Eveliina,Female,14-02-2019,Bjelasnica,BIH,Finland,European Youth Olympic Festival,Big Air,4,35.00
+53,Taka Eveliina,Female,12-02-2019,Bjelasnica,BIH,Finland,European Youth Olympic Festival,Slopestyle,2,96.00

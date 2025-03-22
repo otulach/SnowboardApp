@@ -1,24 +1,26 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Schwab Alex,Male,10-03-2025,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Big Air,33,7.80
-1,Schwab Alex,Male,09-03-2025,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,27,20.20
-2,Schwab Alex,Male,05-03-2025,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,27,16.10
-3,Schwab Alex,Male,04-03-2025,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,11,72.70
-4,Schwab Alex,Male,26-02-2025,Winsport Calgary,CAN,United States Of America,Nor-Am Cup Premium,Big Air,16,37.20
-5,Schwab Alex,Male,25-02-2025,Winsport Calgary,CAN,United States Of America,Nor-Am Cup Premium,Slopestyle,27,48.50
-6,Schwab Alex,Male,12-02-2025,Aspen / Highlands,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,42,4.50
-7,Schwab Alex,Male,13-01-2025,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,13,31.60
-8,Schwab Alex,Male,14-04-2024,Corvatsch,SUI,United States Of America,European Cup Premium,Big Air,74,13.80
-9,Schwab Alex,Male,12-04-2024,Corvatsch,SUI,United States Of America,European Cup Premium,Slopestyle,102,2.50
-10,Schwab Alex,Male,03-04-2024,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,13,32.70
-11,Schwab Alex,Male,03-04-2024,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,10,22.00
-12,Schwab Alex,Male,17-03-2024,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,27,3.00
-13,Schwab Alex,Male,18-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Big Air,7,61.70
-14,Schwab Alex,Male,17-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,31,20.70
-15,Schwab Alex,Male,17-04-2023,Corvatsch,SUI,United States Of America,European Cup Premium,Big Air,43,30.10
-16,Schwab Alex,Male,14-04-2023,Corvatsch,SUI,United States Of America,European Cup Premium,Slopestyle,61,20.10
-17,Schwab Alex,Male,10-02-2023,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,31,13.90
-18,Schwab Alex,Male,26-01-2023,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,46,0.10
-19,Schwab Alex,Male,18-01-2023,Mount Snow,USA,United States Of America,FIS,Slopestyle,5,25.00
-20,Schwab Alex,Male,14-02-2022,Gore Mountain,USA,United States Of America,FIS,Slopestyle,8,15.00
-21,Schwab Alex,Male,04-02-2022,"Park City, UT",USA,United States Of America,FIS,Slopestyle,17,6.60
-22,Schwab Alex,Male,19-03-2021,"Winter Park Resort, CO",USA,United States Of America,FIS,Slopestyle,14,11.17
+0,Schwab Alex,Male,21-03-2025,"Mammoth Mountain, CA",USA,United States Of America,Nor-Am Cup,Big Air,5,
+1,Schwab Alex,Male,20-03-2025,"Mammoth Mountain, CA",USA,United States Of America,Nor-Am Cup,Slopestyle,37,4.30
+2,Schwab Alex,Male,10-03-2025,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Big Air,33,7.80
+3,Schwab Alex,Male,09-03-2025,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,27,20.20
+4,Schwab Alex,Male,05-03-2025,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,27,16.10
+5,Schwab Alex,Male,04-03-2025,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,11,72.70
+6,Schwab Alex,Male,26-02-2025,Winsport Calgary,CAN,United States Of America,Nor-Am Cup Premium,Big Air,16,37.20
+7,Schwab Alex,Male,25-02-2025,Winsport Calgary,CAN,United States Of America,Nor-Am Cup Premium,Slopestyle,27,48.50
+8,Schwab Alex,Male,12-02-2025,Aspen / Highlands,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,42,4.50
+9,Schwab Alex,Male,13-01-2025,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,13,31.60
+10,Schwab Alex,Male,14-04-2024,Corvatsch,SUI,United States Of America,European Cup Premium,Big Air,74,13.80
+11,Schwab Alex,Male,12-04-2024,Corvatsch,SUI,United States Of America,European Cup Premium,Slopestyle,102,2.50
+12,Schwab Alex,Male,03-04-2024,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,13,32.70
+13,Schwab Alex,Male,03-04-2024,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,10,22.00
+14,Schwab Alex,Male,17-03-2024,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,27,3.00
+15,Schwab Alex,Male,18-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Big Air,7,61.70
+16,Schwab Alex,Male,17-01-2024,Sun Peaks,CAN,United States Of America,Nor-Am Cup,Slopestyle,31,20.70
+17,Schwab Alex,Male,17-04-2023,Corvatsch,SUI,United States Of America,European Cup Premium,Big Air,43,30.10
+18,Schwab Alex,Male,14-04-2023,Corvatsch,SUI,United States Of America,European Cup Premium,Slopestyle,61,20.10
+19,Schwab Alex,Male,10-02-2023,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,31,13.90
+20,Schwab Alex,Male,26-01-2023,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Slopestyle,46,0.10
+21,Schwab Alex,Male,18-01-2023,Mount Snow,USA,United States Of America,FIS,Slopestyle,5,25.00
+22,Schwab Alex,Male,14-02-2022,Gore Mountain,USA,United States Of America,FIS,Slopestyle,8,15.00
+23,Schwab Alex,Male,04-02-2022,"Park City, UT",USA,United States Of America,FIS,Slopestyle,17,6.60
+24,Schwab Alex,Male,19-03-2021,"Winter Park Resort, CO",USA,United States Of America,FIS,Slopestyle,14,11.17

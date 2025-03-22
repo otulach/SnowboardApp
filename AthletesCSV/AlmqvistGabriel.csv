@@ -1,81 +1,83 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Almqvist Gabriel,Male,22-02-2025,Calgary,CAN,Sweden,World Cup,Slopestyle,38,88.00
-1,Almqvist Gabriel,Male,20-02-2025,Calgary,CAN,Sweden,Qualification,Slopestyle,19,
-2,Almqvist Gabriel,Male,06-02-2025,Aspen,USA,Sweden,World Cup,Big Air,23,141.00
-3,Almqvist Gabriel,Male,05-02-2025,Aspen,USA,Sweden,Qualification,Big Air,10,
-4,Almqvist Gabriel,Male,02-02-2025,Aspen,USA,Sweden,World Cup,Slopestyle,43,59.30
-5,Almqvist Gabriel,Male,31-01-2025,Aspen,USA,Sweden,Qualification,Slopestyle,21,
-6,Almqvist Gabriel,Male,11-01-2025,Kreischberg,AUT,Sweden,Qualification,Big Air,20,
-7,Almqvist Gabriel,Male,11-01-2025,Kreischberg,AUT,Sweden,World Cup,Big Air,36,88.30
-8,Almqvist Gabriel,Male,05-01-2025,Font Romeu,FRA,Sweden,European Cup Premium,Slopestyle,42,13.60
-9,Almqvist Gabriel,Male,17-02-2024,Stockholm,SWE,Sweden,FIS,Slopestyle,1,100.00
-10,Almqvist Gabriel,Male,11-02-2024,Klaeppen,SWE,Sweden,FIS,Slopestyle,4,97.30
-11,Almqvist Gabriel,Male,20-01-2024,Laax,SUI,Sweden,World Cup,Slopestyle,51,34.70
-12,Almqvist Gabriel,Male,16-01-2024,Laax,SUI,Sweden,Qualification,Slopestyle,24,
-13,Almqvist Gabriel,Male,15-12-2023,Copper Mountain,USA,Sweden,World Cup,Big Air,27,135.20
-14,Almqvist Gabriel,Male,13-12-2023,Copper Mountain,USA,Sweden,Qualification,Big Air,13,
-15,Almqvist Gabriel,Male,09-12-2023,Edmonton,CAN,Sweden,World Cup,Big Air,27,126.30
-16,Almqvist Gabriel,Male,08-12-2023,Edmonton,CAN,Sweden,Qualification,Big Air,15,
-17,Almqvist Gabriel,Male,21-10-2023,Chur,SUI,Sweden,Qualification,Big Air,28,
-18,Almqvist Gabriel,Male,21-10-2023,Chur,SUI,Sweden,World Cup,Big Air,53,9.50
-19,Almqvist Gabriel,Male,01-04-2023,Klaeppen,SWE,Sweden,National Championships,Big Air,6,42.90
-20,Almqvist Gabriel,Male,31-03-2023,Klaeppen,SWE,Sweden,National Championships,Slopestyle,2,162.10
-21,Almqvist Gabriel,Male,26-03-2023,Funaesdalen,SWE,Sweden,FIS,Slopestyle,1,110.00
-22,Almqvist Gabriel,Male,04-03-2023,Bakuriani,GEO,Sweden,World Championships,Big Air,15,151.60
-23,Almqvist Gabriel,Male,02-03-2023,Bakuriani,GEO,Sweden,Qualification,Big Air,7,
-24,Almqvist Gabriel,Male,27-02-2023,Bakuriani,GEO,Sweden,World Championships,Slopestyle,34,68.30
-25,Almqvist Gabriel,Male,24-02-2023,Bakuriani,GEO,Sweden,Qualification,Slopestyle,17,
-26,Almqvist Gabriel,Male,18-02-2023,Jaervsoe,SWE,Sweden,FIS,Slopestyle,1,110.00
-27,Almqvist Gabriel,Male,12-02-2023,Klaeppen,SWE,Sweden,FIS,Slopestyle,9,9.30
-28,Almqvist Gabriel,Male,04-02-2023,Font Romeu,FRA,Sweden,European Cup,Big Air,2,132.80
-29,Almqvist Gabriel,Male,02-02-2023,Font Romeu,FRA,Sweden,European Cup,Slopestyle,18,27.40
-30,Almqvist Gabriel,Male,22-01-2023,Laax,SUI,Sweden,World Cup,Slopestyle,29,125.80
-31,Almqvist Gabriel,Male,18-01-2023,Laax,SUI,Sweden,Qualification,Slopestyle,14,
-32,Almqvist Gabriel,Male,14-01-2023,Kreischberg,AUT,Sweden,World Cup,Big Air,42,18.00
-33,Almqvist Gabriel,Male,13-01-2023,Kreischberg,AUT,Sweden,Qualification,Big Air,21,
-34,Almqvist Gabriel,Male,17-12-2022,Kiruna,SWE,Sweden,FIS,Slopestyle,3,148.40
-35,Almqvist Gabriel,Male,10-12-2022,Edmonton,CAN,Sweden,World Cup,Big Air,27,102.90
-36,Almqvist Gabriel,Male,09-12-2022,Edmonton,CAN,Sweden,Qualification,Big Air,14,
-37,Almqvist Gabriel,Male,02-04-2022,Klaeppen,SWE,Sweden,National Championships,Big Air,3,83.60
-38,Almqvist Gabriel,Male,01-04-2022,Klaeppen,SWE,Sweden,National Championships,Slopestyle,2,194.50
-39,Almqvist Gabriel,Male,19-03-2022,Jaervsoe,SWE,Sweden,FIS,Slopestyle,3,65.10
-40,Almqvist Gabriel,Male,15-03-2022,Laax,SUI,Sweden,European Cup Premium,Slopestyle,28,13.90
-41,Almqvist Gabriel,Male,13-02-2022,Klaeppen,SWE,Sweden,FIS,Slopestyle,9,12.40
-42,Almqvist Gabriel,Male,04-02-2022,Font Romeu,FRA,Sweden,FIS,Slopestyle,1,110.00
-43,Almqvist Gabriel,Male,03-02-2022,Font Romeu,FRA,Sweden,European Cup,Slopestyle,7,48.60
-44,Almqvist Gabriel,Male,22-01-2022,Hemavan,SWE,Sweden,FIS,Slopestyle,3,39.90
-45,Almqvist Gabriel,Male,19-12-2021,Kiruna,SWE,Sweden,FIS,Slopestyle,8,47.80
-46,Almqvist Gabriel,Male,19-11-2021,Landgraaf,NED,Sweden,European Cup,Slopestyle,4,129.90
-47,Almqvist Gabriel,Male,18-11-2021,Landgraaf,NED,Sweden,FIS,Slopestyle,3,153.60
-48,Almqvist Gabriel,Male,11-04-2021,Funaesdalen,SWE,Sweden,FIS,Slopestyle,2,40.51
-49,Almqvist Gabriel,Male,21-03-2021,Klaeppen,SWE,Sweden,National Championships,Big Air,1,50.00
-50,Almqvist Gabriel,Male,20-03-2021,Klaeppen,SWE,Sweden,National Championships,Slopestyle,10,9.13
-51,Almqvist Gabriel,Male,14-03-2021,Jarvsoe,SWE,Sweden,FIS,Slopestyle,8,22.40
-52,Almqvist Gabriel,Male,22-02-2021,Götschen,GER,Sweden,European Cup,Big Air,6,88.51
-53,Almqvist Gabriel,Male,21-02-2021,Götschen,GER,Sweden,European Cup,Slopestyle,10,52.36
-54,Almqvist Gabriel,Male,13-02-2021,Klaeppen,SWE,Sweden,FIS,Slopestyle,2,114.47
-55,Almqvist Gabriel,Male,08-02-2021,Kopaonik,SRB,Sweden,European Cup,Big Air,26,13.66
-56,Almqvist Gabriel,Male,31-01-2021,Crans Montana,SUI,Sweden,European Cup,Slopestyle,11,100.00
-57,Almqvist Gabriel,Male,07-03-2020, Jarvsoe,SWE,Sweden,FIS,Slopestyle,3,30.00
-58,Almqvist Gabriel,Male,08-02-2020,Klaeppen,SWE,Sweden,FIS,Slopestyle,4,35.00
-59,Almqvist Gabriel,Male,19-01-2020,Vars,FRA,Sweden,European Cup,Slopestyle,11,38.40
-60,Almqvist Gabriel,Male,18-01-2020,Vars,FRA,Sweden,European Cup,Big Air,12,35.20
-61,Almqvist Gabriel,Male,15-12-2019,Hemavan,SWE,Sweden,FIS,Slopestyle,5,22.50
-62,Almqvist Gabriel,Male,13-04-2019,Klaeppen,SWE,Sweden,FIS Junior World Championships,Big Air,21,24.00
-63,Almqvist Gabriel,Male,12-04-2019,Klaeppen,SWE,Sweden,Qualification,Big Air,6,
-64,Almqvist Gabriel,Male,09-04-2019,Klaeppen,SWE,Sweden,FIS Junior World Championships,Slopestyle,49,3.79
-65,Almqvist Gabriel,Male,08-04-2019,Klaeppen,SWE,Sweden,Qualification,Slopestyle,15,
-66,Almqvist Gabriel,Male,16-03-2019,Bollnaes,SWE,Sweden,FIS,Slopestyle,2,56.00
-67,Almqvist Gabriel,Male,09-03-2019,Falun,SWE,Sweden,FIS,Slopestyle,7,25.20
-68,Almqvist Gabriel,Male,09-02-2019,Klaeppen,SWE,Sweden,FIS,Slopestyle,1,50.00
-69,Almqvist Gabriel,Male,29-01-2019,Sundsvall,SWE,Sweden,National Championships,Big Air,2,96.00
-70,Almqvist Gabriel,Male,21-04-2018,Tandaadalen,SWE,Sweden,FIS,Slopestyle,13,26.00
-71,Almqvist Gabriel,Male,23-03-2018,Skellefteaa,SWE,Sweden,National Championships,Slopestyle,10,39.00
-72,Almqvist Gabriel,Male,21-03-2018,Skellefteaa,SWE,Sweden,National Championships,Big Air,10,28.60
-73,Almqvist Gabriel,Male,10-03-2018,Bollnaes,SWE,Sweden,FIS,Slopestyle,10,
-74,Almqvist Gabriel,Male,18-02-2018,Kungsberget,SWE,Sweden,FIS,Slopestyle,5,22.50
-75,Almqvist Gabriel,Male,27-01-2018,Klaeppen,SWE,Sweden,FIS,Slopestyle,11,
-76,Almqvist Gabriel,Male,01-04-2017,Spindleruv Mlyn,CZE,Sweden,FIS Junior World Championships,Big Air,30,7.68
-77,Almqvist Gabriel,Male,31-03-2017,Spindleruv Mlyn,CZE,Sweden,FIS Junior World Championships,Slopestyle,DNS,
-78,Almqvist Gabriel,Male,30-03-2017,Spindleruv Mlyn,CZE,Sweden,Qualification,Slopestyle,DNS,
-79,Almqvist Gabriel,Male,29-03-2017,Spindleruv Mlyn,CZE,Sweden,Qualification,Big Air,9,
+0,Almqvist Gabriel,Male,21-03-2025,Engadin,SUI,Sweden,World Championships,Slopestyle,21,
+1,Almqvist Gabriel,Male,20-03-2025,Engadin,SUI,Sweden,Qualification,Slopestyle,12,
+2,Almqvist Gabriel,Male,22-02-2025,Calgary,CAN,Sweden,World Cup,Slopestyle,38,88.00
+3,Almqvist Gabriel,Male,20-02-2025,Calgary,CAN,Sweden,Qualification,Slopestyle,19,
+4,Almqvist Gabriel,Male,06-02-2025,Aspen,USA,Sweden,World Cup,Big Air,23,141.00
+5,Almqvist Gabriel,Male,05-02-2025,Aspen,USA,Sweden,Qualification,Big Air,10,
+6,Almqvist Gabriel,Male,02-02-2025,Aspen,USA,Sweden,World Cup,Slopestyle,43,59.30
+7,Almqvist Gabriel,Male,31-01-2025,Aspen,USA,Sweden,Qualification,Slopestyle,21,
+8,Almqvist Gabriel,Male,11-01-2025,Kreischberg,AUT,Sweden,World Cup,Big Air,36,88.30
+9,Almqvist Gabriel,Male,11-01-2025,Kreischberg,AUT,Sweden,Qualification,Big Air,20,
+10,Almqvist Gabriel,Male,05-01-2025,Font Romeu,FRA,Sweden,European Cup Premium,Slopestyle,42,13.60
+11,Almqvist Gabriel,Male,17-02-2024,Stockholm,SWE,Sweden,FIS,Slopestyle,1,100.00
+12,Almqvist Gabriel,Male,11-02-2024,Klaeppen,SWE,Sweden,FIS,Slopestyle,4,97.30
+13,Almqvist Gabriel,Male,20-01-2024,Laax,SUI,Sweden,World Cup,Slopestyle,51,34.70
+14,Almqvist Gabriel,Male,16-01-2024,Laax,SUI,Sweden,Qualification,Slopestyle,24,
+15,Almqvist Gabriel,Male,15-12-2023,Copper Mountain,USA,Sweden,World Cup,Big Air,27,135.20
+16,Almqvist Gabriel,Male,13-12-2023,Copper Mountain,USA,Sweden,Qualification,Big Air,13,
+17,Almqvist Gabriel,Male,09-12-2023,Edmonton,CAN,Sweden,World Cup,Big Air,27,126.30
+18,Almqvist Gabriel,Male,08-12-2023,Edmonton,CAN,Sweden,Qualification,Big Air,15,
+19,Almqvist Gabriel,Male,21-10-2023,Chur,SUI,Sweden,World Cup,Big Air,53,9.50
+20,Almqvist Gabriel,Male,21-10-2023,Chur,SUI,Sweden,Qualification,Big Air,28,
+21,Almqvist Gabriel,Male,01-04-2023,Klaeppen,SWE,Sweden,National Championships,Big Air,6,42.90
+22,Almqvist Gabriel,Male,31-03-2023,Klaeppen,SWE,Sweden,National Championships,Slopestyle,2,162.10
+23,Almqvist Gabriel,Male,26-03-2023,Funaesdalen,SWE,Sweden,FIS,Slopestyle,1,110.00
+24,Almqvist Gabriel,Male,04-03-2023,Bakuriani,GEO,Sweden,World Championships,Big Air,15,151.60
+25,Almqvist Gabriel,Male,02-03-2023,Bakuriani,GEO,Sweden,Qualification,Big Air,7,
+26,Almqvist Gabriel,Male,27-02-2023,Bakuriani,GEO,Sweden,World Championships,Slopestyle,34,68.30
+27,Almqvist Gabriel,Male,24-02-2023,Bakuriani,GEO,Sweden,Qualification,Slopestyle,17,
+28,Almqvist Gabriel,Male,18-02-2023,Jaervsoe,SWE,Sweden,FIS,Slopestyle,1,110.00
+29,Almqvist Gabriel,Male,12-02-2023,Klaeppen,SWE,Sweden,FIS,Slopestyle,9,9.30
+30,Almqvist Gabriel,Male,04-02-2023,Font Romeu,FRA,Sweden,European Cup,Big Air,2,132.80
+31,Almqvist Gabriel,Male,02-02-2023,Font Romeu,FRA,Sweden,European Cup,Slopestyle,18,27.40
+32,Almqvist Gabriel,Male,22-01-2023,Laax,SUI,Sweden,World Cup,Slopestyle,29,125.80
+33,Almqvist Gabriel,Male,18-01-2023,Laax,SUI,Sweden,Qualification,Slopestyle,14,
+34,Almqvist Gabriel,Male,14-01-2023,Kreischberg,AUT,Sweden,World Cup,Big Air,42,18.00
+35,Almqvist Gabriel,Male,13-01-2023,Kreischberg,AUT,Sweden,Qualification,Big Air,21,
+36,Almqvist Gabriel,Male,17-12-2022,Kiruna,SWE,Sweden,FIS,Slopestyle,3,148.40
+37,Almqvist Gabriel,Male,10-12-2022,Edmonton,CAN,Sweden,World Cup,Big Air,27,102.90
+38,Almqvist Gabriel,Male,09-12-2022,Edmonton,CAN,Sweden,Qualification,Big Air,14,
+39,Almqvist Gabriel,Male,02-04-2022,Klaeppen,SWE,Sweden,National Championships,Big Air,3,83.60
+40,Almqvist Gabriel,Male,01-04-2022,Klaeppen,SWE,Sweden,National Championships,Slopestyle,2,194.50
+41,Almqvist Gabriel,Male,19-03-2022,Jaervsoe,SWE,Sweden,FIS,Slopestyle,3,65.10
+42,Almqvist Gabriel,Male,15-03-2022,Laax,SUI,Sweden,European Cup Premium,Slopestyle,28,13.90
+43,Almqvist Gabriel,Male,13-02-2022,Klaeppen,SWE,Sweden,FIS,Slopestyle,9,12.40
+44,Almqvist Gabriel,Male,04-02-2022,Font Romeu,FRA,Sweden,FIS,Slopestyle,1,110.00
+45,Almqvist Gabriel,Male,03-02-2022,Font Romeu,FRA,Sweden,European Cup,Slopestyle,7,48.60
+46,Almqvist Gabriel,Male,22-01-2022,Hemavan,SWE,Sweden,FIS,Slopestyle,3,39.90
+47,Almqvist Gabriel,Male,19-12-2021,Kiruna,SWE,Sweden,FIS,Slopestyle,8,47.80
+48,Almqvist Gabriel,Male,19-11-2021,Landgraaf,NED,Sweden,European Cup,Slopestyle,4,129.90
+49,Almqvist Gabriel,Male,18-11-2021,Landgraaf,NED,Sweden,FIS,Slopestyle,3,153.60
+50,Almqvist Gabriel,Male,11-04-2021,Funaesdalen,SWE,Sweden,FIS,Slopestyle,2,40.51
+51,Almqvist Gabriel,Male,21-03-2021,Klaeppen,SWE,Sweden,National Championships,Big Air,1,50.00
+52,Almqvist Gabriel,Male,20-03-2021,Klaeppen,SWE,Sweden,National Championships,Slopestyle,10,9.13
+53,Almqvist Gabriel,Male,14-03-2021,Jarvsoe,SWE,Sweden,FIS,Slopestyle,8,22.40
+54,Almqvist Gabriel,Male,22-02-2021,Götschen,GER,Sweden,European Cup,Big Air,6,88.51
+55,Almqvist Gabriel,Male,21-02-2021,Götschen,GER,Sweden,European Cup,Slopestyle,10,52.36
+56,Almqvist Gabriel,Male,13-02-2021,Klaeppen,SWE,Sweden,FIS,Slopestyle,2,114.47
+57,Almqvist Gabriel,Male,08-02-2021,Kopaonik,SRB,Sweden,European Cup,Big Air,26,13.66
+58,Almqvist Gabriel,Male,31-01-2021,Crans Montana,SUI,Sweden,European Cup,Slopestyle,11,100.00
+59,Almqvist Gabriel,Male,07-03-2020, Jarvsoe,SWE,Sweden,FIS,Slopestyle,3,30.00
+60,Almqvist Gabriel,Male,08-02-2020,Klaeppen,SWE,Sweden,FIS,Slopestyle,4,35.00
+61,Almqvist Gabriel,Male,19-01-2020,Vars,FRA,Sweden,European Cup,Slopestyle,11,38.40
+62,Almqvist Gabriel,Male,18-01-2020,Vars,FRA,Sweden,European Cup,Big Air,12,35.20
+63,Almqvist Gabriel,Male,15-12-2019,Hemavan,SWE,Sweden,FIS,Slopestyle,5,22.50
+64,Almqvist Gabriel,Male,13-04-2019,Klaeppen,SWE,Sweden,FIS Junior World Championships,Big Air,21,24.00
+65,Almqvist Gabriel,Male,12-04-2019,Klaeppen,SWE,Sweden,Qualification,Big Air,6,
+66,Almqvist Gabriel,Male,09-04-2019,Klaeppen,SWE,Sweden,FIS Junior World Championships,Slopestyle,49,3.79
+67,Almqvist Gabriel,Male,08-04-2019,Klaeppen,SWE,Sweden,Qualification,Slopestyle,15,
+68,Almqvist Gabriel,Male,16-03-2019,Bollnaes,SWE,Sweden,FIS,Slopestyle,2,56.00
+69,Almqvist Gabriel,Male,09-03-2019,Falun,SWE,Sweden,FIS,Slopestyle,7,25.20
+70,Almqvist Gabriel,Male,09-02-2019,Klaeppen,SWE,Sweden,FIS,Slopestyle,1,50.00
+71,Almqvist Gabriel,Male,29-01-2019,Sundsvall,SWE,Sweden,National Championships,Big Air,2,96.00
+72,Almqvist Gabriel,Male,21-04-2018,Tandaadalen,SWE,Sweden,FIS,Slopestyle,13,26.00
+73,Almqvist Gabriel,Male,23-03-2018,Skellefteaa,SWE,Sweden,National Championships,Slopestyle,10,39.00
+74,Almqvist Gabriel,Male,21-03-2018,Skellefteaa,SWE,Sweden,National Championships,Big Air,10,28.60
+75,Almqvist Gabriel,Male,10-03-2018,Bollnaes,SWE,Sweden,FIS,Slopestyle,10,
+76,Almqvist Gabriel,Male,18-02-2018,Kungsberget,SWE,Sweden,FIS,Slopestyle,5,22.50
+77,Almqvist Gabriel,Male,27-01-2018,Klaeppen,SWE,Sweden,FIS,Slopestyle,11,
+78,Almqvist Gabriel,Male,01-04-2017,Spindleruv Mlyn,CZE,Sweden,FIS Junior World Championships,Big Air,30,7.68
+79,Almqvist Gabriel,Male,31-03-2017,Spindleruv Mlyn,CZE,Sweden,FIS Junior World Championships,Slopestyle,DNS,
+80,Almqvist Gabriel,Male,30-03-2017,Spindleruv Mlyn,CZE,Sweden,Qualification,Slopestyle,DNS,
+81,Almqvist Gabriel,Male,29-03-2017,Spindleruv Mlyn,CZE,Sweden,Qualification,Big Air,9,

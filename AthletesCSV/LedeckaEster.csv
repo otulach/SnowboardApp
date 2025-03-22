@@ -1,146 +1,148 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Ledecka Ester,Female,01-12-2024,Mylin,CHN,Czechia,World Cup,Parallel Slalom,4,500.00
-1,Ledecka Ester,Female,01-12-2024,Mylin,CHN,Czechia,Qualification,Parallel Slalom,2,
-2,Ledecka Ester,Female,30-11-2024,Mylin,CHN,Czechia,World Cup,Parallel Giant Slalom,1,1000.00
-3,Ledecka Ester,Female,30-11-2024,Mylin,CHN,Czechia,Qualification,Parallel Giant Slalom,1,
-4,Ledecka Ester,Female,10-03-2024,Winterberg,GER,Czechia,World Cup,Parallel Slalom Team,16,
-5,Ledecka Ester,Female,09-03-2024,Winterberg,GER,Czechia,Qualification,Parallel Slalom,1,
-6,Ledecka Ester,Female,09-03-2024,Winterberg,GER,Czechia,World Cup,Parallel Slalom,1,1000.00
-7,Ledecka Ester,Female,21-01-2024,Pamporovo,BUL,Czechia,Qualification,Parallel Slalom,1,
-8,Ledecka Ester,Female,21-01-2024,Pamporovo,BUL,Czechia,World Cup,Parallel Slalom,1,1000.00
-9,Ledecka Ester,Female,20-01-2024,Pamporovo,BUL,Czechia,Qualification,Parallel Slalom,1,
-10,Ledecka Ester,Female,20-01-2024,Pamporovo,BUL,Czechia,World Cup,Parallel Slalom,1,1000.00
-11,Ledecka Ester,Female,18-03-2023,Berchtesgaden,GER,Czechia,Qualification,Parallel Slalom,1,
-12,Ledecka Ester,Female,18-03-2023,Berchtesgaden,GER,Czechia,World Cup,Parallel Slalom,1,1000.00
-13,Ledecka Ester,Female,15-03-2023,Rogla,SLO,Czechia,World Cup,Parallel Giant Slalom,2,800.00
-14,Ledecka Ester,Female,15-03-2023,Rogla,SLO,Czechia,Qualification,Parallel Giant Slalom,1,
-15,Ledecka Ester,Female,08-02-2022,Beijing,CHN,Czechia,Qualification,Parallel Giant Slalom,1,
-16,Ledecka Ester,Female,08-02-2022,Beijing,CHN,Czechia,Olympic Winter Games,Parallel Giant Slalom,1,1000.00
-17,Ledecka Ester,Female,18-12-2021,Cortina d Ampezzo,ITA,Czechia,Qualification,Parallel Giant Slalom,1,
-18,Ledecka Ester,Female,18-12-2021,Cortina d Ampezzo,ITA,Czechia,World Cup,Parallel Giant Slalom,1,1000.00
-19,Ledecka Ester,Female,16-12-2021,Carezza,ITA,Czechia,Qualification,Parallel Giant Slalom,1,
-20,Ledecka Ester,Female,16-12-2021,Carezza,ITA,Czechia,World Cup,Parallel Giant Slalom,2,800.00
-21,Ledecka Ester,Female,01-03-2021,Rogla,SLO,Czechia,World Championships,Parallel Giant Slalom,DNS,
-22,Ledecka Ester,Female,01-03-2021,Rogla,SLO,Czechia,Qualification,Parallel Giant Slalom,DNS,
-23,Ledecka Ester,Female,12-12-2020,Cortina d Ampezzo,ITA,Czechia,Qualification,Parallel Giant Slalom,1,
-24,Ledecka Ester,Female,12-12-2020,Cortina d Ampezzo,ITA,Czechia,World Cup,Parallel Giant Slalom,1,1000.00
-25,Ledecka Ester,Female,18-01-2020,Rogla,SLO,Czechia,World Cup,Parallel Giant Slalom,1,1000.00
-26,Ledecka Ester,Female,18-01-2020,Rogla,SLO,Czechia,Qualification,Parallel Giant Slalom,1,
-27,Ledecka Ester,Female,14-01-2020,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,2,800.00
-28,Ledecka Ester,Female,14-01-2020,Bad Gastein,AUT,Czechia,Qualification,Parallel Slalom,1,
-29,Ledecka Ester,Female,23-03-2019,Winterberg,GER,Czechia,World Cup,Parallel Slalom,5,450.00
-30,Ledecka Ester,Female,23-03-2019,Winterberg,GER,Czechia,Qualification,Parallel Slalom,1,
-31,Ledecka Ester,Female,09-03-2019,Scuol,SUI,Czechia,World Cup,Parallel GS,2,800.00
-32,Ledecka Ester,Female,09-03-2019,Scuol,SUI,Czechia,Qualification,Parallel Giant Slalom,1,
-33,Ledecka Ester,Female,24-02-2019,Secret Garden,CHN,Czechia,World Cup,Parallel Slalom,5,450.00
-34,Ledecka Ester,Female,24-02-2019,Secret Garden,CHN,Czechia,Qualification,Parallel Slalom,3,
-35,Ledecka Ester,Female,23-02-2019,Secret Garden,CHN,Czechia,World Cup,Parallel Giant Slalom,2,800.00
-36,Ledecka Ester,Female,23-02-2019,Secret Garden,CHN,Czechia,Qualification,Parallel Giant Slalom,1,
-37,Ledecka Ester,Female,17-02-2019,Pyeongchang,KOR,Czechia,World Cup,Parallel Giant Slalom,3,600.00
-38,Ledecka Ester,Female,17-02-2019,Pyeongchang,KOR,Czechia,Qualification,Parallel Giant Slalom,1,
-39,Ledecka Ester,Female,16-02-2019,Pyeongchang,KOR,Czechia,World Cup,Parallel Giant Slalom,1,1000.00
-40,Ledecka Ester,Female,16-02-2019,Pyeongchang,KOR,Czechia,Qualification,Parallel Giant Slalom,1,
-41,Ledecka Ester,Female,15-12-2018,Cortina d'Ampezzo,ITA,Czechia,World Cup,Parallel GS,1,1000.00
-42,Ledecka Ester,Female,15-12-2018,Cortina d'Ampezzo,ITA,Czechia,Qualification,Parallel Giant Slalom,1,
-43,Ledecka Ester,Female,13-12-2018,Carezza,ITA,Czechia,World Cup,Parallel GS,2,800.00
-44,Ledecka Ester,Female,13-12-2018,Carezza,ITA,Czechia,Qualification,Parallel Giant Slalom,1,
-45,Ledecka Ester,Female,10-03-2018,Scuol,SUI,Czechia,World Cup,Parallel GS,1,1000.00
-46,Ledecka Ester,Female,10-03-2018,Scuol,SUI,Czechia,Qualification,Parallel GS,2,
-47,Ledecka Ester,Female,03-03-2018,Kayseri,TUR,Czechia,World Cup,Parallel GS,2,800.00
-48,Ledecka Ester,Female,03-03-2018,Kayseri,TUR,Czechia,Qualification,Parallel GS,3,
-49,Ledecka Ester,Female,24-02-2018,Phoenix Snow Park,KOR,Czechia,Qualification,Parallel GS,1,
-50,Ledecka Ester,Female,24-02-2018,Phoenix Snow Park,KOR,Czechia,Olympic Winter Games,Parallel GS,1,1000.00
-51,Ledecka Ester,Female,28-01-2018,Bansko,BUL,Czechia,World Cup,Parallel GS,5,450.00
-52,Ledecka Ester,Female,28-01-2018,Bansko,BUL,Czechia,Qualification,Parallel GS,1,
-53,Ledecka Ester,Female,26-01-2018,Bansko,BUL,Czechia,World Cup,Parallel GS,1,1000.00
-54,Ledecka Ester,Female,26-01-2018,Bansko,BUL,Czechia,Qualification,Parallel GS,1,
-55,Ledecka Ester,Female,21-01-2018,Rogla,SLO,Czechia,World Cup,Parallel GS,DNS,
-56,Ledecka Ester,Female,21-01-2018,Rogla,SLO,Czechia,Qualification,Parallel GS,DNS,
-57,Ledecka Ester,Female,20-01-2018,Rogla,SLO,Czechia,World Cup,Parallel GS,1,1000.00
-58,Ledecka Ester,Female,20-01-2018,Rogla,SLO,Czechia,Qualification,Parallel GS,1,
-59,Ledecka Ester,Female,05-01-2018,Lackenhof,AUT,Czechia,World Cup,Parallel GS,1,1000.00
-60,Ledecka Ester,Female,05-01-2018,Lackenhof,AUT,Czechia,Qualification,Parallel GS,1,
-61,Ledecka Ester,Female,16-12-2017,Cortina d'Ampezzo,ITA,Czechia,World Cup,Parallel Slalom,9,290.00
-62,Ledecka Ester,Female,16-12-2017,Cortina d'Ampezzo,ITA,Czechia,Qualification,Parallel Slalom,1,
-63,Ledecka Ester,Female,15-12-2017,Cortina d'Ampezzo,ITA,Czechia,World Cup,Parallel GS,1,1000.00
-64,Ledecka Ester,Female,15-12-2017,Cortina d'Ampezzo,ITA,Czechia,Qualification,Parallel GS,1,
-65,Ledecka Ester,Female,14-12-2017,Carezza,ITA,Czechia,World Cup,Parallel GS,1,1000.00
-66,Ledecka Ester,Female,14-12-2017,Carezza,ITA,Czechia,Qualification,Parallel GS,1,
-67,Ledecka Ester,Female,18-03-2017,Winterberg,GER,Czechia,Qualification,Parallel Slalom,1,
-68,Ledecka Ester,Female,18-03-2017,Winterberg,GER,Czechia,World Cup,Parallel Slalom,2,800.00
-69,Ledecka Ester,Female,16-03-2017,Sierra Nevada,ESP,Czechia,World Championships,Parallel GS,1,1000.00
-70,Ledecka Ester,Female,15-03-2017,Sierra Nevada,ESP,Czechia,World Championships,Parallel Slalom,2,800.00
-71,Ledecka Ester,Female,05-03-2017, Erciyes-Kayseri,TUR,Czechia,World Cup,Parallel GS,1,1000.00
-72,Ledecka Ester,Female,28-01-2017,Rogla,SLO,Czechia,World Cup,Parallel GS,1,1000.00
-73,Ledecka Ester,Female,10-01-2017,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,10,260.00
-74,Ledecka Ester,Female,17-12-2016,Cortina d'Ampezzo,ITA,Czechia,World Cup,Parallel Slalom,1,1000.00
-75,Ledecka Ester,Female,15-12-2016,Carezza,ITA,Czechia,World Cup,Parallel GS,2,800.00
-76,Ledecka Ester,Female,06-03-2016,Winterberg,GER,Czechia,World Cup,Parallel Slalom,7,360.00
-77,Ledecka Ester,Female,27-02-2016,Kayseri,TUR,Czechia,World Cup,Parallel GS,1,1000.00
-78,Ledecka Ester,Female,30-01-2016,Moscow,RUS,Czechia,World Cup,Parallel Slalom,3,600.00
-79,Ledecka Ester,Female,23-01-2016,Rogla,SLO,Czechia,World Cup,Parallel GS,1,1000.00
-80,Ledecka Ester,Female,08-01-2016,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,9,290.00
-81,Ledecka Ester,Female,19-12-2015,Cortina d'Ampezzo,ITA,Czechia,World Cup,Parallel Slalom,4,500.00
-82,Ledecka Ester,Female,12-12-2015,Carezza,ITA,Czechia,World Cup,Parallel GS,1,1000.00
-83,Ledecka Ester,Female,19-11-2015,"Echo Mountain, CO",USA,Czechia,Nor-Am Cup,Parallel Slalom,6,200.00
-84,Ledecka Ester,Female,18-11-2015,"Echo Mountain, CO",USA,Czechia,Nor-Am Cup,Parallel Slalom,1,500.00
-85,Ledecka Ester,Female,14-03-2015,Winterberg,GER,Czechia,World Cup,Parallel Slalom,25,60.00
-86,Ledecka Ester,Female,07-03-2015,Moscow,RUS,Czechia,World Cup,Parallel Slalom,9,290.00
-87,Ledecka Ester,Female,01-03-2015,Asahikawa,JPN,Czechia,World Cup,Parallel Slalom,4,500.00
-88,Ledecka Ester,Female,28-02-2015,Asahikawa,JPN,Czechia,World Cup,Parallel GS,3,600.00
-89,Ledecka Ester,Female,07-02-2015,Sudelfeld,GER,Czechia,World Cup,Parallel GS,1,1000.00
-90,Ledecka Ester,Female,06-02-2015,Sudelfeld,GER,Czechia,Qualification,Parallel GS,1,
-91,Ledecka Ester,Female,31-01-2015,Rogla,SLO,Czechia,World Cup,Parallel GS,5,450.00
-92,Ledecka Ester,Female,23-01-2015,Lachtal,AUT,Czechia,World Championships,Parallel GS,5,450.00
-93,Ledecka Ester,Female,22-01-2015,Lachtal,AUT,Czechia,World Championships,Parallel Slalom,1,1000.00
-94,Ledecka Ester,Female,09-01-2015,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,1,1000.00
-95,Ledecka Ester,Female,06-01-2015,Dachstein West / Gosau,AUT,Czechia,FIS,Parallel Slalom,1,260.00
-96,Ledecka Ester,Female,05-01-2015,Dachstein West / Gosau,AUT,Czechia,FIS,Parallel Slalom,9,75.40
-97,Ledecka Ester,Female,16-12-2014,Carezza,ITA,Czechia,World Cup,Parallel GS,DNS,
-98,Ledecka Ester,Female,22-02-2014,Rosa Khutor,RUS,Czechia,Olympic Winter Games,Parallel Slalom,6,400.00
-99,Ledecka Ester,Female,19-02-2014,Rosa Khutor,RUS,Czechia,Olympic Winter Games,Parallel GS,7,360.00
-100,Ledecka Ester,Female,01-02-2014,Sudelfeld,GER,Czechia,World Cup,Parallel GS,5,450.00
-101,Ledecka Ester,Female,18-01-2014,Rogla,SLO,Czechia,World Cup,Parallel GS,1,1000.00
-102,Ledecka Ester,Female,12-01-2014,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,3,600.00
-103,Ledecka Ester,Female,10-01-2014,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,2,800.00
-104,Ledecka Ester,Female,14-12-2013,Carezza,ITA,Czechia,World Cup,Parallel Slalom,5,450.00
-105,Ledecka Ester,Female,13-12-2013,Carezza,ITA,Czechia,World Cup,Parallel GS,6,400.00
-106,Ledecka Ester,Female,15-11-2013,"Copper Mountain, CO",USA,Czechia,Nor-Am Cup,Parallel Slalom,1,500.00
-107,Ledecka Ester,Female,14-11-2013,"Copper Mountain, CO",USA,Czechia,Nor-Am Cup,Parallel Slalom,3,300.00
-108,Ledecka Ester,Female,12-11-2013,"Copper Mountain, CO",USA,Czechia,Nor-Am Cup,Parallel GS,1,500.00
-109,Ledecka Ester,Female,11-11-2013,"Copper Mountain, CO",USA,Czechia,Nor-Am Cup,Parallel GS,10,130.00
-110,Ledecka Ester,Female,10-03-2013,Arosa,SUI,Czechia,World Cup,Parallel GS,13,200.00
-111,Ledecka Ester,Female,07-03-2013,Erzurum,TUR,Czechia,FIS Junior World Championships,Parallel Slalom,1,360.00
-112,Ledecka Ester,Female,06-03-2013,Erzurum,TUR,Czechia,FIS Junior World Championships,Parallel GS,1,360.00
-113,Ledecka Ester,Female,23-02-2013,Moscow,RUS,Czechia,World Cup,Parallel Slalom,7,360.00
-114,Ledecka Ester,Female,14-02-2013,Sochi,RUS,Czechia,World Cup,Parallel GS,6,400.00
-115,Ledecka Ester,Female,08-02-2013,Rogla,SLO,Czechia,World Cup,Parallel GS,11,240.00
-116,Ledecka Ester,Female,27-01-2013,Stoneham,CAN,Czechia,World Championships,Parallel Slalom,17,140.00
-117,Ledecka Ester,Female,25-01-2013,Stoneham,CAN,Czechia,World Championships,Parallel GS,16,150.00
-118,Ledecka Ester,Female,12-01-2013,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,14,180.00
-119,Ledecka Ester,Female,11-01-2013,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,35,20.00
-120,Ledecka Ester,Female,21-12-2012,Carezza,ITA,Czechia,World Cup,Parallel GS,13,200.00
-121,Ledecka Ester,Female,09-12-2012,Lachtal,AUT,Czechia,European Cup,Parallel GS,12,110.00
-122,Ledecka Ester,Female,08-12-2012,Lachtal,AUT,Czechia,European Cup,Parallel GS,11,120.00
-123,Ledecka Ester,Female,28-03-2012,Sierra Nevada,ESP,Czechia,FIS Junior World Championships,Parallel Slalom,8,128.00
-124,Ledecka Ester,Female,27-03-2012,Sierra Nevada,ESP,Czechia,FIS Junior World Championships,Parallel GS,12,88.00
-125,Ledecka Ester,Female,20-03-2012,Rogla,SLO,Czechia,European Cup,Parallel Slalom,7,129.60
-126,Ledecka Ester,Female,19-03-2012,Rogla,SLO,Czechia,European Cup,Parallel GS,10,93.60
-127,Ledecka Ester,Female,10-03-2012,Bad Gastein,AUT,Czechia,European Cup,Parallel GS,1,290.00
-128,Ledecka Ester,Female,24-02-2012,Dolni Morava,CZE,Czechia,National Championships,Parallel GS,1,90.00
-129,Ledecka Ester,Female,12-02-2012,Marianske Lazne,CZE,Czechia,European Cup,Parallel Slalom,12,63.80
-130,Ledecka Ester,Female,11-02-2012,Marianske Lazne,CZE,Czechia,European Cup,Parallel Slalom,16,43.50
-131,Ledecka Ester,Female,05-02-2012,Ratschings-Racines,ITA,Czechia,European Cup,Parallel Slalom,16,48.00
-132,Ledecka Ester,Female,29-01-2012,Adelboden,SUI,Czechia,European Cup,Parallel GS,4,130.00
-133,Ledecka Ester,Female,15-01-2012,Vratna,SVK,Czechia,European Cup,Giant Slalom,5,117.00
-134,Ledecka Ester,Female,14-01-2012,Vratna,SVK,Czechia,European Cup,Parallel GS,5,117.00
-135,Ledecka Ester,Female,31-03-2011,Valmalenco,ITA,Czechia,FIS Junior World Championships,Parallel Slalom,19,
-136,Ledecka Ester,Female,30-03-2011,Valmalenco,ITA,Czechia,FIS Junior World Championships,Parallel GS,19,
-137,Ledecka Ester,Female,17-02-2011,Rejdice,CZE,Czechia,European Youth Olympic Festival,Parallel GS,1,110.00
-138,Ledecka Ester,Female,15-02-2011,Rejdice,CZE,Czechia,European Youth Olympic Festival,Snowboardcross,5,54.00
-139,Ledecka Ester,Female,22-01-2011,La Molina,ESP,Czechia,World Championships,Parallel Slalom,40,18.50
-140,Ledecka Ester,Female,19-01-2011,La Molina,ESP,Czechia,World Championships,Parallel GS,33,24.00
-141,Ledecka Ester,Female,05-12-2010,Welschnofen-Carezza,ITA,Czechia,European Cup,Parallel Slalom,21,50.00
-142,Ledecka Ester,Female,04-12-2010,Welschnofen-Carezza,ITA,Czechia,European Cup,Parallel GS,19,60.00
-143,Ledecka Ester,Female,28-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Czechia,FIS,Parallel GS,24,18.20
-144,Ledecka Ester,Female,27-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Czechia,European Cup,Parallel GS,12,110.00
+0,Ledecka Ester,Female,20-03-2025,Engadin,SUI,Czechia,Qualification,Parallel Giant Slalom,1,
+1,Ledecka Ester,Female,20-03-2025,Engadin,SUI,Czechia,World Championships,Parallel Giant Slalom,1,1000.00
+2,Ledecka Ester,Female,01-12-2024,Mylin,CHN,Czechia,World Cup,Parallel Slalom,4,500.00
+3,Ledecka Ester,Female,01-12-2024,Mylin,CHN,Czechia,Qualification,Parallel Slalom,2,
+4,Ledecka Ester,Female,30-11-2024,Mylin,CHN,Czechia,World Cup,Parallel Giant Slalom,1,1000.00
+5,Ledecka Ester,Female,30-11-2024,Mylin,CHN,Czechia,Qualification,Parallel Giant Slalom,1,
+6,Ledecka Ester,Female,10-03-2024,Winterberg,GER,Czechia,World Cup,Parallel Slalom Team,16,
+7,Ledecka Ester,Female,09-03-2024,Winterberg,GER,Czechia,Qualification,Parallel Slalom,1,
+8,Ledecka Ester,Female,09-03-2024,Winterberg,GER,Czechia,World Cup,Parallel Slalom,1,1000.00
+9,Ledecka Ester,Female,21-01-2024,Pamporovo,BUL,Czechia,Qualification,Parallel Slalom,1,
+10,Ledecka Ester,Female,21-01-2024,Pamporovo,BUL,Czechia,World Cup,Parallel Slalom,1,1000.00
+11,Ledecka Ester,Female,20-01-2024,Pamporovo,BUL,Czechia,Qualification,Parallel Slalom,1,
+12,Ledecka Ester,Female,20-01-2024,Pamporovo,BUL,Czechia,World Cup,Parallel Slalom,1,1000.00
+13,Ledecka Ester,Female,18-03-2023,Berchtesgaden,GER,Czechia,Qualification,Parallel Slalom,1,
+14,Ledecka Ester,Female,18-03-2023,Berchtesgaden,GER,Czechia,World Cup,Parallel Slalom,1,1000.00
+15,Ledecka Ester,Female,15-03-2023,Rogla,SLO,Czechia,World Cup,Parallel Giant Slalom,2,800.00
+16,Ledecka Ester,Female,15-03-2023,Rogla,SLO,Czechia,Qualification,Parallel Giant Slalom,1,
+17,Ledecka Ester,Female,08-02-2022,Beijing,CHN,Czechia,Qualification,Parallel Giant Slalom,1,
+18,Ledecka Ester,Female,08-02-2022,Beijing,CHN,Czechia,Olympic Winter Games,Parallel Giant Slalom,1,1000.00
+19,Ledecka Ester,Female,18-12-2021,Cortina d Ampezzo,ITA,Czechia,Qualification,Parallel Giant Slalom,1,
+20,Ledecka Ester,Female,18-12-2021,Cortina d Ampezzo,ITA,Czechia,World Cup,Parallel Giant Slalom,1,1000.00
+21,Ledecka Ester,Female,16-12-2021,Carezza,ITA,Czechia,Qualification,Parallel Giant Slalom,1,
+22,Ledecka Ester,Female,16-12-2021,Carezza,ITA,Czechia,World Cup,Parallel Giant Slalom,2,800.00
+23,Ledecka Ester,Female,01-03-2021,Rogla,SLO,Czechia,World Championships,Parallel Giant Slalom,DNS,
+24,Ledecka Ester,Female,01-03-2021,Rogla,SLO,Czechia,Qualification,Parallel Giant Slalom,DNS,
+25,Ledecka Ester,Female,12-12-2020,Cortina d Ampezzo,ITA,Czechia,Qualification,Parallel Giant Slalom,1,
+26,Ledecka Ester,Female,12-12-2020,Cortina d Ampezzo,ITA,Czechia,World Cup,Parallel Giant Slalom,1,1000.00
+27,Ledecka Ester,Female,18-01-2020,Rogla,SLO,Czechia,World Cup,Parallel Giant Slalom,1,1000.00
+28,Ledecka Ester,Female,18-01-2020,Rogla,SLO,Czechia,Qualification,Parallel Giant Slalom,1,
+29,Ledecka Ester,Female,14-01-2020,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,2,800.00
+30,Ledecka Ester,Female,14-01-2020,Bad Gastein,AUT,Czechia,Qualification,Parallel Slalom,1,
+31,Ledecka Ester,Female,23-03-2019,Winterberg,GER,Czechia,World Cup,Parallel Slalom,5,450.00
+32,Ledecka Ester,Female,23-03-2019,Winterberg,GER,Czechia,Qualification,Parallel Slalom,1,
+33,Ledecka Ester,Female,09-03-2019,Scuol,SUI,Czechia,World Cup,Parallel GS,2,800.00
+34,Ledecka Ester,Female,09-03-2019,Scuol,SUI,Czechia,Qualification,Parallel Giant Slalom,1,
+35,Ledecka Ester,Female,24-02-2019,Secret Garden,CHN,Czechia,World Cup,Parallel Slalom,5,450.00
+36,Ledecka Ester,Female,24-02-2019,Secret Garden,CHN,Czechia,Qualification,Parallel Slalom,3,
+37,Ledecka Ester,Female,23-02-2019,Secret Garden,CHN,Czechia,World Cup,Parallel Giant Slalom,2,800.00
+38,Ledecka Ester,Female,23-02-2019,Secret Garden,CHN,Czechia,Qualification,Parallel Giant Slalom,1,
+39,Ledecka Ester,Female,17-02-2019,Pyeongchang,KOR,Czechia,World Cup,Parallel Giant Slalom,3,600.00
+40,Ledecka Ester,Female,17-02-2019,Pyeongchang,KOR,Czechia,Qualification,Parallel Giant Slalom,1,
+41,Ledecka Ester,Female,16-02-2019,Pyeongchang,KOR,Czechia,World Cup,Parallel Giant Slalom,1,1000.00
+42,Ledecka Ester,Female,16-02-2019,Pyeongchang,KOR,Czechia,Qualification,Parallel Giant Slalom,1,
+43,Ledecka Ester,Female,15-12-2018,Cortina d'Ampezzo,ITA,Czechia,World Cup,Parallel GS,1,1000.00
+44,Ledecka Ester,Female,15-12-2018,Cortina d'Ampezzo,ITA,Czechia,Qualification,Parallel Giant Slalom,1,
+45,Ledecka Ester,Female,13-12-2018,Carezza,ITA,Czechia,World Cup,Parallel GS,2,800.00
+46,Ledecka Ester,Female,13-12-2018,Carezza,ITA,Czechia,Qualification,Parallel Giant Slalom,1,
+47,Ledecka Ester,Female,10-03-2018,Scuol,SUI,Czechia,World Cup,Parallel GS,1,1000.00
+48,Ledecka Ester,Female,10-03-2018,Scuol,SUI,Czechia,Qualification,Parallel GS,2,
+49,Ledecka Ester,Female,03-03-2018,Kayseri,TUR,Czechia,World Cup,Parallel GS,2,800.00
+50,Ledecka Ester,Female,03-03-2018,Kayseri,TUR,Czechia,Qualification,Parallel GS,3,
+51,Ledecka Ester,Female,24-02-2018,Phoenix Snow Park,KOR,Czechia,Qualification,Parallel GS,1,
+52,Ledecka Ester,Female,24-02-2018,Phoenix Snow Park,KOR,Czechia,Olympic Winter Games,Parallel GS,1,1000.00
+53,Ledecka Ester,Female,28-01-2018,Bansko,BUL,Czechia,World Cup,Parallel GS,5,450.00
+54,Ledecka Ester,Female,28-01-2018,Bansko,BUL,Czechia,Qualification,Parallel GS,1,
+55,Ledecka Ester,Female,26-01-2018,Bansko,BUL,Czechia,World Cup,Parallel GS,1,1000.00
+56,Ledecka Ester,Female,26-01-2018,Bansko,BUL,Czechia,Qualification,Parallel GS,1,
+57,Ledecka Ester,Female,21-01-2018,Rogla,SLO,Czechia,World Cup,Parallel GS,DNS,
+58,Ledecka Ester,Female,21-01-2018,Rogla,SLO,Czechia,Qualification,Parallel GS,DNS,
+59,Ledecka Ester,Female,20-01-2018,Rogla,SLO,Czechia,World Cup,Parallel GS,1,1000.00
+60,Ledecka Ester,Female,20-01-2018,Rogla,SLO,Czechia,Qualification,Parallel GS,1,
+61,Ledecka Ester,Female,05-01-2018,Lackenhof,AUT,Czechia,World Cup,Parallel GS,1,1000.00
+62,Ledecka Ester,Female,05-01-2018,Lackenhof,AUT,Czechia,Qualification,Parallel GS,1,
+63,Ledecka Ester,Female,16-12-2017,Cortina d'Ampezzo,ITA,Czechia,World Cup,Parallel Slalom,9,290.00
+64,Ledecka Ester,Female,16-12-2017,Cortina d'Ampezzo,ITA,Czechia,Qualification,Parallel Slalom,1,
+65,Ledecka Ester,Female,15-12-2017,Cortina d'Ampezzo,ITA,Czechia,World Cup,Parallel GS,1,1000.00
+66,Ledecka Ester,Female,15-12-2017,Cortina d'Ampezzo,ITA,Czechia,Qualification,Parallel GS,1,
+67,Ledecka Ester,Female,14-12-2017,Carezza,ITA,Czechia,World Cup,Parallel GS,1,1000.00
+68,Ledecka Ester,Female,14-12-2017,Carezza,ITA,Czechia,Qualification,Parallel GS,1,
+69,Ledecka Ester,Female,18-03-2017,Winterberg,GER,Czechia,Qualification,Parallel Slalom,1,
+70,Ledecka Ester,Female,18-03-2017,Winterberg,GER,Czechia,World Cup,Parallel Slalom,2,800.00
+71,Ledecka Ester,Female,16-03-2017,Sierra Nevada,ESP,Czechia,World Championships,Parallel GS,1,1000.00
+72,Ledecka Ester,Female,15-03-2017,Sierra Nevada,ESP,Czechia,World Championships,Parallel Slalom,2,800.00
+73,Ledecka Ester,Female,05-03-2017, Erciyes-Kayseri,TUR,Czechia,World Cup,Parallel GS,1,1000.00
+74,Ledecka Ester,Female,28-01-2017,Rogla,SLO,Czechia,World Cup,Parallel GS,1,1000.00
+75,Ledecka Ester,Female,10-01-2017,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,10,260.00
+76,Ledecka Ester,Female,17-12-2016,Cortina d'Ampezzo,ITA,Czechia,World Cup,Parallel Slalom,1,1000.00
+77,Ledecka Ester,Female,15-12-2016,Carezza,ITA,Czechia,World Cup,Parallel GS,2,800.00
+78,Ledecka Ester,Female,06-03-2016,Winterberg,GER,Czechia,World Cup,Parallel Slalom,7,360.00
+79,Ledecka Ester,Female,27-02-2016,Kayseri,TUR,Czechia,World Cup,Parallel GS,1,1000.00
+80,Ledecka Ester,Female,30-01-2016,Moscow,RUS,Czechia,World Cup,Parallel Slalom,3,600.00
+81,Ledecka Ester,Female,23-01-2016,Rogla,SLO,Czechia,World Cup,Parallel GS,1,1000.00
+82,Ledecka Ester,Female,08-01-2016,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,9,290.00
+83,Ledecka Ester,Female,19-12-2015,Cortina d'Ampezzo,ITA,Czechia,World Cup,Parallel Slalom,4,500.00
+84,Ledecka Ester,Female,12-12-2015,Carezza,ITA,Czechia,World Cup,Parallel GS,1,1000.00
+85,Ledecka Ester,Female,19-11-2015,"Echo Mountain, CO",USA,Czechia,Nor-Am Cup,Parallel Slalom,6,200.00
+86,Ledecka Ester,Female,18-11-2015,"Echo Mountain, CO",USA,Czechia,Nor-Am Cup,Parallel Slalom,1,500.00
+87,Ledecka Ester,Female,14-03-2015,Winterberg,GER,Czechia,World Cup,Parallel Slalom,25,60.00
+88,Ledecka Ester,Female,07-03-2015,Moscow,RUS,Czechia,World Cup,Parallel Slalom,9,290.00
+89,Ledecka Ester,Female,01-03-2015,Asahikawa,JPN,Czechia,World Cup,Parallel Slalom,4,500.00
+90,Ledecka Ester,Female,28-02-2015,Asahikawa,JPN,Czechia,World Cup,Parallel GS,3,600.00
+91,Ledecka Ester,Female,07-02-2015,Sudelfeld,GER,Czechia,World Cup,Parallel GS,1,1000.00
+92,Ledecka Ester,Female,06-02-2015,Sudelfeld,GER,Czechia,Qualification,Parallel GS,1,
+93,Ledecka Ester,Female,31-01-2015,Rogla,SLO,Czechia,World Cup,Parallel GS,5,450.00
+94,Ledecka Ester,Female,23-01-2015,Lachtal,AUT,Czechia,World Championships,Parallel GS,5,450.00
+95,Ledecka Ester,Female,22-01-2015,Lachtal,AUT,Czechia,World Championships,Parallel Slalom,1,1000.00
+96,Ledecka Ester,Female,09-01-2015,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,1,1000.00
+97,Ledecka Ester,Female,06-01-2015,Dachstein West / Gosau,AUT,Czechia,FIS,Parallel Slalom,1,260.00
+98,Ledecka Ester,Female,05-01-2015,Dachstein West / Gosau,AUT,Czechia,FIS,Parallel Slalom,9,75.40
+99,Ledecka Ester,Female,16-12-2014,Carezza,ITA,Czechia,World Cup,Parallel GS,DNS,
+100,Ledecka Ester,Female,22-02-2014,Rosa Khutor,RUS,Czechia,Olympic Winter Games,Parallel Slalom,6,400.00
+101,Ledecka Ester,Female,19-02-2014,Rosa Khutor,RUS,Czechia,Olympic Winter Games,Parallel GS,7,360.00
+102,Ledecka Ester,Female,01-02-2014,Sudelfeld,GER,Czechia,World Cup,Parallel GS,5,450.00
+103,Ledecka Ester,Female,18-01-2014,Rogla,SLO,Czechia,World Cup,Parallel GS,1,1000.00
+104,Ledecka Ester,Female,12-01-2014,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,3,600.00
+105,Ledecka Ester,Female,10-01-2014,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,2,800.00
+106,Ledecka Ester,Female,14-12-2013,Carezza,ITA,Czechia,World Cup,Parallel Slalom,5,450.00
+107,Ledecka Ester,Female,13-12-2013,Carezza,ITA,Czechia,World Cup,Parallel GS,6,400.00
+108,Ledecka Ester,Female,15-11-2013,"Copper Mountain, CO",USA,Czechia,Nor-Am Cup,Parallel Slalom,1,500.00
+109,Ledecka Ester,Female,14-11-2013,"Copper Mountain, CO",USA,Czechia,Nor-Am Cup,Parallel Slalom,3,300.00
+110,Ledecka Ester,Female,12-11-2013,"Copper Mountain, CO",USA,Czechia,Nor-Am Cup,Parallel GS,1,500.00
+111,Ledecka Ester,Female,11-11-2013,"Copper Mountain, CO",USA,Czechia,Nor-Am Cup,Parallel GS,10,130.00
+112,Ledecka Ester,Female,10-03-2013,Arosa,SUI,Czechia,World Cup,Parallel GS,13,200.00
+113,Ledecka Ester,Female,07-03-2013,Erzurum,TUR,Czechia,FIS Junior World Championships,Parallel Slalom,1,360.00
+114,Ledecka Ester,Female,06-03-2013,Erzurum,TUR,Czechia,FIS Junior World Championships,Parallel GS,1,360.00
+115,Ledecka Ester,Female,23-02-2013,Moscow,RUS,Czechia,World Cup,Parallel Slalom,7,360.00
+116,Ledecka Ester,Female,14-02-2013,Sochi,RUS,Czechia,World Cup,Parallel GS,6,400.00
+117,Ledecka Ester,Female,08-02-2013,Rogla,SLO,Czechia,World Cup,Parallel GS,11,240.00
+118,Ledecka Ester,Female,27-01-2013,Stoneham,CAN,Czechia,World Championships,Parallel Slalom,17,140.00
+119,Ledecka Ester,Female,25-01-2013,Stoneham,CAN,Czechia,World Championships,Parallel GS,16,150.00
+120,Ledecka Ester,Female,12-01-2013,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,14,180.00
+121,Ledecka Ester,Female,11-01-2013,Bad Gastein,AUT,Czechia,World Cup,Parallel Slalom,35,20.00
+122,Ledecka Ester,Female,21-12-2012,Carezza,ITA,Czechia,World Cup,Parallel GS,13,200.00
+123,Ledecka Ester,Female,09-12-2012,Lachtal,AUT,Czechia,European Cup,Parallel GS,12,110.00
+124,Ledecka Ester,Female,08-12-2012,Lachtal,AUT,Czechia,European Cup,Parallel GS,11,120.00
+125,Ledecka Ester,Female,28-03-2012,Sierra Nevada,ESP,Czechia,FIS Junior World Championships,Parallel Slalom,8,128.00
+126,Ledecka Ester,Female,27-03-2012,Sierra Nevada,ESP,Czechia,FIS Junior World Championships,Parallel GS,12,88.00
+127,Ledecka Ester,Female,20-03-2012,Rogla,SLO,Czechia,European Cup,Parallel Slalom,7,129.60
+128,Ledecka Ester,Female,19-03-2012,Rogla,SLO,Czechia,European Cup,Parallel GS,10,93.60
+129,Ledecka Ester,Female,10-03-2012,Bad Gastein,AUT,Czechia,European Cup,Parallel GS,1,290.00
+130,Ledecka Ester,Female,24-02-2012,Dolni Morava,CZE,Czechia,National Championships,Parallel GS,1,90.00
+131,Ledecka Ester,Female,12-02-2012,Marianske Lazne,CZE,Czechia,European Cup,Parallel Slalom,12,63.80
+132,Ledecka Ester,Female,11-02-2012,Marianske Lazne,CZE,Czechia,European Cup,Parallel Slalom,16,43.50
+133,Ledecka Ester,Female,05-02-2012,Ratschings-Racines,ITA,Czechia,European Cup,Parallel Slalom,16,48.00
+134,Ledecka Ester,Female,29-01-2012,Adelboden,SUI,Czechia,European Cup,Parallel GS,4,130.00
+135,Ledecka Ester,Female,15-01-2012,Vratna,SVK,Czechia,European Cup,Giant Slalom,5,117.00
+136,Ledecka Ester,Female,14-01-2012,Vratna,SVK,Czechia,European Cup,Parallel GS,5,117.00
+137,Ledecka Ester,Female,31-03-2011,Valmalenco,ITA,Czechia,FIS Junior World Championships,Parallel Slalom,19,
+138,Ledecka Ester,Female,30-03-2011,Valmalenco,ITA,Czechia,FIS Junior World Championships,Parallel GS,19,
+139,Ledecka Ester,Female,17-02-2011,Rejdice,CZE,Czechia,European Youth Olympic Festival,Parallel GS,1,110.00
+140,Ledecka Ester,Female,15-02-2011,Rejdice,CZE,Czechia,European Youth Olympic Festival,Snowboardcross,5,54.00
+141,Ledecka Ester,Female,22-01-2011,La Molina,ESP,Czechia,World Championships,Parallel Slalom,40,18.50
+142,Ledecka Ester,Female,19-01-2011,La Molina,ESP,Czechia,World Championships,Parallel GS,33,24.00
+143,Ledecka Ester,Female,05-12-2010,Welschnofen-Carezza,ITA,Czechia,European Cup,Parallel Slalom,21,50.00
+144,Ledecka Ester,Female,04-12-2010,Welschnofen-Carezza,ITA,Czechia,European Cup,Parallel GS,19,60.00
+145,Ledecka Ester,Female,28-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Czechia,FIS,Parallel GS,24,18.20
+146,Ledecka Ester,Female,27-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Czechia,European Cup,Parallel GS,12,110.00

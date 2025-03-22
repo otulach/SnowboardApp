@@ -1,134 +1,136 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Jaros Samuel,Male,22-02-2025,Calgary,CAN,Slovakia,World Cup,Slopestyle,42,70.40
-1,Jaros Samuel,Male,20-02-2025,Calgary,CAN,Slovakia,Qualification,Slopestyle,21,
-2,Jaros Samuel,Male,06-02-2025,Aspen,USA,Slovakia,World Cup,Big Air,37,66.60
-3,Jaros Samuel,Male,05-02-2025,Aspen,USA,Slovakia,Qualification,Big Air,17,
-4,Jaros Samuel,Male,02-02-2025,Aspen,USA,Slovakia,World Cup,Slopestyle,37,86.60
-5,Jaros Samuel,Male,31-01-2025,Aspen,USA,Slovakia,Qualification,Slopestyle,20,
-6,Jaros Samuel,Male,18-01-2025,Laax,SUI,Slovakia,World Cup,Slopestyle,32,119.10
-7,Jaros Samuel,Male,16-01-2025,Laax,SUI,Slovakia,Qualification,Slopestyle,20,
-8,Jaros Samuel,Male,11-01-2025,Kreischberg,AUT,Slovakia,Qualification,Big Air,19,
-9,Jaros Samuel,Male,11-01-2025,Kreischberg,AUT,Slovakia,World Cup,Big Air,40,69.70
-10,Jaros Samuel,Male,05-01-2025,Klagenfurt,AUT,Slovakia,Qualification,Big Air,7,
-11,Jaros Samuel,Male,05-01-2025,Klagenfurt,AUT,Slovakia,World Cup,Big Air,12,238.30
-12,Jaros Samuel,Male,01-12-2024,Beijing,CHN,Slovakia,World Cup,Big Air,30,111.30
-13,Jaros Samuel,Male,30-11-2024,Beijing,CHN,Slovakia,Qualification,Big Air,14,
-14,Jaros Samuel,Male,19-10-2024,Chur,SUI,Slovakia,World Cup,Big Air,22,137.40
-15,Jaros Samuel,Male,02-09-2024,Cardrona,NZL,Slovakia,World Cup,Slopestyle,14,217.90
-16,Jaros Samuel,Male,31-08-2024,Cardrona,NZL,Slovakia,Qualification,Slopestyle,6,
-17,Jaros Samuel,Male,23-03-2024,Silvaplana,SUI,Slovakia,World Cup,Slopestyle,46,56.20
-18,Jaros Samuel,Male,21-03-2024,Silvaplana,SUI,Slovakia,Qualification,Slopestyle,26,
-19,Jaros Samuel,Male,12-03-2024,Laax,SUI,Slovakia,European Cup Premium,Slopestyle,3,140.00
-20,Jaros Samuel,Male,10-02-2024,Donovaly,SVK,Slovakia,FIS,Slopestyle,1,30.00
-21,Jaros Samuel,Male,20-01-2024,Laax,SUI,Slovakia,World Cup,Slopestyle,41,77.80
-22,Jaros Samuel,Male,16-01-2024,Laax,SUI,Slovakia,Qualification,Slopestyle,20,
-23,Jaros Samuel,Male,15-12-2023,Copper Mountain,USA,Slovakia,World Cup,Big Air,53,18.10
-24,Jaros Samuel,Male,13-12-2023,Copper Mountain,USA,Slovakia,Qualification,Big Air,26,
-25,Jaros Samuel,Male,09-12-2023,Edmonton,CAN,Slovakia,World Cup,Big Air,21,159.00
-26,Jaros Samuel,Male,08-12-2023,Edmonton,CAN,Slovakia,Qualification,Big Air,10,
-27,Jaros Samuel,Male,02-12-2023,Beijing,CHN,Slovakia,World Cup,Big Air,29,84.20
-28,Jaros Samuel,Male,01-12-2023,Beijing,CHN,Slovakia,Qualification,Big Air,15,
-29,Jaros Samuel,Male,21-10-2023,Chur,SUI,Slovakia,Qualification,Big Air,16,
-30,Jaros Samuel,Male,21-10-2023,Chur,SUI,Slovakia,World Cup,Big Air,28,126.00
-31,Jaros Samuel,Male,21-04-2023,Kitzsteinhorn,AUT,Slovakia,European Cup,Slopestyle,6,106.50
-32,Jaros Samuel,Male,14-04-2023,Corvatsch,SUI,Slovakia,European Cup Premium,Slopestyle,52,34.00
-33,Jaros Samuel,Male,26-03-2023,Silvaplana,SUI,Slovakia,World Cup,Slopestyle,17,147.10
-34,Jaros Samuel,Male,25-03-2023,Silvaplana,SUI,Slovakia,Qualification,Slopestyle,9,
-35,Jaros Samuel,Male,20-03-2023,Mottolino Livigno,ITA,Slovakia,European Cup,Slopestyle,13,60.10
-36,Jaros Samuel,Male,17-03-2023,Laax,SUI,Slovakia,European Cup Premium,Slopestyle,83,20.50
-37,Jaros Samuel,Male,04-03-2023,Bakuriani,GEO,Slovakia,World Championships,Big Air,10,220.50
-38,Jaros Samuel,Male,02-03-2023,Bakuriani,GEO,Slovakia,Qualification,Big Air,3,
-39,Jaros Samuel,Male,27-02-2023,Bakuriani,GEO,Slovakia,World Championships,Slopestyle,DNS,
-40,Jaros Samuel,Male,24-02-2023,Bakuriani,GEO,Slovakia,Qualification,Slopestyle,DNS,
-41,Jaros Samuel,Male,04-02-2023,Mammoth Mountain,USA,Slovakia,World Cup,Slopestyle,40,37.70
-42,Jaros Samuel,Male,01-02-2023,Mammoth Mountain,USA,Slovakia,Qualification,Slopestyle,19,
-43,Jaros Samuel,Male,22-01-2023,Laax,SUI,Slovakia,World Cup,Slopestyle,42,67.20
-44,Jaros Samuel,Male,18-01-2023,Laax,SUI,Slovakia,Qualification,Slopestyle,20,
-45,Jaros Samuel,Male,14-01-2023,Kreischberg,AUT,Slovakia,World Cup,Big Air,9,245.70
-46,Jaros Samuel,Male,13-01-2023,Kreischberg,AUT,Slovakia,Qualification,Big Air,3,
-47,Jaros Samuel,Male,17-12-2022,Copper Mountain,USA,Slovakia,World Cup,Big Air,15,166.40
-48,Jaros Samuel,Male,15-12-2022,Copper Mountain,USA,Slovakia,Qualification,Big Air,6,
-49,Jaros Samuel,Male,10-12-2022,Edmonton,CAN,Slovakia,World Cup,Big Air,20,133.60
-50,Jaros Samuel,Male,09-12-2022,Edmonton,CAN,Slovakia,Qualification,Big Air,11,
-51,Jaros Samuel,Male,22-10-2022,Chur,SUI,Slovakia,World Cup,Big Air,16,150.40
-52,Jaros Samuel,Male,22-10-2022,Chur,SUI,Slovakia,Qualification,Big Air,10,
-53,Jaros Samuel,Male,27-03-2022,Silvaplana,SUI,Slovakia,World Cup,Slopestyle,21,122.50
-54,Jaros Samuel,Male,25-03-2022,Silvaplana,SUI,Slovakia,Qualification,Slopestyle,10,
-55,Jaros Samuel,Male,19-03-2022,Spindleruv Mlyn,CZE,Slovakia,World Cup,Slopestyle,14,118.80
-56,Jaros Samuel,Male,18-03-2022,Spindleruv Mlyn,CZE,Slovakia,Qualification,Slopestyle,8,
-57,Jaros Samuel,Male,06-03-2022,Bakuriani,GEO,Slovakia,World Cup,Slopestyle,7,137.10
-58,Jaros Samuel,Male,15-01-2022,Laax,SUI,Slovakia,World Cup,Slopestyle,32,73.90
-59,Jaros Samuel,Male,13-01-2022,Laax,SUI,Slovakia,Qualification,Slopestyle,17,
-60,Jaros Samuel,Male,08-01-2022,Mammoth Mountain,USA,Slovakia,World Cup,Slopestyle,13,224.90
-61,Jaros Samuel,Male,01-01-2022,Calgary,CAN,Slovakia,World Cup,Slopestyle,19,158.50
-62,Jaros Samuel,Male,31-12-2021,Calgary,CAN,Slovakia,Qualification,Slopestyle,11,
-63,Jaros Samuel,Male,04-12-2021,Steamboat,USA,Slovakia,World Cup,Big Air,41,83.50
-64,Jaros Samuel,Male,02-12-2021,Steamboat,USA,Slovakia,Qualification,Big Air,19,
-65,Jaros Samuel,Male,23-10-2021,Chur,SUI,Slovakia,World Cup,Big Air,40,47.10
-66,Jaros Samuel,Male,28-03-2021,Silvaplana,SUI,Slovakia,Qualification,Slopestyle,17,
-67,Jaros Samuel,Male,28-03-2021,Silvaplana,SUI,Slovakia,World Cup,Slopestyle,38,93.39
-68,Jaros Samuel,Male,20-03-2021,Aspen,USA,Slovakia,World Cup,Slopestyle,58,12.65
-69,Jaros Samuel,Male,19-03-2021,Aspen,USA,Slovakia,Qualification,Slopestyle,29,
-70,Jaros Samuel,Male,16-03-2021,Aspen,USA,Slovakia,World Championships,Big Air,31,93.26
-71,Jaros Samuel,Male,14-03-2021,Aspen,USA,Slovakia,Qualification,Big Air,14,
-72,Jaros Samuel,Male,12-03-2021,Aspen,USA,Slovakia,World Championships,Slopestyle,20,166.93
-73,Jaros Samuel,Male,10-03-2021,Aspen,USA,Slovakia,Qualification,Slopestyle,12,
-74,Jaros Samuel,Male,22-01-2021,Laax,SUI,Slovakia,World Cup,Slopestyle,22,120.85
-75,Jaros Samuel,Male,19-01-2021,Laax,SUI,Slovakia,Qualification,Slopestyle,22,
-76,Jaros Samuel,Male,09-01-2021,Kreischberg,AUT,Slovakia,Qualification,Big Air,27,
-77,Jaros Samuel,Male,09-01-2021,Kreischberg,AUT,Slovakia,World Cup,Big Air,51,41.80
-78,Jaros Samuel,Male,23-01-2020,Seiseralm,ITA,Slovakia,World Cup,Slopestyle,32,26.00
-79,Jaros Samuel,Male,22-01-2020,Seiseralm,ITA,Slovakia,Qualification,Slopestyle,16,
-80,Jaros Samuel,Male,15-01-2020,Laax,SUI,Slovakia,World Cup,Slopestyle,49,15.80
-81,Jaros Samuel,Male,13-01-2020,Laax,SUI,Slovakia,Qualification,Slopestyle,24,
-82,Jaros Samuel,Male,14-12-2019,Beijing,CHN,Slovakia,World Cup,Big Air,26,50.00
-83,Jaros Samuel,Male,12-12-2019,Beijing,CHN,Slovakia,Qualification,Big Air,13,
-84,Jaros Samuel,Male,02-11-2019,Modena SKIPASS,ITA,Slovakia,World Cup,Big Air,21,100.00
-85,Jaros Samuel,Male,13-04-2019,Klaeppen,SWE,Slovakia,FIS Junior World Championships,Big Air,12,52.80
-86,Jaros Samuel,Male,12-04-2019,Klaeppen,SWE,Slovakia,Qualification,Big Air,4,
-87,Jaros Samuel,Male,09-04-2019,Klaeppen,SWE,Slovakia,FIS Junior World Championships,Slopestyle,2,192.00
-88,Jaros Samuel,Male,08-04-2019,Klaeppen,SWE,Slovakia,Qualification,Slopestyle,5,
-89,Jaros Samuel,Male,26-01-2019,Seiser Alm,ITA,Slovakia,World Cup,Slopestyle,46,16.70
-90,Jaros Samuel,Male,24-01-2019,Seiser Alm,ITA,Slovakia,Qualification,Slopestyle,18,
-91,Jaros Samuel,Male,22-11-2018,Landgraaf,NED,Slovakia,European Cup,Slopestyle,16,24.00
-92,Jaros Samuel,Male,21-11-2018,Landgraaf,NED,Slovakia,FIS,Slopestyle,2,88.00
-93,Jaros Samuel,Male,03-11-2018,Modena SKIPASS,ITA,Slovakia,World Cup,Big Air,18,130.00
-94,Jaros Samuel,Male,08-09-2018,Cardrona,NZL,Slovakia,World Cup,Big Air,17,140.00
-95,Jaros Samuel,Male,06-09-2018,Cardrona,NZL,Slovakia,Qualification,Big Air,8,
-96,Jaros Samuel,Male,31-08-2018,Cardrona,NZL,Slovakia,FIS Junior World Championships,Slopestyle,15,38.40
-97,Jaros Samuel,Male,30-08-2018,Cardrona,NZL,Slovakia,Qualification,Slopestyle,7,
-98,Jaros Samuel,Male,25-08-2018,Cardrona,NZL,Slovakia,FIS Junior World Championships,Big Air,4,120.00
-99,Jaros Samuel,Male,24-08-2018,Cardrona,NZL,Slovakia,Qualification,Big Air,3,
-100,Jaros Samuel,Male,04-09-2017,Cardrona,NZL,Slovakia,World Cup,Slopestyle,DNS,
-101,Jaros Samuel,Male,03-09-2017,Cardrona,NZL,Slovakia,Qualification,Slopestyle,DNS,
-102,Jaros Samuel,Male,01-04-2017,Spindleruv Mlyn,CZE,Slovakia,FIS Junior World Championships,Big Air,15,38.40
-103,Jaros Samuel,Male,31-03-2017,Spindleruv Mlyn,CZE,Slovakia,FIS Junior World Championships,Slopestyle,13,72.00
-104,Jaros Samuel,Male,30-03-2017,Spindleruv Mlyn,CZE,Slovakia,Qualification,Slopestyle,3,
-105,Jaros Samuel,Male,29-03-2017,Spindleruv Mlyn,CZE,Slovakia,Qualification,Big Air,3,
-106,Jaros Samuel,Male,25-03-2017,Spindleruv Mlyn,CZE,Slovakia,World Cup,Slopestyle,40,18.50
-107,Jaros Samuel,Male,24-03-2017,Spindleruv Mlyn,CZE,Slovakia,Qualification,Slopestyle,17,
-108,Jaros Samuel,Male,17-03-2017,Sierra Nevada,ESP,Slovakia,World Championships,Big Air,30,32.00
-109,Jaros Samuel,Male,16-03-2017,Sierra Nevada,ESP,Slovakia,Qualification,Big Air,17,
-110,Jaros Samuel,Male,11-03-2017,Sierra Nevada,ESP,Slovakia,World Championships,Slopestyle,31,28.00
-111,Jaros Samuel,Male,09-03-2017,Sierra Nevada,ESP,Slovakia,Qualification,Slopestyle,19,
-112,Jaros Samuel,Male,04-02-2017,Mammoth Mountain Resort,USA,Slovakia,World Cup,Slopestyle,31,28.00
-113,Jaros Samuel,Male,01-02-2017,Mammoth Mountain Resort,USA,Slovakia,Qualification,Slopestyle,13,
-114,Jaros Samuel,Male,27-01-2017,Seiser Alm,ITA,Slovakia,World Cup,Slopestyle,47,16.40
-115,Jaros Samuel,Male,25-01-2017,Seiser Alm,ITA,Slovakia,Qualification,Slopestyle,25,
-116,Jaros Samuel,Male,14-01-2017,Kreischberg,AUT,Slovakia,World Cup,Slopestyle,35,20.00
-117,Jaros Samuel,Male,13-01-2017,Kreischberg,AUT,Slovakia,Qualification,Slopestyle,18,
-118,Jaros Samuel,Male,07-01-2017,Moscow,RUS,Slovakia,World Cup,Big Air,24,70.00
-119,Jaros Samuel,Male,17-12-2016,Copper,USA,Slovakia,World Cup,Big Air,35,20.00
-120,Jaros Samuel,Male,15-12-2016,Copper,USA,Slovakia,Qualification,Big Air,17,
-121,Jaros Samuel,Male,03-12-2016,Moenchengladbach,GER,Slovakia,Qualification,Big Air,21,
-122,Jaros Samuel,Male,03-12-2016,Moenchengladbach,GER,Slovakia,World Cup,Big Air,43,17.60
-123,Jaros Samuel,Male,02-04-2016,Jasna,SVK,Slovakia,European Cup,Slopestyle,12,44.00
-124,Jaros Samuel,Male,30-03-2016,Seiser Alm,ITA,Slovakia,FIS Junior World Championships,Big Air,9,104.40
-125,Jaros Samuel,Male,29-03-2016,Seiser Alm,ITA,Slovakia,FIS Junior World Championships,Slopestyle,10,93.60
-126,Jaros Samuel,Male,08-03-2016,Kopaonik,SRB,Slovakia,European Cup,Slopestyle,15,32.00
-127,Jaros Samuel,Male,27-01-2016,Vars,FRA,Slovakia,European Cup,Slopestyle,19,24.00
-128,Jaros Samuel,Male,26-01-2016,Vars,FRA,Slovakia,European Cup,Slopestyle,28,8.00
-129,Jaros Samuel,Male,05-11-2015,Landgraaf,NED,Slovakia,European Cup,Slopestyle,36,5.12
-130,Jaros Samuel,Male,04-11-2015,Landgraaf,NED,Slovakia,European Cup,Slopestyle,56,3.56
-131,Jaros Samuel,Male,24-03-2015,Strbske Pleso,SVK,Slovakia,European Cup,Slopestyle,26,12.00
-132,Jaros Samuel,Male,23-03-2015,Strbske Pleso,SVK,Slovakia,European Cup,Slopestyle,24,16.80
+0,Jaros Samuel,Male,21-03-2025,Engadin,SUI,Slovakia,World Championships,Slopestyle,28,
+1,Jaros Samuel,Male,20-03-2025,Engadin,SUI,Slovakia,Qualification,Slopestyle,16,
+2,Jaros Samuel,Male,22-02-2025,Calgary,CAN,Slovakia,World Cup,Slopestyle,42,70.40
+3,Jaros Samuel,Male,20-02-2025,Calgary,CAN,Slovakia,Qualification,Slopestyle,21,
+4,Jaros Samuel,Male,06-02-2025,Aspen,USA,Slovakia,World Cup,Big Air,37,66.60
+5,Jaros Samuel,Male,05-02-2025,Aspen,USA,Slovakia,Qualification,Big Air,17,
+6,Jaros Samuel,Male,02-02-2025,Aspen,USA,Slovakia,World Cup,Slopestyle,37,86.60
+7,Jaros Samuel,Male,31-01-2025,Aspen,USA,Slovakia,Qualification,Slopestyle,20,
+8,Jaros Samuel,Male,18-01-2025,Laax,SUI,Slovakia,World Cup,Slopestyle,32,119.10
+9,Jaros Samuel,Male,16-01-2025,Laax,SUI,Slovakia,Qualification,Slopestyle,20,
+10,Jaros Samuel,Male,11-01-2025,Kreischberg,AUT,Slovakia,Qualification,Big Air,19,
+11,Jaros Samuel,Male,11-01-2025,Kreischberg,AUT,Slovakia,World Cup,Big Air,40,69.70
+12,Jaros Samuel,Male,05-01-2025,Klagenfurt,AUT,Slovakia,Qualification,Big Air,7,
+13,Jaros Samuel,Male,05-01-2025,Klagenfurt,AUT,Slovakia,World Cup,Big Air,12,238.30
+14,Jaros Samuel,Male,01-12-2024,Beijing,CHN,Slovakia,World Cup,Big Air,30,111.30
+15,Jaros Samuel,Male,30-11-2024,Beijing,CHN,Slovakia,Qualification,Big Air,14,
+16,Jaros Samuel,Male,19-10-2024,Chur,SUI,Slovakia,World Cup,Big Air,22,137.40
+17,Jaros Samuel,Male,02-09-2024,Cardrona,NZL,Slovakia,World Cup,Slopestyle,14,217.90
+18,Jaros Samuel,Male,31-08-2024,Cardrona,NZL,Slovakia,Qualification,Slopestyle,6,
+19,Jaros Samuel,Male,23-03-2024,Silvaplana,SUI,Slovakia,World Cup,Slopestyle,46,56.20
+20,Jaros Samuel,Male,21-03-2024,Silvaplana,SUI,Slovakia,Qualification,Slopestyle,26,
+21,Jaros Samuel,Male,12-03-2024,Laax,SUI,Slovakia,European Cup Premium,Slopestyle,3,140.00
+22,Jaros Samuel,Male,10-02-2024,Donovaly,SVK,Slovakia,FIS,Slopestyle,1,30.00
+23,Jaros Samuel,Male,20-01-2024,Laax,SUI,Slovakia,World Cup,Slopestyle,41,77.80
+24,Jaros Samuel,Male,16-01-2024,Laax,SUI,Slovakia,Qualification,Slopestyle,20,
+25,Jaros Samuel,Male,15-12-2023,Copper Mountain,USA,Slovakia,World Cup,Big Air,53,18.10
+26,Jaros Samuel,Male,13-12-2023,Copper Mountain,USA,Slovakia,Qualification,Big Air,26,
+27,Jaros Samuel,Male,09-12-2023,Edmonton,CAN,Slovakia,World Cup,Big Air,21,159.00
+28,Jaros Samuel,Male,08-12-2023,Edmonton,CAN,Slovakia,Qualification,Big Air,10,
+29,Jaros Samuel,Male,02-12-2023,Beijing,CHN,Slovakia,World Cup,Big Air,29,84.20
+30,Jaros Samuel,Male,01-12-2023,Beijing,CHN,Slovakia,Qualification,Big Air,15,
+31,Jaros Samuel,Male,21-10-2023,Chur,SUI,Slovakia,Qualification,Big Air,16,
+32,Jaros Samuel,Male,21-10-2023,Chur,SUI,Slovakia,World Cup,Big Air,28,126.00
+33,Jaros Samuel,Male,21-04-2023,Kitzsteinhorn,AUT,Slovakia,European Cup,Slopestyle,6,106.50
+34,Jaros Samuel,Male,14-04-2023,Corvatsch,SUI,Slovakia,European Cup Premium,Slopestyle,52,34.00
+35,Jaros Samuel,Male,26-03-2023,Silvaplana,SUI,Slovakia,World Cup,Slopestyle,17,147.10
+36,Jaros Samuel,Male,25-03-2023,Silvaplana,SUI,Slovakia,Qualification,Slopestyle,9,
+37,Jaros Samuel,Male,20-03-2023,Mottolino Livigno,ITA,Slovakia,European Cup,Slopestyle,13,60.10
+38,Jaros Samuel,Male,17-03-2023,Laax,SUI,Slovakia,European Cup Premium,Slopestyle,83,20.50
+39,Jaros Samuel,Male,04-03-2023,Bakuriani,GEO,Slovakia,World Championships,Big Air,10,220.50
+40,Jaros Samuel,Male,02-03-2023,Bakuriani,GEO,Slovakia,Qualification,Big Air,3,
+41,Jaros Samuel,Male,27-02-2023,Bakuriani,GEO,Slovakia,World Championships,Slopestyle,DNS,
+42,Jaros Samuel,Male,24-02-2023,Bakuriani,GEO,Slovakia,Qualification,Slopestyle,DNS,
+43,Jaros Samuel,Male,04-02-2023,Mammoth Mountain,USA,Slovakia,World Cup,Slopestyle,40,37.70
+44,Jaros Samuel,Male,01-02-2023,Mammoth Mountain,USA,Slovakia,Qualification,Slopestyle,19,
+45,Jaros Samuel,Male,22-01-2023,Laax,SUI,Slovakia,World Cup,Slopestyle,42,67.20
+46,Jaros Samuel,Male,18-01-2023,Laax,SUI,Slovakia,Qualification,Slopestyle,20,
+47,Jaros Samuel,Male,14-01-2023,Kreischberg,AUT,Slovakia,World Cup,Big Air,9,245.70
+48,Jaros Samuel,Male,13-01-2023,Kreischberg,AUT,Slovakia,Qualification,Big Air,3,
+49,Jaros Samuel,Male,17-12-2022,Copper Mountain,USA,Slovakia,World Cup,Big Air,15,166.40
+50,Jaros Samuel,Male,15-12-2022,Copper Mountain,USA,Slovakia,Qualification,Big Air,6,
+51,Jaros Samuel,Male,10-12-2022,Edmonton,CAN,Slovakia,World Cup,Big Air,20,133.60
+52,Jaros Samuel,Male,09-12-2022,Edmonton,CAN,Slovakia,Qualification,Big Air,11,
+53,Jaros Samuel,Male,22-10-2022,Chur,SUI,Slovakia,World Cup,Big Air,16,150.40
+54,Jaros Samuel,Male,22-10-2022,Chur,SUI,Slovakia,Qualification,Big Air,10,
+55,Jaros Samuel,Male,27-03-2022,Silvaplana,SUI,Slovakia,World Cup,Slopestyle,21,122.50
+56,Jaros Samuel,Male,25-03-2022,Silvaplana,SUI,Slovakia,Qualification,Slopestyle,10,
+57,Jaros Samuel,Male,19-03-2022,Spindleruv Mlyn,CZE,Slovakia,World Cup,Slopestyle,14,118.80
+58,Jaros Samuel,Male,18-03-2022,Spindleruv Mlyn,CZE,Slovakia,Qualification,Slopestyle,8,
+59,Jaros Samuel,Male,06-03-2022,Bakuriani,GEO,Slovakia,World Cup,Slopestyle,7,137.10
+60,Jaros Samuel,Male,15-01-2022,Laax,SUI,Slovakia,World Cup,Slopestyle,32,73.90
+61,Jaros Samuel,Male,13-01-2022,Laax,SUI,Slovakia,Qualification,Slopestyle,17,
+62,Jaros Samuel,Male,08-01-2022,Mammoth Mountain,USA,Slovakia,World Cup,Slopestyle,13,224.90
+63,Jaros Samuel,Male,01-01-2022,Calgary,CAN,Slovakia,World Cup,Slopestyle,19,158.50
+64,Jaros Samuel,Male,31-12-2021,Calgary,CAN,Slovakia,Qualification,Slopestyle,11,
+65,Jaros Samuel,Male,04-12-2021,Steamboat,USA,Slovakia,World Cup,Big Air,41,83.50
+66,Jaros Samuel,Male,02-12-2021,Steamboat,USA,Slovakia,Qualification,Big Air,19,
+67,Jaros Samuel,Male,23-10-2021,Chur,SUI,Slovakia,World Cup,Big Air,40,47.10
+68,Jaros Samuel,Male,28-03-2021,Silvaplana,SUI,Slovakia,Qualification,Slopestyle,17,
+69,Jaros Samuel,Male,28-03-2021,Silvaplana,SUI,Slovakia,World Cup,Slopestyle,38,93.39
+70,Jaros Samuel,Male,20-03-2021,Aspen,USA,Slovakia,World Cup,Slopestyle,58,12.65
+71,Jaros Samuel,Male,19-03-2021,Aspen,USA,Slovakia,Qualification,Slopestyle,29,
+72,Jaros Samuel,Male,16-03-2021,Aspen,USA,Slovakia,World Championships,Big Air,31,93.26
+73,Jaros Samuel,Male,14-03-2021,Aspen,USA,Slovakia,Qualification,Big Air,14,
+74,Jaros Samuel,Male,12-03-2021,Aspen,USA,Slovakia,World Championships,Slopestyle,20,166.93
+75,Jaros Samuel,Male,10-03-2021,Aspen,USA,Slovakia,Qualification,Slopestyle,12,
+76,Jaros Samuel,Male,22-01-2021,Laax,SUI,Slovakia,World Cup,Slopestyle,22,120.85
+77,Jaros Samuel,Male,19-01-2021,Laax,SUI,Slovakia,Qualification,Slopestyle,22,
+78,Jaros Samuel,Male,09-01-2021,Kreischberg,AUT,Slovakia,Qualification,Big Air,27,
+79,Jaros Samuel,Male,09-01-2021,Kreischberg,AUT,Slovakia,World Cup,Big Air,51,41.80
+80,Jaros Samuel,Male,23-01-2020,Seiseralm,ITA,Slovakia,World Cup,Slopestyle,32,26.00
+81,Jaros Samuel,Male,22-01-2020,Seiseralm,ITA,Slovakia,Qualification,Slopestyle,16,
+82,Jaros Samuel,Male,15-01-2020,Laax,SUI,Slovakia,World Cup,Slopestyle,49,15.80
+83,Jaros Samuel,Male,13-01-2020,Laax,SUI,Slovakia,Qualification,Slopestyle,24,
+84,Jaros Samuel,Male,14-12-2019,Beijing,CHN,Slovakia,World Cup,Big Air,26,50.00
+85,Jaros Samuel,Male,12-12-2019,Beijing,CHN,Slovakia,Qualification,Big Air,13,
+86,Jaros Samuel,Male,02-11-2019,Modena SKIPASS,ITA,Slovakia,World Cup,Big Air,21,100.00
+87,Jaros Samuel,Male,13-04-2019,Klaeppen,SWE,Slovakia,FIS Junior World Championships,Big Air,12,52.80
+88,Jaros Samuel,Male,12-04-2019,Klaeppen,SWE,Slovakia,Qualification,Big Air,4,
+89,Jaros Samuel,Male,09-04-2019,Klaeppen,SWE,Slovakia,FIS Junior World Championships,Slopestyle,2,192.00
+90,Jaros Samuel,Male,08-04-2019,Klaeppen,SWE,Slovakia,Qualification,Slopestyle,5,
+91,Jaros Samuel,Male,26-01-2019,Seiser Alm,ITA,Slovakia,World Cup,Slopestyle,46,16.70
+92,Jaros Samuel,Male,24-01-2019,Seiser Alm,ITA,Slovakia,Qualification,Slopestyle,18,
+93,Jaros Samuel,Male,22-11-2018,Landgraaf,NED,Slovakia,European Cup,Slopestyle,16,24.00
+94,Jaros Samuel,Male,21-11-2018,Landgraaf,NED,Slovakia,FIS,Slopestyle,2,88.00
+95,Jaros Samuel,Male,03-11-2018,Modena SKIPASS,ITA,Slovakia,World Cup,Big Air,18,130.00
+96,Jaros Samuel,Male,08-09-2018,Cardrona,NZL,Slovakia,World Cup,Big Air,17,140.00
+97,Jaros Samuel,Male,06-09-2018,Cardrona,NZL,Slovakia,Qualification,Big Air,8,
+98,Jaros Samuel,Male,31-08-2018,Cardrona,NZL,Slovakia,FIS Junior World Championships,Slopestyle,15,38.40
+99,Jaros Samuel,Male,30-08-2018,Cardrona,NZL,Slovakia,Qualification,Slopestyle,7,
+100,Jaros Samuel,Male,25-08-2018,Cardrona,NZL,Slovakia,FIS Junior World Championships,Big Air,4,120.00
+101,Jaros Samuel,Male,24-08-2018,Cardrona,NZL,Slovakia,Qualification,Big Air,3,
+102,Jaros Samuel,Male,04-09-2017,Cardrona,NZL,Slovakia,World Cup,Slopestyle,DNS,
+103,Jaros Samuel,Male,03-09-2017,Cardrona,NZL,Slovakia,Qualification,Slopestyle,DNS,
+104,Jaros Samuel,Male,01-04-2017,Spindleruv Mlyn,CZE,Slovakia,FIS Junior World Championships,Big Air,15,38.40
+105,Jaros Samuel,Male,31-03-2017,Spindleruv Mlyn,CZE,Slovakia,FIS Junior World Championships,Slopestyle,13,72.00
+106,Jaros Samuel,Male,30-03-2017,Spindleruv Mlyn,CZE,Slovakia,Qualification,Slopestyle,3,
+107,Jaros Samuel,Male,29-03-2017,Spindleruv Mlyn,CZE,Slovakia,Qualification,Big Air,3,
+108,Jaros Samuel,Male,25-03-2017,Spindleruv Mlyn,CZE,Slovakia,World Cup,Slopestyle,40,18.50
+109,Jaros Samuel,Male,24-03-2017,Spindleruv Mlyn,CZE,Slovakia,Qualification,Slopestyle,17,
+110,Jaros Samuel,Male,17-03-2017,Sierra Nevada,ESP,Slovakia,World Championships,Big Air,30,32.00
+111,Jaros Samuel,Male,16-03-2017,Sierra Nevada,ESP,Slovakia,Qualification,Big Air,17,
+112,Jaros Samuel,Male,11-03-2017,Sierra Nevada,ESP,Slovakia,World Championships,Slopestyle,31,28.00
+113,Jaros Samuel,Male,09-03-2017,Sierra Nevada,ESP,Slovakia,Qualification,Slopestyle,19,
+114,Jaros Samuel,Male,04-02-2017,Mammoth Mountain Resort,USA,Slovakia,World Cup,Slopestyle,31,28.00
+115,Jaros Samuel,Male,01-02-2017,Mammoth Mountain Resort,USA,Slovakia,Qualification,Slopestyle,13,
+116,Jaros Samuel,Male,27-01-2017,Seiser Alm,ITA,Slovakia,World Cup,Slopestyle,47,16.40
+117,Jaros Samuel,Male,25-01-2017,Seiser Alm,ITA,Slovakia,Qualification,Slopestyle,25,
+118,Jaros Samuel,Male,14-01-2017,Kreischberg,AUT,Slovakia,World Cup,Slopestyle,35,20.00
+119,Jaros Samuel,Male,13-01-2017,Kreischberg,AUT,Slovakia,Qualification,Slopestyle,18,
+120,Jaros Samuel,Male,07-01-2017,Moscow,RUS,Slovakia,World Cup,Big Air,24,70.00
+121,Jaros Samuel,Male,17-12-2016,Copper,USA,Slovakia,World Cup,Big Air,35,20.00
+122,Jaros Samuel,Male,15-12-2016,Copper,USA,Slovakia,Qualification,Big Air,17,
+123,Jaros Samuel,Male,03-12-2016,Moenchengladbach,GER,Slovakia,Qualification,Big Air,21,
+124,Jaros Samuel,Male,03-12-2016,Moenchengladbach,GER,Slovakia,World Cup,Big Air,43,17.60
+125,Jaros Samuel,Male,02-04-2016,Jasna,SVK,Slovakia,European Cup,Slopestyle,12,44.00
+126,Jaros Samuel,Male,30-03-2016,Seiser Alm,ITA,Slovakia,FIS Junior World Championships,Big Air,9,104.40
+127,Jaros Samuel,Male,29-03-2016,Seiser Alm,ITA,Slovakia,FIS Junior World Championships,Slopestyle,10,93.60
+128,Jaros Samuel,Male,08-03-2016,Kopaonik,SRB,Slovakia,European Cup,Slopestyle,15,32.00
+129,Jaros Samuel,Male,27-01-2016,Vars,FRA,Slovakia,European Cup,Slopestyle,19,24.00
+130,Jaros Samuel,Male,26-01-2016,Vars,FRA,Slovakia,European Cup,Slopestyle,28,8.00
+131,Jaros Samuel,Male,05-11-2015,Landgraaf,NED,Slovakia,European Cup,Slopestyle,36,5.12
+132,Jaros Samuel,Male,04-11-2015,Landgraaf,NED,Slovakia,European Cup,Slopestyle,56,3.56
+133,Jaros Samuel,Male,24-03-2015,Strbske Pleso,SVK,Slovakia,European Cup,Slopestyle,26,12.00
+134,Jaros Samuel,Male,23-03-2015,Strbske Pleso,SVK,Slovakia,European Cup,Slopestyle,24,16.80

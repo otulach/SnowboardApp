@@ -1,93 +1,95 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Bianchi Luana,Female,15-03-2025,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,9,75.40
-1,Bianchi Luana,Female,13-03-2025,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,5,117.00
-2,Bianchi Luana,Female,28-02-2025,Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,2,208.00
-3,Bianchi Luana,Female,27-02-2025,Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,7,93.60
-4,Bianchi Luana,Female,09-02-2025,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,3,156.00
-5,Bianchi Luana,Female,08-02-2025,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,2,208.00
-6,Bianchi Luana,Female,24-01-2025,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,8,83.20
-7,Bianchi Luana,Female,23-01-2025,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,17,50.40
-8,Bianchi Luana,Female,22-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,10,83.20
-9,Bianchi Luana,Female,21-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,25,19.20
-10,Bianchi Luana,Female,14-03-2024,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,7,104.40
-11,Bianchi Luana,Female,13-03-2024,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,13,58.00
-12,Bianchi Luana,Female,25-02-2024,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,15,41.60
-13,Bianchi Luana,Female,24-02-2024,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,13,64.00
-14,Bianchi Luana,Female,17-02-2024,Colere,ITA,Switzerland,European Cup,Snowboard Cross,25,21.60
-15,Bianchi Luana,Female,16-02-2024,Colere,ITA,Switzerland,European Cup,Snowboard Cross,9,104.40
-16,Bianchi Luana,Female,06-02-2024,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,4,145.00
-17,Bianchi Luana,Female,05-02-2024,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,9,84.10
-18,Bianchi Luana,Female,01-02-2024,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,7,104.40
-19,Bianchi Luana,Female,31-01-2024,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,11,69.60
-20,Bianchi Luana,Female,28-01-2024,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,7,93.60
-21,Bianchi Luana,Female,27-01-2024,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,9,92.80
-22,Bianchi Luana,Female,09-12-2023,Pitztal,AUT,Switzerland,FIS,Snowboard Cross,13,36.00
-23,Bianchi Luana,Female,01-04-2023,St. Moritz,SUI,Switzerland,National Championships,Snowboard Cross,1,290.00
-24,Bianchi Luana,Female,16-03-2023,Veysonnaz,SUI,Switzerland,World Cup,Snowboard Cross,20,110.00
-25,Bianchi Luana,Female,15-03-2023,Veysonnaz,SUI,Switzerland,Qualification,Snowboard Cross,20,
-26,Bianchi Luana,Female,16-02-2023,Moena - Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,17,44.80
-27,Bianchi Luana,Female,15-02-2023,Moena - Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,13,64.00
-28,Bianchi Luana,Female,22-01-2023,Puy St.Vincent,FRA,Switzerland,European Cup,Snowboard Cross,8,115.20
-29,Bianchi Luana,Female,21-01-2023,Puy St.Vincent,FRA,Switzerland,European Cup,Snowboard Cross,3,216.00
-30,Bianchi Luana,Female,15-01-2023,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,11,86.40
-31,Bianchi Luana,Female,14-01-2023,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,18,46.80
-32,Bianchi Luana,Female,07-01-2023,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,13,52.00
-33,Bianchi Luana,Female,06-01-2023,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,3,156.00
-34,Bianchi Luana,Female,27-03-2022,Lenk,SUI,Switzerland,National Championships,Snowboard Cross,3,120.00
-35,Bianchi Luana,Female,26-03-2022,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,3,174.00
-36,Bianchi Luana,Female,25-03-2022,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,4,145.00
-37,Bianchi Luana,Female,09-03-2022,Lenk,SUI,Switzerland,FIS,Snowboard Cross,1,50.00
-38,Bianchi Luana,Female,03-03-2022,Pitztal,AUT,Switzerland,European Cup,Snowboard Cross,9,84.10
-39,Bianchi Luana,Female,02-03-2022,Pitztal,AUT,Switzerland,European Cup,Snowboard Cross,10,83.20
-40,Bianchi Luana,Female,27-02-2022,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,4,130.00
-41,Bianchi Luana,Female,26-02-2022,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,13,52.00
-42,Bianchi Luana,Female,03-02-2022,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,7,79.20
-43,Bianchi Luana,Female,02-02-2022,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,17,30.80
-44,Bianchi Luana,Female,23-01-2022,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,6,88.00
-45,Bianchi Luana,Female,14-12-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,6,56.00
-46,Bianchi Luana,Female,13-12-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,3,96.00
-47,Bianchi Luana,Female,31-10-2021,Les 2 Alpes,FRA,Switzerland,FIS,Snowboard Cross,17,25.20
-48,Bianchi Luana,Female,30-10-2021,Les 2 Alpes,FRA,Switzerland,FIS,Snowboard Cross,17,30.80
-49,Bianchi Luana,Female,12-03-2021,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,14,39.60
-50,Bianchi Luana,Female,07-03-2021,Montafon/Gargellen,AUT,Switzerland,European Cup,Snowboard Cross,24,12.60
-51,Bianchi Luana,Female,06-03-2021,Montafon/Gargellen,AUT,Switzerland,European Cup,Snowboard Cross,22,16.20
-52,Bianchi Luana,Female,27-02-2021,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,DNF,
-53,Bianchi Luana,Female,13-02-2021,Chiesa in Valmalenco,ITA,Switzerland,European Cup,Snowboard Cross,9,52.20
-54,Bianchi Luana,Female,12-02-2021,Chiesa in Valmalenco,ITA,Switzerland,European Cup,Snowboard Cross,16,27.00
-55,Bianchi Luana,Female,03-02-2021,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,13,40.00
-56,Bianchi Luana,Female,31-01-2021,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,25,21.60
-57,Bianchi Luana,Female,30-01-2021,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,20,39.60
-58,Bianchi Luana,Female,16-01-2021,Crans-Montana,SUI,Switzerland,FIS,Snowboard Cross,9,63.80
-59,Bianchi Luana,Female,16-02-2020,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,28,8.80
-60,Bianchi Luana,Female,15-02-2020,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,22,19.80
-61,Bianchi Luana,Female,24-03-2019,Lenk,SUI,Switzerland,National Championships,Snowboard Cross,9,58.00
-62,Bianchi Luana,Female,23-03-2019,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,17,50.40
-63,Bianchi Luana,Female,22-03-2019,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,23,28.80
-64,Bianchi Luana,Female,10-02-2019,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,3,60.00
-65,Bianchi Luana,Female,11-03-2018,Lenk,SUI,Switzerland,Junior,Snowboard Cross,2,96.00
-66,Bianchi Luana,Female,10-03-2018,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,DNS1,
-67,Bianchi Luana,Female,09-03-2018,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,16,43.50
-68,Bianchi Luana,Female,18-02-2018,Flumserberg,SUI,Switzerland,Junior,Snowboard Cross,3,54.00
-69,Bianchi Luana,Female,04-04-2016,Rogla,SLO,Switzerland,FIS Junior World Championships,Snowboardcross,26,18.00
-70,Bianchi Luana,Female,20-03-2016,Lenk,SUI,Switzerland,Junior,Snowboardcross,4,70.00
-71,Bianchi Luana,Female,19-03-2016,Lenk,SUI,Switzerland,European Cup,Snowboardcross,6,88.00
-72,Bianchi Luana,Female,18-03-2016,Lenk,SUI,Switzerland,European Cup,Snowboardcross,12,48.40
-73,Bianchi Luana,Female,13-03-2016,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboardcross,22,21.60
-74,Bianchi Luana,Female,12-03-2016,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboardcross,7,86.40
-75,Bianchi Luana,Female,06-03-2016,Grasgehren,GER,Switzerland,Junior,Snowboardcross,24,
-76,Bianchi Luana,Female,05-03-2016,Grasgehren,GER,Switzerland,Junior,Snowboardcross,5,63.00
-77,Bianchi Luana,Female,13-02-2016,Breuil Cervinia-Valtournenche,ITA,Switzerland,FIS,Snowboardcross,17,36.40
-78,Bianchi Luana,Female,12-02-2016,Breuil Cervinia-Valtournenche,ITA,Switzerland,FIS,Snowboardcross,25,15.60
-79,Bianchi Luana,Female,06-02-2016,Sedrun,SUI,Switzerland,National Championships,Snowboardcross,19,24.00
-80,Bianchi Luana,Female,30-01-2016,Grasgehren,GER,Switzerland,European Cup,Snowboardcross,29,10.44
-81,Bianchi Luana,Female,28-11-2015,Pitztal,AUT,Switzerland,Junior,Snowboardcross,33,4.80
-82,Bianchi Luana,Female,28-11-2015,Pitztal,AUT,Switzerland,Junior,Snowboardcross,19,24.00
-83,Bianchi Luana,Female,26-11-2015,Pitztal,AUT,Switzerland,European Cup,Snowboardcross,49,5.06
-84,Bianchi Luana,Female,25-11-2015,Pitztal,AUT,Switzerland,European Cup,Snowboardcross,17,50.40
-85,Bianchi Luana,Female,01-02-2015,Montafon,AUT,Switzerland,Junior,Snowboardcross,8,16.00
-86,Bianchi Luana,Female,31-01-2015,Montafon,AUT,Switzerland,Junior,Snowboardcross,6,20.00
-87,Bianchi Luana,Female,26-01-2015,Schruns - Hochjoch,AUT,Switzerland,European Youth Olympic Festival,Snowboardcross,13,24.00
-88,Bianchi Luana,Female,18-01-2015,Isola 2000,FRA,Switzerland,European Cup,Snowboardcross,36,3.94
-89,Bianchi Luana,Female,17-01-2015,Isola 2000,FRA,Switzerland,European Cup,Snowboardcross,26,10.00
-90,Bianchi Luana,Female,30-11-2014,Pitztal,AUT,Switzerland,Junior,Snowboardcross,9,46.40
-91,Bianchi Luana,Female,29-11-2014,Pitztal,AUT,Switzerland,Junior,Snowboardcross,31,4.48
+0,Bianchi Luana,Female,21-03-2025,Montafon,AUT,Switzerland,World Cup,Snowboard Cross,21,
+1,Bianchi Luana,Female,20-03-2025,Montafon,AUT,Switzerland,Qualification,Snowboard Cross,21,
+2,Bianchi Luana,Female,15-03-2025,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,9,75.40
+3,Bianchi Luana,Female,13-03-2025,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,5,117.00
+4,Bianchi Luana,Female,28-02-2025,Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,2,208.00
+5,Bianchi Luana,Female,27-02-2025,Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,7,93.60
+6,Bianchi Luana,Female,09-02-2025,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,3,156.00
+7,Bianchi Luana,Female,08-02-2025,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,2,208.00
+8,Bianchi Luana,Female,24-01-2025,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,8,83.20
+9,Bianchi Luana,Female,23-01-2025,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,17,50.40
+10,Bianchi Luana,Female,22-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,10,83.20
+11,Bianchi Luana,Female,21-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,25,19.20
+12,Bianchi Luana,Female,14-03-2024,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,7,104.40
+13,Bianchi Luana,Female,13-03-2024,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,13,58.00
+14,Bianchi Luana,Female,25-02-2024,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,15,41.60
+15,Bianchi Luana,Female,24-02-2024,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,13,64.00
+16,Bianchi Luana,Female,17-02-2024,Colere,ITA,Switzerland,European Cup,Snowboard Cross,25,21.60
+17,Bianchi Luana,Female,16-02-2024,Colere,ITA,Switzerland,European Cup,Snowboard Cross,9,104.40
+18,Bianchi Luana,Female,06-02-2024,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,4,145.00
+19,Bianchi Luana,Female,05-02-2024,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,9,84.10
+20,Bianchi Luana,Female,01-02-2024,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,7,104.40
+21,Bianchi Luana,Female,31-01-2024,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,11,69.60
+22,Bianchi Luana,Female,28-01-2024,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,7,93.60
+23,Bianchi Luana,Female,27-01-2024,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,9,92.80
+24,Bianchi Luana,Female,09-12-2023,Pitztal,AUT,Switzerland,FIS,Snowboard Cross,13,36.00
+25,Bianchi Luana,Female,01-04-2023,St. Moritz,SUI,Switzerland,National Championships,Snowboard Cross,1,290.00
+26,Bianchi Luana,Female,16-03-2023,Veysonnaz,SUI,Switzerland,World Cup,Snowboard Cross,20,110.00
+27,Bianchi Luana,Female,15-03-2023,Veysonnaz,SUI,Switzerland,Qualification,Snowboard Cross,20,
+28,Bianchi Luana,Female,16-02-2023,Moena - Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,17,44.80
+29,Bianchi Luana,Female,15-02-2023,Moena - Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,13,64.00
+30,Bianchi Luana,Female,22-01-2023,Puy St.Vincent,FRA,Switzerland,European Cup,Snowboard Cross,8,115.20
+31,Bianchi Luana,Female,21-01-2023,Puy St.Vincent,FRA,Switzerland,European Cup,Snowboard Cross,3,216.00
+32,Bianchi Luana,Female,15-01-2023,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,11,86.40
+33,Bianchi Luana,Female,14-01-2023,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,18,46.80
+34,Bianchi Luana,Female,07-01-2023,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,13,52.00
+35,Bianchi Luana,Female,06-01-2023,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,3,156.00
+36,Bianchi Luana,Female,27-03-2022,Lenk,SUI,Switzerland,National Championships,Snowboard Cross,3,120.00
+37,Bianchi Luana,Female,26-03-2022,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,3,174.00
+38,Bianchi Luana,Female,25-03-2022,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,4,145.00
+39,Bianchi Luana,Female,09-03-2022,Lenk,SUI,Switzerland,FIS,Snowboard Cross,1,50.00
+40,Bianchi Luana,Female,03-03-2022,Pitztal,AUT,Switzerland,European Cup,Snowboard Cross,9,84.10
+41,Bianchi Luana,Female,02-03-2022,Pitztal,AUT,Switzerland,European Cup,Snowboard Cross,10,83.20
+42,Bianchi Luana,Female,27-02-2022,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,4,130.00
+43,Bianchi Luana,Female,26-02-2022,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,13,52.00
+44,Bianchi Luana,Female,03-02-2022,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,7,79.20
+45,Bianchi Luana,Female,02-02-2022,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,17,30.80
+46,Bianchi Luana,Female,23-01-2022,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,6,88.00
+47,Bianchi Luana,Female,14-12-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,6,56.00
+48,Bianchi Luana,Female,13-12-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,3,96.00
+49,Bianchi Luana,Female,31-10-2021,Les 2 Alpes,FRA,Switzerland,FIS,Snowboard Cross,17,25.20
+50,Bianchi Luana,Female,30-10-2021,Les 2 Alpes,FRA,Switzerland,FIS,Snowboard Cross,17,30.80
+51,Bianchi Luana,Female,12-03-2021,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,14,39.60
+52,Bianchi Luana,Female,07-03-2021,Montafon/Gargellen,AUT,Switzerland,European Cup,Snowboard Cross,24,12.60
+53,Bianchi Luana,Female,06-03-2021,Montafon/Gargellen,AUT,Switzerland,European Cup,Snowboard Cross,22,16.20
+54,Bianchi Luana,Female,27-02-2021,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,DNF,
+55,Bianchi Luana,Female,13-02-2021,Chiesa in Valmalenco,ITA,Switzerland,European Cup,Snowboard Cross,9,52.20
+56,Bianchi Luana,Female,12-02-2021,Chiesa in Valmalenco,ITA,Switzerland,European Cup,Snowboard Cross,16,27.00
+57,Bianchi Luana,Female,03-02-2021,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,13,40.00
+58,Bianchi Luana,Female,31-01-2021,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,25,21.60
+59,Bianchi Luana,Female,30-01-2021,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,20,39.60
+60,Bianchi Luana,Female,16-01-2021,Crans-Montana,SUI,Switzerland,FIS,Snowboard Cross,9,63.80
+61,Bianchi Luana,Female,16-02-2020,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,28,8.80
+62,Bianchi Luana,Female,15-02-2020,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,22,19.80
+63,Bianchi Luana,Female,24-03-2019,Lenk,SUI,Switzerland,National Championships,Snowboard Cross,9,58.00
+64,Bianchi Luana,Female,23-03-2019,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,17,50.40
+65,Bianchi Luana,Female,22-03-2019,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,23,28.80
+66,Bianchi Luana,Female,10-02-2019,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,3,60.00
+67,Bianchi Luana,Female,11-03-2018,Lenk,SUI,Switzerland,Junior,Snowboard Cross,2,96.00
+68,Bianchi Luana,Female,10-03-2018,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,DNS1,
+69,Bianchi Luana,Female,09-03-2018,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,16,43.50
+70,Bianchi Luana,Female,18-02-2018,Flumserberg,SUI,Switzerland,Junior,Snowboard Cross,3,54.00
+71,Bianchi Luana,Female,04-04-2016,Rogla,SLO,Switzerland,FIS Junior World Championships,Snowboardcross,26,18.00
+72,Bianchi Luana,Female,20-03-2016,Lenk,SUI,Switzerland,Junior,Snowboardcross,4,70.00
+73,Bianchi Luana,Female,19-03-2016,Lenk,SUI,Switzerland,European Cup,Snowboardcross,6,88.00
+74,Bianchi Luana,Female,18-03-2016,Lenk,SUI,Switzerland,European Cup,Snowboardcross,12,48.40
+75,Bianchi Luana,Female,13-03-2016,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboardcross,22,21.60
+76,Bianchi Luana,Female,12-03-2016,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboardcross,7,86.40
+77,Bianchi Luana,Female,06-03-2016,Grasgehren,GER,Switzerland,Junior,Snowboardcross,24,
+78,Bianchi Luana,Female,05-03-2016,Grasgehren,GER,Switzerland,Junior,Snowboardcross,5,63.00
+79,Bianchi Luana,Female,13-02-2016,Breuil Cervinia-Valtournenche,ITA,Switzerland,FIS,Snowboardcross,17,36.40
+80,Bianchi Luana,Female,12-02-2016,Breuil Cervinia-Valtournenche,ITA,Switzerland,FIS,Snowboardcross,25,15.60
+81,Bianchi Luana,Female,06-02-2016,Sedrun,SUI,Switzerland,National Championships,Snowboardcross,19,24.00
+82,Bianchi Luana,Female,30-01-2016,Grasgehren,GER,Switzerland,European Cup,Snowboardcross,29,10.44
+83,Bianchi Luana,Female,28-11-2015,Pitztal,AUT,Switzerland,Junior,Snowboardcross,19,24.00
+84,Bianchi Luana,Female,28-11-2015,Pitztal,AUT,Switzerland,Junior,Snowboardcross,33,4.80
+85,Bianchi Luana,Female,26-11-2015,Pitztal,AUT,Switzerland,European Cup,Snowboardcross,49,5.06
+86,Bianchi Luana,Female,25-11-2015,Pitztal,AUT,Switzerland,European Cup,Snowboardcross,17,50.40
+87,Bianchi Luana,Female,01-02-2015,Montafon,AUT,Switzerland,Junior,Snowboardcross,8,16.00
+88,Bianchi Luana,Female,31-01-2015,Montafon,AUT,Switzerland,Junior,Snowboardcross,6,20.00
+89,Bianchi Luana,Female,26-01-2015,Schruns - Hochjoch,AUT,Switzerland,European Youth Olympic Festival,Snowboardcross,13,24.00
+90,Bianchi Luana,Female,18-01-2015,Isola 2000,FRA,Switzerland,European Cup,Snowboardcross,36,3.94
+91,Bianchi Luana,Female,17-01-2015,Isola 2000,FRA,Switzerland,European Cup,Snowboardcross,26,10.00
+92,Bianchi Luana,Female,30-11-2014,Pitztal,AUT,Switzerland,Junior,Snowboardcross,9,46.40
+93,Bianchi Luana,Female,29-11-2014,Pitztal,AUT,Switzerland,Junior,Snowboardcross,31,4.48

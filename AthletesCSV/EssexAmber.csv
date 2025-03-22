@@ -1,58 +1,60 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Essex Amber,Female,09-03-2025,Gudauri,GEO,Australia,World Cup,Snowboard Cross,19,120.00
-1,Essex Amber,Female,08-03-2025,Gudauri,GEO,Australia,World Cup,Snowboard Cross,26,50.00
-2,Essex Amber,Female,07-03-2025,Gudauri,GEO,Australia,Qualification,Snowboard Cross,26,
-3,Essex Amber,Female,01-03-2025,Erzurum,TUR,Australia,World Cup,Snowboard Cross,14,180.00
-4,Essex Amber,Female,28-02-2025,Erzurum,TUR,Australia,Qualification,Snowboard Cross,13,
-5,Essex Amber,Female,15-02-2025,Cortina d'Ampezzo,ITA,Australia,Qualification,Snowboard Cross,14,
-6,Essex Amber,Female,15-02-2025,Cortina d'Ampezzo,ITA,Australia,World Cup,Snowboard Cross,12,220.00
-7,Essex Amber,Female,02-02-2025,Beidahu,CHN,Australia,Qualification,Snowboard Cross,12,
-8,Essex Amber,Female,02-02-2025,Beidahu,CHN,Australia,World Cup,Snowboard Cross,7,360.00
-9,Essex Amber,Female,01-02-2025,Beidahu,CHN,Australia,World Cup,Snowboard Cross,18,130.00
-10,Essex Amber,Female,31-01-2025,Beidahu,CHN,Australia,Qualification,Snowboard Cross,18,
-11,Essex Amber,Female,14-12-2024,Cervinia,ITA,Australia,World Cup,Snowboard Cross,11,240.00
-12,Essex Amber,Female,13-12-2024,Cervinia,ITA,Australia,Qualification,Snowboard Cross,10,
-13,Essex Amber,Female,16-12-2023,Cervinia,ITA,Australia,World Cup,Snowboard Cross,15,160.00
-14,Essex Amber,Female,03-12-2023,Les Deux Alpes,FRA,Australia,Qualification,Snowboard Cross,17,
-15,Essex Amber,Female,03-12-2023,Les Deux Alpes,FRA,Australia,World Cup,Snowboard Cross,17,140.00
-16,Essex Amber,Female,19-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,3,216.00
-17,Essex Amber,Female,18-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,2,192.00
-18,Essex Amber,Female,17-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,1,360.00
-19,Essex Amber,Female,16-02-2023,Moena - Passo San Pellegrino,ITA,Australia,European Cup,Snowboard Cross,9,92.80
-20,Essex Amber,Female,15-02-2023,Moena - Passo San Pellegrino,ITA,Australia,European Cup,Snowboard Cross,6,128.00
-21,Essex Amber,Female,22-01-2023,Puy St.Vincent,FRA,Australia,European Cup,Snowboard Cross,13,72.00
-22,Essex Amber,Female,21-01-2023,Puy St.Vincent,FRA,Australia,European Cup,Snowboard Cross,8,115.20
-23,Essex Amber,Female,15-01-2023,Reiteralm,AUT,Australia,European Cup,Snowboard Cross,19,43.20
-24,Essex Amber,Female,14-01-2023,Reiteralm,AUT,Australia,European Cup,Snowboard Cross,16,54.00
-25,Essex Amber,Female,07-01-2023,Isola 2000,FRA,Australia,European Cup,Snowboard Cross,8,83.20
-26,Essex Amber,Female,06-01-2023,Isola 2000,FRA,Australia,European Cup,Snowboard Cross,7,93.60
-27,Essex Amber,Female,03-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,3,96.00
-28,Essex Amber,Female,02-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,2,128.00
-29,Essex Amber,Female,01-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,2,128.00
-30,Essex Amber,Female,27-03-2022,Lenk,SUI,Australia,National Championships,Snowboard Cross,5,90.00
-31,Essex Amber,Female,26-03-2022,Lenk,SUI,Australia,European Cup,Snowboard Cross,4,145.00
-32,Essex Amber,Female,25-03-2022,Lenk,SUI,Australia,European Cup,Snowboard Cross,18,37.70
-33,Essex Amber,Female,09-03-2022,Lenk,SUI,Australia,FIS,Snowboard Cross,4,25.00
-34,Essex Amber,Female,04-03-2022,Pitztal,AUT,Australia,Junior,Snowboard Cross,5,63.00
-35,Essex Amber,Female,02-03-2022,Pitztal,AUT,Australia,European Cup,Snowboard Cross,DNS,
-36,Essex Amber,Female,03-02-2022,Dolni Morava,CZE,Australia,European Cup,Snowboard Cross,25,13.20
-37,Essex Amber,Female,02-02-2022,Dolni Morava,CZE,Australia,European Cup,Snowboard Cross,13,44.00
-38,Essex Amber,Female,23-01-2022,Reiteralm,AUT,Australia,European Cup,Snowboard Cross,13,44.00
-39,Essex Amber,Female,20-01-2020,Villars,SUI,Australia,Youth Olympic Winter Games,Snowboard Cross,10,46.80
-40,Essex Amber,Female,12-01-2020,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,16,54.00
-41,Essex Amber,Female,11-01-2020,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,17,50.40
-42,Essex Amber,Female,04-09-2019,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,10,52.00
-43,Essex Amber,Female,03-09-2019,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,11,48.00
-44,Essex Amber,Female,06-08-2019,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,9,46.40
-45,Essex Amber,Female,21-02-2019,Ski Cooper,USA,Australia,Nor-Am Cup,Snowboard Cross,7,64.80
-46,Essex Amber,Female,20-02-2019,Ski Cooper,USA,Australia,Nor-Am Cup,Snowboard Cross,18,23.40
-47,Essex Amber,Female,13-02-2019,Mont Orignal,CAN,Australia,Nor-Am Cup,Snowboard Cross,7,57.60
-48,Essex Amber,Female,12-02-2019,Mont Orignal,CAN,Australia,Nor-Am Cup,Snowboard Cross,18,20.80
-49,Essex Amber,Female,08-02-2019,Craigleith,CAN,Australia,Nor-Am Cup,Snowboard Cross,21,16.00
-50,Essex Amber,Female,07-02-2019,Craigleith,CAN,Australia,Nor-Am Cup,Snowboard Cross,20,17.60
-51,Essex Amber,Female,09-01-2019,"Panorama, BC",CAN,Australia,Nor-Am Cup,Snowboard Cross,16,43.50
-52,Essex Amber,Female,08-01-2019,"Panorama, BC",CAN,Australia,Nor-Am Cup,Snowboard Cross,11,69.60
-53,Essex Amber,Female,05-09-2018,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,6,64.00
-54,Essex Amber,Female,04-09-2018,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,9,46.40
-55,Essex Amber,Female,01-08-2018,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,8,51.20
-56,Essex Amber,Female,24-07-2018,Thredbo,AUS,Australia,Junior,Snowboard Cross,3,42.00
+0,Essex Amber,Female,21-03-2025,Montafon,AUT,Australia,World Cup,Snowboard Cross,DNS2,
+1,Essex Amber,Female,20-03-2025,Montafon,AUT,Australia,Qualification,Snowboard Cross,DNS2,
+2,Essex Amber,Female,09-03-2025,Gudauri,GEO,Australia,World Cup,Snowboard Cross,19,120.00
+3,Essex Amber,Female,08-03-2025,Gudauri,GEO,Australia,World Cup,Snowboard Cross,26,50.00
+4,Essex Amber,Female,07-03-2025,Gudauri,GEO,Australia,Qualification,Snowboard Cross,26,
+5,Essex Amber,Female,01-03-2025,Erzurum,TUR,Australia,World Cup,Snowboard Cross,14,180.00
+6,Essex Amber,Female,28-02-2025,Erzurum,TUR,Australia,Qualification,Snowboard Cross,13,
+7,Essex Amber,Female,15-02-2025,Cortina d'Ampezzo,ITA,Australia,World Cup,Snowboard Cross,12,220.00
+8,Essex Amber,Female,15-02-2025,Cortina d'Ampezzo,ITA,Australia,Qualification,Snowboard Cross,14,
+9,Essex Amber,Female,02-02-2025,Beidahu,CHN,Australia,Qualification,Snowboard Cross,12,
+10,Essex Amber,Female,02-02-2025,Beidahu,CHN,Australia,World Cup,Snowboard Cross,7,360.00
+11,Essex Amber,Female,01-02-2025,Beidahu,CHN,Australia,World Cup,Snowboard Cross,18,130.00
+12,Essex Amber,Female,31-01-2025,Beidahu,CHN,Australia,Qualification,Snowboard Cross,18,
+13,Essex Amber,Female,14-12-2024,Cervinia,ITA,Australia,World Cup,Snowboard Cross,11,240.00
+14,Essex Amber,Female,13-12-2024,Cervinia,ITA,Australia,Qualification,Snowboard Cross,10,
+15,Essex Amber,Female,16-12-2023,Cervinia,ITA,Australia,World Cup,Snowboard Cross,15,160.00
+16,Essex Amber,Female,03-12-2023,Les Deux Alpes,FRA,Australia,World Cup,Snowboard Cross,17,140.00
+17,Essex Amber,Female,03-12-2023,Les Deux Alpes,FRA,Australia,Qualification,Snowboard Cross,17,
+18,Essex Amber,Female,19-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,3,216.00
+19,Essex Amber,Female,18-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,2,192.00
+20,Essex Amber,Female,17-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,1,360.00
+21,Essex Amber,Female,16-02-2023,Moena - Passo San Pellegrino,ITA,Australia,European Cup,Snowboard Cross,9,92.80
+22,Essex Amber,Female,15-02-2023,Moena - Passo San Pellegrino,ITA,Australia,European Cup,Snowboard Cross,6,128.00
+23,Essex Amber,Female,22-01-2023,Puy St.Vincent,FRA,Australia,European Cup,Snowboard Cross,13,72.00
+24,Essex Amber,Female,21-01-2023,Puy St.Vincent,FRA,Australia,European Cup,Snowboard Cross,8,115.20
+25,Essex Amber,Female,15-01-2023,Reiteralm,AUT,Australia,European Cup,Snowboard Cross,19,43.20
+26,Essex Amber,Female,14-01-2023,Reiteralm,AUT,Australia,European Cup,Snowboard Cross,16,54.00
+27,Essex Amber,Female,07-01-2023,Isola 2000,FRA,Australia,European Cup,Snowboard Cross,8,83.20
+28,Essex Amber,Female,06-01-2023,Isola 2000,FRA,Australia,European Cup,Snowboard Cross,7,93.60
+29,Essex Amber,Female,03-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,3,96.00
+30,Essex Amber,Female,02-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,2,128.00
+31,Essex Amber,Female,01-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,2,128.00
+32,Essex Amber,Female,27-03-2022,Lenk,SUI,Australia,National Championships,Snowboard Cross,5,90.00
+33,Essex Amber,Female,26-03-2022,Lenk,SUI,Australia,European Cup,Snowboard Cross,4,145.00
+34,Essex Amber,Female,25-03-2022,Lenk,SUI,Australia,European Cup,Snowboard Cross,18,37.70
+35,Essex Amber,Female,09-03-2022,Lenk,SUI,Australia,FIS,Snowboard Cross,4,25.00
+36,Essex Amber,Female,04-03-2022,Pitztal,AUT,Australia,Junior,Snowboard Cross,5,63.00
+37,Essex Amber,Female,02-03-2022,Pitztal,AUT,Australia,European Cup,Snowboard Cross,DNS,
+38,Essex Amber,Female,03-02-2022,Dolni Morava,CZE,Australia,European Cup,Snowboard Cross,25,13.20
+39,Essex Amber,Female,02-02-2022,Dolni Morava,CZE,Australia,European Cup,Snowboard Cross,13,44.00
+40,Essex Amber,Female,23-01-2022,Reiteralm,AUT,Australia,European Cup,Snowboard Cross,13,44.00
+41,Essex Amber,Female,20-01-2020,Villars,SUI,Australia,Youth Olympic Winter Games,Snowboard Cross,10,46.80
+42,Essex Amber,Female,12-01-2020,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,16,54.00
+43,Essex Amber,Female,11-01-2020,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,17,50.40
+44,Essex Amber,Female,04-09-2019,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,10,52.00
+45,Essex Amber,Female,03-09-2019,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,11,48.00
+46,Essex Amber,Female,06-08-2019,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,9,46.40
+47,Essex Amber,Female,21-02-2019,Ski Cooper,USA,Australia,Nor-Am Cup,Snowboard Cross,7,64.80
+48,Essex Amber,Female,20-02-2019,Ski Cooper,USA,Australia,Nor-Am Cup,Snowboard Cross,18,23.40
+49,Essex Amber,Female,13-02-2019,Mont Orignal,CAN,Australia,Nor-Am Cup,Snowboard Cross,7,57.60
+50,Essex Amber,Female,12-02-2019,Mont Orignal,CAN,Australia,Nor-Am Cup,Snowboard Cross,18,20.80
+51,Essex Amber,Female,08-02-2019,Craigleith,CAN,Australia,Nor-Am Cup,Snowboard Cross,21,16.00
+52,Essex Amber,Female,07-02-2019,Craigleith,CAN,Australia,Nor-Am Cup,Snowboard Cross,20,17.60
+53,Essex Amber,Female,09-01-2019,"Panorama, BC",CAN,Australia,Nor-Am Cup,Snowboard Cross,16,43.50
+54,Essex Amber,Female,08-01-2019,"Panorama, BC",CAN,Australia,Nor-Am Cup,Snowboard Cross,11,69.60
+55,Essex Amber,Female,05-09-2018,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,6,64.00
+56,Essex Amber,Female,04-09-2018,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,9,46.40
+57,Essex Amber,Female,01-08-2018,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,8,51.20
+58,Essex Amber,Female,24-07-2018,Thredbo,AUS,Australia,Junior,Snowboard Cross,3,42.00

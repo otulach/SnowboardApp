@@ -1,234 +1,236 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Dalmasso Lucia,Female,15-03-2025,Winterberg,GER,Italy,Qualification,Parallel Slalom,4,
-1,Dalmasso Lucia,Female,15-03-2025,Winterberg,GER,Italy,World Cup,Parallel Slalom,7,360.00
-2,Dalmasso Lucia,Female,02-03-2025,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,4,
-3,Dalmasso Lucia,Female,02-03-2025,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,4,500.00
-4,Dalmasso Lucia,Female,01-03-2025,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,4,
-5,Dalmasso Lucia,Female,01-03-2025,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,4,500.00
-6,Dalmasso Lucia,Female,23-02-2025,Funes - Vilnoessse,ITA,Italy,FIS,Parallel Giant Slalom,2,176.00
-7,Dalmasso Lucia,Female,22-02-2025,Funes - Vilnoessse,ITA,Italy,FIS,Parallel Giant Slalom,1,220.00
-8,Dalmasso Lucia,Female,16-02-2025,Val St. Come,CAN,Italy,Qualification,Parallel Giant Slalom,3,
-9,Dalmasso Lucia,Female,16-02-2025,Val St. Come,CAN,Italy,World Cup,Parallel Giant Slalom,9,290.00
-10,Dalmasso Lucia,Female,15-02-2025,Val St. Come,CAN,Italy,Qualification,Parallel Giant Slalom,17,
-11,Dalmasso Lucia,Female,15-02-2025,Val St. Come,CAN,Italy,World Cup,Parallel Giant Slalom,17,140.00
-12,Dalmasso Lucia,Female,15-01-2025,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom Team,5,
-13,Dalmasso Lucia,Female,14-01-2025,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,5,
-14,Dalmasso Lucia,Female,14-01-2025,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,9,290.00
-15,Dalmasso Lucia,Female,11-01-2025,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,15,
-16,Dalmasso Lucia,Female,11-01-2025,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,15,160.00
-17,Dalmasso Lucia,Female,21-12-2024,Davos,SUI,Italy,Qualification,Parallel Slalom,8,
-18,Dalmasso Lucia,Female,21-12-2024,Davos,SUI,Italy,World Cup,Parallel Slalom,8,320.00
-19,Dalmasso Lucia,Female,14-12-2024,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,3,
-20,Dalmasso Lucia,Female,14-12-2024,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,9,290.00
-21,Dalmasso Lucia,Female,12-12-2024,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,24,
-22,Dalmasso Lucia,Female,12-12-2024,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,24,70.00
-23,Dalmasso Lucia,Female,08-12-2024,Yanqing (NASC),CHN,Italy,World Cup,Parallel Slalom,19,120.00
-24,Dalmasso Lucia,Female,08-12-2024,Yanqing (NASC),CHN,Italy,Qualification,Parallel Slalom,19,
-25,Dalmasso Lucia,Female,07-12-2024,Yanqing (NASC),CHN,Italy,World Cup,Parallel Giant Slalom,1,1000.00
-26,Dalmasso Lucia,Female,07-12-2024,Yanqing (NASC),CHN,Italy,Qualification,Parallel Giant Slalom,4,
-27,Dalmasso Lucia,Female,01-12-2024,Mylin,CHN,Italy,World Cup,Parallel Slalom,32,26.00
-28,Dalmasso Lucia,Female,01-12-2024,Mylin,CHN,Italy,Qualification,Parallel Slalom,32,
-29,Dalmasso Lucia,Female,30-11-2024,Mylin,CHN,Italy,World Cup,Parallel Giant Slalom,9,290.00
-30,Dalmasso Lucia,Female,30-11-2024,Mylin,CHN,Italy,Qualification,Parallel Giant Slalom,3,
-31,Dalmasso Lucia,Female,17-03-2024,St. Moritz,SUI,Italy,European Cup,Parallel Slalom,4,180.00
-32,Dalmasso Lucia,Female,16-03-2024,St. Moritz,SUI,Italy,European Cup,Parallel Giant Slalom,2,288.00
-33,Dalmasso Lucia,Female,10-03-2024,Winterberg,GER,Italy,World Cup,Parallel Slalom Team,1,
-34,Dalmasso Lucia,Female,09-03-2024,Winterberg,GER,Italy,Qualification,Parallel Slalom,7,
-35,Dalmasso Lucia,Female,09-03-2024,Winterberg,GER,Italy,World Cup,Parallel Slalom,3,600.00
-36,Dalmasso Lucia,Female,25-02-2024,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,5,
-37,Dalmasso Lucia,Female,25-02-2024,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,9,290.00
-38,Dalmasso Lucia,Female,24-02-2024,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,3,
-39,Dalmasso Lucia,Female,24-02-2024,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,9,290.00
-40,Dalmasso Lucia,Female,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,1,290.00
-41,Dalmasso Lucia,Female,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,1,290.00
-42,Dalmasso Lucia,Female,28-01-2024,Simonhöhe,AUT,Italy,World Cup,Parallel Giant Slalom Team,9,
-43,Dalmasso Lucia,Female,27-01-2024,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,4,
-44,Dalmasso Lucia,Female,27-01-2024,Simonhöhe,AUT,Italy,World Cup,Parallel Giant Slalom,9,290.00
-45,Dalmasso Lucia,Female,25-01-2024,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,14,
-46,Dalmasso Lucia,Female,25-01-2024,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,14,180.00
-47,Dalmasso Lucia,Female,21-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,8,
-48,Dalmasso Lucia,Female,21-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,7,360.00
-49,Dalmasso Lucia,Female,20-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,2,
-50,Dalmasso Lucia,Female,20-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,5,450.00
-51,Dalmasso Lucia,Female,17-01-2024,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom Team,2,
-52,Dalmasso Lucia,Female,16-01-2024,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,5,
-53,Dalmasso Lucia,Female,16-01-2024,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,9,290.00
-54,Dalmasso Lucia,Female,13-01-2024,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,3,
-55,Dalmasso Lucia,Female,13-01-2024,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,1,1000.00
-56,Dalmasso Lucia,Female,23-12-2023,Davos ,SUI,Italy,Qualification,Parallel Slalom,5,
-57,Dalmasso Lucia,Female,23-12-2023,Davos,SUI,Italy,World Cup,Parallel Slalom,2,800.00
-58,Dalmasso Lucia,Female,16-12-2023,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,6,
-59,Dalmasso Lucia,Female,16-12-2023,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,2,800.00
-60,Dalmasso Lucia,Female,14-12-2023,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,4,
-61,Dalmasso Lucia,Female,14-12-2023,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,5,450.00
-62,Dalmasso Lucia,Female,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,3,174.00
-63,Dalmasso Lucia,Female,19-03-2023,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom Team,3,
-64,Dalmasso Lucia,Female,18-03-2023,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,11,
-65,Dalmasso Lucia,Female,18-03-2023,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,8,320.00
-66,Dalmasso Lucia,Female,15-03-2023,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,4,500.00
-67,Dalmasso Lucia,Female,15-03-2023,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,4,
-68,Dalmasso Lucia,Female,22-02-2023,Bakuriani,GEO,Italy,World Championships,Parallel Slalom Team,4,
-69,Dalmasso Lucia,Female,21-02-2023,Bakuriani,GEO,Italy,Qualification,Parallel Slalom,15,
-70,Dalmasso Lucia,Female,21-02-2023,Bakuriani,GEO,Italy,World Championships,Parallel Slalom,8,320.00
-71,Dalmasso Lucia,Female,19-02-2023,Bakuriani,GEO,Italy,Qualification,Parallel Giant Slalom,7,
-72,Dalmasso Lucia,Female,19-02-2023,Bakuriani,GEO,Italy,World Championships,Parallel Giant Slalom,4,500.00
-73,Dalmasso Lucia,Female,27-01-2023,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,7,
-74,Dalmasso Lucia,Female,27-01-2023,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,10,260.00
-75,Dalmasso Lucia,Female,26-01-2023,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,8,
-76,Dalmasso Lucia,Female,26-01-2023,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,2,800.00
-77,Dalmasso Lucia,Female,22-01-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,12,
-78,Dalmasso Lucia,Female,22-01-2023,Bansko,BUL,Italy,World Cup,Parallel Slalom,8,320.00
-79,Dalmasso Lucia,Female,21-01-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,13,
-80,Dalmasso Lucia,Female,21-01-2023,Bansko,BUL,Italy,World Cup,Parallel Slalom,14,180.00
-81,Dalmasso Lucia,Female,14-01-2023,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,25,
-82,Dalmasso Lucia,Female,14-01-2023,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,25,
-83,Dalmasso Lucia,Female,11-01-2023,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom Team,5,
-84,Dalmasso Lucia,Female,10-01-2023,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,12,
-85,Dalmasso Lucia,Female,10-01-2023,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,13,200.00
-86,Dalmasso Lucia,Female,17-12-2022,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,2,
-87,Dalmasso Lucia,Female,17-12-2022,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,4,500.00
-88,Dalmasso Lucia,Female,15-12-2022,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,16,
-89,Dalmasso Lucia,Female,15-12-2022,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,16,150.00
-90,Dalmasso Lucia,Female,11-12-2022,Winterberg,GER,Italy,World Cup,Parallel Slalom,7,360.00
-91,Dalmasso Lucia,Female,10-12-2022,Winterberg,GER,Italy,Qualification,Parallel Slalom,13,
-92,Dalmasso Lucia,Female,10-12-2022,Winterberg,GER,Italy,World Cup,Parallel Slalom Team,12,
-93,Dalmasso Lucia,Female,12-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Slalom,2,160.00
-94,Dalmasso Lucia,Female,11-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Giant Slalom,4,100.00
-95,Dalmasso Lucia,Female,20-03-2022,Berchtesgaden,GER,Italy,World Cup,Parallel  Slalom Team,8,
-96,Dalmasso Lucia,Female,19-03-2022,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,8,
-97,Dalmasso Lucia,Female,19-03-2022,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,8,320.00
-98,Dalmasso Lucia,Female,16-03-2022,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,2,
-99,Dalmasso Lucia,Female,16-03-2022,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,5,450.00
-100,Dalmasso Lucia,Female,13-03-2022,Piancavallo,ITA,Italy,World Cup,Parallel Slalom Team,4,
-101,Dalmasso Lucia,Female,12-03-2022,Piancavallo,ITA,Italy,Qualification,Parallel Slalom,8,
-102,Dalmasso Lucia,Female,12-03-2022,Piancavallo,ITA,Italy,World Cup,Parallel Slalom,9,290.00
-103,Dalmasso Lucia,Female,20-02-2022,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,1,180.00
-104,Dalmasso Lucia,Female,19-02-2022,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,1,220.00
-105,Dalmasso Lucia,Female,08-02-2022,Beijing,CHN,Italy,Qualification,Parallel Giant Slalom,29,
-106,Dalmasso Lucia,Female,08-02-2022,Beijing,CHN,Italy,Olympic Winter Games,Parallel Giant Slalom,29,
-107,Dalmasso Lucia,Female,08-01-2022,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,9,
-108,Dalmasso Lucia,Female,08-01-2022,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,12,220.00
-109,Dalmasso Lucia,Female,18-12-2021,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,11,
-110,Dalmasso Lucia,Female,18-12-2021,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,12,220.00
-111,Dalmasso Lucia,Female,16-12-2021,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,38,
-112,Dalmasso Lucia,Female,16-12-2021,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,38,19.10
-113,Dalmasso Lucia,Female,12-12-2021,Bannoye,RUS,Italy,Qualification,Parallel Slalom,25,
-114,Dalmasso Lucia,Female,12-12-2021,Bannoye,RUS,Italy,World Cup,Parallel Slalom,25,60.00
-115,Dalmasso Lucia,Female,11-12-2021,Bannoye,RUS,Italy,Qualification,Parallel Giant Slalom,25,
-116,Dalmasso Lucia,Female,11-12-2021,Bannoye,RUS,Italy,World Cup,Parallel Giant Slalom,25,60.00
-117,Dalmasso Lucia,Female,31-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Giant Slalom,1,290.00
-118,Dalmasso Lucia,Female,30-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Slalom,1,290.00
-119,Dalmasso Lucia,Female,28-03-2021,Villnöss - Funes,ITA,Italy,FIS,Parallel Slalom,3,132.00
-120,Dalmasso Lucia,Female,27-03-2021,Villnöss - Funes,ITA,Italy,FIS,Parallel Giant Slalom,1,220.00
-121,Dalmasso Lucia,Female,21-03-2021,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom Team,23,
-122,Dalmasso Lucia,Female,20-03-2021,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,42,
-123,Dalmasso Lucia,Female,20-03-2021,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,42,
-124,Dalmasso Lucia,Female,13-03-2021,Davos Rinerhorn,SUI,Italy,European Cup,Parallel Giant Slalom,19,43.20
-125,Dalmasso Lucia,Female,06-03-2021,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,18,
-126,Dalmasso Lucia,Female,06-03-2021,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,18,130.00
-127,Dalmasso Lucia,Female,28-02-2021,Funes/Villnoesses,ITA,Italy,European Cup,Parallel Giant Slalom,5,81.00
-128,Dalmasso Lucia,Female,27-02-2021,Funes/Villnoesses,ITA,Italy,European Cup,Parallel Giant Slalom,1,220.00
-129,Dalmasso Lucia,Female,21-02-2021,Gerlitzen,AUT,Italy,National Championships,Parallel Slalom,15,46.40
-130,Dalmasso Lucia,Female,20-02-2021,Gerlitzen,AUT,Italy,National Championships,Parallel Giant Slalom,16,43.50
-131,Dalmasso Lucia,Female,07-02-2021,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,15,38.40
-132,Dalmasso Lucia,Female,06-02-2021,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,5,108.00
-133,Dalmasso Lucia,Female,24-01-2021,Davos,SUI,Italy,European Cup,Parallel Slalom,22,32.40
-134,Dalmasso Lucia,Female,23-01-2021,Davos,SUI,Italy,European Cup,Parallel Slalom,13,72.00
-135,Dalmasso Lucia,Female,17-01-2021,Simonhoehe,AUT,Italy,European Cup,Parallel Giant Slalom,15,57.60
-136,Dalmasso Lucia,Female,16-01-2021,Simonhoehe,AUT,Italy,European Cup,Parallel Giant Slalom,21,36.00
-137,Dalmasso Lucia,Female,17-12-2020,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,28,
-138,Dalmasso Lucia,Female,17-12-2020,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,28,40.00
-139,Dalmasso Lucia,Female,12-12-2020,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,13,
-140,Dalmasso Lucia,Female,12-12-2020,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,13,200.00
-141,Dalmasso Lucia,Female,08-03-2020,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,32,9.36
-142,Dalmasso Lucia,Female,07-03-2020,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,9,104.40
-143,Dalmasso Lucia,Female,23-02-2020,Funes/Villnoesses,ITA,Italy,FIS,Parallel Giant Slalom,4,110.00
-144,Dalmasso Lucia,Female,22-02-2020,Funes/Villnoesses,ITA,Italy,FIS,Parallel Giant Slalom,13,44.00
-145,Dalmasso Lucia,Female,16-02-2020,Simonhoehe,AUT,Italy,European Cup,Parallel Giant Slalom,14,64.80
-146,Dalmasso Lucia,Female,15-02-2020,Simonhoehe,AUT,Italy,European Cup,Parallel Giant Slalom,12,79.20
-147,Dalmasso Lucia,Female,09-02-2020,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,13,72.00
-148,Dalmasso Lucia,Female,08-02-2020,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,17,50.40
-149,Dalmasso Lucia,Female,02-02-2020,Carezza,ITA,Italy,FIS,Giant Slalom,3,84.00
-150,Dalmasso Lucia,Female,01-02-2020,Carezza,ITA,Italy,FIS,Giant Slalom,2,120.00
-151,Dalmasso Lucia,Female,26-01-2020,Piancavallo,ITA,Italy,World Cup,Parallel Slalom Team,18,
-152,Dalmasso Lucia,Female,25-01-2020,Piancavallo,ITA,Italy,World Cup,Parallel Slalom,35,20.00
-153,Dalmasso Lucia,Female,25-01-2020,Piancavallo,ITA,Italy,Qualification,Parallel Slalom,35,
-154,Dalmasso Lucia,Female,19-01-2020,Alleghe,ITA,Italy,FIS,Parallel Slalom,4,80.00
-155,Dalmasso Lucia,Female,18-01-2020,Alleghe,ITA,Italy,FIS,Parallel Slalom,26,
-156,Dalmasso Lucia,Female,22-12-2019,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,14,64.80
-157,Dalmasso Lucia,Female,21-12-2019,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,39,
-158,Dalmasso Lucia,Female,19-12-2019,Carezza,ITA,Italy,Open,Parallel Giant Slalom,37,19.40
-159,Dalmasso Lucia,Female,14-12-2019,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,DNF,
-160,Dalmasso Lucia,Female,14-12-2019,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,DNF,
-161,Dalmasso Lucia,Female,07-04-2019,Racines,ITA,Italy,European Cup,Parallel Slalom,37,
-162,Dalmasso Lucia,Female,06-04-2019,Racines,ITA,Italy,European Cup,Parallel Slalom,14,64.80
-163,Dalmasso Lucia,Female,27-03-2019,Piancavallo,ITA,Italy,National Championships,Parallel Giant Slalom,8,92.80
-164,Dalmasso Lucia,Female,26-03-2019,Piancavallo,ITA,Italy,National Championships,Parallel Slalom,18,37.70
-165,Dalmasso Lucia,Female,17-03-2019,Rogla,SLO,Italy,European Cup,Parallel Giant Slalom,11,86.40
-166,Dalmasso Lucia,Female,16-03-2019,Rogla,SLO,Italy,European Cup,Parallel Giant Slalom,30,11.52
-167,Dalmasso Lucia,Female,03-03-2019,Davos,SUI,Italy,European Cup,Parallel Slalom,23,
-168,Dalmasso Lucia,Female,02-03-2019,Davos,SUI,Italy,European Cup,Parallel Giant Slalom,15,57.60
-169,Dalmasso Lucia,Female,24-02-2019,Funes/Villnoess,ITA,Italy,FIS,Parallel Giant Slalom,2,112.00
-170,Dalmasso Lucia,Female,23-02-2019,Funes/Villnoess,ITA,Italy,FIS,Parallel Giant Slalom,1,140.00
-171,Dalmasso Lucia,Female,17-02-2019,Simonhoehe,AUT,Italy,FIS,Parallel GS,21,20.00
-172,Dalmasso Lucia,Female,16-02-2019,Simonhoehe,AUT,Italy,FIS,Parallel GS,5,90.00
-173,Dalmasso Lucia,Female,10-02-2019,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,18,33.80
-174,Dalmasso Lucia,Female,09-02-2019,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,19,
-175,Dalmasso Lucia,Female,27-01-2019,Lachtal,AUT,Italy,European Cup,Parallel GS,8,57.60
-176,Dalmasso Lucia,Female,26-01-2019,Lachtal,AUT,Italy,European Cup,Parallel GS,10,46.80
-177,Dalmasso Lucia,Female,20-01-2019,Gosau,AUT,Italy,FIS,Parallel Slalom,5,67.50
-178,Dalmasso Lucia,Female,19-01-2019,Gosau,AUT,Italy,FIS,Parallel Slalom,10,36.40
-179,Dalmasso Lucia,Female,11-01-2019,Bad Gastein,AUT,Italy,European Cup,Parallel Slalom,37,
-180,Dalmasso Lucia,Female,10-01-2019,Bad Gastein,AUT,Italy,European Cup,Parallel Slalom,40,
-181,Dalmasso Lucia,Female,23-12-2018,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,12,79.20
-182,Dalmasso Lucia,Female,22-12-2018,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,21,36.00
-183,Dalmasso Lucia,Female,15-12-2018,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel GS,33,24.00
-184,Dalmasso Lucia,Female,15-12-2018,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,33,
-185,Dalmasso Lucia,Female,13-12-2018,Carezza,ITA,Italy,World Cup,Parallel GS,40,18.50
-186,Dalmasso Lucia,Female,13-12-2018,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,40,
-187,Dalmasso Lucia,Female,02-12-2018,Pfelders,ITA,Italy,FIS,Parallel Giant Slalom,13,44.00
-188,Dalmasso Lucia,Female,01-12-2018,Pfelders,ITA,Italy,FIS,Parallel Giant Slalom,17,30.80
-189,Dalmasso Lucia,Female,08-04-2018,Racines,ITA,Italy,European Cup,Parallel Slalom,18,46.80
-190,Dalmasso Lucia,Female,07-04-2018,Racines,ITA,Italy,European Cup,Parallel Slalom,DNF1,
-191,Dalmasso Lucia,Female,21-03-2018,Rogla,SLO,Italy,European Cup,Parallel GS,22,32.40
-192,Dalmasso Lucia,Female,20-03-2018,Rogla,SLO,Italy,European Cup,Parallel GS,26,18.00
-193,Dalmasso Lucia,Female,18-03-2018,Gosau,AUT,Italy,FIS,Parallel Slalom,12,30.80
-194,Dalmasso Lucia,Female,17-03-2018,Gosau,AUT,Italy,FIS,Parallel Slalom,3,84.00
-195,Dalmasso Lucia,Female,11-03-2018,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,DNF1,
-196,Dalmasso Lucia,Female,10-03-2018,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,25,17.40
-197,Dalmasso Lucia,Female,08-03-2018,Carezza,ITA,Italy,National Championships,Parallel Slalom,22,
-198,Dalmasso Lucia,Female,07-03-2018,Carezza,ITA,Italy,National Championships,Parallel GS,6,116.00
-199,Dalmasso Lucia,Female,25-02-2018,Funes/Villnoess,ITA,Italy,FIS,Parallel GS,9,52.20
-200,Dalmasso Lucia,Female,24-02-2018,Funes/Villnoess,ITA,Italy,FIS,Parallel GS,9,52.20
-201,Dalmasso Lucia,Female,18-02-2018,Simonhoehe,AUT,Italy,FIS,Parallel GS,24,
-202,Dalmasso Lucia,Female,17-02-2018,Simonhoehe,AUT,Italy,FIS,Parallel GS,18,28.60
-203,Dalmasso Lucia,Female,11-02-2018,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,22,
-204,Dalmasso Lucia,Female,10-02-2018,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,DNF1,
-205,Dalmasso Lucia,Female,21-01-2018,Lachtal,AUT,Italy,European Cup,Parallel GS,27,9.90
-206,Dalmasso Lucia,Female,20-01-2018,Lachtal,AUT,Italy,European Cup,Parallel GS,18,28.60
-207,Dalmasso Lucia,Female,10-12-2017,Hochfügen,GER,Italy,European Cup,Parallel GS,49,
-208,Dalmasso Lucia,Female,09-12-2017,Hochfügen,GER,Italy,European Cup,Parallel GS,35,7.20
-209,Dalmasso Lucia,Female,02-12-2017,Pfelders,ITA,Italy,FIS,Parallel GS,20,24.20
-210,Dalmasso Lucia,Female,01-12-2017,Pfelders,ITA,Italy,FIS,Parallel GS,16,30.00
-211,Dalmasso Lucia,Female,26-03-2017,Racines,ITA,Italy,European Cup,Parallel Slalom,29,12.96
-212,Dalmasso Lucia,Female,25-03-2017,Racines,ITA,Italy,European Cup,Parallel Slalom,27,16.20
-213,Dalmasso Lucia,Female,23-03-2017,Monte Pora - Castione della presolana,ITA,Italy,National Championships,Parallel Slalom,10,75.40
-214,Dalmasso Lucia,Female,22-03-2017,Monte Pora - Castione della presolana,ITA,Italy,National Championships,Parallel GS,3,174.00
-215,Dalmasso Lucia,Female,09-03-2017,Madonna di Campiglio,ITA,Italy,FIS,Parallel Slalom,15,22.40
-216,Dalmasso Lucia,Female,08-03-2017,Madonna di Campiglio,ITA,Italy,FIS,Parallel GS,7,50.40
-217,Dalmasso Lucia,Female,05-03-2017,Funes/Villnoss,ITA,Italy,FIS,Giant Slalom,7,46.80
-218,Dalmasso Lucia,Female,04-03-2017,Funes/Villnoss,ITA,Italy,FIS,Giant Slalom,DNF1,
-219,Dalmasso Lucia,Female,12-02-2017,Gosau,AUT,Italy,FIS,Parallel Slalom,6,44.00
-220,Dalmasso Lucia,Female,11-02-2017,Gosau,AUT,Italy,FIS,Parallel Slalom,16,
-221,Dalmasso Lucia,Female,21-01-2017,Livigno,ITA,Italy,European Cup,Parallel GS,36,7.09
-222,Dalmasso Lucia,Female,20-01-2017,Livigno,ITA,Italy,European Cup,Parallel GS,46,
-223,Dalmasso Lucia,Female,08-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Parallel Slalom,13,64.00
-224,Dalmasso Lucia,Female,07-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Parallel GS,25,
-225,Dalmasso Lucia,Female,26-03-2016,Gosau,AUT,Italy,FIS,Slalom,10,28.60
-226,Dalmasso Lucia,Female,26-03-2016,Gosau,AUT,Italy,FIS,Slalom,3,66.00
-227,Dalmasso Lucia,Female,06-03-2016,Tauplitz,AUT,Italy,FIS,Parallel Slalom,22,19.80
-228,Dalmasso Lucia,Female,05-03-2016,Tauplitz,AUT,Italy,FIS,Parallel Slalom,23,17.60
-229,Dalmasso Lucia,Female,28-02-2016,Falkert,AUT,Italy,FIS,Giant Slalom,16,33.00
-230,Dalmasso Lucia,Female,27-02-2016,Falkert,AUT,Italy,FIS,Giant Slalom,15,35.20
-231,Dalmasso Lucia,Female,30-01-2016,Pfelders,ITA,Italy,FIS,Slalom,12,15.40
-232,Dalmasso Lucia,Female,29-01-2016,Pfelders,ITA,Italy,FIS,Slalom,18,9.10
+0,Dalmasso Lucia,Female,20-03-2025,Engadin,SUI,Italy,Qualification,Parallel Giant Slalom,5,
+1,Dalmasso Lucia,Female,20-03-2025,Engadin,SUI,Italy,World Championships,Parallel Giant Slalom,9,290.00
+2,Dalmasso Lucia,Female,15-03-2025,Winterberg,GER,Italy,Qualification,Parallel Slalom,4,
+3,Dalmasso Lucia,Female,15-03-2025,Winterberg,GER,Italy,World Cup,Parallel Slalom,7,360.00
+4,Dalmasso Lucia,Female,02-03-2025,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,4,
+5,Dalmasso Lucia,Female,02-03-2025,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,4,500.00
+6,Dalmasso Lucia,Female,01-03-2025,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,4,
+7,Dalmasso Lucia,Female,01-03-2025,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,4,500.00
+8,Dalmasso Lucia,Female,23-02-2025,Funes - Vilnoessse,ITA,Italy,FIS,Parallel Giant Slalom,2,176.00
+9,Dalmasso Lucia,Female,22-02-2025,Funes - Vilnoessse,ITA,Italy,FIS,Parallel Giant Slalom,1,220.00
+10,Dalmasso Lucia,Female,16-02-2025,Val St. Come,CAN,Italy,Qualification,Parallel Giant Slalom,3,
+11,Dalmasso Lucia,Female,16-02-2025,Val St. Come,CAN,Italy,World Cup,Parallel Giant Slalom,9,290.00
+12,Dalmasso Lucia,Female,15-02-2025,Val St. Come,CAN,Italy,Qualification,Parallel Giant Slalom,17,
+13,Dalmasso Lucia,Female,15-02-2025,Val St. Come,CAN,Italy,World Cup,Parallel Giant Slalom,17,140.00
+14,Dalmasso Lucia,Female,15-01-2025,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom Team,5,
+15,Dalmasso Lucia,Female,14-01-2025,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,5,
+16,Dalmasso Lucia,Female,14-01-2025,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,9,290.00
+17,Dalmasso Lucia,Female,11-01-2025,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,15,
+18,Dalmasso Lucia,Female,11-01-2025,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,15,160.00
+19,Dalmasso Lucia,Female,21-12-2024,Davos,SUI,Italy,Qualification,Parallel Slalom,8,
+20,Dalmasso Lucia,Female,21-12-2024,Davos,SUI,Italy,World Cup,Parallel Slalom,8,320.00
+21,Dalmasso Lucia,Female,14-12-2024,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,3,
+22,Dalmasso Lucia,Female,14-12-2024,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,9,290.00
+23,Dalmasso Lucia,Female,12-12-2024,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,24,
+24,Dalmasso Lucia,Female,12-12-2024,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,24,70.00
+25,Dalmasso Lucia,Female,08-12-2024,Yanqing (NASC),CHN,Italy,World Cup,Parallel Slalom,19,120.00
+26,Dalmasso Lucia,Female,08-12-2024,Yanqing (NASC),CHN,Italy,Qualification,Parallel Slalom,19,
+27,Dalmasso Lucia,Female,07-12-2024,Yanqing (NASC),CHN,Italy,World Cup,Parallel Giant Slalom,1,1000.00
+28,Dalmasso Lucia,Female,07-12-2024,Yanqing (NASC),CHN,Italy,Qualification,Parallel Giant Slalom,4,
+29,Dalmasso Lucia,Female,01-12-2024,Mylin,CHN,Italy,World Cup,Parallel Slalom,32,26.00
+30,Dalmasso Lucia,Female,01-12-2024,Mylin,CHN,Italy,Qualification,Parallel Slalom,32,
+31,Dalmasso Lucia,Female,30-11-2024,Mylin,CHN,Italy,World Cup,Parallel Giant Slalom,9,290.00
+32,Dalmasso Lucia,Female,30-11-2024,Mylin,CHN,Italy,Qualification,Parallel Giant Slalom,3,
+33,Dalmasso Lucia,Female,17-03-2024,St. Moritz,SUI,Italy,European Cup,Parallel Slalom,4,180.00
+34,Dalmasso Lucia,Female,16-03-2024,St. Moritz,SUI,Italy,European Cup,Parallel Giant Slalom,2,288.00
+35,Dalmasso Lucia,Female,10-03-2024,Winterberg,GER,Italy,World Cup,Parallel Slalom Team,1,
+36,Dalmasso Lucia,Female,09-03-2024,Winterberg,GER,Italy,Qualification,Parallel Slalom,7,
+37,Dalmasso Lucia,Female,09-03-2024,Winterberg,GER,Italy,World Cup,Parallel Slalom,3,600.00
+38,Dalmasso Lucia,Female,25-02-2024,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,5,
+39,Dalmasso Lucia,Female,25-02-2024,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,9,290.00
+40,Dalmasso Lucia,Female,24-02-2024,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,3,
+41,Dalmasso Lucia,Female,24-02-2024,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,9,290.00
+42,Dalmasso Lucia,Female,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,1,290.00
+43,Dalmasso Lucia,Female,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,1,290.00
+44,Dalmasso Lucia,Female,28-01-2024,Simonhöhe,AUT,Italy,World Cup,Parallel Giant Slalom Team,9,
+45,Dalmasso Lucia,Female,27-01-2024,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,4,
+46,Dalmasso Lucia,Female,27-01-2024,Simonhöhe,AUT,Italy,World Cup,Parallel Giant Slalom,9,290.00
+47,Dalmasso Lucia,Female,25-01-2024,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,14,
+48,Dalmasso Lucia,Female,25-01-2024,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,14,180.00
+49,Dalmasso Lucia,Female,21-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,8,
+50,Dalmasso Lucia,Female,21-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,7,360.00
+51,Dalmasso Lucia,Female,20-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,2,
+52,Dalmasso Lucia,Female,20-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,5,450.00
+53,Dalmasso Lucia,Female,17-01-2024,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom Team,2,
+54,Dalmasso Lucia,Female,16-01-2024,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,5,
+55,Dalmasso Lucia,Female,16-01-2024,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,9,290.00
+56,Dalmasso Lucia,Female,13-01-2024,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,3,
+57,Dalmasso Lucia,Female,13-01-2024,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,1,1000.00
+58,Dalmasso Lucia,Female,23-12-2023,Davos ,SUI,Italy,Qualification,Parallel Slalom,5,
+59,Dalmasso Lucia,Female,23-12-2023,Davos,SUI,Italy,World Cup,Parallel Slalom,2,800.00
+60,Dalmasso Lucia,Female,16-12-2023,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,6,
+61,Dalmasso Lucia,Female,16-12-2023,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,2,800.00
+62,Dalmasso Lucia,Female,14-12-2023,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,4,
+63,Dalmasso Lucia,Female,14-12-2023,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,5,450.00
+64,Dalmasso Lucia,Female,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,3,174.00
+65,Dalmasso Lucia,Female,19-03-2023,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom Team,3,
+66,Dalmasso Lucia,Female,18-03-2023,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,11,
+67,Dalmasso Lucia,Female,18-03-2023,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,8,320.00
+68,Dalmasso Lucia,Female,15-03-2023,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,4,500.00
+69,Dalmasso Lucia,Female,15-03-2023,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,4,
+70,Dalmasso Lucia,Female,22-02-2023,Bakuriani,GEO,Italy,World Championships,Parallel Slalom Team,4,
+71,Dalmasso Lucia,Female,21-02-2023,Bakuriani,GEO,Italy,Qualification,Parallel Slalom,15,
+72,Dalmasso Lucia,Female,21-02-2023,Bakuriani,GEO,Italy,World Championships,Parallel Slalom,8,320.00
+73,Dalmasso Lucia,Female,19-02-2023,Bakuriani,GEO,Italy,Qualification,Parallel Giant Slalom,7,
+74,Dalmasso Lucia,Female,19-02-2023,Bakuriani,GEO,Italy,World Championships,Parallel Giant Slalom,4,500.00
+75,Dalmasso Lucia,Female,27-01-2023,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,7,
+76,Dalmasso Lucia,Female,27-01-2023,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,10,260.00
+77,Dalmasso Lucia,Female,26-01-2023,Blue Mountain,CAN,Italy,Qualification,Parallel Giant Slalom,8,
+78,Dalmasso Lucia,Female,26-01-2023,Blue Mountain,CAN,Italy,World Cup,Parallel Giant Slalom,2,800.00
+79,Dalmasso Lucia,Female,22-01-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,12,
+80,Dalmasso Lucia,Female,22-01-2023,Bansko,BUL,Italy,World Cup,Parallel Slalom,8,320.00
+81,Dalmasso Lucia,Female,21-01-2023,Bansko,BUL,Italy,Qualification,Parallel Slalom,13,
+82,Dalmasso Lucia,Female,21-01-2023,Bansko,BUL,Italy,World Cup,Parallel Slalom,14,180.00
+83,Dalmasso Lucia,Female,14-01-2023,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,25,
+84,Dalmasso Lucia,Female,14-01-2023,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,25,
+85,Dalmasso Lucia,Female,11-01-2023,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom Team,5,
+86,Dalmasso Lucia,Female,10-01-2023,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,12,
+87,Dalmasso Lucia,Female,10-01-2023,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,13,200.00
+88,Dalmasso Lucia,Female,17-12-2022,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,2,
+89,Dalmasso Lucia,Female,17-12-2022,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,4,500.00
+90,Dalmasso Lucia,Female,15-12-2022,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,16,
+91,Dalmasso Lucia,Female,15-12-2022,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,16,150.00
+92,Dalmasso Lucia,Female,11-12-2022,Winterberg,GER,Italy,World Cup,Parallel Slalom,7,360.00
+93,Dalmasso Lucia,Female,10-12-2022,Winterberg,GER,Italy,Qualification,Parallel Slalom,13,
+94,Dalmasso Lucia,Female,10-12-2022,Winterberg,GER,Italy,World Cup,Parallel Slalom Team,12,
+95,Dalmasso Lucia,Female,12-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Slalom,2,160.00
+96,Dalmasso Lucia,Female,11-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Giant Slalom,4,100.00
+97,Dalmasso Lucia,Female,20-03-2022,Berchtesgaden,GER,Italy,World Cup,Parallel  Slalom Team,8,
+98,Dalmasso Lucia,Female,19-03-2022,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,8,
+99,Dalmasso Lucia,Female,19-03-2022,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,8,320.00
+100,Dalmasso Lucia,Female,16-03-2022,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,2,
+101,Dalmasso Lucia,Female,16-03-2022,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,5,450.00
+102,Dalmasso Lucia,Female,13-03-2022,Piancavallo,ITA,Italy,World Cup,Parallel Slalom Team,4,
+103,Dalmasso Lucia,Female,12-03-2022,Piancavallo,ITA,Italy,Qualification,Parallel Slalom,8,
+104,Dalmasso Lucia,Female,12-03-2022,Piancavallo,ITA,Italy,World Cup,Parallel Slalom,9,290.00
+105,Dalmasso Lucia,Female,20-02-2022,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,1,180.00
+106,Dalmasso Lucia,Female,19-02-2022,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,1,220.00
+107,Dalmasso Lucia,Female,08-02-2022,Beijing,CHN,Italy,Qualification,Parallel Giant Slalom,29,
+108,Dalmasso Lucia,Female,08-02-2022,Beijing,CHN,Italy,Olympic Winter Games,Parallel Giant Slalom,29,
+109,Dalmasso Lucia,Female,08-01-2022,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,9,
+110,Dalmasso Lucia,Female,08-01-2022,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,12,220.00
+111,Dalmasso Lucia,Female,18-12-2021,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,11,
+112,Dalmasso Lucia,Female,18-12-2021,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,12,220.00
+113,Dalmasso Lucia,Female,16-12-2021,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,38,
+114,Dalmasso Lucia,Female,16-12-2021,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,38,19.10
+115,Dalmasso Lucia,Female,12-12-2021,Bannoye,RUS,Italy,Qualification,Parallel Slalom,25,
+116,Dalmasso Lucia,Female,12-12-2021,Bannoye,RUS,Italy,World Cup,Parallel Slalom,25,60.00
+117,Dalmasso Lucia,Female,11-12-2021,Bannoye,RUS,Italy,Qualification,Parallel Giant Slalom,25,
+118,Dalmasso Lucia,Female,11-12-2021,Bannoye,RUS,Italy,World Cup,Parallel Giant Slalom,25,60.00
+119,Dalmasso Lucia,Female,31-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Giant Slalom,1,290.00
+120,Dalmasso Lucia,Female,30-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Slalom,1,290.00
+121,Dalmasso Lucia,Female,28-03-2021,Villnöss - Funes,ITA,Italy,FIS,Parallel Slalom,3,132.00
+122,Dalmasso Lucia,Female,27-03-2021,Villnöss - Funes,ITA,Italy,FIS,Parallel Giant Slalom,1,220.00
+123,Dalmasso Lucia,Female,21-03-2021,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom Team,23,
+124,Dalmasso Lucia,Female,20-03-2021,Berchtesgaden,GER,Italy,Qualification,Parallel Slalom,42,
+125,Dalmasso Lucia,Female,20-03-2021,Berchtesgaden,GER,Italy,World Cup,Parallel Slalom,42,
+126,Dalmasso Lucia,Female,13-03-2021,Davos Rinerhorn,SUI,Italy,European Cup,Parallel Giant Slalom,19,43.20
+127,Dalmasso Lucia,Female,06-03-2021,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,18,
+128,Dalmasso Lucia,Female,06-03-2021,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,18,130.00
+129,Dalmasso Lucia,Female,28-02-2021,Funes/Villnoesses,ITA,Italy,European Cup,Parallel Giant Slalom,5,81.00
+130,Dalmasso Lucia,Female,27-02-2021,Funes/Villnoesses,ITA,Italy,European Cup,Parallel Giant Slalom,1,220.00
+131,Dalmasso Lucia,Female,21-02-2021,Gerlitzen,AUT,Italy,National Championships,Parallel Slalom,15,46.40
+132,Dalmasso Lucia,Female,20-02-2021,Gerlitzen,AUT,Italy,National Championships,Parallel Giant Slalom,16,43.50
+133,Dalmasso Lucia,Female,07-02-2021,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,15,38.40
+134,Dalmasso Lucia,Female,06-02-2021,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,5,108.00
+135,Dalmasso Lucia,Female,24-01-2021,Davos,SUI,Italy,European Cup,Parallel Slalom,22,32.40
+136,Dalmasso Lucia,Female,23-01-2021,Davos,SUI,Italy,European Cup,Parallel Slalom,13,72.00
+137,Dalmasso Lucia,Female,17-01-2021,Simonhoehe,AUT,Italy,European Cup,Parallel Giant Slalom,15,57.60
+138,Dalmasso Lucia,Female,16-01-2021,Simonhoehe,AUT,Italy,European Cup,Parallel Giant Slalom,21,36.00
+139,Dalmasso Lucia,Female,17-12-2020,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,28,
+140,Dalmasso Lucia,Female,17-12-2020,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,28,40.00
+141,Dalmasso Lucia,Female,12-12-2020,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,13,
+142,Dalmasso Lucia,Female,12-12-2020,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,13,200.00
+143,Dalmasso Lucia,Female,08-03-2020,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,32,9.36
+144,Dalmasso Lucia,Female,07-03-2020,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,9,104.40
+145,Dalmasso Lucia,Female,23-02-2020,Funes/Villnoesses,ITA,Italy,FIS,Parallel Giant Slalom,4,110.00
+146,Dalmasso Lucia,Female,22-02-2020,Funes/Villnoesses,ITA,Italy,FIS,Parallel Giant Slalom,13,44.00
+147,Dalmasso Lucia,Female,16-02-2020,Simonhoehe,AUT,Italy,European Cup,Parallel Giant Slalom,14,64.80
+148,Dalmasso Lucia,Female,15-02-2020,Simonhoehe,AUT,Italy,European Cup,Parallel Giant Slalom,12,79.20
+149,Dalmasso Lucia,Female,09-02-2020,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,13,72.00
+150,Dalmasso Lucia,Female,08-02-2020,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,17,50.40
+151,Dalmasso Lucia,Female,02-02-2020,Carezza,ITA,Italy,FIS,Giant Slalom,3,84.00
+152,Dalmasso Lucia,Female,01-02-2020,Carezza,ITA,Italy,FIS,Giant Slalom,2,120.00
+153,Dalmasso Lucia,Female,26-01-2020,Piancavallo,ITA,Italy,World Cup,Parallel Slalom Team,18,
+154,Dalmasso Lucia,Female,25-01-2020,Piancavallo,ITA,Italy,World Cup,Parallel Slalom,35,20.00
+155,Dalmasso Lucia,Female,25-01-2020,Piancavallo,ITA,Italy,Qualification,Parallel Slalom,35,
+156,Dalmasso Lucia,Female,19-01-2020,Alleghe,ITA,Italy,FIS,Parallel Slalom,4,80.00
+157,Dalmasso Lucia,Female,18-01-2020,Alleghe,ITA,Italy,FIS,Parallel Slalom,26,
+158,Dalmasso Lucia,Female,22-12-2019,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,14,64.80
+159,Dalmasso Lucia,Female,21-12-2019,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,39,
+160,Dalmasso Lucia,Female,19-12-2019,Carezza,ITA,Italy,Open,Parallel Giant Slalom,37,19.40
+161,Dalmasso Lucia,Female,14-12-2019,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,DNF,
+162,Dalmasso Lucia,Female,14-12-2019,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,DNF,
+163,Dalmasso Lucia,Female,07-04-2019,Racines,ITA,Italy,European Cup,Parallel Slalom,37,
+164,Dalmasso Lucia,Female,06-04-2019,Racines,ITA,Italy,European Cup,Parallel Slalom,14,64.80
+165,Dalmasso Lucia,Female,27-03-2019,Piancavallo,ITA,Italy,National Championships,Parallel Giant Slalom,8,92.80
+166,Dalmasso Lucia,Female,26-03-2019,Piancavallo,ITA,Italy,National Championships,Parallel Slalom,18,37.70
+167,Dalmasso Lucia,Female,17-03-2019,Rogla,SLO,Italy,European Cup,Parallel Giant Slalom,11,86.40
+168,Dalmasso Lucia,Female,16-03-2019,Rogla,SLO,Italy,European Cup,Parallel Giant Slalom,30,11.52
+169,Dalmasso Lucia,Female,03-03-2019,Davos,SUI,Italy,European Cup,Parallel Slalom,23,
+170,Dalmasso Lucia,Female,02-03-2019,Davos,SUI,Italy,European Cup,Parallel Giant Slalom,15,57.60
+171,Dalmasso Lucia,Female,24-02-2019,Funes/Villnoess,ITA,Italy,FIS,Parallel Giant Slalom,2,112.00
+172,Dalmasso Lucia,Female,23-02-2019,Funes/Villnoess,ITA,Italy,FIS,Parallel Giant Slalom,1,140.00
+173,Dalmasso Lucia,Female,17-02-2019,Simonhoehe,AUT,Italy,FIS,Parallel GS,21,20.00
+174,Dalmasso Lucia,Female,16-02-2019,Simonhoehe,AUT,Italy,FIS,Parallel GS,5,90.00
+175,Dalmasso Lucia,Female,10-02-2019,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,18,33.80
+176,Dalmasso Lucia,Female,09-02-2019,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,19,
+177,Dalmasso Lucia,Female,27-01-2019,Lachtal,AUT,Italy,European Cup,Parallel GS,8,57.60
+178,Dalmasso Lucia,Female,26-01-2019,Lachtal,AUT,Italy,European Cup,Parallel GS,10,46.80
+179,Dalmasso Lucia,Female,20-01-2019,Gosau,AUT,Italy,FIS,Parallel Slalom,5,67.50
+180,Dalmasso Lucia,Female,19-01-2019,Gosau,AUT,Italy,FIS,Parallel Slalom,10,36.40
+181,Dalmasso Lucia,Female,11-01-2019,Bad Gastein,AUT,Italy,European Cup,Parallel Slalom,37,
+182,Dalmasso Lucia,Female,10-01-2019,Bad Gastein,AUT,Italy,European Cup,Parallel Slalom,40,
+183,Dalmasso Lucia,Female,23-12-2018,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,12,79.20
+184,Dalmasso Lucia,Female,22-12-2018,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,21,36.00
+185,Dalmasso Lucia,Female,15-12-2018,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel GS,33,24.00
+186,Dalmasso Lucia,Female,15-12-2018,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,33,
+187,Dalmasso Lucia,Female,13-12-2018,Carezza,ITA,Italy,World Cup,Parallel GS,40,18.50
+188,Dalmasso Lucia,Female,13-12-2018,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,40,
+189,Dalmasso Lucia,Female,02-12-2018,Pfelders,ITA,Italy,FIS,Parallel Giant Slalom,13,44.00
+190,Dalmasso Lucia,Female,01-12-2018,Pfelders,ITA,Italy,FIS,Parallel Giant Slalom,17,30.80
+191,Dalmasso Lucia,Female,08-04-2018,Racines,ITA,Italy,European Cup,Parallel Slalom,18,46.80
+192,Dalmasso Lucia,Female,07-04-2018,Racines,ITA,Italy,European Cup,Parallel Slalom,DNF1,
+193,Dalmasso Lucia,Female,21-03-2018,Rogla,SLO,Italy,European Cup,Parallel GS,22,32.40
+194,Dalmasso Lucia,Female,20-03-2018,Rogla,SLO,Italy,European Cup,Parallel GS,26,18.00
+195,Dalmasso Lucia,Female,18-03-2018,Gosau,AUT,Italy,FIS,Parallel Slalom,12,30.80
+196,Dalmasso Lucia,Female,17-03-2018,Gosau,AUT,Italy,FIS,Parallel Slalom,3,84.00
+197,Dalmasso Lucia,Female,11-03-2018,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,DNF1,
+198,Dalmasso Lucia,Female,10-03-2018,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,25,17.40
+199,Dalmasso Lucia,Female,08-03-2018,Carezza,ITA,Italy,National Championships,Parallel Slalom,22,
+200,Dalmasso Lucia,Female,07-03-2018,Carezza,ITA,Italy,National Championships,Parallel GS,6,116.00
+201,Dalmasso Lucia,Female,25-02-2018,Funes/Villnoess,ITA,Italy,FIS,Parallel GS,9,52.20
+202,Dalmasso Lucia,Female,24-02-2018,Funes/Villnoess,ITA,Italy,FIS,Parallel GS,9,52.20
+203,Dalmasso Lucia,Female,18-02-2018,Simonhoehe,AUT,Italy,FIS,Parallel GS,24,
+204,Dalmasso Lucia,Female,17-02-2018,Simonhoehe,AUT,Italy,FIS,Parallel GS,18,28.60
+205,Dalmasso Lucia,Female,11-02-2018,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,22,
+206,Dalmasso Lucia,Female,10-02-2018,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,DNF1,
+207,Dalmasso Lucia,Female,21-01-2018,Lachtal,AUT,Italy,European Cup,Parallel GS,27,9.90
+208,Dalmasso Lucia,Female,20-01-2018,Lachtal,AUT,Italy,European Cup,Parallel GS,18,28.60
+209,Dalmasso Lucia,Female,10-12-2017,Hochfügen,GER,Italy,European Cup,Parallel GS,49,
+210,Dalmasso Lucia,Female,09-12-2017,Hochfügen,GER,Italy,European Cup,Parallel GS,35,7.20
+211,Dalmasso Lucia,Female,02-12-2017,Pfelders,ITA,Italy,FIS,Parallel GS,20,24.20
+212,Dalmasso Lucia,Female,01-12-2017,Pfelders,ITA,Italy,FIS,Parallel GS,16,30.00
+213,Dalmasso Lucia,Female,26-03-2017,Racines,ITA,Italy,European Cup,Parallel Slalom,29,12.96
+214,Dalmasso Lucia,Female,25-03-2017,Racines,ITA,Italy,European Cup,Parallel Slalom,27,16.20
+215,Dalmasso Lucia,Female,23-03-2017,Monte Pora - Castione della presolana,ITA,Italy,National Championships,Parallel Slalom,10,75.40
+216,Dalmasso Lucia,Female,22-03-2017,Monte Pora - Castione della presolana,ITA,Italy,National Championships,Parallel GS,3,174.00
+217,Dalmasso Lucia,Female,09-03-2017,Madonna di Campiglio,ITA,Italy,FIS,Parallel Slalom,15,22.40
+218,Dalmasso Lucia,Female,08-03-2017,Madonna di Campiglio,ITA,Italy,FIS,Parallel GS,7,50.40
+219,Dalmasso Lucia,Female,05-03-2017,Funes/Villnoss,ITA,Italy,FIS,Giant Slalom,7,46.80
+220,Dalmasso Lucia,Female,04-03-2017,Funes/Villnoss,ITA,Italy,FIS,Giant Slalom,DNF1,
+221,Dalmasso Lucia,Female,12-02-2017,Gosau,AUT,Italy,FIS,Parallel Slalom,6,44.00
+222,Dalmasso Lucia,Female,11-02-2017,Gosau,AUT,Italy,FIS,Parallel Slalom,16,
+223,Dalmasso Lucia,Female,21-01-2017,Livigno,ITA,Italy,European Cup,Parallel GS,36,7.09
+224,Dalmasso Lucia,Female,20-01-2017,Livigno,ITA,Italy,European Cup,Parallel GS,46,
+225,Dalmasso Lucia,Female,08-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Parallel Slalom,13,64.00
+226,Dalmasso Lucia,Female,07-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Parallel GS,25,
+227,Dalmasso Lucia,Female,26-03-2016,Gosau,AUT,Italy,FIS,Slalom,10,28.60
+228,Dalmasso Lucia,Female,26-03-2016,Gosau,AUT,Italy,FIS,Slalom,3,66.00
+229,Dalmasso Lucia,Female,06-03-2016,Tauplitz,AUT,Italy,FIS,Parallel Slalom,22,19.80
+230,Dalmasso Lucia,Female,05-03-2016,Tauplitz,AUT,Italy,FIS,Parallel Slalom,23,17.60
+231,Dalmasso Lucia,Female,28-02-2016,Falkert,AUT,Italy,FIS,Giant Slalom,16,33.00
+232,Dalmasso Lucia,Female,27-02-2016,Falkert,AUT,Italy,FIS,Giant Slalom,15,35.20
+233,Dalmasso Lucia,Female,30-01-2016,Pfelders,ITA,Italy,FIS,Slalom,12,15.40
+234,Dalmasso Lucia,Female,29-01-2016,Pfelders,ITA,Italy,FIS,Slalom,18,9.10

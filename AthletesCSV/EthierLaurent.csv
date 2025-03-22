@@ -1,35 +1,36 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Ethier Laurent,Male,10-03-2025,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Big Air,2,99.40
-1,Ethier Laurent,Male,09-03-2025,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Slopestyle,14,34.70
-2,Ethier Laurent,Male,05-03-2025,Stoneham,CAN,Canada,Nor-Am Cup,Big Air,7,75.60
-3,Ethier Laurent,Male,04-03-2025,Stoneham,CAN,Canada,Nor-Am Cup,Slopestyle,37,9.00
-4,Ethier Laurent,Male,26-02-2025,Winsport Calgary,CAN,Canada,Nor-Am Cup Premium,Big Air,4,128.70
-5,Ethier Laurent,Male,25-02-2025,Winsport Calgary,CAN,Canada,Nor-Am Cup Premium,Slopestyle,42,18.10
-6,Ethier Laurent,Male,22-02-2025,Calgary,CAN,Canada,World Cup,Slopestyle,19,179.50
-7,Ethier Laurent,Male,20-02-2025,Calgary,CAN,Canada,Qualification,Slopestyle,10,
-8,Ethier Laurent,Male,18-01-2025,Val Saint Come,CAN,Canada,FIS,Slopestyle,7,15.10
-9,Ethier Laurent,Male,13-01-2025,"Copper Mountain, CO",USA,Canada,Nor-Am Cup,Slopestyle,11,37.20
-10,Ethier Laurent,Male,03-04-2024,Stoneham,CAN,Canada,Nor-Am Cup,Big Air,15,3.10
-11,Ethier Laurent,Male,03-04-2024,Stoneham,CAN,Canada,Nor-Am Cup,Slopestyle,6,103.40
-12,Ethier Laurent,Male,05-03-2024,Blue Mtn,CAN,Canada,National Junior Championships,Slopestyle,18,7.50
-13,Ethier Laurent,Male,10-02-2024,Val Saint Come,CAN,Canada,FIS,Slopestyle,1,50.00
-14,Ethier Laurent,Male,18-01-2024,Sun Peaks,CAN,Canada,Nor-Am Cup,Big Air,4,94.20
-15,Ethier Laurent,Male,17-01-2024,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,39,12.80
-16,Ethier Laurent,Male,21-03-2023,Winsport Calgary,CAN,Canada,National Junior Championships,Slopestyle,2,82.90
-17,Ethier Laurent,Male,15-03-2023,Stoneham,CAN,Canada,Nor-Am Cup,Big Air,17,9.70
-18,Ethier Laurent,Male,14-03-2023,Stoneham,CAN,Canada,Nor-Am Cup,Slopestyle,22,13.10
-19,Ethier Laurent,Male,09-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Slopestyle,32,6.40
-20,Ethier Laurent,Male,08-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Slopestyle,26,16.10
-21,Ethier Laurent,Male,16-02-2023,Winsport Calgary,CAN,Canada,Nor-Am Cup,Big Air,26,7.40
-22,Ethier Laurent,Male,15-02-2023,Winsport Calgary,CAN,Canada,Nor-Am Cup,Slopestyle,22,38.30
-23,Ethier Laurent,Male,26-01-2023,Copper Mountain Resort,USA,Canada,Nor-Am Cup,Slopestyle,44,3.00
-24,Ethier Laurent,Male,18-01-2023,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,11,48.90
-25,Ethier Laurent,Male,17-01-2023,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,14,38.80
-26,Ethier Laurent,Male,06-02-2022,Calgary,CAN,Canada,National Junior Championships,Slopestyle,7,49.00
-27,Ethier Laurent,Male,04-02-2022,Calgary,CAN,Canada,Nor-Am Cup,Big Air,23,10.40
-28,Ethier Laurent,Male,29-01-2022,Calgary,CAN,Canada,FIS,Slopestyle,10,15.90
-29,Ethier Laurent,Male,21-01-2022,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,5,59.50
-30,Ethier Laurent,Male,20-01-2022,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,8,39.30
-31,Ethier Laurent,Male,10-03-2020,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,24,10.50
-32,Ethier Laurent,Male,25-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,45,
-33,Ethier Laurent,Male,24-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,24,14.00
+0,Ethier Laurent,Male,19-03-2025,Bromont QC,CAN,Canada,FIS,Slopestyle,1,50.00
+1,Ethier Laurent,Male,10-03-2025,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Big Air,2,99.40
+2,Ethier Laurent,Male,09-03-2025,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Slopestyle,14,34.70
+3,Ethier Laurent,Male,05-03-2025,Stoneham,CAN,Canada,Nor-Am Cup,Big Air,7,75.60
+4,Ethier Laurent,Male,04-03-2025,Stoneham,CAN,Canada,Nor-Am Cup,Slopestyle,37,9.00
+5,Ethier Laurent,Male,26-02-2025,Winsport Calgary,CAN,Canada,Nor-Am Cup Premium,Big Air,4,128.70
+6,Ethier Laurent,Male,25-02-2025,Winsport Calgary,CAN,Canada,Nor-Am Cup Premium,Slopestyle,42,18.10
+7,Ethier Laurent,Male,22-02-2025,Calgary,CAN,Canada,World Cup,Slopestyle,19,179.50
+8,Ethier Laurent,Male,20-02-2025,Calgary,CAN,Canada,Qualification,Slopestyle,10,
+9,Ethier Laurent,Male,18-01-2025,Val Saint Come,CAN,Canada,FIS,Slopestyle,7,15.10
+10,Ethier Laurent,Male,13-01-2025,"Copper Mountain, CO",USA,Canada,Nor-Am Cup,Slopestyle,11,37.20
+11,Ethier Laurent,Male,03-04-2024,Stoneham,CAN,Canada,Nor-Am Cup,Big Air,15,3.10
+12,Ethier Laurent,Male,03-04-2024,Stoneham,CAN,Canada,Nor-Am Cup,Slopestyle,6,103.40
+13,Ethier Laurent,Male,05-03-2024,Blue Mtn,CAN,Canada,National Junior Championships,Slopestyle,18,7.50
+14,Ethier Laurent,Male,10-02-2024,Val Saint Come,CAN,Canada,FIS,Slopestyle,1,50.00
+15,Ethier Laurent,Male,18-01-2024,Sun Peaks,CAN,Canada,Nor-Am Cup,Big Air,4,94.20
+16,Ethier Laurent,Male,17-01-2024,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,39,12.80
+17,Ethier Laurent,Male,21-03-2023,Winsport Calgary,CAN,Canada,National Junior Championships,Slopestyle,2,82.90
+18,Ethier Laurent,Male,15-03-2023,Stoneham,CAN,Canada,Nor-Am Cup,Big Air,17,9.70
+19,Ethier Laurent,Male,14-03-2023,Stoneham,CAN,Canada,Nor-Am Cup,Slopestyle,22,13.10
+20,Ethier Laurent,Male,09-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Slopestyle,32,6.40
+21,Ethier Laurent,Male,08-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Slopestyle,26,16.10
+22,Ethier Laurent,Male,16-02-2023,Winsport Calgary,CAN,Canada,Nor-Am Cup,Big Air,26,7.40
+23,Ethier Laurent,Male,15-02-2023,Winsport Calgary,CAN,Canada,Nor-Am Cup,Slopestyle,22,38.30
+24,Ethier Laurent,Male,26-01-2023,Copper Mountain Resort,USA,Canada,Nor-Am Cup,Slopestyle,44,3.00
+25,Ethier Laurent,Male,18-01-2023,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,11,48.90
+26,Ethier Laurent,Male,17-01-2023,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,14,38.80
+27,Ethier Laurent,Male,06-02-2022,Calgary,CAN,Canada,National Junior Championships,Slopestyle,7,49.00
+28,Ethier Laurent,Male,04-02-2022,Calgary,CAN,Canada,Nor-Am Cup,Big Air,23,10.40
+29,Ethier Laurent,Male,29-01-2022,Calgary,CAN,Canada,FIS,Slopestyle,10,15.90
+30,Ethier Laurent,Male,21-01-2022,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,5,59.50
+31,Ethier Laurent,Male,20-01-2022,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,8,39.30
+32,Ethier Laurent,Male,10-03-2020,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,24,10.50
+33,Ethier Laurent,Male,25-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,45,
+34,Ethier Laurent,Male,24-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,24,14.00

@@ -1,240 +1,242 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Heldman Ben,Male,16-03-2025,Winterberg,GER,Canada,World Cup,Parallel Slalom Team,8,
-1,Heldman Ben,Male,16-03-2025,Winterberg,GER,Canada,Qualification,Parallel Slalom Team,8,
-2,Heldman Ben,Male,15-03-2025,Winterberg,GER,Canada,Qualification,Parallel Slalom,28,
-3,Heldman Ben,Male,15-03-2025,Winterberg,GER,Canada,World Cup,Parallel Slalom,28,40.00
-4,Heldman Ben,Male,02-03-2025,Krynica,POL,Canada,Qualification,Parallel Giant Slalom,16,
-5,Heldman Ben,Male,02-03-2025,Krynica,POL,Canada,World Cup,Parallel Giant Slalom,16,150.00
-6,Heldman Ben,Male,01-03-2025,Krynica,POL,Canada,Qualification,Parallel Giant Slalom,5,
-7,Heldman Ben,Male,01-03-2025,Krynica,POL,Canada,World Cup,Parallel Giant Slalom,9,290.00
-8,Heldman Ben,Male,16-02-2025,Val St. Come,CAN,Canada,Qualification,Parallel Giant Slalom,4,
-9,Heldman Ben,Male,16-02-2025,Val St. Come,CAN,Canada,World Cup,Parallel Giant Slalom,10,260.00
-10,Heldman Ben,Male,15-02-2025,Val St. Come,CAN,Canada,Qualification,Parallel Giant Slalom,11,
-11,Heldman Ben,Male,15-02-2025,Val St. Come,CAN,Canada,World Cup,Parallel Giant Slalom,7,360.00
-12,Heldman Ben,Male,06-02-2025,Toronto Ski Club,CAN,Canada,Nor-Am Cup,Parallel Slalom,5,108.00
-13,Heldman Ben,Male,01-02-2025,Ratschings,ITA,Canada,European Cup,Parallel Slalom,3,174.00
-14,Heldman Ben,Male,01-02-2025,Ratschings,ITA,Canada,Qualification,Parallel Slalom,6,
-15,Heldman Ben,Male,26-01-2025,Simonhöhe,AUT,Canada,European Cup,Parallel Giant Slalom,7,115.20
-16,Heldman Ben,Male,25-01-2025,Rogla,SLO,Canada,Qualification,Parallel Giant Slalom,29,
-17,Heldman Ben,Male,25-01-2025,Rogla,SLO,Canada,World Cup,Parallel Giant Slalom,29,36.00
-18,Heldman Ben,Male,22-01-2025,Bansko,BUL,Canada,European Cup,Parallel Giant Slalom,9,84.10
-19,Heldman Ben,Male,21-01-2025,Bansko,BUL,Canada,European Cup,Parallel Giant Slalom,4,145.00
-20,Heldman Ben,Male,19-01-2025,Bansko,BUL,Canada,Qualification,Parallel Giant Slalom,22,
-21,Heldman Ben,Male,19-01-2025,Bansko,BUL,Canada,World Cup,Parallel Giant Slalom,22,90.00
-22,Heldman Ben,Male,18-01-2025,Bansko,BUL,Canada,Qualification,Parallel Giant Slalom,17,
-23,Heldman Ben,Male,18-01-2025,Bansko,BUL,Canada,World Cup,Parallel Giant Slalom,17,140.00
-24,Heldman Ben,Male,15-01-2025,Bad Gastein,AUT,Canada,World Cup,Parallel Slalom Team,10,
-25,Heldman Ben,Male,14-01-2025,Bad Gastein,AUT,Canada,Qualification,Parallel Slalom,16,
-26,Heldman Ben,Male,14-01-2025,Bad Gastein,AUT,Canada,World Cup,Parallel Slalom,8,320.00
-27,Heldman Ben,Male,11-01-2025,Scuol,SUI,Canada,Qualification,Parallel Giant Slalom,DNF,
-28,Heldman Ben,Male,11-01-2025,Scuol,SUI,Canada,World Cup,Parallel Giant Slalom,DNF,
-29,Heldman Ben,Male,04-01-2025,Val Saint Come,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,1,240.00
-30,Heldman Ben,Male,03-01-2025,Val Saint Come,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,5,108.00
-31,Heldman Ben,Male,21-12-2024,Davos,SUI,Canada,Qualification,Parallel Slalom,20,
-32,Heldman Ben,Male,21-12-2024,Davos,SUI,Canada,World Cup,Parallel Slalom,20,110.00
-33,Heldman Ben,Male,14-12-2024,Cortina d'Ampezzo,ITA,Canada,Qualification,Parallel Giant Slalom,29,
-34,Heldman Ben,Male,14-12-2024,Cortina d'Ampezzo,ITA,Canada,World Cup,Parallel Giant Slalom,29,36.00
-35,Heldman Ben,Male,12-12-2024,Carezza,ITA,Canada,Qualification,Parallel Giant Slalom,23,
-36,Heldman Ben,Male,12-12-2024,Carezza,ITA,Canada,World Cup,Parallel Giant Slalom,23,80.00
-37,Heldman Ben,Male,08-12-2024,Yanqing (NASC),CHN,Canada,World Cup,Parallel Slalom,12,220.00
-38,Heldman Ben,Male,08-12-2024,Yanqing (NASC),CHN,Canada,Qualification,Parallel Slalom,10,
-39,Heldman Ben,Male,07-12-2024,Yanqing (NASC),CHN,Canada,World Cup,Parallel Giant Slalom,22,90.00
-40,Heldman Ben,Male,07-12-2024,Yanqing (NASC),CHN,Canada,Qualification,Parallel Giant Slalom,22,
-41,Heldman Ben,Male,01-12-2024,Mylin,CHN,Canada,World Cup,Parallel Slalom,DNF,
-42,Heldman Ben,Male,01-12-2024,Mylin,CHN,Canada,Qualification,Parallel Slalom,DNF,
-43,Heldman Ben,Male,30-11-2024,Mylin,CHN,Canada,World Cup,Parallel Giant Slalom,28,40.00
-44,Heldman Ben,Male,30-11-2024,Mylin,CHN,Canada,Qualification,Parallel Giant Slalom,28,
-45,Heldman Ben,Male,17-03-2024,St. Moritz,SUI,Canada,European Cup,Parallel Slalom,28,14.40
-46,Heldman Ben,Male,16-03-2024,St. Moritz,SUI,Canada,European Cup,Parallel Giant Slalom,32,9.36
-47,Heldman Ben,Male,13-03-2024,Davos/Rinerhorn ,SUI,Canada,European Cup,Parallel Giant Slalom,DSQ,
-48,Heldman Ben,Male,12-03-2024,Davos/Rinerhorn ,SUI,Canada,European Cup,Parallel Giant Slalom,2,288.00
-49,Heldman Ben,Male,10-03-2024,Winterberg,GER,Canada,World Cup,Parallel Slalom Team,15,
-50,Heldman Ben,Male,09-03-2024,Winterberg,GER,Canada,Qualification,Parallel Slalom,24,
-51,Heldman Ben,Male,09-03-2024,Winterberg,GER,Canada,World Cup,Parallel Slalom,24,70.00
-52,Heldman Ben,Male,25-02-2024,Krynica,POL,Canada,Qualification,Parallel Giant Slalom,30,
-53,Heldman Ben,Male,25-02-2024,Krynica,POL,Canada,World Cup,Parallel Giant Slalom,30,32.00
-54,Heldman Ben,Male,24-02-2024,Krynica,POL,Canada,Qualification,Parallel Giant Slalom,32,
-55,Heldman Ben,Male,24-02-2024,Krynica,POL,Canada,World Cup,Parallel Giant Slalom,32,26.00
-56,Heldman Ben,Male,10-02-2024,"Alpine Ski Club,",CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,2,256.00
-57,Heldman Ben,Male,09-02-2024,"Alpine Ski Club,",CAN,Canada,Nor-Am Cup,Parallel Slalom,3,192.00
-58,Heldman Ben,Male,06-02-2024,Val Saint Come,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,DNF,
-59,Heldman Ben,Male,05-02-2024,Val Saint Come,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,1,320.00
-60,Heldman Ben,Male,27-01-2024,Simonhöhe,AUT,Canada,Qualification,Parallel Giant Slalom,DNF,
-61,Heldman Ben,Male,27-01-2024,Simonhöhe,AUT,Canada,World Cup,Parallel Giant Slalom,DNF,
-62,Heldman Ben,Male,25-01-2024,Rogla,SLO,Canada,Qualification,Parallel Giant Slalom,16,
-63,Heldman Ben,Male,25-01-2024,Rogla,SLO,Canada,World Cup,Parallel Giant Slalom,16,150.00
-64,Heldman Ben,Male,21-01-2024,Pamporovo,BUL,Canada,Qualification,Parallel Slalom,13,
-65,Heldman Ben,Male,21-01-2024,Pamporovo,BUL,Canada,World Cup,Parallel Slalom,14,180.00
-66,Heldman Ben,Male,20-01-2024,Pamporovo,BUL,Canada,Qualification,Parallel Slalom,18,
-67,Heldman Ben,Male,20-01-2024,Pamporovo,BUL,Canada,World Cup,Parallel Slalom,18,130.00
-68,Heldman Ben,Male,16-01-2024,Bad Gastein,AUT,Canada,Qualification,Parallel Slalom,28,
-69,Heldman Ben,Male,16-01-2024,Bad Gastein,AUT,Canada,World Cup,Parallel Slalom,28,40.00
-70,Heldman Ben,Male,13-01-2024,Scuol,SUI,Canada,Qualification,Parallel Giant Slalom,DSQ,
-71,Heldman Ben,Male,13-01-2024,Scuol,SUI,Canada,World Cup,Parallel Giant Slalom,DSQ,
-72,Heldman Ben,Male,23-12-2023,Davos,SUI,Canada,Qualification,Parallel Slalom,22,
-73,Heldman Ben,Male,23-12-2023,Davos ,SUI,Canada,World Cup,Parallel Slalom,22,90.00
-74,Heldman Ben,Male,16-12-2023,Cortina d'Ampezzo,ITA,Canada,Qualification,Parallel Giant Slalom,20,
-75,Heldman Ben,Male,16-12-2023,Cortina d'Ampezzo,ITA,Canada,World Cup,Parallel Giant Slalom,20,110.00
-76,Heldman Ben,Male,14-12-2023,Carezza,ITA,Canada,Qualification,Parallel Giant Slalom,21,
-77,Heldman Ben,Male,14-12-2023,Carezza,ITA,Canada,World Cup,Parallel Giant Slalom,21,100.00
-78,Heldman Ben,Male,09-12-2023,Götschen,GER,Canada,Qualification,Parallel Slalom,3,
-79,Heldman Ben,Male,09-12-2023,Götschen,GER,Canada,European Cup,Parallel Slalom,9,104.40
-80,Heldman Ben,Male,08-12-2023,Götschen,GER,Canada,Qualification,Parallel Slalom,3,
-81,Heldman Ben,Male,08-12-2023,Götschen,GER,Canada,European Cup,Parallel Slalom,4,180.00
-82,Heldman Ben,Male,19-03-2023,Berchtesgaden,GER,Canada,World Cup,Parallel Slalom Team,18,
-83,Heldman Ben,Male,18-03-2023,Berchtesgaden,GER,Canada,Qualification,Parallel Slalom,18,
-84,Heldman Ben,Male,18-03-2023,Berchtesgaden,GER,Canada,World Cup,Parallel Slalom,18,130.00
-85,Heldman Ben,Male,15-03-2023,Rogla,SLO,Canada,World Cup,Parallel Giant Slalom,30,32.00
-86,Heldman Ben,Male,15-03-2023,Rogla,SLO,Canada,Qualification,Parallel Giant Slalom,30,
-87,Heldman Ben,Male,12-03-2023,Davos,SUI,Canada,European Cup,Parallel Slalom,4,110.00
-88,Heldman Ben,Male,11-03-2023,Davos,SUI,Canada,European Cup,Parallel Slalom,1,360.00
-89,Heldman Ben,Male,05-03-2023,Val Senales,ITA,Canada,FIS,Parallel Slalom,4,80.00
-90,Heldman Ben,Male,04-03-2023,Val Senales,ITA,Canada,FIS,Parallel Slalom,3,132.00
-91,Heldman Ben,Male,22-02-2023,Bakuriani,GEO,Canada,World Championships,Parallel Slalom Team,15,
-92,Heldman Ben,Male,21-02-2023,Bakuriani,GEO,Canada,Qualification,Parallel Slalom,20,
-93,Heldman Ben,Male,21-02-2023,Bakuriani,GEO,Canada,World Championships,Parallel Slalom,20,110.00
-94,Heldman Ben,Male,19-02-2023,Bakuriani,GEO,Canada,Qualification,Parallel Giant Slalom,26,
-95,Heldman Ben,Male,19-02-2023,Bakuriani,GEO,Canada,World Championships,Parallel Giant Slalom,26,50.00
-96,Heldman Ben,Male,08-02-2023,Tremblant.QC,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,1,220.00
-97,Heldman Ben,Male,07-02-2023,Tremblant.QC,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,5,99.00
-98,Heldman Ben,Male,31-01-2023,Blue,CAN,Canada,Nor-Am Cup,Parallel Slalom,2,192.00
-99,Heldman Ben,Male,30-01-2023,Blue,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,2,192.00
-100,Heldman Ben,Male,27-01-2023,Blue Mountain,CAN,Canada,Qualification,Parallel Giant Slalom,20,
-101,Heldman Ben,Male,27-01-2023,Blue Mountain,CAN,Canada,World Cup,Parallel Giant Slalom,20,110.00
-102,Heldman Ben,Male,26-01-2023,Blue Mountain,CAN,Canada,Qualification,Parallel Giant Slalom,38,
-103,Heldman Ben,Male,26-01-2023,Blue Mountain,CAN,Canada,World Cup,Parallel Giant Slalom,38,19.10
-104,Heldman Ben,Male,22-01-2023,Bansko,BUL,Canada,Qualification,Parallel Slalom,11,
-105,Heldman Ben,Male,22-01-2023,Bansko,BUL,Canada,World Cup,Parallel Slalom,11,240.00
-106,Heldman Ben,Male,21-01-2023,Bansko,BUL,Canada,Qualification,Parallel Slalom,21,
-107,Heldman Ben,Male,21-01-2023,Bansko,BUL,Canada,World Cup,Parallel Slalom,21,100.00
-108,Heldman Ben,Male,14-01-2023,Scuol,SUI,Canada,Qualification,Parallel Giant Slalom,17,
-109,Heldman Ben,Male,14-01-2023,Scuol,SUI,Canada,World Cup,Parallel Giant Slalom,17,140.00
-110,Heldman Ben,Male,11-01-2023,Bad Gastein,AUT,Canada,World Cup,Parallel Slalom Team,15,
-111,Heldman Ben,Male,10-01-2023,Bad Gastein,AUT,Canada,Qualification,Parallel Slalom,20,
-112,Heldman Ben,Male,10-01-2023,Bad Gastein,AUT,Canada,World Cup,Parallel Slalom,20,110.00
-113,Heldman Ben,Male,17-12-2022,Cortina d'Ampezzo,ITA,Canada,Qualification,Parallel Giant Slalom,20,
-114,Heldman Ben,Male,17-12-2022,Cortina d'Ampezzo,ITA,Canada,World Cup,Parallel Giant Slalom,20,110.00
-115,Heldman Ben,Male,15-12-2022,Carezza,ITA,Canada,Qualification,Parallel Giant Slalom,22,
-116,Heldman Ben,Male,15-12-2022,Carezza,ITA,Canada,World Cup,Parallel Giant Slalom,22,90.00
-117,Heldman Ben,Male,11-12-2022,Winterberg,GER,Canada,World Cup,Parallel Slalom,27,45.00
-118,Heldman Ben,Male,10-12-2022,Winterberg,GER,Canada,Qualification,Parallel Slalom,27,
-119,Heldman Ben,Male,10-12-2022,Winterberg,GER,Canada,World Cup,Parallel Slalom Team,18,
-120,Heldman Ben,Male,01-04-2022,Chiesa in Valmalenco,ITA,Canada,FIS Junior World Championships,Parallel Slalom,1,240.00
-121,Heldman Ben,Male,31-03-2022,Chiesa in Valmalenco,ITA,Canada,FIS Junior World Championships,Parallel Giant Slalom,1,240.00
-122,Heldman Ben,Male,17-03-2022,Rogla,SLO,Canada,European Cup,Parallel Giant Slalom,44,
-123,Heldman Ben,Male,24-02-2022,Alpine Ski Club,CAN,Canada,Nor-Am Cup,Parallel Slalom,10,67.60
-124,Heldman Ben,Male,23-02-2022,Alpine Ski Club,CAN,Canada,Nor-Am Cup,Parallel Slalom,4,130.00
-125,Heldman Ben,Male,16-02-2022,Blue Mountain,CAN,Canada,National Junior Championships,Parallel Giant Slalom,DNS,
-126,Heldman Ben,Male,15-02-2022,Blue Mountain,CAN,Canada,Nor-Am Cup,Parallel Slalom,5,108.00
-127,Heldman Ben,Male,14-02-2022,Blue Mountain,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,5,108.00
-128,Heldman Ben,Male,10-02-2022,Tremblant.QC,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,4,90.00
-129,Heldman Ben,Male,09-02-2022,Tremblant.QC,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,1,180.00
-130,Heldman Ben,Male,30-01-2022,Davos,SUI,Canada,European Cup,Parallel Slalom,30,
-131,Heldman Ben,Male,29-01-2022,Davos,SUI,Canada,European Cup,Parallel Slalom,16,54.00
-132,Heldman Ben,Male,23-01-2022,Bukovel,UKR,Canada,European Cup,Parallel Giant Slalom,DNS,
-133,Heldman Ben,Male,22-01-2022,Bukovel,UKR,Canada,European Cup,Parallel Giant Slalom,16,39.00
-134,Heldman Ben,Male,14-01-2022,Simonhöhe,AUT,Canada,World Cup,Parallel Giant Slalom,49,15.80
-135,Heldman Ben,Male,14-01-2022,Simonhöhe,AUT,Canada,Qualification,Parallel Giant Slalom,49,
-136,Heldman Ben,Male,11-01-2022,Bad Gastein,AUT,Canada,Qualification,Parallel Slalom,DSQ,
-137,Heldman Ben,Male,11-01-2022,Bad Gastein,AUT,Canada,World Cup,Parallel Slalom,DSQ,
-138,Heldman Ben,Male,08-01-2022,Scuol,SUI,Canada,Qualification,Parallel Giant Slalom,47,
-139,Heldman Ben,Male,08-01-2022,Scuol,SUI,Canada,World Cup,Parallel Giant Slalom,47,16.40
-140,Heldman Ben,Male,18-12-2021,Cortina d Ampezzo,ITA,Canada,Qualification,Parallel Giant Slalom,48,
-141,Heldman Ben,Male,18-12-2021,Cortina d Ampezzo,ITA,Canada,World Cup,Parallel Giant Slalom,48,16.10
-142,Heldman Ben,Male,16-12-2021,Carezza,ITA,Canada,Qualification,Parallel Giant Slalom,66,
-143,Heldman Ben,Male,16-12-2021,Carezza,ITA,Canada,World Cup,Parallel Giant Slalom,66,
-144,Heldman Ben,Male,12-12-2021,Bannoye,RUS,Canada,Qualification,Parallel Slalom,29,
-145,Heldman Ben,Male,12-12-2021,Bannoye,RUS,Canada,World Cup,Parallel Slalom,29,36.00
-146,Heldman Ben,Male,11-12-2021,Bannoye,RUS,Canada,Qualification,Parallel Giant Slalom,44,
-147,Heldman Ben,Male,11-12-2021,Bannoye,RUS,Canada,World Cup,Parallel Giant Slalom,44,17.30
-148,Heldman Ben,Male,26-03-2021,Krasnoyarsk ,RUS,Canada,FIS Junior World Championships,Parallel Slalom,10,67.60
-149,Heldman Ben,Male,25-03-2021,Krasnoyarsk ,RUS,Canada,FIS Junior World Championships,Parallel Giant Slalom,5,117.00
-150,Heldman Ben,Male,25-03-2021,Krasnoyarsk ,RUS,Canada,Qualification,Parallel Giant Slalom,5,
-151,Heldman Ben,Male,20-03-2021,Berchtesgaden,GER,Canada,Qualification,Parallel Slalom,51,
-152,Heldman Ben,Male,20-03-2021,Berchtesgaden,GER,Canada,World Cup,Parallel Slalom,51,
-153,Heldman Ben,Male,13-03-2021,Davos Rinerhorn,SUI,Canada,European Cup,Parallel Giant Slalom,28,14.40
-154,Heldman Ben,Male,06-03-2021,Rogla,SLO,Canada,Qualification,Parallel Giant Slalom,56,
-155,Heldman Ben,Male,06-03-2021,Rogla,SLO,Canada,World Cup,Parallel Giant Slalom,56,
-156,Heldman Ben,Male,28-02-2021,Funes/Villnoesses,ITA,Canada,European Cup,Parallel Giant Slalom,9,75.40
-157,Heldman Ben,Male,27-02-2021,Funes/Villnoesses,ITA,Canada,European Cup,Parallel Giant Slalom,21,32.00
-158,Heldman Ben,Male,21-02-2021,Gerlitzen,AUT,Canada,National Championships,Parallel Slalom,20,31.90
-159,Heldman Ben,Male,20-02-2021,Gerlitzen,AUT,Canada,National Championships,Parallel Giant Slalom,23,23.20
-160,Heldman Ben,Male,07-02-2021,Lenzerheide,SUI,Canada,European Cup,Parallel Slalom,11,52.80
-161,Heldman Ben,Male,06-02-2021,Lenzerheide,SUI,Canada,European Cup,Parallel Slalom,12,48.40
-162,Heldman Ben,Male,24-01-2021,Davos,SUI,Canada,European Cup,Parallel Slalom,34,7.92
-163,Heldman Ben,Male,23-01-2021,Davos,SUI,Canada,European Cup,Parallel Slalom,DSQ,
-164,Heldman Ben,Male,20-12-2020,Lachtal,AUT,Canada,FIS Junior World Championships,Parallel Giant Slalom,26,18.00
-165,Heldman Ben,Male,19-12-2020,Lachtal,AUT,Canada,FIS Junior World Championships,Parallel Slalom,DSQ,
-166,Heldman Ben,Male,17-12-2020,Carezza,ITA,Canada,Qualification,Parallel Giant Slalom,37,
-167,Heldman Ben,Male,17-12-2020,Carezza,ITA,Canada,World Cup,Parallel Giant Slalom,37,19.40
-168,Heldman Ben,Male,08-03-2020,Mount St-Louis Moonstone,CAN,Canada,FIS,Parallel Slalom,3,60.00
-169,Heldman Ben,Male,07-03-2020,Mount St-Louis Moonstone,CAN,Canada,FIS,Parallel Giant Slalom,2,80.00
-170,Heldman Ben,Male,05-03-2020,Blue Mountain,CAN,Canada,National Junior Championships,Parallel Slalom,2,120.00
-171,Heldman Ben,Male,04-03-2020,Blue Mountain,CAN,Canada,National Junior Championships,Parallel Giant Slalom,5,67.50
-172,Heldman Ben,Male,03-03-2020,Blue Mountain,CAN,Canada,Nor-Am Cup,Parallel Slalom,19,38.40
-173,Heldman Ben,Male,02-03-2020,Blue Mountain,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,12,70.40
-174,Heldman Ben,Male,01-03-2020,Blue Mountain,CAN,Canada,World Cup,Parallel Giant Slalom,45,17.00
-175,Heldman Ben,Male,01-03-2020,Blue Mountain,CAN,Canada,Qualification,Parallel Giant Slalom,45,
-176,Heldman Ben,Male,29-02-2020,Blue Mountain,CAN,Canada,World Cup,Parallel Giant Slalom,55,
-177,Heldman Ben,Male,29-02-2020,Blue Mountain,CAN,Canada,Qualification,Parallel Giant Slalom,55,
-178,Heldman Ben,Male,09-02-2020,Alpine Ski Club,CAN,Canada,FIS,Parallel Slalom,2,128.00
-179,Heldman Ben,Male,08-02-2020,Alpine Ski Club,CAN,Canada,Nor-Am Cup,Parallel Slalom,21,20.00
-180,Heldman Ben,Male,07-02-2020,Alpine Ski Club,CAN,Canada,Nor-Am Cup,Parallel Slalom,5,90.00
-181,Heldman Ben,Male,04-02-2020,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Parallel Giant Slalom,10,52.00
-182,Heldman Ben,Male,03-02-2020,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Parallel Giant Slalom,9,58.00
-183,Heldman Ben,Male,25-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,Canada,FIS,Parallel Giant Slalom,1,160.00
-184,Heldman Ben,Male,24-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,Canada,Nor-Am Cup,Parallel Slalom,5,90.00
-185,Heldman Ben,Male,23-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,Canada,Nor-Am Cup,Parallel Giant Slalom,DNS,
-186,Heldman Ben,Male,10-01-2020,Tremblant.QC,CAN,Canada,FIS,Parallel Giant Slalom,4,80.00
-187,Heldman Ben,Male,22-12-2019,"Buck Hill, MN",USA,Canada,Nor-Am Cup,Parallel Slalom,10,52.00
-188,Heldman Ben,Male,21-12-2019,"Buck Hill, MN",USA,Canada,Nor-Am Cup,Parallel Slalom,8,64.00
-189,Heldman Ben,Male,20-12-2019,"Buck Hill, MN",USA,Canada,FIS,Parallel Slalom,10,41.60
-190,Heldman Ben,Male,20-12-2019,"Buck Hill, MN",USA,Canada,Junior,Parallel Slalom,6,48.00
-191,Heldman Ben,Male,03-04-2019,Rogla,SLO,Canada,FIS Junior World Championships,Parallel Slalom,21,36.00
-192,Heldman Ben,Male,02-04-2019,Rogla,SLO,Canada,FIS Junior World Championships,Parallel Giant Slalom,46,6.01
-193,Heldman Ben,Male,31-03-2019,Radstadt,AUT,Canada,National Championships,Parallel Giant Slalom,26,14.50
-194,Heldman Ben,Male,30-03-2019,Radstadt,AUT,Canada,National Championships,Parallel Slalom,23,23.20
-195,Heldman Ben,Male,27-03-2019,Piancavallo,ITA,Canada,National Championships,Parallel Giant Slalom,33,6.96
-196,Heldman Ben,Male,26-03-2019,Piancavallo,ITA,Canada,National Championships,Parallel Slalom,33,6.96
-197,Heldman Ben,Male,09-03-2019,Toronto Ski Club,CAN,Canada,FIS,Parallel Giant Slalom,4,55.00
-198,Heldman Ben,Male,07-03-2019,Blue Mountain,CAN,Canada,FIS,Parallel Slalom,3,60.00
-199,Heldman Ben,Male,06-03-2019,Blue Mountain,CAN,Canada,National Junior Championships,Parallel Giant Slalom,4,65.00
-200,Heldman Ben,Male,05-03-2019,Blue Mountain,CAN,Canada,Nor-Am Cup,Parallel Slalom,10,62.40
-201,Heldman Ben,Male,04-03-2019,Blue Mountain,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,13,48.00
-202,Heldman Ben,Male,01-03-2019,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Parallel GS,9,52.20
-203,Heldman Ben,Male,28-02-2019,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Parallel Giant Slalom,25,10.80
-204,Heldman Ben,Male,10-02-2019,Alpine Ski Club,CAN,Canada,Nor-Am Cup,Parallel Slalom,6,72.00
-205,Heldman Ben,Male,09-02-2019,Alpine Ski Club,CAN,Canada,Nor-Am Cup,Parallel Slalom,19,21.60
-206,Heldman Ben,Male,27-01-2019,Mont Blanc,CAN,Canada,FIS,Parallel Slalom,4,100.00
-207,Heldman Ben,Male,26-01-2019,Mont Blanc,CAN,Canada,FIS,Parallel Giant Slalom,8,64.00
-208,Heldman Ben,Male,05-01-2019,"Le Relais, QC",CAN,Canada,Junior,Parallel GS,2,80.00
-209,Heldman Ben,Male,04-01-2019,"Le Relais, QC",CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,13,52.00
-210,Heldman Ben,Male,03-01-2019,"Le Relais, QC",CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,14,46.80
-211,Heldman Ben,Male,16-12-2018,"Buck Hill, MN",USA,Canada,Nor-Am Cup,Parallel Slalom,10,41.60
-212,Heldman Ben,Male,15-12-2018,"Buck Hill, MN",USA,Canada,Nor-Am Cup,Parallel Slalom,10,41.60
-213,Heldman Ben,Male,15-12-2018,"Buck Hill, MN",USA,Canada,Junior,Parallel Slalom,9,29.00
-214,Heldman Ben,Male,14-12-2018,"Buck Hill, MN",USA,Canada,Nor-Am Cup,Parallel Slalom,6,64.00
-215,Heldman Ben,Male,09-12-2018,Steamboat Ski and Resort / Howelsen Hill,USA,Canada,Nor-Am Cup,Parallel Slalom,14,28.80
-216,Heldman Ben,Male,08-12-2018,Steamboat Ski and Resort / Howelsen Hill,USA,Canada,Nor-Am Cup,Parallel Giant Slalom,9,46.40
-217,Heldman Ben,Male,06-09-2018,Cardrona,NZL,Canada,FIS Junior World Championships,Parallel Slalom,27,14.40
-218,Heldman Ben,Male,05-09-2018,Cardrona,NZL,Canada,FIS Junior World Championships,Parallel GS,29,11.52
-219,Heldman Ben,Male,03-04-2018,Copper Mountain Resort,USA,Canada,Nor-Am Cup,Parallel Slalom,29,11.52
-220,Heldman Ben,Male,02-04-2018,Copper Mountain Resort,USA,Canada,Nor-Am Cup,Parallel GS,DSQ,
-221,Heldman Ben,Male,04-03-2018,Mount St-Louis Moonstone,CAN,Canada,FIS,Parallel Slalom,4,60.00
-222,Heldman Ben,Male,03-03-2018,Mount St-Louis Moonstone,CAN,Canada,FIS,Parallel GS,3,54.00
-223,Heldman Ben,Male,22-02-2018,Toronto Ski Club,CAN,Canada,FIS,Parallel Slalom,3,78.00
-224,Heldman Ben,Male,21-02-2018,Toronto Ski Club,CAN,Canada,Nor-Am Cup,Parallel Slalom,DSQ,
-225,Heldman Ben,Male,20-02-2018,Toronto Ski Club,CAN,Canada,Nor-Am Cup,Parallel Slalom,10,46.80
-226,Heldman Ben,Male,08-02-2018,Blue Mountain,CAN,Canada,National Junior Championships,Parallel Slalom,9,29.00
-227,Heldman Ben,Male,07-02-2018,Blue Mountain,CAN,Canada,National Junior Championships,Parallel GS,7,36.00
-228,Heldman Ben,Male,06-02-2018,Blue Mountain,CAN,Canada,Nor-Am Cup,Parallel Slalom,17,30.80
-229,Heldman Ben,Male,05-02-2018,Blue Mountain,CAN,Canada,Nor-Am Cup,Parallel GS,13,52.00
-230,Heldman Ben,Male,02-02-2018,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Parallel GS,DSQ,
-231,Heldman Ben,Male,01-02-2018,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Parallel GS,14,28.80
-232,Heldman Ben,Male,05-01-2018,Le Relais,CAN,Canada,Junior,Parallel GS,6,36.00
-233,Heldman Ben,Male,04-01-2018,Le Relais,CAN,Canada,Nor-Am Cup,Parallel GS,16,24.00
-234,Heldman Ben,Male,03-01-2018,Le Relais,CAN,Canada,Nor-Am Cup,Parallel GS,18,20.80
-235,Heldman Ben,Male,17-12-2017,"Buck Hill, MN",USA,Canada,Nor-Am Cup,Parallel Slalom,16,24.00
-236,Heldman Ben,Male,16-12-2017,"Buck Hill, MN",USA,Canada,Nor-Am Cup,Parallel Slalom,28,6.40
-237,Heldman Ben,Male,16-12-2017,"Buck Hill, MN",USA,Canada,Junior,Parallel Slalom,14,16.20
-238,Heldman Ben,Male,15-12-2017,"Buck Hill, MN",USA,Canada,Nor-Am Cup,Parallel Slalom,26,8.00
+0,Heldman Ben,Male,20-03-2025,Engadin,SUI,Canada,Qualification,Parallel Giant Slalom,19,
+1,Heldman Ben,Male,20-03-2025,Engadin,SUI,Canada,World Championships,Parallel Giant Slalom,19,120.00
+2,Heldman Ben,Male,16-03-2025,Winterberg,GER,Canada,World Cup,Parallel Slalom Team,8,
+3,Heldman Ben,Male,16-03-2025,Winterberg,GER,Canada,Qualification,Parallel Slalom Team,8,
+4,Heldman Ben,Male,15-03-2025,Winterberg,GER,Canada,Qualification,Parallel Slalom,28,
+5,Heldman Ben,Male,15-03-2025,Winterberg,GER,Canada,World Cup,Parallel Slalom,28,40.00
+6,Heldman Ben,Male,02-03-2025,Krynica,POL,Canada,Qualification,Parallel Giant Slalom,16,
+7,Heldman Ben,Male,02-03-2025,Krynica,POL,Canada,World Cup,Parallel Giant Slalom,16,150.00
+8,Heldman Ben,Male,01-03-2025,Krynica,POL,Canada,Qualification,Parallel Giant Slalom,5,
+9,Heldman Ben,Male,01-03-2025,Krynica,POL,Canada,World Cup,Parallel Giant Slalom,9,290.00
+10,Heldman Ben,Male,16-02-2025,Val St. Come,CAN,Canada,Qualification,Parallel Giant Slalom,4,
+11,Heldman Ben,Male,16-02-2025,Val St. Come,CAN,Canada,World Cup,Parallel Giant Slalom,10,260.00
+12,Heldman Ben,Male,15-02-2025,Val St. Come,CAN,Canada,Qualification,Parallel Giant Slalom,11,
+13,Heldman Ben,Male,15-02-2025,Val St. Come,CAN,Canada,World Cup,Parallel Giant Slalom,7,360.00
+14,Heldman Ben,Male,06-02-2025,Toronto Ski Club,CAN,Canada,Nor-Am Cup,Parallel Slalom,5,108.00
+15,Heldman Ben,Male,01-02-2025,Ratschings,ITA,Canada,European Cup,Parallel Slalom,3,174.00
+16,Heldman Ben,Male,01-02-2025,Ratschings,ITA,Canada,Qualification,Parallel Slalom,6,
+17,Heldman Ben,Male,26-01-2025,Simonhöhe,AUT,Canada,European Cup,Parallel Giant Slalom,7,115.20
+18,Heldman Ben,Male,25-01-2025,Rogla,SLO,Canada,Qualification,Parallel Giant Slalom,29,
+19,Heldman Ben,Male,25-01-2025,Rogla,SLO,Canada,World Cup,Parallel Giant Slalom,29,36.00
+20,Heldman Ben,Male,22-01-2025,Bansko,BUL,Canada,European Cup,Parallel Giant Slalom,9,84.10
+21,Heldman Ben,Male,21-01-2025,Bansko,BUL,Canada,European Cup,Parallel Giant Slalom,4,145.00
+22,Heldman Ben,Male,19-01-2025,Bansko,BUL,Canada,Qualification,Parallel Giant Slalom,22,
+23,Heldman Ben,Male,19-01-2025,Bansko,BUL,Canada,World Cup,Parallel Giant Slalom,22,90.00
+24,Heldman Ben,Male,18-01-2025,Bansko,BUL,Canada,Qualification,Parallel Giant Slalom,17,
+25,Heldman Ben,Male,18-01-2025,Bansko,BUL,Canada,World Cup,Parallel Giant Slalom,17,140.00
+26,Heldman Ben,Male,15-01-2025,Bad Gastein,AUT,Canada,World Cup,Parallel Slalom Team,10,
+27,Heldman Ben,Male,14-01-2025,Bad Gastein,AUT,Canada,Qualification,Parallel Slalom,16,
+28,Heldman Ben,Male,14-01-2025,Bad Gastein,AUT,Canada,World Cup,Parallel Slalom,8,320.00
+29,Heldman Ben,Male,11-01-2025,Scuol,SUI,Canada,Qualification,Parallel Giant Slalom,DNF,
+30,Heldman Ben,Male,11-01-2025,Scuol,SUI,Canada,World Cup,Parallel Giant Slalom,DNF,
+31,Heldman Ben,Male,04-01-2025,Val Saint Come,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,1,240.00
+32,Heldman Ben,Male,03-01-2025,Val Saint Come,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,5,108.00
+33,Heldman Ben,Male,21-12-2024,Davos,SUI,Canada,Qualification,Parallel Slalom,20,
+34,Heldman Ben,Male,21-12-2024,Davos,SUI,Canada,World Cup,Parallel Slalom,20,110.00
+35,Heldman Ben,Male,14-12-2024,Cortina d'Ampezzo,ITA,Canada,Qualification,Parallel Giant Slalom,29,
+36,Heldman Ben,Male,14-12-2024,Cortina d'Ampezzo,ITA,Canada,World Cup,Parallel Giant Slalom,29,36.00
+37,Heldman Ben,Male,12-12-2024,Carezza,ITA,Canada,Qualification,Parallel Giant Slalom,23,
+38,Heldman Ben,Male,12-12-2024,Carezza,ITA,Canada,World Cup,Parallel Giant Slalom,23,80.00
+39,Heldman Ben,Male,08-12-2024,Yanqing (NASC),CHN,Canada,World Cup,Parallel Slalom,12,220.00
+40,Heldman Ben,Male,08-12-2024,Yanqing (NASC),CHN,Canada,Qualification,Parallel Slalom,10,
+41,Heldman Ben,Male,07-12-2024,Yanqing (NASC),CHN,Canada,World Cup,Parallel Giant Slalom,22,90.00
+42,Heldman Ben,Male,07-12-2024,Yanqing (NASC),CHN,Canada,Qualification,Parallel Giant Slalom,22,
+43,Heldman Ben,Male,01-12-2024,Mylin,CHN,Canada,World Cup,Parallel Slalom,DNF,
+44,Heldman Ben,Male,01-12-2024,Mylin,CHN,Canada,Qualification,Parallel Slalom,DNF,
+45,Heldman Ben,Male,30-11-2024,Mylin,CHN,Canada,World Cup,Parallel Giant Slalom,28,40.00
+46,Heldman Ben,Male,30-11-2024,Mylin,CHN,Canada,Qualification,Parallel Giant Slalom,28,
+47,Heldman Ben,Male,17-03-2024,St. Moritz,SUI,Canada,European Cup,Parallel Slalom,28,14.40
+48,Heldman Ben,Male,16-03-2024,St. Moritz,SUI,Canada,European Cup,Parallel Giant Slalom,32,9.36
+49,Heldman Ben,Male,13-03-2024,Davos/Rinerhorn ,SUI,Canada,European Cup,Parallel Giant Slalom,DSQ,
+50,Heldman Ben,Male,12-03-2024,Davos/Rinerhorn ,SUI,Canada,European Cup,Parallel Giant Slalom,2,288.00
+51,Heldman Ben,Male,10-03-2024,Winterberg,GER,Canada,World Cup,Parallel Slalom Team,15,
+52,Heldman Ben,Male,09-03-2024,Winterberg,GER,Canada,Qualification,Parallel Slalom,24,
+53,Heldman Ben,Male,09-03-2024,Winterberg,GER,Canada,World Cup,Parallel Slalom,24,70.00
+54,Heldman Ben,Male,25-02-2024,Krynica,POL,Canada,Qualification,Parallel Giant Slalom,30,
+55,Heldman Ben,Male,25-02-2024,Krynica,POL,Canada,World Cup,Parallel Giant Slalom,30,32.00
+56,Heldman Ben,Male,24-02-2024,Krynica,POL,Canada,Qualification,Parallel Giant Slalom,32,
+57,Heldman Ben,Male,24-02-2024,Krynica,POL,Canada,World Cup,Parallel Giant Slalom,32,26.00
+58,Heldman Ben,Male,10-02-2024,"Alpine Ski Club,",CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,2,256.00
+59,Heldman Ben,Male,09-02-2024,"Alpine Ski Club,",CAN,Canada,Nor-Am Cup,Parallel Slalom,3,192.00
+60,Heldman Ben,Male,06-02-2024,Val Saint Come,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,DNF,
+61,Heldman Ben,Male,05-02-2024,Val Saint Come,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,1,320.00
+62,Heldman Ben,Male,27-01-2024,Simonhöhe,AUT,Canada,Qualification,Parallel Giant Slalom,DNF,
+63,Heldman Ben,Male,27-01-2024,Simonhöhe,AUT,Canada,World Cup,Parallel Giant Slalom,DNF,
+64,Heldman Ben,Male,25-01-2024,Rogla,SLO,Canada,Qualification,Parallel Giant Slalom,16,
+65,Heldman Ben,Male,25-01-2024,Rogla,SLO,Canada,World Cup,Parallel Giant Slalom,16,150.00
+66,Heldman Ben,Male,21-01-2024,Pamporovo,BUL,Canada,Qualification,Parallel Slalom,13,
+67,Heldman Ben,Male,21-01-2024,Pamporovo,BUL,Canada,World Cup,Parallel Slalom,14,180.00
+68,Heldman Ben,Male,20-01-2024,Pamporovo,BUL,Canada,Qualification,Parallel Slalom,18,
+69,Heldman Ben,Male,20-01-2024,Pamporovo,BUL,Canada,World Cup,Parallel Slalom,18,130.00
+70,Heldman Ben,Male,16-01-2024,Bad Gastein,AUT,Canada,Qualification,Parallel Slalom,28,
+71,Heldman Ben,Male,16-01-2024,Bad Gastein,AUT,Canada,World Cup,Parallel Slalom,28,40.00
+72,Heldman Ben,Male,13-01-2024,Scuol,SUI,Canada,Qualification,Parallel Giant Slalom,DSQ,
+73,Heldman Ben,Male,13-01-2024,Scuol,SUI,Canada,World Cup,Parallel Giant Slalom,DSQ,
+74,Heldman Ben,Male,23-12-2023,Davos,SUI,Canada,Qualification,Parallel Slalom,22,
+75,Heldman Ben,Male,23-12-2023,Davos ,SUI,Canada,World Cup,Parallel Slalom,22,90.00
+76,Heldman Ben,Male,16-12-2023,Cortina d'Ampezzo,ITA,Canada,Qualification,Parallel Giant Slalom,20,
+77,Heldman Ben,Male,16-12-2023,Cortina d'Ampezzo,ITA,Canada,World Cup,Parallel Giant Slalom,20,110.00
+78,Heldman Ben,Male,14-12-2023,Carezza,ITA,Canada,Qualification,Parallel Giant Slalom,21,
+79,Heldman Ben,Male,14-12-2023,Carezza,ITA,Canada,World Cup,Parallel Giant Slalom,21,100.00
+80,Heldman Ben,Male,09-12-2023,Götschen,GER,Canada,Qualification,Parallel Slalom,3,
+81,Heldman Ben,Male,09-12-2023,Götschen,GER,Canada,European Cup,Parallel Slalom,9,104.40
+82,Heldman Ben,Male,08-12-2023,Götschen,GER,Canada,Qualification,Parallel Slalom,3,
+83,Heldman Ben,Male,08-12-2023,Götschen,GER,Canada,European Cup,Parallel Slalom,4,180.00
+84,Heldman Ben,Male,19-03-2023,Berchtesgaden,GER,Canada,World Cup,Parallel Slalom Team,18,
+85,Heldman Ben,Male,18-03-2023,Berchtesgaden,GER,Canada,Qualification,Parallel Slalom,18,
+86,Heldman Ben,Male,18-03-2023,Berchtesgaden,GER,Canada,World Cup,Parallel Slalom,18,130.00
+87,Heldman Ben,Male,15-03-2023,Rogla,SLO,Canada,World Cup,Parallel Giant Slalom,30,32.00
+88,Heldman Ben,Male,15-03-2023,Rogla,SLO,Canada,Qualification,Parallel Giant Slalom,30,
+89,Heldman Ben,Male,12-03-2023,Davos,SUI,Canada,European Cup,Parallel Slalom,4,110.00
+90,Heldman Ben,Male,11-03-2023,Davos,SUI,Canada,European Cup,Parallel Slalom,1,360.00
+91,Heldman Ben,Male,05-03-2023,Val Senales,ITA,Canada,FIS,Parallel Slalom,4,80.00
+92,Heldman Ben,Male,04-03-2023,Val Senales,ITA,Canada,FIS,Parallel Slalom,3,132.00
+93,Heldman Ben,Male,22-02-2023,Bakuriani,GEO,Canada,World Championships,Parallel Slalom Team,15,
+94,Heldman Ben,Male,21-02-2023,Bakuriani,GEO,Canada,Qualification,Parallel Slalom,20,
+95,Heldman Ben,Male,21-02-2023,Bakuriani,GEO,Canada,World Championships,Parallel Slalom,20,110.00
+96,Heldman Ben,Male,19-02-2023,Bakuriani,GEO,Canada,Qualification,Parallel Giant Slalom,26,
+97,Heldman Ben,Male,19-02-2023,Bakuriani,GEO,Canada,World Championships,Parallel Giant Slalom,26,50.00
+98,Heldman Ben,Male,08-02-2023,Tremblant.QC,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,1,220.00
+99,Heldman Ben,Male,07-02-2023,Tremblant.QC,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,5,99.00
+100,Heldman Ben,Male,31-01-2023,Blue,CAN,Canada,Nor-Am Cup,Parallel Slalom,2,192.00
+101,Heldman Ben,Male,30-01-2023,Blue,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,2,192.00
+102,Heldman Ben,Male,27-01-2023,Blue Mountain,CAN,Canada,Qualification,Parallel Giant Slalom,20,
+103,Heldman Ben,Male,27-01-2023,Blue Mountain,CAN,Canada,World Cup,Parallel Giant Slalom,20,110.00
+104,Heldman Ben,Male,26-01-2023,Blue Mountain,CAN,Canada,Qualification,Parallel Giant Slalom,38,
+105,Heldman Ben,Male,26-01-2023,Blue Mountain,CAN,Canada,World Cup,Parallel Giant Slalom,38,19.10
+106,Heldman Ben,Male,22-01-2023,Bansko,BUL,Canada,Qualification,Parallel Slalom,11,
+107,Heldman Ben,Male,22-01-2023,Bansko,BUL,Canada,World Cup,Parallel Slalom,11,240.00
+108,Heldman Ben,Male,21-01-2023,Bansko,BUL,Canada,Qualification,Parallel Slalom,21,
+109,Heldman Ben,Male,21-01-2023,Bansko,BUL,Canada,World Cup,Parallel Slalom,21,100.00
+110,Heldman Ben,Male,14-01-2023,Scuol,SUI,Canada,Qualification,Parallel Giant Slalom,17,
+111,Heldman Ben,Male,14-01-2023,Scuol,SUI,Canada,World Cup,Parallel Giant Slalom,17,140.00
+112,Heldman Ben,Male,11-01-2023,Bad Gastein,AUT,Canada,World Cup,Parallel Slalom Team,15,
+113,Heldman Ben,Male,10-01-2023,Bad Gastein,AUT,Canada,Qualification,Parallel Slalom,20,
+114,Heldman Ben,Male,10-01-2023,Bad Gastein,AUT,Canada,World Cup,Parallel Slalom,20,110.00
+115,Heldman Ben,Male,17-12-2022,Cortina d'Ampezzo,ITA,Canada,Qualification,Parallel Giant Slalom,20,
+116,Heldman Ben,Male,17-12-2022,Cortina d'Ampezzo,ITA,Canada,World Cup,Parallel Giant Slalom,20,110.00
+117,Heldman Ben,Male,15-12-2022,Carezza,ITA,Canada,Qualification,Parallel Giant Slalom,22,
+118,Heldman Ben,Male,15-12-2022,Carezza,ITA,Canada,World Cup,Parallel Giant Slalom,22,90.00
+119,Heldman Ben,Male,11-12-2022,Winterberg,GER,Canada,World Cup,Parallel Slalom,27,45.00
+120,Heldman Ben,Male,10-12-2022,Winterberg,GER,Canada,Qualification,Parallel Slalom,27,
+121,Heldman Ben,Male,10-12-2022,Winterberg,GER,Canada,World Cup,Parallel Slalom Team,18,
+122,Heldman Ben,Male,01-04-2022,Chiesa in Valmalenco,ITA,Canada,FIS Junior World Championships,Parallel Slalom,1,240.00
+123,Heldman Ben,Male,31-03-2022,Chiesa in Valmalenco,ITA,Canada,FIS Junior World Championships,Parallel Giant Slalom,1,240.00
+124,Heldman Ben,Male,17-03-2022,Rogla,SLO,Canada,European Cup,Parallel Giant Slalom,44,
+125,Heldman Ben,Male,24-02-2022,Alpine Ski Club,CAN,Canada,Nor-Am Cup,Parallel Slalom,10,67.60
+126,Heldman Ben,Male,23-02-2022,Alpine Ski Club,CAN,Canada,Nor-Am Cup,Parallel Slalom,4,130.00
+127,Heldman Ben,Male,16-02-2022,Blue Mountain,CAN,Canada,National Junior Championships,Parallel Giant Slalom,DNS,
+128,Heldman Ben,Male,15-02-2022,Blue Mountain,CAN,Canada,Nor-Am Cup,Parallel Slalom,5,108.00
+129,Heldman Ben,Male,14-02-2022,Blue Mountain,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,5,108.00
+130,Heldman Ben,Male,10-02-2022,Tremblant.QC,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,4,90.00
+131,Heldman Ben,Male,09-02-2022,Tremblant.QC,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,1,180.00
+132,Heldman Ben,Male,30-01-2022,Davos,SUI,Canada,European Cup,Parallel Slalom,30,
+133,Heldman Ben,Male,29-01-2022,Davos,SUI,Canada,European Cup,Parallel Slalom,16,54.00
+134,Heldman Ben,Male,23-01-2022,Bukovel,UKR,Canada,European Cup,Parallel Giant Slalom,DNS,
+135,Heldman Ben,Male,22-01-2022,Bukovel,UKR,Canada,European Cup,Parallel Giant Slalom,16,39.00
+136,Heldman Ben,Male,14-01-2022,Simonhöhe,AUT,Canada,World Cup,Parallel Giant Slalom,49,15.80
+137,Heldman Ben,Male,14-01-2022,Simonhöhe,AUT,Canada,Qualification,Parallel Giant Slalom,49,
+138,Heldman Ben,Male,11-01-2022,Bad Gastein,AUT,Canada,Qualification,Parallel Slalom,DSQ,
+139,Heldman Ben,Male,11-01-2022,Bad Gastein,AUT,Canada,World Cup,Parallel Slalom,DSQ,
+140,Heldman Ben,Male,08-01-2022,Scuol,SUI,Canada,Qualification,Parallel Giant Slalom,47,
+141,Heldman Ben,Male,08-01-2022,Scuol,SUI,Canada,World Cup,Parallel Giant Slalom,47,16.40
+142,Heldman Ben,Male,18-12-2021,Cortina d Ampezzo,ITA,Canada,Qualification,Parallel Giant Slalom,48,
+143,Heldman Ben,Male,18-12-2021,Cortina d Ampezzo,ITA,Canada,World Cup,Parallel Giant Slalom,48,16.10
+144,Heldman Ben,Male,16-12-2021,Carezza,ITA,Canada,Qualification,Parallel Giant Slalom,66,
+145,Heldman Ben,Male,16-12-2021,Carezza,ITA,Canada,World Cup,Parallel Giant Slalom,66,
+146,Heldman Ben,Male,12-12-2021,Bannoye,RUS,Canada,Qualification,Parallel Slalom,29,
+147,Heldman Ben,Male,12-12-2021,Bannoye,RUS,Canada,World Cup,Parallel Slalom,29,36.00
+148,Heldman Ben,Male,11-12-2021,Bannoye,RUS,Canada,Qualification,Parallel Giant Slalom,44,
+149,Heldman Ben,Male,11-12-2021,Bannoye,RUS,Canada,World Cup,Parallel Giant Slalom,44,17.30
+150,Heldman Ben,Male,26-03-2021,Krasnoyarsk ,RUS,Canada,FIS Junior World Championships,Parallel Slalom,10,67.60
+151,Heldman Ben,Male,25-03-2021,Krasnoyarsk ,RUS,Canada,FIS Junior World Championships,Parallel Giant Slalom,5,117.00
+152,Heldman Ben,Male,25-03-2021,Krasnoyarsk ,RUS,Canada,Qualification,Parallel Giant Slalom,5,
+153,Heldman Ben,Male,20-03-2021,Berchtesgaden,GER,Canada,Qualification,Parallel Slalom,51,
+154,Heldman Ben,Male,20-03-2021,Berchtesgaden,GER,Canada,World Cup,Parallel Slalom,51,
+155,Heldman Ben,Male,13-03-2021,Davos Rinerhorn,SUI,Canada,European Cup,Parallel Giant Slalom,28,14.40
+156,Heldman Ben,Male,06-03-2021,Rogla,SLO,Canada,Qualification,Parallel Giant Slalom,56,
+157,Heldman Ben,Male,06-03-2021,Rogla,SLO,Canada,World Cup,Parallel Giant Slalom,56,
+158,Heldman Ben,Male,28-02-2021,Funes/Villnoesses,ITA,Canada,European Cup,Parallel Giant Slalom,9,75.40
+159,Heldman Ben,Male,27-02-2021,Funes/Villnoesses,ITA,Canada,European Cup,Parallel Giant Slalom,21,32.00
+160,Heldman Ben,Male,21-02-2021,Gerlitzen,AUT,Canada,National Championships,Parallel Slalom,20,31.90
+161,Heldman Ben,Male,20-02-2021,Gerlitzen,AUT,Canada,National Championships,Parallel Giant Slalom,23,23.20
+162,Heldman Ben,Male,07-02-2021,Lenzerheide,SUI,Canada,European Cup,Parallel Slalom,11,52.80
+163,Heldman Ben,Male,06-02-2021,Lenzerheide,SUI,Canada,European Cup,Parallel Slalom,12,48.40
+164,Heldman Ben,Male,24-01-2021,Davos,SUI,Canada,European Cup,Parallel Slalom,34,7.92
+165,Heldman Ben,Male,23-01-2021,Davos,SUI,Canada,European Cup,Parallel Slalom,DSQ,
+166,Heldman Ben,Male,20-12-2020,Lachtal,AUT,Canada,FIS Junior World Championships,Parallel Giant Slalom,26,18.00
+167,Heldman Ben,Male,19-12-2020,Lachtal,AUT,Canada,FIS Junior World Championships,Parallel Slalom,DSQ,
+168,Heldman Ben,Male,17-12-2020,Carezza,ITA,Canada,Qualification,Parallel Giant Slalom,37,
+169,Heldman Ben,Male,17-12-2020,Carezza,ITA,Canada,World Cup,Parallel Giant Slalom,37,19.40
+170,Heldman Ben,Male,08-03-2020,Mount St-Louis Moonstone,CAN,Canada,FIS,Parallel Slalom,3,60.00
+171,Heldman Ben,Male,07-03-2020,Mount St-Louis Moonstone,CAN,Canada,FIS,Parallel Giant Slalom,2,80.00
+172,Heldman Ben,Male,05-03-2020,Blue Mountain,CAN,Canada,National Junior Championships,Parallel Slalom,2,120.00
+173,Heldman Ben,Male,04-03-2020,Blue Mountain,CAN,Canada,National Junior Championships,Parallel Giant Slalom,5,67.50
+174,Heldman Ben,Male,03-03-2020,Blue Mountain,CAN,Canada,Nor-Am Cup,Parallel Slalom,19,38.40
+175,Heldman Ben,Male,02-03-2020,Blue Mountain,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,12,70.40
+176,Heldman Ben,Male,01-03-2020,Blue Mountain,CAN,Canada,World Cup,Parallel Giant Slalom,45,17.00
+177,Heldman Ben,Male,01-03-2020,Blue Mountain,CAN,Canada,Qualification,Parallel Giant Slalom,45,
+178,Heldman Ben,Male,29-02-2020,Blue Mountain,CAN,Canada,World Cup,Parallel Giant Slalom,55,
+179,Heldman Ben,Male,29-02-2020,Blue Mountain,CAN,Canada,Qualification,Parallel Giant Slalom,55,
+180,Heldman Ben,Male,09-02-2020,Alpine Ski Club,CAN,Canada,FIS,Parallel Slalom,2,128.00
+181,Heldman Ben,Male,08-02-2020,Alpine Ski Club,CAN,Canada,Nor-Am Cup,Parallel Slalom,21,20.00
+182,Heldman Ben,Male,07-02-2020,Alpine Ski Club,CAN,Canada,Nor-Am Cup,Parallel Slalom,5,90.00
+183,Heldman Ben,Male,04-02-2020,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Parallel Giant Slalom,10,52.00
+184,Heldman Ben,Male,03-02-2020,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Parallel Giant Slalom,9,58.00
+185,Heldman Ben,Male,25-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,Canada,FIS,Parallel Giant Slalom,1,160.00
+186,Heldman Ben,Male,24-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,Canada,Nor-Am Cup,Parallel Slalom,5,90.00
+187,Heldman Ben,Male,23-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,Canada,Nor-Am Cup,Parallel Giant Slalom,DNS,
+188,Heldman Ben,Male,10-01-2020,Tremblant.QC,CAN,Canada,FIS,Parallel Giant Slalom,4,80.00
+189,Heldman Ben,Male,22-12-2019,"Buck Hill, MN",USA,Canada,Nor-Am Cup,Parallel Slalom,10,52.00
+190,Heldman Ben,Male,21-12-2019,"Buck Hill, MN",USA,Canada,Nor-Am Cup,Parallel Slalom,8,64.00
+191,Heldman Ben,Male,20-12-2019,"Buck Hill, MN",USA,Canada,FIS,Parallel Slalom,10,41.60
+192,Heldman Ben,Male,20-12-2019,"Buck Hill, MN",USA,Canada,Junior,Parallel Slalom,6,48.00
+193,Heldman Ben,Male,03-04-2019,Rogla,SLO,Canada,FIS Junior World Championships,Parallel Slalom,21,36.00
+194,Heldman Ben,Male,02-04-2019,Rogla,SLO,Canada,FIS Junior World Championships,Parallel Giant Slalom,46,6.01
+195,Heldman Ben,Male,31-03-2019,Radstadt,AUT,Canada,National Championships,Parallel Giant Slalom,26,14.50
+196,Heldman Ben,Male,30-03-2019,Radstadt,AUT,Canada,National Championships,Parallel Slalom,23,23.20
+197,Heldman Ben,Male,27-03-2019,Piancavallo,ITA,Canada,National Championships,Parallel Giant Slalom,33,6.96
+198,Heldman Ben,Male,26-03-2019,Piancavallo,ITA,Canada,National Championships,Parallel Slalom,33,6.96
+199,Heldman Ben,Male,09-03-2019,Toronto Ski Club,CAN,Canada,FIS,Parallel Giant Slalom,4,55.00
+200,Heldman Ben,Male,07-03-2019,Blue Mountain,CAN,Canada,FIS,Parallel Slalom,3,60.00
+201,Heldman Ben,Male,06-03-2019,Blue Mountain,CAN,Canada,National Junior Championships,Parallel Giant Slalom,4,65.00
+202,Heldman Ben,Male,05-03-2019,Blue Mountain,CAN,Canada,Nor-Am Cup,Parallel Slalom,10,62.40
+203,Heldman Ben,Male,04-03-2019,Blue Mountain,CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,13,48.00
+204,Heldman Ben,Male,01-03-2019,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Parallel GS,9,52.20
+205,Heldman Ben,Male,28-02-2019,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Parallel Giant Slalom,25,10.80
+206,Heldman Ben,Male,10-02-2019,Alpine Ski Club,CAN,Canada,Nor-Am Cup,Parallel Slalom,6,72.00
+207,Heldman Ben,Male,09-02-2019,Alpine Ski Club,CAN,Canada,Nor-Am Cup,Parallel Slalom,19,21.60
+208,Heldman Ben,Male,27-01-2019,Mont Blanc,CAN,Canada,FIS,Parallel Slalom,4,100.00
+209,Heldman Ben,Male,26-01-2019,Mont Blanc,CAN,Canada,FIS,Parallel Giant Slalom,8,64.00
+210,Heldman Ben,Male,05-01-2019,"Le Relais, QC",CAN,Canada,Junior,Parallel GS,2,80.00
+211,Heldman Ben,Male,04-01-2019,"Le Relais, QC",CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,13,52.00
+212,Heldman Ben,Male,03-01-2019,"Le Relais, QC",CAN,Canada,Nor-Am Cup,Parallel Giant Slalom,14,46.80
+213,Heldman Ben,Male,16-12-2018,"Buck Hill, MN",USA,Canada,Nor-Am Cup,Parallel Slalom,10,41.60
+214,Heldman Ben,Male,15-12-2018,"Buck Hill, MN",USA,Canada,Nor-Am Cup,Parallel Slalom,10,41.60
+215,Heldman Ben,Male,15-12-2018,"Buck Hill, MN",USA,Canada,Junior,Parallel Slalom,9,29.00
+216,Heldman Ben,Male,14-12-2018,"Buck Hill, MN",USA,Canada,Nor-Am Cup,Parallel Slalom,6,64.00
+217,Heldman Ben,Male,09-12-2018,Steamboat Ski and Resort / Howelsen Hill,USA,Canada,Nor-Am Cup,Parallel Slalom,14,28.80
+218,Heldman Ben,Male,08-12-2018,Steamboat Ski and Resort / Howelsen Hill,USA,Canada,Nor-Am Cup,Parallel Giant Slalom,9,46.40
+219,Heldman Ben,Male,06-09-2018,Cardrona,NZL,Canada,FIS Junior World Championships,Parallel Slalom,27,14.40
+220,Heldman Ben,Male,05-09-2018,Cardrona,NZL,Canada,FIS Junior World Championships,Parallel GS,29,11.52
+221,Heldman Ben,Male,03-04-2018,Copper Mountain Resort,USA,Canada,Nor-Am Cup,Parallel Slalom,29,11.52
+222,Heldman Ben,Male,02-04-2018,Copper Mountain Resort,USA,Canada,Nor-Am Cup,Parallel GS,DSQ,
+223,Heldman Ben,Male,04-03-2018,Mount St-Louis Moonstone,CAN,Canada,FIS,Parallel Slalom,4,60.00
+224,Heldman Ben,Male,03-03-2018,Mount St-Louis Moonstone,CAN,Canada,FIS,Parallel GS,3,54.00
+225,Heldman Ben,Male,22-02-2018,Toronto Ski Club,CAN,Canada,FIS,Parallel Slalom,3,78.00
+226,Heldman Ben,Male,21-02-2018,Toronto Ski Club,CAN,Canada,Nor-Am Cup,Parallel Slalom,DSQ,
+227,Heldman Ben,Male,20-02-2018,Toronto Ski Club,CAN,Canada,Nor-Am Cup,Parallel Slalom,10,46.80
+228,Heldman Ben,Male,08-02-2018,Blue Mountain,CAN,Canada,National Junior Championships,Parallel Slalom,9,29.00
+229,Heldman Ben,Male,07-02-2018,Blue Mountain,CAN,Canada,National Junior Championships,Parallel GS,7,36.00
+230,Heldman Ben,Male,06-02-2018,Blue Mountain,CAN,Canada,Nor-Am Cup,Parallel Slalom,17,30.80
+231,Heldman Ben,Male,05-02-2018,Blue Mountain,CAN,Canada,Nor-Am Cup,Parallel GS,13,52.00
+232,Heldman Ben,Male,02-02-2018,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Parallel GS,DSQ,
+233,Heldman Ben,Male,01-02-2018,"Holiday Valley Resort, NY",USA,Canada,Nor-Am Cup,Parallel GS,14,28.80
+234,Heldman Ben,Male,05-01-2018,Le Relais,CAN,Canada,Junior,Parallel GS,6,36.00
+235,Heldman Ben,Male,04-01-2018,Le Relais,CAN,Canada,Nor-Am Cup,Parallel GS,16,24.00
+236,Heldman Ben,Male,03-01-2018,Le Relais,CAN,Canada,Nor-Am Cup,Parallel GS,18,20.80
+237,Heldman Ben,Male,17-12-2017,"Buck Hill, MN",USA,Canada,Nor-Am Cup,Parallel Slalom,16,24.00
+238,Heldman Ben,Male,16-12-2017,"Buck Hill, MN",USA,Canada,Nor-Am Cup,Parallel Slalom,28,6.40
+239,Heldman Ben,Male,16-12-2017,"Buck Hill, MN",USA,Canada,Junior,Parallel Slalom,14,16.20
+240,Heldman Ben,Male,15-12-2017,"Buck Hill, MN",USA,Canada,Nor-Am Cup,Parallel Slalom,26,8.00

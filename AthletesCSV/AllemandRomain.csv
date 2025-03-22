@@ -1,68 +1,70 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Allemand Romain,Male,02-02-2025,Aspen,USA,France,World Cup,Slopestyle,17,191.10
-1,Allemand Romain,Male,31-01-2025,Aspen,USA,France,Qualification,Slopestyle,9,
-2,Allemand Romain,Male,19-10-2024,Chur,SUI,France,World Cup,Big Air,3,693.80
-3,Allemand Romain,Male,02-09-2024,Cardrona,NZL,France,World Cup,Slopestyle,21,160.80
-4,Allemand Romain,Male,31-08-2024,Cardrona,NZL,France,Qualification,Slopestyle,13,
-5,Allemand Romain,Male,14-04-2024,Corvatsch,SUI,France,European Cup Premium,Big Air,19,101.80
-6,Allemand Romain,Male,12-04-2024,Corvatsch,SUI,France,European Cup Premium,Slopestyle,8,181.70
-7,Allemand Romain,Male,07-04-2024,Vars,FRA,France,National Championships,Big Air,1,90.00
-8,Allemand Romain,Male,05-04-2024,Vars,FRA,France,National Championships,Slopestyle,1,180.00
-9,Allemand Romain,Male,30-03-2024,Livigno/Mottolino,ITA,France,FIS Junior World Championships,Big Air,5,122.20
-10,Allemand Romain,Male,28-03-2024,Livigno/Mottolino,ITA,France,Qualification,Big Air,3,
-11,Allemand Romain,Male,26-03-2024,Livigno/Mottolino,ITA,France,FIS Junior World Championships,Slopestyle,2,215.80
-12,Allemand Romain,Male,26-03-2024,Livigno/Mottolino,ITA,France,Qualification,Slopestyle,1,
-13,Allemand Romain,Male,23-03-2024,Silvaplana,SUI,France,World Cup,Slopestyle,47,51.90
-14,Allemand Romain,Male,21-03-2024,Silvaplana,SUI,France,Qualification,Slopestyle,21,
-15,Allemand Romain,Male,15-03-2024,Tignes,FRA,France,World Cup,Slopestyle,2,829.40
-16,Allemand Romain,Male,15-03-2024,Tignes,FRA,France,Qualification,Slopestyle,3,
-17,Allemand Romain,Male,25-02-2024,Font Romeu,FRA,France,Junior,Slopestyle,2,65.20
-18,Allemand Romain,Male,22-02-2024,Prato Nevoso,ITA,France,European Cup,Slopestyle,1,320.00
-19,Allemand Romain,Male,28-01-2024,Gangwon/Welli Hilli,KOR,France,Youth Olympic Winter Games,Big Air,7,47.20
-20,Allemand Romain,Male,27-01-2024,Gangwon/Welli Hilli,KOR,France,Qualification,Big Air,3,
-21,Allemand Romain,Male,25-01-2024,Gangwon/Welli Hilli,KOR,France,Youth Olympic Winter Games,Slopestyle,3,136.40
-22,Allemand Romain,Male,05-01-2024,Font Romeu,FRA,France,European Cup,Big Air,1,260.00
-23,Allemand Romain,Male,04-01-2024,Font Romeu,FRA,France,European Cup Premium,Slopestyle,2,240.80
-24,Allemand Romain,Male,21-10-2023,Chur,SUI,France,World Cup,Big Air,36,88.30
-25,Allemand Romain,Male,21-10-2023,Chur,SUI,France,Qualification,Big Air,16,
-26,Allemand Romain,Male,04-09-2023,Cardrona,NZL,France,FIS Junior World Championships,Big Air,12,89.30
-27,Allemand Romain,Male,02-09-2023,Cardrona,NZL,France,Qualification,Big Air,6,
-28,Allemand Romain,Male,30-08-2023,Cardrona,NZL,France,FIS Junior World Championships,Slopestyle,13,85.80
-29,Allemand Romain,Male,28-08-2023,Cardrona,NZL,France,Qualification,Slopestyle,5,
-30,Allemand Romain,Male,22-04-2023,Kitzsteinhorn,AUT,France,European Cup,Big Air,13,66.30
-31,Allemand Romain,Male,21-04-2023,Kitzsteinhorn,AUT,France,European Cup,Slopestyle,1,240.00
-32,Allemand Romain,Male,17-04-2023,Corvatsch,SUI,France,European Cup Premium,Big Air,3,278.70
-33,Allemand Romain,Male,14-04-2023,Corvatsch,SUI,France,European Cup Premium,Slopestyle,4,267.40
-34,Allemand Romain,Male,03-04-2023,Isola 2000,FRA,France,National Championships,Slopestyle,11,17.70
-35,Allemand Romain,Male,01-04-2023,Isola 2000,FRA,France,National Championships,Big Air,1,120.00
-36,Allemand Romain,Male,17-03-2023,Laax,SUI,France,European Cup Premium,Slopestyle,10,122.90
-37,Allemand Romain,Male,04-03-2023,Bakuriani,GEO,France,World Championships,Big Air,31,57.60
-38,Allemand Romain,Male,02-03-2023,Bakuriani,GEO,France,Qualification,Big Air,17,
-39,Allemand Romain,Male,27-02-2023,Bakuriani,GEO,France,World Championships,Slopestyle,37,56.20
-40,Allemand Romain,Male,24-02-2023,Bakuriani,GEO,France,Qualification,Slopestyle,19,
-41,Allemand Romain,Male,08-02-2023,Font Romeu,FRA,France,Junior,Slopestyle,1,70.00
-42,Allemand Romain,Male,04-02-2023,Font Romeu,FRA,France,European Cup,Big Air,1,160.00
-43,Allemand Romain,Male,02-02-2023,Font Romeu,FRA,France,European Cup,Slopestyle,7,58.50
-44,Allemand Romain,Male,27-01-2023,Ravascletto - Zoncolan,ITA,France,European Youth Olympic Festival,Slopestyle,7,21.10
-45,Allemand Romain,Male,24-01-2023,Ravascletto - Zoncolan,ITA,France,European Youth Olympic Festival,Big Air,1,50.00
-46,Allemand Romain,Male,14-01-2023,Kreischberg,AUT,France,World Cup,Big Air,20,120.90
-47,Allemand Romain,Male,13-01-2023,Kreischberg,AUT,France,Qualification,Big Air,13,
-48,Allemand Romain,Male,13-04-2022,Les Deux Alpes,FRA,France,National Championships,Slopestyle,2,65.80
-49,Allemand Romain,Male,12-04-2022,Les Deux Alpes,FRA,France,National Championships,Big Air,5,31.40
-50,Allemand Romain,Male,13-03-2022,Leysin,SUI,France,FIS Junior World Championships,Slopestyle,29,37.70
-51,Allemand Romain,Male,06-02-2022,Guzet,FRA,France,Junior,Slopestyle,1,50.00
-52,Allemand Romain,Male,04-02-2022,Font Romeu,FRA,France,FIS,Slopestyle,2,90.90
-53,Allemand Romain,Male,03-02-2022,Font Romeu,FRA,France,European Cup,Slopestyle,10,34.20
-54,Allemand Romain,Male,23-01-2022,Prato Nevoso,ITA,France,European Cup,Slopestyle,4,152.80
-55,Allemand Romain,Male,18-01-2022,Livigno,ITA,France,Junior,Slopestyle,1,70.00
-56,Allemand Romain,Male,06-03-2021,Götschen,GER,France,FIS,Big Air,14,12.67
-57,Allemand Romain,Male,05-03-2021,Götschen,GER,France,European Cup,Big Air,8,43.29
-58,Allemand Romain,Male,04-03-2021,Flachauwinkel,AUT,France,European Cup,Big Air,7,62.41
-59,Allemand Romain,Male,12-02-2021,La Quillane,FRA,France,FIS,Big Air,9,11.84
-60,Allemand Romain,Male,11-02-2021,La Quillane,FRA,France,FIS,Big Air,5,23.23
-61,Allemand Romain,Male,01-11-2020,Madrid Snowzone,ESP,France,FIS,Slopestyle,3,33.10
-62,Allemand Romain,Male,01-11-2020,Madrid Snowzone,ESP,France,FIS,Slopestyle,6,17.89
-63,Allemand Romain,Male,02-02-2020,La Quillane,FRA,France,FIS,Big Air,17,15.40
-64,Allemand Romain,Male,01-02-2020,La Quillane,FRA,France,FIS,Big Air,15,17.60
-65,Allemand Romain,Male,19-01-2020,Vars,FRA,France,European Cup,Slopestyle,53,2.34
-66,Allemand Romain,Male,18-01-2020,Vars,FRA,France,European Cup,Big Air,46,2.67
+0,Allemand Romain,Male,21-03-2025,Engadin,SUI,France,World Championships,Slopestyle,4,
+1,Allemand Romain,Male,20-03-2025,Engadin,SUI,France,Qualification,Slopestyle,6,
+2,Allemand Romain,Male,02-02-2025,Aspen,USA,France,World Cup,Slopestyle,17,191.10
+3,Allemand Romain,Male,31-01-2025,Aspen,USA,France,Qualification,Slopestyle,9,
+4,Allemand Romain,Male,19-10-2024,Chur,SUI,France,World Cup,Big Air,3,693.80
+5,Allemand Romain,Male,02-09-2024,Cardrona,NZL,France,World Cup,Slopestyle,21,160.80
+6,Allemand Romain,Male,31-08-2024,Cardrona,NZL,France,Qualification,Slopestyle,13,
+7,Allemand Romain,Male,14-04-2024,Corvatsch,SUI,France,European Cup Premium,Big Air,19,101.80
+8,Allemand Romain,Male,12-04-2024,Corvatsch,SUI,France,European Cup Premium,Slopestyle,8,181.70
+9,Allemand Romain,Male,07-04-2024,Vars,FRA,France,National Championships,Big Air,1,90.00
+10,Allemand Romain,Male,05-04-2024,Vars,FRA,France,National Championships,Slopestyle,1,180.00
+11,Allemand Romain,Male,30-03-2024,Livigno/Mottolino,ITA,France,FIS Junior World Championships,Big Air,5,122.20
+12,Allemand Romain,Male,28-03-2024,Livigno/Mottolino,ITA,France,Qualification,Big Air,3,
+13,Allemand Romain,Male,26-03-2024,Livigno/Mottolino,ITA,France,Qualification,Slopestyle,1,
+14,Allemand Romain,Male,26-03-2024,Livigno/Mottolino,ITA,France,FIS Junior World Championships,Slopestyle,2,215.80
+15,Allemand Romain,Male,23-03-2024,Silvaplana,SUI,France,World Cup,Slopestyle,47,51.90
+16,Allemand Romain,Male,21-03-2024,Silvaplana,SUI,France,Qualification,Slopestyle,21,
+17,Allemand Romain,Male,15-03-2024,Tignes,FRA,France,World Cup,Slopestyle,2,829.40
+18,Allemand Romain,Male,15-03-2024,Tignes,FRA,France,Qualification,Slopestyle,3,
+19,Allemand Romain,Male,25-02-2024,Font Romeu,FRA,France,Junior,Slopestyle,2,65.20
+20,Allemand Romain,Male,22-02-2024,Prato Nevoso,ITA,France,European Cup,Slopestyle,1,320.00
+21,Allemand Romain,Male,28-01-2024,Gangwon/Welli Hilli,KOR,France,Youth Olympic Winter Games,Big Air,7,47.20
+22,Allemand Romain,Male,27-01-2024,Gangwon/Welli Hilli,KOR,France,Qualification,Big Air,3,
+23,Allemand Romain,Male,25-01-2024,Gangwon/Welli Hilli,KOR,France,Youth Olympic Winter Games,Slopestyle,3,136.40
+24,Allemand Romain,Male,05-01-2024,Font Romeu,FRA,France,European Cup,Big Air,1,260.00
+25,Allemand Romain,Male,04-01-2024,Font Romeu,FRA,France,European Cup Premium,Slopestyle,2,240.80
+26,Allemand Romain,Male,21-10-2023,Chur,SUI,France,Qualification,Big Air,16,
+27,Allemand Romain,Male,21-10-2023,Chur,SUI,France,World Cup,Big Air,36,88.30
+28,Allemand Romain,Male,04-09-2023,Cardrona,NZL,France,FIS Junior World Championships,Big Air,12,89.30
+29,Allemand Romain,Male,02-09-2023,Cardrona,NZL,France,Qualification,Big Air,6,
+30,Allemand Romain,Male,30-08-2023,Cardrona,NZL,France,FIS Junior World Championships,Slopestyle,13,85.80
+31,Allemand Romain,Male,28-08-2023,Cardrona,NZL,France,Qualification,Slopestyle,5,
+32,Allemand Romain,Male,22-04-2023,Kitzsteinhorn,AUT,France,European Cup,Big Air,13,66.30
+33,Allemand Romain,Male,21-04-2023,Kitzsteinhorn,AUT,France,European Cup,Slopestyle,1,240.00
+34,Allemand Romain,Male,17-04-2023,Corvatsch,SUI,France,European Cup Premium,Big Air,3,278.70
+35,Allemand Romain,Male,14-04-2023,Corvatsch,SUI,France,European Cup Premium,Slopestyle,4,267.40
+36,Allemand Romain,Male,03-04-2023,Isola 2000,FRA,France,National Championships,Slopestyle,11,17.70
+37,Allemand Romain,Male,01-04-2023,Isola 2000,FRA,France,National Championships,Big Air,1,120.00
+38,Allemand Romain,Male,17-03-2023,Laax,SUI,France,European Cup Premium,Slopestyle,10,122.90
+39,Allemand Romain,Male,04-03-2023,Bakuriani,GEO,France,World Championships,Big Air,31,57.60
+40,Allemand Romain,Male,02-03-2023,Bakuriani,GEO,France,Qualification,Big Air,17,
+41,Allemand Romain,Male,27-02-2023,Bakuriani,GEO,France,World Championships,Slopestyle,37,56.20
+42,Allemand Romain,Male,24-02-2023,Bakuriani,GEO,France,Qualification,Slopestyle,19,
+43,Allemand Romain,Male,08-02-2023,Font Romeu,FRA,France,Junior,Slopestyle,1,70.00
+44,Allemand Romain,Male,04-02-2023,Font Romeu,FRA,France,European Cup,Big Air,1,160.00
+45,Allemand Romain,Male,02-02-2023,Font Romeu,FRA,France,European Cup,Slopestyle,7,58.50
+46,Allemand Romain,Male,27-01-2023,Ravascletto - Zoncolan,ITA,France,European Youth Olympic Festival,Slopestyle,7,21.10
+47,Allemand Romain,Male,24-01-2023,Ravascletto - Zoncolan,ITA,France,European Youth Olympic Festival,Big Air,1,50.00
+48,Allemand Romain,Male,14-01-2023,Kreischberg,AUT,France,World Cup,Big Air,20,120.90
+49,Allemand Romain,Male,13-01-2023,Kreischberg,AUT,France,Qualification,Big Air,13,
+50,Allemand Romain,Male,13-04-2022,Les Deux Alpes,FRA,France,National Championships,Slopestyle,2,65.80
+51,Allemand Romain,Male,12-04-2022,Les Deux Alpes,FRA,France,National Championships,Big Air,5,31.40
+52,Allemand Romain,Male,13-03-2022,Leysin,SUI,France,FIS Junior World Championships,Slopestyle,29,37.70
+53,Allemand Romain,Male,06-02-2022,Guzet,FRA,France,Junior,Slopestyle,1,50.00
+54,Allemand Romain,Male,04-02-2022,Font Romeu,FRA,France,FIS,Slopestyle,2,90.90
+55,Allemand Romain,Male,03-02-2022,Font Romeu,FRA,France,European Cup,Slopestyle,10,34.20
+56,Allemand Romain,Male,23-01-2022,Prato Nevoso,ITA,France,European Cup,Slopestyle,4,152.80
+57,Allemand Romain,Male,18-01-2022,Livigno,ITA,France,Junior,Slopestyle,1,70.00
+58,Allemand Romain,Male,06-03-2021,Götschen,GER,France,FIS,Big Air,14,12.67
+59,Allemand Romain,Male,05-03-2021,Götschen,GER,France,European Cup,Big Air,8,43.29
+60,Allemand Romain,Male,04-03-2021,Flachauwinkel,AUT,France,European Cup,Big Air,7,62.41
+61,Allemand Romain,Male,12-02-2021,La Quillane,FRA,France,FIS,Big Air,9,11.84
+62,Allemand Romain,Male,11-02-2021,La Quillane,FRA,France,FIS,Big Air,5,23.23
+63,Allemand Romain,Male,01-11-2020,Madrid Snowzone,ESP,France,FIS,Slopestyle,3,33.10
+64,Allemand Romain,Male,01-11-2020,Madrid Snowzone,ESP,France,FIS,Slopestyle,6,17.89
+65,Allemand Romain,Male,02-02-2020,La Quillane,FRA,France,FIS,Big Air,17,15.40
+66,Allemand Romain,Male,01-02-2020,La Quillane,FRA,France,FIS,Big Air,15,17.60
+67,Allemand Romain,Male,19-01-2020,Vars,FRA,France,European Cup,Slopestyle,53,2.34
+68,Allemand Romain,Male,18-01-2020,Vars,FRA,France,European Cup,Big Air,46,2.67

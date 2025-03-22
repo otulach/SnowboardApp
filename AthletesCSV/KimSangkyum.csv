@@ -1,389 +1,391 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Kim Sangkyum,Male,15-03-2025,Winterberg,GER,Korea,Qualification,Parallel Slalom,30,
-1,Kim Sangkyum,Male,15-03-2025,Winterberg,GER,Korea,World Cup,Parallel Slalom,30,32.00
-2,Kim Sangkyum,Male,02-03-2025,Krynica,POL,Korea,Qualification,Parallel Giant Slalom,5,
-3,Kim Sangkyum,Male,02-03-2025,Krynica,POL,Korea,World Cup,Parallel Giant Slalom,3,600.00
-4,Kim Sangkyum,Male,01-03-2025,Krynica,POL,Korea,Qualification,Parallel Giant Slalom,14,
-5,Kim Sangkyum,Male,01-03-2025,Krynica,POL,Korea,World Cup,Parallel Giant Slalom,14,180.00
-6,Kim Sangkyum,Male,16-02-2025,Val St. Come,CAN,Korea,Qualification,Parallel Giant Slalom,26,
-7,Kim Sangkyum,Male,16-02-2025,Val St. Come,CAN,Korea,World Cup,Parallel Giant Slalom,26,50.00
-8,Kim Sangkyum,Male,15-02-2025,Val St. Come,CAN,Korea,Qualification,Parallel Giant Slalom,29,
-9,Kim Sangkyum,Male,15-02-2025,Val St. Come,CAN,Korea,World Cup,Parallel Giant Slalom,29,36.00
-10,Kim Sangkyum,Male,25-01-2025,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,13,
-11,Kim Sangkyum,Male,25-01-2025,Rogla,SLO,Korea,World Cup,Parallel Giant Slalom,14,180.00
-12,Kim Sangkyum,Male,19-01-2025,Bansko,BUL,Korea,Qualification,Parallel Giant Slalom,29,
-13,Kim Sangkyum,Male,19-01-2025,Bansko,BUL,Korea,World Cup,Parallel Giant Slalom,29,36.00
-14,Kim Sangkyum,Male,18-01-2025,Bansko,BUL,Korea,Qualification,Parallel Giant Slalom,27,
-15,Kim Sangkyum,Male,18-01-2025,Bansko,BUL,Korea,World Cup,Parallel Giant Slalom,27,45.00
-16,Kim Sangkyum,Male,15-01-2025,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom Team,12,
-17,Kim Sangkyum,Male,14-01-2025,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,11,
-18,Kim Sangkyum,Male,14-01-2025,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,12,220.00
-19,Kim Sangkyum,Male,11-01-2025,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,16,
-20,Kim Sangkyum,Male,11-01-2025,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,16,150.00
-21,Kim Sangkyum,Male,21-12-2024,Davos,SUI,Korea,Qualification,Parallel Slalom,DNF,
-22,Kim Sangkyum,Male,21-12-2024,Davos,SUI,Korea,World Cup,Parallel Slalom,DNF,
-23,Kim Sangkyum,Male,14-12-2024,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,3,
-24,Kim Sangkyum,Male,14-12-2024,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,5,450.00
-25,Kim Sangkyum,Male,12-12-2024,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,3,
-26,Kim Sangkyum,Male,12-12-2024,Carezza,ITA,Korea,World Cup,Parallel Giant Slalom,6,400.00
-27,Kim Sangkyum,Male,08-12-2024,Yanqing (NASC),CHN,Korea,World Cup,Parallel Slalom,18,130.00
-28,Kim Sangkyum,Male,08-12-2024,Yanqing (NASC),CHN,Korea,Qualification,Parallel Slalom,18,
-29,Kim Sangkyum,Male,07-12-2024,Yanqing (NASC),CHN,Korea,World Cup,Parallel Giant Slalom,9,290.00
-30,Kim Sangkyum,Male,07-12-2024,Yanqing (NASC),CHN,Korea,Qualification,Parallel Giant Slalom,6,
-31,Kim Sangkyum,Male,01-12-2024,Mylin,CHN,Korea,World Cup,Parallel Slalom,19,120.00
-32,Kim Sangkyum,Male,01-12-2024,Mylin,CHN,Korea,Qualification,Parallel Slalom,19,
-33,Kim Sangkyum,Male,30-11-2024,Mylin,CHN,Korea,World Cup,Parallel Giant Slalom,2,800.00
-34,Kim Sangkyum,Male,30-11-2024,Mylin,CHN,Korea,Qualification,Parallel Giant Slalom,6,
-35,Kim Sangkyum,Male,17-03-2024,St. Moritz,SUI,Korea,European Cup,Parallel Slalom,DSQ,
-36,Kim Sangkyum,Male,16-03-2024,St. Moritz,SUI,Korea,European Cup,Parallel Giant Slalom,39,6.77
-37,Kim Sangkyum,Male,13-03-2024,Davos/Rinerhorn ,SUI,Korea,European Cup,Parallel Giant Slalom,DSQ,
-38,Kim Sangkyum,Male,12-03-2024,Davos/Rinerhorn ,SUI,Korea,European Cup,Parallel Giant Slalom,12,79.20
-39,Kim Sangkyum,Male,09-03-2024,Winterberg,GER,Korea,Qualification,Parallel Slalom,27,
-40,Kim Sangkyum,Male,09-03-2024,Winterberg,GER,Korea,World Cup,Parallel Slalom,27,45.00
-41,Kim Sangkyum,Male,04-03-2024,High1resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,31,6.72
-42,Kim Sangkyum,Male,25-02-2024,Krynica,POL,Korea,Qualification,Parallel Giant Slalom,14,
-43,Kim Sangkyum,Male,25-02-2024,Krynica,POL,Korea,World Cup,Parallel Giant Slalom,14,180.00
-44,Kim Sangkyum,Male,24-02-2024,Krynica,POL,Korea,Qualification,Parallel Giant Slalom,8,
-45,Kim Sangkyum,Male,24-02-2024,Krynica,POL,Korea,World Cup,Parallel Giant Slalom,14,180.00
-46,Kim Sangkyum,Male,02-02-2024,High1resort,KOR,Korea,FIS,Parallel Slalom,6,88.00
-47,Kim Sangkyum,Male,01-02-2024,High1resort,KOR,Korea,FIS,Parallel Giant Slalom,5,99.00
-48,Kim Sangkyum,Male,27-01-2024,Simonhöhe,AUT,Korea,Qualification,Parallel Giant Slalom,22,
-49,Kim Sangkyum,Male,27-01-2024,Simonhöhe,AUT,Korea,World Cup,Parallel Giant Slalom,22,90.00
-50,Kim Sangkyum,Male,25-01-2024,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,19,
-51,Kim Sangkyum,Male,25-01-2024,Rogla,SLO,Korea,World Cup,Parallel Giant Slalom,19,120.00
-52,Kim Sangkyum,Male,21-01-2024,Pamporovo,BUL,Korea,Qualification,Parallel Slalom,24,
-53,Kim Sangkyum,Male,21-01-2024,Pamporovo,BUL,Korea,World Cup,Parallel Slalom,24,70.00
-54,Kim Sangkyum,Male,20-01-2024,Pamporovo,BUL,Korea,Qualification,Parallel Slalom,27,
-55,Kim Sangkyum,Male,20-01-2024,Pamporovo,BUL,Korea,World Cup,Parallel Slalom,27,45.00
-56,Kim Sangkyum,Male,16-01-2024,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,DSQ,
-57,Kim Sangkyum,Male,16-01-2024,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,DSQ,
-58,Kim Sangkyum,Male,13-01-2024,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,24,
-59,Kim Sangkyum,Male,13-01-2024,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,24,70.00
-60,Kim Sangkyum,Male,23-12-2023,Davos,SUI,Korea,Qualification,Parallel Slalom,24,
-61,Kim Sangkyum,Male,23-12-2023,Davos ,SUI,Korea,World Cup,Parallel Slalom,24,70.00
-62,Kim Sangkyum,Male,16-12-2023,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,12,
-63,Kim Sangkyum,Male,16-12-2023,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,7,360.00
-64,Kim Sangkyum,Male,14-12-2023,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,15,
-65,Kim Sangkyum,Male,14-12-2023,Carezza,ITA,Korea,World Cup,Parallel Giant Slalom,16,150.00
-66,Kim Sangkyum,Male,19-03-2023,Ratschings,ITA,Korea,European Cup,Parallel Slalom,2,192.00
-67,Kim Sangkyum,Male,18-03-2023,Berchtesgaden,GER,Korea,Qualification,Parallel Slalom,21,
-68,Kim Sangkyum,Male,18-03-2023,Berchtesgaden,GER,Korea,World Cup,Parallel Slalom,21,100.00
-69,Kim Sangkyum,Male,15-03-2023,Rogla,SLO,Korea,World Cup,Parallel Giant Slalom,17,140.00
-70,Kim Sangkyum,Male,15-03-2023,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,17,
-71,Kim Sangkyum,Male,03-03-2023,high1 resort,KOR,Korea,Asian Cup,Parallel Slalom,1,360.00
-72,Kim Sangkyum,Male,02-03-2023,high1 resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,1,360.00
-73,Kim Sangkyum,Male,22-02-2023,Bakuriani,GEO,Korea,World Championships,Parallel Slalom Team,20,
-74,Kim Sangkyum,Male,21-02-2023,Bakuriani,GEO,Korea,Qualification,Parallel Slalom,9,
-75,Kim Sangkyum,Male,21-02-2023,Bakuriani,GEO,Korea,World Championships,Parallel Slalom,9,290.00
-76,Kim Sangkyum,Male,19-02-2023,Bakuriani,GEO,Korea,Qualification,Parallel Giant Slalom,7,
-77,Kim Sangkyum,Male,19-02-2023,Bakuriani,GEO,Korea,World Championships,Parallel Giant Slalom,7,360.00
-78,Kim Sangkyum,Male,07-02-2023,high1 resort,KOR,Korea,FIS,Parallel Slalom,1,220.00
-79,Kim Sangkyum,Male,06-02-2023,high1 resort,KOR,Korea,FIS,Parallel Giant Slalom,1,220.00
-80,Kim Sangkyum,Male,27-01-2023,Blue Mountain,CAN,Korea,Qualification,Parallel Giant Slalom,13,
-81,Kim Sangkyum,Male,27-01-2023,Blue Mountain,CAN,Korea,World Cup,Parallel Giant Slalom,8,320.00
-82,Kim Sangkyum,Male,26-01-2023,Blue Mountain,CAN,Korea,Qualification,Parallel Giant Slalom,24,
-83,Kim Sangkyum,Male,26-01-2023,Blue Mountain,CAN,Korea,World Cup,Parallel Giant Slalom,24,70.00
-84,Kim Sangkyum,Male,22-01-2023,Bansko,BUL,Korea,Qualification,Parallel Slalom,24,
-85,Kim Sangkyum,Male,22-01-2023,Bansko,BUL,Korea,World Cup,Parallel Slalom,24,70.00
-86,Kim Sangkyum,Male,21-01-2023,Bansko,BUL,Korea,Qualification,Parallel Slalom,27,
-87,Kim Sangkyum,Male,21-01-2023,Bansko,BUL,Korea,World Cup,Parallel Slalom,27,45.00
-88,Kim Sangkyum,Male,14-01-2023,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,14,
-89,Kim Sangkyum,Male,14-01-2023,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,14,180.00
-90,Kim Sangkyum,Male,10-01-2023,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,22,
-91,Kim Sangkyum,Male,10-01-2023,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,22,90.00
-92,Kim Sangkyum,Male,17-12-2022,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,5,
-93,Kim Sangkyum,Male,17-12-2022,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,6,400.00
-94,Kim Sangkyum,Male,15-12-2022,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,5,
-95,Kim Sangkyum,Male,15-12-2022,Carezza,ITA,Korea,World Cup,Parallel Giant Slalom,11,240.00
-96,Kim Sangkyum,Male,11-12-2022,Winterberg,GER,Korea,World Cup,Parallel Slalom,24,70.00
-97,Kim Sangkyum,Male,10-12-2022,Winterberg,GER,Korea,Qualification,Parallel Slalom,24,
-98,Kim Sangkyum,Male,19-03-2022,Berchtesgaden,GER,Korea,Qualification,Parallel Slalom,16,
-99,Kim Sangkyum,Male,19-03-2022,Berchtesgaden,GER,Korea,World Cup,Parallel Slalom,16,150.00
-100,Kim Sangkyum,Male,17-03-2022,Rogla,SLO,Korea,European Cup,Parallel Giant Slalom,11,76.80
-101,Kim Sangkyum,Male,16-03-2022,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,15,
-102,Kim Sangkyum,Male,16-03-2022,Rogla,SLO,Korea,World Cup,Parallel Giant Slalom,15,160.00
-103,Kim Sangkyum,Male,12-03-2022,Piancavallo,ITA,Korea,Qualification,Parallel Slalom,32,
-104,Kim Sangkyum,Male,12-03-2022,Piancavallo,ITA,Korea,World Cup,Parallel Slalom,32,26.00
-105,Kim Sangkyum,Male,03-03-2022,Wellihilli Park,KOR,Korea,National Championships,Parallel Slalom,3,174.00
-106,Kim Sangkyum,Male,02-03-2022,Wellihilli Park,KOR,Korea,National Championships,Parallel Giant Slalom,2,232.00
-107,Kim Sangkyum,Male,22-02-2022,Wellihilli Park,KOR,Korea,FIS,Parallel Slalom,1,220.00
-108,Kim Sangkyum,Male,21-02-2022,Wellihilli Park,KOR,Korea,FIS,Parallel Giant Slalom,4,110.00
-109,Kim Sangkyum,Male,08-02-2022,Beijing,CHN,Korea,Qualification,Parallel Giant Slalom,24,
-110,Kim Sangkyum,Male,08-02-2022,Beijing,CHN,Korea,Olympic Winter Games,Parallel Giant Slalom,24,70.00
-111,Kim Sangkyum,Male,15-01-2022,Simonhöhe,AUT,Korea,World Cup,Parallel Giant Slalom Team,16,
-112,Kim Sangkyum,Male,14-01-2022,Simonhöhe,AUT,Korea,World Cup,Parallel Giant Slalom,18,130.00
-113,Kim Sangkyum,Male,14-01-2022,Simonhöhe,AUT,Korea,Qualification,Parallel Giant Slalom,18,
-114,Kim Sangkyum,Male,11-01-2022,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,18,
-115,Kim Sangkyum,Male,11-01-2022,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,18,130.00
-116,Kim Sangkyum,Male,08-01-2022,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,17,
-117,Kim Sangkyum,Male,08-01-2022,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,17,140.00
-118,Kim Sangkyum,Male,18-12-2021,Cortina d Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,41,
-119,Kim Sangkyum,Male,18-12-2021,Cortina d Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,41,18.20
-120,Kim Sangkyum,Male,16-12-2021,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,24,
-121,Kim Sangkyum,Male,16-12-2021,Carezza,ITA,Korea,World Cup,Parallel Giant Slalom,24,70.00
-122,Kim Sangkyum,Male,12-12-2021,Bannoye,RUS,Korea,Qualification,Parallel Slalom,30,
-123,Kim Sangkyum,Male,12-12-2021,Bannoye,RUS,Korea,World Cup,Parallel Slalom,30,32.00
-124,Kim Sangkyum,Male,11-12-2021,Bannoye,RUS,Korea,Qualification,Parallel Giant Slalom,7,
-125,Kim Sangkyum,Male,11-12-2021,Bannoye,RUS,Korea,World Cup,Parallel Giant Slalom,7,360.00
-126,Kim Sangkyum,Male,21-03-2021,Berchtesgaden,GER,Korea,World Cup,Parallel Slalom Team,21,
-127,Kim Sangkyum,Male,20-03-2021,Berchtesgaden,GER,Korea,Qualification,Parallel Slalom,29,
-128,Kim Sangkyum,Male,20-03-2021,Berchtesgaden,GER,Korea,World Cup,Parallel Slalom,29,36.00
-129,Kim Sangkyum,Male,13-03-2021,Davos Rinerhorn,SUI,Korea,European Cup,Parallel Giant Slalom,15,57.60
-130,Kim Sangkyum,Male,06-03-2021,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,9,
-131,Kim Sangkyum,Male,06-03-2021,Rogla,SLO,Korea,World Cup,Parallel Giant Slalom,14,180.00
-132,Kim Sangkyum,Male,02-03-2021,Rogla,SLO,Korea,World Championships,Parallel Slalom,16,150.00
-133,Kim Sangkyum,Male,02-03-2021,Rogla,SLO,Korea,Qualification,Parallel Slalom,16,
-134,Kim Sangkyum,Male,01-03-2021,Rogla,SLO,Korea,World Championships,Parallel Giant Slalom,4,500.00
-135,Kim Sangkyum,Male,01-03-2021,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,9,
-136,Kim Sangkyum,Male,07-02-2021,Bannoye,RUS,Korea,Qualification,Parallel Slalom,44,
-137,Kim Sangkyum,Male,07-02-2021,Bannoye,RUS,Korea,World Cup,Parallel Slalom,44,17.30
-138,Kim Sangkyum,Male,06-02-2021,Baonoye,RUS,Korea,Qualification,Parallel Giant Slalom,15,
-139,Kim Sangkyum,Male,06-02-2021,Bannoye,RUS,Korea,World Cup,Parallel Giant Slalom,8,320.00
-140,Kim Sangkyum,Male,30-01-2021,Moscow,RUS,Korea,Qualification,Parallel Slalom,13,
-141,Kim Sangkyum,Male,30-01-2021,Moscow,RUS,Korea,World Cup,Parallel Slalom,15,160.00
-142,Kim Sangkyum,Male,24-01-2021,Davos,SUI,Korea,European Cup,Parallel Slalom,13,72.00
-143,Kim Sangkyum,Male,23-01-2021,Davos,SUI,Korea,European Cup,Parallel Slalom,14,64.80
-144,Kim Sangkyum,Male,17-01-2021,Simonhoehe,AUT,Korea,European Cup,Parallel Giant Slalom,3,216.00
-145,Kim Sangkyum,Male,16-01-2021,Simonhoehe,AUT,Korea,European Cup,Parallel Giant Slalom,19,43.20
-146,Kim Sangkyum,Male,13-01-2021,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom Team,23,
-147,Kim Sangkyum,Male,12-01-2021,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,22,
-148,Kim Sangkyum,Male,12-01-2021,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,22,90.00
-149,Kim Sangkyum,Male,09-01-2021,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,36,
-150,Kim Sangkyum,Male,09-01-2021,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,36,19.70
-151,Kim Sangkyum,Male,17-12-2020,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,25,
-152,Kim Sangkyum,Male,17-12-2020,Carezza,ITA,Korea,World Cup,Parallel Giant Slalom,25,60.00
-153,Kim Sangkyum,Male,12-12-2020,Cortina d Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,11,
-154,Kim Sangkyum,Male,12-12-2020,Cortina d Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,8,320.00
-155,Kim Sangkyum,Male,08-03-2020,Tauplitz,AUT,Korea,European Cup,Parallel Slalom,21,36.00
-156,Kim Sangkyum,Male,07-03-2020,Tauplitz,AUT,Korea,European Cup,Parallel Slalom,11,86.40
-157,Kim Sangkyum,Male,25-02-2020,Pyeongchang,KOR,Korea,National Championships,Parallel Slalom,1,120.00
-158,Kim Sangkyum,Male,24-02-2020,Pyeongchang,KOR,Korea,National Championships,Parallel Giant Slalom,1,150.00
-159,Kim Sangkyum,Male,22-02-2020,Pyeongchang,KOR,Korea,World Cup,Parallel Giant Slalom,DSQ,
-160,Kim Sangkyum,Male,22-02-2020,Pyeongchang,KOR,Korea,Qualification,Parallel Giant Slalom,DSQ,
-161,Kim Sangkyum,Male,07-02-2020,Pyeongchang,KOR,Korea,FIS,Parallel Slalom,2,120.00
-162,Kim Sangkyum,Male,06-02-2020,Pyeongchang,KOR,Korea,FIS,Parallel Giant Slalom,1,150.00
-163,Kim Sangkyum,Male,25-01-2020,Piancavallo,ITA,Korea,World Cup,Parallel Slalom,48,
-164,Kim Sangkyum,Male,25-01-2020,Piancavallo,ITA,Korea,Qualification,Parallel Slalom,48,
-165,Kim Sangkyum,Male,18-01-2020,Rogla,SLO,Korea,World Cup,Parallel Giant Slalom,20,110.00
-166,Kim Sangkyum,Male,18-01-2020,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,20,
-167,Kim Sangkyum,Male,14-01-2020,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,50,15.50
-168,Kim Sangkyum,Male,14-01-2020,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,50,
-169,Kim Sangkyum,Male,11-01-2020,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,DSQ,
-170,Kim Sangkyum,Male,11-01-2020,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,DSQ,
-171,Kim Sangkyum,Male,22-12-2019,Hochfügen,GER,Korea,European Cup,Parallel Giant Slalom,41,
-172,Kim Sangkyum,Male,21-12-2019,Hochfügen,GER,Korea,European Cup,Parallel Giant Slalom,2,288.00
-173,Kim Sangkyum,Male,19-12-2019,Carezza,ITA,Korea,Open,Parallel Giant Slalom,34,22.00
-174,Kim Sangkyum,Male,14-12-2019,Cortina d Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,18,130.00
-175,Kim Sangkyum,Male,14-12-2019,Cortina d Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,18,
-176,Kim Sangkyum,Male,08-12-2019,Bannoye,RUS,Korea,World Cup,Parallel Giant Slalom,37,19.40
-177,Kim Sangkyum,Male,08-12-2019,Bannoye,RUS,Korea,Qualification,Parallel Giant Slalom,37,
-178,Kim Sangkyum,Male,07-12-2019,Bannoye,RUS,Korea,World Cup,Parallel Slalom,41,18.20
-179,Kim Sangkyum,Male,07-12-2019,Bannoye,RUS,Korea,Qualification,Parallel Slalom,41,
-180,Kim Sangkyum,Male,29-11-2019,Taiwoo ski resorts,CHN,Korea,Asian Cup,Parallel Giant Slalom,16,
-181,Kim Sangkyum,Male,07-04-2019,Racines,ITA,Korea,European Cup,Parallel Slalom,9,104.40
-182,Kim Sangkyum,Male,06-04-2019,Racines,ITA,Korea,European Cup,Parallel Slalom,10,93.60
-183,Kim Sangkyum,Male,23-03-2019,Winterberg,GER,Korea,World Cup,Parallel Slalom,37,19.40
-184,Kim Sangkyum,Male,23-03-2019,Winterberg,GER,Korea,Qualification,Parallel Slalom,37,
-185,Kim Sangkyum,Male,17-03-2019,Rogla,SLO,Korea,European Cup,Parallel Giant Slalom,11,86.40
-186,Kim Sangkyum,Male,16-03-2019,Rogla,SLO,Korea,European Cup,Parallel Giant Slalom,19,43.20
-187,Kim Sangkyum,Male,09-03-2019,Scuol,SUI,Korea,World Cup,Parallel GS,40,18.50
-188,Kim Sangkyum,Male,09-03-2019,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,40,
-189,Kim Sangkyum,Male,03-03-2019,Davos,SUI,Korea,European Cup,Parallel Slalom,12,79.20
-190,Kim Sangkyum,Male,02-03-2019,Davos,SUI,Korea,European Cup,Parallel Giant Slalom,6,144.00
-191,Kim Sangkyum,Male,24-02-2019,Secret Garden,CHN,Korea,World Cup,Parallel Slalom,42,
-192,Kim Sangkyum,Male,24-02-2019,Secret Garden,CHN,Korea,Qualification,Parallel Slalom,42,
-193,Kim Sangkyum,Male,23-02-2019,Secret Garden,CHN,Korea,World Cup,Parallel Giant Slalom,DNF,
-194,Kim Sangkyum,Male,23-02-2019,Secret Garden,CHN,Korea,Qualification,Parallel Giant Slalom,DNF,
-195,Kim Sangkyum,Male,17-02-2019,Pyeongchang,KOR,Korea,World Cup,Parallel Giant Slalom,19,120.00
-196,Kim Sangkyum,Male,17-02-2019,Pyeongchang,KOR,Korea,Qualification,Parallel Giant Slalom,19,
-197,Kim Sangkyum,Male,16-02-2019,Pyeongchang,KOR,Korea,World Cup,Parallel Giant Slalom,28,40.00
-198,Kim Sangkyum,Male,16-02-2019,Pyeongchang,KOR,Korea,Qualification,Parallel Giant Slalom,28,
-199,Kim Sangkyum,Male,05-02-2019,Park City,USA,Korea,World Championships,Parallel Slalom,29,36.00
-200,Kim Sangkyum,Male,04-02-2019,Park City,USA,Korea,World Championships,Parallel Giant Slalom,12,220.00
-201,Kim Sangkyum,Male,26-01-2019,Moscow,RUS,Korea,World Cup,Parallel Slalom,23,80.00
-202,Kim Sangkyum,Male,26-01-2019,Moscow,RUS,Korea,Qualification,Parallel Slalom,23,
-203,Kim Sangkyum,Male,19-01-2019,Rogla,SLO,Korea,World Cup,Parallel GS,18,130.00
-204,Kim Sangkyum,Male,19-01-2019,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,18,
-205,Kim Sangkyum,Male,11-01-2019,Bad Gastein,AUT,Korea,European Cup,Parallel Slalom,31,10.08
-206,Kim Sangkyum,Male,10-01-2019,Bad Gastein,AUT,Korea,European Cup,Parallel Slalom,19,43.20
-207,Kim Sangkyum,Male,08-01-2019,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,34,22.00
-208,Kim Sangkyum,Male,08-01-2019,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,34,
-209,Kim Sangkyum,Male,04-01-2019,Phoenix Pyeongchang,KOR,Korea,FIS,Parallel Slalom,3,132.00
-210,Kim Sangkyum,Male,03-01-2019,Phoenix Pyeongchang,KOR,Korea,FIS,Parallel Giant Slalom,3,132.00
-211,Kim Sangkyum,Male,15-12-2018,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel GS,16,150.00
-212,Kim Sangkyum,Male,15-12-2018,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,16,
-213,Kim Sangkyum,Male,13-12-2018,Carezza,ITA,Korea,World Cup,Parallel GS,30,32.00
-214,Kim Sangkyum,Male,13-12-2018,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,30,
-215,Kim Sangkyum,Male,25-03-2018,Davos,SUI,Korea,European Cup,Parallel Slalom,30,11.52
-216,Kim Sangkyum,Male,24-03-2018,Davos,SUI,Korea,European Cup,Parallel GS,2,288.00
-217,Kim Sangkyum,Male,21-03-2018,Rogla,SLO,Korea,European Cup,Parallel GS,12,79.20
-218,Kim Sangkyum,Male,20-03-2018,Rogla,SLO,Korea,European Cup,Parallel GS,7,129.60
-219,Kim Sangkyum,Male,17-03-2018,Winterberg,GER,Korea,World Cup,Parallel Slalom,32,26.00
-220,Kim Sangkyum,Male,17-03-2018,Winterberg,GER,Korea,Qualification,Parallel Slalom,32,
-221,Kim Sangkyum,Male,10-03-2018,Scuol,SUI,Korea,World Cup,Parallel GS,27,45.00
-222,Kim Sangkyum,Male,10-03-2018,Scuol,SUI,Korea,Qualification,Parallel GS,27,
-223,Kim Sangkyum,Male,24-02-2018,Phoenix Snow Park,KOR,Korea,Qualification,Parallel GS,15,
-224,Kim Sangkyum,Male,24-02-2018,Phoenix Snow Park,KOR,Korea,Olympic Winter Games,Parallel GS,15,160.00
-225,Kim Sangkyum,Male,28-01-2018,Bansko,BUL,Korea,World Cup,Parallel GS,30,32.00
-226,Kim Sangkyum,Male,28-01-2018,Bansko,BUL,Korea,Qualification,Parallel GS,30,
-227,Kim Sangkyum,Male,26-01-2018,Bansko,BUL,Korea,World Cup,Parallel GS,14,180.00
-228,Kim Sangkyum,Male,26-01-2018,Bansko,BUL,Korea,Qualification,Parallel GS,12,
-229,Kim Sangkyum,Male,21-01-2018,Rogla,SLO,Korea,World Cup,Parallel GS,25,60.00
-230,Kim Sangkyum,Male,21-01-2018,Rogla,SLO,Korea,Qualification,Parallel GS,25,
-231,Kim Sangkyum,Male,20-01-2018,Rogla,SLO,Korea,World Cup,Parallel GS,22,90.00
-232,Kim Sangkyum,Male,20-01-2018,Rogla,SLO,Korea,Qualification,Parallel GS,22,
-233,Kim Sangkyum,Male,12-01-2018,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,61,
-234,Kim Sangkyum,Male,12-01-2018,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,61,
-235,Kim Sangkyum,Male,05-01-2018,Lackenhof,AUT,Korea,World Cup,Parallel GS,45,17.00
-236,Kim Sangkyum,Male,05-01-2018,Lackenhof,AUT,Korea,Qualification,Parallel GS,45,
-237,Kim Sangkyum,Male,16-12-2017,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel Slalom,53,14.60
-238,Kim Sangkyum,Male,16-12-2017,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel Slalom,53,
-239,Kim Sangkyum,Male,15-12-2017,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel GS,41,18.20
-240,Kim Sangkyum,Male,15-12-2017,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel GS,41,
-241,Kim Sangkyum,Male,14-12-2017,Carezza,ITA,Korea,World Cup,Parallel GS,DNF,
-242,Kim Sangkyum,Male,14-12-2017,Carezza,ITA,Korea,Qualification,Parallel GS,DNF,
-243,Kim Sangkyum,Male,10-12-2017,Hochfügen,GER,Korea,European Cup,Parallel GS,3,216.00
-244,Kim Sangkyum,Male,09-12-2017,Hochfügen,GER,Korea,European Cup,Parallel GS,20,39.60
-245,Kim Sangkyum,Male,18-03-2017,Winterberg,GER,Korea,Qualification,Parallel Slalom,26,
-246,Kim Sangkyum,Male,18-03-2017,Winterberg,GER,Korea,World Cup,Parallel Slalom,26,50.00
-247,Kim Sangkyum,Male,16-03-2017,Sierra Nevada,ESP,Korea,World Championships,Parallel GS,30,32.00
-248,Kim Sangkyum,Male,15-03-2017,Sierra Nevada,ESP,Korea,World Championships,Parallel Slalom,47,16.40
-249,Kim Sangkyum,Male,05-03-2017, Erciyes-Kayseri,TUR,Korea,World Cup,Parallel GS,4,500.00
-250,Kim Sangkyum,Male,20-02-2017,Sapporo,JPN,Korea,FIS,Slalom,3,132.00
-251,Kim Sangkyum,Male,19-02-2017,Sapporo,JPN,Korea,FIS,Giant Slalom,5,99.00
-252,Kim Sangkyum,Male,12-02-2017,Phoenix Pyeongchang,KOR,Korea,World Cup,Parallel GS,16,150.00
-253,Kim Sangkyum,Male,05-02-2017,Bansko,BUL,Korea,World Cup,Parallel GS,10,260.00
-254,Kim Sangkyum,Male,03-02-2017,Bansko,BUL,Korea,World Cup,Parallel GS,27,45.00
-255,Kim Sangkyum,Male,28-01-2017,Rogla,SLO,Korea,World Cup,Parallel GS,13,200.00
-256,Kim Sangkyum,Male,21-01-2017,Livigno,ITA,Korea,European Cup,Parallel GS,1,360.00
-257,Kim Sangkyum,Male,20-01-2017,Livigno,ITA,Korea,European Cup,Parallel GS,3,216.00
-258,Kim Sangkyum,Male,11-01-2017,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom Team,14,
-259,Kim Sangkyum,Male,10-01-2017,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,50,
-260,Kim Sangkyum,Male,07-01-2017,Gerlitzen,AUT,Korea,European Cup,Parallel GS,2,288.00
-261,Kim Sangkyum,Male,17-12-2016,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel Slalom,50,
-262,Kim Sangkyum,Male,15-12-2016,Carezza,ITA,Korea,World Cup,Parallel GS,26,50.00
-263,Kim Sangkyum,Male,11-12-2016,Hochfügen,GER,Korea,European Cup,Parallel GS,10,93.60
-264,Kim Sangkyum,Male,10-12-2016,Hochfügen,GER,Korea,European Cup,Parallel GS,19,43.20
-265,Kim Sangkyum,Male,04-11-2016,Landgraaf,NED,Korea,European Cup,Parallel Slalom,28,14.40
-266,Kim Sangkyum,Male,03-11-2016,Landgraaf,NED,Korea,European Cup,Parallel Slalom,15,57.60
-267,Kim Sangkyum,Male,08-04-2016,Breuil Cervinia - Valtournenche,ITA,Korea,National Championships,Parallel Slalom,9,104.40
-268,Kim Sangkyum,Male,07-04-2016,Breuil Cervinia - Valtournenche,ITA,Korea,National Championships,Parallel GS,3,216.00
-269,Kim Sangkyum,Male,27-03-2016,Racines,ITA,Korea,European Cup,Parallel Slalom,33,10.80
-270,Kim Sangkyum,Male,26-03-2016,Racines,ITA,Korea,European Cup,Parallel Slalom,8,160.00
-271,Kim Sangkyum,Male,24-03-2016,Rogla,SLO,Korea,European Cup,Parallel Slalom,DSQ1,
-272,Kim Sangkyum,Male,23-03-2016,Rogla,SLO,Korea,European Cup,Parallel GS,18,65.00
-273,Kim Sangkyum,Male,20-03-2016,Gerlitzen,AUT,Korea,European Cup,Parallel GS,6,200.00
-274,Kim Sangkyum,Male,19-03-2016,Gerlitzen,AUT,Korea,European Cup,Parallel GS,12,110.00
-275,Kim Sangkyum,Male,04-03-2016,High 1 Resort,KOR,Korea,National Championships,Parallel Slalom,2,112.00
-276,Kim Sangkyum,Male,03-03-2016,High 1 Resort,KOR,Korea,National Championships,Parallel GS,3,84.00
-277,Kim Sangkyum,Male,28-02-2016,Le Relais,CAN,Korea,Nor-Am Cup,Parallel Slalom,1,260.00
-278,Kim Sangkyum,Male,27-02-2016,Le Relais,CAN,Korea,Nor-Am Cup,Parallel Slalom,4,130.00
-279,Kim Sangkyum,Male,23-02-2016,"Holiday Valley Resort, NY",USA,Korea,Nor-Am Cup,Parallel GS,4,100.00
-280,Kim Sangkyum,Male,22-02-2016,"Holiday Valley Resort, NY",USA,Korea,Nor-Am Cup,Parallel GS,3,120.00
-281,Kim Sangkyum,Male,18-02-2016,Toronto Ski Club,CAN,Korea,Nor-Am Cup,Parallel GS,1,200.00
-282,Kim Sangkyum,Male,17-02-2016,Toronto Ski Club,CAN,Korea,Nor-Am Cup,Parallel GS,1,200.00
-283,Kim Sangkyum,Male,06-12-2015,Hochfuegen,GER,Korea,European Cup,Parallel GS,31,14.00
-284,Kim Sangkyum,Male,05-12-2015,Hochfuegen,GER,Korea,European Cup,Parallel GS,41,9.10
-285,Kim Sangkyum,Male,16-10-2015,Landgraaf,NED,Korea,European Cup,Parallel Slalom,24,35.00
-286,Kim Sangkyum,Male,15-10-2015,Landgraaf,NED,Korea,European Cup,Parallel Slalom,14,90.00
-287,Kim Sangkyum,Male,04-04-2015,Sapporo,JPN,Korea,National Championships,Giant Slalom,1,260.00
-288,Kim Sangkyum,Male,04-04-2015,Sapporo,JPN,Korea,FIS,Giant Slalom,6,104.00
-289,Kim Sangkyum,Male,29-03-2015,Grächen,SUI,Korea,National Championships,Parallel Slalom,13,72.00
-290,Kim Sangkyum,Male,27-03-2015,Canazei,ITA,Korea,National Championships,Parallel Slalom,25,21.60
-291,Kim Sangkyum,Male,26-03-2015,Canazei,ITA,Korea,National Championships,Parallel GS,12,79.20
-292,Kim Sangkyum,Male,22-03-2015,Racines,ITA,Korea,European Cup,Parallel Slalom,8,160.00
-293,Kim Sangkyum,Male,21-03-2015,Racines,ITA,Korea,European Cup,Parallel Slalom,19,60.00
-294,Kim Sangkyum,Male,18-03-2015,Rogla,SLO,Korea,European Cup,Parallel Slalom,20,55.00
-295,Kim Sangkyum,Male,07-03-2015,Moscow,RUS,Korea,World Cup,Parallel Slalom,37,0.00
-296,Kim Sangkyum,Male,01-03-2015,Asahikawa,JPN,Korea,World Cup,Parallel Slalom,41,0.00
-297,Kim Sangkyum,Male,28-02-2015,Asahikawa,JPN,Korea,World Cup,Parallel GS,38,19.10
-298,Kim Sangkyum,Male,07-02-2015,Sudelfeld,GER,Korea,World Cup,Parallel GS,39,18.80
-299,Kim Sangkyum,Male,06-02-2015,Sudelfeld,GER,Korea,Qualification,Parallel GS,39,
-300,Kim Sangkyum,Male,24-01-2015,Samnaun,SUI,Korea,FIS,Parallel Slalom,15,41.60
-301,Kim Sangkyum,Male,23-01-2015,Lachtal,AUT,Korea,World Championships,Parallel GS,27,45.00
-302,Kim Sangkyum,Male,22-01-2015,Lachtal,AUT,Korea,World Championships,Parallel Slalom,35,20.00
-303,Kim Sangkyum,Male,06-01-2015,Dachstein West / Gosau,AUT,Korea,FIS,Parallel Slalom,25,15.60
-304,Kim Sangkyum,Male,05-01-2015,Dachstein West / Gosau,AUT,Korea,FIS,Parallel Slalom,13,52.00
-305,Kim Sangkyum,Male,14-03-2014,Mt Tremblant,CAN,Korea,Nor-Am Cup,Parallel Slalom,9,92.80
-306,Kim Sangkyum,Male,13-03-2014,Mt Tremblant,CAN,Korea,Nor-Am Cup,Parallel GS,5,144.00
-307,Kim Sangkyum,Male,04-03-2014,Welli Hilli Park,KOR,Korea,National Championships,Parallel Slalom,3,84.00
-308,Kim Sangkyum,Male,03-03-2014,Welli Hilli Park,KOR,Korea,National Championships,Parallel GS,2,128.00
-309,Kim Sangkyum,Male,22-02-2014,Rosa Khutor,RUS,Korea,Olympic Winter Games,Parallel Slalom,26,50.00
-310,Kim Sangkyum,Male,19-02-2014,Rosa Khutor,RUS,Korea,Olympic Winter Games,Parallel GS,17,140.00
-311,Kim Sangkyum,Male,18-01-2014,Rogla,SLO,Korea,World Cup,Parallel GS,59,0.00
-312,Kim Sangkyum,Male,12-01-2014,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,37,19.40
-313,Kim Sangkyum,Male,10-01-2014,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,37,19.40
-314,Kim Sangkyum,Male,22-12-2013,Schönberg-Lachtal,AUT,Korea,European Cup,Parallel Slalom,43,8.80
-315,Kim Sangkyum,Male,21-12-2013,Schönberg-Lachtal,AUT,Korea,European Cup,Parallel Slalom,42,8.95
-316,Kim Sangkyum,Male,19-12-2013,Monte Bondone - Canalon Lavaman,ITA,Korea,Universiade,Parallel GS,4,200.00
-317,Kim Sangkyum,Male,15-12-2013,Samnaun,SUI,Korea,FIS,Parallel Slalom,15,41.60
-318,Kim Sangkyum,Male,14-12-2013,Carezza,ITA,Korea,World Cup,Parallel Slalom,56,0.00
-319,Kim Sangkyum,Male,13-12-2013,Carezza,ITA,Korea,World Cup,Parallel GS,50,15.50
-320,Kim Sangkyum,Male,08-12-2013,Hochfügen,AUT,Korea,European Cup,Parallel GS,13,100.00
-321,Kim Sangkyum,Male,07-12-2013,Hochfügen,AUT,Korea,European Cup,Parallel GS,21,50.00
-322,Kim Sangkyum,Male,15-11-2013,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,8,160.00
-323,Kim Sangkyum,Male,14-11-2013,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,20,55.00
-324,Kim Sangkyum,Male,04-04-2013,Rusutsu,JPN,Korea,National Championships,Parallel GS,9,104.40
-325,Kim Sangkyum,Male,27-03-2013,Le Relais,CAN,Korea,Nor-Am Cup,Parallel Slalom,10,104.00
-326,Kim Sangkyum,Male,26-03-2013,Le Relais,CAN,Korea,Nor-Am Cup,Parallel GS,6,144.00
-327,Kim Sangkyum,Male,16-03-2013,La Molina,ESP,Korea,World Cup,Parallel GS,49,0.00
-328,Kim Sangkyum,Male,10-03-2013,Arosa,SUI,Korea,World Cup,Parallel GS,51,0.00
-329,Kim Sangkyum,Male,03-03-2013,Gerlitzen,AUT,Korea,FIS,Parallel Slalom,21,26.00
-330,Kim Sangkyum,Male,02-03-2013,Gerlitzen,AUT,Korea,European Cup,Parallel Slalom,40,9.25
-331,Kim Sangkyum,Male,23-02-2013,Moscow,RUS,Korea,World Cup,Parallel Slalom,26,50.00
-332,Kim Sangkyum,Male,14-02-2013,Sochi,RUS,Korea,World Cup,Parallel GS,51,
-333,Kim Sangkyum,Male,08-02-2013,Rogla,SLO,Korea,World Cup,Parallel GS,44,17.30
-334,Kim Sangkyum,Male,27-01-2013,Stoneham,CAN,Korea,World Championships,Parallel Slalom,24,70.00
-335,Kim Sangkyum,Male,25-01-2013,Stoneham,CAN,Korea,World Championships,Parallel GS,23,80.00
-336,Kim Sangkyum,Male,20-01-2013,"Le Relais, QC",CAN,Korea,Nor-Am Cup,Parallel Slalom,18,65.00
-337,Kim Sangkyum,Male,19-01-2013,"Le Relais, QC",CAN,Korea,Nor-Am Cup,Parallel GS,12,110.00
-338,Kim Sangkyum,Male,12-01-2013,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,32,26.00
-339,Kim Sangkyum,Male,11-01-2013,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,56,0.00
-340,Kim Sangkyum,Male,16-12-2012,Racines/Ratschings,ITA,Korea,European Cup,Parallel Slalom,55,7.00
-341,Kim Sangkyum,Male,15-12-2012,Racines/Ratschings,ITA,Korea,European Cup,Parallel Slalom,DSQ,
-342,Kim Sangkyum,Male,09-12-2012,Lachtal,AUT,Korea,European Cup,Parallel GS,63,5.80
-343,Kim Sangkyum,Male,08-12-2012,Lachtal,AUT,Korea,European Cup,Parallel GS,DSQ,
-344,Kim Sangkyum,Male,14-11-2012,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,10,117.00
-345,Kim Sangkyum,Male,13-11-2012,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel GS,11,108.00
-346,Kim Sangkyum,Male,08-04-2012,Sapporo,JPN,Korea,FIS,Giant Slalom,3,96.00
-347,Kim Sangkyum,Male,05-04-2012,Rusutsu,JPN,Korea,National Championships,Parallel GS,1,160.00
-348,Kim Sangkyum,Male,24-02-2012,Phoenix Park,KOR,Korea,National Championships,Parallel GS,1,90.00
-349,Kim Sangkyum,Male,22-12-2011,Carezza,ITA,Korea,World Cup,Parallel Slalom,33,
-350,Kim Sangkyum,Male,21-12-2011,Carezza,ITA,Korea,World Cup,Parallel GS,36,19.70
-351,Kim Sangkyum,Male,13-10-2011,Landgraaf,NED,Korea,World Cup,Parallel Slalom,43,0.00
-352,Kim Sangkyum,Male,27-03-2011,Lachtal,AUT,Korea,European Cup,Parallel Slalom,51,4.41
-353,Kim Sangkyum,Male,26-03-2011,Lachtal,AUT,Korea,European Cup,Parallel Slalom,2,232.00
-354,Kim Sangkyum,Male,25-03-2011,Lachtal,AUT,Korea,European Cup,Parallel GS,7,104.40
-355,Kim Sangkyum,Male,09-02-2011,Yongpyong,KOR,Korea,World Cup,Parallel Slalom,21,100.00
-356,Kim Sangkyum,Male,01-02-2011,Palandoken/Erzurum,TUR,Korea,Universiade,Parallel GS,1,320.00
-357,Kim Sangkyum,Male,22-01-2011,La Molina,ESP,Korea,World Championships,Parallel Slalom,26,50.00
-358,Kim Sangkyum,Male,19-01-2011,La Molina,ESP,Korea,World Championships,Parallel GS,27,45.00
-359,Kim Sangkyum,Male,05-03-2010,Minamiuonuma,JPN,Korea,National Championships,Parallel GS,9,52.20
-360,Kim Sangkyum,Male,19-02-2010,Sungwoo Resort,KOR,Korea,FIS,Parallel Slalom,4,45.00
-361,Kim Sangkyum,Male,09-10-2009,Landgraaf,NED,Korea,World Cup,Parallel Slalom,48,0.00
-362,Kim Sangkyum,Male,06-03-2009,Nagano,JPN,Korea,FIS Junior World Championships,Parallel Slalom,21,36.00
-363,Kim Sangkyum,Male,05-03-2009,Nagano,JPN,Korea,FIS Junior World Championships,Parallel GS,20,39.60
-364,Kim Sangkyum,Male,23-02-2009,Maoer Mountain,CHN,Korea,Universiade,Parallel GS,9,58.00
-365,Kim Sangkyum,Male,21-01-2009,Gangwon,KOR,Korea,World Championships,Parallel Slalom,39,18.80
-366,Kim Sangkyum,Male,20-01-2009,Gangwon,KOR,Korea,World Championships,Parallel GS,27,45.00
-367,Kim Sangkyum,Male,13-01-2009,LG Serveone Konjiam Resort,KOR,Korea,Asian Cup,Parallel GS,17,63.00
-368,Kim Sangkyum,Male,14-12-2008,Haus/Ennstal,AUT,Korea,FIS,Parallel GS,4,65.00
-369,Kim Sangkyum,Male,13-12-2008,Haus/Ennstal,AUT,Korea,FIS,Parallel GS,6,80.00
-370,Kim Sangkyum,Male,07-12-2008,Innsbruck/Patscherkofel,AUT,Korea,FIS,Parallel Slalom,50,4.03
-371,Kim Sangkyum,Male,06-12-2008,Innsbruck/Patscherkofel,AUT,Korea,FIS,Parallel Slalom,130,
-372,Kim Sangkyum,Male,30-11-2008,"Hochfügen, Zillertal",AUT,Korea,National Championships,Parallel GS,17,50.40
-373,Kim Sangkyum,Male,27-02-2008,Minamiuonuma,JPN,Korea,National Championships,Parallel GS,23,11.20
-374,Kim Sangkyum,Male,18-12-2007,Nendaz,SUI,Korea,European Cup,Parallel Slalom,45,8.50
-375,Kim Sangkyum,Male,15-12-2007,Carezza,ITA,Korea,European Cup,Giant Slalom,27,11.70
-376,Kim Sangkyum,Male,08-12-2007,Haus im Ennstal,AUT,Korea,FIS,Giant Slalom,60,2.50
-377,Kim Sangkyum,Male,07-12-2007,Haus im Ennstal,AUT,Korea,European Cup,Giant Slalom,55,3.36
-378,Kim Sangkyum,Male,02-12-2007,Kühtai,AUT,Korea,FIS,Parallel Slalom,70,2.47
-379,Kim Sangkyum,Male,01-12-2007,Kühtai,AUT,Korea,FIS,Parallel Slalom,59,3.33
-380,Kim Sangkyum,Male,11-03-2007,Gujo,JPN,Korea,National Championships,Snowboardcross,44,1.21
-381,Kim Sangkyum,Male,09-03-2007,Gujo,JPN,Korea,National Championships,Parallel GS,12,22.00
-382,Kim Sangkyum,Male,26-01-2007,Bardonecchia,ITA,Korea,Universiade,Giant Slalom,15,46.40
-383,Kim Sangkyum,Male,25-03-2006,Tsubetsu,JPN,Korea,National Championships,Snowboardcross,28,3.60
-384,Kim Sangkyum,Male,24-03-2006,Tsubetsu,JPN,Korea,National Championships,Parallel GS,13,26.00
-385,Kim Sangkyum,Male,06-02-2006,Vivaldi Park,KOR,Korea,FIS Junior World Championships,Parallel GS,26,18.00
-386,Kim Sangkyum,Male,03-02-2006,Vivaldi Park,KOR,Korea,FIS Junior World Championships,Snowboardcross,64,4.07
-387,Kim Sangkyum,Male,25-01-2005,Daemyung Vivaldi Resort,KOR,Korea,FIS,Parallel GS,22,14.40
+0,Kim Sangkyum,Male,20-03-2025,Engadin,SUI,Korea,Qualification,Parallel Giant Slalom,15,
+1,Kim Sangkyum,Male,20-03-2025,Engadin,SUI,Korea,World Championships,Parallel Giant Slalom,15,160.00
+2,Kim Sangkyum,Male,15-03-2025,Winterberg,GER,Korea,Qualification,Parallel Slalom,30,
+3,Kim Sangkyum,Male,15-03-2025,Winterberg,GER,Korea,World Cup,Parallel Slalom,30,32.00
+4,Kim Sangkyum,Male,02-03-2025,Krynica,POL,Korea,Qualification,Parallel Giant Slalom,5,
+5,Kim Sangkyum,Male,02-03-2025,Krynica,POL,Korea,World Cup,Parallel Giant Slalom,3,600.00
+6,Kim Sangkyum,Male,01-03-2025,Krynica,POL,Korea,Qualification,Parallel Giant Slalom,14,
+7,Kim Sangkyum,Male,01-03-2025,Krynica,POL,Korea,World Cup,Parallel Giant Slalom,14,180.00
+8,Kim Sangkyum,Male,16-02-2025,Val St. Come,CAN,Korea,Qualification,Parallel Giant Slalom,26,
+9,Kim Sangkyum,Male,16-02-2025,Val St. Come,CAN,Korea,World Cup,Parallel Giant Slalom,26,50.00
+10,Kim Sangkyum,Male,15-02-2025,Val St. Come,CAN,Korea,Qualification,Parallel Giant Slalom,29,
+11,Kim Sangkyum,Male,15-02-2025,Val St. Come,CAN,Korea,World Cup,Parallel Giant Slalom,29,36.00
+12,Kim Sangkyum,Male,25-01-2025,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,13,
+13,Kim Sangkyum,Male,25-01-2025,Rogla,SLO,Korea,World Cup,Parallel Giant Slalom,14,180.00
+14,Kim Sangkyum,Male,19-01-2025,Bansko,BUL,Korea,Qualification,Parallel Giant Slalom,29,
+15,Kim Sangkyum,Male,19-01-2025,Bansko,BUL,Korea,World Cup,Parallel Giant Slalom,29,36.00
+16,Kim Sangkyum,Male,18-01-2025,Bansko,BUL,Korea,Qualification,Parallel Giant Slalom,27,
+17,Kim Sangkyum,Male,18-01-2025,Bansko,BUL,Korea,World Cup,Parallel Giant Slalom,27,45.00
+18,Kim Sangkyum,Male,15-01-2025,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom Team,12,
+19,Kim Sangkyum,Male,14-01-2025,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,11,
+20,Kim Sangkyum,Male,14-01-2025,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,12,220.00
+21,Kim Sangkyum,Male,11-01-2025,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,16,
+22,Kim Sangkyum,Male,11-01-2025,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,16,150.00
+23,Kim Sangkyum,Male,21-12-2024,Davos,SUI,Korea,Qualification,Parallel Slalom,DNF,
+24,Kim Sangkyum,Male,21-12-2024,Davos,SUI,Korea,World Cup,Parallel Slalom,DNF,
+25,Kim Sangkyum,Male,14-12-2024,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,3,
+26,Kim Sangkyum,Male,14-12-2024,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,5,450.00
+27,Kim Sangkyum,Male,12-12-2024,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,3,
+28,Kim Sangkyum,Male,12-12-2024,Carezza,ITA,Korea,World Cup,Parallel Giant Slalom,6,400.00
+29,Kim Sangkyum,Male,08-12-2024,Yanqing (NASC),CHN,Korea,World Cup,Parallel Slalom,18,130.00
+30,Kim Sangkyum,Male,08-12-2024,Yanqing (NASC),CHN,Korea,Qualification,Parallel Slalom,18,
+31,Kim Sangkyum,Male,07-12-2024,Yanqing (NASC),CHN,Korea,World Cup,Parallel Giant Slalom,9,290.00
+32,Kim Sangkyum,Male,07-12-2024,Yanqing (NASC),CHN,Korea,Qualification,Parallel Giant Slalom,6,
+33,Kim Sangkyum,Male,01-12-2024,Mylin,CHN,Korea,World Cup,Parallel Slalom,19,120.00
+34,Kim Sangkyum,Male,01-12-2024,Mylin,CHN,Korea,Qualification,Parallel Slalom,19,
+35,Kim Sangkyum,Male,30-11-2024,Mylin,CHN,Korea,World Cup,Parallel Giant Slalom,2,800.00
+36,Kim Sangkyum,Male,30-11-2024,Mylin,CHN,Korea,Qualification,Parallel Giant Slalom,6,
+37,Kim Sangkyum,Male,17-03-2024,St. Moritz,SUI,Korea,European Cup,Parallel Slalom,DSQ,
+38,Kim Sangkyum,Male,16-03-2024,St. Moritz,SUI,Korea,European Cup,Parallel Giant Slalom,39,6.77
+39,Kim Sangkyum,Male,13-03-2024,Davos/Rinerhorn ,SUI,Korea,European Cup,Parallel Giant Slalom,DSQ,
+40,Kim Sangkyum,Male,12-03-2024,Davos/Rinerhorn ,SUI,Korea,European Cup,Parallel Giant Slalom,12,79.20
+41,Kim Sangkyum,Male,09-03-2024,Winterberg,GER,Korea,Qualification,Parallel Slalom,27,
+42,Kim Sangkyum,Male,09-03-2024,Winterberg,GER,Korea,World Cup,Parallel Slalom,27,45.00
+43,Kim Sangkyum,Male,04-03-2024,High1resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,31,6.72
+44,Kim Sangkyum,Male,25-02-2024,Krynica,POL,Korea,Qualification,Parallel Giant Slalom,14,
+45,Kim Sangkyum,Male,25-02-2024,Krynica,POL,Korea,World Cup,Parallel Giant Slalom,14,180.00
+46,Kim Sangkyum,Male,24-02-2024,Krynica,POL,Korea,Qualification,Parallel Giant Slalom,8,
+47,Kim Sangkyum,Male,24-02-2024,Krynica,POL,Korea,World Cup,Parallel Giant Slalom,14,180.00
+48,Kim Sangkyum,Male,02-02-2024,High1resort,KOR,Korea,FIS,Parallel Slalom,6,88.00
+49,Kim Sangkyum,Male,01-02-2024,High1resort,KOR,Korea,FIS,Parallel Giant Slalom,5,99.00
+50,Kim Sangkyum,Male,27-01-2024,Simonhöhe,AUT,Korea,Qualification,Parallel Giant Slalom,22,
+51,Kim Sangkyum,Male,27-01-2024,Simonhöhe,AUT,Korea,World Cup,Parallel Giant Slalom,22,90.00
+52,Kim Sangkyum,Male,25-01-2024,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,19,
+53,Kim Sangkyum,Male,25-01-2024,Rogla,SLO,Korea,World Cup,Parallel Giant Slalom,19,120.00
+54,Kim Sangkyum,Male,21-01-2024,Pamporovo,BUL,Korea,Qualification,Parallel Slalom,24,
+55,Kim Sangkyum,Male,21-01-2024,Pamporovo,BUL,Korea,World Cup,Parallel Slalom,24,70.00
+56,Kim Sangkyum,Male,20-01-2024,Pamporovo,BUL,Korea,Qualification,Parallel Slalom,27,
+57,Kim Sangkyum,Male,20-01-2024,Pamporovo,BUL,Korea,World Cup,Parallel Slalom,27,45.00
+58,Kim Sangkyum,Male,16-01-2024,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,DSQ,
+59,Kim Sangkyum,Male,16-01-2024,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,DSQ,
+60,Kim Sangkyum,Male,13-01-2024,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,24,
+61,Kim Sangkyum,Male,13-01-2024,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,24,70.00
+62,Kim Sangkyum,Male,23-12-2023,Davos,SUI,Korea,Qualification,Parallel Slalom,24,
+63,Kim Sangkyum,Male,23-12-2023,Davos ,SUI,Korea,World Cup,Parallel Slalom,24,70.00
+64,Kim Sangkyum,Male,16-12-2023,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,12,
+65,Kim Sangkyum,Male,16-12-2023,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,7,360.00
+66,Kim Sangkyum,Male,14-12-2023,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,15,
+67,Kim Sangkyum,Male,14-12-2023,Carezza,ITA,Korea,World Cup,Parallel Giant Slalom,16,150.00
+68,Kim Sangkyum,Male,19-03-2023,Ratschings,ITA,Korea,European Cup,Parallel Slalom,2,192.00
+69,Kim Sangkyum,Male,18-03-2023,Berchtesgaden,GER,Korea,Qualification,Parallel Slalom,21,
+70,Kim Sangkyum,Male,18-03-2023,Berchtesgaden,GER,Korea,World Cup,Parallel Slalom,21,100.00
+71,Kim Sangkyum,Male,15-03-2023,Rogla,SLO,Korea,World Cup,Parallel Giant Slalom,17,140.00
+72,Kim Sangkyum,Male,15-03-2023,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,17,
+73,Kim Sangkyum,Male,03-03-2023,high1 resort,KOR,Korea,Asian Cup,Parallel Slalom,1,360.00
+74,Kim Sangkyum,Male,02-03-2023,high1 resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,1,360.00
+75,Kim Sangkyum,Male,22-02-2023,Bakuriani,GEO,Korea,World Championships,Parallel Slalom Team,20,
+76,Kim Sangkyum,Male,21-02-2023,Bakuriani,GEO,Korea,Qualification,Parallel Slalom,9,
+77,Kim Sangkyum,Male,21-02-2023,Bakuriani,GEO,Korea,World Championships,Parallel Slalom,9,290.00
+78,Kim Sangkyum,Male,19-02-2023,Bakuriani,GEO,Korea,Qualification,Parallel Giant Slalom,7,
+79,Kim Sangkyum,Male,19-02-2023,Bakuriani,GEO,Korea,World Championships,Parallel Giant Slalom,7,360.00
+80,Kim Sangkyum,Male,07-02-2023,high1 resort,KOR,Korea,FIS,Parallel Slalom,1,220.00
+81,Kim Sangkyum,Male,06-02-2023,high1 resort,KOR,Korea,FIS,Parallel Giant Slalom,1,220.00
+82,Kim Sangkyum,Male,27-01-2023,Blue Mountain,CAN,Korea,Qualification,Parallel Giant Slalom,13,
+83,Kim Sangkyum,Male,27-01-2023,Blue Mountain,CAN,Korea,World Cup,Parallel Giant Slalom,8,320.00
+84,Kim Sangkyum,Male,26-01-2023,Blue Mountain,CAN,Korea,Qualification,Parallel Giant Slalom,24,
+85,Kim Sangkyum,Male,26-01-2023,Blue Mountain,CAN,Korea,World Cup,Parallel Giant Slalom,24,70.00
+86,Kim Sangkyum,Male,22-01-2023,Bansko,BUL,Korea,Qualification,Parallel Slalom,24,
+87,Kim Sangkyum,Male,22-01-2023,Bansko,BUL,Korea,World Cup,Parallel Slalom,24,70.00
+88,Kim Sangkyum,Male,21-01-2023,Bansko,BUL,Korea,Qualification,Parallel Slalom,27,
+89,Kim Sangkyum,Male,21-01-2023,Bansko,BUL,Korea,World Cup,Parallel Slalom,27,45.00
+90,Kim Sangkyum,Male,14-01-2023,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,14,
+91,Kim Sangkyum,Male,14-01-2023,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,14,180.00
+92,Kim Sangkyum,Male,10-01-2023,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,22,
+93,Kim Sangkyum,Male,10-01-2023,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,22,90.00
+94,Kim Sangkyum,Male,17-12-2022,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,5,
+95,Kim Sangkyum,Male,17-12-2022,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,6,400.00
+96,Kim Sangkyum,Male,15-12-2022,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,5,
+97,Kim Sangkyum,Male,15-12-2022,Carezza,ITA,Korea,World Cup,Parallel Giant Slalom,11,240.00
+98,Kim Sangkyum,Male,11-12-2022,Winterberg,GER,Korea,World Cup,Parallel Slalom,24,70.00
+99,Kim Sangkyum,Male,10-12-2022,Winterberg,GER,Korea,Qualification,Parallel Slalom,24,
+100,Kim Sangkyum,Male,19-03-2022,Berchtesgaden,GER,Korea,Qualification,Parallel Slalom,16,
+101,Kim Sangkyum,Male,19-03-2022,Berchtesgaden,GER,Korea,World Cup,Parallel Slalom,16,150.00
+102,Kim Sangkyum,Male,17-03-2022,Rogla,SLO,Korea,European Cup,Parallel Giant Slalom,11,76.80
+103,Kim Sangkyum,Male,16-03-2022,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,15,
+104,Kim Sangkyum,Male,16-03-2022,Rogla,SLO,Korea,World Cup,Parallel Giant Slalom,15,160.00
+105,Kim Sangkyum,Male,12-03-2022,Piancavallo,ITA,Korea,Qualification,Parallel Slalom,32,
+106,Kim Sangkyum,Male,12-03-2022,Piancavallo,ITA,Korea,World Cup,Parallel Slalom,32,26.00
+107,Kim Sangkyum,Male,03-03-2022,Wellihilli Park,KOR,Korea,National Championships,Parallel Slalom,3,174.00
+108,Kim Sangkyum,Male,02-03-2022,Wellihilli Park,KOR,Korea,National Championships,Parallel Giant Slalom,2,232.00
+109,Kim Sangkyum,Male,22-02-2022,Wellihilli Park,KOR,Korea,FIS,Parallel Slalom,1,220.00
+110,Kim Sangkyum,Male,21-02-2022,Wellihilli Park,KOR,Korea,FIS,Parallel Giant Slalom,4,110.00
+111,Kim Sangkyum,Male,08-02-2022,Beijing,CHN,Korea,Qualification,Parallel Giant Slalom,24,
+112,Kim Sangkyum,Male,08-02-2022,Beijing,CHN,Korea,Olympic Winter Games,Parallel Giant Slalom,24,70.00
+113,Kim Sangkyum,Male,15-01-2022,Simonhöhe,AUT,Korea,World Cup,Parallel Giant Slalom Team,16,
+114,Kim Sangkyum,Male,14-01-2022,Simonhöhe,AUT,Korea,World Cup,Parallel Giant Slalom,18,130.00
+115,Kim Sangkyum,Male,14-01-2022,Simonhöhe,AUT,Korea,Qualification,Parallel Giant Slalom,18,
+116,Kim Sangkyum,Male,11-01-2022,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,18,
+117,Kim Sangkyum,Male,11-01-2022,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,18,130.00
+118,Kim Sangkyum,Male,08-01-2022,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,17,
+119,Kim Sangkyum,Male,08-01-2022,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,17,140.00
+120,Kim Sangkyum,Male,18-12-2021,Cortina d Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,41,
+121,Kim Sangkyum,Male,18-12-2021,Cortina d Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,41,18.20
+122,Kim Sangkyum,Male,16-12-2021,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,24,
+123,Kim Sangkyum,Male,16-12-2021,Carezza,ITA,Korea,World Cup,Parallel Giant Slalom,24,70.00
+124,Kim Sangkyum,Male,12-12-2021,Bannoye,RUS,Korea,Qualification,Parallel Slalom,30,
+125,Kim Sangkyum,Male,12-12-2021,Bannoye,RUS,Korea,World Cup,Parallel Slalom,30,32.00
+126,Kim Sangkyum,Male,11-12-2021,Bannoye,RUS,Korea,Qualification,Parallel Giant Slalom,7,
+127,Kim Sangkyum,Male,11-12-2021,Bannoye,RUS,Korea,World Cup,Parallel Giant Slalom,7,360.00
+128,Kim Sangkyum,Male,21-03-2021,Berchtesgaden,GER,Korea,World Cup,Parallel Slalom Team,21,
+129,Kim Sangkyum,Male,20-03-2021,Berchtesgaden,GER,Korea,Qualification,Parallel Slalom,29,
+130,Kim Sangkyum,Male,20-03-2021,Berchtesgaden,GER,Korea,World Cup,Parallel Slalom,29,36.00
+131,Kim Sangkyum,Male,13-03-2021,Davos Rinerhorn,SUI,Korea,European Cup,Parallel Giant Slalom,15,57.60
+132,Kim Sangkyum,Male,06-03-2021,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,9,
+133,Kim Sangkyum,Male,06-03-2021,Rogla,SLO,Korea,World Cup,Parallel Giant Slalom,14,180.00
+134,Kim Sangkyum,Male,02-03-2021,Rogla,SLO,Korea,World Championships,Parallel Slalom,16,150.00
+135,Kim Sangkyum,Male,02-03-2021,Rogla,SLO,Korea,Qualification,Parallel Slalom,16,
+136,Kim Sangkyum,Male,01-03-2021,Rogla,SLO,Korea,World Championships,Parallel Giant Slalom,4,500.00
+137,Kim Sangkyum,Male,01-03-2021,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,9,
+138,Kim Sangkyum,Male,07-02-2021,Bannoye,RUS,Korea,Qualification,Parallel Slalom,44,
+139,Kim Sangkyum,Male,07-02-2021,Bannoye,RUS,Korea,World Cup,Parallel Slalom,44,17.30
+140,Kim Sangkyum,Male,06-02-2021,Baonoye,RUS,Korea,Qualification,Parallel Giant Slalom,15,
+141,Kim Sangkyum,Male,06-02-2021,Bannoye,RUS,Korea,World Cup,Parallel Giant Slalom,8,320.00
+142,Kim Sangkyum,Male,30-01-2021,Moscow,RUS,Korea,Qualification,Parallel Slalom,13,
+143,Kim Sangkyum,Male,30-01-2021,Moscow,RUS,Korea,World Cup,Parallel Slalom,15,160.00
+144,Kim Sangkyum,Male,24-01-2021,Davos,SUI,Korea,European Cup,Parallel Slalom,13,72.00
+145,Kim Sangkyum,Male,23-01-2021,Davos,SUI,Korea,European Cup,Parallel Slalom,14,64.80
+146,Kim Sangkyum,Male,17-01-2021,Simonhoehe,AUT,Korea,European Cup,Parallel Giant Slalom,3,216.00
+147,Kim Sangkyum,Male,16-01-2021,Simonhoehe,AUT,Korea,European Cup,Parallel Giant Slalom,19,43.20
+148,Kim Sangkyum,Male,13-01-2021,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom Team,23,
+149,Kim Sangkyum,Male,12-01-2021,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,22,
+150,Kim Sangkyum,Male,12-01-2021,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,22,90.00
+151,Kim Sangkyum,Male,09-01-2021,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,36,
+152,Kim Sangkyum,Male,09-01-2021,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,36,19.70
+153,Kim Sangkyum,Male,17-12-2020,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,25,
+154,Kim Sangkyum,Male,17-12-2020,Carezza,ITA,Korea,World Cup,Parallel Giant Slalom,25,60.00
+155,Kim Sangkyum,Male,12-12-2020,Cortina d Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,11,
+156,Kim Sangkyum,Male,12-12-2020,Cortina d Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,8,320.00
+157,Kim Sangkyum,Male,08-03-2020,Tauplitz,AUT,Korea,European Cup,Parallel Slalom,21,36.00
+158,Kim Sangkyum,Male,07-03-2020,Tauplitz,AUT,Korea,European Cup,Parallel Slalom,11,86.40
+159,Kim Sangkyum,Male,25-02-2020,Pyeongchang,KOR,Korea,National Championships,Parallel Slalom,1,120.00
+160,Kim Sangkyum,Male,24-02-2020,Pyeongchang,KOR,Korea,National Championships,Parallel Giant Slalom,1,150.00
+161,Kim Sangkyum,Male,22-02-2020,Pyeongchang,KOR,Korea,World Cup,Parallel Giant Slalom,DSQ,
+162,Kim Sangkyum,Male,22-02-2020,Pyeongchang,KOR,Korea,Qualification,Parallel Giant Slalom,DSQ,
+163,Kim Sangkyum,Male,07-02-2020,Pyeongchang,KOR,Korea,FIS,Parallel Slalom,2,120.00
+164,Kim Sangkyum,Male,06-02-2020,Pyeongchang,KOR,Korea,FIS,Parallel Giant Slalom,1,150.00
+165,Kim Sangkyum,Male,25-01-2020,Piancavallo,ITA,Korea,World Cup,Parallel Slalom,48,
+166,Kim Sangkyum,Male,25-01-2020,Piancavallo,ITA,Korea,Qualification,Parallel Slalom,48,
+167,Kim Sangkyum,Male,18-01-2020,Rogla,SLO,Korea,World Cup,Parallel Giant Slalom,20,110.00
+168,Kim Sangkyum,Male,18-01-2020,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,20,
+169,Kim Sangkyum,Male,14-01-2020,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,50,15.50
+170,Kim Sangkyum,Male,14-01-2020,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,50,
+171,Kim Sangkyum,Male,11-01-2020,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,DSQ,
+172,Kim Sangkyum,Male,11-01-2020,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,DSQ,
+173,Kim Sangkyum,Male,22-12-2019,Hochfügen,GER,Korea,European Cup,Parallel Giant Slalom,41,
+174,Kim Sangkyum,Male,21-12-2019,Hochfügen,GER,Korea,European Cup,Parallel Giant Slalom,2,288.00
+175,Kim Sangkyum,Male,19-12-2019,Carezza,ITA,Korea,Open,Parallel Giant Slalom,34,22.00
+176,Kim Sangkyum,Male,14-12-2019,Cortina d Ampezzo,ITA,Korea,World Cup,Parallel Giant Slalom,18,130.00
+177,Kim Sangkyum,Male,14-12-2019,Cortina d Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,18,
+178,Kim Sangkyum,Male,08-12-2019,Bannoye,RUS,Korea,World Cup,Parallel Giant Slalom,37,19.40
+179,Kim Sangkyum,Male,08-12-2019,Bannoye,RUS,Korea,Qualification,Parallel Giant Slalom,37,
+180,Kim Sangkyum,Male,07-12-2019,Bannoye,RUS,Korea,World Cup,Parallel Slalom,41,18.20
+181,Kim Sangkyum,Male,07-12-2019,Bannoye,RUS,Korea,Qualification,Parallel Slalom,41,
+182,Kim Sangkyum,Male,29-11-2019,Taiwoo ski resorts,CHN,Korea,Asian Cup,Parallel Giant Slalom,16,
+183,Kim Sangkyum,Male,07-04-2019,Racines,ITA,Korea,European Cup,Parallel Slalom,9,104.40
+184,Kim Sangkyum,Male,06-04-2019,Racines,ITA,Korea,European Cup,Parallel Slalom,10,93.60
+185,Kim Sangkyum,Male,23-03-2019,Winterberg,GER,Korea,World Cup,Parallel Slalom,37,19.40
+186,Kim Sangkyum,Male,23-03-2019,Winterberg,GER,Korea,Qualification,Parallel Slalom,37,
+187,Kim Sangkyum,Male,17-03-2019,Rogla,SLO,Korea,European Cup,Parallel Giant Slalom,11,86.40
+188,Kim Sangkyum,Male,16-03-2019,Rogla,SLO,Korea,European Cup,Parallel Giant Slalom,19,43.20
+189,Kim Sangkyum,Male,09-03-2019,Scuol,SUI,Korea,World Cup,Parallel GS,40,18.50
+190,Kim Sangkyum,Male,09-03-2019,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,40,
+191,Kim Sangkyum,Male,03-03-2019,Davos,SUI,Korea,European Cup,Parallel Slalom,12,79.20
+192,Kim Sangkyum,Male,02-03-2019,Davos,SUI,Korea,European Cup,Parallel Giant Slalom,6,144.00
+193,Kim Sangkyum,Male,24-02-2019,Secret Garden,CHN,Korea,World Cup,Parallel Slalom,42,
+194,Kim Sangkyum,Male,24-02-2019,Secret Garden,CHN,Korea,Qualification,Parallel Slalom,42,
+195,Kim Sangkyum,Male,23-02-2019,Secret Garden,CHN,Korea,World Cup,Parallel Giant Slalom,DNF,
+196,Kim Sangkyum,Male,23-02-2019,Secret Garden,CHN,Korea,Qualification,Parallel Giant Slalom,DNF,
+197,Kim Sangkyum,Male,17-02-2019,Pyeongchang,KOR,Korea,World Cup,Parallel Giant Slalom,19,120.00
+198,Kim Sangkyum,Male,17-02-2019,Pyeongchang,KOR,Korea,Qualification,Parallel Giant Slalom,19,
+199,Kim Sangkyum,Male,16-02-2019,Pyeongchang,KOR,Korea,World Cup,Parallel Giant Slalom,28,40.00
+200,Kim Sangkyum,Male,16-02-2019,Pyeongchang,KOR,Korea,Qualification,Parallel Giant Slalom,28,
+201,Kim Sangkyum,Male,05-02-2019,Park City,USA,Korea,World Championships,Parallel Slalom,29,36.00
+202,Kim Sangkyum,Male,04-02-2019,Park City,USA,Korea,World Championships,Parallel Giant Slalom,12,220.00
+203,Kim Sangkyum,Male,26-01-2019,Moscow,RUS,Korea,World Cup,Parallel Slalom,23,80.00
+204,Kim Sangkyum,Male,26-01-2019,Moscow,RUS,Korea,Qualification,Parallel Slalom,23,
+205,Kim Sangkyum,Male,19-01-2019,Rogla,SLO,Korea,World Cup,Parallel GS,18,130.00
+206,Kim Sangkyum,Male,19-01-2019,Rogla,SLO,Korea,Qualification,Parallel Giant Slalom,18,
+207,Kim Sangkyum,Male,11-01-2019,Bad Gastein,AUT,Korea,European Cup,Parallel Slalom,31,10.08
+208,Kim Sangkyum,Male,10-01-2019,Bad Gastein,AUT,Korea,European Cup,Parallel Slalom,19,43.20
+209,Kim Sangkyum,Male,08-01-2019,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,34,22.00
+210,Kim Sangkyum,Male,08-01-2019,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,34,
+211,Kim Sangkyum,Male,04-01-2019,Phoenix Pyeongchang,KOR,Korea,FIS,Parallel Slalom,3,132.00
+212,Kim Sangkyum,Male,03-01-2019,Phoenix Pyeongchang,KOR,Korea,FIS,Parallel Giant Slalom,3,132.00
+213,Kim Sangkyum,Male,15-12-2018,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel GS,16,150.00
+214,Kim Sangkyum,Male,15-12-2018,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel Giant Slalom,16,
+215,Kim Sangkyum,Male,13-12-2018,Carezza,ITA,Korea,World Cup,Parallel GS,30,32.00
+216,Kim Sangkyum,Male,13-12-2018,Carezza,ITA,Korea,Qualification,Parallel Giant Slalom,30,
+217,Kim Sangkyum,Male,25-03-2018,Davos,SUI,Korea,European Cup,Parallel Slalom,30,11.52
+218,Kim Sangkyum,Male,24-03-2018,Davos,SUI,Korea,European Cup,Parallel GS,2,288.00
+219,Kim Sangkyum,Male,21-03-2018,Rogla,SLO,Korea,European Cup,Parallel GS,12,79.20
+220,Kim Sangkyum,Male,20-03-2018,Rogla,SLO,Korea,European Cup,Parallel GS,7,129.60
+221,Kim Sangkyum,Male,17-03-2018,Winterberg,GER,Korea,World Cup,Parallel Slalom,32,26.00
+222,Kim Sangkyum,Male,17-03-2018,Winterberg,GER,Korea,Qualification,Parallel Slalom,32,
+223,Kim Sangkyum,Male,10-03-2018,Scuol,SUI,Korea,World Cup,Parallel GS,27,45.00
+224,Kim Sangkyum,Male,10-03-2018,Scuol,SUI,Korea,Qualification,Parallel GS,27,
+225,Kim Sangkyum,Male,24-02-2018,Phoenix Snow Park,KOR,Korea,Qualification,Parallel GS,15,
+226,Kim Sangkyum,Male,24-02-2018,Phoenix Snow Park,KOR,Korea,Olympic Winter Games,Parallel GS,15,160.00
+227,Kim Sangkyum,Male,28-01-2018,Bansko,BUL,Korea,World Cup,Parallel GS,30,32.00
+228,Kim Sangkyum,Male,28-01-2018,Bansko,BUL,Korea,Qualification,Parallel GS,30,
+229,Kim Sangkyum,Male,26-01-2018,Bansko,BUL,Korea,World Cup,Parallel GS,14,180.00
+230,Kim Sangkyum,Male,26-01-2018,Bansko,BUL,Korea,Qualification,Parallel GS,12,
+231,Kim Sangkyum,Male,21-01-2018,Rogla,SLO,Korea,World Cup,Parallel GS,25,60.00
+232,Kim Sangkyum,Male,21-01-2018,Rogla,SLO,Korea,Qualification,Parallel GS,25,
+233,Kim Sangkyum,Male,20-01-2018,Rogla,SLO,Korea,World Cup,Parallel GS,22,90.00
+234,Kim Sangkyum,Male,20-01-2018,Rogla,SLO,Korea,Qualification,Parallel GS,22,
+235,Kim Sangkyum,Male,12-01-2018,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,61,
+236,Kim Sangkyum,Male,12-01-2018,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,61,
+237,Kim Sangkyum,Male,05-01-2018,Lackenhof,AUT,Korea,World Cup,Parallel GS,45,17.00
+238,Kim Sangkyum,Male,05-01-2018,Lackenhof,AUT,Korea,Qualification,Parallel GS,45,
+239,Kim Sangkyum,Male,16-12-2017,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel Slalom,53,14.60
+240,Kim Sangkyum,Male,16-12-2017,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel Slalom,53,
+241,Kim Sangkyum,Male,15-12-2017,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel GS,41,18.20
+242,Kim Sangkyum,Male,15-12-2017,Cortina d'Ampezzo,ITA,Korea,Qualification,Parallel GS,41,
+243,Kim Sangkyum,Male,14-12-2017,Carezza,ITA,Korea,World Cup,Parallel GS,DNF,
+244,Kim Sangkyum,Male,14-12-2017,Carezza,ITA,Korea,Qualification,Parallel GS,DNF,
+245,Kim Sangkyum,Male,10-12-2017,Hochfügen,GER,Korea,European Cup,Parallel GS,3,216.00
+246,Kim Sangkyum,Male,09-12-2017,Hochfügen,GER,Korea,European Cup,Parallel GS,20,39.60
+247,Kim Sangkyum,Male,18-03-2017,Winterberg,GER,Korea,Qualification,Parallel Slalom,26,
+248,Kim Sangkyum,Male,18-03-2017,Winterberg,GER,Korea,World Cup,Parallel Slalom,26,50.00
+249,Kim Sangkyum,Male,16-03-2017,Sierra Nevada,ESP,Korea,World Championships,Parallel GS,30,32.00
+250,Kim Sangkyum,Male,15-03-2017,Sierra Nevada,ESP,Korea,World Championships,Parallel Slalom,47,16.40
+251,Kim Sangkyum,Male,05-03-2017, Erciyes-Kayseri,TUR,Korea,World Cup,Parallel GS,4,500.00
+252,Kim Sangkyum,Male,20-02-2017,Sapporo,JPN,Korea,FIS,Slalom,3,132.00
+253,Kim Sangkyum,Male,19-02-2017,Sapporo,JPN,Korea,FIS,Giant Slalom,5,99.00
+254,Kim Sangkyum,Male,12-02-2017,Phoenix Pyeongchang,KOR,Korea,World Cup,Parallel GS,16,150.00
+255,Kim Sangkyum,Male,05-02-2017,Bansko,BUL,Korea,World Cup,Parallel GS,10,260.00
+256,Kim Sangkyum,Male,03-02-2017,Bansko,BUL,Korea,World Cup,Parallel GS,27,45.00
+257,Kim Sangkyum,Male,28-01-2017,Rogla,SLO,Korea,World Cup,Parallel GS,13,200.00
+258,Kim Sangkyum,Male,21-01-2017,Livigno,ITA,Korea,European Cup,Parallel GS,1,360.00
+259,Kim Sangkyum,Male,20-01-2017,Livigno,ITA,Korea,European Cup,Parallel GS,3,216.00
+260,Kim Sangkyum,Male,11-01-2017,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom Team,14,
+261,Kim Sangkyum,Male,10-01-2017,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,50,
+262,Kim Sangkyum,Male,07-01-2017,Gerlitzen,AUT,Korea,European Cup,Parallel GS,2,288.00
+263,Kim Sangkyum,Male,17-12-2016,Cortina d'Ampezzo,ITA,Korea,World Cup,Parallel Slalom,50,
+264,Kim Sangkyum,Male,15-12-2016,Carezza,ITA,Korea,World Cup,Parallel GS,26,50.00
+265,Kim Sangkyum,Male,11-12-2016,Hochfügen,GER,Korea,European Cup,Parallel GS,10,93.60
+266,Kim Sangkyum,Male,10-12-2016,Hochfügen,GER,Korea,European Cup,Parallel GS,19,43.20
+267,Kim Sangkyum,Male,04-11-2016,Landgraaf,NED,Korea,European Cup,Parallel Slalom,28,14.40
+268,Kim Sangkyum,Male,03-11-2016,Landgraaf,NED,Korea,European Cup,Parallel Slalom,15,57.60
+269,Kim Sangkyum,Male,08-04-2016,Breuil Cervinia - Valtournenche,ITA,Korea,National Championships,Parallel Slalom,9,104.40
+270,Kim Sangkyum,Male,07-04-2016,Breuil Cervinia - Valtournenche,ITA,Korea,National Championships,Parallel GS,3,216.00
+271,Kim Sangkyum,Male,27-03-2016,Racines,ITA,Korea,European Cup,Parallel Slalom,33,10.80
+272,Kim Sangkyum,Male,26-03-2016,Racines,ITA,Korea,European Cup,Parallel Slalom,8,160.00
+273,Kim Sangkyum,Male,24-03-2016,Rogla,SLO,Korea,European Cup,Parallel Slalom,DSQ1,
+274,Kim Sangkyum,Male,23-03-2016,Rogla,SLO,Korea,European Cup,Parallel GS,18,65.00
+275,Kim Sangkyum,Male,20-03-2016,Gerlitzen,AUT,Korea,European Cup,Parallel GS,6,200.00
+276,Kim Sangkyum,Male,19-03-2016,Gerlitzen,AUT,Korea,European Cup,Parallel GS,12,110.00
+277,Kim Sangkyum,Male,04-03-2016,High 1 Resort,KOR,Korea,National Championships,Parallel Slalom,2,112.00
+278,Kim Sangkyum,Male,03-03-2016,High 1 Resort,KOR,Korea,National Championships,Parallel GS,3,84.00
+279,Kim Sangkyum,Male,28-02-2016,Le Relais,CAN,Korea,Nor-Am Cup,Parallel Slalom,1,260.00
+280,Kim Sangkyum,Male,27-02-2016,Le Relais,CAN,Korea,Nor-Am Cup,Parallel Slalom,4,130.00
+281,Kim Sangkyum,Male,23-02-2016,"Holiday Valley Resort, NY",USA,Korea,Nor-Am Cup,Parallel GS,4,100.00
+282,Kim Sangkyum,Male,22-02-2016,"Holiday Valley Resort, NY",USA,Korea,Nor-Am Cup,Parallel GS,3,120.00
+283,Kim Sangkyum,Male,18-02-2016,Toronto Ski Club,CAN,Korea,Nor-Am Cup,Parallel GS,1,200.00
+284,Kim Sangkyum,Male,17-02-2016,Toronto Ski Club,CAN,Korea,Nor-Am Cup,Parallel GS,1,200.00
+285,Kim Sangkyum,Male,06-12-2015,Hochfuegen,GER,Korea,European Cup,Parallel GS,31,14.00
+286,Kim Sangkyum,Male,05-12-2015,Hochfuegen,GER,Korea,European Cup,Parallel GS,41,9.10
+287,Kim Sangkyum,Male,16-10-2015,Landgraaf,NED,Korea,European Cup,Parallel Slalom,24,35.00
+288,Kim Sangkyum,Male,15-10-2015,Landgraaf,NED,Korea,European Cup,Parallel Slalom,14,90.00
+289,Kim Sangkyum,Male,04-04-2015,Sapporo,JPN,Korea,National Championships,Giant Slalom,1,260.00
+290,Kim Sangkyum,Male,04-04-2015,Sapporo,JPN,Korea,FIS,Giant Slalom,6,104.00
+291,Kim Sangkyum,Male,29-03-2015,Grächen,SUI,Korea,National Championships,Parallel Slalom,13,72.00
+292,Kim Sangkyum,Male,27-03-2015,Canazei,ITA,Korea,National Championships,Parallel Slalom,25,21.60
+293,Kim Sangkyum,Male,26-03-2015,Canazei,ITA,Korea,National Championships,Parallel GS,12,79.20
+294,Kim Sangkyum,Male,22-03-2015,Racines,ITA,Korea,European Cup,Parallel Slalom,8,160.00
+295,Kim Sangkyum,Male,21-03-2015,Racines,ITA,Korea,European Cup,Parallel Slalom,19,60.00
+296,Kim Sangkyum,Male,18-03-2015,Rogla,SLO,Korea,European Cup,Parallel Slalom,20,55.00
+297,Kim Sangkyum,Male,07-03-2015,Moscow,RUS,Korea,World Cup,Parallel Slalom,37,0.00
+298,Kim Sangkyum,Male,01-03-2015,Asahikawa,JPN,Korea,World Cup,Parallel Slalom,41,0.00
+299,Kim Sangkyum,Male,28-02-2015,Asahikawa,JPN,Korea,World Cup,Parallel GS,38,19.10
+300,Kim Sangkyum,Male,07-02-2015,Sudelfeld,GER,Korea,World Cup,Parallel GS,39,18.80
+301,Kim Sangkyum,Male,06-02-2015,Sudelfeld,GER,Korea,Qualification,Parallel GS,39,
+302,Kim Sangkyum,Male,24-01-2015,Samnaun,SUI,Korea,FIS,Parallel Slalom,15,41.60
+303,Kim Sangkyum,Male,23-01-2015,Lachtal,AUT,Korea,World Championships,Parallel GS,27,45.00
+304,Kim Sangkyum,Male,22-01-2015,Lachtal,AUT,Korea,World Championships,Parallel Slalom,35,20.00
+305,Kim Sangkyum,Male,06-01-2015,Dachstein West / Gosau,AUT,Korea,FIS,Parallel Slalom,25,15.60
+306,Kim Sangkyum,Male,05-01-2015,Dachstein West / Gosau,AUT,Korea,FIS,Parallel Slalom,13,52.00
+307,Kim Sangkyum,Male,14-03-2014,Mt Tremblant,CAN,Korea,Nor-Am Cup,Parallel Slalom,9,92.80
+308,Kim Sangkyum,Male,13-03-2014,Mt Tremblant,CAN,Korea,Nor-Am Cup,Parallel GS,5,144.00
+309,Kim Sangkyum,Male,04-03-2014,Welli Hilli Park,KOR,Korea,National Championships,Parallel Slalom,3,84.00
+310,Kim Sangkyum,Male,03-03-2014,Welli Hilli Park,KOR,Korea,National Championships,Parallel GS,2,128.00
+311,Kim Sangkyum,Male,22-02-2014,Rosa Khutor,RUS,Korea,Olympic Winter Games,Parallel Slalom,26,50.00
+312,Kim Sangkyum,Male,19-02-2014,Rosa Khutor,RUS,Korea,Olympic Winter Games,Parallel GS,17,140.00
+313,Kim Sangkyum,Male,18-01-2014,Rogla,SLO,Korea,World Cup,Parallel GS,59,0.00
+314,Kim Sangkyum,Male,12-01-2014,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,37,19.40
+315,Kim Sangkyum,Male,10-01-2014,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,37,19.40
+316,Kim Sangkyum,Male,22-12-2013,Schönberg-Lachtal,AUT,Korea,European Cup,Parallel Slalom,43,8.80
+317,Kim Sangkyum,Male,21-12-2013,Schönberg-Lachtal,AUT,Korea,European Cup,Parallel Slalom,42,8.95
+318,Kim Sangkyum,Male,19-12-2013,Monte Bondone - Canalon Lavaman,ITA,Korea,Universiade,Parallel GS,4,200.00
+319,Kim Sangkyum,Male,15-12-2013,Samnaun,SUI,Korea,FIS,Parallel Slalom,15,41.60
+320,Kim Sangkyum,Male,14-12-2013,Carezza,ITA,Korea,World Cup,Parallel Slalom,56,0.00
+321,Kim Sangkyum,Male,13-12-2013,Carezza,ITA,Korea,World Cup,Parallel GS,50,15.50
+322,Kim Sangkyum,Male,08-12-2013,Hochfügen,AUT,Korea,European Cup,Parallel GS,13,100.00
+323,Kim Sangkyum,Male,07-12-2013,Hochfügen,AUT,Korea,European Cup,Parallel GS,21,50.00
+324,Kim Sangkyum,Male,15-11-2013,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,8,160.00
+325,Kim Sangkyum,Male,14-11-2013,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,20,55.00
+326,Kim Sangkyum,Male,04-04-2013,Rusutsu,JPN,Korea,National Championships,Parallel GS,9,104.40
+327,Kim Sangkyum,Male,27-03-2013,Le Relais,CAN,Korea,Nor-Am Cup,Parallel Slalom,10,104.00
+328,Kim Sangkyum,Male,26-03-2013,Le Relais,CAN,Korea,Nor-Am Cup,Parallel GS,6,144.00
+329,Kim Sangkyum,Male,16-03-2013,La Molina,ESP,Korea,World Cup,Parallel GS,49,0.00
+330,Kim Sangkyum,Male,10-03-2013,Arosa,SUI,Korea,World Cup,Parallel GS,51,0.00
+331,Kim Sangkyum,Male,03-03-2013,Gerlitzen,AUT,Korea,FIS,Parallel Slalom,21,26.00
+332,Kim Sangkyum,Male,02-03-2013,Gerlitzen,AUT,Korea,European Cup,Parallel Slalom,40,9.25
+333,Kim Sangkyum,Male,23-02-2013,Moscow,RUS,Korea,World Cup,Parallel Slalom,26,50.00
+334,Kim Sangkyum,Male,14-02-2013,Sochi,RUS,Korea,World Cup,Parallel GS,51,
+335,Kim Sangkyum,Male,08-02-2013,Rogla,SLO,Korea,World Cup,Parallel GS,44,17.30
+336,Kim Sangkyum,Male,27-01-2013,Stoneham,CAN,Korea,World Championships,Parallel Slalom,24,70.00
+337,Kim Sangkyum,Male,25-01-2013,Stoneham,CAN,Korea,World Championships,Parallel GS,23,80.00
+338,Kim Sangkyum,Male,20-01-2013,"Le Relais, QC",CAN,Korea,Nor-Am Cup,Parallel Slalom,18,65.00
+339,Kim Sangkyum,Male,19-01-2013,"Le Relais, QC",CAN,Korea,Nor-Am Cup,Parallel GS,12,110.00
+340,Kim Sangkyum,Male,12-01-2013,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,32,26.00
+341,Kim Sangkyum,Male,11-01-2013,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,56,0.00
+342,Kim Sangkyum,Male,16-12-2012,Racines/Ratschings,ITA,Korea,European Cup,Parallel Slalom,55,7.00
+343,Kim Sangkyum,Male,15-12-2012,Racines/Ratschings,ITA,Korea,European Cup,Parallel Slalom,DSQ,
+344,Kim Sangkyum,Male,09-12-2012,Lachtal,AUT,Korea,European Cup,Parallel GS,63,5.80
+345,Kim Sangkyum,Male,08-12-2012,Lachtal,AUT,Korea,European Cup,Parallel GS,DSQ,
+346,Kim Sangkyum,Male,14-11-2012,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,10,117.00
+347,Kim Sangkyum,Male,13-11-2012,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel GS,11,108.00
+348,Kim Sangkyum,Male,08-04-2012,Sapporo,JPN,Korea,FIS,Giant Slalom,3,96.00
+349,Kim Sangkyum,Male,05-04-2012,Rusutsu,JPN,Korea,National Championships,Parallel GS,1,160.00
+350,Kim Sangkyum,Male,24-02-2012,Phoenix Park,KOR,Korea,National Championships,Parallel GS,1,90.00
+351,Kim Sangkyum,Male,22-12-2011,Carezza,ITA,Korea,World Cup,Parallel Slalom,33,
+352,Kim Sangkyum,Male,21-12-2011,Carezza,ITA,Korea,World Cup,Parallel GS,36,19.70
+353,Kim Sangkyum,Male,13-10-2011,Landgraaf,NED,Korea,World Cup,Parallel Slalom,43,0.00
+354,Kim Sangkyum,Male,27-03-2011,Lachtal,AUT,Korea,European Cup,Parallel Slalom,51,4.41
+355,Kim Sangkyum,Male,26-03-2011,Lachtal,AUT,Korea,European Cup,Parallel Slalom,2,232.00
+356,Kim Sangkyum,Male,25-03-2011,Lachtal,AUT,Korea,European Cup,Parallel GS,7,104.40
+357,Kim Sangkyum,Male,09-02-2011,Yongpyong,KOR,Korea,World Cup,Parallel Slalom,21,100.00
+358,Kim Sangkyum,Male,01-02-2011,Palandoken/Erzurum,TUR,Korea,Universiade,Parallel GS,1,320.00
+359,Kim Sangkyum,Male,22-01-2011,La Molina,ESP,Korea,World Championships,Parallel Slalom,26,50.00
+360,Kim Sangkyum,Male,19-01-2011,La Molina,ESP,Korea,World Championships,Parallel GS,27,45.00
+361,Kim Sangkyum,Male,05-03-2010,Minamiuonuma,JPN,Korea,National Championships,Parallel GS,9,52.20
+362,Kim Sangkyum,Male,19-02-2010,Sungwoo Resort,KOR,Korea,FIS,Parallel Slalom,4,45.00
+363,Kim Sangkyum,Male,09-10-2009,Landgraaf,NED,Korea,World Cup,Parallel Slalom,48,0.00
+364,Kim Sangkyum,Male,06-03-2009,Nagano,JPN,Korea,FIS Junior World Championships,Parallel Slalom,21,36.00
+365,Kim Sangkyum,Male,05-03-2009,Nagano,JPN,Korea,FIS Junior World Championships,Parallel GS,20,39.60
+366,Kim Sangkyum,Male,23-02-2009,Maoer Mountain,CHN,Korea,Universiade,Parallel GS,9,58.00
+367,Kim Sangkyum,Male,21-01-2009,Gangwon,KOR,Korea,World Championships,Parallel Slalom,39,18.80
+368,Kim Sangkyum,Male,20-01-2009,Gangwon,KOR,Korea,World Championships,Parallel GS,27,45.00
+369,Kim Sangkyum,Male,13-01-2009,LG Serveone Konjiam Resort,KOR,Korea,Asian Cup,Parallel GS,17,63.00
+370,Kim Sangkyum,Male,14-12-2008,Haus/Ennstal,AUT,Korea,FIS,Parallel GS,4,65.00
+371,Kim Sangkyum,Male,13-12-2008,Haus/Ennstal,AUT,Korea,FIS,Parallel GS,6,80.00
+372,Kim Sangkyum,Male,07-12-2008,Innsbruck/Patscherkofel,AUT,Korea,FIS,Parallel Slalom,50,4.03
+373,Kim Sangkyum,Male,06-12-2008,Innsbruck/Patscherkofel,AUT,Korea,FIS,Parallel Slalom,130,
+374,Kim Sangkyum,Male,30-11-2008,"Hochfügen, Zillertal",AUT,Korea,National Championships,Parallel GS,17,50.40
+375,Kim Sangkyum,Male,27-02-2008,Minamiuonuma,JPN,Korea,National Championships,Parallel GS,23,11.20
+376,Kim Sangkyum,Male,18-12-2007,Nendaz,SUI,Korea,European Cup,Parallel Slalom,45,8.50
+377,Kim Sangkyum,Male,15-12-2007,Carezza,ITA,Korea,European Cup,Giant Slalom,27,11.70
+378,Kim Sangkyum,Male,08-12-2007,Haus im Ennstal,AUT,Korea,FIS,Giant Slalom,60,2.50
+379,Kim Sangkyum,Male,07-12-2007,Haus im Ennstal,AUT,Korea,European Cup,Giant Slalom,55,3.36
+380,Kim Sangkyum,Male,02-12-2007,Kühtai,AUT,Korea,FIS,Parallel Slalom,70,2.47
+381,Kim Sangkyum,Male,01-12-2007,Kühtai,AUT,Korea,FIS,Parallel Slalom,59,3.33
+382,Kim Sangkyum,Male,11-03-2007,Gujo,JPN,Korea,National Championships,Snowboardcross,44,1.21
+383,Kim Sangkyum,Male,09-03-2007,Gujo,JPN,Korea,National Championships,Parallel GS,12,22.00
+384,Kim Sangkyum,Male,26-01-2007,Bardonecchia,ITA,Korea,Universiade,Giant Slalom,15,46.40
+385,Kim Sangkyum,Male,25-03-2006,Tsubetsu,JPN,Korea,National Championships,Snowboardcross,28,3.60
+386,Kim Sangkyum,Male,24-03-2006,Tsubetsu,JPN,Korea,National Championships,Parallel GS,13,26.00
+387,Kim Sangkyum,Male,06-02-2006,Vivaldi Park,KOR,Korea,FIS Junior World Championships,Parallel GS,26,18.00
+388,Kim Sangkyum,Male,03-02-2006,Vivaldi Park,KOR,Korea,FIS Junior World Championships,Snowboardcross,64,4.07
+389,Kim Sangkyum,Male,25-01-2005,Daemyung Vivaldi Resort,KOR,Korea,FIS,Parallel GS,22,14.40

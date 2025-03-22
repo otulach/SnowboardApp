@@ -1,69 +1,71 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Pelchat Juliette,Female,14-03-2025,Flachau,AUT,Canada,World Cup,Slopestyle,13,190.60
-1,Pelchat Juliette,Female,13-03-2025,Flachau,AUT,Canada,Qualification,Slopestyle,8,
-2,Pelchat Juliette,Female,10-03-2025,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Big Air,2,96.40
-3,Pelchat Juliette,Female,09-03-2025,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Slopestyle,1,120.00
-4,Pelchat Juliette,Female,05-03-2025,Stoneham,CAN,Canada,Nor-Am Cup,Big Air,1,140.00
-5,Pelchat Juliette,Female,04-03-2025,Stoneham,CAN,Canada,Nor-Am Cup,Slopestyle,2,145.30
-6,Pelchat Juliette,Female,26-02-2025,Winsport Calgary,CAN,Canada,Nor-Am Cup Premium,Big Air,3,202.30
-7,Pelchat Juliette,Female,25-02-2025,Winsport Calgary,CAN,Canada,Nor-Am Cup Premium,Slopestyle,4,177.60
-8,Pelchat Juliette,Female,22-02-2025,Calgary,CAN,Canada,World Cup,Slopestyle,23,45.20
-9,Pelchat Juliette,Female,20-02-2025,Calgary,CAN,Canada,Qualification,Slopestyle,23,
-10,Pelchat Juliette,Female,12-02-2025,Aspen / Highlands,USA,Canada,Nor-Am Cup Premium,Slopestyle,4,144.30
-11,Pelchat Juliette,Female,06-02-2025,Aspen,USA,Canada,World Cup,Big Air,19,61.20
-12,Pelchat Juliette,Female,05-02-2025,Aspen,USA,Canada,Qualification,Big Air,19,
-13,Pelchat Juliette,Female,02-02-2025,Aspen,USA,Canada,World Cup,Slopestyle,17,125.80
-14,Pelchat Juliette,Female,31-01-2025,Aspen,USA,Canada,Qualification,Slopestyle,17,
-15,Pelchat Juliette,Female,13-01-2025,"Copper Mountain, CO",USA,Canada,Nor-Am Cup,Slopestyle,6,45.20
-16,Pelchat Juliette,Female,01-12-2024,Beijing,CHN,Canada,World Cup,Big Air,20,38.40
-17,Pelchat Juliette,Female,30-11-2024,Beijing,CHN,Canada,Qualification,Big Air,20,
-18,Pelchat Juliette,Female,03-04-2024,Stoneham,CAN,Canada,Nor-Am Cup,Big Air,DNS,
-19,Pelchat Juliette,Female,03-04-2024,Stoneham,CAN,Canada,Nor-Am Cup,Slopestyle,2,153.00
-20,Pelchat Juliette,Female,23-03-2024,Silvaplana,SUI,Canada,World Cup,Slopestyle,16,82.70
-21,Pelchat Juliette,Female,21-03-2024,Silvaplana,SUI,Canada,Qualification,Slopestyle,16,
-22,Pelchat Juliette,Female,15-03-2024,Tignes,FRA,Canada,World Cup,Slopestyle,14,64.20
-23,Pelchat Juliette,Female,14-03-2024,Tignes,FRA,Canada,Qualification,Slopestyle,14,
-24,Pelchat Juliette,Female,08-02-2024,Mammoth Mountain,USA,Canada,Nor-Am Cup Premium,Slopestyle,11,42.50
-25,Pelchat Juliette,Female,26-01-2024,Copper Mountain,USA,Canada,Nor-Am Cup,Slopestyle,2,113.80
-26,Pelchat Juliette,Female,20-01-2024,Laax,SUI,Canada,World Cup,Slopestyle,19,91.40
-27,Pelchat Juliette,Female,16-01-2024,Laax,SUI,Canada,Qualification,Slopestyle,19,
-28,Pelchat Juliette,Female,09-12-2023,Edmonton,CAN,Canada,World Cup,Big Air,10,114.20
-29,Pelchat Juliette,Female,08-12-2023,Edmonton,CAN,Canada,Qualification,Big Air,10,
-30,Pelchat Juliette,Female,21-10-2023,Chur,SUI,Canada,World Cup,Big Air,DNS,
-31,Pelchat Juliette,Female,21-10-2023,Chur,SUI,Canada,Qualification,Big Air,DNS,
-32,Pelchat Juliette,Female,29-09-2023,Cardrona,NZL,Canada,Australian New Zealand Cup,Slopestyle,13,16.30
-33,Pelchat Juliette,Female,25-03-2023,Silvaplana,SUI,Canada,World Cup,Slopestyle,DNS,
-34,Pelchat Juliette,Female,23-03-2023,Silvaplana,SUI,Canada,Qualification,Slopestyle,DNS,
-35,Pelchat Juliette,Female,17-03-2023,Laax,SUI,Canada,European Cup Premium,Slopestyle,9,93.50
-36,Pelchat Juliette,Female,10-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Big Air,9,0.20
-37,Pelchat Juliette,Female,09-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Slopestyle,2,145.30
-38,Pelchat Juliette,Female,08-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Slopestyle,11,13.20
-39,Pelchat Juliette,Female,16-02-2023,Winsport Calgary,CAN,Canada,Nor-Am Cup,Big Air,4,53.10
-40,Pelchat Juliette,Female,15-02-2023,Winsport Calgary,CAN,Canada,Nor-Am Cup,Slopestyle,1,180.00
-41,Pelchat Juliette,Female,12-02-2023,Calgary,CAN,Canada,World Cup,Slopestyle,6,169.70
-42,Pelchat Juliette,Female,11-02-2023,Calgary,CAN,Canada,Qualification,Slopestyle,7,
-43,Pelchat Juliette,Female,22-01-2023,Laax,SUI,Canada,World Cup,Slopestyle,24,39.00
-44,Pelchat Juliette,Female,20-01-2023,Laax,SUI,Canada,Qualification,Slopestyle,24,
-45,Pelchat Juliette,Female,10-12-2022,Edmonton,CAN,Canada,World Cup,Big Air,11,58.30
-46,Pelchat Juliette,Female,09-12-2022,Edmonton,CAN,Canada,Qualification,Big Air,11,
-47,Pelchat Juliette,Female,22-10-2022,Chur,SUI,Canada,Qualification,Big Air,21,
-48,Pelchat Juliette,Female,22-10-2022,Chur,SUI,Canada,World Cup,Big Air,21,0.50
-49,Pelchat Juliette,Female,10-03-2020,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,1,70.00
-50,Pelchat Juliette,Female,25-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,2,176.00
-51,Pelchat Juliette,Female,24-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,2,176.00
-52,Pelchat Juliette,Female,14-02-2020,Tremblant.QC,CAN,Canada,FIS,Slopestyle,1,70.00
-53,Pelchat Juliette,Female,13-02-2020,Tremblant.QC,CAN,Canada,FIS,Slopestyle,1,70.00
-54,Pelchat Juliette,Female,07-02-2020,Mammoth Mountain Ski Resort,USA,Canada,Nor-Am Cup,Slopestyle,8,51.20
-55,Pelchat Juliette,Female,22-01-2020,Leysin,SUI,Canada,Youth Olympic Winter Games,Big Air,DNS,
-56,Pelchat Juliette,Female,21-01-2020,Leysin,SUI,Canada,Qualification,Big Air,DNS,
-57,Pelchat Juliette,Female,18-01-2020,Leysin,SUI,Canada,Youth Olympic Winter Games,Slopestyle,19,19.20
-58,Pelchat Juliette,Female,10-01-2020,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,1,70.00
-59,Pelchat Juliette,Female,24-03-2019,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,1,50.00
-60,Pelchat Juliette,Female,21-03-2019,"Canada Olympic Park, AB",CAN,Canada,Nor-Am Cup,Slopestyle,6,96.00
-61,Pelchat Juliette,Female,17-03-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,1,50.00
-62,Pelchat Juliette,Female,17-02-2019,Mt Seymour,CAN,Canada,FIS,Slopestyle,1,50.00
-63,Pelchat Juliette,Female,16-02-2019,Mt Seymour,CAN,Canada,FIS,Slopestyle,1,50.00
-64,Pelchat Juliette,Female,20-01-2019,Big White Ski Resort,CAN,Canada,FIS,Slopestyle,3,30.00
-65,Pelchat Juliette,Female,19-01-2019,Big White Ski Resort,CAN,Canada,FIS,Slopestyle,3,30.00
-66,Pelchat Juliette,Female,13-01-2019,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,1,50.00
-67,Pelchat Juliette,Female,12-01-2019,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,1,50.00
+0,Pelchat Juliette,Female,21-03-2025,"Mammoth Mountain, CA",USA,Canada,Nor-Am Cup,Big Air,2,
+1,Pelchat Juliette,Female,20-03-2025,"Mammoth Mountain, CA",USA,Canada,Nor-Am Cup,Slopestyle,2,105.00
+2,Pelchat Juliette,Female,14-03-2025,Flachau,AUT,Canada,World Cup,Slopestyle,13,190.60
+3,Pelchat Juliette,Female,13-03-2025,Flachau,AUT,Canada,Qualification,Slopestyle,8,
+4,Pelchat Juliette,Female,10-03-2025,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Big Air,2,96.40
+5,Pelchat Juliette,Female,09-03-2025,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Slopestyle,1,120.00
+6,Pelchat Juliette,Female,05-03-2025,Stoneham,CAN,Canada,Nor-Am Cup,Big Air,1,140.00
+7,Pelchat Juliette,Female,04-03-2025,Stoneham,CAN,Canada,Nor-Am Cup,Slopestyle,2,145.30
+8,Pelchat Juliette,Female,26-02-2025,Winsport Calgary,CAN,Canada,Nor-Am Cup Premium,Big Air,3,202.30
+9,Pelchat Juliette,Female,25-02-2025,Winsport Calgary,CAN,Canada,Nor-Am Cup Premium,Slopestyle,4,177.60
+10,Pelchat Juliette,Female,22-02-2025,Calgary,CAN,Canada,World Cup,Slopestyle,23,45.20
+11,Pelchat Juliette,Female,20-02-2025,Calgary,CAN,Canada,Qualification,Slopestyle,23,
+12,Pelchat Juliette,Female,12-02-2025,Aspen / Highlands,USA,Canada,Nor-Am Cup Premium,Slopestyle,4,144.30
+13,Pelchat Juliette,Female,06-02-2025,Aspen,USA,Canada,World Cup,Big Air,19,61.20
+14,Pelchat Juliette,Female,05-02-2025,Aspen,USA,Canada,Qualification,Big Air,19,
+15,Pelchat Juliette,Female,02-02-2025,Aspen,USA,Canada,World Cup,Slopestyle,17,125.80
+16,Pelchat Juliette,Female,31-01-2025,Aspen,USA,Canada,Qualification,Slopestyle,17,
+17,Pelchat Juliette,Female,13-01-2025,"Copper Mountain, CO",USA,Canada,Nor-Am Cup,Slopestyle,6,45.20
+18,Pelchat Juliette,Female,01-12-2024,Beijing,CHN,Canada,World Cup,Big Air,20,38.40
+19,Pelchat Juliette,Female,30-11-2024,Beijing,CHN,Canada,Qualification,Big Air,20,
+20,Pelchat Juliette,Female,03-04-2024,Stoneham,CAN,Canada,Nor-Am Cup,Slopestyle,2,153.00
+21,Pelchat Juliette,Female,03-04-2024,Stoneham,CAN,Canada,Nor-Am Cup,Big Air,DNS,
+22,Pelchat Juliette,Female,23-03-2024,Silvaplana,SUI,Canada,World Cup,Slopestyle,16,82.70
+23,Pelchat Juliette,Female,21-03-2024,Silvaplana,SUI,Canada,Qualification,Slopestyle,16,
+24,Pelchat Juliette,Female,15-03-2024,Tignes,FRA,Canada,World Cup,Slopestyle,14,64.20
+25,Pelchat Juliette,Female,14-03-2024,Tignes,FRA,Canada,Qualification,Slopestyle,14,
+26,Pelchat Juliette,Female,08-02-2024,Mammoth Mountain,USA,Canada,Nor-Am Cup Premium,Slopestyle,11,42.50
+27,Pelchat Juliette,Female,26-01-2024,Copper Mountain,USA,Canada,Nor-Am Cup,Slopestyle,2,113.80
+28,Pelchat Juliette,Female,20-01-2024,Laax,SUI,Canada,World Cup,Slopestyle,19,91.40
+29,Pelchat Juliette,Female,16-01-2024,Laax,SUI,Canada,Qualification,Slopestyle,19,
+30,Pelchat Juliette,Female,09-12-2023,Edmonton,CAN,Canada,World Cup,Big Air,10,114.20
+31,Pelchat Juliette,Female,08-12-2023,Edmonton,CAN,Canada,Qualification,Big Air,10,
+32,Pelchat Juliette,Female,21-10-2023,Chur,SUI,Canada,Qualification,Big Air,DNS,
+33,Pelchat Juliette,Female,21-10-2023,Chur,SUI,Canada,World Cup,Big Air,DNS,
+34,Pelchat Juliette,Female,29-09-2023,Cardrona,NZL,Canada,Australian New Zealand Cup,Slopestyle,13,16.30
+35,Pelchat Juliette,Female,25-03-2023,Silvaplana,SUI,Canada,World Cup,Slopestyle,DNS,
+36,Pelchat Juliette,Female,23-03-2023,Silvaplana,SUI,Canada,Qualification,Slopestyle,DNS,
+37,Pelchat Juliette,Female,17-03-2023,Laax,SUI,Canada,European Cup Premium,Slopestyle,9,93.50
+38,Pelchat Juliette,Female,10-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Big Air,9,0.20
+39,Pelchat Juliette,Female,09-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Slopestyle,2,145.30
+40,Pelchat Juliette,Female,08-03-2023,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Slopestyle,11,13.20
+41,Pelchat Juliette,Female,16-02-2023,Winsport Calgary,CAN,Canada,Nor-Am Cup,Big Air,4,53.10
+42,Pelchat Juliette,Female,15-02-2023,Winsport Calgary,CAN,Canada,Nor-Am Cup,Slopestyle,1,180.00
+43,Pelchat Juliette,Female,12-02-2023,Calgary,CAN,Canada,World Cup,Slopestyle,6,169.70
+44,Pelchat Juliette,Female,11-02-2023,Calgary,CAN,Canada,Qualification,Slopestyle,7,
+45,Pelchat Juliette,Female,22-01-2023,Laax,SUI,Canada,World Cup,Slopestyle,24,39.00
+46,Pelchat Juliette,Female,20-01-2023,Laax,SUI,Canada,Qualification,Slopestyle,24,
+47,Pelchat Juliette,Female,10-12-2022,Edmonton,CAN,Canada,World Cup,Big Air,11,58.30
+48,Pelchat Juliette,Female,09-12-2022,Edmonton,CAN,Canada,Qualification,Big Air,11,
+49,Pelchat Juliette,Female,22-10-2022,Chur,SUI,Canada,Qualification,Big Air,21,
+50,Pelchat Juliette,Female,22-10-2022,Chur,SUI,Canada,World Cup,Big Air,21,0.50
+51,Pelchat Juliette,Female,10-03-2020,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,1,70.00
+52,Pelchat Juliette,Female,25-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,2,176.00
+53,Pelchat Juliette,Female,24-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,2,176.00
+54,Pelchat Juliette,Female,14-02-2020,Tremblant.QC,CAN,Canada,FIS,Slopestyle,1,70.00
+55,Pelchat Juliette,Female,13-02-2020,Tremblant.QC,CAN,Canada,FIS,Slopestyle,1,70.00
+56,Pelchat Juliette,Female,07-02-2020,Mammoth Mountain Ski Resort,USA,Canada,Nor-Am Cup,Slopestyle,8,51.20
+57,Pelchat Juliette,Female,22-01-2020,Leysin,SUI,Canada,Youth Olympic Winter Games,Big Air,DNS,
+58,Pelchat Juliette,Female,21-01-2020,Leysin,SUI,Canada,Qualification,Big Air,DNS,
+59,Pelchat Juliette,Female,18-01-2020,Leysin,SUI,Canada,Youth Olympic Winter Games,Slopestyle,19,19.20
+60,Pelchat Juliette,Female,10-01-2020,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,1,70.00
+61,Pelchat Juliette,Female,24-03-2019,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,1,50.00
+62,Pelchat Juliette,Female,21-03-2019,"Canada Olympic Park, AB",CAN,Canada,Nor-Am Cup,Slopestyle,6,96.00
+63,Pelchat Juliette,Female,17-03-2019,"Canada Olympic Park, AB",CAN,Canada,FIS,Slopestyle,1,50.00
+64,Pelchat Juliette,Female,17-02-2019,Mt Seymour,CAN,Canada,FIS,Slopestyle,1,50.00
+65,Pelchat Juliette,Female,16-02-2019,Mt Seymour,CAN,Canada,FIS,Slopestyle,1,50.00
+66,Pelchat Juliette,Female,20-01-2019,Big White Ski Resort,CAN,Canada,FIS,Slopestyle,3,30.00
+67,Pelchat Juliette,Female,19-01-2019,Big White Ski Resort,CAN,Canada,FIS,Slopestyle,3,30.00
+68,Pelchat Juliette,Female,13-01-2019,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,1,50.00
+69,Pelchat Juliette,Female,12-01-2019,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,1,50.00

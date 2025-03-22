@@ -1,90 +1,92 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Furrer Julian,Male,15-03-2025,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,16,30.00
-1,Furrer Julian,Male,13-03-2025,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,9,58.00
-2,Furrer Julian,Male,28-02-2025,Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,4,90.00
-3,Furrer Julian,Male,27-02-2025,Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,17,25.20
-4,Furrer Julian,Male,23-02-2025,Colere,ITA,Switzerland,FIS,Snowboard Cross,8,57.60
-5,Furrer Julian,Male,22-02-2025,Colere,ITA,Switzerland,FIS,Snowboard Cross,10,46.80
-6,Furrer Julian,Male,08-02-2025,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,4,100.00
-7,Furrer Julian,Male,31-01-2025,St. Lary,FRA,Switzerland,European Cup,Snowboard Cross,7,64.80
-8,Furrer Julian,Male,24-01-2025,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,17,25.20
-9,Furrer Julian,Male,23-01-2025,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,48,
-10,Furrer Julian,Male,14-12-2024,Cervinia,ITA,Switzerland,World Cup,Snowboard Cross,61,12.20
-11,Furrer Julian,Male,13-12-2024,Cervinia,ITA,Switzerland,Qualification,Snowboard Cross,61,
-12,Furrer Julian,Male,27-11-2024,Pitztal,AUT,Switzerland,Qualification,Snowboard Cross,34,
-13,Furrer Julian,Male,27-11-2024,Pitztal,AUT,Switzerland,European Cup,Snowboard Cross,34,7.92
-14,Furrer Julian,Male,24-03-2024,Lenk,SUI,Switzerland,National Championships,Snowboard Cross,14,21.60
-15,Furrer Julian,Male,22-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,31,6.72
-16,Furrer Julian,Male,21-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,18,31.20
-17,Furrer Julian,Male,14-03-2024,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,25,12.00
-18,Furrer Julian,Male,13-03-2024,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,9,58.00
-19,Furrer Julian,Male,02-03-2024,St. Moritz,SUI,Switzerland,FIS,Snowboard Cross,4,70.00
-20,Furrer Julian,Male,25-02-2024,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,6,116.00
-21,Furrer Julian,Male,24-02-2024,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,18,41.60
-22,Furrer Julian,Male,17-02-2024,Colere,ITA,Switzerland,European Cup,Snowboard Cross,4,120.00
-23,Furrer Julian,Male,16-02-2024,Colere,ITA,Switzerland,European Cup,Snowboard Cross,21,24.00
-24,Furrer Julian,Male,06-02-2024,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,24,14.00
-25,Furrer Julian,Male,05-02-2024,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,19,24.00
-26,Furrer Julian,Male,01-02-2024,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,16,33.00
-27,Furrer Julian,Male,31-01-2024,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,37,4.27
-28,Furrer Julian,Male,28-01-2024,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,16,30.00
-29,Furrer Julian,Male,27-01-2024,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,18,26.00
-30,Furrer Julian,Male,20-01-2024,Montafon,AUT,Switzerland,National Championships,Snowboard Cross,48,4.67
-31,Furrer Julian,Male,09-12-2023,Pitztal,AUT,Switzerland,FIS,Snowboard Cross,16,21.00
-32,Furrer Julian,Male,01-04-2023,St. Moritz,SUI,Switzerland,National Championships,Snowboard Cross,11,69.60
-33,Furrer Julian,Male,31-03-2023,Passo San Pellegrino,ITA,Switzerland,FIS Junior World Championships,Snowboard Cross Team,25,
-34,Furrer Julian,Male,30-03-2023,Passo San Pellegrino,ITA,Switzerland,FIS Junior World Championships,Snowboard Cross,33,7.68
-35,Furrer Julian,Male,19-03-2023,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,43,3.17
-36,Furrer Julian,Male,18-03-2023,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,23,14.40
-37,Furrer Julian,Male,12-03-2023,Lenk,SUI,Switzerland,National Junior Championships,Snowboard Cross,13,18.00
-38,Furrer Julian,Male,18-02-2023,Flumserberg,SUI,Switzerland,Junior,Snowboard Cross,DNS,
-39,Furrer Julian,Male,15-02-2023,Moena - Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,DNS,
-40,Furrer Julian,Male,05-02-2023,Dolni Morava,CZE,Switzerland,FIS,Snowboard Cross,12,19.80
-41,Furrer Julian,Male,04-02-2023,Dolni Morava,CZE,Switzerland,FIS,Snowboard Cross,6,36.00
-42,Furrer Julian,Male,03-02-2023,Dolni Morava,CZE,Switzerland,FIS,Snowboard Cross,5,40.50
-43,Furrer Julian,Male,22-01-2023,Puy St.Vincent,FRA,Switzerland,European Cup,Snowboard Cross,25,14.40
-44,Furrer Julian,Male,21-01-2023,Puy St.Vincent,FRA,Switzerland,European Cup,Snowboard Cross,31,6.72
-45,Furrer Julian,Male,14-01-2023,Lenk,SUI,Switzerland,FIS,Snowboard Cross,5,22.50
-46,Furrer Julian,Male,08-01-2023,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,25,7.20
-47,Furrer Julian,Male,07-01-2023,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,3,30.00
-48,Furrer Julian,Male,06-01-2023,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,10,62.40
-49,Furrer Julian,Male,27-11-2022,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,9,46.40
-50,Furrer Julian,Male,26-11-2022,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,26,9.00
-51,Furrer Julian,Male,25-11-2022,Pitztal,AUT,Switzerland,FIS,Snowboard Cross,33,5.28
-52,Furrer Julian,Male,24-11-2022,Pitztal,AUT,Switzerland,European Cup,Snowboard Cross,65,2.64
-53,Furrer Julian,Male,23-11-2022,Pitztal,AUT,Switzerland,Qualification,Snowboard Cross,65,
-54,Furrer Julian,Male,31-03-2022,Veysonnaz,SUI,Switzerland,FIS Junior World Championships,Snowboard Cross,25,15.60
-55,Furrer Julian,Male,27-03-2022,Lenk,SUI,Switzerland,National Championships,Snowboard Cross,21,26.00
-56,Furrer Julian,Male,26-03-2022,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,49,5.69
-57,Furrer Julian,Male,25-03-2022,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,44,6.23
-58,Furrer Julian,Male,20-03-2022,Passo San Pellegrino,ITA,Switzerland,Junior,Snowboard Cross,6,48.00
-59,Furrer Julian,Male,19-03-2022,Passo San Pellegrino,ITA,Switzerland,Junior,Snowboard Cross,12,26.40
-60,Furrer Julian,Male,09-03-2022,Lenk,SUI,Switzerland,Junior,Snowboard Cross,4,25.00
-61,Furrer Julian,Male,04-03-2022,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,19,14.40
-62,Furrer Julian,Male,03-03-2022,Pitztal,AUT,Switzerland,European Cup,Snowboard Cross,33,8.64
-63,Furrer Julian,Male,02-03-2022,Pitztal,AUT,Switzerland,European Cup,Snowboard Cross,46,6.01
-64,Furrer Julian,Male,27-02-2022,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,1,50.00
-65,Furrer Julian,Male,26-02-2022,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,5,22.50
-66,Furrer Julian,Male,20-02-2022,Passo San Pellegrino,ITA,Switzerland,Junior,Snowboard Cross,8,22.40
-67,Furrer Julian,Male,19-02-2022,Passo San Pellegrino,ITA,Switzerland,Junior,Snowboard Cross,5,31.50
-68,Furrer Julian,Male,13-02-2022,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,17,16.80
-69,Furrer Julian,Male,12-02-2022,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,13,24.00
-70,Furrer Julian,Male,23-01-2022,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,48,4.19
-71,Furrer Julian,Male,15-12-2021,Reiteralm,AUT,Switzerland,Junior,Snowboard Cross,17,9.80
-72,Furrer Julian,Male,14-12-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,49,3.48
-73,Furrer Julian,Male,13-12-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,12,48.40
-74,Furrer Julian,Male,20-03-2021,Pizol,SUI,Switzerland,Junior,Parallel Slalom,10,13.00
-75,Furrer Julian,Male,12-03-2021,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,55,3.36
-76,Furrer Julian,Male,28-02-2021,Lenk,SUI,Switzerland,FIS,Snowboard Cross,2,40.00
-77,Furrer Julian,Male,24-01-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,17,9.80
-78,Furrer Julian,Male,23-01-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,21,7.00
-79,Furrer Julian,Male,16-01-2021,Crans-Montana,SUI,Switzerland,FIS,Snowboard Cross,25,13.20
-80,Furrer Julian,Male,23-02-2020,Folgaria,ITA,Switzerland,Junior,Snowboard Cross,32,1.82
-81,Furrer Julian,Male,22-02-2020,Folgaria,ITA,Switzerland,Junior,Snowboard Cross,24,4.90
-82,Furrer Julian,Male,16-02-2020,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,73,1.72
-83,Furrer Julian,Male,15-02-2020,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,80,0.98
-84,Furrer Julian,Male,07-02-2020,Colere,ITA,Switzerland,FIS,Snowboard Cross,DNS,
-85,Furrer Julian,Male,26-01-2020,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,52,1.79
-86,Furrer Julian,Male,25-01-2020,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,47,1.97
-87,Furrer Julian,Male,01-12-2019,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,58,1.83
-88,Furrer Julian,Male,30-11-2019,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,65,1.54
+0,Furrer Julian,Male,21-03-2025,Montafon,AUT,Switzerland,World Cup,Snowboard Cross,64,
+1,Furrer Julian,Male,20-03-2025,Montafon,AUT,Switzerland,Qualification,Snowboard Cross,64,
+2,Furrer Julian,Male,15-03-2025,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,16,30.00
+3,Furrer Julian,Male,13-03-2025,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,9,58.00
+4,Furrer Julian,Male,28-02-2025,Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,4,90.00
+5,Furrer Julian,Male,27-02-2025,Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,17,25.20
+6,Furrer Julian,Male,23-02-2025,Colere,ITA,Switzerland,FIS,Snowboard Cross,8,57.60
+7,Furrer Julian,Male,22-02-2025,Colere,ITA,Switzerland,FIS,Snowboard Cross,10,46.80
+8,Furrer Julian,Male,08-02-2025,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,4,100.00
+9,Furrer Julian,Male,31-01-2025,St. Lary,FRA,Switzerland,European Cup,Snowboard Cross,7,64.80
+10,Furrer Julian,Male,24-01-2025,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,17,25.20
+11,Furrer Julian,Male,23-01-2025,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,48,
+12,Furrer Julian,Male,14-12-2024,Cervinia,ITA,Switzerland,World Cup,Snowboard Cross,61,12.20
+13,Furrer Julian,Male,13-12-2024,Cervinia,ITA,Switzerland,Qualification,Snowboard Cross,61,
+14,Furrer Julian,Male,27-11-2024,Pitztal,AUT,Switzerland,European Cup,Snowboard Cross,34,7.92
+15,Furrer Julian,Male,27-11-2024,Pitztal,AUT,Switzerland,Qualification,Snowboard Cross,34,
+16,Furrer Julian,Male,24-03-2024,Lenk,SUI,Switzerland,National Championships,Snowboard Cross,14,21.60
+17,Furrer Julian,Male,22-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,31,6.72
+18,Furrer Julian,Male,21-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,18,31.20
+19,Furrer Julian,Male,14-03-2024,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,25,12.00
+20,Furrer Julian,Male,13-03-2024,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,9,58.00
+21,Furrer Julian,Male,02-03-2024,St. Moritz,SUI,Switzerland,FIS,Snowboard Cross,4,70.00
+22,Furrer Julian,Male,25-02-2024,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,6,116.00
+23,Furrer Julian,Male,24-02-2024,Grasgehren,GER,Switzerland,European Cup,Snowboard Cross,18,41.60
+24,Furrer Julian,Male,17-02-2024,Colere,ITA,Switzerland,European Cup,Snowboard Cross,4,120.00
+25,Furrer Julian,Male,16-02-2024,Colere,ITA,Switzerland,European Cup,Snowboard Cross,21,24.00
+26,Furrer Julian,Male,06-02-2024,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,24,14.00
+27,Furrer Julian,Male,05-02-2024,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,19,24.00
+28,Furrer Julian,Male,01-02-2024,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,16,33.00
+29,Furrer Julian,Male,31-01-2024,Dolni Morava,CZE,Switzerland,European Cup,Snowboard Cross,37,4.27
+30,Furrer Julian,Male,28-01-2024,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,16,30.00
+31,Furrer Julian,Male,27-01-2024,Puy St. Vincent,FRA,Switzerland,European Cup,Snowboard Cross,18,26.00
+32,Furrer Julian,Male,20-01-2024,Montafon,AUT,Switzerland,National Championships,Snowboard Cross,48,4.67
+33,Furrer Julian,Male,09-12-2023,Pitztal,AUT,Switzerland,FIS,Snowboard Cross,16,21.00
+34,Furrer Julian,Male,01-04-2023,St. Moritz,SUI,Switzerland,National Championships,Snowboard Cross,11,69.60
+35,Furrer Julian,Male,31-03-2023,Passo San Pellegrino,ITA,Switzerland,FIS Junior World Championships,Snowboard Cross Team,25,
+36,Furrer Julian,Male,30-03-2023,Passo San Pellegrino,ITA,Switzerland,FIS Junior World Championships,Snowboard Cross,33,7.68
+37,Furrer Julian,Male,19-03-2023,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,43,3.17
+38,Furrer Julian,Male,18-03-2023,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,23,14.40
+39,Furrer Julian,Male,12-03-2023,Lenk,SUI,Switzerland,National Junior Championships,Snowboard Cross,13,18.00
+40,Furrer Julian,Male,18-02-2023,Flumserberg,SUI,Switzerland,Junior,Snowboard Cross,DNS,
+41,Furrer Julian,Male,15-02-2023,Moena - Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,DNS,
+42,Furrer Julian,Male,05-02-2023,Dolni Morava,CZE,Switzerland,FIS,Snowboard Cross,12,19.80
+43,Furrer Julian,Male,04-02-2023,Dolni Morava,CZE,Switzerland,FIS,Snowboard Cross,6,36.00
+44,Furrer Julian,Male,03-02-2023,Dolni Morava,CZE,Switzerland,FIS,Snowboard Cross,5,40.50
+45,Furrer Julian,Male,22-01-2023,Puy St.Vincent,FRA,Switzerland,European Cup,Snowboard Cross,25,14.40
+46,Furrer Julian,Male,21-01-2023,Puy St.Vincent,FRA,Switzerland,European Cup,Snowboard Cross,31,6.72
+47,Furrer Julian,Male,14-01-2023,Lenk,SUI,Switzerland,FIS,Snowboard Cross,5,22.50
+48,Furrer Julian,Male,08-01-2023,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,25,7.20
+49,Furrer Julian,Male,07-01-2023,Isola 2000,FRA,Switzerland,Junior,Snowboard Cross,3,30.00
+50,Furrer Julian,Male,06-01-2023,Isola 2000,FRA,Switzerland,European Cup,Snowboard Cross,10,62.40
+51,Furrer Julian,Male,27-11-2022,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,9,46.40
+52,Furrer Julian,Male,26-11-2022,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,26,9.00
+53,Furrer Julian,Male,25-11-2022,Pitztal,AUT,Switzerland,FIS,Snowboard Cross,33,5.28
+54,Furrer Julian,Male,24-11-2022,Pitztal,AUT,Switzerland,European Cup,Snowboard Cross,65,2.64
+55,Furrer Julian,Male,23-11-2022,Pitztal,AUT,Switzerland,Qualification,Snowboard Cross,65,
+56,Furrer Julian,Male,31-03-2022,Veysonnaz,SUI,Switzerland,FIS Junior World Championships,Snowboard Cross,25,15.60
+57,Furrer Julian,Male,27-03-2022,Lenk,SUI,Switzerland,National Championships,Snowboard Cross,21,26.00
+58,Furrer Julian,Male,26-03-2022,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,49,5.69
+59,Furrer Julian,Male,25-03-2022,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,44,6.23
+60,Furrer Julian,Male,20-03-2022,Passo San Pellegrino,ITA,Switzerland,Junior,Snowboard Cross,6,48.00
+61,Furrer Julian,Male,19-03-2022,Passo San Pellegrino,ITA,Switzerland,Junior,Snowboard Cross,12,26.40
+62,Furrer Julian,Male,09-03-2022,Lenk,SUI,Switzerland,Junior,Snowboard Cross,4,25.00
+63,Furrer Julian,Male,04-03-2022,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,19,14.40
+64,Furrer Julian,Male,03-03-2022,Pitztal,AUT,Switzerland,European Cup,Snowboard Cross,33,8.64
+65,Furrer Julian,Male,02-03-2022,Pitztal,AUT,Switzerland,European Cup,Snowboard Cross,46,6.01
+66,Furrer Julian,Male,27-02-2022,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,1,50.00
+67,Furrer Julian,Male,26-02-2022,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,5,22.50
+68,Furrer Julian,Male,20-02-2022,Passo San Pellegrino,ITA,Switzerland,Junior,Snowboard Cross,8,22.40
+69,Furrer Julian,Male,19-02-2022,Passo San Pellegrino,ITA,Switzerland,Junior,Snowboard Cross,5,31.50
+70,Furrer Julian,Male,13-02-2022,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,17,16.80
+71,Furrer Julian,Male,12-02-2022,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,13,24.00
+72,Furrer Julian,Male,23-01-2022,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,48,4.19
+73,Furrer Julian,Male,15-12-2021,Reiteralm,AUT,Switzerland,Junior,Snowboard Cross,17,9.80
+74,Furrer Julian,Male,14-12-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,49,3.48
+75,Furrer Julian,Male,13-12-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,12,48.40
+76,Furrer Julian,Male,20-03-2021,Pizol,SUI,Switzerland,Junior,Parallel Slalom,10,13.00
+77,Furrer Julian,Male,12-03-2021,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,55,3.36
+78,Furrer Julian,Male,28-02-2021,Lenk,SUI,Switzerland,FIS,Snowboard Cross,2,40.00
+79,Furrer Julian,Male,24-01-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,17,9.80
+80,Furrer Julian,Male,23-01-2021,Reiteralm,AUT,Switzerland,FIS,Snowboard Cross,21,7.00
+81,Furrer Julian,Male,16-01-2021,Crans-Montana,SUI,Switzerland,FIS,Snowboard Cross,25,13.20
+82,Furrer Julian,Male,23-02-2020,Folgaria,ITA,Switzerland,Junior,Snowboard Cross,32,1.82
+83,Furrer Julian,Male,22-02-2020,Folgaria,ITA,Switzerland,Junior,Snowboard Cross,24,4.90
+84,Furrer Julian,Male,16-02-2020,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,73,1.72
+85,Furrer Julian,Male,15-02-2020,Flumserberg,SUI,Switzerland,FIS,Snowboard Cross,80,0.98
+86,Furrer Julian,Male,07-02-2020,Colere,ITA,Switzerland,FIS,Snowboard Cross,DNS,
+87,Furrer Julian,Male,26-01-2020,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,52,1.79
+88,Furrer Julian,Male,25-01-2020,Grasgehren,GER,Switzerland,Junior,Snowboard Cross,47,1.97
+89,Furrer Julian,Male,01-12-2019,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,58,1.83
+90,Furrer Julian,Male,30-11-2019,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,65,1.54

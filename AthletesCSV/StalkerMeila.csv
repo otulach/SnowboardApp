@@ -1,49 +1,51 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Stalker Meila,Female,25-02-2025,Winsport Calgary,CAN,Australia,Nor-Am Cup Premium,Slopestyle,1,320.00
-1,Stalker Meila,Female,18-01-2025,Laax,SUI,Australia,World Cup,Slopestyle,14,170.80
-2,Stalker Meila,Female,16-01-2025,Laax,SUI,Australia,Qualification,Slopestyle,14,
-3,Stalker Meila,Female,11-01-2025,Kreischberg,AUT,Australia,World Cup,Big Air,27,9.90
-4,Stalker Meila,Female,09-01-2025,Kreischberg,AUT,Australia,Qualification,Big Air,27,
-5,Stalker Meila,Female,05-01-2025,Klagenfurt,AUT,Australia,World Cup,Big Air,15,103.70
-6,Stalker Meila,Female,03-01-2025,Klagenfurt,AUT,Australia,Qualification,Big Air,15,
-7,Stalker Meila,Female,07-12-2024,Den Haag,NED,Australia,European Cup,Rail Event,2,84.40
-8,Stalker Meila,Female,01-12-2024,Beijing,CHN,Australia,World Cup,Big Air,10,225.80
-9,Stalker Meila,Female,30-11-2024,Beijing,CHN,Australia,Qualification,Big Air,10,
-10,Stalker Meila,Female,02-09-2024,Cardrona,NZL,Australia,World Cup,Slopestyle,11,228.30
-11,Stalker Meila,Female,31-08-2024,Cardrona,NZL,Australia,Qualification,Slopestyle,11,
-12,Stalker Meila,Female,23-03-2024,Silvaplana,SUI,Australia,World Cup,Slopestyle,18,59.60
-13,Stalker Meila,Female,21-03-2024,Silvaplana,SUI,Australia,Qualification,Slopestyle,18,
-14,Stalker Meila,Female,15-03-2024,Tignes,FRA,Australia,World Cup,Slopestyle,9,183.30
-15,Stalker Meila,Female,14-03-2024,Tignes,FRA,Australia,Qualification,Slopestyle,10,
-16,Stalker Meila,Female,20-01-2024,Laax,SUI,Australia,World Cup,Slopestyle,14,158.50
-17,Stalker Meila,Female,16-01-2024,Laax,SUI,Australia,Qualification,Slopestyle,14,
-18,Stalker Meila,Female,25-03-2023,Silvaplana,SUI,Australia,World Cup,Slopestyle,8,230.50
-19,Stalker Meila,Female,23-03-2023,Silvaplana,SUI,Australia,Qualification,Slopestyle,7,
-20,Stalker Meila,Female,04-03-2023,Bakuriani,GEO,Australia,World Championships,Big Air,17,70.70
-21,Stalker Meila,Female,02-03-2023,Bakuriani,GEO,Australia,Qualification,Big Air,17,
-22,Stalker Meila,Female,27-02-2023,Bakuriani,GEO,Australia,Qualification,Slopestyle,11,
-23,Stalker Meila,Female,27-02-2023,Bakuriani,GEO,Australia,World Championships,Slopestyle,11,222.20
-24,Stalker Meila,Female,22-01-2023,Laax,SUI,Australia,World Cup,Slopestyle,23,49.00
-25,Stalker Meila,Female,20-01-2023,Laax,SUI,Australia,Qualification,Slopestyle,23,
-26,Stalker Meila,Female,14-01-2023,Kreischberg,AUT,Australia,World Cup,Big Air,13,142.60
-27,Stalker Meila,Female,14-01-2023,Kreischberg,AUT,Australia,Qualification,Big Air,13,
-28,Stalker Meila,Female,02-08-2022,Perisher,AUS,Australia,Australian New Zealand Cup,Big Air,8,8.90
-29,Stalker Meila,Female,02-08-2022,Perisher,AUS,Australia,Australian New Zealand Cup,Slopestyle,2,94.90
-30,Stalker Meila,Female,01-08-2022,Perisher,AUS,Australia,Australian New Zealand Cup,Slopestyle,3,75.90
-31,Stalker Meila,Female,07-04-2022,Corvatsch,SUI,Australia,European Cup Premium,Slopestyle,12,15.00
-32,Stalker Meila,Female,15-03-2022,Laax,SUI,Australia,European Cup Premium,Slopestyle,11,18.80
-33,Stalker Meila,Female,13-03-2022,Leysin,SUI,Australia,FIS Junior World Championships,Slopestyle,6,99.60
-34,Stalker Meila,Female,10-03-2022,Leysin,SUI,Australia,FIS Junior World Championships,Big Air,21,11.00
-35,Stalker Meila,Female,26-02-2022,Götschen,GER,Australia,European Cup,Big Air,8,40.80
-36,Stalker Meila,Female,25-02-2022,Götschen,GER,Australia,European Cup,Slopestyle,21,11.20
-37,Stalker Meila,Female,18-02-2022,Davos,SUI,Australia,European Cup Premium,Big Air,3,102.90
-38,Stalker Meila,Female,05-08-2021,Perisher Valley,AUS,Australia,FIS,Big Air,1,50.00
-39,Stalker Meila,Female,04-08-2021,Perisher Valley,AUS,Australia,FIS,Slopestyle,1,50.00
-40,Stalker Meila,Female,03-08-2021,Perisher Valley,AUS,Australia,FIS,Slopestyle,1,50.00
-41,Stalker Meila,Female,12-09-2020,Cardrona,NZL,Australia,FIS,Slopestyle,4,25.00
-42,Stalker Meila,Female,05-03-2020,Park City,USA,Australia,Nor-Am Cup,Big Air,4,80.00
-43,Stalker Meila,Female,03-03-2020,Park City,USA,Australia,Nor-Am Cup,Slopestyle,11,52.80
-44,Stalker Meila,Female,02-03-2020,Park City,USA,Australia,Nor-Am Cup,Slopestyle,4,110.00
-45,Stalker Meila,Female,26-02-2020,Copper Mountain Resort,USA,Australia,FIS,Slopestyle,1,50.00
-46,Stalker Meila,Female,04-10-2019,Cardrona,NZL,Australia,FIS,Slopestyle,2,
-47,Stalker Meila,Female,02-10-2019,Cardrona,NZL,Australia,Australian New Zealand Cup,Halfpipe,9,92.80
+0,Stalker Meila,Female,21-03-2025,Engadin,SUI,Australia,World Championships,Slopestyle,13,
+1,Stalker Meila,Female,20-03-2025,Engadin,SUI,Australia,Qualification,Slopestyle,13,
+2,Stalker Meila,Female,25-02-2025,Winsport Calgary,CAN,Australia,Nor-Am Cup Premium,Slopestyle,1,320.00
+3,Stalker Meila,Female,18-01-2025,Laax,SUI,Australia,World Cup,Slopestyle,14,170.80
+4,Stalker Meila,Female,16-01-2025,Laax,SUI,Australia,Qualification,Slopestyle,14,
+5,Stalker Meila,Female,11-01-2025,Kreischberg,AUT,Australia,World Cup,Big Air,27,9.90
+6,Stalker Meila,Female,09-01-2025,Kreischberg,AUT,Australia,Qualification,Big Air,27,
+7,Stalker Meila,Female,05-01-2025,Klagenfurt,AUT,Australia,World Cup,Big Air,15,103.70
+8,Stalker Meila,Female,03-01-2025,Klagenfurt,AUT,Australia,Qualification,Big Air,15,
+9,Stalker Meila,Female,07-12-2024,Den Haag,NED,Australia,European Cup,Rail Event,2,84.40
+10,Stalker Meila,Female,01-12-2024,Beijing,CHN,Australia,World Cup,Big Air,10,225.80
+11,Stalker Meila,Female,30-11-2024,Beijing,CHN,Australia,Qualification,Big Air,10,
+12,Stalker Meila,Female,02-09-2024,Cardrona,NZL,Australia,World Cup,Slopestyle,11,228.30
+13,Stalker Meila,Female,31-08-2024,Cardrona,NZL,Australia,Qualification,Slopestyle,11,
+14,Stalker Meila,Female,23-03-2024,Silvaplana,SUI,Australia,World Cup,Slopestyle,18,59.60
+15,Stalker Meila,Female,21-03-2024,Silvaplana,SUI,Australia,Qualification,Slopestyle,18,
+16,Stalker Meila,Female,15-03-2024,Tignes,FRA,Australia,World Cup,Slopestyle,9,183.30
+17,Stalker Meila,Female,14-03-2024,Tignes,FRA,Australia,Qualification,Slopestyle,10,
+18,Stalker Meila,Female,20-01-2024,Laax,SUI,Australia,World Cup,Slopestyle,14,158.50
+19,Stalker Meila,Female,16-01-2024,Laax,SUI,Australia,Qualification,Slopestyle,14,
+20,Stalker Meila,Female,25-03-2023,Silvaplana,SUI,Australia,World Cup,Slopestyle,8,230.50
+21,Stalker Meila,Female,23-03-2023,Silvaplana,SUI,Australia,Qualification,Slopestyle,7,
+22,Stalker Meila,Female,04-03-2023,Bakuriani,GEO,Australia,World Championships,Big Air,17,70.70
+23,Stalker Meila,Female,02-03-2023,Bakuriani,GEO,Australia,Qualification,Big Air,17,
+24,Stalker Meila,Female,27-02-2023,Bakuriani,GEO,Australia,World Championships,Slopestyle,11,222.20
+25,Stalker Meila,Female,27-02-2023,Bakuriani,GEO,Australia,Qualification,Slopestyle,11,
+26,Stalker Meila,Female,22-01-2023,Laax,SUI,Australia,World Cup,Slopestyle,23,49.00
+27,Stalker Meila,Female,20-01-2023,Laax,SUI,Australia,Qualification,Slopestyle,23,
+28,Stalker Meila,Female,14-01-2023,Kreischberg,AUT,Australia,Qualification,Big Air,13,
+29,Stalker Meila,Female,14-01-2023,Kreischberg,AUT,Australia,World Cup,Big Air,13,142.60
+30,Stalker Meila,Female,02-08-2022,Perisher,AUS,Australia,Australian New Zealand Cup,Big Air,8,8.90
+31,Stalker Meila,Female,02-08-2022,Perisher,AUS,Australia,Australian New Zealand Cup,Slopestyle,2,94.90
+32,Stalker Meila,Female,01-08-2022,Perisher,AUS,Australia,Australian New Zealand Cup,Slopestyle,3,75.90
+33,Stalker Meila,Female,07-04-2022,Corvatsch,SUI,Australia,European Cup Premium,Slopestyle,12,15.00
+34,Stalker Meila,Female,15-03-2022,Laax,SUI,Australia,European Cup Premium,Slopestyle,11,18.80
+35,Stalker Meila,Female,13-03-2022,Leysin,SUI,Australia,FIS Junior World Championships,Slopestyle,6,99.60
+36,Stalker Meila,Female,10-03-2022,Leysin,SUI,Australia,FIS Junior World Championships,Big Air,21,11.00
+37,Stalker Meila,Female,26-02-2022,Götschen,GER,Australia,European Cup,Big Air,8,40.80
+38,Stalker Meila,Female,25-02-2022,Götschen,GER,Australia,European Cup,Slopestyle,21,11.20
+39,Stalker Meila,Female,18-02-2022,Davos,SUI,Australia,European Cup Premium,Big Air,3,102.90
+40,Stalker Meila,Female,05-08-2021,Perisher Valley,AUS,Australia,FIS,Big Air,1,50.00
+41,Stalker Meila,Female,04-08-2021,Perisher Valley,AUS,Australia,FIS,Slopestyle,1,50.00
+42,Stalker Meila,Female,03-08-2021,Perisher Valley,AUS,Australia,FIS,Slopestyle,1,50.00
+43,Stalker Meila,Female,12-09-2020,Cardrona,NZL,Australia,FIS,Slopestyle,4,25.00
+44,Stalker Meila,Female,05-03-2020,Park City,USA,Australia,Nor-Am Cup,Big Air,4,80.00
+45,Stalker Meila,Female,03-03-2020,Park City,USA,Australia,Nor-Am Cup,Slopestyle,11,52.80
+46,Stalker Meila,Female,02-03-2020,Park City,USA,Australia,Nor-Am Cup,Slopestyle,4,110.00
+47,Stalker Meila,Female,26-02-2020,Copper Mountain Resort,USA,Australia,FIS,Slopestyle,1,50.00
+48,Stalker Meila,Female,04-10-2019,Cardrona,NZL,Australia,FIS,Slopestyle,2,
+49,Stalker Meila,Female,02-10-2019,Cardrona,NZL,Australia,Australian New Zealand Cup,Halfpipe,9,92.80

@@ -1,220 +1,222 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Sommariva Lorenzo,Male,01-03-2025,Erzurum,TUR,Italy,World Cup,Snowboard Cross,25,60.00
-1,Sommariva Lorenzo,Male,28-02-2025,Erzurum,TUR,Italy,Qualification,Snowboard Cross,10,
-2,Sommariva Lorenzo,Male,15-02-2025,Cortina d'Ampezzo,ITA,Italy,Qualification,Snowboard Cross,5,
-3,Sommariva Lorenzo,Male,15-02-2025,Cortina d'Ampezzo,ITA,Italy,World Cup,Snowboard Cross,18,130.00
-4,Sommariva Lorenzo,Male,02-02-2025,Beidahu,CHN,Italy,World Cup,Snowboard Cross,12,220.00
-5,Sommariva Lorenzo,Male,02-02-2025,Beidahu,CHN,Italy,Qualification,Snowboard Cross,23,
-6,Sommariva Lorenzo,Male,01-02-2025,Beidahu,CHN,Italy,World Cup,Snowboard Cross,5,450.00
-7,Sommariva Lorenzo,Male,31-01-2025,Beidahu,CHN,Italy,Qualification,Snowboard Cross,12,
-8,Sommariva Lorenzo,Male,14-12-2024,Cervinia,ITA,Italy,World Cup,Snowboard Cross,3,600.00
-9,Sommariva Lorenzo,Male,13-12-2024,Cervinia,ITA,Italy,Qualification,Snowboard Cross,27,
-10,Sommariva Lorenzo,Male,30-03-2024,Colere,ITA,Italy,National Championships,Snowboard Cross,8,92.80
-11,Sommariva Lorenzo,Male,24-03-2024,Mt. St. Anne,CAN,Italy,World Cup,Snowboard Cross,18,130.00
-12,Sommariva Lorenzo,Male,23-03-2024,Mt. St. Anne,CAN,Italy,World Cup,Snowboard Cross,25,60.00
-13,Sommariva Lorenzo,Male,22-03-2024,Mt. St. Anne,CAN,Italy,Qualification,Snowboard Cross,3,
-14,Sommariva Lorenzo,Male,17-03-2024,Montafon,AUT,Italy,World Cup,Snowboard Cross,17,140.00
-15,Sommariva Lorenzo,Male,16-03-2024,Montafon,AUT,Italy,World Cup,Snowboard Cross,17,140.00
-16,Sommariva Lorenzo,Male,15-03-2024,Montafon,AUT,Italy,Qualification,Snowboard Cross,2,
-17,Sommariva Lorenzo,Male,09-03-2024,Cortina d'Ampezzo,ITA,Italy,World Cup,Snowboard Cross,25,60.00
-18,Sommariva Lorenzo,Male,08-03-2024,Cortina d'Ampezzo,ITA,Italy,Qualification,Snowboard Cross,8,
-19,Sommariva Lorenzo,Male,03-03-2024,Sierra Nevada,ESP,Italy,World Cup,Snowboard Cross,10,260.00
-20,Sommariva Lorenzo,Male,02-03-2024,Sierra Nevada,ESP,Italy,World Cup,Snowboard Cross,21,100.00
-21,Sommariva Lorenzo,Male,01-03-2024,Sierra Nevada,ESP,Italy,Qualification,Snowboard Cross,19,
-22,Sommariva Lorenzo,Male,04-02-2024,Gudauri,GEO,Italy,World Cup,Snowboard Cross,10,260.00
-23,Sommariva Lorenzo,Male,03-02-2024,Gudauri,GEO,Italy,World Cup,Snowboard Cross,25,60.00
-24,Sommariva Lorenzo,Male,02-02-2024,Gudauri,GEO,Italy,Qualification,Snowboard Cross,3,
-25,Sommariva Lorenzo,Male,26-01-2024,St. Moritz,SUI,Italy,World Cup,Snowboard Cross,16,150.00
-26,Sommariva Lorenzo,Male,25-01-2024,St. Moritz,SUI,Italy,Qualification,Snowboard Cross,20,
-27,Sommariva Lorenzo,Male,17-12-2023,Cervinia,ITA,Italy,World Cup,Snowboard Cross Team,7,
-28,Sommariva Lorenzo,Male,16-12-2023,Cervinia,ITA,Italy,World Cup,Snowboard Cross,41,18.20
-29,Sommariva Lorenzo,Male,03-12-2023,Les Deux Alpes,FRA,Italy,Qualification,Snowboard Cross,5,
-30,Sommariva Lorenzo,Male,03-12-2023,Les Deux Alpes,FRA,Italy,World Cup,Snowboard Cross,9,290.00
-31,Sommariva Lorenzo,Male,02-12-2023,Les Deux Alpes,FRA,Italy,World Cup,Snowboard Cross Team,8,
-32,Sommariva Lorenzo,Male,02-04-2023,Moena - Passo San Pellegrino,ITA,Italy,National Championships,Snowboard Cross,1,290.00
-33,Sommariva Lorenzo,Male,26-03-2023,Mt. St. Anne,CAN,Italy,World Cup,Snowboard Cross,17,140.00
-34,Sommariva Lorenzo,Male,25-03-2023,Mt. St. Anne,CAN,Italy,World Cup,Snowboard Cross,4,500.00
-35,Sommariva Lorenzo,Male,24-03-2023,Mt. St. Anne,CAN,Italy,Qualification,Snowboard Cross,6,
-36,Sommariva Lorenzo,Male,16-03-2023,Veysonnaz,SUI,Italy,World Cup,Snowboard Cross,3,600.00
-37,Sommariva Lorenzo,Male,15-03-2023,Veysonnaz,SUI,Italy,Qualification,Snowboard Cross,1,
-38,Sommariva Lorenzo,Male,12-03-2023,Sierra Nevada,ESP,Italy,World Cup,Snowboard Cross,8,320.00
-39,Sommariva Lorenzo,Male,11-03-2023,Sierra Nevada,ESP,Italy,World Cup,Snowboard Cross,3,600.00
-40,Sommariva Lorenzo,Male,01-03-2023,Bakuriani,GEO,Italy,World Championships,Snowboard Cross,33,24.00
-41,Sommariva Lorenzo,Male,04-02-2023,Cortina d'Ampezzo,ITA,Italy,World Cup,Snowboard Cross,5,450.00
-42,Sommariva Lorenzo,Male,03-02-2023,Cortina d'Ampezzo,ITA,Italy,Qualification,Snowboard Cross,1,
-43,Sommariva Lorenzo,Male,17-12-2022,Cervinia,ITA,Italy,World Cup,Snowboard Cross,13,200.00
-44,Sommariva Lorenzo,Male,16-12-2022,Cervinia,ITA,Italy,World Cup,Snowboard Cross,10,260.00
-45,Sommariva Lorenzo,Male,15-12-2022,Cervinia,ITA,Italy,Qualification,Snowboard Cross,16,
-46,Sommariva Lorenzo,Male,04-12-2022,Les Deux Alpes,FRA,Italy,World Cup,Snowboard Cross,13,200.00
-47,Sommariva Lorenzo,Male,02-12-2022,Les Deux Alpes,FRA,Italy,Qualification,Snowboard Cross,2,
-48,Sommariva Lorenzo,Male,02-04-2022,Passo San Pellegrino,ITA,Italy,National Championships,Snowboard Cross,1,290.00
-49,Sommariva Lorenzo,Male,20-03-2022,Veysonnaz,SUI,Italy,World Cup,Snowboard Cross,5,450.00
-50,Sommariva Lorenzo,Male,12-03-2022,Reiteralm,AUT,Italy,World Cup,Snowboard Cross,1,1000.00
-51,Sommariva Lorenzo,Male,10-03-2022,Reiteralm,AUT,Italy,Qualification,Snowboard Cross,2,
-52,Sommariva Lorenzo,Male,12-02-2022,Beijing,CHN,Italy,Olympic Winter Games,Snowboard Cross Team,4,
-53,Sommariva Lorenzo,Male,10-02-2022,Beijing,CHN,Italy,Qualification,Snowboard Cross,9,
-54,Sommariva Lorenzo,Male,10-02-2022,Beijing,CHN,Italy,Olympic Winter Games,Snowboard Cross,26,50.00
-55,Sommariva Lorenzo,Male,29-01-2022,Cortina d'Ampezzo,ITA,Italy,Qualification,Snowboard Cross,9,
-56,Sommariva Lorenzo,Male,29-01-2022,Cortina d'Ampezzo,ITA,Italy,World Cup,Snowboard Cross,4,500.00
-57,Sommariva Lorenzo,Male,09-01-2022,Krasnoyarsk,RUS,Italy,World Cup,Snowboard Cross,9,290.00
-58,Sommariva Lorenzo,Male,08-01-2022,Krasnoyarsk,RUS,Italy,World Cup,Snowboard Cross,21,100.00
-59,Sommariva Lorenzo,Male,07-01-2022,Krasnoyarsk,RUS,Italy,Qualification,Snowboard Cross,8,
-60,Sommariva Lorenzo,Male,18-12-2021,Cervinia,ITA,Italy,World Cup,Snowboard Cross,13,200.00
-61,Sommariva Lorenzo,Male,17-12-2021,Cervinia,ITA,Italy,Qualification,Snowboard Cross,6,
-62,Sommariva Lorenzo,Male,11-12-2021,Montafon,AUT,Italy,World Cup,Snowboard Cross Team,1,
-63,Sommariva Lorenzo,Male,10-12-2021,Montafon,AUT,Italy,World Cup,Snowboard Cross,7,360.00
-64,Sommariva Lorenzo,Male,09-12-2021,Montafon,AUT,Italy,Qualification,Snowboard Cross,3,
-65,Sommariva Lorenzo,Male,28-11-2021,Secret Garden,CHN,Italy,World Cup,Snowboard Cross,25,60.00
-66,Sommariva Lorenzo,Male,26-11-2021,Secret Garden,CHN,Italy,Qualification,Snowboard Cross,4,
-67,Sommariva Lorenzo,Male,20-03-2021,Veysonnaz,SUI,Italy,World Cup,Snowboard Cross,13,200.00
-68,Sommariva Lorenzo,Male,05-03-2021,Bakuriani,GEO,Italy,World Cup,Snowboard Cross,4,500.00
-69,Sommariva Lorenzo,Male,04-03-2021,Bakuriani,GEO,Italy,World Cup,Snowboard Cross,3,600.00
-70,Sommariva Lorenzo,Male,03-03-2021,Bakuriani,GEO,Italy,Qualification,Snowboard Cross,8,
-71,Sommariva Lorenzo,Male,18-02-2021,Reiteralm,AUT,Italy,World Cup,Snowboard Cross,13,200.00
-72,Sommariva Lorenzo,Male,16-02-2021,Reiteralm,AUT,Italy,Qualification,Snowboard Cross,1,
-73,Sommariva Lorenzo,Male,12-02-2021,Idre Fjäll,SWE,Italy,World Championships,Snowboard Cross Team,2,
-74,Sommariva Lorenzo,Male,11-02-2021,Idre Fjäll,SWE,Italy,World Championships,Snowboard Cross,19,120.00
-75,Sommariva Lorenzo,Male,09-02-2021,Idre Fjäll,SWE,Italy,Qualification,Snowboard Cross,17,
-76,Sommariva Lorenzo,Male,24-01-2021,Chiesa in Valmalenco,ITA,Italy,World Cup,Snowboard Cross,7,360.00
-77,Sommariva Lorenzo,Male,23-01-2021,Chiesa in Valmalenco,ITA,Italy,World Cup,Snowboard Cross,3,600.00
-78,Sommariva Lorenzo,Male,22-01-2021,Chiesa in Valmalenco,ITA,Italy,Qualification,Snowboard Cross,17,
-79,Sommariva Lorenzo,Male,13-03-2020,Veysonnaz,SUI,Italy,World Cup,Snowboard Cross,4,500.00
-80,Sommariva Lorenzo,Male,07-03-2020,Sierra Nevada,ESP,Italy,Qualification,Snowboard Cross,2,
-81,Sommariva Lorenzo,Male,07-03-2020,Sierra Nevada,ESP,Italy,World Cup,Snowboard Cross,5,450.00
-82,Sommariva Lorenzo,Male,26-01-2020,Big White,CAN,Italy,World Cup,Snowboard Cross,1,1000.00
-83,Sommariva Lorenzo,Male,25-01-2020,Big White,CAN,Italy,World Cup,Snowboard Cross,21,100.00
-84,Sommariva Lorenzo,Male,24-01-2020,Big White,CAN,Italy,Qualification,Snowboard Cross,17,
-85,Sommariva Lorenzo,Male,21-12-2019,Cervinia,ITA,Italy,World Cup,Snowboard Cross,1,1000.00
-86,Sommariva Lorenzo,Male,13-12-2019,Montafon,AUT,Italy,World Cup,Snowboard Cross,6,400.00
-87,Sommariva Lorenzo,Male,12-12-2019,Montafon,AUT,Italy,Qualification,Snowboard Cross,12,
-88,Sommariva Lorenzo,Male,28-11-2019,Pitztal,AUT,Italy,European Cup,Snowboard Cross,2,288.00
-89,Sommariva Lorenzo,Male,29-03-2019,Piancavallo,ITA,Italy,National Championships,Snowboard Cross,5,130.50
-90,Sommariva Lorenzo,Male,16-03-2019,Veysonnaz,SUI,Italy,World Cup,Snowboard Cross,10,260.00
-91,Sommariva Lorenzo,Male,02-03-2019,Baqueira Beret,ESP,Italy,World Cup,Snowboard Cross,9,290.00
-92,Sommariva Lorenzo,Male,01-03-2019,Baqueira Beret,ESP,Italy,Qualification,Snowboard Cross,3,
-93,Sommariva Lorenzo,Male,09-02-2019,Feldberg,GER,Italy,World Cup,Snowboard Cross,19,120.00
-94,Sommariva Lorenzo,Male,08-02-2019,Feldberg,GER,Italy,Qualification,Snowboard Cross,8,
-95,Sommariva Lorenzo,Male,29-01-2019,Val Thorens,FRA,Italy,European Cup,Snowboard Cross,4,160.00
-96,Sommariva Lorenzo,Male,20-01-2019,Grasgehren,GER,Italy,European Cup,Snowboard Cross,4,180.00
-97,Sommariva Lorenzo,Male,19-01-2019,Grasgehren,GER,Italy,European Cup,Snowboard Cross,3,216.00
-98,Sommariva Lorenzo,Male,13-01-2019,Puy St. Vincent,FRA,Italy,European Cup,Snowboard Cross,4,160.00
-99,Sommariva Lorenzo,Male,12-01-2019,Puy St. Vincent,FRA,Italy,European Cup,Snowboard Cross,1,320.00
-100,Sommariva Lorenzo,Male,22-12-2018,Cervinia,ITA,Italy,World Cup,Snowboard Cross,42,17.90
-101,Sommariva Lorenzo,Male,21-12-2018,Cervinia,ITA,Italy,World Cup,Snowboard Cross,13,200.00
-102,Sommariva Lorenzo,Male,20-12-2018,Cervinia,ITA,Italy,Qualification,Snowboard Cross,15,
-103,Sommariva Lorenzo,Male,21-03-2018,Veysonnaz,SUI,Italy,European Cup,Snowboard Cross,1,260.00
-104,Sommariva Lorenzo,Male,20-03-2018,Veysonnaz,SUI,Italy,European Cup,Snowboard Cross,1,260.00
-105,Sommariva Lorenzo,Male,17-03-2018,Veysonnaz,SUI,Italy,World Cup,Snowboard Cross,18,130.00
-106,Sommariva Lorenzo,Male,16-03-2018,Veysonnaz,SUI,Italy,Qualification,Snowboard Cross,17,
-107,Sommariva Lorenzo,Male,11-03-2018,Moscow,RUS,Italy,World Cup,Snowboard Cross Team,11,
-108,Sommariva Lorenzo,Male,10-03-2018,Moscow,RUS,Italy,World Cup,Snowboard Cross,16,150.00
-109,Sommariva Lorenzo,Male,10-03-2018,Moscow,RUS,Italy,Qualification,Snowboard Cross,25,
-110,Sommariva Lorenzo,Male,06-03-2018,Moena,ITA,Italy,National Championships,Snowboard Cross,2,128.00
-111,Sommariva Lorenzo,Male,03-03-2018,La Molina,ESP,Italy,World Cup,Snowboard Cross,18,130.00
-112,Sommariva Lorenzo,Male,02-03-2018,La Molina,ESP,Italy,Qualification,Snowboard Cross,5,
-113,Sommariva Lorenzo,Male,25-02-2018,Feldberg,GER,Italy,World Cup,Snowboard Cross,16,150.00
-114,Sommariva Lorenzo,Male,24-02-2018,Feldberg,GER,Italy,World Cup,Snowboard Cross,25,60.00
-115,Sommariva Lorenzo,Male,24-02-2018,Feldberg,GER,Italy,Qualification,Snowboard Cross,22,
-116,Sommariva Lorenzo,Male,23-02-2018,Feldberg,GER,Italy,Qualification,Snowboard Cross,1,
-117,Sommariva Lorenzo,Male,15-02-2018,Phoenix Snow Park,KOR,Italy,Olympic Winter Games,Snowboard Cross,26,50.00
-118,Sommariva Lorenzo,Male,15-02-2018,Phoenix Snow Park,KOR,Italy,Qualification,Snowboard Cross,13,
-119,Sommariva Lorenzo,Male,27-01-2018,Bansko,BUL,Italy,World Cup,Snowboardcross,25,60.00
-120,Sommariva Lorenzo,Male,27-01-2018,Bansko,BUL,Italy,Qualification,Snowboard Cross,23,
-121,Sommariva Lorenzo,Male,21-01-2018,Erzurum,TUR,Italy,World Cup,Snowboard Cross Team,7,
-122,Sommariva Lorenzo,Male,20-01-2018,Erzurum,TUR,Italy,World Cup,Snowboard Cross,20,110.00
-123,Sommariva Lorenzo,Male,22-12-2017,Cervinia,ITA,Italy,World Cup,Snowboard Cross,27,45.00
-124,Sommariva Lorenzo,Male,21-12-2017,Cervinia,ITA,Italy,Qualification,Snowboard Cross,11,
-125,Sommariva Lorenzo,Male,17-12-2017,Montafon,AUT,Italy,World Cup,Snowboardcross Team,10,
-126,Sommariva Lorenzo,Male,16-12-2017,Montafon,AUT,Italy,World Cup,Snowboardcross,13,200.00
-127,Sommariva Lorenzo,Male,15-12-2017,Montafon,AUT,Italy,Qualification,Snowboard Cross,15,
-128,Sommariva Lorenzo,Male,13-12-2017,Val Thorens,FRA,Italy,World Cup,Snowboardcross,10,260.00
-129,Sommariva Lorenzo,Male,12-12-2017,Val Thorens,FRA,Italy,Qualification,Snowboard Cross,15,
-130,Sommariva Lorenzo,Male,10-09-2017,Cerro Catedral,ARG,Italy,World Cup,Snowboardcross,36,19.70
-131,Sommariva Lorenzo,Male,09-09-2017,Cerro Catedral,ARG,Italy,World Cup,Snowboardcross,42,17.90
-132,Sommariva Lorenzo,Male,08-09-2017,Cerro Catedral,ARG,Italy,Qualification,Snowboardcross,3,
-133,Sommariva Lorenzo,Male,08-04-2017,Cervinia,ITA,Italy,National Championships,Snowboardcross,7,104.40
-134,Sommariva Lorenzo,Male,25-03-2017,Veysonnaz,SUI,Italy,World Cup,Snowboardcross,18,130.00
-135,Sommariva Lorenzo,Male,24-03-2017,Veysonnaz,SUI,Italy,Qualification,Snowboardcross,17,
-136,Sommariva Lorenzo,Male,12-03-2017,Sierra Nevada,ESP,Italy,World Championships,Snowboardcross,38,
-137,Sommariva Lorenzo,Male,10-03-2017,Sierra Nevada,ESP,Italy,Qualification,Snowboardcross,44,
-138,Sommariva Lorenzo,Male,05-03-2017,La Molina,ESP,Italy,World Cup,Snowboardcross,16,150.00
-139,Sommariva Lorenzo,Male,04-03-2017,La Molina,ESP,Italy,Qualification,Snowboardcross,12,
-140,Sommariva Lorenzo,Male,12-02-2017,Feldberg,GER,Italy,World Cup,Snowboardcross,DNS,
-141,Sommariva Lorenzo,Male,11-02-2017,Feldberg,GER,Italy,World Cup,Snowboardcross,14,180.00
-142,Sommariva Lorenzo,Male,10-02-2017,Feldberg,GER,Italy,Qualification,Snowboardcross,9,
-143,Sommariva Lorenzo,Male,04-02-2017,Bansko,BUL,Italy,World Cup,Snowboardcross,8,320.00
-144,Sommariva Lorenzo,Male,02-02-2017,Bansko,BUL,Italy,Qualification,Snowboardcross,10,
-145,Sommariva Lorenzo,Male,22-01-2017,Solitude Mountain Resort,USA,Italy,World Cup,Snowboardcross Team,5,
-146,Sommariva Lorenzo,Male,21-01-2017,Solitude Mountain Resort,USA,Italy,World Cup,Snowboardcross,25,60.00
-147,Sommariva Lorenzo,Male,19-01-2017,Solitude Mountain Resort,USA,Italy,Qualification,Snowboardcross,21,
-148,Sommariva Lorenzo,Male,16-12-2016,Montafon,AUT,Italy,World Cup,Snowboardcross,6,400.00
-149,Sommariva Lorenzo,Male,15-12-2016,Montafon,AUT,Italy,Qualification,Snowboardcross,10,
-150,Sommariva Lorenzo,Male,01-12-2016,Pitztal,AUT,Italy,European Cup,Snowboardcross,3,216.00
-151,Sommariva Lorenzo,Male,30-11-2016,Pitztal,AUT,Italy,European Cup,Snowboardcross,15,57.60
-152,Sommariva Lorenzo,Male,06-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Snowboardcross,6,144.00
-153,Sommariva Lorenzo,Male,20-03-2016,Baqueira Beret,ESP,Italy,World Cup,Snowboardcross,28,40.00
-154,Sommariva Lorenzo,Male,19-03-2016,Baqueira Beret,ESP,Italy,Qualification,Snowboardcross,12,
-155,Sommariva Lorenzo,Male,13-03-2016,Puy St. Vincent,FRA,Italy,European Cup,Snowboardcross,13,100.00
-156,Sommariva Lorenzo,Male,12-03-2016,Puy St. Vincent,FRA,Italy,European Cup,Snowboardcross,49,7.11
-157,Sommariva Lorenzo,Male,06-03-2016,Veysonnaz,SUI,Italy,World Cup,Snowboardcross,33,24.00
-158,Sommariva Lorenzo,Male,05-03-2016,Veysonnaz,SUI,Italy,World Cup,Snowboardcross,30,32.00
-159,Sommariva Lorenzo,Male,04-03-2016,Veysonnaz,SUI,Italy,Qualification,Snowboardcross,35,
-160,Sommariva Lorenzo,Male,04-03-2016,Veysonnaz,SUI,Italy,Qualification,Snowboardcross,12,
-161,Sommariva Lorenzo,Male,27-02-2016,Bokwang,KOR,Italy,World Cup,Snowboardcross,23,80.00
-162,Sommariva Lorenzo,Male,25-02-2016,Bokwang,KOR,Italy,Qualification,Snowboardcross,7,
-163,Sommariva Lorenzo,Male,21-02-2016,Sunny Valley,RUS,Italy,World Cup,Snowboardcross,41,18.20
-164,Sommariva Lorenzo,Male,20-02-2016,Sunny Valley,RUS,Italy,Qualification,Snowboardcross,8,
-165,Sommariva Lorenzo,Male,13-02-2016,Breuil Cervinia-Valtournenche,ITA,Italy,FIS,Snowboardcross,2,208.00
-166,Sommariva Lorenzo,Male,12-02-2016,Breuil Cervinia-Valtournenche,ITA,Italy,FIS,Snowboardcross,2,208.00
-167,Sommariva Lorenzo,Male,30-01-2016,Grasgehren,GER,Italy,European Cup,Snowboardcross,10,83.20
-168,Sommariva Lorenzo,Male,24-01-2016,Feldberg,GER,Italy,World Cup,Snowboardcross,21,100.00
-169,Sommariva Lorenzo,Male,23-01-2016,Feldberg,GER,Italy,World Cup,Snowboardcross,23,80.00
-170,Sommariva Lorenzo,Male,22-01-2016,Feldberg,GER,Italy,Qualification,Snowboardcross,27,
-171,Sommariva Lorenzo,Male,12-12-2015,Montafon,AUT,Italy,World Cup,Snowboardcross,27,45.00
-172,Sommariva Lorenzo,Male,11-12-2015,Montafon,AUT,Italy,Qualification,Snowboardcross,12,
-173,Sommariva Lorenzo,Male,19-04-2015,Breuil Cervinia,ITA,Italy,FIS,Snowboardcross,8,83.20
-174,Sommariva Lorenzo,Male,18-04-2015,Breuil Cervinia,ITA,Italy,FIS,Snowboardcross,1,260.00
-175,Sommariva Lorenzo,Male,25-03-2015,Canazei,ITA,Italy,National Championships,Snowboardcross,10,93.60
-176,Sommariva Lorenzo,Male,24-03-2015,Canazei,ITA,Italy,FIS,Snowboardcross,1,260.00
-177,Sommariva Lorenzo,Male,21-03-2015,La Molina,ESP,Italy,World Cup,Snowboardcross,30,32.00
-178,Sommariva Lorenzo,Male,20-03-2015,La Molina,ESP,Italy,Qualification,Snowboardcross,19,
-179,Sommariva Lorenzo,Male,15-03-2015,Veysonnaz,SUI,Italy,World Cup,Snowboardcross,12,220.00
-180,Sommariva Lorenzo,Male,14-03-2015,Veysonnaz,SUI,Italy,World Cup,Snowboardcross,46,16.70
-181,Sommariva Lorenzo,Male,13-03-2015,Veysonnaz,SUI,Italy,Qualification,Snowboardcross,42,
-182,Sommariva Lorenzo,Male,07-03-2015,Moena,ITA,Italy,FIS,Snowboardcross,8,83.20
-183,Sommariva Lorenzo,Male,06-03-2015,Moena,ITA,Italy,FIS,Snowboardcross,5,117.00
-184,Sommariva Lorenzo,Male,07-02-2015,Cortina d'Ampezzo,ITA,Italy,European Cup,Snowboardcross,25,30.00
-185,Sommariva Lorenzo,Male,01-02-2015,Puy St Vincent,FRA,Italy,European Cup,Snowboardcross,8,115.20
-186,Sommariva Lorenzo,Male,31-01-2015,Puy St Vincent,FRA,Italy,European Cup,Snowboardcross,16,67.50
-187,Sommariva Lorenzo,Male,25-01-2015,Sedrun,SUI,Italy,FIS,Snowboardcross,5,90.00
-188,Sommariva Lorenzo,Male,18-01-2015,Isola 2000,FRA,Italy,European Cup,Snowboardcross,9,84.10
-189,Sommariva Lorenzo,Male,17-01-2015,Isola 2000,FRA,Italy,European Cup,Snowboardcross,25,17.40
-190,Sommariva Lorenzo,Male,04-12-2014,Pitztal,AUT,Italy,European Cup,Snowboardcross,49,7.90
-191,Sommariva Lorenzo,Male,03-12-2014,Pitztal,AUT,Italy,National Championships,Snowboardcross,17,50.40
-192,Sommariva Lorenzo,Male,07-04-2014,Chiesa in Valmalenco,ITA,Italy,National Championships,Snowboardcross,9,104.40
-193,Sommariva Lorenzo,Male,15-03-2014,La Molina,ESP,Italy,World Cup,Snowboardcross,30,32.00
-194,Sommariva Lorenzo,Male,14-03-2014,La Molina,ESP,Italy,Qualification,Snowboardcross,28,
-195,Sommariva Lorenzo,Male,11-03-2014,Veysonnaz,SUI,Italy,World Cup,Snowboardcross,10,260.00
-196,Sommariva Lorenzo,Male,10-03-2014,Veysonnaz,SUI,Italy,Qualification,Snowboardcross,22,
-197,Sommariva Lorenzo,Male,09-02-2014,Isola 2000,FRA,Italy,European Cup,Snowboardcross,20,31.90
-198,Sommariva Lorenzo,Male,22-12-2013,Cortina d Ampezzo,ITA,Italy,European Cup,Snowboardcross,25,14.40
-199,Sommariva Lorenzo,Male,21-12-2013,Cortina d Ampezzo,ITA,Italy,European Cup,Snowboardcross,7,86.40
-200,Sommariva Lorenzo,Male,15-12-2013,Montafon,AUT,Italy,European Cup,Snowboardcross,9,92.80
-201,Sommariva Lorenzo,Male,14-12-2013,Montafon,AUT,Italy,European Cup,Snowboardcross,15,80.00
-202,Sommariva Lorenzo,Male,07-12-2013,Montafon,AUT,Italy,World Cup,Snowboardcross,52,14.90
-203,Sommariva Lorenzo,Male,06-12-2013,Montafon,AUT,Italy,Qualification,Snowboardcross,52,
-204,Sommariva Lorenzo,Male,01-12-2013,Breuil Cervinia,ITA,Italy,FIS,Snowboardcross,15,41.60
-205,Sommariva Lorenzo,Male,30-11-2013,Breuil Cervinia,ITA,Italy,FIS,Snowboardcross,13,52.00
-206,Sommariva Lorenzo,Male,03-03-2013,Erzurum,TUR,Italy,FIS Junior World Championships,Snowboardcross,25,24.00
-207,Sommariva Lorenzo,Male,24-02-2013,Grasgehren,GER,Italy,European Cup,Snowboardcross,70,0.00
-208,Sommariva Lorenzo,Male,23-02-2013,Grasgehren,GER,Italy,National Championships,Snowboardcross,29,12.96
-209,Sommariva Lorenzo,Male,27-01-2013,Le Grand Gornand,FRA,Italy,FIS,Snowboardcross,17,22.40
-210,Sommariva Lorenzo,Male,26-01-2013,Colere,ITA,Italy,FIS,Snowboardcross,7,93.60
-211,Sommariva Lorenzo,Male,26-01-2013,Le Grand Bornand,FRA,Italy,FIS,Snowboardcross,31,
-212,Sommariva Lorenzo,Male,25-01-2013,Colere,ITA,Italy,FIS,Snowboardcross,17,36.40
-213,Sommariva Lorenzo,Male,13-01-2013,Puy St Vincent,FRA,Italy,European Cup,Snowboardcross,37,9.70
-214,Sommariva Lorenzo,Male,12-01-2013,Puy St Vincent,FRA,Italy,European Cup,Snowboardcross,36,9.85
-215,Sommariva Lorenzo,Male,11-01-2013,Puy St Vincent,FRA,Italy,FIS,Snowboardcross,71,2.39
-216,Sommariva Lorenzo,Male,23-12-2012,Cortina d Ampezzo,ITA,Italy,European Cup,Snowboardcross,34,11.00
-217,Sommariva Lorenzo,Male,22-12-2012,Cortina d Ampezzo,ITA,Italy,European Cup,Snowboardcross,31,14.00
-218,Sommariva Lorenzo,Male,07-03-2009,Courmayeur,ITA,Italy,FIS,Snowboardcross,27,10.80
+0,Sommariva Lorenzo,Male,21-03-2025,Montafon,AUT,Italy,World Cup,Snowboard Cross,9,
+1,Sommariva Lorenzo,Male,20-03-2025,Montafon,AUT,Italy,Qualification,Snowboard Cross,19,
+2,Sommariva Lorenzo,Male,01-03-2025,Erzurum,TUR,Italy,World Cup,Snowboard Cross,25,60.00
+3,Sommariva Lorenzo,Male,28-02-2025,Erzurum,TUR,Italy,Qualification,Snowboard Cross,10,
+4,Sommariva Lorenzo,Male,15-02-2025,Cortina d'Ampezzo,ITA,Italy,Qualification,Snowboard Cross,5,
+5,Sommariva Lorenzo,Male,15-02-2025,Cortina d'Ampezzo,ITA,Italy,World Cup,Snowboard Cross,18,130.00
+6,Sommariva Lorenzo,Male,02-02-2025,Beidahu,CHN,Italy,World Cup,Snowboard Cross,12,220.00
+7,Sommariva Lorenzo,Male,02-02-2025,Beidahu,CHN,Italy,Qualification,Snowboard Cross,23,
+8,Sommariva Lorenzo,Male,01-02-2025,Beidahu,CHN,Italy,World Cup,Snowboard Cross,5,450.00
+9,Sommariva Lorenzo,Male,31-01-2025,Beidahu,CHN,Italy,Qualification,Snowboard Cross,12,
+10,Sommariva Lorenzo,Male,14-12-2024,Cervinia,ITA,Italy,World Cup,Snowboard Cross,3,600.00
+11,Sommariva Lorenzo,Male,13-12-2024,Cervinia,ITA,Italy,Qualification,Snowboard Cross,27,
+12,Sommariva Lorenzo,Male,30-03-2024,Colere,ITA,Italy,National Championships,Snowboard Cross,8,92.80
+13,Sommariva Lorenzo,Male,24-03-2024,Mt. St. Anne,CAN,Italy,World Cup,Snowboard Cross,18,130.00
+14,Sommariva Lorenzo,Male,23-03-2024,Mt. St. Anne,CAN,Italy,World Cup,Snowboard Cross,25,60.00
+15,Sommariva Lorenzo,Male,22-03-2024,Mt. St. Anne,CAN,Italy,Qualification,Snowboard Cross,3,
+16,Sommariva Lorenzo,Male,17-03-2024,Montafon,AUT,Italy,World Cup,Snowboard Cross,17,140.00
+17,Sommariva Lorenzo,Male,16-03-2024,Montafon,AUT,Italy,World Cup,Snowboard Cross,17,140.00
+18,Sommariva Lorenzo,Male,15-03-2024,Montafon,AUT,Italy,Qualification,Snowboard Cross,2,
+19,Sommariva Lorenzo,Male,09-03-2024,Cortina d'Ampezzo,ITA,Italy,World Cup,Snowboard Cross,25,60.00
+20,Sommariva Lorenzo,Male,08-03-2024,Cortina d'Ampezzo,ITA,Italy,Qualification,Snowboard Cross,8,
+21,Sommariva Lorenzo,Male,03-03-2024,Sierra Nevada,ESP,Italy,World Cup,Snowboard Cross,10,260.00
+22,Sommariva Lorenzo,Male,02-03-2024,Sierra Nevada,ESP,Italy,World Cup,Snowboard Cross,21,100.00
+23,Sommariva Lorenzo,Male,01-03-2024,Sierra Nevada,ESP,Italy,Qualification,Snowboard Cross,19,
+24,Sommariva Lorenzo,Male,04-02-2024,Gudauri,GEO,Italy,World Cup,Snowboard Cross,10,260.00
+25,Sommariva Lorenzo,Male,03-02-2024,Gudauri,GEO,Italy,World Cup,Snowboard Cross,25,60.00
+26,Sommariva Lorenzo,Male,02-02-2024,Gudauri,GEO,Italy,Qualification,Snowboard Cross,3,
+27,Sommariva Lorenzo,Male,26-01-2024,St. Moritz,SUI,Italy,World Cup,Snowboard Cross,16,150.00
+28,Sommariva Lorenzo,Male,25-01-2024,St. Moritz,SUI,Italy,Qualification,Snowboard Cross,20,
+29,Sommariva Lorenzo,Male,17-12-2023,Cervinia,ITA,Italy,World Cup,Snowboard Cross Team,7,
+30,Sommariva Lorenzo,Male,16-12-2023,Cervinia,ITA,Italy,World Cup,Snowboard Cross,41,18.20
+31,Sommariva Lorenzo,Male,03-12-2023,Les Deux Alpes,FRA,Italy,Qualification,Snowboard Cross,5,
+32,Sommariva Lorenzo,Male,03-12-2023,Les Deux Alpes,FRA,Italy,World Cup,Snowboard Cross,9,290.00
+33,Sommariva Lorenzo,Male,02-12-2023,Les Deux Alpes,FRA,Italy,World Cup,Snowboard Cross Team,8,
+34,Sommariva Lorenzo,Male,02-04-2023,Moena - Passo San Pellegrino,ITA,Italy,National Championships,Snowboard Cross,1,290.00
+35,Sommariva Lorenzo,Male,26-03-2023,Mt. St. Anne,CAN,Italy,World Cup,Snowboard Cross,17,140.00
+36,Sommariva Lorenzo,Male,25-03-2023,Mt. St. Anne,CAN,Italy,World Cup,Snowboard Cross,4,500.00
+37,Sommariva Lorenzo,Male,24-03-2023,Mt. St. Anne,CAN,Italy,Qualification,Snowboard Cross,6,
+38,Sommariva Lorenzo,Male,16-03-2023,Veysonnaz,SUI,Italy,World Cup,Snowboard Cross,3,600.00
+39,Sommariva Lorenzo,Male,15-03-2023,Veysonnaz,SUI,Italy,Qualification,Snowboard Cross,1,
+40,Sommariva Lorenzo,Male,12-03-2023,Sierra Nevada,ESP,Italy,World Cup,Snowboard Cross,8,320.00
+41,Sommariva Lorenzo,Male,11-03-2023,Sierra Nevada,ESP,Italy,World Cup,Snowboard Cross,3,600.00
+42,Sommariva Lorenzo,Male,01-03-2023,Bakuriani,GEO,Italy,World Championships,Snowboard Cross,33,24.00
+43,Sommariva Lorenzo,Male,04-02-2023,Cortina d'Ampezzo,ITA,Italy,World Cup,Snowboard Cross,5,450.00
+44,Sommariva Lorenzo,Male,03-02-2023,Cortina d'Ampezzo,ITA,Italy,Qualification,Snowboard Cross,1,
+45,Sommariva Lorenzo,Male,17-12-2022,Cervinia,ITA,Italy,World Cup,Snowboard Cross,13,200.00
+46,Sommariva Lorenzo,Male,16-12-2022,Cervinia,ITA,Italy,World Cup,Snowboard Cross,10,260.00
+47,Sommariva Lorenzo,Male,15-12-2022,Cervinia,ITA,Italy,Qualification,Snowboard Cross,16,
+48,Sommariva Lorenzo,Male,04-12-2022,Les Deux Alpes,FRA,Italy,World Cup,Snowboard Cross,13,200.00
+49,Sommariva Lorenzo,Male,02-12-2022,Les Deux Alpes,FRA,Italy,Qualification,Snowboard Cross,2,
+50,Sommariva Lorenzo,Male,02-04-2022,Passo San Pellegrino,ITA,Italy,National Championships,Snowboard Cross,1,290.00
+51,Sommariva Lorenzo,Male,20-03-2022,Veysonnaz,SUI,Italy,World Cup,Snowboard Cross,5,450.00
+52,Sommariva Lorenzo,Male,12-03-2022,Reiteralm,AUT,Italy,World Cup,Snowboard Cross,1,1000.00
+53,Sommariva Lorenzo,Male,10-03-2022,Reiteralm,AUT,Italy,Qualification,Snowboard Cross,2,
+54,Sommariva Lorenzo,Male,12-02-2022,Beijing,CHN,Italy,Olympic Winter Games,Snowboard Cross Team,4,
+55,Sommariva Lorenzo,Male,10-02-2022,Beijing,CHN,Italy,Qualification,Snowboard Cross,9,
+56,Sommariva Lorenzo,Male,10-02-2022,Beijing,CHN,Italy,Olympic Winter Games,Snowboard Cross,26,50.00
+57,Sommariva Lorenzo,Male,29-01-2022,Cortina d'Ampezzo,ITA,Italy,Qualification,Snowboard Cross,9,
+58,Sommariva Lorenzo,Male,29-01-2022,Cortina d'Ampezzo,ITA,Italy,World Cup,Snowboard Cross,4,500.00
+59,Sommariva Lorenzo,Male,09-01-2022,Krasnoyarsk,RUS,Italy,World Cup,Snowboard Cross,9,290.00
+60,Sommariva Lorenzo,Male,08-01-2022,Krasnoyarsk,RUS,Italy,World Cup,Snowboard Cross,21,100.00
+61,Sommariva Lorenzo,Male,07-01-2022,Krasnoyarsk,RUS,Italy,Qualification,Snowboard Cross,8,
+62,Sommariva Lorenzo,Male,18-12-2021,Cervinia,ITA,Italy,World Cup,Snowboard Cross,13,200.00
+63,Sommariva Lorenzo,Male,17-12-2021,Cervinia,ITA,Italy,Qualification,Snowboard Cross,6,
+64,Sommariva Lorenzo,Male,11-12-2021,Montafon,AUT,Italy,World Cup,Snowboard Cross Team,1,
+65,Sommariva Lorenzo,Male,10-12-2021,Montafon,AUT,Italy,World Cup,Snowboard Cross,7,360.00
+66,Sommariva Lorenzo,Male,09-12-2021,Montafon,AUT,Italy,Qualification,Snowboard Cross,3,
+67,Sommariva Lorenzo,Male,28-11-2021,Secret Garden,CHN,Italy,World Cup,Snowboard Cross,25,60.00
+68,Sommariva Lorenzo,Male,26-11-2021,Secret Garden,CHN,Italy,Qualification,Snowboard Cross,4,
+69,Sommariva Lorenzo,Male,20-03-2021,Veysonnaz,SUI,Italy,World Cup,Snowboard Cross,13,200.00
+70,Sommariva Lorenzo,Male,05-03-2021,Bakuriani,GEO,Italy,World Cup,Snowboard Cross,4,500.00
+71,Sommariva Lorenzo,Male,04-03-2021,Bakuriani,GEO,Italy,World Cup,Snowboard Cross,3,600.00
+72,Sommariva Lorenzo,Male,03-03-2021,Bakuriani,GEO,Italy,Qualification,Snowboard Cross,8,
+73,Sommariva Lorenzo,Male,18-02-2021,Reiteralm,AUT,Italy,World Cup,Snowboard Cross,13,200.00
+74,Sommariva Lorenzo,Male,16-02-2021,Reiteralm,AUT,Italy,Qualification,Snowboard Cross,1,
+75,Sommariva Lorenzo,Male,12-02-2021,Idre Fjäll,SWE,Italy,World Championships,Snowboard Cross Team,2,
+76,Sommariva Lorenzo,Male,11-02-2021,Idre Fjäll,SWE,Italy,World Championships,Snowboard Cross,19,120.00
+77,Sommariva Lorenzo,Male,09-02-2021,Idre Fjäll,SWE,Italy,Qualification,Snowboard Cross,17,
+78,Sommariva Lorenzo,Male,24-01-2021,Chiesa in Valmalenco,ITA,Italy,World Cup,Snowboard Cross,7,360.00
+79,Sommariva Lorenzo,Male,23-01-2021,Chiesa in Valmalenco,ITA,Italy,World Cup,Snowboard Cross,3,600.00
+80,Sommariva Lorenzo,Male,22-01-2021,Chiesa in Valmalenco,ITA,Italy,Qualification,Snowboard Cross,17,
+81,Sommariva Lorenzo,Male,13-03-2020,Veysonnaz,SUI,Italy,World Cup,Snowboard Cross,4,500.00
+82,Sommariva Lorenzo,Male,07-03-2020,Sierra Nevada,ESP,Italy,Qualification,Snowboard Cross,2,
+83,Sommariva Lorenzo,Male,07-03-2020,Sierra Nevada,ESP,Italy,World Cup,Snowboard Cross,5,450.00
+84,Sommariva Lorenzo,Male,26-01-2020,Big White,CAN,Italy,World Cup,Snowboard Cross,1,1000.00
+85,Sommariva Lorenzo,Male,25-01-2020,Big White,CAN,Italy,World Cup,Snowboard Cross,21,100.00
+86,Sommariva Lorenzo,Male,24-01-2020,Big White,CAN,Italy,Qualification,Snowboard Cross,17,
+87,Sommariva Lorenzo,Male,21-12-2019,Cervinia,ITA,Italy,World Cup,Snowboard Cross,1,1000.00
+88,Sommariva Lorenzo,Male,13-12-2019,Montafon,AUT,Italy,World Cup,Snowboard Cross,6,400.00
+89,Sommariva Lorenzo,Male,12-12-2019,Montafon,AUT,Italy,Qualification,Snowboard Cross,12,
+90,Sommariva Lorenzo,Male,28-11-2019,Pitztal,AUT,Italy,European Cup,Snowboard Cross,2,288.00
+91,Sommariva Lorenzo,Male,29-03-2019,Piancavallo,ITA,Italy,National Championships,Snowboard Cross,5,130.50
+92,Sommariva Lorenzo,Male,16-03-2019,Veysonnaz,SUI,Italy,World Cup,Snowboard Cross,10,260.00
+93,Sommariva Lorenzo,Male,02-03-2019,Baqueira Beret,ESP,Italy,World Cup,Snowboard Cross,9,290.00
+94,Sommariva Lorenzo,Male,01-03-2019,Baqueira Beret,ESP,Italy,Qualification,Snowboard Cross,3,
+95,Sommariva Lorenzo,Male,09-02-2019,Feldberg,GER,Italy,World Cup,Snowboard Cross,19,120.00
+96,Sommariva Lorenzo,Male,08-02-2019,Feldberg,GER,Italy,Qualification,Snowboard Cross,8,
+97,Sommariva Lorenzo,Male,29-01-2019,Val Thorens,FRA,Italy,European Cup,Snowboard Cross,4,160.00
+98,Sommariva Lorenzo,Male,20-01-2019,Grasgehren,GER,Italy,European Cup,Snowboard Cross,4,180.00
+99,Sommariva Lorenzo,Male,19-01-2019,Grasgehren,GER,Italy,European Cup,Snowboard Cross,3,216.00
+100,Sommariva Lorenzo,Male,13-01-2019,Puy St. Vincent,FRA,Italy,European Cup,Snowboard Cross,4,160.00
+101,Sommariva Lorenzo,Male,12-01-2019,Puy St. Vincent,FRA,Italy,European Cup,Snowboard Cross,1,320.00
+102,Sommariva Lorenzo,Male,22-12-2018,Cervinia,ITA,Italy,World Cup,Snowboard Cross,42,17.90
+103,Sommariva Lorenzo,Male,21-12-2018,Cervinia,ITA,Italy,World Cup,Snowboard Cross,13,200.00
+104,Sommariva Lorenzo,Male,20-12-2018,Cervinia,ITA,Italy,Qualification,Snowboard Cross,15,
+105,Sommariva Lorenzo,Male,21-03-2018,Veysonnaz,SUI,Italy,European Cup,Snowboard Cross,1,260.00
+106,Sommariva Lorenzo,Male,20-03-2018,Veysonnaz,SUI,Italy,European Cup,Snowboard Cross,1,260.00
+107,Sommariva Lorenzo,Male,17-03-2018,Veysonnaz,SUI,Italy,World Cup,Snowboard Cross,18,130.00
+108,Sommariva Lorenzo,Male,16-03-2018,Veysonnaz,SUI,Italy,Qualification,Snowboard Cross,17,
+109,Sommariva Lorenzo,Male,11-03-2018,Moscow,RUS,Italy,World Cup,Snowboard Cross Team,11,
+110,Sommariva Lorenzo,Male,10-03-2018,Moscow,RUS,Italy,World Cup,Snowboard Cross,16,150.00
+111,Sommariva Lorenzo,Male,10-03-2018,Moscow,RUS,Italy,Qualification,Snowboard Cross,25,
+112,Sommariva Lorenzo,Male,06-03-2018,Moena,ITA,Italy,National Championships,Snowboard Cross,2,128.00
+113,Sommariva Lorenzo,Male,03-03-2018,La Molina,ESP,Italy,World Cup,Snowboard Cross,18,130.00
+114,Sommariva Lorenzo,Male,02-03-2018,La Molina,ESP,Italy,Qualification,Snowboard Cross,5,
+115,Sommariva Lorenzo,Male,25-02-2018,Feldberg,GER,Italy,World Cup,Snowboard Cross,16,150.00
+116,Sommariva Lorenzo,Male,24-02-2018,Feldberg,GER,Italy,World Cup,Snowboard Cross,25,60.00
+117,Sommariva Lorenzo,Male,24-02-2018,Feldberg,GER,Italy,Qualification,Snowboard Cross,22,
+118,Sommariva Lorenzo,Male,23-02-2018,Feldberg,GER,Italy,Qualification,Snowboard Cross,1,
+119,Sommariva Lorenzo,Male,15-02-2018,Phoenix Snow Park,KOR,Italy,Olympic Winter Games,Snowboard Cross,26,50.00
+120,Sommariva Lorenzo,Male,15-02-2018,Phoenix Snow Park,KOR,Italy,Qualification,Snowboard Cross,13,
+121,Sommariva Lorenzo,Male,27-01-2018,Bansko,BUL,Italy,World Cup,Snowboardcross,25,60.00
+122,Sommariva Lorenzo,Male,27-01-2018,Bansko,BUL,Italy,Qualification,Snowboard Cross,23,
+123,Sommariva Lorenzo,Male,21-01-2018,Erzurum,TUR,Italy,World Cup,Snowboard Cross Team,7,
+124,Sommariva Lorenzo,Male,20-01-2018,Erzurum,TUR,Italy,World Cup,Snowboard Cross,20,110.00
+125,Sommariva Lorenzo,Male,22-12-2017,Cervinia,ITA,Italy,World Cup,Snowboard Cross,27,45.00
+126,Sommariva Lorenzo,Male,21-12-2017,Cervinia,ITA,Italy,Qualification,Snowboard Cross,11,
+127,Sommariva Lorenzo,Male,17-12-2017,Montafon,AUT,Italy,World Cup,Snowboardcross Team,10,
+128,Sommariva Lorenzo,Male,16-12-2017,Montafon,AUT,Italy,World Cup,Snowboardcross,13,200.00
+129,Sommariva Lorenzo,Male,15-12-2017,Montafon,AUT,Italy,Qualification,Snowboard Cross,15,
+130,Sommariva Lorenzo,Male,13-12-2017,Val Thorens,FRA,Italy,World Cup,Snowboardcross,10,260.00
+131,Sommariva Lorenzo,Male,12-12-2017,Val Thorens,FRA,Italy,Qualification,Snowboard Cross,15,
+132,Sommariva Lorenzo,Male,10-09-2017,Cerro Catedral,ARG,Italy,World Cup,Snowboardcross,36,19.70
+133,Sommariva Lorenzo,Male,09-09-2017,Cerro Catedral,ARG,Italy,World Cup,Snowboardcross,42,17.90
+134,Sommariva Lorenzo,Male,08-09-2017,Cerro Catedral,ARG,Italy,Qualification,Snowboardcross,3,
+135,Sommariva Lorenzo,Male,08-04-2017,Cervinia,ITA,Italy,National Championships,Snowboardcross,7,104.40
+136,Sommariva Lorenzo,Male,25-03-2017,Veysonnaz,SUI,Italy,World Cup,Snowboardcross,18,130.00
+137,Sommariva Lorenzo,Male,24-03-2017,Veysonnaz,SUI,Italy,Qualification,Snowboardcross,17,
+138,Sommariva Lorenzo,Male,12-03-2017,Sierra Nevada,ESP,Italy,World Championships,Snowboardcross,38,
+139,Sommariva Lorenzo,Male,10-03-2017,Sierra Nevada,ESP,Italy,Qualification,Snowboardcross,44,
+140,Sommariva Lorenzo,Male,05-03-2017,La Molina,ESP,Italy,World Cup,Snowboardcross,16,150.00
+141,Sommariva Lorenzo,Male,04-03-2017,La Molina,ESP,Italy,Qualification,Snowboardcross,12,
+142,Sommariva Lorenzo,Male,12-02-2017,Feldberg,GER,Italy,World Cup,Snowboardcross,DNS,
+143,Sommariva Lorenzo,Male,11-02-2017,Feldberg,GER,Italy,World Cup,Snowboardcross,14,180.00
+144,Sommariva Lorenzo,Male,10-02-2017,Feldberg,GER,Italy,Qualification,Snowboardcross,9,
+145,Sommariva Lorenzo,Male,04-02-2017,Bansko,BUL,Italy,World Cup,Snowboardcross,8,320.00
+146,Sommariva Lorenzo,Male,02-02-2017,Bansko,BUL,Italy,Qualification,Snowboardcross,10,
+147,Sommariva Lorenzo,Male,22-01-2017,Solitude Mountain Resort,USA,Italy,World Cup,Snowboardcross Team,5,
+148,Sommariva Lorenzo,Male,21-01-2017,Solitude Mountain Resort,USA,Italy,World Cup,Snowboardcross,25,60.00
+149,Sommariva Lorenzo,Male,19-01-2017,Solitude Mountain Resort,USA,Italy,Qualification,Snowboardcross,21,
+150,Sommariva Lorenzo,Male,16-12-2016,Montafon,AUT,Italy,World Cup,Snowboardcross,6,400.00
+151,Sommariva Lorenzo,Male,15-12-2016,Montafon,AUT,Italy,Qualification,Snowboardcross,10,
+152,Sommariva Lorenzo,Male,01-12-2016,Pitztal,AUT,Italy,European Cup,Snowboardcross,3,216.00
+153,Sommariva Lorenzo,Male,30-11-2016,Pitztal,AUT,Italy,European Cup,Snowboardcross,15,57.60
+154,Sommariva Lorenzo,Male,06-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Snowboardcross,6,144.00
+155,Sommariva Lorenzo,Male,20-03-2016,Baqueira Beret,ESP,Italy,World Cup,Snowboardcross,28,40.00
+156,Sommariva Lorenzo,Male,19-03-2016,Baqueira Beret,ESP,Italy,Qualification,Snowboardcross,12,
+157,Sommariva Lorenzo,Male,13-03-2016,Puy St. Vincent,FRA,Italy,European Cup,Snowboardcross,13,100.00
+158,Sommariva Lorenzo,Male,12-03-2016,Puy St. Vincent,FRA,Italy,European Cup,Snowboardcross,49,7.11
+159,Sommariva Lorenzo,Male,06-03-2016,Veysonnaz,SUI,Italy,World Cup,Snowboardcross,33,24.00
+160,Sommariva Lorenzo,Male,05-03-2016,Veysonnaz,SUI,Italy,World Cup,Snowboardcross,30,32.00
+161,Sommariva Lorenzo,Male,04-03-2016,Veysonnaz,SUI,Italy,Qualification,Snowboardcross,35,
+162,Sommariva Lorenzo,Male,04-03-2016,Veysonnaz,SUI,Italy,Qualification,Snowboardcross,12,
+163,Sommariva Lorenzo,Male,27-02-2016,Bokwang,KOR,Italy,World Cup,Snowboardcross,23,80.00
+164,Sommariva Lorenzo,Male,25-02-2016,Bokwang,KOR,Italy,Qualification,Snowboardcross,7,
+165,Sommariva Lorenzo,Male,21-02-2016,Sunny Valley,RUS,Italy,World Cup,Snowboardcross,41,18.20
+166,Sommariva Lorenzo,Male,20-02-2016,Sunny Valley,RUS,Italy,Qualification,Snowboardcross,8,
+167,Sommariva Lorenzo,Male,13-02-2016,Breuil Cervinia-Valtournenche,ITA,Italy,FIS,Snowboardcross,2,208.00
+168,Sommariva Lorenzo,Male,12-02-2016,Breuil Cervinia-Valtournenche,ITA,Italy,FIS,Snowboardcross,2,208.00
+169,Sommariva Lorenzo,Male,30-01-2016,Grasgehren,GER,Italy,European Cup,Snowboardcross,10,83.20
+170,Sommariva Lorenzo,Male,24-01-2016,Feldberg,GER,Italy,World Cup,Snowboardcross,21,100.00
+171,Sommariva Lorenzo,Male,23-01-2016,Feldberg,GER,Italy,World Cup,Snowboardcross,23,80.00
+172,Sommariva Lorenzo,Male,22-01-2016,Feldberg,GER,Italy,Qualification,Snowboardcross,27,
+173,Sommariva Lorenzo,Male,12-12-2015,Montafon,AUT,Italy,World Cup,Snowboardcross,27,45.00
+174,Sommariva Lorenzo,Male,11-12-2015,Montafon,AUT,Italy,Qualification,Snowboardcross,12,
+175,Sommariva Lorenzo,Male,19-04-2015,Breuil Cervinia,ITA,Italy,FIS,Snowboardcross,8,83.20
+176,Sommariva Lorenzo,Male,18-04-2015,Breuil Cervinia,ITA,Italy,FIS,Snowboardcross,1,260.00
+177,Sommariva Lorenzo,Male,25-03-2015,Canazei,ITA,Italy,National Championships,Snowboardcross,10,93.60
+178,Sommariva Lorenzo,Male,24-03-2015,Canazei,ITA,Italy,FIS,Snowboardcross,1,260.00
+179,Sommariva Lorenzo,Male,21-03-2015,La Molina,ESP,Italy,World Cup,Snowboardcross,30,32.00
+180,Sommariva Lorenzo,Male,20-03-2015,La Molina,ESP,Italy,Qualification,Snowboardcross,19,
+181,Sommariva Lorenzo,Male,15-03-2015,Veysonnaz,SUI,Italy,World Cup,Snowboardcross,12,220.00
+182,Sommariva Lorenzo,Male,14-03-2015,Veysonnaz,SUI,Italy,World Cup,Snowboardcross,46,16.70
+183,Sommariva Lorenzo,Male,13-03-2015,Veysonnaz,SUI,Italy,Qualification,Snowboardcross,42,
+184,Sommariva Lorenzo,Male,07-03-2015,Moena,ITA,Italy,FIS,Snowboardcross,8,83.20
+185,Sommariva Lorenzo,Male,06-03-2015,Moena,ITA,Italy,FIS,Snowboardcross,5,117.00
+186,Sommariva Lorenzo,Male,07-02-2015,Cortina d'Ampezzo,ITA,Italy,European Cup,Snowboardcross,25,30.00
+187,Sommariva Lorenzo,Male,01-02-2015,Puy St Vincent,FRA,Italy,European Cup,Snowboardcross,8,115.20
+188,Sommariva Lorenzo,Male,31-01-2015,Puy St Vincent,FRA,Italy,European Cup,Snowboardcross,16,67.50
+189,Sommariva Lorenzo,Male,25-01-2015,Sedrun,SUI,Italy,FIS,Snowboardcross,5,90.00
+190,Sommariva Lorenzo,Male,18-01-2015,Isola 2000,FRA,Italy,European Cup,Snowboardcross,9,84.10
+191,Sommariva Lorenzo,Male,17-01-2015,Isola 2000,FRA,Italy,European Cup,Snowboardcross,25,17.40
+192,Sommariva Lorenzo,Male,04-12-2014,Pitztal,AUT,Italy,European Cup,Snowboardcross,49,7.90
+193,Sommariva Lorenzo,Male,03-12-2014,Pitztal,AUT,Italy,National Championships,Snowboardcross,17,50.40
+194,Sommariva Lorenzo,Male,07-04-2014,Chiesa in Valmalenco,ITA,Italy,National Championships,Snowboardcross,9,104.40
+195,Sommariva Lorenzo,Male,15-03-2014,La Molina,ESP,Italy,World Cup,Snowboardcross,30,32.00
+196,Sommariva Lorenzo,Male,14-03-2014,La Molina,ESP,Italy,Qualification,Snowboardcross,28,
+197,Sommariva Lorenzo,Male,11-03-2014,Veysonnaz,SUI,Italy,World Cup,Snowboardcross,10,260.00
+198,Sommariva Lorenzo,Male,10-03-2014,Veysonnaz,SUI,Italy,Qualification,Snowboardcross,22,
+199,Sommariva Lorenzo,Male,09-02-2014,Isola 2000,FRA,Italy,European Cup,Snowboardcross,20,31.90
+200,Sommariva Lorenzo,Male,22-12-2013,Cortina d Ampezzo,ITA,Italy,European Cup,Snowboardcross,25,14.40
+201,Sommariva Lorenzo,Male,21-12-2013,Cortina d Ampezzo,ITA,Italy,European Cup,Snowboardcross,7,86.40
+202,Sommariva Lorenzo,Male,15-12-2013,Montafon,AUT,Italy,European Cup,Snowboardcross,9,92.80
+203,Sommariva Lorenzo,Male,14-12-2013,Montafon,AUT,Italy,European Cup,Snowboardcross,15,80.00
+204,Sommariva Lorenzo,Male,07-12-2013,Montafon,AUT,Italy,World Cup,Snowboardcross,52,14.90
+205,Sommariva Lorenzo,Male,06-12-2013,Montafon,AUT,Italy,Qualification,Snowboardcross,52,
+206,Sommariva Lorenzo,Male,01-12-2013,Breuil Cervinia,ITA,Italy,FIS,Snowboardcross,15,41.60
+207,Sommariva Lorenzo,Male,30-11-2013,Breuil Cervinia,ITA,Italy,FIS,Snowboardcross,13,52.00
+208,Sommariva Lorenzo,Male,03-03-2013,Erzurum,TUR,Italy,FIS Junior World Championships,Snowboardcross,25,24.00
+209,Sommariva Lorenzo,Male,24-02-2013,Grasgehren,GER,Italy,European Cup,Snowboardcross,70,0.00
+210,Sommariva Lorenzo,Male,23-02-2013,Grasgehren,GER,Italy,National Championships,Snowboardcross,29,12.96
+211,Sommariva Lorenzo,Male,27-01-2013,Le Grand Gornand,FRA,Italy,FIS,Snowboardcross,17,22.40
+212,Sommariva Lorenzo,Male,26-01-2013,Colere,ITA,Italy,FIS,Snowboardcross,7,93.60
+213,Sommariva Lorenzo,Male,26-01-2013,Le Grand Bornand,FRA,Italy,FIS,Snowboardcross,31,
+214,Sommariva Lorenzo,Male,25-01-2013,Colere,ITA,Italy,FIS,Snowboardcross,17,36.40
+215,Sommariva Lorenzo,Male,13-01-2013,Puy St Vincent,FRA,Italy,European Cup,Snowboardcross,37,9.70
+216,Sommariva Lorenzo,Male,12-01-2013,Puy St Vincent,FRA,Italy,European Cup,Snowboardcross,36,9.85
+217,Sommariva Lorenzo,Male,11-01-2013,Puy St Vincent,FRA,Italy,FIS,Snowboardcross,71,2.39
+218,Sommariva Lorenzo,Male,23-12-2012,Cortina d Ampezzo,ITA,Italy,European Cup,Snowboardcross,34,11.00
+219,Sommariva Lorenzo,Male,22-12-2012,Cortina d Ampezzo,ITA,Italy,European Cup,Snowboardcross,31,14.00
+220,Sommariva Lorenzo,Male,07-03-2009,Courmayeur,ITA,Italy,FIS,Snowboardcross,27,10.80

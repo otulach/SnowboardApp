@@ -1,26 +1,28 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Zamfirova Malena,Female,06-03-2025,Zakopane/Suche,POL,Bulgaria,Qualification,Parallel Slalom Team,1,
-1,Zamfirova Malena,Female,06-03-2025,Zakopane/Suche,POL,Bulgaria,FIS Junior World Championships,Parallel Slalom Team,1,
-2,Zamfirova Malena,Female,05-03-2025,Zakopane/Suche,POL,Bulgaria,Qualification,Parallel Slalom,2,
-3,Zamfirova Malena,Female,05-03-2025,Zakopane/Suche,POL,Bulgaria,FIS Junior World Championships,Parallel Slalom,2,232.00
-4,Zamfirova Malena,Female,04-03-2025,Zakopane/Suche,POL,Bulgaria,Qualification,Parallel Giant Slalom,2,
-5,Zamfirova Malena,Female,04-03-2025,Zakopane/Suche,POL,Bulgaria,FIS Junior World Championships,Parallel Giant Slalom,2,232.00
-6,Zamfirova Malena,Female,02-03-2025,Krynica,POL,Bulgaria,Qualification,Parallel Giant Slalom,15,
-7,Zamfirova Malena,Female,02-03-2025,Krynica,POL,Bulgaria,World Cup,Parallel Giant Slalom,2,800.00
-8,Zamfirova Malena,Female,01-03-2025,Krynica,POL,Bulgaria,Qualification,Parallel Giant Slalom,23,
-9,Zamfirova Malena,Female,01-03-2025,Krynica,POL,Bulgaria,World Cup,Parallel Giant Slalom,23,80.00
-10,Zamfirova Malena,Female,26-01-2025,Simonhöhe,AUT,Bulgaria,European Cup,Parallel Giant Slalom,14,64.80
-11,Zamfirova Malena,Female,25-01-2025,Rogla,SLO,Bulgaria,World Cup,Parallel Giant Slalom,25,60.00
-12,Zamfirova Malena,Female,25-01-2025,Rogla,SLO,Bulgaria,Qualification,Parallel Giant Slalom,25,
-13,Zamfirova Malena,Female,22-01-2025,Bansko,BUL,Bulgaria,European Cup,Parallel Giant Slalom,3,216.00
-14,Zamfirova Malena,Female,21-01-2025,Bansko,BUL,Bulgaria,European Cup,Parallel Giant Slalom,2,288.00
-15,Zamfirova Malena,Female,19-01-2025,Bansko,BUL,Bulgaria,World Cup,Parallel Giant Slalom,19,120.00
-16,Zamfirova Malena,Female,19-01-2025,Bansko,BUL,Bulgaria,Qualification,Parallel Giant Slalom,19,
-17,Zamfirova Malena,Female,18-01-2025,Bansko,BUL,Bulgaria,World Cup,Parallel Giant Slalom,36,19.70
-18,Zamfirova Malena,Female,18-01-2025,Bansko,BUL,Bulgaria,Qualification,Parallel Giant Slalom,36,
-19,Zamfirova Malena,Female,12-01-2025,Nova Levante - Welschnofen,ITA,Bulgaria,FIS,Parallel Giant Slalom,2,112.00
-20,Zamfirova Malena,Female,11-01-2025,Folgaria,ITA,Bulgaria,Qualification,Parallel Giant Slalom,9,
-21,Zamfirova Malena,Female,11-01-2025,Folgaria,ITA,Bulgaria,European Cup,Parallel Giant Slalom,12,52.80
-22,Zamfirova Malena,Female,10-01-2025,Folgaria,ITA,Bulgaria,European Cup,Parallel Giant Slalom,DNF,
-23,Zamfirova Malena,Female,15-12-2024,Götschen,GER,Bulgaria,European Cup,Parallel Slalom,13,48.00
-24,Zamfirova Malena,Female,14-12-2024,Götschen,GER,Bulgaria,European Cup,Parallel Slalom,29,7.92
+0,Zamfirova Malena,Female,20-03-2025,Engadin,SUI,Bulgaria,World Championships,Parallel Giant Slalom,7,360.00
+1,Zamfirova Malena,Female,20-03-2025,Engadin,SUI,Bulgaria,Qualification,Parallel Giant Slalom,8,
+2,Zamfirova Malena,Female,06-03-2025,Zakopane/Suche,POL,Bulgaria,Qualification,Parallel Slalom Team,1,
+3,Zamfirova Malena,Female,06-03-2025,Zakopane/Suche,POL,Bulgaria,FIS Junior World Championships,Parallel Slalom Team,1,
+4,Zamfirova Malena,Female,05-03-2025,Zakopane/Suche,POL,Bulgaria,FIS Junior World Championships,Parallel Slalom,2,232.00
+5,Zamfirova Malena,Female,05-03-2025,Zakopane/Suche,POL,Bulgaria,Qualification,Parallel Slalom,2,
+6,Zamfirova Malena,Female,04-03-2025,Zakopane/Suche,POL,Bulgaria,Qualification,Parallel Giant Slalom,2,
+7,Zamfirova Malena,Female,04-03-2025,Zakopane/Suche,POL,Bulgaria,FIS Junior World Championships,Parallel Giant Slalom,2,232.00
+8,Zamfirova Malena,Female,02-03-2025,Krynica,POL,Bulgaria,Qualification,Parallel Giant Slalom,15,
+9,Zamfirova Malena,Female,02-03-2025,Krynica,POL,Bulgaria,World Cup,Parallel Giant Slalom,2,800.00
+10,Zamfirova Malena,Female,01-03-2025,Krynica,POL,Bulgaria,Qualification,Parallel Giant Slalom,23,
+11,Zamfirova Malena,Female,01-03-2025,Krynica,POL,Bulgaria,World Cup,Parallel Giant Slalom,23,80.00
+12,Zamfirova Malena,Female,26-01-2025,Simonhöhe,AUT,Bulgaria,European Cup,Parallel Giant Slalom,14,64.80
+13,Zamfirova Malena,Female,25-01-2025,Rogla,SLO,Bulgaria,Qualification,Parallel Giant Slalom,25,
+14,Zamfirova Malena,Female,25-01-2025,Rogla,SLO,Bulgaria,World Cup,Parallel Giant Slalom,25,60.00
+15,Zamfirova Malena,Female,22-01-2025,Bansko,BUL,Bulgaria,European Cup,Parallel Giant Slalom,3,216.00
+16,Zamfirova Malena,Female,21-01-2025,Bansko,BUL,Bulgaria,European Cup,Parallel Giant Slalom,2,288.00
+17,Zamfirova Malena,Female,19-01-2025,Bansko,BUL,Bulgaria,Qualification,Parallel Giant Slalom,19,
+18,Zamfirova Malena,Female,19-01-2025,Bansko,BUL,Bulgaria,World Cup,Parallel Giant Slalom,19,120.00
+19,Zamfirova Malena,Female,18-01-2025,Bansko,BUL,Bulgaria,World Cup,Parallel Giant Slalom,36,19.70
+20,Zamfirova Malena,Female,18-01-2025,Bansko,BUL,Bulgaria,Qualification,Parallel Giant Slalom,36,
+21,Zamfirova Malena,Female,12-01-2025,Nova Levante - Welschnofen,ITA,Bulgaria,FIS,Parallel Giant Slalom,2,112.00
+22,Zamfirova Malena,Female,11-01-2025,Folgaria,ITA,Bulgaria,Qualification,Parallel Giant Slalom,9,
+23,Zamfirova Malena,Female,11-01-2025,Folgaria,ITA,Bulgaria,European Cup,Parallel Giant Slalom,12,52.80
+24,Zamfirova Malena,Female,10-01-2025,Folgaria,ITA,Bulgaria,European Cup,Parallel Giant Slalom,DNF,
+25,Zamfirova Malena,Female,15-12-2024,Götschen,GER,Bulgaria,European Cup,Parallel Slalom,13,48.00
+26,Zamfirova Malena,Female,14-12-2024,Götschen,GER,Bulgaria,European Cup,Parallel Slalom,29,7.92
