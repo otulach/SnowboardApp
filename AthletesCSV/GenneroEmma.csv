@@ -1,73 +1,74 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Gennero Emma,Female,06-02-2025,Aspen,USA,Italy,World Cup,Big Air,23,12.10
-1,Gennero Emma,Female,05-02-2025,Aspen,USA,Italy,Qualification,Big Air,23,
-2,Gennero Emma,Female,02-02-2025,Aspen,USA,Italy,World Cup,Slopestyle,27,26.90
-3,Gennero Emma,Female,31-01-2025,Aspen,USA,Italy,Qualification,Slopestyle,27,
-4,Gennero Emma,Female,18-01-2025,Laax,SUI,Italy,World Cup,Slopestyle,17,130.40
-5,Gennero Emma,Female,16-01-2025,Laax,SUI,Italy,Qualification,Slopestyle,17,
-6,Gennero Emma,Female,11-01-2025,Kreischberg,AUT,Italy,World Cup,Big Air,26,19.50
-7,Gennero Emma,Female,09-01-2025,Kreischberg,AUT,Italy,Qualification,Big Air,26,
-8,Gennero Emma,Female,05-01-2025,Klagenfurt,AUT,Italy,World Cup,Big Air,17,70.70
-9,Gennero Emma,Female,03-01-2025,Klagenfurt,AUT,Italy,Qualification,Big Air,17,
-10,Gennero Emma,Female,14-04-2024,Corvatsch,SUI,Italy,European Cup Premium,Big Air,DNS,
-11,Gennero Emma,Female,12-04-2024,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,10,89.50
-12,Gennero Emma,Female,06-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Slopestyle,1,110.00
-13,Gennero Emma,Female,05-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Big Air,2,42.20
-14,Gennero Emma,Female,23-03-2024,Silvaplana,SUI,Italy,World Cup,Slopestyle,22,19.20
-15,Gennero Emma,Female,21-03-2024,Silvaplana,SUI,Italy,Qualification,Slopestyle,22,
-16,Gennero Emma,Female,12-03-2024,Laax,SUI,Italy,European Cup Premium,Slopestyle,DNS,
-17,Gennero Emma,Female,22-02-2024,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,9,36.40
-18,Gennero Emma,Female,21-10-2023,Chur,SUI,Italy,World Cup,Big Air,15,58.50
-19,Gennero Emma,Female,21-10-2023,Chur,SUI,Italy,Qualification,Big Air,15,
-20,Gennero Emma,Female,22-04-2023,Kitzsteinhorn,AUT,Italy,European Cup,Big Air,12,36.00
-21,Gennero Emma,Female,21-04-2023,Kitzsteinhorn,AUT,Italy,European Cup,Slopestyle,4,125.40
-22,Gennero Emma,Female,17-04-2023,Corvatsch,SUI,Italy,European Cup Premium,Big Air,11,42.70
-23,Gennero Emma,Female,14-04-2023,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,5,130.00
-24,Gennero Emma,Female,05-04-2023,Livigno,ITA,Italy,National Championships,Slopestyle,1,50.00
-25,Gennero Emma,Female,29-03-2023,Ruka,FIN,Italy,European Cup,Slopestyle,8,24.50
-26,Gennero Emma,Female,17-03-2023,Laax,SUI,Italy,European Cup Premium,Slopestyle,12,61.80
-27,Gennero Emma,Female,18-02-2023,Davos,SUI,Italy,European Cup,Big Air,12,15.60
-28,Gennero Emma,Female,04-02-2023,Font Romeu,FRA,Italy,European Cup,Big Air,5,55.30
-29,Gennero Emma,Female,02-02-2023,Font Romeu,FRA,Italy,European Cup,Slopestyle,13,12.50
-30,Gennero Emma,Female,25-01-2023,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,10,13.80
-31,Gennero Emma,Female,22-01-2023,Laax,SUI,Italy,World Cup,Slopestyle,22,59.10
-32,Gennero Emma,Female,20-01-2023,Laax,SUI,Italy,Qualification,Slopestyle,22,
-33,Gennero Emma,Female,17-12-2022,Copper Mountain,USA,Italy,World Cup,Big Air,21,11.00
-34,Gennero Emma,Female,15-12-2022,Copper Mountain,USA,Italy,Qualification,Big Air,21,
-35,Gennero Emma,Female,10-12-2022,Edmonton,CAN,Italy,World Cup,Big Air,DNS,
-36,Gennero Emma,Female,09-12-2022,Edmonton,CAN,Italy,Qualification,Big Air,DNS,
-37,Gennero Emma,Female,22-10-2022,Chur,SUI,Italy,World Cup,Big Air,14,113.70
-38,Gennero Emma,Female,22-10-2022,Chur,SUI,Italy,Qualification,Big Air,14,
-39,Gennero Emma,Female,09-04-2022,Corvatsch,SUI,Italy,European Cup Premium,Big Air,6,62.00
-40,Gennero Emma,Female,07-04-2022,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,7,69.40
-41,Gennero Emma,Female,27-03-2022,Silvaplana,SUI,Italy,World Cup,Slopestyle,17,34.70
-42,Gennero Emma,Female,25-03-2022,Silvaplana,SUI,Italy,Qualification,Slopestyle,17,
-43,Gennero Emma,Female,15-03-2022,Laax,SUI,Italy,European Cup Premium,Slopestyle,6,58.90
-44,Gennero Emma,Female,12-02-2022,Kotelnica Bialczanska,POL,Italy,European Cup Premium,Big Air,3,57.70
-45,Gennero Emma,Female,23-01-2022,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,5,68.30
-46,Gennero Emma,Female,15-01-2022,Laax,SUI,Italy,World Cup,Slopestyle,28,20.70
-47,Gennero Emma,Female,14-01-2022,Laax,SUI,Italy,Qualification,Slopestyle,28,
-48,Gennero Emma,Female,19-11-2021,Landgraaf,NED,Italy,European Cup,Slopestyle,18,0.10
-49,Gennero Emma,Female,18-11-2021,Landgraaf,NED,Italy,FIS,Slopestyle,10,28.70
-50,Gennero Emma,Female,20-04-2021,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,11,42.23
-51,Gennero Emma,Female,18-04-2021,Corvatsch,SUI,Italy,European Cup Premium,Big Air,8,34.43
-52,Gennero Emma,Female,11-03-2021,Leysin,SUI,Italy,European Cup,Slopestyle,9,0.18
-53,Gennero Emma,Female,05-03-2021,Götschen,GER,Italy,European Cup,Big Air,7,23.84
-54,Gennero Emma,Female,04-03-2021,Flachauwinkel,AUT,Italy,European Cup,Big Air,4,61.86
-55,Gennero Emma,Female,22-02-2021,Götschen,GER,Italy,European Cup,Big Air,7,48.12
-56,Gennero Emma,Female,21-02-2021,Götschen,GER,Italy,European Cup,Slopestyle,4,108.00
-57,Gennero Emma,Female,19-02-2021,Davos,SUI,Italy,European Cup,Big Air,12,18.54
-58,Gennero Emma,Female,08-02-2021,Kopaonik,SRB,Italy,European Cup,Big Air,6,36.89
-59,Gennero Emma,Female,21-02-2020,Davos,SUI,Italy,European Cup Premium,Big Air,16,
-60,Gennero Emma,Female,23-01-2020,Seiseralm,ITA,Italy,World Cup,Slopestyle,16,150.00
-61,Gennero Emma,Female,22-01-2020,Seiseralm,ITA,Italy,Qualification,Slopestyle,16,
-62,Gennero Emma,Female,19-01-2020,Vars,FRA,Italy,European Cup,Slopestyle,6,64.00
-63,Gennero Emma,Female,18-01-2020,Vars,FRA,Italy,European Cup,Big Air,14,
-64,Gennero Emma,Female,14-02-2019,Bjelasnica,BIH,Italy,European Youth Olympic Festival,Big Air,7,25.20
-65,Gennero Emma,Female,12-02-2019,Bjelasnica,BIH,Italy,European Youth Olympic Festival,Slopestyle,6,48.00
-66,Gennero Emma,Female,26-01-2019,Seiser Alm,ITA,Italy,World Cup,Slopestyle,22,
-67,Gennero Emma,Female,24-01-2019,Seiser Alm,ITA,Italy,Qualification,Slopestyle,22,
-68,Gennero Emma,Female,22-11-2018,Landgraaf,NED,Italy,European Cup,Slopestyle,9,46.40
-69,Gennero Emma,Female,21-11-2018,Landgraaf,NED,Italy,FIS,Slopestyle,12,
-70,Gennero Emma,Female,24-01-2018,Vars,FRA,Italy,European Cup,Big Air,6,64.00
-71,Gennero Emma,Female,23-01-2018,Vars,FRA,Italy,European Cup,Slopestyle,11,38.40
+0,Gennero Emma,Female,21-03-2025,St. Anton,AUT,Italy,European Cup,Big Air,9,
+1,Gennero Emma,Female,06-02-2025,Aspen,USA,Italy,World Cup,Big Air,23,12.10
+2,Gennero Emma,Female,05-02-2025,Aspen,USA,Italy,Qualification,Big Air,23,
+3,Gennero Emma,Female,02-02-2025,Aspen,USA,Italy,World Cup,Slopestyle,27,26.90
+4,Gennero Emma,Female,31-01-2025,Aspen,USA,Italy,Qualification,Slopestyle,27,
+5,Gennero Emma,Female,18-01-2025,Laax,SUI,Italy,World Cup,Slopestyle,17,130.40
+6,Gennero Emma,Female,16-01-2025,Laax,SUI,Italy,Qualification,Slopestyle,17,
+7,Gennero Emma,Female,11-01-2025,Kreischberg,AUT,Italy,World Cup,Big Air,26,19.50
+8,Gennero Emma,Female,09-01-2025,Kreischberg,AUT,Italy,Qualification,Big Air,26,
+9,Gennero Emma,Female,05-01-2025,Klagenfurt,AUT,Italy,World Cup,Big Air,17,70.70
+10,Gennero Emma,Female,03-01-2025,Klagenfurt,AUT,Italy,Qualification,Big Air,17,
+11,Gennero Emma,Female,14-04-2024,Corvatsch,SUI,Italy,European Cup Premium,Big Air,DNS,
+12,Gennero Emma,Female,12-04-2024,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,10,89.50
+13,Gennero Emma,Female,06-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Slopestyle,1,110.00
+14,Gennero Emma,Female,05-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Big Air,2,42.20
+15,Gennero Emma,Female,23-03-2024,Silvaplana,SUI,Italy,World Cup,Slopestyle,22,19.20
+16,Gennero Emma,Female,21-03-2024,Silvaplana,SUI,Italy,Qualification,Slopestyle,22,
+17,Gennero Emma,Female,12-03-2024,Laax,SUI,Italy,European Cup Premium,Slopestyle,DNS,
+18,Gennero Emma,Female,22-02-2024,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,9,36.40
+19,Gennero Emma,Female,21-10-2023,Chur,SUI,Italy,World Cup,Big Air,15,58.50
+20,Gennero Emma,Female,21-10-2023,Chur,SUI,Italy,Qualification,Big Air,15,
+21,Gennero Emma,Female,22-04-2023,Kitzsteinhorn,AUT,Italy,European Cup,Big Air,12,36.00
+22,Gennero Emma,Female,21-04-2023,Kitzsteinhorn,AUT,Italy,European Cup,Slopestyle,4,125.40
+23,Gennero Emma,Female,17-04-2023,Corvatsch,SUI,Italy,European Cup Premium,Big Air,11,42.70
+24,Gennero Emma,Female,14-04-2023,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,5,130.00
+25,Gennero Emma,Female,05-04-2023,Livigno,ITA,Italy,National Championships,Slopestyle,1,50.00
+26,Gennero Emma,Female,29-03-2023,Ruka,FIN,Italy,European Cup,Slopestyle,8,24.50
+27,Gennero Emma,Female,17-03-2023,Laax,SUI,Italy,European Cup Premium,Slopestyle,12,61.80
+28,Gennero Emma,Female,18-02-2023,Davos,SUI,Italy,European Cup,Big Air,12,15.60
+29,Gennero Emma,Female,04-02-2023,Font Romeu,FRA,Italy,European Cup,Big Air,5,55.30
+30,Gennero Emma,Female,02-02-2023,Font Romeu,FRA,Italy,European Cup,Slopestyle,13,12.50
+31,Gennero Emma,Female,25-01-2023,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,10,13.80
+32,Gennero Emma,Female,22-01-2023,Laax,SUI,Italy,World Cup,Slopestyle,22,59.10
+33,Gennero Emma,Female,20-01-2023,Laax,SUI,Italy,Qualification,Slopestyle,22,
+34,Gennero Emma,Female,17-12-2022,Copper Mountain,USA,Italy,World Cup,Big Air,21,11.00
+35,Gennero Emma,Female,15-12-2022,Copper Mountain,USA,Italy,Qualification,Big Air,21,
+36,Gennero Emma,Female,10-12-2022,Edmonton,CAN,Italy,World Cup,Big Air,DNS,
+37,Gennero Emma,Female,09-12-2022,Edmonton,CAN,Italy,Qualification,Big Air,DNS,
+38,Gennero Emma,Female,22-10-2022,Chur,SUI,Italy,World Cup,Big Air,14,113.70
+39,Gennero Emma,Female,22-10-2022,Chur,SUI,Italy,Qualification,Big Air,14,
+40,Gennero Emma,Female,09-04-2022,Corvatsch,SUI,Italy,European Cup Premium,Big Air,6,62.00
+41,Gennero Emma,Female,07-04-2022,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,7,69.40
+42,Gennero Emma,Female,27-03-2022,Silvaplana,SUI,Italy,World Cup,Slopestyle,17,34.70
+43,Gennero Emma,Female,25-03-2022,Silvaplana,SUI,Italy,Qualification,Slopestyle,17,
+44,Gennero Emma,Female,15-03-2022,Laax,SUI,Italy,European Cup Premium,Slopestyle,6,58.90
+45,Gennero Emma,Female,12-02-2022,Kotelnica Bialczanska,POL,Italy,European Cup Premium,Big Air,3,57.70
+46,Gennero Emma,Female,23-01-2022,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,5,68.30
+47,Gennero Emma,Female,15-01-2022,Laax,SUI,Italy,World Cup,Slopestyle,28,20.70
+48,Gennero Emma,Female,14-01-2022,Laax,SUI,Italy,Qualification,Slopestyle,28,
+49,Gennero Emma,Female,19-11-2021,Landgraaf,NED,Italy,European Cup,Slopestyle,18,0.10
+50,Gennero Emma,Female,18-11-2021,Landgraaf,NED,Italy,FIS,Slopestyle,10,28.70
+51,Gennero Emma,Female,20-04-2021,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,11,42.23
+52,Gennero Emma,Female,18-04-2021,Corvatsch,SUI,Italy,European Cup Premium,Big Air,8,34.43
+53,Gennero Emma,Female,11-03-2021,Leysin,SUI,Italy,European Cup,Slopestyle,9,0.18
+54,Gennero Emma,Female,05-03-2021,Götschen,GER,Italy,European Cup,Big Air,7,23.84
+55,Gennero Emma,Female,04-03-2021,Flachauwinkel,AUT,Italy,European Cup,Big Air,4,61.86
+56,Gennero Emma,Female,22-02-2021,Götschen,GER,Italy,European Cup,Big Air,7,48.12
+57,Gennero Emma,Female,21-02-2021,Götschen,GER,Italy,European Cup,Slopestyle,4,108.00
+58,Gennero Emma,Female,19-02-2021,Davos,SUI,Italy,European Cup,Big Air,12,18.54
+59,Gennero Emma,Female,08-02-2021,Kopaonik,SRB,Italy,European Cup,Big Air,6,36.89
+60,Gennero Emma,Female,21-02-2020,Davos,SUI,Italy,European Cup Premium,Big Air,16,
+61,Gennero Emma,Female,23-01-2020,Seiseralm,ITA,Italy,World Cup,Slopestyle,16,150.00
+62,Gennero Emma,Female,22-01-2020,Seiseralm,ITA,Italy,Qualification,Slopestyle,16,
+63,Gennero Emma,Female,19-01-2020,Vars,FRA,Italy,European Cup,Slopestyle,6,64.00
+64,Gennero Emma,Female,18-01-2020,Vars,FRA,Italy,European Cup,Big Air,14,
+65,Gennero Emma,Female,14-02-2019,Bjelasnica,BIH,Italy,European Youth Olympic Festival,Big Air,7,25.20
+66,Gennero Emma,Female,12-02-2019,Bjelasnica,BIH,Italy,European Youth Olympic Festival,Slopestyle,6,48.00
+67,Gennero Emma,Female,26-01-2019,Seiser Alm,ITA,Italy,World Cup,Slopestyle,22,
+68,Gennero Emma,Female,24-01-2019,Seiser Alm,ITA,Italy,Qualification,Slopestyle,22,
+69,Gennero Emma,Female,22-11-2018,Landgraaf,NED,Italy,European Cup,Slopestyle,9,46.40
+70,Gennero Emma,Female,21-11-2018,Landgraaf,NED,Italy,FIS,Slopestyle,12,
+71,Gennero Emma,Female,24-01-2018,Vars,FRA,Italy,European Cup,Big Air,6,64.00
+72,Gennero Emma,Female,23-01-2018,Vars,FRA,Italy,European Cup,Slopestyle,11,38.40

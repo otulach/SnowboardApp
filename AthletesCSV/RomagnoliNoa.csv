@@ -1,29 +1,31 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Romagnoli Noa,Male,21-03-2025,Moena-Passo San Pellegrino,ITA,Italy,Junior,Snowboard Cross,9,26.10
-1,Romagnoli Noa,Male,28-02-2025,Passo San Pellegrino,ITA,Italy,European Cup,Snowboard Cross,43,
-2,Romagnoli Noa,Male,27-02-2025,Passo San Pellegrino,ITA,Italy,European Cup,Snowboard Cross,31,5.04
-3,Romagnoli Noa,Male,23-02-2025,Colere,ITA,Italy,FIS,Snowboard Cross,17,25.20
-4,Romagnoli Noa,Male,22-02-2025,Colere,ITA,Italy,FIS,Snowboard Cross,36,3.55
-5,Romagnoli Noa,Male,02-02-2025,Reiteralm,AUT,Italy,Junior,Snowboard Cross,27,2.25
-6,Romagnoli Noa,Male,01-02-2025,Reiteralm,AUT,Italy,Junior,Snowboard Cross,24,3.50
-7,Romagnoli Noa,Male,25-01-2025,Passo San Pellegrino,ITA,Italy,FIS,Snowboard Cross,3,30.00
-8,Romagnoli Noa,Male,24-01-2025,Passo San Pellegrino,ITA,Italy,FIS,Snowboard Cross,4,25.00
-9,Romagnoli Noa,Male,01-12-2024,Pitztal,AUT,Italy,Junior,Snowboard Cross,34,2.64
-10,Romagnoli Noa,Male,30-11-2024,Pitztal,AUT,Italy,Qualification,Snowboard Cross,56,
-11,Romagnoli Noa,Male,30-11-2024,Pitztal,AUT,Italy,Junior,Snowboard Cross,56,1.64
-12,Romagnoli Noa,Male,06-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Slopestyle,DNS,
-13,Romagnoli Noa,Male,05-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Big Air,7,93.50
-14,Romagnoli Noa,Male,30-03-2024,Colere,ITA,Italy,National Championships,Snowboard Cross,20,31.90
-15,Romagnoli Noa,Male,09-03-2024,Colere,ITA,Italy,FIS,Snowboard Cross,1,50.00
-16,Romagnoli Noa,Male,17-02-2024,Colere,ITA,Italy,European Cup,Snowboard Cross,61,2.93
-17,Romagnoli Noa,Male,16-02-2024,Colere,ITA,Italy,European Cup,Snowboard Cross,62,2.86
-18,Romagnoli Noa,Male,04-02-2024,Colere,ITA,Italy,Junior,Snowboard Cross,17,7.00
-19,Romagnoli Noa,Male,03-02-2024,Colere,ITA,Italy,Junior,Snowboard Cross,2,40.00
-20,Romagnoli Noa,Male,28-01-2024,Grasgehren,GER,Italy,Junior,Snowboard Cross,27,4.95
-21,Romagnoli Noa,Male,27-01-2024,Grasgehren,GER,Italy,Junior,Snowboard Cross,16,7.50
-22,Romagnoli Noa,Male,09-12-2023,Pitztal,AUT,Italy,Junior,Snowboard Cross,47,1.64
-23,Romagnoli Noa,Male,08-02-2023,Cervinia,ITA,Italy,Junior,Snowboard Cross,17,18.20
-24,Romagnoli Noa,Male,07-02-2023,Cervinia,ITA,Italy,Junior,Snowboard Cross,39,2.44
-25,Romagnoli Noa,Male,14-01-2023,Lenk,SUI,Italy,FIS,Snowboard Cross,21,5.00
-26,Romagnoli Noa,Male,27-11-2022,Pitztal,AUT,Italy,Junior,Snowboard Cross,65,1.76
-27,Romagnoli Noa,Male,26-11-2022,Pitztal,AUT,Italy,Junior,Snowboard Cross,48,2.90
+0,Romagnoli Noa,Male,23-03-2025,Moena-Passo San Pellegrino,ITA,Italy,National Championships,Snowboard Cross,40,3.70
+1,Romagnoli Noa,Male,22-03-2025,Moena-Passo San Pellegrino,ITA,Italy,Junior,Snowboard Cross,10,18.20
+2,Romagnoli Noa,Male,21-03-2025,Moena-Passo San Pellegrino,ITA,Italy,Junior,Snowboard Cross,9,26.10
+3,Romagnoli Noa,Male,28-02-2025,Passo San Pellegrino,ITA,Italy,European Cup,Snowboard Cross,43,
+4,Romagnoli Noa,Male,27-02-2025,Passo San Pellegrino,ITA,Italy,European Cup,Snowboard Cross,31,5.04
+5,Romagnoli Noa,Male,23-02-2025,Colere,ITA,Italy,FIS,Snowboard Cross,17,25.20
+6,Romagnoli Noa,Male,22-02-2025,Colere,ITA,Italy,FIS,Snowboard Cross,36,3.55
+7,Romagnoli Noa,Male,02-02-2025,Reiteralm,AUT,Italy,Junior,Snowboard Cross,27,2.25
+8,Romagnoli Noa,Male,01-02-2025,Reiteralm,AUT,Italy,Junior,Snowboard Cross,24,3.50
+9,Romagnoli Noa,Male,25-01-2025,Passo San Pellegrino,ITA,Italy,FIS,Snowboard Cross,3,30.00
+10,Romagnoli Noa,Male,24-01-2025,Passo San Pellegrino,ITA,Italy,FIS,Snowboard Cross,4,25.00
+11,Romagnoli Noa,Male,01-12-2024,Pitztal,AUT,Italy,Junior,Snowboard Cross,34,2.64
+12,Romagnoli Noa,Male,30-11-2024,Pitztal,AUT,Italy,Qualification,Snowboard Cross,56,
+13,Romagnoli Noa,Male,30-11-2024,Pitztal,AUT,Italy,Junior,Snowboard Cross,56,1.64
+14,Romagnoli Noa,Male,06-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Slopestyle,DNS,
+15,Romagnoli Noa,Male,05-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Big Air,7,93.50
+16,Romagnoli Noa,Male,30-03-2024,Colere,ITA,Italy,National Championships,Snowboard Cross,20,31.90
+17,Romagnoli Noa,Male,09-03-2024,Colere,ITA,Italy,FIS,Snowboard Cross,1,50.00
+18,Romagnoli Noa,Male,17-02-2024,Colere,ITA,Italy,European Cup,Snowboard Cross,61,2.93
+19,Romagnoli Noa,Male,16-02-2024,Colere,ITA,Italy,European Cup,Snowboard Cross,62,2.86
+20,Romagnoli Noa,Male,04-02-2024,Colere,ITA,Italy,Junior,Snowboard Cross,17,7.00
+21,Romagnoli Noa,Male,03-02-2024,Colere,ITA,Italy,Junior,Snowboard Cross,2,40.00
+22,Romagnoli Noa,Male,28-01-2024,Grasgehren,GER,Italy,Junior,Snowboard Cross,27,4.95
+23,Romagnoli Noa,Male,27-01-2024,Grasgehren,GER,Italy,Junior,Snowboard Cross,16,7.50
+24,Romagnoli Noa,Male,09-12-2023,Pitztal,AUT,Italy,Junior,Snowboard Cross,47,1.64
+25,Romagnoli Noa,Male,08-02-2023,Cervinia,ITA,Italy,Junior,Snowboard Cross,17,18.20
+26,Romagnoli Noa,Male,07-02-2023,Cervinia,ITA,Italy,Junior,Snowboard Cross,39,2.44
+27,Romagnoli Noa,Male,14-01-2023,Lenk,SUI,Italy,FIS,Snowboard Cross,21,5.00
+28,Romagnoli Noa,Male,27-11-2022,Pitztal,AUT,Italy,Junior,Snowboard Cross,65,1.76
+29,Romagnoli Noa,Male,26-11-2022,Pitztal,AUT,Italy,Junior,Snowboard Cross,48,2.90

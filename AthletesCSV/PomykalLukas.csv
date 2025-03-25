@@ -1,49 +1,50 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Pomykal Lukas,Male,15-03-2025,Lenk,SUI,Czechia,European Cup,Snowboard Cross,34,4.40
-1,Pomykal Lukas,Male,13-03-2025,Lenk,SUI,Czechia,European Cup,Snowboard Cross,28,8.00
-2,Pomykal Lukas,Male,08-03-2025,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,8,22.40
-3,Pomykal Lukas,Male,23-02-2025,Klinovec,CZE,Czechia,FIS,Snowboard Cross,4,70.00
-4,Pomykal Lukas,Male,22-02-2025,Klinovec,CZE,Czechia,FIS,Snowboard Cross,7,18.00
-5,Pomykal Lukas,Male,09-02-2025,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,13,44.00
-6,Pomykal Lukas,Male,08-02-2025,Dolni Morava,CZE,Czechia,National Championships,Snowboard Cross,14,46.80
-7,Pomykal Lukas,Male,02-02-2025,St. Lary,FRA,Czechia,National Championships,Snowboard Cross,20,16.50
-8,Pomykal Lukas,Male,31-01-2025,St. Lary,FRA,Czechia,European Cup,Snowboard Cross,34,3.96
-9,Pomykal Lukas,Male,24-01-2025,Puy St. Vincent,FRA,Czechia,European Cup,Snowboard Cross,24,12.60
-10,Pomykal Lukas,Male,23-01-2025,Puy St. Vincent,FRA,Czechia,European Cup,Snowboard Cross,43,3.52
-11,Pomykal Lukas,Male,27-11-2024,Pitztal,AUT,Czechia,Qualification,Snowboard Cross,82,
-12,Pomykal Lukas,Male,27-11-2024,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,82,2.12
-13,Pomykal Lukas,Male,28-08-2024,Corralco,CHI,Czechia,South American Cup,Snowboard Cross,10,41.60
-14,Pomykal Lukas,Male,27-08-2024,Corralco,CHI,Czechia,South American Cup,Snowboard Cross,11,38.40
-15,Pomykal Lukas,Male,30-03-2024,Colere,ITA,Czechia,National Championships,Snowboard Cross,28,11.60
-16,Pomykal Lukas,Male,01-03-2024,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,9,26.10
-17,Pomykal Lukas,Male,29-02-2024,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,11,21.60
-18,Pomykal Lukas,Male,03-02-2024,Dolni Morava,CZE,Czechia,Junior,Snowboard Cross,13,10.00
-19,Pomykal Lukas,Male,02-02-2024,Dolni Morava,CZE,Czechia,Junior,Snowboard Cross,17,12.60
-20,Pomykal Lukas,Male,05-02-2023,Dolni Morava,CZE,Czechia,Junior,Snowboard Cross,9,14.50
-21,Pomykal Lukas,Male,04-02-2023,Dolni Morava,CZE,Czechia,Junior,Snowboard Cross,10,13.00
-22,Pomykal Lukas,Male,03-02-2023,Dolni Morava,CZE,Czechia,Junior,Snowboard Cross,25,3.00
-23,Pomykal Lukas,Male,27-11-2022,Pitztal,AUT,Czechia,Junior,Snowboard Cross,49,2.53
-24,Pomykal Lukas,Male,26-11-2022,Pitztal,AUT,Czechia,Junior,Snowboard Cross,43,3.17
-25,Pomykal Lukas,Male,25-11-2022,Pitztal,AUT,Czechia,FIS,Snowboard Cross,65,2.42
-26,Pomykal Lukas,Male,20-03-2022,Passo San Pellegrino,ITA,Czechia,Junior,Snowboard Cross,13,24.00
-27,Pomykal Lukas,Male,19-03-2022,Passo San Pellegrino,ITA,Czechia,Junior,Snowboard Cross,26,6.00
-28,Pomykal Lukas,Male,06-03-2022,Dolni Morava,CZE,Czechia,Junior,Snowboard Cross,4,25.00
-29,Pomykal Lukas,Male,05-03-2022,Dolni Morava,CZE,Czechia,Junior,Snowboard Cross,5,22.50
-30,Pomykal Lukas,Male,27-02-2022,Flumserberg,SUI,Czechia,FIS,Snowboard Cross,25,3.00
-31,Pomykal Lukas,Male,26-02-2022,Flumserberg,SUI,Czechia,FIS,Snowboard Cross,13,10.00
-32,Pomykal Lukas,Male,20-02-2022,Passo San Pellegrino,ITA,Czechia,Junior,Snowboard Cross,13,14.00
-33,Pomykal Lukas,Male,19-02-2022,Passo San Pellegrino,ITA,Czechia,Junior,Snowboard Cross,28,2.80
-34,Pomykal Lukas,Male,06-02-2022,Dolni Morava,CZE,Czechia,Junior,Snowboard Cross,24,3.50
-35,Pomykal Lukas,Male,05-02-2022,Dolni Morava,CZE,Czechia,Junior,Snowboard Cross,12,11.00
-36,Pomykal Lukas,Male,03-02-2022,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,61,3.17
-37,Pomykal Lukas,Male,02-02-2022,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,64,
-38,Pomykal Lukas,Male,23-01-2022,Vitkovice,CZE,Czechia,Junior,Snowboard Cross,13,10.00
-39,Pomykal Lukas,Male,22-01-2022,Vitkovice,CZE,Czechia,Junior,Snowboard Cross,5,22.50
-40,Pomykal Lukas,Male,12-12-2021,Moninec,CZE,Czechia,Junior,Snowboard Cross,4,25.00
-41,Pomykal Lukas,Male,11-12-2021,Moninec,CZE,Czechia,Junior,Snowboard Cross,5,22.50
-42,Pomykal Lukas,Male,10-04-2021,Colere,ITA,Czechia,National Championships,Snowboard Cross,31,5.60
-43,Pomykal Lukas,Male,09-04-2021,Colere,ITA,Czechia,Junior,Snowboard Cross,9,14.50
-44,Pomykal Lukas,Male,07-03-2021,Corno alle Scale,ITA,Czechia,Junior,Snowboard Cross,19,6.00
-45,Pomykal Lukas,Male,08-03-2020,Bukova Hora ,CZE,Czechia,Junior,Snowboard Cross,11,12.00
-46,Pomykal Lukas,Male,07-03-2020,Bukova Hora ,CZE,Czechia,Junior,Snowboard Cross,12,11.00
-47,Pomykal Lukas,Male,15-02-2020,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,6,20.00
+0,Pomykal Lukas,Male,23-03-2025,Moena-Passo San Pellegrino,ITA,Czechia,National Championships,Snowboard Cross,11,48.00
+1,Pomykal Lukas,Male,14-03-2025,Lenk,SUI,Czechia,European Cup,Snowboard Cross,34,4.40
+2,Pomykal Lukas,Male,13-03-2025,Lenk,SUI,Czechia,European Cup,Snowboard Cross,28,8.00
+3,Pomykal Lukas,Male,08-03-2025,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,8,22.40
+4,Pomykal Lukas,Male,23-02-2025,Klinovec,CZE,Czechia,FIS,Snowboard Cross,4,70.00
+5,Pomykal Lukas,Male,22-02-2025,Klinovec,CZE,Czechia,FIS,Snowboard Cross,7,18.00
+6,Pomykal Lukas,Male,09-02-2025,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,13,44.00
+7,Pomykal Lukas,Male,08-02-2025,Dolni Morava,CZE,Czechia,National Championships,Snowboard Cross,14,46.80
+8,Pomykal Lukas,Male,02-02-2025,St. Lary,FRA,Czechia,National Championships,Snowboard Cross,20,16.50
+9,Pomykal Lukas,Male,31-01-2025,St. Lary,FRA,Czechia,European Cup,Snowboard Cross,34,3.96
+10,Pomykal Lukas,Male,24-01-2025,Puy St. Vincent,FRA,Czechia,European Cup,Snowboard Cross,24,12.60
+11,Pomykal Lukas,Male,23-01-2025,Puy St. Vincent,FRA,Czechia,European Cup,Snowboard Cross,43,3.52
+12,Pomykal Lukas,Male,27-11-2024,Pitztal,AUT,Czechia,Qualification,Snowboard Cross,82,
+13,Pomykal Lukas,Male,27-11-2024,Pitztal,AUT,Czechia,European Cup,Snowboard Cross,82,2.12
+14,Pomykal Lukas,Male,28-08-2024,Corralco,CHI,Czechia,South American Cup,Snowboard Cross,10,41.60
+15,Pomykal Lukas,Male,27-08-2024,Corralco,CHI,Czechia,South American Cup,Snowboard Cross,11,38.40
+16,Pomykal Lukas,Male,30-03-2024,Colere,ITA,Czechia,National Championships,Snowboard Cross,28,11.60
+17,Pomykal Lukas,Male,01-03-2024,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,9,26.10
+18,Pomykal Lukas,Male,29-02-2024,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,11,21.60
+19,Pomykal Lukas,Male,03-02-2024,Dolni Morava,CZE,Czechia,Junior,Snowboard Cross,13,10.00
+20,Pomykal Lukas,Male,02-02-2024,Dolni Morava,CZE,Czechia,Junior,Snowboard Cross,17,12.60
+21,Pomykal Lukas,Male,05-02-2023,Dolni Morava,CZE,Czechia,Junior,Snowboard Cross,9,14.50
+22,Pomykal Lukas,Male,04-02-2023,Dolni Morava,CZE,Czechia,Junior,Snowboard Cross,10,13.00
+23,Pomykal Lukas,Male,03-02-2023,Dolni Morava,CZE,Czechia,Junior,Snowboard Cross,25,3.00
+24,Pomykal Lukas,Male,27-11-2022,Pitztal,AUT,Czechia,Junior,Snowboard Cross,49,2.53
+25,Pomykal Lukas,Male,26-11-2022,Pitztal,AUT,Czechia,Junior,Snowboard Cross,43,3.17
+26,Pomykal Lukas,Male,25-11-2022,Pitztal,AUT,Czechia,FIS,Snowboard Cross,65,2.42
+27,Pomykal Lukas,Male,20-03-2022,Passo San Pellegrino,ITA,Czechia,Junior,Snowboard Cross,13,24.00
+28,Pomykal Lukas,Male,19-03-2022,Passo San Pellegrino,ITA,Czechia,Junior,Snowboard Cross,26,6.00
+29,Pomykal Lukas,Male,06-03-2022,Dolni Morava,CZE,Czechia,Junior,Snowboard Cross,4,25.00
+30,Pomykal Lukas,Male,05-03-2022,Dolni Morava,CZE,Czechia,Junior,Snowboard Cross,5,22.50
+31,Pomykal Lukas,Male,27-02-2022,Flumserberg,SUI,Czechia,FIS,Snowboard Cross,25,3.00
+32,Pomykal Lukas,Male,26-02-2022,Flumserberg,SUI,Czechia,FIS,Snowboard Cross,13,10.00
+33,Pomykal Lukas,Male,20-02-2022,Passo San Pellegrino,ITA,Czechia,Junior,Snowboard Cross,13,14.00
+34,Pomykal Lukas,Male,19-02-2022,Passo San Pellegrino,ITA,Czechia,Junior,Snowboard Cross,28,2.80
+35,Pomykal Lukas,Male,06-02-2022,Dolni Morava,CZE,Czechia,Junior,Snowboard Cross,24,3.50
+36,Pomykal Lukas,Male,05-02-2022,Dolni Morava,CZE,Czechia,Junior,Snowboard Cross,12,11.00
+37,Pomykal Lukas,Male,03-02-2022,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,61,3.17
+38,Pomykal Lukas,Male,02-02-2022,Dolni Morava,CZE,Czechia,European Cup,Snowboard Cross,64,
+39,Pomykal Lukas,Male,23-01-2022,Vitkovice,CZE,Czechia,Junior,Snowboard Cross,13,10.00
+40,Pomykal Lukas,Male,22-01-2022,Vitkovice,CZE,Czechia,Junior,Snowboard Cross,5,22.50
+41,Pomykal Lukas,Male,12-12-2021,Moninec,CZE,Czechia,Junior,Snowboard Cross,4,25.00
+42,Pomykal Lukas,Male,11-12-2021,Moninec,CZE,Czechia,Junior,Snowboard Cross,5,22.50
+43,Pomykal Lukas,Male,10-04-2021,Colere,ITA,Czechia,National Championships,Snowboard Cross,31,5.60
+44,Pomykal Lukas,Male,09-04-2021,Colere,ITA,Czechia,Junior,Snowboard Cross,9,14.50
+45,Pomykal Lukas,Male,07-03-2021,Corno alle Scale,ITA,Czechia,Junior,Snowboard Cross,19,6.00
+46,Pomykal Lukas,Male,08-03-2020,Bukova Hora ,CZE,Czechia,Junior,Snowboard Cross,11,12.00
+47,Pomykal Lukas,Male,07-03-2020,Bukova Hora ,CZE,Czechia,Junior,Snowboard Cross,12,11.00
+48,Pomykal Lukas,Male,15-02-2020,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,6,20.00

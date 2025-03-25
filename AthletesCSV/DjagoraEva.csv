@@ -1,37 +1,39 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Djagora Eva,Female,20-03-2025,Engadin,SUI,North Macedonia,World Championships,Parallel Giant Slalom,45,
-1,Djagora Eva,Female,20-03-2025,Engadin,SUI,North Macedonia,Qualification,Parallel Giant Slalom,45,
-2,Djagora Eva,Female,16-03-2025,Davos,SUI,North Macedonia,European Cup,Parallel Slalom,33,
-3,Djagora Eva,Female,16-03-2025,Davos,SUI,North Macedonia,Qualification,Parallel Slalom,33,
-4,Djagora Eva,Female,15-03-2025,Davos,SUI,North Macedonia,Qualification,Parallel Slalom,32,
-5,Djagora Eva,Female,15-03-2025,Davos,SUI,North Macedonia,European Cup,Parallel Slalom,32,
-6,Djagora Eva,Female,13-03-2025,Kopaonik,SRB,North Macedonia,National Championships,Slalom,2,40.00
-7,Djagora Eva,Female,12-03-2025,Kopaonik,SRB,North Macedonia,National Championships,Giant Slalom,6,20.00
-8,Djagora Eva,Female,15-02-2025,Seli ,GRE,North Macedonia,National Championships,Slalom,3,30.00
-9,Djagora Eva,Female,14-02-2025,Seli ,GRE,North Macedonia,FIS,Giant Slalom,1,50.00
-10,Djagora Eva,Female,14-02-2025,Seli ,GRE,North Macedonia,National Championships,Giant Slalom,2,40.00
-11,Djagora Eva,Female,05-02-2025,Popova Sapka,MKD,North Macedonia,National Championships,Giant Slalom,6,20.00
-12,Djagora Eva,Female,05-02-2025,Popova Sapka,MKD,North Macedonia,National Championships,Giant Slalom,4,25.00
-13,Djagora Eva,Female,04-02-2025,Popova Sapka,MKD,North Macedonia,FIS,Giant Slalom,5,22.50
-14,Djagora Eva,Female,04-02-2025,Popova Sapka,MKD,North Macedonia,National Championships,Giant Slalom,7,18.00
-15,Djagora Eva,Female,02-02-2025,Stara Planina,SRB,North Macedonia,FIS,Giant Slalom,16,7.50
-16,Djagora Eva,Female,02-02-2025,Stara Planina,SRB,North Macedonia,FIS,Giant Slalom,9,14.50
-17,Djagora Eva,Female,01-02-2025,Stara Planina,SRB,North Macedonia,FIS,Slalom,12,11.00
-18,Djagora Eva,Female,01-02-2025,Stara Planina,SRB,North Macedonia,FIS,Slalom,8,16.00
-19,Djagora Eva,Female,16-01-2025,Kopaonik,SRB,North Macedonia,FIS,Slalom,5,22.50
-20,Djagora Eva,Female,15-01-2025,Kopaonik,SRB,North Macedonia,FIS,Giant Slalom,3,30.00
-21,Djagora Eva,Female,10-01-2025,Folgaria,ITA,North Macedonia,European Cup,Parallel Giant Slalom,25,14.40
-22,Djagora Eva,Female,10-01-2025,Folgaria,ITA,North Macedonia,Qualification,Parallel Giant Slalom,25,
-23,Djagora Eva,Female,05-04-2024,Bansko,BUL,North Macedonia,National Championships,Parallel Slalom,13,14.00
-24,Djagora Eva,Female,04-04-2024,Bansko,BUL,North Macedonia,National Championships,Parallel Giant Slalom,14,
-25,Djagora Eva,Female,19-03-2024,Kopaonik,SRB,North Macedonia,FIS,Giant Slalom,DNS,
-26,Djagora Eva,Female,03-03-2024,Kopaonik,SRB,North Macedonia,FIS,Slalom,8,16.00
-27,Djagora Eva,Female,02-03-2024,Kopaonik,SRB,North Macedonia,FIS,Giant Slalom,8,16.00
-28,Djagora Eva,Female,25-02-2024,Stara Planina,SRB,North Macedonia,National Championships,Giant Slalom,6,20.00
-29,Djagora Eva,Female,25-02-2024,Stara Planina,SRB,North Macedonia,FIS,Giant Slalom,6,20.00
-30,Djagora Eva,Female,24-02-2024,Stara Planina,SRB,North Macedonia,National Championships,Slalom,8,16.00
-31,Djagora Eva,Female,24-02-2024,Stara Planina,SRB,North Macedonia,FIS,Slalom,9,14.50
-32,Djagora Eva,Female,08-02-2023,Popova Sapka,MKD,North Macedonia,FIS,Giant Slalom,DNS,
-33,Djagora Eva,Female,07-02-2023,Popova Sapka,MKD,North Macedonia,National Championships,Giant Slalom,DNS,
-34,Djagora Eva,Female,03-02-2023,Kopaonik,SRB,North Macedonia,FIS,Giant Slalom,12,11.00
-35,Djagora Eva,Female,02-02-2023,Kopaonik,SRB,North Macedonia,FIS,Slalom,13,
+0,Djagora Eva,Female,22-03-2025,Engadin,SUI,North Macedonia,World Championships,Parallel Slalom,46,
+1,Djagora Eva,Female,22-03-2025,Engadin,SUI,North Macedonia,Qualification,Parallel Slalom,46,
+2,Djagora Eva,Female,20-03-2025,Engadin,SUI,North Macedonia,World Championships,Parallel Giant Slalom,45,
+3,Djagora Eva,Female,20-03-2025,Engadin,SUI,North Macedonia,Qualification,Parallel Giant Slalom,45,
+4,Djagora Eva,Female,16-03-2025,Davos,SUI,North Macedonia,Qualification,Parallel Slalom,33,
+5,Djagora Eva,Female,16-03-2025,Davos,SUI,North Macedonia,European Cup,Parallel Slalom,33,
+6,Djagora Eva,Female,15-03-2025,Davos,SUI,North Macedonia,European Cup,Parallel Slalom,32,
+7,Djagora Eva,Female,15-03-2025,Davos,SUI,North Macedonia,Qualification,Parallel Slalom,32,
+8,Djagora Eva,Female,13-03-2025,Kopaonik,SRB,North Macedonia,National Championships,Slalom,2,40.00
+9,Djagora Eva,Female,12-03-2025,Kopaonik,SRB,North Macedonia,National Championships,Giant Slalom,6,20.00
+10,Djagora Eva,Female,15-02-2025,Seli ,GRE,North Macedonia,National Championships,Slalom,3,30.00
+11,Djagora Eva,Female,14-02-2025,Seli ,GRE,North Macedonia,National Championships,Giant Slalom,2,40.00
+12,Djagora Eva,Female,14-02-2025,Seli ,GRE,North Macedonia,FIS,Giant Slalom,1,50.00
+13,Djagora Eva,Female,05-02-2025,Popova Sapka,MKD,North Macedonia,National Championships,Giant Slalom,6,20.00
+14,Djagora Eva,Female,05-02-2025,Popova Sapka,MKD,North Macedonia,National Championships,Giant Slalom,4,25.00
+15,Djagora Eva,Female,04-02-2025,Popova Sapka,MKD,North Macedonia,National Championships,Giant Slalom,7,18.00
+16,Djagora Eva,Female,04-02-2025,Popova Sapka,MKD,North Macedonia,FIS,Giant Slalom,5,22.50
+17,Djagora Eva,Female,02-02-2025,Stara Planina,SRB,North Macedonia,FIS,Giant Slalom,16,7.50
+18,Djagora Eva,Female,02-02-2025,Stara Planina,SRB,North Macedonia,FIS,Giant Slalom,9,14.50
+19,Djagora Eva,Female,01-02-2025,Stara Planina,SRB,North Macedonia,FIS,Slalom,12,11.00
+20,Djagora Eva,Female,01-02-2025,Stara Planina,SRB,North Macedonia,FIS,Slalom,8,16.00
+21,Djagora Eva,Female,16-01-2025,Kopaonik,SRB,North Macedonia,FIS,Slalom,5,22.50
+22,Djagora Eva,Female,15-01-2025,Kopaonik,SRB,North Macedonia,FIS,Giant Slalom,3,30.00
+23,Djagora Eva,Female,10-01-2025,Folgaria,ITA,North Macedonia,European Cup,Parallel Giant Slalom,25,14.40
+24,Djagora Eva,Female,10-01-2025,Folgaria,ITA,North Macedonia,Qualification,Parallel Giant Slalom,25,
+25,Djagora Eva,Female,05-04-2024,Bansko,BUL,North Macedonia,National Championships,Parallel Slalom,13,14.00
+26,Djagora Eva,Female,04-04-2024,Bansko,BUL,North Macedonia,National Championships,Parallel Giant Slalom,14,
+27,Djagora Eva,Female,19-03-2024,Kopaonik,SRB,North Macedonia,FIS,Giant Slalom,DNS,
+28,Djagora Eva,Female,03-03-2024,Kopaonik,SRB,North Macedonia,FIS,Slalom,8,16.00
+29,Djagora Eva,Female,02-03-2024,Kopaonik,SRB,North Macedonia,FIS,Giant Slalom,8,16.00
+30,Djagora Eva,Female,25-02-2024,Stara Planina,SRB,North Macedonia,National Championships,Giant Slalom,6,20.00
+31,Djagora Eva,Female,25-02-2024,Stara Planina,SRB,North Macedonia,FIS,Giant Slalom,6,20.00
+32,Djagora Eva,Female,24-02-2024,Stara Planina,SRB,North Macedonia,National Championships,Slalom,8,16.00
+33,Djagora Eva,Female,24-02-2024,Stara Planina,SRB,North Macedonia,FIS,Slalom,9,14.50
+34,Djagora Eva,Female,08-02-2023,Popova Sapka,MKD,North Macedonia,FIS,Giant Slalom,DNS,
+35,Djagora Eva,Female,07-02-2023,Popova Sapka,MKD,North Macedonia,National Championships,Giant Slalom,DNS,
+36,Djagora Eva,Female,03-02-2023,Kopaonik,SRB,North Macedonia,FIS,Giant Slalom,12,11.00
+37,Djagora Eva,Female,02-02-2023,Kopaonik,SRB,North Macedonia,FIS,Slalom,13,

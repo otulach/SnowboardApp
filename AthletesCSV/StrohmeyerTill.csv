@@ -1,77 +1,79 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Strohmeyer Till,Male,05-03-2025,Prato Nevoso,ITA,Austria,European Cup,Big Air,3,82.00
-1,Strohmeyer Till,Male,04-03-2025,Prato Nevoso,ITA,Austria,National Championships,Slopestyle,6,41.30
-2,Strohmeyer Till,Male,09-02-2025,Mayrhofen,AUT,Austria,FIS,Slopestyle,4,39.90
-3,Strohmeyer Till,Male,19-01-2025,Bardonecchia,ITA,Austria,Universiade,Big Air,5,46.10
-4,Strohmeyer Till,Male,17-01-2025,Bardonecchia,ITA,Austria,Universiade,Slopestyle,6,38.30
-5,Strohmeyer Till,Male,12-04-2024,Corvatsch,SUI,Austria,European Cup Premium,Slopestyle,90,17.10
-6,Strohmeyer Till,Male,15-03-2024,Tignes,FRA,Austria,World Cup,Slopestyle,27,128.60
-7,Strohmeyer Till,Male,15-03-2024,Tignes,FRA,Austria,Qualification,Slopestyle,10,
-8,Strohmeyer Till,Male,22-02-2024,Prato Nevoso,ITA,Austria,European Cup,Slopestyle,42,24.50
-9,Strohmeyer Till,Male,04-01-2024,Font Romeu,FRA,Austria,European Cup Premium,Slopestyle,49,18.20
-10,Strohmeyer Till,Male,22-04-2023,Kitzsteinhorn,AUT,Austria,European Cup,Big Air,20,47.40
-11,Strohmeyer Till,Male,21-04-2023,Kitzsteinhorn,AUT,Austria,European Cup,Slopestyle,43,16.60
-12,Strohmeyer Till,Male,19-04-2023,Kitzsteinhorn,AUT,Austria,European Cup,Halfpipe,7,30.70
-13,Strohmeyer Till,Male,17-04-2023,Corvatsch,SUI,Austria,European Cup Premium,Big Air,57,6.80
-14,Strohmeyer Till,Male,14-04-2023,Corvatsch,SUI,Austria,European Cup Premium,Slopestyle,72,3.20
-15,Strohmeyer Till,Male,29-03-2023,Ruka,FIN,Austria,European Cup,Slopestyle,3,81.00
-16,Strohmeyer Till,Male,20-03-2023,Mottolino Livigno,ITA,Austria,European Cup,Slopestyle,20,43.50
-17,Strohmeyer Till,Male,17-03-2023,Laax,SUI,Austria,European Cup Premium,Slopestyle,62,40.80
-18,Strohmeyer Till,Male,18-02-2023,Davos,SUI,Austria,European Cup,Big Air,42,0.90
-19,Strohmeyer Till,Male,04-02-2023,Font Romeu,FRA,Austria,European Cup,Big Air,53,2.90
-20,Strohmeyer Till,Male,02-02-2023,Font Romeu,FRA,Austria,European Cup,Slopestyle,29,18.20
-21,Strohmeyer Till,Male,22-04-2022,Kitzsteinhorn,AUT,Austria,National Championships,Slopestyle,10,8.50
-22,Strohmeyer Till,Male,09-04-2022,Corvatsch,SUI,Austria,European Cup Premium,Big Air,27,47.50
-23,Strohmeyer Till,Male,07-04-2022,Corvatsch,SUI,Austria,European Cup Premium,Slopestyle,33,47.30
-24,Strohmeyer Till,Male,15-03-2022,Laax,SUI,Austria,European Cup Premium,Slopestyle,10,43.90
-25,Strohmeyer Till,Male,26-02-2022,Götschen,GER,Austria,European Cup,Big Air,20,35.30
-26,Strohmeyer Till,Male,25-02-2022,Götschen,GER,Austria,European Cup,Slopestyle,18,47.20
-27,Strohmeyer Till,Male,18-02-2022,Davos,SUI,Austria,European Cup Premium,Big Air,20,42.10
-28,Strohmeyer Till,Male,28-01-2022,Crans Montana,SUI,Austria,European Cup,Big Air,25,15.10
-29,Strohmeyer Till,Male,23-01-2022,Prato Nevoso,ITA,Austria,European Cup,Slopestyle,38,11.70
-30,Strohmeyer Till,Male,22-02-2021,Götschen,GER,Austria,European Cup,Big Air,27,27.02
-31,Strohmeyer Till,Male,21-02-2021,Götschen,GER,Austria,European Cup,Slopestyle,46,10.70
-32,Strohmeyer Till,Male,19-02-2021,Davos,SUI,Austria,European Cup,Big Air,49,10.06
-33,Strohmeyer Till,Male,09-01-2021,Kreischberg,AUT,Austria,World Cup,Big Air,43,75.13
-34,Strohmeyer Till,Male,09-01-2021,Kreischberg,AUT,Austria,Qualification,Big Air,19,
-35,Strohmeyer Till,Male,06-03-2020,Absolut Park Flachauwinkel,AUT,Austria,European Cup,Big Air,12,44.00
-36,Strohmeyer Till,Male,29-02-2020,Moscow,RUS,Austria,European Cup Premium,Big Air,26,14.50
-37,Strohmeyer Till,Male,25-02-2020,Kopaonik,SRB,Austria,European Cup,Slopestyle,DNS,
-38,Strohmeyer Till,Male,24-02-2020,Kopaonik,SRB,Austria,European Cup,Big Air,20,17.60
-39,Strohmeyer Till,Male,15-02-2020,Kotelnica Bialczanska,POL,Austria,European Cup,Big Air,10,41.60
-40,Strohmeyer Till,Male,25-01-2020,Crans Montana,SUI,Austria,FIS,Slopestyle,13,14.00
-41,Strohmeyer Till,Male,22-01-2020,Leysin,SUI,Austria,Youth Olympic Winter Games,Big Air,11,48.00
-42,Strohmeyer Till,Male,22-01-2020,Leysin,SUI,Austria,Qualification,Big Air,9,
-43,Strohmeyer Till,Male,20-01-2020,Leysin,SUI,Austria,Youth Olympic Winter Games,Slopestyle,21,
-44,Strohmeyer Till,Male,21-11-2019,Landgraaf,NED,Austria,European Cup,Slopestyle,73,
-45,Strohmeyer Till,Male,20-11-2019,Landgraaf,NED,Austria,FIS,Slopestyle,38,3.06
-46,Strohmeyer Till,Male,13-04-2019,Klaeppen,SWE,Austria,FIS Junior World Championships,Big Air,77,1.78
-47,Strohmeyer Till,Male,12-04-2019,Klaeppen,SWE,Austria,Qualification,Big Air,21,
-48,Strohmeyer Till,Male,09-04-2019,Klaeppen,SWE,Austria,FIS Junior World Championships,Slopestyle,94,
-49,Strohmeyer Till,Male,08-04-2019,Klaeppen,SWE,Austria,Qualification,Slopestyle,23,
-50,Strohmeyer Till,Male,22-03-2019,Laax,SUI,Austria,European Cup,Slopestyle,16,24.00
-51,Strohmeyer Till,Male,17-03-2019,Kuehtai,AUT,Austria,European Cup,Halfpipe,DNS1,
-52,Strohmeyer Till,Male,16-03-2019,Kuehtai,AUT,Austria,European Cup,Big Air,5,72.00
-53,Strohmeyer Till,Male,27-02-2019,Götschen,GER,Austria,European Cup,Big Air,3,96.00
-54,Strohmeyer Till,Male,26-02-2019,Götschen,GER,Austria,European Cup,Big Air,17,22.40
-55,Strohmeyer Till,Male,22-02-2019,Davos,SUI,Austria,European Cup,Big Air,32,
-56,Strohmeyer Till,Male,14-02-2019,Bjelasnica,BIH,Austria,European Youth Olympic Festival,Big Air,13,10.00
-57,Strohmeyer Till,Male,12-02-2019,Bjelasnica,BIH,Austria,European Youth Olympic Festival,Slopestyle,12,11.00
-58,Strohmeyer Till,Male,26-01-2019,Vars,FRA,Austria,European Cup,Big Air,9,52.20
-59,Strohmeyer Till,Male,25-01-2019,Vars,FRA,Austria,European Cup,Slopestyle,18,20.80
-60,Strohmeyer Till,Male,22-01-2019,Font Romeu,FRA,Austria,European Cup,Big Air,18,20.80
-61,Strohmeyer Till,Male,17-01-2019,Kreischberg,AUT,Austria,European Cup,Big Air,43,3.17
-62,Strohmeyer Till,Male,16-01-2019,Kreischberg,AUT,Austria,European Cup,Slopestyle,25,9.60
-63,Strohmeyer Till,Male,23-03-2018,Kühtai,AUT,Austria,European Cup,Big Air,9,46.40
-64,Strohmeyer Till,Male,03-03-2018,Götschen,GER,Austria,European Cup,Big Air,32,4.16
-65,Strohmeyer Till,Male,01-04-2017,Spindleruv Mlyn,CZE,Austria,FIS Junior World Championships,Big Air,35,4.80
-66,Strohmeyer Till,Male,31-03-2017,Spindleruv Mlyn,CZE,Austria,FIS Junior World Championships,Slopestyle,50,5.58
-67,Strohmeyer Till,Male,30-03-2017,Spindleruv Mlyn,CZE,Austria,Qualification,Slopestyle,13,
-68,Strohmeyer Till,Male,29-03-2017,Spindleruv Mlyn,CZE,Austria,Qualification,Big Air,11,
-69,Strohmeyer Till,Male,26-03-2017,Kühtai,AUT,Austria,European Cup,Halfpipe,21,16.00
-70,Strohmeyer Till,Male,24-03-2017,Kühtai,AUT,Austria,European Cup,Big Air,14,28.80
-71,Strohmeyer Till,Male,17-02-2017,Goetschen,GER,Austria,European Cup,Big Air,36,3.15
-72,Strohmeyer Till,Male,25-01-2017,Vars,FRA,Austria,European Cup,Slopestyle,27,7.20
-73,Strohmeyer Till,Male,24-01-2017,Vars,FRA,Austria,European Cup,Slopestyle,31,4.48
-74,Strohmeyer Till,Male,27-11-2016,Kaunertal,AUT,Austria,FIS,Big Air,32,3.64
-75,Strohmeyer Till,Male,26-11-2016,Kaunertal,AUT,Austria,European Cup,Slopestyle,40,2.96
+0,Strohmeyer Till,Male,22-03-2025,St. Anton,AUT,Austria,FIS,Slopestyle,18,
+1,Strohmeyer Till,Male,21-03-2025,St. Anton,AUT,Austria,European Cup,Big Air,15,
+2,Strohmeyer Till,Male,05-03-2025,Prato Nevoso,ITA,Austria,European Cup,Big Air,3,82.00
+3,Strohmeyer Till,Male,04-03-2025,Prato Nevoso,ITA,Austria,National Championships,Slopestyle,6,41.30
+4,Strohmeyer Till,Male,09-02-2025,Mayrhofen,AUT,Austria,FIS,Slopestyle,4,39.90
+5,Strohmeyer Till,Male,19-01-2025,Bardonecchia,ITA,Austria,Universiade,Big Air,5,46.10
+6,Strohmeyer Till,Male,17-01-2025,Bardonecchia,ITA,Austria,Universiade,Slopestyle,6,38.30
+7,Strohmeyer Till,Male,12-04-2024,Corvatsch,SUI,Austria,European Cup Premium,Slopestyle,90,17.10
+8,Strohmeyer Till,Male,15-03-2024,Tignes,FRA,Austria,Qualification,Slopestyle,10,
+9,Strohmeyer Till,Male,15-03-2024,Tignes,FRA,Austria,World Cup,Slopestyle,27,128.60
+10,Strohmeyer Till,Male,22-02-2024,Prato Nevoso,ITA,Austria,European Cup,Slopestyle,42,24.50
+11,Strohmeyer Till,Male,04-01-2024,Font Romeu,FRA,Austria,European Cup Premium,Slopestyle,49,18.20
+12,Strohmeyer Till,Male,22-04-2023,Kitzsteinhorn,AUT,Austria,European Cup,Big Air,20,47.40
+13,Strohmeyer Till,Male,21-04-2023,Kitzsteinhorn,AUT,Austria,European Cup,Slopestyle,43,16.60
+14,Strohmeyer Till,Male,19-04-2023,Kitzsteinhorn,AUT,Austria,European Cup,Halfpipe,7,30.70
+15,Strohmeyer Till,Male,17-04-2023,Corvatsch,SUI,Austria,European Cup Premium,Big Air,57,6.80
+16,Strohmeyer Till,Male,14-04-2023,Corvatsch,SUI,Austria,European Cup Premium,Slopestyle,72,3.20
+17,Strohmeyer Till,Male,29-03-2023,Ruka,FIN,Austria,European Cup,Slopestyle,3,81.00
+18,Strohmeyer Till,Male,20-03-2023,Mottolino Livigno,ITA,Austria,European Cup,Slopestyle,20,43.50
+19,Strohmeyer Till,Male,17-03-2023,Laax,SUI,Austria,European Cup Premium,Slopestyle,62,40.80
+20,Strohmeyer Till,Male,18-02-2023,Davos,SUI,Austria,European Cup,Big Air,42,0.90
+21,Strohmeyer Till,Male,04-02-2023,Font Romeu,FRA,Austria,European Cup,Big Air,53,2.90
+22,Strohmeyer Till,Male,02-02-2023,Font Romeu,FRA,Austria,European Cup,Slopestyle,29,18.20
+23,Strohmeyer Till,Male,22-04-2022,Kitzsteinhorn,AUT,Austria,National Championships,Slopestyle,10,8.50
+24,Strohmeyer Till,Male,09-04-2022,Corvatsch,SUI,Austria,European Cup Premium,Big Air,27,47.50
+25,Strohmeyer Till,Male,07-04-2022,Corvatsch,SUI,Austria,European Cup Premium,Slopestyle,33,47.30
+26,Strohmeyer Till,Male,15-03-2022,Laax,SUI,Austria,European Cup Premium,Slopestyle,10,43.90
+27,Strohmeyer Till,Male,26-02-2022,Götschen,GER,Austria,European Cup,Big Air,20,35.30
+28,Strohmeyer Till,Male,25-02-2022,Götschen,GER,Austria,European Cup,Slopestyle,18,47.20
+29,Strohmeyer Till,Male,18-02-2022,Davos,SUI,Austria,European Cup Premium,Big Air,20,42.10
+30,Strohmeyer Till,Male,28-01-2022,Crans Montana,SUI,Austria,European Cup,Big Air,25,15.10
+31,Strohmeyer Till,Male,23-01-2022,Prato Nevoso,ITA,Austria,European Cup,Slopestyle,38,11.70
+32,Strohmeyer Till,Male,22-02-2021,Götschen,GER,Austria,European Cup,Big Air,27,27.02
+33,Strohmeyer Till,Male,21-02-2021,Götschen,GER,Austria,European Cup,Slopestyle,46,10.70
+34,Strohmeyer Till,Male,19-02-2021,Davos,SUI,Austria,European Cup,Big Air,49,10.06
+35,Strohmeyer Till,Male,09-01-2021,Kreischberg,AUT,Austria,World Cup,Big Air,43,75.13
+36,Strohmeyer Till,Male,09-01-2021,Kreischberg,AUT,Austria,Qualification,Big Air,19,
+37,Strohmeyer Till,Male,06-03-2020,Absolut Park Flachauwinkel,AUT,Austria,European Cup,Big Air,12,44.00
+38,Strohmeyer Till,Male,29-02-2020,Moscow,RUS,Austria,European Cup Premium,Big Air,26,14.50
+39,Strohmeyer Till,Male,25-02-2020,Kopaonik,SRB,Austria,European Cup,Slopestyle,DNS,
+40,Strohmeyer Till,Male,24-02-2020,Kopaonik,SRB,Austria,European Cup,Big Air,20,17.60
+41,Strohmeyer Till,Male,15-02-2020,Kotelnica Bialczanska,POL,Austria,European Cup,Big Air,10,41.60
+42,Strohmeyer Till,Male,25-01-2020,Crans Montana,SUI,Austria,FIS,Slopestyle,13,14.00
+43,Strohmeyer Till,Male,22-01-2020,Leysin,SUI,Austria,Youth Olympic Winter Games,Big Air,11,48.00
+44,Strohmeyer Till,Male,22-01-2020,Leysin,SUI,Austria,Qualification,Big Air,9,
+45,Strohmeyer Till,Male,20-01-2020,Leysin,SUI,Austria,Youth Olympic Winter Games,Slopestyle,21,
+46,Strohmeyer Till,Male,21-11-2019,Landgraaf,NED,Austria,European Cup,Slopestyle,73,
+47,Strohmeyer Till,Male,20-11-2019,Landgraaf,NED,Austria,FIS,Slopestyle,38,3.06
+48,Strohmeyer Till,Male,13-04-2019,Klaeppen,SWE,Austria,FIS Junior World Championships,Big Air,77,1.78
+49,Strohmeyer Till,Male,12-04-2019,Klaeppen,SWE,Austria,Qualification,Big Air,21,
+50,Strohmeyer Till,Male,09-04-2019,Klaeppen,SWE,Austria,FIS Junior World Championships,Slopestyle,94,
+51,Strohmeyer Till,Male,08-04-2019,Klaeppen,SWE,Austria,Qualification,Slopestyle,23,
+52,Strohmeyer Till,Male,22-03-2019,Laax,SUI,Austria,European Cup,Slopestyle,16,24.00
+53,Strohmeyer Till,Male,17-03-2019,Kuehtai,AUT,Austria,European Cup,Halfpipe,DNS1,
+54,Strohmeyer Till,Male,16-03-2019,Kuehtai,AUT,Austria,European Cup,Big Air,5,72.00
+55,Strohmeyer Till,Male,27-02-2019,Götschen,GER,Austria,European Cup,Big Air,3,96.00
+56,Strohmeyer Till,Male,26-02-2019,Götschen,GER,Austria,European Cup,Big Air,17,22.40
+57,Strohmeyer Till,Male,22-02-2019,Davos,SUI,Austria,European Cup,Big Air,32,
+58,Strohmeyer Till,Male,14-02-2019,Bjelasnica,BIH,Austria,European Youth Olympic Festival,Big Air,13,10.00
+59,Strohmeyer Till,Male,12-02-2019,Bjelasnica,BIH,Austria,European Youth Olympic Festival,Slopestyle,12,11.00
+60,Strohmeyer Till,Male,26-01-2019,Vars,FRA,Austria,European Cup,Big Air,9,52.20
+61,Strohmeyer Till,Male,25-01-2019,Vars,FRA,Austria,European Cup,Slopestyle,18,20.80
+62,Strohmeyer Till,Male,22-01-2019,Font Romeu,FRA,Austria,European Cup,Big Air,18,20.80
+63,Strohmeyer Till,Male,17-01-2019,Kreischberg,AUT,Austria,European Cup,Big Air,43,3.17
+64,Strohmeyer Till,Male,16-01-2019,Kreischberg,AUT,Austria,European Cup,Slopestyle,25,9.60
+65,Strohmeyer Till,Male,23-03-2018,Kühtai,AUT,Austria,European Cup,Big Air,9,46.40
+66,Strohmeyer Till,Male,03-03-2018,Götschen,GER,Austria,European Cup,Big Air,32,4.16
+67,Strohmeyer Till,Male,01-04-2017,Spindleruv Mlyn,CZE,Austria,FIS Junior World Championships,Big Air,35,4.80
+68,Strohmeyer Till,Male,31-03-2017,Spindleruv Mlyn,CZE,Austria,FIS Junior World Championships,Slopestyle,50,5.58
+69,Strohmeyer Till,Male,30-03-2017,Spindleruv Mlyn,CZE,Austria,Qualification,Slopestyle,13,
+70,Strohmeyer Till,Male,29-03-2017,Spindleruv Mlyn,CZE,Austria,Qualification,Big Air,11,
+71,Strohmeyer Till,Male,26-03-2017,Kühtai,AUT,Austria,European Cup,Halfpipe,21,16.00
+72,Strohmeyer Till,Male,24-03-2017,Kühtai,AUT,Austria,European Cup,Big Air,14,28.80
+73,Strohmeyer Till,Male,17-02-2017,Goetschen,GER,Austria,European Cup,Big Air,36,3.15
+74,Strohmeyer Till,Male,25-01-2017,Vars,FRA,Austria,European Cup,Slopestyle,27,7.20
+75,Strohmeyer Till,Male,24-01-2017,Vars,FRA,Austria,European Cup,Slopestyle,31,4.48
+76,Strohmeyer Till,Male,27-11-2016,Kaunertal,AUT,Austria,FIS,Big Air,32,3.64
+77,Strohmeyer Till,Male,26-11-2016,Kaunertal,AUT,Austria,European Cup,Slopestyle,40,2.96

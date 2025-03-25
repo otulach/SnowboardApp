@@ -1,36 +1,38 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Apollonio Luca,Male,21-03-2025,Moena-Passo San Pellegrino,ITA,Italy,Junior,Snowboard Cross,17,12.60
-1,Apollonio Luca,Male,15-03-2025,Lenk,SUI,Italy,European Cup,Snowboard Cross,41,3.64
-2,Apollonio Luca,Male,13-03-2025,Lenk,SUI,Italy,European Cup,Snowboard Cross,39,3.76
-3,Apollonio Luca,Male,28-02-2025,Passo San Pellegrino,ITA,Italy,European Cup,Snowboard Cross,20,19.80
-4,Apollonio Luca,Male,27-02-2025,Passo San Pellegrino,ITA,Italy,European Cup,Snowboard Cross,32,4.68
-5,Apollonio Luca,Male,23-02-2025,Colere,ITA,Italy,FIS,Snowboard Cross,13,36.00
-6,Apollonio Luca,Male,22-02-2025,Colere,ITA,Italy,FIS,Snowboard Cross,26,9.00
-7,Apollonio Luca,Male,09-02-2025,Dolni Morava,CZE,Italy,FIS,Snowboard Cross,9,63.80
-8,Apollonio Luca,Male,08-02-2025,Dolni Morava,CZE,Italy,National Championships,Snowboard Cross,10,67.60
-9,Apollonio Luca,Male,02-02-2025,Reiteralm,AUT,Italy,Junior,Snowboard Cross,1,50.00
-10,Apollonio Luca,Male,01-02-2025,Reiteralm,AUT,Italy,Junior,Snowboard Cross,6,20.00
-11,Apollonio Luca,Male,25-01-2025,Passo San Pellegrino,ITA,Italy,FIS,Snowboard Cross,6,20.00
-12,Apollonio Luca,Male,24-01-2025,Passo San Pellegrino,ITA,Italy,FIS,Snowboard Cross,3,30.00
-13,Apollonio Luca,Male,12-01-2025,Lenk,SUI,Italy,Junior Regional Cup,Snowboard Cross,38,2.29
-14,Apollonio Luca,Male,01-12-2024,Pitztal,AUT,Italy,Junior,Snowboard Cross,39,2.26
-15,Apollonio Luca,Male,30-11-2024,Pitztal,AUT,Italy,Junior,Snowboard Cross,33,2.88
-16,Apollonio Luca,Male,30-11-2024,Pitztal,AUT,Italy,Qualification,Snowboard Cross,33,
-17,Apollonio Luca,Male,30-03-2024,Colere,ITA,Italy,National Championships,Snowboard Cross,21,29.00
-18,Apollonio Luca,Male,09-03-2024,Colere,ITA,Italy,FIS,Snowboard Cross,24,3.50
-19,Apollonio Luca,Male,16-02-2024,Colere,ITA,Italy,European Cup,Snowboard Cross,DNS,
-20,Apollonio Luca,Male,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,26,14.50
-21,Apollonio Luca,Male,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,41,5.28
-22,Apollonio Luca,Male,04-02-2024,Colere,ITA,Italy,Junior,Snowboard Cross,9,14.50
-23,Apollonio Luca,Male,03-02-2024,Colere,ITA,Italy,Junior,Snowboard Cross,4,25.00
-24,Apollonio Luca,Male,28-01-2024,Grasgehren,GER,Italy,Junior,Snowboard Cross,24,7.70
-25,Apollonio Luca,Male,27-01-2024,Grasgehren,GER,Italy,Junior,Snowboard Cross,10,13.00
-26,Apollonio Luca,Male,12-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,30,
-27,Apollonio Luca,Male,12-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,30,
-28,Apollonio Luca,Male,11-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,25,14.40
-29,Apollonio Luca,Male,11-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,25,
-30,Apollonio Luca,Male,10-12-2023,Götschen,GER,Italy,Junior,Parallel Slalom,28,5.20
-31,Apollonio Luca,Male,09-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,56,4.93
-32,Apollonio Luca,Male,09-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,56,
-33,Apollonio Luca,Male,08-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,DSQ,
-34,Apollonio Luca,Male,08-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,DSQ,
+0,Apollonio Luca,Male,23-03-2025,Moena-Passo San Pellegrino,ITA,Italy,National Championships,Snowboard Cross,13,40.00
+1,Apollonio Luca,Male,22-03-2025,Moena-Passo San Pellegrino,ITA,Italy,Junior,Snowboard Cross,5,31.50
+2,Apollonio Luca,Male,21-03-2025,Moena-Passo San Pellegrino,ITA,Italy,Junior,Snowboard Cross,17,12.60
+3,Apollonio Luca,Male,14-03-2025,Lenk,SUI,Italy,European Cup,Snowboard Cross,41,3.64
+4,Apollonio Luca,Male,13-03-2025,Lenk,SUI,Italy,European Cup,Snowboard Cross,39,3.76
+5,Apollonio Luca,Male,28-02-2025,Passo San Pellegrino,ITA,Italy,European Cup,Snowboard Cross,20,19.80
+6,Apollonio Luca,Male,27-02-2025,Passo San Pellegrino,ITA,Italy,European Cup,Snowboard Cross,32,4.68
+7,Apollonio Luca,Male,23-02-2025,Colere,ITA,Italy,FIS,Snowboard Cross,13,36.00
+8,Apollonio Luca,Male,22-02-2025,Colere,ITA,Italy,FIS,Snowboard Cross,26,9.00
+9,Apollonio Luca,Male,09-02-2025,Dolni Morava,CZE,Italy,FIS,Snowboard Cross,9,63.80
+10,Apollonio Luca,Male,08-02-2025,Dolni Morava,CZE,Italy,National Championships,Snowboard Cross,10,67.60
+11,Apollonio Luca,Male,02-02-2025,Reiteralm,AUT,Italy,Junior,Snowboard Cross,1,50.00
+12,Apollonio Luca,Male,01-02-2025,Reiteralm,AUT,Italy,Junior,Snowboard Cross,6,20.00
+13,Apollonio Luca,Male,25-01-2025,Passo San Pellegrino,ITA,Italy,FIS,Snowboard Cross,6,20.00
+14,Apollonio Luca,Male,24-01-2025,Passo San Pellegrino,ITA,Italy,FIS,Snowboard Cross,3,30.00
+15,Apollonio Luca,Male,12-01-2025,Lenk,SUI,Italy,Junior Regional Cup,Snowboard Cross,38,2.29
+16,Apollonio Luca,Male,01-12-2024,Pitztal,AUT,Italy,Junior,Snowboard Cross,39,2.26
+17,Apollonio Luca,Male,30-11-2024,Pitztal,AUT,Italy,Qualification,Snowboard Cross,33,
+18,Apollonio Luca,Male,30-11-2024,Pitztal,AUT,Italy,Junior,Snowboard Cross,33,2.88
+19,Apollonio Luca,Male,30-03-2024,Colere,ITA,Italy,National Championships,Snowboard Cross,21,29.00
+20,Apollonio Luca,Male,09-03-2024,Colere,ITA,Italy,FIS,Snowboard Cross,24,3.50
+21,Apollonio Luca,Male,16-02-2024,Colere,ITA,Italy,European Cup,Snowboard Cross,DNS,
+22,Apollonio Luca,Male,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,26,14.50
+23,Apollonio Luca,Male,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,41,5.28
+24,Apollonio Luca,Male,04-02-2024,Colere,ITA,Italy,Junior,Snowboard Cross,9,14.50
+25,Apollonio Luca,Male,03-02-2024,Colere,ITA,Italy,Junior,Snowboard Cross,4,25.00
+26,Apollonio Luca,Male,28-01-2024,Grasgehren,GER,Italy,Junior,Snowboard Cross,24,7.70
+27,Apollonio Luca,Male,27-01-2024,Grasgehren,GER,Italy,Junior,Snowboard Cross,10,13.00
+28,Apollonio Luca,Male,12-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,30,
+29,Apollonio Luca,Male,12-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,30,
+30,Apollonio Luca,Male,11-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,25,
+31,Apollonio Luca,Male,11-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,25,14.40
+32,Apollonio Luca,Male,10-12-2023,Götschen,GER,Italy,Junior,Parallel Slalom,28,5.20
+33,Apollonio Luca,Male,09-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,56,
+34,Apollonio Luca,Male,09-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,56,4.93
+35,Apollonio Luca,Male,08-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,DSQ,
+36,Apollonio Luca,Male,08-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,DSQ,

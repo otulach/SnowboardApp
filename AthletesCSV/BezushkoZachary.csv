@@ -1,28 +1,31 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Bezushko Zachary,Male,10-03-2025,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Big Air,41,2.20
-1,Bezushko Zachary,Male,09-03-2025,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Slopestyle,38,11.60
-2,Bezushko Zachary,Male,26-02-2025,Winsport Calgary,CAN,Canada,Nor-Am Cup Premium,Big Air,24,22.30
-3,Bezushko Zachary,Male,25-02-2025,Winsport Calgary,CAN,Canada,Nor-Am Cup Premium,Slopestyle,36,30.20
-4,Bezushko Zachary,Male,01-02-2025,Winsport Calgary,CAN,Canada,FIS,Slopestyle,28,5.30
-5,Bezushko Zachary,Male,26-01-2025,"Big White Ski Resort, BC",CAN,Canada,FIS,Slopestyle,3,33.50
-6,Bezushko Zachary,Male,25-01-2025,"Big White Ski Resort, BC",CAN,Canada,FIS,Slopestyle,8,12.80
-7,Bezushko Zachary,Male,12-01-2025,Whistler,CAN,Canada,FIS,Slopestyle,35,3.10
-8,Bezushko Zachary,Male,11-01-2025,Whistler,CAN,Canada,FIS,Slopestyle,26,8.00
-9,Bezushko Zachary,Male,21-02-2024,Winsport Calgary,CAN,Canada,Nor-Am Cup,Halfpipe,23,2.90
-10,Bezushko Zachary,Male,28-01-2024,Winsport Calgary,CAN,Canada,FIS,Halfpipe,8,13.70
-11,Bezushko Zachary,Male,27-01-2024,Winsport Calgary,CAN,Canada,FIS,Slopestyle,8,16.40
-12,Bezushko Zachary,Male,06-01-2024,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,14,8.20
-13,Bezushko Zachary,Male,05-01-2024,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,13,9.20
-14,Bezushko Zachary,Male,23-03-2023,Winsport Calgary,CAN,Canada,National Junior Championships,Halfpipe,5,15.50
-15,Bezushko Zachary,Male,21-03-2023,Winsport Calgary,CAN,Canada,National Junior Championships,Slopestyle,22,13.00
-16,Bezushko Zachary,Male,19-03-2023,Winsport Calgary,CAN,Canada,FIS,Slopestyle,30,3.50
-17,Bezushko Zachary,Male,18-03-2023,Winsport Calgary,CAN,Canada,FIS,Halfpipe,5,22.10
-18,Bezushko Zachary,Male,29-01-2023,Winsport Calgary,CAN,Canada,FIS,Halfpipe,10,8.50
-19,Bezushko Zachary,Male,28-01-2023,Winsport Calgary,CAN,Canada,FIS,Slopestyle,9,13.00
-20,Bezushko Zachary,Male,18-03-2022,Calgary,CAN,Canada,FIS,Halfpipe,7,13.80
-21,Bezushko Zachary,Male,20-02-2022,Calgary,CAN,Canada,FIS,Slopestyle,22,0.70
-22,Bezushko Zachary,Male,19-02-2022,Calgary,CAN,Canada,FIS,Slopestyle,18,4.50
-23,Bezushko Zachary,Male,06-02-2022,Calgary,CAN,Canada,National Junior Championships,Slopestyle,33,4.50
-24,Bezushko Zachary,Male,02-02-2022,Calgary,CAN,Canada,National Junior Championships,Halfpipe,6,0.10
-25,Bezushko Zachary,Male,29-01-2022,Calgary,CAN,Canada,FIS,Slopestyle,25,4.90
-26,Bezushko Zachary,Male,28-01-2022,Calgary,CAN,Canada,FIS,Halfpipe,7,4.70
+0,Bezushko Zachary,Male,23-03-2025,Winsport Calgary,CAN,Canada,FIS,Slopestyle,1,50.00
+1,Bezushko Zachary,Male,22-03-2025,Winsport Calgary,CAN,Canada,FIS,Halfpipe,6,17.90
+2,Bezushko Zachary,Male,21-03-2025,Winsport Calgary,CAN,Canada,FIS,Halfpipe,4,27.10
+3,Bezushko Zachary,Male,10-03-2025,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Big Air,41,2.20
+4,Bezushko Zachary,Male,09-03-2025,Horseshoe Resort,CAN,Canada,Nor-Am Cup,Slopestyle,38,11.60
+5,Bezushko Zachary,Male,26-02-2025,Winsport Calgary,CAN,Canada,Nor-Am Cup Premium,Big Air,24,22.30
+6,Bezushko Zachary,Male,25-02-2025,Winsport Calgary,CAN,Canada,Nor-Am Cup Premium,Slopestyle,36,30.20
+7,Bezushko Zachary,Male,01-02-2025,Winsport Calgary,CAN,Canada,FIS,Slopestyle,28,5.30
+8,Bezushko Zachary,Male,26-01-2025,"Big White Ski Resort, BC",CAN,Canada,FIS,Slopestyle,3,33.50
+9,Bezushko Zachary,Male,25-01-2025,"Big White Ski Resort, BC",CAN,Canada,FIS,Slopestyle,8,12.80
+10,Bezushko Zachary,Male,12-01-2025,Whistler,CAN,Canada,FIS,Slopestyle,35,3.10
+11,Bezushko Zachary,Male,11-01-2025,Whistler,CAN,Canada,FIS,Slopestyle,26,8.00
+12,Bezushko Zachary,Male,21-02-2024,Winsport Calgary,CAN,Canada,Nor-Am Cup,Halfpipe,23,2.90
+13,Bezushko Zachary,Male,28-01-2024,Winsport Calgary,CAN,Canada,FIS,Halfpipe,8,13.70
+14,Bezushko Zachary,Male,27-01-2024,Winsport Calgary,CAN,Canada,FIS,Slopestyle,8,16.40
+15,Bezushko Zachary,Male,06-01-2024,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,14,8.20
+16,Bezushko Zachary,Male,05-01-2024,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,13,9.20
+17,Bezushko Zachary,Male,23-03-2023,Winsport Calgary,CAN,Canada,National Junior Championships,Halfpipe,5,15.50
+18,Bezushko Zachary,Male,21-03-2023,Winsport Calgary,CAN,Canada,National Junior Championships,Slopestyle,22,13.00
+19,Bezushko Zachary,Male,19-03-2023,Winsport Calgary,CAN,Canada,FIS,Slopestyle,30,3.50
+20,Bezushko Zachary,Male,18-03-2023,Winsport Calgary,CAN,Canada,FIS,Halfpipe,5,22.10
+21,Bezushko Zachary,Male,29-01-2023,Winsport Calgary,CAN,Canada,FIS,Halfpipe,10,8.50
+22,Bezushko Zachary,Male,28-01-2023,Winsport Calgary,CAN,Canada,FIS,Slopestyle,9,13.00
+23,Bezushko Zachary,Male,18-03-2022,Calgary,CAN,Canada,FIS,Halfpipe,7,13.80
+24,Bezushko Zachary,Male,20-02-2022,Calgary,CAN,Canada,FIS,Slopestyle,22,0.70
+25,Bezushko Zachary,Male,19-02-2022,Calgary,CAN,Canada,FIS,Slopestyle,18,4.50
+26,Bezushko Zachary,Male,06-02-2022,Calgary,CAN,Canada,National Junior Championships,Slopestyle,33,4.50
+27,Bezushko Zachary,Male,02-02-2022,Calgary,CAN,Canada,National Junior Championships,Halfpipe,6,0.10
+28,Bezushko Zachary,Male,29-01-2022,Calgary,CAN,Canada,FIS,Slopestyle,25,4.90
+29,Bezushko Zachary,Male,28-01-2022,Calgary,CAN,Canada,FIS,Halfpipe,7,4.70

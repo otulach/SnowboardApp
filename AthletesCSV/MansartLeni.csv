@@ -1,34 +1,35 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Mansart Leni,Male,21-03-2025,Moena-Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,19,10.80
-1,Mansart Leni,Male,15-03-2025,Lenk,SUI,France,European Cup,Snowboard Cross,27,9.00
-2,Mansart Leni,Male,13-03-2025,Lenk,SUI,France,European Cup,Snowboard Cross,37,3.88
-3,Mansart Leni,Male,28-02-2025,Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,18,23.40
-4,Mansart Leni,Male,27-02-2025,Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,24,12.60
-5,Mansart Leni,Male,23-02-2025,Colere,ITA,France,FIS,Snowboard Cross,33,4.32
-6,Mansart Leni,Male,22-02-2025,Colere,ITA,France,FIS,Snowboard Cross,DNF,
-7,Mansart Leni,Male,09-02-2025,Reiteralm,AUT,France,European Cup,Snowboard Cross,46,3.34
-8,Mansart Leni,Male,08-02-2025,Reiteralm,AUT,France,European Cup,Snowboard Cross,42,3.58
-9,Mansart Leni,Male,02-02-2025,St. Lary,FRA,France,National Championships,Snowboard Cross,15,24.00
-10,Mansart Leni,Male,31-01-2025,St. Lary,FRA,France,European Cup,Snowboard Cross,33,4.32
-11,Mansart Leni,Male,24-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,37,3.49
-12,Mansart Leni,Male,23-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,21,20.00
-13,Mansart Leni,Male,12-01-2025,Lenk,SUI,France,Junior Regional Cup,Snowboard Cross,13,24.00
-14,Mansart Leni,Male,01-12-2024,Pitztal,AUT,France,Junior,Snowboard Cross,14,21.60
-15,Mansart Leni,Male,30-11-2024,Pitztal,AUT,France,Qualification,Snowboard Cross,40,
-16,Mansart Leni,Male,30-11-2024,Pitztal,AUT,France,Junior,Snowboard Cross,40,2.22
-17,Mansart Leni,Male,30-03-2024,Orcieres Merlette,FRA,France,National Championships,Snowboard Cross,12,63.80
-18,Mansart Leni,Male,22-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,46,4.01
-19,Mansart Leni,Male,21-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,65,2.64
-20,Mansart Leni,Male,14-03-2024,Isola 2000,FRA,France,European Cup,Snowboard Cross,39,3.76
-21,Mansart Leni,Male,12-03-2024,Isola 2000,FRA,France,Junior,Snowboard Cross,15,11.20
-22,Mansart Leni,Male,11-03-2024,Isola 2000,FRA,France,Junior,Snowboard Cross,27,6.75
-23,Mansart Leni,Male,02-03-2024,St. Moritz,SUI,France,National Junior Championships,Snowboard Cross,10,18.20
-24,Mansart Leni,Male,25-02-2024,Grasgehren,GER,France,European Cup,Snowboard Cross,45,4.93
-25,Mansart Leni,Male,24-02-2024,Grasgehren,GER,France,European Cup,Snowboard Cross,60,
-26,Mansart Leni,Male,17-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,59,3.07
-27,Mansart Leni,Male,16-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,69,
-28,Mansart Leni,Male,03-02-2024,Dolni Morava,CZE,France,Junior,Snowboard Cross,1,50.00
-29,Mansart Leni,Male,02-02-2024,Dolni Morava,CZE,France,Junior,Snowboard Cross,5,40.50
-30,Mansart Leni,Male,20-01-2024,Montafon,AUT,France,National Championships,Snowboard Cross,57,3.89
-31,Mansart Leni,Male,17-12-2023,Reiteralm,AUT,France,Junior,Snowboard Cross,19,8.40
-32,Mansart Leni,Male,09-12-2023,Pitztal,AUT,France,Junior,Snowboard Cross,16,15.00
+0,Mansart Leni,Male,22-03-2025,Moena-Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,33,1.68
+1,Mansart Leni,Male,21-03-2025,Moena-Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,19,10.80
+2,Mansart Leni,Male,14-03-2025,Lenk,SUI,France,European Cup,Snowboard Cross,27,9.00
+3,Mansart Leni,Male,13-03-2025,Lenk,SUI,France,European Cup,Snowboard Cross,37,3.88
+4,Mansart Leni,Male,28-02-2025,Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,18,23.40
+5,Mansart Leni,Male,27-02-2025,Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,24,12.60
+6,Mansart Leni,Male,23-02-2025,Colere,ITA,France,FIS,Snowboard Cross,33,4.32
+7,Mansart Leni,Male,22-02-2025,Colere,ITA,France,FIS,Snowboard Cross,DNF,
+8,Mansart Leni,Male,09-02-2025,Reiteralm,AUT,France,European Cup,Snowboard Cross,46,3.34
+9,Mansart Leni,Male,08-02-2025,Reiteralm,AUT,France,European Cup,Snowboard Cross,42,3.58
+10,Mansart Leni,Male,02-02-2025,St. Lary,FRA,France,National Championships,Snowboard Cross,15,24.00
+11,Mansart Leni,Male,31-01-2025,St. Lary,FRA,France,European Cup,Snowboard Cross,33,4.32
+12,Mansart Leni,Male,24-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,37,3.49
+13,Mansart Leni,Male,23-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,21,20.00
+14,Mansart Leni,Male,12-01-2025,Lenk,SUI,France,Junior Regional Cup,Snowboard Cross,13,24.00
+15,Mansart Leni,Male,01-12-2024,Pitztal,AUT,France,Junior,Snowboard Cross,14,21.60
+16,Mansart Leni,Male,30-11-2024,Pitztal,AUT,France,Qualification,Snowboard Cross,40,
+17,Mansart Leni,Male,30-11-2024,Pitztal,AUT,France,Junior,Snowboard Cross,40,2.22
+18,Mansart Leni,Male,30-03-2024,Orcieres Merlette,FRA,France,National Championships,Snowboard Cross,12,63.80
+19,Mansart Leni,Male,22-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,46,4.01
+20,Mansart Leni,Male,21-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,65,2.64
+21,Mansart Leni,Male,14-03-2024,Isola 2000,FRA,France,European Cup,Snowboard Cross,39,3.76
+22,Mansart Leni,Male,12-03-2024,Isola 2000,FRA,France,Junior,Snowboard Cross,15,11.20
+23,Mansart Leni,Male,11-03-2024,Isola 2000,FRA,France,Junior,Snowboard Cross,27,6.75
+24,Mansart Leni,Male,02-03-2024,St. Moritz,SUI,France,National Junior Championships,Snowboard Cross,10,18.20
+25,Mansart Leni,Male,25-02-2024,Grasgehren,GER,France,European Cup,Snowboard Cross,45,4.93
+26,Mansart Leni,Male,24-02-2024,Grasgehren,GER,France,European Cup,Snowboard Cross,60,
+27,Mansart Leni,Male,17-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,59,3.07
+28,Mansart Leni,Male,16-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,69,
+29,Mansart Leni,Male,03-02-2024,Dolni Morava,CZE,France,Junior,Snowboard Cross,1,50.00
+30,Mansart Leni,Male,02-02-2024,Dolni Morava,CZE,France,Junior,Snowboard Cross,5,40.50
+31,Mansart Leni,Male,20-01-2024,Montafon,AUT,France,National Championships,Snowboard Cross,57,3.89
+32,Mansart Leni,Male,17-12-2023,Reiteralm,AUT,France,Junior,Snowboard Cross,19,8.40
+33,Mansart Leni,Male,09-12-2023,Pitztal,AUT,France,Junior,Snowboard Cross,16,15.00

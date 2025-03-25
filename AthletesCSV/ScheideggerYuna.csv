@@ -1,28 +1,29 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Scheidegger Yuna,Female,11-03-2025,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,1,120.00
-1,Scheidegger Yuna,Female,05-03-2025,Prato Nevoso,ITA,Switzerland,European Cup,Big Air,1,70.00
-2,Scheidegger Yuna,Female,23-02-2025,Kotelnica,POL,Switzerland,European Cup,Big Air,3,62.40
-3,Scheidegger Yuna,Female,15-01-2025,Seiser Alm,ITA,Switzerland,European Cup,Slopestyle,8,27.70
-4,Scheidegger Yuna,Female,11-01-2025,Prato Nevoso,ITA,Switzerland,European Cup,Slopestyle,9,31.20
-5,Scheidegger Yuna,Female,21-12-2024,Schilthorn,SUI,Switzerland,FIS,Slopestyle,7,0.10
-6,Scheidegger Yuna,Female,30-08-2023,Cardrona,NZL,Switzerland,FIS Junior World Championships,Slopestyle,33,6.80
-7,Scheidegger Yuna,Female,28-08-2023,Cardrona,NZL,Switzerland,Qualification,Slopestyle,15,
-8,Scheidegger Yuna,Female,17-04-2023,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,8,77.00
-9,Scheidegger Yuna,Female,14-04-2023,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,9,56.90
-10,Scheidegger Yuna,Female,17-03-2023,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,8,108.00
-11,Scheidegger Yuna,Female,19-02-2023,Davos,SUI,Switzerland,Junior,Slopestyle,2,38.30
-12,Scheidegger Yuna,Female,18-02-2023,Davos,SUI,Switzerland,European Cup,Big Air,18,0.10
-13,Scheidegger Yuna,Female,03-02-2023,Grindelwald,SUI,Switzerland,FIS,Big Air,4,10.60
-14,Scheidegger Yuna,Female,27-01-2023,Ravascletto - Zoncolan,ITA,Switzerland,European Youth Olympic Festival,Slopestyle,2,48.80
-15,Scheidegger Yuna,Female,24-01-2023,Ravascletto - Zoncolan,ITA,Switzerland,European Youth Olympic Festival,Big Air,5,23.10
-16,Scheidegger Yuna,Female,17-01-2023,Livigno,ITA,Switzerland,Junior,Slopestyle,9,9.10
-17,Scheidegger Yuna,Female,29-11-2022,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,9,0.10
-18,Scheidegger Yuna,Female,11-11-2021,Glacier 3000,SUI,Switzerland,Open,Slopestyle,14,0.10
-19,Scheidegger Yuna,Female,17-04-2021,Corvatsch,SUI,Switzerland,National Junior Championships,Slopestyle,1,10.00
-20,Scheidegger Yuna,Female,27-03-2021,Laax,SUI,Switzerland,European Cup,Halfpipe,12,4.23
-21,Scheidegger Yuna,Female,19-02-2021,Davos,SUI,Switzerland,European Cup,Big Air,13,11.93
-22,Scheidegger Yuna,Female,06-02-2021,Grindelwald,SUI,Switzerland,FIS,Big Air,3,22.15
-23,Scheidegger Yuna,Female,05-02-2021,Grindelwald,SUI,Switzerland,FIS,Halfpipe,8,5.16
-24,Scheidegger Yuna,Female,26-11-2020,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,18,6.96
-25,Scheidegger Yuna,Female,22-02-2020,Davos,SUI,Switzerland,FIS,Halfpipe,8,32.00
-26,Scheidegger Yuna,Female,21-02-2020,Davos,SUI,Switzerland,European Cup Premium,Big Air,10,67.60
+0,Scheidegger Yuna,Female,21-03-2025,St. Anton,AUT,Switzerland,European Cup,Big Air,2,
+1,Scheidegger Yuna,Female,11-03-2025,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,1,120.00
+2,Scheidegger Yuna,Female,05-03-2025,Prato Nevoso,ITA,Switzerland,European Cup,Big Air,1,70.00
+3,Scheidegger Yuna,Female,23-02-2025,Kotelnica,POL,Switzerland,European Cup,Big Air,3,62.40
+4,Scheidegger Yuna,Female,15-01-2025,Seiser Alm,ITA,Switzerland,European Cup,Slopestyle,8,27.70
+5,Scheidegger Yuna,Female,11-01-2025,Prato Nevoso,ITA,Switzerland,European Cup,Slopestyle,9,31.20
+6,Scheidegger Yuna,Female,21-12-2024,Schilthorn,SUI,Switzerland,FIS,Slopestyle,7,0.10
+7,Scheidegger Yuna,Female,30-08-2023,Cardrona,NZL,Switzerland,FIS Junior World Championships,Slopestyle,33,6.80
+8,Scheidegger Yuna,Female,28-08-2023,Cardrona,NZL,Switzerland,Qualification,Slopestyle,15,
+9,Scheidegger Yuna,Female,17-04-2023,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,8,77.00
+10,Scheidegger Yuna,Female,14-04-2023,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,9,56.90
+11,Scheidegger Yuna,Female,17-03-2023,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,8,108.00
+12,Scheidegger Yuna,Female,19-02-2023,Davos,SUI,Switzerland,Junior,Slopestyle,2,38.30
+13,Scheidegger Yuna,Female,18-02-2023,Davos,SUI,Switzerland,European Cup,Big Air,18,0.10
+14,Scheidegger Yuna,Female,03-02-2023,Grindelwald,SUI,Switzerland,FIS,Big Air,4,10.60
+15,Scheidegger Yuna,Female,27-01-2023,Ravascletto - Zoncolan,ITA,Switzerland,European Youth Olympic Festival,Slopestyle,2,48.80
+16,Scheidegger Yuna,Female,24-01-2023,Ravascletto - Zoncolan,ITA,Switzerland,European Youth Olympic Festival,Big Air,5,23.10
+17,Scheidegger Yuna,Female,17-01-2023,Livigno,ITA,Switzerland,Junior,Slopestyle,9,9.10
+18,Scheidegger Yuna,Female,29-11-2022,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,9,0.10
+19,Scheidegger Yuna,Female,11-11-2021,Glacier 3000,SUI,Switzerland,Open,Slopestyle,14,0.10
+20,Scheidegger Yuna,Female,17-04-2021,Corvatsch,SUI,Switzerland,National Junior Championships,Slopestyle,1,10.00
+21,Scheidegger Yuna,Female,27-03-2021,Laax,SUI,Switzerland,European Cup,Halfpipe,12,4.23
+22,Scheidegger Yuna,Female,19-02-2021,Davos,SUI,Switzerland,European Cup,Big Air,13,11.93
+23,Scheidegger Yuna,Female,06-02-2021,Grindelwald,SUI,Switzerland,FIS,Big Air,3,22.15
+24,Scheidegger Yuna,Female,05-02-2021,Grindelwald,SUI,Switzerland,FIS,Halfpipe,8,5.16
+25,Scheidegger Yuna,Female,26-11-2020,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,18,6.96
+26,Scheidegger Yuna,Female,22-02-2020,Davos,SUI,Switzerland,FIS,Halfpipe,8,32.00
+27,Scheidegger Yuna,Female,21-02-2020,Davos,SUI,Switzerland,European Cup Premium,Big Air,10,67.60

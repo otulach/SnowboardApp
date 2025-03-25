@@ -1,53 +1,57 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Boydak Emre,Male,20-03-2025,Engadin,SUI,Türkiye,World Championships,Parallel Giant Slalom,47,16.40
-1,Boydak Emre,Male,20-03-2025,Engadin,SUI,Türkiye,Qualification,Parallel Giant Slalom,47,
-2,Boydak Emre,Male,22-01-2025,Bansko,BUL,Türkiye,European Cup,Parallel Giant Slalom,35,5.80
-3,Boydak Emre,Male,21-01-2025,Bansko,BUL,Türkiye,European Cup,Parallel Giant Slalom,36,5.71
-4,Boydak Emre,Male,18-03-2024,Kayseri / Erciyes,TUR,Türkiye,FIS,Parallel Slalom,5,22.50
-5,Boydak Emre,Male,17-03-2024,Kayseri / Erciyes,TUR,Türkiye,FIS,Parallel Giant Slalom,3,30.00
-6,Boydak Emre,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Türkiye,FIS,Parallel Giant Slalom,27,7.20
-7,Boydak Emre,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Türkiye,FIS,Parallel Giant Slalom,15,20.80
-8,Boydak Emre,Male,26-03-2023,Villach - Gerlitzen,AUT,Türkiye,FIS,Parallel Slalom,18,
-9,Boydak Emre,Male,25-03-2023,Villach - Gerlitzen,AUT,Türkiye,FIS,Parallel Slalom,11,52.80
-10,Boydak Emre,Male,05-02-2023,Gosau,AUT,Türkiye,FIS,Slalom,23,
-11,Boydak Emre,Male,04-02-2023,Gosau,AUT,Türkiye,FIS,Slalom,12,24.20
-12,Boydak Emre,Male,04-02-2023,Gosau,AUT,Türkiye,FIS,Slalom,12,24.20
-13,Boydak Emre,Male,13-03-2022,Palandoken / Erzurum,TUR,Türkiye,FIS,Parallel Slalom,3,42.00
-14,Boydak Emre,Male,12-03-2022,Palandoken / Erzurum,TUR,Türkiye,FIS,Parallel Giant Slalom,3,42.00
-15,Boydak Emre,Male,21-12-2021,Moninec,CZE,Türkiye,FIS,Parallel Slalom,14,36.00
-16,Boydak Emre,Male,20-12-2021,Moninec,CZE,Türkiye,FIS,Parallel Slalom,18,26.00
-17,Boydak Emre,Male,19-12-2021,Moninec,CZE,Türkiye,European Cup,Parallel Slalom,40,4.07
-18,Boydak Emre,Male,18-12-2021,Moninec,CZE,Türkiye,European Cup,Parallel Slalom,32,5.20
-19,Boydak Emre,Male,30-03-2021,Bansko,BUL,Türkiye,National Championships,Parallel Slalom,9,52.20
-20,Boydak Emre,Male,29-03-2021,Bansko,BUL,Türkiye,National Championships,Parallel Giant Slalom,2,144.00
-21,Boydak Emre,Male,02-03-2021,Rogla,SLO,Türkiye,World Championships,Parallel Slalom,50,
-22,Boydak Emre,Male,02-03-2021,Rogla,SLO,Türkiye,Qualification,Parallel Slalom,50,
-23,Boydak Emre,Male,01-03-2021,Rogla,SLO,Türkiye,World Championships,Parallel Giant Slalom,49,
-24,Boydak Emre,Male,01-03-2021,Rogla,SLO,Türkiye,Qualification,Parallel Giant Slalom,49,
-25,Boydak Emre,Male,21-02-2021,Kayseri / Erciyes,TUR,Türkiye,FIS,Parallel Slalom,2,40.00
-26,Boydak Emre,Male,20-02-2021,Kayseri / Erciyes,TUR,Türkiye,FIS,Parallel Slalom,1,50.00
-27,Boydak Emre,Male,15-02-2021,Cedars,LBN,Türkiye,FIS,Giant Slalom,DSQ,
-28,Boydak Emre,Male,14-02-2021,Cedars,LBN,Türkiye,FIS,Giant Slalom,3,30.00
-29,Boydak Emre,Male,13-02-2021,Cedars,LBN,Türkiye,National Championships,Giant Slalom,3,30.00
-30,Boydak Emre,Male,12-02-2021,Cedars,LBN,Türkiye,FIS,Giant Slalom,2,40.00
-31,Boydak Emre,Male,11-02-2021,Cedars,LBN,Türkiye,FIS,Giant Slalom,2,40.00
-32,Boydak Emre,Male,10-02-2021,Cedars,LBN,Türkiye,FIS,Giant Slalom,3,30.00
-33,Boydak Emre,Male,23-02-2020,Funes/Villnoesses,ITA,Türkiye,FIS,Parallel Giant Slalom,31,6.16
-34,Boydak Emre,Male,22-02-2020,Funes/Villnoesses,ITA,Türkiye,FIS,Parallel Giant Slalom,45,
-35,Boydak Emre,Male,03-04-2019,Rogla,SLO,Türkiye,FIS Junior World Championships,Parallel Slalom,41,6.55
-36,Boydak Emre,Male,02-04-2019,Rogla,SLO,Türkiye,FIS Junior World Championships,Parallel Giant Slalom,59,4.61
-37,Boydak Emre,Male,14-03-2019,Osogovo,BUL,Türkiye,National Championships,Parallel Slalom,DSQ,
-38,Boydak Emre,Male,13-03-2019,Osogovo,BUL,Türkiye,National Championships,Parallel Giant Slalom,12,48.40
-39,Boydak Emre,Male,03-03-2019,Val Senales,ITA,Türkiye,FIS,Parallel Slalom,16,10.50
-40,Boydak Emre,Male,02-03-2019,Val Senales,ITA,Türkiye,FIS,Parallel Slalom,15,11.20
-41,Boydak Emre,Male,24-12-2017,Palandoken / Erzurum,TUR,Türkiye,FIS,Giant Slalom,5,22.50
-42,Boydak Emre,Male,23-12-2017,Palandoken / Erzurum,TUR,Türkiye,FIS,Giant Slalom,8,16.00
-43,Boydak Emre,Male,22-12-2017,Palandoken / Erzurum,TUR,Türkiye,FIS,Giant Slalom,8,16.00
-44,Boydak Emre,Male,21-12-2017,Palandoken / Erzurum,TUR,Türkiye,FIS,Giant Slalom,DNF1,
-45,Boydak Emre,Male,13-02-2017,Palandoken / Erzurum,TUR,Türkiye,European Youth Olympic Festival,Parallel GS,4,45.00
-46,Boydak Emre,Male,20-01-2017,Erzurum/Palandoken,TUR,Türkiye,FIS,Parallel GS,5,22.50
-47,Boydak Emre,Male,19-01-2017,Erzurum/Palandoken,TUR,Türkiye,FIS,Parallel GS,4,25.00
-48,Boydak Emre,Male,07-02-2016,Dolni Morava,CZE,Türkiye,Junior,Parallel Slalom,10,13.00
-49,Boydak Emre,Male,06-02-2016,Dolni Morava,CZE,Türkiye,Junior,Parallel GS,17,7.00
-50,Boydak Emre,Male,30-01-2016,Pfelders,ITA,Türkiye,FIS,Slalom,28,2.00
-51,Boydak Emre,Male,29-01-2016,Pfelders,ITA,Türkiye,FIS,Slalom,38,
+0,Boydak Emre,Male,23-03-2025,Engadin,SUI,Türkiye,Qualification,Parallel Team,31,
+1,Boydak Emre,Male,23-03-2025,Engadin,SUI,Türkiye,World Championships,Parallel Team,31,
+2,Boydak Emre,Male,22-03-2025,Engadin,SUI,Türkiye,World Championships,Parallel Slalom,42,17.90
+3,Boydak Emre,Male,22-03-2025,Engadin,SUI,Türkiye,Qualification,Parallel Slalom,42,
+4,Boydak Emre,Male,20-03-2025,Engadin,SUI,Türkiye,World Championships,Parallel Giant Slalom,47,16.40
+5,Boydak Emre,Male,20-03-2025,Engadin,SUI,Türkiye,Qualification,Parallel Giant Slalom,47,
+6,Boydak Emre,Male,22-01-2025,Bansko,BUL,Türkiye,European Cup,Parallel Giant Slalom,35,5.80
+7,Boydak Emre,Male,21-01-2025,Bansko,BUL,Türkiye,European Cup,Parallel Giant Slalom,36,5.71
+8,Boydak Emre,Male,18-03-2024,Kayseri / Erciyes,TUR,Türkiye,FIS,Parallel Slalom,5,22.50
+9,Boydak Emre,Male,17-03-2024,Kayseri / Erciyes,TUR,Türkiye,FIS,Parallel Giant Slalom,3,30.00
+10,Boydak Emre,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Türkiye,FIS,Parallel Giant Slalom,27,7.20
+11,Boydak Emre,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Türkiye,FIS,Parallel Giant Slalom,15,20.80
+12,Boydak Emre,Male,26-03-2023,Villach - Gerlitzen,AUT,Türkiye,FIS,Parallel Slalom,18,
+13,Boydak Emre,Male,25-03-2023,Villach - Gerlitzen,AUT,Türkiye,FIS,Parallel Slalom,11,52.80
+14,Boydak Emre,Male,05-02-2023,Gosau,AUT,Türkiye,FIS,Slalom,23,
+15,Boydak Emre,Male,04-02-2023,Gosau,AUT,Türkiye,FIS,Slalom,12,24.20
+16,Boydak Emre,Male,04-02-2023,Gosau,AUT,Türkiye,FIS,Slalom,12,24.20
+17,Boydak Emre,Male,13-03-2022,Palandoken / Erzurum,TUR,Türkiye,FIS,Parallel Slalom,3,42.00
+18,Boydak Emre,Male,12-03-2022,Palandoken / Erzurum,TUR,Türkiye,FIS,Parallel Giant Slalom,3,42.00
+19,Boydak Emre,Male,21-12-2021,Moninec,CZE,Türkiye,FIS,Parallel Slalom,14,36.00
+20,Boydak Emre,Male,20-12-2021,Moninec,CZE,Türkiye,FIS,Parallel Slalom,18,26.00
+21,Boydak Emre,Male,19-12-2021,Moninec,CZE,Türkiye,European Cup,Parallel Slalom,40,4.07
+22,Boydak Emre,Male,18-12-2021,Moninec,CZE,Türkiye,European Cup,Parallel Slalom,32,5.20
+23,Boydak Emre,Male,30-03-2021,Bansko,BUL,Türkiye,National Championships,Parallel Slalom,9,52.20
+24,Boydak Emre,Male,29-03-2021,Bansko,BUL,Türkiye,National Championships,Parallel Giant Slalom,2,144.00
+25,Boydak Emre,Male,02-03-2021,Rogla,SLO,Türkiye,Qualification,Parallel Slalom,50,
+26,Boydak Emre,Male,02-03-2021,Rogla,SLO,Türkiye,World Championships,Parallel Slalom,50,
+27,Boydak Emre,Male,01-03-2021,Rogla,SLO,Türkiye,Qualification,Parallel Giant Slalom,49,
+28,Boydak Emre,Male,01-03-2021,Rogla,SLO,Türkiye,World Championships,Parallel Giant Slalom,49,
+29,Boydak Emre,Male,21-02-2021,Kayseri / Erciyes,TUR,Türkiye,FIS,Parallel Slalom,2,40.00
+30,Boydak Emre,Male,20-02-2021,Kayseri / Erciyes,TUR,Türkiye,FIS,Parallel Slalom,1,50.00
+31,Boydak Emre,Male,15-02-2021,Cedars,LBN,Türkiye,FIS,Giant Slalom,DSQ,
+32,Boydak Emre,Male,14-02-2021,Cedars,LBN,Türkiye,FIS,Giant Slalom,3,30.00
+33,Boydak Emre,Male,13-02-2021,Cedars,LBN,Türkiye,National Championships,Giant Slalom,3,30.00
+34,Boydak Emre,Male,12-02-2021,Cedars,LBN,Türkiye,FIS,Giant Slalom,2,40.00
+35,Boydak Emre,Male,11-02-2021,Cedars,LBN,Türkiye,FIS,Giant Slalom,2,40.00
+36,Boydak Emre,Male,10-02-2021,Cedars,LBN,Türkiye,FIS,Giant Slalom,3,30.00
+37,Boydak Emre,Male,23-02-2020,Funes/Villnoesses,ITA,Türkiye,FIS,Parallel Giant Slalom,31,6.16
+38,Boydak Emre,Male,22-02-2020,Funes/Villnoesses,ITA,Türkiye,FIS,Parallel Giant Slalom,45,
+39,Boydak Emre,Male,03-04-2019,Rogla,SLO,Türkiye,FIS Junior World Championships,Parallel Slalom,41,6.55
+40,Boydak Emre,Male,02-04-2019,Rogla,SLO,Türkiye,FIS Junior World Championships,Parallel Giant Slalom,59,4.61
+41,Boydak Emre,Male,14-03-2019,Osogovo,BUL,Türkiye,National Championships,Parallel Slalom,DSQ,
+42,Boydak Emre,Male,13-03-2019,Osogovo,BUL,Türkiye,National Championships,Parallel Giant Slalom,12,48.40
+43,Boydak Emre,Male,03-03-2019,Val Senales,ITA,Türkiye,FIS,Parallel Slalom,16,10.50
+44,Boydak Emre,Male,02-03-2019,Val Senales,ITA,Türkiye,FIS,Parallel Slalom,15,11.20
+45,Boydak Emre,Male,24-12-2017,Palandoken / Erzurum,TUR,Türkiye,FIS,Giant Slalom,5,22.50
+46,Boydak Emre,Male,23-12-2017,Palandoken / Erzurum,TUR,Türkiye,FIS,Giant Slalom,8,16.00
+47,Boydak Emre,Male,22-12-2017,Palandoken / Erzurum,TUR,Türkiye,FIS,Giant Slalom,8,16.00
+48,Boydak Emre,Male,21-12-2017,Palandoken / Erzurum,TUR,Türkiye,FIS,Giant Slalom,DNF1,
+49,Boydak Emre,Male,13-02-2017,Palandoken / Erzurum,TUR,Türkiye,European Youth Olympic Festival,Parallel GS,4,45.00
+50,Boydak Emre,Male,20-01-2017,Erzurum/Palandoken,TUR,Türkiye,FIS,Parallel GS,5,22.50
+51,Boydak Emre,Male,19-01-2017,Erzurum/Palandoken,TUR,Türkiye,FIS,Parallel GS,4,25.00
+52,Boydak Emre,Male,07-02-2016,Dolni Morava,CZE,Türkiye,Junior,Parallel Slalom,10,13.00
+53,Boydak Emre,Male,06-02-2016,Dolni Morava,CZE,Türkiye,Junior,Parallel GS,17,7.00
+54,Boydak Emre,Male,30-01-2016,Pfelders,ITA,Türkiye,FIS,Slalom,28,2.00
+55,Boydak Emre,Male,29-01-2016,Pfelders,ITA,Türkiye,FIS,Slalom,38,

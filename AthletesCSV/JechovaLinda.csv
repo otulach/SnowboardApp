@@ -1,65 +1,67 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Jechova Linda,Female,16-03-2025,Senales - Schnals,ITA,Czechia,FIS,Parallel Slalom,6,28.00
-1,Jechova Linda,Female,15-03-2025,Senales - Schnals,ITA,Czechia,FIS,Parallel Slalom,11,16.80
-2,Jechova Linda,Female,09-03-2025,Montafon/Gargellen,AUT,Czechia,European Cup,Parallel Slalom,39,
-3,Jechova Linda,Female,08-03-2025,Montafon/Gargellen,AUT,Czechia,European Cup,Parallel Giant Slalom,DNF,
-4,Jechova Linda,Female,05-03-2025,Zakopane/Suche,POL,Czechia,FIS Junior World Championships,Parallel Slalom,39,5.45
-5,Jechova Linda,Female,05-03-2025,Zakopane/Suche,POL,Czechia,Qualification,Parallel Slalom,39,
-6,Jechova Linda,Female,04-03-2025,Zakopane/Suche,POL,Czechia,Qualification,Parallel Giant Slalom,27,
-7,Jechova Linda,Female,04-03-2025,Zakopane/Suche,POL,Czechia,FIS Junior World Championships,Parallel Giant Slalom,27,13.05
-8,Jechova Linda,Female,02-03-2025,Spindleruv Mlyn - Stoh,CZE,Czechia,National Championships,Parallel Slalom,2,56.00
-9,Jechova Linda,Female,01-03-2025,Spindleruv Mlyn - Stoh,CZE,Czechia,National Championships,Parallel Giant Slalom,2,56.00
-10,Jechova Linda,Female,23-02-2025,Funes - Vilnoessse,ITA,Czechia,FIS,Parallel Giant Slalom,16,33.00
-11,Jechova Linda,Female,22-02-2025,Funes - Vilnoessse,ITA,Czechia,FIS,Parallel Giant Slalom,13,44.00
-12,Jechova Linda,Female,16-02-2025,Funes/Villnoess,ITA,Czechia,Junior Regional Cup,Parallel Giant Slalom,21,18.00
-13,Jechova Linda,Female,15-02-2025,Funes/Villnoess,ITA,Czechia,Junior Regional Cup,Parallel Giant Slalom,15,28.80
-14,Jechova Linda,Female,09-02-2025,Santa Cristina Val Gardena,ITA,Czechia,FIS,Giant Slalom,DNS1,
-15,Jechova Linda,Female,08-02-2025,Santa Cristina Val Gardena,ITA,Czechia,FIS,Giant Slalom,DNS1,
-16,Jechova Linda,Female,26-01-2025,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,42,6.44
-17,Jechova Linda,Female,25-01-2025,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,DSQ,
-18,Jechova Linda,Female,19-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,2,56.00
-19,Jechova Linda,Female,18-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,3,42.00
-20,Jechova Linda,Female,06-01-2025,Simonhoehe,AUT,Czechia,Junior Regional Cup,Parallel Giant Slalom,10,36.40
-21,Jechova Linda,Female,05-01-2025,Simonhoehe,AUT,Czechia,Junior Regional Cup,Parallel Giant Slalom,11,33.60
-22,Jechova Linda,Female,22-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,26,9.00
-23,Jechova Linda,Female,21-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,15,25.60
-24,Jechova Linda,Female,20-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,37,4.66
-25,Jechova Linda,Female,19-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,42,
-26,Jechova Linda,Female,15-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,33,5.76
-27,Jechova Linda,Female,14-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,31,6.16
-28,Jechova Linda,Female,02-04-2024,"Copper Mountain, CO",USA,Czechia,National Championships,Parallel Slalom,8,57.60
-29,Jechova Linda,Female,01-04-2024,"Copper Mountain, CO",USA,Czechia,National Championships,Parallel Giant Slalom,9,52.20
-30,Jechova Linda,Female,24-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Slalom Team,25,
-31,Jechova Linda,Female,23-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Slalom,27,10.80
-32,Jechova Linda,Female,23-03-2024,Lachtal,AUT,Czechia,Qualification,Parallel Slalom,27,
-33,Jechova Linda,Female,22-03-2024,Lachtal,AUT,Czechia,Qualification,Parallel Giant Slalom,38,
-34,Jechova Linda,Female,22-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Giant Slalom,38,4.58
-35,Jechova Linda,Female,17-03-2024,St. Moritz,SUI,Czechia,European Cup,Parallel Slalom,38,6.88
-36,Jechova Linda,Female,16-03-2024,St. Moritz,SUI,Czechia,European Cup,Parallel Giant Slalom,50,
-37,Jechova Linda,Female,27-02-2024,"Holiday Valley Resort, NY",USA,Czechia,Nor-Am Cup,Parallel Giant Slalom,7,57.60
-38,Jechova Linda,Female,26-02-2024,"Holiday Valley Resort, NY",USA,Czechia,Nor-Am Cup,Parallel Giant Slalom,5,72.00
-39,Jechova Linda,Female,10-02-2024,"Alpine Ski Club,",CAN,Czechia,Nor-Am Cup,Parallel Giant Slalom,17,25.20
-40,Jechova Linda,Female,09-02-2024,"Alpine Ski Club,",CAN,Czechia,Nor-Am Cup,Parallel Slalom,12,39.60
-41,Jechova Linda,Female,06-02-2024,Val Saint Come,CAN,Czechia,Nor-Am Cup,Parallel Giant Slalom,14,32.40
-42,Jechova Linda,Female,05-02-2024,Val Saint Come,CAN,Czechia,Nor-Am Cup,Parallel Giant Slalom,16,27.00
-43,Jechova Linda,Female,12-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,Czechia,Nor-Am Cup,Parallel Slalom,8,51.20
-44,Jechova Linda,Female,11-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,Czechia,Nor-Am Cup,Parallel Giant Slalom,8,51.20
-45,Jechova Linda,Female,10-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,Czechia,FIS,Giant Slalom,5,45.00
-46,Jechova Linda,Female,07-01-2024,Dolni Morava,CZE,Czechia,National Junior Championships,Parallel Giant Slalom,4,25.00
-47,Jechova Linda,Female,06-01-2024,Dolni Morava,CZE,Czechia,National Junior Championships,Parallel Slalom,1,50.00
-48,Jechova Linda,Female,22-12-2023,Moninec,CZE,Czechia,Junior,Parallel Slalom,9,20.30
-49,Jechova Linda,Female,21-12-2023,Moninec,CZE,Czechia,Junior,Parallel Slalom,14,
-50,Jechova Linda,Female,20-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,44,4.50
-51,Jechova Linda,Female,19-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,48,
-52,Jechova Linda,Female,05-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,8,41.60
-53,Jechova Linda,Female,04-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,11,31.20
-54,Jechova Linda,Female,03-03-2023,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Giant Slalom,7,46.80
-55,Jechova Linda,Female,27-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,9,14.50
-56,Jechova Linda,Female,26-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,8,16.00
-57,Jechova Linda,Female,25-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,1,50.00
-58,Jechova Linda,Female,05-02-2023,Gosau,AUT,Czechia,FIS,Slalom,12,19.80
-59,Jechova Linda,Female,04-02-2023,Gosau,AUT,Czechia,FIS,Slalom,DSQ,
-60,Jechova Linda,Female,04-02-2023,Gosau,AUT,Czechia,FIS,Slalom,15,
-61,Jechova Linda,Female,08-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Giant Slalom,12,26.40
-62,Jechova Linda,Female,07-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,18,16.90
-63,Jechova Linda,Female,04-01-2023,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,18,37.70
+0,Jechova Linda,Female,23-03-2025,Gosau,AUT,Czechia,FIS,Parallel Slalom,9,
+1,Jechova Linda,Female,22-03-2025,Gosau,AUT,Czechia,FIS,Parallel Slalom,DSQ,
+2,Jechova Linda,Female,16-03-2025,Senales - Schnals,ITA,Czechia,FIS,Parallel Slalom,6,28.00
+3,Jechova Linda,Female,15-03-2025,Senales - Schnals,ITA,Czechia,FIS,Parallel Slalom,11,16.80
+4,Jechova Linda,Female,09-03-2025,Montafon/Gargellen,AUT,Czechia,European Cup,Parallel Slalom,39,
+5,Jechova Linda,Female,08-03-2025,Montafon/Gargellen,AUT,Czechia,European Cup,Parallel Giant Slalom,DNF,
+6,Jechova Linda,Female,05-03-2025,Zakopane/Suche,POL,Czechia,Qualification,Parallel Slalom,39,
+7,Jechova Linda,Female,05-03-2025,Zakopane/Suche,POL,Czechia,FIS Junior World Championships,Parallel Slalom,39,5.45
+8,Jechova Linda,Female,04-03-2025,Zakopane/Suche,POL,Czechia,Qualification,Parallel Giant Slalom,27,
+9,Jechova Linda,Female,04-03-2025,Zakopane/Suche,POL,Czechia,FIS Junior World Championships,Parallel Giant Slalom,27,13.05
+10,Jechova Linda,Female,02-03-2025,Spindleruv Mlyn - Stoh,CZE,Czechia,National Championships,Parallel Slalom,2,56.00
+11,Jechova Linda,Female,01-03-2025,Spindleruv Mlyn - Stoh,CZE,Czechia,National Championships,Parallel Giant Slalom,2,56.00
+12,Jechova Linda,Female,23-02-2025,Funes - Vilnoessse,ITA,Czechia,FIS,Parallel Giant Slalom,16,33.00
+13,Jechova Linda,Female,22-02-2025,Funes - Vilnoessse,ITA,Czechia,FIS,Parallel Giant Slalom,13,44.00
+14,Jechova Linda,Female,16-02-2025,Funes/Villnoess,ITA,Czechia,Junior Regional Cup,Parallel Giant Slalom,21,18.00
+15,Jechova Linda,Female,15-02-2025,Funes/Villnoess,ITA,Czechia,Junior Regional Cup,Parallel Giant Slalom,15,28.80
+16,Jechova Linda,Female,09-02-2025,Santa Cristina Val Gardena,ITA,Czechia,FIS,Giant Slalom,DNS1,
+17,Jechova Linda,Female,08-02-2025,Santa Cristina Val Gardena,ITA,Czechia,FIS,Giant Slalom,DNS1,
+18,Jechova Linda,Female,26-01-2025,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,42,6.44
+19,Jechova Linda,Female,25-01-2025,Simonhöhe,AUT,Czechia,European Cup,Parallel Giant Slalom,DSQ,
+20,Jechova Linda,Female,19-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,2,56.00
+21,Jechova Linda,Female,18-01-2025,Dolni Morava,CZE,Czechia,FIS,Parallel Giant Slalom,3,42.00
+22,Jechova Linda,Female,06-01-2025,Simonhoehe,AUT,Czechia,Junior Regional Cup,Parallel Giant Slalom,10,36.40
+23,Jechova Linda,Female,05-01-2025,Simonhoehe,AUT,Czechia,Junior Regional Cup,Parallel Giant Slalom,11,33.60
+24,Jechova Linda,Female,22-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,26,9.00
+25,Jechova Linda,Female,21-12-2024,Moninec,CZE,Czechia,FIS,Parallel Slalom,15,25.60
+26,Jechova Linda,Female,20-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,37,4.66
+27,Jechova Linda,Female,19-12-2024,Moninec,CZE,Czechia,European Cup,Parallel Slalom,42,
+28,Jechova Linda,Female,15-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,33,5.76
+29,Jechova Linda,Female,14-12-2024,Götschen,GER,Czechia,European Cup,Parallel Slalom,31,6.16
+30,Jechova Linda,Female,02-04-2024,"Copper Mountain, CO",USA,Czechia,National Championships,Parallel Slalom,8,57.60
+31,Jechova Linda,Female,01-04-2024,"Copper Mountain, CO",USA,Czechia,National Championships,Parallel Giant Slalom,9,52.20
+32,Jechova Linda,Female,24-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Slalom Team,25,
+33,Jechova Linda,Female,23-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Slalom,27,10.80
+34,Jechova Linda,Female,23-03-2024,Lachtal,AUT,Czechia,Qualification,Parallel Slalom,27,
+35,Jechova Linda,Female,22-03-2024,Lachtal,AUT,Czechia,Qualification,Parallel Giant Slalom,38,
+36,Jechova Linda,Female,22-03-2024,Lachtal,AUT,Czechia,FIS Junior World Championships,Parallel Giant Slalom,38,4.58
+37,Jechova Linda,Female,17-03-2024,St. Moritz,SUI,Czechia,European Cup,Parallel Slalom,38,6.88
+38,Jechova Linda,Female,16-03-2024,St. Moritz,SUI,Czechia,European Cup,Parallel Giant Slalom,50,
+39,Jechova Linda,Female,27-02-2024,"Holiday Valley Resort, NY",USA,Czechia,Nor-Am Cup,Parallel Giant Slalom,7,57.60
+40,Jechova Linda,Female,26-02-2024,"Holiday Valley Resort, NY",USA,Czechia,Nor-Am Cup,Parallel Giant Slalom,5,72.00
+41,Jechova Linda,Female,10-02-2024,"Alpine Ski Club,",CAN,Czechia,Nor-Am Cup,Parallel Giant Slalom,17,25.20
+42,Jechova Linda,Female,09-02-2024,"Alpine Ski Club,",CAN,Czechia,Nor-Am Cup,Parallel Slalom,12,39.60
+43,Jechova Linda,Female,06-02-2024,Val Saint Come,CAN,Czechia,Nor-Am Cup,Parallel Giant Slalom,14,32.40
+44,Jechova Linda,Female,05-02-2024,Val Saint Come,CAN,Czechia,Nor-Am Cup,Parallel Giant Slalom,16,27.00
+45,Jechova Linda,Female,12-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,Czechia,Nor-Am Cup,Parallel Slalom,8,51.20
+46,Jechova Linda,Female,11-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,Czechia,Nor-Am Cup,Parallel Giant Slalom,8,51.20
+47,Jechova Linda,Female,10-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,Czechia,FIS,Giant Slalom,5,45.00
+48,Jechova Linda,Female,07-01-2024,Dolni Morava,CZE,Czechia,National Junior Championships,Parallel Giant Slalom,4,25.00
+49,Jechova Linda,Female,06-01-2024,Dolni Morava,CZE,Czechia,National Junior Championships,Parallel Slalom,1,50.00
+50,Jechova Linda,Female,22-12-2023,Moninec,CZE,Czechia,Junior,Parallel Slalom,9,20.30
+51,Jechova Linda,Female,21-12-2023,Moninec,CZE,Czechia,Junior,Parallel Slalom,14,
+52,Jechova Linda,Female,20-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,44,4.50
+53,Jechova Linda,Female,19-12-2023,Moninec,CZE,Czechia,European Cup,Parallel Slalom,48,
+54,Jechova Linda,Female,05-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Slalom,8,41.60
+55,Jechova Linda,Female,04-03-2023,Spindleruv Mlyn,CZE,Czechia,National Championships,Parallel Giant Slalom,11,31.20
+56,Jechova Linda,Female,03-03-2023,Spindleruv Mlyn,CZE,Czechia,FIS,Parallel Giant Slalom,7,46.80
+57,Jechova Linda,Female,27-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,9,14.50
+58,Jechova Linda,Female,26-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Slalom,8,16.00
+59,Jechova Linda,Female,25-02-2023,Dolni Morava,CZE,Czechia,Junior,Parallel Giant Slalom,1,50.00
+60,Jechova Linda,Female,05-02-2023,Gosau,AUT,Czechia,FIS,Slalom,12,19.80
+61,Jechova Linda,Female,04-02-2023,Gosau,AUT,Czechia,FIS,Slalom,15,
+62,Jechova Linda,Female,04-02-2023,Gosau,AUT,Czechia,FIS,Slalom,DSQ,
+63,Jechova Linda,Female,08-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Giant Slalom,12,26.40
+64,Jechova Linda,Female,07-01-2023,Haus im Ennstal,AUT,Czechia,Junior,Parallel Giant Slalom,18,16.90
+65,Jechova Linda,Female,04-01-2023,SUCHE/Zakopane,POL,Czechia,National Championships,Parallel Giant Slalom,18,37.70

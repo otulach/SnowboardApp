@@ -1,46 +1,48 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Kocak Ugur,Male,20-03-2025,Engadin,SUI,Türkiye,World Championships,Parallel Giant Slalom,49,15.80
-1,Kocak Ugur,Male,20-03-2025,Engadin,SUI,Türkiye,Qualification,Parallel Giant Slalom,49,
-2,Kocak Ugur,Male,22-01-2025,Bardonecchia,ITA,Türkiye,Universiade,Parallel Slalom,25,15.60
-3,Kocak Ugur,Male,21-01-2025,Bardonecchia,ITA,Türkiye,Universiade,Parallel Giant Slalom,23,20.80
-4,Kocak Ugur,Male,18-03-2024,Kayseri / Erciyes,TUR,Türkiye,FIS,Parallel Slalom,1,50.00
-5,Kocak Ugur,Male,17-03-2024,Kayseri / Erciyes,TUR,Türkiye,FIS,Parallel Giant Slalom,5,22.50
-6,Kocak Ugur,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Türkiye,FIS,Parallel Giant Slalom,DSQ,
-7,Kocak Ugur,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Türkiye,FIS,Parallel Giant Slalom,20,14.30
-8,Kocak Ugur,Male,26-03-2023,Villach - Gerlitzen,AUT,Türkiye,FIS,Parallel Slalom,12,48.40
-9,Kocak Ugur,Male,25-03-2023,Villach - Gerlitzen,AUT,Türkiye,FIS,Parallel Slalom,19,
-10,Kocak Ugur,Male,05-02-2023,Gosau,AUT,Türkiye,FIS,Slalom,DSQ,
-11,Kocak Ugur,Male,04-02-2023,Gosau,AUT,Türkiye,FIS,Slalom,15,17.60
-12,Kocak Ugur,Male,04-02-2023,Gosau,AUT,Türkiye,FIS,Slalom,DSQ,
-13,Kocak Ugur,Male,13-03-2022,Palandoken / Erzurum,TUR,Türkiye,FIS,Parallel Slalom,2,56.00
-14,Kocak Ugur,Male,12-03-2022,Palandoken / Erzurum,TUR,Türkiye,FIS,Parallel Giant Slalom,1,70.00
-15,Kocak Ugur,Male,21-12-2021,Moninec,CZE,Türkiye,Junior,Parallel Slalom,DNF,
-16,Kocak Ugur,Male,20-12-2021,Moninec,CZE,Türkiye,Junior,Parallel Slalom,12,15.40
-17,Kocak Ugur,Male,19-12-2021,Moninec,CZE,Türkiye,European Cup,Parallel Slalom,25,13.20
-18,Kocak Ugur,Male,18-12-2021,Moninec,CZE,Türkiye,European Cup,Parallel Slalom,29,7.20
-19,Kocak Ugur,Male,30-03-2021,Bansko,BUL,Türkiye,National Championships,Parallel Slalom,3,108.00
-20,Kocak Ugur,Male,29-03-2021,Bansko,BUL,Türkiye,National Championships,Parallel Giant Slalom,8,57.60
-21,Kocak Ugur,Male,02-03-2021,Rogla,SLO,Türkiye,World Championships,Parallel Slalom,47,16.40
-22,Kocak Ugur,Male,02-03-2021,Rogla,SLO,Türkiye,Qualification,Parallel Slalom,47,
-23,Kocak Ugur,Male,01-03-2021,Rogla,SLO,Türkiye,Qualification,Parallel Giant Slalom,48,
-24,Kocak Ugur,Male,01-03-2021,Rogla,SLO,Türkiye,World Championships,Parallel Giant Slalom,48,
-25,Kocak Ugur,Male,21-02-2021,Kayseri / Erciyes,TUR,Türkiye,FIS,Parallel Slalom,1,50.00
-26,Kocak Ugur,Male,20-02-2021,Kayseri / Erciyes,TUR,Türkiye,FIS,Parallel Slalom,2,40.00
-27,Kocak Ugur,Male,15-02-2021,Cedars,LBN,Türkiye,FIS,Giant Slalom,2,40.00
-28,Kocak Ugur,Male,14-02-2021,Cedars,LBN,Türkiye,FIS,Giant Slalom,1,50.00
-29,Kocak Ugur,Male,13-02-2021,Cedars,LBN,Türkiye,National Championships,Giant Slalom,2,40.00
-30,Kocak Ugur,Male,12-02-2021,Cedars,LBN,Türkiye,FIS,Giant Slalom,1,50.00
-31,Kocak Ugur,Male,11-02-2021,Cedars,LBN,Türkiye,FIS,Giant Slalom,DSQ,
-32,Kocak Ugur,Male,10-02-2021,Cedars,LBN,Türkiye,FIS,Giant Slalom,1,50.00
-33,Kocak Ugur,Male,23-02-2020,Funes/Villnoesses,ITA,Türkiye,FIS,Parallel Giant Slalom,37,4.27
-34,Kocak Ugur,Male,22-02-2020,Funes/Villnoesses,ITA,Türkiye,FIS,Parallel Giant Slalom,DNF1,
-35,Kocak Ugur,Male,03-04-2019,Rogla,SLO,Türkiye,FIS Junior World Championships,Parallel Slalom,51,5.47
-36,Kocak Ugur,Male,02-04-2019,Rogla,SLO,Türkiye,FIS Junior World Championships,Parallel Giant Slalom,50,5.58
-37,Kocak Ugur,Male,14-03-2019,Osogovo,BUL,Türkiye,National Championships,Parallel Slalom,14,39.60
-38,Kocak Ugur,Male,13-03-2019,Osogovo,BUL,Türkiye,National Championships,Parallel Giant Slalom,DSQ,
-39,Kocak Ugur,Male,03-03-2019,Val Senales,ITA,Türkiye,FIS,Parallel Slalom,18,9.10
-40,Kocak Ugur,Male,02-03-2019,Val Senales,ITA,Türkiye,FIS,Parallel Slalom,19,8.40
-41,Kocak Ugur,Male,24-12-2017,Palandoken / Erzurum,TUR,Türkiye,FIS,Giant Slalom,12,
-42,Kocak Ugur,Male,23-12-2017,Palandoken / Erzurum,TUR,Türkiye,FIS,Giant Slalom,7,18.00
-43,Kocak Ugur,Male,22-12-2017,Palandoken / Erzurum,TUR,Türkiye,FIS,Giant Slalom,7,18.00
-44,Kocak Ugur,Male,21-12-2017,Palandoken / Erzurum,TUR,Türkiye,FIS,Giant Slalom,11,
+0,Kocak Ugur,Male,22-03-2025,Engadin,SUI,Türkiye,World Championships,Parallel Slalom,45,17.00
+1,Kocak Ugur,Male,22-03-2025,Engadin,SUI,Türkiye,Qualification,Parallel Slalom,45,
+2,Kocak Ugur,Male,20-03-2025,Engadin,SUI,Türkiye,World Championships,Parallel Giant Slalom,49,15.80
+3,Kocak Ugur,Male,20-03-2025,Engadin,SUI,Türkiye,Qualification,Parallel Giant Slalom,49,
+4,Kocak Ugur,Male,22-01-2025,Bardonecchia,ITA,Türkiye,Universiade,Parallel Slalom,25,15.60
+5,Kocak Ugur,Male,21-01-2025,Bardonecchia,ITA,Türkiye,Universiade,Parallel Giant Slalom,23,20.80
+6,Kocak Ugur,Male,18-03-2024,Kayseri / Erciyes,TUR,Türkiye,FIS,Parallel Slalom,1,50.00
+7,Kocak Ugur,Male,17-03-2024,Kayseri / Erciyes,TUR,Türkiye,FIS,Parallel Giant Slalom,5,22.50
+8,Kocak Ugur,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Türkiye,FIS,Parallel Giant Slalom,DSQ,
+9,Kocak Ugur,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Türkiye,FIS,Parallel Giant Slalom,20,14.30
+10,Kocak Ugur,Male,26-03-2023,Villach - Gerlitzen,AUT,Türkiye,FIS,Parallel Slalom,12,48.40
+11,Kocak Ugur,Male,25-03-2023,Villach - Gerlitzen,AUT,Türkiye,FIS,Parallel Slalom,19,
+12,Kocak Ugur,Male,05-02-2023,Gosau,AUT,Türkiye,FIS,Slalom,DSQ,
+13,Kocak Ugur,Male,04-02-2023,Gosau,AUT,Türkiye,FIS,Slalom,15,17.60
+14,Kocak Ugur,Male,04-02-2023,Gosau,AUT,Türkiye,FIS,Slalom,DSQ,
+15,Kocak Ugur,Male,13-03-2022,Palandoken / Erzurum,TUR,Türkiye,FIS,Parallel Slalom,2,56.00
+16,Kocak Ugur,Male,12-03-2022,Palandoken / Erzurum,TUR,Türkiye,FIS,Parallel Giant Slalom,1,70.00
+17,Kocak Ugur,Male,21-12-2021,Moninec,CZE,Türkiye,Junior,Parallel Slalom,DNF,
+18,Kocak Ugur,Male,20-12-2021,Moninec,CZE,Türkiye,Junior,Parallel Slalom,12,15.40
+19,Kocak Ugur,Male,19-12-2021,Moninec,CZE,Türkiye,European Cup,Parallel Slalom,25,13.20
+20,Kocak Ugur,Male,18-12-2021,Moninec,CZE,Türkiye,European Cup,Parallel Slalom,29,7.20
+21,Kocak Ugur,Male,30-03-2021,Bansko,BUL,Türkiye,National Championships,Parallel Slalom,3,108.00
+22,Kocak Ugur,Male,29-03-2021,Bansko,BUL,Türkiye,National Championships,Parallel Giant Slalom,8,57.60
+23,Kocak Ugur,Male,02-03-2021,Rogla,SLO,Türkiye,Qualification,Parallel Slalom,47,
+24,Kocak Ugur,Male,02-03-2021,Rogla,SLO,Türkiye,World Championships,Parallel Slalom,47,16.40
+25,Kocak Ugur,Male,01-03-2021,Rogla,SLO,Türkiye,World Championships,Parallel Giant Slalom,48,
+26,Kocak Ugur,Male,01-03-2021,Rogla,SLO,Türkiye,Qualification,Parallel Giant Slalom,48,
+27,Kocak Ugur,Male,21-02-2021,Kayseri / Erciyes,TUR,Türkiye,FIS,Parallel Slalom,1,50.00
+28,Kocak Ugur,Male,20-02-2021,Kayseri / Erciyes,TUR,Türkiye,FIS,Parallel Slalom,2,40.00
+29,Kocak Ugur,Male,15-02-2021,Cedars,LBN,Türkiye,FIS,Giant Slalom,2,40.00
+30,Kocak Ugur,Male,14-02-2021,Cedars,LBN,Türkiye,FIS,Giant Slalom,1,50.00
+31,Kocak Ugur,Male,13-02-2021,Cedars,LBN,Türkiye,National Championships,Giant Slalom,2,40.00
+32,Kocak Ugur,Male,12-02-2021,Cedars,LBN,Türkiye,FIS,Giant Slalom,1,50.00
+33,Kocak Ugur,Male,11-02-2021,Cedars,LBN,Türkiye,FIS,Giant Slalom,DSQ,
+34,Kocak Ugur,Male,10-02-2021,Cedars,LBN,Türkiye,FIS,Giant Slalom,1,50.00
+35,Kocak Ugur,Male,23-02-2020,Funes/Villnoesses,ITA,Türkiye,FIS,Parallel Giant Slalom,37,4.27
+36,Kocak Ugur,Male,22-02-2020,Funes/Villnoesses,ITA,Türkiye,FIS,Parallel Giant Slalom,DNF1,
+37,Kocak Ugur,Male,03-04-2019,Rogla,SLO,Türkiye,FIS Junior World Championships,Parallel Slalom,51,5.47
+38,Kocak Ugur,Male,02-04-2019,Rogla,SLO,Türkiye,FIS Junior World Championships,Parallel Giant Slalom,50,5.58
+39,Kocak Ugur,Male,14-03-2019,Osogovo,BUL,Türkiye,National Championships,Parallel Slalom,14,39.60
+40,Kocak Ugur,Male,13-03-2019,Osogovo,BUL,Türkiye,National Championships,Parallel Giant Slalom,DSQ,
+41,Kocak Ugur,Male,03-03-2019,Val Senales,ITA,Türkiye,FIS,Parallel Slalom,18,9.10
+42,Kocak Ugur,Male,02-03-2019,Val Senales,ITA,Türkiye,FIS,Parallel Slalom,19,8.40
+43,Kocak Ugur,Male,24-12-2017,Palandoken / Erzurum,TUR,Türkiye,FIS,Giant Slalom,12,
+44,Kocak Ugur,Male,23-12-2017,Palandoken / Erzurum,TUR,Türkiye,FIS,Giant Slalom,7,18.00
+45,Kocak Ugur,Male,22-12-2017,Palandoken / Erzurum,TUR,Türkiye,FIS,Giant Slalom,7,18.00
+46,Kocak Ugur,Male,21-12-2017,Palandoken / Erzurum,TUR,Türkiye,FIS,Giant Slalom,11,

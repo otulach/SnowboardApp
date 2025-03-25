@@ -1,64 +1,65 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Lee Jamie,Male,16-03-2025,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,6,44.00
-1,Lee Jamie,Male,15-03-2025,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,18,14.30
-2,Lee Jamie,Male,30-03-2024,Colere,ITA,Italy,National Championships,Snowboard Cross,26,14.50
-3,Lee Jamie,Male,10-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,9,34.80
-4,Lee Jamie,Male,09-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,4,60.00
-5,Lee Jamie,Male,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,19,34.80
-6,Lee Jamie,Male,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,26,14.50
-7,Lee Jamie,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,DNS,
-8,Lee Jamie,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,16,19.50
-9,Lee Jamie,Male,12-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,22,21.60
+0,Lee Jamie,Male,23-03-2025,Moena-Passo San Pellegrino,ITA,Italy,National Championships,Snowboard Cross,3,120.00
+1,Lee Jamie,Male,16-03-2025,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,6,44.00
+2,Lee Jamie,Male,15-03-2025,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,18,14.30
+3,Lee Jamie,Male,30-03-2024,Colere,ITA,Italy,National Championships,Snowboard Cross,26,14.50
+4,Lee Jamie,Male,10-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,9,34.80
+5,Lee Jamie,Male,09-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,4,60.00
+6,Lee Jamie,Male,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,19,34.80
+7,Lee Jamie,Male,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,26,14.50
+8,Lee Jamie,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,DNS,
+9,Lee Jamie,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,16,19.50
 10,Lee Jamie,Male,12-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,22,
-11,Lee Jamie,Male,11-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,20,26.40
-12,Lee Jamie,Male,11-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,20,
-13,Lee Jamie,Male,22-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,21,
-14,Lee Jamie,Male,21-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,15,25.60
-15,Lee Jamie,Male,20-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,48,3.54
-16,Lee Jamie,Male,19-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,46,3.67
-17,Lee Jamie,Male,19-03-2023,Passo San Pellegrino,ITA,Italy,FIS,Snowboard Cross,14,32.40
-18,Lee Jamie,Male,18-03-2023,Passo San Pellegrino,ITA,Italy,FIS,Snowboard Cross,2,144.00
-19,Lee Jamie,Male,16-02-2023,Moena - Passo San Pellegrino,ITA,Italy,European Cup,Snowboard Cross,17,40.60
-20,Lee Jamie,Male,15-02-2023,Moena - Passo San Pellegrino,ITA,Italy,European Cup,Snowboard Cross,19,34.80
-21,Lee Jamie,Male,22-01-2023,Puy St.Vincent,FRA,Italy,European Cup,Snowboard Cross,13,48.00
-22,Lee Jamie,Male,21-01-2023,Puy St.Vincent,FRA,Italy,European Cup,Snowboard Cross,26,12.00
-23,Lee Jamie,Male,15-01-2023,Reiteralm,AUT,Italy,European Cup,Snowboard Cross,24,25.20
-24,Lee Jamie,Male,14-01-2023,Reiteralm,AUT,Italy,European Cup,Snowboard Cross,37,6.98
-25,Lee Jamie,Male,02-04-2022,Passo San Pellegrino,ITA,Italy,National Championships,Snowboard Cross,9,84.10
-26,Lee Jamie,Male,27-03-2022,Lenk,SUI,Italy,National Championships,Snowboard Cross,13,52.00
-27,Lee Jamie,Male,26-03-2022,Lenk,SUI,Italy,European Cup,Snowboard Cross,29,12.96
-28,Lee Jamie,Male,25-03-2022,Lenk,SUI,Italy,European Cup,Snowboard Cross,51,5.47
-29,Lee Jamie,Male,03-03-2022,Pitztal,AUT,Italy,European Cup,Snowboard Cross,33,8.64
-30,Lee Jamie,Male,02-03-2022,Pitztal,AUT,Italy,European Cup,Snowboard Cross,21,36.00
-31,Lee Jamie,Male,27-02-2022,Grasgehren,GER,Italy,European Cup,Snowboard Cross,33,8.64
-32,Lee Jamie,Male,26-02-2022,Grasgehren,GER,Italy,European Cup,Snowboard Cross,33,8.64
-33,Lee Jamie,Male,23-01-2022,Reiteralm,AUT,Italy,European Cup,Snowboard Cross,17,36.40
-34,Lee Jamie,Male,10-04-2021,Colere,ITA,Italy,National Championships,Snowboard Cross,17,28.00
-35,Lee Jamie,Male,31-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Giant Slalom,26,14.50
-36,Lee Jamie,Male,30-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Slalom,38,
-37,Lee Jamie,Male,02-12-2017,Pfelders,ITA,Italy,FIS,Parallel GS,27,9.90
-38,Lee Jamie,Male,23-03-2017,Monte Pora - Castione della presolana,ITA,Italy,National Championships,Parallel Slalom,29,10.44
-39,Lee Jamie,Male,22-03-2017,Monte Pora - Castione della presolana,ITA,Italy,National Championships,Parallel GS,15,46.40
-40,Lee Jamie,Male,04-03-2017,Funes/Villnoss,ITA,Italy,FIS,Giant Slalom,12,35.20
-41,Lee Jamie,Male,21-01-2017,Livigno,ITA,Italy,European Cup,Parallel GS,55,5.04
-42,Lee Jamie,Male,20-01-2017,Livigno,ITA,Italy,European Cup,Parallel GS,56,4.93
-43,Lee Jamie,Male,08-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Parallel Slalom,DSQ1,
-44,Lee Jamie,Male,07-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Parallel GS,19,43.20
-45,Lee Jamie,Male,13-03-2016,Scuol,SUI,Italy,National Championships,Parallel Slalom,DSQ1,
-46,Lee Jamie,Male,12-03-2016,Scuol,SUI,Italy,National Championships,Parallel GS,23,28.80
-47,Lee Jamie,Male,05-03-2016,Moena,ITA,Italy,FIS,Snowboardcross,17,21.00
-48,Lee Jamie,Male,04-03-2016,Moena,ITA,Italy,FIS,Snowboardcross,17,21.00
-49,Lee Jamie,Male,21-02-2016,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,44,8.65
-50,Lee Jamie,Male,20-02-2016,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,55,
-51,Lee Jamie,Male,13-02-2016,Breuil Cervinia-Valtournenche,ITA,Italy,FIS,Snowboardcross,33,6.24
-52,Lee Jamie,Male,12-02-2016,Breuil Cervinia-Valtournenche,ITA,Italy,FIS,Snowboardcross,33,6.24
-53,Lee Jamie,Male,30-01-2016,Pfelders,ITA,Italy,FIS,Slalom,9,14.50
-54,Lee Jamie,Male,29-01-2016,Pfelders,ITA,Italy,FIS,Slalom,15,11.20
-55,Lee Jamie,Male,19-04-2015,Breuil Cervinia,ITA,Italy,FIS,Snowboardcross,14,46.80
-56,Lee Jamie,Male,18-04-2015,Breuil Cervinia,ITA,Italy,FIS,Snowboardcross,15,41.60
-57,Lee Jamie,Male,27-03-2015,Canazei,ITA,Italy,National Championships,Parallel Slalom,57,0.00
-58,Lee Jamie,Male,26-03-2015,Canazei,ITA,Italy,National Championships,Parallel GS,57,0.00
-59,Lee Jamie,Male,25-03-2015,Canazei,ITA,Italy,National Championships,Snowboardcross,43,6.34
-60,Lee Jamie,Male,24-03-2015,Canazei,ITA,Italy,FIS,Snowboardcross,19,31.20
-61,Lee Jamie,Male,07-03-2015,Moena,ITA,Italy,FIS,Snowboardcross,49,4.11
-62,Lee Jamie,Male,06-03-2015,Moena,ITA,Italy,FIS,Snowboardcross,37,5.04
+11,Lee Jamie,Male,12-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,22,21.60
+12,Lee Jamie,Male,11-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,20,26.40
+13,Lee Jamie,Male,11-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,20,
+14,Lee Jamie,Male,22-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,21,
+15,Lee Jamie,Male,21-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,15,25.60
+16,Lee Jamie,Male,20-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,48,3.54
+17,Lee Jamie,Male,19-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,46,3.67
+18,Lee Jamie,Male,19-03-2023,Passo San Pellegrino,ITA,Italy,FIS,Snowboard Cross,14,32.40
+19,Lee Jamie,Male,18-03-2023,Passo San Pellegrino,ITA,Italy,FIS,Snowboard Cross,2,144.00
+20,Lee Jamie,Male,16-02-2023,Moena - Passo San Pellegrino,ITA,Italy,European Cup,Snowboard Cross,17,40.60
+21,Lee Jamie,Male,15-02-2023,Moena - Passo San Pellegrino,ITA,Italy,European Cup,Snowboard Cross,19,34.80
+22,Lee Jamie,Male,22-01-2023,Puy St.Vincent,FRA,Italy,European Cup,Snowboard Cross,13,48.00
+23,Lee Jamie,Male,21-01-2023,Puy St.Vincent,FRA,Italy,European Cup,Snowboard Cross,26,12.00
+24,Lee Jamie,Male,15-01-2023,Reiteralm,AUT,Italy,European Cup,Snowboard Cross,24,25.20
+25,Lee Jamie,Male,14-01-2023,Reiteralm,AUT,Italy,European Cup,Snowboard Cross,37,6.98
+26,Lee Jamie,Male,02-04-2022,Passo San Pellegrino,ITA,Italy,National Championships,Snowboard Cross,9,84.10
+27,Lee Jamie,Male,27-03-2022,Lenk,SUI,Italy,National Championships,Snowboard Cross,13,52.00
+28,Lee Jamie,Male,26-03-2022,Lenk,SUI,Italy,European Cup,Snowboard Cross,29,12.96
+29,Lee Jamie,Male,25-03-2022,Lenk,SUI,Italy,European Cup,Snowboard Cross,51,5.47
+30,Lee Jamie,Male,03-03-2022,Pitztal,AUT,Italy,European Cup,Snowboard Cross,33,8.64
+31,Lee Jamie,Male,02-03-2022,Pitztal,AUT,Italy,European Cup,Snowboard Cross,21,36.00
+32,Lee Jamie,Male,27-02-2022,Grasgehren,GER,Italy,European Cup,Snowboard Cross,33,8.64
+33,Lee Jamie,Male,26-02-2022,Grasgehren,GER,Italy,European Cup,Snowboard Cross,33,8.64
+34,Lee Jamie,Male,23-01-2022,Reiteralm,AUT,Italy,European Cup,Snowboard Cross,17,36.40
+35,Lee Jamie,Male,10-04-2021,Colere,ITA,Italy,National Championships,Snowboard Cross,17,28.00
+36,Lee Jamie,Male,31-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Giant Slalom,26,14.50
+37,Lee Jamie,Male,30-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Slalom,38,
+38,Lee Jamie,Male,02-12-2017,Pfelders,ITA,Italy,FIS,Parallel GS,27,9.90
+39,Lee Jamie,Male,23-03-2017,Monte Pora - Castione della presolana,ITA,Italy,National Championships,Parallel Slalom,29,10.44
+40,Lee Jamie,Male,22-03-2017,Monte Pora - Castione della presolana,ITA,Italy,National Championships,Parallel GS,15,46.40
+41,Lee Jamie,Male,04-03-2017,Funes/Villnoss,ITA,Italy,FIS,Giant Slalom,12,35.20
+42,Lee Jamie,Male,21-01-2017,Livigno,ITA,Italy,European Cup,Parallel GS,55,5.04
+43,Lee Jamie,Male,20-01-2017,Livigno,ITA,Italy,European Cup,Parallel GS,56,4.93
+44,Lee Jamie,Male,08-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Parallel Slalom,DSQ1,
+45,Lee Jamie,Male,07-04-2016,Breuil Cervinia - Valtournenche,ITA,Italy,National Championships,Parallel GS,19,43.20
+46,Lee Jamie,Male,13-03-2016,Scuol,SUI,Italy,National Championships,Parallel Slalom,DSQ1,
+47,Lee Jamie,Male,12-03-2016,Scuol,SUI,Italy,National Championships,Parallel GS,23,28.80
+48,Lee Jamie,Male,05-03-2016,Moena,ITA,Italy,FIS,Snowboardcross,17,21.00
+49,Lee Jamie,Male,04-03-2016,Moena,ITA,Italy,FIS,Snowboardcross,17,21.00
+50,Lee Jamie,Male,21-02-2016,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,44,8.65
+51,Lee Jamie,Male,20-02-2016,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,55,
+52,Lee Jamie,Male,13-02-2016,Breuil Cervinia-Valtournenche,ITA,Italy,FIS,Snowboardcross,33,6.24
+53,Lee Jamie,Male,12-02-2016,Breuil Cervinia-Valtournenche,ITA,Italy,FIS,Snowboardcross,33,6.24
+54,Lee Jamie,Male,30-01-2016,Pfelders,ITA,Italy,FIS,Slalom,9,14.50
+55,Lee Jamie,Male,29-01-2016,Pfelders,ITA,Italy,FIS,Slalom,15,11.20
+56,Lee Jamie,Male,19-04-2015,Breuil Cervinia,ITA,Italy,FIS,Snowboardcross,14,46.80
+57,Lee Jamie,Male,18-04-2015,Breuil Cervinia,ITA,Italy,FIS,Snowboardcross,15,41.60
+58,Lee Jamie,Male,27-03-2015,Canazei,ITA,Italy,National Championships,Parallel Slalom,57,0.00
+59,Lee Jamie,Male,26-03-2015,Canazei,ITA,Italy,National Championships,Parallel GS,57,0.00
+60,Lee Jamie,Male,25-03-2015,Canazei,ITA,Italy,National Championships,Snowboardcross,43,6.34
+61,Lee Jamie,Male,24-03-2015,Canazei,ITA,Italy,FIS,Snowboardcross,19,31.20
+62,Lee Jamie,Male,07-03-2015,Moena,ITA,Italy,FIS,Snowboardcross,49,4.11
+63,Lee Jamie,Male,06-03-2015,Moena,ITA,Italy,FIS,Snowboardcross,37,5.04
