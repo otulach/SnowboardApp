@@ -1,174 +1,175 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Mekinc Naj,Male,21-03-2025,Engadin,SUI,Slovenia,World Championships,Slopestyle,DNS,
-1,Mekinc Naj,Male,20-03-2025,Engadin,SUI,Slovenia,Qualification,Slopestyle,DNS,
-2,Mekinc Naj,Male,11-03-2025,Laax,SUI,Slovenia,European Cup Premium,Slopestyle,27,46.00
-3,Mekinc Naj,Male,07-03-2025,Szczyrk,POL,Slovenia,European Cup,Rail Event,10,24.10
-4,Mekinc Naj,Male,22-02-2025,Calgary,CAN,Slovenia,World Cup,Slopestyle,30,123.50
-5,Mekinc Naj,Male,20-02-2025,Calgary,CAN,Slovenia,Qualification,Slopestyle,15,
-6,Mekinc Naj,Male,06-02-2025,Aspen,USA,Slovenia,World Cup,Big Air,32,92.30
-7,Mekinc Naj,Male,05-02-2025,Aspen,USA,Slovenia,Qualification,Big Air,19,
-8,Mekinc Naj,Male,02-02-2025,Aspen,USA,Slovenia,World Cup,Slopestyle,45,50.20
-9,Mekinc Naj,Male,31-01-2025,Aspen,USA,Slovenia,Qualification,Slopestyle,23,
-10,Mekinc Naj,Male,18-01-2025,Laax,SUI,Slovenia,World Cup,Slopestyle,59,4.50
-11,Mekinc Naj,Male,16-01-2025,Laax,SUI,Slovenia,Qualification,Slopestyle,30,
-12,Mekinc Naj,Male,11-01-2025,Kreischberg,AUT,Slovenia,Qualification,Big Air,17,
-13,Mekinc Naj,Male,11-01-2025,Kreischberg,AUT,Slovenia,World Cup,Big Air,37,83.60
-14,Mekinc Naj,Male,05-01-2025,Klagenfurt,AUT,Slovenia,Qualification,Big Air,17,
-15,Mekinc Naj,Male,05-01-2025,Klagenfurt,AUT,Slovenia,World Cup,Big Air,37,54.70
-16,Mekinc Naj,Male,01-12-2024,Beijing,CHN,Slovenia,World Cup,Big Air,28,121.20
-17,Mekinc Naj,Male,30-11-2024,Beijing,CHN,Slovenia,Qualification,Big Air,12,
-18,Mekinc Naj,Male,19-10-2024,Chur,SUI,Slovenia,World Cup,Big Air,24,124.80
-19,Mekinc Naj,Male,02-09-2024,Cardrona,NZL,Slovenia,World Cup,Slopestyle,47,33.20
-20,Mekinc Naj,Male,31-08-2024,Cardrona,NZL,Slovenia,Qualification,Slopestyle,24,
-21,Mekinc Naj,Male,15-12-2023,Copper Mountain,USA,Slovenia,World Cup,Big Air,25,144.80
-22,Mekinc Naj,Male,13-12-2023,Copper Mountain,USA,Slovenia,Qualification,Big Air,13,
-23,Mekinc Naj,Male,09-12-2023,Edmonton,CAN,Slovenia,World Cup,Big Air,30,111.30
-24,Mekinc Naj,Male,08-12-2023,Edmonton,CAN,Slovenia,Qualification,Big Air,17,
-25,Mekinc Naj,Male,02-12-2023,Beijing,CHN,Slovenia,World Cup,Big Air,28,90.40
-26,Mekinc Naj,Male,01-12-2023,Beijing,CHN,Slovenia,Qualification,Big Air,14,
-27,Mekinc Naj,Male,21-10-2023,Chur,SUI,Slovenia,Qualification,Big Air,12,
-28,Mekinc Naj,Male,21-10-2023,Chur,SUI,Slovenia,World Cup,Big Air,26,135.80
-29,Mekinc Naj,Male,09-04-2023,Vogel,SLO,Slovenia,National Championships,Slopestyle,6,25.80
-30,Mekinc Naj,Male,08-04-2023,Vogel,SLO,Slovenia,National Championships,Big Air,1,60.00
-31,Mekinc Naj,Male,26-03-2023,Silvaplana,SUI,Slovenia,World Cup,Slopestyle,22,119.30
-32,Mekinc Naj,Male,25-03-2023,Silvaplana,SUI,Slovenia,Qualification,Slopestyle,12,
-33,Mekinc Naj,Male,17-03-2023,Laax,SUI,Slovenia,European Cup Premium,Slopestyle,22,81.20
-34,Mekinc Naj,Male,04-03-2023,Bakuriani,GEO,Slovenia,World Championships,Big Air,19,121.10
-35,Mekinc Naj,Male,02-03-2023,Bakuriani,GEO,Slovenia,Qualification,Big Air,10,
-36,Mekinc Naj,Male,27-02-2023,Bakuriani,GEO,Slovenia,World Championships,Slopestyle,47,16.20
-37,Mekinc Naj,Male,24-02-2023,Bakuriani,GEO,Slovenia,Qualification,Slopestyle,24,
-38,Mekinc Naj,Male,12-02-2023,Calgary,CAN,Slovenia,World Cup,Slopestyle,8,268.40
-39,Mekinc Naj,Male,10-02-2023,Calgary,CAN,Slovenia,Qualification,Slopestyle,6,
-40,Mekinc Naj,Male,04-02-2023,Mammoth Mountain,USA,Slovenia,World Cup,Slopestyle,29,84.00
-41,Mekinc Naj,Male,01-02-2023,Mammoth Mountain,USA,Slovenia,Qualification,Slopestyle,14,
-42,Mekinc Naj,Male,25-01-2023,Prato Nevoso,ITA,Slovenia,European Cup,Slopestyle,18,29.20
-43,Mekinc Naj,Male,22-01-2023,Laax,SUI,Slovenia,World Cup,Slopestyle,46,49.30
-44,Mekinc Naj,Male,18-01-2023,Laax,SUI,Slovenia,Qualification,Slopestyle,23,
-45,Mekinc Naj,Male,14-01-2023,Kreischberg,AUT,Slovenia,World Cup,Big Air,37,40.30
-46,Mekinc Naj,Male,13-01-2023,Kreischberg,AUT,Slovenia,Qualification,Big Air,18,
-47,Mekinc Naj,Male,17-12-2022,Copper Mountain,USA,Slovenia,World Cup,Big Air,53,7.60
-48,Mekinc Naj,Male,15-12-2022,Copper Mountain,USA,Slovenia,Qualification,Big Air,27,
-49,Mekinc Naj,Male,10-12-2022,Edmonton,CAN,Slovenia,World Cup,Big Air,24,115.20
-50,Mekinc Naj,Male,09-12-2022,Edmonton,CAN,Slovenia,Qualification,Big Air,12,
-51,Mekinc Naj,Male,22-10-2022,Chur,SUI,Slovenia,World Cup,Big Air,19,130.20
-52,Mekinc Naj,Male,22-10-2022,Chur,SUI,Slovenia,Qualification,Big Air,12,
-53,Mekinc Naj,Male,15-01-2022,Laax,SUI,Slovenia,World Cup,Slopestyle,DNS,
-54,Mekinc Naj,Male,13-01-2022,Laax,SUI,Slovenia,Qualification,Slopestyle,DNS,
-55,Mekinc Naj,Male,08-01-2022,Mammoth Mountain,USA,Slovenia,World Cup,Slopestyle,DNS,
-56,Mekinc Naj,Male,01-01-2022,Calgary,CAN,Slovenia,World Cup,Slopestyle,DNS,
-57,Mekinc Naj,Male,31-12-2021,Calgary,CAN,Slovenia,Qualification,Slopestyle,DNS,
-58,Mekinc Naj,Male,04-12-2021,Steamboat,USA,Slovenia,World Cup,Big Air,50,46.00
-59,Mekinc Naj,Male,02-12-2021,Steamboat,USA,Slovenia,Qualification,Big Air,25,
-60,Mekinc Naj,Male,23-10-2021,Chur,SUI,Slovenia,World Cup,Big Air,26,121.40
-61,Mekinc Naj,Male,16-04-2021,Vogel,SLO,Slovenia,National Championships,Big Air,1,50.00
-62,Mekinc Naj,Male,16-04-2021,Vogel,SLO,Slovenia,National Championships,Slopestyle,2,40.35
-63,Mekinc Naj,Male,28-03-2021,Silvaplana,SUI,Slovenia,Qualification,Slopestyle,14,
-64,Mekinc Naj,Male,28-03-2021,Silvaplana,SUI,Slovenia,World Cup,Slopestyle,23,159.90
-65,Mekinc Naj,Male,20-03-2021,Aspen,USA,Slovenia,World Cup,Slopestyle,55,25.15
-66,Mekinc Naj,Male,19-03-2021,Aspen,USA,Slovenia,Qualification,Slopestyle,28,
-67,Mekinc Naj,Male,16-03-2021,Aspen,USA,Slovenia,World Championships,Big Air,51,21.55
-68,Mekinc Naj,Male,14-03-2021,Aspen,USA,Slovenia,Qualification,Big Air,25,
-69,Mekinc Naj,Male,12-03-2021,Aspen,USA,Slovenia,World Championships,Slopestyle,16,196.93
-70,Mekinc Naj,Male,10-03-2021,Aspen,USA,Slovenia,Qualification,Slopestyle,7,
-71,Mekinc Naj,Male,27-02-2021,Moscow,RUS,Slovenia,European Cup,Big Air,6,73.34
-72,Mekinc Naj,Male,22-02-2021,Götschen,GER,Slovenia,European Cup,Big Air,33,21.49
-73,Mekinc Naj,Male,21-02-2021,Götschen,GER,Slovenia,European Cup,Slopestyle,16,36.74
-74,Mekinc Naj,Male,19-02-2021,Davos,SUI,Slovenia,European Cup,Big Air,14,78.81
-75,Mekinc Naj,Male,31-01-2021,Crans Montana,SUI,Slovenia,European Cup,Slopestyle,47,34.08
-76,Mekinc Naj,Male,22-01-2021,Laax,SUI,Slovenia,World Cup,Slopestyle,24,111.78
-77,Mekinc Naj,Male,19-01-2021,Laax,SUI,Slovenia,Qualification,Slopestyle,24,
-78,Mekinc Naj,Male,09-01-2021,Kreischberg,AUT,Slovenia,Qualification,Big Air,21,
-79,Mekinc Naj,Male,09-01-2021,Kreischberg,AUT,Slovenia,World Cup,Big Air,37,100.19
-80,Mekinc Naj,Male,22-12-2020,Corvatsch,SUI,Slovenia,European Cup,Slopestyle,37,25.73
-81,Mekinc Naj,Male,06-03-2020,Absolut Park Flachauwinkel,AUT,Slovenia,European Cup,Big Air,3,120.00
-82,Mekinc Naj,Male,29-02-2020,Moscow,RUS,Slovenia,European Cup Premium,Big Air,7,104.40
-83,Mekinc Naj,Male,25-02-2020,Kopaonik,SRB,Slovenia,European Cup,Slopestyle,2,128.00
-84,Mekinc Naj,Male,24-02-2020,Kopaonik,SRB,Slovenia,European Cup,Big Air,2,128.00
-85,Mekinc Naj,Male,21-02-2020,Davos,SUI,Slovenia,European Cup Premium,Big Air,4,110.00
-86,Mekinc Naj,Male,16-02-2020,Calgary,CAN,Slovenia,World Cup,Slopestyle,30,32.00
-87,Mekinc Naj,Male,14-02-2020,Calgary,CAN,Slovenia,Qualification,Slopestyle,15,
-88,Mekinc Naj,Male,01-02-2020,Mammoth Mountain Resort,USA,Slovenia,World Cup,Slopestyle,34,22.00
-89,Mekinc Naj,Male,30-01-2020,Mammoth Mountain Resort,USA,Slovenia,Qualification,Slopestyle,18,
-90,Mekinc Naj,Male,23-01-2020,Seiseralm,ITA,Slovenia,World Cup,Slopestyle,38,19.10
-91,Mekinc Naj,Male,22-01-2020,Seiseralm,ITA,Slovenia,Qualification,Slopestyle,20,
-92,Mekinc Naj,Male,15-01-2020,Laax,SUI,Slovenia,World Cup,Slopestyle,40,18.50
-93,Mekinc Naj,Male,13-01-2020,Laax,SUI,Slovenia,Qualification,Slopestyle,21,
-94,Mekinc Naj,Male,20-12-2019,Atlanta,USA,Slovenia,World Cup,Big Air,21,100.00
-95,Mekinc Naj,Male,14-12-2019,Beijing,CHN,Slovenia,World Cup,Big Air,29,36.00
-96,Mekinc Naj,Male,12-12-2019,Beijing,CHN,Slovenia,Qualification,Big Air,16,
-97,Mekinc Naj,Male,02-11-2019,Modena SKIPASS,ITA,Slovenia,World Cup,Big Air,26,50.00
-98,Mekinc Naj,Male,24-08-2019,Cardrona,NZL,Slovenia,World Cup,Big Air,30,32.00
-99,Mekinc Naj,Male,23-08-2019,Cardrona,NZL,Slovenia,Qualification,Big Air,30,
-100,Mekinc Naj,Male,13-04-2019,Klaeppen,SWE,Slovenia,FIS Junior World Championships,Big Air,45,4.08
-101,Mekinc Naj,Male,12-04-2019,Klaeppen,SWE,Slovenia,Qualification,Big Air,8,
-102,Mekinc Naj,Male,09-04-2019,Klaeppen,SWE,Slovenia,FIS Junior World Championships,Slopestyle,16,36.00
-103,Mekinc Naj,Male,08-04-2019,Klaeppen,SWE,Slovenia,Qualification,Slopestyle,4,
-104,Mekinc Naj,Male,31-03-2019,Vogel,SLO,Slovenia,FIS,Big Air,1,70.00
-105,Mekinc Naj,Male,16-03-2019,Quebec,CAN,Slovenia,World Cup,Big Air,21,100.00
-106,Mekinc Naj,Male,14-03-2019,Quebec,CAN,Slovenia,Qualification,Big Air,21,
-107,Mekinc Naj,Male,09-03-2019,Mammoth Mountain Resort,USA,Slovenia,World Cup,Slopestyle,39,18.80
-108,Mekinc Naj,Male,07-03-2019,Mammoth Mountain Resort,USA,Slovenia,Qualification,Slopestyle,22,
-109,Mekinc Naj,Male,26-02-2019,Götschen,GER,Slovenia,European Cup,Big Air,DNS1,
-110,Mekinc Naj,Male,10-02-2019,Park City,USA,Slovenia,World Championships,Slopestyle,42,17.90
-111,Mekinc Naj,Male,09-02-2019,Park City,USA,Slovenia,Qualification,Slopestyle,42,
-112,Mekinc Naj,Male,26-01-2019,Seiser Alm,ITA,Slovenia,World Cup,Slopestyle,42,17.90
-113,Mekinc Naj,Male,24-01-2019,Seiser Alm,ITA,Slovenia,Qualification,Slopestyle,16,
-114,Mekinc Naj,Male,18-01-2019,Laax,SUI,Slovenia,World Cup,Slopestyle,17,140.00
-115,Mekinc Naj,Male,16-01-2019,Laax,SUI,Slovenia,Qualification,Slopestyle,12,
-116,Mekinc Naj,Male,12-01-2019,Kreischberg,AUT,Slovenia,World Cup,Slopestyle,42,17.90
-117,Mekinc Naj,Male,11-01-2019,Kreischberg,AUT,Slovenia,Qualification,Slopestyle,21,
-118,Mekinc Naj,Male,21-12-2018,Secret Garden,CHN,Slovenia,World Cup,Slopestyle,18,130.00
-119,Mekinc Naj,Male,20-12-2018,Secret Garden,CHN,Slovenia,Qualification,Slopestyle,18,
-120,Mekinc Naj,Male,24-11-2018,Beijing,CHN,Slovenia,World Cup,Big Air,30,32.00
-121,Mekinc Naj,Male,23-11-2018,Beijing,CHN,Slovenia,Qualification,Big Air,15,
-122,Mekinc Naj,Male,03-11-2018,Modena SKIPASS,ITA,Slovenia,World Cup,Big Air,28,40.00
-123,Mekinc Naj,Male,08-09-2018,Cardrona,NZL,Slovenia,World Cup,Big Air,45,
-124,Mekinc Naj,Male,06-09-2018,Cardrona,NZL,Slovenia,Qualification,Big Air,21,
-125,Mekinc Naj,Male,31-08-2018,Cardrona,NZL,Slovenia,FIS Junior World Championships,Slopestyle,4,120.00
-126,Mekinc Naj,Male,30-08-2018,Cardrona,NZL,Slovenia,Qualification,Slopestyle,2,
-127,Mekinc Naj,Male,25-08-2018,Cardrona,NZL,Slovenia,FIS Junior World Championships,Big Air,13,48.00
-128,Mekinc Naj,Male,24-08-2018,Cardrona,NZL,Slovenia,Qualification,Big Air,7,
-129,Mekinc Naj,Male,08-04-2018,Kanin,SLO,Slovenia,FIS,Slopestyle,1,50.00
-130,Mekinc Naj,Male,24-03-2018,Quebec City,CAN,Slovenia,World Cup,Big Air,21,
-131,Mekinc Naj,Male,23-03-2018,Quebec City,CAN,Slovenia,Qualification,Big Air,21,
-132,Mekinc Naj,Male,17-03-2018,Seiser Alm,ITA,Slovenia,World Cup,Slopestyle,43,17.60
-133,Mekinc Naj,Male,16-03-2018,Seiser Alm,ITA,Slovenia,Qualification,Slopestyle,19,
-134,Mekinc Naj,Male,25-02-2018,Kopaonik,SRB,Slovenia,European Cup,Big Air,16,24.00
-135,Mekinc Naj,Male,18-02-2018,Sarajevo,BIH,Slovenia,European Cup,Big Air,3,96.00
-136,Mekinc Naj,Male,17-02-2018,Bjelasnica,BIH,Slovenia,FIS,Slopestyle,9,14.50
-137,Mekinc Naj,Male,28-01-2018,Crans Montana,SUI,Slovenia,European Cup,Big Air,33,3.84
-138,Mekinc Naj,Male,24-01-2018,Vars,FRA,Slovenia,European Cup,Big Air,19,19.20
-139,Mekinc Naj,Male,23-01-2018,Vars,FRA,Slovenia,European Cup,Slopestyle,9,46.40
-140,Mekinc Naj,Male,14-01-2018,Jasna,SVK,Slovenia,European Cup,Slopestyle,18,20.80
-141,Mekinc Naj,Male,13-01-2018,Jasna,SVK,Slovenia,European Cup,Slopestyle,38,3.06
-142,Mekinc Naj,Male,02-12-2017,Moenchengladbach,GER,Slovenia,World Cup,Big Air,40,18.50
-143,Mekinc Naj,Male,01-04-2017,Spindleruv Mlyn,CZE,Slovenia,FIS Junior World Championships,Big Air,19,28.80
-144,Mekinc Naj,Male,31-03-2017,Spindleruv Mlyn,CZE,Slovenia,FIS Junior World Championships,Slopestyle,40,6.66
-145,Mekinc Naj,Male,30-03-2017,Spindleruv Mlyn,CZE,Slovenia,Qualification,Slopestyle,10,
-146,Mekinc Naj,Male,29-03-2017,Spindleruv Mlyn,CZE,Slovenia,Qualification,Big Air,6,
-147,Mekinc Naj,Male,20-03-2017,Laax,SUI,Slovenia,FIS Junior World Championships,Halfpipe,15,38.40
-148,Mekinc Naj,Male,19-03-2017,Laax,SUI,Slovenia,European Cup,Halfpipe,36,7.09
-149,Mekinc Naj,Male,17-03-2017,Laax,SUI,Slovenia,European Cup,Slopestyle,17,25.20
-150,Mekinc Naj,Male,14-03-2017,Pamporovo - Mechi Chal,BUL,Slovenia,European Cup,Slopestyle,8,70.40
-151,Mekinc Naj,Male,13-03-2017,Pamporovo - Mechi Chal,BUL,Slovenia,European Cup,Slopestyle,14,39.60
-152,Mekinc Naj,Male,05-03-2017,Kopaonik,SRB,Slovenia,European Cup,Big Air,6,64.00
-153,Mekinc Naj,Male,04-03-2017,Kopaonik,SRB,Slovenia,European Cup,Big Air,3,96.00
-154,Mekinc Naj,Male,12-02-2017,Sarajevo,BIH,Slovenia,European Cup,Big Air,12,35.20
-155,Mekinc Naj,Male,11-02-2017,Sarajevo,BIH,Slovenia,FIS,Slopestyle,15,11.20
-156,Mekinc Naj,Male,25-01-2017,Vars,FRA,Slovenia,European Cup,Slopestyle,11,38.40
-157,Mekinc Naj,Male,24-01-2017,Vars,FRA,Slovenia,European Cup,Slopestyle,9,46.40
-158,Mekinc Naj,Male,27-11-2016,Kaunertal,AUT,Slovenia,FIS,Big Air,25,8.40
-159,Mekinc Naj,Male,26-11-2016,Kaunertal,AUT,Slovenia,European Cup,Slopestyle,17,22.40
-160,Mekinc Naj,Male,30-03-2016,Seiser Alm,ITA,Slovenia,FIS Junior World Championships,Big Air,22,32.40
-161,Mekinc Naj,Male,29-03-2016,Seiser Alm,ITA,Slovenia,FIS Junior World Championships,Slopestyle,23,28.80
-162,Mekinc Naj,Male,24-03-2016,Rogla,SLO,Slovenia,European Cup,Slopestyle,20,22.00
-163,Mekinc Naj,Male,08-03-2016,Kopaonik,SRB,Slovenia,European Cup,Slopestyle,20,22.00
-164,Mekinc Naj,Male,21-02-2016,Seiser Alm -Kastelruth,ITA,Slovenia,European Cup,Slopestyle,22,
-165,Mekinc Naj,Male,20-02-2016,Seiser Alm -Kastelruth,ITA,Slovenia,European Cup,Slopestyle,25,12.00
-166,Mekinc Naj,Male,27-01-2016,Vars,FRA,Slovenia,European Cup,Slopestyle,32,5.20
-167,Mekinc Naj,Male,26-01-2016,Vars,FRA,Slovenia,European Cup,Slopestyle,34,4.40
-168,Mekinc Naj,Male,24-03-2015,Strbske Pleso,SVK,Slovenia,European Cup,Slopestyle,15,38.40
-169,Mekinc Naj,Male,23-03-2015,Strbske Pleso,SVK,Slovenia,European Cup,Slopestyle,35,0.00
-170,Mekinc Naj,Male,07-02-2015,Bjelasnica,BIH,Slovenia,European Cup,Slopestyle,21,20.00
-171,Mekinc Naj,Male,28-11-2014,Landgraaf,NED,Slovenia,European Cup,Slopestyle,68,2.02
-172,Mekinc Naj,Male,27-11-2014,Landgraaf,NED,Slovenia,European Cup,Slopestyle,79,0.00
+0,Mekinc Naj,Male,25-03-2025,Engadin,SUI,Slovenia,Qualification,Big Air,15,
+1,Mekinc Naj,Male,21-03-2025,Engadin,SUI,Slovenia,World Championships,Slopestyle,DNS,
+2,Mekinc Naj,Male,20-03-2025,Engadin,SUI,Slovenia,Qualification,Slopestyle,DNS,
+3,Mekinc Naj,Male,11-03-2025,Laax,SUI,Slovenia,European Cup Premium,Slopestyle,27,46.00
+4,Mekinc Naj,Male,07-03-2025,Szczyrk,POL,Slovenia,European Cup,Rail Event,10,24.10
+5,Mekinc Naj,Male,22-02-2025,Calgary,CAN,Slovenia,World Cup,Slopestyle,30,123.50
+6,Mekinc Naj,Male,20-02-2025,Calgary,CAN,Slovenia,Qualification,Slopestyle,15,
+7,Mekinc Naj,Male,06-02-2025,Aspen,USA,Slovenia,World Cup,Big Air,32,92.30
+8,Mekinc Naj,Male,05-02-2025,Aspen,USA,Slovenia,Qualification,Big Air,19,
+9,Mekinc Naj,Male,02-02-2025,Aspen,USA,Slovenia,World Cup,Slopestyle,45,50.20
+10,Mekinc Naj,Male,31-01-2025,Aspen,USA,Slovenia,Qualification,Slopestyle,23,
+11,Mekinc Naj,Male,18-01-2025,Laax,SUI,Slovenia,World Cup,Slopestyle,59,4.50
+12,Mekinc Naj,Male,16-01-2025,Laax,SUI,Slovenia,Qualification,Slopestyle,30,
+13,Mekinc Naj,Male,11-01-2025,Kreischberg,AUT,Slovenia,Qualification,Big Air,17,
+14,Mekinc Naj,Male,11-01-2025,Kreischberg,AUT,Slovenia,World Cup,Big Air,37,83.60
+15,Mekinc Naj,Male,05-01-2025,Klagenfurt,AUT,Slovenia,Qualification,Big Air,17,
+16,Mekinc Naj,Male,05-01-2025,Klagenfurt,AUT,Slovenia,World Cup,Big Air,37,54.70
+17,Mekinc Naj,Male,01-12-2024,Beijing,CHN,Slovenia,World Cup,Big Air,28,121.20
+18,Mekinc Naj,Male,30-11-2024,Beijing,CHN,Slovenia,Qualification,Big Air,12,
+19,Mekinc Naj,Male,19-10-2024,Chur,SUI,Slovenia,World Cup,Big Air,24,124.80
+20,Mekinc Naj,Male,02-09-2024,Cardrona,NZL,Slovenia,World Cup,Slopestyle,47,33.20
+21,Mekinc Naj,Male,31-08-2024,Cardrona,NZL,Slovenia,Qualification,Slopestyle,24,
+22,Mekinc Naj,Male,15-12-2023,Copper Mountain,USA,Slovenia,World Cup,Big Air,25,144.80
+23,Mekinc Naj,Male,13-12-2023,Copper Mountain,USA,Slovenia,Qualification,Big Air,13,
+24,Mekinc Naj,Male,09-12-2023,Edmonton,CAN,Slovenia,World Cup,Big Air,30,111.30
+25,Mekinc Naj,Male,08-12-2023,Edmonton,CAN,Slovenia,Qualification,Big Air,17,
+26,Mekinc Naj,Male,02-12-2023,Beijing,CHN,Slovenia,World Cup,Big Air,28,90.40
+27,Mekinc Naj,Male,01-12-2023,Beijing,CHN,Slovenia,Qualification,Big Air,14,
+28,Mekinc Naj,Male,21-10-2023,Chur,SUI,Slovenia,Qualification,Big Air,12,
+29,Mekinc Naj,Male,21-10-2023,Chur,SUI,Slovenia,World Cup,Big Air,26,135.80
+30,Mekinc Naj,Male,09-04-2023,Vogel,SLO,Slovenia,National Championships,Slopestyle,6,25.80
+31,Mekinc Naj,Male,08-04-2023,Vogel,SLO,Slovenia,National Championships,Big Air,1,60.00
+32,Mekinc Naj,Male,26-03-2023,Silvaplana,SUI,Slovenia,World Cup,Slopestyle,22,119.30
+33,Mekinc Naj,Male,25-03-2023,Silvaplana,SUI,Slovenia,Qualification,Slopestyle,12,
+34,Mekinc Naj,Male,17-03-2023,Laax,SUI,Slovenia,European Cup Premium,Slopestyle,22,81.20
+35,Mekinc Naj,Male,04-03-2023,Bakuriani,GEO,Slovenia,World Championships,Big Air,19,121.10
+36,Mekinc Naj,Male,02-03-2023,Bakuriani,GEO,Slovenia,Qualification,Big Air,10,
+37,Mekinc Naj,Male,27-02-2023,Bakuriani,GEO,Slovenia,World Championships,Slopestyle,47,16.20
+38,Mekinc Naj,Male,24-02-2023,Bakuriani,GEO,Slovenia,Qualification,Slopestyle,24,
+39,Mekinc Naj,Male,12-02-2023,Calgary,CAN,Slovenia,World Cup,Slopestyle,8,268.40
+40,Mekinc Naj,Male,10-02-2023,Calgary,CAN,Slovenia,Qualification,Slopestyle,6,
+41,Mekinc Naj,Male,04-02-2023,Mammoth Mountain,USA,Slovenia,World Cup,Slopestyle,29,84.00
+42,Mekinc Naj,Male,01-02-2023,Mammoth Mountain,USA,Slovenia,Qualification,Slopestyle,14,
+43,Mekinc Naj,Male,25-01-2023,Prato Nevoso,ITA,Slovenia,European Cup,Slopestyle,18,29.20
+44,Mekinc Naj,Male,22-01-2023,Laax,SUI,Slovenia,World Cup,Slopestyle,46,49.30
+45,Mekinc Naj,Male,18-01-2023,Laax,SUI,Slovenia,Qualification,Slopestyle,23,
+46,Mekinc Naj,Male,14-01-2023,Kreischberg,AUT,Slovenia,World Cup,Big Air,37,40.30
+47,Mekinc Naj,Male,13-01-2023,Kreischberg,AUT,Slovenia,Qualification,Big Air,18,
+48,Mekinc Naj,Male,17-12-2022,Copper Mountain,USA,Slovenia,World Cup,Big Air,53,7.60
+49,Mekinc Naj,Male,15-12-2022,Copper Mountain,USA,Slovenia,Qualification,Big Air,27,
+50,Mekinc Naj,Male,10-12-2022,Edmonton,CAN,Slovenia,World Cup,Big Air,24,115.20
+51,Mekinc Naj,Male,09-12-2022,Edmonton,CAN,Slovenia,Qualification,Big Air,12,
+52,Mekinc Naj,Male,22-10-2022,Chur,SUI,Slovenia,World Cup,Big Air,19,130.20
+53,Mekinc Naj,Male,22-10-2022,Chur,SUI,Slovenia,Qualification,Big Air,12,
+54,Mekinc Naj,Male,15-01-2022,Laax,SUI,Slovenia,World Cup,Slopestyle,DNS,
+55,Mekinc Naj,Male,13-01-2022,Laax,SUI,Slovenia,Qualification,Slopestyle,DNS,
+56,Mekinc Naj,Male,08-01-2022,Mammoth Mountain,USA,Slovenia,World Cup,Slopestyle,DNS,
+57,Mekinc Naj,Male,01-01-2022,Calgary,CAN,Slovenia,World Cup,Slopestyle,DNS,
+58,Mekinc Naj,Male,31-12-2021,Calgary,CAN,Slovenia,Qualification,Slopestyle,DNS,
+59,Mekinc Naj,Male,04-12-2021,Steamboat,USA,Slovenia,World Cup,Big Air,50,46.00
+60,Mekinc Naj,Male,02-12-2021,Steamboat,USA,Slovenia,Qualification,Big Air,25,
+61,Mekinc Naj,Male,23-10-2021,Chur,SUI,Slovenia,World Cup,Big Air,26,121.40
+62,Mekinc Naj,Male,16-04-2021,Vogel,SLO,Slovenia,National Championships,Big Air,1,50.00
+63,Mekinc Naj,Male,16-04-2021,Vogel,SLO,Slovenia,National Championships,Slopestyle,2,40.35
+64,Mekinc Naj,Male,28-03-2021,Silvaplana,SUI,Slovenia,Qualification,Slopestyle,14,
+65,Mekinc Naj,Male,28-03-2021,Silvaplana,SUI,Slovenia,World Cup,Slopestyle,23,159.90
+66,Mekinc Naj,Male,20-03-2021,Aspen,USA,Slovenia,World Cup,Slopestyle,55,25.15
+67,Mekinc Naj,Male,19-03-2021,Aspen,USA,Slovenia,Qualification,Slopestyle,28,
+68,Mekinc Naj,Male,16-03-2021,Aspen,USA,Slovenia,World Championships,Big Air,51,21.55
+69,Mekinc Naj,Male,14-03-2021,Aspen,USA,Slovenia,Qualification,Big Air,25,
+70,Mekinc Naj,Male,12-03-2021,Aspen,USA,Slovenia,World Championships,Slopestyle,16,196.93
+71,Mekinc Naj,Male,10-03-2021,Aspen,USA,Slovenia,Qualification,Slopestyle,7,
+72,Mekinc Naj,Male,27-02-2021,Moscow,RUS,Slovenia,European Cup,Big Air,6,73.34
+73,Mekinc Naj,Male,22-02-2021,Götschen,GER,Slovenia,European Cup,Big Air,33,21.49
+74,Mekinc Naj,Male,21-02-2021,Götschen,GER,Slovenia,European Cup,Slopestyle,16,36.74
+75,Mekinc Naj,Male,19-02-2021,Davos,SUI,Slovenia,European Cup,Big Air,14,78.81
+76,Mekinc Naj,Male,31-01-2021,Crans Montana,SUI,Slovenia,European Cup,Slopestyle,47,34.08
+77,Mekinc Naj,Male,22-01-2021,Laax,SUI,Slovenia,World Cup,Slopestyle,24,111.78
+78,Mekinc Naj,Male,19-01-2021,Laax,SUI,Slovenia,Qualification,Slopestyle,24,
+79,Mekinc Naj,Male,09-01-2021,Kreischberg,AUT,Slovenia,Qualification,Big Air,21,
+80,Mekinc Naj,Male,09-01-2021,Kreischberg,AUT,Slovenia,World Cup,Big Air,37,100.19
+81,Mekinc Naj,Male,22-12-2020,Corvatsch,SUI,Slovenia,European Cup,Slopestyle,37,25.73
+82,Mekinc Naj,Male,06-03-2020,Absolut Park Flachauwinkel,AUT,Slovenia,European Cup,Big Air,3,120.00
+83,Mekinc Naj,Male,29-02-2020,Moscow,RUS,Slovenia,European Cup Premium,Big Air,7,104.40
+84,Mekinc Naj,Male,25-02-2020,Kopaonik,SRB,Slovenia,European Cup,Slopestyle,2,128.00
+85,Mekinc Naj,Male,24-02-2020,Kopaonik,SRB,Slovenia,European Cup,Big Air,2,128.00
+86,Mekinc Naj,Male,21-02-2020,Davos,SUI,Slovenia,European Cup Premium,Big Air,4,110.00
+87,Mekinc Naj,Male,16-02-2020,Calgary,CAN,Slovenia,World Cup,Slopestyle,30,32.00
+88,Mekinc Naj,Male,14-02-2020,Calgary,CAN,Slovenia,Qualification,Slopestyle,15,
+89,Mekinc Naj,Male,01-02-2020,Mammoth Mountain Resort,USA,Slovenia,World Cup,Slopestyle,34,22.00
+90,Mekinc Naj,Male,30-01-2020,Mammoth Mountain Resort,USA,Slovenia,Qualification,Slopestyle,18,
+91,Mekinc Naj,Male,23-01-2020,Seiseralm,ITA,Slovenia,World Cup,Slopestyle,38,19.10
+92,Mekinc Naj,Male,22-01-2020,Seiseralm,ITA,Slovenia,Qualification,Slopestyle,20,
+93,Mekinc Naj,Male,15-01-2020,Laax,SUI,Slovenia,World Cup,Slopestyle,40,18.50
+94,Mekinc Naj,Male,13-01-2020,Laax,SUI,Slovenia,Qualification,Slopestyle,21,
+95,Mekinc Naj,Male,20-12-2019,Atlanta,USA,Slovenia,World Cup,Big Air,21,100.00
+96,Mekinc Naj,Male,14-12-2019,Beijing,CHN,Slovenia,World Cup,Big Air,29,36.00
+97,Mekinc Naj,Male,12-12-2019,Beijing,CHN,Slovenia,Qualification,Big Air,16,
+98,Mekinc Naj,Male,02-11-2019,Modena SKIPASS,ITA,Slovenia,World Cup,Big Air,26,50.00
+99,Mekinc Naj,Male,24-08-2019,Cardrona,NZL,Slovenia,World Cup,Big Air,30,32.00
+100,Mekinc Naj,Male,23-08-2019,Cardrona,NZL,Slovenia,Qualification,Big Air,30,
+101,Mekinc Naj,Male,13-04-2019,Klaeppen,SWE,Slovenia,FIS Junior World Championships,Big Air,45,4.08
+102,Mekinc Naj,Male,12-04-2019,Klaeppen,SWE,Slovenia,Qualification,Big Air,8,
+103,Mekinc Naj,Male,09-04-2019,Klaeppen,SWE,Slovenia,FIS Junior World Championships,Slopestyle,16,36.00
+104,Mekinc Naj,Male,08-04-2019,Klaeppen,SWE,Slovenia,Qualification,Slopestyle,4,
+105,Mekinc Naj,Male,31-03-2019,Vogel,SLO,Slovenia,FIS,Big Air,1,70.00
+106,Mekinc Naj,Male,16-03-2019,Quebec,CAN,Slovenia,World Cup,Big Air,21,100.00
+107,Mekinc Naj,Male,14-03-2019,Quebec,CAN,Slovenia,Qualification,Big Air,21,
+108,Mekinc Naj,Male,09-03-2019,Mammoth Mountain Resort,USA,Slovenia,World Cup,Slopestyle,39,18.80
+109,Mekinc Naj,Male,07-03-2019,Mammoth Mountain Resort,USA,Slovenia,Qualification,Slopestyle,22,
+110,Mekinc Naj,Male,26-02-2019,Götschen,GER,Slovenia,European Cup,Big Air,DNS1,
+111,Mekinc Naj,Male,10-02-2019,Park City,USA,Slovenia,World Championships,Slopestyle,42,17.90
+112,Mekinc Naj,Male,09-02-2019,Park City,USA,Slovenia,Qualification,Slopestyle,42,
+113,Mekinc Naj,Male,26-01-2019,Seiser Alm,ITA,Slovenia,World Cup,Slopestyle,42,17.90
+114,Mekinc Naj,Male,24-01-2019,Seiser Alm,ITA,Slovenia,Qualification,Slopestyle,16,
+115,Mekinc Naj,Male,18-01-2019,Laax,SUI,Slovenia,World Cup,Slopestyle,17,140.00
+116,Mekinc Naj,Male,16-01-2019,Laax,SUI,Slovenia,Qualification,Slopestyle,12,
+117,Mekinc Naj,Male,12-01-2019,Kreischberg,AUT,Slovenia,World Cup,Slopestyle,42,17.90
+118,Mekinc Naj,Male,11-01-2019,Kreischberg,AUT,Slovenia,Qualification,Slopestyle,21,
+119,Mekinc Naj,Male,21-12-2018,Secret Garden,CHN,Slovenia,World Cup,Slopestyle,18,130.00
+120,Mekinc Naj,Male,20-12-2018,Secret Garden,CHN,Slovenia,Qualification,Slopestyle,18,
+121,Mekinc Naj,Male,24-11-2018,Beijing,CHN,Slovenia,World Cup,Big Air,30,32.00
+122,Mekinc Naj,Male,23-11-2018,Beijing,CHN,Slovenia,Qualification,Big Air,15,
+123,Mekinc Naj,Male,03-11-2018,Modena SKIPASS,ITA,Slovenia,World Cup,Big Air,28,40.00
+124,Mekinc Naj,Male,08-09-2018,Cardrona,NZL,Slovenia,World Cup,Big Air,45,
+125,Mekinc Naj,Male,06-09-2018,Cardrona,NZL,Slovenia,Qualification,Big Air,21,
+126,Mekinc Naj,Male,31-08-2018,Cardrona,NZL,Slovenia,FIS Junior World Championships,Slopestyle,4,120.00
+127,Mekinc Naj,Male,30-08-2018,Cardrona,NZL,Slovenia,Qualification,Slopestyle,2,
+128,Mekinc Naj,Male,25-08-2018,Cardrona,NZL,Slovenia,FIS Junior World Championships,Big Air,13,48.00
+129,Mekinc Naj,Male,24-08-2018,Cardrona,NZL,Slovenia,Qualification,Big Air,7,
+130,Mekinc Naj,Male,08-04-2018,Kanin,SLO,Slovenia,FIS,Slopestyle,1,50.00
+131,Mekinc Naj,Male,24-03-2018,Quebec City,CAN,Slovenia,World Cup,Big Air,21,
+132,Mekinc Naj,Male,23-03-2018,Quebec City,CAN,Slovenia,Qualification,Big Air,21,
+133,Mekinc Naj,Male,17-03-2018,Seiser Alm,ITA,Slovenia,World Cup,Slopestyle,43,17.60
+134,Mekinc Naj,Male,16-03-2018,Seiser Alm,ITA,Slovenia,Qualification,Slopestyle,19,
+135,Mekinc Naj,Male,25-02-2018,Kopaonik,SRB,Slovenia,European Cup,Big Air,16,24.00
+136,Mekinc Naj,Male,18-02-2018,Sarajevo,BIH,Slovenia,European Cup,Big Air,3,96.00
+137,Mekinc Naj,Male,17-02-2018,Bjelasnica,BIH,Slovenia,FIS,Slopestyle,9,14.50
+138,Mekinc Naj,Male,28-01-2018,Crans Montana,SUI,Slovenia,European Cup,Big Air,33,3.84
+139,Mekinc Naj,Male,24-01-2018,Vars,FRA,Slovenia,European Cup,Big Air,19,19.20
+140,Mekinc Naj,Male,23-01-2018,Vars,FRA,Slovenia,European Cup,Slopestyle,9,46.40
+141,Mekinc Naj,Male,14-01-2018,Jasna,SVK,Slovenia,European Cup,Slopestyle,18,20.80
+142,Mekinc Naj,Male,13-01-2018,Jasna,SVK,Slovenia,European Cup,Slopestyle,38,3.06
+143,Mekinc Naj,Male,02-12-2017,Moenchengladbach,GER,Slovenia,World Cup,Big Air,40,18.50
+144,Mekinc Naj,Male,01-04-2017,Spindleruv Mlyn,CZE,Slovenia,FIS Junior World Championships,Big Air,19,28.80
+145,Mekinc Naj,Male,31-03-2017,Spindleruv Mlyn,CZE,Slovenia,FIS Junior World Championships,Slopestyle,40,6.66
+146,Mekinc Naj,Male,30-03-2017,Spindleruv Mlyn,CZE,Slovenia,Qualification,Slopestyle,10,
+147,Mekinc Naj,Male,29-03-2017,Spindleruv Mlyn,CZE,Slovenia,Qualification,Big Air,6,
+148,Mekinc Naj,Male,20-03-2017,Laax,SUI,Slovenia,FIS Junior World Championships,Halfpipe,15,38.40
+149,Mekinc Naj,Male,19-03-2017,Laax,SUI,Slovenia,European Cup,Halfpipe,36,7.09
+150,Mekinc Naj,Male,17-03-2017,Laax,SUI,Slovenia,European Cup,Slopestyle,17,25.20
+151,Mekinc Naj,Male,14-03-2017,Pamporovo - Mechi Chal,BUL,Slovenia,European Cup,Slopestyle,8,70.40
+152,Mekinc Naj,Male,13-03-2017,Pamporovo - Mechi Chal,BUL,Slovenia,European Cup,Slopestyle,14,39.60
+153,Mekinc Naj,Male,05-03-2017,Kopaonik,SRB,Slovenia,European Cup,Big Air,6,64.00
+154,Mekinc Naj,Male,04-03-2017,Kopaonik,SRB,Slovenia,European Cup,Big Air,3,96.00
+155,Mekinc Naj,Male,12-02-2017,Sarajevo,BIH,Slovenia,European Cup,Big Air,12,35.20
+156,Mekinc Naj,Male,11-02-2017,Sarajevo,BIH,Slovenia,FIS,Slopestyle,15,11.20
+157,Mekinc Naj,Male,25-01-2017,Vars,FRA,Slovenia,European Cup,Slopestyle,11,38.40
+158,Mekinc Naj,Male,24-01-2017,Vars,FRA,Slovenia,European Cup,Slopestyle,9,46.40
+159,Mekinc Naj,Male,27-11-2016,Kaunertal,AUT,Slovenia,FIS,Big Air,25,8.40
+160,Mekinc Naj,Male,26-11-2016,Kaunertal,AUT,Slovenia,European Cup,Slopestyle,17,22.40
+161,Mekinc Naj,Male,30-03-2016,Seiser Alm,ITA,Slovenia,FIS Junior World Championships,Big Air,22,32.40
+162,Mekinc Naj,Male,29-03-2016,Seiser Alm,ITA,Slovenia,FIS Junior World Championships,Slopestyle,23,28.80
+163,Mekinc Naj,Male,24-03-2016,Rogla,SLO,Slovenia,European Cup,Slopestyle,20,22.00
+164,Mekinc Naj,Male,08-03-2016,Kopaonik,SRB,Slovenia,European Cup,Slopestyle,20,22.00
+165,Mekinc Naj,Male,21-02-2016,Seiser Alm -Kastelruth,ITA,Slovenia,European Cup,Slopestyle,22,
+166,Mekinc Naj,Male,20-02-2016,Seiser Alm -Kastelruth,ITA,Slovenia,European Cup,Slopestyle,25,12.00
+167,Mekinc Naj,Male,27-01-2016,Vars,FRA,Slovenia,European Cup,Slopestyle,32,5.20
+168,Mekinc Naj,Male,26-01-2016,Vars,FRA,Slovenia,European Cup,Slopestyle,34,4.40
+169,Mekinc Naj,Male,24-03-2015,Strbske Pleso,SVK,Slovenia,European Cup,Slopestyle,15,38.40
+170,Mekinc Naj,Male,23-03-2015,Strbske Pleso,SVK,Slovenia,European Cup,Slopestyle,35,0.00
+171,Mekinc Naj,Male,07-02-2015,Bjelasnica,BIH,Slovenia,European Cup,Slopestyle,21,20.00
+172,Mekinc Naj,Male,28-11-2014,Landgraaf,NED,Slovenia,European Cup,Slopestyle,68,2.02
+173,Mekinc Naj,Male,27-11-2014,Landgraaf,NED,Slovenia,European Cup,Slopestyle,79,0.00

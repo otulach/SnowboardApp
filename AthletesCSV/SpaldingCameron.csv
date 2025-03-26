@@ -1,86 +1,87 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Spalding Cameron,Male,21-03-2025,Engadin,SUI,Canada,World Championships,Slopestyle,6,
-1,Spalding Cameron,Male,20-03-2025,Engadin,SUI,Canada,Qualification,Slopestyle,4,
-2,Spalding Cameron,Male,22-02-2025,Calgary,CAN,Canada,World Cup,Slopestyle,16,201.90
-3,Spalding Cameron,Male,20-02-2025,Calgary,CAN,Canada,Qualification,Slopestyle,2,
-4,Spalding Cameron,Male,06-02-2025,Aspen,USA,Canada,World Cup,Big Air,41,46.20
-5,Spalding Cameron,Male,05-02-2025,Aspen,USA,Canada,Qualification,Big Air,19,
-6,Spalding Cameron,Male,02-02-2025,Aspen,USA,Canada,World Cup,Slopestyle,16,199.60
-7,Spalding Cameron,Male,31-01-2025,Aspen,USA,Canada,Qualification,Slopestyle,1,
-8,Spalding Cameron,Male,18-01-2025,Laax,SUI,Canada,World Cup,Slopestyle,1,1000.00
-9,Spalding Cameron,Male,16-01-2025,Laax,SUI,Canada,Qualification,Slopestyle,2,
-10,Spalding Cameron,Male,01-12-2024,Beijing,CHN,Canada,World Cup,Big Air,14,216.70
-11,Spalding Cameron,Male,30-11-2024,Beijing,CHN,Canada,Qualification,Big Air,6,
-12,Spalding Cameron,Male,19-10-2024,Chur,SUI,Canada,World Cup,Big Air,14,207.00
-13,Spalding Cameron,Male,02-09-2024,Cardrona,NZL,Canada,World Cup,Slopestyle,1,1000.00
-14,Spalding Cameron,Male,31-08-2024,Cardrona,NZL,Canada,Qualification,Slopestyle,1,
-15,Spalding Cameron,Male,23-03-2024,Silvaplana,SUI,Canada,World Cup,Slopestyle,13,235.70
-16,Spalding Cameron,Male,21-03-2024,Silvaplana,SUI,Canada,Qualification,Slopestyle,6,
-17,Spalding Cameron,Male,15-03-2024,Tignes,FRA,Canada,Qualification,Slopestyle,3,
-18,Spalding Cameron,Male,15-03-2024,Tignes,FRA,Canada,World Cup,Slopestyle,8,347.40
-19,Spalding Cameron,Male,20-01-2024,Laax,SUI,Canada,World Cup,Slopestyle,3,696.30
-20,Spalding Cameron,Male,16-01-2024,Laax,SUI,Canada,Qualification,Slopestyle,4,
-21,Spalding Cameron,Male,09-12-2023,Edmonton,CAN,Canada,World Cup,Big Air,11,263.60
-22,Spalding Cameron,Male,08-12-2023,Edmonton,CAN,Canada,Qualification,Big Air,5,
-23,Spalding Cameron,Male,02-12-2023,Beijing,CHN,Canada,World Cup,Big Air,17,168.60
-24,Spalding Cameron,Male,01-12-2023,Beijing,CHN,Canada,Qualification,Big Air,8,
-25,Spalding Cameron,Male,21-10-2023,Chur,SUI,Canada,World Cup,Big Air,39,74.30
-26,Spalding Cameron,Male,21-10-2023,Chur,SUI,Canada,Qualification,Big Air,19,
-27,Spalding Cameron,Male,04-09-2023,Cardrona,NZL,Canada,FIS Junior World Championships,Big Air,8,125.50
-28,Spalding Cameron,Male,02-09-2023,Cardrona,NZL,Canada,Qualification,Big Air,2,
-29,Spalding Cameron,Male,30-08-2023,Cardrona,NZL,Canada,FIS Junior World Championships,Slopestyle,2,298.90
-30,Spalding Cameron,Male,28-08-2023,Cardrona,NZL,Canada,Qualification,Slopestyle,1,
-31,Spalding Cameron,Male,26-03-2023,Silvaplana,SUI,Canada,World Cup,Slopestyle,4,471.50
-32,Spalding Cameron,Male,25-03-2023,Silvaplana,SUI,Canada,Qualification,Slopestyle,7,
-33,Spalding Cameron,Male,20-03-2023,Mottolino Livigno,ITA,Canada,European Cup,Slopestyle,15,53.80
-34,Spalding Cameron,Male,17-03-2023,Laax,SUI,Canada,European Cup Premium,Slopestyle,3,280.10
-35,Spalding Cameron,Male,04-03-2023,Bakuriani,GEO,Canada,World Championships,Big Air,16,142.80
-36,Spalding Cameron,Male,02-03-2023,Bakuriani,GEO,Canada,Qualification,Big Air,8,
-37,Spalding Cameron,Male,27-02-2023,Bakuriani,GEO,Canada,World Championships,Slopestyle,19,134.80
-38,Spalding Cameron,Male,24-02-2023,Bakuriani,GEO,Canada,Qualification,Slopestyle,11,
-39,Spalding Cameron,Male,12-02-2023,Calgary,CAN,Canada,World Cup,Slopestyle,3,553.70
-40,Spalding Cameron,Male,10-02-2023,Calgary,CAN,Canada,Qualification,Slopestyle,1,
-41,Spalding Cameron,Male,04-02-2023,Mammoth Mountain,USA,Canada,World Cup,Slopestyle,16,151.70
-42,Spalding Cameron,Male,01-02-2023,Mammoth Mountain,USA,Canada,Qualification,Slopestyle,8,
-43,Spalding Cameron,Male,22-01-2023,Laax,SUI,Canada,World Cup,Slopestyle,44,58.20
-44,Spalding Cameron,Male,18-01-2023,Laax,SUI,Canada,Qualification,Slopestyle,21,
-45,Spalding Cameron,Male,10-12-2022,Edmonton,CAN,Canada,World Cup,Big Air,7,311.30
-46,Spalding Cameron,Male,09-12-2022,Edmonton,CAN,Canada,Qualification,Big Air,9,
-47,Spalding Cameron,Male,22-10-2022,Chur,SUI,Canada,World Cup,Big Air,31,72.80
-48,Spalding Cameron,Male,22-10-2022,Chur,SUI,Canada,Qualification,Big Air,17,
-49,Spalding Cameron,Male,27-03-2022,Silvaplana,SUI,Canada,World Cup,Slopestyle,14,170.30
-50,Spalding Cameron,Male,25-03-2022,Silvaplana,SUI,Canada,Qualification,Slopestyle,6,
-51,Spalding Cameron,Male,19-03-2022,Spindleruv Mlyn,CZE,Canada,World Cup,Slopestyle,7,228.00
-52,Spalding Cameron,Male,18-03-2022,Spindleruv Mlyn,CZE,Canada,Qualification,Slopestyle,4,
-53,Spalding Cameron,Male,13-03-2022,Leysin,SUI,Canada,FIS Junior World Championships,Slopestyle,1,260.00
-54,Spalding Cameron,Male,10-03-2022,Leysin,SUI,Canada,FIS Junior World Championships,Big Air,5,122.20
-55,Spalding Cameron,Male,13-02-2022,Blue Mountain,CAN,Canada,FIS,Slopestyle,1,80.00
-56,Spalding Cameron,Male,06-02-2022,Calgary,CAN,Canada,National Junior Championships,Slopestyle,3,89.90
-57,Spalding Cameron,Male,26-01-2022,Mammoth Mountain Ski Resort,USA,Canada,Nor-Am Cup,Slopestyle,4,170.50
-58,Spalding Cameron,Male,25-01-2022,Mammoth Mountain Ski Resort,USA,Canada,Nor-Am Cup,Slopestyle,4,170.50
-59,Spalding Cameron,Male,08-01-2022,Mammoth Mountain,USA,Canada,World Cup,Slopestyle,DNS,
-60,Spalding Cameron,Male,01-01-2022,Calgary,CAN,Canada,World Cup,Slopestyle,9,307.10
-61,Spalding Cameron,Male,31-12-2021,Calgary,CAN,Canada,Qualification,Slopestyle,7,
-62,Spalding Cameron,Male,22-01-2021,Laax,SUI,Canada,World Cup,Slopestyle,DNS,
-63,Spalding Cameron,Male,19-01-2021,Laax,SUI,Canada,Qualification,Slopestyle,DNS,
-64,Spalding Cameron,Male,10-03-2020,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,3,90.00
-65,Spalding Cameron,Male,05-03-2020,Park City,USA,Canada,Nor-Am Cup,Big Air,4,80.00
-66,Spalding Cameron,Male,03-03-2020,Park City,USA,Canada,Nor-Am Cup,Slopestyle,6,144.00
-67,Spalding Cameron,Male,02-03-2020,Park City,USA,Canada,Nor-Am Cup,Slopestyle,4,180.00
-68,Spalding Cameron,Male,25-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,1,200.00
-69,Spalding Cameron,Male,24-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,3,120.00
-70,Spalding Cameron,Male,20-02-2020,Maximise,CAN,Canada,Nor-Am Cup,Big Air,2,128.00
-71,Spalding Cameron,Male,14-02-2020,Tremblant.QC,CAN,Canada,FIS,Slopestyle,1,50.00
-72,Spalding Cameron,Male,13-02-2020,Tremblant.QC,CAN,Canada,FIS,Slopestyle,1,50.00
-73,Spalding Cameron,Male,16-01-2020,Sun Peaks,CAN,Canada,Nor-Am Cup,Big Air,17,22.40
-74,Spalding Cameron,Male,15-01-2020,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,3,96.00
-75,Spalding Cameron,Male,10-01-2020,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,12,33.00
-76,Spalding Cameron,Male,24-03-2019,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,15,16.00
-77,Spalding Cameron,Male,23-03-2019,"Canada Olympic Park, AB",CAN,Canada,Nor-Am Cup,Big Air,13,32.00
-78,Spalding Cameron,Male,21-03-2019,"Canada Olympic Park, AB",CAN,Canada,Nor-Am Cup,Slopestyle,13,32.00
-79,Spalding Cameron,Male,13-03-2019,"Mammoth Mountain, CA",USA,Canada,Nor-Am Cup,Slopestyle,22,16.20
-80,Spalding Cameron,Male,07-02-2019,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,10,41.60
-81,Spalding Cameron,Male,03-02-2019,Tremblant.QC,CAN,Canada,FIS,Slopestyle,10,39.00
-82,Spalding Cameron,Male,02-02-2019,Tremblant.QC,CAN,Canada,FIS,Slopestyle,2,120.00
-83,Spalding Cameron,Male,24-01-2019,Sun Peaks,CAN,Canada,Nor-Am Cup,Big Air,5,72.00
-84,Spalding Cameron,Male,23-01-2019,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,16,24.00
+0,Spalding Cameron,Male,25-03-2025,Engadin,SUI,Canada,Qualification,Big Air,13,
+1,Spalding Cameron,Male,21-03-2025,Engadin,SUI,Canada,World Championships,Slopestyle,6,444.10
+2,Spalding Cameron,Male,20-03-2025,Engadin,SUI,Canada,Qualification,Slopestyle,4,
+3,Spalding Cameron,Male,22-02-2025,Calgary,CAN,Canada,World Cup,Slopestyle,16,201.90
+4,Spalding Cameron,Male,20-02-2025,Calgary,CAN,Canada,Qualification,Slopestyle,2,
+5,Spalding Cameron,Male,06-02-2025,Aspen,USA,Canada,World Cup,Big Air,41,46.20
+6,Spalding Cameron,Male,05-02-2025,Aspen,USA,Canada,Qualification,Big Air,19,
+7,Spalding Cameron,Male,02-02-2025,Aspen,USA,Canada,World Cup,Slopestyle,16,199.60
+8,Spalding Cameron,Male,31-01-2025,Aspen,USA,Canada,Qualification,Slopestyle,1,
+9,Spalding Cameron,Male,18-01-2025,Laax,SUI,Canada,World Cup,Slopestyle,1,1000.00
+10,Spalding Cameron,Male,16-01-2025,Laax,SUI,Canada,Qualification,Slopestyle,2,
+11,Spalding Cameron,Male,01-12-2024,Beijing,CHN,Canada,World Cup,Big Air,14,216.70
+12,Spalding Cameron,Male,30-11-2024,Beijing,CHN,Canada,Qualification,Big Air,6,
+13,Spalding Cameron,Male,19-10-2024,Chur,SUI,Canada,World Cup,Big Air,14,207.00
+14,Spalding Cameron,Male,02-09-2024,Cardrona,NZL,Canada,World Cup,Slopestyle,1,1000.00
+15,Spalding Cameron,Male,31-08-2024,Cardrona,NZL,Canada,Qualification,Slopestyle,1,
+16,Spalding Cameron,Male,23-03-2024,Silvaplana,SUI,Canada,World Cup,Slopestyle,13,235.70
+17,Spalding Cameron,Male,21-03-2024,Silvaplana,SUI,Canada,Qualification,Slopestyle,6,
+18,Spalding Cameron,Male,15-03-2024,Tignes,FRA,Canada,Qualification,Slopestyle,3,
+19,Spalding Cameron,Male,15-03-2024,Tignes,FRA,Canada,World Cup,Slopestyle,8,347.40
+20,Spalding Cameron,Male,20-01-2024,Laax,SUI,Canada,World Cup,Slopestyle,3,696.30
+21,Spalding Cameron,Male,16-01-2024,Laax,SUI,Canada,Qualification,Slopestyle,4,
+22,Spalding Cameron,Male,09-12-2023,Edmonton,CAN,Canada,World Cup,Big Air,11,263.60
+23,Spalding Cameron,Male,08-12-2023,Edmonton,CAN,Canada,Qualification,Big Air,5,
+24,Spalding Cameron,Male,02-12-2023,Beijing,CHN,Canada,World Cup,Big Air,17,168.60
+25,Spalding Cameron,Male,01-12-2023,Beijing,CHN,Canada,Qualification,Big Air,8,
+26,Spalding Cameron,Male,21-10-2023,Chur,SUI,Canada,World Cup,Big Air,39,74.30
+27,Spalding Cameron,Male,21-10-2023,Chur,SUI,Canada,Qualification,Big Air,19,
+28,Spalding Cameron,Male,04-09-2023,Cardrona,NZL,Canada,FIS Junior World Championships,Big Air,8,125.50
+29,Spalding Cameron,Male,02-09-2023,Cardrona,NZL,Canada,Qualification,Big Air,2,
+30,Spalding Cameron,Male,30-08-2023,Cardrona,NZL,Canada,FIS Junior World Championships,Slopestyle,2,298.90
+31,Spalding Cameron,Male,28-08-2023,Cardrona,NZL,Canada,Qualification,Slopestyle,1,
+32,Spalding Cameron,Male,26-03-2023,Silvaplana,SUI,Canada,World Cup,Slopestyle,4,471.50
+33,Spalding Cameron,Male,25-03-2023,Silvaplana,SUI,Canada,Qualification,Slopestyle,7,
+34,Spalding Cameron,Male,20-03-2023,Mottolino Livigno,ITA,Canada,European Cup,Slopestyle,15,53.80
+35,Spalding Cameron,Male,17-03-2023,Laax,SUI,Canada,European Cup Premium,Slopestyle,3,280.10
+36,Spalding Cameron,Male,04-03-2023,Bakuriani,GEO,Canada,World Championships,Big Air,16,142.80
+37,Spalding Cameron,Male,02-03-2023,Bakuriani,GEO,Canada,Qualification,Big Air,8,
+38,Spalding Cameron,Male,27-02-2023,Bakuriani,GEO,Canada,World Championships,Slopestyle,19,134.80
+39,Spalding Cameron,Male,24-02-2023,Bakuriani,GEO,Canada,Qualification,Slopestyle,11,
+40,Spalding Cameron,Male,12-02-2023,Calgary,CAN,Canada,World Cup,Slopestyle,3,553.70
+41,Spalding Cameron,Male,10-02-2023,Calgary,CAN,Canada,Qualification,Slopestyle,1,
+42,Spalding Cameron,Male,04-02-2023,Mammoth Mountain,USA,Canada,World Cup,Slopestyle,16,151.70
+43,Spalding Cameron,Male,01-02-2023,Mammoth Mountain,USA,Canada,Qualification,Slopestyle,8,
+44,Spalding Cameron,Male,22-01-2023,Laax,SUI,Canada,World Cup,Slopestyle,44,58.20
+45,Spalding Cameron,Male,18-01-2023,Laax,SUI,Canada,Qualification,Slopestyle,21,
+46,Spalding Cameron,Male,10-12-2022,Edmonton,CAN,Canada,World Cup,Big Air,7,311.30
+47,Spalding Cameron,Male,09-12-2022,Edmonton,CAN,Canada,Qualification,Big Air,9,
+48,Spalding Cameron,Male,22-10-2022,Chur,SUI,Canada,World Cup,Big Air,31,72.80
+49,Spalding Cameron,Male,22-10-2022,Chur,SUI,Canada,Qualification,Big Air,17,
+50,Spalding Cameron,Male,27-03-2022,Silvaplana,SUI,Canada,World Cup,Slopestyle,14,170.30
+51,Spalding Cameron,Male,25-03-2022,Silvaplana,SUI,Canada,Qualification,Slopestyle,6,
+52,Spalding Cameron,Male,19-03-2022,Spindleruv Mlyn,CZE,Canada,World Cup,Slopestyle,7,228.00
+53,Spalding Cameron,Male,18-03-2022,Spindleruv Mlyn,CZE,Canada,Qualification,Slopestyle,4,
+54,Spalding Cameron,Male,13-03-2022,Leysin,SUI,Canada,FIS Junior World Championships,Slopestyle,1,260.00
+55,Spalding Cameron,Male,10-03-2022,Leysin,SUI,Canada,FIS Junior World Championships,Big Air,5,122.20
+56,Spalding Cameron,Male,13-02-2022,Blue Mountain,CAN,Canada,FIS,Slopestyle,1,80.00
+57,Spalding Cameron,Male,06-02-2022,Calgary,CAN,Canada,National Junior Championships,Slopestyle,3,89.90
+58,Spalding Cameron,Male,26-01-2022,Mammoth Mountain Ski Resort,USA,Canada,Nor-Am Cup,Slopestyle,4,170.50
+59,Spalding Cameron,Male,25-01-2022,Mammoth Mountain Ski Resort,USA,Canada,Nor-Am Cup,Slopestyle,4,170.50
+60,Spalding Cameron,Male,08-01-2022,Mammoth Mountain,USA,Canada,World Cup,Slopestyle,DNS,
+61,Spalding Cameron,Male,01-01-2022,Calgary,CAN,Canada,World Cup,Slopestyle,9,307.10
+62,Spalding Cameron,Male,31-12-2021,Calgary,CAN,Canada,Qualification,Slopestyle,7,
+63,Spalding Cameron,Male,22-01-2021,Laax,SUI,Canada,World Cup,Slopestyle,DNS,
+64,Spalding Cameron,Male,19-01-2021,Laax,SUI,Canada,Qualification,Slopestyle,DNS,
+65,Spalding Cameron,Male,10-03-2020,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,3,90.00
+66,Spalding Cameron,Male,05-03-2020,Park City,USA,Canada,Nor-Am Cup,Big Air,4,80.00
+67,Spalding Cameron,Male,03-03-2020,Park City,USA,Canada,Nor-Am Cup,Slopestyle,6,144.00
+68,Spalding Cameron,Male,02-03-2020,Park City,USA,Canada,Nor-Am Cup,Slopestyle,4,180.00
+69,Spalding Cameron,Male,25-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,1,200.00
+70,Spalding Cameron,Male,24-02-2020,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,3,120.00
+71,Spalding Cameron,Male,20-02-2020,Maximise,CAN,Canada,Nor-Am Cup,Big Air,2,128.00
+72,Spalding Cameron,Male,14-02-2020,Tremblant.QC,CAN,Canada,FIS,Slopestyle,1,50.00
+73,Spalding Cameron,Male,13-02-2020,Tremblant.QC,CAN,Canada,FIS,Slopestyle,1,50.00
+74,Spalding Cameron,Male,16-01-2020,Sun Peaks,CAN,Canada,Nor-Am Cup,Big Air,17,22.40
+75,Spalding Cameron,Male,15-01-2020,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,3,96.00
+76,Spalding Cameron,Male,10-01-2020,"Whistler Blackcomb, BC",CAN,Canada,FIS,Slopestyle,12,33.00
+77,Spalding Cameron,Male,24-03-2019,"Canada Olympic Park, AB",CAN,Canada,National Junior Championships,Slopestyle,15,16.00
+78,Spalding Cameron,Male,23-03-2019,"Canada Olympic Park, AB",CAN,Canada,Nor-Am Cup,Big Air,13,32.00
+79,Spalding Cameron,Male,21-03-2019,"Canada Olympic Park, AB",CAN,Canada,Nor-Am Cup,Slopestyle,13,32.00
+80,Spalding Cameron,Male,13-03-2019,"Mammoth Mountain, CA",USA,Canada,Nor-Am Cup,Slopestyle,22,16.20
+81,Spalding Cameron,Male,07-02-2019,Mount St-Louis Moonstone,CAN,Canada,Nor-Am Cup,Slopestyle,10,41.60
+82,Spalding Cameron,Male,03-02-2019,Tremblant.QC,CAN,Canada,FIS,Slopestyle,10,39.00
+83,Spalding Cameron,Male,02-02-2019,Tremblant.QC,CAN,Canada,FIS,Slopestyle,2,120.00
+84,Spalding Cameron,Male,24-01-2019,Sun Peaks,CAN,Canada,Nor-Am Cup,Big Air,5,72.00
+85,Spalding Cameron,Male,23-01-2019,Sun Peaks,CAN,Canada,Nor-Am Cup,Slopestyle,16,24.00

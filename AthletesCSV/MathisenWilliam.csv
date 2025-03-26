@@ -1,100 +1,101 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Mathisen William,Male,21-03-2025,Engadin,SUI,Sweden,World Championships,Slopestyle,23,
-1,Mathisen William,Male,20-03-2025,Engadin,SUI,Sweden,Qualification,Slopestyle,11,
-2,Mathisen William,Male,22-02-2025,Calgary,CAN,Sweden,World Cup,Slopestyle,25,146.70
-3,Mathisen William,Male,20-02-2025,Calgary,CAN,Sweden,Qualification,Slopestyle,12,
-4,Mathisen William,Male,06-02-2025,Aspen,USA,Sweden,World Cup,Big Air,28,113.30
-5,Mathisen William,Male,05-02-2025,Aspen,USA,Sweden,Qualification,Big Air,17,
-6,Mathisen William,Male,02-02-2025,Aspen,USA,Sweden,World Cup,Slopestyle,33,105.00
-7,Mathisen William,Male,31-01-2025,Aspen,USA,Sweden,Qualification,Slopestyle,14,
-8,Mathisen William,Male,18-01-2025,Laax,SUI,Sweden,World Cup,Slopestyle,42,76.50
-9,Mathisen William,Male,16-01-2025,Laax,SUI,Sweden,Qualification,Slopestyle,17,
-10,Mathisen William,Male,11-01-2025,Kreischberg,AUT,Sweden,World Cup,Big Air,26,135.80
-11,Mathisen William,Male,11-01-2025,Kreischberg,AUT,Sweden,Qualification,Big Air,15,
-12,Mathisen William,Male,05-01-2025,Klagenfurt,AUT,Sweden,World Cup,Big Air,38,49.20
-13,Mathisen William,Male,05-01-2025,Klagenfurt,AUT,Sweden,Qualification,Big Air,21,
-14,Mathisen William,Male,19-10-2024,Chur,SUI,Sweden,World Cup,Big Air,26,112.70
-15,Mathisen William,Male,07-04-2024,Klaeppen,SWE,Sweden,National Championships,Big Air,DNS,
-16,Mathisen William,Male,05-04-2024,Klaeppen,SWE,Sweden,National Championships,Slopestyle,DNS,
-17,Mathisen William,Male,23-03-2024,Silvaplana,SUI,Sweden,World Cup,Slopestyle,23,158.40
-18,Mathisen William,Male,21-03-2024,Silvaplana,SUI,Sweden,Qualification,Slopestyle,14,
-19,Mathisen William,Male,15-03-2024,Tignes,FRA,Sweden,World Cup,Slopestyle,7,389.10
-20,Mathisen William,Male,15-03-2024,Tignes,FRA,Sweden,Qualification,Slopestyle,8,
-21,Mathisen William,Male,11-02-2024,Klaeppen,SWE,Sweden,FIS,Slopestyle,1,180.00
-22,Mathisen William,Male,20-01-2024,Laax,SUI,Sweden,World Cup,Slopestyle,25,148.50
-23,Mathisen William,Male,16-01-2024,Laax,SUI,Sweden,Qualification,Slopestyle,13,
-24,Mathisen William,Male,21-10-2023,Chur,SUI,Sweden,World Cup,Big Air,34,97.60
-25,Mathisen William,Male,21-10-2023,Chur,SUI,Sweden,Qualification,Big Air,19,
-26,Mathisen William,Male,01-04-2023,Klaeppen,SWE,Sweden,National Championships,Big Air,2,105.00
-27,Mathisen William,Male,31-03-2023,Klaeppen,SWE,Sweden,National Championships,Slopestyle,1,200.00
-28,Mathisen William,Male,26-03-2023,Silvaplana,SUI,Sweden,World Cup,Slopestyle,5,404.80
-29,Mathisen William,Male,25-03-2023,Silvaplana,SUI,Sweden,Qualification,Slopestyle,1,
-30,Mathisen William,Male,04-03-2023,Bakuriani,GEO,Sweden,World Championships,Big Air,21,108.90
-31,Mathisen William,Male,02-03-2023,Bakuriani,GEO,Sweden,Qualification,Big Air,10,
-32,Mathisen William,Male,27-02-2023,Bakuriani,GEO,Sweden,World Championships,Slopestyle,5,404.80
-33,Mathisen William,Male,24-02-2023,Bakuriani,GEO,Sweden,Qualification,Slopestyle,8,
-34,Mathisen William,Male,12-02-2023,Calgary,CAN,Sweden,World Cup,Slopestyle,16,137.30
-35,Mathisen William,Male,10-02-2023,Calgary,CAN,Sweden,Qualification,Slopestyle,4,
-36,Mathisen William,Male,04-02-2023,Mammoth Mountain,USA,Sweden,World Cup,Slopestyle,35,58.60
-37,Mathisen William,Male,01-02-2023,Mammoth Mountain,USA,Sweden,Qualification,Slopestyle,19,
-38,Mathisen William,Male,22-01-2023,Laax,SUI,Sweden,World Cup,Slopestyle,13,233.90
-39,Mathisen William,Male,18-01-2023,Laax,SUI,Sweden,Qualification,Slopestyle,7,
-40,Mathisen William,Male,17-12-2022,Kiruna,SWE,Sweden,FIS,Slopestyle,2,180.20
-41,Mathisen William,Male,10-12-2022,Edmonton,CAN,Sweden,World Cup,Big Air,38,60.60
-42,Mathisen William,Male,09-12-2022,Edmonton,CAN,Sweden,Qualification,Big Air,17,
-43,Mathisen William,Male,09-04-2022,Funaesdalen,SWE,Sweden,FIS,Slopestyle,1,70.00
-44,Mathisen William,Male,02-04-2022,Klaeppen,SWE,Sweden,National Championships,Big Air,1,130.00
-45,Mathisen William,Male,01-04-2022,Klaeppen,SWE,Sweden,National Championships,Slopestyle,1,240.00
-46,Mathisen William,Male,27-03-2022,Silvaplana,SUI,Sweden,World Cup,Slopestyle,5,404.50
-47,Mathisen William,Male,25-03-2022,Silvaplana,SUI,Sweden,Qualification,Slopestyle,4,
-48,Mathisen William,Male,19-03-2022,Spindleruv Mlyn,CZE,Sweden,World Cup,Slopestyle,2,496.80
-49,Mathisen William,Male,18-03-2022,Spindleruv Mlyn,CZE,Sweden,Qualification,Slopestyle,4,
-50,Mathisen William,Male,13-02-2022,Klaeppen,SWE,Sweden,FIS,Slopestyle,1,120.00
-51,Mathisen William,Male,22-01-2022,Hemavan,SWE,Sweden,FIS,Slopestyle,1,90.00
-52,Mathisen William,Male,15-01-2022,Laax,SUI,Sweden,World Cup,Slopestyle,29,86.40
-53,Mathisen William,Male,13-01-2022,Laax,SUI,Sweden,Qualification,Slopestyle,15,
-54,Mathisen William,Male,19-12-2021,Kiruna,SWE,Sweden,FIS,Slopestyle,1,180.00
-55,Mathisen William,Male,04-12-2021,Steamboat,USA,Sweden,World Cup,Big Air,21,171.80
-56,Mathisen William,Male,02-12-2021,Steamboat,USA,Sweden,Qualification,Big Air,12,
-57,Mathisen William,Male,19-11-2021,Landgraaf,NED,Sweden,European Cup,Slopestyle,2,182.50
-58,Mathisen William,Male,18-11-2021,Landgraaf,NED,Sweden,FIS,Slopestyle,5,112.70
-59,Mathisen William,Male,28-03-2021,Silvaplana,SUI,Sweden,World Cup,Slopestyle,26,145.58
+0,Mathisen William,Male,25-03-2025,Engadin,SUI,Sweden,Qualification,Big Air,17,
+1,Mathisen William,Male,21-03-2025,Engadin,SUI,Sweden,World Championships,Slopestyle,23,161.50
+2,Mathisen William,Male,20-03-2025,Engadin,SUI,Sweden,Qualification,Slopestyle,11,
+3,Mathisen William,Male,22-02-2025,Calgary,CAN,Sweden,World Cup,Slopestyle,25,146.70
+4,Mathisen William,Male,20-02-2025,Calgary,CAN,Sweden,Qualification,Slopestyle,12,
+5,Mathisen William,Male,06-02-2025,Aspen,USA,Sweden,World Cup,Big Air,28,113.30
+6,Mathisen William,Male,05-02-2025,Aspen,USA,Sweden,Qualification,Big Air,17,
+7,Mathisen William,Male,02-02-2025,Aspen,USA,Sweden,World Cup,Slopestyle,33,105.00
+8,Mathisen William,Male,31-01-2025,Aspen,USA,Sweden,Qualification,Slopestyle,14,
+9,Mathisen William,Male,18-01-2025,Laax,SUI,Sweden,World Cup,Slopestyle,42,76.50
+10,Mathisen William,Male,16-01-2025,Laax,SUI,Sweden,Qualification,Slopestyle,17,
+11,Mathisen William,Male,11-01-2025,Kreischberg,AUT,Sweden,World Cup,Big Air,26,135.80
+12,Mathisen William,Male,11-01-2025,Kreischberg,AUT,Sweden,Qualification,Big Air,15,
+13,Mathisen William,Male,05-01-2025,Klagenfurt,AUT,Sweden,World Cup,Big Air,38,49.20
+14,Mathisen William,Male,05-01-2025,Klagenfurt,AUT,Sweden,Qualification,Big Air,21,
+15,Mathisen William,Male,19-10-2024,Chur,SUI,Sweden,World Cup,Big Air,26,112.70
+16,Mathisen William,Male,07-04-2024,Klaeppen,SWE,Sweden,National Championships,Big Air,DNS,
+17,Mathisen William,Male,05-04-2024,Klaeppen,SWE,Sweden,National Championships,Slopestyle,DNS,
+18,Mathisen William,Male,23-03-2024,Silvaplana,SUI,Sweden,World Cup,Slopestyle,23,158.40
+19,Mathisen William,Male,21-03-2024,Silvaplana,SUI,Sweden,Qualification,Slopestyle,14,
+20,Mathisen William,Male,15-03-2024,Tignes,FRA,Sweden,World Cup,Slopestyle,7,389.10
+21,Mathisen William,Male,15-03-2024,Tignes,FRA,Sweden,Qualification,Slopestyle,8,
+22,Mathisen William,Male,11-02-2024,Klaeppen,SWE,Sweden,FIS,Slopestyle,1,180.00
+23,Mathisen William,Male,20-01-2024,Laax,SUI,Sweden,World Cup,Slopestyle,25,148.50
+24,Mathisen William,Male,16-01-2024,Laax,SUI,Sweden,Qualification,Slopestyle,13,
+25,Mathisen William,Male,21-10-2023,Chur,SUI,Sweden,World Cup,Big Air,34,97.60
+26,Mathisen William,Male,21-10-2023,Chur,SUI,Sweden,Qualification,Big Air,19,
+27,Mathisen William,Male,01-04-2023,Klaeppen,SWE,Sweden,National Championships,Big Air,2,105.00
+28,Mathisen William,Male,31-03-2023,Klaeppen,SWE,Sweden,National Championships,Slopestyle,1,200.00
+29,Mathisen William,Male,26-03-2023,Silvaplana,SUI,Sweden,World Cup,Slopestyle,5,404.80
+30,Mathisen William,Male,25-03-2023,Silvaplana,SUI,Sweden,Qualification,Slopestyle,1,
+31,Mathisen William,Male,04-03-2023,Bakuriani,GEO,Sweden,World Championships,Big Air,21,108.90
+32,Mathisen William,Male,02-03-2023,Bakuriani,GEO,Sweden,Qualification,Big Air,10,
+33,Mathisen William,Male,27-02-2023,Bakuriani,GEO,Sweden,World Championships,Slopestyle,5,404.80
+34,Mathisen William,Male,24-02-2023,Bakuriani,GEO,Sweden,Qualification,Slopestyle,8,
+35,Mathisen William,Male,12-02-2023,Calgary,CAN,Sweden,World Cup,Slopestyle,16,137.30
+36,Mathisen William,Male,10-02-2023,Calgary,CAN,Sweden,Qualification,Slopestyle,4,
+37,Mathisen William,Male,04-02-2023,Mammoth Mountain,USA,Sweden,World Cup,Slopestyle,35,58.60
+38,Mathisen William,Male,01-02-2023,Mammoth Mountain,USA,Sweden,Qualification,Slopestyle,19,
+39,Mathisen William,Male,22-01-2023,Laax,SUI,Sweden,World Cup,Slopestyle,13,233.90
+40,Mathisen William,Male,18-01-2023,Laax,SUI,Sweden,Qualification,Slopestyle,7,
+41,Mathisen William,Male,17-12-2022,Kiruna,SWE,Sweden,FIS,Slopestyle,2,180.20
+42,Mathisen William,Male,10-12-2022,Edmonton,CAN,Sweden,World Cup,Big Air,38,60.60
+43,Mathisen William,Male,09-12-2022,Edmonton,CAN,Sweden,Qualification,Big Air,17,
+44,Mathisen William,Male,09-04-2022,Funaesdalen,SWE,Sweden,FIS,Slopestyle,1,70.00
+45,Mathisen William,Male,02-04-2022,Klaeppen,SWE,Sweden,National Championships,Big Air,1,130.00
+46,Mathisen William,Male,01-04-2022,Klaeppen,SWE,Sweden,National Championships,Slopestyle,1,240.00
+47,Mathisen William,Male,27-03-2022,Silvaplana,SUI,Sweden,World Cup,Slopestyle,5,404.50
+48,Mathisen William,Male,25-03-2022,Silvaplana,SUI,Sweden,Qualification,Slopestyle,4,
+49,Mathisen William,Male,19-03-2022,Spindleruv Mlyn,CZE,Sweden,World Cup,Slopestyle,2,496.80
+50,Mathisen William,Male,18-03-2022,Spindleruv Mlyn,CZE,Sweden,Qualification,Slopestyle,4,
+51,Mathisen William,Male,13-02-2022,Klaeppen,SWE,Sweden,FIS,Slopestyle,1,120.00
+52,Mathisen William,Male,22-01-2022,Hemavan,SWE,Sweden,FIS,Slopestyle,1,90.00
+53,Mathisen William,Male,15-01-2022,Laax,SUI,Sweden,World Cup,Slopestyle,29,86.40
+54,Mathisen William,Male,13-01-2022,Laax,SUI,Sweden,Qualification,Slopestyle,15,
+55,Mathisen William,Male,19-12-2021,Kiruna,SWE,Sweden,FIS,Slopestyle,1,180.00
+56,Mathisen William,Male,04-12-2021,Steamboat,USA,Sweden,World Cup,Big Air,21,171.80
+57,Mathisen William,Male,02-12-2021,Steamboat,USA,Sweden,Qualification,Big Air,12,
+58,Mathisen William,Male,19-11-2021,Landgraaf,NED,Sweden,European Cup,Slopestyle,2,182.50
+59,Mathisen William,Male,18-11-2021,Landgraaf,NED,Sweden,FIS,Slopestyle,5,112.70
 60,Mathisen William,Male,28-03-2021,Silvaplana,SUI,Sweden,Qualification,Slopestyle,16,
-61,Mathisen William,Male,20-03-2021,Aspen,USA,Sweden,World Cup,Slopestyle,34,112.78
-62,Mathisen William,Male,19-03-2021,Aspen,USA,Sweden,Qualification,Slopestyle,17,
-63,Mathisen William,Male,16-03-2021,Aspen,USA,Sweden,World Championships,Big Air,30,96.92
-64,Mathisen William,Male,14-03-2021,Aspen,USA,Sweden,Qualification,Big Air,13,
-65,Mathisen William,Male,12-03-2021,Aspen,USA,Sweden,World Championships,Slopestyle,28,123.61
-66,Mathisen William,Male,10-03-2021,Aspen,USA,Sweden,Qualification,Slopestyle,13,
-67,Mathisen William,Male,21-02-2021,Leksand ,SWE,Sweden,FIS,Slopestyle,1,60.00
-68,Mathisen William,Male,13-02-2021,Klaeppen,SWE,Sweden,FIS,Slopestyle,1,140.00
-69,Mathisen William,Male,31-01-2021,Crans Montana,SUI,Sweden,European Cup,Slopestyle,9,116.81
-70,Mathisen William,Male,09-01-2021,Kreischberg,AUT,Sweden,World Cup,Big Air,39,91.82
-71,Mathisen William,Male,09-01-2021,Kreischberg,AUT,Sweden,Qualification,Big Air,22,
-72,Mathisen William,Male,07-03-2020, Jarvsoe,SWE,Sweden,FIS,Slopestyle,2,40.00
-73,Mathisen William,Male,08-02-2020,Klaeppen,SWE,Sweden,FIS,Slopestyle,1,70.00
-74,Mathisen William,Male,22-01-2020,Leysin,SUI,Sweden,Youth Olympic Winter Games,Big Air,13,40.00
+61,Mathisen William,Male,28-03-2021,Silvaplana,SUI,Sweden,World Cup,Slopestyle,26,145.58
+62,Mathisen William,Male,20-03-2021,Aspen,USA,Sweden,World Cup,Slopestyle,34,112.78
+63,Mathisen William,Male,19-03-2021,Aspen,USA,Sweden,Qualification,Slopestyle,17,
+64,Mathisen William,Male,16-03-2021,Aspen,USA,Sweden,World Championships,Big Air,30,96.92
+65,Mathisen William,Male,14-03-2021,Aspen,USA,Sweden,Qualification,Big Air,13,
+66,Mathisen William,Male,12-03-2021,Aspen,USA,Sweden,World Championships,Slopestyle,28,123.61
+67,Mathisen William,Male,10-03-2021,Aspen,USA,Sweden,Qualification,Slopestyle,13,
+68,Mathisen William,Male,21-02-2021,Leksand ,SWE,Sweden,FIS,Slopestyle,1,60.00
+69,Mathisen William,Male,13-02-2021,Klaeppen,SWE,Sweden,FIS,Slopestyle,1,140.00
+70,Mathisen William,Male,31-01-2021,Crans Montana,SUI,Sweden,European Cup,Slopestyle,9,116.81
+71,Mathisen William,Male,09-01-2021,Kreischberg,AUT,Sweden,World Cup,Big Air,39,91.82
+72,Mathisen William,Male,09-01-2021,Kreischberg,AUT,Sweden,Qualification,Big Air,22,
+73,Mathisen William,Male,07-03-2020, Jarvsoe,SWE,Sweden,FIS,Slopestyle,2,40.00
+74,Mathisen William,Male,08-02-2020,Klaeppen,SWE,Sweden,FIS,Slopestyle,1,70.00
 75,Mathisen William,Male,22-01-2020,Leysin,SUI,Sweden,Qualification,Big Air,13,
-76,Mathisen William,Male,20-01-2020,Leysin,SUI,Sweden,Youth Olympic Winter Games,Slopestyle,5,81.00
-77,Mathisen William,Male,20-12-2019,Atlanta,USA,Sweden,World Cup,Big Air,21,100.00
-78,Mathisen William,Male,02-11-2019,Modena SKIPASS,ITA,Sweden,World Cup,Big Air,30,32.00
-79,Mathisen William,Male,13-04-2019,Klaeppen,SWE,Sweden,FIS Junior World Championships,Big Air,8,76.80
-80,Mathisen William,Male,12-04-2019,Klaeppen,SWE,Sweden,Qualification,Big Air,3,
-81,Mathisen William,Male,09-04-2019,Klaeppen,SWE,Sweden,FIS Junior World Championships,Slopestyle,67,2.50
-82,Mathisen William,Male,08-04-2019,Klaeppen,SWE,Sweden,Qualification,Slopestyle,17,
-83,Mathisen William,Male,16-03-2019,Bollnaes,SWE,Sweden,FIS,Slopestyle,1,70.00
-84,Mathisen William,Male,09-03-2019,Falun,SWE,Sweden,FIS,Slopestyle,2,56.00
-85,Mathisen William,Male,14-02-2019,Bjelasnica,BIH,Sweden,European Youth Olympic Festival,Big Air,36,0.98
-86,Mathisen William,Male,12-02-2019,Bjelasnica,BIH,Sweden,European Youth Olympic Festival,Slopestyle,DNS1,
-87,Mathisen William,Male,29-01-2019,Sundsvall,SWE,Sweden,National Championships,Big Air,3,72.00
-88,Mathisen William,Male,12-01-2019,Kreischberg,AUT,Sweden,World Cup,Slopestyle,25,60.00
-89,Mathisen William,Male,11-01-2019,Kreischberg,AUT,Sweden,Qualification,Slopestyle,11,
-90,Mathisen William,Male,21-04-2018,Tandaadalen,SWE,Sweden,FIS,Slopestyle,4,65.00
-91,Mathisen William,Male,23-03-2018,Skellefteaa,SWE,Sweden,National Championships,Slopestyle,6,60.00
-92,Mathisen William,Male,21-03-2018,Skellefteaa,SWE,Sweden,National Championships,Big Air,13,22.00
-93,Mathisen William,Male,10-03-2018,Bollnaes,SWE,Sweden,FIS,Slopestyle,1,110.00
-94,Mathisen William,Male,27-01-2018,Klaeppen,SWE,Sweden,FIS,Slopestyle,1,50.00
-95,Mathisen William,Male,01-04-2017,Spindleruv Mlyn,CZE,Sweden,FIS Junior World Championships,Big Air,28,9.60
-96,Mathisen William,Male,31-03-2017,Spindleruv Mlyn,CZE,Sweden,FIS Junior World Championships,Slopestyle,30,11.52
-97,Mathisen William,Male,30-03-2017,Spindleruv Mlyn,CZE,Sweden,Qualification,Slopestyle,7,
-98,Mathisen William,Male,29-03-2017,Spindleruv Mlyn,CZE,Sweden,Qualification,Big Air,7,
+76,Mathisen William,Male,22-01-2020,Leysin,SUI,Sweden,Youth Olympic Winter Games,Big Air,13,40.00
+77,Mathisen William,Male,20-01-2020,Leysin,SUI,Sweden,Youth Olympic Winter Games,Slopestyle,5,81.00
+78,Mathisen William,Male,20-12-2019,Atlanta,USA,Sweden,World Cup,Big Air,21,100.00
+79,Mathisen William,Male,02-11-2019,Modena SKIPASS,ITA,Sweden,World Cup,Big Air,30,32.00
+80,Mathisen William,Male,13-04-2019,Klaeppen,SWE,Sweden,FIS Junior World Championships,Big Air,8,76.80
+81,Mathisen William,Male,12-04-2019,Klaeppen,SWE,Sweden,Qualification,Big Air,3,
+82,Mathisen William,Male,09-04-2019,Klaeppen,SWE,Sweden,FIS Junior World Championships,Slopestyle,67,2.50
+83,Mathisen William,Male,08-04-2019,Klaeppen,SWE,Sweden,Qualification,Slopestyle,17,
+84,Mathisen William,Male,16-03-2019,Bollnaes,SWE,Sweden,FIS,Slopestyle,1,70.00
+85,Mathisen William,Male,09-03-2019,Falun,SWE,Sweden,FIS,Slopestyle,2,56.00
+86,Mathisen William,Male,14-02-2019,Bjelasnica,BIH,Sweden,European Youth Olympic Festival,Big Air,36,0.98
+87,Mathisen William,Male,12-02-2019,Bjelasnica,BIH,Sweden,European Youth Olympic Festival,Slopestyle,DNS1,
+88,Mathisen William,Male,29-01-2019,Sundsvall,SWE,Sweden,National Championships,Big Air,3,72.00
+89,Mathisen William,Male,12-01-2019,Kreischberg,AUT,Sweden,World Cup,Slopestyle,25,60.00
+90,Mathisen William,Male,11-01-2019,Kreischberg,AUT,Sweden,Qualification,Slopestyle,11,
+91,Mathisen William,Male,21-04-2018,Tandaadalen,SWE,Sweden,FIS,Slopestyle,4,65.00
+92,Mathisen William,Male,23-03-2018,Skellefteaa,SWE,Sweden,National Championships,Slopestyle,6,60.00
+93,Mathisen William,Male,21-03-2018,Skellefteaa,SWE,Sweden,National Championships,Big Air,13,22.00
+94,Mathisen William,Male,10-03-2018,Bollnaes,SWE,Sweden,FIS,Slopestyle,1,110.00
+95,Mathisen William,Male,27-01-2018,Klaeppen,SWE,Sweden,FIS,Slopestyle,1,50.00
+96,Mathisen William,Male,01-04-2017,Spindleruv Mlyn,CZE,Sweden,FIS Junior World Championships,Big Air,28,9.60
+97,Mathisen William,Male,31-03-2017,Spindleruv Mlyn,CZE,Sweden,FIS Junior World Championships,Slopestyle,30,11.52
+98,Mathisen William,Male,30-03-2017,Spindleruv Mlyn,CZE,Sweden,Qualification,Slopestyle,7,
+99,Mathisen William,Male,29-03-2017,Spindleruv Mlyn,CZE,Sweden,Qualification,Big Air,7,

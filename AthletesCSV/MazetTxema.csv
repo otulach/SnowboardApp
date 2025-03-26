@@ -1,63 +1,64 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Mazet Txema,Male,21-03-2025,Engadin,SUI,Great Britain,World Championships,Slopestyle,45,
-1,Mazet Txema,Male,20-03-2025,Engadin,SUI,Great Britain,Qualification,Slopestyle,24,
-2,Mazet Txema,Male,22-02-2025,Calgary,CAN,Great Britain,World Cup,Slopestyle,46,52.80
-3,Mazet Txema,Male,20-02-2025,Calgary,CAN,Great Britain,Qualification,Slopestyle,23,
-4,Mazet Txema,Male,06-02-2025,Aspen,USA,Great Britain,World Cup,Big Air,50,0.30
-5,Mazet Txema,Male,05-02-2025,Aspen,USA,Great Britain,Qualification,Big Air,26,
-6,Mazet Txema,Male,02-02-2025,Aspen,USA,Great Britain,World Cup,Slopestyle,26,137.90
-7,Mazet Txema,Male,31-01-2025,Aspen,USA,Great Britain,Qualification,Slopestyle,17,
-8,Mazet Txema,Male,18-01-2025,Laax,SUI,Great Britain,World Cup,Slopestyle,30,127.80
-9,Mazet Txema,Male,16-01-2025,Laax,SUI,Great Britain,Qualification,Slopestyle,18,
-10,Mazet Txema,Male,11-01-2025,Kreischberg,AUT,Great Britain,Qualification,Big Air,7,
+0,Mazet Txema,Male,25-03-2025,Engadin,SUI,Great Britain,Qualification,Big Air,24,
+1,Mazet Txema,Male,21-03-2025,Engadin,SUI,Great Britain,World Championships,Slopestyle,45,66.90
+2,Mazet Txema,Male,20-03-2025,Engadin,SUI,Great Britain,Qualification,Slopestyle,24,
+3,Mazet Txema,Male,22-02-2025,Calgary,CAN,Great Britain,World Cup,Slopestyle,46,52.80
+4,Mazet Txema,Male,20-02-2025,Calgary,CAN,Great Britain,Qualification,Slopestyle,23,
+5,Mazet Txema,Male,06-02-2025,Aspen,USA,Great Britain,World Cup,Big Air,50,0.30
+6,Mazet Txema,Male,05-02-2025,Aspen,USA,Great Britain,Qualification,Big Air,26,
+7,Mazet Txema,Male,02-02-2025,Aspen,USA,Great Britain,World Cup,Slopestyle,26,137.90
+8,Mazet Txema,Male,31-01-2025,Aspen,USA,Great Britain,Qualification,Slopestyle,17,
+9,Mazet Txema,Male,18-01-2025,Laax,SUI,Great Britain,World Cup,Slopestyle,30,127.80
+10,Mazet Txema,Male,16-01-2025,Laax,SUI,Great Britain,Qualification,Slopestyle,18,
 11,Mazet Txema,Male,11-01-2025,Kreischberg,AUT,Great Britain,World Cup,Big Air,12,247.10
-12,Mazet Txema,Male,05-01-2025,Klagenfurt,AUT,Great Britain,World Cup,Big Air,9,308.10
-13,Mazet Txema,Male,05-01-2025,Klagenfurt,AUT,Great Britain,Qualification,Big Air,5,
-14,Mazet Txema,Male,01-12-2024,Beijing,CHN,Great Britain,World Cup,Big Air,38,72.40
-15,Mazet Txema,Male,30-11-2024,Beijing,CHN,Great Britain,Qualification,Big Air,19,
-16,Mazet Txema,Male,19-10-2024,Chur,SUI,Great Britain,World Cup,Big Air,27,106.90
-17,Mazet Txema,Male,02-09-2024,Cardrona,NZL,Great Britain,World Cup,Slopestyle,12,246.10
-18,Mazet Txema,Male,31-08-2024,Cardrona,NZL,Great Britain,Qualification,Slopestyle,7,
-19,Mazet Txema,Male,17-08-2024,The Remarkables,NZL,Great Britain,Australian New Zealand Cup,Slopestyle,12,42.50
-20,Mazet Txema,Male,14-04-2024,Corvatsch,SUI,Great Britain,European Cup Premium,Big Air,4,297.60
-21,Mazet Txema,Male,12-04-2024,Corvatsch,SUI,Great Britain,European Cup Premium,Slopestyle,32,87.60
-22,Mazet Txema,Male,30-03-2024,Livigno/Mottolino,ITA,Great Britain,FIS Junior World Championships,Big Air,1,240.00
-23,Mazet Txema,Male,28-03-2024,Livigno/Mottolino,ITA,Great Britain,Qualification,Big Air,1,
-24,Mazet Txema,Male,26-03-2024,Livigno/Mottolino,ITA,Great Britain,FIS Junior World Championships,Slopestyle,7,102.00
-25,Mazet Txema,Male,26-03-2024,Livigno/Mottolino,ITA,Great Britain,Qualification,Slopestyle,3,
-26,Mazet Txema,Male,23-03-2024,Silvaplana,SUI,Great Britain,World Cup,Slopestyle,51,34.70
-27,Mazet Txema,Male,21-03-2024,Silvaplana,SUI,Great Britain,Qualification,Slopestyle,27,
-28,Mazet Txema,Male,12-03-2024,Laax,SUI,Great Britain,European Cup Premium,Slopestyle,4,119.30
-29,Mazet Txema,Male,15-02-2024,Davos,SUI,Great Britain,European Cup,Big Air,1,160.00
-30,Mazet Txema,Male,28-01-2024,Gangwon/Welli Hilli,KOR,Great Britain,Youth Olympic Winter Games,Big Air,9,34.20
-31,Mazet Txema,Male,27-01-2024,Gangwon/Welli Hilli,KOR,Great Britain,Qualification,Big Air,5,
-32,Mazet Txema,Male,25-01-2024,Gangwon/Welli Hilli,KOR,Great Britain,Youth Olympic Winter Games,Slopestyle,19,10.40
-33,Mazet Txema,Male,15-12-2023,Copper Mountain,USA,Great Britain,World Cup,Big Air,49,35.90
-34,Mazet Txema,Male,13-12-2023,Copper Mountain,USA,Great Britain,Qualification,Big Air,25,
-35,Mazet Txema,Male,09-12-2023,Edmonton,CAN,Great Britain,World Cup,Big Air,43,48.30
-36,Mazet Txema,Male,08-12-2023,Edmonton,CAN,Great Britain,Qualification,Big Air,24,
-37,Mazet Txema,Male,29-09-2023,Cardrona,NZL,Great Britain,Australian New Zealand Cup,Slopestyle,14,73.30
-38,Mazet Txema,Male,04-09-2023,Cardrona,NZL,Great Britain,FIS Junior World Championships,Big Air,25,51.50
-39,Mazet Txema,Male,02-09-2023,Cardrona,NZL,Great Britain,Qualification,Big Air,12,
-40,Mazet Txema,Male,30-08-2023,Cardrona,NZL,Great Britain,FIS Junior World Championships,Slopestyle,37,37.00
-41,Mazet Txema,Male,28-08-2023,Cardrona,NZL,Great Britain,Qualification,Slopestyle,21,
-42,Mazet Txema,Male,12-08-2023,The Remarkables,NZL,Great Britain,Australian New Zealand Cup,Slopestyle,4,91.20
-43,Mazet Txema,Male,17-04-2023,Corvatsch,SUI,Great Britain,European Cup Premium,Big Air,21,68.80
-44,Mazet Txema,Male,14-04-2023,Corvatsch,SUI,Great Britain,European Cup Premium,Slopestyle,8,160.40
-45,Mazet Txema,Male,17-03-2023,Laax,SUI,Great Britain,European Cup Premium,Slopestyle,22,81.20
-46,Mazet Txema,Male,18-02-2023,Davos,SUI,Great Britain,European Cup,Big Air,1,140.00
-47,Mazet Txema,Male,04-02-2023,Font Romeu,FRA,Great Britain,European Cup,Big Air,11,42.80
-48,Mazet Txema,Male,02-02-2023,Font Romeu,FRA,Great Britain,European Cup,Slopestyle,36,13.30
-49,Mazet Txema,Male,25-01-2023,Prato Nevoso,ITA,Great Britain,European Cup,Slopestyle,19,27.70
-50,Mazet Txema,Male,02-09-2022,Cardrona,NZL,Great Britain,Australian New Zealand Cup,Slopestyle,19,39.10
-51,Mazet Txema,Male,15-03-2022,Laax,SUI,Great Britain,European Cup Premium,Slopestyle,33,8.90
-52,Mazet Txema,Male,13-03-2022,Leysin,SUI,Great Britain,FIS Junior World Championships,Slopestyle,25,41.90
-53,Mazet Txema,Male,10-03-2022,Leysin,SUI,Great Britain,FIS Junior World Championships,Big Air,8,84.20
-54,Mazet Txema,Male,18-02-2022,Davos,SUI,Great Britain,European Cup Premium,Big Air,8,89.80
-55,Mazet Txema,Male,18-01-2022,Livigno,ITA,Great Britain,Junior,Slopestyle,18,7.70
-56,Mazet Txema,Male,09-10-2021,The Remarkables,NZL,Great Britain,FIS,Slopestyle,3,0.10
-57,Mazet Txema,Male,18-09-2021,Cardrona,NZL,Great Britain,FIS,Slopestyle,4,22.10
-58,Mazet Txema,Male,12-09-2020,Cardrona,NZL,Great Britain,FIS,Slopestyle,9,40.60
-59,Mazet Txema,Male,29-02-2020,Park City,USA,Great Britain,FIS,Slopestyle,31,1.40
-60,Mazet Txema,Male,04-10-2019,Cardrona,NZL,Great Britain,FIS,Slopestyle,3,30.00
-61,Mazet Txema,Male,02-10-2019,Cardrona,NZL,Great Britain,Australian New Zealand Cup,Halfpipe,8,51.20
+12,Mazet Txema,Male,11-01-2025,Kreischberg,AUT,Great Britain,Qualification,Big Air,7,
+13,Mazet Txema,Male,05-01-2025,Klagenfurt,AUT,Great Britain,World Cup,Big Air,9,308.10
+14,Mazet Txema,Male,05-01-2025,Klagenfurt,AUT,Great Britain,Qualification,Big Air,5,
+15,Mazet Txema,Male,01-12-2024,Beijing,CHN,Great Britain,World Cup,Big Air,38,72.40
+16,Mazet Txema,Male,30-11-2024,Beijing,CHN,Great Britain,Qualification,Big Air,19,
+17,Mazet Txema,Male,19-10-2024,Chur,SUI,Great Britain,World Cup,Big Air,27,106.90
+18,Mazet Txema,Male,02-09-2024,Cardrona,NZL,Great Britain,World Cup,Slopestyle,12,246.10
+19,Mazet Txema,Male,31-08-2024,Cardrona,NZL,Great Britain,Qualification,Slopestyle,7,
+20,Mazet Txema,Male,17-08-2024,The Remarkables,NZL,Great Britain,Australian New Zealand Cup,Slopestyle,12,42.50
+21,Mazet Txema,Male,14-04-2024,Corvatsch,SUI,Great Britain,European Cup Premium,Big Air,4,297.60
+22,Mazet Txema,Male,12-04-2024,Corvatsch,SUI,Great Britain,European Cup Premium,Slopestyle,32,87.60
+23,Mazet Txema,Male,30-03-2024,Livigno/Mottolino,ITA,Great Britain,FIS Junior World Championships,Big Air,1,240.00
+24,Mazet Txema,Male,28-03-2024,Livigno/Mottolino,ITA,Great Britain,Qualification,Big Air,1,
+25,Mazet Txema,Male,26-03-2024,Livigno/Mottolino,ITA,Great Britain,FIS Junior World Championships,Slopestyle,7,102.00
+26,Mazet Txema,Male,26-03-2024,Livigno/Mottolino,ITA,Great Britain,Qualification,Slopestyle,3,
+27,Mazet Txema,Male,23-03-2024,Silvaplana,SUI,Great Britain,World Cup,Slopestyle,51,34.70
+28,Mazet Txema,Male,21-03-2024,Silvaplana,SUI,Great Britain,Qualification,Slopestyle,27,
+29,Mazet Txema,Male,12-03-2024,Laax,SUI,Great Britain,European Cup Premium,Slopestyle,4,119.30
+30,Mazet Txema,Male,15-02-2024,Davos,SUI,Great Britain,European Cup,Big Air,1,160.00
+31,Mazet Txema,Male,28-01-2024,Gangwon/Welli Hilli,KOR,Great Britain,Youth Olympic Winter Games,Big Air,9,34.20
+32,Mazet Txema,Male,27-01-2024,Gangwon/Welli Hilli,KOR,Great Britain,Qualification,Big Air,5,
+33,Mazet Txema,Male,25-01-2024,Gangwon/Welli Hilli,KOR,Great Britain,Youth Olympic Winter Games,Slopestyle,19,10.40
+34,Mazet Txema,Male,15-12-2023,Copper Mountain,USA,Great Britain,World Cup,Big Air,49,35.90
+35,Mazet Txema,Male,13-12-2023,Copper Mountain,USA,Great Britain,Qualification,Big Air,25,
+36,Mazet Txema,Male,09-12-2023,Edmonton,CAN,Great Britain,World Cup,Big Air,43,48.30
+37,Mazet Txema,Male,08-12-2023,Edmonton,CAN,Great Britain,Qualification,Big Air,24,
+38,Mazet Txema,Male,29-09-2023,Cardrona,NZL,Great Britain,Australian New Zealand Cup,Slopestyle,14,73.30
+39,Mazet Txema,Male,04-09-2023,Cardrona,NZL,Great Britain,FIS Junior World Championships,Big Air,25,51.50
+40,Mazet Txema,Male,02-09-2023,Cardrona,NZL,Great Britain,Qualification,Big Air,12,
+41,Mazet Txema,Male,30-08-2023,Cardrona,NZL,Great Britain,FIS Junior World Championships,Slopestyle,37,37.00
+42,Mazet Txema,Male,28-08-2023,Cardrona,NZL,Great Britain,Qualification,Slopestyle,21,
+43,Mazet Txema,Male,12-08-2023,The Remarkables,NZL,Great Britain,Australian New Zealand Cup,Slopestyle,4,91.20
+44,Mazet Txema,Male,17-04-2023,Corvatsch,SUI,Great Britain,European Cup Premium,Big Air,21,68.80
+45,Mazet Txema,Male,14-04-2023,Corvatsch,SUI,Great Britain,European Cup Premium,Slopestyle,8,160.40
+46,Mazet Txema,Male,17-03-2023,Laax,SUI,Great Britain,European Cup Premium,Slopestyle,22,81.20
+47,Mazet Txema,Male,18-02-2023,Davos,SUI,Great Britain,European Cup,Big Air,1,140.00
+48,Mazet Txema,Male,04-02-2023,Font Romeu,FRA,Great Britain,European Cup,Big Air,11,42.80
+49,Mazet Txema,Male,02-02-2023,Font Romeu,FRA,Great Britain,European Cup,Slopestyle,36,13.30
+50,Mazet Txema,Male,25-01-2023,Prato Nevoso,ITA,Great Britain,European Cup,Slopestyle,19,27.70
+51,Mazet Txema,Male,02-09-2022,Cardrona,NZL,Great Britain,Australian New Zealand Cup,Slopestyle,19,39.10
+52,Mazet Txema,Male,15-03-2022,Laax,SUI,Great Britain,European Cup Premium,Slopestyle,33,8.90
+53,Mazet Txema,Male,13-03-2022,Leysin,SUI,Great Britain,FIS Junior World Championships,Slopestyle,25,41.90
+54,Mazet Txema,Male,10-03-2022,Leysin,SUI,Great Britain,FIS Junior World Championships,Big Air,8,84.20
+55,Mazet Txema,Male,18-02-2022,Davos,SUI,Great Britain,European Cup Premium,Big Air,8,89.80
+56,Mazet Txema,Male,18-01-2022,Livigno,ITA,Great Britain,Junior,Slopestyle,18,7.70
+57,Mazet Txema,Male,09-10-2021,The Remarkables,NZL,Great Britain,FIS,Slopestyle,3,0.10
+58,Mazet Txema,Male,18-09-2021,Cardrona,NZL,Great Britain,FIS,Slopestyle,4,22.10
+59,Mazet Txema,Male,12-09-2020,Cardrona,NZL,Great Britain,FIS,Slopestyle,9,40.60
+60,Mazet Txema,Male,29-02-2020,Park City,USA,Great Britain,FIS,Slopestyle,31,1.40
+61,Mazet Txema,Male,04-10-2019,Cardrona,NZL,Great Britain,FIS,Slopestyle,3,30.00
+62,Mazet Txema,Male,02-10-2019,Cardrona,NZL,Great Britain,Australian New Zealand Cup,Halfpipe,8,51.20

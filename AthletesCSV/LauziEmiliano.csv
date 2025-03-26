@@ -1,142 +1,143 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Lauzi Emiliano,Male,21-03-2025,Engadin,SUI,Italy,World Championships,Slopestyle,29,
-1,Lauzi Emiliano,Male,20-03-2025,Engadin,SUI,Italy,Qualification,Slopestyle,17,
-2,Lauzi Emiliano,Male,15-01-2025,Seiser Alm,ITA,Italy,European Cup,Slopestyle,13,33.40
-3,Lauzi Emiliano,Male,11-01-2025,Kreischberg,AUT,Italy,Qualification,Big Air,22,
-4,Lauzi Emiliano,Male,11-01-2025,Kreischberg,AUT,Italy,World Cup,Big Air,42,60.40
-5,Lauzi Emiliano,Male,05-01-2025,Klagenfurt,AUT,Italy,Qualification,Big Air,16,
-6,Lauzi Emiliano,Male,05-01-2025,Klagenfurt,AUT,Italy,World Cup,Big Air,28,104.30
-7,Lauzi Emiliano,Male,12-04-2024,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,75,35.30
-8,Lauzi Emiliano,Male,06-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Slopestyle,1,200.00
-9,Lauzi Emiliano,Male,05-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Big Air,1,260.00
-10,Lauzi Emiliano,Male,22-01-2023,Laax,SUI,Italy,World Cup,Slopestyle,30,121.20
-11,Lauzi Emiliano,Male,18-01-2023,Laax,SUI,Italy,Qualification,Slopestyle,16,
-12,Lauzi Emiliano,Male,14-01-2023,Kreischberg,AUT,Italy,World Cup,Big Air,6,349.70
-13,Lauzi Emiliano,Male,13-01-2023,Kreischberg,AUT,Italy,Qualification,Big Air,4,
-14,Lauzi Emiliano,Male,17-12-2022,Copper Mountain,USA,Italy,World Cup,Big Air,5,406.00
-15,Lauzi Emiliano,Male,15-12-2022,Copper Mountain,USA,Italy,Qualification,Big Air,5,
-16,Lauzi Emiliano,Male,10-12-2022,Edmonton,CAN,Italy,World Cup,Big Air,46,30.40
-17,Lauzi Emiliano,Male,09-12-2022,Edmonton,CAN,Italy,Qualification,Big Air,24,
-18,Lauzi Emiliano,Male,07-04-2022,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,13,104.80
-19,Lauzi Emiliano,Male,27-03-2022,Silvaplana,SUI,Italy,World Cup,Slopestyle,27,94.90
-20,Lauzi Emiliano,Male,25-03-2022,Silvaplana,SUI,Italy,Qualification,Slopestyle,15,
-21,Lauzi Emiliano,Male,19-03-2022,Spindleruv Mlyn,CZE,Italy,World Cup,Slopestyle,38,11.50
-22,Lauzi Emiliano,Male,18-03-2022,Spindleruv Mlyn,CZE,Italy,Qualification,Slopestyle,19,
-23,Lauzi Emiliano,Male,15-02-2022,Beijing,CHN,Italy,Olympic Winter Games,Big Air,22,66.20
-24,Lauzi Emiliano,Male,14-02-2022,Beijing,CHN,Italy,Qualification,Big Air,22,
-25,Lauzi Emiliano,Male,07-02-2022,Beijing,CHN,Italy,Olympic Winter Games,Slopestyle,5,491.50
-26,Lauzi Emiliano,Male,06-02-2022,Beijing,CHN,Italy,Qualification,Slopestyle,7,
-27,Lauzi Emiliano,Male,23-01-2022,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,5,131.00
-28,Lauzi Emiliano,Male,04-12-2021,Steamboat,USA,Italy,World Cup,Big Air,33,117.10
-29,Lauzi Emiliano,Male,02-12-2021,Steamboat,USA,Italy,Qualification,Big Air,14,
-30,Lauzi Emiliano,Male,23-10-2021,Chur,SUI,Italy,World Cup,Big Air,44,26.30
-31,Lauzi Emiliano,Male,20-04-2021,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,6,176.15
-32,Lauzi Emiliano,Male,28-03-2021,Silvaplana,SUI,Italy,Qualification,Slopestyle,23,
-33,Lauzi Emiliano,Male,28-03-2021,Silvaplana,SUI,Italy,World Cup,Slopestyle,46,59.46
-34,Lauzi Emiliano,Male,20-03-2021,Aspen,USA,Italy,World Cup,Slopestyle,17,197.11
-35,Lauzi Emiliano,Male,19-03-2021,Aspen,USA,Italy,Qualification,Slopestyle,8,
-36,Lauzi Emiliano,Male,16-03-2021,Aspen,USA,Italy,World Championships,Big Air,6,354.05
-37,Lauzi Emiliano,Male,14-03-2021,Aspen,USA,Italy,Qualification,Big Air,5,
-38,Lauzi Emiliano,Male,12-03-2021,Aspen,USA,Italy,World Championships,Slopestyle,26,133.61
-39,Lauzi Emiliano,Male,10-03-2021,Aspen,USA,Italy,Qualification,Slopestyle,11,
-40,Lauzi Emiliano,Male,22-02-2021,Götschen,GER,Italy,European Cup,Big Air,8,69.82
-41,Lauzi Emiliano,Male,21-02-2021,Götschen,GER,Italy,European Cup,Slopestyle,4,106.48
-42,Lauzi Emiliano,Male,19-02-2021,Davos,SUI,Italy,European Cup,Big Air,46,15.05
-43,Lauzi Emiliano,Male,31-01-2021,Crans Montana,SUI,Italy,European Cup,Slopestyle,49,31.65
-44,Lauzi Emiliano,Male,22-01-2021,Laax,SUI,Italy,World Cup,Slopestyle,20,130.73
-45,Lauzi Emiliano,Male,19-01-2021,Laax,SUI,Italy,Qualification,Slopestyle,20,
-46,Lauzi Emiliano,Male,09-01-2021,Kreischberg,AUT,Italy,Qualification,Big Air,12,
-47,Lauzi Emiliano,Male,09-01-2021,Kreischberg,AUT,Italy,World Cup,Big Air,21,171.77
-48,Lauzi Emiliano,Male,22-12-2020,Corvatsch,SUI,Italy,European Cup,Slopestyle,39,22.70
-49,Lauzi Emiliano,Male,26-11-2020,Glacier 3000,SUI,Italy,FIS,Slopestyle,30,31.67
-50,Lauzi Emiliano,Male,21-02-2020,Davos,SUI,Italy,European Cup Premium,Big Air,1,220.00
-51,Lauzi Emiliano,Male,09-02-2020,Mammoth Mountain Ski Resort,USA,Italy,Nor-Am Cup,Big Air,4,100.00
-52,Lauzi Emiliano,Male,07-02-2020,Mammoth Mountain Ski Resort,USA,Italy,Nor-Am Cup,Slopestyle,8,76.80
-53,Lauzi Emiliano,Male,01-02-2020,Mammoth Mountain Resort,USA,Italy,World Cup,Slopestyle,15,160.00
-54,Lauzi Emiliano,Male,30-01-2020,Mammoth Mountain Resort,USA,Italy,Qualification,Slopestyle,5,
-55,Lauzi Emiliano,Male,23-01-2020,Seiseralm,ITA,Italy,World Cup,Slopestyle,6,400.00
-56,Lauzi Emiliano,Male,22-01-2020,Seiseralm,ITA,Italy,Qualification,Slopestyle,9,
-57,Lauzi Emiliano,Male,15-01-2020,Laax,SUI,Italy,World Cup,Slopestyle,44,17.30
-58,Lauzi Emiliano,Male,13-01-2020,Laax,SUI,Italy,Qualification,Slopestyle,23,
-59,Lauzi Emiliano,Male,21-11-2019,Landgraaf,NED,Italy,European Cup,Slopestyle,4,80.00
-60,Lauzi Emiliano,Male,20-11-2019,Landgraaf,NED,Italy,FIS,Slopestyle,13,32.00
-61,Lauzi Emiliano,Male,02-11-2019,Modena SKIPASS,ITA,Italy,World Cup,Big Air,15,160.00
-62,Lauzi Emiliano,Male,16-03-2019,Quebec,CAN,Italy,World Cup,Big Air,15,160.00
-63,Lauzi Emiliano,Male,14-03-2019,Quebec,CAN,Italy,Qualification,Big Air,15,
-64,Lauzi Emiliano,Male,09-03-2019,Mammoth Mountain Resort,USA,Italy,World Cup,Slopestyle,15,160.00
-65,Lauzi Emiliano,Male,07-03-2019,Mammoth Mountain Resort,USA,Italy,Qualification,Slopestyle,2,
-66,Lauzi Emiliano,Male,10-02-2019,Park City,USA,Italy,World Championships,Slopestyle,23,80.00
-67,Lauzi Emiliano,Male,09-02-2019,Park City,USA,Italy,Qualification,Slopestyle,23,
-68,Lauzi Emiliano,Male,26-01-2019,Seiser Alm,ITA,Italy,World Cup,Slopestyle,45,17.00
-69,Lauzi Emiliano,Male,24-01-2019,Seiser Alm,ITA,Italy,Qualification,Slopestyle,12,
-70,Lauzi Emiliano,Male,18-01-2019,Laax,SUI,Italy,World Cup,Slopestyle,27,45.00
-71,Lauzi Emiliano,Male,16-01-2019,Laax,SUI,Italy,Qualification,Slopestyle,15,
-72,Lauzi Emiliano,Male,12-01-2019,Kreischberg,AUT,Italy,World Cup,Slopestyle,13,200.00
-73,Lauzi Emiliano,Male,11-01-2019,Kreischberg,AUT,Italy,Qualification,Slopestyle,7,
-74,Lauzi Emiliano,Male,24-11-2018,Beijing,CHN,Italy,World Cup,Big Air,20,110.00
-75,Lauzi Emiliano,Male,23-11-2018,Beijing,CHN,Italy,Qualification,Big Air,8,
-76,Lauzi Emiliano,Male,03-11-2018,Modena SKIPASS,ITA,Italy,World Cup,Big Air,19,120.00
-77,Lauzi Emiliano,Male,08-09-2018,Cardrona,NZL,Italy,World Cup,Big Air,22,90.00
-78,Lauzi Emiliano,Male,06-09-2018,Cardrona,NZL,Italy,Qualification,Big Air,11,
-79,Lauzi Emiliano,Male,21-04-2018,Corvatsch,SUI,Italy,European Cup,Big Air,14,64.80
-80,Lauzi Emiliano,Male,18-04-2018,Corvatsch,SUI,Italy,European Cup,Slopestyle,8,102.40
-81,Lauzi Emiliano,Male,17-03-2018,Seiser Alm,ITA,Italy,World Cup,Slopestyle,4,500.00
-82,Lauzi Emiliano,Male,16-03-2018,Seiser Alm,ITA,Italy,Qualification,Slopestyle,6,
-83,Lauzi Emiliano,Male,03-03-2018,Götschen,GER,Italy,European Cup,Big Air,11,38.40
-84,Lauzi Emiliano,Male,28-01-2018,Crans Montana,SUI,Italy,European Cup,Big Air,5,72.00
-85,Lauzi Emiliano,Male,22-04-2017,Silvaplana,SUI,Italy,European Cup,Big Air,5,130.50
-86,Lauzi Emiliano,Male,19-04-2017,Silvaplana,SUI,Italy,European Cup,Slopestyle,33,5.76
-87,Lauzi Emiliano,Male,25-03-2017,Spindleruv Mlyn,CZE,Italy,World Cup,Slopestyle,24,70.00
-88,Lauzi Emiliano,Male,24-03-2017,Spindleruv Mlyn,CZE,Italy,Qualification,Slopestyle,14,
-89,Lauzi Emiliano,Male,11-03-2017,Sierra Nevada,ESP,Italy,World Championships,Slopestyle,29,36.00
-90,Lauzi Emiliano,Male,09-03-2017,Sierra Nevada,ESP,Italy,Qualification,Slopestyle,17,
-91,Lauzi Emiliano,Male,12-02-2017,Quebec City,CAN,Italy,World Cup,Slopestyle,27,45.00
-92,Lauzi Emiliano,Male,11-02-2017,Quebec City,CAN,Italy,World Cup,Big Air,14,180.00
-93,Lauzi Emiliano,Male,10-02-2017,Quebec City,CAN,Italy,Qualification,Slopestyle,14,
-94,Lauzi Emiliano,Male,09-02-2017,Quebec City,CAN,Italy,Qualification,Big Air,6,
-95,Lauzi Emiliano,Male,27-01-2017,Seiser Alm,ITA,Italy,World Cup,Slopestyle,36,19.70
-96,Lauzi Emiliano,Male,25-01-2017,Seiser Alm,ITA,Italy,Qualification,Slopestyle,15,
-97,Lauzi Emiliano,Male,20-01-2017,Laax,SUI,Italy,World Cup,Slopestyle,48,16.10
-98,Lauzi Emiliano,Male,17-01-2017,Laax,SUI,Italy,Qualification,Slopestyle,12,
-99,Lauzi Emiliano,Male,14-01-2017,Kreischberg,AUT,Italy,World Cup,Slopestyle,38,19.10
-100,Lauzi Emiliano,Male,13-01-2017,Kreischberg,AUT,Italy,Qualification,Slopestyle,20,
-101,Lauzi Emiliano,Male,17-12-2016,Copper,USA,Italy,World Cup,Big Air,38,19.10
-102,Lauzi Emiliano,Male,15-12-2016,Copper,USA,Italy,Qualification,Big Air,20,
-103,Lauzi Emiliano,Male,03-12-2016,Moenchengladbach,GER,Italy,Qualification,Big Air,17,
-104,Lauzi Emiliano,Male,03-12-2016,Moenchengladbach,GER,Italy,World Cup,Big Air,33,24.00
-105,Lauzi Emiliano,Male,26-11-2016,Alpensia,KOR,Italy,World Cup,Big Air,23,80.00
-106,Lauzi Emiliano,Male,25-11-2016,Alpensia,KOR,Italy,Qualification,Big Air,14,
-107,Lauzi Emiliano,Male,12-11-2016,Milan,ITA,Italy,World Cup,Big Air,33,24.00
-108,Lauzi Emiliano,Male,12-11-2016,Milan,ITA,Italy,Qualification,Big Air,16,
-109,Lauzi Emiliano,Male,22-04-2016,Sils,SUI,Italy,European Cup,Big Air,9,63.80
-110,Lauzi Emiliano,Male,20-04-2016,Sils,SUI,Italy,European Cup,Slopestyle,9,63.80
-111,Lauzi Emiliano,Male,24-03-2016,Rogla,SLO,Italy,European Cup,Slopestyle,4,100.00
-112,Lauzi Emiliano,Male,09-03-2016,Kopaonik,SRB,Italy,European Cup,Big Air,7,72.00
-113,Lauzi Emiliano,Male,08-03-2016,Kopaonik,SRB,Italy,European Cup,Slopestyle,1,200.00
-114,Lauzi Emiliano,Male,21-02-2016,Seiser Alm -Kastelruth,ITA,Italy,European Cup,Slopestyle,17,28.00
-115,Lauzi Emiliano,Male,20-02-2016,Seiser Alm -Kastelruth,ITA,Italy,European Cup,Slopestyle,3,120.00
-116,Lauzi Emiliano,Male,27-01-2016,Vars,FRA,Italy,European Cup,Slopestyle,2,160.00
-117,Lauzi Emiliano,Male,26-01-2016,Vars,FRA,Italy,European Cup,Slopestyle,4,100.00
-118,Lauzi Emiliano,Male,16-01-2016,Davos,SUI,Italy,European Cup,Big Air,1,200.00
-119,Lauzi Emiliano,Male,05-11-2015,Landgraaf,NED,Italy,European Cup,Slopestyle,2,208.00
-120,Lauzi Emiliano,Male,04-11-2015,Landgraaf,NED,Italy,European Cup,Slopestyle,12,57.20
-121,Lauzi Emiliano,Male,18-04-2015,Corvatsch,SUI,Italy,European Cup,Slopestyle,33,8.64
-122,Lauzi Emiliano,Male,24-03-2015,Strbske Pleso,SVK,Italy,European Cup,Slopestyle,10,62.40
-123,Lauzi Emiliano,Male,23-03-2015,Strbske Pleso,SVK,Italy,European Cup,Slopestyle,7,86.40
-124,Lauzi Emiliano,Male,14-03-2015,Spindleruv Mlyn,CZE,Italy,World Cup,Slopestyle,20,110.00
-125,Lauzi Emiliano,Male,13-03-2015,Spindleruv Mlyn,CZE,Italy,Qualification,Slopestyle,20,
-126,Lauzi Emiliano,Male,27-02-2015,Park City,USA,Italy,World Cup,Slopestyle,32,26.00
-127,Lauzi Emiliano,Male,25-02-2015,Park City,USA,Italy,Qualification,Slopestyle,19,
-128,Lauzi Emiliano,Male,21-02-2015,Stoneham,CAN,Italy,World Cup,Slopestyle,20,110.00
-129,Lauzi Emiliano,Male,20-02-2015,Stoneham,CAN,Italy,World Cup,Big Air,28,0.00
-130,Lauzi Emiliano,Male,19-02-2015,Stoneham,CAN,Italy,Qualification,Slopestyle,9,
-131,Lauzi Emiliano,Male,18-02-2015,Stoneham,CAN,Italy,Qualification,Big Air,28,
-132,Lauzi Emiliano,Male,20-12-2014,Istanbul,TUR,Italy,World Cup,Big Air,28,0.00
-133,Lauzi Emiliano,Male,23-03-2014,Strbske Pleso,SVK,Italy,European Cup,Slopestyle,2,288.00
-134,Lauzi Emiliano,Male,22-03-2014,Strbske Pleso,SVK,Italy,European Cup,Slopestyle,3,216.00
-135,Lauzi Emiliano,Male,12-03-2014,Pamporovo,BUL,Italy,European Cup,Slopestyle,7,129.60
-136,Lauzi Emiliano,Male,11-03-2014,Pamporovo,BUL,Italy,European Cup,Slopestyle,12,79.20
-137,Lauzi Emiliano,Male,15-11-2013,Landgraaf,NED,Italy,European Cup,Slopestyle,10,93.60
-138,Lauzi Emiliano,Male,21-03-2013,Rogla,SLO,Italy,European Cup,Slopestyle,15,57.60
-139,Lauzi Emiliano,Male,09-02-2013,Sarajevo-Bjelasnica,BIH,Italy,European Cup,Slopestyle,DNS,
-140,Lauzi Emiliano,Male,27-10-2011,Saas-Fee,SUI,Italy,European Cup,Halfpipe,69,0.00
+0,Lauzi Emiliano,Male,25-03-2025,Engadin,SUI,Italy,Qualification,Big Air,11,
+1,Lauzi Emiliano,Male,21-03-2025,Engadin,SUI,Italy,World Championships,Slopestyle,29,134.10
+2,Lauzi Emiliano,Male,20-03-2025,Engadin,SUI,Italy,Qualification,Slopestyle,17,
+3,Lauzi Emiliano,Male,15-01-2025,Seiser Alm,ITA,Italy,European Cup,Slopestyle,13,33.40
+4,Lauzi Emiliano,Male,11-01-2025,Kreischberg,AUT,Italy,Qualification,Big Air,22,
+5,Lauzi Emiliano,Male,11-01-2025,Kreischberg,AUT,Italy,World Cup,Big Air,42,60.40
+6,Lauzi Emiliano,Male,05-01-2025,Klagenfurt,AUT,Italy,Qualification,Big Air,16,
+7,Lauzi Emiliano,Male,05-01-2025,Klagenfurt,AUT,Italy,World Cup,Big Air,28,104.30
+8,Lauzi Emiliano,Male,12-04-2024,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,75,35.30
+9,Lauzi Emiliano,Male,06-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Slopestyle,1,200.00
+10,Lauzi Emiliano,Male,05-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Big Air,1,260.00
+11,Lauzi Emiliano,Male,22-01-2023,Laax,SUI,Italy,World Cup,Slopestyle,30,121.20
+12,Lauzi Emiliano,Male,18-01-2023,Laax,SUI,Italy,Qualification,Slopestyle,16,
+13,Lauzi Emiliano,Male,14-01-2023,Kreischberg,AUT,Italy,World Cup,Big Air,6,349.70
+14,Lauzi Emiliano,Male,13-01-2023,Kreischberg,AUT,Italy,Qualification,Big Air,4,
+15,Lauzi Emiliano,Male,17-12-2022,Copper Mountain,USA,Italy,World Cup,Big Air,5,406.00
+16,Lauzi Emiliano,Male,15-12-2022,Copper Mountain,USA,Italy,Qualification,Big Air,5,
+17,Lauzi Emiliano,Male,10-12-2022,Edmonton,CAN,Italy,World Cup,Big Air,46,30.40
+18,Lauzi Emiliano,Male,09-12-2022,Edmonton,CAN,Italy,Qualification,Big Air,24,
+19,Lauzi Emiliano,Male,07-04-2022,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,13,104.80
+20,Lauzi Emiliano,Male,27-03-2022,Silvaplana,SUI,Italy,World Cup,Slopestyle,27,94.90
+21,Lauzi Emiliano,Male,25-03-2022,Silvaplana,SUI,Italy,Qualification,Slopestyle,15,
+22,Lauzi Emiliano,Male,19-03-2022,Spindleruv Mlyn,CZE,Italy,World Cup,Slopestyle,38,11.50
+23,Lauzi Emiliano,Male,18-03-2022,Spindleruv Mlyn,CZE,Italy,Qualification,Slopestyle,19,
+24,Lauzi Emiliano,Male,15-02-2022,Beijing,CHN,Italy,Olympic Winter Games,Big Air,22,66.20
+25,Lauzi Emiliano,Male,14-02-2022,Beijing,CHN,Italy,Qualification,Big Air,22,
+26,Lauzi Emiliano,Male,07-02-2022,Beijing,CHN,Italy,Olympic Winter Games,Slopestyle,5,491.50
+27,Lauzi Emiliano,Male,06-02-2022,Beijing,CHN,Italy,Qualification,Slopestyle,7,
+28,Lauzi Emiliano,Male,23-01-2022,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,5,131.00
+29,Lauzi Emiliano,Male,04-12-2021,Steamboat,USA,Italy,World Cup,Big Air,33,117.10
+30,Lauzi Emiliano,Male,02-12-2021,Steamboat,USA,Italy,Qualification,Big Air,14,
+31,Lauzi Emiliano,Male,23-10-2021,Chur,SUI,Italy,World Cup,Big Air,44,26.30
+32,Lauzi Emiliano,Male,20-04-2021,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,6,176.15
+33,Lauzi Emiliano,Male,28-03-2021,Silvaplana,SUI,Italy,Qualification,Slopestyle,23,
+34,Lauzi Emiliano,Male,28-03-2021,Silvaplana,SUI,Italy,World Cup,Slopestyle,46,59.46
+35,Lauzi Emiliano,Male,20-03-2021,Aspen,USA,Italy,World Cup,Slopestyle,17,197.11
+36,Lauzi Emiliano,Male,19-03-2021,Aspen,USA,Italy,Qualification,Slopestyle,8,
+37,Lauzi Emiliano,Male,16-03-2021,Aspen,USA,Italy,World Championships,Big Air,6,354.05
+38,Lauzi Emiliano,Male,14-03-2021,Aspen,USA,Italy,Qualification,Big Air,5,
+39,Lauzi Emiliano,Male,12-03-2021,Aspen,USA,Italy,World Championships,Slopestyle,26,133.61
+40,Lauzi Emiliano,Male,10-03-2021,Aspen,USA,Italy,Qualification,Slopestyle,11,
+41,Lauzi Emiliano,Male,22-02-2021,Götschen,GER,Italy,European Cup,Big Air,8,69.82
+42,Lauzi Emiliano,Male,21-02-2021,Götschen,GER,Italy,European Cup,Slopestyle,4,106.48
+43,Lauzi Emiliano,Male,19-02-2021,Davos,SUI,Italy,European Cup,Big Air,46,15.05
+44,Lauzi Emiliano,Male,31-01-2021,Crans Montana,SUI,Italy,European Cup,Slopestyle,49,31.65
+45,Lauzi Emiliano,Male,22-01-2021,Laax,SUI,Italy,World Cup,Slopestyle,20,130.73
+46,Lauzi Emiliano,Male,19-01-2021,Laax,SUI,Italy,Qualification,Slopestyle,20,
+47,Lauzi Emiliano,Male,09-01-2021,Kreischberg,AUT,Italy,Qualification,Big Air,12,
+48,Lauzi Emiliano,Male,09-01-2021,Kreischberg,AUT,Italy,World Cup,Big Air,21,171.77
+49,Lauzi Emiliano,Male,22-12-2020,Corvatsch,SUI,Italy,European Cup,Slopestyle,39,22.70
+50,Lauzi Emiliano,Male,26-11-2020,Glacier 3000,SUI,Italy,FIS,Slopestyle,30,31.67
+51,Lauzi Emiliano,Male,21-02-2020,Davos,SUI,Italy,European Cup Premium,Big Air,1,220.00
+52,Lauzi Emiliano,Male,09-02-2020,Mammoth Mountain Ski Resort,USA,Italy,Nor-Am Cup,Big Air,4,100.00
+53,Lauzi Emiliano,Male,07-02-2020,Mammoth Mountain Ski Resort,USA,Italy,Nor-Am Cup,Slopestyle,8,76.80
+54,Lauzi Emiliano,Male,01-02-2020,Mammoth Mountain Resort,USA,Italy,World Cup,Slopestyle,15,160.00
+55,Lauzi Emiliano,Male,30-01-2020,Mammoth Mountain Resort,USA,Italy,Qualification,Slopestyle,5,
+56,Lauzi Emiliano,Male,23-01-2020,Seiseralm,ITA,Italy,World Cup,Slopestyle,6,400.00
+57,Lauzi Emiliano,Male,22-01-2020,Seiseralm,ITA,Italy,Qualification,Slopestyle,9,
+58,Lauzi Emiliano,Male,15-01-2020,Laax,SUI,Italy,World Cup,Slopestyle,44,17.30
+59,Lauzi Emiliano,Male,13-01-2020,Laax,SUI,Italy,Qualification,Slopestyle,23,
+60,Lauzi Emiliano,Male,21-11-2019,Landgraaf,NED,Italy,European Cup,Slopestyle,4,80.00
+61,Lauzi Emiliano,Male,20-11-2019,Landgraaf,NED,Italy,FIS,Slopestyle,13,32.00
+62,Lauzi Emiliano,Male,02-11-2019,Modena SKIPASS,ITA,Italy,World Cup,Big Air,15,160.00
+63,Lauzi Emiliano,Male,16-03-2019,Quebec,CAN,Italy,World Cup,Big Air,15,160.00
+64,Lauzi Emiliano,Male,14-03-2019,Quebec,CAN,Italy,Qualification,Big Air,15,
+65,Lauzi Emiliano,Male,09-03-2019,Mammoth Mountain Resort,USA,Italy,World Cup,Slopestyle,15,160.00
+66,Lauzi Emiliano,Male,07-03-2019,Mammoth Mountain Resort,USA,Italy,Qualification,Slopestyle,2,
+67,Lauzi Emiliano,Male,10-02-2019,Park City,USA,Italy,World Championships,Slopestyle,23,80.00
+68,Lauzi Emiliano,Male,09-02-2019,Park City,USA,Italy,Qualification,Slopestyle,23,
+69,Lauzi Emiliano,Male,26-01-2019,Seiser Alm,ITA,Italy,World Cup,Slopestyle,45,17.00
+70,Lauzi Emiliano,Male,24-01-2019,Seiser Alm,ITA,Italy,Qualification,Slopestyle,12,
+71,Lauzi Emiliano,Male,18-01-2019,Laax,SUI,Italy,World Cup,Slopestyle,27,45.00
+72,Lauzi Emiliano,Male,16-01-2019,Laax,SUI,Italy,Qualification,Slopestyle,15,
+73,Lauzi Emiliano,Male,12-01-2019,Kreischberg,AUT,Italy,World Cup,Slopestyle,13,200.00
+74,Lauzi Emiliano,Male,11-01-2019,Kreischberg,AUT,Italy,Qualification,Slopestyle,7,
+75,Lauzi Emiliano,Male,24-11-2018,Beijing,CHN,Italy,World Cup,Big Air,20,110.00
+76,Lauzi Emiliano,Male,23-11-2018,Beijing,CHN,Italy,Qualification,Big Air,8,
+77,Lauzi Emiliano,Male,03-11-2018,Modena SKIPASS,ITA,Italy,World Cup,Big Air,19,120.00
+78,Lauzi Emiliano,Male,08-09-2018,Cardrona,NZL,Italy,World Cup,Big Air,22,90.00
+79,Lauzi Emiliano,Male,06-09-2018,Cardrona,NZL,Italy,Qualification,Big Air,11,
+80,Lauzi Emiliano,Male,21-04-2018,Corvatsch,SUI,Italy,European Cup,Big Air,14,64.80
+81,Lauzi Emiliano,Male,18-04-2018,Corvatsch,SUI,Italy,European Cup,Slopestyle,8,102.40
+82,Lauzi Emiliano,Male,17-03-2018,Seiser Alm,ITA,Italy,World Cup,Slopestyle,4,500.00
+83,Lauzi Emiliano,Male,16-03-2018,Seiser Alm,ITA,Italy,Qualification,Slopestyle,6,
+84,Lauzi Emiliano,Male,03-03-2018,Götschen,GER,Italy,European Cup,Big Air,11,38.40
+85,Lauzi Emiliano,Male,28-01-2018,Crans Montana,SUI,Italy,European Cup,Big Air,5,72.00
+86,Lauzi Emiliano,Male,22-04-2017,Silvaplana,SUI,Italy,European Cup,Big Air,5,130.50
+87,Lauzi Emiliano,Male,19-04-2017,Silvaplana,SUI,Italy,European Cup,Slopestyle,33,5.76
+88,Lauzi Emiliano,Male,25-03-2017,Spindleruv Mlyn,CZE,Italy,World Cup,Slopestyle,24,70.00
+89,Lauzi Emiliano,Male,24-03-2017,Spindleruv Mlyn,CZE,Italy,Qualification,Slopestyle,14,
+90,Lauzi Emiliano,Male,11-03-2017,Sierra Nevada,ESP,Italy,World Championships,Slopestyle,29,36.00
+91,Lauzi Emiliano,Male,09-03-2017,Sierra Nevada,ESP,Italy,Qualification,Slopestyle,17,
+92,Lauzi Emiliano,Male,12-02-2017,Quebec City,CAN,Italy,World Cup,Slopestyle,27,45.00
+93,Lauzi Emiliano,Male,11-02-2017,Quebec City,CAN,Italy,World Cup,Big Air,14,180.00
+94,Lauzi Emiliano,Male,10-02-2017,Quebec City,CAN,Italy,Qualification,Slopestyle,14,
+95,Lauzi Emiliano,Male,09-02-2017,Quebec City,CAN,Italy,Qualification,Big Air,6,
+96,Lauzi Emiliano,Male,27-01-2017,Seiser Alm,ITA,Italy,World Cup,Slopestyle,36,19.70
+97,Lauzi Emiliano,Male,25-01-2017,Seiser Alm,ITA,Italy,Qualification,Slopestyle,15,
+98,Lauzi Emiliano,Male,20-01-2017,Laax,SUI,Italy,World Cup,Slopestyle,48,16.10
+99,Lauzi Emiliano,Male,17-01-2017,Laax,SUI,Italy,Qualification,Slopestyle,12,
+100,Lauzi Emiliano,Male,14-01-2017,Kreischberg,AUT,Italy,World Cup,Slopestyle,38,19.10
+101,Lauzi Emiliano,Male,13-01-2017,Kreischberg,AUT,Italy,Qualification,Slopestyle,20,
+102,Lauzi Emiliano,Male,17-12-2016,Copper,USA,Italy,World Cup,Big Air,38,19.10
+103,Lauzi Emiliano,Male,15-12-2016,Copper,USA,Italy,Qualification,Big Air,20,
+104,Lauzi Emiliano,Male,03-12-2016,Moenchengladbach,GER,Italy,Qualification,Big Air,17,
+105,Lauzi Emiliano,Male,03-12-2016,Moenchengladbach,GER,Italy,World Cup,Big Air,33,24.00
+106,Lauzi Emiliano,Male,26-11-2016,Alpensia,KOR,Italy,World Cup,Big Air,23,80.00
+107,Lauzi Emiliano,Male,25-11-2016,Alpensia,KOR,Italy,Qualification,Big Air,14,
+108,Lauzi Emiliano,Male,12-11-2016,Milan,ITA,Italy,World Cup,Big Air,33,24.00
+109,Lauzi Emiliano,Male,12-11-2016,Milan,ITA,Italy,Qualification,Big Air,16,
+110,Lauzi Emiliano,Male,22-04-2016,Sils,SUI,Italy,European Cup,Big Air,9,63.80
+111,Lauzi Emiliano,Male,20-04-2016,Sils,SUI,Italy,European Cup,Slopestyle,9,63.80
+112,Lauzi Emiliano,Male,24-03-2016,Rogla,SLO,Italy,European Cup,Slopestyle,4,100.00
+113,Lauzi Emiliano,Male,09-03-2016,Kopaonik,SRB,Italy,European Cup,Big Air,7,72.00
+114,Lauzi Emiliano,Male,08-03-2016,Kopaonik,SRB,Italy,European Cup,Slopestyle,1,200.00
+115,Lauzi Emiliano,Male,21-02-2016,Seiser Alm -Kastelruth,ITA,Italy,European Cup,Slopestyle,17,28.00
+116,Lauzi Emiliano,Male,20-02-2016,Seiser Alm -Kastelruth,ITA,Italy,European Cup,Slopestyle,3,120.00
+117,Lauzi Emiliano,Male,27-01-2016,Vars,FRA,Italy,European Cup,Slopestyle,2,160.00
+118,Lauzi Emiliano,Male,26-01-2016,Vars,FRA,Italy,European Cup,Slopestyle,4,100.00
+119,Lauzi Emiliano,Male,16-01-2016,Davos,SUI,Italy,European Cup,Big Air,1,200.00
+120,Lauzi Emiliano,Male,05-11-2015,Landgraaf,NED,Italy,European Cup,Slopestyle,2,208.00
+121,Lauzi Emiliano,Male,04-11-2015,Landgraaf,NED,Italy,European Cup,Slopestyle,12,57.20
+122,Lauzi Emiliano,Male,18-04-2015,Corvatsch,SUI,Italy,European Cup,Slopestyle,33,8.64
+123,Lauzi Emiliano,Male,24-03-2015,Strbske Pleso,SVK,Italy,European Cup,Slopestyle,10,62.40
+124,Lauzi Emiliano,Male,23-03-2015,Strbske Pleso,SVK,Italy,European Cup,Slopestyle,7,86.40
+125,Lauzi Emiliano,Male,14-03-2015,Spindleruv Mlyn,CZE,Italy,World Cup,Slopestyle,20,110.00
+126,Lauzi Emiliano,Male,13-03-2015,Spindleruv Mlyn,CZE,Italy,Qualification,Slopestyle,20,
+127,Lauzi Emiliano,Male,27-02-2015,Park City,USA,Italy,World Cup,Slopestyle,32,26.00
+128,Lauzi Emiliano,Male,25-02-2015,Park City,USA,Italy,Qualification,Slopestyle,19,
+129,Lauzi Emiliano,Male,21-02-2015,Stoneham,CAN,Italy,World Cup,Slopestyle,20,110.00
+130,Lauzi Emiliano,Male,20-02-2015,Stoneham,CAN,Italy,World Cup,Big Air,28,0.00
+131,Lauzi Emiliano,Male,19-02-2015,Stoneham,CAN,Italy,Qualification,Slopestyle,9,
+132,Lauzi Emiliano,Male,18-02-2015,Stoneham,CAN,Italy,Qualification,Big Air,28,
+133,Lauzi Emiliano,Male,20-12-2014,Istanbul,TUR,Italy,World Cup,Big Air,28,0.00
+134,Lauzi Emiliano,Male,23-03-2014,Strbske Pleso,SVK,Italy,European Cup,Slopestyle,2,288.00
+135,Lauzi Emiliano,Male,22-03-2014,Strbske Pleso,SVK,Italy,European Cup,Slopestyle,3,216.00
+136,Lauzi Emiliano,Male,12-03-2014,Pamporovo,BUL,Italy,European Cup,Slopestyle,7,129.60
+137,Lauzi Emiliano,Male,11-03-2014,Pamporovo,BUL,Italy,European Cup,Slopestyle,12,79.20
+138,Lauzi Emiliano,Male,15-11-2013,Landgraaf,NED,Italy,European Cup,Slopestyle,10,93.60
+139,Lauzi Emiliano,Male,21-03-2013,Rogla,SLO,Italy,European Cup,Slopestyle,15,57.60
+140,Lauzi Emiliano,Male,09-02-2013,Sarajevo-Bjelasnica,BIH,Italy,European Cup,Slopestyle,DNS,
+141,Lauzi Emiliano,Male,27-10-2011,Saas-Fee,SUI,Italy,European Cup,Halfpipe,69,0.00
