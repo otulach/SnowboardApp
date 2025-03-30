@@ -1,71 +1,73 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Coady Tess,Female,21-03-2025,Engadin,SUI,Australia,World Championships,Slopestyle,12,206.30
-1,Coady Tess,Female,20-03-2025,Engadin,SUI,Australia,Qualification,Slopestyle,7,
-2,Coady Tess,Female,14-03-2025,Flachau,AUT,Australia,World Cup,Slopestyle,6,424.60
-3,Coady Tess,Female,13-03-2025,Flachau,AUT,Australia,Qualification,Slopestyle,3,
-4,Coady Tess,Female,22-02-2025,Calgary,CAN,Australia,World Cup,Slopestyle,4,462.00
-5,Coady Tess,Female,20-02-2025,Calgary,CAN,Australia,Qualification,Slopestyle,3,
-6,Coady Tess,Female,20-01-2024,Laax,SUI,Australia,World Cup,Slopestyle,4,576.50
-7,Coady Tess,Female,16-01-2024,Laax,SUI,Australia,Qualification,Slopestyle,2,
-8,Coady Tess,Female,02-12-2023,Beijing,CHN,Australia,World Cup,Big Air,2,803.10
-9,Coady Tess,Female,01-12-2023,Beijing,CHN,Australia,Qualification,Big Air,6,
-10,Coady Tess,Female,25-03-2023,Silvaplana,SUI,Australia,World Cup,Slopestyle,2,812.70
-11,Coady Tess,Female,23-03-2023,Silvaplana,SUI,Australia,Qualification,Slopestyle,6,
-12,Coady Tess,Female,04-03-2023,Bakuriani,GEO,Australia,World Championships,Big Air,3,680.80
-13,Coady Tess,Female,02-03-2023,Bakuriani,GEO,Australia,Qualification,Big Air,8,
-14,Coady Tess,Female,27-02-2023,Bakuriani,GEO,Australia,Qualification,Slopestyle,6,
-15,Coady Tess,Female,27-02-2023,Bakuriani,GEO,Australia,World Championships,Slopestyle,4,577.50
-16,Coady Tess,Female,22-01-2023,Laax,SUI,Australia,World Cup,Slopestyle,12,195.90
-17,Coady Tess,Female,20-01-2023,Laax,SUI,Australia,Qualification,Slopestyle,12,
-18,Coady Tess,Female,14-01-2023,Kreischberg,AUT,Australia,Qualification,Big Air,9,
-19,Coady Tess,Female,14-01-2023,Kreischberg,AUT,Australia,World Cup,Big Air,9,255.00
-20,Coady Tess,Female,27-03-2022,Silvaplana,SUI,Australia,World Cup,Slopestyle,4,561.40
-21,Coady Tess,Female,25-03-2022,Silvaplana,SUI,Australia,Qualification,Slopestyle,4,
-22,Coady Tess,Female,15-02-2022,Beijing,CHN,Australia,Olympic Winter Games,Big Air,9,280.00
-23,Coady Tess,Female,14-02-2022,Beijing,CHN,Australia,Qualification,Big Air,7,
-24,Coady Tess,Female,06-02-2022,Beijing,CHN,Australia,Olympic Winter Games,Slopestyle,3,686.40
-25,Coady Tess,Female,05-02-2022,Beijing,CHN,Australia,Qualification,Slopestyle,8,
-26,Coady Tess,Female,15-01-2022,Laax,SUI,Australia,World Cup,Slopestyle,1,800.00
-27,Coady Tess,Female,14-01-2022,Laax,SUI,Australia,Qualification,Slopestyle,1,
-28,Coady Tess,Female,04-12-2021,Steamboat,USA,Australia,World Cup,Big Air,DNS,
-29,Coady Tess,Female,02-12-2021,Steamboat,USA,Australia,Qualification,Big Air,DNS,
-30,Coady Tess,Female,28-03-2021,Silvaplana,SUI,Australia,World Cup,Slopestyle,3,410.36
-31,Coady Tess,Female,28-03-2021,Silvaplana,SUI,Australia,Qualification,Slopestyle,1,
-32,Coady Tess,Female,20-03-2021,Aspen,USA,Australia,World Cup,Slopestyle,5,491.40
-33,Coady Tess,Female,19-03-2021,Aspen,USA,Australia,Qualification,Slopestyle,8,
-34,Coady Tess,Female,16-03-2021,Aspen,USA,Australia,World Championships,Big Air,5,485.74
-35,Coady Tess,Female,14-03-2021,Aspen,USA,Australia,Qualification,Big Air,6,
-36,Coady Tess,Female,12-03-2021,Aspen,USA,Australia,World Championships,Slopestyle,3,685.61
-37,Coady Tess,Female,10-03-2021,Aspen,USA,Australia,Qualification,Slopestyle,3,
-38,Coady Tess,Female,22-01-2021,Laax,SUI,Australia,World Cup,Slopestyle,3,549.07
-39,Coady Tess,Female,20-01-2021,Laax,SUI,Australia,Qualification,Slopestyle,6,
-40,Coady Tess,Female,09-01-2021,Kreischberg,AUT,Australia,World Cup,Big Air,22,66.19
-41,Coady Tess,Female,07-01-2021,Kreischberg ,AUT,Australia,Qualification,Big Air,22,
-42,Coady Tess,Female,22-12-2020,Corvatsch,SUI,Australia,European Cup,Slopestyle,1,360.00
-43,Coady Tess,Female,23-01-2020,Seiseralm,ITA,Australia,World Cup,Slopestyle,1,1000.00
-44,Coady Tess,Female,22-01-2020,Seiseralm,ITA,Australia,Qualification,Slopestyle,3,
-45,Coady Tess,Female,02-11-2019,Modena SKIPASS,ITA,Australia,World Cup,Big Air,11,240.00
-46,Coady Tess,Female,01-11-2019,Modena SKIPASS,ITA,Australia,Qualification,Big Air,11,
-47,Coady Tess,Female,12-01-2018,Snowmass,USA,Australia,World Cup,Slopestyle,3,600.00
-48,Coady Tess,Female,10-01-2018,Snowmass,USA,Australia,Qualification,Slopestyle,6,
-49,Coady Tess,Female,10-12-2017,Copper Mountain Resort,USA,Australia,World Cup,Big Air,10,260.00
-50,Coady Tess,Female,08-12-2017,Copper Mountain Resort,USA,Australia,Qualification,Big Air,6,
-51,Coady Tess,Female,11-11-2017,Milan,ITA,Australia,World Cup,Big Air,11,240.00
-52,Coady Tess,Female,04-09-2017,Cardrona,NZL,Australia,World Cup,Slopestyle,17,140.00
-53,Coady Tess,Female,03-09-2017,Cardrona,NZL,Australia,Qualification,Slopestyle,9,
-54,Coady Tess,Female,17-08-2017,Cardrona,NZL,Australia,Australian New Zealand Cup,Slopestyle,DNS,
-55,Coady Tess,Female,01-04-2017,Spindleruv Mlyn,CZE,Australia,FIS Junior World Championships,Big Air,1,240.00
-56,Coady Tess,Female,31-03-2017,Spindleruv Mlyn,CZE,Australia,FIS Junior World Championships,Slopestyle,1,240.00
-57,Coady Tess,Female,30-03-2017,Spindleruv Mlyn,CZE,Australia,Qualification,Slopestyle,1,
-58,Coady Tess,Female,29-03-2017,Spindleruv Mlyn,CZE,Australia,Qualification,Big Air,2,
-59,Coady Tess,Female,25-03-2017,Spindleruv Mlyn,CZE,Australia,World Cup,Slopestyle,6,400.00
-60,Coady Tess,Female,24-03-2017,Spindleruv Mlyn,CZE,Australia,Qualification,Slopestyle,2,
-61,Coady Tess,Female,17-03-2017,Sierra Nevada,ESP,Australia,World Championships,Big Air,21,100.00
-62,Coady Tess,Female,16-03-2017,Sierra Nevada,ESP,Australia,Qualification,Big Air,9,
-63,Coady Tess,Female,11-03-2017,Sierra Nevada,ESP,Australia,World Championships,Slopestyle,11,240.00
-64,Coady Tess,Female,09-03-2017,Sierra Nevada,ESP,Australia,Qualification,Slopestyle,11,
-65,Coady Tess,Female,12-02-2017,Mammoth Mountain Ski Resort,USA,Australia,FIS,Slopestyle,8,64.00
-66,Coady Tess,Female,04-02-2017,Mammoth Mountain Resort,USA,Australia,World Cup,Slopestyle,6,400.00
-67,Coady Tess,Female,01-02-2017,Mammoth Mountain Resort,USA,Australia,Qualification,Slopestyle,4,
-68,Coady Tess,Female,16-08-2015,Perisher,AUS,Australia,National Junior Championships,Halfpipe,3,30.00
-69,Coady Tess,Female,14-08-2015,Perisher,AUS,Australia,National Junior Championships,Slopestyle,3,30.00
+0,Coady Tess,Female,28-03-2025,Engadin,SUI,Australia,World Championships,Big Air,23,
+1,Coady Tess,Female,26-03-2025,Engadin,SUI,Australia,Qualification,Big Air,23,
+2,Coady Tess,Female,21-03-2025,Engadin,SUI,Australia,World Championships,Slopestyle,12,206.30
+3,Coady Tess,Female,20-03-2025,Engadin,SUI,Australia,Qualification,Slopestyle,7,
+4,Coady Tess,Female,14-03-2025,Flachau,AUT,Australia,World Cup,Slopestyle,6,424.60
+5,Coady Tess,Female,13-03-2025,Flachau,AUT,Australia,Qualification,Slopestyle,3,
+6,Coady Tess,Female,22-02-2025,Calgary,CAN,Australia,World Cup,Slopestyle,4,462.00
+7,Coady Tess,Female,20-02-2025,Calgary,CAN,Australia,Qualification,Slopestyle,3,
+8,Coady Tess,Female,20-01-2024,Laax,SUI,Australia,World Cup,Slopestyle,4,576.50
+9,Coady Tess,Female,16-01-2024,Laax,SUI,Australia,Qualification,Slopestyle,2,
+10,Coady Tess,Female,02-12-2023,Beijing,CHN,Australia,World Cup,Big Air,2,803.10
+11,Coady Tess,Female,01-12-2023,Beijing,CHN,Australia,Qualification,Big Air,6,
+12,Coady Tess,Female,25-03-2023,Silvaplana,SUI,Australia,World Cup,Slopestyle,2,812.70
+13,Coady Tess,Female,23-03-2023,Silvaplana,SUI,Australia,Qualification,Slopestyle,6,
+14,Coady Tess,Female,04-03-2023,Bakuriani,GEO,Australia,World Championships,Big Air,3,680.80
+15,Coady Tess,Female,02-03-2023,Bakuriani,GEO,Australia,Qualification,Big Air,8,
+16,Coady Tess,Female,27-02-2023,Bakuriani,GEO,Australia,Qualification,Slopestyle,6,
+17,Coady Tess,Female,27-02-2023,Bakuriani,GEO,Australia,World Championships,Slopestyle,4,577.50
+18,Coady Tess,Female,22-01-2023,Laax,SUI,Australia,World Cup,Slopestyle,12,195.90
+19,Coady Tess,Female,20-01-2023,Laax,SUI,Australia,Qualification,Slopestyle,12,
+20,Coady Tess,Female,14-01-2023,Kreischberg,AUT,Australia,World Cup,Big Air,9,255.00
+21,Coady Tess,Female,14-01-2023,Kreischberg,AUT,Australia,Qualification,Big Air,9,
+22,Coady Tess,Female,27-03-2022,Silvaplana,SUI,Australia,World Cup,Slopestyle,4,561.40
+23,Coady Tess,Female,25-03-2022,Silvaplana,SUI,Australia,Qualification,Slopestyle,4,
+24,Coady Tess,Female,15-02-2022,Beijing,CHN,Australia,Olympic Winter Games,Big Air,9,280.00
+25,Coady Tess,Female,14-02-2022,Beijing,CHN,Australia,Qualification,Big Air,7,
+26,Coady Tess,Female,06-02-2022,Beijing,CHN,Australia,Olympic Winter Games,Slopestyle,3,686.40
+27,Coady Tess,Female,05-02-2022,Beijing,CHN,Australia,Qualification,Slopestyle,8,
+28,Coady Tess,Female,15-01-2022,Laax,SUI,Australia,World Cup,Slopestyle,1,800.00
+29,Coady Tess,Female,14-01-2022,Laax,SUI,Australia,Qualification,Slopestyle,1,
+30,Coady Tess,Female,04-12-2021,Steamboat,USA,Australia,World Cup,Big Air,DNS,
+31,Coady Tess,Female,02-12-2021,Steamboat,USA,Australia,Qualification,Big Air,DNS,
+32,Coady Tess,Female,28-03-2021,Silvaplana,SUI,Australia,Qualification,Slopestyle,1,
+33,Coady Tess,Female,28-03-2021,Silvaplana,SUI,Australia,World Cup,Slopestyle,3,410.36
+34,Coady Tess,Female,20-03-2021,Aspen,USA,Australia,World Cup,Slopestyle,5,491.40
+35,Coady Tess,Female,19-03-2021,Aspen,USA,Australia,Qualification,Slopestyle,8,
+36,Coady Tess,Female,16-03-2021,Aspen,USA,Australia,World Championships,Big Air,5,485.74
+37,Coady Tess,Female,14-03-2021,Aspen,USA,Australia,Qualification,Big Air,6,
+38,Coady Tess,Female,12-03-2021,Aspen,USA,Australia,World Championships,Slopestyle,3,685.61
+39,Coady Tess,Female,10-03-2021,Aspen,USA,Australia,Qualification,Slopestyle,3,
+40,Coady Tess,Female,22-01-2021,Laax,SUI,Australia,World Cup,Slopestyle,3,549.07
+41,Coady Tess,Female,20-01-2021,Laax,SUI,Australia,Qualification,Slopestyle,6,
+42,Coady Tess,Female,09-01-2021,Kreischberg,AUT,Australia,World Cup,Big Air,22,66.19
+43,Coady Tess,Female,07-01-2021,Kreischberg ,AUT,Australia,Qualification,Big Air,22,
+44,Coady Tess,Female,22-12-2020,Corvatsch,SUI,Australia,European Cup,Slopestyle,1,360.00
+45,Coady Tess,Female,23-01-2020,Seiseralm,ITA,Australia,World Cup,Slopestyle,1,1000.00
+46,Coady Tess,Female,22-01-2020,Seiseralm,ITA,Australia,Qualification,Slopestyle,3,
+47,Coady Tess,Female,02-11-2019,Modena SKIPASS,ITA,Australia,World Cup,Big Air,11,240.00
+48,Coady Tess,Female,01-11-2019,Modena SKIPASS,ITA,Australia,Qualification,Big Air,11,
+49,Coady Tess,Female,12-01-2018,Snowmass,USA,Australia,World Cup,Slopestyle,3,600.00
+50,Coady Tess,Female,10-01-2018,Snowmass,USA,Australia,Qualification,Slopestyle,6,
+51,Coady Tess,Female,10-12-2017,Copper Mountain Resort,USA,Australia,World Cup,Big Air,10,260.00
+52,Coady Tess,Female,08-12-2017,Copper Mountain Resort,USA,Australia,Qualification,Big Air,6,
+53,Coady Tess,Female,11-11-2017,Milan,ITA,Australia,World Cup,Big Air,11,240.00
+54,Coady Tess,Female,04-09-2017,Cardrona,NZL,Australia,World Cup,Slopestyle,17,140.00
+55,Coady Tess,Female,03-09-2017,Cardrona,NZL,Australia,Qualification,Slopestyle,9,
+56,Coady Tess,Female,17-08-2017,Cardrona,NZL,Australia,Australian New Zealand Cup,Slopestyle,DNS,
+57,Coady Tess,Female,01-04-2017,Spindleruv Mlyn,CZE,Australia,FIS Junior World Championships,Big Air,1,240.00
+58,Coady Tess,Female,31-03-2017,Spindleruv Mlyn,CZE,Australia,FIS Junior World Championships,Slopestyle,1,240.00
+59,Coady Tess,Female,30-03-2017,Spindleruv Mlyn,CZE,Australia,Qualification,Slopestyle,1,
+60,Coady Tess,Female,29-03-2017,Spindleruv Mlyn,CZE,Australia,Qualification,Big Air,2,
+61,Coady Tess,Female,25-03-2017,Spindleruv Mlyn,CZE,Australia,World Cup,Slopestyle,6,400.00
+62,Coady Tess,Female,24-03-2017,Spindleruv Mlyn,CZE,Australia,Qualification,Slopestyle,2,
+63,Coady Tess,Female,17-03-2017,Sierra Nevada,ESP,Australia,World Championships,Big Air,21,100.00
+64,Coady Tess,Female,16-03-2017,Sierra Nevada,ESP,Australia,Qualification,Big Air,9,
+65,Coady Tess,Female,11-03-2017,Sierra Nevada,ESP,Australia,World Championships,Slopestyle,11,240.00
+66,Coady Tess,Female,09-03-2017,Sierra Nevada,ESP,Australia,Qualification,Slopestyle,11,
+67,Coady Tess,Female,12-02-2017,Mammoth Mountain Ski Resort,USA,Australia,FIS,Slopestyle,8,64.00
+68,Coady Tess,Female,04-02-2017,Mammoth Mountain Resort,USA,Australia,World Cup,Slopestyle,6,400.00
+69,Coady Tess,Female,01-02-2017,Mammoth Mountain Resort,USA,Australia,Qualification,Slopestyle,4,
+70,Coady Tess,Female,16-08-2015,Perisher,AUS,Australia,National Junior Championships,Halfpipe,3,30.00
+71,Coady Tess,Female,14-08-2015,Perisher,AUS,Australia,National Junior Championships,Slopestyle,3,30.00

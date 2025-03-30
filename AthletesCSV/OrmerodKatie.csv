@@ -1,94 +1,96 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Ormerod Katie,Female,21-03-2025,Engadin,SUI,Great Britain,World Championships,Slopestyle,16,142.60
-1,Ormerod Katie,Female,20-03-2025,Engadin,SUI,Great Britain,Qualification,Slopestyle,16,
-2,Ormerod Katie,Female,19-10-2024,Chur,SUI,Great Britain,World Cup,Big Air,16,138.30
-3,Ormerod Katie,Female,23-03-2024,Silvaplana,SUI,Great Britain,World Cup,Slopestyle,DNS,
-4,Ormerod Katie,Female,21-03-2024,Silvaplana,SUI,Great Britain,Qualification,Slopestyle,DNS,
-5,Ormerod Katie,Female,20-01-2024,Laax,SUI,Great Britain,World Cup,Slopestyle,12,195.90
-6,Ormerod Katie,Female,16-01-2024,Laax,SUI,Great Britain,Qualification,Slopestyle,12,
-7,Ormerod Katie,Female,27-03-2022,Silvaplana,SUI,Great Britain,World Cup,Slopestyle,8,280.10
-8,Ormerod Katie,Female,25-03-2022,Silvaplana,SUI,Great Britain,Qualification,Slopestyle,8,
-9,Ormerod Katie,Female,19-03-2022,Spindleruv Mlyn,CZE,Great Britain,World Cup,Slopestyle,8,138.30
-10,Ormerod Katie,Female,18-03-2022,Spindleruv Mlyn,CZE,Great Britain,Qualification,Slopestyle,7,
-11,Ormerod Katie,Female,15-02-2022,Beijing,CHN,Great Britain,Olympic Winter Games,Big Air,25,37.30
-12,Ormerod Katie,Female,14-02-2022,Beijing,CHN,Great Britain,Qualification,Big Air,25,
-13,Ormerod Katie,Female,06-02-2022,Beijing,CHN,Great Britain,Olympic Winter Games,Slopestyle,18,103.00
-14,Ormerod Katie,Female,05-02-2022,Beijing,CHN,Great Britain,Qualification,Slopestyle,18,
-15,Ormerod Katie,Female,15-01-2022,Laax,SUI,Great Britain,World Cup,Slopestyle,11,182.60
-16,Ormerod Katie,Female,14-01-2022,Laax,SUI,Great Britain,Qualification,Slopestyle,11,
-17,Ormerod Katie,Female,08-01-2022,Mammoth Mountain,USA,Great Britain,World Cup,Slopestyle,4,574.20
-18,Ormerod Katie,Female,06-01-2022,Mammoth Mountain,USA,Great Britain,Qualification,Slopestyle,6,
-19,Ormerod Katie,Female,01-01-2022,Calgary,CAN,Great Britain,World Cup,Slopestyle,23,0.40
-20,Ormerod Katie,Female,31-12-2021,Calgary,CAN,Great Britain,Qualification,Slopestyle,23,
-21,Ormerod Katie,Female,04-12-2021,Steamboat,USA,Great Britain,World Cup,Big Air,5,492.60
-22,Ormerod Katie,Female,02-12-2021,Steamboat,USA,Great Britain,Qualification,Big Air,6,
-23,Ormerod Katie,Female,23-10-2021,Chur,SUI,Great Britain,World Cup,Big Air,DNS,
-24,Ormerod Katie,Female,28-03-2021,Silvaplana,SUI,Great Britain,World Cup,Slopestyle,6,247.49
-25,Ormerod Katie,Female,28-03-2021,Silvaplana,SUI,Great Britain,Qualification,Slopestyle,3,
-26,Ormerod Katie,Female,20-03-2021,Aspen,USA,Great Britain,World Cup,Slopestyle,16,138.23
-27,Ormerod Katie,Female,19-03-2021,Aspen,USA,Great Britain,Qualification,Slopestyle,16,
-28,Ormerod Katie,Female,16-03-2021,Aspen,USA,Great Britain,World Championships,Big Air,12,187.48
-29,Ormerod Katie,Female,14-03-2021,Aspen,USA,Great Britain,Qualification,Big Air,12,
-30,Ormerod Katie,Female,12-03-2021,Aspen,USA,Great Britain,World Championships,Slopestyle,11,215.12
-31,Ormerod Katie,Female,10-03-2021,Aspen,USA,Great Britain,Qualification,Slopestyle,11,
-32,Ormerod Katie,Female,22-01-2021,Laax,SUI,Great Britain,World Cup,Slopestyle,DNS,
-33,Ormerod Katie,Female,20-01-2021,Laax,SUI,Great Britain,Qualification,Slopestyle,DNS,
-34,Ormerod Katie,Female,09-01-2021,Kreischberg,AUT,Great Britain,World Cup,Big Air,8,317.74
-35,Ormerod Katie,Female,07-01-2021,Kreischberg ,AUT,Great Britain,Qualification,Big Air,8,
-36,Ormerod Katie,Female,16-02-2020,Calgary,CAN,Great Britain,World Cup,Slopestyle,3,600.00
-37,Ormerod Katie,Female,14-02-2020,Calgary,CAN,Great Britain,Qualification,Slopestyle,7,
-38,Ormerod Katie,Female,01-02-2020,Mammoth Mountain Resort,USA,Great Britain,World Cup,Slopestyle,3,600.00
-39,Ormerod Katie,Female,30-01-2020,Mammoth Mountain Resort,USA,Great Britain,Qualification,Slopestyle,3,
-40,Ormerod Katie,Female,23-01-2020,Seiseralm,ITA,Great Britain,World Cup,Slopestyle,2,800.00
-41,Ormerod Katie,Female,22-01-2020,Seiseralm,ITA,Great Britain,Qualification,Slopestyle,6,
-42,Ormerod Katie,Female,15-01-2020,Laax,SUI,Great Britain,World Cup,Slopestyle,3,600.00
-43,Ormerod Katie,Female,14-01-2020,Laax,SUI,Great Britain,Qualification,Slopestyle,7,
-44,Ormerod Katie,Female,20-12-2019,Atlanta,USA,Great Britain,World Cup,Big Air,7,360.00
-45,Ormerod Katie,Female,14-12-2019,Beijing,CHN,Great Britain,World Cup,Big Air,11,240.00
-46,Ormerod Katie,Female,12-12-2019,Beijing,CHN,Great Britain,Qualification,Big Air,11,
-47,Ormerod Katie,Female,02-11-2019,Modena SKIPASS,ITA,Great Britain,World Cup,Big Air,20,110.00
-48,Ormerod Katie,Female,01-11-2019,Modena SKIPASS,ITA,Great Britain,Qualification,Big Air,20,
-49,Ormerod Katie,Female,24-08-2019,Cardrona,NZL,Great Britain,World Cup,Big Air,2,800.00
-50,Ormerod Katie,Female,23-08-2019,Cardrona,NZL,Great Britain,Qualification,Big Air,2,
-51,Ormerod Katie,Female,07-08-2019,Perisher,AUS,Great Britain,Australian New Zealand Cup,Big Air,1,200.00
-52,Ormerod Katie,Female,07-08-2019,Perisher,AUS,Great Britain,Australian New Zealand Cup,Big Air,DNS,
-53,Ormerod Katie,Female,29-03-2019,Livigno,ITA,Great Britain,European Cup,Slopestyle,2,192.00
-54,Ormerod Katie,Female,28-03-2019,Livigno,ITA,Great Britain,European Cup,Slopestyle,2,192.00
-55,Ormerod Katie,Female,02-12-2017,Moenchengladbach,GER,Great Britain,World Cup,Big Air,10,260.00
-56,Ormerod Katie,Female,11-11-2017,Milan,ITA,Great Britain,World Cup,Big Air,2,800.00
-57,Ormerod Katie,Female,04-09-2017,Cardrona,NZL,Great Britain,World Cup,Slopestyle,5,450.00
-58,Ormerod Katie,Female,03-09-2017,Cardrona,NZL,Great Britain,Qualification,Slopestyle,2,
-59,Ormerod Katie,Female,17-08-2017,Cardrona,NZL,Great Britain,Australian New Zealand Cup,Slopestyle,DNS,
-60,Ormerod Katie,Female,12-02-2017,Quebec City,CAN,Great Britain,World Cup,Slopestyle,4,500.00
-61,Ormerod Katie,Female,11-02-2017,Quebec City,CAN,Great Britain,World Cup,Big Air,11,240.00
-62,Ormerod Katie,Female,10-02-2017,Quebec City,CAN,Great Britain,Qualification,Slopestyle,3,
-63,Ormerod Katie,Female,09-02-2017,Quebec City,CAN,Great Britain,Qualification,Big Air,11,
-64,Ormerod Katie,Female,20-01-2017,Laax,SUI,Great Britain,World Cup,Slopestyle,19,120.00
-65,Ormerod Katie,Female,17-01-2017,Laax,SUI,Great Britain,Qualification,Slopestyle,9,
-66,Ormerod Katie,Female,14-01-2017,Kreischberg,AUT,Great Britain,World Cup,Slopestyle,20,110.00
-67,Ormerod Katie,Female,13-01-2017,Kreischberg,AUT,Great Britain,Qualification,Slopestyle,20,
-68,Ormerod Katie,Female,07-01-2017,Moscow,RUS,Great Britain,World Cup,Big Air,1,1000.00
-69,Ormerod Katie,Female,17-12-2016,Copper,USA,Great Britain,World Cup,Big Air,5,450.00
-70,Ormerod Katie,Female,15-12-2016,Copper,USA,Great Britain,Qualification,Big Air,2,
-71,Ormerod Katie,Female,03-12-2016,Moenchengladbach,GER,Great Britain,World Cup,Big Air,2,800.00
-72,Ormerod Katie,Female,26-11-2016,Alpensia,KOR,Great Britain,World Cup,Big Air,3,600.00
-73,Ormerod Katie,Female,26-11-2016,Alpensia,KOR,Great Britain,Qualification,Big Air,4,
-74,Ormerod Katie,Female,12-11-2016,Milan,ITA,Great Britain,Qualification,Big Air,10,
-75,Ormerod Katie,Female,12-11-2016,Milan,ITA,Great Britain,World Cup,Big Air,10,260.00
-76,Ormerod Katie,Female,20-03-2016,Spindleruv Mlyn,CZE,Great Britain,World Cup,Slopestyle,2,800.00
-77,Ormerod Katie,Female,19-03-2016,Spindleruv Mlyn,CZE,Great Britain,Qualification,Slopestyle,2,
-78,Ormerod Katie,Female,21-02-2016,Bokwang,KOR,Great Britain,World Cup,Slopestyle,4,500.00
-79,Ormerod Katie,Female,19-02-2016,Bokwang,KOR,Great Britain,Qualification,Slopestyle,3,
-80,Ormerod Katie,Female,13-02-2016,Quebec,CAN,Great Britain,World Cup,Big Air,2,800.00
-81,Ormerod Katie,Female,11-02-2016,Boston,USA,Great Britain,World Cup,Big Air,9,290.00
-82,Ormerod Katie,Female,30-03-2014,Chiesa in Valmalenco,ITA,Great Britain,FIS Junior World Championships,Slopestyle,3,216.00
-83,Ormerod Katie,Female,19-01-2014,Stoneham,CAN,Great Britain,World Cup,Slopestyle,23,80.00
-84,Ormerod Katie,Female,22-12-2013,"Copper Mountain, CO",USA,Great Britain,World Cup,Slopestyle,31,28.00
-85,Ormerod Katie,Female,20-12-2013,"Copper Mountain, CO",USA,Great Britain,Qualification,Slopestyle,17,
-86,Ormerod Katie,Female,19-08-2013,Cardrona,NZL,Great Britain,World Cup,Slopestyle,27,45.00
-87,Ormerod Katie,Female,16-03-2013,Spindleruv Mlyn,CZE,Great Britain,World Cup,Slopestyle,32,26.00
-88,Ormerod Katie,Female,15-03-2013,Spindleruv Mlyn,CZE,Great Britain,Qualification,Slopestyle,19,
-89,Ormerod Katie,Female,18-01-2013,Stoneham,CAN,Great Britain,Qualification,Slopestyle,5,
-90,Ormerod Katie,Female,18-01-2013,Stoneham,CAN,Great Britain,World Championships,Slopestyle,10,260.00
-91,Ormerod Katie,Female,11-01-2013,"Copper Mountain, CO",USA,Great Britain,World Cup,Slopestyle,43,17.60
-92,Ormerod Katie,Female,09-01-2013,"Copper Mountain, CO",USA,Great Britain,Qualification,Slopestyle,21,
+0,Ormerod Katie,Female,28-03-2025,Engadin,SUI,Great Britain,World Championships,Big Air,20,
+1,Ormerod Katie,Female,26-03-2025,Engadin,SUI,Great Britain,Qualification,Big Air,20,
+2,Ormerod Katie,Female,21-03-2025,Engadin,SUI,Great Britain,World Championships,Slopestyle,16,142.60
+3,Ormerod Katie,Female,20-03-2025,Engadin,SUI,Great Britain,Qualification,Slopestyle,16,
+4,Ormerod Katie,Female,19-10-2024,Chur,SUI,Great Britain,World Cup,Big Air,16,138.30
+5,Ormerod Katie,Female,23-03-2024,Silvaplana,SUI,Great Britain,World Cup,Slopestyle,DNS,
+6,Ormerod Katie,Female,21-03-2024,Silvaplana,SUI,Great Britain,Qualification,Slopestyle,DNS,
+7,Ormerod Katie,Female,20-01-2024,Laax,SUI,Great Britain,World Cup,Slopestyle,12,195.90
+8,Ormerod Katie,Female,16-01-2024,Laax,SUI,Great Britain,Qualification,Slopestyle,12,
+9,Ormerod Katie,Female,27-03-2022,Silvaplana,SUI,Great Britain,World Cup,Slopestyle,8,280.10
+10,Ormerod Katie,Female,25-03-2022,Silvaplana,SUI,Great Britain,Qualification,Slopestyle,8,
+11,Ormerod Katie,Female,19-03-2022,Spindleruv Mlyn,CZE,Great Britain,World Cup,Slopestyle,8,138.30
+12,Ormerod Katie,Female,18-03-2022,Spindleruv Mlyn,CZE,Great Britain,Qualification,Slopestyle,7,
+13,Ormerod Katie,Female,15-02-2022,Beijing,CHN,Great Britain,Olympic Winter Games,Big Air,25,37.30
+14,Ormerod Katie,Female,14-02-2022,Beijing,CHN,Great Britain,Qualification,Big Air,25,
+15,Ormerod Katie,Female,06-02-2022,Beijing,CHN,Great Britain,Olympic Winter Games,Slopestyle,18,103.00
+16,Ormerod Katie,Female,05-02-2022,Beijing,CHN,Great Britain,Qualification,Slopestyle,18,
+17,Ormerod Katie,Female,15-01-2022,Laax,SUI,Great Britain,World Cup,Slopestyle,11,182.60
+18,Ormerod Katie,Female,14-01-2022,Laax,SUI,Great Britain,Qualification,Slopestyle,11,
+19,Ormerod Katie,Female,08-01-2022,Mammoth Mountain,USA,Great Britain,World Cup,Slopestyle,4,574.20
+20,Ormerod Katie,Female,06-01-2022,Mammoth Mountain,USA,Great Britain,Qualification,Slopestyle,6,
+21,Ormerod Katie,Female,01-01-2022,Calgary,CAN,Great Britain,World Cup,Slopestyle,23,0.40
+22,Ormerod Katie,Female,31-12-2021,Calgary,CAN,Great Britain,Qualification,Slopestyle,23,
+23,Ormerod Katie,Female,04-12-2021,Steamboat,USA,Great Britain,World Cup,Big Air,5,492.60
+24,Ormerod Katie,Female,02-12-2021,Steamboat,USA,Great Britain,Qualification,Big Air,6,
+25,Ormerod Katie,Female,23-10-2021,Chur,SUI,Great Britain,World Cup,Big Air,DNS,
+26,Ormerod Katie,Female,28-03-2021,Silvaplana,SUI,Great Britain,Qualification,Slopestyle,3,
+27,Ormerod Katie,Female,28-03-2021,Silvaplana,SUI,Great Britain,World Cup,Slopestyle,6,247.49
+28,Ormerod Katie,Female,20-03-2021,Aspen,USA,Great Britain,World Cup,Slopestyle,16,138.23
+29,Ormerod Katie,Female,19-03-2021,Aspen,USA,Great Britain,Qualification,Slopestyle,16,
+30,Ormerod Katie,Female,16-03-2021,Aspen,USA,Great Britain,World Championships,Big Air,12,187.48
+31,Ormerod Katie,Female,14-03-2021,Aspen,USA,Great Britain,Qualification,Big Air,12,
+32,Ormerod Katie,Female,12-03-2021,Aspen,USA,Great Britain,World Championships,Slopestyle,11,215.12
+33,Ormerod Katie,Female,10-03-2021,Aspen,USA,Great Britain,Qualification,Slopestyle,11,
+34,Ormerod Katie,Female,22-01-2021,Laax,SUI,Great Britain,World Cup,Slopestyle,DNS,
+35,Ormerod Katie,Female,20-01-2021,Laax,SUI,Great Britain,Qualification,Slopestyle,DNS,
+36,Ormerod Katie,Female,09-01-2021,Kreischberg,AUT,Great Britain,World Cup,Big Air,8,317.74
+37,Ormerod Katie,Female,07-01-2021,Kreischberg ,AUT,Great Britain,Qualification,Big Air,8,
+38,Ormerod Katie,Female,16-02-2020,Calgary,CAN,Great Britain,World Cup,Slopestyle,3,600.00
+39,Ormerod Katie,Female,14-02-2020,Calgary,CAN,Great Britain,Qualification,Slopestyle,7,
+40,Ormerod Katie,Female,01-02-2020,Mammoth Mountain Resort,USA,Great Britain,World Cup,Slopestyle,3,600.00
+41,Ormerod Katie,Female,30-01-2020,Mammoth Mountain Resort,USA,Great Britain,Qualification,Slopestyle,3,
+42,Ormerod Katie,Female,23-01-2020,Seiseralm,ITA,Great Britain,World Cup,Slopestyle,2,800.00
+43,Ormerod Katie,Female,22-01-2020,Seiseralm,ITA,Great Britain,Qualification,Slopestyle,6,
+44,Ormerod Katie,Female,15-01-2020,Laax,SUI,Great Britain,World Cup,Slopestyle,3,600.00
+45,Ormerod Katie,Female,14-01-2020,Laax,SUI,Great Britain,Qualification,Slopestyle,7,
+46,Ormerod Katie,Female,20-12-2019,Atlanta,USA,Great Britain,World Cup,Big Air,7,360.00
+47,Ormerod Katie,Female,14-12-2019,Beijing,CHN,Great Britain,World Cup,Big Air,11,240.00
+48,Ormerod Katie,Female,12-12-2019,Beijing,CHN,Great Britain,Qualification,Big Air,11,
+49,Ormerod Katie,Female,02-11-2019,Modena SKIPASS,ITA,Great Britain,World Cup,Big Air,20,110.00
+50,Ormerod Katie,Female,01-11-2019,Modena SKIPASS,ITA,Great Britain,Qualification,Big Air,20,
+51,Ormerod Katie,Female,24-08-2019,Cardrona,NZL,Great Britain,World Cup,Big Air,2,800.00
+52,Ormerod Katie,Female,23-08-2019,Cardrona,NZL,Great Britain,Qualification,Big Air,2,
+53,Ormerod Katie,Female,07-08-2019,Perisher,AUS,Great Britain,Australian New Zealand Cup,Big Air,1,200.00
+54,Ormerod Katie,Female,07-08-2019,Perisher,AUS,Great Britain,Australian New Zealand Cup,Big Air,DNS,
+55,Ormerod Katie,Female,29-03-2019,Livigno,ITA,Great Britain,European Cup,Slopestyle,2,192.00
+56,Ormerod Katie,Female,28-03-2019,Livigno,ITA,Great Britain,European Cup,Slopestyle,2,192.00
+57,Ormerod Katie,Female,02-12-2017,Moenchengladbach,GER,Great Britain,World Cup,Big Air,10,260.00
+58,Ormerod Katie,Female,11-11-2017,Milan,ITA,Great Britain,World Cup,Big Air,2,800.00
+59,Ormerod Katie,Female,04-09-2017,Cardrona,NZL,Great Britain,World Cup,Slopestyle,5,450.00
+60,Ormerod Katie,Female,03-09-2017,Cardrona,NZL,Great Britain,Qualification,Slopestyle,2,
+61,Ormerod Katie,Female,17-08-2017,Cardrona,NZL,Great Britain,Australian New Zealand Cup,Slopestyle,DNS,
+62,Ormerod Katie,Female,12-02-2017,Quebec City,CAN,Great Britain,World Cup,Slopestyle,4,500.00
+63,Ormerod Katie,Female,11-02-2017,Quebec City,CAN,Great Britain,World Cup,Big Air,11,240.00
+64,Ormerod Katie,Female,10-02-2017,Quebec City,CAN,Great Britain,Qualification,Slopestyle,3,
+65,Ormerod Katie,Female,09-02-2017,Quebec City,CAN,Great Britain,Qualification,Big Air,11,
+66,Ormerod Katie,Female,20-01-2017,Laax,SUI,Great Britain,World Cup,Slopestyle,19,120.00
+67,Ormerod Katie,Female,17-01-2017,Laax,SUI,Great Britain,Qualification,Slopestyle,9,
+68,Ormerod Katie,Female,14-01-2017,Kreischberg,AUT,Great Britain,World Cup,Slopestyle,20,110.00
+69,Ormerod Katie,Female,13-01-2017,Kreischberg,AUT,Great Britain,Qualification,Slopestyle,20,
+70,Ormerod Katie,Female,07-01-2017,Moscow,RUS,Great Britain,World Cup,Big Air,1,1000.00
+71,Ormerod Katie,Female,17-12-2016,Copper,USA,Great Britain,World Cup,Big Air,5,450.00
+72,Ormerod Katie,Female,15-12-2016,Copper,USA,Great Britain,Qualification,Big Air,2,
+73,Ormerod Katie,Female,03-12-2016,Moenchengladbach,GER,Great Britain,World Cup,Big Air,2,800.00
+74,Ormerod Katie,Female,26-11-2016,Alpensia,KOR,Great Britain,World Cup,Big Air,3,600.00
+75,Ormerod Katie,Female,26-11-2016,Alpensia,KOR,Great Britain,Qualification,Big Air,4,
+76,Ormerod Katie,Female,12-11-2016,Milan,ITA,Great Britain,Qualification,Big Air,10,
+77,Ormerod Katie,Female,12-11-2016,Milan,ITA,Great Britain,World Cup,Big Air,10,260.00
+78,Ormerod Katie,Female,20-03-2016,Spindleruv Mlyn,CZE,Great Britain,World Cup,Slopestyle,2,800.00
+79,Ormerod Katie,Female,19-03-2016,Spindleruv Mlyn,CZE,Great Britain,Qualification,Slopestyle,2,
+80,Ormerod Katie,Female,21-02-2016,Bokwang,KOR,Great Britain,World Cup,Slopestyle,4,500.00
+81,Ormerod Katie,Female,19-02-2016,Bokwang,KOR,Great Britain,Qualification,Slopestyle,3,
+82,Ormerod Katie,Female,13-02-2016,Quebec,CAN,Great Britain,World Cup,Big Air,2,800.00
+83,Ormerod Katie,Female,11-02-2016,Boston,USA,Great Britain,World Cup,Big Air,9,290.00
+84,Ormerod Katie,Female,30-03-2014,Chiesa in Valmalenco,ITA,Great Britain,FIS Junior World Championships,Slopestyle,3,216.00
+85,Ormerod Katie,Female,19-01-2014,Stoneham,CAN,Great Britain,World Cup,Slopestyle,23,80.00
+86,Ormerod Katie,Female,22-12-2013,"Copper Mountain, CO",USA,Great Britain,World Cup,Slopestyle,31,28.00
+87,Ormerod Katie,Female,20-12-2013,"Copper Mountain, CO",USA,Great Britain,Qualification,Slopestyle,17,
+88,Ormerod Katie,Female,19-08-2013,Cardrona,NZL,Great Britain,World Cup,Slopestyle,27,45.00
+89,Ormerod Katie,Female,16-03-2013,Spindleruv Mlyn,CZE,Great Britain,World Cup,Slopestyle,32,26.00
+90,Ormerod Katie,Female,15-03-2013,Spindleruv Mlyn,CZE,Great Britain,Qualification,Slopestyle,19,
+91,Ormerod Katie,Female,18-01-2013,Stoneham,CAN,Great Britain,World Championships,Slopestyle,10,260.00
+92,Ormerod Katie,Female,18-01-2013,Stoneham,CAN,Great Britain,Qualification,Slopestyle,5,
+93,Ormerod Katie,Female,11-01-2013,"Copper Mountain, CO",USA,Great Britain,World Cup,Slopestyle,43,17.60
+94,Ormerod Katie,Female,09-01-2013,"Copper Mountain, CO",USA,Great Britain,Qualification,Slopestyle,21,

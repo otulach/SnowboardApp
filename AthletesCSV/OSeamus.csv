@@ -1,89 +1,91 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,O Seamus,Male,20-01-2024,Laax,SUI,Ireland,World Cup,Halfpipe,30,89.60
-1,O Seamus,Male,16-12-2022,Copper Mountain,USA,Ireland,World Cup,Halfpipe,20,140.80
-2,O Seamus,Male,14-12-2022,Copper Mountain,USA,Ireland,Qualification,Halfpipe,12,
-3,O Seamus,Male,11-02-2022,Beijing,CHN,Ireland,Olympic Winter Games,Halfpipe,15,126.00
-4,O Seamus,Male,09-02-2022,Beijing,CHN,Ireland,Qualification,Halfpipe,15,
-5,O Seamus,Male,15-01-2022,Laax,SUI,Ireland,World Cup,Halfpipe,29,84.20
-6,O Seamus,Male,13-01-2022,Laax,SUI,Ireland,Qualification,Halfpipe,15,
-7,O Seamus,Male,21-03-2021,Aspen,USA,Ireland,World Cup,Halfpipe,16,120.38
-8,O Seamus,Male,18-03-2021,Aspen,USA,Ireland,Qualification,Halfpipe,16,
-9,O Seamus,Male,13-03-2021,Aspen,USA,Ireland,World Championships,Halfpipe,18,96.75
-10,O Seamus,Male,11-03-2021,Aspen,USA,Ireland,Qualification,Halfpipe,18,
-11,O Seamus,Male,23-01-2021,Laax,SUI,Ireland,World Cup,Halfpipe,14,197.90
-12,O Seamus,Male,21-01-2021,Laax,SUI,Ireland,Qualification,Halfpipe,8,
-13,O Seamus,Male,15-02-2020,Calgary,CAN,Ireland,World Cup,Halfpipe,15,160.00
-14,O Seamus,Male,13-02-2020,Calgary,CAN,Ireland,Qualification,Halfpipe,15,
-15,O Seamus,Male,31-01-2020,Mammoth Mountain Resort,USA,Ireland,World Cup,Halfpipe,15,160.00
-16,O Seamus,Male,29-01-2020,Mammoth Mountain Resort,USA,Ireland,Qualification,Halfpipe,15,
-17,O Seamus,Male,14-12-2019,Copper Mountain Resort,USA,Ireland,World Cup,Halfpipe,18,130.00
-18,O Seamus,Male,12-12-2019,Copper Mountain Resort,USA,Ireland,Qualification,Halfpipe,18,
-19,O Seamus,Male,06-12-2019,Copper Mountain Resort,USA,Ireland,FIS,Halfpipe,3,132.00
-20,O Seamus,Male,09-03-2019,Mammoth Mountain Resort,USA,Ireland,World Cup,Halfpipe,19,120.00
-21,O Seamus,Male,07-03-2019,Mammoth Mountain Resort,USA,Ireland,Qualification,Halfpipe,11,
-22,O Seamus,Male,08-02-2019,Park City,USA,Ireland,World Championships,Halfpipe,20,110.00
-23,O Seamus,Male,06-02-2019,Park City,USA,Ireland,Qualification,Halfpipe,20,
-24,O Seamus,Male,29-03-2018,Ski Cooper,USA,Ireland,Nor-Am Cup,Snowboard Cross,29,5.76
-25,O Seamus,Male,28-03-2018,Ski Cooper,USA,Ireland,Nor-Am Cup,Snowboard Cross,19,19.20
-26,O Seamus,Male,14-02-2018,Phoenix Snow Park,KOR,Ireland,Olympic Winter Games,Halfpipe,18,130.00
-27,O Seamus,Male,13-02-2018,Phoenix Snow Park,KOR,Ireland,Qualification,Halfpipe,18,
-28,O Seamus,Male,20-01-2018,Laax,SUI,Ireland,World Cup,Halfpipe,15,160.00
-29,O Seamus,Male,13-01-2018,Snowmass,USA,Ireland,World Cup,Halfpipe,21,100.00
-30,O Seamus,Male,11-01-2018,Snowmass,USA,Ireland,Qualification,Halfpipe,10,
-31,O Seamus,Male,21-12-2017,Secret Garden,CHN,Ireland,World Cup,Halfpipe,12,220.00
-32,O Seamus,Male,19-12-2017,Secret Garden,CHN,Ireland,Qualification,Halfpipe,12,
-33,O Seamus,Male,09-12-2017,Copper Mountain Resort,USA,Ireland,World Cup,Halfpipe,36,19.70
-34,O Seamus,Male,07-12-2017,Copper Mountain Resort,USA,Ireland,Qualification,Halfpipe,20,
-35,O Seamus,Male,08-09-2017,Cardrona,NZL,Ireland,World Cup,Halfpipe,13,200.00
-36,O Seamus,Male,07-09-2017,Cardrona,NZL,Ireland,Qualification,Halfpipe,8,
-37,O Seamus,Male,15-09-2016,Cardrona,NZL,Ireland,Australian New Zealand Cup,Halfpipe,12,35.20
-38,O Seamus,Male,14-09-2016,Cardrona,NZL,Ireland,Australian New Zealand Cup,Slopestyle,DNS,
-39,O Seamus,Male,06-02-2016,Park City,USA,Ireland,World Cup,Halfpipe,13,200.00
-40,O Seamus,Male,04-02-2016,Park City,USA,Ireland,Qualification,Halfpipe,13,
-41,O Seamus,Male,30-08-2015,Cardrona,NZL,Ireland,World Cup,Halfpipe,DNS,
-42,O Seamus,Male,28-08-2015,Cardrona,NZL,Ireland,Qualification,Halfpipe,DNS,
-43,O Seamus,Male,22-08-2015,Cardrona,NZL,Ireland,World Cup,Slopestyle,18,130.00
-44,O Seamus,Male,20-08-2015,Cardrona,NZL,Ireland,Qualification,Slopestyle,18,
-45,O Seamus,Male,01-03-2015,Park City,USA,Ireland,World Cup,Halfpipe,33,24.00
-46,O Seamus,Male,27-02-2015,Park City,USA,Ireland,World Cup,Slopestyle,7,360.00
-47,O Seamus,Male,26-02-2015,Park City,USA,Ireland,Qualification,Halfpipe,16,
-48,O Seamus,Male,25-02-2015,Park City,USA,Ireland,Qualification,Slopestyle,5,
-49,O Seamus,Male,21-01-2015,Kreischberg,AUT,Ireland,World Championships,Slopestyle,10,260.00
-50,O Seamus,Male,19-01-2015,Kreischberg,AUT,Ireland,Qualification,Slopestyle,2,
-51,O Seamus,Male,17-01-2015,Kreischberg,AUT,Ireland,World Championships,Halfpipe,13,200.00
-52,O Seamus,Male,16-01-2015,Kreischberg,AUT,Ireland,Qualification,Halfpipe,8,
-53,O Seamus,Male,06-12-2014,"Copper Mountain, CO",USA,Ireland,World Cup,Halfpipe,19,120.00
-54,O Seamus,Male,04-12-2014,"Copper Mountain, CO",USA,Ireland,Qualification,Halfpipe,10,
-55,O Seamus,Male,11-02-2014,Rosa Khutor,RUS,Ireland,Olympic Winter Games,Halfpipe,15,160.00
-56,O Seamus,Male,08-02-2014,Rosa Khutor,RUS,Ireland,Olympic Winter Games,Slopestyle,17,140.00
-57,O Seamus,Male,06-02-2014,Rosa Khutor,RUS,Ireland,Qualification,Slopestyle,13,
-58,O Seamus,Male,19-01-2014,Stoneham,CAN,Ireland,World Cup,Slopestyle,8,320.00
-59,O Seamus,Male,22-12-2013,"Copper Mountain, CO",USA,Ireland,World Cup,Slopestyle,15,160.00
-60,O Seamus,Male,21-12-2013,"Copper Mountain, CO",USA,Ireland,World Cup,Halfpipe,36,19.70
-61,O Seamus,Male,19-12-2013,"Copper Mountain, CO",USA,Ireland,Qualification,Slopestyle,4,
-62,O Seamus,Male,18-12-2013,"Copper Mountain, CO",USA,Ireland,Qualification,Halfpipe,13,
-63,O Seamus,Male,24-08-2013,Cardrona,NZL,Ireland,World Cup,Halfpipe,31,28.00
-64,O Seamus,Male,22-08-2013,Cardrona,NZL,Ireland,Qualification,Halfpipe,16,
-65,O Seamus,Male,27-03-2013,Sierra Nevada,ESP,Ireland,World Cup,Halfpipe,8,320.00
-66,O Seamus,Male,26-03-2013,Sierra Nevada,ESP,Ireland,World Cup,Slopestyle,11,240.00
-67,O Seamus,Male,25-03-2013,Sierra Nevada,ESP,Ireland,Qualification,Slopestyle,6,
-68,O Seamus,Male,14-02-2013,Sochi,RUS,Ireland,World Cup,Halfpipe,24,70.00
-69,O Seamus,Male,13-02-2013,Sochi,RUS,Ireland,Qualification,Halfpipe,8,
-70,O Seamus,Male,01-02-2013,"Park City, UT",USA,Ireland,World Cup,Halfpipe,15,160.00
-71,O Seamus,Male,30-01-2013,"Park City, UT",USA,Ireland,Qualification,Halfpipe,6,
-72,O Seamus,Male,20-01-2013,Stoneham,CAN,Ireland,World Championships,Halfpipe,19,120.00
-73,O Seamus,Male,19-01-2013,Stoneham,CAN,Ireland,Qualification,Halfpipe,10,
-74,O Seamus,Male,18-01-2013,Stoneham,CAN,Ireland,World Championships,Slopestyle,21,100.00
-75,O Seamus,Male,17-01-2013,Stoneham,CAN,Ireland,Qualification,Slopestyle,6,
-76,O Seamus,Male,12-01-2013,"Copper Mountain, CO",USA,Ireland,World Cup,Halfpipe,30,32.00
-77,O Seamus,Male,11-01-2013,"Copper Mountain, CO",USA,Ireland,World Cup,Slopestyle,55,14.00
-78,O Seamus,Male,10-01-2013,"Copper Mountain, CO",USA,Ireland,Qualification,Halfpipe,10,
-79,O Seamus,Male,09-01-2013,"Copper Mountain, CO",USA,Ireland,Qualification,Slopestyle,18,
-80,O Seamus,Male,26-08-2012,Cardrona,NZL,Ireland,World Cup,Halfpipe,45,17.00
-81,O Seamus,Male,24-08-2012,Cardrona,NZL,Ireland,Qualification,Halfpipe,11,
-82,O Seamus,Male,20-12-2011,"Copper, CO",USA,Ireland,FIS,Slopestyle,11,38.40
-83,O Seamus,Male,19-12-2011,"Copper, CO",USA,Ireland,FIS,Halfpipe,11,57.60
-84,O Seamus,Male,10-12-2011,"Copper, CO",USA,Ireland,Nor-Am Cup,Halfpipe,74,4.15
-85,O Seamus,Male,24-08-2011,Cardrona,NZL,Ireland,Australian New Zealand Cup,Big Air,8,16.00
-86,O Seamus,Male,21-08-2011,Snow Park,NZL,Ireland,Australian New Zealand Cup,Slopestyle,11,69.60
-87,O Seamus,Male,14-12-2010,"Copper, CO",USA,Ireland,FIS,Halfpipe,76,0.00
+0,O Seamus,Male,29-03-2025,Engadin,SUI,Ireland,World Championships,Halfpipe,25,
+1,O Seamus,Male,27-03-2025,Engadin,SUI,Ireland,Qualification,Halfpipe,25,
+2,O Seamus,Male,20-01-2024,Laax,SUI,Ireland,World Cup,Halfpipe,30,89.60
+3,O Seamus,Male,16-12-2022,Copper Mountain,USA,Ireland,World Cup,Halfpipe,20,140.80
+4,O Seamus,Male,14-12-2022,Copper Mountain,USA,Ireland,Qualification,Halfpipe,12,
+5,O Seamus,Male,11-02-2022,Beijing,CHN,Ireland,Olympic Winter Games,Halfpipe,15,126.00
+6,O Seamus,Male,09-02-2022,Beijing,CHN,Ireland,Qualification,Halfpipe,15,
+7,O Seamus,Male,15-01-2022,Laax,SUI,Ireland,World Cup,Halfpipe,29,84.20
+8,O Seamus,Male,13-01-2022,Laax,SUI,Ireland,Qualification,Halfpipe,15,
+9,O Seamus,Male,21-03-2021,Aspen,USA,Ireland,World Cup,Halfpipe,16,120.38
+10,O Seamus,Male,18-03-2021,Aspen,USA,Ireland,Qualification,Halfpipe,16,
+11,O Seamus,Male,13-03-2021,Aspen,USA,Ireland,World Championships,Halfpipe,18,96.75
+12,O Seamus,Male,11-03-2021,Aspen,USA,Ireland,Qualification,Halfpipe,18,
+13,O Seamus,Male,23-01-2021,Laax,SUI,Ireland,World Cup,Halfpipe,14,197.90
+14,O Seamus,Male,21-01-2021,Laax,SUI,Ireland,Qualification,Halfpipe,8,
+15,O Seamus,Male,15-02-2020,Calgary,CAN,Ireland,World Cup,Halfpipe,15,160.00
+16,O Seamus,Male,13-02-2020,Calgary,CAN,Ireland,Qualification,Halfpipe,15,
+17,O Seamus,Male,31-01-2020,Mammoth Mountain Resort,USA,Ireland,World Cup,Halfpipe,15,160.00
+18,O Seamus,Male,29-01-2020,Mammoth Mountain Resort,USA,Ireland,Qualification,Halfpipe,15,
+19,O Seamus,Male,14-12-2019,Copper Mountain Resort,USA,Ireland,World Cup,Halfpipe,18,130.00
+20,O Seamus,Male,12-12-2019,Copper Mountain Resort,USA,Ireland,Qualification,Halfpipe,18,
+21,O Seamus,Male,06-12-2019,Copper Mountain Resort,USA,Ireland,FIS,Halfpipe,3,132.00
+22,O Seamus,Male,09-03-2019,Mammoth Mountain Resort,USA,Ireland,World Cup,Halfpipe,19,120.00
+23,O Seamus,Male,07-03-2019,Mammoth Mountain Resort,USA,Ireland,Qualification,Halfpipe,11,
+24,O Seamus,Male,08-02-2019,Park City,USA,Ireland,World Championships,Halfpipe,20,110.00
+25,O Seamus,Male,06-02-2019,Park City,USA,Ireland,Qualification,Halfpipe,20,
+26,O Seamus,Male,29-03-2018,Ski Cooper,USA,Ireland,Nor-Am Cup,Snowboard Cross,29,5.76
+27,O Seamus,Male,28-03-2018,Ski Cooper,USA,Ireland,Nor-Am Cup,Snowboard Cross,19,19.20
+28,O Seamus,Male,14-02-2018,Phoenix Snow Park,KOR,Ireland,Olympic Winter Games,Halfpipe,18,130.00
+29,O Seamus,Male,13-02-2018,Phoenix Snow Park,KOR,Ireland,Qualification,Halfpipe,18,
+30,O Seamus,Male,20-01-2018,Laax,SUI,Ireland,World Cup,Halfpipe,15,160.00
+31,O Seamus,Male,13-01-2018,Snowmass,USA,Ireland,World Cup,Halfpipe,21,100.00
+32,O Seamus,Male,11-01-2018,Snowmass,USA,Ireland,Qualification,Halfpipe,10,
+33,O Seamus,Male,21-12-2017,Secret Garden,CHN,Ireland,World Cup,Halfpipe,12,220.00
+34,O Seamus,Male,19-12-2017,Secret Garden,CHN,Ireland,Qualification,Halfpipe,12,
+35,O Seamus,Male,09-12-2017,Copper Mountain Resort,USA,Ireland,World Cup,Halfpipe,36,19.70
+36,O Seamus,Male,07-12-2017,Copper Mountain Resort,USA,Ireland,Qualification,Halfpipe,20,
+37,O Seamus,Male,08-09-2017,Cardrona,NZL,Ireland,World Cup,Halfpipe,13,200.00
+38,O Seamus,Male,07-09-2017,Cardrona,NZL,Ireland,Qualification,Halfpipe,8,
+39,O Seamus,Male,15-09-2016,Cardrona,NZL,Ireland,Australian New Zealand Cup,Halfpipe,12,35.20
+40,O Seamus,Male,14-09-2016,Cardrona,NZL,Ireland,Australian New Zealand Cup,Slopestyle,DNS,
+41,O Seamus,Male,06-02-2016,Park City,USA,Ireland,World Cup,Halfpipe,13,200.00
+42,O Seamus,Male,04-02-2016,Park City,USA,Ireland,Qualification,Halfpipe,13,
+43,O Seamus,Male,30-08-2015,Cardrona,NZL,Ireland,World Cup,Halfpipe,DNS,
+44,O Seamus,Male,28-08-2015,Cardrona,NZL,Ireland,Qualification,Halfpipe,DNS,
+45,O Seamus,Male,22-08-2015,Cardrona,NZL,Ireland,World Cup,Slopestyle,18,130.00
+46,O Seamus,Male,20-08-2015,Cardrona,NZL,Ireland,Qualification,Slopestyle,18,
+47,O Seamus,Male,01-03-2015,Park City,USA,Ireland,World Cup,Halfpipe,33,24.00
+48,O Seamus,Male,27-02-2015,Park City,USA,Ireland,World Cup,Slopestyle,7,360.00
+49,O Seamus,Male,26-02-2015,Park City,USA,Ireland,Qualification,Halfpipe,16,
+50,O Seamus,Male,25-02-2015,Park City,USA,Ireland,Qualification,Slopestyle,5,
+51,O Seamus,Male,21-01-2015,Kreischberg,AUT,Ireland,World Championships,Slopestyle,10,260.00
+52,O Seamus,Male,19-01-2015,Kreischberg,AUT,Ireland,Qualification,Slopestyle,2,
+53,O Seamus,Male,17-01-2015,Kreischberg,AUT,Ireland,World Championships,Halfpipe,13,200.00
+54,O Seamus,Male,16-01-2015,Kreischberg,AUT,Ireland,Qualification,Halfpipe,8,
+55,O Seamus,Male,06-12-2014,"Copper Mountain, CO",USA,Ireland,World Cup,Halfpipe,19,120.00
+56,O Seamus,Male,04-12-2014,"Copper Mountain, CO",USA,Ireland,Qualification,Halfpipe,10,
+57,O Seamus,Male,11-02-2014,Rosa Khutor,RUS,Ireland,Olympic Winter Games,Halfpipe,15,160.00
+58,O Seamus,Male,08-02-2014,Rosa Khutor,RUS,Ireland,Olympic Winter Games,Slopestyle,17,140.00
+59,O Seamus,Male,06-02-2014,Rosa Khutor,RUS,Ireland,Qualification,Slopestyle,13,
+60,O Seamus,Male,19-01-2014,Stoneham,CAN,Ireland,World Cup,Slopestyle,8,320.00
+61,O Seamus,Male,22-12-2013,"Copper Mountain, CO",USA,Ireland,World Cup,Slopestyle,15,160.00
+62,O Seamus,Male,21-12-2013,"Copper Mountain, CO",USA,Ireland,World Cup,Halfpipe,36,19.70
+63,O Seamus,Male,19-12-2013,"Copper Mountain, CO",USA,Ireland,Qualification,Slopestyle,4,
+64,O Seamus,Male,18-12-2013,"Copper Mountain, CO",USA,Ireland,Qualification,Halfpipe,13,
+65,O Seamus,Male,24-08-2013,Cardrona,NZL,Ireland,World Cup,Halfpipe,31,28.00
+66,O Seamus,Male,22-08-2013,Cardrona,NZL,Ireland,Qualification,Halfpipe,16,
+67,O Seamus,Male,27-03-2013,Sierra Nevada,ESP,Ireland,World Cup,Halfpipe,8,320.00
+68,O Seamus,Male,26-03-2013,Sierra Nevada,ESP,Ireland,World Cup,Slopestyle,11,240.00
+69,O Seamus,Male,25-03-2013,Sierra Nevada,ESP,Ireland,Qualification,Slopestyle,6,
+70,O Seamus,Male,14-02-2013,Sochi,RUS,Ireland,World Cup,Halfpipe,24,70.00
+71,O Seamus,Male,13-02-2013,Sochi,RUS,Ireland,Qualification,Halfpipe,8,
+72,O Seamus,Male,01-02-2013,"Park City, UT",USA,Ireland,World Cup,Halfpipe,15,160.00
+73,O Seamus,Male,30-01-2013,"Park City, UT",USA,Ireland,Qualification,Halfpipe,6,
+74,O Seamus,Male,20-01-2013,Stoneham,CAN,Ireland,World Championships,Halfpipe,19,120.00
+75,O Seamus,Male,19-01-2013,Stoneham,CAN,Ireland,Qualification,Halfpipe,10,
+76,O Seamus,Male,18-01-2013,Stoneham,CAN,Ireland,World Championships,Slopestyle,21,100.00
+77,O Seamus,Male,17-01-2013,Stoneham,CAN,Ireland,Qualification,Slopestyle,6,
+78,O Seamus,Male,12-01-2013,"Copper Mountain, CO",USA,Ireland,World Cup,Halfpipe,30,32.00
+79,O Seamus,Male,11-01-2013,"Copper Mountain, CO",USA,Ireland,World Cup,Slopestyle,55,14.00
+80,O Seamus,Male,10-01-2013,"Copper Mountain, CO",USA,Ireland,Qualification,Halfpipe,10,
+81,O Seamus,Male,09-01-2013,"Copper Mountain, CO",USA,Ireland,Qualification,Slopestyle,18,
+82,O Seamus,Male,26-08-2012,Cardrona,NZL,Ireland,World Cup,Halfpipe,45,17.00
+83,O Seamus,Male,24-08-2012,Cardrona,NZL,Ireland,Qualification,Halfpipe,11,
+84,O Seamus,Male,20-12-2011,"Copper, CO",USA,Ireland,FIS,Slopestyle,11,38.40
+85,O Seamus,Male,19-12-2011,"Copper, CO",USA,Ireland,FIS,Halfpipe,11,57.60
+86,O Seamus,Male,10-12-2011,"Copper, CO",USA,Ireland,Nor-Am Cup,Halfpipe,74,4.15
+87,O Seamus,Male,24-08-2011,Cardrona,NZL,Ireland,Australian New Zealand Cup,Big Air,8,16.00
+88,O Seamus,Male,21-08-2011,Snow Park,NZL,Ireland,Australian New Zealand Cup,Slopestyle,11,69.60
+89,O Seamus,Male,14-12-2010,"Copper, CO",USA,Ireland,FIS,Halfpipe,76,0.00

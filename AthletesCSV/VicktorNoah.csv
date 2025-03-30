@@ -1,149 +1,150 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Vicktor Noah,Male,25-03-2025,Engadin,SUI,Germany,Qualification,Big Air,23,
-1,Vicktor Noah,Male,21-03-2025,Engadin,SUI,Germany,World Championships,Slopestyle,8,351.20
-2,Vicktor Noah,Male,20-03-2025,Engadin,SUI,Germany,Qualification,Slopestyle,8,
-3,Vicktor Noah,Male,22-02-2025,Calgary,CAN,Germany,World Cup,Slopestyle,44,61.60
-4,Vicktor Noah,Male,20-02-2025,Calgary,CAN,Germany,Qualification,Slopestyle,22,
-5,Vicktor Noah,Male,02-02-2025,Aspen,USA,Germany,World Cup,Slopestyle,DNS,
-6,Vicktor Noah,Male,31-01-2025,Aspen,USA,Germany,Qualification,Slopestyle,DNS,
-7,Vicktor Noah,Male,18-01-2025,Laax,SUI,Germany,World Cup,Slopestyle,3,696.50
-8,Vicktor Noah,Male,16-01-2025,Laax,SUI,Germany,Qualification,Slopestyle,12,
-9,Vicktor Noah,Male,11-01-2025,Kreischberg,AUT,Germany,Qualification,Big Air,20,
-10,Vicktor Noah,Male,11-01-2025,Kreischberg,AUT,Germany,World Cup,Big Air,41,65.00
-11,Vicktor Noah,Male,05-01-2025,Klagenfurt,AUT,Germany,Qualification,Big Air,9,
-12,Vicktor Noah,Male,05-01-2025,Klagenfurt,AUT,Germany,World Cup,Big Air,23,133.70
-13,Vicktor Noah,Male,01-12-2024,Beijing,CHN,Germany,World Cup,Big Air,19,171.90
-14,Vicktor Noah,Male,30-11-2024,Beijing,CHN,Germany,Qualification,Big Air,8,
-15,Vicktor Noah,Male,19-10-2024,Chur,SUI,Germany,World Cup,Big Air,21,144.10
-16,Vicktor Noah,Male,02-09-2024,Cardrona,NZL,Germany,World Cup,Slopestyle,9,313.80
-17,Vicktor Noah,Male,31-08-2024,Cardrona,NZL,Germany,Qualification,Slopestyle,5,
-18,Vicktor Noah,Male,14-04-2024,Corvatsch,SUI,Germany,European Cup Premium,Big Air,17,107.50
-19,Vicktor Noah,Male,12-04-2024,Corvatsch,SUI,Germany,European Cup Premium,Slopestyle,55,59.50
-20,Vicktor Noah,Male,23-03-2024,Silvaplana,SUI,Germany,World Cup,Slopestyle,21,169.00
-21,Vicktor Noah,Male,21-03-2024,Silvaplana,SUI,Germany,Qualification,Slopestyle,12,
-22,Vicktor Noah,Male,15-03-2024,Tignes,FRA,Germany,Qualification,Slopestyle,20,
-23,Vicktor Noah,Male,15-03-2024,Tignes,FRA,Germany,World Cup,Slopestyle,41,61.50
-24,Vicktor Noah,Male,22-02-2024,Prato Nevoso,ITA,Germany,European Cup,Slopestyle,20,56.40
-25,Vicktor Noah,Male,20-01-2024,Laax,SUI,Germany,World Cup,Slopestyle,9,317.10
-26,Vicktor Noah,Male,16-01-2024,Laax,SUI,Germany,Qualification,Slopestyle,2,
-27,Vicktor Noah,Male,15-12-2023,Copper Mountain,USA,Germany,World Cup,Big Air,39,80.60
-28,Vicktor Noah,Male,13-12-2023,Copper Mountain,USA,Germany,Qualification,Big Air,21,
-29,Vicktor Noah,Male,09-12-2023,Edmonton,CAN,Germany,World Cup,Big Air,DNS,
-30,Vicktor Noah,Male,08-12-2023,Edmonton,CAN,Germany,Qualification,Big Air,DNS,
-31,Vicktor Noah,Male,02-12-2023,Beijing,CHN,Germany,World Cup,Big Air,35,48.00
-32,Vicktor Noah,Male,01-12-2023,Beijing,CHN,Germany,Qualification,Big Air,19,
-33,Vicktor Noah,Male,21-10-2023,Chur,SUI,Germany,Qualification,Big Air,6,
-34,Vicktor Noah,Male,21-10-2023,Chur,SUI,Germany,World Cup,Big Air,12,247.10
-35,Vicktor Noah,Male,17-04-2023,Corvatsch,SUI,Germany,European Cup Premium,Big Air,18,76.00
-36,Vicktor Noah,Male,14-04-2023,Corvatsch,SUI,Germany,European Cup Premium,Slopestyle,6,201.50
-37,Vicktor Noah,Male,26-03-2023,Silvaplana,SUI,Germany,World Cup,Slopestyle,DNS,
-38,Vicktor Noah,Male,25-03-2023,Silvaplana,SUI,Germany,Qualification,Slopestyle,DNS,
-39,Vicktor Noah,Male,20-03-2023,Mottolino Livigno,ITA,Germany,European Cup,Slopestyle,7,101.20
-40,Vicktor Noah,Male,17-03-2023,Laax,SUI,Germany,European Cup Premium,Slopestyle,8,145.40
-41,Vicktor Noah,Male,04-03-2023,Bakuriani,GEO,Germany,World Championships,Big Air,17,134.90
-42,Vicktor Noah,Male,02-03-2023,Bakuriani,GEO,Germany,Qualification,Big Air,9,
-43,Vicktor Noah,Male,27-02-2023,Bakuriani,GEO,Germany,World Championships,Slopestyle,20,129.30
-44,Vicktor Noah,Male,24-02-2023,Bakuriani,GEO,Germany,Qualification,Slopestyle,12,
-45,Vicktor Noah,Male,12-02-2023,Calgary,CAN,Germany,World Cup,Slopestyle,38,10.50
-46,Vicktor Noah,Male,10-02-2023,Calgary,CAN,Germany,Qualification,Slopestyle,20,
-47,Vicktor Noah,Male,04-02-2023,Mammoth Mountain,USA,Germany,World Cup,Slopestyle,19,131.80
-48,Vicktor Noah,Male,01-02-2023,Mammoth Mountain,USA,Germany,Qualification,Slopestyle,11,
-49,Vicktor Noah,Male,22-01-2023,Laax,SUI,Germany,World Cup,Slopestyle,39,80.60
-50,Vicktor Noah,Male,18-01-2023,Laax,SUI,Germany,Qualification,Slopestyle,19,
-51,Vicktor Noah,Male,17-12-2022,Copper Mountain,USA,Germany,World Cup,Big Air,26,108.70
-52,Vicktor Noah,Male,15-12-2022,Copper Mountain,USA,Germany,Qualification,Big Air,12,
-53,Vicktor Noah,Male,10-12-2022,Edmonton,CAN,Germany,World Cup,Big Air,42,45.50
-54,Vicktor Noah,Male,09-12-2022,Edmonton,CAN,Germany,Qualification,Big Air,22,
-55,Vicktor Noah,Male,22-10-2022,Chur,SUI,Germany,World Cup,Big Air,4,470.70
-56,Vicktor Noah,Male,22-10-2022,Chur,SUI,Germany,Qualification,Big Air,4,
-57,Vicktor Noah,Male,09-04-2022,Corvatsch,SUI,Germany,European Cup Premium,Big Air,17,72.90
-58,Vicktor Noah,Male,07-04-2022,Corvatsch,SUI,Germany,European Cup Premium,Slopestyle,17,86.00
-59,Vicktor Noah,Male,06-03-2022,Bakuriani,GEO,Germany,World Cup,Slopestyle,8,106.60
-60,Vicktor Noah,Male,15-02-2022,Beijing,CHN,Germany,Olympic Winter Games,Big Air,24,46.80
-61,Vicktor Noah,Male,14-02-2022,Beijing,CHN,Germany,Qualification,Big Air,24,
-62,Vicktor Noah,Male,07-02-2022,Beijing,CHN,Germany,Olympic Winter Games,Slopestyle,16,138.30
-63,Vicktor Noah,Male,06-02-2022,Beijing,CHN,Germany,Qualification,Slopestyle,16,
-64,Vicktor Noah,Male,15-01-2022,Laax,SUI,Germany,World Cup,Slopestyle,13,181.00
-65,Vicktor Noah,Male,13-01-2022,Laax,SUI,Germany,Qualification,Slopestyle,11,
-66,Vicktor Noah,Male,08-01-2022,Mammoth Mountain,USA,Germany,World Cup,Slopestyle,20,157.70
-67,Vicktor Noah,Male,04-12-2021,Steamboat,USA,Germany,World Cup,Big Air,31,125.50
-68,Vicktor Noah,Male,02-12-2021,Steamboat,USA,Germany,Qualification,Big Air,18,
-69,Vicktor Noah,Male,19-11-2021,Landgraaf,NED,Germany,European Cup,Slopestyle,DNS,
-70,Vicktor Noah,Male,18-11-2021,Landgraaf,NED,Germany,FIS,Slopestyle,14,51.50
-71,Vicktor Noah,Male,11-11-2021,Glacier 3000,SUI,Germany,Open,Slopestyle,7,90.70
-72,Vicktor Noah,Male,20-04-2021,Corvatsch,SUI,Germany,European Cup Premium,Slopestyle,34,35.42
-73,Vicktor Noah,Male,28-03-2021,Silvaplana,SUI,Germany,Qualification,Slopestyle,8,
-74,Vicktor Noah,Male,28-03-2021,Silvaplana,SUI,Germany,World Cup,Slopestyle,8,350.68
-75,Vicktor Noah,Male,20-03-2021,Aspen,USA,Germany,World Cup,Slopestyle,13,237.37
-76,Vicktor Noah,Male,19-03-2021,Aspen,USA,Germany,Qualification,Slopestyle,7,
-77,Vicktor Noah,Male,16-03-2021,Aspen,USA,Germany,World Championships,Big Air,19,142.42
-78,Vicktor Noah,Male,14-03-2021,Aspen,USA,Germany,Qualification,Big Air,9,
-79,Vicktor Noah,Male,12-03-2021,Aspen,USA,Germany,World Championships,Slopestyle,23,149.36
-80,Vicktor Noah,Male,10-03-2021,Aspen,USA,Germany,Qualification,Slopestyle,9,
-81,Vicktor Noah,Male,05-03-2021,Götschen,GER,Germany,European Cup,Big Air,DNS,
-82,Vicktor Noah,Male,04-03-2021,Flachauwinkel,AUT,Germany,European Cup,Big Air,2,132.72
-83,Vicktor Noah,Male,22-02-2021,Götschen,GER,Germany,European Cup,Big Air,5,101.61
-84,Vicktor Noah,Male,21-02-2021,Götschen,GER,Germany,European Cup,Slopestyle,3,125.35
-85,Vicktor Noah,Male,19-02-2021,Davos,SUI,Germany,European Cup,Big Air,20,60.69
-86,Vicktor Noah,Male,31-01-2021,Crans Montana,SUI,Germany,European Cup,Slopestyle,60,18.28
-87,Vicktor Noah,Male,22-01-2021,Laax,SUI,Germany,World Cup,Slopestyle,45,27.59
-88,Vicktor Noah,Male,19-01-2021,Laax,SUI,Germany,Qualification,Slopestyle,45,
-89,Vicktor Noah,Male,09-01-2021,Kreischberg,AUT,Germany,Qualification,Big Air,31,
-90,Vicktor Noah,Male,09-01-2021,Kreischberg,AUT,Germany,World Cup,Big Air,61,0.16
-91,Vicktor Noah,Male,26-11-2020,Glacier 3000,SUI,Germany,FIS,Slopestyle,1,220.00
-92,Vicktor Noah,Male,06-03-2020,Absolut Park Flachauwinkel,AUT,Germany,European Cup,Big Air,5,90.00
-93,Vicktor Noah,Male,16-02-2020,Calgary,CAN,Germany,World Cup,Slopestyle,37,19.40
-94,Vicktor Noah,Male,14-02-2020,Calgary,CAN,Germany,Qualification,Slopestyle,19,
-95,Vicktor Noah,Male,07-02-2020,Mammoth Mountain Ski Resort,USA,Germany,Nor-Am Cup,Slopestyle,6,96.00
-96,Vicktor Noah,Male,01-02-2020,Mammoth Mountain Resort,USA,Germany,World Cup,Slopestyle,23,80.00
-97,Vicktor Noah,Male,30-01-2020,Mammoth Mountain Resort,USA,Germany,Qualification,Slopestyle,12,
-98,Vicktor Noah,Male,23-01-2020,Seiseralm,ITA,Germany,World Cup,Slopestyle,13,200.00
-99,Vicktor Noah,Male,22-01-2020,Seiseralm,ITA,Germany,Qualification,Slopestyle,1,
-100,Vicktor Noah,Male,15-01-2020,Laax,SUI,Germany,World Cup,Slopestyle,38,19.10
-101,Vicktor Noah,Male,13-01-2020,Laax,SUI,Germany,Qualification,Slopestyle,18,
-102,Vicktor Noah,Male,14-12-2019,Beijing,CHN,Germany,World Cup,Big Air,45,17.00
-103,Vicktor Noah,Male,12-12-2019,Beijing,CHN,Germany,Qualification,Big Air,22,
-104,Vicktor Noah,Male,02-11-2019,Modena SKIPASS,ITA,Germany,World Cup,Big Air,24,70.00
-105,Vicktor Noah,Male,13-04-2019,Klaeppen,SWE,Germany,FIS Junior World Championships,Big Air,50,3.72
-106,Vicktor Noah,Male,12-04-2019,Klaeppen,SWE,Germany,Qualification,Big Air,15,
-107,Vicktor Noah,Male,09-04-2019,Klaeppen,SWE,Germany,FIS Junior World Championships,Slopestyle,4,120.00
-108,Vicktor Noah,Male,08-04-2019,Klaeppen,SWE,Germany,Qualification,Slopestyle,2,
-109,Vicktor Noah,Male,29-03-2019,Livigno,ITA,Germany,European Cup,Slopestyle,4,100.00
-110,Vicktor Noah,Male,28-03-2019,Livigno,ITA,Germany,European Cup,Slopestyle,6,80.00
-111,Vicktor Noah,Male,22-03-2019,Laax,SUI,Germany,European Cup,Slopestyle,1,160.00
-112,Vicktor Noah,Male,19-03-2019,Jasna,SVK,Germany,European Cup,Slopestyle,2,128.00
-113,Vicktor Noah,Male,18-03-2019,Jasna,SVK,Germany,European Cup,Slopestyle,1,160.00
-114,Vicktor Noah,Male,16-03-2019,Pec pod Snezkou,CZE,Germany,European Cup,Slopestyle,2,128.00
-115,Vicktor Noah,Male,27-02-2019,Götschen,GER,Germany,European Cup,Big Air,2,128.00
-116,Vicktor Noah,Male,26-02-2019,Götschen,GER,Germany,European Cup,Big Air,2,128.00
-117,Vicktor Noah,Male,22-02-2019,Davos,SUI,Germany,European Cup,Big Air,6,64.00
-118,Vicktor Noah,Male,08-02-2019,Kopaonik,SRB,Germany,European Cup,Big Air,1,160.00
-119,Vicktor Noah,Male,07-02-2019,Kopaonik,SRB,Germany,European Cup,Big Air,2,128.00
-120,Vicktor Noah,Male,03-02-2019,Sarajevo,BIH,Germany,European Cup,Big Air,7,57.60
-121,Vicktor Noah,Male,03-02-2019,Sarajevo,BIH,Germany,European Cup,Big Air,2,128.00
-122,Vicktor Noah,Male,26-01-2019,Vars,FRA,Germany,European Cup,Big Air,11,43.20
-123,Vicktor Noah,Male,25-01-2019,Vars,FRA,Germany,European Cup,Slopestyle,3,96.00
-124,Vicktor Noah,Male,22-01-2019,Font Romeu,FRA,Germany,European Cup,Big Air,3,96.00
-125,Vicktor Noah,Male,17-01-2019,Kreischberg,AUT,Germany,European Cup,Big Air,4,90.00
-126,Vicktor Noah,Male,16-01-2019,Kreischberg,AUT,Germany,European Cup,Slopestyle,14,28.80
-127,Vicktor Noah,Male,12-01-2019,Kreischberg,AUT,Germany,World Cup,Slopestyle,27,45.00
-128,Vicktor Noah,Male,11-01-2019,Kreischberg,AUT,Germany,Qualification,Slopestyle,15,
-129,Vicktor Noah,Male,22-11-2018,Landgraaf,NED,Germany,European Cup,Slopestyle,21,16.00
-130,Vicktor Noah,Male,21-11-2018,Landgraaf,NED,Germany,FIS,Slopestyle,8,35.20
-131,Vicktor Noah,Male,31-08-2018,Cardrona,NZL,Germany,FIS Junior World Championships,Slopestyle,24,16.80
-132,Vicktor Noah,Male,30-08-2018,Cardrona,NZL,Germany,Qualification,Slopestyle,10,
-133,Vicktor Noah,Male,14-01-2018,Jasna,SVK,Germany,European Cup,Slopestyle,1,160.00
-134,Vicktor Noah,Male,13-01-2018,Jasna,SVK,Germany,European Cup,Slopestyle,3,96.00
-135,Vicktor Noah,Male,23-11-2017,Landgraaf,NED,Germany,European Cup,Slopestyle,15,25.60
-136,Vicktor Noah,Male,22-11-2017,Landgraaf,NED,Germany,FIS,Slopestyle,8,35.20
-137,Vicktor Noah,Male,01-04-2017,Spindleruv Mlyn,CZE,Germany,FIS Junior World Championships,Big Air,25,14.40
-138,Vicktor Noah,Male,31-03-2017,Spindleruv Mlyn,CZE,Germany,FIS Junior World Championships,Slopestyle,28,14.40
-139,Vicktor Noah,Male,30-03-2017,Spindleruv Mlyn,CZE,Germany,Qualification,Slopestyle,8,
-140,Vicktor Noah,Male,29-03-2017,Spindleruv Mlyn,CZE,Germany,Qualification,Big Air,7,
-141,Vicktor Noah,Male,24-03-2017,Kühtai,AUT,Germany,European Cup,Big Air,11,38.40
-142,Vicktor Noah,Male,17-02-2017,Goetschen,GER,Germany,European Cup,Big Air,6,64.00
-143,Vicktor Noah,Male,28-02-2016,Kühtai,AUT,Germany,National Championships,Halfpipe,9,20.30
-144,Vicktor Noah,Male,26-02-2016,Kühtai,AUT,Germany,National Championships,Big Air,10,
-145,Vicktor Noah,Male,05-11-2015,Landgraaf,NED,Germany,European Cup,Slopestyle,56,3.56
-146,Vicktor Noah,Male,04-11-2015,Landgraaf,NED,Germany,European Cup,Slopestyle,76,2.00
-147,Vicktor Noah,Male,14-03-2015,Kühtai,AUT,Germany,National Championships,Halfpipe,5,22.50
+0,Vicktor Noah,Male,28-03-2025,Engadin,SUI,Germany,World Championships,Big Air,39,
+1,Vicktor Noah,Male,25-03-2025,Engadin,SUI,Germany,Qualification,Big Air,23,
+2,Vicktor Noah,Male,21-03-2025,Engadin,SUI,Germany,World Championships,Slopestyle,8,351.20
+3,Vicktor Noah,Male,20-03-2025,Engadin,SUI,Germany,Qualification,Slopestyle,8,
+4,Vicktor Noah,Male,22-02-2025,Calgary,CAN,Germany,World Cup,Slopestyle,44,61.60
+5,Vicktor Noah,Male,20-02-2025,Calgary,CAN,Germany,Qualification,Slopestyle,22,
+6,Vicktor Noah,Male,02-02-2025,Aspen,USA,Germany,World Cup,Slopestyle,DNS,
+7,Vicktor Noah,Male,31-01-2025,Aspen,USA,Germany,Qualification,Slopestyle,DNS,
+8,Vicktor Noah,Male,18-01-2025,Laax,SUI,Germany,World Cup,Slopestyle,3,696.50
+9,Vicktor Noah,Male,16-01-2025,Laax,SUI,Germany,Qualification,Slopestyle,12,
+10,Vicktor Noah,Male,11-01-2025,Kreischberg,AUT,Germany,Qualification,Big Air,20,
+11,Vicktor Noah,Male,11-01-2025,Kreischberg,AUT,Germany,World Cup,Big Air,41,65.00
+12,Vicktor Noah,Male,05-01-2025,Klagenfurt,AUT,Germany,Qualification,Big Air,9,
+13,Vicktor Noah,Male,05-01-2025,Klagenfurt,AUT,Germany,World Cup,Big Air,23,133.70
+14,Vicktor Noah,Male,01-12-2024,Beijing,CHN,Germany,World Cup,Big Air,19,171.90
+15,Vicktor Noah,Male,30-11-2024,Beijing,CHN,Germany,Qualification,Big Air,8,
+16,Vicktor Noah,Male,19-10-2024,Chur,SUI,Germany,World Cup,Big Air,21,144.10
+17,Vicktor Noah,Male,02-09-2024,Cardrona,NZL,Germany,World Cup,Slopestyle,9,313.80
+18,Vicktor Noah,Male,31-08-2024,Cardrona,NZL,Germany,Qualification,Slopestyle,5,
+19,Vicktor Noah,Male,14-04-2024,Corvatsch,SUI,Germany,European Cup Premium,Big Air,17,107.50
+20,Vicktor Noah,Male,12-04-2024,Corvatsch,SUI,Germany,European Cup Premium,Slopestyle,55,59.50
+21,Vicktor Noah,Male,23-03-2024,Silvaplana,SUI,Germany,World Cup,Slopestyle,21,169.00
+22,Vicktor Noah,Male,21-03-2024,Silvaplana,SUI,Germany,Qualification,Slopestyle,12,
+23,Vicktor Noah,Male,15-03-2024,Tignes,FRA,Germany,Qualification,Slopestyle,20,
+24,Vicktor Noah,Male,15-03-2024,Tignes,FRA,Germany,World Cup,Slopestyle,41,61.50
+25,Vicktor Noah,Male,22-02-2024,Prato Nevoso,ITA,Germany,European Cup,Slopestyle,20,56.40
+26,Vicktor Noah,Male,20-01-2024,Laax,SUI,Germany,World Cup,Slopestyle,9,317.10
+27,Vicktor Noah,Male,16-01-2024,Laax,SUI,Germany,Qualification,Slopestyle,2,
+28,Vicktor Noah,Male,15-12-2023,Copper Mountain,USA,Germany,World Cup,Big Air,39,80.60
+29,Vicktor Noah,Male,13-12-2023,Copper Mountain,USA,Germany,Qualification,Big Air,21,
+30,Vicktor Noah,Male,09-12-2023,Edmonton,CAN,Germany,World Cup,Big Air,DNS,
+31,Vicktor Noah,Male,08-12-2023,Edmonton,CAN,Germany,Qualification,Big Air,DNS,
+32,Vicktor Noah,Male,02-12-2023,Beijing,CHN,Germany,World Cup,Big Air,35,48.00
+33,Vicktor Noah,Male,01-12-2023,Beijing,CHN,Germany,Qualification,Big Air,19,
+34,Vicktor Noah,Male,21-10-2023,Chur,SUI,Germany,Qualification,Big Air,6,
+35,Vicktor Noah,Male,21-10-2023,Chur,SUI,Germany,World Cup,Big Air,12,247.10
+36,Vicktor Noah,Male,17-04-2023,Corvatsch,SUI,Germany,European Cup Premium,Big Air,18,76.00
+37,Vicktor Noah,Male,14-04-2023,Corvatsch,SUI,Germany,European Cup Premium,Slopestyle,6,201.50
+38,Vicktor Noah,Male,26-03-2023,Silvaplana,SUI,Germany,World Cup,Slopestyle,DNS,
+39,Vicktor Noah,Male,25-03-2023,Silvaplana,SUI,Germany,Qualification,Slopestyle,DNS,
+40,Vicktor Noah,Male,20-03-2023,Mottolino Livigno,ITA,Germany,European Cup,Slopestyle,7,101.20
+41,Vicktor Noah,Male,17-03-2023,Laax,SUI,Germany,European Cup Premium,Slopestyle,8,145.40
+42,Vicktor Noah,Male,04-03-2023,Bakuriani,GEO,Germany,World Championships,Big Air,17,134.90
+43,Vicktor Noah,Male,02-03-2023,Bakuriani,GEO,Germany,Qualification,Big Air,9,
+44,Vicktor Noah,Male,27-02-2023,Bakuriani,GEO,Germany,World Championships,Slopestyle,20,129.30
+45,Vicktor Noah,Male,24-02-2023,Bakuriani,GEO,Germany,Qualification,Slopestyle,12,
+46,Vicktor Noah,Male,12-02-2023,Calgary,CAN,Germany,World Cup,Slopestyle,38,10.50
+47,Vicktor Noah,Male,10-02-2023,Calgary,CAN,Germany,Qualification,Slopestyle,20,
+48,Vicktor Noah,Male,04-02-2023,Mammoth Mountain,USA,Germany,World Cup,Slopestyle,19,131.80
+49,Vicktor Noah,Male,01-02-2023,Mammoth Mountain,USA,Germany,Qualification,Slopestyle,11,
+50,Vicktor Noah,Male,22-01-2023,Laax,SUI,Germany,World Cup,Slopestyle,39,80.60
+51,Vicktor Noah,Male,18-01-2023,Laax,SUI,Germany,Qualification,Slopestyle,19,
+52,Vicktor Noah,Male,17-12-2022,Copper Mountain,USA,Germany,World Cup,Big Air,26,108.70
+53,Vicktor Noah,Male,15-12-2022,Copper Mountain,USA,Germany,Qualification,Big Air,12,
+54,Vicktor Noah,Male,10-12-2022,Edmonton,CAN,Germany,World Cup,Big Air,42,45.50
+55,Vicktor Noah,Male,09-12-2022,Edmonton,CAN,Germany,Qualification,Big Air,22,
+56,Vicktor Noah,Male,22-10-2022,Chur,SUI,Germany,World Cup,Big Air,4,470.70
+57,Vicktor Noah,Male,22-10-2022,Chur,SUI,Germany,Qualification,Big Air,4,
+58,Vicktor Noah,Male,09-04-2022,Corvatsch,SUI,Germany,European Cup Premium,Big Air,17,72.90
+59,Vicktor Noah,Male,07-04-2022,Corvatsch,SUI,Germany,European Cup Premium,Slopestyle,17,86.00
+60,Vicktor Noah,Male,06-03-2022,Bakuriani,GEO,Germany,World Cup,Slopestyle,8,106.60
+61,Vicktor Noah,Male,15-02-2022,Beijing,CHN,Germany,Olympic Winter Games,Big Air,24,46.80
+62,Vicktor Noah,Male,14-02-2022,Beijing,CHN,Germany,Qualification,Big Air,24,
+63,Vicktor Noah,Male,07-02-2022,Beijing,CHN,Germany,Olympic Winter Games,Slopestyle,16,138.30
+64,Vicktor Noah,Male,06-02-2022,Beijing,CHN,Germany,Qualification,Slopestyle,16,
+65,Vicktor Noah,Male,15-01-2022,Laax,SUI,Germany,World Cup,Slopestyle,13,181.00
+66,Vicktor Noah,Male,13-01-2022,Laax,SUI,Germany,Qualification,Slopestyle,11,
+67,Vicktor Noah,Male,08-01-2022,Mammoth Mountain,USA,Germany,World Cup,Slopestyle,20,157.70
+68,Vicktor Noah,Male,04-12-2021,Steamboat,USA,Germany,World Cup,Big Air,31,125.50
+69,Vicktor Noah,Male,02-12-2021,Steamboat,USA,Germany,Qualification,Big Air,18,
+70,Vicktor Noah,Male,19-11-2021,Landgraaf,NED,Germany,European Cup,Slopestyle,DNS,
+71,Vicktor Noah,Male,18-11-2021,Landgraaf,NED,Germany,FIS,Slopestyle,14,51.50
+72,Vicktor Noah,Male,11-11-2021,Glacier 3000,SUI,Germany,Open,Slopestyle,7,90.70
+73,Vicktor Noah,Male,20-04-2021,Corvatsch,SUI,Germany,European Cup Premium,Slopestyle,34,35.42
+74,Vicktor Noah,Male,28-03-2021,Silvaplana,SUI,Germany,Qualification,Slopestyle,8,
+75,Vicktor Noah,Male,28-03-2021,Silvaplana,SUI,Germany,World Cup,Slopestyle,8,350.68
+76,Vicktor Noah,Male,20-03-2021,Aspen,USA,Germany,World Cup,Slopestyle,13,237.37
+77,Vicktor Noah,Male,19-03-2021,Aspen,USA,Germany,Qualification,Slopestyle,7,
+78,Vicktor Noah,Male,16-03-2021,Aspen,USA,Germany,World Championships,Big Air,19,142.42
+79,Vicktor Noah,Male,14-03-2021,Aspen,USA,Germany,Qualification,Big Air,9,
+80,Vicktor Noah,Male,12-03-2021,Aspen,USA,Germany,World Championships,Slopestyle,23,149.36
+81,Vicktor Noah,Male,10-03-2021,Aspen,USA,Germany,Qualification,Slopestyle,9,
+82,Vicktor Noah,Male,05-03-2021,Götschen,GER,Germany,European Cup,Big Air,DNS,
+83,Vicktor Noah,Male,04-03-2021,Flachauwinkel,AUT,Germany,European Cup,Big Air,2,132.72
+84,Vicktor Noah,Male,22-02-2021,Götschen,GER,Germany,European Cup,Big Air,5,101.61
+85,Vicktor Noah,Male,21-02-2021,Götschen,GER,Germany,European Cup,Slopestyle,3,125.35
+86,Vicktor Noah,Male,19-02-2021,Davos,SUI,Germany,European Cup,Big Air,20,60.69
+87,Vicktor Noah,Male,31-01-2021,Crans Montana,SUI,Germany,European Cup,Slopestyle,60,18.28
+88,Vicktor Noah,Male,22-01-2021,Laax,SUI,Germany,World Cup,Slopestyle,45,27.59
+89,Vicktor Noah,Male,19-01-2021,Laax,SUI,Germany,Qualification,Slopestyle,45,
+90,Vicktor Noah,Male,09-01-2021,Kreischberg,AUT,Germany,Qualification,Big Air,31,
+91,Vicktor Noah,Male,09-01-2021,Kreischberg,AUT,Germany,World Cup,Big Air,61,0.16
+92,Vicktor Noah,Male,26-11-2020,Glacier 3000,SUI,Germany,FIS,Slopestyle,1,220.00
+93,Vicktor Noah,Male,06-03-2020,Absolut Park Flachauwinkel,AUT,Germany,European Cup,Big Air,5,90.00
+94,Vicktor Noah,Male,16-02-2020,Calgary,CAN,Germany,World Cup,Slopestyle,37,19.40
+95,Vicktor Noah,Male,14-02-2020,Calgary,CAN,Germany,Qualification,Slopestyle,19,
+96,Vicktor Noah,Male,07-02-2020,Mammoth Mountain Ski Resort,USA,Germany,Nor-Am Cup,Slopestyle,6,96.00
+97,Vicktor Noah,Male,01-02-2020,Mammoth Mountain Resort,USA,Germany,World Cup,Slopestyle,23,80.00
+98,Vicktor Noah,Male,30-01-2020,Mammoth Mountain Resort,USA,Germany,Qualification,Slopestyle,12,
+99,Vicktor Noah,Male,23-01-2020,Seiseralm,ITA,Germany,World Cup,Slopestyle,13,200.00
+100,Vicktor Noah,Male,22-01-2020,Seiseralm,ITA,Germany,Qualification,Slopestyle,1,
+101,Vicktor Noah,Male,15-01-2020,Laax,SUI,Germany,World Cup,Slopestyle,38,19.10
+102,Vicktor Noah,Male,13-01-2020,Laax,SUI,Germany,Qualification,Slopestyle,18,
+103,Vicktor Noah,Male,14-12-2019,Beijing,CHN,Germany,World Cup,Big Air,45,17.00
+104,Vicktor Noah,Male,12-12-2019,Beijing,CHN,Germany,Qualification,Big Air,22,
+105,Vicktor Noah,Male,02-11-2019,Modena SKIPASS,ITA,Germany,World Cup,Big Air,24,70.00
+106,Vicktor Noah,Male,13-04-2019,Klaeppen,SWE,Germany,FIS Junior World Championships,Big Air,50,3.72
+107,Vicktor Noah,Male,12-04-2019,Klaeppen,SWE,Germany,Qualification,Big Air,15,
+108,Vicktor Noah,Male,09-04-2019,Klaeppen,SWE,Germany,FIS Junior World Championships,Slopestyle,4,120.00
+109,Vicktor Noah,Male,08-04-2019,Klaeppen,SWE,Germany,Qualification,Slopestyle,2,
+110,Vicktor Noah,Male,29-03-2019,Livigno,ITA,Germany,European Cup,Slopestyle,4,100.00
+111,Vicktor Noah,Male,28-03-2019,Livigno,ITA,Germany,European Cup,Slopestyle,6,80.00
+112,Vicktor Noah,Male,22-03-2019,Laax,SUI,Germany,European Cup,Slopestyle,1,160.00
+113,Vicktor Noah,Male,19-03-2019,Jasna,SVK,Germany,European Cup,Slopestyle,2,128.00
+114,Vicktor Noah,Male,18-03-2019,Jasna,SVK,Germany,European Cup,Slopestyle,1,160.00
+115,Vicktor Noah,Male,16-03-2019,Pec pod Snezkou,CZE,Germany,European Cup,Slopestyle,2,128.00
+116,Vicktor Noah,Male,27-02-2019,Götschen,GER,Germany,European Cup,Big Air,2,128.00
+117,Vicktor Noah,Male,26-02-2019,Götschen,GER,Germany,European Cup,Big Air,2,128.00
+118,Vicktor Noah,Male,22-02-2019,Davos,SUI,Germany,European Cup,Big Air,6,64.00
+119,Vicktor Noah,Male,08-02-2019,Kopaonik,SRB,Germany,European Cup,Big Air,1,160.00
+120,Vicktor Noah,Male,07-02-2019,Kopaonik,SRB,Germany,European Cup,Big Air,2,128.00
+121,Vicktor Noah,Male,03-02-2019,Sarajevo,BIH,Germany,European Cup,Big Air,7,57.60
+122,Vicktor Noah,Male,03-02-2019,Sarajevo,BIH,Germany,European Cup,Big Air,2,128.00
+123,Vicktor Noah,Male,26-01-2019,Vars,FRA,Germany,European Cup,Big Air,11,43.20
+124,Vicktor Noah,Male,25-01-2019,Vars,FRA,Germany,European Cup,Slopestyle,3,96.00
+125,Vicktor Noah,Male,22-01-2019,Font Romeu,FRA,Germany,European Cup,Big Air,3,96.00
+126,Vicktor Noah,Male,17-01-2019,Kreischberg,AUT,Germany,European Cup,Big Air,4,90.00
+127,Vicktor Noah,Male,16-01-2019,Kreischberg,AUT,Germany,European Cup,Slopestyle,14,28.80
+128,Vicktor Noah,Male,12-01-2019,Kreischberg,AUT,Germany,World Cup,Slopestyle,27,45.00
+129,Vicktor Noah,Male,11-01-2019,Kreischberg,AUT,Germany,Qualification,Slopestyle,15,
+130,Vicktor Noah,Male,22-11-2018,Landgraaf,NED,Germany,European Cup,Slopestyle,21,16.00
+131,Vicktor Noah,Male,21-11-2018,Landgraaf,NED,Germany,FIS,Slopestyle,8,35.20
+132,Vicktor Noah,Male,31-08-2018,Cardrona,NZL,Germany,FIS Junior World Championships,Slopestyle,24,16.80
+133,Vicktor Noah,Male,30-08-2018,Cardrona,NZL,Germany,Qualification,Slopestyle,10,
+134,Vicktor Noah,Male,14-01-2018,Jasna,SVK,Germany,European Cup,Slopestyle,1,160.00
+135,Vicktor Noah,Male,13-01-2018,Jasna,SVK,Germany,European Cup,Slopestyle,3,96.00
+136,Vicktor Noah,Male,23-11-2017,Landgraaf,NED,Germany,European Cup,Slopestyle,15,25.60
+137,Vicktor Noah,Male,22-11-2017,Landgraaf,NED,Germany,FIS,Slopestyle,8,35.20
+138,Vicktor Noah,Male,01-04-2017,Spindleruv Mlyn,CZE,Germany,FIS Junior World Championships,Big Air,25,14.40
+139,Vicktor Noah,Male,31-03-2017,Spindleruv Mlyn,CZE,Germany,FIS Junior World Championships,Slopestyle,28,14.40
+140,Vicktor Noah,Male,30-03-2017,Spindleruv Mlyn,CZE,Germany,Qualification,Slopestyle,8,
+141,Vicktor Noah,Male,29-03-2017,Spindleruv Mlyn,CZE,Germany,Qualification,Big Air,7,
+142,Vicktor Noah,Male,24-03-2017,Kühtai,AUT,Germany,European Cup,Big Air,11,38.40
+143,Vicktor Noah,Male,17-02-2017,Goetschen,GER,Germany,European Cup,Big Air,6,64.00
+144,Vicktor Noah,Male,28-02-2016,Kühtai,AUT,Germany,National Championships,Halfpipe,9,20.30
+145,Vicktor Noah,Male,26-02-2016,Kühtai,AUT,Germany,National Championships,Big Air,10,
+146,Vicktor Noah,Male,05-11-2015,Landgraaf,NED,Germany,European Cup,Slopestyle,56,3.56
+147,Vicktor Noah,Male,04-11-2015,Landgraaf,NED,Germany,European Cup,Slopestyle,76,2.00
+148,Vicktor Noah,Male,14-03-2015,Kühtai,AUT,Germany,National Championships,Halfpipe,5,22.50

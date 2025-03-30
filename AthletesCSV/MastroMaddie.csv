@@ -1,83 +1,85 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Mastro Maddie,Female,21-02-2025,Calgary,CAN,United States Of America,World Cup,Halfpipe,2,658.60
-1,Mastro Maddie,Female,19-02-2025,Calgary,CAN,United States Of America,Qualification,Halfpipe,2,
-2,Mastro Maddie,Female,01-02-2025,Aspen,USA,United States Of America,World Cup,Halfpipe,4,581.60
-3,Mastro Maddie,Female,30-01-2025,Aspen,USA,United States Of America,Qualification,Halfpipe,4,
-4,Mastro Maddie,Female,18-01-2025,Laax,SUI,United States Of America,World Cup,Halfpipe,2,825.50
-5,Mastro Maddie,Female,17-01-2025,Laax,SUI,United States Of America,Qualification,Halfpipe,5,
-6,Mastro Maddie,Female,20-12-2024,Copper,USA,United States Of America,World Cup,Halfpipe,6,429.20
-7,Mastro Maddie,Female,18-12-2024,Copper,USA,United States Of America,Qualification,Halfpipe,3,
-8,Mastro Maddie,Female,08-12-2024,Secret Garden,CHN,United States Of America,World Cup,Halfpipe,1,1000.00
-9,Mastro Maddie,Female,06-12-2024,Secret Garden,CHN,United States Of America,Qualification,Halfpipe,6,
-10,Mastro Maddie,Female,10-02-2024,Calgary,CAN,United States Of America,World Cup,Halfpipe,2,816.40
-11,Mastro Maddie,Female,09-02-2024,Calgary,CAN,United States Of America,Qualification,Halfpipe,2,
-12,Mastro Maddie,Female,03-02-2024,Mammoth Mountain,USA,United States Of America,World Cup,Halfpipe,3,678.00
-13,Mastro Maddie,Female,30-01-2024,Mammoth Mountain,USA,United States Of America,Qualification,Halfpipe,2,
-14,Mastro Maddie,Female,20-01-2024,Laax,SUI,United States Of America,World Cup,Halfpipe,8,295.90
-15,Mastro Maddie,Female,16-12-2023,Copper Mountain,USA,United States Of America,World Cup,Halfpipe,3,544.70
-16,Mastro Maddie,Female,14-12-2023,Copper Mountain,USA,United States Of America,Qualification,Halfpipe,3,
-17,Mastro Maddie,Female,08-12-2023,Secret Garden,CHN,United States Of America,World Cup,Halfpipe,3,672.10
-18,Mastro Maddie,Female,06-12-2023,Secret Garden,CHN,United States Of America,Qualification,Halfpipe,4,
-19,Mastro Maddie,Female,10-02-2023,Calgary,CAN,United States Of America,World Cup,Halfpipe,10,39.70
-20,Mastro Maddie,Female,09-02-2023,Calgary,CAN,United States Of America,Qualification,Halfpipe,10,
-21,Mastro Maddie,Female,04-02-2023,Mammoth Mountain,USA,United States Of America,World Cup,Halfpipe,3,680.80
-22,Mastro Maddie,Female,02-02-2023,Mammoth Mountain,USA,United States Of America,Qualification,Halfpipe,5,
-23,Mastro Maddie,Female,21-01-2023,Laax,SUI,United States Of America,World Cup,Halfpipe,3,680.80
-24,Mastro Maddie,Female,19-01-2023,Laax,SUI,United States Of America,Qualification,Halfpipe,3,
-25,Mastro Maddie,Female,16-12-2022,Copper Mountain,USA,United States Of America,World Cup,Halfpipe,5,480.00
-26,Mastro Maddie,Female,14-12-2022,Copper Mountain,USA,United States Of America,Qualification,Halfpipe,3,
-27,Mastro Maddie,Female,10-02-2022,Beijing,CHN,United States Of America,Olympic Winter Games,Halfpipe,13,142.60
-28,Mastro Maddie,Female,09-02-2022,Beijing,CHN,United States Of America,Qualification,Halfpipe,13,
-29,Mastro Maddie,Female,21-03-2021,Aspen,USA,United States Of America,World Cup,Halfpipe,8,306.99
-30,Mastro Maddie,Female,18-03-2021,Aspen,USA,United States Of America,Qualification,Halfpipe,3,
-31,Mastro Maddie,Female,13-03-2021,Aspen,USA,United States Of America,World Championships,Halfpipe,2,818.79
-32,Mastro Maddie,Female,11-03-2021,Aspen,USA,United States Of America,Qualification,Halfpipe,3,
-33,Mastro Maddie,Female,23-01-2021,Laax,SUI,United States Of America,World Cup,Halfpipe,9,263.86
-34,Mastro Maddie,Female,21-01-2021,Laax,SUI,United States Of America,Qualification,Halfpipe,9,
-35,Mastro Maddie,Female,15-02-2020,Calgary,CAN,United States Of America,World Cup,Halfpipe,4,500.00
-36,Mastro Maddie,Female,13-02-2020,Calgary,CAN,United States Of America,Qualification,Halfpipe,2,
-37,Mastro Maddie,Female,31-01-2020,Mammoth Mountain Resort,USA,United States Of America,World Cup,Halfpipe,2,800.00
-38,Mastro Maddie,Female,29-01-2020,Mammoth Mountain Resort,USA,United States Of America,Qualification,Halfpipe,4,
-39,Mastro Maddie,Female,18-01-2020,Laax,SUI,United States Of America,World Cup,Halfpipe,12,220.00
-40,Mastro Maddie,Female,16-01-2020,Laax,SUI,United States Of America,Qualification,Halfpipe,12,
-41,Mastro Maddie,Female,22-12-2019,Secret Garden,CHN,United States Of America,World Cup,Halfpipe,3,600.00
-42,Mastro Maddie,Female,20-12-2019,Secret Garden,CHN,United States Of America,Qualification,Halfpipe,2,
-43,Mastro Maddie,Female,14-12-2019,Copper Mountain Resort,USA,United States Of America,World Cup,Halfpipe,3,600.00
-44,Mastro Maddie,Female,12-12-2019,Copper Mountain Resort,USA,United States Of America,Qualification,Halfpipe,1,
-45,Mastro Maddie,Female,08-02-2019,Park City,USA,United States Of America,World Championships,Halfpipe,3,600.00
-46,Mastro Maddie,Female,06-02-2019,Park City,USA,United States Of America,Qualification,Halfpipe,5,
-47,Mastro Maddie,Female,19-01-2019,Laax,SUI,United States Of America,World Cup,Halfpipe,5,450.00
-48,Mastro Maddie,Female,16-01-2019,Laax,SUI,United States Of America,Qualification,Halfpipe,8,
-49,Mastro Maddie,Female,08-12-2018,Copper Mountain Resort,USA,United States Of America,World Cup,Halfpipe,2,800.00
-50,Mastro Maddie,Female,06-12-2018,Copper Mountain Resort,USA,United States Of America,Qualification,Halfpipe,2,
-51,Mastro Maddie,Female,13-02-2018,Phoenix Snow Park,KOR,United States Of America,Olympic Winter Games,Halfpipe,12,220.00
-52,Mastro Maddie,Female,12-02-2018,Phoenix Snow Park,KOR,United States Of America,Qualification,Halfpipe,4,
-53,Mastro Maddie,Female,13-01-2018,Snowmass,USA,United States Of America,World Cup,Halfpipe,3,600.00
-54,Mastro Maddie,Female,11-01-2018,Snowmass,USA,United States Of America,Qualification,Halfpipe,2,
-55,Mastro Maddie,Female,09-12-2017,Copper Mountain Resort,USA,United States Of America,World Cup,Halfpipe,2,800.00
-56,Mastro Maddie,Female,07-12-2017,Copper Mountain Resort,USA,United States Of America,Qualification,Halfpipe,1,
-57,Mastro Maddie,Female,08-09-2017,Cardrona,NZL,United States Of America,World Cup,Halfpipe,3,600.00
-58,Mastro Maddie,Female,07-09-2017,Cardrona,NZL,United States Of America,Qualification,Halfpipe,1,
-59,Mastro Maddie,Female,11-03-2017,Sierra Nevada,ESP,United States Of America,World Championships,Halfpipe,6,400.00
-60,Mastro Maddie,Female,10-03-2017,Sierra Nevada,ESP,United States Of America,Qualification,Halfpipe,3,
-61,Mastro Maddie,Female,19-02-2017,Phoenix Pyeongchang,KOR,United States Of America,World Cup,Halfpipe,6,400.00
-62,Mastro Maddie,Female,17-02-2017,Phoenix Pyeongchang,KOR,United States Of America,Qualification,Halfpipe,5,
-63,Mastro Maddie,Female,05-02-2017,Mammoth Mountain Resort,USA,United States Of America,World Cup,Halfpipe,16,150.00
-64,Mastro Maddie,Female,01-02-2017,Mammoth Mountain Resort,USA,United States Of America,Qualification,Halfpipe,16,
-65,Mastro Maddie,Female,16-12-2016,Copper,USA,United States Of America,World Cup,Halfpipe,11,240.00
-66,Mastro Maddie,Female,14-12-2016,Copper,USA,United States Of America,Qualification,Halfpipe,11,
-67,Mastro Maddie,Female,08-12-2016,Copper Mountain Resort,USA,United States Of America,FIS,Halfpipe,3,132.00
-68,Mastro Maddie,Female,06-02-2016,Park City,USA,United States Of America,World Cup,Halfpipe,2,800.00
-69,Mastro Maddie,Female,04-02-2016,Park City,USA,United States Of America,Qualification,Halfpipe,2,
-70,Mastro Maddie,Female,24-01-2016,Mammoth,USA,United States Of America,World Cup,Halfpipe,3,600.00
-71,Mastro Maddie,Female,20-03-2015,Mammoth Mountain,USA,United States Of America,FIS,Halfpipe,9,34.80
-72,Mastro Maddie,Female,15-03-2015,Yabuli,CHN,United States Of America,FIS Junior World Championships,Halfpipe,6,144.00
-73,Mastro Maddie,Female,12-02-2015,"Mammoth Mountain, CA",USA,United States Of America,FIS,Halfpipe,2,176.00
-74,Mastro Maddie,Female,30-01-2015,"Seven Springs Resort, PA",USA,United States Of America,FIS,Slopestyle,16,
-75,Mastro Maddie,Female,29-01-2015,"Seven Springs Resort, PA",USA,United States Of America,FIS,Halfpipe,1,100.00
-76,Mastro Maddie,Female,16-12-2014,"Copper Mountain, CO",USA,United States Of America,FIS,Halfpipe,1,200.00
-77,Mastro Maddie,Female,30-03-2014,Chiesa in Valmalenco,ITA,United States Of America,FIS Junior World Championships,Slopestyle,10,
-78,Mastro Maddie,Female,26-03-2014,Chiesa in Valmalenco,ITA,United States Of America,FIS Junior World Championships,Halfpipe,6,144.00
-79,Mastro Maddie,Female,07-03-2014,"Sun Valley, ID",USA,United States Of America,FIS,Slopestyle,9,
-80,Mastro Maddie,Female,06-03-2014,"Sun Valley, ID",USA,United States Of America,FIS,Halfpipe,1,70.00
-81,Mastro Maddie,Female,26-02-2014,Mammoth Mtn. CA ,USA,United States Of America,FIS,Halfpipe,2,88.00
+0,Mastro Maddie,Female,29-03-2025,Engadin,SUI,United States Of America,World Championships,Halfpipe,6,
+1,Mastro Maddie,Female,27-03-2025,Engadin,SUI,United States Of America,Qualification,Halfpipe,4,
+2,Mastro Maddie,Female,21-02-2025,Calgary,CAN,United States Of America,World Cup,Halfpipe,2,658.60
+3,Mastro Maddie,Female,19-02-2025,Calgary,CAN,United States Of America,Qualification,Halfpipe,2,
+4,Mastro Maddie,Female,01-02-2025,Aspen,USA,United States Of America,World Cup,Halfpipe,4,581.60
+5,Mastro Maddie,Female,30-01-2025,Aspen,USA,United States Of America,Qualification,Halfpipe,4,
+6,Mastro Maddie,Female,18-01-2025,Laax,SUI,United States Of America,World Cup,Halfpipe,2,825.50
+7,Mastro Maddie,Female,17-01-2025,Laax,SUI,United States Of America,Qualification,Halfpipe,5,
+8,Mastro Maddie,Female,20-12-2024,Copper,USA,United States Of America,World Cup,Halfpipe,6,429.20
+9,Mastro Maddie,Female,18-12-2024,Copper,USA,United States Of America,Qualification,Halfpipe,3,
+10,Mastro Maddie,Female,08-12-2024,Secret Garden,CHN,United States Of America,World Cup,Halfpipe,1,1000.00
+11,Mastro Maddie,Female,06-12-2024,Secret Garden,CHN,United States Of America,Qualification,Halfpipe,6,
+12,Mastro Maddie,Female,10-02-2024,Calgary,CAN,United States Of America,World Cup,Halfpipe,2,816.40
+13,Mastro Maddie,Female,09-02-2024,Calgary,CAN,United States Of America,Qualification,Halfpipe,2,
+14,Mastro Maddie,Female,03-02-2024,Mammoth Mountain,USA,United States Of America,World Cup,Halfpipe,3,678.00
+15,Mastro Maddie,Female,30-01-2024,Mammoth Mountain,USA,United States Of America,Qualification,Halfpipe,2,
+16,Mastro Maddie,Female,20-01-2024,Laax,SUI,United States Of America,World Cup,Halfpipe,8,295.90
+17,Mastro Maddie,Female,16-12-2023,Copper Mountain,USA,United States Of America,World Cup,Halfpipe,3,544.70
+18,Mastro Maddie,Female,14-12-2023,Copper Mountain,USA,United States Of America,Qualification,Halfpipe,3,
+19,Mastro Maddie,Female,08-12-2023,Secret Garden,CHN,United States Of America,World Cup,Halfpipe,3,672.10
+20,Mastro Maddie,Female,06-12-2023,Secret Garden,CHN,United States Of America,Qualification,Halfpipe,4,
+21,Mastro Maddie,Female,10-02-2023,Calgary,CAN,United States Of America,World Cup,Halfpipe,10,39.70
+22,Mastro Maddie,Female,09-02-2023,Calgary,CAN,United States Of America,Qualification,Halfpipe,10,
+23,Mastro Maddie,Female,04-02-2023,Mammoth Mountain,USA,United States Of America,World Cup,Halfpipe,3,680.80
+24,Mastro Maddie,Female,02-02-2023,Mammoth Mountain,USA,United States Of America,Qualification,Halfpipe,5,
+25,Mastro Maddie,Female,21-01-2023,Laax,SUI,United States Of America,World Cup,Halfpipe,3,680.80
+26,Mastro Maddie,Female,19-01-2023,Laax,SUI,United States Of America,Qualification,Halfpipe,3,
+27,Mastro Maddie,Female,16-12-2022,Copper Mountain,USA,United States Of America,World Cup,Halfpipe,5,480.00
+28,Mastro Maddie,Female,14-12-2022,Copper Mountain,USA,United States Of America,Qualification,Halfpipe,3,
+29,Mastro Maddie,Female,10-02-2022,Beijing,CHN,United States Of America,Olympic Winter Games,Halfpipe,13,142.60
+30,Mastro Maddie,Female,09-02-2022,Beijing,CHN,United States Of America,Qualification,Halfpipe,13,
+31,Mastro Maddie,Female,21-03-2021,Aspen,USA,United States Of America,World Cup,Halfpipe,8,306.99
+32,Mastro Maddie,Female,18-03-2021,Aspen,USA,United States Of America,Qualification,Halfpipe,3,
+33,Mastro Maddie,Female,13-03-2021,Aspen,USA,United States Of America,World Championships,Halfpipe,2,818.79
+34,Mastro Maddie,Female,11-03-2021,Aspen,USA,United States Of America,Qualification,Halfpipe,3,
+35,Mastro Maddie,Female,23-01-2021,Laax,SUI,United States Of America,World Cup,Halfpipe,9,263.86
+36,Mastro Maddie,Female,21-01-2021,Laax,SUI,United States Of America,Qualification,Halfpipe,9,
+37,Mastro Maddie,Female,15-02-2020,Calgary,CAN,United States Of America,World Cup,Halfpipe,4,500.00
+38,Mastro Maddie,Female,13-02-2020,Calgary,CAN,United States Of America,Qualification,Halfpipe,2,
+39,Mastro Maddie,Female,31-01-2020,Mammoth Mountain Resort,USA,United States Of America,World Cup,Halfpipe,2,800.00
+40,Mastro Maddie,Female,29-01-2020,Mammoth Mountain Resort,USA,United States Of America,Qualification,Halfpipe,4,
+41,Mastro Maddie,Female,18-01-2020,Laax,SUI,United States Of America,World Cup,Halfpipe,12,220.00
+42,Mastro Maddie,Female,16-01-2020,Laax,SUI,United States Of America,Qualification,Halfpipe,12,
+43,Mastro Maddie,Female,22-12-2019,Secret Garden,CHN,United States Of America,World Cup,Halfpipe,3,600.00
+44,Mastro Maddie,Female,20-12-2019,Secret Garden,CHN,United States Of America,Qualification,Halfpipe,2,
+45,Mastro Maddie,Female,14-12-2019,Copper Mountain Resort,USA,United States Of America,World Cup,Halfpipe,3,600.00
+46,Mastro Maddie,Female,12-12-2019,Copper Mountain Resort,USA,United States Of America,Qualification,Halfpipe,1,
+47,Mastro Maddie,Female,08-02-2019,Park City,USA,United States Of America,World Championships,Halfpipe,3,600.00
+48,Mastro Maddie,Female,06-02-2019,Park City,USA,United States Of America,Qualification,Halfpipe,5,
+49,Mastro Maddie,Female,19-01-2019,Laax,SUI,United States Of America,World Cup,Halfpipe,5,450.00
+50,Mastro Maddie,Female,16-01-2019,Laax,SUI,United States Of America,Qualification,Halfpipe,8,
+51,Mastro Maddie,Female,08-12-2018,Copper Mountain Resort,USA,United States Of America,World Cup,Halfpipe,2,800.00
+52,Mastro Maddie,Female,06-12-2018,Copper Mountain Resort,USA,United States Of America,Qualification,Halfpipe,2,
+53,Mastro Maddie,Female,13-02-2018,Phoenix Snow Park,KOR,United States Of America,Olympic Winter Games,Halfpipe,12,220.00
+54,Mastro Maddie,Female,12-02-2018,Phoenix Snow Park,KOR,United States Of America,Qualification,Halfpipe,4,
+55,Mastro Maddie,Female,13-01-2018,Snowmass,USA,United States Of America,World Cup,Halfpipe,3,600.00
+56,Mastro Maddie,Female,11-01-2018,Snowmass,USA,United States Of America,Qualification,Halfpipe,2,
+57,Mastro Maddie,Female,09-12-2017,Copper Mountain Resort,USA,United States Of America,World Cup,Halfpipe,2,800.00
+58,Mastro Maddie,Female,07-12-2017,Copper Mountain Resort,USA,United States Of America,Qualification,Halfpipe,1,
+59,Mastro Maddie,Female,08-09-2017,Cardrona,NZL,United States Of America,World Cup,Halfpipe,3,600.00
+60,Mastro Maddie,Female,07-09-2017,Cardrona,NZL,United States Of America,Qualification,Halfpipe,1,
+61,Mastro Maddie,Female,11-03-2017,Sierra Nevada,ESP,United States Of America,World Championships,Halfpipe,6,400.00
+62,Mastro Maddie,Female,10-03-2017,Sierra Nevada,ESP,United States Of America,Qualification,Halfpipe,3,
+63,Mastro Maddie,Female,19-02-2017,Phoenix Pyeongchang,KOR,United States Of America,World Cup,Halfpipe,6,400.00
+64,Mastro Maddie,Female,17-02-2017,Phoenix Pyeongchang,KOR,United States Of America,Qualification,Halfpipe,5,
+65,Mastro Maddie,Female,05-02-2017,Mammoth Mountain Resort,USA,United States Of America,World Cup,Halfpipe,16,150.00
+66,Mastro Maddie,Female,01-02-2017,Mammoth Mountain Resort,USA,United States Of America,Qualification,Halfpipe,16,
+67,Mastro Maddie,Female,16-12-2016,Copper,USA,United States Of America,World Cup,Halfpipe,11,240.00
+68,Mastro Maddie,Female,14-12-2016,Copper,USA,United States Of America,Qualification,Halfpipe,11,
+69,Mastro Maddie,Female,08-12-2016,Copper Mountain Resort,USA,United States Of America,FIS,Halfpipe,3,132.00
+70,Mastro Maddie,Female,06-02-2016,Park City,USA,United States Of America,World Cup,Halfpipe,2,800.00
+71,Mastro Maddie,Female,04-02-2016,Park City,USA,United States Of America,Qualification,Halfpipe,2,
+72,Mastro Maddie,Female,24-01-2016,Mammoth,USA,United States Of America,World Cup,Halfpipe,3,600.00
+73,Mastro Maddie,Female,20-03-2015,Mammoth Mountain,USA,United States Of America,FIS,Halfpipe,9,34.80
+74,Mastro Maddie,Female,15-03-2015,Yabuli,CHN,United States Of America,FIS Junior World Championships,Halfpipe,6,144.00
+75,Mastro Maddie,Female,12-02-2015,"Mammoth Mountain, CA",USA,United States Of America,FIS,Halfpipe,2,176.00
+76,Mastro Maddie,Female,30-01-2015,"Seven Springs Resort, PA",USA,United States Of America,FIS,Slopestyle,16,
+77,Mastro Maddie,Female,29-01-2015,"Seven Springs Resort, PA",USA,United States Of America,FIS,Halfpipe,1,100.00
+78,Mastro Maddie,Female,16-12-2014,"Copper Mountain, CO",USA,United States Of America,FIS,Halfpipe,1,200.00
+79,Mastro Maddie,Female,30-03-2014,Chiesa in Valmalenco,ITA,United States Of America,FIS Junior World Championships,Slopestyle,10,
+80,Mastro Maddie,Female,26-03-2014,Chiesa in Valmalenco,ITA,United States Of America,FIS Junior World Championships,Halfpipe,6,144.00
+81,Mastro Maddie,Female,07-03-2014,"Sun Valley, ID",USA,United States Of America,FIS,Slopestyle,9,
+82,Mastro Maddie,Female,06-03-2014,"Sun Valley, ID",USA,United States Of America,FIS,Halfpipe,1,70.00
+83,Mastro Maddie,Female,26-02-2014,Mammoth Mtn. CA ,USA,United States Of America,FIS,Halfpipe,2,88.00

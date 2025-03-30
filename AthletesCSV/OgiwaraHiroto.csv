@@ -1,82 +1,83 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Ogiwara Hiroto,Male,25-03-2025,Engadin,SUI,Japan,Qualification,Big Air,1,
-1,Ogiwara Hiroto,Male,21-03-2025,Engadin,SUI,Japan,World Championships,Slopestyle,21,171.80
-2,Ogiwara Hiroto,Male,20-03-2025,Engadin,SUI,Japan,Qualification,Slopestyle,10,
-3,Ogiwara Hiroto,Male,22-02-2025,Calgary,CAN,Japan,World Cup,Slopestyle,54,17.80
-4,Ogiwara Hiroto,Male,20-02-2025,Calgary,CAN,Japan,Qualification,Slopestyle,27,
-5,Ogiwara Hiroto,Male,06-02-2025,Aspen,USA,Japan,World Cup,Big Air,44,30.90
-6,Ogiwara Hiroto,Male,05-02-2025,Aspen,USA,Japan,Qualification,Big Air,21,
-7,Ogiwara Hiroto,Male,02-02-2025,Aspen,USA,Japan,World Cup,Slopestyle,6,442.20
-8,Ogiwara Hiroto,Male,31-01-2025,Aspen,USA,Japan,Qualification,Slopestyle,1,
-9,Ogiwara Hiroto,Male,18-01-2025,Laax,SUI,Japan,World Cup,Slopestyle,50,42.60
-10,Ogiwara Hiroto,Male,16-01-2025,Laax,SUI,Japan,Qualification,Slopestyle,24,
-11,Ogiwara Hiroto,Male,11-01-2025,Kreischberg,AUT,Japan,World Cup,Big Air,30,116.40
-12,Ogiwara Hiroto,Male,11-01-2025,Kreischberg,AUT,Japan,Qualification,Big Air,17,
-13,Ogiwara Hiroto,Male,01-12-2024,Beijing,CHN,Japan,World Cup,Big Air,1,1000.00
-14,Ogiwara Hiroto,Male,30-11-2024,Beijing,CHN,Japan,Qualification,Big Air,3,
-15,Ogiwara Hiroto,Male,19-10-2024,Chur,SUI,Japan,World Cup,Big Air,6,437.20
-16,Ogiwara Hiroto,Male,30-09-2024,Cardrona,NZL,Japan,Australian New Zealand Cup,Big Air,1,360.00
-17,Ogiwara Hiroto,Male,02-09-2024,Cardrona,NZL,Japan,World Cup,Slopestyle,17,188.40
-18,Ogiwara Hiroto,Male,31-08-2024,Cardrona,NZL,Japan,Qualification,Slopestyle,9,
-19,Ogiwara Hiroto,Male,14-04-2024,Corvatsch,SUI,Japan,European Cup Premium,Big Air,5,256.90
-20,Ogiwara Hiroto,Male,12-04-2024,Corvatsch,SUI,Japan,European Cup Premium,Slopestyle,1,500.00
-21,Ogiwara Hiroto,Male,23-03-2024,Silvaplana,SUI,Japan,World Cup,Slopestyle,12,250.60
-22,Ogiwara Hiroto,Male,21-03-2024,Silvaplana,SUI,Japan,Qualification,Slopestyle,2,
-23,Ogiwara Hiroto,Male,15-03-2024,Tignes,FRA,Japan,World Cup,Slopestyle,5,507.10
-24,Ogiwara Hiroto,Male,15-03-2024,Tignes,FRA,Japan,Qualification,Slopestyle,8,
-25,Ogiwara Hiroto,Male,17-02-2024,Fukushima Yama,JPN,Japan,Asian Cup,Big Air,6,150.00
-26,Ogiwara Hiroto,Male,08-02-2024,Mammoth Mountain,USA,Japan,Nor-Am Cup Premium,Slopestyle,2,414.50
-27,Ogiwara Hiroto,Male,20-01-2024,Laax,SUI,Japan,World Cup,Slopestyle,18,187.50
-28,Ogiwara Hiroto,Male,16-01-2024,Laax,SUI,Japan,Qualification,Slopestyle,5,
-29,Ogiwara Hiroto,Male,15-12-2023,Copper Mountain,USA,Japan,World Cup,Big Air,17,192.40
-30,Ogiwara Hiroto,Male,13-12-2023,Copper Mountain,USA,Japan,Qualification,Big Air,8,
-31,Ogiwara Hiroto,Male,09-12-2023,Edmonton,CAN,Japan,World Cup,Big Air,28,121.20
-32,Ogiwara Hiroto,Male,08-12-2023,Edmonton,CAN,Japan,Qualification,Big Air,16,
-33,Ogiwara Hiroto,Male,02-12-2023,Beijing,CHN,Japan,World Cup,Big Air,10,275.60
-34,Ogiwara Hiroto,Male,01-12-2023,Beijing,CHN,Japan,Qualification,Big Air,2,
-35,Ogiwara Hiroto,Male,21-10-2023,Chur,SUI,Japan,Qualification,Big Air,1,
+0,Ogiwara Hiroto,Male,28-03-2025,Engadin,SUI,Japan,World Championships,Big Air,10,
+1,Ogiwara Hiroto,Male,25-03-2025,Engadin,SUI,Japan,Qualification,Big Air,1,
+2,Ogiwara Hiroto,Male,21-03-2025,Engadin,SUI,Japan,World Championships,Slopestyle,21,171.80
+3,Ogiwara Hiroto,Male,20-03-2025,Engadin,SUI,Japan,Qualification,Slopestyle,10,
+4,Ogiwara Hiroto,Male,22-02-2025,Calgary,CAN,Japan,World Cup,Slopestyle,54,17.80
+5,Ogiwara Hiroto,Male,20-02-2025,Calgary,CAN,Japan,Qualification,Slopestyle,27,
+6,Ogiwara Hiroto,Male,06-02-2025,Aspen,USA,Japan,World Cup,Big Air,44,30.90
+7,Ogiwara Hiroto,Male,05-02-2025,Aspen,USA,Japan,Qualification,Big Air,21,
+8,Ogiwara Hiroto,Male,02-02-2025,Aspen,USA,Japan,World Cup,Slopestyle,6,442.20
+9,Ogiwara Hiroto,Male,31-01-2025,Aspen,USA,Japan,Qualification,Slopestyle,1,
+10,Ogiwara Hiroto,Male,18-01-2025,Laax,SUI,Japan,World Cup,Slopestyle,50,42.60
+11,Ogiwara Hiroto,Male,16-01-2025,Laax,SUI,Japan,Qualification,Slopestyle,24,
+12,Ogiwara Hiroto,Male,11-01-2025,Kreischberg,AUT,Japan,World Cup,Big Air,30,116.40
+13,Ogiwara Hiroto,Male,11-01-2025,Kreischberg,AUT,Japan,Qualification,Big Air,17,
+14,Ogiwara Hiroto,Male,01-12-2024,Beijing,CHN,Japan,World Cup,Big Air,1,1000.00
+15,Ogiwara Hiroto,Male,30-11-2024,Beijing,CHN,Japan,Qualification,Big Air,3,
+16,Ogiwara Hiroto,Male,19-10-2024,Chur,SUI,Japan,World Cup,Big Air,6,437.20
+17,Ogiwara Hiroto,Male,30-09-2024,Cardrona,NZL,Japan,Australian New Zealand Cup,Big Air,1,360.00
+18,Ogiwara Hiroto,Male,02-09-2024,Cardrona,NZL,Japan,World Cup,Slopestyle,17,188.40
+19,Ogiwara Hiroto,Male,31-08-2024,Cardrona,NZL,Japan,Qualification,Slopestyle,9,
+20,Ogiwara Hiroto,Male,14-04-2024,Corvatsch,SUI,Japan,European Cup Premium,Big Air,5,256.90
+21,Ogiwara Hiroto,Male,12-04-2024,Corvatsch,SUI,Japan,European Cup Premium,Slopestyle,1,500.00
+22,Ogiwara Hiroto,Male,23-03-2024,Silvaplana,SUI,Japan,World Cup,Slopestyle,12,250.60
+23,Ogiwara Hiroto,Male,21-03-2024,Silvaplana,SUI,Japan,Qualification,Slopestyle,2,
+24,Ogiwara Hiroto,Male,15-03-2024,Tignes,FRA,Japan,World Cup,Slopestyle,5,507.10
+25,Ogiwara Hiroto,Male,15-03-2024,Tignes,FRA,Japan,Qualification,Slopestyle,8,
+26,Ogiwara Hiroto,Male,17-02-2024,Fukushima Yama,JPN,Japan,Asian Cup,Big Air,6,150.00
+27,Ogiwara Hiroto,Male,08-02-2024,Mammoth Mountain,USA,Japan,Nor-Am Cup Premium,Slopestyle,2,414.50
+28,Ogiwara Hiroto,Male,20-01-2024,Laax,SUI,Japan,World Cup,Slopestyle,18,187.50
+29,Ogiwara Hiroto,Male,16-01-2024,Laax,SUI,Japan,Qualification,Slopestyle,5,
+30,Ogiwara Hiroto,Male,15-12-2023,Copper Mountain,USA,Japan,World Cup,Big Air,17,192.40
+31,Ogiwara Hiroto,Male,13-12-2023,Copper Mountain,USA,Japan,Qualification,Big Air,8,
+32,Ogiwara Hiroto,Male,09-12-2023,Edmonton,CAN,Japan,World Cup,Big Air,28,121.20
+33,Ogiwara Hiroto,Male,08-12-2023,Edmonton,CAN,Japan,Qualification,Big Air,16,
+34,Ogiwara Hiroto,Male,02-12-2023,Beijing,CHN,Japan,World Cup,Big Air,10,275.60
+35,Ogiwara Hiroto,Male,01-12-2023,Beijing,CHN,Japan,Qualification,Big Air,2,
 36,Ogiwara Hiroto,Male,21-10-2023,Chur,SUI,Japan,World Cup,Big Air,1,1000.00
-37,Ogiwara Hiroto,Male,26-03-2023,Silvaplana,SUI,Japan,World Cup,Slopestyle,16,154.20
-38,Ogiwara Hiroto,Male,25-03-2023,Silvaplana,SUI,Japan,Qualification,Slopestyle,6,
-39,Ogiwara Hiroto,Male,17-03-2023,Laax,SUI,Japan,European Cup Premium,Slopestyle,102,2.00
-40,Ogiwara Hiroto,Male,14-02-2023,Fukushima Yama,JPN,Japan,FIS,Big Air,2,181.80
-41,Ogiwara Hiroto,Male,04-02-2023,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,8,275.20
-42,Ogiwara Hiroto,Male,01-02-2023,Mammoth Mountain,USA,Japan,Qualification,Slopestyle,5,
-43,Ogiwara Hiroto,Male,22-01-2023,Laax,SUI,Japan,World Cup,Slopestyle,4,590.90
-44,Ogiwara Hiroto,Male,18-01-2023,Laax,SUI,Japan,Qualification,Slopestyle,2,
-45,Ogiwara Hiroto,Male,14-01-2023,Kreischberg,AUT,Japan,World Cup,Big Air,5,403.00
-46,Ogiwara Hiroto,Male,13-01-2023,Kreischberg,AUT,Japan,Qualification,Big Air,1,
-47,Ogiwara Hiroto,Male,17-12-2022,Copper Mountain,USA,Japan,World Cup,Big Air,6,353.40
-48,Ogiwara Hiroto,Male,15-12-2022,Copper Mountain,USA,Japan,Qualification,Big Air,5,
-49,Ogiwara Hiroto,Male,10-12-2022,Edmonton,CAN,Japan,World Cup,Big Air,39,56.80
-50,Ogiwara Hiroto,Male,09-12-2022,Edmonton,CAN,Japan,Qualification,Big Air,18,
-51,Ogiwara Hiroto,Male,22-10-2022,Chur,SUI,Japan,Qualification,Big Air,DNS,
-52,Ogiwara Hiroto,Male,22-10-2022,Chur,SUI,Japan,World Cup,Big Air,DNS,
-53,Ogiwara Hiroto,Male,02-09-2022,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,25,22.50
-54,Ogiwara Hiroto,Male,06-03-2022,Niseko,JPN,Japan,National Championships,Big Air,1,200.00
-55,Ogiwara Hiroto,Male,05-03-2022,Niseko,JPN,Japan,National Championships,Slopestyle,1,200.00
-56,Ogiwara Hiroto,Male,08-01-2022,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,15,199.80
-57,Ogiwara Hiroto,Male,01-01-2022,Calgary,CAN,Japan,World Cup,Slopestyle,45,5.80
-58,Ogiwara Hiroto,Male,31-12-2021,Calgary,CAN,Japan,Qualification,Slopestyle,22,
-59,Ogiwara Hiroto,Male,04-12-2021,Steamboat,USA,Japan,World Cup,Big Air,7,392.40
-60,Ogiwara Hiroto,Male,02-12-2021,Steamboat,USA,Japan,Qualification,Big Air,2,
-61,Ogiwara Hiroto,Male,23-10-2021,Chur,SUI,Japan,World Cup,Big Air,28,110.40
-62,Ogiwara Hiroto,Male,01-05-2021,Hintertux,AUT,Japan,Junior,Slopestyle,1,220.00
-63,Ogiwara Hiroto,Male,10-04-2021,Ajigasawa,JPN,Japan,National Championships,Big Air,1,120.00
-64,Ogiwara Hiroto,Male,31-03-2021,Tsugaike,JPN,Japan,FIS,Big Air,8,19.82
-65,Ogiwara Hiroto,Male,31-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,1,110.00
-66,Ogiwara Hiroto,Male,30-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,26,12.39
-67,Ogiwara Hiroto,Male,01-03-2020,Oze-Tokura,JPN,Japan,FIS,Big Air,2,56.00
-68,Ogiwara Hiroto,Male,29-02-2020,Oze-Tokura,JPN,Japan,FIS,Slopestyle,9,26.10
-69,Ogiwara Hiroto,Male,26-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,4,80.00
-70,Ogiwara Hiroto,Male,25-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,11,38.40
-71,Ogiwara Hiroto,Male,15-08-2019,Cardrona Alpine Resort,NZL,Japan,Australian New Zealand Cup,Slopestyle,15,57.60
-72,Ogiwara Hiroto,Male,13-04-2019,Klaeppen,SWE,Japan,FIS Junior World Championships,Big Air,24,16.80
-73,Ogiwara Hiroto,Male,12-04-2019,Klaeppen,SWE,Japan,Qualification,Big Air,7,
-74,Ogiwara Hiroto,Male,09-04-2019,Klaeppen,SWE,Japan,FIS Junior World Championships,Slopestyle,53,3.50
-75,Ogiwara Hiroto,Male,08-04-2019,Klaeppen,SWE,Japan,Qualification,Slopestyle,13,
-76,Ogiwara Hiroto,Male,28-02-2019,Tokura  Katashina,JPN,Japan,National Championships,Big Air,20,13.20
-77,Ogiwara Hiroto,Male,27-02-2019,Tokura  Katashina,JPN,Japan,FIS,Big Air,12,15.40
-78,Ogiwara Hiroto,Male,26-02-2019,Tokura  Katashina,JPN,Japan,National Championships,Slopestyle,5,49.50
-79,Ogiwara Hiroto,Male,27-01-2019,Niseko,JPN,Japan,FIS,Slopestyle,5,40.50
-80,Ogiwara Hiroto,Male,26-01-2019,Niseko,JPN,Japan,FIS,Slopestyle,6,36.00
+37,Ogiwara Hiroto,Male,21-10-2023,Chur,SUI,Japan,Qualification,Big Air,1,
+38,Ogiwara Hiroto,Male,26-03-2023,Silvaplana,SUI,Japan,World Cup,Slopestyle,16,154.20
+39,Ogiwara Hiroto,Male,25-03-2023,Silvaplana,SUI,Japan,Qualification,Slopestyle,6,
+40,Ogiwara Hiroto,Male,17-03-2023,Laax,SUI,Japan,European Cup Premium,Slopestyle,102,2.00
+41,Ogiwara Hiroto,Male,14-02-2023,Fukushima Yama,JPN,Japan,FIS,Big Air,2,181.80
+42,Ogiwara Hiroto,Male,04-02-2023,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,8,275.20
+43,Ogiwara Hiroto,Male,01-02-2023,Mammoth Mountain,USA,Japan,Qualification,Slopestyle,5,
+44,Ogiwara Hiroto,Male,22-01-2023,Laax,SUI,Japan,World Cup,Slopestyle,4,590.90
+45,Ogiwara Hiroto,Male,18-01-2023,Laax,SUI,Japan,Qualification,Slopestyle,2,
+46,Ogiwara Hiroto,Male,14-01-2023,Kreischberg,AUT,Japan,World Cup,Big Air,5,403.00
+47,Ogiwara Hiroto,Male,13-01-2023,Kreischberg,AUT,Japan,Qualification,Big Air,1,
+48,Ogiwara Hiroto,Male,17-12-2022,Copper Mountain,USA,Japan,World Cup,Big Air,6,353.40
+49,Ogiwara Hiroto,Male,15-12-2022,Copper Mountain,USA,Japan,Qualification,Big Air,5,
+50,Ogiwara Hiroto,Male,10-12-2022,Edmonton,CAN,Japan,World Cup,Big Air,39,56.80
+51,Ogiwara Hiroto,Male,09-12-2022,Edmonton,CAN,Japan,Qualification,Big Air,18,
+52,Ogiwara Hiroto,Male,22-10-2022,Chur,SUI,Japan,Qualification,Big Air,DNS,
+53,Ogiwara Hiroto,Male,22-10-2022,Chur,SUI,Japan,World Cup,Big Air,DNS,
+54,Ogiwara Hiroto,Male,02-09-2022,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,25,22.50
+55,Ogiwara Hiroto,Male,06-03-2022,Niseko,JPN,Japan,National Championships,Big Air,1,200.00
+56,Ogiwara Hiroto,Male,05-03-2022,Niseko,JPN,Japan,National Championships,Slopestyle,1,200.00
+57,Ogiwara Hiroto,Male,08-01-2022,Mammoth Mountain,USA,Japan,World Cup,Slopestyle,15,199.80
+58,Ogiwara Hiroto,Male,01-01-2022,Calgary,CAN,Japan,World Cup,Slopestyle,45,5.80
+59,Ogiwara Hiroto,Male,31-12-2021,Calgary,CAN,Japan,Qualification,Slopestyle,22,
+60,Ogiwara Hiroto,Male,04-12-2021,Steamboat,USA,Japan,World Cup,Big Air,7,392.40
+61,Ogiwara Hiroto,Male,02-12-2021,Steamboat,USA,Japan,Qualification,Big Air,2,
+62,Ogiwara Hiroto,Male,23-10-2021,Chur,SUI,Japan,World Cup,Big Air,28,110.40
+63,Ogiwara Hiroto,Male,01-05-2021,Hintertux,AUT,Japan,Junior,Slopestyle,1,220.00
+64,Ogiwara Hiroto,Male,10-04-2021,Ajigasawa,JPN,Japan,National Championships,Big Air,1,120.00
+65,Ogiwara Hiroto,Male,31-03-2021,Tsugaike,JPN,Japan,FIS,Big Air,8,19.82
+66,Ogiwara Hiroto,Male,31-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,1,110.00
+67,Ogiwara Hiroto,Male,30-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,26,12.39
+68,Ogiwara Hiroto,Male,01-03-2020,Oze-Tokura,JPN,Japan,FIS,Big Air,2,56.00
+69,Ogiwara Hiroto,Male,29-02-2020,Oze-Tokura,JPN,Japan,FIS,Slopestyle,9,26.10
+70,Ogiwara Hiroto,Male,26-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,4,80.00
+71,Ogiwara Hiroto,Male,25-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,11,38.40
+72,Ogiwara Hiroto,Male,15-08-2019,Cardrona Alpine Resort,NZL,Japan,Australian New Zealand Cup,Slopestyle,15,57.60
+73,Ogiwara Hiroto,Male,13-04-2019,Klaeppen,SWE,Japan,FIS Junior World Championships,Big Air,24,16.80
+74,Ogiwara Hiroto,Male,12-04-2019,Klaeppen,SWE,Japan,Qualification,Big Air,7,
+75,Ogiwara Hiroto,Male,09-04-2019,Klaeppen,SWE,Japan,FIS Junior World Championships,Slopestyle,53,3.50
+76,Ogiwara Hiroto,Male,08-04-2019,Klaeppen,SWE,Japan,Qualification,Slopestyle,13,
+77,Ogiwara Hiroto,Male,28-02-2019,Tokura  Katashina,JPN,Japan,National Championships,Big Air,20,13.20
+78,Ogiwara Hiroto,Male,27-02-2019,Tokura  Katashina,JPN,Japan,FIS,Big Air,12,15.40
+79,Ogiwara Hiroto,Male,26-02-2019,Tokura  Katashina,JPN,Japan,National Championships,Slopestyle,5,49.50
+80,Ogiwara Hiroto,Male,27-01-2019,Niseko,JPN,Japan,FIS,Slopestyle,5,40.50
+81,Ogiwara Hiroto,Male,26-01-2019,Niseko,JPN,Japan,FIS,Slopestyle,6,36.00

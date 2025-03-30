@@ -1,52 +1,55 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Clift Mia,Female,21-03-2025,Montafon,AUT,Australia,World Cup,Snowboard Cross,16,150.00
-1,Clift Mia,Female,20-03-2025,Montafon,AUT,Australia,Qualification,Snowboard Cross,7,
-2,Clift Mia,Female,09-03-2025,Gudauri,GEO,Australia,World Cup,Snowboard Cross,10,260.00
-3,Clift Mia,Female,08-03-2025,Gudauri,GEO,Australia,World Cup,Snowboard Cross,10,260.00
-4,Clift Mia,Female,07-03-2025,Gudauri,GEO,Australia,Qualification,Snowboard Cross,7,
-5,Clift Mia,Female,02-03-2025,Erzurum,TUR,Australia,World Cup,Snowboard Cross Team,13,
-6,Clift Mia,Female,01-03-2025,Erzurum,TUR,Australia,World Cup,Snowboard Cross,13,200.00
-7,Clift Mia,Female,28-02-2025,Erzurum,TUR,Australia,Qualification,Snowboard Cross,9,
-8,Clift Mia,Female,15-02-2025,Cortina d'Ampezzo,ITA,Australia,Qualification,Snowboard Cross,6,
-9,Clift Mia,Female,15-02-2025,Cortina d'Ampezzo,ITA,Australia,World Cup,Snowboard Cross,8,320.00
-10,Clift Mia,Female,02-02-2025,Beidahu,CHN,Australia,Qualification,Snowboard Cross,8,
-11,Clift Mia,Female,02-02-2025,Beidahu,CHN,Australia,World Cup,Snowboard Cross,10,260.00
-12,Clift Mia,Female,01-02-2025,Beidahu,CHN,Australia,World Cup,Snowboard Cross,7,360.00
-13,Clift Mia,Female,31-01-2025,Beidahu,CHN,Australia,Qualification,Snowboard Cross,15,
-14,Clift Mia,Female,14-12-2024,Cervinia,ITA,Australia,World Cup,Snowboard Cross,14,180.00
-15,Clift Mia,Female,13-12-2024,Cervinia,ITA,Australia,Qualification,Snowboard Cross,14,
-16,Clift Mia,Female,27-11-2024,Pitztal,AUT,Australia,European Cup,Snowboard Cross,4,180.00
-17,Clift Mia,Female,27-11-2024,Pitztal,AUT,Australia,Qualification,Snowboard Cross,8,
-18,Clift Mia,Female,18-08-2024,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,5,162.00
-19,Clift Mia,Female,17-08-2024,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,5,162.00
-20,Clift Mia,Female,15-08-2024,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,1,360.00
-21,Clift Mia,Female,24-03-2024,Mt. St. Anne,CAN,Australia,World Cup,Snowboard Cross,16,150.00
-22,Clift Mia,Female,23-03-2024,Mt. St. Anne,CAN,Australia,World Cup,Snowboard Cross,8,320.00
-23,Clift Mia,Female,22-03-2024,Mt. St. Anne,CAN,Australia,Qualification,Snowboard Cross,7,
-24,Clift Mia,Female,17-03-2024,Montafon,AUT,Australia,World Cup,Snowboard Cross,16,150.00
-25,Clift Mia,Female,16-03-2024,Montafon,AUT,Australia,World Cup,Snowboard Cross,9,290.00
-26,Clift Mia,Female,15-03-2024,Montafon,AUT,Australia,Qualification,Snowboard Cross,5,
-27,Clift Mia,Female,09-03-2024,Cortina d'Ampezzo,ITA,Australia,World Cup,Snowboard Cross,12,220.00
-28,Clift Mia,Female,08-03-2024,Cortina d'Ampezzo,ITA,Australia,Qualification,Snowboard Cross,15,
-29,Clift Mia,Female,03-03-2024,Sierra Nevada,ESP,Australia,World Cup,Snowboard Cross,12,220.00
-30,Clift Mia,Female,02-03-2024,Sierra Nevada,ESP,Australia,World Cup,Snowboard Cross,18,130.00
-31,Clift Mia,Female,01-03-2024,Sierra Nevada,ESP,Australia,Qualification,Snowboard Cross,18,
-32,Clift Mia,Female,26-01-2024,St. Moritz,SUI,Australia,World Cup,Snowboard Cross,15,160.00
-33,Clift Mia,Female,25-01-2024,St. Moritz,SUI,Australia,Qualification,Snowboard Cross,9,
-34,Clift Mia,Female,16-12-2023,Cervinia,ITA,Australia,World Cup,Snowboard Cross,16,150.00
-35,Clift Mia,Female,03-12-2023,Les Deux Alpes,FRA,Australia,Qualification,Snowboard Cross,19,
-36,Clift Mia,Female,03-12-2023,Les Deux Alpes,FRA,Australia,World Cup,Snowboard Cross,19,120.00
-37,Clift Mia,Female,19-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,2,288.00
-38,Clift Mia,Female,18-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,3,144.00
-39,Clift Mia,Female,17-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,5,162.00
-40,Clift Mia,Female,16-08-2023,Mt Hotham,AUS,Australia,Junior,Snowboard Cross,1,90.00
-41,Clift Mia,Female,30-03-2023,Passo San Pellegrino,ITA,Australia,FIS Junior World Championships,Snowboard Cross,DNS,
-42,Clift Mia,Female,18-12-2021,Cervinia,ITA,Australia,World Cup,Snowboard Cross,DNS1,
-43,Clift Mia,Female,17-12-2021,Cervinia,ITA,Australia,Qualification,Snowboard Cross,DNS1,
-44,Clift Mia,Female,10-12-2021,Montafon,AUT,Australia,World Cup,Snowboard Cross,26,50.00
-45,Clift Mia,Female,09-12-2021,Montafon,AUT,Australia,Qualification,Snowboard Cross,26,
-46,Clift Mia,Female,28-11-2021,Secret Garden,CHN,Australia,World Cup,Snowboard Cross,22,90.00
-47,Clift Mia,Female,26-11-2021,Secret Garden,CHN,Australia,Qualification,Snowboard Cross,22,
-48,Clift Mia,Female,04-09-2019,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,2,160.00
-49,Clift Mia,Female,03-09-2019,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,3,120.00
-50,Clift Mia,Female,06-08-2019,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,6,64.00
+0,Clift Mia,Female,29-03-2025,Engadin,SUI,Australia,World Championships,Snowboard Cross Team,2,
+1,Clift Mia,Female,28-03-2025,Engadin,SUI,Australia,World Championships,Snowboard Cross,9,
+2,Clift Mia,Female,27-03-2025,Engadin,SUI,Australia,Qualification,Snowboard Cross,6,
+3,Clift Mia,Female,21-03-2025,Montafon,AUT,Australia,World Cup,Snowboard Cross,16,150.00
+4,Clift Mia,Female,20-03-2025,Montafon,AUT,Australia,Qualification,Snowboard Cross,7,
+5,Clift Mia,Female,09-03-2025,Gudauri,GEO,Australia,World Cup,Snowboard Cross,10,260.00
+6,Clift Mia,Female,08-03-2025,Gudauri,GEO,Australia,World Cup,Snowboard Cross,10,260.00
+7,Clift Mia,Female,07-03-2025,Gudauri,GEO,Australia,Qualification,Snowboard Cross,7,
+8,Clift Mia,Female,02-03-2025,Erzurum,TUR,Australia,World Cup,Snowboard Cross Team,13,
+9,Clift Mia,Female,01-03-2025,Erzurum,TUR,Australia,World Cup,Snowboard Cross,13,200.00
+10,Clift Mia,Female,28-02-2025,Erzurum,TUR,Australia,Qualification,Snowboard Cross,9,
+11,Clift Mia,Female,15-02-2025,Cortina d'Ampezzo,ITA,Australia,World Cup,Snowboard Cross,8,320.00
+12,Clift Mia,Female,15-02-2025,Cortina d'Ampezzo,ITA,Australia,Qualification,Snowboard Cross,6,
+13,Clift Mia,Female,02-02-2025,Beidahu,CHN,Australia,World Cup,Snowboard Cross,10,260.00
+14,Clift Mia,Female,02-02-2025,Beidahu,CHN,Australia,Qualification,Snowboard Cross,8,
+15,Clift Mia,Female,01-02-2025,Beidahu,CHN,Australia,World Cup,Snowboard Cross,7,360.00
+16,Clift Mia,Female,31-01-2025,Beidahu,CHN,Australia,Qualification,Snowboard Cross,15,
+17,Clift Mia,Female,14-12-2024,Cervinia,ITA,Australia,World Cup,Snowboard Cross,14,180.00
+18,Clift Mia,Female,13-12-2024,Cervinia,ITA,Australia,Qualification,Snowboard Cross,14,
+19,Clift Mia,Female,27-11-2024,Pitztal,AUT,Australia,Qualification,Snowboard Cross,8,
+20,Clift Mia,Female,27-11-2024,Pitztal,AUT,Australia,European Cup,Snowboard Cross,4,180.00
+21,Clift Mia,Female,18-08-2024,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,5,162.00
+22,Clift Mia,Female,17-08-2024,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,5,162.00
+23,Clift Mia,Female,15-08-2024,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,1,360.00
+24,Clift Mia,Female,24-03-2024,Mt. St. Anne,CAN,Australia,World Cup,Snowboard Cross,16,150.00
+25,Clift Mia,Female,23-03-2024,Mt. St. Anne,CAN,Australia,World Cup,Snowboard Cross,8,320.00
+26,Clift Mia,Female,22-03-2024,Mt. St. Anne,CAN,Australia,Qualification,Snowboard Cross,7,
+27,Clift Mia,Female,17-03-2024,Montafon,AUT,Australia,World Cup,Snowboard Cross,16,150.00
+28,Clift Mia,Female,16-03-2024,Montafon,AUT,Australia,World Cup,Snowboard Cross,9,290.00
+29,Clift Mia,Female,15-03-2024,Montafon,AUT,Australia,Qualification,Snowboard Cross,5,
+30,Clift Mia,Female,09-03-2024,Cortina d'Ampezzo,ITA,Australia,World Cup,Snowboard Cross,12,220.00
+31,Clift Mia,Female,08-03-2024,Cortina d'Ampezzo,ITA,Australia,Qualification,Snowboard Cross,15,
+32,Clift Mia,Female,03-03-2024,Sierra Nevada,ESP,Australia,World Cup,Snowboard Cross,12,220.00
+33,Clift Mia,Female,02-03-2024,Sierra Nevada,ESP,Australia,World Cup,Snowboard Cross,18,130.00
+34,Clift Mia,Female,01-03-2024,Sierra Nevada,ESP,Australia,Qualification,Snowboard Cross,18,
+35,Clift Mia,Female,26-01-2024,St. Moritz,SUI,Australia,World Cup,Snowboard Cross,15,160.00
+36,Clift Mia,Female,25-01-2024,St. Moritz,SUI,Australia,Qualification,Snowboard Cross,9,
+37,Clift Mia,Female,16-12-2023,Cervinia,ITA,Australia,World Cup,Snowboard Cross,16,150.00
+38,Clift Mia,Female,03-12-2023,Les Deux Alpes,FRA,Australia,World Cup,Snowboard Cross,19,120.00
+39,Clift Mia,Female,03-12-2023,Les Deux Alpes,FRA,Australia,Qualification,Snowboard Cross,19,
+40,Clift Mia,Female,19-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,2,288.00
+41,Clift Mia,Female,18-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,3,144.00
+42,Clift Mia,Female,17-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,5,162.00
+43,Clift Mia,Female,16-08-2023,Mt Hotham,AUS,Australia,Junior,Snowboard Cross,1,90.00
+44,Clift Mia,Female,30-03-2023,Passo San Pellegrino,ITA,Australia,FIS Junior World Championships,Snowboard Cross,DNS,
+45,Clift Mia,Female,18-12-2021,Cervinia,ITA,Australia,World Cup,Snowboard Cross,DNS1,
+46,Clift Mia,Female,17-12-2021,Cervinia,ITA,Australia,Qualification,Snowboard Cross,DNS1,
+47,Clift Mia,Female,10-12-2021,Montafon,AUT,Australia,World Cup,Snowboard Cross,26,50.00
+48,Clift Mia,Female,09-12-2021,Montafon,AUT,Australia,Qualification,Snowboard Cross,26,
+49,Clift Mia,Female,28-11-2021,Secret Garden,CHN,Australia,World Cup,Snowboard Cross,22,90.00
+50,Clift Mia,Female,26-11-2021,Secret Garden,CHN,Australia,Qualification,Snowboard Cross,22,
+51,Clift Mia,Female,04-09-2019,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,2,160.00
+52,Clift Mia,Female,03-09-2019,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,3,120.00
+53,Clift Mia,Female,06-08-2019,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,6,64.00

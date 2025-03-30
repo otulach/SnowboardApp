@@ -1,54 +1,55 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,King Nils,Male,22-03-2025,Moena-Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,1,70.00
-1,King Nils,Male,21-03-2025,Moena-Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,1,90.00
-2,King Nils,Male,14-03-2025,Lenk,SUI,France,European Cup,Snowboard Cross,4,100.00
-3,King Nils,Male,13-03-2025,Lenk,SUI,France,European Cup,Snowboard Cross,3,120.00
-4,King Nils,Male,28-02-2025,Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,21,18.00
-5,King Nils,Male,27-02-2025,Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,18,23.40
-6,King Nils,Male,23-02-2025,Colere,ITA,France,FIS,Snowboard Cross,7,64.80
-7,King Nils,Male,22-02-2025,Colere,ITA,France,FIS,Snowboard Cross,24,12.60
-8,King Nils,Male,09-02-2025,Reiteralm,AUT,France,European Cup,Snowboard Cross,19,24.00
-9,King Nils,Male,08-02-2025,Reiteralm,AUT,France,European Cup,Snowboard Cross,33,4.80
-10,King Nils,Male,02-02-2025,St. Lary,FRA,France,National Championships,Snowboard Cross,23,12.00
-11,King Nils,Male,31-01-2025,St. Lary,FRA,France,European Cup,Snowboard Cross,8,57.60
-12,King Nils,Male,24-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,11,43.20
-13,King Nils,Male,23-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,16,30.00
-14,King Nils,Male,12-01-2025,Lenk,SUI,France,Junior Regional Cup,Snowboard Cross,15,19.20
-15,King Nils,Male,01-12-2024,Pitztal,AUT,France,Junior,Snowboard Cross,19,14.40
-16,King Nils,Male,30-11-2024,Pitztal,AUT,France,Qualification,Snowboard Cross,23,
-17,King Nils,Male,30-11-2024,Pitztal,AUT,France,Junior,Snowboard Cross,22,10.80
-18,King Nils,Male,30-03-2024,Orcieres Merlette,FRA,France,National Championships,Snowboard Cross,21,29.00
-19,King Nils,Male,22-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,58,3.14
-20,King Nils,Male,21-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,45,4.08
-21,King Nils,Male,14-03-2024,Isola 2000,FRA,France,European Cup,Snowboard Cross,31,5.60
-22,King Nils,Male,12-03-2024,Isola 2000,FRA,France,Junior,Snowboard Cross,1,70.00
-23,King Nils,Male,11-03-2024,Isola 2000,FRA,France,Junior,Snowboard Cross,22,13.50
-24,King Nils,Male,02-03-2024,St. Moritz,SUI,France,National Junior Championships,Snowboard Cross,5,31.50
-25,King Nils,Male,21-01-2023,Puy St.Vincent,FRA,France,European Cup,Snowboard Cross,DNS,
-26,King Nils,Male,15-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,57,
-27,King Nils,Male,14-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,53,5.26
-28,King Nils,Male,08-01-2023,Isola 2000,FRA,France,Junior,Snowboard Cross,25,7.20
-29,King Nils,Male,07-01-2023,Isola 2000,FRA,France,European Cup,Snowboard Cross,33,5.76
-30,King Nils,Male,06-01-2023,Isola 2000,FRA,France,European Cup,Snowboard Cross,29,8.64
-31,King Nils,Male,27-11-2022,Pitztal,AUT,France,Junior,Snowboard Cross,33,3.84
-32,King Nils,Male,26-11-2022,Pitztal,AUT,France,Junior,Snowboard Cross,53,2.63
-33,King Nils,Male,25-11-2022,Pitztal,AUT,France,FIS,Snowboard Cross,49,3.48
-34,King Nils,Male,08-04-2022,Isola 2000,FRA,France,National Championships,Snowboard Cross,9,84.10
-35,King Nils,Male,27-03-2022,Lenk,SUI,France,National Championships,Snowboard Cross,36,5.12
-36,King Nils,Male,26-03-2022,Lenk,SUI,France,European Cup,Snowboard Cross,56,4.93
-37,King Nils,Male,25-03-2022,Lenk,SUI,France,European Cup,Snowboard Cross,DNF,
-38,King Nils,Male,20-03-2022,Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,25,7.20
-39,King Nils,Male,19-03-2022,Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,23,9.60
-40,King Nils,Male,27-02-2022,Flumserberg,SUI,France,FIS,Snowboard Cross,14,9.00
-41,King Nils,Male,26-02-2022,Flumserberg,SUI,France,FIS,Snowboard Cross,9,14.50
-42,King Nils,Male,13-02-2022,Grasgehren,GER,France,Junior,Snowboard Cross,13,24.00
-43,King Nils,Male,12-02-2022,Grasgehren,GER,France,Junior,Snowboard Cross,17,16.80
-44,King Nils,Male,06-02-2022,Dolni Morava,CZE,France,Junior,Snowboard Cross,20,5.50
-45,King Nils,Male,05-02-2022,Dolni Morava,CZE,France,FIS,Snowboard Cross,33,3.36
-46,King Nils,Male,23-01-2022,Vitkovice,CZE,France,Junior,Snowboard Cross,2,40.00
-47,King Nils,Male,22-01-2022,Vitkovice,CZE,France,Junior,Snowboard Cross,3,30.00
-48,King Nils,Male,15-12-2021,Reiteralm,AUT,France,Junior,Snowboard Cross,33,1.68
-49,King Nils,Male,14-12-2021,Reiteralm,AUT,France,FIS,Snowboard Cross,63,2.55
-50,King Nils,Male,13-12-2021,Reiteralm,AUT,France,FIS,Snowboard Cross,59,2.82
-51,King Nils,Male,31-10-2021,Les 2 Alpes,FRA,France,FIS,Snowboard Cross,45,2.72
-52,King Nils,Male,30-10-2021,Les 2 Alpes,FRA,France,FIS,Snowboard Cross,48,3.54
+0,King Nils,Male,29-03-2025,Orcières,FRA,France,European Cup,Snowboard Cross,10,
+1,King Nils,Male,22-03-2025,Moena-Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,1,70.00
+2,King Nils,Male,21-03-2025,Moena-Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,1,90.00
+3,King Nils,Male,14-03-2025,Lenk,SUI,France,European Cup,Snowboard Cross,4,100.00
+4,King Nils,Male,13-03-2025,Lenk,SUI,France,European Cup,Snowboard Cross,3,120.00
+5,King Nils,Male,28-02-2025,Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,21,18.00
+6,King Nils,Male,27-02-2025,Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,18,23.40
+7,King Nils,Male,23-02-2025,Colere,ITA,France,FIS,Snowboard Cross,7,64.80
+8,King Nils,Male,22-02-2025,Colere,ITA,France,FIS,Snowboard Cross,24,12.60
+9,King Nils,Male,09-02-2025,Reiteralm,AUT,France,European Cup,Snowboard Cross,19,24.00
+10,King Nils,Male,08-02-2025,Reiteralm,AUT,France,European Cup,Snowboard Cross,33,4.80
+11,King Nils,Male,02-02-2025,St. Lary,FRA,France,National Championships,Snowboard Cross,23,12.00
+12,King Nils,Male,31-01-2025,St. Lary,FRA,France,European Cup,Snowboard Cross,8,57.60
+13,King Nils,Male,24-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,11,43.20
+14,King Nils,Male,23-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,16,30.00
+15,King Nils,Male,12-01-2025,Lenk,SUI,France,Junior Regional Cup,Snowboard Cross,15,19.20
+16,King Nils,Male,01-12-2024,Pitztal,AUT,France,Junior,Snowboard Cross,19,14.40
+17,King Nils,Male,30-11-2024,Pitztal,AUT,France,Qualification,Snowboard Cross,23,
+18,King Nils,Male,30-11-2024,Pitztal,AUT,France,Junior,Snowboard Cross,22,10.80
+19,King Nils,Male,30-03-2024,Orcieres Merlette,FRA,France,National Championships,Snowboard Cross,21,29.00
+20,King Nils,Male,22-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,58,3.14
+21,King Nils,Male,21-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,45,4.08
+22,King Nils,Male,14-03-2024,Isola 2000,FRA,France,European Cup,Snowboard Cross,31,5.60
+23,King Nils,Male,12-03-2024,Isola 2000,FRA,France,Junior,Snowboard Cross,1,70.00
+24,King Nils,Male,11-03-2024,Isola 2000,FRA,France,Junior,Snowboard Cross,22,13.50
+25,King Nils,Male,02-03-2024,St. Moritz,SUI,France,National Junior Championships,Snowboard Cross,5,31.50
+26,King Nils,Male,21-01-2023,Puy St.Vincent,FRA,France,European Cup,Snowboard Cross,DNS,
+27,King Nils,Male,15-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,57,
+28,King Nils,Male,14-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,53,5.26
+29,King Nils,Male,08-01-2023,Isola 2000,FRA,France,Junior,Snowboard Cross,25,7.20
+30,King Nils,Male,07-01-2023,Isola 2000,FRA,France,European Cup,Snowboard Cross,33,5.76
+31,King Nils,Male,06-01-2023,Isola 2000,FRA,France,European Cup,Snowboard Cross,29,8.64
+32,King Nils,Male,27-11-2022,Pitztal,AUT,France,Junior,Snowboard Cross,33,3.84
+33,King Nils,Male,26-11-2022,Pitztal,AUT,France,Junior,Snowboard Cross,53,2.63
+34,King Nils,Male,25-11-2022,Pitztal,AUT,France,FIS,Snowboard Cross,49,3.48
+35,King Nils,Male,08-04-2022,Isola 2000,FRA,France,National Championships,Snowboard Cross,9,84.10
+36,King Nils,Male,27-03-2022,Lenk,SUI,France,National Championships,Snowboard Cross,36,5.12
+37,King Nils,Male,26-03-2022,Lenk,SUI,France,European Cup,Snowboard Cross,56,4.93
+38,King Nils,Male,25-03-2022,Lenk,SUI,France,European Cup,Snowboard Cross,DNF,
+39,King Nils,Male,20-03-2022,Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,25,7.20
+40,King Nils,Male,19-03-2022,Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,23,9.60
+41,King Nils,Male,27-02-2022,Flumserberg,SUI,France,FIS,Snowboard Cross,14,9.00
+42,King Nils,Male,26-02-2022,Flumserberg,SUI,France,FIS,Snowboard Cross,9,14.50
+43,King Nils,Male,13-02-2022,Grasgehren,GER,France,Junior,Snowboard Cross,13,24.00
+44,King Nils,Male,12-02-2022,Grasgehren,GER,France,Junior,Snowboard Cross,17,16.80
+45,King Nils,Male,06-02-2022,Dolni Morava,CZE,France,Junior,Snowboard Cross,20,5.50
+46,King Nils,Male,05-02-2022,Dolni Morava,CZE,France,FIS,Snowboard Cross,33,3.36
+47,King Nils,Male,23-01-2022,Vitkovice,CZE,France,Junior,Snowboard Cross,2,40.00
+48,King Nils,Male,22-01-2022,Vitkovice,CZE,France,Junior,Snowboard Cross,3,30.00
+49,King Nils,Male,15-12-2021,Reiteralm,AUT,France,Junior,Snowboard Cross,33,1.68
+50,King Nils,Male,14-12-2021,Reiteralm,AUT,France,FIS,Snowboard Cross,63,2.55
+51,King Nils,Male,13-12-2021,Reiteralm,AUT,France,FIS,Snowboard Cross,59,2.82
+52,King Nils,Male,31-10-2021,Les 2 Alpes,FRA,France,FIS,Snowboard Cross,45,2.72
+53,King Nils,Male,30-10-2021,Les 2 Alpes,FRA,France,FIS,Snowboard Cross,48,3.54

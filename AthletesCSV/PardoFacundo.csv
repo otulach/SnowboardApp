@@ -1,88 +1,91 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Pardo Facundo,Male,14-03-2025,Lenk,SUI,Argentina,European Cup,Snowboard Cross,49,3.16
-1,Pardo Facundo,Male,13-03-2025,Lenk,SUI,Argentina,European Cup,Snowboard Cross,45,3.40
-2,Pardo Facundo,Male,15-02-2025,Cortina d'Ampezzo,ITA,Argentina,World Cup,Snowboard Cross,63,
-3,Pardo Facundo,Male,15-02-2025,Cortina d'Ampezzo,ITA,Argentina,Qualification,Snowboard Cross,63,
-4,Pardo Facundo,Male,09-02-2025,Reiteralm,AUT,Argentina,European Cup,Snowboard Cross,36,3.94
-5,Pardo Facundo,Male,08-02-2025,Reiteralm,AUT,Argentina,European Cup,Snowboard Cross,41,3.64
-6,Pardo Facundo,Male,27-11-2024,Pitztal,AUT,Argentina,Qualification,Snowboard Cross,87,
-7,Pardo Facundo,Male,27-11-2024,Pitztal,AUT,Argentina,European Cup,Snowboard Cross,87,
-8,Pardo Facundo,Male,03-10-2024,Corralco,CHI,Argentina,South American Cup,Snowboard Cross,19,43.20
-9,Pardo Facundo,Male,03-10-2024,Corralco,CHI,Argentina,South American Cup,Snowboard Cross,20,39.60
-10,Pardo Facundo,Male,28-08-2024,Corralco,CHI,Argentina,South American Cup,Snowboard Cross,11,38.40
-11,Pardo Facundo,Male,27-08-2024,Corralco,CHI,Argentina,South American Cup,Snowboard Cross,9,46.40
-12,Pardo Facundo,Male,27-03-2024,Baqueira Beret,ESP,Argentina,National Championships,Snowboard Cross,5,81.00
-13,Pardo Facundo,Male,24-03-2024,Lenk,SUI,Argentina,National Championships,Snowboard Cross,18,15.60
-14,Pardo Facundo,Male,22-03-2024,Lenk,SUI,Argentina,European Cup,Snowboard Cross,57,3.22
-15,Pardo Facundo,Male,21-03-2024,Lenk,SUI,Argentina,European Cup,Snowboard Cross,58,3.14
-16,Pardo Facundo,Male,03-03-2024,Sierra Nevada,ESP,Argentina,World Cup,Snowboard Cross,31,28.00
-17,Pardo Facundo,Male,02-03-2024,Sierra Nevada,ESP,Argentina,World Cup,Snowboard Cross,62,
-18,Pardo Facundo,Male,01-03-2024,Sierra Nevada,ESP,Argentina,Qualification,Snowboard Cross,63,
-19,Pardo Facundo,Male,25-02-2024,Grasgehren,GER,Argentina,European Cup,Snowboard Cross,43,5.10
-20,Pardo Facundo,Male,24-02-2024,Grasgehren,GER,Argentina,European Cup,Snowboard Cross,56,4.38
-21,Pardo Facundo,Male,17-02-2024,Colere,ITA,Argentina,European Cup,Snowboard Cross,44,4.15
-22,Pardo Facundo,Male,16-02-2024,Colere,ITA,Argentina,European Cup,Snowboard Cross,59,3.07
-23,Pardo Facundo,Male,06-02-2024,Reiteralm,AUT,Argentina,European Cup,Snowboard Cross,35,4.00
-24,Pardo Facundo,Male,05-02-2024,Reiteralm,AUT,Argentina,European Cup,Snowboard Cross,43,3.52
-25,Pardo Facundo,Male,28-01-2024,Puy St. Vincent,FRA,Argentina,European Cup,Snowboard Cross,36,3.94
-26,Pardo Facundo,Male,27-01-2024,Puy St. Vincent,FRA,Argentina,European Cup,Snowboard Cross,45,3.40
-27,Pardo Facundo,Male,01-10-2023,Corralco,CHI,Argentina,South American Cup,Snowboard Cross,11,86.40
-28,Pardo Facundo,Male,30-09-2023,Corralco,CHI,Argentina,South American Cup,Snowboard Cross,7,129.60
-29,Pardo Facundo,Male,03-09-2023,Corralco (CHI),BRA,Argentina,South American Cup,Snowboard Cross,6,64.00
-30,Pardo Facundo,Male,03-09-2023,Corralco (CHI),BRA,Argentina,South American Cup,Snowboard Cross,5,72.00
-31,Pardo Facundo,Male,30-03-2023,Passo San Pellegrino,ITA,Argentina,FIS Junior World Championships,Snowboard Cross,25,19.20
-32,Pardo Facundo,Male,19-03-2023,Passo San Pellegrino,ITA,Argentina,FIS,Snowboard Cross,24,12.60
-33,Pardo Facundo,Male,18-03-2023,Passo San Pellegrino,ITA,Argentina,FIS,Snowboard Cross,28,7.20
-34,Pardo Facundo,Male,12-03-2023,Lenk,SUI,Argentina,National Junior Championships,Snowboard Cross,17,12.60
-35,Pardo Facundo,Male,04-03-2023,Formigal,ESP,Argentina,FIS,Snowboard Cross,2,56.00
-36,Pardo Facundo,Male,18-02-2023,Baquirea Beret,ESP,Argentina,FIS,Snowboard Cross,4,75.00
-37,Pardo Facundo,Male,16-02-2023,Moena - Passo San Pellegrino,ITA,Argentina,European Cup,Snowboard Cross,48,4.67
-38,Pardo Facundo,Male,15-02-2023,Moena - Passo San Pellegrino,ITA,Argentina,European Cup,Snowboard Cross,60,
-39,Pardo Facundo,Male,16-09-2022,La Parva,CHI,Argentina,South American Cup,Snowboard Cross,2,128.00
-40,Pardo Facundo,Male,15-09-2022,La Parva,CHI,Argentina,South American Cup,Snowboard Cross,5,72.00
-41,Pardo Facundo,Male,30-08-2022,Corralco (CHI),BRA,Argentina,South American Cup,Snowboard Cross,7,57.60
-42,Pardo Facundo,Male,29-08-2022,Corralco (CHI),BRA,Argentina,South American Cup,Snowboard Cross,5,72.00
-43,Pardo Facundo,Male,31-03-2022,Veysonnaz,SUI,Argentina,FIS Junior World Championships,Snowboard Cross,33,6.24
-44,Pardo Facundo,Male,27-03-2022,Lenk,SUI,Argentina,National Championships,Snowboard Cross,33,6.24
-45,Pardo Facundo,Male,26-03-2022,Lenk,SUI,Argentina,European Cup,Snowboard Cross,DNF,
-46,Pardo Facundo,Male,25-03-2022,Lenk,SUI,Argentina,European Cup,Snowboard Cross,47,5.90
-47,Pardo Facundo,Male,20-03-2022,Passo San Pellegrino,ITA,Argentina,Junior,Snowboard Cross,13,24.00
-48,Pardo Facundo,Male,19-03-2022,Passo San Pellegrino,ITA,Argentina,Junior,Snowboard Cross,40,2.22
-49,Pardo Facundo,Male,09-03-2022,Lenk,SUI,Argentina,Junior,Snowboard Cross,12,11.00
-50,Pardo Facundo,Male,06-03-2022,Dolni Morava,CZE,Argentina,FIS,Snowboard Cross,13,20.00
-51,Pardo Facundo,Male,05-03-2022,Dolni Morava,CZE,Argentina,Junior,Snowboard Cross,1,50.00
-52,Pardo Facundo,Male,13-02-2022,Grasgehren,GER,Argentina,Junior,Snowboard Cross,49,1.90
-53,Pardo Facundo,Male,12-02-2022,Grasgehren,GER,Argentina,Junior,Snowboard Cross,33,2.88
-54,Pardo Facundo,Male,06-02-2022,Dolni Morava,CZE,Argentina,Junior,Snowboard Cross,32,1.30
-55,Pardo Facundo,Male,05-02-2022,Dolni Morava,CZE,Argentina,Junior,Snowboard Cross,6,20.00
-56,Pardo Facundo,Male,03-02-2022,Dolni Morava,CZE,Argentina,European Cup,Snowboard Cross,62,3.09
-57,Pardo Facundo,Male,02-02-2022,Dolni Morava,CZE,Argentina,European Cup,Snowboard Cross,49,3.79
-58,Pardo Facundo,Male,23-01-2022,Vitkovice,CZE,Argentina,Junior,Snowboard Cross,18,6.50
-59,Pardo Facundo,Male,22-01-2022,Vitkovice,CZE,Argentina,Junior,Snowboard Cross,11,12.00
-60,Pardo Facundo,Male,16-01-2022,Baqueira Beret,ESP,Argentina,FIS,Snowboard Cross,15,14.40
-61,Pardo Facundo,Male,23-02-2020,Folgaria,ITA,Argentina,Junior,Snowboard Cross,50,1.08
-62,Pardo Facundo,Male,22-02-2020,Folgaria,ITA,Argentina,Junior,Snowboard Cross,26,3.50
-63,Pardo Facundo,Male,16-02-2020,Flumserberg,SUI,Argentina,FIS,Snowboard Cross,65,2.20
-64,Pardo Facundo,Male,15-02-2020,Flumserberg,SUI,Argentina,FIS,Snowboard Cross,35,3.00
-65,Pardo Facundo,Male,08-02-2020,Colere,ITA,Argentina,FIS,Snowboard Cross,51,1.98
-66,Pardo Facundo,Male,07-02-2020,Colere,ITA,Argentina,FIS,Snowboard Cross,64,1.58
-67,Pardo Facundo,Male,29-09-2019,Cerro Castor,ARG,Argentina,South American Cup,Snowboard Cross,12,35.20
-68,Pardo Facundo,Male,28-09-2019,Cerro Castor,ARG,Argentina,South American Cup,Snowboard Cross,11,38.40
-69,Pardo Facundo,Male,21-09-2019,Chapelco,ARG,Argentina,National Championships,Snowboard Cross,6,36.00
-70,Pardo Facundo,Male,20-09-2019,Chapelco,ARG,Argentina,FIS,Snowboard Cross,14,12.60
-71,Pardo Facundo,Male,11-09-2019,Corralco (CHI),BRA,Argentina,South American Cup,Snowboard Cross,6,64.00
-72,Pardo Facundo,Male,10-09-2019,Corralco (CHI),BRA,Argentina,South American Cup,Snowboard Cross,14,28.80
-73,Pardo Facundo,Male,05-09-2019,Pucon,CHI,Argentina,South American Cup,Giant Slalom,4,80.00
-74,Pardo Facundo,Male,04-09-2019,Pucon,CHI,Argentina,South American Cup,Snowboard Cross,11,38.40
-75,Pardo Facundo,Male,30-03-2019,Isola 2000,FRA,Argentina,National Championships,Big Air,24,11.20
-76,Pardo Facundo,Male,29-03-2019,Isola 2000,FRA,Argentina,National Championships,Slopestyle,21,7.00
-77,Pardo Facundo,Male,27-03-2019,Isola 2000,FRA,Argentina,National Championships,Snowboard Cross,43,3.52
-78,Pardo Facundo,Male,23-09-2018,"Cerro Castor, Ushuaia",ARG,Argentina,National Championships,Snowboard Cross,12,63.80
-79,Pardo Facundo,Male,22-09-2018,"Cerro Castor, Ushuaia",ARG,Argentina,South American Cup,Snowboard Cross,20,31.90
-80,Pardo Facundo,Male,20-09-2018,"Cerro Castor, Ushuaia",ARG,Argentina,South American Cup,Slopestyle,25,
-81,Pardo Facundo,Male,19-09-2018,"Cerro Castor, Ushuaia",ARG,Argentina,South American Cup,Big Air,24,
-82,Pardo Facundo,Male,05-08-2018,La Parva,CHI,Argentina,South American Cup,Slopestyle,15,25.60
-83,Pardo Facundo,Male,04-08-2018,La Parva,CHI,Argentina,South American Cup,Slopestyle,14,28.80
-84,Pardo Facundo,Male,04-08-2017,"Cerro Castor, Ushuaia",ARG,Argentina,FIS,Slopestyle,13,10.00
-85,Pardo Facundo,Male,03-08-2017,"Cerro Castor, Ushuaia",ARG,Argentina,FIS,Slopestyle,13,10.00
-86,Pardo Facundo,Male,11-09-2016,Cerro Catedral,ARG,Argentina,South American Cup,Slopestyle,DNS,
+0,Pardo Facundo,Male,29-03-2025,Orcières,FRA,Argentina,European Cup,Snowboard Cross,DNF,
+1,Pardo Facundo,Male,28-03-2025,Engadin,SUI,Argentina,World Championships,Snowboard Cross,51,
+2,Pardo Facundo,Male,27-03-2025,Engadin,SUI,Argentina,Qualification,Snowboard Cross,51,
+3,Pardo Facundo,Male,14-03-2025,Lenk,SUI,Argentina,European Cup,Snowboard Cross,49,3.16
+4,Pardo Facundo,Male,13-03-2025,Lenk,SUI,Argentina,European Cup,Snowboard Cross,45,3.40
+5,Pardo Facundo,Male,15-02-2025,Cortina d'Ampezzo,ITA,Argentina,World Cup,Snowboard Cross,63,
+6,Pardo Facundo,Male,15-02-2025,Cortina d'Ampezzo,ITA,Argentina,Qualification,Snowboard Cross,63,
+7,Pardo Facundo,Male,09-02-2025,Reiteralm,AUT,Argentina,European Cup,Snowboard Cross,36,3.94
+8,Pardo Facundo,Male,08-02-2025,Reiteralm,AUT,Argentina,European Cup,Snowboard Cross,41,3.64
+9,Pardo Facundo,Male,27-11-2024,Pitztal,AUT,Argentina,Qualification,Snowboard Cross,87,
+10,Pardo Facundo,Male,27-11-2024,Pitztal,AUT,Argentina,European Cup,Snowboard Cross,87,
+11,Pardo Facundo,Male,03-10-2024,Corralco,CHI,Argentina,South American Cup,Snowboard Cross,20,39.60
+12,Pardo Facundo,Male,03-10-2024,Corralco,CHI,Argentina,South American Cup,Snowboard Cross,19,43.20
+13,Pardo Facundo,Male,28-08-2024,Corralco,CHI,Argentina,South American Cup,Snowboard Cross,11,38.40
+14,Pardo Facundo,Male,27-08-2024,Corralco,CHI,Argentina,South American Cup,Snowboard Cross,9,46.40
+15,Pardo Facundo,Male,27-03-2024,Baqueira Beret,ESP,Argentina,National Championships,Snowboard Cross,5,81.00
+16,Pardo Facundo,Male,24-03-2024,Lenk,SUI,Argentina,National Championships,Snowboard Cross,18,15.60
+17,Pardo Facundo,Male,22-03-2024,Lenk,SUI,Argentina,European Cup,Snowboard Cross,57,3.22
+18,Pardo Facundo,Male,21-03-2024,Lenk,SUI,Argentina,European Cup,Snowboard Cross,58,3.14
+19,Pardo Facundo,Male,03-03-2024,Sierra Nevada,ESP,Argentina,World Cup,Snowboard Cross,31,28.00
+20,Pardo Facundo,Male,02-03-2024,Sierra Nevada,ESP,Argentina,World Cup,Snowboard Cross,62,
+21,Pardo Facundo,Male,01-03-2024,Sierra Nevada,ESP,Argentina,Qualification,Snowboard Cross,63,
+22,Pardo Facundo,Male,25-02-2024,Grasgehren,GER,Argentina,European Cup,Snowboard Cross,43,5.10
+23,Pardo Facundo,Male,24-02-2024,Grasgehren,GER,Argentina,European Cup,Snowboard Cross,56,4.38
+24,Pardo Facundo,Male,17-02-2024,Colere,ITA,Argentina,European Cup,Snowboard Cross,44,4.15
+25,Pardo Facundo,Male,16-02-2024,Colere,ITA,Argentina,European Cup,Snowboard Cross,59,3.07
+26,Pardo Facundo,Male,06-02-2024,Reiteralm,AUT,Argentina,European Cup,Snowboard Cross,35,4.00
+27,Pardo Facundo,Male,05-02-2024,Reiteralm,AUT,Argentina,European Cup,Snowboard Cross,43,3.52
+28,Pardo Facundo,Male,28-01-2024,Puy St. Vincent,FRA,Argentina,European Cup,Snowboard Cross,36,3.94
+29,Pardo Facundo,Male,27-01-2024,Puy St. Vincent,FRA,Argentina,European Cup,Snowboard Cross,45,3.40
+30,Pardo Facundo,Male,01-10-2023,Corralco,CHI,Argentina,South American Cup,Snowboard Cross,11,86.40
+31,Pardo Facundo,Male,30-09-2023,Corralco,CHI,Argentina,South American Cup,Snowboard Cross,7,129.60
+32,Pardo Facundo,Male,03-09-2023,Corralco (CHI),BRA,Argentina,South American Cup,Snowboard Cross,5,72.00
+33,Pardo Facundo,Male,03-09-2023,Corralco (CHI),BRA,Argentina,South American Cup,Snowboard Cross,6,64.00
+34,Pardo Facundo,Male,30-03-2023,Passo San Pellegrino,ITA,Argentina,FIS Junior World Championships,Snowboard Cross,25,19.20
+35,Pardo Facundo,Male,19-03-2023,Passo San Pellegrino,ITA,Argentina,FIS,Snowboard Cross,24,12.60
+36,Pardo Facundo,Male,18-03-2023,Passo San Pellegrino,ITA,Argentina,FIS,Snowboard Cross,28,7.20
+37,Pardo Facundo,Male,12-03-2023,Lenk,SUI,Argentina,National Junior Championships,Snowboard Cross,17,12.60
+38,Pardo Facundo,Male,04-03-2023,Formigal,ESP,Argentina,FIS,Snowboard Cross,2,56.00
+39,Pardo Facundo,Male,18-02-2023,Baquirea Beret,ESP,Argentina,FIS,Snowboard Cross,4,75.00
+40,Pardo Facundo,Male,16-02-2023,Moena - Passo San Pellegrino,ITA,Argentina,European Cup,Snowboard Cross,48,4.67
+41,Pardo Facundo,Male,15-02-2023,Moena - Passo San Pellegrino,ITA,Argentina,European Cup,Snowboard Cross,60,
+42,Pardo Facundo,Male,16-09-2022,La Parva,CHI,Argentina,South American Cup,Snowboard Cross,2,128.00
+43,Pardo Facundo,Male,15-09-2022,La Parva,CHI,Argentina,South American Cup,Snowboard Cross,5,72.00
+44,Pardo Facundo,Male,30-08-2022,Corralco (CHI),BRA,Argentina,South American Cup,Snowboard Cross,7,57.60
+45,Pardo Facundo,Male,29-08-2022,Corralco (CHI),BRA,Argentina,South American Cup,Snowboard Cross,5,72.00
+46,Pardo Facundo,Male,31-03-2022,Veysonnaz,SUI,Argentina,FIS Junior World Championships,Snowboard Cross,33,6.24
+47,Pardo Facundo,Male,27-03-2022,Lenk,SUI,Argentina,National Championships,Snowboard Cross,33,6.24
+48,Pardo Facundo,Male,26-03-2022,Lenk,SUI,Argentina,European Cup,Snowboard Cross,DNF,
+49,Pardo Facundo,Male,25-03-2022,Lenk,SUI,Argentina,European Cup,Snowboard Cross,47,5.90
+50,Pardo Facundo,Male,20-03-2022,Passo San Pellegrino,ITA,Argentina,Junior,Snowboard Cross,13,24.00
+51,Pardo Facundo,Male,19-03-2022,Passo San Pellegrino,ITA,Argentina,Junior,Snowboard Cross,40,2.22
+52,Pardo Facundo,Male,09-03-2022,Lenk,SUI,Argentina,Junior,Snowboard Cross,12,11.00
+53,Pardo Facundo,Male,06-03-2022,Dolni Morava,CZE,Argentina,FIS,Snowboard Cross,13,20.00
+54,Pardo Facundo,Male,05-03-2022,Dolni Morava,CZE,Argentina,Junior,Snowboard Cross,1,50.00
+55,Pardo Facundo,Male,13-02-2022,Grasgehren,GER,Argentina,Junior,Snowboard Cross,49,1.90
+56,Pardo Facundo,Male,12-02-2022,Grasgehren,GER,Argentina,Junior,Snowboard Cross,33,2.88
+57,Pardo Facundo,Male,06-02-2022,Dolni Morava,CZE,Argentina,Junior,Snowboard Cross,32,1.30
+58,Pardo Facundo,Male,05-02-2022,Dolni Morava,CZE,Argentina,Junior,Snowboard Cross,6,20.00
+59,Pardo Facundo,Male,03-02-2022,Dolni Morava,CZE,Argentina,European Cup,Snowboard Cross,62,3.09
+60,Pardo Facundo,Male,02-02-2022,Dolni Morava,CZE,Argentina,European Cup,Snowboard Cross,49,3.79
+61,Pardo Facundo,Male,23-01-2022,Vitkovice,CZE,Argentina,Junior,Snowboard Cross,18,6.50
+62,Pardo Facundo,Male,22-01-2022,Vitkovice,CZE,Argentina,Junior,Snowboard Cross,11,12.00
+63,Pardo Facundo,Male,16-01-2022,Baqueira Beret,ESP,Argentina,FIS,Snowboard Cross,15,14.40
+64,Pardo Facundo,Male,23-02-2020,Folgaria,ITA,Argentina,Junior,Snowboard Cross,50,1.08
+65,Pardo Facundo,Male,22-02-2020,Folgaria,ITA,Argentina,Junior,Snowboard Cross,26,3.50
+66,Pardo Facundo,Male,16-02-2020,Flumserberg,SUI,Argentina,FIS,Snowboard Cross,65,2.20
+67,Pardo Facundo,Male,15-02-2020,Flumserberg,SUI,Argentina,FIS,Snowboard Cross,35,3.00
+68,Pardo Facundo,Male,08-02-2020,Colere,ITA,Argentina,FIS,Snowboard Cross,51,1.98
+69,Pardo Facundo,Male,07-02-2020,Colere,ITA,Argentina,FIS,Snowboard Cross,64,1.58
+70,Pardo Facundo,Male,29-09-2019,Cerro Castor,ARG,Argentina,South American Cup,Snowboard Cross,12,35.20
+71,Pardo Facundo,Male,28-09-2019,Cerro Castor,ARG,Argentina,South American Cup,Snowboard Cross,11,38.40
+72,Pardo Facundo,Male,21-09-2019,Chapelco,ARG,Argentina,National Championships,Snowboard Cross,6,36.00
+73,Pardo Facundo,Male,20-09-2019,Chapelco,ARG,Argentina,FIS,Snowboard Cross,14,12.60
+74,Pardo Facundo,Male,11-09-2019,Corralco (CHI),BRA,Argentina,South American Cup,Snowboard Cross,6,64.00
+75,Pardo Facundo,Male,10-09-2019,Corralco (CHI),BRA,Argentina,South American Cup,Snowboard Cross,14,28.80
+76,Pardo Facundo,Male,05-09-2019,Pucon,CHI,Argentina,South American Cup,Giant Slalom,4,80.00
+77,Pardo Facundo,Male,04-09-2019,Pucon,CHI,Argentina,South American Cup,Snowboard Cross,11,38.40
+78,Pardo Facundo,Male,30-03-2019,Isola 2000,FRA,Argentina,National Championships,Big Air,24,11.20
+79,Pardo Facundo,Male,29-03-2019,Isola 2000,FRA,Argentina,National Championships,Slopestyle,21,7.00
+80,Pardo Facundo,Male,27-03-2019,Isola 2000,FRA,Argentina,National Championships,Snowboard Cross,43,3.52
+81,Pardo Facundo,Male,23-09-2018,"Cerro Castor, Ushuaia",ARG,Argentina,National Championships,Snowboard Cross,12,63.80
+82,Pardo Facundo,Male,22-09-2018,"Cerro Castor, Ushuaia",ARG,Argentina,South American Cup,Snowboard Cross,20,31.90
+83,Pardo Facundo,Male,20-09-2018,"Cerro Castor, Ushuaia",ARG,Argentina,South American Cup,Slopestyle,25,
+84,Pardo Facundo,Male,19-09-2018,"Cerro Castor, Ushuaia",ARG,Argentina,South American Cup,Big Air,24,
+85,Pardo Facundo,Male,05-08-2018,La Parva,CHI,Argentina,South American Cup,Slopestyle,15,25.60
+86,Pardo Facundo,Male,04-08-2018,La Parva,CHI,Argentina,South American Cup,Slopestyle,14,28.80
+87,Pardo Facundo,Male,04-08-2017,"Cerro Castor, Ushuaia",ARG,Argentina,FIS,Slopestyle,13,10.00
+88,Pardo Facundo,Male,03-08-2017,"Cerro Castor, Ushuaia",ARG,Argentina,FIS,Slopestyle,13,10.00
+89,Pardo Facundo,Male,11-09-2016,Cerro Catedral,ARG,Argentina,South American Cup,Slopestyle,DNS,

@@ -1,76 +1,78 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Hirano Ruka,Male,02-03-2025,Gujo,JPN,Japan,National Championships,Halfpipe,1,320.00
-1,Hirano Ruka,Male,21-02-2025,Calgary,CAN,Japan,World Cup,Halfpipe,1,800.00
-2,Hirano Ruka,Male,19-02-2025,Calgary,CAN,Japan,Qualification,Halfpipe,1,
-3,Hirano Ruka,Male,01-02-2025,Aspen,USA,Japan,World Cup,Halfpipe,1,1000.00
-4,Hirano Ruka,Male,30-01-2025,Aspen,USA,Japan,Qualification,Halfpipe,1,
-5,Hirano Ruka,Male,18-01-2025,Laax,SUI,Japan,World Cup,Halfpipe,2,828.50
-6,Hirano Ruka,Male,17-01-2025,Laax,SUI,Japan,Qualification,Halfpipe,2,
-7,Hirano Ruka,Male,20-12-2024,Copper,USA,Japan,World Cup,Halfpipe,3,692.80
-8,Hirano Ruka,Male,18-12-2024,Copper,USA,Japan,Qualification,Halfpipe,2,
-9,Hirano Ruka,Male,08-12-2024,Secret Garden,CHN,Japan,World Cup,Halfpipe,5,496.60
-10,Hirano Ruka,Male,06-12-2024,Secret Garden,CHN,Japan,Qualification,Halfpipe,1,
-11,Hirano Ruka,Male,10-02-2024,Calgary,CAN,Japan,World Cup,Halfpipe,2,825.20
-12,Hirano Ruka,Male,09-02-2024,Calgary,CAN,Japan,Qualification,Halfpipe,3,
-13,Hirano Ruka,Male,03-02-2024,Mammoth Mountain,USA,Japan,World Cup,Halfpipe,2,826.30
-14,Hirano Ruka,Male,30-01-2024,Mammoth Mountain,USA,Japan,Qualification,Halfpipe,1,
-15,Hirano Ruka,Male,20-01-2024,Laax,SUI,Japan,World Cup,Halfpipe,3,693.80
-16,Hirano Ruka,Male,16-12-2023,Copper Mountain,USA,Japan,World Cup,Halfpipe,10,268.30
-17,Hirano Ruka,Male,14-12-2023,Copper Mountain,USA,Japan,Qualification,Halfpipe,3,
-18,Hirano Ruka,Male,08-12-2023,Secret Garden,CHN,Japan,World Cup,Halfpipe,2,824.50
-19,Hirano Ruka,Male,06-12-2023,Secret Garden,CHN,Japan,Qualification,Halfpipe,3,
-20,Hirano Ruka,Male,19-03-2023,Ajigasawa,JPN,Japan,National Championships,Halfpipe,10,86.40
-21,Hirano Ruka,Male,03-03-2023,Bakuriani,GEO,Japan,World Championships,Halfpipe,4,568.10
-22,Hirano Ruka,Male,01-03-2023,Bakuriani,GEO,Japan,Qualification,Halfpipe,2,
-23,Hirano Ruka,Male,10-02-2023,Calgary,CAN,Japan,World Cup,Halfpipe,1,800.00
-24,Hirano Ruka,Male,09-02-2023,Calgary,CAN,Japan,Qualification,Halfpipe,3,
-25,Hirano Ruka,Male,04-02-2023,Mammoth Mountain,USA,Japan,World Cup,Halfpipe,1,800.00
-26,Hirano Ruka,Male,02-02-2023,Mammoth Mountain,USA,Japan,Qualification,Halfpipe,2,
-27,Hirano Ruka,Male,21-01-2023,Laax,SUI,Japan,World Cup,Halfpipe,1,1000.00
-28,Hirano Ruka,Male,19-01-2023,Laax,SUI,Japan,Qualification,Halfpipe,1,
-29,Hirano Ruka,Male,16-12-2022,Copper Mountain,USA,Japan,World Cup,Halfpipe,17,166.30
-30,Hirano Ruka,Male,14-12-2022,Copper Mountain,USA,Japan,Qualification,Halfpipe,10,
-31,Hirano Ruka,Male,21-03-2022,Ajigasawa,JPN,Japan,National Championships,Halfpipe,1,320.00
-32,Hirano Ruka,Male,11-02-2022,Beijing,CHN,Japan,Olympic Winter Games,Halfpipe,12,182.80
-33,Hirano Ruka,Male,09-02-2022,Beijing,CHN,Japan,Qualification,Halfpipe,3,
-34,Hirano Ruka,Male,15-01-2022,Laax,SUI,Japan,World Cup,Halfpipe,10,275.60
-35,Hirano Ruka,Male,13-01-2022,Laax,SUI,Japan,Qualification,Halfpipe,3,
-36,Hirano Ruka,Male,08-01-2022,Mammoth Mountain,USA,Japan,World Cup,Halfpipe,2,661.60
-37,Hirano Ruka,Male,11-12-2021,Copper Mountain,USA,Japan,World Cup,Halfpipe,1,1000.00
-38,Hirano Ruka,Male,09-12-2021,Copper Mountain,USA,Japan,Qualification,Halfpipe,2,
-39,Hirano Ruka,Male,13-03-2021,Aspen,USA,Japan,World Championships,Halfpipe,12,191.86
-40,Hirano Ruka,Male,11-03-2021,Aspen,USA,Japan,Qualification,Halfpipe,12,
-41,Hirano Ruka,Male,23-01-2021,Laax,SUI,Japan,World Cup,Halfpipe,3,692.40
-42,Hirano Ruka,Male,21-01-2021,Laax,SUI,Japan,Qualification,Halfpipe,4,
-43,Hirano Ruka,Male,15-02-2020,Calgary,CAN,Japan,World Cup,Halfpipe,1,1000.00
-44,Hirano Ruka,Male,13-02-2020,Calgary,CAN,Japan,Qualification,Halfpipe,2,
-45,Hirano Ruka,Male,31-01-2020,Mammoth Mountain Resort,USA,Japan,World Cup,Halfpipe,3,600.00
-46,Hirano Ruka,Male,29-01-2020,Mammoth Mountain Resort,USA,Japan,Qualification,Halfpipe,5,
-47,Hirano Ruka,Male,21-01-2020,Leysin,SUI,Japan,Youth Olympic Winter Games,Halfpipe,1,260.00
-48,Hirano Ruka,Male,22-12-2019,Secret Garden,CHN,Japan,World Cup,Halfpipe,3,600.00
-49,Hirano Ruka,Male,20-12-2019,Secret Garden,CHN,Japan,Qualification,Halfpipe,3,
-50,Hirano Ruka,Male,14-12-2019,Copper Mountain Resort,USA,Japan,World Cup,Halfpipe,3,600.00
-51,Hirano Ruka,Male,12-12-2019,Copper Mountain Resort,USA,Japan,Qualification,Halfpipe,10,
-52,Hirano Ruka,Male,09-03-2019,Mammoth Mountain Resort,USA,Japan,World Cup,Halfpipe,13,200.00
-53,Hirano Ruka,Male,07-03-2019,Mammoth Mountain Resort,USA,Japan,Qualification,Halfpipe,3,
-54,Hirano Ruka,Male,24-02-2019,Gujo,JPN,Japan,National Championships,Halfpipe,31,
-55,Hirano Ruka,Male,15-02-2019,Calgary,CAN,Japan,World Cup,Halfpipe,2,800.00
-56,Hirano Ruka,Male,13-02-2019,Calgary,CAN,Japan,Qualification,Halfpipe,9,
-57,Hirano Ruka,Male,08-02-2019,Park City,USA,Japan,World Championships,Halfpipe,13,200.00
-58,Hirano Ruka,Male,06-02-2019,Park City,USA,Japan,Qualification,Halfpipe,13,
-59,Hirano Ruka,Male,26-01-2019,Leysin,SUI,Japan,FIS Junior World Championships,Halfpipe,1,240.00
-60,Hirano Ruka,Male,19-01-2019,Laax,SUI,Japan,World Cup,Halfpipe,5,450.00
-61,Hirano Ruka,Male,16-01-2019,Laax,SUI,Japan,Qualification,Halfpipe,4,
-62,Hirano Ruka,Male,21-12-2018,Secret Garden,CHN,Japan,World Cup,Halfpipe,2,800.00
-63,Hirano Ruka,Male,19-12-2018,Secret Garden,CHN,Japan,Qualification,Halfpipe,3,
-64,Hirano Ruka,Male,08-12-2018,Copper Mountain Resort,USA,Japan,World Cup,Halfpipe,15,160.00
-65,Hirano Ruka,Male,06-12-2018,Copper Mountain Resort,USA,Japan,Qualification,Halfpipe,7,
-66,Hirano Ruka,Male,04-09-2018,Cardrona,NZL,Japan,FIS Junior World Championships,Halfpipe,2,192.00
-67,Hirano Ruka,Male,01-09-2018,Cardrona,NZL,Japan,Qualification,Halfpipe,6,
-68,Hirano Ruka,Male,24-03-2018,Sapporo,JPN,Japan,FIS,Halfpipe,1,70.00
-69,Hirano Ruka,Male,18-02-2018,Sapporo,JPN,Japan,FIS,Halfpipe,2,56.00
-70,Hirano Ruka,Male,19-03-2017,Sapporo,JPN,Japan,National Championships,Halfpipe,DNS1,
-71,Hirano Ruka,Male,29-01-2017,Sapporo,JPN,Japan,FIS,Halfpipe,7,79.20
-72,Hirano Ruka,Male,20-02-2016,Sapporo,JPN,Japan,National Championships,Halfpipe,9,104.40
-73,Hirano Ruka,Male,07-02-2016,Sapporo,JPN,Japan,FIS,Halfpipe,9,63.80
-74,Hirano Ruka,Male,31-01-2016,Sapporo,JPN,Japan,FIS,Halfpipe,9,34.80
+0,Hirano Ruka,Male,29-03-2025,Engadin,SUI,Japan,World Championships,Halfpipe,2,
+1,Hirano Ruka,Male,27-03-2025,Engadin,SUI,Japan,Qualification,Halfpipe,2,
+2,Hirano Ruka,Male,02-03-2025,Gujo,JPN,Japan,National Championships,Halfpipe,1,320.00
+3,Hirano Ruka,Male,21-02-2025,Calgary,CAN,Japan,World Cup,Halfpipe,1,800.00
+4,Hirano Ruka,Male,19-02-2025,Calgary,CAN,Japan,Qualification,Halfpipe,1,
+5,Hirano Ruka,Male,01-02-2025,Aspen,USA,Japan,World Cup,Halfpipe,1,1000.00
+6,Hirano Ruka,Male,30-01-2025,Aspen,USA,Japan,Qualification,Halfpipe,1,
+7,Hirano Ruka,Male,18-01-2025,Laax,SUI,Japan,World Cup,Halfpipe,2,828.50
+8,Hirano Ruka,Male,17-01-2025,Laax,SUI,Japan,Qualification,Halfpipe,2,
+9,Hirano Ruka,Male,20-12-2024,Copper,USA,Japan,World Cup,Halfpipe,3,692.80
+10,Hirano Ruka,Male,18-12-2024,Copper,USA,Japan,Qualification,Halfpipe,2,
+11,Hirano Ruka,Male,08-12-2024,Secret Garden,CHN,Japan,World Cup,Halfpipe,5,496.60
+12,Hirano Ruka,Male,06-12-2024,Secret Garden,CHN,Japan,Qualification,Halfpipe,1,
+13,Hirano Ruka,Male,10-02-2024,Calgary,CAN,Japan,World Cup,Halfpipe,2,825.20
+14,Hirano Ruka,Male,09-02-2024,Calgary,CAN,Japan,Qualification,Halfpipe,3,
+15,Hirano Ruka,Male,03-02-2024,Mammoth Mountain,USA,Japan,World Cup,Halfpipe,2,826.30
+16,Hirano Ruka,Male,30-01-2024,Mammoth Mountain,USA,Japan,Qualification,Halfpipe,1,
+17,Hirano Ruka,Male,20-01-2024,Laax,SUI,Japan,World Cup,Halfpipe,3,693.80
+18,Hirano Ruka,Male,16-12-2023,Copper Mountain,USA,Japan,World Cup,Halfpipe,10,268.30
+19,Hirano Ruka,Male,14-12-2023,Copper Mountain,USA,Japan,Qualification,Halfpipe,3,
+20,Hirano Ruka,Male,08-12-2023,Secret Garden,CHN,Japan,World Cup,Halfpipe,2,824.50
+21,Hirano Ruka,Male,06-12-2023,Secret Garden,CHN,Japan,Qualification,Halfpipe,3,
+22,Hirano Ruka,Male,19-03-2023,Ajigasawa,JPN,Japan,National Championships,Halfpipe,10,86.40
+23,Hirano Ruka,Male,03-03-2023,Bakuriani,GEO,Japan,World Championships,Halfpipe,4,568.10
+24,Hirano Ruka,Male,01-03-2023,Bakuriani,GEO,Japan,Qualification,Halfpipe,2,
+25,Hirano Ruka,Male,10-02-2023,Calgary,CAN,Japan,World Cup,Halfpipe,1,800.00
+26,Hirano Ruka,Male,09-02-2023,Calgary,CAN,Japan,Qualification,Halfpipe,3,
+27,Hirano Ruka,Male,04-02-2023,Mammoth Mountain,USA,Japan,World Cup,Halfpipe,1,800.00
+28,Hirano Ruka,Male,02-02-2023,Mammoth Mountain,USA,Japan,Qualification,Halfpipe,2,
+29,Hirano Ruka,Male,21-01-2023,Laax,SUI,Japan,World Cup,Halfpipe,1,1000.00
+30,Hirano Ruka,Male,19-01-2023,Laax,SUI,Japan,Qualification,Halfpipe,1,
+31,Hirano Ruka,Male,16-12-2022,Copper Mountain,USA,Japan,World Cup,Halfpipe,17,166.30
+32,Hirano Ruka,Male,14-12-2022,Copper Mountain,USA,Japan,Qualification,Halfpipe,10,
+33,Hirano Ruka,Male,21-03-2022,Ajigasawa,JPN,Japan,National Championships,Halfpipe,1,320.00
+34,Hirano Ruka,Male,11-02-2022,Beijing,CHN,Japan,Olympic Winter Games,Halfpipe,12,182.80
+35,Hirano Ruka,Male,09-02-2022,Beijing,CHN,Japan,Qualification,Halfpipe,3,
+36,Hirano Ruka,Male,15-01-2022,Laax,SUI,Japan,World Cup,Halfpipe,10,275.60
+37,Hirano Ruka,Male,13-01-2022,Laax,SUI,Japan,Qualification,Halfpipe,3,
+38,Hirano Ruka,Male,08-01-2022,Mammoth Mountain,USA,Japan,World Cup,Halfpipe,2,661.60
+39,Hirano Ruka,Male,11-12-2021,Copper Mountain,USA,Japan,World Cup,Halfpipe,1,1000.00
+40,Hirano Ruka,Male,09-12-2021,Copper Mountain,USA,Japan,Qualification,Halfpipe,2,
+41,Hirano Ruka,Male,13-03-2021,Aspen,USA,Japan,World Championships,Halfpipe,12,191.86
+42,Hirano Ruka,Male,11-03-2021,Aspen,USA,Japan,Qualification,Halfpipe,12,
+43,Hirano Ruka,Male,23-01-2021,Laax,SUI,Japan,World Cup,Halfpipe,3,692.40
+44,Hirano Ruka,Male,21-01-2021,Laax,SUI,Japan,Qualification,Halfpipe,4,
+45,Hirano Ruka,Male,15-02-2020,Calgary,CAN,Japan,World Cup,Halfpipe,1,1000.00
+46,Hirano Ruka,Male,13-02-2020,Calgary,CAN,Japan,Qualification,Halfpipe,2,
+47,Hirano Ruka,Male,31-01-2020,Mammoth Mountain Resort,USA,Japan,World Cup,Halfpipe,3,600.00
+48,Hirano Ruka,Male,29-01-2020,Mammoth Mountain Resort,USA,Japan,Qualification,Halfpipe,5,
+49,Hirano Ruka,Male,21-01-2020,Leysin,SUI,Japan,Youth Olympic Winter Games,Halfpipe,1,260.00
+50,Hirano Ruka,Male,22-12-2019,Secret Garden,CHN,Japan,World Cup,Halfpipe,3,600.00
+51,Hirano Ruka,Male,20-12-2019,Secret Garden,CHN,Japan,Qualification,Halfpipe,3,
+52,Hirano Ruka,Male,14-12-2019,Copper Mountain Resort,USA,Japan,World Cup,Halfpipe,3,600.00
+53,Hirano Ruka,Male,12-12-2019,Copper Mountain Resort,USA,Japan,Qualification,Halfpipe,10,
+54,Hirano Ruka,Male,09-03-2019,Mammoth Mountain Resort,USA,Japan,World Cup,Halfpipe,13,200.00
+55,Hirano Ruka,Male,07-03-2019,Mammoth Mountain Resort,USA,Japan,Qualification,Halfpipe,3,
+56,Hirano Ruka,Male,24-02-2019,Gujo,JPN,Japan,National Championships,Halfpipe,31,
+57,Hirano Ruka,Male,15-02-2019,Calgary,CAN,Japan,World Cup,Halfpipe,2,800.00
+58,Hirano Ruka,Male,13-02-2019,Calgary,CAN,Japan,Qualification,Halfpipe,9,
+59,Hirano Ruka,Male,08-02-2019,Park City,USA,Japan,World Championships,Halfpipe,13,200.00
+60,Hirano Ruka,Male,06-02-2019,Park City,USA,Japan,Qualification,Halfpipe,13,
+61,Hirano Ruka,Male,26-01-2019,Leysin,SUI,Japan,FIS Junior World Championships,Halfpipe,1,240.00
+62,Hirano Ruka,Male,19-01-2019,Laax,SUI,Japan,World Cup,Halfpipe,5,450.00
+63,Hirano Ruka,Male,16-01-2019,Laax,SUI,Japan,Qualification,Halfpipe,4,
+64,Hirano Ruka,Male,21-12-2018,Secret Garden,CHN,Japan,World Cup,Halfpipe,2,800.00
+65,Hirano Ruka,Male,19-12-2018,Secret Garden,CHN,Japan,Qualification,Halfpipe,3,
+66,Hirano Ruka,Male,08-12-2018,Copper Mountain Resort,USA,Japan,World Cup,Halfpipe,15,160.00
+67,Hirano Ruka,Male,06-12-2018,Copper Mountain Resort,USA,Japan,Qualification,Halfpipe,7,
+68,Hirano Ruka,Male,04-09-2018,Cardrona,NZL,Japan,FIS Junior World Championships,Halfpipe,2,192.00
+69,Hirano Ruka,Male,01-09-2018,Cardrona,NZL,Japan,Qualification,Halfpipe,6,
+70,Hirano Ruka,Male,24-03-2018,Sapporo,JPN,Japan,FIS,Halfpipe,1,70.00
+71,Hirano Ruka,Male,18-02-2018,Sapporo,JPN,Japan,FIS,Halfpipe,2,56.00
+72,Hirano Ruka,Male,19-03-2017,Sapporo,JPN,Japan,National Championships,Halfpipe,DNS1,
+73,Hirano Ruka,Male,29-01-2017,Sapporo,JPN,Japan,FIS,Halfpipe,7,79.20
+74,Hirano Ruka,Male,20-02-2016,Sapporo,JPN,Japan,National Championships,Halfpipe,9,104.40
+75,Hirano Ruka,Male,07-02-2016,Sapporo,JPN,Japan,FIS,Halfpipe,9,63.80
+76,Hirano Ruka,Male,31-01-2016,Sapporo,JPN,Japan,FIS,Halfpipe,9,34.80

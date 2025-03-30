@@ -1,51 +1,52 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Kiss Miklos,Male,22-12-2024,Moninec,CZE,Hungary,FIS,Parallel Slalom,41,
-1,Kiss Miklos,Male,21-12-2024,Moninec,CZE,Hungary,FIS,Parallel Slalom,43,2.82
-2,Kiss Miklos,Male,08-02-2012,Krasiya,UKR,Hungary,FIS,Parallel GS,18,9.10
-3,Kiss Miklos,Male,07-02-2012,Krasiya,UKR,Hungary,National Championships,Parallel GS,17,9.80
-4,Kiss Miklos,Male,29-01-2012,Kasberg,AUT,Hungary,FIS,Parallel Slalom,17,9.80
-5,Kiss Miklos,Male,28-01-2012,Kasberg,AUT,Hungary,FIS,Parallel Slalom,19,6.00
-6,Kiss Miklos,Male,08-01-2012,Kreischberg,AUT,Hungary,FIS,Parallel GS,75,2.08
-7,Kiss Miklos,Male,07-01-2012,Kreischberg,AUT,Hungary,FIS,Parallel GS,92,
-8,Kiss Miklos,Male,01-02-2011,Palandoken/Erzurum,TUR,Hungary,Universiade,Parallel GS,39,6.02
-9,Kiss Miklos,Male,23-01-2011,Innsbruck/Patscherkofel,AUT,Hungary,FIS,Parallel Slalom,51,3.95
-10,Kiss Miklos,Male,22-01-2011,Innsbruck/Patscherkofel,AUT,Hungary,FIS,Parallel GS,49,4.11
-11,Kiss Miklos,Male,28-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Hungary,FIS,Parallel GS,90,0.91
-12,Kiss Miklos,Male,27-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Hungary,European Cup,Parallel GS,62,5.36
-13,Kiss Miklos,Male,30-12-2009,Goetschen  Bischofswiesen,GER,Hungary,European Cup,Parallel GS,64,5.65
-14,Kiss Miklos,Male,20-12-2009,Schoenberg/Lachtal,AUT,Hungary,FIS,Parallel GS,87,
-15,Kiss Miklos,Male,19-12-2009,Schoenberg/Lachtal,AUT,Hungary,FIS,Parallel GS,85,
-16,Kiss Miklos,Male,19-12-2009,Racines,ITA,Hungary,FIS,Giant Slalom,21,14.00
-17,Kiss Miklos,Male,18-12-2009,Racines,ITA,Hungary,FIS,Giant Slalom,23,11.20
-18,Kiss Miklos,Male,29-03-2009,Kasberg,AUT,Hungary,National Championships,Parallel Slalom,60,
-19,Kiss Miklos,Male,28-03-2009,Kasberg,AUT,Hungary,National Championships,Parallel GS,48,5.80
-20,Kiss Miklos,Male,18-03-2009,La Molina,ESP,Hungary,National Championships,Parallel GS,26,0.00
-21,Kiss Miklos,Male,22-02-2009,Adelboden,SUI,Hungary,FIS,Parallel Slalom,32,0.00
-22,Kiss Miklos,Male,21-02-2009,Adelboden,SUI,Hungary,European Cup,Parallel Slalom,43,0.00
-23,Kiss Miklos,Male,20-02-2009,Adelboden,SUI,Hungary,European Cup,Parallel Slalom,38,4.97
-24,Kiss Miklos,Male,08-02-2009,Kreischberg,AUT,Hungary,FIS,Parallel GS,26,5.00
-25,Kiss Miklos,Male,07-02-2009,Bischofswiesen / Götschen,GER,Hungary,National Championships,Parallel GS,26,10.00
-26,Kiss Miklos,Male,07-02-2009,Lachtal,AUT,Hungary,FIS,Parallel Slalom,45,
-27,Kiss Miklos,Male,01-02-2009,Sils,SUI,Hungary,FIS,Parallel GS,47,4.26
-28,Kiss Miklos,Male,31-01-2009,Sils,SUI,Hungary,European Cup,Parallel GS,117,
-29,Kiss Miklos,Male,30-01-2009,Sils,SUI,Hungary,European Cup,Parallel GS,112,
-30,Kiss Miklos,Male,18-01-2009,Imst,AUT,Hungary,European Cup,Giant Slalom,58,0.00
-31,Kiss Miklos,Male,17-01-2009,Imst,AUT,Hungary,European Cup,Giant Slalom,145,
-32,Kiss Miklos,Male,11-01-2009,Kasberg,AUT,Hungary,European Cup,Parallel GS,70,3.42
-33,Kiss Miklos,Male,10-01-2009,Kasberg,AUT,Hungary,European Cup,Parallel GS,67,3.74
-34,Kiss Miklos,Male,04-01-2009,Marianske Lazne,CZE,Hungary,European Cup,Parallel Slalom,48,4.19
-35,Kiss Miklos,Male,03-01-2009,Marianske Lazne,CZE,Hungary,European Cup,Parallel Slalom,45,4.42
-36,Kiss Miklos,Male,29-12-2008,Bischofswiesen / Götschen,GER,Hungary,European Cup,Parallel GS,58,6.55
-37,Kiss Miklos,Male,20-12-2008,Ratschings/Racines,ITA,Hungary,European Cup,Giant Slalom,61,0.00
-38,Kiss Miklos,Male,19-12-2008,Ratschings/Racines,ITA,Hungary,European Cup,Giant Slalom,66,0.00
-39,Kiss Miklos,Male,14-12-2008,Welschnofen/Karerpass,ITA,Hungary,European Cup,Giant Slalom,54,0.00
-40,Kiss Miklos,Male,13-12-2008,Welschnofen/Karerpass,ITA,Hungary,FIS,Giant Slalom,50,0.00
-41,Kiss Miklos,Male,07-12-2008,Innsbruck/Patscherkofel,AUT,Hungary,FIS,Parallel Slalom,85,0.00
-42,Kiss Miklos,Male,06-12-2008,Innsbruck/Patscherkofel,AUT,Hungary,FIS,Parallel Slalom,139,
-43,Kiss Miklos,Male,08-12-2007,Haus im Ennstal,AUT,Hungary,FIS,Giant Slalom,79,1.36
-44,Kiss Miklos,Male,07-12-2007,Haus im Ennstal,AUT,Hungary,European Cup,Giant Slalom,81,0.00
-45,Kiss Miklos,Male,31-03-2007,Kaunertal,GER,Hungary,National Championships,Parallel GS,47,
-46,Kiss Miklos,Male,30-03-2007,Sils,SUI,Hungary,National Championships,Snowboardcross,262,
-47,Kiss Miklos,Male,29-03-2007,Sils,SUI,Hungary,National Championships,Parallel GS,237,
-48,Kiss Miklos,Male,26-01-2007,Bardonecchia,ITA,Hungary,Universiade,Giant Slalom,30,9.28
-49,Kiss Miklos,Male,25-01-2007,Bardonecchia,ITA,Hungary,Universiade,Snowboardcross,57,0.00
+0,Kiss Miklos,Male,29-03-2025,Krvavec,SLO,Hungary,National Championships,Giant Slalom,18,37.70
+1,Kiss Miklos,Male,22-12-2024,Moninec,CZE,Hungary,FIS,Parallel Slalom,41,
+2,Kiss Miklos,Male,21-12-2024,Moninec,CZE,Hungary,FIS,Parallel Slalom,43,2.82
+3,Kiss Miklos,Male,08-02-2012,Krasiya,UKR,Hungary,FIS,Parallel GS,18,9.10
+4,Kiss Miklos,Male,07-02-2012,Krasiya,UKR,Hungary,National Championships,Parallel GS,17,9.80
+5,Kiss Miklos,Male,29-01-2012,Kasberg,AUT,Hungary,FIS,Parallel Slalom,17,9.80
+6,Kiss Miklos,Male,28-01-2012,Kasberg,AUT,Hungary,FIS,Parallel Slalom,19,6.00
+7,Kiss Miklos,Male,08-01-2012,Kreischberg,AUT,Hungary,FIS,Parallel GS,75,2.08
+8,Kiss Miklos,Male,07-01-2012,Kreischberg,AUT,Hungary,FIS,Parallel GS,92,
+9,Kiss Miklos,Male,01-02-2011,Palandoken/Erzurum,TUR,Hungary,Universiade,Parallel GS,39,6.02
+10,Kiss Miklos,Male,23-01-2011,Innsbruck/Patscherkofel,AUT,Hungary,FIS,Parallel Slalom,51,3.95
+11,Kiss Miklos,Male,22-01-2011,Innsbruck/Patscherkofel,AUT,Hungary,FIS,Parallel GS,49,4.11
+12,Kiss Miklos,Male,28-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Hungary,FIS,Parallel GS,90,0.91
+13,Kiss Miklos,Male,27-11-2010,"Hochfuegen, Zillertal (AUT)",GER,Hungary,European Cup,Parallel GS,62,5.36
+14,Kiss Miklos,Male,30-12-2009,Goetschen  Bischofswiesen,GER,Hungary,European Cup,Parallel GS,64,5.65
+15,Kiss Miklos,Male,20-12-2009,Schoenberg/Lachtal,AUT,Hungary,FIS,Parallel GS,87,
+16,Kiss Miklos,Male,19-12-2009,Schoenberg/Lachtal,AUT,Hungary,FIS,Parallel GS,85,
+17,Kiss Miklos,Male,19-12-2009,Racines,ITA,Hungary,FIS,Giant Slalom,21,14.00
+18,Kiss Miklos,Male,18-12-2009,Racines,ITA,Hungary,FIS,Giant Slalom,23,11.20
+19,Kiss Miklos,Male,29-03-2009,Kasberg,AUT,Hungary,National Championships,Parallel Slalom,60,
+20,Kiss Miklos,Male,28-03-2009,Kasberg,AUT,Hungary,National Championships,Parallel GS,48,5.80
+21,Kiss Miklos,Male,18-03-2009,La Molina,ESP,Hungary,National Championships,Parallel GS,26,0.00
+22,Kiss Miklos,Male,22-02-2009,Adelboden,SUI,Hungary,FIS,Parallel Slalom,32,0.00
+23,Kiss Miklos,Male,21-02-2009,Adelboden,SUI,Hungary,European Cup,Parallel Slalom,43,0.00
+24,Kiss Miklos,Male,20-02-2009,Adelboden,SUI,Hungary,European Cup,Parallel Slalom,38,4.97
+25,Kiss Miklos,Male,08-02-2009,Kreischberg,AUT,Hungary,FIS,Parallel GS,26,5.00
+26,Kiss Miklos,Male,07-02-2009,Bischofswiesen / Götschen,GER,Hungary,National Championships,Parallel GS,26,10.00
+27,Kiss Miklos,Male,07-02-2009,Lachtal,AUT,Hungary,FIS,Parallel Slalom,45,
+28,Kiss Miklos,Male,01-02-2009,Sils,SUI,Hungary,FIS,Parallel GS,47,4.26
+29,Kiss Miklos,Male,31-01-2009,Sils,SUI,Hungary,European Cup,Parallel GS,117,
+30,Kiss Miklos,Male,30-01-2009,Sils,SUI,Hungary,European Cup,Parallel GS,112,
+31,Kiss Miklos,Male,18-01-2009,Imst,AUT,Hungary,European Cup,Giant Slalom,58,0.00
+32,Kiss Miklos,Male,17-01-2009,Imst,AUT,Hungary,European Cup,Giant Slalom,145,
+33,Kiss Miklos,Male,11-01-2009,Kasberg,AUT,Hungary,European Cup,Parallel GS,70,3.42
+34,Kiss Miklos,Male,10-01-2009,Kasberg,AUT,Hungary,European Cup,Parallel GS,67,3.74
+35,Kiss Miklos,Male,04-01-2009,Marianske Lazne,CZE,Hungary,European Cup,Parallel Slalom,48,4.19
+36,Kiss Miklos,Male,03-01-2009,Marianske Lazne,CZE,Hungary,European Cup,Parallel Slalom,45,4.42
+37,Kiss Miklos,Male,29-12-2008,Bischofswiesen / Götschen,GER,Hungary,European Cup,Parallel GS,58,6.55
+38,Kiss Miklos,Male,20-12-2008,Ratschings/Racines,ITA,Hungary,European Cup,Giant Slalom,61,0.00
+39,Kiss Miklos,Male,19-12-2008,Ratschings/Racines,ITA,Hungary,European Cup,Giant Slalom,66,0.00
+40,Kiss Miklos,Male,14-12-2008,Welschnofen/Karerpass,ITA,Hungary,European Cup,Giant Slalom,54,0.00
+41,Kiss Miklos,Male,13-12-2008,Welschnofen/Karerpass,ITA,Hungary,FIS,Giant Slalom,50,0.00
+42,Kiss Miklos,Male,07-12-2008,Innsbruck/Patscherkofel,AUT,Hungary,FIS,Parallel Slalom,85,0.00
+43,Kiss Miklos,Male,06-12-2008,Innsbruck/Patscherkofel,AUT,Hungary,FIS,Parallel Slalom,139,
+44,Kiss Miklos,Male,08-12-2007,Haus im Ennstal,AUT,Hungary,FIS,Giant Slalom,79,1.36
+45,Kiss Miklos,Male,07-12-2007,Haus im Ennstal,AUT,Hungary,European Cup,Giant Slalom,81,0.00
+46,Kiss Miklos,Male,31-03-2007,Kaunertal,GER,Hungary,National Championships,Parallel GS,47,
+47,Kiss Miklos,Male,30-03-2007,Sils,SUI,Hungary,National Championships,Snowboardcross,262,
+48,Kiss Miklos,Male,29-03-2007,Sils,SUI,Hungary,National Championships,Parallel GS,237,
+49,Kiss Miklos,Male,26-01-2007,Bardonecchia,ITA,Hungary,Universiade,Giant Slalom,30,9.28
+50,Kiss Miklos,Male,25-01-2007,Bardonecchia,ITA,Hungary,Universiade,Snowboardcross,57,0.00
