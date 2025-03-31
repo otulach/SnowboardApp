@@ -1,94 +1,95 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Vardy Max,Male,29-03-2025,Orcières,FRA,Australia,European Cup,Snowboard Cross,27,
-1,Vardy Max,Male,14-03-2025,Lenk,SUI,Australia,European Cup,Snowboard Cross,5,90.00
-2,Vardy Max,Male,13-03-2025,Lenk,SUI,Australia,European Cup,Snowboard Cross,6,80.00
-3,Vardy Max,Male,28-02-2025,Passo San Pellegrino,ITA,Australia,European Cup,Snowboard Cross,32,4.68
-4,Vardy Max,Male,27-02-2025,Passo San Pellegrino,ITA,Australia,European Cup,Snowboard Cross,45,
-5,Vardy Max,Male,09-02-2025,Dolni Morava,CZE,Australia,FIS,Snowboard Cross,4,110.00
-6,Vardy Max,Male,08-02-2025,Dolni Morava,CZE,Australia,National Championships,Snowboard Cross,2,208.00
-7,Vardy Max,Male,02-02-2025,St. Lary,FRA,Australia,National Championships,Snowboard Cross,10,39.00
-8,Vardy Max,Male,31-01-2025,St. Lary,FRA,Australia,European Cup,Snowboard Cross,31,5.04
-9,Vardy Max,Male,24-01-2025,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,15,28.80
-10,Vardy Max,Male,23-01-2025,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,35,4.00
-11,Vardy Max,Male,14-01-2025,Bardonecchia,ITA,Australia,Universiade,Snowboard Cross,11,52.80
-12,Vardy Max,Male,27-11-2024,Pitztal,AUT,Australia,Qualification,Snowboard Cross,56,
+0,Vardy Max,Male,30-03-2025,Orcières,FRA,Australia,European Cup,Snowboard Cross,22,
+1,Vardy Max,Male,29-03-2025,Orcières,FRA,Australia,European Cup,Snowboard Cross,27,
+2,Vardy Max,Male,14-03-2025,Lenk,SUI,Australia,European Cup,Snowboard Cross,5,90.00
+3,Vardy Max,Male,13-03-2025,Lenk,SUI,Australia,European Cup,Snowboard Cross,6,80.00
+4,Vardy Max,Male,28-02-2025,Passo San Pellegrino,ITA,Australia,European Cup,Snowboard Cross,32,4.68
+5,Vardy Max,Male,27-02-2025,Passo San Pellegrino,ITA,Australia,European Cup,Snowboard Cross,45,
+6,Vardy Max,Male,09-02-2025,Dolni Morava,CZE,Australia,FIS,Snowboard Cross,4,110.00
+7,Vardy Max,Male,08-02-2025,Dolni Morava,CZE,Australia,National Championships,Snowboard Cross,2,208.00
+8,Vardy Max,Male,02-02-2025,St. Lary,FRA,Australia,National Championships,Snowboard Cross,10,39.00
+9,Vardy Max,Male,31-01-2025,St. Lary,FRA,Australia,European Cup,Snowboard Cross,31,5.04
+10,Vardy Max,Male,24-01-2025,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,15,28.80
+11,Vardy Max,Male,23-01-2025,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,35,4.00
+12,Vardy Max,Male,14-01-2025,Bardonecchia,ITA,Australia,Universiade,Snowboard Cross,11,52.80
 13,Vardy Max,Male,27-11-2024,Pitztal,AUT,Australia,European Cup,Snowboard Cross,56,4.93
-14,Vardy Max,Male,14-03-2024,Isola 2000,FRA,Australia,European Cup,Snowboard Cross,38,3.82
-15,Vardy Max,Male,13-03-2024,Isola 2000,FRA,Australia,European Cup,Snowboard Cross,28,8.00
-16,Vardy Max,Male,02-03-2024,St. Moritz,SUI,Australia,FIS,Snowboard Cross,8,44.80
-17,Vardy Max,Male,25-02-2024,Grasgehren,GER,Australia,European Cup,Snowboard Cross,38,5.54
-18,Vardy Max,Male,24-02-2024,Grasgehren,GER,Australia,European Cup,Snowboard Cross,35,6.40
-19,Vardy Max,Male,17-02-2024,Colere,ITA,Australia,European Cup,Snowboard Cross,37,4.66
-20,Vardy Max,Male,16-02-2024,Colere,ITA,Australia,European Cup,Snowboard Cross,47,3.94
-21,Vardy Max,Male,06-02-2024,Reiteralm,AUT,Australia,European Cup,Snowboard Cross,34,4.40
-22,Vardy Max,Male,05-02-2024,Reiteralm,AUT,Australia,European Cup,Snowboard Cross,22,18.00
-23,Vardy Max,Male,02-02-2024,Dolni Morava,CZE,Australia,FIS,Snowboard Cross,2,56.00
-24,Vardy Max,Male,01-02-2024,Dolni Morava,CZE,Australia,European Cup,Snowboard Cross,36,4.33
-25,Vardy Max,Male,31-01-2024,Dolni Morava,CZE,Australia,European Cup,Snowboard Cross,54,3.15
-26,Vardy Max,Male,28-01-2024,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,26,10.00
-27,Vardy Max,Male,27-01-2024,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,28,8.00
-28,Vardy Max,Male,20-01-2024,Montafon,AUT,Australia,National Championships,Snowboard Cross,53,4.23
-29,Vardy Max,Male,09-12-2023,Pitztal,AUT,Australia,FIS,Snowboard Cross,17,19.60
-30,Vardy Max,Male,19-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,7,72.00
-31,Vardy Max,Male,18-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,9,46.40
-32,Vardy Max,Male,17-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,15,32.00
-33,Vardy Max,Male,31-03-2023,Passo San Pellegrino,ITA,Australia,FIS Junior World Championships,Snowboard Cross Team,9,
-34,Vardy Max,Male,30-03-2023,Passo San Pellegrino,ITA,Australia,FIS Junior World Championships,Snowboard Cross,33,7.68
-35,Vardy Max,Male,18-03-2023,Passo San Pellegrino,ITA,Australia,FIS,Snowboard Cross,26,9.00
-36,Vardy Max,Male,16-03-2023,Pitztal,AUT,Australia,FIS,Snowboard Cross,11,31.20
-37,Vardy Max,Male,15-03-2023,Pitztal,AUT,Australia,FIS,Snowboard Cross,9,37.70
-38,Vardy Max,Male,12-03-2023,Lenk,SUI,Australia,National Junior Championships,Snowboard Cross,1,90.00
-39,Vardy Max,Male,19-02-2023,Flumserberg,SUI,Australia,Junior,Snowboard Cross,17,15.40
-40,Vardy Max,Male,16-02-2023,Moena - Passo San Pellegrino,ITA,Australia,European Cup,Snowboard Cross,33,6.96
-41,Vardy Max,Male,15-02-2023,Moena - Passo San Pellegrino,ITA,Australia,European Cup,Snowboard Cross,47,4.76
-42,Vardy Max,Male,22-01-2023,Puy St.Vincent,FRA,Australia,European Cup,Snowboard Cross,17,33.60
-43,Vardy Max,Male,21-01-2023,Puy St.Vincent,FRA,Australia,European Cup,Snowboard Cross,34,5.28
-44,Vardy Max,Male,15-01-2023,Reiteralm,AUT,Australia,European Cup,Snowboard Cross,42,6.44
-45,Vardy Max,Male,14-01-2023,Reiteralm,AUT,Australia,European Cup,Snowboard Cross,42,6.44
-46,Vardy Max,Male,08-01-2023,Isola 2000,FRA,Australia,Junior,Snowboard Cross,9,34.80
-47,Vardy Max,Male,07-01-2023,Isola 2000,FRA,Australia,European Cup,Snowboard Cross,25,14.40
-48,Vardy Max,Male,06-01-2023,Isola 2000,FRA,Australia,European Cup,Snowboard Cross,28,9.60
-49,Vardy Max,Male,27-11-2022,Pitztal,AUT,Australia,Junior,Snowboard Cross,33,3.84
-50,Vardy Max,Male,26-11-2022,Pitztal,AUT,Australia,Junior,Snowboard Cross,37,3.49
-51,Vardy Max,Male,25-11-2022,Pitztal,AUT,Australia,FIS,Snowboard Cross,49,3.48
-52,Vardy Max,Male,24-11-2022,Pitztal,AUT,Australia,European Cup,Snowboard Cross,83,1.34
-53,Vardy Max,Male,23-11-2022,Pitztal,AUT,Australia,Qualification,Snowboard Cross,83,
-54,Vardy Max,Male,12-09-2022,Perisher,AUS,Australia,Junior,Snowboard Cross,5,22.50
-55,Vardy Max,Male,03-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,7,93.60
-56,Vardy Max,Male,02-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,13,52.00
-57,Vardy Max,Male,01-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,7,93.60
-58,Vardy Max,Male,31-08-2022,Mt Hotham,AUS,Australia,Junior,Snowboard Cross,17,7.00
-59,Vardy Max,Male,14-08-2022,Mt Buller,AUS,Australia,Junior,Snowboard Cross,1,50.00
-60,Vardy Max,Male,31-07-2022,Thredbo,AUS,Australia,Junior,Snowboard Cross,1,50.00
-61,Vardy Max,Male,27-03-2022,Lenk,SUI,Australia,National Championships,Snowboard Cross,11,62.40
-62,Vardy Max,Male,26-03-2022,Lenk,SUI,Australia,European Cup,Snowboard Cross,37,6.98
-63,Vardy Max,Male,25-03-2022,Lenk,SUI,Australia,European Cup,Snowboard Cross,34,7.92
-64,Vardy Max,Male,04-03-2022,Pitztal,AUT,Australia,Junior,Snowboard Cross,15,19.20
-65,Vardy Max,Male,03-03-2022,Pitztal,AUT,Australia,European Cup,Snowboard Cross,49,5.69
-66,Vardy Max,Male,02-03-2022,Pitztal,AUT,Australia,European Cup,Snowboard Cross,43,6.34
-67,Vardy Max,Male,27-02-2022,Grasgehren,GER,Australia,European Cup,Snowboard Cross,13,72.00
-68,Vardy Max,Male,26-02-2022,Grasgehren,GER,Australia,European Cup,Snowboard Cross,52,
-69,Vardy Max,Male,20-02-2022,Passo San Pellegrino,ITA,Australia,Junior,Snowboard Cross,25,4.20
-70,Vardy Max,Male,19-02-2022,Passo San Pellegrino,ITA,Australia,Junior,Snowboard Cross,8,22.40
-71,Vardy Max,Male,13-02-2022,Grasgehren,GER,Australia,Junior,Snowboard Cross,9,34.80
-72,Vardy Max,Male,12-02-2022,Grasgehren,GER,Australia,Junior,Snowboard Cross,17,16.80
-73,Vardy Max,Male,06-02-2022,Dolni Morava,CZE,Australia,Junior,Snowboard Cross,2,40.00
-74,Vardy Max,Male,05-02-2022,Dolni Morava,CZE,Australia,Junior,Snowboard Cross,5,22.50
-75,Vardy Max,Male,03-02-2022,Dolni Morava,CZE,Australia,European Cup,Snowboard Cross,57,3.48
-76,Vardy Max,Male,02-02-2022,Dolni Morava,CZE,Australia,European Cup,Snowboard Cross,33,5.76
-77,Vardy Max,Male,23-01-2022,Vitkovice,CZE,Australia,FIS,Snowboard Cross,4,25.00
-78,Vardy Max,Male,22-01-2022,Vitkovice,CZE,Australia,Junior,Snowboard Cross,13,10.00
-79,Vardy Max,Male,16-01-2022,Baqueira Beret,ESP,Australia,FIS,Snowboard Cross,6,36.00
-80,Vardy Max,Male,04-09-2019,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,40,6.66
-81,Vardy Max,Male,03-09-2019,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,30,11.52
-82,Vardy Max,Male,06-08-2019,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,14,64.80
-83,Vardy Max,Male,28-03-2019,Big White Ski Resort,CAN,Australia,National Junior Championships,Snowboard Cross,28,3.60
-84,Vardy Max,Male,27-03-2019,Big White Ski Resort,CAN,Australia,Nor-Am Cup,Snowboard Cross,35,4.40
-85,Vardy Max,Male,15-03-2019,"Holiday Valley Resort, NY",USA,Australia,Nor-Am Cup,Snowboard Cross,36,3.15
-86,Vardy Max,Male,14-03-2019,"Holiday Valley Resort, NY",USA,Australia,Nor-Am Cup,Snowboard Cross,33,3.84
-87,Vardy Max,Male,09-01-2019,"Panorama, BC",CAN,Australia,Nor-Am Cup,Snowboard Cross,44,6.23
-88,Vardy Max,Male,08-01-2019,"Panorama, BC",CAN,Australia,Nor-Am Cup,Snowboard Cross,48,5.80
-89,Vardy Max,Male,05-09-2018,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,32,9.36
-90,Vardy Max,Male,04-09-2018,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,33,8.64
-91,Vardy Max,Male,01-08-2018,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,34,7.92
-92,Vardy Max,Male,24-07-2018,Thredbo,AUS,Australia,Junior,Snowboard Cross,14,16.20
+14,Vardy Max,Male,27-11-2024,Pitztal,AUT,Australia,Qualification,Snowboard Cross,56,
+15,Vardy Max,Male,14-03-2024,Isola 2000,FRA,Australia,European Cup,Snowboard Cross,38,3.82
+16,Vardy Max,Male,13-03-2024,Isola 2000,FRA,Australia,European Cup,Snowboard Cross,28,8.00
+17,Vardy Max,Male,02-03-2024,St. Moritz,SUI,Australia,FIS,Snowboard Cross,8,44.80
+18,Vardy Max,Male,25-02-2024,Grasgehren,GER,Australia,European Cup,Snowboard Cross,38,5.54
+19,Vardy Max,Male,24-02-2024,Grasgehren,GER,Australia,European Cup,Snowboard Cross,35,6.40
+20,Vardy Max,Male,17-02-2024,Colere,ITA,Australia,European Cup,Snowboard Cross,37,4.66
+21,Vardy Max,Male,16-02-2024,Colere,ITA,Australia,European Cup,Snowboard Cross,47,3.94
+22,Vardy Max,Male,06-02-2024,Reiteralm,AUT,Australia,European Cup,Snowboard Cross,34,4.40
+23,Vardy Max,Male,05-02-2024,Reiteralm,AUT,Australia,European Cup,Snowboard Cross,22,18.00
+24,Vardy Max,Male,02-02-2024,Dolni Morava,CZE,Australia,FIS,Snowboard Cross,2,56.00
+25,Vardy Max,Male,01-02-2024,Dolni Morava,CZE,Australia,European Cup,Snowboard Cross,36,4.33
+26,Vardy Max,Male,31-01-2024,Dolni Morava,CZE,Australia,European Cup,Snowboard Cross,54,3.15
+27,Vardy Max,Male,28-01-2024,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,26,10.00
+28,Vardy Max,Male,27-01-2024,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,28,8.00
+29,Vardy Max,Male,20-01-2024,Montafon,AUT,Australia,National Championships,Snowboard Cross,53,4.23
+30,Vardy Max,Male,09-12-2023,Pitztal,AUT,Australia,FIS,Snowboard Cross,17,19.60
+31,Vardy Max,Male,19-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,7,72.00
+32,Vardy Max,Male,18-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,9,46.40
+33,Vardy Max,Male,17-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,15,32.00
+34,Vardy Max,Male,31-03-2023,Passo San Pellegrino,ITA,Australia,FIS Junior World Championships,Snowboard Cross Team,9,
+35,Vardy Max,Male,30-03-2023,Passo San Pellegrino,ITA,Australia,FIS Junior World Championships,Snowboard Cross,33,7.68
+36,Vardy Max,Male,18-03-2023,Passo San Pellegrino,ITA,Australia,FIS,Snowboard Cross,26,9.00
+37,Vardy Max,Male,16-03-2023,Pitztal,AUT,Australia,FIS,Snowboard Cross,11,31.20
+38,Vardy Max,Male,15-03-2023,Pitztal,AUT,Australia,FIS,Snowboard Cross,9,37.70
+39,Vardy Max,Male,12-03-2023,Lenk,SUI,Australia,National Junior Championships,Snowboard Cross,1,90.00
+40,Vardy Max,Male,19-02-2023,Flumserberg,SUI,Australia,Junior,Snowboard Cross,17,15.40
+41,Vardy Max,Male,16-02-2023,Moena - Passo San Pellegrino,ITA,Australia,European Cup,Snowboard Cross,33,6.96
+42,Vardy Max,Male,15-02-2023,Moena - Passo San Pellegrino,ITA,Australia,European Cup,Snowboard Cross,47,4.76
+43,Vardy Max,Male,22-01-2023,Puy St.Vincent,FRA,Australia,European Cup,Snowboard Cross,17,33.60
+44,Vardy Max,Male,21-01-2023,Puy St.Vincent,FRA,Australia,European Cup,Snowboard Cross,34,5.28
+45,Vardy Max,Male,15-01-2023,Reiteralm,AUT,Australia,European Cup,Snowboard Cross,42,6.44
+46,Vardy Max,Male,14-01-2023,Reiteralm,AUT,Australia,European Cup,Snowboard Cross,42,6.44
+47,Vardy Max,Male,08-01-2023,Isola 2000,FRA,Australia,Junior,Snowboard Cross,9,34.80
+48,Vardy Max,Male,07-01-2023,Isola 2000,FRA,Australia,European Cup,Snowboard Cross,25,14.40
+49,Vardy Max,Male,06-01-2023,Isola 2000,FRA,Australia,European Cup,Snowboard Cross,28,9.60
+50,Vardy Max,Male,27-11-2022,Pitztal,AUT,Australia,Junior,Snowboard Cross,33,3.84
+51,Vardy Max,Male,26-11-2022,Pitztal,AUT,Australia,Junior,Snowboard Cross,37,3.49
+52,Vardy Max,Male,25-11-2022,Pitztal,AUT,Australia,FIS,Snowboard Cross,49,3.48
+53,Vardy Max,Male,24-11-2022,Pitztal,AUT,Australia,European Cup,Snowboard Cross,83,1.34
+54,Vardy Max,Male,23-11-2022,Pitztal,AUT,Australia,Qualification,Snowboard Cross,83,
+55,Vardy Max,Male,12-09-2022,Perisher,AUS,Australia,Junior,Snowboard Cross,5,22.50
+56,Vardy Max,Male,03-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,7,93.60
+57,Vardy Max,Male,02-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,13,52.00
+58,Vardy Max,Male,01-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,7,93.60
+59,Vardy Max,Male,31-08-2022,Mt Hotham,AUS,Australia,Junior,Snowboard Cross,17,7.00
+60,Vardy Max,Male,14-08-2022,Mt Buller,AUS,Australia,Junior,Snowboard Cross,1,50.00
+61,Vardy Max,Male,31-07-2022,Thredbo,AUS,Australia,Junior,Snowboard Cross,1,50.00
+62,Vardy Max,Male,27-03-2022,Lenk,SUI,Australia,National Championships,Snowboard Cross,11,62.40
+63,Vardy Max,Male,26-03-2022,Lenk,SUI,Australia,European Cup,Snowboard Cross,37,6.98
+64,Vardy Max,Male,25-03-2022,Lenk,SUI,Australia,European Cup,Snowboard Cross,34,7.92
+65,Vardy Max,Male,04-03-2022,Pitztal,AUT,Australia,Junior,Snowboard Cross,15,19.20
+66,Vardy Max,Male,03-03-2022,Pitztal,AUT,Australia,European Cup,Snowboard Cross,49,5.69
+67,Vardy Max,Male,02-03-2022,Pitztal,AUT,Australia,European Cup,Snowboard Cross,43,6.34
+68,Vardy Max,Male,27-02-2022,Grasgehren,GER,Australia,European Cup,Snowboard Cross,13,72.00
+69,Vardy Max,Male,26-02-2022,Grasgehren,GER,Australia,European Cup,Snowboard Cross,52,
+70,Vardy Max,Male,20-02-2022,Passo San Pellegrino,ITA,Australia,Junior,Snowboard Cross,25,4.20
+71,Vardy Max,Male,19-02-2022,Passo San Pellegrino,ITA,Australia,Junior,Snowboard Cross,8,22.40
+72,Vardy Max,Male,13-02-2022,Grasgehren,GER,Australia,Junior,Snowboard Cross,9,34.80
+73,Vardy Max,Male,12-02-2022,Grasgehren,GER,Australia,Junior,Snowboard Cross,17,16.80
+74,Vardy Max,Male,06-02-2022,Dolni Morava,CZE,Australia,Junior,Snowboard Cross,2,40.00
+75,Vardy Max,Male,05-02-2022,Dolni Morava,CZE,Australia,Junior,Snowboard Cross,5,22.50
+76,Vardy Max,Male,03-02-2022,Dolni Morava,CZE,Australia,European Cup,Snowboard Cross,57,3.48
+77,Vardy Max,Male,02-02-2022,Dolni Morava,CZE,Australia,European Cup,Snowboard Cross,33,5.76
+78,Vardy Max,Male,23-01-2022,Vitkovice,CZE,Australia,FIS,Snowboard Cross,4,25.00
+79,Vardy Max,Male,22-01-2022,Vitkovice,CZE,Australia,Junior,Snowboard Cross,13,10.00
+80,Vardy Max,Male,16-01-2022,Baqueira Beret,ESP,Australia,FIS,Snowboard Cross,6,36.00
+81,Vardy Max,Male,04-09-2019,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,40,6.66
+82,Vardy Max,Male,03-09-2019,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,30,11.52
+83,Vardy Max,Male,06-08-2019,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,14,64.80
+84,Vardy Max,Male,28-03-2019,Big White Ski Resort,CAN,Australia,National Junior Championships,Snowboard Cross,28,3.60
+85,Vardy Max,Male,27-03-2019,Big White Ski Resort,CAN,Australia,Nor-Am Cup,Snowboard Cross,35,4.40
+86,Vardy Max,Male,15-03-2019,"Holiday Valley Resort, NY",USA,Australia,Nor-Am Cup,Snowboard Cross,36,3.15
+87,Vardy Max,Male,14-03-2019,"Holiday Valley Resort, NY",USA,Australia,Nor-Am Cup,Snowboard Cross,33,3.84
+88,Vardy Max,Male,09-01-2019,"Panorama, BC",CAN,Australia,Nor-Am Cup,Snowboard Cross,44,6.23
+89,Vardy Max,Male,08-01-2019,"Panorama, BC",CAN,Australia,Nor-Am Cup,Snowboard Cross,48,5.80
+90,Vardy Max,Male,05-09-2018,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,32,9.36
+91,Vardy Max,Male,04-09-2018,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,33,8.64
+92,Vardy Max,Male,01-08-2018,Mount Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,34,7.92
+93,Vardy Max,Male,24-07-2018,Thredbo,AUS,Australia,Junior,Snowboard Cross,14,16.20

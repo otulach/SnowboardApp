@@ -1,35 +1,36 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Biermans Emmy,Female,29-03-2025,Orcières,FRA,France,European Cup,Snowboard Cross,25,
-1,Biermans Emmy,Female,14-03-2025,Lenk,SUI,France,European Cup,Snowboard Cross,13,52.00
-2,Biermans Emmy,Female,13-03-2025,Lenk,SUI,France,European Cup,Snowboard Cross,16,39.00
-3,Biermans Emmy,Female,28-02-2025,Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,14,46.80
-4,Biermans Emmy,Female,27-02-2025,Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,14,46.80
-5,Biermans Emmy,Female,23-02-2025,Colere,ITA,France,FIS,Snowboard Cross,7,79.20
-6,Biermans Emmy,Female,22-02-2025,Colere,ITA,France,FIS,Snowboard Cross,1,220.00
-7,Biermans Emmy,Female,09-02-2025,Reiteralm,AUT,France,European Cup,Snowboard Cross,24,18.20
-8,Biermans Emmy,Female,08-02-2025,Reiteralm,AUT,France,European Cup,Snowboard Cross,10,67.60
-9,Biermans Emmy,Female,02-02-2025,St. Lary,FRA,France,National Championships,Snowboard Cross,6,72.00
-10,Biermans Emmy,Female,31-01-2025,St. Lary,FRA,France,European Cup,Snowboard Cross,10,67.60
-11,Biermans Emmy,Female,24-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,15,41.60
-12,Biermans Emmy,Female,23-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,11,86.40
-13,Biermans Emmy,Female,12-01-2025,Lenk,SUI,France,Junior Regional Cup,Snowboard Cross,5,81.00
-14,Biermans Emmy,Female,30-03-2024,Orcieres Merlette,FRA,France,National Championships,Snowboard Cross,6,116.00
-15,Biermans Emmy,Female,22-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,32,
-16,Biermans Emmy,Female,21-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,9,92.80
-17,Biermans Emmy,Female,14-03-2024,Isola 2000,FRA,France,European Cup,Snowboard Cross,3,174.00
-18,Biermans Emmy,Female,13-03-2024,Isola 2000,FRA,France,European Cup,Snowboard Cross,11,69.60
-19,Biermans Emmy,Female,11-03-2024,Isola 2000,FRA,France,Junior,Snowboard Cross,6,88.00
-20,Biermans Emmy,Female,02-03-2024,St. Moritz,SUI,France,National Junior Championships,Snowboard Cross,11,48.00
-21,Biermans Emmy,Female,25-02-2024,Grasgehren,GER,France,European Cup,Snowboard Cross,14,46.80
-22,Biermans Emmy,Female,24-02-2024,Grasgehren,GER,France,European Cup,Snowboard Cross,12,70.40
-23,Biermans Emmy,Female,17-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,7,129.60
-24,Biermans Emmy,Female,16-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,14,64.80
-25,Biermans Emmy,Female,03-02-2024,Dolni Morava,CZE,France,FIS,Snowboard Cross,4,75.00
-26,Biermans Emmy,Female,02-02-2024,Dolni Morava,CZE,France,FIS,Snowboard Cross,13,40.00
-27,Biermans Emmy,Female,01-02-2024,Dolni Morava,CZE,France,European Cup,Snowboard Cross,20,31.90
-28,Biermans Emmy,Female,31-01-2024,Dolni Morava,CZE,France,European Cup,Snowboard Cross,23,23.20
-29,Biermans Emmy,Female,28-01-2024,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,22,23.40
-30,Biermans Emmy,Female,27-01-2024,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,6,128.00
-31,Biermans Emmy,Female,20-01-2024,Montafon,AUT,France,National Championships,Snowboard Cross,22,26.10
-32,Biermans Emmy,Female,17-12-2023,Reiteralm,AUT,France,Junior,Snowboard Cross,6,40.00
-33,Biermans Emmy,Female,09-12-2023,Pitztal,AUT,France,Junior,Snowboard Cross,17,21.00
+0,Biermans Emmy,Female,30-03-2025,Orcières,FRA,France,European Cup,Snowboard Cross,8,
+1,Biermans Emmy,Female,29-03-2025,Orcières,FRA,France,European Cup,Snowboard Cross,25,
+2,Biermans Emmy,Female,14-03-2025,Lenk,SUI,France,European Cup,Snowboard Cross,13,52.00
+3,Biermans Emmy,Female,13-03-2025,Lenk,SUI,France,European Cup,Snowboard Cross,16,39.00
+4,Biermans Emmy,Female,28-02-2025,Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,14,46.80
+5,Biermans Emmy,Female,27-02-2025,Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,14,46.80
+6,Biermans Emmy,Female,23-02-2025,Colere,ITA,France,FIS,Snowboard Cross,7,79.20
+7,Biermans Emmy,Female,22-02-2025,Colere,ITA,France,FIS,Snowboard Cross,1,220.00
+8,Biermans Emmy,Female,09-02-2025,Reiteralm,AUT,France,European Cup,Snowboard Cross,24,18.20
+9,Biermans Emmy,Female,08-02-2025,Reiteralm,AUT,France,European Cup,Snowboard Cross,10,67.60
+10,Biermans Emmy,Female,02-02-2025,St. Lary,FRA,France,National Championships,Snowboard Cross,6,72.00
+11,Biermans Emmy,Female,31-01-2025,St. Lary,FRA,France,European Cup,Snowboard Cross,10,67.60
+12,Biermans Emmy,Female,24-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,15,41.60
+13,Biermans Emmy,Female,23-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,11,86.40
+14,Biermans Emmy,Female,12-01-2025,Lenk,SUI,France,Junior Regional Cup,Snowboard Cross,5,81.00
+15,Biermans Emmy,Female,30-03-2024,Orcieres Merlette,FRA,France,National Championships,Snowboard Cross,6,116.00
+16,Biermans Emmy,Female,22-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,32,
+17,Biermans Emmy,Female,21-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,9,92.80
+18,Biermans Emmy,Female,14-03-2024,Isola 2000,FRA,France,European Cup,Snowboard Cross,3,174.00
+19,Biermans Emmy,Female,13-03-2024,Isola 2000,FRA,France,European Cup,Snowboard Cross,11,69.60
+20,Biermans Emmy,Female,11-03-2024,Isola 2000,FRA,France,Junior,Snowboard Cross,6,88.00
+21,Biermans Emmy,Female,02-03-2024,St. Moritz,SUI,France,National Junior Championships,Snowboard Cross,11,48.00
+22,Biermans Emmy,Female,25-02-2024,Grasgehren,GER,France,European Cup,Snowboard Cross,14,46.80
+23,Biermans Emmy,Female,24-02-2024,Grasgehren,GER,France,European Cup,Snowboard Cross,12,70.40
+24,Biermans Emmy,Female,17-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,7,129.60
+25,Biermans Emmy,Female,16-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,14,64.80
+26,Biermans Emmy,Female,03-02-2024,Dolni Morava,CZE,France,FIS,Snowboard Cross,4,75.00
+27,Biermans Emmy,Female,02-02-2024,Dolni Morava,CZE,France,FIS,Snowboard Cross,13,40.00
+28,Biermans Emmy,Female,01-02-2024,Dolni Morava,CZE,France,European Cup,Snowboard Cross,20,31.90
+29,Biermans Emmy,Female,31-01-2024,Dolni Morava,CZE,France,European Cup,Snowboard Cross,23,23.20
+30,Biermans Emmy,Female,28-01-2024,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,22,23.40
+31,Biermans Emmy,Female,27-01-2024,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,6,128.00
+32,Biermans Emmy,Female,20-01-2024,Montafon,AUT,France,National Championships,Snowboard Cross,22,26.10
+33,Biermans Emmy,Female,17-12-2023,Reiteralm,AUT,France,Junior,Snowboard Cross,6,40.00
+34,Biermans Emmy,Female,09-12-2023,Pitztal,AUT,France,Junior,Snowboard Cross,17,21.00

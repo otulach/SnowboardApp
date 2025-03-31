@@ -1,76 +1,77 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Leone Edoardo,Male,29-03-2025,Haus im Ennstal,AUT,Italy,Junior Regional Cup,Parallel Slalom,10,
-1,Leone Edoardo,Male,16-03-2025,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,19,13.20
-2,Leone Edoardo,Male,15-03-2025,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,6,44.00
-3,Leone Edoardo,Male,05-03-2025,Zakopane/Suche,POL,Italy,FIS Junior World Championships,Parallel Slalom,38,4.97
-4,Leone Edoardo,Male,05-03-2025,Zakopane/Suche,POL,Italy,Qualification,Parallel Slalom,38,
-5,Leone Edoardo,Male,04-03-2025,Zakopane/Suche,POL,Italy,Qualification,Parallel Giant Slalom,22,
-6,Leone Edoardo,Male,04-03-2025,Zakopane/Suche,POL,Italy,FIS Junior World Championships,Parallel Giant Slalom,22,23.40
-7,Leone Edoardo,Male,23-02-2025,Funes - Vilnoessse,ITA,Italy,FIS,Parallel Giant Slalom,16,33.00
-8,Leone Edoardo,Male,22-02-2025,Funes - Vilnoessse,ITA,Italy,FIS,Parallel Giant Slalom,17,30.80
-9,Leone Edoardo,Male,16-02-2025,Funes/Villnoess,ITA,Italy,Junior Regional Cup,Parallel Giant Slalom,9,40.60
-10,Leone Edoardo,Male,15-02-2025,Funes/Villnoess,ITA,Italy,Junior Regional Cup,Parallel Giant Slalom,9,52.20
-11,Leone Edoardo,Male,09-02-2025,Santa Cristina Val Gardena,ITA,Italy,FIS,Giant Slalom,5,99.00
-12,Leone Edoardo,Male,08-02-2025,Santa Cristina Val Gardena,ITA,Italy,FIS,Giant Slalom,7,79.20
-13,Leone Edoardo,Male,02-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,26,
+0,Leone Edoardo,Male,30-03-2025,Haus im Ennstal,AUT,Italy,Junior Regional Cup,Parallel Slalom,10,36.40
+1,Leone Edoardo,Male,29-03-2025,Haus im Ennstal,AUT,Italy,Junior Regional Cup,Parallel Slalom,10,36.40
+2,Leone Edoardo,Male,16-03-2025,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,19,13.20
+3,Leone Edoardo,Male,15-03-2025,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,6,44.00
+4,Leone Edoardo,Male,05-03-2025,Zakopane/Suche,POL,Italy,FIS Junior World Championships,Parallel Slalom,38,4.97
+5,Leone Edoardo,Male,05-03-2025,Zakopane/Suche,POL,Italy,Qualification,Parallel Slalom,38,
+6,Leone Edoardo,Male,04-03-2025,Zakopane/Suche,POL,Italy,Qualification,Parallel Giant Slalom,22,
+7,Leone Edoardo,Male,04-03-2025,Zakopane/Suche,POL,Italy,FIS Junior World Championships,Parallel Giant Slalom,22,23.40
+8,Leone Edoardo,Male,23-02-2025,Funes - Vilnoessse,ITA,Italy,FIS,Parallel Giant Slalom,16,33.00
+9,Leone Edoardo,Male,22-02-2025,Funes - Vilnoessse,ITA,Italy,FIS,Parallel Giant Slalom,17,30.80
+10,Leone Edoardo,Male,16-02-2025,Funes/Villnoess,ITA,Italy,Junior Regional Cup,Parallel Giant Slalom,9,40.60
+11,Leone Edoardo,Male,15-02-2025,Funes/Villnoess,ITA,Italy,Junior Regional Cup,Parallel Giant Slalom,9,52.20
+12,Leone Edoardo,Male,09-02-2025,Santa Cristina Val Gardena,ITA,Italy,FIS,Giant Slalom,5,99.00
+13,Leone Edoardo,Male,08-02-2025,Santa Cristina Val Gardena,ITA,Italy,FIS,Giant Slalom,7,79.20
 14,Leone Edoardo,Male,02-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,26,13.00
-15,Leone Edoardo,Male,01-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,32,7.54
+15,Leone Edoardo,Male,02-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,26,
 16,Leone Edoardo,Male,01-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,32,
-17,Leone Edoardo,Male,26-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,55,4.48
-18,Leone Edoardo,Male,25-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,25,10.80
-19,Leone Edoardo,Male,19-01-2025,Samnaun,SUI,Italy,Junior Regional Cup,Parallel Slalom,4,35.00
-20,Leone Edoardo,Male,18-01-2025,Samnaun,SUI,Italy,Junior Regional Cup,Parallel Slalom,3,42.00
-21,Leone Edoardo,Male,12-01-2025,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,13,30.00
-22,Leone Edoardo,Male,11-01-2025,Folgaria,ITA,Italy,Qualification,Parallel Giant Slalom,21,
-23,Leone Edoardo,Male,11-01-2025,Folgaria,ITA,Italy,European Cup,Parallel Giant Slalom,21,18.00
-24,Leone Edoardo,Male,10-01-2025,Folgaria,ITA,Italy,Qualification,Parallel Giant Slalom,16,
-25,Leone Edoardo,Male,10-01-2025,Folgaria,ITA,Italy,European Cup,Parallel Giant Slalom,16,27.00
-26,Leone Edoardo,Male,06-01-2025,Simonhoehe,AUT,Italy,Junior Regional Cup,Parallel Giant Slalom,10,46.80
-27,Leone Edoardo,Male,05-01-2025,Simonhoehe,AUT,Italy,Junior Regional Cup,Parallel Giant Slalom,9,52.20
-28,Leone Edoardo,Male,15-12-2024,Götschen,GER,Italy,European Cup,Parallel Slalom,47,3.94
-29,Leone Edoardo,Male,14-12-2024,Götschen,GER,Italy,European Cup,Parallel Slalom,19,19.20
-30,Leone Edoardo,Male,13-03-2024,Davos/Rinerhorn ,SUI,Italy,European Cup,Parallel Giant Slalom,25,21.60
-31,Leone Edoardo,Male,12-03-2024,Davos/Rinerhorn ,SUI,Italy,European Cup,Parallel Giant Slalom,28,14.40
-32,Leone Edoardo,Male,10-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,8,38.40
-33,Leone Edoardo,Male,09-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,11,28.80
-34,Leone Edoardo,Male,24-02-2024,Alleghe,ITA,Italy,Junior,Parallel Giant Slalom,20,16.50
-35,Leone Edoardo,Male,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,25,17.40
-36,Leone Edoardo,Male,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,34,6.38
-37,Leone Edoardo,Male,04-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,14,25.20
-38,Leone Edoardo,Male,03-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,19,16.80
-39,Leone Edoardo,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,23,12.80
-40,Leone Edoardo,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,17,18.20
-41,Leone Edoardo,Male,14-01-2024,Gosau,AUT,Italy,FIS,Parallel Slalom,DNS,
-42,Leone Edoardo,Male,13-01-2024,Gosau,AUT,Italy,FIS,Parallel Slalom,14,18.00
-43,Leone Edoardo,Male,12-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,21,24.00
-44,Leone Edoardo,Male,12-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,21,
-45,Leone Edoardo,Male,11-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,26,
+17,Leone Edoardo,Male,01-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,32,7.54
+18,Leone Edoardo,Male,26-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,55,4.48
+19,Leone Edoardo,Male,25-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,25,10.80
+20,Leone Edoardo,Male,19-01-2025,Samnaun,SUI,Italy,Junior Regional Cup,Parallel Slalom,4,35.00
+21,Leone Edoardo,Male,18-01-2025,Samnaun,SUI,Italy,Junior Regional Cup,Parallel Slalom,3,42.00
+22,Leone Edoardo,Male,12-01-2025,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,13,30.00
+23,Leone Edoardo,Male,11-01-2025,Folgaria,ITA,Italy,Qualification,Parallel Giant Slalom,21,
+24,Leone Edoardo,Male,11-01-2025,Folgaria,ITA,Italy,European Cup,Parallel Giant Slalom,21,18.00
+25,Leone Edoardo,Male,10-01-2025,Folgaria,ITA,Italy,Qualification,Parallel Giant Slalom,16,
+26,Leone Edoardo,Male,10-01-2025,Folgaria,ITA,Italy,European Cup,Parallel Giant Slalom,16,27.00
+27,Leone Edoardo,Male,06-01-2025,Simonhoehe,AUT,Italy,Junior Regional Cup,Parallel Giant Slalom,10,46.80
+28,Leone Edoardo,Male,05-01-2025,Simonhoehe,AUT,Italy,Junior Regional Cup,Parallel Giant Slalom,9,52.20
+29,Leone Edoardo,Male,15-12-2024,Götschen,GER,Italy,European Cup,Parallel Slalom,47,3.94
+30,Leone Edoardo,Male,14-12-2024,Götschen,GER,Italy,European Cup,Parallel Slalom,19,19.20
+31,Leone Edoardo,Male,13-03-2024,Davos/Rinerhorn ,SUI,Italy,European Cup,Parallel Giant Slalom,25,21.60
+32,Leone Edoardo,Male,12-03-2024,Davos/Rinerhorn ,SUI,Italy,European Cup,Parallel Giant Slalom,28,14.40
+33,Leone Edoardo,Male,10-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,8,38.40
+34,Leone Edoardo,Male,09-03-2024,Senales - Schnals,ITA,Italy,FIS,Parallel Slalom,11,28.80
+35,Leone Edoardo,Male,24-02-2024,Alleghe,ITA,Italy,Junior,Parallel Giant Slalom,20,16.50
+36,Leone Edoardo,Male,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,25,17.40
+37,Leone Edoardo,Male,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,34,6.38
+38,Leone Edoardo,Male,04-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,14,25.20
+39,Leone Edoardo,Male,03-02-2024,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,19,16.80
+40,Leone Edoardo,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,23,12.80
+41,Leone Edoardo,Male,27-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,17,18.20
+42,Leone Edoardo,Male,14-01-2024,Gosau,AUT,Italy,FIS,Parallel Slalom,DNS,
+43,Leone Edoardo,Male,13-01-2024,Gosau,AUT,Italy,FIS,Parallel Slalom,14,18.00
+44,Leone Edoardo,Male,12-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,21,24.00
+45,Leone Edoardo,Male,12-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,21,
 46,Leone Edoardo,Male,11-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,26,12.00
-47,Leone Edoardo,Male,05-01-2024,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,16,16.50
-48,Leone Edoardo,Male,22-12-2023,Moninec,CZE,Italy,Junior,Parallel Slalom,10,18.20
-49,Leone Edoardo,Male,21-12-2023,Moninec,CZE,Italy,Junior,Parallel Slalom,20,11.00
-50,Leone Edoardo,Male,20-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,43,3.87
-51,Leone Edoardo,Male,19-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,54,3.15
-52,Leone Edoardo,Male,10-12-2023,Götschen,GER,Italy,Junior,Parallel Slalom,20,14.30
-53,Leone Edoardo,Male,09-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,58,4.72
-54,Leone Edoardo,Male,09-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,58,
-55,Leone Edoardo,Male,08-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,62,4.28
-56,Leone Edoardo,Male,08-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,62,
-57,Leone Edoardo,Male,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,28,11.60
-58,Leone Edoardo,Male,19-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,47,3.94
-59,Leone Edoardo,Male,18-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,42,3.22
-60,Leone Edoardo,Male,12-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,12,39.60
-61,Leone Edoardo,Male,11-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,17,30.80
-62,Leone Edoardo,Male,05-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,15,25.60
-63,Leone Edoardo,Male,04-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,17,30.80
-64,Leone Edoardo,Male,26-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,15,20.80
-65,Leone Edoardo,Male,25-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,19,15.60
-66,Leone Edoardo,Male,19-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,10,31.20
-67,Leone Edoardo,Male,18-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,10,31.20
-68,Leone Edoardo,Male,12-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,37,4.27
-69,Leone Edoardo,Male,11-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,36,4.33
-70,Leone Edoardo,Male,05-02-2023,Gosau,AUT,Italy,FIS,Slalom,17,15.40
-71,Leone Edoardo,Male,04-02-2023,Gosau,AUT,Italy,FIS,Slalom,24,7.70
-72,Leone Edoardo,Male,04-02-2023,Gosau,AUT,Italy,FIS,Slalom,25,6.60
-73,Leone Edoardo,Male,08-01-2023,Haus im Ennstal,AUT,Italy,Junior,Giant Slalom,DNS,
-74,Leone Edoardo,Male,07-01-2023,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,28,4.80
+47,Leone Edoardo,Male,11-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,26,
+48,Leone Edoardo,Male,05-01-2024,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,16,16.50
+49,Leone Edoardo,Male,22-12-2023,Moninec,CZE,Italy,Junior,Parallel Slalom,10,18.20
+50,Leone Edoardo,Male,21-12-2023,Moninec,CZE,Italy,Junior,Parallel Slalom,20,11.00
+51,Leone Edoardo,Male,20-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,43,3.87
+52,Leone Edoardo,Male,19-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,54,3.15
+53,Leone Edoardo,Male,10-12-2023,Götschen,GER,Italy,Junior,Parallel Slalom,20,14.30
+54,Leone Edoardo,Male,09-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,58,4.72
+55,Leone Edoardo,Male,09-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,58,
+56,Leone Edoardo,Male,08-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,62,4.28
+57,Leone Edoardo,Male,08-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,62,
+58,Leone Edoardo,Male,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,28,11.60
+59,Leone Edoardo,Male,19-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,47,3.94
+60,Leone Edoardo,Male,18-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,42,3.22
+61,Leone Edoardo,Male,12-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,12,39.60
+62,Leone Edoardo,Male,11-03-2023,ORTISEI,ITA,Italy,FIS,Giant Slalom,17,30.80
+63,Leone Edoardo,Male,05-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,15,25.60
+64,Leone Edoardo,Male,04-03-2023,Val Senales,ITA,Italy,FIS,Parallel Slalom,17,30.80
+65,Leone Edoardo,Male,26-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,15,20.80
+66,Leone Edoardo,Male,25-02-2023,Simonhoehe,AUT,Italy,Junior,Parallel Giant Slalom,19,15.60
+67,Leone Edoardo,Male,19-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,10,31.20
+68,Leone Edoardo,Male,18-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,10,31.20
+69,Leone Edoardo,Male,12-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,37,4.27
+70,Leone Edoardo,Male,11-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,36,4.33
+71,Leone Edoardo,Male,05-02-2023,Gosau,AUT,Italy,FIS,Slalom,17,15.40
+72,Leone Edoardo,Male,04-02-2023,Gosau,AUT,Italy,FIS,Slalom,24,7.70
+73,Leone Edoardo,Male,04-02-2023,Gosau,AUT,Italy,FIS,Slalom,25,6.60
+74,Leone Edoardo,Male,08-01-2023,Haus im Ennstal,AUT,Italy,Junior,Giant Slalom,DNS,
+75,Leone Edoardo,Male,07-01-2023,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,28,4.80
