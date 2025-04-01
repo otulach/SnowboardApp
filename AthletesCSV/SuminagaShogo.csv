@@ -1,84 +1,85 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Suminaga Shogo,Male,06-03-2025,Zakopane/Suche,POL,Japan,Qualification,Parallel Slalom Team,14,
-1,Suminaga Shogo,Male,06-03-2025,Zakopane/Suche,POL,Japan,FIS Junior World Championships,Parallel Slalom Team,14,
-2,Suminaga Shogo,Male,05-03-2025,Zakopane/Suche,POL,Japan,Qualification,Parallel Slalom,19,
-3,Suminaga Shogo,Male,05-03-2025,Zakopane/Suche,POL,Japan,FIS Junior World Championships,Parallel Slalom,19,31.20
-4,Suminaga Shogo,Male,04-03-2025,Zakopane/Suche,POL,Japan,FIS Junior World Championships,Parallel Giant Slalom,13,52.00
-5,Suminaga Shogo,Male,04-03-2025,Zakopane/Suche,POL,Japan,Qualification,Parallel Giant Slalom,13,
-6,Suminaga Shogo,Male,28-02-2025,Akan,JPN,Japan,Asian Cup,Parallel Giant Slalom,4,80.00
-7,Suminaga Shogo,Male,27-02-2025,Akan,JPN,Japan,Asian Cup,Parallel Slalom,6,64.00
-8,Suminaga Shogo,Male,26-02-2025,Akan,JPN,Japan,National Junior Championships,Parallel Giant Slalom,5,31.50
-9,Suminaga Shogo,Male,02-02-2025,Ratschings,ITA,Japan,European Cup,Parallel Slalom,12,57.20
-10,Suminaga Shogo,Male,02-02-2025,Ratschings,ITA,Japan,Qualification,Parallel Slalom,11,
-11,Suminaga Shogo,Male,01-02-2025,Ratschings,ITA,Japan,European Cup,Parallel Slalom,26,14.50
-12,Suminaga Shogo,Male,01-02-2025,Ratschings,ITA,Japan,Qualification,Parallel Slalom,26,
-13,Suminaga Shogo,Male,26-01-2025,Simonhöhe,AUT,Japan,European Cup,Parallel Giant Slalom,54,4.58
-14,Suminaga Shogo,Male,25-01-2025,Simonhöhe,AUT,Japan,European Cup,Parallel Giant Slalom,15,28.80
-15,Suminaga Shogo,Male,22-01-2025,Bardonecchia,ITA,Japan,Universiade,Parallel Slalom,14,46.80
-16,Suminaga Shogo,Male,21-01-2025,Bardonecchia,ITA,Japan,Universiade,Parallel Giant Slalom,17,36.40
-17,Suminaga Shogo,Male,09-01-2025,O2 Resort,KOR,Japan,Asian Cup,Parallel Slalom,7,57.60
-18,Suminaga Shogo,Male,08-01-2025,O2 Resort,KOR,Japan,Asian Cup,Parallel Giant Slalom,10,41.60
-19,Suminaga Shogo,Male,31-12-2024,Galaxy Ski Resort,CHN,Japan,Asian Cup,Parallel Slalom,10,52.00
-20,Suminaga Shogo,Male,30-12-2024,Galaxy Ski Resort,CHN,Japan,Asian Cup,Parallel Giant Slalom,10,52.00
-21,Suminaga Shogo,Male,22-12-2024,Moninec,CZE,Japan,FIS,Parallel Slalom,29,5.76
-22,Suminaga Shogo,Male,21-12-2024,Moninec,CZE,Japan,FIS,Parallel Slalom,24,11.20
-23,Suminaga Shogo,Male,20-12-2024,Moninec,CZE,Japan,European Cup,Parallel Slalom,39,3.38
-24,Suminaga Shogo,Male,19-12-2024,Moninec,CZE,Japan,European Cup,Parallel Slalom,31,5.60
-25,Suminaga Shogo,Male,15-12-2024,Götschen,GER,Japan,European Cup,Parallel Slalom,40,4.44
-26,Suminaga Shogo,Male,14-12-2024,Götschen,GER,Japan,European Cup,Parallel Slalom,21,16.00
-27,Suminaga Shogo,Male,24-03-2024,Lachtal,AUT,Japan,FIS Junior World Championships,Parallel Slalom Team,9,
-28,Suminaga Shogo,Male,23-03-2024,Lachtal,AUT,Japan,Qualification,Parallel Slalom,20,
-29,Suminaga Shogo,Male,23-03-2024,Lachtal,AUT,Japan,FIS Junior World Championships,Parallel Slalom,20,26.40
-30,Suminaga Shogo,Male,22-03-2024,Lachtal,AUT,Japan,Qualification,Parallel Giant Slalom,37,
-31,Suminaga Shogo,Male,22-03-2024,Lachtal,AUT,Japan,FIS Junior World Championships,Parallel Giant Slalom,37,4.58
-32,Suminaga Shogo,Male,10-02-2024,"Alpine Ski Club,",CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,DNF,
-33,Suminaga Shogo,Male,09-02-2024,"Alpine Ski Club,",CAN,Japan,Nor-Am Cup,Parallel Slalom,13,64.00
-34,Suminaga Shogo,Male,07-02-2024,Val Saint Come,CAN,Japan,FIS,Parallel Giant Slalom,DNF,
-35,Suminaga Shogo,Male,06-02-2024,Val Saint Come,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,15,51.20
-36,Suminaga Shogo,Male,05-02-2024,Val Saint Come,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,7,115.20
-37,Suminaga Shogo,Male,02-02-2024,High1resort,KOR,Japan,FIS,Parallel Slalom,17,30.80
-38,Suminaga Shogo,Male,01-02-2024,High1resort,KOR,Japan,FIS,Parallel Giant Slalom,11,52.80
-39,Suminaga Shogo,Male,22-12-2023,Moninec,CZE,Japan,FIS,Parallel Slalom,19,21.60
-40,Suminaga Shogo,Male,21-12-2023,Moninec,CZE,Japan,Junior,Parallel Slalom,3,60.00
-41,Suminaga Shogo,Male,20-12-2023,Moninec,CZE,Japan,European Cup,Parallel Slalom,53,3.21
-42,Suminaga Shogo,Male,19-12-2023,Moninec,CZE,Japan,European Cup,Parallel Slalom,DSQ,
-43,Suminaga Shogo,Male,10-12-2023,Götschen,GER,Japan,Junior,Parallel Slalom,2,104.00
-44,Suminaga Shogo,Male,09-12-2023,Götschen,GER,Japan,Qualification,Parallel Slalom,26,
+0,Suminaga Shogo,Male,31-03-2025,"Copper Mountain, CO",USA,Japan,National Championships,Parallel Giant Slalom,4,
+1,Suminaga Shogo,Male,06-03-2025,Zakopane/Suche,POL,Japan,Qualification,Parallel Slalom Team,14,
+2,Suminaga Shogo,Male,06-03-2025,Zakopane/Suche,POL,Japan,FIS Junior World Championships,Parallel Slalom Team,14,
+3,Suminaga Shogo,Male,05-03-2025,Zakopane/Suche,POL,Japan,Qualification,Parallel Slalom,19,
+4,Suminaga Shogo,Male,05-03-2025,Zakopane/Suche,POL,Japan,FIS Junior World Championships,Parallel Slalom,19,31.20
+5,Suminaga Shogo,Male,04-03-2025,Zakopane/Suche,POL,Japan,FIS Junior World Championships,Parallel Giant Slalom,13,52.00
+6,Suminaga Shogo,Male,04-03-2025,Zakopane/Suche,POL,Japan,Qualification,Parallel Giant Slalom,13,
+7,Suminaga Shogo,Male,28-02-2025,Akan,JPN,Japan,Asian Cup,Parallel Giant Slalom,4,80.00
+8,Suminaga Shogo,Male,27-02-2025,Akan,JPN,Japan,Asian Cup,Parallel Slalom,6,64.00
+9,Suminaga Shogo,Male,26-02-2025,Akan,JPN,Japan,National Junior Championships,Parallel Giant Slalom,5,31.50
+10,Suminaga Shogo,Male,02-02-2025,Ratschings,ITA,Japan,European Cup,Parallel Slalom,12,57.20
+11,Suminaga Shogo,Male,02-02-2025,Ratschings,ITA,Japan,Qualification,Parallel Slalom,11,
+12,Suminaga Shogo,Male,01-02-2025,Ratschings,ITA,Japan,European Cup,Parallel Slalom,26,14.50
+13,Suminaga Shogo,Male,01-02-2025,Ratschings,ITA,Japan,Qualification,Parallel Slalom,26,
+14,Suminaga Shogo,Male,26-01-2025,Simonhöhe,AUT,Japan,European Cup,Parallel Giant Slalom,54,4.58
+15,Suminaga Shogo,Male,25-01-2025,Simonhöhe,AUT,Japan,European Cup,Parallel Giant Slalom,15,28.80
+16,Suminaga Shogo,Male,22-01-2025,Bardonecchia,ITA,Japan,Universiade,Parallel Slalom,14,46.80
+17,Suminaga Shogo,Male,21-01-2025,Bardonecchia,ITA,Japan,Universiade,Parallel Giant Slalom,17,36.40
+18,Suminaga Shogo,Male,09-01-2025,O2 Resort,KOR,Japan,Asian Cup,Parallel Slalom,7,57.60
+19,Suminaga Shogo,Male,08-01-2025,O2 Resort,KOR,Japan,Asian Cup,Parallel Giant Slalom,10,41.60
+20,Suminaga Shogo,Male,31-12-2024,Galaxy Ski Resort,CHN,Japan,Asian Cup,Parallel Slalom,10,52.00
+21,Suminaga Shogo,Male,30-12-2024,Galaxy Ski Resort,CHN,Japan,Asian Cup,Parallel Giant Slalom,10,52.00
+22,Suminaga Shogo,Male,22-12-2024,Moninec,CZE,Japan,FIS,Parallel Slalom,29,5.76
+23,Suminaga Shogo,Male,21-12-2024,Moninec,CZE,Japan,FIS,Parallel Slalom,24,11.20
+24,Suminaga Shogo,Male,20-12-2024,Moninec,CZE,Japan,European Cup,Parallel Slalom,39,3.38
+25,Suminaga Shogo,Male,19-12-2024,Moninec,CZE,Japan,European Cup,Parallel Slalom,31,5.60
+26,Suminaga Shogo,Male,15-12-2024,Götschen,GER,Japan,European Cup,Parallel Slalom,40,4.44
+27,Suminaga Shogo,Male,14-12-2024,Götschen,GER,Japan,European Cup,Parallel Slalom,21,16.00
+28,Suminaga Shogo,Male,24-03-2024,Lachtal,AUT,Japan,FIS Junior World Championships,Parallel Slalom Team,9,
+29,Suminaga Shogo,Male,23-03-2024,Lachtal,AUT,Japan,Qualification,Parallel Slalom,20,
+30,Suminaga Shogo,Male,23-03-2024,Lachtal,AUT,Japan,FIS Junior World Championships,Parallel Slalom,20,26.40
+31,Suminaga Shogo,Male,22-03-2024,Lachtal,AUT,Japan,Qualification,Parallel Giant Slalom,37,
+32,Suminaga Shogo,Male,22-03-2024,Lachtal,AUT,Japan,FIS Junior World Championships,Parallel Giant Slalom,37,4.58
+33,Suminaga Shogo,Male,10-02-2024,"Alpine Ski Club,",CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,DNF,
+34,Suminaga Shogo,Male,09-02-2024,"Alpine Ski Club,",CAN,Japan,Nor-Am Cup,Parallel Slalom,13,64.00
+35,Suminaga Shogo,Male,07-02-2024,Val Saint Come,CAN,Japan,FIS,Parallel Giant Slalom,DNF,
+36,Suminaga Shogo,Male,06-02-2024,Val Saint Come,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,15,51.20
+37,Suminaga Shogo,Male,05-02-2024,Val Saint Come,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,7,115.20
+38,Suminaga Shogo,Male,02-02-2024,High1resort,KOR,Japan,FIS,Parallel Slalom,17,30.80
+39,Suminaga Shogo,Male,01-02-2024,High1resort,KOR,Japan,FIS,Parallel Giant Slalom,11,52.80
+40,Suminaga Shogo,Male,22-12-2023,Moninec,CZE,Japan,FIS,Parallel Slalom,19,21.60
+41,Suminaga Shogo,Male,21-12-2023,Moninec,CZE,Japan,Junior,Parallel Slalom,3,60.00
+42,Suminaga Shogo,Male,20-12-2023,Moninec,CZE,Japan,European Cup,Parallel Slalom,53,3.21
+43,Suminaga Shogo,Male,19-12-2023,Moninec,CZE,Japan,European Cup,Parallel Slalom,DSQ,
+44,Suminaga Shogo,Male,10-12-2023,Götschen,GER,Japan,Junior,Parallel Slalom,2,104.00
 45,Suminaga Shogo,Male,09-12-2023,Götschen,GER,Japan,European Cup,Parallel Slalom,26,18.00
-46,Suminaga Shogo,Male,08-12-2023,Götschen,GER,Japan,European Cup,Parallel Slalom,23,28.80
-47,Suminaga Shogo,Male,08-12-2023,Götschen,GER,Japan,Qualification,Parallel Slalom,23,
-48,Suminaga Shogo,Male,26-03-2023,Bansko,BUL,Japan,FIS Junior World Championships,Parallel Team,5,
-49,Suminaga Shogo,Male,25-03-2023,Bansko,BUL,Japan,Qualification,Parallel Slalom,16,
+46,Suminaga Shogo,Male,09-12-2023,Götschen,GER,Japan,Qualification,Parallel Slalom,26,
+47,Suminaga Shogo,Male,08-12-2023,Götschen,GER,Japan,European Cup,Parallel Slalom,23,28.80
+48,Suminaga Shogo,Male,08-12-2023,Götschen,GER,Japan,Qualification,Parallel Slalom,23,
+49,Suminaga Shogo,Male,26-03-2023,Bansko,BUL,Japan,FIS Junior World Championships,Parallel Team,5,
 50,Suminaga Shogo,Male,25-03-2023,Bansko,BUL,Japan,FIS Junior World Championships,Parallel Slalom,8,76.80
-51,Suminaga Shogo,Male,24-03-2023,Bansko,BUL,Japan,Qualification,Parallel Giant Slalom,17,
+51,Suminaga Shogo,Male,25-03-2023,Bansko,BUL,Japan,Qualification,Parallel Slalom,16,
 52,Suminaga Shogo,Male,24-03-2023,Bansko,BUL,Japan,FIS Junior World Championships,Parallel Giant Slalom,17,33.60
-53,Suminaga Shogo,Male,19-03-2023,Berchtesgaden,GER,Japan,World Cup,Parallel Slalom Team,20,
-54,Suminaga Shogo,Male,18-03-2023,Berchtesgaden,GER,Japan,Qualification,Parallel Slalom,37,
-55,Suminaga Shogo,Male,18-03-2023,Berchtesgaden,GER,Japan,World Cup,Parallel Slalom,37,
-56,Suminaga Shogo,Male,15-03-2023,Rogla,SLO,Japan,World Cup,Parallel Giant Slalom,44,17.30
-57,Suminaga Shogo,Male,15-03-2023,Rogla,SLO,Japan,Qualification,Parallel Giant Slalom,44,
-58,Suminaga Shogo,Male,05-03-2023,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,16,16.50
-59,Suminaga Shogo,Male,04-03-2023,Akan,JPN,Japan,FIS,Parallel Giant Slalom,9,31.90
-60,Suminaga Shogo,Male,21-02-2023,Bakuriani,GEO,Japan,Qualification,Parallel Slalom,DNS,
-61,Suminaga Shogo,Male,21-02-2023,Bakuriani,GEO,Japan,World Championships,Parallel Slalom,DNS,
-62,Suminaga Shogo,Male,19-02-2023,Bakuriani,GEO,Japan,Qualification,Parallel Giant Slalom,44,
-63,Suminaga Shogo,Male,19-02-2023,Bakuriani,GEO,Japan,World Championships,Parallel Giant Slalom,44,
-64,Suminaga Shogo,Male,09-02-2023,Tremblant.QC,CAN,Japan,FIS,Parallel Giant Slalom,5,81.00
-65,Suminaga Shogo,Male,08-02-2023,Tremblant.QC,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,9,63.80
-66,Suminaga Shogo,Male,07-02-2023,Tremblant.QC,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,9,63.80
-67,Suminaga Shogo,Male,02-02-2023,Blue,CAN,Japan,National Junior Championships,Parallel Slalom,1,70.00
-68,Suminaga Shogo,Male,01-02-2023,Blue,CAN,Japan,National Junior Championships,Parallel Giant Slalom,2,56.00
-69,Suminaga Shogo,Male,31-01-2023,Blue,CAN,Japan,Nor-Am Cup,Parallel Slalom,8,76.80
-70,Suminaga Shogo,Male,30-01-2023,Blue,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,11,57.60
-71,Suminaga Shogo,Male,14-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,Japan,FIS,Parallel Giant Slalom,8,38.40
-72,Suminaga Shogo,Male,13-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,Japan,Nor-Am Cup,Parallel Slalom,4,80.00
-73,Suminaga Shogo,Male,12-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,Japan,Nor-Am Cup,Parallel Giant Slalom,1,160.00
-74,Suminaga Shogo,Male,18-12-2022,Hochfügen,GER,Japan,European Cup,Parallel Giant Slalom,29,9.36
-75,Suminaga Shogo,Male,18-12-2022,Hochfügen,GER,Japan,Qualification,Parallel Giant Slalom,29,
-76,Suminaga Shogo,Male,17-12-2022,Hochfügen,GER,Japan,European Cup,Parallel Giant Slalom,19,21.60
-77,Suminaga Shogo,Male,06-04-2022,Copper Mountain Resort,USA,Japan,National Championships,Parallel Slalom,16,30.00
-78,Suminaga Shogo,Male,04-04-2022,Copper Mountain Resort,USA,Japan,National Championships,Parallel Giant Slalom,9,63.80
-79,Suminaga Shogo,Male,25-02-2022,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,3,54.00
-80,Suminaga Shogo,Male,24-02-2022,Akan,JPN,Japan,FIS,Parallel Giant Slalom,5,40.50
-81,Suminaga Shogo,Male,20-03-2021,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,18,9.10
-82,Suminaga Shogo,Male,07-02-2021,Sapporo Bankei,JPN,Japan,FIS,Giant Slalom,DNF,
+53,Suminaga Shogo,Male,24-03-2023,Bansko,BUL,Japan,Qualification,Parallel Giant Slalom,17,
+54,Suminaga Shogo,Male,19-03-2023,Berchtesgaden,GER,Japan,World Cup,Parallel Slalom Team,20,
+55,Suminaga Shogo,Male,18-03-2023,Berchtesgaden,GER,Japan,Qualification,Parallel Slalom,37,
+56,Suminaga Shogo,Male,18-03-2023,Berchtesgaden,GER,Japan,World Cup,Parallel Slalom,37,
+57,Suminaga Shogo,Male,15-03-2023,Rogla,SLO,Japan,World Cup,Parallel Giant Slalom,44,17.30
+58,Suminaga Shogo,Male,15-03-2023,Rogla,SLO,Japan,Qualification,Parallel Giant Slalom,44,
+59,Suminaga Shogo,Male,05-03-2023,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,16,16.50
+60,Suminaga Shogo,Male,04-03-2023,Akan,JPN,Japan,FIS,Parallel Giant Slalom,9,31.90
+61,Suminaga Shogo,Male,21-02-2023,Bakuriani,GEO,Japan,Qualification,Parallel Slalom,DNS,
+62,Suminaga Shogo,Male,21-02-2023,Bakuriani,GEO,Japan,World Championships,Parallel Slalom,DNS,
+63,Suminaga Shogo,Male,19-02-2023,Bakuriani,GEO,Japan,Qualification,Parallel Giant Slalom,44,
+64,Suminaga Shogo,Male,19-02-2023,Bakuriani,GEO,Japan,World Championships,Parallel Giant Slalom,44,
+65,Suminaga Shogo,Male,09-02-2023,Tremblant.QC,CAN,Japan,FIS,Parallel Giant Slalom,5,81.00
+66,Suminaga Shogo,Male,08-02-2023,Tremblant.QC,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,9,63.80
+67,Suminaga Shogo,Male,07-02-2023,Tremblant.QC,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,9,63.80
+68,Suminaga Shogo,Male,02-02-2023,Blue,CAN,Japan,National Junior Championships,Parallel Slalom,1,70.00
+69,Suminaga Shogo,Male,01-02-2023,Blue,CAN,Japan,National Junior Championships,Parallel Giant Slalom,2,56.00
+70,Suminaga Shogo,Male,31-01-2023,Blue,CAN,Japan,Nor-Am Cup,Parallel Slalom,8,76.80
+71,Suminaga Shogo,Male,30-01-2023,Blue,CAN,Japan,Nor-Am Cup,Parallel Giant Slalom,11,57.60
+72,Suminaga Shogo,Male,14-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,Japan,FIS,Parallel Giant Slalom,8,38.40
+73,Suminaga Shogo,Male,13-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,Japan,Nor-Am Cup,Parallel Slalom,4,80.00
+74,Suminaga Shogo,Male,12-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,Japan,Nor-Am Cup,Parallel Giant Slalom,1,160.00
+75,Suminaga Shogo,Male,18-12-2022,Hochfügen,GER,Japan,European Cup,Parallel Giant Slalom,29,9.36
+76,Suminaga Shogo,Male,18-12-2022,Hochfügen,GER,Japan,Qualification,Parallel Giant Slalom,29,
+77,Suminaga Shogo,Male,17-12-2022,Hochfügen,GER,Japan,European Cup,Parallel Giant Slalom,19,21.60
+78,Suminaga Shogo,Male,06-04-2022,Copper Mountain Resort,USA,Japan,National Championships,Parallel Slalom,16,30.00
+79,Suminaga Shogo,Male,04-04-2022,Copper Mountain Resort,USA,Japan,National Championships,Parallel Giant Slalom,9,63.80
+80,Suminaga Shogo,Male,25-02-2022,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,3,54.00
+81,Suminaga Shogo,Male,24-02-2022,Akan,JPN,Japan,FIS,Parallel Giant Slalom,5,40.50
+82,Suminaga Shogo,Male,20-03-2021,Akan,JPN,Japan,National Championships,Parallel Giant Slalom,18,9.10
+83,Suminaga Shogo,Male,07-02-2021,Sapporo Bankei,JPN,Japan,FIS,Giant Slalom,DNF,
