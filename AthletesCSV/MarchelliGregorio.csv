@@ -1,30 +1,33 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Marchelli Gregorio,Male,21-03-2025,St. Anton,AUT,Italy,European Cup,Big Air,3,104.30
-1,Marchelli Gregorio,Male,11-03-2025,Laax,SUI,Italy,European Cup Premium,Slopestyle,21,53.30
-2,Marchelli Gregorio,Male,15-02-2025,Bakuriani,GEO,Italy,European Youth Olympic Festival,Big Air,4,40.40
-3,Marchelli Gregorio,Male,14-02-2025,Bakuriani,GEO,Italy,Qualification,Big Air,7,
-4,Marchelli Gregorio,Male,12-02-2025,Bakuriani,GEO,Italy,European Youth Olympic Festival,Slopestyle,7,29.70
-5,Marchelli Gregorio,Male,15-01-2025,Seiser Alm,ITA,Italy,European Cup,Slopestyle,45,1.70
-6,Marchelli Gregorio,Male,11-01-2025,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,66,1.70
-7,Marchelli Gregorio,Male,06-01-2025,Font Romeu,FRA,Italy,FIS,Rail Event,9,14.40
-8,Marchelli Gregorio,Male,05-01-2025,Font Romeu,FRA,Italy,European Cup Premium,Slopestyle,11,43.50
-9,Marchelli Gregorio,Male,06-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Slopestyle,DNS,
-10,Marchelli Gregorio,Male,05-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Big Air,4,149.60
-11,Marchelli Gregorio,Male,30-03-2024,Livigno/Mottolino,ITA,Italy,FIS Junior World Championships,Big Air,12,60.40
-12,Marchelli Gregorio,Male,28-03-2024,Livigno/Mottolino,ITA,Italy,Qualification,Big Air,5,
-13,Marchelli Gregorio,Male,26-03-2024,Livigno/Mottolino,ITA,Italy,Qualification,Slopestyle,19,
-14,Marchelli Gregorio,Male,26-03-2024,Livigno/Mottolino,ITA,Italy,FIS Junior World Championships,Slopestyle,55,5.60
-15,Marchelli Gregorio,Male,22-02-2024,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,27,45.20
-16,Marchelli Gregorio,Male,15-02-2024,Davos,SUI,Italy,European Cup,Big Air,8,54.10
-17,Marchelli Gregorio,Male,28-01-2024,Gangwon/Welli Hilli,KOR,Italy,Youth Olympic Winter Games,Big Air,11,24.80
-18,Marchelli Gregorio,Male,27-01-2024,Gangwon/Welli Hilli,KOR,Italy,Qualification,Big Air,11,
-19,Marchelli Gregorio,Male,25-01-2024,Gangwon/Welli Hilli,KOR,Italy,Youth Olympic Winter Games,Slopestyle,18,13.10
-20,Marchelli Gregorio,Male,05-01-2024,Font Romeu,FRA,Italy,European Cup,Big Air,41,7.30
-21,Marchelli Gregorio,Male,04-01-2024,Font Romeu,FRA,Italy,European Cup Premium,Slopestyle,11,79.10
-22,Marchelli Gregorio,Male,13-10-2023,SnowWorld Landgraaf,NED,Italy,FIS,Slopestyle,11,19.30
-23,Marchelli Gregorio,Male,12-10-2023,SnowWorld Landgraaf,NED,Italy,FIS,Slopestyle,23,7.70
-24,Marchelli Gregorio,Male,22-04-2023,Kitzsteinhorn,AUT,Italy,European Cup,Big Air,52,0.10
-25,Marchelli Gregorio,Male,21-04-2023,Kitzsteinhorn,AUT,Italy,European Cup,Slopestyle,16,48.80
-26,Marchelli Gregorio,Male,05-04-2023,Livigno,ITA,Italy,National Championships,Slopestyle,6,41.30
-27,Marchelli Gregorio,Male,25-01-2023,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,12,42.20
-28,Marchelli Gregorio,Male,29-11-2022,Glacier 3000,SUI,Italy,FIS,Slopestyle,17,19.50
+0,Marchelli Gregorio,Male,02-04-2025,Kitzsteinhorn,AUT,Italy,European Cup,Rail Event,3,
+1,Marchelli Gregorio,Male,31-03-2025,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Slopestyle,1,
+2,Marchelli Gregorio,Male,30-03-2025,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Big Air,24,
+3,Marchelli Gregorio,Male,21-03-2025,St. Anton,AUT,Italy,European Cup,Big Air,3,104.30
+4,Marchelli Gregorio,Male,11-03-2025,Laax,SUI,Italy,European Cup Premium,Slopestyle,21,53.30
+5,Marchelli Gregorio,Male,15-02-2025,Bakuriani,GEO,Italy,European Youth Olympic Festival,Big Air,4,40.40
+6,Marchelli Gregorio,Male,14-02-2025,Bakuriani,GEO,Italy,Qualification,Big Air,7,
+7,Marchelli Gregorio,Male,12-02-2025,Bakuriani,GEO,Italy,European Youth Olympic Festival,Slopestyle,7,29.70
+8,Marchelli Gregorio,Male,15-01-2025,Seiser Alm,ITA,Italy,European Cup,Slopestyle,45,1.70
+9,Marchelli Gregorio,Male,11-01-2025,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,66,1.70
+10,Marchelli Gregorio,Male,06-01-2025,Font Romeu,FRA,Italy,FIS,Rail Event,9,14.40
+11,Marchelli Gregorio,Male,05-01-2025,Font Romeu,FRA,Italy,European Cup Premium,Slopestyle,11,43.50
+12,Marchelli Gregorio,Male,06-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Slopestyle,DNS,
+13,Marchelli Gregorio,Male,05-04-2024,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Big Air,4,149.60
+14,Marchelli Gregorio,Male,30-03-2024,Livigno/Mottolino,ITA,Italy,FIS Junior World Championships,Big Air,12,60.40
+15,Marchelli Gregorio,Male,28-03-2024,Livigno/Mottolino,ITA,Italy,Qualification,Big Air,5,
+16,Marchelli Gregorio,Male,26-03-2024,Livigno/Mottolino,ITA,Italy,FIS Junior World Championships,Slopestyle,55,5.60
+17,Marchelli Gregorio,Male,26-03-2024,Livigno/Mottolino,ITA,Italy,Qualification,Slopestyle,19,
+18,Marchelli Gregorio,Male,22-02-2024,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,27,45.20
+19,Marchelli Gregorio,Male,15-02-2024,Davos,SUI,Italy,European Cup,Big Air,8,54.10
+20,Marchelli Gregorio,Male,28-01-2024,Gangwon/Welli Hilli,KOR,Italy,Youth Olympic Winter Games,Big Air,11,24.80
+21,Marchelli Gregorio,Male,27-01-2024,Gangwon/Welli Hilli,KOR,Italy,Qualification,Big Air,11,
+22,Marchelli Gregorio,Male,25-01-2024,Gangwon/Welli Hilli,KOR,Italy,Youth Olympic Winter Games,Slopestyle,18,13.10
+23,Marchelli Gregorio,Male,05-01-2024,Font Romeu,FRA,Italy,European Cup,Big Air,41,7.30
+24,Marchelli Gregorio,Male,04-01-2024,Font Romeu,FRA,Italy,European Cup Premium,Slopestyle,11,79.10
+25,Marchelli Gregorio,Male,13-10-2023,SnowWorld Landgraaf,NED,Italy,FIS,Slopestyle,11,19.30
+26,Marchelli Gregorio,Male,12-10-2023,SnowWorld Landgraaf,NED,Italy,FIS,Slopestyle,23,7.70
+27,Marchelli Gregorio,Male,22-04-2023,Kitzsteinhorn,AUT,Italy,European Cup,Big Air,52,0.10
+28,Marchelli Gregorio,Male,21-04-2023,Kitzsteinhorn,AUT,Italy,European Cup,Slopestyle,16,48.80
+29,Marchelli Gregorio,Male,05-04-2023,Livigno,ITA,Italy,National Championships,Slopestyle,6,41.30
+30,Marchelli Gregorio,Male,25-01-2023,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,12,42.20
+31,Marchelli Gregorio,Male,29-11-2022,Glacier 3000,SUI,Italy,FIS,Slopestyle,17,19.50
