@@ -1,230 +1,231 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Lantschner Fabian,Male,15-03-2025,Winterberg,GER,Italy,Qualification,Parallel Slalom,33,
-1,Lantschner Fabian,Male,15-03-2025,Winterberg,GER,Italy,World Cup,Parallel Slalom,33,24.00
-2,Lantschner Fabian,Male,02-03-2025,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,47,
-3,Lantschner Fabian,Male,02-03-2025,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,47,16.40
-4,Lantschner Fabian,Male,01-03-2025,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,41,
-5,Lantschner Fabian,Male,01-03-2025,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,41,18.20
-6,Lantschner Fabian,Male,22-02-2025,Funes - Vilnoessse,ITA,Italy,FIS,Parallel Giant Slalom,10,57.20
-7,Lantschner Fabian,Male,16-02-2025,Val St. Come,CAN,Italy,Qualification,Parallel Giant Slalom,30,
-8,Lantschner Fabian,Male,16-02-2025,Val St. Come,CAN,Italy,World Cup,Parallel Giant Slalom,30,32.00
-9,Lantschner Fabian,Male,15-02-2025,Val St. Come,CAN,Italy,Qualification,Parallel Giant Slalom,28,
-10,Lantschner Fabian,Male,15-02-2025,Val St. Come,CAN,Italy,World Cup,Parallel Giant Slalom,28,40.00
-11,Lantschner Fabian,Male,02-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,7,93.60
-12,Lantschner Fabian,Male,02-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,7,
-13,Lantschner Fabian,Male,01-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,12,63.80
-14,Lantschner Fabian,Male,01-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,11,
-15,Lantschner Fabian,Male,26-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,10,83.20
-16,Lantschner Fabian,Male,25-01-2025,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,39,
-17,Lantschner Fabian,Male,25-01-2025,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,39,18.80
-18,Lantschner Fabian,Male,22-01-2025,Bardonecchia,ITA,Italy,Universiade,Parallel Slalom,5,117.00
-19,Lantschner Fabian,Male,21-01-2025,Bardonecchia,ITA,Italy,Universiade,Parallel Giant Slalom,3,156.00
-20,Lantschner Fabian,Male,19-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,45,
-21,Lantschner Fabian,Male,19-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,45,17.00
-22,Lantschner Fabian,Male,18-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,44,
-23,Lantschner Fabian,Male,18-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,44,17.30
-24,Lantschner Fabian,Male,14-01-2025,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,43,
-25,Lantschner Fabian,Male,14-01-2025,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,43,17.60
-26,Lantschner Fabian,Male,11-01-2025,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,32,
-27,Lantschner Fabian,Male,11-01-2025,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,32,26.00
-28,Lantschner Fabian,Male,21-12-2024,Davos,SUI,Italy,Qualification,Parallel Slalom,28,
-29,Lantschner Fabian,Male,21-12-2024,Davos,SUI,Italy,World Cup,Parallel Slalom,28,40.00
-30,Lantschner Fabian,Male,14-12-2024,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,39,
-31,Lantschner Fabian,Male,14-12-2024,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,39,18.80
-32,Lantschner Fabian,Male,12-12-2024,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,27,
-33,Lantschner Fabian,Male,12-12-2024,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,27,45.00
-34,Lantschner Fabian,Male,08-12-2024,Yanqing (NASC),CHN,Italy,World Cup,Parallel Slalom,27,45.00
-35,Lantschner Fabian,Male,08-12-2024,Yanqing (NASC),CHN,Italy,Qualification,Parallel Slalom,27,
-36,Lantschner Fabian,Male,07-12-2024,Yanqing (NASC),CHN,Italy,World Cup,Parallel Giant Slalom,49,
-37,Lantschner Fabian,Male,07-12-2024,Yanqing (NASC),CHN,Italy,Qualification,Parallel Giant Slalom,49,
-38,Lantschner Fabian,Male,01-12-2024,Mylin,CHN,Italy,World Cup,Parallel Slalom,48,
-39,Lantschner Fabian,Male,01-12-2024,Mylin,CHN,Italy,Qualification,Parallel Slalom,48,
-40,Lantschner Fabian,Male,30-11-2024,Mylin,CHN,Italy,World Cup,Parallel Giant Slalom,48,16.10
-41,Lantschner Fabian,Male,30-11-2024,Mylin,CHN,Italy,Qualification,Parallel Giant Slalom,48,
-42,Lantschner Fabian,Male,30-03-2024,Colere,ITA,Italy,National Championships,Snowboard Cross,DNS,
-43,Lantschner Fabian,Male,17-03-2024,St. Moritz,SUI,Italy,European Cup,Parallel Slalom,17,50.40
-44,Lantschner Fabian,Male,16-03-2024,St. Moritz,SUI,Italy,European Cup,Parallel Giant Slalom,45,6.12
-45,Lantschner Fabian,Male,13-03-2024,Davos/Rinerhorn ,SUI,Italy,European Cup,Parallel Giant Slalom,5,162.00
-46,Lantschner Fabian,Male,12-03-2024,Davos/Rinerhorn ,SUI,Italy,European Cup,Parallel Giant Slalom,19,43.20
-47,Lantschner Fabian,Male,10-03-2024,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,7,64.80
-48,Lantschner Fabian,Male,09-03-2024,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,8,57.60
-49,Lantschner Fabian,Male,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,8,92.80
-50,Lantschner Fabian,Male,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,10,75.40
-51,Lantschner Fabian,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,21,16.00
-52,Lantschner Fabian,Male,27-01-2024,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,47,
-53,Lantschner Fabian,Male,27-01-2024,Simonhöhe,AUT,Italy,World Cup,Parallel Giant Slalom,47,
-54,Lantschner Fabian,Male,24-01-2024,Pamporovo,BUL,Italy,European Cup,Parallel Slalom,24,15.40
-55,Lantschner Fabian,Male,23-01-2024,Pamporovo,BUL,Italy,European Cup,Parallel Slalom,7,79.20
-56,Lantschner Fabian,Male,21-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,DSQ,
-57,Lantschner Fabian,Male,21-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,DSQ,
-58,Lantschner Fabian,Male,20-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,29,
-59,Lantschner Fabian,Male,20-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,29,36.00
-60,Lantschner Fabian,Male,12-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,7,
-61,Lantschner Fabian,Male,12-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,6,96.00
-62,Lantschner Fabian,Male,11-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,1,
-63,Lantschner Fabian,Male,11-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,5,108.00
-64,Lantschner Fabian,Male,22-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,12,39.60
-65,Lantschner Fabian,Male,21-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,1,160.00
-66,Lantschner Fabian,Male,20-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,7,79.20
-67,Lantschner Fabian,Male,19-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,6,88.00
-68,Lantschner Fabian,Male,16-12-2023,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,31,
-69,Lantschner Fabian,Male,16-12-2023,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,31,28.00
-70,Lantschner Fabian,Male,14-12-2023,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,36,
-71,Lantschner Fabian,Male,14-12-2023,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,36,19.70
-72,Lantschner Fabian,Male,09-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,8,
-73,Lantschner Fabian,Male,09-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,3,216.00
-74,Lantschner Fabian,Male,08-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,11,
-75,Lantschner Fabian,Male,08-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,11,86.40
-76,Lantschner Fabian,Male,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,16,43.50
-77,Lantschner Fabian,Male,19-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,3,144.00
-78,Lantschner Fabian,Male,18-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,2,144.00
-79,Lantschner Fabian,Male,12-03-2023,Davos,SUI,Italy,European Cup,Parallel Slalom,5,99.00
-80,Lantschner Fabian,Male,11-03-2023,Davos,SUI,Italy,European Cup,Parallel Slalom,7,129.60
-81,Lantschner Fabian,Male,05-03-2023,Zakopane,POL,Italy,European Cup,Parallel Giant Slalom,33,7.68
-82,Lantschner Fabian,Male,04-03-2023,Zakopane,POL,Italy,European Cup,Parallel Giant Slalom,10,93.60
-83,Lantschner Fabian,Male,19-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,1,120.00
-84,Lantschner Fabian,Male,18-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,4,60.00
-85,Lantschner Fabian,Male,12-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,29,7.92
-86,Lantschner Fabian,Male,11-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,31,6.16
-87,Lantschner Fabian,Male,05-02-2023,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,10,93.60
-88,Lantschner Fabian,Male,29-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,3,108.00
-89,Lantschner Fabian,Male,29-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,3,
-90,Lantschner Fabian,Male,28-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,10,46.80
-91,Lantschner Fabian,Male,28-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,9,
-92,Lantschner Fabian,Male,15-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,3,96.00
-93,Lantschner Fabian,Male,15-01-2023,Alleghe,ITA,Italy,Qualification,Parallel Slalom,3,
-94,Lantschner Fabian,Male,14-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,1,160.00
-95,Lantschner Fabian,Male,14-01-2023,Alleghe,ITA,Italy,Qualification,Parallel Slalom,2,
-96,Lantschner Fabian,Male,18-12-2022,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,1,260.00
-97,Lantschner Fabian,Male,18-12-2022,Hochfügen,GER,Italy,Qualification,Parallel Giant Slalom,8,
-98,Lantschner Fabian,Male,17-12-2022,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,6,72.00
-99,Lantschner Fabian,Male,12-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Slalom,6,116.00
-100,Lantschner Fabian,Male,11-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Giant Slalom,7,104.40
-101,Lantschner Fabian,Male,01-04-2022,Chiesa in Valmalenco,ITA,Italy,FIS Junior World Championships,Parallel Slalom,2,192.00
-102,Lantschner Fabian,Male,31-03-2022,Chiesa in Valmalenco,ITA,Italy,FIS Junior World Championships,Parallel Giant Slalom,26,12.00
-103,Lantschner Fabian,Male,20-03-2022,Senales - Schnals,ITA,Italy,Junior,Parallel Slalom,2,80.00
-104,Lantschner Fabian,Male,19-03-2022,Senales - Schnals,ITA,Italy,Junior,Parallel Slalom,1,100.00
-105,Lantschner Fabian,Male,17-03-2022,Rogla,SLO,Italy,European Cup,Parallel Giant Slalom,21,32.00
-106,Lantschner Fabian,Male,16-03-2022,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,44,
-107,Lantschner Fabian,Male,16-03-2022,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,44,17.30
-108,Lantschner Fabian,Male,12-03-2022,Piancavallo,ITA,Italy,Qualification,Parallel Slalom,40,
-109,Lantschner Fabian,Male,12-03-2022,Piancavallo,ITA,Italy,World Cup,Parallel Slalom,40,
-110,Lantschner Fabian,Male,06-03-2022,Lachtal,AUT,Italy,European Cup,Parallel Giant Slalom,18,46.80
-111,Lantschner Fabian,Male,05-03-2022,Lachtal,AUT,Italy,European Cup,Parallel Giant Slalom,18,46.80
-112,Lantschner Fabian,Male,27-02-2022,Simonhöhe,AUT,Italy,FIS,Parallel Giant Slalom,26,11.00
-113,Lantschner Fabian,Male,26-02-2022,Simonhöhe,AUT,Italy,FIS,Parallel Giant Slalom,3,132.00
-114,Lantschner Fabian,Male,20-02-2022,Bakuriani,GEO,Italy,European Cup,Parallel Giant Slalom,16,54.00
-115,Lantschner Fabian,Male,19-02-2022,Bakuriani,GEO,Italy,European Cup,Parallel Giant Slalom,17,50.40
-116,Lantschner Fabian,Male,06-02-2022,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,15,57.60
-117,Lantschner Fabian,Male,05-02-2022,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,12,79.20
-118,Lantschner Fabian,Male,30-01-2022,Davos,SUI,Italy,European Cup,Parallel Slalom,14,64.80
-119,Lantschner Fabian,Male,29-01-2022,Davos,SUI,Italy,European Cup,Parallel Slalom,22,32.40
-120,Lantschner Fabian,Male,23-01-2022,Bukovel,UKR,Italy,European Cup,Parallel Giant Slalom,4,130.00
-121,Lantschner Fabian,Male,22-01-2022,Bukovel,UKR,Italy,European Cup,Parallel Giant Slalom,19,31.20
-122,Lantschner Fabian,Male,20-01-2022,Bukovel,UKR,Italy,National Championships,Parallel Slalom,3,132.00
-123,Lantschner Fabian,Male,19-01-2022,Bukovel,UKR,Italy,National Championships,Parallel Giant Slalom,9,69.60
-124,Lantschner Fabian,Male,09-01-2022,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,7,36.00
-125,Lantschner Fabian,Male,08-01-2022,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,4,50.00
-126,Lantschner Fabian,Male,21-12-2021,Moninec,CZE,Italy,FIS,Parallel Slalom,2,160.00
-127,Lantschner Fabian,Male,20-12-2021,Moninec,CZE,Italy,FIS,Parallel Slalom,3,120.00
-128,Lantschner Fabian,Male,19-12-2021,Moninec,CZE,Italy,European Cup,Parallel Slalom,DSQ,
-129,Lantschner Fabian,Male,18-12-2021,Moninec,CZE,Italy,European Cup,Parallel Slalom,3,120.00
-130,Lantschner Fabian,Male,16-12-2021,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,62,
-131,Lantschner Fabian,Male,16-12-2021,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,62,11.90
-132,Lantschner Fabian,Male,12-12-2021,Götschen,GER,Italy,European Cup,Parallel Slalom,16,33.00
-133,Lantschner Fabian,Male,11-12-2021,Götschen,GER,Italy,European Cup,Parallel Slalom,31,6.16
-134,Lantschner Fabian,Male,31-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Giant Slalom,17,40.60
-135,Lantschner Fabian,Male,30-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Slalom,21,29.00
-136,Lantschner Fabian,Male,26-03-2021,Krasnoyarsk ,RUS,Italy,FIS Junior World Championships,Parallel Slalom,DNF,
-137,Lantschner Fabian,Male,25-03-2021,Krasnoyarsk ,RUS,Italy,FIS Junior World Championships,Parallel Giant Slalom,11,62.40
-138,Lantschner Fabian,Male,25-03-2021,Krasnoyarsk ,RUS,Italy,Qualification,Parallel Giant Slalom,11,
-139,Lantschner Fabian,Male,13-03-2021,Davos Rinerhorn,SUI,Italy,European Cup,Parallel Giant Slalom,52,5.36
-140,Lantschner Fabian,Male,07-03-2021,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,1,90.00
-141,Lantschner Fabian,Male,06-03-2021,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,3,54.00
-142,Lantschner Fabian,Male,28-02-2021,Funes/Villnoesses,ITA,Italy,European Cup,Parallel Giant Slalom,12,57.20
-143,Lantschner Fabian,Male,27-02-2021,Funes/Villnoesses,ITA,Italy,European Cup,Parallel Giant Slalom,27,14.40
-144,Lantschner Fabian,Male,21-02-2021,Gerlitzen,AUT,Italy,National Championships,Parallel Slalom,19,34.80
-145,Lantschner Fabian,Male,20-02-2021,Gerlitzen,AUT,Italy,National Championships,Parallel Giant Slalom,61,
-146,Lantschner Fabian,Male,07-02-2021,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,20,24.20
-147,Lantschner Fabian,Male,06-02-2021,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,16,33.00
-148,Lantschner Fabian,Male,24-01-2021,Davos,SUI,Italy,European Cup,Parallel Slalom,45,
-149,Lantschner Fabian,Male,23-01-2021,Davos,SUI,Italy,European Cup,Parallel Slalom,17,50.40
-150,Lantschner Fabian,Male,10-01-2021,Goetschen,GER,Italy,Junior,Parallel Slalom,7,36.00
-151,Lantschner Fabian,Male,09-01-2021,Goetschen,GER,Italy,Junior,Parallel Slalom,2,80.00
-152,Lantschner Fabian,Male,20-12-2020,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Giant Slalom,24,25.20
-153,Lantschner Fabian,Male,19-12-2020,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Slalom,17,50.40
-154,Lantschner Fabian,Male,17-12-2020,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,51,
-155,Lantschner Fabian,Male,17-12-2020,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,51,15.20
-156,Lantschner Fabian,Male,12-12-2020,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,44,
-157,Lantschner Fabian,Male,12-12-2020,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,44,17.30
-158,Lantschner Fabian,Male,23-02-2020,Funes/Villnoesses,ITA,Italy,FIS,Parallel Giant Slalom,12,48.40
-159,Lantschner Fabian,Male,22-02-2020,Funes/Villnoesses,ITA,Italy,FIS,Parallel Giant Slalom,12,48.40
-160,Lantschner Fabian,Male,16-02-2020,Simonhoehe,AUT,Italy,European Cup,Parallel Giant Slalom,25,21.60
-161,Lantschner Fabian,Male,15-02-2020,Simonhoehe,AUT,Italy,European Cup,Parallel Giant Slalom,28,14.40
-162,Lantschner Fabian,Male,09-02-2020,Gerlitzen,AUT,Italy,FIS,Giant Slalom,10,57.20
-163,Lantschner Fabian,Male,08-02-2020,Gerlitzen,AUT,Italy,FIS,Giant Slalom,11,52.80
-164,Lantschner Fabian,Male,02-02-2020,Carezza,ITA,Italy,FIS,Giant Slalom,5,67.50
-165,Lantschner Fabian,Male,01-02-2020,Carezza,ITA,Italy,FIS,Giant Slalom,22,18.00
-166,Lantschner Fabian,Male,26-01-2020,Gosau,AUT,Italy,FIS,Parallel Slalom,6,72.00
-167,Lantschner Fabian,Male,25-01-2020,Gosau,AUT,Italy,FIS,Parallel Slalom,7,64.80
-168,Lantschner Fabian,Male,19-01-2020,Alleghe,ITA,Italy,FIS,Parallel Slalom,9,52.20
-169,Lantschner Fabian,Male,18-01-2020,Alleghe,ITA,Italy,FIS,Parallel Slalom,13,32.00
-170,Lantschner Fabian,Male,21-12-2019,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,10,23.40
-171,Lantschner Fabian,Male,20-12-2019,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,7,32.40
-172,Lantschner Fabian,Male,15-12-2019,Cortina d Ampezzo,ITA,Italy,Junior,Parallel Slalom,31,
-173,Lantschner Fabian,Male,14-12-2019,Cortina d Ampezzo,ITA,Italy,Junior,Parallel Slalom,7,32.40
-174,Lantschner Fabian,Male,07-04-2019,Racines,ITA,Italy,European Cup,Parallel Slalom,18,46.80
-175,Lantschner Fabian,Male,06-04-2019,Racines,ITA,Italy,European Cup,Parallel Slalom,23,28.80
-176,Lantschner Fabian,Male,03-04-2019,Rogla,SLO,Italy,FIS Junior World Championships,Parallel Slalom,19,43.20
-177,Lantschner Fabian,Male,02-04-2019,Rogla,SLO,Italy,FIS Junior World Championships,Parallel Giant Slalom,39,6.77
-178,Lantschner Fabian,Male,27-03-2019,Piancavallo,ITA,Italy,National Championships,Parallel Giant Slalom,24,20.30
-179,Lantschner Fabian,Male,26-03-2019,Piancavallo,ITA,Italy,National Championships,Parallel Slalom,15,46.40
-180,Lantschner Fabian,Male,17-03-2019,Rogla,SLO,Italy,European Cup,Parallel Giant Slalom,57,4.82
-181,Lantschner Fabian,Male,17-03-2019,Rogla,SLO,Italy,Junior,Parallel Giant Slalom,24,14.00
-182,Lantschner Fabian,Male,16-03-2019,Rogla,SLO,Italy,European Cup,Parallel Giant Slalom,76,
-183,Lantschner Fabian,Male,03-03-2019,Val Senales,ITA,Italy,FIS,Parallel Slalom,6,28.00
-184,Lantschner Fabian,Male,02-03-2019,Val Senales,ITA,Italy,FIS,Parallel Slalom,4,35.00
-185,Lantschner Fabian,Male,24-02-2019,Funes/Villnoess,ITA,Italy,FIS,Parallel Giant Slalom,19,18.00
-186,Lantschner Fabian,Male,23-02-2019,Funes/Villnoess,ITA,Italy,FIS,Parallel Giant Slalom,15,24.00
-187,Lantschner Fabian,Male,17-02-2019,Simonhoehe,AUT,Italy,FIS,Parallel GS,16,24.00
-188,Lantschner Fabian,Male,16-02-2019,Simonhoehe,AUT,Italy,FIS,Parallel GS,12,35.20
-189,Lantschner Fabian,Male,10-02-2019,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,19,38.40
-190,Lantschner Fabian,Male,09-02-2019,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,21,32.00
-191,Lantschner Fabian,Male,27-01-2019,Lachtal,AUT,Italy,European Cup,Parallel GS,30,5.76
-192,Lantschner Fabian,Male,26-01-2019,Lachtal,AUT,Italy,European Cup,Parallel GS,41,
-193,Lantschner Fabian,Male,20-01-2019,Gosau,AUT,Italy,FIS,Parallel Slalom,DSQ1,
-194,Lantschner Fabian,Male,19-01-2019,Gosau,AUT,Italy,FIS,Parallel Slalom,13,22.00
-195,Lantschner Fabian,Male,11-01-2019,Bad Gastein,AUT,Italy,European Cup,Parallel Slalom,46,6.01
-196,Lantschner Fabian,Male,10-01-2019,Bad Gastein,AUT,Italy,European Cup,Parallel Slalom,49,5.69
-197,Lantschner Fabian,Male,06-01-2019,Simonhöhe,AUT,Italy,FIS,Parallel Slalom,15,35.20
-198,Lantschner Fabian,Male,05-01-2019,Simonhöhe,AUT,Italy,FIS,Parallel Slalom,19,26.40
-199,Lantschner Fabian,Male,03-01-2019,Modriachwinkel,AUT,Italy,Junior,Parallel Slalom,5,31.50
-200,Lantschner Fabian,Male,02-01-2019,Modriachwinkel,AUT,Italy,Junior,Parallel Slalom,6,28.00
-201,Lantschner Fabian,Male,22-12-2018,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,3,30.00
-202,Lantschner Fabian,Male,21-12-2018,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,13,14.00
-203,Lantschner Fabian,Male,02-12-2018,Pfelders,ITA,Italy,FIS,Parallel Giant Slalom,32,5.72
-204,Lantschner Fabian,Male,01-12-2018,Pfelders,ITA,Italy,FIS,Parallel Giant Slalom,21,22.00
-205,Lantschner Fabian,Male,08-04-2018,Racines,ITA,Italy,European Cup,Parallel Slalom,20,39.60
-206,Lantschner Fabian,Male,07-04-2018,Racines,ITA,Italy,European Cup,Parallel Slalom,33,
-207,Lantschner Fabian,Male,21-03-2018,Rogla,SLO,Italy,European Cup,Parallel GS,41,6.55
-208,Lantschner Fabian,Male,20-03-2018,Rogla,SLO,Italy,European Cup,Parallel GS,38,6.88
-209,Lantschner Fabian,Male,18-03-2018,Gosau,AUT,Italy,FIS,Parallel Slalom,9,37.70
-210,Lantschner Fabian,Male,17-03-2018,Gosau,AUT,Italy,FIS,Parallel Slalom,10,33.80
-211,Lantschner Fabian,Male,11-03-2018,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,22,21.60
-212,Lantschner Fabian,Male,10-03-2018,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,27,10.80
-213,Lantschner Fabian,Male,08-03-2018,Carezza,ITA,Italy,National Championships,Parallel Slalom,14,52.20
-214,Lantschner Fabian,Male,07-03-2018,Carezza,ITA,Italy,National Championships,Parallel GS,20,31.90
-215,Lantschner Fabian,Male,03-03-2018,Davos,SUI,Italy,Junior,Parallel Slalom,5,45.00
-216,Lantschner Fabian,Male,25-02-2018,Funes/Villnoess,ITA,Italy,FIS,Parallel GS,20,22.00
-217,Lantschner Fabian,Male,24-02-2018,Funes/Villnoess,ITA,Italy,FIS,Parallel GS,18,26.00
-218,Lantschner Fabian,Male,18-02-2018,Simonhoehe,AUT,Italy,FIS,Parallel GS,25,13.20
-219,Lantschner Fabian,Male,17-02-2018,Simonhoehe,AUT,Italy,FIS,Parallel GS,22,19.80
-220,Lantschner Fabian,Male,04-02-2018,Gerlitzen,AUT,Italy,National Championships,Parallel GS,37,5.63
-221,Lantschner Fabian,Male,03-02-2018,Gerlitzen,AUT,Italy,National Championships,Parallel Slalom,26,14.50
-222,Lantschner Fabian,Male,21-01-2018,Lachtal,AUT,Italy,European Cup,Parallel GS,32,5.20
-223,Lantschner Fabian,Male,20-01-2018,Lachtal,AUT,Italy,European Cup,Parallel GS,40,3.70
-224,Lantschner Fabian,Male,14-01-2018,Goetschen,GER,Italy,Junior,Parallel GS,16,15.00
-225,Lantschner Fabian,Male,23-12-2017,Haus im Ennstal,AUT,Italy,Junior,Parallel GS,9,26.10
-226,Lantschner Fabian,Male,22-12-2017,Haus im Ennstal,AUT,Italy,Junior,Parallel GS,17,12.60
-227,Lantschner Fabian,Male,02-12-2017,Pfelders,ITA,Italy,FIS,Parallel GS,DSQ1,
-228,Lantschner Fabian,Male,01-12-2017,Pfelders,ITA,Italy,FIS,Parallel GS,31,6.16
+0,Lantschner Fabian,Male,05-04-2025,Cortina d Ampezzo,ITA,Italy,National Championships,Parallel Slalom,9,
+1,Lantschner Fabian,Male,15-03-2025,Winterberg,GER,Italy,Qualification,Parallel Slalom,33,
+2,Lantschner Fabian,Male,15-03-2025,Winterberg,GER,Italy,World Cup,Parallel Slalom,33,24.00
+3,Lantschner Fabian,Male,02-03-2025,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,47,
+4,Lantschner Fabian,Male,02-03-2025,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,47,16.40
+5,Lantschner Fabian,Male,01-03-2025,Krynica,POL,Italy,Qualification,Parallel Giant Slalom,41,
+6,Lantschner Fabian,Male,01-03-2025,Krynica,POL,Italy,World Cup,Parallel Giant Slalom,41,18.20
+7,Lantschner Fabian,Male,22-02-2025,Funes - Vilnoessse,ITA,Italy,FIS,Parallel Giant Slalom,10,57.20
+8,Lantschner Fabian,Male,16-02-2025,Val St. Come,CAN,Italy,Qualification,Parallel Giant Slalom,30,
+9,Lantschner Fabian,Male,16-02-2025,Val St. Come,CAN,Italy,World Cup,Parallel Giant Slalom,30,32.00
+10,Lantschner Fabian,Male,15-02-2025,Val St. Come,CAN,Italy,Qualification,Parallel Giant Slalom,28,
+11,Lantschner Fabian,Male,15-02-2025,Val St. Come,CAN,Italy,World Cup,Parallel Giant Slalom,28,40.00
+12,Lantschner Fabian,Male,02-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,7,93.60
+13,Lantschner Fabian,Male,02-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,7,
+14,Lantschner Fabian,Male,01-02-2025,Ratschings,ITA,Italy,European Cup,Parallel Slalom,12,63.80
+15,Lantschner Fabian,Male,01-02-2025,Ratschings,ITA,Italy,Qualification,Parallel Slalom,11,
+16,Lantschner Fabian,Male,26-01-2025,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,10,83.20
+17,Lantschner Fabian,Male,25-01-2025,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,39,
+18,Lantschner Fabian,Male,25-01-2025,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,39,18.80
+19,Lantschner Fabian,Male,22-01-2025,Bardonecchia,ITA,Italy,Universiade,Parallel Slalom,5,117.00
+20,Lantschner Fabian,Male,21-01-2025,Bardonecchia,ITA,Italy,Universiade,Parallel Giant Slalom,3,156.00
+21,Lantschner Fabian,Male,19-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,45,
+22,Lantschner Fabian,Male,19-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,45,17.00
+23,Lantschner Fabian,Male,18-01-2025,Bansko,BUL,Italy,Qualification,Parallel Giant Slalom,44,
+24,Lantschner Fabian,Male,18-01-2025,Bansko,BUL,Italy,World Cup,Parallel Giant Slalom,44,17.30
+25,Lantschner Fabian,Male,14-01-2025,Bad Gastein,AUT,Italy,Qualification,Parallel Slalom,43,
+26,Lantschner Fabian,Male,14-01-2025,Bad Gastein,AUT,Italy,World Cup,Parallel Slalom,43,17.60
+27,Lantschner Fabian,Male,11-01-2025,Scuol,SUI,Italy,Qualification,Parallel Giant Slalom,32,
+28,Lantschner Fabian,Male,11-01-2025,Scuol,SUI,Italy,World Cup,Parallel Giant Slalom,32,26.00
+29,Lantschner Fabian,Male,21-12-2024,Davos,SUI,Italy,Qualification,Parallel Slalom,28,
+30,Lantschner Fabian,Male,21-12-2024,Davos,SUI,Italy,World Cup,Parallel Slalom,28,40.00
+31,Lantschner Fabian,Male,14-12-2024,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,39,
+32,Lantschner Fabian,Male,14-12-2024,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,39,18.80
+33,Lantschner Fabian,Male,12-12-2024,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,27,
+34,Lantschner Fabian,Male,12-12-2024,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,27,45.00
+35,Lantschner Fabian,Male,08-12-2024,Yanqing (NASC),CHN,Italy,World Cup,Parallel Slalom,27,45.00
+36,Lantschner Fabian,Male,08-12-2024,Yanqing (NASC),CHN,Italy,Qualification,Parallel Slalom,27,
+37,Lantschner Fabian,Male,07-12-2024,Yanqing (NASC),CHN,Italy,World Cup,Parallel Giant Slalom,49,
+38,Lantschner Fabian,Male,07-12-2024,Yanqing (NASC),CHN,Italy,Qualification,Parallel Giant Slalom,49,
+39,Lantschner Fabian,Male,01-12-2024,Mylin,CHN,Italy,World Cup,Parallel Slalom,48,
+40,Lantschner Fabian,Male,01-12-2024,Mylin,CHN,Italy,Qualification,Parallel Slalom,48,
+41,Lantschner Fabian,Male,30-11-2024,Mylin,CHN,Italy,World Cup,Parallel Giant Slalom,48,16.10
+42,Lantschner Fabian,Male,30-11-2024,Mylin,CHN,Italy,Qualification,Parallel Giant Slalom,48,
+43,Lantschner Fabian,Male,30-03-2024,Colere,ITA,Italy,National Championships,Snowboard Cross,DNS,
+44,Lantschner Fabian,Male,17-03-2024,St. Moritz,SUI,Italy,European Cup,Parallel Slalom,17,50.40
+45,Lantschner Fabian,Male,16-03-2024,St. Moritz,SUI,Italy,European Cup,Parallel Giant Slalom,45,6.12
+46,Lantschner Fabian,Male,13-03-2024,Davos/Rinerhorn ,SUI,Italy,European Cup,Parallel Giant Slalom,5,162.00
+47,Lantschner Fabian,Male,12-03-2024,Davos/Rinerhorn ,SUI,Italy,European Cup,Parallel Giant Slalom,19,43.20
+48,Lantschner Fabian,Male,10-03-2024,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,7,64.80
+49,Lantschner Fabian,Male,09-03-2024,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,8,57.60
+50,Lantschner Fabian,Male,09-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Slalom,8,92.80
+51,Lantschner Fabian,Male,08-02-2024,Funes - Vilnoess,ITA,Italy,National Championships,Parallel Giant Slalom,10,75.40
+52,Lantschner Fabian,Male,28-01-2024,Nova Levante - Welschnofen,ITA,Italy,FIS,Parallel Giant Slalom,21,16.00
+53,Lantschner Fabian,Male,27-01-2024,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,47,
+54,Lantschner Fabian,Male,27-01-2024,Simonhöhe,AUT,Italy,World Cup,Parallel Giant Slalom,47,
+55,Lantschner Fabian,Male,24-01-2024,Pamporovo,BUL,Italy,European Cup,Parallel Slalom,24,15.40
+56,Lantschner Fabian,Male,23-01-2024,Pamporovo,BUL,Italy,European Cup,Parallel Slalom,7,79.20
+57,Lantschner Fabian,Male,21-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,DSQ,
+58,Lantschner Fabian,Male,21-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,DSQ,
+59,Lantschner Fabian,Male,20-01-2024,Pamporovo,BUL,Italy,Qualification,Parallel Slalom,29,
+60,Lantschner Fabian,Male,20-01-2024,Pamporovo,BUL,Italy,World Cup,Parallel Slalom,29,36.00
+61,Lantschner Fabian,Male,12-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,7,
+62,Lantschner Fabian,Male,12-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,6,96.00
+63,Lantschner Fabian,Male,11-01-2024,Folgaria,ITA,Italy,Qualification,Parallel Slalom,1,
+64,Lantschner Fabian,Male,11-01-2024,Folgaria,ITA,Italy,European Cup,Parallel Slalom,5,108.00
+65,Lantschner Fabian,Male,22-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,12,39.60
+66,Lantschner Fabian,Male,21-12-2023,Moninec,CZE,Italy,FIS,Parallel Slalom,1,160.00
+67,Lantschner Fabian,Male,20-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,7,79.20
+68,Lantschner Fabian,Male,19-12-2023,Moninec,CZE,Italy,European Cup,Parallel Slalom,6,88.00
+69,Lantschner Fabian,Male,16-12-2023,Cortina d'Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,31,
+70,Lantschner Fabian,Male,16-12-2023,Cortina d'Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,31,28.00
+71,Lantschner Fabian,Male,14-12-2023,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,36,
+72,Lantschner Fabian,Male,14-12-2023,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,36,19.70
+73,Lantschner Fabian,Male,09-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,8,
+74,Lantschner Fabian,Male,09-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,3,216.00
+75,Lantschner Fabian,Male,08-12-2023,Götschen,GER,Italy,Qualification,Parallel Slalom,11,
+76,Lantschner Fabian,Male,08-12-2023,Götschen,GER,Italy,European Cup,Parallel Slalom,11,86.40
+77,Lantschner Fabian,Male,30-03-2023,Cortina dAmpezzo,ITA,Italy,National Championships,Parallel Slalom,16,43.50
+78,Lantschner Fabian,Male,19-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,3,144.00
+79,Lantschner Fabian,Male,18-03-2023,Ratschings,ITA,Italy,European Cup,Parallel Slalom,2,144.00
+80,Lantschner Fabian,Male,12-03-2023,Davos,SUI,Italy,European Cup,Parallel Slalom,5,99.00
+81,Lantschner Fabian,Male,11-03-2023,Davos,SUI,Italy,European Cup,Parallel Slalom,7,129.60
+82,Lantschner Fabian,Male,05-03-2023,Zakopane,POL,Italy,European Cup,Parallel Giant Slalom,33,7.68
+83,Lantschner Fabian,Male,04-03-2023,Zakopane,POL,Italy,European Cup,Parallel Giant Slalom,10,93.60
+84,Lantschner Fabian,Male,19-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,1,120.00
+85,Lantschner Fabian,Male,18-02-2023,Bardonecchia,ITA,Italy,FIS,Parallel Slalom,4,60.00
+86,Lantschner Fabian,Male,12-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,29,7.92
+87,Lantschner Fabian,Male,11-02-2023,Funes - Vilnoess,ITA,Italy,FIS,Parallel Giant Slalom,31,6.16
+88,Lantschner Fabian,Male,05-02-2023,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,10,93.60
+89,Lantschner Fabian,Male,29-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,3,108.00
+90,Lantschner Fabian,Male,29-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,3,
+91,Lantschner Fabian,Male,28-01-2023,Simonhöhe,AUT,Italy,European Cup,Parallel Giant Slalom,10,46.80
+92,Lantschner Fabian,Male,28-01-2023,Simonhöhe,AUT,Italy,Qualification,Parallel Giant Slalom,9,
+93,Lantschner Fabian,Male,15-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,3,96.00
+94,Lantschner Fabian,Male,15-01-2023,Alleghe,ITA,Italy,Qualification,Parallel Slalom,3,
+95,Lantschner Fabian,Male,14-01-2023,Alleghe,ITA,Italy,European Cup,Parallel Slalom,1,160.00
+96,Lantschner Fabian,Male,14-01-2023,Alleghe,ITA,Italy,Qualification,Parallel Slalom,2,
+97,Lantschner Fabian,Male,18-12-2022,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,1,260.00
+98,Lantschner Fabian,Male,18-12-2022,Hochfügen,GER,Italy,Qualification,Parallel Giant Slalom,8,
+99,Lantschner Fabian,Male,17-12-2022,Hochfügen,GER,Italy,European Cup,Parallel Giant Slalom,6,72.00
+100,Lantschner Fabian,Male,12-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Slalom,6,116.00
+101,Lantschner Fabian,Male,11-04-2022,Chiesa Valmalenco,ITA,Italy,National Championships,Parallel Giant Slalom,7,104.40
+102,Lantschner Fabian,Male,01-04-2022,Chiesa in Valmalenco,ITA,Italy,FIS Junior World Championships,Parallel Slalom,2,192.00
+103,Lantschner Fabian,Male,31-03-2022,Chiesa in Valmalenco,ITA,Italy,FIS Junior World Championships,Parallel Giant Slalom,26,12.00
+104,Lantschner Fabian,Male,20-03-2022,Senales - Schnals,ITA,Italy,Junior,Parallel Slalom,2,80.00
+105,Lantschner Fabian,Male,19-03-2022,Senales - Schnals,ITA,Italy,Junior,Parallel Slalom,1,100.00
+106,Lantschner Fabian,Male,17-03-2022,Rogla,SLO,Italy,European Cup,Parallel Giant Slalom,21,32.00
+107,Lantschner Fabian,Male,16-03-2022,Rogla,SLO,Italy,Qualification,Parallel Giant Slalom,44,
+108,Lantschner Fabian,Male,16-03-2022,Rogla,SLO,Italy,World Cup,Parallel Giant Slalom,44,17.30
+109,Lantschner Fabian,Male,12-03-2022,Piancavallo,ITA,Italy,Qualification,Parallel Slalom,40,
+110,Lantschner Fabian,Male,12-03-2022,Piancavallo,ITA,Italy,World Cup,Parallel Slalom,40,
+111,Lantschner Fabian,Male,06-03-2022,Lachtal,AUT,Italy,European Cup,Parallel Giant Slalom,18,46.80
+112,Lantschner Fabian,Male,05-03-2022,Lachtal,AUT,Italy,European Cup,Parallel Giant Slalom,18,46.80
+113,Lantschner Fabian,Male,27-02-2022,Simonhöhe,AUT,Italy,FIS,Parallel Giant Slalom,26,11.00
+114,Lantschner Fabian,Male,26-02-2022,Simonhöhe,AUT,Italy,FIS,Parallel Giant Slalom,3,132.00
+115,Lantschner Fabian,Male,20-02-2022,Bakuriani,GEO,Italy,European Cup,Parallel Giant Slalom,16,54.00
+116,Lantschner Fabian,Male,19-02-2022,Bakuriani,GEO,Italy,European Cup,Parallel Giant Slalom,17,50.40
+117,Lantschner Fabian,Male,06-02-2022,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,15,57.60
+118,Lantschner Fabian,Male,05-02-2022,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,12,79.20
+119,Lantschner Fabian,Male,30-01-2022,Davos,SUI,Italy,European Cup,Parallel Slalom,14,64.80
+120,Lantschner Fabian,Male,29-01-2022,Davos,SUI,Italy,European Cup,Parallel Slalom,22,32.40
+121,Lantschner Fabian,Male,23-01-2022,Bukovel,UKR,Italy,European Cup,Parallel Giant Slalom,4,130.00
+122,Lantschner Fabian,Male,22-01-2022,Bukovel,UKR,Italy,European Cup,Parallel Giant Slalom,19,31.20
+123,Lantschner Fabian,Male,20-01-2022,Bukovel,UKR,Italy,National Championships,Parallel Slalom,3,132.00
+124,Lantschner Fabian,Male,19-01-2022,Bukovel,UKR,Italy,National Championships,Parallel Giant Slalom,9,69.60
+125,Lantschner Fabian,Male,09-01-2022,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,7,36.00
+126,Lantschner Fabian,Male,08-01-2022,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,4,50.00
+127,Lantschner Fabian,Male,21-12-2021,Moninec,CZE,Italy,FIS,Parallel Slalom,2,160.00
+128,Lantschner Fabian,Male,20-12-2021,Moninec,CZE,Italy,FIS,Parallel Slalom,3,120.00
+129,Lantschner Fabian,Male,19-12-2021,Moninec,CZE,Italy,European Cup,Parallel Slalom,DSQ,
+130,Lantschner Fabian,Male,18-12-2021,Moninec,CZE,Italy,European Cup,Parallel Slalom,3,120.00
+131,Lantschner Fabian,Male,16-12-2021,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,62,
+132,Lantschner Fabian,Male,16-12-2021,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,62,11.90
+133,Lantschner Fabian,Male,12-12-2021,Götschen,GER,Italy,European Cup,Parallel Slalom,16,33.00
+134,Lantschner Fabian,Male,11-12-2021,Götschen,GER,Italy,European Cup,Parallel Slalom,31,6.16
+135,Lantschner Fabian,Male,31-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Giant Slalom,17,40.60
+136,Lantschner Fabian,Male,30-03-2021,Villnöss,ITA,Italy,National Championships,Parallel Slalom,21,29.00
+137,Lantschner Fabian,Male,26-03-2021,Krasnoyarsk ,RUS,Italy,FIS Junior World Championships,Parallel Slalom,DNF,
+138,Lantschner Fabian,Male,25-03-2021,Krasnoyarsk ,RUS,Italy,FIS Junior World Championships,Parallel Giant Slalom,11,62.40
+139,Lantschner Fabian,Male,25-03-2021,Krasnoyarsk ,RUS,Italy,Qualification,Parallel Giant Slalom,11,
+140,Lantschner Fabian,Male,13-03-2021,Davos Rinerhorn,SUI,Italy,European Cup,Parallel Giant Slalom,52,5.36
+141,Lantschner Fabian,Male,07-03-2021,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,1,90.00
+142,Lantschner Fabian,Male,06-03-2021,Simonhöhe,AUT,Italy,Junior,Parallel Giant Slalom,3,54.00
+143,Lantschner Fabian,Male,28-02-2021,Funes/Villnoesses,ITA,Italy,European Cup,Parallel Giant Slalom,12,57.20
+144,Lantschner Fabian,Male,27-02-2021,Funes/Villnoesses,ITA,Italy,European Cup,Parallel Giant Slalom,27,14.40
+145,Lantschner Fabian,Male,21-02-2021,Gerlitzen,AUT,Italy,National Championships,Parallel Slalom,19,34.80
+146,Lantschner Fabian,Male,20-02-2021,Gerlitzen,AUT,Italy,National Championships,Parallel Giant Slalom,61,
+147,Lantschner Fabian,Male,07-02-2021,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,20,24.20
+148,Lantschner Fabian,Male,06-02-2021,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,16,33.00
+149,Lantschner Fabian,Male,24-01-2021,Davos,SUI,Italy,European Cup,Parallel Slalom,45,
+150,Lantschner Fabian,Male,23-01-2021,Davos,SUI,Italy,European Cup,Parallel Slalom,17,50.40
+151,Lantschner Fabian,Male,10-01-2021,Goetschen,GER,Italy,Junior,Parallel Slalom,7,36.00
+152,Lantschner Fabian,Male,09-01-2021,Goetschen,GER,Italy,Junior,Parallel Slalom,2,80.00
+153,Lantschner Fabian,Male,20-12-2020,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Giant Slalom,24,25.20
+154,Lantschner Fabian,Male,19-12-2020,Lachtal,AUT,Italy,FIS Junior World Championships,Parallel Slalom,17,50.40
+155,Lantschner Fabian,Male,17-12-2020,Carezza,ITA,Italy,Qualification,Parallel Giant Slalom,51,
+156,Lantschner Fabian,Male,17-12-2020,Carezza,ITA,Italy,World Cup,Parallel Giant Slalom,51,15.20
+157,Lantschner Fabian,Male,12-12-2020,Cortina d Ampezzo,ITA,Italy,Qualification,Parallel Giant Slalom,44,
+158,Lantschner Fabian,Male,12-12-2020,Cortina d Ampezzo,ITA,Italy,World Cup,Parallel Giant Slalom,44,17.30
+159,Lantschner Fabian,Male,23-02-2020,Funes/Villnoesses,ITA,Italy,FIS,Parallel Giant Slalom,12,48.40
+160,Lantschner Fabian,Male,22-02-2020,Funes/Villnoesses,ITA,Italy,FIS,Parallel Giant Slalom,12,48.40
+161,Lantschner Fabian,Male,16-02-2020,Simonhoehe,AUT,Italy,European Cup,Parallel Giant Slalom,25,21.60
+162,Lantschner Fabian,Male,15-02-2020,Simonhoehe,AUT,Italy,European Cup,Parallel Giant Slalom,28,14.40
+163,Lantschner Fabian,Male,09-02-2020,Gerlitzen,AUT,Italy,FIS,Giant Slalom,10,57.20
+164,Lantschner Fabian,Male,08-02-2020,Gerlitzen,AUT,Italy,FIS,Giant Slalom,11,52.80
+165,Lantschner Fabian,Male,02-02-2020,Carezza,ITA,Italy,FIS,Giant Slalom,5,67.50
+166,Lantschner Fabian,Male,01-02-2020,Carezza,ITA,Italy,FIS,Giant Slalom,22,18.00
+167,Lantschner Fabian,Male,26-01-2020,Gosau,AUT,Italy,FIS,Parallel Slalom,6,72.00
+168,Lantschner Fabian,Male,25-01-2020,Gosau,AUT,Italy,FIS,Parallel Slalom,7,64.80
+169,Lantschner Fabian,Male,19-01-2020,Alleghe,ITA,Italy,FIS,Parallel Slalom,9,52.20
+170,Lantschner Fabian,Male,18-01-2020,Alleghe,ITA,Italy,FIS,Parallel Slalom,13,32.00
+171,Lantschner Fabian,Male,21-12-2019,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,10,23.40
+172,Lantschner Fabian,Male,20-12-2019,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,7,32.40
+173,Lantschner Fabian,Male,15-12-2019,Cortina d Ampezzo,ITA,Italy,Junior,Parallel Slalom,31,
+174,Lantschner Fabian,Male,14-12-2019,Cortina d Ampezzo,ITA,Italy,Junior,Parallel Slalom,7,32.40
+175,Lantschner Fabian,Male,07-04-2019,Racines,ITA,Italy,European Cup,Parallel Slalom,18,46.80
+176,Lantschner Fabian,Male,06-04-2019,Racines,ITA,Italy,European Cup,Parallel Slalom,23,28.80
+177,Lantschner Fabian,Male,03-04-2019,Rogla,SLO,Italy,FIS Junior World Championships,Parallel Slalom,19,43.20
+178,Lantschner Fabian,Male,02-04-2019,Rogla,SLO,Italy,FIS Junior World Championships,Parallel Giant Slalom,39,6.77
+179,Lantschner Fabian,Male,27-03-2019,Piancavallo,ITA,Italy,National Championships,Parallel Giant Slalom,24,20.30
+180,Lantschner Fabian,Male,26-03-2019,Piancavallo,ITA,Italy,National Championships,Parallel Slalom,15,46.40
+181,Lantschner Fabian,Male,17-03-2019,Rogla,SLO,Italy,European Cup,Parallel Giant Slalom,57,4.82
+182,Lantschner Fabian,Male,17-03-2019,Rogla,SLO,Italy,Junior,Parallel Giant Slalom,24,14.00
+183,Lantschner Fabian,Male,16-03-2019,Rogla,SLO,Italy,European Cup,Parallel Giant Slalom,76,
+184,Lantschner Fabian,Male,03-03-2019,Val Senales,ITA,Italy,FIS,Parallel Slalom,6,28.00
+185,Lantschner Fabian,Male,02-03-2019,Val Senales,ITA,Italy,FIS,Parallel Slalom,4,35.00
+186,Lantschner Fabian,Male,24-02-2019,Funes/Villnoess,ITA,Italy,FIS,Parallel Giant Slalom,19,18.00
+187,Lantschner Fabian,Male,23-02-2019,Funes/Villnoess,ITA,Italy,FIS,Parallel Giant Slalom,15,24.00
+188,Lantschner Fabian,Male,17-02-2019,Simonhoehe,AUT,Italy,FIS,Parallel GS,16,24.00
+189,Lantschner Fabian,Male,16-02-2019,Simonhoehe,AUT,Italy,FIS,Parallel GS,12,35.20
+190,Lantschner Fabian,Male,10-02-2019,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,19,38.40
+191,Lantschner Fabian,Male,09-02-2019,Lenzerheide,SUI,Italy,European Cup,Parallel Slalom,21,32.00
+192,Lantschner Fabian,Male,27-01-2019,Lachtal,AUT,Italy,European Cup,Parallel GS,30,5.76
+193,Lantschner Fabian,Male,26-01-2019,Lachtal,AUT,Italy,European Cup,Parallel GS,41,
+194,Lantschner Fabian,Male,20-01-2019,Gosau,AUT,Italy,FIS,Parallel Slalom,DSQ1,
+195,Lantschner Fabian,Male,19-01-2019,Gosau,AUT,Italy,FIS,Parallel Slalom,13,22.00
+196,Lantschner Fabian,Male,11-01-2019,Bad Gastein,AUT,Italy,European Cup,Parallel Slalom,46,6.01
+197,Lantschner Fabian,Male,10-01-2019,Bad Gastein,AUT,Italy,European Cup,Parallel Slalom,49,5.69
+198,Lantschner Fabian,Male,06-01-2019,Simonhöhe,AUT,Italy,FIS,Parallel Slalom,15,35.20
+199,Lantschner Fabian,Male,05-01-2019,Simonhöhe,AUT,Italy,FIS,Parallel Slalom,19,26.40
+200,Lantschner Fabian,Male,03-01-2019,Modriachwinkel,AUT,Italy,Junior,Parallel Slalom,5,31.50
+201,Lantschner Fabian,Male,02-01-2019,Modriachwinkel,AUT,Italy,Junior,Parallel Slalom,6,28.00
+202,Lantschner Fabian,Male,22-12-2018,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,3,30.00
+203,Lantschner Fabian,Male,21-12-2018,Haus im Ennstal,AUT,Italy,Junior,Parallel Giant Slalom,13,14.00
+204,Lantschner Fabian,Male,02-12-2018,Pfelders,ITA,Italy,FIS,Parallel Giant Slalom,32,5.72
+205,Lantschner Fabian,Male,01-12-2018,Pfelders,ITA,Italy,FIS,Parallel Giant Slalom,21,22.00
+206,Lantschner Fabian,Male,08-04-2018,Racines,ITA,Italy,European Cup,Parallel Slalom,20,39.60
+207,Lantschner Fabian,Male,07-04-2018,Racines,ITA,Italy,European Cup,Parallel Slalom,33,
+208,Lantschner Fabian,Male,21-03-2018,Rogla,SLO,Italy,European Cup,Parallel GS,41,6.55
+209,Lantschner Fabian,Male,20-03-2018,Rogla,SLO,Italy,European Cup,Parallel GS,38,6.88
+210,Lantschner Fabian,Male,18-03-2018,Gosau,AUT,Italy,FIS,Parallel Slalom,9,37.70
+211,Lantschner Fabian,Male,17-03-2018,Gosau,AUT,Italy,FIS,Parallel Slalom,10,33.80
+212,Lantschner Fabian,Male,11-03-2018,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,22,21.60
+213,Lantschner Fabian,Male,10-03-2018,Tauplitz,AUT,Italy,European Cup,Parallel Slalom,27,10.80
+214,Lantschner Fabian,Male,08-03-2018,Carezza,ITA,Italy,National Championships,Parallel Slalom,14,52.20
+215,Lantschner Fabian,Male,07-03-2018,Carezza,ITA,Italy,National Championships,Parallel GS,20,31.90
+216,Lantschner Fabian,Male,03-03-2018,Davos,SUI,Italy,Junior,Parallel Slalom,5,45.00
+217,Lantschner Fabian,Male,25-02-2018,Funes/Villnoess,ITA,Italy,FIS,Parallel GS,20,22.00
+218,Lantschner Fabian,Male,24-02-2018,Funes/Villnoess,ITA,Italy,FIS,Parallel GS,18,26.00
+219,Lantschner Fabian,Male,18-02-2018,Simonhoehe,AUT,Italy,FIS,Parallel GS,25,13.20
+220,Lantschner Fabian,Male,17-02-2018,Simonhoehe,AUT,Italy,FIS,Parallel GS,22,19.80
+221,Lantschner Fabian,Male,04-02-2018,Gerlitzen,AUT,Italy,National Championships,Parallel GS,37,5.63
+222,Lantschner Fabian,Male,03-02-2018,Gerlitzen,AUT,Italy,National Championships,Parallel Slalom,26,14.50
+223,Lantschner Fabian,Male,21-01-2018,Lachtal,AUT,Italy,European Cup,Parallel GS,32,5.20
+224,Lantschner Fabian,Male,20-01-2018,Lachtal,AUT,Italy,European Cup,Parallel GS,40,3.70
+225,Lantschner Fabian,Male,14-01-2018,Goetschen,GER,Italy,Junior,Parallel GS,16,15.00
+226,Lantschner Fabian,Male,23-12-2017,Haus im Ennstal,AUT,Italy,Junior,Parallel GS,9,26.10
+227,Lantschner Fabian,Male,22-12-2017,Haus im Ennstal,AUT,Italy,Junior,Parallel GS,17,12.60
+228,Lantschner Fabian,Male,02-12-2017,Pfelders,ITA,Italy,FIS,Parallel GS,DSQ1,
+229,Lantschner Fabian,Male,01-12-2017,Pfelders,ITA,Italy,FIS,Parallel GS,31,6.16
