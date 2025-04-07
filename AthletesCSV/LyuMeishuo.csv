@@ -1,57 +1,58 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Lyu Meishuo,Male,05-04-2025,Cortina d Ampezzo,ITA,P.r. China,National Championships,Parallel Slalom,10,
-1,Lyu Meishuo,Male,08-02-2025,Jinshanling Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,1,200.00
-2,Lyu Meishuo,Male,07-02-2025,Jinshanling Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,6,80.00
-3,Lyu Meishuo,Male,31-12-2024,Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,2,160.00
-4,Lyu Meishuo,Male,30-12-2024,Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,7,72.00
-5,Lyu Meishuo,Male,08-12-2024,Yanqing (NASC),CHN,P.r. China,Qualification,Parallel Slalom,48,
-6,Lyu Meishuo,Male,08-12-2024,Yanqing (NASC),CHN,P.r. China,World Cup,Parallel Slalom,48,
-7,Lyu Meishuo,Male,07-12-2024,Yanqing (NASC),CHN,P.r. China,Qualification,Parallel Giant Slalom,50,
-8,Lyu Meishuo,Male,07-12-2024,Yanqing (NASC),CHN,P.r. China,World Cup,Parallel Giant Slalom,50,
-9,Lyu Meishuo,Male,01-12-2024,Mylin,CHN,P.r. China,Qualification,Parallel Slalom,45,
-10,Lyu Meishuo,Male,01-12-2024,Mylin,CHN,P.r. China,World Cup,Parallel Slalom,45,17.00
-11,Lyu Meishuo,Male,30-11-2024,Mylin,CHN,P.r. China,Qualification,Parallel Giant Slalom,50,
+0,Lyu Meishuo,Male,06-04-2025,Cortina d Ampezzo,ITA,P.r. China,National Championships,Parallel Giant Slalom,8,92.80
+1,Lyu Meishuo,Male,05-04-2025,Cortina d Ampezzo,ITA,P.r. China,National Championships,Parallel Slalom,10,75.40
+2,Lyu Meishuo,Male,08-02-2025,Jinshanling Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,1,200.00
+3,Lyu Meishuo,Male,07-02-2025,Jinshanling Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,6,80.00
+4,Lyu Meishuo,Male,31-12-2024,Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,2,160.00
+5,Lyu Meishuo,Male,30-12-2024,Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,7,72.00
+6,Lyu Meishuo,Male,08-12-2024,Yanqing (NASC),CHN,P.r. China,Qualification,Parallel Slalom,48,
+7,Lyu Meishuo,Male,08-12-2024,Yanqing (NASC),CHN,P.r. China,World Cup,Parallel Slalom,48,
+8,Lyu Meishuo,Male,07-12-2024,Yanqing (NASC),CHN,P.r. China,Qualification,Parallel Giant Slalom,50,
+9,Lyu Meishuo,Male,07-12-2024,Yanqing (NASC),CHN,P.r. China,World Cup,Parallel Giant Slalom,50,
+10,Lyu Meishuo,Male,01-12-2024,Mylin,CHN,P.r. China,Qualification,Parallel Slalom,45,
+11,Lyu Meishuo,Male,01-12-2024,Mylin,CHN,P.r. China,World Cup,Parallel Slalom,45,17.00
 12,Lyu Meishuo,Male,30-11-2024,Mylin,CHN,P.r. China,World Cup,Parallel Giant Slalom,50,
-13,Lyu Meishuo,Male,19-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Slalom,7,72.00
-14,Lyu Meishuo,Male,18-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,18,26.00
-15,Lyu Meishuo,Male,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,13,40.00
-16,Lyu Meishuo,Male,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,4,100.00
-17,Lyu Meishuo,Male,05-03-2024,High1resort,KOR,P.r. China,Asian Cup,Parallel Slalom,25,12.00
-18,Lyu Meishuo,Male,04-03-2024,High1resort,KOR,P.r. China,Asian Cup,Parallel Giant Slalom,14,43.20
-19,Lyu Meishuo,Male,01-03-2024,Jinshanling Galaxy Ski Resort,CHN,P.r. China,FIS,Parallel Slalom,2,80.00
-20,Lyu Meishuo,Male,29-02-2024,Jinshanling Galaxy Ski Resort,CHN,P.r. China,FIS,Parallel Giant Slalom,9,29.00
-21,Lyu Meishuo,Male,14-01-2022,Simonhöhe,AUT,P.r. China,Qualification,Parallel Giant Slalom,58,
-22,Lyu Meishuo,Male,14-01-2022,Simonhöhe,AUT,P.r. China,World Cup,Parallel Giant Slalom,58,
-23,Lyu Meishuo,Male,11-01-2022,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,49,
-24,Lyu Meishuo,Male,11-01-2022,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,49,
-25,Lyu Meishuo,Male,08-01-2022,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,58,13.10
-26,Lyu Meishuo,Male,08-01-2022,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,58,
-27,Lyu Meishuo,Male,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,49,15.80
-28,Lyu Meishuo,Male,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,49,
-29,Lyu Meishuo,Male,16-12-2021,Carezza,ITA,P.r. China,World Cup,Parallel Giant Slalom,56,13.70
-30,Lyu Meishuo,Male,16-12-2021,Carezza,ITA,P.r. China,Qualification,Parallel Giant Slalom,56,
-31,Lyu Meishuo,Male,12-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Slalom,48,
-32,Lyu Meishuo,Male,12-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Slalom,48,
-33,Lyu Meishuo,Male,11-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Giant Slalom,54,
-34,Lyu Meishuo,Male,11-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Giant Slalom,54,
-35,Lyu Meishuo,Male,29-12-2019,Wanlong Ski Resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,6,96.00
-36,Lyu Meishuo,Male,28-12-2019,Wanlong Ski Resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,5,108.00
-37,Lyu Meishuo,Male,22-12-2019,"Buck Hill, MN",USA,P.r. China,Nor-Am Cup,Parallel Slalom,15,32.00
-38,Lyu Meishuo,Male,21-12-2019,"Buck Hill, MN",USA,P.r. China,Nor-Am Cup,Parallel Slalom,21,20.00
-39,Lyu Meishuo,Male,20-12-2019,"Buck Hill, MN",USA,P.r. China,Junior,Parallel Slalom,4,60.00
-40,Lyu Meishuo,Male,20-12-2019,"Buck Hill, MN",USA,P.r. China,FIS,Parallel Slalom,7,57.60
-41,Lyu Meishuo,Male,30-11-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,6,88.00
-42,Lyu Meishuo,Male,29-11-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,15,51.20
-43,Lyu Meishuo,Male,03-04-2019,Rogla,SLO,P.r. China,FIS Junior World Championships,Parallel Slalom,26,18.00
-44,Lyu Meishuo,Male,02-04-2019,Rogla,SLO,P.r. China,FIS Junior World Championships,Parallel Giant Slalom,22,32.40
-45,Lyu Meishuo,Male,31-03-2019,Radstadt,AUT,P.r. China,National Championships,Parallel Giant Slalom,45,4.93
-46,Lyu Meishuo,Male,30-03-2019,Radstadt,AUT,P.r. China,National Championships,Parallel Slalom,45,4.93
-47,Lyu Meishuo,Male,27-03-2019,Piancavallo,ITA,P.r. China,National Championships,Parallel Giant Slalom,18,37.70
-48,Lyu Meishuo,Male,26-03-2019,Piancavallo,ITA,P.r. China,National Championships,Parallel Slalom,50,
-49,Lyu Meishuo,Male,17-03-2019,Rogla,SLO,P.r. China,Junior,Parallel Giant Slalom,37,3.88
-50,Lyu Meishuo,Male,28-02-2019,Secret Garden,CHN,P.r. China,Asian Cup,Parallel Slalom,10,52.00
-51,Lyu Meishuo,Male,27-02-2019,Secret Garden,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,11,38.40
-52,Lyu Meishuo,Male,12-02-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,13,36.00
-53,Lyu Meishuo,Male,11-02-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,16,27.00
-54,Lyu Meishuo,Male,02-12-2017,Changchengling,CHN,P.r. China,National Championships,Parallel Slalom,11,16.80
-55,Lyu Meishuo,Male,01-12-2017,Changchengling,CHN,P.r. China,National Championships,Parallel GS,10,18.20
+13,Lyu Meishuo,Male,30-11-2024,Mylin,CHN,P.r. China,Qualification,Parallel Giant Slalom,50,
+14,Lyu Meishuo,Male,19-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Slalom,7,72.00
+15,Lyu Meishuo,Male,18-03-2024,Wanglong Ski Resrort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,18,26.00
+16,Lyu Meishuo,Male,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Slalom,13,40.00
+17,Lyu Meishuo,Male,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,4,100.00
+18,Lyu Meishuo,Male,05-03-2024,High1resort,KOR,P.r. China,Asian Cup,Parallel Slalom,25,12.00
+19,Lyu Meishuo,Male,04-03-2024,High1resort,KOR,P.r. China,Asian Cup,Parallel Giant Slalom,14,43.20
+20,Lyu Meishuo,Male,01-03-2024,Jinshanling Galaxy Ski Resort,CHN,P.r. China,FIS,Parallel Slalom,2,80.00
+21,Lyu Meishuo,Male,29-02-2024,Jinshanling Galaxy Ski Resort,CHN,P.r. China,FIS,Parallel Giant Slalom,9,29.00
+22,Lyu Meishuo,Male,14-01-2022,Simonhöhe,AUT,P.r. China,Qualification,Parallel Giant Slalom,58,
+23,Lyu Meishuo,Male,14-01-2022,Simonhöhe,AUT,P.r. China,World Cup,Parallel Giant Slalom,58,
+24,Lyu Meishuo,Male,11-01-2022,Bad Gastein,AUT,P.r. China,World Cup,Parallel Slalom,49,
+25,Lyu Meishuo,Male,11-01-2022,Bad Gastein,AUT,P.r. China,Qualification,Parallel Slalom,49,
+26,Lyu Meishuo,Male,08-01-2022,Scuol,SUI,P.r. China,World Cup,Parallel Giant Slalom,58,13.10
+27,Lyu Meishuo,Male,08-01-2022,Scuol,SUI,P.r. China,Qualification,Parallel Giant Slalom,58,
+28,Lyu Meishuo,Male,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,World Cup,Parallel Giant Slalom,49,15.80
+29,Lyu Meishuo,Male,18-12-2021,Cortina d Ampezzo,ITA,P.r. China,Qualification,Parallel Giant Slalom,49,
+30,Lyu Meishuo,Male,16-12-2021,Carezza,ITA,P.r. China,World Cup,Parallel Giant Slalom,56,13.70
+31,Lyu Meishuo,Male,16-12-2021,Carezza,ITA,P.r. China,Qualification,Parallel Giant Slalom,56,
+32,Lyu Meishuo,Male,12-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Slalom,48,
+33,Lyu Meishuo,Male,12-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Slalom,48,
+34,Lyu Meishuo,Male,11-12-2021,Bannoye,RUS,P.r. China,World Cup,Parallel Giant Slalom,54,
+35,Lyu Meishuo,Male,11-12-2021,Bannoye,RUS,P.r. China,Qualification,Parallel Giant Slalom,54,
+36,Lyu Meishuo,Male,29-12-2019,Wanlong Ski Resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,6,96.00
+37,Lyu Meishuo,Male,28-12-2019,Wanlong Ski Resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,5,108.00
+38,Lyu Meishuo,Male,22-12-2019,"Buck Hill, MN",USA,P.r. China,Nor-Am Cup,Parallel Slalom,15,32.00
+39,Lyu Meishuo,Male,21-12-2019,"Buck Hill, MN",USA,P.r. China,Nor-Am Cup,Parallel Slalom,21,20.00
+40,Lyu Meishuo,Male,20-12-2019,"Buck Hill, MN",USA,P.r. China,Junior,Parallel Slalom,4,60.00
+41,Lyu Meishuo,Male,20-12-2019,"Buck Hill, MN",USA,P.r. China,FIS,Parallel Slalom,7,57.60
+42,Lyu Meishuo,Male,30-11-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,6,88.00
+43,Lyu Meishuo,Male,29-11-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,15,51.20
+44,Lyu Meishuo,Male,03-04-2019,Rogla,SLO,P.r. China,FIS Junior World Championships,Parallel Slalom,26,18.00
+45,Lyu Meishuo,Male,02-04-2019,Rogla,SLO,P.r. China,FIS Junior World Championships,Parallel Giant Slalom,22,32.40
+46,Lyu Meishuo,Male,31-03-2019,Radstadt,AUT,P.r. China,National Championships,Parallel Giant Slalom,45,4.93
+47,Lyu Meishuo,Male,30-03-2019,Radstadt,AUT,P.r. China,National Championships,Parallel Slalom,45,4.93
+48,Lyu Meishuo,Male,27-03-2019,Piancavallo,ITA,P.r. China,National Championships,Parallel Giant Slalom,18,37.70
+49,Lyu Meishuo,Male,26-03-2019,Piancavallo,ITA,P.r. China,National Championships,Parallel Slalom,50,
+50,Lyu Meishuo,Male,17-03-2019,Rogla,SLO,P.r. China,Junior,Parallel Giant Slalom,37,3.88
+51,Lyu Meishuo,Male,28-02-2019,Secret Garden,CHN,P.r. China,Asian Cup,Parallel Slalom,10,52.00
+52,Lyu Meishuo,Male,27-02-2019,Secret Garden,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,11,38.40
+53,Lyu Meishuo,Male,12-02-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Slalom,13,36.00
+54,Lyu Meishuo,Male,11-02-2019,Taiwoo ski resorts,CHN,P.r. China,Asian Cup,Parallel Giant Slalom,16,27.00
+55,Lyu Meishuo,Male,02-12-2017,Changchengling,CHN,P.r. China,National Championships,Parallel Slalom,11,16.80
+56,Lyu Meishuo,Male,01-12-2017,Changchengling,CHN,P.r. China,National Championships,Parallel GS,10,18.20

@@ -1,642 +1,643 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Ott Lynn,Female,05-04-2025,Cortina d Ampezzo,ITA,United States Of America,National Championships,Parallel Slalom,DNS,
-1,Ott Lynn,Female,01-04-2025,"Copper Mountain, CO",USA,United States Of America,National Championships,Parallel Slalom,9,37.70
-2,Ott Lynn,Female,31-03-2025,"Copper Mountain, CO",USA,United States Of America,National Championships,Parallel Giant Slalom,6,52.00
-3,Ott Lynn,Female,25-02-2025,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,6,64.00
-4,Ott Lynn,Female,24-02-2025,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,9,46.40
-5,Ott Lynn,Female,20-02-2025,Val Saint Come,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,4,80.00
-6,Ott Lynn,Female,19-02-2025,Val Saint Come,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,7,57.60
-7,Ott Lynn,Female,06-02-2025,Toronto Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,11,69.60
-8,Ott Lynn,Female,05-02-2025,Toronto Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,9,84.10
-9,Ott Lynn,Female,17-01-2025,Afton Alps Ski Area,USA,United States Of America,Nor-Am Cup,Parallel Slalom,3,96.00
-10,Ott Lynn,Female,17-01-2025,Afton Alps Ski Area,USA,United States Of America,FIS,Parallel Slalom,6,20.00
-11,Ott Lynn,Female,16-01-2025,Afton Alps Ski Area,USA,United States Of America,Nor-Am Cup,Parallel Slalom,6,64.00
-12,Ott Lynn,Female,10-01-2025,"Howelsen Hill - Steamboat, CO",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,6,64.00
-13,Ott Lynn,Female,09-01-2025,"Howelsen Hill - Steamboat, CO",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,7,57.60
-14,Ott Lynn,Female,08-01-2025,"Howelsen Hill - Steamboat, CO",USA,United States Of America,FIS,Giant Slalom,4,35.00
-15,Ott Lynn,Female,04-01-2025,Val Saint Come,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,6,72.00
-16,Ott Lynn,Female,03-01-2025,Val Saint Come,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,6,72.00
-17,Ott Lynn,Female,12-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Slalom,16,24.00
-18,Ott Lynn,Female,11-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,9,46.40
-19,Ott Lynn,Female,10-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,FIS,Giant Slalom,4,50.00
-20,Ott Lynn,Female,05-01-2024,Afton Alps Ski Area,USA,United States Of America,Nor-Am Cup,Parallel Slalom,9,46.40
-21,Ott Lynn,Female,05-01-2024,Afton Alps Ski Area,USA,United States Of America,FIS,Parallel Slalom,DNS,
-22,Ott Lynn,Female,04-01-2024,Afton Alps Ski Area,USA,United States Of America,Nor-Am Cup,Parallel Slalom,DNF,
-23,Ott Lynn,Female,04-04-2023,Copper Mountain Resort,USA,United States Of America,National Championships,Parallel Slalom,7,54.00
-24,Ott Lynn,Female,03-04-2023,Copper Mountain Resort,USA,United States Of America,National Championships,Parallel Giant Slalom,9,43.50
-25,Ott Lynn,Female,19-03-2023,Ratschings,ITA,United States Of America,European Cup,Parallel Slalom,37,5.04
-26,Ott Lynn,Female,18-03-2023,Berchtesgaden,GER,United States Of America,Qualification,Parallel Slalom,28,
-27,Ott Lynn,Female,18-03-2023,Berchtesgaden,GER,United States Of America,World Cup,Parallel Slalom,28,40.00
-28,Ott Lynn,Female,18-03-2023,Ratschings,ITA,United States Of America,European Cup,Parallel Slalom,DNS,
-29,Ott Lynn,Female,15-03-2023,Rogla,SLO,United States Of America,World Cup,Parallel Giant Slalom,38,19.10
-30,Ott Lynn,Female,15-03-2023,Rogla,SLO,United States Of America,Qualification,Parallel Giant Slalom,38,
-31,Ott Lynn,Female,11-03-2023,Horseshoe Resort,CAN,United States Of America,FIS,Parallel Giant Slalom,5,45.00
-32,Ott Lynn,Female,10-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,8,51.20
-33,Ott Lynn,Female,10-03-2023,Horseshoe Resort,CAN,United States Of America,FIS,Parallel Slalom,8,32.00
-34,Ott Lynn,Female,09-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,4,80.00
-35,Ott Lynn,Female,28-02-2023,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,4,80.00
-36,Ott Lynn,Female,27-02-2023,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,4,80.00
-37,Ott Lynn,Female,19-02-2023,Giants Ridge Recreation Area,USA,United States Of America,Nor-Am Cup,Parallel Slalom,2,128.00
-38,Ott Lynn,Female,18-02-2023,Giants Ridge Recreation Area,USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,6,64.00
-39,Ott Lynn,Female,09-02-2023,Tremblant.QC,CAN,United States Of America,FIS,Parallel Giant Slalom,7,46.80
-40,Ott Lynn,Female,08-02-2023,Tremblant.QC,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,6,64.00
-41,Ott Lynn,Female,07-02-2023,Tremblant.QC,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,DNF,
-42,Ott Lynn,Female,31-01-2023,Blue,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,13,52.00
-43,Ott Lynn,Female,30-01-2023,Blue,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,7,93.60
-44,Ott Lynn,Female,27-01-2023,Blue Mountain,CAN,United States Of America,Qualification,Parallel Giant Slalom,22,
-45,Ott Lynn,Female,27-01-2023,Blue Mountain,CAN,United States Of America,World Cup,Parallel Giant Slalom,22,90.00
-46,Ott Lynn,Female,26-01-2023,Blue Mountain,CAN,United States Of America,Qualification,Parallel Giant Slalom,27,
-47,Ott Lynn,Female,26-01-2023,Blue Mountain,CAN,United States Of America,World Cup,Parallel Giant Slalom,27,
-48,Ott Lynn,Female,14-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,FIS,Parallel Giant Slalom,4,55.00
-49,Ott Lynn,Female,13-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Slalom,14,28.80
-50,Ott Lynn,Female,12-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,6,64.00
-51,Ott Lynn,Female,18-12-2022,Hochfügen,GER,United States Of America,European Cup,Parallel Giant Slalom,24,14.00
-52,Ott Lynn,Female,18-12-2022,Hochfügen,GER,United States Of America,Qualification,Parallel Giant Slalom,24,
-53,Ott Lynn,Female,17-12-2022,Hochfügen,GER,United States Of America,European Cup,Parallel Giant Slalom,24,14.00
-54,Ott Lynn,Female,06-04-2022,Copper Mountain Resort,USA,United States Of America,National Championships,Parallel Slalom,10,52.00
-55,Ott Lynn,Female,04-04-2022,Copper Mountain Resort,USA,United States Of America,National Championships,Parallel Giant Slalom,8,64.00
-56,Ott Lynn,Female,01-03-2022,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,6,64.00
-57,Ott Lynn,Female,28-02-2022,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,14,32.40
-58,Ott Lynn,Female,25-02-2022,Alpine Ski Club,CAN,United States Of America,FIS,Parallel Giant Slalom,4,50.00
-59,Ott Lynn,Female,24-02-2022,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,DSQ,
-60,Ott Lynn,Female,23-02-2022,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,10,41.60
-61,Ott Lynn,Female,15-02-2022,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,8,83.20
-62,Ott Lynn,Female,14-02-2022,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,16,39.00
-63,Ott Lynn,Female,10-02-2022,Tremblant.QC,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,5,72.00
-64,Ott Lynn,Female,09-02-2022,Tremblant.QC,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,4,80.00
-65,Ott Lynn,Female,04-02-2022,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Slalom,12,35.20
-66,Ott Lynn,Female,03-02-2022,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,10,41.60
-67,Ott Lynn,Female,22-01-2022,Giants Ridge,USA,United States Of America,Nor-Am Cup,Parallel Slalom,11,38.40
-68,Ott Lynn,Female,22-01-2022,Giants Ridge,USA,United States Of America,FIS,Parallel Slalom,DNS,
-69,Ott Lynn,Female,21-01-2022,Giants Ridge,USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,DSQ,
-70,Ott Lynn,Female,15-01-2022,Simonhöhe,AUT,United States Of America,World Cup,Parallel Giant Slalom Team,23,
-71,Ott Lynn,Female,14-01-2022,Simonhöhe,AUT,United States Of America,World Cup,Parallel Giant Slalom,51,
-72,Ott Lynn,Female,14-01-2022,Simonhöhe,AUT,United States Of America,Qualification,Parallel Giant Slalom,51,
-73,Ott Lynn,Female,11-01-2022,Bad Gastein,AUT,United States Of America,Qualification,Parallel Slalom,DNF,
-74,Ott Lynn,Female,11-01-2022,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom,DNF,
-75,Ott Lynn,Female,08-01-2022,Scuol,SUI,United States Of America,Qualification,Parallel Giant Slalom,DNF,
-76,Ott Lynn,Female,08-01-2022,Scuol,SUI,United States Of America,World Cup,Parallel Giant Slalom,DNF,
-77,Ott Lynn,Female,18-12-2021,Cortina d Ampezzo,ITA,United States Of America,Qualification,Parallel Giant Slalom,50,
-78,Ott Lynn,Female,18-12-2021,Cortina d Ampezzo,ITA,United States Of America,World Cup,Parallel Giant Slalom,50,
-79,Ott Lynn,Female,16-12-2021,Carezza,ITA,United States Of America,Qualification,Parallel Giant Slalom,53,
-80,Ott Lynn,Female,16-12-2021,Carezza,ITA,United States Of America,World Cup,Parallel Giant Slalom,53,
-81,Ott Lynn,Female,12-12-2021,Bannoye,RUS,United States Of America,Qualification,Parallel Slalom,DNF,
-82,Ott Lynn,Female,12-12-2021,Bannoye,RUS,United States Of America,World Cup,Parallel Slalom,DNF,
-83,Ott Lynn,Female,11-12-2021,Bannoye,RUS,United States Of America,Qualification,Parallel Giant Slalom,54,
-84,Ott Lynn,Female,11-12-2021,Bannoye,RUS,United States Of America,World Cup,Parallel Giant Slalom,54,
-85,Ott Lynn,Female,31-03-2021,Villnöss,ITA,United States Of America,National Championships,Parallel Giant Slalom,10,75.40
-86,Ott Lynn,Female,30-03-2021,Villnöss,ITA,United States Of America,National Championships,Parallel Slalom,8,92.80
-87,Ott Lynn,Female,28-03-2021,Villnöss - Funes,ITA,United States Of America,FIS,Parallel Slalom,20,24.20
-88,Ott Lynn,Female,27-03-2021,Villnöss - Funes,ITA,United States Of America,FIS,Parallel Giant Slalom,13,44.00
-89,Ott Lynn,Female,13-03-2021,Davos Rinerhorn,SUI,United States Of America,European Cup,Parallel Giant Slalom,32,9.36
-90,Ott Lynn,Female,09-03-2021,SUCHE/Zakopane,POL,United States Of America,National Championships,Parallel Slalom,17,36.40
-91,Ott Lynn,Female,08-03-2021,SUCHE/Zakopane,POL,United States Of America,National Championships,Parallel Giant Slalom,29,9.36
-92,Ott Lynn,Female,28-02-2021,Funes/Villnoesses,ITA,United States Of America,European Cup,Parallel Giant Slalom,20,19.80
-93,Ott Lynn,Female,27-02-2021,Funes/Villnoesses,ITA,United States Of America,European Cup,Parallel Giant Slalom,22,19.80
-94,Ott Lynn,Female,13-02-2021,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,FIS,Parallel Slalom,6,28.00
-95,Ott Lynn,Female,12-02-2021,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,FIS,Parallel Giant Slalom,7,25.20
-96,Ott Lynn,Female,11-02-2021,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,FIS,Parallel Giant Slalom,6,28.00
-97,Ott Lynn,Female,07-02-2021,Bannoye,RUS,United States Of America,Qualification,Parallel Slalom,38,
-98,Ott Lynn,Female,07-02-2021,Bannoye,RUS,United States Of America,World Cup,Parallel Slalom,38,
-99,Ott Lynn,Female,06-02-2021,Bannoye,RUS,United States Of America,Qualification,Parallel Giant Slalom,40,
-100,Ott Lynn,Female,06-02-2021,Bannoye,RUS,United States Of America,World Cup,Parallel Giant Slalom,40,
-101,Ott Lynn,Female,26-01-2021,Bukovel,UKR,United States Of America,National Championships,Parallel Slalom,11,43.20
-102,Ott Lynn,Female,25-01-2021,Bukovel,UKR,United States Of America,National Championships,Parallel Giant Slalom,7,64.80
-103,Ott Lynn,Female,12-01-2021,Bad Gastein,AUT,United States Of America,Qualification,Parallel Slalom,46,
-104,Ott Lynn,Female,12-01-2021,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom,46,
-105,Ott Lynn,Female,09-01-2021,Scuol,SUI,United States Of America,Qualification,Parallel Giant Slalom,43,
-106,Ott Lynn,Female,09-01-2021,Scuol,SUI,United States Of America,World Cup,Parallel Giant Slalom,43,17.60
-107,Ott Lynn,Female,12-12-2020,Cortina d Ampezzo,ITA,United States Of America,Qualification,Parallel Giant Slalom,40,
-108,Ott Lynn,Female,12-12-2020,Cortina d Ampezzo,ITA,United States Of America,World Cup,Parallel Giant Slalom,40,
-109,Ott Lynn,Female,03-03-2020,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,20,39.60
-110,Ott Lynn,Female,02-03-2020,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,16,54.00
-111,Ott Lynn,Female,01-03-2020,Blue Mountain,CAN,United States Of America,World Cup,Parallel Giant Slalom,37,
-112,Ott Lynn,Female,01-03-2020,Blue Mountain,CAN,United States Of America,Qualification,Parallel Giant Slalom,37,
-113,Ott Lynn,Female,29-02-2020,Blue Mountain,CAN,United States Of America,World Cup,Parallel Giant Slalom,38,
-114,Ott Lynn,Female,29-02-2020,Blue Mountain,CAN,United States Of America,Qualification,Parallel Giant Slalom,38,
-115,Ott Lynn,Female,09-02-2020,Alpine Ski Club,CAN,United States Of America,FIS,Parallel Slalom,DNF,
-116,Ott Lynn,Female,08-02-2020,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,12,35.20
-117,Ott Lynn,Female,07-02-2020,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,13,32.00
-118,Ott Lynn,Female,04-02-2020,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,11,38.40
-119,Ott Lynn,Female,03-02-2020,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,9,46.40
-120,Ott Lynn,Female,25-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,FIS,Parallel Giant Slalom,14,21.60
-121,Ott Lynn,Female,24-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Slalom,14,28.80
-122,Ott Lynn,Female,23-01-2020,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,10,41.60
-123,Ott Lynn,Female,10-01-2020,Tremblant.QC,CAN,United States Of America,FIS,Parallel Giant Slalom,7,43.20
-124,Ott Lynn,Female,22-12-2019,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,14,28.80
-125,Ott Lynn,Female,21-12-2019,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,8,51.20
-126,Ott Lynn,Female,20-12-2019,"Buck Hill, MN",USA,United States Of America,FIS,Parallel Slalom,9,34.80
-127,Ott Lynn,Female,02-04-2019,"Copper Mountain, CO",USA,United States Of America,National Championships,Parallel Slalom,4,35.00
-128,Ott Lynn,Female,01-04-2019,"Copper Mountain, CO",USA,United States Of America,National Championships,Parallel Giant Slalom,1,70.00
-129,Ott Lynn,Female,05-03-2019,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,19,19.20
-130,Ott Lynn,Female,04-03-2019,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,6,64.00
-131,Ott Lynn,Female,01-03-2019,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,8,51.20
-132,Ott Lynn,Female,28-02-2019,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,7,57.60
-133,Ott Lynn,Female,10-02-2019,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,5,72.00
-134,Ott Lynn,Female,09-02-2019,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,2,128.00
-135,Ott Lynn,Female,05-02-2019,Park City,USA,United States Of America,World Championships,Parallel Slalom,35,20.00
-136,Ott Lynn,Female,04-02-2019,Park City,USA,United States Of America,World Championships,Parallel Giant Slalom,35,
-137,Ott Lynn,Female,04-01-2019,"Le Relais, QC",CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,1,160.00
-138,Ott Lynn,Female,03-01-2019,"Le Relais, QC",CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,2,128.00
-139,Ott Lynn,Female,16-12-2018,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,8,51.20
-140,Ott Lynn,Female,15-12-2018,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,9,46.40
-141,Ott Lynn,Female,14-12-2018,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,5,72.00
-142,Ott Lynn,Female,09-12-2018,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Slalom,6,64.00
-143,Ott Lynn,Female,08-12-2018,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,4,80.00
-144,Ott Lynn,Female,03-04-2018,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Parallel Slalom,11,62.40
-145,Ott Lynn,Female,02-04-2018,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Parallel GS,7,93.60
-146,Ott Lynn,Female,10-03-2018,Scuol,SUI,United States Of America,World Cup,Parallel GS,34,22.00
-147,Ott Lynn,Female,10-03-2018,Scuol,SUI,United States Of America,Qualification,Parallel GS,34,
-148,Ott Lynn,Female,21-02-2018,Toronto Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,6,72.00
-149,Ott Lynn,Female,20-02-2018,Toronto Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,7,64.80
-150,Ott Lynn,Female,06-02-2018,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,6,72.00
-151,Ott Lynn,Female,05-02-2018,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel GS,5,81.00
-152,Ott Lynn,Female,02-02-2018,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,9,52.20
-153,Ott Lynn,Female,01-02-2018,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,7,64.80
-154,Ott Lynn,Female,21-01-2018,Rogla,SLO,United States Of America,World Cup,Parallel GS,41,18.20
-155,Ott Lynn,Female,21-01-2018,Rogla,SLO,United States Of America,Qualification,Parallel GS,41,
-156,Ott Lynn,Female,20-01-2018,Rogla,SLO,United States Of America,World Cup,Parallel GS,45,17.00
-157,Ott Lynn,Female,20-01-2018,Rogla,SLO,United States Of America,Qualification,Parallel GS,45,
-158,Ott Lynn,Female,05-01-2018,Lackenhof,AUT,United States Of America,World Cup,Parallel GS,46,
-159,Ott Lynn,Female,05-01-2018,Lackenhof,AUT,United States Of America,Qualification,Parallel GS,46,
-160,Ott Lynn,Female,16-12-2017,Cortina d'Ampezzo,ITA,United States Of America,World Cup,Parallel Slalom,50,
-161,Ott Lynn,Female,16-12-2017,Cortina d'Ampezzo,ITA,United States Of America,Qualification,Parallel Slalom,50,
-162,Ott Lynn,Female,15-12-2017,Cortina d'Ampezzo,ITA,United States Of America,World Cup,Parallel GS,54,
-163,Ott Lynn,Female,15-12-2017,Cortina d'Ampezzo,ITA,United States Of America,Qualification,Parallel GS,54,
-164,Ott Lynn,Female,14-12-2017,Carezza,ITA,United States Of America,World Cup,Parallel GS,49,15.80
-165,Ott Lynn,Female,14-12-2017,Carezza,ITA,United States Of America,Qualification,Parallel GS,49,
-166,Ott Lynn,Female,10-12-2017,Hochfügen,GER,United States Of America,European Cup,Parallel GS,35,7.20
-167,Ott Lynn,Female,09-12-2017,Hochfügen,GER,United States Of America,European Cup,Parallel GS,29,12.96
-168,Ott Lynn,Female,06-04-2017,Tremblant.QC,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,14,36.00
-169,Ott Lynn,Female,04-04-2017,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Parallel Slalom,11,69.60
-170,Ott Lynn,Female,03-04-2017,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Parallel GS,12,63.80
-171,Ott Lynn,Female,15-02-2017,Toronto Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel GS,9,46.40
-172,Ott Lynn,Female,14-02-2017,Toronto Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel GS,4,80.00
-173,Ott Lynn,Female,10-02-2017,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,5,72.00
-174,Ott Lynn,Female,09-02-2017,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,3,96.00
-175,Ott Lynn,Female,15-01-2017,Steamboat Springs,USA,United States Of America,Nor-Am Cup,Parallel Slalom,7,64.80
-176,Ott Lynn,Female,14-01-2017,Steamboat Springs,USA,United States Of America,Nor-Am Cup,Parallel GS,3,108.00
-177,Ott Lynn,Female,05-01-2017,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,9,52.20
-178,Ott Lynn,Female,04-01-2017,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,8,57.60
-179,Ott Lynn,Female,18-12-2016,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,5,72.00
-180,Ott Lynn,Female,17-12-2016,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,6,64.00
-181,Ott Lynn,Female,16-12-2016,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,4,80.00
-182,Ott Lynn,Female,05-04-2016,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,12,44.00
-183,Ott Lynn,Female,04-04-2016,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,3,120.00
-184,Ott Lynn,Female,22-03-2016,Ski Chantecler,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,18,26.00
-185,Ott Lynn,Female,21-03-2016,Ski Chantecler,CAN,United States Of America,Nor-Am Cup,Parallel GS,10,52.00
-186,Ott Lynn,Female,28-02-2016,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,12,44.00
-187,Ott Lynn,Female,27-02-2016,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,18,26.00
-188,Ott Lynn,Female,23-02-2016,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,6,80.00
-189,Ott Lynn,Female,22-02-2016,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,3,120.00
-190,Ott Lynn,Female,18-02-2016,Toronto Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel GS,9,58.00
-191,Ott Lynn,Female,17-02-2016,Toronto Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel GS,7,72.00
-192,Ott Lynn,Female,17-01-2016,"Howelsen Hill, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,12,44.00
-193,Ott Lynn,Female,16-01-2016,"Howelsen Hill, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,7,72.00
-194,Ott Lynn,Female,20-12-2015,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,10,52.00
-195,Ott Lynn,Female,19-12-2015,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,8,64.00
-196,Ott Lynn,Female,19-11-2015,"Echo Mountain, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,12,110.00
-197,Ott Lynn,Female,18-11-2015,"Echo Mountain, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,23,40.00
-198,Ott Lynn,Female,31-03-2015,"Copper Mountain, CO",USA,United States Of America,FIS,Parallel Slalom,2,120.00
-199,Ott Lynn,Female,30-03-2015,"Copper Mountain, CO",USA,United States Of America,FIS,Parallel GS,3,90.00
-200,Ott Lynn,Female,14-03-2015,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel GS,7,93.60
-201,Ott Lynn,Female,13-03-2015,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,12,57.20
-202,Ott Lynn,Female,08-03-2015,Owl' s Head,CAN,United States Of America,FIS,Parallel GS,4,75.00
-203,Ott Lynn,Female,25-01-2015,"Alpine Ski Club, ON",CAN,United States Of America,Nor-Am Cup,Parallel Slalom,14,36.00
-204,Ott Lynn,Female,24-01-2015,"Alpine Ski Club, ON",CAN,United States Of America,Nor-Am Cup,Parallel GS,3,120.00
-205,Ott Lynn,Female,22-01-2015,"Holliday Valley, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,3,120.00
-206,Ott Lynn,Female,21-01-2015,"Holliday Valley, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,4,100.00
-207,Ott Lynn,Female,21-12-2014,"Le Relais, QC",CAN,United States Of America,Nor-Am Cup,Parallel Slalom,6,80.00
-208,Ott Lynn,Female,20-12-2014,"Le Relais, QC",CAN,United States Of America,Nor-Am Cup,Parallel Slalom,3,120.00
-209,Ott Lynn,Female,13-12-2014,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,6,80.00
-210,Ott Lynn,Female,12-12-2014,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,3,120.00
-211,Ott Lynn,Female,07-12-2014,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,1,200.00
-212,Ott Lynn,Female,06-12-2014,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel GS,3,120.00
-213,Ott Lynn,Female,14-03-2014,Mt Tremblant,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,10,104.00
-214,Ott Lynn,Female,13-03-2014,Mt Tremblant,CAN,United States Of America,Nor-Am Cup,Parallel GS,13,80.00
-215,Ott Lynn,Female,16-02-2014,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,3,84.00
-216,Ott Lynn,Female,15-02-2014,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel GS,2,112.00
-217,Ott Lynn,Female,23-01-2014,"Holliday Valley, NY",USA,United States Of America,Nor-Am Cup,Parallel Slalom,1,120.00
-218,Ott Lynn,Female,22-01-2014,"Holliday Valley, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,4,60.00
-219,Ott Lynn,Female,18-01-2014,Rogla,SLO,United States Of America,World Cup,Parallel GS,47,
-220,Ott Lynn,Female,12-01-2014,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom,42,17.90
-221,Ott Lynn,Female,10-01-2014,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom,47,
-222,Ott Lynn,Female,19-12-2013,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,4,55.00
-223,Ott Lynn,Female,18-12-2013,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,3,84.00
-224,Ott Lynn,Female,14-12-2013,Carezza,ITA,United States Of America,World Cup,Parallel Slalom,45,0.00
-225,Ott Lynn,Female,13-12-2013,Carezza,ITA,United States Of America,World Cup,Parallel GS,44,
-226,Ott Lynn,Female,08-12-2013,Hochfügen,AUT,United States Of America,European Cup,Parallel GS,53,0.00
-227,Ott Lynn,Female,07-12-2013,Hochfügen,AUT,United States Of America,European Cup,Parallel GS,33,12.00
-228,Ott Lynn,Female,15-11-2013,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,34,0.00
-229,Ott Lynn,Female,14-11-2013,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,31,14.00
-230,Ott Lynn,Female,12-11-2013,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,127,
-231,Ott Lynn,Female,11-11-2013,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,28,20.00
-232,Ott Lynn,Female,27-03-2013,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,29,0.00
-233,Ott Lynn,Female,26-03-2013,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel GS,11,108.00
-234,Ott Lynn,Female,28-02-2013,"Holiday Valley, NY",USA,United States Of America,Nor-Am Cup,Parallel Slalom,6,48.00
-235,Ott Lynn,Female,27-02-2013,"Holiday Valley, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,4,60.00
-236,Ott Lynn,Female,27-01-2013,Stoneham,CAN,United States Of America,World Championships,Parallel Slalom,37,
-237,Ott Lynn,Female,25-01-2013,Stoneham,CAN,United States Of America,World Championships,Parallel GS,37,19.40
-238,Ott Lynn,Female,20-01-2013,"Le Relais, QC",CAN,United States Of America,Nor-Am Cup,Parallel Slalom,20,55.00
-239,Ott Lynn,Female,19-01-2013,"Le Relais, QC",CAN,United States Of America,Nor-Am Cup,Parallel GS,29,18.00
-240,Ott Lynn,Female,15-12-2012,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,4,75.00
-241,Ott Lynn,Female,14-12-2012,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,2,120.00
-242,Ott Lynn,Female,14-11-2012,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,14,90.00
-243,Ott Lynn,Female,13-11-2012,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,12,110.00
-244,Ott Lynn,Female,07-04-2012,Nakiska,CAN,United States Of America,Nor-Am Cup,Parallel GS,6,144.00
-245,Ott Lynn,Female,28-02-2012,"Holimont, NY",USA,United States Of America,Nor-Am Cup,Parallel Slalom,7,86.40
-246,Ott Lynn,Female,27-02-2012,"Holimont, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,10,67.60
-247,Ott Lynn,Female,22-02-2012,Stoneham,CAN,United States Of America,World Cup,Parallel GS,31,28.00
-248,Ott Lynn,Female,19-02-2012,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,12,57.20
-249,Ott Lynn,Female,18-02-2012,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel GS,23,40.00
-250,Ott Lynn,Female,15-12-2011,Telluride,USA,United States Of America,Qualification,Parallel GS,39,
-251,Ott Lynn,Female,15-12-2011,Telluride,USA,United States Of America,World Cup,Parallel GS,39,
-252,Ott Lynn,Female,10-12-2011,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,14,81.00
-253,Ott Lynn,Female,09-12-2011,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,19,54.00
-254,Ott Lynn,Female,15-11-2011,"Copper, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,15,46.40
-255,Ott Lynn,Female,14-11-2011,"Copper, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,10,75.40
-256,Ott Lynn,Female,10-04-2011,Lake Louise,CAN,United States Of America,Nor-Am Cup,Parallel GS,8,92.80
-257,Ott Lynn,Female,24-02-2011,"Holimont, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,6,116.00
-258,Ott Lynn,Female,23-02-2011,"Holimont, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,4,145.00
-259,Ott Lynn,Female,13-02-2011,"Le Relais, Quebec",CAN,United States Of America,Nor-Am Cup,Parallel Slalom,16,48.00
-260,Ott Lynn,Female,12-02-2011,"Le Relais, Quebec",CAN,United States Of America,Nor-Am Cup,Parallel GS,5,130.50
-261,Ott Lynn,Female,22-01-2011,La Molina,ESP,United States Of America,World Championships,Parallel Slalom,31,
-262,Ott Lynn,Female,19-01-2011,La Molina,ESP,United States Of America,World Championships,Parallel GS,43,0.00
-263,Ott Lynn,Female,21-12-2010,"Steamboad Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,7,79.20
-264,Ott Lynn,Female,20-12-2010,"Steamboad Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,14,90.00
-265,Ott Lynn,Female,16-12-2010,Telluride,USA,United States Of America,World Cup,Parallel GS,29,36.00
-266,Ott Lynn,Female,10-12-2010,Limone Piemonte,ITA,United States Of America,World Cup,Parallel GS,35,
-267,Ott Lynn,Female,10-10-2010,Landgraaf,NED,United States Of America,World Cup,Parallel Slalom,43,0.00
-268,Ott Lynn,Female,31-03-2010,Mont Tremblant Quebec,CAN,United States Of America,National Championships,Parallel GS,5,162.00
-269,Ott Lynn,Female,05-02-2010,Mt. Bachelor OR,USA,United States Of America,Nor-Am Cup,Giant Slalom,12,110.00
-270,Ott Lynn,Female,04-02-2010,Mt. Bachelor OR,USA,United States Of America,Nor-Am Cup,Parallel GS,7,180.00
-271,Ott Lynn,Female,17-12-2009,Telluride,USA,United States Of America,World Cup,Parallel GS,27,45.00
-272,Ott Lynn,Female,15-12-2009,Telluride,USA,United States Of America,World Cup,Parallel GS,31,28.00
-273,Ott Lynn,Female,12-12-2009,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,12,48.40
-274,Ott Lynn,Female,11-12-2009,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,21,50.00
-275,Ott Lynn,Female,29-11-2009,"Hochfuegen, Zillertal (AUT)",GER,United States Of America,European Cup,Parallel GS,21,50.00
-276,Ott Lynn,Female,28-11-2009,"Hochfuegen, Zillertal (AUT)",GER,United States Of America,National Championships,Parallel GS,14,64.80
-277,Ott Lynn,Female,13-11-2009,"Copper, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,9,145.00
-278,Ott Lynn,Female,12-11-2009,"Copper, CO",USA,United States Of America,Nor-Am Cup,Giant Slalom,9,145.00
-279,Ott Lynn,Female,20-09-2009,Landgraaf,NED,United States Of America,FIS,Parallel Slalom,9,43.50
-280,Ott Lynn,Female,19-09-2009,Landgraaf,NED,United States Of America,FIS,Parallel Slalom,12,35.20
-281,Ott Lynn,Female,04-04-2009,"Mt. Tremblant, Quebec",CAN,United States Of America,Nor-Am Cup,Snowboardcross,13,90.00
-282,Ott Lynn,Female,01-04-2009,"Mt. Tremblant, Quebec",CAN,United States Of America,Nor-Am Cup,Parallel Slalom,3,240.00
-283,Ott Lynn,Female,31-03-2009,"Mt. Tremblant, Quebec",CAN,United States Of America,Nor-Am Cup,Parallel GS,8,128.00
-284,Ott Lynn,Female,28-03-2009,Isola 2000,FRA,United States Of America,FIS,Parallel GS,4,90.00
-285,Ott Lynn,Female,27-03-2009,Isola 2000,FRA,United States Of America,European Cup,Parallel GS,4,100.00
-286,Ott Lynn,Female,26-02-2009,Sunday River,USA,United States Of America,World Cup,Parallel GS,28,40.00
-287,Ott Lynn,Female,01-02-2009,"Boreal, CA",USA,United States Of America,Nor-Am Cup,Snowboardcross,30,12.80
-288,Ott Lynn,Female,25-01-2009,"LeRalais, Quebec",CAN,United States Of America,Nor-Am Cup,Parallel Slalom,8,51.20
-289,Ott Lynn,Female,24-01-2009,"LeRalais, Quebec",CAN,United States Of America,Nor-Am Cup,Parallel GS,5,72.00
-290,Ott Lynn,Female,10-01-2009,"Steamboat, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,3,84.00
-291,Ott Lynn,Female,09-01-2009,"Steamboat, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,6,56.00
-292,Ott Lynn,Female,13-12-2008,"Mnt Norquay, Alberta",CAN,United States Of America,Nor-Am Cup,Parallel GS,2,160.00
-293,Ott Lynn,Female,20-11-2008,"Copper, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,17,63.00
-294,Ott Lynn,Female,19-11-2008,"Copper, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,8,144.00
-295,Ott Lynn,Female,23-03-2008,"Mt. Hood Meadows, OR",USA,United States Of America,Nor-Am Cup,Parallel Slalom,9,104.40
-296,Ott Lynn,Female,22-03-2008,"Mt Hood Meadows, OR",USA,United States Of America,Nor-Am Cup,Parallel GS,12,79.20
-297,Ott Lynn,Female,03-03-2008,"Lake Placid, NY",USA,United States Of America,World Cup,Parallel GS,36,19.70
-298,Ott Lynn,Female,01-03-2008,"Lake Placid, NY",USA,United States Of America,World Cup,Snowboardcross,32,26.00
-299,Ott Lynn,Female,10-02-2008,"Tamarack, ID",USA,United States Of America,Nor-Am Cup,Snowboardcross,8,
-300,Ott Lynn,Female,07-02-2008,Park City,USA,United States Of America,Nor-Am Cup,Parallel Slalom,8,92.80
-301,Ott Lynn,Female,13-01-2008,"Le Relais, Quebec",CAN,United States Of America,Nor-Am Cup,Parallel Slalom,10,57.20
-302,Ott Lynn,Female,12-01-2008,"Le Relais, Quebec",CAN,United States Of America,Nor-Am Cup,Parallel GS,3,132.00
-303,Ott Lynn,Female,05-01-2008,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,1,240.00
-304,Ott Lynn,Female,04-01-2008,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,2,192.00
-305,Ott Lynn,Female,16-11-2007,"Copper, CO",USA,United States Of America,Nor-Am Cup,Slalom,65,
-306,Ott Lynn,Female,15-11-2007,"Copper, CO",USA,United States Of America,Nor-Am Cup,Giant Slalom,3,216.00
-307,Ott Lynn,Female,01-04-2007,"Sun Peaks, BC",CAN,United States Of America,Nor-Am Cup,Snowboardcross,13,72.00
-308,Ott Lynn,Female,31-03-2007,"Sun Peaks, BC",CAN,United States Of America,Nor-Am Cup,Snowboardcross,5,162.00
-309,Ott Lynn,Female,25-03-2007,"Sunshine Village, AB",CAN,United States Of America,Nor-Am Cup,Parallel Slalom,7,144.00
-310,Ott Lynn,Female,24-03-2007,"Sunshine Village, AB",CAN,United States Of America,Nor-Am Cup,Parallel GS,25,30.00
-311,Ott Lynn,Female,23-03-2007,"Sunshine Village, AB",CAN,United States Of America,Nor-Am Cup,Snowboardcross,DNF,
-312,Ott Lynn,Female,11-03-2007,"Lake Placid, NY",USA,United States Of America,World Cup,Snowboardcross,41,
-313,Ott Lynn,Female,08-03-2007,"Lake Placid, NY",USA,United States Of America,World Cup,Snowboardcross,27,45.00
-314,Ott Lynn,Female,25-02-2007,"Tamarack, ID",USA,United States Of America,Nor-Am Cup,Snowboardcross,12,70.40
-315,Ott Lynn,Female,05-02-2007,"Mt. Norquay, AB",CAN,United States Of America,Nor-Am Cup,Parallel GS,5,108.00
-316,Ott Lynn,Female,04-02-2007,"Mt. Norquay, AB",CAN,United States Of America,Nor-Am Cup,Parallel GS,3,174.00
-317,Ott Lynn,Female,03-02-2007,Canada Olympic Park,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,5,117.00
-318,Ott Lynn,Female,01-02-2007,"Copper, CO",USA,United States Of America,Nor-Am Cup,Snowboardcross,8,128.00
-319,Ott Lynn,Female,31-01-2007,"Copper, CO",USA,United States Of America,Nor-Am Cup,Snowboardcross,9,116.00
-320,Ott Lynn,Female,06-01-2007,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,21,50.00
-321,Ott Lynn,Female,05-01-2007,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,9,145.00
-322,Ott Lynn,Female,17-12-2006,"Mont Blanc, QC",CAN,United States Of America,Nor-Am Cup,Parallel Slalom,10,52.00
-323,Ott Lynn,Female,16-12-2006,"Mont Blanc, QC",CAN,United States Of America,Nor-Am Cup,Parallel GS,2,160.00
-324,Ott Lynn,Female,21-11-2006,"Copper, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,12,110.00
-325,Ott Lynn,Female,20-11-2006,"Copper, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,10,130.00
-326,Ott Lynn,Female,30-08-2006,El Colorado,CHI,United States Of America,South American Cup,Parallel GS,2,256.00
-327,Ott Lynn,Female,30-08-2006,El Colorado,CHI,United States Of America,Masters,Parallel GS,3,
-328,Ott Lynn,Female,28-08-2006,El Colorado,CHI,United States Of America,South American Cup,Snowboardcross,11,120.00
-329,Ott Lynn,Female,28-08-2006,El Colorado,CHI,United States Of America,Masters,Snowboardcross,2,
-330,Ott Lynn,Female,26-03-2006,Crystal Mtn,USA,United States Of America,Nor-Am Cup,Parallel Slalom,7,180.00
-331,Ott Lynn,Female,25-03-2006,Crystal Mtn,USA,United States Of America,Nor-Am Cup,Parallel GS,6,200.00
-332,Ott Lynn,Female,12-03-2006,Mt. St-Louis/Moonstone,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,3,132.00
-333,Ott Lynn,Female,11-03-2006,Mt. St-Louis/Moonstone,CAN,United States Of America,Nor-Am Cup,Parallel GS,DSQ,
-334,Ott Lynn,Female,09-03-2006,"Lake Placid, NY",USA,United States Of America,World Cup,Parallel GS,17,140.00
-335,Ott Lynn,Female,03-03-2006,St. Petersburg,RUS,United States Of America,World Cup,Parallel Slalom,34,22.00
-336,Ott Lynn,Female,01-03-2006,Shukolovo,RUS,United States Of America,World Cup,Parallel Slalom,34,22.00
-337,Ott Lynn,Female,22-01-2006,Nendaz,SUI,United States Of America,World Cup,Parallel Slalom,38,0.00
-338,Ott Lynn,Female,18-01-2006,Nendaz,SUI,United States Of America,European Cup,Parallel Slalom,42,8.95
-339,Ott Lynn,Female,15-01-2006,Kronplatz,ITA,United States Of America,World Cup,Parallel GS,48,16.10
-340,Ott Lynn,Female,08-01-2006,Kreischberg,AUT,United States Of America,World Cup,Parallel GS,45,
-341,Ott Lynn,Female,21-12-2005,Okemo,USA,United States Of America,Nor-Am Cup,Parallel GS,18,65.00
-342,Ott Lynn,Female,20-12-2005,Okemo,USA,United States Of America,Nor-Am Cup,Parallel GS,9,145.00
-343,Ott Lynn,Female,22-11-2005,Copper Mountain,USA,United States Of America,Nor-Am Cup,Parallel GS,32,13.00
-344,Ott Lynn,Female,21-11-2005,Copper Mountain,USA,United States Of America,Nor-Am Cup,Parallel GS,23,40.00
-345,Ott Lynn,Female,02-09-2005,Las Lenas,ARG,United States Of America,South American Cup,Snowboardcross,24,35.00
-346,Ott Lynn,Female,31-08-2005,Las Lenas,ARG,United States Of America,South American Cup,Parallel GS,4,250.00
-347,Ott Lynn,Female,06-03-2005,"Lake Placid, NY",USA,United States Of America,World Cup,Snowboardcross,27,0.00
-348,Ott Lynn,Female,03-03-2005,"Lake Placid, NY",USA,United States Of America,World Cup,Parallel GS,19,120.00
-349,Ott Lynn,Female,25-02-2005,Sungwoo Resort,KOR,United States Of America,World Cup,Parallel Slalom,25,60.00
-350,Ott Lynn,Female,19-02-2005,Sapporo,JPN,United States Of America,World Cup,Parallel Slalom,37,19.40
-351,Ott Lynn,Female,18-02-2005,Sapporo,JPN,United States Of America,World Cup,Parallel GS,34,22.00
-352,Ott Lynn,Female,09-02-2005,Bardonecchia,ITA,United States Of America,World Cup,Parallel GS,24,70.00
-353,Ott Lynn,Female,02-02-2005,Maribor,SLO,United States Of America,European Cup,Parallel Slalom,38,9.55
-354,Ott Lynn,Female,01-02-2005,Maribor,SLO,United States Of America,World Cup,Parallel GS,41,18.20
-355,Ott Lynn,Female,30-01-2005,Kreischberg,AUT,United States Of America,National Championships,Parallel Slalom,13,72.00
-356,Ott Lynn,Female,29-01-2005,Kreischberg,AUT,United States Of America,National Championships,Parallel GS,12,79.20
-357,Ott Lynn,Female,14-01-2005,"Loon Mountain, NH",USA,United States Of America,Nor-Am Cup,Parallel Slalom,9,63.80
-358,Ott Lynn,Female,13-01-2005,"Loon Mountain, NH",USA,United States Of America,Nor-Am Cup,Parallel GS,4,110.00
-359,Ott Lynn,Female,08-01-2005,Mt. Bachelor,USA,United States Of America,Nor-Am Cup,Snowboardcross,15,80.00
-360,Ott Lynn,Female,07-01-2005,St. Petersburg,RUS,United States Of America,World Cup,Parallel Slalom,26,50.00
-361,Ott Lynn,Female,04-01-2005,Steamboat Springs,USA,United States Of America,Nor-Am Cup,Parallel Slalom,5,144.00
-362,Ott Lynn,Female,03-01-2005,Steamboat Springs,USA,United States Of America,Nor-Am Cup,Parallel GS,3,192.00
-363,Ott Lynn,Female,20-12-2004,Breckenridge,USA,United States Of America,Nor-Am Cup,Parallel GS,10,130.00
-364,Ott Lynn,Female,17-12-2004,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom,46,16.70
-365,Ott Lynn,Female,12-12-2004,Haus im Ennstal,AUT,United States Of America,FIS,Parallel GS,17,36.40
-366,Ott Lynn,Female,11-12-2004,Haus im Ennstal,AUT,United States Of America,European Cup,Parallel GS,21,50.00
-367,Ott Lynn,Female,05-12-2004,Kuehtai,AUT,United States Of America,FIS,Parallel Slalom,26,13.00
-368,Ott Lynn,Female,04-12-2004,Kronplatz,ITA,United States Of America,World Cup,Parallel GS,30,32.00
-369,Ott Lynn,Female,16-11-2004,"Copper Mountain, Colorado",USA,United States Of America,Nor-Am Cup,Parallel Slalom,15,80.00
-370,Ott Lynn,Female,15-11-2004,"Copper Mountain, Colorado",USA,United States Of America,Nor-Am Cup,Parallel GS,31,0.00
-371,Ott Lynn,Female,24-10-2004,Landgraaf,NED,United States Of America,World Cup,Parallel Slalom,38,19.10
-372,Ott Lynn,Female,16-10-2004,Soelden,AUT,United States Of America,World Cup,Parallel GS,52,0.00
-373,Ott Lynn,Female,21-03-2004,"Breckenridge, CO",USA,United States Of America,Nor-Am Cup,Slalom,9,130.50
-374,Ott Lynn,Female,20-03-2004,"Breckenridge, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,3,270.00
-375,Ott Lynn,Female,14-03-2004,Mt. Avila,CAN,United States Of America,Nor-Am Cup,Snowboardcross,1,50.00
-376,Ott Lynn,Female,12-03-2004,Mt. Avila,CAN,United States Of America,Nor-Am Cup,Parallel GS,1,140.00
-377,Ott Lynn,Female,05-03-2004,"Mt. Bachelor, OR",USA,United States Of America,World Cup,Parallel GS,26,50.00
-378,Ott Lynn,Female,02-03-2004,Crystal Mountain,USA,United States Of America,Nor-Am Cup,Parallel Slalom,8,144.00
-379,Ott Lynn,Female,01-03-2004,Crystal Mountain,USA,United States Of America,Nor-Am Cup,Parallel GS,5,202.50
-380,Ott Lynn,Female,22-02-2004,Mt. Norruay,CAN,United States Of America,Nor-Am Cup,Parallel GS,1,130.00
-381,Ott Lynn,Female,01-02-2004,"Okemo, VT",USA,United States Of America,Nor-Am Cup,Parallel Slalom,1,180.00
-382,Ott Lynn,Female,31-01-2004,"Okemo, VT",USA,United States Of America,Nor-Am Cup,Parallel GS,3,108.00
-383,Ott Lynn,Female,25-01-2004,Watles,ITA,United States Of America,FIS,Parallel Slalom,19,31.20
-384,Ott Lynn,Female,24-01-2004,Watles,ITA,United States Of America,FIS,Parallel GS,19,31.20
-385,Ott Lynn,Female,18-01-2004,Sankt Johann/Pongau,AUT,United States Of America,European Cup,Parallel Slalom,35,10.00
-386,Ott Lynn,Female,17-01-2004,Sankt Johann/Pongau,AUT,United States Of America,European Cup,Parallel GS,17,70.00
-387,Ott Lynn,Female,11-01-2004,Alpe d'Huez,FRA,United States Of America,World Cup,Parallel GS,42,
-388,Ott Lynn,Female,10-01-2004,Bardonecchia,ITA,United States Of America,FIS,Parallel Slalom,7,79.20
-389,Ott Lynn,Female,09-01-2004,Bardonecchia,ITA,United States Of America,FIS,Parallel GS,4,130.00
-390,Ott Lynn,Female,05-01-2004,Steamboat Springs,USA,United States Of America,Nor-Am Cup,Parallel Slalom,DNF,
-391,Ott Lynn,Female,04-01-2004,Steamboat Springs,USA,United States Of America,Nor-Am Cup,Parallel GS,4,130.00
-392,Ott Lynn,Female,17-12-2003,Park City,USA,United States Of America,Nor-Am Cup,Parallel GS,9,145.00
-393,Ott Lynn,Female,07-12-2003,Kuehtai,AUT,United States Of America,FIS,Parallel Slalom,25,
-394,Ott Lynn,Female,06-12-2003,Kuehtai,AUT,United States Of America,FIS,Parallel Slalom,3,156.00
-395,Ott Lynn,Female,21-11-2003,Copper Mountain,USA,United States Of America,Nor-Am Cup,Parallel Slalom,10,130.00
-396,Ott Lynn,Female,20-11-2003,Copper Mountain,USA,United States Of America,Nor-Am Cup,Parallel GS,5,225.00
-397,Ott Lynn,Female,26-10-2003,Landgraaf,NED,United States Of America,World Cup,Parallel Slalom,32,26.00
-398,Ott Lynn,Female,19-10-2003,Soelden,AUT,United States Of America,World Cup,Parallel Slalom,52,0.00
-399,Ott Lynn,Female,18-10-2003,Soelden,AUT,United States Of America,World Cup,Parallel GS,34,22.00
-400,Ott Lynn,Female,12-09-2003,Valle Nevado,CHI,United States Of America,World Cup,Parallel GS,26,50.00
-401,Ott Lynn,Female,05-04-2003,Aspen,USA,United States Of America,Nor-Am Cup,Parallel GS,7,144.00
-402,Ott Lynn,Female,03-04-2003,Aspen,USA,United States Of America,Nor-Am Cup,Slalom,6,104.00
-403,Ott Lynn,Female,29-03-2003,Canada Olympic Park,CAN,United States Of America,National Championships,Parallel Slalom,1,120.00
-404,Ott Lynn,Female,27-03-2003,Nakiska,CAN,United States Of America,National Championships,Parallel GS,2,176.00
-405,Ott Lynn,Female,14-03-2003,Arosa,SUI,United States Of America,World Cup,Parallel GS,35,20.00
-406,Ott Lynn,Female,09-03-2003,Serre Chevalier,FRA,United States Of America,World Cup,Parallel Slalom,42,0.00
-407,Ott Lynn,Female,07-03-2003,Serre Chevalier,FRA,United States Of America,World Cup,Parallel GS,27,45.00
-408,Ott Lynn,Female,02-03-2003,Sugarbowl,USA,United States Of America,Continental Cup,Parallel GS,2,104.00
-409,Ott Lynn,Female,01-03-2003,Sapporo,JPN,United States Of America,World Cup,Parallel Slalom,26,50.00
-410,Ott Lynn,Female,28-02-2003,Sapporo,JPN,United States Of America,World Cup,Parallel GS,35,0.00
-411,Ott Lynn,Female,09-02-2003,Mt. Bachelor,USA,United States Of America,Nor-Am Cup,Parallel GS,6,160.00
-412,Ott Lynn,Female,31-01-2003,Loon Mtn.,USA,United States Of America,Nor-Am Cup,Parallel GS,1,150.00
-413,Ott Lynn,Female,30-01-2003,Loon Mtn.,USA,United States Of America,Nor-Am Cup,Parallel Slalom,4,35.00
-414,Ott Lynn,Female,25-01-2003,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel GS,1,90.00
-415,Ott Lynn,Female,22-01-2003,Alleghe,ITA,United States Of America,European Cup,Parallel GS,26,22.50
-416,Ott Lynn,Female,21-01-2003,Alleghe,ITA,United States Of America,European Cup,Parallel Slalom,43,0.00
-417,Ott Lynn,Female,18-01-2003,Pozza di Fassa,ITA,United States Of America,FIS,Parallel GS,8,83.20
-418,Ott Lynn,Female,06-01-2003,Bad Gastein,AUT,United States Of America,FIS,Parallel Slalom,19,31.20
-419,Ott Lynn,Female,05-01-2003,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom,46,
-420,Ott Lynn,Female,19-12-2002,Park City,USA,United States Of America,Nor-Am Cup,Parallel GS,7,162.00
-421,Ott Lynn,Female,18-12-2002,"Whistler, BC",CAN,United States Of America,World Cup,Parallel Slalom,36,
-422,Ott Lynn,Female,06-12-2002,Tandadalen,SWE,United States Of America,World Cup,Parallel GS,38,0.00
-423,Ott Lynn,Female,06-12-2002,Tandadalen,SWE,United States Of America,World Cup,Parallel Slalom,34,0.00
-424,Ott Lynn,Female,20-11-2002,Mammoth Mtn.,USA,United States Of America,Continental Cup,Parallel Slalom,9,104.40
-425,Ott Lynn,Female,19-11-2002,Mammoth Mtn.,USA,United States Of America,Continental Cup,Parallel GS,10,104.00
-426,Ott Lynn,Female,30-10-2002,Soelden,AUT,United States Of America,World Cup,Parallel Slalom,37,0.00
-427,Ott Lynn,Female,29-10-2002,Soelden,AUT,United States Of America,World Cup,Parallel GS,37,19.40
-428,Ott Lynn,Female,19-01-2002,Mt. St. Anne,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,5,22.50
-429,Ott Lynn,Female,18-01-2002,Mt. St. Anne,CAN,United States Of America,Nor-Am Cup,Parallel GS,1,180.00
-430,Ott Lynn,Female,04-01-2002,Mt Bachelor,USA,United States Of America,Nor-Am Cup,Parallel GS,11,120.00
-431,Ott Lynn,Female,23-12-2001,Snowbird,USA,United States Of America,FIS,Parallel GS,3,132.00
-432,Ott Lynn,Female,21-12-2001,Park City,USA,United States Of America,Nor-Am Cup,Parallel GS,3,300.00
-433,Ott Lynn,Female,06-12-2001,"Whistler, BC",CAN,United States Of America,World Cup,Snowboardcross,16,150.00
-434,Ott Lynn,Female,12-11-2001,Copper Mountain,USA,United States Of America,Nor-Am Cup,Giant Slalom,4,200.00
-435,Ott Lynn,Female,11-11-2001,Copper Mountain,USA,United States Of America,Nor-Am Cup,Parallel GS,3,300.00
-436,Ott Lynn,Female,08-09-2001,Valle Nevado,CHI,United States Of America,World Cup,Parallel GS,21,100.00
-437,Ott Lynn,Female,06-09-2001,Valle Nevado,CHI,United States Of America,World Cup,Snowboardcross,12,220.00
-438,Ott Lynn,Female,30-08-2001,Pucon,CHI,United States Of America,South American Cup,Parallel GS,13,100.00
-439,Ott Lynn,Female,07-04-2001,Big White,CAN,United States Of America,National Championships,Parallel GS,3,96.00
-440,Ott Lynn,Female,04-04-2001,Big White,CAN,United States Of America,National Championships,Giant Slalom,24,11.20
-441,Ott Lynn,Female,03-04-2001,Big White,CAN,United States Of America,National Championships,Snowboardcross,8,41.60
-442,Ott Lynn,Female,26-03-2001,Sunday River,USA,United States Of America,National Championships,Snowboardcross,5,45.00
-443,Ott Lynn,Female,24-03-2001,Sunday River,USA,United States Of America,National Championships,Parallel GS,5,162.00
-444,Ott Lynn,Female,22-03-2001,Sunday River,USA,United States Of America,National Championships,Slalom,8,115.20
-445,Ott Lynn,Female,17-03-2001,Ruka,FIN,United States Of America,World Cup,Snowboardcross,20,110.00
-446,Ott Lynn,Female,15-03-2001,Ruka,FIN,United States Of America,World Cup,Parallel Slalom,DNF,0.00
-447,Ott Lynn,Female,14-03-2001,Ruka,FIN,United States Of America,World Cup,Parallel GS,11,240.00
-448,Ott Lynn,Female,09-03-2001,Northstar,USA,United States Of America,Continental Cup,Parallel GS,1,100.00
-449,Ott Lynn,Female,04-03-2001,"Park City, UT",USA,United States Of America,World Cup,Parallel GS,34,22.00
-450,Ott Lynn,Female,24-02-2001,Asahikawa,JPN,United States Of America,World Cup,Parallel GS,25,60.00
-451,Ott Lynn,Female,17-02-2001,Sapporo,JPN,United States Of America,World Cup,Parallel GS,21,100.00
-452,Ott Lynn,Female,16-02-2001,Sapporo,JPN,United States Of America,World Cup,Snowboardcross,22,90.00
-453,Ott Lynn,Female,02-02-2001,Steamboat Springs,USA,United States Of America,FIS,Parallel GS,6,44.00
-454,Ott Lynn,Female,28-01-2001,Madonna di Campiglio,ITA,United States Of America,World Championships,Snowboardcross,21,100.00
-455,Ott Lynn,Female,24-01-2001,Madonna di Campiglio,ITA,United States Of America,World Championships,Parallel GS,28,40.00
-456,Ott Lynn,Female,20-01-2001,Berchtesgaden,GER,United States Of America,European Cup,Parallel Slalom,13,44.00
-457,Ott Lynn,Female,19-01-2001,Berchtesgaden,GER,United States Of America,European Cup,Parallel Slalom,DNF,0.00
-458,Ott Lynn,Female,19-01-2001,Kronplatz,ITA,United States Of America,World Cup,Snowboardcross,22,90.00
-459,Ott Lynn,Female,17-01-2001,Kronplatz,ITA,United States Of America,World Cup,Parallel GS,34,22.00
-460,Ott Lynn,Female,14-01-2001,Morzine,FRA,United States Of America,World Cup,Snowboardcross,18,130.00
-461,Ott Lynn,Female,13-01-2001,Morzine-Les Gets,FRA,United States Of America,World Cup,Snowboardcross,25,60.00
-462,Ott Lynn,Female,10-01-2001,Schoenried/Gstaad,SUI,United States Of America,World Cup,Giant Slalom,17,140.00
-463,Ott Lynn,Female,10-01-2001,Schoenried/Gstaad,SUI,United States Of America,World Cup,Parallel Slalom,34,22.00
-464,Ott Lynn,Female,05-01-2001,Breckenridge,USA,United States Of America,Continental Cup,Parallel GS,3,240.00
-465,Ott Lynn,Female,17-12-2000,Okemo,USA,United States Of America,Continental Cup,Giant Slalom,9,145.00
-466,Ott Lynn,Female,16-12-2000,"Mt. St. Anne, QC",CAN,United States Of America,World Cup,Giant Slalom,18,130.00
-467,Ott Lynn,Female,12-12-2000,Whistler,CAN,United States Of America,Continental Cup,Parallel GS,20,55.00
-468,Ott Lynn,Female,11-12-2000,"Whistler, BC",CAN,United States Of America,World Cup,Giant Slalom,17,140.00
-469,Ott Lynn,Female,08-12-2000,"Whistler, BC",CAN,United States Of America,World Cup,Snowboardcross,16,150.00
-470,Ott Lynn,Female,03-12-2000,Ischgl,AUT,United States Of America,World Cup,Parallel GS,20,110.00
-471,Ott Lynn,Female,02-12-2000,Ischgl,AUT,United States Of America,World Cup,Parallel GS,27,45.00
-472,Ott Lynn,Female,01-12-2000,Ischgl,AUT,United States Of America,World Cup,Parallel SL,30,32.00
-473,Ott Lynn,Female,17-11-2000,Breckenridge,USA,United States Of America,Continental Cup,Parallel GS,4,90.00
-474,Ott Lynn,Female,16-11-2000,Breckenridge,USA,United States Of America,Continental Cup,Giant Slalom,6,96.00
-475,Ott Lynn,Female,22-08-2000,Mt Hood,USA,United States Of America,Continental Cup,Parallel Slalom,10,67.60
-476,Ott Lynn,Female,21-08-2000,"Mt Hood, OR",USA,United States Of America,Continental Cup,Parallel GS,8,115.20
-477,Ott Lynn,Female,26-03-2000,Okemo,USA,United States Of America,National Championships,Snowboardcross,17,15.40
-478,Ott Lynn,Female,24-03-2000,Okemo,USA,United States Of America,National Championships,Giant Slalom,2,208.00
-479,Ott Lynn,Female,23-03-2000,Okemo,USA,United States Of America,National Championships,Slalom,4,75.00
-480,Ott Lynn,Female,18-03-2000,Livigno,ITA,United States Of America,World Cup,Giant Slalom,30,32.00
-481,Ott Lynn,Female,17-03-2000,Livigno,ITA,United States Of America,World Cup,Snowboardcross,22,90.00
-482,Ott Lynn,Female,16-03-2000,Livigno,ITA,United States Of America,World Cup,Parallel Slalom,33,24.00
-483,Ott Lynn,Female,05-03-2000,"Park City, UT",USA,United States Of America,World Cup,Giant Slalom,23,80.00
-484,Ott Lynn,Female,03-03-2000,"Park City, UT",USA,United States Of America,World Cup,Snowboardcross,17,140.00
-485,Ott Lynn,Female,26-02-2000,Shigakogen,JPN,United States Of America,World Cup,Giant Slalom,29,36.00
-486,Ott Lynn,Female,20-02-2000,Sapporo,JPN,United States Of America,World Cup,Snowboardcross,8,320.00
-487,Ott Lynn,Female,18-02-2000,Sapporo,JPN,United States Of America,World Cup,Parallel GS,20,110.00
-488,Ott Lynn,Female,13-02-2000,Northstar@Tahoe,USA,United States Of America,Continental Cup,Snowboardcross,2,80.00
-489,Ott Lynn,Female,11-02-2000,Northstar@Tahoe,USA,United States Of America,Continental Cup,Halfpipe,24,35.00
-490,Ott Lynn,Female,23-01-2000,Northstar at Tahoe,USA,United States Of America,FIS,Giant Slalom,1,150.00
-491,Ott Lynn,Female,22-01-2000,Northstar at Tahoe,USA,United States Of America,FIS,Snowboardcross,5,45.00
-492,Ott Lynn,Female,07-01-2000,Breckenridge,USA,United States Of America,Continental Cup,Giant Slalom,5,202.50
-493,Ott Lynn,Female,18-12-1999,"Mt. St. Anne, QC",CAN,United States Of America,World Cup,Giant Slalom,47,4.00
-494,Ott Lynn,Female,14-12-1999,Mammoth,USA,United States Of America,FIS,Parallel GS,5,117.00
-495,Ott Lynn,Female,12-12-1999,Mammoth,USA,United States Of America,Continental Cup,Super G,5,202.00
-496,Ott Lynn,Female,10-12-1999,"Whistler, BC",CAN,United States Of America,World Cup,Giant Slalom,26,50.00
-497,Ott Lynn,Female,04-12-1999,Zell am See/Kaprun,AUT,United States Of America,World Cup,Parallel GS,30,32.00
-498,Ott Lynn,Female,03-12-1999,Zell am See/Kaprun,AUT,United States Of America,World Cup,Snowboardcross,16,150.00
-499,Ott Lynn,Female,30-11-1999,Sestriere,ITA,United States Of America,World Cup,Parallel GS,47,4.00
-500,Ott Lynn,Female,27-11-1999,Tignes,FRA,United States Of America,World Cup,Giant Slalom,50,1.00
-501,Ott Lynn,Female,12-11-1999,Breckenridge,USA,United States Of America,Continental Cup,Giant Slalom,5,202.00
-502,Ott Lynn,Female,28-03-1999,Okemo Mountain Resort,USA,United States Of America,FIS,Snowboardcross,10,26.00
-503,Ott Lynn,Female,25-03-1999,Okemo Mountain Resort,USA,United States Of America,FIS,Slalom,7,40.00
-504,Ott Lynn,Female,26-02-1999,Sunday River,USA,United States Of America,Continental Cup,Snowboardcross,2,80.00
-505,Ott Lynn,Female,24-02-1999,Sunday River,USA,United States Of America,Continental Cup,Giant Slalom,7,180.00
-506,Ott Lynn,Female,24-02-1999,Sunday River,USA,United States Of America,FIS,Giant Slalom,7,94.00
-507,Ott Lynn,Female,21-02-1999,Bear Mountain,USA,United States Of America,FIS,Half Pipe,11,24.00
-508,Ott Lynn,Female,20-02-1999,Bear Mountain Resort,USA,United States Of America,FIS,Snowboardcross,5,45.00
-509,Ott Lynn,Female,19-02-1999,Bear Mountain Resort,USA,United States Of America,FIS,Giant Slalom,4,130.00
-510,Ott Lynn,Female,07-02-1999,Park City,USA,United States Of America,World Cup,Giant Slalom,27,45.00
-511,Ott Lynn,Female,05-02-1999,"Park City, UT",USA,United States Of America,World Cup,Parallel Slalom,27,45.00
-512,Ott Lynn,Female,31-01-1999,"Mt. St. Anne, QC",CAN,United States Of America,World Cup,Halfpipe,16,150.00
-513,Ott Lynn,Female,30-01-1999,"Mt. St. Anne, QC",CAN,United States Of America,World Cup,Giant Slalom,24,70.00
-514,Ott Lynn,Female,25-01-1999,Madonna di Campiglio,ITA,United States Of America,World Cup,Giant Slalom,22,90.00
-515,Ott Lynn,Female,22-01-1999,Graechen,SUI,United States Of America,World Cup,Snowboardcross,25,60.00
-516,Ott Lynn,Female,20-01-1999,Schoenried,SUI,United States Of America,World Cup,Giant Slalom,30,32.00
-517,Ott Lynn,Female,17-01-1999,Berchtesgaden,GER,United States Of America,World Championships,Snowboardcross,21,100.00
-518,Ott Lynn,Female,16-01-1999,Berchtesgaden,GER,United States Of America,World Championships,Halfpipe,15,160.00
-519,Ott Lynn,Female,15-01-1999,Berchtesgaden,GER,United States Of America,World Championships,Parallel Slalom,42,9.00
-520,Ott Lynn,Female,14-01-1999,Berchtesgaden,GER,United States Of America,World Championships,Parallel GS,28,40.00
-521,Ott Lynn,Female,12-01-1999,Berchtesgaden,GER,United States Of America,World Championships,Giant Slalom,22,90.00
-522,Ott Lynn,Female,06-01-1999,Morzine,FRA,United States Of America,World Cup,Parallel GS,33,24.00
-523,Ott Lynn,Female,05-01-1999,Morzine,FRA,United States Of America,World Cup,Parallel Slalom,39,12.00
-524,Ott Lynn,Female,17-12-1998,"Mt. Bachelor, OR",USA,United States Of America,Continental Cup,Giant Slalom,10,130.00
-525,Ott Lynn,Female,15-12-1998,"Mt. Bachelor, OR",USA,United States Of America,World Cup,Super G,12,220.00
-526,Ott Lynn,Female,13-12-1998,"Whistler, BC",CAN,United States Of America,World Cup,Snowboardcross,22,90.00
-527,Ott Lynn,Female,10-12-1998,"Whistler, BC",CAN,United States Of America,World Cup,Super G,11,240.00
-528,Ott Lynn,Female,04-12-1998,Ischgl,AUT,United States Of America,World Cup,Parallel Slalom,38,14.00
-529,Ott Lynn,Female,29-11-1998,Sestriere,ITA,United States Of America,World Cup,Giant Slalom,21,100.00
-530,Ott Lynn,Female,28-11-1998,Sestriere,ITA,United States Of America,World Cup,Parallel Slalom,52,0.00
-531,Ott Lynn,Female,20-11-1998,Tandadalen,SWE,United States Of America,World Cup,Parallel GS,22,90.00
-532,Ott Lynn,Female,14-11-1998,Zell am See/Kaprun,AUT,United States Of America,World Cup,Giant Slalom,24,70.00
-533,Ott Lynn,Female,13-11-1998,Zell am See/Kaprun,AUT,United States Of America,World Cup,Parallel Slalom,27,45.00
-534,Ott Lynn,Female,28-03-1998,Sunday River,USA,United States Of America,National Championships,Halfpipe,14,47.00
-535,Ott Lynn,Female,27-03-1998,Sunday River,USA,United States Of America,National Championships,Slalom,5,117.00
-536,Ott Lynn,Female,26-03-1998,"Sunday Rive,",USA,United States Of America,National Championships,Giant Slalom,3,156.00
-537,Ott Lynn,Female,14-03-1998,Mt. Snow,USA,United States Of America,FIS,Snowboardcross,4,60.00
-538,Ott Lynn,Female,13-03-1998,Mount Snow,USA,United States Of America,FIS,Giant Slalom,5,117.00
-539,Ott Lynn,Female,01-03-1998,Bear Mt.,USA,United States Of America,FIS,Snowboardcross,1,100.00
-540,Ott Lynn,Female,26-02-1998,Bear Mt.,USA,United States Of America,FIS,Giant Slalom,4,130.00
-541,Ott Lynn,Female,22-02-1998,Northstar at Tahoe,USA,United States Of America,FIS,Half Pipe,31,7.00
-542,Ott Lynn,Female,31-01-1998,Mammoth Mtn.,USA,United States Of America,Continental Cup,Giant Slalom,10,130.00
-543,Ott Lynn,Female,24-01-1998,Mt. Bachelor,USA,United States Of America,Continental Cup,Giant Slalom,10,130.00
-544,Ott Lynn,Female,11-01-1998,Winter Park,USA,United States Of America,FIS,Half Pipe,19,31.00
-545,Ott Lynn,Female,10-01-1998,Winter Park,USA,United States Of America,FIS,Giant Slalom,2,208.00
-546,Ott Lynn,Female,20-12-1997,Sugarloaf,USA,United States Of America,Continental Cup,Half Pipe,29,18.00
-547,Ott Lynn,Female,18-12-1997,Sugarloaf,USA,United States Of America,Continental Cup,Giant Slalom,15,80.00
-548,Ott Lynn,Female,12-12-1997,"Whistler, BC",CAN,United States Of America,World Cup,Giant Slalom,45,6.00
-549,Ott Lynn,Female,11-12-1997,"Whistler, BC",CAN,United States Of America,World Cup,Super G,18,130.00
-550,Ott Lynn,Female,30-11-1997,Soelden,AUT,United States Of America,World Cup,Parallel Slalom,29,36.00
-551,Ott Lynn,Female,29-11-1997,Soeden,AUT,United States Of America,World Cup,Giant Slalom,84,0.00
-552,Ott Lynn,Female,22-11-1997,Zell am See/Kaprun,AUT,United States Of America,World Cup,Giant Slalom,45,6.00
-553,Ott Lynn,Female,20-11-1997,Zell am See/Kaprun,AUT,United States Of America,World Cup,Parallel Slalom,25,60.00
-554,Ott Lynn,Female,13-11-1997,Tignes,FRA,United States Of America,World Cup,Giant Slalom,35,20.00
-555,Ott Lynn,Female,09-03-1997,Bardonecchia,ITA,United States Of America,World Cup,Parallel Slalom,34,22.00
-556,Ott Lynn,Female,08-03-1997,Bardonecchia,ITA,United States Of America,World Cup,Giant Slalom,18,130.00
-557,Ott Lynn,Female,05-03-1997,Graechen,SUI,United States Of America,World Cup,Snowboardcross,4,500.00
-558,Ott Lynn,Female,02-03-1997,Olang,ITA,United States Of America,World Cup,Half Pipe,18,130.00
-559,Ott Lynn,Female,01-03-1997,Olang,ITA,United States Of America,World Cup,Slalom,16,150.00
-560,Ott Lynn,Female,28-02-1997,Olang,ITA,United States Of America,World Cup,Giant Slalom,21,100.00
-561,Ott Lynn,Female,20-02-1997,Morioka-Shizukuishi,JPN,United States Of America,World Cup,Parallel Slalom,15,160.00
-562,Ott Lynn,Female,19-02-1997,Morioka-Shizukuishi,JPN,United States Of America,World Cup,Snowboardcross,6,400.00
-563,Ott Lynn,Female,16-02-1997,Kanbayashi,JPN,United States Of America,World Cup,Half Pipe,23,80.00
-564,Ott Lynn,Female,15-02-1997,Yakebitaiyama,JPN,United States Of America,World Cup,Giant Slalom,35,20.00
-565,Ott Lynn,Female,14-02-1997,Yakebitaiyama,JPN,United States Of America,World Cup,Giant Slalom,37,16.00
-566,Ott Lynn,Female,09-02-1997,"Mt. Bachelor, OR",USA,United States Of America,World Cup,Snowboardcross,5,450.00
-567,Ott Lynn,Female,08-02-1997,"Mt. Bachelor, OR",USA,United States Of America,World Cup,Halfpipe,26,50.00
-568,Ott Lynn,Female,07-02-1997,"Mt. Bachelor, OR",USA,United States Of America,World Cup,Giant Slalom,14,180.00
-569,Ott Lynn,Female,02-02-1997,"Mt. St. Anne, QC",CAN,United States Of America,World Cup,Halfpipe,18,130.00
-570,Ott Lynn,Female,01-02-1997,"Mt. St. Anne, QC",CAN,United States Of America,World Cup,Giant Slalom,41,10.00
-571,Ott Lynn,Female,31-01-1997,"Mt. St. Anne, QC",CAN,United States Of America,World Cup,Slalom,18,130.00
-572,Ott Lynn,Female,26-01-1997,San Candido,ITA,United States Of America,World Championships,Snowboardcross,14,180.00
-573,Ott Lynn,Female,21-01-1997,San Candido,ITA,United States Of America,World Championships,Giant Slalom,24,70.00
-574,Ott Lynn,Female,19-01-1997,Kreischberg,AUT,United States Of America,World Cup,Half Pipe,20,110.00
-575,Ott Lynn,Female,18-01-1997,Kreischberg,AUT,United States Of America,World Cup,Parallel Slalom,15,160.00
-576,Ott Lynn,Female,17-01-1997,Kreischberg,AUT,United States Of America,World Cup,Snowboardcross,10,260.00
-577,Ott Lynn,Female,12-01-1997,Lenggries,GER,United States Of America,World Cup,Slalom,16,150.00
-578,Ott Lynn,Female,11-01-1997,Lenggries,GER,United States Of America,World Cup,Giant Slalom,35,20.00
-579,Ott Lynn,Female,05-01-1997,"Snowmass, Aspen",USA,United States Of America,Continental Cup,Half Pipe,26,25.00
-580,Ott Lynn,Female,04-01-1997,"Snowmass, Aspen",USA,United States Of America,Continental Cup,Giant Slalom,9,145.00
-581,Ott Lynn,Female,22-12-1996,Sugarloaf,USA,United States Of America,Continental Cup,Giant Slalom,10,130.00
-582,Ott Lynn,Female,21-12-1996,Sugarloaf,USA,United States Of America,Continental Cup,Half Pipe,25,30.00
-583,Ott Lynn,Female,18-12-1996,"Sun Peaks, BC",CAN,United States Of America,World Cup,Giant Slalom,18,130.00
-584,Ott Lynn,Female,17-12-1996,"Sun Peaks, BC",CAN,United States Of America,World Cup,Snowboardcross,16,150.00
-585,Ott Lynn,Female,15-12-1996,"Whistler, BC",CAN,United States Of America,World Cup,Halfpipe,21,100.00
-586,Ott Lynn,Female,14-12-1996,"Whistler, BC",CAN,United States Of America,World Cup,Halfpipe,28,40.00
-587,Ott Lynn,Female,13-12-1996,"Whistler, BC",CAN,United States Of America,World Cup,Giant Slalom,16,150.00
-588,Ott Lynn,Female,12-12-1996,"Whistler, BC",CAN,United States Of America,World Cup,Super G,21,100.00
-589,Ott Lynn,Female,07-12-1996,Sestriere,ITA,United States Of America,World Cup,Slalom,30,32.00
-590,Ott Lynn,Female,06-12-1996,Sestriere,ITA,United States Of America,World Cup,Giant Slalom,16,150.00
-591,Ott Lynn,Female,29-11-1996,Tignes,FRA,United States Of America,World Cup,Giant Slalom,14,180.00
-592,Ott Lynn,Female,28-11-1996,Tignes,FRA,United States Of America,World Cup,Parallel Slalom,15,160.00
-593,Ott Lynn,Female,23-11-1996,Zell am See/Kaprun,AUT,United States Of America,World Cup,Snowboardcross,3,600.00
-594,Ott Lynn,Female,29-03-1996,Mammoth Mountain,USA,United States Of America,FIS,Half Pipe,9,120.00
-595,Ott Lynn,Female,28-03-1996,Mammoth Mountain,USA,United States Of America,FIS,Giant Slalom,3,200.00
-596,Ott Lynn,Female,17-03-1996,"Mt. Bachelor, OR",USA,United States Of America,World Cup,Halfpipe,9,290.00
-597,Ott Lynn,Female,16-03-1996,"Mt. Bachelor, OR",USA,United States Of America,World Cup,Parallel Slalom,16,150.00
-598,Ott Lynn,Female,15-03-1996,"Mt. Bachelor, OR",USA,United States Of America,World Cup,Slalom,9,290.00
-599,Ott Lynn,Female,14-03-1996,"Mt. Bachelor, OR",USA,United States Of America,World Cup,Giant Slalom,14,180.00
-600,Ott Lynn,Female,10-03-1996,"Alpine Meadows, CA",USA,United States Of America,World Cup,Giant Slalom,10,260.00
-601,Ott Lynn,Female,09-03-1996,"Boreal Ridge, CA",USA,United States Of America,World Cup,Halfpipe,8,320.00
-602,Ott Lynn,Female,09-03-1996,"Boreal Ridge, CA",USA,United States Of America,World Cup,Slalom,12,220.00
-603,Ott Lynn,Female,03-03-1996,Sun Peaks,CAN,United States Of America,World Cup,Half Pipe,9,290.00
-604,Ott Lynn,Female,02-03-1996,Sun Peaks,CAN,United States Of America,World Cup,Parallel Slalom,13,200.00
-605,Ott Lynn,Female,01-03-1996,Sun Peaks,CAN,United States Of America,World Cup,Giant Slalom,7,360.00
-606,Ott Lynn,Female,25-02-1996,"Calgary, AB",CAN,United States Of America,World Cup,Halfpipe,7,360.00
-607,Ott Lynn,Female,24-02-1996,"Calgary, AB",CAN,United States Of America,World Cup,Parallel Slalom,20,110.00
-608,Ott Lynn,Female,17-02-1996,Kanbayashi,JPN,United States Of America,World Cup,Half Pipe,6,400.00
-609,Ott Lynn,Female,16-02-1996,Yomase,JPN,United States Of America,World Cup,Giant Slalom,9,290.00
-610,Ott Lynn,Female,12-02-1996,Kanbayashi,JPN,United States Of America,World Cup,Half Pipe,7,360.00
-611,Ott Lynn,Female,11-02-1996,Kanbayashi,JPN,United States Of America,World Cup,Slalom,12,220.00
-612,Ott Lynn,Female,10-02-1996,Kanbayashi,JPN,United States Of America,World Cup,Giant Slalom,4,500.00
-613,Ott Lynn,Female,04-02-1996,Hindelang-Oberjoch,GER,United States Of America,World Cup,Giant Slalom,11,240.00
-614,Ott Lynn,Female,03-02-1996,Hindelang-Oberjoch,GER,United States Of America,World Cup,Parallel Slalom,12,220.00
-615,Ott Lynn,Female,28-01-1996,Lienz,AUT,United States Of America,World Championships,Parallel Slalom,19,120.00
-616,Ott Lynn,Female,26-01-1996,Lienz,AUT,United States Of America,World Championships,Giant Slalom,17,140.00
-617,Ott Lynn,Female,24-01-1996,Lienz,AUT,United States Of America,World Championships,Halfpipe,6,400.00
-618,Ott Lynn,Female,21-01-1996,San Candido,ITA,United States Of America,World Cup,Parallel Slalom,17,140.00
-619,Ott Lynn,Female,20-01-1996,San Candido,ITA,United States Of America,World Cup,Slalom,17,140.00
-620,Ott Lynn,Female,19-01-1996,San Candido,ITA,United States Of America,World Cup,Half Pipe,9,290.00
-621,Ott Lynn,Female,18-01-1996,San Candido,ITA,United States Of America,World Cup,Half Pipe,8,320.00
-622,Ott Lynn,Female,13-01-1996,La Bresse,FRA,United States Of America,World Cup,Parallel Slalom,18,130.00
-623,Ott Lynn,Female,12-01-1996,La Bresse,FRA,United States Of America,World Cup,Giant Slalom,14,180.00
-624,Ott Lynn,Female,10-12-1995,Bardonecchia,ITA,United States Of America,World Cup,Giant Slalom,16,150.00
-625,Ott Lynn,Female,09-12-1995,Bardonecchia,ITA,United States Of America,World Cup,Slalom,22,90.00
-626,Ott Lynn,Female,08-12-1995,Sestriere,ITA,United States Of America,World Cup,Parallel Slalom,16,150.00
-627,Ott Lynn,Female,03-12-1995,Altenmarkt-Zauchensee,AUT,United States Of America,World Cup,Parallel Slalom,24,70.00
-628,Ott Lynn,Female,02-12-1995,Altenmarkt-Zauchensee,AUT,United States Of America,World Cup,Slalom,24,70.00
-629,Ott Lynn,Female,01-12-1995,Altenmarkt-Zauchensee,AUT,United States Of America,World Cup,Giant Slalom,15,160.00
-630,Ott Lynn,Female,22-11-1995,Zell am See/Kaprun,AUT,United States Of America,World Cup,Giant Slalom,23,80.00
-631,Ott Lynn,Female,21-11-1995,Zell am See/Kaprun,AUT,United States Of America,World Cup,Giant Slalom,13,200.00
-632,Ott Lynn,Female,17-11-1995,Kaprun,AUT,United States Of America,FIS,Parallel Slalom,18,130.00
-633,Ott Lynn,Female,31-03-1995,Sugarloaf,USA,United States Of America,FIS,Slalom,5,110.00
-634,Ott Lynn,Female,30-03-1995,Sugarloaf,USA,United States Of America,FIS,Half Pipe,13,40.00
-635,Ott Lynn,Female,29-03-1995,Sugarloaf,USA,United States Of America,FIS,Giant Slalom,3,130.00
-636,Ott Lynn,Female,05-03-1995,"Sun Valley, ID",USA,United States Of America,FIS,Giant Slalom,3,130.00
-637,Ott Lynn,Female,04-03-1995,"Sun Valley, ID",USA,United States Of America,FIS,Slalom,4,120.00
-638,Ott Lynn,Female,10-02-1995,"Mt Bachelor, OR",USA,United States Of America,World Cup,Halfpipe,4,500.00
-639,Ott Lynn,Female,09-02-1995,"Mt Bachelor, OR",USA,United States Of America,World Cup,Slalom,14,180.00
-640,Ott Lynn,Female,08-02-1995,"Mt Bachelor, OR",USA,United States Of America,World Cup,Giant Slalom,16,150.00
+0,Ott Lynn,Female,06-04-2025,Cortina d Ampezzo,ITA,United States Of America,National Championships,Parallel Giant Slalom,16,43.50
+1,Ott Lynn,Female,05-04-2025,Cortina d Ampezzo,ITA,United States Of America,National Championships,Parallel Slalom,DNS,
+2,Ott Lynn,Female,01-04-2025,"Copper Mountain, CO",USA,United States Of America,National Championships,Parallel Slalom,9,37.70
+3,Ott Lynn,Female,31-03-2025,"Copper Mountain, CO",USA,United States Of America,National Championships,Parallel Giant Slalom,6,52.00
+4,Ott Lynn,Female,25-02-2025,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,6,64.00
+5,Ott Lynn,Female,24-02-2025,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,9,46.40
+6,Ott Lynn,Female,20-02-2025,Val Saint Come,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,4,80.00
+7,Ott Lynn,Female,19-02-2025,Val Saint Come,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,7,57.60
+8,Ott Lynn,Female,06-02-2025,Toronto Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,11,69.60
+9,Ott Lynn,Female,05-02-2025,Toronto Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,9,84.10
+10,Ott Lynn,Female,17-01-2025,Afton Alps Ski Area,USA,United States Of America,Nor-Am Cup,Parallel Slalom,3,96.00
+11,Ott Lynn,Female,17-01-2025,Afton Alps Ski Area,USA,United States Of America,FIS,Parallel Slalom,6,20.00
+12,Ott Lynn,Female,16-01-2025,Afton Alps Ski Area,USA,United States Of America,Nor-Am Cup,Parallel Slalom,6,64.00
+13,Ott Lynn,Female,10-01-2025,"Howelsen Hill - Steamboat, CO",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,6,64.00
+14,Ott Lynn,Female,09-01-2025,"Howelsen Hill - Steamboat, CO",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,7,57.60
+15,Ott Lynn,Female,08-01-2025,"Howelsen Hill - Steamboat, CO",USA,United States Of America,FIS,Giant Slalom,4,35.00
+16,Ott Lynn,Female,04-01-2025,Val Saint Come,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,6,72.00
+17,Ott Lynn,Female,03-01-2025,Val Saint Come,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,6,72.00
+18,Ott Lynn,Female,12-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Slalom,16,24.00
+19,Ott Lynn,Female,11-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,9,46.40
+20,Ott Lynn,Female,10-01-2024,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,FIS,Giant Slalom,4,50.00
+21,Ott Lynn,Female,05-01-2024,Afton Alps Ski Area,USA,United States Of America,Nor-Am Cup,Parallel Slalom,9,46.40
+22,Ott Lynn,Female,05-01-2024,Afton Alps Ski Area,USA,United States Of America,FIS,Parallel Slalom,DNS,
+23,Ott Lynn,Female,04-01-2024,Afton Alps Ski Area,USA,United States Of America,Nor-Am Cup,Parallel Slalom,DNF,
+24,Ott Lynn,Female,04-04-2023,Copper Mountain Resort,USA,United States Of America,National Championships,Parallel Slalom,7,54.00
+25,Ott Lynn,Female,03-04-2023,Copper Mountain Resort,USA,United States Of America,National Championships,Parallel Giant Slalom,9,43.50
+26,Ott Lynn,Female,19-03-2023,Ratschings,ITA,United States Of America,European Cup,Parallel Slalom,37,5.04
+27,Ott Lynn,Female,18-03-2023,Berchtesgaden,GER,United States Of America,Qualification,Parallel Slalom,28,
+28,Ott Lynn,Female,18-03-2023,Berchtesgaden,GER,United States Of America,World Cup,Parallel Slalom,28,40.00
+29,Ott Lynn,Female,18-03-2023,Ratschings,ITA,United States Of America,European Cup,Parallel Slalom,DNS,
+30,Ott Lynn,Female,15-03-2023,Rogla,SLO,United States Of America,World Cup,Parallel Giant Slalom,38,19.10
+31,Ott Lynn,Female,15-03-2023,Rogla,SLO,United States Of America,Qualification,Parallel Giant Slalom,38,
+32,Ott Lynn,Female,11-03-2023,Horseshoe Resort,CAN,United States Of America,FIS,Parallel Giant Slalom,5,45.00
+33,Ott Lynn,Female,10-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,8,51.20
+34,Ott Lynn,Female,10-03-2023,Horseshoe Resort,CAN,United States Of America,FIS,Parallel Slalom,8,32.00
+35,Ott Lynn,Female,09-03-2023,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,4,80.00
+36,Ott Lynn,Female,28-02-2023,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,4,80.00
+37,Ott Lynn,Female,27-02-2023,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,4,80.00
+38,Ott Lynn,Female,19-02-2023,Giants Ridge Recreation Area,USA,United States Of America,Nor-Am Cup,Parallel Slalom,2,128.00
+39,Ott Lynn,Female,18-02-2023,Giants Ridge Recreation Area,USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,6,64.00
+40,Ott Lynn,Female,09-02-2023,Tremblant.QC,CAN,United States Of America,FIS,Parallel Giant Slalom,7,46.80
+41,Ott Lynn,Female,08-02-2023,Tremblant.QC,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,6,64.00
+42,Ott Lynn,Female,07-02-2023,Tremblant.QC,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,DNF,
+43,Ott Lynn,Female,31-01-2023,Blue,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,13,52.00
+44,Ott Lynn,Female,30-01-2023,Blue,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,7,93.60
+45,Ott Lynn,Female,27-01-2023,Blue Mountain,CAN,United States Of America,Qualification,Parallel Giant Slalom,22,
+46,Ott Lynn,Female,27-01-2023,Blue Mountain,CAN,United States Of America,World Cup,Parallel Giant Slalom,22,90.00
+47,Ott Lynn,Female,26-01-2023,Blue Mountain,CAN,United States Of America,Qualification,Parallel Giant Slalom,27,
+48,Ott Lynn,Female,26-01-2023,Blue Mountain,CAN,United States Of America,World Cup,Parallel Giant Slalom,27,
+49,Ott Lynn,Female,14-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,FIS,Parallel Giant Slalom,4,55.00
+50,Ott Lynn,Female,13-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Slalom,14,28.80
+51,Ott Lynn,Female,12-01-2023,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,6,64.00
+52,Ott Lynn,Female,18-12-2022,Hochfügen,GER,United States Of America,European Cup,Parallel Giant Slalom,24,14.00
+53,Ott Lynn,Female,18-12-2022,Hochfügen,GER,United States Of America,Qualification,Parallel Giant Slalom,24,
+54,Ott Lynn,Female,17-12-2022,Hochfügen,GER,United States Of America,European Cup,Parallel Giant Slalom,24,14.00
+55,Ott Lynn,Female,06-04-2022,Copper Mountain Resort,USA,United States Of America,National Championships,Parallel Slalom,10,52.00
+56,Ott Lynn,Female,04-04-2022,Copper Mountain Resort,USA,United States Of America,National Championships,Parallel Giant Slalom,8,64.00
+57,Ott Lynn,Female,01-03-2022,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,6,64.00
+58,Ott Lynn,Female,28-02-2022,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,14,32.40
+59,Ott Lynn,Female,25-02-2022,Alpine Ski Club,CAN,United States Of America,FIS,Parallel Giant Slalom,4,50.00
+60,Ott Lynn,Female,24-02-2022,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,DSQ,
+61,Ott Lynn,Female,23-02-2022,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,10,41.60
+62,Ott Lynn,Female,15-02-2022,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,8,83.20
+63,Ott Lynn,Female,14-02-2022,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,16,39.00
+64,Ott Lynn,Female,10-02-2022,Tremblant.QC,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,5,72.00
+65,Ott Lynn,Female,09-02-2022,Tremblant.QC,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,4,80.00
+66,Ott Lynn,Female,04-02-2022,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Slalom,12,35.20
+67,Ott Lynn,Female,03-02-2022,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,10,41.60
+68,Ott Lynn,Female,22-01-2022,Giants Ridge,USA,United States Of America,Nor-Am Cup,Parallel Slalom,11,38.40
+69,Ott Lynn,Female,22-01-2022,Giants Ridge,USA,United States Of America,FIS,Parallel Slalom,DNS,
+70,Ott Lynn,Female,21-01-2022,Giants Ridge,USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,DSQ,
+71,Ott Lynn,Female,15-01-2022,Simonhöhe,AUT,United States Of America,World Cup,Parallel Giant Slalom Team,23,
+72,Ott Lynn,Female,14-01-2022,Simonhöhe,AUT,United States Of America,World Cup,Parallel Giant Slalom,51,
+73,Ott Lynn,Female,14-01-2022,Simonhöhe,AUT,United States Of America,Qualification,Parallel Giant Slalom,51,
+74,Ott Lynn,Female,11-01-2022,Bad Gastein,AUT,United States Of America,Qualification,Parallel Slalom,DNF,
+75,Ott Lynn,Female,11-01-2022,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom,DNF,
+76,Ott Lynn,Female,08-01-2022,Scuol,SUI,United States Of America,Qualification,Parallel Giant Slalom,DNF,
+77,Ott Lynn,Female,08-01-2022,Scuol,SUI,United States Of America,World Cup,Parallel Giant Slalom,DNF,
+78,Ott Lynn,Female,18-12-2021,Cortina d Ampezzo,ITA,United States Of America,Qualification,Parallel Giant Slalom,50,
+79,Ott Lynn,Female,18-12-2021,Cortina d Ampezzo,ITA,United States Of America,World Cup,Parallel Giant Slalom,50,
+80,Ott Lynn,Female,16-12-2021,Carezza,ITA,United States Of America,Qualification,Parallel Giant Slalom,53,
+81,Ott Lynn,Female,16-12-2021,Carezza,ITA,United States Of America,World Cup,Parallel Giant Slalom,53,
+82,Ott Lynn,Female,12-12-2021,Bannoye,RUS,United States Of America,Qualification,Parallel Slalom,DNF,
+83,Ott Lynn,Female,12-12-2021,Bannoye,RUS,United States Of America,World Cup,Parallel Slalom,DNF,
+84,Ott Lynn,Female,11-12-2021,Bannoye,RUS,United States Of America,Qualification,Parallel Giant Slalom,54,
+85,Ott Lynn,Female,11-12-2021,Bannoye,RUS,United States Of America,World Cup,Parallel Giant Slalom,54,
+86,Ott Lynn,Female,31-03-2021,Villnöss,ITA,United States Of America,National Championships,Parallel Giant Slalom,10,75.40
+87,Ott Lynn,Female,30-03-2021,Villnöss,ITA,United States Of America,National Championships,Parallel Slalom,8,92.80
+88,Ott Lynn,Female,28-03-2021,Villnöss - Funes,ITA,United States Of America,FIS,Parallel Slalom,20,24.20
+89,Ott Lynn,Female,27-03-2021,Villnöss - Funes,ITA,United States Of America,FIS,Parallel Giant Slalom,13,44.00
+90,Ott Lynn,Female,13-03-2021,Davos Rinerhorn,SUI,United States Of America,European Cup,Parallel Giant Slalom,32,9.36
+91,Ott Lynn,Female,09-03-2021,SUCHE/Zakopane,POL,United States Of America,National Championships,Parallel Slalom,17,36.40
+92,Ott Lynn,Female,08-03-2021,SUCHE/Zakopane,POL,United States Of America,National Championships,Parallel Giant Slalom,29,9.36
+93,Ott Lynn,Female,28-02-2021,Funes/Villnoesses,ITA,United States Of America,European Cup,Parallel Giant Slalom,20,19.80
+94,Ott Lynn,Female,27-02-2021,Funes/Villnoesses,ITA,United States Of America,European Cup,Parallel Giant Slalom,22,19.80
+95,Ott Lynn,Female,13-02-2021,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,FIS,Parallel Slalom,6,28.00
+96,Ott Lynn,Female,12-02-2021,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,FIS,Parallel Giant Slalom,7,25.20
+97,Ott Lynn,Female,11-02-2021,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,FIS,Parallel Giant Slalom,6,28.00
+98,Ott Lynn,Female,07-02-2021,Bannoye,RUS,United States Of America,Qualification,Parallel Slalom,38,
+99,Ott Lynn,Female,07-02-2021,Bannoye,RUS,United States Of America,World Cup,Parallel Slalom,38,
+100,Ott Lynn,Female,06-02-2021,Bannoye,RUS,United States Of America,Qualification,Parallel Giant Slalom,40,
+101,Ott Lynn,Female,06-02-2021,Bannoye,RUS,United States Of America,World Cup,Parallel Giant Slalom,40,
+102,Ott Lynn,Female,26-01-2021,Bukovel,UKR,United States Of America,National Championships,Parallel Slalom,11,43.20
+103,Ott Lynn,Female,25-01-2021,Bukovel,UKR,United States Of America,National Championships,Parallel Giant Slalom,7,64.80
+104,Ott Lynn,Female,12-01-2021,Bad Gastein,AUT,United States Of America,Qualification,Parallel Slalom,46,
+105,Ott Lynn,Female,12-01-2021,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom,46,
+106,Ott Lynn,Female,09-01-2021,Scuol,SUI,United States Of America,Qualification,Parallel Giant Slalom,43,
+107,Ott Lynn,Female,09-01-2021,Scuol,SUI,United States Of America,World Cup,Parallel Giant Slalom,43,17.60
+108,Ott Lynn,Female,12-12-2020,Cortina d Ampezzo,ITA,United States Of America,Qualification,Parallel Giant Slalom,40,
+109,Ott Lynn,Female,12-12-2020,Cortina d Ampezzo,ITA,United States Of America,World Cup,Parallel Giant Slalom,40,
+110,Ott Lynn,Female,03-03-2020,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,20,39.60
+111,Ott Lynn,Female,02-03-2020,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,16,54.00
+112,Ott Lynn,Female,01-03-2020,Blue Mountain,CAN,United States Of America,World Cup,Parallel Giant Slalom,37,
+113,Ott Lynn,Female,01-03-2020,Blue Mountain,CAN,United States Of America,Qualification,Parallel Giant Slalom,37,
+114,Ott Lynn,Female,29-02-2020,Blue Mountain,CAN,United States Of America,World Cup,Parallel Giant Slalom,38,
+115,Ott Lynn,Female,29-02-2020,Blue Mountain,CAN,United States Of America,Qualification,Parallel Giant Slalom,38,
+116,Ott Lynn,Female,09-02-2020,Alpine Ski Club,CAN,United States Of America,FIS,Parallel Slalom,DNF,
+117,Ott Lynn,Female,08-02-2020,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,12,35.20
+118,Ott Lynn,Female,07-02-2020,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,13,32.00
+119,Ott Lynn,Female,04-02-2020,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,11,38.40
+120,Ott Lynn,Female,03-02-2020,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,9,46.40
+121,Ott Lynn,Female,25-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,FIS,Parallel Giant Slalom,14,21.60
+122,Ott Lynn,Female,24-01-2020,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Slalom,14,28.80
+123,Ott Lynn,Female,23-01-2020,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,10,41.60
+124,Ott Lynn,Female,10-01-2020,Tremblant.QC,CAN,United States Of America,FIS,Parallel Giant Slalom,7,43.20
+125,Ott Lynn,Female,22-12-2019,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,14,28.80
+126,Ott Lynn,Female,21-12-2019,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,8,51.20
+127,Ott Lynn,Female,20-12-2019,"Buck Hill, MN",USA,United States Of America,FIS,Parallel Slalom,9,34.80
+128,Ott Lynn,Female,02-04-2019,"Copper Mountain, CO",USA,United States Of America,National Championships,Parallel Slalom,4,35.00
+129,Ott Lynn,Female,01-04-2019,"Copper Mountain, CO",USA,United States Of America,National Championships,Parallel Giant Slalom,1,70.00
+130,Ott Lynn,Female,05-03-2019,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,19,19.20
+131,Ott Lynn,Female,04-03-2019,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,6,64.00
+132,Ott Lynn,Female,01-03-2019,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,8,51.20
+133,Ott Lynn,Female,28-02-2019,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,7,57.60
+134,Ott Lynn,Female,10-02-2019,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,5,72.00
+135,Ott Lynn,Female,09-02-2019,Alpine Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,2,128.00
+136,Ott Lynn,Female,05-02-2019,Park City,USA,United States Of America,World Championships,Parallel Slalom,35,20.00
+137,Ott Lynn,Female,04-02-2019,Park City,USA,United States Of America,World Championships,Parallel Giant Slalom,35,
+138,Ott Lynn,Female,04-01-2019,"Le Relais, QC",CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,1,160.00
+139,Ott Lynn,Female,03-01-2019,"Le Relais, QC",CAN,United States Of America,Nor-Am Cup,Parallel Giant Slalom,2,128.00
+140,Ott Lynn,Female,16-12-2018,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,8,51.20
+141,Ott Lynn,Female,15-12-2018,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,9,46.40
+142,Ott Lynn,Female,14-12-2018,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,5,72.00
+143,Ott Lynn,Female,09-12-2018,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Slalom,6,64.00
+144,Ott Lynn,Female,08-12-2018,Steamboat Ski and Resort / Howelsen Hill,USA,United States Of America,Nor-Am Cup,Parallel Giant Slalom,4,80.00
+145,Ott Lynn,Female,03-04-2018,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Parallel Slalom,11,62.40
+146,Ott Lynn,Female,02-04-2018,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Parallel GS,7,93.60
+147,Ott Lynn,Female,10-03-2018,Scuol,SUI,United States Of America,World Cup,Parallel GS,34,22.00
+148,Ott Lynn,Female,10-03-2018,Scuol,SUI,United States Of America,Qualification,Parallel GS,34,
+149,Ott Lynn,Female,21-02-2018,Toronto Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,6,72.00
+150,Ott Lynn,Female,20-02-2018,Toronto Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,7,64.80
+151,Ott Lynn,Female,06-02-2018,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,6,72.00
+152,Ott Lynn,Female,05-02-2018,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel GS,5,81.00
+153,Ott Lynn,Female,02-02-2018,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,9,52.20
+154,Ott Lynn,Female,01-02-2018,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,7,64.80
+155,Ott Lynn,Female,21-01-2018,Rogla,SLO,United States Of America,World Cup,Parallel GS,41,18.20
+156,Ott Lynn,Female,21-01-2018,Rogla,SLO,United States Of America,Qualification,Parallel GS,41,
+157,Ott Lynn,Female,20-01-2018,Rogla,SLO,United States Of America,World Cup,Parallel GS,45,17.00
+158,Ott Lynn,Female,20-01-2018,Rogla,SLO,United States Of America,Qualification,Parallel GS,45,
+159,Ott Lynn,Female,05-01-2018,Lackenhof,AUT,United States Of America,World Cup,Parallel GS,46,
+160,Ott Lynn,Female,05-01-2018,Lackenhof,AUT,United States Of America,Qualification,Parallel GS,46,
+161,Ott Lynn,Female,16-12-2017,Cortina d'Ampezzo,ITA,United States Of America,World Cup,Parallel Slalom,50,
+162,Ott Lynn,Female,16-12-2017,Cortina d'Ampezzo,ITA,United States Of America,Qualification,Parallel Slalom,50,
+163,Ott Lynn,Female,15-12-2017,Cortina d'Ampezzo,ITA,United States Of America,World Cup,Parallel GS,54,
+164,Ott Lynn,Female,15-12-2017,Cortina d'Ampezzo,ITA,United States Of America,Qualification,Parallel GS,54,
+165,Ott Lynn,Female,14-12-2017,Carezza,ITA,United States Of America,World Cup,Parallel GS,49,15.80
+166,Ott Lynn,Female,14-12-2017,Carezza,ITA,United States Of America,Qualification,Parallel GS,49,
+167,Ott Lynn,Female,10-12-2017,Hochfügen,GER,United States Of America,European Cup,Parallel GS,35,7.20
+168,Ott Lynn,Female,09-12-2017,Hochfügen,GER,United States Of America,European Cup,Parallel GS,29,12.96
+169,Ott Lynn,Female,06-04-2017,Tremblant.QC,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,14,36.00
+170,Ott Lynn,Female,04-04-2017,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Parallel Slalom,11,69.60
+171,Ott Lynn,Female,03-04-2017,Copper Mountain Resort,USA,United States Of America,Nor-Am Cup,Parallel GS,12,63.80
+172,Ott Lynn,Female,15-02-2017,Toronto Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel GS,9,46.40
+173,Ott Lynn,Female,14-02-2017,Toronto Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel GS,4,80.00
+174,Ott Lynn,Female,10-02-2017,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,5,72.00
+175,Ott Lynn,Female,09-02-2017,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,3,96.00
+176,Ott Lynn,Female,15-01-2017,Steamboat Springs,USA,United States Of America,Nor-Am Cup,Parallel Slalom,7,64.80
+177,Ott Lynn,Female,14-01-2017,Steamboat Springs,USA,United States Of America,Nor-Am Cup,Parallel GS,3,108.00
+178,Ott Lynn,Female,05-01-2017,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,9,52.20
+179,Ott Lynn,Female,04-01-2017,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,8,57.60
+180,Ott Lynn,Female,18-12-2016,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,5,72.00
+181,Ott Lynn,Female,17-12-2016,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,6,64.00
+182,Ott Lynn,Female,16-12-2016,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,4,80.00
+183,Ott Lynn,Female,05-04-2016,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,12,44.00
+184,Ott Lynn,Female,04-04-2016,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,3,120.00
+185,Ott Lynn,Female,22-03-2016,Ski Chantecler,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,18,26.00
+186,Ott Lynn,Female,21-03-2016,Ski Chantecler,CAN,United States Of America,Nor-Am Cup,Parallel GS,10,52.00
+187,Ott Lynn,Female,28-02-2016,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,12,44.00
+188,Ott Lynn,Female,27-02-2016,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,18,26.00
+189,Ott Lynn,Female,23-02-2016,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,6,80.00
+190,Ott Lynn,Female,22-02-2016,"Holiday Valley Resort, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,3,120.00
+191,Ott Lynn,Female,18-02-2016,Toronto Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel GS,9,58.00
+192,Ott Lynn,Female,17-02-2016,Toronto Ski Club,CAN,United States Of America,Nor-Am Cup,Parallel GS,7,72.00
+193,Ott Lynn,Female,17-01-2016,"Howelsen Hill, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,12,44.00
+194,Ott Lynn,Female,16-01-2016,"Howelsen Hill, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,7,72.00
+195,Ott Lynn,Female,20-12-2015,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,10,52.00
+196,Ott Lynn,Female,19-12-2015,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,8,64.00
+197,Ott Lynn,Female,19-11-2015,"Echo Mountain, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,12,110.00
+198,Ott Lynn,Female,18-11-2015,"Echo Mountain, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,23,40.00
+199,Ott Lynn,Female,31-03-2015,"Copper Mountain, CO",USA,United States Of America,FIS,Parallel Slalom,2,120.00
+200,Ott Lynn,Female,30-03-2015,"Copper Mountain, CO",USA,United States Of America,FIS,Parallel GS,3,90.00
+201,Ott Lynn,Female,14-03-2015,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel GS,7,93.60
+202,Ott Lynn,Female,13-03-2015,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,12,57.20
+203,Ott Lynn,Female,08-03-2015,Owl' s Head,CAN,United States Of America,FIS,Parallel GS,4,75.00
+204,Ott Lynn,Female,25-01-2015,"Alpine Ski Club, ON",CAN,United States Of America,Nor-Am Cup,Parallel Slalom,14,36.00
+205,Ott Lynn,Female,24-01-2015,"Alpine Ski Club, ON",CAN,United States Of America,Nor-Am Cup,Parallel GS,3,120.00
+206,Ott Lynn,Female,22-01-2015,"Holliday Valley, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,3,120.00
+207,Ott Lynn,Female,21-01-2015,"Holliday Valley, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,4,100.00
+208,Ott Lynn,Female,21-12-2014,"Le Relais, QC",CAN,United States Of America,Nor-Am Cup,Parallel Slalom,6,80.00
+209,Ott Lynn,Female,20-12-2014,"Le Relais, QC",CAN,United States Of America,Nor-Am Cup,Parallel Slalom,3,120.00
+210,Ott Lynn,Female,13-12-2014,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,6,80.00
+211,Ott Lynn,Female,12-12-2014,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,3,120.00
+212,Ott Lynn,Female,07-12-2014,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel Slalom,1,200.00
+213,Ott Lynn,Female,06-12-2014,"Buck Hill, MN",USA,United States Of America,Nor-Am Cup,Parallel GS,3,120.00
+214,Ott Lynn,Female,14-03-2014,Mt Tremblant,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,10,104.00
+215,Ott Lynn,Female,13-03-2014,Mt Tremblant,CAN,United States Of America,Nor-Am Cup,Parallel GS,13,80.00
+216,Ott Lynn,Female,16-02-2014,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,3,84.00
+217,Ott Lynn,Female,15-02-2014,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel GS,2,112.00
+218,Ott Lynn,Female,23-01-2014,"Holliday Valley, NY",USA,United States Of America,Nor-Am Cup,Parallel Slalom,1,120.00
+219,Ott Lynn,Female,22-01-2014,"Holliday Valley, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,4,60.00
+220,Ott Lynn,Female,18-01-2014,Rogla,SLO,United States Of America,World Cup,Parallel GS,47,
+221,Ott Lynn,Female,12-01-2014,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom,42,17.90
+222,Ott Lynn,Female,10-01-2014,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom,47,
+223,Ott Lynn,Female,19-12-2013,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,4,55.00
+224,Ott Lynn,Female,18-12-2013,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,3,84.00
+225,Ott Lynn,Female,14-12-2013,Carezza,ITA,United States Of America,World Cup,Parallel Slalom,45,0.00
+226,Ott Lynn,Female,13-12-2013,Carezza,ITA,United States Of America,World Cup,Parallel GS,44,
+227,Ott Lynn,Female,08-12-2013,Hochfügen,AUT,United States Of America,European Cup,Parallel GS,53,0.00
+228,Ott Lynn,Female,07-12-2013,Hochfügen,AUT,United States Of America,European Cup,Parallel GS,33,12.00
+229,Ott Lynn,Female,15-11-2013,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,34,0.00
+230,Ott Lynn,Female,14-11-2013,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,31,14.00
+231,Ott Lynn,Female,12-11-2013,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,127,
+232,Ott Lynn,Female,11-11-2013,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,28,20.00
+233,Ott Lynn,Female,27-03-2013,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,29,0.00
+234,Ott Lynn,Female,26-03-2013,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel GS,11,108.00
+235,Ott Lynn,Female,28-02-2013,"Holiday Valley, NY",USA,United States Of America,Nor-Am Cup,Parallel Slalom,6,48.00
+236,Ott Lynn,Female,27-02-2013,"Holiday Valley, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,4,60.00
+237,Ott Lynn,Female,27-01-2013,Stoneham,CAN,United States Of America,World Championships,Parallel Slalom,37,
+238,Ott Lynn,Female,25-01-2013,Stoneham,CAN,United States Of America,World Championships,Parallel GS,37,19.40
+239,Ott Lynn,Female,20-01-2013,"Le Relais, QC",CAN,United States Of America,Nor-Am Cup,Parallel Slalom,20,55.00
+240,Ott Lynn,Female,19-01-2013,"Le Relais, QC",CAN,United States Of America,Nor-Am Cup,Parallel GS,29,18.00
+241,Ott Lynn,Female,15-12-2012,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,4,75.00
+242,Ott Lynn,Female,14-12-2012,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,2,120.00
+243,Ott Lynn,Female,14-11-2012,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,14,90.00
+244,Ott Lynn,Female,13-11-2012,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,12,110.00
+245,Ott Lynn,Female,07-04-2012,Nakiska,CAN,United States Of America,Nor-Am Cup,Parallel GS,6,144.00
+246,Ott Lynn,Female,28-02-2012,"Holimont, NY",USA,United States Of America,Nor-Am Cup,Parallel Slalom,7,86.40
+247,Ott Lynn,Female,27-02-2012,"Holimont, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,10,67.60
+248,Ott Lynn,Female,22-02-2012,Stoneham,CAN,United States Of America,World Cup,Parallel GS,31,28.00
+249,Ott Lynn,Female,19-02-2012,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,12,57.20
+250,Ott Lynn,Female,18-02-2012,Le Relais,CAN,United States Of America,Nor-Am Cup,Parallel GS,23,40.00
+251,Ott Lynn,Female,15-12-2011,Telluride,USA,United States Of America,Qualification,Parallel GS,39,
+252,Ott Lynn,Female,15-12-2011,Telluride,USA,United States Of America,World Cup,Parallel GS,39,
+253,Ott Lynn,Female,10-12-2011,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,14,81.00
+254,Ott Lynn,Female,09-12-2011,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,19,54.00
+255,Ott Lynn,Female,15-11-2011,"Copper, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,15,46.40
+256,Ott Lynn,Female,14-11-2011,"Copper, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,10,75.40
+257,Ott Lynn,Female,10-04-2011,Lake Louise,CAN,United States Of America,Nor-Am Cup,Parallel GS,8,92.80
+258,Ott Lynn,Female,24-02-2011,"Holimont, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,6,116.00
+259,Ott Lynn,Female,23-02-2011,"Holimont, NY",USA,United States Of America,Nor-Am Cup,Parallel GS,4,145.00
+260,Ott Lynn,Female,13-02-2011,"Le Relais, Quebec",CAN,United States Of America,Nor-Am Cup,Parallel Slalom,16,48.00
+261,Ott Lynn,Female,12-02-2011,"Le Relais, Quebec",CAN,United States Of America,Nor-Am Cup,Parallel GS,5,130.50
+262,Ott Lynn,Female,22-01-2011,La Molina,ESP,United States Of America,World Championships,Parallel Slalom,31,
+263,Ott Lynn,Female,19-01-2011,La Molina,ESP,United States Of America,World Championships,Parallel GS,43,0.00
+264,Ott Lynn,Female,21-12-2010,"Steamboad Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,7,79.20
+265,Ott Lynn,Female,20-12-2010,"Steamboad Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,14,90.00
+266,Ott Lynn,Female,16-12-2010,Telluride,USA,United States Of America,World Cup,Parallel GS,29,36.00
+267,Ott Lynn,Female,10-12-2010,Limone Piemonte,ITA,United States Of America,World Cup,Parallel GS,35,
+268,Ott Lynn,Female,10-10-2010,Landgraaf,NED,United States Of America,World Cup,Parallel Slalom,43,0.00
+269,Ott Lynn,Female,31-03-2010,Mont Tremblant Quebec,CAN,United States Of America,National Championships,Parallel GS,5,162.00
+270,Ott Lynn,Female,05-02-2010,Mt. Bachelor OR,USA,United States Of America,Nor-Am Cup,Giant Slalom,12,110.00
+271,Ott Lynn,Female,04-02-2010,Mt. Bachelor OR,USA,United States Of America,Nor-Am Cup,Parallel GS,7,180.00
+272,Ott Lynn,Female,17-12-2009,Telluride,USA,United States Of America,World Cup,Parallel GS,27,45.00
+273,Ott Lynn,Female,15-12-2009,Telluride,USA,United States Of America,World Cup,Parallel GS,31,28.00
+274,Ott Lynn,Female,12-12-2009,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,12,48.40
+275,Ott Lynn,Female,11-12-2009,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,21,50.00
+276,Ott Lynn,Female,29-11-2009,"Hochfuegen, Zillertal (AUT)",GER,United States Of America,European Cup,Parallel GS,21,50.00
+277,Ott Lynn,Female,28-11-2009,"Hochfuegen, Zillertal (AUT)",GER,United States Of America,National Championships,Parallel GS,14,64.80
+278,Ott Lynn,Female,13-11-2009,"Copper, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,9,145.00
+279,Ott Lynn,Female,12-11-2009,"Copper, CO",USA,United States Of America,Nor-Am Cup,Giant Slalom,9,145.00
+280,Ott Lynn,Female,20-09-2009,Landgraaf,NED,United States Of America,FIS,Parallel Slalom,9,43.50
+281,Ott Lynn,Female,19-09-2009,Landgraaf,NED,United States Of America,FIS,Parallel Slalom,12,35.20
+282,Ott Lynn,Female,04-04-2009,"Mt. Tremblant, Quebec",CAN,United States Of America,Nor-Am Cup,Snowboardcross,13,90.00
+283,Ott Lynn,Female,01-04-2009,"Mt. Tremblant, Quebec",CAN,United States Of America,Nor-Am Cup,Parallel Slalom,3,240.00
+284,Ott Lynn,Female,31-03-2009,"Mt. Tremblant, Quebec",CAN,United States Of America,Nor-Am Cup,Parallel GS,8,128.00
+285,Ott Lynn,Female,28-03-2009,Isola 2000,FRA,United States Of America,FIS,Parallel GS,4,90.00
+286,Ott Lynn,Female,27-03-2009,Isola 2000,FRA,United States Of America,European Cup,Parallel GS,4,100.00
+287,Ott Lynn,Female,26-02-2009,Sunday River,USA,United States Of America,World Cup,Parallel GS,28,40.00
+288,Ott Lynn,Female,01-02-2009,"Boreal, CA",USA,United States Of America,Nor-Am Cup,Snowboardcross,30,12.80
+289,Ott Lynn,Female,25-01-2009,"LeRalais, Quebec",CAN,United States Of America,Nor-Am Cup,Parallel Slalom,8,51.20
+290,Ott Lynn,Female,24-01-2009,"LeRalais, Quebec",CAN,United States Of America,Nor-Am Cup,Parallel GS,5,72.00
+291,Ott Lynn,Female,10-01-2009,"Steamboat, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,3,84.00
+292,Ott Lynn,Female,09-01-2009,"Steamboat, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,6,56.00
+293,Ott Lynn,Female,13-12-2008,"Mnt Norquay, Alberta",CAN,United States Of America,Nor-Am Cup,Parallel GS,2,160.00
+294,Ott Lynn,Female,20-11-2008,"Copper, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,17,63.00
+295,Ott Lynn,Female,19-11-2008,"Copper, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,8,144.00
+296,Ott Lynn,Female,23-03-2008,"Mt. Hood Meadows, OR",USA,United States Of America,Nor-Am Cup,Parallel Slalom,9,104.40
+297,Ott Lynn,Female,22-03-2008,"Mt Hood Meadows, OR",USA,United States Of America,Nor-Am Cup,Parallel GS,12,79.20
+298,Ott Lynn,Female,03-03-2008,"Lake Placid, NY",USA,United States Of America,World Cup,Parallel GS,36,19.70
+299,Ott Lynn,Female,01-03-2008,"Lake Placid, NY",USA,United States Of America,World Cup,Snowboardcross,32,26.00
+300,Ott Lynn,Female,10-02-2008,"Tamarack, ID",USA,United States Of America,Nor-Am Cup,Snowboardcross,8,
+301,Ott Lynn,Female,07-02-2008,Park City,USA,United States Of America,Nor-Am Cup,Parallel Slalom,8,92.80
+302,Ott Lynn,Female,13-01-2008,"Le Relais, Quebec",CAN,United States Of America,Nor-Am Cup,Parallel Slalom,10,57.20
+303,Ott Lynn,Female,12-01-2008,"Le Relais, Quebec",CAN,United States Of America,Nor-Am Cup,Parallel GS,3,132.00
+304,Ott Lynn,Female,05-01-2008,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,1,240.00
+305,Ott Lynn,Female,04-01-2008,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,2,192.00
+306,Ott Lynn,Female,16-11-2007,"Copper, CO",USA,United States Of America,Nor-Am Cup,Slalom,65,
+307,Ott Lynn,Female,15-11-2007,"Copper, CO",USA,United States Of America,Nor-Am Cup,Giant Slalom,3,216.00
+308,Ott Lynn,Female,01-04-2007,"Sun Peaks, BC",CAN,United States Of America,Nor-Am Cup,Snowboardcross,13,72.00
+309,Ott Lynn,Female,31-03-2007,"Sun Peaks, BC",CAN,United States Of America,Nor-Am Cup,Snowboardcross,5,162.00
+310,Ott Lynn,Female,25-03-2007,"Sunshine Village, AB",CAN,United States Of America,Nor-Am Cup,Parallel Slalom,7,144.00
+311,Ott Lynn,Female,24-03-2007,"Sunshine Village, AB",CAN,United States Of America,Nor-Am Cup,Parallel GS,25,30.00
+312,Ott Lynn,Female,23-03-2007,"Sunshine Village, AB",CAN,United States Of America,Nor-Am Cup,Snowboardcross,DNF,
+313,Ott Lynn,Female,11-03-2007,"Lake Placid, NY",USA,United States Of America,World Cup,Snowboardcross,41,
+314,Ott Lynn,Female,08-03-2007,"Lake Placid, NY",USA,United States Of America,World Cup,Snowboardcross,27,45.00
+315,Ott Lynn,Female,25-02-2007,"Tamarack, ID",USA,United States Of America,Nor-Am Cup,Snowboardcross,12,70.40
+316,Ott Lynn,Female,05-02-2007,"Mt. Norquay, AB",CAN,United States Of America,Nor-Am Cup,Parallel GS,5,108.00
+317,Ott Lynn,Female,04-02-2007,"Mt. Norquay, AB",CAN,United States Of America,Nor-Am Cup,Parallel GS,3,174.00
+318,Ott Lynn,Female,03-02-2007,Canada Olympic Park,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,5,117.00
+319,Ott Lynn,Female,01-02-2007,"Copper, CO",USA,United States Of America,Nor-Am Cup,Snowboardcross,8,128.00
+320,Ott Lynn,Female,31-01-2007,"Copper, CO",USA,United States Of America,Nor-Am Cup,Snowboardcross,9,116.00
+321,Ott Lynn,Female,06-01-2007,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,21,50.00
+322,Ott Lynn,Female,05-01-2007,"Steamboat Springs, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,9,145.00
+323,Ott Lynn,Female,17-12-2006,"Mont Blanc, QC",CAN,United States Of America,Nor-Am Cup,Parallel Slalom,10,52.00
+324,Ott Lynn,Female,16-12-2006,"Mont Blanc, QC",CAN,United States Of America,Nor-Am Cup,Parallel GS,2,160.00
+325,Ott Lynn,Female,21-11-2006,"Copper, CO",USA,United States Of America,Nor-Am Cup,Parallel Slalom,12,110.00
+326,Ott Lynn,Female,20-11-2006,"Copper, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,10,130.00
+327,Ott Lynn,Female,30-08-2006,El Colorado,CHI,United States Of America,South American Cup,Parallel GS,2,256.00
+328,Ott Lynn,Female,30-08-2006,El Colorado,CHI,United States Of America,Masters,Parallel GS,3,
+329,Ott Lynn,Female,28-08-2006,El Colorado,CHI,United States Of America,South American Cup,Snowboardcross,11,120.00
+330,Ott Lynn,Female,28-08-2006,El Colorado,CHI,United States Of America,Masters,Snowboardcross,2,
+331,Ott Lynn,Female,26-03-2006,Crystal Mtn,USA,United States Of America,Nor-Am Cup,Parallel Slalom,7,180.00
+332,Ott Lynn,Female,25-03-2006,Crystal Mtn,USA,United States Of America,Nor-Am Cup,Parallel GS,6,200.00
+333,Ott Lynn,Female,12-03-2006,Mt. St-Louis/Moonstone,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,3,132.00
+334,Ott Lynn,Female,11-03-2006,Mt. St-Louis/Moonstone,CAN,United States Of America,Nor-Am Cup,Parallel GS,DSQ,
+335,Ott Lynn,Female,09-03-2006,"Lake Placid, NY",USA,United States Of America,World Cup,Parallel GS,17,140.00
+336,Ott Lynn,Female,03-03-2006,St. Petersburg,RUS,United States Of America,World Cup,Parallel Slalom,34,22.00
+337,Ott Lynn,Female,01-03-2006,Shukolovo,RUS,United States Of America,World Cup,Parallel Slalom,34,22.00
+338,Ott Lynn,Female,22-01-2006,Nendaz,SUI,United States Of America,World Cup,Parallel Slalom,38,0.00
+339,Ott Lynn,Female,18-01-2006,Nendaz,SUI,United States Of America,European Cup,Parallel Slalom,42,8.95
+340,Ott Lynn,Female,15-01-2006,Kronplatz,ITA,United States Of America,World Cup,Parallel GS,48,16.10
+341,Ott Lynn,Female,08-01-2006,Kreischberg,AUT,United States Of America,World Cup,Parallel GS,45,
+342,Ott Lynn,Female,21-12-2005,Okemo,USA,United States Of America,Nor-Am Cup,Parallel GS,18,65.00
+343,Ott Lynn,Female,20-12-2005,Okemo,USA,United States Of America,Nor-Am Cup,Parallel GS,9,145.00
+344,Ott Lynn,Female,22-11-2005,Copper Mountain,USA,United States Of America,Nor-Am Cup,Parallel GS,32,13.00
+345,Ott Lynn,Female,21-11-2005,Copper Mountain,USA,United States Of America,Nor-Am Cup,Parallel GS,23,40.00
+346,Ott Lynn,Female,02-09-2005,Las Lenas,ARG,United States Of America,South American Cup,Snowboardcross,24,35.00
+347,Ott Lynn,Female,31-08-2005,Las Lenas,ARG,United States Of America,South American Cup,Parallel GS,4,250.00
+348,Ott Lynn,Female,06-03-2005,"Lake Placid, NY",USA,United States Of America,World Cup,Snowboardcross,27,0.00
+349,Ott Lynn,Female,03-03-2005,"Lake Placid, NY",USA,United States Of America,World Cup,Parallel GS,19,120.00
+350,Ott Lynn,Female,25-02-2005,Sungwoo Resort,KOR,United States Of America,World Cup,Parallel Slalom,25,60.00
+351,Ott Lynn,Female,19-02-2005,Sapporo,JPN,United States Of America,World Cup,Parallel Slalom,37,19.40
+352,Ott Lynn,Female,18-02-2005,Sapporo,JPN,United States Of America,World Cup,Parallel GS,34,22.00
+353,Ott Lynn,Female,09-02-2005,Bardonecchia,ITA,United States Of America,World Cup,Parallel GS,24,70.00
+354,Ott Lynn,Female,02-02-2005,Maribor,SLO,United States Of America,European Cup,Parallel Slalom,38,9.55
+355,Ott Lynn,Female,01-02-2005,Maribor,SLO,United States Of America,World Cup,Parallel GS,41,18.20
+356,Ott Lynn,Female,30-01-2005,Kreischberg,AUT,United States Of America,National Championships,Parallel Slalom,13,72.00
+357,Ott Lynn,Female,29-01-2005,Kreischberg,AUT,United States Of America,National Championships,Parallel GS,12,79.20
+358,Ott Lynn,Female,14-01-2005,"Loon Mountain, NH",USA,United States Of America,Nor-Am Cup,Parallel Slalom,9,63.80
+359,Ott Lynn,Female,13-01-2005,"Loon Mountain, NH",USA,United States Of America,Nor-Am Cup,Parallel GS,4,110.00
+360,Ott Lynn,Female,08-01-2005,Mt. Bachelor,USA,United States Of America,Nor-Am Cup,Snowboardcross,15,80.00
+361,Ott Lynn,Female,07-01-2005,St. Petersburg,RUS,United States Of America,World Cup,Parallel Slalom,26,50.00
+362,Ott Lynn,Female,04-01-2005,Steamboat Springs,USA,United States Of America,Nor-Am Cup,Parallel Slalom,5,144.00
+363,Ott Lynn,Female,03-01-2005,Steamboat Springs,USA,United States Of America,Nor-Am Cup,Parallel GS,3,192.00
+364,Ott Lynn,Female,20-12-2004,Breckenridge,USA,United States Of America,Nor-Am Cup,Parallel GS,10,130.00
+365,Ott Lynn,Female,17-12-2004,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom,46,16.70
+366,Ott Lynn,Female,12-12-2004,Haus im Ennstal,AUT,United States Of America,FIS,Parallel GS,17,36.40
+367,Ott Lynn,Female,11-12-2004,Haus im Ennstal,AUT,United States Of America,European Cup,Parallel GS,21,50.00
+368,Ott Lynn,Female,05-12-2004,Kuehtai,AUT,United States Of America,FIS,Parallel Slalom,26,13.00
+369,Ott Lynn,Female,04-12-2004,Kronplatz,ITA,United States Of America,World Cup,Parallel GS,30,32.00
+370,Ott Lynn,Female,16-11-2004,"Copper Mountain, Colorado",USA,United States Of America,Nor-Am Cup,Parallel Slalom,15,80.00
+371,Ott Lynn,Female,15-11-2004,"Copper Mountain, Colorado",USA,United States Of America,Nor-Am Cup,Parallel GS,31,0.00
+372,Ott Lynn,Female,24-10-2004,Landgraaf,NED,United States Of America,World Cup,Parallel Slalom,38,19.10
+373,Ott Lynn,Female,16-10-2004,Soelden,AUT,United States Of America,World Cup,Parallel GS,52,0.00
+374,Ott Lynn,Female,21-03-2004,"Breckenridge, CO",USA,United States Of America,Nor-Am Cup,Slalom,9,130.50
+375,Ott Lynn,Female,20-03-2004,"Breckenridge, CO",USA,United States Of America,Nor-Am Cup,Parallel GS,3,270.00
+376,Ott Lynn,Female,14-03-2004,Mt. Avila,CAN,United States Of America,Nor-Am Cup,Snowboardcross,1,50.00
+377,Ott Lynn,Female,12-03-2004,Mt. Avila,CAN,United States Of America,Nor-Am Cup,Parallel GS,1,140.00
+378,Ott Lynn,Female,05-03-2004,"Mt. Bachelor, OR",USA,United States Of America,World Cup,Parallel GS,26,50.00
+379,Ott Lynn,Female,02-03-2004,Crystal Mountain,USA,United States Of America,Nor-Am Cup,Parallel Slalom,8,144.00
+380,Ott Lynn,Female,01-03-2004,Crystal Mountain,USA,United States Of America,Nor-Am Cup,Parallel GS,5,202.50
+381,Ott Lynn,Female,22-02-2004,Mt. Norruay,CAN,United States Of America,Nor-Am Cup,Parallel GS,1,130.00
+382,Ott Lynn,Female,01-02-2004,"Okemo, VT",USA,United States Of America,Nor-Am Cup,Parallel Slalom,1,180.00
+383,Ott Lynn,Female,31-01-2004,"Okemo, VT",USA,United States Of America,Nor-Am Cup,Parallel GS,3,108.00
+384,Ott Lynn,Female,25-01-2004,Watles,ITA,United States Of America,FIS,Parallel Slalom,19,31.20
+385,Ott Lynn,Female,24-01-2004,Watles,ITA,United States Of America,FIS,Parallel GS,19,31.20
+386,Ott Lynn,Female,18-01-2004,Sankt Johann/Pongau,AUT,United States Of America,European Cup,Parallel Slalom,35,10.00
+387,Ott Lynn,Female,17-01-2004,Sankt Johann/Pongau,AUT,United States Of America,European Cup,Parallel GS,17,70.00
+388,Ott Lynn,Female,11-01-2004,Alpe d'Huez,FRA,United States Of America,World Cup,Parallel GS,42,
+389,Ott Lynn,Female,10-01-2004,Bardonecchia,ITA,United States Of America,FIS,Parallel Slalom,7,79.20
+390,Ott Lynn,Female,09-01-2004,Bardonecchia,ITA,United States Of America,FIS,Parallel GS,4,130.00
+391,Ott Lynn,Female,05-01-2004,Steamboat Springs,USA,United States Of America,Nor-Am Cup,Parallel Slalom,DNF,
+392,Ott Lynn,Female,04-01-2004,Steamboat Springs,USA,United States Of America,Nor-Am Cup,Parallel GS,4,130.00
+393,Ott Lynn,Female,17-12-2003,Park City,USA,United States Of America,Nor-Am Cup,Parallel GS,9,145.00
+394,Ott Lynn,Female,07-12-2003,Kuehtai,AUT,United States Of America,FIS,Parallel Slalom,25,
+395,Ott Lynn,Female,06-12-2003,Kuehtai,AUT,United States Of America,FIS,Parallel Slalom,3,156.00
+396,Ott Lynn,Female,21-11-2003,Copper Mountain,USA,United States Of America,Nor-Am Cup,Parallel Slalom,10,130.00
+397,Ott Lynn,Female,20-11-2003,Copper Mountain,USA,United States Of America,Nor-Am Cup,Parallel GS,5,225.00
+398,Ott Lynn,Female,26-10-2003,Landgraaf,NED,United States Of America,World Cup,Parallel Slalom,32,26.00
+399,Ott Lynn,Female,19-10-2003,Soelden,AUT,United States Of America,World Cup,Parallel Slalom,52,0.00
+400,Ott Lynn,Female,18-10-2003,Soelden,AUT,United States Of America,World Cup,Parallel GS,34,22.00
+401,Ott Lynn,Female,12-09-2003,Valle Nevado,CHI,United States Of America,World Cup,Parallel GS,26,50.00
+402,Ott Lynn,Female,05-04-2003,Aspen,USA,United States Of America,Nor-Am Cup,Parallel GS,7,144.00
+403,Ott Lynn,Female,03-04-2003,Aspen,USA,United States Of America,Nor-Am Cup,Slalom,6,104.00
+404,Ott Lynn,Female,29-03-2003,Canada Olympic Park,CAN,United States Of America,National Championships,Parallel Slalom,1,120.00
+405,Ott Lynn,Female,27-03-2003,Nakiska,CAN,United States Of America,National Championships,Parallel GS,2,176.00
+406,Ott Lynn,Female,14-03-2003,Arosa,SUI,United States Of America,World Cup,Parallel GS,35,20.00
+407,Ott Lynn,Female,09-03-2003,Serre Chevalier,FRA,United States Of America,World Cup,Parallel Slalom,42,0.00
+408,Ott Lynn,Female,07-03-2003,Serre Chevalier,FRA,United States Of America,World Cup,Parallel GS,27,45.00
+409,Ott Lynn,Female,02-03-2003,Sugarbowl,USA,United States Of America,Continental Cup,Parallel GS,2,104.00
+410,Ott Lynn,Female,01-03-2003,Sapporo,JPN,United States Of America,World Cup,Parallel Slalom,26,50.00
+411,Ott Lynn,Female,28-02-2003,Sapporo,JPN,United States Of America,World Cup,Parallel GS,35,0.00
+412,Ott Lynn,Female,09-02-2003,Mt. Bachelor,USA,United States Of America,Nor-Am Cup,Parallel GS,6,160.00
+413,Ott Lynn,Female,31-01-2003,Loon Mtn.,USA,United States Of America,Nor-Am Cup,Parallel GS,1,150.00
+414,Ott Lynn,Female,30-01-2003,Loon Mtn.,USA,United States Of America,Nor-Am Cup,Parallel Slalom,4,35.00
+415,Ott Lynn,Female,25-01-2003,Blue Mountain,CAN,United States Of America,Nor-Am Cup,Parallel GS,1,90.00
+416,Ott Lynn,Female,22-01-2003,Alleghe,ITA,United States Of America,European Cup,Parallel GS,26,22.50
+417,Ott Lynn,Female,21-01-2003,Alleghe,ITA,United States Of America,European Cup,Parallel Slalom,43,0.00
+418,Ott Lynn,Female,18-01-2003,Pozza di Fassa,ITA,United States Of America,FIS,Parallel GS,8,83.20
+419,Ott Lynn,Female,06-01-2003,Bad Gastein,AUT,United States Of America,FIS,Parallel Slalom,19,31.20
+420,Ott Lynn,Female,05-01-2003,Bad Gastein,AUT,United States Of America,World Cup,Parallel Slalom,46,
+421,Ott Lynn,Female,19-12-2002,Park City,USA,United States Of America,Nor-Am Cup,Parallel GS,7,162.00
+422,Ott Lynn,Female,18-12-2002,"Whistler, BC",CAN,United States Of America,World Cup,Parallel Slalom,36,
+423,Ott Lynn,Female,06-12-2002,Tandadalen,SWE,United States Of America,World Cup,Parallel GS,38,0.00
+424,Ott Lynn,Female,06-12-2002,Tandadalen,SWE,United States Of America,World Cup,Parallel Slalom,34,0.00
+425,Ott Lynn,Female,20-11-2002,Mammoth Mtn.,USA,United States Of America,Continental Cup,Parallel Slalom,9,104.40
+426,Ott Lynn,Female,19-11-2002,Mammoth Mtn.,USA,United States Of America,Continental Cup,Parallel GS,10,104.00
+427,Ott Lynn,Female,30-10-2002,Soelden,AUT,United States Of America,World Cup,Parallel Slalom,37,0.00
+428,Ott Lynn,Female,29-10-2002,Soelden,AUT,United States Of America,World Cup,Parallel GS,37,19.40
+429,Ott Lynn,Female,19-01-2002,Mt. St. Anne,CAN,United States Of America,Nor-Am Cup,Parallel Slalom,5,22.50
+430,Ott Lynn,Female,18-01-2002,Mt. St. Anne,CAN,United States Of America,Nor-Am Cup,Parallel GS,1,180.00
+431,Ott Lynn,Female,04-01-2002,Mt Bachelor,USA,United States Of America,Nor-Am Cup,Parallel GS,11,120.00
+432,Ott Lynn,Female,23-12-2001,Snowbird,USA,United States Of America,FIS,Parallel GS,3,132.00
+433,Ott Lynn,Female,21-12-2001,Park City,USA,United States Of America,Nor-Am Cup,Parallel GS,3,300.00
+434,Ott Lynn,Female,06-12-2001,"Whistler, BC",CAN,United States Of America,World Cup,Snowboardcross,16,150.00
+435,Ott Lynn,Female,12-11-2001,Copper Mountain,USA,United States Of America,Nor-Am Cup,Giant Slalom,4,200.00
+436,Ott Lynn,Female,11-11-2001,Copper Mountain,USA,United States Of America,Nor-Am Cup,Parallel GS,3,300.00
+437,Ott Lynn,Female,08-09-2001,Valle Nevado,CHI,United States Of America,World Cup,Parallel GS,21,100.00
+438,Ott Lynn,Female,06-09-2001,Valle Nevado,CHI,United States Of America,World Cup,Snowboardcross,12,220.00
+439,Ott Lynn,Female,30-08-2001,Pucon,CHI,United States Of America,South American Cup,Parallel GS,13,100.00
+440,Ott Lynn,Female,07-04-2001,Big White,CAN,United States Of America,National Championships,Parallel GS,3,96.00
+441,Ott Lynn,Female,04-04-2001,Big White,CAN,United States Of America,National Championships,Giant Slalom,24,11.20
+442,Ott Lynn,Female,03-04-2001,Big White,CAN,United States Of America,National Championships,Snowboardcross,8,41.60
+443,Ott Lynn,Female,26-03-2001,Sunday River,USA,United States Of America,National Championships,Snowboardcross,5,45.00
+444,Ott Lynn,Female,24-03-2001,Sunday River,USA,United States Of America,National Championships,Parallel GS,5,162.00
+445,Ott Lynn,Female,22-03-2001,Sunday River,USA,United States Of America,National Championships,Slalom,8,115.20
+446,Ott Lynn,Female,17-03-2001,Ruka,FIN,United States Of America,World Cup,Snowboardcross,20,110.00
+447,Ott Lynn,Female,15-03-2001,Ruka,FIN,United States Of America,World Cup,Parallel Slalom,DNF,0.00
+448,Ott Lynn,Female,14-03-2001,Ruka,FIN,United States Of America,World Cup,Parallel GS,11,240.00
+449,Ott Lynn,Female,09-03-2001,Northstar,USA,United States Of America,Continental Cup,Parallel GS,1,100.00
+450,Ott Lynn,Female,04-03-2001,"Park City, UT",USA,United States Of America,World Cup,Parallel GS,34,22.00
+451,Ott Lynn,Female,24-02-2001,Asahikawa,JPN,United States Of America,World Cup,Parallel GS,25,60.00
+452,Ott Lynn,Female,17-02-2001,Sapporo,JPN,United States Of America,World Cup,Parallel GS,21,100.00
+453,Ott Lynn,Female,16-02-2001,Sapporo,JPN,United States Of America,World Cup,Snowboardcross,22,90.00
+454,Ott Lynn,Female,02-02-2001,Steamboat Springs,USA,United States Of America,FIS,Parallel GS,6,44.00
+455,Ott Lynn,Female,28-01-2001,Madonna di Campiglio,ITA,United States Of America,World Championships,Snowboardcross,21,100.00
+456,Ott Lynn,Female,24-01-2001,Madonna di Campiglio,ITA,United States Of America,World Championships,Parallel GS,28,40.00
+457,Ott Lynn,Female,20-01-2001,Berchtesgaden,GER,United States Of America,European Cup,Parallel Slalom,13,44.00
+458,Ott Lynn,Female,19-01-2001,Berchtesgaden,GER,United States Of America,European Cup,Parallel Slalom,DNF,0.00
+459,Ott Lynn,Female,19-01-2001,Kronplatz,ITA,United States Of America,World Cup,Snowboardcross,22,90.00
+460,Ott Lynn,Female,17-01-2001,Kronplatz,ITA,United States Of America,World Cup,Parallel GS,34,22.00
+461,Ott Lynn,Female,14-01-2001,Morzine,FRA,United States Of America,World Cup,Snowboardcross,18,130.00
+462,Ott Lynn,Female,13-01-2001,Morzine-Les Gets,FRA,United States Of America,World Cup,Snowboardcross,25,60.00
+463,Ott Lynn,Female,10-01-2001,Schoenried/Gstaad,SUI,United States Of America,World Cup,Giant Slalom,17,140.00
+464,Ott Lynn,Female,10-01-2001,Schoenried/Gstaad,SUI,United States Of America,World Cup,Parallel Slalom,34,22.00
+465,Ott Lynn,Female,05-01-2001,Breckenridge,USA,United States Of America,Continental Cup,Parallel GS,3,240.00
+466,Ott Lynn,Female,17-12-2000,Okemo,USA,United States Of America,Continental Cup,Giant Slalom,9,145.00
+467,Ott Lynn,Female,16-12-2000,"Mt. St. Anne, QC",CAN,United States Of America,World Cup,Giant Slalom,18,130.00
+468,Ott Lynn,Female,12-12-2000,Whistler,CAN,United States Of America,Continental Cup,Parallel GS,20,55.00
+469,Ott Lynn,Female,11-12-2000,"Whistler, BC",CAN,United States Of America,World Cup,Giant Slalom,17,140.00
+470,Ott Lynn,Female,08-12-2000,"Whistler, BC",CAN,United States Of America,World Cup,Snowboardcross,16,150.00
+471,Ott Lynn,Female,03-12-2000,Ischgl,AUT,United States Of America,World Cup,Parallel GS,20,110.00
+472,Ott Lynn,Female,02-12-2000,Ischgl,AUT,United States Of America,World Cup,Parallel GS,27,45.00
+473,Ott Lynn,Female,01-12-2000,Ischgl,AUT,United States Of America,World Cup,Parallel SL,30,32.00
+474,Ott Lynn,Female,17-11-2000,Breckenridge,USA,United States Of America,Continental Cup,Parallel GS,4,90.00
+475,Ott Lynn,Female,16-11-2000,Breckenridge,USA,United States Of America,Continental Cup,Giant Slalom,6,96.00
+476,Ott Lynn,Female,22-08-2000,Mt Hood,USA,United States Of America,Continental Cup,Parallel Slalom,10,67.60
+477,Ott Lynn,Female,21-08-2000,"Mt Hood, OR",USA,United States Of America,Continental Cup,Parallel GS,8,115.20
+478,Ott Lynn,Female,26-03-2000,Okemo,USA,United States Of America,National Championships,Snowboardcross,17,15.40
+479,Ott Lynn,Female,24-03-2000,Okemo,USA,United States Of America,National Championships,Giant Slalom,2,208.00
+480,Ott Lynn,Female,23-03-2000,Okemo,USA,United States Of America,National Championships,Slalom,4,75.00
+481,Ott Lynn,Female,18-03-2000,Livigno,ITA,United States Of America,World Cup,Giant Slalom,30,32.00
+482,Ott Lynn,Female,17-03-2000,Livigno,ITA,United States Of America,World Cup,Snowboardcross,22,90.00
+483,Ott Lynn,Female,16-03-2000,Livigno,ITA,United States Of America,World Cup,Parallel Slalom,33,24.00
+484,Ott Lynn,Female,05-03-2000,"Park City, UT",USA,United States Of America,World Cup,Giant Slalom,23,80.00
+485,Ott Lynn,Female,03-03-2000,"Park City, UT",USA,United States Of America,World Cup,Snowboardcross,17,140.00
+486,Ott Lynn,Female,26-02-2000,Shigakogen,JPN,United States Of America,World Cup,Giant Slalom,29,36.00
+487,Ott Lynn,Female,20-02-2000,Sapporo,JPN,United States Of America,World Cup,Snowboardcross,8,320.00
+488,Ott Lynn,Female,18-02-2000,Sapporo,JPN,United States Of America,World Cup,Parallel GS,20,110.00
+489,Ott Lynn,Female,13-02-2000,Northstar@Tahoe,USA,United States Of America,Continental Cup,Snowboardcross,2,80.00
+490,Ott Lynn,Female,11-02-2000,Northstar@Tahoe,USA,United States Of America,Continental Cup,Halfpipe,24,35.00
+491,Ott Lynn,Female,23-01-2000,Northstar at Tahoe,USA,United States Of America,FIS,Giant Slalom,1,150.00
+492,Ott Lynn,Female,22-01-2000,Northstar at Tahoe,USA,United States Of America,FIS,Snowboardcross,5,45.00
+493,Ott Lynn,Female,07-01-2000,Breckenridge,USA,United States Of America,Continental Cup,Giant Slalom,5,202.50
+494,Ott Lynn,Female,18-12-1999,"Mt. St. Anne, QC",CAN,United States Of America,World Cup,Giant Slalom,47,4.00
+495,Ott Lynn,Female,14-12-1999,Mammoth,USA,United States Of America,FIS,Parallel GS,5,117.00
+496,Ott Lynn,Female,12-12-1999,Mammoth,USA,United States Of America,Continental Cup,Super G,5,202.00
+497,Ott Lynn,Female,10-12-1999,"Whistler, BC",CAN,United States Of America,World Cup,Giant Slalom,26,50.00
+498,Ott Lynn,Female,04-12-1999,Zell am See/Kaprun,AUT,United States Of America,World Cup,Parallel GS,30,32.00
+499,Ott Lynn,Female,03-12-1999,Zell am See/Kaprun,AUT,United States Of America,World Cup,Snowboardcross,16,150.00
+500,Ott Lynn,Female,30-11-1999,Sestriere,ITA,United States Of America,World Cup,Parallel GS,47,4.00
+501,Ott Lynn,Female,27-11-1999,Tignes,FRA,United States Of America,World Cup,Giant Slalom,50,1.00
+502,Ott Lynn,Female,12-11-1999,Breckenridge,USA,United States Of America,Continental Cup,Giant Slalom,5,202.00
+503,Ott Lynn,Female,28-03-1999,Okemo Mountain Resort,USA,United States Of America,FIS,Snowboardcross,10,26.00
+504,Ott Lynn,Female,25-03-1999,Okemo Mountain Resort,USA,United States Of America,FIS,Slalom,7,40.00
+505,Ott Lynn,Female,26-02-1999,Sunday River,USA,United States Of America,Continental Cup,Snowboardcross,2,80.00
+506,Ott Lynn,Female,24-02-1999,Sunday River,USA,United States Of America,Continental Cup,Giant Slalom,7,180.00
+507,Ott Lynn,Female,24-02-1999,Sunday River,USA,United States Of America,FIS,Giant Slalom,7,94.00
+508,Ott Lynn,Female,21-02-1999,Bear Mountain,USA,United States Of America,FIS,Half Pipe,11,24.00
+509,Ott Lynn,Female,20-02-1999,Bear Mountain Resort,USA,United States Of America,FIS,Snowboardcross,5,45.00
+510,Ott Lynn,Female,19-02-1999,Bear Mountain Resort,USA,United States Of America,FIS,Giant Slalom,4,130.00
+511,Ott Lynn,Female,07-02-1999,Park City,USA,United States Of America,World Cup,Giant Slalom,27,45.00
+512,Ott Lynn,Female,05-02-1999,"Park City, UT",USA,United States Of America,World Cup,Parallel Slalom,27,45.00
+513,Ott Lynn,Female,31-01-1999,"Mt. St. Anne, QC",CAN,United States Of America,World Cup,Halfpipe,16,150.00
+514,Ott Lynn,Female,30-01-1999,"Mt. St. Anne, QC",CAN,United States Of America,World Cup,Giant Slalom,24,70.00
+515,Ott Lynn,Female,25-01-1999,Madonna di Campiglio,ITA,United States Of America,World Cup,Giant Slalom,22,90.00
+516,Ott Lynn,Female,22-01-1999,Graechen,SUI,United States Of America,World Cup,Snowboardcross,25,60.00
+517,Ott Lynn,Female,20-01-1999,Schoenried,SUI,United States Of America,World Cup,Giant Slalom,30,32.00
+518,Ott Lynn,Female,17-01-1999,Berchtesgaden,GER,United States Of America,World Championships,Snowboardcross,21,100.00
+519,Ott Lynn,Female,16-01-1999,Berchtesgaden,GER,United States Of America,World Championships,Halfpipe,15,160.00
+520,Ott Lynn,Female,15-01-1999,Berchtesgaden,GER,United States Of America,World Championships,Parallel Slalom,42,9.00
+521,Ott Lynn,Female,14-01-1999,Berchtesgaden,GER,United States Of America,World Championships,Parallel GS,28,40.00
+522,Ott Lynn,Female,12-01-1999,Berchtesgaden,GER,United States Of America,World Championships,Giant Slalom,22,90.00
+523,Ott Lynn,Female,06-01-1999,Morzine,FRA,United States Of America,World Cup,Parallel GS,33,24.00
+524,Ott Lynn,Female,05-01-1999,Morzine,FRA,United States Of America,World Cup,Parallel Slalom,39,12.00
+525,Ott Lynn,Female,17-12-1998,"Mt. Bachelor, OR",USA,United States Of America,Continental Cup,Giant Slalom,10,130.00
+526,Ott Lynn,Female,15-12-1998,"Mt. Bachelor, OR",USA,United States Of America,World Cup,Super G,12,220.00
+527,Ott Lynn,Female,13-12-1998,"Whistler, BC",CAN,United States Of America,World Cup,Snowboardcross,22,90.00
+528,Ott Lynn,Female,10-12-1998,"Whistler, BC",CAN,United States Of America,World Cup,Super G,11,240.00
+529,Ott Lynn,Female,04-12-1998,Ischgl,AUT,United States Of America,World Cup,Parallel Slalom,38,14.00
+530,Ott Lynn,Female,29-11-1998,Sestriere,ITA,United States Of America,World Cup,Giant Slalom,21,100.00
+531,Ott Lynn,Female,28-11-1998,Sestriere,ITA,United States Of America,World Cup,Parallel Slalom,52,0.00
+532,Ott Lynn,Female,20-11-1998,Tandadalen,SWE,United States Of America,World Cup,Parallel GS,22,90.00
+533,Ott Lynn,Female,14-11-1998,Zell am See/Kaprun,AUT,United States Of America,World Cup,Giant Slalom,24,70.00
+534,Ott Lynn,Female,13-11-1998,Zell am See/Kaprun,AUT,United States Of America,World Cup,Parallel Slalom,27,45.00
+535,Ott Lynn,Female,28-03-1998,Sunday River,USA,United States Of America,National Championships,Halfpipe,14,47.00
+536,Ott Lynn,Female,27-03-1998,Sunday River,USA,United States Of America,National Championships,Slalom,5,117.00
+537,Ott Lynn,Female,26-03-1998,"Sunday Rive,",USA,United States Of America,National Championships,Giant Slalom,3,156.00
+538,Ott Lynn,Female,14-03-1998,Mt. Snow,USA,United States Of America,FIS,Snowboardcross,4,60.00
+539,Ott Lynn,Female,13-03-1998,Mount Snow,USA,United States Of America,FIS,Giant Slalom,5,117.00
+540,Ott Lynn,Female,01-03-1998,Bear Mt.,USA,United States Of America,FIS,Snowboardcross,1,100.00
+541,Ott Lynn,Female,26-02-1998,Bear Mt.,USA,United States Of America,FIS,Giant Slalom,4,130.00
+542,Ott Lynn,Female,22-02-1998,Northstar at Tahoe,USA,United States Of America,FIS,Half Pipe,31,7.00
+543,Ott Lynn,Female,31-01-1998,Mammoth Mtn.,USA,United States Of America,Continental Cup,Giant Slalom,10,130.00
+544,Ott Lynn,Female,24-01-1998,Mt. Bachelor,USA,United States Of America,Continental Cup,Giant Slalom,10,130.00
+545,Ott Lynn,Female,11-01-1998,Winter Park,USA,United States Of America,FIS,Half Pipe,19,31.00
+546,Ott Lynn,Female,10-01-1998,Winter Park,USA,United States Of America,FIS,Giant Slalom,2,208.00
+547,Ott Lynn,Female,20-12-1997,Sugarloaf,USA,United States Of America,Continental Cup,Half Pipe,29,18.00
+548,Ott Lynn,Female,18-12-1997,Sugarloaf,USA,United States Of America,Continental Cup,Giant Slalom,15,80.00
+549,Ott Lynn,Female,12-12-1997,"Whistler, BC",CAN,United States Of America,World Cup,Giant Slalom,45,6.00
+550,Ott Lynn,Female,11-12-1997,"Whistler, BC",CAN,United States Of America,World Cup,Super G,18,130.00
+551,Ott Lynn,Female,30-11-1997,Soelden,AUT,United States Of America,World Cup,Parallel Slalom,29,36.00
+552,Ott Lynn,Female,29-11-1997,Soeden,AUT,United States Of America,World Cup,Giant Slalom,84,0.00
+553,Ott Lynn,Female,22-11-1997,Zell am See/Kaprun,AUT,United States Of America,World Cup,Giant Slalom,45,6.00
+554,Ott Lynn,Female,20-11-1997,Zell am See/Kaprun,AUT,United States Of America,World Cup,Parallel Slalom,25,60.00
+555,Ott Lynn,Female,13-11-1997,Tignes,FRA,United States Of America,World Cup,Giant Slalom,35,20.00
+556,Ott Lynn,Female,09-03-1997,Bardonecchia,ITA,United States Of America,World Cup,Parallel Slalom,34,22.00
+557,Ott Lynn,Female,08-03-1997,Bardonecchia,ITA,United States Of America,World Cup,Giant Slalom,18,130.00
+558,Ott Lynn,Female,05-03-1997,Graechen,SUI,United States Of America,World Cup,Snowboardcross,4,500.00
+559,Ott Lynn,Female,02-03-1997,Olang,ITA,United States Of America,World Cup,Half Pipe,18,130.00
+560,Ott Lynn,Female,01-03-1997,Olang,ITA,United States Of America,World Cup,Slalom,16,150.00
+561,Ott Lynn,Female,28-02-1997,Olang,ITA,United States Of America,World Cup,Giant Slalom,21,100.00
+562,Ott Lynn,Female,20-02-1997,Morioka-Shizukuishi,JPN,United States Of America,World Cup,Parallel Slalom,15,160.00
+563,Ott Lynn,Female,19-02-1997,Morioka-Shizukuishi,JPN,United States Of America,World Cup,Snowboardcross,6,400.00
+564,Ott Lynn,Female,16-02-1997,Kanbayashi,JPN,United States Of America,World Cup,Half Pipe,23,80.00
+565,Ott Lynn,Female,15-02-1997,Yakebitaiyama,JPN,United States Of America,World Cup,Giant Slalom,35,20.00
+566,Ott Lynn,Female,14-02-1997,Yakebitaiyama,JPN,United States Of America,World Cup,Giant Slalom,37,16.00
+567,Ott Lynn,Female,09-02-1997,"Mt. Bachelor, OR",USA,United States Of America,World Cup,Snowboardcross,5,450.00
+568,Ott Lynn,Female,08-02-1997,"Mt. Bachelor, OR",USA,United States Of America,World Cup,Halfpipe,26,50.00
+569,Ott Lynn,Female,07-02-1997,"Mt. Bachelor, OR",USA,United States Of America,World Cup,Giant Slalom,14,180.00
+570,Ott Lynn,Female,02-02-1997,"Mt. St. Anne, QC",CAN,United States Of America,World Cup,Halfpipe,18,130.00
+571,Ott Lynn,Female,01-02-1997,"Mt. St. Anne, QC",CAN,United States Of America,World Cup,Giant Slalom,41,10.00
+572,Ott Lynn,Female,31-01-1997,"Mt. St. Anne, QC",CAN,United States Of America,World Cup,Slalom,18,130.00
+573,Ott Lynn,Female,26-01-1997,San Candido,ITA,United States Of America,World Championships,Snowboardcross,14,180.00
+574,Ott Lynn,Female,21-01-1997,San Candido,ITA,United States Of America,World Championships,Giant Slalom,24,70.00
+575,Ott Lynn,Female,19-01-1997,Kreischberg,AUT,United States Of America,World Cup,Half Pipe,20,110.00
+576,Ott Lynn,Female,18-01-1997,Kreischberg,AUT,United States Of America,World Cup,Parallel Slalom,15,160.00
+577,Ott Lynn,Female,17-01-1997,Kreischberg,AUT,United States Of America,World Cup,Snowboardcross,10,260.00
+578,Ott Lynn,Female,12-01-1997,Lenggries,GER,United States Of America,World Cup,Slalom,16,150.00
+579,Ott Lynn,Female,11-01-1997,Lenggries,GER,United States Of America,World Cup,Giant Slalom,35,20.00
+580,Ott Lynn,Female,05-01-1997,"Snowmass, Aspen",USA,United States Of America,Continental Cup,Half Pipe,26,25.00
+581,Ott Lynn,Female,04-01-1997,"Snowmass, Aspen",USA,United States Of America,Continental Cup,Giant Slalom,9,145.00
+582,Ott Lynn,Female,22-12-1996,Sugarloaf,USA,United States Of America,Continental Cup,Giant Slalom,10,130.00
+583,Ott Lynn,Female,21-12-1996,Sugarloaf,USA,United States Of America,Continental Cup,Half Pipe,25,30.00
+584,Ott Lynn,Female,18-12-1996,"Sun Peaks, BC",CAN,United States Of America,World Cup,Giant Slalom,18,130.00
+585,Ott Lynn,Female,17-12-1996,"Sun Peaks, BC",CAN,United States Of America,World Cup,Snowboardcross,16,150.00
+586,Ott Lynn,Female,15-12-1996,"Whistler, BC",CAN,United States Of America,World Cup,Halfpipe,21,100.00
+587,Ott Lynn,Female,14-12-1996,"Whistler, BC",CAN,United States Of America,World Cup,Halfpipe,28,40.00
+588,Ott Lynn,Female,13-12-1996,"Whistler, BC",CAN,United States Of America,World Cup,Giant Slalom,16,150.00
+589,Ott Lynn,Female,12-12-1996,"Whistler, BC",CAN,United States Of America,World Cup,Super G,21,100.00
+590,Ott Lynn,Female,07-12-1996,Sestriere,ITA,United States Of America,World Cup,Slalom,30,32.00
+591,Ott Lynn,Female,06-12-1996,Sestriere,ITA,United States Of America,World Cup,Giant Slalom,16,150.00
+592,Ott Lynn,Female,29-11-1996,Tignes,FRA,United States Of America,World Cup,Giant Slalom,14,180.00
+593,Ott Lynn,Female,28-11-1996,Tignes,FRA,United States Of America,World Cup,Parallel Slalom,15,160.00
+594,Ott Lynn,Female,23-11-1996,Zell am See/Kaprun,AUT,United States Of America,World Cup,Snowboardcross,3,600.00
+595,Ott Lynn,Female,29-03-1996,Mammoth Mountain,USA,United States Of America,FIS,Half Pipe,9,120.00
+596,Ott Lynn,Female,28-03-1996,Mammoth Mountain,USA,United States Of America,FIS,Giant Slalom,3,200.00
+597,Ott Lynn,Female,17-03-1996,"Mt. Bachelor, OR",USA,United States Of America,World Cup,Halfpipe,9,290.00
+598,Ott Lynn,Female,16-03-1996,"Mt. Bachelor, OR",USA,United States Of America,World Cup,Parallel Slalom,16,150.00
+599,Ott Lynn,Female,15-03-1996,"Mt. Bachelor, OR",USA,United States Of America,World Cup,Slalom,9,290.00
+600,Ott Lynn,Female,14-03-1996,"Mt. Bachelor, OR",USA,United States Of America,World Cup,Giant Slalom,14,180.00
+601,Ott Lynn,Female,10-03-1996,"Alpine Meadows, CA",USA,United States Of America,World Cup,Giant Slalom,10,260.00
+602,Ott Lynn,Female,09-03-1996,"Boreal Ridge, CA",USA,United States Of America,World Cup,Halfpipe,8,320.00
+603,Ott Lynn,Female,09-03-1996,"Boreal Ridge, CA",USA,United States Of America,World Cup,Slalom,12,220.00
+604,Ott Lynn,Female,03-03-1996,Sun Peaks,CAN,United States Of America,World Cup,Half Pipe,9,290.00
+605,Ott Lynn,Female,02-03-1996,Sun Peaks,CAN,United States Of America,World Cup,Parallel Slalom,13,200.00
+606,Ott Lynn,Female,01-03-1996,Sun Peaks,CAN,United States Of America,World Cup,Giant Slalom,7,360.00
+607,Ott Lynn,Female,25-02-1996,"Calgary, AB",CAN,United States Of America,World Cup,Halfpipe,7,360.00
+608,Ott Lynn,Female,24-02-1996,"Calgary, AB",CAN,United States Of America,World Cup,Parallel Slalom,20,110.00
+609,Ott Lynn,Female,17-02-1996,Kanbayashi,JPN,United States Of America,World Cup,Half Pipe,6,400.00
+610,Ott Lynn,Female,16-02-1996,Yomase,JPN,United States Of America,World Cup,Giant Slalom,9,290.00
+611,Ott Lynn,Female,12-02-1996,Kanbayashi,JPN,United States Of America,World Cup,Half Pipe,7,360.00
+612,Ott Lynn,Female,11-02-1996,Kanbayashi,JPN,United States Of America,World Cup,Slalom,12,220.00
+613,Ott Lynn,Female,10-02-1996,Kanbayashi,JPN,United States Of America,World Cup,Giant Slalom,4,500.00
+614,Ott Lynn,Female,04-02-1996,Hindelang-Oberjoch,GER,United States Of America,World Cup,Giant Slalom,11,240.00
+615,Ott Lynn,Female,03-02-1996,Hindelang-Oberjoch,GER,United States Of America,World Cup,Parallel Slalom,12,220.00
+616,Ott Lynn,Female,28-01-1996,Lienz,AUT,United States Of America,World Championships,Parallel Slalom,19,120.00
+617,Ott Lynn,Female,26-01-1996,Lienz,AUT,United States Of America,World Championships,Giant Slalom,17,140.00
+618,Ott Lynn,Female,24-01-1996,Lienz,AUT,United States Of America,World Championships,Halfpipe,6,400.00
+619,Ott Lynn,Female,21-01-1996,San Candido,ITA,United States Of America,World Cup,Parallel Slalom,17,140.00
+620,Ott Lynn,Female,20-01-1996,San Candido,ITA,United States Of America,World Cup,Slalom,17,140.00
+621,Ott Lynn,Female,19-01-1996,San Candido,ITA,United States Of America,World Cup,Half Pipe,9,290.00
+622,Ott Lynn,Female,18-01-1996,San Candido,ITA,United States Of America,World Cup,Half Pipe,8,320.00
+623,Ott Lynn,Female,13-01-1996,La Bresse,FRA,United States Of America,World Cup,Parallel Slalom,18,130.00
+624,Ott Lynn,Female,12-01-1996,La Bresse,FRA,United States Of America,World Cup,Giant Slalom,14,180.00
+625,Ott Lynn,Female,10-12-1995,Bardonecchia,ITA,United States Of America,World Cup,Giant Slalom,16,150.00
+626,Ott Lynn,Female,09-12-1995,Bardonecchia,ITA,United States Of America,World Cup,Slalom,22,90.00
+627,Ott Lynn,Female,08-12-1995,Sestriere,ITA,United States Of America,World Cup,Parallel Slalom,16,150.00
+628,Ott Lynn,Female,03-12-1995,Altenmarkt-Zauchensee,AUT,United States Of America,World Cup,Parallel Slalom,24,70.00
+629,Ott Lynn,Female,02-12-1995,Altenmarkt-Zauchensee,AUT,United States Of America,World Cup,Slalom,24,70.00
+630,Ott Lynn,Female,01-12-1995,Altenmarkt-Zauchensee,AUT,United States Of America,World Cup,Giant Slalom,15,160.00
+631,Ott Lynn,Female,22-11-1995,Zell am See/Kaprun,AUT,United States Of America,World Cup,Giant Slalom,23,80.00
+632,Ott Lynn,Female,21-11-1995,Zell am See/Kaprun,AUT,United States Of America,World Cup,Giant Slalom,13,200.00
+633,Ott Lynn,Female,17-11-1995,Kaprun,AUT,United States Of America,FIS,Parallel Slalom,18,130.00
+634,Ott Lynn,Female,31-03-1995,Sugarloaf,USA,United States Of America,FIS,Slalom,5,110.00
+635,Ott Lynn,Female,30-03-1995,Sugarloaf,USA,United States Of America,FIS,Half Pipe,13,40.00
+636,Ott Lynn,Female,29-03-1995,Sugarloaf,USA,United States Of America,FIS,Giant Slalom,3,130.00
+637,Ott Lynn,Female,05-03-1995,"Sun Valley, ID",USA,United States Of America,FIS,Giant Slalom,3,130.00
+638,Ott Lynn,Female,04-03-1995,"Sun Valley, ID",USA,United States Of America,FIS,Slalom,4,120.00
+639,Ott Lynn,Female,10-02-1995,"Mt Bachelor, OR",USA,United States Of America,World Cup,Halfpipe,4,500.00
+640,Ott Lynn,Female,09-02-1995,"Mt Bachelor, OR",USA,United States Of America,World Cup,Slalom,14,180.00
+641,Ott Lynn,Female,08-02-1995,"Mt Bachelor, OR",USA,United States Of America,World Cup,Giant Slalom,16,150.00
