@@ -1,60 +1,62 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Ha Chang,Male,05-04-2025,Cortina d Ampezzo,ITA,Korea,National Championships,Parallel Slalom,DNS,
-1,Ha Chang,Male,30-03-2025,Haus im Ennstal,AUT,Korea,Junior Regional Cup,Parallel Slalom,6,56.00
-2,Ha Chang,Male,29-03-2025,Krvavec,SLO,Korea,National Championships,Giant Slalom,22,26.10
-3,Ha Chang,Male,23-03-2025,Gosau,AUT,Korea,FIS,Parallel Slalom,7,50.40
-4,Ha Chang,Male,22-03-2025,Gosau,AUT,Korea,FIS,Parallel Slalom,DSQ,
-5,Ha Chang,Male,16-03-2025,Davos,SUI,Korea,Qualification,Parallel Slalom,30,
-6,Ha Chang,Male,16-03-2025,Davos,SUI,Korea,European Cup,Parallel Slalom,30,
-7,Ha Chang,Male,15-03-2025,Davos,SUI,Korea,Qualification,Parallel Slalom,18,
-8,Ha Chang,Male,15-03-2025,Davos,SUI,Korea,European Cup,Parallel Slalom,18,28.60
-9,Ha Chang,Male,09-03-2025,Montafon/Gargellen,AUT,Korea,European Cup,Parallel Slalom,33,8.64
-10,Ha Chang,Male,08-03-2025,Montafon/Gargellen,AUT,Korea,European Cup,Parallel Giant Slalom,34,7.92
-11,Ha Chang,Male,05-03-2025,High1resort,KOR,Korea,Asian Cup,Parallel Slalom,15,28.80
-12,Ha Chang,Male,04-03-2025,High1resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,16,27.00
-13,Ha Chang,Male,09-01-2025,O2 Resort,KOR,Korea,Asian Cup,Parallel Slalom,9,46.40
-14,Ha Chang,Male,08-01-2025,O2 Resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,24,11.20
-15,Ha Chang,Male,19-03-2024,Wanglong Ski Resrort,CHN,Korea,Asian Cup,Slalom,DSQ,
-16,Ha Chang,Male,18-03-2024,Wanglong Ski Resrort,CHN,Korea,Asian Cup,Parallel Giant Slalom,15,32.00
-17,Ha Chang,Male,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Korea,Asian Cup,Parallel Slalom,11,48.00
-18,Ha Chang,Male,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Korea,Asian Cup,Parallel Giant Slalom,19,24.00
-19,Ha Chang,Male,05-03-2024,High1resort,KOR,Korea,Asian Cup,Parallel Slalom,18,26.00
-20,Ha Chang,Male,04-03-2024,High1resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,23,19.20
-21,Ha Chang,Male,02-02-2024,High1resort,KOR,Korea,FIS,Parallel Slalom,DNF,
-22,Ha Chang,Male,01-02-2024,High1resort,KOR,Korea,FIS,Parallel Giant Slalom,17,30.80
-23,Ha Chang,Male,02-04-2023,Haus im Ennstal,AUT,Korea,National Championships,Parallel Slalom,13,58.00
-24,Ha Chang,Male,01-04-2023,Haus im Ennstal,AUT,Korea,National Championships,Parallel Giant Slalom,16,43.50
-25,Ha Chang,Male,30-03-2023,Cortina dAmpezzo,ITA,Korea,National Championships,Parallel Slalom,36,
-26,Ha Chang,Male,28-03-2023,Bansko,BUL,Korea,National Championships,Parallel Slalom,19,24.00
-27,Ha Chang,Male,27-03-2023,Bansko,BUL,Korea,National Championships,Parallel Giant Slalom,10,52.00
-28,Ha Chang,Male,25-03-2023,Bansko,BUL,Korea,FIS Junior World Championships,Parallel Slalom,19,28.80
-29,Ha Chang,Male,25-03-2023,Bansko,BUL,Korea,Qualification,Parallel Slalom,19,
-30,Ha Chang,Male,24-03-2023,Bansko,BUL,Korea,FIS Junior World Championships,Parallel Giant Slalom,31,6.72
-31,Ha Chang,Male,24-03-2023,Bansko,BUL,Korea,Qualification,Parallel Giant Slalom,31,
-32,Ha Chang,Male,19-03-2023,Ratschings,ITA,Korea,European Cup,Parallel Slalom,50,3.72
-33,Ha Chang,Male,18-03-2023,Ratschings,ITA,Korea,European Cup,Parallel Slalom,41,3.28
-34,Ha Chang,Male,12-03-2023,Davos,SUI,Korea,European Cup,Parallel Slalom,36,
-35,Ha Chang,Male,11-03-2023,Davos,SUI,Korea,European Cup,Parallel Slalom,34,
-36,Ha Chang,Male,03-03-2023,high1 resort,KOR,Korea,Asian Cup,Parallel Slalom,11,86.40
-37,Ha Chang,Male,02-03-2023,high1 resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,7,129.60
-38,Ha Chang,Male,22-02-2023,Wellihilli Parkipark,KOR,Korea,National Championships,Snowboard Cross,8,16.00
-39,Ha Chang,Male,07-02-2023,high1 resort,KOR,Korea,FIS,Parallel Slalom,16,33.00
-40,Ha Chang,Male,06-02-2023,high1 resort,KOR,Korea,FIS,Parallel Giant Slalom,17,30.80
-41,Ha Chang,Male,01-04-2022,Chiesa in Valmalenco,ITA,Korea,FIS Junior World Championships,Parallel Slalom,28,9.60
-42,Ha Chang,Male,31-03-2022,Chiesa in Valmalenco,ITA,Korea,FIS Junior World Championships,Parallel Giant Slalom,42,4.30
-43,Ha Chang,Male,27-03-2022,Villach / Gerlitzen,AUT,Korea,National Championships,Parallel Slalom,18,37.70
-44,Ha Chang,Male,26-03-2022,Villach / Gerlitzen,AUT,Korea,National Championships,Parallel Giant Slalom,16,43.50
-45,Ha Chang,Male,03-03-2022,Wellihilli Park,KOR,Korea,National Championships,Parallel Slalom,10,75.40
-46,Ha Chang,Male,02-03-2022,Wellihilli Park,KOR,Korea,National Championships,Parallel Giant Slalom,10,75.40
-47,Ha Chang,Male,22-02-2022,Wellihilli Park,KOR,Korea,FIS,Parallel Slalom,13,44.00
-48,Ha Chang,Male,21-02-2022,Wellihilli Park,KOR,Korea,FIS,Parallel Giant Slalom,14,39.60
-49,Ha Chang,Male,19-02-2022,Wellihilli Parkipark,KOR,Korea,National Championships,Snowboard Cross,10,13.00
-50,Ha Chang,Male,18-02-2022,Wellihilli Parkipark,KOR,Korea,FIS,Snowboard Cross,10,13.00
-51,Ha Chang,Male,26-11-2021,Abzakovo,RUS,Korea,FIS,Parallel Slalom,37,4.27
-52,Ha Chang,Male,25-11-2021,Abzakovo,RUS,Korea,FIS,Parallel Giant Slalom,43,3.87
-53,Ha Chang,Male,26-02-2021,Pyeongchang,KOR,Korea,National Championships,Parallel Slalom,8,22.40
-54,Ha Chang,Male,25-02-2021,Pyeongchang,KOR,Korea,National Championships,Parallel Giant Slalom,13,14.00
-55,Ha Chang,Male,04-02-2021,Pyeongchang,KOR,Korea,FIS,Parallel Slalom,13,14.00
-56,Ha Chang,Male,03-02-2021,Pyeongchang,KOR,Korea,FIS,Parallel Giant Slalom,13,14.00
-57,Ha Chang,Male,29-01-2021,Pyeongchang,KOR,Korea,FIS,Parallel Slalom,12,15.40
-58,Ha Chang,Male,28-01-2021,Pyeongchang,KOR,Korea,FIS,Parallel Giant Slalom,19,
+0,Ha Chang,Male,06-04-2025,Bansko,BUL,Korea,National Championships,Parallel Slalom,4,
+1,Ha Chang,Male,05-04-2025,Cortina d Ampezzo,ITA,Korea,National Championships,Parallel Slalom,DNS,
+2,Ha Chang,Male,05-04-2025,Bansko,BUL,Korea,National Championships,Parallel Giant Slalom,12,
+3,Ha Chang,Male,30-03-2025,Haus im Ennstal,AUT,Korea,Junior Regional Cup,Parallel Slalom,6,56.00
+4,Ha Chang,Male,29-03-2025,Krvavec,SLO,Korea,National Championships,Giant Slalom,22,26.10
+5,Ha Chang,Male,23-03-2025,Gosau,AUT,Korea,FIS,Parallel Slalom,7,50.40
+6,Ha Chang,Male,22-03-2025,Gosau,AUT,Korea,FIS,Parallel Slalom,DSQ,
+7,Ha Chang,Male,16-03-2025,Davos,SUI,Korea,Qualification,Parallel Slalom,30,
+8,Ha Chang,Male,16-03-2025,Davos,SUI,Korea,European Cup,Parallel Slalom,30,
+9,Ha Chang,Male,15-03-2025,Davos,SUI,Korea,Qualification,Parallel Slalom,18,
+10,Ha Chang,Male,15-03-2025,Davos,SUI,Korea,European Cup,Parallel Slalom,18,28.60
+11,Ha Chang,Male,09-03-2025,Montafon/Gargellen,AUT,Korea,European Cup,Parallel Slalom,33,8.64
+12,Ha Chang,Male,08-03-2025,Montafon/Gargellen,AUT,Korea,European Cup,Parallel Giant Slalom,34,7.92
+13,Ha Chang,Male,05-03-2025,High1resort,KOR,Korea,Asian Cup,Parallel Slalom,15,28.80
+14,Ha Chang,Male,04-03-2025,High1resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,16,27.00
+15,Ha Chang,Male,09-01-2025,O2 Resort,KOR,Korea,Asian Cup,Parallel Slalom,9,46.40
+16,Ha Chang,Male,08-01-2025,O2 Resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,24,11.20
+17,Ha Chang,Male,19-03-2024,Wanglong Ski Resrort,CHN,Korea,Asian Cup,Slalom,DSQ,
+18,Ha Chang,Male,18-03-2024,Wanglong Ski Resrort,CHN,Korea,Asian Cup,Parallel Giant Slalom,15,32.00
+19,Ha Chang,Male,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Korea,Asian Cup,Parallel Slalom,11,48.00
+20,Ha Chang,Male,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Korea,Asian Cup,Parallel Giant Slalom,19,24.00
+21,Ha Chang,Male,05-03-2024,High1resort,KOR,Korea,Asian Cup,Parallel Slalom,18,26.00
+22,Ha Chang,Male,04-03-2024,High1resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,23,19.20
+23,Ha Chang,Male,02-02-2024,High1resort,KOR,Korea,FIS,Parallel Slalom,DNF,
+24,Ha Chang,Male,01-02-2024,High1resort,KOR,Korea,FIS,Parallel Giant Slalom,17,30.80
+25,Ha Chang,Male,02-04-2023,Haus im Ennstal,AUT,Korea,National Championships,Parallel Slalom,13,58.00
+26,Ha Chang,Male,01-04-2023,Haus im Ennstal,AUT,Korea,National Championships,Parallel Giant Slalom,16,43.50
+27,Ha Chang,Male,30-03-2023,Cortina dAmpezzo,ITA,Korea,National Championships,Parallel Slalom,36,
+28,Ha Chang,Male,28-03-2023,Bansko,BUL,Korea,National Championships,Parallel Slalom,19,24.00
+29,Ha Chang,Male,27-03-2023,Bansko,BUL,Korea,National Championships,Parallel Giant Slalom,10,52.00
+30,Ha Chang,Male,25-03-2023,Bansko,BUL,Korea,FIS Junior World Championships,Parallel Slalom,19,28.80
+31,Ha Chang,Male,25-03-2023,Bansko,BUL,Korea,Qualification,Parallel Slalom,19,
+32,Ha Chang,Male,24-03-2023,Bansko,BUL,Korea,Qualification,Parallel Giant Slalom,31,
+33,Ha Chang,Male,24-03-2023,Bansko,BUL,Korea,FIS Junior World Championships,Parallel Giant Slalom,31,6.72
+34,Ha Chang,Male,19-03-2023,Ratschings,ITA,Korea,European Cup,Parallel Slalom,50,3.72
+35,Ha Chang,Male,18-03-2023,Ratschings,ITA,Korea,European Cup,Parallel Slalom,41,3.28
+36,Ha Chang,Male,12-03-2023,Davos,SUI,Korea,European Cup,Parallel Slalom,36,
+37,Ha Chang,Male,11-03-2023,Davos,SUI,Korea,European Cup,Parallel Slalom,34,
+38,Ha Chang,Male,03-03-2023,high1 resort,KOR,Korea,Asian Cup,Parallel Slalom,11,86.40
+39,Ha Chang,Male,02-03-2023,high1 resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,7,129.60
+40,Ha Chang,Male,22-02-2023,Wellihilli Parkipark,KOR,Korea,National Championships,Snowboard Cross,8,16.00
+41,Ha Chang,Male,07-02-2023,high1 resort,KOR,Korea,FIS,Parallel Slalom,16,33.00
+42,Ha Chang,Male,06-02-2023,high1 resort,KOR,Korea,FIS,Parallel Giant Slalom,17,30.80
+43,Ha Chang,Male,01-04-2022,Chiesa in Valmalenco,ITA,Korea,FIS Junior World Championships,Parallel Slalom,28,9.60
+44,Ha Chang,Male,31-03-2022,Chiesa in Valmalenco,ITA,Korea,FIS Junior World Championships,Parallel Giant Slalom,42,4.30
+45,Ha Chang,Male,27-03-2022,Villach / Gerlitzen,AUT,Korea,National Championships,Parallel Slalom,18,37.70
+46,Ha Chang,Male,26-03-2022,Villach / Gerlitzen,AUT,Korea,National Championships,Parallel Giant Slalom,16,43.50
+47,Ha Chang,Male,03-03-2022,Wellihilli Park,KOR,Korea,National Championships,Parallel Slalom,10,75.40
+48,Ha Chang,Male,02-03-2022,Wellihilli Park,KOR,Korea,National Championships,Parallel Giant Slalom,10,75.40
+49,Ha Chang,Male,22-02-2022,Wellihilli Park,KOR,Korea,FIS,Parallel Slalom,13,44.00
+50,Ha Chang,Male,21-02-2022,Wellihilli Park,KOR,Korea,FIS,Parallel Giant Slalom,14,39.60
+51,Ha Chang,Male,19-02-2022,Wellihilli Parkipark,KOR,Korea,National Championships,Snowboard Cross,10,13.00
+52,Ha Chang,Male,18-02-2022,Wellihilli Parkipark,KOR,Korea,FIS,Snowboard Cross,10,13.00
+53,Ha Chang,Male,26-11-2021,Abzakovo,RUS,Korea,FIS,Parallel Slalom,37,4.27
+54,Ha Chang,Male,25-11-2021,Abzakovo,RUS,Korea,FIS,Parallel Giant Slalom,43,3.87
+55,Ha Chang,Male,26-02-2021,Pyeongchang,KOR,Korea,National Championships,Parallel Slalom,8,22.40
+56,Ha Chang,Male,25-02-2021,Pyeongchang,KOR,Korea,National Championships,Parallel Giant Slalom,13,14.00
+57,Ha Chang,Male,04-02-2021,Pyeongchang,KOR,Korea,FIS,Parallel Slalom,13,14.00
+58,Ha Chang,Male,03-02-2021,Pyeongchang,KOR,Korea,FIS,Parallel Giant Slalom,13,14.00
+59,Ha Chang,Male,29-01-2021,Pyeongchang,KOR,Korea,FIS,Parallel Slalom,12,15.40
+60,Ha Chang,Male,28-01-2021,Pyeongchang,KOR,Korea,FIS,Parallel Giant Slalom,19,

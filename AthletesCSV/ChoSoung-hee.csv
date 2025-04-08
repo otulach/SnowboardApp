@@ -1,102 +1,104 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Cho Soung-hee,Male,29-03-2025,Krvavec,SLO,Korea,National Championships,Giant Slalom,13,58.00
-1,Cho Soung-hee,Male,05-03-2025,High1resort,KOR,Korea,Asian Cup,Parallel Slalom,5,81.00
-2,Cho Soung-hee,Male,04-03-2025,High1resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,5,81.00
-3,Cho Soung-hee,Male,28-02-2025,Akan,JPN,Korea,Asian Cup,Parallel Giant Slalom,3,96.00
-4,Cho Soung-hee,Male,27-02-2025,Akan,JPN,Korea,Asian Cup,Parallel Slalom,4,80.00
-5,Cho Soung-hee,Male,08-02-2025,Jinshanling Galaxy Ski Resort,CHN,Korea,Asian Cup,Parallel Giant Slalom,6,80.00
-6,Cho Soung-hee,Male,07-02-2025,Jinshanling Galaxy Ski Resort,CHN,Korea,Asian Cup,Parallel Slalom,DNS,
-7,Cho Soung-hee,Male,09-01-2025,O2 Resort,KOR,Korea,Asian Cup,Parallel Slalom,DNF,
-8,Cho Soung-hee,Male,08-01-2025,O2 Resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,1,160.00
-9,Cho Soung-hee,Male,19-03-2024,Wanglong Ski Resrort,CHN,Korea,Asian Cup,Slalom,DSQ,
-10,Cho Soung-hee,Male,18-03-2024,Wanglong Ski Resrort,CHN,Korea,Asian Cup,Parallel Giant Slalom,17,28.00
-11,Cho Soung-hee,Male,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Korea,Asian Cup,Parallel Slalom,DSQ,
-12,Cho Soung-hee,Male,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Korea,Asian Cup,Parallel Giant Slalom,16,30.00
-13,Cho Soung-hee,Male,05-03-2024,High1resort,KOR,Korea,Asian Cup,Parallel Slalom,DNF,
-14,Cho Soung-hee,Male,04-03-2024,High1resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,5,108.00
-15,Cho Soung-hee,Male,02-03-2024,Akan,JPN,Korea,FIS,Parallel Giant Slalom,15,28.80
-16,Cho Soung-hee,Male,01-03-2024,Akan,JPN,Korea,National Championships,Parallel Giant Slalom,6,72.00
-17,Cho Soung-hee,Male,02-02-2024,High1resort,KOR,Korea,FIS,Parallel Slalom,2,176.00
-18,Cho Soung-hee,Male,01-02-2024,High1resort,KOR,Korea,FIS,Parallel Giant Slalom,DSQ,
-19,Cho Soung-hee,Male,19-03-2023,Ratschings,ITA,Korea,European Cup,Parallel Slalom,23,19.20
-20,Cho Soung-hee,Male,18-03-2023,Berchtesgaden,GER,Korea,Qualification,Parallel Slalom,DNF,
-21,Cho Soung-hee,Male,18-03-2023,Berchtesgaden,GER,Korea,World Cup,Parallel Slalom,DNF,
-22,Cho Soung-hee,Male,12-03-2023,Davos,SUI,Korea,European Cup,Parallel Slalom,18,28.60
-23,Cho Soung-hee,Male,11-03-2023,Davos,SUI,Korea,European Cup,Parallel Slalom,DSQ,
-24,Cho Soung-hee,Male,03-03-2023,high1 resort,KOR,Korea,Asian Cup,Parallel Slalom,4,180.00
-25,Cho Soung-hee,Male,02-03-2023,high1 resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,6,144.00
-26,Cho Soung-hee,Male,07-02-2023,high1 resort,KOR,Korea,FIS,Parallel Slalom,5,99.00
-27,Cho Soung-hee,Male,06-02-2023,high1 resort,KOR,Korea,FIS,Parallel Giant Slalom,2,176.00
-28,Cho Soung-hee,Male,29-01-2023,Simonhöhe,AUT,Korea,European Cup,Parallel Giant Slalom,21,18.00
-29,Cho Soung-hee,Male,29-01-2023,Simonhöhe,AUT,Korea,Qualification,Parallel Giant Slalom,21,
-30,Cho Soung-hee,Male,28-01-2023,Simonhöhe,AUT,Korea,European Cup,Parallel Giant Slalom,12,39.60
-31,Cho Soung-hee,Male,28-01-2023,Simonhöhe,AUT,Korea,Qualification,Parallel Giant Slalom,12,
-32,Cho Soung-hee,Male,22-01-2023,Bansko,BUL,Korea,Qualification,Parallel Slalom,39,
-33,Cho Soung-hee,Male,22-01-2023,Bansko,BUL,Korea,World Cup,Parallel Slalom,39,18.80
-34,Cho Soung-hee,Male,21-01-2023,Bansko,BUL,Korea,Qualification,Parallel Slalom,DSQ,
-35,Cho Soung-hee,Male,21-01-2023,Bansko,BUL,Korea,World Cup,Parallel Slalom,DSQ,
-36,Cho Soung-hee,Male,14-01-2023,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,31,
-37,Cho Soung-hee,Male,14-01-2023,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,31,28.00
-38,Cho Soung-hee,Male,10-01-2023,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,40,
-39,Cho Soung-hee,Male,10-01-2023,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,40,18.50
-40,Cho Soung-hee,Male,17-03-2022,Rogla,SLO,Korea,European Cup,Parallel Giant Slalom,4,160.00
-41,Cho Soung-hee,Male,13-03-2022,Spindleruv Mlyn,CZE,Korea,National Championships,Parallel Slalom,2,88.00
-42,Cho Soung-hee,Male,12-03-2022,Spindleruv Mlyn,CZE,Korea,National Championships,Parallel Giant Slalom,3,66.00
-43,Cho Soung-hee,Male,09-03-2022,SUCHE/Zakopane,POL,Korea,National Championships,Parallel Slalom,17,40.60
-44,Cho Soung-hee,Male,08-03-2022,SUCHE/Zakopane,POL,Korea,National Championships,Parallel Giant Slalom,10,75.40
-45,Cho Soung-hee,Male,03-03-2022,Wellihilli Park,KOR,Korea,National Championships,Parallel Slalom,8,92.80
-46,Cho Soung-hee,Male,02-03-2022,Wellihilli Park,KOR,Korea,National Championships,Parallel Giant Slalom,4,145.00
-47,Cho Soung-hee,Male,22-02-2022,Wellihilli Park,KOR,Korea,FIS,Parallel Slalom,3,132.00
-48,Cho Soung-hee,Male,21-02-2022,Wellihilli Park,KOR,Korea,FIS,Parallel Giant Slalom,DSQ,
-49,Cho Soung-hee,Male,26-11-2021,Abzakovo,RUS,Korea,FIS,Parallel Slalom,DSQ,
-50,Cho Soung-hee,Male,25-11-2021,Abzakovo,RUS,Korea,FIS,Parallel Giant Slalom,38,4.20
-51,Cho Soung-hee,Male,26-02-2021,Pyeongchang,KOR,Korea,National Championships,Parallel Slalom,4,35.00
-52,Cho Soung-hee,Male,25-02-2021,Pyeongchang,KOR,Korea,National Championships,Parallel Giant Slalom,5,31.50
-53,Cho Soung-hee,Male,04-02-2021,Pyeongchang,KOR,Korea,FIS,Parallel Slalom,4,35.00
-54,Cho Soung-hee,Male,03-02-2021,Pyeongchang,KOR,Korea,FIS,Parallel Giant Slalom,DSQ,
-55,Cho Soung-hee,Male,29-01-2021,Pyeongchang,KOR,Korea,FIS,Parallel Slalom,1,70.00
-56,Cho Soung-hee,Male,28-01-2021,Pyeongchang,KOR,Korea,FIS,Parallel Giant Slalom,1,70.00
-57,Cho Soung-hee,Male,25-02-2020,Pyeongchang,KOR,Korea,National Championships,Parallel Slalom,5,54.00
-58,Cho Soung-hee,Male,24-02-2020,Pyeongchang,KOR,Korea,National Championships,Parallel Giant Slalom,25,9.00
-59,Cho Soung-hee,Male,07-02-2020,Pyeongchang,KOR,Korea,FIS,Parallel Slalom,6,60.00
-60,Cho Soung-hee,Male,06-02-2020,Pyeongchang,KOR,Korea,FIS,Parallel Giant Slalom,DNF,
-61,Cho Soung-hee,Male,17-01-2020,Pyeongchang,KOR,Korea,FIS,Parallel Slalom,3,42.00
-62,Cho Soung-hee,Male,16-01-2020,Pyeongchang,KOR,Korea,FIS,Parallel Giant Slalom,4,35.00
-63,Cho Soung-hee,Male,15-01-2018,Phoenix Pyeongchang,KOR,Korea,FIS,Parallel Slalom,3,30.00
-64,Cho Soung-hee,Male,14-01-2018,Phoenix Pyeongchang,KOR,Korea,FIS,Parallel GS,4,25.00
-65,Cho Soung-hee,Male,26-02-2017,Lenzerheide,SUI,Korea,European Cup,Parallel Slalom,DSQ1,
-66,Cho Soung-hee,Male,25-02-2017,Lenzerheide,SUI,Korea,European Cup,Parallel Slalom,47,
-67,Cho Soung-hee,Male,21-02-2017,Klinovec,CZE,Korea,FIS Junior World Championships,Parallel Slalom,12,57.20
-68,Cho Soung-hee,Male,20-02-2017,Klinovec,CZE,Korea,FIS Junior World Championships,Parallel GS,47,
-69,Cho Soung-hee,Male,31-01-2017,Shymbulak Ski Resort,KAZ,Korea,Universiade,Parallel Slalom,DSQ,
-70,Cho Soung-hee,Male,30-01-2017,Shymbulak Ski Resort,KAZ,Korea,Universiade,Parallel GS,19,18.00
-71,Cho Soung-hee,Male,03-04-2016,Rogla,SLO,Korea,FIS Junior World Championships,Parallel Slalom,30,11.52
-72,Cho Soung-hee,Male,02-04-2016,Rogla,SLO,Korea,FIS Junior World Championships,Parallel GS,26,18.00
-73,Cho Soung-hee,Male,27-03-2016,Racines,ITA,Korea,European Cup,Parallel Slalom,40,8.32
-74,Cho Soung-hee,Male,26-03-2016,Racines,ITA,Korea,European Cup,Parallel Slalom,50,7.75
-75,Cho Soung-hee,Male,24-03-2016,Rogla,SLO,Korea,European Cup,Parallel Slalom,DSQ1,
-76,Cho Soung-hee,Male,23-03-2016,Rogla,SLO,Korea,European Cup,Parallel GS,39,9.40
-77,Cho Soung-hee,Male,20-03-2016,Gerlitzen,AUT,Korea,European Cup,Parallel GS,51,7.60
-78,Cho Soung-hee,Male,19-03-2016,Gerlitzen,AUT,Korea,European Cup,Parallel GS,43,8.80
-79,Cho Soung-hee,Male,04-04-2015,Sapporo,JPN,Korea,National Championships,Giant Slalom,13,
-80,Cho Soung-hee,Male,04-04-2015,Sapporo,JPN,Korea,FIS,Giant Slalom,13,52.00
-81,Cho Soung-hee,Male,11-03-2015,Yabuli,CHN,Korea,FIS Junior World Championships,Parallel Slalom,18,46.80
-82,Cho Soung-hee,Male,10-03-2015,Yabuli,CHN,Korea,FIS Junior World Championships,Parallel GS,24,
-83,Cho Soung-hee,Male,06-03-2015,Welli Hilli Park,KOR,Korea,National Championships,Parallel Slalom,10,46.80
-84,Cho Soung-hee,Male,05-03-2015,Welli Hilli Park,KOR,Korea,National Championships,Parallel GS,5,81.00
-85,Cho Soung-hee,Male,04-03-2014,Welli Hilli Park,KOR,Korea,National Championships,Parallel Slalom,8,44.80
-86,Cho Soung-hee,Male,03-03-2014,Welli Hilli Park,KOR,Korea,National Championships,Parallel GS,11,38.40
-87,Cho Soung-hee,Male,21-01-2014,Bokwang Phoenix Park,KOR,Korea,FIS,Parallel Slalom,16,18.00
-88,Cho Soung-hee,Male,20-01-2014,Bokwang Phoenix Park,KOR,Korea,FIS,Parallel GS,12,26.40
-89,Cho Soung-hee,Male,07-01-2014,Welli Hilli Park,KOR,Korea,FIS,Parallel Slalom,18,13.00
-90,Cho Soung-hee,Male,06-01-2014,Welli Hilli Park,KOR,Korea,FIS,Parallel GS,DSQ,
-91,Cho Soung-hee,Male,19-12-2013,"Steamboat Springs, CO",USA,Korea,Nor-Am Cup,Parallel GS,25,10.80
-92,Cho Soung-hee,Male,18-12-2013,"Steamboat Springs, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,30,
-93,Cho Soung-hee,Male,15-11-2013,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,41,9.10
-94,Cho Soung-hee,Male,14-11-2013,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,59,6.40
-95,Cho Soung-hee,Male,12-11-2013,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel GS,44,8.65
-96,Cho Soung-hee,Male,11-11-2013,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel GS,58,6.55
-97,Cho Soung-hee,Male,15-12-2012,"Steamboat Springs, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,126,
-98,Cho Soung-hee,Male,14-12-2012,"Steamboat Springs, CO",USA,Korea,Nor-Am Cup,Parallel GS,17,30.80
-99,Cho Soung-hee,Male,14-11-2012,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,45,7.65
-100,Cho Soung-hee,Male,13-11-2012,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel GS,32,11.70
+0,Cho Soung-hee,Male,06-04-2025,Bansko,BUL,Korea,National Championships,Parallel Slalom,7,
+1,Cho Soung-hee,Male,05-04-2025,Bansko,BUL,Korea,National Championships,Parallel Giant Slalom,DSQ,
+2,Cho Soung-hee,Male,29-03-2025,Krvavec,SLO,Korea,National Championships,Giant Slalom,13,58.00
+3,Cho Soung-hee,Male,05-03-2025,High1resort,KOR,Korea,Asian Cup,Parallel Slalom,5,81.00
+4,Cho Soung-hee,Male,04-03-2025,High1resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,5,81.00
+5,Cho Soung-hee,Male,28-02-2025,Akan,JPN,Korea,Asian Cup,Parallel Giant Slalom,3,96.00
+6,Cho Soung-hee,Male,27-02-2025,Akan,JPN,Korea,Asian Cup,Parallel Slalom,4,80.00
+7,Cho Soung-hee,Male,08-02-2025,Jinshanling Galaxy Ski Resort,CHN,Korea,Asian Cup,Parallel Giant Slalom,6,80.00
+8,Cho Soung-hee,Male,07-02-2025,Jinshanling Galaxy Ski Resort,CHN,Korea,Asian Cup,Parallel Slalom,DNS,
+9,Cho Soung-hee,Male,09-01-2025,O2 Resort,KOR,Korea,Asian Cup,Parallel Slalom,DNF,
+10,Cho Soung-hee,Male,08-01-2025,O2 Resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,1,160.00
+11,Cho Soung-hee,Male,19-03-2024,Wanglong Ski Resrort,CHN,Korea,Asian Cup,Slalom,DSQ,
+12,Cho Soung-hee,Male,18-03-2024,Wanglong Ski Resrort,CHN,Korea,Asian Cup,Parallel Giant Slalom,17,28.00
+13,Cho Soung-hee,Male,13-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Korea,Asian Cup,Parallel Slalom,DSQ,
+14,Cho Soung-hee,Male,12-03-2024,Cuiyunshan Galaxy Ski Resort,CHN,Korea,Asian Cup,Parallel Giant Slalom,16,30.00
+15,Cho Soung-hee,Male,05-03-2024,High1resort,KOR,Korea,Asian Cup,Parallel Slalom,DNF,
+16,Cho Soung-hee,Male,04-03-2024,High1resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,5,108.00
+17,Cho Soung-hee,Male,02-03-2024,Akan,JPN,Korea,FIS,Parallel Giant Slalom,15,28.80
+18,Cho Soung-hee,Male,01-03-2024,Akan,JPN,Korea,National Championships,Parallel Giant Slalom,6,72.00
+19,Cho Soung-hee,Male,02-02-2024,High1resort,KOR,Korea,FIS,Parallel Slalom,2,176.00
+20,Cho Soung-hee,Male,01-02-2024,High1resort,KOR,Korea,FIS,Parallel Giant Slalom,DSQ,
+21,Cho Soung-hee,Male,19-03-2023,Ratschings,ITA,Korea,European Cup,Parallel Slalom,23,19.20
+22,Cho Soung-hee,Male,18-03-2023,Berchtesgaden,GER,Korea,Qualification,Parallel Slalom,DNF,
+23,Cho Soung-hee,Male,18-03-2023,Berchtesgaden,GER,Korea,World Cup,Parallel Slalom,DNF,
+24,Cho Soung-hee,Male,12-03-2023,Davos,SUI,Korea,European Cup,Parallel Slalom,18,28.60
+25,Cho Soung-hee,Male,11-03-2023,Davos,SUI,Korea,European Cup,Parallel Slalom,DSQ,
+26,Cho Soung-hee,Male,03-03-2023,high1 resort,KOR,Korea,Asian Cup,Parallel Slalom,4,180.00
+27,Cho Soung-hee,Male,02-03-2023,high1 resort,KOR,Korea,Asian Cup,Parallel Giant Slalom,6,144.00
+28,Cho Soung-hee,Male,07-02-2023,high1 resort,KOR,Korea,FIS,Parallel Slalom,5,99.00
+29,Cho Soung-hee,Male,06-02-2023,high1 resort,KOR,Korea,FIS,Parallel Giant Slalom,2,176.00
+30,Cho Soung-hee,Male,29-01-2023,Simonhöhe,AUT,Korea,European Cup,Parallel Giant Slalom,21,18.00
+31,Cho Soung-hee,Male,29-01-2023,Simonhöhe,AUT,Korea,Qualification,Parallel Giant Slalom,21,
+32,Cho Soung-hee,Male,28-01-2023,Simonhöhe,AUT,Korea,European Cup,Parallel Giant Slalom,12,39.60
+33,Cho Soung-hee,Male,28-01-2023,Simonhöhe,AUT,Korea,Qualification,Parallel Giant Slalom,12,
+34,Cho Soung-hee,Male,22-01-2023,Bansko,BUL,Korea,Qualification,Parallel Slalom,39,
+35,Cho Soung-hee,Male,22-01-2023,Bansko,BUL,Korea,World Cup,Parallel Slalom,39,18.80
+36,Cho Soung-hee,Male,21-01-2023,Bansko,BUL,Korea,Qualification,Parallel Slalom,DSQ,
+37,Cho Soung-hee,Male,21-01-2023,Bansko,BUL,Korea,World Cup,Parallel Slalom,DSQ,
+38,Cho Soung-hee,Male,14-01-2023,Scuol,SUI,Korea,Qualification,Parallel Giant Slalom,31,
+39,Cho Soung-hee,Male,14-01-2023,Scuol,SUI,Korea,World Cup,Parallel Giant Slalom,31,28.00
+40,Cho Soung-hee,Male,10-01-2023,Bad Gastein,AUT,Korea,Qualification,Parallel Slalom,40,
+41,Cho Soung-hee,Male,10-01-2023,Bad Gastein,AUT,Korea,World Cup,Parallel Slalom,40,18.50
+42,Cho Soung-hee,Male,17-03-2022,Rogla,SLO,Korea,European Cup,Parallel Giant Slalom,4,160.00
+43,Cho Soung-hee,Male,13-03-2022,Spindleruv Mlyn,CZE,Korea,National Championships,Parallel Slalom,2,88.00
+44,Cho Soung-hee,Male,12-03-2022,Spindleruv Mlyn,CZE,Korea,National Championships,Parallel Giant Slalom,3,66.00
+45,Cho Soung-hee,Male,09-03-2022,SUCHE/Zakopane,POL,Korea,National Championships,Parallel Slalom,17,40.60
+46,Cho Soung-hee,Male,08-03-2022,SUCHE/Zakopane,POL,Korea,National Championships,Parallel Giant Slalom,10,75.40
+47,Cho Soung-hee,Male,03-03-2022,Wellihilli Park,KOR,Korea,National Championships,Parallel Slalom,8,92.80
+48,Cho Soung-hee,Male,02-03-2022,Wellihilli Park,KOR,Korea,National Championships,Parallel Giant Slalom,4,145.00
+49,Cho Soung-hee,Male,22-02-2022,Wellihilli Park,KOR,Korea,FIS,Parallel Slalom,3,132.00
+50,Cho Soung-hee,Male,21-02-2022,Wellihilli Park,KOR,Korea,FIS,Parallel Giant Slalom,DSQ,
+51,Cho Soung-hee,Male,26-11-2021,Abzakovo,RUS,Korea,FIS,Parallel Slalom,DSQ,
+52,Cho Soung-hee,Male,25-11-2021,Abzakovo,RUS,Korea,FIS,Parallel Giant Slalom,38,4.20
+53,Cho Soung-hee,Male,26-02-2021,Pyeongchang,KOR,Korea,National Championships,Parallel Slalom,4,35.00
+54,Cho Soung-hee,Male,25-02-2021,Pyeongchang,KOR,Korea,National Championships,Parallel Giant Slalom,5,31.50
+55,Cho Soung-hee,Male,04-02-2021,Pyeongchang,KOR,Korea,FIS,Parallel Slalom,4,35.00
+56,Cho Soung-hee,Male,03-02-2021,Pyeongchang,KOR,Korea,FIS,Parallel Giant Slalom,DSQ,
+57,Cho Soung-hee,Male,29-01-2021,Pyeongchang,KOR,Korea,FIS,Parallel Slalom,1,70.00
+58,Cho Soung-hee,Male,28-01-2021,Pyeongchang,KOR,Korea,FIS,Parallel Giant Slalom,1,70.00
+59,Cho Soung-hee,Male,25-02-2020,Pyeongchang,KOR,Korea,National Championships,Parallel Slalom,5,54.00
+60,Cho Soung-hee,Male,24-02-2020,Pyeongchang,KOR,Korea,National Championships,Parallel Giant Slalom,25,9.00
+61,Cho Soung-hee,Male,07-02-2020,Pyeongchang,KOR,Korea,FIS,Parallel Slalom,6,60.00
+62,Cho Soung-hee,Male,06-02-2020,Pyeongchang,KOR,Korea,FIS,Parallel Giant Slalom,DNF,
+63,Cho Soung-hee,Male,17-01-2020,Pyeongchang,KOR,Korea,FIS,Parallel Slalom,3,42.00
+64,Cho Soung-hee,Male,16-01-2020,Pyeongchang,KOR,Korea,FIS,Parallel Giant Slalom,4,35.00
+65,Cho Soung-hee,Male,15-01-2018,Phoenix Pyeongchang,KOR,Korea,FIS,Parallel Slalom,3,30.00
+66,Cho Soung-hee,Male,14-01-2018,Phoenix Pyeongchang,KOR,Korea,FIS,Parallel GS,4,25.00
+67,Cho Soung-hee,Male,26-02-2017,Lenzerheide,SUI,Korea,European Cup,Parallel Slalom,DSQ1,
+68,Cho Soung-hee,Male,25-02-2017,Lenzerheide,SUI,Korea,European Cup,Parallel Slalom,47,
+69,Cho Soung-hee,Male,21-02-2017,Klinovec,CZE,Korea,FIS Junior World Championships,Parallel Slalom,12,57.20
+70,Cho Soung-hee,Male,20-02-2017,Klinovec,CZE,Korea,FIS Junior World Championships,Parallel GS,47,
+71,Cho Soung-hee,Male,31-01-2017,Shymbulak Ski Resort,KAZ,Korea,Universiade,Parallel Slalom,DSQ,
+72,Cho Soung-hee,Male,30-01-2017,Shymbulak Ski Resort,KAZ,Korea,Universiade,Parallel GS,19,18.00
+73,Cho Soung-hee,Male,03-04-2016,Rogla,SLO,Korea,FIS Junior World Championships,Parallel Slalom,30,11.52
+74,Cho Soung-hee,Male,02-04-2016,Rogla,SLO,Korea,FIS Junior World Championships,Parallel GS,26,18.00
+75,Cho Soung-hee,Male,27-03-2016,Racines,ITA,Korea,European Cup,Parallel Slalom,40,8.32
+76,Cho Soung-hee,Male,26-03-2016,Racines,ITA,Korea,European Cup,Parallel Slalom,50,7.75
+77,Cho Soung-hee,Male,24-03-2016,Rogla,SLO,Korea,European Cup,Parallel Slalom,DSQ1,
+78,Cho Soung-hee,Male,23-03-2016,Rogla,SLO,Korea,European Cup,Parallel GS,39,9.40
+79,Cho Soung-hee,Male,20-03-2016,Gerlitzen,AUT,Korea,European Cup,Parallel GS,51,7.60
+80,Cho Soung-hee,Male,19-03-2016,Gerlitzen,AUT,Korea,European Cup,Parallel GS,43,8.80
+81,Cho Soung-hee,Male,04-04-2015,Sapporo,JPN,Korea,National Championships,Giant Slalom,13,
+82,Cho Soung-hee,Male,04-04-2015,Sapporo,JPN,Korea,FIS,Giant Slalom,13,52.00
+83,Cho Soung-hee,Male,11-03-2015,Yabuli,CHN,Korea,FIS Junior World Championships,Parallel Slalom,18,46.80
+84,Cho Soung-hee,Male,10-03-2015,Yabuli,CHN,Korea,FIS Junior World Championships,Parallel GS,24,
+85,Cho Soung-hee,Male,06-03-2015,Welli Hilli Park,KOR,Korea,National Championships,Parallel Slalom,10,46.80
+86,Cho Soung-hee,Male,05-03-2015,Welli Hilli Park,KOR,Korea,National Championships,Parallel GS,5,81.00
+87,Cho Soung-hee,Male,04-03-2014,Welli Hilli Park,KOR,Korea,National Championships,Parallel Slalom,8,44.80
+88,Cho Soung-hee,Male,03-03-2014,Welli Hilli Park,KOR,Korea,National Championships,Parallel GS,11,38.40
+89,Cho Soung-hee,Male,21-01-2014,Bokwang Phoenix Park,KOR,Korea,FIS,Parallel Slalom,16,18.00
+90,Cho Soung-hee,Male,20-01-2014,Bokwang Phoenix Park,KOR,Korea,FIS,Parallel GS,12,26.40
+91,Cho Soung-hee,Male,07-01-2014,Welli Hilli Park,KOR,Korea,FIS,Parallel Slalom,18,13.00
+92,Cho Soung-hee,Male,06-01-2014,Welli Hilli Park,KOR,Korea,FIS,Parallel GS,DSQ,
+93,Cho Soung-hee,Male,19-12-2013,"Steamboat Springs, CO",USA,Korea,Nor-Am Cup,Parallel GS,25,10.80
+94,Cho Soung-hee,Male,18-12-2013,"Steamboat Springs, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,30,
+95,Cho Soung-hee,Male,15-11-2013,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,41,9.10
+96,Cho Soung-hee,Male,14-11-2013,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,59,6.40
+97,Cho Soung-hee,Male,12-11-2013,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel GS,44,8.65
+98,Cho Soung-hee,Male,11-11-2013,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel GS,58,6.55
+99,Cho Soung-hee,Male,15-12-2012,"Steamboat Springs, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,126,
+100,Cho Soung-hee,Male,14-12-2012,"Steamboat Springs, CO",USA,Korea,Nor-Am Cup,Parallel GS,17,30.80
+101,Cho Soung-hee,Male,14-11-2012,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel Slalom,45,7.65
+102,Cho Soung-hee,Male,13-11-2012,"Copper Mountain, CO",USA,Korea,Nor-Am Cup,Parallel GS,32,11.70
