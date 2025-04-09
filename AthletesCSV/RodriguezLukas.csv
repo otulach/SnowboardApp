@@ -1,32 +1,33 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Rodriguez Lukas,Male,04-04-2025,BAQUEIRA BERET,ESP,Spain,National Championships,Snowboard Cross,2,56.00
-1,Rodriguez Lukas,Male,04-02-2023,Font Romeu,FRA,Spain,European Cup,Big Air,13,37.50
-2,Rodriguez Lukas,Male,02-02-2023,Font Romeu,FRA,Spain,European Cup,Slopestyle,36,13.30
-3,Rodriguez Lukas,Male,29-11-2022,Glacier 3000,SUI,Spain,FIS,Slopestyle,1,110.00
-4,Rodriguez Lukas,Male,04-02-2022,Font Romeu,FRA,Spain,FIS,Slopestyle,32,0.10
-5,Rodriguez Lukas,Male,03-02-2022,Font Romeu,FRA,Spain,European Cup,Slopestyle,12,28.30
-6,Rodriguez Lukas,Male,16-01-2022,Baqueira Beret,ESP,Spain,FIS,Snowboard Cross,7,32.40
-7,Rodriguez Lukas,Male,11-03-2021,Leysin,SUI,Spain,European Cup,Slopestyle,16,34.62
-8,Rodriguez Lukas,Male,12-02-2021,La Quillane,FRA,Spain,FIS,Big Air,15,3.60
-9,Rodriguez Lukas,Male,11-02-2021,La Quillane,FRA,Spain,FIS,Big Air,4,27.91
-10,Rodriguez Lukas,Male,26-11-2020,Glacier 3000,SUI,Spain,FIS,Slopestyle,59,8.11
-11,Rodriguez Lukas,Male,01-11-2020,Madrid Snowzone,ESP,Spain,FIS,Slopestyle,4,27.00
-12,Rodriguez Lukas,Male,01-11-2020,Madrid Snowzone,ESP,Spain,FIS,Slopestyle,1,50.00
-13,Rodriguez Lukas,Male,15-02-2020,GRAU ROIG,AND,Spain,FIS,Slopestyle,2,40.00
-14,Rodriguez Lukas,Male,02-02-2020,La Quillane,FRA,Spain,FIS,Big Air,5,49.50
-15,Rodriguez Lukas,Male,01-02-2020,La Quillane,FRA,Spain,FIS,Big Air,12,24.20
-16,Rodriguez Lukas,Male,25-01-2020,Crans Montana,SUI,Spain,FIS,Slopestyle,14,12.60
-17,Rodriguez Lukas,Male,19-01-2020,Vars,FRA,Spain,European Cup,Slopestyle,24,11.20
-18,Rodriguez Lukas,Male,18-01-2020,Vars,FRA,Spain,European Cup,Big Air,57,
-19,Rodriguez Lukas,Male,04-12-2019,Glacier 3000,SUI,Spain,FIS,Slopestyle,11,12.00
-20,Rodriguez Lukas,Male,21-11-2019,Landgraaf,NED,Spain,European Cup,Slopestyle,51,2.43
-21,Rodriguez Lukas,Male,20-11-2019,Landgraaf,NED,Spain,FIS,Slopestyle,35,3.20
-22,Rodriguez Lukas,Male,13-04-2019,Klaeppen,SWE,Spain,FIS Junior World Championships,Big Air,79,
-23,Rodriguez Lukas,Male,12-04-2019,Klaeppen,SWE,Spain,Qualification,Big Air,20,
-24,Rodriguez Lukas,Male,09-04-2019,Klaeppen,SWE,Spain,FIS Junior World Championships,Slopestyle,77,1.78
-25,Rodriguez Lukas,Male,08-04-2019,Klaeppen,SWE,Spain,Qualification,Slopestyle,19,
-26,Rodriguez Lukas,Male,24-03-2019,Laax,SUI,Spain,European Cup,Halfpipe,22,32.40
-27,Rodriguez Lukas,Male,22-03-2019,Laax,SUI,Spain,European Cup,Slopestyle,44,2.77
-28,Rodriguez Lukas,Male,14-02-2019,Bjelasnica,BIH,Spain,European Youth Olympic Festival,Big Air,15,8.00
-29,Rodriguez Lukas,Male,12-02-2019,Bjelasnica,BIH,Spain,European Youth Olympic Festival,Slopestyle,26,2.50
-30,Rodriguez Lukas,Male,26-01-2019,Leysin,SUI,Spain,FIS,Halfpipe,4,25.00
+0,Rodriguez Lukas,Male,06-04-2025,BAQUEIRA BERET,ESP,Spain,National Championships,Slopestyle,1,
+1,Rodriguez Lukas,Male,04-04-2025,BAQUEIRA BERET,ESP,Spain,National Championships,Snowboard Cross,2,56.00
+2,Rodriguez Lukas,Male,04-02-2023,Font Romeu,FRA,Spain,European Cup,Big Air,13,37.50
+3,Rodriguez Lukas,Male,02-02-2023,Font Romeu,FRA,Spain,European Cup,Slopestyle,36,13.30
+4,Rodriguez Lukas,Male,29-11-2022,Glacier 3000,SUI,Spain,FIS,Slopestyle,1,110.00
+5,Rodriguez Lukas,Male,04-02-2022,Font Romeu,FRA,Spain,FIS,Slopestyle,32,0.10
+6,Rodriguez Lukas,Male,03-02-2022,Font Romeu,FRA,Spain,European Cup,Slopestyle,12,28.30
+7,Rodriguez Lukas,Male,16-01-2022,Baqueira Beret,ESP,Spain,FIS,Snowboard Cross,7,32.40
+8,Rodriguez Lukas,Male,11-03-2021,Leysin,SUI,Spain,European Cup,Slopestyle,16,34.62
+9,Rodriguez Lukas,Male,12-02-2021,La Quillane,FRA,Spain,FIS,Big Air,15,3.60
+10,Rodriguez Lukas,Male,11-02-2021,La Quillane,FRA,Spain,FIS,Big Air,4,27.91
+11,Rodriguez Lukas,Male,26-11-2020,Glacier 3000,SUI,Spain,FIS,Slopestyle,59,8.11
+12,Rodriguez Lukas,Male,01-11-2020,Madrid Snowzone,ESP,Spain,FIS,Slopestyle,4,27.00
+13,Rodriguez Lukas,Male,01-11-2020,Madrid Snowzone,ESP,Spain,FIS,Slopestyle,1,50.00
+14,Rodriguez Lukas,Male,15-02-2020,GRAU ROIG,AND,Spain,FIS,Slopestyle,2,40.00
+15,Rodriguez Lukas,Male,02-02-2020,La Quillane,FRA,Spain,FIS,Big Air,5,49.50
+16,Rodriguez Lukas,Male,01-02-2020,La Quillane,FRA,Spain,FIS,Big Air,12,24.20
+17,Rodriguez Lukas,Male,25-01-2020,Crans Montana,SUI,Spain,FIS,Slopestyle,14,12.60
+18,Rodriguez Lukas,Male,19-01-2020,Vars,FRA,Spain,European Cup,Slopestyle,24,11.20
+19,Rodriguez Lukas,Male,18-01-2020,Vars,FRA,Spain,European Cup,Big Air,57,
+20,Rodriguez Lukas,Male,04-12-2019,Glacier 3000,SUI,Spain,FIS,Slopestyle,11,12.00
+21,Rodriguez Lukas,Male,21-11-2019,Landgraaf,NED,Spain,European Cup,Slopestyle,51,2.43
+22,Rodriguez Lukas,Male,20-11-2019,Landgraaf,NED,Spain,FIS,Slopestyle,35,3.20
+23,Rodriguez Lukas,Male,13-04-2019,Klaeppen,SWE,Spain,FIS Junior World Championships,Big Air,79,
+24,Rodriguez Lukas,Male,12-04-2019,Klaeppen,SWE,Spain,Qualification,Big Air,20,
+25,Rodriguez Lukas,Male,09-04-2019,Klaeppen,SWE,Spain,FIS Junior World Championships,Slopestyle,77,1.78
+26,Rodriguez Lukas,Male,08-04-2019,Klaeppen,SWE,Spain,Qualification,Slopestyle,19,
+27,Rodriguez Lukas,Male,24-03-2019,Laax,SUI,Spain,European Cup,Halfpipe,22,32.40
+28,Rodriguez Lukas,Male,22-03-2019,Laax,SUI,Spain,European Cup,Slopestyle,44,2.77
+29,Rodriguez Lukas,Male,14-02-2019,Bjelasnica,BIH,Spain,European Youth Olympic Festival,Big Air,15,8.00
+30,Rodriguez Lukas,Male,12-02-2019,Bjelasnica,BIH,Spain,European Youth Olympic Festival,Slopestyle,26,2.50
+31,Rodriguez Lukas,Male,26-01-2019,Leysin,SUI,Spain,FIS,Halfpipe,4,25.00
