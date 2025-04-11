@@ -1,50 +1,51 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Petit Noe,Male,03-04-2025,Kitzsteinhorn,AUT,France,European Cup,Big Air,14,82.00
-1,Petit Noe,Male,01-04-2025,Kitzsteinhorn,AUT,France,European Cup,Rail Event,DNS,
-2,Petit Noe,Male,21-03-2025,St. Anton,AUT,France,European Cup,Big Air,2,124.40
-3,Petit Noe,Male,11-03-2025,Laax,SUI,France,European Cup Premium,Slopestyle,47,24.90
-4,Petit Noe,Male,05-03-2025,Prato Nevoso,ITA,France,European Cup,Big Air,22,2.90
-5,Petit Noe,Male,19-01-2025,Bardonecchia,ITA,France,Universiade,Big Air,2,81.80
-6,Petit Noe,Male,17-01-2025,Bardonecchia,ITA,France,Universiade,Slopestyle,1,100.00
-7,Petit Noe,Male,11-01-2025,Prato Nevoso,ITA,France,European Cup,Slopestyle,14,34.70
-8,Petit Noe,Male,05-01-2025,Font Romeu,FRA,France,European Cup Premium,Slopestyle,19,29.80
-9,Petit Noe,Male,14-04-2024,Corvatsch,SUI,France,European Cup Premium,Big Air,21,97.10
-10,Petit Noe,Male,12-04-2024,Corvatsch,SUI,France,European Cup Premium,Slopestyle,50,65.60
-11,Petit Noe,Male,07-04-2024,Vars,FRA,France,National Championships,Big Air,2,73.90
-12,Petit Noe,Male,05-04-2024,Vars,FRA,France,National Championships,Slopestyle,7,60.60
-13,Petit Noe,Male,15-03-2024,Tignes,FRA,France,World Cup,Slopestyle,46,38.00
-14,Petit Noe,Male,15-03-2024,Tignes,FRA,France,Qualification,Slopestyle,24,
-15,Petit Noe,Male,22-02-2024,Prato Nevoso,ITA,France,European Cup,Slopestyle,9,101.70
-16,Petit Noe,Male,04-01-2024,Font Romeu,FRA,France,European Cup Premium,Slopestyle,10,85.30
-17,Petit Noe,Male,22-04-2023,Kitzsteinhorn,AUT,France,European Cup,Big Air,5,146.90
-18,Petit Noe,Male,21-04-2023,Kitzsteinhorn,AUT,France,European Cup,Slopestyle,42,17.70
-19,Petit Noe,Male,17-04-2023,Corvatsch,SUI,France,European Cup Premium,Big Air,59,3.40
-20,Petit Noe,Male,14-04-2023,Corvatsch,SUI,France,European Cup Premium,Slopestyle,46,43.20
-21,Petit Noe,Male,03-04-2023,Isola 2000,FRA,France,National Championships,Slopestyle,5,47.30
-22,Petit Noe,Male,01-04-2023,Isola 2000,FRA,France,National Championships,Big Air,7,41.40
-23,Petit Noe,Male,20-01-2023,Gore Mountain,USA,France,Universiade,Big Air,7,35.10
-24,Petit Noe,Male,19-01-2023,Gore Mountain,USA,France,Qualification,Big Air,7,
-25,Petit Noe,Male,18-01-2023,Gore Mountain,USA,France,Universiade,Slopestyle,10,23.00
-26,Petit Noe,Male,17-01-2023,Gore Mountain,USA,France,Qualification,Slopestyle,4,
-27,Petit Noe,Male,13-04-2022,Les Deux Alpes,FRA,France,National Championships,Slopestyle,3,54.40
-28,Petit Noe,Male,25-03-2022,Vuokatti,FIN,France,European Youth Olympic Festival,Slopestyle,12,24.40
-29,Petit Noe,Male,23-03-2022,Vuokatti,FIN,France,European Youth Olympic Festival,Big Air,4,70.20
-30,Petit Noe,Male,13-03-2022,Leysin,SUI,France,FIS Junior World Championships,Slopestyle,56,10.90
-31,Petit Noe,Male,10-03-2022,Leysin,SUI,France,FIS Junior World Championships,Big Air,44,16.40
-32,Petit Noe,Male,04-02-2022,Font Romeu,FRA,France,FIS,Slopestyle,15,17.60
-33,Petit Noe,Male,03-02-2022,Font Romeu,FRA,France,European Cup,Slopestyle,17,19.10
-34,Petit Noe,Male,28-01-2022,Crans Montana,SUI,France,European Cup,Big Air,12,43.50
-35,Petit Noe,Male,26-11-2020,Glacier 3000,SUI,France,FIS,Slopestyle,68,0.84
-36,Petit Noe,Male,01-03-2020,ARINSAL,AND,France,FIS,Slopestyle,7,18.00
-37,Petit Noe,Male,29-02-2020,ARINSAL,AND,France,FIS,Big Air,6,20.00
-38,Petit Noe,Male,02-02-2020,La Quillane,FRA,France,FIS,Big Air,18,14.30
-39,Petit Noe,Male,01-02-2020,La Quillane,FRA,France,FIS,Big Air,10,28.60
-40,Petit Noe,Male,19-01-2020,Vars,FRA,France,European Cup,Slopestyle,47,2.62
-41,Petit Noe,Male,18-01-2020,Vars,FRA,France,European Cup,Big Air,58,
-42,Petit Noe,Male,30-03-2019,Isola 2000,FRA,France,National Championships,Big Air,14,28.80
-43,Petit Noe,Male,29-03-2019,Isola 2000,FRA,France,National Championships,Slopestyle,6,28.00
-44,Petit Noe,Male,22-01-2019,Font Romeu,FRA,France,European Cup,Big Air,36,
-45,Petit Noe,Male,30-03-2018,Saint Lary,FRA,France,National Championships,Big Air,11,28.80
-46,Petit Noe,Male,29-03-2018,Saint Lary,FRA,France,National Championships,Slopestyle,31,1.96
-47,Petit Noe,Male,24-01-2018,Vars,FRA,France,European Cup,Big Air,50,2.48
-48,Petit Noe,Male,23-01-2018,Vars,FRA,France,European Cup,Slopestyle,39,3.01
+0,Petit Noe,Male,10-04-2025,Corvatsch,SUI,France,European Cup Premium,Slopestyle,50,57.00
+1,Petit Noe,Male,03-04-2025,Kitzsteinhorn,AUT,France,European Cup,Big Air,14,82.00
+2,Petit Noe,Male,01-04-2025,Kitzsteinhorn,AUT,France,European Cup,Rail Event,DNS,
+3,Petit Noe,Male,21-03-2025,St. Anton,AUT,France,European Cup,Big Air,2,124.40
+4,Petit Noe,Male,11-03-2025,Laax,SUI,France,European Cup Premium,Slopestyle,47,24.90
+5,Petit Noe,Male,05-03-2025,Prato Nevoso,ITA,France,European Cup,Big Air,22,2.90
+6,Petit Noe,Male,19-01-2025,Bardonecchia,ITA,France,Universiade,Big Air,2,81.80
+7,Petit Noe,Male,17-01-2025,Bardonecchia,ITA,France,Universiade,Slopestyle,1,100.00
+8,Petit Noe,Male,11-01-2025,Prato Nevoso,ITA,France,European Cup,Slopestyle,14,34.70
+9,Petit Noe,Male,05-01-2025,Font Romeu,FRA,France,European Cup Premium,Slopestyle,19,29.80
+10,Petit Noe,Male,14-04-2024,Corvatsch,SUI,France,European Cup Premium,Big Air,21,97.10
+11,Petit Noe,Male,12-04-2024,Corvatsch,SUI,France,European Cup Premium,Slopestyle,50,65.60
+12,Petit Noe,Male,07-04-2024,Vars,FRA,France,National Championships,Big Air,2,73.90
+13,Petit Noe,Male,05-04-2024,Vars,FRA,France,National Championships,Slopestyle,7,60.60
+14,Petit Noe,Male,15-03-2024,Tignes,FRA,France,World Cup,Slopestyle,46,38.00
+15,Petit Noe,Male,15-03-2024,Tignes,FRA,France,Qualification,Slopestyle,24,
+16,Petit Noe,Male,22-02-2024,Prato Nevoso,ITA,France,European Cup,Slopestyle,9,101.70
+17,Petit Noe,Male,04-01-2024,Font Romeu,FRA,France,European Cup Premium,Slopestyle,10,85.30
+18,Petit Noe,Male,22-04-2023,Kitzsteinhorn,AUT,France,European Cup,Big Air,5,146.90
+19,Petit Noe,Male,21-04-2023,Kitzsteinhorn,AUT,France,European Cup,Slopestyle,42,17.70
+20,Petit Noe,Male,17-04-2023,Corvatsch,SUI,France,European Cup Premium,Big Air,59,3.40
+21,Petit Noe,Male,14-04-2023,Corvatsch,SUI,France,European Cup Premium,Slopestyle,46,43.20
+22,Petit Noe,Male,03-04-2023,Isola 2000,FRA,France,National Championships,Slopestyle,5,47.30
+23,Petit Noe,Male,01-04-2023,Isola 2000,FRA,France,National Championships,Big Air,7,41.40
+24,Petit Noe,Male,20-01-2023,Gore Mountain,USA,France,Universiade,Big Air,7,35.10
+25,Petit Noe,Male,19-01-2023,Gore Mountain,USA,France,Qualification,Big Air,7,
+26,Petit Noe,Male,18-01-2023,Gore Mountain,USA,France,Universiade,Slopestyle,10,23.00
+27,Petit Noe,Male,17-01-2023,Gore Mountain,USA,France,Qualification,Slopestyle,4,
+28,Petit Noe,Male,13-04-2022,Les Deux Alpes,FRA,France,National Championships,Slopestyle,3,54.40
+29,Petit Noe,Male,25-03-2022,Vuokatti,FIN,France,European Youth Olympic Festival,Slopestyle,12,24.40
+30,Petit Noe,Male,23-03-2022,Vuokatti,FIN,France,European Youth Olympic Festival,Big Air,4,70.20
+31,Petit Noe,Male,13-03-2022,Leysin,SUI,France,FIS Junior World Championships,Slopestyle,56,10.90
+32,Petit Noe,Male,10-03-2022,Leysin,SUI,France,FIS Junior World Championships,Big Air,44,16.40
+33,Petit Noe,Male,04-02-2022,Font Romeu,FRA,France,FIS,Slopestyle,15,17.60
+34,Petit Noe,Male,03-02-2022,Font Romeu,FRA,France,European Cup,Slopestyle,17,19.10
+35,Petit Noe,Male,28-01-2022,Crans Montana,SUI,France,European Cup,Big Air,12,43.50
+36,Petit Noe,Male,26-11-2020,Glacier 3000,SUI,France,FIS,Slopestyle,68,0.84
+37,Petit Noe,Male,01-03-2020,ARINSAL,AND,France,FIS,Slopestyle,7,18.00
+38,Petit Noe,Male,29-02-2020,ARINSAL,AND,France,FIS,Big Air,6,20.00
+39,Petit Noe,Male,02-02-2020,La Quillane,FRA,France,FIS,Big Air,18,14.30
+40,Petit Noe,Male,01-02-2020,La Quillane,FRA,France,FIS,Big Air,10,28.60
+41,Petit Noe,Male,19-01-2020,Vars,FRA,France,European Cup,Slopestyle,47,2.62
+42,Petit Noe,Male,18-01-2020,Vars,FRA,France,European Cup,Big Air,58,
+43,Petit Noe,Male,30-03-2019,Isola 2000,FRA,France,National Championships,Big Air,14,28.80
+44,Petit Noe,Male,29-03-2019,Isola 2000,FRA,France,National Championships,Slopestyle,6,28.00
+45,Petit Noe,Male,22-01-2019,Font Romeu,FRA,France,European Cup,Big Air,36,
+46,Petit Noe,Male,30-03-2018,Saint Lary,FRA,France,National Championships,Big Air,11,28.80
+47,Petit Noe,Male,29-03-2018,Saint Lary,FRA,France,National Championships,Slopestyle,31,1.96
+48,Petit Noe,Male,24-01-2018,Vars,FRA,France,European Cup,Big Air,50,2.48
+49,Petit Noe,Male,23-01-2018,Vars,FRA,France,European Cup,Slopestyle,39,3.01

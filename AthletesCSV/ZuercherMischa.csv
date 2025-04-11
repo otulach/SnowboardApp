@@ -1,51 +1,52 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Zuercher Mischa,Male,08-04-2025,Corvatsch,SUI,Switzerland,European Cup,Halfpipe,8,60.00
-1,Zuercher Mischa,Male,03-04-2025,Kitzsteinhorn,AUT,Switzerland,European Cup,Big Air,37,38.70
-2,Zuercher Mischa,Male,02-04-2025,Kitzsteinhorn,AUT,Switzerland,European Cup,Halfpipe,3,80.00
-3,Zuercher Mischa,Male,29-03-2025,Engadin,SUI,Switzerland,World Championships,Halfpipe,11,228.30
-4,Zuercher Mischa,Male,27-03-2025,Engadin,SUI,Switzerland,Qualification,Halfpipe,15,
-5,Zuercher Mischa,Male,15-03-2025,Laax,SUI,Switzerland,European Cup Premium,Halfpipe,7,106.10
-6,Zuercher Mischa,Male,11-03-2025,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,71,0.10
-7,Zuercher Mischa,Male,12-02-2025,Bakuriani,GEO,Switzerland,European Youth Olympic Festival,Slopestyle,10,20.80
-8,Zuercher Mischa,Male,18-01-2025,Laax,SUI,Switzerland,World Cup,Halfpipe,24,121.90
-9,Zuercher Mischa,Male,17-01-2025,Laax,SUI,Switzerland,Qualification,Halfpipe,13,
-10,Zuercher Mischa,Male,11-01-2025,Prato Nevoso,ITA,Switzerland,European Cup,Slopestyle,17,30.80
-11,Zuercher Mischa,Male,05-01-2025,Font Romeu,FRA,Switzerland,European Cup Premium,Slopestyle,14,36.30
-12,Zuercher Mischa,Male,21-12-2024,Schilthorn,SUI,Switzerland,FIS,Slopestyle,3,68.90
-13,Zuercher Mischa,Male,19-04-2024,Kitzsteinhorn,AUT,Switzerland,European Cup,Halfpipe,3,80.40
-14,Zuercher Mischa,Male,14-04-2024,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,50,50.40
-15,Zuercher Mischa,Male,12-04-2024,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,45,71.70
-16,Zuercher Mischa,Male,08-04-2024,Corvatsch,SUI,Switzerland,European Cup,Halfpipe,15,43.40
-17,Zuercher Mischa,Male,30-03-2024,Livigno/Mottolino,ITA,Switzerland,FIS Junior World Championships,Big Air,25,36.10
-18,Zuercher Mischa,Male,28-03-2024,Livigno/Mottolino,ITA,Switzerland,Qualification,Big Air,10,
-19,Zuercher Mischa,Male,26-03-2024,Livigno/Mottolino,ITA,Switzerland,FIS Junior World Championships,Slopestyle,48,13.30
-20,Zuercher Mischa,Male,26-03-2024,Livigno/Mottolino,ITA,Switzerland,Qualification,Slopestyle,16,
-21,Zuercher Mischa,Male,12-03-2024,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,35,31.80
-22,Zuercher Mischa,Male,09-03-2024,Laax,SUI,Switzerland,European Cup Premium,Halfpipe,14,41.50
-23,Zuercher Mischa,Male,22-02-2024,Prato Nevoso,ITA,Switzerland,European Cup,Slopestyle,44,21.80
-24,Zuercher Mischa,Male,18-02-2024,Davos,SUI,Switzerland,Junior,Slopestyle,2,41.20
-25,Zuercher Mischa,Male,15-02-2024,Davos,SUI,Switzerland,European Cup,Big Air,20,22.60
-26,Zuercher Mischa,Male,01-02-2024,Gangwon/Welli Hilli,KOR,Switzerland,Youth Olympic Winter Games,Halfpipe,7,90.10
-27,Zuercher Mischa,Male,28-01-2024,Gangwon/Welli Hilli,KOR,Switzerland,Youth Olympic Winter Games,Big Air,14,14.60
-28,Zuercher Mischa,Male,27-01-2024,Gangwon/Welli Hilli,KOR,Switzerland,Qualification,Big Air,14,
-29,Zuercher Mischa,Male,25-01-2024,Gangwon/Welli Hilli,KOR,Switzerland,Youth Olympic Winter Games,Slopestyle,12,34.40
-30,Zuercher Mischa,Male,20-01-2024,Laax,SUI,Switzerland,World Cup,Halfpipe,DNS,
-31,Zuercher Mischa,Male,04-09-2023,Cardrona,NZL,Switzerland,FIS Junior World Championships,Big Air,44,19.70
-32,Zuercher Mischa,Male,02-09-2023,Cardrona,NZL,Switzerland,Qualification,Big Air,24,
-33,Zuercher Mischa,Male,30-08-2023,Cardrona,NZL,Switzerland,FIS Junior World Championships,Slopestyle,42,29.60
-34,Zuercher Mischa,Male,28-08-2023,Cardrona,NZL,Switzerland,Qualification,Slopestyle,20,
-35,Zuercher Mischa,Male,16-04-2023,Corvatsch,SUI,Switzerland,National Junior Championships,Slopestyle,1,50.00
-36,Zuercher Mischa,Male,19-03-2023,Laax,SUI,Switzerland,National Junior Championships,Halfpipe,2,39.60
-37,Zuercher Mischa,Male,18-03-2023,Laax,SUI,Switzerland,European Cup Premium,Halfpipe,6,45.20
-38,Zuercher Mischa,Male,19-02-2023,Davos,SUI,Switzerland,Junior,Slopestyle,2,41.00
-39,Zuercher Mischa,Male,18-02-2023,Davos,SUI,Switzerland,European Cup,Big Air,35,6.80
-40,Zuercher Mischa,Male,05-02-2023,Grindelwald,SUI,Switzerland,Junior,Slopestyle,1,50.00
-41,Zuercher Mischa,Male,05-02-2023,Grindelwald,SUI,Switzerland,FIS,Halfpipe,1,50.00
-42,Zuercher Mischa,Male,03-02-2023,Grindelwald,SUI,Switzerland,FIS,Big Air,11,9.90
-43,Zuercher Mischa,Male,29-01-2023,Leysin,SUI,Switzerland,FIS,Slopestyle,9,16.30
-44,Zuercher Mischa,Male,29-11-2022,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,26,12.80
-45,Zuercher Mischa,Male,09-04-2022,Corvatsch,SUI,Switzerland,National Junior Championships,Slopestyle,2,39.60
-46,Zuercher Mischa,Male,20-03-2022,Laax,SUI,Switzerland,European Cup Premium,Halfpipe,9,83.90
-47,Zuercher Mischa,Male,08-03-2022,Leysin,SUI,Switzerland,FIS Junior World Championships,Halfpipe,14,29.40
-48,Zuercher Mischa,Male,06-02-2022,Grindelwald,SUI,Switzerland,FIS,Big Air,10,11.80
-49,Zuercher Mischa,Male,11-11-2021,Glacier 3000,SUI,Switzerland,Open,Slopestyle,25,22.60
+0,Zuercher Mischa,Male,10-04-2025,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,72,26.50
+1,Zuercher Mischa,Male,08-04-2025,Corvatsch,SUI,Switzerland,European Cup,Halfpipe,8,60.00
+2,Zuercher Mischa,Male,03-04-2025,Kitzsteinhorn,AUT,Switzerland,European Cup,Big Air,37,38.70
+3,Zuercher Mischa,Male,02-04-2025,Kitzsteinhorn,AUT,Switzerland,European Cup,Halfpipe,3,80.00
+4,Zuercher Mischa,Male,29-03-2025,Engadin,SUI,Switzerland,World Championships,Halfpipe,11,228.30
+5,Zuercher Mischa,Male,27-03-2025,Engadin,SUI,Switzerland,Qualification,Halfpipe,15,
+6,Zuercher Mischa,Male,15-03-2025,Laax,SUI,Switzerland,European Cup Premium,Halfpipe,7,106.10
+7,Zuercher Mischa,Male,11-03-2025,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,71,0.10
+8,Zuercher Mischa,Male,12-02-2025,Bakuriani,GEO,Switzerland,European Youth Olympic Festival,Slopestyle,10,20.80
+9,Zuercher Mischa,Male,18-01-2025,Laax,SUI,Switzerland,World Cup,Halfpipe,24,121.90
+10,Zuercher Mischa,Male,17-01-2025,Laax,SUI,Switzerland,Qualification,Halfpipe,13,
+11,Zuercher Mischa,Male,11-01-2025,Prato Nevoso,ITA,Switzerland,European Cup,Slopestyle,17,30.80
+12,Zuercher Mischa,Male,05-01-2025,Font Romeu,FRA,Switzerland,European Cup Premium,Slopestyle,14,36.30
+13,Zuercher Mischa,Male,21-12-2024,Schilthorn,SUI,Switzerland,FIS,Slopestyle,3,68.90
+14,Zuercher Mischa,Male,19-04-2024,Kitzsteinhorn,AUT,Switzerland,European Cup,Halfpipe,3,80.40
+15,Zuercher Mischa,Male,14-04-2024,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,50,50.40
+16,Zuercher Mischa,Male,12-04-2024,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,45,71.70
+17,Zuercher Mischa,Male,08-04-2024,Corvatsch,SUI,Switzerland,European Cup,Halfpipe,15,43.40
+18,Zuercher Mischa,Male,30-03-2024,Livigno/Mottolino,ITA,Switzerland,FIS Junior World Championships,Big Air,25,36.10
+19,Zuercher Mischa,Male,28-03-2024,Livigno/Mottolino,ITA,Switzerland,Qualification,Big Air,10,
+20,Zuercher Mischa,Male,26-03-2024,Livigno/Mottolino,ITA,Switzerland,FIS Junior World Championships,Slopestyle,48,13.30
+21,Zuercher Mischa,Male,26-03-2024,Livigno/Mottolino,ITA,Switzerland,Qualification,Slopestyle,16,
+22,Zuercher Mischa,Male,12-03-2024,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,35,31.80
+23,Zuercher Mischa,Male,09-03-2024,Laax,SUI,Switzerland,European Cup Premium,Halfpipe,14,41.50
+24,Zuercher Mischa,Male,22-02-2024,Prato Nevoso,ITA,Switzerland,European Cup,Slopestyle,44,21.80
+25,Zuercher Mischa,Male,18-02-2024,Davos,SUI,Switzerland,Junior,Slopestyle,2,41.20
+26,Zuercher Mischa,Male,15-02-2024,Davos,SUI,Switzerland,European Cup,Big Air,20,22.60
+27,Zuercher Mischa,Male,01-02-2024,Gangwon/Welli Hilli,KOR,Switzerland,Youth Olympic Winter Games,Halfpipe,7,90.10
+28,Zuercher Mischa,Male,28-01-2024,Gangwon/Welli Hilli,KOR,Switzerland,Youth Olympic Winter Games,Big Air,14,14.60
+29,Zuercher Mischa,Male,27-01-2024,Gangwon/Welli Hilli,KOR,Switzerland,Qualification,Big Air,14,
+30,Zuercher Mischa,Male,25-01-2024,Gangwon/Welli Hilli,KOR,Switzerland,Youth Olympic Winter Games,Slopestyle,12,34.40
+31,Zuercher Mischa,Male,20-01-2024,Laax,SUI,Switzerland,World Cup,Halfpipe,DNS,
+32,Zuercher Mischa,Male,04-09-2023,Cardrona,NZL,Switzerland,FIS Junior World Championships,Big Air,44,19.70
+33,Zuercher Mischa,Male,02-09-2023,Cardrona,NZL,Switzerland,Qualification,Big Air,24,
+34,Zuercher Mischa,Male,30-08-2023,Cardrona,NZL,Switzerland,FIS Junior World Championships,Slopestyle,42,29.60
+35,Zuercher Mischa,Male,28-08-2023,Cardrona,NZL,Switzerland,Qualification,Slopestyle,20,
+36,Zuercher Mischa,Male,16-04-2023,Corvatsch,SUI,Switzerland,National Junior Championships,Slopestyle,1,50.00
+37,Zuercher Mischa,Male,19-03-2023,Laax,SUI,Switzerland,National Junior Championships,Halfpipe,2,39.60
+38,Zuercher Mischa,Male,18-03-2023,Laax,SUI,Switzerland,European Cup Premium,Halfpipe,6,45.20
+39,Zuercher Mischa,Male,19-02-2023,Davos,SUI,Switzerland,Junior,Slopestyle,2,41.00
+40,Zuercher Mischa,Male,18-02-2023,Davos,SUI,Switzerland,European Cup,Big Air,35,6.80
+41,Zuercher Mischa,Male,05-02-2023,Grindelwald,SUI,Switzerland,Junior,Slopestyle,1,50.00
+42,Zuercher Mischa,Male,05-02-2023,Grindelwald,SUI,Switzerland,FIS,Halfpipe,1,50.00
+43,Zuercher Mischa,Male,03-02-2023,Grindelwald,SUI,Switzerland,FIS,Big Air,11,9.90
+44,Zuercher Mischa,Male,29-01-2023,Leysin,SUI,Switzerland,FIS,Slopestyle,9,16.30
+45,Zuercher Mischa,Male,29-11-2022,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,26,12.80
+46,Zuercher Mischa,Male,09-04-2022,Corvatsch,SUI,Switzerland,National Junior Championships,Slopestyle,2,39.60
+47,Zuercher Mischa,Male,20-03-2022,Laax,SUI,Switzerland,European Cup Premium,Halfpipe,9,83.90
+48,Zuercher Mischa,Male,08-03-2022,Leysin,SUI,Switzerland,FIS Junior World Championships,Halfpipe,14,29.40
+49,Zuercher Mischa,Male,06-02-2022,Grindelwald,SUI,Switzerland,FIS,Big Air,10,11.80
+50,Zuercher Mischa,Male,11-11-2021,Glacier 3000,SUI,Switzerland,Open,Slopestyle,25,22.60

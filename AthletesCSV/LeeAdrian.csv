@@ -1,62 +1,63 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Lee Adrian,Male,03-04-2025,Kitzsteinhorn,AUT,Philippines,European Cup,Big Air,DNS,
-1,Lee Adrian,Male,01-04-2025,Kitzsteinhorn,AUT,Philippines,European Cup,Rail Event,31,11.70
-2,Lee Adrian,Male,31-03-2025,Alpe di Siusi/Seiseralm,ITA,Philippines,National Championships,Slopestyle,22,12.00
-3,Lee Adrian,Male,30-03-2025,Alpe di Siusi/Seiseralm,ITA,Philippines,National Championships,Big Air,7,115.10
-4,Lee Adrian,Male,17-03-2025,Sun Peaks,CAN,Philippines,FIS,Slopestyle,15,8.90
-5,Lee Adrian,Male,03-11-2024,SnowZone Madrid,ESP,Philippines,FIS,Slopestyle,10,0.10
-6,Lee Adrian,Male,02-11-2024,SnowZone Madrid,ESP,Philippines,FIS,Slopestyle,3,31.70
-7,Lee Adrian,Male,25-02-2020,Mount St-Louis Moonstone,CAN,Philippines,Nor-Am Cup,Slopestyle,13,40.00
-8,Lee Adrian,Male,24-02-2020,Mount St-Louis Moonstone,CAN,Philippines,Nor-Am Cup,Slopestyle,19,24.00
-9,Lee Adrian,Male,09-02-2020,Silver Star Mountain Resort,CAN,Philippines,FIS,Slopestyle,1,50.00
-10,Lee Adrian,Male,08-02-2020,Silver Star Mountain Resort,CAN,Philippines,FIS,Slopestyle,2,40.00
-11,Lee Adrian,Male,15-02-2018,Tremblant.QC,CAN,Philippines,FIS,Slopestyle,11,26.40
-12,Lee Adrian,Male,14-02-2018,Tremblant.QC,CAN,Philippines,FIS,Slopestyle,12,24.20
-13,Lee Adrian,Male,09-02-2018,Mount St-Louis Moonstone,CAN,Philippines,Nor-Am Cup,Slopestyle,7,57.60
-14,Lee Adrian,Male,24-01-2018,Sun Peaks,CAN,Philippines,Nor-Am Cup,Slopestyle,9,46.40
-15,Lee Adrian,Male,23-01-2018,Sun Peaks,CAN,Philippines,Nor-Am Cup,Slopestyle,10,41.60
-16,Lee Adrian,Male,14-01-2018,Big White Ski Resort,CAN,Philippines,FIS,Slopestyle,1,50.00
-17,Lee Adrian,Male,13-01-2018,Big White Ski Resort,CAN,Philippines,FIS,Slopestyle,1,50.00
-18,Lee Adrian,Male,23-11-2017,Landgraaf,NED,Philippines,European Cup,Slopestyle,31,4.48
-19,Lee Adrian,Male,22-11-2017,Landgraaf,NED,Philippines,FIS,Slopestyle,17,15.40
-20,Lee Adrian,Male,21-11-2017,Glacier 3000,SUI,Philippines,FIS,Slopestyle,4,35.00
-21,Lee Adrian,Male,11-03-2017,Horseshoe Ski Resort,CAN,Philippines,National Championships,Big Air,16,10.50
-22,Lee Adrian,Male,09-03-2017,Mount St-Louis Moonstone,CAN,Philippines,Nor-Am Cup,Slopestyle,10,41.60
-23,Lee Adrian,Male,16-02-2017,Sun Peaks,CAN,Philippines,Nor-Am Cup,Slopestyle,20,17.60
-24,Lee Adrian,Male,15-02-2017,Sun Peaks,CAN,Philippines,Nor-Am Cup,Slopestyle,17,22.40
-25,Lee Adrian,Male,11-02-2017,Canada Olympic Park,CAN,Philippines,Nor-Am Cup,Slopestyle,4,80.00
-26,Lee Adrian,Male,22-01-2017,Mt Seymour,CAN,Philippines,FIS,Slopestyle,2,40.00
-27,Lee Adrian,Male,21-01-2017,Mt Seymour,CAN,Philippines,FIS,Slopestyle,4,25.00
-28,Lee Adrian,Male,08-01-2017,Big White Ski Resort,CAN,Philippines,FIS,Slopestyle,3,30.00
-29,Lee Adrian,Male,07-01-2017,Big White Ski Resort,CAN,Philippines,FIS,Slopestyle,8,16.00
-30,Lee Adrian,Male,12-03-2016,Horseshoe Ski Resort,CAN,Philippines,National Championships,Big Air,19,6.00
-31,Lee Adrian,Male,11-03-2016,Mount St Louis Ski Resort,CAN,Philippines,National Championships,Slopestyle,13,14.00
-32,Lee Adrian,Male,05-03-2016,Big White Ski Resort,CAN,Philippines,FIS,Slopestyle,3,30.00
-33,Lee Adrian,Male,14-02-2016,Mt Seymour,CAN,Philippines,FIS,Slopestyle,5,22.50
-34,Lee Adrian,Male,13-02-2016,Mt Seymour,CAN,Philippines,FIS,Slopestyle,3,30.00
-35,Lee Adrian,Male,24-01-2016,Sunshine Village,CAN,Philippines,FIS,Slopestyle,34,1.10
-36,Lee Adrian,Male,23-01-2016,Sunshine Village,CAN,Philippines,FIS,Big Air,21,5.00
-37,Lee Adrian,Male,17-01-2016,"Whistler Backcomb, BC",CAN,Philippines,FIS,Slopestyle,19,13.20
-38,Lee Adrian,Male,10-01-2016,Big White Ski Resort,CAN,Philippines,FIS,Slopestyle,9,14.50
-39,Lee Adrian,Male,09-01-2016,Big White Ski Resort,CAN,Philippines,FIS,Slopestyle,18,6.50
-40,Lee Adrian,Male,25-03-2015,"Blackcomb Mtn, Whislter",CAN,Philippines,National Championships,Slopestyle,31,3.92
-41,Lee Adrian,Male,07-03-2015,Big White ,CAN,Philippines,FIS,Slopestyle,2,40.00
-42,Lee Adrian,Male,01-02-2015,"Mt Washington, B.C.",CAN,Philippines,FIS,Slopestyle,8,28.80
-43,Lee Adrian,Male,31-01-2015,"Mt Washington, B.C.",CAN,Philippines,FIS,Slopestyle,8,28.80
-44,Lee Adrian,Male,04-01-2015,"Big White Resort, BC",CAN,Philippines,FIS,Slopestyle,1,50.00
-45,Lee Adrian,Male,03-01-2015,"Big White Resort, BC",CAN,Philippines,FIS,Slopestyle,9,14.50
-46,Lee Adrian,Male,22-03-2014,Calgary Olympic Park,CAN,Philippines,FIS,Slopestyle,18,16.90
-47,Lee Adrian,Male,20-03-2014,Calgary Olympic Park,CAN,Philippines,FIS,Slopestyle,11,12.00
-48,Lee Adrian,Male,01-03-2014,Big White,CAN,Philippines,FIS,Slopestyle,2,56.00
-49,Lee Adrian,Male,16-02-2014,Mt Seymour,CAN,Philippines,FIS,Slopestyle,7,18.00
-50,Lee Adrian,Male,15-02-2014,Mt Seymour,CAN,Philippines,FIS,Slopestyle,4,25.00
-51,Lee Adrian,Male,05-01-2014,Big White ,CAN,Philippines,FIS,Slopestyle,13,14.00
-52,Lee Adrian,Male,04-01-2014,Big White ,CAN,Philippines,FIS,Slopestyle,8,16.00
-53,Lee Adrian,Male,03-03-2013,"Big White, BC",CAN,Philippines,FIS,Snowboardcross,21,5.00
-54,Lee Adrian,Male,02-03-2013,"Big White, BC",CAN,Philippines,FIS,Slopestyle,12,11.00
-55,Lee Adrian,Male,17-02-2013,Mount Seymour,CAN,Philippines,FIS,Slopestyle,12,11.00
-56,Lee Adrian,Male,16-02-2013,Mount Seymour,CAN,Philippines,FIS,Slopestyle,7,18.00
-57,Lee Adrian,Male,20-01-2013,"Sun Peaks Ski Resort, BC",CAN,Philippines,FIS,Slopestyle,14,9.00
-58,Lee Adrian,Male,19-01-2013,"Sun Peaks Ski Resort, BC",CAN,Philippines,FIS,Slopestyle,17,7.00
-59,Lee Adrian,Male,06-01-2013,"Big White, BC",CAN,Philippines,FIS,Slopestyle,13,10.00
-60,Lee Adrian,Male,05-01-2013,"Big White, BC",CAN,Philippines,FIS,Slopestyle,20,5.50
+0,Lee Adrian,Male,10-04-2025,Corvatsch,SUI,Philippines,European Cup Premium,Slopestyle,57,47.30
+1,Lee Adrian,Male,03-04-2025,Kitzsteinhorn,AUT,Philippines,European Cup,Big Air,DNS,
+2,Lee Adrian,Male,01-04-2025,Kitzsteinhorn,AUT,Philippines,European Cup,Rail Event,31,11.70
+3,Lee Adrian,Male,31-03-2025,Alpe di Siusi/Seiseralm,ITA,Philippines,National Championships,Slopestyle,22,12.00
+4,Lee Adrian,Male,30-03-2025,Alpe di Siusi/Seiseralm,ITA,Philippines,National Championships,Big Air,7,115.10
+5,Lee Adrian,Male,17-03-2025,Sun Peaks,CAN,Philippines,FIS,Slopestyle,15,8.90
+6,Lee Adrian,Male,03-11-2024,SnowZone Madrid,ESP,Philippines,FIS,Slopestyle,10,0.10
+7,Lee Adrian,Male,02-11-2024,SnowZone Madrid,ESP,Philippines,FIS,Slopestyle,3,31.70
+8,Lee Adrian,Male,25-02-2020,Mount St-Louis Moonstone,CAN,Philippines,Nor-Am Cup,Slopestyle,13,40.00
+9,Lee Adrian,Male,24-02-2020,Mount St-Louis Moonstone,CAN,Philippines,Nor-Am Cup,Slopestyle,19,24.00
+10,Lee Adrian,Male,09-02-2020,Silver Star Mountain Resort,CAN,Philippines,FIS,Slopestyle,1,50.00
+11,Lee Adrian,Male,08-02-2020,Silver Star Mountain Resort,CAN,Philippines,FIS,Slopestyle,2,40.00
+12,Lee Adrian,Male,15-02-2018,Tremblant.QC,CAN,Philippines,FIS,Slopestyle,11,26.40
+13,Lee Adrian,Male,14-02-2018,Tremblant.QC,CAN,Philippines,FIS,Slopestyle,12,24.20
+14,Lee Adrian,Male,09-02-2018,Mount St-Louis Moonstone,CAN,Philippines,Nor-Am Cup,Slopestyle,7,57.60
+15,Lee Adrian,Male,24-01-2018,Sun Peaks,CAN,Philippines,Nor-Am Cup,Slopestyle,9,46.40
+16,Lee Adrian,Male,23-01-2018,Sun Peaks,CAN,Philippines,Nor-Am Cup,Slopestyle,10,41.60
+17,Lee Adrian,Male,14-01-2018,Big White Ski Resort,CAN,Philippines,FIS,Slopestyle,1,50.00
+18,Lee Adrian,Male,13-01-2018,Big White Ski Resort,CAN,Philippines,FIS,Slopestyle,1,50.00
+19,Lee Adrian,Male,23-11-2017,Landgraaf,NED,Philippines,European Cup,Slopestyle,31,4.48
+20,Lee Adrian,Male,22-11-2017,Landgraaf,NED,Philippines,FIS,Slopestyle,17,15.40
+21,Lee Adrian,Male,21-11-2017,Glacier 3000,SUI,Philippines,FIS,Slopestyle,4,35.00
+22,Lee Adrian,Male,11-03-2017,Horseshoe Ski Resort,CAN,Philippines,National Championships,Big Air,16,10.50
+23,Lee Adrian,Male,09-03-2017,Mount St-Louis Moonstone,CAN,Philippines,Nor-Am Cup,Slopestyle,10,41.60
+24,Lee Adrian,Male,16-02-2017,Sun Peaks,CAN,Philippines,Nor-Am Cup,Slopestyle,20,17.60
+25,Lee Adrian,Male,15-02-2017,Sun Peaks,CAN,Philippines,Nor-Am Cup,Slopestyle,17,22.40
+26,Lee Adrian,Male,11-02-2017,Canada Olympic Park,CAN,Philippines,Nor-Am Cup,Slopestyle,4,80.00
+27,Lee Adrian,Male,22-01-2017,Mt Seymour,CAN,Philippines,FIS,Slopestyle,2,40.00
+28,Lee Adrian,Male,21-01-2017,Mt Seymour,CAN,Philippines,FIS,Slopestyle,4,25.00
+29,Lee Adrian,Male,08-01-2017,Big White Ski Resort,CAN,Philippines,FIS,Slopestyle,3,30.00
+30,Lee Adrian,Male,07-01-2017,Big White Ski Resort,CAN,Philippines,FIS,Slopestyle,8,16.00
+31,Lee Adrian,Male,12-03-2016,Horseshoe Ski Resort,CAN,Philippines,National Championships,Big Air,19,6.00
+32,Lee Adrian,Male,11-03-2016,Mount St Louis Ski Resort,CAN,Philippines,National Championships,Slopestyle,13,14.00
+33,Lee Adrian,Male,05-03-2016,Big White Ski Resort,CAN,Philippines,FIS,Slopestyle,3,30.00
+34,Lee Adrian,Male,14-02-2016,Mt Seymour,CAN,Philippines,FIS,Slopestyle,5,22.50
+35,Lee Adrian,Male,13-02-2016,Mt Seymour,CAN,Philippines,FIS,Slopestyle,3,30.00
+36,Lee Adrian,Male,24-01-2016,Sunshine Village,CAN,Philippines,FIS,Slopestyle,34,1.10
+37,Lee Adrian,Male,23-01-2016,Sunshine Village,CAN,Philippines,FIS,Big Air,21,5.00
+38,Lee Adrian,Male,17-01-2016,"Whistler Backcomb, BC",CAN,Philippines,FIS,Slopestyle,19,13.20
+39,Lee Adrian,Male,10-01-2016,Big White Ski Resort,CAN,Philippines,FIS,Slopestyle,9,14.50
+40,Lee Adrian,Male,09-01-2016,Big White Ski Resort,CAN,Philippines,FIS,Slopestyle,18,6.50
+41,Lee Adrian,Male,25-03-2015,"Blackcomb Mtn, Whislter",CAN,Philippines,National Championships,Slopestyle,31,3.92
+42,Lee Adrian,Male,07-03-2015,Big White ,CAN,Philippines,FIS,Slopestyle,2,40.00
+43,Lee Adrian,Male,01-02-2015,"Mt Washington, B.C.",CAN,Philippines,FIS,Slopestyle,8,28.80
+44,Lee Adrian,Male,31-01-2015,"Mt Washington, B.C.",CAN,Philippines,FIS,Slopestyle,8,28.80
+45,Lee Adrian,Male,04-01-2015,"Big White Resort, BC",CAN,Philippines,FIS,Slopestyle,1,50.00
+46,Lee Adrian,Male,03-01-2015,"Big White Resort, BC",CAN,Philippines,FIS,Slopestyle,9,14.50
+47,Lee Adrian,Male,22-03-2014,Calgary Olympic Park,CAN,Philippines,FIS,Slopestyle,18,16.90
+48,Lee Adrian,Male,20-03-2014,Calgary Olympic Park,CAN,Philippines,FIS,Slopestyle,11,12.00
+49,Lee Adrian,Male,01-03-2014,Big White,CAN,Philippines,FIS,Slopestyle,2,56.00
+50,Lee Adrian,Male,16-02-2014,Mt Seymour,CAN,Philippines,FIS,Slopestyle,7,18.00
+51,Lee Adrian,Male,15-02-2014,Mt Seymour,CAN,Philippines,FIS,Slopestyle,4,25.00
+52,Lee Adrian,Male,05-01-2014,Big White ,CAN,Philippines,FIS,Slopestyle,13,14.00
+53,Lee Adrian,Male,04-01-2014,Big White ,CAN,Philippines,FIS,Slopestyle,8,16.00
+54,Lee Adrian,Male,03-03-2013,"Big White, BC",CAN,Philippines,FIS,Snowboardcross,21,5.00
+55,Lee Adrian,Male,02-03-2013,"Big White, BC",CAN,Philippines,FIS,Slopestyle,12,11.00
+56,Lee Adrian,Male,17-02-2013,Mount Seymour,CAN,Philippines,FIS,Slopestyle,12,11.00
+57,Lee Adrian,Male,16-02-2013,Mount Seymour,CAN,Philippines,FIS,Slopestyle,7,18.00
+58,Lee Adrian,Male,20-01-2013,"Sun Peaks Ski Resort, BC",CAN,Philippines,FIS,Slopestyle,14,9.00
+59,Lee Adrian,Male,19-01-2013,"Sun Peaks Ski Resort, BC",CAN,Philippines,FIS,Slopestyle,17,7.00
+60,Lee Adrian,Male,06-01-2013,"Big White, BC",CAN,Philippines,FIS,Slopestyle,13,10.00
+61,Lee Adrian,Male,05-01-2013,"Big White, BC",CAN,Philippines,FIS,Slopestyle,20,5.50

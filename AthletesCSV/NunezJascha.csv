@@ -1,37 +1,38 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Nunez Jascha,Male,03-04-2025,Kitzsteinhorn,AUT,Austria,European Cup,Big Air,34,43.00
-1,Nunez Jascha,Male,22-03-2025,St. Anton,AUT,Austria,FIS,Slopestyle,19,6.30
-2,Nunez Jascha,Male,21-03-2025,St. Anton,AUT,Austria,European Cup,Big Air,7,58.20
-3,Nunez Jascha,Male,09-02-2025,Mayrhofen,AUT,Austria,FIS,Slopestyle,12,12.10
-4,Nunez Jascha,Male,15-01-2025,Seiser Alm,ITA,Austria,European Cup,Slopestyle,20,23.00
-5,Nunez Jascha,Male,11-01-2025,Prato Nevoso,ITA,Austria,European Cup,Slopestyle,24,25.20
-6,Nunez Jascha,Male,05-01-2024,Font Romeu,FRA,Austria,European Cup,Big Air,20,39.30
-7,Nunez Jascha,Male,04-01-2024,Font Romeu,FRA,Austria,European Cup Premium,Slopestyle,29,41.00
-8,Nunez Jascha,Male,22-04-2023,Kitzsteinhorn,AUT,Austria,European Cup,Big Air,43,12.90
-9,Nunez Jascha,Male,21-04-2023,Kitzsteinhorn,AUT,Austria,European Cup,Slopestyle,20,42.00
-10,Nunez Jascha,Male,20-03-2023,Mottolino Livigno,ITA,Austria,European Cup,Slopestyle,29,30.90
-11,Nunez Jascha,Male,17-03-2023,Laax,SUI,Austria,European Cup Premium,Slopestyle,78,25.30
-12,Nunez Jascha,Male,18-02-2023,Davos,SUI,Austria,European Cup,Big Air,40,2.60
-13,Nunez Jascha,Male,12-02-2023,Mayrhofen,AUT,Austria,FIS,Slopestyle,4,33.10
-14,Nunez Jascha,Male,02-02-2023,Font Romeu,FRA,Austria,European Cup,Slopestyle,DNS,
-15,Nunez Jascha,Male,25-01-2023,Prato Nevoso,ITA,Austria,European Cup,Slopestyle,25,20.30
-16,Nunez Jascha,Male,22-04-2022,Kitzsteinhorn,AUT,Austria,National Championships,Slopestyle,5,22.80
-17,Nunez Jascha,Male,20-04-2022,Kitzsteinhorn,AUT,Austria,European Cup,Halfpipe,10,6.00
-18,Nunez Jascha,Male,25-03-2022,Vuokatti,FIN,Austria,European Youth Olympic Festival,Slopestyle,27,7.80
-19,Nunez Jascha,Male,23-03-2022,Vuokatti,FIN,Austria,European Youth Olympic Festival,Big Air,19,16.90
-20,Nunez Jascha,Male,26-02-2022,Götschen,GER,Austria,European Cup,Big Air,30,25.60
-21,Nunez Jascha,Male,25-02-2022,Götschen,GER,Austria,European Cup,Slopestyle,36,28.30
-22,Nunez Jascha,Male,06-02-2022,Grindelwald,SUI,Austria,FIS,Big Air,6,20.70
-23,Nunez Jascha,Male,01-05-2021,Hintertux,AUT,Austria,Junior,Slopestyle,36,0.06
-24,Nunez Jascha,Male,11-03-2021,Leysin,SUI,Austria,European Cup,Slopestyle,27,13.21
-25,Nunez Jascha,Male,06-03-2021,Götschen,GER,Austria,FIS,Big Air,11,17.50
-26,Nunez Jascha,Male,05-03-2021,Götschen,GER,Austria,European Cup,Big Air,38,0.03
-27,Nunez Jascha,Male,04-03-2021,Flachauwinkel,AUT,Austria,European Cup,Big Air,41,10.93
-28,Nunez Jascha,Male,06-02-2021,Grindelwald,SUI,Austria,FIS,Big Air,15,5.18
-29,Nunez Jascha,Male,26-11-2020,Glacier 3000,SUI,Austria,FIS,Slopestyle,57,9.73
-30,Nunez Jascha,Male,06-03-2020,Absolut Park Flachauwinkel,AUT,Austria,European Cup,Big Air,44,3.46
-31,Nunez Jascha,Male,19-03-2019,Jasna,SVK,Austria,European Cup,Slopestyle,19,19.20
-32,Nunez Jascha,Male,18-03-2019,Jasna,SVK,Austria,European Cup,Slopestyle,17,22.40
-33,Nunez Jascha,Male,17-03-2019,Kuehtai,AUT,Austria,European Cup,Halfpipe,14,32.40
-34,Nunez Jascha,Male,16-03-2019,Kuehtai,AUT,Austria,European Cup,Big Air,13,32.00
-35,Nunez Jascha,Male,16-01-2019,Kreischberg,AUT,Austria,European Cup,Slopestyle,DNS1,
+0,Nunez Jascha,Male,10-04-2025,Corvatsch,SUI,Austria,European Cup Premium,Slopestyle,DNS,
+1,Nunez Jascha,Male,03-04-2025,Kitzsteinhorn,AUT,Austria,European Cup,Big Air,34,43.00
+2,Nunez Jascha,Male,22-03-2025,St. Anton,AUT,Austria,FIS,Slopestyle,19,6.30
+3,Nunez Jascha,Male,21-03-2025,St. Anton,AUT,Austria,European Cup,Big Air,7,58.20
+4,Nunez Jascha,Male,09-02-2025,Mayrhofen,AUT,Austria,FIS,Slopestyle,12,12.10
+5,Nunez Jascha,Male,15-01-2025,Seiser Alm,ITA,Austria,European Cup,Slopestyle,20,23.00
+6,Nunez Jascha,Male,11-01-2025,Prato Nevoso,ITA,Austria,European Cup,Slopestyle,24,25.20
+7,Nunez Jascha,Male,05-01-2024,Font Romeu,FRA,Austria,European Cup,Big Air,20,39.30
+8,Nunez Jascha,Male,04-01-2024,Font Romeu,FRA,Austria,European Cup Premium,Slopestyle,29,41.00
+9,Nunez Jascha,Male,22-04-2023,Kitzsteinhorn,AUT,Austria,European Cup,Big Air,43,12.90
+10,Nunez Jascha,Male,21-04-2023,Kitzsteinhorn,AUT,Austria,European Cup,Slopestyle,20,42.00
+11,Nunez Jascha,Male,20-03-2023,Mottolino Livigno,ITA,Austria,European Cup,Slopestyle,29,30.90
+12,Nunez Jascha,Male,17-03-2023,Laax,SUI,Austria,European Cup Premium,Slopestyle,78,25.30
+13,Nunez Jascha,Male,18-02-2023,Davos,SUI,Austria,European Cup,Big Air,40,2.60
+14,Nunez Jascha,Male,12-02-2023,Mayrhofen,AUT,Austria,FIS,Slopestyle,4,33.10
+15,Nunez Jascha,Male,02-02-2023,Font Romeu,FRA,Austria,European Cup,Slopestyle,DNS,
+16,Nunez Jascha,Male,25-01-2023,Prato Nevoso,ITA,Austria,European Cup,Slopestyle,25,20.30
+17,Nunez Jascha,Male,22-04-2022,Kitzsteinhorn,AUT,Austria,National Championships,Slopestyle,5,22.80
+18,Nunez Jascha,Male,20-04-2022,Kitzsteinhorn,AUT,Austria,European Cup,Halfpipe,10,6.00
+19,Nunez Jascha,Male,25-03-2022,Vuokatti,FIN,Austria,European Youth Olympic Festival,Slopestyle,27,7.80
+20,Nunez Jascha,Male,23-03-2022,Vuokatti,FIN,Austria,European Youth Olympic Festival,Big Air,19,16.90
+21,Nunez Jascha,Male,26-02-2022,Götschen,GER,Austria,European Cup,Big Air,30,25.60
+22,Nunez Jascha,Male,25-02-2022,Götschen,GER,Austria,European Cup,Slopestyle,36,28.30
+23,Nunez Jascha,Male,06-02-2022,Grindelwald,SUI,Austria,FIS,Big Air,6,20.70
+24,Nunez Jascha,Male,01-05-2021,Hintertux,AUT,Austria,Junior,Slopestyle,36,0.06
+25,Nunez Jascha,Male,11-03-2021,Leysin,SUI,Austria,European Cup,Slopestyle,27,13.21
+26,Nunez Jascha,Male,06-03-2021,Götschen,GER,Austria,FIS,Big Air,11,17.50
+27,Nunez Jascha,Male,05-03-2021,Götschen,GER,Austria,European Cup,Big Air,38,0.03
+28,Nunez Jascha,Male,04-03-2021,Flachauwinkel,AUT,Austria,European Cup,Big Air,41,10.93
+29,Nunez Jascha,Male,06-02-2021,Grindelwald,SUI,Austria,FIS,Big Air,15,5.18
+30,Nunez Jascha,Male,26-11-2020,Glacier 3000,SUI,Austria,FIS,Slopestyle,57,9.73
+31,Nunez Jascha,Male,06-03-2020,Absolut Park Flachauwinkel,AUT,Austria,European Cup,Big Air,44,3.46
+32,Nunez Jascha,Male,19-03-2019,Jasna,SVK,Austria,European Cup,Slopestyle,19,19.20
+33,Nunez Jascha,Male,18-03-2019,Jasna,SVK,Austria,European Cup,Slopestyle,17,22.40
+34,Nunez Jascha,Male,17-03-2019,Kuehtai,AUT,Austria,European Cup,Halfpipe,14,32.40
+35,Nunez Jascha,Male,16-03-2019,Kuehtai,AUT,Austria,European Cup,Big Air,13,32.00
+36,Nunez Jascha,Male,16-01-2019,Kreischberg,AUT,Austria,European Cup,Slopestyle,DNS1,
