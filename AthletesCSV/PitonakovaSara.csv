@@ -1,59 +1,60 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Pitonakova Sara,Female,14-03-2025,Lenk,SUI,Slovakia,European Cup,Snowboard Cross,21,26.00
-1,Pitonakova Sara,Female,13-03-2025,Lenk,SUI,Slovakia,European Cup,Snowboard Cross,35,5.20
-2,Pitonakova Sara,Female,08-03-2025,Dolni Morava,CZE,Slovakia,FIS,Snowboard Cross,8,22.40
-3,Pitonakova Sara,Female,09-02-2025,Dolni Morava,CZE,Slovakia,FIS,Snowboard Cross,9,46.40
-4,Pitonakova Sara,Female,08-02-2025,Dolni Morava,CZE,Slovakia,National Championships,Snowboard Cross,5,72.00
-5,Pitonakova Sara,Female,02-02-2025,St. Lary,FRA,Slovakia,National Championships,Snowboard Cross,15,28.80
-6,Pitonakova Sara,Female,31-01-2025,St. Lary,FRA,Slovakia,European Cup,Snowboard Cross,14,46.80
-7,Pitonakova Sara,Female,25-01-2025,Passo San Pellegrino,ITA,Slovakia,FIS,Snowboard Cross,25,7.80
-8,Pitonakova Sara,Female,24-01-2025,Passo San Pellegrino,ITA,Slovakia,FIS,Snowboard Cross,2,104.00
-9,Pitonakova Sara,Female,14-01-2025,Bardonecchia,ITA,Slovakia,Universiade,Snowboard Cross,9,69.60
-10,Pitonakova Sara,Female,01-12-2024,Pitztal,AUT,Slovakia,Junior,Snowboard Cross,14,39.60
-11,Pitonakova Sara,Female,30-11-2024,Pitztal,AUT,Slovakia,Qualification,Snowboard Cross,14,
-12,Pitonakova Sara,Female,30-11-2024,Pitztal,AUT,Slovakia,Junior,Snowboard Cross,14,39.60
-13,Pitonakova Sara,Female,27-11-2024,Pitztal,AUT,Slovakia,European Cup,Snowboard Cross,31,10.08
+0,Pitonakova Sara,Female,11-04-2025,Isola 2000 ,FRA,Slovakia,Qualification,Snowboard Cross,25,
+1,Pitonakova Sara,Female,14-03-2025,Lenk,SUI,Slovakia,European Cup,Snowboard Cross,21,26.00
+2,Pitonakova Sara,Female,13-03-2025,Lenk,SUI,Slovakia,European Cup,Snowboard Cross,35,5.20
+3,Pitonakova Sara,Female,08-03-2025,Dolni Morava,CZE,Slovakia,FIS,Snowboard Cross,8,22.40
+4,Pitonakova Sara,Female,09-02-2025,Dolni Morava,CZE,Slovakia,FIS,Snowboard Cross,9,46.40
+5,Pitonakova Sara,Female,08-02-2025,Dolni Morava,CZE,Slovakia,National Championships,Snowboard Cross,5,72.00
+6,Pitonakova Sara,Female,02-02-2025,St. Lary,FRA,Slovakia,National Championships,Snowboard Cross,15,28.80
+7,Pitonakova Sara,Female,31-01-2025,St. Lary,FRA,Slovakia,European Cup,Snowboard Cross,14,46.80
+8,Pitonakova Sara,Female,25-01-2025,Passo San Pellegrino,ITA,Slovakia,FIS,Snowboard Cross,25,7.80
+9,Pitonakova Sara,Female,24-01-2025,Passo San Pellegrino,ITA,Slovakia,FIS,Snowboard Cross,2,104.00
+10,Pitonakova Sara,Female,14-01-2025,Bardonecchia,ITA,Slovakia,Universiade,Snowboard Cross,9,69.60
+11,Pitonakova Sara,Female,01-12-2024,Pitztal,AUT,Slovakia,Junior,Snowboard Cross,14,39.60
+12,Pitonakova Sara,Female,30-11-2024,Pitztal,AUT,Slovakia,Qualification,Snowboard Cross,14,
+13,Pitonakova Sara,Female,30-11-2024,Pitztal,AUT,Slovakia,Junior,Snowboard Cross,14,39.60
 14,Pitonakova Sara,Female,27-11-2024,Pitztal,AUT,Slovakia,Qualification,Snowboard Cross,31,
-15,Pitonakova Sara,Female,07-04-2024,Gudauri,GEO,Slovakia,FIS Junior World Championships,Snowboard Cross Team,3,
-16,Pitonakova Sara,Female,06-04-2024,Gudauri,GEO,Slovakia,FIS Junior World Championships,Snowboard Cross,7,129.60
-17,Pitonakova Sara,Female,05-04-2024,Gudauri,GEO,Slovakia,Qualification,Snowboard Cross,9,
-18,Pitonakova Sara,Female,22-03-2024,Lenk,SUI,Slovakia,European Cup,Snowboard Cross,8,102.40
-19,Pitonakova Sara,Female,21-03-2024,Lenk,SUI,Slovakia,European Cup,Snowboard Cross,29,11.52
-20,Pitonakova Sara,Female,09-03-2024,Cortina d'Ampezzo,ITA,Slovakia,World Cup,Snowboard Cross,DNS2,
-21,Pitonakova Sara,Female,08-03-2024,Cortina d'Ampezzo,ITA,Slovakia,Qualification,Snowboard Cross,DNS2,
-22,Pitonakova Sara,Female,01-03-2024,Dolni Morava,CZE,Slovakia,FIS,Snowboard Cross,1,100.00
-23,Pitonakova Sara,Female,29-02-2024,Dolni Morava,CZE,Slovakia,FIS,Snowboard Cross,2,56.00
-24,Pitonakova Sara,Female,25-02-2024,Grasgehren,GER,Slovakia,European Cup,Snowboard Cross,6,104.00
-25,Pitonakova Sara,Female,24-02-2024,Grasgehren,GER,Slovakia,European Cup,Snowboard Cross,10,83.20
-26,Pitonakova Sara,Female,17-02-2024,Colere,ITA,Slovakia,European Cup,Snowboard Cross,29,12.96
-27,Pitonakova Sara,Female,16-02-2024,Colere,ITA,Slovakia,European Cup,Snowboard Cross,17,50.40
-28,Pitonakova Sara,Female,03-02-2024,Dolni Morava,CZE,Slovakia,FIS,Snowboard Cross,5,67.50
-29,Pitonakova Sara,Female,02-02-2024,Dolni Morava,CZE,Slovakia,FIS,Snowboard Cross,5,90.00
-30,Pitonakova Sara,Female,01-02-2024,Dolni Morava,CZE,Slovakia,European Cup,Snowboard Cross,23,23.20
-31,Pitonakova Sara,Female,31-01-2024,Dolni Morava,CZE,Slovakia,European Cup,Snowboard Cross,16,43.50
-32,Pitonakova Sara,Female,28-01-2024,Grasgehren,GER,Slovakia,Junior,Snowboard Cross,1,50.00
-33,Pitonakova Sara,Female,27-01-2024,Grasgehren,GER,Slovakia,Junior,Snowboard Cross,2,40.00
-34,Pitonakova Sara,Female,20-01-2024,Montafon,AUT,Slovakia,National Championships,Snowboard Cross,18,37.70
-35,Pitonakova Sara,Female,09-12-2023,Pitztal,AUT,Slovakia,Junior,Snowboard Cross,27,6.75
-36,Pitonakova Sara,Female,30-03-2023,Passo San Pellegrino,ITA,Slovakia,FIS Junior World Championships,Snowboard Cross,17,50.40
-37,Pitonakova Sara,Female,19-03-2023,Passo San Pellegrino,ITA,Slovakia,FIS,Snowboard Cross,13,30.00
-38,Pitonakova Sara,Female,18-03-2023,Passo San Pellegrino,ITA,Slovakia,FIS,Snowboard Cross,12,35.20
-39,Pitonakova Sara,Female,05-02-2023,Dolni Morava,CZE,Slovakia,FIS,Snowboard Cross,16,15.00
-40,Pitonakova Sara,Female,04-02-2023,Dolni Morava,CZE,Slovakia,FIS,Snowboard Cross,18,13.00
-41,Pitonakova Sara,Female,03-02-2023,Dolni Morava,CZE,Slovakia,FIS,Snowboard Cross,17,14.00
-42,Pitonakova Sara,Female,26-01-2023,Piancavallo,ITA,Slovakia,European Youth Olympic Festival,Snowboard Cross,10,36.40
-43,Pitonakova Sara,Female,27-11-2022,Pitztal,AUT,Slovakia,Junior,Snowboard Cross,9,40.60
-44,Pitonakova Sara,Female,26-11-2022,Pitztal,AUT,Slovakia,Junior,Snowboard Cross,27,6.75
-45,Pitonakova Sara,Female,25-11-2022,Pitztal,AUT,Slovakia,FIS,Snowboard Cross,49,3.48
-46,Pitonakova Sara,Female,31-03-2022,Veysonnaz,SUI,Slovakia,FIS Junior World Championships,Snowboard Cross,17,33.60
-47,Pitonakova Sara,Female,06-03-2022,Dolni Morava,CZE,Slovakia,FIS,Snowboard Cross,9,20.30
-48,Pitonakova Sara,Female,05-03-2022,Dolni Morava,CZE,Slovakia,FIS,Snowboard Cross,17,15.40
-49,Pitonakova Sara,Female,23-01-2022,Vitkovice,CZE,Slovakia,FIS,Snowboard Cross,10,18.20
-50,Pitonakova Sara,Female,22-01-2022,Vitkovice,CZE,Slovakia,FIS,Snowboard Cross,15,11.20
-51,Pitonakova Sara,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Slovakia,Junior,Parallel Slalom,8,16.00
-52,Pitonakova Sara,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Slovakia,Junior,Slalom,10,
-53,Pitonakova Sara,Female,12-12-2021,Moninec,CZE,Slovakia,FIS,Snowboard Cross,6,20.00
-54,Pitonakova Sara,Female,11-12-2021,Moninec,CZE,Slovakia,FIS,Snowboard Cross,7,18.00
-55,Pitonakova Sara,Female,10-04-2021,Colere,ITA,Slovakia,National Championships,Snowboard Cross,17,40.60
-56,Pitonakova Sara,Female,09-04-2021,Colere,ITA,Slovakia,Junior,Snowboard Cross,8,22.40
-57,Pitonakova Sara,Female,28-02-2021,Lenk,SUI,Slovakia,FIS,Snowboard Cross,9,14.50
+15,Pitonakova Sara,Female,27-11-2024,Pitztal,AUT,Slovakia,European Cup,Snowboard Cross,31,10.08
+16,Pitonakova Sara,Female,07-04-2024,Gudauri,GEO,Slovakia,FIS Junior World Championships,Snowboard Cross Team,3,
+17,Pitonakova Sara,Female,06-04-2024,Gudauri,GEO,Slovakia,FIS Junior World Championships,Snowboard Cross,7,129.60
+18,Pitonakova Sara,Female,05-04-2024,Gudauri,GEO,Slovakia,Qualification,Snowboard Cross,9,
+19,Pitonakova Sara,Female,22-03-2024,Lenk,SUI,Slovakia,European Cup,Snowboard Cross,8,102.40
+20,Pitonakova Sara,Female,21-03-2024,Lenk,SUI,Slovakia,European Cup,Snowboard Cross,29,11.52
+21,Pitonakova Sara,Female,09-03-2024,Cortina d'Ampezzo,ITA,Slovakia,World Cup,Snowboard Cross,DNS2,
+22,Pitonakova Sara,Female,08-03-2024,Cortina d'Ampezzo,ITA,Slovakia,Qualification,Snowboard Cross,DNS2,
+23,Pitonakova Sara,Female,01-03-2024,Dolni Morava,CZE,Slovakia,FIS,Snowboard Cross,1,100.00
+24,Pitonakova Sara,Female,29-02-2024,Dolni Morava,CZE,Slovakia,FIS,Snowboard Cross,2,56.00
+25,Pitonakova Sara,Female,25-02-2024,Grasgehren,GER,Slovakia,European Cup,Snowboard Cross,6,104.00
+26,Pitonakova Sara,Female,24-02-2024,Grasgehren,GER,Slovakia,European Cup,Snowboard Cross,10,83.20
+27,Pitonakova Sara,Female,17-02-2024,Colere,ITA,Slovakia,European Cup,Snowboard Cross,29,12.96
+28,Pitonakova Sara,Female,16-02-2024,Colere,ITA,Slovakia,European Cup,Snowboard Cross,17,50.40
+29,Pitonakova Sara,Female,03-02-2024,Dolni Morava,CZE,Slovakia,FIS,Snowboard Cross,5,67.50
+30,Pitonakova Sara,Female,02-02-2024,Dolni Morava,CZE,Slovakia,FIS,Snowboard Cross,5,90.00
+31,Pitonakova Sara,Female,01-02-2024,Dolni Morava,CZE,Slovakia,European Cup,Snowboard Cross,23,23.20
+32,Pitonakova Sara,Female,31-01-2024,Dolni Morava,CZE,Slovakia,European Cup,Snowboard Cross,16,43.50
+33,Pitonakova Sara,Female,28-01-2024,Grasgehren,GER,Slovakia,Junior,Snowboard Cross,1,50.00
+34,Pitonakova Sara,Female,27-01-2024,Grasgehren,GER,Slovakia,Junior,Snowboard Cross,2,40.00
+35,Pitonakova Sara,Female,20-01-2024,Montafon,AUT,Slovakia,National Championships,Snowboard Cross,18,37.70
+36,Pitonakova Sara,Female,09-12-2023,Pitztal,AUT,Slovakia,Junior,Snowboard Cross,27,6.75
+37,Pitonakova Sara,Female,30-03-2023,Passo San Pellegrino,ITA,Slovakia,FIS Junior World Championships,Snowboard Cross,17,50.40
+38,Pitonakova Sara,Female,19-03-2023,Passo San Pellegrino,ITA,Slovakia,FIS,Snowboard Cross,13,30.00
+39,Pitonakova Sara,Female,18-03-2023,Passo San Pellegrino,ITA,Slovakia,FIS,Snowboard Cross,12,35.20
+40,Pitonakova Sara,Female,05-02-2023,Dolni Morava,CZE,Slovakia,FIS,Snowboard Cross,16,15.00
+41,Pitonakova Sara,Female,04-02-2023,Dolni Morava,CZE,Slovakia,FIS,Snowboard Cross,18,13.00
+42,Pitonakova Sara,Female,03-02-2023,Dolni Morava,CZE,Slovakia,FIS,Snowboard Cross,17,14.00
+43,Pitonakova Sara,Female,26-01-2023,Piancavallo,ITA,Slovakia,European Youth Olympic Festival,Snowboard Cross,10,36.40
+44,Pitonakova Sara,Female,27-11-2022,Pitztal,AUT,Slovakia,Junior,Snowboard Cross,9,40.60
+45,Pitonakova Sara,Female,26-11-2022,Pitztal,AUT,Slovakia,Junior,Snowboard Cross,27,6.75
+46,Pitonakova Sara,Female,25-11-2022,Pitztal,AUT,Slovakia,FIS,Snowboard Cross,49,3.48
+47,Pitonakova Sara,Female,31-03-2022,Veysonnaz,SUI,Slovakia,FIS Junior World Championships,Snowboard Cross,17,33.60
+48,Pitonakova Sara,Female,06-03-2022,Dolni Morava,CZE,Slovakia,FIS,Snowboard Cross,9,20.30
+49,Pitonakova Sara,Female,05-03-2022,Dolni Morava,CZE,Slovakia,FIS,Snowboard Cross,17,15.40
+50,Pitonakova Sara,Female,23-01-2022,Vitkovice,CZE,Slovakia,FIS,Snowboard Cross,10,18.20
+51,Pitonakova Sara,Female,22-01-2022,Vitkovice,CZE,Slovakia,FIS,Snowboard Cross,15,11.20
+52,Pitonakova Sara,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Slovakia,Junior,Parallel Slalom,8,16.00
+53,Pitonakova Sara,Female,23-12-2021,Zakopane/Bukowina Tatrzanska,POL,Slovakia,Junior,Slalom,10,
+54,Pitonakova Sara,Female,12-12-2021,Moninec,CZE,Slovakia,FIS,Snowboard Cross,6,20.00
+55,Pitonakova Sara,Female,11-12-2021,Moninec,CZE,Slovakia,FIS,Snowboard Cross,7,18.00
+56,Pitonakova Sara,Female,10-04-2021,Colere,ITA,Slovakia,National Championships,Snowboard Cross,17,40.60
+57,Pitonakova Sara,Female,09-04-2021,Colere,ITA,Slovakia,Junior,Snowboard Cross,8,22.40
+58,Pitonakova Sara,Female,28-02-2021,Lenk,SUI,Slovakia,FIS,Snowboard Cross,9,14.50
