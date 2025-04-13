@@ -1,49 +1,50 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Merken Julien,Male,10-04-2025,Corvatsch,SUI,France,European Cup Premium,Slopestyle,16,113.00
-1,Merken Julien,Male,03-04-2025,Kitzsteinhorn,AUT,France,European Cup,Big Air,8,127.00
-2,Merken Julien,Male,01-04-2025,Kitzsteinhorn,AUT,France,European Cup,Rail Event,9,37.30
-3,Merken Julien,Male,28-03-2025,Engadin,SUI,France,World Championships,Big Air,46,52.80
-4,Merken Julien,Male,25-03-2025,Engadin,SUI,France,Qualification,Big Air,23,
-5,Merken Julien,Male,21-03-2025,Engadin,SUI,France,World Championships,Slopestyle,36,104.40
-6,Merken Julien,Male,20-03-2025,Engadin,SUI,France,Qualification,Slopestyle,17,
-7,Merken Julien,Male,11-03-2025,Laax,SUI,France,European Cup Premium,Slopestyle,2,240.90
-8,Merken Julien,Male,15-01-2025,Seiser Alm,ITA,France,European Cup,Slopestyle,1,150.00
-9,Merken Julien,Male,11-01-2025,Prato Nevoso,ITA,France,European Cup,Slopestyle,60,5.00
-10,Merken Julien,Male,06-01-2025,Font Romeu,FRA,France,FIS,Rail Event,2,41.40
-11,Merken Julien,Male,05-01-2025,Font Romeu,FRA,France,European Cup Premium,Slopestyle,1,160.00
-12,Merken Julien,Male,30-08-2023,Cardrona,NZL,France,FIS Junior World Championships,Slopestyle,11,97.50
-13,Merken Julien,Male,28-08-2023,Cardrona,NZL,France,Qualification,Slopestyle,3,
-14,Merken Julien,Male,14-04-2023,Corvatsch,SUI,France,European Cup Premium,Slopestyle,17,94.10
-15,Merken Julien,Male,03-04-2023,Isola 2000,FRA,France,National Championships,Slopestyle,4,56.40
-16,Merken Julien,Male,01-04-2023,Isola 2000,FRA,France,National Championships,Big Air,6,48.60
-17,Merken Julien,Male,20-03-2023,Mottolino Livigno,ITA,France,European Cup,Slopestyle,6,114.80
-18,Merken Julien,Male,17-03-2023,Laax,SUI,France,European Cup Premium,Slopestyle,26,76.40
-19,Merken Julien,Male,18-02-2023,Davos,SUI,France,European Cup,Big Air,3,97.10
-20,Merken Julien,Male,04-02-2023,Font Romeu,FRA,France,European Cup,Big Air,55,1.50
-21,Merken Julien,Male,02-02-2023,Font Romeu,FRA,France,European Cup,Slopestyle,13,34.80
-22,Merken Julien,Male,13-04-2022,Les Deux Alpes,FRA,France,National Championships,Slopestyle,17,4.90
-23,Merken Julien,Male,08-04-2022,Isola 2000,FRA,France,National Championships,Snowboard Cross,25,17.40
-24,Merken Julien,Male,25-03-2022,Vuokatti,FIN,France,European Youth Olympic Festival,Slopestyle,8,36.50
-25,Merken Julien,Male,23-03-2022,Vuokatti,FIN,France,European Youth Olympic Festival,Big Air,12,27.10
-26,Merken Julien,Male,13-03-2022,Leysin,SUI,France,FIS Junior World Championships,Slopestyle,36,30.60
-27,Merken Julien,Male,10-03-2022,Leysin,SUI,France,FIS Junior World Championships,Big Air,47,13.30
-28,Merken Julien,Male,18-02-2022,Davos,SUI,France,European Cup Premium,Big Air,48,4.00
-29,Merken Julien,Male,03-02-2022,Font Romeu,FRA,France,European Cup,Slopestyle,21,14.10
-30,Merken Julien,Male,23-01-2022,Prato Nevoso,ITA,France,European Cup,Slopestyle,36,14.60
-31,Merken Julien,Male,18-01-2022,Livigno,ITA,France,Junior,Slopestyle,3,48.10
-32,Merken Julien,Male,06-03-2021,Götschen,GER,France,FIS,Big Air,13,14.08
-33,Merken Julien,Male,05-03-2021,Götschen,GER,France,European Cup,Big Air,17,20.24
-34,Merken Julien,Male,04-03-2021,Flachauwinkel,AUT,France,European Cup,Big Air,13,37.25
-35,Merken Julien,Male,12-02-2021,La Quillane,FRA,France,FIS,Big Air,1,50.00
-36,Merken Julien,Male,11-02-2021,La Quillane,FRA,France,FIS,Big Air,1,50.00
-37,Merken Julien,Male,31-01-2021,Crans Montana,SUI,France,European Cup,Slopestyle,61,17.06
-38,Merken Julien,Male,01-03-2020,ARINSAL,AND,France,FIS,Slopestyle,1,50.00
-39,Merken Julien,Male,29-02-2020,ARINSAL,AND,France,FIS,Big Air,8,16.00
-40,Merken Julien,Male,02-02-2020,La Quillane,FRA,France,FIS,Big Air,10,28.60
-41,Merken Julien,Male,01-02-2020,La Quillane,FRA,France,FIS,Big Air,8,35.20
-42,Merken Julien,Male,19-01-2020,Vars,FRA,France,European Cup,Slopestyle,58,
-43,Merken Julien,Male,18-01-2020,Vars,FRA,France,European Cup,Big Air,16,24.00
-44,Merken Julien,Male,30-03-2019,Isola 2000,FRA,France,National Championships,Big Air,15,25.60
-45,Merken Julien,Male,29-03-2019,Isola 2000,FRA,France,National Championships,Slopestyle,4,35.00
-46,Merken Julien,Male,26-01-2019,Vars,FRA,France,European Cup,Big Air,27,8.10
-47,Merken Julien,Male,25-01-2019,Vars,FRA,France,European Cup,Slopestyle,16,24.00
+0,Merken Julien,Male,12-04-2025,Corvatsch,SUI,France,European Cup Premium,Big Air,12,
+1,Merken Julien,Male,10-04-2025,Corvatsch,SUI,France,European Cup Premium,Slopestyle,16,113.00
+2,Merken Julien,Male,03-04-2025,Kitzsteinhorn,AUT,France,European Cup,Big Air,8,127.00
+3,Merken Julien,Male,01-04-2025,Kitzsteinhorn,AUT,France,European Cup,Rail Event,9,37.30
+4,Merken Julien,Male,28-03-2025,Engadin,SUI,France,World Championships,Big Air,46,52.80
+5,Merken Julien,Male,25-03-2025,Engadin,SUI,France,Qualification,Big Air,23,
+6,Merken Julien,Male,21-03-2025,Engadin,SUI,France,World Championships,Slopestyle,36,104.40
+7,Merken Julien,Male,20-03-2025,Engadin,SUI,France,Qualification,Slopestyle,17,
+8,Merken Julien,Male,11-03-2025,Laax,SUI,France,European Cup Premium,Slopestyle,2,240.90
+9,Merken Julien,Male,15-01-2025,Seiser Alm,ITA,France,European Cup,Slopestyle,1,150.00
+10,Merken Julien,Male,11-01-2025,Prato Nevoso,ITA,France,European Cup,Slopestyle,60,5.00
+11,Merken Julien,Male,06-01-2025,Font Romeu,FRA,France,FIS,Rail Event,2,41.40
+12,Merken Julien,Male,05-01-2025,Font Romeu,FRA,France,European Cup Premium,Slopestyle,1,160.00
+13,Merken Julien,Male,30-08-2023,Cardrona,NZL,France,FIS Junior World Championships,Slopestyle,11,97.50
+14,Merken Julien,Male,28-08-2023,Cardrona,NZL,France,Qualification,Slopestyle,3,
+15,Merken Julien,Male,14-04-2023,Corvatsch,SUI,France,European Cup Premium,Slopestyle,17,94.10
+16,Merken Julien,Male,03-04-2023,Isola 2000,FRA,France,National Championships,Slopestyle,4,56.40
+17,Merken Julien,Male,01-04-2023,Isola 2000,FRA,France,National Championships,Big Air,6,48.60
+18,Merken Julien,Male,20-03-2023,Mottolino Livigno,ITA,France,European Cup,Slopestyle,6,114.80
+19,Merken Julien,Male,17-03-2023,Laax,SUI,France,European Cup Premium,Slopestyle,26,76.40
+20,Merken Julien,Male,18-02-2023,Davos,SUI,France,European Cup,Big Air,3,97.10
+21,Merken Julien,Male,04-02-2023,Font Romeu,FRA,France,European Cup,Big Air,55,1.50
+22,Merken Julien,Male,02-02-2023,Font Romeu,FRA,France,European Cup,Slopestyle,13,34.80
+23,Merken Julien,Male,13-04-2022,Les Deux Alpes,FRA,France,National Championships,Slopestyle,17,4.90
+24,Merken Julien,Male,08-04-2022,Isola 2000,FRA,France,National Championships,Snowboard Cross,25,17.40
+25,Merken Julien,Male,25-03-2022,Vuokatti,FIN,France,European Youth Olympic Festival,Slopestyle,8,36.50
+26,Merken Julien,Male,23-03-2022,Vuokatti,FIN,France,European Youth Olympic Festival,Big Air,12,27.10
+27,Merken Julien,Male,13-03-2022,Leysin,SUI,France,FIS Junior World Championships,Slopestyle,36,30.60
+28,Merken Julien,Male,10-03-2022,Leysin,SUI,France,FIS Junior World Championships,Big Air,47,13.30
+29,Merken Julien,Male,18-02-2022,Davos,SUI,France,European Cup Premium,Big Air,48,4.00
+30,Merken Julien,Male,03-02-2022,Font Romeu,FRA,France,European Cup,Slopestyle,21,14.10
+31,Merken Julien,Male,23-01-2022,Prato Nevoso,ITA,France,European Cup,Slopestyle,36,14.60
+32,Merken Julien,Male,18-01-2022,Livigno,ITA,France,Junior,Slopestyle,3,48.10
+33,Merken Julien,Male,06-03-2021,Götschen,GER,France,FIS,Big Air,13,14.08
+34,Merken Julien,Male,05-03-2021,Götschen,GER,France,European Cup,Big Air,17,20.24
+35,Merken Julien,Male,04-03-2021,Flachauwinkel,AUT,France,European Cup,Big Air,13,37.25
+36,Merken Julien,Male,12-02-2021,La Quillane,FRA,France,FIS,Big Air,1,50.00
+37,Merken Julien,Male,11-02-2021,La Quillane,FRA,France,FIS,Big Air,1,50.00
+38,Merken Julien,Male,31-01-2021,Crans Montana,SUI,France,European Cup,Slopestyle,61,17.06
+39,Merken Julien,Male,01-03-2020,ARINSAL,AND,France,FIS,Slopestyle,1,50.00
+40,Merken Julien,Male,29-02-2020,ARINSAL,AND,France,FIS,Big Air,8,16.00
+41,Merken Julien,Male,02-02-2020,La Quillane,FRA,France,FIS,Big Air,10,28.60
+42,Merken Julien,Male,01-02-2020,La Quillane,FRA,France,FIS,Big Air,8,35.20
+43,Merken Julien,Male,19-01-2020,Vars,FRA,France,European Cup,Slopestyle,58,
+44,Merken Julien,Male,18-01-2020,Vars,FRA,France,European Cup,Big Air,16,24.00
+45,Merken Julien,Male,30-03-2019,Isola 2000,FRA,France,National Championships,Big Air,15,25.60
+46,Merken Julien,Male,29-03-2019,Isola 2000,FRA,France,National Championships,Slopestyle,4,35.00
+47,Merken Julien,Male,26-01-2019,Vars,FRA,France,European Cup,Big Air,27,8.10
+48,Merken Julien,Male,25-01-2019,Vars,FRA,France,European Cup,Slopestyle,16,24.00

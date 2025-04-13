@@ -1,31 +1,32 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Vergani Alessia,Female,10-04-2025,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,14,43.10
-1,Vergani Alessia,Female,03-04-2025,Kitzsteinhorn,AUT,Italy,European Cup,Big Air,3,81.20
-2,Vergani Alessia,Female,01-04-2025,Kitzsteinhorn,AUT,Italy,European Cup,Rail Event,10,20.30
-3,Vergani Alessia,Female,31-03-2025,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Slopestyle,3,59.70
-4,Vergani Alessia,Female,30-03-2025,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Big Air,7,14.00
-5,Vergani Alessia,Female,21-03-2025,St. Anton,AUT,Italy,European Cup,Big Air,7,39.80
-6,Vergani Alessia,Female,11-03-2025,Laax,SUI,Italy,European Cup Premium,Slopestyle,11,17.70
-7,Vergani Alessia,Female,15-01-2025,Seiser Alm,ITA,Italy,European Cup,Slopestyle,13,3.70
-8,Vergani Alessia,Female,11-01-2025,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,16,11.50
-9,Vergani Alessia,Female,06-01-2025,Font Romeu,FRA,Italy,FIS,Rail Event,3,28.40
-10,Vergani Alessia,Female,05-01-2025,Font Romeu,FRA,Italy,European Cup Premium,Slopestyle,9,25.10
-11,Vergani Alessia,Female,14-04-2024,Corvatsch,SUI,Italy,European Cup Premium,Big Air,24,5.80
-12,Vergani Alessia,Female,12-04-2024,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,26,10.10
-13,Vergani Alessia,Female,04-04-2024,"Copper Mountain, CO",USA,Italy,National Championships,Slopestyle,11,0.10
-14,Vergani Alessia,Female,30-03-2024,"Copper Mountain, CO",USA,Italy,National Championships,Rail Event,2,
-15,Vergani Alessia,Female,22-02-2024,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,2,115.20
-16,Vergani Alessia,Female,08-02-2024,Mammoth Mountain,USA,Italy,Nor-Am Cup Premium,Slopestyle,17,11.60
-17,Vergani Alessia,Female,18-01-2024,Sun Peaks,CAN,Italy,Nor-Am Cup,Big Air,1,120.00
-18,Vergani Alessia,Female,17-01-2024,Sun Peaks,CAN,Italy,Nor-Am Cup,Slopestyle,3,80.00
-19,Vergani Alessia,Female,05-01-2024,Font Romeu,FRA,Italy,European Cup,Big Air,6,44.20
-20,Vergani Alessia,Female,04-01-2024,Font Romeu,FRA,Italy,European Cup Premium,Slopestyle,7,38.30
-21,Vergani Alessia,Female,05-08-2023,Cerro Catedral,ARG,Italy,South American Cup,Slopestyle,1,120.00
-22,Vergani Alessia,Female,04-08-2023,Cerro Catedral,ARG,Italy,South American Cup,Slopestyle,1,120.00
-23,Vergani Alessia,Female,06-04-2023,Copper Mountain Resort,USA,Italy,National Championships,Slopestyle,3,100.00
-24,Vergani Alessia,Female,25-01-2023,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,8,25.60
-25,Vergani Alessia,Female,18-01-2023,Sun Peaks,CAN,Italy,Nor-Am Cup,Slopestyle,9,28.90
-26,Vergani Alessia,Female,17-01-2023,Sun Peaks,CAN,Italy,Nor-Am Cup,Slopestyle,9,31.40
-27,Vergani Alessia,Female,07-04-2022,Copper Mountain Resort,USA,Italy,National Championships,Slopestyle,6,38.30
-28,Vergani Alessia,Female,26-02-2021,Aspen Mountain Ski Area,USA,Italy,Open,Big Air,12,4.59
-29,Vergani Alessia,Female,24-02-2021,Aspen Mountain Ski Area,USA,Italy,Open,Slopestyle,19,13.42
+0,Vergani Alessia,Female,12-04-2025,Corvatsch,SUI,Italy,European Cup Premium,Big Air,11,
+1,Vergani Alessia,Female,10-04-2025,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,14,43.10
+2,Vergani Alessia,Female,03-04-2025,Kitzsteinhorn,AUT,Italy,European Cup,Big Air,3,81.20
+3,Vergani Alessia,Female,01-04-2025,Kitzsteinhorn,AUT,Italy,European Cup,Rail Event,10,20.30
+4,Vergani Alessia,Female,31-03-2025,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Slopestyle,3,59.70
+5,Vergani Alessia,Female,30-03-2025,Alpe di Siusi/Seiseralm,ITA,Italy,National Championships,Big Air,7,14.00
+6,Vergani Alessia,Female,21-03-2025,St. Anton,AUT,Italy,European Cup,Big Air,7,39.80
+7,Vergani Alessia,Female,11-03-2025,Laax,SUI,Italy,European Cup Premium,Slopestyle,11,17.70
+8,Vergani Alessia,Female,15-01-2025,Seiser Alm,ITA,Italy,European Cup,Slopestyle,13,3.70
+9,Vergani Alessia,Female,11-01-2025,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,16,11.50
+10,Vergani Alessia,Female,06-01-2025,Font Romeu,FRA,Italy,FIS,Rail Event,3,28.40
+11,Vergani Alessia,Female,05-01-2025,Font Romeu,FRA,Italy,European Cup Premium,Slopestyle,9,25.10
+12,Vergani Alessia,Female,14-04-2024,Corvatsch,SUI,Italy,European Cup Premium,Big Air,24,5.80
+13,Vergani Alessia,Female,12-04-2024,Corvatsch,SUI,Italy,European Cup Premium,Slopestyle,26,10.10
+14,Vergani Alessia,Female,04-04-2024,"Copper Mountain, CO",USA,Italy,National Championships,Slopestyle,11,0.10
+15,Vergani Alessia,Female,30-03-2024,"Copper Mountain, CO",USA,Italy,National Championships,Rail Event,2,
+16,Vergani Alessia,Female,22-02-2024,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,2,115.20
+17,Vergani Alessia,Female,08-02-2024,Mammoth Mountain,USA,Italy,Nor-Am Cup Premium,Slopestyle,17,11.60
+18,Vergani Alessia,Female,18-01-2024,Sun Peaks,CAN,Italy,Nor-Am Cup,Big Air,1,120.00
+19,Vergani Alessia,Female,17-01-2024,Sun Peaks,CAN,Italy,Nor-Am Cup,Slopestyle,3,80.00
+20,Vergani Alessia,Female,05-01-2024,Font Romeu,FRA,Italy,European Cup,Big Air,6,44.20
+21,Vergani Alessia,Female,04-01-2024,Font Romeu,FRA,Italy,European Cup Premium,Slopestyle,7,38.30
+22,Vergani Alessia,Female,05-08-2023,Cerro Catedral,ARG,Italy,South American Cup,Slopestyle,1,120.00
+23,Vergani Alessia,Female,04-08-2023,Cerro Catedral,ARG,Italy,South American Cup,Slopestyle,1,120.00
+24,Vergani Alessia,Female,06-04-2023,Copper Mountain Resort,USA,Italy,National Championships,Slopestyle,3,100.00
+25,Vergani Alessia,Female,25-01-2023,Prato Nevoso,ITA,Italy,European Cup,Slopestyle,8,25.60
+26,Vergani Alessia,Female,18-01-2023,Sun Peaks,CAN,Italy,Nor-Am Cup,Slopestyle,9,28.90
+27,Vergani Alessia,Female,17-01-2023,Sun Peaks,CAN,Italy,Nor-Am Cup,Slopestyle,9,31.40
+28,Vergani Alessia,Female,07-04-2022,Copper Mountain Resort,USA,Italy,National Championships,Slopestyle,6,38.30
+29,Vergani Alessia,Female,26-02-2021,Aspen Mountain Ski Area,USA,Italy,Open,Big Air,12,4.59
+30,Vergani Alessia,Female,24-02-2021,Aspen Mountain Ski Area,USA,Italy,Open,Slopestyle,19,13.42

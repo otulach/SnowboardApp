@@ -1,57 +1,58 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Cornell Nora,Female,10-04-2025,Corvatsch,SUI,Spain,European Cup Premium,Slopestyle,13,48.40
-1,Cornell Nora,Female,28-03-2025,Engadin,SUI,Spain,World Championships,Big Air,29,17.30
-2,Cornell Nora,Female,26-03-2025,Engadin,SUI,Spain,Qualification,Big Air,29,
-3,Cornell Nora,Female,21-03-2025,Engadin,SUI,Spain,World Championships,Slopestyle,23,69.70
-4,Cornell Nora,Female,20-03-2025,Engadin,SUI,Spain,Qualification,Slopestyle,23,
-5,Cornell Nora,Female,14-03-2025,Flachau,AUT,Spain,World Cup,Slopestyle,19,113.20
-6,Cornell Nora,Female,13-03-2025,Flachau,AUT,Spain,Qualification,Slopestyle,9,
-7,Cornell Nora,Female,22-02-2025,Calgary,CAN,Spain,World Cup,Slopestyle,14,130.30
-8,Cornell Nora,Female,20-02-2025,Calgary,CAN,Spain,Qualification,Slopestyle,14,
-9,Cornell Nora,Female,06-02-2025,Aspen,USA,Spain,World Cup,Big Air,24,0.50
-10,Cornell Nora,Female,05-02-2025,Aspen,USA,Spain,Qualification,Big Air,24,
-11,Cornell Nora,Female,02-02-2025,Aspen,USA,Spain,World Cup,Slopestyle,18,114.10
-12,Cornell Nora,Female,31-01-2025,Aspen,USA,Spain,Qualification,Slopestyle,18,
-13,Cornell Nora,Female,18-01-2025,Laax,SUI,Spain,World Cup,Slopestyle,26,43.10
-14,Cornell Nora,Female,16-01-2025,Laax,SUI,Spain,Qualification,Slopestyle,26,
-15,Cornell Nora,Female,11-01-2025,Kreischberg,AUT,Spain,World Cup,Big Air,22,59.10
-16,Cornell Nora,Female,09-01-2025,Kreischberg,AUT,Spain,Qualification,Big Air,22,
-17,Cornell Nora,Female,05-01-2025,Font Romeu,FRA,Spain,European Cup Premium,Slopestyle,7,37.30
-18,Cornell Nora,Female,19-10-2024,Chur,SUI,Spain,World Cup,Big Air,20,92.60
-19,Cornell Nora,Female,14-04-2024,Corvatsch,SUI,Spain,European Cup Premium,Big Air,10,117.40
-20,Cornell Nora,Female,12-04-2024,Corvatsch,SUI,Spain,European Cup Premium,Slopestyle,9,100.80
-21,Cornell Nora,Female,12-03-2024,Laax,SUI,Spain,European Cup Premium,Slopestyle,12,32.90
-22,Cornell Nora,Female,22-02-2024,Prato Nevoso,ITA,Spain,European Cup,Slopestyle,12,24.10
-23,Cornell Nora,Female,05-01-2024,Font Romeu,FRA,Spain,European Cup,Big Air,8,29.40
-24,Cornell Nora,Female,04-01-2024,Font Romeu,FRA,Spain,European Cup Premium,Slopestyle,5,55.30
-25,Cornell Nora,Female,14-04-2023,Corvatsch,SUI,Spain,European Cup Premium,Slopestyle,DNF,
-26,Cornell Nora,Female,04-04-2023,Baqueira Beret,ESP,Spain,National Championships,Slopestyle,1,50.00
-27,Cornell Nora,Female,17-03-2023,Laax,SUI,Spain,European Cup Premium,Slopestyle,13,53.90
-28,Cornell Nora,Female,08-02-2023,Font Romeu,FRA,Spain,Junior,Slopestyle,3,30.90
-29,Cornell Nora,Female,04-02-2023,Font Romeu,FRA,Spain,European Cup,Big Air,12,14.10
-30,Cornell Nora,Female,02-02-2023,Font Romeu,FRA,Spain,European Cup,Slopestyle,8,32.80
-31,Cornell Nora,Female,25-01-2023,Prato Nevoso,ITA,Spain,European Cup,Slopestyle,11,8.80
-32,Cornell Nora,Female,25-03-2022,Vuokatti,FIN,Spain,European Youth Olympic Festival,Slopestyle,6,29.70
-33,Cornell Nora,Female,23-03-2022,Vuokatti,FIN,Spain,European Youth Olympic Festival,Big Air,5,29.30
-34,Cornell Nora,Female,03-02-2022,Font Romeu,FRA,Spain,European Cup,Slopestyle,9,0.20
-35,Cornell Nora,Female,23-01-2022,Prato Nevoso,ITA,Spain,European Cup,Slopestyle,8,38.40
-36,Cornell Nora,Female,18-01-2022,Livigno,ITA,Spain,Junior,Slopestyle,5,21.70
-37,Cornell Nora,Female,31-10-2021,Madrid Snowzone,ESP,Spain,FIS,Slopestyle,3,35.80
-38,Cornell Nora,Female,30-10-2021,Madrid Snowzone,ESP,Spain,FIS,Slopestyle,1,60.00
-39,Cornell Nora,Female,11-04-2021,Sierra Nevada,ESP,Spain,National Championships,Snowboard Cross,2,40.00
-40,Cornell Nora,Female,10-04-2021,Sierra Nevada,ESP,Spain,National Championships,Slopestyle,1,50.00
-41,Cornell Nora,Female,21-03-2021,Krasnoyarsk ,RUS,Spain,FIS Junior World Championships,Big Air,11,9.96
-42,Cornell Nora,Female,20-03-2021,Krasnoyarsk ,RUS,Spain,Qualification,Big Air,11,
-43,Cornell Nora,Female,19-03-2021,Krasnoyarsk ,RUS,Spain,FIS Junior World Championships,Slopestyle,14,0.18
-44,Cornell Nora,Female,18-03-2021,Krasnoyarsk ,RUS,Spain,Qualification,Slopestyle,14,
-45,Cornell Nora,Female,11-03-2021,Leysin,SUI,Spain,European Cup,Slopestyle,6,36.89
-46,Cornell Nora,Female,12-02-2021,La Quillane,FRA,Spain,FIS,Big Air,2,6.33
-47,Cornell Nora,Female,11-02-2021,La Quillane,FRA,Spain,FIS,Big Air,1,10.00
-48,Cornell Nora,Female,26-11-2020,Glacier 3000,SUI,Spain,FIS,Slopestyle,7,74.03
-49,Cornell Nora,Female,01-11-2020,Madrid Snowzone,ESP,Spain,FIS,Slopestyle,1,50.00
+0,Cornell Nora,Female,12-04-2025,Corvatsch,SUI,Spain,European Cup Premium,Big Air,22,
+1,Cornell Nora,Female,10-04-2025,Corvatsch,SUI,Spain,European Cup Premium,Slopestyle,13,48.40
+2,Cornell Nora,Female,28-03-2025,Engadin,SUI,Spain,World Championships,Big Air,29,17.30
+3,Cornell Nora,Female,26-03-2025,Engadin,SUI,Spain,Qualification,Big Air,29,
+4,Cornell Nora,Female,21-03-2025,Engadin,SUI,Spain,World Championships,Slopestyle,23,69.70
+5,Cornell Nora,Female,20-03-2025,Engadin,SUI,Spain,Qualification,Slopestyle,23,
+6,Cornell Nora,Female,14-03-2025,Flachau,AUT,Spain,World Cup,Slopestyle,19,113.20
+7,Cornell Nora,Female,13-03-2025,Flachau,AUT,Spain,Qualification,Slopestyle,9,
+8,Cornell Nora,Female,22-02-2025,Calgary,CAN,Spain,World Cup,Slopestyle,14,130.30
+9,Cornell Nora,Female,20-02-2025,Calgary,CAN,Spain,Qualification,Slopestyle,14,
+10,Cornell Nora,Female,06-02-2025,Aspen,USA,Spain,World Cup,Big Air,24,0.50
+11,Cornell Nora,Female,05-02-2025,Aspen,USA,Spain,Qualification,Big Air,24,
+12,Cornell Nora,Female,02-02-2025,Aspen,USA,Spain,World Cup,Slopestyle,18,114.10
+13,Cornell Nora,Female,31-01-2025,Aspen,USA,Spain,Qualification,Slopestyle,18,
+14,Cornell Nora,Female,18-01-2025,Laax,SUI,Spain,World Cup,Slopestyle,26,43.10
+15,Cornell Nora,Female,16-01-2025,Laax,SUI,Spain,Qualification,Slopestyle,26,
+16,Cornell Nora,Female,11-01-2025,Kreischberg,AUT,Spain,World Cup,Big Air,22,59.10
+17,Cornell Nora,Female,09-01-2025,Kreischberg,AUT,Spain,Qualification,Big Air,22,
+18,Cornell Nora,Female,05-01-2025,Font Romeu,FRA,Spain,European Cup Premium,Slopestyle,7,37.30
+19,Cornell Nora,Female,19-10-2024,Chur,SUI,Spain,World Cup,Big Air,20,92.60
+20,Cornell Nora,Female,14-04-2024,Corvatsch,SUI,Spain,European Cup Premium,Big Air,10,117.40
+21,Cornell Nora,Female,12-04-2024,Corvatsch,SUI,Spain,European Cup Premium,Slopestyle,9,100.80
+22,Cornell Nora,Female,12-03-2024,Laax,SUI,Spain,European Cup Premium,Slopestyle,12,32.90
+23,Cornell Nora,Female,22-02-2024,Prato Nevoso,ITA,Spain,European Cup,Slopestyle,12,24.10
+24,Cornell Nora,Female,05-01-2024,Font Romeu,FRA,Spain,European Cup,Big Air,8,29.40
+25,Cornell Nora,Female,04-01-2024,Font Romeu,FRA,Spain,European Cup Premium,Slopestyle,5,55.30
+26,Cornell Nora,Female,14-04-2023,Corvatsch,SUI,Spain,European Cup Premium,Slopestyle,DNF,
+27,Cornell Nora,Female,04-04-2023,Baqueira Beret,ESP,Spain,National Championships,Slopestyle,1,50.00
+28,Cornell Nora,Female,17-03-2023,Laax,SUI,Spain,European Cup Premium,Slopestyle,13,53.90
+29,Cornell Nora,Female,08-02-2023,Font Romeu,FRA,Spain,Junior,Slopestyle,3,30.90
+30,Cornell Nora,Female,04-02-2023,Font Romeu,FRA,Spain,European Cup,Big Air,12,14.10
+31,Cornell Nora,Female,02-02-2023,Font Romeu,FRA,Spain,European Cup,Slopestyle,8,32.80
+32,Cornell Nora,Female,25-01-2023,Prato Nevoso,ITA,Spain,European Cup,Slopestyle,11,8.80
+33,Cornell Nora,Female,25-03-2022,Vuokatti,FIN,Spain,European Youth Olympic Festival,Slopestyle,6,29.70
+34,Cornell Nora,Female,23-03-2022,Vuokatti,FIN,Spain,European Youth Olympic Festival,Big Air,5,29.30
+35,Cornell Nora,Female,03-02-2022,Font Romeu,FRA,Spain,European Cup,Slopestyle,9,0.20
+36,Cornell Nora,Female,23-01-2022,Prato Nevoso,ITA,Spain,European Cup,Slopestyle,8,38.40
+37,Cornell Nora,Female,18-01-2022,Livigno,ITA,Spain,Junior,Slopestyle,5,21.70
+38,Cornell Nora,Female,31-10-2021,Madrid Snowzone,ESP,Spain,FIS,Slopestyle,3,35.80
+39,Cornell Nora,Female,30-10-2021,Madrid Snowzone,ESP,Spain,FIS,Slopestyle,1,60.00
+40,Cornell Nora,Female,11-04-2021,Sierra Nevada,ESP,Spain,National Championships,Snowboard Cross,2,40.00
+41,Cornell Nora,Female,10-04-2021,Sierra Nevada,ESP,Spain,National Championships,Slopestyle,1,50.00
+42,Cornell Nora,Female,21-03-2021,Krasnoyarsk ,RUS,Spain,FIS Junior World Championships,Big Air,11,9.96
+43,Cornell Nora,Female,20-03-2021,Krasnoyarsk ,RUS,Spain,Qualification,Big Air,11,
+44,Cornell Nora,Female,19-03-2021,Krasnoyarsk ,RUS,Spain,FIS Junior World Championships,Slopestyle,14,0.18
+45,Cornell Nora,Female,18-03-2021,Krasnoyarsk ,RUS,Spain,Qualification,Slopestyle,14,
+46,Cornell Nora,Female,11-03-2021,Leysin,SUI,Spain,European Cup,Slopestyle,6,36.89
+47,Cornell Nora,Female,12-02-2021,La Quillane,FRA,Spain,FIS,Big Air,2,6.33
+48,Cornell Nora,Female,11-02-2021,La Quillane,FRA,Spain,FIS,Big Air,1,10.00
+49,Cornell Nora,Female,26-11-2020,Glacier 3000,SUI,Spain,FIS,Slopestyle,7,74.03
 50,Cornell Nora,Female,01-11-2020,Madrid Snowzone,ESP,Spain,FIS,Slopestyle,1,50.00
-51,Cornell Nora,Female,01-03-2020,ARINSAL,AND,Spain,FIS,Slopestyle,1,50.00
-52,Cornell Nora,Female,29-02-2020,ARINSAL,AND,Spain,FIS,Big Air,1,50.00
-53,Cornell Nora,Female,15-02-2020,GRAU ROIG,AND,Spain,FIS,Slopestyle,1,50.00
-54,Cornell Nora,Female,02-02-2020,La Quillane,FRA,Spain,FIS,Big Air,1,50.00
-55,Cornell Nora,Female,01-02-2020,La Quillane,FRA,Spain,FIS,Big Air,5,22.50
+51,Cornell Nora,Female,01-11-2020,Madrid Snowzone,ESP,Spain,FIS,Slopestyle,1,50.00
+52,Cornell Nora,Female,01-03-2020,ARINSAL,AND,Spain,FIS,Slopestyle,1,50.00
+53,Cornell Nora,Female,29-02-2020,ARINSAL,AND,Spain,FIS,Big Air,1,50.00
+54,Cornell Nora,Female,15-02-2020,GRAU ROIG,AND,Spain,FIS,Slopestyle,1,50.00
+55,Cornell Nora,Female,02-02-2020,La Quillane,FRA,Spain,FIS,Big Air,1,50.00
+56,Cornell Nora,Female,01-02-2020,La Quillane,FRA,Spain,FIS,Big Air,5,22.50

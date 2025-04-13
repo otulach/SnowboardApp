@@ -1,37 +1,38 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Colella Rosa,Female,11-04-2025,Isola 2000 ,FRA,Switzerland,Qualification,Snowboard Cross,16,
-1,Colella Rosa,Female,30-03-2025,Orcières,FRA,Switzerland,European Cup,Snowboard Cross,14,52.20
-2,Colella Rosa,Female,29-03-2025,Orcières,FRA,Switzerland,European Cup,Snowboard Cross,16,43.50
-3,Colella Rosa,Female,23-03-2025,Moena-Passo San Pellegrino,ITA,Switzerland,National Championships,Snowboard Cross,16,36.00
-4,Colella Rosa,Female,21-03-2025,Moena-Passo San Pellegrino,ITA,Switzerland,Junior,Snowboard Cross,14,27.00
-5,Colella Rosa,Female,14-03-2025,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,12,57.20
-6,Colella Rosa,Female,13-03-2025,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,11,62.40
-7,Colella Rosa,Female,10-03-2025,Montafon,AUT,Switzerland,Junior Regional Cup,Snowboard Cross,12,30.80
-8,Colella Rosa,Female,09-03-2025,Montafon,AUT,Switzerland,Junior Regional Cup,Snowboard Cross,3,84.00
-9,Colella Rosa,Female,28-02-2025,Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,12,57.20
-10,Colella Rosa,Female,27-02-2025,Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,16,39.00
-11,Colella Rosa,Female,16-02-2025,Flumserberg,SUI,Switzerland,Junior Regional Cup,Snowboard Cross,1,160.00
-12,Colella Rosa,Female,15-02-2025,Flumserberg,SUI,Switzerland,Junior Regional Cup,Snowboard Cross,5,72.00
-13,Colella Rosa,Female,09-02-2025,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,7,93.60
-14,Colella Rosa,Female,08-02-2025,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,7,93.60
-15,Colella Rosa,Female,02-02-2025,Reiteralm,AUT,Switzerland,Junior,Snowboard Cross,2,96.00
-16,Colella Rosa,Female,01-02-2025,Reiteralm,AUT,Switzerland,Junior,Snowboard Cross,2,96.00
-17,Colella Rosa,Female,25-01-2025,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,9,37.70
-18,Colella Rosa,Female,24-01-2025,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,35,
-19,Colella Rosa,Female,12-01-2025,Lenk,SUI,Switzerland,Junior Regional Cup,Snowboard Cross,25,10.80
-20,Colella Rosa,Female,01-12-2024,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,7,79.20
-21,Colella Rosa,Female,30-11-2024,Pitztal,AUT,Switzerland,Qualification,Snowboard Cross,15,
-22,Colella Rosa,Female,30-11-2024,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,15,35.20
-23,Colella Rosa,Female,24-03-2024,Lenk,SUI,Switzerland,National Championships,Snowboard Cross,6,80.00
-24,Colella Rosa,Female,22-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,15,51.20
-25,Colella Rosa,Female,21-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,23,25.60
-26,Colella Rosa,Female,02-03-2024,St. Moritz,SUI,Switzerland,National Junior Championships,Snowboard Cross,6,80.00
-27,Colella Rosa,Female,28-01-2024,Lenk,SUI,Switzerland,FIS,Snowboard Cross,4,35.00
-28,Colella Rosa,Female,27-01-2024,Lenk,SUI,Switzerland,FIS,Snowboard Cross,3,42.00
-29,Colella Rosa,Female,20-01-2024,Montafon,AUT,Switzerland,National Championships,Snowboard Cross,35,
-30,Colella Rosa,Female,09-12-2023,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,20,16.50
-31,Colella Rosa,Female,01-04-2023,St. Moritz,SUI,Switzerland,National Championships,Snowboard Cross,14,52.20
-32,Colella Rosa,Female,12-03-2023,Lenk,SUI,Switzerland,National Junior Championships,Snowboard Cross,5,31.50
-33,Colella Rosa,Female,19-02-2023,Flumserberg,SUI,Switzerland,Junior,Snowboard Cross,9,29.00
-34,Colella Rosa,Female,18-02-2023,Flumserberg,SUI,Switzerland,Junior,Snowboard Cross,13,20.00
-35,Colella Rosa,Female,14-01-2023,Lenk,SUI,Switzerland,FIS,Snowboard Cross,11,21.60
+0,Colella Rosa,Female,12-04-2025,Isola 2000,FRA,Switzerland,FIS Junior World Championships,Snowboard Cross,20,
+1,Colella Rosa,Female,11-04-2025,Isola 2000 ,FRA,Switzerland,Qualification,Snowboard Cross,16,
+2,Colella Rosa,Female,30-03-2025,Orcières,FRA,Switzerland,European Cup,Snowboard Cross,14,52.20
+3,Colella Rosa,Female,29-03-2025,Orcières,FRA,Switzerland,European Cup,Snowboard Cross,16,43.50
+4,Colella Rosa,Female,23-03-2025,Moena-Passo San Pellegrino,ITA,Switzerland,National Championships,Snowboard Cross,16,36.00
+5,Colella Rosa,Female,21-03-2025,Moena-Passo San Pellegrino,ITA,Switzerland,Junior,Snowboard Cross,14,27.00
+6,Colella Rosa,Female,14-03-2025,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,12,57.20
+7,Colella Rosa,Female,13-03-2025,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,11,62.40
+8,Colella Rosa,Female,10-03-2025,Montafon,AUT,Switzerland,Junior Regional Cup,Snowboard Cross,12,30.80
+9,Colella Rosa,Female,09-03-2025,Montafon,AUT,Switzerland,Junior Regional Cup,Snowboard Cross,3,84.00
+10,Colella Rosa,Female,28-02-2025,Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,12,57.20
+11,Colella Rosa,Female,27-02-2025,Passo San Pellegrino,ITA,Switzerland,European Cup,Snowboard Cross,16,39.00
+12,Colella Rosa,Female,16-02-2025,Flumserberg,SUI,Switzerland,Junior Regional Cup,Snowboard Cross,1,160.00
+13,Colella Rosa,Female,15-02-2025,Flumserberg,SUI,Switzerland,Junior Regional Cup,Snowboard Cross,5,72.00
+14,Colella Rosa,Female,09-02-2025,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,7,93.60
+15,Colella Rosa,Female,08-02-2025,Reiteralm,AUT,Switzerland,European Cup,Snowboard Cross,7,93.60
+16,Colella Rosa,Female,02-02-2025,Reiteralm,AUT,Switzerland,Junior,Snowboard Cross,2,96.00
+17,Colella Rosa,Female,01-02-2025,Reiteralm,AUT,Switzerland,Junior,Snowboard Cross,2,96.00
+18,Colella Rosa,Female,25-01-2025,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,9,37.70
+19,Colella Rosa,Female,24-01-2025,Passo San Pellegrino,ITA,Switzerland,FIS,Snowboard Cross,35,
+20,Colella Rosa,Female,12-01-2025,Lenk,SUI,Switzerland,Junior Regional Cup,Snowboard Cross,25,10.80
+21,Colella Rosa,Female,01-12-2024,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,7,79.20
+22,Colella Rosa,Female,30-11-2024,Pitztal,AUT,Switzerland,Qualification,Snowboard Cross,15,
+23,Colella Rosa,Female,30-11-2024,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,15,35.20
+24,Colella Rosa,Female,24-03-2024,Lenk,SUI,Switzerland,National Championships,Snowboard Cross,6,80.00
+25,Colella Rosa,Female,22-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,15,51.20
+26,Colella Rosa,Female,21-03-2024,Lenk,SUI,Switzerland,European Cup,Snowboard Cross,23,25.60
+27,Colella Rosa,Female,02-03-2024,St. Moritz,SUI,Switzerland,National Junior Championships,Snowboard Cross,6,80.00
+28,Colella Rosa,Female,28-01-2024,Lenk,SUI,Switzerland,FIS,Snowboard Cross,4,35.00
+29,Colella Rosa,Female,27-01-2024,Lenk,SUI,Switzerland,FIS,Snowboard Cross,3,42.00
+30,Colella Rosa,Female,20-01-2024,Montafon,AUT,Switzerland,National Championships,Snowboard Cross,35,
+31,Colella Rosa,Female,09-12-2023,Pitztal,AUT,Switzerland,Junior,Snowboard Cross,20,16.50
+32,Colella Rosa,Female,01-04-2023,St. Moritz,SUI,Switzerland,National Championships,Snowboard Cross,14,52.20
+33,Colella Rosa,Female,12-03-2023,Lenk,SUI,Switzerland,National Junior Championships,Snowboard Cross,5,31.50
+34,Colella Rosa,Female,19-02-2023,Flumserberg,SUI,Switzerland,Junior,Snowboard Cross,9,29.00
+35,Colella Rosa,Female,18-02-2023,Flumserberg,SUI,Switzerland,Junior,Snowboard Cross,13,20.00
+36,Colella Rosa,Female,14-01-2023,Lenk,SUI,Switzerland,FIS,Snowboard Cross,11,21.60

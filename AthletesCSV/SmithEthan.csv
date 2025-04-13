@@ -1,69 +1,70 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Smith Ethan,Male,10-04-2025,Corvatsch,SUI,Great Britain,European Cup Premium,Slopestyle,41,69.50
-1,Smith Ethan,Male,03-04-2025,Kitzsteinhorn,AUT,Great Britain,European Cup,Big Air,61,4.40
-2,Smith Ethan,Male,01-04-2025,Kitzsteinhorn,AUT,Great Britain,European Cup,Rail Event,11,31.30
-3,Smith Ethan,Male,22-03-2025,St. Anton,AUT,Great Britain,FIS,Slopestyle,8,24.90
-4,Smith Ethan,Male,21-03-2025,St. Anton,AUT,Great Britain,European Cup,Big Air,40,8.30
-5,Smith Ethan,Male,11-03-2025,Laax,SUI,Great Britain,European Cup Premium,Slopestyle,28,44.90
-6,Smith Ethan,Male,13-02-2025,Davos,SUI,Great Britain,European Cup,Rail Event,7,44.70
-7,Smith Ethan,Male,09-02-2025,Mayrhofen,AUT,Great Britain,FIS,Slopestyle,7,24.40
-8,Smith Ethan,Male,15-01-2025,Seiser Alm,ITA,Great Britain,European Cup,Slopestyle,24,19.20
-9,Smith Ethan,Male,15-11-2024,Glacier 3000,SUI,Great Britain,FIS,Big Air,5,29.80
-10,Smith Ethan,Male,05-10-2024,SnowWorld Landgraaf,NED,Great Britain,FIS,Rail Event,14,7.50
-11,Smith Ethan,Male,04-10-2024,SnowWorld Landgraaf,NED,Great Britain,FIS,Slopestyle,13,12.20
-12,Smith Ethan,Male,03-10-2024,SnowWorld Landgraaf,NED,Great Britain,FIS,Slopestyle,23,6.10
-13,Smith Ethan,Male,14-04-2024,Corvatsch,SUI,Great Britain,European Cup Premium,Big Air,33,76.40
-14,Smith Ethan,Male,12-04-2024,Corvatsch,SUI,Great Britain,European Cup Premium,Slopestyle,85,23.10
-15,Smith Ethan,Male,12-03-2024,Laax,SUI,Great Britain,European Cup Premium,Slopestyle,38,30.20
-16,Smith Ethan,Male,15-02-2024,Davos,SUI,Great Britain,European Cup,Big Air,23,19.10
-17,Smith Ethan,Male,10-02-2024,Mayrhofen,AUT,Great Britain,FIS,Slopestyle,4,25.60
-18,Smith Ethan,Male,15-12-2023,Copper Mountain,USA,Great Britain,World Cup,Big Air,43,62.70
-19,Smith Ethan,Male,13-12-2023,Copper Mountain,USA,Great Britain,Qualification,Big Air,23,
-20,Smith Ethan,Male,14-10-2023,SnowWorld Landgraaf,NED,Great Britain,FIS,Rail Event,7,
-21,Smith Ethan,Male,13-10-2023,SnowWorld Landgraaf,NED,Great Britain,FIS,Slopestyle,6,34.40
-22,Smith Ethan,Male,12-10-2023,SnowWorld Landgraaf,NED,Great Britain,FIS,Slopestyle,15,13.90
-23,Smith Ethan,Male,17-04-2023,Corvatsch,SUI,Great Britain,European Cup Premium,Big Air,45,26.80
-24,Smith Ethan,Male,14-04-2023,Corvatsch,SUI,Great Britain,European Cup Premium,Slopestyle,59,23.20
-25,Smith Ethan,Male,17-03-2023,Laax,SUI,Great Britain,European Cup Premium,Slopestyle,65,37.90
-26,Smith Ethan,Male,04-03-2023,Oberammergau,GER,Great Britain,FIS,Slopestyle,1,60.00
-27,Smith Ethan,Male,18-02-2023,Davos,SUI,Great Britain,European Cup,Big Air,12,32.60
-28,Smith Ethan,Male,12-02-2023,Mayrhofen,AUT,Great Britain,FIS,Slopestyle,2,49.00
-29,Smith Ethan,Male,29-11-2022,Glacier 3000,SUI,Great Britain,FIS,Slopestyle,5,55.50
-30,Smith Ethan,Male,09-04-2022,Corvatsch,SUI,Great Britain,European Cup Premium,Big Air,20,63.90
-31,Smith Ethan,Male,07-04-2022,Corvatsch,SUI,Great Britain,European Cup Premium,Slopestyle,24,66.60
-32,Smith Ethan,Male,15-03-2022,Laax,SUI,Great Britain,European Cup Premium,Slopestyle,14,32.00
-33,Smith Ethan,Male,26-02-2022,Götschen,GER,Great Britain,European Cup,Big Air,13,47.40
-34,Smith Ethan,Male,25-02-2022,Götschen,GER,Great Britain,European Cup,Slopestyle,43,21.90
-35,Smith Ethan,Male,18-02-2022,Davos,SUI,Great Britain,European Cup Premium,Big Air,26,33.00
-36,Smith Ethan,Male,28-01-2022,Crans Montana,SUI,Great Britain,European Cup,Big Air,18,27.20
-37,Smith Ethan,Male,19-11-2021,Landgraaf,NED,Great Britain,European Cup,Slopestyle,36,18.80
-38,Smith Ethan,Male,18-11-2021,Landgraaf,NED,Great Britain,FIS,Slopestyle,33,30.70
-39,Smith Ethan,Male,20-04-2021,Corvatsch,SUI,Great Britain,European Cup Premium,Slopestyle,43,17.71
-40,Smith Ethan,Male,05-03-2021,Götschen,GER,Great Britain,European Cup,Big Air,DNS,
-41,Smith Ethan,Male,22-02-2021,Götschen,GER,Great Britain,European Cup,Big Air,24,29.95
-42,Smith Ethan,Male,21-02-2021,Götschen,GER,Great Britain,European Cup,Slopestyle,32,21.43
-43,Smith Ethan,Male,19-02-2021,Davos,SUI,Great Britain,European Cup,Big Air,28,45.34
-44,Smith Ethan,Male,31-01-2021,Crans Montana,SUI,Great Britain,European Cup,Slopestyle,51,29.22
-45,Smith Ethan,Male,26-11-2020,Glacier 3000,SUI,Great Britain,FIS,Slopestyle,33,29.18
-46,Smith Ethan,Male,06-03-2020,Absolut Park Flachauwinkel,AUT,Great Britain,European Cup,Big Air,14,36.00
-47,Smith Ethan,Male,26-01-2020,Grasgehren,GER,Great Britain,Junior,Snowboard Cross,84,
-48,Smith Ethan,Male,25-01-2020,Grasgehren,GER,Great Britain,Junior,Snowboard Cross,56,1.64
-49,Smith Ethan,Male,19-01-2020,Vars,FRA,Great Britain,European Cup,Slopestyle,12,35.20
-50,Smith Ethan,Male,18-01-2020,Vars,FRA,Great Britain,European Cup,Big Air,29,5.76
-51,Smith Ethan,Male,04-12-2019,Glacier 3000,SUI,Great Britain,FIS,Slopestyle,5,22.50
-52,Smith Ethan,Male,13-04-2019,Klaeppen,SWE,Great Britain,FIS Junior World Championships,Big Air,41,4.37
-53,Smith Ethan,Male,12-04-2019,Klaeppen,SWE,Great Britain,Qualification,Big Air,11,
-54,Smith Ethan,Male,09-04-2019,Klaeppen,SWE,Great Britain,FIS Junior World Championships,Slopestyle,57,3.22
-55,Smith Ethan,Male,08-04-2019,Klaeppen,SWE,Great Britain,Qualification,Slopestyle,14,
-56,Smith Ethan,Male,22-03-2019,Laax,SUI,Great Britain,European Cup,Slopestyle,36,3.15
-57,Smith Ethan,Male,27-02-2019,Götschen,GER,Great Britain,European Cup,Big Air,19,19.20
-58,Smith Ethan,Male,26-02-2019,Götschen,GER,Great Britain,European Cup,Big Air,22,14.40
-59,Smith Ethan,Male,14-02-2019,Bjelasnica,BIH,Great Britain,European Youth Olympic Festival,Big Air,17,7.00
-60,Smith Ethan,Male,12-02-2019,Bjelasnica,BIH,Great Britain,European Youth Olympic Festival,Slopestyle,18,6.50
-61,Smith Ethan,Male,26-01-2019,Grasgehren,GER,Great Britain,Junior,Snowboard Cross,55,
-62,Smith Ethan,Male,16-11-2018,Glacier 3000,SUI,Great Britain,FIS,Slopestyle,24,
-63,Smith Ethan,Male,01-04-2017,Spindleruv Mlyn,CZE,Great Britain,FIS Junior World Championships,Big Air,77,
-64,Smith Ethan,Male,31-03-2017,Spindleruv Mlyn,CZE,Great Britain,FIS Junior World Championships,Slopestyle,41,6.55
-65,Smith Ethan,Male,30-03-2017,Spindleruv Mlyn,CZE,Great Britain,Qualification,Slopestyle,11,
-66,Smith Ethan,Male,29-03-2017,Spindleruv Mlyn,CZE,Great Britain,Qualification,Big Air,20,
-67,Smith Ethan,Male,17-02-2017,Goetschen,GER,Great Britain,European Cup,Big Air,32,4.16
+0,Smith Ethan,Male,12-04-2025,Corvatsch,SUI,Great Britain,European Cup Premium,Big Air,79,
+1,Smith Ethan,Male,10-04-2025,Corvatsch,SUI,Great Britain,European Cup Premium,Slopestyle,41,69.50
+2,Smith Ethan,Male,03-04-2025,Kitzsteinhorn,AUT,Great Britain,European Cup,Big Air,61,4.40
+3,Smith Ethan,Male,01-04-2025,Kitzsteinhorn,AUT,Great Britain,European Cup,Rail Event,11,31.30
+4,Smith Ethan,Male,22-03-2025,St. Anton,AUT,Great Britain,FIS,Slopestyle,8,24.90
+5,Smith Ethan,Male,21-03-2025,St. Anton,AUT,Great Britain,European Cup,Big Air,40,8.30
+6,Smith Ethan,Male,11-03-2025,Laax,SUI,Great Britain,European Cup Premium,Slopestyle,28,44.90
+7,Smith Ethan,Male,13-02-2025,Davos,SUI,Great Britain,European Cup,Rail Event,7,44.70
+8,Smith Ethan,Male,09-02-2025,Mayrhofen,AUT,Great Britain,FIS,Slopestyle,7,24.40
+9,Smith Ethan,Male,15-01-2025,Seiser Alm,ITA,Great Britain,European Cup,Slopestyle,24,19.20
+10,Smith Ethan,Male,15-11-2024,Glacier 3000,SUI,Great Britain,FIS,Big Air,5,29.80
+11,Smith Ethan,Male,05-10-2024,SnowWorld Landgraaf,NED,Great Britain,FIS,Rail Event,14,7.50
+12,Smith Ethan,Male,04-10-2024,SnowWorld Landgraaf,NED,Great Britain,FIS,Slopestyle,13,12.20
+13,Smith Ethan,Male,03-10-2024,SnowWorld Landgraaf,NED,Great Britain,FIS,Slopestyle,23,6.10
+14,Smith Ethan,Male,14-04-2024,Corvatsch,SUI,Great Britain,European Cup Premium,Big Air,33,76.40
+15,Smith Ethan,Male,12-04-2024,Corvatsch,SUI,Great Britain,European Cup Premium,Slopestyle,85,23.10
+16,Smith Ethan,Male,12-03-2024,Laax,SUI,Great Britain,European Cup Premium,Slopestyle,38,30.20
+17,Smith Ethan,Male,15-02-2024,Davos,SUI,Great Britain,European Cup,Big Air,23,19.10
+18,Smith Ethan,Male,10-02-2024,Mayrhofen,AUT,Great Britain,FIS,Slopestyle,4,25.60
+19,Smith Ethan,Male,15-12-2023,Copper Mountain,USA,Great Britain,World Cup,Big Air,43,62.70
+20,Smith Ethan,Male,13-12-2023,Copper Mountain,USA,Great Britain,Qualification,Big Air,23,
+21,Smith Ethan,Male,14-10-2023,SnowWorld Landgraaf,NED,Great Britain,FIS,Rail Event,7,
+22,Smith Ethan,Male,13-10-2023,SnowWorld Landgraaf,NED,Great Britain,FIS,Slopestyle,6,34.40
+23,Smith Ethan,Male,12-10-2023,SnowWorld Landgraaf,NED,Great Britain,FIS,Slopestyle,15,13.90
+24,Smith Ethan,Male,17-04-2023,Corvatsch,SUI,Great Britain,European Cup Premium,Big Air,45,26.80
+25,Smith Ethan,Male,14-04-2023,Corvatsch,SUI,Great Britain,European Cup Premium,Slopestyle,59,23.20
+26,Smith Ethan,Male,17-03-2023,Laax,SUI,Great Britain,European Cup Premium,Slopestyle,65,37.90
+27,Smith Ethan,Male,04-03-2023,Oberammergau,GER,Great Britain,FIS,Slopestyle,1,60.00
+28,Smith Ethan,Male,18-02-2023,Davos,SUI,Great Britain,European Cup,Big Air,12,32.60
+29,Smith Ethan,Male,12-02-2023,Mayrhofen,AUT,Great Britain,FIS,Slopestyle,2,49.00
+30,Smith Ethan,Male,29-11-2022,Glacier 3000,SUI,Great Britain,FIS,Slopestyle,5,55.50
+31,Smith Ethan,Male,09-04-2022,Corvatsch,SUI,Great Britain,European Cup Premium,Big Air,20,63.90
+32,Smith Ethan,Male,07-04-2022,Corvatsch,SUI,Great Britain,European Cup Premium,Slopestyle,24,66.60
+33,Smith Ethan,Male,15-03-2022,Laax,SUI,Great Britain,European Cup Premium,Slopestyle,14,32.00
+34,Smith Ethan,Male,26-02-2022,Götschen,GER,Great Britain,European Cup,Big Air,13,47.40
+35,Smith Ethan,Male,25-02-2022,Götschen,GER,Great Britain,European Cup,Slopestyle,43,21.90
+36,Smith Ethan,Male,18-02-2022,Davos,SUI,Great Britain,European Cup Premium,Big Air,26,33.00
+37,Smith Ethan,Male,28-01-2022,Crans Montana,SUI,Great Britain,European Cup,Big Air,18,27.20
+38,Smith Ethan,Male,19-11-2021,Landgraaf,NED,Great Britain,European Cup,Slopestyle,36,18.80
+39,Smith Ethan,Male,18-11-2021,Landgraaf,NED,Great Britain,FIS,Slopestyle,33,30.70
+40,Smith Ethan,Male,20-04-2021,Corvatsch,SUI,Great Britain,European Cup Premium,Slopestyle,43,17.71
+41,Smith Ethan,Male,05-03-2021,Götschen,GER,Great Britain,European Cup,Big Air,DNS,
+42,Smith Ethan,Male,22-02-2021,Götschen,GER,Great Britain,European Cup,Big Air,24,29.95
+43,Smith Ethan,Male,21-02-2021,Götschen,GER,Great Britain,European Cup,Slopestyle,32,21.43
+44,Smith Ethan,Male,19-02-2021,Davos,SUI,Great Britain,European Cup,Big Air,28,45.34
+45,Smith Ethan,Male,31-01-2021,Crans Montana,SUI,Great Britain,European Cup,Slopestyle,51,29.22
+46,Smith Ethan,Male,26-11-2020,Glacier 3000,SUI,Great Britain,FIS,Slopestyle,33,29.18
+47,Smith Ethan,Male,06-03-2020,Absolut Park Flachauwinkel,AUT,Great Britain,European Cup,Big Air,14,36.00
+48,Smith Ethan,Male,26-01-2020,Grasgehren,GER,Great Britain,Junior,Snowboard Cross,84,
+49,Smith Ethan,Male,25-01-2020,Grasgehren,GER,Great Britain,Junior,Snowboard Cross,56,1.64
+50,Smith Ethan,Male,19-01-2020,Vars,FRA,Great Britain,European Cup,Slopestyle,12,35.20
+51,Smith Ethan,Male,18-01-2020,Vars,FRA,Great Britain,European Cup,Big Air,29,5.76
+52,Smith Ethan,Male,04-12-2019,Glacier 3000,SUI,Great Britain,FIS,Slopestyle,5,22.50
+53,Smith Ethan,Male,13-04-2019,Klaeppen,SWE,Great Britain,FIS Junior World Championships,Big Air,41,4.37
+54,Smith Ethan,Male,12-04-2019,Klaeppen,SWE,Great Britain,Qualification,Big Air,11,
+55,Smith Ethan,Male,09-04-2019,Klaeppen,SWE,Great Britain,FIS Junior World Championships,Slopestyle,57,3.22
+56,Smith Ethan,Male,08-04-2019,Klaeppen,SWE,Great Britain,Qualification,Slopestyle,14,
+57,Smith Ethan,Male,22-03-2019,Laax,SUI,Great Britain,European Cup,Slopestyle,36,3.15
+58,Smith Ethan,Male,27-02-2019,Götschen,GER,Great Britain,European Cup,Big Air,19,19.20
+59,Smith Ethan,Male,26-02-2019,Götschen,GER,Great Britain,European Cup,Big Air,22,14.40
+60,Smith Ethan,Male,14-02-2019,Bjelasnica,BIH,Great Britain,European Youth Olympic Festival,Big Air,17,7.00
+61,Smith Ethan,Male,12-02-2019,Bjelasnica,BIH,Great Britain,European Youth Olympic Festival,Slopestyle,18,6.50
+62,Smith Ethan,Male,26-01-2019,Grasgehren,GER,Great Britain,Junior,Snowboard Cross,55,
+63,Smith Ethan,Male,16-11-2018,Glacier 3000,SUI,Great Britain,FIS,Slopestyle,24,
+64,Smith Ethan,Male,01-04-2017,Spindleruv Mlyn,CZE,Great Britain,FIS Junior World Championships,Big Air,77,
+65,Smith Ethan,Male,31-03-2017,Spindleruv Mlyn,CZE,Great Britain,FIS Junior World Championships,Slopestyle,41,6.55
+66,Smith Ethan,Male,30-03-2017,Spindleruv Mlyn,CZE,Great Britain,Qualification,Slopestyle,11,
+67,Smith Ethan,Male,29-03-2017,Spindleruv Mlyn,CZE,Great Britain,Qualification,Big Air,20,
+68,Smith Ethan,Male,17-02-2017,Goetschen,GER,Great Britain,European Cup,Big Air,32,4.16

@@ -1,72 +1,73 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Kimura Kira,Male,10-04-2025,Corvatsch,SUI,Japan,European Cup Premium,Slopestyle,13,127.10
-1,Kimura Kira,Male,03-04-2025,Kitzsteinhorn,AUT,Japan,European Cup,Big Air,1,360.00
-2,Kimura Kira,Male,28-03-2025,Engadin,SUI,Japan,World Championships,Big Air,11,267.80
-3,Kimura Kira,Male,25-03-2025,Engadin,SUI,Japan,Qualification,Big Air,6,
-4,Kimura Kira,Male,21-03-2025,Engadin,SUI,Japan,World Championships,Slopestyle,27,142.90
-5,Kimura Kira,Male,20-03-2025,Engadin,SUI,Japan,Qualification,Slopestyle,12,
-6,Kimura Kira,Male,05-03-2025,Tsugaike,JPN,Japan,National Championships,Big Air,8,100.20
-7,Kimura Kira,Male,04-03-2025,Tsugaike,JPN,Japan,National Championships,Slopestyle,4,184.50
-8,Kimura Kira,Male,01-03-2025,Hakuba,JPN,Japan,Asian Cup,Slopestyle,1,240.00
-9,Kimura Kira,Male,22-02-2025,Calgary,CAN,Japan,World Cup,Slopestyle,17,193.70
-10,Kimura Kira,Male,20-02-2025,Calgary,CAN,Japan,Qualification,Slopestyle,9,
-11,Kimura Kira,Male,06-02-2025,Aspen,USA,Japan,World Cup,Big Air,9,310.80
-12,Kimura Kira,Male,05-02-2025,Aspen,USA,Japan,Qualification,Big Air,3,
-13,Kimura Kira,Male,02-02-2025,Aspen,USA,Japan,World Cup,Slopestyle,48,36.60
-14,Kimura Kira,Male,31-01-2025,Aspen,USA,Japan,Qualification,Slopestyle,26,
-15,Kimura Kira,Male,18-01-2025,Laax,SUI,Japan,World Cup,Slopestyle,18,188.80
-16,Kimura Kira,Male,16-01-2025,Laax,SUI,Japan,Qualification,Slopestyle,9,
-17,Kimura Kira,Male,11-01-2025,Kreischberg,AUT,Japan,World Cup,Big Air,3,695.70
-18,Kimura Kira,Male,11-01-2025,Kreischberg,AUT,Japan,Qualification,Big Air,1,
-19,Kimura Kira,Male,05-01-2025,Klagenfurt,AUT,Japan,Qualification,Big Air,20,
-20,Kimura Kira,Male,05-01-2025,Klagenfurt,AUT,Japan,World Cup,Big Air,34,71.00
-21,Kimura Kira,Male,19-10-2024,Chur,SUI,Japan,World Cup,Big Air,DNS,
-22,Kimura Kira,Male,02-09-2024,Cardrona,NZL,Japan,World Cup,Slopestyle,5,507.10
-23,Kimura Kira,Male,31-08-2024,Cardrona,NZL,Japan,Qualification,Slopestyle,3,
-24,Kimura Kira,Male,14-04-2024,Corvatsch,SUI,Japan,European Cup Premium,Big Air,9,163.60
-25,Kimura Kira,Male,12-04-2024,Corvatsch,SUI,Japan,European Cup Premium,Slopestyle,2,415.90
-26,Kimura Kira,Male,23-03-2024,Silvaplana,SUI,Japan,World Cup,Slopestyle,41,77.80
-27,Kimura Kira,Male,21-03-2024,Silvaplana,SUI,Japan,Qualification,Slopestyle,19,
-28,Kimura Kira,Male,15-03-2024,Tignes,FRA,Japan,Qualification,Slopestyle,DNS,
-29,Kimura Kira,Male,15-03-2024,Tignes,FRA,Japan,World Cup,Slopestyle,DNS,
-30,Kimura Kira,Male,03-03-2024,Tsugaike,JPN,Japan,National Championships,Slopestyle,1,260.00
-31,Kimura Kira,Male,03-03-2024,Tsugaike,JPN,Japan,National Championships,Big Air,2,263.70
-32,Kimura Kira,Male,28-02-2024,Hakuba,JPN,Japan,Asian Cup,Slopestyle,3,165.20
-33,Kimura Kira,Male,20-01-2024,Laax,SUI,Japan,World Cup,Slopestyle,7,391.60
-34,Kimura Kira,Male,16-01-2024,Laax,SUI,Japan,Qualification,Slopestyle,11,
-35,Kimura Kira,Male,15-12-2023,Copper Mountain,USA,Japan,World Cup,Big Air,20,171.80
-36,Kimura Kira,Male,13-12-2023,Copper Mountain,USA,Japan,Qualification,Big Air,10,
-37,Kimura Kira,Male,09-12-2023,Edmonton,CAN,Japan,World Cup,Big Air,5,506.70
-38,Kimura Kira,Male,08-12-2023,Edmonton,CAN,Japan,Qualification,Big Air,3,
-39,Kimura Kira,Male,02-12-2023,Beijing,CHN,Japan,World Cup,Big Air,3,693.10
-40,Kimura Kira,Male,01-12-2023,Beijing,CHN,Japan,Qualification,Big Air,5,
-41,Kimura Kira,Male,21-10-2023,Chur,SUI,Japan,Qualification,Big Air,5,
+0,Kimura Kira,Male,12-04-2025,Corvatsch,SUI,Japan,European Cup Premium,Big Air,2,
+1,Kimura Kira,Male,10-04-2025,Corvatsch,SUI,Japan,European Cup Premium,Slopestyle,13,127.10
+2,Kimura Kira,Male,03-04-2025,Kitzsteinhorn,AUT,Japan,European Cup,Big Air,1,360.00
+3,Kimura Kira,Male,28-03-2025,Engadin,SUI,Japan,World Championships,Big Air,11,267.80
+4,Kimura Kira,Male,25-03-2025,Engadin,SUI,Japan,Qualification,Big Air,6,
+5,Kimura Kira,Male,21-03-2025,Engadin,SUI,Japan,World Championships,Slopestyle,27,142.90
+6,Kimura Kira,Male,20-03-2025,Engadin,SUI,Japan,Qualification,Slopestyle,12,
+7,Kimura Kira,Male,05-03-2025,Tsugaike,JPN,Japan,National Championships,Big Air,8,100.20
+8,Kimura Kira,Male,04-03-2025,Tsugaike,JPN,Japan,National Championships,Slopestyle,4,184.50
+9,Kimura Kira,Male,01-03-2025,Hakuba,JPN,Japan,Asian Cup,Slopestyle,1,240.00
+10,Kimura Kira,Male,22-02-2025,Calgary,CAN,Japan,World Cup,Slopestyle,17,193.70
+11,Kimura Kira,Male,20-02-2025,Calgary,CAN,Japan,Qualification,Slopestyle,9,
+12,Kimura Kira,Male,06-02-2025,Aspen,USA,Japan,World Cup,Big Air,9,310.80
+13,Kimura Kira,Male,05-02-2025,Aspen,USA,Japan,Qualification,Big Air,3,
+14,Kimura Kira,Male,02-02-2025,Aspen,USA,Japan,World Cup,Slopestyle,48,36.60
+15,Kimura Kira,Male,31-01-2025,Aspen,USA,Japan,Qualification,Slopestyle,26,
+16,Kimura Kira,Male,18-01-2025,Laax,SUI,Japan,World Cup,Slopestyle,18,188.80
+17,Kimura Kira,Male,16-01-2025,Laax,SUI,Japan,Qualification,Slopestyle,9,
+18,Kimura Kira,Male,11-01-2025,Kreischberg,AUT,Japan,World Cup,Big Air,3,695.70
+19,Kimura Kira,Male,11-01-2025,Kreischberg,AUT,Japan,Qualification,Big Air,1,
+20,Kimura Kira,Male,05-01-2025,Klagenfurt,AUT,Japan,Qualification,Big Air,20,
+21,Kimura Kira,Male,05-01-2025,Klagenfurt,AUT,Japan,World Cup,Big Air,34,71.00
+22,Kimura Kira,Male,19-10-2024,Chur,SUI,Japan,World Cup,Big Air,DNS,
+23,Kimura Kira,Male,02-09-2024,Cardrona,NZL,Japan,World Cup,Slopestyle,5,507.10
+24,Kimura Kira,Male,31-08-2024,Cardrona,NZL,Japan,Qualification,Slopestyle,3,
+25,Kimura Kira,Male,14-04-2024,Corvatsch,SUI,Japan,European Cup Premium,Big Air,9,163.60
+26,Kimura Kira,Male,12-04-2024,Corvatsch,SUI,Japan,European Cup Premium,Slopestyle,2,415.90
+27,Kimura Kira,Male,23-03-2024,Silvaplana,SUI,Japan,World Cup,Slopestyle,41,77.80
+28,Kimura Kira,Male,21-03-2024,Silvaplana,SUI,Japan,Qualification,Slopestyle,19,
+29,Kimura Kira,Male,15-03-2024,Tignes,FRA,Japan,Qualification,Slopestyle,DNS,
+30,Kimura Kira,Male,15-03-2024,Tignes,FRA,Japan,World Cup,Slopestyle,DNS,
+31,Kimura Kira,Male,03-03-2024,Tsugaike,JPN,Japan,National Championships,Slopestyle,1,260.00
+32,Kimura Kira,Male,03-03-2024,Tsugaike,JPN,Japan,National Championships,Big Air,2,263.70
+33,Kimura Kira,Male,28-02-2024,Hakuba,JPN,Japan,Asian Cup,Slopestyle,3,165.20
+34,Kimura Kira,Male,20-01-2024,Laax,SUI,Japan,World Cup,Slopestyle,7,391.60
+35,Kimura Kira,Male,16-01-2024,Laax,SUI,Japan,Qualification,Slopestyle,11,
+36,Kimura Kira,Male,15-12-2023,Copper Mountain,USA,Japan,World Cup,Big Air,20,171.80
+37,Kimura Kira,Male,13-12-2023,Copper Mountain,USA,Japan,Qualification,Big Air,10,
+38,Kimura Kira,Male,09-12-2023,Edmonton,CAN,Japan,World Cup,Big Air,5,506.70
+39,Kimura Kira,Male,08-12-2023,Edmonton,CAN,Japan,Qualification,Big Air,3,
+40,Kimura Kira,Male,02-12-2023,Beijing,CHN,Japan,World Cup,Big Air,3,693.10
+41,Kimura Kira,Male,01-12-2023,Beijing,CHN,Japan,Qualification,Big Air,5,
 42,Kimura Kira,Male,21-10-2023,Chur,SUI,Japan,World Cup,Big Air,2,829.50
-43,Kimura Kira,Male,29-09-2023,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,2,298.20
-44,Kimura Kira,Male,22-04-2023,Kitzsteinhorn,AUT,Japan,European Cup,Big Air,2,240.50
-45,Kimura Kira,Male,21-04-2023,Kitzsteinhorn,AUT,Japan,European Cup,Slopestyle,4,142.00
-46,Kimura Kira,Male,17-04-2023,Corvatsch,SUI,Japan,European Cup Premium,Big Air,1,400.00
-47,Kimura Kira,Male,14-04-2023,Corvatsch,SUI,Japan,European Cup Premium,Slopestyle,50,37.10
-48,Kimura Kira,Male,31-03-2023,Hakuba,JPN,Japan,Asian Cup,Big Air,5,86.80
-49,Kimura Kira,Male,29-03-2023,Hakuba,JPN,Japan,Asian Cup,Slopestyle,1,220.00
-50,Kimura Kira,Male,25-03-2023,Niseko,JPN,Japan,National Championships,Big Air,2,148.80
-51,Kimura Kira,Male,24-03-2023,Niseko,JPN,Japan,National Championships,Slopestyle,3,151.80
-52,Kimura Kira,Male,10-03-2023,Horseshoe Resort,CAN,Japan,Nor-Am Cup,Big Air,1,180.00
-53,Kimura Kira,Male,09-03-2023,Horseshoe Resort,CAN,Japan,Nor-Am Cup,Slopestyle,2,182.00
-54,Kimura Kira,Male,08-03-2023,Horseshoe Resort,CAN,Japan,Nor-Am Cup,Slopestyle,1,220.00
-55,Kimura Kira,Male,14-02-2023,Fukushima Yama,JPN,Japan,FIS,Big Air,1,220.00
-56,Kimura Kira,Male,29-01-2023,Niseko,JPN,Japan,FIS,Slopestyle,1,160.00
-57,Kimura Kira,Male,28-01-2023,Niseko,JPN,Japan,FIS,Slopestyle,2,132.60
-58,Kimura Kira,Male,14-01-2023,Kreischberg,AUT,Japan,World Cup,Big Air,3,555.10
-59,Kimura Kira,Male,13-01-2023,Kreischberg,AUT,Japan,Qualification,Big Air,4,
-60,Kimura Kira,Male,02-04-2022,Tsugaike,JPN,Japan,FIS,Big Air,DNS,
-61,Kimura Kira,Male,13-03-2022,Leysin,SUI,Japan,FIS Junior World Championships,Slopestyle,6,116.00
-62,Kimura Kira,Male,30-01-2022,Niseko,JPN,Japan,FIS,Slopestyle,3,90.50
-63,Kimura Kira,Male,29-01-2022,Niseko,JPN,Japan,FIS,Slopestyle,1,130.00
-64,Kimura Kira,Male,31-03-2021,Tsugaike,JPN,Japan,FIS,Big Air,1,60.00
-65,Kimura Kira,Male,31-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,16,20.48
-66,Kimura Kira,Male,30-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,11,28.16
-67,Kimura Kira,Male,01-03-2020,Oze-Tokura,JPN,Japan,FIS,Big Air,6,28.00
-68,Kimura Kira,Male,29-02-2020,Oze-Tokura,JPN,Japan,FIS,Slopestyle,13,18.00
-69,Kimura Kira,Male,26-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,11,38.40
-70,Kimura Kira,Male,25-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,28,6.40
+43,Kimura Kira,Male,21-10-2023,Chur,SUI,Japan,Qualification,Big Air,5,
+44,Kimura Kira,Male,29-09-2023,Cardrona,NZL,Japan,Australian New Zealand Cup,Slopestyle,2,298.20
+45,Kimura Kira,Male,22-04-2023,Kitzsteinhorn,AUT,Japan,European Cup,Big Air,2,240.50
+46,Kimura Kira,Male,21-04-2023,Kitzsteinhorn,AUT,Japan,European Cup,Slopestyle,4,142.00
+47,Kimura Kira,Male,17-04-2023,Corvatsch,SUI,Japan,European Cup Premium,Big Air,1,400.00
+48,Kimura Kira,Male,14-04-2023,Corvatsch,SUI,Japan,European Cup Premium,Slopestyle,50,37.10
+49,Kimura Kira,Male,31-03-2023,Hakuba,JPN,Japan,Asian Cup,Big Air,5,86.80
+50,Kimura Kira,Male,29-03-2023,Hakuba,JPN,Japan,Asian Cup,Slopestyle,1,220.00
+51,Kimura Kira,Male,25-03-2023,Niseko,JPN,Japan,National Championships,Big Air,2,148.80
+52,Kimura Kira,Male,24-03-2023,Niseko,JPN,Japan,National Championships,Slopestyle,3,151.80
+53,Kimura Kira,Male,10-03-2023,Horseshoe Resort,CAN,Japan,Nor-Am Cup,Big Air,1,180.00
+54,Kimura Kira,Male,09-03-2023,Horseshoe Resort,CAN,Japan,Nor-Am Cup,Slopestyle,2,182.00
+55,Kimura Kira,Male,08-03-2023,Horseshoe Resort,CAN,Japan,Nor-Am Cup,Slopestyle,1,220.00
+56,Kimura Kira,Male,14-02-2023,Fukushima Yama,JPN,Japan,FIS,Big Air,1,220.00
+57,Kimura Kira,Male,29-01-2023,Niseko,JPN,Japan,FIS,Slopestyle,1,160.00
+58,Kimura Kira,Male,28-01-2023,Niseko,JPN,Japan,FIS,Slopestyle,2,132.60
+59,Kimura Kira,Male,14-01-2023,Kreischberg,AUT,Japan,World Cup,Big Air,3,555.10
+60,Kimura Kira,Male,13-01-2023,Kreischberg,AUT,Japan,Qualification,Big Air,4,
+61,Kimura Kira,Male,02-04-2022,Tsugaike,JPN,Japan,FIS,Big Air,DNS,
+62,Kimura Kira,Male,13-03-2022,Leysin,SUI,Japan,FIS Junior World Championships,Slopestyle,6,116.00
+63,Kimura Kira,Male,30-01-2022,Niseko,JPN,Japan,FIS,Slopestyle,3,90.50
+64,Kimura Kira,Male,29-01-2022,Niseko,JPN,Japan,FIS,Slopestyle,1,130.00
+65,Kimura Kira,Male,31-03-2021,Tsugaike,JPN,Japan,FIS,Big Air,1,60.00
+66,Kimura Kira,Male,31-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,16,20.48
+67,Kimura Kira,Male,30-01-2021,Niseko,JPN,Japan,FIS,Slopestyle,11,28.16
+68,Kimura Kira,Male,01-03-2020,Oze-Tokura,JPN,Japan,FIS,Big Air,6,28.00
+69,Kimura Kira,Male,29-02-2020,Oze-Tokura,JPN,Japan,FIS,Slopestyle,13,18.00
+70,Kimura Kira,Male,26-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,11,38.40
+71,Kimura Kira,Male,25-01-2020,Niseko,JPN,Japan,Asian Cup,Slopestyle,28,6.40

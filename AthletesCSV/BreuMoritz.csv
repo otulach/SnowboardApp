@@ -1,77 +1,78 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Breu Moritz,Male,10-04-2025,Corvatsch,SUI,Germany,European Cup Premium,Slopestyle,26,91.10
-1,Breu Moritz,Male,03-04-2025,Kitzsteinhorn,AUT,Germany,European Cup,Big Air,30,48.80
-2,Breu Moritz,Male,28-03-2025,Engadin,SUI,Germany,World Championships,Big Air,41,74.80
-3,Breu Moritz,Male,25-03-2025,Engadin,SUI,Germany,Qualification,Big Air,18,
-4,Breu Moritz,Male,21-03-2025,Engadin,SUI,Germany,World Championships,Slopestyle,42,79.40
-5,Breu Moritz,Male,20-03-2025,Engadin,SUI,Germany,Qualification,Slopestyle,20,
-6,Breu Moritz,Male,11-03-2025,Laax,SUI,Germany,European Cup Premium,Slopestyle,5,148.40
-7,Breu Moritz,Male,19-01-2025,Bardonecchia,ITA,Germany,Universiade,Big Air,3,67.30
-8,Breu Moritz,Male,17-01-2025,Bardonecchia,ITA,Germany,Universiade,Slopestyle,5,46.10
-9,Breu Moritz,Male,05-01-2025,Font Romeu,FRA,Germany,European Cup Premium,Slopestyle,6,71.20
-10,Breu Moritz,Male,14-04-2024,Corvatsch,SUI,Germany,European Cup Premium,Big Air,10,150.90
-11,Breu Moritz,Male,12-04-2024,Corvatsch,SUI,Germany,European Cup Premium,Slopestyle,36,82.70
-12,Breu Moritz,Male,15-03-2024,Tignes,FRA,Germany,World Cup,Slopestyle,45,42.70
-13,Breu Moritz,Male,15-03-2024,Tignes,FRA,Germany,Qualification,Slopestyle,23,
-14,Breu Moritz,Male,12-03-2024,Laax,SUI,Germany,European Cup Premium,Slopestyle,24,38.20
-15,Breu Moritz,Male,22-02-2024,Prato Nevoso,ITA,Germany,European Cup,Slopestyle,17,62.80
-16,Breu Moritz,Male,15-02-2024,Davos,SUI,Germany,European Cup,Big Air,38,4.00
-17,Breu Moritz,Male,05-01-2024,Font Romeu,FRA,Germany,European Cup,Big Air,40,8.80
-18,Breu Moritz,Male,04-01-2024,Font Romeu,FRA,Germany,European Cup Premium,Slopestyle,27,43.40
-19,Breu Moritz,Male,22-04-2023,Kitzsteinhorn,AUT,Germany,European Cup,Big Air,11,76.20
-20,Breu Moritz,Male,21-04-2023,Kitzsteinhorn,AUT,Germany,European Cup,Slopestyle,41,18.70
-21,Breu Moritz,Male,19-04-2023,Kitzsteinhorn,AUT,Germany,European Cup,Halfpipe,8,23.00
-22,Breu Moritz,Male,14-04-2023,Corvatsch,SUI,Germany,European Cup Premium,Slopestyle,24,78.20
-23,Breu Moritz,Male,26-03-2023,Silvaplana,SUI,Germany,World Cup,Slopestyle,DNS,
-24,Breu Moritz,Male,25-03-2023,Silvaplana,SUI,Germany,Qualification,Slopestyle,DNS,
-25,Breu Moritz,Male,17-03-2023,Laax,SUI,Germany,European Cup Premium,Slopestyle,40,62.20
-26,Breu Moritz,Male,04-03-2023,Bakuriani,GEO,Germany,World Championships,Big Air,25,87.40
-27,Breu Moritz,Male,02-03-2023,Bakuriani,GEO,Germany,Qualification,Big Air,13,
-28,Breu Moritz,Male,27-02-2023,Bakuriani,GEO,Germany,World Championships,Slopestyle,24,110.00
-29,Breu Moritz,Male,24-02-2023,Bakuriani,GEO,Germany,Qualification,Slopestyle,11,
-30,Breu Moritz,Male,20-01-2023,Gore Mountain,USA,Germany,Universiade,Big Air,2,90.00
-31,Breu Moritz,Male,19-01-2023,Gore Mountain,USA,Germany,Qualification,Big Air,9,
-32,Breu Moritz,Male,18-01-2023,Gore Mountain,USA,Germany,Universiade,Slopestyle,6,46.70
-33,Breu Moritz,Male,17-01-2023,Gore Mountain,USA,Germany,Qualification,Slopestyle,9,
-34,Breu Moritz,Male,22-10-2022,Chur,SUI,Germany,Qualification,Big Air,6,
+0,Breu Moritz,Male,12-04-2025,Corvatsch,SUI,Germany,European Cup Premium,Big Air,33,
+1,Breu Moritz,Male,10-04-2025,Corvatsch,SUI,Germany,European Cup Premium,Slopestyle,26,91.10
+2,Breu Moritz,Male,03-04-2025,Kitzsteinhorn,AUT,Germany,European Cup,Big Air,30,48.80
+3,Breu Moritz,Male,28-03-2025,Engadin,SUI,Germany,World Championships,Big Air,41,74.80
+4,Breu Moritz,Male,25-03-2025,Engadin,SUI,Germany,Qualification,Big Air,18,
+5,Breu Moritz,Male,21-03-2025,Engadin,SUI,Germany,World Championships,Slopestyle,42,79.40
+6,Breu Moritz,Male,20-03-2025,Engadin,SUI,Germany,Qualification,Slopestyle,20,
+7,Breu Moritz,Male,11-03-2025,Laax,SUI,Germany,European Cup Premium,Slopestyle,5,148.40
+8,Breu Moritz,Male,19-01-2025,Bardonecchia,ITA,Germany,Universiade,Big Air,3,67.30
+9,Breu Moritz,Male,17-01-2025,Bardonecchia,ITA,Germany,Universiade,Slopestyle,5,46.10
+10,Breu Moritz,Male,05-01-2025,Font Romeu,FRA,Germany,European Cup Premium,Slopestyle,6,71.20
+11,Breu Moritz,Male,14-04-2024,Corvatsch,SUI,Germany,European Cup Premium,Big Air,10,150.90
+12,Breu Moritz,Male,12-04-2024,Corvatsch,SUI,Germany,European Cup Premium,Slopestyle,36,82.70
+13,Breu Moritz,Male,15-03-2024,Tignes,FRA,Germany,World Cup,Slopestyle,45,42.70
+14,Breu Moritz,Male,15-03-2024,Tignes,FRA,Germany,Qualification,Slopestyle,23,
+15,Breu Moritz,Male,12-03-2024,Laax,SUI,Germany,European Cup Premium,Slopestyle,24,38.20
+16,Breu Moritz,Male,22-02-2024,Prato Nevoso,ITA,Germany,European Cup,Slopestyle,17,62.80
+17,Breu Moritz,Male,15-02-2024,Davos,SUI,Germany,European Cup,Big Air,38,4.00
+18,Breu Moritz,Male,05-01-2024,Font Romeu,FRA,Germany,European Cup,Big Air,40,8.80
+19,Breu Moritz,Male,04-01-2024,Font Romeu,FRA,Germany,European Cup Premium,Slopestyle,27,43.40
+20,Breu Moritz,Male,22-04-2023,Kitzsteinhorn,AUT,Germany,European Cup,Big Air,11,76.20
+21,Breu Moritz,Male,21-04-2023,Kitzsteinhorn,AUT,Germany,European Cup,Slopestyle,41,18.70
+22,Breu Moritz,Male,19-04-2023,Kitzsteinhorn,AUT,Germany,European Cup,Halfpipe,8,23.00
+23,Breu Moritz,Male,14-04-2023,Corvatsch,SUI,Germany,European Cup Premium,Slopestyle,24,78.20
+24,Breu Moritz,Male,26-03-2023,Silvaplana,SUI,Germany,World Cup,Slopestyle,DNS,
+25,Breu Moritz,Male,25-03-2023,Silvaplana,SUI,Germany,Qualification,Slopestyle,DNS,
+26,Breu Moritz,Male,17-03-2023,Laax,SUI,Germany,European Cup Premium,Slopestyle,40,62.20
+27,Breu Moritz,Male,04-03-2023,Bakuriani,GEO,Germany,World Championships,Big Air,25,87.40
+28,Breu Moritz,Male,02-03-2023,Bakuriani,GEO,Germany,Qualification,Big Air,13,
+29,Breu Moritz,Male,27-02-2023,Bakuriani,GEO,Germany,World Championships,Slopestyle,24,110.00
+30,Breu Moritz,Male,24-02-2023,Bakuriani,GEO,Germany,Qualification,Slopestyle,11,
+31,Breu Moritz,Male,20-01-2023,Gore Mountain,USA,Germany,Universiade,Big Air,2,90.00
+32,Breu Moritz,Male,19-01-2023,Gore Mountain,USA,Germany,Qualification,Big Air,9,
+33,Breu Moritz,Male,18-01-2023,Gore Mountain,USA,Germany,Universiade,Slopestyle,6,46.70
+34,Breu Moritz,Male,17-01-2023,Gore Mountain,USA,Germany,Qualification,Slopestyle,9,
 35,Breu Moritz,Male,22-10-2022,Chur,SUI,Germany,World Cup,Big Air,11,206.80
-36,Breu Moritz,Male,01-05-2021,Hintertux,AUT,Germany,Junior,Slopestyle,5,109.41
-37,Breu Moritz,Male,21-03-2021,Krasnoyarsk ,RUS,Germany,FIS Junior World Championships,Big Air,2,198.36
-38,Breu Moritz,Male,20-03-2021,Krasnoyarsk ,RUS,Germany,Qualification,Big Air,2,
-39,Breu Moritz,Male,19-03-2021,Krasnoyarsk ,RUS,Germany,FIS Junior World Championships,Slopestyle,5,118.94
-40,Breu Moritz,Male,18-03-2021,Krasnoyarsk ,RUS,Germany,Qualification,Slopestyle,2,
-41,Breu Moritz,Male,06-03-2021,Götschen,GER,Germany,FIS,Big Air,2,65.98
-42,Breu Moritz,Male,05-03-2021,Götschen,GER,Germany,European Cup,Big Air,11,31.72
-43,Breu Moritz,Male,04-03-2021,Flachauwinkel,AUT,Germany,European Cup,Big Air,10,46.10
-44,Breu Moritz,Male,22-02-2021,Götschen,GER,Germany,European Cup,Big Air,49,7.17
-45,Breu Moritz,Male,21-02-2021,Götschen,GER,Germany,European Cup,Slopestyle,8,63.12
-46,Breu Moritz,Male,19-02-2021,Davos,SUI,Germany,European Cup,Big Air,17,68.29
-47,Breu Moritz,Male,31-01-2021,Crans Montana,SUI,Germany,European Cup,Slopestyle,26,60.13
-48,Breu Moritz,Male,06-03-2020,Absolut Park Flachauwinkel,AUT,Germany,European Cup,Big Air,13,40.00
-49,Breu Moritz,Male,02-11-2019,Modena SKIPASS,ITA,Germany,World Cup,Big Air,49,
-50,Breu Moritz,Male,13-04-2019,Klaeppen,SWE,Germany,FIS Junior World Championships,Big Air,35,4.80
-51,Breu Moritz,Male,12-04-2019,Klaeppen,SWE,Germany,Qualification,Big Air,9,
-52,Breu Moritz,Male,09-04-2019,Klaeppen,SWE,Germany,FIS Junior World Championships,Slopestyle,14,43.20
-53,Breu Moritz,Male,08-04-2019,Klaeppen,SWE,Germany,Qualification,Slopestyle,4,
-54,Breu Moritz,Male,22-03-2019,Laax,SUI,Germany,European Cup,Slopestyle,6,64.00
-55,Breu Moritz,Male,17-03-2019,Kuehtai,AUT,Germany,European Cup,Halfpipe,DNS1,
-56,Breu Moritz,Male,16-03-2019,Kuehtai,AUT,Germany,European Cup,Big Air,16,24.00
-57,Breu Moritz,Male,27-02-2019,Götschen,GER,Germany,European Cup,Big Air,6,64.00
-58,Breu Moritz,Male,26-02-2019,Götschen,GER,Germany,European Cup,Big Air,6,64.00
-59,Breu Moritz,Male,14-02-2019,Bjelasnica,BIH,Germany,European Youth Olympic Festival,Big Air,35,1.00
-60,Breu Moritz,Male,12-02-2019,Bjelasnica,BIH,Germany,European Youth Olympic Festival,Slopestyle,7,18.00
-61,Breu Moritz,Male,26-01-2019,Vars,FRA,Germany,European Cup,Big Air,18,23.40
-62,Breu Moritz,Male,25-01-2019,Vars,FRA,Germany,European Cup,Slopestyle,11,38.40
-63,Breu Moritz,Male,22-01-2019,Font Romeu,FRA,Germany,European Cup,Big Air,26,8.00
-64,Breu Moritz,Male,22-11-2018,Landgraaf,NED,Germany,European Cup,Slopestyle,66,
-65,Breu Moritz,Male,21-11-2018,Landgraaf,NED,Germany,FIS,Slopestyle,41,2.00
-66,Breu Moritz,Male,24-03-2018,Kühtai,AUT,Germany,European Cup,Halfpipe,12,35.20
-67,Breu Moritz,Male,23-03-2018,Kühtai,AUT,Germany,European Cup,Big Air,33,
-68,Breu Moritz,Male,03-03-2018,Götschen,GER,Germany,European Cup,Big Air,33,3.84
-69,Breu Moritz,Male,01-04-2017,Spindleruv Mlyn,CZE,Germany,FIS Junior World Championships,Big Air,39,4.51
-70,Breu Moritz,Male,31-03-2017,Spindleruv Mlyn,CZE,Germany,FIS Junior World Championships,Slopestyle,38,6.88
-71,Breu Moritz,Male,30-03-2017,Spindleruv Mlyn,CZE,Germany,Qualification,Slopestyle,10,
-72,Breu Moritz,Male,29-03-2017,Spindleruv Mlyn,CZE,Germany,Qualification,Big Air,8,
-73,Breu Moritz,Male,26-03-2017,Kühtai,AUT,Germany,European Cup,Halfpipe,14,28.80
-74,Breu Moritz,Male,24-03-2017,Kühtai,AUT,Germany,European Cup,Big Air,15,25.60
-75,Breu Moritz,Male,17-02-2017,Goetschen,GER,Germany,European Cup,Big Air,20,17.60
+36,Breu Moritz,Male,22-10-2022,Chur,SUI,Germany,Qualification,Big Air,6,
+37,Breu Moritz,Male,01-05-2021,Hintertux,AUT,Germany,Junior,Slopestyle,5,109.41
+38,Breu Moritz,Male,21-03-2021,Krasnoyarsk ,RUS,Germany,FIS Junior World Championships,Big Air,2,198.36
+39,Breu Moritz,Male,20-03-2021,Krasnoyarsk ,RUS,Germany,Qualification,Big Air,2,
+40,Breu Moritz,Male,19-03-2021,Krasnoyarsk ,RUS,Germany,FIS Junior World Championships,Slopestyle,5,118.94
+41,Breu Moritz,Male,18-03-2021,Krasnoyarsk ,RUS,Germany,Qualification,Slopestyle,2,
+42,Breu Moritz,Male,06-03-2021,Götschen,GER,Germany,FIS,Big Air,2,65.98
+43,Breu Moritz,Male,05-03-2021,Götschen,GER,Germany,European Cup,Big Air,11,31.72
+44,Breu Moritz,Male,04-03-2021,Flachauwinkel,AUT,Germany,European Cup,Big Air,10,46.10
+45,Breu Moritz,Male,22-02-2021,Götschen,GER,Germany,European Cup,Big Air,49,7.17
+46,Breu Moritz,Male,21-02-2021,Götschen,GER,Germany,European Cup,Slopestyle,8,63.12
+47,Breu Moritz,Male,19-02-2021,Davos,SUI,Germany,European Cup,Big Air,17,68.29
+48,Breu Moritz,Male,31-01-2021,Crans Montana,SUI,Germany,European Cup,Slopestyle,26,60.13
+49,Breu Moritz,Male,06-03-2020,Absolut Park Flachauwinkel,AUT,Germany,European Cup,Big Air,13,40.00
+50,Breu Moritz,Male,02-11-2019,Modena SKIPASS,ITA,Germany,World Cup,Big Air,49,
+51,Breu Moritz,Male,13-04-2019,Klaeppen,SWE,Germany,FIS Junior World Championships,Big Air,35,4.80
+52,Breu Moritz,Male,12-04-2019,Klaeppen,SWE,Germany,Qualification,Big Air,9,
+53,Breu Moritz,Male,09-04-2019,Klaeppen,SWE,Germany,FIS Junior World Championships,Slopestyle,14,43.20
+54,Breu Moritz,Male,08-04-2019,Klaeppen,SWE,Germany,Qualification,Slopestyle,4,
+55,Breu Moritz,Male,22-03-2019,Laax,SUI,Germany,European Cup,Slopestyle,6,64.00
+56,Breu Moritz,Male,17-03-2019,Kuehtai,AUT,Germany,European Cup,Halfpipe,DNS1,
+57,Breu Moritz,Male,16-03-2019,Kuehtai,AUT,Germany,European Cup,Big Air,16,24.00
+58,Breu Moritz,Male,27-02-2019,Götschen,GER,Germany,European Cup,Big Air,6,64.00
+59,Breu Moritz,Male,26-02-2019,Götschen,GER,Germany,European Cup,Big Air,6,64.00
+60,Breu Moritz,Male,14-02-2019,Bjelasnica,BIH,Germany,European Youth Olympic Festival,Big Air,35,1.00
+61,Breu Moritz,Male,12-02-2019,Bjelasnica,BIH,Germany,European Youth Olympic Festival,Slopestyle,7,18.00
+62,Breu Moritz,Male,26-01-2019,Vars,FRA,Germany,European Cup,Big Air,18,23.40
+63,Breu Moritz,Male,25-01-2019,Vars,FRA,Germany,European Cup,Slopestyle,11,38.40
+64,Breu Moritz,Male,22-01-2019,Font Romeu,FRA,Germany,European Cup,Big Air,26,8.00
+65,Breu Moritz,Male,22-11-2018,Landgraaf,NED,Germany,European Cup,Slopestyle,66,
+66,Breu Moritz,Male,21-11-2018,Landgraaf,NED,Germany,FIS,Slopestyle,41,2.00
+67,Breu Moritz,Male,24-03-2018,Kühtai,AUT,Germany,European Cup,Halfpipe,12,35.20
+68,Breu Moritz,Male,23-03-2018,Kühtai,AUT,Germany,European Cup,Big Air,33,
+69,Breu Moritz,Male,03-03-2018,Götschen,GER,Germany,European Cup,Big Air,33,3.84
+70,Breu Moritz,Male,01-04-2017,Spindleruv Mlyn,CZE,Germany,FIS Junior World Championships,Big Air,39,4.51
+71,Breu Moritz,Male,31-03-2017,Spindleruv Mlyn,CZE,Germany,FIS Junior World Championships,Slopestyle,38,6.88
+72,Breu Moritz,Male,30-03-2017,Spindleruv Mlyn,CZE,Germany,Qualification,Slopestyle,10,
+73,Breu Moritz,Male,29-03-2017,Spindleruv Mlyn,CZE,Germany,Qualification,Big Air,8,
+74,Breu Moritz,Male,26-03-2017,Kühtai,AUT,Germany,European Cup,Halfpipe,14,28.80
+75,Breu Moritz,Male,24-03-2017,Kühtai,AUT,Germany,European Cup,Big Air,15,25.60
+76,Breu Moritz,Male,17-02-2017,Goetschen,GER,Germany,European Cup,Big Air,20,17.60

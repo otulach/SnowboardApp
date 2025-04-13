@@ -1,33 +1,34 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Beer Ava,Female,10-04-2025,Corvatsch,SUI,New Zealand,European Cup Premium,Slopestyle,16,34.00
-1,Beer Ava,Female,11-03-2025,Laax,SUI,New Zealand,European Cup Premium,Slopestyle,6,46.00
-2,Beer Ava,Female,11-01-2025,Prato Nevoso,ITA,New Zealand,European Cup,Slopestyle,5,57.60
-3,Beer Ava,Female,06-01-2025,Font Romeu,FRA,New Zealand,FIS,Rail Event,4,19.90
-4,Beer Ava,Female,05-01-2025,Font Romeu,FRA,New Zealand,European Cup Premium,Slopestyle,4,66.20
-5,Beer Ava,Female,02-09-2024,Cardrona,NZL,New Zealand,World Cup,Slopestyle,24,60.70
-6,Beer Ava,Female,31-08-2024,Cardrona,NZL,New Zealand,Qualification,Slopestyle,24,
-7,Beer Ava,Female,17-08-2024,The Remarkables,NZL,New Zealand,Australian New Zealand Cup,Slopestyle,6,43.00
-8,Beer Ava,Female,14-04-2024,Corvatsch,SUI,New Zealand,European Cup Premium,Big Air,DNS,
-9,Beer Ava,Female,12-04-2024,Corvatsch,SUI,New Zealand,European Cup Premium,Slopestyle,DNS,
-10,Beer Ava,Female,15-03-2024,Tignes,FRA,New Zealand,World Cup,Slopestyle,DNS,
-11,Beer Ava,Female,14-03-2024,Tignes,FRA,New Zealand,Qualification,Slopestyle,DNS,
-12,Beer Ava,Female,01-02-2024,Gangwon/Welli Hilli,KOR,New Zealand,Youth Olympic Winter Games,Halfpipe,14,4.80
-13,Beer Ava,Female,28-01-2024,Gangwon/Welli Hilli,KOR,New Zealand,Youth Olympic Winter Games,Big Air,10,36.10
-14,Beer Ava,Female,27-01-2024,Gangwon/Welli Hilli,KOR,New Zealand,Qualification,Big Air,3,
-15,Beer Ava,Female,24-01-2024,Gangwon/Welli Hilli,KOR,New Zealand,Youth Olympic Winter Games,Slopestyle,10,36.10
-16,Beer Ava,Female,29-09-2023,Cardrona,NZL,New Zealand,Australian New Zealand Cup,Slopestyle,4,121.20
-17,Beer Ava,Female,04-09-2023,Cardrona,NZL,New Zealand,FIS Junior World Championships,Big Air,20,19.30
-18,Beer Ava,Female,02-09-2023,Cardrona,NZL,New Zealand,Qualification,Big Air,8,
-19,Beer Ava,Female,30-08-2023,Cardrona,NZL,New Zealand,FIS Junior World Championships,Slopestyle,16,39.30
-20,Beer Ava,Female,28-08-2023,Cardrona,NZL,New Zealand,Qualification,Slopestyle,10,
-21,Beer Ava,Female,12-08-2023,The Remarkables,NZL,New Zealand,Australian New Zealand Cup,Slopestyle,4,75.70
-22,Beer Ava,Female,19-03-2023,Laax,SUI,New Zealand,National Junior Championships,Halfpipe,DNS,
-23,Beer Ava,Female,18-03-2023,Laax,SUI,New Zealand,European Cup Premium,Halfpipe,9,24.40
-24,Beer Ava,Female,17-03-2023,Laax,SUI,New Zealand,European Cup Premium,Slopestyle,5,172.80
-25,Beer Ava,Female,18-02-2023,Davos,SUI,New Zealand,European Cup,Big Air,4,67.10
-26,Beer Ava,Female,08-10-2022,Cardrona Alpine Resort,NZL,New Zealand,Australian New Zealand Cup,Halfpipe,4,0.10
-27,Beer Ava,Female,08-10-2022,Cardrona Alpine Resort,NZL,New Zealand,Australian New Zealand Cup,Big Air,5,18.70
-28,Beer Ava,Female,07-10-2022,Cardrona Alpine Resort,NZL,New Zealand,Australian New Zealand Cup,Slopestyle,3,93.60
-29,Beer Ava,Female,02-09-2022,Cardrona,NZL,New Zealand,Australian New Zealand Cup,Slopestyle,3,75.90
-30,Beer Ava,Female,24-02-2022,Copper Mountain Resort,USA,New Zealand,FIS,Slopestyle,2,65.40
-31,Beer Ava,Female,18-09-2021,Cardrona,NZL,New Zealand,FIS,Slopestyle,5,9.40
+0,Beer Ava,Female,12-04-2025,Corvatsch,SUI,New Zealand,European Cup Premium,Big Air,10,
+1,Beer Ava,Female,10-04-2025,Corvatsch,SUI,New Zealand,European Cup Premium,Slopestyle,16,34.00
+2,Beer Ava,Female,11-03-2025,Laax,SUI,New Zealand,European Cup Premium,Slopestyle,6,46.00
+3,Beer Ava,Female,11-01-2025,Prato Nevoso,ITA,New Zealand,European Cup,Slopestyle,5,57.60
+4,Beer Ava,Female,06-01-2025,Font Romeu,FRA,New Zealand,FIS,Rail Event,4,19.90
+5,Beer Ava,Female,05-01-2025,Font Romeu,FRA,New Zealand,European Cup Premium,Slopestyle,4,66.20
+6,Beer Ava,Female,02-09-2024,Cardrona,NZL,New Zealand,World Cup,Slopestyle,24,60.70
+7,Beer Ava,Female,31-08-2024,Cardrona,NZL,New Zealand,Qualification,Slopestyle,24,
+8,Beer Ava,Female,17-08-2024,The Remarkables,NZL,New Zealand,Australian New Zealand Cup,Slopestyle,6,43.00
+9,Beer Ava,Female,14-04-2024,Corvatsch,SUI,New Zealand,European Cup Premium,Big Air,DNS,
+10,Beer Ava,Female,12-04-2024,Corvatsch,SUI,New Zealand,European Cup Premium,Slopestyle,DNS,
+11,Beer Ava,Female,15-03-2024,Tignes,FRA,New Zealand,World Cup,Slopestyle,DNS,
+12,Beer Ava,Female,14-03-2024,Tignes,FRA,New Zealand,Qualification,Slopestyle,DNS,
+13,Beer Ava,Female,01-02-2024,Gangwon/Welli Hilli,KOR,New Zealand,Youth Olympic Winter Games,Halfpipe,14,4.80
+14,Beer Ava,Female,28-01-2024,Gangwon/Welli Hilli,KOR,New Zealand,Youth Olympic Winter Games,Big Air,10,36.10
+15,Beer Ava,Female,27-01-2024,Gangwon/Welli Hilli,KOR,New Zealand,Qualification,Big Air,3,
+16,Beer Ava,Female,24-01-2024,Gangwon/Welli Hilli,KOR,New Zealand,Youth Olympic Winter Games,Slopestyle,10,36.10
+17,Beer Ava,Female,29-09-2023,Cardrona,NZL,New Zealand,Australian New Zealand Cup,Slopestyle,4,121.20
+18,Beer Ava,Female,04-09-2023,Cardrona,NZL,New Zealand,FIS Junior World Championships,Big Air,20,19.30
+19,Beer Ava,Female,02-09-2023,Cardrona,NZL,New Zealand,Qualification,Big Air,8,
+20,Beer Ava,Female,30-08-2023,Cardrona,NZL,New Zealand,FIS Junior World Championships,Slopestyle,16,39.30
+21,Beer Ava,Female,28-08-2023,Cardrona,NZL,New Zealand,Qualification,Slopestyle,10,
+22,Beer Ava,Female,12-08-2023,The Remarkables,NZL,New Zealand,Australian New Zealand Cup,Slopestyle,4,75.70
+23,Beer Ava,Female,19-03-2023,Laax,SUI,New Zealand,National Junior Championships,Halfpipe,DNS,
+24,Beer Ava,Female,18-03-2023,Laax,SUI,New Zealand,European Cup Premium,Halfpipe,9,24.40
+25,Beer Ava,Female,17-03-2023,Laax,SUI,New Zealand,European Cup Premium,Slopestyle,5,172.80
+26,Beer Ava,Female,18-02-2023,Davos,SUI,New Zealand,European Cup,Big Air,4,67.10
+27,Beer Ava,Female,08-10-2022,Cardrona Alpine Resort,NZL,New Zealand,Australian New Zealand Cup,Halfpipe,4,0.10
+28,Beer Ava,Female,08-10-2022,Cardrona Alpine Resort,NZL,New Zealand,Australian New Zealand Cup,Big Air,5,18.70
+29,Beer Ava,Female,07-10-2022,Cardrona Alpine Resort,NZL,New Zealand,Australian New Zealand Cup,Slopestyle,3,93.60
+30,Beer Ava,Female,02-09-2022,Cardrona,NZL,New Zealand,Australian New Zealand Cup,Slopestyle,3,75.90
+31,Beer Ava,Female,24-02-2022,Copper Mountain Resort,USA,New Zealand,FIS,Slopestyle,2,65.40
+32,Beer Ava,Female,18-09-2021,Cardrona,NZL,New Zealand,FIS,Slopestyle,5,9.40

@@ -1,76 +1,77 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Mcmorris Mark,Male,10-04-2025,Corvatsch,SUI,Canada,European Cup Premium,Slopestyle,17,109.70
-1,Mcmorris Mark,Male,28-03-2025,Engadin,SUI,Canada,World Championships,Big Air,32,114.50
-2,Mcmorris Mark,Male,25-03-2025,Engadin,SUI,Canada,Qualification,Big Air,17,
-3,Mcmorris Mark,Male,21-03-2025,Engadin,SUI,Canada,World Championships,Slopestyle,17,197.20
-4,Mcmorris Mark,Male,20-03-2025,Engadin,SUI,Canada,Qualification,Slopestyle,9,
-5,Mcmorris Mark,Male,22-02-2025,Calgary,CAN,Canada,World Cup,Slopestyle,48,44.10
-6,Mcmorris Mark,Male,20-02-2025,Calgary,CAN,Canada,Qualification,Slopestyle,25,
-7,Mcmorris Mark,Male,06-02-2025,Aspen,USA,Canada,World Cup,Big Air,6,439.40
-8,Mcmorris Mark,Male,05-02-2025,Aspen,USA,Canada,Qualification,Big Air,5,
-9,Mcmorris Mark,Male,02-02-2025,Aspen,USA,Canada,World Cup,Slopestyle,15,209.10
-10,Mcmorris Mark,Male,31-01-2025,Aspen,USA,Canada,Qualification,Slopestyle,2,
-11,Mcmorris Mark,Male,18-01-2025,Laax,SUI,Canada,World Cup,Slopestyle,38,93.40
-12,Mcmorris Mark,Male,16-01-2025,Laax,SUI,Canada,Qualification,Slopestyle,14,
-13,Mcmorris Mark,Male,22-01-2023,Laax,SUI,Canada,World Cup,Slopestyle,50,31.50
-14,Mcmorris Mark,Male,18-01-2023,Laax,SUI,Canada,Qualification,Slopestyle,25,
-15,Mcmorris Mark,Male,10-12-2022,Edmonton,CAN,Canada,World Cup,Big Air,9,251.10
-16,Mcmorris Mark,Male,09-12-2022,Edmonton,CAN,Canada,Qualification,Big Air,3,
-17,Mcmorris Mark,Male,15-02-2022,Beijing,CHN,Canada,Olympic Winter Games,Big Air,10,248.60
-18,Mcmorris Mark,Male,14-02-2022,Beijing,CHN,Canada,Qualification,Big Air,8,
-19,Mcmorris Mark,Male,07-02-2022,Beijing,CHN,Canada,Olympic Winter Games,Slopestyle,3,687.70
-20,Mcmorris Mark,Male,06-02-2022,Beijing,CHN,Canada,Qualification,Slopestyle,2,
-21,Mcmorris Mark,Male,08-01-2022,Mammoth Mountain,USA,Canada,World Cup,Slopestyle,9,309.90
-22,Mcmorris Mark,Male,01-01-2022,Calgary,CAN,Canada,World Cup,Slopestyle,4,587.70
-23,Mcmorris Mark,Male,31-12-2021,Calgary,CAN,Canada,Qualification,Slopestyle,1,
-24,Mcmorris Mark,Male,04-12-2021,Steamboat,USA,Canada,World Cup,Big Air,8,351.20
-25,Mcmorris Mark,Male,02-12-2021,Steamboat,USA,Canada,Qualification,Big Air,2,
-26,Mcmorris Mark,Male,23-10-2021,Chur,SUI,Canada,World Cup,Big Air,5,505.10
-27,Mcmorris Mark,Male,28-03-2021,Silvaplana,SUI,Canada,World Cup,Slopestyle,16,204.12
-28,Mcmorris Mark,Male,28-03-2021,Silvaplana,SUI,Canada,Qualification,Slopestyle,6,
-29,Mcmorris Mark,Male,20-03-2021,Aspen,USA,Canada,World Cup,Slopestyle,3,696.57
-30,Mcmorris Mark,Male,19-03-2021,Aspen,USA,Canada,Qualification,Slopestyle,4,
-31,Mcmorris Mark,Male,16-03-2021,Aspen,USA,Canada,World Championships,Big Air,1,800.00
-32,Mcmorris Mark,Male,14-03-2021,Aspen,USA,Canada,Qualification,Big Air,1,
-33,Mcmorris Mark,Male,12-03-2021,Aspen,USA,Canada,World Championships,Slopestyle,42,56.77
-34,Mcmorris Mark,Male,10-03-2021,Aspen,USA,Canada,Qualification,Slopestyle,21,
-35,Mcmorris Mark,Male,22-01-2021,Laax,SUI,Canada,World Cup,Slopestyle,DNS,
-36,Mcmorris Mark,Male,19-01-2021,Laax,SUI,Canada,Qualification,Slopestyle,DNS,
-37,Mcmorris Mark,Male,09-01-2021,Kreischberg,AUT,Canada,Qualification,Big Air,16,
-38,Mcmorris Mark,Male,09-01-2021,Kreischberg,AUT,Canada,World Cup,Big Air,30,129.77
-39,Mcmorris Mark,Male,20-12-2019,Atlanta,USA,Canada,World Cup,Big Air,32,26.00
-40,Mcmorris Mark,Male,02-11-2019,Modena SKIPASS,ITA,Canada,World Cup,Big Air,2,800.00
-41,Mcmorris Mark,Male,10-02-2019,Park City,USA,Canada,World Championships,Slopestyle,2,800.00
-42,Mcmorris Mark,Male,09-02-2019,Park City,USA,Canada,Qualification,Slopestyle,12,
-43,Mcmorris Mark,Male,24-02-2018,Alpensia Jumping Park,KOR,Canada,Olympic Winter Games,Big Air,10,260.00
-44,Mcmorris Mark,Male,21-02-2018,Alpensia Jumping Park,KOR,Canada,Qualification,Big Air,3,
-45,Mcmorris Mark,Male,11-02-2018,Phoenix Snow Park,KOR,Canada,Olympic Winter Games,Slopestyle,3,600.00
-46,Mcmorris Mark,Male,10-02-2018,Phoenix Snow Park,KOR,Canada,Qualification,Slopestyle,2,
-47,Mcmorris Mark,Male,25-11-2017,Beijing,CHN,Canada,World Cup,Big Air,1,1000.00
-48,Mcmorris Mark,Male,24-11-2017,Beijing,CHN,Canada,Qualification,Big Air,1,
-49,Mcmorris Mark,Male,12-02-2017,Quebec City,CAN,Canada,World Cup,Slopestyle,2,800.00
-50,Mcmorris Mark,Male,11-02-2017,Quebec City,CAN,Canada,World Cup,Big Air,1,1000.00
-51,Mcmorris Mark,Male,10-02-2017,Quebec City,CAN,Canada,Qualification,Slopestyle,1,
-52,Mcmorris Mark,Male,09-02-2017,Quebec City,CAN,Canada,Qualification,Big Air,1,
-53,Mcmorris Mark,Male,20-01-2017,Laax,SUI,Canada,World Cup,Slopestyle,2,800.00
-54,Mcmorris Mark,Male,17-01-2017,Laax,SUI,Canada,Qualification,Slopestyle,1,
-55,Mcmorris Mark,Male,26-11-2016,Alpensia,KOR,Canada,World Cup,Big Air,1,1000.00
-56,Mcmorris Mark,Male,25-11-2016,Alpensia,KOR,Canada,Qualification,Big Air,4,
-57,Mcmorris Mark,Male,12-11-2016,Milan,ITA,Canada,Qualification,Big Air,1,
+0,Mcmorris Mark,Male,12-04-2025,Corvatsch,SUI,Canada,European Cup Premium,Big Air,3,
+1,Mcmorris Mark,Male,10-04-2025,Corvatsch,SUI,Canada,European Cup Premium,Slopestyle,17,109.70
+2,Mcmorris Mark,Male,28-03-2025,Engadin,SUI,Canada,World Championships,Big Air,32,114.50
+3,Mcmorris Mark,Male,25-03-2025,Engadin,SUI,Canada,Qualification,Big Air,17,
+4,Mcmorris Mark,Male,21-03-2025,Engadin,SUI,Canada,World Championships,Slopestyle,17,197.20
+5,Mcmorris Mark,Male,20-03-2025,Engadin,SUI,Canada,Qualification,Slopestyle,9,
+6,Mcmorris Mark,Male,22-02-2025,Calgary,CAN,Canada,World Cup,Slopestyle,48,44.10
+7,Mcmorris Mark,Male,20-02-2025,Calgary,CAN,Canada,Qualification,Slopestyle,25,
+8,Mcmorris Mark,Male,06-02-2025,Aspen,USA,Canada,World Cup,Big Air,6,439.40
+9,Mcmorris Mark,Male,05-02-2025,Aspen,USA,Canada,Qualification,Big Air,5,
+10,Mcmorris Mark,Male,02-02-2025,Aspen,USA,Canada,World Cup,Slopestyle,15,209.10
+11,Mcmorris Mark,Male,31-01-2025,Aspen,USA,Canada,Qualification,Slopestyle,2,
+12,Mcmorris Mark,Male,18-01-2025,Laax,SUI,Canada,World Cup,Slopestyle,38,93.40
+13,Mcmorris Mark,Male,16-01-2025,Laax,SUI,Canada,Qualification,Slopestyle,14,
+14,Mcmorris Mark,Male,22-01-2023,Laax,SUI,Canada,World Cup,Slopestyle,50,31.50
+15,Mcmorris Mark,Male,18-01-2023,Laax,SUI,Canada,Qualification,Slopestyle,25,
+16,Mcmorris Mark,Male,10-12-2022,Edmonton,CAN,Canada,World Cup,Big Air,9,251.10
+17,Mcmorris Mark,Male,09-12-2022,Edmonton,CAN,Canada,Qualification,Big Air,3,
+18,Mcmorris Mark,Male,15-02-2022,Beijing,CHN,Canada,Olympic Winter Games,Big Air,10,248.60
+19,Mcmorris Mark,Male,14-02-2022,Beijing,CHN,Canada,Qualification,Big Air,8,
+20,Mcmorris Mark,Male,07-02-2022,Beijing,CHN,Canada,Olympic Winter Games,Slopestyle,3,687.70
+21,Mcmorris Mark,Male,06-02-2022,Beijing,CHN,Canada,Qualification,Slopestyle,2,
+22,Mcmorris Mark,Male,08-01-2022,Mammoth Mountain,USA,Canada,World Cup,Slopestyle,9,309.90
+23,Mcmorris Mark,Male,01-01-2022,Calgary,CAN,Canada,World Cup,Slopestyle,4,587.70
+24,Mcmorris Mark,Male,31-12-2021,Calgary,CAN,Canada,Qualification,Slopestyle,1,
+25,Mcmorris Mark,Male,04-12-2021,Steamboat,USA,Canada,World Cup,Big Air,8,351.20
+26,Mcmorris Mark,Male,02-12-2021,Steamboat,USA,Canada,Qualification,Big Air,2,
+27,Mcmorris Mark,Male,23-10-2021,Chur,SUI,Canada,World Cup,Big Air,5,505.10
+28,Mcmorris Mark,Male,28-03-2021,Silvaplana,SUI,Canada,World Cup,Slopestyle,16,204.12
+29,Mcmorris Mark,Male,28-03-2021,Silvaplana,SUI,Canada,Qualification,Slopestyle,6,
+30,Mcmorris Mark,Male,20-03-2021,Aspen,USA,Canada,World Cup,Slopestyle,3,696.57
+31,Mcmorris Mark,Male,19-03-2021,Aspen,USA,Canada,Qualification,Slopestyle,4,
+32,Mcmorris Mark,Male,16-03-2021,Aspen,USA,Canada,World Championships,Big Air,1,800.00
+33,Mcmorris Mark,Male,14-03-2021,Aspen,USA,Canada,Qualification,Big Air,1,
+34,Mcmorris Mark,Male,12-03-2021,Aspen,USA,Canada,World Championships,Slopestyle,42,56.77
+35,Mcmorris Mark,Male,10-03-2021,Aspen,USA,Canada,Qualification,Slopestyle,21,
+36,Mcmorris Mark,Male,22-01-2021,Laax,SUI,Canada,World Cup,Slopestyle,DNS,
+37,Mcmorris Mark,Male,19-01-2021,Laax,SUI,Canada,Qualification,Slopestyle,DNS,
+38,Mcmorris Mark,Male,09-01-2021,Kreischberg,AUT,Canada,Qualification,Big Air,16,
+39,Mcmorris Mark,Male,09-01-2021,Kreischberg,AUT,Canada,World Cup,Big Air,30,129.77
+40,Mcmorris Mark,Male,20-12-2019,Atlanta,USA,Canada,World Cup,Big Air,32,26.00
+41,Mcmorris Mark,Male,02-11-2019,Modena SKIPASS,ITA,Canada,World Cup,Big Air,2,800.00
+42,Mcmorris Mark,Male,10-02-2019,Park City,USA,Canada,World Championships,Slopestyle,2,800.00
+43,Mcmorris Mark,Male,09-02-2019,Park City,USA,Canada,Qualification,Slopestyle,12,
+44,Mcmorris Mark,Male,24-02-2018,Alpensia Jumping Park,KOR,Canada,Olympic Winter Games,Big Air,10,260.00
+45,Mcmorris Mark,Male,21-02-2018,Alpensia Jumping Park,KOR,Canada,Qualification,Big Air,3,
+46,Mcmorris Mark,Male,11-02-2018,Phoenix Snow Park,KOR,Canada,Olympic Winter Games,Slopestyle,3,600.00
+47,Mcmorris Mark,Male,10-02-2018,Phoenix Snow Park,KOR,Canada,Qualification,Slopestyle,2,
+48,Mcmorris Mark,Male,25-11-2017,Beijing,CHN,Canada,World Cup,Big Air,1,1000.00
+49,Mcmorris Mark,Male,24-11-2017,Beijing,CHN,Canada,Qualification,Big Air,1,
+50,Mcmorris Mark,Male,12-02-2017,Quebec City,CAN,Canada,World Cup,Slopestyle,2,800.00
+51,Mcmorris Mark,Male,11-02-2017,Quebec City,CAN,Canada,World Cup,Big Air,1,1000.00
+52,Mcmorris Mark,Male,10-02-2017,Quebec City,CAN,Canada,Qualification,Slopestyle,1,
+53,Mcmorris Mark,Male,09-02-2017,Quebec City,CAN,Canada,Qualification,Big Air,1,
+54,Mcmorris Mark,Male,20-01-2017,Laax,SUI,Canada,World Cup,Slopestyle,2,800.00
+55,Mcmorris Mark,Male,17-01-2017,Laax,SUI,Canada,Qualification,Slopestyle,1,
+56,Mcmorris Mark,Male,26-11-2016,Alpensia,KOR,Canada,World Cup,Big Air,1,1000.00
+57,Mcmorris Mark,Male,25-11-2016,Alpensia,KOR,Canada,Qualification,Big Air,4,
 58,Mcmorris Mark,Male,12-11-2016,Milan,ITA,Canada,World Cup,Big Air,3,600.00
-59,Mcmorris Mark,Male,08-02-2014,Rosa Khutor,RUS,Canada,Olympic Winter Games,Slopestyle,3,600.00
-60,Mcmorris Mark,Male,06-02-2014,Rosa Khutor,RUS,Canada,Qualification,Slopestyle,7,
-61,Mcmorris Mark,Male,19-01-2013,Stoneham,CAN,Canada,World Championships,Big Air,6,400.00
-62,Mcmorris Mark,Male,18-01-2013,Stoneham,CAN,Canada,Qualification,Big Air,2,
-63,Mcmorris Mark,Male,18-01-2013,Stoneham,CAN,Canada,World Championships,Slopestyle,2,800.00
-64,Mcmorris Mark,Male,17-01-2013,Stoneham,CAN,Canada,Qualification,Slopestyle,1,
-65,Mcmorris Mark,Male,11-01-2013,"Copper Mountain, CO",USA,Canada,World Cup,Slopestyle,15,160.00
-66,Mcmorris Mark,Male,09-01-2013,"Copper Mountain, CO",USA,Canada,Qualification,Slopestyle,1,
-67,Mcmorris Mark,Male,20-11-2010,Stockholm,SWE,Canada,World Cup,Big Air,4,500.00
-68,Mcmorris Mark,Male,30-10-2010,London,GBR,Canada,World Cup,Big Air,58,13.10
-69,Mcmorris Mark,Male,30-03-2010,Mont Tremblant Quebec,CAN,Canada,National Championships,Slopestyle,5,81.00
-70,Mcmorris Mark,Male,30-01-2010,Calgary,CAN,Canada,World Cup,Slopestyle,1,1000.00
-71,Mcmorris Mark,Male,23-01-2010,Quebec,CAN,Canada,World Cup,Big Air,8,320.00
-72,Mcmorris Mark,Male,02-04-2009,"Mt. Tremblant, Quebec",CAN,Canada,National Championships,Halfpipe,26,18.00
-73,Mcmorris Mark,Male,04-04-2008,Cypress,CAN,Canada,National Championships,Halfpipe,31,10.08
-74,Mcmorris Mark,Male,06-01-2007,"Big White, BC",CAN,Canada,FIS,Halfpipe,24,7.00
+59,Mcmorris Mark,Male,12-11-2016,Milan,ITA,Canada,Qualification,Big Air,1,
+60,Mcmorris Mark,Male,08-02-2014,Rosa Khutor,RUS,Canada,Olympic Winter Games,Slopestyle,3,600.00
+61,Mcmorris Mark,Male,06-02-2014,Rosa Khutor,RUS,Canada,Qualification,Slopestyle,7,
+62,Mcmorris Mark,Male,19-01-2013,Stoneham,CAN,Canada,World Championships,Big Air,6,400.00
+63,Mcmorris Mark,Male,18-01-2013,Stoneham,CAN,Canada,Qualification,Big Air,2,
+64,Mcmorris Mark,Male,18-01-2013,Stoneham,CAN,Canada,World Championships,Slopestyle,2,800.00
+65,Mcmorris Mark,Male,17-01-2013,Stoneham,CAN,Canada,Qualification,Slopestyle,1,
+66,Mcmorris Mark,Male,11-01-2013,"Copper Mountain, CO",USA,Canada,World Cup,Slopestyle,15,160.00
+67,Mcmorris Mark,Male,09-01-2013,"Copper Mountain, CO",USA,Canada,Qualification,Slopestyle,1,
+68,Mcmorris Mark,Male,20-11-2010,Stockholm,SWE,Canada,World Cup,Big Air,4,500.00
+69,Mcmorris Mark,Male,30-10-2010,London,GBR,Canada,World Cup,Big Air,58,13.10
+70,Mcmorris Mark,Male,30-03-2010,Mont Tremblant Quebec,CAN,Canada,National Championships,Slopestyle,5,81.00
+71,Mcmorris Mark,Male,30-01-2010,Calgary,CAN,Canada,World Cup,Slopestyle,1,1000.00
+72,Mcmorris Mark,Male,23-01-2010,Quebec,CAN,Canada,World Cup,Big Air,8,320.00
+73,Mcmorris Mark,Male,02-04-2009,"Mt. Tremblant, Quebec",CAN,Canada,National Championships,Halfpipe,26,18.00
+74,Mcmorris Mark,Male,04-04-2008,Cypress,CAN,Canada,National Championships,Halfpipe,31,10.08
+75,Mcmorris Mark,Male,06-01-2007,"Big White, BC",CAN,Canada,FIS,Halfpipe,24,7.00

@@ -1,111 +1,113 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Leleu Achille,Male,11-04-2025,Isola 2000,FRA,France,Qualification,Snowboard Cross,7,
-1,Leleu Achille,Male,06-04-2025,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,29,
-2,Leleu Achille,Male,05-04-2025,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,43,17.60
-3,Leleu Achille,Male,04-04-2025,Mt. St. Anne,CAN,France,Qualification,Snowboard Cross,43,
-4,Leleu Achille,Male,30-03-2025,Orcières,FRA,France,European Cup,Snowboard Cross,14,52.20
-5,Leleu Achille,Male,29-03-2025,Orcières,FRA,France,European Cup,Snowboard Cross,1,290.00
-6,Leleu Achille,Male,21-03-2025,Montafon,AUT,France,World Cup,Snowboard Cross,33,24.00
-7,Leleu Achille,Male,20-03-2025,Montafon,AUT,France,Qualification,Snowboard Cross,33,
-8,Leleu Achille,Male,09-03-2025,Gudauri,GEO,France,World Cup,Snowboard Cross,31,28.00
-9,Leleu Achille,Male,08-03-2025,Gudauri,GEO,France,World Cup,Snowboard Cross,34,22.00
-10,Leleu Achille,Male,07-03-2025,Gudauri,GEO,France,Qualification,Snowboard Cross,34,
-11,Leleu Achille,Male,01-03-2025,Erzurum,TUR,France,World Cup,Snowboard Cross,30,32.00
-12,Leleu Achille,Male,28-02-2025,Erzurum,TUR,France,Qualification,Snowboard Cross,25,
-13,Leleu Achille,Male,15-02-2025,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,19,
-14,Leleu Achille,Male,15-02-2025,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,23,80.00
-15,Leleu Achille,Male,02-02-2025,Beidahu,CHN,France,World Cup,Snowboard Cross,31,28.00
-16,Leleu Achille,Male,02-02-2025,Beidahu,CHN,France,Qualification,Snowboard Cross,28,
-17,Leleu Achille,Male,01-02-2025,Beidahu,CHN,France,World Cup,Snowboard Cross,37,19.40
-18,Leleu Achille,Male,31-01-2025,Beidahu,CHN,France,Qualification,Snowboard Cross,37,
-19,Leleu Achille,Male,24-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,DNS,
-20,Leleu Achille,Male,23-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,31,5.60
-21,Leleu Achille,Male,14-12-2024,Cervinia,ITA,France,World Cup,Snowboard Cross,26,50.00
-22,Leleu Achille,Male,13-12-2024,Cervinia,ITA,France,Qualification,Snowboard Cross,11,
-23,Leleu Achille,Male,01-12-2024,Pitztal,AUT,France,Junior,Snowboard Cross,1,120.00
-24,Leleu Achille,Male,30-11-2024,Pitztal,AUT,France,Junior,Snowboard Cross,1,120.00
-25,Leleu Achille,Male,30-11-2024,Pitztal,AUT,France,Qualification,Snowboard Cross,1,
-26,Leleu Achille,Male,27-11-2024,Pitztal,AUT,France,European Cup,Snowboard Cross,20,39.60
-27,Leleu Achille,Male,27-11-2024,Pitztal,AUT,France,Qualification,Snowboard Cross,21,
-28,Leleu Achille,Male,07-04-2024,Gudauri,GEO,France,FIS Junior World Championships,Snowboard Cross Team,5,
-29,Leleu Achille,Male,06-04-2024,Gudauri,GEO,France,FIS Junior World Championships,Snowboard Cross,14,64.80
-30,Leleu Achille,Male,05-04-2024,Gudauri,GEO,France,Qualification,Snowboard Cross,7,
-31,Leleu Achille,Male,30-03-2024,Orcieres Merlette,FRA,France,National Championships,Snowboard Cross,10,75.40
-32,Leleu Achille,Male,22-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,8,76.80
-33,Leleu Achille,Male,21-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,9,69.60
-34,Leleu Achille,Male,14-03-2024,Isola 2000,FRA,France,European Cup,Snowboard Cross,15,32.00
-35,Leleu Achille,Male,13-03-2024,Isola 2000,FRA,France,European Cup,Snowboard Cross,12,44.00
-36,Leleu Achille,Male,11-03-2024,Isola 2000,FRA,France,Junior,Snowboard Cross,8,48.00
-37,Leleu Achille,Male,09-03-2024,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,51,15.20
-38,Leleu Achille,Male,08-03-2024,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,51,
-39,Leleu Achille,Male,03-03-2024,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,42,17.90
-40,Leleu Achille,Male,02-03-2024,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,53,14.60
-41,Leleu Achille,Male,01-03-2024,Sierra Nevada,ESP,France,Qualification,Snowboard Cross,54,
-42,Leleu Achille,Male,25-02-2024,Grasgehren,GER,France,European Cup,Snowboard Cross,17,40.60
-43,Leleu Achille,Male,24-02-2024,Grasgehren,GER,France,European Cup,Snowboard Cross,44,5.54
-44,Leleu Achille,Male,17-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,13,48.00
-45,Leleu Achille,Male,16-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,26,12.00
-46,Leleu Achille,Male,06-02-2024,Reiteralm,AUT,France,European Cup,Snowboard Cross,4,100.00
-47,Leleu Achille,Male,05-02-2024,Reiteralm,AUT,France,European Cup,Snowboard Cross,16,30.00
-48,Leleu Achille,Male,01-02-2024,Dolni Morava,CZE,France,European Cup,Snowboard Cross,1,220.00
-49,Leleu Achille,Male,31-01-2024,Dolni Morava,CZE,France,European Cup,Snowboard Cross,6,88.00
-50,Leleu Achille,Male,28-01-2024,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,2,160.00
-51,Leleu Achille,Male,27-01-2024,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,7,72.00
-52,Leleu Achille,Male,20-01-2024,Montafon,AUT,France,National Championships,Snowboard Cross,19,34.80
-53,Leleu Achille,Male,16-12-2023,Cervinia,ITA,France,World Cup,Snowboard Cross,45,17.00
-54,Leleu Achille,Male,08-04-2023,Chamonix,FRA,France,National Championships,Snowboard Cross,4,145.00
-55,Leleu Achille,Male,31-03-2023,Passo San Pellegrino,ITA,France,FIS Junior World Championships,Snowboard Cross Team,2,
-56,Leleu Achille,Male,30-03-2023,Passo San Pellegrino,ITA,France,FIS Junior World Championships,Snowboard Cross,3,192.00
-57,Leleu Achille,Male,23-03-2023,Gargellen,AUT,France,European Cup,Snowboard Cross,4,120.00
-58,Leleu Achille,Male,22-03-2023,Gargellen,AUT,France,European Cup,Snowboard Cross,2,208.00
-59,Leleu Achille,Male,19-03-2023,Passo San Pellegrino,ITA,France,FIS,Snowboard Cross,5,81.00
-60,Leleu Achille,Male,18-03-2023,Passo San Pellegrino,ITA,France,FIS,Snowboard Cross,6,72.00
-61,Leleu Achille,Male,12-03-2023,Lenk,SUI,France,FIS,Snowboard Cross,5,72.00
-62,Leleu Achille,Male,19-02-2023,Flumserberg,SUI,France,Junior,Snowboard Cross,3,66.00
-63,Leleu Achille,Male,18-02-2023,Flumserberg,SUI,France,Junior,Snowboard Cross,1,110.00
-64,Leleu Achille,Male,16-02-2023,Moena - Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,6,116.00
-65,Leleu Achille,Male,15-02-2023,Moena - Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,10,75.40
-66,Leleu Achille,Male,04-02-2023,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,DNS1,
-67,Leleu Achille,Male,03-02-2023,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,DNS1,
-68,Leleu Achille,Male,26-01-2023,Piancavallo,ITA,France,European Youth Olympic Festival,Snowboard Cross,1,70.00
-69,Leleu Achille,Male,22-01-2023,Puy St.Vincent,FRA,France,European Cup,Snowboard Cross,13,48.00
-70,Leleu Achille,Male,21-01-2023,Puy St.Vincent,FRA,France,European Cup,Snowboard Cross,4,120.00
-71,Leleu Achille,Male,15-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,12,79.20
-72,Leleu Achille,Male,14-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,12,79.20
-73,Leleu Achille,Male,08-01-2023,Isola 2000,FRA,France,Junior,Snowboard Cross,3,72.00
-74,Leleu Achille,Male,07-01-2023,Isola 2000,FRA,France,European Cup,Snowboard Cross,3,144.00
-75,Leleu Achille,Male,06-01-2023,Isola 2000,FRA,France,European Cup,Snowboard Cross,6,96.00
-76,Leleu Achille,Male,17-12-2022,Cervinia,ITA,France,World Cup,Snowboard Cross,49,15.80
-77,Leleu Achille,Male,16-12-2022,Cervinia,ITA,France,World Cup,Snowboard Cross,50,15.50
-78,Leleu Achille,Male,15-12-2022,Cervinia,ITA,France,Qualification,Snowboard Cross,50,
-79,Leleu Achille,Male,27-11-2022,Pitztal,AUT,France,Junior,Snowboard Cross,3,96.00
-80,Leleu Achille,Male,26-11-2022,Pitztal,AUT,France,Junior,Snowboard Cross,1,180.00
-81,Leleu Achille,Male,25-11-2022,Pitztal,AUT,France,FIS,Snowboard Cross,33,5.28
-82,Leleu Achille,Male,08-04-2022,Isola 2000,FRA,France,National Championships,Snowboard Cross,13,58.00
-83,Leleu Achille,Male,31-03-2022,Veysonnaz,SUI,France,FIS Junior World Championships,Snowboard Cross,49,4.11
-84,Leleu Achille,Male,26-03-2022,Lenk,SUI,France,European Cup,Snowboard Cross,23,28.80
-85,Leleu Achille,Male,25-03-2022,Lenk,SUI,France,European Cup,Snowboard Cross,23,28.80
-86,Leleu Achille,Male,20-03-2022,Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,9,34.80
-87,Leleu Achille,Male,19-03-2022,Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,8,38.40
-88,Leleu Achille,Male,04-03-2022,Pitztal,AUT,France,Junior,Snowboard Cross,13,24.00
-89,Leleu Achille,Male,03-03-2022,Pitztal,AUT,France,European Cup,Snowboard Cross,33,8.64
-90,Leleu Achille,Male,02-03-2022,Pitztal,AUT,France,European Cup,Snowboard Cross,39,6.77
-91,Leleu Achille,Male,27-02-2022,Grasgehren,GER,France,European Cup,Snowboard Cross,33,8.64
-92,Leleu Achille,Male,26-02-2022,Grasgehren,GER,France,European Cup,Snowboard Cross,42,6.44
-93,Leleu Achille,Male,13-02-2022,Grasgehren,GER,France,Junior,Snowboard Cross,9,34.80
-94,Leleu Achille,Male,12-02-2022,Grasgehren,GER,France,Junior,Snowboard Cross,48,1.93
-95,Leleu Achille,Male,06-02-2022,Dolni Morava,CZE,France,FIS,Snowboard Cross,15,19.20
-96,Leleu Achille,Male,05-02-2022,Dolni Morava,CZE,France,FIS,Snowboard Cross,33,3.36
-97,Leleu Achille,Male,03-02-2022,Dolni Morava,CZE,France,European Cup,Snowboard Cross,37,5.04
-98,Leleu Achille,Male,02-02-2022,Dolni Morava,CZE,France,European Cup,Snowboard Cross,49,3.79
-99,Leleu Achille,Male,23-01-2022,Reiteralm,AUT,France,European Cup,Snowboard Cross,48,4.19
-100,Leleu Achille,Male,15-12-2021,Reiteralm,AUT,France,Junior,Snowboard Cross,DSQ,
-101,Leleu Achille,Male,14-12-2021,Reiteralm,AUT,France,FIS,Snowboard Cross,33,5.28
-102,Leleu Achille,Male,13-12-2021,Reiteralm,AUT,France,FIS,Snowboard Cross,40,4.07
-103,Leleu Achille,Male,31-10-2021,Les 2 Alpes,FRA,France,FIS,Snowboard Cross,17,22.40
-104,Leleu Achille,Male,30-10-2021,Les 2 Alpes,FRA,France,FIS,Snowboard Cross,25,13.20
-105,Leleu Achille,Male,01-02-2021,Isola 2000,FRA,France,Junior,Snowboard Cross,25,5.40
-106,Leleu Achille,Male,28-01-2021,Isola 2000,FRA,France,Junior,Snowboard Cross,12,15.40
-107,Leleu Achille,Male,27-01-2021,Isola 2000,FRA,France,Junior,Snowboard Cross,16,10.50
-108,Leleu Achille,Male,16-01-2021,Crans-Montana,SUI,France,FIS,Snowboard Cross,33,5.28
-109,Leleu Achille,Male,01-02-2020,La Quillane,FRA,France,FIS,Big Air,27,
+0,Leleu Achille,Male,12-04-2025,Isola 2000,FRA,France,FIS Junior World Championships,Snowboard Cross,7,
+1,Leleu Achille,Male,12-04-2025,Isola 2000,FRA,France,FIS Junior World Championships,Snowboard Cross Team,9,
+2,Leleu Achille,Male,11-04-2025,Isola 2000,FRA,France,Qualification,Snowboard Cross,7,
+3,Leleu Achille,Male,06-04-2025,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,29,
+4,Leleu Achille,Male,05-04-2025,Mt. St. Anne,CAN,France,World Cup,Snowboard Cross,43,17.60
+5,Leleu Achille,Male,04-04-2025,Mt. St. Anne,CAN,France,Qualification,Snowboard Cross,43,
+6,Leleu Achille,Male,30-03-2025,Orcières,FRA,France,European Cup,Snowboard Cross,14,52.20
+7,Leleu Achille,Male,29-03-2025,Orcières,FRA,France,European Cup,Snowboard Cross,1,290.00
+8,Leleu Achille,Male,21-03-2025,Montafon,AUT,France,World Cup,Snowboard Cross,33,24.00
+9,Leleu Achille,Male,20-03-2025,Montafon,AUT,France,Qualification,Snowboard Cross,33,
+10,Leleu Achille,Male,09-03-2025,Gudauri,GEO,France,World Cup,Snowboard Cross,31,28.00
+11,Leleu Achille,Male,08-03-2025,Gudauri,GEO,France,World Cup,Snowboard Cross,34,22.00
+12,Leleu Achille,Male,07-03-2025,Gudauri,GEO,France,Qualification,Snowboard Cross,34,
+13,Leleu Achille,Male,01-03-2025,Erzurum,TUR,France,World Cup,Snowboard Cross,30,32.00
+14,Leleu Achille,Male,28-02-2025,Erzurum,TUR,France,Qualification,Snowboard Cross,25,
+15,Leleu Achille,Male,15-02-2025,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,19,
+16,Leleu Achille,Male,15-02-2025,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,23,80.00
+17,Leleu Achille,Male,02-02-2025,Beidahu,CHN,France,World Cup,Snowboard Cross,31,28.00
+18,Leleu Achille,Male,02-02-2025,Beidahu,CHN,France,Qualification,Snowboard Cross,28,
+19,Leleu Achille,Male,01-02-2025,Beidahu,CHN,France,World Cup,Snowboard Cross,37,19.40
+20,Leleu Achille,Male,31-01-2025,Beidahu,CHN,France,Qualification,Snowboard Cross,37,
+21,Leleu Achille,Male,24-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,DNS,
+22,Leleu Achille,Male,23-01-2025,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,31,5.60
+23,Leleu Achille,Male,14-12-2024,Cervinia,ITA,France,World Cup,Snowboard Cross,26,50.00
+24,Leleu Achille,Male,13-12-2024,Cervinia,ITA,France,Qualification,Snowboard Cross,11,
+25,Leleu Achille,Male,01-12-2024,Pitztal,AUT,France,Junior,Snowboard Cross,1,120.00
+26,Leleu Achille,Male,30-11-2024,Pitztal,AUT,France,Junior,Snowboard Cross,1,120.00
+27,Leleu Achille,Male,30-11-2024,Pitztal,AUT,France,Qualification,Snowboard Cross,1,
+28,Leleu Achille,Male,27-11-2024,Pitztal,AUT,France,European Cup,Snowboard Cross,20,39.60
+29,Leleu Achille,Male,27-11-2024,Pitztal,AUT,France,Qualification,Snowboard Cross,21,
+30,Leleu Achille,Male,07-04-2024,Gudauri,GEO,France,FIS Junior World Championships,Snowboard Cross Team,5,
+31,Leleu Achille,Male,06-04-2024,Gudauri,GEO,France,FIS Junior World Championships,Snowboard Cross,14,64.80
+32,Leleu Achille,Male,05-04-2024,Gudauri,GEO,France,Qualification,Snowboard Cross,7,
+33,Leleu Achille,Male,30-03-2024,Orcieres Merlette,FRA,France,National Championships,Snowboard Cross,10,75.40
+34,Leleu Achille,Male,22-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,8,76.80
+35,Leleu Achille,Male,21-03-2024,Lenk,SUI,France,European Cup,Snowboard Cross,9,69.60
+36,Leleu Achille,Male,14-03-2024,Isola 2000,FRA,France,European Cup,Snowboard Cross,15,32.00
+37,Leleu Achille,Male,13-03-2024,Isola 2000,FRA,France,European Cup,Snowboard Cross,12,44.00
+38,Leleu Achille,Male,11-03-2024,Isola 2000,FRA,France,Junior,Snowboard Cross,8,48.00
+39,Leleu Achille,Male,09-03-2024,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,51,15.20
+40,Leleu Achille,Male,08-03-2024,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,51,
+41,Leleu Achille,Male,03-03-2024,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,42,17.90
+42,Leleu Achille,Male,02-03-2024,Sierra Nevada,ESP,France,World Cup,Snowboard Cross,53,14.60
+43,Leleu Achille,Male,01-03-2024,Sierra Nevada,ESP,France,Qualification,Snowboard Cross,54,
+44,Leleu Achille,Male,25-02-2024,Grasgehren,GER,France,European Cup,Snowboard Cross,17,40.60
+45,Leleu Achille,Male,24-02-2024,Grasgehren,GER,France,European Cup,Snowboard Cross,44,5.54
+46,Leleu Achille,Male,17-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,13,48.00
+47,Leleu Achille,Male,16-02-2024,Colere,ITA,France,European Cup,Snowboard Cross,26,12.00
+48,Leleu Achille,Male,06-02-2024,Reiteralm,AUT,France,European Cup,Snowboard Cross,4,100.00
+49,Leleu Achille,Male,05-02-2024,Reiteralm,AUT,France,European Cup,Snowboard Cross,16,30.00
+50,Leleu Achille,Male,01-02-2024,Dolni Morava,CZE,France,European Cup,Snowboard Cross,1,220.00
+51,Leleu Achille,Male,31-01-2024,Dolni Morava,CZE,France,European Cup,Snowboard Cross,6,88.00
+52,Leleu Achille,Male,28-01-2024,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,2,160.00
+53,Leleu Achille,Male,27-01-2024,Puy St. Vincent,FRA,France,European Cup,Snowboard Cross,7,72.00
+54,Leleu Achille,Male,20-01-2024,Montafon,AUT,France,National Championships,Snowboard Cross,19,34.80
+55,Leleu Achille,Male,16-12-2023,Cervinia,ITA,France,World Cup,Snowboard Cross,45,17.00
+56,Leleu Achille,Male,08-04-2023,Chamonix,FRA,France,National Championships,Snowboard Cross,4,145.00
+57,Leleu Achille,Male,31-03-2023,Passo San Pellegrino,ITA,France,FIS Junior World Championships,Snowboard Cross Team,2,
+58,Leleu Achille,Male,30-03-2023,Passo San Pellegrino,ITA,France,FIS Junior World Championships,Snowboard Cross,3,192.00
+59,Leleu Achille,Male,23-03-2023,Gargellen,AUT,France,European Cup,Snowboard Cross,4,120.00
+60,Leleu Achille,Male,22-03-2023,Gargellen,AUT,France,European Cup,Snowboard Cross,2,208.00
+61,Leleu Achille,Male,19-03-2023,Passo San Pellegrino,ITA,France,FIS,Snowboard Cross,5,81.00
+62,Leleu Achille,Male,18-03-2023,Passo San Pellegrino,ITA,France,FIS,Snowboard Cross,6,72.00
+63,Leleu Achille,Male,12-03-2023,Lenk,SUI,France,FIS,Snowboard Cross,5,72.00
+64,Leleu Achille,Male,19-02-2023,Flumserberg,SUI,France,Junior,Snowboard Cross,3,66.00
+65,Leleu Achille,Male,18-02-2023,Flumserberg,SUI,France,Junior,Snowboard Cross,1,110.00
+66,Leleu Achille,Male,16-02-2023,Moena - Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,6,116.00
+67,Leleu Achille,Male,15-02-2023,Moena - Passo San Pellegrino,ITA,France,European Cup,Snowboard Cross,10,75.40
+68,Leleu Achille,Male,04-02-2023,Cortina d'Ampezzo,ITA,France,World Cup,Snowboard Cross,DNS1,
+69,Leleu Achille,Male,03-02-2023,Cortina d'Ampezzo,ITA,France,Qualification,Snowboard Cross,DNS1,
+70,Leleu Achille,Male,26-01-2023,Piancavallo,ITA,France,European Youth Olympic Festival,Snowboard Cross,1,70.00
+71,Leleu Achille,Male,22-01-2023,Puy St.Vincent,FRA,France,European Cup,Snowboard Cross,13,48.00
+72,Leleu Achille,Male,21-01-2023,Puy St.Vincent,FRA,France,European Cup,Snowboard Cross,4,120.00
+73,Leleu Achille,Male,15-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,12,79.20
+74,Leleu Achille,Male,14-01-2023,Reiteralm,AUT,France,European Cup,Snowboard Cross,12,79.20
+75,Leleu Achille,Male,08-01-2023,Isola 2000,FRA,France,Junior,Snowboard Cross,3,72.00
+76,Leleu Achille,Male,07-01-2023,Isola 2000,FRA,France,European Cup,Snowboard Cross,3,144.00
+77,Leleu Achille,Male,06-01-2023,Isola 2000,FRA,France,European Cup,Snowboard Cross,6,96.00
+78,Leleu Achille,Male,17-12-2022,Cervinia,ITA,France,World Cup,Snowboard Cross,49,15.80
+79,Leleu Achille,Male,16-12-2022,Cervinia,ITA,France,World Cup,Snowboard Cross,50,15.50
+80,Leleu Achille,Male,15-12-2022,Cervinia,ITA,France,Qualification,Snowboard Cross,50,
+81,Leleu Achille,Male,27-11-2022,Pitztal,AUT,France,Junior,Snowboard Cross,3,96.00
+82,Leleu Achille,Male,26-11-2022,Pitztal,AUT,France,Junior,Snowboard Cross,1,180.00
+83,Leleu Achille,Male,25-11-2022,Pitztal,AUT,France,FIS,Snowboard Cross,33,5.28
+84,Leleu Achille,Male,08-04-2022,Isola 2000,FRA,France,National Championships,Snowboard Cross,13,58.00
+85,Leleu Achille,Male,31-03-2022,Veysonnaz,SUI,France,FIS Junior World Championships,Snowboard Cross,49,4.11
+86,Leleu Achille,Male,26-03-2022,Lenk,SUI,France,European Cup,Snowboard Cross,23,28.80
+87,Leleu Achille,Male,25-03-2022,Lenk,SUI,France,European Cup,Snowboard Cross,23,28.80
+88,Leleu Achille,Male,20-03-2022,Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,9,34.80
+89,Leleu Achille,Male,19-03-2022,Passo San Pellegrino,ITA,France,Junior,Snowboard Cross,8,38.40
+90,Leleu Achille,Male,04-03-2022,Pitztal,AUT,France,Junior,Snowboard Cross,13,24.00
+91,Leleu Achille,Male,03-03-2022,Pitztal,AUT,France,European Cup,Snowboard Cross,33,8.64
+92,Leleu Achille,Male,02-03-2022,Pitztal,AUT,France,European Cup,Snowboard Cross,39,6.77
+93,Leleu Achille,Male,27-02-2022,Grasgehren,GER,France,European Cup,Snowboard Cross,33,8.64
+94,Leleu Achille,Male,26-02-2022,Grasgehren,GER,France,European Cup,Snowboard Cross,42,6.44
+95,Leleu Achille,Male,13-02-2022,Grasgehren,GER,France,Junior,Snowboard Cross,9,34.80
+96,Leleu Achille,Male,12-02-2022,Grasgehren,GER,France,Junior,Snowboard Cross,48,1.93
+97,Leleu Achille,Male,06-02-2022,Dolni Morava,CZE,France,FIS,Snowboard Cross,15,19.20
+98,Leleu Achille,Male,05-02-2022,Dolni Morava,CZE,France,FIS,Snowboard Cross,33,3.36
+99,Leleu Achille,Male,03-02-2022,Dolni Morava,CZE,France,European Cup,Snowboard Cross,37,5.04
+100,Leleu Achille,Male,02-02-2022,Dolni Morava,CZE,France,European Cup,Snowboard Cross,49,3.79
+101,Leleu Achille,Male,23-01-2022,Reiteralm,AUT,France,European Cup,Snowboard Cross,48,4.19
+102,Leleu Achille,Male,15-12-2021,Reiteralm,AUT,France,Junior,Snowboard Cross,DSQ,
+103,Leleu Achille,Male,14-12-2021,Reiteralm,AUT,France,FIS,Snowboard Cross,33,5.28
+104,Leleu Achille,Male,13-12-2021,Reiteralm,AUT,France,FIS,Snowboard Cross,40,4.07
+105,Leleu Achille,Male,31-10-2021,Les 2 Alpes,FRA,France,FIS,Snowboard Cross,17,22.40
+106,Leleu Achille,Male,30-10-2021,Les 2 Alpes,FRA,France,FIS,Snowboard Cross,25,13.20
+107,Leleu Achille,Male,01-02-2021,Isola 2000,FRA,France,Junior,Snowboard Cross,25,5.40
+108,Leleu Achille,Male,28-01-2021,Isola 2000,FRA,France,Junior,Snowboard Cross,12,15.40
+109,Leleu Achille,Male,27-01-2021,Isola 2000,FRA,France,Junior,Snowboard Cross,16,10.50
+110,Leleu Achille,Male,16-01-2021,Crans-Montana,SUI,France,FIS,Snowboard Cross,33,5.28
+111,Leleu Achille,Male,01-02-2020,La Quillane,FRA,France,FIS,Big Air,27,

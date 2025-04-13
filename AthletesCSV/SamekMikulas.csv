@@ -1,33 +1,34 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Samek Mikulas,Male,11-04-2025,Isola 2000,FRA,Czechia,Qualification,Snowboard Cross,40,
-1,Samek Mikulas,Male,30-03-2025,Orcières,FRA,Czechia,European Cup,Snowboard Cross,42,5.19
-2,Samek Mikulas,Male,29-03-2025,Orcières,FRA,Czechia,European Cup,Snowboard Cross,41,5.28
-3,Samek Mikulas,Male,23-03-2025,Moena-Passo San Pellegrino,ITA,Czechia,National Championships,Snowboard Cross,34,4.40
-4,Samek Mikulas,Male,22-03-2025,Moena-Passo San Pellegrino,ITA,Czechia,Junior,Snowboard Cross,34,1.54
-5,Samek Mikulas,Male,21-03-2025,Moena-Passo San Pellegrino,ITA,Czechia,Junior,Snowboard Cross,26,4.50
-6,Samek Mikulas,Male,15-03-2025,"Klinovec, Bozi Dar",CZE,Czechia,FIS,Snowboard Cross,1,50.00
-7,Samek Mikulas,Male,09-03-2025,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,3,42.00
-8,Samek Mikulas,Male,08-03-2025,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,9,20.30
-9,Samek Mikulas,Male,23-02-2025,Klinovec,CZE,Czechia,FIS,Snowboard Cross,8,44.80
-10,Samek Mikulas,Male,22-02-2025,Klinovec,CZE,Czechia,FIS,Snowboard Cross,5,22.50
-11,Samek Mikulas,Male,09-02-2025,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,25,13.20
-12,Samek Mikulas,Male,08-02-2025,Dolni Morava,CZE,Czechia,National Championships,Snowboard Cross,20,28.60
-13,Samek Mikulas,Male,02-02-2025,Reiteralm,AUT,Czechia,Junior,Snowboard Cross,20,5.50
-14,Samek Mikulas,Male,01-02-2025,Reiteralm,AUT,Czechia,Junior,Snowboard Cross,32,1.30
-15,Samek Mikulas,Male,25-01-2025,Passo San Pellegrino,ITA,Czechia,FIS,Snowboard Cross,11,12.00
-16,Samek Mikulas,Male,24-01-2025,Passo San Pellegrino,ITA,Czechia,FIS,Snowboard Cross,21,5.00
-17,Samek Mikulas,Male,12-01-2025,Lenk,SUI,Czechia,Junior Regional Cup,Snowboard Cross,29,4.32
-18,Samek Mikulas,Male,01-12-2024,Pitztal,AUT,Czechia,Junior,Snowboard Cross,40,2.22
-19,Samek Mikulas,Male,30-11-2024,Pitztal,AUT,Czechia,Junior,Snowboard Cross,31,3.36
-20,Samek Mikulas,Male,30-11-2024,Pitztal,AUT,Czechia,Qualification,Snowboard Cross,31,
-21,Samek Mikulas,Male,12-03-2024,Isola 2000,FRA,Czechia,Junior,Snowboard Cross,32,
-22,Samek Mikulas,Male,11-03-2024,Isola 2000,FRA,Czechia,Junior,Snowboard Cross,39,2.82
-23,Samek Mikulas,Male,01-03-2024,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,10,23.40
-24,Samek Mikulas,Male,29-02-2024,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,10,23.40
-25,Samek Mikulas,Male,03-02-2024,Dolni Morava,CZE,Czechia,Junior,Snowboard Cross,17,7.00
-26,Samek Mikulas,Male,02-02-2024,Dolni Morava,CZE,Czechia,Junior,Snowboard Cross,20,9.90
-27,Samek Mikulas,Male,28-01-2024,Grasgehren,GER,Czechia,Junior,Snowboard Cross,34,2.42
-28,Samek Mikulas,Male,27-01-2024,Grasgehren,GER,Czechia,Junior,Snowboard Cross,22,4.50
-29,Samek Mikulas,Male,20-01-2024,Montafon,AUT,Czechia,National Championships,Snowboard Cross,62,3.45
-30,Samek Mikulas,Male,17-12-2023,Reiteralm,AUT,Czechia,Junior,Snowboard Cross,26,3.50
-31,Samek Mikulas,Male,09-12-2023,Pitztal,AUT,Czechia,Junior,Snowboard Cross,37,1.94
+0,Samek Mikulas,Male,12-04-2025,Isola 2000,FRA,Czechia,FIS Junior World Championships,Snowboard Cross,40,
+1,Samek Mikulas,Male,11-04-2025,Isola 2000,FRA,Czechia,Qualification,Snowboard Cross,40,
+2,Samek Mikulas,Male,30-03-2025,Orcières,FRA,Czechia,European Cup,Snowboard Cross,42,5.19
+3,Samek Mikulas,Male,29-03-2025,Orcières,FRA,Czechia,European Cup,Snowboard Cross,41,5.28
+4,Samek Mikulas,Male,23-03-2025,Moena-Passo San Pellegrino,ITA,Czechia,National Championships,Snowboard Cross,34,4.40
+5,Samek Mikulas,Male,22-03-2025,Moena-Passo San Pellegrino,ITA,Czechia,Junior,Snowboard Cross,34,1.54
+6,Samek Mikulas,Male,21-03-2025,Moena-Passo San Pellegrino,ITA,Czechia,Junior,Snowboard Cross,26,4.50
+7,Samek Mikulas,Male,15-03-2025,"Klinovec, Bozi Dar",CZE,Czechia,FIS,Snowboard Cross,1,50.00
+8,Samek Mikulas,Male,09-03-2025,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,3,42.00
+9,Samek Mikulas,Male,08-03-2025,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,9,20.30
+10,Samek Mikulas,Male,23-02-2025,Klinovec,CZE,Czechia,FIS,Snowboard Cross,8,44.80
+11,Samek Mikulas,Male,22-02-2025,Klinovec,CZE,Czechia,FIS,Snowboard Cross,5,22.50
+12,Samek Mikulas,Male,09-02-2025,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,25,13.20
+13,Samek Mikulas,Male,08-02-2025,Dolni Morava,CZE,Czechia,National Championships,Snowboard Cross,20,28.60
+14,Samek Mikulas,Male,02-02-2025,Reiteralm,AUT,Czechia,Junior,Snowboard Cross,20,5.50
+15,Samek Mikulas,Male,01-02-2025,Reiteralm,AUT,Czechia,Junior,Snowboard Cross,32,1.30
+16,Samek Mikulas,Male,25-01-2025,Passo San Pellegrino,ITA,Czechia,FIS,Snowboard Cross,11,12.00
+17,Samek Mikulas,Male,24-01-2025,Passo San Pellegrino,ITA,Czechia,FIS,Snowboard Cross,21,5.00
+18,Samek Mikulas,Male,12-01-2025,Lenk,SUI,Czechia,Junior Regional Cup,Snowboard Cross,29,4.32
+19,Samek Mikulas,Male,01-12-2024,Pitztal,AUT,Czechia,Junior,Snowboard Cross,40,2.22
+20,Samek Mikulas,Male,30-11-2024,Pitztal,AUT,Czechia,Junior,Snowboard Cross,31,3.36
+21,Samek Mikulas,Male,30-11-2024,Pitztal,AUT,Czechia,Qualification,Snowboard Cross,31,
+22,Samek Mikulas,Male,12-03-2024,Isola 2000,FRA,Czechia,Junior,Snowboard Cross,32,
+23,Samek Mikulas,Male,11-03-2024,Isola 2000,FRA,Czechia,Junior,Snowboard Cross,39,2.82
+24,Samek Mikulas,Male,01-03-2024,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,10,23.40
+25,Samek Mikulas,Male,29-02-2024,Dolni Morava,CZE,Czechia,FIS,Snowboard Cross,10,23.40
+26,Samek Mikulas,Male,03-02-2024,Dolni Morava,CZE,Czechia,Junior,Snowboard Cross,17,7.00
+27,Samek Mikulas,Male,02-02-2024,Dolni Morava,CZE,Czechia,Junior,Snowboard Cross,20,9.90
+28,Samek Mikulas,Male,28-01-2024,Grasgehren,GER,Czechia,Junior,Snowboard Cross,34,2.42
+29,Samek Mikulas,Male,27-01-2024,Grasgehren,GER,Czechia,Junior,Snowboard Cross,22,4.50
+30,Samek Mikulas,Male,20-01-2024,Montafon,AUT,Czechia,National Championships,Snowboard Cross,62,3.45
+31,Samek Mikulas,Male,17-12-2023,Reiteralm,AUT,Czechia,Junior,Snowboard Cross,26,3.50
+32,Samek Mikulas,Male,09-12-2023,Pitztal,AUT,Czechia,Junior,Snowboard Cross,37,1.94

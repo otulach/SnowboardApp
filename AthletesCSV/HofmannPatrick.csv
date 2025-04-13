@@ -1,67 +1,68 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Hofmann Patrick,Male,10-04-2025,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,38,73.70
-1,Hofmann Patrick,Male,03-04-2025,Kitzsteinhorn,AUT,Switzerland,European Cup,Big Air,45,27.20
-2,Hofmann Patrick,Male,21-03-2025,St. Anton,AUT,Switzerland,European Cup,Big Air,6,66.00
-3,Hofmann Patrick,Male,11-03-2025,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,31,41.60
-4,Hofmann Patrick,Male,05-03-2025,Prato Nevoso,ITA,Switzerland,European Cup,Big Air,19,7.40
-5,Hofmann Patrick,Male,23-02-2025,Kotelnica,POL,Switzerland,European Cup,Big Air,3,81.00
-6,Hofmann Patrick,Male,15-01-2025,Seiser Alm,ITA,Switzerland,European Cup,Slopestyle,24,19.20
-7,Hofmann Patrick,Male,05-01-2025,Font Romeu,FRA,Switzerland,European Cup Premium,Slopestyle,24,25.60
-8,Hofmann Patrick,Male,21-12-2024,Schilthorn,SUI,Switzerland,FIS,Slopestyle,1,100.00
-9,Hofmann Patrick,Male,23-03-2024,Silvaplana,SUI,Switzerland,World Cup,Slopestyle,DNS,
-10,Hofmann Patrick,Male,21-03-2024,Silvaplana,SUI,Switzerland,Qualification,Slopestyle,DNS,
-11,Hofmann Patrick,Male,12-03-2024,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,47,25.30
-12,Hofmann Patrick,Male,15-02-2024,Davos,SUI,Switzerland,European Cup,Big Air,33,8.90
-13,Hofmann Patrick,Male,20-01-2024,Laax,SUI,Switzerland,World Cup,Slopestyle,48,47.60
-14,Hofmann Patrick,Male,16-01-2024,Laax,SUI,Switzerland,Qualification,Slopestyle,23,
-15,Hofmann Patrick,Male,23-11-2023,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,DNS,
-16,Hofmann Patrick,Male,21-10-2023,Chur,SUI,Switzerland,World Cup,Big Air,47,37.30
-17,Hofmann Patrick,Male,21-10-2023,Chur,SUI,Switzerland,Qualification,Big Air,25,
-18,Hofmann Patrick,Male,27-03-2022,Silvaplana,SUI,Switzerland,World Cup,Slopestyle,46,16.50
-19,Hofmann Patrick,Male,25-03-2022,Silvaplana,SUI,Switzerland,Qualification,Slopestyle,23,
-20,Hofmann Patrick,Male,19-03-2022,Spindleruv Mlyn,CZE,Switzerland,World Cup,Slopestyle,39,7.70
-21,Hofmann Patrick,Male,18-03-2022,Spindleruv Mlyn,CZE,Switzerland,Qualification,Slopestyle,20,
-22,Hofmann Patrick,Male,06-03-2022,Bakuriani,GEO,Switzerland,World Cup,Slopestyle,4,266.40
-23,Hofmann Patrick,Male,15-01-2022,Laax,SUI,Switzerland,World Cup,Slopestyle,28,90.60
-24,Hofmann Patrick,Male,13-01-2022,Laax,SUI,Switzerland,Qualification,Slopestyle,14,
-25,Hofmann Patrick,Male,04-12-2021,Steamboat,USA,Switzerland,World Cup,Big Air,43,75.20
-26,Hofmann Patrick,Male,02-12-2021,Steamboat,USA,Switzerland,Qualification,Big Air,24,
-27,Hofmann Patrick,Male,23-10-2021,Chur,SUI,Switzerland,World Cup,Big Air,32,89.00
-28,Hofmann Patrick,Male,20-04-2021,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,16,77.66
-29,Hofmann Patrick,Male,11-03-2021,Leysin,SUI,Switzerland,European Cup,Slopestyle,28,11.54
-30,Hofmann Patrick,Male,04-03-2021,Flachauwinkel,AUT,Switzerland,European Cup,Big Air,40,11.66
-31,Hofmann Patrick,Male,21-02-2021,Götschen,GER,Switzerland,European Cup,Slopestyle,2,149.37
-32,Hofmann Patrick,Male,19-02-2021,Davos,SUI,Switzerland,European Cup,Big Air,11,95.50
-33,Hofmann Patrick,Male,31-01-2021,Crans Montana,SUI,Switzerland,European Cup,Slopestyle,35,48.72
-34,Hofmann Patrick,Male,22-01-2021,Laax,SUI,Switzerland,World Cup,Slopestyle,47,19.75
-35,Hofmann Patrick,Male,19-01-2021,Laax,SUI,Switzerland,Qualification,Slopestyle,47,
-36,Hofmann Patrick,Male,22-12-2020,Corvatsch,SUI,Switzerland,European Cup,Slopestyle,40,21.19
-37,Hofmann Patrick,Male,26-11-2020,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,24,36.93
-38,Hofmann Patrick,Male,06-03-2020,Absolut Park Flachauwinkel,AUT,Switzerland,European Cup,Big Air,45,3.40
-39,Hofmann Patrick,Male,29-02-2020,Moscow,RUS,Switzerland,European Cup Premium,Big Air,12,63.80
-40,Hofmann Patrick,Male,22-02-2020,Davos,SUI,Switzerland,FIS,Halfpipe,4,25.00
-41,Hofmann Patrick,Male,21-02-2020,Davos,SUI,Switzerland,European Cup Premium,Big Air,9,63.80
-42,Hofmann Patrick,Male,25-01-2020,Crans Montana,SUI,Switzerland,FIS,Slopestyle,10,18.20
-43,Hofmann Patrick,Male,13-04-2019,Klaeppen,SWE,Switzerland,FIS Junior World Championships,Big Air,9,69.60
-44,Hofmann Patrick,Male,12-04-2019,Klaeppen,SWE,Switzerland,Qualification,Big Air,2,
-45,Hofmann Patrick,Male,09-04-2019,Klaeppen,SWE,Switzerland,FIS Junior World Championships,Slopestyle,17,33.60
-46,Hofmann Patrick,Male,08-04-2019,Klaeppen,SWE,Switzerland,Qualification,Slopestyle,3,
-47,Hofmann Patrick,Male,22-03-2019,Laax,SUI,Switzerland,European Cup,Slopestyle,5,72.00
-48,Hofmann Patrick,Male,23-02-2019,Davos,SUI,Switzerland,FIS,Halfpipe,5,22.50
-49,Hofmann Patrick,Male,22-02-2019,Davos,SUI,Switzerland,European Cup,Big Air,4,80.00
-50,Hofmann Patrick,Male,10-02-2019,Crans Montana,SUI,Switzerland,FIS,Slopestyle,1,50.00
-51,Hofmann Patrick,Male,16-11-2018,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,2,40.00
-52,Hofmann Patrick,Male,21-04-2018,Corvatsch,SUI,Switzerland,European Cup,Big Air,46,
-53,Hofmann Patrick,Male,18-04-2018,Corvatsch,SUI,Switzerland,European Cup,Slopestyle,25,19.20
-54,Hofmann Patrick,Male,24-02-2018,Davos,SUI,Switzerland,FIS,Big Air,3,42.00
-55,Hofmann Patrick,Male,23-02-2018,Davos,SUI,Switzerland,European Cup,Halfpipe,17,25.20
-56,Hofmann Patrick,Male,04-02-2018,Grindelwald,SUI,Switzerland,FIS,Slopestyle,3,30.00
-57,Hofmann Patrick,Male,28-01-2018,Crans Montana,SUI,Switzerland,European Cup,Big Air,14,28.80
-58,Hofmann Patrick,Male,27-01-2018,Crans Montana,SUI,Switzerland,European Cup,Halfpipe,11,38.40
-59,Hofmann Patrick,Male,21-11-2017,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,17,9.80
-60,Hofmann Patrick,Male,22-04-2017,Silvaplana,SUI,Switzerland,European Cup,Big Air,30,9.28
-61,Hofmann Patrick,Male,19-04-2017,Silvaplana,SUI,Switzerland,European Cup,Slopestyle,38,4.58
-62,Hofmann Patrick,Male,20-04-2016,Sils,SUI,Switzerland,European Cup,Slopestyle,57,
-63,Hofmann Patrick,Male,24-02-2016,Davos,SUI,Switzerland,European Cup,Halfpipe,22,
-64,Hofmann Patrick,Male,23-02-2016,Davos,SUI,Switzerland,European Cup,Halfpipe,21,
-65,Hofmann Patrick,Male,06-02-2016,Grindelwald,SUI,Switzerland,FIS,Halfpipe,25,
+0,Hofmann Patrick,Male,12-04-2025,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,DNS,
+1,Hofmann Patrick,Male,10-04-2025,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,38,73.70
+2,Hofmann Patrick,Male,03-04-2025,Kitzsteinhorn,AUT,Switzerland,European Cup,Big Air,45,27.20
+3,Hofmann Patrick,Male,21-03-2025,St. Anton,AUT,Switzerland,European Cup,Big Air,6,66.00
+4,Hofmann Patrick,Male,11-03-2025,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,31,41.60
+5,Hofmann Patrick,Male,05-03-2025,Prato Nevoso,ITA,Switzerland,European Cup,Big Air,19,7.40
+6,Hofmann Patrick,Male,23-02-2025,Kotelnica,POL,Switzerland,European Cup,Big Air,3,81.00
+7,Hofmann Patrick,Male,15-01-2025,Seiser Alm,ITA,Switzerland,European Cup,Slopestyle,24,19.20
+8,Hofmann Patrick,Male,05-01-2025,Font Romeu,FRA,Switzerland,European Cup Premium,Slopestyle,24,25.60
+9,Hofmann Patrick,Male,21-12-2024,Schilthorn,SUI,Switzerland,FIS,Slopestyle,1,100.00
+10,Hofmann Patrick,Male,23-03-2024,Silvaplana,SUI,Switzerland,World Cup,Slopestyle,DNS,
+11,Hofmann Patrick,Male,21-03-2024,Silvaplana,SUI,Switzerland,Qualification,Slopestyle,DNS,
+12,Hofmann Patrick,Male,12-03-2024,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,47,25.30
+13,Hofmann Patrick,Male,15-02-2024,Davos,SUI,Switzerland,European Cup,Big Air,33,8.90
+14,Hofmann Patrick,Male,20-01-2024,Laax,SUI,Switzerland,World Cup,Slopestyle,48,47.60
+15,Hofmann Patrick,Male,16-01-2024,Laax,SUI,Switzerland,Qualification,Slopestyle,23,
+16,Hofmann Patrick,Male,23-11-2023,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,DNS,
+17,Hofmann Patrick,Male,21-10-2023,Chur,SUI,Switzerland,World Cup,Big Air,47,37.30
+18,Hofmann Patrick,Male,21-10-2023,Chur,SUI,Switzerland,Qualification,Big Air,25,
+19,Hofmann Patrick,Male,27-03-2022,Silvaplana,SUI,Switzerland,World Cup,Slopestyle,46,16.50
+20,Hofmann Patrick,Male,25-03-2022,Silvaplana,SUI,Switzerland,Qualification,Slopestyle,23,
+21,Hofmann Patrick,Male,19-03-2022,Spindleruv Mlyn,CZE,Switzerland,World Cup,Slopestyle,39,7.70
+22,Hofmann Patrick,Male,18-03-2022,Spindleruv Mlyn,CZE,Switzerland,Qualification,Slopestyle,20,
+23,Hofmann Patrick,Male,06-03-2022,Bakuriani,GEO,Switzerland,World Cup,Slopestyle,4,266.40
+24,Hofmann Patrick,Male,15-01-2022,Laax,SUI,Switzerland,World Cup,Slopestyle,28,90.60
+25,Hofmann Patrick,Male,13-01-2022,Laax,SUI,Switzerland,Qualification,Slopestyle,14,
+26,Hofmann Patrick,Male,04-12-2021,Steamboat,USA,Switzerland,World Cup,Big Air,43,75.20
+27,Hofmann Patrick,Male,02-12-2021,Steamboat,USA,Switzerland,Qualification,Big Air,24,
+28,Hofmann Patrick,Male,23-10-2021,Chur,SUI,Switzerland,World Cup,Big Air,32,89.00
+29,Hofmann Patrick,Male,20-04-2021,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,16,77.66
+30,Hofmann Patrick,Male,11-03-2021,Leysin,SUI,Switzerland,European Cup,Slopestyle,28,11.54
+31,Hofmann Patrick,Male,04-03-2021,Flachauwinkel,AUT,Switzerland,European Cup,Big Air,40,11.66
+32,Hofmann Patrick,Male,21-02-2021,Götschen,GER,Switzerland,European Cup,Slopestyle,2,149.37
+33,Hofmann Patrick,Male,19-02-2021,Davos,SUI,Switzerland,European Cup,Big Air,11,95.50
+34,Hofmann Patrick,Male,31-01-2021,Crans Montana,SUI,Switzerland,European Cup,Slopestyle,35,48.72
+35,Hofmann Patrick,Male,22-01-2021,Laax,SUI,Switzerland,World Cup,Slopestyle,47,19.75
+36,Hofmann Patrick,Male,19-01-2021,Laax,SUI,Switzerland,Qualification,Slopestyle,47,
+37,Hofmann Patrick,Male,22-12-2020,Corvatsch,SUI,Switzerland,European Cup,Slopestyle,40,21.19
+38,Hofmann Patrick,Male,26-11-2020,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,24,36.93
+39,Hofmann Patrick,Male,06-03-2020,Absolut Park Flachauwinkel,AUT,Switzerland,European Cup,Big Air,45,3.40
+40,Hofmann Patrick,Male,29-02-2020,Moscow,RUS,Switzerland,European Cup Premium,Big Air,12,63.80
+41,Hofmann Patrick,Male,22-02-2020,Davos,SUI,Switzerland,FIS,Halfpipe,4,25.00
+42,Hofmann Patrick,Male,21-02-2020,Davos,SUI,Switzerland,European Cup Premium,Big Air,9,63.80
+43,Hofmann Patrick,Male,25-01-2020,Crans Montana,SUI,Switzerland,FIS,Slopestyle,10,18.20
+44,Hofmann Patrick,Male,13-04-2019,Klaeppen,SWE,Switzerland,FIS Junior World Championships,Big Air,9,69.60
+45,Hofmann Patrick,Male,12-04-2019,Klaeppen,SWE,Switzerland,Qualification,Big Air,2,
+46,Hofmann Patrick,Male,09-04-2019,Klaeppen,SWE,Switzerland,FIS Junior World Championships,Slopestyle,17,33.60
+47,Hofmann Patrick,Male,08-04-2019,Klaeppen,SWE,Switzerland,Qualification,Slopestyle,3,
+48,Hofmann Patrick,Male,22-03-2019,Laax,SUI,Switzerland,European Cup,Slopestyle,5,72.00
+49,Hofmann Patrick,Male,23-02-2019,Davos,SUI,Switzerland,FIS,Halfpipe,5,22.50
+50,Hofmann Patrick,Male,22-02-2019,Davos,SUI,Switzerland,European Cup,Big Air,4,80.00
+51,Hofmann Patrick,Male,10-02-2019,Crans Montana,SUI,Switzerland,FIS,Slopestyle,1,50.00
+52,Hofmann Patrick,Male,16-11-2018,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,2,40.00
+53,Hofmann Patrick,Male,21-04-2018,Corvatsch,SUI,Switzerland,European Cup,Big Air,46,
+54,Hofmann Patrick,Male,18-04-2018,Corvatsch,SUI,Switzerland,European Cup,Slopestyle,25,19.20
+55,Hofmann Patrick,Male,24-02-2018,Davos,SUI,Switzerland,FIS,Big Air,3,42.00
+56,Hofmann Patrick,Male,23-02-2018,Davos,SUI,Switzerland,European Cup,Halfpipe,17,25.20
+57,Hofmann Patrick,Male,04-02-2018,Grindelwald,SUI,Switzerland,FIS,Slopestyle,3,30.00
+58,Hofmann Patrick,Male,28-01-2018,Crans Montana,SUI,Switzerland,European Cup,Big Air,14,28.80
+59,Hofmann Patrick,Male,27-01-2018,Crans Montana,SUI,Switzerland,European Cup,Halfpipe,11,38.40
+60,Hofmann Patrick,Male,21-11-2017,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,17,9.80
+61,Hofmann Patrick,Male,22-04-2017,Silvaplana,SUI,Switzerland,European Cup,Big Air,30,9.28
+62,Hofmann Patrick,Male,19-04-2017,Silvaplana,SUI,Switzerland,European Cup,Slopestyle,38,4.58
+63,Hofmann Patrick,Male,20-04-2016,Sils,SUI,Switzerland,European Cup,Slopestyle,57,
+64,Hofmann Patrick,Male,24-02-2016,Davos,SUI,Switzerland,European Cup,Halfpipe,22,
+65,Hofmann Patrick,Male,23-02-2016,Davos,SUI,Switzerland,European Cup,Halfpipe,21,
+66,Hofmann Patrick,Male,06-02-2016,Grindelwald,SUI,Switzerland,FIS,Halfpipe,25,
