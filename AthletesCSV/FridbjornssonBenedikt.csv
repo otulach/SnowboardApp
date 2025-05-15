@@ -1,49 +1,51 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Fridbjornsson Benedikt,Male,14-04-2024,Corvatsch,SUI,Iceland,European Cup Premium,Big Air,82,1.60
-1,Fridbjornsson Benedikt,Male,12-04-2024,Corvatsch,SUI,Iceland,European Cup Premium,Slopestyle,53,62.00
-2,Fridbjornsson Benedikt,Male,15-12-2023,Copper Mountain,USA,Iceland,World Cup,Big Air,37,89.50
-3,Fridbjornsson Benedikt,Male,13-12-2023,Copper Mountain,USA,Iceland,Qualification,Big Air,20,
-4,Fridbjornsson Benedikt,Male,13-10-2023,SnowWorld Landgraaf,NED,Iceland,FIS,Slopestyle,5,39.80
-5,Fridbjornsson Benedikt,Male,12-10-2023,SnowWorld Landgraaf,NED,Iceland,FIS,Slopestyle,18,11.20
-6,Fridbjornsson Benedikt,Male,18-01-2022,Livigno,ITA,Iceland,Junior,Slopestyle,26,2.00
-7,Fridbjornsson Benedikt,Male,23-10-2021,Chur,SUI,Iceland,World Cup,Big Air,48,5.50
-8,Fridbjornsson Benedikt,Male,08-10-2021,Landgraaf,NED,Iceland,FIS,Slopestyle,6,29.10
-9,Fridbjornsson Benedikt,Male,29-04-2021,Akureyri,ISL,Iceland,FIS,Slopestyle,2,40.98
-10,Fridbjornsson Benedikt,Male,29-04-2021,Akureyri,ISL,Iceland,National Championships,Big Air,1,50.00
-11,Fridbjornsson Benedikt,Male,29-04-2021,Akureyri,ISL,Iceland,National Championships,Slopestyle,2,40.98
-12,Fridbjornsson Benedikt,Male,20-04-2021,Corvatsch,SUI,Iceland,European Cup Premium,Slopestyle,27,49.51
-13,Fridbjornsson Benedikt,Male,28-03-2021,Silvaplana,SUI,Iceland,Qualification,Slopestyle,DNS,
-14,Fridbjornsson Benedikt,Male,28-03-2021,Silvaplana,SUI,Iceland,World Cup,Slopestyle,DNS,
-15,Fridbjornsson Benedikt,Male,11-03-2021,Leysin,SUI,Iceland,European Cup,Slopestyle,13,43.81
-16,Fridbjornsson Benedikt,Male,06-03-2021,Götschen,GER,Iceland,FIS,Big Air,10,19.64
-17,Fridbjornsson Benedikt,Male,05-03-2021,Götschen,GER,Iceland,European Cup,Big Air,36,1.79
-18,Fridbjornsson Benedikt,Male,04-03-2021,Flachauwinkel,AUT,Iceland,European Cup,Big Air,8,55.76
-19,Fridbjornsson Benedikt,Male,22-02-2021,Götschen,GER,Iceland,European Cup,Big Air,16,40.14
-20,Fridbjornsson Benedikt,Male,21-02-2021,Götschen,GER,Iceland,European Cup,Slopestyle,31,22.20
-21,Fridbjornsson Benedikt,Male,19-02-2021,Davos,SUI,Iceland,European Cup,Big Air,37,30.07
-22,Fridbjornsson Benedikt,Male,31-01-2021,Crans Montana,SUI,Iceland,European Cup,Slopestyle,75,0.04
-23,Fridbjornsson Benedikt,Male,22-01-2021,Laax,SUI,Iceland,World Cup,Slopestyle,DNS,
-24,Fridbjornsson Benedikt,Male,19-01-2021,Laax,SUI,Iceland,Qualification,Slopestyle,DNS,
-25,Fridbjornsson Benedikt,Male,09-01-2021,Kreischberg,AUT,Iceland,Qualification,Big Air,30,
-26,Fridbjornsson Benedikt,Male,09-01-2021,Kreischberg,AUT,Iceland,World Cup,Big Air,60,4.33
-27,Fridbjornsson Benedikt,Male,26-11-2020,Glacier 3000,SUI,Iceland,FIS,Slopestyle,40,23.48
-28,Fridbjornsson Benedikt,Male,06-03-2020,Absolut Park Flachauwinkel,AUT,Iceland,European Cup,Big Air,17,28.00
-29,Fridbjornsson Benedikt,Male,19-01-2020,Vars,FRA,Iceland,European Cup,Slopestyle,41,2.91
-30,Fridbjornsson Benedikt,Male,18-01-2020,Vars,FRA,Iceland,European Cup,Big Air,27,7.20
-31,Fridbjornsson Benedikt,Male,04-12-2019,Glacier 3000,SUI,Iceland,FIS,Slopestyle,4,25.00
-32,Fridbjornsson Benedikt,Male,21-11-2019,Landgraaf,NED,Iceland,European Cup,Slopestyle,37,3.10
-33,Fridbjornsson Benedikt,Male,20-11-2019,Landgraaf,NED,Iceland,FIS,Slopestyle,60,2.00
-34,Fridbjornsson Benedikt,Male,13-04-2019,Klaeppen,SWE,Iceland,FIS Junior World Championships,Big Air,20,26.40
-35,Fridbjornsson Benedikt,Male,12-04-2019,Klaeppen,SWE,Iceland,Qualification,Big Air,2,
-36,Fridbjornsson Benedikt,Male,09-04-2019,Klaeppen,SWE,Iceland,FIS Junior World Championships,Slopestyle,90,
-37,Fridbjornsson Benedikt,Male,08-04-2019,Klaeppen,SWE,Iceland,Qualification,Slopestyle,22,
-38,Fridbjornsson Benedikt,Male,22-03-2019,Laax,SUI,Iceland,European Cup,Slopestyle,55,
-39,Fridbjornsson Benedikt,Male,27-02-2019,Götschen,GER,Iceland,European Cup,Big Air,13,32.00
-40,Fridbjornsson Benedikt,Male,26-02-2019,Götschen,GER,Iceland,European Cup,Big Air,18,20.80
-41,Fridbjornsson Benedikt,Male,22-01-2019,Font Romeu,FRA,Iceland,European Cup,Big Air,23,12.80
-42,Fridbjornsson Benedikt,Male,22-11-2018,Landgraaf,NED,Iceland,European Cup,Slopestyle,59,2.05
-43,Fridbjornsson Benedikt,Male,21-11-2018,Landgraaf,NED,Iceland,FIS,Slopestyle,52,1.64
-44,Fridbjornsson Benedikt,Male,16-11-2018,Glacier 3000,SUI,Iceland,FIS,Slopestyle,17,7.00
-45,Fridbjornsson Benedikt,Male,07-04-2018,Akureyri,ISL,Iceland,FIS,Slopestyle,4,25.00
-46,Fridbjornsson Benedikt,Male,25-03-2018,Reykjavik,ISL,Iceland,National Championships,Slopestyle,4,25.00
-47,Fridbjornsson Benedikt,Male,03-03-2018,Götschen,GER,Iceland,European Cup,Big Air,12,35.20
+0,Fridbjornsson Benedikt,Male,03-05-2025,Akureyri,ISL,Iceland,National Championships,Big Air,2,
+1,Fridbjornsson Benedikt,Male,03-05-2025,Akureyri,ISL,Iceland,National Championships,Big Air,13,
+2,Fridbjornsson Benedikt,Male,14-04-2024,Corvatsch,SUI,Iceland,European Cup Premium,Big Air,82,1.60
+3,Fridbjornsson Benedikt,Male,12-04-2024,Corvatsch,SUI,Iceland,European Cup Premium,Slopestyle,53,62.00
+4,Fridbjornsson Benedikt,Male,15-12-2023,Copper Mountain,USA,Iceland,World Cup,Big Air,37,89.50
+5,Fridbjornsson Benedikt,Male,13-12-2023,Copper Mountain,USA,Iceland,Qualification,Big Air,20,
+6,Fridbjornsson Benedikt,Male,13-10-2023,SnowWorld Landgraaf,NED,Iceland,FIS,Slopestyle,5,39.80
+7,Fridbjornsson Benedikt,Male,12-10-2023,SnowWorld Landgraaf,NED,Iceland,FIS,Slopestyle,18,11.20
+8,Fridbjornsson Benedikt,Male,18-01-2022,Livigno,ITA,Iceland,Junior,Slopestyle,26,2.00
+9,Fridbjornsson Benedikt,Male,23-10-2021,Chur,SUI,Iceland,World Cup,Big Air,48,5.50
+10,Fridbjornsson Benedikt,Male,08-10-2021,Landgraaf,NED,Iceland,FIS,Slopestyle,6,29.10
+11,Fridbjornsson Benedikt,Male,29-04-2021,Akureyri,ISL,Iceland,FIS,Slopestyle,2,40.98
+12,Fridbjornsson Benedikt,Male,29-04-2021,Akureyri,ISL,Iceland,National Championships,Big Air,1,50.00
+13,Fridbjornsson Benedikt,Male,29-04-2021,Akureyri,ISL,Iceland,National Championships,Slopestyle,2,40.98
+14,Fridbjornsson Benedikt,Male,20-04-2021,Corvatsch,SUI,Iceland,European Cup Premium,Slopestyle,27,49.51
+15,Fridbjornsson Benedikt,Male,28-03-2021,Silvaplana,SUI,Iceland,World Cup,Slopestyle,DNS,
+16,Fridbjornsson Benedikt,Male,28-03-2021,Silvaplana,SUI,Iceland,Qualification,Slopestyle,DNS,
+17,Fridbjornsson Benedikt,Male,11-03-2021,Leysin,SUI,Iceland,European Cup,Slopestyle,13,43.81
+18,Fridbjornsson Benedikt,Male,06-03-2021,Götschen,GER,Iceland,FIS,Big Air,10,19.64
+19,Fridbjornsson Benedikt,Male,05-03-2021,Götschen,GER,Iceland,European Cup,Big Air,36,1.79
+20,Fridbjornsson Benedikt,Male,04-03-2021,Flachauwinkel,AUT,Iceland,European Cup,Big Air,8,55.76
+21,Fridbjornsson Benedikt,Male,22-02-2021,Götschen,GER,Iceland,European Cup,Big Air,16,40.14
+22,Fridbjornsson Benedikt,Male,21-02-2021,Götschen,GER,Iceland,European Cup,Slopestyle,31,22.20
+23,Fridbjornsson Benedikt,Male,19-02-2021,Davos,SUI,Iceland,European Cup,Big Air,37,30.07
+24,Fridbjornsson Benedikt,Male,31-01-2021,Crans Montana,SUI,Iceland,European Cup,Slopestyle,75,0.04
+25,Fridbjornsson Benedikt,Male,22-01-2021,Laax,SUI,Iceland,World Cup,Slopestyle,DNS,
+26,Fridbjornsson Benedikt,Male,19-01-2021,Laax,SUI,Iceland,Qualification,Slopestyle,DNS,
+27,Fridbjornsson Benedikt,Male,09-01-2021,Kreischberg,AUT,Iceland,Qualification,Big Air,30,
+28,Fridbjornsson Benedikt,Male,09-01-2021,Kreischberg,AUT,Iceland,World Cup,Big Air,60,4.33
+29,Fridbjornsson Benedikt,Male,26-11-2020,Glacier 3000,SUI,Iceland,FIS,Slopestyle,40,23.48
+30,Fridbjornsson Benedikt,Male,06-03-2020,Absolut Park Flachauwinkel,AUT,Iceland,European Cup,Big Air,17,28.00
+31,Fridbjornsson Benedikt,Male,19-01-2020,Vars,FRA,Iceland,European Cup,Slopestyle,41,2.91
+32,Fridbjornsson Benedikt,Male,18-01-2020,Vars,FRA,Iceland,European Cup,Big Air,27,7.20
+33,Fridbjornsson Benedikt,Male,04-12-2019,Glacier 3000,SUI,Iceland,FIS,Slopestyle,4,25.00
+34,Fridbjornsson Benedikt,Male,21-11-2019,Landgraaf,NED,Iceland,European Cup,Slopestyle,37,3.10
+35,Fridbjornsson Benedikt,Male,20-11-2019,Landgraaf,NED,Iceland,FIS,Slopestyle,60,2.00
+36,Fridbjornsson Benedikt,Male,13-04-2019,Klaeppen,SWE,Iceland,FIS Junior World Championships,Big Air,20,26.40
+37,Fridbjornsson Benedikt,Male,12-04-2019,Klaeppen,SWE,Iceland,Qualification,Big Air,2,
+38,Fridbjornsson Benedikt,Male,09-04-2019,Klaeppen,SWE,Iceland,FIS Junior World Championships,Slopestyle,90,
+39,Fridbjornsson Benedikt,Male,08-04-2019,Klaeppen,SWE,Iceland,Qualification,Slopestyle,22,
+40,Fridbjornsson Benedikt,Male,22-03-2019,Laax,SUI,Iceland,European Cup,Slopestyle,55,
+41,Fridbjornsson Benedikt,Male,27-02-2019,Götschen,GER,Iceland,European Cup,Big Air,13,32.00
+42,Fridbjornsson Benedikt,Male,26-02-2019,Götschen,GER,Iceland,European Cup,Big Air,18,20.80
+43,Fridbjornsson Benedikt,Male,22-01-2019,Font Romeu,FRA,Iceland,European Cup,Big Air,23,12.80
+44,Fridbjornsson Benedikt,Male,22-11-2018,Landgraaf,NED,Iceland,European Cup,Slopestyle,59,2.05
+45,Fridbjornsson Benedikt,Male,21-11-2018,Landgraaf,NED,Iceland,FIS,Slopestyle,52,1.64
+46,Fridbjornsson Benedikt,Male,16-11-2018,Glacier 3000,SUI,Iceland,FIS,Slopestyle,17,7.00
+47,Fridbjornsson Benedikt,Male,07-04-2018,Akureyri,ISL,Iceland,FIS,Slopestyle,4,25.00
+48,Fridbjornsson Benedikt,Male,25-03-2018,Reykjavik,ISL,Iceland,National Championships,Slopestyle,4,25.00
+49,Fridbjornsson Benedikt,Male,03-03-2018,Götschen,GER,Iceland,European Cup,Big Air,12,35.20
