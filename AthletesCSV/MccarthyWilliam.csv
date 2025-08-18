@@ -1,75 +1,77 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Mccarthy William,Male,14-08-2025,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,9,104.40
-1,Mccarthy William,Male,12-04-2025,Isola 2000,FRA,Australia,FIS Junior World Championships,Snowboard Cross Team,7,
-2,Mccarthy William,Male,12-04-2025,Isola 2000,FRA,Australia,FIS Junior World Championships,Snowboard Cross,10,62.40
-3,Mccarthy William,Male,11-04-2025,Isola 2000,FRA,Australia,Qualification,Snowboard Cross,11,
-4,Mccarthy William,Male,30-03-2025,Orcières,FRA,Australia,European Cup,Snowboard Cross,18,37.70
-5,Mccarthy William,Male,29-03-2025,Orcières,FRA,Australia,European Cup,Snowboard Cross,19,34.80
-6,Mccarthy William,Male,14-03-2025,Lenk,SUI,Australia,European Cup,Snowboard Cross,26,10.00
-7,Mccarthy William,Male,13-03-2025,Lenk,SUI,Australia,European Cup,Snowboard Cross,23,16.00
-8,Mccarthy William,Male,10-03-2025,Montafon,AUT,Australia,Junior Regional Cup,Snowboard Cross,12,24.20
-9,Mccarthy William,Male,09-03-2025,Montafon,AUT,Australia,Junior Regional Cup,Snowboard Cross,3,66.00
-10,Mccarthy William,Male,28-02-2025,Passo San Pellegrino,ITA,Australia,European Cup,Snowboard Cross,22,16.20
-11,Mccarthy William,Male,27-02-2025,Passo San Pellegrino,ITA,Australia,European Cup,Snowboard Cross,32,4.68
-12,Mccarthy William,Male,23-02-2025,Colere,ITA,Australia,FIS,Snowboard Cross,9,52.20
-13,Mccarthy William,Male,22-02-2025,Colere,ITA,Australia,FIS,Snowboard Cross,13,36.00
-14,Mccarthy William,Male,16-02-2025,Flumserberg,SUI,Australia,Junior Regional Cup,Snowboard Cross,5,49.50
-15,Mccarthy William,Male,15-02-2025,Flumserberg,SUI,Australia,Junior Regional Cup,Snowboard Cross,3,66.00
-16,Mccarthy William,Male,09-02-2025,Reiteralm,AUT,Australia,European Cup,Snowboard Cross,40,3.70
-17,Mccarthy William,Male,08-02-2025,Reiteralm,AUT,Australia,European Cup,Snowboard Cross,24,14.00
-18,Mccarthy William,Male,02-02-2025,St. Lary,FRA,Australia,National Championships,Snowboard Cross,17,21.00
-19,Mccarthy William,Male,31-01-2025,St. Lary,FRA,Australia,European Cup,Snowboard Cross,24,12.60
-20,Mccarthy William,Male,24-01-2025,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,28,7.20
-21,Mccarthy William,Male,23-01-2025,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,33,4.80
-22,Mccarthy William,Male,18-08-2024,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,11,86.40
-23,Mccarthy William,Male,17-08-2024,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,11,86.40
-24,Mccarthy William,Male,15-08-2024,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,10,93.60
-25,Mccarthy William,Male,14-08-2024,Mt Hotham,AUS,Australia,Junior,Snowboard Cross,2,40.00
-26,Mccarthy William,Male,07-04-2024,Gudauri,GEO,Australia,FIS Junior World Championships,Snowboard Cross Team,15,
-27,Mccarthy William,Male,06-04-2024,Gudauri,GEO,Australia,FIS Junior World Championships,Snowboard Cross,28,14.40
-28,Mccarthy William,Male,05-04-2024,Gudauri,GEO,Australia,Qualification,Snowboard Cross,22,
-29,Mccarthy William,Male,30-03-2024,Colere,ITA,Australia,National Championships,Snowboard Cross,19,34.80
-30,Mccarthy William,Male,22-03-2024,Lenk,SUI,Australia,European Cup,Snowboard Cross,39,4.51
-31,Mccarthy William,Male,21-03-2024,Lenk,SUI,Australia,European Cup,Snowboard Cross,53,3.50
-32,Mccarthy William,Male,14-03-2024,Isola 2000,FRA,Australia,European Cup,Snowboard Cross,18,26.00
-33,Mccarthy William,Male,13-03-2024,Isola 2000,FRA,Australia,European Cup,Snowboard Cross,27,9.00
-34,Mccarthy William,Male,11-03-2024,Isola 2000,FRA,Australia,Junior,Snowboard Cross,6,60.00
-35,Mccarthy William,Male,02-03-2024,Reiteralm,AUT,Australia,Junior,Snowboard Cross,2,72.00
-36,Mccarthy William,Male,01-03-2024,Reiteralm,AUT,Australia,Junior,Snowboard Cross,3,54.00
-37,Mccarthy William,Male,25-02-2024,Grasgehren,GER,Australia,European Cup,Snowboard Cross,52,4.32
-38,Mccarthy William,Male,24-02-2024,Grasgehren,GER,Australia,European Cup,Snowboard Cross,10,83.20
-39,Mccarthy William,Male,17-02-2024,Colere,ITA,Australia,European Cup,Snowboard Cross,29,8.64
-40,Mccarthy William,Male,16-02-2024,Colere,ITA,Australia,European Cup,Snowboard Cross,44,4.15
-41,Mccarthy William,Male,06-02-2024,Reiteralm,AUT,Australia,European Cup,Snowboard Cross,22,18.00
-42,Mccarthy William,Male,05-02-2024,Reiteralm,AUT,Australia,European Cup,Snowboard Cross,36,3.94
-43,Mccarthy William,Male,01-02-2024,Dolni Morava,CZE,Australia,European Cup,Snowboard Cross,8,70.40
-44,Mccarthy William,Male,31-01-2024,Dolni Morava,CZE,Australia,European Cup,Snowboard Cross,24,15.40
-45,Mccarthy William,Male,28-01-2024,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,42,3.58
-46,Mccarthy William,Male,27-01-2024,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,20,22.00
-47,Mccarthy William,Male,20-01-2024,Montafon,AUT,Australia,National Championships,Snowboard Cross,39,5.45
-48,Mccarthy William,Male,19-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,17,28.00
-49,Mccarthy William,Male,18-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,13,32.00
-50,Mccarthy William,Male,17-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,8,64.00
-51,Mccarthy William,Male,16-08-2023,Mt Hotham,AUS,Australia,Junior,Snowboard Cross,8,22.40
-52,Mccarthy William,Male,02-04-2023,Moena - Passo San Pellegrino,ITA,Australia,National Championships,Snowboard Cross,13,58.00
-53,Mccarthy William,Male,31-03-2023,Passo San Pellegrino,ITA,Australia,FIS Junior World Championships,Snowboard Cross Team,17,
-54,Mccarthy William,Male,30-03-2023,Passo San Pellegrino,ITA,Australia,FIS Junior World Championships,Snowboard Cross,25,19.20
-55,Mccarthy William,Male,22-01-2023,Puy St.Vincent,FRA,Australia,European Cup,Snowboard Cross,49,3.79
-56,Mccarthy William,Male,21-01-2023,Puy St.Vincent,FRA,Australia,European Cup,Snowboard Cross,32,6.24
-57,Mccarthy William,Male,14-01-2023,Lenk,SUI,Australia,FIS,Snowboard Cross,3,30.00
-58,Mccarthy William,Male,08-01-2023,Isola 2000,FRA,Australia,Junior,Snowboard Cross,17,16.80
-59,Mccarthy William,Male,07-01-2023,Isola 2000,FRA,Australia,Junior,Snowboard Cross,4,25.00
-60,Mccarthy William,Male,06-01-2023,Isola 2000,FRA,Australia,European Cup,Snowboard Cross,33,5.76
-61,Mccarthy William,Male,12-09-2022,Perisher,AUS,Australia,Junior,Snowboard Cross,1,50.00
-62,Mccarthy William,Male,03-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,18,33.80
-63,Mccarthy William,Male,02-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,13,52.00
-64,Mccarthy William,Male,01-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,9,75.40
-65,Mccarthy William,Male,31-08-2022,Mt Hotham,AUS,Australia,Junior,Snowboard Cross,6,20.00
-66,Mccarthy William,Male,14-08-2022,Mt Buller,AUS,Australia,Junior,Snowboard Cross,6,20.00
-67,Mccarthy William,Male,31-07-2022,Thredbo,AUS,Australia,Junior,Snowboard Cross,8,16.00
-68,Mccarthy William,Male,20-02-2022,Passo San Pellegrino,ITA,Australia,Junior,Snowboard Cross,13,14.00
-69,Mccarthy William,Male,19-02-2022,Passo San Pellegrino,ITA,Australia,Junior,Snowboard Cross,10,18.20
-70,Mccarthy William,Male,13-02-2022,Grasgehren,GER,Australia,Junior,Snowboard Cross,49,1.90
-71,Mccarthy William,Male,12-02-2022,Grasgehren,GER,Australia,Junior,Snowboard Cross,48,1.93
-72,Mccarthy William,Male,06-02-2022,Dolni Morava,CZE,Australia,Junior,Snowboard Cross,4,25.00
-73,Mccarthy William,Male,05-02-2022,Dolni Morava,CZE,Australia,Junior,Snowboard Cross,11,12.00
+0,Mccarthy William,Male,17-08-2025,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,6,
+1,Mccarthy William,Male,16-08-2025,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,16,
+2,Mccarthy William,Male,14-08-2025,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,9,104.40
+3,Mccarthy William,Male,12-04-2025,Isola 2000,FRA,Australia,FIS Junior World Championships,Snowboard Cross Team,7,
+4,Mccarthy William,Male,12-04-2025,Isola 2000,FRA,Australia,FIS Junior World Championships,Snowboard Cross,10,62.40
+5,Mccarthy William,Male,11-04-2025,Isola 2000,FRA,Australia,Qualification,Snowboard Cross,11,
+6,Mccarthy William,Male,30-03-2025,Orcières,FRA,Australia,European Cup,Snowboard Cross,18,37.70
+7,Mccarthy William,Male,29-03-2025,Orcières,FRA,Australia,European Cup,Snowboard Cross,19,34.80
+8,Mccarthy William,Male,14-03-2025,Lenk,SUI,Australia,European Cup,Snowboard Cross,26,10.00
+9,Mccarthy William,Male,13-03-2025,Lenk,SUI,Australia,European Cup,Snowboard Cross,23,16.00
+10,Mccarthy William,Male,10-03-2025,Montafon,AUT,Australia,Junior Regional Cup,Snowboard Cross,12,24.20
+11,Mccarthy William,Male,09-03-2025,Montafon,AUT,Australia,Junior Regional Cup,Snowboard Cross,3,66.00
+12,Mccarthy William,Male,28-02-2025,Passo San Pellegrino,ITA,Australia,European Cup,Snowboard Cross,22,16.20
+13,Mccarthy William,Male,27-02-2025,Passo San Pellegrino,ITA,Australia,European Cup,Snowboard Cross,32,4.68
+14,Mccarthy William,Male,23-02-2025,Colere,ITA,Australia,FIS,Snowboard Cross,9,52.20
+15,Mccarthy William,Male,22-02-2025,Colere,ITA,Australia,FIS,Snowboard Cross,13,36.00
+16,Mccarthy William,Male,16-02-2025,Flumserberg,SUI,Australia,Junior Regional Cup,Snowboard Cross,5,49.50
+17,Mccarthy William,Male,15-02-2025,Flumserberg,SUI,Australia,Junior Regional Cup,Snowboard Cross,3,66.00
+18,Mccarthy William,Male,09-02-2025,Reiteralm,AUT,Australia,European Cup,Snowboard Cross,40,3.70
+19,Mccarthy William,Male,08-02-2025,Reiteralm,AUT,Australia,European Cup,Snowboard Cross,24,14.00
+20,Mccarthy William,Male,02-02-2025,St. Lary,FRA,Australia,National Championships,Snowboard Cross,17,21.00
+21,Mccarthy William,Male,31-01-2025,St. Lary,FRA,Australia,European Cup,Snowboard Cross,24,12.60
+22,Mccarthy William,Male,24-01-2025,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,28,7.20
+23,Mccarthy William,Male,23-01-2025,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,33,4.80
+24,Mccarthy William,Male,18-08-2024,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,11,86.40
+25,Mccarthy William,Male,17-08-2024,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,11,86.40
+26,Mccarthy William,Male,15-08-2024,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,10,93.60
+27,Mccarthy William,Male,14-08-2024,Mt Hotham,AUS,Australia,Junior,Snowboard Cross,2,40.00
+28,Mccarthy William,Male,07-04-2024,Gudauri,GEO,Australia,FIS Junior World Championships,Snowboard Cross Team,15,
+29,Mccarthy William,Male,06-04-2024,Gudauri,GEO,Australia,FIS Junior World Championships,Snowboard Cross,28,14.40
+30,Mccarthy William,Male,05-04-2024,Gudauri,GEO,Australia,Qualification,Snowboard Cross,22,
+31,Mccarthy William,Male,30-03-2024,Colere,ITA,Australia,National Championships,Snowboard Cross,19,34.80
+32,Mccarthy William,Male,22-03-2024,Lenk,SUI,Australia,European Cup,Snowboard Cross,39,4.51
+33,Mccarthy William,Male,21-03-2024,Lenk,SUI,Australia,European Cup,Snowboard Cross,53,3.50
+34,Mccarthy William,Male,14-03-2024,Isola 2000,FRA,Australia,European Cup,Snowboard Cross,18,26.00
+35,Mccarthy William,Male,13-03-2024,Isola 2000,FRA,Australia,European Cup,Snowboard Cross,27,9.00
+36,Mccarthy William,Male,11-03-2024,Isola 2000,FRA,Australia,Junior,Snowboard Cross,6,60.00
+37,Mccarthy William,Male,02-03-2024,Reiteralm,AUT,Australia,Junior,Snowboard Cross,2,72.00
+38,Mccarthy William,Male,01-03-2024,Reiteralm,AUT,Australia,Junior,Snowboard Cross,3,54.00
+39,Mccarthy William,Male,25-02-2024,Grasgehren,GER,Australia,European Cup,Snowboard Cross,52,4.32
+40,Mccarthy William,Male,24-02-2024,Grasgehren,GER,Australia,European Cup,Snowboard Cross,10,83.20
+41,Mccarthy William,Male,17-02-2024,Colere,ITA,Australia,European Cup,Snowboard Cross,29,8.64
+42,Mccarthy William,Male,16-02-2024,Colere,ITA,Australia,European Cup,Snowboard Cross,44,4.15
+43,Mccarthy William,Male,06-02-2024,Reiteralm,AUT,Australia,European Cup,Snowboard Cross,22,18.00
+44,Mccarthy William,Male,05-02-2024,Reiteralm,AUT,Australia,European Cup,Snowboard Cross,36,3.94
+45,Mccarthy William,Male,01-02-2024,Dolni Morava,CZE,Australia,European Cup,Snowboard Cross,8,70.40
+46,Mccarthy William,Male,31-01-2024,Dolni Morava,CZE,Australia,European Cup,Snowboard Cross,24,15.40
+47,Mccarthy William,Male,28-01-2024,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,42,3.58
+48,Mccarthy William,Male,27-01-2024,Puy St. Vincent,FRA,Australia,European Cup,Snowboard Cross,20,22.00
+49,Mccarthy William,Male,20-01-2024,Montafon,AUT,Australia,National Championships,Snowboard Cross,39,5.45
+50,Mccarthy William,Male,19-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,17,28.00
+51,Mccarthy William,Male,18-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,13,32.00
+52,Mccarthy William,Male,17-08-2023,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,8,64.00
+53,Mccarthy William,Male,16-08-2023,Mt Hotham,AUS,Australia,Junior,Snowboard Cross,8,22.40
+54,Mccarthy William,Male,02-04-2023,Moena - Passo San Pellegrino,ITA,Australia,National Championships,Snowboard Cross,13,58.00
+55,Mccarthy William,Male,31-03-2023,Passo San Pellegrino,ITA,Australia,FIS Junior World Championships,Snowboard Cross Team,17,
+56,Mccarthy William,Male,30-03-2023,Passo San Pellegrino,ITA,Australia,FIS Junior World Championships,Snowboard Cross,25,19.20
+57,Mccarthy William,Male,22-01-2023,Puy St.Vincent,FRA,Australia,European Cup,Snowboard Cross,49,3.79
+58,Mccarthy William,Male,21-01-2023,Puy St.Vincent,FRA,Australia,European Cup,Snowboard Cross,32,6.24
+59,Mccarthy William,Male,14-01-2023,Lenk,SUI,Australia,FIS,Snowboard Cross,3,30.00
+60,Mccarthy William,Male,08-01-2023,Isola 2000,FRA,Australia,Junior,Snowboard Cross,17,16.80
+61,Mccarthy William,Male,07-01-2023,Isola 2000,FRA,Australia,Junior,Snowboard Cross,4,25.00
+62,Mccarthy William,Male,06-01-2023,Isola 2000,FRA,Australia,European Cup,Snowboard Cross,33,5.76
+63,Mccarthy William,Male,12-09-2022,Perisher,AUS,Australia,Junior,Snowboard Cross,1,50.00
+64,Mccarthy William,Male,03-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,18,33.80
+65,Mccarthy William,Male,02-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,13,52.00
+66,Mccarthy William,Male,01-09-2022,Mt Hotham,AUS,Australia,Australian New Zealand Cup,Snowboard Cross,9,75.40
+67,Mccarthy William,Male,31-08-2022,Mt Hotham,AUS,Australia,Junior,Snowboard Cross,6,20.00
+68,Mccarthy William,Male,14-08-2022,Mt Buller,AUS,Australia,Junior,Snowboard Cross,6,20.00
+69,Mccarthy William,Male,31-07-2022,Thredbo,AUS,Australia,Junior,Snowboard Cross,8,16.00
+70,Mccarthy William,Male,20-02-2022,Passo San Pellegrino,ITA,Australia,Junior,Snowboard Cross,13,14.00
+71,Mccarthy William,Male,19-02-2022,Passo San Pellegrino,ITA,Australia,Junior,Snowboard Cross,10,18.20
+72,Mccarthy William,Male,13-02-2022,Grasgehren,GER,Australia,Junior,Snowboard Cross,49,1.90
+73,Mccarthy William,Male,12-02-2022,Grasgehren,GER,Australia,Junior,Snowboard Cross,48,1.93
+74,Mccarthy William,Male,06-02-2022,Dolni Morava,CZE,Australia,Junior,Snowboard Cross,4,25.00
+75,Mccarthy William,Male,05-02-2022,Dolni Morava,CZE,Australia,Junior,Snowboard Cross,11,12.00
