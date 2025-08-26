@@ -1,166 +1,167 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Huber Nicolas,Male,15-08-2025,The Remarkables,NZL,Switzerland,Australian New Zealand Cup,Slopestyle,4,111.70
-1,Huber Nicolas,Male,12-04-2025,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,26,87.20
-2,Huber Nicolas,Male,10-04-2025,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,12,133.80
-3,Huber Nicolas,Male,03-04-2025,Kitzsteinhorn,AUT,Switzerland,European Cup,Big Air,10,105.70
-4,Huber Nicolas,Male,28-03-2025,Engadin,SUI,Switzerland,World Championships,Big Air,34,105.60
-5,Huber Nicolas,Male,25-03-2025,Engadin,SUI,Switzerland,Qualification,Big Air,16,
-6,Huber Nicolas,Male,21-03-2025,Engadin,SUI,Switzerland,World Championships,Slopestyle,24,156.70
-7,Huber Nicolas,Male,20-03-2025,Engadin,SUI,Switzerland,Qualification,Slopestyle,13,
-8,Huber Nicolas,Male,22-02-2025,Calgary,CAN,Switzerland,World Cup,Slopestyle,45,57.20
-9,Huber Nicolas,Male,20-02-2025,Calgary,CAN,Switzerland,Qualification,Slopestyle,23,
-10,Huber Nicolas,Male,02-02-2025,Aspen,USA,Switzerland,World Cup,Slopestyle,DNS,
-11,Huber Nicolas,Male,31-01-2025,Aspen,USA,Switzerland,Qualification,Slopestyle,DNS,
-12,Huber Nicolas,Male,11-01-2025,Kreischberg,AUT,Switzerland,Qualification,Big Air,DNS,
-13,Huber Nicolas,Male,11-01-2025,Kreischberg,AUT,Switzerland,World Cup,Big Air,DNS,
-14,Huber Nicolas,Male,05-01-2025,Klagenfurt,AUT,Switzerland,Qualification,Big Air,14,
-15,Huber Nicolas,Male,05-01-2025,Klagenfurt,AUT,Switzerland,World Cup,Big Air,32,82.00
-16,Huber Nicolas,Male,01-12-2024,Beijing,CHN,Switzerland,World Cup,Big Air,13,229.70
-17,Huber Nicolas,Male,30-11-2024,Beijing,CHN,Switzerland,Qualification,Big Air,8,
-18,Huber Nicolas,Male,19-10-2024,Chur,SUI,Switzerland,World Cup,Big Air,38,44.70
-19,Huber Nicolas,Male,02-09-2024,Cardrona,NZL,Switzerland,World Cup,Slopestyle,20,167.00
-20,Huber Nicolas,Male,31-08-2024,Cardrona,NZL,Switzerland,Qualification,Slopestyle,12,
-21,Huber Nicolas,Male,23-03-2024,Silvaplana,SUI,Switzerland,World Cup,Slopestyle,7,391.60
-22,Huber Nicolas,Male,21-03-2024,Silvaplana,SUI,Switzerland,Qualification,Slopestyle,8,
-23,Huber Nicolas,Male,15-03-2024,Tignes,FRA,Switzerland,Qualification,Slopestyle,16,
-24,Huber Nicolas,Male,15-03-2024,Tignes,FRA,Switzerland,World Cup,Slopestyle,25,138.80
-25,Huber Nicolas,Male,20-01-2024,Laax,SUI,Switzerland,World Cup,Slopestyle,17,194.90
-26,Huber Nicolas,Male,16-01-2024,Laax,SUI,Switzerland,Qualification,Slopestyle,6,
-27,Huber Nicolas,Male,15-12-2023,Copper Mountain,USA,Switzerland,World Cup,Big Air,4,590.90
-28,Huber Nicolas,Male,13-12-2023,Copper Mountain,USA,Switzerland,Qualification,Big Air,4,
-29,Huber Nicolas,Male,09-12-2023,Edmonton,CAN,Switzerland,World Cup,Big Air,44,43.50
-30,Huber Nicolas,Male,08-12-2023,Edmonton,CAN,Switzerland,Qualification,Big Air,20,
-31,Huber Nicolas,Male,02-12-2023,Beijing,CHN,Switzerland,World Cup,Big Air,5,502.20
-32,Huber Nicolas,Male,01-12-2023,Beijing,CHN,Switzerland,Qualification,Big Air,3,
-33,Huber Nicolas,Male,21-10-2023,Chur,SUI,Switzerland,Qualification,Big Air,21,
-34,Huber Nicolas,Male,21-10-2023,Chur,SUI,Switzerland,World Cup,Big Air,41,65.00
-35,Huber Nicolas,Male,29-09-2023,Cardrona,NZL,Switzerland,Australian New Zealand Cup,Slopestyle,3,249.60
-36,Huber Nicolas,Male,17-04-2023,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,DNF,
-37,Huber Nicolas,Male,14-04-2023,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,1,450.00
-38,Huber Nicolas,Male,26-03-2023,Silvaplana,SUI,Switzerland,World Cup,Slopestyle,12,194.40
-39,Huber Nicolas,Male,25-03-2023,Silvaplana,SUI,Switzerland,Qualification,Slopestyle,6,
-40,Huber Nicolas,Male,17-03-2023,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,5,206.50
-41,Huber Nicolas,Male,04-03-2023,Bakuriani,GEO,Switzerland,World Championships,Big Air,3,554.50
-42,Huber Nicolas,Male,02-03-2023,Bakuriani,GEO,Switzerland,Qualification,Big Air,4,
-43,Huber Nicolas,Male,27-02-2023,Bakuriani,GEO,Switzerland,World Championships,Slopestyle,16,154.20
-44,Huber Nicolas,Male,24-02-2023,Bakuriani,GEO,Switzerland,Qualification,Slopestyle,4,
-45,Huber Nicolas,Male,12-02-2023,Calgary,CAN,Switzerland,World Cup,Slopestyle,27,67.70
-46,Huber Nicolas,Male,10-02-2023,Calgary,CAN,Switzerland,Qualification,Slopestyle,11,
-47,Huber Nicolas,Male,04-02-2023,Mammoth Mountain,USA,Switzerland,World Cup,Slopestyle,17,144.40
-48,Huber Nicolas,Male,01-02-2023,Mammoth Mountain,USA,Switzerland,Qualification,Slopestyle,9,
-49,Huber Nicolas,Male,22-01-2023,Laax,SUI,Switzerland,World Cup,Slopestyle,8,349.20
-50,Huber Nicolas,Male,18-01-2023,Laax,SUI,Switzerland,Qualification,Slopestyle,6,
-51,Huber Nicolas,Male,14-01-2023,Kreischberg,AUT,Switzerland,World Cup,Big Air,11,204.90
-52,Huber Nicolas,Male,13-01-2023,Kreischberg,AUT,Switzerland,Qualification,Big Air,6,
-53,Huber Nicolas,Male,17-12-2022,Copper Mountain,USA,Switzerland,World Cup,Big Air,22,125.50
-54,Huber Nicolas,Male,15-12-2022,Copper Mountain,USA,Switzerland,Qualification,Big Air,14,
-55,Huber Nicolas,Male,10-12-2022,Edmonton,CAN,Switzerland,World Cup,Big Air,12,196.90
-56,Huber Nicolas,Male,09-12-2022,Edmonton,CAN,Switzerland,Qualification,Big Air,6,
-57,Huber Nicolas,Male,22-10-2022,Chur,SUI,Switzerland,World Cup,Big Air,22,113.90
-58,Huber Nicolas,Male,22-10-2022,Chur,SUI,Switzerland,Qualification,Big Air,9,
-59,Huber Nicolas,Male,08-10-2022,Cardrona Alpine Resort,NZL,Switzerland,Australian New Zealand Cup,Big Air,2,95.80
-60,Huber Nicolas,Male,07-10-2022,Cardrona Alpine Resort,NZL,Switzerland,Australian New Zealand Cup,Slopestyle,17,9.00
-61,Huber Nicolas,Male,09-04-2022,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,5,202.30
-62,Huber Nicolas,Male,07-04-2022,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,2,373.40
-63,Huber Nicolas,Male,27-03-2022,Silvaplana,SUI,Switzerland,World Cup,Slopestyle,6,351.60
-64,Huber Nicolas,Male,25-03-2022,Silvaplana,SUI,Switzerland,Qualification,Slopestyle,5,
-65,Huber Nicolas,Male,19-03-2022,Spindleruv Mlyn,CZE,Switzerland,World Cup,Slopestyle,8,202.00
-66,Huber Nicolas,Male,18-03-2022,Spindleruv Mlyn,CZE,Switzerland,Qualification,Slopestyle,8,
-67,Huber Nicolas,Male,06-03-2022,Bakuriani,GEO,Switzerland,World Cup,Slopestyle,10,57.10
-68,Huber Nicolas,Male,26-02-2022,Tyumen,RUS,Switzerland,Asian Cup,Big Air,1,180.00
-69,Huber Nicolas,Male,23-02-2022,Moscow,RUS,Switzerland,European Cup,Big Air,1,180.00
-70,Huber Nicolas,Male,18-02-2022,Davos,SUI,Switzerland,European Cup Premium,Big Air,2,215.60
-71,Huber Nicolas,Male,15-02-2022,Beijing,CHN,Switzerland,Olympic Winter Games,Big Air,14,162.90
-72,Huber Nicolas,Male,14-02-2022,Beijing,CHN,Switzerland,Qualification,Big Air,14,
-73,Huber Nicolas,Male,07-02-2022,Beijing,CHN,Switzerland,Olympic Winter Games,Slopestyle,20,92.60
-74,Huber Nicolas,Male,06-02-2022,Beijing,CHN,Switzerland,Qualification,Slopestyle,20,
-75,Huber Nicolas,Male,15-01-2022,Laax,SUI,Switzerland,World Cup,Slopestyle,20,127.80
-76,Huber Nicolas,Male,13-01-2022,Laax,SUI,Switzerland,Qualification,Slopestyle,8,
-77,Huber Nicolas,Male,08-01-2022,Mammoth Mountain,USA,Switzerland,World Cup,Slopestyle,44,26.30
-78,Huber Nicolas,Male,01-01-2022,Calgary,CAN,Switzerland,World Cup,Slopestyle,17,175.00
-79,Huber Nicolas,Male,31-12-2021,Calgary,CAN,Switzerland,Qualification,Slopestyle,9,
-80,Huber Nicolas,Male,04-12-2021,Steamboat,USA,Switzerland,World Cup,Big Air,60,4.40
-81,Huber Nicolas,Male,02-12-2021,Steamboat,USA,Switzerland,Qualification,Big Air,30,
-82,Huber Nicolas,Male,23-10-2021,Chur,SUI,Switzerland,World Cup,Big Air,18,172.30
-83,Huber Nicolas,Male,20-04-2021,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,8,138.41
-84,Huber Nicolas,Male,20-03-2021,Aspen,USA,Switzerland,World Cup,Slopestyle,21,171.77
-85,Huber Nicolas,Male,19-03-2021,Aspen,USA,Switzerland,Qualification,Slopestyle,11,
-86,Huber Nicolas,Male,16-03-2021,Aspen,USA,Switzerland,World Championships,Big Air,16,160.57
-87,Huber Nicolas,Male,14-03-2021,Aspen,USA,Switzerland,Qualification,Big Air,9,
-88,Huber Nicolas,Male,12-03-2021,Aspen,USA,Switzerland,World Championships,Slopestyle,27,128.57
-89,Huber Nicolas,Male,10-03-2021,Aspen,USA,Switzerland,Qualification,Slopestyle,12,
-90,Huber Nicolas,Male,27-02-2021,Moscow,RUS,Switzerland,European Cup,Big Air,1,180.00
-91,Huber Nicolas,Male,19-02-2021,Davos,SUI,Switzerland,European Cup,Big Air,2,298.61
-92,Huber Nicolas,Male,08-02-2021,Kopaonik,SRB,Switzerland,European Cup,Big Air,1,220.00
-93,Huber Nicolas,Male,31-01-2021,Crans Montana,SUI,Switzerland,European Cup,Slopestyle,1,360.00
-94,Huber Nicolas,Male,22-01-2021,Laax,SUI,Switzerland,World Cup,Slopestyle,10,227.97
-95,Huber Nicolas,Male,19-01-2021,Laax,SUI,Switzerland,Qualification,Slopestyle,2,
-96,Huber Nicolas,Male,09-01-2021,Kreischberg,AUT,Switzerland,Qualification,Big Air,10,
-97,Huber Nicolas,Male,09-01-2021,Kreischberg,AUT,Switzerland,World Cup,Big Air,22,166.49
-98,Huber Nicolas,Male,22-12-2020,Corvatsch,SUI,Switzerland,European Cup,Slopestyle,2,265.40
-99,Huber Nicolas,Male,26-11-2020,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,2,182.69
-100,Huber Nicolas,Male,06-03-2020,Absolut Park Flachauwinkel,AUT,Switzerland,European Cup,Big Air,1,200.00
-101,Huber Nicolas,Male,29-02-2020,Moscow,RUS,Switzerland,European Cup Premium,Big Air,20,31.90
-102,Huber Nicolas,Male,21-02-2020,Davos,SUI,Switzerland,European Cup Premium,Big Air,2,176.00
-103,Huber Nicolas,Male,16-02-2020,Calgary,CAN,Switzerland,World Cup,Slopestyle,7,360.00
-104,Huber Nicolas,Male,14-02-2020,Calgary,CAN,Switzerland,Qualification,Slopestyle,6,
-105,Huber Nicolas,Male,23-01-2020,Seiseralm,ITA,Switzerland,World Cup,Slopestyle,7,360.00
-106,Huber Nicolas,Male,22-01-2020,Seiseralm,ITA,Switzerland,Qualification,Slopestyle,2,
-107,Huber Nicolas,Male,15-01-2020,Laax,SUI,Switzerland,World Cup,Slopestyle,17,140.00
-108,Huber Nicolas,Male,13-01-2020,Laax,SUI,Switzerland,Qualification,Slopestyle,3,
-109,Huber Nicolas,Male,20-12-2019,Atlanta,USA,Switzerland,World Cup,Big Air,29,36.00
-110,Huber Nicolas,Male,14-12-2019,Beijing,CHN,Switzerland,World Cup,Big Air,8,320.00
-111,Huber Nicolas,Male,12-12-2019,Beijing,CHN,Switzerland,Qualification,Big Air,4,
-112,Huber Nicolas,Male,02-11-2019,Modena SKIPASS,ITA,Switzerland,World Cup,Big Air,40,18.50
-113,Huber Nicolas,Male,24-08-2019,Cardrona,NZL,Switzerland,World Cup,Big Air,25,60.00
-114,Huber Nicolas,Male,23-08-2019,Cardrona,NZL,Switzerland,Qualification,Big Air,25,
-115,Huber Nicolas,Male,15-08-2019,Cardrona Alpine Resort,NZL,Switzerland,Australian New Zealand Cup,Slopestyle,10,93.60
-116,Huber Nicolas,Male,13-04-2019,Silvaplana,SUI,Switzerland,European Cup,Big Air,3,216.00
-117,Huber Nicolas,Male,28-03-2019,Sochi,RUS,Switzerland,European Cup,Big Air,2,128.00
-118,Huber Nicolas,Male,26-03-2019,Sochi,RUS,Switzerland,European Cup,Slopestyle,7,57.60
-119,Huber Nicolas,Male,16-03-2019,Quebec,CAN,Switzerland,World Cup,Big Air,13,200.00
-120,Huber Nicolas,Male,14-03-2019,Quebec,CAN,Switzerland,Qualification,Big Air,13,
-121,Huber Nicolas,Male,09-03-2019,Mammoth Mountain Resort,USA,Switzerland,World Cup,Slopestyle,26,50.00
-122,Huber Nicolas,Male,07-03-2019,Mammoth Mountain Resort,USA,Switzerland,Qualification,Slopestyle,16,
-123,Huber Nicolas,Male,22-02-2019,Davos,SUI,Switzerland,European Cup,Big Air,3,96.00
-124,Huber Nicolas,Male,10-02-2019,Park City,USA,Switzerland,World Championships,Slopestyle,40,18.50
-125,Huber Nicolas,Male,09-02-2019,Park City,USA,Switzerland,Qualification,Slopestyle,40,
-126,Huber Nicolas,Male,26-01-2019,Seiser Alm,ITA,Switzerland,World Cup,Slopestyle,15,160.00
-127,Huber Nicolas,Male,24-01-2019,Seiser Alm,ITA,Switzerland,Qualification,Slopestyle,6,
-128,Huber Nicolas,Male,18-01-2019,Laax,SUI,Switzerland,World Cup,Slopestyle,5,450.00
-129,Huber Nicolas,Male,16-01-2019,Laax,SUI,Switzerland,Qualification,Slopestyle,5,
-130,Huber Nicolas,Male,12-01-2019,Kreischberg,AUT,Switzerland,World Cup,Slopestyle,11,240.00
-131,Huber Nicolas,Male,11-01-2019,Kreischberg,AUT,Switzerland,Qualification,Slopestyle,7,
-132,Huber Nicolas,Male,21-12-2018,Secret Garden,CHN,Switzerland,World Cup,Slopestyle,19,120.00
-133,Huber Nicolas,Male,20-12-2018,Secret Garden,CHN,Switzerland,Qualification,Slopestyle,19,
-134,Huber Nicolas,Male,24-11-2018,Beijing,CHN,Switzerland,World Cup,Big Air,16,150.00
-135,Huber Nicolas,Male,23-11-2018,Beijing,CHN,Switzerland,Qualification,Big Air,7,
-136,Huber Nicolas,Male,03-11-2018,Modena SKIPASS,ITA,Switzerland,World Cup,Big Air,31,28.00
-137,Huber Nicolas,Male,08-09-2018,Cardrona,NZL,Switzerland,World Cup,Big Air,8,320.00
-138,Huber Nicolas,Male,06-09-2018,Cardrona,NZL,Switzerland,Qualification,Big Air,4,
-139,Huber Nicolas,Male,21-04-2018,Corvatsch,SUI,Switzerland,European Cup,Big Air,6,144.00
-140,Huber Nicolas,Male,18-04-2018,Corvatsch,SUI,Switzerland,European Cup,Slopestyle,2,256.00
-141,Huber Nicolas,Male,17-03-2018,Seiser Alm,ITA,Switzerland,World Cup,Slopestyle,18,130.00
-142,Huber Nicolas,Male,16-03-2018,Seiser Alm,ITA,Switzerland,Qualification,Slopestyle,4,
-143,Huber Nicolas,Male,24-02-2018,Alpensia Jumping Park,KOR,Switzerland,Olympic Winter Games,Big Air,25,60.00
-144,Huber Nicolas,Male,21-02-2018,Alpensia Jumping Park,KOR,Switzerland,Qualification,Big Air,13,
-145,Huber Nicolas,Male,11-02-2018,Phoenix Snow Park,KOR,Switzerland,Olympic Winter Games,Slopestyle,30,32.00
-146,Huber Nicolas,Male,10-02-2018,Phoenix Snow Park,KOR,Switzerland,Qualification,Slopestyle,16,
-147,Huber Nicolas,Male,02-12-2017,Moenchengladbach,GER,Switzerland,World Cup,Big Air,4,500.00
-148,Huber Nicolas,Male,25-11-2017,Beijing,CHN,Switzerland,World Cup,Big Air,19,120.00
-149,Huber Nicolas,Male,24-11-2017,Beijing,CHN,Switzerland,Qualification,Big Air,11,
-150,Huber Nicolas,Male,11-11-2017,Milan,ITA,Switzerland,World Cup,Big Air,11,240.00
-151,Huber Nicolas,Male,04-09-2017,Cardrona,NZL,Switzerland,World Cup,Slopestyle,10,260.00
-152,Huber Nicolas,Male,03-09-2017,Cardrona,NZL,Switzerland,Qualification,Slopestyle,7,
-153,Huber Nicolas,Male,17-03-2017,Sierra Nevada,ESP,Switzerland,World Championships,Big Air,45,17.00
-154,Huber Nicolas,Male,16-03-2017,Sierra Nevada,ESP,Switzerland,Qualification,Big Air,23,
-155,Huber Nicolas,Male,11-03-2017,Sierra Nevada,ESP,Switzerland,World Championships,Slopestyle,2,800.00
-156,Huber Nicolas,Male,09-03-2017,Sierra Nevada,ESP,Switzerland,Qualification,Slopestyle,4,
-157,Huber Nicolas,Male,25-02-2017,Davos,SUI,Switzerland,European Cup,Big Air,5,72.00
-158,Huber Nicolas,Male,17-02-2017,Goetschen,GER,Switzerland,European Cup,Big Air,2,128.00
-159,Huber Nicolas,Male,05-02-2017,Grindelwald,SUI,Switzerland,FIS,Slopestyle,11,12.00
-160,Huber Nicolas,Male,20-01-2017,Laax,SUI,Switzerland,World Cup,Slopestyle,27,45.00
-161,Huber Nicolas,Male,17-01-2017,Laax,SUI,Switzerland,Qualification,Slopestyle,8,
-162,Huber Nicolas,Male,27-11-2016,Kaunertal,AUT,Switzerland,FIS,Big Air,16,21.00
-163,Huber Nicolas,Male,26-11-2016,Kaunertal,AUT,Switzerland,European Cup,Slopestyle,2,128.00
-164,Huber Nicolas,Male,22-04-2016,Sils,SUI,Switzerland,European Cup,Big Air,6,88.00
+0,Huber Nicolas,Male,25-08-2025,Thredbo,AUS,Switzerland,Australian New Zealand Cup,Big Air,9,33.50
+1,Huber Nicolas,Male,15-08-2025,The Remarkables,NZL,Switzerland,Australian New Zealand Cup,Slopestyle,4,111.70
+2,Huber Nicolas,Male,12-04-2025,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,26,87.20
+3,Huber Nicolas,Male,10-04-2025,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,12,133.80
+4,Huber Nicolas,Male,03-04-2025,Kitzsteinhorn,AUT,Switzerland,European Cup,Big Air,10,105.70
+5,Huber Nicolas,Male,28-03-2025,Engadin,SUI,Switzerland,World Championships,Big Air,34,105.60
+6,Huber Nicolas,Male,25-03-2025,Engadin,SUI,Switzerland,Qualification,Big Air,16,
+7,Huber Nicolas,Male,21-03-2025,Engadin,SUI,Switzerland,World Championships,Slopestyle,24,156.70
+8,Huber Nicolas,Male,20-03-2025,Engadin,SUI,Switzerland,Qualification,Slopestyle,13,
+9,Huber Nicolas,Male,22-02-2025,Calgary,CAN,Switzerland,World Cup,Slopestyle,45,57.20
+10,Huber Nicolas,Male,20-02-2025,Calgary,CAN,Switzerland,Qualification,Slopestyle,23,
+11,Huber Nicolas,Male,02-02-2025,Aspen,USA,Switzerland,World Cup,Slopestyle,DNS,
+12,Huber Nicolas,Male,31-01-2025,Aspen,USA,Switzerland,Qualification,Slopestyle,DNS,
+13,Huber Nicolas,Male,11-01-2025,Kreischberg,AUT,Switzerland,Qualification,Big Air,DNS,
+14,Huber Nicolas,Male,11-01-2025,Kreischberg,AUT,Switzerland,World Cup,Big Air,DNS,
+15,Huber Nicolas,Male,05-01-2025,Klagenfurt,AUT,Switzerland,Qualification,Big Air,14,
+16,Huber Nicolas,Male,05-01-2025,Klagenfurt,AUT,Switzerland,World Cup,Big Air,32,82.00
+17,Huber Nicolas,Male,01-12-2024,Beijing,CHN,Switzerland,World Cup,Big Air,13,229.70
+18,Huber Nicolas,Male,30-11-2024,Beijing,CHN,Switzerland,Qualification,Big Air,8,
+19,Huber Nicolas,Male,19-10-2024,Chur,SUI,Switzerland,World Cup,Big Air,38,44.70
+20,Huber Nicolas,Male,02-09-2024,Cardrona,NZL,Switzerland,World Cup,Slopestyle,20,167.00
+21,Huber Nicolas,Male,31-08-2024,Cardrona,NZL,Switzerland,Qualification,Slopestyle,12,
+22,Huber Nicolas,Male,23-03-2024,Silvaplana,SUI,Switzerland,World Cup,Slopestyle,7,391.60
+23,Huber Nicolas,Male,21-03-2024,Silvaplana,SUI,Switzerland,Qualification,Slopestyle,8,
+24,Huber Nicolas,Male,15-03-2024,Tignes,FRA,Switzerland,Qualification,Slopestyle,16,
+25,Huber Nicolas,Male,15-03-2024,Tignes,FRA,Switzerland,World Cup,Slopestyle,25,138.80
+26,Huber Nicolas,Male,20-01-2024,Laax,SUI,Switzerland,World Cup,Slopestyle,17,194.90
+27,Huber Nicolas,Male,16-01-2024,Laax,SUI,Switzerland,Qualification,Slopestyle,6,
+28,Huber Nicolas,Male,15-12-2023,Copper Mountain,USA,Switzerland,World Cup,Big Air,4,590.90
+29,Huber Nicolas,Male,13-12-2023,Copper Mountain,USA,Switzerland,Qualification,Big Air,4,
+30,Huber Nicolas,Male,09-12-2023,Edmonton,CAN,Switzerland,World Cup,Big Air,44,43.50
+31,Huber Nicolas,Male,08-12-2023,Edmonton,CAN,Switzerland,Qualification,Big Air,20,
+32,Huber Nicolas,Male,02-12-2023,Beijing,CHN,Switzerland,World Cup,Big Air,5,502.20
+33,Huber Nicolas,Male,01-12-2023,Beijing,CHN,Switzerland,Qualification,Big Air,3,
+34,Huber Nicolas,Male,21-10-2023,Chur,SUI,Switzerland,Qualification,Big Air,21,
+35,Huber Nicolas,Male,21-10-2023,Chur,SUI,Switzerland,World Cup,Big Air,41,65.00
+36,Huber Nicolas,Male,29-09-2023,Cardrona,NZL,Switzerland,Australian New Zealand Cup,Slopestyle,3,249.60
+37,Huber Nicolas,Male,17-04-2023,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,DNF,
+38,Huber Nicolas,Male,14-04-2023,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,1,450.00
+39,Huber Nicolas,Male,26-03-2023,Silvaplana,SUI,Switzerland,World Cup,Slopestyle,12,194.40
+40,Huber Nicolas,Male,25-03-2023,Silvaplana,SUI,Switzerland,Qualification,Slopestyle,6,
+41,Huber Nicolas,Male,17-03-2023,Laax,SUI,Switzerland,European Cup Premium,Slopestyle,5,206.50
+42,Huber Nicolas,Male,04-03-2023,Bakuriani,GEO,Switzerland,World Championships,Big Air,3,554.50
+43,Huber Nicolas,Male,02-03-2023,Bakuriani,GEO,Switzerland,Qualification,Big Air,4,
+44,Huber Nicolas,Male,27-02-2023,Bakuriani,GEO,Switzerland,World Championships,Slopestyle,16,154.20
+45,Huber Nicolas,Male,24-02-2023,Bakuriani,GEO,Switzerland,Qualification,Slopestyle,4,
+46,Huber Nicolas,Male,12-02-2023,Calgary,CAN,Switzerland,World Cup,Slopestyle,27,67.70
+47,Huber Nicolas,Male,10-02-2023,Calgary,CAN,Switzerland,Qualification,Slopestyle,11,
+48,Huber Nicolas,Male,04-02-2023,Mammoth Mountain,USA,Switzerland,World Cup,Slopestyle,17,144.40
+49,Huber Nicolas,Male,01-02-2023,Mammoth Mountain,USA,Switzerland,Qualification,Slopestyle,9,
+50,Huber Nicolas,Male,22-01-2023,Laax,SUI,Switzerland,World Cup,Slopestyle,8,349.20
+51,Huber Nicolas,Male,18-01-2023,Laax,SUI,Switzerland,Qualification,Slopestyle,6,
+52,Huber Nicolas,Male,14-01-2023,Kreischberg,AUT,Switzerland,World Cup,Big Air,11,204.90
+53,Huber Nicolas,Male,13-01-2023,Kreischberg,AUT,Switzerland,Qualification,Big Air,6,
+54,Huber Nicolas,Male,17-12-2022,Copper Mountain,USA,Switzerland,World Cup,Big Air,22,125.50
+55,Huber Nicolas,Male,15-12-2022,Copper Mountain,USA,Switzerland,Qualification,Big Air,14,
+56,Huber Nicolas,Male,10-12-2022,Edmonton,CAN,Switzerland,World Cup,Big Air,12,196.90
+57,Huber Nicolas,Male,09-12-2022,Edmonton,CAN,Switzerland,Qualification,Big Air,6,
+58,Huber Nicolas,Male,22-10-2022,Chur,SUI,Switzerland,World Cup,Big Air,22,113.90
+59,Huber Nicolas,Male,22-10-2022,Chur,SUI,Switzerland,Qualification,Big Air,9,
+60,Huber Nicolas,Male,08-10-2022,Cardrona Alpine Resort,NZL,Switzerland,Australian New Zealand Cup,Big Air,2,95.80
+61,Huber Nicolas,Male,07-10-2022,Cardrona Alpine Resort,NZL,Switzerland,Australian New Zealand Cup,Slopestyle,17,9.00
+62,Huber Nicolas,Male,09-04-2022,Corvatsch,SUI,Switzerland,European Cup Premium,Big Air,5,202.30
+63,Huber Nicolas,Male,07-04-2022,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,2,373.40
+64,Huber Nicolas,Male,27-03-2022,Silvaplana,SUI,Switzerland,World Cup,Slopestyle,6,351.60
+65,Huber Nicolas,Male,25-03-2022,Silvaplana,SUI,Switzerland,Qualification,Slopestyle,5,
+66,Huber Nicolas,Male,19-03-2022,Spindleruv Mlyn,CZE,Switzerland,World Cup,Slopestyle,8,202.00
+67,Huber Nicolas,Male,18-03-2022,Spindleruv Mlyn,CZE,Switzerland,Qualification,Slopestyle,8,
+68,Huber Nicolas,Male,06-03-2022,Bakuriani,GEO,Switzerland,World Cup,Slopestyle,10,57.10
+69,Huber Nicolas,Male,26-02-2022,Tyumen,RUS,Switzerland,Asian Cup,Big Air,1,180.00
+70,Huber Nicolas,Male,23-02-2022,Moscow,RUS,Switzerland,European Cup,Big Air,1,180.00
+71,Huber Nicolas,Male,18-02-2022,Davos,SUI,Switzerland,European Cup Premium,Big Air,2,215.60
+72,Huber Nicolas,Male,15-02-2022,Beijing,CHN,Switzerland,Olympic Winter Games,Big Air,14,162.90
+73,Huber Nicolas,Male,14-02-2022,Beijing,CHN,Switzerland,Qualification,Big Air,14,
+74,Huber Nicolas,Male,07-02-2022,Beijing,CHN,Switzerland,Olympic Winter Games,Slopestyle,20,92.60
+75,Huber Nicolas,Male,06-02-2022,Beijing,CHN,Switzerland,Qualification,Slopestyle,20,
+76,Huber Nicolas,Male,15-01-2022,Laax,SUI,Switzerland,World Cup,Slopestyle,20,127.80
+77,Huber Nicolas,Male,13-01-2022,Laax,SUI,Switzerland,Qualification,Slopestyle,8,
+78,Huber Nicolas,Male,08-01-2022,Mammoth Mountain,USA,Switzerland,World Cup,Slopestyle,44,26.30
+79,Huber Nicolas,Male,01-01-2022,Calgary,CAN,Switzerland,World Cup,Slopestyle,17,175.00
+80,Huber Nicolas,Male,31-12-2021,Calgary,CAN,Switzerland,Qualification,Slopestyle,9,
+81,Huber Nicolas,Male,04-12-2021,Steamboat,USA,Switzerland,World Cup,Big Air,60,4.40
+82,Huber Nicolas,Male,02-12-2021,Steamboat,USA,Switzerland,Qualification,Big Air,30,
+83,Huber Nicolas,Male,23-10-2021,Chur,SUI,Switzerland,World Cup,Big Air,18,172.30
+84,Huber Nicolas,Male,20-04-2021,Corvatsch,SUI,Switzerland,European Cup Premium,Slopestyle,8,138.41
+85,Huber Nicolas,Male,20-03-2021,Aspen,USA,Switzerland,World Cup,Slopestyle,21,171.77
+86,Huber Nicolas,Male,19-03-2021,Aspen,USA,Switzerland,Qualification,Slopestyle,11,
+87,Huber Nicolas,Male,16-03-2021,Aspen,USA,Switzerland,World Championships,Big Air,16,160.57
+88,Huber Nicolas,Male,14-03-2021,Aspen,USA,Switzerland,Qualification,Big Air,9,
+89,Huber Nicolas,Male,12-03-2021,Aspen,USA,Switzerland,World Championships,Slopestyle,27,128.57
+90,Huber Nicolas,Male,10-03-2021,Aspen,USA,Switzerland,Qualification,Slopestyle,12,
+91,Huber Nicolas,Male,27-02-2021,Moscow,RUS,Switzerland,European Cup,Big Air,1,180.00
+92,Huber Nicolas,Male,19-02-2021,Davos,SUI,Switzerland,European Cup,Big Air,2,298.61
+93,Huber Nicolas,Male,08-02-2021,Kopaonik,SRB,Switzerland,European Cup,Big Air,1,220.00
+94,Huber Nicolas,Male,31-01-2021,Crans Montana,SUI,Switzerland,European Cup,Slopestyle,1,360.00
+95,Huber Nicolas,Male,22-01-2021,Laax,SUI,Switzerland,World Cup,Slopestyle,10,227.97
+96,Huber Nicolas,Male,19-01-2021,Laax,SUI,Switzerland,Qualification,Slopestyle,2,
+97,Huber Nicolas,Male,09-01-2021,Kreischberg,AUT,Switzerland,Qualification,Big Air,10,
+98,Huber Nicolas,Male,09-01-2021,Kreischberg,AUT,Switzerland,World Cup,Big Air,22,166.49
+99,Huber Nicolas,Male,22-12-2020,Corvatsch,SUI,Switzerland,European Cup,Slopestyle,2,265.40
+100,Huber Nicolas,Male,26-11-2020,Glacier 3000,SUI,Switzerland,FIS,Slopestyle,2,182.69
+101,Huber Nicolas,Male,06-03-2020,Absolut Park Flachauwinkel,AUT,Switzerland,European Cup,Big Air,1,200.00
+102,Huber Nicolas,Male,29-02-2020,Moscow,RUS,Switzerland,European Cup Premium,Big Air,20,31.90
+103,Huber Nicolas,Male,21-02-2020,Davos,SUI,Switzerland,European Cup Premium,Big Air,2,176.00
+104,Huber Nicolas,Male,16-02-2020,Calgary,CAN,Switzerland,World Cup,Slopestyle,7,360.00
+105,Huber Nicolas,Male,14-02-2020,Calgary,CAN,Switzerland,Qualification,Slopestyle,6,
+106,Huber Nicolas,Male,23-01-2020,Seiseralm,ITA,Switzerland,World Cup,Slopestyle,7,360.00
+107,Huber Nicolas,Male,22-01-2020,Seiseralm,ITA,Switzerland,Qualification,Slopestyle,2,
+108,Huber Nicolas,Male,15-01-2020,Laax,SUI,Switzerland,World Cup,Slopestyle,17,140.00
+109,Huber Nicolas,Male,13-01-2020,Laax,SUI,Switzerland,Qualification,Slopestyle,3,
+110,Huber Nicolas,Male,20-12-2019,Atlanta,USA,Switzerland,World Cup,Big Air,29,36.00
+111,Huber Nicolas,Male,14-12-2019,Beijing,CHN,Switzerland,World Cup,Big Air,8,320.00
+112,Huber Nicolas,Male,12-12-2019,Beijing,CHN,Switzerland,Qualification,Big Air,4,
+113,Huber Nicolas,Male,02-11-2019,Modena SKIPASS,ITA,Switzerland,World Cup,Big Air,40,18.50
+114,Huber Nicolas,Male,24-08-2019,Cardrona,NZL,Switzerland,World Cup,Big Air,25,60.00
+115,Huber Nicolas,Male,23-08-2019,Cardrona,NZL,Switzerland,Qualification,Big Air,25,
+116,Huber Nicolas,Male,15-08-2019,Cardrona Alpine Resort,NZL,Switzerland,Australian New Zealand Cup,Slopestyle,10,93.60
+117,Huber Nicolas,Male,13-04-2019,Silvaplana,SUI,Switzerland,European Cup,Big Air,3,216.00
+118,Huber Nicolas,Male,28-03-2019,Sochi,RUS,Switzerland,European Cup,Big Air,2,128.00
+119,Huber Nicolas,Male,26-03-2019,Sochi,RUS,Switzerland,European Cup,Slopestyle,7,57.60
+120,Huber Nicolas,Male,16-03-2019,Quebec,CAN,Switzerland,World Cup,Big Air,13,200.00
+121,Huber Nicolas,Male,14-03-2019,Quebec,CAN,Switzerland,Qualification,Big Air,13,
+122,Huber Nicolas,Male,09-03-2019,Mammoth Mountain Resort,USA,Switzerland,World Cup,Slopestyle,26,50.00
+123,Huber Nicolas,Male,07-03-2019,Mammoth Mountain Resort,USA,Switzerland,Qualification,Slopestyle,16,
+124,Huber Nicolas,Male,22-02-2019,Davos,SUI,Switzerland,European Cup,Big Air,3,96.00
+125,Huber Nicolas,Male,10-02-2019,Park City,USA,Switzerland,World Championships,Slopestyle,40,18.50
+126,Huber Nicolas,Male,09-02-2019,Park City,USA,Switzerland,Qualification,Slopestyle,40,
+127,Huber Nicolas,Male,26-01-2019,Seiser Alm,ITA,Switzerland,World Cup,Slopestyle,15,160.00
+128,Huber Nicolas,Male,24-01-2019,Seiser Alm,ITA,Switzerland,Qualification,Slopestyle,6,
+129,Huber Nicolas,Male,18-01-2019,Laax,SUI,Switzerland,World Cup,Slopestyle,5,450.00
+130,Huber Nicolas,Male,16-01-2019,Laax,SUI,Switzerland,Qualification,Slopestyle,5,
+131,Huber Nicolas,Male,12-01-2019,Kreischberg,AUT,Switzerland,World Cup,Slopestyle,11,240.00
+132,Huber Nicolas,Male,11-01-2019,Kreischberg,AUT,Switzerland,Qualification,Slopestyle,7,
+133,Huber Nicolas,Male,21-12-2018,Secret Garden,CHN,Switzerland,World Cup,Slopestyle,19,120.00
+134,Huber Nicolas,Male,20-12-2018,Secret Garden,CHN,Switzerland,Qualification,Slopestyle,19,
+135,Huber Nicolas,Male,24-11-2018,Beijing,CHN,Switzerland,World Cup,Big Air,16,150.00
+136,Huber Nicolas,Male,23-11-2018,Beijing,CHN,Switzerland,Qualification,Big Air,7,
+137,Huber Nicolas,Male,03-11-2018,Modena SKIPASS,ITA,Switzerland,World Cup,Big Air,31,28.00
+138,Huber Nicolas,Male,08-09-2018,Cardrona,NZL,Switzerland,World Cup,Big Air,8,320.00
+139,Huber Nicolas,Male,06-09-2018,Cardrona,NZL,Switzerland,Qualification,Big Air,4,
+140,Huber Nicolas,Male,21-04-2018,Corvatsch,SUI,Switzerland,European Cup,Big Air,6,144.00
+141,Huber Nicolas,Male,18-04-2018,Corvatsch,SUI,Switzerland,European Cup,Slopestyle,2,256.00
+142,Huber Nicolas,Male,17-03-2018,Seiser Alm,ITA,Switzerland,World Cup,Slopestyle,18,130.00
+143,Huber Nicolas,Male,16-03-2018,Seiser Alm,ITA,Switzerland,Qualification,Slopestyle,4,
+144,Huber Nicolas,Male,24-02-2018,Alpensia Jumping Park,KOR,Switzerland,Olympic Winter Games,Big Air,25,60.00
+145,Huber Nicolas,Male,21-02-2018,Alpensia Jumping Park,KOR,Switzerland,Qualification,Big Air,13,
+146,Huber Nicolas,Male,11-02-2018,Phoenix Snow Park,KOR,Switzerland,Olympic Winter Games,Slopestyle,30,32.00
+147,Huber Nicolas,Male,10-02-2018,Phoenix Snow Park,KOR,Switzerland,Qualification,Slopestyle,16,
+148,Huber Nicolas,Male,02-12-2017,Moenchengladbach,GER,Switzerland,World Cup,Big Air,4,500.00
+149,Huber Nicolas,Male,25-11-2017,Beijing,CHN,Switzerland,World Cup,Big Air,19,120.00
+150,Huber Nicolas,Male,24-11-2017,Beijing,CHN,Switzerland,Qualification,Big Air,11,
+151,Huber Nicolas,Male,11-11-2017,Milan,ITA,Switzerland,World Cup,Big Air,11,240.00
+152,Huber Nicolas,Male,04-09-2017,Cardrona,NZL,Switzerland,World Cup,Slopestyle,10,260.00
+153,Huber Nicolas,Male,03-09-2017,Cardrona,NZL,Switzerland,Qualification,Slopestyle,7,
+154,Huber Nicolas,Male,17-03-2017,Sierra Nevada,ESP,Switzerland,World Championships,Big Air,45,17.00
+155,Huber Nicolas,Male,16-03-2017,Sierra Nevada,ESP,Switzerland,Qualification,Big Air,23,
+156,Huber Nicolas,Male,11-03-2017,Sierra Nevada,ESP,Switzerland,World Championships,Slopestyle,2,800.00
+157,Huber Nicolas,Male,09-03-2017,Sierra Nevada,ESP,Switzerland,Qualification,Slopestyle,4,
+158,Huber Nicolas,Male,25-02-2017,Davos,SUI,Switzerland,European Cup,Big Air,5,72.00
+159,Huber Nicolas,Male,17-02-2017,Goetschen,GER,Switzerland,European Cup,Big Air,2,128.00
+160,Huber Nicolas,Male,05-02-2017,Grindelwald,SUI,Switzerland,FIS,Slopestyle,11,12.00
+161,Huber Nicolas,Male,20-01-2017,Laax,SUI,Switzerland,World Cup,Slopestyle,27,45.00
+162,Huber Nicolas,Male,17-01-2017,Laax,SUI,Switzerland,Qualification,Slopestyle,8,
+163,Huber Nicolas,Male,27-11-2016,Kaunertal,AUT,Switzerland,FIS,Big Air,16,21.00
+164,Huber Nicolas,Male,26-11-2016,Kaunertal,AUT,Switzerland,European Cup,Slopestyle,2,128.00
+165,Huber Nicolas,Male,22-04-2016,Sils,SUI,Switzerland,European Cup,Big Air,6,88.00
