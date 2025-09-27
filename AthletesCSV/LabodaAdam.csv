@@ -1,35 +1,36 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Laboda Adam,Male,25-09-2025,Corralco,CHI,United States Of America,South American Cup,Snowboard Cross,10,
-1,Laboda Adam,Male,12-04-2025,Mt St. Anne,CAN,United States Of America,Nor-Am Cup,Snowboard Cross,29,8.64
-2,Laboda Adam,Male,11-04-2025,Mt St. Anne,CAN,United States Of America,Nor-Am Cup,Snowboard Cross,28,9.60
-3,Laboda Adam,Male,10-03-2025,Horseshoe Resort,CAN,United States Of America,National Junior Championships,Snowboard Cross,17,7.00
-4,Laboda Adam,Male,07-03-2025,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Snowboard Cross,37,3.10
-5,Laboda Adam,Male,06-03-2025,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Snowboard Cross,30,5.12
-6,Laboda Adam,Male,02-03-2025,Gore Mountain Ski Area,USA,United States Of America,FIS,Snowboard Cross,15,11.20
-7,Laboda Adam,Male,01-03-2025,Gore Mountain Ski Area,USA,United States Of America,Nor-Am Cup,Snowboard Cross,35,3.20
-8,Laboda Adam,Male,28-02-2025,Gore Mountain Ski Area,USA,United States Of America,Nor-Am Cup,Snowboard Cross,39,3.01
-9,Laboda Adam,Male,23-02-2025,Klinovec,CZE,United States Of America,FIS,Snowboard Cross,10,36.40
-10,Laboda Adam,Male,22-02-2025,Klinovec,CZE,United States Of America,FIS,Snowboard Cross,12,11.00
-11,Laboda Adam,Male,16-02-2025,Flumserberg,SUI,United States Of America,Junior Regional Cup,Snowboard Cross,17,15.40
-12,Laboda Adam,Male,15-02-2025,Flumserberg,SUI,United States Of America,Junior Regional Cup,Snowboard Cross,13,22.00
-13,Laboda Adam,Male,09-02-2025,Dolni Morava,CZE,United States Of America,FIS,Snowboard Cross,29,7.92
-14,Laboda Adam,Male,08-02-2025,Dolni Morava,CZE,United States Of America,National Championships,Snowboard Cross,18,33.80
-15,Laboda Adam,Male,04-02-2025,Steamboat Ski and Resort / Mount Werner,USA,United States Of America,Nor-Am Cup,Snowboard Cross,24,11.20
-16,Laboda Adam,Male,03-02-2025,Steamboat Ski and Resort / Mount Werner,USA,United States Of America,Nor-Am Cup,Snowboard Cross,23,12.80
-17,Laboda Adam,Male,01-12-2024,Pitztal,AUT,United States Of America,Junior,Snowboard Cross,36,2.36
-18,Laboda Adam,Male,30-11-2024,Pitztal,AUT,United States Of America,Qualification,Snowboard Cross,49,
-19,Laboda Adam,Male,30-11-2024,Pitztal,AUT,United States Of America,Junior,Snowboard Cross,49,1.90
-20,Laboda Adam,Male,19-03-2024,Steamboat Ski and Resort / Mount Werner,USA,United States Of America,FIS,Snowboard Cross,12,11.00
-21,Laboda Adam,Male,17-03-2024,Steamboat Ski and Resort / Mount Werner,USA,United States Of America,Nor-Am Cup,Snowboard Cross,25,9.60
-22,Laboda Adam,Male,16-03-2024,Steamboat Ski and Resort / Mount Werner,USA,United States Of America,Nor-Am Cup,Snowboard Cross,23,12.80
-23,Laboda Adam,Male,28-02-2024,Sunday River Resort,USA,United States Of America,Nor-Am Cup,Snowboard Cross,13,32.00
-24,Laboda Adam,Male,27-02-2024,Sunday River Resort,USA,United States Of America,Nor-Am Cup,Snowboard Cross,31,4.48
-25,Laboda Adam,Male,23-02-2024,Gore Mountain Ski Area,USA,United States Of America,FIS,Snowboard Cross,12,11.00
-26,Laboda Adam,Male,22-02-2024,Gore Mountain Ski Area,USA,United States Of America,Nor-Am Cup,Snowboard Cross,26,10.00
-27,Laboda Adam,Male,21-02-2024,Gore Mountain Ski Area,USA,United States Of America,Nor-Am Cup,Snowboard Cross,23,16.00
-28,Laboda Adam,Male,03-02-2024,Dolni Morava,CZE,United States Of America,Junior,Snowboard Cross,25,3.00
-29,Laboda Adam,Male,02-02-2024,Dolni Morava,CZE,United States Of America,Junior,Snowboard Cross,18,11.70
-30,Laboda Adam,Male,28-01-2024,Grasgehren,GER,United States Of America,Junior,Snowboard Cross,7,39.60
-31,Laboda Adam,Male,27-01-2024,Grasgehren,GER,United States Of America,Junior,Snowboard Cross,12,11.00
-32,Laboda Adam,Male,01-03-2023,Northstar California Resorts,USA,United States Of America,FIS,Slopestyle,15,10.40
-33,Laboda Adam,Male,09-03-2022,Northstar California Resorts,USA,United States Of America,FIS,Slopestyle,23,1.70
+0,Laboda Adam,Male,26-09-2025,Corralco,CHI,United States Of America,South American Cup,Snowboard Cross,17,
+1,Laboda Adam,Male,25-09-2025,Corralco,CHI,United States Of America,South American Cup,Snowboard Cross,10,
+2,Laboda Adam,Male,12-04-2025,Mt St. Anne,CAN,United States Of America,Nor-Am Cup,Snowboard Cross,29,8.64
+3,Laboda Adam,Male,11-04-2025,Mt St. Anne,CAN,United States Of America,Nor-Am Cup,Snowboard Cross,28,9.60
+4,Laboda Adam,Male,10-03-2025,Horseshoe Resort,CAN,United States Of America,National Junior Championships,Snowboard Cross,17,7.00
+5,Laboda Adam,Male,07-03-2025,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Snowboard Cross,37,3.10
+6,Laboda Adam,Male,06-03-2025,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Snowboard Cross,30,5.12
+7,Laboda Adam,Male,02-03-2025,Gore Mountain Ski Area,USA,United States Of America,FIS,Snowboard Cross,15,11.20
+8,Laboda Adam,Male,01-03-2025,Gore Mountain Ski Area,USA,United States Of America,Nor-Am Cup,Snowboard Cross,35,3.20
+9,Laboda Adam,Male,28-02-2025,Gore Mountain Ski Area,USA,United States Of America,Nor-Am Cup,Snowboard Cross,39,3.01
+10,Laboda Adam,Male,23-02-2025,Klinovec,CZE,United States Of America,FIS,Snowboard Cross,10,36.40
+11,Laboda Adam,Male,22-02-2025,Klinovec,CZE,United States Of America,FIS,Snowboard Cross,12,11.00
+12,Laboda Adam,Male,16-02-2025,Flumserberg,SUI,United States Of America,Junior Regional Cup,Snowboard Cross,17,15.40
+13,Laboda Adam,Male,15-02-2025,Flumserberg,SUI,United States Of America,Junior Regional Cup,Snowboard Cross,13,22.00
+14,Laboda Adam,Male,09-02-2025,Dolni Morava,CZE,United States Of America,FIS,Snowboard Cross,29,7.92
+15,Laboda Adam,Male,08-02-2025,Dolni Morava,CZE,United States Of America,National Championships,Snowboard Cross,18,33.80
+16,Laboda Adam,Male,04-02-2025,Steamboat Ski and Resort / Mount Werner,USA,United States Of America,Nor-Am Cup,Snowboard Cross,24,11.20
+17,Laboda Adam,Male,03-02-2025,Steamboat Ski and Resort / Mount Werner,USA,United States Of America,Nor-Am Cup,Snowboard Cross,23,12.80
+18,Laboda Adam,Male,01-12-2024,Pitztal,AUT,United States Of America,Junior,Snowboard Cross,36,2.36
+19,Laboda Adam,Male,30-11-2024,Pitztal,AUT,United States Of America,Qualification,Snowboard Cross,49,
+20,Laboda Adam,Male,30-11-2024,Pitztal,AUT,United States Of America,Junior,Snowboard Cross,49,1.90
+21,Laboda Adam,Male,19-03-2024,Steamboat Ski and Resort / Mount Werner,USA,United States Of America,FIS,Snowboard Cross,12,11.00
+22,Laboda Adam,Male,17-03-2024,Steamboat Ski and Resort / Mount Werner,USA,United States Of America,Nor-Am Cup,Snowboard Cross,25,9.60
+23,Laboda Adam,Male,16-03-2024,Steamboat Ski and Resort / Mount Werner,USA,United States Of America,Nor-Am Cup,Snowboard Cross,23,12.80
+24,Laboda Adam,Male,28-02-2024,Sunday River Resort,USA,United States Of America,Nor-Am Cup,Snowboard Cross,13,32.00
+25,Laboda Adam,Male,27-02-2024,Sunday River Resort,USA,United States Of America,Nor-Am Cup,Snowboard Cross,31,4.48
+26,Laboda Adam,Male,23-02-2024,Gore Mountain Ski Area,USA,United States Of America,FIS,Snowboard Cross,12,11.00
+27,Laboda Adam,Male,22-02-2024,Gore Mountain Ski Area,USA,United States Of America,Nor-Am Cup,Snowboard Cross,26,10.00
+28,Laboda Adam,Male,21-02-2024,Gore Mountain Ski Area,USA,United States Of America,Nor-Am Cup,Snowboard Cross,23,16.00
+29,Laboda Adam,Male,03-02-2024,Dolni Morava,CZE,United States Of America,Junior,Snowboard Cross,25,3.00
+30,Laboda Adam,Male,02-02-2024,Dolni Morava,CZE,United States Of America,Junior,Snowboard Cross,18,11.70
+31,Laboda Adam,Male,28-01-2024,Grasgehren,GER,United States Of America,Junior,Snowboard Cross,7,39.60
+32,Laboda Adam,Male,27-01-2024,Grasgehren,GER,United States Of America,Junior,Snowboard Cross,12,11.00
+33,Laboda Adam,Male,01-03-2023,Northstar California Resorts,USA,United States Of America,FIS,Slopestyle,15,10.40
+34,Laboda Adam,Male,09-03-2022,Northstar California Resorts,USA,United States Of America,FIS,Slopestyle,23,1.70
