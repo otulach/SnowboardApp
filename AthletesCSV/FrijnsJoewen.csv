@@ -1,115 +1,116 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Frijns Joewen,Male,01-04-2025,Kitzsteinhorn,AUT,Belgium,European Cup,Rail Event,10,34.00
-1,Frijns Joewen,Male,28-03-2025,Engadin,SUI,Belgium,World Championships,Big Air,42,70.40
-2,Frijns Joewen,Male,25-03-2025,Engadin,SUI,Belgium,Qualification,Big Air,19,
-3,Frijns Joewen,Male,21-03-2025,Engadin,SUI,Belgium,World Championships,Slopestyle,40,87.70
-4,Frijns Joewen,Male,20-03-2025,Engadin,SUI,Belgium,Qualification,Slopestyle,21,
-5,Frijns Joewen,Male,11-03-2025,Laax,SUI,Belgium,European Cup Premium,Slopestyle,35,37.40
-6,Frijns Joewen,Male,07-03-2025,Szczyrk,POL,Belgium,European Cup,Rail Event,3,81.20
-7,Frijns Joewen,Male,05-03-2025,Prato Nevoso,ITA,Belgium,European Cup,Big Air,4,68.60
-8,Frijns Joewen,Male,04-03-2025,Prato Nevoso,ITA,Belgium,National Championships,Slopestyle,2,82.40
-9,Frijns Joewen,Male,23-02-2025,Kotelnica,POL,Belgium,European Cup,Big Air,10,23.00
-10,Frijns Joewen,Male,13-02-2025,Davos,SUI,Belgium,European Cup,Rail Event,5,59.50
-11,Frijns Joewen,Male,09-02-2025,Mayrhofen,AUT,Belgium,FIS,Slopestyle,23,0.10
-12,Frijns Joewen,Male,15-01-2025,Seiser Alm,ITA,Belgium,European Cup,Slopestyle,42,4.20
-13,Frijns Joewen,Male,11-01-2025,Kreischberg,AUT,Belgium,Qualification,Big Air,28,
-14,Frijns Joewen,Male,11-01-2025,Kreischberg,AUT,Belgium,World Cup,Big Air,53,9.50
-15,Frijns Joewen,Male,05-01-2025,Klagenfurt,AUT,Belgium,Qualification,Big Air,15,
-16,Frijns Joewen,Male,05-01-2025,Klagenfurt,AUT,Belgium,World Cup,Big Air,24,127.50
-17,Frijns Joewen,Male,21-12-2024,Schilthorn,SUI,Belgium,FIS,Slopestyle,6,42.50
-18,Frijns Joewen,Male,07-12-2024,Den Haag,NED,Belgium,European Cup,Rail Event,3,80.70
-19,Frijns Joewen,Male,01-12-2024,Beijing,CHN,Belgium,World Cup,Big Air,52,5.00
-20,Frijns Joewen,Male,30-11-2024,Beijing,CHN,Belgium,Qualification,Big Air,27,
-21,Frijns Joewen,Male,15-11-2024,Glacier 3000,SUI,Belgium,FIS,Big Air,2,49.70
-22,Frijns Joewen,Male,19-10-2024,"Ski Dubai, Mall of the Emirates",UAE,Belgium,FIS,Rail Event,1,10.00
-23,Frijns Joewen,Male,05-10-2024,SnowWorld Landgraaf,NED,Belgium,FIS,Rail Event,1,50.00
-24,Frijns Joewen,Male,04-10-2024,SnowWorld Landgraaf,NED,Belgium,FIS,Slopestyle,6,25.80
-25,Frijns Joewen,Male,03-10-2024,SnowWorld Landgraaf,NED,Belgium,FIS,Slopestyle,4,35.10
-26,Frijns Joewen,Male,02-09-2024,Cardrona,NZL,Belgium,World Cup,Slopestyle,32,104.30
-27,Frijns Joewen,Male,31-08-2024,Cardrona,NZL,Belgium,Qualification,Slopestyle,19,
-28,Frijns Joewen,Male,14-04-2024,Corvatsch,SUI,Belgium,European Cup Premium,Big Air,72,16.90
-29,Frijns Joewen,Male,12-04-2024,Corvatsch,SUI,Belgium,European Cup Premium,Slopestyle,63,49.80
-30,Frijns Joewen,Male,12-03-2024,Laax,SUI,Belgium,European Cup Premium,Slopestyle,72,11.90
-31,Frijns Joewen,Male,22-02-2024,Prato Nevoso,ITA,Belgium,European Cup,Slopestyle,48,16.40
-32,Frijns Joewen,Male,15-02-2024,Davos,SUI,Belgium,European Cup,Big Air,29,12.90
-33,Frijns Joewen,Male,10-02-2024,Kotelnica Bialczanska,POL,Belgium,European Cup,Big Air,8,27.70
-34,Frijns Joewen,Male,05-01-2024,Font Romeu,FRA,Belgium,European Cup,Big Air,36,14.60
-35,Frijns Joewen,Male,04-01-2024,Font Romeu,FRA,Belgium,European Cup Premium,Slopestyle,30,39.90
-36,Frijns Joewen,Male,02-12-2023,Beijing,CHN,Belgium,World Cup,Big Air,34,54.00
-37,Frijns Joewen,Male,01-12-2023,Beijing,CHN,Belgium,Qualification,Big Air,16,
-38,Frijns Joewen,Male,14-10-2023,SnowWorld Landgraaf,NED,Belgium,FIS,Rail Event,3,
-39,Frijns Joewen,Male,13-10-2023,SnowWorld Landgraaf,NED,Belgium,FIS,Slopestyle,1,80.00
-40,Frijns Joewen,Male,12-10-2023,SnowWorld Landgraaf,NED,Belgium,FIS,Slopestyle,7,30.00
-41,Frijns Joewen,Male,22-04-2023,Kitzsteinhorn,AUT,Belgium,European Cup,Big Air,42,14.30
-42,Frijns Joewen,Male,21-04-2023,Kitzsteinhorn,AUT,Belgium,European Cup,Slopestyle,32,28.10
-43,Frijns Joewen,Male,17-04-2023,Corvatsch,SUI,Belgium,European Cup Premium,Big Air,32,48.50
-44,Frijns Joewen,Male,14-04-2023,Corvatsch,SUI,Belgium,European Cup Premium,Slopestyle,35,60.30
-45,Frijns Joewen,Male,29-03-2023,Leysin,SUI,Belgium,FIS,Big Air,5,95.00
-46,Frijns Joewen,Male,28-03-2023,Leysin,SUI,Belgium,FIS,Slopestyle,5,105.60
-47,Frijns Joewen,Male,20-03-2023,Mottolino Livigno,ITA,Belgium,European Cup,Slopestyle,17,49.00
-48,Frijns Joewen,Male,17-03-2023,Laax,SUI,Belgium,European Cup Premium,Slopestyle,50,52.50
-49,Frijns Joewen,Male,04-03-2023,Bakuriani,GEO,Belgium,World Championships,Big Air,37,28.80
-50,Frijns Joewen,Male,02-03-2023,Bakuriani,GEO,Belgium,Qualification,Big Air,19,
-51,Frijns Joewen,Male,27-02-2023,Bakuriani,GEO,Belgium,World Championships,Slopestyle,45,24.20
-52,Frijns Joewen,Male,24-02-2023,Bakuriani,GEO,Belgium,Qualification,Slopestyle,22,
-53,Frijns Joewen,Male,18-02-2023,Davos,SUI,Belgium,European Cup,Big Air,20,20.10
-54,Frijns Joewen,Male,04-02-2023,Font Romeu,FRA,Belgium,European Cup,Big Air,46,7.90
-55,Frijns Joewen,Male,02-02-2023,Font Romeu,FRA,Belgium,European Cup,Slopestyle,17,28.50
-56,Frijns Joewen,Male,25-01-2023,Prato Nevoso,ITA,Belgium,European Cup,Slopestyle,24,21.40
-57,Frijns Joewen,Male,07-10-2022,SnowWorld Landgraaf,NED,Belgium,FIS,Slopestyle,18,10.90
-58,Frijns Joewen,Male,06-10-2022,SnowWorld Landgraaf,NED,Belgium,FIS,Slopestyle,8,26.40
-59,Frijns Joewen,Male,09-04-2022,Corvatsch,SUI,Belgium,European Cup Premium,Big Air,42,16.50
-60,Frijns Joewen,Male,19-03-2022,Spindleruv Mlyn,CZE,Belgium,World Cup,Slopestyle,29,45.60
-61,Frijns Joewen,Male,18-03-2022,Spindleruv Mlyn,CZE,Belgium,Qualification,Slopestyle,15,
-62,Frijns Joewen,Male,26-02-2022,Götschen,GER,Belgium,European Cup,Big Air,12,50.30
-63,Frijns Joewen,Male,25-02-2022,Götschen,GER,Belgium,European Cup,Slopestyle,37,27.40
-64,Frijns Joewen,Male,23-02-2022,Moscow,RUS,Belgium,European Cup,Big Air,8,52.50
-65,Frijns Joewen,Male,18-02-2022,Davos,SUI,Belgium,European Cup Premium,Big Air,17,47.80
-66,Frijns Joewen,Male,23-01-2022,Prato Nevoso,ITA,Belgium,European Cup,Slopestyle,9,79.90
-67,Frijns Joewen,Male,19-11-2021,Landgraaf,NED,Belgium,European Cup,Slopestyle,17,41.50
-68,Frijns Joewen,Male,18-11-2021,Landgraaf,NED,Belgium,FIS,Slopestyle,7,87.30
-69,Frijns Joewen,Male,11-11-2021,Glacier 3000,SUI,Belgium,Open,Slopestyle,8,80.30
-70,Frijns Joewen,Male,08-10-2021,Landgraaf,NED,Belgium,FIS,Slopestyle,1,70.00
-71,Frijns Joewen,Male,04-03-2021,Flachauwinkel,AUT,Belgium,European Cup,Big Air,45,8.02
-72,Frijns Joewen,Male,22-02-2021,Götschen,GER,Belgium,European Cup,Big Air,19,35.60
-73,Frijns Joewen,Male,21-02-2021,Götschen,GER,Belgium,European Cup,Slopestyle,42,13.75
-74,Frijns Joewen,Male,19-02-2021,Davos,SUI,Belgium,European Cup,Big Air,47,13.39
-75,Frijns Joewen,Male,31-01-2021,Crans Montana,SUI,Belgium,European Cup,Slopestyle,68,8.55
-76,Frijns Joewen,Male,22-12-2020,Corvatsch,SUI,Belgium,European Cup,Slopestyle,43,16.65
-77,Frijns Joewen,Male,26-11-2020,Glacier 3000,SUI,Belgium,FIS,Slopestyle,29,32.51
-78,Frijns Joewen,Male,06-03-2020,Absolut Park Flachauwinkel,AUT,Belgium,European Cup,Big Air,11,48.00
-79,Frijns Joewen,Male,29-02-2020,Moscow,RUS,Belgium,European Cup Premium,Big Air,15,46.40
-80,Frijns Joewen,Male,21-02-2020,Davos,SUI,Belgium,European Cup Premium,Big Air,31,6.16
-81,Frijns Joewen,Male,19-01-2020,Vars,FRA,Belgium,European Cup,Slopestyle,6,64.00
-82,Frijns Joewen,Male,18-01-2020,Vars,FRA,Belgium,European Cup,Big Air,6,64.00
-83,Frijns Joewen,Male,21-11-2019,Landgraaf,NED,Belgium,European Cup,Slopestyle,14,28.80
-84,Frijns Joewen,Male,20-11-2019,Landgraaf,NED,Belgium,FIS,Slopestyle,5,72.00
-85,Frijns Joewen,Male,17-04-2019,Laax,BEL,Belgium,FIS,Big Air,13,44.00
-86,Frijns Joewen,Male,16-04-2019,Laax,BEL,Belgium,FIS,Slopestyle,12,48.40
-87,Frijns Joewen,Male,13-04-2019,Silvaplana,SUI,Belgium,European Cup,Big Air,25,21.60
-88,Frijns Joewen,Male,28-03-2019,Livigno,ITA,Belgium,European Cup,Slopestyle,DNS,
-89,Frijns Joewen,Male,22-03-2019,Laax,SUI,Belgium,European Cup,Slopestyle,31,4.48
-90,Frijns Joewen,Male,26-01-2019,Vars,FRA,Belgium,European Cup,Big Air,21,18.00
-91,Frijns Joewen,Male,25-01-2019,Vars,FRA,Belgium,European Cup,Slopestyle,5,72.00
-92,Frijns Joewen,Male,22-01-2019,Font Romeu,FRA,Belgium,European Cup,Big Air,DNS1,
-93,Frijns Joewen,Male,17-01-2019,Kreischberg,AUT,Belgium,European Cup,Big Air,29,6.48
-94,Frijns Joewen,Male,16-01-2019,Kreischberg,AUT,Belgium,European Cup,Slopestyle,24,11.20
-95,Frijns Joewen,Male,22-11-2018,Landgraaf,NED,Belgium,European Cup,Slopestyle,2,128.00
-96,Frijns Joewen,Male,21-11-2018,Landgraaf,NED,Belgium,FIS,Slopestyle,21,11.00
-97,Frijns Joewen,Male,10-03-2018,Pec pod Snezkou,CZE,Belgium,European Cup,Slopestyle,38,
-98,Frijns Joewen,Male,28-01-2018,Crans Montana,SUI,Belgium,European Cup,Big Air,3,96.00
-99,Frijns Joewen,Male,24-01-2018,Vars,FRA,Belgium,European Cup,Big Air,6,64.00
-100,Frijns Joewen,Male,23-01-2018,Vars,FRA,Belgium,European Cup,Slopestyle,3,96.00
-101,Frijns Joewen,Male,20-01-2018,Font Romeu,FRA,Belgium,European Cup,Slopestyle,5,72.00
-102,Frijns Joewen,Male,19-01-2018,Font Romeu,FRA,Belgium,European Cup,Big Air,15,25.60
-103,Frijns Joewen,Male,23-11-2017,Landgraaf,NED,Belgium,European Cup,Slopestyle,18,20.80
-104,Frijns Joewen,Male,22-11-2017,Landgraaf,NED,Belgium,FIS,Slopestyle,15,17.60
-105,Frijns Joewen,Male,25-02-2017,Davos,SUI,Belgium,European Cup,Big Air,17,22.40
-106,Frijns Joewen,Male,17-02-2017,Goetschen,GER,Belgium,European Cup,Big Air,28,6.40
-107,Frijns Joewen,Male,25-01-2017,Vars,FRA,Belgium,European Cup,Slopestyle,24,11.20
-108,Frijns Joewen,Male,24-01-2017,Vars,FRA,Belgium,European Cup,Slopestyle,15,25.60
-109,Frijns Joewen,Male,27-11-2016,Kaunertal,AUT,Belgium,FIS,Big Air,18,18.20
-110,Frijns Joewen,Male,26-11-2016,Kaunertal,AUT,Belgium,European Cup,Slopestyle,15,25.60
-111,Frijns Joewen,Male,10-11-2016,Landgraaf,NED,Belgium,European Cup,Slopestyle,16,27.00
-112,Frijns Joewen,Male,09-11-2016,Landgraaf,NED,Belgium,European Cup,Slopestyle,20,19.80
-113,Frijns Joewen,Male,16-01-2016,Davos,SUI,Belgium,European Cup,Big Air,15,32.00
+0,Frijns Joewen,Male,27-09-2025,Antwerpen,BEL,Belgium,European Cup,Rail Event,10,
+1,Frijns Joewen,Male,01-04-2025,Kitzsteinhorn,AUT,Belgium,European Cup,Rail Event,10,34.00
+2,Frijns Joewen,Male,28-03-2025,Engadin,SUI,Belgium,World Championships,Big Air,42,70.40
+3,Frijns Joewen,Male,25-03-2025,Engadin,SUI,Belgium,Qualification,Big Air,19,
+4,Frijns Joewen,Male,21-03-2025,Engadin,SUI,Belgium,World Championships,Slopestyle,40,87.70
+5,Frijns Joewen,Male,20-03-2025,Engadin,SUI,Belgium,Qualification,Slopestyle,21,
+6,Frijns Joewen,Male,11-03-2025,Laax,SUI,Belgium,European Cup Premium,Slopestyle,35,37.40
+7,Frijns Joewen,Male,07-03-2025,Szczyrk,POL,Belgium,European Cup,Rail Event,3,81.20
+8,Frijns Joewen,Male,05-03-2025,Prato Nevoso,ITA,Belgium,European Cup,Big Air,4,68.60
+9,Frijns Joewen,Male,04-03-2025,Prato Nevoso,ITA,Belgium,National Championships,Slopestyle,2,82.40
+10,Frijns Joewen,Male,23-02-2025,Kotelnica,POL,Belgium,European Cup,Big Air,10,23.00
+11,Frijns Joewen,Male,13-02-2025,Davos,SUI,Belgium,European Cup,Rail Event,5,59.50
+12,Frijns Joewen,Male,09-02-2025,Mayrhofen,AUT,Belgium,FIS,Slopestyle,23,0.10
+13,Frijns Joewen,Male,15-01-2025,Seiser Alm,ITA,Belgium,European Cup,Slopestyle,42,4.20
+14,Frijns Joewen,Male,11-01-2025,Kreischberg,AUT,Belgium,Qualification,Big Air,28,
+15,Frijns Joewen,Male,11-01-2025,Kreischberg,AUT,Belgium,World Cup,Big Air,53,9.50
+16,Frijns Joewen,Male,05-01-2025,Klagenfurt,AUT,Belgium,Qualification,Big Air,15,
+17,Frijns Joewen,Male,05-01-2025,Klagenfurt,AUT,Belgium,World Cup,Big Air,24,127.50
+18,Frijns Joewen,Male,21-12-2024,Schilthorn,SUI,Belgium,FIS,Slopestyle,6,42.50
+19,Frijns Joewen,Male,07-12-2024,Den Haag,NED,Belgium,European Cup,Rail Event,3,80.70
+20,Frijns Joewen,Male,01-12-2024,Beijing,CHN,Belgium,World Cup,Big Air,52,5.00
+21,Frijns Joewen,Male,30-11-2024,Beijing,CHN,Belgium,Qualification,Big Air,27,
+22,Frijns Joewen,Male,15-11-2024,Glacier 3000,SUI,Belgium,FIS,Big Air,2,49.70
+23,Frijns Joewen,Male,19-10-2024,"Ski Dubai, Mall of the Emirates",UAE,Belgium,FIS,Rail Event,1,10.00
+24,Frijns Joewen,Male,05-10-2024,SnowWorld Landgraaf,NED,Belgium,FIS,Rail Event,1,50.00
+25,Frijns Joewen,Male,04-10-2024,SnowWorld Landgraaf,NED,Belgium,FIS,Slopestyle,6,25.80
+26,Frijns Joewen,Male,03-10-2024,SnowWorld Landgraaf,NED,Belgium,FIS,Slopestyle,4,35.10
+27,Frijns Joewen,Male,02-09-2024,Cardrona,NZL,Belgium,World Cup,Slopestyle,32,104.30
+28,Frijns Joewen,Male,31-08-2024,Cardrona,NZL,Belgium,Qualification,Slopestyle,19,
+29,Frijns Joewen,Male,14-04-2024,Corvatsch,SUI,Belgium,European Cup Premium,Big Air,72,16.90
+30,Frijns Joewen,Male,12-04-2024,Corvatsch,SUI,Belgium,European Cup Premium,Slopestyle,63,49.80
+31,Frijns Joewen,Male,12-03-2024,Laax,SUI,Belgium,European Cup Premium,Slopestyle,72,11.90
+32,Frijns Joewen,Male,22-02-2024,Prato Nevoso,ITA,Belgium,European Cup,Slopestyle,48,16.40
+33,Frijns Joewen,Male,15-02-2024,Davos,SUI,Belgium,European Cup,Big Air,29,12.90
+34,Frijns Joewen,Male,10-02-2024,Kotelnica Bialczanska,POL,Belgium,European Cup,Big Air,8,27.70
+35,Frijns Joewen,Male,05-01-2024,Font Romeu,FRA,Belgium,European Cup,Big Air,36,14.60
+36,Frijns Joewen,Male,04-01-2024,Font Romeu,FRA,Belgium,European Cup Premium,Slopestyle,30,39.90
+37,Frijns Joewen,Male,02-12-2023,Beijing,CHN,Belgium,World Cup,Big Air,34,54.00
+38,Frijns Joewen,Male,01-12-2023,Beijing,CHN,Belgium,Qualification,Big Air,16,
+39,Frijns Joewen,Male,14-10-2023,SnowWorld Landgraaf,NED,Belgium,FIS,Rail Event,3,
+40,Frijns Joewen,Male,13-10-2023,SnowWorld Landgraaf,NED,Belgium,FIS,Slopestyle,1,80.00
+41,Frijns Joewen,Male,12-10-2023,SnowWorld Landgraaf,NED,Belgium,FIS,Slopestyle,7,30.00
+42,Frijns Joewen,Male,22-04-2023,Kitzsteinhorn,AUT,Belgium,European Cup,Big Air,42,14.30
+43,Frijns Joewen,Male,21-04-2023,Kitzsteinhorn,AUT,Belgium,European Cup,Slopestyle,32,28.10
+44,Frijns Joewen,Male,17-04-2023,Corvatsch,SUI,Belgium,European Cup Premium,Big Air,32,48.50
+45,Frijns Joewen,Male,14-04-2023,Corvatsch,SUI,Belgium,European Cup Premium,Slopestyle,35,60.30
+46,Frijns Joewen,Male,29-03-2023,Leysin,SUI,Belgium,FIS,Big Air,5,95.00
+47,Frijns Joewen,Male,28-03-2023,Leysin,SUI,Belgium,FIS,Slopestyle,5,105.60
+48,Frijns Joewen,Male,20-03-2023,Mottolino Livigno,ITA,Belgium,European Cup,Slopestyle,17,49.00
+49,Frijns Joewen,Male,17-03-2023,Laax,SUI,Belgium,European Cup Premium,Slopestyle,50,52.50
+50,Frijns Joewen,Male,04-03-2023,Bakuriani,GEO,Belgium,World Championships,Big Air,37,28.80
+51,Frijns Joewen,Male,02-03-2023,Bakuriani,GEO,Belgium,Qualification,Big Air,19,
+52,Frijns Joewen,Male,27-02-2023,Bakuriani,GEO,Belgium,World Championships,Slopestyle,45,24.20
+53,Frijns Joewen,Male,24-02-2023,Bakuriani,GEO,Belgium,Qualification,Slopestyle,22,
+54,Frijns Joewen,Male,18-02-2023,Davos,SUI,Belgium,European Cup,Big Air,20,20.10
+55,Frijns Joewen,Male,04-02-2023,Font Romeu,FRA,Belgium,European Cup,Big Air,46,7.90
+56,Frijns Joewen,Male,02-02-2023,Font Romeu,FRA,Belgium,European Cup,Slopestyle,17,28.50
+57,Frijns Joewen,Male,25-01-2023,Prato Nevoso,ITA,Belgium,European Cup,Slopestyle,24,21.40
+58,Frijns Joewen,Male,07-10-2022,SnowWorld Landgraaf,NED,Belgium,FIS,Slopestyle,18,10.90
+59,Frijns Joewen,Male,06-10-2022,SnowWorld Landgraaf,NED,Belgium,FIS,Slopestyle,8,26.40
+60,Frijns Joewen,Male,09-04-2022,Corvatsch,SUI,Belgium,European Cup Premium,Big Air,42,16.50
+61,Frijns Joewen,Male,19-03-2022,Spindleruv Mlyn,CZE,Belgium,World Cup,Slopestyle,29,45.60
+62,Frijns Joewen,Male,18-03-2022,Spindleruv Mlyn,CZE,Belgium,Qualification,Slopestyle,15,
+63,Frijns Joewen,Male,26-02-2022,Götschen,GER,Belgium,European Cup,Big Air,12,50.30
+64,Frijns Joewen,Male,25-02-2022,Götschen,GER,Belgium,European Cup,Slopestyle,37,27.40
+65,Frijns Joewen,Male,23-02-2022,Moscow,RUS,Belgium,European Cup,Big Air,8,52.50
+66,Frijns Joewen,Male,18-02-2022,Davos,SUI,Belgium,European Cup Premium,Big Air,17,47.80
+67,Frijns Joewen,Male,23-01-2022,Prato Nevoso,ITA,Belgium,European Cup,Slopestyle,9,79.90
+68,Frijns Joewen,Male,19-11-2021,Landgraaf,NED,Belgium,European Cup,Slopestyle,17,41.50
+69,Frijns Joewen,Male,18-11-2021,Landgraaf,NED,Belgium,FIS,Slopestyle,7,87.30
+70,Frijns Joewen,Male,11-11-2021,Glacier 3000,SUI,Belgium,Open,Slopestyle,8,80.30
+71,Frijns Joewen,Male,08-10-2021,Landgraaf,NED,Belgium,FIS,Slopestyle,1,70.00
+72,Frijns Joewen,Male,04-03-2021,Flachauwinkel,AUT,Belgium,European Cup,Big Air,45,8.02
+73,Frijns Joewen,Male,22-02-2021,Götschen,GER,Belgium,European Cup,Big Air,19,35.60
+74,Frijns Joewen,Male,21-02-2021,Götschen,GER,Belgium,European Cup,Slopestyle,42,13.75
+75,Frijns Joewen,Male,19-02-2021,Davos,SUI,Belgium,European Cup,Big Air,47,13.39
+76,Frijns Joewen,Male,31-01-2021,Crans Montana,SUI,Belgium,European Cup,Slopestyle,68,8.55
+77,Frijns Joewen,Male,22-12-2020,Corvatsch,SUI,Belgium,European Cup,Slopestyle,43,16.65
+78,Frijns Joewen,Male,26-11-2020,Glacier 3000,SUI,Belgium,FIS,Slopestyle,29,32.51
+79,Frijns Joewen,Male,06-03-2020,Absolut Park Flachauwinkel,AUT,Belgium,European Cup,Big Air,11,48.00
+80,Frijns Joewen,Male,29-02-2020,Moscow,RUS,Belgium,European Cup Premium,Big Air,15,46.40
+81,Frijns Joewen,Male,21-02-2020,Davos,SUI,Belgium,European Cup Premium,Big Air,31,6.16
+82,Frijns Joewen,Male,19-01-2020,Vars,FRA,Belgium,European Cup,Slopestyle,6,64.00
+83,Frijns Joewen,Male,18-01-2020,Vars,FRA,Belgium,European Cup,Big Air,6,64.00
+84,Frijns Joewen,Male,21-11-2019,Landgraaf,NED,Belgium,European Cup,Slopestyle,14,28.80
+85,Frijns Joewen,Male,20-11-2019,Landgraaf,NED,Belgium,FIS,Slopestyle,5,72.00
+86,Frijns Joewen,Male,17-04-2019,Laax,BEL,Belgium,FIS,Big Air,13,44.00
+87,Frijns Joewen,Male,16-04-2019,Laax,BEL,Belgium,FIS,Slopestyle,12,48.40
+88,Frijns Joewen,Male,13-04-2019,Silvaplana,SUI,Belgium,European Cup,Big Air,25,21.60
+89,Frijns Joewen,Male,28-03-2019,Livigno,ITA,Belgium,European Cup,Slopestyle,DNS,
+90,Frijns Joewen,Male,22-03-2019,Laax,SUI,Belgium,European Cup,Slopestyle,31,4.48
+91,Frijns Joewen,Male,26-01-2019,Vars,FRA,Belgium,European Cup,Big Air,21,18.00
+92,Frijns Joewen,Male,25-01-2019,Vars,FRA,Belgium,European Cup,Slopestyle,5,72.00
+93,Frijns Joewen,Male,22-01-2019,Font Romeu,FRA,Belgium,European Cup,Big Air,DNS1,
+94,Frijns Joewen,Male,17-01-2019,Kreischberg,AUT,Belgium,European Cup,Big Air,29,6.48
+95,Frijns Joewen,Male,16-01-2019,Kreischberg,AUT,Belgium,European Cup,Slopestyle,24,11.20
+96,Frijns Joewen,Male,22-11-2018,Landgraaf,NED,Belgium,European Cup,Slopestyle,2,128.00
+97,Frijns Joewen,Male,21-11-2018,Landgraaf,NED,Belgium,FIS,Slopestyle,21,11.00
+98,Frijns Joewen,Male,10-03-2018,Pec pod Snezkou,CZE,Belgium,European Cup,Slopestyle,38,
+99,Frijns Joewen,Male,28-01-2018,Crans Montana,SUI,Belgium,European Cup,Big Air,3,96.00
+100,Frijns Joewen,Male,24-01-2018,Vars,FRA,Belgium,European Cup,Big Air,6,64.00
+101,Frijns Joewen,Male,23-01-2018,Vars,FRA,Belgium,European Cup,Slopestyle,3,96.00
+102,Frijns Joewen,Male,20-01-2018,Font Romeu,FRA,Belgium,European Cup,Slopestyle,5,72.00
+103,Frijns Joewen,Male,19-01-2018,Font Romeu,FRA,Belgium,European Cup,Big Air,15,25.60
+104,Frijns Joewen,Male,23-11-2017,Landgraaf,NED,Belgium,European Cup,Slopestyle,18,20.80
+105,Frijns Joewen,Male,22-11-2017,Landgraaf,NED,Belgium,FIS,Slopestyle,15,17.60
+106,Frijns Joewen,Male,25-02-2017,Davos,SUI,Belgium,European Cup,Big Air,17,22.40
+107,Frijns Joewen,Male,17-02-2017,Goetschen,GER,Belgium,European Cup,Big Air,28,6.40
+108,Frijns Joewen,Male,25-01-2017,Vars,FRA,Belgium,European Cup,Slopestyle,24,11.20
+109,Frijns Joewen,Male,24-01-2017,Vars,FRA,Belgium,European Cup,Slopestyle,15,25.60
+110,Frijns Joewen,Male,27-11-2016,Kaunertal,AUT,Belgium,FIS,Big Air,18,18.20
+111,Frijns Joewen,Male,26-11-2016,Kaunertal,AUT,Belgium,European Cup,Slopestyle,15,25.60
+112,Frijns Joewen,Male,10-11-2016,Landgraaf,NED,Belgium,European Cup,Slopestyle,16,27.00
+113,Frijns Joewen,Male,09-11-2016,Landgraaf,NED,Belgium,European Cup,Slopestyle,20,19.80
+114,Frijns Joewen,Male,16-01-2016,Davos,SUI,Belgium,European Cup,Big Air,15,32.00
