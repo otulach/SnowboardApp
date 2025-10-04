@@ -1,60 +1,62 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Edwinsdottir Vildis,Female,13-04-2025,Klaeppen,SWE,Iceland,National Championships,Big Air,3,29.90
-1,Edwinsdottir Vildis,Female,11-04-2025,Klaeppen,SWE,Iceland,National Championships,Slopestyle,3,38.00
-2,Edwinsdottir Vildis,Female,22-03-2025,St. Anton,AUT,Iceland,FIS,Slopestyle,2,38.30
-3,Edwinsdottir Vildis,Female,11-03-2025,Laax,SUI,Iceland,European Cup Premium,Slopestyle,12,14.10
-4,Edwinsdottir Vildis,Female,08-02-2025,Klaeppen,SWE,Iceland,FIS,Slopestyle,1,50.00
-5,Edwinsdottir Vildis,Female,11-01-2025,Prato Nevoso,ITA,Iceland,European Cup,Slopestyle,19,6.20
-6,Edwinsdottir Vildis,Female,06-01-2025,Font Romeu,FRA,Iceland,FIS,Rail Event,5,12.50
-7,Edwinsdottir Vildis,Female,05-01-2025,Font Romeu,FRA,Iceland,European Cup Premium,Slopestyle,11,16.10
-8,Edwinsdottir Vildis,Female,05-10-2024,SnowWorld Landgraaf,NED,Iceland,FIS,Rail Event,6,18.80
-9,Edwinsdottir Vildis,Female,04-10-2024,SnowWorld Landgraaf,NED,Iceland,FIS,Slopestyle,9,14.70
-10,Edwinsdottir Vildis,Female,03-10-2024,SnowWorld Landgraaf,NED,Iceland,FIS,Slopestyle,8,17.20
-11,Edwinsdottir Vildis,Female,06-04-2024,Akureyri,ISL,Iceland,National Championships,Slopestyle,1,50.00
-12,Edwinsdottir Vildis,Female,06-04-2024,Akureyri,ISL,Iceland,National Championships,Big Air,1,50.00
-13,Edwinsdottir Vildis,Female,23-03-2024,Funaesdalen,SWE,Iceland,FIS,Slopestyle,6,0.10
-14,Edwinsdottir Vildis,Female,12-03-2024,Laax,SUI,Iceland,European Cup Premium,Slopestyle,25,0.10
-15,Edwinsdottir Vildis,Female,22-02-2024,Prato Nevoso,ITA,Iceland,European Cup,Slopestyle,23,0.10
-16,Edwinsdottir Vildis,Female,17-02-2024,Stockholm,SWE,Iceland,FIS,Slopestyle,2,0.20
-17,Edwinsdottir Vildis,Female,11-02-2024,Klaeppen,SWE,Iceland,FIS,Slopestyle,2,9.70
-18,Edwinsdottir Vildis,Female,16-04-2023,Akureyri,ISL,Iceland,National Championships,Big Air,1,50.00
-19,Edwinsdottir Vildis,Female,15-04-2023,Akureyri,ISL,Iceland,National Championships,Slopestyle,1,50.00
-20,Edwinsdottir Vildis,Female,01-04-2023,Klaeppen,SWE,Iceland,National Championships,Big Air,2,4.90
-21,Edwinsdottir Vildis,Female,31-03-2023,Klaeppen,SWE,Iceland,National Championships,Slopestyle,2,12.70
-22,Edwinsdottir Vildis,Female,26-03-2023,Funaesdalen,SWE,Iceland,FIS,Slopestyle,3,22.20
-23,Edwinsdottir Vildis,Female,18-02-2023,Jaervsoe,SWE,Iceland,FIS,Slopestyle,3,9.20
-24,Edwinsdottir Vildis,Female,12-02-2023,Klaeppen,SWE,Iceland,FIS,Slopestyle,4,0.10
-25,Edwinsdottir Vildis,Female,04-02-2023,Font Romeu,FRA,Iceland,European Cup,Big Air,13,10.90
-26,Edwinsdottir Vildis,Female,02-02-2023,Font Romeu,FRA,Iceland,European Cup,Slopestyle,17,2.30
-27,Edwinsdottir Vildis,Female,21-01-2023,Skelleftea,SWE,Iceland,FIS,Big Air,5,0.20
-28,Edwinsdottir Vildis,Female,29-11-2022,Glacier 3000,SUI,Iceland,FIS,Slopestyle,1,50.00
-29,Edwinsdottir Vildis,Female,09-04-2022,Funaesdalen,SWE,Iceland,FIS,Slopestyle,4,10.60
-30,Edwinsdottir Vildis,Female,02-04-2022,Klaeppen,SWE,Iceland,National Championships,Big Air,3,26.00
-31,Edwinsdottir Vildis,Female,01-04-2022,Klaeppen,SWE,Iceland,National Championships,Slopestyle,1,50.00
-32,Edwinsdottir Vildis,Female,19-03-2022,Jaervsoe,SWE,Iceland,FIS,Slopestyle,3,26.00
-33,Edwinsdottir Vildis,Female,13-03-2022,Akureyri,ISL,Iceland,FIS,Big Air,1,50.00
-34,Edwinsdottir Vildis,Female,12-03-2022,Akureyri,ISL,Iceland,FIS,Slopestyle,1,50.00
-35,Edwinsdottir Vildis,Female,26-02-2022,Götschen,GER,Iceland,European Cup,Big Air,11,25.90
-36,Edwinsdottir Vildis,Female,25-02-2022,Götschen,GER,Iceland,European Cup,Slopestyle,16,22.20
-37,Edwinsdottir Vildis,Female,13-02-2022,Klaeppen,SWE,Iceland,FIS,Slopestyle,1,50.00
-38,Edwinsdottir Vildis,Female,22-01-2022,Hemavan,SWE,Iceland,FIS,Slopestyle,2,19.10
-39,Edwinsdottir Vildis,Female,19-12-2021,Kiruna,SWE,Iceland,FIS,Slopestyle,7,14.00
-40,Edwinsdottir Vildis,Female,11-04-2021,Funaesdalen,SWE,Iceland,FIS,Slopestyle,2,35.16
-41,Edwinsdottir Vildis,Female,21-03-2021,Klaeppen,SWE,Iceland,National Championships,Big Air,3,25.98
-42,Edwinsdottir Vildis,Female,20-03-2021,Klaeppen,SWE,Iceland,National Championships,Slopestyle,3,28.31
-43,Edwinsdottir Vildis,Female,14-03-2021,Jarvsoe,SWE,Iceland,FIS,Slopestyle,4,22.09
-44,Edwinsdottir Vildis,Female,21-02-2021,Leksand ,SWE,Iceland,FIS,Slopestyle,2,6.33
-45,Edwinsdottir Vildis,Female,13-02-2021,Klaeppen,SWE,Iceland,FIS,Slopestyle,2,4.84
-46,Edwinsdottir Vildis,Female,30-01-2021,Hemavan,SWE,Iceland,FIS,Slopestyle,1,10.00
-47,Edwinsdottir Vildis,Female,08-03-2020,Reykjavik,ISL,Iceland,FIS,Slopestyle,7,18.00
-48,Edwinsdottir Vildis,Female,15-12-2019,Hemavan,SWE,Iceland,FIS,Slopestyle,5,22.50
-49,Edwinsdottir Vildis,Female,13-04-2019,Klaeppen,SWE,Iceland,FIS Junior World Championships,Big Air,34,5.28
-50,Edwinsdottir Vildis,Female,12-04-2019,Klaeppen,SWE,Iceland,Qualification,Big Air,19,
-51,Edwinsdottir Vildis,Female,09-04-2019,Klaeppen,SWE,Iceland,FIS Junior World Championships,Slopestyle,35,4.80
-52,Edwinsdottir Vildis,Female,08-04-2019,Klaeppen,SWE,Iceland,Qualification,Slopestyle,19,
-53,Edwinsdottir Vildis,Female,19-01-2019,Umeaa,SWE,Iceland,FIS,Big Air,1,
-54,Edwinsdottir Vildis,Female,21-04-2018,Tandaadalen,SWE,Iceland,FIS,Slopestyle,3,
-55,Edwinsdottir Vildis,Female,07-04-2018,Akureyri,ISL,Iceland,FIS,Slopestyle,1,50.00
-56,Edwinsdottir Vildis,Female,25-03-2018,Reykjavik,ISL,Iceland,National Championships,Slopestyle,1,50.00
-57,Edwinsdottir Vildis,Female,04-03-2018,Oddsskard,ISL,Iceland,FIS,Slopestyle,1,50.00
-58,Edwinsdottir Vildis,Female,18-02-2018,Kungsberget,SWE,Iceland,FIS,Slopestyle,1,
+0,Edwinsdottir Vildis,Female,03-10-2025,SnowWorld Landgraaf,NED,Iceland,FIS,Slopestyle,3,
+1,Edwinsdottir Vildis,Female,02-10-2025,SnowWorld Landgraaf,NED,Iceland,FIS,Slopestyle,2,
+2,Edwinsdottir Vildis,Female,13-04-2025,Klaeppen,SWE,Iceland,National Championships,Big Air,3,29.90
+3,Edwinsdottir Vildis,Female,11-04-2025,Klaeppen,SWE,Iceland,National Championships,Slopestyle,3,38.00
+4,Edwinsdottir Vildis,Female,22-03-2025,St. Anton,AUT,Iceland,FIS,Slopestyle,2,38.30
+5,Edwinsdottir Vildis,Female,11-03-2025,Laax,SUI,Iceland,European Cup Premium,Slopestyle,12,14.10
+6,Edwinsdottir Vildis,Female,08-02-2025,Klaeppen,SWE,Iceland,FIS,Slopestyle,1,50.00
+7,Edwinsdottir Vildis,Female,11-01-2025,Prato Nevoso,ITA,Iceland,European Cup,Slopestyle,19,6.20
+8,Edwinsdottir Vildis,Female,06-01-2025,Font Romeu,FRA,Iceland,FIS,Rail Event,5,12.50
+9,Edwinsdottir Vildis,Female,05-01-2025,Font Romeu,FRA,Iceland,European Cup Premium,Slopestyle,11,16.10
+10,Edwinsdottir Vildis,Female,05-10-2024,SnowWorld Landgraaf,NED,Iceland,FIS,Rail Event,6,18.80
+11,Edwinsdottir Vildis,Female,04-10-2024,SnowWorld Landgraaf,NED,Iceland,FIS,Slopestyle,9,14.70
+12,Edwinsdottir Vildis,Female,03-10-2024,SnowWorld Landgraaf,NED,Iceland,FIS,Slopestyle,8,17.20
+13,Edwinsdottir Vildis,Female,06-04-2024,Akureyri,ISL,Iceland,National Championships,Big Air,1,50.00
+14,Edwinsdottir Vildis,Female,06-04-2024,Akureyri,ISL,Iceland,National Championships,Slopestyle,1,50.00
+15,Edwinsdottir Vildis,Female,23-03-2024,Funaesdalen,SWE,Iceland,FIS,Slopestyle,6,0.10
+16,Edwinsdottir Vildis,Female,12-03-2024,Laax,SUI,Iceland,European Cup Premium,Slopestyle,25,0.10
+17,Edwinsdottir Vildis,Female,22-02-2024,Prato Nevoso,ITA,Iceland,European Cup,Slopestyle,23,0.10
+18,Edwinsdottir Vildis,Female,17-02-2024,Stockholm,SWE,Iceland,FIS,Slopestyle,2,0.20
+19,Edwinsdottir Vildis,Female,11-02-2024,Klaeppen,SWE,Iceland,FIS,Slopestyle,2,9.70
+20,Edwinsdottir Vildis,Female,16-04-2023,Akureyri,ISL,Iceland,National Championships,Big Air,1,50.00
+21,Edwinsdottir Vildis,Female,15-04-2023,Akureyri,ISL,Iceland,National Championships,Slopestyle,1,50.00
+22,Edwinsdottir Vildis,Female,01-04-2023,Klaeppen,SWE,Iceland,National Championships,Big Air,2,4.90
+23,Edwinsdottir Vildis,Female,31-03-2023,Klaeppen,SWE,Iceland,National Championships,Slopestyle,2,12.70
+24,Edwinsdottir Vildis,Female,26-03-2023,Funaesdalen,SWE,Iceland,FIS,Slopestyle,3,22.20
+25,Edwinsdottir Vildis,Female,18-02-2023,Jaervsoe,SWE,Iceland,FIS,Slopestyle,3,9.20
+26,Edwinsdottir Vildis,Female,12-02-2023,Klaeppen,SWE,Iceland,FIS,Slopestyle,4,0.10
+27,Edwinsdottir Vildis,Female,04-02-2023,Font Romeu,FRA,Iceland,European Cup,Big Air,13,10.90
+28,Edwinsdottir Vildis,Female,02-02-2023,Font Romeu,FRA,Iceland,European Cup,Slopestyle,17,2.30
+29,Edwinsdottir Vildis,Female,21-01-2023,Skelleftea,SWE,Iceland,FIS,Big Air,5,0.20
+30,Edwinsdottir Vildis,Female,29-11-2022,Glacier 3000,SUI,Iceland,FIS,Slopestyle,1,50.00
+31,Edwinsdottir Vildis,Female,09-04-2022,Funaesdalen,SWE,Iceland,FIS,Slopestyle,4,10.60
+32,Edwinsdottir Vildis,Female,02-04-2022,Klaeppen,SWE,Iceland,National Championships,Big Air,3,26.00
+33,Edwinsdottir Vildis,Female,01-04-2022,Klaeppen,SWE,Iceland,National Championships,Slopestyle,1,50.00
+34,Edwinsdottir Vildis,Female,19-03-2022,Jaervsoe,SWE,Iceland,FIS,Slopestyle,3,26.00
+35,Edwinsdottir Vildis,Female,13-03-2022,Akureyri,ISL,Iceland,FIS,Big Air,1,50.00
+36,Edwinsdottir Vildis,Female,12-03-2022,Akureyri,ISL,Iceland,FIS,Slopestyle,1,50.00
+37,Edwinsdottir Vildis,Female,26-02-2022,Götschen,GER,Iceland,European Cup,Big Air,11,25.90
+38,Edwinsdottir Vildis,Female,25-02-2022,Götschen,GER,Iceland,European Cup,Slopestyle,16,22.20
+39,Edwinsdottir Vildis,Female,13-02-2022,Klaeppen,SWE,Iceland,FIS,Slopestyle,1,50.00
+40,Edwinsdottir Vildis,Female,22-01-2022,Hemavan,SWE,Iceland,FIS,Slopestyle,2,19.10
+41,Edwinsdottir Vildis,Female,19-12-2021,Kiruna,SWE,Iceland,FIS,Slopestyle,7,14.00
+42,Edwinsdottir Vildis,Female,11-04-2021,Funaesdalen,SWE,Iceland,FIS,Slopestyle,2,35.16
+43,Edwinsdottir Vildis,Female,21-03-2021,Klaeppen,SWE,Iceland,National Championships,Big Air,3,25.98
+44,Edwinsdottir Vildis,Female,20-03-2021,Klaeppen,SWE,Iceland,National Championships,Slopestyle,3,28.31
+45,Edwinsdottir Vildis,Female,14-03-2021,Jarvsoe,SWE,Iceland,FIS,Slopestyle,4,22.09
+46,Edwinsdottir Vildis,Female,21-02-2021,Leksand ,SWE,Iceland,FIS,Slopestyle,2,6.33
+47,Edwinsdottir Vildis,Female,13-02-2021,Klaeppen,SWE,Iceland,FIS,Slopestyle,2,4.84
+48,Edwinsdottir Vildis,Female,30-01-2021,Hemavan,SWE,Iceland,FIS,Slopestyle,1,10.00
+49,Edwinsdottir Vildis,Female,08-03-2020,Reykjavik,ISL,Iceland,FIS,Slopestyle,7,18.00
+50,Edwinsdottir Vildis,Female,15-12-2019,Hemavan,SWE,Iceland,FIS,Slopestyle,5,22.50
+51,Edwinsdottir Vildis,Female,13-04-2019,Klaeppen,SWE,Iceland,FIS Junior World Championships,Big Air,34,5.28
+52,Edwinsdottir Vildis,Female,12-04-2019,Klaeppen,SWE,Iceland,Qualification,Big Air,19,
+53,Edwinsdottir Vildis,Female,09-04-2019,Klaeppen,SWE,Iceland,FIS Junior World Championships,Slopestyle,35,4.80
+54,Edwinsdottir Vildis,Female,08-04-2019,Klaeppen,SWE,Iceland,Qualification,Slopestyle,19,
+55,Edwinsdottir Vildis,Female,19-01-2019,Umeaa,SWE,Iceland,FIS,Big Air,1,
+56,Edwinsdottir Vildis,Female,21-04-2018,Tandaadalen,SWE,Iceland,FIS,Slopestyle,3,
+57,Edwinsdottir Vildis,Female,07-04-2018,Akureyri,ISL,Iceland,FIS,Slopestyle,1,50.00
+58,Edwinsdottir Vildis,Female,25-03-2018,Reykjavik,ISL,Iceland,National Championships,Slopestyle,1,50.00
+59,Edwinsdottir Vildis,Female,04-03-2018,Oddsskard,ISL,Iceland,FIS,Slopestyle,1,50.00
+60,Edwinsdottir Vildis,Female,18-02-2018,Kungsberget,SWE,Iceland,FIS,Slopestyle,1,

@@ -1,30 +1,32 @@
 ,Name,Gender,Date,Location,Country,Nation,Category,Discipline,Position,FIS Points
-0,Brienza Giada,Female,15-08-2025,The Remarkables,NZL,United States Of America,Australian New Zealand Cup,Slopestyle,3,90.70
-1,Brienza Giada,Female,03-04-2025,"Copper Mountain, CO",USA,United States Of America,National Championships,Slopestyle,3,51.00
-2,Brienza Giada,Female,02-04-2025,"Copper Mountain, CO",USA,United States Of America,National Championships,Halfpipe,2,35.20
-3,Brienza Giada,Female,29-03-2025,"Copper Mountain, CO",USA,United States Of America,National Championships,Rail Event,6,14.20
-4,Brienza Giada,Female,21-03-2025,"Mammoth Mountain, CA",USA,United States Of America,Nor-Am Cup,Big Air,4,25.50
-5,Brienza Giada,Female,20-03-2025,"Mammoth Mountain, CA",USA,United States Of America,Nor-Am Cup,Slopestyle,10,11.20
-6,Brienza Giada,Female,10-03-2025,"Park City, UT",USA,United States Of America,FIS,Halfpipe,DNS,
-7,Brienza Giada,Female,10-03-2025,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Big Air,3,77.20
-8,Brienza Giada,Female,09-03-2025,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,4,64.00
-9,Brienza Giada,Female,05-03-2025,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,5,58.60
-10,Brienza Giada,Female,04-03-2025,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,6,59.40
-11,Brienza Giada,Female,26-02-2025,Winsport Calgary,CAN,United States Of America,Nor-Am Cup Premium,Big Air,7,63.60
-12,Brienza Giada,Female,25-02-2025,Winsport Calgary,CAN,United States Of America,Nor-Am Cup Premium,Slopestyle,17,0.20
-13,Brienza Giada,Female,12-02-2025,Aspen / Highlands,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,5,119.70
-14,Brienza Giada,Female,13-01-2025,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,2,98.00
-15,Brienza Giada,Female,12-01-2025,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,5,55.80
-16,Brienza Giada,Female,09-01-2025,"Copper Mountain, CO",USA,United States Of America,FIS,Halfpipe,6,43.30
-17,Brienza Giada,Female,26-08-2024,Cardrona,NZL,United States Of America,Australian New Zealand Cup Premium,Halfpipe,3,62.40
-18,Brienza Giada,Female,17-08-2024,The Remarkables,NZL,United States Of America,Australian New Zealand Cup,Slopestyle,9,21.70
-19,Brienza Giada,Female,18-03-2024,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup Premium,Halfpipe,12,24.00
-20,Brienza Giada,Female,18-03-2024,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,20,3.30
-21,Brienza Giada,Female,06-03-2024,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Halfpipe,4,26.20
-22,Brienza Giada,Female,04-03-2024,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Slopestyle,DNS,
-23,Brienza Giada,Female,27-02-2024,Northstar California Resorts,USA,United States Of America,FIS,Slopestyle,11,3.70
-24,Brienza Giada,Female,27-02-2024,Northstar California Resorts,USA,United States Of America,FIS,Halfpipe,3,22.20
-25,Brienza Giada,Female,16-02-2024,Woodward - Park City,USA,United States Of America,FIS,Slopestyle,DNS,
-26,Brienza Giada,Female,13-02-2024,"Park City, UT",USA,United States Of America,FIS,Halfpipe,2,39.00
-27,Brienza Giada,Female,31-01-2024,Mount Snow,USA,United States Of America,FIS,Slopestyle,6,6.00
-28,Brienza Giada,Female,10-01-2024,"Copper Mountain, CO",USA,United States Of America,FIS,Halfpipe,9,9.90
+0,Brienza Giada,Female,02-10-2025,Cardrona Alpine Resort,NZL,United States Of America,Australian New Zealand Cup,Big Air,10,0.20
+1,Brienza Giada,Female,01-10-2025,Cardrona Alpine Resort,NZL,United States Of America,Australian New Zealand Cup,Slopestyle,14,7.70
+2,Brienza Giada,Female,15-08-2025,The Remarkables,NZL,United States Of America,Australian New Zealand Cup,Slopestyle,3,90.70
+3,Brienza Giada,Female,03-04-2025,"Copper Mountain, CO",USA,United States Of America,National Championships,Slopestyle,3,51.00
+4,Brienza Giada,Female,02-04-2025,"Copper Mountain, CO",USA,United States Of America,National Championships,Halfpipe,2,35.20
+5,Brienza Giada,Female,29-03-2025,"Copper Mountain, CO",USA,United States Of America,National Championships,Rail Event,6,14.20
+6,Brienza Giada,Female,21-03-2025,"Mammoth Mountain, CA",USA,United States Of America,Nor-Am Cup,Big Air,4,25.50
+7,Brienza Giada,Female,20-03-2025,"Mammoth Mountain, CA",USA,United States Of America,Nor-Am Cup,Slopestyle,10,11.20
+8,Brienza Giada,Female,10-03-2025,"Park City, UT",USA,United States Of America,FIS,Halfpipe,DNS,
+9,Brienza Giada,Female,10-03-2025,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Big Air,3,77.20
+10,Brienza Giada,Female,09-03-2025,Horseshoe Resort,CAN,United States Of America,Nor-Am Cup,Slopestyle,4,64.00
+11,Brienza Giada,Female,05-03-2025,Stoneham,CAN,United States Of America,Nor-Am Cup,Big Air,5,58.60
+12,Brienza Giada,Female,04-03-2025,Stoneham,CAN,United States Of America,Nor-Am Cup,Slopestyle,6,59.40
+13,Brienza Giada,Female,26-02-2025,Winsport Calgary,CAN,United States Of America,Nor-Am Cup Premium,Big Air,7,63.60
+14,Brienza Giada,Female,25-02-2025,Winsport Calgary,CAN,United States Of America,Nor-Am Cup Premium,Slopestyle,17,0.20
+15,Brienza Giada,Female,12-02-2025,Aspen / Highlands,USA,United States Of America,Nor-Am Cup Premium,Slopestyle,5,119.70
+16,Brienza Giada,Female,13-01-2025,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Slopestyle,2,98.00
+17,Brienza Giada,Female,12-01-2025,"Copper Mountain, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,5,55.80
+18,Brienza Giada,Female,09-01-2025,"Copper Mountain, CO",USA,United States Of America,FIS,Halfpipe,6,43.30
+19,Brienza Giada,Female,26-08-2024,Cardrona,NZL,United States Of America,Australian New Zealand Cup Premium,Halfpipe,3,62.40
+20,Brienza Giada,Female,17-08-2024,The Remarkables,NZL,United States Of America,Australian New Zealand Cup,Slopestyle,9,21.70
+21,Brienza Giada,Female,18-03-2024,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup,Halfpipe,20,3.30
+22,Brienza Giada,Female,18-03-2024,"Aspen Snowmass, CO",USA,United States Of America,Nor-Am Cup Premium,Halfpipe,12,24.00
+23,Brienza Giada,Female,06-03-2024,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Halfpipe,4,26.20
+24,Brienza Giada,Female,04-03-2024,Mammoth Mountain Ski Resort,USA,United States Of America,FIS,Slopestyle,DNS,
+25,Brienza Giada,Female,27-02-2024,Northstar California Resorts,USA,United States Of America,FIS,Slopestyle,11,3.70
+26,Brienza Giada,Female,27-02-2024,Northstar California Resorts,USA,United States Of America,FIS,Halfpipe,3,22.20
+27,Brienza Giada,Female,16-02-2024,Woodward - Park City,USA,United States Of America,FIS,Slopestyle,DNS,
+28,Brienza Giada,Female,13-02-2024,"Park City, UT",USA,United States Of America,FIS,Halfpipe,2,39.00
+29,Brienza Giada,Female,31-01-2024,Mount Snow,USA,United States Of America,FIS,Slopestyle,6,6.00
+30,Brienza Giada,Female,10-01-2024,"Copper Mountain, CO",USA,United States Of America,FIS,Halfpipe,9,9.90
